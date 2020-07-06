@@ -1,0 +1,3 @@
+[submodule "roman_gardens/themes/beautifulhugo"]
+	path = roman_gardens/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
