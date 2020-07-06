@@ -1,3 +1,6 @@
 [submodule "roman_gardens/themes/beautifulhugo"]
 	path = roman_gardens/themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "roman_gardens/themes/mainroad"]
+	path = roman_gardens/themes/mainroad
+	url = https://github.com/vimux/mainroad

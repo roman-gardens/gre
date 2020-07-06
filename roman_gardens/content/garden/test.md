@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Test"
+date: 2020-07-06T15:36:34-04:00
 article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
 editor: NAME_OF_EDITOR
@@ -51,37 +51,28 @@ A sublocation is any area larger than an individual garden, but located within a
 
 <!-- 
 ![ALT_TEXT](IMG_URL)
-*CAPTION*
+*CAPTION; RIGHTS_STATEMENT*
 -->
 
 ## Plans
 
 <!-- 
 ![ALT_TEXT](IMG_URL)
-*CAPTION*
+*CAPTION; RIGHTS_STATEMENT*
 -->
 
 ## Images
 
 <!-- 
 ![ALT_TEXT](IMG_URL)
-*CAPTION*
+*CAPTION; RIGHTS_STATEMENT*
 -->
-
-## Dates
-<!-- Format: 0000 {BCE|CE} – 0000 {BCE|CE} -->
-<!-- N.B. Always include BCE/CE on both numbers for machine readibility. -->
-<!-- 23 BCE – 5 CE -->
 
 ## Bibliography
 
 <!-- 
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL) 
 -->
-
-### Periodo ID
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
@@ -95,11 +86,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Contributor
 
-<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
+[AUTHOR_NAME](AUTHOR_LINK)
 
 ### ORCID
 
-<!-- [ORCID](https://orcid.org/ORCID) -->
+[ORCID](https://orcid.org/ORCID)
 
 ## Publication date
 

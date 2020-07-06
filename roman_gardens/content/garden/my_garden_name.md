@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "My_garden_name"
+date: 2020-07-06T16:15:12-04:00
 article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
 editor: NAME_OF_EDITOR
@@ -95,11 +95,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Contributor
 
-<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
+[AUTHOR_NAME](AUTHOR_LINK)
 
 ### ORCID
 
-<!-- [ORCID](https://orcid.org/ORCID) -->
+[ORCID](https://orcid.org/ORCID)
 
 ## Publication date
 
