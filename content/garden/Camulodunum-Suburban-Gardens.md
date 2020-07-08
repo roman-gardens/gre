@@ -37,12 +37,11 @@ Outside the walls of the city, utilitarian gardens were planted, possibly in the
 
 ## Images
 
-![Image not found](IMG_URL)  
 *Fig. 1: Area outside the Balkerne gate before widening of
 the town ditch. Details of the beds in the
 middle of the section of are gardens in the foreground are based on excavation. From Crummy, City of
 Victory, p. 42*
-<!--despite folder with images for Britannia, some appear to be missing-->
+<!--The figure doesn't appear to be in the Britannia province image folder.-->
 
 
 ## Dates
