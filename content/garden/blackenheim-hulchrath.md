@@ -71,10 +71,8 @@ To the northeast of the house was an open courtyard flanked by outbuildings and 
 Unspecified
 
 ## Bibliography
-
-<!--
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+- H. G. Horn, ed., *Die Römer in Nordrhein-Westfalen*, Stuttgart, 1987, pp. 361-63, figs. 306-308. [(worldcat)](http://www.worldcat.org/oclc/456209115)
+- P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule.* Suppl. Gallia 51, Paris, 1992, pp. 192-193, fig. 5. [(worldcat)](http://www.worldcat.org/oclc/407704732)
 
 ### Periodo ID
 
@@ -90,12 +88,10 @@ Unspecified
 [Maureen Carroll](link)
 
 ### ORCID
-
-<!-- [ORCID](https://orcid.org/ORCID) -->
+[0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032)
 
 ## Publication date
-
-<!-- DATE -->
+08 July 2020
 
 ## Related articles
 
