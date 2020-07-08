@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Gardens of the Roman Empire"
 theme = "mainroad"
-publishDir = "../docs"
+publishDir = "docs"
 
 [params]
   mainSections = ["about", "garden"]
