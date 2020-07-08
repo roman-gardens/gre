@@ -33,7 +33,7 @@ Britain is geographically and geologically diverse, and it was characterized in 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-[PLEIADES_ID](https://pleiades.stoa.org/places/981513/?searchterm=britannia*)
+[981513](https://pleiades.stoa.org/places/981513)
 
 ### TGN ID
 [TGN_ID](http://vocab.getty.edu/page/tgn/7030316)
@@ -44,7 +44,7 @@ Britain is geographically and geologically diverse, and it was characterized in 
 
 ### ORCID
 
-[ORCID](https://orcid.org/0000-0001-9958-8032)
+[0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032)
 
 ## Publication date
 

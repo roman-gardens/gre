@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://christiancasey.github.io/</loc>
-    <lastmod>2020-07-08T17:22:37-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/province/</loc>
     <lastmod>2020-07-08T17:22:37-04:00</lastmod>
   </url>
@@ -28,22 +23,27 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/garden/darenth-rural-villa/</loc>
+    <loc>https://christiancasey.github.io/</loc>
+    <lastmod>2020-07-08T10:39:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/garden/darenth_rural_villa/</loc>
     <lastmod>2020-07-08T12:08:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/garden/chester-tomb-painting/</loc>
+    <loc>https://christiancasey.github.io/garden/chester_tomb_painting/</loc>
     <lastmod>2020-07-08T08:58:47-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/garden/chedworth-rural-villa/</loc>
+    <loc>https://christiancasey.github.io/garden/chedworth_rural_villa/</loc>
     <lastmod>2020-07-08T08:19:06-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/garden/bancroft-rural-villa/</loc>
+    <loc>https://christiancasey.github.io/garden/bancroft_rural_villa/</loc>
     <lastmod>2020-07-07T18:04:20-04:00</lastmod>
   </url>
   
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/garden/camulodunum-suburban-gardens/</loc>
+    <loc>https://christiancasey.github.io/garden/camulodunum_suburban_gardens/</loc>
     <lastmod>2020-07-06T16:47:36-04:00</lastmod>
   </url>
   

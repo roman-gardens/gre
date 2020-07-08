@@ -59,7 +59,7 @@ South of the western range of rooms was a large, open space measuring 14.6 x 58.
 
 ### Pleiades ID
 
-[PLEIADES_ID](https://pleiades.stoa.org/places/79413)
+[79413](https://pleiades.stoa.org/places/79413)
 
 ### TGN ID
 
@@ -71,7 +71,7 @@ South of the western range of rooms was a large, open space measuring 14.6 x 58.
 
 ### ORCID
 
-[Maureen Carroll ORCID](https://orcid.org/0000-0001-9958-8032)
+[0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032)
 
 ## Publication date
 

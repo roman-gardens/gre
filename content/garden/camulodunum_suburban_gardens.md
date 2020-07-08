@@ -57,7 +57,7 @@ Format: ~201 CE – ~300 CE
 <!--[PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID)-->
 
 ### Pleiades ID
-[PLEIADES_ID](https://pleiades.stoa.org/places/79393)
+[79393](https://pleiades.stoa.org/places/79393)
 
 
 ### TGN ID

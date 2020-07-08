@@ -52,7 +52,7 @@ Parts of the villa may date to the early 3rd century A.D. at the latest, but ext
 
 ### Pleiades ID
 
-[PLEIADES_ID](https://pleiades.stoa.org/places/79383)
+[79383](https://pleiades.stoa.org/places/79383)
 
 ### TGN ID
 
@@ -64,7 +64,7 @@ Parts of the villa may date to the early 3rd century A.D. at the latest, but ext
 
 ### ORCID
 
-[Maureen Carroll ORCID](https://orcid.org/0000-0001-9958-8032)
+[0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032)
 
 ## Publication date
 
