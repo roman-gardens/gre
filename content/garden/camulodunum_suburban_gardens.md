@@ -57,11 +57,11 @@ Format: ~201 CE – ~300 CE
 <!--[PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID)-->
 
 ### Pleiades ID
-[PLEIADES_ID](https://pleiades.stoa.org/places/79393)
+[79393](https://pleiades.stoa.org/places/79393)
 
 
 ### TGN ID
-[TGN_ID](http://vocab.getty.edu/page/tgn/7011866)
+[7011866](http://vocab.getty.edu/page/tgn/7011866)
 
 ## Contributor
 
@@ -69,7 +69,7 @@ Format: ~201 CE – ~300 CE
 
 ### ORCID
 
-[Maureen Carroll ORCID](https://orcid.org/0000-0001-9958-8032)
+[0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032)
 
 ## Publication date
 

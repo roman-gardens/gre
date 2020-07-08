@@ -39,11 +39,11 @@ Toynbee’s suggestion that a military tombstone from Chester depicting a row of
 
 ### Pleiades ID
 
-[PLEIADES_ID](https://pleiades.stoa.org/places/89144)
+[89144](https://pleiades.stoa.org/places/89144)
 
 ### TGN ID
 
-[TGN_ID]( http://vocab.getty.edu/page/tgn/7026064)
+[7026064]( http://vocab.getty.edu/page/tgn/7026064)
 
 ## Contributor
 
@@ -51,7 +51,7 @@ Toynbee’s suggestion that a military tombstone from Chester depicting a row of
 
 ### ORCID
 
-[John Bodel ORCID](https://orcid.org/0000-0003-1820-6368)
+[0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368)
 
 ## Publication date
 
