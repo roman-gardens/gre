@@ -4,7 +4,7 @@ date: 2020-07-08T12:58:55-04:00
 article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
 editor: NAME_OF_EDITOR
-draft: true
+draft: false
 ---
 
 # Province
