@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gardens on Gardens of the Roman Empire</title>
+    <link>http://example.org/garden/</link>
+    <description>Recent content in Gardens on Gardens of the Roman Empire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jul 2020 12:08:30 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/garden/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Darenth Rural Villa</title>
+      <link>http://example.org/garden/darenth-rural-villa/</link>
+      <pubDate>Wed, 08 Jul 2020 12:08:30 -0400</pubDate>
+      
+      <guid>http://example.org/garden/darenth-rural-villa/</guid>
+      <description>Province Britannia
+Location Darenth
+Garden Rural Villa
+Keywords piscinae
+villae rusticae
+waterspouts
+Garden Description Excavations at this site of a Roman villa in Kent uncovered a large rectangular masonry pool in the courtyard, which was enclosed by buildings on the north, west, and east (Fig. 1). The villa buildings took up an area of 150 x 225 meters in total, including the courtyard with a width of 26.5 meters. Occupation at the site began after A.</description>
+    </item>
+    
+    <item>
+      <title>Chester Tomb Painting</title>
+      <link>http://example.org/garden/chester-tomb-painting/</link>
+      <pubDate>Wed, 08 Jul 2020 08:58:47 -0400</pubDate>
+      
+      <guid>http://example.org/garden/chester-tomb-painting/</guid>
+      <description>Province Britannia
+Location Chester
+Garden Tomb Painting
+Keywords funerary buildings tombs
+Garden Description Toynbee’s suggestion that a military tombstone from Chester depicting a row of three gabled buildings with stylized trees or shrubs planted in front of the two at the sides perhaps represents a tomb garden with tomb and flanking funerary buildings, though plausible, cannot in itself be taken to show that tomb gardens existed in Roman Britain; it would, however, suggest that the concept of planting at tombs was regarded as conventionally Roman and appropriate.</description>
+    </item>
+    
+    <item>
+      <title>Chedworth Rural Villa</title>
+      <link>http://example.org/garden/chedworth-rural-villa/</link>
+      <pubDate>Wed, 08 Jul 2020 08:19:06 -0400</pubDate>
+      
+      <guid>http://example.org/garden/chedworth-rural-villa/</guid>
+      <description>Province Britannia
+Location Chedworth
+Garden Rural Villa
+Keywords balnea
+mosaics (visual works)
+sherds
+villae rusticae
+Garden Description This Roman villa in Gloucestershire was partially excavated in the late 19th century, but only the built features and their mosaic floors appear to have been of interest to the Victorian diggers. Excavations in the courtyard conducted between 2000 and 2002 revealed that earlier excavators had not disturbed the courtyard.
+Parts of the villa may date to the early 3rd century A.</description>
+    </item>
+    
+    <item>
+      <title>Bancroft Rural Villa</title>
+      <link>http://example.org/garden/bancroft-rural-villa/</link>
+      <pubDate>Tue, 07 Jul 2020 18:04:20 -0400</pubDate>
+      
+      <guid>http://example.org/garden/bancroft-rural-villa/</guid>
+      <description>Province Britannia
+Location Bancroft
+Garden Rural Villa
+Keywords balnea
+gazebos
+piscinae
+villae rusticae
+Garden Description Excavations between 1983 and 1986 at this site in Buckinghamshire revealed a Roman villa of the winged corridor type, which was built in the late 3rd century and rebuilt and enlarged in the mid-4th century (Fig.1).
+From the two projecting wings of the house at the northeast and southeast two walls ran eastward, forming an enclosed courtyard 35.</description>
+    </item>
+    
+    <item>
+      <title>Bancroft *Rural Villa*</title>
+      <link>http://example.org/garden/camulodunum-suburban-gardens/</link>
+      <pubDate>Mon, 06 Jul 2020 16:47:36 -0400</pubDate>
+      
+      <guid>http://example.org/garden/camulodunum-suburban-gardens/</guid>
+      <description>Province Britannia
+Location Camulodunum
+Location Description Camulodunum began as an Iron Age settlement defended by dykes, a combination of V-shaped ditch and rampart created by the upcast earth. It extended from the Roman river on the south to the Colne on the north, a distance of some four kilometers. Within this larger area, a legionary fort was built after the Claudian conquest of Britain in AD 43. On the site of the fort, a veteran colony was planted in about AD 49 and given the name Colonia Victricensis, City of Victory.</description>
+    </item>
+    
+  </channel>
+</rss>
