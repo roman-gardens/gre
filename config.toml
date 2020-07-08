@@ -11,6 +11,23 @@ buildDrafts = true
 enableEmoji = true
 enableInlineShortcodes = true
 
+[menu]
+
+	[[menu.main]]
+		identifier = "about"
+		name = "About"
+		url = "/about/"
+
+	[[menu.main]]
+		identifier = "garden"
+		name = "Gardens"
+		url = "/garden/"
+
+	[[menu.main]]
+		identifier = "province"
+		name = "Provinces"
+		url = "/province/"
+
 [Params.sidebar]
 	home = "right" # Configure layout for home page
 	list = "left"  # Configure layout for list pages
