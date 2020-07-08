@@ -4,7 +4,22 @@ sourceRelativeLinksEval = false
 languageCode = "en-us"
 title = "Gardens of the Roman Empire"
 theme = "mainroad"
+
 publishDir = "docs"
 
-[params]
-  mainSections = ["about", "garden"]
+buildDrafts = true
+enableEmoji = true
+enableInlineShortcodes = true
+
+[Params.sidebar]
+	home = "right" # Configure layout for home page
+	list = "left"  # Configure layout for list pages
+	single = false # Configure layout for single pages
+	# Enable widgets in given order
+	widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+	# alternatively "ddg-search" can be used, to search via DuckDuckGo
+	# widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+	recent_num = 5 # Set the number of articles in the "Recent articles" widget
+	tags_counter = false # Enable counter for each tag in "Tags" widget
