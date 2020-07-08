@@ -3,7 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-<<<<<<< HEAD
+    <loc>https://christiancasey.github.io/about/</loc>
+    <lastmod>2020-07-08T18:12:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/</loc>
+    <lastmod>2020-07-08T18:12:37-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/garden/eccles_rural_villa/</loc>
     <lastmod>2020-07-08T17:53:24-04:00</lastmod>
   </url>
@@ -11,20 +20,6 @@
   <url>
     <loc>https://christiancasey.github.io/garden/</loc>
     <lastmod>2020-07-08T17:53:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/</loc>
-    <lastmod>2020-07-08T17:53:24-04:00</lastmod>
-=======
-    <loc>https://christiancasey.github.io/about/</loc>
-    <lastmod>2020-07-08T18:12:37-04:00</lastmod>
->>>>>>> be96d8332387a8b9603ac7d64be3157a0205533a
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/</loc>
-    <lastmod>2020-07-08T18:12:37-04:00</lastmod>
   </url>
   
   <url>
