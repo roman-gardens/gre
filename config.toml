@@ -4,8 +4,12 @@ sourceRelativeLinksEval = false
 languageCode = "en-us"
 title = "Gardens of the Roman Empire"
 theme = "mainroad"
+
 publishDir = "docs"
 
+buildDrafts = true
+enableEmoji = true
+enableInlineShortcodes = true
 
 [Params.sidebar]
 	home = "right" # Configure layout for home page
