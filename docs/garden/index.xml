@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gardens on Gardens of the Roman Empire</title>
-    <link>http://example.org/garden/</link>
+    <link>https://christiancasey.github.io/gre/garden/</link>
     <description>Recent content in Gardens on Gardens of the Roman Empire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Jul 2020 12:58:55 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/garden/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://christiancasey.github.io/gre/garden/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>http://example.org/garden/test/</link>
+      <link>https://christiancasey.github.io/gre/garden/test/</link>
       <pubDate>Wed, 08 Jul 2020 12:58:55 -0400</pubDate>
       
-      <guid>http://example.org/garden/test/</guid>
+      <guid>https://christiancasey.github.io/gre/garden/test/</guid>
       <description>Province Province Description Location Location Description Sublocation Sublocation Description Garden Keywords Garden Description Maps Plans Images Dates Bibliography Periodo ID Pleiades ID TGN ID Contributor ORCID Publication date Related articles </description>
     </item>
     

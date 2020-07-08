@@ -1,4 +1,6 @@
 baseURL = "https://christiancasey.github.io/gre/"
+relativeURLs = false
+sourceRelativeLinksEval = true
 languageCode = "en-us"
 title = "Gardens of the Roman Empire"
 theme = "mainroad"
