@@ -1,0 +1,81 @@
+---
+title: "Bancroft *Rural Villa*"
+date: 2020-07-06T16:47:36-04:00
+article_id: ARTICLE_ID
+author: Maureen Carroll
+editor: June Dorsch
+draft: true
+---
+
+# Province
+
+[Britannia](({{<ref "Britannia.md">}}))  
+
+# Location
+
+[Camulodunum](https://pleiades.stoa.org/places/79393)
+
+## Location Description
+
+Camulodunum began as an Iron Age settlement defended by dykes, a combination of V-shaped ditch and rampart created by the upcast earth. It extended from the Roman river on the south to the Colne on the north, a distance of some four kilometers. Within this larger area, a legionary fort was built after the Claudian conquest of Britain in AD 43. On the site of the fort, a veteran colony was planted in about AD 49 and given the name Colonia Victricensis, City of Victory. It became the first provincial capital, later superseded by Londinium (London). Outside its walls was a V-shaped defensive ditch.
+
+# Garden
+
+Suburban Gardens
+
+
+## Keywords
+
+[fosses]( http://vocab.getty.edu/page/aat/300101513)  
+[villae suburbanae](http://vocab.getty.edu/page/aat/300005519)
+
+## Garden Description
+
+Outside the walls of the city, utilitarian gardens were planted, possibly in the 3rd century, in allotments along the road leading to the Balkerne Gate. Upon the widening of the defensive ditch at the foot of the walls around AD 275, a thick dump of soil was deposited on these garden allotments, preserving a short stretch of mounded cultivation beds laid out in rows. The excavators have suggested that the beds might have been formed for growing vines or plants such as asparagus. It is uncertain whether the gardens were attached to suburban dwellings at this time, but by about 300 practically all suburban houses in this area had been demolished without replacement.
+
+<!--changed A.D. 275 A.D. to AD 275 bc of previous use of AD, not A.D. Plus typo.-->
+
+## Images
+
+![Image not found](IMG_URL)  
+*Fig. 1: Area outside the Balkerne gate before widening of
+the town ditch. Details of the beds in the
+middle of the section of are gardens in the foreground are based on excavation. From Crummy, City of
+Victory, p. 42*
+<!--despite folder with images for Britannia, some appear to be missing-->
+
+
+## Dates
+Format: ~201 CE – ~300 CE
+
+## Bibliography
+
+*  P. Crummy, *Excavations at Lion Walk, Balkerne Lane and Middleborough, Colchester, Essex*. Colchester Archaeological Report 3, Colchester, 1984, fig. 106. [(worldcat)](http://www.worldcat.org/oclc/12511745)
+*  P. Crummy, *City of Victory*, Colchester, 1997, pp. 114-115, figs. on pp. 100, 116-117. [(worldcat)](http://www.worldcat.org/oclc/1152612897)
+
+### Periodo ID
+
+<!--[PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID)-->
+
+### Pleiades ID
+[PLEIADES_ID](https://pleiades.stoa.org/places/79393)
+
+
+### TGN ID
+[TGN_ID](http://vocab.getty.edu/page/tgn/7011866)
+
+## Contributor
+
+[Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll)
+
+### ORCID
+
+[Maureen Carroll ORCID](https://orcid.org/0000-0001-9958-8032)
+
+## Publication date
+
+06 July 2020
+
+## Related articles
+
+<!-- Links to other related articles. Leave blank for now -->
