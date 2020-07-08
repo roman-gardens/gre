@@ -48,7 +48,7 @@ Britain is geographically and geologically diverse, and it was characterized in 
 
 ## Publication date
 
-TBD
+07 July 2020
 
 ## Related articles
 

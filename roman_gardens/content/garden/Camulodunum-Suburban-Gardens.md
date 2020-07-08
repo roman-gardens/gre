@@ -9,7 +9,7 @@ draft: true
 
 # Province
 
-[Britannia](Britannia.md)  
+[Britannia](({{<ref "Britannia.md">}}))  
 
 # Location
 
@@ -26,7 +26,8 @@ Suburban Gardens
 
 ## Keywords
 
-[fosses]( http://vocab.getty.edu/page/aat/300101513)
+[fosses]( http://vocab.getty.edu/page/aat/300101513)  
+[villae suburbanae](http://vocab.getty.edu/page/aat/300005519)
 
 ## Garden Description
 
@@ -49,8 +50,8 @@ Format: ~201 CE – ~300 CE
 
 ## Bibliography
 
-*  P. Crummy, *Excavations at Lion Walk, Balkerne Lane and Middleborough, Colchester, Essex*. Colchester Archaeological Report 3, Colchester, 1984, fig. 106. [(worldcat)](https://www.worldcat.org/title/excavations-at-lion-walk-balkerne-lane-and-middleborough-colchester-essex/oclc/12511745&referer=brief_results)
-*  P. Crummy, *City of Victory*, Colchester, 1997, pp. 114-115, figs. on pp. 100, 116-117. [(worldcat)](https://www.worldcat.org/title/city-of-victory-the-story-of-colchester-britains-first-roman-town/oclc/1152612897&referer=brief_results)
+*  P. Crummy, *Excavations at Lion Walk, Balkerne Lane and Middleborough, Colchester, Essex*. Colchester Archaeological Report 3, Colchester, 1984, fig. 106. [(worldcat)](http://www.worldcat.org/oclc/12511745)
+*  P. Crummy, *City of Victory*, Colchester, 1997, pp. 114-115, figs. on pp. 100, 116-117. [(worldcat)](http://www.worldcat.org/oclc/1152612897)
 
 ### Periodo ID
 
@@ -69,11 +70,11 @@ Format: ~201 CE – ~300 CE
 
 ### ORCID
 
-[ORCID](https://orcid.org/0000-0001-9958-8032) -->
+[Maureen Carroll ORCID](https://orcid.org/0000-0001-9958-8032)
 
 ## Publication date
 
-TBD
+06 July 2020
 
 ## Related articles
 
