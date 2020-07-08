@@ -56,7 +56,7 @@ Parts of the villa may date to the early 3rd century A.D. at the latest, but ext
 
 ### TGN ID
 
-[TGN_ID](http://vocab.getty.edu/page/tgn/7032560)
+[7032560](http://vocab.getty.edu/page/tgn/7032560)
 
 ## Contributor
 

@@ -63,7 +63,7 @@ South of the western range of rooms was a large, open space measuring 14.6 x 58.
 
 ### TGN ID
 
-[TGN_ID](http://vocab.getty.edu/page/tgn/7027349)
+[7027349](http://vocab.getty.edu/page/tgn/7027349)
 
 ## Contributor
 

@@ -56,7 +56,7 @@ The villa complex that preceded the winged corridor house is also of interest in
 [79312](https://pleiades.stoa.org/places/79312)
 
 ### TGN ID
-[TGN_ID](http://vocab.getty.edu/page/tgn/7030316)
+[7030316](http://vocab.getty.edu/page/tgn/7030316)
 
 ## Contributor
 

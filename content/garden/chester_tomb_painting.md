@@ -43,7 +43,7 @@ Toynbee’s suggestion that a military tombstone from Chester depicting a row of
 
 ### TGN ID
 
-[TGN_ID]( http://vocab.getty.edu/page/tgn/7026064)
+[7026064]( http://vocab.getty.edu/page/tgn/7026064)
 
 ## Contributor
 
