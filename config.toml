@@ -1,0 +1,10 @@
+baseURL = "https://christiancasey.github.io"
+relativeURLs = true
+sourceRelativeLinksEval = false
+languageCode = "en-us"
+title = "Gardens of the Roman Empire"
+theme = "mainroad"
+publishDir = "docs"
+
+[params]
+  mainSections = ["about", "garden"]
