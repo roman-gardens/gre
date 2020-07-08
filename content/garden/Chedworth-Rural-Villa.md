@@ -4,7 +4,7 @@ date: 2020-07-08T08:19:06-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -34,7 +34,7 @@ Parts of the villa may date to the early 3rd century A.D. at the latest, but ext
 
 ## Plans
 
-![Fig. 1: Plan of the villa and its garden (G) in the courtyard. Plan by M. Carroll and C. Merrony.](Chedworth-fig-3.jpg)
+![Fig. 1: Plan of the villa and its garden (G) in the courtyard. Plan by M. Carroll and C. Merrony.](/images/Chedworth-fig-3.jpg)
 *Fig. 1: Plan of the villa and its garden (G) in the courtyard. Plan by M. Carroll and C. Merrony.*
 
 ## Dates

@@ -1,5 +1,5 @@
 ---
-title: "Bancroft *Rural Villa*"
+title: "Camulodunum Suburban Gardens"
 date: 2020-07-06T16:47:36-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
