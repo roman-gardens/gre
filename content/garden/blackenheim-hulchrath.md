@@ -1,5 +1,5 @@
 ---
-title: "Blackenheim Hulchrath"
+title: "Blackenheim-Hülchrath"
 date: 2020-07-08T10:39:31-07:00
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
