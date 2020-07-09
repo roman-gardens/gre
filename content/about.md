@@ -1,5 +1,5 @@
 ---
-title: "About the Gardens of the Roman Empire"
+title: "About"
 date: 2020-07-08T18:12:37-04:00
 editor: Christian Casey
 draft: false
