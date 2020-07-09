@@ -24,10 +24,6 @@ Britain is geographically and geologically diverse, and it was characterized in 
 ## Dates
 43 CE – ~410 CE
 
-## Bibliography
-
-<!-- do we use all sources from Britannia gardens?-->
-
 ### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->

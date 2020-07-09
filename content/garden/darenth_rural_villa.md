@@ -15,6 +15,21 @@ draft: true
 
 [Darenth](https://pleiades.stoa.org/places/79413)
 
+## Location Description
+
+<!-- LEAVE THIS BLANK FOR NOW -->
+
+# Sublocation
+
+<!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+
+## Sublocation Description
+
+<!-- DESCRIPTION -->
+
 # Garden
 
 Rural Villa
@@ -39,10 +54,14 @@ South of the western range of rooms was a large, open space measuring 14.6 x 58.
 
 <!-- The Gs referenced in the article are not clear as there are three Gs in the figure-->
 
+## Maps
+
 ## Plans
 
-![Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20](Darenth-fig-4.tif)
+![Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20](/images/Darenth-fig-4.tif)
 *Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20.*
+
+## Images
 
 ## Dates
 
