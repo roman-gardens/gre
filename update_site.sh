@@ -1,7 +1,7 @@
 #!/bin/bash
 
 rm -rf docs
-hugo
+hugo -D
 
 git add .
 git commit -m "AUTO UPDATE: $1"
