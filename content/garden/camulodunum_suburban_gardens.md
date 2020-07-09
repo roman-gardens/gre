@@ -9,7 +9,7 @@ draft: true
 
 # Province
 
-[Britannia](({{<relref "/content/province/britannia.md">}}))  
+[Britannia](/province/britannia/)  
 
 # Location
 

@@ -6,17 +6,22 @@
     <description>Recent content on Gardens of the Roman Empire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
     <lastBuildDate>Wed, 08 Jul 2020 17:53:24 -0400</lastBuildDate>
-=======
-    <lastBuildDate>Wed, 08 Jul 2020 18:12:37 -0400</lastBuildDate>
->>>>>>> be96d8332387a8b9603ac7d64be3157a0205533a
     
 	<atom:link href="https://christiancasey.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<<<<<<< HEAD
+      <title>About the Gardens of the Roman Empire</title>
+      <link>https://christiancasey.github.io/about/</link>
+      <pubDate>Wed, 08 Jul 2020 18:12:37 -0400</pubDate>
+      
+      <guid>https://christiancasey.github.io/about/</guid>
+      <description>Gardens of the Roman Empire is a project created as part of the ISAW Library Summer Internship program.
+Editors  June Dorsch Amartya Shri David Ratzan Christian Casey  (Let&amp;rsquo;s put links in here to a list of edited articles or to an &amp;ldquo;about us&amp;rdquo; page.)</description>
+    </item>
+    
+    <item>
       <title>Eccles Rural Villa</title>
       <link>https://christiancasey.github.io/garden/eccles_rural_villa/</link>
       <pubDate>Wed, 08 Jul 2020 17:53:24 -0400</pubDate>
@@ -28,21 +33,6 @@ Garden Rural Villa
 Keywords balnea
 piscinae villae rusticae
 Garden Description This country estate in modern Kent possessed a large ornamental pool (P in Fig. 1) in the area in front of the main residence (A in Fig. 1) and to the east of the attached bath house (Fig. 1). The masonry pool measuring 25 x 3.50 meters lay parallel to the house frontage. From the pool ran a masonry drain.</description>
-    </item>
-    
-    <item>
-      <title>Provinces</title>
-      <link>https://christiancasey.github.io/province/</link>
-      <pubDate>Wed, 08 Jul 2020 17:22:37 -0400</pubDate>
-=======
-      <title>About the Gardens of the Roman Empire</title>
-      <link>https://christiancasey.github.io/about/</link>
-      <pubDate>Wed, 08 Jul 2020 18:12:37 -0400</pubDate>
->>>>>>> be96d8332387a8b9603ac7d64be3157a0205533a
-      
-      <guid>https://christiancasey.github.io/about/</guid>
-      <description>Gardens of the Roman Empire is a project created as part of the ISAW Library Summer Internship program.
-Editors  June Dorsch Amartya Shri David Ratzan Christian Casey  (Let&amp;rsquo;s put links in here to a list of edited articles or to an &amp;ldquo;about us&amp;rdquo; page.)</description>
     </item>
     
     <item>
