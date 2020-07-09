@@ -7,7 +7,7 @@ theme = "mainroad"
 
 publishDir = "docs"
 
-buildDrafts = true
+buildDrafts = false
 enableEmoji = true
 enableInlineShortcodes = true
 
