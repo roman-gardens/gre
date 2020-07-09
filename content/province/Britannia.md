@@ -18,7 +18,7 @@ Britain is geographically and geologically diverse, and it was characterized in 
 
 ## Keywords
 
-[conquest](http://vocab.getty.edu/page/aat/300410367)
+[conquest](http://vocab.getty.edu/page/aat/300410367)  
 [triticum](http://vocab.getty.edu/page/aat/300343825)
 
 ## Dates
@@ -36,7 +36,7 @@ Britain is geographically and geologically diverse, and it was characterized in 
 [981513](https://pleiades.stoa.org/places/981513)
 
 ### TGN ID
-[TGN_ID](http://vocab.getty.edu/page/tgn/7030316)
+[7030316](http://vocab.getty.edu/page/tgn/7030316)
 
 ## Contributor
 
