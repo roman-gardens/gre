@@ -3,35 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://christiancasey.github.io/garden/colonia_cologne_atrium/</loc>
+    <lastmod>2020-07-09T07:38:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/garden/</loc>
+    <lastmod>2020-07-09T07:38:05-07:00</lastmod>
+  </url>
+  
+  <url>
+<<<<<<< HEAD
+    <loc>https://christiancasey.github.io/garden/eccles_rural_villa/</loc>
+    <lastmod>2020-07-08T17:53:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/garden/</loc>
+=======
+    <loc>https://christiancasey.github.io/</loc>
+    <lastmod>2020-07-09T07:38:05-07:00</lastmod>
+  </url>
+  
+  <url>
+<<<<<<< HEAD
+    <loc>https://christiancasey.github.io/garden/eccles_rural_villa/</loc>
+>>>>>>> 8dfb00c8534f3f9db46cc6866f96924735abb560
+    <lastmod>2020-07-08T17:53:24-04:00</lastmod>
+  </url>
+  
+  <url>
+<<<<<<< HEAD
+    <loc>https://christiancasey.github.io/</loc>
+=======
+    <loc>https://christiancasey.github.io/garden/</loc>
+>>>>>>> 8dfb00c8534f3f9db46cc6866f96924735abb560
+=======
+    <loc>https://christiancasey.github.io/garden/colonia_cologne_dionysius/</loc>
+    <lastmod>2020-07-08T20:22:59-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/about/</loc>
     <lastmod>2020-07-08T18:12:37-04:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://christiancasey.github.io/garden/eccles_rural_villa/</loc>
-    <lastmod>2020-07-08T17:53:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/garden/</loc>
-=======
-    <loc>https://christiancasey.github.io/</loc>
-    <lastmod>2020-07-08T18:12:37-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/garden/eccles_rural_villa/</loc>
->>>>>>> 8dfb00c8534f3f9db46cc6866f96924735abb560
-    <lastmod>2020-07-08T17:53:24-04:00</lastmod>
-  </url>
-  
-  <url>
-<<<<<<< HEAD
-    <loc>https://christiancasey.github.io/</loc>
-=======
-    <loc>https://christiancasey.github.io/garden/</loc>
->>>>>>> 8dfb00c8534f3f9db46cc6866f96924735abb560
+>>>>>>> 3b9fc219a518f0073db67ded3f633e0f9e320055
     <lastmod>2020-07-08T17:53:24-04:00</lastmod>
   </url>
   

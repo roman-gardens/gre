@@ -42,7 +42,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Keywords
 
-<!-- [piscinae]( http://vocab.getty.edu/page/aat/300375619) -->
+<!-- [piscinae](http://vocab.getty.edu/page/aat/300375619), []() -->
 
 ## Garden Description
 
@@ -69,9 +69,8 @@ A sublocation is any area larger than an individual garden, but located within a
 -->
 
 ## Dates
-<!-- Format: 0000 {BCE|CE} – 0000 {BCE|CE} -->
-<!-- N.B. Always include BCE/CE on both numbers for machine readibility. -->
-<!-- 23 BCE – 5 CE -->
+<!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
+<!-- If no date, use "unspecified" -->
 
 ## Bibliography
 
