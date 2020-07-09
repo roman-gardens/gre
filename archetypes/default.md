@@ -42,7 +42,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Keywords
 
-<!-- [piscinae]( http://vocab.getty.edu/page/aat/300375619) -->
+<!-- [piscinae](http://vocab.getty.edu/page/aat/300375619) -->
 
 ## Garden Description
 
