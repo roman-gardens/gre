@@ -33,7 +33,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Rural Villa
+Eccles Rural Villa
 
 ## Keywords
 
@@ -59,7 +59,7 @@ This country estate in modern Kent possessed a large ornamental pool (P in Fig. 
 
 ## Dates
 
-~50 CE – ~301 CE
+Middle of 1st century - 4th century
 
 ## Bibliography
 

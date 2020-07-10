@@ -32,7 +32,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Tomb Painting
+Chester Tomb Painting
 
 ## Keywords
 
@@ -48,6 +48,10 @@ Toynbee’s suggestion that a military tombstone from Chester depicting a row of
 ## Plans
 
 ## Images
+
+## Dates
+
+unspecified
 
 ## Bibliography
 

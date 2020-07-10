@@ -32,7 +32,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Rural Villa
+Chedworth Rural Villa
 
 ## Keywords
 
@@ -58,7 +58,7 @@ Parts of the villa may date to the early 3rd century A.D. at the latest, but ext
 
 ## Dates
 
-~201 CE – ~351 CE
+Early 4th century - unspecified
 
 ## Bibliography
 

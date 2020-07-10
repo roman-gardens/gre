@@ -32,7 +32,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Rural Villa
+Bancroft Rural Villa
 
 ## Keywords
 
@@ -59,7 +59,8 @@ The villa complex that preceded the winged corridor house is also of interest in
 ## Images
 
 ## Dates
-200s CE – 300s CE
+
+Mid-4th century - unspecified
 
 ## Bibliography
 
