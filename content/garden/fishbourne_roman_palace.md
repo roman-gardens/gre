@@ -70,15 +70,15 @@ Limited excavations to the south of the palace revealed an artificial terrace wh
 
 ## Plans
 
-![Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace.](/images/Fishbourne-Fig-1.jpg)
+![Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace.](/images/Fishbourne_Fig_1.jpg)
 *Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace.*
 
 ## Images
 
-![Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace.](/images/Fishbourne-Fig.-2.jpg)
+![Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace.](/images/Fishbourne_Fig._2.jpg)
 *Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace.*
 
-![Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace.](/images/Fishbourne-Fig.-3.jpg)
+![Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace.](/images/Fishbourne_Fig._3.jpg)
 *Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace.*
 
 ## Dates
