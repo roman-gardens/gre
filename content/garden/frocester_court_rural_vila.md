@@ -36,9 +36,9 @@ Frocester Court Rural Villa
 
 ## Keywords
 
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)      
 [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)  
-[orchards](http://vocab.getty.edu/page/aat/300008890)
+[orchards](http://vocab.getty.edu/page/aat/300008890)  
+[villae rusticae](http://vocab.getty.edu/page/aat/300005518)      
 
 ## Garden Description
 
