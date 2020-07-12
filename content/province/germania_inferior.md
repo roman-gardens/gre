@@ -30,8 +30,10 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 [Rustic villa at Blankenheim-Hülchrath]({{<ref../garden/blankenheim-hulchrath.md>}})
-[House of Dionysos (Colonia Claudia Ara Agrippinensium)](({{<ref../garden/colonia_cologne_dionysius.md>}}))
-[Atrium house (Colonia Claudia Ara Agrippinensium)](({{<ref../garden/colonia_cologne_atrium.md>}})) 
+[House of Dionysos (Colonia Claudia Ara Agrippinensium)]({{<ref../garden/colonia_cologne_dionysius.md>}})
+[Atrium house (Colonia Claudia Ara Agrippinensium)]({{<ref../garden/colonia_cologne_atrium.md>}})
+[Urban house on Gertrudenstrasse (Colonia Claudia Ara Agrippinensium)]({{ref../garden/colonia_cologne_gertrudenstrasse.md}})
+[Urban house on Wolfsstrasse (Colonia Claudia Ara Agrippinensium)]({{ref../garden/colonia_cologne_wolfsstrasse.md}})
 
 ## Maps
 
