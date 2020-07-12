@@ -11,6 +11,9 @@ draft: true
 
 [Britannia](/province/britannia/)
 
+# Province Description
+
+
 # Location
 
 Sudeley/Spoonley Wood
@@ -65,7 +68,7 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 ## Dates
 
-3rd/4th century
+3rd/4th century for the complex.
 
 ## Bibliography
 

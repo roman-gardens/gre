@@ -15,6 +15,9 @@ draft: false
 [Britannia]({{<ref "../province/britannia.md">}})  
 >>>>>>> 017e4e671149596ab81dcaffc3351402c7a2fa95
 
+# Province Description
+
+
 # Location
 
 Bancroft
@@ -64,7 +67,7 @@ The villa complex that preceded the winged corridor house is also of interest in
 
 ## Dates
 
-Mid-4th century - unspecified
+Roman villa... built in the late 3rd century and rebuilt and enlarged in the mid-4th century.
 
 ## Bibliography
 

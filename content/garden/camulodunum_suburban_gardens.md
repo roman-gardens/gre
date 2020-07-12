@@ -11,6 +11,9 @@ draft: true
 
 [Britannia](/province/britannia/)  
 
+# Province Description
+
+
 # Location
 
 [Camulodunum](https://pleiades.stoa.org/places/79393)
@@ -59,7 +62,7 @@ Victory, p. 42*
 
 ## Dates
 
-3rd century - 300 CE
+3rd century - about 300
 
 ## Bibliography
 

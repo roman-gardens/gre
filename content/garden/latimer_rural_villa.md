@@ -11,6 +11,9 @@ draft: true
 
 [Britannia](/province/britannia/)
 
+# Province Description
+
+
 # Location
 
 [Latimer](https://pleiades.stoa.org/places/79555)
@@ -63,7 +66,7 @@ Excavations at this country house in Buckinghamshire have produced evidence for 
 
 ## Dates
 
-Beginning of 4th century - unspecified
+Evidence for gardens dating to the beginning of 4th century
 
 ## Bibliography
 
