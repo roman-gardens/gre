@@ -9,7 +9,7 @@ draft: true
 ---
 
 # Province
-[Germania inferior]({{<ref "/gre/province/germania_inferior.md">}})
+[Germania inferior]({{<ref "province/germania_inferior.md">}})
 
 # Location
 [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751)
@@ -36,6 +36,7 @@ urban villas
 [villae urbanae](http://vocab.getty.edu/page/aat/300005520)   
 [colonnades](http://vocab.getty.edu/page/aat/300002613)  
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
+[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
 
 ## Garden Description
 Only a fraction of this house in the immediate vicinity of the [house on Gertrudenstraße]({{<ref "../garden/colonia_cologne_gertrudenstrasse.md">}}) was excavated. Enough was salvaged, however, to be able to recognize that the house was of the peristyle type (Plan 1). The house was built after the middle of the 1st century A.D. By the mid-4th century the building was ruinous and the stones of most of the walls were robbed for reuse elsewhere.      
@@ -50,7 +51,7 @@ The peristyle courtyard was ca. 7 m. wide and 11.30 m. long. Both faces of the w
 -->
 
 ## Plans
-![Plan of the Urban house on Wolfsstrasse at Colonia Claudia Ara Agrippinensium (Cologne); rights statement](/images/cologne_wolfsstrasse_plan1_EUR_GI_ColClaAA_Hg_carroll.jpg)
+![Plan of the Urban house on Wolfsstrasse at Colonia Claudia Ara Agrippinensium (Cologne); rights statement](../../images/cologne_wolfstrasse__plan1_EUR_GI_ColClaAA_Uhw_carroll.jpg)
 *Plan 1: Plan of the partially excavated courtyard house with a possible garden (G) containing a well (W) on Wolfsstraße. Adapted from Carroll-Spillecke 1997, fig. 7. (Rights statement)*
 
 ## Images

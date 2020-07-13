@@ -9,7 +9,7 @@ draft: true
 ---
 
 # Province
-[Germania inferior]({{<ref "../province/germania_inferior.md">}})
+[Germania inferior]({{<ref "province/germania_inferior.md">}})
 
 # Location
 Blankenheim-Hülchrath
@@ -49,7 +49,7 @@ To the northeast of the house was an open courtyard flanked by outbuildings and 
 -->
 
 ## Plans
-![Plan of villa rustica at Blackenheim-Hülchrath; rights statement](/images/blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg)
+![Plan of villa rustica at Blackenheim-Hülchrath; rights statement](../../images/blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg)
 *Plan 1:  Plan of the rural villa (A) with possible gardens (G) in the courtyard adjacent to the house and in the enclosed area southwest of it. Adapted from Horn 1987, fig. 306. (Rights statement)*
 <!--
 ![ALT_TEXT](IMG_URL)

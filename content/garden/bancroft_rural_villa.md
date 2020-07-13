@@ -13,7 +13,7 @@ draft: false
 <<<<<<< HEAD
 [Britannia](/province/britannia/)  
 =======
-[Britannia]({{<ref "../province/britannia.md">}})  
+[Britannia]({{<ref "province/britannia.md">}})  
 >>>>>>> 017e4e671149596ab81dcaffc3351402c7a2fa95
 
 # Province Description
@@ -61,7 +61,7 @@ The villa complex that preceded the winged corridor house is also of interest in
 
 ## Plans
 
-![Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.](/images/Bancroft_fig_1.jpg)
+![Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.](../../images/Bancroft_fig_1.jpg)
 *Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.*
 
 ## Images

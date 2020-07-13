@@ -61,7 +61,7 @@ An avenue 20 meters wide led axially from the gate at the eastern end of the inn
 
 ## Plans
 
-![Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn.](/images/Gorhambury_13_or_9.1.jpg)
+![Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn.](../../images/Gorhambury_13_or_9.1.jpg)
 *Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn.*
 
 ## Images
