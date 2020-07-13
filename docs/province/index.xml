@@ -6,18 +6,22 @@
     <description>Recent content in Provinces on Gardens of the Roman Empire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
-    <lastBuildDate>Sat, 11 Jul 2020 19:24:47 -0400</lastBuildDate>
-=======
-    <lastBuildDate>Sun, 12 Jul 2020 10:26:59 -0700</lastBuildDate>
->>>>>>> 5e00edc298a800463f2ced1b16baf8737cc8c194
+    <lastBuildDate>Sun, 12 Jul 2020 15:52:12 -0400</lastBuildDate>
     
 	<atom:link href="https://christiancasey.github.io/gre/province/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<<<<<<< HEAD
-=======
+      <title>Germania Superior</title>
+      <link>https://christiancasey.github.io/gre/province/germania_superior/</link>
+      <pubDate>Sun, 12 Jul 2020 15:52:12 -0400</pubDate>
+      
+      <guid>https://christiancasey.github.io/gre/province/germania_superior/</guid>
+      <description>Province Germania Superior
+Province Description The regions on the upper Rhine formally became the province of Germania Superior, Upper Germany, during the reign of Domitian, probably around AD 85. Since the Augustan period, they had formed a military zone on the eastern fringes of Gallia Belgica and Gallica Lugdunensis. Moguntiacum (Mainz) at the confluence of the Rhine and Main rivers was the administrative capital and the site of a legionary base.</description>
+    </item>
+    
+    <item>
       <title>Germania inferior</title>
       <link>https://christiancasey.github.io/gre/province/germania_inferior/</link>
       <pubDate>Sun, 12 Jul 2020 10:26:59 -0700</pubDate>
@@ -28,7 +32,6 @@ Province Description The Augustan military zone along the lower Rhine was formal
     </item>
     
     <item>
->>>>>>> 5e00edc298a800463f2ced1b16baf8737cc8c194
       <title>Dacia Traiana</title>
       <link>https://christiancasey.github.io/gre/province/dacia_traiana/</link>
       <pubDate>Sat, 11 Jul 2020 19:24:47 -0400</pubDate>
