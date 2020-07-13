@@ -12,7 +12,7 @@ draft: true
 Germania inferior
 
 ## Province Description
-The Augustan military zone along the lower [Rhine](link) was formally reorganized as the province of Germania Inferior, Lower Germany, during the reign of [Domitian](link) around A.D. 85. Until this time, the area had been on the eastern fringe of the province of [Gallia Belgica](https://pleiades.stoa.org/places/981511). The provincial capital was [Colonia Claudia Ara Agrippinensium](https://pleiades.stoa.org/places/108751) (modern Cologne). Numerous legionary and auxiliary bases fortified the lower Rhine frontier throughout its history. Lower Germany was bounded by the [Rhine](link) river in the north, and immediately south of this border lay marshy lowlands and the islands in the delta of the Rhine, [Meuse](link), [Waal](link) and [Schelde](link) rivers. Northbound ships carrying goods from the interior crossed over from the delta to [Britain]({{<ref "../province/britannia.md">}}). The province extended in the west beyond the [Meuse](link) River, and ended in the south at the [Vinxtbach](link) river. The sandy soils of the northern lowlands were of poor quality for cultivation, but they were well suited to cattle and horse breeding. The loess regions to the south, particularly to the west of the Cologne basin, on the other hand were ideal for agriculture, particularly cereal cultivation. The middle part of the province between [Nijmegen](link) and [Krefeld](link) was characterized by gentle wooded hills. The rugged [Eifel](link) and [Ardennes](link) mountains in the south and south-east of the province were mined for ores and stone of varying kinds. During the reign of [Domitian](link) (A.D. 284-305), the provincial boundaries were redrawn to extend westwards into areas formerly belonging to [Gallia Belgica](https://pleiades.stoa.org/places/981511). The province in its late phase was renamed [Germania Secunda](link).
+The Augustan military zone along the lower [Rhine](link) was formally reorganized as the province of Germania Inferior, Lower Germany, during the reign of [Domitian](link) around A.D. 85. Until this time, the area had been on the eastern fringe of the province of [Gallia Belgica](https://pleiades.stoa.org/places/981511). The provincial capital was [Colonia Claudia Ara Agrippinensium](https://pleiades.stoa.org/places/108751) (modern Cologne). Numerous legionary and auxiliary bases fortified the lower Rhine frontier throughout its history. Lower Germany was bounded by the [Rhine](link) river in the north, and immediately south of this border lay marshy lowlands and the islands in the delta of the Rhine, [Meuse](link), [Waal](link) and [Schelde](link) rivers. Northbound ships carrying goods from the interior crossed over from the delta to [Britain]({{<ref "province/britannia.md">}}). The province extended in the west beyond the [Meuse](link) River, and ended in the south at the [Vinxtbach](link) river. The sandy soils of the northern lowlands were of poor quality for cultivation, but they were well suited to cattle and horse breeding. The loess regions to the south, particularly to the west of the Cologne basin, on the other hand were ideal for agriculture, particularly cereal cultivation. The middle part of the province between [Nijmegen](link) and [Krefeld](link) was characterized by gentle wooded hills. The rugged [Eifel](link) and [Ardennes](link) mountains in the south and south-east of the province were mined for ores and stone of varying kinds. During the reign of [Domitian](link) (A.D. 284-305), the provincial boundaries were redrawn to extend westwards into areas formerly belonging to [Gallia Belgica](https://pleiades.stoa.org/places/981511). The province in its late phase was renamed [Germania Secunda](link).
 
 # Location
 [Blabkenheim-Hülchrath](https://pleiades.stoa.org/places/981524)
@@ -29,11 +29,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 # Garden
-[Rustic villa at Blankenheim-Hülchrath]({{<ref "../garden/blankenheim-hulchrath.md">}})
-[House of Dionysos (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia_cologne_dionysius.md">}})
-[Atrium house (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia_cologne_atrium.md">}})
-[Urban house on Gertrudenstrasse (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia_cologne_gertrudenstrasse.md">}})
-[Urban house on Wolfsstrasse (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia_cologne_wolfstrasse.md">}})
+* [Rustic villa at Blankenheim-Hülchrath]({{<ref "../garden/blankenheim-hulchrath.md">}})
+* [House of Dionysos (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia_cologne_dionysius.md">}})
+* [Atrium house (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia_cologne_atrium.md">}})
+* [Urban house on Gertrudenstrasse (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia_cologne_gertrudenstrasse.md">}})
+* [Urban house on Wolfsstrasse (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia_cologne_wolfstrasse.md">}})
 
 ## Maps
 

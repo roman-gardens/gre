@@ -12,7 +12,7 @@ draft: false
 <<<<<<< HEAD
 [Britannia](/province/britannia/)  
 =======
-[Britannia]({{<ref "../province/britannia.md">}})  
+[Britannia]({{<ref "province/britannia.md">}})  
 >>>>>>> 017e4e671149596ab81dcaffc3351402c7a2fa95
 
 # Province Description
