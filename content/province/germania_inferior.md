@@ -34,6 +34,7 @@ A sublocation is any area larger than an individual garden, but located within a
 * [Atrium house (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia_cologne_atrium.md">}})
 * [Urban house on Gertrudenstrasse (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia_cologne_gertrudenstrasse.md">}})
 * [Urban house on Wolfsstrasse (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia_cologne_wolfstrasse.md">}})
+* [Urban house on Lungenstrasse (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia.cologne_lungenstrasse.md"}})
 
 ## Maps
 

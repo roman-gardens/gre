@@ -36,6 +36,7 @@ urban villas
 [villae urbanae](http://vocab.getty.edu/page/aat/300005520)   
 [colonnades](http://vocab.getty.edu/page/aat/300002613)  
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
+[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
 
 ## Garden Description
 Only a fraction of this house in the immediate vicinity of the [house on Gertrudenstraße]({{<ref "../garden/colonia_cologne_gertrudenstrasse.md">}}) was excavated. Enough was salvaged, however, to be able to recognize that the house was of the peristyle type (Plan 1). The house was built after the middle of the 1st century A.D. By the mid-4th century the building was ruinous and the stones of most of the walls were robbed for reuse elsewhere.      
