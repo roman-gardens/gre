@@ -64,7 +64,7 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Images
 
 <!-- 
-![ALT_TEXT](IMG_URL)
+![ALT_TEXT](../../images/image_name.ext)
 *CAPTION*
 -->
 
