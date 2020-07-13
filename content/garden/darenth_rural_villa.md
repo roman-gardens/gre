@@ -9,15 +9,33 @@ draft: true
 
 # Province
 
-[Britannia](({{<ref "Britannia.md">}}))
+[Britannia](/province/britannia/)
+
+# Province Description
+
 
 # Location
 
 [Darenth](https://pleiades.stoa.org/places/79413)
 
+## Location Description
+
+<!-- LEAVE THIS BLANK FOR NOW -->
+
+# Sublocation
+
+<!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+
+## Sublocation Description
+
+<!-- DESCRIPTION -->
+
 # Garden
 
-Rural Villa
+Darenth Rural Villa
 
 ## Keywords
 
@@ -27,26 +45,26 @@ Rural Villa
 
 ## Garden Description
 
-Excavations at this site of a Roman villa in Kent uncovered a large rectangular masonry pool in the courtyard, which was enclosed by buildings on the north, west, and east (Fig. 1). The villa buildings took up an area of 150 x 225 meters in total, including the courtyard with a width of 26.5 meters. Occupation at the site began after A.D. 100 and continued until the closing decades of the 4th
-century.
+Excavations at this site of a Roman villa in Kent uncovered a large rectangular masonry pool in the courtyard, which was enclosed by buildings on the north, west, and east (Fig. 1). The villa buildings took up an area of 150 x 225 meters in total, including the courtyard with a width of 26.5 meters. Occupation at the site began after A.D. 100 and continued until the closing decades of the 4th century.
 
-This pool (P in Fig. 1), measuring 25.6 x 3.36 meters, lay at right angles to the center of the main
-residence and bisected an enclosed courtyard, possibly a garden (G in Fig. 1) in front of the house. The
-pool would have been a decorative element in the courtyard. Within the pool at the end nearest the
-house was found a small bronze water-spout in the form of the head of a lioness. At the other end was a semi-circular pool with provision for the inflow and outflow of water.
+This pool (P in Fig. 1), measuring 25.6 x 3.36 meters, lay at right angles to the center of the main residence and bisected an enclosed courtyard, possibly a garden (G in Fig. 1) in front of the house. The pool would have been a decorative element in the courtyard. Within the pool at the end nearest the house was found a small bronze water-spout in the form of the head of a lioness. At the other end was a semi-circular pool with provision for the inflow and outflow of water.
 
 South of the western range of rooms was a large, open space measuring 14.6 x 58.4 meters, enclosed by walls. There was no paving in this area, nor was there any evidence for partitions. It has been suggested that this might have been a kitchen garden (G in Fig. 1).
 
 <!-- The Gs referenced in the article are not clear as there are three Gs in the figure-->
 
+## Maps
+
 ## Plans
 
-![Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20](/images/Darenth-fig-4.tif)
+![Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20](/images/Darenth_fig_4.tif)
 *Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20.*
+
+## Images
 
 ## Dates
 
-~101 CE – ~385 CE -->
+After 100 CE - Closing decades of the 4th century
 
 ## Bibliography
 

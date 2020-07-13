@@ -9,7 +9,10 @@ draft: true
 
 # Province
 
-[Britannia](({{<relref "/content/province/britannia.md">}}))  
+[Britannia](/province/britannia/)  
+
+# Province Description
+
 
 # Location
 
@@ -17,11 +20,22 @@ draft: true
 
 ## Location Description
 
-Camulodunum began as an Iron Age settlement defended by dykes, a combination of V-shaped ditch and rampart created by the upcast earth. It extended from the Roman river on the south to the Colne on the north, a distance of some four kilometers. Within this larger area, a legionary fort was built after the Claudian conquest of Britain in AD 43. On the site of the fort, a veteran colony was planted in about AD 49 and given the name Colonia Victricensis, City of Victory. It became the first provincial capital, later superseded by Londinium (London). Outside its walls was a V-shaped defensive ditch.
+Camulodunum began as an Iron Age settlement defended by dykes, a combination of V-shaped ditch and rampart created by the upcast earth. It extended from the Roman river on the south to the Colne on the north, a distance of some four kilometers. Within this larger area, a legionary fort was built after the Claudian conquest of Britain in AD 43. On the site of the fort, a veteran colony was planted in about AD 49 and given the name [Colonia Victricensis](dead_link), City of Victory. It became the first provincial capital, later superseded by Londinium (London). Outside its walls was a V-shaped defensive ditch.
+
+# Sublocation
+
+<!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+
+## Sublocation Description
+
+<!-- DESCRIPTION -->
 
 # Garden
 
-Suburban Gardens
+Camulodunum Suburban Gardens
 
 
 ## Keywords
@@ -33,7 +47,9 @@ Suburban Gardens
 
 Outside the walls of the city, utilitarian gardens were planted, possibly in the 3rd century, in allotments along the road leading to the Balkerne Gate. Upon the widening of the defensive ditch at the foot of the walls around AD 275, a thick dump of soil was deposited on these garden allotments, preserving a short stretch of mounded cultivation beds laid out in rows. The excavators have suggested that the beds might have been formed for growing vines or plants such as asparagus. It is uncertain whether the gardens were attached to suburban dwellings at this time, but by about 300 practically all suburban houses in this area had been demolished without replacement.
 
-<!--changed A.D. 275 A.D. to AD 275 bc of previous use of AD, not A.D. Plus typo.-->
+## Maps
+
+## Plans
 
 ## Images
 
@@ -45,7 +61,8 @@ Victory, p. 42*
 
 
 ## Dates
-Format: ~201 CE – ~300 CE
+
+3rd century - about 300
 
 ## Bibliography
 

@@ -9,15 +9,37 @@ draft: false
 
 # Province
 
+<<<<<<< HEAD
+[Britannia](/province/britannia/)  
+=======
 [Britannia]({{<ref "../province/britannia.md">}})  
+>>>>>>> 017e4e671149596ab81dcaffc3351402c7a2fa95
+
+# Province Description
+
 
 # Location
 
 Bancroft
 
+## Location Description
+
+<!-- LEAVE THIS BLANK FOR NOW -->
+
+# Sublocation
+
+<!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+
+## Sublocation Description
+
+<!-- DESCRIPTION -->
+
 # Garden
 
-Rural Villa
+Bancroft Rural Villa
 
 ## Keywords
 
@@ -34,13 +56,18 @@ From the two projecting wings of the house at the northeast and southeast two wa
 
 The villa complex that preceded the winged corridor house is also of interest in regard to gardens. The earlier aisled house of late 1st to late 2nd century date was part of a series of buildings and enclosures that included a walled area to the northeast measuring 27 x 18.3 meters in size. Inside this enclosure was a deposit of dark humic soil between 4 and 6 centimeters deep. Environmental analysis of soil samples from the enclosure suggests that the area was used as a kitchen garden with plants such as brassicas, celery, mustard, coriander, summer savory and caper spurge. Three ceramic vessels with at least one hole pierced through the side or the base, possibly planting pots, may have been associated with this phase of the villa garden.
 
+## Maps
+
 ## Plans
 
-![Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.](/images/Bancroft-fig-1.jpg)
+![Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.](/images/Bancroft_fig_1.jpg)
 *Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.*
 
+## Images
+
 ## Dates
-200s CE – 300s CE
+
+Roman villa... built in the late 3rd century and rebuilt and enlarged in the mid-4th century.
 
 ## Bibliography
 
