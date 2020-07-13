@@ -1,6 +1,7 @@
 ---
 title: "Sudeley/Spoonley Wood"
 date: 2020-07-11T18:57:34-04:00
+province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch

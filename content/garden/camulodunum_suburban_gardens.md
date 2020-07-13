@@ -1,6 +1,7 @@
 ---
 title: "Camulodunum Suburban Gardens"
 date: 2020-07-06T16:47:36-04:00
+province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch

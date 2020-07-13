@@ -1,6 +1,7 @@
 ---
 title: "Chedworth Rural Villa"
 date: 2020-07-08T08:19:06-04:00
+province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
@@ -13,7 +14,7 @@ draft: false
 
 # Province Description
 
- 
+
 # Location
 
 Chedworth

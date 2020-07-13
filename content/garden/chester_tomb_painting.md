@@ -1,6 +1,7 @@
 ---
 title: "Chester Tomb Painting"
 date: 2020-07-08T08:58:47-04:00
+province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: June Dorsch

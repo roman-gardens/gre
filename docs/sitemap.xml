@@ -3,45 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://christiancasey.github.io/garden/</loc>
+    <lastmod>2020-07-12T07:56:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/</loc>
+    <lastmod>2020-07-12T07:56:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/garden/romula_tomb_garden_of_aelius_iulius_iulianus_decurion/</loc>
+    <lastmod>2020-07-12T07:56:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/province/dacia_traiana/</loc>
+    <lastmod>2020-07-11T19:24:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/province/</loc>
+    <lastmod>2020-07-11T19:24:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/garden/sudeley_spoonley_wood/</loc>
+    <lastmod>2020-07-11T18:57:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/garden/latimer_rural_villa/</loc>
+    <lastmod>2020-07-11T11:20:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/garden/gorhambury_rural_villa/</loc>
+    <lastmod>2020-07-11T10:45:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/garden/gatcombe_rural_estate/</loc>
+    <lastmod>2020-07-10T15:13:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/garden/frocester_court_rural_vila/</loc>
+    <lastmod>2020-07-10T08:32:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/garden/fishbourne_roman_palace/</loc>
+    <lastmod>2020-07-09T18:05:37-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/garden/colonia_cologne_atrium/</loc>
     <lastmod>2020-07-09T07:38:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/garden/</loc>
-    <lastmod>2020-07-09T07:38:05-07:00</lastmod>
-  </url>
-  
-  <url>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <loc>https://christiancasey.github.io/garden/eccles_rural_villa/</loc>
-    <lastmod>2020-07-08T17:53:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/garden/</loc>
-=======
-    <loc>https://christiancasey.github.io/</loc>
-    <lastmod>2020-07-09T07:38:05-07:00</lastmod>
-  </url>
-  
-  <url>
-<<<<<<< HEAD
-    <loc>https://christiancasey.github.io/garden/eccles_rural_villa/</loc>
->>>>>>> 8dfb00c8534f3f9db46cc6866f96924735abb560
-    <lastmod>2020-07-08T17:53:24-04:00</lastmod>
-  </url>
-  
-  <url>
-<<<<<<< HEAD
-    <loc>https://christiancasey.github.io/</loc>
-=======
-    <loc>https://christiancasey.github.io/garden/</loc>
->>>>>>> 8dfb00c8534f3f9db46cc6866f96924735abb560
-=======
-=======
->>>>>>> 017e4e671149596ab81dcaffc3351402c7a2fa95
     <loc>https://christiancasey.github.io/garden/colonia_cologne_dionysius/</loc>
     <lastmod>2020-07-08T20:22:59-07:00</lastmod>
   </url>
@@ -52,13 +73,7 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/</loc>
-    <lastmod>2020-07-08T18:12:37-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/garden/eccles_rural_villa/</loc>
->>>>>>> 3b9fc219a518f0073db67ded3f633e0f9e320055
     <lastmod>2020-07-08T17:53:24-04:00</lastmod>
   </url>
   
@@ -89,11 +104,6 @@
   
   <url>
     <loc>https://christiancasey.github.io/province/britannia/</loc>
-    <lastmod>2020-07-07T12:53:41-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/province/</loc>
     <lastmod>2020-07-07T12:53:41-04:00</lastmod>
   </url>
   

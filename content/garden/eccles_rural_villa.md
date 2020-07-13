@@ -1,6 +1,7 @@
 ---
 title: "Eccles Rural Villa"
 date: 2020-07-08T17:53:24-04:00
+province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
