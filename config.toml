@@ -1,4 +1,4 @@
-baseURL = "https://christiancasey.github.io"
+baseURL = "https://christiancasey.github.io/"
 relativeURLs = true
 sourceRelativeLinksEval = false
 languageCode = "en-us"
@@ -17,16 +17,20 @@ enableInlineShortcodes = true
 		identifier = "about"
 		name = "About"
 		url = "/about/"
-
-	[[menu.main]]
-		identifier = "garden"
-		name = "Gardens"
-		url = "/garden/"
+		weight = -110
 
 	[[menu.main]]
 		identifier = "province"
 		name = "Provinces"
 		url = "/province/"
+		weight = -100
+
+	[[menu.main]]
+		identifier = "garden"
+		name = "Gardens"
+		url = "/garden/"
+		weight = -90
+
 
 [Params.sidebar]
 	home = "right" # Configure layout for home page

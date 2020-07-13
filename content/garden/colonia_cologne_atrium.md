@@ -9,7 +9,7 @@ draft: true
 ---
 
 # Province
-[Germania inferior]({{<ref../province/germania_inferior.md>}})
+[Germania inferior]({{<ref "../province/germania_inferior.md">}})
 
 # Location
 [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751)
@@ -43,7 +43,7 @@ apsed pools
 [piscinae]( http://vocab.getty.edu/page/aat/300375619)  
 
 ## Garden Description
-West of the [House of Dionysos](({{<ref../garden/colonia_cologne_dionysius.md>}})) stood the so-called "atrium house" which covered an area of 1400 sq. m. (Plan 1). It was built around the middle of the 1st century A.D.  
+West of the [House of Dionysos](({{<ref "../garden/colonia_cologne_dionysius.md">}})) stood the so-called "atrium house" which covered an area of 1400 sq. m. (Plan 1). It was built around the middle of the 1st century A.D.  
 
 Entering from the colonnaded street at the west, one passed through a room reconstructed as an atrium, continuing along a corridor around the *tablinum*, and arrived at a peristyle courtyard with a semicircular pool. This courtyard, approximately 10 x 13 m. in size, was almost certainly a garden (Plan 1, G). A ground level gutter ran around the edge of the unpaved courtyard. This part of the house remained unchanged until the destruction of the building in the 4th century.
 
@@ -92,4 +92,4 @@ Middle of the first century CE until the fourth century CE
 09 July 2020
 
 ## Related articles
-[House of Dionysos (Colonia Claudia Ara Agrippinensium)](({{<ref../garden/colonia_cologne_dionysius.md>}}))
+[House of Dionysos (Colonia Claudia Ara Agrippinensium)](({{<ref "../garden/colonia_cologne_dionysius.md">}}))

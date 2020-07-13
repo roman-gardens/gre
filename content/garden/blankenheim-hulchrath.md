@@ -9,7 +9,7 @@ draft: true
 ---
 
 # Province
-[Germania inferior]({{<ref../province/germania_inferior.md>}})
+[Germania inferior]({{<ref "../province/germania_inferior.md">}})
 
 # Location
 Blankenheim-Hülchrath
