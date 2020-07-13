@@ -1,7 +1,8 @@
 ---
+article-type: "province"
 title: "Dacia Traiana"
 date: 2020-07-11T19:24:47-04:00
-article_id: ARTICLE_ID
+province_id: PROVINCE_ID
 author: John Bodel
 editor: June Dorsch
 draft: true

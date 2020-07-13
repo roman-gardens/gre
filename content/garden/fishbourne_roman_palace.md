@@ -1,6 +1,7 @@
 ---
 title: "Fishbourne Roman Palace"
 date: 2020-07-09T18:05:37-04:00
+province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Kathryn Gleason
 editor: June Dorsch

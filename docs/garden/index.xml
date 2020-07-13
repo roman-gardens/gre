@@ -6,12 +6,18 @@
     <description>Recent content in Gardens on Gardens of the Roman Empire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
+    <lastBuildDate>Sun, 12 Jul 2020 07:56:03 -0400</lastBuildDate>
+=======
     <lastBuildDate>Sun, 12 Jul 2020 10:58:07 -0700</lastBuildDate>
+>>>>>>> 5e00edc298a800463f2ced1b16baf8737cc8c194
     
 	<atom:link href="https://christiancasey.github.io/gre/garden/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
+=======
       <title>Voerendaal</title>
       <link>https://christiancasey.github.io/gre/garden/voerendaal/</link>
       <pubDate>Sun, 12 Jul 2020 10:58:07 -0700</pubDate>
@@ -110,6 +116,7 @@ Keywords urban villas</description>
     </item>
     
     <item>
+>>>>>>> 5e00edc298a800463f2ced1b16baf8737cc8c194
       <title>Romula Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion</title>
       <link>https://christiancasey.github.io/gre/garden/romula_tomb_garden_of_aelius_iulius_iulianus_decurion/</link>
       <pubDate>Sun, 12 Jul 2020 07:56:03 -0400</pubDate>
@@ -217,11 +224,15 @@ Garden Description Fishbourne Roman Palace was accidentally discovered during th
       
       <guid>https://christiancasey.github.io/gre/garden/colonia_cologne_atrium/</guid>
       <description>Province Germania inferior
+<<<<<<< HEAD
+Province Description The Augustan military zone along the lower Rhine was formally reorganized as the province of Germania Inferior, Lower Germany, during the reign of Domitian around A.D. 85. Until this time, the area had been on the eastern fringe of the province of Gallia Belgica. The provincial capital was Colonia Claudia Ara Agrippinensium (modern Cologne). Numerous legionary and auxiliary bases fortified the lower Rhine frontier throughout its history.</description>
+=======
 Location Colonia Claudia Ara Agrippinensium (Cologne)
 Location Description This large town on the west bank of the Rhine river was the civitas capital of the Ubii in the first half of the 1st century A.D. It was granted the status of colonia by Claudius in 50 and became the provincial capital in 85.
 Sublocation Sublocation Description Garden Atrium House (Colonia Claudia Ara Agrippinensium)
 Keywords urban villas
 villae urbanae</description>
+>>>>>>> 5e00edc298a800463f2ced1b16baf8737cc8c194
     </item>
     
     <item>
@@ -231,10 +242,14 @@ villae urbanae</description>
       
       <guid>https://christiancasey.github.io/gre/garden/colonia_cologne_dionysius/</guid>
       <description>Province Germania inferior
+<<<<<<< HEAD
+Province Description The Augustan military zone along the lower Rhine was formally reorganized as the province of Germania Inferior, Lower Germany, during the reign of Domitian around A.D. 85. Until this time, the area had been on the eastern fringe of the province of Gallia Belgica. The provincial capital was Colonia Claudia Ara Agrippinensium (modern Cologne). Numerous legionary and auxiliary bases fortified the lower Rhine frontier throughout its history.</description>
+=======
 Location Colonia Claudia Ara Agrippinensium (Cologne)
 Location Description This large town on the west bank of the Rhine river was the civitas capital of the Ubii in the first half of the 1st century A.D. It was granted the status of colonia by Claudius in 50 and became the provincial capital in 85.
 Sublocation Sublocation Description Garden House of Dionysius (Colonia Claudia Ara Agrippinensium)
 Keywords urban villas</description>
+>>>>>>> 5e00edc298a800463f2ced1b16baf8737cc8c194
     </item>
     
     <item>
@@ -252,6 +267,15 @@ Garden Description This country estate in modern Kent possessed a large ornament
     </item>
     
     <item>
+<<<<<<< HEAD
+      <title>Blackenheim-Hülchrath</title>
+      <link>https://christiancasey.github.io/garden/blackenheim-hulchrath/</link>
+      <pubDate>Wed, 08 Jul 2020 10:39:31 -0700</pubDate>
+      
+      <guid>https://christiancasey.github.io/garden/blackenheim-hulchrath/</guid>
+      <description>Province Germania inferior
+Province Description The Augustan military zone along the lower Rhine was formally reorganized as the province of Germania Inferior, Lower Germany, during the reign of Domitian around A.D. 85. Until this time, the area had been on the eastern fringe of the province of Gallia Belgica. The provincial capital was Colonia Claudia Ara Agrippinensium (modern Cologne). Numerous legionary and auxiliary bases fortified the lower Rhine frontier throughout its history.</description>
+=======
       <title>Rustic villa at Blankenheim-Hülchrath</title>
       <link>https://christiancasey.github.io/gre/garden/blankenheim-hulchrath/</link>
       <pubDate>Wed, 08 Jul 2020 10:39:31 -0700</pubDate>
@@ -263,6 +287,7 @@ Location Description Sublocation Sublocation Description Garden Rustic villa at 
 Keywords rural villas
 villae rusticae
 Garden Description This villa rustica was built on a slope so that the residential building (A on Plan 1) overlooked the rest of the lower lying farmyard (Image 1). The entire complex covered an area 120 m. in width and 250 m. in length (3 hectares). The house was separated from a large open area behind and to the southwest of it by a wall.</description>
+>>>>>>> 5e00edc298a800463f2ced1b16baf8737cc8c194
     </item>
     
     <item>

@@ -6,12 +6,18 @@
     <description>Recent content in Provinces on Gardens of the Roman Empire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
+    <lastBuildDate>Sat, 11 Jul 2020 19:24:47 -0400</lastBuildDate>
+=======
     <lastBuildDate>Sun, 12 Jul 2020 10:26:59 -0700</lastBuildDate>
+>>>>>>> 5e00edc298a800463f2ced1b16baf8737cc8c194
     
 	<atom:link href="https://christiancasey.github.io/gre/province/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
+=======
       <title>Germania inferior</title>
       <link>https://christiancasey.github.io/gre/province/germania_inferior/</link>
       <pubDate>Sun, 12 Jul 2020 10:26:59 -0700</pubDate>
@@ -22,6 +28,7 @@ Province Description The Augustan military zone along the lower Rhine was formal
     </item>
     
     <item>
+>>>>>>> 5e00edc298a800463f2ced1b16baf8737cc8c194
       <title>Dacia Traiana</title>
       <link>https://christiancasey.github.io/gre/province/dacia_traiana/</link>
       <pubDate>Sat, 11 Jul 2020 19:24:47 -0400</pubDate>

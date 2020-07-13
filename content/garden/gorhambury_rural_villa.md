@@ -1,6 +1,7 @@
 ---
 title: "Gorhambury Rural Villa"
 date: 2020-07-11T10:45:22-04:00
+province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
