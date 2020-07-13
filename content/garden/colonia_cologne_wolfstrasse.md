@@ -9,7 +9,7 @@ draft: true
 ---
 
 # Province
-[Germania inferior]({{<ref../province/germania_inferior.md>}})
+[Germania inferior]({{<ref "../province/germania_inferior.md">}})
 
 # Location
 [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751)
@@ -38,7 +38,7 @@ urban villas
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
 
 ## Garden Description
-Only a fraction of this house in the immediate vicinity of the [house on Gertrudenstraße]({{<ref../garden/colonia_cologne_gertrudenstrasses.md>}}) was excavated. Enough was salvaged, however, to be able to recognize that the house was of the peristyle type (Plan 1). The house was built after the middle of the 1st century A.D. By the mid-4th century the building was ruinous and the stones of most of the walls were robbed for reuse elsewhere.      
+Only a fraction of this house in the immediate vicinity of the [house on Gertrudenstraße]({{<ref "../garden/colonia_cologne_gertrudenstrasse.md">}}) was excavated. Enough was salvaged, however, to be able to recognize that the house was of the peristyle type (Plan 1). The house was built after the middle of the 1st century A.D. By the mid-4th century the building was ruinous and the stones of most of the walls were robbed for reuse elsewhere.      
 
 The peristyle courtyard was ca. 7 m. wide and 11.30 m. long. Both faces of the wall surrounding it were plastered and painted red.  Presumably the wall was several courses high, much like a balustrade, with columns on top. There was a doorway or monumental entrance, 3.50 m. wide, to the courtyard at the southeast. The corridor around the garden was 3.10 m. wide and had a beaten earth floor resurfaced more than once. Most of the original earth in the courtyard had been disturbed or removed in post-Roman times, but there was clearly no sign of a paved surface or beaten earth floors that had been trodden in the courtyard, so that one might postulate the existence of loose garden soil here during the occupation of the house (G on Plan 1). In the northern part of the courtyard was a deep, circular shaft which may have been a well (W on Plan 1), the stone courses of which had been robbed out.
 
