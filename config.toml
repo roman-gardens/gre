@@ -1,5 +1,5 @@
-baseURL = "https://christiancasey.github.io/"
-relativeURLs = true
+baseURL = "https://christiancasey.github.io/gre/"
+relativeURLs = false
 
 languageCode = "en-us"
 title = "Gardens of the Roman Empire"
