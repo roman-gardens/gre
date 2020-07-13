@@ -9,7 +9,7 @@ draft: true
 
 # Province
 
-[Germania Superior](/province/germania_superior/)
+[Germania Superior]({{<ref "province/germania_superior.md">}})  
 
 ## Province Description
 

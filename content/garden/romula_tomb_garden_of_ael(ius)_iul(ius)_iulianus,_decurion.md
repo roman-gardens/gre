@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-[Dacia Traiana](/province/dacia_traiana)
+[Dacia Traiana]({{<ref "province/dacia_traiana.md">}})  
 
 # Province Description
 
