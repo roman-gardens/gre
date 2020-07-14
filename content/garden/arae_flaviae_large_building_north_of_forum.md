@@ -58,7 +58,7 @@ This building ca. 95 meters in width consisted of several units built at differe
 ## Plans
 
 ![Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2.](/images/EUR_GS_AraFla_Bnf_carroll.jpg)
-*Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2.*
+*Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2. (Rights statement)*
 
 ## Images
 
@@ -69,11 +69,11 @@ This building ca. 95 meters in width consisted of several units built at differe
 
 ## Dates
 
-The complex built at the earliest during the reign of Trajan
+Complex built at the earliest during the reign of Trajan.
 
 ## Bibliography
 
-* C. S. Sommer, "Municipium Arae Flaviae. Militärisches und ziviles Zentrum im rechtsrheinischen Obergermanien," *Bericht der Römisch-Germanischen Kommission 73*, 1992: 301-302, Beilage 1.2. [(worldcat)](WORLDCAT_LINK_URL)
+* C. S. Sommer, "Municipium Arae Flaviae. Militärisches und ziviles Zentrum im rechtsrheinischen Obergermanien," *Bericht der Römisch-Germanischen Kommission 73*, 1992: 301-302, Beilage 1.2.
 
 ### Periodo ID
 
