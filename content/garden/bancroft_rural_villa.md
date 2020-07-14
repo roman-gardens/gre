@@ -10,7 +10,11 @@ draft: false
 
 # Province
 
+<<<<<<< HEAD
 [Britannia]({{<ref "province/britannia.md">}})  
+=======
+[Britannia]({{<ref "province/britannia.md">}}) 
+>>>>>>> 70dc3b928bb251a0bab50f45f897f86ee596c555
 
 # Province Description
 

@@ -1,0 +1,3 @@
+ - [ ] Check all the keywords for one standard getty url
+ - [x] Make a really cool project
+ - [ ] Another todo item
