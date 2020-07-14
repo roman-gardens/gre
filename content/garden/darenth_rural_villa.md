@@ -1,5 +1,5 @@
 ---
-title: "Darenth Rural Villa"
+title: "Rural Villa at Darenth"
 date: 2020-07-08T12:08:30-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -36,7 +36,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Darenth Rural Villa
+Rural Villa at Darenth
 
 ## Keywords
 

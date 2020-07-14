@@ -1,5 +1,5 @@
 ---
-title: "Camulodunum Suburban Gardens"
+title: "Suburban Gardens at Camulodunum"
 date: 2020-07-06T16:47:36-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -36,11 +36,10 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Camulodunum Suburban Gardens
-
+Suburban Gardens at Camulodunum
 
 ## Keywords
- 
+
 [villae suburbanae](http://vocab.getty.edu/page/aat/300005519)
 
 ## Garden Description

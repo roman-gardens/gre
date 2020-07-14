@@ -1,5 +1,5 @@
 ---
-title: "Eccles Rural Villa"
+title: "Rural Villa at Eccles"
 date: 2020-07-08T17:53:24-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -36,13 +36,13 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Eccles Rural Villa
+Rural Villa at Eccles
 
 ## Keywords
 
-[balnea](http://vocab.getty.edu/page/aat/300120377)  
 [piscinae]( http://vocab.getty.edu/page/aat/300375619)
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
+[water baths](http://vocab.getty.edu/page/aat/300248755)
 
 ## Garden Description
 

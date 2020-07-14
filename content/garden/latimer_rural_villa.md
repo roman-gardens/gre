@@ -1,5 +1,5 @@
 ---
-title: "Latimer Rural Villa"
+title: "Rural Villa at Latimer"
 date: 2020-07-11T11:20:32-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -36,7 +36,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Latimer Rural Villa
+Rural Villa at Latimer
 
 ## Keywords
 

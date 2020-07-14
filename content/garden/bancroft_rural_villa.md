@@ -1,5 +1,5 @@
 ---
-title: "Bancroft Rural Villa"
+title: "Rural Villa at Bancroft"
 date: 2020-07-07T18:04:20-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -10,11 +10,7 @@ draft: false
 
 # Province
 
-<<<<<<< HEAD
 [Britannia]({{<ref "province/britannia.md">}})  
-=======
-[Britannia]({{<ref "province/britannia.md">}}) 
->>>>>>> 70dc3b928bb251a0bab50f45f897f86ee596c555
 
 # Province Description
 
@@ -40,14 +36,15 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Bancroft Rural Villa
+Rural Villa at Bancroft
 
 ## Keywords
 
-[balnea](http://vocab.getty.edu/page/aat/300120377)  
 [gazebos](http://vocab.getty.edu/page/aat/300006798)  
 [piscinae]( http://vocab.getty.edu/page/aat/300375619)  
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
+[villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+[water baths](http://vocab.getty.edu/page/aat/300248755)
+
 
 ## Garden Description
 

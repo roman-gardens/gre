@@ -1,5 +1,5 @@
 ---
-title: "Frocester Court Rural Vila"
+title: "Rural Vila at Frocester Court"
 date: 2020-07-10T08:32:55-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -36,7 +36,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Frocester Court Rural Villa
+Rural Villa at Frocester Court
 
 ## Keywords
 

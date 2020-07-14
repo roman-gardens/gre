@@ -1,5 +1,5 @@
 ---
-title: "Chedworth Rural Villa"
+title: "Rural Villa at Chedworth"
 date: 2020-07-08T08:19:06-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -36,14 +36,14 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Chedworth Rural Villa
+Rural Villa at Chedworth
 
 ## Keywords
 
-[balnea](http://vocab.getty.edu/page/aat/300120377)  
 [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)  
 [sherds](http://vocab.getty.edu/page/aat/300117132)  
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+[villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
+[water baths](http://vocab.getty.edu/page/aat/300248755)
 
 ## Garden Description
 

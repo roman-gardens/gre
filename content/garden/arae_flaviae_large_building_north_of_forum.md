@@ -1,6 +1,7 @@
 ---
-title: "Arae Flaviae Large Building north of Forum"
+title: "Large Building north of Forum at Arae Flaviae"
 date: 2020-07-13T11:07:51-04:00
+province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
@@ -37,7 +38,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Arae Flaviae Large Building north of Forum
+Large Building north of Forum at Arae Flaviae
 
 ## Keywords
 
@@ -57,7 +58,7 @@ This building ca. 95 meters in width consisted of several units built at differe
 
 ## Plans
 
-![Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2.](/../../images/EUR_GS_AraFla_Bnf_carroll.jpg)
+![Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2.](../../images/EUR_GS_AraFla_Bnf_carroll.jpg)
 *Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2. (Rights statement)*
 
 ## Images

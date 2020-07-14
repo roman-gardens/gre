@@ -1,5 +1,5 @@
 ---
-title: "Sudeley/Spoonley Wood"
+title: "Rural Villa at Sudeley/Spoonley Wood"
 date: 2020-07-11T18:57:34-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -36,7 +36,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Sudeley/Spoonley Wood Rural Villa
+Rural Villa at Sudeley/Spoonley Wood
 
 ## Keywords
 
