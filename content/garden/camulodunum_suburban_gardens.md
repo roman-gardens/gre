@@ -40,8 +40,7 @@ Camulodunum Suburban Gardens
 
 
 ## Keywords
-
-[fosses]( http://vocab.getty.edu/page/aat/300101513)  
+ 
 [villae suburbanae](http://vocab.getty.edu/page/aat/300005519)
 
 ## Garden Description

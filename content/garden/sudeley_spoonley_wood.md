@@ -58,7 +58,7 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 ## Plans
 
 ![Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden](../../images/Sudeley_Fig_16_or_11.1.jpg)
-*Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden*
+*Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden. (Rights statement)*
 
 ## Images
 

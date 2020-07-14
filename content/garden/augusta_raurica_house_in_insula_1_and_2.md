@@ -1,15 +1,15 @@
 ---
-title: "Augusta_raurica_house_in_insula_1_and_2"
+title: "Augusta Raurica House in Insula 1 and 2"
 date: 2020-07-13T17:34:54-04:00
 article_id: ARTICLE_ID
-author: NAME_OF_AUTHOR
-editor: NAME_OF_EDITOR
+author: Maureen Carroll
+editor: June Dorsch
 draft: true
 ---
 
 # Province
 
-<!--- Content of Province heading --->
+[Germania Superior]({{<ref "province/germania_superior.md">}})  
 
 ## Province Description
 
@@ -18,15 +18,15 @@ draft: true
 
 # Location
 
-<!-- [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751) -->
+[Augusta Raurica](https://pleiades.stoa.org/places/177494)
 
 ## Location Description
 
-<!-- LEAVE THIS BLANK FOR NOW -->
+The town on the Rhine River possessed colonial status since the late 1st century BC. The street grid, as well as many public and residential buildings, are well known from excavations.
 
 # Sublocation
 
-<!-- 
+<!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
@@ -49,21 +49,21 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Maps
 
-<!-- 
+<!--
 ![ALT_TEXT](IMG_URL)
 *CAPTION*
 -->
 
 ## Plans
 
-<!-- 
+<!--
 ![ALT_TEXT](IMG_URL)
 *CAPTION*
 -->
 
 ## Images
 
-<!-- 
+<!--
 ![ALT_TEXT](IMG_URL)
 *CAPTION*
 -->
@@ -74,8 +74,8 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Bibliography
 
-<!-- 
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL) 
+<!--
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
 ### Periodo ID
