@@ -1,10 +1,12 @@
 apsed pools
+apsed triclinium
 [arbors](http://vocab.getty.edu/page/aat/300006781)
 [atrium houses] (http://vocab.getty.edu/page/aat/300005451)
 [atriums](http://vocab.getty.edu/page/aat/300004097)
 [axial plan](http://vocab.getty.edu/page/aat/300121971)
 [barrier walls](http://vocab.getty.edu/page/aat/300419302)
 [epitaphs](http://vocab.getty.edu/page/aat/300028729)
+[exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
 [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
 [colonnades](http://vocab.getty.edu/page/aat/300002613)
 [former reservoirs](http://vocab.getty.edu/page/aat/300386966)
