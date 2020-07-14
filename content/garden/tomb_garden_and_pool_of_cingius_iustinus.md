@@ -1,15 +1,15 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Tomb Garden and Pool of Cingius Iustinus"
+date: 2020-07-14T16:52:02-04:00
 article_id: ARTICLE_ID
-author: NAME_OF_AUTHOR
-editor: NAME_OF_EDITOR
-draft: true
+author: John Bodel
+editor: Christian Casey
+draft: false
 ---
 
 # Province
 
-<!--- Content of Province heading --->
+[Dalmatia]({{<ref "province/dalmatia.md">}})
 
 ## Province Description
 
@@ -18,7 +18,7 @@ draft: true
 
 # Location
 
-<!-- [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751) -->
+[Salona](https://pleiades.stoa.org/places/197488)
 
 ## Location Description
 
@@ -37,15 +37,19 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-<!-- NAME_OF_GARDEN -->
+Tomb Garden and Pool of Cingius Iustinus
 
 
 ## Keywords
 
-<!-- [piscinae](http://vocab.getty.edu/page/aat/300375619), []() -->
+* [piscinae](http://vocab.getty.edu/page/aat/300375619)
+* [tombs](http://vocab.getty.edu/page/aat/300005926)  
+* [epitaphs](http://vocab.getty.edu/page/aat/300028729)
+
 
 ## Garden Description
 
+A rock cut inscription at Salonae marks the spot where some time in the late second or third century Cingius Iustinus made a fishpond or pool (piscina) in the garden of his wife Aelia Licinia for her and for himself (*fecit piscinam in horto Aeliae Liciniae coiugi incomparabili et sibi*). No tomb is mentioned, but the dedication *D(is) M(anibus)* identifies the text as an epitaph and thus points to a funerary context.
 
 ## Maps
 
@@ -69,14 +73,12 @@ A sublocation is any area larger than an individual garden, but located within a
 -->
 
 ## Dates
-<!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
-<!-- If no date, use "unspecified" -->
+
+Late second or third century (CE)
 
 ## Bibliography
 
-<!-- 
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL) 
--->
+1. CIL 3.2279
 
 ### Periodo ID
 
@@ -85,25 +87,25 @@ A sublocation is any area larger than an individual garden, but located within a
 ### Pleiades ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
-<!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+[197488](https://pleiades.stoa.org/places/197488)
 
 ### TGN ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
-<!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
+[7017320](http://vocab.getty.edu/page/tgn/7017320)
 
 ## Contributor
 
-<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
+[John Bodel](https://www.brown.edu/academics/history/people/john-bodel)
 
 ### ORCID
 
-<!-- [ORCID](https://orcid.org/ORCID) -->
+[0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368)
 
 ## Publication date
 <!-- Format: dd MONTH_NAME yyyy -->
 
-<!-- DATE -->
+14 July 2020
 
 ## Related articles
 

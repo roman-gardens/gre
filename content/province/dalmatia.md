@@ -1,10 +1,10 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-article_id: ARTICLE_ID
-author: NAME_OF_AUTHOR
-editor: NAME_OF_EDITOR
-draft: true
+article-type: "province"
+title: "Dalmatia"
+date: 2020-07-14T16:46:14-04:00
+province_id: PROVINCE_ID
+editor: Christian Casey
+draft: false
 ---
 
 # Province
@@ -36,37 +36,9 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- DESCRIPTION -->
 
 # Garden
+<!-- List of gardens in province -->
+<!-- May be left blank for now -->
 
-<!-- NAME_OF_GARDEN -->
-
-
-## Keywords
-
-<!-- [piscinae](http://vocab.getty.edu/page/aat/300375619), []() -->
-
-## Garden Description
-
-
-## Maps
-
-<!-- 
-![alt_text](../../images/image_name.ext)
-*CAPTION*
--->
-
-## Plans
-
-<!-- 
-![ALT_TEXT](IMG_URL)
-*CAPTION*
--->
-
-## Images
-
-<!-- 
-![alt_text](../../images/image_name.ext)
-*CAPTION*
--->
 
 ## Dates
 <!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
@@ -104,7 +76,3 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- Format: dd MONTH_NAME yyyy -->
 
 <!-- DATE -->
-
-## Related articles
-
-<!-- Links to other related articles. Leave blank for now -->
