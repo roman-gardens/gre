@@ -64,7 +64,7 @@ The house had a peristyle courtyard of rectangular shape which was surrounded on
 
 ## Plans
 
-![Fig. 1: Plan of a house in Insula 30 with a garden courtyard (G). Plan adapted from Laur-Belart 1988, fig. 126.](../../images/EUR_GS_AugRau_Hi13_carroll.jpg)
+![Fig. 1: Plan of a house in Insula 30 with a garden courtyard (G). Plan adapted from Laur-Belart 1988, fig. 126.](../../images/EUR_GS_AugRau_Hi30_carroll.jpg)
 *Fig. 1: Plan of a house in Insula 30 with a garden courtyard (G). Plan adapted from Laur-Belart 1988, fig. 126. (Rights statement)*
 
 ## Images
