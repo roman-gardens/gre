@@ -1,5 +1,5 @@
 ---
-title: "Rural Villa at Bancroft"
+title: "Rural Villa in Bancroft"
 date: 2020-07-07T18:04:20-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -36,7 +36,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Rural Villa at Bancroft
+Rural Villa in Bancroft
 
 ## Keywords
 

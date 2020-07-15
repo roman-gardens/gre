@@ -1,10 +1,11 @@
 ---
-title: "House in Insula 13 at Aventicum"
+title: "House in Insula 13 in Aventicum"
 date: 2020-07-15T10:06:00-04:00
+province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: NAME_OF_AUTHOR
-editor: NAME_OF_EDITOR
-draft: true
+author: Maureen Carroll
+editor: June Dorsch
+draft: false
 ---
 
 # Province
@@ -37,7 +38,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-House in Insula 13 at Aventicum
+House in Insula 13 in Aventicum
 
 ## Keywords
 
@@ -63,7 +64,7 @@ The most remarkable feature of the building was a T-shaped garden courtyard (G i
 ## Plans
 
 ![Fig. 1: Plan of a courtyard house in Insula 13 with a peristyle garden (G) and pool (grey). Plan adapted from Carroll 2001, fig. 20.](../../images/EUR_GS_AugRau_Hi13_carroll.jpg)
-*[Fig. 1: Plan of a courtyard house in Insula 13 with a peristyle garden (G) and pool (grey). Plan adapted from Carroll 2001, fig. 20. (Rights statement)*
+*Fig. 1: Plan of a courtyard house in Insula 13 with a peristyle garden (G) and pool (grey). Plan adapted from Carroll 2001, fig. 20. (Rights statement)*
 
 ## Images
 

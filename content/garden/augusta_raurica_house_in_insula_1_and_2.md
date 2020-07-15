@@ -1,11 +1,11 @@
 ---
-title: "House in Insula 1 and 2 at Augusta Raurica"
+title: "House in Insula 1 and 2 in Augusta Raurica"
 date: 2020-07-13T17:34:54-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -38,7 +38,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-House in Insula 1 and 2 at Augusta Raurica
+House in Insula 1 and 2 in Augusta Raurica
 
 ## Keywords
 [barrier walls](http://vocab.getty.edu/page/aat/300419302)  

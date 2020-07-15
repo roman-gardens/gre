@@ -1,11 +1,11 @@
 ---
-title: "Rural Estate at Gatcombe"
+title: "Rural Estate in Gatcombe"
 date: 2020-07-10T15:13:29-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -36,7 +36,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Rural Estate at Gatcombe
+Rural Estate in Gatcombe
 
 ## Keywords
 
