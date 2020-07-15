@@ -1,5 +1,5 @@
 ---
-title: "Darenth Rural Villa"
+title: "Rural Villa at Darenth"
 date: 2020-07-08T12:08:30-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-[Britannia](/province/britannia/)
+[Britannia]({{<ref "province/britannia.md">}})  
 
 # Province Description
 
@@ -36,7 +36,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Darenth Rural Villa
+Rural Villa at Darenth
 
 ## Keywords
 
@@ -59,7 +59,7 @@ South of the western range of rooms was a large, open space measuring 14.6 x 58.
 ## Plans
 
 ![Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20](../../images/Darenth_fig_4.tif)
-*Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20.*
+*Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20. (Rights statement)*
 
 ## Images
 

@@ -1,5 +1,5 @@
 ---
-title: "Gorhambury Rural Villa"
+title: "Rural Villa at Gorhambury"
 date: 2020-07-11T10:45:22-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-[Britannia](/province/britannia/)
+[Britannia]({{<ref "province/britannia.md">}})  
 
 # Province Description
 
@@ -36,8 +36,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Gorhambury Rural Villa
-
+Rural Villa at Gorhambury
 
 ## Keywords
 
@@ -62,7 +61,7 @@ An avenue 20 meters wide led axially from the gate at the eastern end of the inn
 ## Plans
 
 ![Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn.](../../images/Gorhambury_13_or_9.1.jpg)
-*Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn.*
+*Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn. (Rights statement)*
 
 ## Images
 

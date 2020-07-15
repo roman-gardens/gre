@@ -1,5 +1,5 @@
 ---
-title: "Camulodunum Suburban Gardens"
+title: "Suburban Gardens at Camulodunum"
 date: 2020-07-06T16:47:36-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-[Britannia](/province/britannia/)  
+[Britannia]({{<ref "province/britannia.md">}})  
 
 # Province Description
 
@@ -36,12 +36,10 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Camulodunum Suburban Gardens
-
+Suburban Gardens at Camulodunum
 
 ## Keywords
 
-[fosses]( http://vocab.getty.edu/page/aat/300101513)  
 [villae suburbanae](http://vocab.getty.edu/page/aat/300005519)
 
 ## Garden Description
@@ -54,10 +52,7 @@ Outside the walls of the city, utilitarian gardens were planted, possibly in the
 
 ## Images
 
-*Fig. 1: Area outside the Balkerne gate before widening of
-the town ditch. Details of the beds in the
-middle of the section of are gardens in the foreground are based on excavation. From Crummy, City of
-Victory, p. 42*
+*Fig. 1: Area outside the Balkerne gate before widening of the town ditch. Details of the beds in the middle of the section of are gardens in the foreground are based on excavation. From Crummy, City of Victory, p. 42. (Rights statement)*
 <!--The figure doesn't appear to be in the Britannia province image folder.-->
 
 

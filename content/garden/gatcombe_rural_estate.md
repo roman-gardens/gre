@@ -1,5 +1,5 @@
 ---
-title: "Gatcombe Rural Estate"
+title: "Rural Estate at Gatcombe"
 date: 2020-07-10T15:13:29-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-[Britannia](/province/britannia/)  
+[Britannia]({{<ref "province/britannia.md">}})  
 
 # Province Description
 
@@ -36,8 +36,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Gatcombe Rural Estate
-
+Rural Estate at Gatcombe
 
 ## Keywords
 
@@ -57,7 +56,7 @@ This site of a large rural estate about 9 hectares in size in Somerset is enclos
 ## Plans
 
 ![Fig. 1: Plan of the farm with villa buildings (A).](../../images/Gatcombe_fig_12_or_8.1.jpg)
-*Fig. 1: Plan of the farm with villa buildings (A).*
+*Fig. 1: Plan of the farm with villa buildings (A).(Rights statement)*
 
 ## Images
 

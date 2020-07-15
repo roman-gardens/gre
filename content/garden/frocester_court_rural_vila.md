@@ -1,5 +1,5 @@
 ---
-title: "Frocester Court Rural Vila"
+title: "Rural Vila at Frocester Court"
 date: 2020-07-10T08:32:55-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-[Britannia](/province/britannia/)
+[Britannia]({{<ref "province/britannia.md">}})  
 
 # Province Description
 
@@ -36,7 +36,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Frocester Court Rural Villa
+Rural Villa at Frocester Court
 
 ## Keywords
 
@@ -60,7 +60,7 @@ Excavated evidence indicates that this courtyard was designed as a formal garden
 ## Plans
 
 ![Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2.](../../images/Frocester_Fig_10_or_7.1a.jpg)
-*Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2.*
+*Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2. (Rights statement)*
 
 ## Images
 

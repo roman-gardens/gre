@@ -1,5 +1,5 @@
 ---
-title: "Chester Tomb Painting"
+title: "Tomb Painting at Chester"
 date: 2020-07-08T08:58:47-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -10,7 +10,7 @@ draft: false
 
 # Province
 
-[Britannia](/province/britannia/)
+[Britannia]({{<ref "province/britannia.md">}})  
 
 # Province Description
 
@@ -36,7 +36,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Chester Tomb Painting
+Tomb Painting at Chester
 
 ## Keywords
 

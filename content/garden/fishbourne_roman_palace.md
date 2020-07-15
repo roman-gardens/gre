@@ -1,5 +1,5 @@
 ---
-title: "Fishbourne Roman Palace"
+title: "Roman Palace at Fishbourne"
 date: 2020-07-09T18:05:37-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-[Britannia](/province/britannia/)  
+[Britannia]({{<ref "province/britannia.md">}})  
 
 ## Province Description
 
@@ -38,7 +38,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Fishbourne Roman Palace
+Roman Palace at Fishbourne
 
 ## Keywords
 

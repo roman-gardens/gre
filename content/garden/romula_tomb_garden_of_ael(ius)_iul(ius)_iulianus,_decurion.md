@@ -1,5 +1,5 @@
 ---
-title: "Romula Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion"
+title: "Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion at Romula"
 date: 2020-07-12T07:56:03-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-[Dacia Traiana](/province/dacia_traiana)
+[Dacia Traiana]({{<ref "province/dacia_traiana.md">}})  
 
 # Province Description
 
@@ -36,7 +36,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Romula Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion
+Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion at Romula
 
 ## Keywords
 

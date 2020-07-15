@@ -1,5 +1,5 @@
 ---
-title: "Bancroft Rural Villa"
+title: "Rural Villa at Bancroft"
 date: 2020-07-07T18:04:20-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -10,7 +10,7 @@ draft: false
 
 # Province
 
-[Britannia]({{<ref "province/britannia.md">}}) 
+[Britannia]({{<ref "province/britannia.md">}})  
 
 # Province Description
 
@@ -36,14 +36,14 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Bancroft Rural Villa
+Rural Villa at Bancroft
 
 ## Keywords
 
-[balnea](http://vocab.getty.edu/page/aat/300120377)  
+[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)  
 [gazebos](http://vocab.getty.edu/page/aat/300006798)  
 [piscinae]( http://vocab.getty.edu/page/aat/300375619)  
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
+[villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ## Garden Description
 
@@ -58,7 +58,7 @@ The villa complex that preceded the winged corridor house is also of interest in
 ## Plans
 
 ![Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.](../../images/Bancroft_fig_1.jpg)
-*Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.*
+*Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.(Rights statement.)*
 
 ## Images
 

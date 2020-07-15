@@ -1,5 +1,5 @@
 ---
-title: "Eccles Rural Villa"
+title: "Rural Villa at Eccles"
 date: 2020-07-08T17:53:24-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-[Britannia](/province/britannia/)
+[Britannia]({{<ref "province/britannia.md">}})  
 
 # Province Description
 
@@ -36,13 +36,13 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Eccles Rural Villa
+Rural Villa at Eccles
 
 ## Keywords
 
-[balnea](http://vocab.getty.edu/page/aat/300120377)  
 [piscinae]( http://vocab.getty.edu/page/aat/300375619)
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
+[water baths](http://vocab.getty.edu/page/aat/300248755)
 
 ## Garden Description
 
@@ -53,12 +53,12 @@ This country estate in modern Kent possessed a large ornamental pool (P in Fig. 
 ## Plans
 
 ![Fig. 1: Plan of the villa with the main house (A), a possible garden (G) and a large pool (P). Adapted from Detsicas 1983, fig. 25.](../../images/Eccles_Fig_1.tif)
-*Fig. 1: Plan of the villa with the main house (A), a possible garden (G) and a large pool (P). Adapted from Detsicas 1983, fig. 25.*
+*Fig. 1: Plan of the villa with the main house (A), a possible garden (G) and a large pool (P). Adapted from Detsicas 1983, fig. 25. (Rights statement)*
 
 ## Images
 
 ![Fig. 2: Clay planting pot with cut-out holes. Adapted from Detsicas 1981, fig. 26.2.](../../images/Eccles_Fig_2.jpg)
-*Fig. 2: Clay planting pot with cut-out holes. Adapted from Detsicas 1981, fig. 26.2.*
+*Fig. 2: Clay planting pot with cut-out holes. Adapted from Detsicas 1981, fig. 26.2. (Rights statement)*
 
 ## Dates
 

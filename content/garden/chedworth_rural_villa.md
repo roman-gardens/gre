@@ -1,5 +1,5 @@
 ---
-title: "Chedworth Rural Villa"
+title: "Rural Villa at Chedworth"
 date: 2020-07-08T08:19:06-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -10,7 +10,7 @@ draft: false
 
 # Province
 
-[Britannia](/province/britannia/)
+[Britannia]({{<ref "province/britannia.md">}})  
 
 # Province Description
 
@@ -36,14 +36,14 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Chedworth Rural Villa
+Rural Villa at Chedworth
 
 ## Keywords
 
-[balnea](http://vocab.getty.edu/page/aat/300120377)  
+[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)  
 [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)  
 [sherds](http://vocab.getty.edu/page/aat/300117132)  
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+[villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
 
 ## Garden Description
 
@@ -56,7 +56,7 @@ Parts of the villa may date to the early 3rd century A.D. at the latest, but ext
 ## Plans
 
 ![Fig. 1: Plan of the villa and its garden (G) in the courtyard. Plan by M. Carroll and C. Merrony.](../../images/Chedworth_fig_3.jpg)
-*Fig. 1: Plan of the villa and its garden (G) in the courtyard. Plan by M. Carroll and C. Merrony.*
+*Fig. 1: Plan of the villa and its garden (G) in the courtyard. Plan by M. Carroll and C. Merrony.(Rights statement)*
 
 ## Images
 

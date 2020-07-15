@@ -1,5 +1,5 @@
 ---
-title: "Latimer Rural Villa"
+title: "Rural Villa at Latimer"
 date: 2020-07-11T11:20:32-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-[Britannia](/province/britannia/)
+[Britannia]({{<ref "province/britannia.md">}})  
 
 # Province Description
 
@@ -36,7 +36,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Latimer Rural Villa
+Rural Villa at Latimer
 
 ## Keywords
 
@@ -58,7 +58,7 @@ Excavations at this country house in Buckinghamshire have produced evidence for 
 ## Plans
 
 ![Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.](../../images/Latimer_fig_14_or_10.1a.jpg)
-*Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.*
+*Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.(Rights statement)*
 
 ## Images
 
