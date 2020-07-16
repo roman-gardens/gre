@@ -1,11 +1,11 @@
 ---
-title: "Palatial House in Insula 7 at Aventicum"
+title: "Palatial House in Insula 7 in Aventicum"
 date: 2020-07-14T14:48:37-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -38,17 +38,17 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Palatial House in Insula 7 at Aventicum
+Palatial House in Insula 7 in Aventicum
 
 ## Keywords
 
-[axial plan](http://vocab.getty.edu/page/aat/300121971)
+[axial plan](http://vocab.getty.edu/page/aat/300121971)  
 [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)  
 [drains](http://vocab.getty.edu/page/aat/300052564)   
 [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)  
 [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)  
 [palaces](http://vocab.getty.edu/page/aat/300005734)  
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
 [piscinae]( http://vocab.getty.edu/page/aat/300375619)
 
 ## Garden Description

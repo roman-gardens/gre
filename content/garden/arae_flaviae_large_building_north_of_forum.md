@@ -1,11 +1,11 @@
 ---
-title: "Large Building north of Forum at Arae Flaviae"
+title: "Large Building north of Forum in Arae Flaviae"
 date: 2020-07-13T11:07:51-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -38,7 +38,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Large Building north of Forum at Arae Flaviae
+Large Building north of Forum in Arae Flaviae
 
 ## Keywords
 

@@ -1,11 +1,11 @@
 ---
-title: "Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion at Romula"
+title: "Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion in Romula"
 date: 2020-07-12T07:56:03-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -36,7 +36,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion at Romula
+Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion in Romula
 
 ## Keywords
 

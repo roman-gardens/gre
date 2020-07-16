@@ -1,11 +1,11 @@
 ---
-title: "Rural Villa at Gorhambury"
+title: "Rural Villa in Gorhambury"
 date: 2020-07-11T10:45:22-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -36,7 +36,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Rural Villa at Gorhambury
+Rural Villa in Gorhambury
 
 ## Keywords
 

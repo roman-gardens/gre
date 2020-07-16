@@ -1,5 +1,5 @@
 ---
-title: "Rural Villa at Chedworth"
+title: "Rural Villa in Chedworth"
 date: 2020-07-08T08:19:06-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -36,7 +36,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Rural Villa at Chedworth
+Rural Villa in Chedworth
 
 ## Keywords
 

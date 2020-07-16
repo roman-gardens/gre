@@ -1,11 +1,11 @@
 ---
-title: "Tomb Garden of Anonymous Gaul at Andematunnum"
+title: "Tomb Garden of Anonymous Gaul in Andematunnum"
 date: 2020-07-13T10:33:04-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -38,7 +38,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Tomb Garden of Anonymous Gaul at Andematunnum
+Tomb Garden of Anonymous Gaul in Andematunnum
 
 ## Keywords
 
