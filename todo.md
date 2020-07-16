@@ -1,3 +1,4 @@
  - [ ] Check all the keywords for one standard getty url
  - [x] Make a really cool project
- - [ ] Another todo item
+ - [ ] Check for all comments containing some mention of "cross references", add links to relevant pages
+ - [ ] 
