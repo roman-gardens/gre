@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Dietikon"
 date: 2020-07-15T13:09:50-04:00
+province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Christa Ebnöther, Maureen Carroll
 editor: June Dorsch
