@@ -1,16 +1,15 @@
 ---
-title: "Tomb Garden and Pool of Cingius Iustinus"
-date: 2020-07-14T16:52:02-04:00
+title: "Italia"
+date: 2020-07-20T16:11:04-04:00
 article_id: ARTICLE_ID
-author: [ John Bodel, Other Guy ]
-editor: Christian Casey
-lead: "written by John Bodel, edited by Christian Casey"
-draft: false
+author: NAME_OF_AUTHOR
+editor: NAME_OF_EDITOR
+draft: true
 ---
 
 # Province
 
-[Dalmatia]({{<ref "province/dalmatia.md">}})
+<!--- Content of Province heading --->
 
 ## Province Description
 
@@ -19,7 +18,7 @@ draft: false
 
 # Location
 
-[Salona](https://pleiades.stoa.org/places/197488)
+<!-- [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751) -->
 
 ## Location Description
 
@@ -28,6 +27,8 @@ draft: false
 # Sublocation
 
 <!-- 
+Regio IX
+
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
@@ -36,50 +37,65 @@ A sublocation is any area larger than an individual garden, but located within a
 
 <!-- DESCRIPTION -->
 
+# Insula
+
+# House
+
 # Garden
 
-Tomb Garden and Pool of Cingius Iustinus
+
+<!-- NAME_OF_GARDEN -->
 
 
 ## Keywords
 
-* [piscinae](http://vocab.getty.edu/page/aat/300375619)
-* [tombs](http://vocab.getty.edu/page/aat/300005926)  
-* [epitaphs](http://vocab.getty.edu/page/aat/300028729)
-
+<!-- [piscinae](http://vocab.getty.edu/page/aat/300375619), []() -->
 
 ## Garden Description
 
-A rock cut inscription at Salonae marks the spot where some time in the late second or third century Cingius Iustinus made a fishpond or pool (piscina) in the garden of his wife Aelia Licinia for her and for himself (*fecit piscinam in horto Aeliae Liciniae coiugi incomparabili et sibi*). No tomb is mentioned, but the dedication *D(is) M(anibus)* identifies the text as an epitaph and thus points to a funerary context.
 
 ## Maps
 
 <!-- 
+OLD WAY (DO NOT USE)
 ![alt_text](../../images/image_name.ext)
 *CAPTION*
+
+NEW WAY ↓↓↓↓
+{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Plans
 
 <!-- 
-![ALT_TEXT](IMG_URL)
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
 *CAPTION*
+
+NEW WAY ↓↓↓↓
+{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Images
 
 <!-- 
+OLD WAY (DO NOT USE)
 ![alt_text](../../images/image_name.ext)
 *CAPTION*
+
+NEW WAY ↓↓↓↓
+{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Dates
-
-Late second or third century (CE)
+<!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
+<!-- If no date, use "unspecified" -->
 
 ## Bibliography
 
-1. *CIL* 3.2279
+<!-- 
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL) 
+-->
 
 ### Periodo ID
 
@@ -88,25 +104,21 @@ Late second or third century (CE)
 ### Pleiades ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
-[197488](https://pleiades.stoa.org/places/197488)
+<!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### TGN ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
-[7017320](http://vocab.getty.edu/page/tgn/7017320)
+<!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
 
 ## Contributor
 
-[John Bodel](https://www.brown.edu/academics/history/people/john-bodel)
-
-### ORCID
-
-[0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368)
+<!-- [AUTHOR_NAME](AUTHOR_LINK) (ORCID: [ORCID_ID](https://orcid.org/ORCID_ID)) -->
 
 ## Publication date
 <!-- Format: dd MONTH_NAME yyyy -->
 
-14 July 2020
+<!-- DATE -->
 
 ## Related articles
 
