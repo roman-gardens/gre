@@ -51,6 +51,8 @@ Outside the walls of the city, utilitarian gardens were planted, possibly in the
 ## Plans
 
 ## Images
+<span style="color:red"> Images not available (?) </span>
+
 
 *Fig. 1: Area outside the Balkerne gate before widening of the town ditch. Details of the beds in the middle of the section of are gardens in the foreground are based on excavation. From Crummy, City of Victory, p. 42. (Rights statement)*
 <!--The figure doesn't appear to be in the Britannia province image folder.-->
@@ -78,11 +80,7 @@ Outside the walls of the city, utilitarian gardens were planted, possibly in the
 
 ## Contributor
 
-[Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll)
-
-### ORCID
-
-[0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032)
+[Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ## Publication date
 

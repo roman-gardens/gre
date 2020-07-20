@@ -1,6 +1,6 @@
 ---
-title: "Rural Villa in Ferpicloz"
-date: 2020-07-15T15:32:14-04:00
+title: "Rural Villa in Wiesbaden-Biebrich"
+date: 2020-07-20T10:18:48-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -19,11 +19,11 @@ draft: false
 
 # Location
 
-Ferpicloz
+[Wiesbaden-Biebrich](https://pleiades.stoa.org/places/109461)
 
 ## Location Description
 
-<!-- LEAVE THIS BLANK FOR NOW -->
+Biebrich, now part of Wiesbaden, is directly on the right bank of the Rhein south of the center of Wiesbaden.
 
 # Sublocation
 
@@ -38,18 +38,17 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Rural Villa in Ferpicloz
+Rural Villa in Wiesbaden-Biebrich
 
 ## Keywords
 
 [barrier walls](http://vocab.getty.edu/page/aat/300419302)  
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  
 rural villas  
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ## Garden Description
 
-The house of this *villa rustica* was of the winged corridor type (A in Fig. 1) with a porticoed facade (Fig. 1). Attached to the eastern end of the house, measuring 37 x 46 meters, was a wall running east-west which has been interpreted as the protective wall of a garden (G in Fig. 1).
+Only the residential part of this farm has been excavated. The house with a width of 22 meters had two protruding wings at the south. To the west of the house was an area of irregular proportions enclosed by a wall, and this has been interpreted as a kitchen garden (G in Fig. 1).
 
 ## Maps
 
@@ -60,8 +59,8 @@ The house of this *villa rustica* was of the winged corridor type (A in Fig. 1) 
 
 ## Plans
 
-![Fig. 1: Plan of the rural villa (A) with a possible garden (G) protected by a wall to the east of the main building. The shoreline of the lake is dotted. Adapted from Drack and Fellmann 1988, fig. 369.](../../images/EUR_GS_Fer_Rv_carroll.jpg)
-*Fig. 1: Plan of the rural villa (A) with a possible garden (G) protected by a wall to the east of the main building. The shoreline of the lake is dotted. Adapted from Drack and Fellmann 1988, fig. 369. (Rights Statement)*
+![Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west. Adapted from Baatz and Herrmann 1989, fig. 471.](../../images/EUR ger sup fig 16 + 11.1 weidbadeb B carroll.jpg)
+*Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west. Adapted from Baatz and Herrmann 1989, fig. 471. (Rights Statement)*
 
 ## Images
 
@@ -76,8 +75,7 @@ unspecified
 
 ## Bibliography
 
-* W. Drack and R. Fellmann, *Die Römer in der Schweiz*, Stuttgart, 1988, pp. 394-395, fig. 369. [(worldcat)](http://www.worldcat.org/oclc/639129078)
-* R. Fellmann, *La Suisse gallo-romaine. Cinq siècles d’histoire*, Lausanne, 1992, p. 157, fig. 116.3. [(worldcat)](http://www.worldcat.org/oclc/28038264)
+* D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart, 1989, p. 495, fig. 471.
 
 ### Periodo ID
 
@@ -85,7 +83,7 @@ unspecified
 
 ### Pleiades ID
 
-[981525](https://pleiades.stoa.org/places/981525)
+[109461](https://pleiades.stoa.org/places/109461)
 
 ### TGN ID
 
@@ -97,7 +95,7 @@ unspecified
 
 ## Publication date
 
-15 July 2020
+20 July 2020
 
 ## Related articles
 

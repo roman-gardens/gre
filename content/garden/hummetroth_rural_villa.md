@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Hummetroth"
 date: 2020-07-16T11:47:11-04:00
+province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
@@ -96,11 +97,7 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 
 ## Contributor
 
-[Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll)
-
-### ORCID
-
-[0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032)
+[Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ## Publication date
 

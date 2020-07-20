@@ -112,13 +112,7 @@ Stone-built villa: Middle of the 1st century CE
 
 [Christa Ebnöther](https://www.iaw.unibe.ch/ueber_uns/arp_amp_pa_personen/prof_dr_ebnoether_christa/index_ger.html#pane222202)
 
-[Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll)
-
-### ORCID
-
-Christa Ebnöther N/A
-
-[0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032)
+[Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ## Publication date
 

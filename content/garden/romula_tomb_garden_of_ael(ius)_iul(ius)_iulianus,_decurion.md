@@ -90,11 +90,7 @@ Later second century/third century
 
 ## Contributor
 
-[John Bodel](https://www.brown.edu/academics/history/people/john-bodel)
-
-### ORCID
-
-[0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368)
+[John Bodel](https://www.brown.edu/academics/history/people/john-bodel)(ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
 ## Publication date
 
