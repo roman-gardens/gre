@@ -53,22 +53,19 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 ## Maps
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Plans
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Images
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Dates

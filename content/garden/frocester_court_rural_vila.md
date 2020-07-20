@@ -53,19 +53,16 @@ Excavated evidence indicates that this courtyard was designed as a formal garden
 ## Maps
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Plans
 
-![Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2.](../../images/Frocester_Fig_10_or_7.1a.jpg)
-*Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2. (Rights statement)*
+{{< figure src="../../images/Frocester_Fig_10_or_7.1a.jpg" alt="Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2." title="Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2. (Rights statement)" >}}
 
 ## Images
 
-![Fig. 2: Reconstruction of the villa and its garden at Frocester Court. The closest wall should be a fence. Drawing courtesy of E. Price.](../../images/Frocester_11_or_7.1b.jpg)
-*Fig. 2: Reconstruction of the villa and its garden at Frocester Court. The closest wall should be a fence. Drawing courtesy of E. Price.*
+{{< figure src="../../images/Frocester_11_or_7.1b.jpg" alt="Fig. 2: Reconstruction of the villa and its garden at Frocester Court. The closest wall should be a fence. Drawing courtesy of E. Price." title="Fig. 2: Reconstruction of the villa and its garden at Frocester Court. The closest wall should be a fence. Drawing courtesy of E. Price." >}}
 
 ## Dates
 

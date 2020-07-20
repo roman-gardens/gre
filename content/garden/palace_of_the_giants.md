@@ -50,20 +50,17 @@ It is possible that a garden might have been present in one of the inner courtya
 ## Maps
 
 <!--
-![alt_text](../../images/image_name.ext)
-*CAPTION*
+{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
 
-![Fig. 1: Plan of the so-called “Palace of the Giants” (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the “Palace.” Adapted from Camp 1986, p. 200, fig. 166.](../../images/EUR_ACH_Athens_House of Giants_Fig 1.jpg)
-*Fig. 1: Plan of the so-called “Palace of the Giants” (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the “Palace.” Adapted from Camp 1986, p. 200, fig. 166.*
+{{< figure src="../../images/EUR_ACH_Athens_House of Giants_Fig 1.jpg" alt="Fig. 1: Plan of the so-called “Palace of the Giants” (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the “Palace.” Adapted from Camp 1986, p. 200, fig. 166." title="Fig. 1: Plan of the so-called “Palace of the Giants” (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the “Palace.” Adapted from Camp 1986, p. 200, fig. 166." >}}
 
 ## Images
 
 <!--
-![alt_text](../../images/image_name.ext)
-*CAPTION*
+{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates

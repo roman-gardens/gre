@@ -28,8 +28,7 @@ Dacia was of particular interest to the Romans for its supplies of lead, needed 
 ## Maps
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Dates

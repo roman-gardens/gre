@@ -52,20 +52,17 @@ This building ca. 95 meters in width consisted of several units built at differe
 ## Maps
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Plans
 
-![Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2.](../../images/EUR_GS_AraFla_Bnf_carroll.jpg)
-*Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2. (Rights statement)*
+{{< figure src="../../images/EUR_GS_AraFla_Bnf_carroll.jpg" alt="Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2." title="Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2. (Rights statement)" >}}
 
 ## Images
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Dates

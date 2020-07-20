@@ -51,18 +51,15 @@ Another only partially excavated house of the mid-4th century A.D., built into t
 ## Maps
 
 <!--
-![alt_text](../../images/image_name.ext)
-*CAPTION*
+{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
-![Fig. 1:  Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46.](../../images/EUR_ACH_Athens_ Areopagus house_Fig 1.jpg)
-*Fig. 1:  Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46.*
+{{< figure src="../../images/EUR_ACH_Athens_ Areopagus house_Fig 1.jpg" alt="Fig. 1:  Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46." title="Fig. 1:  Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46." >}}
 
 ## Images
 
-![Fig. 2:  Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a.](../../images/EUR_ACH_Athens_ Areopagus house_Fig 2.jpg)
-*Fig. 2:  Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a.*
+{{< figure src="../../images/EUR_ACH_Athens_ Areopagus house_Fig 2.jpg" alt="Fig. 2:  Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a." title="Fig. 2:  Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a." >}}
 
 ## Dates
 <!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->

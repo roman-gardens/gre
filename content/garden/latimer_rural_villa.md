@@ -51,19 +51,16 @@ Excavations at this country house in Buckinghamshire have produced evidence for 
 ## Maps
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Plans
 
-![Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.](../../images/Latimer_fig_14_or_10.1a.jpg)
-*Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.(Rights statement)*
+{{< figure src="../../images/Latimer_fig_14_or_10.1a.jpg" alt="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20." title="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.(Rights statement)" >}}
 
 ## Images
 
-![Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan.](../../images/Latimer_fig_15_or_10.1b.jpg)
-*Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan.*
+{{< figure src="../../images/Latimer_fig_15_or_10.1b.jpg" alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." title="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." >}}
 
 ## Dates
 

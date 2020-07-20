@@ -58,8 +58,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 <!-- 
 OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
+{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 
 NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
@@ -69,8 +68,7 @@ NEW WAY ↓↓↓↓
 
 <!-- 
 OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
+{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 
 NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
@@ -80,8 +78,7 @@ NEW WAY ↓↓↓↓
 
 <!-- 
 OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
+{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 
 NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}

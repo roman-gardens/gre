@@ -60,20 +60,17 @@ The courtyard was on two levels, divided on the north by a terrace wall with two
 ## Maps
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Plans
 
-![Fig. 1: Plan of the courtyard house or palace on the western fringe of Insula 7, with a garden courtyard (G) with two small apsidal pools on one side. Plan adapted from Morel 1995, fig. 4](../../images/EUR_GS_AugRau_Phi7_carroll.jpg)
-*Fig. 1: Plan of the courtyard house or palace on the western fringe of Insula 7, with a garden courtyard (G) with two small apsidal pools on one side. Plan adapted from Morel 1995, fig. 4. (Rights statement)*
+{{< figure src="../../images/EUR_GS_AugRau_Phi7_carroll.jpg" alt="Fig. 1: Plan of the courtyard house or palace on the western fringe of Insula 7, with a garden courtyard (G) with two small apsidal pools on one side. Plan adapted from Morel 1995, fig. 4" title="Fig. 1: Plan of the courtyard house or palace on the western fringe of Insula 7, with a garden courtyard (G) with two small apsidal pools on one side. Plan adapted from Morel 1995, fig. 4. (Rights statement)" >}}
 
 ## Images
 
 <!--
-![ALT_TEXT](../../images/image_name.ext)
-*CAPTION*
+{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Dates
