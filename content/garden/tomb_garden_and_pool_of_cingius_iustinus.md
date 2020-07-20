@@ -4,6 +4,7 @@ date: 2020-07-14T16:52:02-04:00
 article_id: ARTICLE_ID
 author: John Bodel
 editor: Christian Casey
+lead: "written by John Bodel, edited by Christian Casey"
 draft: false
 ---
 
