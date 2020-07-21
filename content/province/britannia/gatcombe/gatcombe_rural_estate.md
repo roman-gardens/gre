@@ -49,20 +49,17 @@ This site of a large rural estate about 9 hectares in size in Somerset is enclos
 ## Maps
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Plans
 
-![Fig. 1: Plan of the farm with villa buildings (A).](../../images/Gatcombe_fig_12_or_8.1.jpg)
-*Fig. 1: Plan of the farm with villa buildings (A).(Rights statement)*
+{{< figure src="../../images/Gatcombe_fig_12_or_8.1.jpg" alt="Fig. 1: Plan of the farm with villa buildings (A)." title="Fig. 1: Plan of the farm with villa buildings (A).(Rights statement)" >}}
 
 ## Images
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Dates

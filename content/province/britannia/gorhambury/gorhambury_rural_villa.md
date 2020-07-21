@@ -54,20 +54,17 @@ An avenue 20 meters wide led axially from the gate at the eastern end of the inn
 ## Maps
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Plans
 
-![Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn.](../../images/Gorhambury_13_or_9.1.jpg)
-*Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn. (Rights statement)*
+{{< figure src="../../images/Gorhambury_13_or_9.1.jpg" alt="Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn." title="Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn. (Rights statement)" >}}
 
 ## Images
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Dates

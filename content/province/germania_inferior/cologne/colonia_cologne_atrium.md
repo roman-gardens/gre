@@ -50,19 +50,16 @@ Entering from the colonnaded street at the west, one passed through a room recon
 ## Maps
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Plans
-![Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement](../../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg)
-*Plan 1: Plan of the so-called "atrium house" with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)*
+{{< figure src="../../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called "atrium house" with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}
 
 ## Images
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Dates

@@ -47,19 +47,16 @@ The courtyard was unpaved, and the presence of a source of water suggests that i
 ## Maps
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Plans
-![Plan of the Urban house on Gertrudenstrasse at Colonia Claudia Ara Agrippinensium (Cologne); rights statement](../../images/cologne_gertrudenstrasse_plan1_EUR_GI_ColClaAA_Hg_carroll.jpg)
-*Plan 1. Plan of the partially preserved house with a peristyle courtyard garden (G) and pool (P) on Gertrudenstraße. Adapted from Thomas 1993, fig. 3. (Rights statement)*
+{{< figure src="../../images/cologne_gertrudenstrasse_plan1_EUR_GI_ColClaAA_Hg_carroll.jpg" alt="Plan of the Urban house on Gertrudenstrasse at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1. Plan of the partially preserved house with a peristyle courtyard garden (G) and pool (P) on Gertrudenstraße. Adapted from Thomas 1993, fig. 3. (Rights statement)" >}}
 
 ## Images
 
 <!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
+{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Dates
