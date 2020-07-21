@@ -26,7 +26,7 @@ draft: true
 
 # Sublocation
 
-<!-- 
+<!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
@@ -49,20 +49,23 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Maps
 
-<!-- 
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+<!--
+![ALT_TEXT](IMG_URL)
+*CAPTION*
 -->
 
 ## Plans
 
-<!-- 
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+<!--
+![ALT_TEXT](IMG_URL)
+*CAPTION*
 -->
 
 ## Images
 
-<!-- 
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+<!--
+![ALT_TEXT](IMG_URL)
+*CAPTION*
 -->
 
 ## Dates
@@ -71,8 +74,8 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Bibliography
 
-<!-- 
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL) 
+<!--
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
 ### Periodo ID
