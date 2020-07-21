@@ -5,12 +5,12 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
 
-[Dacia Traiana]({{<ref "province/dacia_traiana.md">}})  
+<!-- [Dacia Traiana]({{<ref "province/dacia_traiana.md">}}) -->  
 
 # Province Description
 

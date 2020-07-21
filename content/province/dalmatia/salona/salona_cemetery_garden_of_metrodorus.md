@@ -4,12 +4,12 @@ date: 2020-07-15T10:10:26-04:00
 article_id: ARTICLE_ID
 author: John Bodel
 editor: Christian Casey
-draft: false
+draft: true
 ---
 
 # Province
 
-[Dalmatia]({{<ref "province/dalmatia.md">}})
+<!-- [Dalmatia]({{<ref "province/dalmatia.md">}}) -->
 
 ## Province Description
 

@@ -4,12 +4,12 @@ date: 2020-07-16T09:45:49-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
-draft: true
+draft: false
 ---
 
 # Province
 
-[Achaea]({{<ref "province/achaea.md">}})
+[Achaea]({{<relref "..">}})
 
 ## Province Description
 

@@ -4,3 +4,9 @@
 [submodule "roman_gardens/themes/mainroad"]
 	path = roman_gardens/themes/mainroad
 	url = https://github.com/vimux/mainroad
+[submodule "themes/simpleit-hugo-theme"]
+	path = themes/simpleit-hugo-theme
+	url = https://github.com/marcanuy/simpleit-hugo-theme
+[submodule "themes/book"]
+	path = themes/book
+	url = https://github.com/alex-shpak/hugo-book

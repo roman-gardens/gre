@@ -5,12 +5,12 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Christa Ebnöther, Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
 
-[Germania Superior]({{<ref "province/germania_superior.md">}})  
+<!-- [Germania Superior]({{<ref "province/germania_superior.md">}}) -->  
 
 ## Province Description
 

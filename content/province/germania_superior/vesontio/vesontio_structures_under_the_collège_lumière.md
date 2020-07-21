@@ -6,12 +6,12 @@ article_id: ARTICLE_ID
 author: Claudine Munier, Christophe Gaston, Maureen Carroll
 editor: June Dorsch
 translator: Clopper Almon
-draft: false
+draft: true
 ---
 
 # Province
 
-[Germania Superior]({{<ref "province/germania_superior.md">}})  
+<!-- [Germania Superior]({{<ref "province/germania_superior.md">}}) -->  
 
 ## Province Description
 

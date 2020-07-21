@@ -1,15 +1,16 @@
 ---
-title: "Athenian_schools_of_philosophy"
+title: "Athenian Schools of Philosophy"
 date: 2020-07-16T09:48:03-04:00
 article_id: ARTICLE_ID
 author: AUTHOR_NAME
 editor: Amartya Shri
-draft: true
+draft: false
 ---
 
 # Province
 
-[Achaea]({{<ref "province/achaea.md">}})
+[Achaea]({{<relref "..">}})
+<!-- [Achaea] "/province/achaea.md" -->
 
 ## Province Description
 

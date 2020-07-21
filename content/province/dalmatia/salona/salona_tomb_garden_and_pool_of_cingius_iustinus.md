@@ -5,12 +5,12 @@ article_id: ARTICLE_ID
 author: [ John Bodel, Other Guy ]
 editor: Christian Casey
 lead: "written by John Bodel, edited by Christian Casey"
-draft: false
+draft: true
 ---
 
 # Province
 
-[Dalmatia]({{<ref "province/dalmatia.md">}})
+<!-- [Dalmatia]({{<ref "province/dalmatia.md">}}) -->
 
 ## Province Description
 

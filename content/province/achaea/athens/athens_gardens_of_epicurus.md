@@ -4,12 +4,12 @@ date: 2020-07-20T11:34:30-04:00
 article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
 editor: NAME_OF_EDITOR
-draft: false
+draft: true
 ---
 
 # Province
 
-[Achaea]({{<ref "province/achaea.md">}})
+<!-- [Achaea]({{<ref "province/achaea.md">}}) -->
 
 ## Province Description
 

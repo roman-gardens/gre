@@ -9,7 +9,7 @@ draft: true
 
 # Province
 
-[Macedonia]({{<ref "province/macedonia.md">}})  
+<!-- [Macedonia]({{<ref "province/macedonia.md">}}) -->  
 
 ## Province Description
 
