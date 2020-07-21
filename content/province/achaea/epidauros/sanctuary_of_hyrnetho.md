@@ -1,5 +1,5 @@
 ---
-title: "Sanctuary_of_hyrnetho"
+title: "Sanctuary of Hyrnetho"
 date: 2020-07-20T14:20:31-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll

@@ -1,6 +1,6 @@
 ---
-title: "Gardens_of_epicurus"
-date: 2020-07-20T11:34:30-04:00
+title: "Vetera casta (Germania inferior)"
+date: 2020-07-12T10:57:44-07:00
 article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
 editor: NAME_OF_EDITOR
@@ -26,7 +26,7 @@ draft: true
 
 # Sublocation
 
-<!-- 
+<!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
@@ -49,22 +49,22 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Maps
 
-<!-- 
-![alt_text](../../images/image_name.ext)
+<!--
+![ALT_TEXT](IMG_URL)
 *CAPTION*
 -->
 
 ## Plans
 
-<!-- 
+<!--
 ![ALT_TEXT](IMG_URL)
 *CAPTION*
 -->
 
 ## Images
 
-<!-- 
-![alt_text](../../images/image_name.ext)
+<!--
+![ALT_TEXT](IMG_URL)
 *CAPTION*
 -->
 
@@ -74,8 +74,8 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Bibliography
 
-<!-- 
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL) 
+<!--
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
 ### Periodo ID

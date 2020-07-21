@@ -1,5 +1,5 @@
 ---
-title: "Villa_of_herodes_atticus"
+title: "Villa of Herodes Atticus"
 date: 2020-07-20T14:24:59-04:00
 article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
@@ -37,7 +37,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-<!-- NAME_OF_GARDEN -->
+Villa of Herodes Atticus
 
 
 ## Keywords
