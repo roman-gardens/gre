@@ -18,7 +18,7 @@ draft: true
 # Location
 
 [Latimer]({{<relref ".">}}) \
-[Latimer (Pleiades)](https\://pleiades.stoa.org/places/79555)
+[Latimer (Pleiades)](https://pleiades.stoa.org/places/79555)
 
 ## Location Description
 

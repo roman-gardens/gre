@@ -21,7 +21,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 # Location
 
 [Achaea]({{<relref ".">}}) \
-[Achaea (Pleiades)](https\://pleiades.stoa.org/places/570028)
+[Achaea (Pleiades)](https://pleiades.stoa.org/places/570028)
 
 ## Location Description
 

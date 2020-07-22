@@ -18,7 +18,7 @@ draft: true
 # Location
 
 [Gatcombe]({{<relref ".">}}) \
-[Gatcombe (Pleiades)](https\://pleiades.stoa.org/places/79477)
+[Gatcombe (Pleiades)](https://pleiades.stoa.org/places/79477)
 
 ## Location Description
 

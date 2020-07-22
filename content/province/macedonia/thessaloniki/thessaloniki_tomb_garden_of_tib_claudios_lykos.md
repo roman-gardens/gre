@@ -19,7 +19,7 @@ draft: true
 # Location
 
 [Thessaloniki]({{<relref ".">}}) \
-[Thessaloniki (Pleiades)](https\://pleiades.stoa.org/places/491741)
+[Thessaloniki (Pleiades)](https://pleiades.stoa.org/places/491741)
 
 ## Location Description
 

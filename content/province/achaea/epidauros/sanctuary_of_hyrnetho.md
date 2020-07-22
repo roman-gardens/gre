@@ -20,7 +20,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 # Location
 
 [Epidauros]({{<relref ".">}}) \
-[Epidauros (Pleiades)](https\://pleiades.stoa.org/places/570228)
+[Epidauros (Pleiades)](https://pleiades.stoa.org/places/570228)
 
 ## Location Description
 

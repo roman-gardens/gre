@@ -18,7 +18,7 @@ draft: true
 # Location
 
 [Gorhambury]({{<relref ".">}}) \
-[Gorhambury (Pleiades)](https\://pleiades.stoa.org/places/79485)
+[Gorhambury (Pleiades)](https://pleiades.stoa.org/places/79485)
 
 ## Location Description
 

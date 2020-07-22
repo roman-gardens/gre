@@ -20,7 +20,7 @@ draft: true
 # Location
 
 [Wiesbaden-Biebrich]({{<relref ".">}}) \
-[Wiesbaden-Biebrich (Pleiades)](https\://pleiades.stoa.org/places/109461)
+[Wiesbaden-Biebrich (Pleiades)](https://pleiades.stoa.org/places/109461)
 
 ## Location Description
 

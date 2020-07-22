@@ -20,7 +20,7 @@ draft: true
 # Location
 
 [Fishbourne]({{<relref ".">}}) \
-[Fishbourne (Pleiades)](https\://pleiades.stoa.org/places/79466)
+[Fishbourne (Pleiades)](https://pleiades.stoa.org/places/79466)
 
 ## Location Description
 

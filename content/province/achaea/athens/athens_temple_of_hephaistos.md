@@ -20,7 +20,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 # Location
 
 [Athens]({{<relref ".">}}) \
-[Athens (Pleiades)](https\://pleiades.stoa.org/places/579885)
+[Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
 
 ## Location Description
 
@@ -29,7 +29,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 # Sublocation
 
 [Athenian Agora]({{<relref ".">}}) \
-[Athenian Agora (Pleiades)](https\://pleiades.stoa.org/places/807514119)
+[Athenian Agora (Pleiades)](https://pleiades.stoa.org/places/807514119)
 
 ## Sublocation Description
 

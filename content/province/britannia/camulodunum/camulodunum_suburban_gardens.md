@@ -18,7 +18,7 @@ draft: true
 # Location
 
 [Camulodunum]({{<relref ".">}}) \
-[Camulodunum (Pleiades)](https\://pleiades.stoa.org/places/79393)
+[Camulodunum (Pleiades)](https://pleiades.stoa.org/places/79393)
 
 ## Location Description
 

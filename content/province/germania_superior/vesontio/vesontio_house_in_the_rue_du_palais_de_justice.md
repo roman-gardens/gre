@@ -21,7 +21,7 @@ draft: true
 # Location
 
 [Vesontio]({{<relref ".">}}) \
-[Vesontio (Pleiades)](https\://pleiades.stoa.org/places/177657)
+[Vesontio (Pleiades)](https://pleiades.stoa.org/places/177657)
 
 ## Location Description
 
@@ -103,7 +103,7 @@ Beginning of the Flavian epoch - middle of the third century
 
 ### Pleiades ID
 [Vesontio]({{<relref ".">}}) \
-[Vesontio (Pleiades)](https\://pleiades.stoa.org/places/177657)
+[Vesontio (Pleiades)](https://pleiades.stoa.org/places/177657)
 [177657](https://pleiades.stoa.org/places/177657)
 
 ### TGN ID

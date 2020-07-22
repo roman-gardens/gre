@@ -20,7 +20,7 @@ draft: true
 # Location
 
 [Salona]({{<relref ".">}}) \
-[Salona (Pleiades)](https\://pleiades.stoa.org/places/197488)
+[Salona (Pleiades)](https://pleiades.stoa.org/places/197488)
 
 ## Location Description
 

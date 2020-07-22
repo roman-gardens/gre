@@ -20,7 +20,7 @@ draft: true
 # Location
 
 [Arae Flaviae]({{<relref ".">}}) \
-[Arae Flaviae (Pleiades)](https\://pleiades.stoa.org/places/118572)
+[Arae Flaviae (Pleiades)](https://pleiades.stoa.org/places/118572)
 
 ## Location Description
 

@@ -19,7 +19,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 # Location
 
 [Eua]({{<relref ".">}}) \
-[Eua (Pleiades)](https\://pleiades.stoa.org/places/570241)
+[Eua (Pleiades)](https://pleiades.stoa.org/places/570241)
 
 ## Location Description
 

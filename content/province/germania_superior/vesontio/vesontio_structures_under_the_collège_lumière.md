@@ -21,7 +21,7 @@ draft: true
 # Location
 
 [Vesontio]({{<relref ".">}}) \
-[Vesontio (Pleiades)](https\://pleiades.stoa.org/places/177657)
+[Vesontio (Pleiades)](https://pleiades.stoa.org/places/177657)
 
 ## Location Description
 

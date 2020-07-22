@@ -18,7 +18,7 @@ draft: true
 # Location
 
 [Darenth]({{<relref ".">}}) \
-[Darenth (Pleiades)](https\://pleiades.stoa.org/places/79413)
+[Darenth (Pleiades)](https://pleiades.stoa.org/places/79413)
 
 ## Location Description
 

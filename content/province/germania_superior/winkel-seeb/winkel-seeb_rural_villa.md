@@ -20,7 +20,7 @@ draft: true
 # Location
 
 [Winkel-Seeb]({{<relref ".">}}) \
-[Winkel-Seeb (Pleiades)](https\://pleiades.stoa.org/places/177667)
+[Winkel-Seeb (Pleiades)](https://pleiades.stoa.org/places/177667)
 
 ## Location Description
 

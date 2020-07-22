@@ -20,7 +20,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 # Location
 
 [Aulis]({{<relref ".">}}) \
-[Aulis (Pleiades)](https\://pleiades.stoa.org/places/579889)
+[Aulis (Pleiades)](https://pleiades.stoa.org/places/579889)
 
 ## Location Description
 
@@ -85,7 +85,7 @@ The shrine of Artemis at Aulis in Boeotia was visited by Pausanias (9.19.6-8).  
 ### Pleiades ID
 
 [Aulis]({{<relref ".">}}) \
-[Aulis (Pleiades)](https\://pleiades.stoa.org/places/579889)
+[Aulis (Pleiades)](https://pleiades.stoa.org/places/579889)
 
 ### TGN ID
 

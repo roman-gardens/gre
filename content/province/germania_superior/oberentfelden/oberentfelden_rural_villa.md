@@ -20,7 +20,7 @@ draft: true
 # Location
 
 [Oberentfelden]({{<relref ".">}}) \
-[Oberentfelden (Pleiades)](https\://pleiades.stoa.org/places/177596)
+[Oberentfelden (Pleiades)](https://pleiades.stoa.org/places/177596)
 
 ## Location Description
 

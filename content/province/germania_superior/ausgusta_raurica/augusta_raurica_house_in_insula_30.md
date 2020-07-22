@@ -20,7 +20,7 @@ draft: true
 # Location
 
 [Augusta Raurica]({{<relref ".">}}) \
-[Augusta Raurica (Pleiades)](https\://pleiades.stoa.org/places/177494)
+[Augusta Raurica (Pleiades)](https://pleiades.stoa.org/places/177494)
 
 ## Location Description
 
