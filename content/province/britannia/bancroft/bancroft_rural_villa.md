@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-<!-- [Britannia]({{<ref "province/britannia.md">}}) -->  
+[Britannia]({{<relref "..">}})  
 
 # Province Description
 
@@ -76,7 +76,8 @@ Roman villa... built in the late 3rd century and rebuilt and enlarged in the mid
 
 ### Pleiades ID
 
-[79312](https://pleiades.stoa.org/places/79312)
+[79312]({{<relref ".">}}) \
+[79312 (Pleiades)](https\://pleiades.stoa.org/places/79312)
 
 ### TGN ID
 [7030316](http://vocab.getty.edu/page/tgn/7030316)

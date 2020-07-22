@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-<!-- [Germania Superior]({{<ref "province/germania_superior.md">}}) -->  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -19,7 +19,8 @@ draft: true
 
 # Location
 
-[Wiesbaden-Biebrich](https://pleiades.stoa.org/places/109461)
+[Wiesbaden-Biebrich]({{<relref ".">}}) \
+[Wiesbaden-Biebrich (Pleiades)](https\://pleiades.stoa.org/places/109461)
 
 ## Location Description
 
@@ -87,7 +88,8 @@ unspecified
 
 ### Pleiades ID
 
-[109461](https://pleiades.stoa.org/places/109461)
+[109461]({{<relref ".">}}) \
+[109461 (Pleiades)](https\://pleiades.stoa.org/places/109461)
 
 ### TGN ID
 

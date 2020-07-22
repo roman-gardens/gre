@@ -10,14 +10,15 @@ draft: true
 
 # Province
 
-<!-- [Britannia]({{<ref "province/britannia.md">}}) -->  
+[Britannia]({{<relref "..">}})  
 
 # Province Description
 
 
 # Location
 
-[Camulodunum](https://pleiades.stoa.org/places/79393)
+[Camulodunum]({{<relref ".">}}) \
+[Camulodunum (Pleiades)](https\://pleiades.stoa.org/places/79393)
 
 ## Location Description
 
@@ -72,7 +73,8 @@ Outside the walls of the city, utilitarian gardens were planted, possibly in the
 <!--[PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID)-->
 
 ### Pleiades ID
-[79393](https://pleiades.stoa.org/places/79393)
+[79393]({{<relref ".">}}) \
+[79393 (Pleiades)](https\://pleiades.stoa.org/places/79393)
 
 
 ### TGN ID

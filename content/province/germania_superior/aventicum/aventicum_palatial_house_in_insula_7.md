@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-<!-- [Germania Superior]({{<ref "province/germania_superior.md">}}) -->  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -89,7 +89,8 @@ Severnan Period - Middle of 3rd century
 
 ### Pleiades ID
 
-[177495](https://pleiades.stoa.org/places/177495)
+[177495]({{<relref ".">}}) \
+[177495 (Pleiades)](https\://pleiades.stoa.org/places/177495)
 
 ### TGN ID
 

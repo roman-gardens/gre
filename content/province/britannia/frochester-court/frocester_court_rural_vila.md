@@ -10,14 +10,15 @@ draft: true
 
 # Province
 
-<!-- [Britannia]({{<ref "province/britannia.md">}}) -->  
+[Britannia]({{<relref "..">}})  
 
 # Province Description
 
 
 # Location
 
-[Frocester Court](https://pleiades.stoa.org/places/79471) -->
+[Frocester Court]({{<relref ".">}}) \
+[Frocester Court (Pleiades)](https\://pleiades.stoa.org/places/79471) -->
 
 ## Location Description
 
@@ -79,7 +80,8 @@ Early 4th century - 5th century
 
 ### Pleiades ID
 
-[79471](https://pleiades.stoa.org/places/79471)
+[79471]({{<relref ".">}}) \
+[79471 (Pleiades)](https\://pleiades.stoa.org/places/79471)
 
 ### TGN ID
 

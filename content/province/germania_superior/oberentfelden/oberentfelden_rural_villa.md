@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-<!-- [Germania Superior]({{<ref "province/germania_superior.md">}}) -->  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -19,7 +19,8 @@ draft: true
 
 # Location
 
-[Oberentfelden](https://pleiades.stoa.org/places/177596)
+[Oberentfelden]({{<relref ".">}}) \
+[Oberentfelden (Pleiades)](https\://pleiades.stoa.org/places/177596)
 
 ## Location Description
 
@@ -83,7 +84,8 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 
 ### Pleiades ID
 
-[177596](https://pleiades.stoa.org/places/177596)
+[177596]({{<relref ".">}}) \
+[177596 (Pleiades)](https\://pleiades.stoa.org/places/177596)
 
 ### TGN ID
 

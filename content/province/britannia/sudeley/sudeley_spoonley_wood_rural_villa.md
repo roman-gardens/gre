@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-<!-- [Britannia]({{<ref "province/britannia.md">}}) -->  
+[Britannia]({{<relref "..">}})  
 
 # Province Description
 
@@ -79,7 +79,8 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 ### Pleiades ID
 
-[79693](https://pleiades.stoa.org/places/79693)
+[79693]({{<relref ".">}}) \
+[79693 (Pleiades)](https\://pleiades.stoa.org/places/79693)
 
 ### TGN ID
 

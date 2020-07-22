@@ -9,7 +9,7 @@ draft: true
 
 # Province
 
-<!-- [Dalmatia]({{<ref "province/dalmatia.md">}}) -->
+[Dalmatia]({{<relref "..">}})
 
 ## Province Description
 
@@ -18,7 +18,8 @@ draft: true
 
 # Location
 
-[Salona](https://pleiades.stoa.org/places/197488)
+[Salona]({{<relref ".">}}) \
+[Salona (Pleiades)](https\://pleiades.stoa.org/places/197488)
 
 ## Location Description
 
@@ -83,7 +84,8 @@ Second half of the second or the third century (CE)
 ### Pleiades ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
-[197488](https://pleiades.stoa.org/places/197488)
+[197488]({{<relref ".">}}) \
+[197488 (Pleiades)](https\://pleiades.stoa.org/places/197488)
 
 ### TGN ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->

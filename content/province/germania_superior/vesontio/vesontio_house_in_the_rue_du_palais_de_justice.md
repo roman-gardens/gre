@@ -11,7 +11,7 @@ draft: true
 
 # Province
 
-<!-- [Germania Superior]({{<ref "province/germania_superior.md">}}) -->  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -20,7 +20,8 @@ draft: true
 
 # Location
 
-[Vesontio](https://pleiades.stoa.org/places/177657)
+[Vesontio]({{<relref ".">}}) \
+[Vesontio (Pleiades)](https\://pleiades.stoa.org/places/177657)
 
 ## Location Description
 
@@ -101,7 +102,8 @@ Beginning of the Flavian epoch - middle of the third century
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-
+[Vesontio]({{<relref ".">}}) \
+[Vesontio (Pleiades)](https\://pleiades.stoa.org/places/177657)
 [177657](https://pleiades.stoa.org/places/177657)
 
 ### TGN ID

@@ -9,7 +9,7 @@ draft: true
 
 # Province
 
-<!-- [Achaea]({{<ref "province/achaea.md">}}) -->
+[Achaea]({{<relref "..">}})
 
 ## Province Description
 
@@ -19,7 +19,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-[Athens](https://pleiades.stoa.org/places/579885)
+[Athens]({{<relref ".">}}) \
+[Athens (Pleiades)](https\://pleiades.stoa.org/places/579885)
 
 ## Location Description
 
@@ -27,7 +28,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Sublocation
 
-[Athenian Agora](https://pleiades.stoa.org/places/807514119)
+[Athenian Agora]({{<relref ".">}}) \
+[Athenian Agora (Pleiades)](https\://pleiades.stoa.org/places/807514119)
 
 ## Sublocation Description
 
@@ -75,7 +77,8 @@ D.B. Thompson, “The Garden of Hephaistos”, Hesperia 6, 1937:396-425; M. Carr
 
 ### Pleiades ID
 
-[807514119](https://pleiades.stoa.org/places/807514119)
+[807514119]({{<relref ".">}}) \
+[807514119 (Pleiades)](https\://pleiades.stoa.org/places/807514119)
 
 ### TGN ID
 

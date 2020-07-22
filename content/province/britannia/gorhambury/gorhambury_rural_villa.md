@@ -10,14 +10,15 @@ draft: true
 
 # Province
 
-<!-- [Britannia]({{<ref "province/britannia.md">}}) -->  
+[Britannia]({{<relref "..">}})  
 
 # Province Description
 
 
 # Location
 
-[Gorhambury](https://pleiades.stoa.org/places/79485)
+[Gorhambury]({{<relref ".">}}) \
+[Gorhambury (Pleiades)](https\://pleiades.stoa.org/places/79485)
 
 ## Location Description
 
@@ -82,7 +83,8 @@ around A.D. 100 - 175
 
 ### Pleiades ID
 
-[79485](https://pleiades.stoa.org/places/79485)
+[79485]({{<relref ".">}}) \
+[79485 (Pleiades)](https\://pleiades.stoa.org/places/79485)
 
 ### TGN ID
 

@@ -10,14 +10,15 @@ draft: true
 
 # Province
 
-<!-- [Britannia]({{<ref "province/britannia.md">}}) -->  
+[Britannia]({{<relref "..">}})  
 
 # Province Description
 
 
 # Location
 
-[Latimer](https://pleiades.stoa.org/places/79555)
+[Latimer]({{<relref ".">}}) \
+[Latimer (Pleiades)](https\://pleiades.stoa.org/places/79555)
 
 ## Location Description
 
@@ -77,7 +78,8 @@ Evidence for gardens dating to the beginning of 4th century
 
 ### Pleiades ID
 
-[79555](https://pleiades.stoa.org/places/79555)
+[79555]({{<relref ".">}}) \
+[79555 (Pleiades)](https\://pleiades.stoa.org/places/79555)
 
 ### TGN ID
 

@@ -9,7 +9,7 @@ draft: true
 
 # Province
 
-<!-- [Achaea]({{<ref "province/achaea.md">}}) -->
+[Achaea]({{<relref "..">}})
 
 ## Province Description
 
@@ -19,7 +19,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-[Corinth](https://pleiades.stoa.org/places/570182)
+[Corinth]({{<relref ".">}}) \
+[Corinth (Pleiades)](https\://pleiades.stoa.org/places/570182)
 
 ## Location Description
 
@@ -88,7 +89,8 @@ BIBLIOGRAPHY: D. G. Romano, “A Roman Circus in Corinth,” *Hesperia* [(worldc
 
 ### Pleiades ID
 
-[570182](https://pleiades.stoa.org/places/570182)
+[570182]({{<relref ".">}}) \
+[570182 (Pleiades)](https\://pleiades.stoa.org/places/570182)
 
 ### TGN ID
 

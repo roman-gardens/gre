@@ -9,7 +9,7 @@ draft: true
 
 # Province
 
-<!-- [Achaea]({{<ref "province/achaea.md">}}) -->
+[Achaea]({{<relref "..">}})
 
 ## Province Description
 
@@ -19,7 +19,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-[Athens](https://pleiades.stoa.org/places/579885)
+[Athens]({{<relref ".">}}) \
+[Athens (Pleiades)](https\://pleiades.stoa.org/places/579885)
 
 ## Location Description
 
@@ -27,7 +28,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Sublocation
 
-[Areopagus](https://pleiades.stoa.org/places/969121823)
+[Areopagus]({{<relref ".">}}) \
+[Areopagus (Pleiades)](https\://pleiades.stoa.org/places/969121823)
 
 ## Sublocation Description
 
@@ -75,7 +77,8 @@ Another only partially excavated house of the mid-4th century A.D., built into t
 
 ### Pleiades ID
 
-[969121823](https://pleiades.stoa.org/places/969121823)
+[969121823]({{<relref ".">}}) \
+[969121823 (Pleiades)](https\://pleiades.stoa.org/places/969121823)
 
 ### TGN ID
 

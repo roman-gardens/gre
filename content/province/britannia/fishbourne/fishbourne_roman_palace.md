@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-<!-- [Britannia]({{<ref "province/britannia.md">}}) -->  
+[Britannia]({{<relref "..">}})  
 
 ## Province Description
 
@@ -19,7 +19,8 @@ draft: true
 
 # Location
 
-[Fishbourne](https://pleiades.stoa.org/places/79466)
+[Fishbourne]({{<relref ".">}}) \
+[Fishbourne (Pleiades)](https\://pleiades.stoa.org/places/79466)
 
 ## Location Description
 
@@ -95,7 +96,8 @@ Late 1st century CE - unspecified
 
 ### Pleiades ID
 
-[79466](https://pleiades.stoa.org/places/79466)
+[79466]({{<relref ".">}}) \
+[79466 (Pleiades)](https\://pleiades.stoa.org/places/79466)
 
 ### TGN ID
 

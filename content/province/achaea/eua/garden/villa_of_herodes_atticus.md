@@ -9,7 +9,7 @@ draft: true
 
 # Province
 
-<!-- [Achaea]({{<ref "province/achaea.md">}}) -->
+[Achaea]({{<relref "..">}})
 
 ## Province Description
 
@@ -18,7 +18,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-[Eua](https://pleiades.stoa.org/places/570241)
+[Eua]({{<relref ".">}}) \
+[Eua (Pleiades)](https\://pleiades.stoa.org/places/570241)
 
 ## Location Description
 
@@ -86,7 +87,8 @@ G. Ieranò, “I tesori di un intellettuale,” *Archeo* 6, 2001:48-53; G. Spyro
 
 ### Pleiades ID
 
-[570241](https://pleiades.stoa.org/places/570241)
+[570241]({{<relref ".">}}) \
+[570241 (Pleiades)](https\://pleiades.stoa.org/places/570241)
 
 ### TGN ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->

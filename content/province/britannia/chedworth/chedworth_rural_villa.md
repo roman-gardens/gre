@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-<!-- [Britannia]({{<ref "province/britannia.md">}}) -->  
+[Britannia]({{<relref "..">}})  
 
 # Province Description
 
@@ -74,7 +74,8 @@ Early 4th century - unspecified
 
 ### Pleiades ID
 
-[79383](https://pleiades.stoa.org/places/79383)
+[79383]({{<relref ".">}}) \
+[79383 (Pleiades)](https\://pleiades.stoa.org/places/79383)
 
 ### TGN ID
 

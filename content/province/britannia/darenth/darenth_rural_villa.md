@@ -10,14 +10,15 @@ draft: true
 
 # Province
 
-<!-- [Britannia]({{<ref "province/britannia.md">}}) -->  
+[Britannia]({{<relref "..">}})  
 
 # Province Description
 
 
 # Location
 
-[Darenth](https://pleiades.stoa.org/places/79413)
+[Darenth]({{<relref ".">}}) \
+[Darenth (Pleiades)](https\://pleiades.stoa.org/places/79413)
 
 ## Location Description
 
@@ -77,7 +78,8 @@ After 100 CE - Closing decades of the 4th century
 
 ### Pleiades ID
 
-[79413](https://pleiades.stoa.org/places/79413)
+[79413]({{<relref ".">}}) \
+[79413 (Pleiades)](https\://pleiades.stoa.org/places/79413)
 
 ### TGN ID
 

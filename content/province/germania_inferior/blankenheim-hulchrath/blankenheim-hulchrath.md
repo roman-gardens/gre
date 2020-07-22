@@ -9,7 +9,7 @@ draft: true
 ---
 
 # Province
-<!-- [Germania inferior]({{<ref "province/germania_inferior.md">}}) -->
+[Germania inferior]({{<relref "..">}})
 
 # Location
 Blankenheim-Hülchrath
@@ -71,7 +71,8 @@ Unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-[981524](https://pleiades.stoa.org/places/981524)
+[981524]({{<relref ".">}}) \
+[981524 (Pleiades)](https\://pleiades.stoa.org/places/981524)
 
 ### TGN ID
 [6002234](http://vocab.getty.edu/page/tgn/6002234)

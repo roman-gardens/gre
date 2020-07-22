@@ -9,7 +9,7 @@ draft: true
 
 # Province
 
-<!-- [Achaea]({{<ref "province/achaea.md">}}) -->
+[Achaea]({{<relref "..">}})
 
 ## Province Description
 
@@ -19,7 +19,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-[Epidauros](https://pleiades.stoa.org/places/570228)
+[Epidauros]({{<relref ".">}}) \
+[Epidauros (Pleiades)](https\://pleiades.stoa.org/places/570228)
 
 ## Location Description
 

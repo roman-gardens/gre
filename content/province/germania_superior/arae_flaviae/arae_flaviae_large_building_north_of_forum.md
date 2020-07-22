@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-<!-- [Germania Superior]({{<ref "province/germania_superior.md">}}) -->  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -19,7 +19,8 @@ draft: true
 
 # Location
 
-[Arae Flaviae](https://pleiades.stoa.org/places/118572)
+[Arae Flaviae]({{<relref ".">}}) \
+[Arae Flaviae (Pleiades)](https\://pleiades.stoa.org/places/118572)
 
 ## Location Description
 
@@ -79,7 +80,8 @@ Complex built at the earliest during the reign of Trajan.
 
 ### Pleiades ID
 
-[118572](https://pleiades.stoa.org/places/118572)
+[118572]({{<relref ".">}}) \
+[118572 (Pleiades)](https\://pleiades.stoa.org/places/118572)
 
 ### TGN ID
 

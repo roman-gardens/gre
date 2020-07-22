@@ -4,12 +4,12 @@ date: 2020-07-20T11:34:30-04:00
 article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
 editor: NAME_OF_EDITOR
-draft: true
+draft: false
 ---
 
 # Province
 
-<!-- [Achaea]({{<ref "province/achaea.md">}}) -->
+[Achaea]({{<relref "..">}})
 
 ## Province Description
 
@@ -18,7 +18,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-[Athens](https://pleiades.stoa.org/places/579885)
+[Athens]({{<relref ".">}}) \
+[Athens (Pleiades)](https\://pleiades.stoa.org/places/579885)
 
 ## Location Description
 
@@ -87,7 +88,7 @@ Cicero set the scene in *De finibus* 5.1.3 for a group of men in the Academy nea
 
 ### Pleiades ID
 
-[579885](https://pleiades.stoa.org/places/579885)
+[579885]({{<relref ".">}}) \n[579885 (Pleiades)](https\://pleiades.stoa.org/places/579885)
 
 ### TGN ID
 

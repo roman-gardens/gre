@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-<!-- [Germania Superior]({{<ref "province/germania_superior.md">}}) -->  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -19,7 +19,8 @@ draft: true
 
 # Location
 
-[Orbe](https://pleiades.stoa.org/places/177598)
+[Orbe]({{<relref ".">}}) \
+[Orbe (Pleiades)](https\://pleiades.stoa.org/places/177598)
 
 ## Location Description
 
@@ -83,7 +84,8 @@ House: mid-1st century CE - 4th century
 
 ### Pleiades ID
 
-[177598](https://pleiades.stoa.org/places/177598)
+[177598]({{<relref ".">}}) \
+[177598 (Pleiades)](https\://pleiades.stoa.org/places/177598)
 
 ### TGN ID
 

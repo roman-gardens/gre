@@ -10,14 +10,15 @@ draft: true
 
 # Province
 
-<!-- [Britannia]({{<ref "province/britannia.md">}}) -->  
+[Britannia]({{<relref "..">}})  
 
 # Province Description
 
 
 # Location
 
-[Gatcombe](https://pleiades.stoa.org/places/79477)
+[Gatcombe]({{<relref ".">}}) \
+[Gatcombe (Pleiades)](https\://pleiades.stoa.org/places/79477)
 
 ## Location Description
 
@@ -77,7 +78,8 @@ The complex was built between A.D. 280 and 300, with occupation ending around 38
 
 ### Pleiades ID
 
-[79477](https://pleiades.stoa.org/places/79477)
+[79477]({{<relref ".">}}) \
+[79477 (Pleiades)](https\://pleiades.stoa.org/places/79477)
 
 ### TGN ID
 

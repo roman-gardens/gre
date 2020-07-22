@@ -8,7 +8,7 @@ draft: true
 ---
 
 # Province
-<!-- [Germania inferior]({{<ref "province/germania_inferior.md">}}) -->
+[Germania inferior]({{<relref "..">}})
 
 # Location
 [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751)
@@ -65,7 +65,8 @@ None
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[108751](https://pleiades.stoa.org/places/108751)
+[108751]({{<relref ".">}}) \
+[108751 (Pleiades)](https\://pleiades.stoa.org/places/108751)
 
 ### TGN ID
 [7004446](http://vocab.getty.edu/page/tgn/7004446)

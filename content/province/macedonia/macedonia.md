@@ -57,7 +57,8 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ### Pleiades ID
 
-[981531](https://pleiades.stoa.org/places/981531)
+[981531]({{<relref ".">}}) \
+[981531 (Pleiades)](https\://pleiades.stoa.org/places/981531)
 
 ### TGN ID
 

@@ -20,7 +20,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-[Aegina](https://pleiades.stoa.org/places/579844)
+[Aegina]({{<relref ".">}}) \
+[Aegina (Pleiades)](https\://pleiades.stoa.org/places/579844)
 
 ## Location Description
 
@@ -83,7 +84,8 @@ Much older than 464 BCE, lasting until after the 2nd century CE
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-
+[Aegina]({{<relref ".">}}) \
+[Aegina (Pleiades)](https\://pleiades.stoa.org/places/579844)
 [579844](https://pleiades.stoa.org/places/579844)
 
 ### TGN ID

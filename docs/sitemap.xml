@@ -4,20 +4,41 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/</loc>
-    <lastmod>2020-07-16T09:48:03-04:00</lastmod>
+    <lastmod>2020-07-20T11:34:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/</loc>
-    <lastmod>2020-07-16T09:48:03-04:00</lastmod>
+    <lastmod>2020-07-20T11:34:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/athens/</loc>
-    <lastmod>2020-07-16T09:48:03-04:00</lastmod>
+    <lastmod>2020-07-20T11:34:30-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/athens/athens_gardens_of_epicurus/</loc>
+    <lastmod>2020-07-20T11:34:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/</loc>
+    <lastmod>2020-07-20T11:34:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/aulis/</loc>
+    <lastmod>2020-07-16T09:50:12-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/aulis/aulis_sanctuary_of_artemis/</loc>
+    <lastmod>2020-07-16T09:50:12-04:00</lastmod>
   </url>
   
   <url>
@@ -26,13 +47,29 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/</loc>
-    <lastmod>2020-07-16T09:48:03-04:00</lastmod>
+    <loc>https://christiancasey.github.io/gre/province/achaea/aegina/</loc>
+    <lastmod>2020-07-16T09:45:49-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/aegina/aegina_temple_grove/</loc>
     <lastmod>2020-07-16T09:45:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/corinth/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/epidauros/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/eua/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

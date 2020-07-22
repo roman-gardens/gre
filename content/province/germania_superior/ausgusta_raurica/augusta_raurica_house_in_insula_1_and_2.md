@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-<!-- [Germania Superior]({{<ref "province/germania_superior.md">}}) -->  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -19,7 +19,8 @@ draft: true
 
 # Location
 
-[Augusta Raurica](https://pleiades.stoa.org/places/177494)
+[Augusta Raurica]({{<relref ".">}}) \
+[Augusta Raurica (Pleiades)](https\://pleiades.stoa.org/places/177494)
 
 ## Location Description
 
@@ -86,7 +87,8 @@ House: AD 150 - ca. 170
 
 ### Pleiades ID
 
-[177494](https://pleiades.stoa.org/places/177494)
+[177494]({{<relref ".">}}) \
+[177494 (Pleiades)](https\://pleiades.stoa.org/places/177494)
 
 ### TGN ID
 

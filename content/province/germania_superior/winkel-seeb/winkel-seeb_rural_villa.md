@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-<!-- [Germania Superior]({{<ref "province/germania_superior.md">}}) -->  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -19,7 +19,8 @@ draft: true
 
 # Location
 
-[Winkel-Seeb](https://pleiades.stoa.org/places/177667)
+[Winkel-Seeb]({{<relref ".">}}) \
+[Winkel-Seeb (Pleiades)](https\://pleiades.stoa.org/places/177667)
 
 ## Location Description
 
@@ -84,7 +85,8 @@ First half of 1st century A.C. - 250
 
 ### Pleiades ID
 
-[177667](https://pleiades.stoa.org/places/177667)
+[177667]({{<relref ".">}}) \
+[177667 (Pleiades)](https\://pleiades.stoa.org/places/177667)
 
 ### TGN ID
 

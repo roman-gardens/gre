@@ -101,7 +101,8 @@ T. L. Shear, “The Athenian Agora: Excavations of 1970,” Hesperia 40, 1971:26
 
 ### Pleiades ID
 
-[579885](https://pleiades.stoa.org/places/579885)
+[579885]({{<relref ".">}}) \
+[579885 (Pleiades)](https\://pleiades.stoa.org/places/579885)
 
 ### TGN ID
 

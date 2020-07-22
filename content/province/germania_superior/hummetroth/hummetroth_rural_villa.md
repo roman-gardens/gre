@@ -10,7 +10,7 @@ draft: true
 
 # Province
 
-<!-- [Germania Superior]({{<ref "province/germania_superior.md">}}) -->  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -86,7 +86,8 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 
 ### Pleiades ID
 
-[981525](https://pleiades.stoa.org/places/981525)
+[981525]({{<relref ".">}}) \
+[981525 (Pleiades)](https\://pleiades.stoa.org/places/981525)
 
 ### TGN ID
 
