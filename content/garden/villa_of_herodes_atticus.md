@@ -2,8 +2,8 @@
 title: "Villa_of_herodes_atticus"
 date: 2020-07-20T14:24:59-04:00
 article_id: ARTICLE_ID
-author: NAME_OF_AUTHOR
-editor: Annalisa Marzano
+author: Annalisa Marzano
+editor: Amartya Shri
 draft: true
 ---
 
@@ -105,7 +105,9 @@ G. Ieranò, “I tesori di un intellettuale,” *Archeo* 6, 2001:48-53; G. Spyro
 [0000-0002-6485-9143](https://orcid.org/0000-0002-6485-9143)
 
 ## Publication date
- 20 July 2020
+
+20 July 2020
+
 ## Related articles
 
 <!-- Links to other related articles. Leave blank for now -->
