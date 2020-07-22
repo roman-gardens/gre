@@ -11,6 +11,7 @@ apsed triclinium
 [ceramic tile](http://vocab.getty.edu/page/aat/300010678)
 [colonnades](http://vocab.getty.edu/page/aat/300002613)
 [corridors](http://vocab.getty.edu/page/aat/300004294)
+[courtyards](http://vocab.getty.edu/page/aat/300004095)
 [drains](http://vocab.getty.edu/page/aat/300052564)
 [domus](http://vocab.getty.edu/page/aat/300005506)
 [epitaphs](http://vocab.getty.edu/page/aat/300028729)
@@ -24,6 +25,7 @@ apsed triclinium
 [horrea](http://vocab.getty.edu/page/aat/300120504)
 [hypocausts](http://vocab.getty.edu/page/aat/300004277)
 [insulae](http://vocab.getty.edu/page/aat/300000325)
+[kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
 [kraters](http://vocab.getty.edu/page/aat/300198855)
 [lararia](http://vocab.getty.edu/page/aat/300400600)
 [loam](http://vocab.getty.edu/page/aat/300014335)
@@ -47,6 +49,7 @@ apsed triclinium
 rural villas
 [sarcophagi (coffins)](http://vocab.getty.edu/page/aat/300005947)
 [sherds](http://vocab.getty.edu/page/aat/300117132)
+shrine gardens
 [stelae](http://vocab.getty.edu/page/aat/300007023)
 [tablina](http://vocab.getty.edu/page/aat/300004180)
 [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
