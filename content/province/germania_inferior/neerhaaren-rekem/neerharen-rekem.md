@@ -1,20 +1,18 @@
 ---
-title: "Neerharen Rekem"
+title: "Neerhaaren-Rekem"
 date: 2020-07-12T10:54:58-07:00
+province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: NAME_OF_AUTHOR
-editor: NAME_OF_EDITOR
+author: Maureen Carroll
+editor: David Ratzan
 draft: true
 ---
 
 # Province
-
-<!--- Content of Province heading --->
+[Germania inferior]({{<relref "..">}})
 
 ## Province Description
-
-<!-- DESCRIPTION -->
-
+[Neerhaaren-Rekem](https://pleiades.stoa.org/places/109193)
 
 # Location
 
