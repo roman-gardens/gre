@@ -42,9 +42,9 @@ Hadrian's Library
 
 
 ## Keywords
-[piscinae](http://vocab.getty.edu/page/aat/300375619)
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-[Gymnasium](http://vocab.getty.edu/page/aat/300007297)
+[piscinae](http://vocab.getty.edu/page/aat/300375619) \
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
+[Gymnasium](http://vocab.getty.edu/page/aat/300007297) \
 [colonnades](http://vocab.getty.edu/page/aat/300002613)  
 
 ## Garden Description

@@ -43,8 +43,7 @@ Gymnasia and Groves
 
 ## Keywords
 
-<!-- [piscinae](http://vocab.getty.edu/page/aat/300375619), []() -->
-[palaestrae](http://vocab.getty.edu/page/aat/300007301)
+[palaestrae](http://vocab.getty.edu/page/aat/300007301) \
 [Gymnasium](http://vocab.getty.edu/page/aat/300007297)
 
 ## Garden Description

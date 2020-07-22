@@ -4,7 +4,7 @@ date: 2020-07-16T09:50:29-04:00
 article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
 editor: NAME_OF_EDITOR
-draft: true
+draft: false
 ---
 
 # Province
@@ -43,9 +43,9 @@ The Circus of Roman Corinth
 
 ## Keywords
 
-[circus](http://vocab.getty.edu/page/aat/300007255)
-[spinae]()
-[amphorae](http://vocab.getty.edu/page/aat/300148696)
+[circus](http://vocab.getty.edu/page/aat/300007255) \
+[spinae]() \
+[amphorae](http://vocab.getty.edu/page/aat/300148696) \
 [mosaic](http://vocab.getty.edu/page/aat/300015342)
 
 ## Garden Description

@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -17,7 +17,8 @@ draft: true
 
 # Location
 
-Chedworth
+[Chedworth]({{<relref ".">}}) \
+[Chedworth (Pleiades)](https://pleiades.stoa.org/places/79383)
 
 ## Location Description
 
@@ -74,7 +75,6 @@ Early 4th century - unspecified
 
 ### Pleiades ID
 
-[79383]({{<relref ".">}}) \
 [79383](https://pleiades.stoa.org/places/79383)
 
 ### TGN ID

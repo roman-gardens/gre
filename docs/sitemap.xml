@@ -88,6 +88,17 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/corinth/</loc>
+    <lastmod>2020-07-16T09:50:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/corinth/corinth_circus/</loc>
+    <lastmod>2020-07-16T09:50:29-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/aulis/</loc>
     <lastmod>2020-07-16T09:50:12-04:00</lastmod>
     <priority>0</priority>
@@ -109,11 +120,6 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/achaea/athens/athenian_schools_of_philosophy/</loc>
-    <lastmod>2020-07-16T09:48:03-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/athens/athens_gymnasia_and_groves/</loc>
     <lastmod>2020-07-16T09:47:21-04:00</lastmod>
   </url>
@@ -121,6 +127,11 @@
   <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/athens/athens_urban_houses_near_the_areopagus/</loc>
     <lastmod>2020-07-16T09:46:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/athens/athens_palace_of_the_giants/</loc>
+    <lastmod>2020-07-16T09:46:53-04:00</lastmod>
   </url>
   
   <url>
@@ -141,8 +152,19 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/britannia/</loc>
-    <lastmod>2020-07-07T18:04:20-04:00</lastmod>
+    <lastmod>2020-07-08T08:19:06-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/britannia/chedworth/</loc>
+    <lastmod>2020-07-08T08:19:06-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/britannia/chedworth/chedworth_rural_villa/</loc>
+    <lastmod>2020-07-08T08:19:06-04:00</lastmod>
   </url>
   
   <url>
@@ -203,17 +225,7 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/achaea/corinth/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/images/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/britannia/chedworth/</loc>
     <priority>0</priority>
   </url>
   

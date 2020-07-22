@@ -4,7 +4,7 @@ date: 2020-07-16T09:46:53-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
-draft: true
+draft: false
 ---
 
 # Province
@@ -27,7 +27,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Sublocation
 
-[Athenian Agora]({{<relref ".">}}) \
+<!-- [Athenian Agora]({{<relref ".">}}) \ -->
 [Athenian Agora (Pleiades)](https://pleiades.stoa.org/places/807514119)
 
 ## Sublocation Description

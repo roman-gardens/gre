@@ -16,7 +16,7 @@
 - Location
   - folder `relref`
   - Pleiades ID
-- Keywords, separate by newline
+- Keywords, separated by newline (`\` at end of line)
 - Sublocation `relref` present? -> comment out for now
 - Pleiades ID
   - Numbers in link?
@@ -29,4 +29,5 @@
 - achaea/athens/athens_neoplatonic..., no author
 - achaea/corinth/corinth_circus, images with no links
 - achaea/eua/villa..., editor seems to be author, no editor/author listed
+- achaea/athens/athenian_schools, need to make sure this info gets in the right places
 - 

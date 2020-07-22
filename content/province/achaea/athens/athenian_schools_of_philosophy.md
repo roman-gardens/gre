@@ -4,7 +4,7 @@ date: 2020-07-16T09:48:03-04:00
 article_id: ARTICLE_ID
 author: AUTHOR_NAME
 editor: Amartya Shri
-draft: false
+draft: true
 ---
 
 # Province
@@ -46,8 +46,7 @@ Athenian Schools of Philosophy
 
 ### Neopolatonic School near the Areopagus (Omega House)
 
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
 [nymphaea](http://vocab.getty.edu/page/aat/300006809)
 
 ## Garden Description

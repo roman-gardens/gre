@@ -30,7 +30,7 @@ enableInlineShortcodes = true
 
 	[[menu.main]]
 		identifier = "province"
-		name = "Provinces"
+		name = "Gardens"
 		url = "/province/"
 		weight = -100
 
