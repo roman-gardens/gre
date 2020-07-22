@@ -1,15 +1,15 @@
 ---
-title: "Hadrians_library"
+title: "Hadrians Library"
 date: 2020-07-16T09:48:59-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
-draft: true
+draft: false
 ---
 
 # Province
 
-[Achaea]({{<ref "province/achaea.md">}})
+[Achaea]({{<relref "..">}})
 
 ## Province Description
 
@@ -18,7 +18,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-[Athens](https://pleiades.stoa.org/places/579885)
+[Athens]({{<relref ".">}}) \
+[Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
 
 ## Location Description
 
@@ -55,17 +56,17 @@ In the center of the building was a large open peristyle courtyard with a long p
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
 
-{{< figure src="../../images/EUR_ACH_Athens_Hadrian Library_Fig 1.jpg" alt="Fig. 1: Plan of the Library of Hadrian with its courtyard garden (G) and apsidal pool (stippled). Adapted from Travlos 1971, fig. 316." title="Fig. 1: Plan of the Library of Hadrian with its courtyard garden (G) and apsidal pool (stippled). Adapted from Travlos 1971, fig. 316." >}}
+{{< figure src="../images/EUR_ACH_Athens_Hadrian Library_Fig 1.jpg" alt="Fig. 1: Plan of the Library of Hadrian with its courtyard garden (G) and apsidal pool (stippled). Adapted from Travlos 1971, fig. 316." title="Fig. 1: Plan of the Library of Hadrian with its courtyard garden (G) and apsidal pool (stippled). Adapted from Travlos 1971, fig. 316." >}}
 
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates

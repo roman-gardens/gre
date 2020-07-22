@@ -1,15 +1,15 @@
 ---
-title: "Gymnasia_and_groves"
+title: "Gymnasia and Groves"
 date: 2020-07-16T09:47:21-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
-draft: true
+draft: false
 ---
 
 # Province
 
-[Achaea]({{<ref "province/achaea.md">}})
+[Achaea]({{<relref "..">}})
 
 ## Province Description
 
@@ -18,7 +18,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-[Athens](https://pleiades.stoa.org/places/579885)
+[Athens]({{<relref ".">}}) \
+[Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
 
 ## Location Description
 
@@ -54,17 +55,17 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
 
-{{< figure src="../../images/EUR_ACH_Athens_gymnasium_Fig 1.jpg" alt="Fig. 1: Plan of the late Hellenistic/early Roman gymnasium with a possible garden (G), a pool (P) and a podium for statues (S) in the suburb of Academy at Athens. Adapted from Travlos 1971, fig. 59." title="" >}}
+{{< figure src="../images/EUR_ACH_Athens_gymnasium_Fig 1.jpg" alt="Fig. 1: Plan of the late Hellenistic/early Roman gymnasium with a possible garden (G), a pool (P) and a podium for statues (S) in the suburb of Academy at Athens. Adapted from Travlos 1971, fig. 59." title="" >}}
 
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates

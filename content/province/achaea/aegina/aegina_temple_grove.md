@@ -4,12 +4,12 @@ date: 2020-07-16T09:45:49-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
-draft: true
+draft: false
 ---
 
 # Province
 
-[Achaea]({{<ref "province/achaea.md">}})
+[Achaea]({{<relref "..">}})
 
 ## Province Description
 
@@ -20,7 +20,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-[Aegina](https://pleiades.stoa.org/places/579844)
+[Aegina]({{<relref ".">}}) \
+[Aegina (Perseus)](https://pleiades.stoa.org/places/579844)
 
 ## Location Description
 
@@ -53,7 +54,7 @@ Evidence for a temple grove on Aegina exists only in a literary reference.  Paus
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
@@ -65,7 +66,7 @@ Evidence for a temple grove on Aegina exists only in a literary reference.  Paus
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates

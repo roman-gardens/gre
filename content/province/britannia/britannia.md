@@ -5,7 +5,7 @@ date: 2020-07-07T12:53:41-04:00
 province_id: PROVINCE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
@@ -27,6 +27,7 @@ Britain is geographically and geologically diverse, and it was characterized in 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
+[981513]({{<relref ".">}}) \
 [981513](https://pleiades.stoa.org/places/981513)
 
 ### TGN ID

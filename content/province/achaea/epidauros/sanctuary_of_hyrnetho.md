@@ -9,7 +9,7 @@ draft: true
 
 # Province
 
-[Achaea]({{<ref "province/achaea.md">}})
+[Achaea]({{<relref "..">}})
 
 ## Province Description
 
@@ -19,7 +19,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-[Epidauros](https://pleiades.stoa.org/places/570228)
+[Epidauros]({{<relref ".">}}) \
+[Epidauros (Pleiades)](https://pleiades.stoa.org/places/570228)
 
 ## Location Description
 
@@ -52,7 +53,7 @@ According to local legend, the Argive maiden, Hyrnetho, died in an ancestral str
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
@@ -64,7 +65,7 @@ According to local legend, the Argive maiden, Hyrnetho, died in an ancestral str
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates

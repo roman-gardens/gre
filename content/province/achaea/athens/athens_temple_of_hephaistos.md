@@ -4,12 +4,12 @@ date: 2020-07-16T09:49:38-04:00
 article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
 editor: Amartya Shri
-draft: true
+draft: false
 ---
 
 # Province
 
-[Achaea]({{<ref "province/achaea.md">}})
+[Achaea]({{<relref "..">}})
 
 ## Province Description
 
@@ -19,7 +19,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-[Athens](https://pleiades.stoa.org/places/579885)
+[Athens]({{<relref ".">}}) \
+[Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
 
 ## Location Description
 
@@ -27,7 +28,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Sublocation
 
-[Athenian Agora](https://pleiades.stoa.org/places/807514119)
+<!-- [Athenian Agora]({{<relref ".">}}) \ -->
+[Athenian Agora (Pleiades)](https://pleiades.stoa.org/places/807514119)
 
 ## Sublocation Description
 
@@ -48,17 +50,17 @@ On the western edge of the Athenian Agora on Kolonos hill was the temple of Heph
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
 
-{{< figure src="../../images/EUR_ACH_Athens_Hephaistos_Fig 1.jpg" alt="Fig. 1: Plan of the Temple of Hephaistos and its temple grove (G) with surviving rows of planting pits (open squares). Adapted from Thompson 1937, fig. 1." title="Fig. 1: Plan of the Temple of Hephaistos and its temple grove (G) with surviving rows of planting pits (open squares). Adapted from Thompson 1937, fig. 1." >}}
+{{< figure src="../images/EUR_ACH_Athens_Hephaistos_Fig 1.jpg" alt="Fig. 1: Plan of the Temple of Hephaistos and its temple grove (G) with surviving rows of planting pits (open squares). Adapted from Thompson 1937, fig. 1." title="Fig. 1: Plan of the Temple of Hephaistos and its temple grove (G) with surviving rows of planting pits (open squares). Adapted from Thompson 1937, fig. 1." >}}
 
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -75,6 +77,7 @@ D.B. Thompson, “The Garden of Hephaistos”, Hesperia 6, 1937:396-425; M. Carr
 
 ### Pleiades ID
 
+[807514119]({{<relref ".">}}) \
 [807514119](https://pleiades.stoa.org/places/807514119)
 
 ### TGN ID

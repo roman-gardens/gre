@@ -6,12 +6,12 @@ article_id: ARTICLE_ID
 author: Claudine Munier, Christophe Gaston, Maureen Carroll
 editor: June Dorsch
 translator: C.A.
-draft: false
+draft: true
 ---
 
 # Province
 
-[Germania Superior]({{<ref "province/germania_superior.md">}})  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -20,7 +20,8 @@ draft: false
 
 # Location
 
-[Vesontio](https://pleiades.stoa.org/places/177657)
+[Vesontio]({{<relref ".">}}) \
+[Vesontio (Pleiades)](https://pleiades.stoa.org/places/177657)
 
 ## Location Description
 
@@ -70,7 +71,7 @@ At the beginning of the third century, the two *domus* were transformed. In part
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
@@ -101,7 +102,8 @@ Beginning of the Flavian epoch - middle of the third century
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-
+[Vesontio]({{<relref ".">}}) \
+[Vesontio (Pleiades)](https://pleiades.stoa.org/places/177657)
 [177657](https://pleiades.stoa.org/places/177657)
 
 ### TGN ID

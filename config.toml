@@ -4,6 +4,8 @@ relativeURLs = false
 languageCode = "en-us"
 title = "Gardens of the Roman Empire"
 theme = "mainroad"
+# theme = "simpleit-hugo-theme"
+# theme = "book"
 
 publishDir = "docs"
 
@@ -13,6 +15,12 @@ enableInlineShortcodes = true
 
 [menu]
 
+	[[menu.main]]
+		identifier = "home"
+		name = "Home"
+		url = "/"
+		weight = -120
+		
 	[[menu.main]]
 		identifier = "about"
 		name = "About"
@@ -25,12 +33,6 @@ enableInlineShortcodes = true
 		url = "/province/"
 		weight = -100
 
-	[[menu.main]]
-		identifier = "garden"
-		name = "Gardens"
-		url = "/garden/"
-		weight = -90
-
 
 [Params.sidebar]
 	home = "right" # Configure layout for home page
@@ -42,5 +44,5 @@ enableInlineShortcodes = true
 	# widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 
 [Params.widgets]
-	recent_num = 5 # Set the number of articles in the "Recent articles" widget
-	tags_counter = false # Enable counter for each tag in "Tags" widget
+	recent_num = 1000 # Set the number of articles in the "Recent articles" widget
+	tags_counter = true # Enable counter for each tag in "Tags" widget

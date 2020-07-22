@@ -5,12 +5,12 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Michel Fuchs, Jacques Monnier
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
 
-[Germania Superior]({{<ref "province/germania_superior.md">}})  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -81,9 +81,9 @@ After the disappearance of the Antique site, the land continues to be occupied d
 
 ## Maps
 <!--warning these do not seem to appear-->
-{{< figure src="../../images/EUR_GS_Val_villa1_carroll.jpg" alt="Fig. 1 : Vallon location map." title="Fig. 1 : Vallon location map. (Rights Statement)" >}}
+{{< figure src="../images/EUR_GS_Val_villa1_carroll.jpg" alt="Fig. 1 : Vallon location map." title="Fig. 1 : Vallon location map. (Rights Statement)" >}}
 
-{{< figure src="../../images/EUR_GS_Val_villa3_carroll.jpg" alt="Fig. 2 : map of the habitation zone in the second half of the IInd century of our era." title="Fig. 2 : map of the habitation zone in the second half of the IInd century of our era.(Rights Statement)" >}}
+{{< figure src="../images/EUR_GS_Val_villa3_carroll.jpg" alt="Fig. 2 : map of the habitation zone in the second half of the IInd century of our era." title="Fig. 2 : map of the habitation zone in the second half of the IInd century of our era.(Rights Statement)" >}}
 
 ## Plans
 
@@ -93,13 +93,13 @@ After the disappearance of the Antique site, the land continues to be occupied d
 
 ## Images
 
-{{< figure src="../../images/EUR_GS_Val_villa2_carroll.jpg" alt="Fig. 3 : pine wood conduits preserved in one of the channels. Photo Fribourg State Archaeological Service." title="Fig. 3 : pine wood conduits preserved in one of the channels. Photo Fribourg State Archaeological Service. (Rights Statement)" >}}
+{{< figure src="../images/EUR_GS_Val_villa2_carroll.jpg" alt="Fig. 3 : pine wood conduits preserved in one of the channels. Photo Fribourg State Archaeological Service." title="Fig. 3 : pine wood conduits preserved in one of the channels. Photo Fribourg State Archaeological Service. (Rights Statement)" >}}
 
-{{< figure src="../../images/EUR_GS_Val_villa4_carroll.jpg" alt="Fig. 4 : ditches uncovered in the courtyard in front of the central building (2006). Photo Fribourg State Archaeological Service." title="Fig. 4 : ditches uncovered in the courtyard in front of the central building (2006). Photo Fribourg State Archaeological Service. (Rights Statement)" >}}
+{{< figure src="../images/EUR_GS_Val_villa4_carroll.jpg" alt="Fig. 4 : ditches uncovered in the courtyard in front of the central building (2006). Photo Fribourg State Archaeological Service." title="Fig. 4 : ditches uncovered in the courtyard in front of the central building (2006). Photo Fribourg State Archaeological Service. (Rights Statement)" >}}
 
-{{< figure src="../../images/EUR_GS_Val_villa5_carroll.jpg" alt="Fig. 5 : scale model of the habitation area in the second half of the IInd century. Built before the research in the gardens was resumed, it presents a considerable partitioning of the various open spaces. Photo Fribourg State Archaeological Service." title="Fig. 5 : scale model of the habitation area in the second half of the IInd century. Built before the research in the gardens was resumed, it presents a considerable partitioning of the various open spaces. Photo Fribourg State Archaeological Service. (Rights Statement)" >}}
+{{< figure src="../images/EUR_GS_Val_villa5_carroll.jpg" alt="Fig. 5 : scale model of the habitation area in the second half of the IInd century. Built before the research in the gardens was resumed, it presents a considerable partitioning of the various open spaces. Photo Fribourg State Archaeological Service." title="Fig. 5 : scale model of the habitation area in the second half of the IInd century. Built before the research in the gardens was resumed, it presents a considerable partitioning of the various open spaces. Photo Fribourg State Archaeological Service. (Rights Statement)" >}}
 
-{{< figure src="../../images/EUR_GS_Val_villa6_carroll.jpg" alt="Fig. 6 : watercolour of the habitation area integrating the first results obtained by excavating the gardens. Please note the less significant partition between the different courtyards. The cistern at the front of the south building (to the right) is highly hypothetical; it seems rather to be an ornamental pool. Watercolour: Bernard Reymond, Yverdon-les-Bains (Switzerland)." title="Fig. 6 : watercolour of the habitation area integrating the first results obtained by excavating the gardens. Please note the less significant partition between the different courtyards. The cistern at the front of the south building (to the right) is highly hypothetical; it seems rather to be an ornamental pool. Watercolour: Bernard Reymond, Yverdon-les-Bains (Switzerland). (Rights Statement)" >}}
+{{< figure src="../images/EUR_GS_Val_villa6_carroll.jpg" alt="Fig. 6 : watercolour of the habitation area integrating the first results obtained by excavating the gardens. Please note the less significant partition between the different courtyards. The cistern at the front of the south building (to the right) is highly hypothetical; it seems rather to be an ornamental pool. Watercolour: Bernard Reymond, Yverdon-les-Bains (Switzerland)." title="Fig. 6 : watercolour of the habitation area integrating the first results obtained by excavating the gardens. Please note the less significant partition between the different courtyards. The cistern at the front of the south building (to the right) is highly hypothetical; it seems rather to be an ornamental pool. Watercolour: Bernard Reymond, Yverdon-les-Bains (Switzerland). (Rights Statement)" >}}
 
 ## Dates
 
@@ -115,6 +115,7 @@ Beginning of the 1st c. CE - beginning of the Vth century
 
 ### Pleiades ID
 
+[981525]({{<relref ".">}}) \
 [981525](https://pleiades.stoa.org/places/981525)
 
 ### TGN ID

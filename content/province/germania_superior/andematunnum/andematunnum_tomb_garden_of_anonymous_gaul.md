@@ -5,12 +5,12 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
 
-[Germania Superior]({{<ref "province/germania_superior.md">}})  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -19,7 +19,8 @@ draft: false
 
 # Location
 
-[Andematunnum](https://pleiades.stoa.org/places/177441)
+[Andematunnum]({{<relref ".">}}) \
+[Andematunnum (Pleiades)](https://pleiades.stoa.org/places/177441)
 
 ## Location Description
 
@@ -86,6 +87,7 @@ unspecified
 
 ### Pleiades ID
 
+[177441]({{<relref ".">}}) \
 [177441](https://pleiades.stoa.org/places/177441)
 
 ### TGN ID

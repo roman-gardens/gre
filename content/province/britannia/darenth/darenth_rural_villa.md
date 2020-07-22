@@ -5,19 +5,20 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
 
-[Britannia]({{<ref "province/britannia.md">}})  
+[Britannia]({{<relref "..">}})  
 
 # Province Description
 
 
 # Location
 
-[Darenth](https://pleiades.stoa.org/places/79413)
+[Darenth]({{<relref ".">}}) \
+[Darenth (Pleiades)](https://pleiades.stoa.org/places/79413)
 
 ## Location Description
 
@@ -58,7 +59,7 @@ South of the western range of rooms was a large, open space measuring 14.6 x 58.
 
 ## Plans
 
-{{< figure src="../../images/Darenth_fig_4.tif" alt="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20" title="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20. (Rights statement)" >}}
+{{< figure src="../images/Darenth_fig_4.tif" alt="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20" title="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20. (Rights statement)" >}}
 
 ## Images
 
@@ -77,6 +78,7 @@ After 100 CE - Closing decades of the 4th century
 
 ### Pleiades ID
 
+[79413]({{<relref ".">}}) \
 [79413](https://pleiades.stoa.org/places/79413)
 
 ### TGN ID

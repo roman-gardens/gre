@@ -5,12 +5,12 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
 
-[Germania Superior]({{<ref "province/germania_superior.md">}})  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -54,17 +54,17 @@ The house of this *villa rustica* was of the winged corridor type (A in Fig. 1) 
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
 
-{{< figure src="../../images/EUR_GS_Fer_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa (A) with a possible garden (G) protected by a wall to the east of the main building. The shoreline of the lake is dotted. Adapted from Drack and Fellmann 1988, fig. 369." title="Fig. 1: Plan of the rural villa (A) with a possible garden (G) protected by a wall to the east of the main building. The shoreline of the lake is dotted. Adapted from Drack and Fellmann 1988, fig. 369. (Rights Statement)" >}}
+{{< figure src="../images/EUR_GS_Fer_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa (A) with a possible garden (G) protected by a wall to the east of the main building. The shoreline of the lake is dotted. Adapted from Drack and Fellmann 1988, fig. 369." title="Fig. 1: Plan of the rural villa (A) with a possible garden (G) protected by a wall to the east of the main building. The shoreline of the lake is dotted. Adapted from Drack and Fellmann 1988, fig. 369. (Rights Statement)" >}}
 
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -82,6 +82,7 @@ unspecified
 
 ### Pleiades ID
 
+[981525]({{<relref ".">}}) \
 [981525](https://pleiades.stoa.org/places/981525)
 
 ### TGN ID

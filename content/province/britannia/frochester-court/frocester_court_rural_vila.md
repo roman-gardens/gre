@@ -5,19 +5,20 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
 
-[Britannia]({{<ref "province/britannia.md">}})  
+[Britannia]({{<relref "..">}})  
 
 # Province Description
 
 
 # Location
 
-[Frocester Court](https://pleiades.stoa.org/places/79471) -->
+[Frocester Court]({{<relref ".">}}) \
+[Frocester Court (Pleiades)](https://pleiades.stoa.org/places/79471) -->
 
 ## Location Description
 
@@ -58,11 +59,11 @@ Excavated evidence indicates that this courtyard was designed as a formal garden
 
 ## Plans
 
-{{< figure src="../../images/Frocester_Fig_10_or_7.1a.jpg" alt="Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2." title="Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2. (Rights statement)" >}}
+{{< figure src="../images/Frocester_Fig_10_or_7.1a.jpg" alt="Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2." title="Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2. (Rights statement)" >}}
 
 ## Images
 
-{{< figure src="../../images/Frocester_11_or_7.1b.jpg" alt="Fig. 2: Reconstruction of the villa and its garden at Frocester Court. The closest wall should be a fence. Drawing courtesy of E. Price." title="Fig. 2: Reconstruction of the villa and its garden at Frocester Court. The closest wall should be a fence. Drawing courtesy of E. Price." >}}
+{{< figure src="../images/Frocester_11_or_7.1b.jpg" alt="Fig. 2: Reconstruction of the villa and its garden at Frocester Court. The closest wall should be a fence. Drawing courtesy of E. Price." title="Fig. 2: Reconstruction of the villa and its garden at Frocester Court. The closest wall should be a fence. Drawing courtesy of E. Price." >}}
 
 ## Dates
 
@@ -79,6 +80,7 @@ Early 4th century - 5th century
 
 ### Pleiades ID
 
+[79471]({{<relref ".">}}) \
 [79471](https://pleiades.stoa.org/places/79471)
 
 ### TGN ID

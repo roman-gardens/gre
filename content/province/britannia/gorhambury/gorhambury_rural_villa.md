@@ -5,19 +5,20 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
 
-[Britannia]({{<ref "province/britannia.md">}})  
+[Britannia]({{<relref "..">}})  
 
 # Province Description
 
 
 # Location
 
-[Gorhambury](https://pleiades.stoa.org/places/79485)
+[Gorhambury]({{<relref ".">}}) \
+[Gorhambury (Pleiades)](https://pleiades.stoa.org/places/79485)
 
 ## Location Description
 
@@ -59,7 +60,7 @@ An avenue 20 meters wide led axially from the gate at the eastern end of the inn
 
 ## Plans
 
-{{< figure src="../../images/Gorhambury_13_or_9.1.jpg" alt="Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn." title="Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn. (Rights statement)" >}}
+{{< figure src="../images/Gorhambury_13_or_9.1.jpg" alt="Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn." title="Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn. (Rights statement)" >}}
 
 ## Images
 
@@ -82,6 +83,7 @@ around A.D. 100 - 175
 
 ### Pleiades ID
 
+[79485]({{<relref ".">}}) \
 [79485](https://pleiades.stoa.org/places/79485)
 
 ### TGN ID

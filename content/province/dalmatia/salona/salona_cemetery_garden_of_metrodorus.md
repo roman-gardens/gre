@@ -4,12 +4,12 @@ date: 2020-07-15T10:10:26-04:00
 article_id: ARTICLE_ID
 author: John Bodel
 editor: Christian Casey
-draft: false
+draft: true
 ---
 
 # Province
 
-[Dalmatia]({{<ref "province/dalmatia.md">}})
+[Dalmatia]({{<relref "..">}})
 
 ## Province Description
 
@@ -18,7 +18,8 @@ draft: false
 
 # Location
 
-[Salona](https://pleiades.stoa.org/places/197488)
+[Salona]({{<relref ".">}}) \
+[Salona (Pleiades)](https://pleiades.stoa.org/places/197488)
 
 ## Location Description
 
@@ -54,7 +55,7 @@ A sarcophagus found at Salona in 1824, transported to the museum in Split, and s
 ## Maps
 
 <!-- 
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
@@ -66,7 +67,7 @@ A sarcophagus found at Salona in 1824, transported to the museum in Split, and s
 ## Images
 
 <!-- 
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -86,6 +87,7 @@ Late second or third century (CE)
 ### Pleiades ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
+[197488]({{<relref ".">}}) \
 [197488](https://pleiades.stoa.org/places/197488)
 
 ### TGN ID
