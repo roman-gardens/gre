@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -52,7 +52,8 @@ Outside the walls of the city, utilitarian gardens were planted, possibly in the
 ## Plans
 
 ## Images
-<span style="color:red"> Images not available (?) </span>
+
+<span style="color: red;"> Images not available (?) </span>
 
 
 *Fig. 1: Area outside the Balkerne gate before widening of the town ditch. Details of the beds in the middle of the section of are gardens in the foreground are based on excavation. From Crummy, City of Victory, p. 42. (Rights statement)*
