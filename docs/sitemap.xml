@@ -140,22 +140,64 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/britannia/</loc>
+    <lastmod>2020-07-07T18:04:20-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/britannia/bancroft/</loc>
+    <lastmod>2020-07-07T18:04:20-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/bathhouses/</loc>
+    <lastmod>2020-07-07T18:04:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/categories/britannia/</loc>
+    <lastmod>2020-07-07T18:04:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/categories/</loc>
+    <lastmod>2020-07-07T18:04:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/gazebos/</loc>
+    <lastmod>2020-07-07T18:04:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/piscinae/</loc>
+    <lastmod>2020-07-07T18:04:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/britannia/bancroft/bancroft_rural_villa/</loc>
+    <lastmod>2020-07-07T18:04:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/</loc>
+    <lastmod>2020-07-07T18:04:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/villae-rusticae/</loc>
+    <lastmod>2020-07-07T18:04:20-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/corinth/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/images/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/britannia/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/britannia/bancroft/</loc>
     <priority>0</priority>
   </url>
   
@@ -382,14 +424,6 @@
   <url>
     <loc>https://christiancasey.github.io/gre/province/macedonia/thessaloniki/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/tags/</loc>
   </url>
   
 </urlset>

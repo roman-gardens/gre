@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Gardens of the Roman Empire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jul 2020 18:04:20 -0400</lastBuildDate>
     
 	<atom:link href="https://christiancasey.github.io/gre/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Britannia</title>
+      <link>https://christiancasey.github.io/gre/categories/britannia/</link>
+      <pubDate>Tue, 07 Jul 2020 18:04:20 -0400</pubDate>
+      
+      <guid>https://christiancasey.github.io/gre/categories/britannia/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -5,6 +5,9 @@
 - [ ] Check all the keywords for one standard getty url
 - [ ] Check for all comments containing some mention of "cross references", add links to relevant pages
 - [ ] Go through punchlist for each article
+- [ ] Get province information into general province page (somehow)
+- [ ] Get keywords into tags list in header (as in bancroft example)
+- [ ] Get geographic regions into sidebar using categories list (as in bancroft)
  
 # Article Punchlist
 
