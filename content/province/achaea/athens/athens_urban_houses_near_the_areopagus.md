@@ -1,10 +1,10 @@
 ---
-title: "Urban houses near areopagus"
+title: "Urban Houses Near the Areopagus"
 date: 2020-07-16T09:46:56-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
-draft: true
+draft: false
 ---
 
 # Province
@@ -28,7 +28,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Sublocation
 
-[Areopagus]({{<relref ".">}}) \
+<!-- [Areopagus]({{<relref ".">}}) \ -->
 [Areopagus (Pleiades)](https://pleiades.stoa.org/places/969121823)
 
 ## Sublocation Description
@@ -41,7 +41,7 @@ Urban Houses near Areopagus
 
 ## Keywords
 
-[piscinae]( http://vocab.getty.edu/page/aat/300375619)
+[piscinae](http://vocab.getty.edu/page/aat/300375619)
 
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
@@ -61,7 +61,7 @@ Another only partially excavated house of the mid-4th century A.D., built into t
 
 ## Images
 
-{{< figure src="../images/EUR_ACH_Athens_ Areopagus house_Fig 2.jpg" alt="Fig. 2:  Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a." title="Fig. 2:  Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a." >}}
+{{< figure src="../images/EUR_ACH_Athens_Areopagus House_Fig 2.jpg" alt="Fig. 2:  Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a." title="Fig. 2:  Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a." >}}
 
 ## Dates
 <!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
@@ -77,7 +77,6 @@ Another only partially excavated house of the mid-4th century A.D., built into t
 
 ### Pleiades ID
 
-[969121823]({{<relref ".">}}) \
 [969121823](https://pleiades.stoa.org/places/969121823)
 
 ### TGN ID

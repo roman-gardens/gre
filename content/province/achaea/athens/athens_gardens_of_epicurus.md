@@ -19,7 +19,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 # Location
 
 [Athens]({{<relref ".">}}) \
-[Athens (Pleiades)](https\://pleiades.stoa.org/places/579885)
+[Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
 
 ## Location Description
 
@@ -88,7 +88,7 @@ Cicero set the scene in *De finibus* 5.1.3 for a group of men in the Academy nea
 
 ### Pleiades ID
 
-[579885](https\://pleiades.stoa.org/places/579885)
+[579885](https://pleiades.stoa.org/places/579885)
 
 ### TGN ID
 

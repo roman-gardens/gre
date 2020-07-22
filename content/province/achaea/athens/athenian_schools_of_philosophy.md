@@ -45,7 +45,9 @@ Athenian Schools of Philosophy
 []()
 
 ### Neopolatonic School near the Areopagus (Omega House)
+
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+
 [nymphaea](http://vocab.getty.edu/page/aat/300006809)
 
 ## Garden Description
