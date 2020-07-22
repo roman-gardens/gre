@@ -4,12 +4,12 @@ date: 2020-07-14T17:06:21-04:00
 article_id: ARTICLE_ID
 author: John Bodel
 editor: Christian Casey
-draft: false
+draft: true
 ---
 
 # Province
 
-[Dalmatia]({{<ref "province/dalmatia.md">}})
+[Dalmatia]({{<relref "..">}})
 
 ## Province Description
 
@@ -18,7 +18,8 @@ draft: false
 
 # Location
 
-[Salona](https://pleiades.stoa.org/places/197488)
+[Salona]({{<relref ".">}}) \
+[Salona (Pleiades)](https://pleiades.stoa.org/places/197488)
 
 ## Location Description
 
@@ -53,7 +54,7 @@ An inscription reported among those of Salona records an epitaph set up by Iulia
 ## Maps
 
 <!-- 
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
@@ -65,7 +66,7 @@ An inscription reported among those of Salona records an epitaph set up by Iulia
 ## Images
 
 <!-- 
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -83,6 +84,7 @@ Second half of the second or the third century (CE)
 ### Pleiades ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
+[197488]({{<relref ".">}}) \
 [197488](https://pleiades.stoa.org/places/197488)
 
 ### TGN ID

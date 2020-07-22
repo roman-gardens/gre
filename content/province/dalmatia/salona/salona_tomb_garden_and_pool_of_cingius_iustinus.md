@@ -5,12 +5,12 @@ article_id: ARTICLE_ID
 author: [ John Bodel, Other Guy ]
 editor: Christian Casey
 lead: "written by John Bodel, edited by Christian Casey"
-draft: false
+draft: true
 ---
 
 # Province
 
-[Dalmatia]({{<ref "province/dalmatia.md">}})
+[Dalmatia]({{<relref "..">}})
 
 ## Province Description
 
@@ -19,7 +19,8 @@ draft: false
 
 # Location
 
-[Salona](https://pleiades.stoa.org/places/197488)
+[Salona]({{<relref ".">}}) \
+[Salona (Pleiades)](https://pleiades.stoa.org/places/197488)
 
 ## Location Description
 
@@ -55,7 +56,7 @@ A rock cut inscription at Salonae marks the spot where some time in the late sec
 ## Maps
 
 <!-- 
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
@@ -67,7 +68,7 @@ A rock cut inscription at Salonae marks the spot where some time in the late sec
 ## Images
 
 <!-- 
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -85,6 +86,7 @@ Late second or third century (CE)
 ### Pleiades ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
+[197488]({{<relref ".">}}) \
 [197488](https://pleiades.stoa.org/places/197488)
 
 ### TGN ID

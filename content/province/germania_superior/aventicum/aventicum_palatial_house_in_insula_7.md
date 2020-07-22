@@ -5,12 +5,12 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
 
-[Germania Superior]({{<ref "province/germania_superior.md">}})  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -65,12 +65,12 @@ The courtyard was on two levels, divided on the north by a terrace wall with two
 
 ## Plans
 
-{{< figure src="../../images/EUR_GS_AugRau_Phi7_carroll.jpg" alt="Fig. 1: Plan of the courtyard house or palace on the western fringe of Insula 7, with a garden courtyard (G) with two small apsidal pools on one side. Plan adapted from Morel 1995, fig. 4" title="Fig. 1: Plan of the courtyard house or palace on the western fringe of Insula 7, with a garden courtyard (G) with two small apsidal pools on one side. Plan adapted from Morel 1995, fig. 4. (Rights statement)" >}}
+{{< figure src="../images/EUR_GS_AugRau_Phi7_carroll.jpg" alt="Fig. 1: Plan of the courtyard house or palace on the western fringe of Insula 7, with a garden courtyard (G) with two small apsidal pools on one side. Plan adapted from Morel 1995, fig. 4" title="Fig. 1: Plan of the courtyard house or palace on the western fringe of Insula 7, with a garden courtyard (G) with two small apsidal pools on one side. Plan adapted from Morel 1995, fig. 4. (Rights statement)" >}}
 
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -89,6 +89,7 @@ Severnan Period - Middle of 3rd century
 
 ### Pleiades ID
 
+[177495]({{<relref ".">}}) \
 [177495](https://pleiades.stoa.org/places/177495)
 
 ### TGN ID

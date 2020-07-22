@@ -5,12 +5,12 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
 
-[Germania Superior]({{<ref "province/germania_superior.md">}})  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -57,17 +57,17 @@ The most remarkable feature of the building was a T-shaped garden courtyard (G i
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
 
-{{< figure src="../../images/EUR_GS_AugRau_Hi13_carroll.jpg" alt="Fig. 1: Plan of a courtyard house in Insula 13 with a peristyle garden (G) and pool (grey). Plan adapted from Carroll 2001, fig. 20." title="Fig. 1: Plan of a courtyard house in Insula 13 with a peristyle garden (G) and pool (grey). Plan adapted from Carroll 2001, fig. 20. (Rights statement)" >}}
+{{< figure src="../images/EUR_GS_AugRau_Hi13_carroll.jpg" alt="Fig. 1: Plan of a courtyard house in Insula 13 with a peristyle garden (G) and pool (grey). Plan adapted from Carroll 2001, fig. 20." title="Fig. 1: Plan of a courtyard house in Insula 13 with a peristyle garden (G) and pool (grey). Plan adapted from Carroll 2001, fig. 20. (Rights statement)" >}}
 
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -86,6 +86,7 @@ Houses: Late 1st century - Middle of 3rd century
 
 ### Pleiades ID
 
+[177495]({{<relref ".">}}) \
 [177495](https://pleiades.stoa.org/places/177495)
 
 ### TGN ID

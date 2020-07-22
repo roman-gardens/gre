@@ -9,7 +9,7 @@ draft: true
 
 # Province
 
-[Macedonia]({{<ref "province/macedonia.md">}})  
+[Macedonia]({{<relref "..">}})  
 
 ## Province Description
 
@@ -18,7 +18,8 @@ draft: true
 
 # Location
 
-[Thessaloniki](https://pleiades.stoa.org/places/491741)
+[Thessaloniki]({{<relref ".">}}) \
+[Thessaloniki (Pleiades)](https://pleiades.stoa.org/places/491741)
 
 ## Location Description
 
@@ -82,6 +83,7 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 
 ### Pleiades ID
 
+[491741]({{<relref ".">}}) \
 [491741](https://pleiades.stoa.org/places/491741)
 
 ### TGN ID

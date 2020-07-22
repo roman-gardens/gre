@@ -9,7 +9,9 @@ draft: true
 
 # Province
 
-<!--- Content of Province heading --->
+<!--
+[PROVINCE_NAME]({{<relref "..">}}) 
+-->
 
 ## Province Description
 
@@ -18,7 +20,10 @@ draft: true
 
 # Location
 
-<!-- [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751) -->
+<!-- 
+[LOCATION_NAME]({{<relref ".">}}) \ 
+[LOCATION_NAME (Pleiades)](https://pleiades.stoa.org/places/108751) 
+-->
 
 ## Location Description
 

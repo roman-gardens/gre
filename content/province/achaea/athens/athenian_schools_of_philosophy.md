@@ -1,15 +1,15 @@
 ---
-title: "Athenian_schools_of_philosophy"
+title: "Athenian Schools of Philosophy"
 date: 2020-07-16T09:48:03-04:00
 article_id: ARTICLE_ID
 author: AUTHOR_NAME
 editor: Amartya Shri
-draft: true
+draft: false
 ---
 
 # Province
 
-[Achaea]({{<ref "province/achaea.md">}})
+[Achaea]({{<relref "..">}})
 
 ## Province Description
 
@@ -18,7 +18,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-[Athens](https://pleiades.stoa.org/places/579885)
+[Athens]({{<relref ".">}}) \
+[Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
 
 ## Location Description
 
@@ -44,7 +45,9 @@ Athenian Schools of Philosophy
 []()
 
 ### Neopolatonic School near the Areopagus (Omega House)
+
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+
 [nymphaea](http://vocab.getty.edu/page/aat/300006809)
 
 ## Garden Description
@@ -62,17 +65,17 @@ One of these buildings, the so-called House C or Omega House, had two peristyle 
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
 
-{{< figure src="../../images/EUR_ACH_Athens_Omega House_Fig 1.jpg" alt="Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170." title="Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170." >}}
+{{< figure src="../images/EUR_ACH_Athens_Omega House_Fig 1.jpg" alt="Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170." title="Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170." >}}
 
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates

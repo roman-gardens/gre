@@ -5,12 +5,12 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
 
-[Germania Superior]({{<ref "province/germania_superior.md">}})  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -19,7 +19,8 @@ draft: false
 
 # Location
 
-[Oberentfelden](https://pleiades.stoa.org/places/177596)
+[Oberentfelden]({{<relref ".">}}) \
+[Oberentfelden (Pleiades)](https://pleiades.stoa.org/places/177596)
 
 ## Location Description
 
@@ -54,17 +55,17 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
 
-{{< figure src="../../images/EUR_GS_Obe_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa (A) with a bath (B), a nymphaeum (D) and various outbuildings and houses (C). Plan adapted from Drack and Fellmann 1988, fig. 418." title="Fig. 1: Plan of the rural villa (A) with a bath (B), a nymphaeum (D) and various outbuildings and houses (C). Plan adapted from Drack and Fellmann 1988, fig. 418." >}}
+{{< figure src="../images/EUR_GS_Obe_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa (A) with a bath (B), a nymphaeum (D) and various outbuildings and houses (C). Plan adapted from Drack and Fellmann 1988, fig. 418." title="Fig. 1: Plan of the rural villa (A) with a bath (B), a nymphaeum (D) and various outbuildings and houses (C). Plan adapted from Drack and Fellmann 1988, fig. 418." >}}
 
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -83,6 +84,7 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 
 ### Pleiades ID
 
+[177596]({{<relref ".">}}) \
 [177596](https://pleiades.stoa.org/places/177596)
 
 ### TGN ID

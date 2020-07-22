@@ -6,12 +6,12 @@ article_id: ARTICLE_ID
 author: Claudine Munier, Christophe Gaston, Maureen Carroll
 editor: June Dorsch
 translator: Clopper Almon
-draft: false
+draft: true
 ---
 
 # Province
 
-[Germania Superior]({{<ref "province/germania_superior.md">}})  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -20,7 +20,8 @@ draft: false
 
 # Location
 
-[Vesontio](https://pleiades.stoa.org/places/177657)
+[Vesontio]({{<relref ".">}}) \
+[Vesontio (Pleiades)](https://pleiades.stoa.org/places/177657)
 
 ## Location Description
 
@@ -71,7 +72,7 @@ A fragment of a little ornamental stone *krater* was found in the material that 
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
@@ -82,7 +83,7 @@ Fig. 1: Plan of the domus, now under the Collège Lumière.
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -99,6 +100,7 @@ Gardens: Beginning and last third of second century
 
 ### Pleiades ID
 
+[177657]({{<relref ".">}}) \
 [177657](https://pleiades.stoa.org/places/177657)
 
 ### TGN ID

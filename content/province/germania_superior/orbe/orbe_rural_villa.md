@@ -5,12 +5,12 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
 
-[Germania Superior]({{<ref "province/germania_superior.md">}})  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -19,7 +19,8 @@ draft: false
 
 # Location
 
-[Orbe](https://pleiades.stoa.org/places/177598)
+[Orbe]({{<relref ".">}}) \
+[Orbe (Pleiades)](https://pleiades.stoa.org/places/177598)
 
 ## Location Description
 
@@ -53,17 +54,17 @@ This large palatial house belonged to a villa rustica revealed by excavation and
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
 
-{{< figure src="../../images/EUR_GS_Orb_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa (A) with two large courtyard gardens (G) and a possible walled garden (G) to the east of the main house. The dotted lines are structures known only from aerial photography. Adapted from Drack and Fellmann 1988, fig. 423." title="Fig. 1: Plan of the rural villa (A) with two large courtyard gardens (G) and a possible walled garden (G) to the east of the main house. The dotted lines are structures known only from aerial photography. Adapted from Drack and Fellmann 1988, fig. 423. (Rights Statement)" >}}
+{{< figure src="../images/EUR_GS_Orb_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa (A) with two large courtyard gardens (G) and a possible walled garden (G) to the east of the main house. The dotted lines are structures known only from aerial photography. Adapted from Drack and Fellmann 1988, fig. 423." title="Fig. 1: Plan of the rural villa (A) with two large courtyard gardens (G) and a possible walled garden (G) to the east of the main house. The dotted lines are structures known only from aerial photography. Adapted from Drack and Fellmann 1988, fig. 423. (Rights Statement)" >}}
 
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -83,6 +84,7 @@ House: mid-1st century CE - 4th century
 
 ### Pleiades ID
 
+[177598]({{<relref ".">}}) \
 [177598](https://pleiades.stoa.org/places/177598)
 
 ### TGN ID

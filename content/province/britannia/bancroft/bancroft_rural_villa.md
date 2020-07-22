@@ -5,12 +5,12 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
 
-[Britannia]({{<ref "province/britannia.md">}})  
+[Britannia]({{<relref "..">}})  
 
 # Province Description
 
@@ -57,7 +57,7 @@ The villa complex that preceded the winged corridor house is also of interest in
 
 ## Plans
 
-{{< figure src="../../images/Bancroft_fig_1.jpg" alt="Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4." title="Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.(Rights statement.)" >}}
+{{< figure src="../images/Bancroft_fig_1.jpg" alt="Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4." title="Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.(Rights statement.)" >}}
 
 ## Images
 
@@ -76,6 +76,7 @@ Roman villa... built in the late 3rd century and rebuilt and enlarged in the mid
 
 ### Pleiades ID
 
+[79312]({{<relref ".">}}) \
 [79312](https://pleiades.stoa.org/places/79312)
 
 ### TGN ID

@@ -1,5 +1,5 @@
 ---
-title: "Neoplatonic_school_near_the_areopagus"
+title: "Neoplatonic School Near the Areopagus"
 date: 2020-07-20T11:39:30-04:00
 article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
@@ -50,7 +50,7 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
@@ -62,7 +62,7 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates

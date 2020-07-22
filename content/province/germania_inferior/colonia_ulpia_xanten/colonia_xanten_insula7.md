@@ -1,5 +1,5 @@
 ---
-title: "Colonia_xanten_insula7"
+title: "Colonia xanten insula7"
 date: 2020-07-12T10:54:29-07:00
 article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR

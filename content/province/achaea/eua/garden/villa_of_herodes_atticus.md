@@ -9,7 +9,7 @@ draft: true
 
 # Province
 
-[Achaea]({{<ref "province/achaea.md">}})
+[Achaea]({{<relref "..">}})
 
 ## Province Description
 
@@ -18,7 +18,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-[Eua](https://pleiades.stoa.org/places/570241)
+[Eua]({{<relref ".">}}) \
+[Eua (Pleiades)](https://pleiades.stoa.org/places/570241)
 
 ## Location Description
 
@@ -57,7 +58,7 @@ After the death of Herodes the villa probably became imperial property. A phase 
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
@@ -69,7 +70,7 @@ After the death of Herodes the villa probably became imperial property. A phase 
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -86,6 +87,7 @@ G. Ieranò, “I tesori di un intellettuale,” *Archeo* 6, 2001:48-53; G. Spyro
 
 ### Pleiades ID
 
+[570241]({{<relref ".">}}) \
 [570241](https://pleiades.stoa.org/places/570241)
 
 ### TGN ID

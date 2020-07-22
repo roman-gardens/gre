@@ -5,12 +5,12 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
 
-[Germania Superior]({{<ref "province/germania_superior.md">}})  
+[Germania Superior]({{<relref "..">}})  
 
 ## Province Description
 
@@ -19,7 +19,8 @@ draft: false
 
 # Location
 
-[Arae Flaviae](https://pleiades.stoa.org/places/118572)
+[Arae Flaviae]({{<relref ".">}}) \
+[Arae Flaviae (Pleiades)](https://pleiades.stoa.org/places/118572)
 
 ## Location Description
 
@@ -57,7 +58,7 @@ This building ca. 95 meters in width consisted of several units built at differe
 
 ## Plans
 
-{{< figure src="../../images/EUR_GS_AraFla_Bnf_carroll.jpg" alt="Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2." title="Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2. (Rights statement)" >}}
+{{< figure src="../images/EUR_GS_AraFla_Bnf_carroll.jpg" alt="Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2." title="Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2. (Rights statement)" >}}
 
 ## Images
 
@@ -79,6 +80,7 @@ Complex built at the earliest during the reign of Trajan.
 
 ### Pleiades ID
 
+[118572]({{<relref ".">}}) \
 [118572](https://pleiades.stoa.org/places/118572)
 
 ### TGN ID

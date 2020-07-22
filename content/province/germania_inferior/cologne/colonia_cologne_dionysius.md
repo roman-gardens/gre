@@ -9,7 +9,7 @@ draft: true
 ---
 
 # Province
-[Germania inferior]({{<ref "province/germania_inferior.md">}})
+[Germania inferior]({{<relref "..">}})
 
 # Location
 [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751)
@@ -53,7 +53,7 @@ The original house, erected after A.D. 50, was rebuilt under [Vespasian](link) a
 -->
 
 ## Plans
-{{< figure src="../../images/cologne_dionysius_plan1_EUR_GI_ColClaAA_HoD_carroll.jpg" alt="Plan of the House of Dionysius at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the House of Dionysos, built around a central courtyard garden (G) with a pool (grey). Plan adapted from Fremersdorf 1956, fig. 27. (Rights statement)" >}}
+{{< figure src="../images/cologne_dionysius_plan1_EUR_GI_ColClaAA_HoD_carroll.jpg" alt="Plan of the House of Dionysius at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the House of Dionysos, built around a central courtyard garden (G) with a pool (grey). Plan adapted from Fremersdorf 1956, fig. 27. (Rights statement)" >}}
 
 ## Images
 
@@ -73,6 +73,7 @@ Reign of Vespasian until the end of the fourth century CE
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
+[108751]({{<relref ".">}}) \
 [108751](https://pleiades.stoa.org/places/108751)  
 
 ### TGN ID

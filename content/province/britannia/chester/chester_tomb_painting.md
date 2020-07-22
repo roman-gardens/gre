@@ -5,12 +5,12 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
 
-[Britannia]({{<ref "province/britannia.md">}})  
+[Britannia]({{<relref "..">}})  
 
 # Province Description
 
@@ -68,6 +68,7 @@ unspecified
 
 ### Pleiades ID
 
+[89144]({{<relref ".">}}) \
 [89144](https://pleiades.stoa.org/places/89144)
 
 ### TGN ID
