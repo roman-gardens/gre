@@ -38,3 +38,15 @@
 - achaea/athens/athenian_schools, need to make sure this info gets in the right places
 - ger sup/dietikon, no orcid for Christa Ebnöther
 - ger sup/vallon, two map images are broken, replace with new
+
+
+# Image cropping and straightening
+
+- [x] achaea
+- [ ] britannia
+- [ ] dacia_traiana
+- [ ] dalmatia
+- [ ] germania_inferior
+- [ ] germania_superior
+- [ ] macedonia
+- [ ] pannonia
