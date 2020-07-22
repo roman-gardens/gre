@@ -6,6 +6,9 @@ province_id: PROVINCE_ID
 author: NAME_OF_AUTHOR
 editor: Amartya Shri
 draft: true
+
+categories:
+ - "Macedonia"
 ---
 
 # Province

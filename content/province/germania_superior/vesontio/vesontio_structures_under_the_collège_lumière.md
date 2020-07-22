@@ -6,7 +6,10 @@ article_id: ARTICLE_ID
 author: Claudine Munier, Christophe Gaston, Maureen Carroll
 editor: June Dorsch
 translator: Clopper Almon
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -47,15 +50,15 @@ Structures under the Collège Lumière in Vesontio
 
 ## Keywords
 
-[colonnades](http://vocab.getty.edu/page/aat/300002613)  
-[kraters](http://vocab.getty.edu/page/aat/300198855)  
-[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)  
-[opus signinum](http://vocab.getty.edu/page/aat/300379969)  
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
-[piscinae](http://vocab.getty.edu/page/aat/300375619)  
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  
-[rinceaux](http://vocab.getty.edu/page/aat/300165495)  
-[terrazzo](http://vocab.getty.edu/page/aat/300011696)  
+[colonnades](http://vocab.getty.edu/page/aat/300002613) \
+[kraters](http://vocab.getty.edu/page/aat/300198855) \
+[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
+[opus signinum](http://vocab.getty.edu/page/aat/300379969) \
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
+[piscinae](http://vocab.getty.edu/page/aat/300375619) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
+[rinceaux](http://vocab.getty.edu/page/aat/300165495) \
+[terrazzo](http://vocab.getty.edu/page/aat/300011696)
 
 ## Garden Description
 
@@ -78,7 +81,8 @@ A fragment of a little ornamental stone *krater* was found in the material that 
 ## Plans
 
 <span style="color:red"> Images not available (?) </span>
-Fig. 1: Plan of the domus, now under the Collège Lumière.
+
+- Fig. 1: Plan of the domus, now under the Collège Lumière.
 
 ## Images
 
@@ -100,7 +104,6 @@ Gardens: Beginning and last third of second century
 
 ### Pleiades ID
 
-[177657]({{<relref ".">}}) \
 [177657](https://pleiades.stoa.org/places/177657)
 
 ### TGN ID

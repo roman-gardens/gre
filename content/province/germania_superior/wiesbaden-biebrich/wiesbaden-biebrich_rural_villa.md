@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -43,8 +46,8 @@ Rural Villa in Wiesbaden-Biebrich
 
 ## Keywords
 
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  
-rural villas  
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ## Garden Description
@@ -59,13 +62,7 @@ Only the residential part of this farm has been excavated. The house with a widt
 
 ## Plans
 
-{{< figure src="../images/EUR_ger_sup_fig_16_+_11.1_wiesbadeb_B_carroll.jpg" alt="Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west. Adapted from Baatz and Herrmann 1989, fig. 471." title="Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west. Adapted from Baatz and Herrmann 1989, fig. 471. (Rights Statement)" >}}
-
-
-
-## Test Figure
-
-{{< figure src="../images/EUR_ger_sup_fig_16_+_11.1_wiesbadeb_B_carroll.jpg" alt="Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west. Adapted from Baatz and Herrmann 1989, fig. 471." title="Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west. Adapted from Baatz and Herrmann 1989, fig. 471. (Rights Statement)" >}}
+{{< figure src="../images/EUR_ger_sup_fig_16_wiesbadeb_B_carroll.jpg" alt="Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west. Adapted from Baatz and Herrmann 1989, fig. 471." title="Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west. Adapted from Baatz and Herrmann 1989, fig. 471. (Rights Statement)" >}}
 
 
 ## Images
@@ -88,7 +85,6 @@ unspecified
 
 ### Pleiades ID
 
-[109461]({{<relref ".">}}) \
 [109461](https://pleiades.stoa.org/places/109461)
 
 ### TGN ID

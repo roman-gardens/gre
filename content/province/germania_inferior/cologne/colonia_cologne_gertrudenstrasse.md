@@ -1,18 +1,24 @@
 ---
-title: "Urban house on Gertrudenstrasse (Colonia Claudia Ara Agrippinensium)"
+title: "Urban House on Gertrudenstrasse"
 date: 2020-07-12T10:51:27-07:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan
-draft: true
+draft: false
+
+categories:
+ - "Germania Inferior"
 ---
 
 # Province
+
 [Germania inferior]({{<relref "..">}})
 
 # Location
-[Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751)
+
+[Cologne]({{<relref ".">}}) \
+[Cologne (Pleiades)](https://pleiades.stoa.org/places/108751)
 
 ## Location Description
 This large town on the west bank of the Rhine river was the *civitas* capital of the [Ubii](link) in the first half of the 1st century A.D. It was granted the status of colonia by [Claudius](link) in 50 and became the provincial capital in 85.
@@ -33,11 +39,12 @@ Urban house on Gertrudenstrasse (Colonia Claudia Ara Agrippinensium)
 
 
 ## Keywords
-urban villas  
-[villae urbanae](http://vocab.getty.edu/page/aat/300005520)   
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
-apsed pools  
-[piscinae]( http://vocab.getty.edu/page/aat/300375619)  
+
+urban villas \
+[villae urbanae](http://vocab.getty.edu/page/aat/300005520) \
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
+apsed pools \
+[piscinae]( http://vocab.getty.edu/page/aat/300375619)
 
 ## Garden Description
 This Mediterranean-type house just inside the western city wall had a peristyle courtyard ca. 9 x 14 m. in size, in the middle of which was a pool (3 x 8 m.) with apsidal ends (P on Plan 1).  
@@ -70,16 +77,19 @@ Middle of the first century CE until the fourth century CE
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[108751]({{<relref ".">}}) \
+
 [108751](https://pleiades.stoa.org/places/108751)
 
 ### TGN ID
+
 [7004446](http://vocab.getty.edu/page/tgn/7004446)
 
 ## Contributor
+
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
 
 ## Publication date
+
 12 July 2020
 
 ## Related articles

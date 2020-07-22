@@ -1,17 +1,22 @@
 ---
-title: "Urban house on Lungenstrasse (Colonia Claudia Ara Agrippinensium)"
+title: "Urban House on Lungenstrasse"
 date: 2020-07-12T10:53:55-07:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan
-draft: true
+draft: false
+
+categories:
+ - "Germania Inferior"
 ---
 
 # Province
 [Germania inferior]({{<relref "..">}})
 
 # Location
-[Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751)
+
+[Cologne]({{<relref ".">}}) \
+[Cologne (Pleiades)](https://pleiades.stoa.org/places/108751)
 
 ## Location Description
 This large town on the west bank of the Rhine river was the *civitas* capital of the [Ubii](link) in the first half of the 1st century A.D. It was granted the status of colonia by [Claudius](link) in 50 and became the provincial capital in 85.
@@ -65,7 +70,7 @@ None
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[108751]({{<relref ".">}}) \
+
 [108751](https://pleiades.stoa.org/places/108751)
 
 ### TGN ID

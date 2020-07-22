@@ -6,6 +6,9 @@ article_id: ARTICLE_ID
 author: Kathryn Gleason
 editor: June Dorsch
 draft: false
+
+categories:
+ - "Britannia"
 ---
 
 # Province

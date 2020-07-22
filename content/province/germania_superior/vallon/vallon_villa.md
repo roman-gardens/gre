@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Michel Fuchs, Jacques Monnier
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -19,7 +22,8 @@ draft: true
 
 # Location
 
-Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)
+[Vallon]({{<relref ".">}}) \
+[Vallon (Pleiades)](https://pleiades.stoa.org/places/981525)
 
 ## Location Description
 
@@ -42,21 +46,21 @@ Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)
 
 ## Keywords
 
-[arbors](http://vocab.getty.edu/page/aat/300006781)  
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  
-[ceramic tile](http://vocab.getty.edu/page/aat/300010678)  
-[fences (site elements)](http://vocab.getty.edu/page/aat/300005044)  
-[hearths](http://vocab.getty.edu/page/aat/300003990)  
-[horrea](http://vocab.getty.edu/page/aat/300120504)  
-[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)  
-[pedestals](http://vocab.getty.edu/page/aat/300001744)  
-[pillars](http://vocab.getty.edu/page/aat/300264605)  
-[piscinae]( http://vocab.getty.edu/page/aat/300375619)  
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  
-rural villas  
-[sherds](http://vocab.getty.edu/page/aat/300117132)  
-[tesserae](http://vocab.getty.edu/page/aat/300010730)  
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
+[arbors](http://vocab.getty.edu/page/aat/300006781) \
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+[ceramic tile](http://vocab.getty.edu/page/aat/300010678) \
+[fences (site elements)](http://vocab.getty.edu/page/aat/300005044) \
+[hearths](http://vocab.getty.edu/page/aat/300003990) \
+[horrea](http://vocab.getty.edu/page/aat/300120504) \
+[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
+[pedestals](http://vocab.getty.edu/page/aat/300001744) \
+[pillars](http://vocab.getty.edu/page/aat/300264605) \
+[piscinae]( http://vocab.getty.edu/page/aat/300375619) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
+rural villas \
+[sherds](http://vocab.getty.edu/page/aat/300117132) \
+[tesserae](http://vocab.getty.edu/page/aat/300010730) \
+[villae rusticae](http://vocab.getty.edu/page/aat/300005518) \
 [water supply systems](http://vocab.getty.edu/page/aat/300008618)
 
 ## Garden Description
@@ -81,7 +85,7 @@ After the disappearance of the Antique site, the land continues to be occupied d
 
 ## Maps
 <!--warning these do not seem to appear-->
-{{< figure src="../images/EUR_GS_Val_villa1_carroll.jpg" alt="Fig. 1 : Vallon location map." title="Fig. 1 : Vallon location map. (Rights Statement)" >}}
+{{< figure src="../images/EUR_GS_Val_villa1_carroll.jpg" alt="Fig. 1: Vallon location map." title="Fig. 1: Vallon location map. (Rights Statement)" >}}
 
 {{< figure src="../images/EUR_GS_Val_villa3_carroll.jpg" alt="Fig. 2 : map of the habitation zone in the second half of the IInd century of our era." title="Fig. 2 : map of the habitation zone in the second half of the IInd century of our era.(Rights Statement)" >}}
 
@@ -115,7 +119,6 @@ Beginning of the 1st c. CE - beginning of the Vth century
 
 ### Pleiades ID
 
-[981525]({{<relref ".">}}) \
 [981525](https://pleiades.stoa.org/places/981525)
 
 ### TGN ID
@@ -124,9 +127,9 @@ Beginning of the 1st c. CE - beginning of the Vth century
 
 ## Contributor
 
-[Michel Fuchs](https://michelefuchs.academia.edu/)(ORCID: [0000-0001-8176-8393](https://orcid.org/0000-0001-8176-8393))
+[Michel Fuchs](https://michelefuchs.academia.edu/) (ORCID: [0000-0001-8176-8393](https://orcid.org/0000-0001-8176-8393))
 
-[Jacques Monnier](https://unil.academia.edu/JacquesMonnier)(ORCID: N/A)
+[Jacques Monnier](https://unil.academia.edu/JacquesMonnier) (ORCID: N/A)
 
 ## Publication date
 

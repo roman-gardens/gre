@@ -6,7 +6,10 @@ article_id: ARTICLE_ID
 author: Claudine Munier, Christophe Gaston, Maureen Carroll
 editor: June Dorsch
 translator: C.A.
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -46,18 +49,18 @@ House in the Rue du Palais de Justice in Vesontio
 
 ## Keywords
 
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  
-[domus](http://vocab.getty.edu/page/aat/300005506)  
-[fountains](http://vocab.getty.edu/page/aat/300006179)  
-[hypocausts](http://vocab.getty.edu/page/aat/300004277)  
-[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)  
-[opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462)  
-[opus signinum](http://vocab.getty.edu/page/aat/300379969)  
-[oeci](http://vocab.getty.edu/page/aat/300080791)  
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)   
-[piscinae]( http://vocab.getty.edu/page/aat/300375619)  
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  
-[terrazzo](http://vocab.getty.edu/page/aat/300011696)  
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+[domus](http://vocab.getty.edu/page/aat/300005506) \
+[fountains](http://vocab.getty.edu/page/aat/300006179) \
+[hypocausts](http://vocab.getty.edu/page/aat/300004277) \
+[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
+[opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462) \
+[opus signinum](http://vocab.getty.edu/page/aat/300379969) \
+[oeci](http://vocab.getty.edu/page/aat/300080791) \
+[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
+[piscinae]( http://vocab.getty.edu/page/aat/300375619) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
+[terrazzo](http://vocab.getty.edu/page/aat/300011696) \
 [water wells](http://vocab.getty.edu/page/aat/300152327)
 
 ## Garden Description
@@ -83,9 +86,10 @@ At the beginning of the third century, the two *domus* were transformed. In part
 ## Images
 
 <span style="color:red"> Images not available (?) </span>
+
 FIGURES:
-Fig. 1: Houses at the Palais de Justice
-Fig. 2: Axonometric representation
+- Fig. 1: Houses at the Palais de Justice
+- Fig. 2: Axonometric representation
 
 ## Dates
 
@@ -102,8 +106,7 @@ Beginning of the Flavian epoch - middle of the third century
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-[Vesontio]({{<relref ".">}}) \
-[Vesontio (Pleiades)](https://pleiades.stoa.org/places/177657)
+
 [177657](https://pleiades.stoa.org/places/177657)
 
 ### TGN ID

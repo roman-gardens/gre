@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Pannonia"
 ---
 
 # Province
@@ -19,7 +22,8 @@ draft: true
 
 # Location
 
-[Carnuntum](https://pleiades.stoa.org/places/128376)
+[Carnuntum]({{<relref ".">}}) \
+[Carnuntum (Pleiades)](https://pleiades.stoa.org/places/128376)
 
 ## Location Description
 
@@ -42,7 +46,7 @@ Urban Houses in Carnuntum
 
 ## Keywords
 
-[arcades (structural assemblies)](http://vocab.getty.edu/page/aat/300002580)    
+[arcades (structural assemblies)](http://vocab.getty.edu/page/aat/300002580) \
 [corridors](http://vocab.getty.edu/page/aat/300004294)
 
 ## Garden Description

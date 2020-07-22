@@ -6,6 +6,9 @@ author: [ John Bodel, Other Guy ]
 editor: Christian Casey
 lead: A rock cut inscription at Salonae ...
 draft: false
+
+categories:
+ - "Dalmatia"
 ---
 
 # Province

@@ -45,5 +45,5 @@ enableInlineShortcodes = true
 	# widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 
 [Params.widgets]
-	recent_num = 1000 # Set the number of articles in the "Recent articles" widget
+	recent_num = 2 # Set the number of articles in the "Recent articles" widget
 	tags_counter = true # Enable counter for each tag in "Tags" widget

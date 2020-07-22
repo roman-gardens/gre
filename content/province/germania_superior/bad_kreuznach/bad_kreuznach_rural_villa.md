@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -19,7 +22,8 @@ draft: true
 
 # Location
 
-Bad Kreuznach
+[Bad Kreuznach]({{<relref ".">}}) \
+[Bad Kreuznach (Pleiades)](https://pleiades.stoa.org/places/981525)
 
 ## Location Description
 
@@ -43,13 +47,13 @@ Rural Villa in Bad Kreuznach
 ## Keywords
 
 apsed triclinium  
-[colonnades](http://vocab.getty.edu/page/aat/300002613)  
-[fountains](http://vocab.getty.edu/page/aat/300006179)  
-[lararia](http://vocab.getty.edu/page/aat/300400600)  
-[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)  
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  
-rural villas  
+[colonnades](http://vocab.getty.edu/page/aat/300002613) \
+[fountains](http://vocab.getty.edu/page/aat/300006179) \
+[lararia](http://vocab.getty.edu/page/aat/300400600) \
+[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
+rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ## Garden Description
@@ -92,7 +96,6 @@ Second half of 2nd century - around 275
 
 ### Pleiades ID
 
-[981525]({{<relref ".">}}) \
 [981525](https://pleiades.stoa.org/places/981525)
 
 ### TGN ID

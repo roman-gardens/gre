@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -43,8 +46,8 @@ Rural Villa in Orbe
 
 ## Keywords
 
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  
-rural villas  
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ## Garden Description
@@ -84,7 +87,6 @@ House: mid-1st century CE - 4th century
 
 ### Pleiades ID
 
-[177598]({{<relref ".">}}) \
 [177598](https://pleiades.stoa.org/places/177598)
 
 ### TGN ID

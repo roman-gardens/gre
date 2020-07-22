@@ -1,11 +1,14 @@
 ---
-title: "Large Building north of Forum in Arae Flaviae"
+title: "Large Building North of Forum in Arae Flaviae"
 date: 2020-07-13T11:07:51-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -43,7 +46,7 @@ Large Building north of Forum in Arae Flaviae
 
 ## Keywords
 
-[colonnades](http://vocab.getty.edu/page/aat/300002613)  
+[colonnades](http://vocab.getty.edu/page/aat/300002613) \
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 ## Garden Description
@@ -80,7 +83,6 @@ Complex built at the earliest during the reign of Trajan.
 
 ### Pleiades ID
 
-[118572]({{<relref ".">}}) \
 [118572](https://pleiades.stoa.org/places/118572)
 
 ### TGN ID

@@ -5,6 +5,9 @@ article_id: ARTICLE_ID
 author: John Bodel
 editor: Christian Casey
 draft: false
+
+categories:
+ - "Dalmatia"
 ---
 
 # Province

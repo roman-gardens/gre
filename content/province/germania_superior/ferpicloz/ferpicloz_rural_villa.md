@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -19,7 +22,8 @@ draft: true
 
 # Location
 
-Ferpicloz
+[Ferpicloz]({{<relref ".">}}) \
+[Ferpicloz (Pleiades)](https://pleiades.stoa.org/places/981525)
 
 ## Location Description
 
@@ -42,9 +46,9 @@ Rural Villa in Ferpicloz
 
 ## Keywords
 
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  
-rural villas  
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
+rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ## Garden Description
@@ -82,7 +86,6 @@ unspecified
 
 ### Pleiades ID
 
-[981525]({{<relref ".">}}) \
 [981525](https://pleiades.stoa.org/places/981525)
 
 ### TGN ID

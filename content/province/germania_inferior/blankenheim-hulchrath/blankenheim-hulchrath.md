@@ -5,14 +5,19 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan
-draft: true
+draft: false
+
+categories:
+ - "Germania Inferior"
 ---
 
 # Province
 [Germania inferior]({{<relref "..">}})
 
 # Location
-Blankenheim-Hülchrath
+
+[Blankenheim-Hülchrath]({{<relref ".">}}) \
+[Blankenheim-Hülchrath (Pleiades)](https://pleiades.stoa.org/places/981524)
 
 ## Location Description
 
@@ -33,7 +38,7 @@ A sublocation is any area larger than an individual garden, but located within a
 Rustic villa at Blankenheim-Hülchrath
 
 ## Keywords
-rural villas  
+rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ## Garden Description
@@ -71,7 +76,7 @@ Unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-[981524]({{<relref ".">}}) \
+
 [981524](https://pleiades.stoa.org/places/981524)
 
 ### TGN ID

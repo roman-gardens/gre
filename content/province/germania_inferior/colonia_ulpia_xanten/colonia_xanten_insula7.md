@@ -1,18 +1,23 @@
 ---
-title: "The houses of Insula 7 in Colonia Ulpia Traiana (Xanten)"
+title: "The Houses of Insula 7 in Colonia Ulpia Traiana"
 date: 2020-07-12T10:54:29-07:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan
-draft: true
+draft: false
+
+categories:
+ - "Germania Inferior"
 ---
 
 # Province
 [Germania inferior]({{<relref "..">}})
 
 # Location
-[Colonia Ulpia Traiana (Xanten)](https://pleiades.stoa.org/places/108896)
+
+[Xanten]({{<relref ".">}}) \
+[Xanten (Pleiades)](https://pleiades.stoa.org/places/108896)
 
 ## Location Description
 
@@ -28,8 +33,9 @@ This *insula* southeast of the *forum* is commonly referred to as an industrial 
 The houses of Insula 7 in Colonia Ulpia Traiana (Xanten)
 
 ## Keywords
-[insulae](http://vocab.getty.edu/page/aat/300000325)  
-[kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
+
+[insulae](http://vocab.getty.edu/page/aat/300000325) \
+[kitchen gardens](http://vocab.getty.edu/page/aat/300008110) \
 [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 ## Garden Description
@@ -42,10 +48,10 @@ Between the buildings were open areas, some paved and equipped with ovens and po
 -->
 
 ## Plans
-{{< figure src="../images/xanten_insula7_plan1_EUR_GI_ColUlpTra_Hi7_carroll.jpg" alt="Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. Right statement." title="Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. The black dots are wells. Adapted from Precht and Rüger 1991. Rights statement."}}
+{{< figure src="../images/xanten_insula7_plan1_EUR_GI_ColUlpTra_Hi7_carroll.jpg" alt="Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. Right statement." title="Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. The black dots are wells. Adapted from Precht and Rüger 1991. Rights statement.">}}
 
 ## Images
-{{< figure src="../images/xanten_insula7_image1_GER_INF_ColUlpTra_Fig 2.jpg" alt="Image 1. Model of the houses in *Insula* 7 with courtyard garden. Photo courtesy of M. Carroll." title="Image 1. Model of the houses in *Insula* 7 with courtyard garden. Photo courtesy of M. Carroll."}}
+{{< figure src="../images/xanten_insula7_image1_GER_INF_ColUlpTra_Fig 2.jpg" alt="Image 1. Model of the houses in *Insula* 7 with courtyard garden. Photo courtesy of M. Carroll." title="Image 1. Model of the houses in *Insula* 7 with courtyard garden. Photo courtesy of M. Carroll.">}}
 
 ## Dates
 Unspecified
@@ -59,12 +65,14 @@ Unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
+
 [108896](https://pleiades.stoa.org/places/108896)
 
 ### TGN ID
 [7208125](http://vocab.getty.edu/page/tgn/7208125)
 
 ## Contributor
+
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
 
 ## Publication date

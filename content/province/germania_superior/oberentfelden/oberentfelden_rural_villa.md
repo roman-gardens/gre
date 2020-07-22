@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -43,9 +46,9 @@ Rural Villa in Oberentfelden
 
 ## Keywords
 
-[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)  
-[nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)  
-rural villas  
+[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347) \
+[nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809) \
+rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ## Garden Description
@@ -84,7 +87,6 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 
 ### Pleiades ID
 
-[177596]({{<relref ".">}}) \
 [177596](https://pleiades.stoa.org/places/177596)
 
 ### TGN ID

@@ -6,6 +6,9 @@ article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan
 draft: true
+
+categories:
+ - "Germania Inferior"
 ---
 
 # Province

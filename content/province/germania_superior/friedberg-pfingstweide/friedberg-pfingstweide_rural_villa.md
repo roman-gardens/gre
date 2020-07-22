@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -19,7 +22,8 @@ draft: true
 
 # Location
 
-Friedberg Pfingstweide
+[Friedberg Pfingstweide]({{<relref ".">}}) \
+[Friedberg Pfingstweide (Pleiades)](https://pleiades.stoa.org/places/981525)
 
 ## Location Description
 
@@ -42,8 +46,8 @@ Rural Villa in Friedberg Pfingstweide
 
 ## Keywords
 
-[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)  
-rural villas  
+[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347) \
+rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ## Garden Description
@@ -82,7 +86,6 @@ Early 2nd century - first half of 3rd century
 
 ### Pleiades ID
 
-[981525]({{<relref ".">}}) \
 [981525](https://pleiades.stoa.org/places/981525)
 
 ### TGN ID

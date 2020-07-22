@@ -1,18 +1,23 @@
 ---
-title: "Atrium House (Colonia Claudia Ara Agrippinensium)"
+title: "Atrium House"
 date: 2020-07-09T07:38:05-07:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan
-draft: true
+draft: false
+
+categories:
+ - "Germania Inferior"
 ---
 
 # Province
 [Germania inferior]({{<relref "..">}})
 
 # Location
-[Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751)
+
+[Cologne]({{<relref ".">}}) \
+[Cologne (Pleiades)](https://pleiades.stoa.org/places/108751)
 
 ## Location Description
 This large town on the west bank of the Rhine river was the *civitas* capital of the [Ubii](link) in the first half of the 1st century A.D. It was granted the status of colonia by [Claudius](link) in 50 and became the provincial capital in 85.
@@ -32,18 +37,18 @@ A sublocation is any area larger than an individual garden, but located within a
 Atrium House (Colonia Claudia Ara Agrippinensium)
 
 ## Keywords
-urban villas  
-[villae urbanae](http://vocab.getty.edu/page/aat/300005520)  
-[atrium houses] (http://vocab.getty.edu/page/aat/300005451)  
-[atriums](http://vocab.getty.edu/page/aat/300004097)  
-[tablina](http://vocab.getty.edu/page/aat/300004180)  
-[colonnades](http://vocab.getty.edu/page/aat/300002613)  
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
-apsed pools  
-[piscinae]( http://vocab.getty.edu/page/aat/300375619)  
+urban villas \
+[villae urbanae](http://vocab.getty.edu/page/aat/300005520) \
+[atrium houses](http://vocab.getty.edu/page/aat/300005451) \
+[atriums](http://vocab.getty.edu/page/aat/300004097) \
+[tablina](http://vocab.getty.edu/page/aat/300004180) \
+[colonnades](http://vocab.getty.edu/page/aat/300002613) \
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
+apsed pools \
+[piscinae]( http://vocab.getty.edu/page/aat/300375619)
 
 ## Garden Description
-West of the [House of Dionysos](({{<ref "../garden/colonia_cologne_dionysius.md">}})) stood the so-called "atrium house" which covered an area of 1400 sq. m. (Plan 1). It was built around the middle of the 1st century A.D.  
+West of the [House of Dionysos](({{<relref "colonia_cologne_dionysius.md">}})) stood the so-called "atrium house" which covered an area of 1400 sq. m. (Plan 1). It was built around the middle of the 1st century A.D.  
 
 Entering from the colonnaded street at the west, one passed through a room reconstructed as an atrium, continuing along a corridor around the *tablinum*, and arrived at a peristyle courtyard with a semicircular pool. This courtyard, approximately 10 x 13 m. in size, was almost certainly a garden (Plan 1, G). A ground level gutter ran around the edge of the unpaved courtyard. This part of the house remained unchanged until the destruction of the building in the 4th century.
 
@@ -74,7 +79,7 @@ Middle of the first century CE until the fourth century CE
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-[108751]({{<relref ".">}}) \
+
 [108751](https://pleiades.stoa.org/places/108751)
 
 ### TGN ID
@@ -87,4 +92,5 @@ Middle of the first century CE until the fourth century CE
 09 July 2020
 
 ## Related articles
-[House of Dionysos (Colonia Claudia Ara Agrippinensium)](({{<ref "../garden/colonia_cologne_dionysius.md">}}))
+
+[House of Dionysos (Colonia Claudia Ara Agrippinensium)](({{<ref "colonia_cologne_dionysius.md">}}))

@@ -12,6 +12,7 @@
 - [ ] Check that all keywords are in controlled vocab (Programmatically)
 - [ ] Figure out why there are so many unattached images (e.g. Achaea Nemea)
 - [ ] Deal with empty stuff in headers
+- [ ] Should "urban villas" be removed and (if necessary) replaced with "villae urbanae"?
 
 # Article Punchlist
 
@@ -27,6 +28,7 @@
   - `"(Pleiades)"` in link? -> delete
   - Two links present, one with `relref` -> delete `relref`
 - figures linked correctly?
+- check all `ref`s to other gardens, should be `relref`s
 
 # Articles in need of a second look
 
@@ -34,4 +36,5 @@
 - achaea/corinth/corinth_circus, images with no links
 - achaea/eua/villa..., editor seems to be author, no editor/author listed
 - achaea/athens/athenian_schools, need to make sure this info gets in the right places
--
+- ger sup/dietikon, no orcid for Christa Ebnöther
+- ger sup/vallon, two map images are broken, replace with new

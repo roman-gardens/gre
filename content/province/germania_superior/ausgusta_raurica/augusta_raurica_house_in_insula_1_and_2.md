@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -42,10 +45,10 @@ A sublocation is any area larger than an individual garden, but located within a
 House in Insula 1 and 2 in Augusta Raurica
 
 ## Keywords
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  
-[insulae](http://vocab.getty.edu/page/aat/300000325)  
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+[insulae](http://vocab.getty.edu/page/aat/300000325) \
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
 [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
 
 ## Garden Description
@@ -87,7 +90,6 @@ House: AD 150 - ca. 170
 
 ### Pleiades ID
 
-[177494]({{<relref ".">}}) \
 [177494](https://pleiades.stoa.org/places/177494)
 
 ### TGN ID

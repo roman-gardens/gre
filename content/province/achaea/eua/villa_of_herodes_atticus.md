@@ -5,6 +5,9 @@ article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
 editor: Annalisa Marzano
 draft: false
+
+categories:
+ - "Achaea"
 ---
 
 # Province

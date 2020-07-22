@@ -5,12 +5,15 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Pannonia"
 ---
 
 # Province
 
-[Pannonia]({{<relref "pannonia.md">}})
+[Pannonia]({{<relref "..">}})
 
 ## Province Description
 
@@ -19,7 +22,9 @@ draft: true
 
 # Location
 
-[Scarbantia](https://pleiades.stoa.org/places/197501)
+[Scarbantia]({{<relref ".">}}) \
+[Scarbantia (Pleiades)](https://pleiades.stoa.org/places/197501)
+
 
 ## Location Description
 
@@ -41,8 +46,8 @@ Tomb Garden of Iul(ia) Victorin(a) in Scarbantia
 
 ## Keywords
 
-[epitaphs](http://vocab.getty.edu/page/aat/300028729)   
-[stelae](http://vocab.getty.edu/page/aat/300007023)  
+[epitaphs](http://vocab.getty.edu/page/aat/300028729) \
+[stelae](http://vocab.getty.edu/page/aat/300007023) \
 [tombs](http://vocab.getty.edu/page/aat/300005926)  
 
 ## Garden Description

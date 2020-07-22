@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -43,9 +46,9 @@ Tomb Garden of Anonymous Gaul in Andematunnum
 
 ## Keywords
 
-[former reservoirs](http://vocab.getty.edu/page/aat/300386966)  
-[mausoleums](http://vocab.getty.edu/page/aat/300005891)  
-[orchards](http://vocab.getty.edu/page/aat/300008890)     
+[former reservoirs](http://vocab.getty.edu/page/aat/300386966) \
+[mausoleums](http://vocab.getty.edu/page/aat/300005891) \
+[orchards](http://vocab.getty.edu/page/aat/300008890) \
 [tombs](http://vocab.getty.edu/page/aat/300005926)
 
 ## Garden Description
@@ -87,7 +90,6 @@ unspecified
 
 ### Pleiades ID
 
-[177441]({{<relref ".">}}) \
 [177441](https://pleiades.stoa.org/places/177441)
 
 ### TGN ID

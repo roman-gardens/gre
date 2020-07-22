@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Pannonia"
 ---
 
 # Province
@@ -19,7 +22,8 @@ draft: true
 
 # Location
 
-Winden Am See
+[Winden Am See]({{<relref ".">}}) 
+[Winden Am See (Pleiades)](https://pleiades.stoa.org/places/197425)
 
 ## Location Description
 
@@ -41,8 +45,8 @@ Rural Villa in Winden Am See
 
 ## Keywords
 
-[corridors](http://vocab.getty.edu/page/aat/300004294)  
-rural villas  
+[corridors](http://vocab.getty.edu/page/aat/300004294) \
+rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ## Garden Description

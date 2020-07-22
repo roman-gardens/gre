@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -19,7 +22,8 @@ draft: true
 
 # Location
 
-[Aventicum (Colonia Pia Flavia Constans Emerita Helvetiorum Foederata)](https://pleiades.stoa.org/places/177495)
+[Aventicum]({{<relref ".">}}) \
+[Aventicum (Pleiades)](https://pleiades.stoa.org/places/177495)
 
 ## Location Description
 
@@ -42,13 +46,13 @@ Palatial House in Insula 7 in Aventicum
 
 ## Keywords
 
-[axial plan](http://vocab.getty.edu/page/aat/300121971)  
-[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)  
-[drains](http://vocab.getty.edu/page/aat/300052564)   
-[exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)  
-[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)  
-[palaces](http://vocab.getty.edu/page/aat/300005734)  
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
+[axial plan](http://vocab.getty.edu/page/aat/300121971) \
+[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347) \
+[drains](http://vocab.getty.edu/page/aat/300052564) \
+[exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589) \
+[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
+[palaces](http://vocab.getty.edu/page/aat/300005734) \
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
 [piscinae]( http://vocab.getty.edu/page/aat/300375619)
 
 ## Garden Description
@@ -89,7 +93,6 @@ Severnan Period - Middle of 3rd century
 
 ### Pleiades ID
 
-[177495]({{<relref ".">}}) \
 [177495](https://pleiades.stoa.org/places/177495)
 
 ### TGN ID

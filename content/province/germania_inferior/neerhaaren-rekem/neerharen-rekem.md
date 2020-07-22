@@ -1,18 +1,24 @@
 ---
-title: "Rural villa at Neerhaaren-Rekem"
+title: "Rural Villa at Neerhaaren-Rekem"
 date: 2020-07-12T10:54:58-07:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan
-draft: true
+draft: false
+
+categories:
+ - "Germania Inferior"
 ---
 
 # Province
+
 [Germania inferior]({{<relref "..">}})
 
 # Location
-[Neerhaaren-Rekem](https://pleiades.stoa.org/places/109193)
+
+[Neerhaaren-Rekem]({{<relref ".">}}) \
+[Neerhaaren-Rekem (Pleiades)](https://pleiades.stoa.org/places/109193)
 
 ## Location Description
 
@@ -33,10 +39,10 @@ A sublocation is any area larger than an individual garden, but located within a
 Rural villa at Neerhaaren-Rekem
 
 ## Keywords
-rural villas  
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
-[arbors](http://vocab.getty.edu/page/aat/300006781)  
-[pergolas](http://vocab.getty.edu/page/aat/300006783)  
+rural villas \
+[villae rusticae](http://vocab.getty.edu/page/aat/300005518) \
+[arbors](http://vocab.getty.edu/page/aat/300006781) \
+[pergolas](http://vocab.getty.edu/page/aat/300006783) \
 [piscinae]( http://vocab.getty.edu/page/aat/300375619)
 
 ## Garden Description
@@ -50,7 +56,7 @@ The facade of this modest house of a *villa rustica* near the [Meuse river](http
 -->
 
 ## Plans
-{{< figure src="../images/neerhaaren-rekem_plan1_EUR_GI_NeeRek_Rv_carroll.jpg" alt="Plan 1. Plan of the farm house at Neerhaaren-Rekem with a possible arbor leading to the door and a pool (grey) between the posts of the arbor. Plan adapted from De Boe, De Bie and Van Impe 1992, fig. 288. Rights statement." title="Plan 1. Plan of the farm house at Neerhaaren-Rekem with a possible arbor leading to the door and a pool (grey) between the posts of the arbor. Plan adapted from De Boe, De Bie and Van Impe 1992, fig. 288. Rights statement."}}
+{{< figure src="../images/neerhaaren-rekem_plan1_EUR_GI_NeeRek_Rv_carroll.jpg" alt="Plan 1. Plan of the farm house at Neerhaaren-Rekem with a possible arbor leading to the door and a pool (grey) between the posts of the arbor. Plan adapted from De Boe, De Bie and Van Impe 1992, fig. 288. Rights statement." title="Plan 1. Plan of the farm house at Neerhaaren-Rekem with a possible arbor leading to the door and a pool (grey) between the posts of the arbor. Plan adapted from De Boe, De Bie and Van Impe 1992, fig. 288. Rights statement.">}}
 
 ## Images
 
@@ -71,7 +77,8 @@ Late first century CE
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-[Neerhaaren-Rekem](https://pleiades.stoa.org/places/109193)  
+
+[109193](https://pleiades.stoa.org/places/109193)  
 
 ### TGN ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->

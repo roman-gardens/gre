@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Pannonia"
 ---
 
 # Province
@@ -19,7 +22,8 @@ draft: true
 
 # Location
 
-[Aquincum](https://pleiades.stoa.org/places/1971301)
+[Aquincum]({{<relref ".">}}) \
+[Aquincum (Pleiades)](https://pleiades.stoa.org/places/1971301)
 
 ## Location Description
 
@@ -42,9 +46,9 @@ Urban House or Schola in Aquincum
 
 ## Keywords
 
-[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)   
-[fountains](http://vocab.getty.edu/page/aat/300006179)  
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)    
+[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347) \
+[fountains](http://vocab.getty.edu/page/aat/300006179) \
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
 [piscinae]( http://vocab.getty.edu/page/aat/300375619)
 
 ## Garden Description

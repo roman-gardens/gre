@@ -1,20 +1,27 @@
 ---
-title: "House of Dionyius (Colonia Claudia Ara Agrippinensium)"
+title: "House of Dionyius"
 date: 2020-07-08T20:22:59-07:00
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan
-draft: true
+draft: false
+
+categories:
+ - "Germania Inferior"
 ---
 
 # Province
+
 [Germania inferior]({{<relref "..">}})
 
 # Location
-[Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751)
+
+[Cologne]({{<relref ".">}}) \
+[Cologne (Pleiades)](https://pleiades.stoa.org/places/108751)
 
 ## Location Description
+
 This large town on the west bank of the Rhine river was the *civitas* capital of the [Ubii](link) in the first half of the 1st century A.D. It was granted the status of colonia by [Claudius](link) in 50 and became the provincial capital in 85.  
 
 # Sublocation
@@ -29,17 +36,19 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- DESCRIPTION -->
 
 # Garden
+
 House of Dionysius (Colonia Claudia Ara Agrippinensium)
 
 ## Keywords
+
 urban villas  
-[villae urbanae](http://vocab.getty.edu/page/aat/300005520)    
-[triclinia](http://vocab.getty.edu/page/aat/300004359)  
-[insulae](http://vocab.getty.edu/page/aat/300000325)  
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
-apsed pools  
-[axial plan](http://vocab.getty.edu/page/aat/300121971)  
-[piscinae]( http://vocab.getty.edu/page/aat/300375619)  
+[villae urbanae](http://vocab.getty.edu/page/aat/300005520) \
+[triclinia](http://vocab.getty.edu/page/aat/300004359) \
+[insulae](http://vocab.getty.edu/page/aat/300000325) \
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
+apsed pools \
+[axial plan](http://vocab.getty.edu/page/aat/300121971) \
+[piscinae]( http://vocab.getty.edu/page/aat/300375619)
 
 ## Garden Description
 The largest urban villa excavated thus far in Cologne is the House of Dionysos (3400 sq. m.), named after the early 3rd century mosaic floor decorated with Dionysiac motifs in the *triclinium* (Image 1??). The house occupies part of an *insula* in the northeastern corner of the city, bordered on the south by a street leading to the harbor.  
@@ -73,7 +82,7 @@ Reign of Vespasian until the end of the fourth century CE
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-[108751]({{<relref ".">}}) \
+
 [108751](https://pleiades.stoa.org/places/108751)  
 
 ### TGN ID

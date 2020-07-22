@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -43,11 +46,11 @@ House in Insula 30 in Augusta Raurica
 
 ## Keywords
 
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  
-[colonnades](http://vocab.getty.edu/page/aat/300002613)  
-[insulae](http://vocab.getty.edu/page/aat/300000325)  
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
-[triclinia](http://vocab.getty.edu/page/aat/300004359)  
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+[colonnades](http://vocab.getty.edu/page/aat/300002613) \
+[insulae](http://vocab.getty.edu/page/aat/300000325) \
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
+[triclinia](http://vocab.getty.edu/page/aat/300004359) \
 [water wells](http://vocab.getty.edu/page/aat/300152327)
 
 ## Garden Description
@@ -87,7 +90,6 @@ Insula: 200 A.D.
 
 ### Pleiades ID
 
-[177494]({{<relref ".">}}) \
 [177494](https://pleiades.stoa.org/places/177494)
 
 ### TGN ID

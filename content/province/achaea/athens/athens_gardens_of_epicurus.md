@@ -5,6 +5,9 @@ article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
 editor: NAME_OF_EDITOR
 draft: false
+
+categories:
+ - "Achaea"
 ---
 
 # Province

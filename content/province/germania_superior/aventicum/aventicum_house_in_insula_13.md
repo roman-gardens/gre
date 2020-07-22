@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -19,7 +22,8 @@ draft: true
 
 # Location
 
-[Aventicum (Colonia Pia Flavia Constans Emerita Helvetiorum Foederata)](https://pleiades.stoa.org/places/177495)
+[Aventicum]({{<relref ".">}}) \
+[Aventicum (Pleiades)](https://pleiades.stoa.org/places/177495)
 
 ## Location Description
 
@@ -42,10 +46,10 @@ House in Insula 13 in Aventicum
 
 ## Keywords
 
-[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)  
-[fountains](http://vocab.getty.edu/page/aat/300006179)  
-[insulae](http://vocab.getty.edu/page/aat/300000325)  
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
+[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347) \
+[fountains](http://vocab.getty.edu/page/aat/300006179) \
+[insulae](http://vocab.getty.edu/page/aat/300000325) \
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
 [piscinae](http://vocab.getty.edu/page/aat/300375619)
 
 ## Garden Description
@@ -86,7 +90,6 @@ Houses: Late 1st century - Middle of 3rd century
 
 ### Pleiades ID
 
-[177495]({{<relref ".">}}) \
 [177495](https://pleiades.stoa.org/places/177495)
 
 ### TGN ID

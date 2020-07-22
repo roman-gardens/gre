@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -19,7 +22,8 @@ draft: true
 
 # Location
 
-[Aventicum (Colonia Pia Flavia Constans Emerita Helvetiorum Foederata)](https://pleiades.stoa.org/places/177495)
+[Aventicum]({{<relref ".">}}) \
+[Aventicum (Pleiades)](https://pleiades.stoa.org/places/177495)
 
 ## Location Description
 
@@ -42,8 +46,8 @@ House in Insula 16 in Aventicum
 
 ## Keywords
 
-[colonnades](http://vocab.getty.edu/page/aat/300002613)  
-[insulae](http://vocab.getty.edu/page/aat/300000325)  
+[colonnades](http://vocab.getty.edu/page/aat/300002613) \
+[insulae](http://vocab.getty.edu/page/aat/300000325) \
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 ## Garden Description
@@ -83,7 +87,6 @@ AD 71
 
 ### Pleiades ID
 
-[177495]({{<relref ".">}}) \
 [177495](https://pleiades.stoa.org/places/177495)
 
 ### TGN ID

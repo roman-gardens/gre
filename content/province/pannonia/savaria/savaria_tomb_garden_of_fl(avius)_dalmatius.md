@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Pannonia"
 ---
 
 # Province
@@ -19,7 +22,8 @@ draft: true
 
 # Location
 
-[Savaria](https://pleiades.stoa.org/places/197498)
+[Savaria]({{<relref ".">}}) \
+[Savaria (Pleiades)](https://pleiades.stoa.org/places/197498)
 
 ## Location Description
 
@@ -41,7 +45,7 @@ Tomb Garden of Fl(avius) Dalmatius in Savaria
 
 ## Keywords
 
-[epitaphs](http://vocab.getty.edu/page/aat/300028729)   
+[epitaphs](http://vocab.getty.edu/page/aat/300028729) \
 [tombs](http://vocab.getty.edu/page/aat/300005926)  
 
 ## Garden Description

@@ -6,6 +6,9 @@ province_id: PROVINCE_ID
 author: Maureen Carroll
 editor: June Dorsch
 draft: true
+
+categories:
+ - "Britannia"
 ---
 
 # Province

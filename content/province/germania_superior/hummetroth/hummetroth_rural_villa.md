@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -19,7 +22,8 @@ draft: true
 
 # Location
 
-Hummetroth
+[Hummetroth]({{<relref ".">}}) \
+[Hummetroth (Pleiades)](https://pleiades.stoa.org/places/981525)
 
 ## Location Description
 
@@ -43,10 +47,10 @@ Rural Villa in Hummetroth
 ## Keywords
 
 apsed triclinium   
-[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)  
+[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347) \
 [porticoes](http://vocab.getty.edu/page/aat/300004145)  
 rural villas  
-[terrace gardens](http://vocab.getty.edu/page/aat/300404778)
+[terrace gardens](http://vocab.getty.edu/page/aat/300404778) \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ## Garden Description
@@ -86,7 +90,6 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 
 ### Pleiades ID
 
-[981525]({{<relref ".">}}) \
 [981525](https://pleiades.stoa.org/places/981525)
 
 ### TGN ID

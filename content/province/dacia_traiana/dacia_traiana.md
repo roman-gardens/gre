@@ -6,6 +6,9 @@ province_id: PROVINCE_ID
 author: John Bodel
 editor: June Dorsch
 draft: true
+
+categories:
+ - "Dacia Traiana"
 ---
 
 # Province

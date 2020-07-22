@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Pannonia"
 ---
 
 # Province
@@ -19,7 +22,9 @@ draft: true
 
 # Location
 
-Eisenstadt
+[Eisenstadt]({{<relref ".">}}) \
+[Eisenstadt (Pleiades)](https://pleiades.stoa.org/places/197425)
+
 
 ## Location Description
 
@@ -41,12 +46,12 @@ Rural Villa in Eisenstadt
 
 ## Keywords
 
-[altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)  
-[atriums](http://vocab.getty.edu/page/aat/300004097)  
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
-[podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)   
-[porticoes](http://vocab.getty.edu/page/aat/300004145)    
-rural villas  
+[altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725) \
+[atriums](http://vocab.getty.edu/page/aat/300004097) \
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
+[podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
+rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ## Garden Description

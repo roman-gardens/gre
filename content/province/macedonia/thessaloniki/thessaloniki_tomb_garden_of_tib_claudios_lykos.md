@@ -4,7 +4,10 @@ date: 2020-07-16T09:07:30-04:00
 article_id: ARTICLE_ID
 author: John Bodel
 editor: Amartya Shri
-draft: true
+draft: false
+
+categories:
+ - "Macedonia"
 ---
 
 # Province
@@ -43,9 +46,9 @@ Tomb Garden of Ti. Claudios Lykos
 
 ## Keywords
 
-* [tombs](http://vocab.getty.edu/page/aat/300005926)
-* [sarcophagi](http://vocab.getty.edu/page/aat/300005947)
-* [epitaphs](http://vocab.getty.edu/page/aat/300028729)
+[tombs](http://vocab.getty.edu/page/aat/300005926) \
+[sarcophagi](http://vocab.getty.edu/page/aat/300005947) \
+[epitaphs](http://vocab.getty.edu/page/aat/300028729)
 
 ## Garden Description
 
@@ -83,7 +86,6 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 
 ### Pleiades ID
 
-[491741]({{<relref ".">}}) \
 [491741](https://pleiades.stoa.org/places/491741)
 
 ### TGN ID

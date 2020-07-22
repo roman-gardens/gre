@@ -5,7 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+ - "Germania Superior"
 ---
 
 # Province
@@ -43,9 +46,9 @@ Rural Villa in Winkel-Seeb
 
 ## Keywords
 
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  
-rural villas  
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+rural villas \
+[villae rusticae](http://vocab.getty.edu/page/aat/300005518) \
 [well houses](http://vocab.getty.edu/page/aat/300008017)
 
 ## Garden Description
@@ -85,7 +88,6 @@ First half of 1st century A.C. - 250
 
 ### Pleiades ID
 
-[177667]({{<relref ".">}}) \
 [177667](https://pleiades.stoa.org/places/177667)
 
 ### TGN ID
