@@ -84,7 +84,6 @@ The shrine of Artemis at Aulis in Boeotia was visited by Pausanias (9.19.6-8).  
 
 ### Pleiades ID
 
-[Aulis]({{<relref ".">}}) \
 [Aulis (Pleiades)](https://pleiades.stoa.org/places/579889)
 
 ### TGN ID
