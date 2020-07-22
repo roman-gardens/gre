@@ -1,10 +1,10 @@
 ---
-title: "Gymnasia_and_groves"
+title: "Gymnasia and Groves"
 date: 2020-07-16T09:47:21-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
-draft: true
+draft: false
 ---
 
 # Province
