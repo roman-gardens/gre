@@ -27,12 +27,12 @@ enableInlineShortcodes = true
 		name = "About"
 		url = "/about/"
 		weight = -110
-
-	[[menu.main]]
-		identifier = "province"
-		name = "Gardens"
-		url = "/province/"
-		weight = -100
+	# 
+	# [[menu.main]]
+	# 	identifier = "province"
+	# 	name = "Gardens"
+	# 	url = "/province/"
+	# 	weight = -100
 
 
 [Params.sidebar]
