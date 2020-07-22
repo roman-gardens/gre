@@ -1,5 +1,5 @@
 
-# General 
+# General
 
 - [x] Make a really cool project
 - [ ] Check all the keywords for one standard getty url
@@ -12,7 +12,8 @@
 - [ ] Check that all keywords are in controlled vocab (Programmatically)
 - [ ] Figure out why there are so many unattached images (e.g. Achaea Nemea)
 
- 
+Testing git issues
+
 # Article Punchlist
 
 - Title in title case with spaces?
@@ -34,4 +35,4 @@
 - achaea/corinth/corinth_circus, images with no links
 - achaea/eua/villa..., editor seems to be author, no editor/author listed
 - achaea/athens/athenian_schools, need to make sure this info gets in the right places
-- 
+-
