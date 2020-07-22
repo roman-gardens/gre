@@ -1,5 +1,5 @@
 ---
-title: "Urban_houses_near_areopagus"
+title: "Urban houses near areopagus"
 date: 2020-07-16T09:46:56-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -53,15 +53,15 @@ Another only partially excavated house of the mid-4th century A.D., built into t
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
-{{< figure src="../../images/EUR_ACH_Athens_ Areopagus house_Fig 1.jpg" alt="Fig. 1:  Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46." title="Fig. 1:  Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46." >}}
+{{< figure src="../images/EUR_ACH_Athens_ Areopagus house_Fig 1.jpg" alt="Fig. 1:  Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46." title="Fig. 1:  Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46." >}}
 
 ## Images
 
-{{< figure src="../../images/EUR_ACH_Athens_ Areopagus house_Fig 2.jpg" alt="Fig. 2:  Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a." title="Fig. 2:  Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a." >}}
+{{< figure src="../images/EUR_ACH_Athens_ Areopagus house_Fig 2.jpg" alt="Fig. 2:  Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a." title="Fig. 2:  Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a." >}}
 
 ## Dates
 <!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
@@ -78,7 +78,7 @@ Another only partially excavated house of the mid-4th century A.D., built into t
 ### Pleiades ID
 
 [969121823]({{<relref ".">}}) \
-[969121823 (Pleiades)](https\://pleiades.stoa.org/places/969121823)
+[969121823](https://pleiades.stoa.org/places/969121823)
 
 ### TGN ID
 

@@ -53,7 +53,7 @@ The shrine of Artemis at Aulis in Boeotia was visited by Pausanias (9.19.6-8).  
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
@@ -65,7 +65,7 @@ The shrine of Artemis at Aulis in Boeotia was visited by Pausanias (9.19.6-8).  
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates

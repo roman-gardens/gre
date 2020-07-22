@@ -63,17 +63,17 @@ One of these buildings, the so-called House C or Omega House, had two peristyle 
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
 
-{{< figure src="../../images/EUR_ACH_Athens_Omega House_Fig 1.jpg" alt="Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170." title="Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170." >}}
+{{< figure src="../images/EUR_ACH_Athens_Omega House_Fig 1.jpg" alt="Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170." title="Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170." >}}
 
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -101,8 +101,7 @@ T. L. Shear, “The Athenian Agora: Excavations of 1970,” Hesperia 40, 1971:26
 
 ### Pleiades ID
 
-[579885]({{<relref ".">}}) \
-[579885 (Pleiades)](https\://pleiades.stoa.org/places/579885)
+[579885](https://pleiades.stoa.org/places/579885)
 
 ### TGN ID
 

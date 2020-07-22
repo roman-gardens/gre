@@ -52,7 +52,7 @@ In the leveled remains of the 1st century house were fragments of painted wall p
 -->
 
 ## Images
-{{< figure src="../../images/cologne_lungenstrasse_image1_EUR_GI_ColClaAA_HL_carroll.jpg" alt="Fragments of garden paintings from the peristyle courtyard house on Lungengasse at Colonia Claudia Ara Agrippinensium (Cologne); Photo courtesy of M. Carroll." title="Fragments of garden paintings from the peristyle courtyard house on Lungengasse (Colonia Claudia Ara Agrippinensium). Photo courtesy of M. Carroll." >}}
+{{< figure src="../images/cologne_lungenstrasse_image1_EUR_GI_ColClaAA_HL_carroll.jpg" alt="Fragments of garden paintings from the peristyle courtyard house on Lungengasse at Colonia Claudia Ara Agrippinensium (Cologne); Photo courtesy of M. Carroll." title="Fragments of garden paintings from the peristyle courtyard house on Lungengasse (Colonia Claudia Ara Agrippinensium). Photo courtesy of M. Carroll." >}}
 
 ## Dates
 mid-first to mid-second century CE
@@ -66,7 +66,7 @@ None
 
 #### Pleiades ID
 [108751]({{<relref ".">}}) \
-[108751 (Pleiades)](https\://pleiades.stoa.org/places/108751)
+[108751](https://pleiades.stoa.org/places/108751)
 
 ### TGN ID
 [7004446](http://vocab.getty.edu/page/tgn/7004446)

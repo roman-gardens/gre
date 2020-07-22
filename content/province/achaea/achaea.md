@@ -54,7 +54,7 @@ In 146 BCE the sacking of Corinth and in 86 BCE the sacking of Athens until past
 ### Pleiades ID
 
 [570028]({{<relref ".">}}) \
-[570028 (Pleiades)](https\://pleiades.stoa.org/places/570028)
+[570028](https://pleiades.stoa.org/places/570028)
 
 ### TGN ID
 

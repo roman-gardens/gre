@@ -55,7 +55,7 @@ Parts of the villa may date to the early 3rd century A.D. at the latest, but ext
 
 ## Plans
 
-{{< figure src="../../images/Chedworth_fig_3.jpg" alt="Fig. 1: Plan of the villa and its garden (G) in the courtyard. Plan by M. Carroll and C. Merrony." title="Fig. 1: Plan of the villa and its garden (G) in the courtyard. Plan by M. Carroll and C. Merrony.(Rights statement)" >}}
+{{< figure src="../images/Chedworth_fig_3.jpg" alt="Fig. 1: Plan of the villa and its garden (G) in the courtyard. Plan by M. Carroll and C. Merrony." title="Fig. 1: Plan of the villa and its garden (G) in the courtyard. Plan by M. Carroll and C. Merrony.(Rights statement)" >}}
 
 ## Images
 
@@ -75,7 +75,7 @@ Early 4th century - unspecified
 ### Pleiades ID
 
 [79383]({{<relref ".">}}) \
-[79383 (Pleiades)](https\://pleiades.stoa.org/places/79383)
+[79383](https://pleiades.stoa.org/places/79383)
 
 ### TGN ID
 

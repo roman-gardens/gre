@@ -21,7 +21,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 # Location
 
 [Aegina]({{<relref ".">}}) \
-[Aegina (Pleiades)](https\://pleiades.stoa.org/places/579844)
+[Aegina (Perseus)](https://pleiades.stoa.org/places/579844)
 
 ## Location Description
 
@@ -54,7 +54,7 @@ Evidence for a temple grove on Aegina exists only in a literary reference.  Paus
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
@@ -66,7 +66,7 @@ Evidence for a temple grove on Aegina exists only in a literary reference.  Paus
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -84,8 +84,7 @@ Much older than 464 BCE, lasting until after the 2nd century CE
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-[Aegina]({{<relref ".">}}) \
-[Aegina (Pleiades)](https\://pleiades.stoa.org/places/579844)
+
 [579844](https://pleiades.stoa.org/places/579844)
 
 ### TGN ID

@@ -74,7 +74,7 @@ Outside the walls of the city, utilitarian gardens were planted, possibly in the
 
 ### Pleiades ID
 [79393]({{<relref ".">}}) \
-[79393 (Pleiades)](https\://pleiades.stoa.org/places/79393)
+[79393](https://pleiades.stoa.org/places/79393)
 
 
 ### TGN ID

@@ -56,7 +56,7 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 ## Plans
 
-{{< figure src="../../images/Sudeley_Fig_16_or_11.1.jpg" alt="Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden" title="Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden. (Rights statement)" >}}
+{{< figure src="../images/Sudeley_Fig_16_or_11.1.jpg" alt="Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden" title="Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden. (Rights statement)" >}}
 
 ## Images
 
@@ -80,7 +80,7 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 ### Pleiades ID
 
 [79693]({{<relref ".">}}) \
-[79693 (Pleiades)](https\://pleiades.stoa.org/places/79693)
+[79693](https://pleiades.stoa.org/places/79693)
 
 ### TGN ID
 

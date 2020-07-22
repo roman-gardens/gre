@@ -55,17 +55,17 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
 
-{{< figure src="../../images/EUR_ACH_Athens_gymnasium_Fig 1.jpg" alt="Fig. 1: Plan of the late Hellenistic/early Roman gymnasium with a possible garden (G), a pool (P) and a podium for statues (S) in the suburb of Academy at Athens. Adapted from Travlos 1971, fig. 59." title="" >}}
+{{< figure src="../images/EUR_ACH_Athens_gymnasium_Fig 1.jpg" alt="Fig. 1: Plan of the late Hellenistic/early Roman gymnasium with a possible garden (G), a pool (P) and a podium for statues (S) in the suburb of Academy at Athens. Adapted from Travlos 1971, fig. 59." title="" >}}
 
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -82,8 +82,7 @@ J. Travlos, *Bildlexikon zur Topographie des antiken Athen,* [(worldcat)](http:/
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-[Athens]({{<relref ".">}}) \
-[Athens (Pleiades)](https\://pleiades.stoa.org/places/579885)
+
 [579885](https://pleiades.stoa.org/places/579885)
 
 ### TGN ID

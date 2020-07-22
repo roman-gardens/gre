@@ -71,13 +71,13 @@ Limited excavations to the south of the palace revealed an artificial terrace wh
 
 ## Plans
 
-{{< figure src="../../images/Fishbourne_Fig_1.jpg" alt="Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace." title="Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace." >}}
+{{< figure src="../images/Fishbourne_Fig_1.jpg" alt="Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace." title="Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace." >}}
 
 ## Images
 
-{{< figure src="../../images/Fishbourne_Fig._2.jpg" alt="Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace." title="Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace." >}}
+{{< figure src="../images/Fishbourne_Fig._2.jpg" alt="Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace." title="Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace." >}}
 
-{{< figure src="../../images/Fishbourne_Fig._3.jpg" alt="Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace." title="Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace." >}}
+{{< figure src="../images/Fishbourne_Fig._3.jpg" alt="Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace." title="Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace." >}}
 
 ## Dates
 
@@ -97,7 +97,7 @@ Late 1st century CE - unspecified
 ### Pleiades ID
 
 [79466]({{<relref ".">}}) \
-[79466 (Pleiades)](https\://pleiades.stoa.org/places/79466)
+[79466](https://pleiades.stoa.org/places/79466)
 
 ### TGN ID
 

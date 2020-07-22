@@ -64,12 +64,12 @@ The house had a peristyle courtyard of rectangular shape which was surrounded on
 
 ## Plans
 
-{{< figure src="../../images/EUR_GS_AugRau_Hi30_carroll.jpg" alt="Fig. 1: Plan of a house in Insula 30 with a garden courtyard (G). Plan adapted from Laur-Belart 1988, fig. 126." title="Fig. 1: Plan of a house in Insula 30 with a garden courtyard (G). Plan adapted from Laur-Belart 1988, fig. 126. (Rights statement)" >}}
+{{< figure src="../images/EUR_GS_AugRau_Hi30_carroll.jpg" alt="Fig. 1: Plan of a house in Insula 30 with a garden courtyard (G). Plan adapted from Laur-Belart 1988, fig. 126." title="Fig. 1: Plan of a house in Insula 30 with a garden courtyard (G). Plan adapted from Laur-Belart 1988, fig. 126. (Rights statement)" >}}
 
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -88,7 +88,7 @@ Insula: 200 A.D.
 ### Pleiades ID
 
 [177494]({{<relref ".">}}) \
-[177494 (Pleiades)](https\://pleiades.stoa.org/places/177494)
+[177494](https://pleiades.stoa.org/places/177494)
 
 ### TGN ID
 

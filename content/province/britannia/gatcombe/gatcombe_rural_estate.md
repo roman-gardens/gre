@@ -55,7 +55,7 @@ This site of a large rural estate about 9 hectares in size in Somerset is enclos
 
 ## Plans
 
-{{< figure src="../../images/Gatcombe_fig_12_or_8.1.jpg" alt="Fig. 1: Plan of the farm with villa buildings (A)." title="Fig. 1: Plan of the farm with villa buildings (A).(Rights statement)" >}}
+{{< figure src="../images/Gatcombe_fig_12_or_8.1.jpg" alt="Fig. 1: Plan of the farm with villa buildings (A)." title="Fig. 1: Plan of the farm with villa buildings (A).(Rights statement)" >}}
 
 ## Images
 
@@ -79,7 +79,7 @@ The complex was built between A.D. 280 and 300, with occupation ending around 38
 ### Pleiades ID
 
 [79477]({{<relref ".">}}) \
-[79477 (Pleiades)](https\://pleiades.stoa.org/places/79477)
+[79477](https://pleiades.stoa.org/places/79477)
 
 ### TGN ID
 

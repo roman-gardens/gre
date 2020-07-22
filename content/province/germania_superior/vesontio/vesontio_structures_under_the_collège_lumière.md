@@ -72,7 +72,7 @@ A fragment of a little ornamental stone *krater* was found in the material that 
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
@@ -83,7 +83,7 @@ Fig. 1: Plan of the domus, now under the Collège Lumière.
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -101,7 +101,7 @@ Gardens: Beginning and last third of second century
 ### Pleiades ID
 
 [177657]({{<relref ".">}}) \
-[177657 (Pleiades)](https\://pleiades.stoa.org/places/177657)
+[177657](https://pleiades.stoa.org/places/177657)
 
 ### TGN ID
 

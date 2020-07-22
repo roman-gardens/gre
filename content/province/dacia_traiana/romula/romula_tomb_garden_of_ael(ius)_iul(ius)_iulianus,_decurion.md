@@ -80,7 +80,7 @@ Later second century/third century
 ### Pleiades ID
 
 [981518]({{<relref ".">}}) \
-[981518 (Pleiades)](https\://pleiades.stoa.org/places/981518)
+[981518](https://pleiades.stoa.org/places/981518)
 
 ### TGN ID
 

@@ -64,7 +64,7 @@ The northern part of the house facing the street included an open terrace which 
 
 ## Plans
 
-{{< figure src="../../images/EUR_GS_AUG RAU_Hi1+2_carroll.jpg" alt="Fig. 1: Augusta Raurica., House in insula 1 and 2. Adapted from Hufschidt." title="Fig. 1: Augusta Raurica., House in insula 1 and 2. Adapted from Hufschidt.(Rights statement)" >}}
+{{< figure src="../images/EUR_GS_AUG RAU_Hi1+2_carroll.jpg" alt="Fig. 1: Augusta Raurica., House in insula 1 and 2. Adapted from Hufschidt." title="Fig. 1: Augusta Raurica., House in insula 1 and 2. Adapted from Hufschidt.(Rights statement)" >}}
 
 ## Images
 
@@ -88,7 +88,7 @@ House: AD 150 - ca. 170
 ### Pleiades ID
 
 [177494]({{<relref ".">}}) \
-[177494 (Pleiades)](https\://pleiades.stoa.org/places/177494)
+[177494](https://pleiades.stoa.org/places/177494)
 
 ### TGN ID
 

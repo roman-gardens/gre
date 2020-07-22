@@ -1,5 +1,5 @@
 ---
-title: "Palace_of_the_giants"
+title: "Palace of the Giants"
 date: 2020-07-16T09:46:53-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -52,17 +52,17 @@ It is possible that a garden might have been present in one of the inner courtya
 ## Maps
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
 
-{{< figure src="../../images/EUR_ACH_Athens_House of Giants_Fig 1.jpg" alt="Fig. 1: Plan of the so-called “Palace of the Giants” (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the “Palace.” Adapted from Camp 1986, p. 200, fig. 166." title="Fig. 1: Plan of the so-called “Palace of the Giants” (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the “Palace.” Adapted from Camp 1986, p. 200, fig. 166." >}}
+{{< figure src="../images/EUR_ACH_Athens_House of Giants_Fig 1.jpg" alt="Fig. 1: Plan of the so-called “Palace of the Giants” (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the “Palace.” Adapted from Camp 1986, p. 200, fig. 166." title="Fig. 1: Plan of the so-called “Palace of the Giants” (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the “Palace.” Adapted from Camp 1986, p. 200, fig. 166." >}}
 
 ## Images
 
 <!--
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -79,8 +79,7 @@ H. A. Thompson and R. E. Wycherley, *The Agora of Athens. The History, Shape and
 
 ### Pleiades ID
 
-[807514119]({{<relref ".">}}) \
-[807514119 (Pleiades)](https\://pleiades.stoa.org/places/807514119)
+[807514119](https://pleiades.stoa.org/places/807514119)
 
 ### TGN ID
 

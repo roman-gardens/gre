@@ -54,7 +54,7 @@ An inscription reported among those of Salona records an epitaph set up by Iulia
 ## Maps
 
 <!-- 
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Plans
@@ -66,7 +66,7 @@ An inscription reported among those of Salona records an epitaph set up by Iulia
 ## Images
 
 <!-- 
-{{< figure src="../../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ## Dates
@@ -85,7 +85,7 @@ Second half of the second or the third century (CE)
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 [197488]({{<relref ".">}}) \
-[197488 (Pleiades)](https\://pleiades.stoa.org/places/197488)
+[197488](https://pleiades.stoa.org/places/197488)
 
 ### TGN ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->

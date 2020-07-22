@@ -54,7 +54,7 @@ Entering from the colonnaded street at the west, one passed through a room recon
 -->
 
 ## Plans
-{{< figure src="../../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}
+{{< figure src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}
 
 ## Images
 
@@ -75,7 +75,7 @@ Middle of the first century CE until the fourth century CE
 
 ### Pleiades ID
 [108751]({{<relref ".">}}) \
-[108751 (Pleiades)](https\://pleiades.stoa.org/places/108751)
+[108751](https://pleiades.stoa.org/places/108751)
 
 ### TGN ID
 [7004446](http://vocab.getty.edu/page/tgn/7004446)
