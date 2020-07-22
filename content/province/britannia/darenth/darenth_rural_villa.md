@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -41,9 +41,9 @@ Rural Villa in Darenth
 
 ## Keywords
 
-[piscinae]( http://vocab.getty.edu/page/aat/300375619)  
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
-[waterspouts](http://vocab.getty.edu/page/aat/300248603)  
+[piscinae]( http://vocab.getty.edu/page/aat/300375619) \
+[villae rusticae](http://vocab.getty.edu/page/aat/300005518) \
+[waterspouts](http://vocab.getty.edu/page/aat/300248603)
 
 ## Garden Description
 
@@ -78,7 +78,6 @@ After 100 CE - Closing decades of the 4th century
 
 ### Pleiades ID
 
-[79413]({{<relref ".">}}) \
 [79413](https://pleiades.stoa.org/places/79413)
 
 ### TGN ID

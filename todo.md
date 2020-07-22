@@ -8,6 +8,8 @@
 - [ ] Get province information into general province page (somehow)
 - [ ] Get keywords into tags list in header (as in bancroft example)
 - [ ] Get geographic regions into sidebar using categories list (as in bancroft)
+- [ ] Put `lead:` in the header for each article to make loglines/subtitles
+- [ ] Check that all keywords are in controlled vocab (Programmatically)
  
 # Article Punchlist
 

@@ -41,7 +41,7 @@ Rural Villa in Chedworth
 
 ## Keywords
 
-[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347) \ 
+[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347) \
 [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
 [sherds](http://vocab.getty.edu/page/aat/300117132) \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)  

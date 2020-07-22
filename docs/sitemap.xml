@@ -152,8 +152,30 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/britannia/</loc>
-    <lastmod>2020-07-08T08:19:06-04:00</lastmod>
+    <lastmod>2020-07-08T17:53:24-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/britannia/eccles/</loc>
+    <lastmod>2020-07-08T17:53:24-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/britannia/eccles/eccles_rural_villa/</loc>
+    <lastmod>2020-07-08T17:53:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/britannia/darenth/</loc>
+    <lastmod>2020-07-08T12:08:30-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/britannia/darenth/darenth_rural_villa/</loc>
+    <lastmod>2020-07-08T12:08:30-04:00</lastmod>
   </url>
   
   <url>
@@ -231,16 +253,6 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/britannia/chester/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/britannia/darenth/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/britannia/eccles/</loc>
     <priority>0</priority>
   </url>
   

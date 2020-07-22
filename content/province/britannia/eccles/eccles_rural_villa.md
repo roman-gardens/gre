@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -17,7 +17,8 @@ draft: true
 
 # Location
 
-Eccles
+[Eccles]({{<relref "..">}})  
+[Eccles (Pleiades)](https://pleiades.stoa.org/places/79448)
 
 ## Location Description
 
@@ -40,8 +41,8 @@ Rural Villa in Eccles
 
 ## Keywords
 
-[piscinae]( http://vocab.getty.edu/page/aat/300375619)
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
+[piscinae]( http://vocab.getty.edu/page/aat/300375619) \
+[villae rusticae](http://vocab.getty.edu/page/aat/300005518) \
 [water baths](http://vocab.getty.edu/page/aat/300248755)
 
 ## Garden Description
@@ -74,7 +75,6 @@ Middle of 1st century - 4th century
 
 ### Pleiades ID
 
-[79448]({{<relref ".">}}) \
 [79448](https://pleiades.stoa.org/places/79448)
 
 ### TGN ID
