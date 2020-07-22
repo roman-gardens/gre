@@ -48,12 +48,9 @@ Rural Villa in Bancroft
 
 ## Keywords
 
-[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
-
-[gazebos](http://vocab.getty.edu/page/aat/300006798)
-
-[piscinae]( http://vocab.getty.edu/page/aat/300375619)
-
+[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347) \
+[gazebos](http://vocab.getty.edu/page/aat/300006798) \
+[piscinae]( http://vocab.getty.edu/page/aat/300375619) \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ## Garden Description
