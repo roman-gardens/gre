@@ -47,6 +47,7 @@ apsed triclinium
 rural villas
 [sarcophagi (coffins)](http://vocab.getty.edu/page/aat/300005947)
 [sherds](http://vocab.getty.edu/page/aat/300117132)
+[stelae](http://vocab.getty.edu/page/aat/300007023)
 [tablina](http://vocab.getty.edu/page/aat/300004180)
 [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
 [terrazzo](http://vocab.getty.edu/page/aat/300011696)

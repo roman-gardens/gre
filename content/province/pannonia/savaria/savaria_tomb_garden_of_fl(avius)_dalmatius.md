@@ -1,16 +1,16 @@
 ---
-article-type: "province"
-title: "Savaria_tomb_garden_of_fl(avius)_dalmatius"
+title: "Tomb Garden of Fl(avius) Dalmatius in Savaria"
 date: 2020-07-22T09:49:36-04:00
 province_id: PROVINCE_ID
-author: NAME_OF_AUTHOR
-editor: NAME_OF_EDITOR
-draft: true
+article_id: ARTICLE_ID
+author: John Bodel
+editor: June Dorsch
+draft: false
 ---
 
 # Province
 
-<!--- Content of Province heading --->
+[Pannonia]({{<relref "pannonia.md">}})
 
 ## Province Description
 
@@ -19,15 +19,14 @@ draft: true
 
 # Location
 
-<!-- [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751) -->
+[Savaria](https://pleiades.stoa.org/places/197498)
 
 ## Location Description
 
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 # Sublocation
 
-<!-- 
+<!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
@@ -37,43 +36,55 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- DESCRIPTION -->
 
 # Garden
-<!-- List of gardens in province -->
-<!-- May be left blank for now -->
+
+Tomb Garden of Fl(avius) Dalmatius in Savaria
+
+## Keywords
+
+[epitaphs](http://vocab.getty.edu/page/aat/300028729)   
+[tombs](http://vocab.getty.edu/page/aat/300005926)  
+
+## Garden Description
+
+A limestone slab found near the monastery of St. Martin in Szombathely (Savaria), Hungary, in 1845 and subsequently transferred to the National Museum in Budapest records the epitaph of a high ranking equestrian official (*vir perfectissimus*), Fl(avius) Dalmatius, and his wife Aur(elia) Iulia, who some time during the third or fourth century built a tomb on their villa estate and composed for it a verse inscription in which Dalmatius hopes for commemoration from a future owner of the property: “Whoever will be master of this house and garden after me, gather the nearby roses for me, put out the white lilies which the green garden will grow for me: these are the gifts of the blessed” (*Quisquis {h}e(ris) post me d(o)m(inus) Laris huius et (h)orti, / vicinas mihi carpe rosas, mihi lilia pone / [ca]ndeda{s} q(uae) viridis dabit (h)ortulus: ista (sc. munera) beat(or)um*). A freedman Volussius and freedwoman Sabatia saw to the erection of the inscription and monument. On the basis of the final platitude, with its reference to “the blessed” (*beati*), Diehl considered Dalmatius and his wife to be Christians. For Adamik, on the other hand, commemoration with flowers, a practice condemned by Christian writers as idolatrous, points to a pagan context. The phrasing of the hexameters reveals familiarity also with Roman literary conventions of funerary commemoration (cf. Martial 1.61.3, *quiquis eris nostri post me regnator agelli...*).Whatever the religious beliefs of Dalmatius and his wife, the equipping of their tomb with a funerary garden to support commemorative celebrations at the site is fully in keeping with the literary pretensions of their epitaph in representing the couple as fully assimilated and sophisticated Romans.
+
+## Maps
+
+
+## Plans
+
+
+## Images
 
 
 ## Dates
-<!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
-<!-- If no date, use "unspecified" -->
+
+3rd or 4th century
 
 ## Bibliography
 
-<!-- 
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL) 
--->
+* *CIL* 3.4185.
+* *CLE* 578.
+* *ILCV* 296.
+* A. Mócsy and T. Szentléleky, *Die römischen Steindenkmäler von Savaria*. Amsterdam, 1971, p. 117, no. 161, photo 143. [(worldcat)](http://www.worldcat.org/oclc/963618321)
+* T. Adamik,*Archaeologiai Ertesítö* 110, 1983:3-9 = AE 1984:722.
 
 ### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
-<!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+[197498](https://pleiades.stoa.org/places/197498)
 
 ### TGN ID
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
-<!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
+[4008442](http://vocab.getty.edu/page/tgn/4008442)
 
 ## Contributor
 
-<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
-
-### ORCID
-
-<!-- [ORCID](https://orcid.org/ORCID) -->
+[John Bodel](https://www.brown.edu/academics/history/people/john-bodel)(ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
 ## Publication date
-<!-- Format: dd MONTH_NAME yyyy -->
 
-<!-- DATE -->
+22 July 2020
