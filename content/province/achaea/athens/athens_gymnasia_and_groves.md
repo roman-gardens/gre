@@ -90,11 +90,7 @@ J. Travlos, *Bildlexikon zur Topographie des antiken Athen,* [(worldcat)](http:/
 
 ## Contributor
 
-[Maureen Carroll](link)
-
-### ORCID
-
-[0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032)
+[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ## Publication date
 

@@ -75,10 +75,7 @@ Middle of the first century CE until the fourth century CE
 [7004446](http://vocab.getty.edu/page/tgn/7004446)
 
 ## Contributor
-[Maureen Carroll](link)
-
-### ORCID
-[0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032)  
+[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
 
 ## Publication date
 12 July 2020

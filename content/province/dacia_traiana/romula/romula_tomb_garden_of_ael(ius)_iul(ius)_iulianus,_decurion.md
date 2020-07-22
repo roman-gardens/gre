@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -17,7 +17,8 @@ draft: true
 
 # Location
 
-Romula
+[Romula]({{<relref ".">}}) \
+[Romula (Pleiades)](https://pleiades.stoa.org/places/981518)
 
 ## Location Description
 
@@ -79,7 +80,6 @@ Later second century/third century
 
 ### Pleiades ID
 
-[981518]({{<relref ".">}}) \
 [981518](https://pleiades.stoa.org/places/981518)
 
 ### TGN ID

@@ -62,11 +62,7 @@ In 146 BCE the sacking of Corinth and in 86 BCE the sacking of Athens until past
 
 ## Contributor
 
-[David Gilman Romano](https://anthropology.arizona.edu/user/david-gilman-romano)
-
-### ORCID
-
-[0000-0001-5764-6652](https://orcid.org/0000-0001-5764-6652)
+[David Gilman Romano](https://anthropology.arizona.edu/user/david-gilman-romano) (ORCID: [0000-0001-5764-6652](https://orcid.org/0000-0001-5764-6652))
 
 ## Publication date
 

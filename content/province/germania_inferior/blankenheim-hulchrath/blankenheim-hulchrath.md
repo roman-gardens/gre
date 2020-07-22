@@ -78,10 +78,7 @@ Unspecified
 [6002234](http://vocab.getty.edu/page/tgn/6002234)
 
 ## Contributor
-[Maureen Carroll](link)
-
-### ORCID
-[0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032)  
+[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
 
 ## Publication date
 11 July 2020  

@@ -4,74 +4,8 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/</loc>
-    <lastmod>2020-07-22T10:17:25-04:00</lastmod>
+    <lastmod>2020-07-20T14:24:59-04:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/pannonia/</loc>
-    <lastmod>2020-07-22T10:17:25-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/pannonia/winden_am_see/</loc>
-    <lastmod>2020-07-22T10:17:25-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/</loc>
-    <lastmod>2020-07-22T10:17:25-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/pannonia/winden_am_see/winden_am_see_rural_villa/</loc>
-    <lastmod>2020-07-22T10:17:25-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/pannonia/savaria/</loc>
-    <lastmod>2020-07-22T09:49:36-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/pannonia/savaria/savaria_tomb_garden_of_flavius_dalmatius/</loc>
-    <lastmod>2020-07-22T09:49:36-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/pannonia/eisenstadt/</loc>
-    <lastmod>2020-07-22T09:31:35-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/pannonia/eisenstadt/eisenstadt_rural_villa/</loc>
-    <lastmod>2020-07-22T09:31:35-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/pannonia/carnuntum/</loc>
-    <lastmod>2020-07-22T08:57:49-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/pannonia/carnuntum/carnuntum_urban_houses/</loc>
-    <lastmod>2020-07-22T08:57:49-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/pannonia/aquincum/</loc>
-    <lastmod>2020-07-21T16:44:26-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/pannonia/aquincum/aquincum_urban_house_or_schola/</loc>
-    <lastmod>2020-07-21T16:44:26-04:00</lastmod>
   </url>
   
   <url>
@@ -84,6 +18,11 @@
     <loc>https://christiancasey.github.io/gre/province/achaea/eua/</loc>
     <lastmod>2020-07-20T14:24:59-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/</loc>
+    <lastmod>2020-07-20T14:24:59-04:00</lastmod>
   </url>
   
   <url>
@@ -169,6 +108,50 @@
   <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/aegina/aegina_temple_grove/</loc>
     <lastmod>2020-07-16T09:45:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/dalmatia/</loc>
+    <lastmod>2020-07-15T10:10:26-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/dalmatia/salona/</loc>
+    <lastmod>2020-07-15T10:10:26-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/dalmatia/salona/salona_cemetery_garden_of_metrodorus/</loc>
+    <lastmod>2020-07-15T10:10:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/dalmatia/salona/salona_tomb_garden_with_monument_of_julia_mutiana/</loc>
+    <lastmod>2020-07-14T17:06:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/dalmatia/salona/salona_tomb_garden_and_pool_of_cingius_iustinus/</loc>
+    <lastmod>2020-07-14T16:52:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/dacia_traiana/</loc>
+    <lastmod>2020-07-12T07:56:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/dacia_traiana/romula/</loc>
+    <lastmod>2020-07-12T07:56:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/dacia_traiana/romula/romula_tomb_garden_of_aelius_iulius_iulianus_decurion/</loc>
+    <lastmod>2020-07-12T07:56:03-04:00</lastmod>
   </url>
   
   <url>
@@ -348,26 +331,6 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/dacia_traiana/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/dacia_traiana/romula/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/dalmatia/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/dalmatia/salona/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/province/germania_inferior/</loc>
     <priority>0</priority>
   </url>
@@ -508,12 +471,32 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/pannonia/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/pannonia/aquincum/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/pannonia/aquincum/images/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/pannonia/carnuntum/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/pannonia/carnuntum/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/pannonia/eisenstadt/</loc>
     <priority>0</priority>
   </url>
   
@@ -524,6 +507,11 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/pannonia/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/pannonia/savaria/</loc>
     <priority>0</priority>
   </url>
   
@@ -539,6 +527,11 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/pannonia/scarbantia/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/pannonia/winden_am_see/</loc>
     <priority>0</priority>
   </url>
   

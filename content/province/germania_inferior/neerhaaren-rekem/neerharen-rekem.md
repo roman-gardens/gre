@@ -79,10 +79,7 @@ Late first century CE
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
 
 ## Contributor
-[Maureen Carroll](link)
-
-### ORCID
-[0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032)  
+[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
 
 ## Publication date
 22 July 2020

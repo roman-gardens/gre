@@ -96,11 +96,7 @@ Cicero set the scene in *De finibus* 5.1.3 for a group of men in the Academy nea
 
 ## Contributor
 
-[Maureen Carroll](link)
-
-### ORCID
-
-[0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032)
+[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ## Publication date
 

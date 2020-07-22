@@ -43,8 +43,8 @@ Villa of Herodes Atticus
 
 ## Keywords
 
-[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-[Serapeum](link)
+[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
+[Serapeum](link) \
 [Antinoön](link)
 
 
@@ -96,11 +96,7 @@ G. Ieranò, “I tesori di un intellettuale,” *Archeo* 6, 2001:48-53; G. Spyro
 
 ## Contributor
 
-[Annalisa Marzano](https://www.reading.ac.uk/classics/about/staff/a-marzano.aspx)
-
-### ORCID
-
-[0000-0002-6485-9143](https://orcid.org/0000-0002-6485-9143)
+[Annalisa Marzano](https://www.reading.ac.uk/classics/about/staff/a-marzano.aspx) (ORCID: [0000-0002-6485-9143](https://orcid.org/0000-0002-6485-9143))
 
 ## Publication date
  20 July 2020

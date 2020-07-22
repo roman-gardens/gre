@@ -94,11 +94,7 @@ According to local legend, the Argive maiden, Hyrnetho, died in an ancestral str
 
 ## Contributor
 
-[Maureen Carroll](link)
-
-### ORCID
-
-[0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032)  
+[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
 
 ## Publication date
 

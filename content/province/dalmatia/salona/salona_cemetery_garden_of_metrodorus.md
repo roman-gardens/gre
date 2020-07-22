@@ -4,7 +4,7 @@ date: 2020-07-15T10:10:26-04:00
 article_id: ARTICLE_ID
 author: John Bodel
 editor: Christian Casey
-draft: true
+draft: false
 ---
 
 # Province
@@ -43,9 +43,9 @@ Cemetery Garden of Metrodorus
 
 ## Keywords
 
-* [tombs](http://vocab.getty.edu/page/aat/300005926)  
-* [epitaphs](http://vocab.getty.edu/page/aat/300028729)
-* [sarcophagi (coffins)](http://vocab.getty.edu/page/aat/300005947)
+[tombs](http://vocab.getty.edu/page/aat/300005926) \
+[epitaphs](http://vocab.getty.edu/page/aat/300028729) \
+[sarcophagi (coffins)](http://vocab.getty.edu/page/aat/300005947)
 
 
 ## Garden Description
@@ -85,23 +85,16 @@ Late second or third century (CE)
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
-[197488]({{<relref ".">}}) \
 [197488](https://pleiades.stoa.org/places/197488)
 
 ### TGN ID
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 [7017320](http://vocab.getty.edu/page/tgn/7017320)
 
 ## Contributor
 
-[John Bodel](https://www.brown.edu/academics/history/people/john-bodel)
-
-### ORCID
-
-[0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368)
+[John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
 ## Publication date
 <!-- Format: dd MONTH_NAME yyyy -->
