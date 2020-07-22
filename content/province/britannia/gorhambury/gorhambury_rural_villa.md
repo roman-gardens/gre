@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -41,9 +41,9 @@ Rural Villa in Gorhambury
 
 ## Keywords
 
-[arbors](http://vocab.getty.edu/page/aat/300006781)  
-[axial plan](http://vocab.getty.edu/page/aat/300121971)  
-[loam](http://vocab.getty.edu/page/aat/300014335)   
+[arbors](http://vocab.getty.edu/page/aat/300006781) \
+[axial plan](http://vocab.getty.edu/page/aat/300121971) \
+[loam](http://vocab.getty.edu/page/aat/300014335) \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
 
 ## Garden Description
@@ -83,7 +83,6 @@ around A.D. 100 - 175
 
 ### Pleiades ID
 
-[79485]({{<relref ".">}}) \
 [79485](https://pleiades.stoa.org/places/79485)
 
 ### TGN ID

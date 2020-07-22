@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -41,8 +41,8 @@ Rural Villa in Latimer
 
 ## Keywords
 
-[fences (site elements)](http://vocab.getty.edu/page/aat/300005044)    
-[orchards](http://vocab.getty.edu/page/aat/300008890)   
+[fences (site elements)](http://vocab.getty.edu/page/aat/300005044) \
+[orchards](http://vocab.getty.edu/page/aat/300008890) \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)        
 
 ## Garden Description
@@ -78,7 +78,6 @@ Evidence for gardens dating to the beginning of 4th century
 
 ### Pleiades ID
 
-[79555]({{<relref ".">}}) \
 [79555](https://pleiades.stoa.org/places/79555)
 
 ### TGN ID

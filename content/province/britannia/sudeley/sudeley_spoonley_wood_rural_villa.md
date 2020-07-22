@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -17,7 +17,9 @@ draft: true
 
 # Location
 
-Sudeley/Spoonley Wood
+
+[Sudeley/Spoonley Wood]({{<relref ".">}}) \
+[Sudeley/Spoonley Wood (Pleiades)](https://pleiades.stoa.org/places/79693)
 
 ## Location Description
 
@@ -40,8 +42,8 @@ Rural Villa in Sudeley/Spoonley Wood
 
 ## Keywords
 
-[axial plan](http://vocab.getty.edu/page/aat/300121971)    
-[terrace gardens](http://vocab.getty.edu/page/aat/300404778)  
+[axial plan](http://vocab.getty.edu/page/aat/300121971) \
+[terrace gardens](http://vocab.getty.edu/page/aat/300404778) \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)            
 
 ## Garden Description
@@ -79,7 +81,6 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 ### Pleiades ID
 
-[79693]({{<relref ".">}}) \
 [79693](https://pleiades.stoa.org/places/79693)
 
 ### TGN ID

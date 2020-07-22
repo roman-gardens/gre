@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -78,7 +78,6 @@ The complex was built between A.D. 280 and 300, with occupation ending around 38
 
 ### Pleiades ID
 
-[79477]({{<relref ".">}}) \
 [79477](https://pleiades.stoa.org/places/79477)
 
 ### TGN ID

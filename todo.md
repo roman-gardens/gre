@@ -10,6 +10,8 @@
 - [ ] Get geographic regions into sidebar using categories list (as in bancroft)
 - [ ] Put `lead:` in the header for each article to make loglines/subtitles
 - [ ] Check that all keywords are in controlled vocab (Programmatically)
+- [ ] Figure out why there are so many unattached images (e.g. Achaea Nemea)
+
  
 # Article Punchlist
 

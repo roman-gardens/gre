@@ -18,7 +18,7 @@ draft: true
 # Location
 
 [Frocester Court]({{<relref ".">}}) \
-[Frocester Court (Pleiades)](https://pleiades.stoa.org/places/79471) -->
+[Frocester Court (Pleiades)](https://pleiades.stoa.org/places/79471)
 
 ## Location Description
 
@@ -41,8 +41,8 @@ Rural Villa in Frocester Court
 
 ## Keywords
 
-[fences (site elements)](http://vocab.getty.edu/page/aat/300005044)  
-[orchards](http://vocab.getty.edu/page/aat/300008890)  
+[fences (site elements)](http://vocab.getty.edu/page/aat/300005044) \
+[orchards](http://vocab.getty.edu/page/aat/300008890) \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)      
 
 ## Garden Description
@@ -80,7 +80,6 @@ Early 4th century - 5th century
 
 ### Pleiades ID
 
-[79471]({{<relref ".">}}) \
 [79471](https://pleiades.stoa.org/places/79471)
 
 ### TGN ID

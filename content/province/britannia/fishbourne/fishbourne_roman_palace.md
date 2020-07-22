@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Kathryn Gleason
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -43,8 +43,8 @@ Roman Palace in Fishbourne
 
 ## Keywords
 
-[colonnades](http://vocab.getty.edu/page/aat/300002613)  
-[palaces](http://vocab.getty.edu/page/aat/300005734)  
+[colonnades](http://vocab.getty.edu/page/aat/300002613) \
+[palaces](http://vocab.getty.edu/page/aat/300005734) \
 [piscinae](http://vocab.getty.edu/page/aat/300375619)
 
 ## Garden Description
@@ -96,7 +96,6 @@ Late 1st century CE - unspecified
 
 ### Pleiades ID
 
-[79466]({{<relref ".">}}) \
 [79466](https://pleiades.stoa.org/places/79466)
 
 ### TGN ID
