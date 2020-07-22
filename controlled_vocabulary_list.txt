@@ -1,6 +1,8 @@
+[altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
 apsed pools
 apsed triclinium
 [arbors](http://vocab.getty.edu/page/aat/300006781)
+[arcades (structural assemblies)](http://vocab.getty.edu/page/aat/300002580)
 [atrium houses] (http://vocab.getty.edu/page/aat/300005451)
 [atriums](http://vocab.getty.edu/page/aat/300004097)
 [axial plan](http://vocab.getty.edu/page/aat/300121971)
@@ -8,6 +10,7 @@ apsed triclinium
 [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
 [ceramic tile](http://vocab.getty.edu/page/aat/300010678)
 [colonnades](http://vocab.getty.edu/page/aat/300002613)
+[corridors](http://vocab.getty.edu/page/aat/300004294)
 [drains](http://vocab.getty.edu/page/aat/300052564)
 [domus](http://vocab.getty.edu/page/aat/300005506)
 [epitaphs](http://vocab.getty.edu/page/aat/300028729)
@@ -38,6 +41,7 @@ apsed triclinium
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 [pillars](http://vocab.getty.edu/page/aat/300264605)
 [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+[podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)
 [porticoes](http://vocab.getty.edu/page/aat/300004145)
 [rinceaux](http://vocab.getty.edu/page/aat/300165495)
 rural villas

@@ -2,9 +2,10 @@
 title: "Urban House or Schola in Aquincum"
 date: 2020-07-21T16:44:26-04:00
 province_id: PROVINCE_ID
+article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 # Province
@@ -41,53 +42,51 @@ Urban House or Schola in Aquincum
 
 ## Keywords
 
+[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)   
+[fountains](http://vocab.getty.edu/page/aat/300006179)  
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)    
+[piscinae]( http://vocab.getty.edu/page/aat/300375619)
 
 ## Garden Description
 
-Very few houses of Mediterranean type have been discovered, and only one can be said with certainty to have had a garden (Fig. 1.1a, G on plan). The peristyle courtyard was a prominent feature of this house of irregular plan and substantial size near the southern city wall. The house dates to the 3rd century, and it is thought to have been a clubhouse or schola for young men (collegium iuventutis), complete with a bath suite. In the middle of the courtyard, framed on four sides by a low wall supporting columns, was a square masonry pool (Fig. 2). In the center of the pool was a fountain consisting of a small marble satyr standing on a column of the same material. This decorative element and the unpaved ground strongly suggest the existence of a garden.
+Very few houses of Mediterranean type have been discovered, and only one can be said with certainty to have had a garden (Fig. 1, G in Fig. 1). The peristyle courtyard was a prominent feature of this house of irregular plan and substantial size near the southern city wall. The house dates to the 3rd century, and it is thought to have been a clubhouse or *schola* for young men (*collegium iuventutis*), complete with a bath suite. In the middle of the courtyard, framed on four sides by a low wall supporting columns, was a square masonry pool (Fig. 2). In the center of the pool was a fountain consisting of a small marble satyr standing on a column of the same material. This decorative element and the unpaved ground strongly suggest the existence of a garden.
 
 ## Maps
 
 
 ## Plans
 
+{{< figure src="../../images/PAN_AQU_House 1_M Carroll.tif" alt="Fig. 1: Plan of a building with a peristyle garden courtyard (G) and a pool in its center. Adapted from Polenz and Póczy 1986, fig. 47." title="Fig. 1: Plan of a building with a peristyle garden courtyard (G) and a pool in its center. Adapted from Polenz and Póczy 1986, fig. 47.(Rights statement.)" >}}
 
 ## Images
 
+{{< figure src="../../images/PAN_AQU.jpg" alt="Fig. 2: The excavated courtyard building with its peristyle garden. Photo courtesy of M. Carroll." title="Fig. 2: The excavated courtyard building with its peristyle garden. Photo courtesy of M. Carroll.)" >}}
 
 ## Dates
-<!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
-<!-- If no date, use "unspecified" -->
+
+3rd century
 
 ## Bibliography
 
-<!--
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+* A. Mócsy, *Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire*, London, 1974, p. 166, pl. 16b. [(worldcat)](http://www.worldcat.org/oclc/644823914)
+* H. Polenz and K. Póczy, *Das römische Budapest. Neue Ausgrabungen und Funde in Aquincum*, Münster, 1986, p. 124, fig. 47, pl. 10. [(worldcat)](http://www.worldcat.org/oclc/19741038)
 
 ### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
-<!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+[1971301](https://pleiades.stoa.org/places/1971301)
 
 ### TGN ID
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
-<!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
+[8713146](http://vocab.getty.edu/page/tgn/8713146)
 
 ## Contributor
 
-<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
-
-### ORCID
-
-<!-- [ORCID](https://orcid.org/ORCID) -->
+[Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ## Publication date
-<!-- Format: dd MONTH_NAME yyyy -->
 
-<!-- DATE -->
+22 July 2020
