@@ -36,9 +36,9 @@ enableInlineShortcodes = true
 
 
 [Params.sidebar]
-	home = "right" # Configure layout for home page
+	home = "left" # Configure layout for home page
 	list = "left"  # Configure layout for list pages
-	single = true # Configure layout for single pages
+	single = "left" # Configure layout for single pages
 	# Enable widgets in given order
 	# widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
 	widgets = ["search", "categories", "taglist"]
