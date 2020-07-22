@@ -14,7 +14,7 @@ draft: false
 
 ## Province Description
 
-<!-- DESCRIPTION -->
+
 
 
 # Location
