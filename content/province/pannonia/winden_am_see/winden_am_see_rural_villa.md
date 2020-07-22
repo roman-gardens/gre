@@ -60,7 +60,7 @@ On the southeast of the house was a vestibule, from which a central corridor dep
 
 ## Plans
 
-{{< figure src="../../images/PAN_WID_Villa_M Carroll.tif" alt="Fig. 1: Plan of the farmhouse with a garden plot (G) enclosed by walls. Adapted from Thomas 1964, fig. 107." title="Fig. 1: Plan of the farmhouse with a garden plot (G) enclosed by walls. Adapted from Thomas 1964, fig. 107.(Rights statement.)" >}}
+{{< figure src="../images/PAN_WID_Villa_M_Carroll.tif" alt="Fig. 1: Plan of the farmhouse with a garden plot (G) enclosed by walls. Adapted from Thomas 1964, fig. 107." title="Fig. 1: Plan of the farmhouse with a garden plot (G) enclosed by walls. Adapted from Thomas 1964, fig. 107.(Rights statement.)" >}}
 
 ## Images
 

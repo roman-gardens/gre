@@ -58,7 +58,7 @@ Cicero set the scene in *De finibus* 5.1.3 for a group of men in the Academy nea
 ## Maps
 
 <!--
-![alt_text](../../images/image_name.ext)
+![alt_text](../images/image_name.ext)
 *CAPTION*
 -->
 
@@ -72,7 +72,7 @@ Cicero set the scene in *De finibus* 5.1.3 for a group of men in the Academy nea
 ## Images
 
 <!--
-![alt_text](../../images/image_name.ext)
+![alt_text](../images/image_name.ext)
 *CAPTION*
 -->
 
