@@ -11,8 +11,7 @@
 - [ ] Put `lead:` in the header for each article to make loglines/subtitles
 - [ ] Check that all keywords are in controlled vocab (Programmatically)
 - [ ] Figure out why there are so many unattached images (e.g. Achaea Nemea)
-
-Testing git issues
+- [ ] Deal with empty stuff in headers
 
 # Article Punchlist
 

@@ -10,7 +10,7 @@ draft: false
 
 # Province
 
-[Pannonia]({{<relref "pannonia.md">}})
+[Pannonia]({{<relref "..">}}) 
 
 ## Province Description
 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gardens of the Roman Empire</title>
+    <link>https://christiancasey.github.io/gre/province/pannonia/carnuntum/</link>
+    <description>Recent content on Gardens of the Roman Empire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Jul 2020 08:57:49 -0400</lastBuildDate>
+    
+	<atom:link href="https://christiancasey.github.io/gre/province/pannonia/carnuntum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Urban Houses in Carnuntum</title>
+      <link>https://christiancasey.github.io/gre/province/pannonia/carnuntum/carnuntum_urban_houses/</link>
+      <pubDate>Wed, 22 Jul 2020 08:57:49 -0400</pubDate>
+      
+      <guid>https://christiancasey.github.io/gre/province/pannonia/carnuntum/carnuntum_urban_houses/</guid>
+      <description>Province Pannonia
+Province Description Location Carnuntum
+Location Description The town of Carnuntum on the Danube River, like Aquincum, was promoted to colonial status in 194 A.D., after having been a municipium. Excavations in the modern zoological garden have revealed part of the town plan and its residential district.
+Sublocation Sublocation Description Garden Urban Houses in Carnuntum
+Keywords arcades (structural assemblies) corridors
+Garden Description The regional house type found often in Pannonia, the so-called corridor house, is characterized by a vestibule or arcade on its narrow front and a central corridor running the length of the house, separating it into two parts.</description>
+    </item>
+    
+  </channel>
+</rss>

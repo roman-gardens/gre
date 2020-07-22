@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: June Dorsch
-draft: false
+draft: true
 ---
 
 # Province
@@ -81,7 +81,7 @@ A limestone funerary stele of probably third century date unearthed in 1973 near
 
 ## Contributor
 
-[John Bodel](https://www.brown.edu/academics/history/people/john-bodel)(ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
+[John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
 ## Publication date
 
