@@ -18,7 +18,7 @@ enableInlineShortcodes = true
 
 	[[menu.main]]
 		identifier = "home"
-		name = "Home"
+		name = "Gardens"
 		url = "/"
 		weight = -120
 		
