@@ -89,7 +89,6 @@ BIBLIOGRAPHY: D. G. Romano, “A Roman Circus in Corinth,” *Hesperia* [(worldc
 
 ### Pleiades ID
 
-[570182]({{<relref ".">}}) \
 [570182](https://pleiades.stoa.org/places/570182)
 
 ### TGN ID

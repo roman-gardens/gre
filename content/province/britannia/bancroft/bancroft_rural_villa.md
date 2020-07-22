@@ -5,7 +5,15 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
+
+categories:
+  - "Britannia"
+tags:
+  - "bathhouses"
+  - "gazebos"
+  - "piscinae"
+  - "villae rusticae"
 ---
 
 # Province
@@ -17,7 +25,7 @@ draft: true
 
 # Location
 
-Bancroft
+[Bancroft]({{<relref ".">}})  
 
 ## Location Description
 
@@ -76,7 +84,6 @@ Roman villa... built in the late 3rd century and rebuilt and enlarged in the mid
 
 ### Pleiades ID
 
-[79312]({{<relref ".">}}) \
 [79312](https://pleiades.stoa.org/places/79312)
 
 ### TGN ID

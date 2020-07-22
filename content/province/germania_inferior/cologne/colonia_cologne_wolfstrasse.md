@@ -69,7 +69,6 @@ Middle of the first century CE until the fourth century CE
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[108751]({{<relref ".">}}) \
 [108751](https://pleiades.stoa.org/places/108751)
 
 ### TGN ID
