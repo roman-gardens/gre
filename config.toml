@@ -33,12 +33,6 @@ enableInlineShortcodes = true
 		url = "/province/"
 		weight = -100
 
-	[[menu.main]]
-		identifier = "garden"
-		name = "Gardens"
-		url = "/garden/"
-		weight = -90
-
 
 [Params.sidebar]
 	home = "right" # Configure layout for home page
