@@ -4,6 +4,9 @@ relativeURLs = false
 languageCode = "en-us"
 title = "Gardens of the Roman Empire"
 theme = "mainroad"
+paginate = "1000"
+# theme = "simpleit-hugo-theme"
+# theme = "book"
 
 publishDir = "docs"
 
@@ -14,33 +17,34 @@ enableInlineShortcodes = true
 [menu]
 
 	[[menu.main]]
+		identifier = "home"
+		name = "Gardens"
+		url = "/"
+		weight = -120
+		
+	[[menu.main]]
 		identifier = "about"
 		name = "About"
 		url = "/about/"
 		weight = -110
-
-	[[menu.main]]
-		identifier = "province"
-		name = "Provinces"
-		url = "/province/"
-		weight = -100
-
-	[[menu.main]]
-		identifier = "garden"
-		name = "Gardens"
-		url = "/garden/"
-		weight = -90
+	# 
+	# [[menu.main]]
+	# 	identifier = "province"
+	# 	name = "Gardens"
+	# 	url = "/province/"
+	# 	weight = -100
 
 
 [Params.sidebar]
-	home = "right" # Configure layout for home page
+	home = "left" # Configure layout for home page
 	list = "left"  # Configure layout for list pages
-	single = false # Configure layout for single pages
+	single = "left" # Configure layout for single pages
 	# Enable widgets in given order
-	widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+	# widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+	widgets = ["search", "categories", "taglist"]
 	# alternatively "ddg-search" can be used, to search via DuckDuckGo
 	# widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 
 [Params.widgets]
-	recent_num = 5 # Set the number of articles in the "Recent articles" widget
-	tags_counter = false # Enable counter for each tag in "Tags" widget
+	recent_num = 2 # Set the number of articles in the "Recent articles" widget
+	tags_counter = true # Enable counter for each tag in "Tags" widget
