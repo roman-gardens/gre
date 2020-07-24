@@ -43,7 +43,6 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Gymnasia and Groves
 
-
 ## Keywords
 
 [palaestrae](http://vocab.getty.edu/page/aat/300007301) \
