@@ -13,6 +13,10 @@
 - [ ] Figure out why there are so many unattached images (e.g. Achaea Nemea)
 - [ ] Deal with empty stuff in headers
 - [ ] Should "urban villas" be removed and (if necessary) replaced with "villae urbanae"?
+- [ ] Deal with all smart quotes
+- [ ] Fix any quotes in `figure` attributes
+- [ ] Redo all pub dates as YMD
+- [ ] Implement [LOC Datetime format](https://www.loc.gov/standards/datetime/)
 
 # Article Punchlist
 
