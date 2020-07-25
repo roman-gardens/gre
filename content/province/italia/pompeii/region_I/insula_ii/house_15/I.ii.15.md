@@ -1,6 +1,6 @@
 ---
-title: "I.ii.3"
-date: 2020-07-23T16:14:15-04:00
+title: "I.ii.15"
+date: 2020-07-25T14:20:01-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Unknown
@@ -44,21 +44,20 @@ categories:
 
 # House
 
-House 3
+House 15
 
 # Garden
 
-I.ii.3
+I.ii.15
 
 ## Keywords
 
-[tufa](http://vocab.getty.edu/page/aat/300011712)  
-[vestibules](http://vocab.getty.edu/page/aat/300083076)   
-viridarium
+[barrier walls](http://vocab.getty.edu/page/aat/300419302)  
+[impluvia](http://vocab.getty.edu/page/aat/300129867)  
 
 ## Garden Description
 
-The small *viridarium* (a) at the rear of the house had narrow, slightly raised beds along the walls on the north and east side. These beds were for the cultivation of flowers, according to [Fiorelli](dead_link). A small vestibule on the north side of the garden was decorated with remnants of *tufa* columns brought from another site.
+This humble house was excavated in 1873. It had no garden but the *impluvium* was surrounded by a low masonry wall. The top contained a planting bed which served as a small garden.
 
 ## Maps
 
@@ -79,14 +78,6 @@ NEW WAY ↓↓↓↓
 
 ## Images
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
--->
 
 ## Dates
 
@@ -94,11 +85,10 @@ unspecified
 
 ## Bibliography
 
-* Fiorelli, *Descr.*, p. 37. [(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol.II, p. 21.
-* Niccolini, *Case*, vol. 2, “Descr. Gen.,” p. 76.
-* Viola, “*Scavi*,” p 10. [(worldcat)](http://www.worldcat.org/oclc/715087975)
-* Warscher, “Codex,” photo, no. 12.
+* Fiorelli, *Descr.*, p. 42. [(worldcat)](http://www.worldcat.org/oclc/908272023)
+* Jashemski, *Gardens*, vol.II, p. 22.
+* Viola, “*Scavi*” p. 12. [(worldcat)](http://www.worldcat.org/oclc/715087975)
+* * Warscher, “Codex.”
 
 ### Periodo ID
 
@@ -118,7 +108,7 @@ Unknown
 
 ## Publication date
 
-23 July 2020
+24 July 2020
 
 ## Related articles
 

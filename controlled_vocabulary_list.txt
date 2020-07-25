@@ -1,3 +1,4 @@
+[aedicules](http://vocab.getty.edu/page/aat/300002574)
 [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
 apsed pools
 apsed triclinium
@@ -8,6 +9,7 @@ apsed triclinium
 [axial plan](http://vocab.getty.edu/page/aat/300121971)
 [barrier walls](http://vocab.getty.edu/page/aat/300419302)
 [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+[biclinia](http://vocab.getty.edu/page/aat/300170371)
 [castra](http://vocab.getty.edu/page/aat/300008440)
 [ceramic tile](http://vocab.getty.edu/page/aat/300010678)
 [cherry (plant)](http://vocab.getty.edu/page/aat/300375306)
@@ -29,6 +31,7 @@ apsed triclinium
 [horrea](http://vocab.getty.edu/page/aat/300120504)
 [hypocausts](http://vocab.getty.edu/page/aat/300004277)
 [insulae](http://vocab.getty.edu/page/aat/300000325)
+[impluvia](http://vocab.getty.edu/page/aat/300129867)
 [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
 [kraters](http://vocab.getty.edu/page/aat/300198855)
 [lararia](http://vocab.getty.edu/page/aat/300400600)
@@ -51,11 +54,13 @@ apsed triclinium
 [podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)
 [porticoes](http://vocab.getty.edu/page/aat/300004145)
 [praetoriums](http://vocab.getty.edu/page/aat/300005636)
+puteal
 [rinceaux](http://vocab.getty.edu/page/aat/300165495)
 rural villas
 [sarcophagi (coffins)](http://vocab.getty.edu/page/aat/300005947)
 [sherds](http://vocab.getty.edu/page/aat/300117132)
 shrine gardens
+[statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 [stelae](http://vocab.getty.edu/page/aat/300007023)
 [tablina](http://vocab.getty.edu/page/aat/300004180)
 [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
