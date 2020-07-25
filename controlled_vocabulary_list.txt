@@ -21,6 +21,7 @@ apsed triclinium
 [fountains](http://vocab.getty.edu/page/aat/300006179)
 [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
 [gazebos](http://vocab.getty.edu/page/aat/300006798)
+[graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613)
 [hearths](http://vocab.getty.edu/page/aat/300003990)
 [horrea](http://vocab.getty.edu/page/aat/300120504)
 [hypocausts](http://vocab.getty.edu/page/aat/300004277)
@@ -58,10 +59,13 @@ shrine gardens
 [tesserae](http://vocab.getty.edu/page/aat/300010730)
 [tombs](http://vocab.getty.edu/page/aat/300005926)
 [triclinia](http://vocab.getty.edu/page/aat/300004359)
+[tufa](http://vocab.getty.edu/page/aat/300011712)
 urban villas
+[vestibules](http://vocab.getty.edu/page/aat/300083076)
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 [villae suburbanae](http://vocab.getty.edu/page/aat/300005519)
 [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
+viridarium
 [waterspouts](http://vocab.getty.edu/page/aat/300248603)
 [water supply systems](http://vocab.getty.edu/page/aat/300008618)
 [water wells](http://vocab.getty.edu/page/aat/300152327)
