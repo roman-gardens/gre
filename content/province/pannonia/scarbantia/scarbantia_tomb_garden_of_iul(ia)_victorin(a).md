@@ -48,7 +48,8 @@ Tomb Garden of Iul(ia) Victorin(a) in Scarbantia
 
 [epitaphs](http://vocab.getty.edu/page/aat/300028729) \
 [stelae](http://vocab.getty.edu/page/aat/300007023) \
-[tombs](http://vocab.getty.edu/page/aat/300005926)  
+[tombs](http://vocab.getty.edu/page/aat/300005926)   
+viridarium
 
 ## Garden Description
 
