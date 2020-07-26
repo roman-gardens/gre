@@ -49,9 +49,9 @@ rustic villas
 [ditches](http://vocab.getty.edu/page/aat/300006178)  
 [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)  
 [hedges](http://vocab.getty.edu/page/aat/300266413)  
+[water wells](http://vocab.getty.edu/page/aat/300152327)  
 [orchards](http://vocab.getty.edu/page/aat/300008890)  
 [cherry (plant)](http://vocab.getty.edu/page/aat/300375306)  
-
 
 ## Garden Description
 
