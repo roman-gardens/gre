@@ -1,8 +1,7 @@
 ---
-article-type: "garden"
-title: "Tomb Garden and Cistern of Gallatis Son of Pythion"
-date: 2020-07-24T16:02:08-04:00
-province_id: PROVINCE_ID
+title: "Tomb Garden and Cistern of Gallatis, Son of Pythion"
+date: 2020-07-26T10:33:06-04:00
+article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
 editor: Amartya Shri
 draft: true
@@ -22,7 +21,9 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-[Chaeronea](https://pleiades.stoa.org/places/540701)
+
+[Chaeronea]({{<relref ".">}}) \
+[Chaeronea (Pleiades)](https://pleiades.stoa.org/places/540701)
 
 ## Location Description
 
@@ -31,6 +32,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 # Sublocation
 
 <!--
+Regio IX
+
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
@@ -41,25 +44,57 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Tomb Garden and Cistern of Gallatis Son of Pythion
+Tomb Garden and Cistern of Gallatis, Son of Pythion
 
 ## Keywords
 
-[Funerary (sepulchral) Monument](http://vocab.getty.edu/page/aat/300005909)
-[Cistern](link)
+[funerary buildings](http://vocab.getty.edu/page/aat/300005866)
 
 ## Garden Description
 
 An inscription found near Chaeronea and known only from a transcription records the dedication by Gallatis, the son of Pythion, probably some time during the first or second century, of a funerary monument to himself, his wife, his children, and whomever his children wish, “with the cistern and garden” (sÊn t“ fr°[ati] ka‹ kÆpƒ). The freedom Gallatis grants to his children to dispose of the property as they wish is unusual, but cisterns (as at the tomb gardens of Lictoria Chaerusa at Capena [CROSS-REFXXX] and of P. Sullius Zoticus  [Cross-refXXX; cf. also CIL 6.29961 = XXX] at Rome) and wells (as at the tomb garden of Claudia Semne [Cross-ref XXX; cf. CIL 6.29959] at Rome), are sometimes mentioned explicitly, and ready sources of water, even when not specified, must often have been provided along with the gardens they supplied in such funerary dispositions.
 
+
+## Maps
+
+<!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+-->
+
+## Plans
+
+<!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+-->
+
+## Images
+
+<!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+-->
+
 ## Dates
-<!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
-<!-- If no date, use "unspecified" -->
+
+probably some time during the first or second century
 
 ## Bibliography
 
-* J. Kubińska, Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure. Warsaw, 1968, pp. 146-47. [(worldcat)](http://www.worldcat.org/oclc/603915784)
-
+* IG VII, 3453; J. Kubińska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure.* Warsaw, 1968, pp. 146-47. [(worldcat)](#)
 
 ### Periodo ID
 
@@ -75,12 +110,12 @@ An inscription found near Chaeronea and known only from a transcription records 
 
 ## Contributor
 
-<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
-
-### ORCID
-
-<!-- [ORCID](https://orcid.org/ORCID) -->
+<!-- [AUTHOR_NAME](AUTHOR_LINK) (ORCID: [ORCID_ID](https://orcid.org/ORCID_ID)) -->
 
 ## Publication date
 
-24 July 2020
+26 July 2020
+
+## Related articles
+
+<!-- Links to other related articles. Leave blank for now -->
