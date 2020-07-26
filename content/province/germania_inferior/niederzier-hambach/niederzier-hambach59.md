@@ -46,6 +46,7 @@ Niederzier Hambach 59
 
 rustic villas  
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
+[ditches](http://vocab.getty.edu/page/aat/300006178)  
 [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)  
 [hedges](http://vocab.getty.edu/page/aat/300266413)  
 [orchards](http://vocab.getty.edu/page/aat/300008890)  
@@ -105,4 +106,4 @@ Late first century CE until the fourth century CE.
 
 ## Related articles
 
-<!-- Links to other related articles. Leave blank for now -->
+[Niederzier-Hambach 69]({{<relref "./niederzier-hambach69.md">}}).
