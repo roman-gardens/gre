@@ -1,6 +1,6 @@
 ---
-title: "Sanctuary of Poseidon"
-date: 2020-07-26T10:54:32-04:00
+title: "Sanctuary of Apollo and the Nymphs"
+date: 2020-07-26T12:25:33-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
@@ -22,9 +22,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 # Location
 
 
-[Isthmia]({{<relref ".">}}) \
-[Isthmia (Pleiades)](https://pleiades.stoa.org/places/570316)
-
+[Krytones]({{<relref ".">}}) \
+[Kyrtones (Pleiades)](https://pleiades.stoa.org/places/540898)
 
 ## Location Description
 
@@ -45,17 +44,19 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Sanctuary of Poseidon
+
+Sanctuary of Apollo and the Nymphs
+
 
 ## Keywords
 
 [Pausanias](https://www.britannica.com/biography/Pausanias-Greek-geographer) \
-[orchards](http://vocab.getty.edu/page/aat/300008890) \
-[Strabo](#)
+[orchards](http://vocab.getty.edu/page/aat/300008890)
 
 ## Garden Description
 
-We know of a grove of trees in the precinct of the temple of Poseidon, thanks to Pausanias’ and Strabo’s descriptions of it in the early 1st and the later 2nd century A.D. (Strabo 8.6.22; Pausanias 2.1.7).  According to Pausanias, on one side of the precinct stood statues of athletes who had been victorious in the Isthmian games, and opposite them was a row of pine trees.  The fact that these trees stood in a row suggests that they were intentionally planted.
+A grove and shrine of Apollo in the mountain-top town of Kyrtones in Boeotia was visited by Pausanias in the 2nd century A.D. (9.24.4).  There was also a natural spring at the site, next to which was a sanctuary of the Nymphs and a small grove of fruit-bearing trees.
+
 
 ## Maps
 
@@ -106,11 +107,12 @@ NEW WAY ↓↓↓↓
 
 ### Pleiades ID
 
-[570316](https://pleiades.stoa.org/places/570316)
+[540898](https://pleiades.stoa.org/places/540898)
 
 ### TGN ID
+<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
-[5004291](http://vocab.getty.edu/page/tgn/5004291)
+<!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
 
 ## Contributor
 

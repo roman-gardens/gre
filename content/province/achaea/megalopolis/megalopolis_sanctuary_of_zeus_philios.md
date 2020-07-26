@@ -1,6 +1,6 @@
 ---
-title: "Sanctuary of Poseidon"
-date: 2020-07-26T10:54:32-04:00
+title: "Sanctuary of Zeus Philios"
+date: 2020-07-26T12:30:28-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
@@ -22,9 +22,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 # Location
 
 
-[Isthmia]({{<relref ".">}}) \
-[Isthmia (Pleiades)](https://pleiades.stoa.org/places/570316)
-
+[Megalopolis]({{<relref ".">}}) \
+[Megalopolis (Pleiades)](https://pleiades.stoa.org/places/540898)
 
 ## Location Description
 
@@ -32,12 +31,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Sublocation
 
-<!--
-Regio IX
-
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
+[The Agora of Megalopolis](#)
 
 ## Sublocation Description
 
@@ -45,17 +39,19 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Sanctuary of Poseidon
+
+Sanctuary of Zeus Philios
+
 
 ## Keywords
 
 [Pausanias](https://www.britannica.com/biography/Pausanias-Greek-geographer) \
 [orchards](http://vocab.getty.edu/page/aat/300008890) \
-[Strabo](#)
+[religious image](#)
 
 ## Garden Description
 
-We know of a grove of trees in the precinct of the temple of Poseidon, thanks to Pausanias’ and Strabo’s descriptions of it in the early 1st and the later 2nd century A.D. (Strabo 8.6.22; Pausanias 2.1.7).  According to Pausanias, on one side of the precinct stood statues of athletes who had been victorious in the Isthmian games, and opposite them was a row of pine trees.  The fact that these trees stood in a row suggests that they were intentionally planted.
+Pausanias mentioned a small grove of trees in the sanctuary of Zeus Philios that was in close proximity to the agora in Megalopolis (8.31.4-5).  The grove was enclosed within a boundary wall.  In the precinct were images of the goddesses Demeter and Kore.  This grove almost certainly had been in existence since pre-Roman times, but it still flourished in the 2nd century A.D. when Pausanias visited the site.
 
 ## Maps
 
@@ -91,8 +87,8 @@ NEW WAY ↓↓↓↓
 -->
 
 ## Dates
-<!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
-<!-- If no date, use "unspecified" -->
+
+it still flourished in the 2nd century A.D. when Pausanias visited the site.
 
 ## Bibliography
 
@@ -106,11 +102,11 @@ NEW WAY ↓↓↓↓
 
 ### Pleiades ID
 
-[570316](https://pleiades.stoa.org/places/570316)
+[540898](https://pleiades.stoa.org/places/540898)
 
 ### TGN ID
 
-[5004291](http://vocab.getty.edu/page/tgn/5004291)
+[7010920](http://vocab.getty.edu/page/tgn/7010920)
 
 ## Contributor
 
