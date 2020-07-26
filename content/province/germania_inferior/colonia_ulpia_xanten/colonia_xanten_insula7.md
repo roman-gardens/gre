@@ -27,9 +27,11 @@ categories:
 Industrial quarter
 
 ## Sublocation Description
+
 This *insula* southeast of the *forum* is commonly referred to as an industrial quarter (Plan 1). It was divided into several long, narrow plots on which were houses, shops and workshops.  
 
 # Garden
+
 The houses of Insula 7 in Colonia Ulpia Traiana (Xanten)
 
 ## Keywords
