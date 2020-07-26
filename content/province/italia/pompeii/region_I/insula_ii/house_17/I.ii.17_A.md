@@ -1,6 +1,6 @@
 ---
-title: "I.ii.15"
-date: 2020-07-25T14:20:01-04:00
+title: "I.ii.17 A"
+date: 2020-07-25T15:00:54-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Unknown
@@ -44,20 +44,21 @@ categories:
 
 # House
 
-House 15
+House 17
 
 # Garden
 
-I.ii.15
+I.ii.17 A
 
 ## Keywords
 
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  
-[impluvia](http://vocab.getty.edu/page/aat/300129867)  
+[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)  
+[piscinae]( http://vocab.getty.edu/page/aat/300375619)  
+[tablina](http://vocab.getty.edu/page/aat/300004180)  
 
 ## Garden Description
 
-This humble house was excavated in 1873. It had no garden but the *impluvium* was surrounded by a low masonry wall. The top contained a planting bed which served as a small garden.
+At the rear of the house was a very small garden entered from the *tablinum*. Excavated in 1872, much of the garden was occupied by two small raised pools, according to Mau. (Fig. 3) Attached to the west wall was a masonry pool 0.58 m. deep on the inside and 0.73 m. high on the outside. The other pool was to the south and there was a garden painting on the rear wall.
 
 ## Maps
 
@@ -78,6 +79,8 @@ NEW WAY ↓↓↓↓
 
 ## Images
 
+{{< figure src="../images/Fig_4_I.ii.17_10.13.59.jpg" alt="Fig. 3: I.ii.17; 10.13.59, S.A. Jashemski." title="Fig. 3: I.ii.17; 10.13.59, S.A. Jashemski
+(Rights Statement)." >}}
 
 ## Dates
 
@@ -85,10 +88,11 @@ unspecified
 
 ## Bibliography
 
-* Fiorelli, *Descr.*, p. 42. [(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol.II, p. 22.
+* Fiorelli, *Descr.*, p. 44. [(worldcat)](http://www.worldcat.org/oclc/908272023)
+* Jashemski, *Gardens*, vol.II, p. 23.
+* Mau, *BdI* (1874), pp. 264-265.
+* Niccolini, *Case*, vol. 2, “Descr. Gen.,” p. 76.
 * Viola, “*Scavi*” p. 12. [(worldcat)](http://www.worldcat.org/oclc/715087975)
-* Warscher, “Codex.”
 
 ### Periodo ID
 

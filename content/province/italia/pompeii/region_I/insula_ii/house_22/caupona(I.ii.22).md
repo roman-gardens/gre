@@ -1,6 +1,6 @@
 ---
-title: "I.ii.15"
-date: 2020-07-25T14:20:01-04:00
+title: "Caupona (I.ii.22)"
+date: 2020-07-26T15:51:32-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Unknown
@@ -44,20 +44,22 @@ categories:
 
 # House
 
-House 15
+House 10
 
 # Garden
 
-I.ii.15
+House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)
 
 ## Keywords
 
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  
-[impluvia](http://vocab.getty.edu/page/aat/300129867)  
+[amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)  
+[cauponae](http://vocab.getty.edu/page/aat/300005208)  
+[pillars](http://vocab.getty.edu/page/aat/300264605)  
+[porticoes](http://vocab.getty.edu/page/aat/300004145)  
 
 ## Garden Description
 
-This humble house was excavated in 1873. It had no garden but the *impluvium* was surrounded by a low masonry wall. The top contained a planting bed which served as a small garden.
+This *caupona* was excavated in 1873 but the reports offer insufficient details to determine if the open area had been planted. The room was entered directly from the street and the open area (a), had a portico on the north and east supported by one pillar. Fifteen *amphoras* with inscriptions were uncovered here.
 
 ## Maps
 
@@ -85,10 +87,12 @@ unspecified
 
 ## Bibliography
 
-* Fiorelli, *Descr.*, p. 42. [(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol.II, p. 22.
-* Viola, “*Scavi*” p. 12. [(worldcat)](http://www.worldcat.org/oclc/715087975)
-* Warscher, “Codex.”
+* Fiorelli, *Descr.*, p. 46. [(worldcat)](http://www.worldcat.org/oclc/908272023)
+* *GiornSc*, n.s., 3 (1874-1877), col. 47-48.
+* Jashemski, *Gardens*, vol.II, p. 24.
+* Mau, *BdI* (1874), p. 263.
+* Niccolini, *Case*, vol. 2, “Descr. Gen.,” p. 76.
+* Viola, “*Scavi*” p. 13. [(worldcat)](http://www.worldcat.org/oclc/715087975)
 
 ### Periodo ID
 
@@ -108,7 +112,7 @@ Unknown
 
 ## Publication date
 
-24 July 2020
+25 July 2020
 
 ## Related articles
 

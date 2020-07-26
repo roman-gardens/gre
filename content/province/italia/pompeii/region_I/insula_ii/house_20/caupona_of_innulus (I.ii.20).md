@@ -1,6 +1,6 @@
 ---
-title: "I.ii.15"
-date: 2020-07-25T14:20:01-04:00
+title: "Caupona of Innulus (I.ii.20)"
+date: 2020-07-26T15:39:04-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Unknown
@@ -44,20 +44,22 @@ categories:
 
 # House
 
-House 15
+House 20
 
 # Garden
 
-I.ii.15
+Caupona of Innulus (I.ii.20)
 
 ## Keywords
 
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  
-[impluvia](http://vocab.getty.edu/page/aat/300129867)  
+[cauponae](http://vocab.getty.edu/page/aat/300005208)    
+[biclinia](http://vocab.getty.edu/page/aat/300170371)   
+[lararia](http://vocab.getty.edu/page/aat/300400600)  
+[tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)  
 
 ## Garden Description
 
-This humble house was excavated in 1873. It had no garden but the *impluvium* was surrounded by a low masonry wall. The top contained a planting bed which served as a small garden.
+This small *caupona* had a garden (a) at the rear with a roofed passageway on the east and the south. It was excavated in 1873 and a masonry *biclinium* (*l.medius*, 2.65m.; *l.imus* 2.94 m.) with a round table (dia. 0.93 m.) was uncovered in the northwest corner and a niche *lararium* on the north garden wall.
 
 ## Maps
 
@@ -85,9 +87,14 @@ unspecified
 
 ## Bibliography
 
-* Fiorelli, *Descr.*, p. 42. [(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol.II, p. 22.
-* Viola, “*Scavi*” p. 12. [(worldcat)](http://www.worldcat.org/oclc/715087975)
+* Boyce, p. 23, no. 13.
+* Fiorelli, *Descr.*, p. 45. [(worldcat)](http://www.worldcat.org/oclc/908272023)
+* *GiornSc*, n.s., 3 (1874-1877), col. 47-48.
+* Jashemski, *Gardens*, vol.II, p. 24.
+* Mau, *BdI* (1874), p. 264.
+* Niccolini, *Case*, vol. 2, “Descr.," pg. 77.
+* Soprano, p.305, no. 24.
+* Viola, “*Scavi*” pp. 12-13. [(worldcat)](http://www.worldcat.org/oclc/715087975)
 * Warscher, “Codex.”
 
 ### Periodo ID
@@ -108,7 +115,7 @@ Unknown
 
 ## Publication date
 
-24 July 2020
+25 July 2020
 
 ## Related articles
 
