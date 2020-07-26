@@ -70,7 +70,7 @@ In front of the house to the south was a large area (17 x 37 m.), enclosed by a 
 ## Images
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+Original text mentioned a figure 2, which I take to be an image of the garden; renamed Image 1 in garden description.
 -->
 
 ## Dates
