@@ -17,6 +17,7 @@
 - [ ] Fix any quotes in `figure` attributes
 - [ ] Redo all pub dates as YMD
 - [ ] Implement [LOC Datetime format](https://www.loc.gov/standards/datetime/)
+- [ ] Add a keyword that means "hasInscription"
 
 # Article Punchlist
 
