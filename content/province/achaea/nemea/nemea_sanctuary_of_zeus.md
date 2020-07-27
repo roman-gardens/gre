@@ -1,6 +1,6 @@
 ---
-title: "Sanctuary of Mysian Demeter"
-date: 2020-07-26T12:41:28-04:00
+title: "Sanctuary of Zeus"
+date: 2020-07-27T08:51:34-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
@@ -22,8 +22,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 # Location
 
 
-[Pallene]({{<relref ".">}}) \
-[Pallene (Pleiades)](https://pleiades.stoa.org/places/580051)
+[Nemea]({{<relref ".">}}) \
+[Nemea (Pleiades)](https://pleiades.stoa.org/places/570504)
 
 
 ## Location Description
@@ -45,17 +45,18 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Sanctuary of Poseidon
+Sanctuary of Zeus
 
 ## Keywords
 
 [Pausanias](urn:cite:perseus:author.1054.1) \
 [orchards](http://vocab.getty.edu/page/aat/300008890) \
-[natural spring](#)
+[planting pits](#)
+
 
 ## Garden Description
 
-Pausanias described a grove of all kinds of trees with a natural spring sacred to Demeter near Pallene in the Argolid (7.27.9-10).  According to legend, the sanctuary was established by an Argive, Mysios.  An annual festival of Demeter took place here for the duration of seven days.  On the third day of that festival, the sacred rites were celebrated exclusively by female devotees.
+The grove of trees at the temple of Zeus is known through Pausanias’ description of it (2.15.2) and from archaeological excavations in the temple precinct.  Excavations in the 1970s uncovered 23 planting pits cut out of the living rock on the south side of the temple (Fig.1, gray circles on plan).  The pits were up to 2 m. in diameter and on average 65 cm. deep.  Some of the tree pits were cut in relatively straight alignment with each other, but the overall impression is one of a rather loose arrangement.  According to Pausanias, the trees were cypresses.  This was confirmed by the excavators who found carbonised remains of cypress wood at the bottom of the planting pits.  The archaeological context of the planting pits suggests that the trees were planted in the 5th or 4th century B.C., and indeed literary references of the late 5th century B.C. allude to them (Euripides, Hypsipyle, Prologue lines 99-104; preserved in a papyrus fragment of 2nd-3rd century A.D.).  Trees were obviously still standing in the 2nd century A.D. when Pausanias visited Nemea.
 
 ## Maps
 
@@ -70,14 +71,9 @@ NEW WAY ↓↓↓↓
 
 ## Plans
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
+{{< figure src="../../images/Nemea Zeus Temple and Grove Balloon Photo.tif" alt="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings. Adapted from Miller 1978, fig. 2." title="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings. Adapted from Miller 1978, fig. 2.
+" >}}
 
-NEW WAY ↓↓↓↓
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
--->
 
 ## Images
 
@@ -92,13 +88,12 @@ NEW WAY ↓↓↓↓
 
 ## Dates
 
-Pausanias [In the time of Pausanias]
+Trees were obviously still standing in the 2nd century A.D. when Pausanias visited Nemea.
 
 ## Bibliography
 
-<!--
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+* S. G. Miller, “Excavations at Nemea 1976,” Hesperia 46,1977: 9-11; S. G. Miller, “Excavations at Nemea 1977,” *Hesperia* 47, 1978:65; [(worldcat)](http://www.worldcat.org/oclc/5548962573)
+* D. E. Birge, L. H. Kraynak and S. G. Miller, Excavations at Nemea. *Topographical and Architectural Studies. The Sacred Square, the Xenon and the Bath.* Berkeley, 1992, pp. 85-96, figs. 1, 98-103. [(worldcat)](http://www.worldcat.org/oclc/929297744)
 
 ### Periodo ID
 
@@ -106,11 +101,11 @@ Pausanias [In the time of Pausanias]
 
 ### Pleiades ID
 
-[580051](https://pleiades.stoa.org/places/580051)
+[570504](https://pleiades.stoa.org/places/570504)
 
 ### TGN ID
 
-[7002739](http://vocab.getty.edu/page/tgn/7002739)
+[7220732](http://vocab.getty.edu/page/tgn/7220732)
 
 ## Contributor
 
@@ -118,7 +113,7 @@ Pausanias [In the time of Pausanias]
 
 ## Publication date
 
-26 July 2020
+27 July 2020
 
 ## Related articles
 

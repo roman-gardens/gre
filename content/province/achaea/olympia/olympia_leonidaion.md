@@ -1,6 +1,6 @@
 ---
-title: "Sanctuary of Mysian Demeter"
-date: 2020-07-26T12:41:28-04:00
+title: "Leonidaion"
+date: 2020-07-27T08:54:10-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
@@ -22,8 +22,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 # Location
 
 
-[Pallene]({{<relref ".">}}) \
-[Pallene (Pleiades)](https://pleiades.stoa.org/places/580051)
+[Olympia]({{<relref ".">}}) \
+[Olympia (Pleiades)](https://pleiades.stoa.org/places/570531)
 
 
 ## Location Description
@@ -45,17 +45,16 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 
-Sanctuary of Poseidon
+House of Nero
 
 ## Keywords
 
-[Pausanias](urn:cite:perseus:author.1054.1) \
-[orchards](http://vocab.getty.edu/page/aat/300008890) \
-[natural spring](#)
+[quatrefoils](http://vocab.getty.edu/page/aat/300009784)
+
 
 ## Garden Description
 
-Pausanias described a grove of all kinds of trees with a natural spring sacred to Demeter near Pallene in the Argolid (7.27.9-10).  According to legend, the sanctuary was established by an Argive, Mysios.  An annual festival of Demeter took place here for the duration of seven days.  On the third day of that festival, the sacred rites were celebrated exclusively by female devotees.
+This building southwest of the temple of Zeus was the largest guest house in the sanctuary at Olympia.  The original Leonidaion, a gift of Leonidas from Naxos, was built shortly after 338 B.C. with a central courtyard.  In the 2nd century A.D. the building was remodeled, and this courtyard was transformed into a veritable water garden (Fig. 2).  The garden consisted of an outer quatrefoil island surrounded by a water channel (stippled on plan), and in the middle of this island was another circular one around which ran a second water channel (stippled on plan).  On the quatrefoil island were planting beds (b on plan) in the middle of the four sides and sculptures in each of the rounded corners.  This island could be reached by a bridge spanning the outer channel on the north and south sides. The central circular island was not accessible by such bridges.  During the earthquake in the late 3rd century, the building was badly damaged and not rebuilt in this form.
 
 ## Maps
 
@@ -70,14 +69,10 @@ NEW WAY ↓↓↓↓
 
 ## Plans
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
 
-NEW WAY ↓↓↓↓
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
--->
+{{< figure src="../../images/EUR_ACH_Olympia_Leonidaion Fig 1.tif" alt="Fig. 2: Plan of the Leonidaion with its quatrefoil and circular gardens (white) and planting beds (b) surrounded by water channels (stippled) in the courtyard. Adapted from Mallwitz 1972, fig. 201.
+" title="Fig. 2: Plan of the Leonidaion with its quatrefoil and circular gardens (white) and planting beds (b) surrounded by water channels (stippled) in the courtyard. Adapted from Mallwitz 1972, fig. 201.
+" >}}
 
 ## Images
 
@@ -92,13 +87,13 @@ NEW WAY ↓↓↓↓
 
 ## Dates
 
-Pausanias [In the time of Pausanias]
+The original Leonidaion, a gift of Leonidas from Naxos, was built shortly after 338 B.C.
+In the 2nd century A.D. the building was remodeled
 
 ## Bibliography
 
-<!--
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+* A. Mallwitz, *Olympia und seine Bauten.* Munich,1972, pp. 276-277, fig. 230. [(worldcat)](http://www.worldcat.org/oclc/51584745)
+* R. Tölle-Kastenbein, *Antike Wasserkultur*. Munich, 1990, p. 192. [(worldcat)](http://www.worldcat.org/oclc/231090332)
 
 ### Periodo ID
 
@@ -106,11 +101,11 @@ Pausanias [In the time of Pausanias]
 
 ### Pleiades ID
 
-[580051](https://pleiades.stoa.org/places/580051)
+[570531](https://pleiades.stoa.org/places/570531)
 
 ### TGN ID
 
-[7002739](http://vocab.getty.edu/page/tgn/7002739)
+[7220732](http://vocab.getty.edu/page/tgn/7220732)
 
 ## Contributor
 
@@ -118,7 +113,7 @@ Pausanias [In the time of Pausanias]
 
 ## Publication date
 
-26 July 2020
+27 July 2020
 
 ## Related articles
 
