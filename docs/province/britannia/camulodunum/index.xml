@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gardens of the Roman Empire</title>
+    <link>https://christiancasey.github.io/gre/province/britannia/camulodunum/</link>
+    <description>Recent content on Gardens of the Roman Empire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jul 2020 16:47:36 -0400</lastBuildDate>
+    
+	<atom:link href="https://christiancasey.github.io/gre/province/britannia/camulodunum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Suburban Gardens in Camulodunum</title>
+      <link>https://christiancasey.github.io/gre/province/britannia/camulodunum/camulodunum_suburban_gardens/</link>
+      <pubDate>Mon, 06 Jul 2020 16:47:36 -0400</pubDate>
+      
+      <guid>https://christiancasey.github.io/gre/province/britannia/camulodunum/camulodunum_suburban_gardens/</guid>
+      <description>Province Britannia
+Province Description Location Camulodunum
+Camulodunum (Pleiades)
+Location Description Camulodunum began as an Iron Age settlement defended by dykes, a combination of V-shaped ditch and rampart created by the upcast earth. It extended from the Roman river on the south to the Colne on the north, a distance of some four kilometers. Within this larger area, a legionary fort was built after the Claudian conquest of Britain in AD 43.</description>
+    </item>
+    
+  </channel>
+</rss>

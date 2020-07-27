@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gardens of the Roman Empire</title>
+    <link>https://christiancasey.github.io/gre/province/achaea/eua/</link>
+    <description>Recent content on Gardens of the Roman Empire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jul 2020 14:24:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://christiancasey.github.io/gre/province/achaea/eua/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Villa of Herodes Atticus</title>
+      <link>https://christiancasey.github.io/gre/province/achaea/eua/villa_of_herodes_atticus/</link>
+      <pubDate>Mon, 20 Jul 2020 14:24:59 -0400</pubDate>
+      
+      <guid>https://christiancasey.github.io/gre/province/achaea/eua/villa_of_herodes_atticus/</guid>
+      <description>Province Achaea
+Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.</description>
+    </item>
+    
+  </channel>
+</rss>
