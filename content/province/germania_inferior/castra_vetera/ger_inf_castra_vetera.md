@@ -66,7 +66,7 @@ The partially excavated eastern villa was 78.50 m. wide and 109 m. in length. It
 
 ## Plans
 
-{{< figure src="../images/castra_vetera_plan1_EUR_GI_VetCas_Lh_carroll.jpg" alt="Plan 1. Plan of the western *praetorium* in the double legionary base with its long apsidal garden (G). Adapted from Lehner 1930, fig. 39. (Rights statement)." title="Plan 1. Plan of the western praetorium in the double legionary base with its long apsidal garden (G). Adapted from Lehner 1930, fig. 39. (Rights statement)." >}}
+{{< figure src="../images/castra_vetera_plan1_EUR_GI_VetCas_Lh_carroll.jpg" alt="Plan 1. Plan of the western *praetorium* in the double legionary base with its long apsidal garden (G). Adapted from Lehner 1930, fig. 39. (Rights statement)." title="Plan 1. Plan of the western *praetorium* in the double legionary base with its long apsidal garden (G). Adapted from Lehner 1930, fig. 39. (Rights statement)." >}}
 
 ## Images
 
@@ -105,4 +105,4 @@ Unspecified
 
 ## Related articles
 
-[The Houses of Insula 7 in Colonia Ulpia Traiana](({{<relref "./colonia_ulpia_xanten/colonia_xanten_insula7.md">}})) 
+[The Houses of Insula 7 in Colonia Ulpia Traiana](({{<relref "./colonia_ulpia_xanten/colonia_xanten_insula7.md">}}))
