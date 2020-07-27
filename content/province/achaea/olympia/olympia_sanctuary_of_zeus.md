@@ -1,6 +1,6 @@
 ---
-title: "Sanctuary of Ganymede or Hebe"
-date: 2020-07-26T12:41:58-04:00
+title: "Olympia_sanctuary_of_zeus"
+date: 2020-07-27T08:52:42-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
@@ -22,8 +22,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 # Location
 
 
-[Phigalia]({{<relref ".">}}) \
-[Arcadia (Pleiades)](https://pleiades.stoa.org/places/570102)
+[Olympia]({{<relref ".">}}) \
+[Olympia (Pleiades)](https://pleiades.stoa.org/places/570531)
 
 
 ## Location Description
@@ -32,7 +32,12 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Sublocation
 
-located above the acropolis
+<!--
+Regio IX
+
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
 
 ## Sublocation Description
 
@@ -40,7 +45,7 @@ located above the acropolis
 
 # Garden
 
-Sanctuary of Ganemede or Hebe
+Sanctuary of Zeus
 
 ## Keywords
 
@@ -50,7 +55,7 @@ Sanctuary of Ganemede or Hebe
 
 ## Garden Description
 
-The only indication that there was a garden at this sanctuary is a literary reference to a grove of cypress trees.  According to Pausanias (2.13.3), this ancient sanctuary in the northeastern Peloponnese was located above the acropolis.  The grove associated with the goddess Ganymede or Hebe was still in existence when Pausanias travelled to Phlious.  In honour of the goddess, a number of prisoners were pardoned every year, the fetters of those set free being hung on the trees in the grove.
+The extensive sanctuary at which Panhellenic athletic games took place, was situated on the Alpheus river in groves of trees of ancient date.  In early Greek mythology, the semi-divine Herakles was said to have planted trees in the sacred precinct, called the Altis, at Olympia (Pindar, Olympian Odes 3.13-18, 23-26, 31-34).  In the 2nd and 3rd centuries A.D., Roman visitors to the site could still see the groves of wild olives and plane trees (Pausanias 5.10.1, 5.13.1, 5.15.3; Philostratos, Imagines 2.6.1).  In the Roman period, imperial patronage and the resuscitation of the games prompted the erection of several new buildings along the banks of the Kladeos river, in particular guest houses, for the many visitors and tourists.
 
 ## Maps
 
@@ -65,14 +70,8 @@ NEW WAY ↓↓↓↓
 
 ## Plans
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
 
-NEW WAY ↓↓↓↓
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
--->
+
 
 ## Images
 
@@ -87,13 +86,11 @@ NEW WAY ↓↓↓↓
 
 ## Dates
 
-Pausanias [In the time of Pausanias]
+In the 2nd and 3rd centuries A.D., Roman visitors to the site could still see the groves of wild olives and plane trees
 
 ## Bibliography
 
-<!--
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
 
 ### Periodo ID
 
@@ -101,11 +98,11 @@ Pausanias [In the time of Pausanias]
 
 ### Pleiades ID
 
-[570102](https://pleiades.stoa.org/places/570102)
+[570531](https://pleiades.stoa.org/places/570531)
 
 ### TGN ID
 
-[5004240](http://vocab.getty.edu/page/tgn/5004240)
+[7220732](http://vocab.getty.edu/page/tgn/7220732)
 
 ## Contributor
 
@@ -113,7 +110,7 @@ Pausanias [In the time of Pausanias]
 
 ## Publication date
 
-26 July 2020
+27 July 2020
 
 ## Related articles
 

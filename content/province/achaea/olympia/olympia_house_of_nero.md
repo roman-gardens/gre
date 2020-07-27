@@ -1,6 +1,6 @@
 ---
-title: "Sanctuary of Ganymede or Hebe"
-date: 2020-07-26T12:41:58-04:00
+title: "House of Nero"
+date: 2020-07-27T08:53:14-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
@@ -22,8 +22,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 # Location
 
 
-[Phigalia]({{<relref ".">}}) \
-[Arcadia (Pleiades)](https://pleiades.stoa.org/places/570102)
+[Olympia]({{<relref ".">}}) \
+[Olympia (Pleiades)](https://pleiades.stoa.org/places/570531)
 
 
 ## Location Description
@@ -32,7 +32,12 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Sublocation
 
-located above the acropolis
+<!--
+Regio IX
+
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
 
 ## Sublocation Description
 
@@ -40,17 +45,17 @@ located above the acropolis
 
 # Garden
 
-Sanctuary of Ganemede or Hebe
+House of Nero
 
 ## Keywords
 
-[Pausanias](urn:cite:perseus:author.1054.1) \
-[orchards](http://vocab.getty.edu/page/aat/300008890) \
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
+[atriums](http://vocab.getty.edu/page/aat/300004097)
 
 
 ## Garden Description
 
-The only indication that there was a garden at this sanctuary is a literary reference to a grove of cypress trees.  According to Pausanias (2.13.3), this ancient sanctuary in the northeastern Peloponnese was located above the acropolis.  The grove associated with the goddess Ganymede or Hebe was still in existence when Pausanias travelled to Phlious.  In honour of the goddess, a number of prisoners were pardoned every year, the fetters of those set free being hung on the trees in the grove.
+This house was built at the time of, and possibly for, the emperor Nero, who, on several occasions in the mid-1st century A.D., performed personally in the games at Olympia.  To enable the construction of the building just south of the stadium, the earlier east baths were demolished.  The house had a peristyle courtyard (G on plan), measuring 14 x 17 m., that was reached after passing through the atrium in the west.  In the courtyard was a distinctive decorative feature (Fig. 1). This consisted of a water channel one meter wide around the edges of the courtyard that could only be crossed by a bridge on each of the four sides.  The lack of paving in the area encircled by the water channel suggests that the courtyard may have been planted.  The building was partially torn down in the early 3rd century to make way for a Roman bathhouse.
 
 ## Maps
 
@@ -65,14 +70,8 @@ NEW WAY ↓↓↓↓
 
 ## Plans
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
 
-NEW WAY ↓↓↓↓
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
--->
+{{< figure src="../../images/EUR_ACH_Olympia__House of Nero Fig 1.tif" alt="Fig. 1: Plan of the ‘House of Nero’ with its garden courtyard (G) and water channel (stippled). Adapted from Mallwitz 1972, fig. 167." title="Fig. 1: Plan of the ‘House of Nero’ with its garden courtyard (G) and water channel (stippled). Adapted from Mallwitz 1972, fig. 167." >}}
 
 ## Images
 
@@ -87,13 +86,11 @@ NEW WAY ↓↓↓↓
 
 ## Dates
 
-Pausanias [In the time of Pausanias]
+This house was built at the time of, and possibly for, the emperor Nero, who, on several occasions in the mid-1st century A.D., performed personally in the games at Olympia.
 
 ## Bibliography
 
-<!--
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+* A. Mallwitz, *Olympia und seine Bauten.* Munich,1972, pp. 276-277, fig. 230. [(worldcat)](http://www.worldcat.org/oclc/51584745)
 
 ### Periodo ID
 
@@ -101,11 +98,11 @@ Pausanias [In the time of Pausanias]
 
 ### Pleiades ID
 
-[570102](https://pleiades.stoa.org/places/570102)
+[570531](https://pleiades.stoa.org/places/570531)
 
 ### TGN ID
 
-[5004240](http://vocab.getty.edu/page/tgn/5004240)
+[7220732](http://vocab.getty.edu/page/tgn/7220732)
 
 ## Contributor
 
@@ -113,7 +110,7 @@ Pausanias [In the time of Pausanias]
 
 ## Publication date
 
-26 July 2020
+27 July 2020
 
 ## Related articles
 

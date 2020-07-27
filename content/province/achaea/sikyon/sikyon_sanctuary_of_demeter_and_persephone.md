@@ -45,7 +45,7 @@ Sanctuary of Ganemede or Hebe
 
 ## Keywords
 
-[Pausanias](https://www.britannica.com/biography/Pausanias-Greek-geographer) \
+[Pausanias](urn:cite:perseus:author.1054.1) \
 [orchards](http://vocab.getty.edu/page/aat/300008890) \
 
 

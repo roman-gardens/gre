@@ -1,6 +1,6 @@
 ---
-title: "Sanctuary of Ganymede or Hebe"
-date: 2020-07-26T12:41:58-04:00
+title: "Guest House_1"
+date: 2020-07-27T08:54:25-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
@@ -22,8 +22,8 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 # Location
 
 
-[Phigalia]({{<relref ".">}}) \
-[Arcadia (Pleiades)](https://pleiades.stoa.org/places/570102)
+[Olympia]({{<relref ".">}}) \
+[Olympia (Pleiades)](https://pleiades.stoa.org/places/570531)
 
 
 ## Location Description
@@ -32,7 +32,12 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Sublocation
 
-located above the acropolis
+<!--
+Regio IX
+
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
 
 ## Sublocation Description
 
@@ -40,17 +45,15 @@ located above the acropolis
 
 # Garden
 
-Sanctuary of Ganemede or Hebe
+Guest House I
 
 ## Keywords
 
-[Pausanias](urn:cite:perseus:author.1054.1) \
-[orchards](http://vocab.getty.edu/page/aat/300008890) \
-
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 ## Garden Description
 
-The only indication that there was a garden at this sanctuary is a literary reference to a grove of cypress trees.  According to Pausanias (2.13.3), this ancient sanctuary in the northeastern Peloponnese was located above the acropolis.  The grove associated with the goddess Ganymede or Hebe was still in existence when Pausanias travelled to Phlious.  In honour of the goddess, a number of prisoners were pardoned every year, the fetters of those set free being hung on the trees in the grove.
+A Roman guest house of the 2nd century A.D., so-called Guest House I, was erected southeast of the Roman Kladeos baths of ca. 100 A.D. (Fig. 3, A on plan).  The guest house had a peristyle courtyard with a water-filled channel surrounding a rectangular island.  The island may have been planted as a garden, since this area was not paved.  Around 220/230 A.D. the guest house was altered.  At this time, the building was given direct access through a corridor to the Kladeos baths.  The peristyle courtyard of the guest house also was reduced in size and paved with terracotta slabs (C on plan), suggesting that the garden was no longer maintained.
 
 ## Maps
 
@@ -65,14 +68,10 @@ NEW WAY ↓↓↓↓
 
 ## Plans
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
+{{< figure src="../../images/EUR_ACH_Nemea_Fig.1.tif" alt="Fig. 3: Plan of Guest House I (A) and Guest House II (B) with their courtyard gardens (G). The garden in Guest House I was later paved over (C). Adapted from Mallwitz 1972, fig. 230.
+" title="Fig. 3: Plan of Guest House I (A) and Guest House II (B) with their courtyard gardens (G). The garden in Guest House I was later paved over (C). Adapted from Mallwitz 1972, fig. 230.
+" >}}
 
-NEW WAY ↓↓↓↓
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
--->
 
 ## Images
 
@@ -87,13 +86,11 @@ NEW WAY ↓↓↓↓
 
 ## Dates
 
-Pausanias [In the time of Pausanias]
+A Roman guest house of the 2nd century A.D, Around 220/230 A.D. the guest house was altered
 
 ## Bibliography
 
-<!--
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+* A. Mallwitz, *Olympia und seine Bauten.* Munich,1972, pp. 276-277, fig. 230. [(worldcat)](http://www.worldcat.org/oclc/51584745)
 
 ### Periodo ID
 
@@ -101,11 +98,11 @@ Pausanias [In the time of Pausanias]
 
 ### Pleiades ID
 
-[570102](https://pleiades.stoa.org/places/570102)
+[570531](https://pleiades.stoa.org/places/570531)
 
 ### TGN ID
 
-[5004240](http://vocab.getty.edu/page/tgn/5004240)
+[7220732](http://vocab.getty.edu/page/tgn/7220732)
 
 ## Contributor
 
@@ -113,7 +110,7 @@ Pausanias [In the time of Pausanias]
 
 ## Publication date
 
-26 July 2020
+27 July 2020
 
 ## Related articles
 
