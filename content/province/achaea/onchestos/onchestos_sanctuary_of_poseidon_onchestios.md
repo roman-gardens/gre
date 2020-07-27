@@ -49,7 +49,7 @@ Sanctuary of Poseidon Onchestios
 
 ## Keywords
 
-[Pausanias](https://www.britannica.com/biography/Pausanias-Greek-geographer) \
+[Pausanias](urn:cite:perseus:author.1054.1) \
 [orchards](http://vocab.getty.edu/page/aat/300008890) \
 [shrine](http://vocab.getty.edu/page/aat/300007558)
 
