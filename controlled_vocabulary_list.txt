@@ -18,6 +18,7 @@ apsed triclinium
 [colonnades](http://vocab.getty.edu/page/aat/300002613)
 [corridors](http://vocab.getty.edu/page/aat/300004294)
 [courtyards](http://vocab.getty.edu/page/aat/300004095)
+[ditches](http://vocab.getty.edu/page/aat/300006178)
 [drains](http://vocab.getty.edu/page/aat/300052564)
 [domus](http://vocab.getty.edu/page/aat/300005506)
 [epitaphs](http://vocab.getty.edu/page/aat/300028729)
