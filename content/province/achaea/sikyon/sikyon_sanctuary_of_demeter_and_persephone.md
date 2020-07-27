@@ -1,5 +1,4 @@
 ---
-2020-07-26T12:42:56-04:00
 title: "Sanctuary of Demeter and Persephone"
 date: 2020-07-26T12:42:23-04:00
 article_id: ARTICLE_ID

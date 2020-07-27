@@ -22,6 +22,7 @@ Province Description Location Winden Am See Winden Am See (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Winden Am See
 Keywords corridors
 rural villas
+vestibules
 villae rusticae
 Garden Description The modest house of this villa rustica is of the so-called corridor type, a type common in the region and already seen at Carnuntum (Fig. 1). It was built around 100 A.D. and occupied until the 4th century.</description>
     </item>
@@ -39,6 +40,7 @@ Location Description Sublocation Sublocation Description Garden Tomb Garden of I
 Keywords epitaphs
 stelae
 tombs
+viridarium
 Garden Description A limestone funerary stele of probably third century date unearthed in 1973 near Scarbantia at Winder am See (Burgenland) and now in the Burgenländische Landesmuseum at Eisenstadt records an epitaph set up by Septimius Alcides, a veteran of the legio XIII Gemina Iulia, for his wife, Iul(ia) Victorin(a), dead at thirty, for whom he built at his own expense a funerary pleasure garden (viridarium).</description>
     </item>
     
@@ -90,6 +92,7 @@ Location Description The town of Carnuntum on the Danube River, like Aquincum, w
 Sublocation Sublocation Description Garden Urban Houses in Carnuntum
 Keywords arcades (structural assemblies)
 corridors
+vestibules
 Garden Description The regional house type found often in Pannonia, the so-called corridor house, is characterized by a vestibule or arcade on its narrow front and a central corridor running the length of the house, separating it into two parts.</description>
     </item>
     
@@ -117,16 +120,6 @@ Garden Description Very few houses of Mediterranean type have been discovered, a
       <pubDate>Mon, 20 Jul 2020 14:24:59 -0400</pubDate>
       
       <guid>https://christiancasey.github.io/gre/province/achaea/eua/villa_of_herodes_atticus/</guid>
-      <description>Province Achaea
-Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.</description>
-    </item>
-    
-    <item>
-      <title>Sanctuary of Hyrnetho</title>
-      <link>https://christiancasey.github.io/gre/province/achaea/epidauros/sanctuary_of_hyrnetho/</link>
-      <pubDate>Mon, 20 Jul 2020 14:20:31 -0400</pubDate>
-      
-      <guid>https://christiancasey.github.io/gre/province/achaea/epidauros/sanctuary_of_hyrnetho/</guid>
       <description>Province Achaea
 Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.</description>
     </item>
@@ -779,37 +772,6 @@ Keywords colonnades
 palaces
 piscinae
 Garden Description Fishbourne Roman Palace was accidentally discovered during the digging of a water main trench in 1960. The discovery led to nine seasons of excavations (1961-69) that showed the site had developed from a military base at the time of the Roman invasion in AD 43 to a sumptuous palace by the end of the first century CE.</description>
-    </item>
-    
-    <item>
-      <title>Atrium House</title>
-      <link>https://christiancasey.github.io/gre/province/germania_inferior/cologne/colonia_cologne_atrium/</link>
-      <pubDate>Thu, 09 Jul 2020 07:38:05 -0700</pubDate>
-      
-      <guid>https://christiancasey.github.io/gre/province/germania_inferior/cologne/colonia_cologne_atrium/</guid>
-      <description>Province Germania inferior
-Location Cologne
-Cologne (Pleiades)
-Location Description This large town on the west bank of the Rhine river was the civitas capital of the Ubii in the first half of the 1st century A.D. It was granted the status of colonia by Claudius in 50 and became the provincial capital in 85.
-Sublocation Sublocation Description Garden Atrium House (Colonia Claudia Ara Agrippinensium)
-Keywords urban villas
-villae urbanae
-atrium houses</description>
-    </item>
-    
-    <item>
-      <title>House of Dionyius</title>
-      <link>https://christiancasey.github.io/gre/province/germania_inferior/cologne/colonia_cologne_dionysius/</link>
-      <pubDate>Wed, 08 Jul 2020 20:22:59 -0700</pubDate>
-      
-      <guid>https://christiancasey.github.io/gre/province/germania_inferior/cologne/colonia_cologne_dionysius/</guid>
-      <description>Province Germania inferior
-Location Cologne
-Cologne (Pleiades)
-Location Description This large town on the west bank of the Rhine river was the civitas capital of the Ubii in the first half of the 1st century A.D. It was granted the status of colonia by Claudius in 50 and became the provincial capital in 85.
-Sublocation Sublocation Description Garden House of Dionysius (Colonia Claudia Ara Agrippinensium)
-Keywords urban villas
-villae urbanae</description>
     </item>
     
     <item>

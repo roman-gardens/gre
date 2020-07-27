@@ -118,17 +118,6 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/achaea/epidauros/</loc>
-    <lastmod>2020-07-20T14:20:31-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/achaea/epidauros/sanctuary_of_hyrnetho/</loc>
-    <lastmod>2020-07-20T14:20:31-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/athens/</loc>
     <lastmod>2020-07-20T11:34:30-04:00</lastmod>
     <priority>0</priority>
@@ -590,16 +579,6 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/germania_inferior/cologne/colonia_cologne_atrium/</loc>
-    <lastmod>2020-07-09T07:38:05-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/germania_inferior/cologne/colonia_cologne_dionysius/</loc>
-    <lastmod>2020-07-08T20:22:59-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/about/</loc>
     <lastmod>2020-07-08T18:12:37-04:00</lastmod>
   </url>
@@ -716,12 +695,12 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/germania_inferior/images/</loc>
+    <loc>https://christiancasey.github.io/gre/province/germania_inferior/niederzier-hambach/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/germania_inferior/niederzier_hambach/</loc>
+    <loc>https://christiancasey.github.io/gre/province/germania_inferior/niederzier-hambach/images/</loc>
     <priority>0</priority>
   </url>
   
