@@ -1,6 +1,6 @@
 ---
-title: "Caupona of Innulus (I.ii.20)"
-date: 2020-07-26T15:39:04-04:00
+title: "Caupona; Officina Libraria (I.ii.24)"
+date: 2020-07-27T10:02:09-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Unknown
@@ -44,22 +44,28 @@ categories:
 
 # House
 
-House 20
+House 24
 
 # Garden
 
-Caupona of Innulus (I.ii.20)
+Caupona; Officina Libraria (I.ii.24)
 
 ## Keywords
 
-[cauponae](http://vocab.getty.edu/page/aat/300005208)    
-[biclinia](http://vocab.getty.edu/page/aat/300170371)   
+[aedicules](http://vocab.getty.edu/page/aat/300002574)  
+[atriums](http://vocab.getty.edu/page/aat/300004097)  
+[barrier walls](http://vocab.getty.edu/page/aat/300419302)  
+[cauponae](http://vocab.getty.edu/page/aat/300005208)  
+[flowerpots](http://vocab.getty.edu/page/aat/300194749)  
 [lararia](http://vocab.getty.edu/page/aat/300400600)  
+[podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)  
+[porticoes](http://vocab.getty.edu/page/aat/300004145)  
 [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)  
+[triclinia](http://vocab.getty.edu/page/aat/300004359)  
 
 ## Garden Description
 
-This small *caupona* had a garden (a) at the rear with a roofed passageway on the east and the south. It was excavated in 1873 and a masonry *biclinium* (*l.medius*, 2.65m.; *l.imus* 2.94 m.) with a round table (dia. 0.93 m.) was uncovered in the northwest corner and a niche *lararium* on the north garden wall.
+The garden (a) east of the *atrium* had a *portico* extending along the south and part of the west sides. A low wall (0.52 m. high) connected the columns and an entrance to the garden was located on the west. In 1873 the *caupona* was excavated. The garden contained a masonry *triclinium* (*l.medius*, 3.85 m.; *l.summus* and *l.imus*, 3.20 m.) with a table. The badly damaged *triclinium* revealed the *amphoras* used in its construction. A low podium along the north wall was thought by Fiorelli to have held flower pots. Mau reported a drainage channel at the corner of the *triclinium* formed by the *l.meduis* and the *l.summus*, although it is no longer evident. The base of an *aedicula* *lararium* remains against the east wall opposite the north end of the east couch.
 
 ## Maps
 
@@ -87,15 +93,18 @@ unspecified
 
 ## Bibliography
 
-* Boyce, p. 23, no. 13.
-* Fiorelli, *Descr.*, p. 45. [(worldcat)](http://www.worldcat.org/oclc/908272023)
-* *GiornSc*, n.s., 3 (1874-1877), col. 47-48.
-* Jashemski, *Gardens*, vol.II, p. 24.
-* Mau, *BdI* (1874), p. 264.
-* Niccolini, *Case*, vol. 2, “Descr.," pg. 77.
-* Soprano, p.305, no. 24.
-* Viola, “*Scavi*” pp. 12-13. [(worldcat)](http://www.worldcat.org/oclc/715087975)
-* Warscher, “Codex.”
+* Boyce, p. 23, no. 17.
+* Fiorelli, *Descr.*, p. 47. [(worldcat)](http://www.worldcat.org/oclc/908272023)
+* *GiornSc*, n.s., 3 (1874-1877), col. 60.
+* Jashemski, *Gardens*, 1:179.
+* Jashemski, *Gardens*, vol.II, p. 25.
+* Mau, *BdI* (1874), p. 245.
+* Ibid., (1874), pp. 253-256, 262-263.
+* Mau-Kelsey, p. 404.
+* Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 77.
+* Soprano, pp. 292-293, no. 1.
+* Viola, “*Scavi*” p. 13. [(worldcat)](http://www.worldcat.org/oclc/715087975)
+* Warscher, “Codex.” photo no. 32.
 
 ### Periodo ID
 
@@ -115,7 +124,7 @@ Unknown
 
 ## Publication date
 
-26 July 2020
+27 July 2020
 
 ## Related articles
 
