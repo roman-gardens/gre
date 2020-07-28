@@ -93,4 +93,4 @@ Middle of the first century CE until the fourth century CE
 
 ## Related articles
 
-[House of Dionysos (Colonia Claudia Ara Agrippinensium)]({{<ref "colonia_cologne_dionysius.md">}})
+[House of Dionysos (Colonia Claudia Ara Agrippinensium)]({{<relref "colonia_cologne_dionysius.md">}})
