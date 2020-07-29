@@ -50,7 +50,7 @@ Sanctuary of Zeus
 ## Keywords
 
 [Pausanias](urn:cite:perseus:author.1054.1) \
-[orchards](http://vocab.getty.edu/page/aat/300008890) \
+[orchards](http://vocab.getty.edu/page/aat/300008890)
 
 
 ## Garden Description
