@@ -52,10 +52,9 @@ I.ii.16
 
 ## Keywords
 
-[aedicules](http://vocab.getty.edu/page/aat/300002574)  
+aedicula lararium
 [barrier walls](http://vocab.getty.edu/page/aat/300419302)  
 [fountains](http://vocab.getty.edu/page/aat/300006179)  
-[lararia](http://vocab.getty.edu/page/aat/300400600)   
 [pillars](http://vocab.getty.edu/page/aat/300264605)  
 [podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)  
 [porticoes](http://vocab.getty.edu/page/aat/300004145)  
@@ -64,7 +63,7 @@ puteal
 
 ## Garden Description
 
-This house was excavated in 1873. The entranceway led directly to the portico which enclosed the garden on the north and east. In the northwest corner of the portico a masonry *aedicula* *lararium* formed an arched niche on top of a solid podium. A low wall connected the columns and pillars of the portico. There was an entrance to the garden on the east side and a gutter along the east and north edges of the garden. A terra-cotta statuette of a seated old man holding a scroll in his right hand and wearing a short sleeved tunic (0.60 m. high; Mus. Naz. Inv. No. 109 622; Ruesh no. 453) served as a fountain. This statue has been variously identified, but most likely was the Greek philosopher Antisthenes (ca. 445-360), a devoted follower of Socrates. A terra-cotta *puteal* was also found in the garden.
+This house was excavated in 1873. The entranceway led directly to the portico which enclosed the garden on the north and east. In the northwest corner of the portico a masonry *aedicula lararium* formed an arched niche on top of a solid podium. A low wall connected the columns and pillars of the portico. There was an entrance to the garden on the east side and a gutter along the east and north edges of the garden. A terra-cotta statuette of a seated old man holding a scroll in his right hand and wearing a short sleeved tunic (0.60 m. high; Mus. Naz. Inv. No. 109 622; Ruesh no. 453) served as a fountain. This statue has been variously identified, but most likely was the Greek philosopher Antisthenes (ca. 445-360), a devoted follower of Socrates. A terra-cotta *puteal* was also found in the garden.
 
 ## Maps
 
@@ -81,7 +80,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Fig_2_Region_I_insula_ii.tif" alt="Fig. 2 : Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2 : Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
+{{< figure src="../images/Fig_2_Region_I_insula_ii.tif" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
 
 ## Images
 

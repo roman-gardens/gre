@@ -55,3 +55,44 @@
 - [ ] germania_superior
 - [ ] macedonia
 - [ ] pannonia
+
+# Pompeii Notes/Issues
+
+- Titles (I.ii.10). Right now if a location doesn't have a specific name, using the I.ii.10 ID.
+- [ ] Artifacts: TBD on how to note
+- [x] Green (additions to entries?). What to do?
+- [ ] Add span style color families to new green parts of entries.
+- [ ] Someone should relook over the bibs to see if they know what book the author is referring to, as I can't figure it out with just an author last name.
+- [ ] Authors and dates are usually absent from these entries. Is this something we should ask from the editorial team?
+- [ ] Insula relref I don't know if we want these, but if we do the way I have them are probably wrong.
+- [ ] Image PATHs might need modifying.
+- [ ] Note to self: relook over entries and add [statue] keyword.
+- [x] Note if it has literary evidence/artifacts.
+- [ ] Issue: I have found a entry that is House of Epidius Fortunatus (I.iii.3) and another that is I.iii.3. If there is a distinction, should we make it clearer?
+- [x] *Aedicula lararium* added as one keyword merged from the two currently listed.
+
+# Pompeii Entries that Have...
+
+## Inscriptions/Graffiti
+
+- I.ii.6
+- Caupona (I.ii.22): Fifteen *amphoras* with inscriptions.
+
+## Artifacts
+
+- I.ii.16 (A terra-cotta statuette of a seated old man holding a scroll in his right hand and wearing a short sleeved tunic (0.60 m. high; Mus. Naz. Inv. No. 109 622; Ruesh no. 453) served as a fountain)
+- I.ii.17
+  - a marble statuette of Venus, her left arm supported by a statuette (1.04 m. high; Mus Naz. inv. no. 109 608; Ruesch no. 1325).
+  - Two small marble statuettes of toads (Mus. Nac. inv. no. 109 609, 109 610).
+  - the one of two doves (Mus. Naz. inv. no. 120 407) found in the tablinum.
+  - a marble head of a man identified as Agrippa, found cemented in a cup (total height 0.285 m.; Mus. Nac. inv. no. 109 611; Reusch no. 1081).
+  - The marble statuette of Hercules wrapped in a lion skin (0.70 m. high; Mus. Nac. inv. no. 109 677).
+- I.iii.23 (famous painting depicting the battle between the Nucerians and the Pompeians in the ampitheator (1.60 m. high by a little less than 2.00 m. wide; Mus. Naz. Inv. No. 112 222; Ruesch no. 1344))
+- I.iii.25 A
+  - a small marble head of Bacchus from a herm (Mus. Naz. inv. no. 110 653)
+  - a small marble ram (Mus. Naz. inv. no. 120 357)
+
+## Literary Evidence
+
+- Note: most entries reference authors listed as sources in the bib but aren't someone from Pompeii, rather historians/archaeologists.
+- I.iii.23: Tacitus recorded the events portrayed in the painting.
