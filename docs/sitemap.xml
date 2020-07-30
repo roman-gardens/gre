@@ -4,8 +4,58 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/</loc>
-    <lastmod>2020-07-22T10:17:25-04:00</lastmod>
+    <lastmod>2020-07-23T16:14:15-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/</loc>
+    <lastmod>2020-07-23T16:14:15-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/</loc>
+    <lastmod>2020-07-23T16:14:15-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/</loc>
+    <lastmod>2020-07-23T16:14:15-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/</loc>
+    <lastmod>2020-07-23T16:14:15-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_3/</loc>
+    <lastmod>2020-07-23T16:14:15-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/categories/</loc>
+    <lastmod>2020-07-23T16:14:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/</loc>
+    <lastmod>2020-07-23T16:14:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_3/i.ii.3/</loc>
+    <lastmod>2020-07-23T16:14:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/categories/italia/</loc>
+    <lastmod>2020-07-23T16:14:15-04:00</lastmod>
   </url>
   
   <url>
@@ -18,16 +68,6 @@
     <loc>https://christiancasey.github.io/gre/province/pannonia/winden_am_see/</loc>
     <lastmod>2020-07-22T10:17:25-04:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/categories/</loc>
-    <lastmod>2020-07-22T10:17:25-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/</loc>
-    <lastmod>2020-07-22T10:17:25-04:00</lastmod>
   </url>
   
   <url>
@@ -1025,27 +1065,7 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/italia/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/images/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/</loc>
     <priority>0</priority>
   </url>
   
@@ -1101,11 +1121,6 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_28/images/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_3/</loc>
     <priority>0</priority>
   </url>
   
