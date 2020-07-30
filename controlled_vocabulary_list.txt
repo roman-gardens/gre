@@ -1,6 +1,7 @@
 [aedicules](http://vocab.getty.edu/page/aat/300002574)
 [alleys (streets)](http://vocab.getty.edu/page/aat/300008248)
 [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
+amorini
 [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
 apsed pools
 apsed triclinium
@@ -12,8 +13,10 @@ apsed triclinium
 [axial plan](http://vocab.getty.edu/page/aat/300121971)
 [barrier walls](http://vocab.getty.edu/page/aat/300419302)
 [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+[bas-reliefs (sculpture)](http://vocab.getty.edu/page/aat/300184633)
 [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
 [biclinia](http://vocab.getty.edu/page/aat/300170371)
+[busts (sculpture)](http://vocab.getty.edu/page/aat/300417950)
 [castra](http://vocab.getty.edu/page/aat/300008440)
 [cauponae](http://vocab.getty.edu/page/aat/300005208)
 [ceramic tile](http://vocab.getty.edu/page/aat/300010678)
