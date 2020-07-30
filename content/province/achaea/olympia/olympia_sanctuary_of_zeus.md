@@ -1,5 +1,5 @@
 ---
-title: "Olympia_sanctuary_of_zeus"
+title: "Sanctuary of Zeus"
 date: 2020-07-27T08:52:42-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -50,7 +50,7 @@ Sanctuary of Zeus
 ## Keywords
 
 [Pausanias](urn:cite:perseus:author.1054.1) \
-[orchards](http://vocab.getty.edu/page/aat/300008890) \
+[orchards](http://vocab.getty.edu/page/aat/300008890)
 
 
 ## Garden Description

@@ -1,5 +1,5 @@
 ---
-title: "Guest House_1"
+title: "Guest House 1"
 date: 2020-07-27T08:54:25-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll

@@ -47,7 +47,7 @@ The Circus of Roman Corinth
 ## Keywords
 
 [circus](http://vocab.getty.edu/page/aat/300007255) \
-[spinae]() \
+[spinae](#) \
 [amphorae](http://vocab.getty.edu/page/aat/300148696) \
 [mosaic](http://vocab.getty.edu/page/aat/300015342)
 
