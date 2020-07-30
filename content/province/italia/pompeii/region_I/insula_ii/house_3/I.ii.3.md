@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Unknown
 editor: June Dorsch
-draft: true
+draft: false
 
 categories:
  - "Italia"
@@ -32,7 +32,7 @@ categories:
 
 # Sublocation
 
-[Region I]({{<relref ".">}}) \
+[Region I]({{<relref ".">}})
 
 ## Sublocation Description
 
@@ -40,7 +40,7 @@ categories:
 
 # Insula
 
-[Insula ii]({{<relref ".">}}) \
+[Insula ii]({{<relref ".">}})
 
 # House
 
