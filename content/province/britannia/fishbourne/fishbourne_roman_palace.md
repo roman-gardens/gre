@@ -46,15 +46,21 @@ Roman Palace in Fishbourne
 
 ## Keywords
 
+archaeological garden \
+[basins (vessels)](http://vocab.getty.edu/page/aat/300045614) \
 [colonnades](http://vocab.getty.edu/page/aat/300002613) \
+[loam](http://vocab.getty.edu/page/aat/300014335) \
 [palaces](http://vocab.getty.edu/page/aat/300005734) \
-[piscinae](http://vocab.getty.edu/page/aat/300375619)
+[piscinae](http://vocab.getty.edu/page/aat/300375619) \
+[presence chambers](http://vocab.getty.edu/page/aat/300004445) \
+[terrace gardens](http://vocab.getty.edu/page/aat/300404778) \
+[vegetable gardens](http://vocab.getty.edu/page/aat/300008142)
 
 ## Garden Description
 
 Fishbourne Roman Palace was accidentally discovered during the digging of a water main trench in 1960. The discovery led to nine seasons of excavations (1961-69) that showed the site had developed from a military base at the time of the Roman invasion in AD 43 to a sumptuous palace by the end of the first century CE. Carefully excavated by Barry Cunliffe, using techniques of environmental archaeology, the garden excavations at the palace have long served as a model in the development of Roman garden archaeology, although the findings did not initially prompt the investigation of other gardens in Britain. Today the site has been developed for display and education.
 
-The palace contains gardens within its internal courtyards, as well in a larger area to the south, where terraces and other landscape architectural features lay between the residence and the deep water channel (Fig 1.). Themain garden of the palace is located in the large central courtyard, and dates to the late 1st century CE. Only the northern half has been excavated, while the remainder lies beneath the gardens of adjacent houses. The garden is bisected by a wide path leading between the entrance to the villa and a large audience hall. Lining the path, bedding trenches in alternating rectangular and semi-circular patterns survived as patterns of dark gray loam against an ochre-colored clay and gravel subsoil. Similar cuttings were found along the colonnades.
+The palace contains gardens within its internal courtyards, as well in a larger area to the south, where terraces and other landscape architectural features lay between the residence and the deep water channel (Fig 1.). The main garden of the palace is located in the large central courtyard, and dates to the late 1st century CE. Only the northern half has been excavated, while the remainder lies beneath the gardens of adjacent houses. The garden is bisected by a wide path leading between the entrance to the villa and a large audience hall. Lining the path, bedding trenches in alternating rectangular and semi-circular patterns survived as patterns of dark gray loam against an ochre-colored clay and gravel subsoil. Similar cuttings were found along the colonnades.
 
 Pollen samples were taken in the garden areas in the hope that traces of pollen had survived from flowers and shrubs that had grown in the garden. Unfortunately, only a small quantity of pollen from weeds of cultivation, such as plantain and daisy, remained. As no positive archaeobotanical evidence for specific plants survived on site, literary sources were used to select plants that would have survived in the conditions of this northern province. Pliny the Younger refers to clipped box lining the edges of the pathways in the gardens of his Tuscan estate. This lime-loving shrub would have been very appropriate in the deliberately marled loam of these trenches, so, in 1968, it was planted and has thrived. Figure 2 shows the excavated trenches, and figure 3 shows the replanted box.
 
@@ -85,6 +91,10 @@ Limited excavations to the south of the palace revealed an artificial terrace wh
 ## Dates
 
 Late 1st century CE - unspecified
+
+### Excavation Dates
+
+1961-69, mid 1980s
 
 ## Bibliography
 

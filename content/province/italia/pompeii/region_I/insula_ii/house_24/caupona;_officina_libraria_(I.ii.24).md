@@ -32,7 +32,7 @@ categories:
 
 # Sublocation
 
-[Region I]({{<relref ".">}}) \
+[Region I]({{<relref ".">}})
 
 ## Sublocation Description
 
@@ -40,7 +40,7 @@ categories:
 
 # Insula
 
-[Insula ii]({{<relref ".">}}) \
+[Insula ii]({{<relref ".">}})
 
 # House
 
@@ -52,14 +52,15 @@ Caupona; Officina Libraria (I.ii.24)
 
 ## Keywords
 
-aedicula lararium
-[atriums](http://vocab.getty.edu/page/aat/300004097)  
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  
-[cauponae](http://vocab.getty.edu/page/aat/300005208)  
-[flowerpots](http://vocab.getty.edu/page/aat/300194749)    
-[podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)  
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  
-[tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)  
+aedicula lararium \
+archaeological garden \
+[atriums](http://vocab.getty.edu/page/aat/300004097) \
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+[cauponae](http://vocab.getty.edu/page/aat/300005208) \
+[flowerpots](http://vocab.getty.edu/page/aat/300194749) \
+[podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
+[tables (support furniture)](http://vocab.getty.edu/page/aat/300039548) \
 [triclinia](http://vocab.getty.edu/page/aat/300004359)  
 
 ## Garden Description
@@ -89,6 +90,10 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 unspecified
+
+### Excavation dates
+
+1873
 
 ## Bibliography
 

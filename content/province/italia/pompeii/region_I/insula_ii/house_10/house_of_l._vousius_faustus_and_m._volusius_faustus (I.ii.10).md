@@ -32,7 +32,7 @@ categories:
 
 # Sublocation
 
-[Region I]({{<relref ".">}}) \
+[Region I]({{<relref ".">}})
 
 ## Sublocation Description
 
@@ -40,7 +40,7 @@ categories:
 
 # Insula
 
-[Insula ii]({{<relref ".">}}) \
+[Insula ii]({{<relref ".">}})
 
 # House
 
@@ -52,13 +52,14 @@ House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)
 
 ## Keywords
 
-[aedicules](http://vocab.getty.edu/page/aat/300002574)  
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  
-[biclinia](http://vocab.getty.edu/page/aat/300170371)   
-[drains](http://vocab.getty.edu/page/aat/300052564)  
-[lararia](http://vocab.getty.edu/page/aat/300400600)  
-[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)  
-[piscinae]( http://vocab.getty.edu/page/aat/300375619)  
+[aedicules](http://vocab.getty.edu/page/aat/300002574) \
+archaeological garden \
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+[biclinia](http://vocab.getty.edu/page/aat/300170371) \
+[drains](http://vocab.getty.edu/page/aat/300052564) \
+[lararia](http://vocab.getty.edu/page/aat/300400600) \
+[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
+[piscinae]( http://vocab.getty.edu/page/aat/300375619) \
 [triclinia](http://vocab.getty.edu/page/aat/300004359)  
 
 ## Garden Description
@@ -93,6 +94,10 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 unspecified
+
+### Excavation Dates
+
+1873
 
 ## Bibliography
 

@@ -44,8 +44,12 @@ Rural Villa in Chedworth
 
 ## Keywords
 
+archaeological garden \
+animal bone \
 [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347) \
+[drains](http://vocab.getty.edu/page/aat/300052564) \
 [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
+rural villas \
 [sherds](http://vocab.getty.edu/page/aat/300117132) \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
 
@@ -66,6 +70,10 @@ Parts of the villa may date to the early 3rd century A.D. at the latest, but ext
 ## Dates
 
 Early 4th century - unspecified
+
+### Excavation Dates
+
+Late 19th century, 2000-2002
 
 ## Bibliography
 

@@ -46,8 +46,11 @@ Large Building north of Forum in Arae Flaviae
 
 ## Keywords
 
+archaeological garden \
 [colonnades](http://vocab.getty.edu/page/aat/300002613) \
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+[corridors](http://vocab.getty.edu/page/aat/300004294) \
+[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
+[vestibules](http://vocab.getty.edu/page/aat/300083076)
 
 ## Garden Description
 

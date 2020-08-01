@@ -57,6 +57,7 @@ Structures under the Collège Lumière in Vesontio
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
 [piscinae](http://vocab.getty.edu/page/aat/300375619) \
 [porticoes](http://vocab.getty.edu/page/aat/300004145) \
+[reception rooms](http://vocab.getty.edu/page/aat/300077176) \
 [rinceaux](http://vocab.getty.edu/page/aat/300165495) \
 [terrazzo](http://vocab.getty.edu/page/aat/300011696)
 
@@ -93,6 +94,10 @@ A fragment of a little ornamental stone *krater* was found in the material that 
 ## Dates
 
 Gardens: Beginning and last third of second century
+
+### Excavation Dates
+
+2004
 
 ## Bibliography
 

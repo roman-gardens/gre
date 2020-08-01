@@ -44,8 +44,10 @@ Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion in Romula
 
 ## Keywords
 
-[tombs](http://vocab.getty.edu/page/aat/300005926)  
-[epitaphs](http://vocab.getty.edu/page/aat/300028729)
+[epitaphs](http://vocab.getty.edu/page/aat/300028729) \
+inscription \
+literary garden \
+[tombs](http://vocab.getty.edu/page/aat/300005926)
 
 ## Garden Description
 
@@ -72,6 +74,10 @@ A slab unearthed near Resça (Romula), Romania, in 1954 records a verse epitaph 
 ## Dates
 
 Later second century/third century
+
+### Excavation Dates
+
+1954
 
 ## Bibliography
 

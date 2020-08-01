@@ -52,14 +52,15 @@ House of Epidius Fortunatus (I.iii.3)
 
 ## Keywords
 
-[aqueducts](http://vocab.getty.edu/page/aat/300006165)  /
-[basins (vessels)](http://vocab.getty.edu/page/aat/300045614)  /
-[gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)  /
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)  /
-[podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)  /
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  /
-puteal  /
-[tablina](http://vocab.getty.edu/page/aat/300004180)  /
+archaeological garden \
+[aqueducts](http://vocab.getty.edu/page/aat/300006165) \
+[basins (vessels)](http://vocab.getty.edu/page/aat/300045614) \
+[gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565) \
+[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
+[podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
+puteal \
+[tablina](http://vocab.getty.edu/page/aat/300004180) \
 [tufa](http://vocab.getty.edu/page/aat/300011712)  
 
 ## Garden Description

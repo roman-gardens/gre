@@ -32,7 +32,7 @@ categories:
 
 # Sublocation
 
-[Region I]({{<relref ".">}}) \
+[Region I]({{<relref ".">}})
 
 ## Sublocation Description
 
@@ -40,7 +40,7 @@ categories:
 
 # Insula
 
-[Insula ii]({{<relref ".">}}) \
+[Insula ii]({{<relref ".">}})
 
 # House
 
@@ -52,9 +52,10 @@ House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)
 
 ## Keywords
 
-[amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)  
-[cauponae](http://vocab.getty.edu/page/aat/300005208)  
-[pillars](http://vocab.getty.edu/page/aat/300264605)  
+[amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696) \
+archaeological garden \
+[cauponae](http://vocab.getty.edu/page/aat/300005208) \
+[pillars](http://vocab.getty.edu/page/aat/300264605) \
 [porticoes](http://vocab.getty.edu/page/aat/300004145)  
 
 ## Garden Description
@@ -84,6 +85,10 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 unspecified
+
+### Excavation dates
+
+1873
 
 ## Bibliography
 

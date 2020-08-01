@@ -45,6 +45,7 @@ Rural Villa in Gorhambury
 ## Keywords
 
 [arbors](http://vocab.getty.edu/page/aat/300006781) \
+archaeological garden \
 [axial plan](http://vocab.getty.edu/page/aat/300121971) \
 [loam](http://vocab.getty.edu/page/aat/300014335) \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)  

@@ -59,11 +59,10 @@
 # Pompeii Notes/Issues
 
 - Titles (I.ii.10). Right now if a location doesn't have a specific name, using the I.ii.10 ID.
-- [ ] Artifacts: TBD on how to note
+- [x] Artifacts: TBD on how to note
 - [x] Green (additions to entries?). What to do? There appears to be ORANGE now as well.
 - [x] Add span style color families to new green parts of entries.
 - [ ] Someone should relook over the bibs to see if they know what book the author is referring to, as I can't figure it out with just an author last name.
-- [ ] Authors and dates are usually absent from these entries. Is this something we should ask from the editorial team?
 - [ ] Insula relref I don't know if we want these, but if we do the way I have them are probably wrong.
 - [ ] Image PATHs might need modifying.
 - [x] Note to self: relook over entries and add [statue] keyword.
@@ -71,6 +70,7 @@
 - [ ] Issue: I have found a entry that is House of Epidius Fortunatus (I.iii.3) and another that is I.iii.3. If there is a distinction, should we make it clearer?
 - [x] *Aedicula lararium* added as one keyword merged from the two currently listed.
 - [ ] Should I include excavations dates in date section?
+- [x] Province edits for keywords
 
 # Pompeii Entries that Have...
 
@@ -95,5 +95,4 @@
 
 ## Literary Evidence
 
-- Note: most entries reference authors listed as sources in the bib but aren't someone from Pompeii, rather historians/archaeologists.
 - I.iii.23: Tacitus recorded the events portrayed in the painting.

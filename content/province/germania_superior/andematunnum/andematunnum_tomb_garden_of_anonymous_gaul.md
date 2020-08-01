@@ -47,6 +47,8 @@ Tomb Garden of Anonymous Gaul in Andematunnum
 ## Keywords
 
 [former reservoirs](http://vocab.getty.edu/page/aat/300386966) \
+inscription \
+literary garden \
 [mausoleums](http://vocab.getty.edu/page/aat/300005891) \
 [orchards](http://vocab.getty.edu/page/aat/300008890) \
 [tombs](http://vocab.getty.edu/page/aat/300005926)

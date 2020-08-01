@@ -32,7 +32,7 @@ categories:
 
 # Sublocation
 
-[Region I]({{<relref ".">}}) \
+[Region I]({{<relref ".">}})
 
 ## Sublocation Description
 
@@ -40,7 +40,7 @@ categories:
 
 # Insula
 
-[Insula ii]({{<relref ".">}}) \
+[Insula ii]({{<relref ".">}})
 
 # House
 
@@ -52,14 +52,15 @@ I.ii.16
 
 ## Keywords
 
-aedicula lararium  /
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  /
-[fountains](http://vocab.getty.edu/page/aat/300006179)  /
-[pillars](http://vocab.getty.edu/page/aat/300264605)  /
-[podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)  /
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  /
-puteal  /
-[statues](http://vocab.getty.edu/page/aat/300047600)  /
+aedicula lararium \
+archaeological garden \
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+[fountains](http://vocab.getty.edu/page/aat/300006179) \
+[pillars](http://vocab.getty.edu/page/aat/300264605) \
+[podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
+puteal \
+[statues](http://vocab.getty.edu/page/aat/300047600) \
 [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)  
 
 ## Garden Description
@@ -89,6 +90,10 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 unspecified
+
+### Excavation dates
+
+1873
 
 ## Bibliography
 

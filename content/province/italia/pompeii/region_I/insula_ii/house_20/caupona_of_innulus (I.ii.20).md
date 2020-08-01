@@ -32,7 +32,7 @@ categories:
 
 # Sublocation
 
-[Region I]({{<relref ".">}}) \
+[Region I]({{<relref ".">}})
 
 ## Sublocation Description
 
@@ -40,7 +40,7 @@ categories:
 
 # Insula
 
-[Insula ii]({{<relref ".">}}) \
+[Insula ii]({{<relref ".">}})
 
 # House
 
@@ -52,9 +52,10 @@ Caupona of Innulus (I.ii.20)
 
 ## Keywords
 
-[cauponae](http://vocab.getty.edu/page/aat/300005208)    
-[biclinia](http://vocab.getty.edu/page/aat/300170371)   
-[lararia](http://vocab.getty.edu/page/aat/300400600)  
+archaeological garden \
+[cauponae](http://vocab.getty.edu/page/aat/300005208) \
+[biclinia](http://vocab.getty.edu/page/aat/300170371) \
+[lararia](http://vocab.getty.edu/page/aat/300400600) \
 [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)  
 
 ## Garden Description
@@ -84,6 +85,10 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 unspecified
+
+### Excavation dates
+
+1873
 
 ## Bibliography
 

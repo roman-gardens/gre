@@ -45,8 +45,11 @@ Rural Villa in Sudeley/Spoonley Wood
 
 ## Keywords
 
+archaeological garden \
 [axial plan](http://vocab.getty.edu/page/aat/300121971) \
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
 [terrace gardens](http://vocab.getty.edu/page/aat/300404778) \
+rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)            
 
 ## Garden Description
@@ -72,6 +75,10 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 ## Dates
 
 3rd/4th century for the complex.
+
+### Excavation Dates
+
+1882
 
 ## Bibliography
 

@@ -47,12 +47,16 @@ Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)
 ## Keywords
 
 [arbors](http://vocab.getty.edu/page/aat/300006781) \
+[barns](http://vocab.getty.edu/page/aat/300004900) \
 [barrier walls](http://vocab.getty.edu/page/aat/300419302) \
 [ceramic tile](http://vocab.getty.edu/page/aat/300010678) \
+[ditches](http://vocab.getty.edu/page/aat/300006178) \
 [fences (site elements)](http://vocab.getty.edu/page/aat/300005044) \
 [hearths](http://vocab.getty.edu/page/aat/300003990) \
 [horrea](http://vocab.getty.edu/page/aat/300120504) \
+[kitchen gardens](http://vocab.getty.edu/page/aat/300008110) \
 [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
+[orchards](http://vocab.getty.edu/page/aat/300008890) \
 [pedestals](http://vocab.getty.edu/page/aat/300001744) \
 [pillars](http://vocab.getty.edu/page/aat/300264605) \
 [piscinae]( http://vocab.getty.edu/page/aat/300375619) \
@@ -108,6 +112,10 @@ After the disappearance of the Antique site, the land continues to be occupied d
 ## Dates
 
 Beginning of the 1st c. CE - beginning of the Vth century
+
+### Excavation Dates
+
+1985-2000, 2006/2010
 
 ## Bibliography
 

@@ -48,9 +48,11 @@ House in Insula 30 in Augusta Raurica
 
 [barrier walls](http://vocab.getty.edu/page/aat/300419302) \
 [colonnades](http://vocab.getty.edu/page/aat/300002613) \
+[corridors](http://vocab.getty.edu/page/aat/300004294) \
 [insulae](http://vocab.getty.edu/page/aat/300000325) \
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
 [triclinia](http://vocab.getty.edu/page/aat/300004359) \
+[vestibules](http://vocab.getty.edu/page/aat/300083076) \
 [water wells](http://vocab.getty.edu/page/aat/300152327)
 
 ## Garden Description

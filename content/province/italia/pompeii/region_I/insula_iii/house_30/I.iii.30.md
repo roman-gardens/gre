@@ -52,11 +52,12 @@ I.iii.30
 
 ## Keywords
 
-amorini  /
-[bas-reliefs (sculpture)](http://vocab.getty.edu/page/aat/300184633)  /
-[busts (sculpture)](http://vocab.getty.edu/page/aat/300417950)  /
-[lararia](http://vocab.getty.edu/page/aat/300400600)  /
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)  /
+amorini \
+archaeological garden \
+[bas-reliefs (sculpture)](http://vocab.getty.edu/page/aat/300184633) \
+[busts (sculpture)](http://vocab.getty.edu/page/aat/300417950) \
+[lararia](http://vocab.getty.edu/page/aat/300400600) \
+[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
 [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ## Garden Description
@@ -88,6 +89,10 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 unspecified
+
+### Excavation Dates
+
+1872
 
 ## Bibliography
 

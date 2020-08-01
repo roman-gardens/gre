@@ -44,6 +44,7 @@ Rural Estate in Gatcombe
 
 ## Keywords
 
+archaeological garden \
 [barrier walls](http://vocab.getty.edu/page/aat/300419302)
 
 ## Garden Description

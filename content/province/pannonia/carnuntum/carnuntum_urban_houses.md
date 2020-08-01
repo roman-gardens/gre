@@ -47,7 +47,9 @@ Urban Houses in Carnuntum
 ## Keywords
 
 [arcades (structural assemblies)](http://vocab.getty.edu/page/aat/300002580) \
-[corridors](http://vocab.getty.edu/page/aat/300004294)  
+archaeological garden \
+[corridors](http://vocab.getty.edu/page/aat/300004294) \
+[kitchen gardens](http://vocab.getty.edu/page/aat/300008110) \
 [vestibules](http://vocab.getty.edu/page/aat/300083076)
 
 ## Garden Description

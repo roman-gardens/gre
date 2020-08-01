@@ -46,7 +46,9 @@ Rural Villa in Wiesbaden-Biebrich
 
 ## Keywords
 
+archaeological garden \
 [barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+[kitchen gardens](http://vocab.getty.edu/page/aat/300008110) \
 rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 

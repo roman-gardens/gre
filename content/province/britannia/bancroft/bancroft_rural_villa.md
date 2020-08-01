@@ -48,9 +48,14 @@ Rural Villa in Bancroft
 
 ## Keywords
 
+archaeological garden \
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
 [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347) \
+[drains](http://vocab.getty.edu/page/aat/300052564) \
 [gazebos](http://vocab.getty.edu/page/aat/300006798) \
+[horticultural containers](http://vocab.getty.edu/page/aat/300198749) \
 [piscinae](http://vocab.getty.edu/page/aat/300375619) \
+rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ## Garden Description
@@ -72,6 +77,10 @@ The villa complex that preceded the winged corridor house is also of interest in
 ## Dates
 
 Roman villa... built in the late 3rd century and rebuilt and enlarged in the mid-4th century.
+
+### Excavation Dates
+
+1983-1986
 
 ## Bibliography
 

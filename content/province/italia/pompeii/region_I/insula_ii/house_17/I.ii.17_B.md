@@ -33,7 +33,7 @@ categories:
 
 # Sublocation
 
-[Region I]({{<relref ".">}}) \
+[Region I]({{<relref ".">}})
 
 ## Sublocation Description
 
@@ -41,7 +41,7 @@ categories:
 
 # Insula
 
-[Insula ii]({{<relref ".">}}) \
+[Insula ii]({{<relref ".">}})
 
 # House
 
@@ -53,13 +53,14 @@ I.ii.17 B
 
 ## Keywords
 
-[atriums](http://vocab.getty.edu/page/aat/300004097)  /
-[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)  /
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)  /
-[pillars](http://vocab.getty.edu/page/aat/300264605)  /
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  /
-[statues](http://vocab.getty.edu/page/aat/300047600)  /
-[statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)  /
+archaeological garden \
+[atriums](http://vocab.getty.edu/page/aat/300004097) \
+[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
+[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
+[pillars](http://vocab.getty.edu/page/aat/300264605) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
+[statues](http://vocab.getty.edu/page/aat/300047600) \
+[statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262) \
 [tablina](http://vocab.getty.edu/page/aat/300004180)  
 
 ## Garden Description
@@ -88,6 +89,10 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 unspecified
+
+### Excavation dates
+
+1873
 
 ## Bibliography
 
