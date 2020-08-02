@@ -60,6 +60,7 @@ inscription
 [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
 [kraters](http://vocab.getty.edu/page/aat/300198855)
 [lararia](http://vocab.getty.edu/page/aat/300400600)
+[latrines](http://vocab.getty.edu/page/aat/300007951)
 literary garden
 [loam](http://vocab.getty.edu/page/aat/300014335)
 lychnophoros
