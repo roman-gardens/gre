@@ -55,6 +55,7 @@ House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)
 [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696) \
 archaeological garden \
 [cauponae](http://vocab.getty.edu/page/aat/300005208) \
+inscription \
 [pillars](http://vocab.getty.edu/page/aat/300264605) \
 [porticoes](http://vocab.getty.edu/page/aat/300004145)  
 
