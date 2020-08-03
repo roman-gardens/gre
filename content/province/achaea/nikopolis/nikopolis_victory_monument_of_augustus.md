@@ -48,6 +48,8 @@ Sanctuary of Zeus
 
 ## Keywords
 
+[Literary](#) \
+[Archaeological](#) \
 [tropaeum (monument)](http://vocab.getty.edu/page/aat/300007038) \
 [orchards](http://vocab.getty.edu/page/aat/300008890) \
 [strabo](#)
