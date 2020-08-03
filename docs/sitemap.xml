@@ -44,11 +44,6 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/</loc>
-    <lastmod>2020-07-23T16:14:15-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_3/i.ii.3/</loc>
     <lastmod>2020-07-23T16:14:15-04:00</lastmod>
   </url>
@@ -630,6 +625,11 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/about/</loc>
+    <lastmod>2020-07-08T18:12:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/</loc>
     <lastmod>2020-07-08T18:12:37-04:00</lastmod>
   </url>
   
