@@ -21,7 +21,6 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-
 [Chaeronea]({{<relref ".">}}) \
 [Chaeronea (Pleiades)](https://pleiades.stoa.org/places/540701)
 
@@ -48,6 +47,7 @@ Tomb Garden and Cistern of Gallatis, Son of Pythion
 
 ## Keywords
 
+[Inscription](#) \
 [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
 
 ## Garden Description

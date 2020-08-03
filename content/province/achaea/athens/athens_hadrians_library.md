@@ -45,6 +45,9 @@ Hadrian's Library
 
 
 ## Keywords
+
+[Literary](#) \
+[Archaeological](#) \
 [piscinae](http://vocab.getty.edu/page/aat/300375619) \
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
 [Gymnasium](http://vocab.getty.edu/page/aat/300007297) \
