@@ -21,7 +21,6 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 # Location
 
-
 [Olympia]({{<relref ".">}}) \
 [Olympia (Pleiades)](https://pleiades.stoa.org/places/570531)
 
@@ -49,6 +48,7 @@ Guest House II
 
 ## Keywords
 
+[Archaeological](#) \
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 
