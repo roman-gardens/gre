@@ -53,8 +53,6 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
             
             # Compile the list into a new 'tags' entry
             vKeywords.sort()
-            for sKeyword in vKeywords:
-                print(sKeyword)
             
             # Get the metadata section of the file
             sMetaData = sFile
@@ -62,18 +60,25 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
             if iEnd == -1:
                 raise Error('File does not contain Metadata: %s' % sFilename)
             
-            sMetaData = sMetaData[:iEnd+4].strip()
+            sMetaData = sMetaData[:iEnd+4]
+            sMetaData = re.sub('\-\-\-\n', '', sMetaData)
+            sMetaData = sMetaData.strip()
+            
             sFile = sFile[iEnd+4:].strip()
             
             # Extract any 'tags' section already in the metadata
             iTags = sMetaData.find('tags:')
             if iTags > -1:
-                reTags = '\ntags\:(\s+\-\s+[^\n]*\n)+'
-                tTags = re.findall(reTags, sMetaData)
-                for tTag in tTags:
-                    print(tTag)
+                sMetaData = sMetaData[:iTags].strip()
             
-            # print(sMetaData)
-            # print('~'*80)
-            # print(sFile)
-
+            # Create MetaData tag list
+            sTags = 'tags:\n'
+            for sKeyword in vKeywords:
+                sTags += '  - "%s"\n' % sKeyword
+                print(sKeyword)
+                
+            sMetaData = '---\n%s\n%s---\n\n' % (sMetaData, sTags)
+            
+            with open(os.path.join(sRoot,sFilename),'w') as f:
+                f.write(sMetaData + sFile)
+                f.close()
