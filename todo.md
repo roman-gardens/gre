@@ -18,6 +18,8 @@
 - [ ] Redo all pub dates as YMD
 - [ ] Implement [LOC Datetime format](https://www.loc.gov/standards/datetime/)
 - [ ] Add a keyword that means "hasInscription"
+- [ ] Check for any ">>>>>>" merge conflict stuff in the articles
+- [ ] Take every heading down one level
 
 # Article Punchlist
 

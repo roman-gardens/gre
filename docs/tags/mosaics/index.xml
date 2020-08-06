@@ -20,7 +20,8 @@
       <description>Province Germania Superior
 Province Description Location Vesontio
 Vesontio (Pleiades)
-Location Description The defensibility offered by this unique geography made Caesar hasten to occupy Vesontio in 58 BC. The town came to have all the usual Roman structures– forum, baths, aqueduct, and amphitheater (on the other side of the Doubs, to the northwest.) But the most visible remnant is the Porte Noire (Black Gate) [3], a triumphal arch built by Marcus Aurelius at the southeastern end of the cardo maximus, today Grande Rue and still the center of city life.</description>
+Location Description The defensibility offered by this unique geography made Caesar hasten to occupy Vesontio in 58 BC. The town came to have all the usual Roman structures– forum, baths, aqueduct, and amphitheater (on the other side of the Doubs, to the northwest.) But the most visible remnant is the Porte Noire (Black Gate) [3], a triumphal arch built by Marcus Aurelius at the southeastern end of the cardo maximus, today Grande Rue and still the center of city life.
+Archaeology in a downtown area is always a matter of seizing opportunities as they are presented by new construction, remembering and recording what was found, and coming back years later to complete the picture. A good example of this process is at our second site, [2] on the map. In 1973, the Neptune Mosaic was discovered in rue de Lorraine, one of the largest floor decorations in all Gaul.</description>
     </item>
     
     <item>
@@ -32,7 +33,8 @@ Location Description The defensibility offered by this unique geography made Cae
       <description>Province Germania Superior
 Province Description Location Vesontio
 Vesontio (Pleiades)
-Location Description The defensibility offered by this unique geography made Caesar hasten to occupy Vesontio in 58 BC. The town came to have all the usual Roman structures– forum, baths, aqueduct, and amphitheater (on the other side of the Doubs, to the northwest.) But the most visible remnant is the Porte Noire (Black Gate) [3], a triumphal arch built by Marcus Aurelius at the southeastern end of the cardo maximus, today Grande Rue and still the center of city life.</description>
+Location Description The defensibility offered by this unique geography made Caesar hasten to occupy Vesontio in 58 BC. The town came to have all the usual Roman structures– forum, baths, aqueduct, and amphitheater (on the other side of the Doubs, to the northwest.) But the most visible remnant is the Porte Noire (Black Gate) [3], a triumphal arch built by Marcus Aurelius at the southeastern end of the cardo maximus, today Grande Rue and still the center of city life.
+Archaeology in a downtown area is always a matter of seizing opportunities as they are presented by new construction, remembering and recording what was found, and coming back years later to complete the picture. A good example of this process is at our second site, [2] on the map. In 1973, the Neptune Mosaic was discovered in rue de Lorraine, one of the largest floor decorations in all Gaul.</description>
     </item>
     
     <item>
@@ -46,12 +48,16 @@ Province Description Location Vallon
 Vallon (Pleiades)
 Location Description Sublocation Sublocation Description Garden Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)
 Keywords arbors
+barns
 barrier walls
 ceramic tile
+ditches
 fences (site elements)
 hearths
 horrea
+kitchen gardens
 mosaics (visual works)
+orchards
 pedestals
 pillars
 piscinae
@@ -61,7 +67,8 @@ sherds
 tesserae
 villae rusticae
 water supply systems
-Garden Description Located 6km south-east of Avenches/ Aventicum, the capital of the Helvetian tribe, this site is situated on a small alluvial terrace at the bottom of a hillside.</description>
+Garden Description Located 6km south-east of Avenches/ Aventicum, the capital of the Helvetian tribe, this site is situated on a small alluvial terrace at the bottom of a hillside. The area is bordered by a stream, the Laret, characterized by a flow, sometimes torrential, that has fluctuated during the past centuries. To the west, on the right bank, stands the rocky spur of Carignan (Fig. 1). Due to the relatively restrictive topography, human settlements favoured the left bank until the Middle Ages.
+On the spur east of the stream, a building made of a light structure, apparently isolated, is constructed at the beginning of the 1st c.</description>
     </item>
     
     <item>
@@ -76,14 +83,17 @@ Bad Kreuznach (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Bad Kreuznach
 Keywords apsed triclinium
 colonnades
+cryptoportici
 fountains
+gutters (building drainage components)
 lararia
 mosaics (visual works)
 peristyles (Roman courtyards)
 porticoes
 rural villas
 villae rusticae
-Garden Description This villa, almost 6000 square meters in size, gives eloquent testimony to the wealth and status of the owner of the rural estate. The estate was built in the second half of the 2nd century and occupied until its destruction around 275.</description>
+Garden Description This villa, almost 6000 square meters in size, gives eloquent testimony to the wealth and status of the owner of the rural estate. The estate was built in the second half of the 2nd century and occupied until its destruction around 275.
+The three-storied villa with more than 50 rooms on the ground floor alone, many decorated with mosaics and imported marble revetment, was centered on a colonnaded garden courtyard (G in Fig. 1). Many of the sandstone columns from the peristyle, as well as fragments of sculpture from the garden, were found in the courtyard. The house was built into a hill, and the courtyard was terraced on two levels.</description>
     </item>
     
     <item>
@@ -96,24 +106,18 @@ Garden Description This villa, almost 6000 square meters in size, gives eloquent
 Province Description Location Aventicum
 Aventicum (Pleiades)
 Location Description The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in AD 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around AD 260, and it was progressively abandoned thereafter.
-Sublocation Sublocation Description Garden Palatial House in Insula 7 in Aventicum</description>
-    </item>
-    
-    <item>
-      <title>Rural Villa in Chedworth</title>
-      <link>https://christiancasey.github.io/gre/province/britannia/chedworth/chedworth_rural_villa/</link>
-      <pubDate>Wed, 08 Jul 2020 08:19:06 -0400</pubDate>
-      
-      <guid>https://christiancasey.github.io/gre/province/britannia/chedworth/chedworth_rural_villa/</guid>
-      <description>Province Britannia
-Province Description Location Chedworth
-Chedworth (Pleiades)
-Location Description Sublocation Sublocation Description Garden Rural Villa in Chedworth
-Keywords bathhouses (water recreation structures)
+Sublocation Sublocation Description Garden Palatial House in Insula 7 in Aventicum
+Keywords archaeological garden
+axial plan
+bathhouses (water recreation structures)
+drains
+exedrae (site elements)
 mosaics (visual works)
-sherds
-villae rusticae
-Garden Description This Roman villa in Gloucestershire was partially excavated in the late 19th century, but only the built features and their mosaic floors appear to have been of interest to the Victorian diggers. Excavations in the courtyard conducted between 2000 and 2002 revealed that earlier excavators had not disturbed the courtyard.</description>
+palaces
+peristyles (Roman courtyards)
+piscinae
+presence chambers
+Garden Description The remains of a palatial house (Palais de Derrière la Tour) were recently uncovered in excavations on the western edge of the city in an area characterized by luxurious domestic dwellings (Fig. 1). The house in its final state, from the Severan period to the middle of the 3rd century, had a peristyle courtyard measuring 42 x 69 meters.</description>
     </item>
     
   </channel>

@@ -20,7 +20,8 @@
       <description>Province Germania Superior
 Province Description Location Vesontio
 Vesontio (Pleiades)
-Location Description The defensibility offered by this unique geography made Caesar hasten to occupy Vesontio in 58 BC. The town came to have all the usual Roman structures– forum, baths, aqueduct, and amphitheater (on the other side of the Doubs, to the northwest.) But the most visible remnant is the Porte Noire (Black Gate) [3], a triumphal arch built by Marcus Aurelius at the southeastern end of the cardo maximus, today Grande Rue and still the center of city life.</description>
+Location Description The defensibility offered by this unique geography made Caesar hasten to occupy Vesontio in 58 BC. The town came to have all the usual Roman structures– forum, baths, aqueduct, and amphitheater (on the other side of the Doubs, to the northwest.) But the most visible remnant is the Porte Noire (Black Gate) [3], a triumphal arch built by Marcus Aurelius at the southeastern end of the cardo maximus, today Grande Rue and still the center of city life.
+Archaeology in a downtown area is always a matter of seizing opportunities as they are presented by new construction, remembering and recording what was found, and coming back years later to complete the picture. A good example of this process is at our second site, [2] on the map. In 1973, the Neptune Mosaic was discovered in rue de Lorraine, one of the largest floor decorations in all Gaul.</description>
     </item>
     
     <item>
@@ -35,14 +36,17 @@ Bad Kreuznach (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Bad Kreuznach
 Keywords apsed triclinium
 colonnades
+cryptoportici
 fountains
+gutters (building drainage components)
 lararia
 mosaics (visual works)
 peristyles (Roman courtyards)
 porticoes
 rural villas
 villae rusticae
-Garden Description This villa, almost 6000 square meters in size, gives eloquent testimony to the wealth and status of the owner of the rural estate. The estate was built in the second half of the 2nd century and occupied until its destruction around 275.</description>
+Garden Description This villa, almost 6000 square meters in size, gives eloquent testimony to the wealth and status of the owner of the rural estate. The estate was built in the second half of the 2nd century and occupied until its destruction around 275.
+The three-storied villa with more than 50 rooms on the ground floor alone, many decorated with mosaics and imported marble revetment, was centered on a colonnaded garden courtyard (G in Fig. 1). Many of the sandstone columns from the peristyle, as well as fragments of sculpture from the garden, were found in the courtyard. The house was built into a hill, and the courtyard was terraced on two levels.</description>
     </item>
     
     <item>
@@ -55,7 +59,12 @@ Garden Description This villa, almost 6000 square meters in size, gives eloquent
 Province Description Location Aventicum
 Aventicum (Pleiades)
 Location Description The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in AD 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around AD 260, and it was progressively abandoned thereafter.
-Sublocation Sublocation Description Garden House in Insula 16 in Aventicum</description>
+Sublocation Sublocation Description Garden House in Insula 16 in Aventicum
+Keywords colonnades
+insulae
+peristyles (Roman courtyards)
+Garden Description In Insula 16 East, northeast of the forum, were small shops and houses belonging to three different owners. These were demolished when the town was promoted to the status of colonia by Vespasian. The new house occupied the whole insula and was entered on the northeast.
+In the middle of the insula was a large peristyle courtyard which may have been planted (G in Fig. 1). In the southwestern part of the building complex taverns and shops opened onto the colonnaded street.</description>
     </item>
     
     <item>
@@ -71,11 +80,14 @@ Location Description The town on the Rhine River possessed colonial status since
 Sublocation Sublocation Description Garden House in Insula 30 in Augusta Raurica
 Keywords barrier walls
 colonnades
+corridors
 insulae
 peristyles (Roman courtyards)
 triclinia
+vestibules
 water wells
-Garden Description Insula 30, east of the central baths, was taken up by a single house built around 200 AD.</description>
+Garden Description Insula 30, east of the central baths, was taken up by a single house built around 200 AD. This replaced several earlier structures on the site. The insula, including the street colonnades, had an overall area of ca. 48 x 60 meters.
+The house had a peristyle courtyard of rectangular shape which was surrounded on three sides by a low wall supporting stone columns. The courtyard was unpaved and almost certainly planted (G in Fig. 1). Entering the house from the east, one passed through a vestibule before arriving in the peristyle corridor around the courtyard.</description>
     </item>
     
     <item>
@@ -89,9 +101,12 @@ Province Description Location Arae Flaviae
 Arae Flaviae (Pleiades)
 Location Description This town on the Neckar river was granted municipal status around 84 AD or slightly later. In modern terms, it lies about halfway between Zurich and Stuttgart.
 Sublocation Sublocation Description Garden Large Building north of Forum in Arae Flaviae
-Keywords colonnades
+Keywords archaeological garden
+colonnades
+corridors
 peristyles (Roman courtyards)
-Garden Description This building ca. 95 meters in width consisted of several units built at different times.</description>
+vestibules
+Garden Description This building ca. 95 meters in width consisted of several units built at different times. These may represent more than one house, or they may be parts of one large house. The southern part of the complex, entered from the colonnaded street on the west, had a vestibule or corridor leading into a peristyle courtyard. This may have been planted, although the excavators could find no clear evidence of this. Beyond the peristyle to the east was a series of rooms, including one large room presumably with representative character, and an open area interpreted as a courtyard or garden (G in Fig.</description>
     </item>
     
     <item>
@@ -106,7 +121,11 @@ Cologne (Pleiades)
 Location Description This large town on the west bank of the Rhine river was the civitas capital of the Ubii in the first half of the 1st century A.D. It was granted the status of colonia by Claudius in 50 and became the provincial capital in 85.
 Sublocation Sublocation Description Garden Urban house on Wolfsstrasse (Colonia Claudia Ara Agrippinensium)
 Keywords urban villas
-villae urbanae</description>
+villae urbanae
+colonnades
+peristyles (Roman courtyards)
+mural paintings (visual works)
+Garden Description Only a fraction of this house in the immediate vicinity of the House on Gertrudenstraße was excavated. Enough was salvaged, however, to be able to recognize that the house was of the peristyle type (Plan 1). The house was built after the middle of the 1st century A.D. By the mid-4th century the building was ruinous and the stones of most of the walls were robbed for reuse elsewhere.</description>
     </item>
     
     <item>
@@ -119,10 +138,17 @@ villae urbanae</description>
 Province Description Location Fishbourne
 Fishbourne (Pleiades)
 Location Description Sublocation Sublocation Description Garden Roman Palace in Fishbourne
-Keywords colonnades
+Keywords archaeological garden
+basins (vessels)
+colonnades
+loam
 palaces
 piscinae
-Garden Description Fishbourne Roman Palace was accidentally discovered during the digging of a water main trench in 1960. The discovery led to nine seasons of excavations (1961-69) that showed the site had developed from a military base at the time of the Roman invasion in AD 43 to a sumptuous palace by the end of the first century CE.</description>
+presence chambers
+terrace gardens
+vegetable gardens
+Garden Description Fishbourne Roman Palace was accidentally discovered during the digging of a water main trench in 1960. The discovery led to nine seasons of excavations (1961-69) that showed the site had developed from a military base at the time of the Roman invasion in AD 43 to a sumptuous palace by the end of the first century CE. Carefully excavated by Barry Cunliffe, using techniques of environmental archaeology, the garden excavations at the palace have long served as a model in the development of Roman garden archaeology, although the findings did not initially prompt the investigation of other gardens in Britain. Today the site has been developed for display and education.
+The palace contains gardens within its internal courtyards, as well in a larger area to the south, where terraces and other landscape architectural features lay between the residence and the deep water channel (Fig 1.</description>
     </item>
     
     <item>
@@ -138,7 +164,15 @@ Location Description This large town on the west bank of the Rhine river was the
 Sublocation Sublocation Description Garden Atrium House (Colonia Claudia Ara Agrippinensium)
 Keywords urban villas
 villae urbanae
-atrium houses</description>
+atrium houses
+atriums
+tablina
+colonnades
+peristyles (Roman courtyards)
+apsed pools
+piscinae
+Garden Description West of the House of Dionysos stood the so-called &amp;ldquo;atrium house&amp;rdquo; which covered an area of 1400 sq. m. (Plan 1). It was built around the middle of the 1st century A.D.
+Entering from the colonnaded street at the west, one passed through a room reconstructed as an atrium, continuing along a corridor around the tablinum, and arrived at a peristyle courtyard with a semicircular pool. This courtyard, approximately 10 x 13 m.</description>
     </item>
     
   </channel>

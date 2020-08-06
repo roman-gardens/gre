@@ -18,9 +18,12 @@
 		{{ with partial "post_meta.html" . -}}
 		<div class="list__meta meta">{{ . }}</div>
 		{{- end }}
-	</header>
+	</header>	
 	<div class="content list__excerpt post__content clearfix">
-		{{ .Summary }}
+		{{ $summary_parts := split .Summary "Garden Description" }}
+		{{ index $summary_parts 1 }}...
+		<!-- <hr>
+		{{ .Summary }} -->
 	</div>
 	{{- if .Site.Params.readmore }}
 	{{- if .Truncated }}

@@ -24,10 +24,13 @@ Location Description Sublocation Region I
 Sublocation Description Insula Insula ii
 House House 3
 Garden I.ii.3
-Keywords tufa
-vestibules
+Keywords archaeological garden
+tufa
+vestibules \
 viridarium
-Garden Description The small viridarium (a) at the rear of the house had narrow, slightly raised beds along the walls on the north and east side. These beds were for the cultivation of flowers, according to Fiorelli. A small vestibule on the north side of the garden was decorated with remnants of tufa columns brought from another site.</description>
+Garden Description The small viridarium (a) at the rear of the house had narrow, slightly raised beds along the walls on the north and east side. These beds were for the cultivation of flowers, according to Fiorelli. A small vestibule on the north side of the garden was decorated with remnants of tufa columns brought from another site.
+Maps Plans   Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).     Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9 (Rights Statement).   Images Dates unspecified
+Bibliography  Fiorelli, Descr.</description>
     </item>
     
     <item>
@@ -37,13 +40,17 @@ Garden Description The small viridarium (a) at the rear of the house had narrow,
       
       <guid>https://christiancasey.github.io/gre/province/pannonia/winden_am_see/winden_am_see_rural_villa/</guid>
       <description>Province Pannonia
-Province Description Location Winden Am See Winden Am See (Pleiades)
+Province Description Location Winden Am See
+Winden Am See (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Winden Am See
-Keywords corridors
+Keywords archaeological garden
+corridors
 rural villas
 vestibules
 villae rusticae
-Garden Description The modest house of this villa rustica is of the so-called corridor type, a type common in the region and already seen at Carnuntum (Fig. 1). It was built around 100 A.D. and occupied until the 4th century.</description>
+Garden Description The modest house of this villa rustica is of the so-called corridor type, a type common in the region and already seen at Carnuntum (Fig. 1). It was built around 100 A.D. and occupied until the 4th century.
+On the southeast of the house was a vestibule, from which a central corridor departed at a 90 degree angle. This corridor divided the house into two parts of equal width. Two walls at right angles to the house at the northeast enclosed an area in which the excavators found &amp;ldquo;fine garden soil.&amp;rdquo; This observation allows the reconstruction of a garden, probably a kitchen garden, next to the house (G in Fig. 1).
+Maps Plans   Fig.</description>
     </item>
     
     <item>
@@ -57,10 +64,16 @@ Province Description Location Scarbantia
 Scarbantia (Pleiades)
 Location Description Sublocation Sublocation Description Garden Tomb Garden of Iul(ia) Victorin(a) in Scarbantia
 Keywords epitaphs
+literary garden
 stelae
 tombs
 viridarium
-Garden Description A limestone funerary stele of probably third century date unearthed in 1973 near Scarbantia at Winder am See (Burgenland) and now in the Burgenländische Landesmuseum at Eisenstadt records an epitaph set up by Septimius Alcides, a veteran of the legio XIII Gemina Iulia, for his wife, Iul(ia) Victorin(a), dead at thirty, for whom he built at his own expense a funerary pleasure garden (viridarium).</description>
+Garden Description A limestone funerary stele of probably third century date unearthed in 1973 near Scarbantia at Winder am See (Burgenland) and now in the Burgenländische Landesmuseum at Eisenstadt records an epitaph set up by Septimius Alcides, a veteran of the legio XIII Gemina Iulia, for his wife, Iul(ia) Victorin(a), dead at thirty, for whom he built at his own expense a funerary pleasure garden (viridarium).
+Maps Plans Images Dates 3rd century
+Bibliography  AE 1973, 433. Epigraphische Datenbank Heidelberg HD011378.  Periodo ID Pleiades ID 197501
+TGN ID 4008442
+Contributor John Bodel (ORCID: 0000-0003-1820-6368)
+Publication date 22 July 2020</description>
     </item>
     
     <item>
@@ -74,6 +87,8 @@ Province Description Location Savaria
 Savaria (Pleiades)
 Location Description Sublocation Sublocation Description Garden Tomb Garden of Fl(avius) Dalmatius in Savaria
 Keywords epitaphs
+inscription
+literary garden
 tombs
 Garden Description A limestone slab found near the monastery of St. Martin in Szombathely (Savaria), Hungary, in 1845 and subsequently transferred to the National Museum in Budapest records the epitaph of a high ranking equestrian official (vir perfectissimus), Fl(avius) Dalmatius, and his wife Aur(elia) Iulia, who some time during the third or fourth century built a tomb on their villa estate and composed for it a verse inscription in which Dalmatius hopes for commemoration from a future owner of the property: “Whoever will be master of this house and garden after me, gather the nearby roses for me, put out the white lilies which the green garden will grow for me: these are the gifts of the blessed” (Quisquis {h}e(ris) post me d(o)m(inus) Laris huius et (h)orti, / vicinas mihi carpe rosas, mihi lilia pone / [ca]ndeda{s} q(uae) viridis dabit (h)ortulus: ista (sc.</description>
     </item>
@@ -89,13 +104,14 @@ Province Description Location Eisenstadt
 Eisenstadt (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Eisenstadt
 Keywords altars (religious fixtures)
+archaeological garden
 atriums
 peristyles (Roman courtyards)
 podiums (building divisions)
 porticoes
 rural villas
 villae rusticae
-Garden Description The residence of this villa rustica was entered on the southeast by a portico (Fig. 1). After passing through a room interpreted as the atrium, one arrived in the open courtyard which had a peristyle on three sides (G on plan).</description>
+Garden Description The residence of this villa rustica was entered on the southeast by a portico (Fig. 1). After passing through a room interpreted as the atrium, one arrived in the open courtyard which had a peristyle on three sides (G on plan). On the northern edge of the courtyard was a podium (P on plan) near which votive altars to Diana and Silvanus were found, both gods of the woods and suitable subjects for a garden. This corner of the courtyard, thus, seems to have had religious character. In the middle of the courtyard was a square foundation, measuring 1.80 x 1.80 m., possibly the remains of a base for some kind of figure.</description>
     </item>
     
     <item>
@@ -110,9 +126,11 @@ Carnuntum (Pleiades)
 Location Description The town of Carnuntum on the Danube River, like Aquincum, was promoted to colonial status in 194 A.D., after having been a municipium. Excavations in the modern zoological garden have revealed part of the town plan and its residential district.
 Sublocation Sublocation Description Garden Urban Houses in Carnuntum
 Keywords arcades (structural assemblies)
+archaeological garden
 corridors
+kitchen gardens
 vestibules
-Garden Description The regional house type found often in Pannonia, the so-called corridor house, is characterized by a vestibule or arcade on its narrow front and a central corridor running the length of the house, separating it into two parts.</description>
+Garden Description The regional house type found often in Pannonia, the so-called corridor house, is characterized by a vestibule or arcade on its narrow front and a central corridor running the length of the house, separating it into two parts. One of these houses (B on plan) on a street corner in Carnuntum exhibits this plan clearly (Fig. 1). South of the house, facing the street and separate from it, are various rooms which were interpreted as shops and workshops. North of the house is an open unpaved courtyard which is usually assumed to have been a garden, perhaps a kitchen garden (G on plan).</description>
     </item>
     
     <item>
@@ -126,11 +144,14 @@ Province Description Location Aquincum
 Aquincum (Pleiades)
 Location Description This town on the Danube river acquired the rank of municipium under Hadrian in 124 A.D. In the year 194 it was granted colonial status.
 Sublocation Sublocation Description Garden Urban House or Schola in Aquincum
-Keywords bathhouses (water recreation structures)
+Keywords archaeological garden
+bathhouses (water recreation structures)
 fountains
 peristyles (Roman courtyards)
 piscinae
-Garden Description Very few houses of Mediterranean type have been discovered, and only one can be said with certainty to have had a garden (Fig.</description>
+statues
+statuettes (free-standing sculpture)
+Garden Description Very few houses of Mediterranean type have been discovered, and only one can be said with certainty to have had a garden (Fig. 1, G in Fig. 1). The peristyle courtyard was a prominent feature of this house of irregular plan and substantial size near the southern city wall. The house dates to the 3rd century, and it is thought to have been a clubhouse or schola for young men (collegium iuventutis), complete with a bath suite. In the middle of the courtyard, framed on four sides by a low wall supporting columns, was a square masonry pool (Fig.</description>
     </item>
     
     <item>
@@ -140,7 +161,7 @@ Garden Description Very few houses of Mediterranean type have been discovered, a
       
       <guid>https://christiancasey.github.io/gre/province/achaea/eua/villa_of_herodes_atticus/</guid>
       <description>Province Achaea
-Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.</description>
+Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands. The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports. After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology.</description>
     </item>
     
     <item>
@@ -150,7 +171,7 @@ Province Description Roman intervention in Greek political affairs resulted in c
       
       <guid>https://christiancasey.github.io/gre/province/achaea/athens/athens_gardens_of_epicurus/</guid>
       <description>Province Achaea
-Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.</description>
+Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands. The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports. After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology.</description>
     </item>
     
     <item>
@@ -163,11 +184,16 @@ Province Description Roman intervention in Greek political affairs resulted in c
 Province Description Location Winkel-Seeb
 Winkel-Seeb (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Winkel-Seeb
-Keywords barrier walls
+Keywords archaeological garden
+barrier walls
+corridors
+pergolas
+porticoes
 rural villas
+terrace gardens
 villae rusticae
 well houses
-Garden Description The residential and service parts of this villa rustica occupied an area of ca. 7 hectares. The lateral walls of the complex could be followed over a length of 395 meters, but it is assumed that they once extended up to the lake southeast of the farm.</description>
+Garden Description The residential and service parts of this villa rustica occupied an area of ca. 7 hectares. The lateral walls of the complex could be followed over a length of 395 meters, but it is assumed that they once extended up to the lake southeast of the farm. The house, measuring 56.70 x 82.40 meters, was of the winged corridor type (Fig. 12.1). The villa rustica was built in the first half of the 1st century A.C. and inhabited until its destruction in 250. The two protruding wings on either side of the entrance on the north extended to the dividing wall between the pars urbana and the pars rustica. These may have been built as covered porticoes or pergolas.</description>
     </item>
     
     <item>
@@ -181,10 +207,14 @@ Province Description Location Wiesbaden-Biebrich
 Wiesbaden-Biebrich (Pleiades)
 Location Description Biebrich, now part of Wiesbaden, is directly on the right bank of the Rhein south of the center of Wiesbaden.
 Sublocation Sublocation Description Garden Rural Villa in Wiesbaden-Biebrich
-Keywords barrier walls
+Keywords archaeological garden
+barrier walls
+kitchen gardens
 rural villas
 villae rusticae
-Garden Description Only the residential part of this farm has been excavated. The house with a width of 22 meters had two protruding wings at the south.</description>
+Garden Description Only the residential part of this farm has been excavated. The house with a width of 22 meters had two protruding wings at the south. To the west of the house was an area of irregular proportions enclosed by a wall, and this has been interpreted as a kitchen garden (G in Fig. 1).
+Maps Plans   Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west. Adapted from Baatz and Herrmann 1989, fig. 471. (Rights Statement)   Images Dates unspecified
+Bibliography  D. Baatz and F.-R. Herrmann, eds., Die Römer in Hessen, 2nd ed.</description>
     </item>
     
     <item>
@@ -196,7 +226,8 @@ Garden Description Only the residential part of this farm has been excavated. Th
       <description>Province Germania Superior
 Province Description Location Vesontio
 Vesontio (Pleiades)
-Location Description The defensibility offered by this unique geography made Caesar hasten to occupy Vesontio in 58 BC. The town came to have all the usual Roman structures– forum, baths, aqueduct, and amphitheater (on the other side of the Doubs, to the northwest.) But the most visible remnant is the Porte Noire (Black Gate) [3], a triumphal arch built by Marcus Aurelius at the southeastern end of the cardo maximus, today Grande Rue and still the center of city life.</description>
+Location Description The defensibility offered by this unique geography made Caesar hasten to occupy Vesontio in 58 BC. The town came to have all the usual Roman structures– forum, baths, aqueduct, and amphitheater (on the other side of the Doubs, to the northwest.) But the most visible remnant is the Porte Noire (Black Gate) [3], a triumphal arch built by Marcus Aurelius at the southeastern end of the cardo maximus, today Grande Rue and still the center of city life.
+Archaeology in a downtown area is always a matter of seizing opportunities as they are presented by new construction, remembering and recording what was found, and coming back years later to complete the picture. A good example of this process is at our second site, [2] on the map. In 1973, the Neptune Mosaic was discovered in rue de Lorraine, one of the largest floor decorations in all Gaul.</description>
     </item>
     
     <item>
@@ -208,7 +239,8 @@ Location Description The defensibility offered by this unique geography made Cae
       <description>Province Germania Superior
 Province Description Location Vesontio
 Vesontio (Pleiades)
-Location Description The defensibility offered by this unique geography made Caesar hasten to occupy Vesontio in 58 BC. The town came to have all the usual Roman structures– forum, baths, aqueduct, and amphitheater (on the other side of the Doubs, to the northwest.) But the most visible remnant is the Porte Noire (Black Gate) [3], a triumphal arch built by Marcus Aurelius at the southeastern end of the cardo maximus, today Grande Rue and still the center of city life.</description>
+Location Description The defensibility offered by this unique geography made Caesar hasten to occupy Vesontio in 58 BC. The town came to have all the usual Roman structures– forum, baths, aqueduct, and amphitheater (on the other side of the Doubs, to the northwest.) But the most visible remnant is the Porte Noire (Black Gate) [3], a triumphal arch built by Marcus Aurelius at the southeastern end of the cardo maximus, today Grande Rue and still the center of city life.
+Archaeology in a downtown area is always a matter of seizing opportunities as they are presented by new construction, remembering and recording what was found, and coming back years later to complete the picture. A good example of this process is at our second site, [2] on the map. In 1973, the Neptune Mosaic was discovered in rue de Lorraine, one of the largest floor decorations in all Gaul.</description>
     </item>
     
     <item>
@@ -222,12 +254,16 @@ Province Description Location Vallon
 Vallon (Pleiades)
 Location Description Sublocation Sublocation Description Garden Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)
 Keywords arbors
+barns
 barrier walls
 ceramic tile
+ditches
 fences (site elements)
 hearths
 horrea
+kitchen gardens
 mosaics (visual works)
+orchards
 pedestals
 pillars
 piscinae
@@ -237,7 +273,8 @@ sherds
 tesserae
 villae rusticae
 water supply systems
-Garden Description Located 6km south-east of Avenches/ Aventicum, the capital of the Helvetian tribe, this site is situated on a small alluvial terrace at the bottom of a hillside.</description>
+Garden Description Located 6km south-east of Avenches/ Aventicum, the capital of the Helvetian tribe, this site is situated on a small alluvial terrace at the bottom of a hillside. The area is bordered by a stream, the Laret, characterized by a flow, sometimes torrential, that has fluctuated during the past centuries. To the west, on the right bank, stands the rocky spur of Carignan (Fig. 1). Due to the relatively restrictive topography, human settlements favoured the left bank until the Middle Ages.
+On the spur east of the stream, a building made of a light structure, apparently isolated, is constructed at the beginning of the 1st c.</description>
     </item>
     
     <item>
@@ -250,10 +287,14 @@ Garden Description Located 6km south-east of Avenches/ Aventicum, the capital of
 Province Description Location Orbe
 Orbe (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Orbe
-Keywords barrier walls
+Keywords archaeological garden
+barrier walls
+corridors
 rural villas
+terrace gardens
 villae rusticae
-Garden Description This large palatial house belonged to a villa rustica revealed by excavation and aerial photography. The enclosed farmyard is calculated to have been approximately 420 x 650 meters in size. The house itself, built in the mid-1st century AD and in use until the 4th century, was 200 meters long (Fig.</description>
+Garden Description This large palatial house belonged to a villa rustica revealed by excavation and aerial photography. The enclosed farmyard is calculated to have been approximately 420 x 650 meters in size. The house itself, built in the mid-1st century AD and in use until the 4th century, was 200 meters long (Fig. 1). This winged corridor house had two large open courtyards between the protruding wings at the front. These were very likely gardens (G in Fig. 1). Twenty-five meters in front of the house at the east was a long terrace wall 400 meters long running north-south. There may have been gardens or a park (G in Fig. 1) between the house and this terrace wall.
+Maps Plans   Fig.</description>
     </item>
     
     <item>
@@ -266,11 +307,14 @@ Garden Description This large palatial house belonged to a villa rustica reveale
 Province Description Location Oberentfelden
 Oberentfelden (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Oberentfelden
-Keywords bathhouses (water recreation structures)
+Keywords archaeological garden
+bathhouses (water recreation structures)
+kitchen gardens
 nymphaea (garden structures)
+peristyles (columnades)
 rural villas
 villae rusticae
-Garden Description The enclosed area of this villa rustica was 160 meters wide and at least 460 meters long; the eastern limits of the complex have not yet been found. The main residence and bath complex (A and B in Fig.</description>
+Garden Description The enclosed area of this villa rustica was 160 meters wide and at least 460 meters long; the eastern limits of the complex have not yet been found. The main residence and bath complex (A and B in Fig. 1), dating to the beginning of the 2nd century, stood on sloping land eight meters higher than the rest of the farmyard. At the eastern end of the service area (pars rustica) was a large peristyle building with a nymphaeum at the western end (D in Fig. 1). The open courtyard within this peristyle may have been a garden. Small kitchen gardens have been reconstructed between the various outbuildings and smaller houses (C in Fig.</description>
     </item>
     
     <item>
@@ -285,11 +329,15 @@ Hummetroth (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Hummetroth
 Keywords apsed triclinium
 bathhouses (water recreation structures)
+corridors
+hypocausts
 porticoes
+reception rooms
 rural villas
 terrace gardens
 villae rusticae
-Garden Description The enclosed farmyard, including the residential area (pars urbana) and the service zone with outbuildings and working areas (pars rustica), covered an area of 3.5 hectares. The house of this villa rustica of the 2nd century is of the winged corridor type with two protruding wings framing a large courtyard in front of the house at the south (Fig.</description>
+Garden Description The enclosed farmyard, including the residential area (pars urbana) and the service zone with outbuildings and working areas (pars rustica), covered an area of 3.5 hectares. The house of this villa rustica of the 2nd century is of the winged corridor type with two protruding wings framing a large courtyard in front of the house at the south (Fig. 1).
+The courtyard was divided into two zones by a terrace(?) wall, and in both zones a garden has been reconstructed (G in Fig. 1). Entering the house from the south, one passed through a large reception room to an apsed triclinium with hypocaust heating. A bath complex lay to the southwest, entered by the portico next to the garden.</description>
     </item>
     
     <item>
@@ -299,7 +347,8 @@ Garden Description The enclosed farmyard, including the residential area (pars u
       
       <guid>https://christiancasey.github.io/gre/province/achaea/corinth/corinth_circus/</guid>
       <description>Province Achaea
-Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.</description>
+Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
+The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports. After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology.</description>
     </item>
     
     <item>
@@ -309,7 +358,8 @@ Province Description Roman intervention in Greek political affairs resulted in c
       
       <guid>https://christiancasey.github.io/gre/province/achaea/aulis/aulis_sanctuary_of_artemis/</guid>
       <description>Province Achaea
-Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.</description>
+Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
+The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports. After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology.</description>
     </item>
     
     <item>
@@ -319,7 +369,8 @@ Province Description Roman intervention in Greek political affairs resulted in c
       
       <guid>https://christiancasey.github.io/gre/province/achaea/athens/athens_temple_of_hephaistos/</guid>
       <description>Province Achaea
-Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.</description>
+Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
+The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports. After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology.</description>
     </item>
     
     <item>
@@ -329,7 +380,7 @@ Province Description Roman intervention in Greek political affairs resulted in c
       
       <guid>https://christiancasey.github.io/gre/province/achaea/athens/athens_hadrians_library/</guid>
       <description>Province Achaea
-Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.</description>
+Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands. The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports. After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology.</description>
     </item>
     
     <item>
@@ -339,7 +390,7 @@ Province Description Roman intervention in Greek political affairs resulted in c
       
       <guid>https://christiancasey.github.io/gre/province/achaea/athens/athens_gymnasia_and_groves/</guid>
       <description>Province Achaea
-Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.</description>
+Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands. The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports. After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology.</description>
     </item>
     
     <item>
@@ -349,7 +400,7 @@ Province Description Roman intervention in Greek political affairs resulted in c
       
       <guid>https://christiancasey.github.io/gre/province/achaea/athens/athens_urban_houses_near_the_areopagus/</guid>
       <description>Province Achaea
-Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.</description>
+Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands. The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports. After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology.</description>
     </item>
     
     <item>
@@ -359,7 +410,7 @@ Province Description Roman intervention in Greek political affairs resulted in c
       
       <guid>https://christiancasey.github.io/gre/province/achaea/athens/athens_palace_of_the_giants/</guid>
       <description>Province Achaea
-Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.</description>
+Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands. The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports. After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology.</description>
     </item>
     
     <item>
@@ -369,7 +420,8 @@ Province Description Roman intervention in Greek political affairs resulted in c
       
       <guid>https://christiancasey.github.io/gre/province/achaea/aegina/aegina_temple_grove/</guid>
       <description>Province Achaea
-Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.</description>
+Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
+The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports. After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology.</description>
     </item>
     
     <item>
@@ -385,7 +437,7 @@ Location Description Sublocation Sublocation Description Garden Tomb Garden of T
 Keywords tombs
 sarcophagi
 epitaphs
-Garden Description A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserves an epitaph set up in 147 A.D. by Ti. Claudios Lykos, a local town counselor (bouleutÆw), for himself, his loving wife Meinoukia (Minucia) Theoprepes, and his two daughters Roda and Theoprepes. As Robert correctly observed (Bull.</description>
+Garden Description A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserves an epitaph set up in 147 A.D. by Ti. Claudios Lykos, a local town counselor (bouleutÆw), for himself, his loving wife Meinoukia (Minucia) Theoprepes, and his two daughters Roda and Theoprepes. As Robert correctly observed (Bull. Épigr. 1963:134), the garbled inscription—a product, it seems, of two drafts of the text being confused by the carver—nonetheless makes clear that Lykos had built a tomb garden complex, which he calls a ≤r“on, comprising “a field, house, garden, and, burial place” (égrÒw, oﬁk€a, k∞pow, tÒpow), in which were situated various sarcophagi (lhnÒi) and statues (éndriãntew) and which he attempted to prevent from future alienation. Two other inscriptions found in the same complex identify Lykos as granting, in one case, a cinerary urn (kaÊstra), in the other, in 167 A.</description>
     </item>
     
     <item>
@@ -398,10 +450,12 @@ Garden Description A limestone sarcophagus found at Thessaloniki and first repor
 Province Description Location Friedberg Pfingstweide
 Friedberg Pfingstweide (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Friedberg Pfingstweide
-Keywords bathhouses (water recreation structures)
+Keywords archaeological garden
+bathhouses (water recreation structures)
 rural villas
 villae rusticae
-Garden Description This villa rustica was situated on the northern slope of a valley through which a stream ran. The enclosed area of the farm occupied an area of 3.4 hectares (180 x 190 meters), and it was divided into a residential part (pars urbana) and a service area (pars rustica) by a road running east-west (Fig.</description>
+Garden Description This villa rustica was situated on the northern slope of a valley through which a stream ran. The enclosed area of the farm occupied an area of 3.4 hectares (180 x 190 meters), and it was divided into a residential part (pars urbana) and a service area (pars rustica) by a road running east-west (Fig. 1). The front of the house (H in Fig. 1) faced north and had a view of the valley and the lower lying service area of the farm.
+Built in the early 2nd century, the house was of the winged corridor type with a large open courtyard enclosed by the protruding wings of the house. The courtyard was divided into two zones that were possibly gardens (G in Fig.</description>
     </item>
     
     <item>
@@ -414,11 +468,14 @@ Garden Description This villa rustica was situated on the northern slope of a va
 Province Description Location Ferpicloz
 Ferpicloz (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Ferpicloz
-Keywords barrier walls
+Keywords archaeological garden
+barrier walls
 porticoes
 rural villas
 villae rusticae
-Garden Description The house of this villa rustica was of the winged corridor type (A in Fig. 1) with a porticoed facade (Fig. 1). Attached to the eastern end of the house, measuring 37 x 46 meters, was a wall running east-west which has been interpreted as the protective wall of a garden (G in Fig.</description>
+Garden Description The house of this villa rustica was of the winged corridor type (A in Fig. 1) with a porticoed facade (Fig. 1). Attached to the eastern end of the house, measuring 37 x 46 meters, was a wall running east-west which has been interpreted as the protective wall of a garden (G in Fig. 1).
+Maps Plans   Fig. 1: Plan of the rural villa (A) with a possible garden (G) protected by a wall to the east of the main building. The shoreline of the lake is dotted. Adapted from Drack and Fellmann 1988, fig. 369. (Rights Statement)   Images Dates unspecified
+Bibliography  W. Drack and R. Fellmann, Die Römer in der Schweiz, Stuttgart, 1988, pp.</description>
     </item>
     
     <item>
@@ -431,12 +488,15 @@ Garden Description The house of this villa rustica was of the winged corridor ty
 Province Description Location Dietikon
 Dietikon (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Dietikon
-Keywords axial plan
+Keywords archaeological garden
+axial plan
+corridors
+pergolas
 piscinae
 porticoes
 rural villas
 villae rusticae
-Garden Description This villa rustica complex was built on a site at the bottom of a valley near and parallel to the river Limmat. Dietikon was situated on an important land and water traffic route from the Bündner Alps to Vindonissa and further north to the Rhine.</description>
+Garden Description This villa rustica complex was built on a site at the bottom of a valley near and parallel to the river Limmat. Dietikon was situated on an important land and water traffic route from the Bündner Alps to Vindonissa and further north to the Rhine. Recent excavations supply valuable evidence for a garden in front of the entrance to a rural residence, giving insight into the appearance of other similar villas at which, for one reason or another, no physical remains of gardens have been retrieved. The excavations revealed a first villa with timber buildings dating to the Tiberian period, or early 1st century AD. Around the middle of the 1st century AD these first buildings were replaced by an axially-constructed stone-built villa complex with an enclosure, covering a total surface of 13 hectares (Fig.</description>
     </item>
     
     <item>
@@ -451,14 +511,17 @@ Bad Kreuznach (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Bad Kreuznach
 Keywords apsed triclinium
 colonnades
+cryptoportici
 fountains
+gutters (building drainage components)
 lararia
 mosaics (visual works)
 peristyles (Roman courtyards)
 porticoes
 rural villas
 villae rusticae
-Garden Description This villa, almost 6000 square meters in size, gives eloquent testimony to the wealth and status of the owner of the rural estate. The estate was built in the second half of the 2nd century and occupied until its destruction around 275.</description>
+Garden Description This villa, almost 6000 square meters in size, gives eloquent testimony to the wealth and status of the owner of the rural estate. The estate was built in the second half of the 2nd century and occupied until its destruction around 275.
+The three-storied villa with more than 50 rooms on the ground floor alone, many decorated with mosaics and imported marble revetment, was centered on a colonnaded garden courtyard (G in Fig. 1). Many of the sandstone columns from the peristyle, as well as fragments of sculpture from the garden, were found in the courtyard. The house was built into a hill, and the courtyard was terraced on two levels.</description>
     </item>
     
     <item>
@@ -471,7 +534,12 @@ Garden Description This villa, almost 6000 square meters in size, gives eloquent
 Province Description Location Aventicum
 Aventicum (Pleiades)
 Location Description The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in AD 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around AD 260, and it was progressively abandoned thereafter.
-Sublocation Sublocation Description Garden House in Insula 16 in Aventicum</description>
+Sublocation Sublocation Description Garden House in Insula 16 in Aventicum
+Keywords colonnades
+insulae
+peristyles (Roman courtyards)
+Garden Description In Insula 16 East, northeast of the forum, were small shops and houses belonging to three different owners. These were demolished when the town was promoted to the status of colonia by Vespasian. The new house occupied the whole insula and was entered on the northeast.
+In the middle of the insula was a large peristyle courtyard which may have been planted (G in Fig. 1). In the southwestern part of the building complex taverns and shops opened onto the colonnaded street.</description>
     </item>
     
     <item>
@@ -487,7 +555,7 @@ Location Description Sublocation Sublocation Description Garden Cemetery Garden 
 Keywords tombs
 epitaphs
 sarcophagi (coffins)
-Garden Description A sarcophagus found at Salona in 1824, transported to the museum in Split, and subsequently lost bore an inscription recording the donation by Aur(elius) Aprilianus to Aur(elius) Amurus and Aur(elia) Quinta of a sarcophagus “which is in the garden of Metrodorus” and specifying that it was put into position while they were still alive (Aur(elius) Aprilianus se vivo donavet arcam Aur(elio) Amuro et Aur(eliae) Quinte que est in orto Metrodori.</description>
+Garden Description A sarcophagus found at Salona in 1824, transported to the museum in Split, and subsequently lost bore an inscription recording the donation by Aur(elius) Aprilianus to Aur(elius) Amurus and Aur(elia) Quinta of a sarcophagus “which is in the garden of Metrodorus” and specifying that it was put into position while they were still alive (Aur(elius) Aprilianus se vivo donavet arcam Aur(elio) Amuro et Aur(eliae) Quinte que est in orto Metrodori. Vivi sibi posuerunt…). The find spot of the sarcophagus is not known, but Wilkes plausibly associates the garden of Metrodorus with a walled cemetery a hundred meters outside the city gate on the north side of the road leading west from town, which comprises a number of individual familial plots marked out by dividing walls within an area enclosed by a massive masonry perimeter built of blocks more than four meters long.</description>
     </item>
     
     <item>
@@ -500,7 +568,18 @@ Garden Description A sarcophagus found at Salona in 1824, transported to the mus
 Province Description Location Aventicum
 Aventicum (Pleiades)
 Location Description The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in AD 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around AD 260, and it was progressively abandoned thereafter.
-Sublocation Sublocation Description Garden House in Insula 13 in Aventicum</description>
+Sublocation Sublocation Description Garden House in Insula 13 in Aventicum
+Keywords archaeological garden
+bathhouses (water recreation structures)
+corridors
+fountains
+garden pavilions
+gutters (building drainage components)
+insulae
+peristyles (Roman courtyards)
+piscinae
+reception rooms
+Garden Description Recent excavations in Insula 13 on the northwestern edge of the town have uncovered the remains of two large and luxurious houses separated from each other by a narrow corridor. They date to the late 1st century and were occupied until the middle of the 3rd century. Both buildings had a length of 60 meters, spanning the length of the insula.</description>
     </item>
     
     <item>
@@ -515,7 +594,7 @@ Salona (Pleiades)
 Location Description Sublocation Sublocation Description Garden Tomb Garden and Pool of Cingius Iustinus
 Keywords tombs
 epitaphs
-Garden Description An inscription reported among those of Salona records an epitaph set up by Iulia Mutiana for herself and her husband Aur(elius) Pateas in a place granted her by A. Aelius Marullinus “among the sarcophagi in the middle in the garden, near the road, overlooking the old (?</description>
+Garden Description An inscription reported among those of Salona records an epitaph set up by Iulia Mutiana for herself and her husband Aur(elius) Pateas in a place granted her by A. Aelius Marullinus “among the sarcophagi in the middle in the garden, near the road, overlooking the old (?) courtyard (or seed bed)” (inter arcas in medio in horto at viam prospicientem in areolam vet(erem ?)). The specification of a location within the garden, the mention of (other) sarcophagi, and the concession of Marullinus suggest that the cemetery was extensive and perhaps public. The term areola used to describe the area overlooked by Mutiana’s monument generally means “courtyard” in architectural contexts (e.g. CIL 6.9077), “garden plot” or “seed bed” in agricultural ones (e.g. Columella 5.12.3, 10.362, 11.</description>
     </item>
     
     <item>
@@ -531,7 +610,13 @@ Location Description Sublocation Sublocation Description Garden Tomb Garden and 
 Keywords piscinae
 tombs
 epitaphs
-Garden Description A rock cut inscription at Salonae marks the spot where some time in the late second or third century Cingius Iustinus made a fishpond or pool (piscina) in the garden of his wife Aelia Licinia for her and for himself (fecit piscinam in horto Aeliae Liciniae coiugi incomparabili et sibi).</description>
+Garden Description A rock cut inscription at Salonae marks the spot where some time in the late second or third century Cingius Iustinus made a fishpond or pool (piscina) in the garden of his wife Aelia Licinia for her and for himself (fecit piscinam in horto Aeliae Liciniae coiugi incomparabili et sibi). No tomb is mentioned, but the dedication D(is) M(anibus) identifies the text as an epitaph and thus points to a funerary context.
+Maps Plans Images Dates Late second or third century (CE)
+Bibliography  CIL 3.2279  Periodo ID Pleiades ID 197488
+TGN ID 7017320
+Contributor John Bodel (ORCID: 0000-0003-1820-6368)
+Publication date 14 July 2020
+Related articles </description>
     </item>
     
     <item>
@@ -544,7 +629,18 @@ Garden Description A rock cut inscription at Salonae marks the spot where some t
 Province Description Location Aventicum
 Aventicum (Pleiades)
 Location Description The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in AD 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around AD 260, and it was progressively abandoned thereafter.
-Sublocation Sublocation Description Garden Palatial House in Insula 7 in Aventicum</description>
+Sublocation Sublocation Description Garden Palatial House in Insula 7 in Aventicum
+Keywords archaeological garden
+axial plan
+bathhouses (water recreation structures)
+drains
+exedrae (site elements)
+mosaics (visual works)
+palaces
+peristyles (Roman courtyards)
+piscinae
+presence chambers
+Garden Description The remains of a palatial house (Palais de Derrière la Tour) were recently uncovered in excavations on the western edge of the city in an area characterized by luxurious domestic dwellings (Fig. 1). The house in its final state, from the Severan period to the middle of the 3rd century, had a peristyle courtyard measuring 42 x 69 meters.</description>
     </item>
     
     <item>
@@ -560,11 +656,14 @@ Location Description The town on the Rhine River possessed colonial status since
 Sublocation Sublocation Description Garden House in Insula 30 in Augusta Raurica
 Keywords barrier walls
 colonnades
+corridors
 insulae
 peristyles (Roman courtyards)
 triclinia
+vestibules
 water wells
-Garden Description Insula 30, east of the central baths, was taken up by a single house built around 200 AD.</description>
+Garden Description Insula 30, east of the central baths, was taken up by a single house built around 200 AD. This replaced several earlier structures on the site. The insula, including the street colonnades, had an overall area of ca. 48 x 60 meters.
+The house had a peristyle courtyard of rectangular shape which was surrounded on three sides by a low wall supporting stone columns. The courtyard was unpaved and almost certainly planted (G in Fig. 1). Entering the house from the east, one passed through a vestibule before arriving in the peristyle corridor around the courtyard.</description>
     </item>
     
     <item>
@@ -578,12 +677,13 @@ Province Description Location Augusta Raurica
 Augusta Raurica (Pleiades)
 Location Description The town on the Rhine River possessed colonial status since the late 1st century BC. The street grid, as well as many public and residential buildings, are well known from excavations.
 Sublocation Sublocation Description Garden House in Insula 1 and 2 in Augusta Raurica
-Keywords barrier walls
+Keywords archaeological garden
+barrier walls
 insulae
 peristyles (Roman courtyards)
 porticoes
 terrace gardens
-Garden Description This house, built on sloping terrain on the northern edge of the city around AD 150, was enlarged twenty years later to incorporate at least two certain gardens (Fig.</description>
+Garden Description This house, built on sloping terrain on the northern edge of the city around AD 150, was enlarged twenty years later to incorporate at least two certain gardens (Fig. 1). It bordered north and south on streets and was flanked on the east and west by other houses. In this last phase after ca. 170, the house covered an area of about 2000 square meters. In the center of the building was an irregular peristyle courtyard, at the north end of which was a private bath complex.</description>
     </item>
     
     <item>
@@ -597,9 +697,12 @@ Province Description Location Arae Flaviae
 Arae Flaviae (Pleiades)
 Location Description This town on the Neckar river was granted municipal status around 84 AD or slightly later. In modern terms, it lies about halfway between Zurich and Stuttgart.
 Sublocation Sublocation Description Garden Large Building north of Forum in Arae Flaviae
-Keywords colonnades
+Keywords archaeological garden
+colonnades
+corridors
 peristyles (Roman courtyards)
-Garden Description This building ca. 95 meters in width consisted of several units built at different times.</description>
+vestibules
+Garden Description This building ca. 95 meters in width consisted of several units built at different times. These may represent more than one house, or they may be parts of one large house. The southern part of the complex, entered from the colonnaded street on the west, had a vestibule or corridor leading into a peristyle courtyard. This may have been planted, although the excavators could find no clear evidence of this. Beyond the peristyle to the east was a series of rooms, including one large room presumably with representative character, and an open area interpreted as a courtyard or garden (G in Fig.</description>
     </item>
     
     <item>
@@ -613,10 +716,12 @@ Province Description Location Andematunnum
 Andematunnum (Pleiades)
 Location Description Sublocation Sublocation Description Garden Tomb Garden of Anonymous Gaul in Andematunnum
 Keywords former reservoirs
+inscription
+literary garden
 mausoleums
 orchards
 tombs
-Garden Description A famous inscription from the territory of the Lingonian Gauls (Langres) known only from a manuscript of the tenth century records the will of a local hunting enthusiast who built for himself a lavish mausoleum (cella memoriae) and equipped it with orchards (pomaria) and a reservoir (lacus) put in the care of two freedmen who are instructed to devote the revenues from them to upkeep of the tomb complex, and three landscape gardeners (topiarii) and their apprentices, each to be supported annually by the testator’s grandson, Sex.</description>
+Garden Description A famous inscription from the territory of the Lingonian Gauls (Langres) known only from a manuscript of the tenth century records the will of a local hunting enthusiast who built for himself a lavish mausoleum (cella memoriae) and equipped it with orchards (pomaria) and a reservoir (lacus) put in the care of two freedmen who are instructed to devote the revenues from them to upkeep of the tomb complex, and three landscape gardeners (topiarii) and their apprentices, each to be supported annually by the testator’s grandson, Sex. Iulius Aquila, and his heirs. The will goes on to provide for annual banquets at the tomb site, to be funded by Aquila and his heirs (not explicitly from proceeds of the orchards), and to ensure that any deviations from the testator’s prescriptions be undertaken only in order that the complex be better adorned, better planted, and better perfected (nisi.</description>
     </item>
     
     <item>
@@ -634,7 +739,8 @@ villae rusticae
 arbors
 pergolas
 piscinae
-Garden Description The facade of this modest house of a villa rustica near the Meuse river measured 24 m. in length and had two protruding wings joined by a portico (Plan 1). The house was built in the late 1st century A.D. There is evidence for an arbor or pergola next to the house in the form of two rows of postholes arranged diagonally and converging in front of the entrance on the west (circles on plan).</description>
+Garden Description The facade of this modest house of a villa rustica near the Meuse river measured 24 m. in length and had two protruding wings joined by a portico (Plan 1). The house was built in the late 1st century A.D. There is evidence for an arbor or pergola next to the house in the form of two rows of postholes arranged diagonally and converging in front of the entrance on the west (circles on plan). Between the rows of posts, each measuring ca. 15 m. in length, and around which some kind of vines or other climbing plants may have been trained to grow, was a small pool.
+Maps Plans   Plan 1. Plan of the farm house at Neerhaaren-Rekem with a possible arbor leading to the door and a pool (grey) between the posts of the arbor.</description>
     </item>
     
     <item>
@@ -652,7 +758,7 @@ Garden The houses of Insula 7 in Colonia Ulpia Traiana (Xanten)
 Keywords insulae
 kitchen gardens
 courtyards
-Garden Description Between the buildings were open areas, some paved and equipped with ovens and pottery kilns, wells and latrines, others unpaved.</description>
+Garden Description Between the buildings were open areas, some paved and equipped with ovens and pottery kilns, wells and latrines, others unpaved. Some of the small courtyards have been reconstructed by the excavators as kitchen gardens and shrine gardens (Image 1). Organic material from a well in this insula included the remains of peas, beans, lentils, apples, pears and herbs. These fruits and vegetables may have grown in kitchen gardens in the insula, but they may, on the other hand, have been brought into the city from nearby farms.</description>
     </item>
     
     <item>
@@ -666,7 +772,9 @@ Location Cologne
 Cologne (Pleiades)
 Location Description This large town on the west bank of the Rhine river was the civitas capital of the Ubii in the first half of the 1st century A.D. It was granted the status of colonia by Claudius in 50 and became the provincial capital in 85.
 Sublocation Sublocation Description Garden Urban house on Lungenstrasse (Colonia Claudia Ara Agrippinensium)
-Keywords peristyles (Roman courtyards)</description>
+Keywords peristyles (Roman courtyards)
+mural paintings (visual works)
+Garden Description In the second half of the 1st century A.D. a large peristyle house was constructed on the western fringe of the city, built on the remains of abandoned pottery kilns. The peristyle courtyard of the house was at least 13 x 21 m. in size, but the structural remains were badly damaged when a temple complex was erected on the site around the middle of the 2nd century Neither the complete ground plan nor the extent of the building could be determined.</description>
     </item>
     
     <item>
@@ -681,7 +789,11 @@ Cologne (Pleiades)
 Location Description This large town on the west bank of the Rhine river was the civitas capital of the Ubii in the first half of the 1st century A.D. It was granted the status of colonia by Claudius in 50 and became the provincial capital in 85.
 Sublocation Sublocation Description Garden Urban house on Wolfsstrasse (Colonia Claudia Ara Agrippinensium)
 Keywords urban villas
-villae urbanae</description>
+villae urbanae
+colonnades
+peristyles (Roman courtyards)
+mural paintings (visual works)
+Garden Description Only a fraction of this house in the immediate vicinity of the House on Gertrudenstraße was excavated. Enough was salvaged, however, to be able to recognize that the house was of the peristyle type (Plan 1). The house was built after the middle of the 1st century A.D. By the mid-4th century the building was ruinous and the stones of most of the walls were robbed for reuse elsewhere.</description>
     </item>
     
     <item>
@@ -696,7 +808,12 @@ Cologne (Pleiades)
 Location Description This large town on the west bank of the Rhine river was the civitas capital of the Ubii in the first half of the 1st century A.D. It was granted the status of colonia by Claudius in 50 and became the provincial capital in 85.
 Sublocation Sublocation Description Garden Urban house on Gertrudenstrasse (Colonia Claudia Ara Agrippinensium)
 Keywords urban villas
-villae urbanae</description>
+villae urbanae
+peristyles (Roman courtyards)
+apsed pools
+piscinae
+Garden Description This Mediterranean-type house just inside the western city wall had a peristyle courtyard ca. 9 x 14 m. in size, in the middle of which was a pool (3 x 8 m.) with apsidal ends (P on Plan 1).
+The courtyard was unpaved, and the presence of a source of water suggests that it was designed as a garden (G on Plan 1). Although the house was only partially excavated, evidence for several rebuildings from the second half of the 1st to the 4th century was retrieved.</description>
     </item>
     
     <item>
@@ -709,9 +826,11 @@ villae urbanae</description>
 Province Description Location Romula
 Romula (Pleiades)
 Location Description Sublocation Sublocation Description Garden Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion in Romula
-Keywords tombs
-epitaphs
-Garden Description A slab unearthed near Resça (Romula), Romania, in 1954 records a verse epitaph set up by Valeria Gemellina for her husband Ael(ius) Iul(ius) Iulianus, a decurion of the colony of Romula, some time probably in the later second or third century. In it she describes in pastoral terms well suited to the hexameter the setting of the “eternal home” (i.</description>
+Keywords epitaphs
+inscription
+literary garden
+tombs
+Garden Description A slab unearthed near Resça (Romula), Romania, in 1954 records a verse epitaph set up by Valeria Gemellina for her husband Ael(ius) Iul(ius) Iulianus, a decurion of the colony of Romula, some time probably in the later second or third century. In it she describes in pastoral terms well suited to the hexameter the setting of the “eternal home” (i.e. the tomb) she built for him (hanc Iuliano domum flendo fabricavi perennem): “See how Gemellina, along with her children, out of respect for her worthy husband built a resting place for him amidst the vines and shrubbery and the lush grass, where deep shade from an overhanging branch supplies the greenery” (ecce Gemellina pietate ducta marito / struxindolens digno sedem cum liberis una / inter pampinea virgulta et gramina laeta / umbra super rami virides ubi densa ministrat).</description>
     </item>
     
     <item>
@@ -724,10 +843,13 @@ Garden Description A slab unearthed near Resça (Romula), Romania, in 1954 recor
 Province Description Location Sudeley/Spoonley Wood
 Sudeley/Spoonley Wood (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Sudeley/Spoonley Wood
-Keywords axial plan
+Keywords archaeological garden
+axial plan
+barrier walls
 terrace gardens
+rural villas
 villae rusticae
-Garden Description The main residence of this rural estate in Gloucestershire, excavated in 1882, is of the winged corridor type (Fig. 1). From the north and south corners of the house, walls ran in a westerly direction to enclose an open courtyard (G in Fig.</description>
+Garden Description The main residence of this rural estate in Gloucestershire, excavated in 1882, is of the winged corridor type (Fig. 1). From the north and south corners of the house, walls ran in a westerly direction to enclose an open courtyard (G in Fig. 1) approximately 65 meters wide and 45 meters deep from the outer boundary to the main entrance of the house. A paved path was axially arranged in the courtyard to connect the entrance to the courtyard with that of the residential building. The western third of the courtyard is marked off by low scarps which may be remains of garden terraces (T in Fig. 1). Finds from the site indicate a 3rd/4th century date for the complex.</description>
     </item>
     
     <item>
@@ -740,10 +862,15 @@ Garden Description The main residence of this rural estate in Gloucestershire, e
 Province Description Location Latimer
 Latimer (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Latimer
-Keywords fences (site elements)
+Keywords archaeological garden
+barrier walls
+fences (site elements)
+flower gardens
 orchards
+rural villas
+vegetable gardens
 villae rusticae
-Garden Description Excavations at this country house in Buckinghamshire have produced evidence for gardens adjacent to the main residence in its latest phase dating to the beginning of the 4th century (Fig. 1). The house at the west is of the winged corridor type, fronted by a large courtyard bisected by a paved central drive with a banked edge.</description>
+Garden Description Excavations at this country house in Buckinghamshire have produced evidence for gardens adjacent to the main residence in its latest phase dating to the beginning of the 4th century (Fig. 1). The house at the west is of the winged corridor type, fronted by a large courtyard bisected by a paved central drive with a banked edge. Between the outer courtyard wall and the house were areas used for gardening (G in Fig. 1). Just inside the outer yard wall on the south side of the drive traces of at least six bedding trenches cut into the natural subsoil and running parallel to each other were followed for at least 5 meters (b in Fig.</description>
     </item>
     
     <item>
@@ -757,10 +884,12 @@ Province Description Location Gorhambury
 Gorhambury (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Gorhambury
 Keywords arbors
+archaeological garden
 axial plan
 loam
 villae rusticae
-Garden Description At this site in Hertfordshire near the town of Verulamium (St. Albans) excavations have revealed a multi-phased Roman farm, characterized in late Iron Age and Roman times by an outer courtyard with various service buildings and an inner courtyard in which the farm house stood (Fig.</description>
+Garden Description At this site in Hertfordshire near the town of Verulamium (St. Albans) excavations have revealed a multi-phased Roman farm, characterized in late Iron Age and Roman times by an outer courtyard with various service buildings and an inner courtyard in which the farm house stood (Fig. 1).
+An avenue 20 meters wide led axially from the gate at the eastern end of the inner courtyard a cross to the front of the house (H in Fig. 1). On either side of the avenue was a line of circular pits spaced 4-6 meters apart (A in Fig. 1). These were filled with fine, homogeneous loam and have been interpreted as planting holes for trees or shrubs. Alternatively, the rows of holes have been interpreted as the postholes of a covered walkway or arbour leading to the house, supporting climbing plants.</description>
     </item>
     
     <item>
@@ -773,8 +902,10 @@ Garden Description At this site in Hertfordshire near the town of Verulamium (St
 Province Description Location Gatcombe
 Gatcombe (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Estate in Gatcombe
-Keywords barrier walls
-Garden Description This site of a large rural estate about 9 hectares in size in Somerset is enclosed within a massive wall (Fig.1). Although the site was not completely excavated, there is evidence to suggest that the main residence (A in Fig. 1) was located at the southern end of the complex, separated from various workshops and subsidiary buildings in the northern half by an area of cultivated soil.</description>
+Keywords archaeological garden
+barrier walls
+Garden Description This site of a large rural estate about 9 hectares in size in Somerset is enclosed within a massive wall (Fig.1). Although the site was not completely excavated, there is evidence to suggest that the main residence (A in Fig. 1) was located at the southern end of the complex, separated from various workshops and subsidiary buildings in the northern half by an area of cultivated soil. This area has been interpreted as a garden, based on the absence of buildings and the presence of 10-15 centimeters thick layer of rich humus (G in Fig. 1). The complex was built between A.D. 280 and 300, with occupation ending around 380.
+Maps Plans   Fig. 1: Plan of the farm with villa buildings (A).(Rights statement)   Images Dates The complex was built between A.</description>
     </item>
     
     <item>
@@ -787,10 +918,17 @@ Garden Description This site of a large rural estate about 9 hectares in size in
 Province Description Location Fishbourne
 Fishbourne (Pleiades)
 Location Description Sublocation Sublocation Description Garden Roman Palace in Fishbourne
-Keywords colonnades
+Keywords archaeological garden
+basins (vessels)
+colonnades
+loam
 palaces
 piscinae
-Garden Description Fishbourne Roman Palace was accidentally discovered during the digging of a water main trench in 1960. The discovery led to nine seasons of excavations (1961-69) that showed the site had developed from a military base at the time of the Roman invasion in AD 43 to a sumptuous palace by the end of the first century CE.</description>
+presence chambers
+terrace gardens
+vegetable gardens
+Garden Description Fishbourne Roman Palace was accidentally discovered during the digging of a water main trench in 1960. The discovery led to nine seasons of excavations (1961-69) that showed the site had developed from a military base at the time of the Roman invasion in AD 43 to a sumptuous palace by the end of the first century CE. Carefully excavated by Barry Cunliffe, using techniques of environmental archaeology, the garden excavations at the palace have long served as a model in the development of Roman garden archaeology, although the findings did not initially prompt the investigation of other gardens in Britain. Today the site has been developed for display and education.
+The palace contains gardens within its internal courtyards, as well in a larger area to the south, where terraces and other landscape architectural features lay between the residence and the deep water channel (Fig 1.</description>
     </item>
     
     <item>
@@ -806,7 +944,15 @@ Location Description This large town on the west bank of the Rhine river was the
 Sublocation Sublocation Description Garden Atrium House (Colonia Claudia Ara Agrippinensium)
 Keywords urban villas
 villae urbanae
-atrium houses</description>
+atrium houses
+atriums
+tablina
+colonnades
+peristyles (Roman courtyards)
+apsed pools
+piscinae
+Garden Description West of the House of Dionysos stood the so-called &amp;ldquo;atrium house&amp;rdquo; which covered an area of 1400 sq. m. (Plan 1). It was built around the middle of the 1st century A.D.
+Entering from the colonnaded street at the west, one passed through a room reconstructed as an atrium, continuing along a corridor around the tablinum, and arrived at a peristyle courtyard with a semicircular pool. This courtyard, approximately 10 x 13 m.</description>
     </item>
     
     <item>
@@ -821,7 +967,15 @@ Cologne (Pleiades)
 Location Description This large town on the west bank of the Rhine river was the civitas capital of the Ubii in the first half of the 1st century A.D. It was granted the status of colonia by Claudius in 50 and became the provincial capital in 85.
 Sublocation Sublocation Description Garden House of Dionysius (Colonia Claudia Ara Agrippinensium)
 Keywords urban villas
-villae urbanae</description>
+villae urbanae
+triclinia
+insulae
+peristyles (Roman courtyards)
+apsed pools
+axial plan
+piscinae
+Garden Description The largest urban villa excavated thus far in Cologne is the House of Dionysos (3400 sq. m.), named after the early 3rd century mosaic floor decorated with Dionysiac motifs in the triclinium (Image 1??). The house occupies part of an insula in the northeastern corner of the city, bordered on the south by a street leading to the harbor.
+The original house, erected after A.D. 50, was rebuilt under Vespasian and included a peristyle garden courtyard measuring 23 x 27 m.</description>
     </item>
     
     <item>
@@ -844,10 +998,15 @@ Editors  June Dorsch Amartya Shri David Ratzan Christian Casey  (Let&amp;rsquo;s
 Province Description Location Eccles
 Eccles (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Eccles
-Keywords piscinae
+Keywords archaeological garden
+ditches
+drains
+horticultural containers
+piscinae
+rural villas
 villae rusticae
 water baths
-Garden Description This country estate in modern Kent possessed a large ornamental pool (P in Fig. 1) in the area in front of the main residence (A in Fig. 1) and to the east of the attached bath house (Fig. 1). The masonry pool measuring 25 x 3.</description>
+Garden Description This country estate in modern Kent possessed a large ornamental pool (P in Fig. 1) in the area in front of the main residence (A in Fig. 1) and to the east of the attached bath house (Fig. 1). The masonry pool measuring 25 x 3.50 meters lay parallel to the house frontage. From the pool ran a masonry drain. Although no traces of bedding trenches or plantings have been detected in the yard around the pool, it might be assumed that the pool was a centerpiece of a garden (G in Fig. 1). Interestingly, in the backfill of a ditch under the southeast wing of the villa at least thirty planting pots were retrieved in excavations.</description>
     </item>
     
     <item>
@@ -862,7 +1021,8 @@ Blankenheim-Hülchrath (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rustic villa at Blankenheim-Hülchrath
 Keywords rural villas
 villae rusticae
-Garden Description This villa rustica was built on a slope so that the residential building (A on Plan 1) overlooked the rest of the lower lying farmyard (Image 1). The entire complex covered an area 120 m. in width and 250 m. in length (3 hectares). The house was separated from a large open area behind and to the southwest of it by a wall.</description>
+Garden Description This villa rustica was built on a slope so that the residential building (A on Plan 1) overlooked the rest of the lower lying farmyard (Image 1). The entire complex covered an area 120 m. in width and 250 m. in length (3 hectares). The house was separated from a large open area behind and to the southwest of it by a wall. This has been interpreted as a utilitarian garden (G on Plan 1), and it may well be that an orchard and a vegetable garden were located here near the house.
+To the northeast of the house was an open courtyard flanked by outbuildings and separated from the service area of the farm by a terrace wall. This open courtyard may have been a garden (G on Plan 1), perhaps of a more decorative nature.</description>
     </item>
     
     <item>
@@ -875,10 +1035,14 @@ Garden Description This villa rustica was built on a slope so that the residenti
 Province Description Location Darenth
 Darenth (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Darenth
-Keywords piscinae
+Keywords archaeological garden
+kitchen gardens
+piscinae
+rural villas
 villae rusticae
 waterspouts
-Garden Description Excavations at this site of a Roman villa in Kent uncovered a large rectangular masonry pool in the courtyard, which was enclosed by buildings on the north, west, and east (Fig. 1). The villa buildings took up an area of 150 x 225 meters in total, including the courtyard with a width of 26.</description>
+Garden Description Excavations at this site of a Roman villa in Kent uncovered a large rectangular masonry pool in the courtyard, which was enclosed by buildings on the north, west, and east (Fig. 1). The villa buildings took up an area of 150 x 225 meters in total, including the courtyard with a width of 26.5 meters. Occupation at the site began after A.D. 100 and continued until the closing decades of the 4th century.
+This pool (P in Fig. 1), measuring 25.6 x 3.36 meters, lay at right angles to the center of the main residence and bisected an enclosed courtyard, possibly a garden (G in Fig. 1) in front of the house. The pool would have been a decorative element in the courtyard.</description>
     </item>
     
     <item>
@@ -891,11 +1055,16 @@ Garden Description Excavations at this site of a Roman villa in Kent uncovered a
 Province Description Location Chedworth
 Chedworth (Pleiades)
 Location Description Sublocation Sublocation Description Garden Rural Villa in Chedworth
-Keywords bathhouses (water recreation structures)
+Keywords archaeological garden
+animal bone
+bathhouses (water recreation structures)
+drains
 mosaics (visual works)
+rural villas
 sherds
 villae rusticae
-Garden Description This Roman villa in Gloucestershire was partially excavated in the late 19th century, but only the built features and their mosaic floors appear to have been of interest to the Victorian diggers. Excavations in the courtyard conducted between 2000 and 2002 revealed that earlier excavators had not disturbed the courtyard.</description>
+Garden Description This Roman villa in Gloucestershire was partially excavated in the late 19th century, but only the built features and their mosaic floors appear to have been of interest to the Victorian diggers. Excavations in the courtyard conducted between 2000 and 2002 revealed that earlier excavators had not disturbed the courtyard.
+Parts of the villa may date to the early 3rd century A.D. at the latest, but extensions to existing buildings and the arrangement of the residential wings around an open courtyard can be ascribed to the early 4th century (Fig. 1). The slightly trapezoidal courtyard had a maximum width of 25 meters and a maximum length of 40 meters. The recent excavations in the courtyard show that in the early 4th century soil was brought in and dumped over earlier built features such as drains, transforming the newly created courtyard into a garden (G in Fig.</description>
     </item>
     
     <item>
@@ -907,12 +1076,17 @@ Garden Description This Roman villa in Gloucestershire was partially excavated i
       <description>Province Britannia
 Province Description Location Bancroft
 Location Description Sublocation Sublocation Description Garden Rural Villa in Bancroft
-Keywords bathhouses (water recreation structures)
+Keywords archaeological garden
+barrier walls
+bathhouses (water recreation structures)
+drains
 gazebos
+horticultural containers
 piscinae
+rural villas
 villae rusticae
 Garden Description Excavations between 1983 and 1986 at this site in Buckinghamshire revealed a Roman villa of the winged corridor type, which was built in the late 3rd century and rebuilt and enlarged in the mid-4th century (Fig.1).
-From the two projecting wings of the house at the northeast and southeast two walls ran eastward, forming an enclosed courtyard 35.</description>
+From the two projecting wings of the house at the northeast and southeast two walls ran eastward, forming an enclosed courtyard 35.5 meters in width and ca. 42 meters in length in front of the 4th century house. In the centre of the yard was a stone-built rectangular fishpond (P in Fig. 1), 2.6 x 13 meters in size and 50-80 centimeters deep which was continually fed by a drain running from an overflow in the cold plunge bath at the south end of the house.</description>
     </item>
     
     <item>
@@ -924,7 +1098,12 @@ From the two projecting wings of the house at the northeast and southeast two wa
       <description>Province Britannia
 Province Description Location Camulodunum
 Camulodunum (Pleiades)
-Location Description Camulodunum began as an Iron Age settlement defended by dykes, a combination of V-shaped ditch and rampart created by the upcast earth. It extended from the Roman river on the south to the Colne on the north, a distance of some four kilometers. Within this larger area, a legionary fort was built after the Claudian conquest of Britain in AD 43.</description>
+Location Description Camulodunum began as an Iron Age settlement defended by dykes, a combination of V-shaped ditch and rampart created by the upcast earth. It extended from the Roman river on the south to the Colne on the north, a distance of some four kilometers. Within this larger area, a legionary fort was built after the Claudian conquest of Britain in AD 43. On the site of the fort, a veteran colony was planted in about AD 49 and given the name Colonia Victricensis, City of Victory. It became the first provincial capital, later superseded by Londinium (London). Outside its walls was a V-shaped defensive ditch.
+Sublocation Sublocation Description Garden Suburban Gardens in Camulodunum
+Keywords archaeological garden
+ditches
+villae suburbanae
+Garden Description Outside the walls of the city, utilitarian gardens were planted, possibly in the 3rd century, in allotments along the road leading to the Balkerne Gate.</description>
     </item>
     
   </channel>

@@ -74,7 +74,7 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
             # Create MetaData tag list
             sTags = 'tags:\n'
             for sKeyword in vKeywords:
-                sTags += '  - "%s"\n' % sKeyword
+                sTags += ' - "%s"\n' % sKeyword
                 print(sKeyword)
                 
             sMetaData = '---\n%s\n%s---\n\n' % (sMetaData, sTags)
