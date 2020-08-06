@@ -62,16 +62,17 @@ I.iii.3
 
 ## Keywords
 
-[alleys (streets)](http://vocab.getty.edu/page/aat/300008248)  /
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  /
-[exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)  /
-[gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)  /
-[hearths](http://vocab.getty.edu/page/aat/300003990)  /
-[lararia](http://vocab.getty.edu/page/aat/300400600)  /
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)  /
-[pilasters](http://vocab.getty.edu/page/aat/300002737)  /
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  /
-puteal  /
+[alleys (streets)](http://vocab.getty.edu/page/aat/300008248) \
+archaeological garden \
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+[exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589) \
+[gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565) \
+[hearths](http://vocab.getty.edu/page/aat/300003990) \
+[lararia](http://vocab.getty.edu/page/aat/300400600) \
+[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
+[pilasters](http://vocab.getty.edu/page/aat/300002737) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
+puteal \
 [tufa](http://vocab.getty.edu/page/aat/300011712)  
 
 ## Garden Description
@@ -103,6 +104,11 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 unspecified
+
+
+### Excavation Dates
+
+1869
 
 ## Bibliography
 

@@ -42,7 +42,7 @@ tags:
 
 # Sublocation
 
-[Region I]({{<relref ".">}}) \
+[Region I]({{<relref ".">}})
 
 ## Sublocation Description
 
@@ -50,7 +50,7 @@ tags:
 
 # Insula
 
-[Insula ii]({{<relref ".">}}) \
+[Insula ii]({{<relref ".">}})
 
 # House
 
@@ -62,14 +62,15 @@ Casa Della Grata Metallica; Casa Dell’Atrio Tetra-Stilo (I.ii.28)
 
 ## Keywords
 
-[altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
-[cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)  
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)  
-[podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)  
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  
-[tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)  
-[tablina](http://vocab.getty.edu/page/aat/300004180)  
-[triclinia](http://vocab.getty.edu/page/aat/300004359)  
+[altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725) \
+archaeological garden \
+[cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \
+[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
+[podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
+[tables (support furniture)](http://vocab.getty.edu/page/aat/300039548) \
+[tablina](http://vocab.getty.edu/page/aat/300004180) \
+[triclinia](http://vocab.getty.edu/page/aat/300004359) \
 [tufa](http://vocab.getty.edu/page/aat/300011712)  
 
 ## Garden Description
@@ -100,6 +101,10 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 unspecified
+
+### Excavation dates
+
+1873-1874
 
 ## Bibliography
 

@@ -55,6 +55,7 @@ Palatial House in Insula 7 in Aventicum
 
 ## Keywords
 
+archaeological garden \
 [axial plan](http://vocab.getty.edu/page/aat/300121971) \
 [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347) \
 [drains](http://vocab.getty.edu/page/aat/300052564) \
@@ -62,13 +63,14 @@ Palatial House in Insula 7 in Aventicum
 [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
 [palaces](http://vocab.getty.edu/page/aat/300005734) \
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
-[piscinae]( http://vocab.getty.edu/page/aat/300375619)
+[piscinae]( http://vocab.getty.edu/page/aat/300375619) \
+[presence chambers](http://vocab.getty.edu/page/aat/300004445)
 
 ## Garden Description
 
 The remains of a palatial house (Palais de Derrière la Tour) were recently uncovered in excavations on the western edge of the city in an area characterized by luxurious domestic dwellings (Fig. 1). The house in its final state, from the Severan period to the middle of the 3rd century, had a peristyle courtyard measuring 42 x 69 meters. North of the courtyard was a reception room 12 x 18 meters in plan with a mosaic floor.
 
-The courtyard was on two levels, divided on the north by a terrace wall with two small exedrae, possibly pools. An axially arranged central pathway between the reception room on the north and an apsed triclinium on the south further divided the courtyard into an eastern and a western half. Steps led up to the triclinium and to the northern wing of the house. A ground level gutter ran around the courtyard, and a covered drain crossed it beneath the central path. It can reasonably be assumed that the courtyard was designed as a garden (G in Fig. 1) with garden elements such as the path and the exedral pools. With the addition on the northeast of another wing terminating in a bath complex, the building ultimately had a length of around 200 meters The excavators believe that the building in its latest phase had official character.
+The courtyard was on two levels, divided on the north by a terrace wall with two small exedrae, possibly pools. An axially arranged central pathway between the reception room on the north and an apsed triclinium on the south further divided the courtyard into an eastern and a western half. Steps led up to the triclinium and to the northern wing of the house. A ground level gutter ran around the courtyard, and a covered drain crossed it beneath the central path. It can reasonably be assumed that the courtyard was designed as a garden (G in Fig. 1) with garden elements such as the path and the exedral pools. With the addition on the northeast of another wing terminating in a bath complex, the building ultimately had a length of around 200 meters. The excavators believe that the building in its latest phase had official character.
 
 ## Maps
 

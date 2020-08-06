@@ -58,12 +58,13 @@ I.iii.20/22
 
 ## Keywords
 
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  /
-[cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)  /
-[gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)  /
-[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)  /
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)  /
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  /
+archaeological garden \
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+[cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \
+[gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565) \
+[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
+[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
 puteal  
 
 ## Garden Description
@@ -95,6 +96,10 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 unspecified
+
+### Excavation Date
+
+1868
 
 ## Bibliography
 

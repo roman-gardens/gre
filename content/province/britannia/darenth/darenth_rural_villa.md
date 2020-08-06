@@ -48,7 +48,10 @@ Rural Villa in Darenth
 
 ## Keywords
 
+archaeological garden \
+[kitchen gardens](http://vocab.getty.edu/page/aat/300008110) \
 [piscinae]( http://vocab.getty.edu/page/aat/300375619) \
+rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518) \
 [waterspouts](http://vocab.getty.edu/page/aat/300248603)
 

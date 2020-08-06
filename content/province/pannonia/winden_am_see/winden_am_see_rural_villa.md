@@ -26,7 +26,7 @@ tags:
 
 # Location
 
-[Winden Am See]({{<relref ".">}})
+[Winden Am See]({{<relref ".">}}) \
 [Winden Am See (Pleiades)](https://pleiades.stoa.org/places/197425)
 
 ## Location Description
@@ -49,9 +49,10 @@ Rural Villa in Winden Am See
 
 ## Keywords
 
+archaeological garden \
 [corridors](http://vocab.getty.edu/page/aat/300004294) \
 rural villas \
-[vestibules](http://vocab.getty.edu/page/aat/300083076)  
+[vestibules](http://vocab.getty.edu/page/aat/300083076) \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ## Garden Description

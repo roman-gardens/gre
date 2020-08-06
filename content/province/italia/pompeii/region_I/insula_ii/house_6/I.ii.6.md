@@ -37,7 +37,7 @@ tags:
 
 # Sublocation
 
-[Region I]({{<relref ".">}}) \
+[Region I]({{<relref ".">}})
 
 ## Sublocation Description
 
@@ -45,7 +45,7 @@ tags:
 
 # Insula
 
-[Insula ii]({{<relref ".">}}) \
+[Insula ii]({{<relref ".">}})
 
 # House
 
@@ -57,11 +57,14 @@ I.ii.6
 
 ## Keywords
 
-[atriums](http://vocab.getty.edu/page/aat/300004097)  
-[graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613)  
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)   
-[piscinae](http://vocab.getty.edu/page/aat/300375619)  
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  
+archaeological garden \
+[atriums](http://vocab.getty.edu/page/aat/300004097) \
+[graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613) \
+[gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565) \
+inscription \
+[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
+[piscinae](http://vocab.getty.edu/page/aat/300375619) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
 puteal  
 
 ## Garden Description

@@ -58,11 +58,12 @@ I.iii.25 A
 
 ## Keywords
 
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  /
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)  /
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  /
-[statues](http://vocab.getty.edu/page/aat/300047600)  /
-[statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)  /
+archaeological garden \
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
+[statues](http://vocab.getty.edu/page/aat/300047600) \
+[statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262) \
 [triclinia](http://vocab.getty.edu/page/aat/300004359)  
 
 ## Garden Description
@@ -94,6 +95,10 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 unspecified
+
+### Excavation Dates
+
+1869-1872
 
 ## Bibliography
 

@@ -46,6 +46,8 @@ Suburban Gardens in Camulodunum
 
 ## Keywords
 
+archaeological garden \
+[ditches](http://vocab.getty.edu/page/aat/300006178) \
 [villae suburbanae](http://vocab.getty.edu/page/aat/300005519)
 
 ## Garden Description

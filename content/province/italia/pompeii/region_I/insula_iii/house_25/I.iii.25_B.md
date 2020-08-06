@@ -54,7 +54,7 @@ I.iii.25 B
 
 ## Keywords
 
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)  /
+[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
 viridarium
 
 ## Garden Description

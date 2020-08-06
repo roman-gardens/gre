@@ -51,6 +51,8 @@ A sublocation is any area larger than an individual garden, but located within a
 House in Insula 1 and 2 in Augusta Raurica
 
 ## Keywords
+
+archaeological garden \
 [barrier walls](http://vocab.getty.edu/page/aat/300419302) \
 [insulae](http://vocab.getty.edu/page/aat/300000325) \
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \

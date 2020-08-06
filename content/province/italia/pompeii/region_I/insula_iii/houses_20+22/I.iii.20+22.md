@@ -49,7 +49,7 @@ tags:
 
 # House
 
-House 20/22
+Houses 20/22
 
 # Garden
 
@@ -57,11 +57,12 @@ I.iii.20/22
 
 ## Keywords
 
-[altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)  /
-[doliums](http://vocab.getty.edu/page/aat/300400601)  /
-[gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)  /
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)  /
-puteal  /
+[altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725) \
+archaeological garden \
+[doliums](http://vocab.getty.edu/page/aat/300400601) \
+[gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565) \
+[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
+puteal \
 [triclinia](http://vocab.getty.edu/page/aat/300004359)  
 
 ## Garden Description

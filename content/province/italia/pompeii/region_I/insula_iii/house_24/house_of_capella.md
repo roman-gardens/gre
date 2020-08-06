@@ -1,5 +1,4 @@
 ---
-article-type: "province"
 title: "House of Capella (I.iii.24)"
 date: 2020-07-29T15:31:46-04:00
 province_id: PROVINCE_ID
@@ -59,11 +58,12 @@ House of Capella (I.iii.24)
 
 ## Keywords
 
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  /
-[lararia](http://vocab.getty.edu/page/aat/300400600)  /
-[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)  /
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)  /
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  /
+archaeological garden \
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+[lararia](http://vocab.getty.edu/page/aat/300400600) \
+[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
+[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
+[porticoes](http://vocab.getty.edu/page/aat/300004145) \
 [triclinia](http://vocab.getty.edu/page/aat/300004359)  
 
 ## Garden Description
@@ -95,6 +95,10 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 unspecified
+
+### Excavation Dates
+
+1868
 
 ## Bibliography
 

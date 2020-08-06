@@ -48,8 +48,13 @@ Rural Villa in Latimer
 
 ## Keywords
 
+archaeological garden \
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
 [fences (site elements)](http://vocab.getty.edu/page/aat/300005044) \
+[flower gardens](http://vocab.getty.edu/page/aat/300008135) \
 [orchards](http://vocab.getty.edu/page/aat/300008890) \
+rural villas \
+[vegetable gardens](http://vocab.getty.edu/page/aat/300008142) \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)        
 
 ## Garden Description

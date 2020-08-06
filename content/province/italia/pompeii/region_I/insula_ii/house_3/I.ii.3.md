@@ -54,8 +54,9 @@ I.ii.3
 
 ## Keywords
 
-[tufa](http://vocab.getty.edu/page/aat/300011712)  
-[vestibules](http://vocab.getty.edu/page/aat/300083076)   
+archaeological garden \
+[tufa](http://vocab.getty.edu/page/aat/300011712) \
+[vestibules](http://vocab.getty.edu/page/aat/300083076) \  
 viridarium
 
 ## Garden Description

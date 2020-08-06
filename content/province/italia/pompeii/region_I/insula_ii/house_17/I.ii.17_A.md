@@ -35,7 +35,7 @@ tags:
 
 # Sublocation
 
-[Region I]({{<relref ".">}}) \
+[Region I]({{<relref ".">}})
 
 ## Sublocation Description
 
@@ -43,7 +43,7 @@ tags:
 
 # Insula
 
-[Insula ii]({{<relref ".">}}) \
+[Insula ii]({{<relref ".">}})
 
 # House
 
@@ -55,8 +55,9 @@ I.ii.17 A
 
 ## Keywords
 
-[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)  
-[piscinae]( http://vocab.getty.edu/page/aat/300375619)  
+archaeological garden \
+[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
+[piscinae]( http://vocab.getty.edu/page/aat/300375619) \
 [tablina](http://vocab.getty.edu/page/aat/300004180)  
 
 ## Garden Description
@@ -88,6 +89,10 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 unspecified
+
+### Excavation dates
+
+1872
 
 ## Bibliography
 

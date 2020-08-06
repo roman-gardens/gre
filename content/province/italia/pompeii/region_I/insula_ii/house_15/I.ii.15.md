@@ -34,7 +34,7 @@ tags:
 
 # Sublocation
 
-[Region I]({{<relref ".">}}) \
+[Region I]({{<relref ".">}})
 
 ## Sublocation Description
 
@@ -42,7 +42,7 @@ tags:
 
 # Insula
 
-[Insula ii]({{<relref ".">}}) \
+[Insula ii]({{<relref ".">}})
 
 # House
 
@@ -54,7 +54,8 @@ I.ii.15
 
 ## Keywords
 
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)  
+archaeological garden \
+[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
 [impluvia](http://vocab.getty.edu/page/aat/300129867)  
 
 ## Garden Description
@@ -84,6 +85,11 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 unspecified
+
+
+### Excavation Dates
+
+1873
 
 ## Bibliography
 

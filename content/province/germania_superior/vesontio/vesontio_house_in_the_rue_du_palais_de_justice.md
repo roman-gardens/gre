@@ -63,6 +63,7 @@ House in the Rue du Palais de Justice in Vesontio
 
 ## Keywords
 
+archaeological garden \
 [barrier walls](http://vocab.getty.edu/page/aat/300419302) \
 [domus](http://vocab.getty.edu/page/aat/300005506) \
 [fountains](http://vocab.getty.edu/page/aat/300006179) \
@@ -108,6 +109,10 @@ FIGURES:
 ## Dates
 
 Beginning of the Flavian epoch - middle of the third century
+
+### Excavation Dates
+
+2000-2001
 
 ## Bibliography
 

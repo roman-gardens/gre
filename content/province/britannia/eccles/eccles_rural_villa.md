@@ -24,7 +24,7 @@ tags:
 
 # Location
 
-[Eccles]({{<relref "..">}})  
+[Eccles]({{<relref "..">}}) \
 [Eccles (Pleiades)](https://pleiades.stoa.org/places/79448)
 
 ## Location Description
@@ -48,7 +48,12 @@ Rural Villa in Eccles
 
 ## Keywords
 
+archaeological garden \
+[ditches](http://vocab.getty.edu/page/aat/300006178) \
+[drains](http://vocab.getty.edu/page/aat/300052564) \
+[horticultural containers](http://vocab.getty.edu/page/aat/300198749) \
 [piscinae]( http://vocab.getty.edu/page/aat/300375619) \
+rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518) \
 [water baths](http://vocab.getty.edu/page/aat/300248755)
 
