@@ -47,8 +47,9 @@ Sancturary of Artemis
 
 ## Keywords
 
+[Literary](#) \
 [grove (sacred grove)](http://vocab.getty.edu/page/aat/300251876) \
-[Pausanias](urn:cite:perseus:author.1054.1) 
+[Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1) 
 
 ## Garden Description
 
