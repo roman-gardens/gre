@@ -9,6 +9,15 @@ draft: false
 
 categories:
  - "Germania Superior"
+tags:
+  - "axial plan"
+  - "bathhouses"
+  - "drains"
+  - "exedrae"
+  - "mosaics"
+  - "palaces"
+  - "peristyles"
+  - "piscinae"
 ---
 
 # Province

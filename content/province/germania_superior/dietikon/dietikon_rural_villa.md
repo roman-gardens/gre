@@ -9,6 +9,11 @@ draft: false
 
 categories:
  - "Germania Superior"
+tags:
+  - "axial plan"
+  - "piscinae"
+  - "porticoes"
+  - "villae rusticae"
 ---
 
 # Province

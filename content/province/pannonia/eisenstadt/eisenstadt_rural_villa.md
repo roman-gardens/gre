@@ -9,6 +9,13 @@ draft: false
 
 categories:
  - "Pannonia"
+tags:
+  - "altars"
+  - "atriums"
+  - "peristyles"
+  - "podiums"
+  - "porticoes"
+  - "villae rusticae"
 ---
 
 # Province

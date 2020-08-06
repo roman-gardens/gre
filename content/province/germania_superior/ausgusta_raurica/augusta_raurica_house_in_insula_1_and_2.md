@@ -9,6 +9,12 @@ draft: false
 
 categories:
  - "Germania Superior"
+tags:
+  - "barrier walls"
+  - "insulae"
+  - "peristyles"
+  - "porticoes"
+  - "terrace gardens"
 ---
 
 # Province

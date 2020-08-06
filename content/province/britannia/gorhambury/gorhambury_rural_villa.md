@@ -9,6 +9,11 @@ draft: false
 
 categories:
  - "Britannia"
+tags:
+  - "arbors"
+  - "axial plan"
+  - "loam"
+  - "villae rusticae"
 ---
 
 # Province

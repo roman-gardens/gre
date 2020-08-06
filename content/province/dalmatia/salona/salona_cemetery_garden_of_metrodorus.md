@@ -8,6 +8,10 @@ draft: false
 
 categories:
  - "Dalmatia"
+tags:
+  - "epitaphs"
+  - "sarcophagi"
+  - "tombs"
 ---
 
 # Province
@@ -107,5 +111,3 @@ Late second or third century (CE)
 ## Related articles
 
 <!-- Links to other related articles. Leave blank for now -->
-
-

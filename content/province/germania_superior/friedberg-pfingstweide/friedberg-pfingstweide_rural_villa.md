@@ -9,6 +9,9 @@ draft: false
 
 categories:
  - "Germania Superior"
+tags:
+  - "bathhouses"
+  - "villae rusticae"
 ---
 
 # Province

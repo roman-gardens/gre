@@ -9,7 +9,10 @@ draft: true
 
 categories:
  - "Italia"
-
+tags:
+  - "mural paintings"
+  - "piscinae"
+  - "tablina"
 ---
 
 # Province
