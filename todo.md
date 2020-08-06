@@ -69,7 +69,7 @@
 - [x] Note if it has literary evidence/artifacts.
 - [ ] Issue: I have found a entry that is House of Epidius Fortunatus (I.iii.3) and another that is I.iii.3. If there is a distinction, should we make it clearer?
 - [x] *Aedicula lararium* added as one keyword merged from the two currently listed.
-- [ ] Should I include excavations dates in date section?
+- [x] Should I include excavations dates in date section?
 - [x] Province edits for keywords
 
 # Pompeii Entries that Have...
@@ -93,6 +93,8 @@
   - a small marble head of Bacchus from a herm (Mus. Naz. inv. no. 110 653)
   - a small marble ram (Mus. Naz. inv. no. 120 357)
 - I.iv.5/25
+- I.v.2
+- I.v.3/16
 
 ## Literary Evidence
 
