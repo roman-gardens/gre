@@ -9,6 +9,10 @@ draft: false
 
 categories:
  - "Britannia"
+tags:
+  - "piscinae"
+  - "villae rusticae"
+  - "water baths"
 ---
 
 # Province

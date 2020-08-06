@@ -47,7 +47,7 @@ tablina	http://vocab.getty.edu/page/aat/300004180
 castra	http://vocab.getty.edu/page/aat/300008440
 praetoriums	http://vocab.getty.edu/page/aat/300005636
 pedestals	http://vocab.getty.edu/page/aat/300001744
-Pliny the Younger	urn:cts:latinLit:phi1318
+Pliny the Younger	https://catalog.perseus.org/catalog/urn:cts:latinLit:phi1318
 pergolas	http://vocab.getty.edu/page/aat/300006783
 sarcophagi	http://vocab.getty.edu/page/aat/300005947
 lararia	http://vocab.getty.edu/page/aat/300400600

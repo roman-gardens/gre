@@ -9,6 +9,22 @@ draft: false
 
 categories:
  - "Germania Superior"
+tags:
+  - "arbors"
+  - "barrier walls"
+  - "ceramic tile"
+  - "fences"
+  - "hearths"
+  - "horrea"
+  - "mosaics"
+  - "pedestals"
+  - "pillars"
+  - "piscinae"
+  - "porticoes"
+  - "sherds"
+  - "tesserae"
+  - "villae rusticae"
+  - "water supply systems"
 ---
 
 # Province

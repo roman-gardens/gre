@@ -8,6 +8,9 @@ draft: true
 
 categories:
  - "Achaea"
+tags:
+  - "Pausanias"
+  - "orchards"
 ---
 
 ## Province

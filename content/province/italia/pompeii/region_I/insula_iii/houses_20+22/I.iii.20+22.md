@@ -9,7 +9,12 @@ draft: true
 
 categories:
  - "Italia"
-
+tags:
+  - "altars"
+  - "doliums"
+  - "gutters"
+  - "peristyles"
+  - "triclinia"
 ---
 
 # Province

@@ -10,6 +10,20 @@ draft: false
 
 categories:
  - "Germania Superior"
+tags:
+  - "barrier walls"
+  - "domus"
+  - "fountains"
+  - "hypocausts"
+  - "mosaics"
+  - "oeci"
+  - "opus sectile"
+  - "opus signinum"
+  - "peristyles"
+  - "piscinae"
+  - "porticoes"
+  - "terrazzo"
+  - "water wells"
 ---
 
 # Province

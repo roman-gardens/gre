@@ -9,6 +9,14 @@ draft: false
 
 categories:
  - "Germania Superior"
+tags:
+  - "colonnades"
+  - "fountains"
+  - "lararia"
+  - "mosaics"
+  - "peristyles"
+  - "porticoes"
+  - "villae rusticae"
 ---
 
 # Province

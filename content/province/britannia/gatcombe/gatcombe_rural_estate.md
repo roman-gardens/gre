@@ -9,6 +9,8 @@ draft: false
 
 categories:
  - "Britannia"
+tags:
+  - "barrier walls"
 ---
 
 # Province

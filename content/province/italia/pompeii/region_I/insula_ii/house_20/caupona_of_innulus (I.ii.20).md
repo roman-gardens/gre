@@ -9,7 +9,11 @@ draft: true
 
 categories:
  - "Italia"
-
+tags:
+  - "biclinia"
+  - "cauponae"
+  - "lararia"
+  - "tables"
 ---
 
 # Province

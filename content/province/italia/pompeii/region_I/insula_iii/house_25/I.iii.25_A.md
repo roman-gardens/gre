@@ -9,7 +9,13 @@ draft: true
 
 categories:
  - "Italia"
-
+tags:
+  - "barrier walls"
+  - "peristyles"
+  - "porticoes"
+  - "statues"
+  - "statuettes"
+  - "triclinia"
 ---
 
 # Province

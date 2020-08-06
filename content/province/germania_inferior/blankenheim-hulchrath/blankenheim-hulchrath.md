@@ -9,6 +9,8 @@ draft: false
 
 categories:
  - "Germania Inferior"
+tags:
+  - "villae rusticae"
 ---
 
 # Province
