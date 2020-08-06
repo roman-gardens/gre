@@ -9,6 +9,12 @@ draft: true
 
 categories:
  - "Germania Inferior"
+tags:
+  - "courtyards"
+  - "hedges"
+  - "piscinae"
+  - "porticoes"
+  - "villae rusticae"
 ---
 
 # Province

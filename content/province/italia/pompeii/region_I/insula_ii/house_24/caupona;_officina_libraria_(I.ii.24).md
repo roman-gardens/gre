@@ -9,7 +9,15 @@ draft: true
 
 categories:
  - "Italia"
-
+tags:
+  - "atriums"
+  - "barrier walls"
+  - "cauponae"
+  - "flowerpots"
+  - "podiums"
+  - "porticoes"
+  - "tables"
+  - "triclinia"
 ---
 
 # Province

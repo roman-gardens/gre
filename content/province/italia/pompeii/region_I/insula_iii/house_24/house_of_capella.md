@@ -10,7 +10,13 @@ draft: true
 
 categories:
  - "Italia"
-
+tags:
+  - "barrier walls"
+  - "lararia"
+  - "mural paintings"
+  - "peristyles"
+  - "porticoes"
+  - "triclinia"
 ---
 
 # Province

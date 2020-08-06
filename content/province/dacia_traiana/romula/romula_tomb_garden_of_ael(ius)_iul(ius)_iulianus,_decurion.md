@@ -9,6 +9,9 @@ draft: false
 
 categories:
  - "Dacia Traiana"
+tags:
+  - "epitaphs"
+  - "tombs"
 ---
 
 # Province

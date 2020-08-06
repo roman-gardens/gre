@@ -10,7 +10,14 @@ draft: true
 
 categories:
  - "Italia"
-
+tags:
+  - "atriums"
+  - "mural paintings"
+  - "peristyles"
+  - "pillars"
+  - "porticoes"
+  - "statuettes"
+  - "tablina"
 ---
 
 # Province

@@ -9,6 +9,10 @@ draft: false
 
 categories:
  - "Germania Superior"
+tags:
+  - "barrier walls"
+  - "porticoes"
+  - "villae rusticae"
 ---
 
 # Province

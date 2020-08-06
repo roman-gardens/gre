@@ -9,6 +9,10 @@ draft: false
 
 categories:
  - "Dalmatia"
+tags:
+  - "epitaphs"
+  - "piscinae"
+  - "tombs"
 ---
 
 # Province

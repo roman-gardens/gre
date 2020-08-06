@@ -10,7 +10,16 @@ draft: true
 
 categories:
  - "Italia"
-
+tags:
+  - "altars"
+  - "cisterns"
+  - "peristyles"
+  - "podiums"
+  - "porticoes"
+  - "tables"
+  - "tablina"
+  - "triclinia"
+  - "tufa"
 ---
 
 # Province

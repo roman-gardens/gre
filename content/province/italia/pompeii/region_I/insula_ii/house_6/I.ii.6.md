@@ -9,6 +9,12 @@ draft: true
 
 categories:
  - "Italia"
+tags:
+  - "atriums"
+  - "graffiti"
+  - "peristyles"
+  - "piscinae"
+  - "porticoes"
 ---
 
 # Province

@@ -9,7 +9,13 @@ draft: true
 
 categories:
  - "Italia"
-
+tags:
+  - "barrier walls"
+  - "fountains"
+  - "pillars"
+  - "podiums"
+  - "porticoes"
+  - "statuettes"
 ---
 
 # Province

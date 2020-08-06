@@ -9,7 +9,15 @@ draft: true
 
 categories:
  - "Italia"
-
+tags:
+  - "aedicules"
+  - "barrier walls"
+  - "biclinia"
+  - "drains"
+  - "lararia"
+  - "mural paintings"
+  - "piscinae"
+  - "triclinia"
 ---
 
 # Province

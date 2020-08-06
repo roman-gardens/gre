@@ -9,7 +9,17 @@ draft: true
 
 categories:
  - "Italia"
-
+tags:
+  - "alleys"
+  - "barrier walls"
+  - "exedrae"
+  - "gutters"
+  - "hearths"
+  - "lararia"
+  - "peristyles"
+  - "pilasters"
+  - "porticoes"
+  - "tufa"
 ---
 
 # Province

@@ -9,6 +9,11 @@ draft: false
 
 categories:
  - "Germania Inferior"
+tags:
+  - "arbors"
+  - "pergolas"
+  - "piscinae"
+  - "villae rusticae"
 ---
 
 # Province

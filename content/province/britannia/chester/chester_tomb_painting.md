@@ -9,6 +9,9 @@ draft: true
 
 categories:
  - "Britannia"
+tags:
+  - "funerary buildings"
+  - "tombs"
 ---
 
 # Province

@@ -9,6 +9,11 @@ draft: false
 
 categories:
  - "Germania Superior"
+tags:
+  - "bathhouses"
+  - "porticoes"
+  - "terrace gardens"
+  - "villae rusticae"
 ---
 
 # Province

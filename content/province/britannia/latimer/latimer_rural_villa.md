@@ -9,6 +9,10 @@ draft: false
 
 categories:
  - "Britannia"
+tags:
+  - "fences"
+  - "orchards"
+  - "villae rusticae"
 ---
 
 # Province

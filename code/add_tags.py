@@ -9,8 +9,8 @@ reKeywordEntries = '\[([^\]]+)\]\(([^\)]+)\)'
 print('\n'*100)
 
 # Define the directory to start from
-# sBaseDir = '../content/province'
-sBaseDir = 'test_data'
+sBaseDir = '../content/province'
+# sBaseDir = 'test_data'
 
 # Navigate the directory tree start at a predefined root directory
 for sRoot, vDirs, vFiles in os.walk(sBaseDir):

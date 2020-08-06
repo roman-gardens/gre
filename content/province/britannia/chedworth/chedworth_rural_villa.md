@@ -9,6 +9,11 @@ draft: false
 
 categories:
  - "Britannia"
+tags:
+  - "bathhouses"
+  - "mosaics"
+  - "sherds"
+  - "villae rusticae"
 ---
 
 # Province
