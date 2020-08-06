@@ -38,4 +38,4 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
 # we can go through the list and print them out or save them into a text file or whatever
 for tHighlight in vHighlights:
     # We can use the color in the style attribute to set the text color!
-    print(colored(tHighlight[1], tHighlight[0]))
+    print('\t• ' + colored(tHighlight[1], tHighlight[0]))

@@ -1,6 +1,7 @@
 # Packages that contain useful code for us to use
-import os # Lets us do file operations
-import re # Regular Expressions!
+import os           # Lets us do file operations
+import re           # Regular Expressions!
+import pyperclip    # Let's us copy to the clipboard
 
 # The RegEx string we're going to use to extract the desired text
 reKeywordEntries = '\[([^\]]+)\]\(([^\)]+)\)'
@@ -38,10 +39,23 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
             sKeywords = sKeywords[:iEnd].strip()
             
             for tMatch in re.findall(reKeywordEntries, sKeywords):
-                    if not tMatch in vKeywords:
-                        vKeywords.append(tMatch)
+                if not tMatch in vKeywords:
+                    vKeywords.append(tMatch)
 
+# Make one list of all the keywords
+sKeywordList = ''
+for tKeyword in vKeywords:
+    sKeywordList += '%s\t%s\n' % tKeyword
+
+sKeywordList = sKeywordList.strip()
+
+# Save that list to a file
 with open('keywords.txt', 'w') as f:
-    for tKeyword in vKeywords:
-        f.write('%s\t%s\n' % tKeyword)
+    f.write(sKeywordList)
     f.close()
+
+# Copy the list to the clipboard (for pasting in Google Sheet)
+pyperclip.copy(sKeywordList)
+
+# Print it out for us to see
+print(sKeywordList)

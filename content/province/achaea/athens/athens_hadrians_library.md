@@ -51,7 +51,7 @@ Hadrian's Library
 [piscinae](http://vocab.getty.edu/page/aat/300375619) \
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
 [Gymnasium](http://vocab.getty.edu/page/aat/300007297) \
-[Pausanias](urn:cite:perseus:author.1054.1) \
+[Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1) \
 [colonnades](http://vocab.getty.edu/page/aat/300002613)  
 
 ## Garden Description

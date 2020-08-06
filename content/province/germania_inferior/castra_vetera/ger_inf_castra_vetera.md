@@ -49,7 +49,7 @@ Legionary houses at Castra Vetera (Germania inferior)
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
 [tablina](http://vocab.getty.edu/page/aat/300004180)  
 [pedestals](http://vocab.getty.edu/page/aat/300001744)  
-[Pliny the Younger](urn:cts:latinLit:phi1318)
+[Pliny the Younger](https://catalog.perseus.org/catalog/urn:cts:latinLit:phi1318)
 
 ## Garden Description
 

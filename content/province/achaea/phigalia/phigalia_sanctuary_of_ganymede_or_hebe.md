@@ -45,7 +45,7 @@ Sanctuary of Ganemede or Hebe
 ## Keywords
 
 [Literary](#) \
-[Pausanias](urn:cite:perseus:author.1054.1) \
+[Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1) \
 [orchards](http://vocab.getty.edu/page/aat/300008890) \
 
 
