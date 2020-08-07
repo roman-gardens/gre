@@ -3,7 +3,7 @@ title: "House of the Lararium: Casa Del Larario; Sacello Iliaco (I.vi.4)"
 date: 2020-08-06T13:24:46-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -46,8 +46,6 @@ categories:
 
 House 4
 
-<!-- I assume that 2/16 was a typo as this is listed as part B and an entry in I.v.3/16 is part A.-->
-
 # Garden
 
 House of the Lararium: Casa Del Larario; Sacello Iliaco (I.vi.4)
@@ -80,7 +78,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_vi.tif" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." title="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." >}}
+{{< figure src="../images/Region_I_insula_vi.tif" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." title="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement)." >}}
 
 ## Images
 
@@ -95,7 +93,7 @@ unspecified
 ## Bibliography
 
 * Della Corte, *NSc* (1913), pp. 356-357 and fig. 1 (plan) on p. 356. [(worldcat)](http://www.worldcat.org/oclc/859831184)
-* Jashemski, *Gardens*, vol.II, p. 35.
+* Jashemski, *Gardens*, vol.II, p. 35. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Spinazzola, *Scavi nuovi*, p. 446 and fig. 493 (plan) on p. 433. [(worldcat)](http://www.worldcat.org/oclc/883858580)
 
 ### Periodo ID
@@ -112,7 +110,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

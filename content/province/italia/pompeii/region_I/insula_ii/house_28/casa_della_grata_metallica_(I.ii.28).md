@@ -1,10 +1,9 @@
 ---
-article-type: "province"
 title: "Casa Della Grata Metallica; Casa Dell’Atrio Tetra-Stilo (I.ii.28)"
 date: 2020-07-27T15:01:32-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -110,7 +109,7 @@ unspecified
 
 * Fiorelli, *Descr.*, p. 48. [(worldcat)](http://www.worldcat.org/oclc/908272023)
 * *GiornSc*, n.s., 3 (1874-1877), col. 60.
-* Jashemski, *Gardens*, vol.II, p. 25.
+* Jashemski, *Gardens*, vol.II, p. 25. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Mau, *BdI* (1874), pp. 250-252.
 * Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 77.
 * Soprano, p. 293, no. 2 and figs. 28.6 and 29.
@@ -131,7 +130,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

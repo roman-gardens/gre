@@ -3,7 +3,7 @@ title: "House of Epidius Fortunatus (I.iii.3)"
 date: 2020-07-27T19:24:07-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -105,7 +105,7 @@ unspecified
 
 * Fiorelli, *Scavi*, pp. 70-71. [(worldcat)](http://www.worldcat.org/oclc/249024903)
 * Idem, *Desc.*, pp.50-51.[(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol.II, p. 26.
+* Jashemski, *Gardens*, vol.II, p. 26. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Mau, *BdI* (1874), pp. 181-182.
 * Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 77.
 * Pernice, p. 14.
@@ -125,7 +125,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

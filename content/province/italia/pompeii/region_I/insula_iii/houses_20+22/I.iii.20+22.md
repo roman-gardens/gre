@@ -3,7 +3,7 @@ title: "I.iii.20/22"
 date: 2020-07-28T13:25:19-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -100,7 +100,7 @@ unspecified
 * Boyce, p. 24, no. 25.
 * Fiorelli, *Scavi*, p. 73. [(worldcat)](http://www.worldcat.org/oclc/249024903)
 * Idem, *Desc.*, p. 54.[(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol.II, p. 27.
+* Jashemski, *Gardens*, vol.II, p. 27. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Matz, *BdI* (1869), p. 242.
 * Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 78.
 * Soprano, p. 308, no. 36.
@@ -120,7 +120,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

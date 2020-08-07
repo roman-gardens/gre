@@ -3,7 +3,7 @@ title: "Caupona of Innulus (I.ii.20)"
 date: 2020-07-26T15:39:04-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -99,7 +99,7 @@ unspecified
 * Boyce, p. 23, no. 13.
 * Fiorelli, *Descr.*, p. 45. [(worldcat)](http://www.worldcat.org/oclc/908272023)
 * *GiornSc*, n.s., 3 (1874-1877), col. 47-48.
-* Jashemski, *Gardens*, vol.II, p. 24.
+* Jashemski, *Gardens*, vol.II, p. 24. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Mau, *BdI* (1874), p. 264.
 * Niccolini, *Case*, vol. 2, “Descr.," pg. 77.
 * Soprano, p.305, no. 24.
@@ -120,7 +120,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

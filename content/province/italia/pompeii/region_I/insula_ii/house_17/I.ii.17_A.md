@@ -3,7 +3,7 @@ title: "I.ii.17 A"
 date: 2020-07-25T15:00:54-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -77,9 +77,9 @@ NEW WAY ↓↓↓↓
 
 ## Plans
 
-{{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, *Gardens*, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, *Gardens*, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Fig_2_Region_I_insula_ii.tif" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
+{{< figure src="../images/Fig_2_Region_I_insula_ii.tif" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, *Gardens*, plan 5, p. 22; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, *Gardens*, plan 5, p. 22; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
 
 ## Images
 
@@ -97,7 +97,7 @@ unspecified
 ## Bibliography
 
 * Fiorelli, *Descr.*, p. 44. [(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol.II, p. 23.
+* Jashemski, *Gardens*, vol.II, p. 23. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Mau, *BdI* (1874), pp. 264-265.
 * Niccolini, *Case*, vol. 2, “Descr. Gen.,” p. 76.
 * Viola, “*Scavi*” p. 12. [(worldcat)](http://www.worldcat.org/oclc/715087975)
@@ -116,7 +116,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

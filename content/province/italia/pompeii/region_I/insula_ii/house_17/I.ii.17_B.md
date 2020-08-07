@@ -4,7 +4,7 @@ title: "I.ii"
 date: 2020-07-25T15:01:06-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -110,9 +110,9 @@ unspecified
 * Fiorelli, *Descr.*, p. 44. [(worldcat)](http://www.worldcat.org/oclc/908272023)
 * *GiornSc*, n.s., 3 (1874-1877),  cols. 46-47, 48, 55.
 * <span style="color:green"> Grimal, p. 445, no. 1. </span>
-* Jashemski, *Gardens*, 1::124-125.
-* Jashemski, *Gardens*, vol.II, pp. 23-24.
-* <span style="color:green"> Jashemski, *Gardens*, vol.II, p. 313. </span>
+* Jashemski, *Gardens*, 1::124-125. [(worldcat)](http://www.worldcat.org/oclc/884024123)
+* Jashemski, *Gardens*, vol.II, pp. 23-24. [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* <span style="color:green"> Jashemski, *Gardens*, vol.II, p. 313. [(worldcat)](http://www.worldcat.org/oclc/921816405)</span>
 * Mau, *BdI* (1874), pp. 233-235.
 * Ibid. (1874), pp. 265-266.
 * <span style="color:green"> Mau, *BdI* (1874), pp. 265-266. </span>
@@ -138,7 +138,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

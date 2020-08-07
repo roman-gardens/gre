@@ -65,6 +65,7 @@ Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)
 [arbors](http://vocab.getty.edu/page/aat/300006781) \
 [barns](http://vocab.getty.edu/page/aat/300004900) \
 [barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+[cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \
 [ceramic tile](http://vocab.getty.edu/page/aat/300010678) \
 [ditches](http://vocab.getty.edu/page/aat/300006178) \
 [fences (site elements)](http://vocab.getty.edu/page/aat/300005044) \

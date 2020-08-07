@@ -1,10 +1,9 @@
 ---
-title: "House of the Citharist; Casa Del Citarista; House of L. Popidius Secundus Agustianus and L.
-Popidus Ampliatus (I.iv.5/25)"
+title: "House of the Citharist; Casa Del Citarista; House of L. Popidius Secundus Agustianus and L. Popidus Ampliatus (I.iv.5/25)"
 date: 2020-08-02T13:04:23-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -93,13 +92,13 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Fig.7_Region_I_insula_iv.tif" alt="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." title="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." >}}
+{{< figure src="../images/Fig.7_Region_I_insula_iv.tif" alt="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." title="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8 (Rights Statement)." >}}
 
 ## Images
 
-{{< figure src="../images/Fig.9_I.iv.5,25_20.4.66.jpg" alt="Fig. 3: I.iv.5,25; 20.4.66, S.A.Jashemski." title="Fig. 3: I.iv.5,25; 20.4.66, S.A.Jashemski." >}}
+{{< figure src="../images/Fig.9_I.iv.5,25_20.4.66.jpg" alt="Fig. 3: I.iv.5,25; 20.4.66, S.A.Jashemski." title="Fig. 3: I.iv.5,25; 20.4.66, S.A.Jashemski (Rights Statement)." >}}
 
-{{< figure src="../images/I.iv.5_64.25.57.jpg" alt="Fig. 4: I.iv.5; 64.25.57, S.A.Jashemski." title="Fig. 4: I.iv.5; 64.25.57, S.A.Jashemski." >}}
+{{< figure src="../images/I.iv.5_64.25.57.jpg" alt="Fig. 4: I.iv.5; 64.25.57, S.A.Jashemski." title="Fig. 4: I.iv.5; 64.25.57, S.A.Jashemski (Rights Statement)." >}}
 
 ## Dates
 
@@ -121,9 +120,9 @@ unspecified
 * Fiorelli, *Scavi*, pp.66-67 and pl. 165, nn. 182-183. [(worldcat)](http://www.worldcat.org/oclc/249024903)
 * Idem, *Desc.*, p. 62. [(worldcat)](http://www.worldcat.org/oclc/908272023)
 * Idem, *Pomp. Sculpture*,pp. 80-83, 89-97.
-* Jashemski, *Gardens*, 1:21-22 and figs. 28 and 29 on pp. 21, 22.
-* Jashemski, *Gardens*, vol.II, pp. 29–30.
-* <span style="color:orange"> Idem, *Gardens*, vol.II, p. 394. </span>
+* Jashemski, *Gardens*, 1:21-22 and figs. 28 and 29 on pp. 21, 22. [(worldcat)](http://www.worldcat.org/oclc/884024123)
+* Jashemski, *Gardens*, vol.II, pp. 29–30. [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* <span style="color:orange"> Idem, *Gardens*, vol.II, p. 394. [(worldcat)](http://www.worldcat.org/oclc/921816405)</span>
 * Kapossy, pp. 48, 51, 52.
 * Lugebil, *BdI* (1861), p. 240.
 * Maiuri, *NSc* (1931), pp. 575-576.
@@ -152,7 +151,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

@@ -3,7 +3,7 @@ title: "House of the Cryptoporticus; Casa Del Crirtoportico; Casa Omerica; House
 date: 2020-08-05T19:15:13-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -85,7 +85,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_v.tif" alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." title="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." >}}
+{{< figure src="../images/Region_I_insula_v.tif" alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." title="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10 (Rights Statement)." >}}
 
 ## Images
 
@@ -101,7 +101,7 @@ unspecified
 
 * Boyce, p. 25, no. 36.
 * Della Corte, *NSc* (1914), pp. 74-75.
-* Jashemski, *Gardens*, vol.II, p. 34.
+* Jashemski, *Gardens*, vol.II, p. 34. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Spinazzola, *NSc* (1914), pp. 259-263.
 * Spinazzola, *Scavi nuovi*, p.441 and fig. 493 (plan) on p. 433. [(worldcat)](http://www.worldcat.org/oclc/883858580)
 
@@ -119,7 +119,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

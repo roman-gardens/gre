@@ -3,7 +3,7 @@ title: "I.iii.3"
 date: 2020-07-28T13:03:42-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -116,7 +116,7 @@ unspecified
 * Fiorelli, *Scavi*, p. 72. [(worldcat)](http://www.worldcat.org/oclc/249024903)
 * Idem, *Desc.*, pp. 52-53.[(worldcat)](http://www.worldcat.org/oclc/908272023)
 * *GiornSc*, n.s., 1 (1868-69), cols. 300-301.
-* Jashemski, *Gardens*, vol.II, p. 26.
+* Jashemski, *Gardens*, vol.II, p. 26. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 78.
 * Pernice, p. 34.
 * Warscher, “Codex.” photos nos. 16-21.
@@ -135,7 +135,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

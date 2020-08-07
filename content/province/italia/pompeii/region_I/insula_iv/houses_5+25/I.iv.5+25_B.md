@@ -3,7 +3,7 @@ title: "I.iv.5/25 B"
 date: 2020-08-02T14:06:12-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -83,7 +83,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Fig.7_Region_I_insula_iv.tif" alt="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." title="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." >}}
+{{< figure src="../images/Fig.7_Region_I_insula_iv.tif" alt="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." title="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8 (Rights Statement)." >}}
 
 ## Images
 
@@ -105,8 +105,8 @@ unspecified
 * Fiorelli, *Scavi*, p. 66.[(worldcat)](http://www.worldcat.org/oclc/249024903)
 * “Giornale dei Soprastanti,” April 7, 1859; 658-688.
 * Idem, *Desc.*, p. 62. [(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, 1:21-22 and fig. 28 on p. 21.
-* Jashemski, *Gardens*, vol.II, p. 31.
+* Jashemski, *Gardens*, 1:21-22 and fig. 28 on p. 21. [(worldcat)](http://www.worldcat.org/oclc/884024123)
+* Jashemski, *Gardens*, vol.II, p. 31. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Lugebil, *BdI* (1861), p. 261.
 * *MB*, vol. 15, pl. 33.
 * Maiuri, *BdA*, n.s. (1926), p. 350.
@@ -134,7 +134,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

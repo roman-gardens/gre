@@ -3,7 +3,7 @@ title: "I.ii.16"
 date: 2020-07-25T14:27:08-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -110,8 +110,8 @@ unspecified
 * Fiorelli, *Descr.*, p. 42. [(worldcat)](http://www.worldcat.org/oclc/908272023)
 * *GiornSc*, n.s., 3 (1874-1877), col. 46, 177-179 and pl. 6.
 * Ippel, *AA* (1939), pp 367-368.
-* Jashemski, *Gardens*, 1:48.
-* Jashemski, *Gardens*, vol.II, p. 22-23.
+* Jashemski, *Gardens*, 1:48. [(worldcat)](http://www.worldcat.org/oclc/884024123)
+* Jashemski, *Gardens*, vol.II, p. 22-23. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Kapossy, p. 47.
 * Niccolini, *Case*, vol. 3, “L’arte,” pl. 12.
 * Pernice p. 34.
@@ -135,7 +135,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

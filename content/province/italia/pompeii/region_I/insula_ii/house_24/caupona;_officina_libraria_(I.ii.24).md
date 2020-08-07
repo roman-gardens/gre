@@ -3,7 +3,7 @@ title: "Caupona; Officina Libraria (I.ii.24)"
 date: 2020-07-27T10:02:09-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -108,8 +108,8 @@ unspecified
 * Boyce, p. 23, no. 17.
 * Fiorelli, *Descr.*, p. 47. [(worldcat)](http://www.worldcat.org/oclc/908272023)
 * *GiornSc*, n.s., 3 (1874-1877), col. 60.
-* Jashemski, *Gardens*, 1:179.
-* Jashemski, *Gardens*, vol.II, p. 25.
+* Jashemski, *Gardens*, 1:179. [(worldcat)](http://www.worldcat.org/oclc/884024123)
+* Jashemski, *Gardens*, vol.II, p. 25. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Mau, *BdI* (1874), p. 245.
 * Ibid., (1874), pp. 253-256, 262-263.
 * Mau-Kelsey, p. 404.
@@ -132,7 +132,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

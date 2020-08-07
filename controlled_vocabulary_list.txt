@@ -4,6 +4,7 @@
 amorini
 [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
 animal bone
+apotheca
 apsed pools
 apsed triclinium
 [aqueducts](http://vocab.getty.edu/page/aat/300006165)
@@ -33,6 +34,7 @@ archaeological garden
 [cryptoportici](http://vocab.getty.edu/page/aat/300004295)
 [ditches](http://vocab.getty.edu/page/aat/300006178)
 [drains](http://vocab.getty.edu/page/aat/300052564)
+[doghouses](http://vocab.getty.edu/page/aat/300004984)
 [doliums](http://vocab.getty.edu/page/aat/300400601)
 [domus](http://vocab.getty.edu/page/aat/300005506)
 [engaged columns](http://vocab.getty.edu/page/aat/300001638)
@@ -44,7 +46,10 @@ archaeological garden
 [former reservoirs](http://vocab.getty.edu/page/aat/300386966)
 [fountains](http://vocab.getty.edu/page/aat/300006179)
 fulcrum
+fullery
 [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
+[garden lights](http://vocab.getty.edu/page/aat/300183142)
+[garden ornaments](http://vocab.getty.edu/page/aat/300424784)
 [garden pavilions](http://vocab.getty.edu/page/aat/300006819)
 [gazebos](http://vocab.getty.edu/page/aat/300006798)
 [graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613)
@@ -124,3 +129,4 @@ viridarium
 [water supply systems](http://vocab.getty.edu/page/aat/300008618)
 [water wells](http://vocab.getty.edu/page/aat/300152327)
 [well houses](http://vocab.getty.edu/page/aat/300008017)
+[wine cellars](http://vocab.getty.edu/page/aat/300004762)
