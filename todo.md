@@ -6,8 +6,8 @@
 - [ ] Check for all comments containing some mention of "cross references", add links to relevant pages
 - [ ] Go through punchlist for each article
 - [ ] Get province information into general province page (somehow)
-- [ ] Get keywords into tags list in header (as in bancroft example)
-- [ ] Get geographic regions into sidebar using categories list (as in bancroft)
+- [x] Get keywords into tags list in header (as in bancroft example)
+- [x] Get geographic regions into sidebar using categories list (as in bancroft)
 - [ ] Put `lead:` in the header for each article to make loglines/subtitles (e.g. Dalmatia/salona/salona_tomb...)
 - [ ] Check that all keywords are in controlled vocab (Programmatically)
 - [ ] Figure out why there are so many unattached images (e.g. Achaea Nemea)
@@ -20,6 +20,9 @@
 - [ ] Add a keyword that means "hasInscription"
 - [ ] Check for any ">>>>>>" merge conflict stuff in the articles
 - [ ] Take every heading down one level
+- [ ] Add a takedown notice (copy from DCAA/DSCC)
+- [ ] Suppress empty headings
+- [ ] Finish creating documentation
 
 # Article Punchlist
 

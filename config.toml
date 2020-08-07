@@ -14,7 +14,7 @@ buildDrafts = false
 enableEmoji = true
 enableInlineShortcodes = true
 
-summaryLength = 150
+summaryLength = 15000
 
 [menu]
 

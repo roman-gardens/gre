@@ -21,7 +21,8 @@
 	</header>	
 	<div class="content list__excerpt post__content clearfix">
 		{{ $summary_parts := split .Summary "Garden Description" }}
-		{{ index $summary_parts 1 }}...
+		{{ $summary_excerpt := index $summary_parts 1 }}
+		{{ substr $summary_excerpt 0 300 }}...
 		<!-- <hr>
 		{{ .Summary }} -->
 	</div>
