@@ -40,7 +40,7 @@ categories:
 
 # Insula
 
-[Insula iv]({{<relref ".">}})
+Insula iv
 
 # House
 

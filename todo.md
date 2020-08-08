@@ -63,7 +63,6 @@
 - [x] Green (additions to entries?). What to do? There appears to be ORANGE now as well.
 - [x] Add span style color families to new green parts of entries.
 - [ ] Someone should relook over the bibs to see if they know what book the author is referring to, as I can't figure it out with just an author last name.
-- [ ] Insula relref I don't know if we want these, but if we do the way I have them are probably wrong.
 - [ ] Image PATHs might need modifying.
 - [x] Note to self: relook over entries and add [statue] keyword.
 - [x] Note if it has literary evidence/artifacts.

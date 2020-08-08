@@ -1,5 +1,4 @@
 ---
-article-type: "province"
 title: "I.iii.25 B"
 date: 2020-07-29T17:22:57-04:00
 province_id: PROVINCE_ID
@@ -42,7 +41,7 @@ tags:
 
 # Insula
 
-[Insula iii]({{<relref ".">}})
+Insula iii
 
 # House
 
