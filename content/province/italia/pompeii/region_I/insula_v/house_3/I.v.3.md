@@ -53,7 +53,7 @@ I.v.3
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [lararia](http://vocab.getty.edu/page/aat/300400600) \
 [stables (animal housing)](http://vocab.getty.edu/page/aat/300005015) \
 [troughs (containers)](http://vocab.getty.edu/page/aat/300220971)

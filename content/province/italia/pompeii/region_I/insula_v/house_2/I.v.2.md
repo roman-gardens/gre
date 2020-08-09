@@ -53,7 +53,7 @@ I.v.2
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [kitchen gardens](http://vocab.getty.edu/page/aat/300008110) \
 [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
 pomerium

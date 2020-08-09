@@ -10,7 +10,7 @@ draft: true
 categories:
  - "Italia"
 tags:
-  - "barrier walls"
+  
   - "peristyles"
   - "porticoes"
   - "statues"
@@ -59,7 +59,7 @@ I.iii.25 A
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
 [porticoes](http://vocab.getty.edu/page/aat/300004145) \
 [statues](http://vocab.getty.edu/page/aat/300047600) \

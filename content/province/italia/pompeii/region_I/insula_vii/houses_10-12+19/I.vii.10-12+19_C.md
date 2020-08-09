@@ -40,7 +40,7 @@ I.vii.10-12/19
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [impluvia](http://vocab.getty.edu/page/aat/300129867) \
 [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
 [tablina](http://vocab.getty.edu/page/aat/300004180) \

@@ -54,7 +54,7 @@ House of the Lararium: Casa Del Larario; Sacello Iliaco (I.vi.4)
 
 archaeological garden \
 [atriums](http://vocab.getty.edu/page/aat/300004097) \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [flower gardens](http://vocab.getty.edu/page/aat/300008135) \
 [piscinae]( http://vocab.getty.edu/page/aat/300375619) \
 [tablina](http://vocab.getty.edu/page/aat/300004180)

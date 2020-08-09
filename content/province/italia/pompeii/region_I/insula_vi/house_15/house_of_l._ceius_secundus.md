@@ -54,7 +54,7 @@ House of L. Ceius Secundus; House of the Ceii; of Queen Elena; of Fabia and Tyra
 
 archaeological garden \
 apotheca \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [basins (vessels)](http://vocab.getty.edu/page/aat/300045614) \
 [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \
 [fountains](http://vocab.getty.edu/page/aat/300006179) \

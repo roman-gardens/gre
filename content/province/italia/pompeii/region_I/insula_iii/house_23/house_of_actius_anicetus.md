@@ -10,7 +10,7 @@ draft: true
 categories:
  - "Italia"
 tags:
-  - "barrier walls"
+  
   - "cisterns"
   - "gutters"
   - "mural paintings"
@@ -59,7 +59,7 @@ I.iii.20/22
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \
 [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565) \
 [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \

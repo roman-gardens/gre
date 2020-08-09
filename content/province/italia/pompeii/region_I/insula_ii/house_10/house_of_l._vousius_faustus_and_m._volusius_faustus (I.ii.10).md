@@ -11,7 +11,7 @@ categories:
  - "Italia"
 tags:
   - "aedicules"
-  - "barrier walls"
+  
   - "biclinia"
   - "drains"
   - "lararia"
@@ -62,7 +62,7 @@ House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)
 
 [aedicules](http://vocab.getty.edu/page/aat/300002574) \
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [biclinia](http://vocab.getty.edu/page/aat/300170371) \
 [drains](http://vocab.getty.edu/page/aat/300052564) \
 [lararia](http://vocab.getty.edu/page/aat/300400600) \

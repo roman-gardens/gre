@@ -54,7 +54,7 @@ I.iv.5/25 B
 
 [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725) \
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571) \
 [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565) \
 lychnophoros \

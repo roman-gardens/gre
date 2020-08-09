@@ -53,7 +53,7 @@ Officina Coriarioum of M. Vesonius Primus (I.v.2)
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
 [opus signinum](http://vocab.getty.edu/page/aat/300379969) \
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \

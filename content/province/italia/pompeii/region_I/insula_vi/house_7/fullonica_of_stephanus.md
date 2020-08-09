@@ -53,7 +53,7 @@ Fullonica of Stephanus (I.vi.7)
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 fullery \
 [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565) \
 [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \

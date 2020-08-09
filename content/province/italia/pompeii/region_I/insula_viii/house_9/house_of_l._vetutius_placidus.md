@@ -40,7 +40,7 @@ House of L. Vetutius Placidus and Ascula (at the rear of Themopolium no. 8) (I.v
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571) \
 [engaged columns](http://vocab.getty.edu/page/aat/300001638) \
 fulcrum \

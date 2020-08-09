@@ -16,7 +16,7 @@ archaeological garden
 [atriums](http://vocab.getty.edu/page/aat/300004097)
 [axial plan](http://vocab.getty.edu/page/aat/300121971)
 [barns](http://vocab.getty.edu/page/aat/300004900)
-[barrier walls](http://vocab.getty.edu/page/aat/300419302)
+
 [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 [bas-reliefs (sculpture)](http://vocab.getty.edu/page/aat/300184633)
 [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)

@@ -40,7 +40,7 @@ House of Stallus Eros (I.vi.13)
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [lararia](http://vocab.getty.edu/page/aat/300400600) \
 [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
 viridarium

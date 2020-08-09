@@ -42,7 +42,7 @@ House of the Ephebe; Casa Dell’Efebo; House of P. Cornelius Teges (or Tages) (
 [aedicules](http://vocab.getty.edu/page/aat/300002574) \
 archaeological garden \
 [atriums](http://vocab.getty.edu/page/aat/300004097) \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [basins (vessels)](http://vocab.getty.edu/page/aat/300045614) \
 [busts (sculpture)](http://vocab.getty.edu/page/aat/300417950) \
 [candelabras (candleholders)](http://vocab.getty.edu/page/aat/300037584) \

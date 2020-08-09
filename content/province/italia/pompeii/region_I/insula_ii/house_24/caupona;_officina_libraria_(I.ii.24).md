@@ -11,7 +11,7 @@ categories:
  - "Italia"
 tags:
   - "atriums"
-  - "barrier walls"
+  
   - "cauponae"
   - "flowerpots"
   - "podiums"
@@ -63,7 +63,7 @@ Caupona; Officina Libraria (I.ii.24)
 aedicula lararium \
 archaeological garden \
 [atriums](http://vocab.getty.edu/page/aat/300004097) \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [cauponae](http://vocab.getty.edu/page/aat/300005208) \
 [flowerpots](http://vocab.getty.edu/page/aat/300194749) \
 [podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976) \

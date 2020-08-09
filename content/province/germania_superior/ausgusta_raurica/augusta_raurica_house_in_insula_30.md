@@ -10,7 +10,7 @@ draft: false
 categories:
  - "Germania Superior"
 tags:
-  - "barrier walls"
+  
   - "colonnades"
   - "insulae"
   - "peristyles"
@@ -53,7 +53,7 @@ House in Insula 30 in Augusta Raurica
 
 ## Keywords
 
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [colonnades](http://vocab.getty.edu/page/aat/300002613) \
 [corridors](http://vocab.getty.edu/page/aat/300004294) \
 [insulae](http://vocab.getty.edu/page/aat/300000325) \

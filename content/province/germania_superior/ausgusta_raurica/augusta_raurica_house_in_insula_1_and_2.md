@@ -10,7 +10,7 @@ draft: false
 categories:
  - "Germania Superior"
 tags:
-  - "barrier walls"
+  
   - "insulae"
   - "peristyles"
   - "porticoes"
@@ -53,7 +53,7 @@ House in Insula 1 and 2 in Augusta Raurica
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [insulae](http://vocab.getty.edu/page/aat/300000325) \
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
 [porticoes](http://vocab.getty.edu/page/aat/300004145) \

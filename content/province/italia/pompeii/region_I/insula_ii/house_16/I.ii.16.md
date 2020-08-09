@@ -10,7 +10,7 @@ draft: true
 categories:
  - "Italia"
 tags:
-  - "barrier walls"
+  
   - "fountains"
   - "pillars"
   - "podiums"
@@ -60,7 +60,7 @@ I.ii.16
 
 aedicula lararium \
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [fountains](http://vocab.getty.edu/page/aat/300006179) \
 [pillars](http://vocab.getty.edu/page/aat/300264605) \
 [podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976) \

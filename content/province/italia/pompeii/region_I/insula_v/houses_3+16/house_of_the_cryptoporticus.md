@@ -54,7 +54,7 @@ House of the Cryptoporticus; Casa Del Crirtoportico; Casa Omerica; House of T. L
 
 archaeological garden \
 [atriums](http://vocab.getty.edu/page/aat/300004097) \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [busts (sculpture)](http://vocab.getty.edu/page/aat/300417950) \
 [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571) \
 [cryptoportici](http://vocab.getty.edu/page/aat/300004295) \

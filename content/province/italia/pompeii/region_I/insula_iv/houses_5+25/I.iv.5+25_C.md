@@ -53,7 +53,7 @@ I.iv.5/25 C
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571) \
 [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589) \
 [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565) \

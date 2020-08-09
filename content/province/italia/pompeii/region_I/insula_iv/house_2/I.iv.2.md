@@ -53,7 +53,7 @@ I.iv.2
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \
 [engaged columns](http://vocab.getty.edu/page/aat/300001638) \
 [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \

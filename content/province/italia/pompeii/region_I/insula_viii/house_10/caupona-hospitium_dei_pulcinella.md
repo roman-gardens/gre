@@ -40,7 +40,7 @@ Caupona-Hospitium dei "Pulcinella" (I.viii.10)
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [lararia](http://vocab.getty.edu/page/aat/300400600) \
 [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
 [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \

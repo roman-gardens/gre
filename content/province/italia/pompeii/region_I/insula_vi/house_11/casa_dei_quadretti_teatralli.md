@@ -40,7 +40,7 @@ Casa Dei Quadretti Teatralli; House of the Calavii (I.vi.11)
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \
 [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571) \
 [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \

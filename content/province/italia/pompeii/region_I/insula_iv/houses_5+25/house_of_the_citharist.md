@@ -55,7 +55,7 @@ Popidus Ampliatus (I.iv.5/25)
 
 archaeological garden \
 [architraves (entablature)](http://vocab.getty.edu/page/aat/300001780) \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [basins (vessels)](http://vocab.getty.edu/page/aat/300045614) \
 [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571) \
 [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \

@@ -40,7 +40,7 @@ House and Workshop of A. Granius Romanus (I.viii.13)
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613) \
 inscription \
 [lararia](http://vocab.getty.edu/page/aat/300400600)

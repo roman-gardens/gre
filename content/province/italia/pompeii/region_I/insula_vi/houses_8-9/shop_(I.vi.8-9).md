@@ -53,7 +53,7 @@ Shop (I.vi.8-9)
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571) \
 [doghouses](http://vocab.getty.edu/page/aat/300004984) \
 [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \

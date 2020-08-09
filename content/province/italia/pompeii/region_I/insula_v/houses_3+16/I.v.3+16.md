@@ -55,7 +55,7 @@ I.v.3/16 B
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571) \
 [cryptoportici](http://vocab.getty.edu/page/aat/300004295) \
 fulcrum \

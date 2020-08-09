@@ -10,7 +10,7 @@ draft: true
 categories:
  - "Italia"
 tags:
-  - "barrier walls"
+  
   - "impluvia"
 ---
 
@@ -55,7 +55,7 @@ I.ii.15
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [impluvia](http://vocab.getty.edu/page/aat/300129867)  
 
 ## Garden Description

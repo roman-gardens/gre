@@ -40,7 +40,7 @@ I.vii.10-12/19
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \
 [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571) \
 [doliums](http://vocab.getty.edu/page/aat/300400601) \
