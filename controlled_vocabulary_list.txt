@@ -27,6 +27,7 @@ archaeological garden
 [cauponae](http://vocab.getty.edu/page/aat/300005208)
 [ceramic tile](http://vocab.getty.edu/page/aat/300010678)
 [cherry (plant)](http://vocab.getty.edu/page/aat/300375306)
+[chests (case furniture)](http://vocab.getty.edu/page/aat/300038992)
 [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 [colonnades](http://vocab.getty.edu/page/aat/300002613)
 [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
@@ -74,6 +75,7 @@ literary garden
 [loggias](http://vocab.getty.edu/page/aat/300004137)
 lychnophoros
 [mausoleums](http://vocab.getty.edu/page/aat/300005891)
+[monopodia](http://vocab.getty.edu/page/aat/300041194)
 [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
 [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
@@ -100,6 +102,7 @@ pomerium
 puteal
 [reception rooms](http://vocab.getty.edu/page/aat/300077176)
 [rinceaux](http://vocab.getty.edu/page/aat/300165495)
+[roofing tile](http://vocab.getty.edu/page/aat/300010699)
 rural villas
 [sarcophagi (coffins)](http://vocab.getty.edu/page/aat/300005947)
 [sherds](http://vocab.getty.edu/page/aat/300117132)
