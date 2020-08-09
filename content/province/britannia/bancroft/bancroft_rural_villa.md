@@ -60,7 +60,7 @@ rural villas \
 
 ## Garden Description
 
-Excavations between 1983 and 1986 at this site in Buckinghamshire revealed a Roman villa of the winged corridor type, which was built in the late 3rd century and rebuilt and enlarged in the mid-4th century (Fig.1).   
+Excavations between 1983 and 1986 at this site in Buckinghamshire revealed a Roman villa of the winged corridor type, which was built in the late 3rd century and rebuilt and enlarged in the mid-4th century (Fig.1).
 
 From the two projecting wings of the house at the northeast and southeast two walls ran eastward, forming an enclosed courtyard 35.5 meters in width and ca. 42 meters in length in front of the 4th century house. In the centre of the yard was a stone-built rectangular fishpond (P in Fig. 1), 2.6 x 13 meters in size and 50-80 centimeters deep which was continually fed by a drain running from an overflow in the cold plunge bath at the south end of the house. An overflow at the east end of the pool may have led to a nearby stream. Although traces of plantings or planting beds were not preserved in the gravelly subsoil, a shallow rectangular depression just west of the fishpool, filled with dark humic soil, may represent a flowerbed through which the water pipe feeding the pool ran. The courtyard therefore was at least partially planted as a garden (G in Fig. 1). Adjacent to the courtyard enclosure at the south was an octagonal structure with stone walls, interpreted as a possible gazebo (A in Fig. 1).
 
