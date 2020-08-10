@@ -121,7 +121,7 @@ Late 1st century CE - unspecified
 
 ## Contributor
 
-[Kathryn Gleason](https://classics.cornell.edu/kathryn-gleason)(ORCID:[0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378))
+[Kathryn Gleason](https://classics.cornell.edu/kathryn-gleason) (ORCID:[0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378))
 
 ## Publication date
 
