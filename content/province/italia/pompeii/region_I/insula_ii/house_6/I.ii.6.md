@@ -3,7 +3,7 @@ title: "I.ii"
 date: 2020-07-24T12:44:41-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -45,7 +45,7 @@ tags:
 
 # Insula
 
-[Insula ii]({{<relref ".">}})
+Insula ii
 
 # House
 
@@ -106,8 +106,8 @@ unspecified
 ## Bibliography
 
 * Fiorelli, *Descr.*, p. 39. [(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, 1: 104-105 (for the graffito).
-* Jashemski, *Gardens*, vol.II, p. 21.
+* Jashemski, *Gardens*, 1: 104-105 (for the graffito). [(worldcat)](http://www.worldcat.org/oclc/884024123)
+* Jashemski, *Gardens*, vol.II, p. 21. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Mau, *BdI* (1874), pp. 199.
 * Niccolini, *Case*, vol. 2, “Descr. Gen.,” p. 76.
 * Pernice, p. 18.
@@ -128,7 +128,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

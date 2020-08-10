@@ -3,7 +3,7 @@ title: "House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)"
 date: 2020-07-24T18:18:22-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -11,7 +11,7 @@ categories:
  - "Italia"
 tags:
   - "aedicules"
-  - "barrier walls"
+  
   - "biclinia"
   - "drains"
   - "lararia"
@@ -48,7 +48,7 @@ tags:
 
 # Insula
 
-[Insula ii]({{<relref ".">}})
+Insula ii
 
 # House
 
@@ -62,7 +62,7 @@ House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)
 
 [aedicules](http://vocab.getty.edu/page/aat/300002574) \
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [biclinia](http://vocab.getty.edu/page/aat/300170371) \
 [drains](http://vocab.getty.edu/page/aat/300052564) \
 [lararia](http://vocab.getty.edu/page/aat/300400600) \
@@ -112,9 +112,9 @@ unspecified
 * Boyce, p. 22, no. 6.
 * Fiorelli, *Descr.*, p. 42. [(worldcat)](http://www.worldcat.org/oclc/908272023)
 * <span style="color:green"> *GiornSc*, n.s., 3 (1874-1877), col. 57. </span>
-* Jashemski, *Gardens*, 1:1 10-1 1 1.
-* Jashemski, *Gardens*, vol.II, p. 22.
-* <span style="color:green"> Jashemski, *Gardens*, vol.II, p. 313. </span>
+* Jashemski, *Gardens*, 1:1 10-1 1 1. [(worldcat)](http://www.worldcat.org/oclc/884024123)
+* Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* <span style="color:green"> Jashemski, *Gardens*, vol.II, p. 313. [(worldcat)](http://www.worldcat.org/oclc/921816405)</span>
 * Mau, *BdI* (1874), pp. 197-198.
 * Niccolini, *Case*, vol. 2, “Descr. Gen.,” p. 76.
 * <span style="color:green"> Schefold, *WandP*, p. 9 (describes this painting as a *paradeisos*, with sea, deer, panther, and nymphaeum). [(worldcat)](http://www.worldcat.org/oclc/637248120) </span>
@@ -136,7 +136,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

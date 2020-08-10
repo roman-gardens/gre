@@ -1,10 +1,9 @@
 ---
-article-type: "province"
 title: "Officina Coriarioum of M. Vesonius Primus (I.v.2)"
 date: 2020-08-02T18:12:26-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -41,7 +40,7 @@ categories:
 
 # Insula
 
-[Insula v]({{<relref ".">}})
+Insula v
 
 # House
 
@@ -54,7 +53,7 @@ Officina Coriarioum of M. Vesonius Primus (I.v.2)
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
 [opus signinum](http://vocab.getty.edu/page/aat/300379969) \
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
@@ -82,7 +81,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_v.tif" alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." title="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." >}}
+{{< figure src="../images/Region_I_insula_v.tif" alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." title="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10 (Rights Statement)." >}}
 
 ## Images
 
@@ -100,8 +99,8 @@ unspecified
 * Brendel, “Untersuchungen zur Allegorie des pompejanischen Totenkopfmosaiks,” *RM* (1934), pp 157-179.
 * Fiorelli, *Desc.*, p. 452. [(worldcat)](http://www.worldcat.org/oclc/908272023)
 * *GiornSc*, n.s., 3 (1874-1877), col. 93.
-* Jashemski, *Gardens*, vol. 1, fig. 268 on p. 181 and p. 198.
-* Jashemski, *Gardens*, vol.II, p. 33.
+* Jashemski, *Gardens*, vol. 1, fig. 268 on p. 181 and p. 198. [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Jashemski, *Gardens*, vol.II, p. 33. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Mau, *BdI* (1874), pp. 272-275.
 * Mau-Kelsey, pp. 398-399.
 * Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 48 (mosaic).
@@ -125,7 +124,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

@@ -51,7 +51,7 @@ Rural Villa in Sudeley/Spoonley Wood
 
 archaeological garden \
 [axial plan](http://vocab.getty.edu/page/aat/300121971) \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [terrace gardens](http://vocab.getty.edu/page/aat/300404778) \
 rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)            

@@ -3,14 +3,14 @@ title: "House of Capella (I.iii.24)"
 date: 2020-07-29T15:31:46-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
 categories:
  - "Italia"
 tags:
-  - "barrier walls"
+  
   - "lararia"
   - "mural paintings"
   - "peristyles"
@@ -46,7 +46,7 @@ tags:
 
 # Insula
 
-[Insula iii]({{<relref ".">}})
+Insula iii
 
 # House
 
@@ -59,7 +59,7 @@ House of Capella (I.iii.24)
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [lararia](http://vocab.getty.edu/page/aat/300400600) \
 [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
 [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
@@ -105,8 +105,8 @@ unspecified
 * Boyce, p. 24, no. 261.
 * Fiorelli, *Scavi*, p. 74,  <span style="color:green"> p. 150, no. 456 </span>. [(worldcat)](http://www.worldcat.org/oclc/249024903)
 * Idem, *Desc.*, pp. 56-57.[(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol.II, p. 28.
-* <span style="color:green"> Idem, *Gardens*, vol.II, p. 313. </span>
+* Jashemski, *Gardens*, vol.II, p. 28. [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* <span style="color:green"> Idem, *Gardens*, vol.II, p. 313. [(worldcat)](http://www.worldcat.org/oclc/921816405)</span>
 * Matz, *BdI* (1869), pp. 239-240.
 * Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 78.
 * <span style="color:green"> Schefold, *WändP*, p. 13 </span>.
@@ -127,7 +127,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

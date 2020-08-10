@@ -3,7 +3,7 @@ title: "I.iii.30"
 date: 2020-07-30T14:58:21-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -40,7 +40,7 @@ categories:
 
 # Insula
 
-[Insula iii]({{<relref ".">}})
+Insula iii
 
 # House
 
@@ -100,7 +100,7 @@ unspecified
 * Fiorelli, *Scavi*, p. 75. [(worldcat)](http://www.worldcat.org/oclc/249024903)
 * Idem, *Desc.*, p. 60.[(worldcat)](http://www.worldcat.org/oclc/908272023)
 * *GiornSc*, n.s., 2 (1870-1873), col. 462.
-* Jashemski, *Gardens*, vol.II, p. 28.
+* Jashemski, *Gardens*, vol.II, p. 28. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Mau, *BdI* (1874), pp. 185-186.
 * Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 49.
 * Warscher, “Codex.”
@@ -119,7 +119,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

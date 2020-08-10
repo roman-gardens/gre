@@ -3,7 +3,7 @@ title: "Caupona (I.ii.22)"
 date: 2020-07-26T15:51:32-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -44,7 +44,7 @@ tags:
 
 # Insula
 
-[Insula ii]({{<relref ".">}})
+Insula ii
 
 # House
 
@@ -99,7 +99,7 @@ unspecified
 
 * Fiorelli, *Descr.*, p. 46. [(worldcat)](http://www.worldcat.org/oclc/908272023)
 * *GiornSc*, n.s., 3 (1874-1877), col. 47-48.
-* Jashemski, *Gardens*, vol.II, p. 24.
+* Jashemski, *Gardens*, vol.II, p. 24. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Mau, *BdI* (1874), p. 263.
 * Niccolini, *Case*, vol. 2, “Descr. Gen.,” p. 76.
 * Viola, “*Scavi*” p. 13. [(worldcat)](http://www.worldcat.org/oclc/715087975)
@@ -118,7 +118,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

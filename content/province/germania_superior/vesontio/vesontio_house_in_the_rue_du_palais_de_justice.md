@@ -11,7 +11,7 @@ draft: false
 categories:
  - "Germania Superior"
 tags:
-  - "barrier walls"
+  
   - "domus"
   - "fountains"
   - "hypocausts"
@@ -64,7 +64,7 @@ House in the Rue du Palais de Justice in Vesontio
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [domus](http://vocab.getty.edu/page/aat/300005506) \
 [fountains](http://vocab.getty.edu/page/aat/300006179) \
 [hypocausts](http://vocab.getty.edu/page/aat/300004277) \

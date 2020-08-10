@@ -3,14 +3,14 @@ title: "I.iii.25 A"
 date: 2020-07-29T17:22:47-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
 categories:
  - "Italia"
 tags:
-  - "barrier walls"
+  
   - "peristyles"
   - "porticoes"
   - "statues"
@@ -46,7 +46,7 @@ tags:
 
 # Insula
 
-[Insula iii]({{<relref ".">}})
+Insula iii
 
 # House
 
@@ -59,7 +59,7 @@ I.iii.25 A
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
 [porticoes](http://vocab.getty.edu/page/aat/300004145) \
 [statues](http://vocab.getty.edu/page/aat/300047600) \
@@ -106,7 +106,7 @@ unspecified
 * Fiorelli, *Scavi*, p. 74. [(worldcat)](http://www.worldcat.org/oclc/249024903)
 * Idem, *Desc.*, p. 57.[(worldcat)](http://www.worldcat.org/oclc/908272023)
 * *GiornSc*, n.s., 2 (1870-1873), col. 461.
-* Jashemski, *Gardens*, vol.II, p. 28.
+* Jashemski, *Gardens*, vol.II, p. 28. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 78.
 * Trendelenberg, *BdI*(1871), p. 172.
 
@@ -124,7 +124,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

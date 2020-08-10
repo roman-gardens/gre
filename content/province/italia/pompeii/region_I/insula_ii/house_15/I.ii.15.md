@@ -3,14 +3,14 @@ title: "I.ii.15"
 date: 2020-07-25T14:20:01-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
 categories:
  - "Italia"
 tags:
-  - "barrier walls"
+  
   - "impluvia"
 ---
 
@@ -42,7 +42,7 @@ tags:
 
 # Insula
 
-[Insula ii]({{<relref ".">}})
+Insula ii
 
 # House
 
@@ -55,7 +55,7 @@ I.ii.15
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [impluvia](http://vocab.getty.edu/page/aat/300129867)  
 
 ## Garden Description
@@ -94,7 +94,7 @@ unspecified
 ## Bibliography
 
 * Fiorelli, *Descr.*, p. 42. [(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol.II, p. 22.
+* Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Viola, “*Scavi*” p. 12. [(worldcat)](http://www.worldcat.org/oclc/715087975)
 * Warscher, “Codex.”
 
@@ -112,7 +112,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

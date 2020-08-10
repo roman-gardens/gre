@@ -3,7 +3,7 @@ title: "I.ii.3"
 date: 2020-07-23T16:14:15-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: false
 
@@ -42,7 +42,7 @@ tags:
 
 # Insula
 
-[Insula ii]({{<relref ".">}})
+Insula ii
 
 # House
 
@@ -98,7 +98,7 @@ unspecified
 ## Bibliography
 
 * Fiorelli, *Descr.*, p. 37. [(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol.II, p. 21.
+* Jashemski, *Gardens*, vol.II, p. 21. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Niccolini, *Case*, vol. 2, “Descr. Gen.,” p. 76.
 * Viola, “*Scavi*,” p 10. [(worldcat)](http://www.worldcat.org/oclc/715087975)
 * Warscher, “Codex,” photo, no. 12.
@@ -117,7 +117,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

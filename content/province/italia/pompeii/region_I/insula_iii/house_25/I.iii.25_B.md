@@ -1,10 +1,9 @@
 ---
-article-type: "province"
 title: "I.iii.25 B"
 date: 2020-07-29T17:22:57-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -42,7 +41,7 @@ tags:
 
 # Insula
 
-[Insula iii]({{<relref ".">}})
+Insula iii
 
 # House
 
@@ -91,7 +90,7 @@ unspecified
 
 * Fiorelli, *Scavi*, p. 75. [(worldcat)](http://www.worldcat.org/oclc/249024903)
 * Idem, *Desc.*, p. 58.[(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol.II, p. 28.
+* Jashemski, *Gardens*, vol.II, p. 28. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 78.
 * Trendelenberg, *BdI*(1871), p. 172.
 * Warscher, “Codex.”
@@ -110,7 +109,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

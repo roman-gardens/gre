@@ -3,7 +3,7 @@ title: "I.v.2"
 date: 2020-08-03T15:25:07-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -40,7 +40,7 @@ categories:
 
 # Insula
 
-[Insula v]({{<relref ".">}})
+Insula v
 
 # House
 
@@ -53,7 +53,7 @@ I.v.2
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [kitchen gardens](http://vocab.getty.edu/page/aat/300008110) \
 [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
 pomerium
@@ -77,7 +77,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_v.tif" alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." title="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." >}}
+{{< figure src="../images/Region_I_insula_v.tif" alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." title="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10 (Rights Statement)." >}}
 
 ## Images
 
@@ -93,7 +93,7 @@ unspecified
 ## Bibliography
 
 * Fiorelli, *Desc.*, p. 452. [(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol.II, p. 33.
+* Jashemski, *Gardens*, vol.II, p. 33. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Mau, *BdI* (1874), p. 275.
 * Niccolini, *Case*, vol. 4, “Nuovi scavi, 1874-1882,” p. 2.
 * Sogliano, *GiorSc*, n.s., 3 (1874-1877), cols. 10, 49, excavation finished in 1874.
@@ -114,7 +114,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

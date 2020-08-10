@@ -3,7 +3,7 @@ title: "I.iii.3"
 date: 2020-07-28T13:03:42-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -11,7 +11,7 @@ categories:
  - "Italia"
 tags:
   - "alleys"
-  - "barrier walls"
+  
   - "exedrae"
   - "gutters"
   - "hearths"
@@ -50,7 +50,7 @@ tags:
 
 # Insula
 
-[Insula iii]({{<relref ".">}})
+Insula iii
 
 # House
 
@@ -64,7 +64,7 @@ I.iii.3
 
 [alleys (streets)](http://vocab.getty.edu/page/aat/300008248) \
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589) \
 [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565) \
 [hearths](http://vocab.getty.edu/page/aat/300003990) \
@@ -116,7 +116,7 @@ unspecified
 * Fiorelli, *Scavi*, p. 72. [(worldcat)](http://www.worldcat.org/oclc/249024903)
 * Idem, *Desc.*, pp. 52-53.[(worldcat)](http://www.worldcat.org/oclc/908272023)
 * *GiornSc*, n.s., 1 (1868-69), cols. 300-301.
-* Jashemski, *Gardens*, vol.II, p. 26.
+* Jashemski, *Gardens*, vol.II, p. 26. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 78.
 * Pernice, p. 34.
 * Warscher, “Codex.” photos nos. 16-21.
@@ -135,7 +135,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

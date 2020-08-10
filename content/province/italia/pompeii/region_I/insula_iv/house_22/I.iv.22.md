@@ -3,7 +3,7 @@ title: "I.iv.22"
 date: 2020-08-02T15:24:28-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -40,7 +40,7 @@ categories:
 
 # Insula
 
-[Insula iv]({{<relref ".">}})
+Insula iv
 
 # House
 
@@ -76,7 +76,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Fig.7_Region_I_insula_iv.tif" alt="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." title="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." >}}
+{{< figure src="../images/Fig.7_Region_I_insula_iv.tif" alt="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." title="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8 (Rights Statement)." >}}
 
 ## Images
 
@@ -89,7 +89,7 @@ unspecified
 
 * Fiorelli, *Scavi*, p. 69. [(worldcat)](http://www.worldcat.org/oclc/249024903)
 * Idem, *Desc.*, p. 68.[(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol.II, p. 32.
+* Jashemski, *Gardens*, vol.II, p. 32. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 80.
 * Soprano, p. 307, no. 29.
 
@@ -107,7 +107,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

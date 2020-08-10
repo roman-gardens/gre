@@ -3,7 +3,7 @@ title: "I.iv.2"
 date: 2020-08-01T13:10:55-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -40,7 +40,7 @@ categories:
 
 # Insula
 
-[Insula iv]({{<relref ".">}})
+Insula iv
 
 # House
 
@@ -53,7 +53,7 @@ I.iv.2
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \
 [engaged columns](http://vocab.getty.edu/page/aat/300001638) \
 [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
@@ -80,11 +80,11 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Fig.7_Region_I_insula_iv.tif" alt="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." title="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." >}}
+{{< figure src="../images/Fig.7_Region_I_insula_iv.tif" alt="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." title="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8 (Rights Statement)." >}}
 
 ## Images
 
-{{< figure src="../images/Fig_8_I.iv.2_18.7.59.jpg" alt="Fig. 3: I.iv.2; 18.7.59, S.A. Jashemski." title="Fig. 3: I.iv.2; 18.7.59, S.A. Jashemski." >}}
+{{< figure src="../images/Fig_8_I.iv.2_18.7.59.jpg" alt="Fig. 3: I.iv.2; 18.7.59, S.A. Jashemski." title="Fig. 3: I.iv.2; 18.7.59, S.A. Jashemski (Rights Statement)." >}}
 
 ## Dates
 
@@ -94,7 +94,7 @@ unspecified
 
 * Fiorelli, *Scavi*, p. 65. [(worldcat)](http://www.worldcat.org/oclc/249024903)
 * Idem, *Desc.*, p. 60.[(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol.II, p. 29.
+* Jashemski, *Gardens*, vol.II, p. 29. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 79.
 
 ### Periodo ID
@@ -111,7 +111,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

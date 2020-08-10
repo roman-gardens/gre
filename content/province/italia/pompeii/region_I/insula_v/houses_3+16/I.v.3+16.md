@@ -3,7 +3,7 @@ title: "I.v.3/16 B"
 date: 2020-08-05T19:32:26-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
@@ -40,7 +40,7 @@ categories:
 
 # Insula
 
-[Insula v]({{<relref ".">}})
+Insula v
 
 # House
 
@@ -55,7 +55,7 @@ I.v.3/16 B
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571) \
 [cryptoportici](http://vocab.getty.edu/page/aat/300004295) \
 fulcrum \
@@ -87,7 +87,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_v.tif" alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." title="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." >}}
+{{< figure src="../images/Region_I_insula_v.tif" alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." title="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10 (Rights Statement)." >}}
 
 ## Images
 
@@ -102,7 +102,7 @@ unspecified
 ## Bibliography
 
 * Della Corte, *Case*, p. 228. [(worldcat)](http://www.worldcat.org/oclc/859831184)
-* Jashemski, *Gardens*, vol.II, p. 34.
+* Jashemski, *Gardens*, vol.II, p. 34. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Maruri, *NSc* (1933), pp. 256, 258-259, 272 and pl. 5 (plan).
 * Salza Prina Ricotti, “Cucine,” 268-271.
 * Soprano, pp. 294-295, no. 4 and fig. 30.
@@ -123,7 +123,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

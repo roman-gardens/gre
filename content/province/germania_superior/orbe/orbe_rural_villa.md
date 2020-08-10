@@ -10,7 +10,7 @@ draft: false
 categories:
  - "Germania Superior"
 tags:
-  - "barrier walls"
+  
   - "villae rusticae"
 ---
 
@@ -50,7 +50,7 @@ Rural Villa in Orbe
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [corridors](http://vocab.getty.edu/page/aat/300004294) \
 rural villas \
 [terrace gardens](http://vocab.getty.edu/page/aat/300404778) \

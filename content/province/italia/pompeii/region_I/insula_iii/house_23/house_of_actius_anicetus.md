@@ -3,14 +3,14 @@ title: "House of Actius Anicetus (I.iii.23)"
 date: 2020-07-29T12:55:08-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Unknown
+author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
 
 categories:
  - "Italia"
 tags:
-  - "barrier walls"
+  
   - "cisterns"
   - "gutters"
   - "mural paintings"
@@ -46,7 +46,7 @@ tags:
 
 # Insula
 
-[Insula iii]({{<relref ".">}})
+Insula iii
 
 # House
 
@@ -59,7 +59,7 @@ I.iii.20/22
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \
 [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565) \
 [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
@@ -106,7 +106,7 @@ unspecified
 * DePetra, *GiornSc*, n.s., 1 (1865-1869), cols. 185-187 (where the address is given as I.ii).
 * Fiorelli, *Scavi*, p. 74 and pp. 145-146, no. 401. [(worldcat)](http://www.worldcat.org/oclc/249024903)
 * Idem, *Desc.*, pp. 52-53.[(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol.II, p. 27.
+* Jashemski, *Gardens*, vol.II, p. 27. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Matz, *BdI* (1869), pp. 240-241.
 * Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 78.
 * Niccolini, *Case*, vol. 4, “Supplemento,” p1. 32.
@@ -129,7 +129,7 @@ unspecified
 
 ## Contributor
 
-Unknown
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
 

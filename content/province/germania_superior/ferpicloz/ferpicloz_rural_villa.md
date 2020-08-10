@@ -10,7 +10,7 @@ draft: false
 categories:
  - "Germania Superior"
 tags:
-  - "barrier walls"
+  
   - "porticoes"
   - "villae rusticae"
 ---
@@ -51,7 +51,7 @@ Rural Villa in Ferpicloz
 ## Keywords
 
 archaeological garden \
-[barrier walls](http://vocab.getty.edu/page/aat/300419302) \
+
 [porticoes](http://vocab.getty.edu/page/aat/300004145) \
 rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
