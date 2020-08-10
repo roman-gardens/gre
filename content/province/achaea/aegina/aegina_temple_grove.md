@@ -27,21 +27,6 @@ The provincial capital was [Corinth](https://pleiades.stoa.org/places/570182). U
 [Aegina]({{<relref ".">}}) \
 [Aegina (Perseus)](https://pleiades.stoa.org/places/579844)
 
-## Location Description
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-# Sublocation
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-## Sublocation Description
-
-<!-- DESCRIPTION -->
-
 # Garden
 
 Temple Grove
@@ -57,37 +42,9 @@ Temple Grove
 
 Evidence for a temple grove on Aegina exists only in a literary reference. Pausanias [(2.29.6)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.29.6) wrote that the shrine of Aiakos was surrounded by a grove of olive trees. Pausanias says that it had been there since ancient times, and a reference in 464 B.C. to the grove in Pindar’s *Olympian Odes* [(13.109)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0033.tlg001.perseus-eng1:13) confirms that it was much older. This sanctuary was located in a prominent spot in the harbor town and was enclosed within a wall built of white stone. At the time of Pausanias’ travels in Greece in the 2nd century A.D., the temple grove was still to be seen.
 
-## Maps
-
-<!--
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
--->
-
-## Plans
-
-<!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
--->
-
-## Images
-
-<!--
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
--->
-
 ## Dates
 
 Much older than 464 BCE, lasting until after the 2nd century CE
-
-## Bibliography
-
-<!--
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
-
-### Periodo ID
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
 
@@ -105,6 +62,3 @@ Much older than 464 BCE, lasting until after the 2nd century CE
 
 16 July 2020
 
-## Related articles
-
-<!-- Links to other related articles. Leave blank for now -->

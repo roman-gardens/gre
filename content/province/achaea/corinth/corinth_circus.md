@@ -16,29 +16,14 @@ categories:
 
 ## Province Description
 
-Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
+Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of [Corinth](https://pleiades.stoa.org/places/570182) in 146 B.C. and the sacking of [Athens]({{<relref "../athens">}}) in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
 
-The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woollen textiles and marbles.
+The provincial capital was [Corinth](https://pleiades.stoa.org/places/570182). Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woolen textiles and marbles.
 
 # Location
 
 [Corinth]({{<relref ".">}}) \
 [Corinth (Pleiades)](https://pleiades.stoa.org/places/570182)
-
-## Location Description
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-# Sublocation
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-## Sublocation Description
-
-<!-- DESCRIPTION -->
 
 # Garden
 
@@ -63,12 +48,6 @@ Fragments of marble sculpture were found in the fill above the spina, including 
 
 The so-called “hippodrome garden” type **(see … add cross-references to Domus Flavia on the Palatine Hill in Rome, “Stadium-Garden” at Hadrian’s Villa at Tivoli, the Villa of the Little Circus at Silin, Jericho, Pliny’s Tuscan villa, and Domitian’s villa above Lake Albano)** must have been inspired in some way by Greek hippodromes and/or by Roman circuses with planted areas with sculptural and possibly architectural decoration in the central area and probably around the circumference of the elongated racecourse. It must be pointed out, however, that no Greek hippodrome has ever been excavated, although new excavations at the Sanctuary of Zeus on Mt. Lykaion in Arcadia, Greece may be able to shed some light for the first time on a Classical period hippodrome structure and its possible garden features (http://lykaionexcavation.org). In addition, although trees appear in circus scenes illustrating the spina and meta of the Circus Maximus in Rome on 3rd – 4th century A.D. mosaics, e.g., the Barcelona mosaic, as well as on coins, e.g., coin of Philip I, and on sarcophagus reliefs, such as the Vatican sarcophagus (Humphrey, Roman Circuses, pp. 235-236, figs. 56, 119; p. 127, fig. 56; pp. 196-203, fig. 99-101) and the possibility of plantings has been proposed in the spinae of Roman circuses (e.g., by Humphrey, Roman Circuses, p. 38 for the circus at Leptis Magna), no specific archaeological evidence has been recorded until the publication of this circus at Corinth.
 
-## Maps
-
-<!--
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
--->
-
 ## Plans
 
 {{< figure src="../images/" alt="Fig. 1: Actual State Plan of the Roman circus, with planting pits labeled. From D. G. Romano, “Roman Circus,” p. 589, fig. 3. Plan courtesy of the author." title="Fig. 1: Actual State Plan of the Roman circus, with planting pits labeled. From D. G. Romano, “Roman Circus,” p. 589, fig. 3. Plan courtesy of the author." >}}
@@ -79,17 +58,9 @@ The so-called “hippodrome garden” type **(see … add cross-references to Do
 
 {{< figure src="../images/" alt="Fig. 3: Fragmentary amphora found in pit 2 in the spina of the Roman circus. Photograph courtesy of James Wiseman." title="Fig. 3: Fragmentary amphora found in pit 2 in the spina of the Roman circus. Photograph courtesy of James Wiseman." >}}
 
-## Dates
-<!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
-<!-- If no date, use "unspecified" -->
-
 ## Bibliography
 
-BIBLIOGRAPHY: D. G. Romano, “A Roman Circus in Corinth,” *Hesperia* [(worldcat)](http://www.worldcat.org/oclc/359326258) 74, 2005:585-611; J. H. Humphrey, *Roman Circuses: Arenas for Chariot Racing.* [(worldcat)](http://www.worldcat.org/oclc/299732316) Berkeley,1986.
-
-### Periodo ID
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+D. G. Romano, “A Roman Circus in Corinth,” *Hesperia* [(worldcat)](http://www.worldcat.org/oclc/359326258) 74, 2005:585-611; J. H. Humphrey, *Roman Circuses: Arenas for Chariot Racing.* [(worldcat)](http://www.worldcat.org/oclc/299732316) Berkeley,1986.
 
 ### Pleiades ID
 
@@ -106,7 +77,3 @@ BIBLIOGRAPHY: D. G. Romano, “A Roman Circus in Corinth,” *Hesperia* [(worldc
 ## Publication date
 
 16 July 2020
-
-## Related articles
-
-<!-- Links to other related articles. Leave blank for now -->

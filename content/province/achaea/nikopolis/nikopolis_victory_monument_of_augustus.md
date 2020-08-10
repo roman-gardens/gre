@@ -16,31 +16,14 @@ categories:
 
 ## Province Description
 
-Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
-The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woollen textiles and marbles.
+Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of [Corinth](https://pleiades.stoa.org/places/570182) in 146 B.C. and the sacking of [Athens]({{<relref "../athens">}}) in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
+
+The provincial capital was [Corinth](https://pleiades.stoa.org/places/570182). Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woolen textiles and marbles.
 
 # Location
 
 
 [Nemea]({{<relref ".">}})
-
-
-## Location Description
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-# Sublocation
-
-<!--
-Regio IX
-
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-## Sublocation Description
-
-<!-- DESCRIPTION -->
 
 # Garden
 
@@ -67,18 +50,6 @@ The entire complex of the monument (Fig. 1) plays the role of both a victory mon
 During the excavation of the upper terrace within the peristyle courtyard fragments of at least eighteen complete or partially restored ceramic planting pots were found (Fig. 11.1c).  The average height of the pots is 14 cm., and all of them have a wide hole (2.5 to 5 cm.) in the bottom, made before firing. The size of these holes, larger than would have been needed for drainage, indicates that they were for the branches of a bush or shrub to be drawn through for air layering (for this method of propagating new plants see chapter 14).  These wheel-made pots are either of ovoid or piriform shape with flaring rims; they always have, on the interior and sometimes on the exterior surface, grooves from the fingers of the potters. The clay of the pots is fine, powdery, not hard fired, ranging in color from pale brown to pale yellow, and the surfaces of the pots were covered in a yellowish brown to gray slip.  The survival of the pots is a result of their placement inside the natural soil of the hill, which consisted of either gravel or yellowish clay. Much of the surface soil of the courtyard was washed away.
 The landscape design of the site is contemporary with the building of the monument. The pots were placed along the outer stylobates of the porticos at a distance of between 20 to 60 cm., from the stylobate. The planting of the courtyard towards the south, as it is evident from two planting pots, reached the rear of the podium. Perhaps other plants were placed near the pedestals and the altar of the monument, but for the moment this cannot be proven. The exact distance between the pots is impossible to calculate, but from the few instances where this was possible, we can conclude that the plants were placed very close to each other in front of the columns. The placement of the pots close together and near the stylobates would exclude the planting of large trees, which would cause damage to the porticos and cut off the view from the interior. No traces of the roots or the seeds of the plants that might have been in the pots have been found, but the plants used to decorate the most sacred area of the monument may have been laurels.
 The sacred laurel of Apollo is mentioned frequently in Greek and Latin literature. Besides its association with Apollo, in Roman life the laurel is connected with victory, victorious generals, and their triumphs. Octavian, on the occasion of his Actian triumph depicted on the marble frieze of the altar of the monument, stands on the currus triumphalis holding a laurel branch in his extended right hand and wearing a laurel wreath on his head. All the magistrates who accompany him in the triumph also wear laurel wreaths. The Roman Senate voted in 27 B.C. that a laurel tree should be placed on each side of the door of the House of Augustus on the Palatine, and a civic crown of oak leaves should  be placed above the door. This was considered such an extraordinary honor that Augustus mentions it in his Res Gestae (34), and the laurel became his permanent emblem. Certainly, the plant of Apollo could not be absent from his Sacred Hill where Octavian erected the monument as an act of pietas to his patron god and to his divine supporters, Mars and Neptune.
-
-
-## Maps
-
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
--->
 
 ## Plans
 
@@ -111,14 +82,6 @@ The Roman Senate voted in 27 B.C. that a laurel tree should be placed on each si
 * K. L. Zachos, “Excavations at the Actian Tropaeum at Nikopolis. A preliminary report,” in J. Isager, ed., *Foundation and destruction. Nikopolis and northwestern Greece.* Monograph 3, Danish Institute. Athens, 2001, pp. 29-41; [(worldcat)](http://www.worldcat.org/oclc/491885471)
 * K. L. Zachos, “The tropaeum of the sea-battle of Actium at Nikopolis: interim report,” JRA 16, 2003: 65-92.[(worldcat)](http://www.worldcat.org/oclc/5884366383)                     
 
-### Periodo ID
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-### Pleiades ID
-
-
-
 ### TGN ID
 
 [7011016](http://vocab.getty.edu/page/tgn/7011016)
@@ -131,6 +94,3 @@ The Roman Senate voted in 27 B.C. that a laurel tree should be placed on each si
 
 27 July 2020
 
-## Related articles
-
-<!-- Links to other related articles. Leave blank for now -->
