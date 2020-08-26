@@ -33,7 +33,7 @@ tags:
 [Eisenstadt (Pleiades)](https://pleiades.stoa.org/places/197425)
 
 
-### Location Description
+<!--### Location Description-->
 
 
 <!--## Sublocation-->

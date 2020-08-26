@@ -29,7 +29,7 @@ tags:
 [Winden Am See]({{<relref ".">}}) \
 [Winden Am See (Pleiades)](https://pleiades.stoa.org/places/197425)
 
-### Location Description
+<!--### Location Description-->
 
 
 <!--## Sublocation-->

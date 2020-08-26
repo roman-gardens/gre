@@ -28,7 +28,7 @@ tags:
 [Savaria]({{<relref ".">}}) \
 [Savaria (Pleiades)](https://pleiades.stoa.org/places/197498)
 
-### Location Description
+<!--### Location Description-->
 
 
 <!--## Sublocation-->
