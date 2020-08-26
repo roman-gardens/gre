@@ -31,7 +31,7 @@ tags:
 
 [Germania Superior]({{<relref "..">}})  
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -41,18 +41,18 @@ tags:
 [Vallon]({{<relref ".">}}) \
 [Vallon (Pleiades)](https://pleiades.stoa.org/places/981525)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -110,7 +110,7 @@ After the disappearance of the Antique site, the land continues to be occupied d
 
 {{< figure src="../images/EUR_GS_Val_villa3_carroll.jpg" alt="Fig. 2 : map of the habitation zone in the second half of the IInd century of our era." title="Fig. 2 : map of the habitation zone in the second half of the IInd century of our era.(Rights Statement)" >}}
 
-### Plans
+<!--### Plans-->
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
@@ -138,7 +138,7 @@ Beginning of the 1st c. CE - beginning of the Vth century
 
 <span style="color:red"> No bibliography listed </span>
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -160,6 +160,6 @@ Beginning of the 1st c. CE - beginning of the Vth century
 
 18 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

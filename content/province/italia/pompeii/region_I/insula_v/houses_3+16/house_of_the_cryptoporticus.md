@@ -16,7 +16,7 @@ categories:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -26,7 +26,7 @@ categories:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ categories:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -70,7 +70,7 @@ archaeological garden \
 
 A. A passageway from the atrium led to a modest *peristyle* garden (a) visible through a window in the rear wall. A low wall enclosed the garden on the north and east sides along with five brick columns covered with white stucco and a pillar supporting the roof of the *portico*. A large, well preserved wall painting survived on the west wall of the north *portico* as well as a niche *lararium* decorated with a painted bust of Mercury. From the garden a flight of stairs led down to an elegant *cryptoporticus* (underground *portico*) illuminated by light from the adjacent garden through high windows. A solarium terrace, or *loggia*, overlooking the large garden (b) could be reached by another flight of stairs form the east *portico*.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -105,7 +105,7 @@ unspecified
 * Spinazzola, *NSc* (1914), pp. 259-263.
 * Spinazzola, *Scavi nuovi*, p.441 and fig. 493 (plan) on p. 433. [(worldcat)](http://www.worldcat.org/oclc/883858580)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -125,6 +125,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 05 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

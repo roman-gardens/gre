@@ -47,7 +47,7 @@ puteal
 
 The garden (a) and cistern that was in the southwest corner of this house had been paved over by A.D. 79. There was a *puteal* in the courtyard.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -79,7 +79,7 @@ unspecified - 70 CE
 
 * Jashemski, *Gardens*, vol.II, p. 44. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -99,6 +99,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 10 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

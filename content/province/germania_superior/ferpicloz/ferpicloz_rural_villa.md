@@ -19,7 +19,7 @@ tags:
 
 [Germania Superior]({{<relref "..">}})  
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -29,18 +29,18 @@ tags:
 [Ferpicloz]({{<relref ".">}}) \
 [Ferpicloz (Pleiades)](https://pleiades.stoa.org/places/981525)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -60,7 +60,7 @@ rural villas \
 
 The house of this *villa rustica* was of the winged corridor type (A in Fig. 1) with a porticoed facade (Fig. 1). Attached to the eastern end of the house, measuring 37 x 46 meters, was a wall running east-west which has been interpreted as the protective wall of a garden (G in Fig. 1).
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -70,7 +70,7 @@ The house of this *villa rustica* was of the winged corridor type (A in Fig. 1) 
 
 {{< figure src="../images/EUR_GS_Fer_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa (A) with a possible garden (G) protected by a wall to the east of the main building. The shoreline of the lake is dotted. Adapted from Drack and Fellmann 1988, fig. 369." title="Fig. 1: Plan of the rural villa (A) with a possible garden (G) protected by a wall to the east of the main building. The shoreline of the lake is dotted. Adapted from Drack and Fellmann 1988, fig. 369. (Rights Statement)" >}}
 
-### Images
+<!--### Images-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -85,7 +85,7 @@ unspecified
 * W. Drack and R. Fellmann, *Die Römer in der Schweiz*, Stuttgart, 1988, pp. 394-395, fig. 369. [(worldcat)](http://www.worldcat.org/oclc/639129078)
 * R. Fellmann, *La Suisse gallo-romaine. Cinq siècles d’histoire*, Lausanne, 1992, p. 157, fig. 116.3. [(worldcat)](http://www.worldcat.org/oclc/28038264)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -105,6 +105,6 @@ unspecified
 
 15 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

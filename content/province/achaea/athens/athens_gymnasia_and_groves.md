@@ -24,18 +24,18 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Athens]({{<relref ".">}}) \
 [Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -55,7 +55,7 @@ Gymnasia and Groves
 The three most famous gymnasia in Athens, situated outside the city in naturally well-watered and shady sanctuaries of pre-Classical date, were those in the suburbs.  In the Academy, was a shrine of the hero Hekademos; the Lykeion, had a sanctuary of Apollo; and a cult site of Herakles was located in Kynosarges.  The gymnasia in these suburbs were especially revered in Roman times as prestigious educational centers.  They included running tracks and other sports grounds for physical training, rooms for literary instruction and baths spread out over a large area and loosely added to in the course of time.  In each of the three areas foundation walls of a building enclosing a palaestra, or sports ground, of the 4th century B.C. have been excavated.  Roman building activity in the Athenian suburbs is confirmed by Pausanius (1.18.9). According to him, Hadrian had a gymnasium named after him outside the walls of Athens near the Ilissos River in Kynosarges, although it is unclear whether he actually had a new gymnasium built here in the 2nd century A.D. or if he merely refurbished the old one.  Roman honorific inscriptions and baths erected on the sites of the three suburban gymnasia indicate that they were kept up and modernized well after the Classical period.
 Ancient literary references to the plane, elm, poplar, and olive trees in the Academy are numerous.  Excavations in the suburb of Academy have shown that a new gymnasium was built there in the late Hellenistic/early Roman period.  This gymnasium consisted of a central courtyard enclosed by porticoes on all four sides. The northern wing of the building complex contained rooms which were probably used as libraries and for lectures, while the south, west and east wings appear to have had a row of desks, of which only the stone bases remain, running down the middle of each corridors. The courtyard itself may have been used as a palaestra for training, although by this period Greek education focused less on physical training than on lectures, debates, and literary study (Fig. 1).  The courtyard had a pool in the center (P on plan) and a podium for statues (S on plan), possibly of the Muses, at the northern end, both of which certainly would have restricted any space for athletics.   No paving in the courtyard could be found, and it possible that it was planted in some way, perhaps with shade trees (G on plan).
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -65,7 +65,7 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 
 {{< figure src="../images/EUR_ACH_Athens_gymnasium_Fig 1.jpg" alt="Fig. 1: Plan of the late Hellenistic/early Roman gymnasium with a possible garden (G), a pool (P) and a podium for statues (S) in the suburb of Academy at Athens. Adapted from Travlos 1971, fig. 59." title="" >}}
 
-### Images
+<!--### Images-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -80,7 +80,7 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 J. Travlos, *Bildlexikon zur Topographie des antiken Athen,* [(worldcat)](http://www.worldcat.org/oclc/1024546553) Tübingen, 1971, pp. 42-51, 180F, 181L, 340-341, 345-347, 579, figs. 59-62; M. Carroll-Spillecke, *Κήπος. Der antike griechische Garten.* [(worldcat)](http://www.worldcat.org/oclc/491757120) Wohnen in der klassischen Polis 3, Munich, 1989, pp. 28-29; W. Hoepfner, “Platon’s Akademie. Eine neue Interpretation der Ruinen,” in W. Hoepfner, ed., *Antike Bibliotheken,* [(worldcat)](http://www.worldcat.org/oclc/180882710) Mainz, 2002, pp. 56-62.
 
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -100,6 +100,6 @@ J. Travlos, *Bildlexikon zur Topographie des antiken Athen,* [(worldcat)](http:/
 
 16 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -26,7 +26,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Olympia (Pleiades)](https://pleiades.stoa.org/places/570531)
 
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -39,7 +39,7 @@ Regio IX
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -56,7 +56,7 @@ Guest House I
 
 A Roman guest house of the 2nd century A.D., so-called Guest House I, was erected southeast of the Roman Kladeos baths of ca. 100 A.D. (Fig. 3, A on plan).  The guest house had a peristyle courtyard with a water-filled channel surrounding a rectangular island.  The island may have been planted as a garden, since this area was not paved.  Around 220/230 A.D. the guest house was altered.  At this time, the building was given direct access through a corridor to the Kladeos baths.  The peristyle courtyard of the guest house also was reduced in size and paved with terracotta slabs (C on plan), suggesting that the garden was no longer maintained.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -72,7 +72,7 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/EUR_ACH_Nemea_Fig.1.tif" alt="Fig. 3: Plan of Guest House I (A) and Guest House II (B) with their courtyard gardens (G). The garden in Guest House I was later paved over (C). Adapted from Mallwitz 1972, fig. 230." title="Fig. 3: Plan of Guest House I (A) and Guest House II (B) with their courtyard gardens (G). The garden in Guest House I was later paved over (C). Adapted from Mallwitz 1972, fig. 230." >}}
 
 
-### Images
+<!--### Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -91,7 +91,7 @@ A Roman guest house of the 2nd century A.D, Around 220/230 A.D. the guest house 
 
 * A. Mallwitz, *Olympia und seine Bauten.* Munich,1972, pp. 276-277, fig. 230. [(worldcat)](http://www.worldcat.org/oclc/51584745)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -111,6 +111,6 @@ A Roman guest house of the 2nd century A.D, Around 220/230 A.D. the guest house 
 
 27 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

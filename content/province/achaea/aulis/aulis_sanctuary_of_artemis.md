@@ -25,18 +25,18 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Aulis]({{<relref ".">}}) \
 [Aulis (Pleiades)](https://pleiades.stoa.org/places/579889)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -55,19 +55,19 @@ Sancturary of Artemis
 
 The shrine of Artemis at Aulis in Boeotia was visited by Pausanias (9.19.6-8).  The Greeks in Homer’s Iliad had sacrificed to Artemis in Aulis in hope for favorable winds to carry them from Greek shores to Troy (Iliad 2.305-310). The late 5th century Athenian playwright, Euripides, made reference to the grove of Artemis in his Iphigenia in Aulis (185-186, 1543-1549).  Here in the 2nd century A.D. Pausanias noted white stone statues (presumably marble) of Artemis and saw palm trees growing in the sanctuary.   According to him, the fruit was not all edible, as it was in Palestine, but he remarked that the fruit ripened better than the dates in Ionia.
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Plans
+<!--### Plans-->
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+<!--### Images-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -83,7 +83,7 @@ The shrine of Artemis at Aulis in Boeotia was visited by Pausanias (9.19.6-8).  
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -103,6 +103,6 @@ The shrine of Artemis at Aulis in Boeotia was visited by Pausanias (9.19.6-8).  
 
 16 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

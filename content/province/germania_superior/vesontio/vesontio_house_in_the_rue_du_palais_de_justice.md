@@ -30,7 +30,7 @@ tags:
 
 [Germania Superior]({{<relref "..">}})  
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -46,14 +46,14 @@ The defensibility offered by this unique geography made Caesar hasten to occupy 
 
 Archaeology in a downtown area is always a matter of seizing opportunities as they are presented by new construction, remembering and recording what was found, and coming back years later to complete the picture. A good example of this process is at our second site, [2] on the map. In 1973, the Neptune Mosaic was discovered in rue de Lorraine, one of the largest floor decorations in all Gaul. The extent of the mosaic under nearby buildings made full excavation impossible. More than thirty years later, in 2004, construction of a gymnasium for the Collège Lumière (a middle school) gave archaeologists access to much more of the site, about 3000 square meters, for a salvage excavation. As expected, the continuation of the Neptune mosaic was found; moreover, three other mosaics of high quality, along with columns, sculpted blocks, peristyles, and monumental pools came to light. The results of this excavation have not been published; we are grateful to the excavators for sharing their preliminary results.
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -86,13 +86,13 @@ In the second half of the second century, the “garden” was restructured. The
 
 At the beginning of the third century, the two *domus* were transformed. In particular, polychrome mosaics were installed in the east house and rooms with hypocausts in the north house. The little shrine or monument at the western end of the garden was eliminated, but the pool was reconstructed without alteration. The paving stones that had been in a pool were in part removed and used to build a 3.8 x 2.9 meter platform which served as the base, presumably, of a quadrangular fountain in the north house in an open space which replaced the peristyle, which was then destroyed.
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Plans
+<!--### Plans-->
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
@@ -120,7 +120,7 @@ Beginning of the Flavian epoch - middle of the third century
 * Christophe Gaston: “Données récentes sur l'achitecture antique à Besançon,” Archéopages/Inrap. No. 8, Nov. 2002, p. 28-35.
 * Laurent Vaxelaire, Philippe Barral, “Besançon: de l’oppidum à la ville romaine” in *La naissance de la ville dans l’Antiquité*, M. Reddé et al. ed., Paris, 2003, p. 254-256.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -144,6 +144,6 @@ Christophe Gaston (ORCID: [https://orcid.org/0000-0001-6865-5108](https://orcid.
 
 19 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

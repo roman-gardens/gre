@@ -19,7 +19,7 @@ tags:
 
 [Britannia]({{<relref "..">}})  
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -29,18 +29,18 @@ tags:
 [Fishbourne]({{<relref ".">}}) \
 [Fishbourne (Pleiades)](https://pleiades.stoa.org/places/79466)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -107,7 +107,7 @@ Late 1st century CE - unspecified
 * B. Cunliffe, *Fishbourne Roman Palace*, Tempus, 1998. [(worldcat)](http://www.worldcat.org/oclc/997465222)
 * Amina-Aïcha Malek, *A Sourcebook of Garden Archaeology*, Bern: Peter Lang, 2012.[(worldcat)](http://www.worldcat.org/oclc/865000398)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -127,6 +127,6 @@ Late 1st century CE - unspecified
 
 09 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

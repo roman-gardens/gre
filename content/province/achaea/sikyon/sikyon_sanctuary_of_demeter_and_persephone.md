@@ -26,7 +26,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Peloponnese (Pleiades)](https://pleiades.stoa.org/places/570577)
 
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 located above the acropolis
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -53,7 +53,7 @@ Sanctuary of Ganemede or Hebe
 
 Pausanias gave directions on how to reach the grove called Pyraia, located near the city of Sikyon (2.11.3).  He did not reveal what kind of trees grew here, but the grove was sacred to Demeter and Persephone.  In it both men and women held religious festivals, but in separate locations.  Statues of Demeter and Persephone, as well as Dionysos, were still standing in a chamber of the sanctuary when Pausanias visited the site in the 2nd century A.D.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -75,7 +75,7 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+<!--### Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -96,7 +96,7 @@ Pausanias [In the time of Pausanias]
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -116,6 +116,6 @@ Pausanias [In the time of Pausanias]
 
 26 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

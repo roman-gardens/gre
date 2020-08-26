@@ -57,7 +57,7 @@ archaeological garden \
 
 The natural rising slope of the land made this long upper garden (a) at the rear of the house visible from the entrance at the south. A side door on the west wall to the rear offered access to the garden through a colonnaded *portico*. Garden paintings adorned the retaining wall that separated the upper garden from the rest. Fig. 3. <span style="color:green">These rather crude images were visible from the atrium through a window in the *tablinium*. Fig. 4. The paintings were divided into three panels on the retaining wall by wide black bands and they continued along the short extension of the wall on the west above the small basin that was built in the corner. Jashemski reported that the west panel was the best preserved when she examined it in 1968. She recorded seeing from left to right starting over the basin, a few oleander bushes and a date palm. A lattice fence begins at the basin and above that there was evidence of more oleanders, some with red blossoms and a bowl-shaped footed basin with a large bird perched on the rim on the left, (the plaster had fallen away with the right side of the rim). Following were more oleanders, a date palm and a cattle egret (*Bubulcus ibis* L.) perched on the fence with more oleanders behind. More than half of the center panel did not survive, but here the fence is solid, rather than lattice, and encloses a pool, although the right section of the pool is missing and the remaining part are barely visible. It appears that a sphinx was represented on the top of the left end of the fence. Jashemski remarks that this panel had the characteristics of a garden representation. A garland is painted along the base of the fence in both panels. The last panel had nothing but faint traces of images surviving.</span> <span style="color:orange">A garden representation was painted in the center of the large middle panel of the east wall of the *triclinium* (b). It is a simple rendering painted in yellow of a lattice fence enclosing a garden with an apsed niche in the center of the front and back. To either side there is an angular niche, four total, and eight tall posts rise from the corners and on either side of the apsed niche in front. The two front posts have ornamental vases on top. The west wall had a similar representation.</span> Fig. 5. The excavation took place in 1951-52 and among other objects found were four small marble fountain statues of *amorini* sliding down the backs of dolphins (0.33-0.40 m. high; Pompeii inv. nos. 8126-8129.)
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -99,7 +99,7 @@ unspecified
 * *PPP*, 1:109.
 * <span style="color:green">*PPP*, 1:109.</span>
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -119,6 +119,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 10 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

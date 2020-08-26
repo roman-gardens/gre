@@ -16,7 +16,7 @@ categories:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -26,7 +26,7 @@ categories:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ categories:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -63,7 +63,7 @@ archaeological garden \
 
 A small garden (a) was located at the rear of the *tablinum* accessed by a passageway from the *atrium*. A small pool (0.70 m. deep) was centered in the garden enclosed by a crudely built double wall with a space in between for flowers. At the time of the eruption the house was undergoing extensive repairs.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -96,7 +96,7 @@ unspecified
 * Jashemski, *Gardens*, vol.II, p. 35. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Spinazzola, *Scavi nuovi*, p. 446 and fig. 493 (plan) on p. 433. [(worldcat)](http://www.worldcat.org/oclc/883858580)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -116,6 +116,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 06 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

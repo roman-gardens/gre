@@ -79,7 +79,7 @@ A trellis fence separated the *triclinium* from the eastern part of the garden. 
 
 Water was supplied to the garden by way of overflow channels from the *triclinium* fountain. A basin, with two terra-cotta openings which would regulate the flow of water to either half of the garden, was located at the edge of the garden. <span style="color:green">The south wall at the rear of the *triclinium* once had a large hunt scene, but the only surviving part was the lower register. To the left of the *aedicula* fountain the images of a large deer and a bird remain, and to the right a bull flees from an unidentified attacker. A feline is crouched under a large tree in the lower right and other trees are sketchily depicted in the background.</span>
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -136,7 +136,7 @@ unspecified
 * Soprano, p. 295, no. 5 and fig. 31 on p. 296.
 * Zanker, pp. 500-501.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -156,6 +156,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 08 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

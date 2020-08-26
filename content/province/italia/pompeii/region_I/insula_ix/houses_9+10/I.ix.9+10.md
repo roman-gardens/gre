@@ -50,7 +50,7 @@ archaeological garden \
 
 To the rear of this house a raised garden (a), three steps up, had a *portico* on the east. The *portico* was supported by two columns on the east, an engaged column and a pilaster.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -83,7 +83,7 @@ unspecified
 * DeVos, “Scavi nuovi sconoscuti (1.9.13),” *Meded* 38 (1976), pl. 35 (plan).
 * Jashemski, *Gardens*, vol.II, p. 44. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -103,6 +103,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 10 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -44,7 +44,7 @@ I.viii.10 B
 
 B. At the southwest corner of the house, the courtyard (b) was possibly a garden.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -76,7 +76,7 @@ unspecified
 * Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Maiuri, *RM* (1953-54), p. 91.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -96,6 +96,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 09 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

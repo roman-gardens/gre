@@ -16,7 +16,7 @@ categories:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -26,7 +26,7 @@ categories:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ categories:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -62,7 +62,7 @@ archaeological garden \
 
 This site had been destroyed in antiquity and probably had been a *hospitium*. Excavated in 1874, the remains of a watering trough for animals and a stable were uncovered. Often demolished sites were planted but it could not be determined if there was vegetation present at the time of the eruption. The west wall contained an arched *lararium* niche.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -97,7 +97,7 @@ unspecified
 * Jashemski, *Gardens*, vol.II, p. 33. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Viola, “*Scavi*” p. 16.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -117,6 +117,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 04 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

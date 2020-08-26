@@ -25,7 +25,7 @@ tags:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -35,7 +35,7 @@ tags:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -43,7 +43,7 @@ tags:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -76,7 +76,7 @@ archaeological garden \
 
 At the rear of the house there was a *peristyle* garden (a) with a portico along the east side and part of the south. The excavation took place in 1873-74. A low wall joined three stuccoed brick columns and two engaged ones which supported the portico. There was an entrance to the garden on the south side opposite the door from the *tablinium* (b) and another on the east opposite the kitchen door (c), which was closed later according to Mau. The columns were white above the height of the wall and red below. Water was carried to the cistern by a wide gutter on the south and east edges of the garden, and Mau found some evidence of aqueduct water. There was a masonry *triclinium* (*l.medius*, 5.30 m.; *l.imus*, 3.85 m.; *l.summus*, 2.70 m.) with a circular table (dia. of support, 0.70 m. ) built against the west wall. Inside of each couch there were four niches (0.19 m. wide). The last niche in the south couch was larger in size and separated from the other three by the mouth of the cistern. There was a small masonry podium on the north wall with steps for access. A round tufa altar was located opposite the *lectus summus* (Fig. 3).
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -116,7 +116,7 @@ unspecified
 * Viola, “*Scavi*” p. 14. [(worldcat)](http://www.worldcat.org/oclc/715087975)
 * Warscher, “Codex.” photo no. 54-57.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -136,6 +136,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 27 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

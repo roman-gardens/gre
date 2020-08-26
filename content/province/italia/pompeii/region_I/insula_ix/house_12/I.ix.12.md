@@ -50,7 +50,7 @@ archaeological garden \
 
 A low wall connected the three columns and a pillar that supported the *portico* of this *peristyle* garden (a) located to the back of the house. The *portico* enclosed the garden on the on the east and south and entry was gained on the south between two of the columns. The excavation was done in 1952-53 and uncovered a *lararium* niche on the west garden wall.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -84,7 +84,7 @@ unspecified
 * Jashemski, *Gardens*, vol.II, p. 45. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Orr, no. 4.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -104,6 +104,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 10 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

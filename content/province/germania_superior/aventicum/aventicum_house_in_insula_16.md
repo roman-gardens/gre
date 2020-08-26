@@ -19,7 +19,7 @@ tags:
 
 [Germania Superior]({{<relref "..">}})  
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -33,14 +33,14 @@ tags:
 
 The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in AD 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around AD 260, and it was progressively abandoned thereafter.
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -60,7 +60,7 @@ In Insula 16 East, northeast of the forum, were small shops and houses belonging
 
 In the middle of the insula was a large peristyle courtyard which may have been planted (G in Fig. 1). In the southwestern part of the building complex taverns and shops opened onto the colonnaded street.
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -70,7 +70,7 @@ In the middle of the insula was a large peristyle courtyard which may have been 
 
 {{< figure src="../images/EUR_GS_AugRau_Hi16_carroll.jpg" alt="Fig. 1: Plan of the house with a possible peristyle garden (G) in Insula 16. Adapted from McKay 1986, fig. 186." title="Fig. 1: Plan of the house with a possible peristyle garden (G) in Insula 16. Adapted from McKay 1986, fig. 186." >}}
 
-### Images
+<!--### Images-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -85,7 +85,7 @@ AD 71
 * H. Bögli and D. Weidmann, "Nouvelles recherches à Aventicum," *Archäologie der Schweiz* 2, 1978:71-72, fig. 2.[(worldcat)](http://www.worldcat.org/oclc/891764106)
 * A. G. McKay, *Houses, Villas and Palaces in the Roman World*, London, 1975, pp. 202-203, fig. 186. [(worldcat)](http://www.worldcat.org/oclc/901557900)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -105,6 +105,6 @@ AD 71
 
 15 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

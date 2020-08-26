@@ -16,7 +16,7 @@ categories:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -26,7 +26,7 @@ categories:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ categories:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -61,7 +61,7 @@ archaeological garden \
 
 This modest *caupona* had a garden (a) at the rear that was raised one step higher than the rest of the building. It once had a masonry altar with a *lararium* painting above but both of these have been lost. A latrine was located at the southeast corner of the garden (Fig. 3).
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -95,7 +95,7 @@ unspecified
 * Jashemski, *Gardens*, vol.II, p. 32. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Schefold, *WändP*, p. 17 (also calls the garden a room).
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -115,6 +115,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 02 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

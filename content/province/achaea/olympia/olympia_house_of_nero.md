@@ -26,7 +26,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Olympia (Pleiades)](https://pleiades.stoa.org/places/570531)
 
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -39,7 +39,7 @@ Regio IX
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -58,7 +58,7 @@ House of Nero
 
 This house was built at the time of, and possibly for, the emperor Nero, who, on several occasions in the mid-1st century A.D., performed personally in the games at Olympia.  To enable the construction of the building just south of the stadium, the earlier east baths were demolished.  The house had a peristyle courtyard (G on plan), measuring 14 x 17 m., that was reached after passing through the atrium in the west.  In the courtyard was a distinctive decorative feature (Fig. 1). This consisted of a water channel one meter wide around the edges of the courtyard that could only be crossed by a bridge on each of the four sides.  The lack of paving in the area encircled by the water channel suggests that the courtyard may have been planted.  The building was partially torn down in the early 3rd century to make way for a Roman bathhouse.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -74,7 +74,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../../images/EUR_ACH_Olympia__House of Nero Fig 1.tif" alt="Fig. 1: Plan of the ‘House of Nero’ with its garden courtyard (G) and water channel (stippled). Adapted from Mallwitz 1972, fig. 167." title="Fig. 1: Plan of the ‘House of Nero’ with its garden courtyard (G) and water channel (stippled). Adapted from Mallwitz 1972, fig. 167." >}}
 
-### Images
+<!--### Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -93,7 +93,7 @@ This house was built at the time of, and possibly for, the emperor Nero, who, on
 
 * A. Mallwitz, *Olympia und seine Bauten.* Munich,1972, pp. 276-277, fig. 230. [(worldcat)](http://www.worldcat.org/oclc/51584745)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -113,6 +113,6 @@ This house was built at the time of, and possibly for, the emperor Nero, who, on
 
 27 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

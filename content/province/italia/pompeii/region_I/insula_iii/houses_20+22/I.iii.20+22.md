@@ -21,7 +21,7 @@ tags:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -31,7 +31,7 @@ tags:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -39,7 +39,7 @@ tags:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -69,7 +69,7 @@ puteal \
 
 At the rear of this house there was a garden (a) with a passageway on the north and the west. The garden had a gutter along the east, north, and west edges. Embedded in the garden were four large *dolia*. A large *triclinium* (b) on the east side had a window that looked out into the garden. Fiorelli surmised that the remains of one couch of a masonry *triclinium* in the west passageway indicated the possible presence of a room that had been destroyed by the earthquake. There was also a small altar on the right side of the *peristyle* and a terra-cotta *puteal* in the passageway.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -104,7 +104,7 @@ unspecified
 * Soprano, p. 308, no. 36.
 * Warscher, “Codex.”
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -124,6 +124,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 28 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -16,7 +16,7 @@ categories:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -26,7 +26,7 @@ categories:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ categories:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -65,7 +65,7 @@ puteal \
 
 This modest house had rooms opening off the small *peristyle* garden (a) at the rear of the structure. The rooms had been remodeled to serve as a shop and at the time of the eruption, were in disrepair. Four columns, two of tufa, two of brick, supported the *peristyle* portico on the north and east sides and were connected by a low wall with an entrance to the garden on the east side. Fig. 3. A terra-cotta *puteal* was located on the east side of the portico. The house to the rear was completely destroyed necessitated the building of a crude doghouse in the last intercolumniation on the east side. Keeping a dog would have prevented intruders from entering through the ruins and robbing the shop as well as the adjacent house (no. 11) where the shopkeeper most likely resided. Fig. 4.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -101,7 +101,7 @@ unspecified
 * Maiuri, *NSc* (1929), pp. 393-395 and fig. 26 (plan) on p. 401.
 * Pernice, p. 32 and pl. 21.1.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -121,6 +121,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 06 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

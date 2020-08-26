@@ -21,7 +21,7 @@ tags:
 
 [Germania Superior]({{<relref "..">}})  
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -35,14 +35,14 @@ tags:
 
 The town on the Rhine River possessed colonial status since the late 1st century BC. The street grid, as well as many public and residential buildings, are well known from excavations.
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -92,7 +92,7 @@ House: AD 150 - ca. 170
 * P.-A. Schwarz, „Die Nordmauer und die Überreste der Innenbebauung der spätrömischen Befestigung auf Kastelen in Augusta Rauricorum. Vorbericht über die Grabung 1991.51,“ *Jahresberichte aus Augst und Kaiseraugst* 13, 1992: 47-76. [(worldcat)](http://www.worldcat.org/oclc/891787691)
 * T. Hufschmid, *Kastelen 3. Die jüngeren Steinbauten in den Insulae 1 und 2 von Augusta Raurica*. Forschungen in Augst 23, Augst, 1996. [(worldcat)](http://www.worldcat.org/oclc/613566402)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -112,6 +112,6 @@ House: AD 150 - ca. 170
 
 14 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

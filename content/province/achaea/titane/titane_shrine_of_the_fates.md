@@ -26,7 +26,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Titane (Pleiades)](https://pleiades.stoa.org/places/570741)
 
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 located above the acropolis
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -53,7 +53,7 @@ Sanctuary of Ganemede or Hebe
 
 n the narrow road to Titane near Corinth was a grove of holm oaks and a shrine of the Fates which Pausanias visited in the 2nd century A.D. (2.11.4). According to Pausanias, the grove was said to be particularly old.  Part of the religious ritual at the site was the annual sacrifice of pregnant ewes on the open-air altar and the offering of a libation made of a mixture of milk, honey and flowers.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -75,7 +75,7 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+<!--### Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -96,7 +96,7 @@ Pausanias visited in the 2nd century A.D.
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -116,6 +116,6 @@ Pausanias visited in the 2nd century A.D.
 
 26 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

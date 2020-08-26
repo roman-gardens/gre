@@ -22,7 +22,7 @@ tags:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -32,7 +32,7 @@ tags:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -40,7 +40,7 @@ tags:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -71,7 +71,7 @@ puteal
 
 This site was excavated in 1868 revealing a *peristyle* garden (a) at the rear of the house. A portico on the east and north side was supported by five columns connected by a low wall. There was an opening to the garden on the north. The middle of the garden had two cistern *puteals*. The west wall of the garden held the famous painting depicting the battle between the Nucerians and the Pompeians in the ampitheator (1.60 m. high by a little less than 2.00 m. wide; Mus. Naz. Inv. No. 112 222; Ruesch no. 1344). This event was recorded by Tacitus (*Annals* 14.17). A gutter went along the east, south, and north edges of the garden.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -113,7 +113,7 @@ unspecified
 * Sogliano, “Pitture,” p. 204, no.604.
 * Warscher, “Codex.” photos nos. 44-50.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -133,6 +133,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 29 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

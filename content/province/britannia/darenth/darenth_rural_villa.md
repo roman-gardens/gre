@@ -27,18 +27,18 @@ tags:
 [Darenth]({{<relref ".">}}) \
 [Darenth (Pleiades)](https://pleiades.stoa.org/places/79413)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -82,7 +82,7 @@ After 100 CE - Closing decades of the 4th century
 * A. Detsicas, *The Cantiaci*, Gloucester, 1983, pp. 103-107, fig. 20. [(worldcat)](http://www.worldcat.org/oclc/247009310)
 * B. Philp, *Excavations in the Darent Valley*, Kent, Gloucester, 1984, pp. 89-92, figs. 24, 33. [(worldcat)](http://www.worldcat.org/oclc/896055765)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -102,6 +102,6 @@ After 100 CE - Closing decades of the 4th century
 
 08 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

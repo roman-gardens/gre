@@ -28,18 +28,18 @@ tags:
 [Sudeley/Spoonley Wood]({{<relref ".">}}) \
 [Sudeley/Spoonley Wood (Pleiades)](https://pleiades.stoa.org/places/79693)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -89,7 +89,7 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 - *Ancient and Historical Monuments in the County of Gloucester* Vol. 1. Royal Commission on Historical Monuments of England, London, 1976, pp. 113-114, fig. on p. 114. [(worldcat)](http://www.worldcat.org/oclc/929693324)
 - C. Taylor, *The Archaeology of Gardens*. Shire Archaeology Series 30, Aylesbury, 1983, pp. 30-31, fig. 1. [(worldcat)](http://www.worldcat.org/oclc/881563275)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -113,6 +113,6 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 11 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -24,18 +24,18 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Athens]({{<relref ".">}}) \
 [Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -60,7 +60,7 @@ The most monumental building dedicated to education and intellectual pursuits in
 In the center of the building was a large open peristyle courtyard with a long pool (stippled on plan).  The courtyard has been reconstructed as a garden (G on plan) in which students and scholars could stroll, and there were almost certainly statues in this area.  One is reminded of Vitruvius’ recommendation to plant the open areas between the colonnades of buildings with greenery which he believed improved the air and made walks in this environment healthy for body and mind (5.9.5).  The building bears a strong resemblance typologically, and very likely thematically, to the late Hellenistic/early Roman gymnasium outside the city in the Academy.  Pausanias, our literary source for Hadrian’s building projects in Athens, referred to the library as a splendid building with 100 columns, adorned with statues and paintings (1.18.9).
 
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -70,7 +70,7 @@ In the center of the building was a large open peristyle courtyard with a long p
 
 {{< figure src="../images/EUR_ACH_Athens_Hadrian Library_Fig 1.jpg" alt="Fig. 1: Plan of the Library of Hadrian with its courtyard garden (G) and apsidal pool (stippled). Adapted from Travlos 1971, fig. 316." title="Fig. 1: Plan of the Library of Hadrian with its courtyard garden (G) and apsidal pool (stippled). Adapted from Travlos 1971, fig. 316." >}}
 
-### Images
+<!--### Images-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -85,7 +85,7 @@ In the center of the building was a large open peristyle courtyard with a long p
 J. Travlos, *Bildlexikon zur Topographie des antiken Athen.* [(worldcat)](http://www.worldcat.org/oclc/1024546553) Tübingen, 1971, pp. 244-252, figs. 316-318; D. Willers, Hadrians panhellenisches Programm. *Archäologische Beiträge zur Neugestaltung Athens durch Hadrian.*[(worldcat)](http://www.worldcat.org/oclc/22880052) Basel, 1990, pp. 14-21, figs. 1-2, pl. 1.3.
 
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -105,6 +105,6 @@ J. Travlos, *Bildlexikon zur Topographie des antiken Athen.* [(worldcat)](http:/
 
 16 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

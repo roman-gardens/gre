@@ -47,7 +47,7 @@ archaeological garden \
 
 The shop-house was laid out in a very irregular manner and the garden (a) took up most of the space. There was a masonry *triclinium* in the southern part of the garden. This had a *lectus imus* and a *lectus summus* that both were 3.80 m. in length and the *lectus medius* was 4.24 m. in length. The rectangular table measured 1.10 x 0.75 m.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -78,7 +78,7 @@ unspecified
 * Idem, *Gardens*, vol.II, p. 41. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Soprano, p. 296, no. 6.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -98,6 +98,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 08 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -25,7 +25,7 @@ Britain is geographically and geologically diverse, and it was characterized in 
 ### Dates
 43 CE – ~410 CE
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -44,6 +44,6 @@ Britain is geographically and geologically diverse, and it was characterized in 
 
 07 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

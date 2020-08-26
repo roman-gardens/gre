@@ -29,7 +29,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Nemea (Pleiades)](https://pleiades.stoa.org/places/570504)
 
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -42,7 +42,7 @@ Regio IX
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -60,7 +60,7 @@ Sanctuary of Zeus
 
 The grove of trees at the temple of Zeus is known through Pausanias’ description of it (2.15.2) and from archaeological excavations in the temple precinct.  Excavations in the 1970s uncovered 23 planting pits cut out of the living rock on the south side of the temple (Fig.1, gray circles on plan).  The pits were up to 2 m. in diameter and on average 65 cm. deep.  Some of the tree pits were cut in relatively straight alignment with each other, but the overall impression is one of a rather loose arrangement.  According to Pausanias, the trees were cypresses.  This was confirmed by the excavators who found carbonised remains of cypress wood at the bottom of the planting pits.  The archaeological context of the planting pits suggests that the trees were planted in the 5th or 4th century B.C., and indeed literary references of the late 5th century B.C. allude to them (Euripides, Hypsipyle, Prologue lines 99-104; preserved in a papyrus fragment of 2nd-3rd century A.D.).  Trees were obviously still standing in the 2nd century A.D. when Pausanias visited Nemea.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -75,7 +75,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../../images/Nemea Zeus Temple and Grove Balloon Photo" alt="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings. Adapted from Miller 1978, fig. 2." title="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings. Adapted from Miller 1978, fig. 2." >}}
 
-### Images
+<!--### Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -95,7 +95,7 @@ Pausanias [at the time of Pausanias]
 * S. G. Miller, “Excavations at Nemea 1976,” Hesperia 46,1977: 9-11; S. G. Miller, “Excavations at Nemea 1977,” *Hesperia* 47, 1978:65; [(worldcat)](http://www.worldcat.org/oclc/1006125699)
 * D. E. Birge, L. H. Kraynak and S. G. Miller, *Excavations at Nemea. Topographical and Architectural Studies. The Sacred Square, the Xenon and the Bath.* Berkeley, 1992, pp. 85-96, figs. 1, 98-103.[(worldcat)](http://www.worldcat.org/oclc/929297744)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -115,6 +115,6 @@ Pausanias [at the time of Pausanias]
 
 27 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

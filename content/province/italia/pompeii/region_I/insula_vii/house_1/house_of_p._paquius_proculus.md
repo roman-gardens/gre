@@ -57,7 +57,7 @@ puteal \
 
 This elegant house was excavated in 1923. To the rear was a large and sunny *peristyle* garden (a) with a *portico* on four sides supported by sixteen columns. At the northeast corner stood a lava *puteal* with a gutter that ran around the edges of the garden. In the center of the garden a wooden *triclinium* was shaded by a *pergola* supported by four columns. The nails and the imprint of the wooden structure of the *triclinium* were clearly preserved. A marble faced rectangular pool, with an apse-shaped extension to the north and a fountain jet, was located in front of the *triclinium*. Fig. 3, Fig. 4. This pool was connected to a smaller marble basin between the couches of the *triclinium*. An excellent view of the garden was afforded from the large salon (b) at the rear of the *tablinum* with two columns at the entrance of the *portico*. The *oecus* (c) also opened on the north *portico* with a fine view of the garden and the *loggia* above had a view of the garden as well as views to the sea and the Lattari Mountains. Fig. 5.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -101,7 +101,7 @@ unspecified
 * Spinazzola, *Scavi nuovi*, p. 299 and fig. 334 (plan) on p. 297. [(worldcat)](http://www.worldcat.org/oclc/883858580)
 * Warscher, “Codex,” VI. Viii. appendix on water and photo no. 66.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -121,6 +121,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 08 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

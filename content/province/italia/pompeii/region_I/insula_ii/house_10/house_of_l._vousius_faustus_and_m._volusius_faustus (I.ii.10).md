@@ -24,7 +24,7 @@ tags:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -34,7 +34,7 @@ tags:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -42,7 +42,7 @@ tags:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -78,7 +78,7 @@ Garden Painting
 
 <span style="color:green"> When this garden was excavated in 1873, the excavators reported three panels on the east wall with garden paintings. The center panel had a body of water with swimming fish with assorted animals in the background that included a grazing deer and a springing leopard. The two panels on either side each had a large crater-shaped fountain surrounded by thick growth. Large red flowers and yellow apples could be identified to the left of each fountain and the right, pomegranates (*Punica granatum* L.). Jashemski examined this painting in 1964 to find it had been covered by a growth of ivy which had destroyed most of the painting. A section of a large pomegranate bush was all that was left intact at the time. She describes the leaves, painted in blue-green with darker shading and a few yellow leaves and the fruit, deep yellow with reddish-orange shading, as being rendered in an impressionistic manner. At the right of the entrance to the garden area was a cistern opening. </span>
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -122,7 +122,7 @@ unspecified
 * Soprano, p.305, no. 23.
 * Viola, “*Scavi*” p. 11. [(worldcat)](http://www.worldcat.org/oclc/715087975)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -142,6 +142,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 24 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

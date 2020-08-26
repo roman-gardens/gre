@@ -30,18 +30,18 @@ tags:
 [Castra Vetera]({{<relref ".">}}) \
 [Castra Vetera (Pleiades)](https://pleiades.stoa.org/places/108867)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -91,7 +91,7 @@ Unspecified
 
 - H. Lehner, *Vetera. Die Ergebnisse der Ausgrabungen des Bonner Provinzialmuseums bis 1929.* Römisch-Germanische Forschungen 4, Berlin, 1930, pp. 52-60, figs. 38-41. [worldcat](http://www.worldcat.org/oclc/884633203)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 

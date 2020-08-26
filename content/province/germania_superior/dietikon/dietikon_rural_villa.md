@@ -20,7 +20,7 @@ tags:
 
 [Germania Superior]({{<relref "..">}})  
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -30,18 +30,18 @@ tags:
 [Dietikon]({{<relref ".">}}) \
 [Dietikon (Pleiades)](https://pleiades.stoa.org/places/981525)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -68,7 +68,7 @@ In the residential part of the farm (*pars urbana*) was a large corridor villa w
 
 In the late 1st century, around AD 70, the timber-lined pool in the west was replaced by a masonry pool lined with water-proof plaster on the same spot (Fig. 5). This was possibly fed by water from a small stream. At the same time, the timber pergola was dismantled, its place taken by a large masonry pool, 3 x 22 meters in plan. The planting pattern of the courtyard garden was retained (Fig. 5) until after the middle of the 2nd century when the pools were destroyed and the garden leveled.
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -102,7 +102,7 @@ Stone-built villa: Middle of the 1st century CE
 * C. Ebnöther, *Der römische Gutshof in Dietikon*. Monographien der Kantonsarchäologie Zürich 25, Zürich, 1995, pp. 36-45, 49-50, figs. 21, 36-37,41-42. [(worldcat)](http://www.worldcat.org/oclc/891774240)
 * L. Flutsch, U. Niffeler, F. Rossi, eds., *La Suisse du Paléolithique à l’aube du Moyen-Age (SPM) V. Epoque romaine/Età Romana*, Basel, 2002, p. 143, fig. 140. [(worldcat)](http://www.worldcat.org/oclc/492139765)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -124,6 +124,6 @@ Stone-built villa: Middle of the 1st century CE
 
 15 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

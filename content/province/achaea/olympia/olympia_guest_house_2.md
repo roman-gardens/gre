@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Olympia (Pleiades)](https://pleiades.stoa.org/places/570531)
 
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -38,7 +38,7 @@ Regio IX
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -56,7 +56,7 @@ Guest House II
 
 In the first third of the 3rd century A.D. another guest house, so-called Guest House II (B on plan), was built at Olympia, immediately east of and connected with Guest House I (see Fig. 3).  Guest House II was almost certainly built to supplement Guest House I after alterations to the latter resulted in its loss of the peristyle courtyard and garden.  Guest House II was built with a peristyle courtyard, and its design is very similar to the one in the earlier Guest House I.  In the center of the courtyard was an unpaved, and possibly planted, rectangular island surrounded by a water channel (G on plan). Both guest houses were badly damaged in the late 3rd century and only partially used thereafter until their abandonment in the 4th century.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -67,12 +67,12 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+<!--### Plans-->
 
 
 
 
-### Images
+<!--### Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -91,7 +91,7 @@ In the first third of the 3rd century A.D.
 
 * A. Mallwitz, *Olympia und seine Bauten.* Munich,1972, pp. 276-277, fig. 230. [(worldcat)](http://www.worldcat.org/oclc/51584745)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -111,6 +111,6 @@ In the first third of the 3rd century A.D.
 
 27 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

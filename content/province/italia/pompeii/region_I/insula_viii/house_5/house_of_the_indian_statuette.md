@@ -52,7 +52,7 @@ archaeological garden \
 
 A *portico* enclosed this garden (a) on the north, east and south sides, and the *portico* on the west had been closed to create rooms. These enclosed columns can be observed incorporated into the wall but only one of the other columns remains standing. The garden was surrounded by a gutter. A small Indian statuette (0.25 m. high) was found in the adjacent shop and it is believed to have been stored in a wooden chest in one of the rooms off the *portico* with other domestic items. It had tumbled into the shop when the southwest corner of the *peristyle* collapsed.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -85,7 +85,7 @@ unspecified
 * Maiuri, “Statuetta eburnea d’art indiana a Pompei,” *LeArti* (1938), pp. 111-115.
 * Idem, “Navalia pompeiana,” *RendNap*, n.s., 33 (1959): 22.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -105,6 +105,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 08 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

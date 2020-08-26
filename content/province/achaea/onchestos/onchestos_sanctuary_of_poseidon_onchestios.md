@@ -26,7 +26,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Onchestos (Pleiades)](https://pleiades.stoa.org/places/540984)
 
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -39,7 +39,7 @@ Regio IX
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -58,7 +58,7 @@ Sanctuary of Poseidon Onchestios
 
 According to Pausanias, the ancient city of Onchestos in Boeotia lay in ruins by the time he visited the site in the 2nd century A.D., but the shrine and statue of Poseidon Onchestios and the sacred grove survived (9.26.5).  This, he says, was the grove that Homer praised in his poetry (Iliad 2.506; see also Homeric Hymn to Apollo 229-238).  Perhaps the trees that Pausanias saw were not quite as old as he thought, since Strabo, writing over a hundred years earlier, described the site as treeless and the temple empty (9.2.33).  Replanting in the sanctuary might account for the presence of the trees seen later by Pausanias.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -80,7 +80,7 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+<!--### Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -101,7 +101,7 @@ he [Pausanias] visited the site in the 2nd century A.D.
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -121,6 +121,6 @@ he [Pausanias] visited the site in the 2nd century A.D.
 
 26 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

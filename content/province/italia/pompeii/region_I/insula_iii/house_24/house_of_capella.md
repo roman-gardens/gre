@@ -22,7 +22,7 @@ tags:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -32,7 +32,7 @@ tags:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -40,7 +40,7 @@ tags:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -70,7 +70,7 @@ archaeological garden \
 
 At the rear of the house, excavated in 1868, there was a *peristyle* garden (a) with a portico supported by three brick columns on the east and north sides. The south wall had a *lararium* painting and a crude animal painting on one corner of the south garden wall. <span style="color:green"> This had been executed in the manner of a topiary painting according to the excavators, who reported a lion consuming a deer, below which there was a dog pouncing on a hare. </span> A good view of the garden was obtained through the *triclinium* (b) on the north.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -111,7 +111,7 @@ unspecified
 * <span style="color:green"> Sogliano, “Pitture,” p. 225, no. 705. </span>
 * Warscher, “Codex,” photo no. 54.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -131,6 +131,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 29 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

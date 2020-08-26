@@ -26,7 +26,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Arcadia (Pleiades)](https://pleiades.stoa.org/places/570102)
 
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 located above the acropolis
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -53,7 +53,7 @@ Sanctuary of Ganemede or Hebe
 
 The only indication that there was a garden at this sanctuary is a literary reference to a grove of cypress trees.  According to Pausanias (2.13.3), this ancient sanctuary in the northeastern Peloponnese was located above the acropolis.  The grove associated with the goddess Ganymede or Hebe was still in existence when Pausanias travelled to Phlious.  In honour of the goddess, a number of prisoners were pardoned every year, the fetters of those set free being hung on the trees in the grove.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -75,7 +75,7 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+<!--### Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -96,7 +96,7 @@ Pausanias [In the time of Pausanias]
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -116,6 +116,6 @@ Pausanias [In the time of Pausanias]
 
 26 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

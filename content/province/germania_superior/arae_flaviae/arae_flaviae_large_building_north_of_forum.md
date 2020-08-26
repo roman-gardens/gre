@@ -18,7 +18,7 @@ tags:
 
 [Germania Superior]({{<relref "..">}})  
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -32,14 +32,14 @@ tags:
 
 This town on the Neckar river was granted municipal status around 84 AD or slightly later. In modern terms, it lies about halfway between Zurich and Stuttgart.
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -83,7 +83,7 @@ Complex built at the earliest during the reign of Trajan.
 
 * C. S. Sommer, "Municipium Arae Flaviae. Militärisches und ziviles Zentrum im rechtsrheinischen Obergermanien," *Bericht der Römisch-Germanischen Kommission 73*, 1992: 301-302, Beilage 1.2.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -103,6 +103,6 @@ Complex built at the earliest during the reign of Trajan.
 
 13 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

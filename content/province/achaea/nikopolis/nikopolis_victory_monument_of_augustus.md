@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Nemea]({{<relref ".">}})
 
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -38,7 +38,7 @@ Regio IX
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -69,7 +69,7 @@ The landscape design of the site is contemporary with the building of the monume
 The sacred laurel of Apollo is mentioned frequently in Greek and Latin literature. Besides its association with Apollo, in Roman life the laurel is connected with victory, victorious generals, and their triumphs. Octavian, on the occasion of his Actian triumph depicted on the marble frieze of the altar of the monument, stands on the currus triumphalis holding a laurel branch in his extended right hand and wearing a laurel wreath on his head. All the magistrates who accompany him in the triumph also wear laurel wreaths. The Roman Senate voted in 27 B.C. that a laurel tree should be placed on each side of the door of the House of Augustus on the Palatine, and a civic crown of oak leaves should  be placed above the door. This was considered such an extraordinary honor that Augustus mentions it in his Res Gestae (34), and the laurel became his permanent emblem. Certainly, the plant of Apollo could not be absent from his Sacred Hill where Octavian erected the monument as an act of pietas to his patron god and to his divine supporters, Mars and Neptune.
 
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -108,7 +108,7 @@ The Roman Senate voted in 27 B.C. that a laurel tree should be placed on each si
 * K. L. Zachos, “Excavations at the Actian Tropaeum at Nikopolis. A preliminary report,” in J. Isager, ed., *Foundation and destruction. Nikopolis and northwestern Greece.* Monograph 3, Danish Institute. Athens, 2001, pp. 29-41; [(worldcat)](http://www.worldcat.org/oclc/491885471)
 * K. L. Zachos, “The tropaeum of the sea-battle of Actium at Nikopolis: interim report,” JRA 16, 2003: 65-92.[(worldcat)](http://www.worldcat.org/oclc/5884366383)                     
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -128,6 +128,6 @@ The Roman Senate voted in 27 B.C. that a laurel tree should be placed on each si
 
 27 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

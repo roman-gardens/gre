@@ -21,7 +21,7 @@ tags:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -31,7 +31,7 @@ tags:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -39,7 +39,7 @@ tags:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -71,7 +71,7 @@ puteal
 
 The west portico of the small *peristyle* garden at the rear of the house was entered through two doors directly from the atrium. The garden was enclosed on four sides by a portico supported by eight stuccoed brick columns. On the foreside, the two first columns on the left had a larger intercolumniation corresponding to the wide opening opposite the atrium. Between these columns stood a terra-cotta puteal covered with white stucco. A gutter around the edges of the garden was shown in the plan. The round pool in the center of the garden no longer exists, and only stumps of the columns remain today. One of the graffiti on the walls of the portico noted that on November 17 Puteolana gave birth to three males and two females (XV K(alendas) NOV(embres) PVTEOLANA PEPERIT MASCL(os) III FEMEL[as] II) (*CIL* IV.3890). Perhaps they were either piglets or puppies. Pigs were more common in ancient cities than is commonly realized.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -88,7 +88,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../images/Fig_2_Region_I_insula_ii.tif" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
 
-### Images
+<!--### Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -114,7 +114,7 @@ unspecified
 * Viola, “*Scavi*,” p 11. [(worldcat)](http://www.worldcat.org/oclc/715087975)
 * Warscher, “Codex.”
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -134,6 +134,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 24 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

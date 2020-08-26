@@ -16,7 +16,7 @@ categories:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -26,7 +26,7 @@ categories:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ categories:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -68,7 +68,7 @@ puteal \
 
 B. The center *peristyle* was separated from the south *peristyle* (d) by a long wall that had six windows and two doors. These offered a grand view into the southern *peristyle*. In an earlier period this peristyle must have been considered the most important component for each of the six windows corresponded to an intercolumniation in the southern *peristyle*. The twenty portico columns were fluted above, plain below, and faced with stucco over brick and Sarno limestone. The northeast corner had a portico with a marble *puteal*. This garden was bounded by a gutter and in this *peristyle* there was a white marble altar (0.255 high; Mus. Naz. inv. no. 110022). The middle peristyle was supposedly where the famous bronze statue of Apollo playing a *cithara* (1.58 m. high with base; Mus. Naz. inv. no. 5630; Reusch no. 831) was found on November 8, 1853. It probably came from the southeast corner of the southern *peristyle* for the middle *peristyle* was not excavated until five years after the Apollo was found. Niccolini (*Case*, vol.3, “L’arte” p. 8) was the first to mistakenly report the location where the bronze was discovered. Maiuri thought that the Apollo may have been adapted as a *lychnophoros*. Several smaller rooms looked out over the garden as well as a large *oecus* (e) on the east.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -120,7 +120,7 @@ unspecified
 * 685-688 (Sept. 14-Nov.30, 1859).
 * Pernice, p. 30 and pl. 19.4.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -140,6 +140,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 02 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

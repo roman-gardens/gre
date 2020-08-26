@@ -24,7 +24,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Athens]({{<relref ".">}}) \
 [Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -33,7 +33,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 <!-- [Athenian Agora]({{<relref ".">}}) \ -->
 [Athenian Agora (Pleiades)](https://pleiades.stoa.org/places/807514119)
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -53,7 +53,7 @@ A large complex of the early 5th century A.D. in the southern part of the Agora 
 It is possible that a garden might have been present in one of the inner courtyards of the building, especially since the complex was directly supplied by sufficient water from a late Roman aqueduct.  The smallest of the courtyards (7 x 7 m.), the southeast court, was paved with terracotta tiles and cannot, therefore, have been planted, but the central courtyard seems not to have been paved (G on plan).  The building stood on a plot of land of irregular shape that was enclosed within a boundary wall.  This has been reconstructed as an informal garden area (G on plan), although no traces of plantings have survived.  The complex was abandoned by ca. 530 A.D.
 
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -63,7 +63,7 @@ It is possible that a garden might have been present in one of the inner courtya
 
 {{< figure src="../images/EUR_ACH_Athens_House of Giants_Fig 1.jpg" alt="Fig. 1: Plan of the so-called “Palace of the Giants” (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the “Palace.” Adapted from Camp 1986, p. 200, fig. 166." title="Fig. 1: Plan of the so-called “Palace of the Giants” (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the “Palace.” Adapted from Camp 1986, p. 200, fig. 166." >}}
 
-### Images
+<!--### Images-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -77,7 +77,7 @@ It is possible that a garden might have been present in one of the inner courtya
 
 H. A. Thompson and R. E. Wycherley, *The Agora of Athens. The History, Shape and Uses of an ancient City Center. The Athenian Agora XIV.* [(worldcat)](http://www.worldcat.org/oclc/805087483) Princeton, 1972, pp. 211-213; J. McKendrick Camp, The Athenian Agora. *Excavations in the heart of Classical Athens. London,* [(worldcat)](http://www.worldcat.org/oclc/1153939923) 1986, p. 200, figs. 166-167; H. Thompson in A. Frantz, *Late Antiquity: A.D. 267-700. The Athenian Agora XXIV.* [(worldcat)](http://www.worldcat.org/oclc/63179976) Princeton, 1988, pp. 95-116, pls. 54-55.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -97,6 +97,6 @@ H. A. Thompson and R. E. Wycherley, *The Agora of Athens. The History, Shape and
 
 16 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

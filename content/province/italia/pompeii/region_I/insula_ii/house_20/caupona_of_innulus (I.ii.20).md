@@ -20,7 +20,7 @@ tags:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -30,7 +30,7 @@ tags:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -38,7 +38,7 @@ tags:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -66,7 +66,7 @@ archaeological garden \
 
 This small *caupona* had a garden (a) at the rear with a roofed passageway on the east and the south. It was excavated in 1873 and a masonry *biclinium* (*l.medius*, 2.65m.; *l.imus* 2.94 m.) with a round table (dia. 0.93 m.) was uncovered in the northwest corner and a niche *lararium* on the north garden wall.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -106,7 +106,7 @@ unspecified
 * Viola, “*Scavi*” pp. 12-13. [(worldcat)](http://www.worldcat.org/oclc/715087975)
 * Warscher, “Codex.”
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -126,6 +126,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 26 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

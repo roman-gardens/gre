@@ -26,7 +26,7 @@ tags:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -36,7 +36,7 @@ tags:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -44,7 +44,7 @@ tags:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -79,7 +79,7 @@ puteal \
 
 The front of this house excavated in 1869 had an unusual design in that it was set back some distance from the street. The *peristyle* garden was entered at the end of the entranceway at the rear of a long *angiprotus* (alleyway). Rooms of the house were located at the right and rear of the garden. The *peristyle* had undergone various changes and was supported on the east and north by tall *tufa* columns. The portico roof on the west was supported by two low brick columns and two pilasters surmounted by arches. A low wall enclosed the garden, joining the columns either side of the entrance between the two columns to the west. A terra-cotta *puteal* was adjacent to the west wall along with a hearth covered with a small vault decorated with a rough, bearded head supposed to be Vulcan. A large window on the south wall gave a view from the *exedra* (b) into the garden. The east *peristyle* wall contained a *lararium* niche and a gutter ran along the north, east, and west edges of the garden.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -119,7 +119,7 @@ unspecified
 * Pernice, p. 34.
 * Warscher, “Codex.” photos nos. 16-21.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -139,6 +139,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 28 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

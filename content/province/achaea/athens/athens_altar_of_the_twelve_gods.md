@@ -24,7 +24,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Athens]({{<relref ".">}}) \
 [Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -32,7 +32,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 [Athenian Agora (Pleiades)](https://pleiades.stoa.org/places/807514119)
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -51,7 +51,7 @@ Altar of the Twelve Gods
 
 A ‘grove’ of olive and laurel trees surrounding the Altar of the Twelve Gods in the Athenian Agora is mentioned in the late 1st century A.D. by the Roman writer Statius in his epic poem Thebaid (12.481-496). Excavations conducted there indeed revealed the remains of the planting pits of trees, although there appears to have been a very limited number of only three or four pits.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -73,7 +73,7 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+<!--### Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -93,7 +93,7 @@ Mentioned in the late 1st century A.D.
 * M. Crosby, “The Altar of the Twelve Gods in Athens,” *in Commemorative Studies in Honor of T. Leslie Shear. Hesperia Suppl.* 8. Princeton, 1949, pp. 82-103, pl. 12.1; J. [(worldcat)](http://www.worldcat.org/oclc/5548530582)
 * McKendrick Camp, *The Athenian Agora. Excavations in the heart of Classical Athens.* London, 1986, pp. 40-42, figs. 23-24.[(worldcat)](http://www.worldcat.org/oclc/1153939923)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -113,6 +113,6 @@ Mentioned in the late 1st century A.D.
 
 26 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

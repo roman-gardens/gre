@@ -25,18 +25,18 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Corinth]({{<relref ".">}}) \
 [Corinth (Pleiades)](https://pleiades.stoa.org/places/570182)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -63,7 +63,7 @@ Fragments of marble sculpture were found in the fill above the spina, including 
 
 The so-called “hippodrome garden” type **(see … add cross-references to Domus Flavia on the Palatine Hill in Rome, “Stadium-Garden” at Hadrian’s Villa at Tivoli, the Villa of the Little Circus at Silin, Jericho, Pliny’s Tuscan villa, and Domitian’s villa above Lake Albano)** must have been inspired in some way by Greek hippodromes and/or by Roman circuses with planted areas with sculptural and possibly architectural decoration in the central area and probably around the circumference of the elongated racecourse. It must be pointed out, however, that no Greek hippodrome has ever been excavated, although new excavations at the Sanctuary of Zeus on Mt. Lykaion in Arcadia, Greece may be able to shed some light for the first time on a Classical period hippodrome structure and its possible garden features (http://lykaionexcavation.org). In addition, although trees appear in circus scenes illustrating the spina and meta of the Circus Maximus in Rome on 3rd – 4th century A.D. mosaics, e.g., the Barcelona mosaic, as well as on coins, e.g., coin of Philip I, and on sarcophagus reliefs, such as the Vatican sarcophagus (Humphrey, Roman Circuses, pp. 235-236, figs. 56, 119; p. 127, fig. 56; pp. 196-203, fig. 99-101) and the possibility of plantings has been proposed in the spinae of Roman circuses (e.g., by Humphrey, Roman Circuses, p. 38 for the circus at Leptis Magna), no specific archaeological evidence has been recorded until the publication of this circus at Corinth.
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -87,7 +87,7 @@ The so-called “hippodrome garden” type **(see … add cross-references to Do
 
 BIBLIOGRAPHY: D. G. Romano, “A Roman Circus in Corinth,” *Hesperia* [(worldcat)](http://www.worldcat.org/oclc/359326258) 74, 2005:585-611; J. H. Humphrey, *Roman Circuses: Arenas for Chariot Racing.* [(worldcat)](http://www.worldcat.org/oclc/299732316) Berkeley,1986.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -107,6 +107,6 @@ BIBLIOGRAPHY: D. G. Romano, “A Roman Circus in Corinth,” *Hesperia* [(worldc
 
 16 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

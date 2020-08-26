@@ -49,7 +49,7 @@ inscription \
 
 The courtyard (a) at the front of this house was covered on the west and north and led to a second courtyard (b) at the rear of the house. In the northwest corner of the passageway there was a large *lararium*. Too much damage had been sustained to determine if any of the areas had been planted, and graffiti on the wall indicated to Della Corte that business had been conducted here because of all the numerical notations.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -81,7 +81,7 @@ unspecified
 * Della Corte, *Case*, p. 327.
 * Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -101,6 +101,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 09 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

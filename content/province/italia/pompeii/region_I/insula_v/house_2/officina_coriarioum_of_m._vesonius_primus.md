@@ -16,7 +16,7 @@ categories:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -26,7 +26,7 @@ categories:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ categories:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -66,7 +66,7 @@ archaeological garden \
 
 A. This tannery was excavated in 1873-1874. The *peristyle* courtyard had a portico to the north and east supported by brick pillars which had been most likely been built when the original house was converted to a tannery. Against the west wall there was a masonry *triclinium* (*l.medius* 4.99 m.; *l.summus* and *l.imus* 4.96 m.; table, 1.78 x 0.93 m.). The top of the *triclinium* table held the famous mosaic of a skull (0.45 x 0.50 m. Mus. Naz. inv. no. 109 982;; Reusch no. 163). <span style="color:purple">The mosaic representing the Epicurian philosophy features a large skull over a butterfly on a wheel representing the soul and time. On either side of the skull are the possessions of both the rich and poor with a plumb line hanging over the skull indicating the equalizing power of death.</span> The northeastern part of the courtyard was a rectangle, the north side of which was formed by the three first intercolumniations counting from the northeast corner of the north portico, and the east side by the first two intercolumniations counting from the same corner. This area was paved with *opus signinum*. The little area around the *triclinium* between the paved area and the west wall was believed to be a garden according to Mau.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -110,7 +110,7 @@ unspecified
 * Viola, “*Scavi*” p. 15.
 * Warscher, “Codex,” photo no. 32.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -130,6 +130,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 03 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

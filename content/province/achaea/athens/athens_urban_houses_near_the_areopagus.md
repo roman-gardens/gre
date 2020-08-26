@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Athens]({{<relref ".">}}) \
 [Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 <!-- [Areopagus]({{<relref ".">}}) \ -->
 [Areopagus (Pleiades)](https://pleiades.stoa.org/places/969121823)
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -53,7 +53,7 @@ Urban Houses near Areopagus
 Several Roman houses in Athens make use of the remains of Classical and Hellenistic buildings, and, as far as we can tell, these houses generally had courtyards paved with marble chips, pebbles or tile set in mortar, rather than with gardens.  One house on the north-west slope of the Areopagus, however, was of early Roman date and might have had a garden, since the surface of its peristyle courtyard was unpaved (Fig. 1).  In the center of this courtyard was a rectangular water basin with apsidal ends, and in the southwest corner was a well.
 Another only partially excavated house of the mid-4th century A.D., built into the northern slope of the Areopagus, had a small courtyard (3.20 x 3.90 m.) paved with blue and white marble slabs surrounded by a masonry flower bed 50 cm. wide (Fig. 2; f on plan).  Around this ran a shallow marble-paved basin (c on plan) which was supplied with water by a fountain on the south eastern side of the courtyard.  Water flowed from the basin through a lead pipe in the middle of each side of the courtyard into the planter beds.
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -74,7 +74,7 @@ Another only partially excavated house of the mid-4th century A.D., built into t
 
  A. Frantz, *Late Antiquity: A.D. 267-700. The Athenian Agora XXIV.* [(worldcat)](http://www.worldcat.org/oclc/63179976) Princeton, 1988, pp. 36-37, pls. 24a, 25a; H. A. Thompson and R. E. Wycherley, *The Agora of Athens. The History, Shape and Uses of an ancient City Center. The Athenian Agora XIV.* [(worldcat)](http://www.worldcat.org/oclc/805087483) Princeton, 1972, p. 185, fig. 46.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -94,6 +94,6 @@ Another only partially excavated house of the mid-4th century A.D., built into t
 
 16 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -24,7 +24,7 @@ tags:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -34,7 +34,7 @@ tags:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -42,7 +42,7 @@ tags:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -75,7 +75,7 @@ puteal \
 
 On the right of the *tablinum* were ten steps that led to the *peristyle* garden (a). A portico enclosed the garden on the west, north and east sides. This was supported by ten columns and two engaged columns which were stuccoed brick painted red. The north, east, and west edges of the garden had a gutter. There were two cistern openings, according to Mau, one located in the northeast corner of the garden with a tufa *puteal* and the other in the corresponding corner of the portico. Water emptied at the northeast corner from the gutter into the cistern and into the street at the southeast and southwest corners. An aqueduct pipe came out of the first column, (counting from the south, on the west portico), and ran between the gutter and the portico. The pipe rose, supported from the second column on the west side, to spurt a jet of water in the gutter. Flanking the west and the north porticos, it disappeared going to the northwest. On the west side it was possible in two places to let water flow into the gutter by a widening of the pipe. The gutter had openings to the gardens at these two points to serve as watering outlets. There were keys before and after the widen pipe sections to control the flow of water. Two branches of this pipe entered a room (b) off the northwest corner of the *peristyle* where there was a basin.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -109,7 +109,7 @@ unspecified
 * Pernice, p. 14.
 * Warscher, “Codex.” photos nos. 4, 6-10a.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -129,6 +129,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 27 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

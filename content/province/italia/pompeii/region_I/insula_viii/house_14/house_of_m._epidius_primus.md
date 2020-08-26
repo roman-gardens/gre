@@ -49,7 +49,7 @@ viridarium
 
 This house was excavated in 1941. The *atrium* led directly to a little *viridarium* (a), with a cistern in the southwest corner. A gutter bordered the garden on the south, west and north sides.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -82,7 +82,7 @@ unspecified
 * Della Corte, *NSc* (1946), p. 108.
 * Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -102,6 +102,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 09 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

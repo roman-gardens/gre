@@ -22,7 +22,7 @@ The regions on the upper [Rhine](dead_link) formally became the province of Germ
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+<!--### Plans-->
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
@@ -38,7 +38,7 @@ The regions on the upper [Rhine](dead_link) formally became the province of Germ
 
 c. AD 85
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -59,6 +59,6 @@ c. AD 85
 
 12 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

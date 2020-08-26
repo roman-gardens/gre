@@ -16,7 +16,7 @@ categories:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -26,7 +26,7 @@ categories:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ categories:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -64,7 +64,7 @@ archaeological garden \
 
 This small house, excavated in 1872, had no atrium and the *peristyle* garden (a) was to the right of the north end of the entrance passageway. A portico enclosed the garden on the west, north, and part of the south sides. Part of the portico had been closed to make rooms. Paintings of *amorini* decorated the *peristyle* with two little busts that may have been portraits of the owners. A *lararium* painting and an arched niche were located in the west wall of the *peristyle*. A small marble column with bas-relief of foliage most likely served as garden decoration.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -103,7 +103,7 @@ unspecified
 * Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 49.
 * Warscher, “Codex.”
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -123,6 +123,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 30 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

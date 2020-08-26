@@ -18,7 +18,7 @@ tags:
 
 [Macedonia]({{<relref "..">}})  
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -28,18 +28,18 @@ tags:
 [Thessaloniki]({{<relref ".">}}) \
 [Thessaloniki (Pleiades)](https://pleiades.stoa.org/places/491741)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -64,7 +64,7 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+<!--### Plans-->
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
@@ -84,7 +84,7 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 
 :  IG X 2,1.608; J. Kubińska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure.* Warsaw, 1968, p. 146; P. Petsas, “AgrÒw, oﬁk€a, k∞pow, tÒpow,” in J. H. Dell, ed. *Macedonian Studies in Honor of Charles F. Edson.* Thessaloniki, 1981, pp. 295-98; *Bull. Épigr.* 1963, 134; 1984, 252.  
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -104,6 +104,6 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 
 16 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

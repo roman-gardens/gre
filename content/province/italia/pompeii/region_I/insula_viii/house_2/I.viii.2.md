@@ -52,7 +52,7 @@ archaeological garden \
 
 The *peristyle* garden (a) was reached from the *atrium* by ascending two steps to the *tablinium*. It was enclosed by a *portico* on four sides but all of the columns and the floor of the north, east and west *portico* was destroyed by bombing in WWII. A large cistern under the *peristyle* collected the water by way of the gutter at the edge of the garden. There was an adjacent dyeshop (19) at the rear which used this water supply.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -84,7 +84,7 @@ unspecified
 * Jashemski, *Gardens*, vol.II, p. 42. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Moeller, *Wool Trade*, pp.35-36. [(worldcat)](http://www.worldcat.org/oclc/771007203)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -104,6 +104,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 08 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

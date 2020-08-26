@@ -26,7 +26,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Olympia (Pleiades)](https://pleiades.stoa.org/places/570531)
 
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -39,7 +39,7 @@ Regio IX
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -57,7 +57,7 @@ House of Nero
 
 This building southwest of the temple of Zeus was the largest guest house in the sanctuary at Olympia.  The original Leonidaion, a gift of Leonidas from Naxos, was built shortly after 338 B.C. with a central courtyard.  In the 2nd century A.D. the building was remodeled, and this courtyard was transformed into a veritable water garden (Fig. 2).  The garden consisted of an outer quatrefoil island surrounded by a water channel (stippled on plan), and in the middle of this island was another circular one around which ran a second water channel (stippled on plan).  On the quatrefoil island were planting beds (b on plan) in the middle of the four sides and sculptures in each of the rounded corners.  This island could be reached by a bridge spanning the outer channel on the north and south sides. The central circular island was not accessible by such bridges.  During the earthquake in the late 3rd century, the building was badly damaged and not rebuilt in this form.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -73,7 +73,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../../images/EUR_ACH_Olympia_Leonidaion Fig 1.tif" alt="Fig. 2: Plan of the Leonidaion with its quatrefoil and circular gardens (white) and planting beds (b) surrounded by water channels (stippled) in the courtyard. Adapted from Mallwitz 1972, fig. 201." title="Fig. 2: Plan of the Leonidaion with its quatrefoil and circular gardens (white) and planting beds (b) surrounded by water channels (stippled) in the courtyard. Adapted from Mallwitz 1972, fig. 201." >}}
 
-### Images
+<!--### Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -94,7 +94,7 @@ In the 2nd century A.D. the building was remodeled
 * A. Mallwitz, *Olympia und seine Bauten.* Munich,1972, pp. 276-277, fig. 230. [(worldcat)](http://www.worldcat.org/oclc/51584745)
 * R. Tölle-Kastenbein, *Antike Wasserkultur*. Munich, 1990, p. 192. [(worldcat)](http://www.worldcat.org/oclc/231090332)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -114,6 +114,6 @@ In the 2nd century A.D. the building was remodeled
 
 27 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

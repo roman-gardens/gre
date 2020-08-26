@@ -48,7 +48,7 @@ archaeological garden \
 
 A very small garden was located in the light well at the rear of the atrium. The small raised garden (about 0.50 m. high) had a tiny semicircular pool fed by roof water. Fig. 3; Fig. 4. Three marble bases (0.16 x0.21 m.) were most likely place at the edge of the pool. A garden painting adorned the wall behind pool. <span style="color:green">This was the painting of a garden fence and a slender, footed fountain before it. Fig. 5. The water jets have attracted a peacock and two small birds that are perched on the rim (Jashemski, *Gardens*, vol. 1, fig. 97 on p. 60). The elaborate plant motif on the foot of the fountain suggested to Maiuri that the artist was depicting a bronze fountain rather than a marble one. A dense thicket painted behind the fence has small fruit, the blossom ends are clearly visible, with white myrtle blossoms mixed with the foliage. Jashemski differs with Maiuri’s description of this as an oleander thicket with blossoms and berries; as she points out that oleander has enlongated pods as opposed to round berries. The east wall was yellow with plants painted on it, but only the north panel survived, and nothing remains of the work on the west and north walls. </span> Fig. 6.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -97,7 +97,7 @@ unspecified
 * Spinazzola, *Scavi nuovi*, see large plan at back of book. [(worldcat)](http://www.worldcat.org/oclc/883858580)
 * <span style="color:green">Warscher, “Flora pomp.,” p. 24.</span>
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -117,6 +117,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 08 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

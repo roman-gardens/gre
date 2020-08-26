@@ -26,7 +26,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Olympia (Pleiades)](https://pleiades.stoa.org/places/570531)
 
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -39,7 +39,7 @@ Regio IX
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -58,7 +58,7 @@ Sanctuary of Zeus
 
 The extensive sanctuary at which Panhellenic athletic games took place, was situated on the Alpheus river in groves of trees of ancient date.  In early Greek mythology, the semi-divine Herakles was said to have planted trees in the sacred precinct, called the Altis, at Olympia (Pindar, Olympian Odes 3.13-18, 23-26, 31-34).  In the 2nd and 3rd centuries A.D., Roman visitors to the site could still see the groves of wild olives and plane trees (Pausanias 5.10.1, 5.13.1, 5.15.3; Philostratos, Imagines 2.6.1).  In the Roman period, imperial patronage and the resuscitation of the games prompted the erection of several new buildings along the banks of the Kladeos river, in particular guest houses, for the many visitors and tourists.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -69,12 +69,12 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+<!--### Plans-->
 
 
 
 
-### Images
+<!--### Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -93,7 +93,7 @@ In the 2nd and 3rd centuries A.D., Roman visitors to the site could still see th
 
 
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -113,6 +113,6 @@ In the 2nd and 3rd centuries A.D., Roman visitors to the site could still see th
 
 27 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

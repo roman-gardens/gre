@@ -25,7 +25,7 @@ The Augustan military zone along the lower [Rhine](link) was formally reorganize
 [Blabkenheim-Hülchrath (Pleiades)](https://pleiades.stoa.org/places/981524)  
 [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751)  
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
@@ -61,7 +61,7 @@ Reign of Domitian (ca. 85 CE) to the reign of Diocletian (284-305 CE)
 ### Bibliography
 None
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 

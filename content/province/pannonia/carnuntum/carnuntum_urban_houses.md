@@ -19,7 +19,7 @@ tags:
 
 [Pannonia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -33,14 +33,14 @@ tags:
 
 The town of Carnuntum on the Danube River, like Aquincum, was promoted to colonial status in 194 A.D., after having been a *municipium*. Excavations in the modern zoological garden have revealed part of the town plan and its residential district.
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -79,7 +79,7 @@ unspecified
 * E. Swoboda, *Carnuntum. Seine Geschichte und seine Denkmäler*, 2nd Ed., Vienna, 1964, pp. 155-157, figs. 10-11, pl. 40. [(worldcat)](http://www.worldcat.org/oclc/223422804)
 * W. Jobst, *Provinzhauptstadt Carnuntum*, Vienna, 1983, pp. 156-160, fig. p. 144. [(worldcat)](http://www.worldcat.org/oclc/251349102)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 

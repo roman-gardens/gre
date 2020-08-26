@@ -17,7 +17,7 @@ tags:
 
 [Dalmatia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -27,7 +27,7 @@ tags:
 [Salona]({{<relref ".">}}) \
 [Salona (Pleiades)](https://pleiades.stoa.org/places/197488)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -38,7 +38,7 @@ tags:
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -83,7 +83,7 @@ Second half of the second or the third century (CE)
 
 1. *CIL* 3.2397.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -104,6 +104,6 @@ Second half of the second or the third century (CE)
 
 14 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -23,7 +23,7 @@ tags:
 
 [Germania Superior]({{<relref "..">}})  
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -33,18 +33,18 @@ tags:
 [Bad Kreuznach]({{<relref ".">}}) \
 [Bad Kreuznach (Pleiades)](https://pleiades.stoa.org/places/981525)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -74,7 +74,7 @@ The three-storied villa with more than 50 rooms on the ground floor alone, many 
 
 At the northeast of the villa was a garden (G in Fig. 1) with a lararium. On the southwest there was a garden (G in Fig. 1) with a fountain. The northern facade had a cryptoporticus below and a porticoed corridor on the story above. The service area of the villa rustica lay in front of the villa to the north.
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -84,7 +84,7 @@ At the northeast of the villa was a garden (G in Fig. 1) with a lararium. On the
 
 {{< figure src="../images/EUR_GS_BadKre_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204." title="Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204.(Rights statement)" >}}
 
-### Images
+<!--### Images-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -100,7 +100,7 @@ Second half of 2nd century - around 275
 * G. Rupprecht, "Leben auf dem Land," *Archäologie in Deutschland* 4, 1986: 36-39. [(worldcat)](http://www.worldcat.org/oclc/7788112662)
 * Heinz Cüppers, *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp.321-323, fig. 204. [(worldcat)](http://www.worldcat.org/oclc/1040869002)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -121,6 +121,6 @@ Second half of 2nd century - around 275
 15 July 2020
 
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

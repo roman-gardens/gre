@@ -24,7 +24,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Chaeronea]({{<relref ".">}}) \
 [Chaeronea (Pleiades)](https://pleiades.stoa.org/places/540701)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -37,7 +37,7 @@ Regio IX
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -55,7 +55,7 @@ Tomb Garden and Cistern of Gallatis, Son of Pythion
 An inscription found near Chaeronea and known only from a transcription records the dedication by Gallatis, the son of Pythion, probably some time during the first or second century, of a funerary monument to himself, his wife, his children, and whomever his children wish, “with the cistern and garden” (sÊn t“ fr°[ati] ka‹ kÆpƒ). The freedom Gallatis grants to his children to dispose of the property as they wish is unusual, but cisterns (as at the tomb gardens of Lictoria Chaerusa at Capena [CROSS-REFXXX] and of P. Sullius Zoticus  [Cross-refXXX; cf. also CIL 6.29961 = XXX] at Rome) and wells (as at the tomb garden of Claudia Semne [Cross-ref XXX; cf. CIL 6.29959] at Rome), are sometimes mentioned explicitly, and ready sources of water, even when not specified, must often have been provided along with the gardens they supplied in such funerary dispositions.
 
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -77,7 +77,7 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+<!--### Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -96,7 +96,7 @@ probably some time during the first or second century
 
 * IG VII, 3453; J. Kubińska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure.* Warsaw, 1968, pp. 146-47. [(worldcat)](#)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -116,6 +116,6 @@ probably some time during the first or second century
 
 26 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

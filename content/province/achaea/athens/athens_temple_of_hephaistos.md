@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Athens]({{<relref ".">}}) \
 [Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 <!-- [Athenian Agora]({{<relref ".">}}) \ -->
 [Athenian Agora (Pleiades)](https://pleiades.stoa.org/places/807514119)
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -51,7 +51,7 @@ Temple of Hephaistos
 
 On the western edge of the Athenian Agora on Kolonos hill was the temple of Hephaistos, built in the second half of the 5th century B.C.  Excavations in 1937 around the temple revealed numerous square planting pits cut into the living rock in the 3rd century B.C. and again in the 1st century B.C. (Fig. 1).  Rock-cut planting pits were preserved in four rows on the south, with isolated examples of such pits on the north and west sides (G on plan).  The excavator cogently argued for rows of plantings to the north, south and west of the temple.  The lack of planting pits on the north and west sides can be explained by the fact that the rocky hill upon which the temple was built fell away sharply on the north and west, requiring levelling layers above the natural rock.  Into these deposits trees or shrubs were planted, leaving no trace of planting pits in the rock below.  On the steeper southern side, however, the rock slope had to be shaved off, necessitating the cutting of planting pits into the rock.  Possibly more than 60 such pits were arranged in rows parallel to the temple in the 3rd century; two rows on the north and south sides, and one row on the west side.  After the Roman destruction of many Athenian buildings by Sulla in 86 B.C., at least the south side was replanted and two more rows of pits dug, resulting in four rows of trees or shrubs on this side.  In many of the pits was a terracotta planting pot in ashy soil at a depth of ca. 50 cm.  These planting pots, possibly containing laurel and pomegranate shrubs, had drainage and root holes in the bottom.  The lack of maintenance of the irrigation pipes leading to the garden caused the plantings to wither and die by the second half of the 1st century A.D.  The garden has been replanted with myrtle bushes and pomegranate trees.
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -61,7 +61,7 @@ On the western edge of the Athenian Agora on Kolonos hill was the temple of Heph
 
 {{< figure src="../images/EUR_ACH_Athens_Hephaistos_Fig 1.jpg" alt="Fig. 1: Plan of the Temple of Hephaistos and its temple grove (G) with surviving rows of planting pits (open squares). Adapted from Thompson 1937, fig. 1." title="Fig. 1: Plan of the Temple of Hephaistos and its temple grove (G) with surviving rows of planting pits (open squares). Adapted from Thompson 1937, fig. 1." >}}
 
-### Images
+<!--### Images-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -75,7 +75,7 @@ On the western edge of the Athenian Agora on Kolonos hill was the temple of Heph
 
 D.B. Thompson, “The Garden of Hephaistos”, Hesperia 6, 1937:396-425; M. Carroll-Spillecke, “The gardens of Greece from Homeric to Roman times,” *Journal of Garden History* [(worldcat)](http://www.worldcat.org/oclc/4898050192) 12.2, 1992:90, figs. 10-11.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -100,6 +100,6 @@ D.B. Thompson, “The Garden of Hephaistos”, Hesperia 6, 1937:396-425; M. Carr
 
 16 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

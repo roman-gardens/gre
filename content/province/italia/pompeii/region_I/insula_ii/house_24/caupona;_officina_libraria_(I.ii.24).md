@@ -24,7 +24,7 @@ tags:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -34,7 +34,7 @@ tags:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -42,7 +42,7 @@ tags:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -75,7 +75,7 @@ archaeological garden \
 
 The garden (a) east of the *atrium* had a *portico* extending along the south and part of the west sides. A low wall (0.52 m. high) connected the columns and an entrance to the garden was located on the west. In 1873 the *caupona* was excavated. The garden contained a masonry *triclinium* (*l.medius*, 3.85 m.; *l.summus* and *l.imus*, 3.20 m.) with a table. The badly damaged *triclinium* revealed the *amphoras* used in its construction. A low podium along the north wall was thought by Fiorelli to have held flower pots. Mau reported a drainage channel at the corner of the *triclinium* formed by the *l.meduis* and the *l.summus*, although it is no longer evident. The base of an *aedicula lararium* remains against the east wall opposite the north end of the east couch.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -118,7 +118,7 @@ unspecified
 * Viola, “*Scavi*” p. 13. [(worldcat)](http://www.worldcat.org/oclc/715087975)
 * Warscher, “Codex.” photo no. 32.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -138,6 +138,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 27 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

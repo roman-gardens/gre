@@ -26,7 +26,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Isthmia (Pleiades)](https://pleiades.stoa.org/places/570316)
 
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -39,7 +39,7 @@ Regio IX
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -58,7 +58,7 @@ Sanctuary of Poseidon
 
 We know of a grove of trees in the precinct of the temple of Poseidon, thanks to Pausanias’ and Strabo’s descriptions of it in the early 1st and the later 2nd century A.D. (Strabo 8.6.22; Pausanias 2.1.7).  According to Pausanias, on one side of the precinct stood statues of athletes who had been victorious in the Isthmian games, and opposite them was a row of pine trees.  The fact that these trees stood in a row suggests that they were intentionally planted.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -80,7 +80,7 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+<!--### Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -101,7 +101,7 @@ NEW WAY ↓↓↓↓
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -121,6 +121,6 @@ NEW WAY ↓↓↓↓
 
 26 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

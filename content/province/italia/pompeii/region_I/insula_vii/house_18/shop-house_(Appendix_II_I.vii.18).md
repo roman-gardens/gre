@@ -47,7 +47,7 @@ archaeological garden \
 
 <span style="color:orange">Two paintings were found on the west wall of the *atrium* behind this shop, one was of a *porticus* villa on the sea and the second was a garden representation (o.16 x 0.43 m.). The garden was surrounded by a lattice fence which was drawn wider in the front than the rear and had a rectangular pool in front with ducks swimming.</span>
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -79,7 +79,7 @@ unspecified
 * Maiuri, *NSc* (1929), p. 380 and fig. 14 on p. 381 (where the address is given as I.vii. y).
 * Schefold, *WändP*, p. 35.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -99,6 +99,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 08 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

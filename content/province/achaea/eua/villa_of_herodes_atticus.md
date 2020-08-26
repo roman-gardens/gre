@@ -24,18 +24,18 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Eua]({{<relref ".">}}) \
 [Eua (Pleiades)](https://pleiades.stoa.org/places/570241)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -59,19 +59,19 @@ At the center of the plan was a large garden defined on three sides (north, sout
 After the death of Herodes the villa probably became imperial property. A phase dating to the Tetrarchy is attested, and during the time of Constantine a mosaic, depicting the Circus Maximus, was added. The villa was destroyed by an earthquake in A.D. 400 A.D. and by the invasions of the Goths.
 
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Plans
+<!--### Plans-->
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+<!--### Images-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -85,7 +85,7 @@ From the 2nd century CE until 400 CE
 
 G. Ieranò, “I tesori di un intellettuale,” *Archeo* 6, 2001:48-53; G. Spyropoulos, *Drei Meisterwerke der griechischen Plastik aus der Villa des Herodes Atticus zu Eva/Loukou.* [(worldcat)](http://www.worldcat.org/oclc/1039041411)Frankfurt-am-Main, 2001.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -106,6 +106,6 @@ G. Ieranò, “I tesori di un intellettuale,” *Archeo* 6, 2001:48-53; G. Spyro
 
 20 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

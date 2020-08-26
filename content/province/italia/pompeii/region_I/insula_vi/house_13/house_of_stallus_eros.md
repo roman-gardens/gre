@@ -85,7 +85,7 @@ unspecified
 * <span style="color:green"> *PPP*, 1:39.</span>
 * <span style="color:green"> Schefold, *WändP*, p. 26. </span>
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -105,6 +105,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 07 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

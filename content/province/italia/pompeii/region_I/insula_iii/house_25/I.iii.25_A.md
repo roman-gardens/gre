@@ -22,7 +22,7 @@ tags:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -32,7 +32,7 @@ tags:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -40,7 +40,7 @@ tags:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -70,7 +70,7 @@ archaeological garden \
 
 This house had an irregular plan and a small *peristyle* garden (a) enclosed on three sides by a low masonry wall. The wall was topped by four stuccoed brick columns which supported the portico. The excavation in 1869-72 showed that restoration was in progress at the time of the eruption. Inside the *triclinium* a small marble head of Bacchus from a herm (Mus. Naz. inv. no. 110 653) was found as well as a small marble ram (Mus. Naz. inv. no. 120 357), both probably garden decorations.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -108,7 +108,7 @@ unspecified
 * Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 78.
 * Trendelenberg, *BdI*(1871), p. 172.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -128,6 +128,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 29 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

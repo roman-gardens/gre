@@ -27,18 +27,18 @@ tags:
 
 [Bancroft]({{<relref ".">}})  
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -86,7 +86,7 @@ Roman villa... built in the late 3rd century and rebuilt and enlarged in the mid
 * R. J. Williams and R. J. Zeepvat, Bancroft. *The late Bronze Age and Iron Age Settlement and Roman Villa and Temple-Mausoleum*. Buckinghamshire Archaeological Society Monograph Series 7, Aylesbury, 1994, pp. 154, 163, 188-191, figs. 66, 80, 83, 85, 93, 101-103, pls. 57-59. [(worldcat)](http://www.worldcat.org/oclc/669708984)
 * R.J. Zeepvat, “Roman Gardens in Britain,” in: A. E. Brown, ed., *Garden Archaeology*. Council for British Archaeology Research Report 78, London, 1991, pp. 56-58, fig. 5.4. [(worldcat)](http://www.worldcat.org/oclc/911653165)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -105,6 +105,6 @@ Roman villa... built in the late 3rd century and rebuilt and enlarged in the mid
 
 07 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

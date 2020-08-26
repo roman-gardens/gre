@@ -25,18 +25,18 @@ tags:
 [Neerhaaren-Rekem]({{<relref ".">}}) \
 [Neerhaaren-Rekem (Pleiades)](https://pleiades.stoa.org/places/109193)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -77,7 +77,7 @@ Late first century CE
 - G. De Boe, M. De Bie, and L. Van Impe, "Heerharen-Rekem. Die komplexe Besiedlungsgeschichte einer vor den Kiesbaggern geretteten Fundstätte," in *Spurensicherung. Archäologische Denkmalpflege in der Euregio Maas-Rhein*, Mainz, 1992, pp. 490-493, fig. 288. [worldcat](http://www.worldcat.org/oclc/475480390)
 - P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 297-300, fig. 105. [worldcat](http://www.worldcat.org/oclc/445007864)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -96,6 +96,6 @@ Late first century CE
 ### Publication date
 22 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -16,7 +16,7 @@ categories:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -26,7 +26,7 @@ categories:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ categories:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -64,7 +64,7 @@ fullery \
 
 This house had been converted to a *fullery* and the small *peristyle* garden to the rear probably served as a drying area. Five pillars of the portico were connected by a low, marble topped wall. This enclosed the raised garden on the east, north and west sides with a deep gutter running around the garden along the wall. Fig. 3, Fig. 4.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -101,7 +101,7 @@ unspecified
 * Moeller, *Wool Trade*, p.42. [(worldcat)](http://www.worldcat.org/oclc/771007203)
 * Spinazzola, *Scavi nuovi*, p.773 and fig. 744 (plan) on p. 765. [(worldcat)](http://www.worldcat.org/oclc/883858580)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -121,6 +121,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 06 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

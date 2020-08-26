@@ -20,7 +20,7 @@ tags:
 
 [Germania Superior]({{<relref "..">}})  
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -30,18 +30,18 @@ tags:
 [Hummetroth]({{<relref ".">}}) \
 [Hummetroth (Pleiades)](https://pleiades.stoa.org/places/981525)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -67,7 +67,7 @@ The enclosed farmyard, including the residential area (pars urbana) and the serv
 
 The courtyard was divided into two zones by a terrace(?) wall, and in both zones a garden has been reconstructed (G in Fig. 1). Entering the house from the south, one passed through a large reception room to an apsed triclinium with hypocaust heating. A bath complex lay to the southwest, entered by the portico next to the garden.
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -77,7 +77,7 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 
 {{< figure src="../images/EUR_GS_Hum_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south. Plan adapted from Baatz and Herrmann 1989, fig. 303a." title="Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south. Plan adapted from Baatz and Herrmann 1989, fig. 303a." >}}
 
-### Images
+<!--### Images-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -92,7 +92,7 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 * D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart,1989, pp. 360-361, fig. 303a-b. [(worldcat)](http://www.worldcat.org/oclc/476625416)
 * M. Carroll, *Romans,Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 74, fig. 29. [(worldcat)](http://www.worldcat.org/oclc/1120840822)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -112,6 +112,6 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 
 16 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

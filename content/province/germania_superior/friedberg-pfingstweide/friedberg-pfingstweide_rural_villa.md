@@ -18,7 +18,7 @@ tags:
 
 [Germania Superior]({{<relref "..">}})  
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -28,18 +28,18 @@ tags:
 [Friedberg Pfingstweide]({{<relref ".">}}) \
 [Friedberg Pfingstweide (Pleiades)](https://pleiades.stoa.org/places/981525)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -60,7 +60,7 @@ This *villa rustica* was situated on the northern slope of a valley through whic
 
 Built in the early 2nd century, the house was of the winged corridor type with a large open courtyard enclosed by the protruding wings of the house. The courtyard was divided into two zones that were possibly gardens (G in Fig. 1) and have been reconstructed as such. The farm was destroyed by fire in the first half of the 3rd century.
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -70,7 +70,7 @@ Built in the early 2nd century, the house was of the winged corridor type with a
 
 {{< figure src="../images/EUR_GS_FriPfi_Rv_carroll.jpg" alt="Fig. 1: Plan of the villa (H) with a bath building (B) and with two possible garden enclosures (G) joined to the house at the north. Adapted from Baatz and Herrmann 1989, fig. 246." title="Fig. 1: Plan of the villa (H) with a bath building (B) and with two possible garden enclosures (G) joined to the house at the north. Adapted from Baatz and Herrmann 1989, fig. 246." >}}
 
-### Images
+<!--### Images-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -84,7 +84,7 @@ Early 2nd century - first half of 3rd century
 
 * D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart, 1989, pp. 307-309, fig. 246. [(worldcat)](http://www.worldcat.org/oclc/476625416)
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -105,6 +105,6 @@ Early 2nd century - first half of 3rd century
 16 July 2020
 
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

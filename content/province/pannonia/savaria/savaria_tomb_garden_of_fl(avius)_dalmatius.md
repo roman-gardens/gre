@@ -18,7 +18,7 @@ tags:
 
 [Pannonia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -31,14 +31,14 @@ tags:
 ### Location Description
 
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -60,7 +60,7 @@ A limestone slab found near the monastery of St. Martin in Szombathely (Savaria)
 ### Maps
 
 
-### Plans
+<!--### Plans-->
 
 
 ### Images
@@ -78,7 +78,7 @@ A limestone slab found near the monastery of St. Martin in Szombathely (Savaria)
 * A. Mócsy and T. Szentléleky, *Die römischen Steindenkmäler von Savaria*. Amsterdam, 1971, p. 117, no. 161, photo 143. [(worldcat)](http://www.worldcat.org/oclc/963618321)
 * T. Adamik,*Archaeologiai Ertesítö* 110, 1983:3-9 = AE 1984:722.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 

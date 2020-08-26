@@ -30,14 +30,14 @@ tags:
 ### Location Description
 This large town on the west bank of the Rhine river was the *civitas* capital of the [Ubii](link) in the first half of the 1st century A.D. It was granted the status of colonia by [Claudius](link) in 50 and became the provincial capital in 85.
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -82,7 +82,7 @@ Middle of the first century CE until the fourth century CE
 - G. Precht, "Die Ausgrabungen um den Kölner Dom. Vorbericht über die Untersuchungen," *Kölner Jahrbuch* 12, 1971:55-56, fig. 2, pl. 7.2. [(worldcat)](http://www.worldcat.org/oclc/638867317)  
 - H. Hellenkemper, "Architektur als Beitrag zur Geschichte der CCAA," in H. Temporini, ed., *Aufstieg und Niedergang der Römischen Welt* II.4, Berlin, 1974, p. 810, figs. 20-21. [(worldcat)](link)    
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 

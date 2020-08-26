@@ -35,14 +35,14 @@ tags:
 
 In the Hambacher Forst region, which lies approximately 30-35 km. west of the former capital city [Colonia Claudia Ara Agrippinensium (mod. Cologne)](https://pleiades.stoa.org/places/108751), a number of modest *villae rusticae* have been excavated.
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -93,7 +93,7 @@ Late first century CE until the fourth century CE.
 - K.-H. Knörzer and J. Meurers-Balke, "Die Wirtschafts- und Nutzflächen eines römischen Gutshofes," in H. Hellenkemper, H. Koschick and B.Trier, eds., *Archäologie in Nordrhein-Westfalen*,  pp. 242-46. [worldcat](http://www.worldcat.org/oclc/22528273)
 - W. Gaitzsch, "Antikes Landleben im Modell einer villa rustica," *Archäologie im Rheinland 1990*, Cologne, 1991, pp. 46-49.  
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 

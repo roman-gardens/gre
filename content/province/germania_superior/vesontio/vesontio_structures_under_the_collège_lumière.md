@@ -26,7 +26,7 @@ tags:
 
 [Germania Superior]({{<relref "..">}})  
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -42,14 +42,14 @@ The defensibility offered by this unique geography made Caesar hasten to occupy 
 
 Archaeology in a downtown area is always a matter of seizing opportunities as they are presented by new construction, remembering and recording what was found, and coming back years later to complete the picture. A good example of this process is at our second site, [2] on the map. In 1973, the Neptune Mosaic was discovered in rue de Lorraine, one of the largest floor decorations in all Gaul. The extent of the mosaic under nearby buildings made full excavation impossible. More than thirty years later, in 2004, construction of a gymnasium for the Collège Lumière (a middle school) gave archaeologists access to much more of the site, about 3000 square meters, for a salvage excavation. As expected, the continuation of the Neptune mosaic was found; moreover, three other mosaics of high quality, along with columns, sculpted blocks, peristyles, and monumental pools came to light. The results of this excavation have not been published; we are grateful to the excavators for sharing their preliminary results.
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -83,7 +83,7 @@ The largest of the rooms, decorated by the Neptune mosaic, opened on its north s
 
 A fragment of a little ornamental stone *krater* was found in the material that filled the east peristyle after its abandonment. From late antiquity is the foundation of a pool or cistern of about 3.5 by 2.5 meters. Its stones have been removed, and only the *opus signinum* mortar bearing the imprint of the stones has been found. This structure pierced through all the archaeological levels and into the natural earth.
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -95,7 +95,7 @@ A fragment of a little ornamental stone *krater* was found in the material that 
 
 - Fig. 1: Plan of the domus, now under the Collège Lumière.
 
-### Images
+<!--### Images-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -113,7 +113,7 @@ Gardens: Beginning and last third of second century
 
 * C. Gaston and C. Munier “Une luxueuse domus de la find du IIe siècle à Besançon, college Lumière (Doubs, F)"" in *Premières Journées archéologiques frontalières de l'Arc jurassien: Mandeure, sa campagne et ses relations d'Avenches à Luxeuil et d'Augst à Besançon*. Ed, Cécile Bélet-Gonda, Presses Univ. Franche-Comté (2007), 103-112.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -137,6 +137,6 @@ Christophe Gaston (ORCID: [https://orcid.org/0000-0001-6865-5108](https://orcid.
 
 20 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 [Megalopolis]({{<relref ".">}}) \
 [Megalopolis (Pleiades)](https://pleiades.stoa.org/places/540898)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -33,7 +33,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 [The Agora of Megalopolis](#)
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -54,7 +54,7 @@ Sanctuary of Zeus Philios
 
 Pausanias mentioned a small grove of trees in the sanctuary of Zeus Philios that was in close proximity to the agora in Megalopolis (8.31.4-5).  The grove was enclosed within a boundary wall.  In the precinct were images of the goddesses Demeter and Kore.  This grove almost certainly had been in existence since pre-Roman times, but it still flourished in the 2nd century A.D. when Pausanias visited the site.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -76,7 +76,7 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+<!--### Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -97,7 +97,7 @@ it still flourished in the 2nd century A.D. when Pausanias visited the site.
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -117,6 +117,6 @@ it still flourished in the 2nd century A.D. when Pausanias visited the site.
 
 26 July 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

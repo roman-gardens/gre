@@ -16,7 +16,7 @@ categories:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -26,7 +26,7 @@ categories:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ categories:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -69,7 +69,7 @@ apotheca \
 
 This small garden (a) was located at the rear of the house and featured a *portio* on part of the south side and a gutter along the south and east sides which carried water to the cistern. Preserved on the rear wall was one of the best animal paintings found in Pompeii, with three large openings provided in the painting to accommodate garden lights. Fig. 3, Fig. 4, Fig. 5, Fig. 6, Fig. 7, Fig. 8. <span style="color:green">On either side of the animal painting at the lower part of the wall is a garden painting with a sphinx crouching in oleanders with dark red blossoms holding a fountain basin. The fountain on the right would appear to pour water into the actual gutter below. (Jashemski, *Gardens*, vol. 1, fig. 113 on p. 70). A realistic border of myrtle (*Myrtus communis L.*) and ivy (*Hedera helix L.*) is painted along the bottom of the wall with birds flying across a red background (Jashemski, *Gardens*, vol. 1, figs. 43, 111, 112 on pp. 29, 69). Just above this, branches of ivy are painted along the bottom of an expansive wild animal scene. A bull is being pursued by a lion across a rocky lake shore on the lower foreground, wolves and wild boars occupy the center of the picture on the opposite shore, on the right a leopard is chasing two rams, and two gazelles are painted on the left (Jashemski, *Gardens*, vol. 1, figs. 111, 112 on p. 69).</span> <span style="color:purple">Brackets for garden lights had been installed where three large holes remained in this animal painting. </span> The outside walls of the *apotheca* (storeroom) on the southwest corner of the garden had painted garden motifs. <span style="color:green">There was a garden scene painted on a reddish background depicting a statue of a water nymph with a two handled basin appearing to catch water from the roof and directing it to the gutter below. To the left are bushes with a tawny owl (*Strix aluco L.*) and to the right is a white pigeon or rock dove (*Columba livia Gmelin*) (Jashemski, *Gardens*, vol. 1, figs. 111, 114 on pp. 69, 70.). Over this was a panel with two peacocks (*Pavo cristatus L.*) facing a bronze garden ornament that consists of a leafy stalk topped by a round shield. (Jashemski, *Gardens*, vol. 1, fig. 111 on p. 69). Flowering plants fill in the bottom while the top of the panel is graced with two garlands and two flying birds, a swallow (*Hirundo rustica L.*) on the left and a large headed bird on the right which could be a shrike (*Lanius sp.*) Although the outside wall of the *apotheca* was badly damaged, to the right of the window paintings of a bush with red blossoms and a myrtle bush on a yellow background survived.</span> The east and west walls were decorated with large Egyptian landscapes. Another garden decoration, a marble dove (0.29 m. long) was found in the kitchen.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -122,7 +122,7 @@ unspecified
 * Spinazzola, *Scavi nuovi*, pp. 275-277, <span style="color:green">280</span> and fig. 282 (plan) on p. 258, <span style="color:green">figs. 304, 306, and 307 on pp. 275-277. [(worldcat)](http://www.worldcat.org/oclc/883858580)</span>
 * <span style="color:green">Zanker, pp. 504-506.</span>
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -142,6 +142,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 07 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

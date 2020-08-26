@@ -50,7 +50,7 @@ archaeological garden \
 
 C. Behind the *tablinium*, and seen from the entrance (no. 19), a small light well served as a garden. Fig. 3. It was painted to represent a garden and the floor had been paved. <span style="color:green">The only surviving images were the usual fence with faint traces of oleander bushes and birds. Further traces indicated that a statuette of Venus standing on a marble base in an apsed niche in the lattice fence may have been represented on the east wall. The lattice fence on the north wall was painted to represent a rectangular niche.</span> Water was piped from the garden above through the lower part of the rear wall and possible supplied a jet in the middle of the *impluvium*, as surmised by Maiuri.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -89,7 +89,7 @@ unspecified
 * <span style="color:green">Warscher, “”Flora pomp.,” p. 21.</span>
 * Zanker, p. 50.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -109,6 +109,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 08 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -21,18 +21,18 @@ tags:
 [Blankenheim-Hülchrath]({{<relref ".">}}) \
 [Blankenheim-Hülchrath (Pleiades)](https://pleiades.stoa.org/places/981524)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -73,7 +73,7 @@ Unspecified
 - H. G. Horn, ed., *Die Römer in Nordrhein-Westfalen*, Stuttgart, 1987, pp. 361-63, figs. 306-308. [(worldcat)](http://www.worldcat.org/oclc/456209115)  
 - P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule.* Suppl. Gallia 51, Paris, 1992, pp. 192-193, fig. 5. [(worldcat)](http://www.worldcat.org/oclc/407704732)  
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -90,6 +90,6 @@ Unspecified
 ### Publication date
 11 July 2020  
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

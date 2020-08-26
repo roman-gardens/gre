@@ -16,7 +16,7 @@ categories:
 
 [Italia]({{<relref "..">}})
 
-### Province Description
+<!--### Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -26,7 +26,7 @@ categories:
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ categories:
 
 [Region I]({{<relref ".">}})
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -67,7 +67,7 @@ puteal \
 
 C. The north *peristyle* garden (f) belonged originally to a house whose entrance was on the Via dell’Abbondanza. It was accessed by a flight of steps from the central *peristyle* which lies about two meters below. A portico surrounded this garden on the south, east, and most of the north sides. Between the two middle columns on the east side there was a travertine *puteal*. A large *exedra* (g) proceeded by a vestibule offered a view of the garden from the west, as did the *triclinium* (h) from the east. The columns were made of brick and Sarno sandstone and faced with stucco, just like the ones in the central *peristyle*. They were unfluted except the ones opposite the entrances to the large *excedra*, the *triclinium*, and the atrium to the north. A gutter surrounded the garden.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -105,7 +105,7 @@ unspecified
 * Niccolini, *Case*, vol. 2, “Descr. gen,” p. 79.
 * Overbeck-Mau, pp. 364-366.
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -125,6 +125,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 02 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

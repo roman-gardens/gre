@@ -52,7 +52,7 @@ The *peristyle* of this house was built before the earthquake of 62 BC. When the
 
 At the time of the eruption, trees and shrubs grew in the garden, as excavators found root cavities. However, pollen evidence of bracken and weeds suggests that the garden was either overgrown or abandoned, at least from its original purposes.
 
-### Maps
+<!--### Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -89,7 +89,7 @@ Early 1990s
 * *CIL* IV.10345 (for amphoras found in the garden February, 1953).
 * DeVos, “Scavi nuovi sconoscuti (1.9.13),” *Meded* 38 (1976), pl. 35 (plan).
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
@@ -109,6 +109,6 @@ Early 1990s
 
 10 August 2020
 
-### Related articles
+<!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->
