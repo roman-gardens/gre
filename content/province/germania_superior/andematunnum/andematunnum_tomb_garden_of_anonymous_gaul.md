@@ -16,40 +16,40 @@ tags:
   - "tombs"
 ---
 
-# Province
+## Province
 
 [Germania Superior]({{<relref "..">}})  
 
-## Province Description
+### Province Description
 
 <!-- DESCRIPTION -->
 
 
-# Location
+## Location
 
 [Andematunnum]({{<relref ".">}}) \
 [Andematunnum (Pleiades)](https://pleiades.stoa.org/places/177441)
 
-## Location Description
+### Location Description
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-## Sublocation Description
+### Sublocation Description
 
 <!-- DESCRIPTION -->
 
-# Garden
+## Garden
 
 Tomb Garden of Anonymous Gaul in Andematunnum
 
-## Keywords
+### Keywords
 
 [former reservoirs](http://vocab.getty.edu/page/aat/300386966) \
 inscription \
@@ -58,59 +58,59 @@ literary garden \
 [orchards](http://vocab.getty.edu/page/aat/300008890) \
 [tombs](http://vocab.getty.edu/page/aat/300005926)
 
-## Garden Description
+### Garden Description
 
 A famous inscription from the territory of the Lingonian Gauls (Langres) known only from a manuscript of the tenth century records the will of a local hunting enthusiast who built for himself a lavish mausoleum (*cella memoriae*) and equipped it with orchards (*pomaria*) and a reservoir (*lacus*) put in the care of two freedmen who are instructed to devote the revenues from them to upkeep of the tomb complex, and three landscape gardeners (*topiarii*) and their apprentices, each to be supported annually by the testator’s grandson, Sex. Iulius Aquila, and his heirs. The will goes on to provide for annual banquets at the tomb site, to be funded by Aquila and his heirs (not explicitly from proceeds of the orchards), and to ensure that any deviations from the testator’s prescriptions be undertaken only in order that the complex be better adorned, better planted, and better perfected (*nisi..ut melius colantur et conserantur perficianturque*).
 
-## Maps
+### Maps
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Images
+### Images
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Dates
+### Dates
 
 unspecified
 
-## Bibliography
+### Bibliography
 
 * *CIL* 13.5708. [EDCS-19800561](http://db.edcs.eu/epigr/epi_ergebnis.php)
 * *ILS* 8379.
 * *FIRA* III 49.
 * J.-J. Hatt, *La tombe gallo-romaine* (Paris 1951) 65-84. [(worldcat)](http://www.worldcat.org/oclc/561069313)
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [177441](https://pleiades.stoa.org/places/177441)
 
-### TGN ID
+#### TGN ID
 
 [6002235](http://vocab.getty.edu/page/tgn/6002235)
 
-## Contributor
+### Contributor
 
 [John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
-## Publication date
+### Publication date
 
 13 July 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

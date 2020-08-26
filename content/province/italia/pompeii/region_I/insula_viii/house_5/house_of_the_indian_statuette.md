@@ -12,32 +12,32 @@ categories:
 
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-# Insula
+## Insula
 
 Insula viii
 
-# House
+## House
 
 House 5
 
-# Garden
+## Garden
 
 House of the Indian Statuette (I.viii.5)
 
-## Keywords
+### Keywords
 
 archaeological garden \
 [chests (case furniture)](http://vocab.getty.edu/page/aat/300038992) \
@@ -48,11 +48,11 @@ archaeological garden \
 [statues](http://vocab.getty.edu/page/aat/300047600) \
 [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 
-## Garden Description
+### Garden Description
 
 A *portico* enclosed this garden (a) on the north, east and south sides, and the *portico* on the west had been closed to create rooms. These enclosed columns can be observed incorporated into the wall but only one of the other columns remains standing. The garden was surrounded by a gutter. A small Indian statuette (0.25 m. high) was found in the adjacent shop and it is believed to have been stored in a wooden chest in one of the rooms off the *portico* with other domestic items. It had tumbled into the shop when the southwest corner of the *peristyle* collapsed.
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -63,48 +63,48 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Region_I_insula_8.tif" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." title="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement)." >}}
 
-## Images
+### Images
 
-## Dates
+### Dates
 
 unspecified
 
-### Excavation Date
+#### Excavation Date
 
 
-## Bibliography
+### Bibliography
 
 * Della Corte, *Case*, p. 334.
 * Jashemski, *Gardens*, vol.II, p. 42. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Maiuri, “Statuetta eburnea d’art indiana a Pompei,” *LeArti* (1938), pp. 111-115.
 * Idem, “Navalia pompeiana,” *RendNap*, n.s., 33 (1959): 22.
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 08 August 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

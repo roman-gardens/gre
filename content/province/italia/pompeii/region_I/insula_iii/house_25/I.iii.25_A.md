@@ -18,45 +18,45 @@ tags:
   - "triclinia"
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-## Province Description
+### Province Description
 
 <!-- DESCRIPTION -->
 
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-## Location Description
+### Location Description
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-## Sublocation Description
+### Sublocation Description
 
 <!-- DESCRIPTION -->
 
-# Insula
+## Insula
 
 Insula iii
 
-# House
+## House
 
 House 25
 
-# Garden
+## Garden
 
 I.iii.25 A
 
-## Keywords
+### Keywords
 
 archaeological garden \
 
@@ -66,11 +66,11 @@ archaeological garden \
 [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262) \
 [triclinia](http://vocab.getty.edu/page/aat/300004359)  
 
-## Garden Description
+### Garden Description
 
 This house had an irregular plan and a small *peristyle* garden (a) enclosed on three sides by a low masonry wall. The wall was topped by four stuccoed brick columns which supported the portico. The excavation in 1869-72 showed that restoration was in progress at the time of the eruption. Inside the *triclinium* a small marble head of Bacchus from a herm (Mus. Naz. inv. no. 110 653) was found as well as a small marble ram (Mus. Naz. inv. no. 120 357), both probably garden decorations.
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -81,24 +81,24 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Region_I_insula_iii.tif" alt="Fig. 2: Plan of Region I, insula iii, plan in Jashemski, *Gardens*, plan 6, p. 26; Fiorelli, *Scavi*, pl. 12." title="Fig. 2: Plan of Region I, insula iii, plan in Jashemski, *Gardens*, plan 6, p. 26; Fiorelli, *Scavi*, pl. 12 (Rights Statement)." >}}
 
-## Images
+### Images
 
 
-## Dates
+### Dates
 
 unspecified
 
-### Excavation Dates
+#### Excavation Dates
 
 1869-1872
 
-## Bibliography
+### Bibliography
 
 * Dohl, p. 1.
 * Fiorelli, *Scavi*, p. 74. [(worldcat)](http://www.worldcat.org/oclc/249024903)
@@ -108,26 +108,26 @@ unspecified
 * Niccolini, *Case*, vol. 2, “Descr. gen.,” p. 78.
 * Trendelenberg, *BdI*(1871), p. 172.
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 29 July 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

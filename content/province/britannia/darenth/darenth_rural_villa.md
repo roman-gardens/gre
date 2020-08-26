@@ -15,38 +15,38 @@ tags:
   - "waterspouts"
 ---
 
-# Province
+## Province
 
 [Britannia]({{<relref "..">}})  
 
-# Province Description
+## Province Description
 
 
-# Location
+## Location
 
 [Darenth]({{<relref ".">}}) \
 [Darenth (Pleiades)](https://pleiades.stoa.org/places/79413)
 
-## Location Description
+### Location Description
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-## Sublocation Description
+### Sublocation Description
 
 <!-- DESCRIPTION -->
 
-# Garden
+## Garden
 
 Rural Villa in Darenth
 
-## Keywords
+### Keywords
 
 archaeological garden \
 [kitchen gardens](http://vocab.getty.edu/page/aat/300008110) \
@@ -55,7 +55,7 @@ rural villas \
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518) \
 [waterspouts](http://vocab.getty.edu/page/aat/300248603)
 
-## Garden Description
+### Garden Description
 
 Excavations at this site of a Roman villa in Kent uncovered a large rectangular masonry pool in the courtyard, which was enclosed by buildings on the north, west, and east (Fig. 1). The villa buildings took up an area of 150 x 225 meters in total, including the courtyard with a width of 26.5 meters. Occupation at the site began after A.D. 100 and continued until the closing decades of the 4th century.
 
@@ -65,43 +65,43 @@ South of the western range of rooms was a large, open space measuring 14.6 x 58.
 
 <!-- The Gs referenced in the article are not clear as there are three Gs in the figure-->
 
-## Maps
+### Maps
 
-## Plans
+### Plans
 
 {{< figure src="../images/Darenth_fig_4.tif" alt="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20" title="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20. (Rights statement)" >}}
 
-## Images
+### Images
 
-## Dates
+### Dates
 
 After 100 CE - Closing decades of the 4th century
 
-## Bibliography
+### Bibliography
 
 * A. Detsicas, *The Cantiaci*, Gloucester, 1983, pp. 103-107, fig. 20. [(worldcat)](http://www.worldcat.org/oclc/247009310)
 * B. Philp, *Excavations in the Darent Valley*, Kent, Gloucester, 1984, pp. 89-92, figs. 24, 33. [(worldcat)](http://www.worldcat.org/oclc/896055765)
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [79413](https://pleiades.stoa.org/places/79413)
 
-### TGN ID
+#### TGN ID
 
 [7027349](http://vocab.getty.edu/page/tgn/7027349)
 
-## Contributor
+### Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-## Publication date
+### Publication date
 
 08 July 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

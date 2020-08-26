@@ -15,40 +15,40 @@ tags:
   - "piscinae"
 ---
 
-# Province
+## Province
 
 [Britannia]({{<relref "..">}})  
 
-## Province Description
+### Province Description
 
 <!-- DESCRIPTION -->
 
 
-# Location
+## Location
 
 [Fishbourne]({{<relref ".">}}) \
 [Fishbourne (Pleiades)](https://pleiades.stoa.org/places/79466)
 
-## Location Description
+### Location Description
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-## Sublocation Description
+### Sublocation Description
 
 <!-- DESCRIPTION -->
 
-# Garden
+## Garden
 
 Roman Palace in Fishbourne
 
-## Keywords
+### Keywords
 
 archaeological garden \
 [basins (vessels)](http://vocab.getty.edu/page/aat/300045614) \
@@ -60,7 +60,7 @@ archaeological garden \
 [terrace gardens](http://vocab.getty.edu/page/aat/300404778) \
 [vegetable gardens](http://vocab.getty.edu/page/aat/300008142)
 
-## Garden Description
+### Garden Description
 
 Fishbourne Roman Palace was accidentally discovered during the digging of a water main trench in 1960. The discovery led to nine seasons of excavations (1961-69) that showed the site had developed from a military base at the time of the Roman invasion in AD 43 to a sumptuous palace by the end of the first century CE. Carefully excavated by Barry Cunliffe, using techniques of environmental archaeology, the garden excavations at the palace have long served as a model in the development of Roman garden archaeology, although the findings did not initially prompt the investigation of other gardens in Britain. Today the site has been developed for display and education.
 
@@ -76,57 +76,57 @@ There is circumstantial evidence for there having been a vegetable garden in the
 
 Limited excavations to the south of the palace revealed an artificial terrace which bore evidence of landscaping, including a pool, a gravel path, possible bedding trenches and what may have been the base for a column or statue. Excavations to the east of the palace in the mid 1980's uncovered evidence for semi-formal gardens.
 
-## Maps
+### Maps
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../images/Fishbourne_Fig_1.jpg" alt="Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace." title="Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace." >}}
 
-## Images
+### Images
 
 {{< figure src="../images/Fishbourne_Fig._2.jpg" alt="Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace." title="Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace." >}}
 
 {{< figure src="../images/Fishbourne_Fig._3.jpg" alt="Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace." title="Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace." >}}
 
-## Dates
+### Dates
 
 Late 1st century CE - unspecified
 
-### Excavation Dates
+#### Excavation Dates
 
 1961-69, mid 1980s
 
-## Bibliography
+### Bibliography
 
 * Barry Cunliffe, *Excavations at Fishbourne, 1961-1969*, Vols I & II, The Society of Antiquaries, London, 1971.[(worldcat)](http://www.worldcat.org/oclc/34684874)
 * B. W. Cunliffe, A.G. Down, and D. Rudkin, *Excavations at Fishbourne 1969-1988*, Chichester, 1996.[(worldcat)](http://www.worldcat.org/oclc/228440436)
 * B. Cunliffe, *Fishbourne Roman Palace*, Tempus, 1998. [(worldcat)](http://www.worldcat.org/oclc/997465222)
 * Amina-Aïcha Malek, *A Sourcebook of Garden Archaeology*, Bern: Peter Lang, 2012.[(worldcat)](http://www.worldcat.org/oclc/865000398)
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [79466](https://pleiades.stoa.org/places/79466)
 
-### TGN ID
+#### TGN ID
 
 [7032567](http://vocab.getty.edu/page/tgn/7032567)
 
-## Contributor
+### Contributor
 
 [Kathryn Gleason](https://classics.cornell.edu/kathryn-gleason) (ORCID:[0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378))
 
-## Publication date
+### Publication date
 
 09 July 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

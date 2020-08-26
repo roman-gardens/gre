@@ -16,45 +16,45 @@ tags:
   - "porticoes"
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-## Province Description
+### Province Description
 
 <!-- DESCRIPTION -->
 
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-## Location Description
+### Location Description
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-## Sublocation Description
+### Sublocation Description
 
 <!-- DESCRIPTION -->
 
-# Insula
+## Insula
 
 Insula ii
 
-# House
+## House
 
 House 10
 
-# Garden
+## Garden
 
 House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)
 
-## Keywords
+### Keywords
 
 [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696) \
 archaeological garden \
@@ -63,11 +63,11 @@ inscription \
 [pillars](http://vocab.getty.edu/page/aat/300264605) \
 [porticoes](http://vocab.getty.edu/page/aat/300004145)  
 
-## Garden Description
+### Garden Description
 
 This *caupona* was excavated in 1873 but the reports offer insufficient details to determine if the open area had been planted. The room was entered directly from the street and the open area (a), had a portico on the north and east supported by one pillar. Fifteen *amphoras* with inscriptions were uncovered here.
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -78,24 +78,24 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Fig_2_Region_I_insula_ii.tif" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
 
-## Images
+### Images
 
 
-## Dates
+### Dates
 
 unspecified
 
-### Excavation dates
+#### Excavation dates
 
 1873
 
-## Bibliography
+### Bibliography
 
 * Fiorelli, *Descr.*, p. 46. [(worldcat)](http://www.worldcat.org/oclc/908272023)
 * *GiornSc*, n.s., 3 (1874-1877), col. 47-48.
@@ -104,26 +104,26 @@ unspecified
 * Niccolini, *Case*, vol. 2, “Descr. Gen.,” p. 76.
 * Viola, “*Scavi*” p. 13. [(worldcat)](http://www.worldcat.org/oclc/715087975)
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 26 July 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

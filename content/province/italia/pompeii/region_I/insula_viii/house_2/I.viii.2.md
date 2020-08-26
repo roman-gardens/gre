@@ -12,32 +12,32 @@ categories:
 
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-# Insula
+## Insula
 
 Insula viii
 
-# House
+## House
 
 House 2
 
-# Garden
+## Garden
 
 I.viii.2
 
-## Keywords
+### Keywords
 
 archaeological garden \
 [atriums](http://vocab.getty.edu/page/aat/300004097) \
@@ -48,11 +48,11 @@ archaeological garden \
 [porticoes](http://vocab.getty.edu/page/aat/300004145) \
 [tablina](http://vocab.getty.edu/page/aat/300004180)
 
-## Garden Description
+### Garden Description
 
 The *peristyle* garden (a) was reached from the *atrium* by ascending two steps to the *tablinium*. It was enclosed by a *portico* on four sides but all of the columns and the floor of the north, east and west *portico* was destroyed by bombing in WWII. A large cistern under the *peristyle* collected the water by way of the gutter at the edge of the garden. There was an adjacent dyeshop (19) at the rear which used this water supply.
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -63,47 +63,47 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Region_I_insula_8.tif" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." title="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement)." >}}
 
-## Images
+### Images
 
-## Dates
+### Dates
 
 unspecified
 
-### Excavation Date
+#### Excavation Date
 
 
-## Bibliography
+### Bibliography
 
 * Della Corte, *Case*, pp. 333-334.
 * Jashemski, *Gardens*, vol.II, p. 42. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Moeller, *Wool Trade*, pp.35-36. [(worldcat)](http://www.worldcat.org/oclc/771007203)
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 08 August 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

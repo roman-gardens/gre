@@ -18,8 +18,8 @@
 - [ ] Redo all pub dates as YMD
 - [ ] Implement [LOC Datetime format](https://www.loc.gov/standards/datetime/)
 - [x] Add a keyword that means "hasInscription"
-- [ ] Check for any ">>>>>>" merge conflict stuff in the articles
-- [ ] Take every heading down one level
+- [x] Check for any ">>>>>>" merge conflict stuff in the articles
+- [x] Take every heading down one level
 - [ ] Add a takedown notice (copy from DCAA/DSCC)
 - [ ] Suppress empty headings
 - [ ] Finish creating documentation

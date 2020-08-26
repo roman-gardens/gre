@@ -12,32 +12,32 @@ categories:
 
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-# Insula
+## Insula
 
 Insula viii
 
-# House
+## House
 
 House 10
 
-# Garden
+## Garden
 
 Caupona-Hospitium dei "Pulcinella" (I.viii.10)
 
-## Keywords
+### Keywords
 
 archaeological garden \
 
@@ -46,11 +46,11 @@ archaeological garden \
 [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
 [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
-## Garden Description
+### Garden Description
 
 A. This house had no *atrium* and the *peristyle* was entered directly from the street. The *peristyle* garden (a) was enclosed on the east and the south by a *portico*. Two *lararium* flanked the door to a basement on the north end of the east *portico*. The one on the right was well preserved with paintings of an altar, two *Lares*, serpents, and a rectangular niche painted with what appear to be poppies. When a layer of plaster crumbled from the wall in March 1949 it revealed a painting of a pottery shop and led Maiuri to believe that there had been a pottery shop entrance to the street from the room on the left. Two other paintings on the façade depict Mercury and costumed men attired as Neapolitan Punch and Judy puppets. This gave the house the identity as a *caupona-hospitium* of the “Pulcinella.”
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -61,48 +61,48 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Region_I_insula_8.tif" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." title="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement)." >}}
 
-## Images
+### Images
 
 
-## Dates
+### Dates
 
 unspecified
 
-### Excavation Date
+#### Excavation Date
 
 
-## Bibliography
+### Bibliography
 
 * Della Corte, *Case*, p. 326, no. 675.
 * Jashemski, *Gardens*, vol.II, pp. 42-43. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Maiuri, *RM* (1953-54), pp. 89-91 (the house is erroneously numbered I.v.10) on the plan, fig, 1.
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 09 August 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -12,45 +12,45 @@ categories:
 
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-## Province Description
+### Province Description
 
 <!-- DESCRIPTION -->
 
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-## Location Description
+### Location Description
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-## Sublocation Description
+### Sublocation Description
 
 <!-- DESCRIPTION -->
 
-# Insula
+## Insula
 
 Insula v
 
-# House
+## House
 
 House 2
 
-# Garden
+## Garden
 
 Officina Coriarioum of M. Vesonius Primus (I.v.2)
 
-## Keywords
+### Keywords
 
 archaeological garden \
 
@@ -62,11 +62,11 @@ archaeological garden \
 [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548) \
 [triclinia](http://vocab.getty.edu/page/aat/300004359)
 
-## Garden Description
+### Garden Description
 
 A. This tannery was excavated in 1873-1874. The *peristyle* courtyard had a portico to the north and east supported by brick pillars which had been most likely been built when the original house was converted to a tannery. Against the west wall there was a masonry *triclinium* (*l.medius* 4.99 m.; *l.summus* and *l.imus* 4.96 m.; table, 1.78 x 0.93 m.). The top of the *triclinium* table held the famous mosaic of a skull (0.45 x 0.50 m. Mus. Naz. inv. no. 109 982;; Reusch no. 163). <span style="color:purple">The mosaic representing the Epicurian philosophy features a large skull over a butterfly on a wheel representing the soul and time. On either side of the skull are the possessions of both the rich and poor with a plumb line hanging over the skull indicating the equalizing power of death.</span> The northeastern part of the courtyard was a rectangle, the north side of which was formed by the three first intercolumniations counting from the northeast corner of the north portico, and the east side by the first two intercolumniations counting from the same corner. This area was paved with *opus signinum*. The little area around the *triclinium* between the paved area and the west wall was believed to be a garden according to Mau.
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -77,24 +77,24 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Region_I_insula_v.tif" alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." title="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10 (Rights Statement)." >}}
 
-## Images
+### Images
 
 
-## Dates
+### Dates
 
 unspecified
 
-### Excavation Dates
+#### Excavation Dates
 
 1873-1874
 
-## Bibliography
+### Bibliography
 
 * Brendel, “Untersuchungen zur Allegorie des pompejanischen Totenkopfmosaiks,” *RM* (1934), pp 157-179.
 * Fiorelli, *Desc.*, p. 452. [(worldcat)](http://www.worldcat.org/oclc/908272023)
@@ -110,26 +110,26 @@ unspecified
 * Viola, “*Scavi*” p. 15.
 * Warscher, “Codex,” photo no. 32.
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 03 August 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

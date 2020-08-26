@@ -12,47 +12,47 @@ categories:
 
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-## Province Description
+### Province Description
 
 <!-- DESCRIPTION -->
 
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-## Location Description
+### Location Description
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-## Sublocation Description
+### Sublocation Description
 
 <!-- DESCRIPTION -->
 
-# Insula
+## Insula
 
 Insula v
 
-# House
+## House
 
 Houses 3/16
 
 <!-- I assume that 2/16 was a typo as this is listed as part B and an entry in I.v.3/16 is part A.-->
 
-# Garden
+## Garden
 
 I.v.3/16 B
 
-## Keywords
+### Keywords
 
 archaeological garden \
 
@@ -68,11 +68,11 @@ fulcrum \
 [triclinia](http://vocab.getty.edu/page/aat/300004359) \
 [vegetable gardens](http://vocab.getty.edu/page/aat/300008142)
 
-## Garden Description
+### Garden Description
 
 B. At the rear of the house, a large enclosed garden (b) had been increased in size by reducing the wings of the *cryptoporticus*. The last owner had built a spacious *loggia* (5 x 20 m.) above the north wing of the *cryptoporticus* overlooking the garden. A high wall joined the five pillars and the roof supporting pilaster and formed windows into the garden. At the west end of the *loggia* was a masonry *triclinium* with side couches, each having a *fulcrum* (foot), (*l. medius* 4.41m.; *l.summus* and *l. imus* 4.68 m.; dia. of table 0.55m.). A large area was left open for tables or dancers, suggesting to Spinoza that this could have been a public gathering place. There were low seats in front of the side couches and extended along the terrace walls that may have been intended for children according to Soprano. A kitchen was located on the north side of the *loggia*. Six steps from the southeast corner of the *loggia* led up into the garden which had been raised to the level of the windows in the *cryptoporticus*. Della Corte thought that this garden had been used to raise many cabbages and leeks. The remains of eleven victims of the volcanic eruption were found in the garden.
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -83,23 +83,23 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Region_I_insula_v.tif" alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." title="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10 (Rights Statement)." >}}
 
-## Images
+### Images
 
 
-## Dates
+### Dates
 
 unspecified
 
-### Excavation Dates
+#### Excavation Dates
 
 
-## Bibliography
+### Bibliography
 
 * Della Corte, *Case*, p. 228. [(worldcat)](http://www.worldcat.org/oclc/859831184)
 * Jashemski, *Gardens*, vol.II, p. 34. [(worldcat)](http://www.worldcat.org/oclc/921816405)
@@ -109,26 +109,26 @@ unspecified
 * Spinazzola, *NSc* (1914), pp. 256, 259-262, 287, 365-368.
 * Spinazzola, *Scavi nuovi*, pp.121-122, 442, 444-445, 451, 453. [(worldcat)](http://www.worldcat.org/oclc/883858580)
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 06 August 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

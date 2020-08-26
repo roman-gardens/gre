@@ -20,45 +20,45 @@ tags:
   - "triclinia"
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-## Province Description
+### Province Description
 
 <!-- DESCRIPTION -->
 
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-## Location Description
+### Location Description
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-## Sublocation Description
+### Sublocation Description
 
 <!-- DESCRIPTION -->
 
-# Insula
+## Insula
 
 Insula ii
 
-# House
+## House
 
 House 24
 
-# Garden
+## Garden
 
 Caupona; Officina Libraria (I.ii.24)
 
-## Keywords
+### Keywords
 
 aedicula lararium \
 archaeological garden \
@@ -71,11 +71,11 @@ archaeological garden \
 [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548) \
 [triclinia](http://vocab.getty.edu/page/aat/300004359)  
 
-## Garden Description
+### Garden Description
 
 The garden (a) east of the *atrium* had a *portico* extending along the south and part of the west sides. A low wall (0.52 m. high) connected the columns and an entrance to the garden was located on the west. In 1873 the *caupona* was excavated. The garden contained a masonry *triclinium* (*l.medius*, 3.85 m.; *l.summus* and *l.imus*, 3.20 m.) with a table. The badly damaged *triclinium* revealed the *amphoras* used in its construction. A low podium along the north wall was thought by Fiorelli to have held flower pots. Mau reported a drainage channel at the corner of the *triclinium* formed by the *l.meduis* and the *l.summus*, although it is no longer evident. The base of an *aedicula lararium* remains against the east wall opposite the north end of the east couch.
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -86,24 +86,24 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Fig_2_Region_I_insula_ii.tif" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
 
-## Images
+### Images
 
 
-## Dates
+### Dates
 
 unspecified
 
-### Excavation dates
+#### Excavation dates
 
 1873
 
-## Bibliography
+### Bibliography
 
 * Boyce, p. 23, no. 17.
 * Fiorelli, *Descr.*, p. 47. [(worldcat)](http://www.worldcat.org/oclc/908272023)
@@ -118,26 +118,26 @@ unspecified
 * Viola, “*Scavi*” p. 13. [(worldcat)](http://www.worldcat.org/oclc/715087975)
 * Warscher, “Codex.” photo no. 32.
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 27 July 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

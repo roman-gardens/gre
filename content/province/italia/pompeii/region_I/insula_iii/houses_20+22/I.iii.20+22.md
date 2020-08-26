@@ -17,45 +17,45 @@ tags:
   - "triclinia"
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-## Province Description
+### Province Description
 
 <!-- DESCRIPTION -->
 
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-## Location Description
+### Location Description
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-## Sublocation Description
+### Sublocation Description
 
 <!-- DESCRIPTION -->
 
-# Insula
+## Insula
 
 Insula iii
 
-# House
+## House
 
 Houses 20/22
 
-# Garden
+## Garden
 
 I.iii.20/22
 
-## Keywords
+### Keywords
 
 [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725) \
 archaeological garden \
@@ -65,11 +65,11 @@ archaeological garden \
 puteal \
 [triclinia](http://vocab.getty.edu/page/aat/300004359)  
 
-## Garden Description
+### Garden Description
 
 At the rear of this house there was a garden (a) with a passageway on the north and the west. The garden had a gutter along the east, north, and west edges. Embedded in the garden were four large *dolia*. A large *triclinium* (b) on the east side had a window that looked out into the garden. Fiorelli surmised that the remains of one couch of a masonry *triclinium* in the west passageway indicated the possible presence of a room that had been destroyed by the earthquake. There was also a small altar on the right side of the *peristyle* and a terra-cotta *puteal* in the passageway.
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -80,20 +80,20 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Region_I_insula_iii.tif" alt="Fig. 2: Plan of Region I, insula iii, plan in Jashemski, *Gardens*, plan 6, p. 26; Fiorelli, *Scavi*, pl. 12." title="Fig. 2: Plan of Region I, insula iii, plan in Jashemski, *Gardens*, plan 6, p. 26; Fiorelli, *Scavi*, pl. 12 (Rights Statement)." >}}
 
-## Images
+### Images
 
 
-## Dates
+### Dates
 
 unspecified
 
-## Bibliography
+### Bibliography
 
 * Boyce, p. 24, no. 25.
 * Fiorelli, *Scavi*, p. 73. [(worldcat)](http://www.worldcat.org/oclc/249024903)
@@ -104,26 +104,26 @@ unspecified
 * Soprano, p. 308, no. 36.
 * Warscher, “Codex.”
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 28 July 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

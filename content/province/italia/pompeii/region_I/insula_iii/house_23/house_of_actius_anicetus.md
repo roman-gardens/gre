@@ -18,45 +18,45 @@ tags:
   - "porticoes"
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-## Province Description
+### Province Description
 
 <!-- DESCRIPTION -->
 
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-## Location Description
+### Location Description
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-## Sublocation Description
+### Sublocation Description
 
 <!-- DESCRIPTION -->
 
-# Insula
+## Insula
 
 Insula iii
 
-# House
+## House
 
 House 20/22
 
-# Garden
+## Garden
 
 I.iii.20/22
 
-## Keywords
+### Keywords
 
 archaeological garden \
 
@@ -67,11 +67,11 @@ archaeological garden \
 [porticoes](http://vocab.getty.edu/page/aat/300004145) \
 puteal  
 
-## Garden Description
+### Garden Description
 
 This site was excavated in 1868 revealing a *peristyle* garden (a) at the rear of the house. A portico on the east and north side was supported by five columns connected by a low wall. There was an opening to the garden on the north. The middle of the garden had two cistern *puteals*. The west wall of the garden held the famous painting depicting the battle between the Nucerians and the Pompeians in the ampitheator (1.60 m. high by a little less than 2.00 m. wide; Mus. Naz. Inv. No. 112 222; Ruesch no. 1344). This event was recorded by Tacitus (*Annals* 14.17). A gutter went along the east, south, and north edges of the garden.
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -82,24 +82,24 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Region_I_insula_iii.tif" alt="Fig. 2: Plan of Region I, insula iii, plan in Jashemski, *Gardens*, plan 6, p. 26; Fiorelli, *Scavi*, pl. 12." title="Fig. 2: Plan of Region I, insula iii, plan in Jashemski, *Gardens*, plan 6, p. 26; Fiorelli, *Scavi*, pl. 12 (Rights Statement)." >}}
 
-## Images
+### Images
 
 
-## Dates
+### Dates
 
 unspecified
 
-### Excavation Date
+#### Excavation Date
 
 1868
 
-## Bibliography
+### Bibliography
 
 * DePetra, *GiornSc*, n.s., 1 (1865-1869), cols. 185-187 (where the address is given as I.ii).
 * Fiorelli, *Scavi*, p. 74 and pp. 145-146, no. 401. [(worldcat)](http://www.worldcat.org/oclc/249024903)
@@ -113,26 +113,26 @@ unspecified
 * Sogliano, “Pitture,” p. 204, no.604.
 * Warscher, “Codex.” photos nos. 44-50.
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 29 July 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

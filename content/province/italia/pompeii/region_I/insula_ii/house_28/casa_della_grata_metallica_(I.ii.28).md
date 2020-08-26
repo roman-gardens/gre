@@ -21,45 +21,45 @@ tags:
   - "tufa"
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-## Province Description
+### Province Description
 
 <!-- DESCRIPTION -->
 
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-## Location Description
+### Location Description
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-## Sublocation Description
+### Sublocation Description
 
 <!-- DESCRIPTION -->
 
-# Insula
+## Insula
 
 Insula ii
 
-# House
+## House
 
 House 28
 
-# Garden
+## Garden
 
 Casa Della Grata Metallica; Casa Dell’Atrio Tetra-Stilo (I.ii.28)
 
-## Keywords
+### Keywords
 
 [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725) \
 archaeological garden \
@@ -72,11 +72,11 @@ archaeological garden \
 [triclinia](http://vocab.getty.edu/page/aat/300004359) \
 [tufa](http://vocab.getty.edu/page/aat/300011712)  
 
-## Garden Description
+### Garden Description
 
 At the rear of the house there was a *peristyle* garden (a) with a portico along the east side and part of the south. The excavation took place in 1873-74. A low wall joined three stuccoed brick columns and two engaged ones which supported the portico. There was an entrance to the garden on the south side opposite the door from the *tablinium* (b) and another on the east opposite the kitchen door (c), which was closed later according to Mau. The columns were white above the height of the wall and red below. Water was carried to the cistern by a wide gutter on the south and east edges of the garden, and Mau found some evidence of aqueduct water. There was a masonry *triclinium* (*l.medius*, 5.30 m.; *l.imus*, 3.85 m.; *l.summus*, 2.70 m.) with a circular table (dia. of support, 0.70 m. ) built against the west wall. Inside of each couch there were four niches (0.19 m. wide). The last niche in the south couch was larger in size and separated from the other three by the mouth of the cistern. There was a small masonry podium on the north wall with steps for access. A round tufa altar was located opposite the *lectus summus* (Fig. 3).
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -87,25 +87,25 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Fig_2_Region_I_insula_ii.tif" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
 
-## Images
+### Images
 
 {{< figure src="../../images/Fig_5_I.ii.28_10.11.59.jpg" alt="Fig. 3: I.ii.28; 10.11.59, S.A. Jashemski." title="Fig. 3: I.ii.28; 10.11.59, S.A. Jashemski (Rights Statement)." >}}
 
-## Dates
+### Dates
 
 unspecified
 
-### Excavation dates
+#### Excavation dates
 
 1873-1874
 
-## Bibliography
+### Bibliography
 
 * Fiorelli, *Descr.*, p. 48. [(worldcat)](http://www.worldcat.org/oclc/908272023)
 * *GiornSc*, n.s., 3 (1874-1877), col. 60.
@@ -116,26 +116,26 @@ unspecified
 * Viola, “*Scavi*” p. 14. [(worldcat)](http://www.worldcat.org/oclc/715087975)
 * Warscher, “Codex.” photo no. 54-57.
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 27 July 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

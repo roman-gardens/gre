@@ -12,45 +12,45 @@ categories:
 
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-## Province Description
+### Province Description
 
 <!-- DESCRIPTION -->
 
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-## Location Description
+### Location Description
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-## Sublocation Description
+### Sublocation Description
 
 <!-- DESCRIPTION -->
 
-# Insula
+## Insula
 
 Insula iv
 
-# House
+## House
 
 Houses 5/25
 
-# Garden
+## Garden
 
 I.iv.5/25 B
 
-## Keywords
+### Keywords
 
 [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725) \
 archaeological garden \
@@ -64,11 +64,11 @@ lychnophoros \
 puteal \
 [statues](http://vocab.getty.edu/page/aat/300047600)
 
-## Garden Description
+### Garden Description
 
 B. The center *peristyle* was separated from the south *peristyle* (d) by a long wall that had six windows and two doors. These offered a grand view into the southern *peristyle*. In an earlier period this peristyle must have been considered the most important component for each of the six windows corresponded to an intercolumniation in the southern *peristyle*. The twenty portico columns were fluted above, plain below, and faced with stucco over brick and Sarno limestone. The northeast corner had a portico with a marble *puteal*. This garden was bounded by a gutter and in this *peristyle* there was a white marble altar (0.255 high; Mus. Naz. inv. no. 110022). The middle peristyle was supposedly where the famous bronze statue of Apollo playing a *cithara* (1.58 m. high with base; Mus. Naz. inv. no. 5630; Reusch no. 831) was found on November 8, 1853. It probably came from the southeast corner of the southern *peristyle* for the middle *peristyle* was not excavated until five years after the Apollo was found. Niccolini (*Case*, vol.3, “L’arte” p. 8) was the first to mistakenly report the location where the bronze was discovered. Maiuri thought that the Apollo may have been adapted as a *lychnophoros*. Several smaller rooms looked out over the garden as well as a large *oecus* (e) on the east.
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -79,24 +79,24 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Fig.7_Region_I_insula_iv.tif" alt="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." title="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8 (Rights Statement)." >}}
 
-## Images
+### Images
 
 
-## Dates
+### Dates
 
 unspecified
 
-### Excavation Dates
+#### Excavation Dates
 
 1848, 1853
 
-## Bibliography
+### Bibliography
 
 * Baset, p. 492.
 * Brun, *BdI* (1863), p. 92-93.
@@ -120,26 +120,26 @@ unspecified
 * 685-688 (Sept. 14-Nov.30, 1859).
 * Pernice, p. 30 and pl. 19.4.
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 02 August 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

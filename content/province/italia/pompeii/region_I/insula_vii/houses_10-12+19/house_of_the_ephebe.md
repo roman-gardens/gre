@@ -12,32 +12,32 @@ categories:
 
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-# Insula
+## Insula
 
 Insula vii
 
-# House
+## House
 
 Houses 10-12/19
 
-# Garden
+## Garden
 
 House of the Ephebe; Casa Dell’Efebo; House of P. Cornelius Teges (or Tages) (I.vii.10-12/19)
 
-## Keywords
+### Keywords
 
 [aedicules](http://vocab.getty.edu/page/aat/300002574) \
 archaeological garden \
@@ -65,7 +65,7 @@ archaeological garden \
 [vegetable gardens](http://vocab.getty.edu/page/aat/300008142) \
 [vestibules](http://vocab.getty.edu/page/aat/300083076)
 
-## Garden Description
+### Garden Description
 
 A. This house was made by combining several small houses. The upper garden (a) had an unusual portico on the north with various diameter columns, plastered and painted red, and two pillars. A third column on a square base supported an extension of the *portico*, which was a step lower and formed by an extension of the vestibule at entrance 12. The *triclinium* (b), *tablinium* (c), and *exedra* (d) on the upper level of the *portico* were protected from cold and rain by some sort of screen installed between the columns and the west pillar. Most scholars surmise these were wooden but Maiuri proposed that they were glass, although he did not find any glass fragments during excavation. (Window panes surviving from this period from other sites are on display at the Museo Archaeological in Naples and in the deposito at Pompeii).
 
@@ -79,7 +79,7 @@ A trellis fence separated the *triclinium* from the eastern part of the garden. 
 
 Water was supplied to the garden by way of overflow channels from the *triclinium* fountain. A basin, with two terra-cotta openings which would regulate the flow of water to either half of the garden, was located at the edge of the garden. <span style="color:green">The south wall at the rear of the *triclinium* once had a large hunt scene, but the only surviving part was the lower register. To the left of the *aedicula* fountain the images of a large deer and a bird remain, and to the right a bull flees from an unidentified attacker. A feline is crouched under a large tree in the lower right and other trees are sketchily depicted in the background.</span>
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -90,13 +90,13 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Region_I_insula_vii.tif" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." title="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement)." >}}
 
-## Images
+### Images
 
 {{< figure src="../images/Fig_41_I.vii.11_12_11.32.59.jpg" alt="Fig. 3: I.vii. 11.32.59, S.A. Jashemski." title="Fig. 3: I.vii. 11.32.59, S.A. Jashemski (Rights Statement)." >}}
 
@@ -106,14 +106,14 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../images/Fig_44_I.vii.11_12_11.33.59.jpg" alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski." title="Fig. 6: I.vii. 11.33.59, S.A. Jashemski (Rights Statement)." >}}
 
-## Dates
+### Dates
 
 unspecified
 
-### Excavation Date
+#### Excavation Date
 
 
-## Bibliography
+### Bibliography
 
 * Boyce, p. 26, no. 41.
 * Chamoux, *BCH* 74 (1950): 70-79.
@@ -136,26 +136,26 @@ unspecified
 * Soprano, p. 295, no. 5 and fig. 31 on p. 296.
 * Zanker, pp. 500-501.
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 08 August 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

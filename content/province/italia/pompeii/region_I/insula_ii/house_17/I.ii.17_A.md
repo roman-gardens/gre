@@ -15,56 +15,56 @@ tags:
   - "tablina"
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-## Province Description
+### Province Description
 
 <!-- DESCRIPTION -->
 
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-## Location Description
+### Location Description
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-## Sublocation Description
+### Sublocation Description
 
 <!-- DESCRIPTION -->
 
-# Insula
+## Insula
 
 Insula ii
 
-# House
+## House
 
 House 17
 
-# Garden
+## Garden
 
 I.ii.17 A
 
-## Keywords
+### Keywords
 
 archaeological garden \
 [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
 [piscinae]( http://vocab.getty.edu/page/aat/300375619) \
 [tablina](http://vocab.getty.edu/page/aat/300004180)  
 
-## Garden Description
+### Garden Description
 
 At the rear of the house was a very small garden entered from the *tablinum*. Excavated in 1872, much of the garden was occupied by two small raised pools, according to Mau. (Fig. 3) Attached to the west wall was a masonry pool 0.58 m. deep on the inside and 0.73 m. high on the outside. The other pool was to the south and there was a garden painting on the rear wall.
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -75,25 +75,25 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, *Gardens*, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, *Gardens*, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Fig_2_Region_I_insula_ii.tif" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, *Gardens*, plan 5, p. 22; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, *Gardens*, plan 5, p. 22; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
 
-## Images
+### Images
 
 {{< figure src="../images/Fig_4_I.ii.17_10.13.59.jpg" alt="Fig. 3: I.ii.17; 10.13.59, S.A. Jashemski." title="Fig. 3: I.ii.17; 10.13.59, S.A. Jashemski (Rights Statement)." >}}
 
-## Dates
+### Dates
 
 unspecified
 
-### Excavation dates
+#### Excavation dates
 
 1872
 
-## Bibliography
+### Bibliography
 
 * Fiorelli, *Descr.*, p. 44. [(worldcat)](http://www.worldcat.org/oclc/908272023)
 * Jashemski, *Gardens*, vol.II, p. 23. [(worldcat)](http://www.worldcat.org/oclc/921816405)
@@ -101,26 +101,26 @@ unspecified
 * Niccolini, *Case*, vol. 2, “Descr. Gen.,” p. 76.
 * Viola, “*Scavi*” p. 12. [(worldcat)](http://www.worldcat.org/oclc/715087975)
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 25 July 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

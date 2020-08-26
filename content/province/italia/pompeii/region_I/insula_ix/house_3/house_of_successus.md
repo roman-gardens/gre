@@ -12,32 +12,32 @@ categories:
 
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-# Insula
+## Insula
 
 Insula ix
 
-# House
+## House
 
 House 3
 
-# Garden
+## Garden
 
 House of Successus (I.ix.3)
 
-## Keywords
+### Keywords
 
 archaeological garden \
 [atriums](http://vocab.getty.edu/page/aat/300004097) \
@@ -50,11 +50,11 @@ inscription \
 [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262) \
 [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
 
-## Garden Description
+### Garden Description
 
 A portrait of a little boy painted on the north wall of the *cubiculum*, to the left of the *atrium*, with the graffito PVER/SUCCUSSVS (*CIL* IV. 9992a) gave this house its name. Excavated in 1952, the garden (a) at the rear of the house had a *portico*, and a table base carved as a statuette of a small boy with a dove (Pompeii inv. no. 20395) was discovered in the north portico. Fig. 3, Fig. 4. <span style="color:orange">The room in the southwest corner of the garden (b) had a garden representation on the large white middle panel on the south wall of the room. It was framed by a narrow reddish-brown border and painted in shades of brown and white on a light blue-green background. Two gardens enclosed by a wooden fence contained an open apse-shaped area in between them with a round pool. A jet in the center jetted water which descended in two separate streams. The gardens on the side were cut off by the frame. A figure across the front of the painting was perhaps a fence defining a passageway.</span> Fig. 5.
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -65,13 +65,13 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Region_I_insula_ix.tif" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." title="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement)." >}}
 
-## Images
+### Images
 
 {{< figure src="../images/Fig_51_I.ix.3_18.15.59.tif" alt="Fig. 3: 18.15.59, S.A. Jashemski." title="Fig. 3: 18.15.59, S.A. Jashemski (Rights Statement)." >}}
 
@@ -79,15 +79,15 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../images/Fig_53_I.ix.3_18.22.59.tif" alt="Fig. 5: 18.22.59, S.A. Jashemski." title="Fig. 5: 18.22.59, S.A. Jashemski (Rights Statement)." >}}
 
-## Dates
+### Dates
 
 unspecified
 
-### Excavation Date
+#### Excavation Date
 
 1952
 
-## Bibliography
+### Bibliography
 
 * Della Corte, *Case*, p. 339, no. 723a.
 * Jashemski, *Gardens*, vol. 1, fig. 160 on p. 102 (for the portrait). [(worldcat)](http://www.worldcat.org/oclc/884024123)
@@ -95,26 +95,26 @@ unspecified
 * Maiuri, *Pompeii*, p. 82. [(worldcat)](http://www.worldcat.org/oclc/470375462)
 * Schefold, *WandP*, p. 38.
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 09 August 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

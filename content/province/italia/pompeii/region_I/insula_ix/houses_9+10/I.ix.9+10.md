@@ -12,32 +12,32 @@ categories:
 
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-# Insula
+## Insula
 
 Insula ix
 
-# House
+## House
 
 Houses 9/10
 
-# Garden
+## Garden
 
 I.ix.9/10
 
-## Keywords
+### Keywords
 
 archaeological garden \
 [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571) \
@@ -46,11 +46,11 @@ archaeological garden \
 [porticoes](http://vocab.getty.edu/page/aat/300004145) \
 [stairs](http://vocab.getty.edu/page/aat/300003228)
 
-## Garden Description
+### Garden Description
 
 To the rear of this house a raised garden (a), three steps up, had a *portico* on the east. The *portico* was supported by two columns on the east, an engaged column and a pilaster.
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -61,48 +61,48 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Region_I_insula_ix.tif" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." title="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement)." >}}
 
-## Images
+### Images
 
 
-## Dates
+### Dates
 
 unspecified
 
-### Excavation Date
+#### Excavation Date
 
 
 
-## Bibliography
+### Bibliography
 
 * DeVos, “Scavi nuovi sconoscuti (1.9.13),” *Meded* 38 (1976), pl. 35 (plan).
 * Jashemski, *Gardens*, vol.II, p. 44. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 10 August 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -18,45 +18,45 @@ tags:
   - "statuettes"
 ---
 
-# Province
+## Province
 
 [Italia]({{<relref "..">}})
 
-## Province Description
+### Province Description
 
 <!-- DESCRIPTION -->
 
 
-# Location
+## Location
 
 [Pompeii]({{<relref ".">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-## Location Description
+### Location Description
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 
 [Region I]({{<relref ".">}})
 
-## Sublocation Description
+### Sublocation Description
 
 <!-- DESCRIPTION -->
 
-# Insula
+## Insula
 
 Insula ii
 
-# House
+## House
 
 House 16
 
-# Garden
+## Garden
 
 I.ii.16
 
-## Keywords
+### Keywords
 
 aedicula lararium \
 archaeological garden \
@@ -69,11 +69,11 @@ puteal \
 [statues](http://vocab.getty.edu/page/aat/300047600) \
 [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)  
 
-## Garden Description
+### Garden Description
 
 This house was excavated in 1873. The entranceway led directly to the portico which enclosed the garden on the north and east. In the northwest corner of the portico a masonry *aedicula lararium* formed an arched niche on top of a solid podium. A low wall connected the columns and pillars of the portico. There was an entrance to the garden on the east side and a gutter along the east and north edges of the garden. A terra-cotta statuette of a seated old man holding a scroll in his right hand and wearing a short sleeved tunic (0.60 m. high; Mus. Naz. Inv. No. 109 622; Ruesh no. 453) served as a fountain. This statue has been variously identified, but most likely was the Greek philosopher Antisthenes (ca. 445-360), a devoted follower of Socrates. A terra-cotta *puteal* was also found in the garden.
 
-## Maps
+### Maps
 
 <!--
 OLD WAY (DO NOT USE)
@@ -84,24 +84,24 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-## Plans
+### Plans
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../images/Fig_2_Region_I_insula_ii.tif" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
 
-## Images
+### Images
 
 
-## Dates
+### Dates
 
 unspecified
 
-### Excavation dates
+#### Excavation dates
 
 1873
 
-## Bibliography
+### Bibliography
 
 * Boyce, p. 22, no. 6.
 * Curtius, "Miszellen zur Geschichte des greichischen Porträts,” RM (1944), p. 38.
@@ -121,26 +121,26 @@ unspecified
 * Von Rohden, pp. 21, 44-45 and pl. 32.
 * Warscher, “Codex.”
 
-### Periodo ID
+#### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+#### Pleiades ID
 
 [433032](https://pleiades.stoa.org/places/433032)
 
-### TGN ID
+#### TGN ID
 
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-## Contributor
+### Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-## Publication date
+### Publication date
 
 25 July 2020
 
-## Related articles
+### Related articles
 
 <!-- Links to other related articles. Leave blank for now -->
