@@ -8,21 +8,22 @@
 - [ ] Get province information into general province page (somehow)
 - [x] Get keywords into tags list in header (as in bancroft example)
 - [x] Get geographic regions into sidebar using categories list (as in bancroft)
-- [ ] Put `lead:` in the header for each article to make loglines/subtitles (e.g. Dalmatia/salona/salona_tomb...)
+- [ ] DONT Put `lead:` in the header for each article to make loglines/subtitles (e.g. Dalmatia/salona/salona_tomb...)
 - [ ] Check that all keywords are in controlled vocab (Programmatically)
-- [ ] Figure out why there are so many unattached images (e.g. Achaea Nemea)
-- [ ] Deal with empty stuff in headers
+- [ ] Figure out why there are so many unattached images (e.g. Achaea Nemea has a figure which is not in the proper images folder)
+- [ ] Deal with empty stuff in headers (by deleting)
 - [ ] Should "urban villas" be removed and (if necessary) replaced with "villae urbanae"?
 - [ ] Deal with all smart quotes
 - [ ] Fix any quotes in `figure` attributes
 - [ ] Redo all pub dates as YMD
 - [ ] Implement [LOC Datetime format](https://www.loc.gov/standards/datetime/)
-- [ ] Add a keyword that means "hasInscription"
+- [x] Add a keyword that means "hasInscription"
 - [ ] Check for any ">>>>>>" merge conflict stuff in the articles
 - [ ] Take every heading down one level
 - [ ] Add a takedown notice (copy from DCAA/DSCC)
 - [ ] Suppress empty headings
 - [ ] Finish creating documentation
+- [ ] Change keywords to bulleted list
 
 # Article Punchlist
 

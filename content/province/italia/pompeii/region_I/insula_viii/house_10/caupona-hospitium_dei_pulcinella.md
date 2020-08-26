@@ -1,5 +1,5 @@
 ---
-title: "Caupona-Hospitium dei "Pulcinella" (I.viii.10)"
+title: "Caupona-Hospitium dei \"Pulcinella\" (I.viii.10)"
 date: 2020-08-09T09:29:04-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID

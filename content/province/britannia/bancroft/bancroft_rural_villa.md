@@ -49,7 +49,6 @@ Rural Villa in Bancroft
 ## Keywords
 
 archaeological garden \
-
 [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347) \
 [drains](http://vocab.getty.edu/page/aat/300052564) \
 [gazebos](http://vocab.getty.edu/page/aat/300006798) \

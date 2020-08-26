@@ -73,9 +73,7 @@ NEW WAY ↓↓↓↓
 
 ## Plans
 
-{{< figure src="../../images/Nemea Zeus Temple and Grove Balloon Photo" alt="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings. Adapted from Miller 1978, fig. 2.
-" title="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings. Adapted from Miller 1978, fig. 2.
-" >}}
+{{< figure src="../../images/Nemea Zeus Temple and Grove Balloon Photo" alt="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings. Adapted from Miller 1978, fig. 2." title="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings. Adapted from Miller 1978, fig. 2." >}}
 
 ## Images
 

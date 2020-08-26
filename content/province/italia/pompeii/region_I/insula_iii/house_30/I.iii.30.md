@@ -79,9 +79,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_iii.tif" alt="Fig. 2: Plan of Region I, insula iii, plan in Jashemski, *Gardens*, plan 6, p. 26; Fiorelli,
-*Scavi*, pl. 12." title="Fig. 2: Plan of Region I, insula iii, plan in Jashemski, *Gardens*, plan 6, p. 26; Fiorelli,
-*Scavi*, pl. 12 (Rights Statement)." >}}
+{{< figure src="../images/Region_I_insula_iii.tif" alt="Fig. 2: Plan of Region I, insula iii, plan in Jashemski, *Gardens*, plan 6, p. 26; Fiorelli, *Scavi*, pl. 12." title="Fig. 2: Plan of Region I, insula iii, plan in Jashemski, *Gardens*, plan 6, p. 26; Fiorelli, *Scavi*, pl. 12 (Rights Statement)." >}}
 
 ## Images
 

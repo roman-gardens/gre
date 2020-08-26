@@ -44,11 +44,6 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/</loc>
-    <lastmod>2020-07-23T16:14:15-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_3/i.ii.3/</loc>
     <lastmod>2020-07-23T16:14:15-04:00</lastmod>
   </url>
@@ -263,11 +258,6 @@
     <loc>https://christiancasey.github.io/gre/province/germania_superior/winkel-seeb/</loc>
     <lastmod>2020-07-20T10:34:59-04:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/tags/barrier-walls/</loc>
-    <lastmod>2020-07-20T10:34:59-04:00</lastmod>
   </url>
   
   <url>
@@ -939,6 +929,11 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/</loc>
+    <lastmod>2020-07-08T18:12:37-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/britannia/eccles/</loc>
     <lastmod>2020-07-08T17:53:24-04:00</lastmod>
     <priority>0</priority>
@@ -1045,6 +1040,11 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/chaeronea/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/corinth/images/</loc>
     <priority>0</priority>
   </url>
@@ -1075,7 +1075,17 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/isthmia/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/kyrtones/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/kyrtones/images/</loc>
     <priority>0</priority>
   </url>
   
@@ -1085,7 +1095,17 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/megalopolis/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/nemea/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/nemea/images/</loc>
     <priority>0</priority>
   </url>
   
@@ -1095,7 +1115,17 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/nikopolis/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/olympia/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/olympia/images/</loc>
     <priority>0</priority>
   </url>
   
@@ -1105,7 +1135,17 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/onchestos/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/pallene/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/pallene/images/</loc>
     <priority>0</priority>
   </url>
   
@@ -1115,12 +1155,27 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/phigalia/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/sikyon/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/sikyon/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/achaea/titane/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/achaea/titane/images/</loc>
     <priority>0</priority>
   </url>
   
@@ -1245,6 +1300,11 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/germania_inferior/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/germania_inferior/neerhaaren-rekem/images/</loc>
     <priority>0</priority>
   </url>
@@ -1335,6 +1395,11 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/germania_superior/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/germania_superior/oberentfelden/images/</loc>
     <priority>0</priority>
   </url>
@@ -1365,6 +1430,21 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/images/</loc>
     <priority>0</priority>
   </url>
@@ -1385,7 +1465,17 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_15/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_16/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_16/images/</loc>
     <priority>0</priority>
   </url>
   
@@ -1405,12 +1495,27 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_20/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_22/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_22/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_24/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_24/images/</loc>
     <priority>0</priority>
   </url>
   
@@ -1425,12 +1530,377 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_3/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_6/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/house_6/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ii/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iii/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iii/house_23/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iii/house_24/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iii/house_25/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iii/house_3/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iii/house_30/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iii/houses_20&#43;22/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iii/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iv/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iv/house_11/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iv/house_11/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iv/house_2/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iv/house_2/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iv/house_22/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iv/house_9/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iv/house_9/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iv/houses_5&#43;25/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iv/houses_5&#43;25/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_iv/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ix/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ix/house_1/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ix/house_11/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ix/house_12/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ix/house_3/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ix/house_3/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ix/house_5/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ix/house_8/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ix/houses_13-14/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ix/houses_13-14/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ix/houses_9&#43;10/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_ix/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_v/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_v/house_2/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_v/house_3/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_v/houses_3&#43;16/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_v/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vi/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vi/house_11/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vi/house_11/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vi/house_13/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vi/house_13/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vi/house_15/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vi/house_15/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vi/house_4/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vi/house_7/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vi/house_7/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vi/houses_8-9/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vi/houses_8-9/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vi/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vii/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vii/house_1/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vii/house_1/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vii/house_18/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vii/house_7/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vii/house_7/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vii/houses_10-12&#43;19/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vii/houses_10-12&#43;19/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vii/houses_15-17/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vii/houses_2-3/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vii/houses_2-3/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_vii/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_viii/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_viii/house_10/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_viii/house_13/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_viii/house_14/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_viii/house_2/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_viii/house_5/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_viii/house_9/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_viii/house_9/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_viii/houses_17&#43;11/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_i/insula_viii/images/</loc>
     <priority>0</priority>
   </url>
   

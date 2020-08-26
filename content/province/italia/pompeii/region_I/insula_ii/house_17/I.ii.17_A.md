@@ -83,8 +83,7 @@ NEW WAY ↓↓↓↓
 
 ## Images
 
-{{< figure src="../images/Fig_4_I.ii.17_10.13.59.jpg" alt="Fig. 3: I.ii.17; 10.13.59, S.A. Jashemski." title="Fig. 3: I.ii.17; 10.13.59, S.A. Jashemski
-(Rights Statement)." >}}
+{{< figure src="../images/Fig_4_I.ii.17_10.13.59.jpg" alt="Fig. 3: I.ii.17; 10.13.59, S.A. Jashemski." title="Fig. 3: I.ii.17; 10.13.59, S.A. Jashemski (Rights Statement)." >}}
 
 ## Dates
 

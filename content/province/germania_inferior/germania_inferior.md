@@ -37,11 +37,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 # Garden
 * [Rustic villa at Blankenheim-Hülchrath]({{<relref "..">}})
-* <!-- [House of Dionysos (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia_cologne_dionysius.md">}}) -->
-* <!-- [Atrium house (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia_cologne_atrium.md">}}) -->
-* <!-- [Urban house on Gertrudenstrasse (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia_cologne_gertrudenstrasse.md">}}) -->
-* <!-- [Urban house on Wolfsstrasse (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia_cologne_wolfstrasse.md">}}) -->
-* <!-- [Urban house on Lungenstrasse (Colonia Claudia Ara Agrippinensium)]({{<ref "../garden/colonia_cologne_lungenstrasse.md">}}) -->
+* <!-- [House of Dionysos (Colonia Claudia Ara Agrippinensium)](<ref "../garden/colonia_cologne_dionysius.md">}}) -->
+* <!-- [Atrium house (Colonia Claudia Ara Agrippinensium)](<ref "../garden/colonia_cologne_atrium.md">}}) -->
+* <!-- [Urban house on Gertrudenstrasse (Colonia Claudia Ara Agrippinensium)](<ref "../garden/colonia_cologne_gertrudenstrasse.md">}}) -->
+* <!-- [Urban house on Wolfsstrasse (Colonia Claudia Ara Agrippinensium)](<ref "../garden/colonia_cologne_wolfstrasse.md">}}) -->
+* <!-- [Urban house on Lungenstrasse (Colonia Claudia Ara Agrippinensium)](<ref "../garden/colonia_cologne_lungenstrasse.md">}}) -->
 
 ## Maps
 
