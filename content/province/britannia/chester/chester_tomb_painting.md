@@ -57,7 +57,7 @@ Toynbee’s suggestion that a military tombstone from Chester depicting a row of
 
 <!--### Plans-->
 
-### Images
+<!--### Images-->
 
 ### Dates
 

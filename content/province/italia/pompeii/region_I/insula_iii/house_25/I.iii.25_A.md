@@ -87,7 +87,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../images/Region_I_insula_iii.tif" alt="Fig. 2: Plan of Region I, insula iii, plan in Jashemski, *Gardens*, plan 6, p. 26; Fiorelli, *Scavi*, pl. 12." title="Fig. 2: Plan of Region I, insula iii, plan in Jashemski, *Gardens*, plan 6, p. 26; Fiorelli, *Scavi*, pl. 12 (Rights Statement)." >}}
 
-### Images
+<!--### Images-->
 
 
 ### Dates

@@ -63,7 +63,7 @@ archaeological garden \
 
 Very few houses of Mediterranean type have been discovered, and only one can be said with certainty to have had a garden (Fig. 1, G in Fig. 1). The peristyle courtyard was a prominent feature of this house of irregular plan and substantial size near the southern city wall. The house dates to the 3rd century, and it is thought to have been a clubhouse or *schola* for young men (*collegium iuventutis*), complete with a bath suite. In the middle of the courtyard, framed on four sides by a low wall supporting columns, was a square masonry pool (Fig. 2). In the center of the pool was a fountain consisting of a small marble satyr standing on a column of the same material. This decorative element and the unpaved ground strongly suggest the existence of a garden.
 
-### Maps
+<!--### Maps-->
 
 
 ### Plans

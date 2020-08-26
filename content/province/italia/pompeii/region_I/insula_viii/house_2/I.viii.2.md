@@ -69,7 +69,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../images/Region_I_insula_8.tif" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." title="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement)." >}}
 
-### Images
+<!--### Images-->
 
 ### Dates
 

@@ -64,7 +64,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../images/Region_I_insula_ix.tif" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." title="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement)." >}}
 
-### Images
+<!--### Images-->
 
 
 ### Dates

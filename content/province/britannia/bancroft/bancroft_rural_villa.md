@@ -65,13 +65,13 @@ From the two projecting wings of the house at the northeast and southeast two wa
 
 The villa complex that preceded the winged corridor house is also of interest in regard to gardens. The earlier aisled house of late 1st to late 2nd century date was part of a series of buildings and enclosures that included a walled area to the northeast measuring 27 x 18.3 meters in size. Inside this enclosure was a deposit of dark humic soil between 4 and 6 centimeters deep. Environmental analysis of soil samples from the enclosure suggests that the area was used as a kitchen garden with plants such as brassicas, celery, mustard, coriander, summer savory and caper spurge. Three ceramic vessels with at least one hole pierced through the side or the base, possibly planting pots, may have been associated with this phase of the villa garden.
 
-### Maps
+<!--### Maps-->
 
 ### Plans
 
 {{< figure src="../images/Bancroft_fig_1.jpg" alt="Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4." title="Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.(Rights statement.)" >}}
 
-### Images
+<!--### Images-->
 
 ### Dates
 

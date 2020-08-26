@@ -61,14 +61,14 @@ The modest house of this *villa rustica* is of the so-called corridor type, a ty
 
 On the southeast of the house was a vestibule, from which a central corridor departed at a 90 degree angle. This corridor divided the house into two parts of equal width. Two walls at right angles to the house at the northeast enclosed an area in which the excavators found "fine garden soil." This observation allows the reconstruction of a garden, probably a kitchen garden, next to the house (G in Fig. 1).
 
-### Maps
+<!--### Maps-->
 
 
 ### Plans
 
 {{< figure src="../images/PAN_WID_Villa_M_Carroll.tif" alt="Fig. 1: Plan of the farmhouse with a garden plot (G) enclosed by walls. Adapted from Thomas 1964, fig. 107." title="Fig. 1: Plan of the farmhouse with a garden plot (G) enclosed by walls. Adapted from Thomas 1964, fig. 107.(Rights statement.)" >}}
 
-### Images
+<!--### Images-->
 
 
 ### Dates

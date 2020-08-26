@@ -60,14 +60,14 @@ archaeological garden \
 
 The regional house type found often in Pannonia, the so-called corridor house, is characterized by a vestibule or arcade on its narrow front and a central corridor running the length of the house, separating it into two parts. One of these houses (B on plan) on a street corner in Carnuntum exhibits this plan clearly (Fig. 1). South of the house, facing the street and separate from it, are various rooms which were interpreted as shops and workshops. North of the house is an open unpaved courtyard which is usually assumed to have been a garden, perhaps a kitchen garden (G on plan). The neighboring house (A in Fig. 1) to the east is of similar plan, if somewhat more irregular, and it too has an open courtyard at the north (G on plan).
 
-### Maps
+<!--### Maps-->
 
 
 ### Plans
 
 {{< figure src="../images/PAN_CAR_House 1_M Carroll.tif" alt="Fig. 1: Plan of houses (A) and (B), with possible garden courtyards (G) at the rear. Adapted from Jobst 1983, fig. p. 144." title="Fig. 1: Plan of houses (A) and (B), with possible garden courtyards (G) at the rear. Adapted from Jobst 1983, fig. p. 144.(Rights statement.)" >}}
 
-### Images
+<!--### Images-->
 
 
 ### Dates

@@ -21,7 +21,7 @@
 - [x] Check for any ">>>>>>" merge conflict stuff in the articles
 - [x] Take every heading down one level
 - [ ] Add a takedown notice (copy from DCAA/DSCC)
-- [ ] Suppress empty headings
+- [x] Suppress empty headings
 - [ ] Finish creating documentation
 - [ ] Change keywords to bulleted list
 
