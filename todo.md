@@ -5,10 +5,10 @@
 - [ ] Check all the keywords for one standard getty url
 - [ ] Check for all comments containing some mention of "cross references", add links to relevant pages
 - [ ] Go through punchlist for each article
-- [ ] Get province information into general province page (somehow)
+- [x] Get province information into general province page (somehow)
 - [x] Get keywords into tags list in header (as in bancroft example)
 - [x] Get geographic regions into sidebar using categories list (as in bancroft)
-- [ ] DONT Put `lead:` in the header for each article to make loglines/subtitles (e.g. Dalmatia/salona/salona_tomb...)
+- [x] DONT Put `lead:` in the header for each article to make loglines/subtitles (e.g. Dalmatia/salona/salona_tomb...)
 - [ ] Check that all keywords are in controlled vocab (Programmatically)
 - [ ] Figure out why there are so many unattached images (e.g. Achaea Nemea has a figure which is not in the proper images folder)
 - [ ] Deal with empty stuff in headers (by deleting)

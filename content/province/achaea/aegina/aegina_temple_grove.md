@@ -1,5 +1,5 @@
 ---
-title: "Temple grove (Aegina)"
+title: "Temple Grove (Aegina)"
 date: 2020-07-16T09:45:49-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -27,18 +27,18 @@ The provincial capital was [Corinth](https://pleiades.stoa.org/places/570182). U
 [Aegina]({{<relref ".">}}) \
 [Aegina (Perseus)](https://pleiades.stoa.org/places/579844)
 
-### Location Description
+<!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-## Sublocation
+<!--## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+<!--### Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -57,19 +57,19 @@ Temple Grove
 
 Evidence for a temple grove on Aegina exists only in a literary reference. Pausanias [(2.29.6)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.29.6) wrote that the shrine of Aiakos was surrounded by a grove of olive trees. Pausanias says that it had been there since ancient times, and a reference in 464 B.C. to the grove in Pindar’s *Olympian Odes* [(13.109)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0033.tlg001.perseus-eng1:13) confirms that it was much older. This sanctuary was located in a prominent spot in the harbor town and was enclosed within a wall built of white stone. At the time of Pausanias’ travels in Greece in the 2nd century A.D., the temple grove was still to be seen.
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Plans
+<!--### Plans-->
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+<!--### Images-->
 
 <!--
 {{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -85,7 +85,7 @@ Much older than 464 BCE, lasting until after the 2nd century CE
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-#### Periodo ID
+<!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 

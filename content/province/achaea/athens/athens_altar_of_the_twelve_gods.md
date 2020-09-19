@@ -4,7 +4,7 @@ date: 2020-07-26T10:20:19-04:00
 article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
 editor: Amartya Shri
-draft: true
+draft: false
 
 categories:
  - "Achaea"

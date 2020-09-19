@@ -4,7 +4,7 @@ date: 2020-07-16T09:48:03-04:00
 article_id: ARTICLE_ID
 author: AUTHOR_NAME
 editor: Amartya Shri
-draft: true
+draft: false
 ---
 
 ## Province
@@ -27,7 +27,7 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 ## Sublocation
 
-Gardens of Epicurus
+Gardens of Epicurus \
 Neapolatonic School near the Areopagus (Omega House)
 
 <!--### Sublocation Description-->
@@ -42,7 +42,6 @@ Athenian Schools of Philosophy
 ### Keywords
 
 #### Gardens of Epicurus
-[]()
 
 #### Neopolatonic School near the Areopagus (Omega House)
 
