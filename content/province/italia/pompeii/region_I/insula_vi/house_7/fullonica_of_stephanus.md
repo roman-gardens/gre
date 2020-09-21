@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: June Dorsch
-draft: true
+draft: false
 
 categories:
  - "Italia"
@@ -14,7 +14,7 @@ categories:
 
 ## Province
 
-[Italia]({{<relref "..">}})
+[Italia]({{<relref "../../../..">}})
 
 <!--### Province Description-->
 
@@ -23,7 +23,7 @@ categories:
 
 ## Location
 
-[Pompeii]({{<relref ".">}}) \
+[Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 <!--### Location Description-->
@@ -32,7 +32,7 @@ categories:
 
 ## Sublocation
 
-[Region I]({{<relref ".">}})
+[Region I]({{<relref "../..">}})
 
 <!--### Sublocation Description-->
 
@@ -40,11 +40,11 @@ categories:
 
 ## Insula
 
-Insula vi
+[Insula VI]({{<relref "..">}})
 
 ## House
 
-House 7
+[House 7]({{<relref ".">}})
 
 ## Garden
 
@@ -52,13 +52,12 @@ Fullonica of Stephanus (I.vi.7)
 
 ### Keywords
 
-archaeological garden \
-
-fullery \
-[gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565) \
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
-[pillars](http://vocab.getty.edu/page/aat/300264605) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [archaeological garden](#)
+- [fullery](#)
+- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
+- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [pillars](http://vocab.getty.edu/page/aat/300264605)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description
 
@@ -77,9 +76,9 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< figure src="../../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_vi.tif" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." title="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement)." >}}
+{{< figure src="../../images/Region_I_insula_vi.tif" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." title="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement)." >}}
 
 ### Images
 

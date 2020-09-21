@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan
-draft: true
+draft: false
 
 categories:
  - "Germania Inferior"
@@ -49,12 +49,11 @@ Rural villa at Voerendaal
 
 ### Keywords
 
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
-rustic villas  
-[porticoes](http://vocab.getty.edu/page/aat/300004145)  
-[piscinae]( http://vocab.getty.edu/page/aat/300375619)    
-[hedges](http://vocab.getty.edu/page/aat/300266413)  
-[courtyards](http://vocab.getty.edu/page/aat/300004095)  
+- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [hedges](http://vocab.getty.edu/page/aat/300266413)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 
 ### Garden Description

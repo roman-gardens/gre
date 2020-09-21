@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: June Dorsch
-draft: true
+draft: false
 
 categories:
  - "Italia"
@@ -14,24 +14,28 @@ categories:
 
 ## Province
 
-[Italia]({{<relref "..">}})
+[Italia]({{<relref "../../../..">}})
 
 ## Location
 
-[Pompeii]({{<relref ".">}}) \
+[Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 ## Sublocation
 
-[Region I]({{<relref ".">}})
+[Region I]({{<relref "../..">}})
+
+<!--### Sublocation Description-->
+
+<!-- DESCRIPTION -->
 
 ## Insula
 
-Insula ix
+[Insula IX]({{<relref "..">}})
 
 ## House
 
-Houses 13-14
+[House 13-14]({{<relref ".">}})
 
 ## Garden
 
@@ -39,19 +43,19 @@ House of Ceres; Casa di Cerere (I.ix.13-14)
 
 ### Keywords
 
-amorini \
-archaeological garden \
-[basins (vessels)](http://vocab.getty.edu/page/aat/300045614) \
-[colonnades](http://vocab.getty.edu/page/aat/300002613) \
-[fountains](http://vocab.getty.edu/page/aat/300006179) \
-[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-[statues](http://vocab.getty.edu/page/aat/300047600) \
-[statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262) \
-[tablina](http://vocab.getty.edu/page/aat/300004180) \
-[triclinia](http://vocab.getty.edu/page/aat/300004359) \
-[vases](http://vocab.getty.edu/page/aat/300132254)
+- [amorini](#)
+- [archaeological garden](#)
+- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [colonnades](http://vocab.getty.edu/page/aat/300002613)
+- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
+- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [statues](http://vocab.getty.edu/page/aat/300047600)
+- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
+- [tablina](http://vocab.getty.edu/page/aat/300004180)
+- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [vases](http://vocab.getty.edu/page/aat/300132254)
 
 ### Garden Description
 
@@ -70,9 +74,9 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< figure src="../../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_ix.tif" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." title="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement)." >}}
+{{< figure src="../../images/Region_I_insula_ix.tif" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." title="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement)." >}}
 
 ### Images
 

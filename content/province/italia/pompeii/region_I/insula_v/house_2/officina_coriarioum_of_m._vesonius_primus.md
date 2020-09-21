@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: June Dorsch
-draft: true
+draft: false
 
 categories:
  - "Italia"
@@ -14,7 +14,7 @@ categories:
 
 ## Province
 
-[Italia]({{<relref "..">}})
+[Italia]({{<relref "../../../..">}})
 
 <!--### Province Description-->
 
@@ -23,7 +23,7 @@ categories:
 
 ## Location
 
-[Pompeii]({{<relref ".">}}) \
+[Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 <!--### Location Description-->
@@ -32,7 +32,7 @@ categories:
 
 ## Sublocation
 
-[Region I]({{<relref ".">}})
+[Region I]({{<relref "../..">}})
 
 <!--### Sublocation Description-->
 
@@ -40,11 +40,11 @@ categories:
 
 ## Insula
 
-Insula v
+[Insula V]({{<relref "..">}})
 
 ## House
 
-House 2
+[House 2]({{<relref ".">}})
 
 ## Garden
 
@@ -52,15 +52,14 @@ Officina Coriarioum of M. Vesonius Primus (I.v.2)
 
 ### Keywords
 
-archaeological garden \
-
-[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
-[opus signinum](http://vocab.getty.edu/page/aat/300379969) \
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
-[pillars](http://vocab.getty.edu/page/aat/300264605) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-[tables (support furniture)](http://vocab.getty.edu/page/aat/300039548) \
-[triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [archaeological garden](#)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [pillars](http://vocab.getty.edu/page/aat/300264605)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
+- [triclinia](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 
@@ -79,9 +78,9 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< figure src="../../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_v.tif" alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." title="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10 (Rights Statement)." >}}
+{{< figure src="../../images/Region_I_insula_v.tif" alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." title="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10 (Rights Statement)." >}}
 
 <!--### Images-->
 

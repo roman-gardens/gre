@@ -11,11 +11,32 @@
 	</div>
 	{{- end }}
 	{{- if .Sections -}}
-	{{- range .Sections -}}
-	{{- range .Data.Pages -}}
-		{{- .Render "summary" }}
-	{{- end -}}
-	{{- end -}}
+		{{- range .Sections -}}
+			{{- range .Data.Pages -}}
+				{{- .Render "summary" }}
+			{{- end -}}
+			{{- if .Sections -}}
+				{{- range .Sections -}}
+					{{- range .Data.Pages -}}
+						{{- .Render "summary" }}
+					{{- end -}}
+					{{- if .Sections -}}
+						{{- range .Sections -}}
+							{{- range .Data.Pages -}}
+								{{- .Render "summary" }}
+							{{- end -}}
+							{{- if .Sections -}}
+								{{- range .Sections -}}
+									{{- range .Data.Pages -}}
+										{{- .Render "summary" }}
+									{{- end -}}
+								{{- end -}}
+							{{- end -}}
+						{{- end -}}
+					{{- end -}}
+				{{- end -}}
+			{{- end -}}
+		{{- end -}}
 	{{- end -}}
 	{{- range .Paginator.Pages }}
 		{{- .Render "summary" }}

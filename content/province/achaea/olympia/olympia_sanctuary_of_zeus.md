@@ -4,7 +4,7 @@ date: 2020-07-27T08:52:42-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
-draft: true
+draft: false
 
 categories:
  - "Achaea"
@@ -66,7 +66,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 <!--### Plans-->
@@ -82,7 +82,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

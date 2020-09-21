@@ -60,16 +60,16 @@ Structures under the Collège Lumière in Vesontio
 
 ### Keywords
 
-[colonnades](http://vocab.getty.edu/page/aat/300002613) \
-[kraters](http://vocab.getty.edu/page/aat/300198855) \
-[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
-[opus signinum](http://vocab.getty.edu/page/aat/300379969) \
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
-[piscinae](http://vocab.getty.edu/page/aat/300375619) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-[reception rooms](http://vocab.getty.edu/page/aat/300077176) \
-[rinceaux](http://vocab.getty.edu/page/aat/300165495) \
-[terrazzo](http://vocab.getty.edu/page/aat/300011696)
+- [colonnades](http://vocab.getty.edu/page/aat/300002613)
+- [kraters](http://vocab.getty.edu/page/aat/300198855)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
+- [rinceaux](http://vocab.getty.edu/page/aat/300165495)
+- [terrazzo](http://vocab.getty.edu/page/aat/300011696)
 
 ### Garden Description
 

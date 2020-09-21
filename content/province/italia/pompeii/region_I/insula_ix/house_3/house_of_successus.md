@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: June Dorsch
-draft: true
+draft: false
 
 categories:
  - "Italia"
@@ -14,24 +14,28 @@ categories:
 
 ## Province
 
-[Italia]({{<relref "..">}})
+[Italia]({{<relref "../../../..">}})
 
 ## Location
 
-[Pompeii]({{<relref ".">}}) \
+[Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 ## Sublocation
 
-[Region I]({{<relref ".">}})
+[Region I]({{<relref "../..">}})
+
+<!--### Sublocation Description-->
+
+<!-- DESCRIPTION -->
 
 ## Insula
 
-Insula ix
+[Insula IX]({{<relref "..">}})
 
 ## House
 
-House 3
+[House 3]({{<relref ".">}})
 
 ## Garden
 
@@ -39,16 +43,16 @@ House of Successus (I.ix.3)
 
 ### Keywords
 
-archaeological garden \
-[atriums](http://vocab.getty.edu/page/aat/300004097) \
-[cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367) \
-[graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613) \
-inscription \
-[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-[statues](http://vocab.getty.edu/page/aat/300047600) \
-[statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262) \
-[tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
+- [archaeological garden](#)
+- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367)
+- [graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613)
+- [inscription](#)
+- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [statues](http://vocab.getty.edu/page/aat/300047600)
+- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
+- [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
 
 ### Garden Description
 
@@ -67,17 +71,17 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< figure src="../../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_ix.tif" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." title="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement)." >}}
+{{< figure src="../../images/Region_I_insula_ix.tif" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." title="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement)." >}}
 
 ### Images
 
-{{< figure src="../images/Fig_51_I.ix.3_18.15.59.tif" alt="Fig. 3: 18.15.59, S.A. Jashemski." title="Fig. 3: 18.15.59, S.A. Jashemski (Rights Statement)." >}}
+{{< figure src="../images/Fig_51_I.ix.3_18.15.59.jpg" alt="Fig. 3: 18.15.59, S.A. Jashemski." title="Fig. 3: 18.15.59, S.A. Jashemski (Rights Statement)." >}}
 
-{{< figure src="../images/Fig_52_I.ix.3_18.16.59.tif" alt="Fig. 4: 18.16.59, S.A. Jashemski." title="Fig. 4: 18.16.59, S.A. Jashemski (Rights Statement)." >}}
+{{< figure src="../images/Fig_52_I.ix.3_18.16.59.jpg" alt="Fig. 4: 18.16.59, S.A. Jashemski." title="Fig. 4: 18.16.59, S.A. Jashemski (Rights Statement)." >}}
 
-{{< figure src="../images/Fig_53_I.ix.3_18.22.59.tif" alt="Fig. 5: 18.22.59, S.A. Jashemski." title="Fig. 5: 18.22.59, S.A. Jashemski (Rights Statement)." >}}
+{{< figure src="../images/Fig_53_I.ix.3_18.22.59.jpg" alt="Fig. 5: 18.22.59, S.A. Jashemski." title="Fig. 5: 18.22.59, S.A. Jashemski (Rights Statement)." >}}
 
 ### Dates
 

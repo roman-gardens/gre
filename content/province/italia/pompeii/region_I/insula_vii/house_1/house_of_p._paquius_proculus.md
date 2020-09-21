@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: June Dorsch
-draft: true
+draft: false
 
 categories:
  - "Italia"
@@ -14,24 +14,28 @@ categories:
 
 ## Province
 
-[Italia]({{<relref "..">}})
+[Italia]({{<relref "../../../..">}})
 
 ## Location
 
-[Pompeii]({{<relref ".">}}) \
+[Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 ## Sublocation
 
-[Region I]({{<relref ".">}})
+[Region I]({{<relref "../..">}})
+
+<!--### Sublocation Description-->
+
+<!-- DESCRIPTION -->
 
 ## Insula
 
-Insula vii
+[Insula VII]({{<relref "..">}})
 
 ## House
 
-House 1
+[House 1]({{<relref ".">}})
 
 ## Garden
 
@@ -39,19 +43,19 @@ House of P. Paquius Proculus [Della Corte, Maiuri]; House of C. Cuspius Pansa [S
 
 ### Keywords
 
-archaeological garden \
-[basins (vessels)](http://vocab.getty.edu/page/aat/300045614) \
-[columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571) \
-[gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565) \
-[loggias](http://vocab.getty.edu/page/aat/300004137) \
-[oeci](http://vocab.getty.edu/page/aat/300080791) \
-[pergolas](http://vocab.getty.edu/page/aat/300006783) \
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
-[piscinae]( http://vocab.getty.edu/page/aat/300375619) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-puteal \
-[tablina](http://vocab.getty.edu/page/aat/300004180) \
-[triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [archaeological garden](#)
+- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
+- [loggias](http://vocab.getty.edu/page/aat/300004137)
+- [oeci](http://vocab.getty.edu/page/aat/300080791)
+- [pergolas](http://vocab.getty.edu/page/aat/300006783)
+- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [puteal](#)
+- [tablina](http://vocab.getty.edu/page/aat/300004180)
+- [triclinia](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 
@@ -70,9 +74,9 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< figure src="../../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_vii.tif" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." title="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement)." >}}
+{{< figure src="../../images/Region_I_insula_vii.tif" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." title="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement)." >}}
 
 ### Images
 

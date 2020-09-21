@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: June Dorsch
-draft: true
+draft: false
 
 categories:
  - "Italia"
@@ -14,24 +14,28 @@ categories:
 
 ## Province
 
-[Italia]({{<relref "..">}})
+[Italia]({{<relref "../../../..">}})
 
 ## Location
 
-[Pompeii]({{<relref ".">}}) \
+[Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 ## Sublocation
 
-[Region I]({{<relref ".">}})
+[Region I]({{<relref "../..">}})
+
+<!--### Sublocation Description-->
+
+<!-- DESCRIPTION -->
 
 ## Insula
 
-Insula vi
+[Insula VI]({{<relref "..">}})
 
 ## House
 
-Houses 11
+[House 11]({{<relref ".">}})
 
 ## Garden
 
@@ -39,14 +43,13 @@ Casa Dei Quadretti Teatralli; House of the Calavii (I.vi.11)
 
 ### Keywords
 
-archaeological garden \
-
-[cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \
-[columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571) \
-[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-puteal \
-[wine cellars](http://vocab.getty.edu/page/aat/300004762)
+- [archaeological garden](#)
+- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [puteal](#)
+- [wine cellars](http://vocab.getty.edu/page/aat/300004762)
 
 ### Garden Description
 
@@ -54,9 +57,9 @@ A partially completed wall joined the columns supporting the *portico* at the re
 
 ### Plans
 
-{{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< figure src="../../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_vi.tif" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." title="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement)." >}}
+{{< figure src="../../images/Region_I_insula_vi.tif" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." title="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement)." >}}
 
 ### Images
 

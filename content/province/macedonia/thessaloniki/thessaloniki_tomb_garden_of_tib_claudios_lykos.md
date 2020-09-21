@@ -50,9 +50,9 @@ Tomb Garden of Ti. Claudios Lykos
 
 ### Keywords
 
-[tombs](http://vocab.getty.edu/page/aat/300005926) \
-[sarcophagi](http://vocab.getty.edu/page/aat/300005947) \
-[epitaphs](http://vocab.getty.edu/page/aat/300028729)
+- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- [sarcophagi](http://vocab.getty.edu/page/aat/300005947)
+- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
 
 ### Garden Description
 

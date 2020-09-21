@@ -51,13 +51,13 @@ Urban House or Schola in Aquincum
 
 ### Keywords
 
-archaeological garden \
-[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347) \
-[fountains](http://vocab.getty.edu/page/aat/300006179) \
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
-[piscinae]( http://vocab.getty.edu/page/aat/300375619) \
-[statues](http://vocab.getty.edu/page/aat/300047600) \
-[statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
+- [archaeological garden](#)
+- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [statues](http://vocab.getty.edu/page/aat/300047600)
+- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 
 ### Garden Description
 

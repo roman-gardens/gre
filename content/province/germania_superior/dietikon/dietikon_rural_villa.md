@@ -51,14 +51,13 @@ Rural Villa in Dietikon
 
 ### Keywords
 
-archaeological garden \
-[axial plan](http://vocab.getty.edu/page/aat/300121971) \
-[corridors](http://vocab.getty.edu/page/aat/300004294) \
-[pergolas](http://vocab.getty.edu/page/aat/300006783) \
-[piscinae](http://vocab.getty.edu/page/aat/300375619) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-rural villas \
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- [archaeological garden](#)
+- [axial plan](http://vocab.getty.edu/page/aat/300121971)
+- [corridors](http://vocab.getty.edu/page/aat/300004294)
+- [pergolas](http://vocab.getty.edu/page/aat/300006783)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ### Garden Description
 

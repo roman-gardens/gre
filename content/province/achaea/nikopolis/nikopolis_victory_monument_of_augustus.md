@@ -77,20 +77,20 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
-{{< figure src="../../images/EUR_ACH_Nikopolis_Altar Fig_2 plan with pots.tif" alt="Fig. 2: State plan of the monument.  Courtesy of K. L. Zachos." title="Fig. 2: State plan of the monument.  Courtesy of K. L. Zachos." >}}
+{{< figure src="../images/EUR_ACH_Nikopolis_Altar Fig_2 plan with pots.tif" alt="Fig. 2: State plan of the monument.  Courtesy of K. L. Zachos." title="Fig. 2: State plan of the monument.  Courtesy of K. L. Zachos." >}}
 
 ### Images
 
 
-{{< figure src="../../images/EUR_ACH_Nikopolis_Altar Fig_1 Reconstruction.tif" alt="Fig. 1: Provisional reconstruction of the monument, based on the evidence from the recent excavations. Drawing courtesy of K. L. Zachos." title="Fig. 1: Provisional reconstruction of the monument, based on the evidence from the recent excavations. Drawing courtesy of K. L. Zachos." >}}
+{{< figure src="../images/EUR_ACH_Nikopolis_Altar Fig_1 Reconstruction.tif" alt="Fig. 1: Provisional reconstruction of the monument, based on the evidence from the recent excavations. Drawing courtesy of K. L. Zachos." title="Fig. 1: Provisional reconstruction of the monument, based on the evidence from the recent excavations. Drawing courtesy of K. L. Zachos." >}}
 
 
-{{< figure src="../../images/EUR_ACH_Nikopolis_Altar Fig_3 planting pots.tif" alt="Fig. 3: Clay planting pots. Photo courtesy of K. L. Zachos." title="Fig. 3: Clay planting pots. Photo courtesy of K. L. Zachos." >}}
+{{< figure src="../images/EUR_ACH_Nikopolis_Altar Fig_3 planting pots.tif" alt="Fig. 3: Clay planting pots. Photo courtesy of K. L. Zachos." title="Fig. 3: Clay planting pots. Photo courtesy of K. L. Zachos." >}}
 
 ### Dates
 

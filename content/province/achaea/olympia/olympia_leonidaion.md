@@ -65,13 +65,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
 
-{{< figure src="../../images/EUR_ACH_Olympia_Leonidaion Fig 1.jpg" alt="Fig. 2: Plan of the Leonidaion with its quatrefoil and circular gardens (white) and planting beds (b) surrounded by water channels (stippled) in the courtyard. Adapted from Mallwitz 1972, fig. 201." title="Fig. 2: Plan of the Leonidaion with its quatrefoil and circular gardens (white) and planting beds (b) surrounded by water channels (stippled) in the courtyard. Adapted from Mallwitz 1972, fig. 201." >}}
+{{< figure src="../images/EUR_ACH_Olympia_Leonidaion Fig 1.jpg" alt="Fig. 2: Plan of the Leonidaion with its quatrefoil and circular gardens (white) and planting beds (b) surrounded by water channels (stippled) in the courtyard. Adapted from Mallwitz 1972, fig. 201." title="Fig. 2: Plan of the Leonidaion with its quatrefoil and circular gardens (white) and planting beds (b) surrounded by water channels (stippled) in the courtyard. Adapted from Mallwitz 1972, fig. 201." >}}
 
 <!--### Images-->
 
@@ -81,7 +81,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

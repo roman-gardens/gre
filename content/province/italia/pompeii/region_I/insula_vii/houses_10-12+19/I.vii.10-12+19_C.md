@@ -1,11 +1,11 @@
 ---
-title: "I.vii.10-12/19 B"
+title: "I.vii.10-12/19 C"
 date: 2020-08-08T18:40:44-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: June Dorsch
-draft: true
+draft: false
 
 categories:
  - "Italia"
@@ -14,24 +14,28 @@ categories:
 
 ## Province
 
-[Italia]({{<relref "..">}})
+[Italia]({{<relref "../../../..">}})
 
 ## Location
 
-[Pompeii]({{<relref ".">}}) \
+[Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 ## Sublocation
 
-[Region I]({{<relref ".">}})
+[Region I]({{<relref "../..">}})
+
+<!--### Sublocation Description-->
+
+<!-- DESCRIPTION -->
 
 ## Insula
 
-Insula vii
+[Insula VII]({{<relref "..">}})
 
 ## House
 
-Houses 10-12/19
+[House 10-12/19]({{<relref ".">}})
 
 ## Garden
 
@@ -39,12 +43,11 @@ I.vii.10-12/19
 
 ### Keywords
 
-archaeological garden \
-
-[impluvia](http://vocab.getty.edu/page/aat/300129867) \
-[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
-[tablina](http://vocab.getty.edu/page/aat/300004180) \
-[water wells](http://vocab.getty.edu/page/aat/300152327)
+- [archaeological garden](#)
+- [impluvia](http://vocab.getty.edu/page/aat/300129867)
+- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
+- [tablina](http://vocab.getty.edu/page/aat/300004180)
+- [water wells](http://vocab.getty.edu/page/aat/300152327)
 
 ### Garden Description
 
@@ -63,13 +66,13 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< figure src="../../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_vii.tif" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." title="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement)." >}}
+{{< figure src="../../images/Region_I_insula_vii.tif" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." title="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement)." >}}
 
 ### Images
 
-{{< figure src="../images/Fig_47_I.vii.12_3.35.72.jpg" alt="Fig. 3: I.vii. 3.35.72, S.A. Jashemski." title="Fig. 3: I.vii. 3.35.72, S.A. Jashemski (Rights Statement)." >}}
+{{< figure src="../images/Fig_47_I.vii.12_13.19.59.jpg" alt="Fig. 3: I.vii. 3.35.72, S.A. Jashemski." title="Fig. 3: I.vii. 3.35.72, S.A. Jashemski (Rights Statement)." >}}
 
 ### Dates
 

@@ -50,9 +50,9 @@ House in Insula 16 in Aventicum
 
 ### Keywords
 
-[colonnades](http://vocab.getty.edu/page/aat/300002613) \
-[insulae](http://vocab.getty.edu/page/aat/300000325) \
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [colonnades](http://vocab.getty.edu/page/aat/300002613)
+- [insulae](http://vocab.getty.edu/page/aat/300000325)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 ### Garden Description
 

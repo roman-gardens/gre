@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: June Dorsch
-draft: true
+draft: false
 
 categories:
  - "Italia"
@@ -14,24 +14,28 @@ categories:
 
 ## Province
 
-[Italia]({{<relref "..">}})
+[Italia]({{<relref "../../../..">}})
 
 ## Location
 
-[Pompeii]({{<relref ".">}}) \
+[Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 ## Sublocation
 
-[Region I]({{<relref ".">}})
+[Region I]({{<relref "../..">}})
+
+<!--### Sublocation Description-->
+
+<!-- DESCRIPTION -->
 
 ## Insula
 
-Insula vii
+[Insula VII]({{<relref "..">}})
 
 ## House
 
-House 7
+[House 7]({{<relref ".">}})
 
 ## Garden
 
@@ -39,19 +43,18 @@ House of the Priest Amandus (I.vii.7)
 
 ### Keywords
 
-[aedicules](http://vocab.getty.edu/page/aat/300002574) \
-archaeological garden \
-[atriums](http://vocab.getty.edu/page/aat/300004097) \
-
-[cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \
-[columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571) \
-[engaged columns](http://vocab.getty.edu/page/aat/300001638) \
-[lararia](http://vocab.getty.edu/page/aat/300400600) \
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-puteal \
-[tables (support furniture)](http://vocab.getty.edu/page/aat/300039548) \
-[triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [aedicules](http://vocab.getty.edu/page/aat/300002574)
+- [archaeological garden](#)
+- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [engaged columns](http://vocab.getty.edu/page/aat/300001638)
+- [lararia](http://vocab.getty.edu/page/aat/300400600)
+- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [puteal](#)
+- [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
+- [triclinia](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 
@@ -70,9 +73,9 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< figure src="../../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_vii.tif" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." title="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement)." >}}
+{{< figure src="../../images/Region_I_insula_vii.tif" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." title="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement)." >}}
 
 ### Images
 

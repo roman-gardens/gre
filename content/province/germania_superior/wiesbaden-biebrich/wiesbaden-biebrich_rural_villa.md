@@ -51,9 +51,8 @@ Rural Villa in Wiesbaden-Biebrich
 
 archaeological garden \
 
-[kitchen gardens](http://vocab.getty.edu/page/aat/300008110) \
-rural villas \
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
+- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ### Garden Description
 

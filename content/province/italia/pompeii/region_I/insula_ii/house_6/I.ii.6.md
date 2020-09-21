@@ -1,11 +1,11 @@
 ---
-title: "I.ii"
+title: "I.ii.6"
 date: 2020-07-24T12:44:41-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: June Dorsch
-draft: true
+draft: false
 
 categories:
  - "Italia"
@@ -19,7 +19,7 @@ tags:
 
 ## Province
 
-[Italia]({{<relref "..">}})
+[Italia]({{<relref "../../../..">}})
 
 <!--### Province Description-->
 
@@ -28,7 +28,7 @@ tags:
 
 ## Location
 
-[Pompeii]({{<relref ".">}}) \
+[Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 <!--### Location Description-->
@@ -37,7 +37,7 @@ tags:
 
 ## Sublocation
 
-[Region I]({{<relref ".">}})
+[Region I]({{<relref "../..">}})
 
 <!--### Sublocation Description-->
 
@@ -45,11 +45,11 @@ tags:
 
 ## Insula
 
-Insula ii
+[Insula II]({{<relref "..">}})
 
 ## House
 
-House 6
+[House 6]({{<relref ".">}})
 
 ## Garden
 
@@ -57,15 +57,15 @@ I.ii.6
 
 ### Keywords
 
-archaeological garden \
-[atriums](http://vocab.getty.edu/page/aat/300004097) \
-[graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613) \
-[gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565) \
-inscription \
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
-[piscinae](http://vocab.getty.edu/page/aat/300375619) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-puteal  
+- [archaeological garden](#)
+- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613)
+- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
+- [inscription](#)
+- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [puteal](#)
 
 ### Garden Description
 
@@ -84,9 +84,9 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< figure src="../../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Fig_2_Region_I_insula_ii.tif" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
+{{< figure src="../../../images/Fig_2_Region_I_insula_ii.tif" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
 
 <!--### Images-->
 

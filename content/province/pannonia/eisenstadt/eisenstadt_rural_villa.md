@@ -53,14 +53,13 @@ Rural Villa in Eisenstadt
 
 ### Keywords
 
-[altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725) \
-archaeological garden \
-[atriums](http://vocab.getty.edu/page/aat/300004097) \
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
-[podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-rural villas \
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
+- [archaeological garden](#)
+- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ### Garden Description
 

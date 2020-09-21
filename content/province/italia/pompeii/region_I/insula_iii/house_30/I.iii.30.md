@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: June Dorsch
-draft: true
+draft: false
 
 categories:
  - "Italia"
@@ -14,7 +14,7 @@ categories:
 
 ## Province
 
-[Italia]({{<relref "..">}})
+[Italia]({{<relref "../../../..">}})
 
 <!--### Province Description-->
 
@@ -23,7 +23,7 @@ categories:
 
 ## Location
 
-[Pompeii]({{<relref ".">}}) \
+[Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 <!--### Location Description-->
@@ -32,7 +32,7 @@ categories:
 
 ## Sublocation
 
-[Region I]({{<relref ".">}})
+[Region I]({{<relref "../..">}})
 
 <!--### Sublocation Description-->
 
@@ -40,11 +40,11 @@ categories:
 
 ## Insula
 
-Insula iii
+[Insula III]({{<relref "..">}})
 
 ## House
 
-House 30
+[House 30]({{<relref ".">}})
 
 ## Garden
 
@@ -52,13 +52,13 @@ I.iii.30
 
 ### Keywords
 
-amorini \
-archaeological garden \
-[bas-reliefs (sculpture)](http://vocab.getty.edu/page/aat/300184633) \
-[busts (sculpture)](http://vocab.getty.edu/page/aat/300417950) \
-[lararia](http://vocab.getty.edu/page/aat/300400600) \
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [amorini](#)
+- [archaeological garden](#)
+- [bas-reliefs (sculpture)](http://vocab.getty.edu/page/aat/300184633)
+- [busts (sculpture)](http://vocab.getty.edu/page/aat/300417950)
+- [lararia](http://vocab.getty.edu/page/aat/300400600)
+- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description
 
@@ -77,9 +77,9 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< figure src="../../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_iii.tif" alt="Fig. 2: Plan of Region I, insula iii, plan in Jashemski, *Gardens*, plan 6, p. 26; Fiorelli, *Scavi*, pl. 12." title="Fig. 2: Plan of Region I, insula iii, plan in Jashemski, *Gardens*, plan 6, p. 26; Fiorelli, *Scavi*, pl. 12 (Rights Statement)." >}}
+{{< figure src="../../images/Region_I_insula_iii.tif" alt="Fig. 2: Plan of Region I, insula iii, plan in Jashemski, *Gardens*, plan 6, p. 26; Fiorelli, *Scavi*, pl. 12." title="Fig. 2: Plan of Region I, insula iii, plan in Jashemski, *Gardens*, plan 6, p. 26; Fiorelli, *Scavi*, pl. 12 (Rights Statement)." >}}
 
 <!--### Images-->
 

@@ -52,9 +52,8 @@ Rural Villa in Ferpicloz
 
 archaeological garden \
 
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-rural villas \
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ### Garden Description
 

@@ -65,18 +65,18 @@ House in the Rue du Palais de Justice in Vesontio
 
 archaeological garden \
 
-[domus](http://vocab.getty.edu/page/aat/300005506) \
-[fountains](http://vocab.getty.edu/page/aat/300006179) \
-[hypocausts](http://vocab.getty.edu/page/aat/300004277) \
-[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
-[opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462) \
-[opus signinum](http://vocab.getty.edu/page/aat/300379969) \
-[oeci](http://vocab.getty.edu/page/aat/300080791) \
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
-[piscinae]( http://vocab.getty.edu/page/aat/300375619) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-[terrazzo](http://vocab.getty.edu/page/aat/300011696) \
-[water wells](http://vocab.getty.edu/page/aat/300152327)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- [hypocausts](http://vocab.getty.edu/page/aat/300004277)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462)
+- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
+- [oeci](http://vocab.getty.edu/page/aat/300080791)
+- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [terrazzo](http://vocab.getty.edu/page/aat/300011696)
+- [water wells](http://vocab.getty.edu/page/aat/300152327)
 
 ### Garden Description
 

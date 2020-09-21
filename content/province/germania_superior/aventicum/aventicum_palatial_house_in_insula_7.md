@@ -55,16 +55,16 @@ Palatial House in Insula 7 in Aventicum
 
 ### Keywords
 
-archaeological garden \
-[axial plan](http://vocab.getty.edu/page/aat/300121971) \
-[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347) \
-[drains](http://vocab.getty.edu/page/aat/300052564) \
-[exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589) \
-[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
-[palaces](http://vocab.getty.edu/page/aat/300005734) \
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
-[piscinae]( http://vocab.getty.edu/page/aat/300375619) \
-[presence chambers](http://vocab.getty.edu/page/aat/300004445)
+- [archaeological garden](#)
+- [axial plan](http://vocab.getty.edu/page/aat/300121971)
+- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [drains](http://vocab.getty.edu/page/aat/300052564)
+- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [palaces](http://vocab.getty.edu/page/aat/300005734)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [presence chambers](http://vocab.getty.edu/page/aat/300004445)
 
 ### Garden Description
 

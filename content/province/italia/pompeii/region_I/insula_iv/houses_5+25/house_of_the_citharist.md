@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: June Dorsch
-draft: true
+draft: false
 
 categories:
  - "Italia"
@@ -14,7 +14,7 @@ categories:
 
 ## Province
 
-[Italia]({{<relref "..">}})
+[Italia]({{<relref "../../../..">}})
 
 <!--### Province Description-->
 
@@ -23,7 +23,7 @@ categories:
 
 ## Location
 
-[Pompeii]({{<relref ".">}}) \
+[Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 <!--### Location Description-->
@@ -32,7 +32,7 @@ categories:
 
 ## Sublocation
 
-[Region I]({{<relref ".">}})
+[Region I]({{<relref "../..">}})
 
 <!--### Sublocation Description-->
 
@@ -40,11 +40,11 @@ categories:
 
 ## Insula
 
-Insula iv
+[Insula IV]({{<relref "..">}})
 
 ## House
 
-Houses 5/25
+[House 5/25]({{<relref ".">}})
 
 ## Garden
 
@@ -53,25 +53,24 @@ Popidus Ampliatus (I.iv.5/25)
 
 ### Keywords
 
-archaeological garden \
-[architraves (entablature)](http://vocab.getty.edu/page/aat/300001780) \
-
-[basins (vessels)](http://vocab.getty.edu/page/aat/300045614) \
-[columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571) \
-[cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \
-[fountains](http://vocab.getty.edu/page/aat/300006179) \
-[gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565) \
-[herms](http://vocab.getty.edu/page/aat/300047170) \
-oscilla \
-[peltae](http://vocab.getty.edu/page/aat/300213495) \
-[piscinae]( http://vocab.getty.edu/page/aat/300375619) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-[predellas](http://vocab.getty.edu/page/aat/300003745) \
-puteal \
-[statues](http://vocab.getty.edu/page/aat/300047600) \
-[statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262) \
-[tondi](http://vocab.getty.edu/page/aat/300033622) \
-[waterspouts](http://vocab.getty.edu/page/aat/300248603)
+- [archaeological garden](#)
+- [architraves (entablature)](http://vocab.getty.edu/page/aat/300001780)
+- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
+- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
+- [herms](http://vocab.getty.edu/page/aat/300047170)
+- [oscilla](#)
+- [peltae](http://vocab.getty.edu/page/aat/300213495)
+- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [predellas](http://vocab.getty.edu/page/aat/300003745)
+- [puteal](#)
+- [statues](http://vocab.getty.edu/page/aat/300047600)
+- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
+- [tondi](http://vocab.getty.edu/page/aat/300033622)
+- [waterspouts](http://vocab.getty.edu/page/aat/300248603)
 
 ### Garden Description
 
@@ -90,9 +89,9 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< figure src="../../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Fig.7_Region_I_insula_iv.tif" alt="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." title="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8 (Rights Statement)." >}}
+{{< figure src="../../images/Fig.7_Region_I_insula_iv.tif" alt="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." title="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8 (Rights Statement)." >}}
 
 ### Images
 

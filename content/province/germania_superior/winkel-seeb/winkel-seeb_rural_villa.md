@@ -50,15 +50,13 @@ Rural Villa in Winkel-Seeb
 
 ### Keywords
 
-archaeological garden \
-
-[corridors](http://vocab.getty.edu/page/aat/300004294) \
-[pergolas](http://vocab.getty.edu/page/aat/300006783) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-rural villas \
-[terrace gardens](http://vocab.getty.edu/page/aat/300404778) \
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518) \
-[well houses](http://vocab.getty.edu/page/aat/300008017)
+- [archaeological garden](#)
+- [corridors](http://vocab.getty.edu/page/aat/300004294)
+- [pergolas](http://vocab.getty.edu/page/aat/300006783)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
+- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- [well houses](http://vocab.getty.edu/page/aat/300008017)
 
 ### Garden Description
 

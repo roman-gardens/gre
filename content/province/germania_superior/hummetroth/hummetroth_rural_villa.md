@@ -51,15 +51,14 @@ Rural Villa in Hummetroth
 
 ### Keywords
 
-apsed triclinium \
-[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347) \
-[corridors](http://vocab.getty.edu/page/aat/300004294) \
-[hypocausts](http://vocab.getty.edu/page/aat/300004277) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-[reception rooms](http://vocab.getty.edu/page/aat/300077176) \
-rural villas \
-[terrace gardens](http://vocab.getty.edu/page/aat/300404778) \
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- [apsed triclinium](#)
+- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [corridors](http://vocab.getty.edu/page/aat/300004294)
+- [hypocausts](http://vocab.getty.edu/page/aat/300004277)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
+- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
+- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ### Garden Description
 

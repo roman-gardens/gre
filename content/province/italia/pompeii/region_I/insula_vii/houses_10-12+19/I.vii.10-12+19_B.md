@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: June Dorsch
-draft: true
+draft: false
 
 categories:
  - "Italia"
@@ -14,24 +14,28 @@ categories:
 
 ## Province
 
-[Italia]({{<relref "..">}})
+[Italia]({{<relref "../../../..">}})
 
 ## Location
 
-[Pompeii]({{<relref ".">}}) \
+[Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 ## Sublocation
 
-[Region I]({{<relref ".">}})
+[Region I]({{<relref "../..">}})
+
+<!--### Sublocation Description-->
+
+<!-- DESCRIPTION -->
 
 ## Insula
 
-Insula vii
+[Insula VII]({{<relref "..">}})
 
 ## House
 
-Houses 10-12/19
+[House 10-12/19]({{<relref ".">}})
 
 ## Garden
 
@@ -39,21 +43,20 @@ I.vii.10-12/19
 
 ### Keywords
 
-archaeological garden \
-
-[cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \
-[columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571) \
-[doliums](http://vocab.getty.edu/page/aat/300400601) \
-[engaged columns](http://vocab.getty.edu/page/aat/300001638) \
-[exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589) \
-[fountains](http://vocab.getty.edu/page/aat/300006179) \
-[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-puteal \
-[stairs](http://vocab.getty.edu/page/aat/300003228) \
-[statues](http://vocab.getty.edu/page/aat/300047600) \
-[statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
+- [archaeological garden](#)
+- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [doliums](http://vocab.getty.edu/page/aat/300400601)
+- [engaged columns](http://vocab.getty.edu/page/aat/300001638)
+- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
+- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
+- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [puteal](#)
+- [stairs](http://vocab.getty.edu/page/aat/300003228)
+- [statues](http://vocab.getty.edu/page/aat/300047600)
+- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 
 ### Garden Description
 
@@ -72,9 +75,9 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< figure src="../../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_vii.tif" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." title="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement)." >}}
+{{< figure src="../../images/Region_I_insula_vii.tif" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." title="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement)." >}}
 
 ### Images
 

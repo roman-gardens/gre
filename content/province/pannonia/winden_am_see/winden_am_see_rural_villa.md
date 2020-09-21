@@ -49,11 +49,11 @@ Rural Villa in Winden Am See
 
 ### Keywords
 
-archaeological garden \
-[corridors](http://vocab.getty.edu/page/aat/300004294) \
-rural villas \
-[vestibules](http://vocab.getty.edu/page/aat/300083076) \
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- [archaeological garden](#)
+- [corridors](http://vocab.getty.edu/page/aat/300004294)
+- [rural villas](#)
+- [vestibules](http://vocab.getty.edu/page/aat/300083076)
+- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ### Garden Description
 

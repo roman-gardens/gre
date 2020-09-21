@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan
-draft: true
+draft: false
 
 categories:
  - "Germania Inferior"
@@ -53,14 +53,14 @@ Niederzier Hambach 69
 
 ### Keywords
 
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
-[fences (site elements)](http://vocab.getty.edu/page/aat/300005044)  
-[ditches](http://vocab.getty.edu/page/aat/300006178)  
-[hedges](http://vocab.getty.edu/page/aat/300266413)  
-[kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
-[orchards](http://vocab.getty.edu/page/aat/300008890)  
-[water wells](http://vocab.getty.edu/page/aat/300152327)  
-[cherry (plant)](http://vocab.getty.edu/page/aat/300375306)
+- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
+- [ditches](http://vocab.getty.edu/page/aat/300006178)
+- [hedges](http://vocab.getty.edu/page/aat/300266413)
+- [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
+- [orchards](http://vocab.getty.edu/page/aat/300008890)
+- [water wells](http://vocab.getty.edu/page/aat/300152327)
+- [cherry (plant)](http://vocab.getty.edu/page/aat/300375306)
 
 ### Garden Description
 

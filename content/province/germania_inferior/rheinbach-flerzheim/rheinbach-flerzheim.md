@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan
-draft: true
+draft: false
 
 categories:
  - "Germania Inferior"
@@ -48,12 +48,11 @@ Rustic villa at Rheinbach-Flerzheim
 
 ### Keywords
 
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)  
-rustic villas  
-[hedges](http://vocab.getty.edu/page/aat/300266413)  
-[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)  
-[kitchen gardens](http://vocab.getty.edu/page/aat/300008110)  
-[piscinae]( http://vocab.getty.edu/page/aat/300375619)  
+- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- [hedges](http://vocab.getty.edu/page/aat/300266413)
+- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
+- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
 
 ### Garden Description
 

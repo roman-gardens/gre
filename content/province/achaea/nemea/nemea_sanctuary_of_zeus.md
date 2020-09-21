@@ -68,17 +68,17 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
-{{< figure src="../../images/EUR_ACH_Nemea_Fig.1.jpg" alt="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings. Adapted from Miller 1978, fig. 2." title="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings. Adapted from Miller 1978, fig. 2." >}}
+{{< figure src="../images/EUR_ACH_Nemea_Fig.1.jpg" alt="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings. Adapted from Miller 1978, fig. 2." title="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings. Adapted from Miller 1978, fig. 2." >}}
 
 
 ### Images
 
-{{< figure src="../../images/Nemea Zeus Temple and Grove Balloon Photo.JPG" alt="Nemea Zeus Temple and Grove Balloon Photo" title="Nemea Zeus Temple and Grove Balloon Photo" >}}
+{{< figure src="../images/Nemea Zeus Temple and Grove Balloon Photo.JPG" alt="Nemea Zeus Temple and Grove Balloon Photo" title="Nemea Zeus Temple and Grove Balloon Photo" >}}
 
 ### Dates
 

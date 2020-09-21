@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: June Dorsch
-draft: true
+draft: false
 
 categories:
  - "Italia"
@@ -14,24 +14,28 @@ categories:
 
 ## Province
 
-[Italia]({{<relref "..">}})
+[Italia]({{<relref "../../../..">}})
 
 ## Location
 
-[Pompeii]({{<relref ".">}}) \
+[Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 ## Sublocation
 
-[Region I]({{<relref ".">}})
+[Region I]({{<relref "../..">}})
+
+<!--### Sublocation Description-->
+
+<!-- DESCRIPTION -->
 
 ## Insula
 
-Insula ix
+[Insula IX]({{<relref "..">}})
 
 ## House
 
-House 1
+[House 1]({{<relref ".">}})
 
 ## Garden
 
@@ -39,17 +43,17 @@ House of the Beautiful Impluvium; Casa del Bell Impluvio (I.ix.1)
 
 ### Keywords
 
-archaeological garden \
-[atriums](http://vocab.getty.edu/page/aat/300004097) \
-[cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367) \
-[fountains](http://vocab.getty.edu/page/aat/300006179) \
-[impluvia](http://vocab.getty.edu/page/aat/300129867) \
-inscription \
-[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
-[pergolas](http://vocab.getty.edu/page/aat/300006783) \
-[peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-[predellas](http://vocab.getty.edu/page/aat/300003745)
+- [archaeological garden](#)
+- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367)
+- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- [impluvia](http://vocab.getty.edu/page/aat/300129867)
+- [inscription](#)
+- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
+- [pergolas](http://vocab.getty.edu/page/aat/300006783)
+- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [predellas](http://vocab.getty.edu/page/aat/300003745)
 
 ### Garden Description
 
@@ -68,9 +72,9 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< figure src="../../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../images/Region_I_insula_ix.tif" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." title="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement)." >}}
+{{< figure src="../../images/Region_I_insula_ix.tif" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." title="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement)." >}}
 
 <!--### Images-->
 

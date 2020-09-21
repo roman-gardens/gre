@@ -4,7 +4,7 @@
 - [x] Make a really cool project
 - [ ] Check all the keywords for one standard getty url
 - [ ] Check for all comments containing some mention of "cross references", add links to relevant pages
-- [ ] Go through punchlist for each article
+- [x] Go through punchlist for each article
 - [x] Get province information into general province page (somehow)
 - [x] Get keywords into tags list in header (as in bancroft example)
 - [x] Get geographic regions into sidebar using categories list (as in bancroft)
@@ -24,7 +24,7 @@
 - [ ] Add a takedown notice (copy from DCAA/DSCC)
 - [x] Suppress empty headings
 - [ ] Finish creating documentation
-- [ ] Change keywords to bulleted list
+- [x] Change keywords to bulleted list
 - [ ] Fix all links that have [text](#) or [text](link)
 
 # Article Punchlist
@@ -56,13 +56,13 @@
 # Image cropping and straightening
 
 - [x] achaea
-- [ ] britannia
-- [ ] dacia_traiana
-- [ ] dalmatia
-- [ ] germania_inferior
-- [ ] germania_superior
-- [ ] macedonia
-- [ ] pannonia
+- [x] britannia
+- [x] dacia_traiana
+- [x] dalmatia
+- [x] germania_inferior
+- [x] germania_superior
+- [x] macedonia
+- [x] pannonia
 
 # Pompeii Notes/Issues
 
@@ -71,7 +71,7 @@
 - [x] Green (additions to entries?). What to do? There appears to be ORANGE now as well.
 - [x] Add span style color families to new green parts of entries.
 - [ ] Someone should relook over the bibs to see if they know what book the author is referring to, as I can't figure it out with just an author last name.
-- [ ] Image PATHs might need modifying.
+- [x] Image PATHs might need modifying.
 - [x] Note to self: relook over entries and add [statue] keyword.
 - [x] Note if it has literary evidence/artifacts.
 - [x] Issue: I have found a entry that is House of Epidius Fortunatus (I.iii.3) and another that is I.iii.3. If there is a distinction, should we make it clearer?

@@ -54,17 +54,16 @@ Rural Villa in Bad Kreuznach
 
 ### Keywords
 
-apsed triclinium  
-[colonnades](http://vocab.getty.edu/page/aat/300002613) \
-[cryptoportici](http://vocab.getty.edu/page/aat/300004295) \
-[fountains](http://vocab.getty.edu/page/aat/300006179) \
-[gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565) \
-[lararia](http://vocab.getty.edu/page/aat/300400600) \
-[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-rural villas \
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- [apsed triclinium](#)
+- [colonnades](http://vocab.getty.edu/page/aat/300002613)
+- [cryptoportici](http://vocab.getty.edu/page/aat/300004295)
+- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
+- [lararia](http://vocab.getty.edu/page/aat/300400600)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ### Garden Description
 
