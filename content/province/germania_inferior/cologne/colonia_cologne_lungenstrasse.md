@@ -39,8 +39,8 @@ A sublocation is any area larger than an individual garden, but located within a
 Urban house on Lungenstrasse (Colonia Claudia Ara Agrippinensium)
 
 ### Keywords
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
-[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
 
 ### Garden Description
 In the second half of the 1st century A.D. a large peristyle house was constructed on the western fringe of the city, built on the remains of abandoned pottery kilns. The peristyle courtyard of the house was at least 13 x  21 m. in size, but the structural remains were badly damaged when a temple complex was erected on the site around the middle of the 2nd century Neither the complete ground plan nor the extent of the building could be determined.  

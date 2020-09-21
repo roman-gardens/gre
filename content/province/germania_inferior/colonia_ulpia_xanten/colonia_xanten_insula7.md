@@ -40,9 +40,9 @@ The houses of Insula 7 in Colonia Ulpia Traiana (Xanten)
 
 ### Keywords
 
-[insulae](http://vocab.getty.edu/page/aat/300000325) \
-[kitchen gardens](http://vocab.getty.edu/page/aat/300008110) \
-[courtyards](http://vocab.getty.edu/page/aat/300004095)
+- [insulae](http://vocab.getty.edu/page/aat/300000325)
+- [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 ### Garden Description
 Between the buildings were open areas, some paved and equipped with ovens and pottery kilns, wells and latrines, others unpaved. Some of the small courtyards have been reconstructed by the excavators as kitchen gardens and shrine gardens (Image 1). Organic material from a well in this *insula* included the remains of peas, beans, lentils, apples, pears and herbs.  These fruits and vegetables may have grown in kitchen gardens in the *insula*, but they may, on the other hand, have been brought into the city from nearby farms.

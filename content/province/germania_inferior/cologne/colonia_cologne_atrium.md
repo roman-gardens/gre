@@ -45,15 +45,15 @@ A sublocation is any area larger than an individual garden, but located within a
 Atrium House (Colonia Claudia Ara Agrippinensium)
 
 ### Keywords
-urban villas \
-[villae urbanae](http://vocab.getty.edu/page/aat/300005520) \
-[atrium houses](http://vocab.getty.edu/page/aat/300005451) \
-[atriums](http://vocab.getty.edu/page/aat/300004097) \
-[tablina](http://vocab.getty.edu/page/aat/300004180) \
-[colonnades](http://vocab.getty.edu/page/aat/300002613) \
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
-apsed pools \
-[piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [urban villas](#)
+- [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
+- [atrium houses](http://vocab.getty.edu/page/aat/300005451)
+- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [tablina](http://vocab.getty.edu/page/aat/300004180)
+- [colonnades](http://vocab.getty.edu/page/aat/300002613)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [apsed pools](#)
+- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
 
 ### Garden Description
 West of the [House of Dionysos]({{<relref "colonia_cologne_dionysius.md">}}) stood the so-called "atrium house" which covered an area of 1400 sq. m. (Plan 1). It was built around the middle of the 1st century A.D.  

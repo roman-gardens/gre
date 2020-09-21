@@ -44,11 +44,11 @@ Urban house on Gertrudenstrasse (Colonia Claudia Ara Agrippinensium)
 
 ### Keywords
 
-urban villas \
-[villae urbanae](http://vocab.getty.edu/page/aat/300005520) \
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
-apsed pools \
-[piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [urban villas](#)
+- [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [apsed pools](#)
+- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
 
 ### Garden Description
 This Mediterranean-type house just inside the western city wall had a peristyle courtyard ca. 9 x 14 m. in size, in the middle of which was a pool (3 x 8 m.) with apsidal ends (P on Plan 1).  
