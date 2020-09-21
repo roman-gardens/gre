@@ -48,14 +48,14 @@ Rural Villa in Frocester Court
 
 ### Keywords
 
-archaeological garden \
-[ditches](http://vocab.getty.edu/page/aat/300006178) \
-[fences (site elements)](http://vocab.getty.edu/page/aat/300005044) \
-[kitchen gardens](http://vocab.getty.edu/page/aat/300008110) \
-[orchards](http://vocab.getty.edu/page/aat/300008890) \
-[paddock](http://vocab.getty.edu/page/aat/300428748) \
-rural villas \
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)      
+- [archaeological garden](#)
+- [ditches](http://vocab.getty.edu/page/aat/300006178)
+- [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
+- [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
+- [orchards](http://vocab.getty.edu/page/aat/300008890)
+- [paddock](http://vocab.getty.edu/page/aat/300428748)
+- [rural villas](#)
+- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ### Garden Description
 

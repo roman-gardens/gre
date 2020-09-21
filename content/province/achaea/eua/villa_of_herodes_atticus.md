@@ -46,10 +46,10 @@ Villa of Herodes Atticus
 
 ### Keywords
 
-[Archaeological](#) \
-[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342) \
-[Serapeum](link) \
-[Antinoön](link)
+- [Archaeological](#)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [Serapeum](link)
+- [Antinoön](link)
 
 
 ### Garden Description

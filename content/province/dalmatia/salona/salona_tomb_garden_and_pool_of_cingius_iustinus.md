@@ -51,9 +51,9 @@ Tomb Garden and Pool of Cingius Iustinus
 
 ### Keywords
 
-[piscinae](http://vocab.getty.edu/page/aat/300375619) \
-[tombs](http://vocab.getty.edu/page/aat/300005926) \
-[epitaphs](http://vocab.getty.edu/page/aat/300028729)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
+- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
 
 
 ### Garden Description

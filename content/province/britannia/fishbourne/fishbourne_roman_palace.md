@@ -50,15 +50,15 @@ Roman Palace in Fishbourne
 
 ### Keywords
 
-archaeological garden \
-[basins (vessels)](http://vocab.getty.edu/page/aat/300045614) \
-[colonnades](http://vocab.getty.edu/page/aat/300002613) \
-[loam](http://vocab.getty.edu/page/aat/300014335) \
-[palaces](http://vocab.getty.edu/page/aat/300005734) \
-[piscinae](http://vocab.getty.edu/page/aat/300375619) \
-[presence chambers](http://vocab.getty.edu/page/aat/300004445) \
-[terrace gardens](http://vocab.getty.edu/page/aat/300404778) \
-[vegetable gardens](http://vocab.getty.edu/page/aat/300008142)
+- [archaeological garden](#)
+- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [colonnades](http://vocab.getty.edu/page/aat/300002613)
+- [loam](http://vocab.getty.edu/page/aat/300014335)
+- [palaces](http://vocab.getty.edu/page/aat/300005734)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
+- [presence chambers](http://vocab.getty.edu/page/aat/300004445)
+- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
+- [vegetable gardens](http://vocab.getty.edu/page/aat/300008142)
 
 ### Garden Description
 

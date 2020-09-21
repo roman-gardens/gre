@@ -11,9 +11,10 @@
 - [x] DONT Put `lead:` in the header for each article to make loglines/subtitles (e.g. Dalmatia/salona/salona_tomb...)
 - [ ] Check that all keywords are in controlled vocab (Programmatically)
 - [ ] Figure out why there are so many unattached images (e.g. Achaea Nemea has a figure which is not in the proper images folder)
-- [ ] Deal with empty stuff in headers (by deleting)
+- [x] Deal with empty stuff in headers (by commenting out for now)
+- [ ] Deal with empty stuff that is now commented out (by deleting)
 - [ ] Should "urban villas" be removed and (if necessary) replaced with "villae urbanae"?
-- [ ] Deal with all smart quotes
+- [ ] Deal with all smart quotes (“”)
 - [ ] Fix any quotes in `figure` attributes
 - [ ] Redo all pub dates as YMD
 - [ ] Implement [LOC Datetime format](https://www.loc.gov/standards/datetime/)
@@ -24,6 +25,7 @@
 - [x] Suppress empty headings
 - [ ] Finish creating documentation
 - [ ] Change keywords to bulleted list
+- [ ] Fix all links that have [text](#) or [text](link)
 
 # Article Punchlist
 

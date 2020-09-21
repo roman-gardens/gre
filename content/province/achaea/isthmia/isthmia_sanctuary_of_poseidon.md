@@ -4,7 +4,7 @@ date: 2020-07-26T10:54:32-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
-draft: true
+draft: false
 
 categories:
  - "Achaea"
@@ -49,10 +49,10 @@ Sanctuary of Poseidon
 
 ### Keywords
 
-[Literary](#) \
-[Pausanias](https://www.britannica.com/biography/Pausanias-Greek-geographer) \
-[orchards](http://vocab.getty.edu/page/aat/300008890) \
-[Strabo](#)
+- [Literary](#)
+- [Pausanias](https://www.britannica.com/biography/Pausanias-Greek-geographer)
+- [orchards](http://vocab.getty.edu/page/aat/300008890)
+- [Strabo](#)
 
 ### Garden Description
 

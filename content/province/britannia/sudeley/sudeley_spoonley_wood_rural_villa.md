@@ -49,12 +49,11 @@ Rural Villa in Sudeley/Spoonley Wood
 
 ### Keywords
 
-archaeological garden \
-[axial plan](http://vocab.getty.edu/page/aat/300121971) \
-
-[terrace gardens](http://vocab.getty.edu/page/aat/300404778) \
-rural villas \
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)            
+- [archaeological garden](#)
+- [axial plan](http://vocab.getty.edu/page/aat/300121971)
+- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
+- [rural villas](#)
+- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ### Garden Description
 

@@ -4,7 +4,7 @@ date: 2020-07-27T08:51:24-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
-draft: true
+draft: false
 
 categories:
  - "Achaea"
@@ -48,15 +48,15 @@ Sanctuary of Zeus
 
 ### Keywords
 
-[Literary](#) \
-[Archaeological](#) \
-[tropaeum (monument)](http://vocab.getty.edu/page/aat/300007038) \
-[orchards](http://vocab.getty.edu/page/aat/300008890) \
-[strabo](#)
-[pedestals](http://vocab.getty.edu/page/aat/300001744) \
-[altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725) \
-[friezes (ornamental areas)](http://vocab.getty.edu/page/aat/300123582) \
-[planting pits](#)
+- [Literary](#)
+- [Archaeological](#)
+- [tropaeum (monument)](http://vocab.getty.edu/page/aat/300007038)
+- [orchards](http://vocab.getty.edu/page/aat/300008890)
+- [strabo](#)
+- [pedestals](http://vocab.getty.edu/page/aat/300001744)
+- [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
+- [friezes (ornamental areas)](http://vocab.getty.edu/page/aat/300123582)
+- [planting pits](#)
 
 ### Garden Description
 

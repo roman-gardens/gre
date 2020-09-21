@@ -4,7 +4,7 @@ date: 2020-07-27T08:51:34-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
-draft: true
+draft: false
 
 categories:
  - "Achaea"
@@ -49,11 +49,11 @@ Sanctuary of Zeus
 
 ### Keywords
 
-[Literary](#) \
-[Archaeological](#) \
-[Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1) \
-[orchards](http://vocab.getty.edu/page/aat/300008890) \
-[planting pits](#)
+- [Literary](#)
+- [Archaeological](#)
+- [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
+- [orchards](http://vocab.getty.edu/page/aat/300008890)
+- [planting pits](#)
 
 
 ### Garden Description
@@ -73,14 +73,12 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../../images/Nemea Zeus Temple and Grove Balloon Photo.tif" alt="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings. Adapted from Miller 1978, fig. 2." title="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings. Adapted from Miller 1978, fig. 2." >}}
+{{< figure src="../../images/EUR_ACH_Nemea_Fig.1.jpg" alt="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings. Adapted from Miller 1978, fig. 2." title="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings. Adapted from Miller 1978, fig. 2." >}}
 
 
 ### Images
 
-<!--
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
--->
+{{< figure src="../../images/Nemea Zeus Temple and Grove Balloon Photo.JPG" alt="Nemea Zeus Temple and Grove Balloon Photo" title="Nemea Zeus Temple and Grove Balloon Photo" >}}
 
 ### Dates
 

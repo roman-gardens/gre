@@ -45,10 +45,10 @@ Gymnasia and Groves
 
 ### Keywords
 
-[Literary](#) \
-[Archaeological](#) \
-[palaestrae](http://vocab.getty.edu/page/aat/300007301) \
-[Gymnasium](http://vocab.getty.edu/page/aat/300007297)
+- [Literary](#)
+- [Archaeological](#)
+- [palaestrae](http://vocab.getty.edu/page/aat/300007301)
+- [Gymnasium](http://vocab.getty.edu/page/aat/300007297)
 
 ### Garden Description
 

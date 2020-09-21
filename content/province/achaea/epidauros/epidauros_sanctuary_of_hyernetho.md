@@ -4,7 +4,7 @@ date: 2020-07-26T10:46:10-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
-draft: true
+draft: false
 
 categories:
  - "Achaea"
@@ -49,9 +49,9 @@ Sanctuary of Hyernetho
 
 ### Keywords
 
-[Literary](#) \
-[Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1) \
-[orchards](http://vocab.getty.edu/page/aat/300008890)
+- [Literary](#)
+- [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
+- [orchards](http://vocab.getty.edu/page/aat/300008890)
 
 ### Garden Description
 

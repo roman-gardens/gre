@@ -46,11 +46,11 @@ The Circus of Roman Corinth
 
 ### Keywords
 
-[Archaeological](#) \
-[circus](http://vocab.getty.edu/page/aat/300007255) \
-[spinae](#) \
-[amphorae](http://vocab.getty.edu/page/aat/300148696) \
-[mosaic](http://vocab.getty.edu/page/aat/300015342)
+- [Archaeological](#)
+- [circus](http://vocab.getty.edu/page/aat/300007255)
+- [spinae](#)
+- [amphorae](http://vocab.getty.edu/page/aat/300148696)
+- [mosaic](http://vocab.getty.edu/page/aat/300015342)
 
 ### Garden Description
 

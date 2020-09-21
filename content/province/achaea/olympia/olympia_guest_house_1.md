@@ -4,7 +4,7 @@ date: 2020-07-27T08:54:25-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
-draft: true
+draft: false
 
 categories:
  - "Achaea"
@@ -49,8 +49,8 @@ Guest House I
 
 ### Keywords
 
-[Archaeological](#) \
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [Archaeological](#)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 ### Garden Description
 
@@ -69,7 +69,7 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../../images/EUR_ACH_Nemea_Fig.1.tif" alt="Fig. 3: Plan of Guest House I (A) and Guest House II (B) with their courtyard gardens (G). The garden in Guest House I was later paved over (C). Adapted from Mallwitz 1972, fig. 230." title="Fig. 3: Plan of Guest House I (A) and Guest House II (B) with their courtyard gardens (G). The garden in Guest House I was later paved over (C). Adapted from Mallwitz 1972, fig. 230." >}}
+{{< figure src="../../images/EUR_ACH_Olympia__House of Nero Fig 1.jpg" alt="Fig. 3: Plan of Guest House I (A) and Guest House II (B) with their courtyard gardens (G). The garden in Guest House I was later paved over (C). Adapted from Mallwitz 1972, fig. 230." title="Fig. 3: Plan of Guest House I (A) and Guest House II (B) with their courtyard gardens (G). The garden in Guest House I was later paved over (C). Adapted from Mallwitz 1972, fig. 230." >}}
 
 
 <!--### Images-->

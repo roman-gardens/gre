@@ -50,9 +50,9 @@ Cemetery Garden of Metrodorus
 
 ### Keywords
 
-[tombs](http://vocab.getty.edu/page/aat/300005926) \
-[epitaphs](http://vocab.getty.edu/page/aat/300028729) \
-[sarcophagi (coffins)](http://vocab.getty.edu/page/aat/300005947)
+- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
+- [sarcophagi (coffins)](http://vocab.getty.edu/page/aat/300005947)
 
 
 ### Garden Description

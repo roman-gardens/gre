@@ -1,5 +1,5 @@
 ---
-title: "Legionary houses at Castra Vetera (Germania inferior)"
+title: "Legionary Houses at Castra Vetera (Germania Inferior)"
 date: 2020-07-12T10:57:44-07:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -51,13 +51,13 @@ Legionary houses at Castra Vetera (Germania inferior)
 
 ### Keywords
 
-[castra](http://vocab.getty.edu/page/aat/300008440)  
-[praetoriums](http://vocab.getty.edu/page/aat/300005636)  
-[atriums](http://vocab.getty.edu/page/aat/300004097)  
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)  
-[tablina](http://vocab.getty.edu/page/aat/300004180)  
-[pedestals](http://vocab.getty.edu/page/aat/300001744)  
-[Pliny the Younger](https://catalog.perseus.org/catalog/urn:cts:latinLit:phi1318)
+- [castra](http://vocab.getty.edu/page/aat/300008440)
+- [praetoriums](http://vocab.getty.edu/page/aat/300005636)
+- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [tablina](http://vocab.getty.edu/page/aat/300004180)
+- [pedestals](http://vocab.getty.edu/page/aat/300001744)
+- [Pliny the Younger](https://catalog.perseus.org/catalog/urn:cts:latinLit:phi1318)
 
 ### Garden Description
 

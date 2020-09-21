@@ -4,7 +4,7 @@ date: 2020-07-27T08:53:14-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
-draft: true
+draft: false
 
 categories:
  - "Achaea"
@@ -49,9 +49,9 @@ House of Nero
 
 ### Keywords
 
-[Archaeological](#) \
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) \
-[atriums](http://vocab.getty.edu/page/aat/300004097)
+- [Archaeological](#)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [atriums](http://vocab.getty.edu/page/aat/300004097)
 
 
 ### Garden Description
@@ -72,7 +72,7 @@ NEW WAY ↓↓↓↓
 ### Plans
 
 
-{{< figure src="../../images/EUR_ACH_Olympia__House of Nero Fig 1.tif" alt="Fig. 1: Plan of the ‘House of Nero’ with its garden courtyard (G) and water channel (stippled). Adapted from Mallwitz 1972, fig. 167." title="Fig. 1: Plan of the ‘House of Nero’ with its garden courtyard (G) and water channel (stippled). Adapted from Mallwitz 1972, fig. 167." >}}
+{{< figure src="../../images/EUR_ACH_Olympia__House of Nero Fig 1.jpg" alt="Fig. 1: Plan of the ‘House of Nero’ with its garden courtyard (G) and water channel (stippled). Adapted from Mallwitz 1972, fig. 167." title="Fig. 1: Plan of the ‘House of Nero’ with its garden courtyard (G) and water channel (stippled). Adapted from Mallwitz 1972, fig. 167." >}}
 
 <!--### Images-->
 

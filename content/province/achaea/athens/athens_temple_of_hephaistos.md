@@ -44,8 +44,8 @@ Temple of Hephaistos
 
 ### Keywords
 
-[Archaeological](#) \
-[planting pots (horticultural containers)](http://vocab.getty.edu/page/aat/300197605)
+- [Archaeological](#)
+- [planting pots (horticultural containers)](http://vocab.getty.edu/page/aat/300197605)
 
 ### Garden Description
 

@@ -4,7 +4,7 @@ date: 2020-07-26T12:30:28-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
-draft: true
+draft: false
 
 categories:
  - "Achaea"
@@ -45,10 +45,10 @@ Sanctuary of Zeus Philios
 
 ### Keywords
 
-[Literary](#) \
-[Pausanias](https://www.britannica.com/biography/Pausanias-Greek-geographer) \
-[orchards](http://vocab.getty.edu/page/aat/300008890) \
-[religious image](#)
+- [Literary](#)
+- [Pausanias](https://www.britannica.com/biography/Pausanias-Greek-geographer)
+- [orchards](http://vocab.getty.edu/page/aat/300008890)
+- [religious image](#)
 
 ### Garden Description
 

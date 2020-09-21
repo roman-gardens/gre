@@ -45,8 +45,8 @@ The Gardens of Epicurus
 
 ### Keywords
 
-[Literary](#) \
-[Gymnasium](http://vocab.getty.edu/page/aat/300007297)
+- [Literary](#)
+- [Gymnasium](http://vocab.getty.edu/page/aat/300007297)
 
 ### Garden Description
 

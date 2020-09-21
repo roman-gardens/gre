@@ -44,8 +44,8 @@ Palace of the Giants
 
 ### Keywords
 
-[Archaeological](#) \
-[Gymnasion (Gymnasium)](http://vocab.getty.edu/page/aat/300007297)
+- [Archaeological](#)
+- [Gymnasion (Gymnasium)](http://vocab.getty.edu/page/aat/300007297)
 
 ### Garden Description
 

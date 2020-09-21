@@ -40,8 +40,8 @@ A sublocation is any area larger than an individual garden, but located within a
 Rustic villa at Blankenheim-Hülchrath
 
 ### Keywords
-rural villas \
-[villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- [rural villas](#)
+- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ### Garden Description
 This *villa rustica* was built on a slope so that the residential building (A on Plan 1) overlooked the rest of the lower lying farmyard (Image 1). The entire complex covered an area 120 m. in width and 250 m. in length (3 hectares). The house was separated from a large open area behind and to the southwest of it by a wall. This has been interpreted as a utilitarian garden (G on Plan 1), and it may well be that an orchard and a vegetable garden were located here near the house.  

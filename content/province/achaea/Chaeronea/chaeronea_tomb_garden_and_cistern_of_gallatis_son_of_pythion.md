@@ -4,7 +4,7 @@ date: 2020-07-26T10:33:06-04:00
 article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
 editor: Amartya Shri
-draft: true
+draft: false
 
 categories:
  - "Achaea"
@@ -47,8 +47,8 @@ Tomb Garden and Cistern of Gallatis, Son of Pythion
 
 ### Keywords
 
-[Inscription](#) \
-[funerary buildings](http://vocab.getty.edu/page/aat/300005866)
+- [Inscription](#)
+- [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
 
 ### Garden Description
 

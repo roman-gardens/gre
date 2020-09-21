@@ -46,8 +46,8 @@ Tomb Painting in Chester
 
 ### Keywords
 
-[funerary buildings](http://vocab.getty.edu/page/aat/300005866)  
-[tombs](http://vocab.getty.edu/page/aat/300005926)
+- [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
+- [tombs](http://vocab.getty.edu/page/aat/300005926)
 
 ### Garden Description
 

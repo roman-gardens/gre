@@ -4,7 +4,7 @@ date: 2020-07-27T08:54:10-04:00
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Amartya Shri
-draft: true
+draft: false
 
 categories:
  - "Achaea"
@@ -49,8 +49,8 @@ House of Nero
 
 ### Keywords
 
-[Archaeological](#) \
-[quatrefoils](http://vocab.getty.edu/page/aat/300009784)
+- [Archaeological](#)
+- [quatrefoils](http://vocab.getty.edu/page/aat/300009784)
 
 
 ### Garden Description
@@ -71,7 +71,7 @@ NEW WAY ↓↓↓↓
 ### Plans
 
 
-{{< figure src="../../images/EUR_ACH_Olympia_Leonidaion Fig 1.tif" alt="Fig. 2: Plan of the Leonidaion with its quatrefoil and circular gardens (white) and planting beds (b) surrounded by water channels (stippled) in the courtyard. Adapted from Mallwitz 1972, fig. 201." title="Fig. 2: Plan of the Leonidaion with its quatrefoil and circular gardens (white) and planting beds (b) surrounded by water channels (stippled) in the courtyard. Adapted from Mallwitz 1972, fig. 201." >}}
+{{< figure src="../../images/EUR_ACH_Olympia_Leonidaion Fig 1.jpg" alt="Fig. 2: Plan of the Leonidaion with its quatrefoil and circular gardens (white) and planting beds (b) surrounded by water channels (stippled) in the courtyard. Adapted from Mallwitz 1972, fig. 201." title="Fig. 2: Plan of the Leonidaion with its quatrefoil and circular gardens (white) and planting beds (b) surrounded by water channels (stippled) in the courtyard. Adapted from Mallwitz 1972, fig. 201." >}}
 
 <!--### Images-->
 

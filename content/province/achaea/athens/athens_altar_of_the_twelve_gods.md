@@ -42,10 +42,10 @@ Altar of the Twelve Gods
 
 ### Keywords
 
-[Literary](#) \
-[Archaeological](#) \
-[grove (orchards)](http://vocab.getty.edu/page/aat/300008890) \
-[Statius](link)
+- [Literary](#)
+- [Archaeological](#)
+- [grove (orchards)](http://vocab.getty.edu/page/aat/300008890)
+- [Statius](link)
 
 ### Garden Description
 
