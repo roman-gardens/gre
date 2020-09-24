@@ -1,7 +1,7 @@
 ---
-title: "House of Dionyius"
+title: "House of Dionysius"
 date: 2020-07-08T20:22:59-07:00
-province_id: PROVINCE_id
+province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan
