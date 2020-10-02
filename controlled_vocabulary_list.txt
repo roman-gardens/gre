@@ -137,3 +137,5 @@ viridarium
 [water wells](http://vocab.getty.edu/page/aat/300152327)
 [well houses](http://vocab.getty.edu/page/aat/300008017)
 [wine cellars](http://vocab.getty.edu/page/aat/300004762)
+[dovecote](http://vocab.getty.edu/page/aat/300004975)
+
