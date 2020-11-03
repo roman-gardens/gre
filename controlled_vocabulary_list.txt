@@ -131,6 +131,7 @@ urban villas
 [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 [villae suburbanae](http://vocab.getty.edu/page/aat/300005519)
 [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
+vineyard
 viridarium
 [waterspouts](http://vocab.getty.edu/page/aat/300248603)
 [water supply systems](http://vocab.getty.edu/page/aat/300008618)
@@ -138,4 +139,3 @@ viridarium
 [well houses](http://vocab.getty.edu/page/aat/300008017)
 [wine cellars](http://vocab.getty.edu/page/aat/300004762)
 [dovecote](http://vocab.getty.edu/page/aat/300004975)
-
