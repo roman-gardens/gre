@@ -1,7 +1,7 @@
 ---
-title: "House of Dionysius"
+title: "House of Dionyius"
 date: 2020-07-08T20:22:59-07:00
-province_id: PROVINCE_ID
+province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan
@@ -64,9 +64,8 @@ The original house, erected after A.D. 50, was rebuilt under [Vespasian](link) a
 
 ### Maps
 
-<!--
+
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
--->
 
 ### Plans
 {{< figure src="../images/cologne_dionysius_plan1_EUR_GI_ColClaAA_HoD_carroll.jpg" alt="Plan 1. Plan of the House of Dionysius at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the House of Dionysos, built around a central courtyard garden (G) with a pool (grey). Plan adapted from Fremersdorf 1956, fig. 27. (Rights statement)" >}}
