@@ -37,7 +37,7 @@ Petra Pool and Garden Project
 - [horticultural containers](http://vocab.getty.edu/page/aat/300198749)
 - [archaeobotany](http://vocab.getty.edu/page/aat/300251771)
 - [piscinae]( http://vocab.getty.edu/page/aat/300375619)
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
+- [garden pavilions](http://vocab.getty.edu/page/aat/300006819)
 
 ### Garden Description
 The only example of a garden investigated using specialized garden archaeology techniques in the region of Arabia Petraea is found at Petra. A large open area was believed to be the site of a marketplace, the so-called “Lower Market,” until excavations revealed the remnants of a formal garden and pool complex. The garden is situated on an artificial terrace on the southern slope of the Wadi Musa, overlooking the main colonnaded street and flanked by the so-called “Middle Market” to the east, and the Great Temple complex to the west. To the south of the garden is a residential quarter on top of a high sandstone ridge (Ez-Zantur), where several private villas have been excavated. Primary access into the garden was apparently from the west, through a triple colonnade that marks the boundary between the Great Temple’s “lower temenos” and the garden terrace.
