@@ -73,7 +73,7 @@ A deep deposit of sediment above the pool floor indicates that the pool went out
 
 {{< figure src="../images/ASIA-ARABIA-PETRA-trench17.jpg" alt="Overhead view of an excavation trench showing pathway, stone borders, and root cavities." title="Fig. 2: Gravel pathway with stone border and excavated root cavities. Photograph by L.-A. Bedal." >}}
 
-{{< figure src="../images/ASIA-ARABIA-PETRA-pot.jpg" alt="Photo and illustrations of an unglazed ceramic pot with small round hole" title="Fig. 3: Part of the perforated flower pot discovered in the Nabataean garden. Photograph by L.-A. Bedal." >}}
+{{< figure src="../images/ASIA-ARABIA-PETRA-pot.jpg" alt="Photo and illustrations of an unglazed ceramic pot with small round hole" title="Fig. 3: Part of the perforated flower pot discovered in the Nabataean garden. Photograph by L.-A. Bedal. Drawing by E. Macauley Lewis." >}}
 
 ### Dates
 ca. 90 BCE - 363 CE and later
