@@ -1824,7 +1824,44 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/judaea/</loc>
+    <lastmod>2020-07-11T11:20:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/judaea/caesarea_maritima/</loc>
+    <lastmod>2020-07-11T11:20:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/judaea/caesarea_maritima/byzantine_law_court_and_roof_garden/</loc>
+    <lastmod>2020-07-11T11:20:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/categories/judaea/</loc>
+    <lastmod>2020-07-11T11:20:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/pleasure-garden/</loc>
+    <lastmod>2020-07-11T11:20:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/judaea/caesarea_maritima/promontory_palace_of_herod_the_great/</loc>
+    <lastmod>2020-07-11T11:20:32-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/britannia/latimer/latimer_rural_villa/</loc>
+    <lastmod>2020-07-11T11:20:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/walled-garden/</loc>
     <lastmod>2020-07-11T11:20:32-04:00</lastmod>
   </url>
   
@@ -2458,6 +2495,11 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/province/judaea/caesarea_maritima/images/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/macedonia/images/</loc>
     <priority>0</priority>
   </url>
@@ -2495,18 +2537,6 @@
   <url>
     <loc>https://christiancasey.github.io/gre/province/pannonia/winden_am_see/images/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/tags/#/</loc>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/categories/arabia-petraea/</loc>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/arabia_petraea/petra/</loc>
   </url>
   
 </urlset>
