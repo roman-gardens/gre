@@ -67,7 +67,7 @@ A deep deposit of sediment above the pool floor indicates that the pool went out
 
 ### Plans
 
-{{< figure src="../images/ASIA-ARABIA-PETRA-plan.tif" alt="Archaeological plan showing garden and pool complex" title="Fig. 1: Plan of the garden and pool complex, 2018, with GPR data. Plan by F. Ishaqat, P. Zimmerman, and L. Bedal. GPR data by L. Conyers." >}}
+{{< figure src="../images/ASIA-ARABIA-PETRA-plan.jpg" alt="Archaeological plan showing garden and pool complex" title="Fig. 1: Plan of the garden and pool complex, 2018, with GPR data. Plan by F. Ishaqat, P. Zimmerman, and L. Bedal. GPR data by L. Conyers." >}}
 
 ### Images
 
