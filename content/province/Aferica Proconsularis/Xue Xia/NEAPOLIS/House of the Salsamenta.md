@@ -5,7 +5,7 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek, V.Blanc-Bijon
 editor: Xue Xia
-draft: true
+draft: false
 
 categories:
 

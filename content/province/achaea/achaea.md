@@ -5,7 +5,7 @@ date: 2020-07-20T13:58:53-04:00
 province_id: PROVINCE_ID
 author: NAME_OF_AUTHOR
 editor: NAME_OF_EDITOR
-draft: true
+draft: false
 ---
 
 ## Province

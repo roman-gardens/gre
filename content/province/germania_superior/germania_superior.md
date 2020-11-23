@@ -5,7 +5,7 @@ date: 2020-07-12T15:52:12-04:00
 province_id: PROVINCE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: true
+draft: false
 ---
 
 ## Province

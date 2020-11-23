@@ -5,7 +5,7 @@ date: {{ .Date }}
 province_id: PROVINCE_ID
 author: NAME_OF_AUTHOR
 editor: NAME_OF_EDITOR
-draft: true
+draft: false
 ---
 
 # Province

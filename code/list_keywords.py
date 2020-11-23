@@ -34,7 +34,7 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
 				f.close()
 			
 			bDraft = sFile.lower().find('draft: false') == -1
-			bDraft = sFile.lower().find('draft: true') > -1
+			bDraft = sFile.lower().find('draft: false') > -1
 			
 			iStart = sFile.find('## Keywords')
 			if not bDraft:

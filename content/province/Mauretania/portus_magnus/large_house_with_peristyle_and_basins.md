@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Brandon Wilson
-draft: true
+draft: false
 
 ---
 

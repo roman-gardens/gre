@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Joseph Patrich
 editor: Yaniv Korman
-draft: true
+draft: false
 
 categories:
  - "Judaea"

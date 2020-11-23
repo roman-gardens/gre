@@ -4,7 +4,7 @@ date: 2020-07-20T11:39:30-04:00
 article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
 editor: Amartya Shri
-draft: true
+draft: false
 ---
 
 ## Province

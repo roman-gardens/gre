@@ -5,7 +5,7 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Clopper Almon
 editor: Qianli Jiang
-draft: true
+draft: false
 
 categories:
  - "Hispania Tarraconensis"
