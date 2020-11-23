@@ -65,8 +65,8 @@ House of the Planters
 -->
 
 ### Images
-{{< figure src="../images/#" alt="Drawing by A Ballu of the courtyard of the House of the Planters at Thamugadi; rights statement" title="Fig. 2: Drawing by A Ballu of the courtyard of the House of the Planters
- (Rights statement)" >}}
+{{< figure src="../images/#" alt="Drawing by A Ballu of the courtyard of the House of the Planters at Thamugadi; rights statement" title="Fig. 2: Drawing by A Ballu of the courtyard of the House of the Planters (Rights statement)" >}}
+
 {{< figure src="../images/#" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi; rights statement" title="Fig. 3 Photographic view of the courtyard of the House of the Planters (WFJ). (Rights statement)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}

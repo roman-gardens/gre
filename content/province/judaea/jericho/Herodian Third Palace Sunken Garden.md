@@ -86,19 +86,7 @@ A huge pool (90 x 40 m.) built to the east of the sunken garden formed an integr
 
 ### Plans
 
-{{< figure src="../images/Fig 1_  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho. .jpg" alt="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho." title="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho (Gleason after Netzer)
-
-A-D) The Hasmonean winter Palace.
-
-A. First Hasmonean palace, later buried by fortified one.
-B. Swimming-pool Complex
-C. Twin Palaces
-D.  Row of buildings erected along Na'aran conduit
-E.  Industrial area
-F.  Nacaran conduit
-
-1-3) Herod's winter palace
-1. First palace (coexisting with last Hasmonean phase); 2. Second Palace 3; Third palace." >}}
+{{< figure src="../images/Fig 1_  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho. .jpg" alt="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho." title="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho (Gleason after Netzer)  A-D) The Hasmonean winter Palace.  A. First Hasmonean palace, later buried by fortified one. B. Swimming-pool Complex C. Twin Palaces D.  Row of buildings erected along Na'aran conduit E.  Industrial area F.  Nacaran conduit  1-3) Herod's winter palace 1. First palace (coexisting with last Hasmonean phase); 2. Second Palace 3; Third palace." >}}
 
 {{< figure src="../images/Fig 11_ Plan of Herod’s Third Palace .jpg" alt="Figure 11: Plan of Herod’s Third Palace (K. Gleason after E. Netzer 2001a: Plan 48)." title="Figure 11: Plan of Herod’s Third Palace (K. Gleason after E. Netzer 2001a: Plan 48)." >}}
 
@@ -114,8 +102,7 @@ F.  Nacaran conduit
 
 {{< figure src="../images/Fig 19_Axonometric reconstruction of the Hemicycle and the Sunken Garden terrace showing the excavation areas.jpg" alt="Figure 19:Axonometric reconstruction of the Hemicycle and the Sunken Garden terrace showing the excavation areas.Light shading indicates the Kelso and Baramki excavations, dark shading indicates Netzer’s excavations (K.Gleason after J. Salzberg)." title="Figure 19:Axonometric reconstruction of the Hemicycle and the Sunken Garden terrace showing the excavation areas.Light shading indicates the Kelso and Baramki excavations, dark shading indicates Netzer’s excavations (K.Gleason after J. Salzberg)." >}}
 
-{{< figure src="../images/Fig 20_Section C-C through the benches of the Hemicycle.jpg" alt="Figure 20:Section C-C through the benches of the Hemicycle: opus reticulatum walls set on clay subsoil
-(K. Gleason after Kelso and Baramki 1955:18)." title="Figure 20:Section C-C through the benches of the Hemicycle: opus reticulatum walls set on clay subsoil (K. Gleason after Kelso and Baramki 1955:18)." >}}
+{{< figure src="../images/Fig 20_Section C-C through the benches of the Hemicycle.jpg" alt="Figure 20:Section C-C through the benches of the Hemicycle: opus reticulatum walls set on clay subsoil (K. Gleason after Kelso and Baramki 1955:18)." title="Figure 20:Section C-C through the benches of the Hemicycle: opus reticulatum walls set on clay subsoil (K. Gleason after Kelso and Baramki 1955:18)." >}}
 
 {{< figure src="../images/Fig 21_ Trench B6.JPG" alt="Figure 21: Trench B6 (Netzer 2001a: Ill. 435)." title="Figure 21: Trench B6 (Netzer 2001a: Ill. 435)." >}}
 

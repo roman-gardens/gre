@@ -57,8 +57,7 @@ House at the W of the Filadelfes
 -->
 
 ### Plans
-{{< figure src="../images/TIMGAD2.TIF" alt="Plan of the House at the W of the Philadelphes Baths
- at Thamugadi; rights statement" title="Fig. 1: Plan of the House at the W of the Philadelphes Baths. (Rights statement)" >}}
+{{< figure src="../images/TIMGAD2.TIF" alt="Plan of the House at the W of the Philadelphes Baths at Thamugadi; rights statement" title="Fig. 1: Plan of the House at the W of the Philadelphes Baths. (Rights statement)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->

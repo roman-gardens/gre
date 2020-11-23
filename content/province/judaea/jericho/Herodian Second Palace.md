@@ -80,19 +80,7 @@ The  low wing of the palace (Fig 8, AK) incorporated the two Hasmonean swimming 
 
 ### Plans
 
-{{< figure src="../images/Fig 1_  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho. .jpg" alt="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho." title="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho (Gleason after Netzer)
-
-A-D) The Hasmonean winter Palace.
-
-A. First Hasmonean palace, later buried by fortified one.
-B. Swimming-pool Complex
-C. Twin Palaces
-D.  Row of buildings erected along Na'aran conduit
-E.  Industrial area
-F.  Nacaran conduit
-
-1-3) Herod's winter palace
-1. First palace (coexisting with last Hasmonean phase); 2. Second Palace 3; Third palace." >}}
+{{< figure src="../images/Fig 1_  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho. .jpg" alt="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho." title="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho (Gleason after Netzer)  A-D) The Hasmonean winter Palace.  A. First Hasmonean palace, later buried by fortified one. B. Swimming-pool Complex C. Twin Palaces D.  Row of buildings erected along Na'aran conduit E.  Industrial area F.  Nacaran conduit  1-3) Herod's winter palace 1. First palace (coexisting with last Hasmonean phase); 2. Second Palace 3; Third palace." >}}
 
 {{< figure src="../images/Fig 8a_ Gardens of Herod’s Second Palace.jpg" alt="Figure 8a: Gardens of Herod’s Second Palace. Light gray shading indicates gardens, dark gray shading indicates pools (Gleason after Netzer 2001a: Plan 47)." title="Figure 8a: Gardens of Herod’s Second Palace. Light gray shading indicates gardens, dark gray shading indicates pools (Gleason after Netzer 2001a: Plan 47)." >}}
 
