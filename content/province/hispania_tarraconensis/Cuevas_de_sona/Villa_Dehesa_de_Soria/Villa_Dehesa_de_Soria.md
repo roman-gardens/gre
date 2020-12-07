@@ -1,5 +1,5 @@
 ---
-title: "CLUNIA"
+title: "Villa Dehesa de Soria"
 date: 2020-07-08T10:39:31-07:00
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
@@ -34,8 +34,8 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Location
-[Cuevas de Soria]({{<relref ".">}}) \
-[Cuevas de Soria(Pleiades)](https://pleiades.stoa.org/places/246361)
+[Villa Dehesa de Soria]({{<relref ".">}}) \
+[Villa Dehesa de Soria(Pleiades)](https://pleiades.stoa.org/places/667996380)
 
 <!--### Location Description-->
 
@@ -90,7 +90,7 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 
 #### Pleiades ID
 
-[187350](https://pleiades.stoa.org/places/187350)
+[667996380](https://pleiades.stoa.org/places/667996380)
 
 #### TGN ID
 [7027125](http://vocab.getty.edu/page/tgn/7027125)
@@ -99,7 +99,7 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-11 July 2020
+5 December 2020
 
 <!--### Related articles-->
 

@@ -45,8 +45,8 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 
-[Aguilafuente]({{<relref "..">}}) \
-[Aguilafuente (Pleiades)](https://pleiades.stoa.org/places/831036777)
+[Santa Lucia]({{<relref "..">}}) \
+[Santa Lucia (Pleiades)](https://pleiades.stoa.org/places/767191138)
 
 <!--### Location Description-->
 
@@ -91,7 +91,7 @@ Excavation in 1968 – 1972 at this site, which has been reburied, revealed over
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[981551](https://pleiades.stoa.org/places/981551)
+[767191138](https://pleiades.stoa.org/places/767191138)
 
 #### TGN ID
 [7348251](http://vocab.getty.edu/page/tgn/7348251)
@@ -101,7 +101,7 @@ Excavation in 1968 – 1972 at this site, which has been reburied, revealed over
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-11 July 2020
+5 December 2020
 
 <!--### Related articles-->
 

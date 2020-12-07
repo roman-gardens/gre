@@ -43,12 +43,12 @@ House of Iustiniani and Sabini (Maison de Kaid Youcef)
 
 ### Keywords
 
-[columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-[courtyards](http://vocab.getty.edu/page/aat/300004095)
-[domus](http://vocab.getty.edu/page/aat/300005506)
-[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-[villae urbanae](http://vocab.getty.edu/page/aat/300005520)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
 
 ### Garden Description
 
@@ -60,7 +60,7 @@ In the southwestern corner, a small room protrudes into the gallery and opens in
 
 ### Plans
 
-{{< figure src="../images/house_of_iustiniani_and_sabini_fig_1.tif" alt="Plan of the House of Iustiniani and Sabini" title="Fig. 1: Plan of the House of Iustiniani and Sabini (Rights Statement)">}}
+{{< figure src="../images/house_of_iustiniani_and_sabini_fig_1.png" alt="Plan of the House of Iustiniani and Sabini. The house has an overall rectangular aspect, with the roughly square peristyle garden occupying the center. More details are included in the garden description section above." title="Fig. 1: Plan of the House of Iustiniani and Sabini (Rights Statement)">}}
 
 ### Images
 

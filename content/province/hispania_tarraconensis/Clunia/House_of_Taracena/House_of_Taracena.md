@@ -90,7 +90,7 @@ On the southeast corner of the house was a curious structure placed more than a 
 -->
 
 ### Plans
-{{< figure src="../images/HIS_TAR_Clu_Htaracena_fig1 .jpg" alt="Plan of underground water chambers." title="Plan of underground water chambers. Adapted from de Palol 1994, p. 100." >}}
+{{< figure src="../images/HIS_TAR_Clu_Htaracena_fig1.jpg" alt="Plan of underground water chambers." title="Plan of underground water chambers. Adapted from de Palol 1994, p. 100." >}}
 
 ### Images
 {{< figure src="../images/HIS_TAR_Clu_fig2.jpg" alt="Photograph looking east over the subterranean structures." title="Photograph looking east over the subterranean structures." >}}
@@ -120,7 +120,7 @@ Unspecified
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-11 July 2020
+5 December 2020
 
 <!--### Related articles-->
 

@@ -100,7 +100,7 @@ Unspecified
 [John Bodel](link) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
 ### Publication date
-11 July 2020
+5 December 2020
 
 <!--### Related articles-->
 

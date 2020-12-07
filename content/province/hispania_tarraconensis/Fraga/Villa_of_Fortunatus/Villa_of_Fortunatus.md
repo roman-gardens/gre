@@ -44,8 +44,8 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 
-[Fraga]({{<relref ".">}}) \
-[Fraga (Pleiades)](https://pleiades.stoa.org/places/693721851)
+[Villa Fortunatus]({{<relref ".">}}) \
+[Villa Fortunatus (Pleiades)](https://pleiades.stoa.org/places/907088811)
 
 
 ### Location Description
@@ -92,7 +92,7 @@ Unspecific
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[693721851](https://pleiades.stoa.org/places/693721851)
+[907088811](https://pleiades.stoa.org/places/907088811)
 
 #### TGN ID
 [7027125](http://vocab.getty.edu/page/tgn/7027125)
@@ -101,7 +101,7 @@ Unspecific
 AUTHOR_ID
 
 ### Publication date
-11 July 2020
+5 December 2020
 
 <!--### Related articles-->
 

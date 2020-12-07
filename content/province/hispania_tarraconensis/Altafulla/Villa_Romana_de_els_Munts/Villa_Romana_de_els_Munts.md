@@ -46,8 +46,8 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 
-[Altafulla]({{<relref ".">}}) \
-[Altafulla (Pleiades)](https://pleiades.stoa.org/places/617329374)
+[Villa dels Munts]({{<relref ".">}}) \
+[Villa dels Munts (Pleiades)](https://pleiades.stoa.org/places/250016)
 
 <!--### Location Description-->
 
@@ -108,7 +108,7 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[617329374](https://pleiades.stoa.org/places/617329374)
+[250016](https://pleiades.stoa.org/places/250016)
 
 
 #### TGN ID
@@ -120,7 +120,7 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-11 July 2020
+5 December 2020
 
 <!--### Related articles-->
 

@@ -41,13 +41,13 @@ The city has been continually occupied to the present day, now known as Cherchel
 House of the Scattered Branches and Flowers (Maison de la Jonchée)
 
 ### Keywords
-[columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-[domus](http://vocab.getty.edu/page/aat/300005506)
-[fountains](http://vocab.getty.edu/page/aat/300006179)
-[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-[terrace gardens](http://vocab.getty.edu/page/aat/300404778)
-[villae urbanae](http://vocab.getty.edu/page/aat/300005520)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
+- [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
 
 ### Garden Description
 Located on the southeastern seaboard of Cherchel, this domus was only partially excavated but is still considered to be one of the largest houses of Caesarea.  The ruins discovered between 1963 and 1964 are spread out over more than 60 meters from east to west and 30 meters from north to south.  The house had two levels separated by a terrace wall, 15 meters of which have been uncovered.
@@ -59,7 +59,7 @@ Only part of the southern gallery was excavated. The gallery was 3.15 meters wid
 It is assumed that the peristyle and its garden may have had a view over the sea. One of the rooms sharing this view was decorated with the mosaic of the Jonchée famous for its uniqueness.
 
 ### Plans
-{{< figure src="../images/house_of_the_scattered_branches_and_flowers_fig_1.tif" alt="Plan of the House of the Scattered Branches and Flowers" title="Fig. 1: Plan of the House of the Scattered Branches and Flowers (Rights Statement)">}}
+{{< figure src="../images/house_of_the_scattered_branches_and_flowers_fig_1.png" alt="Plan of the House of the Scattered Branches and Flowers. A terrace wall separated the lower portion of the house (the northern half) from the upper portion. A staircase is shown in the middle of the plan, linking the levels. The peristyle garden with the rectangular pool is in the northwest corner of the plan, immediately west of the bottom of the staircase. The partially excavated southern gallery opens immediately east from the top of the stairway." title="Fig. 1: Plan of the House of the Scattered Branches and Flowers (Rights Statement)">}}
 
 ### Images
 

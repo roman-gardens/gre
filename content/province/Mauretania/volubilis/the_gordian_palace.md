@@ -39,13 +39,13 @@ The Gordian Palace (Le palais dit de Gordien)
 
 ### Keywords
 
-[bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
-[columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-[palaces](http://vocab.getty.edu/page/aat/300005734)
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-[peristyle house](http://vocab.getty.edu/page/aat/300005452)
-[piscinae](http://vocab.getty.edu/page/aat/300375619)
-[porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [palaces](http://vocab.getty.edu/page/aat/300005734)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [peristyle house](http://vocab.getty.edu/page/aat/300005452)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description
 

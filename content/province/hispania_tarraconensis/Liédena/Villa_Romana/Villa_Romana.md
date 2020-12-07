@@ -111,7 +111,7 @@ The oecus or principal reception room is the room with an apse facing the southw
 AUTHOR_ID
 
 ### Publication date
-11 July 2020
+5 December 2020
 
 <!--### Related articles-->
 

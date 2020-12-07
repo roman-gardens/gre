@@ -1,5 +1,5 @@
 ---
-title: "House of the Cap Tizerine (Maison du Cap Tizerine)"
+title: "House of the Tizerine Cape (Maison du Cap Tizerine)"
 date: 2020-11-16T10:00:00-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -39,18 +39,18 @@ The city has been continually occupied to the present day, now known as Cherchel
 
 ## Garden
 
-House of the Cap Tizerine (Maison du Cap Tizerine)
+House of the Tizerine Cape (Maison du Cap Tizerine)
 
 ### Keywords
 
-[cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-[columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-[domus](http://vocab.getty.edu/page/aat/300005506)
-[fountains](http://vocab.getty.edu/page/aat/300006179)
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-[porticoes](http://vocab.getty.edu/page/aat/300004145)
-[terrace gardens](http://vocab.getty.edu/page/aat/300404778)
-[villae urbanae](http://vocab.getty.edu/page/aat/300005520)
+- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
+- [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
 
 ### Garden Description
 
@@ -62,7 +62,7 @@ The northeastern courtyard was most likely a peristyle-garden.  There, a basin p
 
 ### Plans
 
-{{< figure src="../images/house_of_the_cap_tizerine_fig_1.tif" alt="Plan of the House of the Cap Tizerine" title="Fig. 1: Plan of the House of the Cap Tizerine (Rights Statement)">}}
+{{< figure src="../images/house_of_the_tizerine_cape_fig_1.png" alt="Plan of the House of the Tizerine Cape. Only a portion of the house is shown in the plan, due to incomplete excavation of the site. The primary portion shown is rectangular in aspect, one room thick along a generally northeast-southwest line. The three garden areas are to the south, the northwest, and the northeast of the surviving rooms, respectively. Additional rooms are shown in the southwest and northeast corners of the plan, bounding the three gardens and suggesting large footprint for the original house." title="Fig. 1: Plan of the House of the Tizerine Cape (Rights Statement)">}}
 
 ### Images
 

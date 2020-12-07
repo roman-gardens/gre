@@ -39,12 +39,12 @@ House of the Columns (La maison aux colonnes)
 
 ### Keywords
 
-[columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-[fountains](http://vocab.getty.edu/page/aat/300006179)
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-[peristyle house](http://vocab.getty.edu/page/aat/300005452)
-[piscinae](http://vocab.getty.edu/page/aat/300375619)
-[porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [peristyle house](http://vocab.getty.edu/page/aat/300005452)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description
 

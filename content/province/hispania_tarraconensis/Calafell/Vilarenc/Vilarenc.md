@@ -44,8 +44,8 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 
-[Calafell]({{<relref ".">}}) \
-[Calafell (Pleiades)](https://pleiades.stoa.org/places/617329375)
+[Vilarenc]({{<relref ".">}}) \
+[Vilarenc (Pleiades)](https://pleiades.stoa.org/places/789886461)
 <!-- before the word description, and -->
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -86,7 +86,7 @@ The villa dates from the first century BC to the third century AD when it was tr
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[617329375](https://pleiades.stoa.org/places/617329375)
+[789886461](https://pleiades.stoa.org/places/789886461)
 
 
 #### TGN ID
@@ -96,7 +96,7 @@ The villa dates from the first century BC to the third century AD when it was tr
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-11 July 2020
+5 December 2020
 
 <!--### Related articles-->
 

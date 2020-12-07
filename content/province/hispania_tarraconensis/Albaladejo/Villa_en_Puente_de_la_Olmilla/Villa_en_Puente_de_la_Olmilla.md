@@ -46,8 +46,8 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 
-[Albaladejo]({{<relref ".">}}) \
-[Albaladejo (Pleiades)](https://pleiades.stoa.org/places/453382210)
+[Puente de la Olmilla]({{<relref ".">}}) \
+[Puente de la Olmilla (Pleiades)](https://pleiades.stoa.org/places/266009)
 
 <!--### Location Description-->
 
@@ -99,7 +99,7 @@ This fourth-century villa was discovered in 1973.  An apse and a figured mosaic 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[453382210](https://pleiades.stoa.org/places/453382210)
+[266009](https://pleiades.stoa.org/places/266009)
 
 #### TGN ID
 [7347952](http://vocab.getty.edu/page/tgn/7347952)
@@ -109,7 +109,7 @@ This fourth-century villa was discovered in 1973.  An apse and a figured mosaic 
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-11 July 2020
+5 December 2020
 
 <!--### Related articles-->
 

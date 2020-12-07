@@ -1,0 +1,98 @@
+---
+title: "House of the Triumph of Neptune (Maison du Triomphe de Neptune)"
+date: 2020-09-29T09:49:36-04:00
+province_id: PROVINCE_ID
+article_id: ARTICLE_ID
+author: John Bodel
+editor: Jinyi Yang
+draft: false
+
+categories:
+ - "PROCONSULARIS"
+tags:
+  - ""
+  - ""
+---
+
+## Province
+
+[Africa proconsularis(Pleiades)](https://pleiades.stoa.org/places/991341)
+
+### Province Description
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+<!-- DESCRIPTION -->
+
+
+## Location
+
+[ALTHIBUROS (Médeïna) Tunisia(Pleiades)](https://pleiades.stoa.org/places/324664)
+
+### Location Description
+This town is located on the road between Carthage and Theveste near the border of Proconsularis and Byzacena 35 km west of Mactar. Under the Roman Empire it remained an indigenous civitas until it was raised to the status of a municipium by Hadrian: municipium aelium hadrianum augustum althiburitanum and later was granted the ius Italicum.
+
+The trade of agricultural products and craftsmanship made Althiburos a prosperous city, particularly, the fabrication and the commerce of aromatics. The development of the city reached its peak under the Antonian and Severian dynasties. It is difficult to follow the history of Althiburos during the third century when the province of Africa underwent the severe crisis of 238. The city was abandoned just before the Arab conquest.  Excavations have brought to light the forum, the capitol, the Hadrianic triumphal arch and two temples. At the east corner of the forum, near one of the temples, was a complex of houses and a building with a rotonda to the south of which stood a monumental fountain. Outside the excavated center are other monuments, among them the theater and a triumphal arch.
+
+<!--## Sublocation-->
+
+<!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+
+<!--### Sublocation Description-->
+
+<!-- DESCRIPTION -->
+
+## Garden
+
+House of the Fishing Scene (Maison de la scène de pêche)
+
+### Keywords
+
+- [Il Portico](http://vocab.getty.edu/page/tgn/7051783)
+- [triclinium](http://vocab.getty.edu/page/aat/300004359)
+- [lararium](http://vocab.getty.edu/page/aat/300400600)
+- [foliage](http://vocab.getty.edu/page/tgn/7513757)
+
+### Garden Description
+
+The house, noteworthy for its many and varied mosaic floors, is located on the right side of Oum El Abid river in a residential neighborhood. This vast domus is laid out around a peristyle onto which the rooms open. The courtyard (6.50 x 6.50 m) may have been planted (Plan view, Fig. 1).  A long basin (4.15x 1.85; D. 0,72m.) was placed on the axis of the triclinium (G). Each end of the basin is curved to form a semi-circular pool.
+
+The triclinium was bordered on two sides by two apartments that each had rooms and a corridor. The rooms to the north of the triclinium have an additional non-paved courtyard (L) enclosed by a colonnade closed by a balustrade. This lightwell may have been a small garden.
+
+
+
+### Maps
+
+
+<!--### Plans-->
+
+
+### Images
+
+{{< figure src="../images/AFR_Alt_Hm_Wjashemski.jpg" alt="Fig. 1: Plan of the House of the Muses. Photo courtesy of Amina-Aïcha Malek." title="Fig. 1: Plan of the House of the Muses. Photo courtesy of Amina-Aïcha Malek.(Rights statement)" >}}
+
+### Dates
+
+Antonian and Severian period (II-III c.)
+
+### Bibliography
+
+* R. Rebuffat, 1969, *Althiburos 2; M. Ennaifer, La cité d’Althiburos et l’édifice des Asclepieia*, INA, Tunis, 1976, p. 64-70, plan II.[(worldcat)](http://www.worldcat.org/oclc/491396075)
+* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003,p.27-29. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+
+
+#### Pleiades ID
+
+[324653](https://pleiades.stoa.org/places/324653)
+
+#### TGN ID
+
+[6000082](http://vocab.getty.edu/page/tgn/6000082)
+
+### Contributor
+
+[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X)
+
+### Publication date
+13 November  2020

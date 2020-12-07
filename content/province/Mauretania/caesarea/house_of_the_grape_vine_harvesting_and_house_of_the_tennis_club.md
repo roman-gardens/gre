@@ -43,15 +43,15 @@ House of the Grape Vine Harvesting and House of the Tennis Club (Maison des Vend
 
 ### Keywords
 
-[atrium houses] (http://vocab.getty.edu/page/aat/300005451)
-[columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-[courtyards](http://vocab.getty.edu/page/aat/300004095)
-[domus](http://vocab.getty.edu/page/aat/300005506)
-[impluvia](http://vocab.getty.edu/page/aat/300129867)
-[mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-[reception rooms](http://vocab.getty.edu/page/aat/300077176)
-[villae urbanae](http://vocab.getty.edu/page/aat/300005520)
+- [atrium houses] (http://vocab.getty.edu/page/aat/300005451)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [impluvia](http://vocab.getty.edu/page/aat/300129867)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
+- [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
 
 ### Garden Description
 
@@ -59,11 +59,11 @@ On the seaside, two houses were partially excavated on the Tennis Club estate. T
 
 In the eastern house, it is impossible to determine if the courtyard contained a peristyle garden.  However, it did have three porticoes paved with mosaics, one of which figured wild animal hunting.
 
-The eastern dwelling was organized around a narrow peristyle garden, 8.5 by 16.5 m, in which the open area was only 1.6 m wide.  Jean Lassus describes this unusual peristyle garden as a sort of "atrium" with its four-sided slanted roof and a garden as the impluvium. To the east was a reception room, decorated with the well-known Harvesting of the Vines mosaic (Mosaïque des Vendanges).
+The western dwelling was organized around a narrow peristyle garden, 8.5 by 16.5 m, in which the open area was only 1.6 m wide.  Jean Lassus describes this unusual peristyle garden as a sort of "atrium" with its four-sided slanted roof and a garden as the impluvium. To the east was a reception room, decorated with the well-known Harvesting of the Vines mosaic (Mosaïque des Vendanges).
 
 ### Plans
 
-{{< figure src="../images/house_of_the_harvesting_and_house_of_the_tennis_club_fig_1.tif" alt="Plan of the House of the Harvesting and the House of the Tennis Club" title="Fig. 1: Plan of the House of the Harvesting and the House of the Tennis Club (Rights Statement)">}}
+{{< figure src="../images/house_of_the_harvesting_and_house_of_the_tennis_club_fig_1.png" alt="Plan of the House of the Harvesting and the House of the Tennis Club. The two houses share a common wall and are each composed of rough grid of small rooms. The eastern house contains a small square courtyard that may have been planted as a garde. The western house contains three garden areas. The largest has an L-shaped aspect, with the short side of the L along a roughly east-west line and the long side extending towards the south. Adjacent to the long side of the first garden and immediately to the west is the second garden space, smaller and square in aspect. The third garden space is on the western side of the second, roughly circular in aspect except for the straight border where it meets the second garden." title="Fig. 1: Plan of the House of the Harvesting and the House of the Tennis Club (Rights Statement)">}}
 
 ### Images
 

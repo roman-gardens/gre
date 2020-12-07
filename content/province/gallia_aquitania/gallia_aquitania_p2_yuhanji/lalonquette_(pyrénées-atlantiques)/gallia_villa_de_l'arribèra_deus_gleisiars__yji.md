@@ -1,0 +1,139 @@
+---
+title: "Villa de l'Arribèra deus Gleisiars, Europa"
+date: 2020-10-22T12:39:10-04:00
+province_id: PROVINCE_ID
+article_id: ARTICLE_ID
+author: AUTHOR_ID
+editor: Yuhan Ji
+draft: false
+
+categories:
+ - "Gallia"
+
+---
+
+## Province
+
+[Gallia Aquitania]({{<relref "../../../..">}})
+[Aquitania](https://pleiades.stoa.org/places/981505)
+
+### Province Description-->
+A Roman province formed in 27 B.C. by Augustus. According to Strabo, it incorporated the territories of the Aquitani and 14 other peoples whose territories were located between the Garumna and Liger rivers.
+<!-- DESCRIPTION -->
+
+
+## Location
+
+[LALONQUETTE]({{<relref "../../..">}}) \
+[(Pleiades)](https://pleiades.stoa.org/places/249924)
+
+<!--### Location Description-->
+
+<!-- LEAVE THIS BLANhttps://pleiades.stoa.org/places/249924K FOR NOW -->
+
+<!--## Sublocation>
+
+
+<!--### Sublocation Description-->
+
+<!-- DESCRIPTION -->
+
+<!-- ## Insula
+
+[]({{<relref "..">}})
+-->
+
+## House
+
+[Villa de l'Arribèra deus Gleisiars ]({{<relref ".">}})
+
+## House Description
+The villa was first noted in 1843, then partially explored at the end of nineteenth century, and then extensively excavated by J. Lauffray from 1959 to 1970 but only partly published.  Specific researches have been conducted since 1988.  Four principal phases of occupation have been revealed between the early empire and the end of antiquity.
+
+## Garden
+
+?
+
+### Keywords
+- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [terra cotta](http://vocab.getty.edu/page/aat/300010669)
+- [apse](http://vocab.getty.edu/page/aat/300004607)
+- [belvedere](http://vocab.getty.edu/page/aat/300006798)
+- [courtyard](http://vocab.getty.edu/page/aat/300004095)
+- [mosaic](http://vocab.getty.edu/page/aat/300343598)
+- [pool](http://vocab.getty.edu/page/aat/300008692)
+- [masonry](not sure which one)
+- [esplanade](http://vocab.getty.edu/page/aat/300008329)
+
+### Garden Description
+In the first phase built in the late first or early second century, there were, to judge from published plans, agricultural buildings raying out from an open courtyard with a circular pool. These structures were not turned towards the Gabas (F. Réchin, 1995).
+
+The villa built later in the second century, the second phase, faced the Gabas to the east. Back of a monumental vestibule with a semicircular portico curving towards the Gabas [XVII] the rooms and the baths were arranged around an irregular peristyle [II] that may have had a garden in the center.  The little pool is now almost in the center. Several reception rooms open onto the porticoes, among them a room with a semicircular apse [XII] and the room [XXII] which opens through a semicircular portico towards the Gabas.
+
+The villa of late antiquity is the best known and provides the third and fourth phases. In the fourth century, perhaps in the time of Constantine, the previous constructions were leveled and a new villa built keeping the same orientation and the same placement of the peristyle but using a different construction technique. In front of the villa, there extended to the south a large rectangular court closed by a wall across the south end.  It may well have been planted as a garden.  The form of the formal vestibule is modified.  The peristyle (25 x 21 m) is regularized with four identical porticoes with terra cotta columns.
+
+The open area (17 x 12.6 m) was undoubtedly planted.  It was bordered by gutter of terra cotta to catch the water from the roofs.  In the center, a little structure with a roof supported by four pillars covered the circular pool, still preserved from the first house. The reception rooms were transformed.  Where the former room with a semicircular apse [XII] had been, a new, heated room was constructed with a polygonal apse.  The east wing is entirely different.  Room [XXII] lost its portico with an apse on the outside and was instead given an alcove to the south. A façade overlooking the river was formed by a gallery (25 x 4.8 m with apses at either end) running north-south, parallel to the river.  A series of large rectangular rooms opened onto the peristyle on their west side and onto this gallery to their east sides.  The gallery was originally connected to a passageway descending in a hairpin turn towards the shore.  This belvedere structure suggests that the area between the house and the river would have been carefully planted and tended.In a fourth and final phase, from the end of the fourth or early fifth century, following a fire in the baths and neighboring rooms, the villa was restored and transformed.  The courtyard in front of the villa on the south was kept, though nothing is known of its organization.  The galleries of the peristyle were repaved with mosaics. The central pool and its cover seem to have been eliminated.  Numerous rooms were added, others were re-decorated, and others lost their heating.  The apses at either end of the belvedere overlooking the river were surrounded on the outside by masonry masses, but the colonnade was eliminated and a gently sloping esplanade offered a view of the Gabas.
+
+
+<!--### Maps-->
+
+<!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+-->
+
+<!--### Plans
+
+
+### Images
+
+-->
+
+### Dates
+
+First phase: late first or early second century;
+second phase: second century;
+third and fourth phases: late antiquity.
+
+#### Excavation Dates
+
+1959-1970
+
+### Bibliography
+
+* *Gallia*, XIX, 1961,p. 396-398; XXI, 1963, p. 535-536; XXVII, 1969, p. 376-379; XXIX, 1971, p. 362-364 [(worldcat)](http://www.worldcat.org/oclc/690422235)
+* J. Lauffray J. J. Schreyeck, N. Dupré, “Les établissements et les villas gallo-romaines de Lalonquette (Pyrénées-Atlantiques)” in *Gallia 31.1*, 1973, p. 123-155 [(worldcat)](http://www.worldcat.org/oclc/2365297)
+* E. Morvillez, *Forme et évolution des salles de réception des grandes demeures tardives du bassin méditerranéen occidental (IVème-Vième siècle)*, 1993, t. 1, p. 134-142 [worldcat](http://www.worldcat.org/oclc/70868564)
+* F. Réchin, *Bilan scientifique de la région Aquitaine (Service Régional de l’Archéologie)*, 1994, 112-113, 1995, p. 103-104 [(worldcat)](http://www.worldcat.org/oclc/473478466)
+* R. Compatangelo, R. Plana Mallart, *Bilan scientifique de la région Aquitaine (Service Régional de l’Archéologie)*, 1997, p. 113-114 ;  [(worldcat)](http://www.worldcat.org/oclc/473478466)
+* Catherine Balmelle, *Les demeures aristocratiques d'Aquitaine, societe et culture de l'Antiquite tardive dans le sou-ouest de la Gaule*, Ausonius, supple. d'Aquitania 10, Bordeaux 2001, p. 99-103, 128-129, 131-133, 359-362, 445. [(worldcat)](http://www.worldcat.org/oclc/606733875)
+
+
+
+<!--#### Periodo ID-->
+
+<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+
+#### Pleiades ID
+[981505](https://pleiades.stoa.org/places/981505)
+[249924](https://pleiades.stoa.org/places/249924)
+
+#### TGN ID
+
+[]()
+
+### Contributor
+
+
+
+### Publication date
+
+
+
+<!--### Related articles-->
+
+<!-- Links to other related articles. Leave blank for now -->

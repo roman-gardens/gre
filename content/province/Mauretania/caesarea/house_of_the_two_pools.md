@@ -43,10 +43,10 @@ House of the Two Pools (Maison aux Deux Bassins)
 
 ### Keywords
 
-[domus](http://vocab.getty.edu/page/aat/300005506)
-[nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-[villae urbanae](http://vocab.getty.edu/page/aat/300005520)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
 
 ### Garden Description
 

@@ -39,11 +39,11 @@ House of Flavius Germanus (La maison de Flavius Germanicus)
 
 ### Keywords
 
-[columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-[peristyle house](http://vocab.getty.edu/page/aat/300005452)
-[piscinae](http://vocab.getty.edu/page/aat/300375619)
-[porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [peristyle house](http://vocab.getty.edu/page/aat/300005452)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description
 

@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Kathryn Gleason
 editor: Yaniv Korman
-draft: false
+draft:  true
 
 categories:
  - "Judaea"
@@ -87,7 +87,7 @@ Royal Garden
 
 ### Dates
 
- 30 BCE - 60 CE
+30 BCE - 60 CE
 
 ### Bibliography
 

@@ -72,7 +72,7 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 
 
 ### Plans
-{{< figure src="../images/HIS_TAR_Emp_plan_fig2" alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." title="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." >}}
+{{< figure src="../images/HIS_TAR_Emp_plan_fig2.jpg" alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." title="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." >}}
 
 ### Images
 {{< figure src="../images/HIS_TAR_Emp_aerial_viewfig1.jpg" alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." title="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." >}}
@@ -117,7 +117,7 @@ Unspecified
 AUTHOR_ID
 
 ### Publication date
-11 July 2020
+5 December 2020
 
 <!--### Related articles-->
 

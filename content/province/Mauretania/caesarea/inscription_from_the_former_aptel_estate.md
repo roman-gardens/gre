@@ -43,9 +43,9 @@ Inscription from the former Aptel Estate
 
 ### Keywords
 
-[columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-[domus](http://vocab.getty.edu/page/aat/300005506)
-[nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 
 ### Garden Description
 
