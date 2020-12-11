@@ -10,8 +10,7 @@ draft: false
 categories:
  - "proconsularis"
 tags:
-  - "Thysdrus"
-  - ""
+ - "Thysdrus"
 ---
 
 ## Province
