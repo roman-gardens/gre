@@ -82,7 +82,7 @@ During the third phase, in the 6th century, the entire garden, including the fou
 
 ### Images
 
-{{< figure src="../images/ASIA-JUD-CAESAREA-PATRICH-1.jpg" alt="Fig. 2: Reconstructed section of vaults and planting area showing roof garden construction (E. Clemence after J. Patrich)" title="Fig. 2: Reconstructed section of vaults and planting area showing roof garden construction (E. Clemence after J. Patrich)" >}}
+{{< figure src="../images/ASIA-JUD-CAESAREA-PATRICH-2.jpg" alt="Fig. 2: Reconstructed section of vaults and planting area showing roof garden construction (E. Clemence after J. Patrich)" title="Fig. 2: Reconstructed section of vaults and planting area showing roof garden construction (E. Clemence after J. Patrich)" >}}
 
 ### Dates
 

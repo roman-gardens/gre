@@ -83,13 +83,11 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
  - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. [(worldcat)](http://www.worldcat.org/oclc/7840420644)
 
 
-
 <!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-
 [667996380](https://pleiades.stoa.org/places/667996380)
 
 #### TGN ID
@@ -99,7 +97,7 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-5 December 2020
+15 December 2020
 
 <!--### Related articles-->
 

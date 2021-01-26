@@ -1,6 +1,6 @@
 ---
 title: "House with Pilasters (Clos du Verbe Incarné)"
-date: 2020-11-15T10:39:31-07:00
+date: 2020-08-12T10:39:31-07:00
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -54,7 +54,7 @@ The house was originally constructed of adobe on a floor and gutter of granite m
 LUG 1. 1. House with Pilasters. On the rectangle surrounding the word "Garden?" in the upper left corner is the "House with Pilasters." Source, Maison 1996, p.134.
 
 ### Plans
-{{< figure src="../House with the pilasters images/Picture1.jpg" alt="This is a plan of the House of the Pilasters. The top of the image shows a section running through the house and atriums. The bottom plan depicts where the house stood amongst a cluster of excavated building bases." title="LUG 1. 1. House with Pilasters. On the rectangle surrounding the word \"Garden?\" in the upper left corner is the \"House with Pilasters.\" Source, Maison 1996, p.134." >}}
+{{< figure src="../gallia_lug_images/house_with_the_pilasters_image.jpg" alt="This is a plan of the House of the Pilasters. The top of the image shows a section running through the house and atriums. The bottom plan depicts where the house stood amongst a cluster of excavated building bases." title="LUG 1. 1. House with Pilasters. On the rectangle surrounding the word \"Garden?\" in the upper left corner is the \"House with Pilasters.\" Source, Maison 1996, p.134." >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
@@ -85,7 +85,7 @@ Unspecified
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
 
 ### Publication date
-15 November 2020  
+08 December 2020  
 
 <!--### Related articles-->
 

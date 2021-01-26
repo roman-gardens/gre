@@ -82,17 +82,17 @@ While the theater belongs to multiple phases of construction, the aula sacra bel
 
 ### Plans
 
-{{< figure src="../image/HIS_LUS_peristyle_theatre_fig1.jpg" alt="Fig. 1: Plan of the theater and peristyle." title="Fig. 1: Plan of the theater and peristyle." >}}
+{{< figure src="../images/his_lus_peristyle_theatre_fig1.jpg" alt="Fig. 1: Plan of the theater and peristyle." title="Fig. 1: Plan of the theater and peristyle." >}}
 
 ### Images
 
-{{< figure src="../image/HIS_LUS_peristyle_theatre_fig2.jpg" alt="Fig. 2: Photo of the theater peristyle garden." title="Fig. 2: Photo of the theater peristyle garden." >}}
+{{< figure src="../images/his_lus_peristyle_theatre_fig2.jpg" alt="Fig. 2: Photo of the theater peristyle garden." title="Fig. 2: Photo of the theater peristyle garden." >}}
 
-{{< figure src="../image/HIS_LUS_peristyle_theatre_fig3.jpg" alt="Fig. 3: Photo of the theater peristyle garden." title="Fig. 3: Photo of the theater peristyle garden." >}}
+{{< figure src="../images/his_lus_peristyle_theatre_fig3.jpg" alt="Fig. 3: Photo of the theater peristyle garden." title="Fig. 3: Photo of the theater peristyle garden." >}}
 
-{{< figure src="../image/HIS_LUS_peristyle_theatre_fig4.jpg" alt="Fig. 4: Photo of the theater peristyle garden." title="Fig. 4: Photo of the theater peristyle garden." >}}
+{{< figure src="../images/his_lus_peristyle_theatre_fig4.jpg" alt="Fig. 4: Photo of the theater peristyle garden." title="Fig. 4: Photo of the theater peristyle garden." >}}
 
-{{< figure src="../image/HIS_LUS_peristyle_theatre_fig5.jpg" alt="Fig. 5: Photo of the theater peristyle garden from the north side." title="Fig. 5: Photo of the theater peristyle garden from the north side." >}}
+{{< figure src="../images/his_lus_peristyle_theatre_fig5.jpg" alt="Fig. 5: Photo of the theater peristyle garden from the north side." title="Fig. 5: Photo of the theater peristyle garden from the north side." >}}
 
 ### Dates
 
@@ -105,7 +105,7 @@ While the theater belongs to multiple phases of construction, the aula sacra bel
 ### Bibliography
 
 * A. Floriano, “Excavaciones en Mérida (Campañas de 1934 y 1936)”, in *Archivo Español de Arqueología*,  55 (1944): 151-187 [(worldcat)](http://www.worldcat.org/oclc/1122498001)
-* J.R. Mélida, “El teatro romano de Mérida,” *R.A.B.M.*, 32, (1915): 1-38
+* J.R. Mélida, “El teatro romano de Mérida,” *R.A.B.M.*, 32, (1915): 1-38 [(worldcat)](http://www.worldcat.org/oclc/252779984)
 * P. Mateos Cruz and J. Marquez Pérez, ‘Neuvas structuras urbanas relacionadas con el Teatro Romano de Mérida: El pórtico de acceso,’ *Mérida, excavaciones arqueológicas, 1997*, pp.301-20 [(worldcat)](http://www.worldcat.org/oclc/48947141)
 * W. Trillmich, *Die Prásenz des Kaiserhauses im Theater der Colonia Augusta Emerita* , (unpublished disertation), University of München (1995)
 

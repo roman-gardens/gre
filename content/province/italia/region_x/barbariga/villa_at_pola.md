@@ -1,6 +1,6 @@
 ---
-title: Villa at Pola (I.iii.23)"
-date: 2020-11-18T12:00:02-05:00
+title: Villa at Pola"
+date: 2020-12-10T12:00:02-05:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Annalisa Marzano
@@ -112,7 +112,7 @@ Tom Elliott (https://pleiades.stoa.org/author/thomase)
 
 ### Publication date
 
-29 Nov 2020
+15 Dec 2020
 
 <!--### Related articles-->
 

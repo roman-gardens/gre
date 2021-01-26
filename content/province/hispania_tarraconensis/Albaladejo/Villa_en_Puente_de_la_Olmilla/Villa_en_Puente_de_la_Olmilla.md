@@ -45,7 +45,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Location
-
 [Puente de la Olmilla]({{<relref ".">}}) \
 [Puente de la Olmilla (Pleiades)](https://pleiades.stoa.org/places/266009)
 
@@ -109,7 +108,7 @@ This fourth-century villa was discovered in 1973.  An apse and a figured mosaic 
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-5 December 2020
+15 December 2020
 
 <!--### Related articles-->
 

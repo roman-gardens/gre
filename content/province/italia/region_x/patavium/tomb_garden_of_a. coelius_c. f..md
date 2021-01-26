@@ -1,6 +1,6 @@
 ---
-title: "Tomb garden of A. Coelius C. f. (I.iii.23)"
-date: 2020-11-20T12:00:02-05:00
+title: "Tomb garden of A. Coelius C. f."
+date: 2020-12-10T12:00:02-05:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
@@ -101,7 +101,7 @@ Brady Kiesling (https://pleiades.stoa.org/author/bkiesling)
 
 ### Publication date
 
-28 Nov 2020
+15 Dec 2020
 
 <!--### Related articles-->
 

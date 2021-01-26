@@ -1,6 +1,6 @@
 ---
 title: "House on the Place des Halles (La maison des Halles)"
-date: 2020-11-21T10:39:31-07:00
+date: 2020-12-08T10:39:31-07:00
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -28,7 +28,7 @@ tags:
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-<## Sublocation-->
+<!-- ## Sublocation-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
@@ -62,7 +62,7 @@ This *domus* was on the Place des Halles, the former site of the covered market 
 -->
 
 ### Plans
-{{< figure src="../House on the Place des Halles (La maison des Halles) images/Picture6.jpg" alt="A section drawing depicting the two floors of what a restored domus would look like." title="Restored section of the entire domus by P. André" >}}
+{{< figure src="../gallia_lug_images/place_des_halles.jpg" alt="A section drawing depicting the two floors of what a restored domus would look like." title="Restored section of the entire domus by P. André" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
@@ -95,7 +95,7 @@ Unspecified
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ### Publication date
-21 November 2020
+08 December 2020
 
 <!--### Related articles-->
 

@@ -79,12 +79,12 @@ These baths are remarkable for their size (55 x 95 m), symmetry, and inclusion o
 
 
 ### Plans
-{{< figure src="../images/HIS_TAR_Clu_Arc_pb_fig1.jpg" alt="Plan of the Arcos I baths." title="Plan of the Arcos I baths.  Adapted from de Palol, p. 81." >}}
+{{< figure src="../images/HIS_TAR_Clu_Arc_pb_fig1.JPG" alt="Plan of the Arcos I baths." title="Plan of the Arcos I baths.  Adapted from de Palol, p. 81." >}}
 
 
 
 ### Images
-{{< figure src="../images/HIS_TAR_Clu_Arc_pb_fig2.jpg" alt="Photo looking north across Arcos I baths." title="Photo looking north across Arcos I baths." >}}
+{{< figure src="../images/HIS_TAR_Clu_Arc_pb_fig2.JPG" alt="Photo looking north across Arcos I baths." title="Photo looking north across Arcos I baths." >}}
 
 
 ### Dates
@@ -111,7 +111,7 @@ Unspecified
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-5 December 2020
+15 December 2020
 
 <!--### Related articles-->
 

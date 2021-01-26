@@ -1,6 +1,6 @@
 ---
 title: "Villa of the Statue (I.iii.23)"
-date: 2020-11-11T12:00:02-05:00
+date: 2020-12-10T12:00:02-05:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Annalisa Marzano
@@ -99,7 +99,7 @@ NEW WAY ↓↓↓↓
 
 #### Excavation Date
 
-19 century
+19th century
 
 ### Bibliography
 
@@ -124,7 +124,7 @@ NEW WAY ↓↓↓↓
 
 ### Publication date
 
-15 Nov 2020
+15 Dec 2020
 
 <!--### Related articles-->
 

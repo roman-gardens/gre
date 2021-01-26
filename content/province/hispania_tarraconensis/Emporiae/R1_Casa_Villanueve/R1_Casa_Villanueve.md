@@ -79,7 +79,7 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 
 
 ## Garden
-House of the Peristyle
+R1 Casa Villanueve
 
 ### Keywords
 - [Augustan](http://vocab.getty.edu/page/aat/300020543)
@@ -96,7 +96,7 @@ This large house, some 4,000 square meters, was long and narrow. (Fig. 2) Variou
 - X. Aquilué, J. Ruíz de Arbulo, *La jardinería en la época antigua*, in Historia de los Parques y Jardines en España. Edita FCC, Madrid, 2001 p. 18-20. [(worldcat)](http://www.worldcat.org/oclc/1090911182)
 
 ### Plans
-{{< figure src="../images/HIS_TAR_Emp_villanueva_fig1.jpg" alt="Plan of R1 Casa Villanueve." title="Plan of R1 Casa Villanueve." >}}
+{{< figure src="../images/HIS_TAR_Emp_villanueva_fig1.JPG" alt="Plan of R1 Casa Villanueve." title="Plan of R1 Casa Villanueve." >}}
 
 ### Dates
 1C BC
@@ -118,7 +118,7 @@ This large house, some 4,000 square meters, was long and narrow. (Fig. 2) Variou
 AUTHOR_ID
 
 ### Publication date
-5 December 2020
+15 December 2020
 
 <!--### Related articles-->
 

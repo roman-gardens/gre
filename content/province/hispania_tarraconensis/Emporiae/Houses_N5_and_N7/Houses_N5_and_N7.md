@@ -93,9 +93,9 @@ These two adjacent houses are typical Tuscan atrium houses, both are against the
 
 
 ### Plans
-{{< figure src="../images/HIS_TAR_Emp_5_7_fig1.jpg" alt="Plan of Houses N7 and N5." title="Plan of Houses N7 and N5.  Adapted from Ampurias Romana, p.366." >}}
+{{< figure src="../images/HIS_TAR_Emp_5_7_fig1.JPG" alt="Plan of Houses N7 and N5." title="Plan of Houses N7 and N5.  Adapted from Ampurias Romana, p.366." >}}
 
-{{< figure src="../images/HIS_TAR_Emp_5_7_fig2.jpg" alt="Plan of Houses N7 and N6." title="Plan of Houses N7 and N6.  Adapted from Mar and Ruiz de Arbulo." >}}
+{{< figure src="../images/HIS_TAR_Emp_5_7_fig2.JPG" alt="Plan of Houses N7 and N6." title="Plan of Houses N7 and N6.  Adapted from Mar and Ruiz de Arbulo." >}}
 
 ### Dates
 Unspecified
@@ -117,7 +117,7 @@ Unspecified
 AUTHOR_ID
 
 ### Publication date
-5 December 2020
+15 December 2020
 
 <!--### Related articles-->
 

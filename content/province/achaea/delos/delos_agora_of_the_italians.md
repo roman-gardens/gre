@@ -1,5 +1,5 @@
 ---
-title: "Agora of the Italians"
+title: "Agora of the Italians, Delos"
 date: 2020-10-25T10:30-04:00
 province_id: PROVINCE_id
 article_id: ARTICLE_ID

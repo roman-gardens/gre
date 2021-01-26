@@ -85,13 +85,13 @@ An equally important second nucleus of this house consisted of a complex of room
 
 ### Plans
 
-{{< figure src="../image/HIS_LUS_Col_Augusta_Ha_fig1.jpg" alt="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left.  Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century." title="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left.  Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century.  Adapted from the tourist guide issued by the Mérida Consorzio." >}}
+{{< figure src="../images/his_lus_col_augusta_ha_fig1.jpg" alt="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left.  Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century." title="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left.  Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century.  Adapted from the tourist guide issued by the Mérida Consorzio." >}}
 
-{{< figure src="../image/HIS_LUS_Col_Augusta_Ha_plan_fig3_alternate.jpg" alt="Fig. 2: Plan of the House of the Amphitheater." title="Fig. 2: Plan of the House of the Amphitheater.  Adapted from Casillas Moreno, where it was taken from De Alvarado Barrena." >}}
+{{< figure src="../images/his_lus_col_augusta_ha_plan_fig3_alternate.jpg" alt="Fig. 2: Plan of the House of the Amphitheater." title="Fig. 2: Plan of the House of the Amphitheater.  Adapted from Casillas Moreno, where it was taken from De Alvarado Barrena." >}}
 
 ### Images
 
-{{< figure src="../image/HIS_LUS_Col_Augusta_Ha_photo_fig2.jpg" alt="Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater." title="Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater." >}}
+{{< figure src="../images/his_lus_col_augusta_ha_photo_fig2.jpg" alt="Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater." title="Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater." >}}
 
 ### Dates
 
@@ -104,7 +104,7 @@ from 1947
 ### Bibliography
 
 * A. Balil Illana, A. 1976: "Sobre la arquitectura doméstica en Augusta Emerita", *Augusta Emerita Actas del Bimilenario de Mérida, Mérida*, 75-91. [(worldcat)](http://www.worldcat.org/oclc/256553527)
-* E. García Sandoval, Excavaciones arqueológicas en la zona de Mérida: La Casa del Anfiteatro," in *C.A.N.*, 8 (i964): 469-477
+* E. García Sandoval, Excavaciones arqueológicas en la zona de Mérida: La Casa del Anfiteatro," in *C.A.N.*, 8 (i964): 469-477 [(worldcat)](http://www.worldcat.org/oclc/43198027)
 * E. García Sandoval, Informe sobre las casa romanas de Mérida y excavaciones en la «Casa del Anfiteatro»," in *Excavaciones Arqueológicas en España*  nº. 49, Madrid, 1964. [(worldcat)](http://www.worldcat.org/oclc/681090209)
 <!--#### Periodo ID-->
 

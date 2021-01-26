@@ -42,18 +42,17 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Location
-
 [Liedena]({{<relref ".">}}) \
 [Liedena (Pleiades)](https://pleiades.stoa.org/places/976648082)
 
 
 ### Location Description
-
 Fraga sits astride the Cinca river about 86 kilometers northwest of Tarragona and 103 kilometers east of Zaragoza.  About 15 kilometers downstream, the Cinca is joined by the Segre and after another 5 kilometers they join the Ebro, which flows into the Mediterranean about 70 kilometers south west of Tarragona.  
 
 
 ## Garden
 Villa Romana  
+
 
 ### Keywords
 - [catch basin](http://vocab.getty.edu/page/aat/300052554)
@@ -73,9 +72,6 @@ Even though there are no other remains of bed borders, trellis, or paths nor any
 Blas Taracena Aguirre, 1949, p.16
 
 The oecus or principal reception room is the room with an apse facing the southwest corner of the peristyle. It is one of the few rooms resting on foundations from the first villa.   Adjacent to its south side is a rectangular area which may have had a garden in the center.  Further south was a fairly large open area.  Possibly it was a garden, but a palestra associated with the nearby baths seems more likely.
-
-
-
 
 
 ### Bibliography
@@ -111,7 +107,7 @@ The oecus or principal reception room is the room with an apse facing the southw
 AUTHOR_ID
 
 ### Publication date
-5 December 2020
+15 December 2020
 
 <!--### Related articles-->
 

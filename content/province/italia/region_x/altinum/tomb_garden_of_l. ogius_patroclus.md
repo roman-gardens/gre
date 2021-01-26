@@ -1,6 +1,6 @@
 ---
-title: "Tomb Garden of L. Ogius Patroclus (I.iii.23)"
-date: 2020-11-28T12:00:02-05:00
+title: "Tomb Garden of L. Ogius Patroclus"
+date: 2020-12-10T12:00:02-05:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
@@ -78,7 +78,7 @@ unspecified
 
 #### Excavation Date
 
-Sixteenth century
+16th century
 
 ### Bibliography
 
@@ -103,7 +103,7 @@ Sean Gillies (https://pleiades.stoa.org/author/sgillies)
 
 ### Publication date
 
-28 Nov 2020
+15 Dec 2020
 
 <!--### Related articles-->
 

@@ -1,6 +1,6 @@
 ---
-title: "House of Grotto of catullus (I.iii.23)"
-date: 2020-11-29T12:00:02-05:00
+title: "House of Grotto of catullus"
+date: 2020-12-10T12:00:02-05:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: E. Roffia
@@ -77,7 +77,6 @@ House of Grotto of Aatullus
 - [garden pavilions](http://vocab.getty.edu/page/aat/300006819)
 - [reception rooms](http://vocab.getty.edu/page/aat/300077176)
 - [terrazzo](http://vocab.getty.edu/page/aat/300011696)
-- [Viridarium]
 
 ### Garden Description
 
@@ -106,15 +105,6 @@ NEW WAY ↓↓↓↓
 {{< figure src="../images/sirmio-11.png" alt="Fig. 11: statue of a Dioscuros." title="Fig. 11: statue of a Dioscuros" >}}
 
 {{< figure src="../images/sirmio-12.png" alt="Fig. 12: Figure of Plant fossils." title="Fig. 12: Figure of  Plant fossils" >}}
-### Images
-
-<!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
--->
-
-
-<!--### Images-->
-
 
 ### Dates
 
@@ -150,7 +140,7 @@ Tom Elliott (https://pleiades.stoa.org/author/thomase)
 
 ### Publication date
 
-29 Nov 2020
+15 Dec 2020
 
 <!--### Related articles-->
 

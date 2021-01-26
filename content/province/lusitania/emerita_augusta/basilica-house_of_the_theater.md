@@ -74,7 +74,7 @@ This late-imperial domus was discovered by J. Ramón Mélida while excavating th
 
 ### Plans
 
-{{< figure src="../image/HIS_LUS_Col_Aug_basilica_fig1.jpg" alt="Fig. 1: Plan of the Basilica - House of the Theater." title="Fig. 1: Plan of the Basilica - House of the Theater. Adapted from Cassilla Moreno, p.315." >}}
+{{< figure src="../images/his_lus_col_aug_basilica_fig1.jpg" alt="Fig. 1: Plan of the Basilica - House of the Theater." title="Fig. 1: Plan of the Basilica - House of the Theater. Adapted from Cassilla Moreno, p.315." >}}
 
 ### Dates
 

@@ -44,7 +44,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Location
-
 [Santa Lucia]({{<relref "..">}}) \
 [Santa Lucia (Pleiades)](https://pleiades.stoa.org/places/767191138)
 
@@ -101,7 +100,7 @@ Excavation in 1968 – 1972 at this site, which has been reburied, revealed over
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-5 December 2020
+15 December 2020
 
 <!--### Related articles-->
 

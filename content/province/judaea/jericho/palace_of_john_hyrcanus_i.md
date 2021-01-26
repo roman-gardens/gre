@@ -76,7 +76,7 @@ Over the years, two swimming pools (probably one for men and one for women), eac
 
 ### Plans
 
-{{< figure src="../images/ASIA_JUD_JERICHO_1.jpg" alt="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho." title="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho (Gleason after Netzer)  A-D) The Hasmonean winter Palace.  A. First Hasmonean palace, later buried by fortified one. B. Swimming-pool Complex C. Twin Palaces D.  Row of buildings erected along Na'aran conduit E.  Industrial area F.  Nacaran conduit  1-3) Herod's winter palace 1. First palace (coexisting with last Hasmonean phase); 2. Second Palace 3; Third palace." >}}
+{{< figure src="../images/ASIA_JUD_JERICHO_1.jpg" alt="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho." title="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho (Gleason after Netzer)" >}}
 
 {{< figure src="../images/ASIA_JUD_JERICHO_2.jpg" alt="Figure 2: The plantations and Hasmonean palace buildings, Area AA represent the location of the  buried Palace.(K. Wilczak and K. Gleason, after Netzer 2001a: Plan 4; Netzer and Laureys-Chachy 2004: Plan 2) " title="Figure 2: The plantations and Hasmonean palace buildings, Area AA represent the location of the the buried Palace.(K. Wilczak and K. Gleason, after Netzer 2001a: Plan 4; Netzer and Laureys-Chachy 2004: Plan 2) " >}}
 

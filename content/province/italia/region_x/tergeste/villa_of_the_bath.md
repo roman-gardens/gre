@@ -1,6 +1,6 @@
 ---
-title: "Villa of the Bath (I.iii.23)"
-date: 2020-11-11T12:00:02-05:00
+title: "Villa of the Bath"
+date: 2020-12-10T12:00:02-05:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Annalisa Marzano
@@ -77,14 +77,6 @@ OLD WAY (DO NOT USE)
 NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
-
-### Plans
-
-
-
-<!--### Images-->
-
-
 ### Dates
 
 unspecified
@@ -115,7 +107,7 @@ unspecified
 
 ### Publication date
 
-11 Nov 2020
+15 Dec 2020
 
 <!--### Related articles-->
 

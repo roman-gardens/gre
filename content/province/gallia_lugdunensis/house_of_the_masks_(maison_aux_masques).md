@@ -1,6 +1,6 @@
 ---
 title: "House of the Masks (Maison aux Masques)"
-date: 2020-11-16T10:39:31-07:00
+date: 2020-12-12T10:39:31-07:00
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -61,7 +61,7 @@ Not Available
 
 ### Images
 
-{{< figure src="../House of the Masks (Maison aux Masques) images/Picture2.jpg" alt="Drawing of the courtyard in perspective. Some of the key features include a view of the porticoes with smiling masks hanging between the columns. There is a fountain bassin in the center." title="perspective drawing of porticoes" >}}
+{{< figure src="../gallia_lug_images/mask_house.jpg" alt="Drawing of the courtyard in perspective. Some of the key features include a view of the porticoes with smiling masks hanging between the columns. There is a fountain bassin in the center." title="perspective drawing of porticoes" >}}
 
 ### Dates
 Unspecified
@@ -85,7 +85,7 @@ Unspecified
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ### Publication date
-16 November 2020
+12 December 2020
 
 <!--### Related articles-->
 

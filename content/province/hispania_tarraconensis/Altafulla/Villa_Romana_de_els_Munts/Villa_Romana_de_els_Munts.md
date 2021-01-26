@@ -34,7 +34,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ### Bibliography
-
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](http://www.worldcat.org/oclc/1090911182)
 
 - P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](http://www.worldcat.org/oclc/640067386)
@@ -45,7 +44,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Location
-
 [Villa dels Munts]({{<relref ".">}}) \
 [Villa dels Munts (Pleiades)](https://pleiades.stoa.org/places/250016)
 
@@ -65,17 +63,14 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- DESCRIPTION -->
 
 ## Garden
-
-Villa of Santa Lucia
+Villa Romana de els Munts
 
 
 ### Keywords
-
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 
 ### Garden Description
-
 This richly adorned pleasure villa by the sea was built early in the first century AD and continued in use into the fifth century.  Its period of greatest splendor was between about 100 and 250 AD.  It was pillaged and burned shortly after 268, dated by a hoard of coins found in the underground prison. The prison was equipped with stocks, presumably for punishment of slaves. The mansion was rebuilt and enlarged during the fourth century AD.
 
 Across the front of the house on the side by the sea ran a *portico* [1] in a northwest-to-southeast direction to offer the best view.  The garden lay between this portico and the sea. The excavator judged the area to be a garden, and his view is supported by several pools and perhaps a nymphaeum in the area.  Also, at its southeast end, the portico turns and runs towards the sea. Opening onto this arm was a reception room with seven octagonal fountains arranged in a U. This room thus faced the garden and a pool rather than the sea.  The portico was extended by a walkway and steps which defined the edge of the garden and led down the hill to a large bath complex added in the fourth-century rebuilding.
@@ -90,11 +85,9 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 
 
 ### Dates
-
 1C AD
 
 ### Bibliography
-
  - F. Tarrats et al., *El área residencial de la villa romana de “Els Munts*, Madrider Mitteilungen 41. Mainz, 2000, pp. 358-379. [(worldcat)](http://www.worldcat.org/oclc/7180188573)
 
  - F. Tarrats, E. Ramón Seriñena and J. M. Macías I Solé, *Noves intervencions a la vil.la romana dels Munts*, in Tribuna d’Arqueologia 1996-1997. Generalitat de Catalunya, Barcelona, 1997, pp. 35-56. [(worldcat)](http://www.worldcat.org/oclc/47686221)
@@ -115,12 +108,11 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 [7344921](http://vocab.getty.edu/page/tgn/7344921)
 
 
-
 ### Contributor
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-5 December 2020
+15 December 2020
 
 <!--### Related articles-->
 

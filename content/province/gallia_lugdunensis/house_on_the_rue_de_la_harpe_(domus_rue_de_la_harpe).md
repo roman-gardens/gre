@@ -1,6 +1,6 @@
 ---
 title: "House on the rue de la Harpe ( *Domus* rue de la Harpe)"
-date: 2020-11-21T10:39:31-07:00
+date: 2020-12-08T10:39:31-07:00
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -43,7 +43,6 @@ A sublocation is any area larger than an individual garden, but located within a
 House on the Place des Halles (La maison des Halles)
 
 ### Keywords
-- [Domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyles](http://vocab.getty.edu/page/aat/300080971)
 - [porticos](http://vocab.getty.edu/page/aat/300004145)
 - [fountain](http://vocab.getty.edu/page/aat/300006179)
@@ -58,7 +57,7 @@ Excavations of a 1400 square meter site in 1989 at 45 rue de la Harpe partially 
 None Available
 
 ### Plans
-{{< figure src="../House on the rue de la Harpe ( Domus rue de la Harpe) images/Picture7.jpg" alt="Reconstructed axonometric plan of the Domus of the Rue de la Harpe. It shows rooms and bits of the garden space." title="Reconstruction of the four house spaces that make up House on the Rue de la Harpe." >}}
+{{< figure src="../gallia_lug_images/rue_de_la_harpe.jpg" alt="Reconstructed axonometric plan of the Domus of the Rue de la Harpe. It shows rooms and bits of the garden space." title="Reconstruction of the four house spaces that make up House on the Rue de la Harpe." >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
@@ -83,13 +82,13 @@ Unspecified
 [109153](https://pleiades.stoa.org/places/109153)
 
 #### TGN ID
-[6002234](http://vocab.getty.edu/page/tgn/6002234)
+[6003548](http://vocab.getty.edu/page/tgn/6003548)
 
 ### Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ### Publication date
-21 November 2020
+08 December 2020
 
 <!--### Related articles-->
 

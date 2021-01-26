@@ -67,11 +67,11 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 
 ### Plans
 
-{{< figure src="../images/HIS LUS_Villa São Cucufate ph1 fig1.jpg" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain." title="Fig. 1: Plan of São Cucufate, Phase 1. From Alarcão, Roteiros." >}}
+{{< figure src="../images/his_lus_villa_sao_cucufate_ph1_fig1.jpg" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain." title="Fig. 1: Plan of São Cucufate, Phase 1. From Alarcão, Roteiros." >}}
 
-{{< figure src="../images/HIS LUS_Villa São Cucufate_ph2 fig2.jpg" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain." title="Fig. 2: Plan of Phase 2." >}}
+{{< figure src="../images/his_lus_villa_sao_cucufate_ph2_fig2.jpg" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain." title="Fig. 2: Plan of Phase 2." >}}
 
-{{< figure src="../images/HIS LUS_Villa São Cucufate_ph3 fig3.jpg" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain."  title="Fig. 3: Plan of Phase 3." >}}
+{{< figure src="../images/his_lus_villa_sao_cucufate_ph3_fig3.jpg" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain."  title="Fig. 3: Plan of Phase 3." >}}
 
 ### Images
 

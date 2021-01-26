@@ -1,6 +1,6 @@
 ---
 title: "*Domus* of the Place Epars"
-date: 2020-11-16T10:39:31-07:00
+date: 2020-08-12T10:39:31-07:00
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -21,7 +21,7 @@ tags:
 ## Location
 
 [AUTRICUM (Chartres, France)]({{<relref ".">}}) \
-[AUTRICUM (Pleiades)](https://pleiades.stoa.org/places/167717)
+[AUTRICUM (Pleiades)](https://pleiades.stoa.org/places/108778)
 
 <!--### Location Description-->
 
@@ -57,7 +57,7 @@ A large reception room of 73 square meters in the northwest corner was heated by
 None Available
 
 ### Plans
-{{< figure src="../Domus of the Place Epars images/Picture3.jpg" alt="Image from CAG showing a plan of Domus of the Place des Epars, two photos of the archaeological excavations, and a photo of the decoration of a Corinthian column." title="LUG_Fig. 1: Chartres, Domus of the Place des Epars, from CAG." >}}
+{{< figure src="../gallia_lug_images/domus_place_des_epars.jpg" alt="Image from CAG showing a plan of Domus of the Place des Epars, two photos of the archaeological excavations, and a photo of the decoration of a Corinthian column." title="LUG_Fig. 1: Chartres, Domus of the Place des Epars, from CAG." >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
@@ -79,7 +79,7 @@ Unspecified
 
 #### Pleiades ID
 
-[167717](https://pleiades.stoa.org/places/167717)
+[108778](https://pleiades.stoa.org/places/108778)
 
 #### TGN ID
 [6003548](http://vocab.getty.edu/page/tgn/6003548)
@@ -88,7 +88,7 @@ Unspecified
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ### Publication date
-16 November 2020
+08 December 2020
 
 <!--### Related articles-->
 

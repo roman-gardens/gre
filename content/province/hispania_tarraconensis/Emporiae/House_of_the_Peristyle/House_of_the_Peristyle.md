@@ -79,7 +79,7 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 
 
 ## Garden
-House of the Mosaic of Hedykoitos
+House of the Peristyle
 
 ### Keywords
 - [peristyles](http://vocab.getty.edu/page/aat/300080971)
@@ -96,7 +96,7 @@ This well-known large house, situated in the center of the eastern side of Neapo
 - X. Aquilué, J. Ruíz de Arbulo, *La jardinería en la época antigua*, in Historia de los Parques y Jardines en España. Edita Grupo FCC, Madrid, 2001, p. 12. [(worldcat)](http://www.worldcat.org/oclc/1090911182)
 
 ### Plans
-{{< figure src="../images/HIS_TAR_Emp_peristyle_fig1.jpg" alt="Plan of the House of the Peristyle." title="Plan of the House of the Peristyle." >}}
+{{< figure src="../images/HIS_TAR_Emp_peristyle_fig1.JPG" alt="Plan of the House of the Peristyle." title="Plan of the House of the Peristyle." >}}
 
 
 ### Dates
@@ -119,7 +119,7 @@ Unspecified
 AUTHOR_ID
 
 ### Publication date
-5 December 2020
+15 December 2020
 
 <!--### Related articles-->
 

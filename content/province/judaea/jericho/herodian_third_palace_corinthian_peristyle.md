@@ -77,15 +77,15 @@ With porticoes on three sides and measuring 23 x 14.5m, this courtyard, known as
 
 ### Plans
 
-{{< figure src="../images/ASIA_JUD_JERICHO_1.jpg" alt="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho." title="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho (Gleason after Netzer)  A-D) The Hasmonean winter Palace.  A. First Hasmonean palace, later buried by fortified one. B. Swimming-pool Complex C. Twin Palaces D.  Row of buildings erected along Na'aran conduit E.  Industrial area F.  Nacaran conduit  1-3) Herod's winter palace 1. First palace (coexisting with last Hasmonean phase); 2. Second Palace 3; Third palace." >}}
+{{< figure src="../images/ASIA_JUD_JERICHO_1.jpg" alt="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho." title="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho (Gleason after Netzer)" >}}
 
 {{< figure src="../images/ASIA_JUD_JERICHO_11.jpg" alt="Figure 11: Plan of Herod’s Third Palace (K. Gleason after E. Netzer 2001a: Plan 48)." title="Figure 11: Plan of Herod’s Third Palace (K. Gleason after E. Netzer 2001a: Plan 48)." >}}
 
 {{< figure src="../images/ASIA_JUD_JERICHO_16a.jpg" alt="Figure 16a: Plan of Corinthian peristyle garden (B55) showing contouring (K. Gleason)." title="Figure 16a: Plan of Corinthian peristyle garden (B55) showing contouring (K. Gleason)." >}}
 
-### Images
+<!--### Images
 
-{{< figure src="../images/ASIA_JUD_JERICHO_16b.jpg" alt="Figure 16b: Axonometric reconstruction of Corinthian peristyle garden (B55) showing contouring (Yaniv Korman)." title="Axonometric reconstruction of Corinthian peristyle garden (B55) showing contouring (Yaniv Korman)." >}}
+{{< figure src="../images/ASIA_JUD_JERICHO_16b.jpg" alt="Figure 16b: Axonometric reconstruction of Corinthian peristyle garden (B55) showing contouring (Yaniv Korman)." title="Axonometric reconstruction of Corinthian peristyle garden (B55) showing contouring (Yaniv Korman)." >}} -->
 
 ### Dates
 
