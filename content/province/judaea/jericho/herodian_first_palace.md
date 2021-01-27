@@ -82,7 +82,7 @@ This first palace was “introverted” thus giving expression to Herod’s infe
 
 {{< figure src="../images/ASIA_JUD_JERICHO_1.jpg" alt="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho." title="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho (Gleason after Netzer)" >}}
 <!-- NO NEWLINES IN STRING LITERALS!!!! -->
-<!-- I have to say, I'm extremely disappointed that I had to fix these for the THIRD time. You literally could have downloaded my fixed versions and just used them. Instead, you replaced my fixes with the same broken code. Now they are missing data that you need to go back and fill in. Don't put newlines in the strings this time. -Christian -->
+<!-- These are missing data that you need to go back and fill in. Don't put newlines in the strings this time. -Christian -->
 
 {{< figure src="../images/ASIA_JUD_JERICHO_7a.jpg" alt="Figure 7a:  Plan of Herod’s first palace (Gleason after Netzer 2001)." title="Figure 7a:  Plan of Herod’s first palace (Gleason after Netzer 2001)." >}}-->
 
