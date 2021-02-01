@@ -48,8 +48,7 @@ Rural Villa in Latimer
 
 ### Keywords
 
-archaeological garden \
-
+- [archaeological garden](#)
 - [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
 - [flower gardens](http://vocab.getty.edu/page/aat/300008135)
 - [orchards](http://vocab.getty.edu/page/aat/300008890)
