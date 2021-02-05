@@ -18,11 +18,6 @@ tags:
 
 ## Province
 
-
-
-
-<!-- Hello Chris jkfhdljashkadshjdshds jds dhsjhdfsjhjk    -->
-
 [Judaea]({{<relref "..">}}) \
 [Iudaea (province) (Pleiades)](https://pleiades.stoa.org/places/981527)
 
