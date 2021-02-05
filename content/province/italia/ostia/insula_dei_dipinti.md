@@ -78,9 +78,13 @@ unspecified
 ### Bibliography
 
 <!-- Bibliography for Location Description -->
-* H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
+* R. Meiggs, *Topografia generale*. [(worldcat)]()
+* C. Pavolini, **, . [(worldcat)]()
+* C. Pavolini, **, . [(worldcat)]()
 <!-- Bibliography for Garden Description -->
-* W. F. Jashemski, E. Salza Prina Ricotti, "I giardini di Villa Adriana: rapporto preliminare," *Atti della Pontificia Accademia romana di archeologia: Rendiconti*, Vol. 60 (1987-88), pp. 152-162, fig. 11-15. [(worldcat)](http://www.worldcat.org/oclc/1075183783)
+* , *Giornale degli Scavi*, 1917, pp. 58, 69-70. [(worldcat)]()
+* , *Giornale degli Scavi*, 1919, pp. 227-8, 251-253, 255, 263-5. [(worldcat)]()
+* G. Calza, *MonAnt* 26 (1920), pp. 328-330. [(worldcat)]()
 
 #### Pleiades ID
 
