@@ -13,5 +13,7 @@ draft: false
 * Amartya Shri
 * David Ratzan
 * Christian Casey
+* Elizabeth Macaulay-Lewis
+* Kim Hartswick
 
 (Let's put links in here to a list of edited articles or to an "about us" page.)
