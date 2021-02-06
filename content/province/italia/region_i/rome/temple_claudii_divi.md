@@ -5,7 +5,7 @@ date: 2021-02-02T10:57:44-07:00
 province_id: ITALIA
 author: Valerie Aymer
 editor: Rhiannon Pare
-draft: true
+draft: false
 ---
 
 # Province
@@ -44,6 +44,7 @@ A sublocation is any area larger than an individual garden, but located within a
 # Garden
 Gardens of the Temple of Divine Claudius (Roma)<!-- List of gardens in province -->
 <!-- May be left blank for now -->
+
 ### Keywords
 
 - [temple](http://vocab.getty.edu/page/aat/300007595)
@@ -51,8 +52,7 @@ Gardens of the Temple of Divine Claudius (Roma)<!-- List of gardens in province 
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 - [aqueducts](http://vocab.getty.edu/page/aat/300006165)
-- [
-- [
+
 
 ### Garden Description
 
