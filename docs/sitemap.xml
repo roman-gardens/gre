@@ -4,14 +4,30 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/</loc>
-    <lastmod>2020-12-14T21:15:00-08:00</lastmod>
+    <lastmod>2021-02-05T14:14:56-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/italia/</loc>
-    <lastmod>2020-12-14T21:15:00-08:00</lastmod>
+    <lastmod>2021-02-05T14:14:56-06:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/</loc>
+    <lastmod>2021-02-05T14:14:56-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/</loc>
+    <lastmod>2021-02-05T14:14:56-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_vi/test_garden/</loc>
+    <lastmod>2021-02-05T14:14:56-06:00</lastmod>
   </url>
   
   <url>
@@ -204,11 +220,6 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/categories/gallia/</loc>
-    <lastmod>2020-12-14T00:08:52+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/categories/gallia_narbonensis/</loc>
     <lastmod>2020-12-14T00:08:52+00:00</lastmod>
   </url>
@@ -257,6 +268,11 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/categories/fliessem-otrang/</loc>
+    <lastmod>2020-12-12T10:39:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/categories/gallia/</loc>
     <lastmod>2020-12-12T10:39:31-07:00</lastmod>
   </url>
   
@@ -326,17 +342,12 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/tags/villa/</loc>
-    <lastmod>2020-12-12T10:39:31-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/tags/villa-des-tuilli%C3%A8res/</loc>
     <lastmod>2020-12-12T10:39:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/gallia_lugdunensis/villa_des_tuillie%CC%80res/</loc>
+    <loc>https://christiancasey.github.io/gre/province/gallia_lugdunensis/villa_des_tuilli%C3%A8res/</loc>
     <lastmod>2020-12-12T10:39:31-07:00</lastmod>
   </url>
   
@@ -399,11 +410,6 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/tags/cistern/</loc>
-    <lastmod>2020-12-10T12:00:02-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/tags/cisterns/</loc>
     <lastmod>2020-12-10T12:00:02-05:00</lastmod>
   </url>
@@ -429,22 +435,7 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/tags/peristyle/</loc>
-    <lastmod>2020-12-10T12:00:02-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/tags/peristyles/</loc>
-    <lastmod>2020-12-10T12:00:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/tags/portico/</loc>
-    <lastmod>2020-12-10T12:00:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/tags/porticoe/</loc>
     <lastmod>2020-12-10T12:00:02-05:00</lastmod>
   </url>
   
@@ -486,12 +477,6 @@
   <url>
     <loc>https://christiancasey.github.io/gre/province/italia/region_x/tergeste/villa_of_the_statue/</loc>
     <lastmod>2020-12-10T12:00:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/province/italia/pompeii/</loc>
-    <lastmod>2020-12-10T00:10:10-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -639,12 +624,12 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/tags/pergola/</loc>
+    <loc>https://christiancasey.github.io/gre/tags/pergolas/</loc>
     <lastmod>2020-12-10T00:10:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/tags/pergolas/</loc>
+    <loc>https://christiancasey.github.io/gre/tags/peristyle/</loc>
     <lastmod>2020-12-10T00:10:10-04:00</lastmod>
   </url>
   
@@ -659,7 +644,7 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/tags/puteal/</loc>
+    <loc>https://christiancasey.github.io/gre/tags/porticoe/</loc>
     <lastmod>2020-12-10T00:10:10-04:00</lastmod>
   </url>
   
@@ -844,7 +829,7 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/gallia_lugdunensis/noyal_-_cha%CC%82tillon-sur-seiche_ille-et-vilaine/</loc>
+    <loc>https://christiancasey.github.io/gre/province/gallia_lugdunensis/noyal_-_ch%C3%A2tillon-sur-seiche_ille-et-vilaine/</loc>
     <lastmod>2020-12-08T10:39:31-07:00</lastmod>
   </url>
   
@@ -896,11 +881,6 @@
     <loc>https://christiancasey.github.io/gre/province/italia/tomb_garden_near_rome/via_labicana/</loc>
     <lastmod>2020-11-30T10:54:29-07:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/tags/courtyard/</loc>
-    <lastmod>2020-11-30T10:54:29-07:00</lastmod>
   </url>
   
   <url>
@@ -969,11 +949,6 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/tags/tomb/</loc>
-    <lastmod>2020-11-30T10:54:29-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/province/italia/tomb_garden_near_rome/via_labicana/tomb_garden_of_a_funerary_collegium/</loc>
     <lastmod>2020-11-30T10:54:29-07:00</lastmod>
   </url>
@@ -1010,6 +985,11 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/tags/tombs/</loc>
+    <lastmod>2020-11-30T10:54:29-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/villa/</loc>
     <lastmod>2020-11-30T10:54:29-07:00</lastmod>
   </url>
   
@@ -1136,11 +1116,6 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/tags/atrium/</loc>
-    <lastmod>2020-11-29T10:54:29-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/tags/atrium-houses/</loc>
     <lastmod>2020-11-29T10:54:29-07:00</lastmod>
   </url>
@@ -1152,6 +1127,11 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/tags/corridors/</loc>
+    <lastmod>2020-11-29T10:54:29-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/courtyard/</loc>
     <lastmod>2020-11-29T10:54:29-07:00</lastmod>
   </url>
   
@@ -1182,11 +1162,6 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/italia/tomb_garden_near_rome/via_latina/memorial_tomb_garden_of_ortorius_heleis_and_ortoria_eutychis/</loc>
-    <lastmod>2020-11-29T10:54:29-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/tags/mosaics/</loc>
     <lastmod>2020-11-29T10:54:29-07:00</lastmod>
   </url>
   
@@ -1227,11 +1202,6 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/italia/pompeii/region_ii/region_ii_2/insula_iii/house4_6/ii.iii.4-6a/</loc>
-    <lastmod>2020-11-29T10:54:29-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/tags/statue/</loc>
     <lastmod>2020-11-29T10:54:29-07:00</lastmod>
   </url>
   
@@ -1398,7 +1368,7 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/gallia_belgica/house-of-the-ram-la-maison-au-be%CC%81lier/</loc>
+    <loc>https://christiancasey.github.io/gre/province/gallia_belgica/house-of-the-ram-la-maison-au-b%C3%A9lier/</loc>
     <lastmod>2020-11-22T10:39:31-07:00</lastmod>
   </url>
   
@@ -1408,12 +1378,12 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/gallia_belgica/house-on-rue-de-la-fraternite%CC%81/</loc>
+    <loc>https://christiancasey.github.io/gre/province/gallia_belgica/house-on-rue-de-la-fraternit%C3%A9/</loc>
     <lastmod>2020-11-22T10:39:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/gallia_belgica/house_on_rue_de_la_fraternite%CC%81/</loc>
+    <loc>https://christiancasey.github.io/gre/province/gallia_belgica/house_on_rue_de_la_fraternit%C3%A9/</loc>
     <lastmod>2020-11-22T10:39:31-07:00</lastmod>
   </url>
   
@@ -2039,11 +2009,6 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/tags/tomb-monument/</loc>
-    <lastmod>2020-10-22T10:39:31-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/tags/tomb-monuments/</loc>
     <lastmod>2020-10-22T10:39:31-07:00</lastmod>
   </url>
@@ -2074,11 +2039,6 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/italia/herculaneum/insula_vii/casa_di_galba/</loc>
-    <lastmod>2020-10-20T00:10:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/tags/exedra/</loc>
     <lastmod>2020-10-20T00:10:10-04:00</lastmod>
   </url>
   
@@ -2363,7 +2323,7 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/hispania_baetica/quesada/villa_brun%CC%83el/</loc>
+    <loc>https://christiancasey.github.io/gre/province/hispania_baetica/quesada/villa_bru%C3%B1el/</loc>
     <lastmod>2020-10-15T10:00:00-04:00</lastmod>
   </url>
   
@@ -3101,12 +3061,12 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/hispania_tarraconensis/villa_el_sold%C3%A1n/villa_el_solda%CC%81n/</loc>
+    <loc>https://christiancasey.github.io/gre/province/hispania_tarraconensis/villa_el_sold%C3%A1n/villa_el_sold%C3%A1n/</loc>
     <lastmod>2020-09-30T11:20:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/hispania_tarraconensis/villa_el_sold%C3%A1n_the_sultan/villa_el_solda%CC%81n/</loc>
+    <loc>https://christiancasey.github.io/gre/province/hispania_tarraconensis/villa_el_sold%C3%A1n_the_sultan/villa_el_sold%C3%A1n/</loc>
     <lastmod>2020-09-30T11:20:32-04:00</lastmod>
   </url>
   
@@ -3146,6 +3106,11 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/italia/herculaneum/insula_or._i/house_2-3/insula_or._i.2-3_d/</loc>
+    <lastmod>2020-09-30T00:10:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/atrium/</loc>
     <lastmod>2020-09-30T00:10:10-04:00</lastmod>
   </url>
   
@@ -3190,11 +3155,6 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/tags/loggia/</loc>
-    <lastmod>2020-09-30T00:10:10-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/tags/loggias/</loc>
     <lastmod>2020-09-30T00:10:10-04:00</lastmod>
   </url>
@@ -3235,11 +3195,6 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/tags/triclinium/</loc>
-    <lastmod>2020-09-30T00:10:10-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christiancasey.github.io/gre/tags/tricliniums/</loc>
     <lastmod>2020-09-30T00:10:10-04:00</lastmod>
   </url>
@@ -3276,13 +3231,13 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/italia/tiffany_fong/</loc>
+    <loc>https://christiancasey.github.io/gre/province/italia/tiffany_fong2/</loc>
     <lastmod>2020-09-29T12:00:02-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/italia/tiffany_fong2/</loc>
+    <loc>https://christiancasey.github.io/gre/province/italia/tiffany_fong/</loc>
     <lastmod>2020-09-29T12:00:02-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3438,12 +3393,27 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/tags/cistern/</loc>
+    <lastmod>2020-09-29T12:00:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/exedra/</loc>
+    <lastmod>2020-09-29T12:00:02-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/italia/tiffany_fong2/forum_baths/</loc>
     <lastmod>2020-09-29T12:00:02-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://christiancasey.github.io/gre/tags/impluvium/</loc>
+    <lastmod>2020-09-29T12:00:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/loggia/</loc>
     <lastmod>2020-09-29T12:00:02-05:00</lastmod>
   </url>
   
@@ -3463,7 +3433,22 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/tags/pergola/</loc>
+    <lastmod>2020-09-29T12:00:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/portico/</loc>
+    <lastmod>2020-09-29T12:00:02-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/tags/procoeton/</loc>
+    <lastmod>2020-09-29T12:00:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/puteal/</loc>
     <lastmod>2020-09-29T12:00:02-05:00</lastmod>
   </url>
   
@@ -3479,6 +3464,11 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/tags/trapezophron/</loc>
+    <lastmod>2020-09-29T12:00:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/triclinium/</loc>
     <lastmod>2020-09-29T12:00:02-05:00</lastmod>
   </url>
   
@@ -3753,6 +3743,16 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/tags/statue/</loc>
+    <lastmod>2020-09-25T10:39:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/tomb/</loc>
+    <lastmod>2020-09-25T10:39:31-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/province/asia/shamika_ghate/4._cayster_river_valley_1-tomb_garden_of_anonymous/</loc>
     <lastmod>2020-09-25T10:39:31-07:00</lastmod>
   </url>
@@ -3769,6 +3769,11 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/province/asia/shamika_ghate/3._attouda_tomb_garden_of_papias_son_of_adrastos/</loc>
+    <lastmod>2020-09-25T10:39:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christiancasey.github.io/gre/tags/tomb-monument/</loc>
     <lastmod>2020-09-25T10:39:31-07:00</lastmod>
   </url>
   
@@ -3833,7 +3838,7 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/gallia_lugdunensis/house-with-pilasters-clos-du-verbe-incarne%CC%81/</loc>
+    <loc>https://christiancasey.github.io/gre/province/gallia_lugdunensis/house-with-pilasters-clos-du-verbe-incarn%C3%A9/</loc>
     <lastmod>2020-08-12T10:39:31-07:00</lastmod>
   </url>
   
@@ -4004,12 +4009,17 @@
   </url>
   
   <url>
+    <loc>https://christiancasey.github.io/gre/tags/mosaics/</loc>
+    <lastmod>2020-07-20T09:48:09-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://christiancasey.github.io/gre/tags/rinceaux/</loc>
     <lastmod>2020-07-20T09:48:09-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/germania_superior/vesontio/vesontio_structures_under_the_colle%CC%80ge_lumie%CC%80re/</loc>
+    <loc>https://christiancasey.github.io/gre/province/germania_superior/vesontio/vesontio_structures_under_the_coll%C3%A8ge_lumi%C3%A8re/</loc>
     <lastmod>2020-07-20T09:48:09-04:00</lastmod>
   </url>
   
@@ -4745,11 +4755,6 @@
   
   <url>
     <loc>https://christiancasey.github.io/gre/about/</loc>
-    <lastmod>2020-07-08T18:12:37-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christiancasey.github.io/gre/</loc>
     <lastmod>2020-07-08T18:12:37-04:00</lastmod>
   </url>
   
@@ -6015,12 +6020,12 @@
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/italia/tiffany_fong/images/</loc>
+    <loc>https://christiancasey.github.io/gre/province/italia/tiffany_fong2/images/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://christiancasey.github.io/gre/province/italia/tiffany_fong2/images/</loc>
+    <loc>https://christiancasey.github.io/gre/province/italia/tiffany_fong/images/</loc>
     <priority>0</priority>
   </url>
   
