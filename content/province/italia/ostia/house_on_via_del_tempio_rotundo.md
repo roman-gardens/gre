@@ -1,9 +1,9 @@
 ---
-title: "Insula dei Dipinti"
-date: 2021-02-05T10:00:00-08:00
+title: "House on Via del Tempio Rotundo"
+date: 2021-02-08T19:00:00-08:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Janet DeLaine
+author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
 ---
@@ -47,24 +47,25 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-Insula dei Dipinti
+House on Via del Tempio Rotundo
 
 ### Keywords
 
-- [aedicules](http://vocab.getty.edu/page/aat/300002574)
-- [flowerpots](http://vocab.getty.edu/page/aat/300194749)
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [vases](http://vocab.getty.edu/page/aat/300132254)
 
 ### Garden Description
 
-The large open area in this insula, divided into two by a wall, was identified as a garden at the time of excavation (1914 to 1919), but on little evidence apart from the absence of paving over most of the area. Recent excavations have however clarified the phases of the garden and added some significant detail. The garden is now known to have been created as a single area, forming an integral part of the late Hadrianic development comprising the three houses which make up the Insula of the Paintings (House of Jove and Ganymede, House of the Infant Bacchus and House of the Paintings). The excavations in the SW corner of the south garden (Fig. 1, Tr. 1) however produced no evidence of Hadrianic garden features, due to the garden being greatly disturbed by a substantial restoration of the insula somewhere in the period AD 150-180.  At this time the wall dividing the garden into two was built, and a humus-rich soil imported into the south garden area, its use as a garden being confirmed by fragments of five flower pots, recognized by the holes in their bases. In addition, the lower part of a Dressel 20 amphora and a neat, sub-triangular pit roughly 50 cm across cut into the underlying rubble fill may have served as planters. In the Severan period a small aedicular shrine was added to the south face of the new garden wall, the niche being originally decorated with glass mosaic above foliage plants against a red ground. This was later covered with whitewash and replaced by a figured scene, and finally a statue of Jove was installed in the niche. A section of black-and-white geometric mosaic, overlying the humus-rich soil in Trench 1 and possibly associated lightweight rough walls, suggests the creation of a summer pavilion or dining room during this period, which would have enjoyed a view of the garden shrine.
+This house was only partially excavated between June 1972 and January 1973 (Fig. 1). In its Augustan phase the peristyle garden (a) was adorned with a large central basin paved in opus signinum. At the center of the basin was a brick support, interpreted as the base of a fountain. The columns of the peristyle, probably Tuscan, rested on bases alternating with travertine strips at pavement level (Fig. 2). Three perforated vases of the type of ollae perforatae recorded by Cato (RR  52, 133) and Pliny (NH 12. 16; 17. 64, 97) were found between the basin and the columns of the peristyle, and exactly aligned with their bases. The ollae were intact and must have contained plants, no doubt of the flowering and rambling variety, which would have found both a support and a chromatic backdrop in the columns to the rear.
 
 ### Plans
 
-{{< figure src="../images/ostia_fig1.jpg" alt="Plan of Ostia Antica" title="Fig. 1: Ostia Antica." >}}
+{{< figure src="../images/ostia_fig18.jpg" alt="Plan of the House on Via del Tempio Rotundo" title="Fig. 1: Plan (M. Supino; SBAO, Archives)." >}}
 
-{{< figure src="../images/ostia_fig2.jpg" alt="Plan of Insula dei Dipinti" title="Fig. 2: Insula dei Dipinti." >}}
+{{< figure src="../images/ostia_fig17.jpg" alt="Plan of the peristyle, with column bases and flower pots" title="Fig. 2: Plan of the peristyle, with column bases and flower pots (from Messineo)." >}}
 
 ### Dates
 
@@ -82,9 +83,8 @@ unspecified
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
 <!-- Bibliography for Garden Description -->
-* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1917, pp. 58, 69-70. [(worldcat)](http://www.worldcat.org/oclc/8340098)
-* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1919, pp. 227-228, 251-253, 255, 263-5. [(worldcat)](http://www.worldcat.org/oclc/8340098)
-* G. Calza, *Monumenti antichi* 26 (1920), pp. 328-330. [(worldcat)](http://www.worldcat.org/oclc/1067432688)
+* *Giornale degli Scavi*, 1972-1973, p. 56. [(worldcat)](http://www.worldcat.org/oclc/8340098)
+* G. Messineo, *Xenia* 8, 1984, p. 78. [(worldcat)](http://www.worldcat.org/oclc/7522968) <!-- correct worldcat? -->
 
 #### Pleiades ID
 
@@ -98,7 +98,7 @@ unspecified
 
 ### Contributor
 
-[Janet DeLaine](https://orcid.org/0000-0002-6409-7126)
+[Paola Olivanti](https://www.worldcat.org/identities/lccn-nr98023577/)
 
 ### Publication date
 

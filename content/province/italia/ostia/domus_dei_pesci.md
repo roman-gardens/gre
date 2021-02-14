@@ -1,9 +1,9 @@
 ---
-title: "Insula dei Dipinti"
-date: 2021-02-05T10:00:00-08:00
+title: "Garden beneath the House of the Fishes (Domus dei Pesci)"
+date: 2021-02-08T19:00:00-08:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Janet DeLaine
+author: Stella Falzone
 editor: Joshua Rosenheim
 draft: false
 ---
@@ -47,24 +47,22 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-Insula dei Dipinti
+Garden beneath the House of the Fishes (Domus dei Pesci)
 
 ### Keywords
 
-- [aedicules](http://vocab.getty.edu/page/aat/300002574)
-- [flowerpots](http://vocab.getty.edu/page/aat/300194749)
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [water supply systems](http://vocab.getty.edu/page/aat/300008618)
 
 ### Garden Description
 
-The large open area in this insula, divided into two by a wall, was identified as a garden at the time of excavation (1914 to 1919), but on little evidence apart from the absence of paving over most of the area. Recent excavations have however clarified the phases of the garden and added some significant detail. The garden is now known to have been created as a single area, forming an integral part of the late Hadrianic development comprising the three houses which make up the Insula of the Paintings (House of Jove and Ganymede, House of the Infant Bacchus and House of the Paintings). The excavations in the SW corner of the south garden (Fig. 1, Tr. 1) however produced no evidence of Hadrianic garden features, due to the garden being greatly disturbed by a substantial restoration of the insula somewhere in the period AD 150-180.  At this time the wall dividing the garden into two was built, and a humus-rich soil imported into the south garden area, its use as a garden being confirmed by fragments of five flower pots, recognized by the holes in their bases. In addition, the lower part of a Dressel 20 amphora and a neat, sub-triangular pit roughly 50 cm across cut into the underlying rubble fill may have served as planters. In the Severan period a small aedicular shrine was added to the south face of the new garden wall, the niche being originally decorated with glass mosaic above foliage plants against a red ground. This was later covered with whitewash and replaced by a figured scene, and finally a statue of Jove was installed in the niche. A section of black-and-white geometric mosaic, overlying the humus-rich soil in Trench 1 and possibly associated lightweight rough walls, suggests the creation of a summer pavilion or dining room during this period, which would have enjoyed a view of the garden shrine.
+In the course of recent excavations in a room (a) of this house a probable garden area was uncovered (Fig. 1). Only its southern limits, represented by the perimeter wall of an otherwise unidentified building, could be traced. The archaeological sequence established by the stratigraphy of this garden area dates it between the early 2nd and early 3rd century AD. It is characterized by a series of superimposed levels of beaten earth, interrupted by small channels, postholes and larger pits.
+
+One significant level of these successive transformations of the area is represented by a layer which was cut to provide the support for a kind of rectangular terracotta container. It rested directly on the earth, and was perhaps used as a watering basin. Probably connected with this object is a small channel running parallel to it, 10 cm deep and 30 cm wide, paved with pottery fragments. To the south of this channel a pit was located, its edge lined with pottery fragments. It is flanked by two smaller and shallower holes (respectively 12 and 16 cm in diameter), perhaps for small shrubs or poles. Probably slightly later is another layout of the garden, represented by a beaten earth level cut by a pit (*c*.22 cm wide, 10 cm deep). Found embedded inside it was a large, upturned upper part of a Dressel 20 amphora, possibly used as a planting pot.
 
 ### Plans
 
-{{< figure src="../images/ostia_fig1.jpg" alt="Plan of Ostia Antica" title="Fig. 1: Ostia Antica." >}}
-
-{{< figure src="../images/ostia_fig2.jpg" alt="Plan of Insula dei Dipinti" title="Fig. 2: Insula dei Dipinti." >}}
+{{< figure src="../images/ostia_fig16.jpg" alt="Plan of the Garden beneath the House of the Fishes" title="Fig. 1: Plan (from Becatti, Mosaici)." >}}
 
 ### Dates
 
@@ -82,9 +80,8 @@ unspecified
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
 <!-- Bibliography for Garden Description -->
-* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1917, pp. 58, 69-70. [(worldcat)](http://www.worldcat.org/oclc/8340098)
-* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1919, pp. 227-228, 251-253, 255, 263-5. [(worldcat)](http://www.worldcat.org/oclc/8340098)
-* G. Calza, *Monumenti antichi* 26 (1920), pp. 328-330. [(worldcat)](http://www.worldcat.org/oclc/1067432688)
+* Giovanni Becatti, *Case ostiensi del tardo impero*, pp. 18-20. [(worldcat)](http://www.worldcat.org/oclc/899106405)
+* F. Zevi et al., *Notizie degli scavi di antichità*, in press. [(worldcat)](http://www.worldcat.org/oclc/8340098)
 
 #### Pleiades ID
 
@@ -98,7 +95,7 @@ unspecified
 
 ### Contributor
 
-[Janet DeLaine](https://orcid.org/0000-0002-6409-7126)
+[Stella Falzone](https://www.cespro-ostia.org/stella-falzone) <!-- is this a good website for Falzone? -->
 
 ### Publication date
 
