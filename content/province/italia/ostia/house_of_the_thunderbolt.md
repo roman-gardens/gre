@@ -1,9 +1,9 @@
 ---
-title: "Insula dei Dipinti"
-date: 2021-02-05T10:00:00-08:00
+title: "House of the Thunderbold (Domus Fulminata)"
+date: 2021-02-08T19:00:00-08:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Janet DeLaine
+author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
 ---
@@ -47,24 +47,32 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-Insula dei Dipinti
+House of the Thunderbold (Domus Fulminata)
 
 ### Keywords
 
-- [aedicules](http://vocab.getty.edu/page/aat/300002574)
-- [flowerpots](http://vocab.getty.edu/page/aat/300194749)
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [biclinia](http://vocab.getty.edu/page/aat/300170371)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [lararia](http://vocab.getty.edu/page/aat/300400600)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [tesserae](http://vocab.getty.edu/page/aat/300010730)
 
 ### Garden Description
 
-The large open area in this insula, divided into two by a wall, was identified as a garden at the time of excavation (1914 to 1919), but on little evidence apart from the absence of paving over most of the area. Recent excavations have however clarified the phases of the garden and added some significant detail. The garden is now known to have been created as a single area, forming an integral part of the late Hadrianic development comprising the three houses which make up the Insula of the Paintings (House of Jove and Ganymede, House of the Infant Bacchus and House of the Paintings). The excavations in the SW corner of the south garden (Fig. 1, Tr. 1) however produced no evidence of Hadrianic garden features, due to the garden being greatly disturbed by a substantial restoration of the insula somewhere in the period AD 150-180.  At this time the wall dividing the garden into two was built, and a humus-rich soil imported into the south garden area, its use as a garden being confirmed by fragments of five flower pots, recognized by the holes in their bases. In addition, the lower part of a Dressel 20 amphora and a neat, sub-triangular pit roughly 50 cm across cut into the underlying rubble fill may have served as planters. In the Severan period a small aedicular shrine was added to the south face of the new garden wall, the niche being originally decorated with glass mosaic above foliage plants against a red ground. This was later covered with whitewash and replaced by a figured scene, and finally a statue of Jove was installed in the niche. A section of black-and-white geometric mosaic, overlying the humus-rich soil in Trench 1 and possibly associated lightweight rough walls, suggests the creation of a summer pavilion or dining room during this period, which would have enjoyed a view of the garden shrine.
+The peristyle garden, excavated in 1941, was surrounded by a portico on all four sides, supported by brick columns, some of which were paired or clustered in threes (Fig. 1). In the original building, dating to the Flavian period, the garden (a) was furnished with a brick *biclinium*, with the *klinai* placed opposite each other. Behind the *klinai* was an aedicula-shaped *lararium* with a cylindrical marble altar in front of it (Fig. 2). On the opposite side, and aligned with the entrance, was the basin of a fountain with a polychrome mosaic in blue and yellow *tesserae* (built in a second phase, *c*. 150-200 AD). It was probably fed by the lead pipe (stamped *SEXTILIUS SECUNDUS FECIT*) that was seen by the excavators leading from the entrance towards the Decumanus. A well-head, placed at the entrance to the garden, had a purely ornamental function, since its bottom is sealed and it only has a hole for the runoff of water. A cube-shaped stuccoed brick pedestal was erected at the southwest corner of the peristyle. Into its sloping top was inserted a marble plaque, inscribed with the letters FDC (“*fulgur dium conditum*”). It marked the spot where lightning had struck, as well as things that had been struck by the same lightning bolt and ritually buried to placate the wrath of the gods.
+
+The residential rooms of the domus were placed on its upper floor. Some experts think that the main reception rooms should be identified in the wing facing onto the northwest side of the garden. However, not everyone agrees that the House of the Thunderbolt was a private residential building. It could also have been the site of a college or corporation, which some archaeologists connect with the nearby sanctuary of the Bona Dea. The rooms aligned along the eastern side, all intercommunicating, would have been, in this case, the ceremonial rooms of the college, whereas the residential sector of the building would be identifiable in the rooms on the western side.
+
+The house is one of the most interesting examples of the transition from the atrium peristyle house of Republican tradition to the house with a colonnaded courtyard typical of Ostian residential architecture in the 2<sup>nd</sup> century AD.
 
 ### Plans
 
-{{< figure src="../images/ostia_fig1.jpg" alt="Plan of Ostia Antica" title="Fig. 1: Ostia Antica." >}}
+{{< figure src="../images/ostia_fig8.jpg" alt="Plan of Domus Fulminata" title="Fig. 1: Plan (from Scavi di Ostia I)." >}}
 
-{{< figure src="../images/ostia_fig2.jpg" alt="Plan of Insula dei Dipinti" title="Fig. 2: Insula dei Dipinti." >}}
+### Photos
+
+{{< figure src="../images/ostia_fig9.jpg" alt="Photo of the garden in 1941" title="Fig. 2: Garden, 1941 (SBAO, Photo Archive)." >}}
 
 ### Dates
 
@@ -82,9 +90,8 @@ unspecified
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
 <!-- Bibliography for Garden Description -->
-* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1917, pp. 58, 69-70. [(worldcat)](http://www.worldcat.org/oclc/8340098)
-* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1919, pp. 227-228, 251-253, 255, 263-5. [(worldcat)](http://www.worldcat.org/oclc/8340098)
-* G. Calza, *Monumenti antichi* 26 (1920), pp. 328-330. [(worldcat)](http://www.worldcat.org/oclc/1067432688)
+* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1941, pp. 56-58, 66. [(worldcat)](http://www.worldcat.org/oclc/8340098)
+* *Civiltà dell'acqua* 2, pp. 108-111. [(worldcat)](http://www.worldcat.org/oclc/312718716)
 
 #### Pleiades ID
 
@@ -98,7 +105,7 @@ unspecified
 
 ### Contributor
 
-[Janet DeLaine](https://orcid.org/0000-0002-6409-7126)
+[Paola Olivanti](https://www.worldcat.org/identities/lccn-nr98023577/)
 
 ### Publication date
 

@@ -1,9 +1,9 @@
 ---
-title: "Insula dei Dipinti"
-date: 2021-02-05T10:00:00-08:00
+title: "Piazzale della Corporazioni"
+date: 2021-02-08T19:00:00-08:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Janet DeLaine
+author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
 ---
@@ -47,24 +47,35 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-Insula dei Dipinti
+Piazzale della Corporazioni
+[The Forum of Corporations (Pleiades)](https://pleiades.stoa.org/places/489630692)
 
 ### Keywords
 
-- [aedicules](http://vocab.getty.edu/page/aat/300002574)
-- [flowerpots](http://vocab.getty.edu/page/aat/300194749)
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [statues](http://vocab.getty.edu/page/aat/300047600)
 
 ### Garden Description
 
-The large open area in this insula, divided into two by a wall, was identified as a garden at the time of excavation (1914 to 1919), but on little evidence apart from the absence of paving over most of the area. Recent excavations have however clarified the phases of the garden and added some significant detail. The garden is now known to have been created as a single area, forming an integral part of the late Hadrianic development comprising the three houses which make up the Insula of the Paintings (House of Jove and Ganymede, House of the Infant Bacchus and House of the Paintings). The excavations in the SW corner of the south garden (Fig. 1, Tr. 1) however produced no evidence of Hadrianic garden features, due to the garden being greatly disturbed by a substantial restoration of the insula somewhere in the period AD 150-180.  At this time the wall dividing the garden into two was built, and a humus-rich soil imported into the south garden area, its use as a garden being confirmed by fragments of five flower pots, recognized by the holes in their bases. In addition, the lower part of a Dressel 20 amphora and a neat, sub-triangular pit roughly 50 cm across cut into the underlying rubble fill may have served as planters. In the Severan period a small aedicular shrine was added to the south face of the new garden wall, the niche being originally decorated with glass mosaic above foliage plants against a red ground. This was later covered with whitewash and replaced by a figured scene, and finally a statue of Jove was installed in the niche. A section of black-and-white geometric mosaic, overlying the humus-rich soil in Trench 1 and possibly associated lightweight rough walls, suggests the creation of a summer pavilion or dining room during this period, which would have enjoyed a view of the garden shrine.
+In the original plan of the Augustan period the garden area to the back of the theater was surrounded on three sides by a roofed corridor opening onto the Tiber on the northern side with a monumental entrance. In the Claudian period the whole level of the area was raised and a portico consisting of a single row of brick columns added. A temple was built at the center of the garden area in the Domitianic period; traditionally identified since its discovery (1881) with the temple of Ceres, it has more recently been attributed to Vulcan or to the imperial cult. During the Hadrianic period the portico was doubled with a second row of columns; the entrances on the northern side were blocked, and buildings erected against them, making access to the garden possible only from the theater (Fig. 1).
+
+The open area to the back of the theater was never built over. Laid out as a garden, and adorned with statues raised in honor of men who had distinguished themselves in trade, it conformed to the recommendation of Vitruvius (5.9.1,5), that areas surrounding a theater be laid out with colonnades  (*post scaenam porticus*) and embellished with gardens, where people could stroll about and converse.
+During the excavations of Rodolfo Lanciani (1881) “a street traversing the excavated area of the Forum and aligned on the axis of the temple and the theatre” was identified. Reported to be “gravelled and edged with marble borders”, this street was probably a path of the garden that led from the theater to the temple at the center of the area: “The Forum of Ceres ... was once ornamented with a garden, the *allées* of which can still be traced with the help of the marble border-lines by which each plot of green was defined and surrounded.”
+
+During the excavations of Dante Vaglieri (1910-1913), a system of conduits was identified. It was linked to a large sewer that ran underground at the center of the garden area, sloping downwards from south to north in the direction of the Tiber. Two conduits parallel to the central sewer ran in front of the stationes. At garden level there were two long gutters that collected rainwater from the roof of the portico. Two basins (respectively 3.10x2.90 and 3.45x3.35 m) at ground level were identified on the southern side of the garden; they were paved with *opus signinum* on the inside and probably panelled in marble.
+
+In October 1912 Dante Vaglieri began the reconstruction of the garden at the center of the Piazzale delle Corporazioni (Fig. 2). He commissioned a famous landscape architect of the period to create a garden  with rectangular parterres of various size which retraced in part the layout of the allées and flower-beds of the ancient garden: “This garden, reconstructed by one of our cleverest landscape artists, with its display of classic bushes and flowers, its colonnade lining the four sides 4of the square, and its array of statues of eminent men, bankers, merchants, magistrates, harbour-masters, &c., has become the chief attraction to the visitors of Ostia…”  The leading experts in garden architecture of the period included Nicodemo Severi and Giuseppe Roda: perhaps one of them was the “cleverest landscape artist.”
 
 ### Plans
 
-{{< figure src="../images/ostia_fig1.jpg" alt="Plan of Ostia Antica" title="Fig. 1: Ostia Antica." >}}
+{{< figure src="../images/ostia_fig6.jpg" alt="Plan of the Piazzale della Corporazioni" title="Fig. 1: Plan (from Scavi di Ostia I)." >}}
 
-{{< figure src="../images/ostia_fig2.jpg" alt="Plan of Insula dei Dipinti" title="Fig. 2: Insula dei Dipinti." >}}
+### Photos
+
+{{< figure src="../images/ostia_fig7.jpg" alt="Photo of the garden in 1912" title="Fig. 2: The modern garden, 1912 (SBAO, Photo Archive)." >}}
 
 ### Dates
 
@@ -82,14 +93,14 @@ unspecified
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
 <!-- Bibliography for Garden Description -->
-* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1917, pp. 58, 69-70. [(worldcat)](http://www.worldcat.org/oclc/8340098)
-* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1919, pp. 227-228, 251-253, 255, 263-5. [(worldcat)](http://www.worldcat.org/oclc/8340098)
-* G. Calza, *Monumenti antichi* 26 (1920), pp. 328-330. [(worldcat)](http://www.worldcat.org/oclc/1067432688)
+* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1912, pp. 279, 303, 338. [(worldcat)](http://www.worldcat.org/oclc/8340098)
+* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1913, pp. 10, 21, 331, 350. [(worldcat)](http://www.worldcat.org/oclc/8340098)
+* R. Lanciani, *Notizie degli scavi di antichità*, 1881, p. 119. [(worldcat)](http://www.worldcat.org/oclc/472500127)
+* R. Lanciani, *Notes from Rome*, pp. 434-435. [(worldcat)](http://www.worldcat.org/oclc/905765241)
 
 #### Pleiades ID
 
-[Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
-<!-- Pleiades resource for Location (Ostia Antica), not for the indivbidual garden -->
+[The Forum of Corporations (Pleiades)](https://pleiades.stoa.org/places/489630692)
 
 #### TGN ID
 
@@ -98,7 +109,7 @@ unspecified
 
 ### Contributor
 
-[Janet DeLaine](https://orcid.org/0000-0002-6409-7126)
+[Paola Olivanti](https://www.worldcat.org/identities/lccn-nr98023577/)
 
 ### Publication date
 

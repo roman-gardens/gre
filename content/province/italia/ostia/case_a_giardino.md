@@ -1,9 +1,9 @@
 ---
-title: "Insula dei Dipinti"
-date: 2021-02-05T10:00:00-08:00
+title: "Garden Houses (Case a Giardino)"
+date: 2021-02-08T19:00:00-08:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Janet DeLaine
+author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
 ---
@@ -47,24 +47,35 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-Insula dei Dipinti
+Garden Houses (Case a Giardino)
 
 ### Keywords
 
-- [aedicules](http://vocab.getty.edu/page/aat/300002574)
-- [flowerpots](http://vocab.getty.edu/page/aat/300194749)
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
+- [[fountains](http://vocab.getty.edu/page/aat/300006179)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [statues](http://vocab.getty.edu/page/aat/300047600)
 
 ### Garden Description
 
-The large open area in this insula, divided into two by a wall, was identified as a garden at the time of excavation (1914 to 1919), but on little evidence apart from the absence of paving over most of the area. Recent excavations have however clarified the phases of the garden and added some significant detail. The garden is now known to have been created as a single area, forming an integral part of the late Hadrianic development comprising the three houses which make up the Insula of the Paintings (House of Jove and Ganymede, House of the Infant Bacchus and House of the Paintings). The excavations in the SW corner of the south garden (Fig. 1, Tr. 1) however produced no evidence of Hadrianic garden features, due to the garden being greatly disturbed by a substantial restoration of the insula somewhere in the period AD 150-180.  At this time the wall dividing the garden into two was built, and a humus-rich soil imported into the south garden area, its use as a garden being confirmed by fragments of five flower pots, recognized by the holes in their bases. In addition, the lower part of a Dressel 20 amphora and a neat, sub-triangular pit roughly 50 cm across cut into the underlying rubble fill may have served as planters. In the Severan period a small aedicular shrine was added to the south face of the new garden wall, the niche being originally decorated with glass mosaic above foliage plants against a red ground. This was later covered with whitewash and replaced by a figured scene, and finally a statue of Jove was installed in the niche. A section of black-and-white geometric mosaic, overlying the humus-rich soil in Trench 1 and possibly associated lightweight rough walls, suggests the creation of a summer pavilion or dining room during this period, which would have enjoyed a view of the garden shrine.
+The area in which these houses are situated was laid out as a residential area in *c*.128 AD as part of the Hadrianic remodeling of Ostia (Fig. 1). It is delimited by buildings of various depths, due to the irregularity of the available space. The central area is occupied by two blocks each comprising four houses, surrounded, according to the excavators, by a garden furnished with six fountains (a) (three on the west and three on the east side; they each measure 2.93x3.55 m. and have a maximum preserved height of 75 cm.) (Figs. 2, 3). The fountains had more than a purely decorative function. They seem rather to be the classic type of canopied fountain. Each was equipped with a water spout and probably with an opening for drawing water. The fountains were surrounded on three sides by a travertine border, in which a little channel for the discharge of excess water was hewn. Two rounded grooves in the channel, in front of each spout, have been interpreted as supports for vessels to rest in as they were filled with water. On the fourth side, which has no border, is an outlet for the discharge of water, which flowed into the main drain leading outside the complex.
+
+A fourth fountain (b) was added on the eastern side, in the early years of the 3rd century AD. Its floor was embellished with a mosaic representing Nilotic scenes (3.30x2.96 m) (Fig. 4); it has been suggested that it was roofed with a pergola supported by small columns. This fountain was essentially ornamental. It would have provided *jeux d’eau* and was perhaps combined with small flower-beds or garden sculptures in the area surrounded by the mosaic border.
+
+A sculptural group with a fishing scene, which could be interpreted as a fountain-head, was found (not *in situ*) in one of the rooms of the eastern block and might have belonged to this fountain (Fig. 5).
 
 ### Plans
 
-{{< figure src="../images/ostia_fig1.jpg" alt="Plan of Ostia Antica" title="Fig. 1: Ostia Antica." >}}
+{{< figure src="../images/ostia_fig10.jpg" alt="Plan of the Garden Houses" title="Fig. 1: Plan (from Civiltà dell' acqua)." >}}
 
-{{< figure src="../images/ostia_fig2.jpg" alt="Plan of Insula dei Dipinti" title="Fig. 2: Insula dei Dipinti." >}}
+{{< figure src="../images/ostia_fig12.jpg" alt="Plan of the Garden Houses" title="Fig. 3: Section and reconstruction of fountain (from Civiltà dell' acqua)." >}}
+
+### Photos
+
+{{< figure src="../images/ostia_fig11.jpg" alt="Plan of the Garden Houses" title="Fig. 2: Fountain (SBAO, Photo Archive)." >}}
+
+{{< figure src="../images/ostia_fig13.jpg" alt="Photo of mosaic with nilotic scene from Fountain b" title="Fig. 4: Fountain b: mosaic with nilotic scene (SBAO, Photo Archive)." >}}
+
+{{< figure src="../images/ostia_fig14.jpg" alt="Photo of the sculpture of a Fisherman on a rock" title="Fig. 5: Fisherman on a rock, sculpture from Garden Houses (SBAO, Photo Archive)." >}}
 
 ### Dates
 
@@ -82,9 +93,9 @@ unspecified
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
 <!-- Bibliography for Garden Description -->
-* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1917, pp. 58, 69-70. [(worldcat)](http://www.worldcat.org/oclc/8340098)
-* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1919, pp. 227-228, 251-253, 255, 263-5. [(worldcat)](http://www.worldcat.org/oclc/8340098)
-* G. Calza, *Monumenti antichi* 26 (1920), pp. 328-330. [(worldcat)](http://www.worldcat.org/oclc/1067432688)
+* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1941, pp. 34-38. [(worldcat)](http://www.worldcat.org/oclc/8340098)
+* Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, pp. 121-123. [(worldcat)](http://www.worldcat.org/oclc/797420782)
+* *Civiltà dell'acqua* 2, pp. 114-117. [(worldcat)](http://www.worldcat.org/oclc/312718716)
 
 #### Pleiades ID
 
@@ -98,7 +109,7 @@ unspecified
 
 ### Contributor
 
-[Janet DeLaine](https://orcid.org/0000-0002-6409-7126)
+[Paola Olivanti](https://www.worldcat.org/identities/lccn-nr98023577/)
 
 ### Publication date
 

@@ -1,9 +1,9 @@
 ---
-title: "Insula dei Dipinti"
-date: 2021-02-05T10:00:00-08:00
+title: "House of Amor and Psyche"
+date: 2021-02-08T19:00:00-08:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Janet DeLaine
+author: Elizabeth J. Shepherd
 editor: Joshua Rosenheim
 draft: false
 ---
@@ -47,24 +47,32 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-Insula dei Dipinti
+House of Amor and Psyche
 
 ### Keywords
 
-- [aedicules](http://vocab.getty.edu/page/aat/300002574)
-- [flowerpots](http://vocab.getty.edu/page/aat/300194749)
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
+- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [viridarium](#)
 
 ### Garden Description
 
-The large open area in this insula, divided into two by a wall, was identified as a garden at the time of excavation (1914 to 1919), but on little evidence apart from the absence of paving over most of the area. Recent excavations have however clarified the phases of the garden and added some significant detail. The garden is now known to have been created as a single area, forming an integral part of the late Hadrianic development comprising the three houses which make up the Insula of the Paintings (House of Jove and Ganymede, House of the Infant Bacchus and House of the Paintings). The excavations in the SW corner of the south garden (Fig. 1, Tr. 1) however produced no evidence of Hadrianic garden features, due to the garden being greatly disturbed by a substantial restoration of the insula somewhere in the period AD 150-180.  At this time the wall dividing the garden into two was built, and a humus-rich soil imported into the south garden area, its use as a garden being confirmed by fragments of five flower pots, recognized by the holes in their bases. In addition, the lower part of a Dressel 20 amphora and a neat, sub-triangular pit roughly 50 cm across cut into the underlying rubble fill may have served as planters. In the Severan period a small aedicular shrine was added to the south face of the new garden wall, the niche being originally decorated with glass mosaic above foliage plants against a red ground. This was later covered with whitewash and replaced by a figured scene, and finally a statue of Jove was installed in the niche. A section of black-and-white geometric mosaic, overlying the humus-rich soil in Trench 1 and possibly associated lightweight rough walls, suggests the creation of a summer pavilion or dining room during this period, which would have enjoyed a view of the garden shrine.
+The entrance of this house (Fig. 1) (which takes its name from the statuary group found in room b) provides access to a large portico (a) with four columns on marble bases, resting on a continuous marble-paneled balustrade 50 cm high. To the right of the portico was an area believed to be a garden (*viridarium*) (c) terminating in a nymphaeum. This consisted of a podium 1.10 m. high, paneled in white marble. Hewn into its front side are five deep circular niches. Four are paneled in white marble; only the central niche is panelled in green cipollino marble. The architectural elevation of the nymphaeum rises from this podium (Fig. 2). Over four meters high, it consists of two rectangular alternating with three semicircular niches, framed by six marble columns with Corinthian capitals and rectangular travertine plinths, from which little brick arches project. Five marble stepped gradients were placed between the bases of the columns. They formed miniature cascades: the water piped in by the lead conduit that ran along the bases of the niches flowed down over them. The water filled small rectangular basins and, flowing through terracotta channels inside the podium, spouted from four outlets placed between the niches. The whole of the podium together with the stepped cascades was paneled in white marble and green *cipollino*; the upper part, by contrast, was stuccoed and adorned with a polychrome wall mosaic. A tile-covered drain ran through the entire length of the podium.
+
+The *viridarium* is the main source of light for all the rooms that face on it, including the large reception room (d) (Fig. 3). The house is a typical example of an Ostian patrician house of the early 4th century AD.
 
 ### Plans
 
-{{< figure src="../images/ostia_fig1.jpg" alt="Plan of Ostia Antica" title="Fig. 1: Ostia Antica." >}}
+{{< figure src="../images/ostia_fig3.jpg" alt="Plan of the House of Amor and Psyche" title="Fig. 1: Plan (from *Scavi di Ostia I*)." >}}
 
-{{< figure src="../images/ostia_fig2.jpg" alt="Plan of Insula dei Dipinti" title="Fig. 2: Insula dei Dipinti." >}}
+{{< figure src="../images/ostia_fig5.jpg" alt="Axonometry" title="Fig. 3: Axonometry (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, SBAO, Archives)." >}}
+
+### Photos
+
+{{< figure src="../images/ostia_fig4.jpg" alt="Photo of Nymphaeum" title="Fig. 2: Nymphaeum (SBAO, Photo Archive)." >}}
 
 ### Dates
 
@@ -82,9 +90,9 @@ unspecified
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
 <!-- Bibliography for Garden Description -->
-* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1917, pp. 58, 69-70. [(worldcat)](http://www.worldcat.org/oclc/8340098)
-* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1919, pp. 227-228, 251-253, 255, 263-5. [(worldcat)](http://www.worldcat.org/oclc/8340098)
-* G. Calza, *Monumenti antichi* 26 (1920), pp. 328-330. [(worldcat)](http://www.worldcat.org/oclc/1067432688)
+* Giovanni Becatti, *Case ostiensi del tardo impero*, pp. 6-8. [(worldcat)](http://www.worldcat.org/oclc/899106405)
+* J. Packer, *American Journal of Archaeology* 71 (1967), pp 125-126. [(worldcat)](http://www.worldcat.org/oclc/1076135742)
+* Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, 1996, p. 123. [(worldcat)](http://www.worldcat.org/oclc/797420782)
 
 #### Pleiades ID
 
@@ -98,7 +106,7 @@ unspecified
 
 ### Contributor
 
-[Janet DeLaine](https://orcid.org/0000-0002-6409-7126)
+[Elizabeth J. Shepherd]()
 
 ### Publication date
 
