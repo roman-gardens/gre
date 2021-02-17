@@ -1,9 +1,9 @@
 ---
-title: "Garden beneath the House of the Fishes (Domus dei Pesci)"
-date: 2021-02-08T19:00:00-08:00
+title: "House of the Fortuna Annonaria"
+date: 2021-02-17T19:00:00-08:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Stella Falzone
+author: Elizabeth J. Shepherd
 editor: Joshua Rosenheim
 draft: false
 ---
@@ -47,22 +47,42 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-Garden beneath the House of the Fishes (Domus dei Pesci)
+House of the Fortuna Annonaria
 
 ### Keywords
 
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [water supply systems](http://vocab.getty.edu/page/aat/300008618)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
+- [oeci](http://vocab.getty.edu/page/aat/300080791)
+- [opus listatum](#)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [statues](http://vocab.getty.edu/page/aat/300047600)
 
 ### Garden Description
 
-In the course of recent excavations in a room (a) of this house a probable garden area was uncovered (Fig. 1). Only its southern limits, represented by the perimeter wall of an otherwise unidentified building, could be traced. The archaeological sequence established by the stratigraphy of this garden area dates it between the early 2nd and early 3rd century AD. It is characterized by a series of superimposed levels of beaten earth, interrupted by small channels, postholes and larger pits.
+The peristyle garden (Fig. 1, a) has travertine columns on three sides. The fourth side coincides with the perimeter wall of the house, which forms part of the original plan, dating to the 2nd century AD. The last phase of the domus, lavishly decorated with precious marbles, dates to the 4th century AD.  Against the rear wall of the garden is a brick niche (h. 194 cm.; w. 114 cm.) containing a statue of Juno or Demeter and two benches in *opus listatum* (w. 41 cm.; preserved h. 28 cm.). “The area inside the peristyle must undoubtedly have been kept as a garden (Figs. 2 and 3). The remains of a rectangular basin (3.10x5.40 m.) with drainage outlet at its north-east corner were found at its center” (Becatti).
 
-One significant level of these successive transformations of the area is represented by a layer which was cut to provide the support for a kind of rectangular terracotta container. It rested directly on the earth, and was perhaps used as a watering basin. Probably connected with this object is a small channel running parallel to it, 10 cm deep and 30 cm wide, paved with pottery fragments. To the south of this channel a pit was located, its edge lined with pottery fragments. It is flanked by two smaller and shallower holes (respectively 12 and 16 cm in diameter), perhaps for small shrubs or poles. Probably slightly later is another layout of the garden, represented by a beaten earth level cut by a pit (*c*.22 cm wide, 10 cm deep). Found embedded inside it was a large, upturned upper part of a Dressel 20 amphora, possibly used as a planting pot.
+There is a well (diam. 49 cm.) in the eastern part of the garden; it is adorned with a marble well-head decorated with bucrania in neo-attic style, dating to the 2nd century AD (dia. 66 cm; h. 55 cm) (Fig. 4). Two small herms also formed part of the garden decoration.
+
+A large female statue was found *in situ* on its pedestal, adhering to the end-wall of the western portico of the peristyle. Endowed with the attributes of trade (cornucopia and oar), the female figure has been identified as *Fortuna Annonaria*, the personification of Ostia’s trading success.
+
+The large apsidal reception room (*oecus*) (Fig. 1, b), with two columns marking its entrance, was located in the western part of the house. The garden, with flowering plants, onto which it opens, formed its natural continuation. This, together with the nymphaeum that decorated the south side of the room, its rear wall articulated with alternating semicircular and rectangular niches containing statues, provided a suitably splendid and prestige-enhancing setting for the public life of the owner, probably a wealthy trader.
+
+The garden also forms the backdrop to the rooms in the east part of the house, a *triclinium* (Fig. 1, c) and a heated cubicle (Fig. 1, d), lit by a large window and decorated with a lavish black and white mosaic floor with mythological scenes.
 
 ### Plans
 
-{{< figure src="../images/ostia_fig15.jpg" alt="Plan of the Garden beneath the House of the Fishes" title="Fig. 1: Plan (from Becatti, Mosaici)." >}}
+{{< figure src="../images/ostia_fig20.jpg" alt="Plan of the House of the Bucronia" title="Fig. 1: Plan (from Boersma)." >}}
+
+{{< figure src="../images/ostia_fig21.jpg" alt="Plan of the House of the Bucronia" title="Fig. 2: Axonometry (from Boersma)." >}}
+
+### Photos
+
+{{< figure src="../images/ostia_fig22.jpg" alt="Plan of the House of the Bucronia" title="Fig. 3: The garden seen from the oecus (SBAO, Photo Archive)." >}}
+
+{{< figure src="../images/ostia_fig23.jpg" alt="Plan of the House of the Bucronia" title="Fig. 3: Well head with bucrania (SBAO, Photo Archive)." >}}
 
 ### Dates
 
@@ -80,8 +100,10 @@ unspecified
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
 <!-- Bibliography for Garden Description -->
-* Giovanni Becatti, *Case ostiensi del tardo impero*, pp. 18-20. [(worldcat)](http://www.worldcat.org/oclc/899106405)
-* F. Zevi et al., *Notizie degli scavi di antichità*, in press. [(worldcat)](http://www.worldcat.org/oclc/8340098)
+* *Giornale degli Scavi*, 1939, pp. 54-87. [(worldcat)]()
+* Giovanni Becatti, *Case ostiensi del tardo impero*, pp. 23-25. [(worldcat)](http://www.worldcat.org/oclc/899106405)
+* Boersma, pp. 151, 156-160. [(worldcat)]()
+* Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, 1996, pp. 123-124. [(worldcat)](http://www.worldcat.org/oclc/797420782)
 
 #### Pleiades ID
 
@@ -95,7 +117,7 @@ unspecified
 
 ### Contributor
 
-[Stella Falzone](https://www.cespro-ostia.org/stella-falzone) <!-- is this a good website for Falzone? -->
+[Elizabeth J. Shepherd]()
 
 ### Publication date
 

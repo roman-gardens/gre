@@ -1,9 +1,9 @@
 ---
-title: "Garden beneath the House of the Fishes (Domus dei Pesci)"
-date: 2021-02-08T19:00:00-08:00
+title: "House of the Bucrania"
+date: 2021-02-017T19:00:00-08:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Stella Falzone
+author: Thomas Morard
 editor: Joshua Rosenheim
 draft: false
 ---
@@ -47,22 +47,28 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-Garden beneath the House of the Fishes (Domus dei Pesci)
+House of the Bucrania
 
 ### Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [water supply systems](http://vocab.getty.edu/page/aat/300008618)
+- [domus](#)
+- [hortus](#)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [tesserae](http://vocab.getty.edu/page/aat/300010730)
 
 ### Garden Description
 
-In the course of recent excavations in a room (a) of this house a probable garden area was uncovered (Fig. 1). Only its southern limits, represented by the perimeter wall of an otherwise unidentified building, could be traced. The archaeological sequence established by the stratigraphy of this garden area dates it between the early 2nd and early 3rd century AD. It is characterized by a series of superimposed levels of beaten earth, interrupted by small channels, postholes and larger pits.
+In the summer 2002 part of the *hortus* of the Domus with peristyle was excavated (in the west corner) (Fig. 1, d). At 80 cm under the present sea level, part of the garden of a Late Republican *domus* (called *Domus* with Bucrania) was revealed. The domus was built about 80-60 BC and destroyed about 20-40 AD. A dark organic soil layer was found, at the same level as the floors of the building. A flower pot with four holes was found in this layer. The foundation of a low wall and several structures composed of splinters of tuff bound by bad quality mortar were probably part of the internal arrangement of the garden. Future excavation will certainly help to understand better these structures; the study of pollens and seeds is also in progress.
 
-One significant level of these successive transformations of the area is represented by a layer which was cut to provide the support for a kind of rectangular terracotta container. It rested directly on the earth, and was perhaps used as a watering basin. Probably connected with this object is a small channel running parallel to it, 10 cm deep and 30 cm wide, paved with pottery fragments. To the south of this channel a pit was located, its edge lined with pottery fragments. It is flanked by two smaller and shallower holes (respectively 12 and 16 cm in diameter), perhaps for small shrubs or poles. Probably slightly later is another layout of the garden, represented by a beaten earth level cut by a pit (*c*.22 cm wide, 10 cm deep). Found embedded inside it was a large, upturned upper part of a Dressel 20 amphora, possibly used as a planting pot.
+After the demolition of the House with Bucrania, the resulting consistent layer of debris was used to raise the ground level on which the House with Peristyle was going to be built, thus obliterating the garden. This layer was composed, among other finds, of a considerable number of painted plaster and stucco fragments of excellent quality that have made a reconstruction of the aspect of this area possible. There was a portico with brick columns, plastered and painted purple on the smooth socle, modelled with large flutings and painted white in the upper part; the portico was paved in *opus signinum* with inserted mosaic *tesserae* and chips of marble; its walls were painted in the second Pompeian style: large violet orthostats were delimited by brown fluted columns, surmounted by Doric capitals on which large green garlands with birds hung; above this there was a complex network of green and red header blocks and a frieze of yellow palm leaf on a violet ground. The ceiling was violet with an overpainted geometrical pattern. The architrave of the portico, open on the garden, was probably decorated by terracotta architectural plaques and a feline waterspout.
+
+At present, this is the earliest *hortus* known in ancient Ostia.
 
 ### Plans
 
-{{< figure src="../images/ostia_fig15.jpg" alt="Plan of the Garden beneath the House of the Fishes" title="Fig. 1: Plan (from Becatti, Mosaici)." >}}
+{{< figure src="../images/ostia_fig.jpg" alt="Plan of the House of the Bucronia" title="Fig. 1: Plan (from Morard, Wavelet)." >}}
 
 ### Dates
 
@@ -80,8 +86,7 @@ unspecified
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
 <!-- Bibliography for Garden Description -->
-* Giovanni Becatti, *Case ostiensi del tardo impero*, pp. 18-20. [(worldcat)](http://www.worldcat.org/oclc/899106405)
-* F. Zevi et al., *Notizie degli scavi di antichità*, in press. [(worldcat)](http://www.worldcat.org/oclc/8340098)
+* T. Morard, *Mélanges de l'École française de Rome: Antiquité* Tome 115, No. 1 (2003), in press. [(worldcat)](http://www.worldcat.org/oclc/859589040)
 
 #### Pleiades ID
 
@@ -95,7 +100,7 @@ unspecified
 
 ### Contributor
 
-[Stella Falzone](https://www.cespro-ostia.org/stella-falzone) <!-- is this a good website for Falzone? -->
+[Thomas Morard]()
 
 ### Publication date
 
