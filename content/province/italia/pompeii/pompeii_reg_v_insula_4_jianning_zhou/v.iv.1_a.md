@@ -28,7 +28,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 ### Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
-<!-- LEAVE THIS BLANK FOR NOW -->
+<!-- I am trying but I do not think I did this correctly -->
 
 ## Sublocation
 Region V
@@ -73,7 +73,7 @@ Boyce, p. 39, no. 117. [(worldcat)](http://www.worldcat.org/oclc/491367250) \
 Jashemski, *Gardens*, vol.II, pp. 116, 336.  [(worldcat)](http://www.worldcat.org/oclc/1029851777) \
 Mau, *RM* (1901), pp. 313-314. [(worldcat)](http://www.worldcat.org/oclc/1189330863) \
 Schefold, *WändP*, p. 83. [(worldcat)](http://www.worldcat.org/oclc/1100462668) \
-Sogliano, *NSc* (1901), p.256 and fig. 1 (plan). [(worldcat)](http://www.worldcat.org/oclc/1091982220) 
+Sogliano, *NSc* (1901), p.256 and fig. 1 (plan). [(worldcat)](http://www.worldcat.org/oclc/1091982220)
 
 
 <!--#### Periodo ID-->
