@@ -1,11 +1,11 @@
 ---
-title: "V.iv.c."
+title: "V.IV.c."
 date: 2020-09-29T12:07:01-04:00
 province_id: 1052
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Jianing Zhou
-draft: False
+draft: true
 
 categories:
 - "Italia"
@@ -35,22 +35,22 @@ Region V
 
 
 ## Insula
-Insula iv
+Insula IV
 
 
 ## House
 House c
 
 ## Garden
-V.iv.c.
+V.IV.c.
 
 ### Keywords
-- [viridarium]
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [tablina](http://vocab.getty.edu/page/aat/300004180)
-- [trellises](http://vocab.getty.edu/page/aat/300006785)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)  
+viridarium ("place of greens", referring to plants in a garden) \
+[cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \
+[mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) \
+[tablina](http://vocab.getty.edu/page/aat/300004180) \
+[trellises](http://vocab.getty.edu/page/aat/300006785) \
+[lararia](http://vocab.getty.edu/page/aat/300400600)
 
 
 ### Garden Description
@@ -66,17 +66,17 @@ Wooden steps at the rear of this house excavated in 1902 led up to a *viridarium
 
 
 ### Dates
-Unspecified
+79 CE
 
 #### Excavation Dates
-1902CE
+1902
 
 ### Bibliography
-* Boyce, p. 39, no. 117. [(worldcat)](http://www.worldcat.org/oclc/491367250)
-* Jashemski, *Gardens*, vol.II, pp. 116, 336.  [(worldcat)](http://www.worldcat.org/oclc/1029851777)
-* Mau, *RM* (1901), pp. 313-314. [(worldcat)](http://www.worldcat.org/oclc/1189330863)
-* Schefold, *WändP*, p. 83. [(worldcat)](http://www.worldcat.org/oclc/1100462668)
-* Sogliano, *NSc* (1901), p.256 and fig. 1 (plan). [(worldcat)](http://www.worldcat.org/oclc/1091982220)
+Boyce, p. 39, no. 117. [(worldcat)](http://www.worldcat.org/oclc/491367250) \
+Jashemski, *Gardens*, vol.II, pp. 116, 336.  [(worldcat)](http://www.worldcat.org/oclc/1029851777) \
+Mau, *RM* (1901), pp. 313-314. [(worldcat)](http://www.worldcat.org/oclc/1189330863) \
+Schefold, *WändP*, p. 83. [(worldcat)](http://www.worldcat.org/oclc/1100462668) \
+Sogliano, *NSc* (1901), p.256 and fig. 1 (plan). [(worldcat)](http://www.worldcat.org/oclc/1091982220)
 
 
 <!--#### Periodo ID-->
@@ -88,7 +88,7 @@ Unspecified
 [433032](https://pleiades.stoa.org/places/433032)
 
 #### TGN ID
-
+[7004658](http://vocab.getty.edu/page/tgn/7004658)
 
 ### Contributor
 [Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
