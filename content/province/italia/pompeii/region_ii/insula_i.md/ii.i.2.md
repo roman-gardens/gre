@@ -1,8 +1,7 @@
 ---
-
 article-type: "province"
-title: "II.1.3-7"
-date: 2021-02-19T15:25:26Z
+title: "II.i.2 (House of Aemilius Primio and Aemiluis Saturninus)"
+date: 2021-02-19T17:12:19Z
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner
@@ -12,7 +11,7 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "caupona"
+  - "tablinium"
   - "amphorae"
 ---
 
@@ -34,43 +33,22 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula I]({{<relref "..">}})
 
 ### Keywords
- - [cauponae](http://vocab.getty.edu/page/aat/300005208)
+ - [tabernae](http://www.getty.edu/vow/AATFullDisplay?find=tabernae&logic=AND&note=&english=N&prev_page=1&subjectid=300005366)
  - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
+
+
+## House
+House of Aemilius Primio and Aemiluis Saturninus
 
 
 
 ## Garden
 Small garden to the rear of a
-[caupona](http://vocab.getty.edu/page/aat/300005208)
+[taberna] (http://www.getty.edu/vow/AATFullDisplay?find=tabernae&logic=AND&note=&english=N&prev_page=1&subjectid=300005366)
 
 ### Garden Description
-The garden in the southeast section of this area was shared the house at entrance 3 and shops 4, 5, and 6 on the Via dell’Abbondanza. It was also possible to enter the garden from the side street at entrance 7.  Jashemski established in 1975 that the area had been planted due to the presence of scattered root cavities, but extensive damage to the soil prevented the recovery of an accurate planting plan.
+Behind the shop, living quarters were located, including a garden to the rear. The west garden wall was topped with the broken amphorae; this wall was shared with the rear open area in I.i.1.
 
 
 ### Bibliography
 *W. F. Jashemski, 1993, Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.75.* [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)
-
-
-
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-#### Pleiades ID
-[456321707](https://pleiades.stoa.org/places/456321707)
-
-#### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
-
-###  Excavation Dates
-Unspecified
-
-### Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-
-### Publication date
-19 February 2021
-<!-- Format: dd MONTH_NAME yyyy -->
-
-<!-- DATE -->
