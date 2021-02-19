@@ -5,7 +5,7 @@ province_id:
 article_id: ARTICLE_ID
 author: Kathryn Gleason
 editor: Leigh-Ann Bedal
-draft: false
+draft: true
 
 categories:
  -
@@ -15,30 +15,30 @@ tags:
 ---
 
 ## Province
-[ARABIA PETRAEA]
-
-## Location
-[Wadi as-Seer]
-[Qasr al-Abed]
-[Jordan]
-[Transjordan]
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
+[Arabia Petraea]({{<relref "..">}})\
+[Arabia (province) (Pleiades)] (https://pleiades.stoa.org/places/981506)
 
 <!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+## Province Description
+Awaiting edits by Leigh-Ann Bedal.
 -->
+The history of Roman Arabia begins with the death of the Nabataean king, Rabb‘el II, in A.D. 106. The emperor Trajan annexed the Nabataean kingdom and organized its territory within the new Roman province of Arabia Petraea that occupied a large area of northwestern Arabia, extending from the Hauran in the north, to the Negev and Sinai deserts in the west, and into the northern Hejaz in the south. The administrative district of Perea, formerly under the Herodian dynasty was also added. The provincial capital of Arabia Petraea was located at Bostra which replaced Petra as the capital of Nabataea in the last decades of that kingdom’s independence. Petra continued to function as an important cultural, political and economic center of the province for at least a century following annexation. During the early Byzantine period (4th-6th centuries A.D.), the major cities of the Roman era continued to flourish, and Christianity gradually became the accepted religion of the area. Petra remained an important center in the early Byzantine period when it was inhabited by a substantial Christian community and was the seat of a bishopric.
 
-<!--### Sublocation Description-->
+The region of Arabia Petraea is primarily a desert environment that belongs to the eastern Mediterranean weather system. Its inhabitants experienced marked seasonal contrasts with dry, hot summers and cold, wet winters. Rainfall occurs during the winter months and ranges from over 600 millimeters in the north-west to as low as 100 millimeters in the south and east of the region.
+
+## Location
+[ʻIrāq al-Amīr]({{<relref "..">}})\
+[ʻIrāq al-Amīr (Pleiades)](https://pleiades.stoa.org/places/697757)
+
+<!-- DESCRIPTION -->
+
+## Sublocation
+[Qasr al-Abd at Tyrus (Pleiades)](https://pleiades.stoa.org/places/947227732)
 
 <!-- DESCRIPTION -->
 
 ## Garden
-'IRAQ AL AMIR
-
-TYROS ('Iraq al-Amir, Jordan)
+ʻIrāq al-Amīr / Tyrus
 
 ### Keywords
 -[aula/forecourt](http://vocab.getty.edu/aat/300004104)
@@ -82,7 +82,7 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 -->
 
 ### Dates
-Unspecified
+2nd century BCE (Hellenistic period)
 
 ### Bibliography
 - N. Lapp, "'Iraq al-Amir," in eds. E. Stern, *et al*. *The New Encyclopedia of Archaeological Excavations in the Holy Land* IV, pp. 1254-1257, Jerusalem, 1993. [(worldcat)](http://www.worldcat.org/oclc/850884350)
@@ -96,14 +96,14 @@ Unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-
+[947227732](https://pleiades.stoa.org/places/947227732)
 
 
 #### TGN ID
-
+[5003214](http://www.getty.edu/vow/TGNFullDisplay?find=tyrus&place=&nation=&prev_page=1&english=Y&subjectid=5003214)
 
 ### Contributor
-
+Kathryn L. Gleason
 
 ### Publication date
 
