@@ -1,11 +1,11 @@
 ---
 article-type: "province"
-title: "Caupona, VI.I.1"
+title: "Caupona (VI.I.1)"
 date: 2021-02-19T09:54:16-06:00
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Claire Campbell
-draft: true
+draft: false
 ---
 
 # Province
@@ -64,7 +64,7 @@ Jashemski, *Gardens*, 1:168 and fig. 249 on p.168 [(worldcat)](https://www.world
 Idem, *Gardens*, vol. II, p. 119 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-2-herculaneum-and-the-villas-destroyed-by-vesuvius/oclc/921816405) \
 Mazois, 2:46, pl. 9, figs. 3, 5 [(worldcat)](https://www.worldcat.org/title/ruines-de-pompei-dessinees-et-mesurees-pendant-les-annees-mdcccix-mdcccx-mdcccxi/oclc/874412631&referer=brief_results) \
 *PAH*, vol. 1, pt.2, p.36 (Mar. 8, 1787) [(worldcat)](http://www.worldcat.org/oclc/568028156) \
-Soprano, p. 300, no. 13. 
+Soprano, p. 300, no. 13.
 <!--
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
