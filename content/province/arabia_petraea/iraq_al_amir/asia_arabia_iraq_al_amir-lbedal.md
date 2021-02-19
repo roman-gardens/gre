@@ -5,7 +5,7 @@ province_id:
 article_id: ARTICLE_ID
 author: Kathryn Gleason
 editor: Leigh-Ann Bedal
-draft: true
+draft: false
 
 categories:
  -
