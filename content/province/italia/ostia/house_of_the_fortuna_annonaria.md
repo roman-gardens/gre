@@ -1,6 +1,6 @@
 ---
 title: "House of the Fortuna Annonaria"
-date: 2021-02-17T19:00:00-08:00
+date: 2021-02-08T19:00:00-08:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Elizabeth J. Shepherd
@@ -74,15 +74,15 @@ The garden also forms the backdrop to the rooms in the east part of the house, a
 
 ### Plans
 
-{{< figure src="../images/ostia_fig20.jpg" alt="Plan of the House of the Bucronia" title="Fig. 1: Plan (from Boersma)." >}}
+{{< figure src="../images/ostia_fig20.jpg" alt="Plan of the Fortuna Annonaria" title="Fig. 1: Plan (from Boersma)." >}}
 
-{{< figure src="../images/ostia_fig21.jpg" alt="Plan of the House of the Bucronia" title="Fig. 2: Axonometry (from Boersma)." >}}
+{{< figure src="../images/ostia_fig21.jpg" alt="Axonometry of the Fortuna Annonaria" title="Fig. 2: Axonometry (from Boersma)." >}}
 
 ### Photos
 
-{{< figure src="../images/ostia_fig22.jpg" alt="Plan of the House of the Bucronia" title="Fig. 3: The garden seen from the oecus (SBAO, Photo Archive)." >}}
+{{< figure src="../images/ostia_fig22.jpg" alt="The garden seen from the oecus" title="Fig. 3: The garden seen from the *oecus* (SBAO, Photo Archive)." >}}
 
-{{< figure src="../images/ostia_fig23.jpg" alt="Plan of the House of the Bucronia" title="Fig. 3: Well head with bucrania (SBAO, Photo Archive)." >}}
+{{< figure src="../images/ostia_fig23.jpg" alt="Well head with bucrania" title="Fig. 4: Well head with bucrania (SBAO, Photo Archive)." >}}
 
 ### Dates
 

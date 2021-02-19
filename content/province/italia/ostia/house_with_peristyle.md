@@ -65,11 +65,11 @@ The portico courtyard was a garden. On its northern side was a large rectangular
 
 ### Plans
 
-{{< figure src="../images/ostia_fig.jpg" alt="Plan of the House with Peristyle" title="Fig. 1: Plan (from Morard, Wavelet)." >}}
+{{< figure src="../images/ostia_fig.jpg" alt="Plan of the House with Peristyle" title="Fig. 1: Plan (from Morard, Wavelet)." >}} <!--missing illustration-->
 
 ### Photos
 
-{{< figure src="../images/ostia_fig.jpg" alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations" title="Fig. 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (SBAO, Photo Archive)." >}}
+{{< figure src="../images/ostia_fig.jpg" alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations" title="Fig. 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (SBAO, Photo Archive)." >}} <!--missing illustration-->
 
 ### Dates
 

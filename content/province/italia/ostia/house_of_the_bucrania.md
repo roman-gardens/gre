@@ -1,6 +1,6 @@
 ---
 title: "House of the Bucrania"
-date: 2021-02-017T19:00:00-08:00
+date: 2021-02-08T19:00:00-08:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Thomas Morard
@@ -68,7 +68,7 @@ At present, this is the earliest *hortus* known in ancient Ostia.
 
 ### Plans
 
-{{< figure src="../images/ostia_fig.jpg" alt="Plan of the House of the Bucronia" title="Fig. 1: Plan (from Morard, Wavelet)." >}}
+{{< figure src="../images/ostia_fig.jpg" alt="Plan of the House of the Bucronia" title="Fig. 1: Plan (from Morard, Wavelet)." >}} <!--missing illustration-->
 
 ### Dates
 
