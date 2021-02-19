@@ -97,10 +97,10 @@ Unspecified
 
 ### Bibliography
 
-* M. Carroll-Spillecke, “The Gardens of Greece from Homeric to Roman Times,” *Journal of Garden History* 12, 1992: 84-101 [(Taylor & Francis Online)](https://doi.org/10.1080/01445170.1992.10410564)
-* A. Kuttner, “Republican Rome looks at Pergamon," Harvard Studies in Classical Philology vol. 97, *Greece in Rome:  Influence, Interaction, Resistance*, ed. C.P.Jones, R. Thomas, 1997, pp.157-178 [(worldcat)](http://www.worldcat.org/oclc/67030024)
-* C. Ratte, “Pergamon,” *Oxford Encyclopedia of Near Eastern Archaeology*, 1997, 261-262 [(worldcat)](http://www.worldcat.org/oclc/607143997)
-* I. Nielsen, *Hellenistic Palaces*. Aarhus, 1994, p. 107, catalog no. 15.[(worldcat)](http://www.worldcat.org/oclc/468433476)
+* M. Carroll-Spillecke, “The Gardens of Greece from Homeric to Roman Times,” *Journal of Garden History* 12, 1992: 84-101. [(Taylor & Francis Online)](https://doi.org/10.1080/01445170.1992.10410564)
+* A. Kuttner, “Republican Rome looks at Pergamon," *Harvard Studies in Classical Philology* vol. 97, *Greece in Rome: Influence, Interaction, Resistance*, ed. C. P. Jones, R. Thomas, 1997, pp. 157-178. [(worldcat)](http://www.worldcat.org/oclc/67030024)
+* C. Ratte, “Pergamon,” *Oxford Encyclopedia of Near Eastern Archaeology*, 1997, 261-262. [(worldcat)](http://www.worldcat.org/oclc/607143997)
+* I. Nielsen, *Hellenistic Palaces*. Aarhus, 1994, p. 107, catalog no. 15. [(worldcat)](http://www.worldcat.org/oclc/468433476)
 
 <!--#### Periodo ID-->
 
@@ -111,6 +111,7 @@ Unspecified
 [537932154](https://pleiades.stoa.org/places/537932154)
 
 #### TGN ID
+
 [7016140](http://vocab.getty.edu/page/tgn/7016140)
 
 ### Contributor
