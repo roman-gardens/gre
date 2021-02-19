@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gardens of the Roman Empire</title>
+    <link>https://christiancasey.github.io/gre/province/italia/region_x/</link>
+    <description>Recent content on Gardens of the Roman Empire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Dec 2020 12:00:02 -0500</lastBuildDate>
+    
+	<atom:link href="https://christiancasey.github.io/gre/province/italia/region_x/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
