@@ -1,9 +1,9 @@
 ---
-title: "Garden beneath the House of the Fishes (Domus dei Pesci)"
+title: "House with Peristyle"
 date: 2021-02-08T19:00:00-08:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Stella Falzone
+author: Thomas Morard
 editor: Joshua Rosenheim
 draft: false
 ---
@@ -47,22 +47,29 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-Garden beneath the House of the Fishes (Domus dei Pesci)
+House with Peristyle
 
 ### Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [water supply systems](http://vocab.getty.edu/page/aat/300008618)
 
 ### Garden Description
 
-In the course of recent excavations in a room (a) of this house a probable garden area was uncovered (Fig. 1). Only its southern limits, represented by the perimeter wall of an otherwise unidentified building, could be traced. The archaeological sequence established by the stratigraphy of this garden area dates it between the early 2nd and early 3rd century AD. It is characterized by a series of superimposed levels of beaten earth, interrupted by small channels, postholes and larger pits.
+During the winter 1938-1939 part of an earlier building was found under the occupation level of the Schola of the Trajan.  It was called House with peristyle, as the main preserved feature was seen to be the considerable part of a classical peristyle (Fig. 1, b). The house was erected between 20-40 AD and then destroyed between 160-200 AD. The find created great interest and massive restorations began, in order to show visitors a characteristic type of private architecture of the early Empire, rarely found in Ostia.
 
-One significant level of these successive transformations of the area is represented by a layer which was cut to provide the support for a kind of rectangular terracotta container. It rested directly on the earth, and was perhaps used as a watering basin. Probably connected with this object is a small channel running parallel to it, 10 cm deep and 30 cm wide, paved with pottery fragments. To the south of this channel a pit was located, its edge lined with pottery fragments. It is flanked by two smaller and shallower holes (respectively 12 and 16 cm in diameter), perhaps for small shrubs or poles. Probably slightly later is another layout of the garden, represented by a beaten earth level cut by a pit (*c*.22 cm wide, 10 cm deep). Found embedded inside it was a large, upturned upper part of a Dressel 20 amphora, possibly used as a planting pot.
+The portico of this house was then partially rebuilt with brick columns (Fig. 2). On its east, roofed side, the portico is paved with a white and black tessellated mosaic with geometrical and vegetal decorations. Some of the wall painting is conserved *in situ* on the east wall of the portico. It is also possible to date several later restorations of the house between the 1st and the 2nd century AD.
+
+The portico courtyard was a garden. On its northern side was a large rectangular nymphaeum, also restored in 1939. It is decorated with a semi-circular niche on its long southern side. The floor is paved in *opus spicatum*; the walls are lined with hydraulic mortar, painted blue (Fig. 1, c). The volume of this nymphaeum and the system of the water evacuation and supply were modified several times. The well in *opus testaceum*, in the angle southwest of the basin, is certainly one of the latest features.  There is another well under the east corner of the portico that can be reached by stairs. The underground space, which was created around the well, could have been used as a cellar.
 
 ### Plans
 
-{{< figure src="../images/ostia_fig15.jpg" alt="Plan of the Garden beneath the House of the Fishes" title="Fig. 1: Plan (from Becatti, Mosaici)." >}}
+{{< figure src="../images/ostia_fig.jpg" alt="Plan of the House with Peristyle" title="Fig. 1: Plan (from Morard, Wavelet)." >}} <!--missing illustration-->
+
+### Photos
+
+{{< figure src="../images/ostia_fig.jpg" alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations" title="Fig. 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (SBAO, Photo Archive)." >}} <!--missing illustration-->
 
 ### Dates
 
@@ -80,8 +87,8 @@ unspecified
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
 <!-- Bibliography for Garden Description -->
-* Giovanni Becatti, *Case ostiensi del tardo impero*, pp. 18-20. [(worldcat)](http://www.worldcat.org/oclc/899106405)
-* F. Zevi et al., *Notizie degli scavi di antichità*, in press. [(worldcat)](http://www.worldcat.org/oclc/8340098)
+* Arena, *Ostia repubblicana*, p. 23. [(worldcat)]()
+* T. Morard and D. Wavelet, *Mélanges de l'École française de Rome: Antiquité* Tome 114, No. 2 (2002), Rome, pp. 759-815. [(worldcat)](http://www.worldcat.org/oclc/859589040) [hathitrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015068961740&view=2up&seq=183)
 
 #### Pleiades ID
 
@@ -95,7 +102,7 @@ unspecified
 
 ### Contributor
 
-[Stella Falzone](https://www.cespro-ostia.org/stella-falzone) <!-- is this a good website for Falzone? -->
+[Thomas Morard]()
 
 ### Publication date
 

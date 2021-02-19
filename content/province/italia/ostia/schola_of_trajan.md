@@ -1,9 +1,9 @@
 ---
-title: "Garden beneath the House of the Fishes (Domus dei Pesci)"
+title: "Schola of Trajan"
 date: 2021-02-08T19:00:00-08:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Stella Falzone
+author: Thomas Morard
 editor: Joshua Rosenheim
 draft: false
 ---
@@ -47,22 +47,27 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-Garden beneath the House of the Fishes (Domus dei Pesci)
+Schola of Trajan
 
 ### Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [water supply systems](http://vocab.getty.edu/page/aat/300008618)
 
 ### Garden Description
 
-In the course of recent excavations in a room (a) of this house a probable garden area was uncovered (Fig. 1). Only its southern limits, represented by the perimeter wall of an otherwise unidentified building, could be traced. The archaeological sequence established by the stratigraphy of this garden area dates it between the early 2nd and early 3rd century AD. It is characterized by a series of superimposed levels of beaten earth, interrupted by small channels, postholes and larger pits.
+The monumental complex of the Schola of the Trajan, presumed headquarters of the corporation of the marine carpenters, was built *c*.160-200 and abandoned after the 4th century CE. It was excavated and restored during the winter of 1938-1939. It includes a vast internal courtyard, which is oblong and marked with an obtuse angle in its median part (Fig. 1, a). Unfortunately, ancient damage and early, inaccurate excavations make it impossible to know if this space was paved or a garden.
 
-One significant level of these successive transformations of the area is represented by a layer which was cut to provide the support for a kind of rectangular terracotta container. It rested directly on the earth, and was perhaps used as a watering basin. Probably connected with this object is a small channel running parallel to it, 10 cm deep and 30 cm wide, paved with pottery fragments. To the south of this channel a pit was located, its edge lined with pottery fragments. It is flanked by two smaller and shallower holes (respectively 12 and 16 cm in diameter), perhaps for small shrubs or poles. Probably slightly later is another layout of the garden, represented by a beaten earth level cut by a pit (*c*.22 cm wide, 10 cm deep). Found embedded inside it was a large, upturned upper part of a Dressel 20 amphora, possibly used as a planting pot.
+An Ionic portico, with a colonnade of bricks with stucco, surrounded this internal space. A long and narrow water channel crossed the peristyle court of the Schola in all its length. It had a low parapet, decorated on its internal face by a row of rounded niches, and was faced with marble (much restored) (Fig. 2). Slightly offset, the particular position of this channel provokes a subtle optical correction of the angle, which marks the plan of the building. The channel was reduced, or perhaps even abandoned during the construction of the receding part of the Schola. New excavations since 1998 in the Northern sector of the peristyle court have uncovered an important part of the plumbing network. It must have been used for the water supply of this internal space of the Schola, which was probably rich in *jeux d’eau.*
 
 ### Plans
 
-{{< figure src="../images/ostia_fig15.jpg" alt="Plan of the Garden beneath the House of the Fishes" title="Fig. 1: Plan (from Becatti, Mosaici)." >}}
+{{< figure src="../images/ostia_fig18.jpg" alt="Plan of the Schola of the Trajan" title="Fig. 1: Plan (from Morard, Wavelet)." >}}
+
+### Photos
+
+{{< figure src="../images/ostia_fig19.jpg" alt="Plan of the peristyle, with column bases and flower pots" title="Fig. 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (SBAO, Photo Archive)." >}}
 
 ### Dates
 
@@ -80,8 +85,8 @@ unspecified
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
 <!-- Bibliography for Garden Description -->
-* Giovanni Becatti, *Case ostiensi del tardo impero*, pp. 18-20. [(worldcat)](http://www.worldcat.org/oclc/899106405)
-* F. Zevi et al., *Notizie degli scavi di antichità*, in press. [(worldcat)](http://www.worldcat.org/oclc/8340098)
+* *Giornale degli Scavi*, 1938, pp. 65-69, 75-81. [(worldcat)](http://www.worldcat.org/oclc/8340098)
+* T. Morard and D. Wavelet, *Mélanges de l'École française de Rome: Antiquité* Tome 114, No. 2 (2002), Rome, pp. 759-815. [(worldcat)](http://www.worldcat.org/oclc/859589040) [hathitrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015068961740&view=2up&seq=183)
 
 #### Pleiades ID
 
@@ -95,7 +100,7 @@ unspecified
 
 ### Contributor
 
-[Stella Falzone](https://www.cespro-ostia.org/stella-falzone) <!-- is this a good website for Falzone? -->
+[Thomas Morard]()
 
 ### Publication date
 
