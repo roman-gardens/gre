@@ -38,6 +38,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ### Keywords
  - [tabernae](http://www.getty.edu/vow/AATFullDisplay?find=tabernae&logic=AND&note=&english=N&prev_page=1&subjectid=300005366)
  - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
+ - [triclinium](http://vocab.getty.edu/page/aat/300004359)
+ - [table](http://vocab.getty.edu/page/aat/300039548)
+ - [dolium](http://vocab.getty.edu/page/aat/300400601)
+ - [courtyard](http://vocab.getty.edu/page/aat/300004095)
+ - [aedicula](http://vocab.getty.edu/page/aat/300002574)
+ - [gutter](http://vocab.getty.edu/page/aat/300052565)
+ - [stucco](http://www.getty.edu/vow/AATFullDisplay?find=stucco&logic=AND&note=&english=N&prev_page=1&subjectid=300014966)
+ - [hearth](http://vocab.getty.edu/page/aat/300003990)
 
 
 ## Garden
@@ -68,8 +76,8 @@ Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 198
 ###  Excavation Dates
 1939, 1953-1955, 1983
 
-### Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
+### Contributors
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)  
 Jessica Venner (https://orcid.org/0000-0001-5828-6222)
 
 
