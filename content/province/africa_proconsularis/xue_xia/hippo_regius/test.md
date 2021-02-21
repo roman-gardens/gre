@@ -1,7 +1,7 @@
 ---
 article-type: "province"
 title: "Test"
-date: 2021-02-21T16:30:17+08:00
+date: 2021-02-21T17:15:08+08:00
 province_id: PROVINCE_ID
 author: NAME_OF_AUTHOR
 editor: NAME_OF_EDITOR
