@@ -105,6 +105,7 @@ puteal
 [rinceaux](http://vocab.getty.edu/page/aat/300165495)
 [roofing tile](http://vocab.getty.edu/page/aat/300010699)
 rural villas
+[sacella](http://www.getty.edu/vow/AATFullDisplay?find=sacellum&logic=AND&note=&english=N&prev_page=1&subjectid=300007570)
 [sarcophagi (coffins)](http://vocab.getty.edu/page/aat/300005947)
 [sherds](http://vocab.getty.edu/page/aat/300117132)
 shrine gardens
@@ -113,6 +114,8 @@ shrine gardens
 [statues](http://vocab.getty.edu/page/aat/300047600)
 [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 [stelae](http://vocab.getty.edu/page/aat/300007023)
+[stucco](http://www.getty.edu/vow/AATFullDisplay?find=stucco&logic=AND&note=&english=N&prev_page=1&subjectid=300014966)
+[tabernae](http://www.getty.edu/vow/AATFullDisplay?find=tabernae&logic=AND&note=&english=N&prev_page=1&subjectid=300005366)
 [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
 [tablina](http://vocab.getty.edu/page/aat/300004180)
 [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
