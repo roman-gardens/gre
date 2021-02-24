@@ -1,7 +1,7 @@
 ---
 
 article-type: "province"
-title: "II.1.3-7"
+title: "II.i.3-7"
 date: 2021-02-19T15:25:26Z
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
@@ -14,6 +14,7 @@ categories:
 tags:
   - "caupona"
   - "amphorae"
+  - "root cavities"
 ---
 
 ## Province
@@ -48,7 +49,7 @@ The garden in the southeast section of this area was shared the house at entranc
 
 
 ### Bibliography
-*W. F. Jashemski, 1993, Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.75.* [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)
+W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.75.* [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)
 
 
 
@@ -63,7 +64,7 @@ The garden in the southeast section of this area was shared the house at entranc
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
 ###  Excavation Dates
-Unspecified
+1916, 1950, 1985. Bombed in 1943.
 
 ### Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
