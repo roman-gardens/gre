@@ -5,7 +5,7 @@ province_id:
 article_id: ARTICLE_ID
 author: Kathryn Gleason
 editor: Leigh-Ann Bedal
-draft: true
+draft: false
 
 categories:
  -
@@ -16,7 +16,7 @@ tags:
 
 ## Province
 [Arabia Petraea]({{<relref "..">}})\
-[Arabia (province) (Pleiades)] (https://pleiades.stoa.org/places/981506)
+[Arabia (province) (Pleiades)](https://pleiades.stoa.org/places/981506)
 
 <!--
 ## Province Description

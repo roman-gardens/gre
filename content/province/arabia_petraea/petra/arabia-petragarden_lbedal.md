@@ -5,7 +5,7 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Leigh-Ann Bedal
 editor: Jane Miller and Leigh-Ann Bedal
-draft: true
+draft: false
 
 categories:
  - "Arabia Petraea"
@@ -92,16 +92,16 @@ A deep deposit of sediment above the pool floor indicates that the pool went out
 
 ### Plans
 {{< figure src="../images/arabia_petra_city_center.jpg" alt="Plan of Petra's city center" title="Fig. 2: Plan of Petra's city center showing the location of the garden and pool complex on the Southern Terrace (L.-A. Bedal)" >}}
-{{< figure src="../images/arabia_petra_plan" alt="Archaeological plan showing garden and pool complex" title="Fig. 3: Plan of the garden and pool complex, 2018. Plan by F. Ishaqat, A. Leung, C. Kanellopoulous, and L.-A. Bedal." >}}
+{{< figure src="../images/arabia_petra_plan.jpg" alt="Archaeological plan showing garden and pool complex" title="Fig. 3: Plan of the garden and pool complex, 2018. Plan by F. Ishaqat, A. Leung, C. Kanellopoulous, and L.-A. Bedal." >}}
 
 ### Images
 {{< figure src="../images/arabia_petra_gpr.jpg" alt="plan of ground-penetrating radar results" title="Fig. 4: Horizontal slice of the ground-penetrating radar data showing the location of built features (yellow-orange) on the garden terrace. Permission of L.-A. Bedal." >}}
 
-{{< figure src="../images/arabia_petra_trench17.jpg" alt="Overhead view of an excavation trench showing pathway, stone borders, and root cavities." title="Fig. 5: Gravel pathway with stone border and excavated root cavities. Photograph by L.-A. Bedal." >}}
+{{< figure src="../images/arabia_petra_trench17.jpg" alt="Overhead view of an excavation trench showing pathway, stone borders, and root cavities" title="Fig. 5: Gravel pathway with stone border and excavated root cavities. Photograph by L.-A. Bedal." >}}
 
-{{< figure src="../images/arabia_petra_sketch.jpg" alt="Imagined reconstruction of the trellised pathway." title="Fig. 6: Imagined reconstruction of the trellised pathway. Drawing by K. Gleason." >}}
+{{< figure src="../images/arabia_petra_sketch.jpg" alt="Imagined reconstruction of the trellised pathway" title="Fig. 6: Imagined reconstruction of the trellised pathway. Drawing by K. Gleason." >}}
 
-{{< figure src="../images/arabia_petra_pot.jpg" alt="Photo and illustrations of an unglazed ceramic pot with small round hole" title="Fig. 7: Fragment of a perforated flower pot with reconstruction drawing. Photo and drawing by L.-A. Bedal." >}}
+{{< figure src="../images/arabia_petra_flowerpot.jpg" alt="Photo and illustrations of an unglazed ceramic pot with small round hole" title="Fig. 7: Fragment of a perforated flower pot with reconstruction drawing. Photo and drawing by L.-A. Bedal." >}}
 
 {{< figure src="../images/arabia_petra_ceiling2.jpg" alt="Painted ceiling in a vaulted room." title="Fig. 8: Garden trellis painting at Little Petra. Photograph by L.-A. Bedal." >}}
 
