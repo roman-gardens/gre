@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# random change
 #script to recursively travel the content director and create _index.md files
 
 function traverse() {   
