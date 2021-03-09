@@ -1,20 +1,21 @@
 ---
-title: "Large vineyard."
+title: "II.v (Large Vineyard)"
 date: 2020-11-29T10:54:29-07:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
-editor: Yuyao Liu
+editor: Jessica Venner
 draft: false
+
 
 categories:
  - "Italia"
 tags:
-  - "amphitheaters"
   - "trellises"
   - "triclinia (couches)"
   - "vineyards"
-
+  - "dolia"
+  - "animal bones"
 
 
 ---
@@ -34,7 +35,7 @@ Region II
 
 
 ## House
-[Large vineyard in Pompeii](https://pleiades.stoa.org/places/444848573)
+[Large Vineyard](https://pleiades.stoa.org/places/444848573)
 
 
 
@@ -44,23 +45,22 @@ Large vineyard
 
 ### Keywords
 - [amphitheaters](http://vocab.getty.edu/page/aat/300007128)
-
 - [trellises](http://vocab.getty.edu/page/aat/300006785)
-
 - [triclinia (couches)](http://vocab.getty.edu/page/aat/300142552)
-
 - [vineyards](http://vocab.getty.edu/page/aat/300000248)
+- [[dolia](http://vocab.getty.edu/page/aat/300400601)]
+
 
 
 
 ### Garden Description
-Located north of the amphitheater, this site was initially identified as the Foro Boario or Cattle Market.  A small amount of excavation was started in 1755, but in 1814 the entrance and south wall were excavated. Most of the excavation was completed in the 1950s except the northeastern section. In 1966 Jashemski undertook preliminary sub-soil excavations and proved that the area had been under cultivation. Work continued through 1968 and 1970 removing some undisturbed lapilli and consequently 2,014 vine root cavities were recorded with an equal number of stakes in that section. It was noted that ninety percent of the root cavities had a diameter ranging from 2 to 5.5 cm. with the average being just under 4 cm.  The total range of size was from 1 cm. to 8.5 cm. The vines were spaced four Roman feet apart, trained on a rectangular framed trellis (vitus compluviata) and each vine had three or four depressions for watering at the base.  Also discovered were two well preserved examples of propagation by layering.
-A north-south path starting from the entrance divided the vineyard into equal halves. An east-west path crossed this leading to the outdoor triclinium and two rooms where the wine was made. A third path was discovered in 1970 running parallel to the north wall. Fifteen coins were found on the third path, (for identification of these coins see Table E). The paths ran under arbors and usually two root cavities were found by each of the posts that supported the arbor.
-Rows of trees were planted at the edge of the vineyard between the second and third row of vines, widely spaced trees grew along the paths between the first and second row of vines on each side of the paths, and other trees were scattered randomly in the rest of the vineyard. In all, fifty-eight tree cavities were found, their ground level dimension ranging from 3.5 to 40 cm. Two carbonized olives were found as well as one bean which could indicate that vegetables were also grown under the vines.
-The entrance directly across from the amphitheater was designed to be an architectural part of the masonry triclinium (l. medius, 4.85 m.; l. imus and l. summus 4.50 m.; table 0.60 x 1.30m.). The entrance pillar matched the extension of the lectus imus across from it in length and width and a low masonry pedestal that was in line with the other entrance pillar shared the same dimensions. The pedestal could have held a lamp or statuette, and the extension of the lectus summus would have been used as a table. A second triclinium (l. medius, 4.60 m.; l. imus and l. summus 4.00 m.) was unique for the pergola posts were supported by a row of amphoras broken off at the top and bottom and buried in the ground along the outside edge of the lectus summus, close to the wall of the wine making building.  The entrance triclinium, and perhaps the second one where the wine was made, would have been used to serve those attending games at the amphitheater. Fifty–two bones were found here, (see Jashemski, Gardens, 1:216-218 and Table A on p. 217) with evidence that they were the remains of meals. Serving meals would have been a source of additional revenue for the wine makers. Wine would also have been sold at the shop with the ¬portico that faced the Via dell’Abbondanza that was part of this property.
+Located north of the amphitheater, this site was initially identified as the Foro Boario or Cattle Market.  A small amount of excavation was started in 1755, but in 1814 the entrance and south wall were excavated. Most of the excavation was completed in the 1950s, except the northeastern section. In 1966, Jashemski undertook preliminary sub-soil excavations and proved that the area had been under cultivation. Work continued through 1968 and 1970 removing some undisturbed lapilli and consequently 2,014 vine root cavities were recorded with an equal number of stakes in that section. It was noted that ninety percent of the root cavities had a diameter ranging from 2 to 5.5 cm with the average being just under 4 cm. The total range of size was from 1 cm to 8.5 cm. The vines were spaced four Roman feet apart, trained on a rectangular framed trellis (*vitus compluviata*) and each vine had three or four depressions for watering at the base. Also discovered were two well preserved examples of propagation by layering.
+A north-south path starting from the entrance divided the vineyard into equal halves. An east-west path crossed this leading to the outdoor [triclinium](http://vocab.getty.edu/page/aat/300004359) and two rooms where the wine was made. A third path was discovered in 1970 running parallel to the north wall. Fifteen coins were found on the third path. The paths ran under [arbors](http://vocab.getty.edu/page/aat/300006781) and usually two root cavities were found by each of the posts that supported the [arbor](http://vocab.getty.edu/page/aat/300006781).
+Rows of trees were planted at the edge of the vineyard between the second and third row of vines and widely spaced trees grew along the paths between the first and second row of vines on each side of the paths. Other trees were scattered randomly in the rest of the vineyard. In all, fifty-eight tree cavities were found, their ground level dimension ranging from 3.5cm to 40 cm. Two carbonized olives were found as well as one bean which could indicate that vegetables were also grown under the vines.
+The entrance directly across from the amphitheater was designed to be an architectural part of the masonry triclinium (l. medius, 4.85 m.; l. imus and l. summus 4.50 m.; table 0.60 x 1.30m.). The entrance pillar matched the extension of the *lectus imus* across from it in length and width and a low masonry pedestal that was in line with the other entrance pillar sharing the same dimensions. The pedestal could have held a lamp or statuette, and the extension of the *lectus summus* would have been used as a table. A second [triclinium](http://vocab.getty.edu/page/aat/300004359) (l. medius, 4.60 m.; l. imus and l. summus 4.00 m.) was unique for the pergola posts were supported by a row of [amphoras](http://vocab.getty.edu/page/aat/300148696) broken off at the top and bottom and buried in the ground along the outside edge of the *lectus summus*, close to the wall of the wine making building. The entrance [triclinium](http://vocab.getty.edu/page/aat/300004359), and perhaps the second one where the wine was made, would have been used to serve those attending games at the amphitheater. Fifty–two bones were found here (see Jashemski, Gardens, 1:216-218 and Table A on p. 217) with evidence that they were the remains of meals. Serving meals would have been a source of additional revenue for the wine makers. Wine would also have been sold at the shop with the [portico](http://vocab.getty.edu/page/aat/300004145) that faced the Via dell’Abbondanza that was part of this property.
 
 
-### Plans
+<!--Plans
 {{< figure src="../images/Fig. 23, II.v. 7.34.66.jpg" alt="large space of site." title="site overview 1">}}
 
 {{< figure src="../images/Fig. 24, II.v. 8.34.66.jpg" alt="stuff measured the size of the hole." title="excavation detail 1">}}
@@ -139,30 +139,30 @@ The entrance directly across from the amphitheater was designed to be an archite
 
 {{< figure src="../images/Fig. 59, II.v. 16.38.70.jpg" alt="people worked on the excavation" title="excavation work ">}}
 
-{{< figure src="../images/Fig. 60 II.v. 18.3.70.jpg" alt="the excavation" title="the excavation ">}}
+{{< figure src="../images/Fig. 60 II.v. 18.3.70.jpg" alt="the excavation" title="the excavation ">}}-->
 
 ### Dates
-Unspecified
+Excavated 1755, 1814 and between 1912 and 1972.
 
 ### Bibliography
 - *Giornale di scavo sistematico eseguito nell’area del Foro Boario da 1º Decembre, 1954 al 31 Maggio 1955* (unpublished);
 
 
-- Jashemski,*Excavations in the‘Foro Borario’at Pompeii: A Preliminary Report,* AJA 72 (1968): 69-73, ills. 1-3 and figs. 1-7
+- Jashemski, W. 1968. *Excavations in the‘Foro Borario’at Pompeii: A Preliminary Report,* AJA 72: pp.69-73, ills. 1-3 and figs. 1-7
 
-- Idem,*University of Maryland Excavations at Pompeii, 1968,* AJA 74 (1970): 63-70, ills. 1-5 and figs. 1-15
+- Jashemski, W. 1970. *University of Maryland Excavations at Pompeii, 1968,* AJA 74: pp.63-70, ills. 1-5 and figs. 1-15
 
-- Idem,*The Discovery of a Large Vineyard at Pompeii: University of Maryland Excavations, 1970,* AJA 77 (1973): 27-41, ills. 1-5 and figs, 1-7; )
+- Jashemski, W. 1973. *The Discovery of a Large Vineyard at Pompeii: University of Maryland Excavations, 1970,* AJA 77: pp.27-41, ills. 1-5 and figs, 1-7
 
-- Idem, *Large Vineyard Discovered in Ancient Pompeii,* Science 180 (1973): 821-830 and figs. 1-8
+- Jashemski, W. 1973. *Large Vineyard Discovered in Ancient Pompeii,* Science 180: pp.821-830 and figs. 1-8
 
-- Idem, *Gardens,* 1:201-218 and figs. 293-317
+- Jashemski, W. 1979. *Gardens of Pompeii*, vol.I: pp.201-218 and figs. 293-317
 
-- Idem, *Gardens,* vol.II, p.89-90
+- Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, pp.89-90
 
-- Maiuri, *Pompeii (Novara, 1928)*, p. 43: “scavato parzialmente nel 1755 e poi ricolmato” [worldcat](http://www.worldcat.org/oclc/2992975)
+- Maiuri, 1928. *Pompeii (Novara)*, p.43: “scavato parzialmente nel 1755 e poi ricolmato” [worldcat](http://www.worldcat.org/oclc/2992975)
 
-- Meyer, Frederick G,*Carbonized Food Plants of Pompeii, Herculaneum, and the Villa at Torre Annunziata,* Economic Botany. 34.4 (1980): 401-437. Print p.418 [worldcat](http://www.worldcat.org/oclc/5656581658)
+- Meyer, Frederick G, 1980. *Carbonized Food Plants of Pompeii, Herculaneum, and the Villa at Torre Annunziata,* Economic Botany. 34.4: 401-437 [worldcat](http://www.worldcat.org/oclc/5656581658)
 
 
 
@@ -184,7 +184,7 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
 ### Publication date
-2 December 2020
+9 March 2021
 
 <!--### Related articles-->
 
