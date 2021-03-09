@@ -5,7 +5,7 @@ date: 2020-12-10T00:10:10-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
-editor: Yifan Li
+editor: Jessica Venner
 jashemski-catalogue: 149
 draft: false
 
@@ -41,10 +41,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ### Garden Description
-Jashemski examined this sizable garden (a) to the rear of this house in 1957 and concluded that the pronounced north-south furrows bordered by water channels indicated that this was most likely a vegetable garden.
+Jashemski examined this sizeable garden to the rear of this property in 1957 and concluded that the pronounced north-south furrows bordered by water channels indicated that this was most likely a [vegetable garden](http://vocab.getty.edu/page/aat/300008142). An oven against the south wall of the entrance room, and a bowl in the garden, suggest this was a [caupona](http://vocab.getty.edu/page/aat/300005208). The oven sat in an arch below a set of stairs which lead from the garden to an upper floor.
 
-### Plans
-{{< figure src="../../../images/fig._62,_plan_of_region_ii,_insula_viii.png" alt="Fig. 62, Plan of Region II, insula viii" title="Fig. 62, Plan of Region II, insula viii" >}}
+<!--### Plans
+{{< figure src="../../../images/fig._62,_plan_of_region_ii,_insula_viii.png" alt="Fig. 62, Plan of Region II, insula viii" title="Fig. 62, Plan of Region II, insula viii" >}}-->
 
 #### Pleiades ID
 [456321707](https://pleiades.stoa.org/places/456321707)
@@ -53,14 +53,15 @@ Jashemski examined this sizable garden (a) to the rear of this house in 1957 and
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
 ### Dates
-Unspecified
+Excavated 1953-1954, 1973, 1984. Restored 1988.
 
 ### Bibliography
-* Jashemski, *Gardens*, vol.II, p.92 [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.92 [(worldcat)](http://www.worldcat.org/oclc/921816405)
 
 
 ### Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
+Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)  
+Jessica Venner (https://orcid.org/0000-0001-5828-6222)
 
 ### Publication date
-10 December 2020
+9 March 2021
