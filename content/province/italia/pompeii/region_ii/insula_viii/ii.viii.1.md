@@ -14,7 +14,7 @@ categories:
   - "Italia"
 tags:
   - "vegetable gardens"
-
+  - "caupona"
 ---
 
 ## Province
