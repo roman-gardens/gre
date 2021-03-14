@@ -30,7 +30,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Sublocation
 [Region I]({{<relref "../..">}})
 ## Insula
-[Insula I]({{<relref "..">}})
+[Insula II]({{<relref "..">}})
 
 ### Keywords
  - [columns](http://vocab.getty.edu/page/aat/300001571)
