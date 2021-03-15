@@ -7,8 +7,6 @@ author: Maureen Carroll
 editor: June Dorsch
 draft: false
 
-<!--### Christian's Test Change-->
-
 categories:
   - "Britannia"
 tags:
