@@ -7,7 +7,7 @@ article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner
 jashemski-catalogue: 153
-draft: true
+draft: false
 
 
 categories:
@@ -84,11 +84,11 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 * Jashemski, W. 1979. *The Garden of Hercules at Pompeii (II.viii.6): The Discovery of a Commercial Flower Garden*,  American Journal of Archaeology, 83 [(worldcat)](http://www.worldcat.org/oclc/5548781112)
 * Jashemski, W. 1979. *Gardens of Pompeii*, vol.I, pp.279-288 and figs. 421-435 [(worldcat)](http://www.worldcat.org/oclc/884024123)
 * Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, pp.94-95 [(worldcat)](http://www.worldcat.org/oclc/921816405)
-* Meyer, p.432
+* Meyer, F.G. 1980. Carbonized food plants of Pompeii, Herculaneum, and the Villa at Torre Annunziata, p.432
 
 
 ### Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
-10 December 2020
+11 March 2021
