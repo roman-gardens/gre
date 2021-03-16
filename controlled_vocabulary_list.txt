@@ -37,7 +37,7 @@ archaeological garden
 [ditches](http://vocab.getty.edu/page/aat/300006178)
 [drains](http://vocab.getty.edu/page/aat/300052564)
 [doghouses](http://vocab.getty.edu/page/aat/300004984)
-[doliums](http://vocab.getty.edu/page/aat/300400601)
+[dolia](http://vocab.getty.edu/page/aat/300400601)
 [domus](http://vocab.getty.edu/page/aat/300005506)
 [engaged columns](http://vocab.getty.edu/page/aat/300001638)
 [epitaphs](http://vocab.getty.edu/page/aat/300028729)
@@ -73,7 +73,7 @@ lapilli
 [latrines](http://vocab.getty.edu/page/aat/300007951)
 literary garden
 [loam](http://vocab.getty.edu/page/aat/300014335)
-[loggias](http://vocab.getty.edu/page/aat/300004137)
+[loggias](http://www.getty.edu/vow/AATFullDisplay?find=loggias&logic=AND&note=&english=N&prev_page=1&subjectid=300004137)
 lychnophoros
 [mausoleums](http://vocab.getty.edu/page/aat/300005891)
 [monopodia](http://vocab.getty.edu/page/aat/300041194)
