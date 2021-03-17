@@ -65,7 +65,8 @@ A sculptural group with a fishing scene, which could be interpreted as a fountai
 
 ### Plans
 
-{{< figure src="../images/ostia_fig10.jpg" alt="Plan of the Garden Houses" title="Fig. 1: Plan (from Civiltà dell' acqua)." >}}
+{{< figure src="../images/ostia_fig.jpg" alt="Plan of the Garden Houses" title="Fig. 1: Plan (from Civiltà dell' acqua)." >}}
+<!--missing ostia_fig10-->
 
 {{< figure src="../images/ostia_fig12.jpg" alt="Plan of the Garden Houses" title="Fig. 3: Section and reconstruction of fountain (from Civiltà dell' acqua)." >}}
 
@@ -99,8 +100,8 @@ unspecified
 
 #### Pleiades ID
 
-[Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
-<!-- Pleiades resource for Location (Ostia Antica), not for the indivbidual garden -->
+[422995](https://pleiades.stoa.org/places/422995)
+<!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
 #### TGN ID
 

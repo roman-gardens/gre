@@ -62,9 +62,9 @@ The large open area in this insula, divided into two by a wall, was identified a
 
 ### Plans
 
-{{< figure src="../images/ostia_fig1.jpg" alt="Plan of Ostia Antica" title="Fig. 1: Ostia Antica." >}}
+{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Fig. 1: Ostia Antica, General Plan." >}}
 
-{{< figure src="../images/ostia_fig2.jpg" alt="Plan of Insula dei Dipinti" title="Fig. 2: Insula dei Dipinti." >}}
+{{< figure src="../images/ostia_fig2_colored.jpg" alt="Plan of the Garden and Houses of the Insula dei Dipinti" title="Fig. 2: The Garden and Houses of the Insula dei Dipinti." >}}
 
 ### Dates
 
@@ -88,8 +88,8 @@ unspecified
 
 #### Pleiades ID
 
-[Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
-<!-- Pleiades resource for Location (Ostia Antica), not for the indivbidual garden -->
+[422995](https://pleiades.stoa.org/places/422995)
+<!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
 #### TGN ID
 

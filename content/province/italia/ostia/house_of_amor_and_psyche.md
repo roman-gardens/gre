@@ -70,6 +70,8 @@ The *viridarium* is the main source of light for all the rooms that face on it, 
 
 {{< figure src="../images/ostia_fig5.jpg" alt="Axonometry" title="Fig. 3: Axonometry (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, SBAO, Archives)." >}}
 
+{{< figure src="../images_b/ostia_fig4b.jpg" alt="Section" title="Fig. 4: Section (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, SBAO, Archives)." >}}
+
 ### Photos
 
 {{< figure src="../images/ostia_fig4.jpg" alt="Photo of Nymphaeum" title="Fig. 2: Nymphaeum (SBAO, Photo Archive)." >}}
@@ -96,8 +98,8 @@ unspecified
 
 #### Pleiades ID
 
-[Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
-<!-- Pleiades resource for Location (Ostia Antica), not for the indivbidual garden -->
+[422995](https://pleiades.stoa.org/places/422995)
+<!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
 #### TGN ID
 

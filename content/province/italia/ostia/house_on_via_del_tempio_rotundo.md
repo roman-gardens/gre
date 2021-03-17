@@ -67,6 +67,10 @@ This house was only partially excavated between June 1972 and January 1973 (Fig.
 
 {{< figure src="../images/ostia_fig17.jpg" alt="Plan of the peristyle, with column bases and flower pots" title="Fig. 2: Plan of the peristyle, with column bases and flower pots (from Messineo)." >}}
 
+### Photos
+
+{{< figure src="../images_b/ostia_fig23b.jpg" alt="A flower pot during 1973 excavation" title="Fig. 3: A flower pot during excavation, 1973 (SBAO, Photo Archive)." >}}
+
 ### Dates
 
 unspecified
@@ -88,8 +92,8 @@ unspecified
 
 #### Pleiades ID
 
-[Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
-<!-- Pleiades resource for Location (Ostia Antica), not for the indivbidual garden -->
+[422995](https://pleiades.stoa.org/places/422995)
+<!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
 #### TGN ID
 
