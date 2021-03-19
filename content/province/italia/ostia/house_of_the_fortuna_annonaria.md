@@ -102,13 +102,13 @@ unspecified
 <!-- Bibliography for Garden Description -->
 * *Giornale degli Scavi*, 1939, pp. 54-87. [(worldcat)]()
 * Giovanni Becatti, *Case ostiensi del tardo impero*, pp. 23-25. [(worldcat)](http://www.worldcat.org/oclc/899106405)
-* Boersma, pp. 151, 156-160. [(worldcat)]()
+* John S. Boersma, *Amoenissima Civitas: Block V. ii at Ostia, Description and Analysis of its Visible Remains*, Assen: Van Gorcum, 1985, pp. 151, 156-160. [(worldcat)](http://www.worldcat.org/oclc/964182479)
 * Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, 1996, pp. 123-124. [(worldcat)](http://www.worldcat.org/oclc/797420782)
 
 #### Pleiades ID
 
-[Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
-<!-- Pleiades resource for Location (Ostia Antica), not for the indivbidual garden -->
+[422995](https://pleiades.stoa.org/places/422995)
+<!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
 #### TGN ID
 

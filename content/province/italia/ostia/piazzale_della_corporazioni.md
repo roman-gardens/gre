@@ -73,6 +73,8 @@ In October 1912 Dante Vaglieri began the reconstruction of the garden at the cen
 
 {{< figure src="../images/ostia_fig6.jpg" alt="Plan of the Piazzale della Corporazioni" title="Fig. 1: Plan (from Scavi di Ostia I)." >}}
 
+{{< figure src="../images_b/ostia_fig8b.jpg" alt="Plan of the Piazzale della Corporazioni" title="Fig. 3: Sketch of the drainage system (from Giornale degli Scavi 1912)." >}}
+
 ### Photos
 
 {{< figure src="../images/ostia_fig7.jpg" alt="Photo of the garden in 1912" title="Fig. 2: The modern garden, 1912 (SBAO, Photo Archive)." >}}
@@ -100,7 +102,7 @@ unspecified
 
 #### Pleiades ID
 
-[The Forum of Corporations (Pleiades)](https://pleiades.stoa.org/places/489630692)
+[489630692](https://pleiades.stoa.org/places/489630692)
 
 #### TGN ID
 

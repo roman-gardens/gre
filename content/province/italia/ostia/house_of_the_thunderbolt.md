@@ -70,9 +70,13 @@ The house is one of the most interesting examples of the transition from the atr
 
 {{< figure src="../images/ostia_fig8.jpg" alt="Plan of Domus Fulminata" title="Fig. 1: Plan (from Scavi di Ostia I)." >}}
 
+{{< figure src="../images_b/ostia_fig13b.jpg" alt="Section of the basin" title="Fig. 4: Section of the basin (from Ricciardi and Santa Maria Scrinari)." >}}
+
 ### Photos
 
 {{< figure src="../images/ostia_fig9.jpg" alt="Photo of the garden in 1941" title="Fig. 2: Garden, 1941 (SBAO, Photo Archive)." >}}
+
+{{< figure src="../images_b/ostia_fig12b.jpg" alt="Basin shaped as a well head" title="Fig. 3: Basin shaped as a well head (SBAO, Photo Archive)." >}}
 
 ### Dates
 
@@ -95,8 +99,8 @@ unspecified
 
 #### Pleiades ID
 
-[Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
-<!-- Pleiades resource for Location (Ostia Antica), not for the indivbidual garden -->
+[422995](https://pleiades.stoa.org/places/422995)
+<!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
 #### TGN ID
 

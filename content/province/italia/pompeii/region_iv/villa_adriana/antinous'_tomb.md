@@ -94,7 +94,7 @@ As we have said at the beginning the Temple-tomb was never completed. Antinous w
 
 ### Images
 
-{{< figure src="../images/82_trincee_siepi.jpg" alt="Photograph of the trenches for boxtree edges and flowering bushes that were cut in the tufa of the tomb garden" title="Fig. 82: The trenches cut in the tufa for  boxtree edges and flowering bushes in the garden of Antinous' tomb, Eugenia Salza Prina Ricotti." >}}
+{{< figure src="../images/82_trincee_siepi.1jpg" alt="Photograph of the trenches for boxtree edges and flowering bushes that were cut in the tufa of the tomb garden" title="Fig. 82: The trenches cut in the tufa for  boxtree edges and flowering bushes in the garden of Antinous' tomb, Eugenia Salza Prina Ricotti." >}}
 
 {{< figure src="../images/83_east_facade.jpg" alt="Photograph of what remains of the east facade of Antinous' tomb" title="Fig. 83: What remains of the east facade of Antinous' tomb, Eugenia Salza Prina Ricotti." >}}
 
