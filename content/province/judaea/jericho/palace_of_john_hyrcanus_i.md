@@ -1,5 +1,5 @@
 ---
-title: "Palace of John Hyrcanus I"
+title: "Jericho Palace of John Hyrcanus I"
 date: 2020-07-11T11:20:32-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -110,8 +110,7 @@ Over the years, two swimming pools (probably one for men and one for women), eac
 [687917](https://pleiades.stoa.org/places/687917)
 
 #### TGN ID
-
-[?????](?????????)
+[#](#)
 
 ### Contributor
 
