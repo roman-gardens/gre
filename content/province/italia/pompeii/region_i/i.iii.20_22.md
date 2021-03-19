@@ -50,7 +50,7 @@ At the rear of this house there was a garden with a passageway on the north and 
 Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 24, no.25 [(worldcat)](https://www.worldcat.org/title/corpus-of-the-lararia-of-pompeii/oclc/892026154&referer=brief_results)  
 Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 73 [(worldcat)](https://www.worldcat.org/title/giornale-degli-scavi-di-pompei/oclc/10781121)  
 Fiorelli, G. 1875. *Descrizione di Pompei*, p. 54 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)    
-Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 27 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 27 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
 Matz, F. 1869. *BdI*, p. 242  
 Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 78  
 Soprano, P. 1950, *'I triclini all’aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 308, no.36  
@@ -68,7 +68,7 @@ Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://ww
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
 ###  Excavation Dates
-Excavated 1868.
+Excavated 1868
 
 ### Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
