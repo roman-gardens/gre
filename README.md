@@ -8,7 +8,7 @@ This site is built using [Hugo](https://gohugo.io) with the [Mainroad](https://t
 
 ## Basic Development
 
-Create new garden pages using the command: `hugo new garden/GARDEN_NAME`
+Create new garden pages using the command: `hugo new garden/GARDEN_NAME.md`
 
 `GARDEN_NAME` should be the full name of the garden as it will be written in the article, with any spaces replaced with underscores, plus the extension `.md`.
 E.g.:
