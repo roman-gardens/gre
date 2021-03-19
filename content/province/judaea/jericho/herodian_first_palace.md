@@ -1,5 +1,5 @@
 ---
-title: "Herodian First Palace"
+title: "Jericho Herodian First Palace"
 date: 2020-07-11T11:20:32-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -84,13 +84,11 @@ This first palace was “introverted” thus giving expression to Herod’s infe
 <!-- NO NEWLINES IN STRING LITERALS!!!! -->
 <!-- These are missing data that you need to go back and fill in. Don't put newlines in the strings this time. -Christian -->
 
-{{< figure src="../images/ASIA_JUD_JERICHO_7a.jpg" alt="Figure 7a:  Plan of Herod’s first palace (Gleason after Netzer 2001)." title="Figure 7a:  Plan of Herod’s first palace (Gleason after Netzer 2001)." >}}-->
-
-
+{{< figure src="../images/ASIA_JUD_JERICHO_7a.jpg" alt="Figure 7a:  Plan of Herod’s first palace (Gleason after Netzer 2001)." title="Figure 7a:  Plan of Herod’s first palace (Gleason after Netzer 2001)." >}}
 
 ### Images
 
-{{< figure src="../images/ASIA_JUD_JERICHO_7b.jpg" alt="Figure 7b: Axonometric reconstruction of Herod’s first palace (Yaniv Korman)." title="Axonometric reconstruction of Herod’s first palace (Yaniv Korman)." >}}-->
+{{< figure src="../images/ASIA_JUD_JERICHO_7b.jpg" alt="Figure 7b: Axonometric reconstruction of Herod’s first palace (Yaniv Korman)." title="Axonometric reconstruction of Herod’s first palace (Yaniv Korman)." >}}
 ### Dates
 
 31 BCE - 4 BCE
@@ -117,7 +115,7 @@ This first palace was “introverted” thus giving expression to Herod’s infe
 
 #### TGN ID
 
-[?????](?????????)
+[#](#)
 
 ### Contributor
 

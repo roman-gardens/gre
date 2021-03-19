@@ -1,5 +1,5 @@
 ---
-title: "Herodian Second Palace"
+title: "Jericho Herodian Second Palace"
 date: 2020-07-11T11:20:32-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -84,7 +84,7 @@ The  low wing of the palace (Fig 8, AK) incorporated the two Hasmonean swimming 
 
 ### Images
 
-{{< figure src="../images/ASIA_JUD_JERICHO_8b.jpg" alt="Figure 8b: Axonometric reconstruction of Herod’s second palace (Yaniv Korman)." title="Axonometric reconstruction of Herod’s second palace (Yaniv Korman)." >}}-->
+{{< figure src="../images/ASIA_JUD_JERICHO_8b.jpg" alt="Figure 8b: Axonometric reconstruction of Herod’s second palace (Yaniv Korman)." title="Axonometric reconstruction of Herod’s second palace (Yaniv Korman)." >}}
 
 {{< figure src="../images/ASIA_JUD_JERICHO_9.jpg" alt="Figure 9: Planting pots such as this are known from around the Greek and Roman world, although this one is particularly elegant in shape. The ancient authors describe how such pots were used for the propagation of a variety of trees, shrubs, and vines. (K. Gleason)." title="Figure 9: Planting pots such as this are known from around the Greek and Roman world, although this one is particularly elegant in shape. The ancient authors describe how such pots were used for the propagation of a variety of trees, shrubs, and vines. (K. Gleason)." >}}
 
