@@ -3,7 +3,7 @@ article-type: "province"
 title: "Porticus Liviae"
 date: 2021-03-16T23:53:09-07:00
 province_id: PROVINCE_ID
-author: E.R. Macaulay and Holly J. Spoth
+author: E.R. Macaulay and Holly Spoth-Torres
 editor: Joshua Rosenheim
 draft: false
 ---
@@ -55,15 +55,15 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 
 ### Figures
 
-{{< figure src="../images/.jpg" alt="Base Plan, based on the marble plan and reconstructed with the vines mentioned in Pliny the Elder" title="Fig. 1: Base Plan, based on the marble plan and reconstructed with the vines mentioned in Pliny the Elder (Holly J. Spoth)." >}}
+{{< figure src="../images/.jpg" alt="Base Plan, based on the marble plan and reconstructed with the vines mentioned in Pliny the Elder" title="Fig. 1: Base Plan, based on the marble plan and reconstructed with the vines mentioned in Pliny the Elder (Holly Spoth-Torres)." >}}
 
-{{< figure src="../images/.jpg" alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae" title="Fig. 2: Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae (Holly J. Spoth)." >}}
+{{< figure src="../images/.jpg" alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae" title="Fig. 2: Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae (Holly Spoth-Torres)." >}}
 
-{{< figure src="../images/.jpg" alt="Entrance to the Porticus Liviae" title="Fig. 3: Entrance to the Porticus Liviae (Holly J. Spoth)." >}}
+{{< figure src="../images/.jpg" alt="Entrance to the Porticus Liviae" title="Fig. 3: Entrance to the Porticus Liviae (Holly Spoth-Torres)." >}}
 
 ### Dates
 
-January 7 BCE - fifth century CE <!--Is this the right date to use?-->
+unspecified <!--January 7 BCE - fifth century CE Is this the right date to use?-->
 
 #### Excavation Date
 
@@ -71,7 +71,7 @@ January 7 BCE - fifth century CE <!--Is this the right date to use?-->
 
 ### Bibliography
 
-* A. Clarige, *Rome*, 2nd Ed., Oxford, Oxford University Press, pp. 339-340. [(worldcat)](http://www.worldcat.org/oclc/1158433558)
+* A. Claridge, *Rome*, 2nd Ed., Oxford, Oxford University Press, pp. 339-340. [(worldcat)](http://www.worldcat.org/oclc/1158433558)
 * D. Favro, *The Urban Image of Augustan Rome*, pp. 132-133, 171, 174. [(worldcat)](http://www.worldcat.org/oclc/914906877)
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae* IV, Roma, Edizioni Quasar, 1999, "Porticus Liviae" (C. Panella), pp. 127-129; "Subura" (K. Welch), pp. 379-383. [(worldcat)](http://www.worldcat.org/oclc/772398569)
 <!--correct citation format? compare with Domus Aurea-->
@@ -88,11 +88,11 @@ unspecified
 ### Contributors
 
 [E.R. Macaulay](https://emacaulaylewis.com) <!--E.R. Macaulay or E. Macaulay-Lewis?-->\
-[Holly J. Spoth](https://huddleak.com/meet-the-team/) <!--Holly J. Spoth or Holly Spoth-Torres?--> <!--Is this a good website for Spoth?-->
+[Holly Spoth-Torres](https://huddleak.com/meet-the-team/) <!--Holly J. Spoth or Holly Spoth-Torres?--> <!--Is this a good website for Spoth?-->
 
 #### ORCID
 
-[E. Macauley-Lewis (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
+[E. Macaulay-Lewis (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 <!--ORCID for Holly J. Spoth/Holly Spoth-Torres-->
 
 ### Publication date

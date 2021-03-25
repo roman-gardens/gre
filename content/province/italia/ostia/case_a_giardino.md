@@ -65,8 +65,8 @@ A sculptural group with a fishing scene, which could be interpreted as a fountai
 
 ### Plans
 
-{{< figure src="../images/ostia_fig.jpg" alt="Plan of the Garden Houses" title="Fig. 1: Plan (from Civiltà dell' acqua)." >}}
-<!--missing ostia_fig10-->
+{{< figure src="../images/ostia_fig10_casa_a_giardino_plan.jpg" alt="Plan of the Garden Houses" title="Fig. 1: Plan (after Cervi 1998, fig. 2)." >}}
+<!--missing ostia_fig10, this image found online-->
 
 {{< figure src="../images/ostia_fig12.jpg" alt="Plan of the Garden Houses" title="Fig. 3: Section and reconstruction of fountain (from Civiltà dell' acqua)." >}}
 
