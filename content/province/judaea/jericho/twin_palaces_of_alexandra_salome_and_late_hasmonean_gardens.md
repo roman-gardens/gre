@@ -1,5 +1,5 @@
 ---
-title: "Twin Palaces of Alexandra Salome and Late Hasmonean Gardens"
+title: "Jericho Twin Palaces of Alexandra Salome and Late Hasmonean Gardens"
 date: 2020-07-11T11:20:32-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -117,7 +117,7 @@ After Alexandra’s death, during the period from 67-32, a large swimming pool (
 
 #### TGN ID
 
-[?????](?????????)
+[#](#)
 
 ### Contributor
 
