@@ -1,9 +1,10 @@
 ---
 title: "Onchestos Sanctuary of Poseidon Onchestios"
 date: 2020-07-26T12:40:59-04:00
+province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
-editor: Amartya Shri
+editor: Jane Millar, Amartya Shri
 draft: false
 
 categories:
@@ -21,19 +22,15 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 ## Location
 
-
-[Onchestos]({{<relref ".">}}) \
+[Onchestos]({{<relref ".">}})
 [Onchestos (Pleiades)](https://pleiades.stoa.org/places/540984)
-
 
 <!--### Location Description-->
 
-<!-- LEAVE THIS BLANK FOR NOW -->
+<!-- LEAVE THIS BLANK FOR NOW
 
 ## Sublocation
 
-<!--
-Regio IX
 
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
@@ -51,12 +48,13 @@ Sanctuary of Poseidon Onchestios
 
 - [Literary](#)
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
-- [orchards](http://vocab.getty.edu/page/aat/300008890)
-- [shrine](http://vocab.getty.edu/page/aat/300007558)
+- [sacred groves](http://vocab.getty.edu/page/aat/300251876)
+-	[shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
+-	[statues](http://vocab.getty.edu/page/aat/300047600)
 
 ### Garden Description
 
-According to Pausanias, the ancient city of Onchestos in Boeotia lay in ruins by the time he visited the site in the 2nd century A.D., but the shrine and statue of Poseidon Onchestios and the sacred grove survived (9.26.5).  This, he says, was the grove that Homer praised in his poetry (Iliad 2.506; see also Homeric Hymn to Apollo 229-238).  Perhaps the trees that Pausanias saw were not quite as old as he thought, since Strabo, writing over a hundred years earlier, described the site as treeless and the temple empty (9.2.33).  Replanting in the sanctuary might account for the presence of the trees seen later by Pausanias.
+According to Pausanias, the ancient city of Onchestos in Boeotia lay in ruins by the time he visited the site in the 2nd century A.D., but the shrine and statue of Poseidon Onchestios and the sacred grove survived ([9.26.5](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:9.26.5)).  This, he says, was the grove that Homer praised in his poetry (*Il.* [2.506](http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:2.459-2.510); see also *Homeric Hymn to Apollo* [229-238](http://data.perseus.org/citations/urn:cts:greekLit:tlg0013.tlg003.perseus-eng1:3)). Perhaps the trees that Pausanias saw were not quite as old as he thought, since Strabo, writing over a hundred years earlier, described the site as treeless and the temple empty ([9.2.33](http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-eng1:9.2)).  Replanting in the sanctuary might account for the presence of the trees seen later by Pausanias.
 
 <!--### Maps-->
 
@@ -67,11 +65,9 @@ OLD WAY (DO NOT USE)
 
 NEW WAY ↓↓↓↓
 {{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
--->
 
 ### Plans
 
-<!--
 OLD WAY (DO NOT USE)
 ![alt_text](../../images/image_name.ext)
 *CAPTION*
@@ -93,11 +89,11 @@ NEW WAY ↓↓↓↓
 
 ### Dates
 
-He [Pausanias] visited the site in the 2nd century A.D.
-
-### Bibliography
+unspecified (mentioned in the 1st and 2nd century CE)
 
 <!--
+### Bibliography
+
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 

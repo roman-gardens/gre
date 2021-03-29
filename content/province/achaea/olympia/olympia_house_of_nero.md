@@ -1,9 +1,10 @@
 ---
 title: "House of Nero"
 date: 2020-07-27T08:53:14-04:00
+province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
-editor: Amartya Shri
+editor: Jane Millar, Amartya Shri
 draft: false
 
 categories:
@@ -21,19 +22,15 @@ The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.
 
 ## Location
 
-
 [Olympia]({{<relref ".">}}) \
 [Olympia (Pleiades)](https://pleiades.stoa.org/places/570531)
 
-
 <!--### Location Description-->
 
-<!-- LEAVE THIS BLANK FOR NOW -->
+<!-- LEAVE THIS BLANK FOR NOW
 
 ## Sublocation
 
-<!--
-Regio IX
 
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
@@ -50,9 +47,9 @@ House of Nero
 ### Keywords
 
 - [Archaeological](#)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [artificial water channels](http://vocab.getty.edu/page/aat/300133792)
 - [atriums](http://vocab.getty.edu/page/aat/300004097)
-
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 ### Garden Description
 
@@ -71,8 +68,7 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-
-{{< figure src="../images/EUR_ACH_Olympia__House of Nero Fig 1.jpg" alt="Fig. 1: Plan of the ‘House of Nero’ with its garden courtyard (G) and water channel (stippled). Adapted from Mallwitz 1972, fig. 167." title="Fig. 1: Plan of the ‘House of Nero’ with its garden courtyard (G) and water channel (stippled). Adapted from Mallwitz 1972, fig. 167." >}}
+{{< figure src="../images/eur_ach_olympia_nero_fig1.jpg" alt="Plan of the ‘House of Nero’ with its garden courtyard and water channel" title="Fig. 1: Plan of the ‘House of Nero’ with its garden courtyard (G) and water channel (stippled). Adapted from Mallwitz 1972, fig. 167." >}}
 
 <!--### Images-->
 
@@ -87,7 +83,7 @@ NEW WAY ↓↓↓↓
 
 ### Dates
 
-This house was built at the time of, and possibly for, the emperor Nero, who, on several occasions in the mid-1st century A.D., performed personally in the games at Olympia.
+mid-1st to 3rd century ce
 
 ### Bibliography
 

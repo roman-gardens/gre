@@ -1,10 +1,11 @@
 ---
 title: "The Circus of Roman Corinth"
 date: 2020-07-16T09:50:29-04:00
+province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: NAME_OF_AUTHOR
-editor: NAME_OF_EDITOR
-draft: false
+author: David Gilman Romano
+editor: Jane Millar, Amartya Shri
+draft: true
 
 categories:
  - "Achaea"
@@ -18,7 +19,7 @@ categories:
 
 Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
 
-The provincial capital was Corinth. Under [Nero](link) in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woollen textiles and marbles.
+The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woollen textiles and marbles.
 
 ## Location
 
@@ -47,10 +48,9 @@ The Circus of Roman Corinth
 ### Keywords
 
 - [Archaeological](#)
-- [circus](http://vocab.getty.edu/page/aat/300007255)
-- [spinae](#)
-- [amphorae](http://vocab.getty.edu/page/aat/300148696)
-- [mosaic](http://vocab.getty.edu/page/aat/300015342)
+- [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
+- [circuses (Roman arenas)](http://vocab.getty.edu/page/aat/300007255)
+- [mosaics](http://vocab.getty.edu/page/aat/300015342)
 
 ### Garden Description
 
@@ -85,7 +85,9 @@ The so-called “hippodrome garden” type **(see … add cross-references to Do
 
 ### Bibliography
 
-BIBLIOGRAPHY: D. G. Romano, “A Roman Circus in Corinth,” *Hesperia* [(worldcat)](http://www.worldcat.org/oclc/359326258) 74, 2005:585-611; J. H. Humphrey, *Roman Circuses: Arenas for Chariot Racing.* [(worldcat)](http://www.worldcat.org/oclc/299732316) Berkeley,1986.
+BIBLIOGRAPHY:
+* J. H. Humphrey, *Roman Circuses: Arenas for Chariot Racing.* [(worldcat)](http://www.worldcat.org/oclc/299732316) Berkeley,1986.
+* D. G. Romano, “A Roman Circus in Corinth,” *Hesperia* [(worldcat)](http://www.worldcat.org/oclc/359326258) 74, 2005:585-611
 
 <!--#### Periodo ID-->
 
