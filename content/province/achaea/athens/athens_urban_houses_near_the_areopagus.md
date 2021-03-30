@@ -63,11 +63,9 @@ Another only partially excavated house of the mid-4th century A.D., built into t
 -->
 
 ### Plans
-{{< figure src="../images/eur_ach_athens_areopagus_fig1.jpg" alt="plan of an early Roman house with pool and courtyard" title="Fig. 1:  Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46." >}}
+{{< figure src="../images/areopagus1.jpg" alt="plan of an early Roman house with pool and courtyard" title="Fig. 1:  Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46." >}}
 
-### Images
-
-{{< figure src="../images/eur_ach_athens_areopagus_fig2" alt="courtyard with flowerbeds and surrounding water channel in a late Roman house" title="Fig. 2:  Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a." >}}
+{{< figure src="../images/areopagus2.jpg" alt="courtyard with flowerbeds and surrounding water channel in a late Roman house" title="Fig. 2:  Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a." >}}
 
 ### Dates
 

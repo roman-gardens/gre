@@ -22,7 +22,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 
-[Nemea]({{<relref ".">}})
+[Nemea]({{<relref ".">}}) \
 [Nemea (Pleiades)](https://pleiades.stoa.org/places/570504)
 
 <!--### Location Description-->
@@ -56,7 +56,7 @@ Sanctuary of Zeus
 
 ### Garden Description
 
-The grove of trees at the temple of Zeus is known through Pausanias’ description of it [(2.15.2)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.15.2) and from archaeological excavations in the temple precinct.  Excavations in the 1970s uncovered 23 planting pits cut out of the living rock on the south side of the temple (Fig.1, gray circles on plan).  The pits were up to 2 m. in diameter and on average 65 cm. deep.  Some of the tree pits were cut in relatively straight alignment with each other, but the overall impression is one of a rather loose arrangement.  According to Pausanias, the trees were cypresses.  This was confirmed by the excavators who found carbonised remains of cypress wood at the bottom of the planting pits.  The archaeological context of the planting pits suggests that the trees were planted in the 5th or 4th century B.C., and indeed literary references of the late 5th century B.C. allude to them (Euripides, *Hypsipyle*, Prologue lines 99-104; preserved in a papyrus fragment of 2nd-3rd century A.D.).  Trees were obviously still standing in the 2nd century A.D. when Pausanias visited Nemea.
+The grove of trees at the temple of Zeus is known through Pausanias’ description of it [(2.15.2)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.15.2) and from archaeological excavations in the temple precinct.  Excavations in the 1970s uncovered 23 planting pits cut out of the living rock on the south side of the temple (Fig. 1, gray circles on plan).  The pits were up to 2 m. in diameter and on average 65 cm. deep.  Some of the tree pits were cut in relatively straight alignment with each other, but the overall impression is one of a rather loose arrangement.  According to Pausanias, the trees were cypresses.  This was confirmed by the excavators who found carbonised remains of cypress wood at the bottom of the planting pits.  The archaeological context of the planting pits suggests that the trees were planted in the 5th or 4th century B.C., and indeed literary references of the late 5th century B.C. allude to them (Euripides, *Hypsipyle*, Prologue lines 99-104; preserved in a papyrus fragment of 2nd-3rd century A.D.).  Trees were obviously still standing in the 2nd century A.D. when Pausanias visited Nemea.
 
 <!--### Maps-->
 
@@ -75,7 +75,7 @@ NEW WAY ↓↓↓↓
 
 ### Images
 
-{{< figure src="../images/eur_ach_nemea_fig2.jpg" alt="balloon photo looking down at the Temple of Zeus and grove" title="Balloon photo showing the Temple of Zeus at Nemea with its replanted grove." >}}
+{{< figure src="../images/eur_ach_nemea_fig2.jpg" alt="balloon photo looking down at the Temple of Zeus and grove" title="Fig. 2: Balloon photo showing the Temple of Zeus at Nemea with its replanted grove." >}}
 
 ### Dates
 

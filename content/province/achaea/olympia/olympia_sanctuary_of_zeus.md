@@ -22,7 +22,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 
-[Olympia]({{<relref ".">}})
+[Olympia]({{<relref ".">}}) \
 [Olympia (Pleiades)](https://pleiades.stoa.org/places/570531)
 
 <!--### Location Description-->
@@ -48,7 +48,6 @@ Sanctuary of Zeus
 - [Literary](#)
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
 - [sacred groves](http://vocab.getty.edu/page/aat/300251876)
-- wild olives
 - [plane trees (Platanus orientalis)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:685873-1)
 - [wild olives (Olea oleaster)](http://powo.science.kew.org/taxon/610760-1)
 
@@ -83,11 +82,12 @@ NEW WAY ↓↓↓↓
 ### Dates
 unspecified
 
+<!--
 ### Bibliography
 
-<!--#### Periodo ID-->
+#### Periodo ID
 
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+[PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
 

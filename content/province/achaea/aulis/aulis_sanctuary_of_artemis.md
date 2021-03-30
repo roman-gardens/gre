@@ -23,7 +23,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 
-[Aulis]({{<relref ".">}})
+[Aulis]({{<relref ".">}}) \
 [Aulis (Pleiades)](https://pleiades.stoa.org/places/579889)
 
 <!--### Location Description-->
@@ -43,14 +43,14 @@ Sanctuary of Artemis
 ### Keywords
 
 - [Literary](#)
-- [date palms (Phoenix dactylifera)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:668912-1)
+- [date palms (*Phoenix dactylifera*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:668912-1)
 - [grove (sacred grove)](http://vocab.getty.edu/page/aat/300251876)
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 
 ### Garden Description
 
-The Greeks in Homer’s *Iliad* sacrificed to Artemis at Aulis in Boeotia in the hopes of favorable winds to carry them from Greek shores to Troy [(*Il.* 2.305-310)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-eng1:2.301-2.335). The late 5th century Athenian playwright, Euripides, made reference to the grove of Artemis in his *Iphigenia in Aulis* ([185-186](http://data.perseus.org/citations/urn:cts:greekLit:tlg0006.tlg018.perseus-eng1:185-205), [1543-1549](http://data.perseus.org/citations/urn:cts:greekLit:tlg0006.tlg018.perseus-eng1:1532-1577)).  The shrine of Artemis at Aulis was visited by Pausanias in the 2nd century A.D., and he noted white stone statues (presumably marble) of Artemis and palm trees growing in the sanctuary [(9.19.6-8)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:9.19). According to him, the fruit was not all edible, as it was in Palestine, but he remarked that the fruit ripened better than the dates in Ionia.
+The Greeks in Homer’s *Iliad* sacrificed to Artemis at Aulis in Boeotia in the hopes of favorable winds to carry them from Greek shores to Troy (*Il.* [2.305-310)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-eng1:2.301-2.335). The late 5th century Athenian playwright, Euripides, made reference to the grove of Artemis in his *Iphigenia in Aulis* ([185-186](http://data.perseus.org/citations/urn:cts:greekLit:tlg0006.tlg018.perseus-eng1:185-205), [1543-1549](http://data.perseus.org/citations/urn:cts:greekLit:tlg0006.tlg018.perseus-eng1:1532-1577)).  The shrine of Artemis at Aulis was visited by Pausanias in the 2nd century A.D., and he noted white stone statues (presumably marble) of Artemis and palm trees growing in the sanctuary [(9.19.6-8)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:9.19). According to him, the fruit was not all edible, as it was in Palestine, but he remarked that the fruit ripened better than the dates in Ionia.
 
 <!--### Maps-->
 

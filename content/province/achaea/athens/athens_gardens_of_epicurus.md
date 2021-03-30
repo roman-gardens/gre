@@ -19,7 +19,7 @@ Roman intervention in Greek political affairs resulted in conflicts that led to 
 The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woolen textiles and marbles.
 
 ## Location
-[Athens]({{<relref ".">}})
+[Athens]({{<relref ".">}}) \
 [Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
 
 ## Sublocation
@@ -37,7 +37,7 @@ In the 4th century B.C., the schools and gardens of the philosophers Plato, Aris
 
 Many dialogues and descriptions of private villas of Roman aristocrats reveal that parts of their estates were landscaped and designed to evoke Greek gymnasia and schools, where, in theory at least, hours could be spent discoursing and philosophizing. Parts of the villas, such as those of Cicero and the emperor Hadrian, were occasionally named ‘Academy’ and "Lykeion" after the gymnasia and schools of Athens.
 
-Cicero set the scene in *De finibus* [5.1.3](http://data.perseus.org/citations/urn:cts:latinLit:phi0474.phi048.perseus-lat1:5.1) for a group of men in the Academy near the gardens of Epicurus in 79 B.C., and he mentioned the garden of Plato in the same suburb ([*Fin.* 5.1.2](http://data.perseus.org/citations/urn:cts:latinLit:phi0474.phi048.perseus-lat1:5.1)). Roman statues of Epicurus and the Epicurean philosopher Colotes found outside the Dipylon gate on the road to the Academy may reflect some rebuilding prompted by Hadrian.  Heliodoros (*Aethiopica* [1.16.5](#)), writing in the 3rd century A.D., mentioned a gathering of men near the garden of Epicurus.  
+Cicero set the scene in *De finibus* [(5.1.3)](http://data.perseus.org/citations/urn:cts:latinLit:phi0474.phi048.perseus-lat1:5.1) for a group of men in the Academy near the gardens of Epicurus in 79 B.C., and he mentioned the garden of Plato in the same suburb (*Fin.* [5.1.2](http://data.perseus.org/citations/urn:cts:latinLit:phi0474.phi048.perseus-lat1:5.1)). Roman statues of Epicurus and the Epicurean philosopher Colotes found outside the Dipylon gate on the road to the Academy may reflect some rebuilding prompted by Hadrian.  Heliodoros (*Aethiopica* [1.16.5](#)), writing in the 3rd century A.D., mentioned a gathering of men near the garden of Epicurus.  
 
 <!-- ### Maps
 
@@ -57,7 +57,7 @@ Cicero set the scene in *De finibus* [5.1.3](http://data.perseus.org/citations/u
 
 ### Dates
 
-mentioned in 79 BCE and in the 3rd century CE
+4th century BCE and later (mentioned in 79 BCE and the 3rd century CE)
 
 ### Bibliography
 
@@ -80,6 +80,7 @@ mentioned in 79 BCE and in the 3rd century CE
 
 20 July 2020
 
+<!--
 ### Related articles
 
-<!-- ADD links to other philosophical Gardens-->
+ADD links to other philosophical Gardens-->
