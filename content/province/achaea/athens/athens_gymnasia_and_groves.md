@@ -47,19 +47,19 @@ Gymnasia and Groves
 ### Keywords
 - [Archaeological](#)
 - [Literary](#)
-- [elms (Ulmus sp.)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30004945-2)
+- [elms (*Ulmus* sp.)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30004945-2)
 - [gymnasiums](http://vocab.getty.edu/page/aat/300007297)
-- [olive trees (Olea europaea)](http://powo.science.kew.org/taxon/610675-1)
+- [olive trees (*Olea europaea*)](http://powo.science.kew.org/taxon/610675-1)
 - [palaestrae](http://vocab.getty.edu/page/aat/300007301)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [plane trees (Platanus orientalis)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:685873-1)
-- [poplars (Populus sp.)](http://powo.science.kew.org/taxon/328417-2)
+- [plane trees (*Platanus orientalis*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:685873-1)
+- [poplars (*Populus* sp.)](http://powo.science.kew.org/taxon/328417-2)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 - [water features (landscaping)](http://vocab.getty.edu/page/aat/300180674)
 
 ### Garden Description
 
-The three most famous gymnasia in Athens, situated outside the city in naturally well-watered and shady sanctuaries of pre-Classical date, were those in the suburbs.  In the **Academy** there was a shrine of the hero Hekademos; the **Lykeion** had a sanctuary of Apollo; and a cult site of Herakles was located in **Kynosarges**.  The gymnasia in these suburbs were especially revered in Roman times as prestigious educational centers.  They included running tracks and other sports grounds for physical training, rooms for literary instruction and baths spread out over a large area and loosely added to in the course of time.  In each of the three areas foundation walls of a building enclosing a palaestra, or sports ground, of the 4th century B.C. have been excavated.  Roman building activity in the Athenian suburbs is confirmed by [Pausanius (1.18.9)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:1.18). According to him, Hadrian had a gymnasium named after him outside the walls of Athens near the Ilissos River in Kynosarges, although it is unclear whether he actually had a new gymnasium built here in the 2nd century A.D. or if he merely refurbished the old one.  Roman honorific inscriptions and baths erected on the sites of the three suburban gymnasia indicate that they were kept up and modernized well after the Classical period.
+The three most famous gymnasia in Athens, situated outside the city in naturally well-watered and shady sanctuaries of pre-Classical date, were those in the suburbs.  In the **Academy** there was a shrine of the hero Hekademos; the **Lykeion** had a sanctuary of Apollo; and a cult site of Herakles was located in **Kynosarges**.  The gymnasia in these suburbs were especially revered in Roman times as prestigious educational centers.  They included running tracks and other sports grounds for physical training, rooms for literary instruction and baths spread out over a large area and loosely added to in the course of time.  In each of the three areas foundation walls of a building enclosing a palaestra, or sports ground, of the 4th century B.C. have been excavated.  Roman building activity in the Athenian suburbs is confirmed by Pausanius [(1.18.9)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:1.18). According to him, Hadrian had a gymnasium named after him outside the walls of Athens near the Ilissos River in Kynosarges, although it is unclear whether he actually had a new gymnasium built here in the 2nd century A.D. or if he merely refurbished the old one.  Roman honorific inscriptions and baths erected on the sites of the three suburban gymnasia indicate that they were kept up and modernized well after the Classical period.
 
 Ancient literary references to the plane, elm, poplar, and olive trees in the Academy are numerous.  Excavations in the suburb of Academy have shown that a new gymnasium was built there in the late Hellenistic/early Roman period.  This gymnasium consisted of a central courtyard enclosed by porticoes on all four sides (Fig. 1). The northern wing of the building complex contained rooms which were probably used as libraries and for lectures, while the south, west and east wings appear to have had a row of desks, of which only the stone bases remain, running down the middle of each corridors. The courtyard itself may have been used as a palaestra for training, although by this period Greek education focused less on physical training than on lectures, debates, and literary study.  The courtyard had a pool in the center (P on plan) and a podium for statues (S on plan), possibly of the Muses, at the northern end, both of which certainly would have restricted any space for athletics.   No paving in the courtyard could be found, and it possible that it was planted in some way, perhaps with shade trees (G on plan).
 
@@ -71,7 +71,7 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 
 ### Plans
 
-{{< figure src="../images/eur_ach_athens_gymnasium_fig1.jpg" alt="Fig. 1: Plan of the late Hellenistic/early Roman gymnasium with a possible garden (G), a pool (P) and a podium for statues (S) in the suburb of Academy at Athens. Adapted from Travlos 1971, fig. 59." title="" >}}
+{{< figure src="../images/gymnasium.jpg" alt="Plan of the late Hellenistic/early Roman gymnasium in the suburb of Academy at Athens" title="Fig. 1: Plan of the late Hellenistic/early Roman gymnasium with a possible garden (G), a pool (P) and a podium for statues (S) in the suburb of Academy at Athens. Adapted from Travlos 1971, fig. 59." >}}
 
 <!--### Images-->
 

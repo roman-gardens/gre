@@ -20,7 +20,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 
-[Athens]({{<relref ".">}})
+[Athens]({{<relref ".">}}) \
 [Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
 
 <!--### Location Description-->
@@ -41,8 +41,8 @@ Altar of the Twelve Gods
 
 ### Keywords
 - [Literary](#)
-- [laurel (Laurus nobilis)](http://powo.science.kew.org/taxon/465049-1)
-- [olive trees (Olea europaea)](http://powo.science.kew.org/taxon/610675-1)
+- [laurel (*Laurus nobilis*)](http://powo.science.kew.org/taxon/465049-1)
+- [olive trees (*Olea europaea*)](http://powo.science.kew.org/taxon/610675-1)
 - [sacred groves](http://vocab.getty.edu/page/aat/300251876)
 
 ### Garden Description
@@ -65,8 +65,8 @@ late 1st century CE (mentioned)
 
 ### Bibliography
 
-* M. Crosby, “The Altar of the Twelve Gods in Athens,” *in Commemorative Studies in Honor of T. Leslie Shear. Hesperia Suppl.* 8. Princeton, 1949, pp. 82-103, pl. 12.1. [(worldcat)](http://www.worldcat.org/oclc/5548530582)
-* J. McK. Camp, *The Athenian Agora. Excavations in the heart of Classical Athens.* London, 1986, pp. 40-42, figs. 23-24.[(worldcat)](http://www.worldcat.org/oclc/1153939923)
+* M. Crosby, “The Altar of the Twelve Gods in Athens,” *Hesperia Suppl.* 8, Commemorative Studies in Honor of Theodore Leslie Shear. Princeton, 1949, pp. 82-103, 447-450, pl. 11-14. [(JSTOR)](https://www.jstor.org/stable/1353886)
+* J. McK. Camp, *The Athenian Agora. Excavations in the heart of Classical Athens.* London, 1986, pp. 40-42, figs. 23-24. [(worldcat)](http://www.worldcat.org/oclc/1153939923)
 
 #### Pleiades ID
 

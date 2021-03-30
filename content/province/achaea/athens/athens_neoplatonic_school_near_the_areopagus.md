@@ -19,7 +19,7 @@ Roman intervention in Greek political affairs resulted in conflicts that led to 
 The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woolen textiles and marbles.
 
 ## Location
-[Athens]({{<relref ".">}})
+[Athens]({{<relref ".">}}) \
 [Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
 
 ## Sublocation
@@ -40,7 +40,7 @@ Several houses with peristyle courtyards were built north of the Areopagus in th
 One of these buildings, the so-called House C or Omega House, had two peristyle courtyards, of which the eastern and smallest was paved (Fig. 1).  The house was assured of a constant supply of water, as it tapped into a spring higher up on the hill.  The nymphaeum and semi-circular collecting basin on the southeast corner of the house were fed by this, the overflow being directed through a pipe to a well on the west side of the central, rectangular peristyle courtyard.  The water taken from this well may have been used to water a garden, possibly one in the unpaved courtyard in which the well was situated (G on plan).  A collection of marble statues, portrait busts, and reliefs from the 4th century B.C. to the 3rd century A.D. was discarded in this and other wells of the house in the first half of the 6th century, possibly at the same time Justinian ordered that pagan schools should be closed down.  The house was destroyed in 582/3 after a period of Christian use.
 
 ### Plans
-{{< figure src="../images/eur_ach_athens_omegahouse_fig1.jpg" alt="plan of a house with a possible garden peristyle" title="Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170." >}}
+{{< figure src="../images/omegahouse.jpg" alt="plan of a house with a possible garden peristyle" title="Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170." >}}
 
 ### Dates
 second half of the 4th century CE to the late 6th century CE

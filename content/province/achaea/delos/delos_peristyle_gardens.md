@@ -39,32 +39,32 @@ So far, planting was only proposed for the courtyard of the so-called perfumery,
 
 The core building of the **House of Fourni** is arranged along a main axis with rooms on at least three different levels (Fig. 1). The main rooms were not oriented towards the south, as is usual in Delos, but towards the west, thus providing a view of the nearby bay of Fourni and the sea. A kind of nymphaeum (k), carved out of the natural rock and placed exactly on the main axis of the building, was added subsequently to the eastern façade of the building. A broad staircase led from the impluvium of the courtyard (q) to a large raised room in the east (j), a remarkably open *oecus maior* with doors on three sides and an opening to the nymphaeum on the fourth side. Therefore, the impluvium of 75.80 square meters will have been frequently used and would certainly have been paved, had it not been conceived for a special purpose like planting. Today, the courtyard is (again?) covered with small shrubs. The overall design and some other features like *opus signinum* pavements (rooms i, h and o) and ‘liturgical’ paintings for the cult of the *lares compitales*, a cult usually performed by slaves and liberti of Italians or Romans, point to a Roman or Italian association, which might have introduced some new fashionable traits into Delian private architecture.
 
-The so-called **perfumery** was equipped with a Rhodian peristyle (e), an open *oecus maior* with colonnades and doors on all four sides (m-n), and with a kind of nymphaeum-reservoir (p) (Figs. 2-3). The latter opened off the *oecus maior* and was placed on the visual axis of the main entrance. Perfume was produced in a large exedra (f), which was connected with the peristyle to its north by an Ionic colonnade. The overall design is as unique as in the House of Fourni and could well have comprised a peristyle with a stylish garden of 51.20 square meters. A Roman or Italian association might have owned this clubhouse because Romans and Italians showed particular interest in the perfume trade. Slaves and liberti of several gentes that are attested in Delos distinguished themselves as *thurarii* (dealers of incense) in the Mediterranean world.
+The so-called **perfumery** was equipped with a Rhodian peristyle (e), an open *oecus maior* with colonnades and doors on all four sides (m-n), and with a kind of nymphaeum-reservoir (p) (Figs. 2, 4). The latter opened off the *oecus maior* and was placed on the visual axis of the main entrance. Perfume was produced in a large exedra (f), which was connected with the peristyle to its north by an Ionic colonnade. The overall design is as unique as in the House of Fourni and could well have comprised a peristyle with a stylish garden of 51.20 square meters. A Roman or Italian association might have owned this clubhouse because Romans and Italians showed particular interest in the perfume trade. Slaves and liberti of several gentes that are attested in Delos distinguished themselves as *thurarii* (dealers of incense) in the Mediterranean world.
 
-The three-sided peristyle in the courtyard (b) of **House E** in the insula II of the Quarter of the theater comprised a large rectangular altar in its center (Figs. 4-5). An exedra with two columns (f) opened to the north and was only accessible via the impluvium. Again, this arrangement would have required frequent use of the impluvium and, therefore, even more so its systematic pavement. Instead, the impluvium of 48.80 square meters, which is only equipped with some scattered stone slabs, was probably transformed into a kind of sacred garden. Two altars at either side of the entrance, which were probably combined with ‘liturgical’ paintings, might indicate that a Roman or Italian owned this house at least for a certain period.
+The three-sided peristyle in the courtyard (b) of **House E** in the insula II of the Quarter of the theater comprised a large rectangular altar in its center (Figs. 3, 5). An exedra with two columns (f) opened to the north and was only accessible via the impluvium. Again, this arrangement would have required frequent use of the impluvium and, therefore, even more so its systematic pavement. Instead, the impluvium of 48.80 square meters, which is only equipped with some scattered stone slabs, was probably transformed into a kind of sacred garden. Two altars at either side of the entrance, which were probably combined with ‘liturgical’ paintings, might indicate that a Roman or Italian owned this house at least for a certain period.
 
-Whether the impluvium of 30.20 square meters (a) of **House F** in insula II of the Quarter of the Theater was left unfinished or planned or even realized as a garden, cannot be decided (Fig. 6). Following the latest fashion, the initiators of the last major transformation of this house might well have conceived of a planted impluvium. This house, however, was not (yet?) equipped with any water supply.
+Whether the impluvium of 30.20 square meters (a) of **House F** in insula II of the Quarter of the Theater was left unfinished or planned or even realized as a garden, cannot be decided (Figs. 3, 6). Following the latest fashion, the initiators of the last major transformation of this house might well have conceived of a planted impluvium. This house, however, was not (yet?) equipped with any water supply.
 
 In Delian private buildings, peristyle gardens were probably introduced rather late, during the heyday of the free port in the three or four decades before 88 B.C. Within the local context, the Agora of the Italians could have served as the most immediate model for this new fashion. The design of these gardens would have been simple. They would have consisted mostly of small trees, shrubs, and plants, which did not need much water. All of them had to be irrigated by hand, like the garden of the Agora of the Italians and many of the kitchen and commercial gardens, as Late Hellenistic Delos was not provided with a water pipe system.
 
-### Maps
 <!--
+### Maps
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
-{{< figure src="../images/delos_fig5_maison_de_fourni.jpg" alt="Archaeological plan of the Maison de Fourni" title="Fig 5:  Maison de Fourni, sketch, 1:250. Drawing by M. Trümper after Bruneau and Ducat 2005, Dépliant VIII; Bruneau 1972 : 305-316, nos. 325-339, figs. 271-294 ; Le Roy 1984 : 167-173, plate 1." >}}
+{{< figure src="../images/delos_fig5_maison_de_fourni.jpg" alt="Archaeological plan of the Maison de Fourni" title="Fig. 1:  Maison de Fourni, sketch, 1:250. Drawing by M. Trümper after Bruneau and Ducat 2005, Dépliant VIII; Bruneau 1972 : 305-316, nos. 325-339, figs. 271-294 ; Le Roy 1984 : 167-173, plate 1." >}}
 
-{{< figure src="../images/delos_fig6_perfumery_plan.jpg" alt="Archaeological plan of the ‘Perfumery'" title="Fig. 6: Plan of the ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, 1:250. Drawing by M. Trümper after Plassart 1916, pl. V-VII." >}}
+{{< figure src="../images/delos_fig6_perfumery_plan.jpg" alt="Archaeological plan of the ‘Perfumery'" title="Fig. 2: Plan of the ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, 1:250. Drawing by M. Trümper after Plassart 1916, pl. V-VII." >}}
 
-{{< figure src="../images/delos_fig7_theat_quart_houses_e_f.jpg" alt="Archaeological plan of houses E and F" title="Fig. 7:  Plan of Quarter of the Theater, Insula II, houses E and F, 1:250. Drawing by M. Trümper after J. Chamonard 1922/24, pl. III-IV." >}}
+{{< figure src="../images/delos_fig7_theat_quart_houses_e_f.jpg" alt="Archaeological plan of houses E and F" title="Fig. 3:  Plan of Quarter of the Theater, Insula II, houses E and F, 1:250. Drawing by M. Trümper after J. Chamonard 1922/24, pl. III-IV." >}}
 
 ### Images
-{{< figure src="../images/delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." title="Fig. 8: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast. Photo courtesy of M. Trümper." >}}
+{{< figure src="../images/delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." title="Fig. 4: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast. Photo courtesy of M. Trümper." >}}
 
-{{< figure src="../images/delos_fig9_theat_quart_ii_house_e.jpg" alt="Photo of courtyard inside house E" title="Fig. 9:  Quarter of the Theater, insula II, house E, overview of the courtyard from southwest. Photo courtesy of M. Trümper." >}}
+{{< figure src="../images/delos_fig9_theat_quart_ii_house_e.jpg" alt="Photo of courtyard inside house E" title="Fig. 5:  Quarter of the Theater, insula II, house E, overview of the courtyard from southwest. Photo courtesy of M. Trümper." >}}
 
-{{< figure src="../images/delos_fig10_theat_quart_house_f.jpg" alt="Photo of courtyard inside house F" title="Fig. 10:  Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest. Photo courtesy of M. Trümper." >}}
+{{< figure src="../images/delos_fig10_theat_quart_house_f.jpg" alt="Photo of courtyard inside house F" title="Fig. 6:  Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest. Photo courtesy of M. Trümper." >}}
 
 ### Dates
 1st c. BCE
@@ -92,7 +92,7 @@ In Delian private buildings, peristyle gardens were probably introduced rather l
 [7011273 (Dhílos,island)](http://vocab.getty.edu/page/tgn/7011273)
 
 ### Contributor
-[Monika Trümper](#)
+[Monika Trümper](#) (ORCID: [0000-0003-4524-6242](https://orcid.org/0000-0003-4524-6242))
 
 ### Publication date
 3 Dec 2020  

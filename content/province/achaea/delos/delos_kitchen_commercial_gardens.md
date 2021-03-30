@@ -41,7 +41,7 @@ The *kepoi* were certainly always located outside the residential quarters and w
 The variety of trees and plants cultivated in ancient Delos is known from the epigraphic evidence. Among the sporadically listed plants are pomegranates, apples, laurel, almonds, palms, vines, figs, and olives. Fig trees, which to this day form the majority of the Delian tree population, appear most often in the inscriptions.
 
 ### Maps
-{{< figure src="../images/delos_fig11_archaeological_plan.jpg" alt="Map of Delos with archaeological features marked" title="Archaeological plan of the island, 1:2500. Drawing by Nicolas Bresch from Brunet 1999, fig. 1." >}}
+{{< figure src="../images/delos_fig11_archaeological_plan.jpg" alt="Map of Delos with archaeological features marked" title="Fig. 1: Archaeological plan of the island, 1:2500. Drawing by Nicolas Bresch from Brunet 1999, fig. 1." >}}
 
 <!--
 ### Plans
@@ -51,7 +51,7 @@ The variety of trees and plants cultivated in ancient Delos is known from the ep
 -->
 
 ### Dates
-fifth to second c. BCE
+5th-2nd century BCE
 
 ### Bibliography
 - P. Bruneau, “Deliaca II: No. 31. Les jardins urbains de Délos,” *BCH* 103, 1979: 89-99.
@@ -78,7 +78,7 @@ fifth to second c. BCE
 [7011273 (Dhílos,island)](http://vocab.getty.edu/page/tgn/7011273)
 
 ### Contributor
-[Monika Trümper](#)
+[Monika Trümper](#) (ORCID: [0000-0003-4524-6242](https://orcid.org/0000-0003-4524-6242))
 
 ### Publication date
 3 Dec 2020  

@@ -22,7 +22,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 
-[Athens]({{<relref ".">}})
+[Athens]({{<relref ".">}}) \
 [Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
 
 <!--### Location Description-->
@@ -44,10 +44,10 @@ Temple of Hephaistos
 ### Keywords
 
 - [Archaeological](#)
-- [myrtle (bushes) (Myrtus communis)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:599719-1)
+- [myrtle (*Myrtus communis*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:599719-1)
 - [pits (earthworks)](http://vocab.getty.edu/page/aat/300008027)
 - [planting pots (horticultural containers)](http://vocab.getty.edu/page/aat/300197605)
-- [pomegranate (trees) (Punica granatum)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:554129-1)
+- [pomegranate *(Punica granatum)*](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:554129-1)
 
 ### Garden Description
 
@@ -61,7 +61,7 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 
 ### Plans
 
-{{< figure src="../images/eur_ach_athens_hephaistos_fig1.jpg" alt="plan of the temple with surviving rows of planting pits marked as open squares" title="Fig. 1: Plan of the Temple of Hephaistos and its temple grove (G) with surviving rows of planting pits (open squares). Adapted from Thompson 1937, fig. 1." >}}
+{{< figure src="../images/hephaistos.jpg" alt="plan of the temple with surviving rows of planting pits marked as open squares" title="Fig. 1: Plan of the Temple of Hephaistos and its temple grove (G) with surviving rows of planting pits (open squares). Adapted from Thompson 1937, fig. 1." >}}
 
 <!--### Images-->
 
@@ -75,7 +75,7 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 
 ### Bibliography
 
-* D.B. Thompson, “The Garden of Hephaistos,” *Hesperia* 6, 1937: 396-425.
+* D.B. Thompson, “The Garden of Hephaistos,” *Hesperia* 6, 1937: 396-425. [(JSTOR)](https://www.jstor.org/stable/146648) [(ASCSA)](https://www.ascsa.edu.gr/uploads/media/hesperia/146648.pdf)
 * M. Carroll-Spillecke, “The gardens of Greece from Homeric to Roman times,” *Journal of Garden History* 12.2, 1992: 90, figs. 10-11. [(worldcat)](http://www.worldcat.org/oclc/4898050192)
 
 <!--#### Periodo ID-->

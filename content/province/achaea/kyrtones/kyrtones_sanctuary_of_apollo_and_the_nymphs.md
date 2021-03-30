@@ -22,7 +22,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 
-[Krytones]({{<relref ".">}})
+[Krytones]({{<relref ".">}}) \
 [Kyrtones (Pleiades)](https://pleiades.stoa.org/places/540898)
 
 <!--### Location Description-->

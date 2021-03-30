@@ -17,7 +17,7 @@ tags:
 [Achaea]({{<relref "..">}})
 
 ## Location
-[Delos]({{<relref ".">}})
+[Delos]({{<relref ".">}}) \
 [Delos (Pleiades)](https://pleiades.stoa.org/places/599588)
 
 ## Location Description
@@ -90,7 +90,7 @@ Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora
 [7011273 (Dhílos,island)](http://vocab.getty.edu/page/tgn/7011273)
 
 ### Contributor
-[Monika Trümper](#)
+[Monika Trümper](#) (ORCID: [0000-0003-4524-6242](https://orcid.org/0000-0003-4524-6242))
 
 ### Publication date
 3 Dec 2020  
