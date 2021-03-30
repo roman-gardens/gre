@@ -75,9 +75,11 @@ Early 4th century - unspecified
 Late 19th century, 2000-2002
 
 ### Bibliography
-
-* R. Goodburn, *Chedworth Roman Villa*, London, 1996. [(worldcat)](http://www.worldcat.org/oclc/862309842)
 *  G. de la Bedoyere, *Roman Villas and the Countryside*, London, 1993, pp. 59-61, fig. 44. [(worldcat)](http://www.worldcat.org/oclc/1000553676)
+* M. Carroll, *Earthly Paradises. Ancient Gardens in History and Archaeology.* London: The British Museum Press, 2003, 112-113
+* M. Carroll, They came, they saw, they gardened. *The Garden: Journal of the Royal Horticultural Society* 128.6, 2003, 460-463, fig. p. 461
+* M. Carroll, Excavations at Chedworth Roman Villa by the University of Sheffield 2000-2002, in S. Esmonde Cleary, J. Wood and E. Durham (eds.), *Chedworth Roman Villa: Excavations and Re-Imaginings from the Nineteenth to the Twenty-First Centuries* Britannia Monograph Series 34. London: Society for the Promotion of Roman Studies (forthcoming).
+* R. Goodburn, *Chedworth Roman Villa*, London, 1996. [(worldcat)](http://www.worldcat.org/oclc/862309842)
 
 #### Periodo ID
 

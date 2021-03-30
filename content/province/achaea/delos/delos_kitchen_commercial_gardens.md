@@ -14,6 +14,9 @@ tags:
 ---
 
 ## Province
+
+<!-- cats pajamas -->
+
 [Achaea]({{<relref "..">}})
 
 ## Location
@@ -27,8 +30,8 @@ Delos is a small island in the center of the Cyclades measuring about five kilom
 Kitchen and Commercial Gardens
 
 ### Keywords
-[inscriptions](http://vocab.getty.edu/page/aat/300028702)
-[market gardens](http://vocab.getty.edu/page/aat/300008111)
+- [inscriptions](http://vocab.getty.edu/page/aat/300028702)
+- [market gardens](http://vocab.getty.edu/page/aat/300008111)
 
 ### Garden Description
 The inscriptions of the sanctuary of Apollo mention nearly 30 *kepoi* within the period of 433 B.C. to 156/155 B.C., which were either private or belonged to Apollo and were rented or leased. Most of these cannot be localized because they were named after their former owners and with topographical references or surnames unknown today. However, in the years between 167 and 155 B.C., three *kepoi* were situated near identified buildings: the sanctuary of Leto, the Hippodrome, and the Neorion. A fourth was located near the palaestra, the identification of which among the several palaestra-buildings in Delos is contested. The first three *kepoi* were located east of the sanctuary of Apollo in a zone which was regarded as specifically humid and fertile because the Inopos, the main watercourse of Delos, was believed to have passed here before emptying into the Bay of Skardhana to the north. However, it has been shown that the Inopos ended south of the sanctuary of Apollo and could therefore never have irrigated the potential garden zone east of Apollo’s sacred precinct.

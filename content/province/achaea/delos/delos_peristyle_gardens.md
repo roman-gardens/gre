@@ -57,7 +57,7 @@ In Delian private buildings, peristyle gardens were probably introduced rather l
 
 {{< figure src="../images/delos_fig6_perfumery_plan.jpg" alt="Archaeological plan of the ‘Perfumery'" title="Fig. 6: Plan of the ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, 1:250. Drawing by M. Trümper after Plassart 1916, pl. V-VII." >}}
 
-{{< figure src="../images/delos_fig8_theat_quart_houses_e_f.jpg" alt="Archaeological plan of houses E and F" title="Fig. 7:  Plan of Quarter of the Theater, Insula II, houses E and F, 1:250. Drawing by M. Trümper after J. Chamonard 1922/24, pl. III-IV." >}}
+{{< figure src="../images/delos_fig7_theat_quart_houses_e_f.jpg" alt="Archaeological plan of houses E and F" title="Fig. 7:  Plan of Quarter of the Theater, Insula II, houses E and F, 1:250. Drawing by M. Trümper after J. Chamonard 1922/24, pl. III-IV." >}}
 
 ### Images
 {{< figure src="../images/delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." title="Fig. 8: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast. Photo courtesy of M. Trümper." >}}

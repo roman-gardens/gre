@@ -16,9 +16,8 @@ tags:
 ## Province
 [Achaea]({{<relref "..">}})
 
-
 ## Location
-[Delos]({{<relref ".">}}) \
+[Delos]({{<relref ".">}})
 [Delos (Pleiades)](https://pleiades.stoa.org/places/599588)
 
 ## Location Description
@@ -51,8 +50,8 @@ The porticoes, and maybe even the courtyard, were decorated with statues. Most o
 
 Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora of the Italians was never referred to as an agora, but probably as a *pastas italike* (as restored in Roussel and Launey, *Inscriptions de Délos*, no. 2612). The Latin translation of this could have been *porticus Italica* or *porticus Italicorum* which would have more appropriate for a luxurious garden-portico, rather than the agora or forum.
 
-### Maps
 <!--
+### Maps
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
