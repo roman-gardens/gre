@@ -83,7 +83,6 @@ unspecified
 #### Pleiades ID
 
 [410440793](https://pleiades.stoa.org/places/410440793)
-<!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
 #### TGN ID
 
