@@ -3,7 +3,7 @@ article-type: "province"
 title: "Porticus Liviae"
 date: 2021-03-16T23:53:09-07:00
 province_id: PROVINCE_ID
-author: Elizabeth Macaulay-Lewis and Holly Spoth-Torres
+author: E.R. Macaulay and Holly Spoth-Torres
 editor: Joshua Rosenheim
 draft: false
 ---
@@ -87,12 +87,12 @@ unspecified
 
 ### Contributors
 
-[Elizabeth Macaulay-Lewis](https://emacaulaylewis.com) <!--E.R. Macaulay or E. Macaulay-Lewis?-->\
-[Holly Spoth-Torres](https://huddleak.com/meet-the-team/) <!--Holly J. Spoth or Holly Spoth-Torres?--> <!--Is this a good website for Spoth?-->
+[E.R. Macaulay](https://emacaulaylewis.com)\
+[Holly Spoth-Torres](https://huddleak.com/meet-the-team/) <!--Is this a good website for Spoth-Torres?-->
 
 #### ORCID
 
-[E. Macaulay-Lewis (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
+[E.R. Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 <!--ORCID for Holly J. Spoth/Holly Spoth-Torres-->
 
 ### Publication date

@@ -3,7 +3,7 @@ article-type: "province"
 title: "Domus Aurea"
 date: 2021-03-16T23:02:04-07:00
 province_id: PROVINCE_ID
-author: Elizabeth Macaulay-Lewis and Linda Anderson
+author: E.R. Macaulay and Linda Anderson
 editor: Joshua Rosenheim
 draft: false
 ---
@@ -91,12 +91,12 @@ unspecified
 
 ### Contributors
 
-[Elizabeth Macaulay-Lewis](https://emacaulaylewis.com)<!--E.R. Macaulay or E. Macaulay-Lewis?-->\
+[E.R. Macaulay](https://emacaulaylewis.com)\
 [Linda Anderson]()<!--Find website-->
 
 #### ORCID
 
-[E. Macaulay-Lewis (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
+[E.R. Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 <!--ORCID for Linda Anderson-->
 
 ### Publication date
