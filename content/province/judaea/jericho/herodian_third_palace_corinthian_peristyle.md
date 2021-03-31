@@ -1,5 +1,5 @@
 ---
-title: "Jericho Herodian Third Palace Corinthian Peristyle"
+title: "Herodian Third Palace Corinthian Peristyle"
 date: 2020-07-11T11:20:32-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -102,6 +102,7 @@ With porticoes on three sides and measuring 23 x 14.5m, this courtyard, known as
 * E. Netzer, The Hasmonean and Herodian Palaces at Jericho:  Final Reports of the 1973-1987 Excavations,  Vol. 1, Jerusalem:  Israel Exploration Society, 2001 : 287-298 [worldcat](https://www.worldcat.org/title/hasmonean-and-herodian-palaces-at-jericho-final-reports-of-the-1973-1987-excavations/oclc/610635909&referer=brief_results)
 * E. Netzer, and Garbrecht G, “Water channels and a royal estate of the late Hellenistic period in Jericho’s eastern plains,” in D. Amit, J. Patrich and Y.; Hirschfeld, eds, The Aqueducts of Israel. 353-365. JRA Supplement 46, R.I. 2002 [worldcat](https://www.worldcat.org/title/water-channels-and-a-royal-estate-of-the-late-hellenistic-period-in-jerichos-western-plains/oclc/197716279&referer=brief_results)
 * J. Pritchard, “The Excavation at Herodian Jericho, 1951," The Annual of the American Schools of Oriental Research 32-3 (1952-4): 56-58. [worldcat] (https://www.worldcat.org/title/excavation-at-herodian-jericho-1951-for-1952-1954/oclc/256829094&referer=brief_results)
+* D. Langgut, and K. Gleason. "Identification of the Miniaturised Garden of King Herod The Great: The Fossil Pollen Evidence." STRATA: Bulletin of the Anglo-Israel Archaeological Society 38 (2020).
 
 <!--#### Periodo ID-->
 
