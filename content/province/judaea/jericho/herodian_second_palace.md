@@ -1,5 +1,5 @@
 ---
-title: "Jericho Herodian Second Palace"
+title: " Herodian Second Palace"
 date: 2020-07-11T11:20:32-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -89,6 +89,7 @@ The  low wing of the palace (Fig 8, AK) incorporated the two Hasmonean swimming 
 {{< figure src="../images/ASIA_JUD_JERICHO_9.jpg" alt="Figure 9: Planting pots such as this are known from around the Greek and Roman world, although this one is particularly elegant in shape. The ancient authors describe how such pots were used for the propagation of a variety of trees, shrubs, and vines. (K. Gleason)." title="Figure 9: Planting pots such as this are known from around the Greek and Roman world, although this one is particularly elegant in shape. The ancient authors describe how such pots were used for the propagation of a variety of trees, shrubs, and vines. (K. Gleason)." >}}
 
 {{< figure src="../images/ASIA_JUD_JERICHO_10.jpg" alt="Figure 10: The raised garden in the peristyle courtyard in Herod’s Second Palace (photo by E. Netzer)." title="Figure 10: The raised garden in the peristyle courtyard in Herod’s Second Palace (photo by E. Netzer)." >}}
+* D. Langgut, and K. Gleason. "Identification of the Miniaturised Garden of King Herod The Great: The Fossil Pollen Evidence." STRATA: Bulletin of the Anglo-Israel Archaeological Society 38 (2020).
 
 ### Dates
 

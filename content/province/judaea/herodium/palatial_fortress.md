@@ -1,5 +1,5 @@
 ---
-title: "Herodium Palace Fortress"
+title: "Palace Fortress"
 date: 2020-07-11T11:20:32-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -89,6 +89,9 @@ The Palace Fortress is a cylindrical structure originally seven stories high (tw
 * E. Netzer, “Greater Herodium” in Qedem, Monographs of the Institute of Archaeology, The Hebrew University of Jerusalem 13, 1981 [(worldcat)](https://www.worldcat.org/title/greater-herodium/oclc/470633336&referer=brief_results)
 * E. Netzer The Palaces of the Hasmoneans and Herod the Great, Jerusalem: The Israel Exploration Society, 1999, 98-107 [(worldcat)](https://www.worldcat.org/title/palaces-of-the-hasmoneans-and-herod-the-great/oclc/1089147869&referer=brief_results)
 * I. Nielsen, Inge, Hellenistic Palaces, 1994,  201-203. [(worldcat)](https://www.worldcat.org/title/hellenistic-palaces-tradition-and-renewal/oclc/468433476&referer=brief_results)
+* R. Porat, R. Chachy, and Y. Kalman. "Herodium I: Herod’s Tomb Precinct, Final Reports of the 1972-2010 Excavations Directed by Ehud Netzer." Jerusalem: Israel Exploration Society (2015).
+[worldcat](https://www.worldcat.org/title/herodium-final-reports-of-the-1972-2010-excavations-directed-by-ehud-netzer/oclc/907827917&referer=brief_results)
+* D. Langgut, M. Cavanagh , R. Evyasaf, Y. Korman, R. Porat, G. Stiebel., K. Gleason. "The reconstruction of Herod the Great’s palatial gardens in Herodium: a botanical perspective", In: Chachy R, Kalman Y, and Porat R (eds.), "Lower Herodium," in  HERODIUM II;  Final Reports of the 1972-2010 Excavations Directed by Ehud Netzer, Jerusalem. In press  
 
 <!--#### Periodo ID-->
 
