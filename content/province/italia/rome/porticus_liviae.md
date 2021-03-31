@@ -3,7 +3,7 @@ article-type: "province"
 title: "Porticus Liviae"
 date: 2021-03-16T23:53:09-07:00
 province_id: PROVINCE_ID
-author: E.R. Macaulay and Holly Spoth-Torres
+author: Elizabeth Macaulay-Lewis and Holly Spoth-Torres
 editor: Joshua Rosenheim
 draft: false
 ---
@@ -63,7 +63,7 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 
 ### Dates
 
-unspecified <!--January 7 BCE - fifth century CE Is this the right date to use?-->
+7 CBE
 
 #### Excavation Date
 
@@ -87,7 +87,7 @@ unspecified
 
 ### Contributors
 
-[E.R. Macaulay](https://emacaulaylewis.com) <!--E.R. Macaulay or E. Macaulay-Lewis?-->\
+[Elizabeth Macaulay-Lewis](https://emacaulaylewis.com) <!--E.R. Macaulay or E. Macaulay-Lewis?-->\
 [Holly Spoth-Torres](https://huddleak.com/meet-the-team/) <!--Holly J. Spoth or Holly Spoth-Torres?--> <!--Is this a good website for Spoth?-->
 
 #### ORCID

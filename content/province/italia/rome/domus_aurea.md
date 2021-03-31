@@ -3,7 +3,7 @@ article-type: "province"
 title: "Domus Aurea"
 date: 2021-03-16T23:02:04-07:00
 province_id: PROVINCE_ID
-author: E.R. Macaulay and Linda Anderson
+author: Elizabeth Macaulay-Lewis and Linda Anderson
 editor: Joshua Rosenheim
 draft: false
 ---
@@ -66,7 +66,7 @@ The unfinished [Temple to the Divine Claudius]({{<relref"/temple_claudii_divi.md
 
 ### Dates
 
-unspecified
+post-64 CE
 
 #### Excavation Date
 
@@ -91,7 +91,7 @@ unspecified
 
 ### Contributors
 
-[E.R. Macaulay](https://emacaulaylewis.com)<!--E.R. Macaulay or E. Macaulay-Lewis?-->\
+[Elizabeth Macaulay-Lewis](https://emacaulaylewis.com)<!--E.R. Macaulay or E. Macaulay-Lewis?-->\
 [Linda Anderson]()<!--Find website-->
 
 #### ORCID
