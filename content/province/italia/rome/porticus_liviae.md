@@ -63,7 +63,7 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 
 ### Dates
 
-unspecified <!--January 7 BCE - fifth century CE Is this the right date to use?-->
+7 CBE
 
 #### Excavation Date
 
@@ -87,12 +87,12 @@ unspecified
 
 ### Contributors
 
-[E.R. Macaulay](https://emacaulaylewis.com) <!--E.R. Macaulay or E. Macaulay-Lewis?-->\
-[Holly Spoth-Torres](https://huddleak.com/meet-the-team/) <!--Holly J. Spoth or Holly Spoth-Torres?--> <!--Is this a good website for Spoth?-->
+[E.R. Macaulay](https://emacaulaylewis.com)\
+[Holly Spoth-Torres](https://huddleak.com/meet-the-team/) <!--Is this a good website for Spoth-Torres?-->
 
 #### ORCID
 
-[E. Macaulay-Lewis (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
+[E.R. Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 <!--ORCID for Holly J. Spoth/Holly Spoth-Torres-->
 
 ### Publication date

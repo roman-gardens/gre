@@ -66,7 +66,7 @@ The unfinished [Temple to the Divine Claudius]({{<relref"/temple_claudii_divi.md
 
 ### Dates
 
-unspecified
+post-64 CE
 
 #### Excavation Date
 
@@ -83,7 +83,6 @@ unspecified
 #### Pleiades ID
 
 [410440793](https://pleiades.stoa.org/places/410440793)
-<!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
 #### TGN ID
 
@@ -91,12 +90,12 @@ unspecified
 
 ### Contributors
 
-[E.R. Macaulay](https://emacaulaylewis.com)<!--E.R. Macaulay or E. Macaulay-Lewis?-->\
+[E.R. Macaulay](https://emacaulaylewis.com)\
 [Linda Anderson]()<!--Find website-->
 
 #### ORCID
 
-[E. Macaulay-Lewis (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
+[E.R. Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 <!--ORCID for Linda Anderson-->
 
 ### Publication date

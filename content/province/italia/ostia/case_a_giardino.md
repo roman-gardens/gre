@@ -51,7 +51,7 @@ Garden Houses (Case a Giardino)
 
 ### Keywords
 
-- [[fountains](http://vocab.getty.edu/page/aat/300006179)
+- [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 
