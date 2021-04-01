@@ -1,6 +1,6 @@
 ---
 article-type: "province"
-title: "House of L. Vousius Faustus and M. Volusius Faustus (I.ii.10)"
+title: "I.2.10 House of L. Vousius Faustus and M. Volusius Faustus"
 date: 2021-02-21T14:06:03Z
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
