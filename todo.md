@@ -1,4 +1,12 @@
 
+# New for Launch on April 15, 2021
+
+- [ ] Set `draft: true` in:
+  - [ ] Gallia
+  - [ ] Hispania
+  - [ ] Other ?
+- [ ] Update template with new look and feel
+
 # General
 
 - [x] Make a really cool project
