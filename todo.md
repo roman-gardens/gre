@@ -6,6 +6,7 @@
   - [ ] Hispania
   - [ ] Other ?
 - [ ] Update template with new look and feel
+- [ ] Page should have an alphabetical list of authors with hyperlinks to searches for those names, so that if someone clicks on it, it pulls up the search results for that author.
 
 # General
 
