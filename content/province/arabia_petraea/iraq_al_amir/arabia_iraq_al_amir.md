@@ -34,18 +34,17 @@ that boasts a partially restored palace ([Qasr al-Abd](https://pleiades.stoa.org
 ʻIrāq al-Amīr
 
 ### Keywords
--[aula/forecourt](http://vocab.getty.edu/aat/300004104)
--[columbarium/dovecote](http://vocab.getty.edu/aat/300004975)
--[palace garden](http://vocab.getty.edu/aat/300005734)
--[reflecting pool](http://vocab.getty.edu/aat/300179485)
--[triclinium (room)](http://vocab.getty.edu/aat/300004359)
--[Late Hellenistic](http://vocab.getty.edu/aat/300106998)
--[paradeisos/paradise garden](http://vocab.getty.edu/aat/300008112)
--[Herod the Great]
--[artificial island](http://vocab.getty.edu/aat/300386969)
+- [aula/forecourt](http://vocab.getty.edu/aat/300004104)
+- [columbarium/dovecote](http://vocab.getty.edu/aat/300004975)
+- [palace garden](http://vocab.getty.edu/aat/300005734)
+- [reflecting pool](http://vocab.getty.edu/aat/300179485)
+- [triclinium (room)](http://vocab.getty.edu/aat/300004359)
+- [Late Hellenistic](http://vocab.getty.edu/aat/300106998)
+- [paradeisos/paradise garden](http://vocab.getty.edu/aat/300008112)
+- [artificial island](http://vocab.getty.edu/aat/300386969)
 
 ### Garden Description
-This large preserved palace, known as Tyrus, near modern Amman, provides a rare glimpse of the kind of luxurious complex built by the late Hellenistic Alexandrian elite.  According to [Josephus](https://en.wikipedia.org/wiki/Josephus) (*Antiquities* [Book 12:228-236](http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus%3Atext%3A1999.01.0146%3Abook%3D12%3Asection%3D228)), Hyrcanus the [Tobiad](https://en.wikipedia.org/wiki/Tobiads) was a Hellenized Jew and Ptolemaic official who had spent considerable time in Alexandria. Remains of the palace’s architecture are disposed on each of three terraces, an arrangement described by Josephus as large, open courtyards (*aulae*) which he adorned with vast gardens, descriptive of a *paradeisos*. The site has been explored by various expeditions, most recently by the Department of Antiquities of Jordan and the French Institute of Archaeology for the Near East under the direction of Fawzi Zayadine and Ernest Will.  Although no garden excavations have been undertaken, the site of the palace illuminates Josephus’ description (Fig. 2).
+This large preserved palace provides a rare glimpse of the kind of luxurious complex built by the late Hellenistic Alexandrian elite.  According to [Josephus](https://en.wikipedia.org/wiki/Josephus) (*Antiquities* [Book 12:228-236](http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus%3Atext%3A1999.01.0146%3Abook%3D12%3Asection%3D228)), Hyrcanus the [Tobiad](https://en.wikipedia.org/wiki/Tobiads) was a Hellenized Jew and Ptolemaic official who had spent considerable time in Alexandria. Remains of the palace’s architecture are disposed on each of three terraces, an arrangement described by Josephus as large, open courtyards (*aulae*) which he adorned with vast gardens, descriptive of a *paradeisos*. The site has been explored by various expeditions, most recently by the Department of Antiquities of Jordan and the French Institute of Archaeology for the Near East under the direction of Fawzi Zayadine and Ernest Will.  Although no garden excavations have been undertaken, the site of the palace illuminates Josephus’ description (Fig. 2).
 
 The west side of the uppermost terrace contains the caves described by Josephus as *triclinia*, with doors designed so that only one person could pass through at a time.  A *columbarium*, a typical feature of local palaces through the Herodian period, lies at the southern end of the cliff (Fig. 3). Other remains of the palace and earlier inhabitation on the site lie on the east side of this terrace.
 
@@ -55,20 +54,22 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 
 ### Maps
 
-{{< figure src="/images/1_arabia_petraea_map.jpg" alt="Map of Petra location" title="Fig 1: Map showing the location of ancient Tyrus (ʻIraq al-Amir) in Arabia Petraea (L.-A. Bedal)">}}
+{{< figure src="../images/1_arabia_petraea_map.jpg" alt="Map of Petra location" title="Fig 1: Map showing the location of ancient Tyrus (ʻIraq al-Amir) in Arabia Petraea (L.-A. Bedal)">}}
 
 ### Plans
--Fig 2:   Site plan (K. Gleason after Will)
+{{< figure src="#"Site plan" title="Fig 2: Site plan (K. Gleason after Will)">}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
-
+<!--
+{{< Waiting for Figs 2 and 3 from K. Gleason>}}
+-->
 ### Images
--Fig. 3:  Columbarium  (K. Gleason)
+{{< figure src="#"Columbarium" title="Fig 3: Columbarium  (K. Gleason)">}}
 
-{{< figure src="../images/4_arabia_tyrus_pavilion_facade.jpg" alt="View of the facade of the Lion Pavilion" title="Fig. 4: The facade of the Lion Pavilion at Tyrus, ʻIraq al-Amir. Photograph by L.-A. Bedal." >}}
+{{< figure src="../images/4_arabia_tyrus_pavilion_facade.jpg" alt="Facade of the Lion Pavilion" title="Fig. 4: The facade of the Lion Pavilion at Tyrus, ʻIraq al-Amir. Photograph by L.-A. Bedal." >}}
 
-{{< figure src="../images/5_arabia_tyrus_palace.jpg" alt="View of the Lion Pavilion in Wadi Seer" title="Fig. 5: The Lion Pavilion at Tyrus, ʻIraq al-Amir. Photograph by L.-A. Bedal." >}}
+{{< figure src="../images/5_arabia_tyrus_palace.jpg" alt="The Lion Pavilion in Wadi Seer" title="Fig. 5: The Lion Pavilion at Tyrus, ʻIraq al-Amir. Photograph by L.-A. Bedal." >}}
 
 {{< figure src="../images/6_arabia_tyrus_dam.jpg" alt="View of the dam and Lion Pavilion" title="Fig. 6: View of the earthen dam constructed to create an artificial lake around Lion Pavilion. Josephus describes landscaped terrace gardens on the surrounding hillsides. Photograph by L.-A. Bedal." >}}
 
@@ -105,10 +106,11 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 [5003214](http://www.getty.edu/vow/TGNFullDisplay?find=tyrus&place=&nation=&prev_page=1&english=Y&subjectid=5003214)
 
 ### Contributor
-Kathryn L. Gleason
+Kathryn L. Gleason and Leigh-Ann Bedal
+<!-- [name](https://....) -->
 
 ### Publication date
-
+15 Apr 2021
 
 <!--### Related articles-->
 
