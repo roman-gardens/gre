@@ -83,8 +83,10 @@ Early 4th century - 5th century
 
 ### Bibliography
 
-* R.J. Zeepvat, “Roman Gardens in Britain,” in: A.E. Brown, ed., *Garden Archaeology*. Council for British Archaaeology Research Report 78, London, 1991, pp. 53-56, fig. 5.2. [(worldcat)](http://www.worldcat.org/oclc/246578144)
+* M. Carroll, *Earthly Paradises. Ancient Gardens in History and Archaeology.* London: The British Museum Press, 2003, 110, fig. 88
+* M. Carroll, They came, they saw, they gardened. *The Garden: Journal of the Royal Horticultural Society* 128.6, 2003, 463, fig. p. 461
 * E. Price, Frocester. *A Romano-British Settlement, its Antecedents and Successors*, Gloucester, 2000. [(worldcat)](A Romano-British Settlement, its Antecedents and Successors)
+* R.J. Zeepvat, “Roman Gardens in Britain,” in: A.E. Brown, ed., *Garden Archaeology*. Council for British Archaaeology Research Report 78, London, 1991, pp. 53-56, fig. 5.2. [(worldcat)](http://www.worldcat.org/oclc/246578144)
 
 <!--#### Periodo ID-->
 

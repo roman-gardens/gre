@@ -1,6 +1,6 @@
 ---
 article-type: "province"
-title: "I.iii.25"
+title: "I.3.25"
 date: 2021-03-19T09:12:36Z
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
