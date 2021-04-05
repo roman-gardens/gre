@@ -47,11 +47,13 @@ The Adonea of the Flavian Palace, Palatine<!-- List of gardens in province -->
 
 ### Keywords
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [princeps](https://www.britannica.com/topic/princeps)
-- [peristyle (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 - [alae](http://vocab.getty.edu/page/aat/300004055)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [flower gardens](http://vocab.getty.edu/page/aat/300008135)
+- [flowerpots](http://vocab.getty.edu/page/aat/300194749)
+- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
+- [peristyle (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [princeps](https://www.britannica.com/topic/princeps)
 - [topiary](http://vocab.getty.edu/page/aat/300061887)
 
 
@@ -71,19 +73,10 @@ Unspecified
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-### Periodo ID
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
+[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-<!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-### TGN ID
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
-
-<!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
 
 ## Contributor
 Françoise Villedieu
