@@ -1,6 +1,6 @@
 ---
 article-type: "province"
-title: "House of Epidius Fortunatus (I.iii.3)"
+title: "I.3.3 House of Epidius Fortunatus"
 date: 2021-03-14T17:30:34Z
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski

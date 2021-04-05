@@ -1,6 +1,6 @@
 ---
 article-type: "province"
-title: "Officina Coriarioum of M. Vesonius Primus (I.v.2)"
+title: "I.5.2 Officina Coriarioum of M. Vesonius Primus"
 date: 2020-08-02T18:12:26-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -47,7 +47,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - [tablinum](http://vocab.getty.edu/page/aat/300004180)
 
 ## Garden
-Peristyle garden in a tannery.
+Officina Coriariorum of M. Vesonius Primus (tannery) with a [peristyle](http://vocab.getty.edu/page/aat/300080971) garden and large open space to the rear.
 
 ### Keywords
 
@@ -62,9 +62,9 @@ Peristyle garden in a tannery.
 
 ### Garden Description
 
-A. This tannery was excavated in 1873-1874. The *peristyle* courtyard had a portico to the north and east supported by brick pillars which had been most likely been built when the original house was converted to a tannery. Against the west wall there was a masonry *triclinium* (*l.medius* 4.99 m.; *l.summus* and *l.imus* 4.96 m.; table, 1.78 x 0.93 m.). The top of the *triclinium* table held the famous mosaic of a skull (0.45 x 0.50 m. Mus. Naz. inv. no. 109 982;; Reusch no. 163). <span style="color:purple">The mosaic representing the Epicurian philosophy features a large skull over a butterfly on a wheel representing the soul and time. On either side of the skull are the possessions of both the rich and poor with a plumb line hanging over the skull indicating the equalizing power of death.</span> The northeastern part of the courtyard was a rectangle, the north side of which was formed by the three first intercolumniations counting from the northeast corner of the north portico, and the east side by the first two intercolumniations counting from the same corner. This area was paved with *opus signinum*. The little area around the *triclinium* between the paved area and the west wall was believed to be a garden according to Mau.  
+A. This tannery was excavated in 1873-1874. The [peristyles](http://vocab.getty.edu/page/aat/300080971) courtyard had a portico to the north and east supported by brick pillars which had been most likely been built when the original house was converted to a tannery. Against the west wall there was a masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) (*l.medius* 4.99 m.; *l.summus* and *l.imus* 4.96 m.; table, 1.78 x 0.93 m.). The top of the [triclinium](http://vocab.getty.edu/page/aat/300004359) table held the famous mosaic of a skull (0.45 x 0.50 m. Mus. Naz. inv. no. 109 982;; Reusch no. 163). The mosaic representing the Epicurian philosophy features a large skull over a butterfly on a wheel representing the soul and time. On either side of the skull are the possessions of both the rich and poor with a plumb line hanging over the skull indicating the equalizing power of death. The northeastern part of the courtyard was a rectangle, the north side of which was formed by the three first intercolumniations counting from the northeast corner of the north [portico](http://vocab.getty.edu/page/aat/300004145), and the east side by the first two intercolumniations counting from the same corner. This area was paved with [opus signinum](http://vocab.getty.edu/page/aat/300379969). The little area around the [triclinium](http://vocab.getty.edu/page/aat/300004359) between the paved area and the west wall was believed to be a garden according to Mau.  
 
-B. The south half of the insula was also excavated in 1873-74. It was accessed from the back door in the *peristyle* garden of the tannery by descending six steps. This was a large open area that had been cleared of previous structures. Formerly there had been five doors in the south wall leading to the *pomerium* but these were closed up. This area could have been used as a kitchen garden as suggested by Tatiana Warscher or for drying leather as suggested by Viola.
+B. The south half of the insula was also excavated in 1873-74. It was accessed from the back door in the [peristyle](http://vocab.getty.edu/page/aat/300080971)] garden of the tannery by descending six steps. This was a large open area that had been cleared of previous structures. Formerly there had been five doors in the south wall leading to the *pomerium* but these were closed up. This area could have been used as a kitchen garden as suggested by Tatiana Warscher or for drying leather as suggested by Viola.
 
 <!--### Maps-->
 
@@ -74,17 +74,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
--->
-
-### Plans
-
-<!--{{< figure src="../../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
-
-{{< figure src="../../images/Region_I_insula_v.tif" alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." title="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10 (Rights
-Statement)." >}}
-
-### Images-->
+{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}-->
 
 
 ### Dates

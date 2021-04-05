@@ -1,6 +1,6 @@
 ---
 article-type: "province"
-title: "House of Capella (I.iii.24)"
+title: "I.3.24 House of Capella"
 date: 2021-03-18T11:58:50Z
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski

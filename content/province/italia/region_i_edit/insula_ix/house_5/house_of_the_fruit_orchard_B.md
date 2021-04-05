@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Unknown
 editor: June Dorsch
-draft: false
+draft: true
 
 categories:
  - "Italia"

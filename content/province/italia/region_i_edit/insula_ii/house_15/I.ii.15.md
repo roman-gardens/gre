@@ -1,6 +1,6 @@
 ---
-title: "Casa dei Quattro Stili; House of L.V.P. (I.viii.17/11)"
-date: 2020-08-09T14:28:15-04:00
+title: "I.ii.15"
+date: 2020-07-25T14:20:01-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -9,17 +9,28 @@ draft: true
 
 categories:
  - "Italia"
+tags:
 
+  - "impluvia"
 ---
 
 ## Province
 
 [Italia]({{<relref "../../../..">}})
 
+<!--### Province Description-->
+
+<!-- DESCRIPTION -->
+
+
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
+
+<!--### Location Description-->
+
+<!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Sublocation
 
@@ -31,28 +42,24 @@ categories:
 
 ## Insula
 
-[Insula VIII]({{<relref "..">}})
+[Insula II]({{<relref "..">}})
 
 ## House
 
-[House 17/11]({{<relref ".">}})
+[House 15]({{<relref ".">}})
 
 ## Garden
 
-Casa dei Quattro Stili; House of L.V.P. (I.viii.17/11)
+I.ii.15
 
 ### Keywords
 
 - [archaeological garden](#)
-- [inscription](#)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
-- [pillars](http://vocab.getty.edu/page/aat/300264605)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [roofing tile](http://vocab.getty.edu/page/aat/300010699)
+- [impluvia](http://vocab.getty.edu/page/aat/300129867)
 
 ### Garden Description
 
-A *portico* supported by four pillars at the back of this house enclosed this *peristyle* garden (a) on the west. There was a passageway to the north of this garden that provided a back entrance to this house. A roof tile found in the garden in 1938 was inscribed FVLGVR (*CIL* IV.8223) and marked the spot where lightning had struck and where all affected items were buried.
+This humble house was excavated in 1873. It had no garden but the *impluvium* was surrounded by a low masonry wall. The top contained a planting bed which served as a small garden.
 
 <!--### Maps-->
 
@@ -69,7 +76,7 @@ NEW WAY ↓↓↓↓
 
 {{< figure src="../../../images/Fig_1_Region_I.tif" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< figure src="../../images/Region_I_insula_8.tif" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." title="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement)." >}}
+{{< figure src="../../../images/Fig_2_Region_I_insula_ii.tif" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
 
 <!--### Images-->
 
@@ -78,13 +85,17 @@ NEW WAY ↓↓↓↓
 
 unspecified
 
-#### Excavation Date
 
+#### Excavation Dates
+
+1873
 
 ### Bibliography
 
-* Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](http://www.worldcat.org/oclc/921816405)
-* Maiuri, “Fulgur conditum,” *RendNap*, n.s., 21 (1942): 53-72 and figs. 1 (plan) and 2 on pp. 56-57.
+* Fiorelli, *Descr.*, p. 42. [(worldcat)](http://www.worldcat.org/oclc/908272023)
+* Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Viola, “*Scavi*” p. 12. [(worldcat)](http://www.worldcat.org/oclc/715087975)
+* Warscher, “Codex.”
 
 <!--#### Periodo ID-->
 
@@ -104,7 +115,7 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
 
-09 August 2020
+25 July 2020
 
 <!--### Related articles-->
 

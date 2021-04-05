@@ -5,13 +5,14 @@ date: 2021-03-16T23:02:04-07:00
 province_id: PROVINCE_ID
 author: E.R. Macaulay and Linda Anderson
 editor: Joshua Rosenheim
-draft: false
+draft: true
 ---
 
 ## Province
-
-[Italia]({{<relref"../../../..">}}) \
+[Italia]({{<relref "../../../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+<!--- Content of Province heading --->
 
 ## Region
 
@@ -56,13 +57,13 @@ The *Domus Tiberiana* on the Palatine was incorporated into the *Domus Aurea*. R
 
 The unfinished [Temple to the Divine Claudius]({{<relref"/temple_claudii_divi.md">}}) became a monumental nymphaeum. The eastern wall of the temple platform was transformed into ornamental niched façade with abundant fountain jets fed by a new branch of the *Aqua Claudia*. The brick remains of this nymphaeum are visible today along the Via Claudia (Fig. 3). The water features drained into the *stagnum*.
 
-### Figures
+<!--### Figures
 
 {{< figure src="../images/.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" title="Fig. 1: Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana (image source)." >}}
 
 {{< figure src="../images/.jpg" alt="Gardens of the Oppian palace" title="Fig. 2: Gardens of the Oppian palace (image source)." >}}
 
-{{< figure src="../images/.jpg" alt="Photograph of Neronian nymphaeum on the Caelian" title="Fig. 3: Photograph of Neronian nymphaeum on the Caelian (image source)." >}}
+{{< figure src="../images/.jpg" alt="Photograph of Neronian nymphaeum on the Caelian" title="Fig. 3: Photograph of Neronian nymphaeum on the Caelian (image source)." >}}-->
 
 ### Dates
 
