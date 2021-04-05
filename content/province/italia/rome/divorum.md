@@ -53,11 +53,11 @@ From the northern exedra, a water channel appears to lead to the altar or pool, 
 
 ### Figures
 
-{{< figure src="../images/.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" title="Fig. 1: Photograph of the Severan Forma Urbis depicting the Divorum (Stanford Project)." >}}
+{{< figure src="../images/divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" title="Fig. 1: Photograph of the Severan Forma Urbis depicting the Divorum (Stanford Project)." >}}
 
-{{< figure src="../images/.jpg" alt="Reconstructed plan of the Divorum" title="Fig. 2: Reconstructed plan of the Divorum (Valerie Aymer)." >}}
+{{< figure src="../images/divorum_fig2_edited.jpg" alt="Reconstructed plan of the Divorum" title="Fig. 2: Reconstructed plan of the Divorum (Valerie Aymer)." >}}
 
-{{< figure src="../images/.jpg" alt="Perspective view looking north along the central axis of the Divorum" title="Fig. 3: Perspective view looking north along the central axis (Valerie Aymer)." >}}
+{{< figure src="../images/divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" title="Fig. 3: Perspective view looking north along the central axis (Valerie Aymer)." >}}
 
 ### Dates
 
@@ -75,8 +75,8 @@ unspecified
 
 #### Pleiades ID
 
-[410440793](https://pleiades.stoa.org/places/410440793)
-<!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
+[423025](https://pleiades.stoa.org/places/423025)
+<!-- Pleiades resource for Location (Rome), not for the individual garden -->
 
 #### TGN ID
 
