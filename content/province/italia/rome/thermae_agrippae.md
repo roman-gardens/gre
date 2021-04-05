@@ -56,9 +56,9 @@ The *thermae* burned in the fire of 80 CE (Cass. Dio  66.24) and was restored qu
 
 ### Figures
 
-{{< figure src="../images/.jpg" alt="Marble Plan Fragment" title="Fig. 1: Marble Plan Fragment (Yegül, fig. 143, p. 134)." >}}
+{{< figure src="../images/thermae_agrippae_fig1.jpg" alt="Marble Plan Fragment" title="Fig. 1: Marble Plan Fragment (Yegül, fig. 143, p. 134)." >}}
 
-{{< figure src="../images/.jpg" alt="Base Plan of the Thermae Agrippae" title="Fig. 2: Base Plan of the Thermae Agrippae (Yegül, fig. 145, p. 134, after Huelsen)." >}}
+{{< figure src="../images/thermae_agrippae_fig2.jpg" alt="Base Plan of the Thermae Agrippae" title="Fig. 2: Base Plan of the Thermae Agrippae (Yegül, fig. 145, p. 134, after Huelsen)." >}}
 
 ### Dates
 
@@ -88,7 +88,7 @@ unspecified
 ### Contributors
 
 [E.R. Macaulay](https://emacaulaylewis.com)\
-[Beth Ryan]()<!--website for Beth Ryan?-->
+[Beth Ryan](#)<!--website for Beth Ryan?-->
 
 #### ORCID
 
