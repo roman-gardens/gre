@@ -1,6 +1,6 @@
 ---
 article-type: "province"
-title: "I.ii.6"
+title: "I.2.6"
 date: 2021-03-13T16:21:43Z
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski

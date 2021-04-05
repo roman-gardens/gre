@@ -1,6 +1,6 @@
 ---
 article-type: "province"
-title: "House of Actius Anicetus (I.iii.23)"
+title: "I.3.23 House of Actius Anicetus"
 date: 2021-03-18T11:14:26Z
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski

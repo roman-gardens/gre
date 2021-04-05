@@ -5,7 +5,7 @@ province_id:
 article_id: ARTICLE_ID
 author: Kathryn Gleason
 editor: Leigh-Ann Bedal and Jane Millar
-draft: false
+draft: true
 
 categories:
  -
@@ -13,7 +13,7 @@ tags:
 
 
 ---
-
+<!--
 ## Province
 [Arabia Petraea]({{<relref "..">}})\
 [Arabia (province) (Pleiades)](https://pleiades.stoa.org/places/981506)
@@ -51,7 +51,7 @@ The west side of the uppermost terrace contains the caves described by Josephus 
 The second terrace is largely unexplored but remains of a building have been noted at its southwest corner.  The lowest terrace has been the focus of archaeological exploration and contains the well-known Lion Pavilion restored by Will (Figs. 4 and 5).  It was once thought to be a temple and is oddly described by Josephus as a fortress. This terrace is retained by large stone dam, which may have held water from the abundant local springs (Fig. 6). The pavilion is set well above the level of the land around it, and Netzer proposes that the “moat” mentioned by Josephus was in fact a reflecting pool for the ornately carved building (Fig. 7).
 
 Below the dam, the land drops away dramatically in a series of agricultural terraces leading to a large valley and the Jordan Valley beyond.  The complex was unfinished at the time of Hyrcanus’ death in 169-68 BCE, and the complex eventually came into the properties of Herod the Great.
-
+<!--
 ### Maps
 
 {{< figure src="../images/1_arabia_petraea_map.jpg" alt="Map of Petra location" title="Fig 1: Map showing the location of ancient Tyrus (ʻIraq al-Amir) in Arabia Petraea (L.-A. Bedal)">}}
@@ -64,7 +64,7 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 <!--
 {{< Waiting for Figs 2 and 3 from K. Gleason>}}
 -->
-### Images
+<!--### Images
 {{< figure src="#"Columbarium" title="Fig 3: Columbarium  (K. Gleason)">}}
 
 {{< figure src="../images/4_arabia_tyrus_pavilion_facade.jpg" alt="Facade of the Lion Pavilion" title="Fig. 4: The facade of the Lion Pavilion at Tyrus, ʻIraq al-Amir. Photograph by L.-A. Bedal." >}}
@@ -73,12 +73,12 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 
 {{< figure src="../images/6_arabia_tyrus_dam.jpg" alt="View of the dam and Lion Pavilion" title="Fig. 6: View of the earthen dam constructed to create an artificial lake around Lion Pavilion. Josephus describes landscaped terrace gardens on the surrounding hillsides. Photograph by L.-A. Bedal." >}}
 
-{{< figure src="../images/7_arabia_tyrus_reflecting_pool.jpg" alt="Model of pavilion and pool" title="Fig. 8: Model of the Lion Pavilion and reflecting pool. Permission of E. Netzer." >}}
+{{< figure src="../images/7_arabia_tyrus_reflecting_pool.jpg" alt="Model of pavilion and pool" title="Fig. 8: Model of the Lion Pavilion and reflecting pool. Permission of E. Netzer." >}}-->
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+<!--### Dates
 2nd century BCE (Hellenistic period)
 
 ### Bibliography
@@ -98,7 +98,7 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+<!--#### Pleiades ID
 [947227732](https://pleiades.stoa.org/places/947227732)
 
 
@@ -108,9 +108,9 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 ### Contributor
 Kathryn L. Gleason and Leigh-Ann Bedal
 <!-- [name](https://....) -->
-
+<!--
 ### Publication date
-15 Apr 2021
+15 Apr 2021-->
 
 <!--### Related articles-->
 
