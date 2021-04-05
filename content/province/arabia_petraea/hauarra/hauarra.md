@@ -52,7 +52,7 @@ A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely dam
 {{< figure src="../images/2_hauarra_plan.jpg" alt="Plan of shrine in Insula E125" title="Fig 2: Plan of Shrine Complex in the southeast corner of Insula E125 (Plan by S. Fraser and D. Skinner)">}}
 
 ### Images
-{{< figure src="../images/3_hauarra_model.jpg" alt="View down a paved path towards a small building" title="Fig. 3: Shrine Complex in Insula E125 (Reconstruction by C. Kanellopoulos and P. Konstandopoulos)>}}
+{{< figure src="../images/3_hauarra_model.jpg" alt="View down a paved path towards a small building" title="Fig. 3: Shrine Complex in Insula E125 (Reconstruction by C. Kanellopoulos and P. Konstandopoulos)">}}
 
 
 ### Dates

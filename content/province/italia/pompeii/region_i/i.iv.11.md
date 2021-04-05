@@ -1,6 +1,6 @@
 ---
 article-type: "province"
-title: "Capona of Copious (I.iv.11)"
+title: "I.4.11 Caupona of Copious"
 date: 2021-03-19T12:45:15Z
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski

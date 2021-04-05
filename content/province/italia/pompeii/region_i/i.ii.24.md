@@ -1,6 +1,6 @@
 ---
 article-type: "province"
-title: "Officina Libraria (I.ii.24)"
+title: "I.2.24 Officina Libraria"
 date: 2021-03-14T17:13:29Z
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski

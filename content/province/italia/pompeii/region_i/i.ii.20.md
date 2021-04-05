@@ -1,6 +1,6 @@
 ---
 article-type: "province"
-title: "Caupona of Innulus (I.ii.20)"
+title: "I.2.20 Caupona of Innulus"
 date: 2021-03-14T17:00:49Z
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
