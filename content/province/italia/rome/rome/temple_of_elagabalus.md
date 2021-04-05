@@ -151,6 +151,6 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- [ORCID](https://orcid.org/ORCID) -->
 
 ## Publication date
-<!-- Format: dd MONTH_NAME yyyy -->
+15 APRIL 2021<!-- Format: dd MONTH_NAME yyyy -->
 
 <!-- DATE -->
