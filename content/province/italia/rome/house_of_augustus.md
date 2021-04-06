@@ -1,6 +1,6 @@
 ---
 article-type: "province"
-title: "House of Augustus"
+title: "House of Augustus, Palatine"
 date: 2021-04-04T00:37:34+02:00
 province_id: ITALIA
 author: M.-A. Tomei
@@ -9,41 +9,33 @@ draft: true
 ---
 
 # Province
+
 [ITALIA]({{<relref "..">}})\
 [ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
 [ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
-<!--- Content of Province heading --->
 
 ## Province Description
 
-Italia was not considered a province until the reign of Diocletian. The peninsula, however, was divided into administrative regions by Augustus around 7 BCE, according to Pliny's *Naturalis Historia*. Regio I was comprised of Latium and Campania. <!-- DESCRIPTION -->
-
+Italia was not considered a province until the reign of Diocletian. The peninsula, however, was divided into administrative regions by Augustus around 7 BCE, according to Pliny's *Naturalis Historia*. Regio I was comprised of Latium and Campania.
 
 # Location
 [Rome]({{<relref ".">}}) \
-[Rome (Pleiades)](https://pleiades.stoa.org/places/108867)
-
-<!-- [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751) -->
+[Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
 
 ## Location Description
-
 <!-- LEAVE THIS BLANK FOR NOW -->
 
 # Sublocation
+
 [Palatine Hill]({{<relref ".">}}) \
 [Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
 
 ## Sublocation Description
-
 <!-- DESCRIPTION -->
 
 # Garden
-Gardens of the House of Augustus, Palatine<!-- List of gardens in province -->
-<!-- May be left blank for now -->
+
+Gardens of the House of Augustus, Palatine
 
 ### Keywords
 
@@ -56,8 +48,8 @@ Gardens of the House of Augustus, Palatine<!-- List of gardens in province -->
 - [topiary](http://vocab.getty.edu/page/aat/300061887)
 - [triclinia](http://vocab.getty.edu/page/aat/300004359)
 
-
 ### Garden Description
+
 This important house, part of the earlier [*domus*](http://vocab.getty.edu/page/aat/300005506) of Hortensius (Vell. Pat. II,81), must have contained important gardens. Although excavations carried out in the 1960s identified remains as the house of the first [*princeps*](https://www.britannica.com/topic/princeps), they revealed few elements connected with the presence of gardens (Fig 1.).
 
 In addition to the [*peristyles*](http://vocab.getty.edu/page/aat/300080971), which likely were planted, a [terrace](http://vocab.getty.edu/page/aat/300004182) called “Syracusae”, where according to Suetonius (Aug. 72) Octavian liked to retire, must have been a pavilion connected with an open green area. Similarly, a [*nymphaeum*](http://vocab.getty.edu/page/aat/300006809), lined with pebbles and shells, in a room that gives onto the western peristyle (Fig. 2) must have been part of a garden arrangement: it has similarities with mosaic fountains associated with gardens in houses at Pompeii.
@@ -70,12 +62,9 @@ In the [House of Livia](https://parcocolosseo.it/en/marvels/the-house-of-livia/)
 
 Finally, both the inventor of the [*ars topiaria*](https://en.wikipedia.org/wiki/Topiary), the art of shaping plants into varied forms by trimming their foliage, [C. Matius](https://en.wikipedia.org/wiki/Gaius_Matius), whom [Pliny](https://en.wikipedia.org/wiki/Pliny_the_Elder) defines as  "divi Augusti amicus" (N.H., 12,1 3), and the inventor of garden painting, Studius (or Ludius) (Pliny N.H., 35,16; Vitr., VII,5,2), were active during the Augustan period, thereby strengthening a connection between the emperor and garden spaces.
 
-
-
-
 ## Dates
-1st century BCE<!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
-<!-- If no date, use "unspecified" -->
+
+1st century BCE
 
 ## Bibliography
 

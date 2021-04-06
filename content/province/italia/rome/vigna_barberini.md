@@ -1,47 +1,43 @@
 ---
 article-type: "province"
-title: "Vigna_barberini"
+title: "Vigna Barberini, Palatine"
 date: 2021-04-04T21:57:14+02:00
 province_id: ITALIA
 author: Françoise Villedieu
 editor: Rhiannon Pare
-draft: true
+draft: false
 ---
 
 # Province
+
 [ITALIA]({{<relref "..">}})\
 [ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
 [ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
-<!--- Content of Province heading --->
 
 ## Province Description
 
-Italia was not considered a province until the reign of Diocletian. The peninsula, however, was divided into administrative regions by Augustus around 7 BCE, according to Pliny's *Naturalis Historia*. Regio I was comprised of Latium and Campania. 
-
+Italia was not considered a province until the reign of Diocletian. The peninsula, however, was divided into administrative regions by Augustus around 7 BCE, according to Pliny's *Naturalis Historia*. Regio I was comprised of Latium and Campania.
 
 # Location
-[Rome]({{<relref ".">}}) \
-[Rome (Pleiades)](https://pleiades.stoa.org/places/108867)
 
-<!-- [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751) -->
+[Rome]({{<relref ".">}}) \
+[Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
 
 ## Location Description
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
 # Sublocation
+
 [Palatine Hill]({{<relref ".">}}) \
 [Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
 
 ## Sublocation Description
 
 <!-- DESCRIPTION -->
 
 # Garden
+
 Gardens of the House of Augustus, Palatine<!-- List of gardens in province -->
 <!-- May be left blank for now -->
 
@@ -52,10 +48,8 @@ Gardens of the House of Augustus, Palatine<!-- List of gardens in province -->
 - [peristyle (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [temple](http://vocab.getty.edu/page/aat/300007595)
 
-
-
-
 ### Garden Description
+
 The artificial [terrace](http://vocab.getty.edu/page/aat/300004182) that now carries the [Barberini family](https://en.wikipedia.org/wiki/Barberini_family) name is located on the northeastern corner of the Palatine, beyond the visible remains of the [Flavian Imperial palace](https://en.wikipedia.org/wiki/Flavian_Palace) (Fig. 1). Excavations carried out during the 1930s by A. Bartoli, and in the 1950s by G. F. Carettoni concentrated primarily on the central area of this site.  These campaigns revealed the foundations of a large temple, which Bartoli identified, consistent with the earlier ideas of P. Bigot, as the remains of the late second-century [Temple of Elagabalus](https://en.wikipedia.org/wiki/Elagabalium).
 
 Recent investigations by the [*Soprintendenza Archeologica*](http://www.sabap-rm-met.beniculturali.it/) in collaboration with [*École française de Rome*](https://www.efrome.it/) have revealed further episodes of the history of the area.  
@@ -63,21 +57,15 @@ Recent investigations by the [*Soprintendenza Archeologica*](http://www.sabap-rm
 Approximately one third of the site has been explored, although the most ancient levels have been reached only sporadically (Fig. 2).  The information gathered during the campaigns carried out annually between 1985 and 1999 are at present being analyzed, with the result that some of the information presented here must be considered provisional.
 The excavations that reached levels prior to the rise of the Empire revealed a peristyle of a large [*domus*](http://vocab.getty.edu/page/aat/300005506) once decorated with plants and basins. Probably destroyed during the 60s of the first century A.D., this luxurious dwelling was then buried under thick layers of soil used to create an artificial terrace that was a grand garden of the [Palace of Domitian](https://en.wikipedia.org/wiki/Palace_of_Domitian).  About a century later, during the last years of the second century, this section of the Imperial palace was demolished to make room for a monumental complex centered around a temple dedicated by the emperor [Heliogabalus](https://en.wikipedia.org/wiki/Elagabalus) to the eastern god, [Elagabalus](https://en.wikipedia.org/wiki/Elagabalus_(deity)), later rededicated by [Severus Alexander](https://en.wikipedia.org/wiki/Severus_Alexander) to Jupiter Ultor.
 
+### Figures
 
+ {{< figure src="../images/vigna_barberini_fig1.jpg" alt="Aerial photograph of the Vigna Barberini" title="Figure 1. Aerial photograph of the Vigna Barberini taken early 1999.." >}}
 
-
- Figure 1. Aerial photograph of the Vigna Barberini taken early 1999.
-
- Figure 2. Vigna Barberini: plan of the areas explored from 1985 to 1998.
-
-
-
-
-
+{{< figure src="../images/vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" title="Figure 2. Vigna Barberini: plan of the areas explored from 1985 to 1998.." >}}
 
 ## Dates
-1st century BCE- 2nd century CE<!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
-<!-- If no date, use "unspecified" -->
+
+1st century BCE- 2nd century CE
 
 ## Bibliography
 
@@ -91,23 +79,10 @@ The excavations that reached levels prior to the rise of the Empire revealed a p
 * J.-P. Morel, “Stratigraphie et histoire sur le Palatin : la zone centrale de la Vigna Barberini,” *Comptes Rendus de l’Académie des Inscriptions & Belles-Lettres*, 1996, pp. 173-205.[(worldcat)](https://www.worldcat.org/title/comptes-rendus-academie-des-inscriptions-belles-lettres/oclc/643571704)
 * F. Villedieu, P. Veltri,  “Les soutènements nord-ouest et nord de la terrasse de la Vigna Barberini (Rome, Palatin): constructions et remaniements de l’époque flavienne à l’époque sévérienne,” *Mélanges de l’École Française de Rome*, 111 (1999), pp. 749-778.[(worldcat)](https://www.worldcat.org/title/melanges-de-lecole-francaise-de-rome-antiquite/oclc/220729070)
 * F. Villedieu , et alii, *Il giardino dei Cesari.* Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001.[(worldcat)](https://www.worldcat.org/title/il-giardino-dei-cesari-dai-palazzi-antichi-alla-vigna-barberini-sul-monte-palatino-scavi-dellecole-francaise-de-rome-1985-1999-guida-alla-mostra/oclc/5894435382)
-<!--
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
-
-### Periodo ID
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
-<!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-### TGN ID
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
-
-<!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
+[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
 ## Contributor
 
@@ -118,6 +93,4 @@ Françoise Villedieu<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
 <!-- [ORCID](https://orcid.org/ORCID) -->
 
 ## Publication date
-15 APRIL 2021<!-- Format: dd MONTH_NAME yyyy -->
-
-<!-- DATE -->
+15 APRIL 2021
