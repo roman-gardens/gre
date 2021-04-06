@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Yuming Huang
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -53,10 +53,10 @@ The triclinium that opened on the W towards the peristyle was bordered on two si
 
 
 ### Maps
-{{< figure src="../images/map_of_hadrementum.jpg" alt="Map of Hadrementum at hadrumetum; rights statement" title="Map: Map of Hadrementum. 1. House of Sorothus, 2. House of the arsenal and House of Vergil, 3. House of the masks, 4. House of the ostriches, 5. Balzan house, 6. House of the satyrs and of the Bacchae, 7. House at the catacomb of the Good Shepherd. (North is at the top; there is no scale.) Adapted from Amplissimae. (Rights statement)" >}}
+
 
 ### Plans
-{{< figure src="../images/plan_of_the_house_of_the_masks.jpg" alt="Plan of the House of the Masks at hadrumetum; rights statement" title="Plan: Plan of the House of the Masks (Rights statement)" >}}
+{{< figure src="../images/House_of_the_Masks_Sousse.jpg" alt="Plan of the House of the Masks at hadrumetum; rights statement" title="Plan: Plan of the House of the Masks (Rights statement)" >}}
 
 ### Images
 <!--

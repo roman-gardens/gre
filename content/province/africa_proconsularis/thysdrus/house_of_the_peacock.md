@@ -10,8 +10,7 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
-  - "Thysdrus"
-  - ""
+
 ---
 
 ## Province
@@ -24,7 +23,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 
 ## Location
-
+[THYSDRUS (El Jem) Tunisia]({{<relref ".">}}) \
 [THYSDRUS (El Jem) Tunisia(Pleiades)](https://pleiades.stoa.org/places/324835)
 
 ### Location Description
@@ -50,9 +49,10 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Peacock (Maison du Paon)
 
 ### Keywords
-
-- [semicircular](http://vocab.getty.edu/page/aat/300263828)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [oeci](http://vocab.getty.edu/page/aat/300080791)
+- [semicircular basin](#)
 
 ### Garden Description
 
@@ -63,19 +63,16 @@ The light well (XXVII, 8.45 x 2.75 m) to the W of the *oecus* was also planted.
 
 
 
-<!--### Maps
+<!--### Maps-->
 
 
-<!--### Plans-->
+### Plans
+{{< figure src="../images/AFR_Thy_Hp_Wjashemski1.jpg" alt="Fig. 1: Plan of the House of the Peacock." title="Fig. 1: Plan of the House of the Peacock. (CMT, Thysdrus, pp. 31-66, plans 3-4)" >}}
 
-
-### Images
-{{< figure src="../images/AFR_Thy_Hp_Wjashemski.jpg" alt="Fig. 1: Plan of the House of the Peacock. Photo courtesy of Wilhelmina F. Jashemski for House of the Peacock." title="Fig. 1: Plan of the House of the Peacock. Photo courtesy of Wilhelmina F. Jashemski for House of the Peacock.(Rights statement)" >}}
-
-
+<!--### Images-->
 ### Dates
 
-the beginning of the IIIrd century.
+Unspecified
 
 ### Bibliography
 

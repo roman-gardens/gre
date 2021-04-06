@@ -10,7 +10,6 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
-  - "Utica"
 
 ---
 
@@ -25,6 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
+[UTICA (Utique)]({{<relref ".">}}) \
 [UTICA (Utique) Tunisia(Pleiades)](https://pleiades.stoa.org/places/315247)
 
 ### Location Description
@@ -58,18 +58,18 @@ The peristyle courtyard is destroyed today, but there is soil in it (View plan, 
 
 
 
-### Maps
+<!--### Maps-->
 
 
 ### Plans
 
-{{< figure src="../images/AFR_Uti_I_Wjashemski.tif" alt="Fig.1: Plan of the of the peristyle, Insula II, lot 4." title="Fig.1: Plan of the of the peristyle, Insula II, lot 4. Photo courtesy of Wilhelmina F. Jashemski." >}}
+{{< figure src="../images/insula_ii_lot_4.jpg" alt="Fig.1: Plan of the of the peristyle, Insula II, lot 4." title="Fig.1: Plan of the of the peristyle, Insula II, lot 4(CMT, pp. 57-66, plans 8). " >}}
 
 <!--### Images-->
 
 ### Dates
 
-the I-II century.
+Unspecified
 
 ### Bibliography
 

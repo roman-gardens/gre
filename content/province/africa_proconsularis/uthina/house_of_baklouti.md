@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Jinyi Yang
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -58,7 +58,7 @@ The peristyle garden enclosed by a portico on four sides had a long basin, which
 
 
 
-<!--### Maps
+<!--### Maps-->
 
 
 <!--### Plans-->
@@ -69,7 +69,7 @@ The peristyle garden enclosed by a portico on four sides had a long basin, which
 
 ### Dates
 
-the II-III century.
+Unspecified
 
 ### Bibliography
 

@@ -8,6 +8,7 @@ editor: Xue Xia
 draft: false
 
 categories:
+  - "Numidia"
 
 tags:
 
@@ -47,14 +48,14 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Warehouse (Maison de l'entrepôt)
 
 ### Keywords
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [semicircular basin]
+- [pool]
 ### Garden Description
-This large house was laid out around two peristyles (A,B) arranged along the N S axis. The plan presents a complex layout notably in the southern part of the domus upon which the excavators did not comment thoroughly (Plan view, Fig. 1).
+This large house was laid out around two peristyles (A,B) arranged along the N S axis. The plan presents a complex layout notably in the southern part of the *domus* upon which the excavators did not comment thoroughly (Plan view, Fig. 1).
 
-The S part of the domus was probably added in a latter period. It presents a peristyle (B) on which a reception room (C) projected and a series of galleries terminating with an apsidal form. The N peristyle (A) had four porticoes, the S gallery was a continuous colonnade that crossed the W and E porticoes. On the N and W, a vestibule and reception rooms opened towards the peristyle (A). A large rectangular basin oriented NS was placed on the axis of the vestibule, which projected into the courtyard. It seems that the S reception room (C) opened also toward the N peristyle (A). Along the NS axis a semi-circular basin projecting into the peristyle (B) and facing a reception room was placed in between the fourth and the fifth columns. The courtyards of the peristyles may have been planted.
+The S part of the *domus* was probably added in a latter period. It presents a peristyle (B) on which a reception room (C) projected and a series of galleries terminating with an apsidal form. The N peristyle (A) had four porticoes, the S gallery was a continuous colonnade that crossed the W and E porticoes. On the N and W, a vestibule and reception rooms opened towards the peristyle (A). A large rectangular basin oriented NS was placed on the axis of the vestibule, which projected into the courtyard. It seems that the S reception room (C) opened also toward the N peristyle (A). Along the NS axis a semi-circular basin projecting into the peristyle (B) and facing a reception room was placed in between the fourth and the fifth columns. The courtyards of the peristyles may have been planted.
 
 ### Maps
 
@@ -63,7 +64,7 @@ The S part of the domus was probably added in a latter period. It presents a per
 -->
 
 ### Plans
-{{< figure src="../images/#" alt="Plan of the House of the Warehouse at Thamugadi; rights statement" title="Fig. 1: Plan of the House of the Warehouse. (Rights statement)" >}}
+{{< figure src="../images/house_of_the_warehouse.jpg" alt="Plan of the House of the Warehouse at Thamugadi; Les mosaïques de Timgad, p. 88, fig. 12" title="Fig. 1: Plan of the House of the Warehouse. (Les mosaïques de Timgad, p. 88, fig. 12)" >}}
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}

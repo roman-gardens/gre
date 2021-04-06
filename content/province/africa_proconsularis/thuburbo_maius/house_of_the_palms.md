@@ -22,8 +22,8 @@ tags:
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
-
-[[THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
+[THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) \
+[THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
 
 ### Location Description
 
@@ -35,8 +35,9 @@ House of the Palms (Maison des Palmes)
 
 ### Keywords
 
-- [portico](http://vocab.getty.edu/page/aat/300004145)
-- [basins](http://vocab.getty.edu/page/aat/300045614)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [semicircular basin]
 - [mosaic](http://vocab.getty.edu/page/aat/300015342)
 
 ### Garden Description
@@ -47,7 +48,7 @@ A semicircular basin was installed at a later date over the mosaic in the NW por
 
 ### Images
 
-{{< figure src="../images/IMAGE.EXT" alt="ALT_TEXT" title="TITLE" >}}
+{{< figure src="../images/#" alt="Plan of the House of the Palms " title="Fig. 1: Plan of the House of the Palms " >}}
 
 ### Dates
 

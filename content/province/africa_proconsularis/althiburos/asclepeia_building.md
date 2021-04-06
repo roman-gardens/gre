@@ -1,11 +1,11 @@
 ---
-title: "Asclepeia Building"
+title: "Asclepieia Building"
 date: 2020-10-01T07:38:05-07:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Yuming Huang
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -42,7 +42,7 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- DESCRIPTION -->
 
 ## Garden
-Asclepeia Building (Edifice des Asclepeia)
+Asclepieia Building (Edifice des Asclepieia)
 
 ### Keywords
 <!-- [urban villas](#) -->
@@ -71,7 +71,7 @@ During the third stage dated to the beginning of the second half of the fourth c
 -->
 
 ### Plans
-{{< figure src="../images/asclepeia_building_plan.jpg" alt="Plan of the Asclepeia Building at althiburos; rights statement" title="Plan: Plan of the Asclepeia Building (Rights statement)" >}}
+{{< figure src="../images/Askleipeia_Building1.jpg" alt="Plan of the Asclepieia Building at althiburos; rights statement" title="Plan: Plan of the Asclepieia Building (Rights statement)" >}}
 
 ### Images
 

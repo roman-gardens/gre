@@ -3,14 +3,14 @@ title: "House of the Dolphins (Maison des dauphins)"
 date: 2020-09-29T09:49:36-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: [ "Wilhelmina F. Jashemski", "Amina-Aïcha Malek" ]
+author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
 editor: Jinyi Yang
 draft: false
 
 categories:
   - "Africa Proconsularis"
 tags:
- - "Thysdrus"
+ 
 ---
 
 ## Province
@@ -23,7 +23,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 
 ## Location
-
+[THYSDRUS (El Jem) Tunisia]({{<relref ".">}}) \
 [THYSDRUS (El Jem) Tunisia(Pleiades)](https://pleiades.stoa.org/places/324835)
 
 ### Location Description
@@ -50,32 +50,31 @@ House of the Dolphins (Maison des dauphins)
 
 ### Keywords
 
-- [column](http://vocab.getty.edu/page/aat/300001571)
-- [porticos](http://vocab.getty.edu/page/aat/300004145)
-- [aedicula](http://vocab.getty.edu/page/aat/300002574)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [lararia](http://vocab.getty.edu/page/aat/300400600)
+- [oeci](http://vocab.getty.edu/page/aat/300080791)
+- [semicircular basin](#)
 
 ### Garden Description
 
-The vast house (3000-3500 m2) is laid out around a large peristyle garden (Plan view, Fig.1).  The large sunken garden (X, 16 x 16.25 m) was enclosed by a low wall (0.70 m high) and had a large semicircular basin (dia. 3.10 m) between the fifth and the sixth column facing a reception room (XXV). A rectangular *aedicula* with four columns facing the *oecus* (XXXVII) extended in the garden on the W.
+The vast house (3000-3500 m2) is laid out around a large peristyle garden (Plan view, Fig.1). The large sunken garden (X, 16 x 16.25 m) was enclosed by a low wall (0.70 m high) and had a large semicircular basin (dia. 3.10 m) between the fifth and the sixth column facing a reception room (XXV). A rectangular *aedicula* with four columns facing the *oecus* (XXXVII) extended in the garden on the W.
 
-	Two lararia  (32 B, XXXV) open off of porticos XI and XIII respectively.
-
-
+Two lararia  (32 B, XXXV) open off of porticos XI and XIII respectively.
 
 
-<!--### Maps
 
 
-<!--### Plans-->
+<!--### Maps-->
 
+### Plans
+{{< figure src="../images/AFR_Thy_Hd_Wjashemski.jpg" alt="Fig. 1: House of the Dolphins." title="Fig. 1: House of the Dolphins. (CMT, Thysdrus, p. 67-75, plans 5-6)" >}}
 
-### Images
-{{< figure src="../images/AFR_Thy_Hd_Wjashemski.jpg" alt="Fig. 1: House of the Dolphins. Photo courtesy of Wilhelmina F. Jashemski for House of the Dolphins." title="Fig. 1: House of the Dolphins. Photo courtesy of Wilhelmina F. Jashemski for House of the Dolphins.(Rights statement)" >}}
-
+<!--### Images-->
 
 ### Dates
 
-the beginning of the IIIrd century.
+Unspecified
 
 ### Bibliography
 

@@ -5,7 +5,7 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Xue Xia
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -50,7 +50,7 @@ House of Dionysos
 ### Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [pool](#)
 
 ### Garden Description
  In this very damaged house, a portico on four sides (IV-VII) enclosed a court (VIII) (8 x 11.10 m), which was planted during the building’s second phase dated at the fourth/early fifth century. The northeast and southwest porticos had four columns and the northwest and southeast had five columns.
@@ -64,7 +64,7 @@ House of Dionysos
 -->
 
 ### Plans
-{{< figure src="../images/AFR_Car_Hd_Amalek.jpg" alt="Plan of the House of Dionysos at Karthago; rights statement" title="Fig. 1: Plan of the House of Dionysos. (Rights statement)" >}}
+{{< figure src="../images/AFR_Car_Hd_Amalek.jpg" alt="Plan of the House of Dionysos at Karthago; rights statement" title="Fig. 1: Plan of the House of Dionysos. (*CMT*, KARTHAGO, plan 5)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->

@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Yuming Huang
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -55,7 +55,7 @@ On the south of the peristyle was another courtyard with a portico of three colu
 
 
 
-### Maps
+<!--### Maps-->
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}

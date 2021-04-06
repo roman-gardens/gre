@@ -10,8 +10,7 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
-  - ""
-  - ""
+
 ---
 
 ## Province
@@ -25,6 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
+[UTICA (Utique)]({{<relref ".">}}) \
 [UTICA (Utique) Tunisia(Pleiades)](https://pleiades.stoa.org/places/315247)
 
 ### Location Description
@@ -61,19 +61,18 @@ This house is the most important dwelling discovered to date at Utica. The large
 
 
 
-### Maps
+<!--### Maps-->
+
+### Plans
+{{< figure src="../images/AFR_Uti_Hgo_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the Grand Oecus." title="Fig.1: Plan of the House of the Grand Oecus(CMT, pp. 1-18, plans 1, 2). " >}}
+
+<!--### Images-->
 
 
-<!--### Plans-->
-
-
-### Images
-
-{{< figure src="../images/AFR_Uti_Hgo_Wjashemski.tif" alt="Fig.1: Plan of the House of the Grand Oecus." title="Fig.1: Plan of the House of the Grand Oecus. Photo courtesy of Wilhelmina F. Jashemski." >}}
 
 ### Dates
 
-the I-II century.
+The house is dated to the I-II c.
 
 ### Bibliography
 

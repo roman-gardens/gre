@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_UNKONWN
 editor: Yuming Huang
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -64,7 +64,7 @@ Another possible garden was adjacent to the reception room of the northern aisle
 -->
 
 ### Plans
-{{< figure src="../images/house_of_the_triumph_of_neptune_plan.jpg" alt="Plan of the House of Neptune at acholla; rights statement" title="Plan: Plan of the House of Neptune (Rights statement)" >}}
+{{< figure src="../images/House_the_Triumph_of_Neptune.jpg" alt="Plan of the House of Neptune at acholla; rights statement" title="Plan: Plan of the House of Neptune (Rights statement)" >}}
 
 ### Images
 

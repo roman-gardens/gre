@@ -10,8 +10,7 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
-  - "Thysdrus"
-  - ""
+
 ---
 
 ## Province
@@ -24,7 +23,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 
 ## Location
-
+[THYSDRUS (El Jem) Tunisia]({{<relref ".">}}) \
 [THYSDRUS (El Jem) Tunisia(Pleiades)](https://pleiades.stoa.org/places/324835)
 
 ### Location Description
@@ -50,8 +49,10 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Lucius Verus
 
 ### Keywords
-
-- [peristyle](http://vocab.getty.edu/page/aat/300005452)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [euripus](#)
+- [semicircular basin](#)
 
 ### Garden Description
 
@@ -60,24 +61,24 @@ The house was laid out around a large persityle garden of twenty-two columns (20
 
 
 
-### Maps
+<!--### Maps-->
 
 
-<!--### Plans-->
+### Plans
+{{< figure src="../images/House_Lucius_verus1.jpg" alt="Fig. 1: Plan of the House of Lucius Verus." title="Fig. 1: Plan of the House of Lucius Verus. (Afrique dans l'Occident romain, p. 191, fig. 8)" >}}
 
-
-### Images
-
-{{< figure src="../images/AFR_Thy_Hlv_Wjashemski.jpg" alt="Fig. 1: Plan of the House of Lucius Verus. Photo courtesy of Wilhelmina F. Jashemski." title="Fig. 1: Plan of the House of Lucius Verus. Photo courtesy of Wilhelmina F. Jashemski.(Rights statement)" >}}
+<!--### Images-->
 
 ### Dates
 
-the beginning of the IIIrd century.
+Unspecified
 
 ### Bibliography
 
-* H. SLIM, "Thysdrus, une des plus grarndes villes romaines d'Afrique", in *Dossiers archéologiques, 69*, 1983, p. 52-61; "La maison du portrait de Lucius Verus à El Jem," BSAF, 1990, p.87-88; [(worldcat)](http://www.worldcat.org/oclc/473121908)
-* "Le modèle urbain romain et le problème de l'eau dans les confins Sahel et de la Basse Steppe", in *Afrique dans l'Occident romain (1er Siècle av. J.-C.- IV siècls ap. J.-C.) *Actes du Colloque, Rome, décembre 1987, Rome, 1990, p. 190-192; El Jem, Ancient Thrysdrus, Tunis, 1996, p. 75-76; [(worldcat)](http://www.worldcat.org/oclc/1091934056)
+* H. SLIM, "Thysdrus, une des plus grandes villes romaines d'Afrique", in *Dossiers archéologiques, 69*, 1983, p. 52-61;
+* "La maison du portrait de Lucius Verus à El Jem," BSAF, 1990, p.87-88; [(worldcat)](http://www.worldcat.org/oclc/473121908)
+* "Le modèle urbain romain et le problème de l'eau dans les confins Sahel et de la Basse Steppe", in *Afrique dans l'Occident romain* (1er Siècle av. J.-C.- IV siècls ap. J.-C.) Actes du Colloque, Rome, décembre 1987, Rome, 1990, p. 190-192;
+* El Jem, Ancient Thrysdrus, Tunis, 1996, p. 75-76; [(worldcat)](http://www.worldcat.org/oclc/1091934056)
 * Commission d'Afrique du Nord 2/2/90 BCTH[(worldcat)](http://www.worldcat.org/oclc/836611377)
 * Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003,p.309-312. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
