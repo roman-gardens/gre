@@ -8,6 +8,7 @@ editor: Xue Xia
 draft: false
 
 categories:
+  - "Numidia"
 
 tags:
 
@@ -48,9 +49,8 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Planters (Maison aux jardinières)
 
 ### Keywords
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
 - [water wells](http://vocab.getty.edu/page/aat/300152327)
 
 ### Garden Description
@@ -64,16 +64,16 @@ House of the Planters (Maison aux jardinières)
 -->
 
 ### Plans
-{{< figure src="../images/TIMGAD1.jpg" alt="Plan of the House of the Planters at Thamugadi; rights statement" title="Fig. 1: Plan of the House of the Planters. (Rights statement)" >}}
+{{< figure src="../images/house_of_the_planters1.jpg" alt="Plan of the House of the Planters at Thamugadi; Timgad : une cité africaine sous l'Empire romain, p. 88-92, Plan fig.40" title="Fig. 1: Plan of the House of the Planters. (Timgad : une cité africaine sous l'Empire romain, p. 88-92, Plan fig.40)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images
-{{< figure src="../images/#" alt="Drawing by A Ballu of the courtyard of the House of the Planters at Thamugadi; rights statement" title="Fig. 2: Drawing by A Ballu of the courtyard of the House of the Planters (Rights statement)" >}}
+{{< figure src="../images/house_of_the_planters_drawing.jpeg" alt="Drawing by A Ballu of the courtyard of the House of the Planters at Thamugadi; rights statement" title="Fig. 2: Drawing by A Ballu of the courtyard of the House of the Planters (Rights statement)" >}}
 
-{{< figure src="../images/#" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi; rights statement" title="Fig. 3 Photographic view of the courtyard of the House of the Planters (WFJ). (Rights statement)" >}}
-
+<!--{{< figure src="../images/#" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi; rights statement" title="Fig. 3 Photographic view of the courtyard of the House of the Planters (WFJ). (Rights statement)" >}}
+-->
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
@@ -83,6 +83,7 @@ Unspecified
 
 ### Bibliography
 * A. Ballu, *Les ruines de Timgad (Antique Thamugadi)*, Paris, 1897, p. 224-226, plan fig. 36. S. [(worldcat)](http://www.worldcat.org/oclc/1055093825)
+* E. Boeswillwald, R. Cagnat, A. Ballu, Timgad : une cité africaine sous l'Empire romain, Paris, Leroux, 1905, p. 88-92, Plan fig.40.[(worldcat)](http://www.worldcat.org/oclc/156040038)
 * S. Germain, *Les mosaïques de Timgad*, Paris, 1969, p. 37. [(worldcat)](http://www.worldcat.org/oclc/643640586)
 
 <!--#### Periodo ID-->

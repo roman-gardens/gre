@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Yuming Huang
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -61,8 +61,7 @@ The triclinium was bordered on two sides by two apartments that each had rooms a
 -->
 
 ### Plans
-Fig. 1: Plan of the House of the Muses
-{{< figure src="../images/house_of_the_muses_plan.jpg" alt="Plan of the House of the Muses at althiburos; rights statement" title="Plan: Plan of the House of the Muses (Rights statement)" >}}
+{{< figure src="../images/Althuburos_House_of_the_Muses.jpg" alt="Plan of the House of the Muses at althiburos; rights statement" title="Fig. 1: Plan of the House of the Muses (Rights statement)" >}}
 
 ### Images
 

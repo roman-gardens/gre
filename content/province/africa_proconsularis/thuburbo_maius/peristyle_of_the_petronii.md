@@ -22,7 +22,7 @@ tags:
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
-
+[THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) \
 [[THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
 
 ### Location Description
@@ -41,10 +41,10 @@ Peristyle of the Petronii
 
 The courtyard of this large peristyle to the NE of the Summer Baths, dedicated by Petronius and his sons, may have been planted with avenues of trees as recommended by Vitruvius, and as in the Palaetra at Pompeii (Pan view, Fig. 1).
 
-### Maps
-
+### Plan
+{{< figure src="../images/peristyle_des_petronii_plan.jpg" alt="Plan of the Peristyle of the Petronii " title="Fig. 1: Plan of the Peristyle of the Petronii " >}}
 ### Images
-
+{{< figure src="../images/peristyle_des_petronii_detail.jpg" alt="Detail Plan of the Peristyle of the Petronii " title="Fig. 2: Detail Plan of the Peristyle of the Petronii " >}}
 ### Dates
 
 ### Bibliography

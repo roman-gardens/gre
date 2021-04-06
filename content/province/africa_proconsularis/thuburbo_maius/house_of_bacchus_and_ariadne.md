@@ -22,7 +22,7 @@ tags:
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
-
+[THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) \
 [THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
 
 ### Location Description
@@ -35,19 +35,17 @@ The city occupies the slopes of a hill in a fertile grain producing area about 5
 House of Bacchus and Ariadne (Maison de Bacchus et Ariane)
 
 ### Keywords
-
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [insula](http://vocab.getty.edu/page/aat/300000325)
-- [peristyle (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
 - [mosaic](http://vocab.getty.edu/page/aat/300015342)
 - [triclinium](http://vocab.getty.edu/page/aat/300004359)
-- [basins](http://vocab.getty.edu/page/aat/300045614)
+- [semicircular basin]
 - [root cavities]
 - [pipe]
 - [pool]
 - [fountain]
 - [pits]
-- [lapilli]
 
 ### Garden Description
 
@@ -73,8 +71,11 @@ We next consider the identity of the many smaller roots.  Since this garden was 
 
 ### Images
 
-{{< figure src="../images/AFR_Thub_Hba_malek fig1.jpg" alt="Fig. 1: Plan of the House of Bacchus and Ariadne" title="Fig. 1: Plan of the House of Bacchus and Ariadne" >}}
+{{< figure src="../images/AFR_Thub_Hba_malek fig1.jpg" alt="Fig. 1: Plan of the House of Bacchus and Ariadne" title="Fig. 1: Plan of the House of Bacchus and Ariadne(L'eau Dans Les Villes Du Maghreb Et Leur Territoire À L'époque Romaine, p. 236, fig. 1)" >}}
 
+{{< figure src="../images/House_of_Bacchus_and_Ariadne_Detail_Plan.jpg" alt="Detail Plan of the House of Bacchus and Ariadne" title="Detail Plan of House of Bacchus and Ariadne(L'eau Dans Les Villes Du Maghreb Et Leur Territoire À L'époque Romaine, p. 23, fig. 3)" >}}
+
+{{< figure src="../images/House_of_Bacchus_and_Ariadne_Drawing.jpg" alt="Drawing of the House of Bacchus and Ariadne" title="Drawing of the House of Bacchus and Ariadne(L'eau Dans Les Villes Du Maghreb Et Leur Territoire À L'époque Romaine, p. 238, fig. 4)" >}}
 <!--convert photos to jpeg-->
 
 ### Dates
@@ -87,6 +88,8 @@ Fifth Century
 *  W. Jashemski, “Roman Gardens in Tunisia: Preliminary Excavations in the House of Bacchus and Ariadne and in the East Temple at Thuburbo Maius,” *AJA* 99 (1995) 559-76’
 *  R Lantier, “Un bassin a mosaiques de Thurburbo Majus, *BAC* 1944, 280-82 [Bibliothèque nationale de France](https://gallica.bnf.fr/ark:/12148/bpt6k62947017/f290.item#)
 *  Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003, p.214-217. [Worldcat](http://www.worldcat.org/oclc/989088620)
+* Hurlet, Frédéric, and Véronique Brouquier-Reddé. L'eau Dans Les Villes Du Maghreb Et Leur Territoire À L'époque Romaine. , 2018, pp.236-238, fig. 1, 3, 4.[(Worldcat)](http://www.worldcat.org/oclc/1078217356)
+
 
 #### Pleiades_ID
 

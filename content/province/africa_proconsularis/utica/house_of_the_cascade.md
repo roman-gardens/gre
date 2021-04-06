@@ -10,8 +10,7 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
-  - ""
-  - ""
+
 ---
 
 ## Province
@@ -25,6 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
+[UTICA (Utique)]({{<relref ".">}}) \
 [UTICA (Utique) Tunisia(Pleiades)](https://pleiades.stoa.org/places/315247)
 
 ### Location Description
@@ -72,13 +72,13 @@ Opening off of the *triclinium* to the S was a smaller area enclosed by a portic
 
 
 ### Images
-{{< figure src="../images/AFR_Uti_Hc_Wjashemski.jpg" alt="Fig. 1: Plan of the House of the Cascade. Photo courtesy of Wilhelmina F. Jashemski for House of the Cascade." title="Fig. 1: Plan of the House of the Cascade. Photo courtesy of Wilhelmina F. Jashemski for House of the Cascade.(Rights statement)" >}}
+{{< figure src="../images/AFR_Uti_Hc_Wjashemski1.jpg" alt="Fig. 1: Plan of the House of the Cascade." title="Fig. 1: Plan of the House of the Cascade. (CMT, pp. 19-56, plan 5,7)" >}}
 
 
 
 ### Dates
 
-the I-II century.
+The house is dated to the I-IIc.
 
 ### Bibliography
 

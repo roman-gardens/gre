@@ -5,7 +5,7 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Xue Xia
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -67,7 +67,7 @@ House of the Nymphs (Maison des Nymphes)
 -->
 
 ### Plans
-{{< figure src="../images/AFR_Nea_Hn_Amalekfig1.jpg" alt="Plan of the House of the Nymphs at Neapolis; rights statement" title="Fig.1: Plan of the House of the Nymphs. (Rights statement)" >}}
+{{< figure src="../images/afr_nea_hn_amalekfig1.jpg" alt="Plan of the House of the Nymphs at Neapolis; rights statement" title="Fig.1: Plan of the House of the Nymphs. (Rights statement)" >}}
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
@@ -75,12 +75,15 @@ House of the Nymphs (Maison des Nymphes)
 
 ### Images
 
-{{< figure src="../images/AFR_Nea_Hn_Amalekphotofig2.jpg" alt="Photographic view of the gardenat Neapolis; rights statement" title="Fig.2: Photographic view of the garden. (Rights statement)" >}}
+{{< figure src="../images/afr_nea_hn_amalekphotofig2.jpg" alt="Photographic view of the gardenat Neapolis; rights statement" title="Fig.2: Photographic view of the garden. (Rights statement)" >}}
+
+{{< figure src="../images/Detail_of_the_pool_with_inscription.jpg" alt="Detail of the pool with inscription; rights statement" title="Fig.2: Detail of the pool with inscription. (Gardens of the Roman Empire)" >}}
 
 ### Dates
 Unspecified
 
 ### Bibliography
+* Malek, Amina-Aïcha, Kathryn L. Gleason, and Wilhelmina F. Jashemski. Gardens of the Roman Empire. , 2018.[(worldcat)](http://www.worldcat.org/oclc/1036265637)
 * J.P. Darmon, *Nymfarum domus, Les pavements de la maison des Nymphes à Néapolis (Nabeul, Tunisie) et leur lecture*, Leiden, 1980, p. 9, pp. 85-6 et p. 146. [(worldcat)](http://www.worldcat.org/oclc/797872994)
 * A.-A. Malek, "Entre jardin et mosaïque ": La verticalité et le merveilleux dans la vie quotidienne, in *La Maison Gréco-romaine IX*, Collection de l'Ecole Française de Rome n°352, Rome, 2005, p. 1335-1346. [(worldcat)](http://www.worldcat.org/oclc/109642973)
 * Bullo, S. and F. Ghedini, Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman, Rome: Edizioni Quasar, 2003, p. 179-182. [(worldcat)](http://www.worldcat.org/oclc/989088620)

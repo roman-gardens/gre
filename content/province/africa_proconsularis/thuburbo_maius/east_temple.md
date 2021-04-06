@@ -22,8 +22,8 @@ tags:
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
-
-[[THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
+[THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) \
+[THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
 
 ### Location Description
 
@@ -50,13 +50,14 @@ A strip of soil bordered most of the long sides of the temple and the mosaic pav
 
 ### Images
 
-{{< figure src="../images/AFR_Thub_Et_Wjashemski.jpg" alt="ALT_TEXT" title="TITLE" >}}
+{{< figure src="../images/East_temple_Plan.jpg" alt="Plan of the East Temple" title="Fig. 1: Plan of the East Temple(CMT, Thuburbo  Majus,  Les  mosaïques  de  la  région Est,  V.  II,  fasc.4, plan 1-2)" >}}
 
 ### Dates
+Unspecified
 
 ### Bibliography
-
-*  CMT, *Thuburbo  Majus,  Les  mosaïques  de  la  région Est*,  V.  II,  fasc.4,INA, Tunis, 1994, pp. 1-4, plan 1-2. [Worldcat](http://www.worldcat.org/oclc/71513636)
+* A.-A. Malek, « Le jardin dans les sanctuaires du Maghreb romain, premières approches », Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine, V. Brouquier Reddé, Fr. Baratte, E. Rocca (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, p. 213-230. [(Worldcat)](http://www.worldcat.org/oclc/1085352690)    
+*  CMT, *Thuburbo  Majus,  Les  mosaïques  de  la  région Est*,  V.  II,  fasc.4,INA, Tunis, 1994, pp. 1-4, plan 1-2. [(Worldcat)](http://www.worldcat.org/oclc/71513636)
 
 #### Pleiades_ID
 

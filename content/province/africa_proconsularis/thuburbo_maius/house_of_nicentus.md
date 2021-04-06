@@ -22,8 +22,8 @@ tags:
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
-
-[[THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
+[THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) \
+[THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
 
 ### Location Description
 
@@ -34,10 +34,10 @@ The city occupies the slopes of a hill in a fertile grain producing area about 5
 House of Nicentus (Maison de Nicentus)
 
 ### Keywords
-
-- [porticos](http://vocab.getty.edu/page/aat/300004145)
-- [basins](http://vocab.getty.edu/page/aat/300045614)
-- [oecus]
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [semicircular basin]
+- [oeci](http://vocab.getty.edu/page/aat/300080791)
 - [mosaic](http://vocab.getty.edu/page/aat/300015342)
 - [putti]
 
@@ -45,13 +45,13 @@ House of Nicentus (Maison de Nicentus)
 
 The house is adjacent to the E angle of the Forum at the back of the Curia.
 
-It was laid out around a peristyle garden (VII- X- VI) of 12 columns (Plan view, Fig. 1). A low wall separated the porticos from the garden. Two semicircular pools projected into the garden; they were located in the axis of two reception rooms. The largest of the pools faced the oecus (XIV); its bottom was paved with a fish mosaic and the inside depicted putti boating and swimming. The second basin on the SE side faced room XI.
+It was laid out around a peristyle garden (VI-X) of 12 columns (Plan view, Fig. 1). A low wall separated the porticos from the garden. Two semicircular pools projected into the garden; they were located in the axis of two reception rooms. The largest of the pools faced the oecus (XIV); its bottom was paved with a fish mosaic and the inside depicted putti boating and swimming. The second basin on the SE side faced room XI.
 
 ### Maps
 
 ### Images
 
-{{< figure src="../images/AFR_Thub_Hn_Wjashemski.jpg" alt="ALT_TEXT" title="TITLE" >}}
+{{< figure src="../images/AFR_Thub_Hn_Wjashemski1.jpg" alt="Plan of the House of Nicentus" title="Fig. 1: Plan of the House of Nicentus ( CMT, Thuburbo  Majus, V.  II,  fasc.1,  pp. 39-52, plan 10-11)" >}}
 
 ### Dates
 
