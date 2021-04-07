@@ -7,7 +7,7 @@ editor: Yvette Pollack
 draft: false
 
 categories:
- - "Gallia_narbonensis"
+ - "Gallia Narbonensis"
 ---
 
 ### Province

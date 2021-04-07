@@ -9,8 +9,6 @@ draft: false
 
 categories:
  - "Gallia"
- - "MEDIOLANUM AULERCORUM"
- - "Evreux"
 
 tags:
   - "House on the rue de la Harpe ( Domus rue de la Harpe)"

@@ -10,6 +10,7 @@ draft: false
 categories:
  - "Gallia"
  - "Gallia Lugdunensis"
+ 
 tags:
   - "House with Pilasters"
   - "Clos du Verbe Incarné"

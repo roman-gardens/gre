@@ -9,9 +9,8 @@ draft: false
 
 categories:
  - "Gallia"
- - "BELGICA"
- - "Nennig"
-
+ - "Belgica"
+ 
 tags:
   - "Rural Villa"
 ---

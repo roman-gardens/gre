@@ -7,13 +7,13 @@ editor: Yvette Pollack
 draft: false
 
 categories:
- - "Gallia_narbonensis"
+ - "Gallia Narbonensis"
 ---
 
 ### Province
 
-[Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis (Pleiades)](https://pleiades.stoa.org/places/981537)
+[Gallia Narbonensis]({{<relref "..">}}) \
+[Gallia Narbonensis (Pleiades)](https://pleiades.stoa.org/places/981537)
 
 <!-- ### Province Description -->
 

@@ -9,8 +9,7 @@ draft: false
 
 categories:
  - "Gallia"
- - "BELGICA"
- - "Liéhon"
+ - "Belgica"
 
 tags:
   - "Villa de Larry"

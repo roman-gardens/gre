@@ -9,8 +9,6 @@ draft: false
 
 categories:
  - "Gallia"
- - "CHATILLION-SUR-SEICHE"
- - "NOYAL"
 
 tags:
   - "Villa de Châtillon-sur-Seiche"

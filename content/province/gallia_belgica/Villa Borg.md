@@ -9,8 +9,7 @@ draft: false
 
 categories:
  - "Gallia"
- - "BELGICA"
- - "BAD DURKHEIM-UNGSTEIN"
+ - "Belgica"
 
 tags:
   - "Villa Borg"

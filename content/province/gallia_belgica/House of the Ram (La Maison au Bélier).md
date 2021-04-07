@@ -9,8 +9,7 @@ draft: false
 
 categories:
  - "Gallia"
- - "BELGICA"
- - "Durocortorum"
+ - "Belgica"
 
 tags:
   - "House of the Ram (La Maison au Bélier)"

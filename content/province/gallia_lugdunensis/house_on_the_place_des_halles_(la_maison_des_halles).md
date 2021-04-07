@@ -9,8 +9,6 @@ draft: false
 
 categories:
  - "Gallia"
- - "VINDINUM"
- - "Le Mans"
 
 tags:
   - "House on the Place des Halles (La maison des Halles)"

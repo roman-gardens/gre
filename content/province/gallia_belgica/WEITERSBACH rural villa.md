@@ -9,8 +9,7 @@ draft: false
 
 categories:
  - "Gallia"
- - "BELGICA"
- - "WELSCHBILLIG"
+ - "Belgica"
 
 tags:
   - "Rural Villa"
