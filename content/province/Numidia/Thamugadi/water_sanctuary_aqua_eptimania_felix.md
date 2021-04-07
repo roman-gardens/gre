@@ -1,5 +1,5 @@
 ---
-title: "Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)"
+title: "Water Sanctuary Aqua Eptimanias Felix (Sanctuaire des eaux)"
 date: 2020-11-13T10:39:31-07:00
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
@@ -8,6 +8,7 @@ editor: Xue Xia
 draft: false
 
 categories:
+  - "Numidia"
 
 tags:
 
@@ -49,8 +50,9 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 
 ### Keywords
 - [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [viridarium](#)
+- [temple]
+- [sanctuary]
 
 ### Garden Description
  The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of the city. An inscription that was discovered during the Byzantine fort excavations enumerates the embellishments that were undertaken in 213 by the city of Timgad for the sanctuary, Aqua Septimania Felix: one of which, a bronze balustrade surrounding the spring (a pool with marble slabs of 3,6 m x 13, 60 m) and a *viridarium* surrounded by porticoes decorated with paintings (*porticus virdiari (sic) picturis ornatas*). But the central space of the vast porticoed monument discovered to the North of the fort is paved, this has lead L. Leschi, in order to explain the *viridarium* designation, to consider that the paintings of the porticoes were garden paintings.
@@ -63,7 +65,7 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 -->
 
 ### Plans
-{{< figure src="../images/#" alt="Plan view of the city at Thamugadi; rights statement" title="Fig. 1: Plan view of the city. (Rights statement)" >}}
+{{< figure src="../images/water_sanctuary _aqua_eptimania_felix1.jpg" alt="Plan of Water Sanctuary Aqua Eptimanias Felix at Thamugadi; rights statement" title="Fig. 1: Plan of Water Sanctuary Aqua Eptimanias Felix at Thamugadi. (Du Culte Aux Sanctuaires : L'architecture Religieuse Dans L'afrique Romaine Et Byzantine : Actes Du Colloque, p. 362, fig. 12)" >}}
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
@@ -78,6 +80,7 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 Unspecified
 
 ### Bibliography
+* Malek, Amina-Aïcha. "Le Jardin Dans Les Sanctuaires De L'afrique Romaine: Premières Approches." Du Culte Aux Sanctuaires : L'architecture Religieuse Dans L'afrique Romaine Et Byzantine : Actes Du Colloque, 18-19 Avril 2013, Paris, Fondation Simone Et Cino Del Duca... -. (2018), p. 362, fig. 12. [(worldcat)](http://www.worldcat.org/oclc/1201712466)
 * L. LESCHI, Découvertes récentes à Timgad: Aqua Septimania Felix, CRAI, 1947, p. 87-99. [(worldcat)](http://www.worldcat.org/oclc/4649794390)
 * L. LESCHI, Etudes d'épigraphie, d'archéologie et d'histoire africaines, Paris, 1957, pp. 240-45, ici p. 242. [(worldcat)](http://www.worldcat.org/oclc/78689255)
 * J. LASSUS, La forteresse byzantine de Thamugadi, Fouilles à Timgad, 1938-1956, Paris, 1981, plan p. 25, fig. 9, pp. 215-17, fig. 174-76. [(worldcat)](http://www.worldcat.org/oclc/906459184)

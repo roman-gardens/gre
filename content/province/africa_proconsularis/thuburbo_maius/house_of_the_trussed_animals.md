@@ -22,8 +22,8 @@ tags:
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
-
-[[THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
+[THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) \
+[THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
 
 ### Location Description
 
@@ -34,8 +34,8 @@ The city occupies the slopes of a hill in a fertile grain producing area about 5
 House of the Trussed Animals (Maison des animaux liés)
 
 ### Keywords
-
-- [peristyle (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [triclinium](http://vocab.getty.edu/page/aat/300004359)
 - [oecus](http://vocab.getty.edu/page/aat/300080791)
 - [cubicula](http://vocab.getty.edu/page/aat/300004367)
@@ -48,7 +48,7 @@ The house of the Trussed Animals is bordered on the E by the Baths of the Capito
 
 ### Images
 
-{{< figure src="../images/AFR_Thub_Hta_Wjashemski.jpg" alt="ALT_TEXT" title="TITLE" >}}
+{{< figure src="../images/AFR_Thub_Hta_Wjashemski.jpg" alt="Plan of the House of Trussed Animals" title="Fig. 1: Plan of the House of Trussed Animals(CMT, p. 91-108, plan 21, 22)" >}}
 
 ### Dates
 
@@ -56,7 +56,8 @@ The house is dated from the beginning of the IIIrd century.
 
 ### Bibliography
 
-*  CMT,  *Thuburbo  Majus,  Les  mosaïques  de  la  région  du  Forum*,  INA,  Tunis, 1980, p. 91-108, plan 21, 22; Amplissimae, p.226-227 [Worldcat](http://www.worldcat.org/oclc/23232759)
+*  CMT,  *Thuburbo  Majus,  Les  mosaïques  de  la  région  du  Forum*,  INA,  Tunis, 1980, p. 91-108, plan 21, 22. [Worldcat](http://www.worldcat.org/oclc/23232759)
+*  Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003, p.226-227. [Worldcat](http://www.worldcat.org/oclc/989088620)
 
 #### Pleiades_ID
 

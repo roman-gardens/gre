@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Yuming Huang
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -59,7 +59,7 @@ The house stands on the other side of the Wadi Oum El Abid, on the left bank, 12
 -->
 
 ### Plans
-{{< figure src="../images/house_of_the_fishing_scene_plan.jpg" alt="Plan of the House of the Fishing Scene at althiburos; rights statement" title="Plan: Plan of the House of the Fishing Scene (Rights statement)" >}}
+{{< figure src="../images/house_of_the_fishing_scene1.jpg" alt="Plan of the House of the Fishing Scene at althiburos; rights statement" title="Plan: Plan of the House of the Fishing Scene (Rights statement)" >}}
 
 ### Images
 

@@ -5,7 +5,7 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Xue Xia
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"

@@ -5,7 +5,7 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek, V.Blanc-Bijon
 editor: Xue Xia
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -49,7 +49,7 @@ House of the Salsamenta (Usine de salaison)
 ### Keywords
 - [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [pool](#)
 
 ### Garden Description
  A fish-curing factory located to the SE of the Nymfarum domus was renovated between the IInd and the IIIrd centuries. Among the changes made was the design of a small house organized around a small peristyle garden (4 x 4 m.) (XXII) and bound by a low wall that curved to make a semi-circular basin (Plan view, Fig.1; ).
@@ -65,7 +65,9 @@ House of the Salsamenta (Usine de salaison)
 -->
 
 ### Plans
-{{< figure src="../images/#" alt="Plan of the House of the Salsamenta at Neapolis; rights statement" title="Fig. 1: Plan of the House of the Salsamenta. (Rights statement)" >}}
+{{< figure src="../images/Salsamenta_house_Nabeul_phase_1.jpg" alt="Plan of the House of the Salsamenta at Neapolis Phase 1; rights statement" title="Fig. 1: Plan of the House of the Salsamenta Phase 1. (“L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, *Africa* XVII, 1999, pp. 159-161, fig. 6, 7.)" >}}
+
+{{< figure src="../images/Salsamenta_house_phase_2.jpg" alt="Plan of the House of the Salsamenta at Neapolis Phase 2; rights statement" title="Fig. 2: Plan of the House of the Salsamenta Phase 2. (“L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, *Africa* XVII, 1999, pp. 159-161, fig. 6, 7.)" >}}
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
@@ -73,15 +75,14 @@ House of the Salsamenta (Usine de salaison)
 
 ### Images
 
-{{< figure src="../images/AFR_Nea_Hs_Amalek_fig2.jpg." alt="Rendering of the House of the Salsamenta at Neapolis; rights statement" title="Fig. 2: Rendering of the House of the Salsamenta. (Rights statement)" >}}
+{{< figure src="../images/afr_nea_hs_amalek_fig2.jpg" alt="Rendering of the House of the Salsamenta at Neapolis; rights statement" title="Fig. 3: Rendering of the House of the Salsamenta. (Rights statement)" >}}
 
-{{< figure src="../images/AFR_Nea_Hs_Amalek_fig3.jpg." alt="Photos of the House of the Salsamenta site at Neapolis; rights statement" title="Fig. 3: Photos of the House of the Salsamenta site. (Rights statement)" >}}
+{{< figure src="../images/afr_nea_hs_amalek_fig3.jpg" alt="Photos of the House of the Salsamenta site at Neapolis; rights statement" title="Fig. 4: Photos of the House of the Salsamenta site. (Rights statement)" >}}
 
-{{< figure src="../images/AFR_Nea_Hs_Amalek_fig3.jpg." alt="Photos of the House of the Salsamenta site at Neapolis; rights statement" title="Fig. 3: Photos of the House of the Salsamenta site. (Rights statement)" >}}
+{{< figure src="../images/afr_nea_hs_amalek_fig4.jpg" alt="Photos of the House of the Salsamenta site at Neapolis; rights statement" title="Fig. 5: Photos of the House of the Salsamenta site. (Rights statement)" >}}
 
-{{< figure src="../images/AFR_Nea_Hs_Amalek_fig4.jpg." alt="Photos of the House of the Salsamenta site at Neapolis; rights statement" title="Fig. 4: Photos of the House of the Salsamenta site. (Rights statement)" >}}
+{{< figure src="../images/afr_nea_hs_amalek_fig5.jpg" alt="Photos of the House of the Salsamenta site at Neapolis; rights statement" title="Fig. 6: Photos of the House of the Salsamenta site. (Rights statement)" >}}
 
-{{< figure src="../images/AFR_Nea_Hs_Amalek_fig5.jpg." alt="Photos of the House of the Salsamenta site at Neapolis; rights statement" title="Fig. 5: Photos of the House of the Salsamenta site. (Rights statement)" >}}
 
 ### Dates
 Unspecified

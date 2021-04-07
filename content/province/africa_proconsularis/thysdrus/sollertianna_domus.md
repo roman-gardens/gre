@@ -10,8 +10,7 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
-  - "Thysdrus"
-  - ""
+
 ---
 
 ## Province
@@ -24,7 +23,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 
 ## Location
-
+[THYSDRUS (El Jem) Tunisia]({{<relref ".">}}) \
 [THYSDRUS (El Jem) Tunisia(Pleiades)](https://pleiades.stoa.org/places/324835)
 
 ### Location Description
@@ -51,8 +50,10 @@ Sollertianna Domus
 
 ### Keywords
 
-- [periphery](http://vocab.getty.edu/page/aat/300002523)
-- [colonnade](http://vocab.getty.edu/page/aat/300002613)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [lararia](http://vocab.getty.edu/page/aat/300400600)
+- [semicircular basin](#)
 
 ### Garden Description
 
@@ -63,25 +64,20 @@ A small courtyard garden (XX, 5.60 x 3 m) enclosed on its two sides by a colonna
 
 
 
-<!--### Maps
+<!--### Maps-->
 
+### Plans
+{{< figure src="../images/AFR_Thy_Sd_Wjashemski1.jpg" alt="Fig. 1: Plan of the Sollertianna Domus. Photo courtesy of Wilhelmina F. Jashemski for Sollertianna Domus." title="Fig. 1: Plan of the Sollertianna Domus. Photo courtesy of Wilhelmina F. Jashemski for Sollertianna Domus.(CMT, Thysdrus, pp. 1-11, plans 1-2)" >}}
 
-<!--### Plans-->
-
-
-### Images
-{{< figure src="../images/AFR_Thy_Sd_Wjashemski.jpg" alt="Fig. 1: Plan of the Sollertianna Domus. Photo courtesy of Wilhelmina F. Jashemski for Sollertianna Domus." title="Fig. 1: Plan of the Sollertianna Domus. Photo courtesy of Wilhelmina F. Jashemski for Sollertianna Domus.(Rights statement)" >}}
-
-
-
+<!--### Images-->
 ### Dates
 
-the beginning of the IIIrd century.
+Unspecified
 
 ### Bibliography
 
-* R. Rebuffat, 1969, Althiburos 2; M. Ennaifer, *La cité d’Althiburos et l’édifice des Asclepieia*, INA, Tunis, 1976, p. 64-70, plan II.[(worldcat)](http://www.worldcat.org/oclc/491396075)
-* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003, p. 27-29. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* CMT, Thysdrus, *El Jem, Quartier Sud-Ouest*, INA, Tunis, 1996, pp. 1-11, plans 1-2.[(worldcat)](http://www.worldcat.org/oclc/886543032)
+* Bullo, S. and F. Ghedini, Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman, Rome: Edizioni Quasar, 2003, p. 317-319. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 <!--#### Periodo ID-->
 

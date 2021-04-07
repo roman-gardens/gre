@@ -1,6 +1,6 @@
 ---
 article-type: "province"
-title: "Gardens of the Temple of Claudii Divi, Rome"
+title: "Gardens of the Temple of the Divine Claudius, Palatine"
 date: 2021-02-02T10:57:44-07:00
 province_id: ITALIA
 author: Valerie Aymer
@@ -16,13 +16,12 @@ draft: false
 
 ## Province Description
 
-<!-- DESCRIPTION -->
-
+<!-- LEAVE THIS BLANK FOR NOW -->
 
 # Location
 
 [Rome]({{<relref ".">}}) \
-[Rome (Pleiades)](https://pleiades.stoa.org/places/108867)
+[Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
 
 ## Location Description
 
@@ -32,18 +31,13 @@ draft: false
 [Caelian Hill]({{<relref ".">}}) \
 [Caelian Hill (Pleiades)](https://pleiades.stoa.org/places/695491849)
 
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
 ## Sublocation Description
 
 <!-- DESCRIPTION -->
 
 # Garden
-Gardens of the Temple of Divine Claudius (Roma)<!-- List of gardens in province -->
-<!-- May be left blank for now -->
+
+Gardens of the Temple of Divine Claudius, Palatine
 
 ### Keywords
 
@@ -56,16 +50,16 @@ Gardens of the Temple of Divine Claudius (Roma)<!-- List of gardens in province 
 
 ### Garden Description
 
-The Temple of the Divine Claudius, located on the northern slope of the Caelian Hill, was constructed in multiple phases. The temple is known from the Severan marble plan (Fig. 1) and from archaeological remains.  Agrippina initiated the building of the temple but was murdered before its completion. After the fire of A.D. 64, Nero altered the temple to include it in the [Domus Aurea](https://en.wikipedia.org/wiki/Domus_Aurea) ([Seutonius Vesp. 9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0061%3Alife%3Dves.%3Achapter%3D9%3Asection%3D1);  [Frontinus Aq. 2.76](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Frontinus/De_Aquis/text*.html)). Vespasian completed the temple in A.D. 69.
+The Temple of the Divine Claudius, located on the northern slope of the Caelian Hill, was constructed in multiple phases. The temple is known from the Severan marble plan (Fig. 1) and from archaeological remains.  Agrippina initiated the building of the temple but was murdered before its completion. After the fire of A.D. 64, Nero altered the temple to include it in the [*Domus Aurea*](https://en.wikipedia.org/wiki/Domus_Aurea) ([Seutonius Vesp. 9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0061%3Alife%3Dves.%3Achapter%3D9%3Asection%3D1);  [Frontinus Aq. 2.76](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Frontinus/De_Aquis/text*.html)). Vespasian completed the temple in A.D. 69.
 
-The temple is located on top of a platform (180 x 210 m.) and is situated just off-center to the east. During Nero's reign, the platform upon which the temple stood was converted into a *nymphaeum* as part of the Domus Aurea, which the [Aqua Claudia](https://pleiades.stoa.org/places/423563) supplied. Nero redirected the Aqua Claudia to feed the *stagnum* of the Domus Aurea.  The rectangular and semi-circular niches on the eastern side are best preserved and are visible from the [Via Claudia](https://pleiades.stoa.org/places/688514720). The space between this façade and the platform wall proper is presumably a passage for water. Vespasian restored the temple and Claudius' divinity in A.D. 69 and considerably altered the original structure.   Fragment 5c, now existing only as a Renaissance drawing, depicts the temple as a prostyle, pentastyle temple.  However, most scholars agree that the temple was probably hexastyle.
+The temple is located on top of a platform (180 x 210 m.) and is situated just off-center to the east. During Nero's reign, the platform upon which the temple stood was converted into a *nymphaeum* as part of the Domus Aurea, which the [*Aqua Claudia*](https://pleiades.stoa.org/places/423563) supplied. Nero redirected the Aqua Claudia to feed the *stagnum* of the Domus Aurea.  The rectangular and semi-circular niches on the eastern side are best preserved and are visible from the [Via Claudia](https://pleiades.stoa.org/places/688514720). The space between this façade and the platform wall proper is presumably a passage for water. Vespasian restored the temple and Claudius' divinity in A.D. 69 and considerably altered the original structure.   Fragment 5c, now existing only as a Renaissance drawing, depicts the temple as a prostyle, pentastyle temple.  However, most scholars agree that the temple was probably hexastyle.
 Because these remains are located under the present-day Monastery of the Passionist Fathers, no recent excavation has been possible.  A. M. Colini’s excavations reveal that the four faces of the platform differ significantly.  Under the stairs of the north side was a cistern, presumably remnants of Nero's *nymphaeum*, the water supply for the temple complex.  The south face, as yet unexcavated, should reveal evidence of the Aqua Claudia.
 
 The temple is set within eight L-shaped planting beds and fourteen rectangular planting beds (Fig. 2).  Some scholars considered these forms to be the substructures of the temple complex, while it is also possible that these structures are water features.  However, the majority of scholars believe that these structures are planted rows of trees or shrubs in a *nemus*, similar to the plantings found during the new excavations of the Templum Pacis. The role of Vespasian as sponsor also lends credence to such an interpretation.  Vespasian is credited with building a *quadriporticus* to surround the entire platform and Martial mentions a *porticus* ([Martial Sp. 2.9-10](https://www.thelatinlibrary.com/martial/mart.spec.shtml)), but there is no evidence for the *porticus* on the Marble plan.
 
-
 ## Dates
-1st century CE<!-- If no date, use "unspecified" -->
+
+1st century CE
 
 ## Bibliography
 
@@ -76,23 +70,13 @@ The temple is set within eight L-shaped planting beds and fourteen rectangular p
 * R. Lloyd, "Three Monumental Gardens on the Marble Plan" *American Journal of Archaeology* (1986): 91-100. [(worldcat)](http://www.worldcat.org/oclc/1076135742)
 * K. Gleason and L. Cockerham, "Rus in Urbe: Two Parks of Ancient Rome" *CELA Proceedings*, 1992, pp. 103-12.[(worldcat)](http://www.worldcat.org/oclc/741989882)
 
-<!--
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
-
-### Periodo ID
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ### Pleiades ID
-[Caelian Hill (Pleiades)](https://pleiades.stoa.org/places/695491849)
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
-<!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+[Caelian Hill (Pleiades)](https://pleiades.stoa.org/places/695491849)
 
 ### TGN ID
+
 [7000874](http://vocab.getty.edu/page/tgn/7000874)
-<!-- ID is for Location (Rome), not the individual garden -->
 
 ## Contributor
 
@@ -103,6 +87,4 @@ Valerie Aymer<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
 <!-- [ORCID](https://orcid.org/ORCID) -->
 
 ## Publication date
-<!-- Format: dd MONTH_NAME yyyy -->
-
 <15 APRIL 2021>

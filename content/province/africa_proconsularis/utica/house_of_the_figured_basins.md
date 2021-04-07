@@ -10,8 +10,7 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
-  - ""
-  - ""
+
 ---
 
 ## Province
@@ -25,6 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
+[UTICA (Utique)]({{<relref ".">}}) \
 [UTICA (Utique) Tunisia(Pleiades)](https://pleiades.stoa.org/places/315247)
 
 ### Location Description
@@ -60,23 +60,21 @@ The house was located in the *insula* III. The rectangular courtyard, in the SW 
 
 
 
-### Maps
+<!--### Maps-->
 
 
-<!--### Plans-->
+### Plans
+{{< figure src="../images/house_of_the_figured_basin.jpg" alt="Fig. 1: Plan view of the House of the Figured Basins." title="Fig. 1: Plan view of the House of the Figured Basins(CMT, pp. 121, 126-128, plan 22). " >}}
 
-
-### Images
-
-{{< figure src="../images/AFR_Uti_Hfb_Wjashemski.tif" alt="Fig. 1: Plan view of the House of the Figured Basins." title="Fig. 1: Plan view of the House of the Figured Basins. Photo courtesy of Wilhelmina F. Jashemski." >}}
+<!--### Images-->
 
 ### Dates
 
-the II-IV century.
+The house is dated to the II-IV c.
 
 ### Bibliography
 
-* CMT. *Utique, insulae, I-II-III*, INA, Tunis, 1973, pp. 121, 126-128, plan 23.  [(worldcat)](http://www.worldcat.org/oclc/61828622)
+* CMT. *Utique, insulae, I-II-III*, INA, Tunis, 1973, pp. 121, 126-128, plan 22.  [(worldcat)](http://www.worldcat.org/oclc/61828622)
 * Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003,p.344-345. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 

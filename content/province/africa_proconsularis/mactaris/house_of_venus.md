@@ -5,7 +5,7 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski
 editor: Xue Xia
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -50,7 +50,7 @@ House of Venus (Maison de Venus)
 ### Keywords
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [pool](#)
 - [triclinia](http://vocab.getty.edu/page/aat/300004359)
 
 
@@ -66,7 +66,7 @@ House of Venus (Maison de Venus)
 ### Plans
 {{< figure src="../images/AFR_Mac_Hv_WJashemskifig1.jpg" alt="Plan of the House of Venus at Mactaris; rights statement" title="Fig. 1: Plan of the House of Venus. (Rights statement)" >}}
 
-{{< figure src="../images/AFR_Mac_Hv_Wjashemskifig2.jpg" alt="Plan of the House of Venus at Mactaris; rights statement" title="Fig. 2: Plan of the House of Venus. (Rights statement)" >}}
+
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}

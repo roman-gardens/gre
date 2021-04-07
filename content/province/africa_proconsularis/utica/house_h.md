@@ -23,7 +23,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 
 ## Location
-
+[UTICA (Utique)]({{<relref ".">}}) \
 [UTICA (Utique) Tunisia(Pleiades)](https://pleiades.stoa.org/places/315247)
 
 ### Location Description
@@ -59,19 +59,19 @@ This house, the largest in *insula* III (lots 2,3,4,9,10), rivals the House of t
 
 
 
-<!--### Maps
+<!--### Maps-->
 
 
-<!--### Plans-->
+### Plans
+{{< figure src="../images/house_h.jpg" alt="Fig.1: Plan of the House H" title="Fig.1: Plan of the House H(CMT, pp.121-128)." >}}
+
+<!--### Images-->
 
 
-### Images
-
-{{< figure src="../images/AFR_Uti_H_Wjashemski.tif" alt="Fig.1: Plan of the House H" title="Fig.1: Plan of the House H. Photo courtesy of Wilhelmina F. Jashemski." >}}
 
 ### Dates
 
-the I-III century.
+The house is dated to the I-III c.
 
 ### Bibliography
 

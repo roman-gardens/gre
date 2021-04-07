@@ -22,8 +22,14 @@ tags:
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The  climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
-
+[THUGGA (Douga) Tunisia]({{<relref ".">}}) \
 [THUGGA (Douga) Tunisia (Pleiades)](https://pleiades.stoa.org/places/315223)
+
+<!--### Plan of City
+
+{{< figure src="../images/Doua_plan_city.jpg" alt="Plan of Thugga" title="Plan of the Thugga" >}}
+-->
+
 
 ### Location Description
 
@@ -37,10 +43,10 @@ House of the Trifolium (Maison du Trifolium)
 
 - [portico](http://vocab.getty.edu/page/aat/300004145)
 - [balustrade](http://vocab.getty.edu/page/aat/300001989)
-- [prophylactic]
 - [oecus](http://vocab.getty.edu/page/aat/300080791)
 - [trifolium]
-- [basins](http://vocab.getty.edu/page/aat/300045614)
+- [semi-circular pool](#)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 
 ### Garden Description
 
@@ -48,14 +54,13 @@ This house is the largest excavated to-date at Thugga. It appears to date from t
 
 ### Maps
 
-### Images
-
-{{< figure src="..images/AFR_Thu_Ht_Wjashemski.jpg" alt="ALT_TEXT" title="CAPTION" >}}
+### Plan
+{{< figure src="../images/House_of_the_trillium_Dougga_color.jpg" alt="Plan of Trifolium" title="Fig. 1: Plan of House of House of the Trifolium (Portail internet de Dougga, Ministère de la culture et de la sauvegarde du patrimoine, http://www.dougga.rnrt.tn/file/plan_maison_trifolium.pdf)" >}}
 
 ### Dates
+It appears to date from the first half of the 3rd centur.
 
 ### Bibliography
-
 *  C. Poinssot, *Les ruines de Dougga*, Tunis, 1958, p. 53: plan, général n°18 [Worldcat](http://www.worldcat.org/oclc/475099061)
 *  G. Hiesel, V. M. Strocka, "Vorberchicht Über die Grabungen 1996-2000, in Thugga, I, Grundlagen und Bericht, Ed. M. Kanoussi, V. M. Strocka, p. 75-76, 78, Abb. I
 *  Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003, p.274-276. [Worldcat](http://www.worldcat.org/oclc/989088620)

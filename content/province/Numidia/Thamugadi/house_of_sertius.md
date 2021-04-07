@@ -8,6 +8,7 @@ editor: Xue Xia
 draft: false
 
 categories:
+  - "Numidia"
 
 tags:
 
@@ -48,9 +49,10 @@ A sublocation is any area larger than an individual garden, but located within a
 House of Sertius (Maison de Sertius)
 
 ### Keywords
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [semicircular basins]
+- [pool]
 - [triclinia](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
@@ -63,7 +65,7 @@ This large domus the result of the combining of two houses, is located at the pe
 -->
 
 ### Plans
-{{< figure src="../images/TIMGAD4.jpg" alt="Plan of the House of Sertius at Thamugadi; rights statement" title="Fig. 1: Plan of the House of Sertius. (Rights statement)" >}}
+{{< figure src="../images/house_of _sertius.jpg" alt="Plan of the House of Sertius at Thamugadi; rights statement" title="Fig. 1: Plan of the House of Sertius. (Timgad une cité africaine sous l’Empire romain, p. 326-333, plan fig. 152)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->

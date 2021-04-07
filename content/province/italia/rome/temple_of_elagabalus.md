@@ -16,8 +16,7 @@ draft: true
 
 ## Province Description
 
-Italia was not considered a province until the reign of Diocletian. The peninsula, however, was divided into administrative regions by Augustus around 7 BCE, according to Pliny's *Naturalis Historia*. Regio I was comprised of Latium and Campania.
-
+<!-- LEAVE THIS BLANK FOR NOW -->
 
 # Location
 
@@ -29,24 +28,22 @@ Italia was not considered a province until the reign of Diocletian. The peninsul
 <!-- LEAVE THIS BLANK FOR NOW -->
 
 # Sublocation
+
 [PALATINE HILL (Pleiades)](https://pleiades.stoa.org/places/971691208)
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
 
 ## Sublocation Description
 
 <!-- DESCRIPTION -->
 
 # Garden
-Gardens of the Temple of Elagabalus (Roma)
+
+Gardens of the Temple of Elagabalus, Palatine
 
 ### Keywords
 
 - [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
 - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
-- [canals](http://vocab.getty.edu/page/aat/300006075)
+- [canals (water channels)](http://vocab.getty.edu/page/aat/300006075)
 - [brick (construction material)](http://vocab.getty.edu/page/aat/300010463)
 - [flower gardens](http://vocab.getty.edu/page/aat/300008135)
 - [flowerpots](http://vocab.getty.edu/page/aat/300194749)
@@ -56,10 +53,9 @@ Gardens of the Temple of Elagabalus (Roma)
 - [standards (religious artifacts)](http://vocab.getty.edu/page/aat/300429891)
 - [temple](http://vocab.getty.edu/page/aat/300007595)
 
-
 ### Garden Description
 
-The building of a religious complex, identified by scholars as the [Elagabalium](https://en.wikipedia.org/wiki/Elagabalium)(Heliogablium), later dedicated to Jupiter Ultor, was the final transformation in antiquity of the northwestern terrace (Fig. 15).  An enormous [peripteral temple](http://vocab.getty.edu/page/aat/300135991) facing west was enclosed by three [porticoes](http://vocab.getty.edu/page/aat/300004145) on the west (with a monumental entrance), north and south, and by a closed gallery at the east.  Construction may have started as early as 190 CE, but the buildings took shape only later in two successive periods; the first ending around 210-220, the second at least by the years 220 to 240 CE.
+The building of a religious complex, identified by scholars as the [*Elagabalium*](https://en.wikipedia.org/wiki/Elagabalium)(Heliogablium), later dedicated to Jupiter Ultor, was the final transformation in antiquity of the northwestern terrace (Fig. 15).  An enormous [peripteral temple](http://vocab.getty.edu/page/aat/300135991) facing west was enclosed by three [porticoes](http://vocab.getty.edu/page/aat/300004145) on the west (with a monumental entrance), north and south, and by a closed gallery at the east.  Construction may have started as early as 190 CE, but the buildings took shape only later in two successive periods; the first ending around 210-220, the second at least by the years 220 to 240 CE.
 
 Two garden areas at the south of the [temple](http://vocab.getty.edu/page/aat/300007595) (for symmetry the same type of gardens may be surmised at the north) have been uncovered; one measuring 17 x 20.5 meters, the other of the same width, but with a length of at least 24 meters.  The two areas were separated by a wide paved path running north-south that led to a secondary doorway at the south, giving access to the imperial palace complex (Fig. 16).  Thus the larger garden (not fully excavated) may have extended uninterrupted for a length of some 42 meters.
 
@@ -67,13 +63,15 @@ Both gardens had the same tripartite configuration: running along their lengths 
 
 All the pots (dating from the middle of the second century to the early 3rd century) appear to have been buried at the same time, suggesting they represent the original garden design for this early third century complex.   No plant remains have been identified, however [dwarf cypress](https://en.wikipedia.org/wiki/Cupressus_sempervirens) or [plane trees](https://en.wikipedia.org/wiki/Platanus_orientalis#Cultural_history) could have been planted in the larger pots and the small amphorae along the border of the middle beds may have been for [box hedges](https://en.wikipedia.org/wiki/Buxus_sempervirens) (Fig. 16).
 
-Besides these tripartite planting beds, two rows of plants were also set into circular cavities (c. 0.50 meters in diameter) evenly carved 3 meters apart through the marble paving slabs and into the underlying layers of soil in front of the south portico (Figs. 18, 19). The cavities, some 0.50 meters in depth were filled with soil enriched with metallic scraps.
+Besides these tripartite planting beds, two rows of plants were also set into circular cavities (c. 0.50 meters in diameter) evenly carved 3 meters apart through the marble paving slabs and into the underlying layers of soil in front of the south portico (Figs. 18, 19). The cavities, some 0.50 meters in depth, were filled with soil enriched with metallic scraps.
 
 Similar planting cavities were also regularly spaced along the north-south path leading to the doorway through the south portico.  These cavities, carved after the floor was laid, were connected to underground [canals](http://vocab.getty.edu/page/aat/300006075) that contained three transverse branches with openings used for irrigation.  Excess water was drained via a connection to a sewer along the south portico (Fig. 18).  To facilitate drainage the canals were filled with fine soil, alternating with layers of [marble shards](http://vocab.getty.edu/page/aat/300011443) and stones.  Between this permeable soil and the marble paving slabs were [*bipedales*](http://vocab.getty.edu/page/aat/300010463)(a type of Roman brick) covered by a layer of [mortar](http://vocab.getty.edu/page/aat/300014741).  The plantings, surrounded by marble, must have conveyed the impression of growing directly out of the pavement (Fig. 19).
 
 Within this planted environment were [fountains](http://vocab.getty.edu/page/aat/300006179) and other decorative, or more likely, religious features, such as [statues](http://vocab.getty.edu/page/aat/300047600), [altars](http://vocab.getty.edu/page/aat/300003725) and perhaps even [standards](http://vocab.getty.edu/page/aat/300429891) which, according to eastern custom, would have depicted divinities associated with the god to whom the sanctuary was dedicated.
 
 Although the specific plantings cannot be identified, it is safe to speculate that no plants had excessive foliage.  We should imagine a strictly manicured and rectilinear garden that reflected, without dominating, the nearby architecture of temple and porticoes.
+
+### Figures
 
 Figure 13. View of the southern wall, which separated the Elagabalium (Heliogabalium) from the Domus Augustana.
 
@@ -87,8 +85,8 @@ Figure 17. Reconstruction of part of the temple garden. Watercolor by J.-M. Gass
 
 Figure 18. Reconstruction of a tree and planting bed in the temple garden. Watercolor by J.-M. Gassend, based on the computer-generated reconstruction by P. Veltri and N. André, in collaboration with F. Villedieu.
 
-
 ## Dates
+
 c. 190- 240 CE
 
 ## Bibliography
@@ -99,12 +97,9 @@ c. 190- 240 CE
 * Y. Thébert, “Il santuario di Elagabalus: un giardino sacro” in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 83-94. [(worldcat)](https://www.worldcat.org/title/il-giardino-dei-cesari-dai-palazzi-antichi-alla-vigna-barberini-sul-monte-palatino-scavi-dellecole-francaise-de-rome-1985-1999-guida-alla-mostra/oclc/5894435382)
 * G. Rizzo, “Le anfore utilizzate come vasi da fiori nei giardini del tempio” in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, p. 98. [(worldcat)](https://www.worldcat.org/title/il-giardino-dei-cesari-dai-palazzi-antichi-alla-vigna-barberini-sul-monte-palatino-scavi-dellecole-francaise-de-rome-1985-1999-guida-alla-mostra/oclc/5894435382)
 
-
-
 ### Pleiades ID
+
 [Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
-
-
 
 ## Contributor
 
@@ -116,4 +111,3 @@ c. 190- 240 CE
 
 ## Publication date
 15 APRIL 2021
-<!-- DATE -->

@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Jinyi Yang
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -70,7 +70,7 @@ This richly decorated house is considered as one of the most remarkable domus of
 
 ### Dates
 
-the II-III century.
+Unspecified
 
 ### Bibliography
 
