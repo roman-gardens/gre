@@ -9,8 +9,7 @@ draft: false
 
 categories:
  - "Gallia"
- - "BELGICA"
- - "COLONIA AUGUSTA TREVERORUM"
+ - "Belgica"
 
 tags:
   - "Urban House East of Forum"

@@ -9,8 +9,7 @@ draft: false
 
 categories:
  - "Gallia"
- - "BELGICA"
- - "WEITERSBACH"
+ - "Belgica"
 
 tags:
   - "Rural Villa"

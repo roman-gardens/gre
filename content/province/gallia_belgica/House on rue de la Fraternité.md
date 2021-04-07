@@ -9,8 +9,7 @@ draft: false
 
 categories:
  - "Gallia"
- - "BELGICA"
- - "NEMETACUM"
+ - "Belgica"
 
 tags:
   - "House on rue de la Fraternité"

@@ -7,7 +7,7 @@ editor: Yichen Liu
 draft: false
 
 categories:
- - "Gallia_narbonensis"
+ - "Gallia Narbonensis"
 ---
 
 ### Province

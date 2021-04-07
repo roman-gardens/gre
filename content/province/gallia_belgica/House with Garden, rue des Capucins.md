@@ -9,8 +9,7 @@ draft: false
 
 categories:
  - "Gallia"
- - "BELGICA"
- - "Durocortorum"
+ - "Belgica"
 
 tags:
   - "House with Garden, rue des Capucins"

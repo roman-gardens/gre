@@ -9,8 +9,7 @@ draft: false
 
 categories:
  - "Gallia"
- - "BELGICA"
- - "ECHTERNACH"
+ - "Belgica"
 
 tags:
   - "Rural Villa"

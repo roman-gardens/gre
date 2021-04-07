@@ -9,8 +9,6 @@ draft: false
 
 categories:
  - "Gallia"
- - "MEDIOLANUM AULERCORUM"
- - "Evreux"
 
 tags:
   - "Sainte-Marguerite-sur-Mer (Seine-Maritime) Roman Villa"

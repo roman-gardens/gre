@@ -9,8 +9,7 @@ draft: false
 
 categories:
  - "Gallia"
- - "BELGICA"
- - "Durocortorum"
+ - "Belgica"
 
 tags:
   - "The House aux Fleurons (boulevard de la Paix)"

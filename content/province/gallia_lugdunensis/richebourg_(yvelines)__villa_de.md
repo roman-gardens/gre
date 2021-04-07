@@ -9,8 +9,7 @@ draft: false
 
 categories:
  - "Gallia"
- - "AUTRICUM"
- - "Chartres"
+
 tags:
   - "Richebourg (Yvelines) villa de"
 ---

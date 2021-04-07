@@ -9,8 +9,7 @@ draft: false
 
 categories:
  - "Gallia"
- - "BELGICA"
- - "Metz - DIVODURUM MEDIOMATRICORUM"
+ - "Belgica"
 
 tags:
   - "La Villa des Rouaux"

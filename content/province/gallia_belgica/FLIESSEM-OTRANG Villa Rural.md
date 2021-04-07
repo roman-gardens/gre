@@ -9,8 +9,7 @@ draft: false
 
 categories:
  - "Gallia"
- - "BELGICA"
- - "FLIESSEM-OTRANG"
+ - "Belgica"
 
 tags:
   - "Rural Villa"

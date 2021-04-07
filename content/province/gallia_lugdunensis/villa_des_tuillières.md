@@ -9,9 +9,7 @@ draft: false
 
 categories:
  - "Gallia"
- - "Lugdunensis"
- - "SELONGEY"
- - "Côte d'Or"
+ - "Gallia Lugdunensis"
 
 tags:
   - "Villa des Tuillières"
