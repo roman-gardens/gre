@@ -46,7 +46,7 @@ Shrine Complex in Insula E125
 A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely damaged during the Roman conquest of Arabia Petraea, the site’s inhabitants built another shrine at the same location. The Roman-period shrine occupied the southeast corner of a multi-unit *insula* (E125), but could only be accessed from outside the complex. This shrine consisted of a square *naos* (containing a central Nabataean *baetyl* and legionary altar, bins, shelves, and votive offerings) enclosed in a rectangular open-air temenos (Fig. 3). Upon entering the temenos, worshippers walked to the *naos* along a 12.7 m long paved processional way that was flanked by two long raised planters. An aqueduct-fed basin next to the door of the *naos* appears to have supplied the shrine with so much fresh water that it must have been intended not just for ritual cleansing, but for supplying the planters as well. Given the relatively shallow depth of the planters, and that no root balls or pots were found within, they probably contained shrubs and/or flowers rather than trees. Although the architect clearly tried to make the planters symmetrical in size, shape, and location, their design (and that of the whole Roman shrine) was constrained by the reuse of some Nabataean walls as foundations.
 
 ### Maps
-{{< figure src="../images/1_arabia_petraea_map.jpg" alt="Map of Petra location" title="Fig 1: Map showing the location of ancient Hawara (Havarra) in Arabia Petraea (L.-A. Bedal)" >}}
+{{< figure src="../images/1_arabia_petraea_map.jpg" alt="Map of Petra location" title="Fig 1: Map showing the location of ancient Hawara (Hauarra) in Arabia Petraea (L.-A. Bedal)" >}}
 
 ### Plans
 {{< figure src="../images/2_hauarra_plan.jpg" alt="Plan of shrine in Insula E125" title="Fig 2: Plan of Shrine Complex in the southeast corner of Insula E125 (Plan by S. Fraser and D. Skinner)">}}
@@ -56,7 +56,7 @@ A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely dam
 
 
 ### Dates
-First century CE, mid‐second to third century CE
+1st century CE, mid-2nd to 3rd century CE
 
 ### Bibliography
 - Oleson, J. P., M. B. Reeves, G. S. Baker, E. de Bruijn, Y. Gerber, M. Nikolic, and A. N. Sherwood. 2008. “Preliminary Report on Excavations at Al-Humayma, Ancient Hawara, 2004 and 2005.” *Annual of  the Department of  Antiquities of Jordan* 52: 309–42. [(Stable URL)](http://publication.doa.gov.jo/Publications/ViewChapterPublic/326).
