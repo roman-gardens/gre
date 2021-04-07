@@ -26,7 +26,7 @@ The region of Arabia Petraea is primarily a desert environment that belongs to t
 [Auara]({{<relref ".">}})\
 [Auara (Pleiades)](https://pleiades.stoa.org/places/746716)
 
-Nabataean Hawara (Auara) was founded by king [Aretas III](https://en.wikipedia.org/wiki/Aretas_III) in the early first century BCE as a trading post along the [King's Highway](https://en.wikipedia.org/wiki/King%27s_Highway_(ancient), midway between the Nabataean capital, [Petra](https://pleiades.stoa.org/places/697725), and the port town of [Aila](https://en.wikipedia.org/wiki/Aqaba#Classical_antiquity) on the Gulf of Aqaba (Fig. 1). In the early 2nd century CE, under Roman occupation, a fort was erected at the site (Roman Hauarra/Havarra) due to its strategic position on the major trade highway that was rebuilt as the [*Via Nova Traiana*](https://en.wikipedia.org/wiki/Via_Traiana_Nova). Associated with the fort was a small town with a bathhouse and a community shrine.
+Nabataean Hawara (Auara) was founded by king [Aretas III](https://en.wikipedia.org/wiki/Aretas_III) in the early first century BCE as a trading post along the [King's Highway](https://en.wikipedia.org/wiki/King%27s_Highway_(ancient)), midway between the Nabataean capital, [Petra](https://pleiades.stoa.org/places/697725), and the port town of [Aila](https://en.wikipedia.org/wiki/Aqaba#Classical_antiquity) on the Gulf of Aqaba (Fig. 1). In the early 2nd century CE, under Roman occupation, a fort was erected at the site (Roman Hauarra/Havarra) due to its strategic position on the major trade highway that was rebuilt as the [*Via Nova Traiana*](https://en.wikipedia.org/wiki/Via_Traiana_Nova). Associated with the fort was a small town with a bathhouse and a community shrine.
 
 
 ## Garden
