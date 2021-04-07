@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_UNKONWN
 editor: Yuming Huang
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -57,8 +57,7 @@ Possibly belonging to this same house, on the east side there is a garden with a
 -->
 
 ### Plans
-Fig. 1: Plan of the House of the Small Peristyle
-<!--{{< figure src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
+{{< figure src="../images/house_of_the_small_persityle.jpg" alt="Plan of the House of the Small Peristyle; rights statement" title="Fig. 1: Plan of the House of the Small Peristyle (Rights statement)" >}}
 
 ### Images
 Fig 2: View of the house

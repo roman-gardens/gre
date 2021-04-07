@@ -8,13 +8,14 @@ editor: Xue Xia
 draft: false
 
 categories:
+  - "Numidia"
 
 tags:
 
 ---
 
 ## Province
-[Numidia]({{<relref "..">}})
+[Numidia]({{<relref "..">}}) \
 [Numidia (Pleiades)](https://pleiades.stoa.org/places/981539)
 
 ### Province Description
@@ -47,9 +48,10 @@ A sublocation is any area larger than an individual garden, but located within a
 Hermaphrodite House (Maison de l'Hermaphrodite)
 
 ### Keywords
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
 - [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [pool]
 
 
 ### Garden Description
@@ -62,7 +64,7 @@ The large house was laid out around a large peristyle of 22 columns. In the axis
 -->
 
 ### Plans
-{{< figure src="../images/TIMGAD3.jpg" alt="Plan of the Hermaphrodite House at Thamugadi; rights statement" title="Fig. 1: Plan of the Hermaphrodite House. (Rights statement)" >}}
+{{< figure src="../images/hermaphrodite_house.jpg" alt="Plan of the Hermaphrodite House at Thamugadi; Les mosaïques de Timgad, p. 65, fig. 7." title="Fig. 1: Plan of the Hermaphrodite House. (Les mosaïques de Timgad, p. 65, fig. 7.)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->

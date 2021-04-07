@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Yuming Huang
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -63,7 +63,7 @@ Adjacent to the east apartment is a light well with an earthen floor, which can 
 -->
 
 ### Plans
-{{< figure src="../images/house_of_asinus_rufinus_plan.jpg" alt="Plan of the House of Asinus Rufinus at acholla; rights statement" title="Plan: Plan of the House of Asinus Rufinus (Rights statement)" >}}
+{{< figure src="../images/House_of_Asinus_Rufinus_Acholla.jpg" alt="Plan of the House of Asinus Rufinus at acholla; rights statement" title="Plan: Plan of the House of Asinus Rufinus (Rights statement)" >}}
 
 ### Images
 

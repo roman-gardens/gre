@@ -10,7 +10,6 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
-  - "Utica"
 
 ---
 
@@ -25,6 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
+[UTICA (Utique)]({{<relref ".">}}) \
 [UTICA (Utique) Tunisia](https://pleiades.stoa.org/places/315247)
 
 ### Location Description
@@ -61,19 +61,17 @@ The house is dated to the II c.
 
 
 
-### Maps
+<!--### Maps-->
 
 
-<!--### Plans-->
+### Plans
+{{< figure src="../images/AFR_Uti_Hw_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the West." title="Fig.1: Plan of the House of the West(CMT, pp.19-26, plans 4). " >}}
 
-
-### Images
-
-{{< figure src="../images/AFR_Uti_Hw_Wjashemski.tif" alt="Fig.1: Plan of the House of the West." title="Fig.1: Plan of the House of the West. Photo courtesy of Wilhelmina F. Jashemski." >}}
+<!--### Images-->
 
 ### Dates
 
-the I-II century.
+The house is dated to the II c.
 
 ### Bibliography
 

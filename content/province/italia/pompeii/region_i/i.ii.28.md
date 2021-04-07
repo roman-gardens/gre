@@ -1,6 +1,6 @@
 ---
 article-type: "province"
-title: "Casa Della Grata Metallica; Casa Dell’Atrio Tetra-Stilo (I.ii.28)"
+title: "I.2.28 Casa Della Grata Metallica; Casa Dell’Atrio Tetra-Stilo"
 date: 2021-03-14T17:25:08Z
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski

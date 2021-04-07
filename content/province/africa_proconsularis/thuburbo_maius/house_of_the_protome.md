@@ -22,8 +22,8 @@ tags:
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
-
-[[THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
+[THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) \
+[THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
 
 ### Location Description
 
@@ -34,23 +34,22 @@ The city occupies the slopes of a hill in a fertile grain producing area about 5
 House of the Protome (Maison des Protomés)
 
 ### Keywords
-
-- [peristyle (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [mosaic](http://vocab.getty.edu/page/aat/300015342)
-- [basins](http://vocab.getty.edu/page/aat/300045614)
+- [semicircular basin]
 
 ### Garden Description
 
 This very large house on the western edge of the site had two sectors, the Trifolium area and the Protome area (Plan view, Fig. 1).
 
-The Trifolium sector, was laid out around a peristyle garden (II-V, I) enclosed on four sides by a portico of 12 columns. The garden, 35 cm lower than the level of the portico, had a deep rectangular pool (1) and a semicircular basin (2, 3) placed at each end of the garden on the axis of the oecus (XI). Eight ceramic vases (8 cm in dia., 30 cm deep) embedded in the sides of the pool provided places for the fish to lay eggs and served as shady retreats for the fish. The pool and the basins were paved with mosaics. These have been mostly destroyed, but pieces of the bottom paving of the basin (3) show birds and a hare among cut branches of flowers.
+The Trifolium sector, was laid out around a peristyle garden (I-V) enclosed on four sides by a portico of 12 columns. The garden, 35 cm lower than the level of the portico, had a deep rectangular pool (1) and a semicircular basin (2, 3) placed at each end of the garden on the axis of the oecus (XI). Eight ceramic vases (8 cm in dia., 30 cm deep) embedded in the sides of the pool provided places for the fish to lay eggs and served as shady retreats for the fish. The pool and the basins were paved with mosaics. These have been mostly destroyed, but pieces of the bottom paving of the basin (3) show birds and a hare among cut branches of flowers.
 
 ### Maps
 
 ### Images
 
-{{< figure src="../images/AFR_Thub_Hp_Wjashemski.jpg" alt="ALT_TEXT" title="TITLE" >}}
+{{< figure src="../images/AFR_Thub_Hp_Wjashemski1.jpg" alt="Plan of the House of the Protome" title="Fig. 1: Plan of the House of the Protome(CMT, V. II, fasc.3, pp. 27-60, plan 4-5)" >}}
 
 ### Dates
 

@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Yuming Huang
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -56,7 +56,7 @@ Known for its beautiful hunting scene mosaics, this large domus (1100m2) was lai
 -->
 
 ### Plans
-{{< figure src="../images/house_of_the_two_hunts.jpg" alt="Plan of the House of the Two Hunts at Clupea; rights statement" title="Plan: Plan of the House of the Two Hunts (Rights statement)" >}}
+{{< figure src="../images/House_of_the_Two_hunts_Kelibia.jpg" alt="Plan of the House of the Two Hunts at Clupea; rights statement" title="Plan: Plan of the House of the Two Hunts (Rights statement)" >}}
 
 ### Images
 Fig.3: Photo of the House of the Two Hunts’ site

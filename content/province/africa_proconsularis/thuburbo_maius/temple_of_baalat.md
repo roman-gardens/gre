@@ -22,7 +22,7 @@ tags:
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
-
+[THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) \
 [THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
 
 ### Location Description
@@ -45,12 +45,12 @@ Only the central passage (III) way leading to the temple (IV) was paved. The res
 
 ### Images
 
-{{< figure src="../images/AFR_Thub_Btb_Wjashemski.jpg" alt="ALT_TEXT" title="TITLE" >}}
+{{< figure src="../images/Temple of Baalat.jpg" alt="Plan of the Temple of Baalat " title="Fig. 1: Plan of the Temple of Baalat(Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine, p. 360, fig. 10)" >}}
 
 ### Dates
 
 ### Bibliography
-
+* A.-A. Malek, « Le jardin dans les sanctuaires du Maghreb romain, premières approches », Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine, V. Brouquier Reddé, Fr. Baratte, E. Rocca (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, p. 213-230, 360, fig. 10. [Worldcat](http://www.worldcat.org/oclc/1028897747)
 *  CMT, *Thuburbo Majus, Les mosaïques de la région des Grands Thermes*, V. II, fasc.2, INA, Tunis, 1985, pp. 51-3, plan 10. [Worldcat](http://www.worldcat.org/oclc/905765362)
 
 #### Pleiades_ID

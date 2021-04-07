@@ -1,5 +1,5 @@
 ---
-title: "Building of the Three Basins (Edifice of trois bassins)"
+title: "Building of the Three Basins (Edifice des trois bassins)"
 date: 2020-12-14T12:24:10-03:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -21,8 +21,8 @@ tags:
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
-
-[[THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
+[THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) \
+[THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
 
 ### Location Description
 
@@ -32,6 +32,8 @@ The city occupies the slopes of a hill in a fertile grain producing area about 5
 
 - [peristyle (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [portico](http://vocab.getty.edu/page/aat/300004145)
+- [semi-circular pool](#)
+- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
 
 ### Garden Description
 
@@ -45,7 +47,7 @@ The SE area was laid out around an incomplete peristyle with seven columns along
 
 ### Images
 
-{{< figure src="../images/AFR_Thub_Tb_Amalek.jpg" alt="ALT_TEXT" title="CAPTION" >}}
+{{< figure src="../images/AFR_Thub_Btb_Wjashemski_color.jpg" alt="Plan of the Bulding of the Three Basins; CMT, Thuburbo Majus, V. II, fasc.2, plan 19-20" title="Fig. 1: Plan of the Bulding of the Three Basins (CMT, Thuburbo Majus, V. II, fasc.2, plan 19-20)" >}}
 
 ### Dates
 

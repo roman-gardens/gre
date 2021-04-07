@@ -5,7 +5,7 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Xue Xia
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -68,16 +68,16 @@ House of the Aviary (Maison de la Volière)
 -->
 
 ### Plans
-{{< figure src="../images/AFR_Car_Ha_Amalek.jpg" alt="Plan of the House the Aviary at Karthago" title="Fig. 1: Plan of the House the Aviary. (Rights statement)" >}}
+{{< figure src="../images/AFR_Car_Ha_Amalek1.jpg" alt="Plan of the House the Aviary at Karthago" title="Fig. 1: Plan of the House the Aviary." >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images
 
-<!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
--->
+{{< figure src="../images/House_of_the_Aviary.jpg" alt="Detail Plan of the House the Aviary at Karthago" title="Fig. 2: Detail Plan of the House the Aviary. " >}}
+
+{{< figure src="../images/Drawing_detail_ House_of_the_Aviary.jpg" alt="Detail Drawing of the House the Aviary at Karthago" title="Fig. 3: Detail Drawing of the House the Aviary. " >}}
 
 ### Dates
 The house dates from the end of the IInd-IVth century.

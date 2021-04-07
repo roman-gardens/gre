@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_UNKONWN
 editor: Yuming Huang
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -58,7 +58,7 @@ The wing that is perpendicular to the northwest one was comprised of a series of
 -->
 
 ### Plans
-Fig. 1: Plan of the House of Marcus Aurelius
+{{< figure src="../images/houses_of_the_bust_of_Marcus_Aurelius.jpg" alt="Plan of the House of Marcus Aurelius; rights statement" title="Fig. 1: Plan of the House of Marcus Aurelius (Rights statement)" >}}
 
 <!--{{< figure src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
 

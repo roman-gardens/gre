@@ -5,7 +5,7 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Xue Xia
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -49,7 +49,7 @@ House of the Black and White Triclinium (Maison du triclinium en noir et blanc)
 - [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [pool](#)
 - [triclinia](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description

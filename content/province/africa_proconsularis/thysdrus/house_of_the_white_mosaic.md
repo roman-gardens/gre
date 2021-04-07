@@ -10,8 +10,7 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
-  - "Thysdrus"
-  - ""
+
 ---
 
 ## Province
@@ -24,7 +23,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 
 ## Location
-
+[THYSDRUS (El Jem) Tunisia]({{<relref ".">}}) \
 [THYSDRUS (El Jem) Tunisia(Pleiades)](https://pleiades.stoa.org/places/324835)
 
 ### Location Description
@@ -51,7 +50,9 @@ House of the White Mosaic (Maison des mosaïques blanches)
 
 ### Keywords
 
-- [peristyle](http://vocab.getty.edu/page/aat/300005452)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+
 
 ### Garden Description
 
@@ -60,19 +61,17 @@ This house located E of the House of the Dolphins, has a small sunken peristyle 
 
 
 
-### Maps
+<!--### Maps-->
 
 
-<!--### Plans-->
+### Plans
+{{< figure src="../images/AFR_Thy_Hwm_Wjashemski1.jpg" alt="Fig.1: Plan of the house of the White Mosaic." title="Fig.1: Plan of the house of the White Mosaic. (CMT, Thysdrus, pp. 101-105, plans 7)" >}}
 
-
-### Images
-
-{{< figure src="../images/AFR_Thy_Hwm_Wjashemski.jpg" alt="Fig.1: Plan of the house of the White Mosaic. Photo courtesy of Wilhelmina F. Jashemski." title="Fig.1: Plan of the house of the White Mosaic. Photo courtesy of Wilhelmina F. Jashemski.(Rights statement)" >}}
+<!--### Images-->
 
 ### Dates
 
-the beginning of the IIIrd century.
+Unspecified
 
 ### Bibliography
 

@@ -10,8 +10,7 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
-  - ""
-  - ""
+
 ---
 
 ## Province
@@ -25,6 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
+[UTICA (Utique)]({{<relref ".">}}) \
 [UTICA (Utique) Tunisia(Pleiades)](https://pleiades.stoa.org/places/315247)
 
 ### Location Description
@@ -68,11 +68,11 @@ The House is located in the *insula* II (Lots 1,7). The peristyle garden had a s
 
 ### Images
 
-{{< figure src="../images/AFR_Uti_Ht_Wjashemski.tif" alt="Fig.1: Plan of the House of the Treasure." title="Fig.1: Plan of the House of the Treasure. Photo courtesy of Wilhelmina F. Jashemski." >}}
+{{< figure src="../images/house_of_the_treasure.jpg" alt="Fig.1: Plan of the House of the Treasure." title="Fig.1: Plan of the House of the Treasure(CMT, pp.11-18, plans 3,4). " >}}
 
 ### Dates
 
-the I-IV century.
+The house is dated to I-IV c.
 
 ### Bibliography
 

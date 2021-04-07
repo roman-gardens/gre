@@ -14,6 +14,9 @@ tags:
 ---
 
 ## Province
+
+<!-- cats pajamas -->
+
 [Achaea]({{<relref "..">}})
 
 ## Location
@@ -27,8 +30,8 @@ Delos is a small island in the center of the Cyclades measuring about five kilom
 Kitchen and Commercial Gardens
 
 ### Keywords
-[inscriptions](http://vocab.getty.edu/page/aat/300028702)
-[market gardens](http://vocab.getty.edu/page/aat/300008111)
+- [inscriptions](http://vocab.getty.edu/page/aat/300028702)
+- [market gardens](http://vocab.getty.edu/page/aat/300008111)
 
 ### Garden Description
 The inscriptions of the sanctuary of Apollo mention nearly 30 *kepoi* within the period of 433 B.C. to 156/155 B.C., which were either private or belonged to Apollo and were rented or leased. Most of these cannot be localized because they were named after their former owners and with topographical references or surnames unknown today. However, in the years between 167 and 155 B.C., three *kepoi* were situated near identified buildings: the sanctuary of Leto, the Hippodrome, and the Neorion. A fourth was located near the palaestra, the identification of which among the several palaestra-buildings in Delos is contested. The first three *kepoi* were located east of the sanctuary of Apollo in a zone which was regarded as specifically humid and fertile because the Inopos, the main watercourse of Delos, was believed to have passed here before emptying into the Bay of Skardhana to the north. However, it has been shown that the Inopos ended south of the sanctuary of Apollo and could therefore never have irrigated the potential garden zone east of Apollo’s sacred precinct.
@@ -38,7 +41,7 @@ The *kepoi* were certainly always located outside the residential quarters and w
 The variety of trees and plants cultivated in ancient Delos is known from the epigraphic evidence. Among the sporadically listed plants are pomegranates, apples, laurel, almonds, palms, vines, figs, and olives. Fig trees, which to this day form the majority of the Delian tree population, appear most often in the inscriptions.
 
 ### Maps
-{{< figure src="../images/delos_fig11_archaeological_plan.jpg" alt="Map of Delos with archaeological features marked" title="Archaeological plan of the island, 1:2500. Drawing by Nicolas Bresch from Brunet 1999, fig. 1." >}}
+{{< figure src="../images/delos_fig11_archaeological_plan.jpg" alt="Map of Delos with archaeological features marked" title="Fig. 1: Archaeological plan of the island, 1:2500. Drawing by Nicolas Bresch from Brunet 1999, fig. 1." >}}
 
 <!--
 ### Plans
@@ -48,7 +51,7 @@ The variety of trees and plants cultivated in ancient Delos is known from the ep
 -->
 
 ### Dates
-fifth to second c. BCE
+5th-2nd century BCE
 
 ### Bibliography
 - P. Bruneau, “Deliaca II: No. 31. Les jardins urbains de Délos,” *BCH* 103, 1979: 89-99.
@@ -75,7 +78,7 @@ fifth to second c. BCE
 [7011273 (Dhílos,island)](http://vocab.getty.edu/page/tgn/7011273)
 
 ### Contributor
-[Monika Trümper](#)
+[Monika Trümper](#) (ORCID: [0000-0003-4524-6242](https://orcid.org/0000-0003-4524-6242))
 
 ### Publication date
 3 Dec 2020  

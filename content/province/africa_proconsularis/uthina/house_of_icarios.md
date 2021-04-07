@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Jinyi Yang
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
@@ -44,7 +44,7 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- DESCRIPTION -->
 
 ## Garden
-{{< figure src="../images/AFR_Uth_Ica_Malek.jpg" alt="Fig. 1: Plan view of the House of Icarios. Photo courtesy of Amina-Aïcha Malek." title="Fig. 1: Plan view of the House of Icarios. Photo courtesy of Amina-Aïcha Malek.(Rights statement)" >}}
+House of Icarios (Maison d'Icarios)
 
 ### Keywords
 
@@ -61,7 +61,7 @@ This richly decorated house is considered as one of the most remarkable domus of
 
 
 
-### Maps
+<!--### Maps-->
 
 
 <!--### Plans-->
@@ -69,15 +69,16 @@ This richly decorated house is considered as one of the most remarkable domus of
 
 ### Images
 
-{{< figure src="../images/AFR_Uth_Ica_Malek.jpg" alt="Fig.1: Plan of the House of Icarios. Photo courtesy of Amina-Aïcha Malek." title="Fig.1: Plan of the House of Icarios. Photo courtesy of Amina-Aïcha Malek.(Rights statement)" >}}
+{{< figure src="../images/House_of_Icarios_Uthina1.jpg" alt="Fig.1: Plan of the House of Icarios." title="Fig.1: Plan of the House of Icarios. (Rights statement)" >}}
 
 ### Dates
 
-the II-III century.
+The house is dated to the II-IIIc.
 
 ### Bibliography
 
-* P. Gauckler in MonPiot 2(1896) 177-229; P. Quoniam in MelRome 60(1948) pp. 35-54;
+* P. Gauckler in MonPiot 2(1896) 177-229[(worldcat)](#)
+* P. Quoniam in MelRome 60(1948) pp. 35-54;[(worldcat)](#)
 * H. Ben Hassen, L. Maurin, *Oudna (Uthina) La découverte d’une ville antique de Tunisie*, Paris, 1998; Tomei, Antenor, 3, 2002. [(worldcat)](http://www.worldcat.org/oclc/492084212)
 * Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003,p.325-329. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 

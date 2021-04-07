@@ -102,6 +102,8 @@ Late 1st century CE - unspecified
 
 ### Bibliography
 
+* M. Carroll, *Earthly Paradises. Ancient Gardens in History and Archaeology.* London: The British Museum Press, 2003, 86, fig. 66; 101, fig. 79
+* M. Carroll, They came, they saw, they gardened. *The Garden: Journal of the Royal Horticultural Society* 128.6, 2003, 460-463, figs. p. 462
 * Barry Cunliffe, *Excavations at Fishbourne, 1961-1969*, Vols I & II, The Society of Antiquaries, London, 1971.[(worldcat)](http://www.worldcat.org/oclc/34684874)
 * B. W. Cunliffe, A.G. Down, and D. Rudkin, *Excavations at Fishbourne 1969-1988*, Chichester, 1996.[(worldcat)](http://www.worldcat.org/oclc/228440436)
 * B. Cunliffe, *Fishbourne Roman Palace*, Tempus, 1998. [(worldcat)](http://www.worldcat.org/oclc/997465222)
