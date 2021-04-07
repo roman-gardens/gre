@@ -16,7 +16,7 @@ draft: true
 
 ## Province Description
 
-Italia was not considered a province until the reign of Diocletian. The peninsula, however, was divided into administrative regions by Augustus around 7 BCE, according to Pliny's *Naturalis Historia*. Regio I was comprised of Latium and Campania. <!-- DESCRIPTION -->
+<!-- DESCRIPTION -->
 
 # Location
 
@@ -66,7 +66,7 @@ An Augustan date is appropriate for some architectural and decorative elements, 
 
 It seems likely that the Augustan dwelling (or dwellings) incorporated an earlier structure dating to perhaps the middle of the third quarter of the first century B.C.  Because most of the decorative elements reflect the style of the [Augustan villa](https://en.wikipedia.org/wiki/House_of_Augustus) and the contemporary [Temple of Apollo on the Palatine](https://en.wikipedia.org/wiki/Temple_of_Apollo_Palatinus), it is likely this *domus* was linked to the imperial court, or at least drew inspiration from the new artistic trends made fashionable by the first [*princeps*](https://en.wikipedia.org/wiki/Princeps).
 
-It is possible that the *domus* of the Vigna Barberini was included in Nero’s [*Domus Transitoria*](https://en.wikipedia.org/wiki/Domus_Transitoria) and/or his [*Domus Aurea*](https://en.wikipedia.org/wiki/Domus_Aurea), but there are no indications of a Neronian occupation of the site.  On the other hand, it seems clear that the *domus* did not last beyond Nero’s principate, as attested by a cache of coins found in the destruction layer that date to no later than 65 CE.  Such destruction could have been the result of landslides caused by two earthquakes that struck Rome in June 68 ([Suet. Nero, 48](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0132%3Alife%3Dnero%3Achapter%3D48); [Galba, 18](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0132%3Alife%3Dgal.%3Achapter%3D18)). Once ruined, the *domus* was spoliated of most of its elements, the majority of which were dismantled and re-used.
+It is possible that the *domus* of the Vigna Barberini was included in [Nero's](https://www.britannica.com/biography/Nero-Roman-emperor) [*Domus Transitoria*](https://en.wikipedia.org/wiki/Domus_Transitoria) and/or his [*Domus Aurea*](https://en.wikipedia.org/wiki/Domus_Aurea), but there are no indications of a Neronian occupation of the site.  On the other hand, it seems clear that the *domus* did not last beyond Nero’s principate, as attested by a cache of coins found in the destruction layer that date to no later than 65 CE.  Such destruction could have been the result of landslides caused by two earthquakes that struck Rome in June 68 ([Suet. Nero, 48](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0132%3Alife%3Dnero%3Achapter%3D48); [Galba, 18](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0132%3Alife%3Dgal.%3Achapter%3D18)). Once ruined, the *domus* was spoliated of most of its elements, the majority of which were dismantled and re-used.
 
 ### Figures
 

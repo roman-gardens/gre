@@ -16,7 +16,7 @@ draft: true
 
 ## Province Description
 
-Italia was not considered a province until the reign of Diocletian. The peninsula, however, was divided into administrative regions by Augustus around 7 BCE, according to Pliny's *Naturalis Historia*. Regio I was comprised of Latium and Campania.
+<!-- LEAVE THIS BLANK FOR NOW -->
 
 # Location
 
@@ -53,7 +53,7 @@ The Adonea of the Flavian Palace, Palatine
 
 ### Garden Description
 
-[Philostratus](https://en.wikipedia.org/wiki/Philostratus) ([Life of Apollonius of Tyana, 7.32](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0595%3Abook%3D7%3Achapter%3D32)) writes of the *Adonea* in the [Flavian Palace](https://en.wikipedia.org/wiki/Flavian_Palace) on the Palatine where Apollonius and Domitian met; and where the emperor had made a sacrifice to Minerva in the hall of Adonis that was overflowing with flowers in vases.  It was proposed in the nineteenth century that this *Adonea* was in the area of the [Vigna Barberini](https://it.wikipedia.org/wiki/Vigna_Barberini) and that a fragment of the [Severan Forma Urbis](https://en.wikipedia.org/wiki/Forma_Urbis_Romae) partially depicts it.  Recent excavations do not support such a location for the *Adonea*, and the marble fragment could represent the Severan *Adonea* that was in Trastevere.  Flowers in vases, such as were part of the cult activities to Adonis, do not necessarily indicate a planted garden, although the marble fragment, with its symmetrical lines and rows of dots, likely render schematically formal garden plantings.
+[Philostratus](https://en.wikipedia.org/wiki/Philostratus) ([Life of Apollonius of Tyana, 7.32](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0595%3Abook%3D7%3Achapter%3D32)) writes of the *Adonea* in the [Flavian Palace](https://en.wikipedia.org/wiki/Flavian_Palace) on the Palatine where {Apollonius](https://en.wikipedia.org/wiki/Apollonius_of_Tyana) and [Domitian](https://www.britannica.com/biography/Domitian) met; and where the emperor had made a sacrifice to Minerva in the hall of Adonis that was overflowing with flowers in vases.  It was proposed in the nineteenth century that this *Adonea* was in the area of the [Vigna Barberini](https://it.wikipedia.org/wiki/Vigna_Barberini) and that a fragment of the [Severan Forma Urbis](https://en.wikipedia.org/wiki/Forma_Urbis_Romae) partially depicts it.  Recent excavations do not support such a location for the *Adonea*, and the marble fragment could represent the Severan *Adonea* that was in Trastevere.  Flowers in vases, such as were part of the cult activities to Adonis, do not necessarily indicate a planted garden, although the marble fragment, with its symmetrical lines and rows of dots, likely render schematically formal garden plantings.
 
 ### Figures
 

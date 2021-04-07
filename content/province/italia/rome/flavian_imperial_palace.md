@@ -16,7 +16,7 @@ draft: true
 
 ## Province Description
 
-Italia was not considered a province until the reign of Diocletian. The peninsula, however, was divided into administrative regions by Augustus around 7 BCE, according to Pliny's *Naturalis Historia*. Regio I was comprised of Latium and Campania.
+<!-- LEAVE THIS BLANK FOR NOW -->
 
 # Location
 
@@ -44,7 +44,7 @@ Garden of the Peristyle of the Julio-Claudian Domus, Palatine
 ### Keywords
 
 - [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
-- [canals](http://vocab.getty.edu/page/aat/300006075)
+- [canals (water channels)](http://vocab.getty.edu/page/aat/300006075)
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [flowerpots](http://vocab.getty.edu/page/aat/300194749)

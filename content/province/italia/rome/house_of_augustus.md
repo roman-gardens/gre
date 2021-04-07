@@ -16,7 +16,7 @@ draft: true
 
 ## Province Description
 
-Italia was not considered a province until the reign of Diocletian. The peninsula, however, was divided into administrative regions by Augustus around 7 BCE, according to Pliny's *Naturalis Historia*. Regio I was comprised of Latium and Campania.
+<!-- LEAVE THIS BLANK FOR NOW -->
 
 # Location
 [Rome]({{<relref ".">}}) \
@@ -56,11 +56,11 @@ In addition to the [*peristyles*](http://vocab.getty.edu/page/aat/300080971), wh
 
 Furthermore, the [Temple of Apollo](https://en.wikipedia.org/wiki/Temple_of_Apollo_Palatinus), dedicated in 28 BC (Cass. Dio. LIII,1,3) and physically connected with the dwelling of the first emperor, was surrounded by trees (Solin, I, 8).
 
-A significant element confirming the diffusion and refinement of the art of gardens under Augustus is the quantity of wall paintings showing landscape and vegetal motifs, including ones within the [Augustan complex on the Palatine](https://en.wikipedia.org/wiki/House_of_Augustus): for example, pine bundles were fitted like garlands between the pillars of a portico in “Room of the Pine Festoons;” and garlands of leaves, flowers and buds in various colors were hung between vertical bands in the “Room with Black Walls.”
+A significant element confirming the diffusion and refinement of the art of gardens under [Augustus](https://www.britannica.com/biography/Augustus-Roman-emperor) is the quantity of wall paintings showing landscape and vegetal motifs, including ones within the [Augustan complex on the Palatine](https://en.wikipedia.org/wiki/House_of_Augustus): for example, pine bundles were fitted like garlands between the pillars of a portico in “Room of the Pine Festoons;” and garlands of leaves, flowers and buds in various colors were hung between vertical bands in the “Room with Black Walls.”
 
 In the [House of Livia](https://parcocolosseo.it/en/marvels/the-house-of-livia/), an apartment within Augustus’ dwelling, wall paintings in the right [*ala*](http://vocab.getty.edu/page/aat/300004055) show rows of columns, between which are festoons laden with leaves, fruit tied by ribbons, and various hanging objects associated with and used in the countryside (Fig. 3). In the same room, the elegant frieze in monochrome yellow with lively open-air scenes against a background of countryside and buildings is a lovely example of landscape painting. In the paintings of the so-called [*Triclinium*](http://vocab.getty.edu/page/aat/300004359)), painted landscape elements are seen amidst thick trees, meadows, lakes and animals.
 
-Finally, both the inventor of the [*ars topiaria*](https://en.wikipedia.org/wiki/Topiary), the art of shaping plants into varied forms by trimming their foliage, [C. Matius](https://en.wikipedia.org/wiki/Gaius_Matius), whom [Pliny](https://en.wikipedia.org/wiki/Pliny_the_Elder) defines as  "divi Augusti amicus" (N.H., 12,1 3), and the inventor of garden painting, Studius (or Ludius) (Pliny N.H., 35,16; Vitr., VII,5,2), were active during the Augustan period, thereby strengthening a connection between the emperor and garden spaces.
+Finally, both the inventor of the [*ars topiaria*](https://en.wikipedia.org/wiki/Topiary), the art of shaping plants into varied forms by trimming their foliage, [C. Matius](https://en.wikipedia.org/wiki/Gaius_Matius), whom [Pliny](https://en.wikipedia.org/wiki/Pliny_the_Elder) defines as  "divi Augusti amicus" (N.H., 12,1 3), and the inventor of garden painting, Studius (or Ludius) (Pliny N.H., 35.16; Vitr., VII.5.2), were active during the Augustan period, thereby strengthening a connection between the emperor and garden spaces.
 
 ## Dates
 
