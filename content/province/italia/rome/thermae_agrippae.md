@@ -62,7 +62,7 @@ The *thermae* burned in the fire of 80 CE (Cass. Dio  66.24) and was restored qu
 
 ### Dates
 
-unspecified
+25 BCE; repairs in later periods
 
 #### Excavation Date
 

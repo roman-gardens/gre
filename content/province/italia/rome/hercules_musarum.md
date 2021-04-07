@@ -56,13 +56,13 @@ The *collegium poetarum* ([Val. Max. 3.7.11](http://www.perseus.tufts.edu/hopper
 
 {{< figure src="../images/hercules_musarum_fig2.jpg" alt="fragment from the Forma Urbis Romae showing the corner of the Hercules Musarum complex" title="Figs. 1-2: Hercules Musarum on the FUR." >}}
 
-{{< figure src="../images/.jpg" alt="Base plan of the Hercules Musarum" title="Fig. 2: Base plan (from Coarelli)." >}}
+{{< figure src="../images/.jpg" alt="Base plan of the Hercules Musarum" title="Fig. 3: Base plan (from Coarelli)." >}}
 
-{{< figure src="../images/.jpg" alt="Perspective view looking north along the central axis of the Divorum" title="Fig. 3: A base plan with two potential reconstructions of the porticus. The porticus was at a significantly higher level than the interior courtyard. No connection (i.e. steps) is identified on the plan. Either a raised temple or porticus are possible. The following two sections illustrate the difference in elevations. The second option shows the portico at ground level and the temple elevated. This would allow for access to and from portico and temple. (Linda Anderson)." >}}
+{{< figure src="../images/.jpg" alt="Perspective view looking north along the central axis of the Divorum" title="Fig. 4: A base plan with two potential reconstructions of the porticus. The porticus was at a significantly higher level than the interior courtyard. No connection (i.e. steps) is identified on the plan. Either a raised temple or porticus are possible. The following two sections illustrate the difference in elevations. The second option shows the portico at ground level and the temple elevated. This would allow for access to and from portico and temple. (Linda Anderson)." >}}
 
 ### Dates
 
-built between 187 and 179 BCE
+built between 187 and 179 BCE; restoration and portico in Late Republican era (post 33 BCE)
 
 #### Excavation Date
 
