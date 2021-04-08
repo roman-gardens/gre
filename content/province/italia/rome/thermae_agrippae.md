@@ -52,7 +52,7 @@ In this complex, a grove (*alsos*) was situated between two manmade bodies of wa
 
 Seneca the Younger reports that he used to celebrate the new year by jumping into the cold canal (associated with the Aqua Virgo) (*Ep.* 83.5); this suggests that the *stagnum* and *euripus* were also recreational spaces for the people of Rome. While there is no direct reference to swimming in the *stagnum*, the lake was large enough space that Nero was able to enjoy a sumptuous banquet, while floating on a raft (Tac. *Ann.* 15.37), suggesting that the *stagnum* could have recreational purposes.
 
-The *thermae* burned in the fire of 80 CE (Cass. Dio  66.24) and was restored quickly by Titus or Domitian (Martial 3.20.15, 36.6). Restorations by Hadrian, Constantius and Constans are known. According to Sidonius Apollinarus, the baths are mentioned in the regionary catalogues and were still in use in the fifth century and (*Carm.* 23.496).
+The *thermae* burned in the fire of 80 CE (Cass. Dio  66.24) and was restored quickly by Titus or Domitian (Martial 3.20.15, 36.6). Restorations by Hadrian, Constantius and Constans are known. According to Sidonius Apollinarus, the baths are mentioned in the regionary catalogues and were still in use in the fifth century CE (*Carm.* 23.496).
 
 ### Figures
 
@@ -62,7 +62,7 @@ The *thermae* burned in the fire of 80 CE (Cass. Dio  66.24) and was restored qu
 
 ### Dates
 
-25 BCE; repairs in later periods
+unspecified
 
 #### Excavation Date
 
