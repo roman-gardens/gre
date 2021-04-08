@@ -1,6 +1,6 @@
 ---
 article-type: "province"
-title: "The Garden of the Julio-Claudian Domus, Palatine"
+title: "The Garden of the Julio-Claudian Domus"
 date: 2021-04-04T21:57:59+02:00
 province_id: ITALIA
 author: Jean-Paul Morel
@@ -64,9 +64,9 @@ The garden area enclosed by the colonnade (Fig. 4) contained two basins, below t
 
 An Augustan date is appropriate for some architectural and decorative elements, such as the peristyle column bases without plinths, fragments of [architectural terracottas](http://vocab.getty.edu/page/aat/300010670), and [frescoes](http://vocab.getty.edu/page/aat/300177433) found *in situ* or gathered from the layer of earth rubble that buried the *domus*.  Other elements, however, such as a floor [mosaic](http://vocab.getty.edu/page/aat/300015342) or fragments from an ornamental wall mosaic could possibly date from slightly earlier periods.  
 
-It seems likely that the Augustan dwelling (or dwellings) incorporated an earlier structure dating to perhaps the middle of the third quarter of the first century B.C.  Because most of the decorative elements reflect the style of the [Augustan villa](https://en.wikipedia.org/wiki/House_of_Augustus) and the contemporary [Temple of Apollo on the Palatine](https://en.wikipedia.org/wiki/Temple_of_Apollo_Palatinus), it is likely this *domus* was linked to the imperial court, or at least drew inspiration from the new artistic trends made fashionable by the first [*princeps*](https://en.wikipedia.org/wiki/Princeps).
+It seems likely that the Augustan dwelling (or dwellings) incorporated an earlier structure dating to perhaps the middle of the third quarter of the first century BCE.  Because most of the decorative elements reflect the style of the [Augustan villa](https://en.wikipedia.org/wiki/House_of_Augustus) and the contemporary [Temple of Apollo on the Palatine](https://en.wikipedia.org/wiki/Temple_of_Apollo_Palatinus), it is likely this *domus* was linked to the imperial court, or at least drew inspiration from the new artistic trends made fashionable by the first [*princeps*](https://en.wikipedia.org/wiki/Princeps).
 
-It is possible that the *domus* of the Vigna Barberini was included in [Nero's](https://www.britannica.com/biography/Nero-Roman-emperor) [*Domus Transitoria*](https://en.wikipedia.org/wiki/Domus_Transitoria) and/or his [*Domus Aurea*](https://en.wikipedia.org/wiki/Domus_Aurea), but there are no indications of a Neronian occupation of the site.  On the other hand, it seems clear that the *domus* did not last beyond Nero’s principate, as attested by a cache of coins found in the destruction layer that date to no later than 65 CE.  Such destruction could have been the result of landslides caused by two earthquakes that struck Rome in June 68 ([Suet. Nero, 48](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0132%3Alife%3Dnero%3Achapter%3D48); [Galba, 18](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0132%3Alife%3Dgal.%3Achapter%3D18)). Once ruined, the *domus* was spoliated of most of its elements, the majority of which were dismantled and re-used.
+It is possible that the *domus* of the Vigna Barberini was included in [Nero's](https://www.britannica.com/biography/Nero-Roman-emperor) [*Domus Transitoria*](https://en.wikipedia.org/wiki/Domus_Transitoria) and/or his [*Domus Aurea*](https://en.wikipedia.org/wiki/Domus_Aurea), but there are no indications of a Neronian occupation of the site.  On the other hand, it seems clear that the *domus* did not last beyond Nero’s principate, as attested by a cache of coins found in the destruction layer that date to no later than 65 CE.  Such destruction could have been the result of landslides caused by two earthquakes that struck Rome in June 68 ([Suet. *Nero*, 48](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0132%3Alife%3Dnero%3Achapter%3D48); [*Galba*, 18](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0132%3Alife%3Dgal.%3Achapter%3D18)). Once ruined, the *domus* was spoliated of most of its elements, the majority of which were dismantled and re-used.
 
 ### Figures
 
@@ -80,8 +80,8 @@ Figure. 4. Axonometric reconstruction of the *domus* peristyle. Drawing and wate
 
 ## Bibliography
 
-* J.-P Morel and F. Villedieu, “Le site de la Vigna Barberini à l’époque néronienne”, *Actes du VIe congrès international Neronia VI, Rome à l’époque néronienne* (Roma 19-23 mai 1999), in press. [(worldcat)](https://www.worldcat.org/title/neronia-vi-rome-a-lepoque-neronienne-institutions-et-vie-politique-economie-et-societe-vie-intellectuelle-artistique-et-spirituelle-actes-du-vie-colloque-international-de-la-sien-rome-19-23-mai-1999/oclc/51441167)
-* J.-P Morel, “Una ricca domus con giardino in età giulio-claudia” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 33-43. [(worldcat)](https://www.worldcat.org/title/il-giardino-dei-cesari-dai-palazzi-antichi-alla-vigna-barberini-sul-monte-palatino-scavi-dellecole-francaise-de-rome-1985-1999-guida-alla-mostra/oclc/5894435382)
+* J.-P Morel and F. Villedieu, “Le site de la Vigna Barberini à l’époque néronienne”, *Actes du VIe congrès international Neronia VI, Rome à l’époque néronienne* (Roma 19-23 mai 1999), in press. [(worldcat)](http://www.worldcat.org/oclc/51441167)
+* J.-P Morel, “Una ricca domus con giardino in età giulio-claudia” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 33-43. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
 
 ### Pleiades ID
 
