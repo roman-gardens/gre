@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski
 editor: Nicholas Gill
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"

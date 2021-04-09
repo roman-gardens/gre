@@ -4,7 +4,7 @@ date: 2020-12-14T00:08:52-00:00
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yvette Pollack
-draft: false
+draft: true
 
 categories:
  - "Gallia Narbonensis"

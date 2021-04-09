@@ -7,7 +7,7 @@ article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 408
-draft: true
+draft: false
 
 
 categories:

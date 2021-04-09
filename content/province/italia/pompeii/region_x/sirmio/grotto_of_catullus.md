@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: E. Roffia
 editor: Zhenrui Mei
-draft: false
+draft: true
 
 categories:
  - "Italia"

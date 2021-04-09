@@ -6,7 +6,7 @@ article_id: ARTICLE_ID
 author: Claudine Munier, Christophe Gaston, Maureen Carroll
 editor: June Dorsch
 translator: C.A.
-draft: false
+draft: true
 
 categories:
  - "Germania Superior"

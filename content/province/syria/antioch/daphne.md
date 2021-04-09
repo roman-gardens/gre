@@ -5,7 +5,7 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Christine Kondoleon, Elizabeth Macaulay-Lewis
 editor: Jane Millar
-draft: false
+draft: true
 
 categories:
  - "Syria"

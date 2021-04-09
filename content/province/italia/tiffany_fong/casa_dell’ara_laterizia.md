@@ -6,7 +6,7 @@ article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 539-540
-draft: false
+draft: true
 
 categories:
  - "Italia"

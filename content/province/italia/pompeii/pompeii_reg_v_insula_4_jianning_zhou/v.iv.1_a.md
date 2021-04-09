@@ -5,7 +5,7 @@ province_id: 1052
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Jianing Zhou
-draft: True
+draft: true
 
 categories:
 - "Italia"

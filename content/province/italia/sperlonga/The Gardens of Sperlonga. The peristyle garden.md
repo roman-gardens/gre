@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: EUGENIA SALZA PRINA RICOTTI
 editor: Yuyao Liu
-draft: false
+draft: true
 
 categories:
  - "Italia"

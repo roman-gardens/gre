@@ -5,7 +5,7 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski
 editor: Xue Xia
-draft: true
+draft: false
 
 categories:
   - "Africa Proconsularis"
