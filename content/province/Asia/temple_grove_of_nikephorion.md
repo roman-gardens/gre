@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll and Kathryn Gleason
 editor: Annette Guan
-draft: false
+draft: true
 
 categories:
  - "Asia"
