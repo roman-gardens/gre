@@ -12,6 +12,8 @@ print('\n'*100)
 sBaseDir = '../content/province'
 # sBaseDir = 'test_data'
 
+vKeywordsAll = []
+
 # Navigate the directory tree start at a predefined root directory
 for sRoot, vDirs, vFiles in os.walk(sBaseDir):
 	
@@ -47,7 +49,7 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
 				print(tMatch)
 				if not tMatch in vKeywords:
 					sKeyword = tMatch[0]
-					sKeyword = re.sub('\([^\)]*\)', '', sKeyword)
+					sKeyword = re.sub(r'\[([^\]]+)\](\([^\)]*\))', r'\1', sKeyword)
 					sKeyword = sKeyword.strip()
 					if len(sKeyword):
 						vKeywords.append(sKeyword)
@@ -80,6 +82,7 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
 			# Create MetaData tag list
 			sTags = 'tags:\n'
 			for sKeyword in vKeywords:
+				vKeywordsAll.append(sKeyword)
 				sTags += ' - "%s"\n' % sKeyword
 				print(sKeyword)
 			
@@ -93,3 +96,17 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
 				with open(os.path.join(sRoot,sFilename),'w') as f:
 					f.write(sMetaData + sFile)
 					f.close()
+
+
+vKeywordsAll = list(set(vKeywordsAll))
+# Make one list of all the keywords
+sKeywordList = ''
+for tKeyword in vKeywordsAll:
+	sKeywordList += '%s\n' % tKeyword
+
+sKeywordList = sKeywordList.strip()
+
+# Save that list to a file
+with open('keywords.txt', 'w') as f:
+	f.write(sKeywordList)
+	f.close()
