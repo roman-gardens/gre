@@ -33,7 +33,7 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
 			
 			# Get the keyword section of the file
 			sKeywords = ''
-			iStart = sKeywords.find('### Keywords')
+			iStart = sFile.find('### Keywords')
 			if iStart > -1 and not bDraft:
 				sKeywords = sFile[iStart+13:]
 				iEnd = sKeywords.find('#')
