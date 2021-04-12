@@ -5,7 +5,7 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Kathryn Gleason, Amina-Aïcha Malek
 editor: Jane Millar
-draft: false
+draft: true
 
 categories:
  - "Syria"

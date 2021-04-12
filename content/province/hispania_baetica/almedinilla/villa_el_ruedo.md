@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: ["Clopper Almon","D. Vaquerizo"]
 editor: Lai Ching Tsui
-draft: false
+draft: true
 
 categories:
 

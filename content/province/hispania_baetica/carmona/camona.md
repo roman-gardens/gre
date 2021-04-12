@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti
 editor: Lai Ching Tsui
-draft: false
+draft: true
 
 categories:
 
