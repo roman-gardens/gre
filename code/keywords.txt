@@ -1,215 +1,209 @@
-arcades (structural assemblies)
-atriums
-gutter
-dolium
-aula/forecourt
-stadium
-insulae
-nymphaea (garden structures)
-loam
-peltae
-funerary buildings
-woven
-atrium
-fauces
-courtyard
-pool
-trellises
-walled garden
-pillars
-exedra
-obelisk
-reception rooms
-aedicula
-gutters (building drainage components)
-orchards
-gymnasiums
-caupona
-statuettes (free-standing sculpture)
-aedes
-peristyle
-water features (landscaping)
-vaults
-pools
-ditches
-charcoal
-altar
-grove (sacred grove)
-lararium
-exedrae (site elements)
-triclinia (couches)
-biclinia
-cubicula
-artificial island
-vegetable gardens
-parapets
-impluvia
-artificial islands
-columns
-planters (containers)
-triclinium (room)
-domus
-predellas
-sacellum
-triclinia
-horticultural containers
-porticos
-peristyles (Roman courtyards)
-statues
-tablina
-water supply systems
-tablinum
-engaged columns
-lucus (grove)
-tombs
-nymphaeum
-flower gardens
-[dolia
-palace garden
-naoi (chambers)
-portico
-graffiti
-baroque
-stucco
-porticoes
-cisterns (plumbing components)
-peristyles (colonnades))
-mosaics (visual works)
-garden pavilions
-tufa
-semicircular
-horologium
-drain
-vestibule
-jet d'eau
-stairs
-tondi
-niches
-loggias
-presence chambers
-lararia
-cryptoportici
-temple
-water baths
-shrines (structures)
-masonry
-thermae
-basins (vessels)
-peristyle (Roman courtyards)
-Late Hellenistic
-villae rusticae
-peristyle houses
-horti
-archaeobotany
-basin
-impluvium
-bathhouses (water recreation structures)
-pinakes
 *impluvia*
-inscriptions
-aqueducts
-opus reticulatum
-headboards(fulcrum)
-epitaphs
-ustrins (crematories)
-lattices
-tesserae
-exedrae
-sacella
-pergola
-opus signinum
-insula
-atrium houses
-villae urbanae
-arbors
-dolia
-cistern
-mural paintings (visual works)
-candelabras (candleholders)
-column
-table
-triclinium
-rustic
-tricliniums
-vestibules
-fountains
-tablinium
-flowerpots
-cauponae
-agriculture
-cisterns
-canals (water channels)
-garden ornaments
-reflecting pool
-thermopolium
-reservoirs
-tympanum
-villa
-frescoes (visual works)
-stelae
-temene
-pergolas
-piscinae
-temples
-triumphal arch
-fences (site elements)
-tables (support furniture)
-niches (architectural elements)
-planting beds
-tabernae
-strigillation
-shrine
-balustrade
-pleasure garden
-cascade
-stagnum (man-made lake)
-podium
-amphorae
-palaces
-sundial
-garden lights
-concave
-baetyls
-podiums (building divisions)
-canal
-water wells
-amphitheaters
-busts (sculpture)
-peristyles
-mausoleums
-market gardens
-altars (religious fixtures)
-paradeisos/paradise garden
-vineyards
-biclinium
-oecus
-cubicula (domestic spaces)
-oeci
-nemus (grove)
-mosaics
-vases
-peristyle (Roman courtyard)
+Late Hellenistic
+[dolia
+aedes
+aedicula
 aedicules
-columns (architectural elements)
-castelli aquae
-columbarium/dovecote
-loggia
-piazza
-graffiti (casual notations)
-stuccoing
-colonnades
-peristyles (columnades)
-drains
+agriculture
+altar
+altars (religious fixtures)
+amphitheaters
+amphorae
 amphorae (storage vessels)
-rim
-courtyards
-shrines
-terrazzo
-mosaic
+aqueducts
+arbors
+arcades (structural assemblies)
+archaeobotany
+artificial island
+artificial islands
+atrium
+atrium houses
+atriums
+aula/forecourt
+baetyls
+balustrade
+baroque
+basin
+basins (vessels)
+bathhouses (water recreation structures)
+biclinia
+biclinium
 brim
-hearth
-pollen
-palaestra
+busts (sculpture)
+canal
+canals (water channels)
+candelabras (candleholders)
+cascade
+castelli aquae
+caupona
+cauponae
+charcoal
+cistern
+cisterns
+cisterns (plumbing components)
+colonnades
+columbarium/dovecote
+column
+columns
+columns (architectural elements)
+concave
+courtyard
+courtyards
+cryptoportici
+cubicula
+cubicula (domestic spaces)
+ditches
+dolia
+dolium
+domus
+drain
+drains
+engaged columns
+epitaphs
+exedra
+exedrae
+exedrae (site elements)
+fauces
+fences (site elements)
+flower gardens
+flowerpots
+fountains
+frescoes (visual works)
+funerary buildings
+garden lights
+garden ornaments
+garden pavilions
 geometric
+graffiti
+graffiti (casual notations)
+grove (sacred grove)
+gutter
+gutters (building drainage components)
+gymnasiums
+headboards(fulcrum)
+hearth
+horologium
+horti
+horticultural containers
+impluvia
+impluvium
+inscriptions
+insula
+insulae
+jet d'eau
+lararia
+lararium
+lattices
 lecti
+loam
+loggia
+loggias
+lucus (grove)
+market gardens
+masonry
+mausoleums
+mosaic
+mosaics
+mosaics (visual works)
+mural paintings (visual works)
+naoi (chambers)
+nemus (grove)
+niches
+niches (architectural elements)
+nymphaea (garden structures)
+nymphaeum
+obelisk
+oeci
+oecus
+opus reticulatum
+opus signinum
+orchards
+palace garden
+palaces
+palaestra
+paradeisos/paradise garden
+parapets
+peltae
+pergola
+pergolas
+peristyle houses
+peristyles (Roman courtyards)
+piazza
+pillars
+pinakes
+piscinae
+planters (containers)
+planting beds
+pleasure garden
+podium
+podiums (building divisions)
+pollen
+pool
+pools
+portico
+porticoes
+porticos
+predellas
+presence chambers
+reception rooms
+reflecting pool
+reservoirs
+rim
+rustic
+sacella
+sacellum
+semicircular
+shrine
+shrines
+shrines (structures)
+stadium
+stagnum (man-made lake)
+stairs
+statues
+statuettes (free-standing sculpture)
+stelae
+strigillation
+stucco
+stuccoing
+sundial
+tabernae
+table
+tables (support furniture)
+tablina
+tablinium
+tablinum
+temene
+temple
+temples
 terrace gardens
+terrazzo
+tesserae
+thermae
+thermopolium
+tombs
+tondi
+trellises
+triclinia
+triclinia (couches)
+triclinium
+triclinium (room)
+tricliniums
+triumphal arch
+tufa
+tympanum
+ustrins (crematories)
+vases
+vaults
+vegetable gardens
+vestibule
+vestibules
+villa
+villae rusticae
+villae urbanae
+vineyards
+walled garden
+water baths
+water features (landscaping)
+water supply systems
+water wells
+woven

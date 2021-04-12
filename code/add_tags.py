@@ -98,8 +98,11 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
 					f.close()
 
 
-vKeywordsAll = list(set(vKeywordsAll))
 # Make one list of all the keywords
+
+vKeywordsAll = list(set(vKeywordsAll))
+vKeywordsAll.sort()
+
 sKeywordList = ''
 for tKeyword in vKeywordsAll:
 	sKeywordList += '%s\n' % tKeyword
