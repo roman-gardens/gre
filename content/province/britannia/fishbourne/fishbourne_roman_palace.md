@@ -9,10 +9,6 @@ draft: false
 
 categories:
  - "Britannia"
-tags:
-  - "colonnades"
-  - "palaces"
-  - "piscinae"
 ---
 
 ## Province

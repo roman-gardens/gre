@@ -1,5 +1,4 @@
 ---
-
 title: "House of Summer Triclinium (II.ix.6-7)"
 date: 2020-12-10T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,12 +12,14 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "masonry"
-  - "triclinia"
-  - "pergolas"
-  - "lecti"
-  - "reservoirs"
-  - "lattices"
+ - "dolia"
+ - "lattices"
+ - "lecti"
+ - "masonry"
+ - "pergolas"
+ - "portico"
+ - "reservoirs"
+ - "triclinia"
 ---
 
 ## Province

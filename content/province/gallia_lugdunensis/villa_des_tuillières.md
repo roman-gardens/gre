@@ -10,9 +10,6 @@ draft: true
 categories:
  - "Gallia"
  - "Gallia Lugdunensis"
-
-tags:
-  - "Villa des Tuillières"
 ---
 
 ## Province

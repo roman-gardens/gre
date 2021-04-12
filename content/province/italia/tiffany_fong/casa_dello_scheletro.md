@@ -10,14 +10,8 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-
-  - "aedicula"
-  - "tympanum"
-  - "pergola"
-  - "amorino"
-
 ---
+
 ## Province
 
 [Italia]({{<relref "../../../..">}}) \

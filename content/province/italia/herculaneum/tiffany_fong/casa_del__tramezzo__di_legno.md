@@ -10,9 +10,8 @@ draft: false
 categories:
  - "Italia"
 tags:
-
-  - "triclinium"
-  - "loggia"
+ - "loggia"
+ - "triclinium"
 ---
 
 ## Province

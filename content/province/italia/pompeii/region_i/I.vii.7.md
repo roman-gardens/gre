@@ -11,16 +11,15 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "aedicules"
-  - "atriums"
-  - "cisterns"
-  - "columns"
-  - "lararia"
-  - "peristles"
-  - "porticoes"
-  - "tables"
-  - "triclinia"
-
+ - "aedicules"
+ - "atriums"
+ - "cisterns"
+ - "columns"
+ - "lararia"
+ - "peristyles"
+ - "porticoes"
+ - "tables"
+ - "triclinia"
 ---
 
 ## Province

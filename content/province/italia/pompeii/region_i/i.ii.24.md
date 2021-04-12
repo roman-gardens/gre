@@ -11,15 +11,14 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "aedicula"
-  - "amphorae"
-  - "atrium"
-  - "caupona"
-  - "flowerpots"
-  - "lararium"
-  - "portico"
-  - "triclinium"
-
+ - "aedicula"
+ - "amphorae"
+ - "atrium"
+ - "caupona"
+ - "flowerpots"
+ - "lararium"
+ - "portico"
+ - "triclinium"
 ---
 
 ## Province

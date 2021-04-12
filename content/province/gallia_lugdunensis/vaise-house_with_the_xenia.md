@@ -10,9 +10,6 @@ draft: true
 categories:
  - "Gallia"
  - "Gallia Lugdunensis"
- 
-tags:
-  - "Vaise - House with Xenia"
 ---
 
 ## Province

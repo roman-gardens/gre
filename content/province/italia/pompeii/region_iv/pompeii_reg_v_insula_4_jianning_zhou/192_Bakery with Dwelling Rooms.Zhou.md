@@ -9,6 +9,10 @@ draft: false
 
 categories:
 - "Italia"
+tags:
+ - "basin"
+ - "gutters"
+ - "porticoes"
 ---
 
 ## Province

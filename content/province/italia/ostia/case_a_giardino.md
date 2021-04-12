@@ -6,6 +6,10 @@ article_id: ARTICLE_ID
 author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "fountains"
+ - "mosaics"
+ - "statues"
 ---
 
 ## Province

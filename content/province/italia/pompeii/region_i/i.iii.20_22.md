@@ -11,10 +11,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "dolia"
-  - "peristyle"
-  - "triclinium"
-
+ - "dolia"
+ - "peristyle"
+ - "triclinium"
 ---
 
 ## Province

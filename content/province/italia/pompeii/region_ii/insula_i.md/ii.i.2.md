@@ -11,8 +11,8 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "tabernae"
-  - "amphorae"
+ - "amphorae"
+ - "tabernae"
 ---
 
 ## Province

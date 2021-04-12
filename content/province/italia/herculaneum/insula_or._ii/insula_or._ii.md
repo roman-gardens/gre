@@ -1,5 +1,4 @@
 ---
-
 title: "Insula or. II"
 date: 2020-09-30T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -12,11 +11,9 @@ draft: false
 
 categories:
   - "Italia"
-
 tags:
-- "Herculaneum"
-- "porticos"
-- "peristyles"
+ - "peristyles"
+ - "porticos"
 ---
 
 ## Province

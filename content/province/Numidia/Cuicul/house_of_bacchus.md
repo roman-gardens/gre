@@ -9,6 +9,15 @@ draft: false
 
 categories:
   - "Numidia"
+tags:
+ - "amphorae"
+ - "domus"
+ - "mosaics"
+ - "oeci"
+ - "pergolas"
+ - "peristyle houses"
+ - "piscinae"
+ - "statuettes"
 ---
 
 ## Province

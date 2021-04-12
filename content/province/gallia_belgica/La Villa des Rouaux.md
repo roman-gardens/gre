@@ -10,9 +10,6 @@ draft: true
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "La Villa des Rouaux"
 ---
 
 ## Province

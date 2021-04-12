@@ -9,6 +9,11 @@ draft: false
 
 categories:
 - "Italia"
+tags:
+ - "cisterns"
+ - "fountains"
+ - "lararia"
+ - "trellises"
 ---
 
 ## Province

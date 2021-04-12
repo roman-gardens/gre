@@ -11,9 +11,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "amphorae"
-  - "caupona"
-  - "portico"
+ - "amphorae"
+ - "caupona"
+ - "portico"
 ---
 
 ## Province

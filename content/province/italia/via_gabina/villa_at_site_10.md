@@ -9,12 +9,6 @@ draft: true
 
 categories:
 - "italia"
-tags:
-  - "courtyards"
-  - "corridors"
-  - "mosaics (visual works)"
-  - "domus"
-  - "villae suburbanae"
 ---
 
 ## Province

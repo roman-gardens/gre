@@ -11,9 +11,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "aedicula"
-  - "lararium"
-  - "portico"
+ - "aedicula"
+ - "lararium"
+ - "portico"
 ---
 
 ## Province

@@ -9,9 +9,6 @@ draft: true
 
 categories:
  - "Gallia"
-
-tags:
-  - "Sainte-Marguerite-sur-Mer (Seine-Maritime) Roman Villa"
 ---
 
 ## Province

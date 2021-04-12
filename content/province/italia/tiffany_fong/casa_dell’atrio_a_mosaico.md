@@ -10,10 +10,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-- "portico"
-- "exedra"
-- "triclinium"
 ---
 
 ## Province

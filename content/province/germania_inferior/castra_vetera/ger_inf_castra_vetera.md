@@ -9,14 +9,6 @@ draft: true
 
 categories:
  - "Germania Inferior"
-tags:
-  - "Pliny the Younger"
-  - "atriums"
-  - "castra"
-  - "pedestals"
-  - "peristyles"
-  - "praetoriums"
-  - "tablina"
 ---
 
 ## Province

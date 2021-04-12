@@ -6,6 +6,14 @@ province_id: PROVINCE_ID
 author: E.R. Macaulay and Holly Spoth-Torres
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "colonnades"
+ - "domus"
+ - "exedrae"
+ - "frescoes"
+ - "pergolas"
+ - "porticoes"
+ - "shrines"
 ---
 
 ## Province

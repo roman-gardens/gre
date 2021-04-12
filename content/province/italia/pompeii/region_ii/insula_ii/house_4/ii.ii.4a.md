@@ -10,8 +10,8 @@ draft: false
 categories:
  - "Italia"
 tags:
-  - "peristyle"
-  - "villa"
+ - "courtyards"
+ - "villa"
 ---
 
 ## Province

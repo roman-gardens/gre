@@ -9,9 +9,8 @@ draft: true
 
 categories:
  - "Hispania Tarraconensis"
-
-
 ---
+
 [Hispania Tarraconensis]({{<relref "..">}}) \
 [Tarraconensis(Pleiades)](https://pleiades.stoa.org/places/981551)
 

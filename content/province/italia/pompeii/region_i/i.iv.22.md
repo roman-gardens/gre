@@ -11,9 +11,8 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "lararia"
-  - "tablinum"
-
+ - "atrium"
+ - "triclinium"
 ---
 
 ## Province

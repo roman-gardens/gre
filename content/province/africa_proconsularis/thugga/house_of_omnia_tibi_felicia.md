@@ -10,8 +10,9 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
+ - "impluvium"
+ - "portico"
 ---
-
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \

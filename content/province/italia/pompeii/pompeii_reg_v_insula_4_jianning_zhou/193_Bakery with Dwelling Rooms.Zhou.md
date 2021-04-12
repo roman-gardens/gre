@@ -9,6 +9,13 @@ draft: false
 
 categories:
 - "Italia"
+tags:
+ - "altars"
+ - "cisterns"
+ - "gutters"
+ - "lararia"
+ - "trellises"
+ - "triclinia"
 ---
 
 ## Province

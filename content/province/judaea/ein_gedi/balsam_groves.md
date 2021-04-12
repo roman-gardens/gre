@@ -9,11 +9,8 @@ draft: false
 
 categories:
  - "Judaea"
-
 tags:
-  - "fences"
-  - "orchards"
-  - "villae rusticae"
+ - "orchards"
 ---
 
 ## Province

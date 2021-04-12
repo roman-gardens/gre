@@ -9,12 +9,6 @@ draft: true
 
 categories:
  - "Germania Superior"
-tags:
-  
-  - "insulae"
-  - "peristyles"
-  - "porticoes"
-  - "terrace gardens"
 ---
 
 ## Province

@@ -1,5 +1,4 @@
 ---
-
 title: "Casa del Larario Fiorito (II.ix.4)"
 date: 2020-12-10T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,10 +12,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "ambulatione"
-  - "triclinia"
-  - "charcoal"
-  - "pollen"
+ - "charcoal"
+ - "pollen"
+ - "triclinia"
 ---
 
 ## Province

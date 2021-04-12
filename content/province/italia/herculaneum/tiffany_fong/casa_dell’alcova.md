@@ -10,9 +10,8 @@ draft: false
 categories:
  - "Italia"
 tags:
-- "atrium"
-- "triclinium"
-- "procoeton"
+ - "atrium"
+ - "triclinium"
 ---
 
 ## Province

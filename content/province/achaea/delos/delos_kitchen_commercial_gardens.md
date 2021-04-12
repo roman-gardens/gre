@@ -10,7 +10,8 @@ draft: false
 categories:
  - "Achaea"
 tags:
-- "#"
+ - "inscriptions"
+ - "market gardens"
 ---
 
 ## Province

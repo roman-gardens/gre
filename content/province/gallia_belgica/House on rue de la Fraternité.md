@@ -10,9 +10,6 @@ draft: true
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "House on rue de la Fraternité"
 ---
 
 ## Province

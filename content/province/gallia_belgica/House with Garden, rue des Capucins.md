@@ -10,9 +10,6 @@ draft: true
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "House with Garden, rue des Capucins"
 ---
 
 ## Province

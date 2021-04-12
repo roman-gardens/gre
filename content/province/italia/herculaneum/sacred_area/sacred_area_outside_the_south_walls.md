@@ -1,5 +1,4 @@
 ---
-
 title: "Sacred Area Outside the South Walls"
 date: 2020-10-20T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -12,12 +11,12 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "parapets"
-  - "podium"
-  - "shrine"
-  - "woven"
-  - "rim"
-  - "trellises"
+ - "parapets"
+ - "podium"
+ - "rim"
+ - "shrine"
+ - "trellises"
+ - "woven"
 ---
 
 ## Province

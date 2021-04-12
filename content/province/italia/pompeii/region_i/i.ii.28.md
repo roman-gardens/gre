@@ -11,10 +11,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "portico"
-  - "tablinum"
-  - "triclinium"
-
+ - "portico"
+ - "tablinum"
+ - "triclinium"
 ---
 
 ## Province

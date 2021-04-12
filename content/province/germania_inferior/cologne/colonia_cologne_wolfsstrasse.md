@@ -9,11 +9,6 @@ draft: true
 
 categories:
  - "Germania Inferior"
-tags:
-  - "colonnades"
-  - "mural paintings"
-  - "peristyles"
-  - "villae urbanae"
 ---
 
 ## Province

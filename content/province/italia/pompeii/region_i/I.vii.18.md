@@ -11,11 +11,10 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "atriums"
-  - "fences"
-  - "mural paintings"
-  - "piscinae"
-
+ - "atriums"
+ - "fences"
+ - "mural paintings"
+ - "piscinae"
 ---
 
 ## Province

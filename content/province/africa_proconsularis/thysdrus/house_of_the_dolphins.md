@@ -10,7 +10,10 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- 
+ - "domus"
+ - "lararia"
+ - "oeci"
+ - "peristyle houses"
 ---
 
 ## Province

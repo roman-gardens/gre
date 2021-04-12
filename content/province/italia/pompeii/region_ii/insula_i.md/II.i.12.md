@@ -11,14 +11,14 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "cistern"
-  - "root cavities"
-  - "water supply systems"
-  - "earthquake"
-  - "sacellum"
-  - "religious artefacts"
-  - "root cavities"
-  - "columns"
+ - "altar"
+ - "cisterns"
+ - "columns"
+ - "graffiti"
+ - "peristyle"
+ - "sacella"
+ - "vestibule"
+ - "water supply systems"
 ---
 
 ## Province

@@ -9,6 +9,12 @@ draft: false
 
 categories:
   - "Numidia"
+tags:
+ - "domus"
+ - "exedrae"
+ - "mosaics"
+ - "peristyle houses"
+ - "piscinae"
 ---
 
 ## Province

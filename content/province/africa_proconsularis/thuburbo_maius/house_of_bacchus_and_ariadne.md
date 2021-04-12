@@ -10,8 +10,12 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
+ - "domus"
+ - "insula"
+ - "mosaic"
+ - "peristyle houses"
+ - "triclinium"
 ---
-
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \

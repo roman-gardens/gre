@@ -1,5 +1,4 @@
 ---
-
 title: "562.Insula or. I.2-3(B)"
 date: 2020-09-30T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,9 +12,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "atrium"
-  - "peristyles"
-  - "stuccoing"
+ - "atrium"
+ - "peristyles"
+ - "stuccoing"
 ---
 
 ## Province

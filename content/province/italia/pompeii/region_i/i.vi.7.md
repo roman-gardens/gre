@@ -11,12 +11,11 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "atrium"
-  - "peristyles"
-  - "pillars"
-  - "porticoes"
-  - "gutters"
-
+ - "atrium houses"
+ - "gutters"
+ - "peristyles"
+ - "pillars"
+ - "porticoes"
 ---
 
 ## Province

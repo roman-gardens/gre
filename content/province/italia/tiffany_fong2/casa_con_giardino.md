@@ -10,9 +10,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-- "fauces"
-
 ---
 
 ## Province

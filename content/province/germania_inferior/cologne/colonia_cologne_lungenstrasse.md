@@ -8,9 +8,6 @@ draft: true
 
 categories:
  - "Germania Inferior"
-tags:
-  - "mural paintings"
-  - "peristyles"
 ---
 
 ## Province

@@ -10,8 +10,8 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
+ - "mosaic"
 ---
-
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \

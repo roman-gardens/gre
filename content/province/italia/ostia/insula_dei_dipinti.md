@@ -6,6 +6,11 @@ article_id: ARTICLE_ID
 author: Janet DeLaine
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "aedicules"
+ - "flowerpots"
+ - "insulae"
+ - "mosaics"
 ---
 
 ## Province

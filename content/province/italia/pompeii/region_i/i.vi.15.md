@@ -11,15 +11,14 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "basins"
-  - "cisterns"
-  - "fountains"
-  - "garden lights"
-  - "garden ornaments"
-  - "gutters"
-  - "mural paintings"
-  - "porticoes"
-
+ - "basins"
+ - "cisterns"
+ - "fountains"
+ - "garden lights"
+ - "garden ornaments"
+ - "gutters"
+ - "mural paintings"
+ - "porticoes"
 ---
 
 ## Province

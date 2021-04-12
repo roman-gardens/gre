@@ -10,8 +10,10 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
+ - "balustrade"
+ - "oecus"
+ - "portico"
 ---
-
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \

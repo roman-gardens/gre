@@ -11,11 +11,11 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "peristyle"
-  - "portico"
-  - "tablinum"
-  - "water"
-
+ - "exedrae"
+ - "lararium"
+ - "peristyle"
+ - "portico"
+ - "tablinum"
 ---
 
 ## Province

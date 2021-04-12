@@ -9,10 +9,6 @@ draft: true
 
 categories:
  - "Germania Superior"
-tags:
-  
-  - "porticoes"
-  - "villae rusticae"
 ---
 
 ## Province

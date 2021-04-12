@@ -10,7 +10,10 @@ draft: false
 categories:
  - "Achaea"
 tags:
-- "#"
+ - "*impluvia*"
+ - "nymphaea"
+ - "oeci"
+ - "peristyles"
 ---
 
 ## Province

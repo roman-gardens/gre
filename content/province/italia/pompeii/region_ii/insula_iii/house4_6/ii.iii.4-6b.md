@@ -10,8 +10,8 @@ draft: false
 categories:
  - "Italia"
 tags:
-  - "courtyard"
-  - "villa"
+ - "courtyards"
+ - "villa"
 ---
 
 ## Province

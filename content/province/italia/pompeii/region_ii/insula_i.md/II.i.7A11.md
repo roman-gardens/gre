@@ -11,11 +11,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "cistern"
-  - "root cavities"
-  - "water supply systems"
-  - "earthquake"
-  - "dolium"
+ - "cisterns"
+ - "dolium"
+ - "water supply systems"
 ---
 
 ## Province

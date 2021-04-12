@@ -9,9 +9,6 @@ draft: true
 
 categories:
  - "Gallia"
-
-tags:
-  - "House on the rue de la Harpe ( Domus rue de la Harpe)"
 ---
 
 ## Province

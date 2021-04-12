@@ -10,13 +10,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-- "triclinium"
-- "oecus"
-- "portico"
-- "trapezophron"
-- "puteal"
-- "pergola"
 ---
 
 ## Province

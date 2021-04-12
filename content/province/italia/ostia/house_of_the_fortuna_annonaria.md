@@ -6,6 +6,12 @@ article_id: ARTICLE_ID
 author: Elizabeth J. Shepherd
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "basins"
+ - "columns"
+ - "mosaics"
+ - "nymphaea"
+ - "oeci"
 ---
 
 ## Province

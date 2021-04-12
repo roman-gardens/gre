@@ -10,9 +10,6 @@ draft: true
 categories:
  - "Gallia"
  - "Belgica"
- 
-tags:
-  - "Rural Villa"
 ---
 
 ## Province

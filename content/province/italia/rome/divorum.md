@@ -6,6 +6,14 @@ province_id: PROVINCE_ID
 author: Valerie Aymer and Kathryn Gleason
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "altars"
+ - "canals"
+ - "columns"
+ - "exedrae"
+ - "porticoes"
+ - "temples"
+ - "triumphal arch"
 ---
 
 ## Province

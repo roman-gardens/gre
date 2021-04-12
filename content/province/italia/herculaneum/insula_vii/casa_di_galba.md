@@ -1,5 +1,4 @@
 ---
-
 title: "Casa di Galba (VII.2)"
 date: 2020-10-20T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -12,11 +11,10 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "stuccoing"
-  - "porticoes"
-  - "peristyle houses"
-  - "exedrae"
-
+ - "exedrae"
+ - "peristyle houses"
+ - "porticoes"
+ - "stuccoing"
 ---
 
 ## Province

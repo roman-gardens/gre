@@ -10,9 +10,6 @@ draft: true
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "House of the Arsenal (Maison de l’Arsenal)"
 ---
 
 ## Province

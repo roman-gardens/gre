@@ -11,13 +11,11 @@ draft: false
 categories:
  - "Italia"
 tags:
-  - "trellises"
-  - "triclinia (couches)"
-  - "vineyards"
-  - "dolia"
-  - "animal bones"
-
-
+ - "[dolia"
+ - "amphitheaters"
+ - "trellises"
+ - "triclinia"
+ - "vineyards"
 ---
 
 ## Province

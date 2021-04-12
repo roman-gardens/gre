@@ -10,6 +10,8 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
+ - "peristyle"
+ - "portico"
 ---
 
 ## Province

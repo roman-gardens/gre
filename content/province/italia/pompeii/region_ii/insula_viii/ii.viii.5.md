@@ -1,5 +1,4 @@
 ---
-
 title: "II.viii.5"
 date: 2020-12-10T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,8 +12,10 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "caupona"
-
+ - "atrium"
+ - "caupona"
+ - "tabernae"
+ - "triclinia"
 ---
 
 ## Province

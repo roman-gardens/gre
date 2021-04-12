@@ -9,6 +9,12 @@ draft: false
 
 categories:
 - "Italia"
+tags:
+ - "fountains"
+ - "headboards"
+ - "porticoes"
+ - "trellises"
+ - "triclinia"
 ---
 
 ## Province

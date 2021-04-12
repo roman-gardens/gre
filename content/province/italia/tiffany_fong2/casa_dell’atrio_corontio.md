@@ -10,11 +10,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-- "impluvium"
-- "atrium"
-- "peristyle"
-- "viridarium"
 ---
 
 ## Province

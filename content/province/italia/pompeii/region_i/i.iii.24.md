@@ -11,9 +11,10 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "peristyle"
-  - "portico"
-
+ - "lararium"
+ - "peristyle"
+ - "portico"
+ - "triclinium"
 ---
 
 ## Province

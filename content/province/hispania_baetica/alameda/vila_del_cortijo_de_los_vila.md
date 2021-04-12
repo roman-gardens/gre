@@ -8,9 +8,6 @@ editor: Lai Ching Tsui
 draft: true
 
 categories:
-
-tags:
-
 ---
 
 ## Province

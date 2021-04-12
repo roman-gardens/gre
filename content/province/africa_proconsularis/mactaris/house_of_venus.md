@@ -9,8 +9,6 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
-tags:
-
 ---
 
 ## Province

@@ -10,9 +10,6 @@ draft: true
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "Urban House East of Forum"
 ---
 
 ## Province

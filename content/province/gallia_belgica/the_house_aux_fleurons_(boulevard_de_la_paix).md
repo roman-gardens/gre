@@ -10,9 +10,6 @@ draft: true
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "The House aux Fleurons (boulevard de la Paix)"
 ---
 
 ## Province

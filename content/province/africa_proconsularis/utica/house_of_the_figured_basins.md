@@ -10,7 +10,9 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
-
+ - "brim"
+ - "geometric"
+ - "semicircular"
 ---
 
 ## Province

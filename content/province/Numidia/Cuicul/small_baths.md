@@ -9,6 +9,11 @@ draft: false
 
 categories:
   - "Numidia"
+tags:
+ - "mosaics"
+ - "pergola"
+ - "piscinae"
+ - "porticoes"
 ---
 
 ## Province

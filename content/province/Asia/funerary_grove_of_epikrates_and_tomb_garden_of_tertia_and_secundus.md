@@ -9,11 +9,6 @@ draft: true
 
 categories:
  - "Asia"
-tags:
-  - "stelae"
-  - "vineyards"
-  - "sacred grove"
-  - "inscription"
 ---
 
 ## Province

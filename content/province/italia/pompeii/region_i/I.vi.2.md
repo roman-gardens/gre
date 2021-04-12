@@ -10,19 +10,6 @@ draft: false
 
 categories:
   - "Italia"
-tags:
-  - "atriums"
-  - "busts"
-  - "columns"
-  - "cryptoportici"
-  - "lararia"
-  - "loggias"
-  - "mural paintings"
-  - "peristyles"
-  - "pillars"
-  - "porticoes"
-  - "stairs"
-
 ---
 
 ## Province

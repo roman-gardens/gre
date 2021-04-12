@@ -10,12 +10,18 @@ draft: false
 categories:
  - "Italia"
 tags:
-
-  - "cisterns"
-  - "gutters"
-  - "mural paintings"
-  - "peristyles"
-  - "porticoes"
+ - "atrium houses"
+ - "cryptoportici"
+ - "gutters"
+ - "mosaics"
+ - "mural paintings"
+ - "peristyles"
+ - "podiums"
+ - "porticoes"
+ - "presence chambers"
+ - "reception rooms"
+ - "tesserae"
+ - "villae urbanae"
 ---
 
 ## Province

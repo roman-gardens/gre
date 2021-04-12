@@ -9,9 +9,6 @@ draft: true
 
 categories:
  - "Gallia"
-
-tags:
-  - "*Domus* of the Place Epars"
 ---
 
 ## Province

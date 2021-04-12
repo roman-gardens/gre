@@ -1,5 +1,4 @@
 ---
-
 title: "Casa del Colonnato Tuscanico (VI.17/26)"
 date: 2020-10-10T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -12,12 +11,11 @@ draft: false
 
 categories:
   - "Italia"
-
 tags:
-- "Herculaneum"
-- "porticos"
-- "peristyle houses"
+ - "peristyle houses"
+ - "porticos"
 ---
+
 ## Province
 
 [Italia]({{<relref "../../../..">}}) \

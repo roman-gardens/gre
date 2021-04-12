@@ -11,9 +11,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "caupona"
-  - "biclinium"
-  - "lararium"
+ - "biclinium"
+ - "caupona"
+ - "lararium"
 ---
 
 ## Province

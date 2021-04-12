@@ -9,10 +9,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-  - "villa"
-
-
 ---
 
 ## Province

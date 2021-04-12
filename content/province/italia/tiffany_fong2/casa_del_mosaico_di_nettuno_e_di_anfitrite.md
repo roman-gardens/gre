@@ -10,11 +10,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-- "triclinium"
-- "nymphaeum"
-- "amphora"
-
 ---
 
 ## Province

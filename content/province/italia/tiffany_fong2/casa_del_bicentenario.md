@@ -10,11 +10,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-- "portico"
-- "tablinium"
-- "dolium"
-- "puteal"
 ---
 
 ## Province

@@ -6,6 +6,16 @@ province_id: ITALIA
 author: Valerie Aymer
 editor: Rhiannon Pare
 draft: false
+tags:
+ - "aqueducts"
+ - "cisterns"
+ - "nemus"
+ - "niches"
+ - "nymphaea"
+ - "planting beds"
+ - "porticoes"
+ - "stagnum"
+ - "temple"
 ---
 
 # Province

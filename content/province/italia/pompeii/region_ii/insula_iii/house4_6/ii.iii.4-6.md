@@ -10,11 +10,12 @@ draft: false
 categories:
  - "Italia"
 tags:
-  - "statuettes"
-  - "tufa"
-  - "cistern"
-  - "sacellum"
-  - "lararium"
+ - "caupona"
+ - "cistern"
+ - "lararium"
+ - "sacellum"
+ - "statuettes"
+ - "tufa"
 ---
 
 ## Province

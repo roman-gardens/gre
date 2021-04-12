@@ -11,11 +11,11 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "atriums"
-  - "columns"
-  - "graffiti"
-  - "porticoes"
-  - "stucco"
+ - "atriums"
+ - "columns"
+ - "graffiti"
+ - "porticoes"
+ - "stucco"
 ---
 
 ## Province

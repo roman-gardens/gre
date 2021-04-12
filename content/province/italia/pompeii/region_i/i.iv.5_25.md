@@ -11,15 +11,14 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "exedrae"
-  - "fountains"
-  - "oeci"
-  - "peristyle"
-  - "portico"
-  - "stucco"
-  - "tablinum"
-  - "triclinia"
-
+ - "exedrae"
+ - "fountains"
+ - "oeci"
+ - "peristyle"
+ - "portico"
+ - "stucco"
+ - "tablinum"
+ - "triclinium"
 ---
 
 ## Province

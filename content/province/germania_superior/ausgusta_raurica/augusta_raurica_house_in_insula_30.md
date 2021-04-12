@@ -9,13 +9,6 @@ draft: true
 
 categories:
  - "Germania Superior"
-tags:
-  
-  - "colonnades"
-  - "insulae"
-  - "peristyles"
-  - "triclinia"
-  - "water wells"
 ---
 
 ## Province

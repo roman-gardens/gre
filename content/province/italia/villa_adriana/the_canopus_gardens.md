@@ -6,6 +6,15 @@ article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "canal"
+ - "cisterns"
+ - "columns"
+ - "exedrae"
+ - "flower gardens"
+ - "mosaics"
+ - "porticoes"
+ - "statues"
 ---
 
 ## Province

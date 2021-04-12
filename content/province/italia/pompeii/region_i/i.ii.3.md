@@ -11,8 +11,7 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "viridarium"
-  - "flower beds"
+ - "columns"
 ---
 
 ## Province

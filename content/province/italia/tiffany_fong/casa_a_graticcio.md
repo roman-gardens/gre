@@ -10,7 +10,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
 ---
 
 ## Province

@@ -9,9 +9,6 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
-tags:
-  - "domus"
-  - "Maison"
 ---
 
 ## Province

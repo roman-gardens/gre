@@ -9,9 +9,6 @@ draft: true
 
 categories:
  - "Gallia"
-
-tags:
-  - "Richebourg (Yvelines) villa de"
 ---
 
 ## Province

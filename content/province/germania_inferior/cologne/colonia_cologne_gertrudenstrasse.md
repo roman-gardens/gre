@@ -9,10 +9,6 @@ draft: true
 
 categories:
  - "Germania Inferior"
-tags:
-  - "peristyles"
-  - "piscinae"
-  - "villae urbanae"
 ---
 
 ## Province

@@ -6,7 +6,6 @@ article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Brandon Wilson
 draft: true
-
 ---
 
 ## Province

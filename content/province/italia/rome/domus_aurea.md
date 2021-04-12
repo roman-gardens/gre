@@ -6,6 +6,16 @@ province_id: PROVINCE_ID
 author: E.R. Macaulay and Linda Anderson
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "cryptoportici"
+ - "domus"
+ - "exedrae"
+ - "nemus"
+ - "nymphaea"
+ - "peristyles"
+ - "porticoes"
+ - "stagnum"
+ - "terrace gardens"
 ---
 
 ## Province

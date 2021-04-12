@@ -9,10 +9,10 @@ draft: false
 
 categories:
   - "Africa proconsularis"
-
 tags:
+ - "peristyle"
+ - "pool"
 ---
-
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \

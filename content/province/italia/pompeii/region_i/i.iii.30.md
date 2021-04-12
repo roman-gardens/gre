@@ -11,10 +11,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "lararium"
-  - "peristyle"
-  - "portico"
-
+ - "lararium"
+ - "peristyle"
+ - "portico"
 ---
 
 ## Province

@@ -10,9 +10,6 @@ draft: true
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "House of the Ram (La Maison au Bélier)"
 ---
 
 ## Province

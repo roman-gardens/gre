@@ -10,9 +10,9 @@ draft: false
 categories:
  - "Italia"
 tags:
-- "sacellum"
-- "portico"
-- "opus reticulatum"
+ - "opus reticulatum"
+ - "portico"
+ - "sacellum"
 ---
 
 ## Province

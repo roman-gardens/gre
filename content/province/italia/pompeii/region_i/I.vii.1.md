@@ -11,15 +11,15 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "columns"
-  - "fountains"
-  - "gutters"
-  - "oeci"
-  - "peristyles"
-  - "porticoes"
-  - "tablina"
-  - "triclinia"
-
+ - "columns"
+ - "fountains"
+ - "gutters"
+ - "oeci"
+ - "peristyles"
+ - "piscinae"
+ - "porticoes"
+ - "tablina"
+ - "triclinia"
 ---
 
 ## Province

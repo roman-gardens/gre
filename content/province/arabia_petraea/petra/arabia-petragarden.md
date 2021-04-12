@@ -10,7 +10,16 @@ draft: false
 categories:
  - "Arabia Petraea"
 tags:
-- "#"
+ - "archaeobotany"
+ - "artificial islands"
+ - "castelli aquae"
+ - "colonnades"
+ - "exedrae"
+ - "garden pavilions"
+ - "horticultural containers"
+ - "pergolas"
+ - "terrace gardens"
+ - "water features"
 ---
 
 ## Province

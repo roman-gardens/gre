@@ -9,13 +9,6 @@ draft: true
 
 categories:
  - "Germania Inferior"
-tags:
-  - "axial plan"
-  - "insulae"
-  - "peristyles"
-  - "piscinae"
-  - "triclinia"
-  - "villae urbanae"
 ---
 
 ## Province

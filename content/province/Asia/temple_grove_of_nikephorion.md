@@ -9,10 +9,6 @@ draft: true
 
 categories:
  - "Asia"
-tags:
-  - "groves"
-  - "sanctuary"
-  - "inscription"
 ---
 
 ## Province

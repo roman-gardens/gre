@@ -9,9 +9,6 @@ draft: true
 
 categories:
  - "Gallia"
-
-tags:
-  - "Villa de Châtillon-sur-Seiche"
 ---
 
 ## Province

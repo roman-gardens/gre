@@ -1,5 +1,4 @@
 ---
-
 title: "The Great Palaestra (II.vi)"
 date: 2020-12-10T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,11 +12,8 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "portico"
-  - "palaestra"
-  - "swimming pool"
-  - "root cavities"
-
+ - "palaestra"
+ - "portico"
 ---
 
 ## Province

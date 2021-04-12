@@ -11,11 +11,10 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "cisterns"
-  - "columns"
-  - "fences"
-  - "portico"
-
+ - "cisterns"
+ - "columns"
+ - "fences"
+ - "portico"
 ---
 
 ## Province

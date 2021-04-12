@@ -1,5 +1,4 @@
 ---
-
 title: "Great Palestra (Insula or. II.4)"
 date: 2020-10-20T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,10 +12,11 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "fountains"
-  - "shrine"
-  - "trellises"
+ - "fountains"
+ - "shrine"
+ - "trellises"
 ---
+
 ## Province
 
 [Italia]({{<relref "../../../..">}}) \

@@ -9,15 +9,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-
-  - “aediculae”
-  - "funerary buildings"
-  - "pavilions"
-  - "tombs"
-  - "vineyard"
-
-
 ---
 
 ## Province

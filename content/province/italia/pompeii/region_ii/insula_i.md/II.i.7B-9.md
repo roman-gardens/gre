@@ -11,11 +11,16 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "caupona"
-  - "treading floor"
-  - "vineyard"
-  - "cistern"
-  - "dolium"
+ - "aedicula"
+ - "amphorae"
+ - "courtyard"
+ - "dolium"
+ - "gutter"
+ - "hearth"
+ - "stucco"
+ - "tabernae"
+ - "table"
+ - "triclinium"
 ---
 
 ## Province

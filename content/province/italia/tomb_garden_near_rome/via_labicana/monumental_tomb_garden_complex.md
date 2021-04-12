@@ -9,17 +9,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-  - "courtyards"
-  - "ditch"
-  - "epitaph"
-  - "funerary buildings"
-  - "sepulchral monuments"
-  - "tombs"
-
-
-
-
 ---
 
 ## Province

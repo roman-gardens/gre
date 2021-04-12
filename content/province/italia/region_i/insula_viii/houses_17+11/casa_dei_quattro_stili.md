@@ -9,7 +9,6 @@ draft: true
 
 categories:
  - "Italia"
-
 ---
 
 ## Province

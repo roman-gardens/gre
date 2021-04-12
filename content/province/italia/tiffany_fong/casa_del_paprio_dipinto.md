@@ -10,8 +10,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-- "impluvium"
 ---
 
 ## Province

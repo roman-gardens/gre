@@ -9,6 +9,13 @@ draft: false
 
 categories:
 - "Italia"
+tags:
+ - "fountains"
+ - "lararia"
+ - "peristyles"
+ - "porticoes"
+ - "predellas"
+ - "tablina"
 ---
 
 ## Province

@@ -12,14 +12,11 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "mosaics"
-  - "opus signinum"
-  - "peristyles"
-  - "pillars"
-  - "porticoes"
-  - "tables"
-  - "triclinia"
-
+ - "exedrae"
+ - "lararium"
+ - "peristyle"
+ - "portico"
+ - "tablinum"
 ---
 
 ## Province

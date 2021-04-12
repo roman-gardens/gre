@@ -11,11 +11,10 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "columns"
-  - "peristyles"
-  - "pillars"
-  - "porticoes"
-
+ - "columns"
+ - "peristyles"
+ - "pillars"
+ - "porticoes"
 ---
 
 ## Province

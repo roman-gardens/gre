@@ -6,6 +6,11 @@ province_id: ITALIA
 author: Françoise Villedieu
 editor: Rhiannon Pare
 draft: false
+tags:
+ - "domus"
+ - "palaces"
+ - "peristyle"
+ - "temple"
 ---
 
 # Province

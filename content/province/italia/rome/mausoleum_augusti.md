@@ -6,6 +6,13 @@ province_id: PROVINCE_ID
 author: E.R. Macaulay
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "altars"
+ - "horologium"
+ - "nemus"
+ - "obelisk"
+ - "statues"
+ - "ustrins"
 ---
 
 ## Province

@@ -10,14 +10,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-
-  - "portico"
-  - "peristyles"
-  - "triclinium"
-  - "gutters"
-  - "cistern"
-
 ---
 
 ## Province

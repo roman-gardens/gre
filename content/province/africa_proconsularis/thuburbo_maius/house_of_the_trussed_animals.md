@@ -10,8 +10,12 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
+ - "cubicula"
+ - "domus"
+ - "oecus"
+ - "peristyle houses"
+ - "triclinium"
 ---
-
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \

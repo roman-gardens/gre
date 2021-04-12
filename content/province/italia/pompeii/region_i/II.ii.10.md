@@ -11,11 +11,11 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "aedicula"
-  - "biclinium"
-  - "drain"
-  - "lararium"
-  - "triclinium"
+ - "aedicula"
+ - "biclinium"
+ - "drain"
+ - "lararium"
+ - "triclinia"
 ---
 
 ## Province

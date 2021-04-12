@@ -6,6 +6,13 @@ province_id: PROVINCE_ID
 author: E.R. Macaulay and Linda Anderson
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "aedes"
+ - "columns"
+ - "exedrae"
+ - "lucus"
+ - "porticoes"
+ - "temples"
 ---
 
 ## Province

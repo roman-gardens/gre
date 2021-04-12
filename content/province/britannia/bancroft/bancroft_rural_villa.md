@@ -9,11 +9,6 @@ draft: true
 
 categories:
   - "Britannia"
-tags:
-  - "bathhouses"
-  - "gazebos"
-  - "piscinae"
-  - "villae rusticae"
 ---
 
 ## Province

@@ -29,7 +29,7 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
 			
 			reDraft = re.compile('draft\:\s+[Tt]rue')
 			bDraft = reDraft.search(sFile) is not None
-			bDraft = False
+			# bDraft = False
 			
 			# Get the keyword section of the file
 			sKeywords = ''
@@ -89,7 +89,7 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
 				sMetaData = '---\n%s\n---\n\n' % (sMetaData)
 			
 			# Control switch for modifying files (for debugging)
-			if False:
+			if True:
 				with open(os.path.join(sRoot,sFilename),'w') as f:
 					f.write(sMetaData + sFile)
 					f.close()

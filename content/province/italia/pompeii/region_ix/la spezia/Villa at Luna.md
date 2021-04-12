@@ -9,6 +9,17 @@ draft: false
 
 categories:
  - "Italia"
+tags:
+ - "atriums"
+ - "basins"
+ - "basins"
+ - "bathhouses"
+ - "courtyards"
+ - "drains"
+ - "gutters"
+ - "reception rooms"
+ - "vestibules"
+ - "water baths"
 ---
 
 ## Province

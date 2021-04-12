@@ -9,6 +9,14 @@ draft: false
 
 categories:
   - "Numidia"
+tags:
+ - "courtyards"
+ - "domus"
+ - "exedrae"
+ - "mosaics"
+ - "peristyle houses"
+ - "stairs"
+ - "triclinia"
 ---
 
 ## Province

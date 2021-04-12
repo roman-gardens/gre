@@ -10,13 +10,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-- "fauces"
-- "aedicula"
-- "puteal"
-- "aedicula lararium"
-- "lararium"
-
 ---
 
 ## Province

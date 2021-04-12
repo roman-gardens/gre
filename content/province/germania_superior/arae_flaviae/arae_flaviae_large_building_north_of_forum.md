@@ -9,9 +9,6 @@ draft: true
 
 categories:
  - "Germania Superior"
-tags:
-  - "colonnades"
-  - "peristyles"
 ---
 
 ## Province

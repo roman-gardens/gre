@@ -1,5 +1,4 @@
 ---
-
 title: "House of the Garden of Hercules (II.viii.6)"
 date: 2020-12-10T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,11 +12,11 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "aedicula"
-  - "lararia"
-  - "strigillation"
-  - "triclinia"
-  - "dolium"
+ - "aedicula"
+ - "dolium"
+ - "lararia"
+ - "strigillation"
+ - "triclinia"
 ---
 
 ## Province

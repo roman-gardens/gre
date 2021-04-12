@@ -10,7 +10,8 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
-
+ - "column"
+ - "triclinium"
 ---
 
 ## Province

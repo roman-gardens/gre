@@ -9,6 +9,12 @@ draft: false
 
 categories:
 - "Italia"
+tags:
+ - "cisterns"
+ - "lararia"
+ - "mural paintings"
+ - "tablina"
+ - "trellises"
 ---
 
 ## Province

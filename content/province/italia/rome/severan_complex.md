@@ -6,6 +6,12 @@ province_id: PROVINCE_ID
 author: M.-A. Tomei
 editor: Rhiannon Pare
 draft: false
+tags:
+ - "arcades"
+ - "bathhouses"
+ - "domus"
+ - "fountains"
+ - "pools"
 ---
 
 # Province

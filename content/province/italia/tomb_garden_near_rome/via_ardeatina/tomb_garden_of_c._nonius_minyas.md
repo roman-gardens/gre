@@ -9,12 +9,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-
-  - "funerary buildings"
-  - "tombs"
-
-
 ---
 
 ## Province

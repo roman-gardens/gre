@@ -6,6 +6,11 @@ province_id: PROVINCE_ID
 author: E.R. Macaulay and Beth Ryan
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "bathhouses"
+ - "gymnasiums"
+ - "horti"
+ - "thermae"
 ---
 
 ## Province

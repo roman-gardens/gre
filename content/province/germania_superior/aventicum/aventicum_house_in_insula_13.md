@@ -9,12 +9,6 @@ draft: true
 
 categories:
  - "Germania Superior"
-tags:
-  - "bathhouses"
-  - "fountains"
-  - "insulae"
-  - "peristyles"
-  - "piscinae"
 ---
 
 ## Province

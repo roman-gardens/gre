@@ -9,6 +9,11 @@ draft: false
 
 categories:
   - "Numidia"
+tags:
+ - "domus"
+ - "mosaics"
+ - "peristyle houses"
+ - "triclinia"
 ---
 
 ## Province

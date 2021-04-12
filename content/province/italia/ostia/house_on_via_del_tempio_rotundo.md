@@ -6,6 +6,12 @@ article_id: ARTICLE_ID
 author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "basins"
+ - "fountains"
+ - "opus signinum"
+ - "peristyles"
+ - "vases"
 ---
 
 ## Province

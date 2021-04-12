@@ -9,8 +9,6 @@ draft: true
 
 categories:
  - "Hispania Tarraconensis"
-
-
 ---
 
 ## Province

@@ -9,14 +9,6 @@ draft: true
 
 categories:
  - "Germania Inferior"
-tags:
-  - "atrium houses"
-  - "atriums"
-  - "colonnades"
-  - "peristyles"
-  - "piscinae"
-  - "tablina"
-  - "villae urbanae"
 ---
 
 ## Province

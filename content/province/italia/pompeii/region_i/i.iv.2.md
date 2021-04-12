@@ -11,11 +11,10 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "peristyle"
-  - "portico"
-  - "tablinum"
-  - "triclinium"
-
+ - "peristyle"
+ - "portico"
+ - "tablinum"
+ - "triclinium"
 ---
 
 ## Province

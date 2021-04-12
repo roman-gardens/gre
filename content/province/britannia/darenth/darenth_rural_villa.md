@@ -9,10 +9,6 @@ draft: false
 
 categories:
  - "Britannia"
-tags:
-  - "piscinae"
-  - "villae rusticae"
-  - "waterspouts"
 ---
 
 ## Province

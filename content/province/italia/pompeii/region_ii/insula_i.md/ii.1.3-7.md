@@ -1,5 +1,4 @@
 ---
-
 article-type: "province"
 title: "II.i.3-7"
 date: 2021-02-19T15:25:26Z
@@ -12,9 +11,8 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "caupona"
-  - "amphorae"
-  - "root cavities"
+ - "amphorae"
+ - "cauponae"
 ---
 
 ## Province

@@ -9,9 +9,6 @@ draft: true
 
 categories:
  - "Gallia"
-
-tags:
-  - "House on the Place des Halles (La maison des Halles)"
 ---
 
 ## Province

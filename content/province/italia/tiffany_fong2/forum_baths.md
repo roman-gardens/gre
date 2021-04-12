@@ -10,10 +10,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-- "palaestra"
-- "portico"
-
 ---
 
 ## Province

@@ -10,10 +10,6 @@ draft: false
 
 categories:
  - "Italia"
-tags:
-  - "park"
-  - "root cavities"
-
 ---
 
 ## Province

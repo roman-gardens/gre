@@ -10,7 +10,10 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
-
+ - "concave"
+ - "mosaic"
+ - "peristyle"
+ - "portico"
 ---
 
 ## Province

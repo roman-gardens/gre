@@ -10,7 +10,10 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
-
+ - "baroque"
+ - "cascade"
+ - "masonry"
+ - "triclinium"
 ---
 
 ## Province

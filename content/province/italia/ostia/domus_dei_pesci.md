@@ -6,6 +6,9 @@ article_id: ARTICLE_ID
 author: Stella Falzone
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "basins"
+ - "water supply systems"
 ---
 
 ## Province

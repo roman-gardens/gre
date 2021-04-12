@@ -11,9 +11,8 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "fences"
-  - "lararia"
-
+ - "fences"
+ - "lararia"
 ---
 
 ## Province

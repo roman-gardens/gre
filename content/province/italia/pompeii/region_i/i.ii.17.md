@@ -11,10 +11,10 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "atrium"
-  - "peristyle"
-  - "portico"
-  - "tablina"
+ - "atrium"
+ - "peristyle"
+ - "portico"
+ - "tablina"
 ---
 
 ## Province

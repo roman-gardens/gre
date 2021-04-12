@@ -11,17 +11,20 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "atrium"
-  - "peristyle"
-  - "water supply systems"
-  - "fountains"
-  - "root cavities"
-  - "biclinium"
-  - "triclinium"
-  - "nymphaeum"
-  - "water channel"
-  - "statuettes"
-  - "garden frescoes"
+ - "aedicula"
+ - "amphorae"
+ - "arbors"
+ - "atrium"
+ - "biclinium"
+ - "fountains"
+ - "impluvium"
+ - "insula"
+ - "nymphaeum"
+ - "pergola"
+ - "peristyle"
+ - "portico"
+ - "triclinium"
+ - "water supply systems"
 ---
 
 ## Province

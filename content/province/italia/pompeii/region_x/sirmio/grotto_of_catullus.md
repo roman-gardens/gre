@@ -10,12 +10,32 @@ draft: false
 categories:
  - "Italia"
 tags:
-
-  - "cisterns"
-  - "gutters"
-  - "mural paintings"
-  - "peristyles"
-  - "porticoes"
+ - "atriums"
+ - "basins"
+ - "bathhouses"
+ - "cisterns"
+ - "cryptoportici"
+ - "ditches"
+ - "drains"
+ - "exedrae"
+ - "fences"
+ - "garden pavilions"
+ - "gutters"
+ - "insulae"
+ - "loam"
+ - "orchards"
+ - "peristyles"
+ - "piscinae"
+ - "porticoes"
+ - "presence chambers"
+ - "reception rooms"
+ - "statues"
+ - "terrazzo"
+ - "terrazzo"
+ - "vestibules"
+ - "water baths"
+ - "water supply systems"
+ - "water wells"
 ---
 
 ## Province

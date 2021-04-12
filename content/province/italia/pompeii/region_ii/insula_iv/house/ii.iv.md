@@ -11,10 +11,11 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "portico"
-  - "peristyles"
-  - "porticoes"
-  - "triclinia"
+ - "jet d'eau"
+ - "peristyles"
+ - "porticoes"
+ - "statuettes"
+ - "triclinia"
 ---
 
 ## Province
