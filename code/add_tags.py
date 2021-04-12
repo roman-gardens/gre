@@ -31,21 +31,22 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
 			
 			reDraft = re.compile('draft\:\s+[Tt]rue')
 			bSearch = reDraft.search(sFile)
-			print(bSearch)
+			print(bSearch is None)
 			
 			# Only change things if the entry is NOT a draft
 			if bSearch is None:
 				
 				# Get the keyword section of the file
 				sKeywords = sFile
-				iStart = sKeywords.find('## Keywords')
-				sKeywords = sFile[iStart+12:]
+				iStart = sKeywords.find('### Keywords')
+				sKeywords = sFile[iStart+13:]
 				iEnd = sKeywords.find('#')
 				sKeywords = sKeywords[:iEnd].strip()
 				
 				# Extract a list of keywords
 				vKeywords = []
 				for tMatch in re.findall(reKeywordEntries, sKeywords):
+					print(tMatch)
 					if not tMatch in vKeywords:
 						sKeyword = tMatch[0]
 						sKeyword = re.sub('\([^\)]*\)', '', sKeyword)
@@ -55,7 +56,7 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
 				
 				# Skip the file if it does not contain any keywords
 				if not len(vKeywords):
-					print('File does not contain keywords: %s' % sFilename)
+					print('File does not contain keywords: %s // %s' % (sRoot, sFilename))
 					continue
 				
 				# Compile the list into a new 'tags' entry
