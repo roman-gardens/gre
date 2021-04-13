@@ -36,11 +36,11 @@ summaryLength = 10000
 		url = "/about/"
 		weight = -110
 		
-	[[menu.main]]
-		identifier = "history"
-		name = "History"
-		url = "/history/"
-		weight = -100
+	# [[menu.main]]
+	# 	identifier = "history"
+	# 	name = "History"
+	# 	url = "/history/"
+	# 	weight = -100
 		
 	[[menu.main]]
 		identifier = "contribute"
