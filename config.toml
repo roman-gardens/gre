@@ -35,7 +35,7 @@ summaryLength = 10000
 		name = "About"
 		url = "/about/"
 		weight = -110
-		
+	
 	# [[menu.main]]
 	# 	identifier = "history"
 	# 	name = "History"
@@ -53,6 +53,12 @@ summaryLength = 10000
 		name = "How to Cite"
 		url = "/citation/"
 		weight = -80
+		
+	[[menu.main]]
+		identifier = "blog"
+		name = "Blog"
+		url = "/blog/"
+		weight = -70
 
 
 [Params.sidebar]
