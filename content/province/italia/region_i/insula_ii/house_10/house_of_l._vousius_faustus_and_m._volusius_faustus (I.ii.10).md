@@ -58,7 +58,7 @@ House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)
 - [lararia](http://vocab.getty.edu/page/aat/300400600)
 - [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
 - [piscinae]( http://vocab.getty.edu/page/aat/300375619)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 

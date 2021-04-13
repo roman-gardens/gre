@@ -38,14 +38,14 @@ A sublocation is any area larger than an individual garden, but located within a
 Richebourg (Yvelines) villa de
 
 ### Keywords
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [trellises](http://vocab.getty.edu/page/aat/300006785)
 - [stylobate](http://vocab.getty.edu/page/aat/300000986)
-- [amphorae](http://vocab.getty.edu/page/aat/300148696)
-- [pergola](http://vocab.getty.edu/page/aat/300006783)
+- [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
+- [pergolas](http://vocab.getty.edu/page/aat/300006783)
 - [apse](http://vocab.getty.edu/page/aat/300004607)
-- [cistern](http://vocab.getty.edu/page/aat/300052558)
-- [triclinium](http://vocab.getty.edu/page/aat/300004359)
+- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 Though the site has an area of 12 or 13 hectares, only one hectare has been excavated, the residential and agricultural part. Two groups of buildings frame a large garden on a slightly trapezoidal, walled area. To the north was the residence; to the south, the utility buildings, including a silo; while to the east, within its own walls, was the farmyard also with several buildings.  

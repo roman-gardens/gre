@@ -7,10 +7,10 @@ author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "basins"
+ - "basins (vessels)"
  - "fountains"
  - "opus signinum"
- - "peristyles"
+ - "peristyles (Roman courtyards)"
  - "vases"
 ---
 

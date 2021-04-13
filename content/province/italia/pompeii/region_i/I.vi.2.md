@@ -31,14 +31,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
 - [archaeological garden](#)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [busts (sculpture)](http://vocab.getty.edu/page/aat/300417950)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [cryptoportici](http://vocab.getty.edu/page/aat/300004295)
 - [lararia](http://vocab.getty.edu/page/aat/300400600)
 - [loggias](http://vocab.getty.edu/page/aat/300004137)
 - [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [pillars](http://vocab.getty.edu/page/aat/300264605)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [stairs](http://vocab.getty.edu/page/aat/300003228)
@@ -50,7 +50,7 @@ House of the Cryptoporticus; Casa Del Crirtoportico; Casa Omerica; House of T. L
 
 ### Garden Description
 
-A. A passageway from the [atrium](http://vocab.getty.edu/page/aat/300004097) led to a modest [peristyle](http://vocab.getty.edu/page/aat/300004029) garden visible through a window in the rear wall. A low wall enclosed the garden on the north and east sides along with five brick columns covered with white stucco and a [pillar](http://vocab.getty.edu/page/aat/300264605) supporting the roof of the [portico](http://vocab.getty.edu/page/aat/300004145). A large, well preserved wall [painting](http://vocab.getty.edu/page/aat/300033644) survived on the west wall of the north [portico](http://vocab.getty.edu/page/aat/300004145) as well as a niche [lararium](http://vocab.getty.edu/page/aat/300400600) decorated with a painted [bust](http://vocab.getty.edu/page/aat/300417950) of Mercury. From the garden a flight of stairs led down to an elegant [cryptoporticus](http://vocab.getty.edu/page/aat/300004295)(underground [portico](http://vocab.getty.edu/page/aat/300004145)) illuminated by light from the adjacent garden through high windows. A solarium terrace, or [loggia](http://vocab.getty.edu/page/aat/300004137), overlooking the large garden could be reached by another flight of [stairs](http://vocab.getty.edu/page/aat/300003228) form the east [portico](http://vocab.getty.edu/page/aat/300004145).
+A. A passageway from the [atrium](http://vocab.getty.edu/page/aat/300004097) led to a modest [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029) garden visible through a window in the rear wall. A low wall enclosed the garden on the north and east sides along with five brick columns covered with white stucco and a [pillar](http://vocab.getty.edu/page/aat/300264605) supporting the roof of the [portico](http://vocab.getty.edu/page/aat/300004145). A large, well preserved wall [painting](http://vocab.getty.edu/page/aat/300033644) survived on the west wall of the north [portico](http://vocab.getty.edu/page/aat/300004145) as well as a niche [lararium](http://vocab.getty.edu/page/aat/300400600) decorated with a painted [bust](http://vocab.getty.edu/page/aat/300417950) of Mercury. From the garden a flight of stairs led down to an elegant [cryptoporticus](http://vocab.getty.edu/page/aat/300004295)(underground [portico](http://vocab.getty.edu/page/aat/300004145)) illuminated by light from the adjacent garden through high windows. A solarium terrace, or [loggia](http://vocab.getty.edu/page/aat/300004137), overlooking the large garden could be reached by another flight of [stairs](http://vocab.getty.edu/page/aat/300003228) form the east [portico](http://vocab.getty.edu/page/aat/300004145).
 
 B. At the rear of the house, a large enclosed garden had been increased in size by reducing the wings of the [cryptoporticus](http://vocab.getty.edu/page/aat/300004295). The last owner had built a spacious [loggia](http://vocab.getty.edu/page/aat/300004137) (5 x 20 m.) above the north wing of the [cryptoporticus](http://vocab.getty.edu/page/aat/300004295) overlooking the garden. A high wall joined the five [pillars](http://vocab.getty.edu/page/aat/300264605) and the roof supporting pilaster and formed windows into the garden. At the west end of the [loggia](http://vocab.getty.edu/page/aat/300004137) was a masonry triclinium with side couches, each having a fulcrum (foot), (l. medius 4.41m.; l.summus and l. imus 4.68 m.; dia. of table 0.55m.).  A large area was left open for tables or dancers, suggesting to Spinoza that this could have been a public gathering place.  There were low seats in front of the side couches and extended along the terrace walls that may have been intended for children according to Soprano. A kitchen was located on the north side of the loggia. Six steps from the southeast corner of the loggia led up into the garden which had been raised to the level of the windows in the cryptoporticus. Della Corte thought that this garden had been used to raise many cabbages and leeks.  The remains of eleven victims of the volcanic eruption were found in the garden.
 

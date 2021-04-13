@@ -10,12 +10,12 @@ draft: false
 categories:
 - "Italia"
 tags:
- - "altars"
- - "cisterns"
- - "gutters"
+ - "altars (religious fixtures)"
+ - "cisterns (plumbing components)"
+ - "gutters (building drainage components)"
  - "lararia"
  - "trellises"
- - "triclinia"
+ - "triclinia (couches)"
 ---
 
 ## Province

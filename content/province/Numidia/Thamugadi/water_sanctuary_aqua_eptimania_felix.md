@@ -10,7 +10,7 @@ draft: false
 categories:
   - "Numidia"
 tags:
- - "mural paintings"
+ - "mural paintings (visual works)"
 ---
 
 ## Province

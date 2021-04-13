@@ -40,7 +40,7 @@ HHouse of the Arsenal (Maison de l’Arsenal)
 
 ### Keywords
 
-- [courtyard](http://vocab.getty.edu/page/aat/300004095)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [hypocausts](http://vocab.getty.edu/page/aat/300004277)
 

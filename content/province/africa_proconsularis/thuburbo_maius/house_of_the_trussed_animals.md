@@ -10,11 +10,11 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- - "cubicula"
+ - "cubicula (domestic spaces)"
  - "domus"
  - "oecus"
  - "peristyle houses"
- - "triclinium"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -40,9 +40,9 @@ House of the Trussed Animals (Maison des animaux liés)
 ### Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [triclinium](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [oecus](http://vocab.getty.edu/page/aat/300080791)
-- [cubicula](http://vocab.getty.edu/page/aat/300004367)
+- [cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367)
 
 ### Garden Description
 

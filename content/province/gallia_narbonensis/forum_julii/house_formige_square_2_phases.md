@@ -46,7 +46,7 @@ House Formigé Square-2 phases
 
 ### Keywords
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 

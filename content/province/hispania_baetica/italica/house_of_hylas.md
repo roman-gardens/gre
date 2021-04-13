@@ -39,9 +39,9 @@ House of Hylas
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [nymphs](http://vocab.getty.edu/page/aat/300379159)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-<!-- [triclinia](http://vocab.getty.edu/page/aat/300004359)-->
+<!-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)-->
 
 
 ### Garden Description

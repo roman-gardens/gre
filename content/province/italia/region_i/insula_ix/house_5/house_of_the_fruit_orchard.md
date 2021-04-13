@@ -43,7 +43,7 @@ House of the Fruit Orchard; Casa del Frutteto; Dei Cubicoli Floreali (I.ix.5)
 ### Keywords
 
 - [archaeological garden](#)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367)

@@ -12,8 +12,8 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "atrium"
- - "peristyles"
+ - "atriums (Roman halls)"
+ - "peristyles (Roman courtyards)"
  - "stuccoing"
 ---
 
@@ -40,8 +40,8 @@ B
 
 
 ### Keywords
-- [atrium](http://vocab.getty.edu/page/aat/300004097)
-- [peristyles](http://vocab.getty.edu/page/aat/300080971)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [stuccoing](http://vocab.getty.edu/page/aat/300053875)
 
 

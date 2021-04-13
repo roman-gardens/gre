@@ -51,7 +51,7 @@ House of L. Vetutius Placidus and Ascula (at the rear of Themopolium no. 8) (I.v
 - [pergolas](http://vocab.getty.edu/page/aat/300006783)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 

@@ -11,9 +11,9 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "atriums"
- - "columns"
- - "graffiti"
+ - "atriums (Roman halls)"
+ - "columns (architectural elements)"
+ - "graffiti (casual notations)"
  - "porticoes"
  - "stucco"
 ---
@@ -36,11 +36,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "..">}})
 
 ### Keywords
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
-- [columns](http://vocab.getty.edu/page/aat/300001571)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [stucco](http://www.getty.edu/vow/AATFullDisplay?find=stucco&logic=AND&note=&english=N&prev_page=1&subjectid=300014966)
+- [stucco](http://vocab.getty.edu/page/aat/300014966)
 
 ## Garden
 Small peristyle garden at the rear of the house.

@@ -40,8 +40,8 @@ Urban House East of Forum
 
 ### Keywords
 - [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
-- [peristyles](http://vocab.getty.edu/page/aat/300080971)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 
 

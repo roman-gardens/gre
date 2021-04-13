@@ -12,7 +12,7 @@ categories:
   - "Italia"
 tags:
  - "loggias"
- - "tricliniums"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -39,7 +39,7 @@ B
 
 
 ### Keywords
- - [tricliniums](http://vocab.getty.edu/page/aat/300004359)
+ - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
  - [loggias](http://vocab.getty.edu/page/aat/300004137)
 
 

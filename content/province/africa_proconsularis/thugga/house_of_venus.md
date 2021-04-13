@@ -10,8 +10,8 @@ draft: false
 categories:
   - "Africa proconsularis"
 tags:
- - "peristyle"
- - "pool"
+ - "peristyles (Roman courtyards)"
+ - "pools (bodies of water)"
 ---
 
 ## Province
@@ -41,8 +41,8 @@ House of Venus (Maison de Venus)
 
 ### Keywords
 
-- [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
-- [pool](http://vocab.getty.edu/page/aat/300008692)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 
 ### Garden Description
 

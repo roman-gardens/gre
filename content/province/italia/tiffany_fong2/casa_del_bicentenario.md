@@ -36,11 +36,11 @@ V
 ## Garden
 Casa del Bicentenario
 
-
+<!-- These keywords have not been finished. Please add Getty Thesaurus links. - Christian -->
 ### Keywords
-- [portico]
-- [tablinium]
-- [dolium]
+- [porticoes]
+- [tablinia]
+- [dolia]
 - [puteal]
 
 ---

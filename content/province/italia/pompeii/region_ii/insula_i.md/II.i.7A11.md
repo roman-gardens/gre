@@ -11,8 +11,8 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "cisterns"
- - "dolium"
+ - "cisterns (plumbing components)"
+ - "doliums"
  - "water supply systems"
 ---
 
@@ -36,7 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ### Keywords
  - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
  - [water supply systems](http://vocab.getty.edu/page/aat/300008618)
- - [dolium](http://vocab.getty.edu/page/aat/300400601)
+ - [doliums](http://vocab.getty.edu/page/aat/300400601)
 
  ## House
 Casa Imperiale

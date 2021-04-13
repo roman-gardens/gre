@@ -12,9 +12,9 @@ categories:
 tags:
  - "colonnades"
  - "courtyards"
- - "exedrae"
+ - "exedrae (site elements)"
  - "niches"
- - "peristyles"
+ - "peristyles (Roman courtyards)"
  - "porticoes"
  - "water wells"
 ---

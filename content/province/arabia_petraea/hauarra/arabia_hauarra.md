@@ -12,11 +12,11 @@ categories:
 tags:
  - "aqueducts"
  - "baetyls"
- - "basins"
+ - "basins (vessels)"
  - "insulae"
- - "naoi"
- - "planters"
- - "shrines"
+ - "naoi (chambers)"
+ - "planters (containers)"
+ - "shrines (structures)"
  - "temene"
 ---
 

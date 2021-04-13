@@ -50,7 +50,7 @@ The Circus of Roman Corinth
 - [Archaeological](#)
 - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
 - [circuses (Roman arenas)](http://vocab.getty.edu/page/aat/300007255)
-- [mosaics](http://vocab.getty.edu/page/aat/300015342)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 
 ### Garden Description
 

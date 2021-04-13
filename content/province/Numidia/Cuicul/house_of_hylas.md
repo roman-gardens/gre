@@ -11,7 +11,7 @@ categories:
   - "Numidia"
 tags:
  - "domus"
- - "mosaics"
+ - "mosaics (visual works)"
  - "peristyle houses"
  - "piscinae"
 ---

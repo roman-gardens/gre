@@ -11,7 +11,7 @@ categories:
  - "Italia"
 tags:
  - "epitaphs"
- - "grove"
+ - "grove (sacred grove)"
  - "stelae"
  - "tombs"
  - "vegetable gardens"

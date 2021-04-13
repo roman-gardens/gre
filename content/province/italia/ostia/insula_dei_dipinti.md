@@ -10,7 +10,7 @@ tags:
  - "aedicules"
  - "flowerpots"
  - "insulae"
- - "mosaics"
+ - "mosaics (visual works)"
 ---
 
 ## Province

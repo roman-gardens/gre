@@ -11,9 +11,9 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "amphorae"
- - "caupona"
- - "portico"
+ - "amphorae (storage vessels)"
+ - "cauponae"
+ - "porticoes"
 ---
 
 ## Province
@@ -34,9 +34,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "..">}})
 
 ### Keywords
-- [amphorae](http://vocab.getty.edu/page/aat/300148696)
-- [caupona](http://vocab.getty.edu/page/aat/300005208)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
+- [cauponae](http://vocab.getty.edu/page/aat/300005208)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ## Garden
 Garden serving a *caupona*.

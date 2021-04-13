@@ -12,7 +12,7 @@ categories:
 tags:
  - "domus"
  - "peristyle houses"
- - "triclinia"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -54,7 +54,7 @@ House of Sertius (Maison de Sertius)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [semicircular basins]
 - [pool]
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 This large domus the result of the combining of two houses, is located at the periphery of the center of the city. The domus is laid out around two peristyles. The first, near the vestibule had a long rectangular basin placed in the axis of the *triclinium*, the two strips that bordered the pool may have been planted. The second peristyle with 8 columns had a semi-circular basin (Plan view Fi.1).

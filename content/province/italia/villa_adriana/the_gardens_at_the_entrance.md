@@ -8,7 +8,7 @@ editor: Joshua Rosenheim
 draft: false
 tags:
  - "flower gardens"
- - "peristyles"
+ - "peristyles (Roman courtyards)"
  - "tufa"
 ---
 

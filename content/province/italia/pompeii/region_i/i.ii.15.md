@@ -11,7 +11,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "impluvium"
+ - "impluvia"
 ---
 
 ## Province
@@ -32,7 +32,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "..">}})
 
 ### Keywords
-- [impluvium](http://vocab.getty.edu/page/aat/300129867)
+- [impluvia](http://vocab.getty.edu/page/aat/300129867)
 
 ## Garden
 Small house with a planting bed around an indoor [impluvium](http://vocab.getty.edu/page/aat/300129867).

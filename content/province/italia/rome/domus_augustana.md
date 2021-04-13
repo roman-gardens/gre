@@ -49,17 +49,17 @@ Domus Augustana, Palatine
 - [peltae (armor)]( http://vocab.getty.edu/page/aat/300213495)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [planting beds](http://vocab.getty.edu/page/aat/300430426)
-- [pools](http://vocab.getty.edu/page/aat/300008692)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
-- [temple](http://vocab.getty.edu/page/aat/300007595)
+- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 - [terraces](http://vocab.getty.edu/page/aat/300004182)
 
 ### Garden Description
 
 Lower Peristyle
 
-The lower [peristyle](http://vocab.getty.edu/page/aat/300080971) of the [Domus Augustana](https://en.wikipedia.org/wiki/Domus_Augustana), the private area of the [Flavian Palace](https://en.wikipedia.org/wiki/Flavian_Palace), was sumptuously decorated with a large [fountain](http://vocab.getty.edu/page/aat/300006179) in the shape of four [*peltae*]( http://vocab.getty.edu/page/aat/300213495) (semi-circular shields), common motifs for gardens of the early imperial period, comparable to the arrangements at [Conimbriga](https://en.wikipedia.org/wiki/Con%C3%ADmbriga) (Fig. 9). Water, which is given great space within the architecture, was included in a garden adorned with dense [planting beds](http://vocab.getty.edu/page/aat/300430426) of shrubs and flowers, alternating with decorative elements and important [sculptures](http://vocab.getty.edu/page/aat/300047600). Such scenic plantings around water within an architectural setting are comparable to the later [Maritime Theater](http://vwhl.soic.indiana.edu/villa/maritimetheater.php) at [Hadrian’s Villa](https://en.wikipedia.org/wiki/Hadrian%27s_Villa), which was perhaps inspired by this Flavian peristyle garden. Because of clearly articulated planting beds it is possible to reconstruct the shape of this garden as composed of alternating beds, [basins](http://vocab.getty.edu/page/aat/300045614) and plants around a central fountain. The peristyle garden and fountain as well as several nearby [nymphaea](http://vocab.getty.edu/page/aat/300006809) must have made this part of the palace especially cool and welcoming on hot summer days.
+The lower [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) of the [Domus Augustana](https://en.wikipedia.org/wiki/Domus_Augustana), the private area of the [Flavian Palace](https://en.wikipedia.org/wiki/Flavian_Palace), was sumptuously decorated with a large [fountain](http://vocab.getty.edu/page/aat/300006179) in the shape of four [*peltae*]( http://vocab.getty.edu/page/aat/300213495) (semi-circular shields), common motifs for gardens of the early imperial period, comparable to the arrangements at [Conimbriga](https://en.wikipedia.org/wiki/Con%C3%ADmbriga) (Fig. 9). Water, which is given great space within the architecture, was included in a garden adorned with dense [planting beds](http://vocab.getty.edu/page/aat/300430426) of shrubs and flowers, alternating with decorative elements and important [sculptures](http://vocab.getty.edu/page/aat/300047600). Such scenic plantings around water within an architectural setting are comparable to the later [Maritime Theater](http://vwhl.soic.indiana.edu/villa/maritimetheater.php) at [Hadrian’s Villa](https://en.wikipedia.org/wiki/Hadrian%27s_Villa), which was perhaps inspired by this Flavian peristyle garden. Because of clearly articulated planting beds it is possible to reconstruct the shape of this garden as composed of alternating beds, [basins](http://vocab.getty.edu/page/aat/300045614) and plants around a central fountain. The peristyle garden and fountain as well as several nearby [nymphaea](http://vocab.getty.edu/page/aat/300006809) must have made this part of the palace especially cool and welcoming on hot summer days.
 
 Upper Peristyle
 

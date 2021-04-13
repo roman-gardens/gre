@@ -10,8 +10,8 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- - "impluvium"
- - "portico"
+ - "impluvia"
+ - "porticoes"
 ---
 
 ## Province
@@ -40,8 +40,8 @@ House of Omnia Tibi Felicia (Maison Omnia Tibi Felicia)
 
 ### Keywords
 
-- [portico](http://vocab.getty.edu/page/aat/300004145)
-- [impluvium](http://vocab.getty.edu/page/aat/300129867)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [impluvia](http://vocab.getty.edu/page/aat/300129867)
 
 ### Garden Description
 

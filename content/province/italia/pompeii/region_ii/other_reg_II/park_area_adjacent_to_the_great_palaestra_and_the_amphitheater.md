@@ -13,7 +13,7 @@ categories:
   - "Italia"
 tags:
  - "palaestra"
- - "peristyles"
+ - "peristyles (Roman courtyards)"
 ---
 
 ## Province
@@ -34,7 +34,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ### Keywords
- - [peristyles](http://vocab.getty.edu/page/aat/300080971)
+ - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
  - [palaestra](http://vocab.getty.edu/page/aat/300007301)
 
 

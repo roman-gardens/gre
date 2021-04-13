@@ -13,7 +13,7 @@ categories:
   - "Italia"
 tags:
  - "palaestra"
- - "portico"
+ - "porticoes"
 ---
 
 ## Province
@@ -35,7 +35,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ### Keywords
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [palaestra](http://vocab.getty.edu/page/aat/300007301)
 
 

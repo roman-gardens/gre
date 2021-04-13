@@ -11,7 +11,7 @@ categories:
  - "Italia"
 tags:
  - "courtyards"
- - "villa"
+ - "insulae"
 ---
 
 ## Province
@@ -37,7 +37,7 @@ Region II
 Large Garden in House 4-6 in Pompeii Region II (II.iii.4-6)
 
 ### Keywords
-- [villa](http://vocab.getty.edu/page/aat/300000325)
+- [insulae](http://vocab.getty.edu/page/aat/300000325)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 ### Garden Description

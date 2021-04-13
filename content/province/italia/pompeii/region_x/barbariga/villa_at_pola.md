@@ -12,11 +12,11 @@ categories:
 tags:
  - "atrium houses"
  - "cryptoportici"
- - "gutters"
- - "mosaics"
- - "mural paintings"
- - "peristyles"
- - "podiums"
+ - "gutters (building drainage components)"
+ - "mosaics (visual works)"
+ - "mural paintings (visual works)"
+ - "peristyles (Roman courtyards)"
+ - "podiums (building divisions)"
  - "porticoes"
  - "presence chambers"
  - "reception rooms"
@@ -61,7 +61,7 @@ Villa at Pola
 - [cryptoportici](http://vocab.getty.edu/page/aat/300004295)
 - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
 - [podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [tesserae](http://vocab.getty.edu/page/aat/300010730)
 - [villae urbanae](http://vocab.getty.edu/page/aat/300005520)

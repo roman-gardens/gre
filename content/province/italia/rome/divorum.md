@@ -7,12 +7,12 @@ author: Valerie Aymer and Kathryn Gleason
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "altars"
- - "canals"
- - "columns"
- - "exedrae"
+ - "altars (religious fixtures)"
+ - "canals (waterways)"
+ - "columns (architectural elements)"
+ - "exedrae (site elements)"
  - "porticoes"
- - "temples"
+ - "temples (buildings)"
  - "triumphal arch"
 ---
 
@@ -43,11 +43,11 @@ Divorum
 ### Keywords
 
 - [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
-- [canals (water channels)](http://vocab.getty.edu/page/aat/300006075)
+- [canals (waterways)](http://vocab.getty.edu/page/aat/300006075)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [temples](http://vocab.getty.edu/page/aat/300007595)
+- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 - [triumphal arch](http://vocab.getty.edu/page/aat/300007003)
 
 ### Garden Description

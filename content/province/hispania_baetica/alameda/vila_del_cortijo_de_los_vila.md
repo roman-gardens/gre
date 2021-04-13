@@ -47,7 +47,7 @@ Villa del Cortijo de los Vila
 
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 <!-- - [Priapus](#) -->
 

@@ -35,7 +35,7 @@ Collegium
 
 ### Keywords
 
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [pillars](http://vocab.getty.edu/page/aat/300264605)
 - [pilasters](http://vocab.getty.edu/page/aat/300002737)
 

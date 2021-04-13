@@ -47,7 +47,7 @@ House of the Cantaber
 
 ### Keywords
 - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 
 ### Garden Description
 Hidacio, bishop of Chaves and a chronicler of his age, records that the Suevi sacked Conimbriga in 465 and 468 A.D. and that in the second year “the most noble Cantaber” was killed and his family sold into slavery. This house is by far the finest inside the city walls, so it is reasonably guessed to be that of Cantaber.   It is larger than the House of the Fountains with an area of more than 3,300 square meters.  The garden is similar, although it is less elaborate, has slightly different proportions, and has no fountains.  Although the house underwent structural alterations, the peristyle is part of the original plan, which does not appear to date from much later than the Flavian era.

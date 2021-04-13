@@ -11,15 +11,15 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "columns"
+ - "columns (architectural elements)"
  - "fountains"
- - "gutters"
+ - "gutters (building drainage components)"
  - "oeci"
- - "peristyles"
+ - "peristyles (Roman courtyards)"
  - "piscinae"
  - "porticoes"
  - "tablina"
- - "triclinia"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -45,11 +45,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [piscinae]( http://vocab.getty.edu/page/aat/300375619)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [tablina](http://vocab.getty.edu/page/aat/300004180)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ## Garden
 
@@ -57,7 +57,7 @@ House of P. Paquius Proculus; House of C. Cuspius Pansa.
 
 ### Garden Description
 
-This elegant house was excavated in 1923. To the rear was a large and sunny [peristyle](http://vocab.getty.edu/page/aat/300004029) garden with a [portico](http://vocab.getty.edu/page/aat/300004145) on four sides supported by sixteen [columns](http://vocab.getty.edu/page/aat/300001571). At the northeast corner stood a lava puteal with a [gutter](http://vocab.getty.edu/page/aat/300052565) that ran around the edges of the garden. In the center of the garden a wooden [triclinium](http://vocab.getty.edu/page/aat/300004359) was shaded by a [pergola](http://vocab.getty.edu/page/aat/300006783) supported by four columns. The nails and the imprint of the wooden structure of the [triclinium](http://vocab.getty.edu/page/aat/300004359) were clearly preserved. A marble faced rectangular [pool]( http://vocab.getty.edu/page/aat/300375619), with an apse-shaped extension to the north and a [fountain](http://vocab.getty.edu/page/aat/300006179) jet, was located in front of the [triclinium](http://vocab.getty.edu/page/aat/300004359). This [pool]( http://vocab.getty.edu/page/aat/300375619) was connected to a smaller marble basin between the couches of the [triclinium](http://vocab.getty.edu/page/aat/300004359). An excellent view of the garden was afforded from the large salon at the rear of the [tablinum](http://vocab.getty.edu/page/aat/300004180) with two [columns](http://vocab.getty.edu/page/aat/300001571) at the entrance of the [portico](http://vocab.getty.edu/page/aat/300004145).
+This elegant house was excavated in 1923. To the rear was a large and sunny [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029) garden with a [portico](http://vocab.getty.edu/page/aat/300004145) on four sides supported by sixteen [columns](http://vocab.getty.edu/page/aat/300001571). At the northeast corner stood a lava puteal with a [gutter](http://vocab.getty.edu/page/aat/300052565) that ran around the edges of the garden. In the center of the garden a wooden [triclinium](http://vocab.getty.edu/page/aat/300004359) was shaded by a [pergolas](http://vocab.getty.edu/page/aat/300006783) supported by four columns. The nails and the imprint of the wooden structure of the [triclinium](http://vocab.getty.edu/page/aat/300004359) were clearly preserved. A marble faced rectangular [pool]( http://vocab.getty.edu/page/aat/300375619), with an apse-shaped extension to the north and a [fountain](http://vocab.getty.edu/page/aat/300006179) jet, was located in front of the [triclinium](http://vocab.getty.edu/page/aat/300004359). This [pool]( http://vocab.getty.edu/page/aat/300375619) was connected to a smaller marble basin between the couches of the [triclinium](http://vocab.getty.edu/page/aat/300004359). An excellent view of the garden was afforded from the large salon at the rear of the [tablinum](http://vocab.getty.edu/page/aat/300004180) with two [columns](http://vocab.getty.edu/page/aat/300001571) at the entrance of the [portico](http://vocab.getty.edu/page/aat/300004145).
 The [oecus](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300080791) also opened on the north [portico](http://vocab.getty.edu/page/aat/300004145) with a fine view of the garden and the loggia above had a view of the garden as well as views to the sea and the Lattari Mountains.
 
 <!--### Maps-->

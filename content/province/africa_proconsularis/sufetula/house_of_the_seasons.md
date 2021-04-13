@@ -45,7 +45,7 @@ House of the Seasons (La maison des Saisons)
 
 ### Keywords
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 ### Garden Description

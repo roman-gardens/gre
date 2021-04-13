@@ -10,13 +10,13 @@ draft: false
 categories:
  - "Italia"
 tags:
- - "atriums"
- - "basins"
- - "basins"
- - "bathhouses"
+ - "atriums (Roman halls)"
+ - "basins (vessels)"
+ - "basins (vessels)"
+ - "bathhouses (water recreation structures)"
  - "courtyards"
  - "drains"
- - "gutters"
+ - "gutters (building drainage components)"
  - "reception rooms"
  - "vestibules"
  - "water baths"
@@ -63,7 +63,7 @@ Villa at Luna
 - [reception rooms](http://vocab.getty.edu/page/aat/300077176)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 
 ### Garden Description

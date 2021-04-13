@@ -38,9 +38,9 @@ Rural Villa
 
 ### Keywords
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
-- [mosaic](http://vocab.getty.edu/page/aat/300015342)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [courtyard](http://vocab.getty.edu/page/aat/300004095)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 ### Garden Description
 

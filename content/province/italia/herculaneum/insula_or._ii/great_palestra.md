@@ -13,7 +13,7 @@ categories:
   - "Italia"
 tags:
  - "fountains"
- - "shrine"
+ - "shrines (structures)"
  - "trellises"
 ---
 
@@ -44,7 +44,7 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 Great Palestra
 
 ### Keywords
-- [shrine](http://vocab.getty.edu/page/aat/300007558)
+- [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [trellises](http://vocab.getty.edu/page/aat/300006785)
 

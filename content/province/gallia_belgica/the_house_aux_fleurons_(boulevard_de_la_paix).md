@@ -39,7 +39,7 @@ A sublocation is any area larger than an individual garden, but located within a
 The House aux Fleurons (boulevard de la Paix)
 
 ### Keywords
-- [porticos](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [trench](http://vocab.getty.edu/page/aat/300008022)
 
 

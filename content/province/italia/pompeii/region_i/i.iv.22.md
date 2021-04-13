@@ -11,8 +11,8 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "atrium"
- - "triclinium"
+ - "atriums (Roman halls)"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -33,8 +33,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IV]({{<relref "..">}})
 
 ### Keywords
-- [atrium](http://vocab.getty.edu/page/aat/300004097)
-- [triclinium](http://vocab.getty.edu/page/aat/300004359)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ## Garden
 Garden with a [triclinium](http://vocab.getty.edu/page/aat/300004359) at the rear of a domestic property.

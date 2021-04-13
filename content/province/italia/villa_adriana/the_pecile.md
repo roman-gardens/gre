@@ -7,9 +7,9 @@ author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "columns"
+ - "columns (architectural elements)"
  - "flower gardens"
- - "peristyles"
+ - "peristyles (Roman courtyards)"
  - "porticoes"
  - "tufa"
 ---

@@ -37,7 +37,7 @@ A sublocation is any area larger than an individual garden, but located within a
 Rural Villa
 
 ### Keywords
-- [courtyard](http://vocab.getty.edu/page/aat/300004095)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [paddock](http://vocab.getty.edu/page/aat/300428748)
 
 ### Garden Description

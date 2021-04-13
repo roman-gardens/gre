@@ -48,7 +48,7 @@ Saint-Florent, House B, House with the Polychrome Mosaic
 
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [opus signinum](http://vocab.getty.edu/page/aat/300379969)

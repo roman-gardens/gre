@@ -13,7 +13,7 @@ categories:
   - "Italia"
 tags:
  - "peristyle houses"
- - "porticos"
+ - "porticoes"
 ---
 
 ## Province
@@ -44,7 +44,7 @@ Casa del Colonnato Tuscanico
 
 ### Keywords
  - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
- - [porticos](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 
 

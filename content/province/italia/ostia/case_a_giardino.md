@@ -8,7 +8,7 @@ editor: Joshua Rosenheim
 draft: false
 tags:
  - "fountains"
- - "mosaics"
+ - "mosaics (visual works)"
  - "statues"
 ---
 

@@ -52,7 +52,7 @@ House with the Five Mosaics
 - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
 - [opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
 

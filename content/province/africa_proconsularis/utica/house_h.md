@@ -10,7 +10,7 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- - "mosaics"
+ - "mosaic (process)"
  - "semicircular"
 ---
 
@@ -50,7 +50,7 @@ House H (Maison H)
 ### Keywords
 
 - [semicircular](http://vocab.getty.edu/page/aat/300263828)
-- [mosaics](http://vocab.getty.edu/page/aat/300138684)
+- [mosaic (process)](http://vocab.getty.edu/page/aat/300138684)
 
 
 ### Garden Description

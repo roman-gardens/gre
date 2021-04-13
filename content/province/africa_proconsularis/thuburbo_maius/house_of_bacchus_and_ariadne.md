@@ -11,10 +11,10 @@ categories:
   - "Africa Proconsularis"
 tags:
  - "domus"
- - "insula"
- - "mosaic"
+ - "insulae"
+ - "mosaics (visual works)"
  - "peristyle houses"
- - "triclinium"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -41,9 +41,9 @@ House of Bacchus and Ariadne (Maison de Bacchus et Ariane)
 ### Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [insula](http://vocab.getty.edu/page/aat/300000325)
-- [mosaic](http://vocab.getty.edu/page/aat/300015342)
-- [triclinium](http://vocab.getty.edu/page/aat/300004359)
+- [insulae](http://vocab.getty.edu/page/aat/300000325)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [semicircular basin]
 - [root cavities]
 - [pipe]

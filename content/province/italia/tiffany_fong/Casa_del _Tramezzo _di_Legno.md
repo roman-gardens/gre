@@ -42,8 +42,8 @@ Casa del Tramezzo di Legno
 ### Keywords
 
 
-- [loggia](http://vocab.getty.edu/aat/300004137)
-- [triclinium](http://vocab.getty.edu/aat/300004359)
+- [loggias](http://vocab.getty.edu/page/aat/300004137)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 537.III.11.

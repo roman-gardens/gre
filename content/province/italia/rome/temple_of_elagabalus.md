@@ -43,7 +43,7 @@ Gardens of the Temple of Elagabalus, Palatine
 
 - [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
 - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
-- [canals (water channels)](http://vocab.getty.edu/page/aat/300006075)
+- [canals (waterways)](http://vocab.getty.edu/page/aat/300006075)
 - [brick (construction material)](http://vocab.getty.edu/page/aat/300010463)
 - [flower gardens](http://vocab.getty.edu/page/aat/300008135)
 - [flowerpots](http://vocab.getty.edu/page/aat/300194749)
@@ -51,7 +51,7 @@ Gardens of the Temple of Elagabalus, Palatine
 - [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [standards (religious artifacts)](http://vocab.getty.edu/page/aat/300429891)
-- [temple](http://vocab.getty.edu/page/aat/300007595)
+- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 
 ### Garden Description
 

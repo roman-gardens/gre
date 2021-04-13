@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Cryptoporticus (Maison du Cryptoportique)
 
 ### Keywords
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
 - [opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462)

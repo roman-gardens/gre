@@ -8,10 +8,10 @@ editor: Joshua Rosenheim
 draft: false
 tags:
  - "biclinia"
- - "columns"
+ - "columns (architectural elements)"
  - "domus"
  - "lararia"
- - "peristyles"
+ - "peristyles (Roman courtyards)"
  - "tesserae"
 ---
 

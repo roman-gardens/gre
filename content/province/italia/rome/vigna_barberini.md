@@ -9,8 +9,8 @@ draft: false
 tags:
  - "domus"
  - "palaces"
- - "peristyle"
- - "temple"
+ - "peristyles (Roman courtyards)"
+ - "temples (buildings)"
 ---
 
 # Province
@@ -50,8 +50,8 @@ Gardens of the House of Augustus, Palatine<!-- List of gardens in province -->
 
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [palaces](http://vocab.getty.edu/page/aat/300005734)
-- [peristyle (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [temple](http://vocab.getty.edu/page/aat/300007595)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 
 ### Garden Description
 

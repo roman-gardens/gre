@@ -14,7 +14,7 @@ categories:
 tags:
  - "charcoal"
  - "pollen"
- - "triclinia"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -36,7 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [ambulationes]
- - [triclinia](http://vocab.getty.edu/page/aat/300142552)
+ - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300142552)
  - [charcoal](http://vocab.getty.edu/page/aat/300012862)]
  - [pollen](http://vocab.getty.edu/page/aat/300213002)
 

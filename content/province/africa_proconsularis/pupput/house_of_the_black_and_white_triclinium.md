@@ -44,11 +44,11 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Black and White Triclinium (Maison du triclinium en noir et blanc)
 
 ### Keywords
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [pool](#)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 The house is laid out around a square shaped peristyle garden. Between the columns runs a low wall (0.30m) that separates the porticoes from the garden. There was a semicircular basin in the N facing the triclinium (Plan view, Fig.1). The house is dated from the II-III c.

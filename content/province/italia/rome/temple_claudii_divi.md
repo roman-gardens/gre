@@ -8,14 +8,14 @@ editor: Rhiannon Pare
 draft: false
 tags:
  - "aqueducts"
- - "cisterns"
- - "nemus"
- - "niches"
- - "nymphaea"
+ - "cisterns (plumbing components)"
+ - "nemus (grove)"
+ - "niches (architectural elements)"
+ - "nymphaea (garden structures)"
  - "planting beds"
  - "porticoes"
- - "stagnum"
- - "temple"
+ - "stagnum (man-made lake)"
+ - "temples (buildings)"
 ---
 
 # Province
@@ -59,7 +59,7 @@ Gardens of the Temple of Divine Claudius, Palatine
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [planting beds](http://vocab.getty.edu/page/aat/300430426)
 - [stagnum (man-made lake)](http://vocab.getty.edu/page/aat/300263360)
-- [temple](http://vocab.getty.edu/page/aat/300007595)
+- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 
 ### Garden Description
 

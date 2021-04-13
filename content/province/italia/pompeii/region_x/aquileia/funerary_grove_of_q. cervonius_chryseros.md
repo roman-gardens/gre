@@ -10,8 +10,8 @@ draft: false
 categories:
  - "Italia"
 tags:
- - "altars"
- - "grove"
+ - "altars (religious fixtures)"
+ - "grove (sacred grove)"
  - "stelae"
  - "tombs"
 ---

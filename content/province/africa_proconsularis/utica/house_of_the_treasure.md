@@ -12,7 +12,7 @@ categories:
 tags:
  - "oecus"
  - "semicircular"
- - "triclinium"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -52,7 +52,7 @@ House of the Treasure (Maison au trésor)
 ### Keywords
 
 - [semicircular](http://vocab.getty.edu/page/aat/300263828)
-- [triclinium](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [oecus](http://vocab.getty.edu/page/aat/300080791)
 
 ### Garden Description

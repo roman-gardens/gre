@@ -11,10 +11,10 @@ draft: false
 categories:
  - "Italia"
 tags:
- - "[dolia"
  - "amphitheaters"
+ - "doliums"
  - "trellises"
- - "triclinia"
+ - "triclinia (couches)"
  - "vineyards"
 ---
 
@@ -46,7 +46,7 @@ Large vineyard
 - [trellises](http://vocab.getty.edu/page/aat/300006785)
 - [triclinia (couches)](http://vocab.getty.edu/page/aat/300142552)
 - [vineyards](http://vocab.getty.edu/page/aat/300000248)
-- [[dolia](http://vocab.getty.edu/page/aat/300400601)]
+- [doliums](http://vocab.getty.edu/page/aat/300400601)
 
 
 

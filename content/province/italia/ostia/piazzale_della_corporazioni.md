@@ -7,8 +7,8 @@ author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "basins"
- - "columns"
+ - "basins (vessels)"
+ - "columns (architectural elements)"
  - "opus signinum"
  - "porticoes"
  - "statues"

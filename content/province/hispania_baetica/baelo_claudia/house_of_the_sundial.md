@@ -47,7 +47,7 @@ Villa del Cortijo de los Vila
 ### Keywords
 
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 
 
 ### Garden Description

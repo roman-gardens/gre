@@ -7,9 +7,9 @@ author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "exedrae"
+ - "exedrae (site elements)"
  - "fountains"
- - "nymphaea"
+ - "nymphaea (garden structures)"
 ---
 
 ## Province

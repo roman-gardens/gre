@@ -8,7 +8,7 @@ editor: Joshua Rosenheim
 draft: false
 tags:
  - "fountains"
- - "nymphaea"
+ - "nymphaea (garden structures)"
 ---
 
 ## Province

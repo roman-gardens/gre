@@ -7,7 +7,7 @@ author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "columns"
+ - "columns (architectural elements)"
  - "porticoes"
 ---
 

@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Bassilica (Maison de la Bassilica)
 
 ### Keywords
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [alleys (streets)](http://vocab.getty.edu/page/aat/300008248)
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)

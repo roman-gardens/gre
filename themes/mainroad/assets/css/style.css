@@ -45,7 +45,7 @@ html {
 
 body {
 	margin: 0;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: "Garamond", "Palatino", serif; /* "Open Sans", Helvetica, Arial, sans-serif; */
 	font-size: 14px;
 	font-size: .875rem;
 	line-height: 1.6;
@@ -380,8 +380,11 @@ select {
 
 /* Header */
 .header {
-	background: #fff;
+	width: 100%;
+	background: url('/img/header.jpg');
+	background-size: cover;
 }
+
 
 .logo {
 	padding: 25px;

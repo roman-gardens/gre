@@ -46,7 +46,7 @@ Le Pinard, House B
 
 ### Keywords
 - [ditches](http://vocab.getty.edu/page/aat/300006178)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
 
 

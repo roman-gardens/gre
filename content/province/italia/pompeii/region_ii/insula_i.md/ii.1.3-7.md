@@ -11,7 +11,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "amphorae"
+ - "amphorae (storage vessels)"
  - "cauponae"
 ---
 

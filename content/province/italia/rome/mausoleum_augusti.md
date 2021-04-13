@@ -7,12 +7,12 @@ author: E.R. Macaulay
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "altars"
+ - "altars (religious fixtures)"
  - "horologium"
- - "nemus"
+ - "nemus (grove)"
  - "obelisk"
  - "statues"
- - "ustrins"
+ - "ustrins (crematories)"
 ---
 
 ## Province

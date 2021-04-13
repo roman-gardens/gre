@@ -37,7 +37,7 @@ A sublocation is any area larger than an individual garden, but located within a
 Rural Villa
 
 ### Keywords
-- [peristyle](http://vocab.getty.edu/page/aat/300080971)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [corridors](http://vocab.getty.edu/page/aat/300004294)
 - [bath building](http://vocab.getty.edu/page/aat/300007347)
 

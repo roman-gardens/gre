@@ -40,7 +40,7 @@ Urban House
 
 <!-- ### Keywords -->
 ### Keywords
-- [peristyle](http://vocab.getty.edu/page/aat/300080971)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [terrace](http://vocab.getty.edu/page/aat/300404778)
 
 ### Garden Description

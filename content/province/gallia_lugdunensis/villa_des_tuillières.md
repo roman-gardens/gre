@@ -39,7 +39,7 @@ A sublocation is any area larger than an individual garden, but located within a
 Villa des Tuillières
 
 ### Keywords
-- [courtyard](http://vocab.getty.edu/page/aat/300004095)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [porticos/porticus](http://vocab.getty.edu/page/aat/300004145)
 - [hypocausts](http://vocab.getty.edu/page/aat/300004277)
 

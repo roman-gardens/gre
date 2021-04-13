@@ -10,21 +10,21 @@ draft: false
 categories:
  - "Italia"
 tags:
- - "atriums"
- - "basins"
- - "bathhouses"
- - "cisterns"
+ - "atriums (Roman halls)"
+ - "basins (vessels)"
+ - "bathhouses (water recreation structures)"
+ - "cisterns (plumbing components)"
  - "cryptoportici"
  - "ditches"
  - "drains"
- - "exedrae"
- - "fences"
+ - "exedrae (site elements)"
+ - "fences (site elements)"
  - "garden pavilions"
- - "gutters"
+ - "gutters (building drainage components)"
  - "insulae"
  - "loam"
  - "orchards"
- - "peristyles"
+ - "peristyles (Roman courtyards)"
  - "piscinae"
  - "porticoes"
  - "presence chambers"
@@ -75,10 +75,10 @@ House of Grotto of Aatullus
 - [cryptoportici](http://vocab.getty.edu/page/aat/300004295)
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
 - [piscinae]( http://vocab.getty.edu/page/aat/300375619)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [ditches](http://vocab.getty.edu/page/aat/300006178)
 - [water supply systems](http://vocab.getty.edu/page/aat/300008618)
 - [water baths](http://vocab.getty.edu/page/aat/300248755)

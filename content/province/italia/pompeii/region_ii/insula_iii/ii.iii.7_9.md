@@ -10,7 +10,7 @@ draft: false
 categories:
  - "Italia"
 tags:
- - "tables"
+ - "tables (support furniture)"
 ---
 
 ## Province

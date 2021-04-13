@@ -39,8 +39,8 @@ Durocortorum was mentioned by Caesar as the center of the Remi, a Celtic tribe t
 House of the Ram (La Maison au Bélier)
 
 ### Keywords
-- [porticos](http://vocab.getty.edu/page/aat/300004145)
-- [drain](http://vocab.getty.edu/page/aat/300052564)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [drains](http://vocab.getty.edu/page/aat/300052564)
 - [corridor](http://vocab.getty.edu/page/aat/300004294)
 
 

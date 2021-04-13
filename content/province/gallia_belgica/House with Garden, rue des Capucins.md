@@ -40,7 +40,7 @@ House with Garden, rue des Capucins
 
 ### Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
-- [atrium](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 
 
 ### Garden Description

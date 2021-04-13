@@ -81,8 +81,8 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 House of the Peristyle
 
 ### Keywords
-- [peristyles](http://vocab.getty.edu/page/aat/300080971)
-- [cisterns](http://vocab.getty.edu/page/aat/300052558)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 
 
 ### Garden Description

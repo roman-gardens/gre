@@ -40,7 +40,7 @@ The villa has three gardens:  one peristyle garden, one cryptoporticus and the t
 
 ### Keywords
 
-- [villa](http://vocab.getty.edu/page/aat/300000325)
+- [insulae](http://vocab.getty.edu/page/aat/300000325)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 

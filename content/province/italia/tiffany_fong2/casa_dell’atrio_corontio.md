@@ -40,7 +40,7 @@ Casa dell’Atrio Corontio
 ### Keywords
 - [impluvium]
 - [atrium]
-- [peristyle]
+- [peristyles (Roman courtyards)]
 - [viridarium]
 
 ---

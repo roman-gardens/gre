@@ -44,7 +44,7 @@ Garden of the Peristyle of the Julio-Claudian Domus, Palatine
 ### Keywords
 
 - [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
-- [canals (water channels)](http://vocab.getty.edu/page/aat/300006075)
+- [canals (waterways)](http://vocab.getty.edu/page/aat/300006075)
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [flowerpots](http://vocab.getty.edu/page/aat/300194749)

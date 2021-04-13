@@ -10,10 +10,10 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
+ - "bents (structural frames)"
  - "concave"
- - "mosaic"
- - "peristyle"
- - "portico"
+ - "mosaic (process)"
+ - "peristyles (Roman courtyards)"
 ---
 
 ## Province
@@ -52,10 +52,10 @@ House of the Grand Oecus (Maison du grand oecus)
 
 ### Keywords
 
-- [peristyle](http://vocab.getty.edu/page/aat/300004029)
-- [portico](http://vocab.getty.edu/page/aat/300001833)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
+- [bents (structural frames)](http://vocab.getty.edu/page/aat/300001833)
 - [concave](http://vocab.getty.edu/page/aat/300010302)
-- [mosaic](http://vocab.getty.edu/page/aat/300138684)
+- [mosaic (process)](http://vocab.getty.edu/page/aat/300138684)
 
 ### Garden Description
 

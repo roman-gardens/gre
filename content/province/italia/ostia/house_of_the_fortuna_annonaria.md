@@ -7,10 +7,10 @@ author: Elizabeth J. Shepherd
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "basins"
- - "columns"
- - "mosaics"
- - "nymphaea"
+ - "basins (vessels)"
+ - "columns (architectural elements)"
+ - "mosaics (visual works)"
+ - "nymphaea (garden structures)"
  - "oeci"
 ---
 

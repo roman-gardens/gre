@@ -46,7 +46,7 @@ Gardens of the Republican *Domus*, Palatine
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [laconicum (baths)](http://vocab.getty.edu/page/aat/300004219)
 - [palaestra](http://vocab.getty.edu/page/aat/300007301)
-- [peristyle (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 ### Garden Description
 

@@ -10,7 +10,7 @@ draft: false
 categories:
 - "Italia"
 tags:
- - "cisterns"
+ - "cisterns (plumbing components)"
  - "fountains"
  - "lararia"
  - "trellises"

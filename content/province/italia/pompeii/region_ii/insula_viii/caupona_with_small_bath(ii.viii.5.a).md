@@ -12,7 +12,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "triclinia"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -33,7 +33,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VIII]({{<relref "..">}})
 
 ### Keywords
- - [triclinia](http://vocab.getty.edu/page/aat/300142552)
+ - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300142552)
 
 ### Garden Description
 A. A very small bath was located at the left rear of the atrium in this unusual building.  Behind this was a tiny garden (a) with three small triclinia on either side. The couches of these six triclinia were so low and narrow they must have been used as seats similar to the taberna attached to the house of Julia Felix, II.iv.7.

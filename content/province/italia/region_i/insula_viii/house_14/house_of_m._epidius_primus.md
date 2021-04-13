@@ -43,7 +43,7 @@ House of M. Epidius Primus (I.viii.14)
 ### Keywords
 
 - [archaeological garden](#)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
 - [viridarium](#)

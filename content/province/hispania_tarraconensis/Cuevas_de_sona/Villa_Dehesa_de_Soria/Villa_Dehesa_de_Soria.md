@@ -57,9 +57,9 @@ Villa Dehesa de Soria
 
 
 ### Keywords
-- [peristyles](http://vocab.getty.edu/page/aat/300080971)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
 ### Garden Description

@@ -9,11 +9,11 @@ draft: false
 tags:
  - "colonnades"
  - "domus"
- - "exedrae"
- - "frescoes"
+ - "exedrae (site elements)"
+ - "frescoes (visual works)"
  - "pergolas"
  - "porticoes"
- - "shrines"
+ - "shrines (structures)"
 ---
 
 ## Province
@@ -50,7 +50,7 @@ Porticus Liviae <!--There does not appear to be a Pleiades place resource for th
 - [frescoes (visual works)](http://vocab.getty.edu/page/aat/300177433)
 - [pergolas](http://vocab.getty.edu/page/aat/300006783)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [shrines](http://vocab.getty.edu/page/aat/300007558)
+- [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
 
 ### Garden Description
 
@@ -60,7 +60,7 @@ Augustus constructed the *porticus* in the name of his wife, [Livia](https://www
 
 The *porticus* (ca. 120 x 75 m.) was enclosed by an outer wall and a roofed double [colonnade](http://vocab.getty.edu/page/aat/300002613). There are large rectangular and circular [*exedrae*](http://vocab.getty.edu/page/aat/300081589) set behind the individual porticoes. In the center of the *porticus* was a large rectangular central feature, and four small features were located at the corners of the colonnades. Scholars debate whether the large central feature was a [fountain](http://vocab.getty.edu/page/aat/300006179) or, more likely, a [shrine](http://vocab.getty.edu/page/aat/300007558) to *Concordia*, dedicated to marital concord and harmony, a major theme of Augustan propaganda. Ovid mentions a shrine to Concordia [Ovid *Fast.* 6.637–48](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0547%3Abook%3D6). The function of the four smaller features located at the corners of the colonnades is also uncertain; perhaps, they were fountains or small niches for the display of statues.
 
-The *porticus* featured a central garden. Pliny writes of a single, productive vine stock that covered the walkway with shade ([Pliny, HN 14.11](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0138%3Abook%3D14%3Achapter%3D11)), creating a [pergola]((http://vocab.getty.edu/page/aat/300006783))-like effect. The vines were also productive, reportedly producing twelve *amphorae* of wine per year. A collection of [paintings](http://vocab.getty.edu/page/aat/300177433) was also displayed in the *porticus* ([Ovid, *Ars Am.* 171–72](http://data.perseus.org/texts/urn:cts:latinLit:phi0959.phi004.perseus-eng1); [Strabo 5.3.8](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D5%3Achapter%3D3%3Asection%3D8)). As in other porticoes, Romans would stroll, meet their lovers, or make appointments to meet each other here ([Plin. *Ep.* 1.5.9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0139)).
+The *porticus* featured a central garden. Pliny writes of a single, productive vine stock that covered the walkway with shade ([Pliny, HN 14.11](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0138%3Abook%3D14%3Achapter%3D11)), creating a [pergolas]((http://vocab.getty.edu/page/aat/300006783))-like effect. The vines were also productive, reportedly producing twelve *amphorae* of wine per year. A collection of [paintings](http://vocab.getty.edu/page/aat/300177433) was also displayed in the *porticus* ([Ovid, *Ars Am.* 171–72](http://data.perseus.org/texts/urn:cts:latinLit:phi0959.phi004.perseus-eng1); [Strabo 5.3.8](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D5%3Achapter%3D3%3Asection%3D8)). As in other porticoes, Romans would stroll, meet their lovers, or make appointments to meet each other here ([Plin. *Ep.* 1.5.9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0139)).
 
 Excavations in 1984 identified pre- and post-Augustan phases, but provided no information about possible gardens. The excavations suggest that the *porticus* remained in use until the fifth century CE, but that by the mid-sixth century the *porticus* was being used for burials.
 

@@ -12,7 +12,7 @@ categories:
 tags:
  - "domus"
  - "peristyle houses"
- - "triclinia"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -51,7 +51,7 @@ Hermaphrodite House (Maison de l'Hermaphrodite)
 ### Keywords
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [pool]
 
 

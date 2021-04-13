@@ -47,7 +47,7 @@ Gardens of the Temple of Divine Claudius (Roma)<!-- List of gardens in province 
 
 ### Keywords
 
-- [temple](http://vocab.getty.edu/page/aat/300007595)
+- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 - [nemus (grove)](http://vocab.getty.edu/page/aat/300008884)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)

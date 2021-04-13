@@ -12,7 +12,7 @@ categories:
 tags:
  - "fountains"
  - "lararia"
- - "peristyles"
+ - "peristyles (Roman courtyards)"
  - "porticoes"
  - "predellas"
  - "tablina"

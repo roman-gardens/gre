@@ -33,7 +33,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ### Keywords
- - [peristyle](http://vocab.getty.edu/page/aat/300080971)
+ - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
  - [sacrarium](http://vocab.getty.edu/page/aat/300007572)
 
 

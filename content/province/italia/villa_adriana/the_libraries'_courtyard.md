@@ -8,8 +8,8 @@ editor: Joshua Rosenheim
 draft: false
 tags:
  - "flower gardens"
- - "nymphaea"
- - "peristyles"
+ - "nymphaea (garden structures)"
+ - "peristyles (Roman courtyards)"
  - "porticoes"
 ---
 

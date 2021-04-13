@@ -10,9 +10,7 @@ draft: false
 categories:
  - "Italia"
 tags:
- - "exedra"
- - "portico"
- - "triclinium"
+ - "porticoes"
 ---
 
 ## Province
@@ -37,10 +35,9 @@ Casa dell’Atrio a Mosaico
 ##Jashemski Catalogue
 541.IV.1-2
 
+<!-- These keywords are incomplete. - Christian -->
 ### Keywords
-- [portico](http://vocab.getty.edu/aat/300004145)
-- [exedra](http://vocab.getty.edu/aat/300004014)
-- [triclinium](http://vocab.getty.edu/aat/300004359)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description
 541.IV.1-2

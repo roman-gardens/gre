@@ -43,7 +43,7 @@ Casa dei Cervi
 - [portico]
 - [trapezophron]
 - [puteal]
-- [pergola]
+- [pergolas]
 ---
 
 ### Garden Description

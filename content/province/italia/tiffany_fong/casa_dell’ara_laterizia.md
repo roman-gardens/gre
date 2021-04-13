@@ -37,9 +37,9 @@ III
 Casa dell’Ara Laterizia
 
 ### Keywords
-- [sacellum](http://vocab.getty.edu/aat/300007570)
-- [portico](http://vocab.getty.edu/aat/300004145)
-- [opus reticulatum](http://vocab.getty.edu/aat/300262690)
+- [sacella](http://vocab.getty.edu/page/aat/300007570)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [opus reticulatum](http://vocab.getty.edu/page/aat/300262690)
 
 ### Garden Description
 539.III.17.

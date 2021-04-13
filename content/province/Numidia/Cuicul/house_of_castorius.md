@@ -11,8 +11,8 @@ categories:
   - "Numidia"
 tags:
  - "domus"
- - "exedrae"
- - "mosaics"
+ - "exedrae (site elements)"
+ - "mosaics (visual works)"
  - "peristyle houses"
  - "piscinae"
 ---

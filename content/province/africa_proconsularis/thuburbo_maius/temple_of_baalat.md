@@ -10,7 +10,7 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- - "portico"
+ - "porticoes"
 ---
 
 ## Province
@@ -35,7 +35,7 @@ Temple of Baalat (Temple de Balaat)
 
 ### Keywords
 
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description
 

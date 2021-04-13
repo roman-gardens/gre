@@ -11,7 +11,7 @@ categories:
  - "Italia"
 tags:
  - "courtyards"
- - "villa"
+ - "insulae"
 ---
 
 ## Province
@@ -42,7 +42,7 @@ Narrow garden in the house of Messius Ampliatus (II.ii.4)
 
 ### Keywords
 
-- [villa](http://vocab.getty.edu/page/aat/300000325)
+- [insulae](http://vocab.getty.edu/page/aat/300000325)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 ### Garden Description

@@ -13,7 +13,7 @@ tags:
  - "baroque"
  - "cascade"
  - "masonry"
- - "triclinium"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -53,7 +53,7 @@ House of the Cascade (Maison de la Cascade)
 ### Keywords
 
 - [masonry](http://vocab.getty.edu/page/aat/300011701)
-- [triclinium](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [baroque](http://vocab.getty.edu/page/aat/300021147)
 - [cascade](http://vocab.getty.edu/page/aat/300006792)
 

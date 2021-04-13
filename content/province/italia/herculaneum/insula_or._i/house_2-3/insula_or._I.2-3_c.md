@@ -10,7 +10,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "peristyles"
+ - "peristyles (Roman courtyards)"
 ---
 
 ## Province
@@ -35,7 +35,7 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 C
 
 ### Keywords
-- [peristyles](http://vocab.getty.edu/page/aat/300080971)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 ### Garden Description
 C. There are five rooms south of the peristyle and on a lower level beyond them is another garden (c).

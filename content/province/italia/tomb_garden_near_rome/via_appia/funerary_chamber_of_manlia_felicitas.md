@@ -36,7 +36,7 @@ Funerary Chamber of Manlia Felicitas
 
 ### Keywords
 
-- [villa](http://vocab.getty.edu/page/aat/300000325)
+- [insulae](http://vocab.getty.edu/page/aat/300000325)
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 - [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
 

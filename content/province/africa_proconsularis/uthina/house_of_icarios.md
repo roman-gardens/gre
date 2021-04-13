@@ -46,10 +46,10 @@ House of Icarios (Maison d'Icarios)
 ### Keywords
 
 - [domus](http://vocab.getty.edu/page/aat/300005506)
-- [triclinium](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [vaults](http://vocab.getty.edu/page/aat/300001370)
-- [vestibule](http://vocab.getty.edu/page/aat/300083076)
-- [cistern](http://vocab.getty.edu/page/aat/300052558)
+- [vestibules](http://vocab.getty.edu/page/aat/300083076)
+- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 
 ### Garden Description
 

@@ -40,11 +40,11 @@ Villa de Larry
 
 ### Keywords
 
-- [courtyard](http://vocab.getty.edu/page/aat/300004095)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [hedge](http://vocab.getty.edu/page/aat/300266413)
-- [pergola](http://vocab.getty.edu/page/aat/300006783)
-- [cistern](http://vocab.getty.edu/page/aat/300052558)
+- [pergolas](http://vocab.getty.edu/page/aat/300006783)
+- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [fountain](http://vocab.getty.edu/page/aat/300006179)
 
 ### Garden Description

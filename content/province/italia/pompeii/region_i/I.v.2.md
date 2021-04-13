@@ -12,11 +12,11 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "exedrae"
- - "lararium"
- - "peristyle"
- - "portico"
- - "tablinum"
+ - "exedrae (site elements)"
+ - "lararia"
+ - "peristyles (Roman courtyards)"
+ - "porticoes"
+ - "tablina"
 ---
 
 ## Province
@@ -38,13 +38,13 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [lararium](http://vocab.getty.edu/page/aat/300400600)
-- [peristyle](http://vocab.getty.edu/page/aat/300080971)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
-- [tablinum](http://vocab.getty.edu/page/aat/300004180)
+- [lararia](http://vocab.getty.edu/page/aat/300400600)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [tablina](http://vocab.getty.edu/page/aat/300004180)
 
 ## Garden
-Officina Coriariorum of M. Vesonius Primus (tannery) with a [peristyle](http://vocab.getty.edu/page/aat/300080971) garden and large open space to the rear.
+Officina Coriariorum of M. Vesonius Primus (tannery) with a [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden and large open space to the rear.
 
 ### Keywords
 
@@ -55,13 +55,13 @@ Officina Coriariorum of M. Vesonius Primus (tannery) with a [peristyle](http://v
 - [pillars](http://vocab.getty.edu/page/aat/300264605)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 
-A. This tannery was excavated in 1873-1874. The [peristyles](http://vocab.getty.edu/page/aat/300080971) courtyard had a portico to the north and east supported by brick pillars which had been most likely been built when the original house was converted to a tannery. Against the west wall there was a masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) (*l.medius* 4.99 m.; *l.summus* and *l.imus* 4.96 m.; table, 1.78 x 0.93 m.). The top of the [triclinium](http://vocab.getty.edu/page/aat/300004359) table held the famous mosaic of a skull (0.45 x 0.50 m. Mus. Naz. inv. no. 109 982;; Reusch no. 163). The mosaic representing the Epicurian philosophy features a large skull over a butterfly on a wheel representing the soul and time. On either side of the skull are the possessions of both the rich and poor with a plumb line hanging over the skull indicating the equalizing power of death. The northeastern part of the courtyard was a rectangle, the north side of which was formed by the three first intercolumniations counting from the northeast corner of the north [portico](http://vocab.getty.edu/page/aat/300004145), and the east side by the first two intercolumniations counting from the same corner. This area was paved with [opus signinum](http://vocab.getty.edu/page/aat/300379969). The little area around the [triclinium](http://vocab.getty.edu/page/aat/300004359) between the paved area and the west wall was believed to be a garden according to Mau.  
+A. This tannery was excavated in 1873-1874. The [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) courtyard had a portico to the north and east supported by brick pillars which had been most likely been built when the original house was converted to a tannery. Against the west wall there was a masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) (*l.medius* 4.99 m.; *l.summus* and *l.imus* 4.96 m.; table, 1.78 x 0.93 m.). The top of the [triclinium](http://vocab.getty.edu/page/aat/300004359) table held the famous mosaic of a skull (0.45 x 0.50 m. Mus. Naz. inv. no. 109 982;; Reusch no. 163). The mosaic representing the Epicurian philosophy features a large skull over a butterfly on a wheel representing the soul and time. On either side of the skull are the possessions of both the rich and poor with a plumb line hanging over the skull indicating the equalizing power of death. The northeastern part of the courtyard was a rectangle, the north side of which was formed by the three first intercolumniations counting from the northeast corner of the north [portico](http://vocab.getty.edu/page/aat/300004145), and the east side by the first two intercolumniations counting from the same corner. This area was paved with [opus signinum](http://vocab.getty.edu/page/aat/300379969). The little area around the [triclinium](http://vocab.getty.edu/page/aat/300004359) between the paved area and the west wall was believed to be a garden according to Mau.  
 
-B. The south half of the insula was also excavated in 1873-74. It was accessed from the back door in the [peristyle](http://vocab.getty.edu/page/aat/300080971)] garden of the tannery by descending six steps. This was a large open area that had been cleared of previous structures. Formerly there had been five doors in the south wall leading to the *pomerium* but these were closed up. This area could have been used as a kitchen garden as suggested by Tatiana Warscher or for drying leather as suggested by Viola.
+B. The south half of the insula was also excavated in 1873-74. It was accessed from the back door in the [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)] garden of the tannery by descending six steps. This was a large open area that had been cleared of previous structures. Formerly there had been five doors in the south wall leading to the *pomerium* but these were closed up. This area could have been used as a kitchen garden as suggested by Tatiana Warscher or for drying leather as suggested by Viola.
 
 <!--### Maps-->
 

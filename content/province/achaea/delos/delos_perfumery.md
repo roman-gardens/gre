@@ -10,10 +10,10 @@ draft: false
 categories:
  - "Achaea"
 tags:
- - "*impluvia*"
- - "nymphaea"
+ - "impluvia"
+ - "nymphaea (garden structures)"
  - "oeci"
- - "peristyles"
+ - "peristyles (Roman courtyards)"
 ---
 
 ## Province
@@ -30,7 +30,7 @@ Delos is a small island in the center of the Cyclades measuring about five kilom
 Peristyle Gardens
 
 ### Keywords
-- [*impluvia*](http://vocab.getty.edu/page/aat/300129867)
+- [impluvia](http://vocab.getty.edu/page/aat/300129867)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)

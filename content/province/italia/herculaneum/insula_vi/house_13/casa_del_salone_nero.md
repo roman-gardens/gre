@@ -11,7 +11,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "porticos"
+ - "porticoes"
  - "tablinium"
 ---
 
@@ -41,7 +41,7 @@ Casa del Salone Nero
 
 
 ### Keywords
- - [porticos](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [tablinium](http://vocab.getty.edu/page/aat/300004180)
 
 

@@ -41,7 +41,7 @@ Villa Borg
 ### Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [basins](http://vocab.getty.edu/page/aat/300045614)
-- [courtyard](http://vocab.getty.edu/page/aat/300004095)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 
 

@@ -56,7 +56,7 @@ Villa of Fortunatus
 
 ### Keywords
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [mosaic](http://vocab.getty.edu/page/aat/300138684)
+- [mosaic (process)](http://vocab.getty.edu/page/aat/300138684)
 
 
 ### Garden Description

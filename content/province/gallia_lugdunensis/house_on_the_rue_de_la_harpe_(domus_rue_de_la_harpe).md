@@ -38,8 +38,8 @@ A sublocation is any area larger than an individual garden, but located within a
 House on the Place des Halles (La maison des Halles)
 
 ### Keywords
-- [peristyles](http://vocab.getty.edu/page/aat/300080971)
-- [porticos](http://vocab.getty.edu/page/aat/300004145)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [fountain](http://vocab.getty.edu/page/aat/300006179)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
