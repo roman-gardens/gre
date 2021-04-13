@@ -11,11 +11,16 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "caupona"
-  - "treading floor"
-  - "vineyard"
-  - "cistern"
-  - "dolium"
+ - "aedicules"
+ - "amphorae (storage vessels)"
+ - "courtyards"
+ - "doliums"
+ - "gutters (building drainage components)"
+ - "hearth"
+ - "stucco"
+ - "tabernae"
+ - "table"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -38,12 +43,12 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ### Keywords
  - [tabernae](http://www.getty.edu/vow/AATFullDisplay?find=tabernae&logic=AND&note=&english=N&prev_page=1&subjectid=300005366)
  - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
- - [triclinium](http://vocab.getty.edu/page/aat/300004359)
+ - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
  - [table](http://vocab.getty.edu/page/aat/300039548)
- - [dolium](http://vocab.getty.edu/page/aat/300400601)
- - [courtyard](http://vocab.getty.edu/page/aat/300004095)
- - [aedicula](http://vocab.getty.edu/page/aat/300002574)
- - [gutter](http://vocab.getty.edu/page/aat/300052565)
+ - [doliums](http://vocab.getty.edu/page/aat/300400601)
+ - [courtyards](http://vocab.getty.edu/page/aat/300004095)
+ - [aedicules](http://vocab.getty.edu/page/aat/300002574)
+ - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
  - [stucco](http://www.getty.edu/vow/AATFullDisplay?find=stucco&logic=AND&note=&english=N&prev_page=1&subjectid=300014966)
  - [hearth](http://vocab.getty.edu/page/aat/300003990)
 
@@ -54,7 +59,7 @@ Vineyard with large masonry [triclinium](http://vocab.getty.edu/page/aat/3000043
 ### Garden Description
 A. The access to this garden featured an arched niche high on the garden wall located either side of the direct entrance from the street at entrance 8. A further entrance (7A) from the street was located on the east wall. The masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) (l. medius, 3.60 m.; l. imus 3.20 l. summus 2.43 m.) in the northwest corner had a round table (0.55 m. in dia.) between the couches and a rectangular [table](http://vocab.getty.edu/page/aat/300039548) (0.65 x 1.03 m.) built against the north wall. A cistern opening was found to the south of the [triclinium](http://vocab.getty.edu/page/aat/300004359). To the left of entrance 8, a small room was excavated in 1985 to reveal a treading floor that allowed the juice from the grapes to flow into a small [dolium](http://vocab.getty.edu/page/aat/300400601). This indicates that the garden was most likely planted in vines.
 
-B. Entrance 8 opened directly into a [courtyard](http://vocab.getty.edu/page/aat/300004095) garden. A cistern opening in the northeast corner of the garden was fed by a [gutter](http://vocab.getty.edu/page/aat/300052565) along the east edge. To the right of the door on the east wall was a small niche lararium with an [aedicula](http://vocab.getty.edu/page/aat/300002574) façade. To the right of this niche, a painting of Hercules was displayed in a red border. Below this was a garden setting with an altar and a crested serpent painted in low [stucco](http://www.getty.edu/vow/AATFullDisplay?find=stucco&logic=AND&note=&english=N&prev_page=1&subjectid=300014966) relief. In the interior area of this property, stairs leading to an upper floor and a [hearth](http://vocab.getty.edu/page/aat/300003990) in a kitchen area were located. The stairs likely led to accommodation.
+B. Entrance 8 opened directly into a [courtyard](http://vocab.getty.edu/page/aat/300004095) garden. A cistern opening in the northeast corner of the garden was fed by a [gutter](http://vocab.getty.edu/page/aat/300052565) along the east edge. To the right of the door on the east wall was a small niche lararium with an [aedicules](http://vocab.getty.edu/page/aat/300002574) façade. To the right of this niche, a painting of Hercules was displayed in a red border. Below this was a garden setting with an altar and a crested serpent painted in low [stucco](http://www.getty.edu/vow/AATFullDisplay?find=stucco&logic=AND&note=&english=N&prev_page=1&subjectid=300014966) relief. In the interior area of this property, stairs leading to an upper floor and a [hearth](http://vocab.getty.edu/page/aat/300003990) in a kitchen area were located. The stairs likely led to accommodation.
 
 
 

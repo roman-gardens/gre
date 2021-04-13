@@ -11,8 +11,7 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "triclinia"
-
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -34,7 +33,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
 
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ## Garden
 

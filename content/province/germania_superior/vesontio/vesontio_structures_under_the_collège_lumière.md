@@ -10,16 +10,6 @@ draft: true
 
 categories:
  - "Germania Superior"
-tags:
-  - "colonnades"
-  - "kraters"
-  - "mosaics"
-  - "opus signinum"
-  - "peristyles"
-  - "piscinae"
-  - "porticoes"
-  - "rinceaux"
-  - "terrazzo"
 ---
 
 ## Province

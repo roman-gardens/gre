@@ -9,7 +9,6 @@ draft: true
 
 categories:
  - "Italia"
-
 ---
 
 ## Province
@@ -44,14 +43,14 @@ House of the Beautiful Impluvium; Casa del Bell Impluvio (I.ix.1)
 ### Keywords
 
 - [archaeological garden](#)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [impluvia](http://vocab.getty.edu/page/aat/300129867)
 - [inscription](#)
 - [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
 - [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [predellas](http://vocab.getty.edu/page/aat/300003745)
 

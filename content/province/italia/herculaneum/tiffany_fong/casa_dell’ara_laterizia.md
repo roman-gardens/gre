@@ -10,9 +10,9 @@ draft: false
 categories:
  - "Italia"
 tags:
-- "sacellum"
-- "portico"
-- "opus reticulatum"
+ - "opus reticulatum"
+ - "porticoes"
+ - "sacella"
 ---
 
 ## Province
@@ -39,9 +39,9 @@ Casa dell’Ara Laterizia
 540.III.19-18/1-2
 
 ### Keywords
-- [sacellum](http://vocab.getty.edu/aat/300007570)
-- [portico](http://vocab.getty.edu/aat/300004145)
-- [opus reticulatum](http://vocab.getty.edu/aat/300262690)
+- [sacella](http://vocab.getty.edu/page/aat/300007570)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [opus reticulatum](http://vocab.getty.edu/page/aat/300262690)
 
 ### Garden Description
 539.III.17.

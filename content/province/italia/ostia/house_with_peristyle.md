@@ -6,6 +6,10 @@ article_id: ARTICLE_ID
 author: Thomas Morard
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "courtyards"
+ - "porticoes"
+ - "water supply systems"
 ---
 
 ## Province

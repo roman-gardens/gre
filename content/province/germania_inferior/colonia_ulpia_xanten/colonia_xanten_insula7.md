@@ -9,10 +9,6 @@ draft: true
 
 categories:
  - "Germania Inferior"
-tags:
-  - "courtyards"
-  - "insulae"
-  - "kitchen gardens"
 ---
 
 ## Province

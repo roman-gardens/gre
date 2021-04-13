@@ -1,5 +1,4 @@
 ---
-
 title: "Great Palestra (Insula or. II.4)"
 date: 2020-10-20T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,10 +12,11 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "fountains"
-  - "shrine"
-  - "trellises"
+ - "fountains"
+ - "shrines (structures)"
+ - "trellises"
 ---
+
 ## Province
 
 [Italia]({{<relref "../../../..">}}) \
@@ -44,7 +44,7 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 Great Palestra
 
 ### Keywords
-- [shrine](http://vocab.getty.edu/page/aat/300007558)
+- [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [trellises](http://vocab.getty.edu/page/aat/300006785)
 

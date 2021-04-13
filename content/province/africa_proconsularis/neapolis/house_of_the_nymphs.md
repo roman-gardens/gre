@@ -9,8 +9,6 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
-tags:
-
 ---
 
 ## Province
@@ -47,11 +45,11 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Nymphs (Maison des Nymphes)
 
 ### Keywords
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
 
 ### Garden Description

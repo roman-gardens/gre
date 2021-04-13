@@ -9,10 +9,6 @@ draft: true
 
 categories:
 - "italia"
-tags:
-- "tombs"
-- "epitaphs"
-
 ---
 
 ## Province

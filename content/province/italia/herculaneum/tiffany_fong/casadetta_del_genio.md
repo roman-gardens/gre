@@ -10,9 +10,7 @@ draft: false
 categories:
  - "Italia"
 tags:
-
-  - "portico"
-
+ - "porticoes"
 ---
 
 ## Province

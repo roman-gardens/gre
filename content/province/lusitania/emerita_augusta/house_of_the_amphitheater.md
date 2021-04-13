@@ -59,12 +59,12 @@ House of the Amphitheater
 
 ### Keywords
 
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [water wells](http://vocab.getty.edu/page/aat/300152327)
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 

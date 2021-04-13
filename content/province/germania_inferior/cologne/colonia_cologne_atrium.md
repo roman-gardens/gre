@@ -9,14 +9,6 @@ draft: true
 
 categories:
  - "Germania Inferior"
-tags:
-  - "atrium houses"
-  - "atriums"
-  - "colonnades"
-  - "peristyles"
-  - "piscinae"
-  - "tablina"
-  - "villae urbanae"
 ---
 
 ## Province
@@ -48,7 +40,7 @@ Atrium House (Colonia Claudia Ara Agrippinensium)
 - [urban villas](#)
 - [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
 - [atrium houses](http://vocab.getty.edu/page/aat/300005451)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [tablina](http://vocab.getty.edu/page/aat/300004180)
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)

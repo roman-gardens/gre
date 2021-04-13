@@ -8,7 +8,6 @@ editor: Lai Ching Tsui
 draft: true
 
 categories:
-
 ---
 
 ## Province
@@ -46,7 +45,7 @@ Elephant tomb
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
 ### Garden Description

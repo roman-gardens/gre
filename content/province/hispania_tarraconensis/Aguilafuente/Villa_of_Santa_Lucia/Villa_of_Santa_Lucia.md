@@ -9,8 +9,6 @@ draft: true
 
 categories:
  - "Hispania Tarraconensis"
-
-
 ---
 
 ## Province
@@ -67,7 +65,7 @@ Villa of Santa Lucia
 
 
 ### Keywords
-- [peristyles](http://vocab.getty.edu/page/aat/300080971)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 
 ### Garden Description

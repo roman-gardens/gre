@@ -49,7 +49,7 @@ House with the Arbor, Puymin Quarter, Formerly called the Praetorium
 - [stairs](http://vocab.getty.edu/page/aat/300003228)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [water wells](http://vocab.getty.edu/page/aat/300152327)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [pergolas](http://vocab.getty.edu/page/aat/300006783)
 - [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)

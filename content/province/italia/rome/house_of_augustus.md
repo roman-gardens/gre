@@ -43,10 +43,10 @@ Gardens of the House of Augustus, Palatine
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [frescoes (visual works)](http://vocab.getty.edu/page/aat/300177433)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [peristyle (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [princeps](https://www.britannica.com/topic/princeps)
 - [topiary](http://vocab.getty.edu/page/aat/300061887)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 

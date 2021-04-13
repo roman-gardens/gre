@@ -11,12 +11,11 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "atrium"
-  - "peristyles"
-  - "pillars"
-  - "porticoes"
-  - "gutters"
-
+ - "atrium houses"
+ - "gutters (building drainage components)"
+ - "peristyles (Roman courtyards)"
+ - "pillars"
+ - "porticoes"
 ---
 
 ## Province
@@ -48,7 +47,7 @@ Fullonica of Stephanus; Fullery of Stephanus.
 
 ### Garden Description
 
-This house had been converted to a fullery and the small [peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the rear probably served as a drying area. Five [pillars](http://vocab.getty.edu/page/aat/300264605) of the [portico](http://vocab.getty.edu/page/aat/300004145) were connected by a low, marble topped wall. This enclosed the raised garden on the east, north and west sides with a deep [gutter](http://vocab.getty.edu/page/aat/300052565) running around the garden along the wall.
+This house had been converted to a fullery and the small [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden to the rear probably served as a drying area. Five [pillars](http://vocab.getty.edu/page/aat/300264605) of the [portico](http://vocab.getty.edu/page/aat/300004145) were connected by a low, marble topped wall. This enclosed the raised garden on the east, north and west sides with a deep [gutter](http://vocab.getty.edu/page/aat/300052565) running around the garden along the wall.
 
 <!--### Maps-->
 

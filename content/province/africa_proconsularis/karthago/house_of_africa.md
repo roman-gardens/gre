@@ -9,8 +9,6 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
-tags:
-  - "THYSDRUS"
 ---
 
 ## Province
@@ -50,7 +48,7 @@ House of Africa (Maison de l'Afrique) (New plan and reconstruction) cf V.B.Bijon
 
 ### Keywords
 
-- [peristyle](http://vocab.getty.edu/page/aat/300005452)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300005452)
 - [semicircular](http://vocab.getty.edu/page/aat/300263828)
 
 ### Garden Description

@@ -8,7 +8,6 @@ editor: Lai Ching Tsui
 draft: true
 
 categories:
-
 ---
 
 ## Province
@@ -38,8 +37,8 @@ House of the Rhodian Peristyle
 
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
-<!-- [triclinia](http://vocab.getty.edu/page/aat/300004359)-->
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
+<!-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)-->
 
 
 

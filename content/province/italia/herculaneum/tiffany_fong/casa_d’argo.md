@@ -10,13 +10,11 @@ draft: false
 categories:
  - "Italia"
 tags:
-
-  - "portico"
-  - "peristyles"
-  - "triclinium"
-  - "gutters"
-  - "cistern"
-
+ - "cisterns (plumbing components)"
+ - "gutters (building drainage components)"
+ - "peristyles (Roman courtyards)"
+ - "porticoes"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -50,8 +48,8 @@ Casa D’Argo
 ### Keywords
 
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [triclinium](http://vocab.getty.edu/aat/300004359)
-- [peristyles](http://vocab.getty.edu/page/aat/300004029)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
 

@@ -9,9 +9,8 @@ draft: true
 
 categories:
  - "Hispania Tarraconensis"
-
-
 ---
+
 ## Province
 [Hispania Tarraconensis]({{<relref "..">}}) \
 [Tarraconensis(Pleiades)](https://pleiades.stoa.org/places/981551)
@@ -64,9 +63,9 @@ House of Condes de Barcelona Street
 
 
 ### Keywords
-- [peristyle](http://vocab.getty.edu/page/aat/300080971)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [columns](http://vocab.getty.edu/page/aat/300001571)
+- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 
 
 ### Garden Description

@@ -39,7 +39,7 @@ Garden of the *triclinium* North of the Maritime Theatre (Fig. 1, n. 7)
 - [cyzigene](#)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 

@@ -10,9 +10,6 @@ draft: true
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "Rural Villa"
 ---
 
 ## Province
@@ -44,7 +41,7 @@ Rural Villa
 ### Keywords
 - [villa rustica](http://vocab.getty.edu/page/aat/300005518)
 - [corridor](http://vocab.getty.edu/page/aat/300004294)
-- [courtyard](http://vocab.getty.edu/page/aat/300004095)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 
 

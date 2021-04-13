@@ -9,11 +9,6 @@ draft: true
 
 categories:
  - "Pannonia"
-tags:
-  - "bathhouses"
-  - "fountains"
-  - "peristyles"
-  - "piscinae"
 ---
 
 ## Province

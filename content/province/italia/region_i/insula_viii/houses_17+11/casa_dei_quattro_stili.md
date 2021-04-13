@@ -9,7 +9,6 @@ draft: true
 
 categories:
  - "Italia"
-
 ---
 
 ## Province
@@ -45,7 +44,7 @@ Casa dei Quattro Stili; House of L.V.P. (I.viii.17/11)
 
 - [archaeological garden](#)
 - [inscription](#)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [pillars](http://vocab.getty.edu/page/aat/300264605)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [roofing tile](http://vocab.getty.edu/page/aat/300010699)

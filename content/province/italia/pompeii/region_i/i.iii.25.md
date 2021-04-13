@@ -11,9 +11,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "peristyle"
-  - "portico"
-
+ - "peristyles (Roman courtyards)"
+ - "porticoes"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -34,17 +34,17 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref "..">}})
 
 ### Keywords
-- [peristyle](http://vocab.getty.edu/page/aat/300080971)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
-- [triclinium](http://vocab.getty.edu/page/aat/300004359)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ## Garden
 [Peristyle](http://vocab.getty.edu/page/aat/300080971) garden in a domestic property with a viridarium  to the rear.
 
 ### Garden Description
-A. This house had an irregular plan and a small [peristyle](http://vocab.getty.edu/page/aat/300080971) garden enclosed on three sides by a low masonry wall. The wall was topped by four stuccoed brick columns which supported the [portico](http://vocab.getty.edu/page/aat/300004145). The excavation in 1869-72 showed that restoration was in progress at the time of the eruption. Inside the [triclinium](http://vocab.getty.edu/page/aat/300004359) a small marble head of Bacchus from a herm (Mus. Naz. inv. no. 110 653) was found as well as a small marble ram (Mus. Naz. inv. no. 120 357), both probably garden decorations.
+A. This house had an irregular plan and a small [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden enclosed on three sides by a low masonry wall. The wall was topped by four stuccoed brick columns which supported the [portico](http://vocab.getty.edu/page/aat/300004145). The excavation in 1869-72 showed that restoration was in progress at the time of the eruption. Inside the [triclinium](http://vocab.getty.edu/page/aat/300004359) a small marble head of Bacchus from a herm (Mus. Naz. inv. no. 110 653) was found as well as a small marble ram (Mus. Naz. inv. no. 120 357), both probably garden decorations.
 
-B. The viridarium lay across the entire width of the house to the rear. The west (rear) of the [peristyle](http://vocab.getty.edu/page/aat/300080971) garden was completely open to the viridarium.
+B. The viridarium lay across the entire width of the house to the rear. The west (rear) of the [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden was completely open to the viridarium.
 
 ### Bibliography
 

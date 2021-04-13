@@ -9,10 +9,6 @@ draft: true
 
 categories:
  - "Pannonia"
-tags:
-  - "arcades"
-  - "corridors"
-  - "vestibules"
 ---
 
 ## Province

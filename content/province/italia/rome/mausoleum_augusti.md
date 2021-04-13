@@ -6,6 +6,13 @@ province_id: PROVINCE_ID
 author: E.R. Macaulay
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "altars (religious fixtures)"
+ - "horologium"
+ - "nemus (grove)"
+ - "obelisk"
+ - "statues"
+ - "ustrins (crematories)"
 ---
 
 ## Province

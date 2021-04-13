@@ -1,5 +1,4 @@
 ---
-
 title: "Insula or. I.1"
 date: 2020-09-30T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -12,9 +11,10 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "tricliniums"
-  - "loggias"
+ - "loggias"
+ - "triclinia (rooms)"
 ---
+
 ## Province
 [Italia]({{<relref "../../../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
@@ -39,7 +39,7 @@ B
 
 
 ### Keywords
- - [tricliniums](http://vocab.getty.edu/page/aat/300004359)
+ - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
  - [loggias](http://vocab.getty.edu/page/aat/300004137)
 
 

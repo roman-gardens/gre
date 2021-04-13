@@ -10,8 +10,10 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
+ - "balustrade"
+ - "oecus"
+ - "porticoes"
 ---
-
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
@@ -41,7 +43,7 @@ House of the Trifolium (Maison du Trifolium)
 
 ### Keywords
 
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [balustrade](http://vocab.getty.edu/page/aat/300001989)
 - [oecus](http://vocab.getty.edu/page/aat/300080791)
 - [trifolium]

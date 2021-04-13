@@ -8,9 +8,6 @@ editor: Lai Ching Tsui
 draft: true
 
 categories:
-
-tags:
-
 ---
 
 ## Province
@@ -50,9 +47,9 @@ Villa el Ruedo
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [orchards](http://vocab.getty.edu/page/aat/300008890)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [reservoir](http://vocab.getty.edu/page/aat/300006191)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 <!-- [nymphaeaum]-->
 <!-- [kiln]-->
 

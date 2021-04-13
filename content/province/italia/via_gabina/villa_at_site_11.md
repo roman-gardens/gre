@@ -9,11 +9,6 @@ draft: true
 
 categories:
 - "italia"
-tags:
-  - "barns"
-  - "atrium houses"
-  - "courtyards"
-  - "villae suburbanae"
 ---
 
 ## Province

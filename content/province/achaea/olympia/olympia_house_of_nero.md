@@ -48,7 +48,7 @@ House of Nero
 
 - [Archaeological](#)
 - [artificial water channels](http://vocab.getty.edu/page/aat/300133792)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 ### Garden Description

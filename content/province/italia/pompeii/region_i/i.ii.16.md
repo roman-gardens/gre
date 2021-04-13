@@ -11,9 +11,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "aedicula"
-  - "lararium"
-  - "portico"
+ - "aedicules"
+ - "lararia"
+ - "porticoes"
 ---
 
 ## Province
@@ -34,16 +34,16 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "..">}})
 
 ### Keywords
-- [aedicula](http://vocab.getty.edu/page/aat/300002574)
-- [lararium](http://vocab.getty.edu/page/aat/300400600)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [aedicules](http://vocab.getty.edu/page/aat/300002574)
+- [lararia](http://vocab.getty.edu/page/aat/300400600)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 
 ## Garden
 Peristyle garden with decorative elements.
 
 ### Garden Description
-This house was excavated in 1873. The entranceway led directly to the portico which enclosed the garden on the north and east. In the northwest corner of the [portico](http://vocab.getty.edu/page/aat/300004145) a masonry [aedicula](http://vocab.getty.edu/page/aat/300002574) [lararium](http://vocab.getty.edu/page/aat/300400600) formed an arched niche on top of a solid podium. A low wall connected the columns and pillars of the [portico](http://vocab.getty.edu/page/aat/300004145). There was an entrance to the garden on the east side and a gutter along the east and north edges of the garden. A terracotta statuette of a seated old man holding a scroll in his right hand and wearing a short sleeved tunic (0.60 m high; Mus. Naz. Inv. No. 109 622; Ruesh no. 453) served as a fountain. This statue has been variously identified, but most likely was the Greek philosopher Antisthenes (ca. 445-360), a devoted follower of Socrates. A terracotta puteal was also found in the garden.
+This house was excavated in 1873. The entranceway led directly to the portico which enclosed the garden on the north and east. In the northwest corner of the [portico](http://vocab.getty.edu/page/aat/300004145) a masonry [aedicules](http://vocab.getty.edu/page/aat/300002574) [lararium](http://vocab.getty.edu/page/aat/300400600) formed an arched niche on top of a solid podium. A low wall connected the columns and pillars of the [portico](http://vocab.getty.edu/page/aat/300004145). There was an entrance to the garden on the east side and a gutter along the east and north edges of the garden. A terracotta statuette of a seated old man holding a scroll in his right hand and wearing a short sleeved tunic (0.60 m high; Mus. Naz. Inv. No. 109 622; Ruesh no. 453) served as a fountain. This statue has been variously identified, but most likely was the Greek philosopher Antisthenes (ca. 445-360), a devoted follower of Socrates. A terracotta puteal was also found in the garden.
 
 
 

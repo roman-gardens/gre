@@ -11,9 +11,8 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "atrium"
-  - "tablinum"
-
+ - "atrium houses"
+ - "tablina"
 ---
 
 ## Province

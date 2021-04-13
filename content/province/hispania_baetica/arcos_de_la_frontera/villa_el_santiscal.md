@@ -8,9 +8,6 @@ editor: Lai Ching Tsui
 draft: true
 
 categories:
-
-tags:
-
 ---
 
 ## Province
@@ -48,7 +45,7 @@ Villa el Santiscal
 
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [rills](http://vocab.getty.edu/page/aat/300263440)
 
 

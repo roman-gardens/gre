@@ -10,9 +10,6 @@ draft: true
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "Rural Villa"
 ---
 
 ## Province
@@ -41,8 +38,8 @@ Rural Villa
 
 ### Keywords
 - [mosiacs](http://vocab.getty.edu/page/aat/300015342)
-- [courtyard](http://vocab.getty.edu/page/aat/300004095)
-- [peristyle](http://vocab.getty.edu/page/aat/300080971)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 ### Garden Description
 

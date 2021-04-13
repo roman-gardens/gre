@@ -9,6 +9,11 @@ draft: false
 
 categories:
   - "Numidia"
+tags:
+ - "mosaics (visual works)"
+ - "pergolas"
+ - "piscinae"
+ - "porticoes"
 ---
 
 ## Province
@@ -44,7 +49,7 @@ House of Hylas, Central District (Maison de Castorius, Quartier central)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [piscinae]( http://vocab.getty.edu/page/aat/300375619)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [pergola](http://vocab.getty.edu/page/aat/300006783)
+- [pergolas](http://vocab.getty.edu/page/aat/300006783)
 - [bath]
 - [sculpture]
 - [diaeta]

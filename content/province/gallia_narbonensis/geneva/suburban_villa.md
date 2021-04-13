@@ -42,7 +42,7 @@ Suburban Villa
 ### Keywords
 - [villae suburbanae](http://vocab.getty.edu/page/aat/300005519)
 - [peristyle courtyard](http://vocab.getty.edu/page/aat/300080971)
-- [courtyard](http://vocab.getty.edu/page/aat/300004095)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 ### Garden Description
 

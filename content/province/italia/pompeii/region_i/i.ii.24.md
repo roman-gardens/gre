@@ -11,15 +11,14 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "aedicula"
-  - "amphorae"
-  - "atrium"
-  - "caupona"
-  - "flowerpots"
-  - "lararium"
-  - "portico"
-  - "triclinium"
-
+ - "aedicules"
+ - "amphorae (storage vessels)"
+ - "atriums (Roman halls)"
+ - "cauponae"
+ - "flowerpots"
+ - "lararia"
+ - "porticoes"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -40,21 +39,21 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "..">}})
 
 ### Keywords
-- [aedicula](http://vocab.getty.edu/page/aat/300002574)
-- [amphorae](http://vocab.getty.edu/page/aat/300148696)
-- [atrium](http://vocab.getty.edu/page/aat/300004097)
-- [caupona](http://vocab.getty.edu/page/aat/300005208)
+- [aedicules](http://vocab.getty.edu/page/aat/300002574)
+- [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
+- [cauponae](http://vocab.getty.edu/page/aat/300005208)
 - [flowerpots](http://vocab.getty.edu/page/aat/300194749)
-- [lararium](http://vocab.getty.edu/page/aat/300400600)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
-- [triclinium](http://vocab.getty.edu/page/aat/300004359)
+- [lararia](http://vocab.getty.edu/page/aat/300400600)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
 ## Garden
 Garden serving a *caupona*.
 
 ### Garden Description
-The garden east of the [atrium](http://vocab.getty.edu/page/aat/300004097) had a [portico](http://vocab.getty.edu/page/aat/300004145) extending along the south and part of the west sides. A low wall (0.52m high) connected the columns and an entrance to the garden was located on the west. In 1873 the [caupona](http://vocab.getty.edu/page/aat/300005208) was excavated. The garden contained a masonry triclinium (l. medius, 3.85m; l. summus and l. imus, 3.20m) with a table. The badly damaged [triclinium](http://vocab.getty.edu/page/aat/300004359) revealed the [amphorae](http://vocab.getty.edu/page/aat/300148696) used in its construction. A low podium along the north wall was thought by Fiorelli to have held [flowerpots](http://vocab.getty.edu/page/aat/300194749). Mau reported a drainage channel at the corner of the triclinium formed by the l. meduis and the l. summus, although it is no longer evident. The base of an [aedicula](http://vocab.getty.edu/page/aat/300002574) [lararium](http://vocab.getty.edu/page/aat/300400600) remains against the east wall opposite the north end of the east couch.
+The garden east of the [atrium](http://vocab.getty.edu/page/aat/300004097) had a [portico](http://vocab.getty.edu/page/aat/300004145) extending along the south and part of the west sides. A low wall (0.52m high) connected the columns and an entrance to the garden was located on the west. In 1873 the [caupona](http://vocab.getty.edu/page/aat/300005208) was excavated. The garden contained a masonry triclinium (l. medius, 3.85m; l. summus and l. imus, 3.20m) with a table. The badly damaged [triclinium](http://vocab.getty.edu/page/aat/300004359) revealed the [amphorae](http://vocab.getty.edu/page/aat/300148696) used in its construction. A low podium along the north wall was thought by Fiorelli to have held [flowerpots](http://vocab.getty.edu/page/aat/300194749). Mau reported a drainage channel at the corner of the triclinium formed by the l. meduis and the l. summus, although it is no longer evident. The base of an [aedicules](http://vocab.getty.edu/page/aat/300002574) [lararium](http://vocab.getty.edu/page/aat/300400600) remains against the east wall opposite the north end of the east couch.
 
 ### Bibliography
 

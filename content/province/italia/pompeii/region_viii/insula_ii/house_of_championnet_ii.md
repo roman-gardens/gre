@@ -1,5 +1,4 @@
 ---
-
 title: "House of Championnet II"
 date: 2021-02-10T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -12,9 +11,6 @@ draft: true
 
 categories:
   - "Italia"
-tags:
-  - "peristyle"
-  - "sacrarium"
 ---
 
 ## Province
@@ -37,7 +33,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ### Keywords
- - [peristyle](http://vocab.getty.edu/page/aat/300080971)
+ - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
  - [sacrarium](http://vocab.getty.edu/page/aat/300007572)
 
 

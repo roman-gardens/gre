@@ -9,11 +9,10 @@ draft: false
 
 categories:
  - "Judaea"
-
 tags:
-  - "fences"
-  - "orchards"
-  - "villae rusticae"
+ - "agriculture"
+ - "pleasure garden"
+ - "walled garden"
 ---
 
 ## Province

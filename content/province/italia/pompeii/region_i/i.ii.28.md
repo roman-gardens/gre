@@ -11,10 +11,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "portico"
-  - "tablinum"
-  - "triclinium"
-
+ - "porticoes"
+ - "tablina"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -35,9 +34,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref "..">}})
 
 ### Keywords
-- [portico](http://vocab.getty.edu/page/aat/300004145)
-- [tablinum](http://vocab.getty.edu/page/aat/300004180)
-- [triclinium](http://vocab.getty.edu/page/aat/300004359)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [tablina](http://vocab.getty.edu/page/aat/300004180)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
 ## Garden

@@ -10,8 +10,9 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
+ - "peristyles (Roman courtyards)"
+ - "porticoes"
 ---
-
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
@@ -40,9 +41,9 @@ House of the Two Fountains (Maison aux deux Fontaines)
 
 ### Keywords
 
-- [peristyle (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [semi-circular pool]
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description
 

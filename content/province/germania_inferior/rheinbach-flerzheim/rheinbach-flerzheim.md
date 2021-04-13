@@ -9,12 +9,6 @@ draft: true
 
 categories:
  - "Germania Inferior"
-tags:
-  - "bathhouses"
-  - "hedges"
-  - "kitchen gardens"
-  - "piscinae"
-  - "villae rusticae"
 ---
 
 ## Province

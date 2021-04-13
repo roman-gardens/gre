@@ -9,9 +9,6 @@ draft: true
 
 categories:
  - "Gallia"
-
-tags:
-  - "Sainte-Marguerite-sur-Mer (Seine-Maritime) Roman Villa"
 ---
 
 ## Province
@@ -41,11 +38,11 @@ A sublocation is any area larger than an individual garden, but located within a
 Sainte-Marguerite-sur-Mer (Seine-Maritime) Roman Villa
 
 ### Keywords
-- [mosaics](http://vocab.getty.edu/page/aat/300015342)
-- [porticos](http://vocab.getty.edu/page/aat/300004145)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [hypocausts] (http://vocab.getty.edu/page/aat/300004277)
 - [exedrae] (http://vocab.getty.edu/page/aat/300081589)
-- [triclinia] (http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)] (http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 

@@ -10,10 +10,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-- "textrina"
-- "portico"
-- "puteal"
 ---
 
 ## Province
@@ -41,9 +37,9 @@ V
 Casa del Telaio
 
 ### Keywords
-- [textrina](http://vocab.getty.edu/aat/300007570)
-- [portico](http://vocab.getty.edu/aat/300004145)
-- [puteal](http://vocab.getty.edu/aat/300262690)
+- [textrina](http://vocab.getty.edu/page/aat/300007570)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [puteal](http://vocab.getty.edu/page/aat/300262690)
 
 ### Garden Description
 548.V.4/3.

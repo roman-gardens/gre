@@ -9,6 +9,12 @@ draft: false
 
 categories:
 - "Italia"
+tags:
+ - "cisterns (plumbing components)"
+ - "lararia"
+ - "mural paintings (visual works)"
+ - "tablina"
+ - "trellises"
 ---
 
 ## Province

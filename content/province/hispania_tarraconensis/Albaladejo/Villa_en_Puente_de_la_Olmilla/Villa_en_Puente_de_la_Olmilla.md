@@ -9,8 +9,6 @@ draft: true
 
 categories:
  - "Hispania Tarraconensis"
-
-
 ---
 
 ## Province
@@ -68,7 +66,7 @@ Villa en Puente de la Olmilla
 
 
 ### Keywords
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
 ### Garden Description

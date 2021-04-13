@@ -10,7 +10,8 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
-
+ - "column bases"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -49,8 +50,8 @@ House of the West (Maison de l'est)
 
 ### Keywords
 
-- [column](http://vocab.getty.edu/page/aat/300233843)
-- [triclinium](http://vocab.getty.edu/page/aat/300004359)
+- [column bases](http://vocab.getty.edu/page/aat/300233843)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
 ### Garden Description

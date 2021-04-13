@@ -9,10 +9,6 @@ draft: true
 
 categories:
  - "Pannonia"
-tags:
-  - "corridors"
-  - "vestibules"
-  - "villae rusticae"
 ---
 
 ## Province

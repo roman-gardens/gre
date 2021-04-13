@@ -9,7 +9,6 @@ draft: true
 
 categories:
  - "Italia"
-
 ---
 
 ## Province
@@ -44,7 +43,7 @@ House of Successus (I.ix.3)
 ### Keywords
 
 - [archaeological garden](#)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367)
 - [graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613)
 - [inscription](#)

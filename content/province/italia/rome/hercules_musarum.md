@@ -6,6 +6,13 @@ province_id: PROVINCE_ID
 author: E.R. Macaulay and Linda Anderson
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "aedes"
+ - "columns (architectural elements)"
+ - "exedrae (site elements)"
+ - "lucus (grove)"
+ - "porticoes"
+ - "temples (buildings)"
 ---
 
 ## Province
@@ -38,7 +45,7 @@ Hercules Musarum
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
 - [lucus (grove)](http://vocab.getty.edu/page/aat/300008884)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [temples](http://vocab.getty.edu/page/aat/300007595)
+- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 
 ### Garden Description
 

@@ -8,7 +8,6 @@ editor: Lai Ching Tsui
 draft: true
 
 categories:
-
 ---
 
 ## Province
@@ -37,7 +36,7 @@ House of the Deep Trench
 ### Keywords
 
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
 

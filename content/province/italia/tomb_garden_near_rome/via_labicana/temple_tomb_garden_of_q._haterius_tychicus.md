@@ -9,16 +9,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-  - "funerary buildings"
-  - "sepulchral monuments"
-  - "tombs"
-  - "villa"
-  - "garden pavilions"
-
-
-
-
 ---
 
 ## Province

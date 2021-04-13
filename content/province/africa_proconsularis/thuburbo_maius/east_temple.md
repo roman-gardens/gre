@@ -10,8 +10,8 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
+ - "mosaics (visual works)"
 ---
-
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
@@ -36,7 +36,7 @@ East Temple (Temple de l'Est)
 ### Keywords
 
 - [temple]
-- [mosaic](http://vocab.getty.edu/page/aat/300015342)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [root cavities]
 - [temple garden]
 - [grove]

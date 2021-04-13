@@ -9,7 +9,6 @@ draft: true
 
 categories:
  - "Italia"
-
 ---
 
 ## Province
@@ -46,7 +45,7 @@ Caupona-Hospitium dei "Pulcinella" (I.viii.10)
 - [archaeological garden](#)
 - [lararia](http://vocab.getty.edu/page/aat/300400600)
 - [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description

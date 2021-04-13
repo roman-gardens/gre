@@ -11,9 +11,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "caupona"
-  - "biclinium"
-  - "lararium"
+ - "biclinia"
+ - "cauponae"
+ - "lararia"
 ---
 
 ## Province
@@ -34,9 +34,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "..">}})
 
 ### Keywords
-- [biclinium](http://vocab.getty.edu/page/aat/300170371)
-- [caupona](http://vocab.getty.edu/page/aat/300005208)
-- [lararium](http://vocab.getty.edu/page/aat/300400600)
+- [biclinia](http://vocab.getty.edu/page/aat/300170371)
+- [cauponae](http://vocab.getty.edu/page/aat/300005208)
+- [lararia](http://vocab.getty.edu/page/aat/300400600)
 
 ## Garden
 Garden serving the Caupona of Innulus.

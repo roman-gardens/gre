@@ -9,9 +9,8 @@ draft: true
 
 categories:
  - "Hispania Tarraconensis"
-
-
 ---
+
 [Hispania Tarraconensis]({{<relref "..">}}) \
 [Tarraconensis(Pleiades)](https://pleiades.stoa.org/places/981551)
 
@@ -57,7 +56,7 @@ Villa Romana
 ### Keywords
 - [catch basin](http://vocab.getty.edu/page/aat/300052554)
 - [drains](http://vocab.getty.edu/page/aat/300052564)
-- [peristyles](http://vocab.getty.edu/page/aat/300080971)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 
 ### Garden Description

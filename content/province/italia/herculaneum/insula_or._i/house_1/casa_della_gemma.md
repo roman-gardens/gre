@@ -1,5 +1,4 @@
 ---
-
 title: "Casa della Gemma (Insula or. I.1)"
 date: 2020-09-30T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,10 +12,10 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "vaults"
-  - "cisterns"
-  - "atriums"
-  - "sundial"
+ - "atriums (Roman halls)"
+ - "cisterns (plumbing components)"
+ - "sundial"
+ - "vaults"
 ---
 
 ## Province
@@ -45,8 +44,8 @@ Casa della Gemma (A)
 
 ### Keywords
  - [vaults](http://vocab.getty.edu/page/aat/300001324)
- - [cisterns](http://vocab.getty.edu/page/aat/300052558)
- - [atriums](http://vocab.getty.edu/page/aat/300004097)
+ - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
+ - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
  - [sundial](http://vocab.getty.edu/page/aat/300041614)
 
 ### Garden Description

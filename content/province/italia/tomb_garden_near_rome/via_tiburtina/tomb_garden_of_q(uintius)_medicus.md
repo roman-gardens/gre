@@ -9,8 +9,6 @@ draft: true
 
 categories:
 - "italia"
-tags:
-- "tombs"
 ---
 
 ## Province

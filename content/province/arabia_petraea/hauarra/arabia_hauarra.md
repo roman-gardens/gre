@@ -10,7 +10,14 @@ draft: false
 categories:
  - "Arabia Petraea"
 tags:
-- "#"
+ - "aqueducts"
+ - "baetyls"
+ - "basins (vessels)"
+ - "insulae"
+ - "naoi (chambers)"
+ - "planters (containers)"
+ - "shrines (structures)"
+ - "temene"
 ---
 
 ## Province

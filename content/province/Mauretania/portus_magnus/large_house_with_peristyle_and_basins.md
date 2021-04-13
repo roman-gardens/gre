@@ -6,7 +6,6 @@ article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Brandon Wilson
 draft: true
-
 ---
 
 ## Province
@@ -41,7 +40,7 @@ Large House with peristyle and basins
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [corridors](http://vocab.getty.edu/page/aat/300004294)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [peristyle house](http://vocab.getty.edu/page/aat/300005452)
 
 ### Garden Description

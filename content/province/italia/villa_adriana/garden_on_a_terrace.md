@@ -6,6 +6,9 @@ article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "columns (architectural elements)"
+ - "porticoes"
 ---
 
 ## Province

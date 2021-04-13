@@ -9,9 +9,6 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
-tags:
-  - "Uthina"
-
 ---
 
 ## Province
@@ -48,7 +45,7 @@ House of Baklouti (Maison de Baklouti)
 
 ### Keywords
 
-- [peristyle](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [niches](http://vocab.getty.edu/page/aat/300002704)
 
 ### Garden Description

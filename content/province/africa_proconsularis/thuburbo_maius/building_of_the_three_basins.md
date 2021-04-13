@@ -10,6 +10,8 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
+ - "peristyles (Roman courtyards)"
+ - "porticoes"
 ---
 
 ## Province
@@ -30,8 +32,8 @@ The city occupies the slopes of a hill in a fertile grain producing area about 5
 
 ### Keywords
 
-- [peristyle (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [semi-circular pool](#)
 - [reception rooms](http://vocab.getty.edu/page/aat/300077176)
 

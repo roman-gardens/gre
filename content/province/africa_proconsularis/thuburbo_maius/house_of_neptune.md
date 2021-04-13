@@ -10,8 +10,10 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
+ - "cisterns (plumbing components)"
+ - "domus"
+ - "peristyle houses"
 ---
-
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
@@ -36,7 +38,7 @@ House of Neptune (Maison de Neptune)
 ### Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [cistern](http://vocab.getty.edu/page/aat/300052558)
+- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [semicircular basin]
 
 ### Garden Description

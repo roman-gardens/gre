@@ -8,7 +8,6 @@ editor: Lai Ching Tsui
 draft: true
 
 categories:
-
 ---
 
 ## Province
@@ -37,7 +36,7 @@ House of the Triclinium
 ### Keywords
 
 
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 
 
 ### Garden Description

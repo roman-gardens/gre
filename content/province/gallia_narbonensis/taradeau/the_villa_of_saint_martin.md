@@ -49,10 +49,10 @@ The villa of Saint Martin
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 
 
 

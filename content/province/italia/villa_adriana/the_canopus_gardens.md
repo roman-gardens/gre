@@ -6,6 +6,15 @@ article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "canals (waterways)"
+ - "cisterns (plumbing components)"
+ - "columns (architectural elements)"
+ - "exedrae (site elements)"
+ - "flower gardens"
+ - "mosaics (visual works)"
+ - "porticoes"
+ - "statues"
 ---
 
 ## Province
@@ -44,7 +53,7 @@ The Canopus gardens (Fig. 1, n. 2)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
-- [canal](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300006075)
+- [canals (waterways)](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300006075)
 
 ### Garden Description
 

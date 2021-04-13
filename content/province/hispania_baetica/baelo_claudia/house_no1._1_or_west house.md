@@ -8,7 +8,6 @@ editor: Lai Ching Tsui
 draft: true
 
 categories:
-
 ---
 
 ## Province
@@ -49,7 +48,7 @@ House No. 1 or West House
 
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 <!-- [Doric order]-->
 <!-- [triclinium]-->
 

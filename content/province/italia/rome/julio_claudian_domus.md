@@ -50,7 +50,7 @@ Garden of the Peristyle of the Julio-Claudian *Domus*, Palatine
 - [frescoes (visual works)](http://vocab.getty.edu/page/aat/300177433)
 - [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyle (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [princeps](https://www.britannica.com/topic/princeps)
 - [terracotta (architectural)](http://vocab.getty.edu/page/aat/300010670)
 

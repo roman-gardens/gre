@@ -10,9 +10,6 @@ draft: true
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "House on rue de la Fraternité"
 ---
 
 ## Province
@@ -43,7 +40,7 @@ House on rue de la Fraternité
 
 ### Keywords
 - [mosiacs](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 
 
 

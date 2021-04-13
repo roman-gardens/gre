@@ -1,5 +1,4 @@
 ---
-
 title: "II.viii.5"
 date: 2020-12-10T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,8 +12,10 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "caupona"
-
+ - "atriums (Roman halls)"
+ - "cauponae"
+ - "tabernae"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -35,10 +36,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VIII]({{<relref "..">}})
 
 ### Keywords
- - [atrium](http://vocab.getty.edu/page/aat/300004097)
- - [caupona](http://vocab.getty.edu/page/aat/300005208)
+ - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
+ - [cauponae](http://vocab.getty.edu/page/aat/300005208)
  - [tabernae](http://www.getty.edu/vow/AATFullDisplay?find=tabernae&logic=AND&note=&english=N&prev_page=1&subjectid=300005366)
- - [triclinia](http://vocab.getty.edu/page/aat/300004359)
+ - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
 ### Garden Description

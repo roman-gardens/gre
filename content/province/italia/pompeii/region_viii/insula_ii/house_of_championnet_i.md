@@ -1,5 +1,4 @@
 ---
-
 title: "House of Championnet I"
 date: 2021-02-10T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -12,9 +11,6 @@ draft: true
 
 categories:
   - "Italia"
-tags:
-  - "tablinium"
-  - "portico"
 ---
 
 ## Province
@@ -40,7 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [tablinium](http://vocab.getty.edu/page/aat/300004180)
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 
 ### Garden Description

@@ -8,7 +8,6 @@ editor: Lai Ching Tsui
 draft: true
 
 categories:
-
 ---
 
 ## Province
@@ -47,7 +46,7 @@ House of the Mithra
 - [drains](http://vocab.getty.edu/page/aat/300052564)
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 <!-- [Doric order]-->
 <!-- [triclinium]-->
 

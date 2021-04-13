@@ -8,10 +8,6 @@ draft: true
 
 categories:
  - "Macedonia"
-tags:
-  - "epitaphs"
-  - "sarcophagi"
-  - "tombs"
 ---
 
 ## Province

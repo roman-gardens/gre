@@ -9,6 +9,10 @@ draft: false
 
 categories:
 - "Italia"
+tags:
+ - "basin"
+ - "gutters (building drainage components)"
+ - "porticoes"
 ---
 
 ## Province

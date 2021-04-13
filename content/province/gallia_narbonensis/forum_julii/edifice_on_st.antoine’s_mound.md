@@ -48,7 +48,7 @@ Edifice on St. Antoine’s Mound
 - [praetoriums](http://vocab.getty.edu/page/aat/300005636)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 

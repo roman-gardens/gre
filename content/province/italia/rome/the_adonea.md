@@ -47,7 +47,7 @@ The Adonea of the Flavian Palace, Palatine
 - [flower gardens](http://vocab.getty.edu/page/aat/300008135)
 - [flowerpots](http://vocab.getty.edu/page/aat/300194749)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [peristyle (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [princeps](https://www.britannica.com/topic/princeps)
 - [topiary](http://vocab.getty.edu/page/aat/300061887)
 

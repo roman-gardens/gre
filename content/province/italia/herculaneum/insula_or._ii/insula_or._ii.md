@@ -1,5 +1,4 @@
 ---
-
 title: "Insula or. II"
 date: 2020-09-30T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -12,11 +11,9 @@ draft: false
 
 categories:
   - "Italia"
-
 tags:
-- "Herculaneum"
-- "porticos"
-- "peristyles"
+ - "peristyles (Roman courtyards)"
+ - "porticoes"
 ---
 
 ## Province
@@ -43,8 +40,8 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 Garden (a)
 
 ### Keywords
-- [peristyles](http://vocab.getty.edu/page/aat/300080971)
-- [porticos](http://vocab.getty.edu/page/aat/300004145)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description
 Directly south of the Great Palaestra there is a peristyle garden (a) enclosed by a portico. A pool with a low wall surrounding it is located in the center of this garden.

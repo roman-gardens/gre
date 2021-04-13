@@ -1,5 +1,4 @@
 ---
-
 title: "Casa del Salone Nero (VI.13/11)"
 date: 2020-09-30T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -11,12 +10,11 @@ draft: false
 
 categories:
   - "Italia"
-
 tags:
-- "Herculaneum"
-- "porticos"
-- "tablinium"
+ - "porticoes"
+ - "tablinium"
 ---
+
 ## Province
 [Italia]({{<relref "../../../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
@@ -43,7 +41,7 @@ Casa del Salone Nero
 
 
 ### Keywords
- - [porticos](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [tablinium](http://vocab.getty.edu/page/aat/300004180)
 
 

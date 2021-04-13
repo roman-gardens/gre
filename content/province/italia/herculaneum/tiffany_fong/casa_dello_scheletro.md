@@ -10,13 +10,11 @@ draft: false
 categories:
  - "Italia"
 tags:
-
-  - "aedicula"
-  - "tympanum"
-  - "pergola"
-  - "amorino"
-
+ - "aedicules"
+ - "pergolas"
+ - "tympanum"
 ---
+
 ## Province
 
 [Italia]({{<relref "../../../..">}}) \
@@ -42,7 +40,7 @@ Casa dello Scheletro
 
 - [aedicules](http://www.getty.edu/vow/AATFullDisplay?find=aedicula&logic=AND&note=&english=N&prev_page=1&subjectid=300002574)
 - [tympanum](http://www.getty.edu/vow/AATFullDisplay?find=tympanum&logic=AND&note=&english=N&prev_page=1&subjectid=300002736)
-- [pergola](http://www.getty.edu/vow/AATFullDisplay?find=pergola&logic=AND&note=&english=N&prev_page=1&subjectid=300006783)
+- [pergolas](http://www.getty.edu/vow/AATFullDisplay?find=pergola&logic=AND&note=&english=N&prev_page=1&subjectid=300006783)
 - [amorino](#)
 
 ### Garden Description

@@ -9,10 +9,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-  - "villa"
-  - "courtyard"
-
 ---
 
 ## Province
@@ -48,7 +44,7 @@ The garden on the back
 
 ### Keywords
 
-- [villa](http://vocab.getty.edu/page/aat/300000325)
+- [insulae](http://vocab.getty.edu/page/aat/300000325)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 ### Garden Description

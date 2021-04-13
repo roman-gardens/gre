@@ -6,6 +6,12 @@ article_id: ARTICLE_ID
 author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "basins (vessels)"
+ - "fountains"
+ - "opus signinum"
+ - "peristyles (Roman courtyards)"
+ - "vases"
 ---
 
 ## Province

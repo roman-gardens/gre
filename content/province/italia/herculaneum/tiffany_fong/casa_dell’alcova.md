@@ -10,9 +10,8 @@ draft: false
 categories:
  - "Italia"
 tags:
-- "atrium"
-- "triclinium"
-- "procoeton"
+ - "atriums (interior spaces)"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -39,8 +38,8 @@ Casa dell’Alcova
 543.IV.3-4.
 
 ### Keywords
-- [atrium](http://vocab.getty.edu/aat/300080798)
-- [triclinium](http://vocab.getty.edu/aat/300004359)
+- [atriums (interior spaces)](http://vocab.getty.edu/page/aat/300080798)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [procoeton]()
 
 ### Garden Description

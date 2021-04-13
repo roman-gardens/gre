@@ -46,7 +46,7 @@ Le Pinard, House A
 
 ### Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [water wells](http://vocab.getty.edu/page/aat/300152327)
 
 

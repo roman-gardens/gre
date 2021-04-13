@@ -59,7 +59,7 @@ Houses Under the Museum
 
 ### Keywords
 
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)

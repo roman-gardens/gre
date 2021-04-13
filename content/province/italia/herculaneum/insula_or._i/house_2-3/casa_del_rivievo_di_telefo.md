@@ -1,5 +1,4 @@
 ---
-
 title: "Casa del Rivievo di Telefo (Insula or. I.2-3)"
 date: 2020-09-30T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,11 +12,11 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "fauces"
-  - "tondi"
-  - "peltae"
-  - "pinakes"
-  - "impluvia"
+ - "fauces"
+ - "impluvia"
+ - "peltae"
+ - "pinakes"
+ - "tondi"
 ---
 
 ## Province

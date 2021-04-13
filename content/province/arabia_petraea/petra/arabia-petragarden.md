@@ -10,7 +10,16 @@ draft: false
 categories:
  - "Arabia Petraea"
 tags:
-- "#"
+ - "archaeobotany"
+ - "artificial islands"
+ - "castelli aquae"
+ - "colonnades"
+ - "exedrae (site elements)"
+ - "garden pavilions"
+ - "horticultural containers"
+ - "pergolas"
+ - "terrace gardens"
+ - "water features (landscaping)"
 ---
 
 ## Province
@@ -46,7 +55,7 @@ Petra Garden and Pool Complex
 - [artificial islands](http://vocab.getty.edu/page/aat/300386969)
 - [castelli aquae](http://vocab.getty.edu/page/aat/300006192)
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [exedrae](http://vocab.getty.edu/page/aat/300081589)
+- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
 - [garden pavilions](http://vocab.getty.edu/page/aat/300006819)
 - [horticultural containers](http://vocab.getty.edu/page/aat/300198749)
 - [pergolas](http://vocab.getty.edu/page/aat/300006783)

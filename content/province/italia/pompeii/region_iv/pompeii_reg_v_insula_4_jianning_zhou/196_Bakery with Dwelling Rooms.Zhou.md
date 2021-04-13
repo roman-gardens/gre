@@ -9,6 +9,12 @@ draft: false
 
 categories:
 - "Italia"
+tags:
+ - "fountains"
+ - "headboards"
+ - "porticoes"
+ - "trellises"
+ - "triclinia (couches)"
 ---
 
 ## Province
@@ -49,7 +55,7 @@ V.iv.b.
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [triclinia (couches)](http://vocab.getty.edu/page/aat/300142552)
 - [trellises](http://vocab.getty.edu/page/aat/300006785)
-- [headboards(fulcrum)](http://vocab.getty.edu/page/aat/300040447)
+- [headboards](http://vocab.getty.edu/page/aat/300040447)
 
 
 ### Garden Description

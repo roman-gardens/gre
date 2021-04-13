@@ -9,10 +9,6 @@ draft: false
 
 categories:
  - "Britannia"
-tags:
-  - "axial plan"
-  - "terrace gardens"
-  - "villae rusticae"
 ---
 
 ## Province

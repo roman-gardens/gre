@@ -11,11 +11,10 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "cisterns"
-  - "columns"
-  - "fences"
-  - "portico"
-
+ - "cisterns (plumbing components)"
+ - "columns (architectural elements)"
+ - "fences (site elements)"
+ - "porticoes"
 ---
 
 ## Province
@@ -40,7 +39,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 
 ## Garden

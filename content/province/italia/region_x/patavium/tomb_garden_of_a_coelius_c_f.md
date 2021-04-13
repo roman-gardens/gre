@@ -9,13 +9,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-
-  - "cisterns"
-  - "gutters"
-  - "mural paintings"
-  - "peristyles"
-  - "porticoes"
 ---
 
 ## Province

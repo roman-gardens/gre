@@ -10,9 +10,6 @@ draft: true
 categories:
  - "Gallia"
  - "Gallia Lugdunensis"
- 
-tags:
-  - "Vaise - House with Xenia"
 ---
 
 ## Province
@@ -44,7 +41,7 @@ House with Pilasters (Clos du Verbe Incarné)
 ### Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [courtyard](http://vocab.getty.edu/page/aat/300004095)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [drain](http://vocab.getty.edu/page/aat/300052564)
 
 ### Garden Description

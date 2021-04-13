@@ -9,6 +9,11 @@ draft: false
 
 categories:
 - "Italia"
+tags:
+ - "cisterns (plumbing components)"
+ - "fountains"
+ - "lararia"
+ - "trellises"
 ---
 
 ## Province

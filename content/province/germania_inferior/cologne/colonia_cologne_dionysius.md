@@ -9,13 +9,6 @@ draft: true
 
 categories:
  - "Germania Inferior"
-tags:
-  - "axial plan"
-  - "insulae"
-  - "peristyles"
-  - "piscinae"
-  - "triclinia"
-  - "villae urbanae"
 ---
 
 ## Province
@@ -50,7 +43,7 @@ House of Dionysius (Colonia Claudia Ara Agrippinensium)
 
 - [urban villas](#)
 - [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [insulae](http://vocab.getty.edu/page/aat/300000325)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [apsed pools](#)

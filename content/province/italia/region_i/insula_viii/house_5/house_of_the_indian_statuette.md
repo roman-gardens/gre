@@ -9,7 +9,6 @@ draft: true
 
 categories:
  - "Italia"
-
 ---
 
 ## Province
@@ -47,7 +46,7 @@ House of the Indian Statuette (I.viii.5)
 - [chests (case furniture)](http://vocab.getty.edu/page/aat/300038992)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)

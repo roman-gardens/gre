@@ -46,7 +46,7 @@ Villa de Muscapeu
 
 ### Keywords
 
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
 - [reception rooms](http://vocab.getty.edu/page/aat/300077176)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)

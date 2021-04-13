@@ -9,15 +9,6 @@ draft: true
 
 categories:
  - "Germania Inferior"
-tags:
-  - "cherry"
-  - "ditches"
-  - "fences"
-  - "hedges"
-  - "kitchen gardens"
-  - "orchards"
-  - "villae rusticae"
-  - "water wells"
 ---
 
 ## Province

@@ -6,6 +6,12 @@ article_id: ARTICLE_ID
 author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "basins (vessels)"
+ - "columns (architectural elements)"
+ - "opus signinum"
+ - "porticoes"
+ - "statues"
 ---
 
 ## Province

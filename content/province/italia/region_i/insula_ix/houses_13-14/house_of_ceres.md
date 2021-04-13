@@ -9,7 +9,6 @@ draft: true
 
 categories:
  - "Italia"
-
 ---
 
 ## Province
@@ -49,12 +48,12 @@ House of Ceres; Casa di Cerere (I.ix.13-14)
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 - [tablina](http://vocab.getty.edu/page/aat/300004180)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [vases](http://vocab.getty.edu/page/aat/300132254)
 
 ### Garden Description

@@ -10,11 +10,12 @@ draft: false
 categories:
  - "Italia"
 tags:
-  - "statuettes"
-  - "tufa"
-  - "cistern"
-  - "sacellum"
-  - "lararium"
+ - "cauponae"
+ - "cisterns (plumbing components)"
+ - "lararia"
+ - "sacella"
+ - "statuettes (free-standing sculpture)"
+ - "tufa"
 ---
 
 ## Province
@@ -40,10 +41,10 @@ Region II
 Small domestic property with a garden to the rear.
 
 ### Keywords
-- [caupona](http://vocab.getty.edu/page/aat/300005208)
-- [cistern](http://vocab.getty.edu/page/aat/300052558)
-- [lararium](http://vocab.getty.edu/page/aat/300400600)
-- [sacellum](http://www.getty.edu/vow/AATFullDisplay?find=sacellum&logic=AND&note=&english=N&prev_page=1&subjectid=300007570) with an aedicula [lararium](http://vocab.getty.edu/page/aat/300400600)
+- [cauponae](http://vocab.getty.edu/page/aat/300005208)
+- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
+- [lararia](http://vocab.getty.edu/page/aat/300400600)
+- [sacella](http://vocab.getty.edu/page/aat/300007570)
 - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 - [tufa](http://vocab.getty.edu/page/aat/300011712)
 

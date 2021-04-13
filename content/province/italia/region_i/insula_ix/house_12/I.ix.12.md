@@ -9,7 +9,6 @@ draft: true
 
 categories:
  - "Italia"
-
 ---
 
 ## Province
@@ -46,7 +45,7 @@ I.ix.12
 - [archaeological garden](#)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [lararia](http://vocab.getty.edu/page/aat/300400600)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [pillars](http://vocab.getty.edu/page/aat/300264605)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 

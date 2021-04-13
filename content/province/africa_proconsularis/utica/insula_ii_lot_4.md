@@ -10,7 +10,7 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
-
+ - "peristyles (Roman courtyards)"
 ---
 
 ## Province
@@ -49,7 +49,7 @@ Insula II, lot 4
 
 ### Keywords
 
-- [peristyle](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 
 ### Garden Description
 

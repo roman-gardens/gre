@@ -9,14 +9,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-  - "crematories"
-  - "funerary buildings"
-  - "tombs"
-
-
-
-
 ---
 
 ## Province

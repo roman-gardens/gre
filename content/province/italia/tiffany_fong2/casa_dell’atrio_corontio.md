@@ -10,11 +10,6 @@ draft: true
 
 categories:
  - "Italia"
-tags:
-- "impluvium"
-- "atrium"
-- "peristyle"
-- "viridarium"
 ---
 
 ## Province
@@ -45,7 +40,7 @@ Casa dell’Atrio Corontio
 ### Keywords
 - [impluvium]
 - [atrium]
-- [peristyle]
+- [peristyles (Roman courtyards)]
 - [viridarium]
 
 ---

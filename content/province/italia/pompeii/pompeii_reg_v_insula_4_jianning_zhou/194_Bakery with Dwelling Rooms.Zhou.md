@@ -9,6 +9,13 @@ draft: false
 
 categories:
 - "Italia"
+tags:
+ - "atrium houses"
+ - "cubicula (domestic spaces)"
+ - "gutters (building drainage components)"
+ - "predellas"
+ - "tablina"
+ - "trellises"
 ---
 
 ## Province

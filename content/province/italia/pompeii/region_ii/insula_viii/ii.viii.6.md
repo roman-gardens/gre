@@ -1,5 +1,4 @@
 ---
-
 title: "House of the Garden of Hercules (II.viii.6)"
 date: 2020-12-10T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,11 +12,11 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "aedicula"
-  - "lararia"
-  - "strigillation"
-  - "triclinia"
-  - "dolium"
+ - "aedicules"
+ - "doliums"
+ - "lararia"
+ - "strigillation"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -38,11 +37,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VIII]({{<relref "..">}})
 
 ### Keywords
- - [aedicula](http://vocab.getty.edu/page/aat/300002574)
+ - [aedicules](http://vocab.getty.edu/page/aat/300002574)
  - [lararia](http://vocab.getty.edu/page/aat/300400600)
  - [strigillation](http://vocab.getty.edu/page/aat/300121959)
- - [triclinia](http://vocab.getty.edu/page/aat/300142552)
- - [dolium](http://vocab.getty.edu/page/aat/300400601)
+ - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300142552)
+ - [doliums](http://vocab.getty.edu/page/aat/300400601)
 
 
 

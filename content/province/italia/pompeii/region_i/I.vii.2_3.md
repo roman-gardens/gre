@@ -11,12 +11,11 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "atriums"
-  - "fences"
-  - "fountains"
-  - "mural paintings"
-  - "piscinae"
-
+ - "atriums (Roman halls)"
+ - "fences (site elements)"
+ - "fountains"
+ - "mural paintings (visual works)"
+ - "piscinae"
 ---
 
 ## Province
@@ -38,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
 
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)

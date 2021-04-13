@@ -9,9 +9,7 @@ draft: false
 
 categories:
   - "Africa Proconsularis"
-tags:
 ---
-
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \

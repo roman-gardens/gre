@@ -9,9 +9,6 @@ draft: true
 
 categories:
  - "Pannonia"
-tags:
-  - "epitaphs"
-  - "tombs"
 ---
 
 ## Province

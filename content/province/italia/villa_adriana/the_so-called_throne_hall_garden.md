@@ -6,6 +6,10 @@ article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "flower gardens"
+ - "nymphaea (garden structures)"
+ - "peristyles (Roman courtyards)"
 ---
 
 ## Province

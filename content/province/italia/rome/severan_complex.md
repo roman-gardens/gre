@@ -6,6 +6,12 @@ province_id: PROVINCE_ID
 author: M.-A. Tomei
 editor: Rhiannon Pare
 draft: false
+tags:
+ - "arcades (structural assemblies)"
+ - "bathhouses (water recreation structures)"
+ - "domus"
+ - "fountains"
+ - "pools (bodies of water)"
 ---
 
 # Province
@@ -42,7 +48,7 @@ The Severan Complex, Palatine
 - [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [pools](http://vocab.getty.edu/page/aat/300008692)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 
 ### Garden Description
 

@@ -10,8 +10,14 @@ draft: false
 categories:
  -
 tags:
-
-
+ - "Late Hellenistic"
+ - "artificial islands"
+ - "aula/forecourt"
+ - "columbarium/dovecote"
+ - "palace garden"
+ - "paradeisos/paradise garden"
+ - "reflecting pool"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -34,14 +40,14 @@ that boasts a partially restored palace ([Qasr al-Abd](https://pleiades.stoa.org
 ʻIrāq al-Amīr
 
 ### Keywords
-- [aula/forecourt](http://vocab.getty.edu/aat/300004104)
-- [columbarium/dovecote](http://vocab.getty.edu/aat/300004975)
-- [palace garden](http://vocab.getty.edu/aat/300005734)
-- [reflecting pool](http://vocab.getty.edu/aat/300179485)
-- [triclinium (room)](http://vocab.getty.edu/aat/300004359)
-- [Late Hellenistic](http://vocab.getty.edu/aat/300106998)
-- [paradeisos/paradise garden](http://vocab.getty.edu/aat/300008112)
-- [artificial island](http://vocab.getty.edu/aat/300386969)
+- [aula/forecourt](http://vocab.getty.edu/page/aat/300004104)
+- [columbarium/dovecote](http://vocab.getty.edu/page/aat/300004975)
+- [palace garden](http://vocab.getty.edu/page/aat/300005734)
+- [reflecting pool](http://vocab.getty.edu/page/aat/300179485)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- [Late Hellenistic](http://vocab.getty.edu/page/aat/300106998)
+- [paradeisos/paradise garden](http://vocab.getty.edu/page/aat/300008112)
+- [artificial islands](http://vocab.getty.edu/page/aat/300386969)
 
 ### Garden Description
 This large preserved palace provides a rare glimpse of the kind of luxurious complex built by the late Hellenistic Alexandrian elite.  According to [Josephus](https://en.wikipedia.org/wiki/Josephus) (*Antiquities* [Book 12:228-236](http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus%3Atext%3A1999.01.0146%3Abook%3D12%3Asection%3D228)), Hyrcanus the [Tobiad](https://en.wikipedia.org/wiki/Tobiads) was a Hellenized Jew and Ptolemaic official who had spent considerable time in Alexandria. Remains of the palace’s architecture are disposed on each of three terraces, an arrangement described by Josephus as large, open courtyards (*aulae*) which he adorned with vast gardens, descriptive of a *paradeisos*. The site has been explored by various expeditions, most recently by the Department of Antiquities of Jordan and the French Institute of Archaeology for the Near East under the direction of Fawzi Zayadine and Ernest Will.  Although no garden excavations have been undertaken, the site of the palace illuminates Josephus’ description.

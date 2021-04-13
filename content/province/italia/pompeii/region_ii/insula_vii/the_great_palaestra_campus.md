@@ -1,5 +1,4 @@
 ---
-
 title: "The Great Palaestra (II.vi)"
 date: 2020-12-10T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,11 +12,8 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "portico"
-  - "palaestra"
-  - "swimming pool"
-  - "root cavities"
-
+ - "palaestra"
+ - "porticoes"
 ---
 
 ## Province
@@ -39,7 +35,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ### Keywords
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [palaestra](http://vocab.getty.edu/page/aat/300007301)
 
 
