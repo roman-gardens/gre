@@ -14,3 +14,6 @@ We are launching the GRE website in a beta format. As a legacy project, our goal
 visit the [contribute]({{<relref "../contribute/">}}) page.
 
 {{< figure src="../images/landing-page-map-1.png" alt="Map of gardens in the Gardens of the Roman Empire Project" title="Map of gardens in the Gardens of the Roman Empire Project" >}}
+
+
+![Supporting Organizations: ISAW, Cornell, AOROC, Cambridge University Press, Dumbarton Oaks](/img/logos.png)

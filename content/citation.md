@@ -1,9 +1,6 @@
 ---
 title: "How to Cite"
 date: 2021-04-13T13:06:53+02:00
-article_id: ARTICLE_ID
-author: NAME_OF_AUTHOR
-editor: NAME_OF_EDITOR
 draft: false
 ---
 
