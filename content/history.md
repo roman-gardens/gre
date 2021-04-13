@@ -1,9 +1,7 @@
 ---
 title: "History of the Project"
 date: 2021-04-13T12:43:43+02:00
-article_id: ARTICLE_ID
-author: NAME_OF_AUTHOR
-editor: NAME_OF_EDITOR
+editor: Christian Casey
 draft: false
 ---
 
