@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Welcome to the Gardens of the Roman Empire Project"
 date: 2021-04-13T12:59:30+02:00
 draft: false
 ---

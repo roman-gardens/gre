@@ -42,7 +42,7 @@ tags:
 
 ## Sublocation
 
-[Region IX]({{<relref "../..">}})
+[Region IX]({{<relref "..">}})
 
 <!--### Sublocation Description-->
 
