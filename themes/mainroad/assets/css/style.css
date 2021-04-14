@@ -381,7 +381,7 @@ select {
 /* Header */
 .header {
 	width: 100%;
-	background: linear-gradient(to bottom, #ffffff00, 70%, #000000cc), url('/img/header.jpg');
+	background: url('/img/header.jpg');
 	background-size: cover;
 }
 
@@ -498,7 +498,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .menu__list {
 	list-style: none;
-	background: none;
+	background: #2a2a2a;
 }
 
 .menu__item:hover {
@@ -572,7 +572,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	}
 
 	.menu__item {
-		border-left: 0;
+		border-left: 1px solid rgba(255, 255, 255, .1);
 	}
 }
 
