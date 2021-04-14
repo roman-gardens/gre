@@ -6,20 +6,15 @@ article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 550
-draft: false
+draft: true
 
 categories:
  - "Italia"
-tags:
-- "triclinium"
-- "nymphaeum"
-- "amphora"
-
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 
@@ -42,9 +37,9 @@ V
 Casa del Mosaico di Nettuno e di Anfitrite
 
 ### Keywords
-- [triclinium](http://vocab.getty.edu/aat/300007570)
-- [nymphaeum](http://vocab.getty.edu/aat/300004145)
-- [amphora](http://vocab.getty.edu/aat/300262690)
+- [sacella](http://vocab.getty.edu/page/aat/300007570)
+- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300004145)
+- [amphora](http://vocab.getty.edu/page/aat/300262690)
 
 
 ### Garden Description

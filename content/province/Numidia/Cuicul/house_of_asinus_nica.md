@@ -9,6 +9,14 @@ draft: false
 
 categories:
   - "Numidia"
+tags:
+ - "courtyards"
+ - "domus"
+ - "exedrae (site elements)"
+ - "mosaics (visual works)"
+ - "peristyle houses"
+ - "stairs"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -47,7 +55,7 @@ House of Asinus Nica, Central District (Maison de l’Ane, quartier central)
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [stairs](http://vocab.getty.edu/page/aat/300003228)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [bath]
 - [basin]
 - [semicircular basin]

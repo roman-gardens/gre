@@ -5,14 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 
 categories:
  - "Germania Superior"
-tags:
-  - "bathhouses"
-  - "nymphaea"
-  - "villae rusticae"
 ---
 
 ## Province
@@ -54,7 +50,7 @@ Rural Villa in Oberentfelden
 - [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
 - [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ### Garden Description

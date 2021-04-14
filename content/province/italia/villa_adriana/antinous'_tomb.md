@@ -6,11 +6,14 @@ article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "nymphaea (garden structures)"
+ - "tombs"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Region

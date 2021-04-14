@@ -5,15 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Walter Widrig
 editor: Lingyi Xu
-draft: false
+draft: true
 
 categories:
 - "italia"
-tags:
-  - "barns"
-  - "atrium houses"
-  - "courtyards"
-  - "villae suburbanae"
 ---
 
 ## Province

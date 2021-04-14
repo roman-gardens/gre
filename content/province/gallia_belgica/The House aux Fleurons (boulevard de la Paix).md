@@ -5,14 +5,11 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yvette Pollack
-draft: false
+draft: true
 
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "The House aux Fleurons (boulevard de la Paix)"
 ---
 
 ## Province
@@ -42,7 +39,7 @@ Durocortorum was mentioned by Caesar as the center of the Remi, a Celtic tribe t
 The House aux Fleurons (boulevard de la Paix)
 
 ### Keywords
-- [porticos](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [trench](http://vocab.getty.edu/page/aat/300008022)
 
 

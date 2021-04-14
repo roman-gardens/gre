@@ -6,11 +6,22 @@ article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "flower gardens"
+ - "fountains"
+ - "garden pavilions"
+ - "nymphaea (garden structures)"
+ - "peristyles (Roman courtyards)"
+ - "piazza"
+ - "porticoes"
+ - "stadium"
+ - "triclinia (rooms)"
+ - "tufa"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Region
@@ -44,7 +55,7 @@ The garden between the Small Baths and the Three Exedras Hall (Fig. 1, n. 5)
 - [piazza](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300164841)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [stadium](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300007271)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [tufa](http://vocab.getty.edu/page/aat/300011712)
 
 ### Garden Description

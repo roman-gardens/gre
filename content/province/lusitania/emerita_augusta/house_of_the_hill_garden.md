@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yiyun Liu
-draft: false
+draft: true
 
 
 categories:
@@ -59,7 +59,7 @@ House of the Hill Garden
 
 ### Keywords
 
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 
 ### Garden Description

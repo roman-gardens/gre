@@ -6,22 +6,15 @@ article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 545-547
-draft: false
+draft: true
 
 categories:
  - "Italia"
-tags:
-- "triclinium"
-- "oecus"
-- "portico"
-- "trapezophron"
-- "puteal"
-- "pergola"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 
@@ -50,7 +43,7 @@ Casa dei Cervi
 - [portico]
 - [trapezophron]
 - [puteal]
-- [pergola]
+- [pergolas]
 ---
 
 ### Garden Description

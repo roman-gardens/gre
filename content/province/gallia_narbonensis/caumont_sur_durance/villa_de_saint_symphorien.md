@@ -4,7 +4,7 @@ date: 2020-11-15T00:08:52-00:00
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
-draft: false
+draft: true
 
 categories:
  - "Gallia Narbonensis"
@@ -48,7 +48,7 @@ Villa de Muscapeu
 
 ### Keywords
 
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [hypocausts](http://vocab.getty.edu/page/aat/300004277)

@@ -6,11 +6,19 @@ province_id: PROVINCE_ID
 author: E.R. Macaulay and Holly Spoth-Torres
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "colonnades"
+ - "domus"
+ - "exedrae (site elements)"
+ - "frescoes (visual works)"
+ - "pergolas"
+ - "porticoes"
+ - "shrines (structures)"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Region
@@ -39,18 +47,22 @@ Porticus Liviae <!--There does not appear to be a Pleiades place resource for th
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
+- [frescoes (visual works)](http://vocab.getty.edu/page/aat/300177433)
 - [pergolas](http://vocab.getty.edu/page/aat/300006783)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
 
 ### Garden Description
 
-Located on the [Oppian](https://en.wikipedia.org/wiki/Oppian_Hill) hill between the [*Clivus Suburanus*](https://pleiades.stoa.org/places/821658053) and the later [Baths of Trajan](https://en.wikipedia.org/wiki/Baths_of_Trajan) (*Thermae Traiani*) in the [*Subura*](https://pleiades.stoa.org/places/451696383), the [*Porticus Liviae*](https://www.digitalaugustanrome.org/records/porticus-liviae) is represented on three fragments of the [Severan marble plan (*FUR*)](https://formaurbis.stanford.edu/index.php?field0=all&search0=liviae&op0=and&field1=all&search1=porticus). The public *porticus* was constructed on the site of the grand *domus* of Publius Vedius Pollio, who bequeathed his property to Augustus upon his death. Augustus constructed the *porticus* in the name of his wife, Livia. With her son Tiberius, Livia dedicated the complex to Concordia in January 7 BCE. (Ovid *Fast.* 6.637–48; Suet. *Aug.* 29; Dio Cassius 54.23.6, 55.8.2). The complex was accessed via two flights of stairs from the *Clivus Suburanus*.
+Located on the [Oppian](https://en.wikipedia.org/wiki/Oppian_Hill) hill between the [*Clivus Suburanus*](https://pleiades.stoa.org/places/821658053) and the later [Baths of Trajan](https://en.wikipedia.org/wiki/Baths_of_Trajan) (*Thermae Traiani*) in the [*Subura*](https://pleiades.stoa.org/places/451696383), the [*Porticus Liviae*](https://www.digitalaugustanrome.org/records/porticus-liviae) is represented on three fragments of the [Severan marble plan (*FUR*)](https://formaurbis.stanford.edu/index.php?field0=all&search0=liviae&op0=and&field1=all&search1=porticus). The public [*porticus*](http://vocab.getty.edu/page/aat/300004145) was constructed on the site of the grand [*domus*](http://vocab.getty.edu/page/aat/300005506) of Publius Vedius Pollio, who bequeathed his property to Augustus upon his death.
 
-The *porticus* (ca. 120 x 75 m.) was enclosed by an outer wall and a roofed double colonnade. There are large rectangular and circular *exedrae* set behind the individual porticoes. In the center of the *porticus* was a large rectangular central feature, and four small features were located at the corners of the colonnades. Scholars debate whether the large central feature was a fountain or, more likely, a shrine to *Concordia*, dedicated to marital concord and harmony, a major theme of Augustan propaganda. Ovid mentions a shrine to Concordia (Ovid *Fast.* 6.637–48). The function of the four smaller features located at the corners of the colonnades is also uncertain; perhaps, they were fountains or small niches for the display of statues.
+Augustus constructed the *porticus* in the name of his wife, [Livia](https://www.britannica.com/biography/Livia-Drusilla). With her son [Tiberius](https://www.britannica.com/biography/Tiberius), Livia dedicated the complex to [Concordia](https://www.britannica.com/topic/Concordia-Roman-goddess) in January 7 BCE. ([Ovid *Fast.* 6.637–48](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0547%3Abook%3D6); [Suet. *Aug.* 29](http://data.perseus.org/texts/urn:cts:latinLit:phi1348.abo012.perseus-lat1); [Dio Cassius 54.23.6](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0593%3Abook%3D54%3Achapter%3D23%3Asection%3D6), [55.8.2](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0593%3Abook%3D55%3Achapter%3D8%3Asection%3D2)). The complex was accessed via two flights of stairs from the *Clivus Suburanus*.
 
-The porticus featured a central garden. Pliny writes of a single, productive vine stock that covered the walkway with shade (Pliny, HN 14.11), creating a pergola-like effect. The vines were also productive, reportedly producing twelve *amphorae* of wine per year. A collection of paintings was also displayed in the *porticus* (Ovid, *Ars Am.* 171–72; Strabo 5.3.8). As in other porticoes, Romans would stroll, meet their lovers, or make appointments to meet each other here (Plin. *Ep.* 1.5.9).
+The *porticus* (ca. 120 x 75 m.) was enclosed by an outer wall and a roofed double [colonnade](http://vocab.getty.edu/page/aat/300002613). There are large rectangular and circular [*exedrae*](http://vocab.getty.edu/page/aat/300081589) set behind the individual porticoes. In the center of the *porticus* was a large rectangular central feature, and four small features were located at the corners of the colonnades. Scholars debate whether the large central feature was a [fountain](http://vocab.getty.edu/page/aat/300006179) or, more likely, a [shrine](http://vocab.getty.edu/page/aat/300007558) to *Concordia*, dedicated to marital concord and harmony, a major theme of Augustan propaganda. Ovid mentions a shrine to Concordia [Ovid *Fast.* 6.637–48](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0547%3Abook%3D6). The function of the four smaller features located at the corners of the colonnades is also uncertain; perhaps, they were fountains or small niches for the display of statues.
 
-Excavations in 1984 identified pre- and post-Augustan phases, but provided no information about possible gardens. The excavations suggest that porticus remained in use until the fifth century CE, but that by the mid-sixth century the *porticus* was being used for burials.
+The *porticus* featured a central garden. Pliny writes of a single, productive vine stock that covered the walkway with shade ([Pliny, HN 14.11](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0138%3Abook%3D14%3Achapter%3D11)), creating a [pergolas]((http://vocab.getty.edu/page/aat/300006783))-like effect. The vines were also productive, reportedly producing twelve *amphorae* of wine per year. A collection of [paintings](http://vocab.getty.edu/page/aat/300177433) was also displayed in the *porticus* ([Ovid, *Ars Am.* 171–72](http://data.perseus.org/texts/urn:cts:latinLit:phi0959.phi004.perseus-eng1); [Strabo 5.3.8](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D5%3Achapter%3D3%3Asection%3D8)). As in other porticoes, Romans would stroll, meet their lovers, or make appointments to meet each other here ([Plin. *Ep.* 1.5.9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0139)).
+
+Excavations in 1984 identified pre- and post-Augustan phases, but provided no information about possible gardens. The excavations suggest that the *porticus* remained in use until the fifth century CE, but that by the mid-sixth century the *porticus* was being used for burials.
 
 
 ### Figures

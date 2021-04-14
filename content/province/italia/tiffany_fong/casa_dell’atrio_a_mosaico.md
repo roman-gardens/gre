@@ -6,19 +6,15 @@ article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 541
-draft: false
+draft: true
 
 categories:
  - "Italia"
-tags:
-- "portico"
-- "exedra"
-- "triclinium"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 
@@ -41,9 +37,9 @@ IV
 Casa dell’Atrio a Mosaico
 
 ### Keywords
-- [portico](http://vocab.getty.edu/aat/300004145)
-- [exedra](http://vocab.getty.edu/aat/300004014)
-- [triclinium](http://vocab.getty.edu/aat/300004359)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [exedra](http://vocab.getty.edu/page/aat/300004014)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 541.IV.1-2

@@ -5,13 +5,12 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Qianli Jiang
-draft: false
+draft: true
 
 categories:
  - "Hispania Tarraconensis"
-
-
 ---
+
 ## Province
 [Hispania Tarraconensis]({{<relref "..">}}) \
 [Tarraconensis(Pleiades)](https://pleiades.stoa.org/places/981551)
@@ -57,7 +56,7 @@ Villa of Fortunatus
 
 ### Keywords
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [mosaic](http://vocab.getty.edu/page/aat/300138684)
+- [mosaic (process)](http://vocab.getty.edu/page/aat/300138684)
 
 
 ### Garden Description

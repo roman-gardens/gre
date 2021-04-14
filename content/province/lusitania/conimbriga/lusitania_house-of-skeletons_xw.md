@@ -5,12 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Jorge de Alarcão
 editor: Xingjian Wang
-draft: false
+draft: true
 
 categories:
  - "Lusitania"
-tags:
-  - ""
 ---
 
 ## Province

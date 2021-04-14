@@ -5,15 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: Annette Guan
-draft: false
+draft: true
 
 categories:
  - "Asia"
-tags:
-  - "stelae"
-  - "vineyards"
-  - "sacred grove"
-  - "inscription"
 ---
 
 ## Province

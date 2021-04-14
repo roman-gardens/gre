@@ -1,5 +1,4 @@
 ---
-
 title: "564.Insula or. I.2-3(D)"
 date: 2020-09-30T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -12,13 +11,13 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "rustic"
-  - "shrines"
+ - "rustic"
+ - "shrines"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location

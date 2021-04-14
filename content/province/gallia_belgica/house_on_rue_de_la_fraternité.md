@@ -5,14 +5,11 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yvette Pollack
-draft: false
+draft: true
 
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "House on rue de la Fraternité"
 ---
 
 ## Province
@@ -43,7 +40,7 @@ House on rue de la Fraternité
 
 ### Keywords
 - [mosiacs](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 
 
 

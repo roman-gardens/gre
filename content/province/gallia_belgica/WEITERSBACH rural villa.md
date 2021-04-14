@@ -5,14 +5,11 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yvette Pollack
-draft: false
+draft: true
 
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "Rural Villa"
 ---
 
 ## Province
@@ -41,7 +38,7 @@ Rural Villa
 
 ### Keywords
 - [palace](http://vocab.getty.edu/page/aat/300005734)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [herms](http://vocab.getty.edu/page/aat/300047170)
 
 ### Garden Description

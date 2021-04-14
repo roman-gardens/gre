@@ -9,6 +9,11 @@ draft: false
 
 categories:
   - "Numidia"
+tags:
+ - "domus"
+ - "mosaics (visual works)"
+ - "peristyle houses"
+ - "triclinia (rooms)"
 ---
 
 ## Province
@@ -45,7 +50,7 @@ House of Europa, Central District (Maison d'Europe, Quartier Central)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [baisn]
 - [planters]
 - [pool]

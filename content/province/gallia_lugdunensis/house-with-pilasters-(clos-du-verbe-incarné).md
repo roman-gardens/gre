@@ -5,15 +5,11 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yvette Pollack
-draft: false
+draft: true
 
 categories:
  - "Gallia"
  - "Gallia Lugdunensis"
- 
-tags:
-  - "House with Pilasters"
-  - "Clos du Verbe Incarné"
 ---
 
 ## Province
@@ -44,7 +40,7 @@ House with Pilasters (Clos du Verbe Incarné)
 
 ### Keywords
 - [insula / insulae](http://vocab.getty.edu/page/aat/300000325)
-- [atrium](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [Domus](http://vocab.getty.edu/page/aat/300005506)
 
 ### Garden Description

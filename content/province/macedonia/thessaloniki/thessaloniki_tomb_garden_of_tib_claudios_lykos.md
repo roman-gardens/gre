@@ -4,14 +4,10 @@ date: 2020-07-16T09:07:30-04:00
 article_id: ARTICLE_ID
 author: John Bodel
 editor: Amartya Shri
-draft: false
+draft: true
 
 categories:
  - "Macedonia"
-tags:
-  - "epitaphs"
-  - "sarcophagi"
-  - "tombs"
 ---
 
 ## Province

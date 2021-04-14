@@ -5,15 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: June Dorsch
-draft: false
+draft: true
 
 categories:
  - "Germania Superior"
-tags:
-  - "former reservoirs"
-  - "mausoleums"
-  - "orchards"
-  - "tombs"
 ---
 
 ## Province

@@ -5,14 +5,11 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yvette Pollack
-draft: false
+draft: true
 
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "Rural Villa"
 ---
 
 ## Province
@@ -40,7 +37,7 @@ A sublocation is any area larger than an individual garden, but located within a
 Rural Villa
 
 ### Keywords
-- [courtyard](http://vocab.getty.edu/page/aat/300004095)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [paddock](http://vocab.getty.edu/page/aat/300428748)
 
 ### Garden Description

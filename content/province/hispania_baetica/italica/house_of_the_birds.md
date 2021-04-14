@@ -5,10 +5,9 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: (AUTHOR_ID)
 editor: Lai Ching Tsui
-draft: false
+draft: true
 
 categories:
-
 ---
 
 ## Province
@@ -39,9 +38,9 @@ House of the Birds
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
-<!-- [triclinia](http://vocab.getty.edu/page/aat/300004359)-->
+<!-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)-->
 
 
 ### Garden Description

@@ -6,19 +6,15 @@ article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 539-540
-draft: false
+draft: true
 
 categories:
  - "Italia"
-tags:
-- "sacellum"
-- "portico"
-- "opus reticulatum"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 
@@ -41,9 +37,9 @@ III
 Casa dell’Ara Laterizia
 
 ### Keywords
-- [sacellum](http://vocab.getty.edu/aat/300007570)
-- [portico](http://vocab.getty.edu/aat/300004145)
-- [opus reticulatum](http://vocab.getty.edu/aat/300262690)
+- [sacella](http://vocab.getty.edu/page/aat/300007570)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [opus reticulatum](http://vocab.getty.edu/page/aat/300262690)
 
 ### Garden Description
 539.III.17.

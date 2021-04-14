@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yiyun Liu
-draft: false
+draft: true
 
 categories:
  - "Lusitania"
@@ -60,7 +60,7 @@ Peristyle of the Theater
 
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [water supply systems](http://vocab.getty.edu/page/aat/300008618)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 
 

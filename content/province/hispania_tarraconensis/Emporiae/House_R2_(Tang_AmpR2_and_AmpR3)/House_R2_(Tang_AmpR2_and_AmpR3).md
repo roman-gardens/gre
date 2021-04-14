@@ -5,13 +5,12 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Qianli Jiang
-draft: false
+draft: true
 
 categories:
  - "Hispania Tarraconensis"
-
-
 ---
+
 ## Province
 [Hispania Tarraconensis]({{<relref "..">}}) \
 [Tarraconensis(Pleiades)](https://pleiades.stoa.org/places/981551)
@@ -82,7 +81,7 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 House R2 (Tang AmpR2 and AmpR3)   
 
 ### Keywords
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 

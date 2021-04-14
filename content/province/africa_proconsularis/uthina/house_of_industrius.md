@@ -9,9 +9,6 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
-tags:
-  - "Uthina"
-
 ---
 
 ## Province
@@ -48,8 +45,8 @@ House of Icarios (Maison d'Icarios)
 ### Keywords
 
 - [colonnade](http://vocab.getty.edu/page/aat/300002613)
-- [vestibule](http://vocab.getty.edu/page/aat/300083076)
-- [cistern](http://vocab.getty.edu/page/aat/300052558)
+- [vestibules](http://vocab.getty.edu/page/aat/300083076)
+- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 
 ### Garden Description
 

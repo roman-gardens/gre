@@ -10,8 +10,10 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
+ - "domus"
+ - "mosaics (visual works)"
+ - "peristyle houses"
 ---
-
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
@@ -38,7 +40,7 @@ House of the Palms (Maison des Palmes)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [semicircular basin]
-- [mosaic](http://vocab.getty.edu/page/aat/300015342)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 
 ### Garden Description
 

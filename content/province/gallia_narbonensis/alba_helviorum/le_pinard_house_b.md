@@ -4,7 +4,7 @@ date: 2020-11-14T00:12:43-00:00
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
-draft: false
+draft: true
 
 categories:
  - "Gallia Narbonensis"
@@ -46,7 +46,7 @@ Le Pinard, House B
 
 ### Keywords
 - [ditches](http://vocab.getty.edu/page/aat/300006178)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
 
 

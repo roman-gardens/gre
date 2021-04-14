@@ -6,19 +6,15 @@ article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 537
-draft: false
+draft: true
 
 categories:
  - "Italia"
-tags:
-
-  - "triclinium"
-  - "loggia"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 <!--### Province Description-->
@@ -46,8 +42,8 @@ Casa del Tramezzo di Legno
 ### Keywords
 
 
-- [loggia](http://vocab.getty.edu/aat/300004137)
-- [triclinium](http://vocab.getty.edu/aat/300004359)
+- [loggias](http://vocab.getty.edu/page/aat/300004137)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 537.III.11.

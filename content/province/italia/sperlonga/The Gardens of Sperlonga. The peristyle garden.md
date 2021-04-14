@@ -5,14 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: EUGENIA SALZA PRINA RICOTTI
 editor: Yuyao Liu
-draft: false
+draft: true
 
 categories:
  - "Italia"
-tags:
-  - "courtyards"
-  - "villa"
-  - "peristyles (Roman courtyards)"
 ---
 
 ## Province
@@ -20,7 +16,7 @@ tags:
 
 ## Location
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Villa Tiberii (Pleiades)](https://pleiades.stoa.org/places/433204)
 
 <!--### Location Description-->
@@ -44,7 +40,7 @@ The villa has three gardens:  one peristyle garden, one cryptoporticus and the t
 
 ### Keywords
 
-- [villa](http://vocab.getty.edu/page/aat/300000325)
+- [insulae](http://vocab.getty.edu/page/aat/300000325)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 

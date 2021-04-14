@@ -6,6 +6,11 @@ province_id: PROVINCE_ID
 author: E.R. Macaulay and Beth Ryan
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "bathhouses (water recreation structures)"
+ - "gymnasiums"
+ - "horti"
+ - "thermae"
 ---
 
 ## Province
@@ -62,7 +67,7 @@ The *thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](https://bit.ly/CDio
 
 ### Dates
 
-25 BCE; repairs in later periods
+unspecified
 
 #### Excavation Date
 

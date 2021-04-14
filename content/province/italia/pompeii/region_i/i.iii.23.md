@@ -11,17 +11,16 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "peristyle"
-  - "portico"
-
+ - "peristyles (Roman courtyards)"
+ - "porticoes"
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 
@@ -29,19 +28,19 @@ tags:
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-[Region I]({{<relref "../..">}})
+[Region I]({{<relref ".">}})
 ## Insula
-[Insula III]({{<relref "..">}})
+[Insula III]({{<relref "#">}})
 
 ### Keywords
-- [peristyle](http://vocab.getty.edu/page/aat/300080971)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ## Garden
 [Peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the rear of a domestic property.
 
 ### Garden Description
-This site was excavated in 1868 revealing a [peristyle](http://vocab.getty.edu/page/aat/300080971) garden at the rear of the house. A [portico](http://vocab.getty.edu/page/aat/300004145) on the east and north side was supported by five columns connected by a low wall. There was an opening to the garden on the north. The middle of the garden had two cistern puteals. The west wall of the garden held the famous painting depicting the battle between the Nucerians and the Pompeians in the amphitheatre (1.60m high by a little less than 2.00m wide; Mus. Naz. Inv. No. 112 222; Ruesch no. 1344). This event was recorded by Tacitus (Annals 14.17). A gutter went along the east, south, and north edges of the garden.
+This site was excavated in 1868 revealing a [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden at the rear of the house. A [portico](http://vocab.getty.edu/page/aat/300004145) on the east and north side was supported by five columns connected by a low wall. There was an opening to the garden on the north. The middle of the garden had two cistern puteals. The west wall of the garden held the famous painting depicting the battle between the Nucerians and the Pompeians in the amphitheatre (1.60m high by a little less than 2.00m wide; Mus. Naz. Inv. No. 112 222; Ruesch no. 1344). This event was recorded by Tacitus (Annals 14.17). A gutter went along the east, south, and north edges of the garden.
 
 ### Bibliography
 

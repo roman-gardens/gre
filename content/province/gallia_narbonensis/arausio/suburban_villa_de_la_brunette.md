@@ -4,7 +4,7 @@ date: 2020-11-15T00:08:52-00:00
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
-draft: false
+draft: true
 
 categories:
  - "Gallia Narbonensis"
@@ -46,7 +46,7 @@ Suburban Villa de la  Brunette
 
 ### Keywords
 
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [atrium houses](http://vocab.getty.edu/page/aat/300005451)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)

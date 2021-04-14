@@ -5,13 +5,10 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yvette Pollack
-draft: false
+draft: true
 
 categories:
  - "Gallia"
-
-tags:
-  - "House on the Place des Halles (La maison des Halles)"
 ---
 
 ## Province
@@ -42,7 +39,7 @@ House on the Place des Halles (La maison des Halles)
 
 ### Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
-- [courtyard](http://vocab.getty.edu/page/aat/300004095)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 
 ### Garden Description

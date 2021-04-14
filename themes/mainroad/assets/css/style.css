@@ -45,9 +45,8 @@ html {
 
 body {
 	margin: 0;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
-	font-size: 14px;
-	font-size: .875rem;
+	font-family: "Georgia", "Palatino", serif; /* "Open Sans", Helvetica, Arial, sans-serif; */
+	font-size: 12pt;
 	line-height: 1.6;
 	word-wrap: break-word;
 	background: #f7f7f7;
@@ -380,8 +379,11 @@ select {
 
 /* Header */
 .header {
-	background: #fff;
+	width: 100%;
+	background: linear-gradient(to bottom, #ffffff00, 65%, #000000aa, #000000ff), url('/img/header1.jpg');
+	background-size: cover;
 }
+
 
 .logo {
 	padding: 25px;
@@ -418,11 +420,11 @@ select {
 }
 
 .logo__title {
-	font-size: 32px;
-	font-size: 2rem;
+	font-size: 48px;
 	font-weight: 700;
 	line-height: 1;
-	color: #000;
+	color: #fff;
+	text-shadow: 2px 4px 5px #000;
 }
 
 .logo__tagline {
@@ -566,10 +568,11 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 		border: 0;
 		-webkit-transform: none;
 		transform: none;
+		background: none;
 	}
 
 	.menu__item {
-		border-left: 1px solid rgba(255, 255, 255, .1);
+		border-left: 0;
 	}
 }
 

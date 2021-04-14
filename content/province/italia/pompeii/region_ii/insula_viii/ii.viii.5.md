@@ -1,5 +1,4 @@
 ---
-
 title: "II.viii.5"
 date: 2020-12-10T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,16 +12,18 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "caupona"
-
+ - "atriums (Roman halls)"
+ - "cauponae"
+ - "tabernae"
+ - "triclinia (rooms)"
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 
@@ -30,15 +31,15 @@ tags:
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-[Region II]({{<relref "../..">}})
+[Region II]({{<relref ".">}})
 ## Insula
-[Insula VIII]({{<relref "..">}})
+[Insula VIII]({{<relref "#">}})
 
 ### Keywords
- - [atrium](http://vocab.getty.edu/page/aat/300004097)
- - [caupona](http://vocab.getty.edu/page/aat/300005208)
+ - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
+ - [cauponae](http://vocab.getty.edu/page/aat/300005208)
  - [tabernae](http://www.getty.edu/vow/AATFullDisplay?find=tabernae&logic=AND&note=&english=N&prev_page=1&subjectid=300005366)
- - [triclinia](http://vocab.getty.edu/page/aat/300004359)
+ - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
 ### Garden Description

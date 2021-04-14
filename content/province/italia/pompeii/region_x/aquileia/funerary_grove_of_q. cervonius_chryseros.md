@@ -10,12 +10,10 @@ draft: false
 categories:
  - "Italia"
 tags:
-
-  - "cisterns"
-  - "gutters"
-  - "mural paintings"
-  - "peristyles"
-  - "porticoes"
+ - "altars (religious fixtures)"
+ - "grove (sacred grove)"
+ - "stelae"
+ - "tombs"
 ---
 
 ## Province
@@ -38,7 +36,7 @@ tags:
 
 ## Sublocation
 
-[Region X]({{<relref "../..">}})
+[Region X]({{<relref ".">}})
 
 <!--### Sublocation Description-->
 

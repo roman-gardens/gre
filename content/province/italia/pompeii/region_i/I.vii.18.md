@@ -11,19 +11,18 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "atriums"
-  - "fences"
-  - "mural paintings"
-  - "piscinae"
-
+ - "atriums (Roman halls)"
+ - "fences (site elements)"
+ - "mural paintings (visual works)"
+ - "piscinae"
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 
@@ -31,13 +30,13 @@ tags:
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-[Region I]({{<relref "../..">}})
+[Region I]({{<relref ".">}})
 ## Insula
-[Insula VII]({{<relref "..">}})
+[Insula VII]({{<relref "#">}})
 
 ### Keywords
 
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
 - [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
 - [piscinae]( http://vocab.getty.edu/page/aat/300375619)

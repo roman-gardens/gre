@@ -9,13 +9,6 @@ draft: false
 
 categories:
  - "Italia"
-tags:
-
-  - "cisterns"
-  - "gutters"
-  - "mural paintings"
-  - "peristyles"
-  - "porticoes"
 ---
 
 ## Province
@@ -38,7 +31,7 @@ tags:
 
 ## Sublocation
 
-[Region X]({{<relref "../..">}})
+[Region X]({{<relref ".">}})
 
 <!--### Sublocation Description-->
 
@@ -55,7 +48,7 @@ Villa of the Bath
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
 - [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
 - [water baths](http://vocab.getty.edu/page/aat/300248755)

@@ -10,8 +10,7 @@ draft: false
 categories:
  - "Italia"
 tags:
-  - "tables (support furniture)"
-  - "restaurant"
+ - "tables (support furniture)"
 ---
 
 ## Province
@@ -19,7 +18,7 @@ tags:
 
 ## Location
 
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 <!--### Location Description-->
 

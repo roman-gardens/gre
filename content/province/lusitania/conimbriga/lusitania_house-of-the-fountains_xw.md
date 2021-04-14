@@ -5,12 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Xingjian Wang
-draft: false
+draft: true
 
 categories:
  - "Lusitania"
-tags:
-  - ""
 ---
 
 ## Province
@@ -49,7 +47,7 @@ House of the Fountains
 
 ### Keywords
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 
 ### Garden Description
 This house is almost entirely excavated, the exception being its north facade, which is still covered by a local lane.  It occupies an area of almost 3400 square meters.  Its mosaics, published in their entirety, date from the second half of the second century A.D, or the Severan era.  The construction of the house dates to between 150 and 175 AD. The house has a central peristyle with twenty-six columns.  The area of the large open part (12m x 26m) is completely filled with a pool with a maximum depth of 0.90 meters, inside of which the architect installed six very formal flower-beds.  On the edges of these, more than 500 water-jets played continually. The unusual design of this peristyle has its only parallel in the Domus Augustana built in Rome for the emperor Domitian by the architect Rabirius.  This parallel, pointed out by L. Cremain 1959 in his L’architettura, has been related by other writers, none of whom has found anything similar in Roman domestic architecture in any part of the Empire.

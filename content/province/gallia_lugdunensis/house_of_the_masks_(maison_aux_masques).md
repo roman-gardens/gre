@@ -5,14 +5,11 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yvette Pollack
-draft: false
+draft: true
 
 categories:
  - "Gallia"
  - "Gallia Lugdunensis"
- 
-tags:
-  - "House of the Masks (Maison aux Masques)"
 ---
 
 ## Province
@@ -42,7 +39,7 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Masks (Maison aux Masques)
 
 ### Keywords
-- [peristyle](http://vocab.getty.edu/page/aat/300080971)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [opus stigninumboth](http://vocab.getty.edu/page/aat/300379969)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [stylobate](http://vocab.getty.edu/page/aat/300000986)

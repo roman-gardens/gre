@@ -5,19 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 
 categories:
  - "Germania Superior"
-tags:
-  - "axial plan"
-  - "bathhouses"
-  - "drains"
-  - "exedrae"
-  - "mosaics"
-  - "palaces"
-  - "peristyles"
-  - "piscinae"
 ---
 
 ## Province

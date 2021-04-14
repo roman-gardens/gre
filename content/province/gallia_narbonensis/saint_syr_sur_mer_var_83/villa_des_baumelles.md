@@ -4,7 +4,7 @@ date: 2020-11-15T00:08:52-00:00
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
-draft: false
+draft: true
 
 categories:
  - "Gallia Narbonensis"
@@ -53,8 +53,8 @@ Villa des Baumelles
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
 

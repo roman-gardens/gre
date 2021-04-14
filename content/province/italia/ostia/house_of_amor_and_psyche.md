@@ -6,11 +6,17 @@ article_id: ARTICLE_ID
 author: Elizabeth J. Shepherd
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "basins (vessels)"
+ - "columns (architectural elements)"
+ - "mosaics (visual works)"
+ - "nymphaea (garden structures)"
+ - "porticoes"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Region

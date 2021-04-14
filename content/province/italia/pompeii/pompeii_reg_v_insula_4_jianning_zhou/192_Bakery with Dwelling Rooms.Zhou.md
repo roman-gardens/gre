@@ -5,14 +5,18 @@ province_id: 1052
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Jianing Zhou
-draft: False
+draft: false
 
 categories:
 - "Italia"
+tags:
+ - "basin"
+ - "gutters (building drainage components)"
+ - "porticoes"
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ### Province Description
@@ -21,7 +25,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 
 
 ## Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 <!--### Location Description-->

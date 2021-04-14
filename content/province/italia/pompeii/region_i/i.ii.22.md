@@ -11,17 +11,17 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "amphorae"
-  - "caupona"
-  - "portico"
+ - "amphorae (storage vessels)"
+ - "cauponae"
+ - "porticoes"
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 
@@ -29,14 +29,14 @@ tags:
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-[Region I]({{<relref "../..">}})
+[Region I]({{<relref ".">}})
 ## Insula
-[Insula II]({{<relref "..">}})
+[Insula II]({{<relref "#">}})
 
 ### Keywords
-- [amphorae](http://vocab.getty.edu/page/aat/300148696)
-- [caupona](http://vocab.getty.edu/page/aat/300005208)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
+- [cauponae](http://vocab.getty.edu/page/aat/300005208)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ## Garden
 Garden serving a *caupona*.

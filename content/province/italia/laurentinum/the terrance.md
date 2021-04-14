@@ -5,14 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: SALZA PRINA RICOTTI
 editor: Yuyao Liu
-draft: false
+draft: true
 
 categories:
  - "Italia"
-tags:
-  - "villa"
-
-
 ---
 
 ## Province
@@ -48,7 +44,7 @@ The garden on the back
 
 ### Keywords
 
-- [villa](http://vocab.getty.edu/page/aat/300000325)
+- [insulae](http://vocab.getty.edu/page/aat/300000325)
 
 ### Garden Description
 However the most enticing garden of the Laurentinum was the terrace, so well described by Pliny the Younger (SALZA PRINA RICOTTI 1989; SALZA PRINA RICOTTI in print). It was set in front of the luminous cryptoporticus with all its windows open toward the Tyrrenian Sea. The two elements ran parallel to the coast. Only the terrace's low wall protected them from the sand that the southwest wind and the frequent winter's gales piled up against the villa. Sheltered by the masonry, masses of perfumed violets grew all along this parapet. Today only few remains of the terrace are still to be seen. The place had been changed in Severian times (Fig. 103). Part of the terrace was covered and joined to the famous cryptoporticus. A simple transfer brought the ancient seaside wall with its extra large windows on what once was the terrace's parapet and pillars took the places of the windows in the ancient cryptoporticus, creating either a covered double portico or a large hall (Fig. 104). A small private bath was erected directly on the beach and was attached to this hall. Probably it took the place of Pliny's Heliocaminus, a solarium which Pliny described. In this part the terrace was quite completely obliterated.

@@ -9,8 +9,6 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
-tags:
-
 ---
 
 ## Province
@@ -46,7 +44,7 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Viridarium (Maison du viridarium à niches)
 
 ### Keywords
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 

@@ -5,12 +5,9 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: Lai Ching Tsui
-draft: false
+draft: true
 
 categories:
-
-tags:
-
 ---
 
 ## Province

@@ -5,14 +5,11 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yvette Pollack
-draft: false
+draft: true
 
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "House with Garden, rue des Capucins"
 ---
 
 ## Province
@@ -43,7 +40,7 @@ House with Garden, rue des Capucins
 
 ### Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
-- [atrium](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 
 
 ### Garden Description

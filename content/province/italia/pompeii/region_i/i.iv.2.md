@@ -11,19 +11,18 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "peristyle"
-  - "portico"
-  - "tablinum"
-  - "triclinium"
-
+ - "peristyles (Roman courtyards)"
+ - "porticoes"
+ - "tablina"
+ - "triclinia (rooms)"
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 
@@ -31,21 +30,21 @@ tags:
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-[Region I]({{<relref "../..">}})
+[Region I]({{<relref ".">}})
 ## Insula
-[Insula IV]({{<relref "..">}})
+[Insula IV]({{<relref "#">}})
 
 ### Keywords
-- [peristyle](http://vocab.getty.edu/page/aat/300080971)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
-- [tablinum](http://vocab.getty.edu/page/aat/300004180)
-- [triclinium](http://vocab.getty.edu/page/aat/300004359)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [tablina](http://vocab.getty.edu/page/aat/300004180)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ## Garden
 [Peristyle](http://vocab.getty.edu/page/aat/300080971) garden in a domestic property with a viridarium  to the rear.
 
 ### Garden Description
-This [peristyle](http://vocab.getty.edu/page/aat/300080971) garden had two entrances on the west and the south. It was located at the rear of the [tablinum](http://vocab.getty.edu/page/aat/300004180) and had a [portico](http://vocab.getty.edu/page/aat/300004145) on the west and south enclosed by a low wall and supported by columns. At the west entrance there was a cistern. A large window that looked out into the garden located in the [triclinium](http://vocab.getty.edu/page/aat/300004359) was framed by two engaged columns.
+This [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden had two entrances on the west and the south. It was located at the rear of the [tablinum](http://vocab.getty.edu/page/aat/300004180) and had a [portico](http://vocab.getty.edu/page/aat/300004145) on the west and south enclosed by a low wall and supported by columns. At the west entrance there was a cistern. A large window that looked out into the garden located in the [triclinium](http://vocab.getty.edu/page/aat/300004359) was framed by two engaged columns.
 
 
 

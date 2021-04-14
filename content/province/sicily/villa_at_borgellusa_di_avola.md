@@ -5,12 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Roger Wilson
 editor: Chen Chen
-draft: false
+draft: true
 
 categories:
  - "Sicily"
-tags:
-  - " "
 ---
 
 ## Province

@@ -6,6 +6,13 @@ province_id: PROVINCE_ID
 author: E.R. Macaulay
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "altars (religious fixtures)"
+ - "horologium"
+ - "nemus (grove)"
+ - "obelisk"
+ - "statues"
+ - "ustrins (crematories)"
 ---
 
 ## Province
@@ -39,22 +46,24 @@ Mausoleum Augusti \
 
 - [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
 - [horologium](http://vocab.getty.edu/page/aat/300404895)
+- [nemus (grove)](http://vocab.getty.edu/page/aat/300008884)
 - [obelisk](http://vocab.getty.edu/page/aat/300007021)
+- [statues](http://vocab.getty.edu/page/aat/300047600)
 - [ustrins (crematories)](http://vocab.getty.edu/page/aat/300005876)
 
 ### Garden Description
 
-The Mausoleum of Augustus was located in the northern [Campus Martius](https://en.wikipedia.org/wiki/Campus_Martius) between the [Via Flaminia](https://en.wikipedia.org/wiki/Via_Flaminia) and the [Tiber](https://www.britannica.com/place/Tiber-River). The exact bounds of the park are unknown, but they stretched from north of the Mausoleum of Augustus to south of the [*horologium*](http://vocab.getty.edu/page/aat/300404895) and the [Ara Pacis](https://en.wikipedia.org/wiki/Ara_Pacis) which was located along the Via Flaminia.
+The Mausoleum of Augustus was located in the northern [Campus Martius](https://en.wikipedia.org/wiki/Campus_Martius) between the [Via Flaminia](https://en.wikipedia.org/wiki/Via_Flaminia) and the [Tiber](https://www.britannica.com/place/Tiber-River). The exact bounds of the park are unknown, but they stretched from north of the Mausoleum of Augustus to south of the [*horologium*](http://vocab.getty.edu/page/aat/300404895) and the [Ara Pacis](https://en.wikipedia.org/wiki/Ara_Pacis), which was located along the Via Flaminia.
 
 *Mausoleum Augusti*
 
-Between 28 and 23 BCE, the emperor Augustus erected [his Mausoleum](https://www.digitalaugustanrome.org/records/mausoleum-augustus/) in the northern Campus Martius within a public park composed of trees (*silvae*) and walks (*ambulationes*) ([Strabo 5.3.8](http://http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-eng2:5.3.8); [Suet. Aug. 100](https://bit.ly/SuetTib); [Dio Cassius 53.30.5](https://bit.ly/CDioE53)). According to [Strabo (5.3.8)](http://http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-eng2:5.3.8), evergreen trees (*άειθαλης*) were thickly planted on the vault of the mausoleum up to the summit where a bronze statue of Augustus stood. Excavations of the Mausoleum were carried out in 1869, 1871–1872, 1907–1908, 1916–1930 and 1934–1938. During the excavations conducted under Mussolini (1934–1938), all post-antique structures associated with the Mausoleum were removed. These excavations did not reveal additional information about the plantings and nature of the summit of the Mausoleum.
+Between 28 and 23 BCE, the emperor Augustus erected his [Mausoleum](https://www.digitalaugustanrome.org/records/mausoleum-augustus/) in the northern Campus Martius within a public park composed of trees (*silvae*) and walks (*ambulationes*) ([Strabo 5.3.8](http://http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-eng2:5.3.8); [Suet. Aug. 100](https://bit.ly/SuetTib); [Dio Cassius 53.30.5](https://bit.ly/CDioE53)). According to [Strabo (5.3.8)](http://http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-eng2:5.3.8), evergreen trees (*άειθαλης*) were thickly planted on the vault of the mausoleum up to the summit where a bronze [statue](http://vocab.getty.edu/page/aat/300047600) of Augustus stood. Excavations of the Mausoleum were carried out in 1869, 1871–1872, 1907–1908, 1916–1930 and 1934–1938. During the excavations conducted under Mussolini (1934–1938), all post-antique structures associated with the Mausoleum were removed. These excavations did not reveal additional information about the plantings and nature of the summit of the Mausoleum.
 
-Reconstructions of the Mausoleum vary with regard to the depiction of the trees and summit of the mound. Strabo says that the evergreen trees were planted thickly. Most reconstructions place Italian cypresses (*Cupressus sempervirens*) atop the structure, and cypresses are planted on the remains of the Mausoleum today. L. Richardson rejected this idea in favor of smaller trees, such as Junipers (*Juniperis communis*), on the basis of the structural damage that the cypress roots would have caused. However, Romans routinely manipulated trees and plants; therefore, ancient gardening techniques would have permitted the cypresses to be dwarfed  and adapted for this type of planting (Plin. *HN* 16.139–42). Cypress trees were often planted in funerary contexts (Plin. *HN* 16.139–40). Without additional evidence, it is impossible to confirm which type of evergreen was planted upon the Mausoleum. Some reconstructions place a circular colonnade on the summit as a base for the statue. While there is no mention of such a structure in the ancient sources, the statue must have been placed on some sort of elevated mound to be visible above the trees, because the Mausoleum was visible from the Tiber ([Strabo 5.3.8](http://http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-eng2:5.3.8); [Tacitus *Ann.* 3.9](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/3A*.html)).
+Reconstructions of the Mausoleum vary with regard to the depiction of the trees and summit of the mound. Strabo says that the evergreen trees were planted thickly. Most reconstructions place Italian cypresses (*Cupressus sempervirens*) atop the structure, and cypresses are planted on the remains of the Mausoleum today. L. Richardson rejected this idea in favor of smaller trees, such as junipers (*Juniperis communis*), on the basis of the structural damage that the cypress roots would have caused. However, Romans routinely manipulated trees and plants; therefore, ancient gardening techniques would have permitted the cypresses to be dwarfed and adapted for this type of planting ([Plin. *HN* 16.139–42](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/16*.html)). Cypress trees were often planted in funerary contexts ([Plin. *HN* 16.139–40](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/16*.html)). Without additional evidence, it is impossible to confirm which type of evergreen was planted upon the Mausoleum. Some reconstructions place a circular colonnade on the summit as a base for the statue. While there is no mention of such a structure in the ancient sources, the statue must have been placed on some sort of elevated mound to be visible above the trees, because the Mausoleum was visible from the Tiber ([Strabo 5.3.8](http://http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-eng2:5.3.8); [Tacitus *Ann.* 3.9](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/3A*.html)).
 
 *Silvae et ambulationes*
 
-Surrounding the Mausoleum were trees (*silvae*) and walks (*ambulationes*). Strabo referred to this region as a precinct or grove (*άλσος*) with pleasant walks (*περιπάτος*). Bounded by the Tiber and the Via Flaminia, the park was open to the public in 28 BCE (Suet. Aug. 100). No archaeological excavations illuminate the layout of these walks or the trees planted. These gardens also held many altars, including the Ara Pacis.
+Surrounding the Mausoleum were trees (*silvae*) and walks (*ambulationes*). Strabo referred to this region as a precinct or [grove](http://vocab.getty.edu/page/aat/300008884) (*άλσος*) with pleasant walks (*περιπάτος*). Bounded by the Tiber and the Via Flaminia, the park was open to the public in 28 BCE ([Suet. Aug. 100](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0132%3Alife%3Daug.%3Achapter%3D99)). No archaeological excavations illuminate the layout of these walks or the trees planted. These gardens also held many [altars](http://vocab.getty.edu/page/aat/300003725), including the [Ara Pacis](https://en.wikipedia.org/wiki/Ara_Pacis).
 
 *Horologium Augusti*
 

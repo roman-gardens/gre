@@ -6,11 +6,16 @@ article_id: ARTICLE_ID
 author: Janet DeLaine
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "aedicules"
+ - "flowerpots"
+ - "insulae"
+ - "mosaics (visual works)"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Region

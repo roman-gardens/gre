@@ -5,17 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: Zhenrui Mei
-draft: false
+draft: true
 
 categories:
  - "Italia"
-tags:
-
-  - "cisterns"
-  - "gutters"
-  - "mural paintings"
-  - "peristyles"
-  - "porticoes"
 ---
 
 ## Province

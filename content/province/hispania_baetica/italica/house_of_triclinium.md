@@ -5,10 +5,9 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: (AUTHOR_ID)
 editor: Lai Ching Tsui
-draft: false
+draft: true
 
 categories:
-
 ---
 
 ## Province
@@ -37,7 +36,7 @@ House of the Triclinium
 ### Keywords
 
 
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 
 
 ### Garden Description

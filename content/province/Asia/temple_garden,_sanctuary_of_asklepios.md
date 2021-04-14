@@ -5,14 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Annette Guan
-draft: false
+draft: true
 
 categories:
  - "Asia"
-tags:
-  - "sacred groves"
-  - "sanctuary"
-  - "inscription"
 ---
 
 ## Province

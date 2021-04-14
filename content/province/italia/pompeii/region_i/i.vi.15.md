@@ -11,23 +11,22 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "basins"
-  - "cisterns"
-  - "fountains"
-  - "garden lights"
-  - "garden ornaments"
-  - "gutters"
-  - "mural paintings"
-  - "porticoes"
-
+ - "basins (vessels)"
+ - "cisterns (plumbing components)"
+ - "fountains"
+ - "garden lights"
+ - "garden ornaments"
+ - "gutters (building drainage components)"
+ - "mural paintings (visual works)"
+ - "porticoes"
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 
@@ -35,9 +34,9 @@ tags:
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-[Region I]({{<relref "../..">}})
+[Region I]({{<relref ".">}})
 ## Insula
-[Insula VI]({{<relref "..">}})
+[Insula VI]({{<relref "#">}})
 
 ### Keywords
 
@@ -121,7 +120,7 @@ Zanker, P. 1998. *Pompeii: Public and Private Life*, pp. 477-480.
 
 ### Contributor
 
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
+[Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
 

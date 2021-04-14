@@ -4,7 +4,7 @@ date: 2020-10-04T22:55:02-00:00
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
-draft: false
+draft: true
 
 categories:
  - "Gallia Narbonensis"

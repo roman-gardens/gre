@@ -5,13 +5,10 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yvette Pollack
-draft: false
+draft: true
 
 categories:
  - "Gallia"
-
-tags:
-  - "*Domus* of the Place Epars"
 ---
 
 ## Province

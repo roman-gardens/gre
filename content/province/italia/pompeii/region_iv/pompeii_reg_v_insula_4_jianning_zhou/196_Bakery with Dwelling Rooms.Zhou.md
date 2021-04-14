@@ -9,10 +9,16 @@ draft: false
 
 categories:
 - "Italia"
+tags:
+ - "fountains"
+ - "headboards"
+ - "porticoes"
+ - "trellises"
+ - "triclinia (couches)"
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ### Province Description
@@ -21,7 +27,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 
 
 ## Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 <!--### Location Description-->
@@ -49,7 +55,7 @@ V.iv.b.
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [triclinia (couches)](http://vocab.getty.edu/page/aat/300142552)
 - [trellises](http://vocab.getty.edu/page/aat/300006785)
-- [headboards(fulcrum)](http://vocab.getty.edu/page/aat/300040447)
+- [headboards](http://vocab.getty.edu/page/aat/300040447)
 
 
 ### Garden Description

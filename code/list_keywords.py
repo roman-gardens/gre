@@ -1,3 +1,15 @@
+######
+# DEPRECATED
+# USE add_tags.py
+
+
+
+
+
+
+
+
+
 # Packages that contain useful code for us to use
 import os		   # Lets us do file operations
 import re		   # Regular Expressions!

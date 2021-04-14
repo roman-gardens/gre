@@ -5,13 +5,10 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yvette Pollack
-draft: false
+draft: true
 
 categories:
  - "Gallia"
-
-tags:
-  - "Villa de Châtillon-sur-Seiche"
 ---
 
 ## Province
@@ -42,7 +39,7 @@ Villa de Châtillon-sur-Seiche
 
 ### Keywords
 - [barn](http://vocab.getty.edu/page/aat/300004900)
-- [courtyard](http://vocab.getty.edu/page/aat/300004095)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [trench](http://vocab.getty.edu/page/aat/300008022)
 - [fanum](http://vocab.getty.edu/page/aat/300400628)
 - [fountain](http://vocab.getty.edu/page/aat/300006179)

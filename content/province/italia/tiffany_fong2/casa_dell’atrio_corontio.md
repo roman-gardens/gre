@@ -6,20 +6,15 @@ article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 552
-draft: false
+draft: true
 
 categories:
  - "Italia"
-tags:
-- "impluvium"
-- "atrium"
-- "peristyle"
-- "viridarium"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 
@@ -45,7 +40,7 @@ Casa dell’Atrio Corontio
 ### Keywords
 - [impluvium]
 - [atrium]
-- [peristyle]
+- [peristyles (Roman courtyards)]
 - [viridarium]
 
 ---

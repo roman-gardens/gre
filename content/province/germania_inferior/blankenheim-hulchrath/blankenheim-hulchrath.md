@@ -5,12 +5,10 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan
-draft: false
+draft: true
 
 categories:
  - "Germania Inferior"
-tags:
-  - "villae rusticae"
 ---
 
 ## Province

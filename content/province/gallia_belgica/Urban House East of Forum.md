@@ -5,14 +5,11 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yvette Pollack
-draft: false
+draft: true
 
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "Urban House East of Forum"
 ---
 
 ## Province
@@ -43,8 +40,8 @@ Urban House East of Forum
 
 ### Keywords
 - [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
-- [peristyles](http://vocab.getty.edu/page/aat/300080971)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
 
 

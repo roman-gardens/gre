@@ -6,20 +6,10 @@ article_id: ARTICLE_ID
 author: Claudine Munier, Christophe Gaston, Maureen Carroll
 editor: June Dorsch
 translator: Clopper Almon
-draft: false
+draft: true
 
 categories:
  - "Germania Superior"
-tags:
-  - "colonnades"
-  - "kraters"
-  - "mosaics"
-  - "opus signinum"
-  - "peristyles"
-  - "piscinae"
-  - "porticoes"
-  - "rinceaux"
-  - "terrazzo"
 ---
 
 ## Province

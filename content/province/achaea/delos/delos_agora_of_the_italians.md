@@ -10,7 +10,13 @@ draft: false
 categories:
  - "Achaea"
 tags:
-- "#"
+ - "colonnades"
+ - "courtyards"
+ - "exedrae (site elements)"
+ - "niches"
+ - "peristyles (Roman courtyards)"
+ - "porticoes"
+ - "water wells"
 ---
 
 ## Province

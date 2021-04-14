@@ -5,12 +5,10 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: John Bodel
 editor: Qianli Jiang
-draft: false
+draft: true
 
 categories:
  - "Hispania Tarraconensis"
-
-
 ---
 
 ## Province

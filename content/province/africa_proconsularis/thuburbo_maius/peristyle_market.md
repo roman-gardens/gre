@@ -10,8 +10,9 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
+ - "mosaics (visual works)"
+ - "peristyles (Roman courtyards)"
 ---
-
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
@@ -35,8 +36,8 @@ Peristyle Market (Marché)
 
 ### Keywords
 
-- [peristyles (colonnades))](http://vocab.getty.edu/page/aat/300004029)
-- [mosaic](http://vocab.getty.edu/page/aat/300015342)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 
 ### Garden Description
 

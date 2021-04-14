@@ -1,5 +1,4 @@
 ---
-
 title: "Sacred Area Outside the South Walls"
 date: 2020-10-20T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -12,16 +11,16 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "parapets"
-  - "podium"
-  - "shrine"
-  - "woven"
-  - "rim"
-  - "trellises"
+ - "parapets"
+ - "podium"
+ - "rim"
+ - "shrines (structures)"
+ - "trellises"
+ - "woven"
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 
@@ -36,7 +35,7 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 ### Keywords
 - [parapets](http://vocab.getty.edu/page/aat/300002717)
 - [podium](http://vocab.getty.edu/page/aat/300430533)
-- [shrine](http://vocab.getty.edu/page/aat/300007558)
+- [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
 - [woven](http://vocab.getty.edu/page/aat/300411341)
 - [rim](http://vocab.getty.edu/page/aat/300203193)
 - [trellises](http://vocab.getty.edu/page/aat/300006785)

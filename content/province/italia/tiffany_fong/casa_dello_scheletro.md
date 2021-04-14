@@ -6,28 +6,22 @@ article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 536
-draft: false
+draft: true
 
 categories:
  - "Italia"
-tags:
-
-  - "aedicula"
-  - "tympanum"
-  - "pergola"
-  - "amorino"
-
 ---
+
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 
 ## Location
 
- [Herculaneum]({{<relref "../../../..">}}) \
- [Herculaneum (Pleiades)](https://pleiades.stoa.org/places/432873)
+[Herculaneum]({{<relref "../../../..">}}) \
+[Herculaneum (Pleiades)](https://pleiades.stoa.org/places/432873)
 
 
 ### Location Description
@@ -45,9 +39,9 @@ Casa dello Scheletro
 
 ### Keywords
 
-- [aedicules](http://www.getty.edu/vow/AATFullDisplay?find=aedicula&logic=AND&note=&english=N&prev_page=1&subjectid=300002574)
-- [tympanum](http://www.getty.edu/vow/AATFullDisplay?find=tympanum&logic=AND&note=&english=N&prev_page=1&subjectid=300002736)
-- [pergola](http://www.getty.edu/vow/AATFullDisplay?find=pergola&logic=AND&note=&english=N&prev_page=1&subjectid=300006783)
+- [aedicules](http://vocab.getty.edu/page/aat/300002574)
+- [tympana (wall components)](http://vocab.getty.edu/page/aat/300002736)
+- [pergolas](http://vocab.getty.edu/page/aat/300006783)
 - [amorino](#)
 
 ### Garden Description

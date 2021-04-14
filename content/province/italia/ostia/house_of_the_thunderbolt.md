@@ -6,11 +6,18 @@ article_id: ARTICLE_ID
 author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
+tags:
+ - "biclinia"
+ - "columns (architectural elements)"
+ - "domus"
+ - "lararia"
+ - "peristyles (Roman courtyards)"
+ - "tesserae"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Region

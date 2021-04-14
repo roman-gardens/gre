@@ -6,19 +6,15 @@ article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 548
-draft: false
+draft: true
 
 categories:
  - "Italia"
-tags:
-- "textrina"
-- "portico"
-- "puteal"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 
@@ -41,9 +37,9 @@ V
 Casa del Telaio
 
 ### Keywords
-- [textrina](http://vocab.getty.edu/aat/300007570)
-- [portico](http://vocab.getty.edu/aat/300004145)
-- [puteal](http://vocab.getty.edu/aat/300262690)
+- [textrina](http://vocab.getty.edu/page/aat/300007570)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [puteal](http://vocab.getty.edu/page/aat/300262690)
 
 ### Garden Description
 548.V.4/3.

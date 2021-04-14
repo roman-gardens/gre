@@ -1,5 +1,4 @@
 ---
-
 title: "Casa del Colonnato Tuscanico (VI.17/26)"
 date: 2020-10-10T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -12,15 +11,14 @@ draft: false
 
 categories:
   - "Italia"
-
 tags:
-- "Herculaneum"
-- "porticos"
-- "peristyle houses"
+ - "peristyle houses"
+ - "porticoes"
 ---
+
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 
@@ -46,7 +44,7 @@ Casa del Colonnato Tuscanico
 
 ### Keywords
  - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
- - [porticos](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 
 

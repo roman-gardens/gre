@@ -11,17 +11,18 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "peristyle"
-  - "portico"
-
+ - "lararia"
+ - "peristyles (Roman courtyards)"
+ - "porticoes"
+ - "triclinia (rooms)"
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 
@@ -29,21 +30,21 @@ tags:
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-[Region I]({{<relref "../..">}})
+[Region I]({{<relref ".">}})
 ## Insula
-[Insula III]({{<relref "..">}})
+[Insula III]({{<relref "#">}})
 
 ### Keywords
-- [lararium](http://vocab.getty.edu/page/aat/300400600)
-- [peristyle](http://vocab.getty.edu/page/aat/300080971)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
-- [triclinium](http://vocab.getty.edu/page/aat/300004359)
+- [lararia](http://vocab.getty.edu/page/aat/300400600)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ## Garden
 [Peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the rear of a domestic property.
 
 ### Garden Description
-At the rear of the house, excavated in 1868, there was a [peristyle](http://vocab.getty.edu/page/aat/300080971) garden with a [portico](http://vocab.getty.edu/page/aat/300004145) supported by three brick columns on the east and north sides. The south wall had a [lararium](http://vocab.getty.edu/page/aat/300400600) painting and a crude animal painting on one corner of the south garden wall. This had been executed in the manner of a topiary painting according to the excavators, who reported a lion consuming a deer, below which there was a dog pouncing on a hare. A good view of the garden was obtained through the [triclinium](http://vocab.getty.edu/page/aat/300004359) on the north.
+At the rear of the house, excavated in 1868, there was a [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden with a [portico](http://vocab.getty.edu/page/aat/300004145) supported by three brick columns on the east and north sides. The south wall had a [lararium](http://vocab.getty.edu/page/aat/300400600) painting and a crude animal painting on one corner of the south garden wall. This had been executed in the manner of a topiary painting according to the excavators, who reported a lion consuming a deer, below which there was a dog pouncing on a hare. A good view of the garden was obtained through the [triclinium](http://vocab.getty.edu/page/aat/300004359) on the north.
 
 ### Bibliography
 

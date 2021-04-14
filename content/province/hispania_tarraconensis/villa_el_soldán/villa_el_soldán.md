@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yiyun Liu
-draft: false
+draft: true
 
 categories:
  - "Hispania Tarraconensis"
@@ -70,7 +70,7 @@ Villa El Soldán  (The Sultan)
 
 ### Keywords
 
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [hypocausts](http://vocab.getty.edu/page/aat/300004277)
 - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
 - [reception rooms](http://vocab.getty.edu/page/aat/300077176)

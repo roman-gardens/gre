@@ -1,5 +1,4 @@
 ---
-
 title: "II.viii.2-3"
 date: 2020-12-10T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,19 +12,18 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "thermopolium"
-  - "triclinia"
-  - "lecti"
-  - "lararium"
-
+ - "lararia"
+ - "lecti"
+ - "thermopolium"
+ - "triclinia (rooms)"
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 
@@ -33,15 +31,15 @@ tags:
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-[Region II]({{<relref "../..">}})
+[Region II]({{<relref ".">}})
 ## Insula
-[Insula VIII]({{<relref "..">}})
+[Insula VIII]({{<relref "#">}})
 
 ### Keywords
  - [thermopolium](http://vocab.getty.edu/page/aat/300400645)
- - [triclinia](http://vocab.getty.edu/page/aat/300142552)
+ - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300142552)
  - [lecti](http://vocab.getty.edu/page/aat/300139419)
- - [lararium](http://vocab.getty.edu/page/aat/300400600)
+ - [lararia](http://vocab.getty.edu/page/aat/300400600)
 
 ### Garden Description
 Customers at this thermopolium were served at a counter looking onto the street and at the masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) (l. medius, 3.60 m.; l. imus 2.85; l. summus 2.30 m.) in the rear garden. This was located against the north wall to the front of this long, narrow garden and had a round table (0.50 m. in dia.) between the couches and a rectangular table (0.65 x 0.89 m.) at the end of the *lectus summus*. A niche [lararium](http://vocab.getty.edu/page/aat/300400600) was next to it with a tufa altar below decorated with a large carved club. A bench for cooking ([hearth](http://vocab.getty.edu/page/aat/300003990)) was built against the south wall at the west end with two arched openings for fuel storage underneath.

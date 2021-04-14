@@ -11,23 +11,22 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "exedrae"
-  - "fountains"
-  - "oeci"
-  - "peristyle"
-  - "portico"
-  - "stucco"
-  - "tablinum"
-  - "triclinia"
-
+ - "exedrae (site elements)"
+ - "fountains"
+ - "oeci"
+ - "peristyles (Roman courtyards)"
+ - "porticoes"
+ - "stucco"
+ - "tablina"
+ - "triclinia (rooms)"
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 
@@ -35,30 +34,30 @@ tags:
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-[Region I]({{<relref "../..">}})
+[Region I]({{<relref ".">}})
 ## Insula
-[Insula IV]({{<relref "..">}})
+[Insula IV]({{<relref "#">}})
 
 ### Keywords
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)]
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [peristyle](http://vocab.getty.edu/page/aat/300080971)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [stucco](http://www.getty.edu/vow/AATFullDisplay?find=stucco&logic=AND&note=&english=N&prev_page=1&subjectid=300014966)
-- [tablinum](http://vocab.getty.edu/page/aat/300004180)
-- [triclinium](http://vocab.getty.edu/page/aat/300004359)
+- [tablina](http://vocab.getty.edu/page/aat/300004180)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ## Garden
-House of the Citharist (also known as the Casa Del Citarista, House of L. Popidius Secundus Agustianus, and L. Popidus Ampliatus), a domestic property with [peristyle](http://vocab.getty.edu/page/aat/300080971) gardens.
+House of the Citharist (also known as the Casa Del Citarista, House of L. Popidius Secundus Agustianus, and L. Popidus Ampliatus), a domestic property with [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) gardens.
 
 
 ### Garden Description
 A. Excavation took place at this large house intermittently form 1853 to 1869. There were three large parallel, adjacent gardens. A [portico](http://vocab.getty.edu/page/aat/300004145), supported by seventeen [stuccoed](http://www.getty.edu/vow/AATFullDisplay?find=stucco&logic=AND&note=&english=N&prev_page=1&subjectid=300014966) columns made of brick and Sarno limestone, enclosed the center garden. The columns were red, fluted at the top and plain at the bottom. A gutter went around the perimeter of the garden. A semicircular basin was located at the west end of the garden around which six spectacular bronze animals were discovered in 1861. The bronzes were as follows: a boar with a [fountain](http://vocab.getty.edu/page/aat/300006179) spouting from its mouth (0.56m high; Mus. Naz. inv. no. 4900); two dogs (0.51 and 0.25m. high; for boar and dogs); a leaping stag with no trace of [fountain](http://vocab.getty.edu/page/aat/300006179) fittings (0.61m high; Mus. Naz. inv. no. 4902; Reusch no. 823); a lion with an open mouth, possibly for a [fountain](http://vocab.getty.edu/page/aat/300006179), which originally stood on his hind legs (0.39m high; Mus. Naz. inv. no. 4897; Reusch no. 820); a serpent with a spout in its mouth (0.51m high; Mus. Naz. inv. no. 4898; Reusch no. 822). The Museo Nazionale was said to have preserve the original placements of the statues. After careful study of this Dwyer concluded that the boar would have stood on the projecting spur of the [fountain](http://vocab.getty.edu/page/aat/300006179) basin with the dogs attacking his from either side of the rim.  The leaping lion would have been next to them and the serpent to their right. The stag would have stood on the rim of the basin at the extreme left. The entire group could have been seen from the large room opening off the west [portico](http://vocab.getty.edu/page/aat/300004145), which was lacking one column to facilitate the view (Eschebach incorrectly included this column on his plan). Two double herms, each representing Bacchus and Ariadne, were found at the edge of the basin. Dwyer was not able to locate these. There eleven marble oscilla, six circular ones (*tondi*) (Mus. Naz. inv. nos. 6551, 6642, 6646, 6652, formerly 6667 but now at Pompeii, inv. no. 20486, one with inv. no. unknown). Five had the shape of a pelta (Mus. Naz. inv. no. 6660, 6661, 6664, 6665, formerly 6658 but now at Pompeii, inv. no. 20489). These white marble *oscillae* each had an iron hook at the top, but no rod, which indicates that were suspended from the architrave between the columns by a cord. Dwyer suggests that the *peltae* were probably alternated with the round shields. One *oscillum* had a maenad on one side; the rest had a faun or satyr on each side. A large rectangular pool (3.50m wide x 10.80m long; 1.40m deep) was excavated in February 1926 by Maruri. Two high steps (0.45m and 0.40m) descended into the pool on the west side. A much smaller semicircular pool had been built around these steps and into the larger pool which had been filled with rubble. This was probably built after the earthquake when the entrance on the Via dell’Abbondanza was joined to the house. The cistern opening in the southwest corner of the garden had a lave puteal, but the one in the east portico had no puteal. To the northeast of garden there was a large room which contained garden representations painted on the black predella under both of the side panels on the south wall. These were recorded by Spinazzola in drawings.  
 
-B. The center [peristyle](http://vocab.getty.edu/page/aat/300080971) was separated from the south [peristyle](http://vocab.getty.edu/page/aat/300080971) by a long wall that had six windows and two doors. These offered a grand view into the southern [peristyle](http://vocab.getty.edu/page/aat/300080971). In an earlier period this [peristyle](http://vocab.getty.edu/page/aat/300080971) must have been considered the most important component for each of the six windows corresponded to an intercolumniation in the southern [peristyle](http://vocab.getty.edu/page/aat/300080971). The twenty [portico](http://vocab.getty.edu/page/aat/300004145) columns were fluted above, plain below, and faced with [stucco](http://www.getty.edu/vow/AATFullDisplay?find=stucco&logic=AND&note=&english=N&prev_page=1&subjectid=300014966) over brick and Sarno limestone. The northeast corner had a [portico](http://vocab.getty.edu/page/aat/300004145) with a marble puteal. This garden was bounded by a gutter and in this [peristyle](http://vocab.getty.edu/page/aat/300080971) there was a white marble altar (0.255m high; Mus. Naz. inv. no. 110 022). The middle [peristyle](http://vocab.getty.edu/page/aat/300080971) was supposedly where the famous bronze statue of Apollo playing a cithara (1.58m high with base; Mus. Naz. inv. no. 5630; Reusch no. 831) was found on November 8, 1853. It probably came from the southeast corner of the southern [peristyle](http://vocab.getty.edu/page/aat/300080971) for the middle [peristyle](http://vocab.getty.edu/page/aat/300080971) was not excavated until five years after the Apollo was found. Niccolini was the first to mistakenly report the location where the bronze was discovered. Maiuri thought that the Apollo may have been adapted as a lychnophoros. Several smaller rooms looked out over the garden as well as a large [oecus](http://vocab.getty.edu/page/aat/300080791) on the east.  
+B. The center [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) was separated from the south [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) by a long wall that had six windows and two doors. These offered a grand view into the southern [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971). In an earlier period this [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) must have been considered the most important component for each of the six windows corresponded to an intercolumniation in the southern [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971). The twenty [portico](http://vocab.getty.edu/page/aat/300004145) columns were fluted above, plain below, and faced with [stucco](http://www.getty.edu/vow/AATFullDisplay?find=stucco&logic=AND&note=&english=N&prev_page=1&subjectid=300014966) over brick and Sarno limestone. The northeast corner had a [portico](http://vocab.getty.edu/page/aat/300004145) with a marble puteal. This garden was bounded by a gutter and in this [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) there was a white marble altar (0.255m high; Mus. Naz. inv. no. 110 022). The middle [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) was supposedly where the famous bronze statue of Apollo playing a cithara (1.58m high with base; Mus. Naz. inv. no. 5630; Reusch no. 831) was found on November 8, 1853. It probably came from the southeast corner of the southern [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) for the middle [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) was not excavated until five years after the Apollo was found. Niccolini was the first to mistakenly report the location where the bronze was discovered. Maiuri thought that the Apollo may have been adapted as a lychnophoros. Several smaller rooms looked out over the garden as well as a large [oecus](http://vocab.getty.edu/page/aat/300080791) on the east.  
 
-C. The north [peristyle](http://vocab.getty.edu/page/aat/300080971) garden belonged originally to a house whose entrance was on the Via dell’Abbondanza. It was accessed by a flight of steps from the central [peristyle](http://vocab.getty.edu/page/aat/300080971) which lies about two meters below. A [portico](http://vocab.getty.edu/page/aat/300004145) surrounded this garden on the south, east, and most of the north sides. Between the two middle columns on the east side there was a travertine puteal. A large exedra proceeded by a vestibule offered a view of the garden from the west, as did the [triclinium](http://vocab.getty.edu/page/aat/300004359) from the east. The columns were made of brick and Sarno sandstone and faced with stucco, just like the ones in the central [peristyle](http://vocab.getty.edu/page/aat/300080971). They were unfluted except the ones opposite the entrances to the large [exedra](http://vocab.getty.edu/page/aat/300081589), the [triclinium](http://vocab.getty.edu/page/aat/300004359), and the atrium to the north. A gutter surrounded the garden.  
+C. The north [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden belonged originally to a house whose entrance was on the Via dell’Abbondanza. It was accessed by a flight of steps from the central [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) which lies about two meters below. A [portico](http://vocab.getty.edu/page/aat/300004145) surrounded this garden on the south, east, and most of the north sides. Between the two middle columns on the east side there was a travertine puteal. A large exedra proceeded by a vestibule offered a view of the garden from the west, as did the [triclinium](http://vocab.getty.edu/page/aat/300004359) from the east. The columns were made of brick and Sarno sandstone and faced with stucco, just like the ones in the central [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971). They were unfluted except the ones opposite the entrances to the large [exedra](http://vocab.getty.edu/page/aat/300081589), the [triclinium](http://vocab.getty.edu/page/aat/300004359), and the atrium to the north. A gutter surrounded the garden.  
 
 <!--### Images
 

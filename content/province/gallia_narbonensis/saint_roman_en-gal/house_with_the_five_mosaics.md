@@ -4,7 +4,7 @@ date: 2020-10-05T23:06:02-24:00
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
-draft: false
+draft: true
 
 categories:
  - "Gallia Narbonensis"
@@ -52,7 +52,7 @@ House with the Five Mosaics
 - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
 - [opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
 

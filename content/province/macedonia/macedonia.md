@@ -5,7 +5,7 @@ date: 2020-07-16T09:34:20-04:00
 province_id: PROVINCE_ID
 author: NAME_OF_AUTHOR
 editor: Amartya Shri
-draft: false
+draft: true
 
 categories:
  - "Macedonia"

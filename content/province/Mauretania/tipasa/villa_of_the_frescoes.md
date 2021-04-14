@@ -5,8 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Brandon Wilson
-draft: false
-
+draft: true
 ---
 
 ## Province
@@ -41,7 +40,7 @@ The Villa of the Frescoes (La villa des Fresques)
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 
 ### Garden Description
 

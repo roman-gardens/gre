@@ -5,17 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 
 categories:
  - "Germania Superior"
-tags:
-  
-  - "colonnades"
-  - "insulae"
-  - "peristyles"
-  - "triclinia"
-  - "water wells"
 ---
 
 ## Province
@@ -58,7 +51,7 @@ House in Insula 30 in Augusta Raurica
 - [corridors](http://vocab.getty.edu/page/aat/300004294)
 - [insulae](http://vocab.getty.edu/page/aat/300000325)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
 - [water wells](http://vocab.getty.edu/page/aat/300152327)
 

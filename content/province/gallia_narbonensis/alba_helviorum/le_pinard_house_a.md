@@ -4,7 +4,7 @@ date: 2020-11-14T00:12:43-00:00
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
-draft: false
+draft: true
 
 categories:
  - "Gallia Narbonensis"
@@ -46,7 +46,7 @@ Le Pinard, House A
 
 ### Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [water wells](http://vocab.getty.edu/page/aat/300152327)
 
 

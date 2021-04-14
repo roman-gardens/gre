@@ -5,15 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 
 categories:
  - "Germania Superior"
-tags:
-  - "bathhouses"
-  - "porticoes"
-  - "terrace gardens"
-  - "villae rusticae"
 ---
 
 ## Province

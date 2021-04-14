@@ -10,12 +10,10 @@ draft: false
 categories:
  - "Italia"
 tags:
-
-  - "cisterns"
-  - "gutters"
-  - "mural paintings"
-  - "peristyles"
-  - "porticoes"
+ - "epitaphs"
+ - "mausoleums"
+ - "stelae"
+ - "tombs"
 ---
 
 ## Province
@@ -38,7 +36,7 @@ tags:
 
 ## Sublocation
 
-[Region X]({{<relref "../..">}})
+[Region X]({{<relref ".">}})
 
 <!--### Sublocation Description-->
 

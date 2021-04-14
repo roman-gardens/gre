@@ -4,7 +4,7 @@ date: 2020-10-05T23:06:02-24:00
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
-draft: false
+draft: true
 
 categories:
  - "Gallia Narbonensis"
@@ -51,7 +51,7 @@ House of the Columns
 - [reception rooms](http://vocab.getty.edu/page/aat/300077176)
 - [apsed pools]()
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 
 

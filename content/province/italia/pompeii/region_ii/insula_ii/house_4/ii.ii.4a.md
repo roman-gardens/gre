@@ -10,8 +10,8 @@ draft: false
 categories:
  - "Italia"
 tags:
-  - "peristyle"
-  - "villa"
+ - "courtyards"
+ - "insulae"
 ---
 
 ## Province
@@ -19,7 +19,7 @@ tags:
 
 ## Location
 
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 <!--### Location Description-->
 
@@ -41,7 +41,7 @@ Peristyle garden in house of Messius Ampliatus (II.ii.4)
 
 ### Keywords
 
-- [villa](http://vocab.getty.edu/page/aat/300000325)
+- [insulae](http://vocab.getty.edu/page/aat/300000325)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 ### Garden Description

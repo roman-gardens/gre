@@ -10,8 +10,10 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
+ - "domus"
+ - "mosaics (visual works)"
+ - "peristyle houses"
 ---
-
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
@@ -36,7 +38,7 @@ House of the Protome (Maison des Protomés)
 ### Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [mosaic](http://vocab.getty.edu/page/aat/300015342)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [semicircular basin]
 
 ### Garden Description

@@ -5,14 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan
-draft: false
+draft: true
 
 categories:
  - "Germania Inferior"
-tags:
-  - "courtyards"
-  - "insulae"
-  - "kitchen gardens"
 ---
 
 ## Province

@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yiyun Liu
-draft: false
+draft: true
 
 categories:
  - "Lusitania"
@@ -59,10 +59,10 @@ House of the Mithraeum
 
 ### Keywords
 
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [rural villas](#)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [axial plan](http://vocab.getty.edu/page/aat/300121971)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 

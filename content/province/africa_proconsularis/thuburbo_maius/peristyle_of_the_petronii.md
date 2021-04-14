@@ -10,8 +10,8 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
+ - "peristyles (Roman courtyards)"
 ---
-
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \

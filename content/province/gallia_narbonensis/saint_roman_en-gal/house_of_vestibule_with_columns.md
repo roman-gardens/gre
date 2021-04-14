@@ -4,7 +4,7 @@ date: 2020-10-12T21:26:02-24:00
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
-draft: false
+draft: true
 
 categories:
  - "Gallia Narbonensis"
@@ -52,7 +52,7 @@ House of Vestibule with Columns
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [triclinia](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [reception rooms](http://vocab.getty.edu/page/aat/300077176)
 

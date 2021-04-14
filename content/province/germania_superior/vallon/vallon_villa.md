@@ -5,26 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Michel Fuchs, Jacques Monnier
 editor: June Dorsch
-draft: false
+draft: true
 
 categories:
  - "Germania Superior"
-tags:
-  - "arbors"
-  
-  - "ceramic tile"
-  - "fences"
-  - "hearths"
-  - "horrea"
-  - "mosaics"
-  - "pedestals"
-  - "pillars"
-  - "piscinae"
-  - "porticoes"
-  - "sherds"
-  - "tesserae"
-  - "villae rusticae"
-  - "water supply systems"
 ---
 
 ## Province

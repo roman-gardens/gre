@@ -9,6 +9,15 @@ draft: false
 
 categories:
   - "Numidia"
+tags:
+ - "amphorae (storage vessels)"
+ - "domus"
+ - "mosaics (visual works)"
+ - "oeci"
+ - "pergolas"
+ - "peristyle houses"
+ - "piscinae"
+ - "statuettes (free-standing sculpture)"
 ---
 
 ## Province

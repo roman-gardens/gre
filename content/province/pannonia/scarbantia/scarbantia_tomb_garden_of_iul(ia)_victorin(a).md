@@ -5,14 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: June Dorsch
-draft: false
+draft: true
 
 categories:
  - "Pannonia"
-tags:
-  - "epitaphs"
-  - "stelae"
-  - "tombs"
 ---
 
 ## Province

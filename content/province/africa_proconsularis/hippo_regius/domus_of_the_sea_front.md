@@ -9,8 +9,6 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
-tags:
-
 ---
 
 ## Province
@@ -49,12 +47,12 @@ A sublocation is any area larger than an individual garden, but located within a
 Domus of the Sea Front (Villa du front de mer)
 
 ### Keywords
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [loggias](http://vocab.getty.edu/page/aat/300004137)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [pool](http://vocab.getty.edu/page/aat/300008692)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 
 ### Garden Description
  The upper level of this large house (after 330, according to stratigraphic dating) resulted from the joining of three dwellings and was built over two earlier levels, the courtyards or peristyles of which are still unknown. Like a maritime villa, the house had a long loggia, which extended and opened to the sea, towards the northeast. It was excavated first in 1911, then in 1951-52, in 1964 and more recently in 2002 (Plan view, Fig. 1, 2).

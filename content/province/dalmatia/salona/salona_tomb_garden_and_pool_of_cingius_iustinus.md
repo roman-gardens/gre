@@ -5,14 +5,10 @@ article_id: ARTICLE_ID
 author: [ John Bodel, Other Guy ]
 editor: Christian Casey
 lead: A rock cut inscription at Salonae ...
-draft: false
+draft: true
 
 categories:
  - "Dalmatia"
-tags:
-  - "epitaphs"
-  - "piscinae"
-  - "tombs"
 ---
 
 ## Province

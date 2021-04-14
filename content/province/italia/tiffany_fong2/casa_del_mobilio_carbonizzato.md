@@ -6,22 +6,15 @@ article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 549
-draft: false
+draft: true
 
 categories:
  - "Italia"
-tags:
-- "fauces"
-- "aedicula"
-- "puteal"
-- "aedicula lararium"
-- "lararium"
-
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 
@@ -44,9 +37,9 @@ V
 Casa del Mobilio Carbonizzato
 
 ### Keywords
-- [fauces](http://vocab.getty.edu/aat/300007570)
-- [aedicula](http://vocab.getty.edu/aat/300004145)
-- [opus signinum](http://vocab.getty.edu/aat/300262690)
+- [fauces](http://vocab.getty.edu/page/aat/300007570)
+- [aedicula](http://vocab.getty.edu/page/aat/300004145)
+- [opus signinum](http://vocab.getty.edu/page/aat/300262690)
 - [aedicula lararium]()
 - [lararium]
 

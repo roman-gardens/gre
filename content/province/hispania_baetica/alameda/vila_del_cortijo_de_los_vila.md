@@ -5,12 +5,9 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: (AUTHOR_ID)
 editor: Lai Ching Tsui
-draft: false
+draft: true
 
 categories:
-
-tags:
-
 ---
 
 ## Province
@@ -50,7 +47,7 @@ Villa del Cortijo de los Vila
 
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 <!-- - [Priapus](#) -->
 

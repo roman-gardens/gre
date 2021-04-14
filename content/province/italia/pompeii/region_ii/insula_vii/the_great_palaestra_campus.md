@@ -1,5 +1,4 @@
 ---
-
 title: "The Great Palaestra (II.vi)"
 date: 2020-12-10T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,19 +12,16 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "portico"
-  - "palaestra"
-  - "swimming pool"
-  - "root cavities"
-
+ - "palaestra"
+ - "porticoes"
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 
@@ -33,13 +29,13 @@ tags:
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-[Region II]({{<relref "../..">}})
+[Region II]({{<relref ".">}})
 ## Insula
-[Insula VII]({{<relref "..">}})
+[Insula VII]({{<relref "#">}})
 
 
 ### Keywords
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [palaestra](http://vocab.getty.edu/page/aat/300007301)
 
 

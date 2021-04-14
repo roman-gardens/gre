@@ -9,7 +9,7 @@ draft: true
 ---
 
 # Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 <!--- Content of Province heading --->
 
@@ -19,7 +19,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 
 
 # Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 <!-- [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751) -->
 

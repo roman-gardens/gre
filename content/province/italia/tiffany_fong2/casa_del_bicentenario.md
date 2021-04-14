@@ -6,20 +6,15 @@ article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 551
-draft: false
+draft: true
 
 categories:
  - "Italia"
-tags:
-- "portico"
-- "tablinium"
-- "dolium"
-- "puteal"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 
@@ -41,11 +36,11 @@ V
 ## Garden
 Casa del Bicentenario
 
-
+<!-- These keywords have not been finished. Please add Getty Thesaurus links. - Christian -->
 ### Keywords
-- [portico]
-- [tablinium]
-- [dolium]
+- [porticoes]
+- [tablinia]
+- [dolia]
 - [puteal]
 
 ---

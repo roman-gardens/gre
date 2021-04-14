@@ -5,18 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan
-draft: false
+draft: true
 
 categories:
  - "Germania Inferior"
-tags:
-  - "Pliny the Younger"
-  - "atriums"
-  - "castra"
-  - "pedestals"
-  - "peristyles"
-  - "praetoriums"
-  - "tablina"
 ---
 
 ## Province
@@ -54,7 +46,7 @@ Legionary houses at Castra Vetera (Germania inferior)
 
 - [castra](http://vocab.getty.edu/page/aat/300008440)
 - [praetoriums](http://vocab.getty.edu/page/aat/300005636)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [tablina](http://vocab.getty.edu/page/aat/300004180)
 - [pedestals](http://vocab.getty.edu/page/aat/300001744)

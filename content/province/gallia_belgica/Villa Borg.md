@@ -5,14 +5,11 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yvette Pollack
-draft: false
+draft: true
 
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "Villa Borg"
 ---
 
 ## Province
@@ -44,7 +41,7 @@ Villa Borg
 ### Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [basins](http://vocab.getty.edu/page/aat/300045614)
-- [courtyard](http://vocab.getty.edu/page/aat/300004095)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 
 

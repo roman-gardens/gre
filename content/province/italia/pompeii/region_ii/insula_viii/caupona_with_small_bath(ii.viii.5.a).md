@@ -1,5 +1,4 @@
 ---
-
 title: "Caupona with Small Bath"
 date: 2020-12-10T00:10:10-04:00
 province_id: PROVINCE_ID
@@ -13,17 +12,15 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "triclinia"
-
-
+ - "triclinia (rooms)"
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 
@@ -31,12 +28,12 @@ tags:
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-[Region II]({{<relref "../..">}})
+[Region II]({{<relref ".">}})
 ## Insula
-[Insula VIII]({{<relref "..">}})
+[Insula VIII]({{<relref "#">}})
 
 ### Keywords
- - [triclinia](http://vocab.getty.edu/page/aat/300142552)
+ - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300142552)
 
 ### Garden Description
 A. A very small bath was located at the left rear of the atrium in this unusual building.  Behind this was a tiny garden (a) with three small triclinia on either side. The couches of these six triclinia were so low and narrow they must have been used as seats similar to the taberna attached to the house of Julia Felix, II.iv.7.

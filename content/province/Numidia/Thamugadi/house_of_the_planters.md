@@ -9,9 +9,10 @@ draft: false
 
 categories:
   - "Numidia"
-
 tags:
-
+ - "domus"
+ - "peristyle houses"
+ - "water wells"
 ---
 
 ## Province

@@ -5,12 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Xingjian Wang
-draft: false
+draft: true
 
 categories:
  - "Hispania Tarraconensis"
-tags:
-  - ""
 ---
 
 ## Province

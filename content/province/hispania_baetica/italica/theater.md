@@ -5,10 +5,9 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: (AUTHOR_ID)
 editor: Lai Ching Tsui
-draft: false
+draft: true
 
 categories:
-
 ---
 
 ## Province
@@ -39,7 +38,7 @@ Theater
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [pedestals](http://vocab.getty.edu/page/aat/300001744)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 

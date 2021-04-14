@@ -5,12 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: Lingyi Xu
-draft: false
+draft: true
 
 categories:
  - "italia"
-tags:
-  - "tombs"
 ---
 
 ## Province

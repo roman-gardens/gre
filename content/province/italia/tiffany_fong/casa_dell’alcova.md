@@ -6,19 +6,15 @@ article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 542-543
-draft: false
+draft: true
 
 categories:
  - "Italia"
-tags:
-- "atrium"
-- "triclinium"
-- "procoeton"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 
@@ -42,8 +38,8 @@ Casa dell’Alcova
 
 
 ### Keywords
-- [atrium](http://vocab.getty.edu/aat/300080798)
-- [triclinium](http://vocab.getty.edu/aat/300004359)
+- [atrium](http://vocab.getty.edu/page/aat/300080798)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [procoeton](#)
 
 ### Garden Description

@@ -6,17 +6,15 @@ article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 544
-draft: false
+draft: true
 
 categories:
  - "Italia"
-tags:
-- "impluvium"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 
@@ -40,7 +38,7 @@ Casa del Paprio Dipinto
 
 
 ### Keywords
-- [impluvium](http://vocab.getty.edu/aat/300129867)
+- [impluvia](http://vocab.getty.edu/page/aat/300129867)
 
 
 ### Garden Description

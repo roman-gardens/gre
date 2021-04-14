@@ -5,10 +5,9 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: (AUTHOR_ID)
 editor: Lai Ching Tsui
-draft: false
+draft: true
 
 categories:
-
 ---
 
 ## Province

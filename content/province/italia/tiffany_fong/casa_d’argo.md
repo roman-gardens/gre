@@ -6,23 +6,15 @@ article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 533-534
-draft: false
+draft: true
 
 categories:
  - "Italia"
-tags:
-
-  - "portico"
-  - "peristyles"
-  - "triclinium"
-  - "gutters"
-  - "cistern"
-
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 <!--### Province Description-->
 
@@ -54,8 +46,8 @@ Casa D’Argo
 ### Keywords
 
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [triclinium](http://vocab.getty.edu/aat/300004359)
-- [peristyles](http://vocab.getty.edu/page/aat/300004029)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
 

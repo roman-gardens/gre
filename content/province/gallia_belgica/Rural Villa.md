@@ -5,14 +5,11 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yvette Pollack
-draft: false
+draft: true
 
 categories:
  - "Gallia"
  - "Belgica"
-
-tags:
-  - "Rural Villa"
 ---
 
 ## Province
@@ -44,7 +41,7 @@ Rural Villa
 ### Keywords
 - [villa rustica](http://vocab.getty.edu/page/aat/300005518)
 - [corridor](http://vocab.getty.edu/page/aat/300004294)
-- [courtyard](http://vocab.getty.edu/page/aat/300004095)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 
 

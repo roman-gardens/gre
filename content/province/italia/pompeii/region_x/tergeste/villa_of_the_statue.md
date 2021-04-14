@@ -9,13 +9,6 @@ draft: false
 
 categories:
  - "Italia"
-tags:
-
-  - "cisterns"
-  - "gutters"
-  - "mural paintings"
-  - "peristyles"
-  - "porticoes"
 ---
 
 ## Province
@@ -38,7 +31,7 @@ tags:
 
 ## Sublocation
 
-[Region X]({{<relref "../..">}})
+[Region X]({{<relref ".">}})
 
 <!--### Sublocation Description-->
 
@@ -55,14 +48,14 @@ Villa of the Statue
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
 - [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [mosaic](http://vocab.getty.edu/page/aat/300015342)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [pergolas](http://vocab.getty.edu/page/aat/300006783)
 - [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
 - [water baths](http://vocab.getty.edu/page/aat/300248755)
 - [atrium houses](http://vocab.getty.edu/page/aat/300005451)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 - [tesserae](http://vocab.getty.edu/page/aat/300010730)
 - [ceramic tile](http://vocab.getty.edu/page/aat/300010678)

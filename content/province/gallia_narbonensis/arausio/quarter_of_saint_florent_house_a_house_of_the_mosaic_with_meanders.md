@@ -4,7 +4,7 @@ date: 2020-11-14T00:12:43-00:00
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
-draft: false
+draft: true
 
 categories:
  - "Gallia Narbonensis"
@@ -46,7 +46,7 @@ Quarter of Saint-Florent, House A – House of the Mosaic with Meanders
 
 ### Keywords
 
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [reception rooms](http://vocab.getty.edu/page/aat/300077176)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)

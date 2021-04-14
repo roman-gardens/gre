@@ -6,24 +6,10 @@ article_id: ARTICLE_ID
 author: Claudine Munier, Christophe Gaston, Maureen Carroll
 editor: June Dorsch
 translator: C.A.
-draft: false
+draft: true
 
 categories:
  - "Germania Superior"
-tags:
-  
-  - "domus"
-  - "fountains"
-  - "hypocausts"
-  - "mosaics"
-  - "oeci"
-  - "opus sectile"
-  - "opus signinum"
-  - "peristyles"
-  - "piscinae"
-  - "porticoes"
-  - "terrazzo"
-  - "water wells"
 ---
 
 ## Province
@@ -72,7 +58,7 @@ archaeological garden \
 - [opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462)
 - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [piscinae]( http://vocab.getty.edu/page/aat/300375619)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [terrazzo](http://vocab.getty.edu/page/aat/300011696)

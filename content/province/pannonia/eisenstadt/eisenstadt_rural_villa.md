@@ -5,17 +5,10 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: June Dorsch
-draft: false
+draft: true
 
 categories:
  - "Pannonia"
-tags:
-  - "altars"
-  - "atriums"
-  - "peristyles"
-  - "podiums"
-  - "porticoes"
-  - "villae rusticae"
 ---
 
 ## Province
@@ -55,7 +48,7 @@ Rural Villa in Eisenstadt
 
 - [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
 - [archaeological garden](#)
-- [atriums](http://vocab.getty.edu/page/aat/300004097)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)

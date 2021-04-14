@@ -11,17 +11,17 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "caupona"
-  - "biclinium"
-  - "lararium"
+ - "biclinia"
+ - "cauponae"
+ - "lararia"
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 
@@ -29,14 +29,14 @@ tags:
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-[Region I]({{<relref "../..">}})
+[Region I]({{<relref ".">}})
 ## Insula
-[Insula II]({{<relref "..">}})
+[Insula II]({{<relref "#">}})
 
 ### Keywords
-- [biclinium](http://vocab.getty.edu/page/aat/300170371)
-- [caupona](http://vocab.getty.edu/page/aat/300005208)
-- [lararium](http://vocab.getty.edu/page/aat/300400600)
+- [biclinia](http://vocab.getty.edu/page/aat/300170371)
+- [cauponae](http://vocab.getty.edu/page/aat/300005208)
+- [lararia](http://vocab.getty.edu/page/aat/300400600)
 
 ## Garden
 Garden serving the Caupona of Innulus.

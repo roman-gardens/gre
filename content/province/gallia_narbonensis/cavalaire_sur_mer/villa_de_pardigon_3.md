@@ -4,7 +4,7 @@ date: 2020-11-15T00:08:52-00:00
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
-draft: false
+draft: true
 
 categories:
  - "Gallia Narbonensis"
@@ -45,7 +45,7 @@ Villa de Pardigon 3
 
 
 ### Keywords
-- [peristyles (columnades)](http://vocab.getty.edu/page/aat/300004029)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [reception rooms](http://vocab.getty.edu/page/aat/300077176)
