@@ -27,7 +27,7 @@ Region I \
 
 ## Location
 
-[Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
 <!-- ### Location Description -->
 
@@ -108,7 +108,7 @@ between 28 and 23 BCE
 
 unspecified
 
-### Contributors
+### Contributor
 
 [E.R. Macaulay](https://emacaulaylewis.com)
 

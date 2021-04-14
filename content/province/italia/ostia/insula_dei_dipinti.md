@@ -103,7 +103,11 @@ unspecified
 
 ### Contributor
 
-[Janet DeLaine](https://orcid.org/0000-0002-6409-7126)
+[Janet DeLaine](https://www.classics.ox.ac.uk/people/dr-janet-delaine#/)
+
+#### ORCID
+
+[Janet DeLaine (0000-0002-6409-7126)](https://orcid.org/0000-0002-6409-7126)
 
 ### Publication date
 
