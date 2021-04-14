@@ -12,11 +12,11 @@ categories:
 tags:
  - "Late Hellenistic"
  - "artificial islands"
- - "aula/forecourt"
+ - "forecourts"
  - "columbarium/dovecote"
- - "palace garden"
- - "paradeisos/paradise garden"
- - "reflecting pool"
+ - "palaces"
+ - "paradise gardens"
+ - "reflecting pools"
  - "triclinia (rooms)"
 ---
 
@@ -40,13 +40,13 @@ that boasts a partially restored palace ([Qasr al-Abd](https://pleiades.stoa.org
 ʻIrāq al-Amīr
 
 ### Keywords
-- [aula/forecourt](http://vocab.getty.edu/page/aat/300004104)
-- [columbarium/dovecote](http://vocab.getty.edu/page/aat/300004975)
-- [palace garden](http://vocab.getty.edu/page/aat/300005734)
-- [reflecting pool](http://vocab.getty.edu/page/aat/300179485)
+- [forecourts](http://vocab.getty.edu/page/aat/300004104)
+- [dovecotes](http://vocab.getty.edu/page/aat/300004975)
+- [palaces](http://vocab.getty.edu/page/aat/300005734)
+- [reflecting pools](http://vocab.getty.edu/page/aat/300179485)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [Late Hellenistic](http://vocab.getty.edu/page/aat/300106998)
-- [paradeisos/paradise garden](http://vocab.getty.edu/page/aat/300008112)
+- [paradise gardens](http://vocab.getty.edu/page/aat/300008112)
 - [artificial islands](http://vocab.getty.edu/page/aat/300386969)
 
 ### Garden Description
