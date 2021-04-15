@@ -13,23 +13,25 @@ tags:
  - "temples (buildings)"
 ---
 
-# Province
+## Province
 
 [ITALIA]({{<relref "..">}})\
 [ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
 [ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
-# Location
+## Location
 
 [Rome]({{<relref ".">}}) \
-[Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
-# Sublocation
+## Sublocation
 
-[Palatine Hill]({{<relref ".">}}) \
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
+Palatine Hill \
+[Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-# Garden
+
+
+## Garden
 
 Vigna Barberini Site Overview, Palatine
 
@@ -39,6 +41,7 @@ Vigna Barberini Site Overview, Palatine
 - [palaces](http://vocab.getty.edu/page/aat/300005734)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
+
 
 ### Garden Description
 
@@ -54,11 +57,11 @@ The excavations that reached levels prior to the rise of the Empire revealed a p
 
 {{< figure src="../images/vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" title="Figure 2. Vigna Barberini: Plan of the areas explored from 1985 to 1998.." >}}
 
-## Dates
+### Dates
 
 1st century BCE- 2nd century CE
 
-## Bibliography
+### Bibliography
 
 * P. Bigot, “Le temple de Jupiter Ultor et la Vigna Barberini,” *BullCom*  1911, pp. 80-85.[(worldcat)](http://www.worldcat.org/oclc/991557901)
 * F. Villedieu, J.-P Morel, P. Pergola, H. Broise, Y. Thébert, P. Gros, E. Hubert, et alii, “Rome: le Palatin (Vigna Barberini),” *Mélanges de l’École Française de Rome* 98 (1986) pp. 387-396; 99 (1987) pp. 481-498; 100 (1988) pp. 505-525; 101 (1989) pp. 489-498; 102 (1990) pp. 443-471; 103 (1991) pp. 313-338; 104 (1992) pp. 465-493; 105 (1993) pp. 419-439; 106 (1994) pp. 431-450; 107 (1995) pp. 459-493; 108 (1996) pp. 423-451; 109 (1997) pp. 417-440; 110 (1998) pp. 473-492; 111 (1999) pp. 449-481; 112 (2000) pp. 413-432.[(worldcat)](http://www.worldcat.org/oclc/972029282)
@@ -71,17 +74,14 @@ The excavations that reached levels prior to the rise of the Empire revealed a p
 * F. Villedieu, P. Veltri,  “Les soutènements nord-ouest et nord de la terrasse de la Vigna Barberini (Rome, Palatin): constructions et remaniements de l’époque flavienne à l’époque sévérienne,” *Mélanges de l’École Française de Rome*, 111 (1999), pp. 749-778.[(worldcat)](http://www.worldcat.org/oclc/220729070)
 * F. Villedieu , et alii, *Il giardino dei Cesari.* Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001.[(worldcat)](http://www.worldcat.org/oclc/5894435382)
 
-### Pleiades ID
+#### Pleiades ID
 
 [Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-## Contributor
+### Contributor
 
 Françoise Villedieu<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
 
-### ORCID
+### Publication date
 
-<!-- [ORCID](https://orcid.org/ORCID) -->
-
-## Publication date
 15 APRIL 2021

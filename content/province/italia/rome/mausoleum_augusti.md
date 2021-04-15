@@ -17,29 +17,24 @@ tags:
 
 ## Province
 
-[Italia]({{<relref"../../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
-
-## Region
-
-Region I \
-[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[ITALIA]({{<relref "..">}})\
+[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)
+[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
+[Rome]({{<relref ".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
-
-<!-- ### Location Description -->
 
 ## Sublocation
 
 Region IX <!-- Pleiades link?-->
 
-<!-- ### Sublocation Description -->
+
 
 ## Garden
 
-Mausoleum Augusti \
+Garden of the Mausoleum of Augustus \
 [Mausoleum Augusti (Pleiades)](https://pleiades.stoa.org/places/281368358)
 
 ### Keywords
@@ -50,6 +45,7 @@ Mausoleum Augusti \
 - [obelisk](http://vocab.getty.edu/page/aat/300007021)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 - [ustrins (crematories)](http://vocab.getty.edu/page/aat/300005876)
+
 
 ### Garden Description
 
@@ -118,4 +114,4 @@ unspecified
 
 ### Publication date
 
-unspecified
+15 APRIL 2021

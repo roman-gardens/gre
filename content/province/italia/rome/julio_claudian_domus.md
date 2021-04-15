@@ -8,23 +8,25 @@ editor: Rhiannon Pare
 draft: false
 ---
 
-# Province
+## Province
 
 [ITALIA]({{<relref "..">}})\
 [ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
 [ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
-# Location
+## Location
 
 [Rome]({{<relref ".">}}) \
 [Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
 
-# Sublocation
+## Sublocation
 
-[Palatine Hill]({{<relref ".">}}) \
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
+Palatine Hill
+[Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-# Garden
+
+
+## Garden
 
 Garden of the Peristyle of the Julio-Claudian *Domus*, Palatine
 
@@ -44,6 +46,7 @@ Garden of the Peristyle of the Julio-Claudian *Domus*, Palatine
 
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 
+
 ### Garden Description
 
 At the end of the Republican era and the beginning of the Empire, residential dwellings occupied, at least in part, the northeastern corner of the Palatine.  Two distinct excavation areas have revealed the partial remains of one or more [*domus*](http://vocab.getty.edu/page/aat/300005506) in the southern part of the [terrace](http://vocab.getty.edu/page/aat/300004182), some 6.5 meters below the present ground level. The two excavated sections have not been joined because of a wide road of Severan date that divides them.  It is not possible, therefore, to ascertain whether the pre-Domitianic remains, on either side of this road, belong to a single *domus*.  It is clear, however, the remains all share several features: obliqueness with respect to the later platform, building materials and techniques, and a luxurious quality.
@@ -62,22 +65,24 @@ The *domus* of the Vigna Barberini was included in [Nero's](https://www.britanni
 
 {{< figure src="../images/jc_domus_fig5.jpg" alt="Reconstruction of the Julio-Claudian domus" title="Figure 4. Axonometric reconstruction of the *domus* peristyle. Drawing and watercolor by J.-M. Gassend..." >}}
 
-## Dates
+### Dates
 
 1st century BCE- 1st century CE
 
-## Bibliography
+### Bibliography
 
 * J.-P Morel and F. Villedieu, “Le site de la Vigna Barberini à l’époque néronienne”, *Actes du VIe congrès international Neronia VI, Rome à l’époque néronienne* (Roma 19-23 mai 1999), in press. [(worldcat)](http://www.worldcat.org/oclc/51441167)
 * J.-P Morel, “Una ricca domus con giardino in età giulio-claudia” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 33-43. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
 
-### Pleiades ID
+#### Pleiades ID
 
 [Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-## Contributor
+### Contributor
 
 Jean-Paul Morel
+Françoise Villedieu
 
-## Publication date
+### Publication date
+
 15 APRIL 2021

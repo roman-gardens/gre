@@ -18,27 +18,24 @@ tags:
 
 ## Province
 
-[Italia]({{<relref"../../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
-
-## Region
-
-Region I \
-[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[ITALIA]({{<relref "..">}})\
+[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)
+[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
+[Rome]({{<relref ".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
-
-<!-- ### Location Description -->
 
 ## Sublocation
 
 Region IX <!-- Pleiades link?-->
 
+
+
 ## Garden
 
-Divorum
+Garden of the Divorum
 
 ### Keywords
 
@@ -49,6 +46,7 @@ Divorum
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 - [triumphal arch](http://vocab.getty.edu/page/aat/300007003)
+
 
 ### Garden Description
 
@@ -101,4 +99,4 @@ unspecified
 
 ### Publication date
 
-unspecified
+15 APRIL 2021

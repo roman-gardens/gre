@@ -18,29 +18,24 @@ tags:
 
 ## Province
 
-[Italia]({{<relref "../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
-
-## Region
-
-Region I \
-[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[ITALIA]({{<relref "..">}})\
+[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)
+[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
+[Rome]({{<relref ".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
-
-<!-- ### Location Description -->
 
 ## Sublocation
 
-Region III <!-- Pleiades link?-->
+Region III
 
-<!-- ### Sublocation Description -->
+
 
 ## Garden
 
-Porticus Liviae <!--There does not appear to be a Pleiades place resource for this garden-->
+Garden of the Porticus Liviae <!--There does not appear to be a Pleiades place resource for this garden-->
 
 ### Keywords
 
@@ -51,6 +46,7 @@ Porticus Liviae <!--There does not appear to be a Pleiades place resource for th
 - [pergolas](http://vocab.getty.edu/page/aat/300006783)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
+
 
 ### Garden Description
 
@@ -109,4 +105,4 @@ unspecified
 
 ### Publication date
 
-unspecified
+15 APRIL 2021

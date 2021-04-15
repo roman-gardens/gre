@@ -8,23 +8,25 @@ editor: Rhiannon Pare
 draft: true
 ---
 
-# Province
+## Province
 
 [ITALIA]({{<relref "..">}})\
 [ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
 [ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
-# Location
+## Location
 
 [Rome]({{<relref ".">}}) \
-[Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
-# Sublocation
+## Sublocation
 
-[Palatine Hill]({{<relref ".">}}) \
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
+Palatine Hill \
+[Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-# Garden
+
+
+## Garden
 
 Garden of the Flavian Imperial Palace, Palatine
 
@@ -45,6 +47,7 @@ Garden of the Flavian Imperial Palace, Palatine
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [sewer](http://vocab.getty.edu/page/aat/300006122)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
+
 
 ### Garden Description
 
@@ -96,10 +99,10 @@ Figure 10.  Flowerpots found in the gardens of the first and second century.  Ph
 
 Figure 11. Detail of the marble canal at the outer edge of the portico that framed the garden. This canal gathered rainwater from the level above the portico and emptied it into the sewage system below. By closing off the few manholes, it may also have been used as a basin to cool and beautify the garden.
 
-## Dates
+### Dates
 1st century- 2nd century CE
 
-## Bibliography
+### Bibliography
 
 * M. Royo, *Domus Imperatoriae, Topographie, formation et imaginaire des palais impériaux du Palatin*, Rome, 1999. [(worldcat)](http://www.worldcat.org/oclc/907608488)
 * F. Villedieu and N. André, *Propositions pour une reconstitution de l'édifice flavien et de l'ensemble monumental tardif de la Vigna Barberini* (Rome, Palatin), Actes du Colloque: Rome An 2000 (Caen, Sept. 2000), in press.
@@ -110,16 +113,17 @@ Figure 11. Detail of the marble canal at the outer edge of the portico that fram
 * F. Villedieu, *La Vigna Barberini II- Domus, palais impérial et temples: stratigraphie du secteur nord-est du Palatin*, Rome, 2007 (RomaAntica, 6). [worldcat](http://www.worldcat.org/oclc/643147049)
 
 
-### Pleiades ID
+#### Pleiades ID
 
 [Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-## Contributor
+### Contributor
 
 Jean-Paul Morel
 Françoise Villedieu
 
-### ORCID
+#### ORCID
 
 ## Publication date
+
  15 APRIL 2021

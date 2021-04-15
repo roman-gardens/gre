@@ -15,29 +15,24 @@ tags:
 
 ## Province
 
-[Italia]({{<relref"../../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
-
-## Region
-
-Region I \
-[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[ITALIA]({{<relref "..">}})\
+[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
+[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
+[Rome]({{<relref ".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
-
-<!-- ### Location Description -->
 
 ## Sublocation
 
-Region IX <!-- Pleiades link?-->
+Region IX
 
-<!-- ### Sublocation Description -->
+
 
 ## Garden
 
-Thermae Agrippae \
+Garden of the Thermae Agrippae \
 [Thermae Agrippae (Pleiades)](https://pleiades.stoa.org/places/22073979)
 
 ### Keywords
@@ -115,4 +110,5 @@ unspecified
 <!--ORCID for Beth Ryan?-->
 
 ### Publication date
+
 15 APRIL 2021

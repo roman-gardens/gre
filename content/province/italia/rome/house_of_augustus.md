@@ -8,34 +8,26 @@ editor: Rhiannon Pare
 draft: true
 ---
 
-# Province
+## Province
 
 [ITALIA]({{<relref "..">}})\
 [ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
 [ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
-## Province Description
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-# Location
+## Location
 [Rome]({{<relref ".">}}) \
-[Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
-## Location Description
-<!-- LEAVE THIS BLANK FOR NOW -->
+## Sublocation
 
-# Sublocation
+Palatine Hill \
+[Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-[Palatine Hill]({{<relref ".">}}) \
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-## Sublocation Description
-<!-- DESCRIPTION -->
 
-# Garden
+## Garden
 
-Gardens of the House of Augustus, Palatine
+Garden of the House of Augustus, Palatine
 
 ### Keywords
 
@@ -47,6 +39,7 @@ Gardens of the House of Augustus, Palatine
 - [princeps](https://www.britannica.com/topic/princeps)
 - [topiary](http://vocab.getty.edu/page/aat/300061887)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+
 
 ### Garden Description
 
@@ -62,39 +55,34 @@ In the [House of Livia](https://parcocolosseo.it/en/marvels/the-house-of-livia/)
 
 Finally, both the inventor of the [*ars topiaria*](https://en.wikipedia.org/wiki/Topiary), the art of shaping plants into varied forms by trimming their foliage, [C. Matius](https://en.wikipedia.org/wiki/Gaius_Matius), whom Pliny defines as  "divi Augusti amicus" (*HN*, 12,1 3), and the inventor of garden painting, Studius (or Ludius) (Pliny *HN*, 35.16; Vitr., VII.5.2), were active during the Augustan period, thereby strengthening a connection between the emperor and garden spaces.
 
-## Dates
+### Dates
 
 1st century BCE
 
-## Bibliography
+### Bibliography
 
 <!--
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-### Periodo ID
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-### Pleiades ID
+#### Pleiades ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### TGN ID
+#### TGN ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
 
-## Contributor
+### Contributor
 
 M.-A. Tomei
 
-### ORCID
+#### ORCID
 
 <!-- [ORCID](https://orcid.org/ORCID) -->
 
-## Publication date
-15 APRIL 2021
+### Publication date
 
-<!-- DATE -->
+15 APRIL 2021

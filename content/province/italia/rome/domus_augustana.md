@@ -8,33 +8,27 @@ editor: Rhiannon Pare
 draft: true
 ---
 
-# Province
+## Province
 
 [ITALIA]({{<relref "..">}})\
 [ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
 [ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
-## Province Description
-
-
-# Location
+## Location
 
 [Rome]({{<relref ".">}}) \
-[Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
-## Location Description
+## Sublocation
+
+Palatine Hill \
+[Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
 
-# Sublocation
 
-[Palatine Hill]({{<relref ".">}}) \
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
+## Garden
 
-## Sublocation Description
-
-# Garden
-
-Domus Augustana, Palatine
+Garden of the Domus Augustana, Palatine
 
 ### Keywords
 
@@ -55,6 +49,7 @@ Domus Augustana, Palatine
 - [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 - [terraces](http://vocab.getty.edu/page/aat/300004182)
 
+
 ### Garden Description
 
 Lower Peristyle
@@ -69,24 +64,25 @@ In the upper peristyle garden in the middle of a large rectangular [pool](http:/
 ### Figures
 
 
-## Dates
+### Dates
 
 
 
-## Bibliography
+### Bibliography
 
 
-### Pleiades ID
+#### Pleiades ID
 
 [Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-## Contributor
+### Contributor
 
 M.-A. Tomei
 
-### ORCID
+#### ORCID
 
 
 
-## Publication date
+### Publication date
+
  15 APRIL 2021
