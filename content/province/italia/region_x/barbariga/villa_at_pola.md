@@ -1,11 +1,11 @@
 ---
-title: Villa at Pola"
+title: "Villa at Pola"
 date: 2020-12-10T12:00:02-05:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Annalisa Marzano
 editor: Zhenrui Mei
-draft: false
+draft: true
 
 categories:
  - "Italia"
@@ -26,7 +26,7 @@ tags:
 
 ## Province
 
-[Italia]({{<relref "../../../..">}})
+[Italia]({{<relref "../..">}})
 
 <!--### Province Description-->
 
@@ -35,8 +35,8 @@ tags:
 
 ## Location
 
-[BARBARIGA]({{<relref "../../..">}}) \
-[BARBARIGA (Pleiades)](https://pleiades.stoa.org/places/383781)
+[Barbariga]({{<relref ".">}}) \
+[Barbariga (Pleiades)](https://pleiades.stoa.org/places/383781)
 
 <!--### Location Description-->
 
@@ -44,7 +44,7 @@ tags:
 
 ## Sublocation
 
-[Region X]({{<relref ".">}})
+[Region X]({{<relref "..">}})
 
 <!--### Sublocation Description-->
 

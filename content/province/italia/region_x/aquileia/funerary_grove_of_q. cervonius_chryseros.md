@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: Zhenrui Mei
-draft: false
+draft: true
 
 categories:
  - "Italia"
@@ -18,7 +18,7 @@ tags:
 
 ## Province
 
-[Italia]({{<relref "../../../..">}})
+[Italia]({{<relref "../..">}})
 
 <!--### Province Description-->
 
@@ -27,7 +27,7 @@ tags:
 
 ## Location
 
-[Aquileia]({{<relref "../../..">}}) \
+[Aquileia]({{<relref ".">}}) \
 [Aquileia (Pleiades)](hhttps://pleiades.stoa.org/places/187290)
 
 <!--### Location Description-->
@@ -36,7 +36,7 @@ tags:
 
 ## Sublocation
 
-[Region X]({{<relref ".">}})
+[Region X]({{<relref "..">}})
 
 <!--### Sublocation Description-->
 

@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
 editor: Zhenrui Mei
-draft: false
+draft: true
 
 categories:
  - "Italia"
@@ -19,7 +19,7 @@ tags:
 
 ## Province
 
-[Italia]({{<relref "../../../..">}})
+[Italia]({{<relref "../..">}})
 
 <!--### Province Description-->
 
@@ -28,8 +28,8 @@ tags:
 
 ## Location
 
-[ALTINUM]({{<relref "../../..">}}) \
-[ALTINUM (Pleiades)](https://pleiades.stoa.org/places/197110)
+[Altinum]({{<relref ".">}}) \
+[Altinum (Pleiades)](https://pleiades.stoa.org/places/197110)
 
 <!--### Location Description-->
 
@@ -37,7 +37,7 @@ tags:
 
 ## Sublocation
 
-[Region X]({{<relref ".">}})
+[Region X]({{<relref "..">}})
 
 <!--### Sublocation Description-->
 
@@ -99,6 +99,7 @@ unspecified
 ### Contributor
 
 Sean Gillies (https://pleiades.stoa.org/author/sgillies)
+
 
 ### Publication date
 
