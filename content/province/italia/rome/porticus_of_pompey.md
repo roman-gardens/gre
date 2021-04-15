@@ -10,30 +10,25 @@ draft: false
 
 ## Province
 
-[Italia]({{<relref"../../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
-
-## Region
-
-Region I \
-[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[ITALIA]({{<relref "..">}})\
+[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
+[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
+[Rome]({{<relref ".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
-
-<!-- ### Location Description -->
 
 ## Sublocation
 
-Region IX <!-- Pleiades link?-->
+Region IX
 
-<!-- ### Sublocation Description -->
+
 
 ## Garden
 
-Porticus of Pompey \
-[Porticus Pompey (Pleiades)](https://pleiades.stoa.org/places/165546433)
+Garden of the Porticus of Pompey \
+[Porticus Pompei (Pleiades)](https://pleiades.stoa.org/places/165546433)
 
 ### Keywords
 
@@ -43,10 +38,12 @@ Porticus of Pompey \
 - [scaenae frons](http://vocab.getty.edu/page/aat/300083030)
 - [viridarium](#)
 
+- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
+
 
 ### Garden Description
 
-Completed in 55 BCE on the [Campus Martius](https://en.wikipedia.org/wiki/Campus_Martius), the *Porticus* of Pompey was Rome’s first public park (Plin. *HN* 37.6.13; [Propertius 2.32.11](http://data.perseus.org/citations/urn:cts:latinLit:phi0620.phi001.perseus-lat2:2.32); [Vitruvius *De Arch.* 5.9.1](https://bit.ly/VitruviusE5)). Funded by the eastern victories of the general [Gnaeus Pompeius](https://en.wikipedia.org/wiki/Gnaeus_Pompeius_Strabo), the [*porticus*](http://vocab.getty.edu/page/aat/300004145) comprised a double [*nemus*](https://en.wiktionary.org/wiki/nemus), enclosed by a [*quadriporticus*](http://vocab.getty.edu/page/aat/300004101), and a [*curia*](https://en.wikipedia.org/wiki/Curia). The western end of the complex featured his theater-temple complex. The theater was the first permanent stone theater constructed in Rome; its [*cavea*](http://vocab.getty.edu/page/aat/300004734) served as the steps to Pompey’s victory temple, dedicated to his protector, Venus Victrix. Caesar was murdered in the *porticus* on March 15, 44 BCE at the foot of the statue of his rival in front of the *curia* ([Cicero *Div.* 2.23](http://data.perseus.org/citations/urn:cts:latinLit:phi0474.phi053.perseus-eng1:2.23); [Suetonius *Iul.* 88](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo011.perseus-eng1:88); [Plutarch *Caes.* 66](http://data.perseus.org/citations/urn:cts:greekLit:tlg0007.tlg048.perseus-eng1:66)). The *porticus* is known primarily from the marble plan and ancient sources, but archaeological evidence for ancient garden levels was discovered during work under the Teatro Argentina in 1968-9. The only archaeological remains of the porticus currently visible are the back of the curia and the adjacent latrines just to the west of the Republican temples of [L’Area Sacra di Largo Argentina](https://www.digitalaugustanrome.org/records/area-sacra-largo-argentina/).
+Completed in 55 BCE on the [Campus Martius](https://en.wikipedia.org/wiki/Campus_Martius), the *Porticus of Pompey* was Rome’s first public park ([Plin. *HN* 37.6.13](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:37.6); [Propertius 2.32.11](http://data.perseus.org/citations/urn:cts:latinLit:phi0620.phi001.perseus-lat2:2.32); [Vitruvius *De Arch.* 5.9.1](http://data.perseus.org/citations/urn:cts:latinLit:phi1056.phi001.perseus-lat1:5.9.1)). Funded by the eastern victories of the general [Gnaeus Pompeius](https://en.wikipedia.org/wiki/Gnaeus_Pompeius_Strabo), the [*porticus*](http://vocab.getty.edu/page/aat/300004145) comprised a double [*nemus*](https://en.wiktionary.org/wiki/nemus), enclosed by a [*quadriporticus*](http://vocab.getty.edu/page/aat/300004101), and a [*curia*](https://en.wikipedia.org/wiki/Curia). The western end of the complex featured his theater-temple complex. The theater was the first permanent stone theater constructed in Rome; its [*cavea*](http://vocab.getty.edu/page/aat/300004734) served as the steps to Pompey’s victory temple, dedicated to his protector, Venus Victrix. Caesar was murdered in the *porticus* on March 15, 44 BCE at the foot of the statue of his rival in front of the *curia* ([Cicero *Div.* 2.23](http://data.perseus.org/citations/urn:cts:latinLit:phi0474.phi053.perseus-eng1:2.23); [Suetonius *Iul.* 88](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo011.perseus-eng1:88); [Plutarch *Caes.* 66](http://data.perseus.org/citations/urn:cts:greekLit:tlg0007.tlg048.perseus-eng1:66)). The *porticus* is known primarily from the marble plan and ancient sources, but archaeological evidence for ancient garden levels was discovered during work under the Teatro Argentina in 1968-9. The only archaeological remains of the *porticus* currently visible are the back of the curia and the adjacent latrines just to the west of the Republican temples of [L’Area Sacra di Largo Argentina](https://www.digitalaugustanrome.org/records/area-sacra-largo-argentina/).
 
 [Vitruvius](https://en.wikipedia.org/wiki/Vitruvius) noted that a *porticus* was often attached to a theater, as in the case of the *Porticus of Pompey*, to shade the audience from rain ([*De Arch.* 5.9.1](https://bit.ly/VitruviusE5)) and that the planted open space (*virid[i]aria*) of the *porticus* provided health-benefits, particularly in clearing the eyes. (*De Arch.* 5.9.5).
 
@@ -110,4 +107,4 @@ unspecified
 
 ### Publication date
 
-unspecified
+15 APRIL 2021

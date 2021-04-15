@@ -8,24 +8,27 @@ editor: Rhiannon Paré
 draft: true
 ---
 
-# Province
+## Province
 
 [ITALIA]({{<relref "..">}})\
 [ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)
 [ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
-# Location
+## Location
 
-[ROMA]({{<relref ".">}}) \
-[ROMA (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Rome]({{<relref ".">}}) \
+[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
-# Sublocation
+## Sublocation
 
-[PALATINE HILL (Pleiades)](https://pleiades.stoa.org/places/971691208)
+Palatine Hill \
+[Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-# Garden
 
-Gardens of the Temple of Elagabalus, Palatine
+
+## Garden
+
+Garden of the Temple of Elagabalus, Palatine
 
 ### Keywords
 
@@ -43,6 +46,7 @@ Gardens of the Temple of Elagabalus, Palatine
 - [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 
 - [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
+
 
 ### Garden Description
 
@@ -82,11 +86,11 @@ Figure 17. Reconstruction of part of the temple garden. Watercolor by J.-M. Gass
 
 Figure 18. Reconstruction of a tree and planting bed in the temple garden. Watercolor by J.-M. Gassend, based on the computer-generated reconstruction by P. Veltri and N. André, in collaboration with F. Villedieu.
 
-## Dates
+### Dates
 
 c. 190- 240 CE
 
-## Bibliography
+### Bibliography
 
 * F. Chausson, “Le site de la Vigna Barberini de 191 à 455” in *La Vigna Barberini I. Histoire d’un site. Étude des sources et de la topographie*, Rome, 1997, pp. 31-85.[(worldcat)](http://www.worldcat.org/oclc/1000676783)
 * M. Royo, “Constructions antérieures au grand temple «sévérien»” in *La Vigna Barberini I*, op. cit., pp. 21-26 (Adonea). [(worldcat)](http://www.worldcat.org/oclc/1000676783)
@@ -95,17 +99,14 @@ c. 190- 240 CE
 * G. Rizzo, “Le anfore utilizzate come vasi da fiori nei giardini del tempio” in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, p. 98. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
 * F. Villedieu, *La Vigna Barberini II- Domus, palais impérial et temples: stratigraphie du secteur nord-est du Palatin*, Rome, 2007 (RomaAntica, 6). [worldcat](http://www.worldcat.org/oclc/643147049)
 
-### Pleiades ID
+#### Pleiades ID
 
 [Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-## Contributor
+### Contributor
 
- Françoise Villedieu
-
-### ORCID
-
-<!-- [ORCID](https://orcid.org/ORCID) -->
+Françoise Villedieu
 
 ## Publication date
+
 15 APRIL 2021

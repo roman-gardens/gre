@@ -20,29 +20,24 @@ tags:
 
 ## Province
 
-[Italia]({{<relref"../../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
-
-## Region
-
-Region I \
-[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[ITALIA]({{<relref "..">}})\
+[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)
+[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
+[Rome]({{<relref ".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
-
-<!-- ### Location Description -->
 
 ## Sublocation
 
-Region III <!-- Pleiades link?-->
+Region III
 
-<!-- ### Sublocation Description -->
+
 
 ## Garden
 
-Domus Aurea \
+Garden of the Domus Aurea \
 [Domus Aurea (Pleiades)](https://pleiades.stoa.org/places/410440793)
 
 ### Keywords
@@ -56,6 +51,7 @@ Domus Aurea \
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [stagnum (man-made lake)](http://vocab.getty.edu/page/aat/300263360)
 - [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
+
 
 ### Garden Description
 
@@ -113,4 +109,4 @@ unspecified
 
 ### Publication date
 
-unspecified
+15 APRIL 2021

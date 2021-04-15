@@ -8,33 +8,27 @@ editor: Rhiannon Pare
 draft: true
 ---
 
-# Province
+## Province
 
 [ITALIA]({{<relref "..">}})\
 [ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
 [ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
-## Province Description
-
-
-# Location
+## Location
 
 [Rome]({{<relref ".">}}) \
-[Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
-## Location Description
+## Sublocation
+
+Palatine Hill
+[Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
 
-# Sublocation
 
-[Palatine Hill]({{<relref ".">}}) \
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
+## Garden
 
-## Sublocation Description
-
-# Garden
-
-The Stadium, Palatine
+Stadium Garden of the Flavian Palace, Palatine
 
 ### Keywords
 
@@ -42,7 +36,7 @@ The Stadium, Palatine
 
 ### Garden Description
 
-An important garden area in the Flavian palace was the so-called "Stadium", actually a *hippodromus*, as late authors in fact called it. This term, which is often used with regard to major villas, usually indicates an elongated rectangular space marked by a wide annular avenue, lesser avenues and flowerbeds. These structures (the Palatine is one of the most representative example) derive from the gymnasia of the Greek world (Vitr.V,11) and were characterized by a portico-avenue intended for promenading and the viewing of a succession of panoramas.
+An important garden area in the Flavian Palace was the so-called "Stadium", actually a *hippodromus*, as late authors in fact called it. This term, which is often used with regard to major villas, usually indicates an elongated rectangular space marked by a wide annular avenue, lesser avenues and flowerbeds. These structures (the Palatine is one of the most representative example) derive from the gymnasia of the Greek world (Vitr.V,11) and were characterized by a portico-avenue intended for promenading and the viewing of a succession of panoramas.
 
 The Palatine hippodrome, which has the form of an elongated courtyard  (m. 160 x 48) with a rounded end, is surrounded by a portico of a later date supported by pillars and columns (Fig. 12). In the middle there was a large avenue (gestatio) for promenades: on foot, in litters or in carriages, according to a custom documented by Martial (I,12,82) and Juvenal (VIII,178). We know that these gestationes were furnished as art galleries with many statues and other decorations. Among the numerous sculptures that once adorned this garden were discovered a head of Apollo, a veiled head of the Sosandra type, a Hygieia Hope, the statue of the Hera Borghese type (Fig. 13) and two seated nymphs.
 
@@ -53,24 +47,25 @@ At the ends of the Hippodrome the remains of two semicircular fountains are part
 ### Figures
 
 
-## Dates
+### Dates
 
 
 
-## Bibliography
+### Bibliography
 
 
-### Pleiades ID
+#### Pleiades ID
 
 [Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-## Contributor
+### Contributor
 
 M.-A. Tomei
 
-### ORCID
+#### ORCID
 
 
 
-## Publication date
- 15 APRIL 2021
+### Publication date
+
+15 APRIL 2021
