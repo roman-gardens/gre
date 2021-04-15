@@ -19,32 +19,19 @@ tags:
 [ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
 [ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
-## Province Description
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 # Location
 
 [Rome]({{<relref ".">}}) \
 [Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
-
-## Location Description
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 # Sublocation
 
 [Palatine Hill]({{<relref ".">}}) \
 [Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-## Sublocation Description
-
-<!-- DESCRIPTION -->
-
 # Garden
 
-Gardens of the House of Augustus, Palatine<!-- List of gardens in province -->
-<!-- May be left blank for now -->
+Vigna Barberini Site Overview, Palatine
 
 ### Keywords
 
@@ -57,16 +44,15 @@ Gardens of the House of Augustus, Palatine<!-- List of gardens in province -->
 
 The artificial [terrace](http://vocab.getty.edu/page/aat/300004182) that now carries the [Barberini family](https://en.wikipedia.org/wiki/Barberini_family) name is located on the northeastern corner of the Palatine, beyond the visible remains of the [Flavian Imperial palace](https://en.wikipedia.org/wiki/Flavian_Palace) (Fig. 1). Excavations carried out during the 1930s by A. Bartoli, and in the 1950s by G. F. Carettoni concentrated primarily on the central area of this site.  These campaigns revealed the foundations of a large temple, which Bartoli identified, consistent with the earlier ideas of P. Bigot, as the remains of the late second-century [Temple of Elagabalus](https://en.wikipedia.org/wiki/Elagabalium).
 
-Recent investigations by the [*Soprintendenza Archeologica*](http://www.sabap-rm-met.beniculturali.it/) in collaboration with [*École française de Rome*](https://www.efrome.it/) have revealed further episodes of the history of the area.  
+Investigations by the [*Soprintendenza Archeologica*](http://www.sabap-rm-met.beniculturali.it/) in collaboration with [*École française de Rome*](https://www.efrome.it/) since 1985 have revealed further episodes of the history of the area. Approximately one third of the site has been explored, although the most ancient levels have been reached only sporadically (Fig. 2).  
 
-Approximately one third of the site has been explored, although the most ancient levels have been reached only sporadically (Fig. 2).  The information gathered during the campaigns carried out annually between 1985 and 1999 are at present being analyzed, with the result that some of the information presented here must be considered provisional.
 The excavations that reached levels prior to the rise of the Empire revealed a peristyle of a large [*domus*](http://vocab.getty.edu/page/aat/300005506) once decorated with plants and basins. Probably destroyed during the 60s of the first century CE, this luxurious dwelling was then buried under thick layers of soil used to create an artificial terrace that was a grand garden of the [Palace of Domitian](https://en.wikipedia.org/wiki/Palace_of_Domitian).  About a century later, during the last years of the second century, this section of the Imperial palace was demolished to make room for a monumental complex centered around a temple dedicated by the emperor [Heliogabalus](https://en.wikipedia.org/wiki/Elagabalus) to the eastern god, [Elagabalus](https://en.wikipedia.org/wiki/Elagabalus_(deity)), later rededicated by [Severus Alexander](https://en.wikipedia.org/wiki/Severus_Alexander) to Jupiter Ultor.
 
 ### Figures
 
- {{< figure src="../images/vigna_barberini_fig1.jpg" alt="Aerial photograph of the Vigna Barberini" title="Figure 1. Aerial photograph of the Vigna Barberini taken early 1999.." >}}
+{{< figure src="../images/vigna_barberini_fig1.jpg" alt="Aerial photograph of the Vigna Barberini" title="Figure 1. Aerial photograph of the Vigna Barberini taken early 1999.." >}}
 
-{{< figure src="../images/vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" title="Figure 2. Vigna Barberini: plan of the areas explored from 1985 to 1998.." >}}
+{{< figure src="../images/vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" title="Figure 2. Vigna Barberini: Plan of the areas explored from 1985 to 1998.." >}}
 
 ## Dates
 

@@ -45,9 +45,8 @@ html {
 
 body {
 	margin: 0;
-	font-family: "Garamond", "Palatino", serif; /* "Open Sans", Helvetica, Arial, sans-serif; */
-	font-size: 14px;
-	font-size: .875rem;
+	font-family: "Georgia", "Palatino", serif; /* "Open Sans", Helvetica, Arial, sans-serif; */
+	font-size: 12pt;
 	line-height: 1.6;
 	word-wrap: break-word;
 	background: #f7f7f7;

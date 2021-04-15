@@ -9,8 +9,9 @@ draft: false
 
 categories:
 - "Italia"
+
 tags:
- - "basin"
+ - "basins (vessels)"
  - "gutters (building drainage components)"
  - "porticoes"
 ---
@@ -51,7 +52,7 @@ V.iv.3
 ### Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [basin](http://vocab.getty.edu/page/aat/300386845)
+- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 
 
 ### Garden Description
@@ -69,7 +70,7 @@ At the rear of this house excavated in 1899 was a courtyard garden (a) with a *p
 Unspecified
 
 #### Excavation Dates
-1899CE
+1899
 
 ### Bibliography
 * Jashemski, *Gardens*, vol.II, p. 116.[(worldcat)](http://www.worldcat.org/oclc/1029851777)

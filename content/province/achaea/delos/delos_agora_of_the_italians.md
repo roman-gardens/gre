@@ -50,7 +50,7 @@ The Agora of the Italians was most probably constructed between 130-120 B.C., pa
 
 The exploration of the vast courtyard during the early excavations between 1877 and 1905 was considered disappointing because very few objects were found. Large parts of the courtyard seem to have been dug up, but remains of plants, shrubs or trees were not recorded because they were probably not recognized or of sufficient interest. To this day, the courtyard is often overgrown with plants, flowers, and small trees. Future specialized investigation of the courtyard might definitely prove the existence of plants, but for the moment the following evidence for a garden can be cited.
 
-The courtyard contained perhaps as many as eight wells, three of which are still visible today and five of which were tentatively identified in recent geophysical examinations.  The area of the former swamp was still sufficiently humid and could have supplied the necessary water for plants. Although many Hellenistic squares and agorai were not paved, the lack of a pavement is remarkable within the context of Delos. In the last third of the second century B.C. all heavily frequented squares, streets, and quays, which were especially used for commerce and trade, were fully paved with large gneiss slabs. Since the Italians spared no expenses in constructing their first agora or in embellishing it later on, the unpaved floor of the courtyard cannot be due to financial shortcomings, but must have been chosen deliberately to meet a specific purpose. The courtyard lacks a sewer to dispose of waste and especially rain water. The wastewater of the later bath suite (room 27) was not emptied into the sewer of the nearby street, as usual, but was instead drained into the courtyard. Therefore, all available water seems to have been deliberately used to irrigate a garden. Comparisons with other buildings show that the original building of the Agora of the Italians has nothing in common with civic-political agorai, or specific commercial markets, or palaestrae, but resembles much larger ambulatory garden-peristyles of Hellenistic palaces (e.g. Aigai, Pella, Jericho) and Late Republican houses in the Vesuvian area or the lavish garden-porticus in Rome such as the Porticus Pompei and the Porticus Liviae.  Like these, the Agora of the Italians was most probably conceived and used as a public park for all kinds of agreeable meetings and sojourns.
+The courtyard contained perhaps as many as eight wells, three of which are still visible today and five of which were tentatively identified in recent geophysical examinations. The area of the former swamp was still sufficiently humid and could have supplied the necessary water for plants. Although many Hellenistic squares and agorai were not paved, the lack of a pavement is remarkable within the context of Delos. In the last third of the second century B.C. all heavily frequented squares, streets, and quays, which were especially used for commerce and trade, were fully paved with large gneiss slabs. Since the Italians spared no expenses in constructing their first agora or in embellishing it later on, the unpaved floor of the courtyard cannot be due to financial shortcomings, but must have been chosen deliberately to meet a specific purpose. The courtyard lacks a sewer to dispose of waste and especially rain water. The wastewater of the later bath suite (room 27) was not emptied into the sewer of the nearby street, as usual, but was instead drained into the courtyard. Therefore, all available water seems to have been deliberately used to irrigate a garden. Comparisons with other buildings show that the original building of the Agora of the Italians has nothing in common with civic-political agorai, or specific commercial markets, or palaestrae, but resembles much larger ambulatory garden-peristyles of Hellenistic palaces (e.g. Aigai, Pella, Jericho) and Late Republican houses in the Vesuvian area or the lavish garden-porticus in Rome such as the Porticus Pompei and the Porticus Liviae. Like these, the Agora of the Italians was most probably conceived and used as a public park for all kinds of agreeable meetings and sojourns.
 
 The porticoes, and maybe even the courtyard, were decorated with statues. Most of the nearly 240 sculptural fragments found within the confines and in the immediate neighborhood of the Agora seem to come from honorary statues, which were mostly presented in the rectangular and semicircular statue niches, but also outside of them, probably in the porticoes. However, some fragments belonged to historical-political monuments (e.g., at least two or even as many as six statues of Celts) and to decorative sculpture suited for a garden (e.g., Dionysos, Satyr/Apollo/Pothos, herms). These statues could have been placed either in the porticoes or in the courtyard.
 
@@ -62,14 +62,14 @@ Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora
 -->
 
 ### Plans
-{{< figure src="../images/delos_fig1_agora_italians.jpg" alt="Plan of the agora" title="Fig. 1: Agora of the Italians, reconstructed plan of the original building (first phase), 1:500. Drawing by M. Trümper." >}}
+{{< figure src="../images/truemper1.png" alt="Plan of the agora" title="Fig. 1: Agora of the Italians, reconstructed plan of the original building (first phase). Drawing by M. Trümper." >}}
 
-{{< figure src="../images/delos_fig2_agora_italians.jpg" alt="Plan of the agora with surrounding buildings" title="Fig. 2: Agora of the Italians, reconstructed plan, 1:500. Drawing by M. Trümper after Ét. Lapalus 1939, Fig. 2. Permission courtesy of Michèle Brunet, École Française d’Athènes." >}}
+{{< figure src="../images/truemper2.png" alt="Plan of the agora with surrounding buildings" title="Fig. 2: Agora of the Italians, reconstructed plan. Drawing by M. Trümper after Ét. Lapalus 1939, Fig. 2." >}}
 
 ### Images
-{{< figure src="../images/delos_fig3_agora_italians_sw.jpg" alt="Photo of Agora of the Italians from the southwest" title="Fig. 3 : Agora of the Italians, overview from southwest. Photo courtesy of M. Trümper." >}}
+{{< figure src="../images/truemper3.png" alt="Photo of Agora of the Italians from the southwest" title="Fig. 3: Agora of the Italians, overview from southwest. Photo courtesy of M. Trümper." >}}
 
-{{< figure src="../images/delos_fig4_agora_italians_se.jpg" alt="Photo of Agora of the Italians from the southeast" title="Fig. 4:  Agora of the Italians, overview from southeast. Photo courtesy of M. Trümper." >}}
+{{< figure src="../images/truemper4.png" alt="Photo of Agora of the Italians from the southeast" title="Fig. 4:  Agora of the Italians, overview from southeast. Photo courtesy of M. Trümper." >}}
 
 ### Dates
 2nd-1st c. BCE
@@ -78,12 +78,17 @@ Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora
 - P. Roussel and M. Launey, *Inscriptions de Délos*. Paris, 1937.
 - Ét. Lapalus, *L’Agora des Italiens.* Exploration archéologique de Délos XIX. Paris, 1939.
 - J. Marcadé, *Au Musée de Délos. Étude de la sculpture hellénistique en ronde bosse découverte dans l’île.* BEFAR 215, 1969.
-- I. Nielsen, *Hellenistic Palaces. Tradition and Renewal.* Studies in Hellenistic Civilization V. Aarhus, 1994.
 - E. M. Steinby, ed., *LTUR* IV, Roma, 1999.
 - A. Sarris, “L’Agora des Italiens,” *BCH* 125, 2001: 612-615
 - J. Marcadé and F. Queyrel, “Le Gaulois blessé de Délos reconsidéré,” *MonPiot* 82, 2003: 5-97.
 - Ph. Bruneau and J. Ducat, *Guide de Délos.* École française d Athènes. 4th edition, Paris, 2005.
-- M. Trümper, "Die Agora des Italiens," in *Delos. Baugeschichte, Architektur, Ausstattung und Funktion einer späthellenistischen Porticus-Anlage.* Internationale Archäologie 104. Rahden/Westfalen, 2008.
+- M. Trümper, *Die 'Agora des Italiens' in Delos. Baugeschichte, Architektur, Ausstattung und Funktion einer späthellenistischen Porticus-Anlage.* Internationale Archäologie 104. Rahden/Westfalen, 2008.
+- M. Trümper, *Graeco-Roman slave markets. Fact or Fiction.* Oxford, 2009.
+- S. Montel, "Représentations italiennes à Délos. Les niches de l'agora des Italiens,"" in: M. Simon (ed.), *Identités romaines. Conscience de soi et représentations de l'autre dans la Rome antique (IVe siècle av. J.-C. - VIIIe siècle apr. J.-C.).* Paris, 2011: 243–254.
+- M. Trümper, "The honorific practice of the 'Agora of the Italians' in Delos", in: J. Griesbach (ed.), *Polis und Porträt. Standbilder als Medien der öffentlichen Repräsentation im hellenistischen Osten.* Wiesbaden, 2014: 69–85.
+- F. Coarelli, *I mercanti nel tempio. Delo. Culto, politica, commercio.* Athens, 2016.
+- F. Herbin, "Die Statue des Ofellius," in: F. Queyrel – R. von den Hoff (eds.), *Das Leben griechischer Porträts. Porträtstatuen des 5. bis 1. Jhs. v. Chr.* Bildnispraktiken und Neu-Kontextualisierungen. Paris, 2019: 326–335.
+
 
 <!--#### Periodo ID-->
 
