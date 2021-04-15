@@ -33,7 +33,7 @@ Region IX <!-- Pleiades link?-->
 ## Garden
 
 Porticus of Pompey \
-[Porticus Pompei (Pleiades)](https://pleiades.stoa.org/places/165546433)
+[Porticus Pompey (Pleiades)](https://pleiades.stoa.org/places/165546433)
 
 ### Keywords
 

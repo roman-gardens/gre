@@ -20,23 +20,15 @@ tags:
 [ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
 [ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
-## Province Description
-
-
 # Location
 
 [Rome]({{<relref ".">}}) \
 [Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
 
-## Location Description
-
-
 # Sublocation
 
 [Palatine Hill]({{<relref ".">}}) \
 [Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
-
-## Sublocation Description
 
 # Garden
 
