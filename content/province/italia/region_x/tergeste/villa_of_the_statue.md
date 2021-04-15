@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Annalisa Marzano
 editor: Zhenrui Mei
-draft: false
+draft: true
 
 categories:
  - "Italia"
@@ -13,7 +13,7 @@ categories:
 
 ## Province
 
-[Italia]({{<relref "../../../..">}})
+[Italia]({{<relref "../..">}})
 
 <!--### Province Description-->
 
@@ -22,7 +22,7 @@ categories:
 
 ## Location
 
-[Tergeste]({{<relref "../../..">}}) \
+[Tergeste]({{<relref ".">}}) \
 [Tergeste (Pleiades)](https://pleiades.stoa.org/places/187578)
 
 <!--### Location Description-->
@@ -31,7 +31,7 @@ categories:
 
 ## Sublocation
 
-[Region X]({{<relref ".">}})
+[Region X]({{<relref "..">}})
 
 <!--### Sublocation Description-->
 
@@ -71,7 +71,7 @@ A villa dating from the first century B.C. to at least the time of Marcus Aureli
 
 During nineteenth century excavations, fragments of two superimposed wall paintings were recovered in Room C. The outer layer is not well enough preserved to identify any subject, but the preserved fragments beneath show branches and leaves with colored backgrounds of light blue, red, yellow and white.  It is, therefore, possible that this cycle of painting depicted a garden, echoing the view of the real plantings visible through the doorway.
 
-North of the peristyle was the bath quarter (Fig. 1: G, H, I, M, P), but it is not completely clear how the two parts of the villa were connected.  In a partially excavated Tuscan type atrium (G) with an impluvium, several fragments of a marble torso were recovered, possible from a copy of the Polykleitan Doryphoros or Diadumenos.   On the west side of the villa facing the sea was a porticoed garden (Z) and large semicircular exedra (24 m in diameter).  Under the mosaic floor of this exedra are traces of an earlier room (Fig. 1: a) with a mosaic floor.  On axis with the center of the exedra and garden was a triclinium (6.2 x 12 m) with a black-and-white mosaic floor.  Another exedra (7.5 x 15 m), with a black-and-white mosaic floor, had large windows looking to the sea, and beside it a staircase leading to the water’s edge and to a dock.
+North of the peristyle was the bath quarter (Fig. 1: G, H, I, M, P), but it is not completely clear how the two parts of the villa were connected.  In a partially excavated Tuscan type atrium (G) with an impluvium, several fragments of a marble torso were recovered, possible from a copy of the Polykleitan Doryphoros or Diadumenos.  On the west side of the villa facing the sea was a porticoed garden (Z) and large semicircular exedra (24 m in diameter).  Under the mosaic floor of this exedra are traces of an earlier room (Fig. 1: a) with a mosaic floor.  On axis with the center of the exedra and garden was a triclinium (6.2 x 12 m) with a black-and-white mosaic floor.  Another exedra (7.5 x 15 m), with a black-and-white mosaic floor, had large windows looking to the sea, and beside it a staircase leading to the water’s edge and to a dock.
 
 
 <!--### Maps-->

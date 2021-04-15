@@ -1,11 +1,11 @@
 ---
-title: "House of Grotto of catullus"
+title: "House of Grotto of Catullus"
 date: 2020-12-10T12:00:02-05:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: E. Roffia
 editor: Zhenrui Mei
-draft: false
+draft: true
 
 categories:
  - "Italia"
@@ -40,7 +40,7 @@ tags:
 
 ## Province
 
-[Italia]({{<relref "../../../..">}})
+[Italia]({{<relref "../..">}})
 
 <!--### Province Description-->
 
@@ -49,7 +49,7 @@ tags:
 
 ## Location
 
-[Sirmio]({{<relref "../../..">}}) \
+[Sirmio]({{<relref ".">}}) \
 [Sirmio (Pleiades)](https://pleiades.stoa.org/places/383781)
 
 <!--### Location Description-->
@@ -58,7 +58,7 @@ tags:
 
 ## Sublocation
 
-[Region X]({{<relref ".">}})
+[Region X]({{<relref "..">}})
 
 <!--### Sublocation Description-->
 

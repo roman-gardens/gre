@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Annalisa Marzano
 editor: Zhenrui Mei
-draft: false
+draft: true
 
 categories:
  - "Italia"
@@ -13,7 +13,7 @@ categories:
 
 ## Province
 
-[Italia]({{<relref "../../../..">}})
+[Italia]({{<relref "../..">}})
 
 <!--### Province Description-->
 
@@ -22,7 +22,7 @@ categories:
 
 ## Location
 
-[Tergeste]({{<relref "../../..">}}) \
+[Tergeste]({{<relref ".">}}) \
 [Tergeste (Pleiades)](https://pleiades.stoa.org/places/187578)
 
 <!--### Location Description-->
@@ -31,7 +31,7 @@ categories:
 
 ## Sublocation
 
-[Region X]({{<relref ".">}})
+[Region X]({{<relref "..">}})
 
 <!--### Sublocation Description-->
 
