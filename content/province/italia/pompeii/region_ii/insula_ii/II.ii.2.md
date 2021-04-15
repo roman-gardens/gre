@@ -12,7 +12,7 @@ categories:
   - "Italia"
 tags:
  - "aedicules"
- - "amphorae"
+ - "amphorae (storage vessels)"
  - "arbors"
  - "atriums (Roman halls)"
  - "biclinia"
@@ -56,7 +56,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
  - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
  - [pergolas](http://vocab.getty.edu/page/aat/300006783)
  - [arbors](http://vocab.getty.edu/page/aat/300006781)
- - [amphorae](http://vocab.getty.edu/page/aat/300148696)
+ - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
  - [water supply systems](http://vocab.getty.edu/page/aat/300008618)
  - [fountains](http://vocab.getty.edu/page/aat/300006179)
 
