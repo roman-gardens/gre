@@ -65,11 +65,11 @@ _Wilhelmina Jashemski†, __Michèle Blanchard Lemée__ †__,_ _Abdelfattah Ich
 
 **Leigh Ann Bedal**
 
-_ **Armenia** _
+## Armenia
 
 **Catherine Kearns** , Divya Kumar-Dumas
 
-_ **Asia** _
+## Asia
 
 **Maureen Carroll** , Divya Kumar-Dumas, Isil Isiklikaya-Laubscher
 
@@ -166,9 +166,9 @@ _Clopper Almon_
 
 **Kathryn Gleason** , Kim Hartswick
 
-_Wilhelmina Jashemski†, Eugenia Salsa Prina Ricotti__†_
+_Wilhelmina Jashemski_†_, _Eugenia Salsa Prina Ricotti_†_
 
-**Rome** : **Elizabeth Macaulay,** Rhiannon Pare
+**Rome**: **Elizabeth Macaulay,** Rhiannon Pare
 
 **Vesuvian Sites** :, **Riccardo Olivetto** , Jessica Venner, Clare Campbell, Yukiko Kawamoto, Kaja Tally Schumacher, Yifan Li, _Wilhelmina Jashemski__†_
 
