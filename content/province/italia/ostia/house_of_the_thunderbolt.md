@@ -1,5 +1,5 @@
 ---
-title: "House of the Thunderbold (Domus Fulminata)"
+title: "House of the Thunderbolt (Domus Fulminata)"
 date: 2021-02-08T19:00:00-08:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -51,7 +51,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-House of the Thunderbold (Domus Fulminata)
+House of the Thunderbolt (Domus Fulminata)
 
 ### Keywords
 
