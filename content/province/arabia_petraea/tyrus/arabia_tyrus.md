@@ -52,9 +52,9 @@ Palace of Hyrcanus the Tobiad
 - [forecourt](http://vocab.getty.edu/page/aat/300004104)
 - [dovecotes](http://vocab.getty.edu/page/aat/300004975)
 - [palaces](http://vocab.getty.edu/page/aat/300005734)
+- [paradise gardens](http://vocab.getty.edu/page/aat/300008112)
 - [reflecting pools](http://vocab.getty.edu/page/aat/300179485)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [paradise gardens](http://vocab.getty.edu/page/aat/300008112)
 
 
 ### Garden Description
