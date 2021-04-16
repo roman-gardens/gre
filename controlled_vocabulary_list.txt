@@ -39,6 +39,7 @@ archaeological garden
 [courtyards](http://vocab.getty.edu/page/aat/300004095)
 [cryptoportici](http://vocab.getty.edu/page/aat/300004295)
 [cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367)
+[curia](http://vocab.getty.edu/page/aat/300006027)
 [ditches](http://vocab.getty.edu/page/aat/300006178)
 [drains](http://vocab.getty.edu/page/aat/300052564)
 [doghouses](http://vocab.getty.edu/page/aat/300004984)
@@ -52,6 +53,7 @@ archaeological garden
 [flower gardens](http://vocab.getty.edu/page/aat/300008135)
 [flowerpots](http://vocab.getty.edu/page/aat/300194749)
 [former reservoirs](http://vocab.getty.edu/page/aat/300386966)
+[foundations (structural elements)](http://vocab.getty.edu/page/aat/300000919)
 [fountains](http://vocab.getty.edu/page/aat/300006179)
 [frescoes (visual works)](http://vocab.getty.edu/page/aat/300177433)
 fulcrum
@@ -89,6 +91,7 @@ lychnophoros
 [monopodia](http://vocab.getty.edu/page/aat/300041194)
 [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
+[museums](http://vocab.getty.edu/page/aat/300005768)
 [nemus (grove)](http://vocab.getty.edu/page/aat/300008884)
 [niches (architectural elements)](http://vocab.getty.edu/page/aat/300002704)
 [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
