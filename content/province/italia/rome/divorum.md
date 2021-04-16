@@ -18,7 +18,7 @@ tags:
 
 ## Province
 
-[Italia]({{<relref"../../../..">}}) \
+[Italia]({{<relref"..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
 [Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
@@ -27,16 +27,16 @@ tags:
 [Rome]({{<relref".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
-<!-- ### Location Description -->
-
 ## Sublocation
 
 Region IX \
 [Campus Martius (Pleiades)](https://pleiades.stoa.org/places/422863)
 
+
+
 ## Garden
 
-Divorum
+Garden of the Divorum
 
 ### Keywords
 
@@ -47,6 +47,7 @@ Divorum
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 - [triumphal arch](http://vocab.getty.edu/page/aat/300007003)
+
 
 ### Garden Description
 

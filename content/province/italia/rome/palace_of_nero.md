@@ -8,33 +8,27 @@ editor: Rhiannon Pare
 draft: true
 ---
 
-# Province
+## Province
 
 [ITALIA]({{<relref "..">}})\
 [ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
 [ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
-## Province Description
-
-
-# Location
+## Location
 
 [Rome]({{<relref ".">}}) \
-[Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
-## Location Description
+## Sublocation
+
+Palatine Hill \
+[Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
 
-# Sublocation
 
-[Palatine Hill]({{<relref ".">}}) \
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
+## Garden
 
-## Sublocation Description
-
-# Garden
-
-Neronian Palace, Palatine
+Garden of the Neronian Palace, Palatine
 
 ### Keywords
 
@@ -57,6 +51,7 @@ Neronian Palace, Palatine
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 - [terraces](http://vocab.getty.edu/page/aat/300004182)
 
+
 ### Garden Description
 
 In the Neronian period the architecture and the size of gardens changed substantially, as did the building criteria and the urban organization of the city. With [Nero](https://www.britannica.com/biography/Nero-Roman-emperor) the Romans feared for the first time that Rome could become a single, grandiose residence. Suetonius informs that Nero, “having built for himself a house that extended from the Palatine to the Esquiline, first called it '*transitoria*'; then, when it was destroyed by fire, he had it rebuilt and called it '*aurea*' " ([Suet. *Nero*, 31](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:abo:phi,1348,016:31)). Even more than [Augustus' residence](https://en.wikipedia.org/wiki/House_of_Augustus), the expansive architecture of the Neronian [palace](http://vocab.getty.edu/page/aat/300005734) seems to derive from the *basileia* of Egyptian Alexandria, which is known to have occupied vast tracts of that city.
@@ -70,24 +65,25 @@ What must originally have been an open area with an elaborate [fountain](http://
 ### Figures
 
 
-## Dates
+### Dates
 
 1st century CE
 
-## Bibliography
+### Bibliography
 
 
 
-### Pleiades ID
+#### Pleiades ID
 
 [Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-## Contributor
+### Contributor
 
 M.-A. Tomei
 
-### ORCID
+#### ORCID
 
 
-## Publication date
+### Publication date
+
  15 APRIL 2021

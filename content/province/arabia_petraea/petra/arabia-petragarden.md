@@ -10,16 +10,16 @@ draft: false
 categories:
  - "Arabia Petraea"
 tags:
- - "archaeobotany"
- - "artificial islands"
- - "castelli aquae"
- - "colonnades"
- - "exedrae (site elements)"
- - "garden pavilions"
- - "horticultural containers"
- - "pergolas"
- - "terrace gardens"
- - "water features (landscaping)"
+- "archaeobotany"
+- "artificial islands"
+- "castelli aquae"
+- "colonnades"
+- "exedrae (site elements)"
+- "garden pavilions"
+- "horticultural containers"
+- "pergolas"
+- "terrace gardens"
+- "water features"
 ---
 
 ## Province
@@ -34,9 +34,9 @@ The region of Arabia Petraea is primarily a desert environment that belongs to t
 [Petra]({{<relref ".">}})\
 [Petra (Pleiades)](https://pleiades.stoa.org/places/697725)
 
-Petra is located approximately 80 kilometers southeast of the Dead Sea in modern Jordan. The ancient city is situated on the western slopes of the Sharā Mountain Range, in a wide basin surrounded by deeply eroded mountainous ridges of sandstone, with outcrops of limestone and porphyry that form a natural fortification.
+Petra, known to its ancient inhabitants as *Raqmu*, is located approximately 80 kilometers southeast of the Dead Sea in modern Jordan. The ancient city is situated on the western slopes of the Sharā Mountain Range, in a wide basin surrounded by deeply eroded mountainous ridges of sandstone, with outcrops of limestone and porphyry that form a natural fortification.
 
-The development of Petra as an important political, economic, and cultural center in the Near East during the Hellenistic-Roman periods (1st century BCE-2nd century CE) was ultimately the result of its strategic position on the crossroads of the major trade and communication routes that crossed the region (Fig. 1). Wadi Mousa, the narrow valley along which Petra developed, provided one of the few convenient and negotiable routes through the mountainous barrier allowing caravans to pass between the high desert plateau to the east and [Wādī ʻAraba](https://en.wikipedia.org/wiki/Arabah)  to the west. This strategic position on the crossroads of the desert trade routes made it possible for the inhabitants of Petra to establish control over the caravans that traveled between Arabia and the Mediterranean.
+The development of Petra as an important political, economic, and cultural center in the Near East during the Hellenistic-Roman periods (1st century BCE-2nd century CE) was ultimately the result of its strategic position on the crossroads of the major trade and communication routes that crossed the region (Fig. 1). Wadi Mousa, the narrow valley along which Petra developed, provided one of the few convenient and negotiable routes through the mountainous barrier allowing caravans to pass between the high desert plateau to the east and [Wādī ʻAraba](https://en.wikipedia.org/wiki/Arabah) to the west. This strategic position on the crossroads of the desert trade routes made it possible for the Nabataeans to establish control over the caravans that traveled between Arabia and the Mediterranean.
 <!--
 ##
 -->
@@ -77,7 +77,7 @@ To the south of the garden terrace, the sandstone hillside was quarried out to c
 
 The interior dimensions of the open-air pool measures 43 x 23 meters, and it is two and a half meters deep. Its interior walls and floor are lined with a thick coat of concrete such as is typically used to line Nabataean reservoirs and cisterns. A stone staircase is built into the northeast corner to facilitate entrance into the pool. At the center of the pool is an island-pavilion perched on top of a massive stone plinth (8.5 x 11 x 2.5 m). The pavilion is rectangular in plan with broad, open doorways on at least three sides. Interior columns with marble-faced bases supported the pavilion’s roof. Numerous fragments of painted red stucco, as well as some blue and white, provide some indication of the pavilion’s decorative color scheme. An interior channel or drain cuts diagonally across the floor to connect with a channel that encircles the exterior perimeter of the pavilion, just above the maximum water level of the pool. It is likely that this exterior channel was originally capped and functioned as an overflow channel between pavilion and pool.
 
-Excavations revealed an elaborate water distribution system incorporated into the design and construction of the pool. A holding tank perched on top of the eastern escarpment fed water to the pool and garden below. The pool’s north wall functioned as an aqueduct with channels and pipelines conducting water across the top of the wall to a *castellum*, or central holding tank and redistribution point built into the wall. Water then exited the *castellum* and was fed into stone channels that form part of an irrigation system for the garden that was laid out on the earthen terrace. In addition, two large capped channels cut into the bedrock along the eastern edge of the complex may be intended to direct excess or waste water into the wadi. What appears to be a large subterranean cistern fed and drained by pipelines has been identified through GPR in the southeastern quadrant of the terrace, but remains unexcavated.
+Excavations revealed an elaborate water distribution system incorporated into the design and construction of the pool. A holding tank perched on top of the eastern escarpment fed water to the pool and garden below. The pool’s north wall functioned as an aqueduct with channels and pipelines conducting water across the top of the wall to a *castellum auquae*, or central holding tank and redistribution point built into the wall. Water then exited the *castellum* and was fed into stone channels that form part of an irrigation system for the garden that was laid out on the earthen terrace. In addition, two large capped channels cut into the bedrock along the eastern edge of the complex may be intended to direct excess or waste water into the wadi. What appears to be a large subterranean cistern fed and drained by pipelines has been identified through GPR in the southeastern quadrant of the terrace, but remains unexcavated.
 
 The archaeological record indicates that the large terrace upon which the garden was found was constructed during the reign of the Nabataean king, [Aretas IV](https://en.wikipedia.org/wiki/Aretas_IV_Philopatris) (9 BCE – 40 CE) and thus it is believed that the garden and monumental pool were initially created at the end of the first century BCE or early first century CE The role of the garden and pool complex within Petra in this earliest phase remains ambiguous. The site is closely associated with the neighboring [Great Temple](https://pleiades.stoa.org/places/777218559) complex. However, the original function of the Great Temple monument remains unsettled, with theories ranging from religious/sacred (temple) to private/royal (possibly a palace or audience hall). Close parallels found in the gardens and pools of the contemporary palaces in neighboring Judaea during the reign of the [Hasmonean Dynasty](https://en.wikipedia.org/wiki/Hasmonean_dynasty) (168-40 BCE) and [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great) (37-4 BCE) support the interpretation of the Petra garden as part of a palace complex.
 
@@ -97,15 +97,15 @@ A deep deposit of sediment above the pool floor indicates that the pool went out
 {{< figure src="../images/4_arabia_petra_gpr.jpg" alt="plan of ground-penetrating radar results" title="Fig. 4: Horizontal slice of the ground-penetrating radar data showing the location of built features (yellow-orange) on the garden terrace. Permission of L.-A. Bedal." >}}
 
 ### Images
-{{< figure src="../images/5_arabia_petra_southern_terrace.jpg" alt="View of the Southern Terrace and its structures" title="Fig. 5: Aerial view of the structures on the Southern Terrace in Petra's City Center. Photograph by L.-A. Bedal." >}}
+{{< figure src="../images/5_arabia_petra_southernterrace.jpg" alt="View of the Southern Terrace and its structures" title="Fig. 5: Aerial view of the structures on the Southern Terrace in Petra's City Center. Photograph by L.-A. Bedal." >}}
 
-{{< figure src="../images/6_arabia_petra_trench17.jpg" alt="Overhead view of Trench 17 showing pathway, stone borders, and root cavities" title="Fig. 5: Excavations in Trench 17 where a gravel pathway with stone border and excavated root cavities were uncovered. Photograph by L.-A. Bedal." >}}
+{{< figure src="../images/6_arabia_petra_trench17.jpg" alt="Overhead view of Trench 17 showing pathway, stone borders, and root cavities" title="Fig. 6: Excavations in Trench 17 where a gravel pathway with stone border and excavated root cavities were uncovered. Photograph by L.-A. Bedal." >}}
 
-{{< figure src="../images/7_arabia_petra_sketch.jpg" alt="Imagined reconstruction of the trellised pathway" title="Fig. 6: Imagined reconstruction of the trellised pathway. Drawing by K. Gleason." >}}
+{{< figure src="../images/7_arabia_petra_sketch.jpg" alt="Imagined reconstruction of the trellised pathway" title="Fig. 7: Imagined reconstruction of the trellised pathway. Drawing by K. Gleason." >}}
 
 {{< figure src="../images/8_arabia_petra_flowerpot.jpg" alt="Photo and illustrations of an unglazed ceramic pot with small round hole" title="Fig. 8: Fragment of a perforated planting pot with reconstruction drawing. Photo and drawing by L.-A. Bedal." >}}
 
-{{< figure src="../images/9_arabia_petra_garden_fresco.jpg" alt="Painted ceiling in a vaulted room." title="Fig. 10: Garden trellis painting at Little Petra. Photograph by L.-A. Bedal." >}}
+{{< figure src="../images/9_arabia_petra_garden_fresco.jpg" alt="Painted ceiling in a vaulted room." title="Fig. 9: Garden trellis painting at Little Petra. Photograph by L.-A. Bedal." >}}
 
 ### Tables
 Table 1: Taxa identified from the Petra Garden and Pool Complex. (from Ramsey and Bedal 2015)

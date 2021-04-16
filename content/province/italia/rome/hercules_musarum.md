@@ -17,7 +17,7 @@ tags:
 
 ## Province
 
-[Italia]({{<relref"../../../..">}}) \
+[Italia]({{<relref"..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
 [Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
@@ -31,10 +31,11 @@ tags:
 Region IX \
 [Campus Martius (Pleiades)](https://pleiades.stoa.org/places/422863)
 
+
+
 ## Garden
 
-Hercules Musarum
-<!--Pleiades link?-->
+Garden of the Hercules Musarum
 
 ### Keywords
 
@@ -44,6 +45,7 @@ Hercules Musarum
 - [lucus (grove)](http://vocab.getty.edu/page/aat/300008884)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
+
 
 ### Garden Description
 
@@ -67,7 +69,7 @@ The *collegium poetarum* ([Val. Max. 3.7.11](http://www.perseus.tufts.edu/hopper
 
 ### Dates
 
-built between 187 and 179 BCE; restoration and portico in Late Republican era (post 33 BCE)
+Built between 187 and 179 BCE; restoration and portico constructed in Late Republican era (post 33 BCE)
 
 #### Excavation Date
 

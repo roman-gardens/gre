@@ -20,7 +20,7 @@ tags:
 
 ## Province
 
-[Italia]({{<relref"../../../..">}}) \
+[Italia]({{<relref"..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
 [Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
@@ -29,8 +29,6 @@ tags:
 [Rome]({{<relref".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
-<!-- ### Location Description -->
-
 ## Sublocation
 
 Rome, Region III \
@@ -38,11 +36,10 @@ Palantine Hill \
 Oppian Hill \
 [Caelian Hill (Pleiades)](https://pleiades.stoa.org/places/695491849)
 
-<!-- ### Sublocation Description -->
 
 ## Garden
 
-Domus Aurea \
+Garden of the Domus Aurea \
 [Domus Aurea (Pleiades)](https://pleiades.stoa.org/places/410440793)
 
 ### Keywords
@@ -56,6 +53,7 @@ Domus Aurea \
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [stagnum (man-made lake)](http://vocab.getty.edu/page/aat/300263360)
 - [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
+
 
 ### Garden Description
 

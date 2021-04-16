@@ -13,38 +13,27 @@ tags:
  - "temples (buildings)"
 ---
 
-# Province
+## Province
 
 [ITALIA]({{<relref "..">}})\
 [ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
 [ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
-## Province Description
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-# Location
+## Location
 
 [Rome]({{<relref ".">}}) \
-[Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
-## Location Description
+## Sublocation
 
-<!-- LEAVE THIS BLANK FOR NOW -->
+Palatine Hill \
+[Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-# Sublocation
 
-[Palatine Hill]({{<relref ".">}}) \
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-## Sublocation Description
+## Garden
 
-<!-- DESCRIPTION -->
-
-# Garden
-
-Gardens of the House of Augustus, Palatine<!-- List of gardens in province -->
-<!-- May be left blank for now -->
+Vigna Barberini Site Overview, Palatine
 
 ### Keywords
 
@@ -53,26 +42,26 @@ Gardens of the House of Augustus, Palatine<!-- List of gardens in province -->
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 
+
 ### Garden Description
 
 The artificial [terrace](http://vocab.getty.edu/page/aat/300004182) that now carries the [Barberini family](https://en.wikipedia.org/wiki/Barberini_family) name is located on the northeastern corner of the Palatine, beyond the visible remains of the [Flavian Imperial palace](https://en.wikipedia.org/wiki/Flavian_Palace) (Fig. 1). Excavations carried out during the 1930s by A. Bartoli, and in the 1950s by G. F. Carettoni concentrated primarily on the central area of this site.  These campaigns revealed the foundations of a large temple, which Bartoli identified, consistent with the earlier ideas of P. Bigot, as the remains of the late second-century [Temple of Elagabalus](https://en.wikipedia.org/wiki/Elagabalium).
 
-Recent investigations by the [*Soprintendenza Archeologica*](http://www.sabap-rm-met.beniculturali.it/) in collaboration with [*École française de Rome*](https://www.efrome.it/) have revealed further episodes of the history of the area.  
+Investigations by the [*Soprintendenza Archeologica*](http://www.sabap-rm-met.beniculturali.it/) in collaboration with [*École française de Rome*](https://www.efrome.it/) since 1985 have revealed further episodes of the history of the area. Approximately one third of the site has been explored, although the most ancient levels have been reached only sporadically (Fig. 2).  
 
-Approximately one third of the site has been explored, although the most ancient levels have been reached only sporadically (Fig. 2).  The information gathered during the campaigns carried out annually between 1985 and 1999 are at present being analyzed, with the result that some of the information presented here must be considered provisional.
 The excavations that reached levels prior to the rise of the Empire revealed a peristyle of a large [*domus*](http://vocab.getty.edu/page/aat/300005506) once decorated with plants and basins. Probably destroyed during the 60s of the first century CE, this luxurious dwelling was then buried under thick layers of soil used to create an artificial terrace that was a grand garden of the [Palace of Domitian](https://en.wikipedia.org/wiki/Palace_of_Domitian).  About a century later, during the last years of the second century, this section of the Imperial palace was demolished to make room for a monumental complex centered around a temple dedicated by the emperor [Heliogabalus](https://en.wikipedia.org/wiki/Elagabalus) to the eastern god, [Elagabalus](https://en.wikipedia.org/wiki/Elagabalus_(deity)), later rededicated by [Severus Alexander](https://en.wikipedia.org/wiki/Severus_Alexander) to Jupiter Ultor.
 
 ### Figures
 
- {{< figure src="../images/vigna_barberini_fig1.jpg" alt="Aerial photograph of the Vigna Barberini" title="Figure 1. Aerial photograph of the Vigna Barberini taken early 1999.." >}}
+{{< figure src="../images/vigna_barberini_fig1.jpg" alt="Aerial photograph of the Vigna Barberini" title="Figure 1. Aerial photograph of the Vigna Barberini taken early 1999.." >}}
 
-{{< figure src="../images/vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" title="Figure 2. Vigna Barberini: plan of the areas explored from 1985 to 1998.." >}}
+{{< figure src="../images/vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" title="Figure 2. Vigna Barberini: Plan of the areas explored from 1985 to 1998.." >}}
 
-## Dates
+### Dates
 
 1st century BCE- 2nd century CE
 
-## Bibliography
+### Bibliography
 
 * P. Bigot, “Le temple de Jupiter Ultor et la Vigna Barberini,” *BullCom*  1911, pp. 80-85.[(worldcat)](http://www.worldcat.org/oclc/991557901)
 * F. Villedieu, J.-P Morel, P. Pergola, H. Broise, Y. Thébert, P. Gros, E. Hubert, et alii, “Rome: le Palatin (Vigna Barberini),” *Mélanges de l’École Française de Rome* 98 (1986) pp. 387-396; 99 (1987) pp. 481-498; 100 (1988) pp. 505-525; 101 (1989) pp. 489-498; 102 (1990) pp. 443-471; 103 (1991) pp. 313-338; 104 (1992) pp. 465-493; 105 (1993) pp. 419-439; 106 (1994) pp. 431-450; 107 (1995) pp. 459-493; 108 (1996) pp. 423-451; 109 (1997) pp. 417-440; 110 (1998) pp. 473-492; 111 (1999) pp. 449-481; 112 (2000) pp. 413-432.[(worldcat)](http://www.worldcat.org/oclc/972029282)
@@ -85,17 +74,14 @@ The excavations that reached levels prior to the rise of the Empire revealed a p
 * F. Villedieu, P. Veltri,  “Les soutènements nord-ouest et nord de la terrasse de la Vigna Barberini (Rome, Palatin): constructions et remaniements de l’époque flavienne à l’époque sévérienne,” *Mélanges de l’École Française de Rome*, 111 (1999), pp. 749-778.[(worldcat)](http://www.worldcat.org/oclc/220729070)
 * F. Villedieu , et alii, *Il giardino dei Cesari.* Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001.[(worldcat)](http://www.worldcat.org/oclc/5894435382)
 
-### Pleiades ID
+#### Pleiades ID
 
 [Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-## Contributor
+### Contributor
 
 Françoise Villedieu<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
 
-### ORCID
+### Publication date
 
-<!-- [ORCID](https://orcid.org/ORCID) -->
-
-## Publication date
 15 APRIL 2021

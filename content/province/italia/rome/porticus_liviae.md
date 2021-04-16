@@ -18,7 +18,7 @@ tags:
 
 ## Province
 
-[Italia]({{<relref "../..">}}) \
+[Italia]({{<relref "..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
 [Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
@@ -27,19 +27,16 @@ tags:
 [Rome]({{<relref".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
-<!-- ### Location Description -->
-
 ## Sublocation
 
 Region III \
 [Esquiline Hill (Pleiades)](https://pleiades.stoa.org/places/679976755) \
 Oppian Hill
 
-<!-- ### Sublocation Description -->
 
 ## Garden
 
-Porticus Liviae <!--There does not appear to be a Pleiades place resource for this garden-->
+Garden of the Porticus Liviae <!--There does not appear to be a Pleiades place resource for this garden-->
 
 ### Keywords
 
@@ -50,6 +47,7 @@ Porticus Liviae <!--There does not appear to be a Pleiades place resource for th
 - [pergolas](http://vocab.getty.edu/page/aat/300006783)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
+
 
 ### Garden Description
 
