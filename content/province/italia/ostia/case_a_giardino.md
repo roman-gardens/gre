@@ -17,12 +17,9 @@ tags:
 [Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
-## Region
-
-unspecified
-
 ## Location
 
+[Ostia]({{<relref "../..">}}) \
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
@@ -76,15 +73,16 @@ A sculptural group with a fishing scene, which could be interpreted as a fountai
 
 ### Photos
 
-{{< figure src="../images/ostia_fig11.jpg" alt="Plan of the Garden Houses" title="Fig. 2: Fountain (SBAO, Photo Archive)." >}}
+{{< figure src="../images/ostia_fig11.jpg" alt="Plan of the Garden Houses" title="Fig. 2: Fountain (PA-OAnt, Photo Archive)." >}}
 
-{{< figure src="../images/ostia_fig13.jpg" alt="Photo of mosaic with nilotic scene from Fountain b" title="Fig. 4: Fountain b: mosaic with nilotic scene (SBAO, Photo Archive)." >}}
+{{< figure src="../images/ostia_fig13.jpg" alt="Photo of mosaic with nilotic scene from Fountain b" title="Fig. 4: Fountain b: mosaic with nilotic scene (PA-OAnt, Photo Archive)." >}}
 
-{{< figure src="../images/ostia_fig14.jpg" alt="Photo of the sculpture of a Fisherman on a rock" title="Fig. 5: Fisherman on a rock, sculpture from Garden Houses (SBAO, Photo Archive)." >}}
+{{< figure src="../images/ostia_fig14.jpg" alt="Photo of the sculpture of a Fisherman on a rock" title="Fig. 5: Fisherman on a rock, sculpture from Garden Houses (PA-OAnt, Photo Archive)." >}}
 
 ### Dates
 
-unspecified
+128 CE \
+3rd century CE
 
 #### Excavation Date
 
@@ -97,6 +95,7 @@ unspecified
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
+* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
 <!-- Bibliography for Garden Description -->
 * *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1941, pp. 34-38. [(worldcat)](http://www.worldcat.org/oclc/8340098)
 * Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, pp. 121-123. [(worldcat)](http://www.worldcat.org/oclc/797420782)
@@ -118,4 +117,4 @@ unspecified
 
 ### Publication date
 
-unspecified
+17 April 2021

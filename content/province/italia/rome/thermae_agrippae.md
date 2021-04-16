@@ -15,20 +15,18 @@ tags:
 
 ## Province
 
-[ITALIA]({{<relref "..">}})\
-[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
-[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[Italia]({{<relref"..">}}) \
+[Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
+[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
-[Rome]({{<relref ".">}}) \
+[Rome]({{<relref".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
 ## Sublocation
 
 Region IX
-
-
 
 ## Garden
 
@@ -64,9 +62,9 @@ The *horti* included a [grove](http://vocab.getty.edu/page/aat/300008884) with [
 
 In this complex, a grove (*ἄλσος*) was situated between two manmade bodies of water ([Strabo 13.1.19](http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:13.1.19)): a [*stagnum*](http://vocab.getty.edu/page/aat/300263360), a man-made lake, and a [*euripus*](http://vocab.getty.edu/page/aat/300006075), or canal. [Seneca the Younger](https://en.wikipedia.org/wiki/Seneca_the_Younger) reports that he used to celebrate the new year by jumping into the cold canal (associated with the *Aqua Virgo*) ([*Ep.* 83.5](http://data.perseus.org/citations/urn:cts:latinLit:phi1017.phi015.perseus-lat1:83)); this suggests that the *stagnum* and *euripus* were also recreational spaces for the people of Rome. While there is no direct reference to swimming in the *stagnum*, the lake was a large enough space that [Nero](https://en.wikipedia.org/wiki/Nero) was able to enjoy a sumptuous banquet while floating on a raft ([Tac. *Ann.* 15.37](http://data.perseus.org/citations/urn:cts:latinLit:phi1351.phi005.perseus-lat1:15.37)), suggesting that the *stagnum* could have recreational purposes.
 
-The baths contained famous paintings and elaborate decoration. Agrippa also placed famous works of art within the complex, including sculptures of animals, such as a [bronze](http://vocab.getty.edu/page/aat/300010957) bear ([Martial *Ep.* 3.19.1–2](http://data.perseus.org/citations/urn:cts:latinLit:phi1294.phi002.perseus-lat1:3.19) [English](https://topostext.org/work/677)), and a lion by [Lysippus](https://en.wikipedia.org/wiki/Lysippos) in the grove ([Strabo 13.1.19](http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:13.1.19)). In front of the complex was the famous [Apoxyomenos](https://en.wikipedia.org/wiki/Apoxyomenos) ("the Body Scraper"), also by Lysippus ([Plin. *HN* 34.62](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:34.62)). The [*Hecatostylum*](https://www.digitalaugustanrome.org/records/hecatostylum/), lying just south of the *euripus*, may have served as a covered walkway for the grove and functioned as a *de facto* boundary of the complex ([Martial *Ep.* 3.19.1–2](http://data.perseus.org/citations/urn:cts:latinLit:phi1294.phi002.perseus-lat1:3.19)[English](https://topostext.org/work/677)).
+The baths contained famous paintings and elaborate decoration. Agrippa also placed famous works of art within the complex, including sculptures of animals, such as a [bronze](http://vocab.getty.edu/page/aat/300010957) bear ([Martial *Ep.* 3.19.1–2](http://data.perseus.org/citations/urn:cts:latinLit:phi1294.phi002.perseus-lat1:3.19) [English](https://topostext.org/work/677)), and a lion by [Lysippus](https://en.wikipedia.org/wiki/Lysippos) in the grove ([Strabo 13.1.19](http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:13.1.19)). In front of the complex was the famous [Apoxyomenos](https://en.wikipedia.org/wiki/Apoxyomenos) ("the Body Scraper"), also by Lysippus ([Plin. *HN* 34.62](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:34.62)). The [*Hecatostylum*](https://www.digitalaugustanrome.org/records/hecatostylum/), lying just south of the *euripus*, may have served as a covered walkway for the grove and functioned as a *de facto* boundary of the complex ([Martial *Ep.* 3.19.1–2](http://data.perseus.org/citations/urn:cts:latinLit:phi1294.phi002.perseus-lat1:3.19) [English](https://topostext.org/work/677)).
 
-The *thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](http://data.perseus.org/citations/urn:cts:greekLit:tlg0385.tlg001.perseus-grc1:66.24) [English](https://bit.ly/CDioE66)) and was restored quickly by [Titus](https://en.wikipedia.org/wiki/Titus) or [Domitian](https://en.wikipedia.org/wiki/Domitian) ([Martial 3.20.15, 36.6](http://data.perseus.org/texts/urn:cts:latinLit:phi1294.phi002) [English](https://topostext.org/work/677). Restorations by [Hadrian](https://en.wikipedia.org/wiki/Hadrian), [Constantius](https://en.wikipedia.org/wiki/Constantius_II) and [Constans](https://en.wikipedia.org/wiki/Constans) are known. According to [Sidonius Apollinaris](https://en.wikipedia.org/wiki/Sidonius_Apollinaris), the baths are mentioned in the Regionary Catalogues and were still in use in the fifth century and ([*Carm.* 23.496](http://data.perseus.org/citations/urn:cts:latinLit:stoa0261.stoa0001.perseus-lat1:23) [English](http://archive.org/details/poemsletterswith01sidouoft/page/316/mode/2up?view=theater)).
+The *thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](http://data.perseus.org/citations/urn:cts:greekLit:tlg0385.tlg001.perseus-grc1:66.24) [English](https://bit.ly/CDioE66)) and was restored quickly by [Titus](https://en.wikipedia.org/wiki/Titus) or [Domitian](https://en.wikipedia.org/wiki/Domitian) ([Martial 3.20.15, 36.6](http://data.perseus.org/texts/urn:cts:latinLit:phi1294.phi002) [English](https://topostext.org/work/677). Restorations by [Hadrian](https://en.wikipedia.org/wiki/Hadrian), [Constantius](https://en.wikipedia.org/wiki/Constantius_II) and [Constans](https://en.wikipedia.org/wiki/Constans) are known. According to [Sidonius Apollinaris](https://en.wikipedia.org/wiki/Sidonius_Apollinaris), the baths are mentioned in the Regionary Catalogues and were still in use in the fifth century ([*Carm.* 23.496](http://data.perseus.org/citations/urn:cts:latinLit:stoa0261.stoa0001.perseus-lat1:23) [English](http://archive.org/details/poemsletterswith01sidouoft/page/316/mode/2up?view=theater)).
 
 ### Figures
 
@@ -76,7 +74,7 @@ The *thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](http://data.perseus
 
 ### Dates
 
-1st century BCE- 5th century CE
+1st century BCE - 5th century CE
 
 #### Excavation Date
 
@@ -111,4 +109,4 @@ unspecified
 
 ### Publication date
 
-15 APRIL 2021
+17 April 2021

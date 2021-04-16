@@ -13,12 +13,9 @@ draft: false
 [Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
-## Region
-
-unspecified
-
 ## Location
 
+[Ostia]({{<relref "../..">}}) \
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
@@ -51,8 +48,8 @@ House of the Bucrania
 
 ### Keywords
 
-- [domus](#)
-- [hortus](#)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [botanical gardens](http://vocab.getty.edu/page/aat/300008107)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
@@ -72,11 +69,11 @@ At present, this is the earliest *hortus* known in ancient Ostia.
 
 ### Dates
 
-unspecified
+80-60 BCE to 20-40 CE
 
 #### Excavation Date
 
-unspecified
+summer 2002
 
 ### Bibliography
 
@@ -85,6 +82,7 @@ unspecified
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
+* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
 <!-- Bibliography for Garden Description -->
 * T. Morard, *Mélanges de l'École française de Rome: Antiquité* Tome 115, No. 1 (2003), in press. [(worldcat)](http://www.worldcat.org/oclc/859589040)
 
@@ -100,8 +98,8 @@ unspecified
 
 ### Contributor
 
-[Thomas Morard]()
+Thomas Morard
 
 ### Publication date
 
-unspecified
+17 April 2021

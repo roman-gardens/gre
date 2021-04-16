@@ -20,12 +20,9 @@ tags:
 [Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
-## Region
-
-unspecified
-
 ## Location
 
+[Ostia]({{<relref "../..">}}) \
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
@@ -75,23 +72,24 @@ The house is one of the most interesting examples of the transition from the atr
 
 ### Plans
 
-{{< figure src="../images/ostia_fig8.jpg" alt="Plan of Domus Fulminata" title="Fig. 1: Plan (from Scavi di Ostia I)." >}}
+{{< figure src="../images/ostia_fig8_colored.jpg" alt="Plan of Domus Fulminata" title="Fig. 1: Plan (after Scavi di Ostia I)." >}}
 
-{{< figure src="../images_b/ostia_fig13b.jpg" alt="Section of the basin" title="Fig. 4: Section of the basin (from Ricciardi and Santa Maria Scrinari)." >}}
+{{< figure src="../images_b/ostia_fig13b_threshold.jpg" alt="Section of the basin" title="Fig. 4: Section of the basin (from Ricciardi and Santa Maria Scrinari)." >}}
 
 ### Photos
 
-{{< figure src="../images/ostia_fig9.jpg" alt="Photo of the garden in 1941" title="Fig. 2: Garden, 1941 (SBAO, Photo Archive)." >}}
+{{< figure src="../images/ostia_fig9.jpg" alt="Photo of the garden in 1941" title="Fig. 2: Garden, 1941 (PA-OAnt, Photo Archive)." >}}
 
-{{< figure src="../images_b/ostia_fig12b.jpg" alt="Basin shaped as a well head" title="Fig. 3: Basin shaped as a well head (SBAO, Photo Archive)." >}}
+{{< figure src="../images_b/ostia_fig12b.jpg" alt="Basin shaped as a well head" title="Fig. 3: Basin shaped as a well head (PA-OAnt, Photo Archive)." >}}
 
 ### Dates
 
-unspecified
+[Flavian period](https://en.wikipedia.org/wiki/Flavian_dynasty) \
+150-200 CE
 
 #### Excavation Date
 
-unspecified
+1941
 
 ### Bibliography
 
@@ -100,6 +98,7 @@ unspecified
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
+* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
 <!-- Bibliography for Garden Description -->
 * *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1941, pp. 56-58, 66. [(worldcat)](http://www.worldcat.org/oclc/8340098)
 * *Civiltà dell'acqua* 2, pp. 108-111. [(worldcat)](http://www.worldcat.org/oclc/312718716)
@@ -120,4 +119,4 @@ unspecified
 
 ### Publication date
 
-unspecified
+17 April 2021

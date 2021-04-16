@@ -20,19 +20,21 @@ tags:
 
 ## Province
 
-[ITALIA]({{<relref "..">}})\
-[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)
-[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[Italia]({{<relref"..">}}) \
+[Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
+[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
-[Rome]({{<relref ".">}}) \
+[Rome]({{<relref".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
 ## Sublocation
 
-Region III
-
+Rome, Region III \
+Palantine Hill \
+Oppian Hill \
+[Caelian Hill (Pleiades)](https://pleiades.stoa.org/places/695491849)
 
 
 ## Garden
@@ -109,4 +111,4 @@ unspecified
 
 ### Publication date
 
-15 APRIL 2021
+17 April 2021
