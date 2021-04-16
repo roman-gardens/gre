@@ -50,7 +50,7 @@ Garden of the Porticus Liviae <!--There does not appear to be a Pleiades place r
 
 ### Garden Description
 
-Located on the [Oppian](https://en.wikipedia.org/wiki/Oppian_Hill) hill between the [*Clivus Suburanus*](https://pleiades.stoa.org/places/821658053) and the later [Baths of Trajan](https://en.wikipedia.org/wiki/Baths_of_Trajan) (*Thermae Traiani*) in the [*Subura*](https://pleiades.stoa.org/places/451696383), the [*Porticus Liviae*](https://www.digitalaugustanrome.org/records/porticus-liviae) is represented on three fragments of the [Severan marble plan (*FUR*)](https://formaurbis.stanford.edu/index.php?field0=all&search0=liviae&op0=and&field1=all&search1=porticus). The public [*porticus*](http://vocab.getty.edu/page/aat/300004145) was constructed on the site of the grand [*domus*](http://vocab.getty.edu/page/aat/300005506) of Publius Vedius Pollio, who bequeathed his property to Augustus upon his death.
+Located on the [Oppian](https://en.wikipedia.org/wiki/Oppian_Hill) hill between the [*Clivus Suburanus*](https://pleiades.stoa.org/places/821658053) and the later [Baths of Trajan](https://en.wikipedia.org/wiki/Baths_of_Trajan) (*Thermae Traiani*) in the [*Subura*](https://pleiades.stoa.org/places/451696383), the [*Porticus Liviae*](https://www.digitalaugustanrome.org/records/porticus-liviae) is represented on three fragments of the [Severan Marble Plan (*FUR*)](https://formaurbis.stanford.edu/index.php?field0=all&search0=liviae&op0=and&field1=all&search1=porticus). The public [*porticus*](http://vocab.getty.edu/page/aat/300004145) was constructed on the site of the grand [*domus*](http://vocab.getty.edu/page/aat/300005506) of Publius Vedius Pollio, who bequeathed his property to Augustus upon his death.
 
 Augustus constructed the *porticus* in the name of his wife, [Livia](https://www.britannica.com/biography/Livia-Drusilla). With her son [Tiberius](https://www.britannica.com/biography/Tiberius), Livia dedicated the complex to [Concordia](https://www.britannica.com/topic/Concordia-Roman-goddess) in January 7 BCE. ([Ovid *Fast.* 6.637–48](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0547%3Abook%3D6); [Suet. *Aug.* 29](http://data.perseus.org/texts/urn:cts:latinLit:phi1348.abo012.perseus-lat1); [Dio Cassius 54.23.6](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0593%3Abook%3D54%3Achapter%3D23%3Asection%3D6), [55.8.2](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0593%3Abook%3D55%3Achapter%3D8%3Asection%3D2)). The complex was accessed via two flights of stairs from the *Clivus Suburanus*.
 
@@ -63,7 +63,7 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 
 ### Figures
 
-{{< figure src="../images/.jpg" alt="Base Plan, based on the marble plan and reconstructed with the vines mentioned in Pliny the Elder" title="Fig. 1: Base Plan, based on the marble plan and reconstructed with the vines mentioned in Pliny the Elder (Holly Spoth-Torres)." >}}
+{{< figure src="../images/.jpg" alt="Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder" title="Fig. 1: Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder (Holly Spoth-Torres)." >}}
 
 {{< figure src="../images/.jpg" alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae" title="Fig. 2: Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae (Holly Spoth-Torres)." >}}
 

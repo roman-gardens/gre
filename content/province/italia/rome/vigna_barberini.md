@@ -51,9 +51,16 @@ Investigations by the [*Soprintendenza Archeologica*](http://www.sabap-rm-met.be
 
 The excavations that reached levels prior to the rise of the Empire revealed a peristyle of a large [*domus*](http://vocab.getty.edu/page/aat/300005506) once decorated with plants and basins. Probably destroyed during the 60s of the first century CE, this luxurious dwelling was then buried under thick layers of soil used to create an artificial terrace that was a grand garden of the [Palace of Domitian](https://en.wikipedia.org/wiki/Palace_of_Domitian).  About a century later, during the last years of the second century, this section of the Imperial palace was demolished to make room for a monumental complex centered around a temple dedicated by the emperor [Heliogabalus](https://en.wikipedia.org/wiki/Elagabalus) to the eastern god, [Elagabalus](https://en.wikipedia.org/wiki/Elagabalus_(deity)), later rededicated by [Severus Alexander](https://en.wikipedia.org/wiki/Severus_Alexander) to Jupiter Ultor.
 
+ANCIENT SITES OF THE VIGNA BARBERINI:
+
+[Garden of the Peristyle of the Julio-Claudian *Domus*]({{<relref"/julio_claudian_domus.md">}})
+[Garden of the Flavian Imperial Palace]({{<relref"/flavian_imperial_palace.md">}})
+[Garden of the Temple of Elagabalus]({{<relref"/temple_of_elagabalus.md">}})
+The Adonea of the Flavian Palace
+
 ### Figures
 
-{{< figure src="../images/vigna_barberini_fig1.jpg" alt="Aerial photograph of the Vigna Barberini" title="Figure 1. Aerial photograph of the Vigna Barberini taken early 1999.." >}}
+{{< figure src="../images/vigna_barberini_fig1.jpg" alt="Aerial photograph of the Vigna Barberini" title="Figure 1. Aerial photograph of the Vigna Barberini taken early 1999. Photograph from Villedieu et al, 2001, Figure 2..." >}}
 
 {{< figure src="../images/vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" title="Figure 2. Vigna Barberini: Plan of the areas explored from 1985 to 1998.." >}}
 
