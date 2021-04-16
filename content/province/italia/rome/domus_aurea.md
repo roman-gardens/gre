@@ -65,7 +65,7 @@ The *stagnum* was located in the valley between the [Palatine](https://pleiades.
 
 The [*Domus Tiberiana*](https://en.wikipedia.org/wiki/Domus_Tiberiana) on the Palatine was incorporated into the *Domus Aurea*. Resting on [cryptoporticoes](http://vocab.getty.edu/page/aat/300004295) and vaulted substructures, the palace was surrounded by [colonnades](http://vocab.getty.edu/page/aat/300002613) which opened onto a hanging garden (*nemora pensile*), accessible from the Forum by a grand staircase on the north and another to the east.
 
-The unfinished [Temple to the Divine Claudius]({{<relref"/temple_claudii_divi.md">}}) became a monumental [nymphaeum](http://vocab.getty.edu/page/aat/300006809). The eastern wall of the temple platform was transformed into an ornamental niched façade with abundant fountain jets fed by a new branch of the [*Aqua Claudia*](https://pleiades.stoa.org/places/423563). The brick remains of this nymphaeum are visible today along the [Via Claudia](https://pleiades.stoa.org/places/688514720)<!--(Fig. 3)-->. The water features drained into the *stagnum*.
+The unfinished Temple to the Divine Claudius became a monumental [nymphaeum](http://vocab.getty.edu/page/aat/300006809). The eastern wall of the temple platform was transformed into an ornamental niched façade with abundant fountain jets fed by a new branch of the [*Aqua Claudia*](https://pleiades.stoa.org/places/423563). The brick remains of this nymphaeum are visible today along the [Via Claudia](https://pleiades.stoa.org/places/688514720)<!--(Fig. 3)-->. The water features drained into the *stagnum*.
 
 ### Figures
 
