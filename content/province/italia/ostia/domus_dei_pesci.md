@@ -62,7 +62,7 @@ One significant level of these successive transformations of the area is represe
 
 ### Plans
 
-{{< figure src="../images/ostia_fig15.jpg" alt="Plan of the Garden beneath the House of the Fishes" title="Fig. 1: Plan (from Becatti, Mosaici)." >}}
+{{< figure src="../images/ostia_fig15_colored.jpg" alt="Plan of the Garden beneath the House of the Fishes" title="Fig. 1: Plan (after Becatti, Mosaici)." >}}
 
 ### Dates
 

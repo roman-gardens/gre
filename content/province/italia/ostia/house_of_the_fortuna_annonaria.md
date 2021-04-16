@@ -77,7 +77,7 @@ The garden also forms the backdrop to the rooms in the east part of the house, a
 
 ### Plans
 
-{{< figure src="../images/ostia_fig20.jpg" alt="Plan of the Fortuna Annonaria" title="Fig. 1: Plan (from Boersma)." >}}
+{{< figure src="../images/ostia_fig20_colored.jpg" alt="Plan of the Fortuna Annonaria" title="Fig. 1: Plan (after Boersma)." >}}
 
 {{< figure src="../images/ostia_fig21.jpg" alt="Axonometry of the Fortuna Annonaria" title="Fig. 2: Axonometry (from Boersma)." >}}
 

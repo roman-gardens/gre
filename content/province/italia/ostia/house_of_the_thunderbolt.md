@@ -72,9 +72,9 @@ The house is one of the most interesting examples of the transition from the atr
 
 ### Plans
 
-{{< figure src="../images/ostia_fig8.jpg" alt="Plan of Domus Fulminata" title="Fig. 1: Plan (from Scavi di Ostia I)." >}}
+{{< figure src="../images/ostia_fig8_colored.jpg" alt="Plan of Domus Fulminata" title="Fig. 1: Plan (after Scavi di Ostia I)." >}}
 
-{{< figure src="../images_b/ostia_fig13b.jpg" alt="Section of the basin" title="Fig. 4: Section of the basin (from Ricciardi and Santa Maria Scrinari)." >}}
+{{< figure src="../images_b/ostia_fig13b_threshold.jpg" alt="Section of the basin" title="Fig. 4: Section of the basin (from Ricciardi and Santa Maria Scrinari)." >}}
 
 ### Photos
 

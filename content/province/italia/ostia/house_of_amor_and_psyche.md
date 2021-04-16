@@ -69,7 +69,7 @@ The *viridarium* is the main source of light for all the rooms that face on it, 
 
 ### Plans
 
-{{< figure src="../images/ostia_fig3.jpg" alt="Plan of the House of Amor and Psyche" title="Fig. 1: Plan (from *Scavi di Ostia I*)." >}}
+{{< figure src="../images/ostia_fig3_colored.jpg" alt="Plan of the House of Amor and Psyche" title="Fig. 1: Plan (after *Scavi di Ostia I*)." >}}
 
 {{< figure src="../images/ostia_fig5.jpg" alt="Axonometry" title="Fig. 3: Axonometry (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." >}}
 
