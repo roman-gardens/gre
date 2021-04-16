@@ -19,12 +19,9 @@ tags:
 [Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
-## Region
-
-unspecified
-
 ## Location
 
+[Ostia]({{<relref "../..">}}) \
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
@@ -69,6 +66,7 @@ Piazzale della Corporazioni
 In the original plan of the Augustan period the garden area to the back of the theater was surrounded on three sides by a roofed corridor opening onto the Tiber on the northern side with a monumental entrance. In the Claudian period the whole level of the area was raised and a portico consisting of a single row of brick columns added. A temple was built at the center of the garden area in the Domitianic period; traditionally identified since its discovery (1881) with the temple of Ceres, it has more recently been attributed to Vulcan or to the imperial cult. During the Hadrianic period the portico was doubled with a second row of columns; the entrances on the northern side were blocked, and buildings erected against them, making access to the garden possible only from the theater (Fig. 1).
 
 The open area to the back of the theater was never built over. Laid out as a garden, and adorned with statues raised in honor of men who had distinguished themselves in trade, it conformed to the recommendation of Vitruvius (5.9.1,5), that areas surrounding a theater be laid out with colonnades  (*post scaenam porticus*) and embellished with gardens, where people could stroll about and converse.
+
 During the excavations of Rodolfo Lanciani (1881) “a street traversing the excavated area of the Forum and aligned on the axis of the temple and the theatre” was identified. Reported to be “gravelled and edged with marble borders”, this street was probably a path of the garden that led from the theater to the temple at the center of the area: “The Forum of Ceres ... was once ornamented with a garden, the *allées* of which can still be traced with the help of the marble border-lines by which each plot of green was defined and surrounded.”
 
 During the excavations of Dante Vaglieri (1910-1913), a system of conduits was identified. It was linked to a large sewer that ran underground at the center of the garden area, sloping downwards from south to north in the direction of the Tiber. Two conduits parallel to the central sewer ran in front of the stationes. At garden level there were two long gutters that collected rainwater from the roof of the portico. Two basins (respectively 3.10x2.90 and 3.45x3.35 m) at ground level were identified on the southern side of the garden; they were paved with *opus signinum* on the inside and probably panelled in marble.
@@ -83,15 +81,18 @@ In October 1912 Dante Vaglieri began the reconstruction of the garden at the cen
 
 ### Photos
 
-{{< figure src="../images/ostia_fig7.jpg" alt="Photo of the garden in 1912" title="Fig. 2: The modern garden, 1912 (SBAO, Photo Archive)." >}}
+{{< figure src="../images/ostia_fig7.jpg" alt="Photo of the garden in 1912" title="Fig. 2: The modern garden, 1912 (PA-OAnt, Photo Archive)." >}}
 
 ### Dates
 
-unspecified
+Augustan period \
+Claudian period \
+Domitianic period
 
-#### Excavation Date
+#### Excavation Dates
 
-unspecified
+1881 \
+1910-1913
 
 ### Bibliography
 
@@ -100,6 +101,7 @@ unspecified
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
+* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
 <!-- Bibliography for Garden Description -->
 * *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1912, pp. 279, 303, 338. [(worldcat)](http://www.worldcat.org/oclc/8340098)
 * *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1913, pp. 10, 21, 331, 350. [(worldcat)](http://www.worldcat.org/oclc/8340098)
@@ -121,4 +123,4 @@ unspecified
 
 ### Publication date
 
-unspecified
+17 April 2021

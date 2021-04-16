@@ -18,12 +18,9 @@ tags:
 [Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
-## Region
-
-unspecified
-
 ## Location
 
+[Ostia]({{<relref "../..">}}) \
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
@@ -73,11 +70,13 @@ The large open area in this insula, divided into two by a wall, was identified a
 
 ### Dates
 
-unspecified
+late Hadrianic period \
+150-180 CE
 
 #### Excavation Date
 
-unspecified
+1914-1919 \
+recent excavations
 
 ### Bibliography
 
@@ -86,6 +85,7 @@ unspecified
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
+* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
 <!-- Bibliography for Garden Description -->
 * *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1917, pp. 58, 69-70. [(worldcat)](http://www.worldcat.org/oclc/8340098)
 * *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1919, pp. 227-228, 251-253, 255, 263-5. [(worldcat)](http://www.worldcat.org/oclc/8340098)
@@ -111,4 +111,4 @@ unspecified
 
 ### Publication date
 
-unspecified
+17 April 2021

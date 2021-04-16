@@ -19,22 +19,21 @@ tags:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
-
-## Region
-
-Region I \
+[Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
 [Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
+[Rome]({{<relref".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
 <!-- ### Location Description -->
 
 ## Sublocation
 
-Region III <!-- Pleiades link?-->
+Region III \
+[Esquiline Hill (Pleiades)](https://pleiades.stoa.org/places/679976755) \
+Oppian Hill
 
 <!-- ### Sublocation Description -->
 
@@ -109,4 +108,4 @@ unspecified
 
 ### Publication date
 
-unspecified
+17 April 2021

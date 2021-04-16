@@ -19,12 +19,9 @@ tags:
 [Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
-## Region
-
-unspecified
-
 ## Location
 
+[Ostia]({{<relref "../..">}}) \
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
@@ -86,13 +83,13 @@ The garden also forms the backdrop to the rooms in the east part of the house, a
 
 ### Photos
 
-{{< figure src="../images/ostia_fig22.jpg" alt="The garden seen from the oecus" title="Fig. 3: The garden seen from the *oecus* (SBAO, Photo Archive)." >}}
+{{< figure src="../images/ostia_fig22.jpg" alt="The garden seen from the oecus" title="Fig. 3: The garden seen from the *oecus* (PA-OAnt, Photo Archive)." >}}
 
-{{< figure src="../images/ostia_fig23.jpg" alt="Well head with bucrania" title="Fig. 4: Well head with bucrania (SBAO, Photo Archive)." >}}
+{{< figure src="../images/ostia_fig23.jpg" alt="Well head with bucrania" title="Fig. 4: Well head with bucrania (PA-OAnt, Photo Archive)." >}}
 
 ### Dates
 
-unspecified
+2nd century CE to 4th century CE
 
 #### Excavation Date
 
@@ -105,11 +102,13 @@ unspecified
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
+* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
 <!-- Bibliography for Garden Description -->
 * *Giornale degli Scavi*, 1939, pp. 54-87. [(worldcat)]()
 * Giovanni Becatti, *Case ostiensi del tardo impero*, pp. 23-25. [(worldcat)](http://www.worldcat.org/oclc/899106405)
 * John S. Boersma, *Amoenissima Civitas: Block V. ii at Ostia, Description and Analysis of its Visible Remains*, Assen: Van Gorcum, 1985, pp. 151, 156-160. [(worldcat)](http://www.worldcat.org/oclc/964182479)
 * Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, 1996, pp. 123-124. [(worldcat)](http://www.worldcat.org/oclc/797420782)
+* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 82-84. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
 
 #### Pleiades ID
 
@@ -123,8 +122,8 @@ unspecified
 
 ### Contributor
 
-[Elizabeth J. Shepherd]()
+Elizabeth J. Shepherd
 
 ### Publication date
 
-unspecified
+17 April 2021

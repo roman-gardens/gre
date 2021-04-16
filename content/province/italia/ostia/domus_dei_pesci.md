@@ -16,12 +16,9 @@ tags:
 [Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
-## Region
-
-unspecified
-
 ## Location
 
+[Ostia]({{<relref "../..">}}) \
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
@@ -69,7 +66,7 @@ One significant level of these successive transformations of the area is represe
 
 ### Dates
 
-unspecified
+between the early 2nd and early 3rd century CE
 
 #### Excavation Date
 
@@ -82,6 +79,7 @@ unspecified
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
+* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
 <!-- Bibliography for Garden Description -->
 * Giovanni Becatti, *Case ostiensi del tardo impero*, pp. 18-20. [(worldcat)](http://www.worldcat.org/oclc/899106405)
 * F. Zevi et al., *Notizie degli scavi di antichità*, in press. [(worldcat)](http://www.worldcat.org/oclc/8340098)
@@ -102,4 +100,4 @@ unspecified
 
 ### Publication date
 
-unspecified
+17 April 2021

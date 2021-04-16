@@ -16,15 +16,12 @@ tags:
 ## Province
 
 [Italia]({{<relref"../../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
-
-## Region
-
-Region I \
+[Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
 [Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
+[Rome]({{<relref".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
 <!-- ### Location Description -->
@@ -55,9 +52,9 @@ The [*horti*](http://vocab.getty.edu/page/aat/300008107) included a grove with p
 
 In this complex, a grove ([*alsos*](https://en.wiktionary.org/wiki/ἄλσος)) was situated between two manmade bodies of water ([Strabo 13.1.19](https://bit.ly/Strabo13A1)): a [*stagnum*](https://en.wiktionary.org/wiki/stagnum) (lake) and a [*euripus*](https://en.wiktionary.org/wiki/euripus) (canal). The baths contained famous paintings and elaborate decoration, while Agrippa placed famous works of art, including sculptures of animals, including a bronze bear ([Martial *Ep.* 3.19.1–2](https://topostext.org/work/677)), and a lion by [Lysippus](https://en.wikipedia.org/wiki/Lysippos) ([Strabo 13.1.19](https://bit.ly/Strabo13A1)) in the grove. In front of the complex was the famous [Apoxyomenos](https://en.wikipedia.org/wiki/Apoxyomenos) (the body scraper), also by Lysippus (Plin. HN 34.62). The [*Hecatostylum*](https://www.digitalaugustanrome.org/records/hecatostylum/), lying just south of the *euripus*, may have served as a covered walkway for the grove and functioned as a *de facto* boundary of the complex ([Martial *Ep.* 3.19.1–2](https://topostext.org/work/677)).
 
-[Seneca the Younger](https://www.britannica.com/biography/Lucius-Annaeus-Seneca-Roman-philosopher-and-statesman) reports that he used to celebrate the new year by jumping into the cold canal (associated with the Aqua Virgo) ([*Ep.* 83.5](http://data.perseus.org/citations/urn:cts:latinLit:phi1017.phi015.perseus-lat1:83)); this suggests that the *stagnum* and *euripus* were also recreational spaces for the people of Rome. While there is no direct reference to swimming in the *stagnum*, the lake was large enough space that [Nero](https://en.wikipedia.org/wiki/Nero) was able to enjoy a sumptuous banquet, while floating on a raft ([Tac. *Ann.* 15.37](https://bit.ly/TacAnE15B)), suggesting that the *stagnum* could have recreational purposes.
+[Seneca the Younger](https://www.britannica.com/biography/Lucius-Annaeus-Seneca-Roman-philosopher-and-statesman) reports that he used to celebrate the new year by jumping into the cold canal (associated with the Aqua Virgo) ([*Ep.* 83.5](http://data.perseus.org/citations/urn:cts:latinLit:phi1017.phi015.perseus-lat1:83)); this suggests that the *stagnum* and *euripus* were also recreational spaces for the people of Rome. While there is no direct reference to swimming in the *stagnum*, the lake was large enough that [Nero](https://en.wikipedia.org/wiki/Nero) was able to enjoy a sumptuous banquet, while floating on a raft ([Tac. *Ann.* 15.37](https://bit.ly/TacAnE15B)), suggesting that the *stagnum* could have recreational purposes.
 
-The *thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](https://bit.ly/CDioE66)) and was restored quickly by Titus or Domitian ([Martial 3.20.15, 36.6](https://topostext.org/work/677). Restorations by [Hadrian](https://en.wikipedia.org/wiki/Hadrian), [Constantius](https://en.wikipedia.org/wiki/Constantius_II) and [Constans](https://en.wikipedia.org/wiki/Constans) are known. According to [Sidonius Apollinaris](https://en.wikipedia.org/wiki/Sidonius_Apollinaris), the baths are mentioned in the regionary catalogues and were still in use in the fifth century and ([*Carm.* 23.496](http://archive.org/details/poemsletterswith01sidouoft/page/316/mode/2up?view=theater)).
+The *thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](https://bit.ly/CDioE66)) and was restored quickly by Titus or Domitian ([Martial 3.20.15, 36.6](https://topostext.org/work/677). Restorations by [Hadrian](https://en.wikipedia.org/wiki/Hadrian), [Constantius](https://en.wikipedia.org/wiki/Constantius_II) and [Constans](https://en.wikipedia.org/wiki/Constans) are known. According to [Sidonius Apollinaris](https://en.wikipedia.org/wiki/Sidonius_Apollinaris), the baths are mentioned in the regionary catalogues and were still in use in the fifth century ([*Carm.* 23.496](http://archive.org/details/poemsletterswith01sidouoft/page/316/mode/2up?view=theater)).
 
 ### Figures
 
@@ -67,7 +64,7 @@ The *thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](https://bit.ly/CDio
 
 ### Dates
 
-unspecified
+1st century BCE - 5th century CE
 
 #### Excavation Date
 
@@ -102,4 +99,4 @@ unspecified
 
 ### Publication date
 
-unspecified
+17 April 2021

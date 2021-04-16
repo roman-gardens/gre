@@ -17,12 +17,9 @@ tags:
 [Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
-## Region
-
-unspecified
-
 ## Location
 
+[Ostia]({{<relref "../..">}}) \
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
@@ -65,7 +62,7 @@ During the winter 1938-1939 part of an earlier building was found under the occu
 
 The portico of this house was then partially rebuilt with brick columns (Fig. 2). On its east, roofed side, the portico is paved with a white and black tessellated mosaic with geometrical and vegetal decorations. Some of the wall painting is conserved *in situ* on the east wall of the portico. It is also possible to date several later restorations of the house between the 1st and the 2nd century AD.
 
-The portico courtyard was a garden. On its northern side was a large rectangular nymphaeum, also restored in 1939. It is decorated with a semi-circular niche on its long southern side. The floor is paved in *opus spicatum*; the walls are lined with hydraulic mortar, painted blue (Fig. 1, c). The volume of this nymphaeum and the system of the water evacuation and supply were modified several times. The well in *opus testaceum*, in the angle southwest of the basin, is certainly one of the latest features.  There is another well under the east corner of the portico that can be reached by stairs. The underground space, which was created around the well, could have been used as a cellar.
+The portico courtyard was a garden. On its northern side was a large rectangular nymphaeum, also restored in 1939. It is decorated with a semi-circular niche on its long southern side. The floor is paved in *opus spicatum*; the walls are lined with hydraulic mortar, painted blue (Fig. 1, c). The volume of this nymphaeum and the system of the water evacuation and supply were modified several times. The well in *opus testaceum*, in the angle southwest of the basin, is certainly one of the latest features. There is another well under the east corner of the portico that can be reached by stairs. The underground space, which was created around the well, could have been used as a cellar.
 
 ### Plans
 
@@ -73,15 +70,16 @@ The portico courtyard was a garden. On its northern side was a large rectangular
 
 ### Photos
 
-{{< figure src="../images/ostia_fig.jpg" alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations" title="Fig. 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (SBAO, Photo Archive)." >}} <!--missing illustration-->
+{{< figure src="../images/ostia_fig.jpg" alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations" title="Fig. 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive)." >}} <!--missing illustration-->
 
 ### Dates
 
-unspecified
+erected 20-40 CE \
+destroyed 160-200 CE
 
 #### Excavation Date
 
-unspecified
+winter of 1938-1939
 
 ### Bibliography
 
@@ -90,6 +88,7 @@ unspecified
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
+* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
 <!-- Bibliography for Garden Description -->
 * Arena, *Ostia repubblicana*, p. 23. [(worldcat)]()
 * T. Morard and D. Wavelet, *Mélanges de l'École française de Rome: Antiquité* Tome 114, No. 2 (2002), Rome, pp. 759-815. [(worldcat)](http://www.worldcat.org/oclc/859589040) [hathitrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015068961740&view=2up&seq=183)
@@ -106,8 +105,8 @@ unspecified
 
 ### Contributor
 
-[Thomas Morard]()
+Thomas Morard
 
 ### Publication date
 
-unspecified
+17 April 2021

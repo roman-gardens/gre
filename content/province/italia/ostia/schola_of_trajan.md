@@ -17,12 +17,9 @@ tags:
 [Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
-## Region
-
-unspecified
-
 ## Location
 
+[Ostia]({{<relref "../..">}}) \
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
@@ -71,15 +68,15 @@ An Ionic portico, with a colonnade of bricks with stucco, surrounded this intern
 
 ### Photos
 
-{{< figure src="../images/ostia_fig19.jpg" alt="Plan of the peristyle, with column bases and flower pots" title="Fig. 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (SBAO, Photo Archive)." >}}
+{{< figure src="../images/ostia_fig19.jpg" alt="Plan of the peristyle, with column bases and flower pots" title="Fig. 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive)." >}}
 
 ### Dates
 
-unspecified
+built 160-200 CE and abandoned after the 4th century CE
 
 #### Excavation Date
 
-unspecified
+winter of 1938-1939
 
 ### Bibliography
 
@@ -88,6 +85,7 @@ unspecified
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
+* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
 <!-- Bibliography for Garden Description -->
 * *Giornale degli Scavi*, 1938, pp. 65-69, 75-81. [(worldcat)](http://www.worldcat.org/oclc/8340098)
 * T. Morard and D. Wavelet, *Mélanges de l'École française de Rome: Antiquité* Tome 114, No. 2 (2002), Rome, pp. 759-815. [(worldcat)](http://www.worldcat.org/oclc/859589040) [hathitrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015068961740&view=2up&seq=183)
@@ -104,8 +102,8 @@ unspecified
 
 ### Contributor
 
-[Thomas Morard]()
+Thomas Morard
 
 ### Publication date
 
-unspecified
+17 April 2021

@@ -19,12 +19,9 @@ tags:
 [Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
-## Region
-
-unspecified
-
 ## Location
 
+[Ostia]({{<relref "../..">}}) \
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
@@ -69,13 +66,13 @@ This house was only partially excavated between June 1972 and January 1973 (Fig.
 
 ### Plans
 
-{{< figure src="../images/ostia_fig16.jpg" alt="Plan of the House on Via del Tempio Rotundo" title="Fig. 1: Plan (M. Supino; SBAO, Archives)." >}}
+{{< figure src="../images/ostia_fig16.jpg" alt="Plan of the House on Via del Tempio Rotundo" title="Fig. 1: Plan (M. Supino; PA-OAnt, Archives)." >}}
 
 {{< figure src="../images/ostia_fig17.jpg" alt="Plan of the peristyle, with column bases and flower pots" title="Fig. 2: Plan of the peristyle, with column bases and flower pots (from Messineo)." >}}
 
 ### Photos
 
-{{< figure src="../images_b/ostia_fig23b.jpg" alt="A flower pot during 1973 excavation" title="Fig. 3: A flower pot during excavation, 1973 (SBAO, Photo Archive)." >}}
+{{< figure src="../images_b/ostia_fig23b.jpg" alt="A flower pot during 1973 excavation" title="Fig. 3: A flower pot during excavation, 1973 (PA-OAnt, Photo Archive)." >}}
 
 ### Dates
 
@@ -83,7 +80,7 @@ unspecified
 
 #### Excavation Date
 
-unspecified
+partially excavated between June 1972 and January 1973
 
 ### Bibliography
 
@@ -92,6 +89,7 @@ unspecified
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
+* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
 <!-- Bibliography for Garden Description -->
 * *Giornale degli Scavi*, 1972-1973, p. 56. [(worldcat)](http://www.worldcat.org/oclc/8340098)
 * G. Messineo, *Xenia* 8, 1984, p. 78. [(worldcat)](http://www.worldcat.org/oclc/7522968) <!-- correct worldcat? -->
@@ -112,4 +110,4 @@ unspecified
 
 ### Publication date
 
-unspecified
+17 April 2021

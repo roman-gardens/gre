@@ -19,12 +19,9 @@ tags:
 [Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
-## Region
-
-unspecified
-
 ## Location
 
+[Ostia]({{<relref "../..">}}) \
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
@@ -66,7 +63,7 @@ House of Amor and Psyche
 
 ### Garden Description
 
-The entrance of this house (Fig. 1) (which takes its name from the statuary group found in room b) provides access to a large portico (a) with four columns on marble bases, resting on a continuous marble-paneled balustrade 50 cm high. To the right of the portico was an area believed to be a garden (*viridarium*) (c) terminating in a nymphaeum. This consisted of a podium 1.10 m. high, paneled in white marble. Hewn into its front side are five deep circular niches. Four are paneled in white marble; only the central niche is panelled in green cipollino marble. The architectural elevation of the nymphaeum rises from this podium (Fig. 2). Over four meters high, it consists of two rectangular alternating with three semicircular niches, framed by six marble columns with Corinthian capitals and rectangular travertine plinths, from which little brick arches project. Five marble stepped gradients were placed between the bases of the columns. They formed miniature cascades: the water piped in by the lead conduit that ran along the bases of the niches flowed down over them. The water filled small rectangular basins and, flowing through terracotta channels inside the podium, spouted from four outlets placed between the niches. The whole of the podium together with the stepped cascades was paneled in white marble and green *cipollino*; the upper part, by contrast, was stuccoed and adorned with a polychrome wall mosaic. A tile-covered drain ran through the entire length of the podium.
+The entrance of this house (Fig. 1) (which takes its name from the statuary group found in room b) provides access to a large portico (a) with four columns on marble bases, resting on a continuous marble-paneled balustrade 50 cm high. To the right of the portico was an area believed to be a garden ([*viridarium*](https://en.wiktionary.org/wiki/viridarium)) (c) terminating in a nymphaeum. This consisted of a podium 1.10 m. high, paneled in white marble. Hewn into its front side are five deep circular niches. Four are paneled in white marble; only the central niche is panelled in green cipollino marble. The architectural elevation of the nymphaeum rises from this podium (Fig. 2). Over four meters high, it consists of two rectangular alternating with three semicircular niches, framed by six marble columns with Corinthian capitals and rectangular travertine plinths, from which little brick arches project. Five marble stepped gradients were placed between the bases of the columns. They formed miniature cascades: the water piped in by the lead conduit that ran along the bases of the niches flowed down over them. The water filled small rectangular basins and, flowing through terracotta channels inside the podium, spouted from four outlets placed between the niches. The whole of the podium together with the stepped cascades was paneled in white marble and green *cipollino*; the upper part, by contrast, was stuccoed and adorned with a polychrome wall mosaic. A tile-covered drain ran through the entire length of the podium.
 
 The *viridarium* is the main source of light for all the rooms that face on it, including the large reception room (d) (Fig. 3). The house is a typical example of an Ostian patrician house of the early 4th century AD.
 
@@ -74,13 +71,13 @@ The *viridarium* is the main source of light for all the rooms that face on it, 
 
 {{< figure src="../images/ostia_fig3.jpg" alt="Plan of the House of Amor and Psyche" title="Fig. 1: Plan (from *Scavi di Ostia I*)." >}}
 
-{{< figure src="../images/ostia_fig5.jpg" alt="Axonometry" title="Fig. 3: Axonometry (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, SBAO, Archives)." >}}
+{{< figure src="../images/ostia_fig5.jpg" alt="Axonometry" title="Fig. 3: Axonometry (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." >}}
 
-{{< figure src="../images_b/ostia_fig4b.jpg" alt="Section" title="Fig. 4: Section (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, SBAO, Archives)." >}}
+{{< figure src="../images_b/ostia_fig4b.jpg" alt="Section" title="Fig. 4: Section (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." >}}
 
 ### Photos
 
-{{< figure src="../images/ostia_fig4.jpg" alt="Photo of Nymphaeum" title="Fig. 2: Nymphaeum (SBAO, Photo Archive)." >}}
+{{< figure src="../images/ostia_fig4.jpg" alt="Photo of Nymphaeum" title="Fig. 2: Nymphaeum (PA-OAnt, Photo Archive)." >}}
 
 ### Dates
 
@@ -97,10 +94,12 @@ unspecified
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
+* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
 <!-- Bibliography for Garden Description -->
 * Giovanni Becatti, *Case ostiensi del tardo impero*, pp. 6-8. [(worldcat)](http://www.worldcat.org/oclc/899106405)
 * J. Packer, *American Journal of Archaeology* 71 (1967), pp 125-126. [(worldcat)](http://www.worldcat.org/oclc/1076135742)
 * Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, 1996, p. 123. [(worldcat)](http://www.worldcat.org/oclc/797420782)
+* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 93-97. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
 
 #### Pleiades ID
 
@@ -114,8 +113,8 @@ unspecified
 
 ### Contributor
 
-[Elizabeth J. Shepherd]()
+Elizabeth J. Shepherd
 
 ### Publication date
 
-unspecified
+17 April 2021
