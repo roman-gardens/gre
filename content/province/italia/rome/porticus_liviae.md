@@ -5,7 +5,7 @@ date: 2021-03-16T23:53:09-07:00
 province_id: PROVINCE_ID
 author: E.R. Macaulay and Holly Spoth-Torres
 editor: Joshua Rosenheim and Rhiannon Paré
-draft: false
+draft: true
 tags:
  - "colonnades"
  - "domus"
