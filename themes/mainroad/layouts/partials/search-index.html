@@ -1,0 +1,33 @@
+<script>
+function friendly_dir(dir) {
+  dir = dir.replaceAll('\\', '/')
+  dir = dir.replace('province/', '')
+  if (! dir) return
+  dir = dir.replace(/_/g, ' ')
+  dir = dir.replace(/\/$/, '')
+
+  // titlecase
+  /*
+  dir = dir.toLowerCase().split(' ').map(function(word) {
+    return word.replace(word[0], word[0].toUpperCase())
+  }).join(' ')
+  */
+
+  return dir
+}
+window.store = {
+    {{ range $ri, $rv := where .Site.Pages "Section" "province" }}
+    "{{ $ri }}": {
+        // You can customize your searchable fields using any .Page parameters
+        "title": "{{ .Title }}",
+        "location": friendly_dir("{{ .Dir }}"),
+        "content": {{ .Content | plainify }}, // Strip out HTML tags
+        "url": "{{ .Permalink }}"
+    },
+    {{ end }}
+}
+</script>
+<!-- Include Lunr and code for your search function,
+which you'll write in the next section -->
+<script src="/lunr.uglify.js"></script>
+<script src="/search.js"></script>
