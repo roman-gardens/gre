@@ -104,7 +104,7 @@ unspecified
 * E. Segal and I. Sciotino, *Domus Aurea*, Milano, Electa, 1999. [(worldcat)](http://www.worldcat.org/oclc/1026067959)
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae*, s.v. "Domus Aurea" (various authors), Rome, 1993. [(worldcat)](http://www.worldcat.org/oclc/1114759113)
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae*, s.v. "Domus Tiberiana" (C. Krause), Rome, 1993, pp. 189-197. [(worldcat)](http://www.worldcat.org/oclc/1114759113)
-* J.B. Ward Perkins, *Roman Imperial Architecture*, Penguin books, 1981, p. 60. [(worldcat)](http://www.worldcat.org/oclc/1091918996)
+* J.B. Ward Perkins, *Roman Imperial Architecture*, Penguin books, 1981, pp. 59-60. [(worldcat)](http://www.worldcat.org/oclc/1091918996)
 
 #### Pleiades ID
 
