@@ -67,7 +67,8 @@ summaryLength = 10000
 	single = "left" # Configure layout for single pages
 	# Enable widgets in given order
 	# widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
-	widgets = ["search", "categories", "taglist"]
+	# widgets = ["search", "categories", "taglist"]
+	widgets = ["search-lunr", "categories", "taglist"]
 	# alternatively "ddg-search" can be used, to search via DuckDuckGo
 	# widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 

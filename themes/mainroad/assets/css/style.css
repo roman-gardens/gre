@@ -189,7 +189,7 @@ h6 {
 }
 
 a {
-	color: #000;
+	color: {{ $highlightColor }};
 	text-decoration: none;
 }
 
@@ -1014,7 +1014,6 @@ textarea:hover {
 input[type=submit],
 input[type=reset] {
 	display: inline-block;
-	min-width: 150px;
 	padding: 10px 15px;
 	font-weight: 700;
 	color: #fff;
@@ -1306,4 +1305,17 @@ textarea {
 		font-size: 11px;
 		font-size: .6875rem;
 	}
+}
+
+#search-results-list {
+	margin: 1em;
+	list-style: none;
+}
+
+#search-results-list li {
+	margin: 1em 1em;
+}
+
+#search-results-list small {
+	color: #666;
 }
