@@ -13,10 +13,12 @@ tags:
  - "domus"
  - "peristyle houses"
  - "water wells"
+ - "planter"
+ - "herm-heads"
 ---
 
 ## Province
-[Numidia]({{<relref "..">}})
+[Numidia]({{<relref "..">}}) \
 [Numidia (Pleiades)](https://pleiades.stoa.org/places/981539)
 
 ### Province Description
@@ -53,6 +55,8 @@ House of the Planters (Maison aux jardinières)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [water wells](http://vocab.getty.edu/page/aat/300152327)
+- [planter](#)
+- [herm-heads](#)
 
 ### Garden Description
  Located SW of the Decumanus and NE of the forum, the house of the "Jardinières" almost square shaped, was laid out around a peristyle of 10 columns. Along the three porticoes and the angles of the fourth were arranged planters (10,50 x10,50 m) whose contours are curved. Double herm-heads or two sided-plaque with masks were found, they may have surmounted the corner pilasters of the courtyard. In the middle was a well. Facing the entrance and opening towards the courtyard, a large reception room was surrounded on its two sides by a vestibule leading to a room. (Plan view Fig.1; Fig.2)
@@ -65,13 +69,13 @@ House of the Planters (Maison aux jardinières)
 -->
 
 ### Plans
-{{< figure src="../images/house_of_the_planters1.jpg" alt="Plan of the House of the Planters at Thamugadi; Timgad : une cité africaine sous l'Empire romain, p. 88-92, Plan fig.40" title="Fig. 1: Plan of the House of the Planters. (Timgad : une cité africaine sous l'Empire romain, p. 88-92, Plan fig.40)" >}}
+{{< figure src="../images/house_of_the_planters1.jpg" alt="Plan of the House of the Planters at Thamugadi; Timgad : une cité africaine sous l'Empire romain, p. 88-92, Plan fig.40" title="Fig. 1: Plan of the House of the Planters. (Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 40)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images
-{{< figure src="../images/house_of_the_planters_drawing.jpeg" alt="Drawing by A Ballu of the courtyard of the House of the Planters at Thamugadi; rights statement" title="Fig. 2: Drawing by A Ballu of the courtyard of the House of the Planters (Rights statement)" >}}
+{{< figure src="../images/house_of_the_planters_drawing.jpeg" alt="Drawing of the courtyard of the House of the Planter; rights statement" title="Fig. 2: Drawing of the courtyard of the House of the Planter (Ballu, A., 1897,fig. 36)" >}}
 
 <!--{{< figure src="../images/#" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi; rights statement" title="Fig. 3 Photographic view of the courtyard of the House of the Planters (WFJ). (Rights statement)" >}}
 -->
@@ -80,12 +84,12 @@ House of the Planters (Maison aux jardinières)
 -->
 
 ### Dates
-Unspecified
+2nd-3rd century CE?
 
 ### Bibliography
-* A. Ballu, *Les ruines de Timgad (Antique Thamugadi)*, Paris, 1897, p. 224-226, plan fig. 36. S. [(worldcat)](http://www.worldcat.org/oclc/1055093825)
-* E. Boeswillwald, R. Cagnat, A. Ballu, Timgad : une cité africaine sous l'Empire romain, Paris, Leroux, 1905, p. 88-92, Plan fig.40.[(worldcat)](http://www.worldcat.org/oclc/156040038)
-* S. Germain, *Les mosaïques de Timgad*, Paris, 1969, p. 37. [(worldcat)](http://www.worldcat.org/oclc/643640586)
+*  Ballu, A., *Les ruines de Timgad (Antique Thamugadi)*, Paris, 1897, pp. 224-226, plan fig. 36. S. [(worldcat)](http://www.worldcat.org/oclc/1055093825)
+*  Boeswillwald, E., Cagnat, R., Ballu, A.,  *Timgad: une cité africaine sous l'Empire romain*, Paris, Leroux, 1905, pp. 88-92, Plan fig.40.[(worldcat)](http://www.worldcat.org/oclc/156040038)
+*  Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 37. [(worldcat)](http://www.worldcat.org/oclc/643640586)
 
 <!--#### Periodo ID-->
 

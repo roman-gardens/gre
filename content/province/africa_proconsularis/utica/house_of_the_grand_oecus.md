@@ -10,10 +10,11 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- - "bents (structural frames)"
- - "concave"
- - "mosaic (process)"
- - "peristyles (Roman courtyards)"
+ - "domus"
+ - "peristyle houses"
+ - "euripus"
+ - "semicircular basin"
+ - "mosaics (visual works)"
 ---
 
 ## Province
@@ -21,7 +22,7 @@ tags:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 <!-- DESCRIPTION -->
 
 
@@ -52,14 +53,16 @@ House of the Grand Oecus (Maison du grand oecus)
 
 ### Keywords
 
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [bents (structural frames)](http://vocab.getty.edu/page/aat/300001833)
-- [concave](http://vocab.getty.edu/page/aat/300010302)
-- [mosaic (process)](http://vocab.getty.edu/page/aat/300138684)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [euripus](#)
+- [semicircular basin](#)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+
 
 ### Garden Description
 
-This house is the most important dwelling discovered to date at Utica. The large peristyle garden (XXVII), enclosed by a portico on four sides (XXVIII-XXX) had a long basin concave at each end down the center of the garden (Plan view, Fig. 1). The bottom was paved with a simple mosaic. The semicircular pool extending into the garden on the N side was also paved with a simple mosaic.
+This house is the most important dwelling discovered to date at Utica. The large peristyle garden (XXVII), enclosed by a portico on four sides (XXVIII-XXX) had a long basin *euripus* concave at each end down the center of the garden (Plan view, Fig. 1). The bottom was paved with a simple mosaic. The semicircular pool extending into the garden on the N side was also paved with a simple mosaic.
 
 
 
@@ -67,7 +70,7 @@ This house is the most important dwelling discovered to date at Utica. The large
 <!--### Maps-->
 
 ### Plans
-{{< figure src="../images/AFR_Uti_Hgo_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the Grand Oecus." title="Fig.1: Plan of the House of the Grand Oecus(CMT, pp. 1-18, plans 1, 2). " >}}
+{{< figure src="../images/AFR_Uti_Hgo_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the Grand Oecus." title="Fig.1: Plan of the House of the Grand Oecus (CMT, plans 1, 2). " >}}
 
 <!--### Images-->
 
@@ -75,12 +78,12 @@ This house is the most important dwelling discovered to date at Utica. The large
 
 ### Dates
 
-The house is dated to the I-II c.
+1st-2nd century CE
 
 ### Bibliography
+* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.341-343. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp. 1-18, plans 1, 2. [(worldcat)](http://www.worldcat.org/oclc/905773599)
 
-* CMT, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp. 1-18, plans 1, 2. [(worldcat)](http://www.worldcat.org/oclc/905773599)
-* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003, p.341-343. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 <!--#### Periodo ID-->
 
@@ -96,9 +99,8 @@ The house is dated to the I-II c.
 
 ### Contributor
 
-[Wilhelmina F. Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970)
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X)
-
+[Wilhelmina F. Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)) \
+[Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 ### Publication date
 
 13 November 2020
