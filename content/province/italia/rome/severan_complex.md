@@ -16,9 +16,9 @@ tags:
 
 ## Province
 
-[ITALIA]({{<relref "..">}})\
-[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
-[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[Italia]({{<relref "..">}})\
+[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)\
+[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 <!-- -->
 ## Location
 
@@ -64,7 +64,7 @@ unspecified
 <!-- -->
 #### Pleiades ID
 
-[Temple of Severus Complex (Pleiades)](https://pleiades.stoa.org/places/584305092)
+[584305092](https://pleiades.stoa.org/places/584305092)
 <!-- -->
 ### Contributor
 
@@ -72,4 +72,4 @@ M.-A. Tomei
 <!-- -->
 ## Publication date
 <!-- -->
-15 APRIL 2021
+17 APRIL 2021
