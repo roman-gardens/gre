@@ -75,7 +75,7 @@ The *collegium poetarum* formally gathered near the complex, and so perhaps the 
 <!-- -->
 {{< figure src="../images/.jpg" alt="Base plan of the Hercules Musarum" title="Figure 3. Base plan of the Temple of Hercules Musarum. Coarelli, 1997." >}}
 <!-- -->
-{{< figure src="../images/.jpg" alt="Perspective view looking north along the central axis of the Divorum" title="Figure 4. A base plan with two potential reconstructions of the porticus. The porticus was at a significantly higher level than the interior courtyard. No connection (i.e. steps) is identified on the plan. Either a raised temple or porticus are possible. The following two sections illustrate the difference in elevations. The second option shows the portico at ground level and the temple elevated. This would allow for access to and from portico and temple. © Linda Anderson." >}}
+{{< figure src="../images/.jpg" alt="A base plan of the Hercules Musarum with two potential reconstructions of the porticus" title="Figure 4. A base plan with two potential reconstructions of the porticus. The porticus was at a significantly higher level than the interior courtyard. No connection (i.e. steps) is identified on the plan. Either a raised temple or porticus are possible. The following two sections illustrate the difference in elevations. The second option shows the portico at ground level and the temple elevated. This would allow for access to and from portico and temple. © Linda Anderson." >}}
 <!-- -->
 ### Dates
 
