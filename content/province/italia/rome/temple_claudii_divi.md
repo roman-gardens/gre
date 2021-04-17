@@ -4,7 +4,7 @@ title: "Gardens of the Temple of the Divine Claudius"
 date: 2021-02-02T10:57:44-07:00
 province_id: ITALIA
 author: Valerie Aymer
-editor: Rhiannon Pare
+editor: Rhiannon Paré
 draft: true
 tags:
  - "aqueducts"
@@ -41,22 +41,22 @@ Garden of the Temple of Divine Claudius, Palatine
 
 ### Keywords
 
-- [aqueducts](http://vocab.getty.edu/page/aat/300006165)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
+- [aqueduct](http://vocab.getty.edu/page/aat/300006165)
+- [cistern (plumbing component)](http://vocab.getty.edu/page/aat/300052558)
 - [nemus (grove)](http://vocab.getty.edu/page/aat/300008884)
-- [niches (architectural elements)](http://vocab.getty.edu/page/aat/300002704)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [planting beds](http://vocab.getty.edu/page/aat/300430426)
+- [niche (architectural element)](http://vocab.getty.edu/page/aat/300002704)
+- [nymphaeum (garden structure)](http://vocab.getty.edu/page/aat/300006809)
+- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [planting bed](http://vocab.getty.edu/page/aat/300430426)
 - [stagnum (man-made lake)](http://vocab.getty.edu/page/aat/300263360)
-- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
+- [temple (building)](http://vocab.getty.edu/page/aat/300007595)
 
 
 ### Garden Description
 
-The [Temple of the Divine Claudius](https://en.wikipedia.org/wiki/Temple_of_Claudius), located on the northern slope of the [Caelian Hill](https://en.wikipedia.org/wiki/Caelian_Hill), was constructed in multiple phases. The [temple](http://vocab.getty.edu/page/aat/300007595) is known from the [Severan Marble Plan (*FUR*)]((https://en.wikipedia.org/wiki/Forma_Urbis_Romae)) (Fig. 1) and from archaeological remains.  [Agrippina](https://www.britannica.com/biography/Julia-Agrippina) initiated the building of the temple but was murdered before its completion. After the fire of 64 CE, [Nero](https://www.britannica.com/biography/Nero-Roman-emperor) altered the temple to include it in the [*Domus Aurea*](https://en.wikipedia.org/wiki/Domus_Aurea) ([Seutonius *Vesp*. 9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0061%3Alife%3Dves.%3Achapter%3D9%3Asection%3D1);  [Frontinus *Aq*. 2.76](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Frontinus/De_Aquis/text*.html)). [Vespasian](https://www.britannica.com/biography/Vespasian) completed the temple in 69 CE.
+The [Temple of the Divine Claudius](https://en.wikipedia.org/wiki/Temple_of_Claudius), located on the northern slope of the [Caelian Hill](https://en.wikipedia.org/wiki/Caelian_Hill), was constructed in multiple phases. The [temple](http://vocab.getty.edu/page/aat/300007595) is known from the [Severan Marble Plan (*FUR*)]((https://formaurbis.stanford.edu/index.php?field0=all&search0=CLAUDIUS&op0=and&field1=all&search1=)) (Fig. 1) and from archaeological remains.  [Agrippina](https://www.britannica.com/biography/Julia-Agrippina) initiated the building of the temple but was murdered before its completion. After the fire of 64 CE, [Nero](https://www.britannica.com/biography/Nero-Roman-emperor) altered the temple to include it in the [*Domus Aurea*](https://en.wikipedia.org/wiki/Domus_Aurea) ([Seutonius *Vesp*. 9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0061%3Alife%3Dves.%3Achapter%3D9%3Asection%3D1);  [Frontinus *Aq*. 2.76](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Frontinus/De_Aquis/text*.html)). [Vespasian](https://www.britannica.com/biography/Vespasian) completed the temple in 69 CE.
 
-The temple is located on top of a platform (180 x 210 m.) and is situated just off-center to the east. During Nero's reign, the platform upon which the temple stood was converted into a [*nymphaeum*]((http://vocab.getty.edu/page/aat/300006809)) as part of the *Domus Aurea*, which the [*Aqua Claudia*](https://pleiades.stoa.org/places/423563) supplied. Nero redirected the *Aqua Claudia* to feed the [*stagnum*](http://vocab.getty.edu/page/aat/300263360) of the *Domus Aurea*.  The rectangular and semi-circular [niches](http://vocab.getty.edu/page/aat/300002704) on the eastern side are best preserved and are visible from the [Via Claudia](https://pleiades.stoa.org/places/688514720). The space between this façade and the platform wall proper is presumably a passage for water. Vespasian restored the temple and [Claudius'](https://www.britannica.com/biography/Claudius-Roman-emperor) divinity in 69 CE and considerably altered the original structure. Fragment 5c of *FUR*, now existing only as a Renaissance drawing, depicts the temple as a [prostyle](http://vocab.getty.edu/page/aat/300163741), [pentastyle](https://www.merriam-webster.com/dictionary/pentastyle) temple. However, most scholars agree that the temple was probably [hexastyle](https://www.merriam-webster.com/dictionary/hexastyle).
+The temple is located on top of a platform (180 x 210 m.) and is situated just off-center to the east. During Nero's reign, the platform upon which the temple stood was converted into a [*nymphaeum*]((http://vocab.getty.edu/page/aat/300006809)) as part of the *Domus Aurea*, which the [*Aqua Claudia*](https://pleiades.stoa.org/places/423563) supplied. Nero redirected the *Aqua Claudia* to feed the [*stagnum*](http://vocab.getty.edu/page/aat/300263360) of the *Domus Aurea*.  The rectangular and semi-circular [niches](http://vocab.getty.edu/page/aat/300002704) on the eastern side are best preserved and are visible from the [Via Claudia](https://pleiades.stoa.org/places/688514720). The space between this façade and the platform wall proper is presumably a passage for water. Vespasian restored the temple and [Claudius'](https://www.britannica.com/biography/Claudius-Roman-emperor) divinity in 69 CE and considerably altered the original structure. [Fragment 5c of *FUR*], now existing only as a Renaissance drawing, depicts the temple as a [prostyle](http://vocab.getty.edu/page/aat/300163741), [pentastyle](https://www.merriam-webster.com/dictionary/pentastyle) temple. However, most scholars agree that the temple was probably [hexastyle](https://www.merriam-webster.com/dictionary/hexastyle).
 
 Because these remains are located under the present-day Monastery of the Passionist Fathers, no recent excavation has been possible.  A. M. Colini’s excavations reveal that the four faces of the platform differ significantly.  Under the stairs of the north side was a [cistern](http://vocab.getty.edu/page/aat/300052558), presumably remnants of Nero's *nymphaeum*, the water supply for the temple complex.  The south face, as yet unexcavated, should reveal evidence of the *Aqua Claudia*.
 
@@ -65,6 +65,10 @@ The temple is set within eight L-shaped [planting beds](http://vocab.getty.edu/p
 ### Dates
 
 1st century CE
+
+#### Excavation Date
+
+unspecified
 
 ### Bibliography
 
