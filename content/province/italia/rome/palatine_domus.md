@@ -4,7 +4,7 @@ title: "The Late Republican Domus"
 date: 2021-04-03T23:08:29+02:00
 province_id: PROVINCE_ID
 author: M.-A. Tomei  
-editor: Rhiannon Pare
+editor: Rhiannon Paré
 draft: true
 ---
 
@@ -46,6 +46,10 @@ In the Republican period, by the 1st century BCE, the Palatine had small but num
 ### Dates
 
 2nd- 1st century BCE
+
+#### Excavation Date
+
+unspecified
 
 ### Bibliography
 
