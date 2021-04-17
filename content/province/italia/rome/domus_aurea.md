@@ -36,7 +36,7 @@ Oppian Hill \
 Palantine Hill, [Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208) \
 Velian Hill, [Mons Velia (Pleiades)](https://pleiades.stoa.org/places/157710058) \
 Caelian Hill, [Caelius Mons (Pleiades)](https://pleiades.stoa.org/places/695491849) \
-Esquiline Hill, [Esquilinus Mons (Pleiades)](https://pleiades.stoa.org/places/679976755)]
+Esquiline Hill, [Esquilinus Mons (Pleiades)](https://pleiades.stoa.org/places/679976755)
 <!-- -->
 <!-- -->
 <!-- -->

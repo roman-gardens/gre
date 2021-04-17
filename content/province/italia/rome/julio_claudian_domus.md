@@ -10,9 +10,9 @@ draft: false
 
 ## Province
 
-[ITALIA]({{<relref "..">}})\
-[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
-[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[Italia]({{<relref "..">}})\
+[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)\
+[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 <!-- -->
 ## Location
 
@@ -21,7 +21,7 @@ draft: false
 <!-- -->
 ## Sublocation
 
-Palatine Hill
+Palatine Hill\
 [Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
 <!-- -->
 <!-- -->
@@ -62,7 +62,7 @@ The *domus* of the Vigna Barberini was included in [Nero's](https://www.britanni
 OTHER PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
 [Garden of the Flavian Imperial Palace]({{<relref"/flavian_imperial_palace.md">}})\
-[Garden of the Temple of Elagabalus]({{<relref"/temple_of_elagabalus.md">}})\
+[Garden of the Temple of Elagabalus]({{<relref"/temple_of_elagabalus.md">}})
 <!-- -->
 ### Figures
 <!-- -->
@@ -85,7 +85,7 @@ unspecified
 <!-- -->
 #### Pleiades ID
 
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
+[971691208](https://pleiades.stoa.org/places/971691208)
 <!-- -->
 ### Contributor
 
@@ -94,4 +94,4 @@ Françoise Villedieu
 <!-- -->
 ### Publication date
 <!-- -->
-15 APRIL 2021
+17 April 2021

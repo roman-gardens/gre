@@ -100,13 +100,9 @@ The park where the Mausoleum of Augustus, the Ara Pacis, the Horologium, and sev
 
 between 28 and 23 BCE
 <!-- -->
-#### Excavation Date
+#### Excavation Dates
 
-1869\
-1871–1872\
-1907–1908\
-1916–1930\
-1934–1938\
+1869, 1871–1872, 1907–1908, 1916–1930, 1934–1938
 <!-- -->
 ### Bibliography
 <!-- -->
