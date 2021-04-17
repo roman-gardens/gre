@@ -69,7 +69,7 @@ The unfinished Temple to the Divine Claudius became a monumental [nymphaeum](htt
 
 ### Figures
 
-{{< figure src="../images/domus_aurea_fig1.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" title="Fig. 1: Conjectural plan of the Domus Aurea (J.B. Ward Perkins, *Imperial Roman Architecture*, Penguin books, 1981, p. 60)." >}}
+{{< figure src="../images/domus_aurea_fig1.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" title="Fig. 1: Conjectural plan of the Domus Aurea (J.B. Ward-Perkins, 1981, p. 60)." >}}
 
 <!--{{< figure src="../images/.jpg" alt="Gardens of the Oppian palace" title="Fig. 2: Gardens of the Oppian palace (image source)." >}}-->
 
@@ -90,6 +90,7 @@ unspecified
 * E. Segal and I. Sciotino, *Domus Aurea*, Milano, Electa, 1999. [(worldcat)](http://www.worldcat.org/oclc/1026067959)
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae*, s.v. "Domus Aurea" (various authors), Rome, 1993. [(worldcat)](http://www.worldcat.org/oclc/1114759113)
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae*, s.v. "Domus Tiberiana" (C. Krause), Rome, 1993, pp. 189-197. [(worldcat)](http://www.worldcat.org/oclc/1114759113)
+* J.B. Ward Perkins, *Roman Imperial Architecture*, Penguin books, 1981, p. 60. [(worldcat)](http://www.worldcat.org/oclc/1091918996)
 
 #### Pleiades ID
 
