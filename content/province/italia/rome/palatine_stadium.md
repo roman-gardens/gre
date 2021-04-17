@@ -4,7 +4,7 @@ title: "The Palatine 'Stadium'"
 date: 2021-04-08T02:47:06+02:00
 province_id: PROVINCE_ID
 author: M.-A. Tomei
-editor: Rhiannon Pare
+editor: Rhiannon Paré
 draft: true
 ---
 
@@ -49,7 +49,9 @@ At the ends of the Hippodrome the remains of two semicircular fountains are part
 
 ### Dates
 
+#### Excavation Date
 
+unspecified
 
 ### Bibliography
 

@@ -4,7 +4,7 @@ title: "Neronian Palace"
 date: 2021-04-08T02:46:02+02:00
 province_id: PROVINCE_ID
 author: M.-A. Tomei
-editor: Rhiannon Pare
+editor: Rhiannon Paré
 draft: true
 ---
 
@@ -32,24 +32,24 @@ Garden of the Neronian Palace, Palatine
 
 ### Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [frescoes (visual works)](http://vocab.getty.edu/page/aat/300177433)
-- [garden pavilions](http://vocab.getty.edu/page/aat/300006819)
+- [basin (vessel)](http://vocab.getty.edu/page/aat/300045614)
+- [cistern (plumbing component)](http://vocab.getty.edu/page/aat/300052558)
+- [column (architectural element)](http://vocab.getty.edu/page/aat/300001571)
+- [fountain](http://vocab.getty.edu/page/aat/300006179)
+- [fresco (visual work)](http://vocab.getty.edu/page/aat/300177433)
+- [garden pavilion](http://vocab.getty.edu/page/aat/300006819)
 - [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
-- [niches (architectural elements)](http://vocab.getty.edu/page/aat/300002704)
+- [niche (architectural element)](http://vocab.getty.edu/page/aat/300002704)
 - [palace](http://vocab.getty.edu/page/aat/300005734)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [pillars](http://vocab.getty.edu/page/aat/300264605)
+- [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
+- [pillar](http://vocab.getty.edu/page/aat/300264605)
 - [polychromy](http://vocab.getty.edu/page/aat/300247962)
-- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [pool (body of water)](http://vocab.getty.edu/page/aat/300008692)
+- [portico](http://vocab.getty.edu/page/aat/300004145)
 - [scaenae](http://vocab.getty.edu/page/aat/300004681)
-- [solariums](http://vocab.getty.edu/page/aat/300004179)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [terraces](http://vocab.getty.edu/page/aat/300004182)
+- [solarium](http://vocab.getty.edu/page/aat/300004179)
+- [statue](http://vocab.getty.edu/page/aat/300047600)
+- [terrace](http://vocab.getty.edu/page/aat/300004182)
 
 
 ### Garden Description
@@ -68,6 +68,10 @@ What must originally have been an open area with an elaborate [fountain](http://
 ### Dates
 
 1st century CE
+
+#### Excavation Date
+
+unspecified
 
 ### Bibliography
 
