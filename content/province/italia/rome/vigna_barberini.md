@@ -75,7 +75,7 @@ PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
 ### Bibliography
 <!-- -->
-* P. Bigot, “Le temple de Jupiter Ultor et la Vigna Barberini,” *Bullettino della Commissione archeologica Comunale di Roma*  1911, pp. 80-85. [(worldcat)](http://www.worldcat.org/oclc/991557901)
+* P. Bigot, “Le temple de Jupiter Ultor et la Vigna Barberini,” *Bullettino della Commissione archeologica Comunale di Roma*, 1911, pp. 80-85. [(worldcat)](http://www.worldcat.org/oclc/991557901)
 * F. Villedieu, J.-P Morel, P. Pergola, H. Broise, Y. Thébert, P. Gros, E. Hubert, et alii, “Rome: le Palatin (Vigna Barberini),” *Mélanges de l’École Française de Rome* 98 (1986) pp. 387-396; 99 (1987) pp. 481-498; 100 (1988) pp. 505-525; 101 (1989) pp. 489-498; 102 (1990) pp. 443-471; 103 (1991) pp. 313-338; 104 (1992) pp. 465-493; 105 (1993) pp. 419-439; 106 (1994) pp. 431-450; 107 (1995) pp. 459-493; 108 (1996) pp. 423-451; 109 (1997) pp. 417-440; 110 (1998) pp. 473-492; 111 (1999) pp. 449-481; 112 (2000) pp. 413-432. [(worldcat)](http://www.worldcat.org/oclc/972029282)
 * M. Royo, F. Chausson, E. Hubert, et alii, *La Vigna Barberini I. Histoire d’un site. Étude des sources et de la topographie,* Rome, 1997. [(worldcat)](http://www.worldcat.org/oclc/1000676783)
 * M.A. Tomei,  “La ex Vigna Barberini e le aree limitrofe: documentazione dall’archivio della Soprintendenza archeologica”  *La Vigna Barberini I*, op. cit, pp. 191-210. [(worldcat)](http://www.worldcat.org/oclc/1000676783)
