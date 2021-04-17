@@ -7,13 +7,20 @@ function displayResults (results, store) {
     // Iterate and build result list elements
     for (const n in results) {
       const item = store[results[n].ref]
+
+      // linked title
       resultList += '<li><b><a href="' + item.url + '">' + item.title + '</a></b>'
-      resultList += '<br><small>(' + item.location + ')</small>'
-      resultList += '<br>' + item.content.substring(0, 150) + '...</li>'
+
+      // breadcrumbs
+      resultList += '<br><small>(' + item.breadcrumbs + ')</small>'
+
+      // garden description snippet
+      resultList += '<br>' + item.content.replace(/^(.|\n)*Garden Description /, '').substring(0, 150) + '...</li>'
     }
     searchResultsList.innerHTML = resultList
   } else {
-    searchResultsList.innerHTML = 'No results found for <b>' + q + '</b>'
+    searchResultsSummary.innerHTML = 'No results found for <b>' + q + '</b>'
+    searchResultsList.innerHTML = ''
   }
 }
 
@@ -23,24 +30,22 @@ let q = params.get('q')
 
 // Perform a search if there is a query
 if (q) {
+
   // Retain the search input in the form when displaying results
-  document.getElementById('search-input').setAttribute('value', q)
+  window.setTimeout((function(){document.getElementById('search-input').setAttribute('value', q)}), 500)
 
   const idx = lunr(function () {
     this.ref('id')
     this.field('title', {
-      boost: 15
-    })
-    this.field('tags')
-    this.field('content', {
       boost: 10
     })
+    this.field('content')
 
     for (const key in window.store) {
       this.add({
         id: key,
         title: window.store[key].title,
-        tags: window.store[key].category,
+        //tags: window.store[key].category,
         content: window.store[key].content
       })
     }
@@ -49,9 +54,15 @@ if (q) {
   // Only return results that contain ALL query terms
   qall = '+' + q.split(' ').join(' +')
 
-  // Perform the search
-  const results = idx.search(qall)
-  // Update the list with results
-  displayResults(results, window.store)
+  try {
+    // Perform the search
+    const results = idx.search(qall)
+    // Update the list with results
+    displayResults(results, window.store)
+  }
+  catch {
+    const searchResultsSummary = document.getElementById('search-results-summary')
+    searchResultsSummary.innerHTML = 'Error parsing the query <b>' + q + '</b>'
+    searchResultsList = document.getElementById('search-results-list').innerHTML = ''
+  }
 }
-
