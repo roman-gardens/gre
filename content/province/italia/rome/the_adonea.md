@@ -4,7 +4,7 @@ title: "The Adonea of the Flavian Palace, Palatine"
 date: 2021-04-04T21:59:57+02:00
 province_id: ITALIA
 author: Françoise Villedieu
-editor: Rhiannon Pare
+editor: Rhiannon Paré
 draft: true
 ---
 
@@ -32,10 +32,10 @@ The Adonea of the Flavian Palace, Palatine
 
 ### Keywords
 
-- [flower gardens](http://vocab.getty.edu/page/aat/300008135)
-- [flowerpots](http://vocab.getty.edu/page/aat/300194749)
-- [palaces](http://vocab.getty.edu/page/aat/300005734)
-- [princeps](https://www.britannica.com/topic/princeps)
+- [flower garden](http://vocab.getty.edu/page/aat/300008135)
+- [flowerpot](http://vocab.getty.edu/page/aat/300194749)
+- [palace](http://vocab.getty.edu/page/aat/300005734)
+- [princep](https://www.britannica.com/topic/princeps)
 
 - [Philostratus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1108)
 
@@ -47,6 +47,10 @@ The Adonea of the Flavian Palace, Palatine
 ### Dates
 
 Unspecified
+
+#### Excavation Date
+
+unspecified
 
 ### Bibliography
 <!--

@@ -4,7 +4,7 @@ title: "House of Augustus"
 date: 2021-04-04T00:37:34+02:00
 province_id: ITALIA
 author: M.-A. Tomei
-editor: Rhiannon Pare
+editor: Rhiannon Paré
 draft: true
 ---
 
@@ -33,12 +33,12 @@ Garden of the House of Augustus, Palatine
 
 - [alae](http://vocab.getty.edu/page/aat/300004055)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
-- [frescoes (visual works)](http://vocab.getty.edu/page/aat/300177433)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [princeps](https://www.britannica.com/topic/princeps)
+- [fresco (visual work)](http://vocab.getty.edu/page/aat/300177433)
+- [nymphaeum (garden structure)](http://vocab.getty.edu/page/aat/300006809)
+- [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
+- [princep](https://www.britannica.com/topic/princeps)
 - [topiary](http://vocab.getty.edu/page/aat/300061887)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- [triclinium (room)](http://vocab.getty.edu/page/aat/300004359)
 
 
 ### Garden Description
@@ -58,6 +58,10 @@ Finally, both the inventor of the [*ars topiaria*](https://en.wikipedia.org/wiki
 ### Dates
 
 1st century BCE
+
+#### Excavation Date
+
+unspecified
 
 ### Bibliography
 
