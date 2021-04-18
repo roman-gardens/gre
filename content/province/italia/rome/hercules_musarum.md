@@ -69,13 +69,13 @@ The *collegium poetarum* formally gathered near the complex, and so perhaps the 
 <!-- -->
 ### Figures
 <!-- -->
-{{< figure src="../images/hercules_musarum_fig1.jpg" alt="fragment from the Forma Urbis Romae showing a part of the Hercules Musarum complex, and inscribed with its name" title="Figure 1. Temple of Hercules Musarum on a fragment of the Severan Marble Plan" >}}
+{{< figure src="../images/hercules_musarum_fig1.jpg" alt="fragment from the Forma Urbis Romae showing a part of the Hercules Musarum complex, and inscribed with its name" title=" Fig. 1. Temple of Hercules Musarum on a fragment of the Severan Marble Plan." >}}
 <!-- -->
-{{< figure src="../images/hercules_musarum_fig2.jpg" alt="fragment from the Forma Urbis Romae showing the corner of the Hercules Musarum complex" title="Figure 2. Temple of Hercules Musarum on the Severan Marble Plan." >}}
+{{< figure src="../images/hercules_musarum_fig2.jpg" alt="fragment from the Forma Urbis Romae showing the corner of the Hercules Musarum complex" title=" Fig. 2. Temple of Hercules Musarum on the Severan Marble Plan." >}}
 <!-- -->
-{{< figure src="../images/.jpg" alt="Base plan of the Hercules Musarum" title="Figure 3. Base plan of the Temple of Hercules Musarum. Coarelli, 1997." >}}
+{{< figure src="../images/.jpg" alt="Base plan of the Hercules Musarum" title=" Fig. 3. Base plan of the Temple of Hercules Musarum. Coarelli, 1997." >}}
 <!-- -->
-{{< figure src="../images/.jpg" alt="A base plan of the Hercules Musarum with two potential reconstructions of the porticus" title="Figure 4. A base plan with two potential reconstructions of the porticus. The porticus was at a significantly higher level than the interior courtyard. No connection (i.e. steps) is identified on the plan. Either a raised temple or porticus are possible. The following two sections illustrate the difference in elevations. The second option shows the portico at ground level and the temple elevated. This would allow for access to and from portico and temple. © Linda Anderson." >}}
+{{< figure src="../images/.jpg" alt="A base plan of the Hercules Musarum with two potential reconstructions of the porticus" title=" Fig. 4. A base plan with two potential reconstructions of the porticus. The porticus was at a significantly higher level than the interior courtyard. No connection (i.e. steps) is identified on the plan. Either a raised temple or porticus are possible. The following two sections illustrate the difference in elevations. The second option shows the portico at ground level and the temple elevated. This would allow for access to and from portico and temple. © Linda Anderson." >}}
 <!-- -->
 ### Dates
 
@@ -87,7 +87,7 @@ Built between 187 and 179 BCE; restoration and portico constructed in Late Repub
 <!-- -->
 ### Bibliography
 <!-- -->
-* L. Richardson, “Hercules Musarum and the Porticus Philippi in Rome,” *American Journal of Archaeology* 81 (1977), pp. 355–61. [(worldcat)](http://www.worldcat.org/oclc/915926883) [(jstor)](https://www.jstor.org/stable/pdf/503009.pdf?refreqid=excelsior%3A377e0064774644b9c5f76bb7eaee514f)
+* L. Richardson, “Hercules Musarum and the Porticus Philippi in Rome,” *American Journal of Archaeology* 81 (1977), pp. 355–61. [(worldcat)](http://www.worldcat.org/oclc/915926883) [(JSTOR)](https://www.jstor.org/stable/pdf/503009.pdf?refreqid=excelsior%3A377e0064774644b9c5f76bb7eaee514f)
 * F. Castagnoli, “Porticus Philippi,” *Analecta Romana Instituti Danici* suppl. 10 (1983), pp. 93–104. [(worldcat)](http://www.worldcat.org/oclc/1708903)
 * F. Coarelli, *Il Campo Marzio*, 1997, pp. 452–84. [(worldcat)](http://www.worldcat.org/oclc/906743621)
 * A. Viscogliosi, s.v. “Porticus Philippi,” *Lexicon topographicum urbis Romae* IV, pp. 146–48. [(worldcat)](http://www.worldcat.org/oclc/772398569)

@@ -60,20 +60,16 @@ From the northern *exedra*, a water [channel](http://vocab.getty.edu/page/aat/30
 <!-- -->
 ### Figures
 <!-- -->
-{{< figure src="../images/divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" title="Figure 1. Photograph of the Severan Forma Urbis depicting the Divorum. © Stanford Project." >}}
+{{< figure src="../images/divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" title="Fig. 1. Photograph of the Severan Forma Urbis depicting the Divorum. © Stanford Project." >}}
 <!-- -->
-{{< figure src="../images/divorum_fig2_edited.jpg" alt="Reconstructed plan of the Divorum" title="Figure 2. Reconstructed plan of the Divorum. © Valerie Aymer." >}}
+{{< figure src="../images/divorum_fig2_edited.jpg" alt="Reconstructed plan of the Divorum" title="Fig. 2. Reconstructed plan of the Divorum. © Valerie Aymer." >}}
 <!-- -->
-{{< figure src="../images/divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" title="Figure 3. Perspective view looking north along the central axis. © Valerie Aymer." >}}
+{{< figure src="../images/divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" title="Fig. 3. Perspective view looking north along the central axis. © Valerie Aymer." >}}
 <!-- -->
 ### Dates
 
 80 CE
 <!-- --><!-- -->
-#### Excavation Date
-
-unspecified
-<!-- -->
 ### Bibliography
 <!-- -->
 * L. Richardson, Jr., “The Villa Publica and the Divorum” in *In Memoriam Otto J. Brendel*, Eds. L. Bonfante and H. von Heintze, Mainz, 1976, pp. 159-163. [(worldcat)](http://www.worldcat.org/oclc/890088916)
@@ -85,10 +81,6 @@ unspecified
 
 [423025](https://pleiades.stoa.org/places/423025)
 <!-- Pleiades resource for Location (Rome), not for the individual garden -->
-<!-- -->
-#### TGN ID
-
-unspecified
 <!-- -->
 ### Contributors
 

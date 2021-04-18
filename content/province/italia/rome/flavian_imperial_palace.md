@@ -74,32 +74,28 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
 ### Figures
 <!-- -->
-{{< figure src="../images/flavianpalace_fig1.jpg" alt="Reconstruction of the Vigna Barberini" title="Figure 1. Reconstruction of the Flavian Palace with, in the forefront, the main body of the complex excavated at the Vigna Barberini. (© N. André, AMU-CNRS, IRAA)." >}}
+{{< figure src="../images/flavianpalace_fig1.jpg" alt="Reconstruction of the Vigna Barberini" title="Fig. 1. Reconstruction of the Flavian Palace with, in the forefront, the main body of the complex excavated at the Vigna Barberini. (© N. André, AMU-CNRS, IRAA)." >}}
 <!-- -->
-{{< figure src="../images/flavianpalace_fig2.jpg" alt="Reconstruction of the Vigna Barberini" title="Figure 2. Map and hypothetical reconstruction of the structures and garden excavated on the site of the Vigna Barberini (© N. André, AMU-CNRS, IRAA)." >}}
+{{< figure src="../images/flavianpalace_fig2.jpg" alt="Reconstruction of the Vigna Barberini" title="Fig. 2. Map and hypothetical reconstruction of the structures and garden excavated on the site of the Vigna Barberini (© N. André, AMU-CNRS, IRAA)." >}}
 <!-- -->
-{{< figure src="../images/flavianpalace_fig3.jpg" alt="Reconstruction of the Flavian Palace" title="Figure 3.	Hypothetical reconstruction of the Flavian garden (© J.-M. Gassend & N. André, AMU-CNRS, IRAA)." >}}
+{{< figure src="../images/flavianpalace_fig3.jpg" alt="Reconstruction of the Flavian Palace" title="Fig. 3.	Hypothetical reconstruction of the Flavian garden (© J.-M. Gassend & N. André, AMU-CNRS, IRAA)." >}}
 <!-- -->
-{{< figure src="../images/flavianpalace_fig4.jpg" alt="Southern Facing Reconstruction of the Flavian Palace" title="Figure 4. Hypothetical reconstruction of the Flavian garden (© J.-M. Gassend & N. André, AMU-CNRS, IRAA)." >}}
+{{< figure src="../images/flavianpalace_fig4.jpg" alt="Southern Facing Reconstruction of the Flavian Palace" title="Fig. 4. Hypothetical reconstruction of the Flavian garden (© J.-M. Gassend & N. André, AMU-CNRS, IRAA)." >}}
 <!-- -->
-{{< figure src="../images/flavianpalace_fig5.jpg" alt="Marble Fountain Base" title="Figure 5. Marble base of a fountain with circular imprint of basin." >}}
+{{< figure src="../images/flavianpalace_fig5.jpg" alt="Marble Fountain Base" title="Fig. 5. Marble base of a fountain with circular imprint of basin." >}}
 <!-- -->
-{{< figure src="../images/flavianpalace_fig6.jpg" alt="Flowerpots of the Flavian Palace" title="Figure 6. 	Flowerpots found in the gardens of the first and second century (© Ch. Durand, AMU-CNRS, CCJ)." >}}
+{{< figure src="../images/flavianpalace_fig6.jpg" alt="Flowerpots of the Flavian Palace" title="Fig. 6. 	Flowerpots found in the gardens of the first and second century (© Ch. Durand, AMU-CNRS, CCJ)." >}}
 <!-- -->
-{{< figure src="../images/flavianpalace_fig7.jpg" alt="Detail Marble Canal of the Flavian Palace" title="Figure 7. Detail of the marble canal along the outer edge of the portico." >}}
+{{< figure src="../images/flavianpalace_fig7.jpg" alt="Detail Marble Canal of the Flavian Palace" title=" Fig. 7. Detail of the marble canal along the outer edge of the portico." >}}
 <!-- -->
 ### Dates
 <!-- -->
 1st century - 2nd century CE
 <!-- -->
-#### Excavation Date
-<!-- -->
-unspecified
-<!-- -->
 ### Bibliography
 <!-- -->
 * M. Royo, *Domus Imperatoriae, Topographie, formation et imaginaire des palais impériaux du Palatin*, Rome, 1999. [(worldcat)](http://www.worldcat.org/oclc/907608488)
-* F. Villedieu and N. André, *Propositions pour une reconstitution de l'édifice flavien et de l'ensemble monumental tardif de la Vigna Barberini* (Rome, Palatin), Actes du Colloque: Rome An 2000 (Caen, Sept. 2000), in press.
+* F. Villedieu and N. André, *Propositions pour une reconstitution de l'édifice flavien et de l'ensemble monumental tardif de la Vigna Barberini* (Rome, Palatin), *Actes du Colloque: Rome An 2000* (Caen, 2003). [(worldcat)](http://www.worldcat.org/oclc/57229072)
 * J.-L Desnier, “Una borsa persa durante i lavori di terrazzamento” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 57-58. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
 * F. Villedieu,  “Il corpo settentrionale e i giardini del palazzo imperiale flavio” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 59-71. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
 * J.-P Morel, “Il giardino adrianeo” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 73-75. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
@@ -115,10 +111,6 @@ unspecified
 Jean-Paul Morel
 Françoise Villedieu
 <!-- -->
-#### ORCID
-
-unspecified
-
 ## Publication date
 <!-- -->
  17 April 2021

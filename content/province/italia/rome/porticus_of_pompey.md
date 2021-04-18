@@ -46,7 +46,7 @@ Garden of the Porticus of Pompey \
 - [statue](http://vocab.getty.edu/page/aat/300047600)
 - [temple](http://vocab.getty.edu/page/aat/300007595)
 - [theater](http://vocab.getty.edu/page/aat/300007117)
-- [viridarium](#)
+- [viridarium](http://vocab.getty.edu/page/aat/300008106)
 <!-- -->
 - [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
 - [Catullus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.337)
@@ -70,7 +70,7 @@ Caesar was murdered in the *Porticus* on March 15, 44 BCE at the foot of the sta
 
 The [Marble Plan and Renaissance drawings of the *FUR*](https://formaurbis.stanford.edu/index.php?field0=all&search0=pompey&op0=and&field1=all&search1=porticus) depicted the *quadriporticus* (180 x 135 m.) as aligned along an east-west axis (Fig. 1). The archaeological evidence suggests that the two elongated rectangles on the Marble Plan depict [Martial’s](https://en.wikipedia.org/wiki/Martial) *nemus duplex*, a double sacred grove, in the center of the *Porticus* (Mart. 2.14.29). Excavations of the Teatro Argentina in 1960s revealed garden soils in the center of the *Porticus* for the initial Pompeian phase and the Augustan rebuilding phase of the garden. Later phases were not preserved. Epigraphic evidence has led to the common restoration of two interior *porticus*, which may have replaced the *nemus* design in one of the many re-buildings of the complex (discussed below).
 
-The *porticus* and the garden ([*virid\[i\]aria*](https://en.wiktionary.org/wiki/viridarium)) were designed on the basis of symmetry and proportion, which Vitruvius set out thirty years later. Metrological studies of the garden and architecture demonstrated that the garden was designed symmetrically along a central axis (975 Roman feet) and divided into three smaller rectangles of the harmonious proportions and three overlapping circles of equal size in conjunction with the design of the *porticus*, the theater, and the temple (Fig. 2). On the basis of these analyses, K. L. Gleason argued that the Theater featured a temporary [*scaenae frons*](http://vocab.getty.edu/page/aat/300083030) in its original phase, allowing a strong visual relationship between the *porticus*, theater, and temple (Fig. 3). M. Gagliardo and J. Packer have proposed that the theater had a permanent *scaenae frons* from the inception of the complex, blocking the powerful line of sight from the *porticus* towards the Temple of Venus (Fig. 4). Certainly, the *scaenae frons* was erected during the radical remodeling of the complex by Augustus in 32 BCE to downplay the political overtones of Pompey’s complex ([Suet. *Aug.* 31](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo012.perseus-lat1:31)), as he also transformed the *Curia* into a latrine ([Cassius Dio 47.19.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0385.tlg001.perseus-grc1:47.19.1) | [(English)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/47*.html)).
+The *porticus* and the garden ([*virid\[i\]aria*](https://en.wiktionary.org/wiki/viridarium)) were designed on the basis of symmetry and proportion, which Vitruvius set out thirty years later. Metrological studies of the garden and architecture demonstrated that the garden was designed symmetrically along a central axis (975 Roman feet) and divided into three smaller rectangles of the harmonious proportions and three overlapping circles of equal size in conjunction with the design of the *porticus*, the theater, and the temple (Fig. 2). On the basis of these analyses, K. L. Gleason argued that the Theater featured a temporary [*scaenae frons*](http://vocab.getty.edu/page/aat/300083030) in its original phase, allowing a strong visual relationship between the *porticus*, theater, and temple (Fig. 3). M. Gagliardo and J. Packer have proposed that the theater had a permanent *scaenae frons* from the inception of the complex, blocking the powerful line of sight from the *porticus* towards the Temple of Venus (Fig. 4). Certainly, the *scaenae frons* was erected during the radical remodeling of the complex by Augustus in 32 BCE to downplay the political overtones of Pompey’s complex ([Suet. *Aug.* 31](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo012.perseus-lat1:31)), as he also transformed the *Curia* into a latrine ([Cassius Dio 47.19.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0385.tlg001.perseus-grc1:47.19.1) | [(ENG)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/47*.html)).
 
 The *nemus*, dedicated to Venus Victrix, was planted with evenly spaced ranks of plane trees ([*Platanus orientalis*](https://en.wikipedia.org/wiki/Platanus_orientalis)) ([Pliny *HN* 35.39](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:35.39); [Propertius, 2.32.11-12](http://data.perseus.org/citations/urn:cts:latinLit:phi0620.phi001.perseus-lat2:2.32)). Other plants may have included the myrtle ([*Myrtus communis*](https://en.wikipedia.org/wiki/Myrtus_communis)), associated with fertility and Venus, and laurel, the symbol of victory ([*Laurus nobilis*](https://en.wikipedia.org/wiki/Laurus_nobilis)), as suggested by P. Grimal. The plane trees lined the central avenue, directing the visitor’s view west to the Theater/Temple of Venus. The lay-out of the double *nemus* and the controlled views of it established a relationship in architecture and greenery between Pompey and Venus.
 
@@ -84,28 +84,24 @@ Augustus’ remodeling of the theater and *porticus* (in 32 BCE), discussed abov
 <!-- -->
 ### Figures
 <!-- -->
-{{< figure src="../images/porticus_of_pompey_fig1.jpg" alt="A restored plan of the Porticus of Pompey based on the Marble Plan, the archaeological remains of the Republic temples, and on the foundations of the theater" title="Figure 1. Restored plan of the Porticus Pompeianae based on the Marble Plan, the archaeological remains of the Republic temples, and the foundations of the theater. Gleason, 1994, p.16." >}}
+{{< figure src="../images/porticus_of_pompey_fig1.jpg" alt="A restored plan of the Porticus of Pompey based on the Marble Plan, the archaeological remains of the Republic temples, and on the foundations of the theater" title="Fig. 1. Restored plan of the Porticus Pompeianae based on the Marble Plan, the archaeological remains of the Republic temples, and the foundations of the theater. Gleason, 1994, p.16." >}}
 <!-- -->
-{{< figure src="../images/porticus_of_pompey_fig2.jpg" alt="Metrological studies of the porticus, demonstrating that the porticus, the theater, and the garden were laid out using a complex understanding of geometry" title="Figure 2. Metrological studies of the porticus: the porticus, the theater, and the garden were laid out using a complex understanding of geometry. Gleason, 1994, p. 18." >}}
+{{< figure src="../images/porticus_of_pompey_fig2.jpg" alt="Metrological studies of the porticus, demonstrating that the porticus, the theater, and the garden were laid out using a complex understanding of geometry" title="Fig. 2. Metrological studies of the porticus: the porticus, the theater, and the garden were laid out using a complex understanding of geometry. Gleason, 1994, p. 18." >}}
 <!-- -->
-{{< figure src="../images/porticus_of_pompey_fig3.jpg" alt="Perspective drawing along the central axis from the curia to the Temple of Venus Victrix atop the theater in the original phase of the Porticus of Pompey" title="Figure 3. Perspective along the central axis from the Curia to the Temple of Venus Victrix atop the theater in the original phase. © Lori Cockerham Catalano." >}}
+{{< figure src="../images/porticus_of_pompey_fig3.jpg" alt="Perspective drawing along the central axis from the curia to the Temple of Venus Victrix atop the theater in the original phase of the Porticus of Pompey" title="Fig. 3. Perspective along the central axis from the Curia to the Temple of Venus Victrix atop the theater in the original phase. © Lori Cockerham Catalano." >}}
 <!-- -->
-{{< figure src="../images/porticus_of_pompey_fig4.jpg" alt="Sketch of the view along the central axis from the curia to the temple of Venus Victrix atop the theater after the erection of a permanent stage building by Augustus; the unity of the space is lost due to the erection of scaena; the temple cannot be seen at all" title="Figure 4. The view along the central axis from the Curia to the Temple of Venus Victrix atop the theater after the erection of a permanent stage building by Augustus; the unity of the space is lost due to the erection of the scaenae. The temple cannot be seen at all. © Lori Cockerham Catalano." >}}
+{{< figure src="../images/porticus_of_pompey_fig4.jpg" alt="Sketch of the view along the central axis from the curia to the temple of Venus Victrix atop the theater after the erection of a permanent stage building by Augustus; the unity of the space is lost due to the erection of scaena; the temple cannot be seen at all" title="Fig. 4. The view along the central axis from the Curia to the Temple of Venus Victrix atop the theater after the erection of a permanent stage building by Augustus; the unity of the space is lost due to the erection of the scaenae. The temple cannot be seen at all. © Lori Cockerham Catalano." >}}
 <!-- -->
 ### Dates
 
 55 BCE
-<!-- -->
-#### Excavation Date
-
-unspecified
 <!-- -->
 ### Bibliography
 <!-- -->
 * F. Coarelli, *Il Campo Marzio*, Rome, 1997, pp. 539-79. [(worldcat)](http://www.worldcat.org/oclc/906743621)
 * P.A., Gianfrotta, O. Mazzucato, M., Polia, “Scavo nell’area del Teatro Argentina 1968-69,” *Bollettino della Commissione Archaeologica Comunale di Roma* 81 (1968-69), pp. 25-36. [(worldcat)](http://www.worldcat.org/oclc/43879063)
 * K. Gleason, “Porticus Pompeiana: a new perspective on the first public park of ancient Rome,” *Journal of Garden History* Vol. 14, No. 1 (1994), pp. 13-27. [(worldcat)](http://www.worldcat.org/oclc/1100898687)
-* K. Gleason, “Gardens and Landscapes of the Past,” *University Expeditions*, Vol. 32, No. 2 (1990), pp. 3-13. [(worldcat)](#)
+* K. Gleason, “Gardens and Landscapes of the Past,” *University Expeditions*, Vol. 32, No. 2 (1990), pp. 3-13. [(Expedition)](<http://www.penn.museum/sites/expedition/?p=3110>)
 * P. Grimal, *Les Jardins Romains*, Paris, 1969, pp. 171-6. [(worldcat)](http://www.worldcat.org/oclc/959046569)
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae*, s.v. "Porticus Pompei" (P. Gros), pp. 148-9. [(worldcat)](http://www.worldcat.org/oclc/956078474)
 * A. Kuttner, “Culture and History at Pompey’s Museum,” *Transactions of the American Philological Association* 129 (1999), pp. 343-73. [(worldcat)](http://www.worldcat.org/oclc/228297096)
@@ -115,10 +111,6 @@ unspecified
 #### Pleiades ID
 
 [165546433](https://pleiades.stoa.org/places/165546433)
-<!-- -->
-#### TGN ID
-
-unspecified
 <!-- -->
 ### Contributors
 
