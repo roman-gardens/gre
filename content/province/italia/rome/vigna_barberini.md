@@ -15,9 +15,9 @@ tags:
 
 ## Province
 
-[ITALIA]({{<relref "..">}})\
-[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
-[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[Italia]({{<relref "..">}})\
+[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)\
+[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 <!-- -->
 ## Location
 
@@ -55,7 +55,7 @@ PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
 [Garden of the Peristyle of the Julio-Claudian *Domus*]({{<relref"/julio_claudian_domus.md">}})\
 [Garden of the Flavian Imperial Palace]({{<relref"/flavian_imperial_palace.md">}})\
-[Garden of the Temple of Elagabalus]({{<relref"/temple_of_elagabalus.md">}})\
+[Garden of the Temple of Elagabalus]({{<relref"/temple_of_elagabalus.md">}})
 <!-- -->
 ### Figures
 <!-- -->
@@ -75,20 +75,20 @@ PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
 ### Bibliography
 <!-- -->
-* P. Bigot, “Le temple de Jupiter Ultor et la Vigna Barberini,” *BullCom*  1911, pp. 80-85.[(worldcat)](http://www.worldcat.org/oclc/991557901)
-* F. Villedieu, J.-P Morel, P. Pergola, H. Broise, Y. Thébert, P. Gros, E. Hubert, et alii, “Rome: le Palatin (Vigna Barberini),” *Mélanges de l’École Française de Rome* 98 (1986) pp. 387-396; 99 (1987) pp. 481-498; 100 (1988) pp. 505-525; 101 (1989) pp. 489-498; 102 (1990) pp. 443-471; 103 (1991) pp. 313-338; 104 (1992) pp. 465-493; 105 (1993) pp. 419-439; 106 (1994) pp. 431-450; 107 (1995) pp. 459-493; 108 (1996) pp. 423-451; 109 (1997) pp. 417-440; 110 (1998) pp. 473-492; 111 (1999) pp. 449-481; 112 (2000) pp. 413-432.[(worldcat)](http://www.worldcat.org/oclc/972029282)
-* M. Royo, F. Chausson, E. Hubert, et alii, *La Vigna Barberini I. Histoire d’un site. Étude des sources et de la topographie,* Rome, 1997.[(worldcat)](http://www.worldcat.org/oclc/1000676783)
-* M.A. Tomei,  “La ex Vigna Barberini e le aree limitrofe: documentazione dall’archivio della Soprintendenza archeologica”  *La Vigna Barberini I*, op. cit, pp. 191-210.[(worldcat)](http://www.worldcat.org/oclc/1000676783)
-* C. Virlouvet, F. Villedieu, et alii, “Fouilles de l’École française de Rome sur le site de la Vigna Barberini (Palatin),” *Bollettino di Archeologia* 23-24 (1993), pp. 131-164.[(worldcat)](http://www.worldcat.org/oclc/1081538810)
-* F. Villedieu, “La Vigna Barberini (Palatino): nuove acquisizioni,” *Archeologia Laziale XII, Quaderni di Archeologia Etrusco-italica,* 1995, pp. 33-39.[(worldcat)](http://www.worldcat.org/oclc/1146523272)
+* P. Bigot, “Le temple de Jupiter Ultor et la Vigna Barberini,” *Bullettino della Commissione archeologica Comunale di Roma*, 1911, pp. 80-85. [(worldcat)](http://www.worldcat.org/oclc/991557901)
+* F. Villedieu, J.-P Morel, P. Pergola, H. Broise, Y. Thébert, P. Gros, E. Hubert, et alii, “Rome: le Palatin (Vigna Barberini),” *Mélanges de l’École Française de Rome* 98 (1986) pp. 387-396; 99 (1987) pp. 481-498; 100 (1988) pp. 505-525; 101 (1989) pp. 489-498; 102 (1990) pp. 443-471; 103 (1991) pp. 313-338; 104 (1992) pp. 465-493; 105 (1993) pp. 419-439; 106 (1994) pp. 431-450; 107 (1995) pp. 459-493; 108 (1996) pp. 423-451; 109 (1997) pp. 417-440; 110 (1998) pp. 473-492; 111 (1999) pp. 449-481; 112 (2000) pp. 413-432. [(worldcat)](http://www.worldcat.org/oclc/972029282)
+* M. Royo, F. Chausson, E. Hubert, et alii, *La Vigna Barberini I. Histoire d’un site. Étude des sources et de la topographie,* Rome, 1997. [(worldcat)](http://www.worldcat.org/oclc/1000676783)
+* M.A. Tomei,  “La ex Vigna Barberini e le aree limitrofe: documentazione dall’archivio della Soprintendenza archeologica”  *La Vigna Barberini I*, op. cit, pp. 191-210. [(worldcat)](http://www.worldcat.org/oclc/1000676783)
+* C. Virlouvet, F. Villedieu, et alii, “Fouilles de l’École française de Rome sur le site de la Vigna Barberini (Palatin),” *Bollettino di Archeologia* 23-24 (1993), pp. 131-164. [(worldcat)](http://www.worldcat.org/oclc/1081538810)
+* F. Villedieu, “La Vigna Barberini (Palatino): nuove acquisizioni,” *Archeologia Laziale XII, Quaderni di Archeologia Etrusco-italica,* 1995, pp. 33-39. [(worldcat)](http://www.worldcat.org/oclc/1146523272)
 * F. Villedieu, “Constructions impériales mises au jour à l'angle N-E du Palatin. Résultats des fouilles de l'École française de Rome sur le site de la Vigna Barberini,” *Comptes Rendus de l’Académie des Inscriptions & Belles-Lettres,* 1995, pp. 719-736.[(worldcat)](http://www.worldcat.org/oclc/643571704)
-* J.-P. Morel, “Stratigraphie et histoire sur le Palatin : la zone centrale de la Vigna Barberini,” *Comptes Rendus de l’Académie des Inscriptions & Belles-Lettres*, 1996, pp. 173-205.[(worldcat)](http://www.worldcat.org/oclc/643571704)
-* F. Villedieu, P. Veltri,  “Les soutènements nord-ouest et nord de la terrasse de la Vigna Barberini (Rome, Palatin): constructions et remaniements de l’époque flavienne à l’époque sévérienne,” *Mélanges de l’École Française de Rome*, 111 (1999), pp. 749-778.[(worldcat)](http://www.worldcat.org/oclc/220729070)
-* F. Villedieu , et alii, *Il giardino dei Cesari.* Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001.[(worldcat)](http://www.worldcat.org/oclc/5894435382)
+* J.-P. Morel, “Stratigraphie et histoire sur le Palatin : la zone centrale de la Vigna Barberini,” *Comptes Rendus de l’Académie des Inscriptions & Belles-Lettres*, 1996, pp. 173-205. [(worldcat)](http://www.worldcat.org/oclc/643571704)
+* F. Villedieu, P. Veltri,  “Les soutènements nord-ouest et nord de la terrasse de la Vigna Barberini (Rome, Palatin): constructions et remaniements de l’époque flavienne à l’époque sévérienne,” *Mélanges de l’École Française de Rome*, 111 (1999), pp. 749-778. [(worldcat)](http://www.worldcat.org/oclc/220729070)
+* F. Villedieu , et alii, *Il giardino dei Cesari.* Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
 <!-- -->
 #### Pleiades ID
 <!-- -->
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
+[971691208](https://pleiades.stoa.org/places/971691208)
 <!-- -->
 ### Contributor
 <!-- -->
@@ -96,4 +96,4 @@ Françoise Villedieu<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
 <!-- -->
 ### Publication date
 <!-- -->
-15 APRIL 2021
+17 April 2021
