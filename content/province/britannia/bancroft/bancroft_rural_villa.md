@@ -4,8 +4,8 @@ date: 2020-07-07T18:04:20-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
-editor: June Dorsch
-draft: true
+editor: June Dorsch, Jane Millar
+draft: false
 
 categories:
   - "Britannia"
@@ -43,7 +43,7 @@ Rural Villa in Bancroft
 
 ### Keywords
 
-- [archaeological garden](#)
+- [archaeological gardens](#)
 - [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
 - [drains](http://vocab.getty.edu/page/aat/300052564)
 - [gazebos](http://vocab.getty.edu/page/aat/300006798)
@@ -63,13 +63,13 @@ The villa complex that preceded the winged corridor house is also of interest in
 
 ### Plans
 
-{{< figure src="../images/Bancroft_fig_1.jpg" alt="Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4." title="Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.(Rights statement.)" >}}
+{{< figure src="../images/Bancroft_fig_1.jpg" alt="Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4." title="Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4." >}}
 
 <!--### Images-->
 
 ### Dates
 
-Roman villa... built in the late 3rd century and rebuilt and enlarged in the mid-4th century.
+late 3rd century CE, rebuilt and enlarged in the mid-4th century
 
 #### Excavation Dates
 
