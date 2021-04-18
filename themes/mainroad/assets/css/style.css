@@ -403,7 +403,6 @@ select {
 }
 
 .logo__text {
-	text-transform: uppercase;
 }
 
 .logo--mixed .logo__item {
