@@ -46,7 +46,7 @@ Roman Palace in Fishbourne
 
 ### Keywords
 
-- [archaeological garden](#)
+- [archaeological gardens](#)
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [loam](http://vocab.getty.edu/page/aat/300014335)
@@ -72,11 +72,7 @@ There is circumstantial evidence for there having been a vegetable garden in the
 
 Limited excavations to the south of the palace revealed an artificial terrace which bore evidence of landscaping, including a pool, a gravel path, possible bedding trenches and what may have been the base for a column or statue. Excavations to the east of the palace in the mid 1980's uncovered evidence for semi-formal gardens.
 
-### Maps
-
-<!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
--->
+<!-- ### Maps -->
 
 ### Plans
 
@@ -90,7 +86,7 @@ Limited excavations to the south of the palace revealed an artificial terrace wh
 
 ### Dates
 
-Late 1st century CE - unspecified
+late 1st century CE - unspecified
 
 #### Excavation Dates
 
