@@ -10,13 +10,7 @@ draft: false
 categories:
  - "Arabia Petraea"
 tags:
- - "artificial islands"
- - "aula/forecourt"
- - "columbarium/dovecote"
- - "palace garden"
- - "paradeisos/paradise garden"
- - "reflecting pool"
- - "triclinia (rooms)"
+
 ---
 
 ## Province

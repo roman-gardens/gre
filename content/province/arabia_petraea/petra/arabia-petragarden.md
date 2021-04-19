@@ -99,9 +99,9 @@ A deep deposit of sediment above the pool floor indicates that the pool went out
 ### Images
 {{< figure src="../images/5_arabia_petra_southernterrace.jpg" alt="View of the Southern Terrace and its structures" title="Fig. 5: Aerial view of the structures on the Southern Terrace in Petra's City Center. Photograph by L.-A. Bedal." >}}
 
-{{< figure src="../images/6_arabia_petra_trench17.jpg" alt="Overhead view of Trench 17 showing pathway, stone borders, and root cavities" title="Fig. 6: Excavations in Trench 17 where a gravel pathway with stone border and excavated root cavities were uncovered. Photograph by L.-A. Bedal." >}}
+{{< figure src="../images/6_arabia_petra_pathway.jpg" alt="Overhead view of Trench 17" title="Fig. 6: Excavations in Trench 17 where a gravel pathway with stone border and excavated root cavities were uncovered. Photograph by L.-A. Bedal." >}}
 
-{{< figure src="../images/7_arabia_petra_sketch.jpg" alt="Imagined reconstruction of the trellised pathway" title="Fig. 7: Imagined reconstruction of the trellised pathway. Drawing by K. Gleason." >}}
+{{< figure src="../images/7_arabia_petra_trellis.jpg" alt="Imagined reconstruction of the trellised pathway" title="Fig. 7: Imagined reconstruction of the trellised pathway. Drawing by K. Gleason." >}}
 
 {{< figure src="../images/8_arabia_petra_flowerpot.jpg" alt="Photo and illustrations of an unglazed ceramic pot with small round hole" title="Fig. 8: Fragment of a perforated planting pot with reconstruction drawing. Photo and drawing by L.-A. Bedal." >}}
 
