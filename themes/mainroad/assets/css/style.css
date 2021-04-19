@@ -189,7 +189,7 @@ h6 {
 }
 
 a {
-	color: #000;
+	color: {{ $highlightColor }};
 	text-decoration: none;
 }
 
@@ -380,8 +380,7 @@ select {
 /* Header */
 .header {
 	width: 100%;
-	background: linear-gradient(to bottom, #ffffff00, 40%, #ffffff00, 65%, #ffffffff), url('/gre-website-test/img/header91.jpg');
-	background-size: cover;
+	background: linear-gradient(to bottom, #ffffff00, 40%, #ffffff00, 65%, #ffffffff), url('/img/header91.jpg');
 }
 
 
@@ -1022,7 +1021,6 @@ textarea:hover {
 input[type=submit],
 input[type=reset] {
 	display: inline-block;
-	min-width: 150px;
 	padding: 10px 15px;
 	font-weight: 700;
 	color: #fff;
@@ -1317,9 +1315,19 @@ textarea {
 }
 
 
+#search-results-list {
+	margin: 1em;
+	list-style: none;
+}
 
+#search-results-list li {
+	margin: 1em 1em;
+}
 
-
+#search-results-list small {
+	color: #666;
+}
+  
 .province-subdivisions {
   margin: 1em 0;
   padding: 1em;
