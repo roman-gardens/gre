@@ -1,5 +1,5 @@
 ---
-title: "Tomb garden of T. Vettius Hermes (I.iii.23)"
+title: "Tomb garden of T. Vettius Hermes"
 date: 2020-11-23T12:00:02-05:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
