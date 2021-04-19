@@ -13,7 +13,7 @@ tags:
  - "domus"
  - "mosaics (visual works)"
  - "peristyle houses"
- - "piscinae"
+ - "semicircular basin"
 ---
 
 ## Province
@@ -30,8 +30,8 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 [Cuicul]({{<relref ".">}}) \
 [Cuicul (Pleiades)](https://pleiades.stoa.org/places/305068)
 
-###City Plan
-{{< figure src="../images/plan_hylas.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul">}}
+
+{{< figure src="../images/cuicul_house_of_hylas.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
 ### Location Description
 
@@ -50,8 +50,7 @@ House of Hylas, Central District (Maison de Castorius, Quartier central)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
-- [semicircular basin]
+- [semicircular basin](#)
 
 ### Garden Description
 
@@ -61,10 +60,12 @@ On the side of the corridor leading from the Severan Forum, there was a garden, 
 
 ### Plans
 
-{{< figure src="../images/house_of_hylas_plan1.jpg" alt="Plan of the House of Hylas. More details are included in the garden description section above." title="Fig. 1: Plan of the House of Hylas (Maisons à mosaïques du quartier central de Djemila (Cuicul) p. 170, fig. 77)">}}
+{{< figure src="../images/house_of_hylas_plan1.jpg" alt="Plan of the House of Hylas. More details are included in the garden description section above." title="Fig. 1: Plan of the House of Hylas (Blanchard-Lemée, M., 1975, fig. 77)">}}
 
-{{< figure src="../images/house_of_hylas_photo.png" alt="View of the corridor and the basin. On the background, the courtyard garden." title="Fig. 2: View of the corridor and the basin. On the background, the courtyard garden (Photo, M. Blanchard-Lemée)">}}
+
 ### Images
+
+{{< figure src="../images/house_of_hylas_photo.png" alt="View of the corridor and the basin. On the background, the courtyard garden." title="Fig. 2: View of the corridor and the basin. On the background, the courtyard garden (Blanchard Lemée, M.,  AOrOc)">}}
 
 ### Dates
 
@@ -75,17 +76,12 @@ On the side of the corridor leading from the Severan Forum, there was a garden, 
 1938
 
 ### Bibliography
-<!--need to link these with Zotero, find on worldcat-->
-
-* M. Blanchard-Lemée, Maisons à mosaïques du quartier central de Djemila (Cuicul), Paris, 1975, p. 129-151. [(worldcat)](http://www.worldcat.org/oclc/461390883)
-
-* P. Février, Note sur le développement urbain en Afrique du Nord, les exemples comparés de Djemila et de Sétif, in  C.Arch. , XIV, 1964, p. 21-22, plan p. 14. [(worldcat)](http://www.worldcat.org/oclc/758540114)
+*  Blanchard-Lemée, M., *Maisons à mosaïques du quartier central de Djemila (Cuicul)*, Paris, 1975, pp. 129-151. [(worldcat)](http://www.worldcat.org/oclc/461390883)
+*  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](http://www.worldcat.org/oclc/1090653355)
+*  Février, P.-A., "Note sur le développement urbain en Afrique du Nord, les exemples comparés de Djemila et de Sétif", in  *C.Arch.* , XIV, 1964, pp. 21-22, plan p. 14. [(worldcat)](http://www.worldcat.org/oclc/758540114)
 
 #### Pleiades ID
-<!--
-Pleiades entry not yet created - example page below
-[278428164](https://pleiades.stoa.org/places/278428164)
--->
+[305068](https://pleiades.stoa.org/places/305068)
 #### TGN ID
 
 ### Contributor

@@ -10,9 +10,10 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- - "oecus"
- - "semicircular"
- - "triclinia (rooms)"
+ - "domus"
+ - "peristyle houses"
+ - "semicircular basin"
+ - "triclinia(rooms)"
 ---
 
 ## Province
@@ -20,7 +21,7 @@ tags:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 <!-- DESCRIPTION -->
 
 
@@ -51,13 +52,15 @@ House of the Treasure (Maison au trésor)
 
 ### Keywords
 
-- [semicircular](http://vocab.getty.edu/page/aat/300263828)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [oecus](http://vocab.getty.edu/page/aat/300080791)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [semicircular basin](#)
+- [triclinia(rooms)](http://vocab.getty.edu/page/aat/300004359)
+
 
 ### Garden Description
 
-The House is located in the *insula* II (Lots 1,7). The peristyle garden had a semicircular basin extending from the two middle columns on the S side, facing the *triclinium* (XVII) during the first century AD (Plan view, Fig.1). When the house was substantially altered in the second century the enlargement of the curb on the adjoining well destroyed half of the basin. At the same time the *oecus* was subdivided into several rooms, courtyard was paved.
+The House is located in the *insula* II (Lots 1,7). The peristyle garden had a semicircular basin extending from the two middle columns on the S side, facing the *triclinium* (XVII) during the first century AD (Plan view, Fig.1). When the house was substantially altered in the second century the enlargement of the curb on the adjoining well destroyed half of the basin. At the same time the *oecus* was subdivided into several rooms, the courtyard was paved.
 
 
 
@@ -70,16 +73,16 @@ The House is located in the *insula* II (Lots 1,7). The peristyle garden had a s
 
 ### Images
 
-{{< figure src="../images/house_of_the_treasure.jpg" alt="Fig.1: Plan of the House of the Treasure." title="Fig.1: Plan of the House of the Treasure(CMT, pp.11-18, plans 3,4). " >}}
+{{< figure src="../images/AFR_Uti_Ht_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the Treasure." title="Fig.1: Plan of the House of the Treasure (CMT, plans 3,4). " >}}
 
 ### Dates
 
-The house is dated to I-IV c.
+1st-4th century CE
 
 ### Bibliography
+* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.348-349. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp.11-18, plans 3,4.[(worldcat)](http://www.worldcat.org/oclc/905773599)
 
-* CMT, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp.11-18, plans 3,4.[(worldcat)](http://www.worldcat.org/oclc/905773599)
-* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003, p.348-349. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 <!--#### Periodo ID-->
 
@@ -95,8 +98,8 @@ The house is dated to I-IV c.
 
 ### Contributor
 
-[Wilhelmina F. Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970)
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X)
+[Wilhelmina F. Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)) \
+[Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication date
 

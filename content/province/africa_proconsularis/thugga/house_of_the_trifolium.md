@@ -10,9 +10,10 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- - "balustrade"
- - "oecus"
- - "porticoes"
+ - "domus"
+ - "peristyle house"
+ - "semicircular basin"
+ - "oeci"
 ---
 
 ## Province
@@ -21,16 +22,14 @@ tags:
 
 ### Province Description
 
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The  climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The  climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
-[THUGGA (Douga) Tunisia]({{<relref ".">}}) \
-[THUGGA (Douga) Tunisia (Pleiades)](https://pleiades.stoa.org/places/315223)
+[THUGGA (Dougga) Tunisia]({{<relref ".">}}) \
+[THUGGA (Dougga) Tunisia (Pleiades)](https://pleiades.stoa.org/places/315223)
 
-<!--### Plan of City
 
-{{< figure src="../images/Doua_plan_city.jpg" alt="Plan of Thugga" title="Plan of the Thugga" >}}
--->
+{{< figure src="../images/dougga_house_of_the_trifolium.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
 
 
 ### Location Description
@@ -43,29 +42,30 @@ House of the Trifolium (Maison du Trifolium)
 
 ### Keywords
 
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [balustrade](http://vocab.getty.edu/page/aat/300001989)
-- [oecus](http://vocab.getty.edu/page/aat/300080791)
-- [trifolium]
-- [semi-circular pool](#)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [semicircular basin](#)
+- [oeci](http://vocab.getty.edu/page/aat/300080791)
+
 
 ### Garden Description
 
-This house is the largest excavated to-date at Thugga. It appears to date from the first half of the 3rd centur. The rooms on the ground floor were arranged around a large court, which was more than 5 m (Plan view, Fig. 1) lower than the street. A garden occupied the center of the court which is enclosed by a portico on its four sides, the columns of which, carved with plaster and connected by a balustrade ought to have supported a wooden frame. The porticos were paved with beautiful mosaics of which certain motifs are of prophylactic character. The 3 doors of the oecus open onto the W portico, in front of which between two pilasters was a semi-circular pool projecting into the garden. This basin was decorated with a mosaic representing fish today destroyed. The oecus opens on the N onto a large room in the form of a trifolium.
+This house is the largest excavated to-date at Thugga. It appears to date from the first half of the 3rd century. The rooms on the ground floor were arranged around a large court, which was more than 5 m (Plan view, Fig. 1) lower than the street. A garden occupied the center of the court which is enclosed by a portico on its four sides, the columns of which, carved with plaster and connected by a balustrade ought to have supported a wooden frame. The porticos were paved with mosaics. The 3 doors of the *oecus* open onto the W portico, in front of which between two pilasters was a semi-circular pool projecting into the garden. This basin was decorated with a mosaic representing fish today destroyed. The *oecus* opens on the N onto a large room in the form of a *trifolium*.
 
 ### Maps
 
-### Plan
-{{< figure src="../images/House_of_the_trillium_Dougga_color.jpg" alt="Plan of Trifolium" title="Fig. 1: Plan of House of House of the Trifolium (Portail internet de Dougga, Ministère de la culture et de la sauvegarde du patrimoine, http://www.dougga.rnrt.tn/file/plan_maison_trifolium.pdf)" >}}
+### Plans
+{{< figure src="../images/House_of_the_trillium_Dougga_color.jpg" alt="Plan of Trifolium" title="Fig. 1: Plan of House of the Trifolium (Portail internet de Dougga, Ministère de la culture et de la sauvegarde du patrimoine, http://www.dougga.rnrt.tn/file/plan_maison_trifolium.pdf)" >}}
 
 ### Dates
-It appears to date from the first half of the 3rd centur.
+the first half of the 3rd century
 
 ### Bibliography
-*  C. Poinssot, *Les ruines de Dougga*, Tunis, 1958, p. 53: plan, général n°18 [Worldcat](http://www.worldcat.org/oclc/475099061)
-*  G. Hiesel, V. M. Strocka, "Vorberchicht Über die Grabungen 1996-2000, in Thugga, I, Grundlagen und Bericht, Ed. M. Kanoussi, V. M. Strocka, p. 75-76, 78, Abb. I
-*  Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003, p.274-276. [Worldcat](http://www.worldcat.org/oclc/989088620)
+* Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](http://www.worldcat.org/oclc/7380877046)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia roman*, Rome: Edizioni Quasar, 2003, pp.274-276. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+*  Hiesel, G., Strocka, V. M., "Vorberchicht Über die Grabungen 1996-2000", in *Thugga, I, Grundlagen und Bericht*, Ed. M. Kanoussi, V. M. Strocka, pp. 75-76, 78, Abb. I
+*  Poinssot, C., *Les ruines de Dougga*, Tunis, 1958, p. 53: plan, général n°18. [(worldcat)](http://www.worldcat.org/oclc/475099061)
+* Plan from http://www.dougga.rnrt.tn/file/plan_maison_trifolium.pdf
 
 #### Pleiades_ID
 
@@ -79,6 +79,6 @@ It appears to date from the first half of the 3rd centur.
 
 [Wilhelmina F. Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X)
+[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication Date

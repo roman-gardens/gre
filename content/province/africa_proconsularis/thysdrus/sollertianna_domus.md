@@ -69,17 +69,17 @@ A small courtyard garden (XX, 5.60 x 3 m) enclosed on its two sides by a colonna
 <!--### Maps-->
 
 ### Plans
-{{< figure src="../images/AFR_Thy_Sd_Wjashemski1.jpg" alt="Fig. 1: Plan of the Sollertianna Domus. Photo courtesy of Wilhelmina F. Jashemski for Sollertianna Domus." title="Fig. 1: Plan of the Sollertianna Domus. Photo courtesy of Wilhelmina F. Jashemski for Sollertianna Domus.(CMT, Thysdrus, pp. 1-11, plans 1-2)" >}}
+{{< figure src="../images/AFR_Thy_Sd_Wjashemski1.jpg" alt="Fig. 1: Plan of the Sollertianna Domus." title="Fig. 1: Plan of the Sollertianna Domus. (CMT, plans 1-2)" >}}
 
 <!--### Images-->
 ### Dates
 
-Unspecified
+Early 3rd century CE
 
 ### Bibliography
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 317-319. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Slim, H., Dulière, C., *Corpus des Mosaïques de Tunisie*, *Thysdrus*, *El Jem, Quartier Sud-Ouest*, INA, Tunis, 1996, pp. 1-11, plans 1-2.[(worldcat)](http://www.worldcat.org/oclc/886543032)
 
-* CMT, Thysdrus, *El Jem, Quartier Sud-Ouest*, INA, Tunis, 1996, pp. 1-11, plans 1-2.[(worldcat)](http://www.worldcat.org/oclc/886543032)
-* Bullo, S. and F. Ghedini, Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman, Rome: Edizioni Quasar, 2003, p. 317-319. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 <!--#### Periodo ID-->
 
