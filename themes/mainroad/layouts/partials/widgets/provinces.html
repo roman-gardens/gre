@@ -8,7 +8,8 @@
     {{- range $name, $taxonomy := $categories }}
       {{- with $.Site.GetPage (printf "/categories/%s" $name) }}
       {{ $url := replaceRE "categories/" "province/" .RelPermalink }}
-      {{ $url := replaceRE "-" "_" $url }}
+      {{ $url = replaceRE "-" "_" $url }}
+      {{ $url = replaceRE "gre_website_test" "gre-website-test" $url }}
       <li class="widget__item">
         <a class="widget__link" href="{{ $url }}">{{ .Title }}</a>
       </li>

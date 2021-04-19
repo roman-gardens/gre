@@ -381,7 +381,6 @@ select {
 .header {
 	width: 100%;
 	background: linear-gradient(to bottom, #ffffff00, 40%, #ffffff00, 65%, #ffffffff), url('/img/header91.jpg');
-	background-size: cover;
 }
 
 
