@@ -21,7 +21,7 @@ tags:
 ---
 
 ## Province
-[Arabia Petraea]({{<relref "..">}})
+[Arabia Petraea]({{<relref "..">}})\
 [Arabia (province) (Pleiades)](https://pleiades.stoa.org/places/981506)
 
 The history of Roman Arabia begins with the death of the Nabataean king, [Rabb'el II soter](https://en.wikipedia.org/wiki/Rabbel_II_Soter), in A.D. 106. The emperor Trajan annexed the [Nabataean kingdom](https://en.wikipedia.org/wiki/Nabataean_Kingdom)   and organized its territory within the new Roman province of Arabia Petraea that occupied a large area of northwestern Arabia, extending from the Hauran in the north, to the Negev and Sinai deserts in the west, and into the northern Hejaz in the south. The administrative district of Perea, formerly under the Herodian dynasty was also added. The provincial capital of Arabia Petraea was located at [Bostra](https://en.wikipedia.org/wiki/Bosra) which replaced [Petra](https://en.wikipedia.org/wiki/Petra) as the capital of Nabataea in the last decades of that kingdom’s independence. Petra continued to function as an important cultural, political and economic center of the province for at least a century following annexation. During the early Byzantine period (4th-6th centuries CE), the major cities of the Roman era continued to flourish, and Christianity gradually became the accepted religion of the area. Petra remained an important center in the early Byzantine period when it was inhabited by a substantial Christian community and was the seat of a bishopric.
@@ -33,7 +33,7 @@ The region of Arabia Petraea is primarily a desert environment that belongs to t
 [Auara]({{<relref ".">}})\
 [Auara (Pleiades)](https://pleiades.stoa.org/places/746716)
 
-Nabataean Hawara (Auara) was founded by king [Aretas III](https://en.wikipedia.org/wiki/Aretas_III) in the early first century BCE as a trading post along the [King's Highway](https://en.wikipedia.org/wiki/King%27s_Highway_(ancient)), midway between the Nabataean capital, [Petra](https://pleiades.stoa.org/places/697725), and the port town of [Aila](https://en.wikipedia.org/wiki/Aqaba#Classical_antiquity) on the Gulf of Aqaba (Fig. 1). In the early 2nd century CE, under Roman occupation, a fort was erected at the site (Roman Hauarra/Havarra) due to its strategic position on the major trade highway that was rebuilt as the [*Via Nova Traiana*](https://en.wikipedia.org/wiki/Via_Traiana_Nova). Associated with the fort was a small town with a bathhouse and a community shrine.
+Nabataean Hawara (Auara) was founded by king [Aretas III](https://en.wikipedia.org/wiki/Aretas_III) in the early first century BCE as a trading post along the [King's Highway](https://en.wikipedia.org/wiki/King%27s_Highway_(ancient)), midway between the Nabataean capital, [Petra](https://pleiades.stoa.org/places/697725), and the port town of [Aila](https://en.wikipedia.org/wiki/Aqaba#Classical_antiquity) on the Gulf of Aqaba (Fig. 1). In the early 2nd century CE, under Roman occupation, a fort was erected at the site (Roman Hauarra/Havarra) due to its strategic position on the major trade highway that was rebuilt as the [*Via Nova Traiana*](https://en.wikipedia.org/wiki/Via_Traiana_Nova). Associated with the fort was a small town with a bathhouse and a community shrine. The modern name for the site is [Humayma](https://en.wikipedia.org/wiki/Humeima).
 
 
 ## Garden

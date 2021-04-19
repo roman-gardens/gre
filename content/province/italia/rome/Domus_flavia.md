@@ -4,54 +4,49 @@ title: "Domus Flavia, Upper Peristyle and Nymphaea"
 date: 2021-04-08T02:46:24+02:00
 province_id: PROVINCE_ID
 author: M.-A. Tomei
-editor: Rhiannon Pare
+editor: Rhiannon Paré
 draft: true
 ---
 
-# Province
+## Province
 
 [ITALIA]({{<relref "..">}})\
 [ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
 [ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
-## Province Description
-
-
-# Location
+## Location
 
 [Rome]({{<relref ".">}}) \
-[Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
-## Location Description
+## Sublocation
+
+Palatine Hill \
+[Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
 
-# Sublocation
 
-[Palatine Hill]({{<relref ".">}}) \
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
+## Garden
 
-## Sublocation Description
-
-# Garden
-
-Domus Flavia, Upper Peristyle and Nymphaea, Palatine
+Upper Peristyle and Nymphaea of the Domus Flavia, Palatine
 
 ### Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [basin (vessel)](http://vocab.getty.edu/page/aat/300045614)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
-- [flower gardens](http://vocab.getty.edu/page/aat/300008135)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- [flower garden](http://vocab.getty.edu/page/aat/300008135)
+- [fountain](http://vocab.getty.edu/page/aat/300006179)
 - [labyrinth](http://vocab.getty.edu/page/aat/300312218)
 - [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
-- [niches (architectural elements)](http://vocab.getty.edu/page/aat/300002704)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
+- [niche (architectural element)](http://vocab.getty.edu/page/aat/300002704)
+- [nymphaeum (garden structure)](http://vocab.getty.edu/page/aat/300006809)
 - [palace](http://vocab.getty.edu/page/aat/300005734)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
+- [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
+- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [statue](http://vocab.getty.edu/page/aat/300047600)
+- [triclinium (room)](http://vocab.getty.edu/page/aat/300004359)
+- [villa urbana](http://vocab.getty.edu/page/aat/300005520)
+
 
 ### Garden Description
 
@@ -63,23 +58,29 @@ This large, sunny peristyle is likely “the place called Sicilia” near the *C
 
 
 
-## Dates
+### Dates
+
+
+#### Excavation Date
+
+unspecified
 
 
 
-## Bibliography
+### Bibliography
 
 
-### Pleiades ID
+#### Pleiades ID
 
 [Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-## Contributor
+### Contributor
 
 M.-A. Tomei
 
-### ORCID
+#### ORCID
 
 
 ## Publication date
- 15 APRIL 2021
+
+15 APRIL 2021

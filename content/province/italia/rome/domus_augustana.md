@@ -4,56 +4,51 @@ title: "Domus Augustana"
 date: 2021-04-08T02:46:42+02:00
 province_id: PROVINCE_ID
 author: M.-A. Tomei
-editor: Rhiannon Pare
+editor: Rhiannon Paré
 draft: true
 ---
 
-# Province
+## Province
 
 [ITALIA]({{<relref "..">}})\
 [ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
 [ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
-
-## Province Description
-
-
-# Location
+<!-- -->
+## Location
 
 [Rome]({{<relref ".">}}) \
-[Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
+<!-- -->
+## Sublocation
 
-## Location Description
+Palatine Hill \
+[Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
+<!-- -->
+<!-- -->
+<!-- -->
+## Garden
 
-
-# Sublocation
-
-[Palatine Hill]({{<relref ".">}}) \
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
-
-## Sublocation Description
-
-# Garden
-
-Domus Augustana, Palatine
-
+Garden of the Domus Augustana, Palatine
+<!-- -->
 ### Keywords
-
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [flower gardens](http://vocab.getty.edu/page/aat/300008135)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [herms](http://vocab.getty.edu/page/aat/300047170)
-- [loggias](http://vocab.getty.edu/page/aat/300004137)
+<!-- -->
+- [basin (vessel)](http://vocab.getty.edu/page/aat/300045614)
+- [exedra (site element)](http://vocab.getty.edu/page/aat/300081589)
+- [flower garden](http://vocab.getty.edu/page/aat/300008135)
+- [fountain](http://vocab.getty.edu/page/aat/300006179)
+- [herm](http://vocab.getty.edu/page/aat/300047170)
+- [loggia](http://vocab.getty.edu/page/aat/300004137)
 - [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
+- [nymphaeum (garden structure)](http://vocab.getty.edu/page/aat/300006809)
 - [peltae (armor)]( http://vocab.getty.edu/page/aat/300213495)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [planting beds](http://vocab.getty.edu/page/aat/300430426)
-- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
-- [terraces](http://vocab.getty.edu/page/aat/300004182)
+- [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
+- [planting bed](http://vocab.getty.edu/page/aat/300430426)
+- [pool (body of water)](http://vocab.getty.edu/page/aat/300008692)
+- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [statue](http://vocab.getty.edu/page/aat/300047600)
+- [temple (building)](http://vocab.getty.edu/page/aat/300007595)
+- [terrace](http://vocab.getty.edu/page/aat/300004182)
+
 
 ### Garden Description
 
@@ -69,24 +64,27 @@ In the upper peristyle garden in the middle of a large rectangular [pool](http:/
 ### Figures
 
 
-## Dates
+### Dates
+
+#### Excavation Date
+
+unspecified
+
+### Bibliography
 
 
-
-## Bibliography
-
-
-### Pleiades ID
+#### Pleiades ID
 
 [Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
 
-## Contributor
+### Contributor
 
 M.-A. Tomei
 
-### ORCID
+#### ORCID
 
 
 
-## Publication date
+### Publication date
+
  15 APRIL 2021

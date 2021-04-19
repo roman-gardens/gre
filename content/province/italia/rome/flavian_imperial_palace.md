@@ -4,111 +4,121 @@ title: "Garden of the Flavian Imperial Palace"
 date: 2021-04-04T21:58:43+02:00
 province_id: ITALIA
 author: Jean-Paul Morel
-editor: Rhiannon Pare
-draft: true
+editor: Rhiannon Paré
+draft: false
 ---
 
-# Province
+## Province
 
-[ITALIA]({{<relref "..">}})\
-[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
-[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
-
-## Province Description
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-# Location
+[Italia]({{<relref "..">}})\
+[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)\
+[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+<!-- -->
+## Location
 
 [Rome]({{<relref ".">}}) \
-[Rome (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
+<!-- -->
+## Sublocation
 
-## Location Description
+Palatine Hill \
+[Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
+<!-- -->
+<!-- -->
+<!-- -->
+## Garden
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-# Sublocation
-
-[Palatine Hill]({{<relref ".">}}) \
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
-
-
-## Sublocation Description
-
-<!-- DESCRIPTION -->
-
-# Garden
-
-Garden of the Peristyle of the Julio-Claudian Domus, Palatine
-
+Garden of the Flavian Imperial Palace, Palatine
+<!-- -->
 ### Keywords
-
-- [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
-- [canals (waterways)](http://vocab.getty.edu/page/aat/300006075)
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [flowerpots](http://vocab.getty.edu/page/aat/300194749)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
+<!-- -->
+- [allée](http://vocab.getty.edu/page/aat/300178561)
+- [altar (religious fixture)](http://vocab.getty.edu/page/aat/300003725)
+- [amphora (storage vessel)](http://vocab.getty.edu/page/aat/300148696)
+- [canal (waterway)](http://vocab.getty.edu/page/aat/300006075)
+- [colonnade](http://vocab.getty.edu/page/aat/300002613)
+- [column (architectural element)](http://vocab.getty.edu/page/aat/300001571)
+- [flowerpot](http://vocab.getty.edu/page/aat/300194749)
+- [fountain](http://vocab.getty.edu/page/aat/300006179)
 - [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
-- [niches (architectural elements)](http://vocab.getty.edu/page/aat/300002704)
-- [palaces](http://vocab.getty.edu/page/aat/300005734)
-- [plinths](http://vocab.getty.edu/page/aat/300001749)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-
+- [niche (architectural element)](http://vocab.getty.edu/page/aat/300002704)
+- [palace](http://vocab.getty.edu/page/aat/300005734)
+- [plinth](http://vocab.getty.edu/page/aat/300001749)
+- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [sewer](http://vocab.getty.edu/page/aat/300006122)
+- [statue](http://vocab.getty.edu/page/aat/300047600)
+<!-- -->
+<!-- -->
 ### Garden Description
-
-During the period of Domitian (81-96 CE) a large artificial platform with massive substructures at the north, east and west was completed at the site of the [Vigna Barberini](https://it.wikipedia.org/wiki/Vigna_Barberini). On this platform stood a large structure with a curvilinear plan at the south, and with [colonnaded](http://vocab.getty.edu/page/aat/300002613) aisles on the east and west (the north is not excavated) that enclosed a vast garden (Fig. 5).  Over one-third of this garden area has been partly explored, another third was irrevocably destroyed when the later [*Temple of Elagabalus*](https://en.wikipedia.org/wiki/Elagabalium) was built, and the final third, at the north, remains to be excavated.
+<!-- -->
+During the period of Domitian (81-96 CE) a large artificial platform with massive substructures at the north, east and west was completed at the site of the [Vigna Barberini](https://it.wikipedia.org/wiki/Vigna_Barberini). On this platform stood a large structure with a curvilinear plan at the south, and with [colonnaded](http://vocab.getty.edu/page/aat/300002613) aisles on the east and west (the north is not excavated) that enclosed a vast garden (Figs. 1-2).  Over one-third of this garden area has been partly explored, another third was irrevocably destroyed when the later [*Temple of Elagabalus*](https://en.wikipedia.org/wiki/Elagabalium) was built, and the final third, at the north, remains to be excavated.
 
 Only a few elements of the ancient garden were found in place.  In particular, a large rectangular basin (measuring 8.70 meters by 5.30 meters), ornamented with alternating rectangular and semi-circular [niches](http://vocab.getty.edu/page/aat/300002704) faced in marble, was on axis with the center of the curved [façade](http://vocab.getty.edu/page/aat/300002526).  Shortly after construction, settling of the soil used to create the artificial [terrace](http://vocab.getty.edu/page/aat/300004182) caused a rapid degradation of the whole northern section of the garden. During Hadrian’s reign, refurbishment and re-construction was undertaken, the results of which lasted up to the end of the second century CE. This second phase is better recorded than the first, but it is possible that care was taken to preserve at least some trees of the Flavian period.
 
-The Hadrianic garden was enclosed by a [*portico*]((http://vocab.getty.edu/page/aat/300004145), presumably an [*ambulatio*](https://en.wiktionary.org/wiki/ambulatio) - a common feature of Roman gardens (Figs. 6, 7).  Running parallel to the east and west [colonnades](http://vocab.getty.edu/page/aat/300002613) were wide strips of beaten clay bordered on the inside by medium-sized trees, possibly laurels.  In the middle of the garden were likely three (two have been identified) parallel clay paths running north-south. At the southern terminus of the central path is a small masonry formation, possibly the base of an [altar](http://vocab.getty.edu/page/aat/300003725), flanked by two concrete bases covered with white [marble](http://vocab.getty.edu/page/aat/300011443).
+The garden was enclosed by a [portico](http://vocab.getty.edu/page/aat/300004145), presumably an [*ambulatio*](https://en.wiktionary.org/wiki/ambulatio) - a common feature of Roman gardens (Figs. 3-4).  Running parallel to the east and west [colonnades](http://vocab.getty.edu/page/aat/300002613) was a wide, [clay-paved](http://vocab.getty.edu/page/aat/300010439) [*allée*](http://vocab.getty.edu/page/aat/300178561) bordered by medium-sized trees, possibly [laurels](https://en.wikipedia.org/wiki/Laurus_nobilis). The existence of these plants and their original position are attested by pits left when the plants were dug out at the time of the destruction of the northern section of the [palace](http://vocab.getty.edu/page/aat/300005734). Running parallel with these *allées*, the central axis of the garden terminates at the wide bay in the center of the curved façade at the south. Approaching the central garden axis, which terminates at the wide bay in the center of the curved southern façade, the [hedge](http://vocab.getty.edu/page/aat/300266413) follows the curve then ends, on each side, at a small [fountain](http://vocab.getty.edu/page/aat/300006179). These two fountains flank the central axis and frame the experience of visitors entering or exiting through the main doors.  Only their bases were preserved, consisting of a [marble](http://vocab.getty.edu/page/aat/300011443) slab constituting a shallow [basin](http://vocab.getty.edu/page/aat/300045614) to receive the water flowing from the fountain (Fig. 5). What remains of this fountain is a circular print measuring 0.69 meters in diameter. At the center of the slab is a hole for a [lead](https://en.wikipedia.org/wiki/Lead) pipe that fed the fountain.  The water flowed down onto the base and out through an opening bored into the marble edge. From there, it flowed into a [canal](http://vocab.getty.edu/page/aat/300006075) connected to the main water collecting system.
 
-At the south (the only excavated area), at least, two other paths run east-west, forming a regular gridded pattern. It is possible that the entire garden had an [orthogonal](https://www.designingbuildings.co.uk/wiki/Orthogonal_plan) layout of paths that were re-surfaced numerous times throughout the second century. At the corners of the crossings were discovered square and rectangular bases of masonry that likely supported [sculptures](http://vocab.getty.edu/page/aat/300047600). In addition, several [flowerpots](http://vocab.getty.edu/page/aat/300194749) came to light at the corners of these bases, as well as inside the rectangular beds formed by the paths.
+Terminating the central walk near the fountains is an arrangement of other ornamental features (Fig. 4). A small [masonry](http://vocab.getty.edu/page/aat/300404383) element is found at the center, with only the base preserved; possibly that of an [altar](http://vocab.getty.edu/page/aat/300003725). It is flanked by two masonry blocks covered with white marble, marking the limits of the central *allée*. Six further, similar elements have been uncovered slightly farther north, where the central walk crosses [transversal](http://vocab.getty.edu/page/aat/300137129) ones (Fig. 4). These masonry blocks, whose lower part alone is preserved, differ from one another by their shape and plan level, which is at times square and at times rectangular, suggesting that they served to support garden [statues](http://vocab.getty.edu/page/aat/300047600), rather than a [pergola](http://vocab.getty.edu/page/aat/300006783).
 
-On either side of the southernmost statue bases (those nearest the curvilinear portico) were two [fountains](http://vocab.getty.edu/page/aat/300006179), of which the only remains *in situ* is a marble slab framed by [plinths](http://vocab.getty.edu/page/aat/300001749), forming a shallow basin with a hole in its center to receive a lead pipe (Fig. 9). A circular imprint (0.69 meters in diameter) on the surface of this slab suggests that water would have cascaded from an upper basin onto the shallow rectangular basin, out through a hole in the side of the [plinth](http://vocab.getty.edu/page/aat/300001749) and into a marble [canal](http://vocab.getty.edu/page/aat/300006075) connected to the main water collecting system underground. This canal ran just outside the curved portico in a position to collect rainwater from the roof, but because of the considerable width (1.8 meters) it also functioned as a decorative device. The few numbers of manholes for drainage could have been easily closed to allow water to remain in this canal; not only to cool the air, but also to reflect the [columns](http://vocab.getty.edu/page/aat/300001571) of the *portico* and the nearby plants.   
+The central area, framed by peripheral paths and bordered by the [laurel](https://en.wikipedia.org/wiki/Laurus_nobilis) (?) hedge is subdivided by a network of paths, already briefly mentioned when describing the ornamental features that are mainly positioned at the start of the median, north-south *allée*. A parallel *allée* has been identified during the excavations, and a third can be therefore assumed to lie to the east of the median *allée*. The excavations have allowed identifying two further *allées* laid [orthogonally](https://www.designingbuildings.co.uk/wiki/Orthogonal_plan) to the former (Fig. 4). We do not know whether this kind of layout extended to the entire area of the garden, but it is the hypothesis we propose to adopt. The clay-paved *allées*, many times re-paved over time, define [flowerbeds](http://vocab.getty.edu/page/aat/300008135) where Jean-Paul Morel uncovered several large [amphorae](http://vocab.getty.edu/page/aat/300148696) used as [flowerpots](http://vocab.getty.edu/page/aat/300194749). Purpose-made *ollae perforatae,* or planting pots, are also present in this 2nd century garden (Fig. 6). Some were positioned at the corners of the masonry bases located at the start of the central *allée* (see above). Should we revive an area planted with tall trees, they would presumably be in the section of the garden not explored so far.
 
-Based on the imprint of lead pipes identified during excavation and the network of underground drainage, a large [fountain](http://vocab.getty.edu/page/aat/300006179) further north, not uncovered, was likely on the north-south median axis of the garden. Furthermore, scant remains of a building, destroyed by the later Severan temple as well as by earlier archaeological excavations, have come to light on the same north-south central axis.  The thin walls suggest a simple garden kiosk that would have been adorned by at least two marble columns (no longer extant), the bases for which were richly carved with leaves and shells.
+The imprints from lead pipes identified during the excavations, as well as the study of the sewer network, lead to the restitution (?) of a third fountain, presumably of greater importance, positioned on the central axis (possibly on the spot of the future [Temple of Elagabalus](https://en.wikipedia.org/wiki/Elagabalium) or further north). On the same axis, the excavation has brought to light the remains of a building widely cut off (or truncated) by the construction of the Severan Temple, then by early excavations. The few wall fragments that have escaped the destructions do not allow us to reconstruct their plan. These walls, rather thin, suggest a light architecture – presumably a garden [kiosk](http://vocab.getty.edu/page/aat/300006819) –richly adorned, as evidenced by two column bases with carved leaves and shells.
 
-Throughout the second century a series of repairs attempted to slow the subsiding soil on the platform, but to no avail. Perhaps also as a result of a fire, which raged through Rome in 191/192, the gardens and buildings on the site of the Vigna Barberini were destroyed and the construction of a new monumental complex was undertaken.
+The water conveyed by the drain associated with the fountains flowed into a large [sewer](http://vocab.getty.edu/page/aat/300006122) set up at the foot of the portico’s colonnade, around the garden. At its top, a 1.80 meter wide canal, [reveted](http://vocab.getty.edu/page/aat/300079019) in marble and bordered by a [plinth](http://vocab.getty.edu/page/aat/300001749), gathered the rainwater flowing from the roof (Fig. 7). It may also have been used for purely decorative purposes to cool the air on hot days and create a reflecting pool in which the portico and the vegetation were mirrored. This could presumably be achieved by closing the [manholes](http://vocab.getty.edu/page/aat/300004244): it is in fact the limited number of manholes that suggest the above hypothesis.
 
+All through the 2nd century, a series of refurbishments took place that aimed to slow down the degradation of the Flavian buildings, which were threatened by the instability of the level fills of the terrace. Despite such efforts, this complex of buildings was destroyed as a consequence of the fire that raged in the heart of Rome in 191/192, and the construction of a new monumental complex was undertaken.
+<!-- -->
+OTHER PHASES OF THE VIGNA BARBERINI SITE:
+<!-- -->
+[Garden of the Peristyle of the Julio-Claudian *Domus*]({{<relref"/julio_claudian_domus.md">}})\
+[Garden of the Temple of Elagabalus]({{<relref"/temple_of_elagabalus.md">}})
+<!-- -->
 ### Figures
-
-Figure 5. Reconstruction of the Flavian Palace with, in the forefront, the main body of the complex excavated at the Vigna Barberini. The computer-generated three-dimensional model of the northern body was carried out by N. André, in collaboration with F. Villedieu, based on excavation findings gathered under the direction of H. Broise, J.-P. Morel, P. Pergola, Y. Thébert and F. Villedieu. The model of the southern section of the palace was designed by N. André and S. Appert, in collaboration with F. Villedieu, based on past drawings and reconstructions by H. A. Deglane, F. Dutert and, especially, I. Gismondi.
-
-Figure 6. Map and hypothetical reconstruction of the structures and garden excavated on the site of the Vigna Barberini. Drawing by N. André.
-
-Figure 7. Hypothetical reconstruction of the Flavian garden. Watercolor by J.-M. Gassend, based on the computer-generated model by N. André.
-
-Figure 8. Hypothetical reconstruction of the southern portion of the Flavian garden. Drawing and computer-generated model by N. André.
-
-Figure 9. Base of a fountain composed of a square marble slab and four long, narrow slabs placed edgewise along its sides. On the rear slab is a disc left by the foot of a basin, which would have once stood here. At the centre of the slab is a hole through which pipe would have carried water to the fountain. From the upper basin, water cascaded onto the base and would have flowed out through the opening carved at the centre of the structure’s side. From there, it flowed into a channel connected to the main water collecting system.
-
-Figure 10.  Flowerpots found in the gardens of the first and second century.  Photography by C. Durand.
-
-Figure 11. Detail of the marble canal at the outer edge of the portico that framed the garden. This canal gathered rainwater from the level above the portico and emptied it into the sewage system below. By closing off the few manholes, it may also have been used as a basin to cool and beautify the garden.
-
-## Dates
-1st century- 2nd century CE
-
-## Bibliography
-
+<!-- -->
+{{< figure src="../images/flavianpalace_fig1.jpg" alt="Reconstruction of the Vigna Barberini" title="Figure 1. Reconstruction of the Flavian Palace with, in the forefront, the main body of the complex excavated at the Vigna Barberini. (© N. André, AMU-CNRS, IRAA)." >}}
+<!-- -->
+{{< figure src="../images/flavianpalace_fig2.jpg" alt="Reconstruction of the Vigna Barberini" title="Figure 2. Map and hypothetical reconstruction of the structures and garden excavated on the site of the Vigna Barberini (© N. André, AMU-CNRS, IRAA)." >}}
+<!-- -->
+{{< figure src="../images/flavianpalace_fig3.jpg" alt="Reconstruction of the Flavian Palace" title="Figure 3.	Hypothetical reconstruction of the Flavian garden (© J.-M. Gassend & N. André, AMU-CNRS, IRAA)." >}}
+<!-- -->
+{{< figure src="../images/flavianpalace_fig4.jpg" alt="Southern Facing Reconstruction of the Flavian Palace" title="Figure 4. Hypothetical reconstruction of the Flavian garden (© J.-M. Gassend & N. André, AMU-CNRS, IRAA)." >}}
+<!-- -->
+{{< figure src="../images/flavianpalace_fig5.jpg" alt="Marble Fountain Base" title="Figure 5. Marble base of a fountain with circular imprint of basin." >}}
+<!-- -->
+{{< figure src="../images/flavianpalace_fig6.jpg" alt="Flowerpots of the Flavian Palace" title="Figure 6. 	Flowerpots found in the gardens of the first and second century (© Ch. Durand, AMU-CNRS, CCJ)." >}}
+<!-- -->
+{{< figure src="../images/flavianpalace_fig7.jpg" alt="Detail Marble Canal of the Flavian Palace" title="Figure 7. Detail of the marble canal along the outer edge of the portico." >}}
+<!-- -->
+### Dates
+<!-- -->
+1st century - 2nd century CE
+<!-- -->
+#### Excavation Date
+<!-- -->
+unspecified
+<!-- -->
+### Bibliography
+<!-- -->
 * M. Royo, *Domus Imperatoriae, Topographie, formation et imaginaire des palais impériaux du Palatin*, Rome, 1999. [(worldcat)](http://www.worldcat.org/oclc/907608488)
 * F. Villedieu and N. André, *Propositions pour une reconstitution de l'édifice flavien et de l'ensemble monumental tardif de la Vigna Barberini* (Rome, Palatin), Actes du Colloque: Rome An 2000 (Caen, Sept. 2000), in press.
 * J.-L Desnier, “Una borsa persa durante i lavori di terrazzamento” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 57-58. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
-* F. Villedieu,  “Il corpo settentrionale e i giardini del palazzo imperiale flavio” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 59-71.[(worldcat)](http://www.worldcat.org/oclc/5894435382)
-* J.-P Morel, “Il giardino adrianeo” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 73-75.[(worldcat)](http://www.worldcat.org/oclc/5894435382)
+* F. Villedieu,  “Il corpo settentrionale e i giardini del palazzo imperiale flavio” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 59-71. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
+* J.-P Morel, “Il giardino adrianeo” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 73-75. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
 * S. Leo, “Vasi da fiori” in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 75-76. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
-
-### Pleiades ID
-
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
-
-## Contributor
-
+* F. Villedieu, *La Vigna Barberini II- Domus, palais impérial et temples: stratigraphie du secteur nord-est du Palatin*, Rome, 2007 (RomaAntica, 6). [(worldcat)](http://www.worldcat.org/oclc/643147049)
+<!-- -->
+#### Pleiades ID
+<!-- -->
+[971691208](https://pleiades.stoa.org/places/971691208)
+<!-- -->
+### Contributor
+<!-- -->
 Jean-Paul Morel
+Françoise Villedieu
+<!-- -->
+#### ORCID
 
-### ORCID
+unspecified
 
 ## Publication date
- 15 APRIL 2021
+<!-- -->
+ 17 April 2021
