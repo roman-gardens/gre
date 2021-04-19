@@ -380,7 +380,7 @@ select {
 /* Header */
 .header {
 	width: 100%;
-	background: linear-gradient(to bottom, #ffffff00, 40%, #ffffff00, 65%, #ffffffff), url('/gre/img/header91.jpg');
+	background: linear-gradient(to bottom, #ffffff00, 40%, #ffffff00, 65%, #ffffffff), url('/img/header91.jpg');
 }
 
 
@@ -1327,7 +1327,7 @@ textarea {
 #search-results-list small {
 	color: #666;
 }
-  
+
 .province-subdivisions {
   margin: 1em 0;
   padding: 1em;
