@@ -1307,3 +1307,14 @@ textarea {
 		font-size: .6875rem;
 	}
 }
+
+
+
+
+
+.province-subdivisions {
+  margin: 1em 0;
+  padding: 1em;
+  background: #eee;
+  border: 1px solid #ccc;
+}
