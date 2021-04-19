@@ -75,7 +75,7 @@ The *collegium poetarum* formally gathered near the complex, and so perhaps the 
 <!-- -->
 {{< figure src="../images/hercules_musarum_fig3.jpg" alt="Base plan of the Hercules Musarum" title="Figure 3. Base plan of the Temple of Hercules Musarum (Coarelli, 1997)." >}}
 <!-- -->
-{{< figure src="../images/hercules_musarum_fig4.jpg" alt="Axonomety and Section of a reconstruction of the Hercules Musarum" title="Figure 4. Axonometric recostruction of the aedes Hercules Musarum and transverse section showing possible planting areas (Coarelli, 1997, Figs. 113, 114)." >}}
+{{< figure src="../images/hercules_musarum_fig4.jpg" alt="Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas" title="Figure 4. Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas (Coarelli, 1997, Figs. 113, 114)." >}}
 <!-- -->
 ### Dates
 
