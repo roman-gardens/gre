@@ -1,0 +1,28 @@
+<script>
+function breadcrumbs(dir) {
+  dir = dir.toLowerCase()
+  dir = dir.replaceAll('\\', '/')
+  dir = dir.replace('province/', '')
+  if (! dir) return
+
+  dir = dir.replace(/_/g, ' ')
+  dir = dir.replace(/\/$/, '')
+
+  return dir
+}
+window.store = {
+{{ range $ri, $rv := where .Site.Pages "Section" "province" }}
+    {{ if .Title }}
+    "{{ $ri }}": {
+        "title": "{{ .Title }}",
+        "breadcrumbs": breadcrumbs("{{ .File.Dir }}"),
+        "content": {{ .Plain }},
+        "url": "{{ .Permalink }}"},
+    {{ end }}
+{{ end }}
+}
+</script>
+<!-- Include Lunr and code for your search function,
+which you'll write in the next section -->
+<script src="../lunr.min.js"></script>
+<script src="../search.js"></script>
