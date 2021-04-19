@@ -61,6 +61,9 @@ summaryLength = 10000
 		weight = -70
 
 
+[Params.logo]
+title = "GARDENS of the ROMAN EMPIRE"
+
 [Params.sidebar]
 	home = "left" # Configure layout for home page
 	list = "left"  # Configure layout for list pages

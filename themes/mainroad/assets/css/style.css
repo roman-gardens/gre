@@ -380,7 +380,7 @@ select {
 /* Header */
 .header {
 	width: 100%;
-	background: linear-gradient(to bottom, #ffffff00, 65%, #000000aa, #000000ff), url('/img/header1.jpg');
+	background: linear-gradient(to bottom, #ffffff00, 40%, #ffffff00, 65%, #ffffffff), url('/img/header91.jpg');
 	background-size: cover;
 }
 
@@ -403,7 +403,6 @@ select {
 }
 
 .logo__text {
-	text-transform: uppercase;
 }
 
 .logo--mixed .logo__item {
@@ -512,6 +511,10 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	background: {{ $highlightColor }};
 }
 
+.menu__item--active .menu__link {
+	color:#fff
+}
+
 .menu__link {
 	display: block;
 	padding: 10px 15px;
@@ -574,6 +577,11 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	.menu__item {
 		border-left: 0;
 	}
+
+.menu__link {
+	color: #000;
+}
+
 }
 
 /* Posts/Pages */
