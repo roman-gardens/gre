@@ -10,8 +10,10 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- - "mosaic (process)"
- - "semicircular"
+ - "domus"
+ - "peristyles houses"
+ - "semicircular basin"
+ - "mosaics (visual works)"
 ---
 
 ## Province
@@ -19,7 +21,7 @@ tags:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 <!-- DESCRIPTION -->
 
 
@@ -49,8 +51,10 @@ House H (Maison H)
 
 ### Keywords
 
-- [semicircular](http://vocab.getty.edu/page/aat/300263828)
-- [mosaic (process)](http://vocab.getty.edu/page/aat/300138684)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [semicircular basin](#)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 
 
 ### Garden Description
@@ -64,7 +68,7 @@ This house, the largest in *insula* III (lots 2,3,4,9,10), rivals the House of t
 
 
 ### Plans
-{{< figure src="../images/house_h.jpg" alt="Fig.1: Plan of the House H" title="Fig.1: Plan of the House H(CMT, pp.121-128)." >}}
+{{< figure src="../images/AFR_Uti_H_Wjashemski1.jpg" alt="Fig.1: Plan of the House H" title="Fig.1: Plan of the House H (CMT, pp.121-128)." >}}
 
 <!--### Images-->
 
@@ -72,12 +76,12 @@ This house, the largest in *insula* III (lots 2,3,4,9,10), rivals the House of t
 
 ### Dates
 
-The house is dated to the I-III c.
+1st-3rd century CE
 
 ### Bibliography
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.346-347. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp.121-128. [(worldcat)](http://www.worldcat.org/oclc/905773599)
 
-* CMT, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp.121-128. [(worldcat)](http://www.worldcat.org/oclc/905773599)
-* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003, p.346-347. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 
 #### Pleiades ID
@@ -90,8 +94,8 @@ The house is dated to the I-III c.
 
 ### Contributor
 
-[Wilhelmina F. Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X)
+[Wilhelmina F. Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)) \
+[Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication date
 

@@ -5,12 +5,13 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski
 editor: Jinyi Yang
-draft: false
+draft: true
 
 categories:
   - "Africa Proconsularis"
 tags:
- - "peristyles (Roman courtyards)"
+ - "domus"
+ - "peristyle houses"
 ---
 
 ## Province
@@ -18,7 +19,7 @@ tags:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 <!-- DESCRIPTION -->
 
 
@@ -49,7 +50,9 @@ Insula II, lot 4
 
 ### Keywords
 
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+
 
 ### Garden Description
 
@@ -63,7 +66,7 @@ The peristyle courtyard is destroyed today, but there is soil in it (View plan, 
 
 ### Plans
 
-{{< figure src="../images/insula_ii_lot_4.jpg" alt="Fig.1: Plan of the of the peristyle, Insula II, lot 4." title="Fig.1: Plan of the of the peristyle, Insula II, lot 4(CMT, pp. 57-66, plans 8). " >}}
+{{< figure src="../images/AFR_Uti_I_Wjashemski1.jpg" alt="Fig.1: Plan of the of the peristyle, Insula II, lot 4." title="Fig.1: Plan of the of the peristyle, Insula II, lot 4 (CMT, plans 8). " >}}
 
 <!--### Images-->
 
@@ -73,7 +76,7 @@ Unspecified
 
 ### Bibliography
 
-* CMT, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, pp. 57-66, plans 8-10. [(worldcat)](http://www.worldcat.org/oclc/905773599)
+* Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, pp. 57-66, plans 8-10. [(worldcat)](http://www.worldcat.org/oclc/905773599)
 
 <!--#### Periodo ID-->
 
@@ -89,7 +92,7 @@ Unspecified
 
 ### Contributor
 
-[Wilhelmina F. Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)
+[Wilhelmina F. Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/))
 
 ### Publication date
 

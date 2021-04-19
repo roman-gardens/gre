@@ -10,10 +10,14 @@ draft: false
 categories:
   - "Numidia"
 tags:
+ - "bath"
  - "domus"
  - "mosaics (visual works)"
  - "peristyle houses"
  - "triclinia (rooms)"
+ - "basin"
+ - "planter"
+ - "pool"
 ---
 
 ## Province
@@ -30,8 +34,8 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 [Cuicul]({{<relref ".">}}) \
 [Cuicul (Pleiades)](https://pleiades.stoa.org/places/305068)
 
-###City Plan
-{{< figure src="../images/plan_europa.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul">}}
+
+{{< figure src="../images/cuicul_house_of_europa.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
 ### Location Description
 
@@ -46,14 +50,14 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 House of Europa, Central District (Maison d'Europe, Quartier Central)
 
 ### Keywords
-- [bath]
+- [bath](#)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [baisn]
-- [planters]
-- [pool]
+- [basin](#)
+- [planter](#)
+- [pool](#)
 
 ### Garden Description
 
@@ -68,12 +72,12 @@ Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century
 
 ### Plans
 
-{{< figure src="../images/house_of_europa_plan1.jpg" alt="Plan of the House of Europa. More details are included in the garden description section above." title="Fig. 1: Plan of the House of Europa (Maisons à mosaïques du quartier central de Djemila (Cuicul), p. 129, fig. 49)">}}
+{{< figure src="../images/house_of_europa_plan1.jpg" alt="Plan of the House of Europa." title="Fig. 1: Plan of the House of Europa (Blanchard-Lemée, M., 1975, fig.49)">}}
 
 ### Images
-{{< figure src="../images/house_of_europa_plant1.png" alt="View of the peristyle of the house" title="Fig. 2: View of the peristyle of the house (Photo, M. Blanchard-Lemée)">}}
+{{< figure src="../images/house_of_europa_plant1.png" alt="View of the peristyle of the house." title="Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)">}}
 
-{{< figure src="../images/house_of_europa_plant.png" alt="View of planter d." title="Fig. 3: View of planter d (Photo, M. Blanchard-Lemée)">}}
+{{< figure src="../images/house_of_europa_plant.png" alt="View of planter d." title="Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)">}}
 ### Dates
 
 2nd-5th century CE
@@ -84,15 +88,12 @@ Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century
 
 ### Bibliography
 
-* Y. Allais, La maison d'Europe à Djemila, in Revue Africaine, 83, 1939, p. 35-44. [(worldcat)](http://www.worldcat.org/oclc/758942246)
-
-* M. Blanchard-Lemée, Maisons à mosaïques du quartier central de Djemila (Cuicul), Paris, 1975, p. 129-151. [(worldcat)](http://www.worldcat.org/oclc/461390883)
+*  Allais, Y., "La maison d'Europe à Djemila", in *Revue Africaine*, 83, 1939, pp. 35-44. [(worldcat)](http://www.worldcat.org/oclc/758942246)
+* Blanchard-Lemée, M., *Maisons à mosaïques du quartier central de Djemila (Cuicul)*, Paris, 1975, pp. 129-151, fig.49. [(worldcat)](http://www.worldcat.org/oclc/461390883)
+*  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](http://www.worldcat.org/oclc/1090653355)
 
 #### Pleiades ID
-<!--
-Pleiades entry not yet created - example page below
-[278428164](https://pleiades.stoa.org/places/278428164)
--->
+[305068](https://pleiades.stoa.org/places/305068)
 #### TGN ID
 
 ### Contributor

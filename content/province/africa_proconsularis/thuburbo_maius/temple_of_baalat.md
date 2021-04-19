@@ -10,7 +10,9 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- - "porticoes"
+ - "temple"
+ - "sanctuary"
+ - "courtyard"
 ---
 
 ## Province
@@ -19,15 +21,20 @@ tags:
 
 ### Province Description
 
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
 [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) \
 [THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
 
+
+
+
+{{< figure src="../images/thuburbo_temple_of_baalat.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
+
 ### Location Description
 
-The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to amunicipium by Hadrian (117-138), and to a colony during therein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.
+The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to a *municipium* by Hadrian (117-138), and to a colony during the rein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.
 
 ## Garden
 
@@ -35,7 +42,9 @@ Temple of Baalat (Temple de Balaat)
 
 ### Keywords
 
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [temple](#)
+- [sanctuary](#)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 ### Garden Description
 
@@ -43,19 +52,21 @@ Only the central passage (III) way leading to the temple (IV) was paved. The res
 
 ### Maps
 
-### Images
+### Plans
 
-{{< figure src="../images/Temple of Baalat.jpg" alt="Plan of the Temple of Baalat " title="Fig. 1: Plan of the Temple of Baalat(Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine, p. 360, fig. 10)" >}}
+{{< figure src="../images/Temple of Baalat.jpg" alt="Plan of the Temple of Baalat " title="Fig. 1: Plan of the Temple of Baalat (CMT, V. II, fasc.2, plan 10.)" >}}
 
 ### Dates
 
 ### Bibliography
-* A.-A. Malek, « Le jardin dans les sanctuaires du Maghreb romain, premières approches », Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine, V. Brouquier Reddé, Fr. Baratte, E. Rocca (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, p. 213-230, 360, fig. 10. [Worldcat](http://www.worldcat.org/oclc/1028897747)
-*  CMT, *Thuburbo Majus, Les mosaïques de la région des Grands Thermes*, V. II, fasc.2, INA, Tunis, 1985, pp. 51-3, plan 10. [Worldcat](http://www.worldcat.org/oclc/905765362)
+*  Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région des Grands Thermes*, V. II, fasc.2, INA, Tunis, 1985, pp. 51-3, plan 10. [(worldcat)](http://www.worldcat.org/oclc/905765362)
+* Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](http://www.worldcat.org/oclc/20058336)
+* Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, V. Brouquier Reddé, Fr. Baratte, E. Rocca (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, 360, fig. 10. [(worldcat)](http://www.worldcat.org/oclc/1028897747)
+
 
 #### Pleiades_ID
 
-[981504](https://pleiades.stoa.org/places/981504)
+[315220](https://pleiades.stoa.org/places/315220)
 
 #### TGN ID
 

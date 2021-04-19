@@ -10,8 +10,10 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- - "peristyles (Roman courtyards)"
- - "porticoes"
+ - "domus"
+ - "peristyle houses"
+ - "semicircular basin"
+
 ---
 
 ## Province
@@ -20,22 +22,24 @@ tags:
 
 ### Province Description
 
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
 [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) \
 [THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
 
+
+{{< figure src="../images/thuburbo_house_of_the_three_basins.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
+
 ### Location Description
 
-The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to amunicipium by Hadrian (117-138), and to a colony during therein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.
+The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to a *municipium* by Hadrian (117-138), and to a colony during the rein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.
 
 ### Keywords
 
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [semi-circular pool](#)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [semicircular basin](#)
 
 ### Garden Description
 
@@ -47,22 +51,25 @@ The SE area was laid out around an incomplete peristyle with seven columns along
 
 ### Maps
 
-### Images
+### Plans
 
 {{< figure src="../images/AFR_Thub_Btb_Wjashemski_color.jpg" alt="Plan of the Bulding of the Three Basins; CMT, Thuburbo Majus, V. II, fasc.2, plan 19-20" title="Fig. 1: Plan of the Bulding of the Three Basins (CMT, Thuburbo Majus, V. II, fasc.2, plan 19-20)" >}}
 
 ### Dates
 
-The II-III centuries.
+2nd-3rd century CE
 
 ### Bibliography
 
-*  CMT, *Thuburbo Majus, Les mosaïques de la région des Grands Thermes*, V. II, fasc.2,  INA, Tunis, 1985, pp. 101-13, plan 19-20; [Worldcat](http://www.worldcat.org/oclc/905765362)
-*  Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003, p.230-232. [Worldcat](http://www.worldcat.org/oclc/989088620)
+*  Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région des Grands Thermes*, V. II, fasc.2,  INA, Tunis, 1985, pp. 101-13, plan 19-20. [(worldcat)](http://www.worldcat.org/oclc/603306079)
+* Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987. [(worldcat)](http://www.worldcat.org/oclc/20058336)
+*  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.230-232. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+
+
 
 #### Pleiades_ID
 
-[981504](https://pleiades.stoa.org/places/981504)
+[315220](https://pleiades.stoa.org/places/315220)
 
 #### TGN ID
 
@@ -70,7 +77,7 @@ The II-III centuries.
 
 ### Contributor
 
-[Wilhelmina F. Jashemski]
+[Wilhelmina F. Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 <!--add in orcid id and info-->
 
 ### Publication Date
