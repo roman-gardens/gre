@@ -12,11 +12,13 @@ categories:
 tags:
  - "domus"
  - "peristyle houses"
+ - "semicircular basin"
+ - "pool"
  - "triclinia (rooms)"
 ---
 
 ## Province
-[Numidia]({{<relref "..">}})
+[Numidia]({{<relref "..">}}) \
 [Numidia (Pleiades)](https://pleiades.stoa.org/places/981539)
 
 ### Province Description
@@ -52,12 +54,12 @@ House of Sertius (Maison de Sertius)
 ### Keywords
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
-- [semicircular basins]
-- [pool]
+- [semicircular basin](#)
+- [pool](#)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
-This large domus the result of the combining of two houses, is located at the periphery of the center of the city. The domus is laid out around two peristyles. The first, near the vestibule had a long rectangular basin placed in the axis of the *triclinium*, the two strips that bordered the pool may have been planted. The second peristyle with 8 columns had a semi-circular basin (Plan view Fi.1).
+This large *domus* the result of the combining of two houses, is located at the periphery of the center of the city. The *domus* is laid out around two peristyles. The first, near the vestibule had a long rectangular basin placed in the axis of the *triclinium*, the two strips that bordered the pool may have been planted. The second peristyle with 8 columns had a semi-circular basin (Plan view Fi.1).
 
 ### Maps
 
@@ -66,7 +68,7 @@ This large domus the result of the combining of two houses, is located at the pe
 -->
 
 ### Plans
-{{< figure src="../images/house_of _sertius.jpg" alt="Plan of the House of Sertius at Thamugadi; rights statement" title="Fig. 1: Plan of the House of Sertius. (Timgad une cité africaine sous l’Empire romain, p. 326-333, plan fig. 152)" >}}
+{{< figure src="../images/house_of _sertius.jpg" alt="Plan of the House of Sertius at Thamugadi; rights statement" title="Fig. 1: Plan of the House of Sertius. (Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 152)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
@@ -77,12 +79,14 @@ This large domus the result of the combining of two houses, is located at the pe
 -->
 
 ### Dates
-Unspecified
+3rd-5th century CE?
 
 ### Bibliography
-* E. Boeswillwald, R. Cagnat, A. Ballu, *Timgad une cité africaine sous l’Empire romain*, Paris, 1905; p. 326-333, plan fig. 152. [(worldcat)](http://www.worldcat.org/oclc/898850651)
+*  Boeswillwald, E., Cagnat, R., Ballu, A.,  *Timgad une cité africaine sous l’Empire romain*, Paris, 1905; pp. 326-333, plan fig. 152. [(worldcat)](http://www.worldcat.org/oclc/898850651)
 * Courtois, C., *Timgad, antique Thamugadi*, Paris, 1951, p 53, plan with scale. [(worldcat)](http://www.worldcat.org/oclc/23396951)
-* S. Germain, *Les mosaïques de Timgad*, Paris, 1969, p. 59. [(worldcat)](http://www.worldcat.org/oclc/643640586)
+*  Germain, S. *Les mosaïques de Timgad*, Paris, 1969, p. 59. [(worldcat)](http://www.worldcat.org/oclc/643640586)
+* Lassus, J., "Une opération immobilière à Timgad", in *Mélanges d’archéologie et d’histoire offerts à André Piganiol*, Paris, 1966, pp. 1221-1231. [(worldcat)](http://www.worldcat.org/oclc/419236627)
+
 
 <!--#### Periodo ID-->
 

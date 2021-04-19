@@ -13,6 +13,7 @@ tags:
  - "domus"
  - "peristyle houses"
  - "triclinia (rooms)"
+ - "pool"
 ---
 
 ## Province
@@ -52,7 +53,7 @@ Hermaphrodite House (Maison de l'Hermaphrodite)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [pool]
+- [pool](#)
 
 
 ### Garden Description
@@ -65,7 +66,7 @@ The large house was laid out around a large peristyle of 22 columns. In the axis
 -->
 
 ### Plans
-{{< figure src="../images/hermaphrodite_house.jpg" alt="Plan of the Hermaphrodite House at Thamugadi; Les mosaïques de Timgad, p. 65, fig. 7." title="Fig. 1: Plan of the Hermaphrodite House. (Les mosaïques de Timgad, p. 65, fig. 7.)" >}}
+{{< figure src="../images/hermaphrodite_house.jpg" alt="Plan of the Hermaphrodite House at Thamugadi; Les mosaïques de Timgad, p. 65, fig. 7." title="Fig. 1: Plan of the Hermaphrodite House (Germain, S., 1969, fig. 7)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
@@ -77,11 +78,11 @@ The large house was laid out around a large peristyle of 22 columns. In the axis
 -->
 
 ### Dates
-Unspecified
+3rd century CE?
 
 ### Bibliography
-* A. Ballu, *Les ruines de Timgad*, Paris, 1903, p. 90-94. [(worldcat)](http://www.worldcat.org/oclc/804848941)
-* S. Germain, *Les mosaïques de Timgad*, Paris, 1969, p. 65, fig. 7. [(worldcat)](http://www.worldcat.org/oclc/643640586)
+* Ballu, A., *Les ruines de Timgad*, Paris, 1903, p. 90-94. [(worldcat)](http://www.worldcat.org/oclc/804848941)
+* Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 65, fig. 7. [(worldcat)](http://www.worldcat.org/oclc/643640586)
 
 <!--#### Periodo ID-->
 

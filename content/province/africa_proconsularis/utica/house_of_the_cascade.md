@@ -10,10 +10,11 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- - "baroque"
+ - "domus"
+ - "peristyles houses"
+ - "fountains"
+ - "pool"
  - "cascade"
- - "masonry"
- - "triclinia (rooms)"
 ---
 
 ## Province
@@ -21,7 +22,7 @@ tags:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 <!-- DESCRIPTION -->
 
 
@@ -52,16 +53,17 @@ House of the Cascade (Maison de la Cascade)
 
 ### Keywords
 
-- [masonry](http://vocab.getty.edu/page/aat/300011701)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [baroque](http://vocab.getty.edu/page/aat/300021147)
-- [cascade](http://vocab.getty.edu/page/aat/300006792)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- [pool](#)
+- [cascade](#)
 
 ### Garden Description
 
 This house, the largest in the *insula II (lots 2,3,8,9,10)*, was given its present form in the second century. A large peristyle with elaborate *viridarium* dominated the S part of the house (Plan view, Fig.1). The large shallow pool in the center of the garden occupied a rectangular area that was largely filled by a huge marble-faced masonry construction with semicircular and rectangular niches that gave the pool a baroque shape. The marble-faced construction probably held an important sculpture. Water from the fountain jet spilled from the marble-lined channel cut into the base and then spilled into the pool. The sundial, today at the edge of the base of the pool, is not in its original position.
 
-Extending into the garden from the two central columns on the N was a semicircular pool (which faced the large room (XXXIV), decorated with a well preserved mosaic showing an Eros fishing from a boat, surrounded by fish and other sea animals. A wide entrance on the E side of the garden led through the portico to the handsome *triclinium*, by far the largest room in the house.  
+Extending into the garden from the two central columns on the N was a semicircular pool (which faced the large room (XXXIV), decorated with a well preserved mosaic showing an Eros fishing from a boat, surrounded by fish and other sea animals. A wide entrance on the E side of the garden led through the portico to the *triclinium*, by far the largest room in the house.  
 
 Opening off of the *triclinium* to the S was a smaller area enclosed by a portico on three sides. The dominant feature was the shallow square basin (1.92x 1.2 m) decorated with a fish mosaic and the adjacent mosaic panel from which the house is named. In the cascade panel, two fishermen are pulling in a vast net full of fish and sea animals. The soil on each side of the cascade was probably planted.
 
@@ -75,19 +77,20 @@ Opening off of the *triclinium* to the S was a smaller area enclosed by a portic
 
 
 ### Images
-{{< figure src="../images/AFR_Uti_Hc_Wjashemski1.jpg" alt="Fig. 1: Plan of the House of the Cascade." title="Fig. 1: Plan of the House of the Cascade. (CMT, pp. 19-56, plan 5,7)" >}}
+{{< figure src="../images/AFR_Uti_Hc_Wjashemski1.jpg" alt="Fig. 1: Plan of the House of the Cascade." title="Fig. 1: Plan of the House of the Cascade (CMT, plan 5,7)" >}}
 
 
 
 ### Dates
 
-The house is dated to the I-IIc.
+1st-2nd century CE
 
 ### Bibliography
 
-* CMT, *Utique, insulae, I-II-III*, INA, Tunis, 1973, pp. 19-56, plan 5,7 and plates 8, 9, 25, 63. [(WorldCat)] (http://www.worldcat.org/oclc/61828622)
-* P.-A. Février, "Image, imaginaire et symbolisme. A propos de deux maisons du Maghreb antique", in *Mosaïque, Recueil d'hommages à Henri Stern*, Paris,1983, p. 159-162. [(worldcat)](http://www.worldcat.org/oclc/876420608)
-* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003, p.351-354. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Alexander, M. A., Ennaifer, M., *Corpus des Mosaïques de Tunisie*, *Utique, insulae, I-II-III*, INA, Tunis, 1973, pp. 19-56, plan 5,7 and plates 8, 9, 25, 63. [(worldcat)](http://www.worldcat.org/oclc/61828622)
+* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.351-354. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Février  P.-A., "Image, imaginaire et symbolisme. A propos de deux maisons du Maghreb antique", in *Mosaïque, Recueil d'hommages à Henri Stern*, Paris,1983, pp. 159-162. [(worldcat)](http://www.worldcat.org/oclc/876420608)
+
 
 
 #### Pleiades ID
@@ -100,8 +103,8 @@ The house is dated to the I-IIc.
 
 ### Contributor
 
-[Wilhelmina F. Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X)
+[Wilhelmina F. Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)) \
+[Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication date
 
