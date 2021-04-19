@@ -5,10 +5,16 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
 editor: Xue Xia
-draft: true
+draft: false
 
 categories:
   - "Africa Proconsularis"
+
+tags:
+ - "temple"
+ - "sanctuary"
+ - "courtyards"
+ - "cella"
 ---
 
 ## Province
@@ -17,15 +23,14 @@ categories:
 
 ### Province Description
 
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The  climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The  climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
-[THUGGA (Douga) Tunisia]({{<relref ".">}}) \
-[THUGGA (Douga) Tunisia (Pleiades)](https://pleiades.stoa.org/places/315223)
+[THUGGA (Dougga) Tunisia]({{<relref ".">}}) \
+[THUGGA (Dougga) Tunisia (Pleiades)](https://pleiades.stoa.org/places/315223)
 
-### Plan of City
 
-{{< figure src="../images/Doua_plan_city.jpg" alt="Plan of Thugga" title="Plan of the Thugga" >}}
+{{< figure src="../images/dougga_the_templa_concordiae.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
 
 ### Location Description
 
@@ -37,27 +42,32 @@ Sanctuary B, the templa Concordiae
 
 ### Keywords
 
-- [xystis]()
+- [temple](#)
+- [sanctuary](#)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- [cella](#)
 
 ### Garden Description
 
-Sanctuary B, the templa Concordiae (117-138 CE), is a monument from the time of Hadrian dedicated to several deities, four of whom are known from the texts: Concordia, Frugifer, Liber Pater and Neptune (Figure 7). The complex is distinguished from the other cult complexes of the city by the integration of a sacred theater.
-The sanctuary comprises a courtyard surrounded by a quadriportico on which five cellae opened to the northwest. The largest and most elaborate, that dedicated to Concord, is located on the axis of the building and its extension in the theater below. This axiality is expressed by a central aisle that leads from the western portico to the altar located in the center of the courtyard. The area was not paved; one can imagine that it was planted as a garden whose vegetation formed a green setting around the altar.
+Sanctuary B, the *templa Concordiae* (117-138 CE), is a monument from the time of Hadrian dedicated to several deities, four of whom are known from the texts: Concordia, *Frugifer*, Liber Pater and Neptune (Figure 7). The complex is distinguished from the other cult complexes of the city by the integration of a sacred theater.
+The sanctuary comprises a courtyard surrounded by a quadriportico on which five *cellae* opened to the northwest. The largest and most elaborate, that dedicated to Concord, is located on the axis of the building and its extension in the theater below. This axiality is expressed by a central aisle that leads from the western portico to the altar located in the center of the courtyard. The area was not paved; one can imagine that it was planted as a garden whose vegetation formed a green setting around the altar.
 
 
 ### Maps
 
-### Images
+### Plans
 
-{{< figure src="../images/AFR_Thu_T_Wjashemski_color.jpg" alt="Plan of the Temple" title="Fig.1 Plan of the Temple" >}}
+{{< figure src="../images/sanctuary_b.jpg" alt="Plan of the Sanctuary B, the templa Concordiae" title="Fig. 1: Plan of the Sanctuary B, the templa Concordiae (From Aounallah, S., Golvin, J.-C. (dir.) 2016, p. 505, fig. 44)" >}}
 
 ### Dates
 
-The I-II centuries.
+117-138 CE
 
 ### Bibliography
 
-*  C. Poinssot, *Les ruines de Dougga*, Tunis, 1958, n°18, p. 53: plan, général n°18 [Worldcat](http://www.worldcat.org/oclc/475099061)
+* Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](http://www.worldcat.org/oclc/7380877046)
+* Aounallah, S., Golvin, J.-C. (Dir.), Ben Rhomdane, H., Brouquier-Reddé, V., Chehidi, M.A., Ghaki, M., Khanoussi, M., Maurin, L., Saint-Amans, S., *Dougga, Études d'architecture religieuse 2. Les sanctuaires du forum, du centre de l'agglomération et de la Grande rue courbe* (Mémoires, 42), Bordeaux : Ausonius Éditions, 2016, p. 440, fig. 86. [(worldcat)](http://www.worldcat.org/oclc/957698433)
+* Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, Brouquier Reddé, V., Baratte, Fr.,  Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, p. 360, pl. 10. [(worldcat)](http://www.worldcat.org/oclc/1028897747)
 
 #### Pleiades_ID
 
@@ -68,7 +78,6 @@ The I-II centuries.
 [7017996](http://vocab.getty.edu/page/tgn/7017996)
 
 ### Contributor
-
-[Wilhelmina F. Jashemski](http://worldcat.org/identities/lccn-n80037970/)
+[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication Date

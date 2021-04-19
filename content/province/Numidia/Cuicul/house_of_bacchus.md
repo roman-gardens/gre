@@ -18,6 +18,7 @@ tags:
  - "peristyle houses"
  - "piscinae"
  - "statuettes (free-standing sculpture)"
+ - "venus"
 ---
 
 ## Province
@@ -34,8 +35,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 [Cuicul]({{<relref ".">}}) \
 [Cuicul (Pleiades)](https://pleiades.stoa.org/places/305068)
 
-###City Plan
-{{< figure src="../images/plan_bacchus.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul">}}
+{{< figure src="../images/cuicul_house_of_bacchus.jpg" alt="Plan of Cuicul." title="Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
 ### Location Description
 
@@ -59,7 +59,7 @@ House of Bacchus, building south of the Great Baths (Maison de Bacchus, édifice
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [piscinae]( http://vocab.getty.edu/page/aat/300375619)
 - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
-- [fish pool]
+- [venus](#)
 
 ### Garden Description
 
@@ -75,37 +75,33 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 
 ### Plans
 
-{{< figure src="../images/house_of_bacchus_plan_new1.jpg" alt="Plan of the House of Bacchus. More details are included in the garden description section above." title="Fig. 1: Plan of the House of Bacchus (Dans les jardins de Djemila, p. 194, fig. 9)">}}
+{{< figure src="../images/house_of_bacchus_plan_new1.jpg" alt="Plan of the House of Bacchus." title="Fig. 1: Plan of the House of Bacchus (Dans les jardins de Djemila, Blanchard-Lemée, M., 1998, p. 194, fig. 9)">}}
 
 ### Images
-{{< figure src="../images/house_of_bacchus_plan_photo1.png" alt="Photo of the small peristyle garden B and its semi circular basin" title="Fig. 2: Photo of the small peristyle garden B and its semi circular basin (Dans les jardins de Djemila, p. 190, fig. 5)">}}
+{{< figure src="../images/house_of_bacchus_plan_photo1.png" alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc" title="Fig. 2: The small peristyle garden B and its semi circular basin (Février, P.-A. – CCJ 62889))">}}
 
-{{< figure src="../images/pool_and_fish_pool.jpg" alt="Photo of the pool and fish pool" title="Fig. 3: Photo of the Photo of the pool and fish pool (Photo, Centre Camille Jullian, G. Réveillac)">}}
+{{< figure src="../images/pool_and_fish_pool.jpg" alt="The pool and fish pool." title="Fig. 3: The pool and fish pool (Février, P.-A.– CCJ 62945)">}}
 
-{{< figure src="../images/fish_pool.jpg" alt="Photo of the fish pool" title="Fig. 4: Photo of the fish pool (Photo, Centre Camille Jullian, G. Réveillac)">}}
+{{< figure src="../images/fish_pool.jpg" alt="The fish pool." title="Fig. 4: The fish pool (Février, P.-A.– CCJ 62886)">}}
 
 ### Dates
 
 3nd-5th century CE
 
-#### Excavation Dates
+<!--#### Excavation Dates
 
 1929, 1931, 1937, 1944
-
+-->
 ### Bibliography
 
-* M. Blanchard-Lemée, Dans les jardins de Djemila, in Antiquités Africaines, 34, 1998, p. 185-197, Il fig. [(worldcat)](http://www.worldcat.org/oclc/4824686051)
-
-* M. Blanchard-Lemée, La Maison de Bacchus à Djemila: Architecture et décor d'une grande demeure provinciale à la fin de l'antiquité. in Bulletin archéologique du C. THS., NS, fasc. 17 B (Colloque sur l'archéologie et l'histoire de l'Afrique du Nord, Perpignan, 1981), 1984, p. 131-143. [(worldcat)](http://www.worldcat.org/oclc/848793520)
-
-* Paul-Albert Février, Michèle Blanchard-Lemée, L'édifice appelé "Maison de Bacchus" à Djemila, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](http://www.worldcat.org/oclc/1090653355)
-
+* Blanchard-Lemée, M., "Dans les jardins de Djemila", in *Antiquités Africaines*, 34, 1998, pp. 185-197, Il fig. [(worldcat)](http://www.worldcat.org/oclc/4824686051)
+* Blanchard-Lemée, M., "La Maison de Bacchus à Djemila: Architecture et décor d'une grande demeure provinciale à la fin de l'antiquité", in *Bulletin archéologique du CTHS.*, NS, fasc. 17 B (Colloque sur l'archéologie et l'histoire de l'Afrique du Nord, Perpignan, 1981), 1984, pp. 131-143. [(worldcat)](http://www.worldcat.org/oclc/848793520)
+*  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](http://www.worldcat.org/oclc/1090653355)
+* Malek, A.-A., "Le jardin au fil de l’eau:  mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l’époque romaine*, eds, V. Brouquier-Reddé et F. Hurlet, Bordeaux, Ausonius, 2018, pp. 248-249. [(worldcat)](http://www.worldcat.org/oclc/1078217356)
+* Malek, A.-A. "De l’espace pictural à l’espace du jardin : mosaïques et jardins dans les domus de l’Afrique romaine", in *Archéologie des jardins: analyse des espaces et méthodes d’approches*,  Van Ossel, P.,  Guimier-Sorbets, A.-M. (dir.), Archéologie et histoire romaine 26, Editions Monique Mergoil, 2014, p. 20. [(worldcat)](http://www.worldcat.org/oclc/869205223)
 
 #### Pleiades ID
-<!--
-Pleiades entry not yet created - example page below
-[278428164](https://pleiades.stoa.org/places/278428164)
--->
+[305068](https://pleiades.stoa.org/places/305068)
 #### TGN ID
 
 ### Contributor
