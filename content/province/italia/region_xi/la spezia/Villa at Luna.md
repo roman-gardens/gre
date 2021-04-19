@@ -1,5 +1,5 @@
 ---
-title: "Villa at Luna (I.iii.23)"
+title: "Villa at Luna"
 date: 2020-11-23T12:00:02-05:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
