@@ -17,6 +17,9 @@ tags:
  - "peristyle houses"
  - "stairs"
  - "triclinia (rooms)"
+ - "bath"
+ - "basin"
+ - "semicircular basin"
 ---
 
 ## Province
@@ -33,8 +36,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 [Cuicul]({{<relref ".">}}) \
 [Cuicul (Pleiades)](https://pleiades.stoa.org/places/305068)
 
-###City Plan
-{{< figure src="../images/plan_asinus.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul">}}
+{{< figure src="../images/cuicul_house_of_asinus_nica.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
 ### Location Description
 
@@ -56,9 +58,9 @@ House of Asinus Nica, Central District (Maison de l’Ane, quartier central)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [stairs](http://vocab.getty.edu/page/aat/300003228)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [bath]
-- [basin]
-- [semicircular basin]
+- [bath](#)
+- [basin](#)
+- [semicircular basin](#)
 
 ### Garden Description
 
@@ -70,7 +72,7 @@ The house lacked wide-open views from exedra and from the galleries towards the 
 
 ### Plans
 
-{{< figure src="../images/house_of_asinus_nica_plan1.jpg" alt="Plan of the House of Asinus Nica. More details are included in the garden description section above." title="Fig. 1: Plan of the House of Asinus Nica (Maisons à mosaïques du quartier central de Djemila (Cuicul), p. 24, fig. 4)">}}
+{{< figure src="../images/house_of_asinus_nica_plan1.jpg" alt="Plan of the House of Asinus Nica." title="Fig. 1: Plan of the House of Asinus Nica (Blanchard-Lemée, M., AOrOc)">}}
 
 ### Images
 
@@ -78,16 +80,15 @@ The house lacked wide-open views from exedra and from the galleries towards the 
 
 2nd-5th century CE
 
-#### Excavation Dates
-
+<!--#### Excavation Dates
+-->
 ### Bibliography
-* M. Blanchard-Lemée, Maisons à mosaïques du quartier central de Djemila (Cuicul), Paris, 1975, p. 129-151. [(worldcat)](http://www.worldcat.org/oclc/461390883)
+* Blanchard-Lemée, M., *Maisons à mosaïques du quartier central de Djemila (Cuicul)*, Paris, 1975, pp. 129-151. [(worldcat)](http://www.worldcat.org/oclc/461390883)
+*  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](http://www.worldcat.org/oclc/1090653355)
+
 
 #### Pleiades ID
-<!--
-Pleiades entry not yet created - example page below
-[278428164](https://pleiades.stoa.org/places/278428164)
--->
+[305068](https://pleiades.stoa.org/places/305068)
 #### TGN ID
 
 ### Contributor
