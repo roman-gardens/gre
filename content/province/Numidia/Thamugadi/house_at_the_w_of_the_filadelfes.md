@@ -15,7 +15,7 @@ tags:
 ---
 
 ## Province
-[Numidia]({{<relref "..">}})
+[Numidia]({{<relref "..">}}) \
 [Numidia (Pleiades)](https://pleiades.stoa.org/places/981539)
 
 ### Province Description
@@ -63,7 +63,7 @@ House at the W of the Filadelfes (Maison à l'Ouest des Bains des Filadelfes)
 -->
 
 ### Plans
-{{< figure src="../images/house_at _the_w _of_the_filadelfes.jpg" alt="Plan of the House at the W of the Philadelphes Baths at Thamugadi; Les mosaïques de Timgad, p. 81, fig. 10" title="Fig. 1: Plan of the House at the W of the Philadelphes Baths. (Les mosaïques de Timgad, p. 81, fig. 10)" >}}
+{{< figure src="../images/house_at _the_w _of_the_filadelfes.jpg" alt="Plan of the House at the W of the Philadelfes Baths at Thamugadi; Les mosaïques de Timgad, p. 81, fig. 10" title="Fig. 1: Plan of the House at the W of the Philadelfes Baths. (Germain, S., 1969, fig. 10)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
@@ -75,12 +75,12 @@ House at the W of the Filadelfes (Maison à l'Ouest des Bains des Filadelfes)
 -->
 
 ### Dates
-Unspecified
+3rd-5th century CE?
 
 ### Bibliography
-* Ballu A., Rapport, 1922, p. 47-53. [(worldcat)](http://www.worldcat.org/oclc/557425503)
-* Ballu A., Rapport 1923, p. 45-47: plan dépliant. [(worldcat)](http://www.worldcat.org/oclc/494571409)
-* S. Germain, *Les mosaïques de Timgad*, Paris, 1969, p. 81, fig. 10. [(worldcat)](http://www.worldcat.org/oclc/643640586)
+* Ballu A., *Rapport*, 1922, p. 47-53. [(worldcat)](http://www.worldcat.org/oclc/557425503)
+* Ballu A., *Rapport* 1923, p. 45-47: plan dépliant. [(worldcat)](http://www.worldcat.org/oclc/494571409)
+* Germain, S. *Les mosaïques de Timgad*, Paris, 1969, p. 81, fig. 10. [(worldcat)](http://www.worldcat.org/oclc/643640586)
 
 
 <!--#### Periodo ID-->

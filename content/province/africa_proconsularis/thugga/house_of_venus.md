@@ -10,8 +10,10 @@ draft: false
 categories:
   - "Africa proconsularis"
 tags:
- - "peristyles (Roman courtyards)"
- - "pools (bodies of water)"
+ - "domus"
+ - "peristyle houses"
+ - "pool"
+ - "mosaics (visual works)"
 ---
 
 ## Province
@@ -20,16 +22,14 @@ tags:
 
 ### Province Description
 
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The  climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The  climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
-[THUGGA (Douga) Tunisia]({{<relref ".">}}) \
-[THUGGA (Douga) Tunisia (Pleiades)](https://pleiades.stoa.org/places/315223)
+[THUGGA (Dougga) Tunisia]({{<relref ".">}}) \
+[THUGGA (Dougga) Tunisia (Pleiades)](https://pleiades.stoa.org/places/315223)
 
-<!--### Plan of City
 
-{{< figure src="../images/Doua_plan_city.jpg" alt="Plan of Thugga" title="Plan of the Thugga" >}}
--->
+{{< figure src="../images/dougga_house_of_venus.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
 
 ### Location Description
 
@@ -41,8 +41,11 @@ House of Venus (Maison de Venus)
 
 ### Keywords
 
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [pool](#)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+
 
 ### Garden Description
 
@@ -52,14 +55,15 @@ The house of Venus is located at the S of the capitol and is adjacent to the tem
 
 ### Images
 
-{{< figure src="../images/AFR_Thu_Hv_Wjashemski_color.jpg" alt="Plan of the House of Venus" title="Fig. 1:  Plan of the House of Venus(CMGR, VII-1, p  211-232, PL.  LXXXVIII)" >}}
+{{< figure src="../images/AFR_Thu_Hv_Wjashemski_color.jpg" alt="Plan of the House of Venus" title="Fig. 1:  Plan of the House of Venus (CMGR, VII-1, PL. LXXXVIII)" >}}
 
 ### Dates
 
 ### Bibliography
+* Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](http://www.worldcat.org/oclc/7380877046)
+*  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.266-267. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+*  Jeddi, N., *CMGR*,VII-1,  1999, pp. 211-232,  PL.  LXXXVIII
 
-*  N.  JEDDI, CMGR,VII-1,  1999,  p  211-232,  PL.  LXXXVIII
-*  Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003, p.266-267. [Worldcat](http://www.worldcat.org/oclc/989088620)
 
 #### Pleiades_ID
 

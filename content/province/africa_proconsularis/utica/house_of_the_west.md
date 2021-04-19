@@ -10,8 +10,11 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- - "column bases"
+ - "domus"
+ - "peristyle houses"
  - "triclinia (rooms)"
+ - "basin"
+ - "mosaics (visual works)"
 ---
 
 ## Province
@@ -19,7 +22,7 @@ tags:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 <!-- DESCRIPTION -->
 
 
@@ -50,14 +53,17 @@ House of the West (Maison de l'est)
 
 ### Keywords
 
-- [column bases](http://vocab.getty.edu/page/aat/300233843)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- [basin](#)
+- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 
 
 ### Garden Description
 
 The peristyle garden (V) has a rectangular basin with curved angles extending from two middle columns on the W side, facing the *triclinium* (XI) (Plan view, Fig.1).
-The house is dated to the II c.
+The house is dated to the II century.
 
 
 
@@ -66,18 +72,17 @@ The house is dated to the II c.
 
 
 ### Plans
-{{< figure src="../images/AFR_Uti_Hw_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the West." title="Fig.1: Plan of the House of the West(CMT, pp.19-26, plans 4). " >}}
+{{< figure src="../images/AFR_Uti_Hw_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the West." title="Fig.1: Plan of the House of the West (CMT, plan 4). " >}}
 
 <!--### Images-->
 
 ### Dates
 
-The house is dated to the II c.
+2nd century CE
 
 ### Bibliography
-
-* CMT, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp.19-26, plans 4. [(worldcat)](http://www.worldcat.org/oclc/905773599)
-* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003, p.339-340. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.339-340. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp.19-26, plans 4. [(worldcat)](http://www.worldcat.org/oclc/905773599)
 
 
 #### Pleiades ID
@@ -90,8 +95,8 @@ The house is dated to the II c.
 
 ### Contributor
 
-[Wilhelmina F. Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X)
+[Wilhelmina F. Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)) \
+[Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication date
 

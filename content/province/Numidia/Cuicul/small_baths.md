@@ -13,7 +13,10 @@ tags:
  - "mosaics (visual works)"
  - "pergolas"
  - "piscinae"
- - "porticoes"
+ - "basin"
+ - "sculpture"
+ - "diaeta"
+ - "venus"
 ---
 
 ## Province
@@ -30,8 +33,8 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 [Cuicul]({{<relref ".">}}) \
 [Cuicul (Pleiades)](https://pleiades.stoa.org/places/305068)
 
-###City Plan
-{{< figure src="../images/plan_small_baths.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul">}}
+
+{{< figure src="../images/cuicul_small_baths.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
 ### Location Description
 
@@ -48,11 +51,11 @@ House of Hylas, Central District (Maison de Castorius, Quartier central)
 ### Keywords
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [piscinae]( http://vocab.getty.edu/page/aat/300375619)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [bath]
-- [sculpture]
-- [diaeta]
+- [bath](#)
+- [sculpture](#)
+- [diaeta](#)
+- [venus](#)
 
 ### Garden Description
 
@@ -60,33 +63,31 @@ The garden A mentioned as an open area was excavated in 1930-1931 and in 1944 (P
 
 ### Plans
 
-{{< figure src="../images/plan_of_small_baths.jpg" alt="Plan of the Small Baths" title="Fig. 1: Plan of the Small Baths (L'eau dans les villes du Maghreb et leur territoire à l’époque romaine, p. 248, fig. 16)">}}
+{{< figure src="../images/plan_of_small_baths.jpg" alt="Plan of the Small Baths" title="Fig. 1: Plan of the Small Baths (Blanchard-Lemée, M., 1998, fig. 6)">}}
 
 ### Images
-{{< figure src="../images/house_of_bacchus_plan_photo2.png" alt="The photo of southern side of the rectangular pool" title="Fig. 2: The photo of southern side of the rectangular pool(Photo, Centre Camille Jullian, G. Réveillac)">}}
+{{< figure src="../images/house_of_bacchus_plan_photo2.png" alt="Southern side of the rectangular pool" title="Fig. 2: Southern side of the rectangular pool (Février, P.-A. – CCJ 62881)">}}
 
-{{< figure src="../images/small_baths_rectangular_pool.jpg" alt="Drawing of reconstruction of the rectangular pool" title="Fig. 3: Drawing of reconstruction of the rectangular pool (Drawing from H. Kahwagi-Janho)">}}
+{{< figure src="../images/small_baths_rectangular_pool.jpg" alt="Drawing of reconstruction of the rectangular pool" title="Fig. 3: Drawing of reconstruction of the rectangular pool (Kahwagi-Janho, H.)">}}
 
-{{< figure src="../images/venus_djemila.jpeg" alt="Photo of venus" title="Fig. 4: Photo of venus (Ph. M. Blanchard Lemée, AOrOc)">}}
+{{< figure src="../images/venus_djemila.jpeg" alt="Venus" title="Fig. 4: Venus (Blanchard-Lemée, M., AOrOc)">}}
 ### Dates
 
-beginning of third century
+Early 3rd century CE
 
 #### Excavation Dates
 
 1938
 
 ### Bibliography
-<!--need to link these with Zotero, find on worldcat-->
 
-* A.-A. Malek, "Le jardin au fil de l’eau : mises en scène paysagères dans les domus de Maghreb antique", L'eau dans les villes du Maghreb et leur territoire à l’époque romaine, eds, V. Brouquier-Reddé et F. Hurlet, Bordeaux, Ausonius, 2018, p. 248-249.
-
+* Blanchard-Lemée, M., "Dans les jardins de Djemila", in *Antiquités Africaines*, 34, 1998, pp. 185-197, Il fig. [(worldcat)](http://www.worldcat.org/oclc/4824686051)
+*  Blanchard-Lemée, M., "La Maison de Bacchus à Djemila: Architecture et décor d'une grande demeure provinciale à la fin de l'antiquité", in *Bulletin archéologique du C. THS.*, NS, fasc. 17 B (Colloque sur l'archéologie et l'histoire de l'Afrique du Nord, Perpignan, 1981), 1984, pp. 131-143. [(worldcat)](http://www.worldcat.org/oclc/848793520)
+*  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](http://www.worldcat.org/oclc/1090653355)
+* Malek, A.-A., "Le jardin au fil de l’eau : mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l’époque romaine*, eds, Brouquier-Reddé, V. et  Hurlet, Bordeaux, F., Ausonius, 2018, pp. 248-249. [(worldcat)](http://www.worldcat.org/oclc/1078217356)
 
 #### Pleiades ID
-<!--
-Pleiades entry not yet created - example page below
-[278428164](https://pleiades.stoa.org/places/278428164)
--->
+[305068](https://pleiades.stoa.org/places/305068)
 #### TGN ID
 
 ### Contributor

@@ -15,6 +15,9 @@ tags:
  - "mosaics (visual works)"
  - "peristyle houses"
  - "piscinae"
+ - "basin"
+ - "fish pool"
+ - "amphoras"
 ---
 
 ## Province
@@ -31,8 +34,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 [Cuicul]({{<relref ".">}}) \
 [Cuicul (Pleiades)](https://pleiades.stoa.org/places/305068)
 
-###City Plan
-{{< figure src="../images/plan_castorius.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul">}}
+{{< figure src="../images/cuicul_house_of_castorius.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
 ### Location Description
 
@@ -53,43 +55,42 @@ House of Europa, Central District (Maison d'Europe, Quartier Central)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [piscinae]( http://vocab.getty.edu/page/aat/300375619)
-- [basin]
-- [fish pool]
+- [basin](#)
+- [fish pool](#)
+- [amphoras](#)
 
 
 ### Garden Description
 
 This house of irregular shape (Plan view, Fig. 1), rested against the ancient city wall, transformed into a decorative wall for the Severian Forum, and between two large cardines. It was excavated in 1911.
 
-We can see the complex building of Late Antiquity (1500 m2), centered around the peristyle, with a large central area (8.10 x 7.70 m) (Fig. 1). The bases of the columns (four on each side) are not visible; therefore, they seem to lay on a lower level, hidden by later phase of construction. During the first half of Vth century, low walls were set against the columns, except on the west side, where the open area was entered from the gallery. On the north side, an apse, paved with a mosaic representing a shell, encroaches upon the inner space. On the east side, in front of the large exedra XVIII, a mass of masonry includes three small semi-circular pools. A large rectangular fish pool rests against the mass of masonry; there are little terracotta amphoras inside the edges. At the centre of this pool, rose a tall hexagonal base engraved with an ivy scroll and unreadable inscriptions, standing on a hollow base. The peristyle galleries were paved with mosaics: there were geometric patterns and two inscriptions glorifying the owner Castorius and his family.
+We can see the complex building of Late Antiquity (1500 m2), centered around the peristyle, with a large central area (8.10 x 7.70 m) (Fig. 1). The bases of the columns (four on each side) are not visible; therefore, they seem to lay on a lower level, hidden by later phase of construction. During the first half of Vth century, low walls were set against the columns, except on the west side, where the open area was entered from the gallery. On the north side, an apse, paved with a mosaic representing a shell, encroaches upon the inner space. On the east side, in front of the large exedra XVIII, a mass of masonry includes three small semi-circular pools. A large rectangular fish pool rests against the mass of masonry; there are little terracotta amphoras inside the edges. At the center of this pool, rose a tall hexagonal base engraved with an ivy scroll and unreadable inscriptions, standing on a hollow base. The peristyle galleries were paved with mosaics: there were geometric patterns and two inscriptions glorifying the owner Castorius and his family.
 
 The  L shaped space between the fish pool and the columns was probably planted.
 
 ### Plans
 
-{{< figure src="../images/house_of_castorius_plan1.jpg" alt="Plan of the House of Castorius. More details are included in the garden description section above." title="Fig. 1: Plan of the House of Castorius (Maisons à mosaïques du quartier central de Djemila (Cuicul), p. 24, fig. 4)">}}
+{{< figure src="../images/house_of_castorius_plan1.jpg" alt="Plan of the House of Castorius." title="Fig. 1: Plan of the House of Castorius (Blanchard-Lemée, M., 1975, fig. 4)">}}
 
 ### Images
-{{< figure src="../images/house_of_castorius_photo1.png" alt="Photo of southwest corner of the peristyle XVI, the L shaped planted area" title="Fig. 2: Photo of southwest corner of the peristyle XVI, the L shaped planted area (Photo, M. Blanchard-Lemée)">}}
+{{< figure src="../images/house_of_castorius_photo1.png" alt="Southwest corner of the peristyle XVI, the L shaped planted area." title="Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)">}}
 
-{{< figure src="../images/house_of_castorius_photo2.png" alt="Photo of hexagonal base engraved with an ivy scroll at the center of the rectangular pool." title="Fig. 3: Photo of hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Photo, M. Blanchard-Lemée)">}}
+{{< figure src="../images/house_of_castorius_photo2.png" alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool." title="Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)">}}
 ### Dates
 
-Late Antiquity
+5th century
 
 #### Excavation Dates
 
 1911
 
 ### Bibliography
+*  Blanchard-Lemée, M., *Maisons à mosaïques du quartier central de Djemila (Cuicul)*, Paris, 1975, pp. 158-161. [(worldcat)](http://www.worldcat.org/oclc/461390883)
+*  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](http://www.worldcat.org/oclc/1090653355)
 
-* M. Blanchard-Lemée, Maisons à mosaïques du quartier central de Djemila (Cuicul), Paris, 1975, p. 158-161. [(worldcat)](http://www.worldcat.org/oclc/461390883)
 
 #### Pleiades ID
-<!--
-Pleiades entry not yet created - example page below
-[278428164](https://pleiades.stoa.org/places/278428164)
--->
+[305068](https://pleiades.stoa.org/places/305068)
 #### TGN ID
 
 ### Contributor
