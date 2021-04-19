@@ -48,7 +48,6 @@ Rural Villa in Latimer
 - [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
 - [flower gardens](http://vocab.getty.edu/page/aat/300008135)
 - [orchards](http://vocab.getty.edu/page/aat/300008890)
-- [rural villas](#)
 - [vegetable gardens](http://vocab.getty.edu/page/aat/300008142)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
@@ -56,15 +55,13 @@ Rural Villa in Latimer
 
 Excavations at this country house in Buckinghamshire have produced evidence for gardens adjacent to the main residence in its latest phase dating to the beginning of the 4th century (Fig. 1). The house at the west is of the winged corridor type, fronted by a large courtyard bisected by a paved central drive with a banked edge. Between the outer courtyard wall and the house were areas used for gardening (G in Fig. 1). Just inside the outer yard wall on the south side of the drive traces of at least six bedding trenches cut into the natural subsoil and running parallel to each other were followed for at least 5 meters (b in Fig. 1). These have been interpreted by the excavator as the remains of vegetable gardens (Fig. 2). He also attributed a number of stake holes in this area to small fences bounding the vegetable gardens, and suggested the possibility of an orchard on the northern side of the drive as well as a formal flower garden nearer to the house between the projecting wings, for which there is no concrete archaeological evidence. Finally a small pit just inside the courtyard gateway may represent a pit dug to take one of a pair of trees flanking the entrance.
 
-### Maps
-
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+### Maps
 -->
 
 ### Plans
 
-{{< figure src="../images/Latimer_fig_14_or_10.1a.jpg" alt="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20." title="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.(Rights statement)" >}}
+{{< figure src="../images/Latimer_fig_14_or_10.1a.jpg" alt="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20." title="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20." >}}
 
 ### Images
 
@@ -72,7 +69,7 @@ Excavations at this country house in Buckinghamshire have produced evidence for 
 
 ### Dates
 
-Evidence for gardens dating to the beginning of 4th century
+early 4th century CE - unspecified
 
 ### Bibliography
 
