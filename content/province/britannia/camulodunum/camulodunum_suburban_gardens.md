@@ -44,7 +44,7 @@ Suburban Gardens in Camulodunum
 
 ### Keywords
 
-- [archaeological garden](#)
+- [archaeological gardens](#)
 - [ditches](http://vocab.getty.edu/page/aat/300006178)
 - [villae suburbanae](http://vocab.getty.edu/page/aat/300005519)
 
@@ -52,22 +52,19 @@ Suburban Gardens in Camulodunum
 
 Outside the walls of the city, utilitarian gardens were planted, possibly in the 3rd century, in allotments along the road leading to the Balkerne Gate. Upon the widening of the defensive ditch at the foot of the walls around AD 275, a thick dump of soil was deposited on these garden allotments, preserving a short stretch of mounded cultivation beds laid out in rows. The excavators have suggested that the beds might have been formed for growing vines or plants such as asparagus. It is uncertain whether the gardens were attached to suburban dwellings at this time, but by about 300 practically all suburban houses in this area had been demolished without replacement.
 
-### Maps
+<!-- ### Maps
 
-<!--### Plans-->
+### Plans
 
 ### Images
 
-Images not available
+ig. 1: Area outside the Balkerne gate before widening of the town ditch. Details of the beds in the middle of the section of are gardens in the foreground are based on excavation. From Crummy, City of Victory, p. 42. (Rights statement)
 
-
-*Fig. 1: Area outside the Balkerne gate before widening of the town ditch. Details of the beds in the middle of the section of are gardens in the foreground are based on excavation. From Crummy, City of Victory, p. 42. (Rights statement)*
-<!--The figure doesn't appear to be in the Britannia province image folder.-->
-
+-->
 
 ### Dates
 
-3rd century - about 300
+3rd century - about 300 CE
 
 ### Bibliography
 

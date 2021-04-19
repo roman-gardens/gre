@@ -20,7 +20,6 @@ categories:
 
 ## Location
 
-
 [Sudeley/Spoonley Wood]({{<relref ".">}}) \
 [Sudeley/Spoonley Wood (Pleiades)](https://pleiades.stoa.org/places/79693)
 
@@ -48,32 +47,28 @@ Rural Villa in Sudeley/Spoonley Wood
 - [archaeological garden](#)
 - [axial plan](http://vocab.getty.edu/page/aat/300121971)
 - [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
-- [rural villas](#)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ### Garden Description
 
 The main residence of this rural estate in Gloucestershire, excavated in 1882, is of the winged corridor type (Fig. 1). From the north and south corners of the house, walls ran in a westerly direction to enclose an open courtyard (G in Fig. 1) approximately 65 meters wide and 45 meters deep from the outer boundary to the main entrance of the house. A paved path was axially arranged in the courtyard to connect the entrance to the courtyard with that of the residential building. The western third of the courtyard is marked off by low scarps which may be remains of garden terraces (T in Fig. 1). Finds from the site indicate a 3rd/4th century date for the complex.
 
-### Maps
-
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+### Maps
 -->
 
 ### Plans
 
-{{< figure src="../images/Sudeley_Fig_16_or_11.1.jpg" alt="Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden" title="Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden. (Rights statement)" >}}
+{{< figure src="../images/Sudeley_Fig_16_or_11.1.jpg" alt="Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden" title="Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden." >}}
 
-### Images
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+### Images
 -->
 
 ### Dates
 
-3rd/4th century for the complex.
+3rd/4th century CE
 
 #### Excavation Dates
 
