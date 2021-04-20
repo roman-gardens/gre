@@ -1,5 +1,5 @@
 ---
-title: "II.iii.7/9"
+title: "II.3.7/9"
 date: 2020-11-29T10:54:29-07:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID

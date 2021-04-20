@@ -1,6 +1,6 @@
 ---
 article-type: "province"
-title: "II.iv Estate of Julia Felix; Praedia di Giulia Felice"
+title: "II.4 Estate of Julia Felix; Praedia di Giulia Felice"
 date: 2021-03-06T14:54:53Z
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
