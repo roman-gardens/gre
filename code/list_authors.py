@@ -13,6 +13,8 @@ sBaseDir = '../content/province'
 
 # This list will hold all of the keywords we find
 vAuthors = []
+vAuthorsDraft = []
+vAuthorsNotDraft = []
 iGardens = 0
 iGardensFinished = 0
 # Navigate the directory tree start at a predefined root directory
@@ -41,7 +43,7 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
 			# bDraft = sFile.lower().find('draft: false') == -1
 			bDraft = sFile.lower().find('draft: false') > -1
 			
-			if bDraft:
+			if True:# bDraft:
 				iGardensFinished += 1
 				
 				reAuthor = re.compile('author\:\s+([^\n]+)\n')
@@ -54,31 +56,51 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
 				else:
 					sEntryAuthor = mAuthor.groups(0)[0]
 					print(sEntryAuthor)
-					vEntryAuthors = re.split('\,| and ', sEntryAuthor)
+					vEntryAuthors = re.split('\[|\]|\,| and ', sEntryAuthor)
 					vEntryAuthors = [ s.strip() for s in vEntryAuthors ]
 					print(vEntryAuthors)
 					
 					for s in vEntryAuthors:
 						vAuthors.append(s)
+						if bDraft:
+							vAuthorsDraft.append(s)
+						else:
+							vAuthorsNotDraft.append(s)
 					# vAuthors.append(mAuthor
 
 # Make one list of all the keywords
 vAuthors = list(set(vAuthors))
 vAuthors.sort()
 
-sAuthorList = ''
-for tAuthor in vAuthors:
-	sAuthorList += '%s\n' % tAuthor
+vAuthorsDraft = list(set(vAuthorsDraft))
+vAuthors.sort()
 
-sAuthorList = sAuthorList.strip()
+vAuthorsNotDraft = list(set(vAuthorsNotDraft))
+vAuthorsNotDraft.sort()
+
+# 
+# sAuthorList = ''
+# for tAuthor in vAuthors:
+# 	sAuthorList += '%s\n' % tAuthor
+# 
+# 
+# sAuthorList = sAuthorList.strip()
 
 # Save that list to a file
 with open('authors.txt', 'w') as f:
-	f.write(sAuthorList)
+	f.write('\n'.join(vAuthors).strip())
+	f.close()
+
+with open('authors_draft.txt', 'w') as f:
+	f.write('\n'.join(vAuthorsDraft).strip())
+	f.close()
+
+with open('authors_not_draft.txt', 'w') as f:
+	f.write('\n'.join(vAuthorsNotDraft).strip())
 	f.close()
 
 # Copy the list to the clipboard (for pasting in Google Sheet)
-pyperclip.copy(sAuthorList)
+# pyperclip.copy(sAuthorList)
 
 print('Number of gardens: %i\t,Number of finished gardens: %i' % (iGardens, iGardensFinished))
 # Print it out for us to see
