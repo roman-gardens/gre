@@ -42,19 +42,19 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Peristyle](http://vocab.getty.edu/page/aat/300080971) garden in a domestic property.
 
 ### Garden Description
-This small house, excavated in 1872, had no [atrium](http://vocab.getty.edu/page/aat/300004097) and the [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden was to the right of the north end of the entrance passageway. A [portico](http://vocab.getty.edu/page/aat/300004145) enclosed the garden on the west, north, and part of the south sides. Part of the [portico](http://vocab.getty.edu/page/aat/300004145) had been closed to make rooms. Paintings of amorini decorated the [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) with two little busts that may have been portraits of the owners. A [lararium](http://vocab.getty.edu/page/aat/300400600) painting and an arched niche were located in the west wall of the [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971). A small marble column with bas-relief of foliage most likely served as garden decoration.
+This small house, excavated in 1872, had no [atrium](http://vocab.getty.edu/page/aat/300004097) and the [peristyle](http://vocab.getty.edu/page/aat/300080971) garden was to the right of the north end of the entrance passageway. A [portico](http://vocab.getty.edu/page/aat/300004145) enclosed the garden on the west, north, and part of the south sides. Part of the [portico](http://vocab.getty.edu/page/aat/300004145) had been closed to make rooms. Paintings of amorini decorated the [peristyle](http://vocab.getty.edu/page/aat/300080971) with two little busts that may have been portraits of the owners. A [lararium](http://vocab.getty.edu/page/aat/300400600) painting and an arched niche were located in the west wall of the [peristyle](http://vocab.getty.edu/page/aat/300080971). A small marble column with bas-relief of foliage most likely served as garden decoration.
 
 ### Bibliography
 
-Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 24, no.29 [(worldcat)](https://www.worldcat.org/title/corpus-of-the-lararia-of-pompeii/oclc/892026154&referer=brief_results)    
-Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 75  
-Fiorelli, G. 1875. *Descrizione di Pompei*, p. 60 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)     
-Fiorelli, G. 1870-1873. *GiornSc*, n.s. 2, col. 462  
-Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 28 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
-Mau, A. 1874. *BdI*, pp. 185-186  
-Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 49    
-Trendelenberg, A. 1871. *BdI*, p. 172  
-Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://www.worldcat.org/title/codex-topographicus-pompeianus-1937-1957-and-undated/oclc/974375313&referer=brief_results)  
+* Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 24, no.29 [(worldcat)](https://www.worldcat.org/title/corpus-of-the-lararia-of-pompeii/oclc/892026154&referer=brief_results)    
+* Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 75  
+* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 60 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)     
+* Fiorelli, G. 1870-1873. *GiornSc*, n.s. 2, col. 462  
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 28 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+* Mau, A. 1874. *BdI*, pp. 185-186  
+* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 49    
+* Trendelenberg, A. 1871. *BdI*, p. 172  
+* Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://www.worldcat.org/title/codex-topographicus-pompeianus-1937-1957-and-undated/oclc/974375313&referer=brief_results)  
 
 
 <!--#### Periodo ID-->
