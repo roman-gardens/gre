@@ -59,8 +59,8 @@ unspecified
 <!-- -->
 ### Bibliography
 <!-- -->
-* M.A. Tomei, Nota sui giardini antichi del Palatino, *Mélanges de l’École Française de Rome (MEFRA)*, 104, 1992, 2, pp. 917-951. [worldcat](http://www.worldcat.org/oclc/972029282)
-* M.A. Tomei, *Il Giardino dei Cesari*, Catalogo Mostra, Roma 2001. [worldcat](http://www.worldcat.org/oclc/5894435382)
+* M.A. Tomei, Nota sui giardini antichi del Palatino, *Mélanges de l’École Française de Rome (MEFRA)*, 104, 1992, 2, pp. 917-951. [(worldcat)](http://www.worldcat.org/oclc/972029282)
+* M.A. Tomei, *Il Giardino dei Cesari*, Catalogo Mostra, Roma 2001. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
 <!-- -->
 #### Pleiades ID
 

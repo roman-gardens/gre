@@ -50,7 +50,7 @@ Garden of the Temple of Elagabalus, Palatine
 <!-- -->
 ### Garden Description
 <!-- -->
-The building of a religious complex, identified by scholars as the [*Elagabalium*](https://en.wikipedia.org/wiki/Elagabalium) (*Heliogablium*), later dedicated to Jupiter (*Iupiter Ultor*), was the final transformation in antiquity of the northwestern terrace (Fig. 1). This enormous west-facing [peripteral temple](http://vocab.getty.edu/page/aat/300135991) was enclosed by three [porticoes](http://vocab.getty.edu/page/aat/300004145) on the west (with a monumental entrance), north and south, and by a closed gallery at the east. Its plan, proportions, and part of the ornament have been reconstructed based on field observations and on the study of the remains of the architectural decoration. Construction may have started as early as the great fire of 191/192 CE, but the buildings took shape only later in two successive periods; the first ending around 210/218 CE, the second at least by the years 218/220 CE. By the end of the construction works, the terrace had been adjusted to the north and east, while, on the southern side, a wall was constructed to separate it from the Imperial Palace (Figs. 2-3). However, a door was placed in this wall, providing a direct link between the monument and the [*Domus Augustana*](https://en.wikipedia.org/wiki/Domus_Augustana).
+The building of a religious complex, identified by scholars as the [*Elagabalium*](https://en.wikipedia.org/wiki/Elagabalium) (*Heliogablium*), later dedicated to [Jupiter](https://en.wikipedia.org/wiki/Jupiter_(mythology)) (*Iupiter Ultor*), was the final transformation in antiquity of the northwestern terrace (Fig. 1). This enormous west-facing [peripteral temple](http://vocab.getty.edu/page/aat/300135991) was enclosed by three [porticoes](http://vocab.getty.edu/page/aat/300004145) on the west (with a monumental entrance), north and south, and by a closed gallery at the east. Its plan, proportions, and part of the ornament have been reconstructed based on field observations and on the study of the remains of the architectural decoration. Construction may have started as early as the great fire of 191/192 CE, but the buildings took shape only later in two successive periods; the first ending around 210/218 CE, the second at least by the years 218/220 CE. By the end of the construction works, the terrace had been adjusted to the north and east, while, on the southern side, a wall was constructed to separate it from the Imperial Palace (Figs. 2-3). However, a door was placed in this wall, providing a direct link between the monument and the [*Domus Augustana*](https://en.wikipedia.org/wiki/Domus_Augustana).
 
 Two garden areas were identified within the precinct, to the south of the [temple](http://vocab.getty.edu/page/aat/300007595); one measuring 17 x 20.5 meters, the other of the same width, but with a length of at least 24 meters (Fig. 1).  The two areas were separated by a wide paved path running north-south that led to a secondary doorway at the south, giving access to the imperial palace complex (Figs. 2, 4).  Thus the larger garden (not fully excavated) may have extended uninterrupted for a length of some 42 meters. These two gardens are separated by an [*allée*](http://vocab.getty.edu/page/aat/300178561) of white [marble](http://vocab.getty.edu/page/aat/300011443) slabs, laid on the axis of the door linking the *Heliogabalium* to the [Imperial Palace](https://en.wikipedia.org/wiki/Palace_of_Domitian). Two additional gardens of the same kind can be envisioned on the north side of the temple based on the results of recent excavations.
 
@@ -79,36 +79,32 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
 ### Figures
 <!-- -->
-{{< figure src="../images/elagabalium_fig1.jpg" alt="Reconstruction of the Vigna Barberini complex" title="Figure 1. Reconstruction of the late monumental complex (©. P. Veltri, EFR)." >}}
+{{< figure src="../images/elagabalium_fig1.jpg" alt="Reconstruction of the Vigna Barberini complex" title="Fig. 1. Reconstruction of the late monumental complex (©. P. Veltri, EFR)." >}}
 <!-- -->
-{{< figure src="../images/elagabalium_fig2.jpg" alt="Reconstruction of the Vigna Barberini complex" title="Figure 2. Reconstruction of the late monumental complex (©. P. Veltri, EFR).." >}}
+{{< figure src="../images/elagabalium_fig2.jpg" alt="Reconstruction of the Vigna Barberini complex" title="Fig. 2. Reconstruction of the late monumental complex (©. P. Veltri, EFR).." >}}
 <!-- -->
-{{< figure src="../images/elagabalium_fig3.jpg" alt="Southern Wall of Heliogabalium" title="Figure 3.	View of the southern wall, which separated the Heliogabalium from the Domus Augustana (© Ch. Durand, AMU-CNRS, CCJ)." >}}
+{{< figure src="../images/elagabalium_fig3.jpg" alt="Southern Wall of Heliogabalium" title="Fig. 3.	View of the southern wall, which separated the Heliogabalium from the Domus Augustana (© Ch. Durand, AMU-CNRS, CCJ)." >}}
 <!-- -->
-{{< figure src="../images/elagabalium_fig4.jpg" alt="Reconstruction of the Temple Garden" title="Figure 4. Reconstruction of the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA & P. Veltri, EFR)." >}}
+{{< figure src="../images/elagabalium_fig4.jpg" alt="Reconstruction of the Temple Garden" title="Fig. 4. Reconstruction of the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA & P. Veltri, EFR)." >}}
 <!-- -->
-{{< figure src="../images/elagabalium_fig5.jpg" alt="Amphora Severan Gardens" title="Figure 5. Halved amphorae used as flowerpots in the Severan gardens (© Ch. Durand, AMU-CNRS, CCJ)." >}}
+{{< figure src="../images/elagabalium_fig5.jpg" alt="Amphora Severan Gardens" title="Fig. 5. Halved amphorae used as flowerpots in the Severan gardens (© Ch. Durand, AMU-CNRS, CCJ)." >}}
 <!-- -->
-{{< figure src="../images/elagabalium_fig6.jpg" alt="Reconstruction of the Elagabalium Garden" title="Figure 6. Reconstruction of part of the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA & P. Veltri, EFR)." >}}
+{{< figure src="../images/elagabalium_fig6.jpg" alt="Reconstruction of the Elagabalium Garden" title="Fig. 6. Reconstruction of part of the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA & P. Veltri, EFR)." >}}
 <!-- -->
-{{< figure src="../images/elagabalium_fig7.jpg" alt="Reconstruction of a tree bed" title="Figure 7. Reconstruction of a tree and planting bed in the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA)." >}}
+{{< figure src="../images/elagabalium_fig7.jpg" alt="Reconstruction of a tree bed" title="Fig. 7. Reconstruction of a tree and planting bed in the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA)." >}}
 <!-- -->
 ### Dates
 
 c. 190- 240 CE
 <!-- -->
-#### Excavation Date
-
-unspecified
-<!-- -->
 ### Bibliography
 <!-- -->
 * F. Chausson, “Le site de la Vigna Barberini de 191 à 455” in *La Vigna Barberini I. Histoire d’un site. Étude des sources et de la topographie*, Rome, 1997, pp. 31-85.[(worldcat)](http://www.worldcat.org/oclc/1000676783)
 * M. Royo, “Constructions antérieures au grand temple «sévérien»” in *La Vigna Barberini I*, op. cit., pp. 21-26 (Adonea). [(worldcat)](http://www.worldcat.org/oclc/1000676783)
-* H. Broise and Y. Thébert,  “Élagabal et le complexe religieux de la Vigna Barberini, “ *Mélanges de l’École Française de Rome*, 111 (1999), pp. 729-747. (worldcat)](http://www.worldcat.org/oclc/972029282)
+* H. Broise and Y. Thébert,  “Élagabal et le complexe religieux de la Vigna Barberini, “ *Mélanges de l’École Française de Rome*, 111 (1999), pp. 729-747. [(worldcat)](http://www.worldcat.org/oclc/972029282)
 * Y. Thébert, “Il santuario di Elagabalus: un giardino sacro” in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 83-94. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
 * G. Rizzo, “Le anfore utilizzate come vasi da fiori nei giardini del tempio” in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, p. 98. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
-* F. Villedieu, *La Vigna Barberini II- Domus, palais impérial et temples: stratigraphie du secteur nord-est du Palatin*, Rome, 2007 (RomaAntica, 6). [worldcat](http://www.worldcat.org/oclc/643147049)
+* F. Villedieu, *La Vigna Barberini II- Domus, palais impérial et temples: stratigraphie du secteur nord-est du Palatin*, Rome, 2007 (RomaAntica, 6). [(worldcat)](http://www.worldcat.org/oclc/643147049)
 <!-- -->
 #### Pleiades ID
 

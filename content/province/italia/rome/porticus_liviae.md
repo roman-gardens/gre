@@ -5,7 +5,7 @@ date: 2021-03-16T23:53:09-07:00
 province_id: PROVINCE_ID
 author: E.R. Macaulay and Holly Spoth-Torres
 editor: Joshua Rosenheim and Rhiannon Paré
-draft: true
+draft: false
 tags:
  - "colonnades"
  - "domus"
@@ -71,11 +71,11 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 <!-- -->
 ### Figures
 <!-- -->
-{{< figure src="../images/.jpg" alt="Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder" title="Figure 1. Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder. © Holly Spoth-Torres." >}}
+{{< figure src="../images/porticusliviae_fig1.jpg" alt="Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder" title="Fig. 1. Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder. © Holly Spoth-Torres." >}}
 <!-- -->
-{{< figure src="../images/.jpg" alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae" title="Figure 2. Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae. © Holly Spoth-Torres." >}}
+{{< figure src="../images/porticusliviae_fig2.jpg" alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae" title="Fig. 2. Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae. © Rhiannon Paré after Holly Spoth-Torres." >}}
 <!-- -->
-{{< figure src="../images/.jpg" alt="Entrance to the Porticus Liviae" title="Figure 3. Entrance to the Porticus Liviae. © Holly Spoth-Torres." >}}
+<!--{{< figure src="../images/.jpg" alt="Entrance to the Porticus Liviae" title="Fig. 3. Entrance to the Porticus Liviae. © Holly Spoth-Torres." >}}-->
 <!-- -->
 ### Dates
 
