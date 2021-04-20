@@ -86,7 +86,7 @@ The Petra garden continued in use after the Roman annexation of Petra in 106 CE,
 A deep deposit of sediment above the pool floor indicates that the pool went out of use or was not well-maintained for a period of time before the collapse of the pavilion walls into the pool as a result of the earthquake of 363 CE that caused much destruction in Petra. The remnants of later walls, evidence for the reuse of the hydraulic installations, and a raised field that occupies part of the earthen terrace, testify to the continued use of the site for agricultural purposes through the post-Roman occupation of Petra and into the modern era.
 
 ### Maps
-{{< figure src="../images/1_arabia_petraea_map.jpg" alt="Map of Petra location" title="Fig. 1: Map showing the location of ancient Petra in Arabia Petraea (L.-A. Bedal)" >}}
+{{< figure src="../images/1_arabia_petraea_map.jpg" alt="Map of Petra location" title="Fig. 1: Map showing the location of ancient Petra in Arabia Petraea. Map by L.-A. Bedal, based on [Andrei N.](https://en.wikipedia.org/wiki/Arabia_Petraea#/media/File:Roman_Empire_125_political_map.svg)" >}}
 
 
 ### Plans
