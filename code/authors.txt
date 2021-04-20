@@ -1,8 +1,3 @@
-"Clopper Almon"
-"D. Vaquerizo"
-"M. Orfila"
-"N. Doenges"
-(AUTHOR_ID)
 AUTHOR_ID
 AUTHOR_UNKONWN
 Amartya Shri
@@ -15,6 +10,7 @@ Christine Kondoleon
 Christophe Gaston
 Claudine Munier
 Clopper Almon
+D. Vaquerizo
 David Gilman Romano
 E. Roffia
 E.R. Macaulay
@@ -39,11 +35,13 @@ Kathryn Gleason
 Leigh-Ann Bedal
 Linda Anderson
 M. Barbara Reeves
+M. Orfila
 M.-A. Tomei
 Maureen Carroll
 Michel Fuchs
 Michèle Blanchard-Lemée
 Monika Trümper
+N. Doenges
 NAME_OF_AUTHOR
 None
 Other Guy

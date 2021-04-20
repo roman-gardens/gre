@@ -56,16 +56,17 @@ for sRoot, vDirs, vFiles in os.walk(sBaseDir):
 				else:
 					sEntryAuthor = mAuthor.groups(0)[0]
 					print(sEntryAuthor)
-					vEntryAuthors = re.split('\[|\]|\,| and ', sEntryAuthor)
+					vEntryAuthors = re.split('[\"\(\)\[\]\,]| and ', sEntryAuthor)
 					vEntryAuthors = [ s.strip() for s in vEntryAuthors ]
 					print(vEntryAuthors)
 					
 					for s in vEntryAuthors:
-						vAuthors.append(s)
-						if bDraft:
-							vAuthorsDraft.append(s)
-						else:
-							vAuthorsNotDraft.append(s)
+						if len(s):
+							vAuthors.append(s)
+							if bDraft:
+								vAuthorsDraft.append(s)
+							else:
+								vAuthorsNotDraft.append(s)
 					# vAuthors.append(mAuthor
 
 # Make one list of all the keywords
