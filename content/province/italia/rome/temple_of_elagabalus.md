@@ -116,4 +116,4 @@ Françoise Villedieu
 <!-- -->
 ## Publication date
 <!-- -->
-15 APRIL 2021
+15 April 2021

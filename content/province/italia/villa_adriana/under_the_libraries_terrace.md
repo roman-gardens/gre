@@ -1,11 +1,13 @@
 ---
-title: "The garden in front of the Piazza d'Oro (Fig. 1, n. 19)"
+title: "Garden arrangement under the Libraries' terrace (Fig. 1, n. 9)"
 date: 2020-12-14T21:15:00-08:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
-draft: false
+draft: true
+tags:
+ - "terrace gardens"
 ---
 
 ## Province
@@ -32,20 +34,28 @@ The realization of this magnificent residence must have been a cherished dream o
 
 ## Garden
 
-The garden in front of the Piazza d'Oro (Fig. 1, n. 19)\
-[Piazza d'Oro at Hadrian's Villa (Pleiades)](https://pleiades.stoa.org/places/379689233)
+Garden arrangement under the Libraries' terrace (Fig. 1, n. 9)
 
 ### Keywords
 
-unspecified
+- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
 
 ### Garden Description
 
-Here only the considerable presence of lead in the soil denounces the existence of an ancient garden (SALZA PRINA RICOTTI 1994-95, fig. 7). It is clear that this space, which was the point of arrival of the most important guests coming to dine with the emperor, must have been elegantly arranged. At its same level we can still admire some luxurious guestrooms with superb marble floorings. It stands to reason that the area around them must have been well planned and well kept.
+The principal element of this garden (Fig. 28) is the sustaining wall of the overhanging terrace, a kind of theater scenery decorated by a series of 23 alternatively semicircular and square niches (Fig. 29).
+
+However the garden did not occupy the entire plateau. A substantial concentration of lead is found only in the area set in front of the sustaining wall where a garden with its flowerbeds must have been set, while the most northern part of the plateau, where lead is scantily present, must have been occupied by trees and bushes which did not need much watering (SALZA PRINA RICOTTI 1994-95, fig. 7).
 
 ### Plans
 
 {{< figure src="../images/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+
+{{< figure src="../images/28_under_libraries.jpg" alt="Plan of the Garden under the Libraries at Hadrian's Villa" title="Fig. 28: Plan of the Garden under the Libraries, Eugenia Salza Prina Ricotti." >}}
+
+### Images
+
+{{< figure src="../images/29_nymphaeum.jpg" alt="Photograph of the Nymphaeum of the Terraced garden under the Libraries at Hadrian's Villa" title="Fig. 29: Nymphaeum, Eugenia Salza Prina Ricotti." >}}
+
 
 ### Dates
 
@@ -72,11 +82,13 @@ unspecified
 * J. E. Foss, "Appendice. Soils of Hadrian's Villa," in W. F. Jashemski, E. Salza Prina Ricotti "Preliminary Excavations in the Gardens of Hadrian's Villa: the Canopus Area and the Piazza d'Oro" *American Journal of Archaeology*, Vol. 96, No.4 (Oct. 1992), pp. 595-597. [(worldcat)](http://www.worldcat.org/oclc/1032864253)<!-- worldcat link is for the journal, not the specific issue thereof --> [(jstor)](http://www.jstor.org/stable/505186)
 * M. E. Timpson, J.E. Foss, R. J. Lewis, C. A. Stiles, "Soil interpretation of some Roman archaeological sites in Italy and Tunisia," *15th Int. Congr. of Soil Science*, Vol. 6b, 1994, pp. 172-173. [(worldcat)](http://www.worldcat.org/oclc/32679652)
 * J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](http://www.worldcat.org/oclc/1040851034)
+<!-- Bibliography for Garden Description -->
+* E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67 (1994-95), pp. 69-85, fig. 7. [(worldcat)](http://www.worldcat.org/oclc/1006002216) <!-- link to specific issue needed -->
 
 #### Pleiades ID
 
-[379689233](https://pleiades.stoa.org/places/379689233)
-<!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
+[423127](https://pleiades.stoa.org/places/423127)
+<!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
 #### TGN ID
 

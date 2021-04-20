@@ -58,7 +58,7 @@ The house was laid out around a peristyle garden (IV-VIII), with four porticos s
 
 ### Dates
 
-The house dates from the beginning of the IIIrd century.
+Early 3rd century CE
 
 ### Bibliography
 

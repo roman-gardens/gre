@@ -58,7 +58,7 @@ This house is the largest excavated to-date at Thugga. It appears to date from t
 {{< figure src="../images/House_of_the_trillium_Dougga_color.jpg" alt="Plan of Trifolium" title="Fig. 1: Plan of House of the Trifolium (Portail internet de Dougga, Ministère de la culture et de la sauvegarde du patrimoine, http://www.dougga.rnrt.tn/file/plan_maison_trifolium.pdf)" >}}
 
 ### Dates
-the first half of the 3rd century
+Early 3rd century CE
 
 ### Bibliography
 * Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](http://www.worldcat.org/oclc/7380877046)
