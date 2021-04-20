@@ -12,10 +12,12 @@ categories:
 tags:
  - "domus"
  - "peristyle houses"
+ - "semicircular basin"
+ - "pool"
 ---
 
 ## Province
-[Numidia]({{<relref "..">}})
+[Numidia]({{<relref "..">}}) \
 [Numidia (Pleiades)](https://pleiades.stoa.org/places/981539)
 
 ### Province Description
@@ -50,8 +52,8 @@ House of the Warehouse (Maison de l'entrepôt)
 ### Keywords
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
-- [semicircular basin]
-- [pool]
+- [semicircular basin](#)
+- [pool](#)
 ### Garden Description
 This large house was laid out around two peristyles (A,B) arranged along the N S axis. The plan presents a complex layout notably in the southern part of the *domus* upon which the excavators did not comment thoroughly (Plan view, Fig. 1).
 
@@ -64,7 +66,7 @@ The S part of the *domus* was probably added in a latter period. It presents a p
 -->
 
 ### Plans
-{{< figure src="../images/house_of_the_warehouse.jpg" alt="Plan of the House of the Warehouse at Thamugadi; Les mosaïques de Timgad, p. 88, fig. 12" title="Fig. 1: Plan of the House of the Warehouse. (Les mosaïques de Timgad, p. 88, fig. 12)" >}}
+{{< figure src="../images/house_of_the_warehouse.jpg" alt="Plan of the House of the Warehouse at Thamugadi; Les mosaïques de Timgad, p. 88, fig. 12" title="Fig. 1: Plan of the House of the Warehouse. (Germain, S., 1969, fig. 12)" >}}
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
@@ -79,8 +81,8 @@ The S part of the *domus* was probably added in a latter period. It presents a p
 Unspecified
 
 ### Bibliography
-* A. Ballu, Les ruines de Timgad, Sept années de découvertes, Paris, 1911, p. 49-53,120, plan p. 51. [(worldcat)](http://www.worldcat.org/oclc/802835102)
-* S. Germain, *Les mosaïques de Timgad*, Paris, 1969, p. 88, fig. 12. [(worldcat)](http://www.worldcat.org/oclc/643640586)
+*  Ballu, A., *Les ruines de Timgad, Sept années de découvertes*, Paris, 1911, p. 49-53,120, plan p. 51. [(worldcat)](http://www.worldcat.org/oclc/802835102)
+* Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 88, fig. 12. [(worldcat)](http://www.worldcat.org/oclc/643640586)
 
 
 <!--#### Periodo ID-->

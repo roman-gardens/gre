@@ -44,10 +44,9 @@ Rural Villa in Darenth
 
 ### Keywords
 
-- [archaeological garden](#)
+- [archaeological gardens](#)
 - [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
 - [piscinae]( http://vocab.getty.edu/page/aat/300375619)
-- [rural villas](#)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 - [waterspouts](http://vocab.getty.edu/page/aat/300248603)
 
@@ -65,13 +64,13 @@ South of the western range of rooms was a large, open space measuring 14.6 x 58.
 
 ### Plans
 
-{{< figure src="../images/Darenth_fig_4.tif" alt="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20" title="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20. (Rights statement)" >}}
+{{< figure src="../images/darenth.png" alt="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20" title="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20." >}}
 
 <!--### Images-->
 
 ### Dates
 
-After 100 CE - Closing decades of the 4th century
+ca. 100 CE - late 4th century CE
 
 ### Bibliography
 

@@ -44,12 +44,11 @@ Rural Villa in Eccles
 
 ### Keywords
 
-- [archaeological garden](#)
+- [archaeological gardens](#)
 - [ditches](http://vocab.getty.edu/page/aat/300006178)
 - [drains](http://vocab.getty.edu/page/aat/300052564)
 - [horticultural containers](http://vocab.getty.edu/page/aat/300198749)
 - [piscinae]( http://vocab.getty.edu/page/aat/300375619)
-- [rural villas](#)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 - [water baths](http://vocab.getty.edu/page/aat/300248755)
 
@@ -61,15 +60,15 @@ This country estate in modern Kent possessed a large ornamental pool (P in Fig. 
 
 ### Plans
 
-{{< figure src="../images/Eccles_Fig_1.tif" alt="Fig. 1: Plan of the villa with the main house (A), a possible garden (G) and a large pool (P). Adapted from Detsicas 1983, fig. 25." title="Fig. 1: Plan of the villa with the main house (A), a possible garden (G) and a large pool (P). Adapted from Detsicas 1983, fig. 25. (Rights statement)" >}}
+{{< figure src="../images/eccles1.png" alt="Fig. 1: Plan of the villa with the main house (A), a possible garden (G) and a large pool (P). Adapted from Detsicas 1983, fig. 25." title="Fig. 1: Plan of the villa with the main house (A), a possible garden (G) and a large pool (P). Adapted from Detsicas 1983, fig. 25." >}}
 
 ### Images
 
-{{< figure src="../images/Eccles_Fig_2.jpg" alt="Fig. 2: Clay planting pot with cut-out holes. Adapted from Detsicas 1981, fig. 26.2." title="Fig. 2: Clay planting pot with cut-out holes. Adapted from Detsicas 1981, fig. 26.2. (Rights statement)" >}}
+{{< figure src="../images/Eccles_Fig_2.jpg" alt="Fig. 2: Clay planting pot with cut-out holes. Adapted from Detsicas 1981, fig. 26.2." title="Fig. 2: Clay planting pot with cut-out holes. Adapted from Detsicas 1981, fig. 26.2." >}}
 
 ### Dates
 
-Middle of 1st century - 4th century
+mid-1st to 4th century CE
 
 ### Bibliography
 

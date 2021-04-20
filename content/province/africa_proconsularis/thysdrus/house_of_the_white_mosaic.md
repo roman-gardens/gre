@@ -19,7 +19,7 @@ tags:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 <!-- DESCRIPTION -->
 
 
@@ -66,18 +66,18 @@ This house located E of the House of the Dolphins, has a small sunken peristyle 
 
 
 ### Plans
-{{< figure src="../images/AFR_Thy_Hwm_Wjashemski1.jpg" alt="Fig.1: Plan of the house of the White Mosaic." title="Fig.1: Plan of the house of the White Mosaic. (CMT, Thysdrus, pp. 101-105, plans 7)" >}}
+{{< figure src="../images/AFR_Thy_Hwm_Wjashemski1.jpg" alt="Fig.1: Plan of the house of the White Mosaic." title="Fig.1: Plan of the house of the White Mosaic. (CMT, plan 7)" >}}
 
 <!--### Images-->
 
 ### Dates
 
-Unspecified
+Early 3rd century CE
 
 ### Bibliography
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.306-308. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Dulière, C., *Corpus des Mosaïques de Tunisie*, *Thysdrus, El Jem*, *Quartier Sud-Ouest*, INA, Tunis, 1996, pp. 101-105, plans 7.[(worldcat)](http://www.worldcat.org/oclc/884623863)
 
-* CMT, Thysdrus, El Jem, *Quartier Sud-Ouest*, INA, Tunis, 1996, pp. 101-105, plans 7.[(worldcat)](http://www.worldcat.org/oclc/884623863)
-* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003, p.306-308. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 
 #### Pleiades ID

@@ -47,7 +47,6 @@ Rural Villa in Gorhambury
 ### Keywords
 
 - [arbors](http://vocab.getty.edu/page/aat/300006781)
-- [archaeological garden](#)
 - [axial plan](http://vocab.getty.edu/page/aat/300121971)
 - [loam](http://vocab.getty.edu/page/aat/300014335)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
@@ -58,20 +57,16 @@ At this site in Hertfordshire near the town of Verulamium (St. Albans) excavatio
 
 An avenue 20 meters wide led axially from the gate at the eastern end of the inner courtyard a cross to the front of the house (H in Fig. 1). On either side of the avenue was a line of circular pits spaced 4-6 meters apart (A in Fig. 1). These were filled with fine, homogeneous loam and have been interpreted as planting holes for trees or shrubs. Alternatively, the rows of holes have been interpreted as the postholes of a covered walkway or arbour leading to the house, supporting climbing plants. This feature of the courtyard is contemporary with the first masonry house built around A.D. 100, and represents an attempt to design the compound fronting the house in a more formal way. After 175 the avenue leading to the rebuilt house seems not to have been flanked by trees or an arbour, and numerous trackways leading into both courtyards from the north and south suggest that the entrance to the main residence was no longer strictly axial.
 
-### Maps
-
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+### Maps
 -->
 
 ### Plans
 
 {{< figure src="../images/Gorhambury_13_or_9.1.jpg" alt="Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn." title="Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn. (Rights statement)" >}}
 
-### Images
-
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+### Images
 -->
 
 ### Dates

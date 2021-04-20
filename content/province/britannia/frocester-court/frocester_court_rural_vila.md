@@ -44,13 +44,12 @@ Rural Villa in Frocester Court
 
 ### Keywords
 
-- [archaeological garden](#)
+- [archaeological gardens](#)
 - [ditches](http://vocab.getty.edu/page/aat/300006178)
 - [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
 - [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
 - [orchards](http://vocab.getty.edu/page/aat/300008890)
 - [paddock](http://vocab.getty.edu/page/aat/300428748)
-- [rural villas](#)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ### Garden Description
@@ -59,15 +58,11 @@ This Roman villa in Gloucestershire is situated about 14 miles west of the civit
 
 Excavated evidence indicates that this courtyard was designed as a formal garden in the early 4th century. The courtyard was bisected by a central drive 5 meters wide consisting of rubble with a layer of heavy metalling on top and bounded by kerb stones (P in Fig. 1). It led from the courtyard gate at the southeast and continued to the front of the house. The garden consisted of two planting beds near the house, a hedge and two long beds on either side of the drive (dark grey in Fig. 1) (Fig. 2). These beds had been dug into the stone and gravel and then filled with 20 centimeters of very dark soil. It is not known what plants grew here, although carbonized remains of box plants at the villa may reflect one type of greenery planted in the courtyard. The northeast part of the yard was paved with stone and gravel (dotted in Fig. 1), the southwest part, however, was not paved, suggesting that this part of the garden might have been used as an orchard or an area for trees or shrubs (O in Fig. 1). The formal garden was destroyed by 5th century cultivation. Northwest of the house, i.e. at the back, various ditches marked off a number of areas interpreted as possible paddocks and an area covered with a layer of very dark soil which has been interpreted as a kitchen garden.
 
-### Maps
-
-<!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
--->
+<!-- ### Maps -->
 
 ### Plans
 
-{{< figure src="../images/Frocester_Fig_10_or_7.1a.jpg" alt="Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2." title="Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2. (Rights statement)" >}}
+{{< figure src="../images/Frocester_Fig_10_or_7.1a.jpg" alt="Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2." title="Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2." >}}
 
 ### Images
 
@@ -75,7 +70,7 @@ Excavated evidence indicates that this courtyard was designed as a formal garden
 
 ### Dates
 
-Early 4th century - 5th century
+early 4th - 5th century CE
 
 ### Bibliography
 

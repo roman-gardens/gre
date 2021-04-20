@@ -10,7 +10,7 @@ draft: false
 categories:
  - "Italia"
 tags:
- - "atriums (interior spaces)"
+ - "atriums (Roman halls)"
  - "triclinia (rooms)"
 ---
 
@@ -38,7 +38,7 @@ Casa dell’Alcova
 543.IV.3-4.
 
 ### Keywords
-- [atriums (interior spaces)](http://vocab.getty.edu/page/aat/300080798)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [procoeton]()
 
