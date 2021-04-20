@@ -5,7 +5,7 @@ province_id: 1052
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Jianing Zhou
-draft: false
+draft: true
 
 categories:
 - "Italia"
@@ -96,7 +96,7 @@ Unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[1052](https://pleiades.stoa.org/places/1052)
+[1052](https://pleiades.stoa.org/places/1052) \
 [433032](https://pleiades.stoa.org/places/433032)
 
 #### TGN ID

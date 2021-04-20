@@ -1,5 +1,5 @@
 ---
-title: "V.IV.b."
+title: "V.iv.3"
 date: 2020-09-29T12:07:01-04:00
 province_id: 1052
 article_id: ARTICLE_ID
@@ -9,6 +9,11 @@ draft: true
 
 categories:
 - "Italia"
+
+tags:
+ - "basins (vessels)"
+ - "gutters (building drainage components)"
+ - "porticoes"
 ---
 
 ## Province
@@ -35,25 +40,24 @@ Region V
 
 
 ## Insula
-Insula IV
+Insula iv
 
 
 ## House
-House b
+House 3
 
 ## Garden
-V.IV.b.
+V.iv.3
 
 ### Keywords
-[porticoes](http://vocab.getty.edu/page/aat/300004145) \
-[fountains](http://vocab.getty.edu/page/aat/300006179) \
-[triclinia (couches)](http://vocab.getty.edu/page/aat/300142552) \
-[trellises](http://vocab.getty.edu/page/aat/300006785) \
-[headboards (fulcrum)](http://vocab.getty.edu/page/aat/300040447)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
+- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 
 
 ### Garden Description
-When the excavation work reached the northeast corner of this house in 1901, a small garden (a) with a proportionately small *portico* supported by two masonry columns was found. The major part of the garden was occupied by the masonry *triclinium* (*l. medius*, 3.00 m.; *l. imus* and. *summus* 2.69 m.) with a round table (0.65 m. dia.) and a *lectus imus* that had a *fulcrum*. The masonry couch had three large holes that may have received the posts for the pergola, and a marble leopard’s head fountain was found in the first room to the right of the entrance. The large window in the *triclinium* offered a fine view of the garden.
+At the rear of this house excavated in 1899 was a courtyard garden (a) with a *portico* on the south. This was supported by one column that was reinforced by a large pillar. The garden was enclosed by a low wall with an opening on the south. A gutter that encircled the edges had a settling basin (0.35 x 0.45 m.; 0.55 m. deep) in the southwest corner. There was no cistern, but a *puteal* stood in the southeast corner.
+
 ### Plans
 
 <!--{{< figure src="../images/Euro_GaAq_Montreal_Villa de Séviac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." title="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." >}}
@@ -63,17 +67,17 @@ When the excavation work reached the northeast corner of this house in 1901, a s
 
 
 ### Dates
-79 CE
+Unspecified
 
 #### Excavation Dates
-1901
+1899
 
 ### Bibliography
-Döhl, p. 14. \
-Jashemski, *Gardens*, vol.II, p. 117. [(worldcat)](http://www.worldcat.org/oclc/1029851777) \
-Mau, *RM* (1901), p. 363. [(worldcat)](http://www.worldcat.org/oclc/1189330863) \
-Sogliano, *NSc* (1901), pp. 261, 330, 331 and plan on p. 329. [(worldcat)](http://www.worldcat.org/oclc/1091982220) \
-Soprano, p. 299, no. 11.
+* Jashemski, *Gardens*, vol.II, p. 116.[(worldcat)](http://www.worldcat.org/oclc/1029851777)
+* Mau, *RM* (1901), p. 324.[(worldcat)](http://www.worldcat.org/oclc/1189330863)
+* Pernice, p. 28.[(worldcat)](http://www.worldcat.org/oclc/714016975)
+* Sogliano, *NSc* (1899), fig. 1 (plan) on p. 339.[(worldcat)](http://www.worldcat.org/oclc/1091982220)
+* Sogliano, *NSc* (1901), p.258. [(worldcat)](http://www.worldcat.org/oclc/1091982220)
 
 
 <!--#### Periodo ID-->
@@ -85,7 +89,7 @@ Soprano, p. 299, no. 11.
 [433032](https://pleiades.stoa.org/places/433032)
 
 #### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+
 
 ### Contributor
 [Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

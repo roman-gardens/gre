@@ -1,19 +1,18 @@
 ---
-title: "V.iv.c."
+title: "Bakery with Dwelling Rooms (V.iv.1.)"
 date: 2020-09-29T12:07:01-04:00
 province_id: 1052
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Jianing Zhou
-draft: false
+draft: true
 
 categories:
 - "Italia"
 tags:
  - "cisterns (plumbing components)"
+ - "fountains"
  - "lararia"
- - "mural paintings (visual works)"
- - "tablina"
  - "trellises"
 ---
 
@@ -45,28 +44,25 @@ Insula iv
 
 
 ## House
-House c
+House 1
 
 ## Garden
-V.iv.c.
+Bakery with Dwelling Rooms (V.iv.1)
 
 ### Keywords
-- [viridarium]
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [tablina](http://vocab.getty.edu/page/aat/300004180)
-- [trellises](http://vocab.getty.edu/page/aat/300006785)
 - [lararia](http://vocab.getty.edu/page/aat/300400600)  
-
+- [trellises](http://vocab.getty.edu/page/aat/300006785)
+- [fountains](http://vocab.getty.edu/page/aat/300006179)
 
 ### Garden Description
-Wooden steps at the rear of this house excavated in 1902 led up to a *viridarium* (a) confined by a low masonry wall. A cistern had been walled up and the garden was built over the cistern mouth and a paved courtyard. Water from the neighbor’s roof (no.13) supplied the cistern. The east and south walls once had garden paintings, and from the entrance the garden could be viewed through a window in the *tablinium*. The painting on the east wall was visible from the entrance and continued not only on the south wall but additionally on the pillar to the northeast. According to the excavator’s reports the painting had a lattice fence at the base with a variety of tall, bushy plants and birds throughout. There was a marble basin with a bearded sphinx above, reposing with the profile turned to the left.  At the extreme left of the east wall was a niche that most likely had been a *lararium* (Fig.25, 48.1.61).
+This house was excavated in 1900 and a small garden (a) was found to the east of the *atrium*. A masonry planting bed on the north, east and south walls (0.32 m. high, 0.25 m. wide) was shortened on the south to leave room for the cistern *puteal* that stood in the southwestern corner. A podium (0.60 x 0.90 m.;) 0.55 m. high against the middle of the east wall with a niche in the wall above it was thought by Boyce to be an altar. Above the planting bed, traces of garden paintings could be seen. The only records of these paintings are reports from those present at the time of excavation. Mau relates that the paintings consisted of a lattice fence with plants above. There were two openings depicted in the fence on the on the east wall, the one on the left 0.95 m and the one on the right 1.15 m.  Each opening had plants and a vessel, the one on the left was bottle-shaped and silver colored and the one on the right was goblet-shaped and gold colored. Jashemski notes that these vessels probably represented fountains. Sogliano commented that the garden had representations of xenia.
 
 
-### Images
+### Plans
 
-{{< figure src="../images/Fig. 25, V.iv.     48.1.61.jpg" alt="At the extreme left of the east wall was a niche that most likely had been a lararium." title="Fig.25, 48.1.61: Picture of the east wall of the viridarium." >}}
-
+<!--{{< figure src="../images/Euro_GaAq_Montreal_Villa de Séviac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." title="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." >}}
+-->
 
 <!--### Images-->
 
@@ -75,7 +71,7 @@ Wooden steps at the rear of this house excavated in 1902 led up to a *viridarium
 Unspecified
 
 #### Excavation Dates
-1902CE
+1900CE
 
 ### Bibliography
 * Boyce, p. 39, no. 117. [(worldcat)](http://www.worldcat.org/oclc/491367250)

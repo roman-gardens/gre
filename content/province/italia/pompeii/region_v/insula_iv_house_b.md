@@ -5,7 +5,7 @@ province_id: 1052
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Jianing Zhou
-draft: false
+draft: true
 
 categories:
 - "Italia"
@@ -69,10 +69,10 @@ When the excavation work reached the northeast corner of this house in 1901, a s
 
 
 ### Dates
-Unspecified
+79 CE
 
 #### Excavation Dates
-1901CE
+1901 CE
 
 ### Bibliography
 * Döhl, p. 14.  
@@ -87,11 +87,11 @@ Unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[1052](https://pleiades.stoa.org/places/1052)
+[1052](https://pleiades.stoa.org/places/1052) \
 [433032](https://pleiades.stoa.org/places/433032)
 
 #### TGN ID
-
+[7004658](http://vocab.getty.edu/page/tgn/7004658)
 
 ### Contributor
 [Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
