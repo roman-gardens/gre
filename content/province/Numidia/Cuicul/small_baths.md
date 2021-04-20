@@ -1,5 +1,5 @@
 ---
-title: "Small Baths(Garden of the Small Baths to the S of the Great Baths; rear garden to the W of the House of Bacchus)"
+title: "Small Baths (Garden of the Small Baths to the south of the Great Baths; rear garden to the west of the House of Bacchus)"
 date: 2020-12-20T10:00:00-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -46,7 +46,7 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 
 ## Garden
 
-House of Hylas, Central District (Maison de Castorius, Quartier central)
+Small Baths (Garden of the Small Baths to the south of the Great Baths; rear garden to the west of the House of Bacchus)
 
 ### Keywords
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)

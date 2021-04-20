@@ -70,7 +70,7 @@ Piazzale della Corporazioni
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 - [theater](http://vocab.getty.edu/page/aat/300007117)
 <!---->
-- [Vitruvius](urn:cite:perseus:author.1476.1)
+- [Vitruvius](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476.1)
 
 ### Garden Description
 

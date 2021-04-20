@@ -1,5 +1,5 @@
 ---
-title: "House of the Figured Basins (Maison aux bassins figurés)"
+title: "House of the Figured Basin (Maison du bassin figuré)"
 date: 2020-09-29T09:49:36-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -47,7 +47,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Garden
 
-House of the Figured Basins (Maison aux bassins figurés)
+House of the Figured Basin (Maison du bassin figuré)
 
 ### Keywords
 
@@ -67,7 +67,7 @@ The house was located in the *insula* III. The rectangular courtyard, in the SW 
 
 
 ### Plans
-{{< figure src="../images/AFR_Uti_Hfb_Wjashemski1.jpg" alt="Fig. 1: Plan view of the House of the Figured Basins." title="Fig. 1: Plan view of the House of the Figured Basins (CMT, plan 22). " >}}
+{{< figure src="../images/AFR_Uti_Hfb_Wjashemski1.jpg" alt="Fig. 1: Plan view of the House of the Figured Basin." title="Fig. 1: Plan view of the House of the Figured Basin (CMT, plan 22). " >}}
 
 <!--### Images-->
 
@@ -92,7 +92,7 @@ The house was located in the *insula* III. The rectangular courtyard, in the SW 
 ### Contributor
 
 [Wilhelmina F. Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)) \
-[Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
+[Amina-Aïcha Malek](link)(ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 ### Publication date
 
 2 October 2020

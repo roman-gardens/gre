@@ -57,6 +57,7 @@ Only the central passage (III) way leading to the temple (IV) was paved. The res
 {{< figure src="../images/Temple of Baalat.jpg" alt="Plan of the Temple of Baalat " title="Fig. 1: Plan of the Temple of Baalat (CMT, V. II, fasc.2, plan 10.)" >}}
 
 ### Dates
+unspecified
 
 ### Bibliography
 *  Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région des Grands Thermes*, V. II, fasc.2, INA, Tunis, 1985, pp. 51-3, plan 10. [(worldcat)](http://www.worldcat.org/oclc/905765362)

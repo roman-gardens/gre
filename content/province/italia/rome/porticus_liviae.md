@@ -5,7 +5,7 @@ date: 2021-03-16T23:53:09-07:00
 province_id: PROVINCE_ID
 author: E.R. Macaulay and Holly Spoth-Torres
 editor: Joshua Rosenheim and Rhiannon Paré
-draft: true
+draft: false
 tags:
  - "colonnades"
  - "domus"
@@ -71,11 +71,11 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 <!-- -->
 ### Figures
 <!-- -->
-{{< figure src="../images/.jpg" alt="Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder" title="Figure 1. Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder. © Holly Spoth-Torres." >}}
+{{< figure src="../images/porticusliviae_fig1.jpg" alt="Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder" title="Fig. 1. Reconstruction of the plan of the Porticus Liviae. © Carandini and Carafa, 2012, tab. 109." >}}
 <!-- -->
-{{< figure src="../images/.jpg" alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae" title="Figure 2. Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae. © Holly Spoth-Torres." >}}
+{{< figure src="../images/porticusliviae_fig2.jpg" alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae" title="Fig. 2. Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae. © Rhiannon Paré after Holly Spoth-Torres." >}}
 <!-- -->
-{{< figure src="../images/.jpg" alt="Entrance to the Porticus Liviae" title="Figure 3. Entrance to the Porticus Liviae. © Holly Spoth-Torres." >}}
+<!--{{< figure src="../images/.jpg" alt="Entrance to the Porticus Liviae" title="Fig. 3. Entrance to the Porticus Liviae. © Holly Spoth-Torres." >}}-->
 <!-- -->
 ### Dates
 
@@ -87,6 +87,7 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 <!-- -->
 ### Bibliography
 <!-- -->
+* A. Carandini and P. Carafa (eds.), *The Atlas of Ancient Rome: Biography and Portraits of the City,* 2 vols., Princeton and Oxford, Princeton University Press, 2017. [Trans. (worldcat)](http://www.worldcat.org/oclc/980303776) | [Italian (worldcat)](http://www.worldcat.org/oclc/903328667)
 * A. Claridge, *Rome*, 2nd Ed., Oxford, Oxford University Press, pp. 339-340. [(worldcat)](http://www.worldcat.org/oclc/1158433558)
 * D. Favro, *The Urban Image of Augustan Rome*, pp. 132-133, 171, 174. [(worldcat)](http://www.worldcat.org/oclc/914906877)
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae* IV, Roma, Edizioni Quasar, 1999, "Porticus Liviae" (C. Panella), pp. 127-129; "Subura" (K. Welch), pp. 379-383. [(worldcat)](http://www.worldcat.org/oclc/772398569)

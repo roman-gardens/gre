@@ -59,7 +59,7 @@ The house of the Palms was located to the NW of the forum. A semicircular basin 
 
 ### Dates
 
-Early 3nd century CE
+Early 3rd century CE
 
 ### Bibliography
 

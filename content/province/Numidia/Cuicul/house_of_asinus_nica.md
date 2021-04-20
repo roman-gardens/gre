@@ -75,6 +75,8 @@ The house lacked wide-open views from exedra and from the galleries towards the 
 {{< figure src="../images/house_of_asinus_nica_plan1.jpg" alt="Plan of the House of Asinus Nica." title="Fig. 1: Plan of the House of Asinus Nica (Blanchard-Lemée, M., AOrOc)">}}
 
 ### Images
+{{< figure src="../images/house_of_asinus_nica_photo.png" alt="View of the garden." title="Fig. 2: View of the garden (Blanchard-Lemée, M., AOrOc)">}}
+
 
 ### Dates
 

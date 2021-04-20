@@ -52,11 +52,12 @@ The marble causeway leading to the temple was bordered on each side with soil th
 
 ### Maps
 
-### Images
+### Plans
 
 {{< figure src="../images/Temple_of_Caelestis1.jpg" alt="Plan of the Temple of Caelestis " title="Fig. 1: Plan of the Temple of Caelestis (CMT, V. II, fasc.2, plan 9)" >}}
 
 ### Dates
+unspecified
 
 ### Bibliography
 
