@@ -1,6 +1,6 @@
 ---
 
-title: "VIII.2.39. House of Emperor Josepg II"
+title: "VIII.2.39. House of Emperor Joseph II"
 date: 2021-03-22T00:10:10-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
