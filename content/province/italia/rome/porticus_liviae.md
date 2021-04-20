@@ -30,7 +30,7 @@ tags:
 ## Sublocation
 
 Region III \
-[Esquiline Hill (Pleiades)](https://pleiades.stoa.org/places/679976755) \
+Esquiline Hill [Esquilinus Mons (Pleiades)](https://pleiades.stoa.org/places/679976755) \
 Oppian Hill
 <!-- -->
 <!-- -->

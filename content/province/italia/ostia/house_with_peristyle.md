@@ -24,8 +24,6 @@ tags:
 
 ### Location Description
 
-DESCRIPTION
-
 [Ostia Antica](https://en.wikipedia.org/wiki/Ostia_Antica), the port-city of Rome, was situated at the mouth ([*ostium*](https://en.wiktionary.org/wiki/ostium#Latin)) of the [Tiber](https://en.wikipedia.org/wiki/Tiber), where it flowed into the [Tyrrhenian sea](http://vocab.getty.edu/page/tgn/1112319). Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7<sup>th</sup> century by [king Ancus Marcius](https://en.wikipedia.org/wiki/Ancus_Marcius); archaeological evidence shows that the first settlement was founded as a *colonia maritima* in the 4<sup>th</sup> century BCE. and that it was already acting as the harbour of Rome in the 3<sup>rd</sup> century BCE.
 
 From the 2<sup>nd</sup> century BCE Ostia (and later [Portus](https://en.wikipedia.org/wiki/Portus)) was the main port for the landing of wheat and other foodstuffs destined for the markets of Rome. It was a lively and cosmopolitan port city, where the great cargo ships unloaded produce from all over the Mediterranean and beyond. At Ostia the freight was transferred to riverboats to be sent upriver to Rome. This thriving commercial activity was accompanied by demographic and economic growth and by the presence of people coming from all over the known world.
