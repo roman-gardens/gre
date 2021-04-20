@@ -71,7 +71,7 @@ Garden of the Domus Aurea \
 <!-- -->
 ### Garden Description
 <!-- -->
-Famous for its innovative architecture, the [*Domus Aurea*](https://en.wikipedia.org/wiki/Domus_Aurea) contained equally impressive gardens. After the fire of 64 CE, Nero erected this monumental residence, replacing the damaged [*Domus Transitoria*](https://en.wikipedia.org/wiki/Domus_Transitoria). While the exact boundaries of the property are unknown, it is generally thought to have extended from the palaces of the [Palatine](https://en.wikipedia.org/wiki/Palatine_Hill), across the [Velian](https://en.wikipedia.org/wiki/Velian_Hill) and [Oppian](https://en.wikipedia.org/wiki/Oppian_Hill) Hills to the [*Horti Maecenatis*](https://en.wikipedia.org/wiki/Gardens_of_Maecenas) and the [*Horti Lamiani*](https://en.wikipedia.org/wiki/Horti_Lamiani) on the [Esquiline](https://en.wikipedia.org/wiki/Esquiline_Hill), down into the valley and up to the [Temple to the Divine Claudius](https://en.wikipedia.org/wiki/Temple_of_Claudius) on the [Caelian](https://en.wikipedia.org/wiki/Caelian_Hill) Hill (Fig. 1). Gardens and an artificial lake ([*stagnum*]((http://vocab.getty.edu/page/aat/300263360)) were constructed in this valley, where the [Colosseum](https://en.wikipedia.org/wiki/Colosseum) now stands. Based on the ancient sources, scholars interpreted these gardens as naturalistic, but recent excavations have challenged this view [Suet. *Ner.* 31.1–2](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo016.perseus-lat1:31); [Tacitus *Ann.* 15.42.1](http://data.perseus.org/citations/urn:cts:latinLit:phi1351.phi005.perseus-lat1:15.42)).
+Famous for its innovative architecture, the [*Domus Aurea*](https://en.wikipedia.org/wiki/Domus_Aurea) contained equally impressive gardens. After the fire of 64 CE, Nero erected this monumental residence, replacing the damaged [*Domus Transitoria*](https://en.wikipedia.org/wiki/Domus_Transitoria). While the exact boundaries of the property are unknown, it is generally thought to have extended from the palaces of the [Palatine](https://en.wikipedia.org/wiki/Palatine_Hill), across the [Velian](https://en.wikipedia.org/wiki/Velian_Hill) and [Oppian](https://en.wikipedia.org/wiki/Oppian_Hill) Hills to the [*Horti Maecenatis*](https://en.wikipedia.org/wiki/Gardens_of_Maecenas) and the [*Horti Lamiani*](https://en.wikipedia.org/wiki/Horti_Lamiani) on the [Esquiline](https://en.wikipedia.org/wiki/Esquiline_Hill), down into the valley and up to the [Temple to the Divine Claudius](https://en.wikipedia.org/wiki/Temple_of_Claudius) on the [Caelian](https://en.wikipedia.org/wiki/Caelian_Hill) Hill (Fig. 1). Gardens and an artificial lake ([*stagnum*](http://vocab.getty.edu/page/aat/300263360)) were constructed in this valley, where the [Colosseum](https://en.wikipedia.org/wiki/Colosseum) now stands. Based on the ancient sources, scholars interpreted these gardens as naturalistic, but recent excavations have challenged this view ([Suet. *Ner.* 31.1–2](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo016.perseus-lat1:31); [Tacitus *Ann.* 15.42.1](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:latinLit:phi1351.phi005.perseus-eng1:15.42)).
 
 The wing of the [palace](http://vocab.getty.edu/page/aat/300005734) on the Oppian Hill was composed of sophisticated architecture and decoration typical of elite *Horti* and suburban villas. The wing was oriented north-south and had commanding southern views over the valley and lake toward the Caelian<!--(Fig. 2)-->. The complex probably contained two [peristyles](http://vocab.getty.edu/page/aat/300004029), which could have been planted, and two [*exedrae*](http://vocab.getty.edu/page/aat/300081589) flanking the octagonal room may have contained gardens. Recently discovered [retaining walls](http://vocab.getty.edu/page/aat/300005073) confirm that the palace was constructed on [terraces](http://vocab.getty.edu/page/aat/300004182), which are likely to have held gardens. Photographs from the 1870s excavations show large numbers of [*ollae perforatae*](https://brunelleschi.imss.fi.it/giardinoantico/egar.asp?c=24677) (planting pots) being removed, suggesting a highly constructed landscape.
 
@@ -83,15 +83,19 @@ The unfinished Temple to the Divine Claudius became a monumental [*nymphaeum*](h
 <!-- -->
 ### Figures
 <!-- -->
-{{< figure src="../images/domus_aurea_fig1.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" title="Fig. 1. Conjectural plan of the Domus Aurea (J.B. Ward-Perkins, 1981, p. 60)." >}}
+{{< figure src="../images/domus_aurea_fig1.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" title="Figure 1. Conjectural plan of the Domus Aurea (J.B. Ward-Perkins, 1981, p. 60)." >}}
 
-<!--{{< figure src="../images/.jpg" alt="Gardens of the Oppian palace" title="Fig. 2. Gardens of the Oppian palace (image source)." >}}-->
+<!--{{< figure src="../images/.jpg" alt="Gardens of the Oppian palace" title="Figure 2. Gardens of the Oppian palace (image source)." >}}-->
 
-<!--{{< figure src="../images/.jpg" alt="Photograph of Neronian nymphaeum on the Caelian" title="Fig. 3. Photograph of Neronian nymphaeum on the Caelian (image source)." >}}-->
+<!--{{< figure src="../images/.jpg" alt="Photograph of Neronian nymphaeum on the Caelian" title="Figure 3. Photograph of Neronian nymphaeum on the Caelian (image source)." >}}-->
 
 ### Dates
 
 post-64 CE
+
+#### Excavation Date
+
+unspecified
 
 ### Bibliography
 

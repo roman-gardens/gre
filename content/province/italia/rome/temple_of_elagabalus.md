@@ -10,9 +10,9 @@ draft: false
 
 ## Province
 
-[ITALIA]({{<relref "..">}})\
-[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)
-[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[Italia]({{<relref "..">}})\
+[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)\
+[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 <!-- -->
 ## Location
 
@@ -75,7 +75,7 @@ Though we cannot be certain about the plant species chosen, we can nevertheless 
 OTHER PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
 [Garden of the Peristyle of the Julio-Claudian *Domus*]({{<relref"/julio_claudian_domus.md">}})\
-[Garden of the Flavian Imperial Palace]({{<relref"/flavian_imperial_palace.md">}})\
+[Garden of the Flavian Imperial Palace]({{<relref"/flavian_imperial_palace.md">}})
 <!-- -->
 ### Figures
 <!-- -->
@@ -99,7 +99,7 @@ c. 190- 240 CE
 <!-- -->
 ### Bibliography
 <!-- -->
-* F. Chausson, “Le site de la Vigna Barberini de 191 à 455” in *La Vigna Barberini I. Histoire d’un site. Étude des sources et de la topographie*, Rome, 1997, pp. 31-85.[(worldcat)](http://www.worldcat.org/oclc/1000676783)
+* F. Chausson, “Le site de la Vigna Barberini de 191 à 455” in *La Vigna Barberini I. Histoire d’un site. Étude des sources et de la topographie*, Rome, 1997, pp. 31-85. [(worldcat)](http://www.worldcat.org/oclc/1000676783)
 * M. Royo, “Constructions antérieures au grand temple «sévérien»” in *La Vigna Barberini I*, op. cit., pp. 21-26 (Adonea). [(worldcat)](http://www.worldcat.org/oclc/1000676783)
 * H. Broise and Y. Thébert,  “Élagabal et le complexe religieux de la Vigna Barberini, “ *Mélanges de l’École Française de Rome*, 111 (1999), pp. 729-747. [(worldcat)](http://www.worldcat.org/oclc/972029282)
 * Y. Thébert, “Il santuario di Elagabalus: un giardino sacro” in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 83-94. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
@@ -108,7 +108,7 @@ c. 190- 240 CE
 <!-- -->
 #### Pleiades ID
 
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
+[971691208](https://pleiades.stoa.org/places/971691208)
 <!-- -->
 ### Contributor
 
@@ -116,4 +116,4 @@ Françoise Villedieu
 <!-- -->
 ## Publication date
 <!-- -->
-15 April 2021
+17 April 2021
