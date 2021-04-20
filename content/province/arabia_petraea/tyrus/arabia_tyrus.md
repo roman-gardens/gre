@@ -12,8 +12,7 @@ categories:
 tags:
  - "artificial islands"
  - "forecourts"
- - "columbarium/dovecote"
- - "palaces"
+ - "dovecotes"
  - "paradise gardens"
  - "reflecting pools"
  - "triclinia (rooms)"
@@ -38,16 +37,7 @@ The Hellenistic/Roman settlement of Tyrus was located in Wadi Seer in the highla
 Palace of Hyrcanus the Tobiad
 
 ### Keywords
-<<<<<<< HEAD:content/province/arabia_petraea/iraq_al_amir/arabia_iraq_al_amir.md
-- [forecourts](http://vocab.getty.edu/page/aat/300004104)
-- [dovecotes](http://vocab.getty.edu/page/aat/300004975)
-- [palaces](http://vocab.getty.edu/page/aat/300005734)
-- [reflecting pools](http://vocab.getty.edu/page/aat/300179485)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [Late Hellenistic](http://vocab.getty.edu/page/aat/300106998)
-- [paradise gardens](http://vocab.getty.edu/page/aat/300008112)
-=======
->>>>>>> 1590ef09c8fc176780e7078557bc56a5fe3cfa0f:content/province/arabia_petraea/tyrus/arabia_tyrus.md
+
 - [artificial islands](http://vocab.getty.edu/page/aat/300386969)
 - [forecourt](http://vocab.getty.edu/page/aat/300004104)
 - [dovecotes](http://vocab.getty.edu/page/aat/300004975)

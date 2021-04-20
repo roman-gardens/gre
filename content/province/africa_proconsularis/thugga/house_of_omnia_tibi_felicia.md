@@ -55,7 +55,7 @@ The courtyard of the peristyle, which was paved with mosaics, was lined with bui
 
 ### Dates
 
-I-II Centuries  
+1st-2nd century CE
 
 ### Bibliography
 * Aounallah, S., Golvin, J.-C. (Dir.), Ben Rhomdane, H., Brouquier-Reddé, V., Chehidi, M.A., Ghaki, M., Khanoussi, M., Maurin, L., Saint-Amans, S., *Dougga, Études d'architecture religieuse 2. Les sanctuaires du forum, du centre de l'agglomération et de la Grande rue courbe* (Mémoires, 42), Bordeaux : Ausonius Éditions, 2016, p. 440, fig. 86. [(worldcat)](http://www.worldcat.org/oclc/957698433)

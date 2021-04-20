@@ -5,7 +5,7 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: M. Barbara Reeves
 editor: Jane Millar and Leigh-Ann Bedal
-draft: false
+draft: true
 
 categories:
  - "Arabia Petraea"
