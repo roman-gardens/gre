@@ -61,7 +61,7 @@ It was laid out around a peristyle garden (VI-X) of 12 columns (Plan view, Fig. 
 
 ### Dates
 
-The house dates to the IIIrd and IVth century.  
+3rd-4th century CE
 
 ### Bibliography
 

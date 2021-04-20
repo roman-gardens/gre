@@ -56,11 +56,12 @@ The house of the Trussed Animals is bordered on the E by the Baths of the Capito
 
 ### Plans
 
-{{< figure src="../images/AFR_Thub_Hta_Wjashemski1.jpg" alt="Plan of the House of Trussed Animals" title="Fig. 1: Plan of the House of Trussed Animals (CMT, plan 21, 22)" >}}
+{{< figure src="../images/AFR_Thub_Hta_Wjashemski1.jpg" alt="Plan of the House of the Trussed Animals" title="Fig. 1: Plan of the House of the Trussed Animals (CMT, plan 21, 22)" >}}
 
 ### Dates
 
-The house is dated from the beginning of the IIIrd century.
+Early 3rd century CE
+
 
 ### Bibliography
 

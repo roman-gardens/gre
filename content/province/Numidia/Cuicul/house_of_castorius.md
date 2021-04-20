@@ -1,5 +1,5 @@
 ---
-title: "House of Castorius, Central District, (Maison du Castorius, Quartier central)"
+title: "House of Castorius, Central District (Maison du Castorius, Quartier central)"
 date: 2020-12-20T10:00:00-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -76,12 +76,11 @@ The  L shaped space between the fish pool and the columns was probably planted.
 {{< figure src="../images/house_of_castorius_photo1.png" alt="Southwest corner of the peristyle XVI, the L shaped planted area." title="Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)">}}
 
 {{< figure src="../images/house_of_castorius_photo2.png" alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool." title="Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)">}}
-### Dates
 
+### Dates
 5th century
 
 #### Excavation Dates
-
 1911
 
 ### Bibliography

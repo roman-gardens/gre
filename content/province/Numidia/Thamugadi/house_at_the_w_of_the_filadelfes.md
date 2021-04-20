@@ -1,5 +1,5 @@
 ---
-title: "House at the W of the Filadelfes (Maison à l'Ouest des Bains des Filadelfes)"
+title: "House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)"
 date: 2020-11-13T10:39:31-07:00
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- DESCRIPTION -->
 
 ## Garden
-House at the W of the Filadelfes (Maison à l'Ouest des Bains des Filadelfes)
+House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)
 
 ### Keywords
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
@@ -63,7 +63,7 @@ House at the W of the Filadelfes (Maison à l'Ouest des Bains des Filadelfes)
 -->
 
 ### Plans
-{{< figure src="../images/house_at _the_w _of_the_filadelfes.jpg" alt="Plan of the House at the W of the Philadelfes Baths at Thamugadi; Les mosaïques de Timgad, p. 81, fig. 10" title="Fig. 1: Plan of the House at the W of the Philadelfes Baths. (Germain, S., 1969, fig. 10)" >}}
+{{< figure src="../images/house_at _the_w _of_the_filadelfes.jpg" alt="Plan of the House at the west of the filadelfes Baths at Thamugadi; Les mosaïques de Timgad, p. 81, fig. 10" title="Fig. 1: Plan of the House at the west of the filadelfes Baths. (Germain, S., 1969, fig. 10)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
