@@ -1,13 +1,16 @@
 ---
-title: "Garden arrangement under the Libraries' terrace (Fig. 1, n. 9)"
+title: "The Libraries' Courtyard (Fig. 1, n. 13)"
 date: 2020-12-14T21:15:00-08:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
-draft: false
+draft: true
 tags:
- - "terrace gardens"
+ - "flower gardens"
+ - "nymphaea (garden structures)"
+ - "peristyles (Roman courtyards)"
+ - "porticoes"
 ---
 
 ## Province
@@ -34,28 +37,25 @@ The realization of this magnificent residence must have been a cherished dream o
 
 ## Garden
 
-Garden arrangement under the Libraries' terrace (Fig. 1, n. 9)
+The Libraries' Courtyard (Fig. 1, n. 13)\
+[Libraries' Courtyard at Hadrian's Villa (Pleiades)](https://pleiades.stoa.org/places/369692199)
 
 ### Keywords
 
-- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
+- [flower gardens](http://vocab.getty.edu/page/aat/300008135)
+- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
+- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description
 
-The principal element of this garden (Fig. 28) is the sustaining wall of the overhanging terrace, a kind of theater scenery decorated by a series of 23 alternatively semicircular and square niches (Fig. 29).
-
-However the garden did not occupy the entire plateau. A substantial concentration of lead is found only in the area set in front of the sustaining wall where a garden with its flowerbeds must have been set, while the most northern part of the plateau, where lead is scantily present, must have been occupied by trees and bushes which did not need much watering (SALZA PRINA RICOTTI 1994-95, fig. 7).
+This garden belongs to the republican period and it is one of the most ancient of Villa Adriana. It is enclosed in a large peristyle 48 m wide, 72 m long. The place seems to have been watered from the Republican time up to the end of the Roman Empire, and the content of lead in its soil is among the highest in the area (SALZA PRINA RICOTTI 1994-95, fig. 7). At the center of the portico's northern side, there still is a republican *nymphaeum* with a rectangular plan and very thick walls: a vaulted hall decorated with a series of niches, but quite heavy and gloomy (Fig. 35, E). There must have been flowerbeds in the peristyle, but the garden has still to be excavated. Now an olive grove occupies the place, and I doubt that anybody would dare to cut it down. However, if this would ever happen, we must hope to ascertain the presence of tufa surfacing in this area and, thus, find the hole cut in the rock to create the flowerbeds. It would be the only way to discover how the place had been planned.
 
 ### Plans
 
 {{< figure src="../images/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/28_under_libraries.jpg" alt="Plan of the Garden under the Libraries at Hadrian's Villa" title="Fig. 28: Plan of the Garden under the Libraries, Eugenia Salza Prina Ricotti." >}}
-
-### Images
-
-{{< figure src="../images/29_nymphaeum.jpg" alt="Photograph of the Nymphaeum of the Terraced garden under the Libraries at Hadrian's Villa" title="Fig. 29: Nymphaeum, Eugenia Salza Prina Ricotti." >}}
-
+{{< figure src="../images/35_library_courtyard.jpg" alt="Plan of the Libraries' Courtyard at Hadrian's Villa" title="Fig. 35: Plan of the Libraries' Courtyard, Eugenia Salza Prina Ricotti." >}}
 
 ### Dates
 
