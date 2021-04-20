@@ -7,7 +7,7 @@ draft: false
 
 ## Aims
 
-**GRE aims to bring knowledge of Roman garden archaeology out of local archaeological journals and print books into a free open access resource in a consistent format that provides scholars, students, and professionals global access to evidence of all types for ancient garden culture.**
+*GRE aims to bring knowledge of Roman garden archaeology out of local archaeological journals and print books into a free open access resource in a consistent format that provides scholars, students, and professionals global access to evidence of all types for ancient garden culture.*
 
 The entries range from sites that have been excavated using contemporary techniques to early sites where gardens are suspected but not yet proven. The range of evidence assembled includes up-to-date descriptions, plans, stratigraphic sections, bibliography, and photographs of gardens known archaeologically.
 
@@ -30,6 +30,15 @@ GRE invites all scholars and the general public to explore the new beta site and
 **GRE adopts [open linked data](https://en.wikipedia.org/wiki/Linked_data#Linked_open_data) approaches whenever it can.** Data is **linked** when one data set reuses or relies on another. Such linked data is **open** when the target data is free and open to the public to use.
 
 [more...]({{<ref "open-linked-data/">}})
+
+## Rights
+
+GRE has researched copyright requirements and restrictions for all of the materials displayed on this site to the best of its ability and has either secured permission or determined that the image or text is in the public domain or may be served under the doctrine of [fair use](https://www.copyright.gov/fair-use/more-info.html).
+
+If you believe that you are the copyright owner of any material displayed here, for which you have not granted permission (or is not covered by a copyright exception under applicable copyright laws), please see our [take-down policy]({{<ref "take-down/">}}).
+
+### License
+The content on the GRE site is governed by a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) Attribution-NonCommercial-ShareAlike 4.0 International license.
 
 
 ## History of the project
