@@ -51,12 +51,12 @@ The west portico of the small peristyle garden at the rear of the house was ente
 
 ### Bibliography
 
-Fiorelli, G. 1875. *Descrizione di Pompei*, p. 39 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)  
-W. F. Jashemski, 1979, *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, pp. 104-105 (for the graffito)[(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)  
-Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 21 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
-Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 76   
-Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 11
-Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*
+* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 39 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)  
+* Jashemski, W.F. 1979, *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, pp. 104-105 (for the graffito)[(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)  
+* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 21 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 76   
+* Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 11
+* Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*
 
 <!--#### Periodo ID-->
 

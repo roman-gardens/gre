@@ -45,7 +45,7 @@ Peristyle garden in house of Messius Ampliatus (II.ii.4)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 ### Garden Description
-A. The portico which bordered the peristyle garden (a) on the north and east side was accessed from the entrance hall. This site had been extensively damaged prior to excavation.
+
 
 
 

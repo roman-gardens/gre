@@ -1,6 +1,6 @@
 ---
 article-type: "province"
-title: "Park Area adjacent to the Great Palaestra and the Amphitheater (II.vi.7)"
+title: "II.6.7 Park Area adjacent to the Great Palaestra and the Amphitheater"
 date: 2021-03-09T08:45:49Z
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski

@@ -39,7 +39,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ### Garden Description
-Park-like areas were located between the Great Palaestra and the Amphitheater and to the north. Here booths were set up under trees or awnings and a carnival atmosphere existed as depicted in a painting (Mus. Naz. inv. no. 112 222) found in the peristyle of house I.iii. 23. Two huge root cavities were found in front of the palaestra by Maiuri, although only one was recorded in his plan, and six trees grew in a row on the north side of the palaestra.
+Park-like areas were located between the Great [Palaestra](http://vocab.getty.edu/page/aat/300007301) and the Amphitheater and to the north. Here booths were set up under trees or awnings and a carnival atmosphere existed as depicted in a painting (Mus. Naz. inv. no. 112 222) found in the [peristyle](http://vocab.getty.edu/page/aat/300080971) of house I.3.23. Two huge root cavities were found in front of the [palaestra](http://vocab.getty.edu/page/aat/300007301) by Maiuri, although only one was recorded in his plan, and six trees grew in a row on the north side of the [palaestra](http://vocab.getty.edu/page/aat/300007301).
 
 
 #### Pleiades ID
@@ -48,13 +48,11 @@ Park-like areas were located between the Great Palaestra and the Amphitheater an
 #### TGN ID
 [7004658](http://vocab.getty.edu/page/tgn/7004658)
 
-### Dates
-Unspecified
 
 ### Bibliography
-* Jashemski, *Gardens*, vol.I, pp. 13-14, 161-162 [(worldcat)](http://www.worldcat.org/oclc/884024123)
-* Jashemski, *Gardens*, vol.II, pp. 91-92 [(worldcat)](http://www.worldcat.org/oclc/921816405)
-* Maiuri, *Notizie degli scavi di antichità*, p.194 [(worldcat)](http://www.worldcat.org/oclc/1646037)
+* Jashemski, W.F. *Gardens of Pompeii*, vol.I, pp. 13-14, 161-162 [(worldcat)](http://www.worldcat.org/oclc/884024123)
+* Jashemski, W.F. *Gardens of Pompeii*, vol.II, pp. 91-92 [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Maiuri, A. *Notizie degli scavi di antichità*, p.194 [(worldcat)](http://www.worldcat.org/oclc/1646037)
 
 
 ### Contributor

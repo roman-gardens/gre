@@ -47,7 +47,7 @@ Fullonica of Stephanus; Fullery of Stephanus.
 
 ### Garden Description
 
-This house had been converted to a fullery and the small [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden to the rear probably served as a drying area. Five [pillars](http://vocab.getty.edu/page/aat/300264605) of the [portico](http://vocab.getty.edu/page/aat/300004145) were connected by a low, marble topped wall. This enclosed the raised garden on the east, north and west sides with a deep [gutter](http://vocab.getty.edu/page/aat/300052565) running around the garden along the wall.
+This house had been converted to a fullery and the small [peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the rear probably served as a drying area. Five [pillars](http://vocab.getty.edu/page/aat/300264605) of the [portico](http://vocab.getty.edu/page/aat/300004145) were connected by a low, marble topped wall. This enclosed the raised garden on the east, north and west sides with a deep [gutter](http://vocab.getty.edu/page/aat/300052565) running around the garden along the wall.
 
 <!--### Maps-->
 
@@ -60,7 +60,6 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
 
 <!--### Plans
 
@@ -80,10 +79,10 @@ Excavated 1912.
 
 ### Bibliography
 
-Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, p. 198. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)  
-Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 35. [(worldcat)](http://www.worldcat.org/oclc/921816405).    
-Moeller, W.O. 1976. *The Wool Trade of Ancient Pompeii*, p. 42. [(worldcat)](https://www.worldcat.org/title/wool-trade-of-ancient-pompeii/oclc/800885233&referer=brief_results)  
-Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, pp. 446 and fig. 493 (plan) on p. 773 and fig. 744 (plan) on p. 765.    
+* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, p. 198. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)  
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 35. [(worldcat)](http://www.worldcat.org/oclc/921816405).    
+* Moeller, W.O. 1976. *The Wool Trade of Ancient Pompeii*, p. 42. [(worldcat)](https://www.worldcat.org/title/wool-trade-of-ancient-pompeii/oclc/800885233&referer=brief_results)  
+* Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, pp. 446 and fig. 493 (plan) on p. 773 and fig. 744 (plan) on p. 765.    
 
 
 <!--#### Periodo ID-->
