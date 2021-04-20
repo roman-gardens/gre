@@ -35,6 +35,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula VIII]({{<relref "#">}})
 
+## Garden
+Caupona with small bath.
+
 ### Keywords
  - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
  - [cauponae](http://vocab.getty.edu/page/aat/300005208)
