@@ -76,7 +76,7 @@ Opening off of the *triclinium* to the S was a smaller area enclosed by a portic
 <!--### Plans-->
 
 
-### Images
+### Plans
 {{< figure src="../images/AFR_Uti_Hc_Wjashemski1.jpg" alt="Fig. 1: Plan of the House of the Cascade." title="Fig. 1: Plan of the House of the Cascade (CMT, plan 5,7)" >}}
 
 

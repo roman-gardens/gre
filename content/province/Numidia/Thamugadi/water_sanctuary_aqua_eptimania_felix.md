@@ -71,7 +71,7 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 -->
 
 ### Plans
-{{< figure src="../images/water_sanctuary _aqua_eptimania_felix1.jpg" alt="Plan of the Water Sanctuary Aqua Septimiana Felix; rights statement" title="Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix. (Lassus, J., 1981, fig. 9)" >}}
+{{< figure src="../images/water_sanctuary _aqua_eptimania_felix1.jpg" alt="Plan of the Water Sanctuary Aqua Septimiana Felix; rights statement" title="Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix (Lassus, J., 1981, fig. 9)" >}}
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
@@ -83,7 +83,7 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 -->
 
 ### Dates
-Unspecified
+2nd-3rd century CE
 
 ### Bibliography
 * Malek, A.-A., "Le Jardin Dans Les Sanctuaires De L'afrique Romaine: Premières Approches.", in *Du Culte Aux Sanctuaires : L'architecture Religieuse Dans L'afrique Romaine Et Byzantine : Actes Du Colloque*, 18-19 Avril 2013, Paris, Fondation Simone Et Cino Del Duca... -. (2018), p. 362, fig. 12. [(worldcat)](http://www.worldcat.org/oclc/1201712466)

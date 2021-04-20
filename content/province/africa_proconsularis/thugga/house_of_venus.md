@@ -53,11 +53,12 @@ The house of Venus is located at the S of the capitol and is adjacent to the tem
 
 ### Maps
 
-### Images
+### Plans
 
 {{< figure src="../images/AFR_Thu_Hv_Wjashemski_color.jpg" alt="Plan of the House of Venus" title="Fig. 1:  Plan of the House of Venus (CMGR, VII-1, PL. LXXXVIII)" >}}
 
 ### Dates
+3rd-5th century CE?
 
 ### Bibliography
 * Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](http://www.worldcat.org/oclc/7380877046)

@@ -29,7 +29,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 [UTICA (Utique)]({{<relref ".">}}) \
-[UTICA (Utique) Tunisia](https://pleiades.stoa.org/places/315247)
+[UTICA (Utique) Tunisia(Pleiades)](https://pleiades.stoa.org/places/315247)
 
 ### Location Description
 Her geographic situation made of Utica one of the oldest and well-known Phoenician settlements. In 146 B.C, Utica became the capital of the newly created province of Africa and the residence of the governor. With the triumph of Caesar and the resurgence of Carthage, Utica's supremacy would gradually decline under the empire. In 36 B.C. it became a *municipium* and a colony under Hadrian.
@@ -72,7 +72,7 @@ The house is dated to the II century.
 
 
 ### Plans
-{{< figure src="../images/AFR_Uti_Hw_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the West." title="Fig.1: Plan of the House of the West (CMT, plan 4). " >}}
+{{< figure src="../images/AFR_Uti_Hw_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the West." title="Fig.1: Plan of the House of the West (CMT, plan 4)" >}}
 
 <!--### Images-->
 
