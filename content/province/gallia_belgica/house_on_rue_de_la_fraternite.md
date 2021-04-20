@@ -55,7 +55,7 @@ The house had another interior open court and possible garden [17] of about 6 x 
 
 ### Maps
 
-{{< figure src="../House on rue de la Fraternité images/Picture1.jpg" alt="A map of the excavation of the House on rue de la Fraternité." title=" Arras (Pas de Calais), France. Excavations on the House on rue de la Fraternité. 1875-1879." >}}
+{{< figure src="images/rue_de_frat.jpg" alt="A map of the excavation of the House on rue de la Fraternité." title=" Arras (Pas de Calais), France. Excavations on the House on rue de la Fraternité. 1875-1879." >}}
 
 ### Plans
 

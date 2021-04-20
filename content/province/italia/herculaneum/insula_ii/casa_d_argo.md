@@ -5,21 +5,16 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
-draft: false
+Jashemski-catalogue: 533-534
+draft: true
 
 categories:
  - "Italia"
-tags:
- - "cisterns (plumbing components)"
- - "gutters (building drainage components)"
- - "peristyles (Roman courtyards)"
- - "porticoes"
- - "triclinia (rooms)"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../../..">}})
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 <!--### Province Description-->
 
@@ -38,12 +33,15 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
+## Insula
+II
+
+## House
+2
+
 ## Garden
 Casa D’Argo
 
-##Jashemski Catalogue
-533.II.2.
-534.II.2.
 
 ### Keywords
 
@@ -71,16 +69,11 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
+
 ### Plans
 
 
-{{< figure src="../../images/H_2_2.jpg" alt="Casa D’Argo" title="Casa D’Argo" >}}
-
-#### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
-
-#### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/7031897)
+{{< figure src="../images/H_2_2.jpg" alt="Plan of Casa D’Argo" title="Plan of Casa D’Argo" >}}
 
 ### Dates
 
@@ -97,7 +90,7 @@ unspecified
 - Bonucci, Le due Sicilie: Ercolano, fig. 11 (plan) and p. 37 [(worldcat)](http://www.worldcat.org/oclc/79720703)
 - Breton,*Pompeia* p. 519 [(worldcat)](http://www.worldcat.org/oclc/602759412)
 - Maiuri, *Herculaneum*, p. 24 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
-- Idem,*Ercolano*, pp. 367-368 and fig. 293 (plan) on p. 362  [(worldcat)](http://www.worldcat.org/oclc/490581395)
+- Maiuri,*Ercolano*, pp. 367-368 and fig. 293 (plan) on p. 362  [(worldcat)](http://www.worldcat.org/oclc/490581395)
 - Niccolini,*Real museo borbonico*, vol. 7, fig. 59 (plan), description by Bechi, pp. 19-21 [(worldcat)](http://www.worldcat.org/oclc/277993202)
 - Ruggiero, *Ercolano*, pp. 541-545 (contains the detailed reports of Bonucci)[(worldcat)](http://www.worldcat.org/oclc/18405521)
 -
@@ -106,6 +99,11 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
+#### Pleiades ID
+[432873](https://pleiades.stoa.org/places/432873)
+
+#### TGN ID
+[7031897](http://vocab.getty.edu/page/tgn/7031897)
 
 
 ### Contributor
