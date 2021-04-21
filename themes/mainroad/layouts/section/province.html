@@ -44,36 +44,11 @@
   {{ end }}
 
   {{- if .Sections -}}
-    {{- range sort .Sections -}}
-      {{- range .Data.Pages -}}
-        {{- .Render "summary" }}
-      {{- end -}}
-      {{- if .Sections -}}
-        {{- range .Sections -}}
-          {{- range .Data.Pages -}}
-            {{- .Render "summary" }}
-          {{- end -}}
-          {{- if .Sections -}}
-            {{- range .Sections -}}
-              {{- range .Data.Pages -}}
-                {{- .Render "summary" }}
-              {{- end -}}
-              {{- if .Sections -}}
-                {{- range .Sections -}}
-                  {{- range .Data.Pages -}}
-                    {{- .Render "summary" }}
-                  {{- end -}}
-                {{- end -}}
-              {{- end -}}
-            {{- end -}}
-          {{- end -}}
-        {{- end -}}
-      {{- end -}}
+    SECTIONS TRUE<br>
+    {{- range sort .RegularPagesRecursive ".Params.Title" }}
+      {{- .Render "summary" }}
     {{- end -}}
   {{- end -}}
-  {{- range .Paginator.Pages }}
-    {{- .Render "summary" }}
-  {{- end }}
 </main>
 {{ partial "pagination.html" . }}
 {{ end }}
