@@ -44,7 +44,6 @@
   {{ end }}
 
   {{- if .Sections -}}
-    SECTIONS TRUE<br>
     {{- range sort .RegularPagesRecursive ".Params.Title" }}
       {{- .Render "summary" }}
     {{- end -}}
