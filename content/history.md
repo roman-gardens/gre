@@ -4,8 +4,6 @@ date: 2021-04-13T12:43:43+02:00
 editor: Christian Casey
 draft: false
 ---
-# History of the Project 
-
 Originally modeled on *Gardens of Pompeii*, with its book of essays and catalogue of archaeological sites, Wilhelmina Jashemski planned *Gardens of the Roman Empire* as a far more ambitious project. It has engaged an interdisciplinary team of nearly 200 scholars, students, volunteers, and specialists to assemble a vast body of data into this digital project, which complements, but is independent of, a print volume of essays published by Cambridge University press. Ultimately, this website is designed to publish the assembled catalogue of material in the format in which Jashemski first envisioned it, while using contemporary digital tools to make the data readily navigable. It takes the project forward into the future with essential search tools, links, and maps. The result is a website that realizes her original vision while transforming the project into a fully independent digital forum for research on Roman gardens and designed landscapes.
 
 ## Origins
