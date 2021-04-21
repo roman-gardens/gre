@@ -41,7 +41,7 @@ Shop-House garden with an outdoor [triclinium](http://vocab.getty.edu/page/aat/3
 
 ### Garden Description
 
-The shop-house was laid out in a very irregular manner and the garden took up most of the space. There was a masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) in the southern part of the garden. This had a *lectus imus* and a *lectus summus* that both were 3.80 m. in length and the *lectus medius* was 4.24 m. in length. The rectangular table measured 1.10 x 0.75 m.
+The shop-house was laid out in a very irregular manner and the garden took up most of the space. There was a masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) in the southern part of the garden. This had a *lectus imus* and a *lectus summus* that both were 3.80 m. in length and the *lectus medius* was 4.24 m. in length. The rectangular [table](http://vocab.getty.edu/page/aat/300039548) measured 1.10 x 0.75 m.
 
 <!--### Maps-->
 

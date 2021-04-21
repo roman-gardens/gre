@@ -80,7 +80,7 @@ Foundations of garden architecture, water channels and garden soils of the late 
 
 ### Images
 
-{{< figure src="../images/ASIA-JUD-CAESAREA-KGLEASON-2.jpg" alt="Fig. 2: Photograph of cuttings around pool for planters (K. Gleason)." title="Fig. 2:Photograph of cuttings around pool for planters (K. Gleason." >}}
+{{< figure src="../images/A_J_C_K_2.jpg" alt="Fig. 2: Photograph of cuttings around pool for planters (K. Gleason)." title="Fig. 2:Photograph of cuttings around pool for planters (K. Gleason." >}}
 
 {{< figure src="../images/ASIA-JUD-CAESAREA-KGLEASON-3.jpg" alt="Fig. 3: Photograph of Hamra soil in courtyard (K. Gleason)." title="Fig. 3:Photograph of Hamra soil in courtyard (K. Gleason)." >}}
 

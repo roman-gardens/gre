@@ -1,5 +1,5 @@
 ---
-title: "House of the Garden of Hercules (II.viii.6)"
+title: "II.8.6 House of the Garden of Hercules"
 date: 2020-12-10T00:10:10-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
