@@ -78,7 +78,8 @@ Cicero set the scene in *De finibus* [(5.1.3)](http://data.perseus.org/citations
 
 ### Publication date
 
-20 July 2020
+
+21 Apr 2021
 
 <!--
 ### Related articles

@@ -92,4 +92,5 @@ A limestone funerary stele of probably third century date unearthed in 1973 near
 
 ### Publication date
 
-22 July 2020
+
+21 Apr 20210

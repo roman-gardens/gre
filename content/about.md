@@ -11,7 +11,7 @@ draft: false
 
 The entries range from sites that have been excavated using contemporary techniques to early sites where gardens are suspected but not yet proven. The range of evidence assembled includes up-to-date descriptions, plans, stratigraphic sections, bibliography, and photographs of gardens known archaeologically.
 
-For the **beta launch** of this project, GRE is publishing a selection of the entries assembled by [Wilhelmina Jashemski](https://en.wikipedia.org/wiki/Wilhelmina_Feemster_Jashemski), [Kathryn Gleason](https://archaeology.cornell.edu/kathryn-gleason), [Kim J. Hartswick](https://cunyba.cuny.edu/staff/kim-hartswick/), [Amina-Aïcha Malek](http://www.archeo.ens.fr/Malek-Amina-Aicha.html?lang=fr), and a team of area editors working between 1988-2010. While the work of publishing these assembled gardens will continue over the course of 2021-2022, the new website has also been engineered in such a way as to allow the GRE team and its contributors to update older entries with new information and bibliography and to add new gardens as they are discovered.
+For the **beta launch** of this project, GRE is publishing a selection of the entries assembled by [Wilhelmina Jashemski](https://en.wikipedia.org/wiki/Wilhelmina_Feemster_Jashemski), [Kathryn Gleason](https://archaeology.cornell.edu/kathryn-gleason), [Kim J. Hartswick](https://cunyba.cuny.edu/staff/kim-hartswick/), [Amina-Aïcha Malek](http://www.archeo.ens.fr/Malek-Amina-Aicha.html?lang=fr), and a team of area editors working between 1988-2010. While the work of publishing these assembled gardens will continue over the course of 2021-2022, the new website has also been engineered in such a way as to allow the GRE team and its contributors to update older entries with new information and bibliography and to add new gardens as they are discovered. In some cases, older entries by distinguished scholars who are now deceased will be updated and the original entry will be archived. We intend for both editions of the garden entry to be visible to interested readers.
 
 In the **next phase of development**, GRE is planning to add a glossary and thematic entries on topics such as garden representations, inscriptions, archaeobotanical findings, and water features. In assembling all the known garden evidence into a single online corpus, GRE seeks to expand the scope of research on Roman gardens, as well as to stimulate further field research.
 
@@ -27,7 +27,7 @@ GRE invites all scholars and the general public to explore the new beta site and
 
 ## Open linked data
 
-GRE adopts [open linked data](https://en.wikipedia.org/wiki/Linked_data#Linked_open_data) approaches whenever it can. 
+GRE adopts [open linked data](https://en.wikipedia.org/wiki/Linked_data#Linked_open_data) approaches whenever it can.
 
 [more...]({{<ref "open-linked-data/">}})
 
@@ -43,6 +43,6 @@ The content on the GRE site is governed by a [CC BY-NC-SA 4.0](https://creativec
 
 ## History of the project
 
-Originally modeled on *Gardens of Pompeii*, with its book of essays and catalogue of archaeological sites, Wilhelmina Jashemski planned *Gardens of the Roman Empire* as a far more ambitious project. It has engaged an interdisciplinary team of nearly 200 scholars, students, volunteers, and specialists to assemble a vast body of data into this digital project, which complements, but is independent of, a print volume of essays published by Cambridge University press. Ultimately, this website is designed to publish the assembled catalogue of material in the format in which Jashemski first envisioned it, while using contemporary digital tools to make the data readily navigable. It takes the project forward into the future with essential search tools, links, and maps. The result is a website that realizes her original vision while transforming the project into a fully independent digital forum for research on Roman gardens and designed landscapes.
+Originally modeled on [*Gardens of Pompeii* (1979-1993)](http://www.worldcat.org/oclc/799117144), with its book of essays and catalogue of archaeological sites, Wilhelmina Jashemski planned  Gardens of the Roman Empire as a far more ambitious project. It has engaged an interdisciplinary team of nearly 200 scholars, students, volunteers, and specialists to assemble a vast body of data into this digital project, which complements, but is independent of, a print volume of essays published by Cambridge University Press, [*Gardens of the Roman Empire* (2018)](http://www.worldcat.org/oclc/1034800155). Ultimately, this website is designed to publish the assembled catalogue of material in the format in which Jashemski first envisioned it, while using contemporary digital tools to make the data readily discoverable, navigable and citable. It takes the project forward into the future with essential search tools, links, and maps. The result is a website that realizes her original vision while transforming the project into a fully independent digital forum for research on Roman gardens and designed landscapes. 
 
 [more...]({{<ref "history/">}})

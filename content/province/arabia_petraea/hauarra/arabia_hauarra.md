@@ -81,7 +81,8 @@ A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely dam
 <!-- [name](https://....) -->
 
 ### Publication date
-15 Apr 2021
+
+21 Apr 2021
 
 <!--### Related articles-->
 

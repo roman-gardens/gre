@@ -116,7 +116,8 @@ In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the ga
 [Emilie Chassillan](link)
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -123,7 +123,8 @@ This first palace was “introverted” thus giving expression to Herod’s infe
 
 ### Publication date
 
-09 October 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

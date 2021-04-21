@@ -24,8 +24,8 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 - David M. Ratzan, ISAW/NYU
 
 *Mapping*
-- Keith Jenkins, Cornell University, GIS mapping
-- Gabriel McKee, ISAW/NYU, Pleiades liaison
+- [Keith Jenkins](https://guides.library.cornell.edu/prf.php?account_id=9255), Cornell University, GIS mapping
+- [Gabriel McKee](https://isaw.nyu.edu/people/staff/gabriel-mckee), ISAW/NYU, Pleiades liaison
 
 ### Editorial teams for geographic areas and thematic content
 

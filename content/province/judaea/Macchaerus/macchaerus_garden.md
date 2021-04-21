@@ -110,7 +110,8 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 ### Publication date
 
-09 October 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

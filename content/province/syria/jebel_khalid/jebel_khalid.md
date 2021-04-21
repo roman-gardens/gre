@@ -114,7 +114,8 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 [Graeme Clark](#)
 
 ### Publication date
-3 December 2020  
+
+21 Apr 2021
 
 <!--### Related articles-->
 

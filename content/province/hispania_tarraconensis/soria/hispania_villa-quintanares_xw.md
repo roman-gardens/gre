@@ -89,7 +89,8 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 
 
 ### Publication date
-20 November 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -104,7 +104,8 @@ Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora
 [Monika Trümper](#) (ORCID: [0000-0003-4524-6242](https://orcid.org/0000-0003-4524-6242))
 
 ### Publication date
-3 Dec 2020  
+
+21 Apr 2021
 
 <!--### Related articles-->
 

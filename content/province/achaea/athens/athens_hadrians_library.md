@@ -96,7 +96,8 @@ In the center of the building was a large open peristyle courtyard with a long p
 
 ### Publication date
 
-16 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 
