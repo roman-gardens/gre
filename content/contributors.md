@@ -1,421 +1,357 @@
-# PEOPLE
-
-The Gardens of the Roman Empire Project has engaged a wonderful community of scholars, archaeologists, and students over the years. We have a group of **editors** , who are coordinating the project, a **digital humanities team** that is shaping this website and bringing the data to life, **area editorial teams** for the provinces and major cities, who are seeking out new gardens and reviewing entries; and our contributing **authors.**
-
-We gratefully **acknowledge** our past editors and the many volunteer and student assistants who have helped us build this project over the years **. Join us!**
-
-† _(dagger):_ deceased
-
-_Italics: original editors_
-
-# Editors
-
-_Wilhelmina Jashemski__†_ _, University of Maryland_
-
-Kathryn L. Gleason, Cornell University, Executive Editor
-
-Kim J. Hartswick, CUNY Graduate Center
-
-Amina-Aïcha Malek, AOROC, CNRS/Paris
-
-**Website Publication Designers &amp; Technical Advisors**
-
-_Website Design_
-
-David Ratzan, ISAW/NYU
-
-Christian Casey, ISAW?NYU
-
-_Mapping_
-
-Keith Jenkins, Cornell University, GIS Mapping
-
-Gabriel McKee, ISAW/NYU, Pleiades Project
-
-# Area Editorial Teams:
-
-_Corresponding editors are hyperlinked to their contact information [Bold]_
-
-_ **Tomb gardens:** _
-
-**John Bodel**
-
-##
-
-
-## Achaea
-
-**Maureen Carroll** , Jane Millar
-
-## Aegyptus
-
-**David M. Ratzan**
-
-_Roger Bagnall_
-
-## Africa Proconsularis
-
-**Amina Aicha Malek** , Xue Xia, Jamel Hajji
-
-_Wilhelmina Jashemski†, __Michèle Blanchard Lemée__ †__,_ _Abdelfattah Ichkhakh†_
-
-## Alpes (Cottidae, Maritimae, Poeniae)
-
-## Arabia Petraea
-
-**Leigh Ann Bedal**
-
-## Armenia
-
-**Catherine Kearns** , Divya Kumar-Dumas
-
-## Asia
-
-**Maureen Carroll** , Divya Kumar-Dumas, Isil Isiklikaya-Laubscher
-
-_Kathryn Gleason_
-
-## Bithynia and Pontus
-
-**Kathryn Gleason** , Divya Kumar-Dumas, Isil Isiklikaya-Laubscher
-
-_Maureen Carroll, Kathryn Gleason_
-
-## Britannia
-
-**Maureen Carroll** , Jane Millar
-
-## Cappadocia
-
-**Catherine Kearns** , Divya Kumar-Dumas, Isil Isiklikaya-Laubscher
-
-
-## Cilicia
-
-## Catherine Kearns,
-
-## Cyprus
-
-## Catherine Kearns, Demetrios Michaelides
-
-## Elizabeth Macaulay
-
-## Cyrene &amp; Creta
-
-**Amina-Aïcha Malek** , Xue Xia
-
-_Wilhelmina Jashemski†, Eugenia Salza Prina Ricotti†_
-
-## Galatia
-
-**Catherine Kearns** , Divya Kumar-Dumas, Isil Isiklikaya-Laubscher
-
-_Maureen Carroll, Kathryn Gleason_
-
-## Gallia Aquitania
-
-**Amina-Aicha Malek,** Séverine Blin
-
-_Eric Morvillez, Emilie Chassillan__,_ _Clopper Almon_
-
-**Gallia Belgica**
-
-**Amina-Aicha Malek,** Séverine Blin
-
-_Eric Morvillez, Emilie Chassillan__,_ _Clopper Almon_
-
-**Gallia Lugdunesis**
-
-**Amina-Aicha Malek**, Séverine Blin
-
-_Eric Morvillez, Emilie Chassillan__,_ _Clopper Almon_
-
-**Gallia Narbonesis**
-
-**Amina-Aicha Malek**, Séverine Blin
-
-_Eric Morvillez, Emilie Chassillan__,_ _Clopper Almon_
-
-## Germania Inferior
-
-Maureen Carroll, Jane Millar
-
-**Germania Superior**
-
-Maureen Carroll, Jane Millar
-
-## Hispania Tarraconensis
-
-_Trinidad Nogales Basarreta,_ _José María Álvarez Martínez,__Marguerita Orfila,_
-
-_Clopper Almon_
-
-**Hispania Lusitania**
-
-_Jorge de Alarcão, Trinidad Nogales Basarreta,_ _José María Álvarez Martínez,__Marguerita Orfila,_
-
-_Clopper Almon_
-
-**Hispania Baetica**
-
-_Trinidad Nogales Basarreta,_ _José María Álvarez Martínez,__Marguerita Orfila,_
-
-_Clopper Almon_
-
-## Italia
-
-**Kathryn Gleason** , Kim Hartswick
-
-_Wilhelmina Jashemski_†_, _Eugenia Salsa Prina Ricotti_†_
-
-**Rome**: **Elizabeth Macaulay,** Rhiannon Pare
-
-**Vesuvian Sites** :, **Riccardo Olivetto** , Jessica Venner, Clare Campbell, Yukiko Kawamoto, Kaja Tally Schumacher, Yifan Li, _Wilhelmina Jashemski__†_
-
-## Judaea
-
-**Kathryn Gleason** , Yaniv Korman
-
-_Ehud Netzer__†
-
-## Lycia and Phamphyllia
-
-**Catherine Kearns** , Divya Kumar-Dumas, Isil Isiklikaya-Laubscher
-
-_Maureen Carroll, Kathryn Gleason_
-
-## Macedonia
-
-**Maureen Caroll** , Jane Millar
-
-## Mauretania
-
-**Amina-Aïcha Malek** , Xue Xia, Mohamed Kbiri Allaoui
-
-_Wilhelmina Jashemski†, __Michèle Blanchard Lemée__ †_
-
-## Mesopotamia
-
-## Catherine Kearns, Divya Kumar-Dumas
-
-## Moesia (Superior and Inferior)
-
-**Catherine Kearns**
-
-## Noricum
-
-**Maureen Carroll** , Jane Millar
-
-## Numidia
-
-**Amina-Aïcha Malek** , Xue Xia
-
-_Wilhelmina Jashemski†, __Michèle Blanchard Lemée__ †_
-
-**Pannonia**
-
-**Catherine Kearns**
-
-**Raetia**
-
-**Maureen Carroll** , Caroline Kneubuhl
-
-**Syria**
-
-**Leigh-Ann Bedal** , Divya Kumar-Dumas, Houmam Saad, Abdallah Komait, Isil Isiklikaya-Laubscher
-
-_Christine Kondoleon_
-
-**Thracia**
-
-**Catherine Kearns**
-
-**Authors (83)****--there are missing authors on this list--compare to entries**
-
-Adembri, Benedetta
-
-Alarcao, Jorge
-
-Anderson, Linda
-
-Aymer, Valerie
-
-Bagnall, Roger S.
-
-Basarreta, Trinidad Nogales
-
-Bedal, Leigh-Ann
-
-_Bilde, Pia Guldager__†_
-
-Birkenhagen, Bettina
-
-Blanc-Bijon, Véronique
-
-_Blanchard-Leme, Michele__†_
-
-Bodel, John
-
-Broise, H.
-
-Budetta, Tommasino
-
-DeCaro, Stefano
-
-Carroll, Maureen
-
-_Casillas, Inmaculada Moreno__†_
-
-Clark, Graeme
-
-Claridge, Amanda
-
-DeLaine, Janet
-
-Ebnother, Christine
-
-Feller, Marc
-
-Fentress, Elizabeth
-
-Gaston, Christophe
-
-Grazia Fiore, Maria
-
-Ghini, Giuseppina
-
-Gleason, Kathryn L.
-
-Hartswick, Kim J.
-
-_Hirschfeld, Yzhar__†_
-
-Ianiello, Maria Antonietta
-
-_Jashemski, Wilhelmina__†_
-
-Jolivet, Vincent
-
-Juan-Tresserras, Jordi
-
-Klynne, Allan
-
-Kondoleon, Christine
-
-Kearns, Catherine Mary
-
-Laffite, Jean-Denis
-
-Liljenstolpe, Peter
-
-Liverani, Paolo
-
-Macaulay, Elizabeth
-
-Malek, Amina-Aicha
-
-Mancilla Cabello, Maria Isabel
-
-Mari, Zaccari
-
-Martínez, José María Álvarez
-
-Marzano, Annalisa
-
-Mermati, Francesca
-
-Miniero, Paola
-
-Morard, Thomas
-
-Morvillez, M. Eric
-
-Moscetti, Eugenio
-
-Munier, Claudine
-
-Musso, Luisa
-
-Myers, K. Sara
-
-_Netzer, Ehud__†_
-
-Olivanti, Paola
-
-Orfila, Margarita
-
-Papi, Emanualle
-
-Patrich, Joseph
-
-Puertas, Esther
-
-Rabinowitz, Adam
-
-Ratte, Christopher
-
-Reeves, M. Barbara
-
-Reggiani, Anna Maria
-
-_Ricotti, Eugenia Salza Prina__†_
-
-Roffia, Elisabetta
-
-Román Punzón, Julio Miguel
-
-Romano, David Gilman
-
-Romano, Irene Bald
-
-Rudkin, David
-
-Ryan, Beth
-
-Saad, Houmam, (General Directorat of Antiquities and Museums GDAM)
-
-Sampaolo, Valeria
-
-Scagliarini, Daniela
-
-Shepherd, Elizabeth
-
-Sidebottom, Stephen
-
-Spoth-Torres, Holly
-
-Tomei, Marianntonietta
-
-Truemper, Monika
-
-Villedieu, Francoise
-
-_Widrig, Walter__†_
-
-Wiethold, Julian
-
-Wilkinson, David
-
-Wilson, Roger
-
-Zachos, Konstantinos L
-
-**Acknowledgements**
-
-We gratefully acknowledge the work of past editorial staff and students who have contributed to the success of this project. We offer special thanks to Dr. Henry Ferry, Executor for the Estate of Wilhelmina Jashemski for his ongoing support of the Gardens of the Roman Empire project, and Beatrice Rehl of Cambridge University Press. We also acknowledge with the gratitude the support of Elisabeth Blair MacDougall, Michel Conan, and Thaisa Way, Landscape Studies Directors at Dumbarton Oaks.
-
-**Text Editors**
-
-_Catherine Kearns, University of Chicago_, _Clopper Almon 2000-2011, Jacqueline Clinton, Cambridge U. Press, 2008-2010, Irene Romano 2001-2005_
-
-**Graphics Editors**
-
-_Michele Palmer, Templeton Associates_ , _Victoria I_
-
-**Website Editors/Garden Entries**
-
-Website Entries: Chen Chen, Tiffany Fong, Shamika Ghate, Nicholas Gill, Annette Lei Guan, Yuming Huang, Yuhan Li, Yaniv Korman, Yifan Li, Yichen Liu, Yuyao Liu, Zhenrui Mei, Jane Ellen Millar, Yvette Pollack, Josh Rosenheim, Dustin Smith, Yunyan Sun, Lai Ching Tsui, Xingjian Wang, Brandon Wilson, Xue Xia, Lingyi Xu, Jinyi Yang, Jianing Zhou
-
-ISAW Internship Summer 2020 **:** June Dorsch **,** Amartya Shri
-
-Cornell Seminar Students (1999-2021) Linda Anderson,Valerie Aymer, Nicole Bevans, Natalie Bower, Ning Cai, Catherine Callahan, Melissa Carter, Michael Chang, Ellen Chase, Melissa Currie; Stacy Day, Sahar Farmand,Ned Fischer, David L. Ffrench III, Karilea Gallow, Annette Guan, Adriana Hidalgo, Yuhan Ji, Catherine Kearns, Yaniv Korman, Charly Parker Kring, Xianzi Lai, Heather Lambert, Xiang Li, Jie Lie, Xiang Li, Yixuan Li, Zejun Li, Shan Ling, Huan Liu, Yuting Liu, Elizabeth Macaulay, Sage Magee, Rambod Mirbaha, Eilis Monahan, Emil Nankov, Anne Plowden, Beth Ryan, Olivia Shea, Ned Shalansky, Ming Tao, Ned Shalansky, Chris Tuccio, Juliana Van Roggan, Holly Spoth-Torres, Fangge Wang, Yimen Wang, Ryan Weber, Erin Wright, Yifei Yan, Tianjun Xu, Rebecca Zellner.
+---
+title: "People"
+date: 2021-04-20T13:49:40-04:00
+author: David Ratzan
+draft: false
+---
+The Gardens of the Roman Empire Project has engaged a wonderful community of scholars, archaeologists, and students over the years.  We have a group of **editors**, who are coordinating the project, a **digital humanities team** that is shaping this website and bringing the data to life, **area editorial teams** for the provinces and major cities, who are seeking out new gardens and reviewing entries; and our contributing **authors**.
+
+We gratefully acknowledge our past editors and the many volunteer and student assistants who have helped us build this project over the years. **[Join us!]({{<ref "contribute/">}})**
+
+- *Italics* original editors
+- \*  Deceased  
+- Corresponding editors are noted in **bold**.
+
+### Editors
+- *Wilhelmina Jashemski*\* , University of Maryland
+- [Kathryn Gleason](https://archaeology.cornell.edu/kathryn-gleason), Cornell University, Executive Editor: <klg16@cornell.edu>
+- [Kim J. Hartswick](https://cunyba.cuny.edu/staff/kim-hartswick/), CUNY Graduate Center
+- [Amina-Aïcha Malek](http://www.archeo.ens.fr/Malek-Amina-Aicha.html?lang=fr), AOROC, CNRS ENS PSL
+
+### Website publication designers & technical advisors
+*Website and Data Structure Design*
+- David M. Ratzan, ISAW/NYU
+- Christian Casey, ISAW/NYU
+
+*Mapping*
+- Keith Jenkins, Cornell University, GIS mapping
+- Gabriel McKee, ISAW/NYU, Pleiades liaison
+
+### Editorial teams for geographic areas and thematic content
+
+##### Thematic areas
+*Tomb gardens*
+- **John Bodel**, Brown University: <john_bodel@brown.edu>
+
+##### Geographic and political areas
+*Achaea*
+- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Jane Millar, University of Texas, Austin
+
+*Aegyptus*
+- *Roger S. Bagnall*, ISAW/NYU
+- **David M. Ratzan**, ISAW/NYU: <david.ratzan@nyu.edu>
+
+*Africa Proconsularis*
+- **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
+- Xue Xia, Cornell University
+- Jamel Hajji, INP, Tunisia
+- *Wilhelmina Jashemski*\*
+- *Michèle Blanchard Lemée*\*
+- *Abdelfattah Ichkhakh*\*
+
+*Arabia Petraea*
+- **Leigh Ann Bedal**, Pennsylvania State University/Behrend: <lxb41@psu.edu>
+
+*Armenia*
+- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Divya Kumar-Dumas, University of Pennsylvania
+
+*Asia*
+- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Divya Kumar-Dumas, University of Pennsylvania
+- Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt
+- *Kathryn Gleason*
+
+*Bithynia and Pontus*
+- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Divya Kumar-Dumas, University of Pennsylvania
+- Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt
+- *Maureen Carroll*
+- *Kathryn Gleason*
+
+*Britannia*
+- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Jane Millar, University of Texas, Austin
+
+*Cappadocia*
+- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Divya Kumar-Dumas, University of Pennsylvania
+- Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt
+
+*Cilicia*
+- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt
+
+*Cyprus*
+- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- *Elizabeth Macaulay*
+
+*Cyrene & Creta*
+- **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
+- Xue Xia, Cornell University
+- *Wilhelmina Jashemski*\*
+- *Eugenia Salza Prina Ricotti*\*
+
+*Galatia*
+- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Divya Kumar-Dumas, University of Pennsylvania
+- Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt
+- *Maureen Carroll*
+- *Kathryn Gleason*
+
+*Gallia Aquitania*
+- **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
+- Séverine Blin, Archéologie et philologie d'Orient et d'Occident
+AOROC UMR 8546 CNRS-ENS-PSL
+- *Eric Morvillez*
+- *Jean-Marie Pallier*
+- *Emilie Chassillan*
+- *Clopper Almon*
+
+*Gallia Belgica*
+- **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
+- Séverine Blin, Archéologie et philologie d'Orient et d'Occident
+AOROC UMR 8546 CNRS-ENS-PSL
+- *Eric Morvillez*
+- *Jean-Marie Pallier*
+- *Emilie Chassillan*
+- *Clopper Almon*
+
+*Gallia Lugdunensis*
+- **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
+- Séverine Blin, Archéologie et philologie d'Orient et d'Occident
+AOROC UMR 8546 CNRS-ENS-PSL
+- *Eric Morvillez*
+- *Jean-Marie Pallier*
+- *Emilie Chassillan*
+- *Clopper Almon*
+
+*Gallia Narbonensis*
+- **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
+- Séverine Blin, Archéologie et philologie d'Orient et d'Occident
+AOROC UMR 8546 CNRS-ENS-PSL
+- *Eric Morvillez*
+- *Jean-Marie Pallier*
+- *Emilie Chassillan*
+- *Clopper Almon*
+
+*Germania Inferior*
+- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Jane Millar, University of Texas, Austin
+
+*Germania Superior*
+- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Jane Millar, University of Texas, Austin
+
+*Hispania Tarraconensis*
+- *Trinidad Nogales Basarreta*
+- *José María Álvarez Martínez*
+- *Marguerita Orfila*  
+- *Clopper Almon*
+
+*Hispania Lusitania*
+- *Jorge de Alarcão*
+- *Trinidad Nogales Basarreta*
+- *José María Álvarez Martínez*
+- *Marguerita Orfila*  
+- *Clopper Almon*
+
+*Hispania Baetica*
+- *Trinidad Nogales Basarreta*
+- *José María Álvarez Martínez*
+- *Marguerita Orfila*  
+- *Clopper Almon*
+
+*Italia*
+- **Kathryn Gleason**, Cornell University: <klg16@cornell.edu>
+- Kim Hartswick, CUNY Graduate Center
+- *Wilhelmina Jashemski*\*
+- *Eugenia Salza Prina Ricotti*\*
+
+>Rome:
+
+- Vincent Jolivet, AOROC, CNRS ENS
+- **Elizabeth Macaulay**, CUNY Graduate Center: <emacaulay_lewis@gc.cuny.edu>
+- Rhiannon Pare, Princeton University
+
+>Vesuvian Sites:  
+
+- Riccardo Olivito, IMT School for Advanced Studies Lucca
+- **Jessica Venner**, University of Birmingham: <jlv871@student.bham.ac.uk>
+- Clare Campbell, University of Arkansas
+- Yukiko Kawamoto, Nagoya University
+- Kaja Tally Schumacher, Cornell University
+- Yifan Li, Cornell University
+- *Wilhelmina Jashemski*\*
+
+*Judaea*
+- **Kathryn Gleason**, Cornell University: <klg16@cornell.edu>
+- Yaniv Korman, Cornell University
+- *Ehud Netzer*\*
+
+*Lycia and Pamphylia*
+- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Divya Kumar-Dumas, University of Pennsylvania
+- Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt
+- *Maureen Carroll*
+- *Kathryn Gleason*
+
+*Macedonia*
+- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Jane Millar, University of Texas, Austin
+
+*Mauretania*
+- **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
+- Xue Xia, Cornell University
+- Mohamed Kbiri Allaoui, INSAP
+- *Wilhelmina Jashemski*\*
+- *Michèle Blanchard Lemée*\*
+
+*Mesopotamia*
+- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Divya Kumar-Dumas, University of Pennsylvania
+
+*Moesia (Superior and Inferior)*
+- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+
+*Noricum*
+- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Jane Millar, University of Texas, Austin
+
+*Numidia*
+- **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
+- Xue Xia, Cornell University
+- *Michèle Blanchard Lemée*\*
+
+*Pannonia*
+- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+
+*Raetia*
+- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Caroline Kneubuhl, Musée romain d'Avenches
+
+*Syria*
+- **Leigh Ann Bedal**, Pennsylvania State University/Behrend: <lxb41@psu.edu>
+- Divya Kumar-Dumas, University of Pennsylvania
+- Houmam Saad, Directorate-General for Antiquities and Museums, Damascus
+- Abdallah Komait, AOROC, CNRS ENS PSL
+- Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt
+- *Christine Kondoleon*
+
+*Thracia*
+- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+
+### Authors
+- Benedetta Adembri
+- Jorge de Alarcão
+- Linda Anderson
+- Valerie Aymer
+- Trinidad Nogales Basarreta
+- Leigh-Ann Bedal
+- Pia Guldager Bilde\*
+- Bettina Birkenhagen
+- Véronique Blanc-Bijon
+- Michele Blanchard-Leme\*
+- John Bodel
+- Henri Broise
+- Tommasino Budetta
+- Francesca Carbonia
+- Maureen Carroll
+- Inmaculada Moreno Casillas\*
+- Graeme Clark
+- Amanda Claridge
+- Stefano DeCaro
+- Janet DeLain
+- N. Doenges
+- Christa Ebnöther
+- Stella Falzone
+- Marc Feller
+- Elizabeth Fentress
+- Michel Fuchs
+- Christophe Gaston
+- Maria Grazia Fiore
+- Giuseppina Ghini
+- Kathryn L. Gleason
+- Kim J. Hartswick
+- Yzhar Hirschfeld\*
+- Maria Antonietta Ianiello
+- Wilhelmina Jashemski\*
+- Vincent Jolivet
+- Jordi Juan-Tresserras
+- Allan Klynne
+- Christine Kondoleon
+- Catherine Mary Kearns
+- Jean-Denis Laffite
+- Peter Liljenstolpe
+- Paolo Liverani
+- Elizabeth Macaulay
+- Amina-Aicha Malek
+- Maria Isabel Mancilla Cabello
+- Zaccari Mari
+- José María Álvarez Martínez
+- Annalisa Marzano
+- Francesca Mermati
+- Paola Miniero
+- Jacques Monnier
+- Pier Giorgio Monti
+- Thomas Morard
+- M. Eric Morvillez
+- Eugenio Moscetti
+- Claudine Munier
+- Luisa Musso
+- K. Sara Myers
+- Ehud Netzer*
+- Paola Olivanti, Paola
+- Margarita Orfila, Margarita
+- Emanuele Papi
+- Joseph Patrich
+- Esther Puertas
+- Adam Rabinowitz
+- Christopher Ratte
+- M. Barbara Reeves
+- Anna Maria Reggiani
+- Eugenia Salza Prina Ricotti\*
+- Elisabetta Roffia
+- Julio Miguel Román Punzón
+- David Gilman Romano
+- Irene Bald Romano
+- David Rudkin
+- Beth Ryan
+- Houmam Saad
+- Valeria Sampaolo
+- Daniela Scagliarini
+- Elizabeth Shepherd
+- Stephen Sidebottom
+- Holly Spoth-Torres
+- Maria Anntonietta Tomei
+- Monika Truemper
+- D. Vaquerizo
+- Françoise Villedieu
+- Győző Vörös
+- Walter Widrig\*
+- Julian Wiethold
+- David Wilkinson
+- Roger Wilson
+- Konstantinos L. Zachos
+
+### Acknowledgements
+We gratefully acknowledge the work of past editorial staff and students who have contributed to the success of this project. We offer special thanks to Dr. Henry Ferry, Executor for the Estate of Wilhelmina Jashemski for his ongoing support of the *Gardens of the Roman Empire* project, and Beatrice Rehl of Cambridge University Press. We also acknowledge with the gratitude the support of the directors of Garden & Landscape Studies at Dumbarton Oaks: Elisabeth Blair MacDougall, Michel Conan, and Thaïsa Way.
+
+We have worked with a terrific team of students who studied ancient gardens and the digital humanities by serving as the “micro-editors” of these entries: Chen Chen, June Dorsch, Tiffany Fong, Shamika Ghate, Nicholas Gill, Annette Lei Guan, Yuming Huang, Yuhan Li, Yaniv Korman, Yifan Li, Yichen Liu, Yuyao Liu, Zhenrui Mei, Jane Ellen Millar, Yvette Pollack, Josh Rosenheim, Dustin Smith, Amartya Shri, Yunyan Sun, Lai Ching Tsui, Xingjian Wang,  Brandon Wilson, Xue Xia, Lingyi Xu, Jinyi Yang, and Jianing Zhou.
+
+Another team has worked with Keith Jenkins on the GIS mapping projects since 2017: David L. Ffrench III, Ned Fischer, Catherine Kearns, Charly Parker Kring, Jie Li, Sibel Li, Yixuan Li, Zejun Li, Huan Liu, Erin Wright, and Juliana Van Roggen.
+
+Special thanks to the 2020 ISAW digital scholarly communications summer interns, who helped us to develop the basic templates and workflows: June Dorsch and Amartya Sen.
+
+The current version of *Gardens of the Roman Empire* is built on the hard work of many professionals and students who prepared the original manuscript and illustrations since the 1990s.  
+
+*Manuscript and graphics editors*\
+Michele Palmer, Templeton Associates (2006-2021), Catherine Kearns, University of Chicago (2009-2012), Maureen Bolton, Independent Researcher (2008-2010), Clopper Almon, University of Maryland (2000-2011), Jacqueline Clinton, Cambridge University Press (2008-2010), and Irene Romano, University of Arizona (2001-2005), Victoria I (1988-2010), Kim Wilczak (2012-2015), Pamela Brown (2000-2005)
+
+*Editorial assistants*\
+Linda Anderson,Valerie Aymer, Nicole Bevans, Natalie Bower, Ning Cai,  Catherine Callahan, Melissa Carter, Michael Chang, Ellen Chase, Alexandra Creola, Melissa Currie; Stacy Day, Sahar Farmand, Karilea Gallow, Annette Guan, Adriana Hidalgo, Yuhan Ji, Catherine Kearns, Yaniv Korman, Xianzi Lai, Heather Lambert, Xiang Li, Xiang Li, Shan Ling, Yuting Liu, Elizabeth Macaulay, Sage Magee, Rambod Mirbaha, Eilis Monahan, Emil Nankov, Anne Plowden, Beth Ryan, Olivia Shea, Ned Shalansky, Ming Tao, Chris Tuccio, Holly Spoth-Torres, Fangge Wang, Yimen Wang, Ryan Weber, Yifei Yan, Tianjun Xu, Rebecca Zellner
+
+This project has been carried out with funding from the Samuel H. Kress Foundation, Cornell Department of Landscape Architecture, Programme International de Coopération Scientifique (PICS) of the Centre national de la recherche scientifique (CRNS), Cornell Institute for Archaeology and Material Studies, (CIAMS), the University of Pennsylvania Museum, and the Departments of the History of Art and Landscape Architecture at the University of Pennsylvania.
+
+Finally, we are also indebted to our home institutions for their support over the years: Archéologie & Philologie d’Orient et d’Occident, Centre national de la recherche scientifique, Paris Sciences et Lettres; Department of Landscape Architecture, Albert R. Mann Library & CIAMS, Cornell University; and the Institute for the Study of the Ancient World, New York University.
