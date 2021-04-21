@@ -20,8 +20,8 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 
 ### Website publication designers & technical advisors
 *Website and Data Structure Design*
-- David M. Ratzan, ISAW/NYU
 - Christian Casey, ISAW/NYU
+- David M. Ratzan, ISAW/NYU
 
 *Mapping*
 - Keith Jenkins, Cornell University, GIS mapping
