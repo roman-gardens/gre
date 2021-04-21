@@ -38,7 +38,7 @@
 			{{- end -}}
 		{{- end -}}
 	{{- end -}}
-	{{- range .Paginator.Pages }}
+	{{- range .Paginator.Pages.ByTitle }}
 		{{- .Render "summary" }}
 	{{- end }}
 </main>
