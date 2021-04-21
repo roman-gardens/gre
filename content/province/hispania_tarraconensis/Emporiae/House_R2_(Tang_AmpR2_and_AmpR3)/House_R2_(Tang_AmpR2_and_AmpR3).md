@@ -125,7 +125,8 @@ House R2, situated south of House R1 in the area of the forum of the Roman City 
 AUTHOR_ID
 
 ### Publication date
-15 December 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

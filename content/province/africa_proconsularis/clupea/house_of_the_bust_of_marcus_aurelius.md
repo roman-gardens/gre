@@ -88,7 +88,8 @@ Built over an older establishment, the house presents two main phases.  The main
 [Wilhelmina Jashemski](link) (ORCID: [unknown](orcid link))
 
 ### Publication date
-1 OCT 2020
+
+21 Apr 2021
 
 ### Related articles
 [House of the small Peristyle (Maison du petit péristyle)]({{<relref "house_of_the_small_peristyle.md">}})

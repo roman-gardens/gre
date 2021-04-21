@@ -89,7 +89,8 @@ The archeologists of Nîmes have been particularly sensitive to the presence of 
 [Emilie Chassillan](link)
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

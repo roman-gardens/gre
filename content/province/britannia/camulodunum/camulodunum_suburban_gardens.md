@@ -89,7 +89,8 @@ ig. 1: Area outside the Balkerne gate before widening of the town ditch. Details
 
 ### Publication date
 
-06 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

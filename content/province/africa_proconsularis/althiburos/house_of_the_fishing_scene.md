@@ -85,7 +85,8 @@ Severian period (IIIrd c.).
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication date
-1 OCT 2020
+
+21 Apr 2021
 
 ### Related articles
 [House of the Muses (Maison des Muses)]({{<relref "house_of_the_muses.md">}})

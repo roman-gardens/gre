@@ -72,7 +72,8 @@ early 5th century CE to ca. 530 CE
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ### Publication date
-16 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

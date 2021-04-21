@@ -98,7 +98,8 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 
 ### Publication date
 
-16 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

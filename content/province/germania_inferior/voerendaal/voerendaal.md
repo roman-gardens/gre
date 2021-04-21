@@ -99,7 +99,8 @@ Early second century CE to ca. 300 CE
 
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

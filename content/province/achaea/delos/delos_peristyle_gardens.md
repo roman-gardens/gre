@@ -78,7 +78,8 @@ Whether the *impluvium* of 30.20 square meters (a) of **House F** in insula II o
 [Monika Trümper](#) (ORCID: [0000-0003-4524-6242](https://orcid.org/0000-0003-4524-6242))
 
 ### Publication date
-3 Dec 2020  
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -82,7 +82,8 @@ The variety of trees and plants cultivated in ancient Delos is known from the ep
 [Monika Trümper](#) (ORCID: [0000-0003-4524-6242](https://orcid.org/0000-0003-4524-6242))
 
 ### Publication date
-3 Dec 2020  
+
+21 Apr 2021
 
 <!--### Related articles-->
 

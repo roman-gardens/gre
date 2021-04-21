@@ -101,7 +101,8 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 ### Publication date
 
-11 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 
