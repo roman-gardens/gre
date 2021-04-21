@@ -6,6 +6,8 @@ author: Christian Casey
 draft: true
 ---
 
+### Garden Description <!-- HACK! Needed to make the summary display correctly. -->
+
 # First!
 
 This is a test page to check on the implementation of the blog feature in preparation for our upcoming beta launch on April 15, 2021.

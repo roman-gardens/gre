@@ -1,5 +1,5 @@
 ---
-title: "II.iii.4-6"
+title: "II.3.4-6"
 date: 2020-11-29T10:54:29-07:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -21,17 +21,13 @@ tags:
 ## Province
 [Italia]({{<relref "../../../..">}})
 
-## Location
-
-[Pompeii]({{<relref "..">}}) \
-[Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
-<!--### Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
+### Location Description
+An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-Region II
-
+[Region II]({{<relref ".">}})
+## Insula
+[Insula II]({{<relref "#">}})
 
 ## House
 [II.iii.4-6](https://pleiades.stoa.org/places/998787235)

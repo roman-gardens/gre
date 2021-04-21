@@ -1,5 +1,5 @@
 ---
-title: "II.viii.2-3"
+title: "II.8.2-3"
 date: 2020-12-10T00:10:10-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -57,7 +57,7 @@ Customers at this thermopolium were served at a counter looking onto the street 
 Excavated 1953.
 
 ### Bibliography
-* Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.92 [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Jashemski, W.F. 1993. *Gardens of Pompeii*, vol.II, p.92 [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Orr, David. G. 1972. *Roman Domestic Religion: A Study of the Roman Household Deities and their Shrines at Pompeii and Herculaneum* [(worldcat)](http://www.worldcat.org/oclc/644432540)
 
 
