@@ -95,7 +95,8 @@ ca. 100 CE - late 4th century CE
 
 ### Publication date
 
-08 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

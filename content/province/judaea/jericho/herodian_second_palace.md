@@ -124,7 +124,8 @@ The  low wing of the palace (Fig 8, AK) incorporated the two Hasmonean swimming 
 
 ### Publication date
 
-09 October 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

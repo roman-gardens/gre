@@ -105,7 +105,8 @@ Unspecified
 [Blanc-Bijon, Véronique](link) (WorldCat Identities: [lccn-nb99006585](http://www.worldcat.org/identities/lccn-nb99006585/))
 
 ### Publication date
-11 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

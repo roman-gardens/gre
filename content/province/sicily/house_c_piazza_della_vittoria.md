@@ -94,7 +94,8 @@ R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, p. 127 with re
 
 
 ### Publication date
-1 OCT 2020
+
+21 Apr 2021
 
 
 <!--### Related articles-->

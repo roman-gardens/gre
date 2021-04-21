@@ -54,4 +54,5 @@ This temple site was excavated in 1764-1766 and although, as Jashemski points ou
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
-26 March 2021
+
+21 Apr 2021
