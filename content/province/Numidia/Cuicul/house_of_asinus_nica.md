@@ -98,7 +98,7 @@ The house lacked wide-open views from exedra and from the galleries towards the 
 [Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)
 
 ### Publication date
-
+21 Apr 2021
 <!--07 July 2020-->
 
 <!--### Related articles-->

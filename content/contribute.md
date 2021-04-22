@@ -7,7 +7,7 @@ draft: false
 
 ### Content Corrections/Errors
 
-Please send an email with a description of the error and the url of the page on which it appears to: Kathryn Gleason at <klg16@nyu.edu>
+Please send an email with a description of the error and the url of the page on which it appears to: Kathryn Gleason at <klg16@cornell.edu>
 
 ### Contribute a Garden Entry:
 
