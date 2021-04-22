@@ -22,6 +22,7 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 *Website and Data Structure Design*
 - Christian Casey, ISAW/NYU
 - David M. Ratzan, ISAW/NYU
+- Sebastian Heath, ISAW/NYU
 
 *Mapping*
 - [Keith Jenkins](https://guides.library.cornell.edu/prf.php?account_id=9255), Cornell University, GIS mapping
