@@ -1,5 +1,5 @@
 ---
-title: "II.iii.7/9"
+title: "II.3.7/9"
 date: 2020-11-29T10:54:29-07:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -49,9 +49,7 @@ This garden restaurant was strategically located across from the Palaestra. This
 
 ### Bibliography
 - Jashemski, Wilhelmina F, 1979. *The Gardens of Pompeii, Herculaneum, and the Villas Destroyed by Vesuvius,* New Rochelle: Aristide D. Caratzas, 1:176.  [worldcat](http://www.worldcat.org/oclc/884024123)
-
 - Jashemski, Wilhelmina F, 1993. *The Gardens of Pompeii, Herculaneum, and the Villas Destroyed by Vesuvius, vol.II*, p. 85. [worldcat](http://www.worldcat.org/oclc/769881162)
-
 - Della, Corte M. 1954. *Case Ed Abitanti Di Pompei. Pompei-scavi:*. [worldcat](http://www.worldcat.org/oclc/878618392)
 
 
@@ -70,7 +68,8 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
 ### Publication date
-6 March 2021
+
+21 Apr 2021
 
 <!--### Related articles-->
 

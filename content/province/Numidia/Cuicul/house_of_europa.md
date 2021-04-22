@@ -101,7 +101,7 @@ Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century
 [Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)
 
 ### Publication date
-
+21 Apr 2021
 <!--07 July 2020-->
 
 <!--### Related articles-->

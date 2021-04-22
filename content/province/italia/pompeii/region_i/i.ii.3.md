@@ -44,11 +44,11 @@ The small viridarium at the rear of the house had narrow, slightly raised beds a
 
 ### Bibliography
 
-Fiorelli, G. 1875. *Descrizione di Pompei*, p. 37 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)  
-Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 21 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
-Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 76   
-Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 10  
-Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, plate no.12.
+* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 37 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)  
+* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 21 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 76   
+* Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 10  
+* Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, plate no.12.
 
 <!--#### Periodo ID-->
 
@@ -68,7 +68,8 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
 ### Publication date
-13 March 2021
+
+21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->
 
 <!-- DATE -->

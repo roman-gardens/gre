@@ -86,7 +86,8 @@ fourth century CE
 [Catherine Kearns](#) and [Maureen Carroll](#)
 
 ### Publication date
-3 December 2020  
+
+21 Apr 2021
 
 <!--### Related articles-->
 

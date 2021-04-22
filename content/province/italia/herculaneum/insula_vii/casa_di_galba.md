@@ -74,4 +74,5 @@ Ruggiero, *Ercolano*, p. 663 [(worldcat)](http://www.worldcat.org/oclc/469320995
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
-20 October 2020
+
+21 Apr 20210

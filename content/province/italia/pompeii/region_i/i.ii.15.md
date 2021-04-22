@@ -43,10 +43,10 @@ This humble house was excavated in 1873. It had no garden but the [impluvium](ht
 
 ### Bibliography
 
-Fiorelli, G. 1875. *Descrizione di Pompei*, p. 42 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)   
-Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 22  [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
-Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 12  
-Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*
+* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 42 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)   
+* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 22 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+* Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 12  
+* Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*
 
 <!--#### Periodo ID-->
 
@@ -66,6 +66,7 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
 ### Publication date
-13 March 2021
+
+21 Apr 2021
 
 <!-- DATE -->

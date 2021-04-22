@@ -3,7 +3,7 @@ title: "Herodium Lower Garden Complex"
 date: 2020-07-11T11:20:32-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
-author: Kathryn Gleason
+author: Ehud Netzer and Kathryn Gleason
 editor: Yaniv Korman
 draft: false
 
@@ -106,13 +106,15 @@ A limited examination of the courtyard area by K. Gleason in December 1985 suppo
 
 ### Contributor
 
+[Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
+
 [Kathryn L. Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)
 ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378) \
-[Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
 
 ### Publication date
 
-09 October 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

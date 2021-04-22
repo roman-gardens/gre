@@ -102,7 +102,8 @@ Late first century CE until the fourth century CE.
 
 ### Publication date
 
-24 July 2020
+
+21 Apr 2021
 
 ### Related articles
 

@@ -108,4 +108,5 @@ Opening off of the *triclinium* to the S was a smaller area enclosed by a portic
 
 ### Publication date
 
-13 November 2020
+
+21 Apr 2021

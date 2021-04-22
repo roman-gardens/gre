@@ -5,7 +5,7 @@ province_id:
 article_id: ARTICLE_ID
 author: Kathryn Gleason
 editor: Leigh-Ann Bedal and Jane Millar
-draft: false
+draft: true
 
 categories:
  - "Arabia Petraea"
@@ -114,7 +114,8 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 <!-- [name](https://....) -->
 
 ### Publication date
-15 Apr 2021
+
+21 Apr 2021
 
 <!--### Related articles-->
 

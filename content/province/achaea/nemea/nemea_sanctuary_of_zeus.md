@@ -104,7 +104,8 @@ Trees were still standing in the 2nd century A.D. when Pausanias visited Nemea.
 
 ### Publication date
 
-27 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

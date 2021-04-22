@@ -57,7 +57,7 @@ House of the Priest Amandus.
 
 ### Garden Description
 
-One step above the level of the [triclinium](http://vocab.getty.edu/page/aat/300004359) of this small house with an irregular floor plan was a [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029) garden. It was to the west of the [atrium](http://vocab.getty.edu/page/aat/300004097) and enclosed on the north and east by a [portico](http://vocab.getty.edu/page/aat/300004145). Five [columns](http://vocab.getty.edu/page/aat/300001571) supported the [portico](http://vocab.getty.edu/page/aat/300004145) and two engaged [columns](http://vocab.getty.edu/page/aat/300001571) on the west wall continued the order of the [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029). A large tree root cavity (the cast measures 0.80 x 0.82) indicated that the garden was well shaded and nail holes in the wall would suggest that vines had been trained to grow in that area. A large window located in the room to the west gave a view into the garden. A puteal was located over the [cistern](http://vocab.getty.edu/page/aat/300052558) opening in the northwest corner of the [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029) and another puteal was additionally found in the garden as well as a *cartibulum* ([tables](http://vocab.getty.edu/page/aat/300039548)) decorated on one side with lions heads and a small circular base most likely used for a statuette. A [lararia](http://vocab.getty.edu/page/aat/300400600)] on the west wall consisted of an [aedicules](http://vocab.getty.edu/page/aat/300002574) façade with an arched niche.
+One step above the level of the [triclinium](http://vocab.getty.edu/page/aat/300004359) of this small house with an irregular floor plan was a [peristyle](http://vocab.getty.edu/page/aat/300004029) garden. It was to the west of the [atrium](http://vocab.getty.edu/page/aat/300004097) and enclosed on the north and east by a [portico](http://vocab.getty.edu/page/aat/300004145). Five [columns](http://vocab.getty.edu/page/aat/300001571) supported the [portico](http://vocab.getty.edu/page/aat/300004145) and two engaged [columns](http://vocab.getty.edu/page/aat/300001571) on the west wall continued the order of the [peristyle](http://vocab.getty.edu/page/aat/300004029). A large tree root cavity (the cast measures 0.80 x 0.82) indicated that the garden was well shaded and nail holes in the wall would suggest that vines had been trained to grow in that area. A large window located in the room to the west gave a view into the garden. A puteal was located over the [cistern](http://vocab.getty.edu/page/aat/300052558) opening in the northwest corner of the [peristyle](http://vocab.getty.edu/page/aat/300004029) and another puteal was additionally found in the garden as well as a *cartibulum* ([tables](http://vocab.getty.edu/page/aat/300039548)) decorated on one side with lions heads and a small circular base most likely used for a statuette. A [lararia](http://vocab.getty.edu/page/aat/300400600) on the west wall consisted of an [aedicules](http://vocab.getty.edu/page/aat/300002574) façade with an arched niche.
 
 <!--### Maps-->
 
@@ -89,12 +89,12 @@ Excavated 1912 and 1924.
 
 ### Bibliography
 
-Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 25, no. 39.  
-Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, p. 30. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)  
-Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, pp. 37-38. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
-Maiuri, A. 1939. *NSc*, pp. 26-27 and fig. 1 (plan) on p. 4.  
-Maiuri, A. 1939. *Pompeii*, p. 112. [(worldcat)](http://www.worldcat.org/oclc/470375462)   
-Maiuri, A. 1961. *“I giardini,” In Le Vie d’Italia*, p. 1138, no. 9.  
+* Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 25, no. 39.  
+* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, p. 30. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)  
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, pp. 37-38. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+* Maiuri, A. 1939. *NSc*, pp. 26-27 and fig. 1 (plan) on p. 4.  
+* Maiuri, A. 1939. *Pompeii*, p. 112. [(worldcat)](http://www.worldcat.org/oclc/470375462)   
+* Maiuri, A. 1961. *“I giardini,” In Le Vie d’Italia*, p. 1138, no. 9.  
 
 <!--#### Periodo ID-->
 
@@ -114,7 +114,8 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
 
-07 April 2021
+
+21 Apr 2021
 
 <!--### Related articles-->
 

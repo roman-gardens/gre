@@ -84,7 +84,8 @@ The house is dated from the Ist century A.D.
 [Véronique Blanc-Bijon](link) (ORCID: [unknown](orcid LINK))
 
 ### Publication date
-1 OCT 2020
+
+21 Apr 2021
 
 ### Related articles
 [House of the Bust of Marcus Aurelius (Maison du Buste de Marc Aurèle)]({{<relref "house_of_the_bust_of_marcus_aurelius.md">}})

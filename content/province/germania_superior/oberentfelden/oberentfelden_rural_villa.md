@@ -101,7 +101,8 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 
 ### Publication date
 
-17 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -5,7 +5,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Győző Vörös
 editor: Yaniv Korman
-draft: true
+draft: false
 
 categories:
  - "Judaea"
@@ -110,7 +110,8 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 ### Publication date
 
-09 October 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

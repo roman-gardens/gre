@@ -5,7 +5,7 @@ province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: M. Barbara Reeves
 editor: Jane Millar and Leigh-Ann Bedal
-draft: true
+draft: false
 
 categories:
  - "Arabia Petraea"
@@ -81,7 +81,8 @@ A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely dam
 <!-- [name](https://....) -->
 
 ### Publication date
-15 Apr 2021
+
+21 Apr 2021
 
 <!--### Related articles-->
 

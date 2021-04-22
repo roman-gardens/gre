@@ -60,7 +60,6 @@ NEW WAY ↓↓↓↓
 {{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
 
 <!--### Plans
 
@@ -79,7 +78,7 @@ Excavated 1912, 1926 to 1927.
 ### Bibliography
 
 Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 36, 395. [(worldcat)](http://www.worldcat.org/oclc/921816405).    
-Maiuri, A. 1929. *NSc*, pp. 414-415 and fig. 26 (plan) on p. 401.  
+Maiuri, A. 1929. *NSc*, pp. 414-415 and fig. 26 on p. 401.  
 
 <!--#### Periodo ID-->
 
@@ -99,7 +98,8 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
 
-02 April 2021
+
+21 Apr 2021
 
 <!--### Related articles-->
 

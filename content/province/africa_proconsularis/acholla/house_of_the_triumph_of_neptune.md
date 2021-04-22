@@ -90,7 +90,8 @@ Another possible garden was adjacent to the reception room of the northern aisle
 [Véronique Blanc-Bijon](link) (ORCID: [unknown](orcid LINK))
 
 ### Publication date
-1 OCT 2020
+
+21 Apr 2021
 
 ### Related articles
 [House of Asinus Rufinus (Maison d'Asinus Rufinus)]({{<relref "house_of_asinus_rufinus.md">}})

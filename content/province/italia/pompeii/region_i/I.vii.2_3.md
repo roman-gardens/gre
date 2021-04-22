@@ -45,8 +45,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Garden Description
 
-A very small garden was located in the light well at the rear of the [atrium](http://vocab.getty.edu/page/aat/300004097). The small raised garden (about 0.50 m. high) had a tiny semicircular pool fed by roof water. Three marble bases (0.16 x 0.21 m.) were most likely place at the edge of the [pool]( http://vocab.getty.edu/page/aat/300375619). A garden [painting](http://vocab.getty.edu/page/aat/300033644) adorned the wall behind [pool]( http://vocab.getty.edu/page/aat/300375619). This was the painting of a garden [fence](http://vocab.getty.edu/page/aat/300005044) and a slender, footed [fountain](http://vocab.getty.edu/page/aat/300006179) before it. The water jets have attracted a peacock and two small birds that are perched on the rim. The elaborate plant motif on the foot of the [fountain](http://vocab.getty.edu/page/aat/300006179) suggested to Maiuri that the artist was depicting a bronze fountain rather than a marble one. A dense thicket painted behind the [fence](http://vocab.getty.edu/page/aat/300005044)
- has small fruit, the blossom ends are clearly visible, with white myrtle blossoms mixed with the foliage. Jashemski differs with Maiuri’s description of this as an oleander thicket with blossoms and berries; as she points out that oleander has elongated pods as opposed to round berries. The east wall was yellow with plants painted on it, but only the north panel survived, and nothing remains of the work on the west and north walls.
+A very small garden was located in the light well at the rear of the [atrium](http://vocab.getty.edu/page/aat/300004097). The small raised garden (about 0.50 m. high) had a tiny semicircular pool fed by roof water. Three marble bases (0.16 x 0.21 m.) were most likely place at the edge of the [pool]( http://vocab.getty.edu/page/aat/300375619). A garden [painting](http://vocab.getty.edu/page/aat/300033644) adorned the wall behind [pool]( http://vocab.getty.edu/page/aat/300375619). This was the painting of a garden [fence](http://vocab.getty.edu/page/aat/300005044) and a slender, footed [fountain](http://vocab.getty.edu/page/aat/300006179) before it. The water jets have attracted a peacock and two small birds that are perched on the rim. The elaborate plant motif on the foot of the [fountain](http://vocab.getty.edu/page/aat/300006179) suggested to Maiuri that the artist was depicting a bronze fountain rather than a marble one. A dense thicket painted behind the [fence](http://vocab.getty.edu/page/aat/300005044) has small fruit, the blossom ends are clearly visible, with white myrtle blossoms mixed with the foliage. Jashemski differs with Maiuri’s description of this as an oleander thicket with blossoms and berries; as she points out that oleander has elongated pods as opposed to round berries. The east wall was yellow with plants painted on it, but only the north panel survived, and nothing remains of the work on the west and north walls.
 
 <!--### Maps-->
 
@@ -77,22 +76,20 @@ NEW WAY ↓↓↓↓
 ### Dates
 Excavated 1911 and 1923.
 
-#### Excavation Date
-
 
 ### Bibliography
 
-Della Corte, M. *Case ed abitanti di Pompei*, p. 313.  
-Grimal, P. *Les jardins Romaines*, p. 446, no. 4.  
-Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, p. 60 and fig. 97 on p. 60. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)    
-Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, p. 37. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
-Maiuri, A. 1927. *NSc*, pp. 8, 11 and fig. 1 (plan) on p. 4.  
-Maiuri, A. 1939. *Pompeii*, pp. 2, 112. [(worldcat)](http://www.worldcat.org/oclc/470375462)  
-Maiuri, A. 1937. *Monumenti della pittura antica scoperti in italia*, sec. 3. [(worldcat)](https://www.worldcat.org/title/monumenti-della-pittura-antica-scoperti-in-italia-3-pompei-12-le-pitture-della-casa-del-citarista/oclc/635056420)  
-*PPP*, p. 55.  
-Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 30.  
-Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, see large plan at back of book.  [(worldcat)](http://www.worldcat.org/oclc/883858580)
-Warscher, T. 1942. *Flora Pompeiana*, p. 24.   
+* Della Corte, M. *Case ed abitanti di Pompei*, p. 313.  
+* Grimal, P. *Les jardins Romaines*, p. 446, no. 4.  
+* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, p. 60 and fig. 97 on p. 60. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)    
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, p. 37. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+* Maiuri, A. 1927. *NSc*, pp. 8, 11 and fig. 1 (plan) on p. 4.  
+* Maiuri, A. 1939. *Pompeii*, pp. 2, 112. [(worldcat)](http://www.worldcat.org/oclc/470375462)  
+* Maiuri, A. 1937. *Monumenti della pittura antica scoperti in italia*, sec. 3. [(worldcat)](https://www.worldcat.org/title/monumenti-della-pittura-antica-scoperti-in-italia-3-pompei-12-le-pitture-della-casa-del-citarista/oclc/635056420)  
+* *PPP*, p. 55.  
+* Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 30.  
+* Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, see large plan at back of book. [(worldcat)](http://www.worldcat.org/oclc/883858580)
+* Warscher, T. 1942. *Flora Pompeiana*, p. 24.   
 
 
 <!--#### Periodo ID-->
@@ -113,7 +110,8 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
 
-07 April 2021
+
+21 Apr 2021
 
 <!--### Related articles-->
 

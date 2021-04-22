@@ -110,7 +110,8 @@ In a second stage, in the first century, a bath complex [5] with an open-air esp
 [Emilie Chassillan](link)
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

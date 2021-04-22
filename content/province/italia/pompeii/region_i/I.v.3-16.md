@@ -35,14 +35,13 @@ Hospitium garden, possibly planted in antiquity.
 
 ### Keywords
 
-- [archaeological garden](#)
 - [lararia](http://vocab.getty.edu/page/aat/300400600)
 - [stables (animal housing)](http://vocab.getty.edu/page/aat/300005015)
 - [troughs (containers)](http://vocab.getty.edu/page/aat/300220971)
 
 ### Garden Description
 
-This site had been destroyed in antiquity and probably had been a *hospitium*. Excavated in 1874, the remains of a watering trough for animals and a stable were uncovered. Often demolished sites were planted but it could not be determined if there was vegetation present at the time of the eruption. The west wall contained an arched *lararium* niche.
+This site had been destroyed in antiquity and probably had been a *hospitium*. Excavated in 1874, the remains of a watering [trough](http://vocab.getty.edu/page/aat/300220971) for animals and a [stable](http://vocab.getty.edu/page/aat/300005015) were uncovered. Often demolished sites were planted but it could not be determined if there was vegetation present at the time of the eruption. The west wall contained an arched [lararium](http://vocab.getty.edu/page/aat/300400600) niche.
 
 <!--### Maps-->
 
@@ -93,7 +92,8 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
 
-31 March 2021
+
+21 Apr 2021
 
 <!--### Related articles-->
 

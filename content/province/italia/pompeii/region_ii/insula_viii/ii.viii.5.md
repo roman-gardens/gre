@@ -1,5 +1,5 @@
 ---
-title: "II.viii.5"
+title: "II.8.5"
 date: 2020-12-10T00:10:10-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -35,6 +35,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula VIII]({{<relref "#">}})
 
+## Garden
+Caupona with small bath.
+
 ### Keywords
  - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
  - [cauponae](http://vocab.getty.edu/page/aat/300005208)
@@ -66,4 +69,5 @@ Excavated 1954.
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
-9 March 2021
+
+21 Apr 2021
