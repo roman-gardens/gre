@@ -1,5 +1,13 @@
 /* the styles in this file will override the theme styles */
 
+a:hover {
+  text-decoration: underline;
+}
+
+.menu__link:hover {
+  text-decoration: none;
+}
+
 .widget-taglist__link {
   text-transform: none;
   margin: 0 0.8em 0 0;
