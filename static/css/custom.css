@@ -1,0 +1,5 @@
+/* the styles in this file will override the theme styles */
+
+.widget-taglist__link {
+  text-transform: none;
+}
