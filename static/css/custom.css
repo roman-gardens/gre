@@ -2,4 +2,5 @@
 
 .widget-taglist__link {
   text-transform: none;
+  margin: 0 0.8em 0 0;
 }
