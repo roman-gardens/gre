@@ -1,7 +1,7 @@
 ---
 title: "Tomb Painting in Chester"
 date: 2020-07-08T08:58:47-04:00
-latlon: [ 55.025875, -2.139793 ]
+latlon: [ 53.1884, -2.8877 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
