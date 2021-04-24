@@ -61,8 +61,8 @@ Cicero set the scene in *De finibus* [(5.1.3)](http://data.perseus.org/citations
 
 ### Bibliography
 
-* E. Vanderpool, “The museum and garden of the peripatetics,” *ArchEphemeris*, 1953-1954, pt. 2: 126-28.
-* M. Carroll-Spillecke, “The gardens of Greece from Homeric to Roman times,” *Journal of Garden History* 12.2, 1992: 91.
+* E. Vanderpool, “The museum and garden of the peripatetics,” *Archaiologikē Ephemeris,* 1953-1954, pt. 2: 126-28. [(worldcat)](http://www.worldcat.org/oclc/646185402).
+* M. Carroll-Spillecke, “The gardens of Greece from Homeric to Roman times,” *Journal of Garden History* 12.2, 1992: 91. [(worldcat)](http://www.worldcat.org/oclc/4898050192).
 
 #### Pleiades ID
 

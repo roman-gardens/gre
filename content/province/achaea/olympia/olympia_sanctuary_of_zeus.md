@@ -48,8 +48,8 @@ Sanctuary of Zeus
 - [Literary](#)
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
 - [sacred groves](http://vocab.getty.edu/page/aat/300251876)
-- [plane trees (Platanus orientalis)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:685873-1)
-- [wild olives (Olea oleaster)](http://powo.science.kew.org/taxon/610760-1)
+- [plane trees (*Platanus orientalis*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:685873-1)
+- [wild olives (*Olea oleaster*)](http://powo.science.kew.org/taxon/610760-1)
 
 ### Garden Description
 

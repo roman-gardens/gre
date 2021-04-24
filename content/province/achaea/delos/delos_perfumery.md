@@ -55,13 +55,13 @@ The so-called **perfumery** was equipped with a Rhodian peristyle (e), an open *
 1st c. BCE
 
 ### Bibliography
-- A. Plassart, “Fouilles de Délos exécutées aux frais de M. Le Duc de Loubat (1912-1913). Quartier d’habitations privées à l’est du stade,” *BCH* 40, 1916:166-175.
-- P. Bruneau, *Recherches sur les cultes de Délos à l’époque hellénistique et à l’époque impériale.* BEFAR 217, 1970.
-- P. Bruneau and J. Ducat, *Guide de Délos. École française d Athènes.* 4th edition, Paris 2005, Nos. 79, 117, 124.
-- M. Trümper, *Wohnen in Delos. Eine baugeschichtliche Untersuchung zum Wandel der Wohnkultur in hellenistischer Zeit.* Internationale Archäologie 46, Rahden/Westfalen 1998: 262-265, 317-318, figs. 59. 62, plan I.
-- J.-P. Brun, “Laudatissimum fuit antiquitus in Delo insula: La Maison IB du Quartier du stade et la production des parfums à Délos,” *BCH* 123, 1999:87-155.
-- J.-P. Brun, "The Production of Perfumes in Antiquity: The Cases of Delos and Paestum." *AJA* 104(2), 2000: 277–308. [(JSTOR)](https://www.jstor.org/stable/507452)
-- M. Trümper, “Negotiating Religious and Ethnic Identity: the Case of Clubhouses in Late Hellenistic Delos,” in ed. I. Nielsen, *Zwischen Kult und Gesellschaft. Kosmopolitische Zentren des antiken Mittelmeerraums als Aktionsraum von Kultvereinen und Religionsgemeinschaften. Akten eines Symposiums des Archäologischen Instituts der Universität Hamburg (12.-14. Oktober 2005).* Hephaistos 24, 2006, pp. 113-150.
+- A. Plassart, “Fouilles de Délos exécutées aux frais de M. Le Duc de Loubat (1912-1913). Quartier d’habitations privées à l’est du stade,” *BCH* 40, 1916: 166-175. [(Persée)](https://www.persee.fr/doc/bch_0007-4217_1916_num_40_1_1477).
+- P. Bruneau, *Recherches sur les cultes de Délos à l’époque hellénistique et à l’époque impériale.* BEFAR 217, 1970. [(worldcat)](http://www.worldcat.org/oclc/2349270).
+- P. Bruneau and J. Ducat, *Guide de Délos. École française d Athènes.* 4th edition, Paris 2005, Nos. 79, 117, 124. [(worldcat)](http://www.worldcat.org/oclc/884638358).
+- M. Trümper, *Wohnen in Delos. Eine baugeschichtliche Untersuchung zum Wandel der Wohnkultur in hellenistischer Zeit.* Internationale Archäologie 46, Rahden/Westfalen 1998: 262-265, 317-318, figs. 59. 62, plan I. [(worldcat)](http://www.worldcat.org/oclc/722868070).
+- J.-P. Brun, “Laudatissimum fuit antiquitus in Delo insula: La Maison IB du Quartier du stade et la production des parfums à Délos,” *BCH* 123, 1999: 87-155. [(Persée)](https://www.persee.fr/doc/bch_0007-4217_1999_num_123_1_7212).
+- J.-P. Brun, "The Production of Perfumes in Antiquity: The Cases of Delos and Paestum." *AJA* 104(2), 2000: 277–308. [(JSTOR)](https://www.jstor.org/stable/507452).
+- M. Trümper, “Negotiating Religious and Ethnic Identity: the Case of Clubhouses in Late Hellenistic Delos,” in ed. I. Nielsen, *Zwischen Kult und Gesellschaft. Kosmopolitische Zentren des antiken Mittelmeerraums als Aktionsraum von Kultvereinen und Religionsgemeinschaften. Akten eines Symposiums des Archäologischen Instituts der Universität Hamburg (12.-14. Oktober 2005).* Hephaistos 24, 2006, pp. 113-150. [(worldcat)](http://www.worldcat.org/oclc/233697152).
 
 
 <!--#### Periodo ID-->
@@ -75,7 +75,7 @@ The so-called **perfumery** was equipped with a Rhodian peristyle (e), an open *
 [7011273 (Dhílos,island)](http://vocab.getty.edu/page/tgn/7011273)
 
 ### Contributor
-[Monika Trümper](#) (ORCID: [0000-0003-4524-6242](https://orcid.org/0000-0003-4524-6242))
+Monika Trümper (ORCID: [0000-0003-4524-6242](https://orcid.org/0000-0003-4524-6242))
 
 ### Publication date
 

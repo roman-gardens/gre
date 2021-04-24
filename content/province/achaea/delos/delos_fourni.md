@@ -59,12 +59,12 @@ The core building of the **House of Fourni** is arranged along a main axis with 
 1st c. BCE
 
 ### Bibliography
-- P. Bruneau, *Recherches sur les cultes de Délos à l’époque hellénistique et à l’époque impériale.* BEFAR 217, 1970.
-- P. Bruneau, *Les mosaïques.* Exploration archéologique de Délos 29. Paris 1972.
-- C. Le Roy, “Le tracé et le plan d’une villa hellénistique. La maison de Fourni à Délos,” in *Le dessin d’architecture dans les sociétés antiques. Actes du Colloque de Strasbourg, 26-28 janvier 1984.* Travaux du Centre de Recherche sur le Proche Orient et la Grèce Antiques 8, 1985:167-173, pl. 1.
-- P. Bruneau and J. Ducat, *Guide de Délos. École française d Athènes.* 4th edition, Paris 2005, Nos. 79, 117, 124.
-- M. Trümper, *Wohnen in Delos. Eine baugeschichtliche Untersuchung zum Wandel der Wohnkultur in hellenistischer Zeit.* Internationale Archäologie 46, Rahden/Westfalen 1998: 262-265, 317-318, figs. 59. 62, plan I.
-- M. Trümper, “Negotiating Religious and Ethnic Identity: the Case of Clubhouses in Late Hellenistic Delos,” in ed. I. Nielsen, *Zwischen Kult und Gesellschaft. Kosmopolitische Zentren des antiken Mittelmeerraums als Aktionsraum von Kultvereinen und Religionsgemeinschaften. Akten eines Symposiums des Archäologischen Instituts der Universität Hamburg (12.-14. Oktober 2005).* Hephaistos 24, 2006, pp. 113-150.
+- P. Bruneau, *Recherches sur les cultes de Délos à l’époque hellénistique et à l’époque impériale.* BEFAR fasc. 217, 1970. [(worldcat)](http://www.worldcat.org/oclc/2349270).
+- P. Bruneau, *Les mosaïques.* Exploration archéologique de Délos 29. Paris 1972. [(worldcat)](http://www.worldcat.org/oclc/602911335).
+- C. Le Roy, “Le tracé et le plan d’une villa hellénistique. La maison de Fourni à Délos,” in *Le dessin d’architecture dans les sociétés antiques. Actes du Colloque de Strasbourg, 26-28 janvier 1984.* Travaux du Centre de Recherche sur le Proche Orient et la Grèce Antiques 8, 1985: 167-173, pl. 1. [(worldcat)](http://www.worldcat.org/oclc/185422654).
+- P. Bruneau and J. Ducat, *Guide de Délos. École française d Athènes.* 4th edition, Paris 2005, Nos. 79, 117, 124. [(worldcat)](http://www.worldcat.org/oclc/884638358).
+- M. Trümper, *Wohnen in Delos. Eine baugeschichtliche Untersuchung zum Wandel der Wohnkultur in hellenistischer Zeit.* Internationale Archäologie 46, Rahden/Westfalen 1998: 262-265, 317-318, figs. 59. 62, plan I. [(worldcat)](http://www.worldcat.org/oclc/722868070).
+- M. Trümper, “Negotiating Religious and Ethnic Identity: the Case of Clubhouses in Late Hellenistic Delos,” in ed. I. Nielsen, *Zwischen Kult und Gesellschaft. Kosmopolitische Zentren des antiken Mittelmeerraums als Aktionsraum von Kultvereinen und Religionsgemeinschaften. Akten eines Symposiums des Archäologischen Instituts der Universität Hamburg (12.-14. Oktober 2005).* Hephaistos 24, 2006, pp. 113-150. [(worldcat)](http://www.worldcat.org/oclc/233697152).
 
 
 <!--#### Periodo ID-->
@@ -78,7 +78,7 @@ The core building of the **House of Fourni** is arranged along a main axis with 
 [7011273 (Dhílos,island)](http://vocab.getty.edu/page/tgn/7011273)
 
 ### Contributor
-[Monika Trümper](#) (ORCID: [0000-0003-4524-6242](https://orcid.org/0000-0003-4524-6242))
+Monika Trümper (ORCID: [0000-0003-4524-6242](https://orcid.org/0000-0003-4524-6242))
 
 ### Publication date
 
