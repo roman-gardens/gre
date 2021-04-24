@@ -9,6 +9,9 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tags:
+- "domus"
+
 ---
 
 ## Province
@@ -16,12 +19,12 @@ categories:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 <!-- DESCRIPTION -->
 
 
 ## Location
-
+[UTHINA (Oudna)]({{<relref ".">}}) \
 [UTHINA (Oudna) Tunisia(Pleiades)](https://pleiades.stoa.org/places/315247)
 
 ### Location Description
@@ -45,7 +48,8 @@ House of Baklouti (Maison de Baklouti)
 
 ### Keywords
 
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [niches](http://vocab.getty.edu/page/aat/300002704)
 
 ### Garden Description
@@ -58,7 +62,8 @@ The peristyle garden enclosed by a portico on four sides had a long basin, which
 <!--### Maps-->
 
 
-<!--### Plans-->
+### Plans
+{{< figure src="../images/#" alt="Fig.1: Plan of the House of baklouti" title="Fig.1: Plan of the House of baklouti (right statement)." >}}
 
 
 <!--### Images-->
@@ -70,8 +75,8 @@ Unspecified
 
 ### Bibliography
 
-* H. Baklouti, "*Une fouille à Uthina, rapport préliminaire*", in REPPAL, 1997, 10, p. 17-34. [(worldcat)](http://www.worldcat.org/oclc/494721439)
-* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003, p.333-334. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Baklouti, H., "Une fouille à Uthina, rapport préliminaire", in *Série REPPAL, Revue des Etudes Phéniciennes-PuniAFRICA, Série REPPAL, Revue des Etudes Phéniciennes-Puniques et des Antiquités Libyques ques et des Antiquités Libyques*, 1997, 10, p. 17-34. [(worldcat)](http://www.worldcat.org/oclc/494721439)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.333-334. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 #### Pleiades ID
 
@@ -82,7 +87,7 @@ Unspecified
 [7024022](http://vocab.getty.edu/page/tgn/7024022)
 
 ### Contributor
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X)
+[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication date
 
