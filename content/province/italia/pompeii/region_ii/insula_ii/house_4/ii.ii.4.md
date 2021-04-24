@@ -1,7 +1,7 @@
 ---
 title: "II.2.4 House of Messius Ampliatus"
 date: 2020-11-29T10:54:29-07:00
-latlon: [ 41.251480, 13.449332 ]
+latlon: [ 40.7517, 14.4925 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
