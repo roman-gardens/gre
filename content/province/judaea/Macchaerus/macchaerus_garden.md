@@ -1,6 +1,7 @@
 ---
 title: "Macchaerus Southern Courtyard"
 date: 2020-07-11T11:20:32-04:00
+latlon: [ 31.870046, 35.443876 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Győző Vörös

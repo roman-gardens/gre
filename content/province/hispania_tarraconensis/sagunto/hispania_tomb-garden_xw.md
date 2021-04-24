@@ -1,6 +1,7 @@
 ---
 title: "Tomb garden and baths of P. Caecil(ius) Rufus and Valeria "
 date: 2020-11-2
+latlon: [ 39.678125, -0.277247 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel

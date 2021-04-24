@@ -1,6 +1,7 @@
 ---
 title: "House of the Labors of Hercules (La maison des travaux d'Hercules)"
 date: 2020-10-01T10:00:00-04:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek

@@ -1,6 +1,7 @@
 ---
 title: "House of the Bust of Marcus Aurelius"
 date: 2020-10-01T07:38:05-07:00
+latlon: [ 36.838512, 11.115794 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_UNKONWN

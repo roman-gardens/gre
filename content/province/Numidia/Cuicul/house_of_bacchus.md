@@ -1,6 +1,7 @@
 ---
 title: "House of Bacchus, building south of the Great Baths (Maison de Bacchus, édifice au sud des Grands Thermes)"
 date: 2020-12-20T10:00:00-04:00
+latlon: [ 36.317690, 5.736683 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Michèle Blanchard-Lemée

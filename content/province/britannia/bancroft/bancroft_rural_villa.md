@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Bancroft"
 date: 2020-07-07T18:04:20-04:00
+latlon: [ 52.055419, -0.795092 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

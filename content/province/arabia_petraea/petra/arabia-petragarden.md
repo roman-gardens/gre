@@ -1,6 +1,7 @@
 ---
 title: "Petra Garden and Pool Complex"
 date: 2020-10-08T10:30-04:00
+latlon: [ 30.675715, 34.826660 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Leigh-Ann Bedal

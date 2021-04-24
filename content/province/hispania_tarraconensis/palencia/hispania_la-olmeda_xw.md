@@ -1,6 +1,7 @@
 ---
 title: "La Olmeda  "
 date: 2020-11-2
+latlon: [ 42.482035, -4.736989 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID

@@ -2,6 +2,7 @@
 article-type: "province"
 title: "I.6.8-9"
 date: 2021-04-02T09:43:48+01:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner

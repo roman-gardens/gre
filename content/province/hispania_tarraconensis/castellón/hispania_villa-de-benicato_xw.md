@@ -1,6 +1,7 @@
 ---
 title: "Villa de Benicató"
 date: 2020-11-2
+latlon: [ 39.832943, -0.14602 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID

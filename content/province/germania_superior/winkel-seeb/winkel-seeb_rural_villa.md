@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Winkel-Seeb"
 date: 2020-07-20T10:34:59-04:00
+latlon: [ 47.493253, 8.548345 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

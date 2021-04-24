@@ -1,6 +1,7 @@
 ---
 title: "Peristyle Gardens in the Quarter of the Theater"
 date: 2020-10-25T10:30-04:00
+latlon: [ 37.392022, 25.270238 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Monika Trümper

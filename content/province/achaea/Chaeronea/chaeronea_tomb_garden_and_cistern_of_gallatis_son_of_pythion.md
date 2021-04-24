@@ -1,6 +1,7 @@
 ---
 title: "Tomb Garden and Cistern of Gallatis, Son of Pythion"
 date: 2020-07-26T10:33:06-04:00
+latlon: [ 38.493967, 22.841425 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

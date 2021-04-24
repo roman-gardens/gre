@@ -1,6 +1,7 @@
 ---
 title: "House of Bacchus and Ariadne (Maison de Bacchus et Ariane)"
 date:
+latlon: [ 36.400355, 9.903990 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski

@@ -1,6 +1,7 @@
 ---
 title: "Casa dell’Atrio Corontio"
 date: 2020-09-29T12:00:02-05:00
+latlon: [ 40.805843, 14.348058 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski

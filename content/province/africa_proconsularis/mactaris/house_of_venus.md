@@ -1,6 +1,7 @@
 ---
 title: "House of Venus (Maison de Venus)"
 date: 2020-10-06T10:39:31-07:00
+latlon: [ 35.853198, 9.206544 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski

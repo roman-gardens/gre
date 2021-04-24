@@ -1,6 +1,7 @@
 ---
 title: "Large House with peristyle and basins"
 date: 2020-11-16T10:00:00-04:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek

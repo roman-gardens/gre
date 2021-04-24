@@ -2,6 +2,7 @@
 article-type: "province"
 title: "Hercules Musarum"
 date: 2021-04-04T10:00:00-07:00
+latlon: [ 41.891775, 12.486137 ]
 province_id: PROVINCE_ID
 author: E.R. Macaulay and Linda Anderson
 editor: Joshua Rosenheim and Rhiannon Paré

@@ -1,6 +1,7 @@
 ---
 title: "Villa at Luna"
 date: 2020-12-10T12:00:02-05:00
+latlon: [ 44.1159, 9.8214 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Annalisa Marzano

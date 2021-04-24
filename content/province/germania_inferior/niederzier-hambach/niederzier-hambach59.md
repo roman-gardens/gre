@@ -1,6 +1,7 @@
 ---
 title: "Niederzier Hambach 59"
 date: 2020-07-12T10:55:45-07:00
+latlon: [ 50.897592, 6.445 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

@@ -2,6 +2,7 @@
 article-type: "province"
 title: "II.6.7 Park Area adjacent to the Great Palaestra and the Amphitheater"
 date: 2021-03-09T08:45:49Z
+latlon: [ 40.7511, 14.49449]
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner

@@ -1,6 +1,7 @@
 ---
 title: "Park Area Adjacent to the Great Palaestra and the Amphitheater"
 date: 2020-12-10T00:10:10-04:00
+latlon: [ 40.75089, 14.49466 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski

@@ -1,6 +1,7 @@
 ---
 title: "The gardens at the entrance of Hadrian's villa (Fig. 1, n. 3)"
 date: 2020-12-14T21:15:00-08:00
+latlon: [ 41.942937, 12.774304 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti

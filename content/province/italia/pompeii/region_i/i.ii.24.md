@@ -2,6 +2,7 @@
 article-type: "province"
 title: "I.2.24 Officina Libraria"
 date: 2021-03-14T17:13:29Z
+latlon: [ 40.750870, 14.493866 ]
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner

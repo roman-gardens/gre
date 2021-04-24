@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Eccles"
 date: 2020-07-08T17:53:24-04:00
+latlon: [ 51.318926, 0.479999 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

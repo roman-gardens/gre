@@ -1,6 +1,7 @@
 ---
 title: "The Belvedere of the Venus of Cnidus (Fig. 1, n. 11)"
 date: 2020-12-14T21:15:00-08:00
+latlon: [ 41.944649, 12.774798 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti

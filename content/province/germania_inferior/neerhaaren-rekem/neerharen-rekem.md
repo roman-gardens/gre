@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa at Neerhaaren-Rekem"
 date: 2020-07-12T10:54:58-07:00
+latlon: [ 50.907583, 5.686724 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

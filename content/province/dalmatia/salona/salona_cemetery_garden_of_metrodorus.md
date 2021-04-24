@@ -1,6 +1,7 @@
 ---
 title: "Cemetery Garden of Metrodorus"
 date: 2020-07-15T10:10:26-04:00
+latlon: [ 43.539561, 16.483426 ]
 article_id: ARTICLE_ID
 author: John Bodel
 editor: Christian Casey

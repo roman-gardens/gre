@@ -2,6 +2,7 @@
 article-type: "province"
 title: "Domus Aurea"
 date: 2021-03-16T23:02:04-07:00
+latlon: [ 41.891244, 12.495403 ]
 province_id: PROVINCE_ID
 author: E.R. Macaulay and Linda Anderson
 editor: Joshua Rosenheim and Rhiannon Paré

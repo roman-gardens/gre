@@ -2,6 +2,7 @@
 article-type: "province"
 title: "Domus Tiberiana"
 date: 2021-04-08T02:45:17+02:00
+latlon: [ 41.889306, 12.487109 ]
 province_id: PROVINCE_ID
 author: M.-A. Tomei and E.R. Macaulay
 editor: Rhiannon Paré

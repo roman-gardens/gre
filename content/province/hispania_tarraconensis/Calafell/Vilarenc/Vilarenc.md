@@ -1,6 +1,7 @@
 ---
 title: "Vilarenc"
 date: 2020-10-18T12:40:31-13:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Clopper Almon

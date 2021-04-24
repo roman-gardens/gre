@@ -2,6 +2,7 @@
 article-type: "province"
 title: "I.4.5/25 House of the Citharist"
 date: 2021-03-19T09:31:01Z
+latlon: [ 40.750870, 14.493866 ]
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner

@@ -1,6 +1,7 @@
 ---
 title: "Casa del Rivievo di Telefo (Insula or. I.2-3)"
 date: 2020-09-30T00:10:10-04:00
+latlon: [ 40.805843, 14.348058 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
