@@ -1,14 +1,18 @@
 ---
-title: "House of the Viridarium (Maison du viridarium à niches)"
+title: "House of the Viridarium with Niches (Maison du viridarium à niches)"
 date: 2020-10-06T10:39:31-07:00
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
 editor: Xue Xia
-draft: true
+draft: false
 
 categories:
   - "Africa Proconsularis"
+tags:
+ - "domus"
+ - "peristyle houses"
+ - "niches"
 ---
 
 ## Province
@@ -16,16 +20,18 @@ categories:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
 
 [Pupput]({{<relref ".">}}) \
 [Pupput (Pleiades)](https://pleiades.stoa.org/places/315121)
 
+{{< figure src="../images/city_plan_house_of_the_viridarium_with_niches.jpg" alt="Plan of the residential quarters (Th. Leroy)" title="Plan of the residential quarters (Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)" >}}
+
 ### Location Description
 
-Pupput is located about three km to the northwest of Hammamed. Two inscriptions inform the designated title of the city, which became a colony (*Colonia Aurelia Commoda Pia Felix Augusta Pupput*) under the reign of Commodus. The city benefited from a strategic location at the crossroads linking Clupea to Thhuburbo and Carthage to Hadrumetum. Large residential quarters with houses and baths were excavated as well as a large necropolis.
+Pupput is located about three km to the northwest of Hammamet. Two inscriptions inform the designated title of the city, which became a colony (*Colonia Aurelia Commoda Pia Felix Augusta Pupput*) under the reign of Commodus. The city benefited from a strategic location at the crossroads linking Clupea to Thhuburbo and Carthage to Hadrumetum. Large residential quarters with houses and baths were excavated as well as a large necropolis.
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -41,12 +47,12 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- DESCRIPTION -->
 
 ## Garden
-House of the Viridarium (Maison du viridarium à niches)
+House of the Viridarium with Niches (Maison du viridarium à niches)
 
 ### Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [niches](http://vocab.getty.edu/page/aat/300002704)
 
 ### Garden Description
  The house was located in the W neighborhood of the ancient city of Pupput and in present day lies in the precinct of a hotel, the construction of which badly damaged the house (Plan view, Fig.1).
@@ -60,23 +66,24 @@ House of the Viridarium (Maison du viridarium à niches)
 -->
 
 ### Plans
-{{< figure src="../images/AFR_Pup_Hv_Amalek.jpg" alt="Plan of the House of the Viridarium at Pupput; rights statement" title="Fig. 1: Plan of the House of the Viridarium. (Rights statement)" >}}
+{{< figure src="../images/house_of_the_viridarium_with_niches.jpg" alt="Plan of the House of the Viridarium with Niches; Ben Abed Ben Khader, A., 2006" title="Fig. 1: Plan of the House of the Viridarium with Niches (Ch. Peirce, from Ben Abed Ben Khader, A., 1994, Pl. CLXXI)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images
-
+{{< figure src="../images/photo_of_the_viridarium_with_niches.jpg" alt="Photograph of the garden; from Ben Abed Ben Khader, fig. 9, p. 521" title="Fig. 2: Photograph of the garden (from Ben Abed Ben Khader, 2006, fig. 9, p. 521)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates
-Unspecified
+4th century CE
 
 ### Bibliography
-* A. Ben Abed “Mosaïques de la maison du *viridarium* à niches à Pupput (Tunisie)”, *CMGR IV*, p.265-271, Pl. CLXXI, Amplissimae, p.197-198. [(worldcat)](http://www.worldcat.org/oclc/949085959)
-* Bullo, S. and F. Ghedini, Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman, Rome: Edizioni Quasar, 2003, p. 197-198. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Ben Abed Ben Khader, A., “Mosaïques de la maison du *viridarium* à niches à Pupput (Tunisie)”, in *CMGR IV*, 1994, pp.265-271, Pl. CLXXI. [(worldcat)](http://www.worldcat.org/oclc/949085959)
+* Ben Abed Ben Khader, A., "Les maisons de Pupput (Tunisie)", in *Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres*, 150ᵉ année, N. 1, 2006. pp. 518-522, fig. 8, p. 519, fig. 9, p. 521. [(worldcat)](http://www.worldcat.org/oclc/859686146)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 197-198. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 
 <!--#### Periodo ID-->
