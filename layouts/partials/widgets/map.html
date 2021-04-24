@@ -5,17 +5,7 @@
 <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
         integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
         crossorigin=""></script>
-
-<!-- Icons -->
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/leaflet.extra-markers.min.css">
-<script src="js/leaflet.extra-markers.min.js"></script>
-
-<style>
-    .fa-icon-marker {
-        text-align: center;
-        width: 100%;
-    }
-</style>
+<script src="{{ .Site.BaseURL }}leaflet-tilelayer-colorfilter.min.js"></script>
 <div class="widget-taglist widget">
 	<h4 class="widget__title">Map</h4>
 	<div class="widget__content">
@@ -25,12 +15,20 @@
 		    map = L.map('map').setView([40, 17], 3);
 		    markers = [];
 				bounds = L.latLngBounds();
-		    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-		        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+		    L.tileLayer.colorFilter('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+		        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            filter: [
+                'brightness: 100%',
+                'contrast: 100%',
+                'saturation: 50%',
+                'opacity: 100%',
+                'sepia: 10%'
+            ]
 		    }).addTo(map);
         var div_circle = L.divIcon({ className: 'dot' });
 				{{ $points := slice . }}
-        {{ if eq .Dir "\\" }}
+        {{ if eq (replaceRE "\\\\" "/" .Dir ) "/" }}
           {{ $points = .Site.RegularPages }}
         {{ else }}
   				{{ with .RegularPagesRecursive }}
