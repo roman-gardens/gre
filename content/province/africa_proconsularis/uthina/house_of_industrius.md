@@ -1,5 +1,5 @@
 ---
-title: "House of Icarios (Maison d'Icarios)"
+title: "House of Industrius (Maison d'Industrius)"
 date: 2020-09-29T09:49:36-04:00
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -42,7 +42,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Garden
 
-House of Icarios (Maison d'Icarios)
+House of Industrius (Maison d'Industrius)
 
 ### Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
@@ -53,8 +53,7 @@ House of Icarios (Maison d'Icarios)
 
 ### Garden Description
 
-This richly decorated house is considered as one of the most remarkable domus of Africa (Plan view, Fig.1). Twenty-four Corinthian columns that may have reached 3m high, supported a portico on four sides. On the North, the South and the West, the peristyle is surrounded by rooms and apartments, some with their own colonnaded courtyards paved with mosaics (pseudo-atria). The Eastern portico, because of the declivity of the land was constructed on vaults. It probably opened on the exterior by a colonnade that allowed the visitor to admire the sea, the mountains and the valley of Oued Zaghouan. A small wooden fence enclosed the garden except in front of the vestibule and the oecus, from the vestibule one could traverse the garden and enter the oecus, without having to use the porticoes. At a later phase these entries were closed by a basin and cistern. The garden had in its center a rectangular basin, of which only the foundation was found.
-
+Located to the Southeast of the amphitheater, this house was laid out around a peristyle garden of 10 columns that connected by a low wall. A semicircular basin extended into the garden on the NE facing the reception room.
 
 
 
