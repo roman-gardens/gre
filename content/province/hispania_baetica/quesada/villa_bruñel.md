@@ -1,6 +1,7 @@
 ---
 title: "Villa Bruñel"
 date: 2020-10-15T10:00:00-04:00
+latlon: [ 37.885309, -3.079082 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: (AUTHOR_ID)

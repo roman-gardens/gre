@@ -1,6 +1,7 @@
 ---
 title: "The garden on the back"
 date: 2020-11-07T10:54:29-07:00
+latlon: [ 41.625, 12.375 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: SALZA PRINA RICOTTI

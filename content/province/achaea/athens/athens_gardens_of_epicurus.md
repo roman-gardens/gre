@@ -1,6 +1,7 @@
 ---
 title: "Garden of Epicurus"
 date: 2020-07-20T11:34:30-04:00
+latlon: [ 37.972633, 23.722746 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

@@ -1,6 +1,7 @@
 ---
 title: "Palace nymphaeum (Fig. 1, n. 16)"
 date: 2020-12-14T21:15:00-08:00
+latlon: [ 41.940994, 12.778615 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti

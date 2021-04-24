@@ -1,6 +1,7 @@
 ---
 title: "Villa at Borgellusa di Avola"
 date: 2020-10-01T11:30:00-05:00
+latlon: [ 37.069402, 15.276704 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Roger Wilson

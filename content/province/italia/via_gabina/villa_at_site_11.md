@@ -1,6 +1,7 @@
 ---
 title: "villa at site 11"
 date: 2020-11-29T10:54:29-07:00
+latlon: [ 41.890683, 12.632573 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Walter Widrig

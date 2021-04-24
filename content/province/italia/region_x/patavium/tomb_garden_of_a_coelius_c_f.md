@@ -1,6 +1,7 @@
 ---
 title: "Tomb garden of A. Coelius C. f."
 date: 2020-12-10T12:00:02-05:00
+latlon: [ 45.4071, 11.8698 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel

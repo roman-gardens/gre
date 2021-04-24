@@ -1,6 +1,7 @@
 ---
 title: "Gymnasia and Groves"
 date: 2020-07-16T09:47:21-04:00
+latlon: [ 37.974031, 23.743349 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

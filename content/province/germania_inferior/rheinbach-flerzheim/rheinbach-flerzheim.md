@@ -1,6 +1,7 @@
 ---
 title: "Rustic villa at Rheinbach-Flerzheim"
 date: 2020-07-12T10:57:12-07:00
+latlon: [ 51.606474, 5.794368 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

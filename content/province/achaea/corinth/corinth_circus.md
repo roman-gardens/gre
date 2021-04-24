@@ -1,6 +1,7 @@
 ---
 title: "The Circus of Roman Corinth"
 date: 2020-07-16T09:50:29-04:00
+latlon: [ 37.900814, 22.895986 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: David Gilman Romano

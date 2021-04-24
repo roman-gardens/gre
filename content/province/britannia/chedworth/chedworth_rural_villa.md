@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Chedworth"
 date: 2020-07-08T08:19:06-04:00
+latlon: [ 51.819999, -1.924458 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

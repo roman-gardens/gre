@@ -1,6 +1,7 @@
 ---
 title: "The Garden of the Piazza d'Oro (Fig. 1, n. 20)"
 date: 2020-12-14T21:15:00-08:00
+latlon: [ 41.941305, 12.778279 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti

@@ -1,6 +1,7 @@
 ---
 title: "Altar of the Twelve Gods"
 date: 2020-07-26T10:20:19-04:00
+latlon: [ 37.97572, 23.722662 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

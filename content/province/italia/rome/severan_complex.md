@@ -2,6 +2,7 @@
 article-type: "province"
 title: "The Severan Complex"
 date: 2021-04-08T02:47:32+02:00
+latlon: [ 36.320991, 5.736361 ]
 province_id: PROVINCE_ID
 author: M.-A. Tomei
 editor: Rhiannon Paré

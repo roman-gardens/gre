@@ -2,6 +2,7 @@
 article-type: "province"
 title: "I.6.7 Fullonica of Stephanus"
 date: 2021-04-02T09:35:43+01:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner

@@ -2,6 +2,7 @@
 article-type: "province"
 title: "House of Augustus"
 date: 2021-04-04T00:37:34+02:00
+latlon: [ 41.889306, 12.487109 ]
 province_id: ITALIA
 author: M.-A. Tomei
 editor: Rhiannon Paré

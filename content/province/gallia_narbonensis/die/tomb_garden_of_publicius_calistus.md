@@ -1,6 +1,7 @@
 ---
 title: "Tomb garden of Publicius Calistus"
 date: 2020-12-14T00:08:52-00:00
+latlon: [ 42.439512, 3.176623 ]
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yvette Pollack

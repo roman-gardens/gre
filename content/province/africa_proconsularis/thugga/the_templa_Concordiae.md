@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary B, the templa Concordiae"
 date: 11-10-20
+latlon: [ 36.422473, 9.218866 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski, Amina-Aïcha Malek

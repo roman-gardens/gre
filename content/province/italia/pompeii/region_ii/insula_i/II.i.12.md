@@ -2,6 +2,7 @@
 article-type: "province"
 title: "II.i.12 (House of the Birii; House of the Sibyl)"
 date: 2021-02-21T12:38:47Z
+latlon: [ 40.750870, 14.493866 ]
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner

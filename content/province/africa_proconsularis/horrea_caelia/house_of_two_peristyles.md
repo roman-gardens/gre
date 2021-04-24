@@ -1,6 +1,7 @@
 ---
 title: "House of two peristyles (Maison aux deux péristyles)"
 date: 2020-10-06T10:39:31-07:00
+latlon: [ 36.023752, 10.517062 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek

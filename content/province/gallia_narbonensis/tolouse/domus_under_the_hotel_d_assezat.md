@@ -1,6 +1,7 @@
 ---
 title: "Domus under the Hôtel d’Assézat"
 date: 2020-09-29T21:13:02-00:00:00
+latlon: [ 43.600353, 1.441875 ]
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu

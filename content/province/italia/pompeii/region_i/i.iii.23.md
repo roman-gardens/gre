@@ -2,6 +2,7 @@
 article-type: "province"
 title: "I.3.23 House of Actius Anicetus"
 date: 2021-03-18T11:14:26Z
+latlon: [ 40.750870, 14.493866 ]
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner

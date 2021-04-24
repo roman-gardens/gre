@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Zeus"
 date: 2020-07-27T08:52:42-04:00
+latlon: [ 37.637939, 21.630256 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

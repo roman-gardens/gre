@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Demeter and Persephone"
 date: 2020-07-26T12:42:23-04:00
+latlon: [ 37.984037, 22.712222 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

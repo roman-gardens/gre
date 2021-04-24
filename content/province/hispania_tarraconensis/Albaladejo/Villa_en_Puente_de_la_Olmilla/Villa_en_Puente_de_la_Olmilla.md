@@ -1,6 +1,7 @@
 ---
 title: "Villa en Puente de la Olmilla"
 date: 2020-10-08T10:39:31-07:00
+latlon: [ 38.602777, -2.765277 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Clopper Almon

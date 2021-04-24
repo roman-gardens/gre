@@ -1,6 +1,7 @@
 ---
 title: "Palace of the Giants"
 date: 2020-07-16T09:46:53-04:00
+latlon: [ 37.974611, 23.722431 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

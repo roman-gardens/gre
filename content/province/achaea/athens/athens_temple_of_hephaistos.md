@@ -1,6 +1,7 @@
 ---
 title: "Temple of Hephaistos"
 date: 2020-07-16T09:49:38-04:00
+latlon: [ 37.975646, 23.721409 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

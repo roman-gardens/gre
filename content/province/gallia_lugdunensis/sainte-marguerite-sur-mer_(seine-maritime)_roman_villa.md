@@ -1,6 +1,7 @@
 ---
 title: "Roman Villa"
 date: 2020-12-08T10:39:31-07:00
+latlon: [ 49.024342, 1.151012 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID

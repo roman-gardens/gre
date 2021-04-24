@@ -1,6 +1,7 @@
 ---
 title: "Neoplatonic School Near the Areopagus"
 date: 2020-07-20T11:39:30-04:00
+latlon: [ 37.972372, 23.723371 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

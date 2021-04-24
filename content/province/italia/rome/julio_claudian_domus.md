@@ -2,6 +2,7 @@
 article-type: "province"
 title: "The Garden of the Julio-Claudian Domus"
 date: 2021-04-04T21:57:59+02:00
+latlon: [ 41.889306, 12.487109 ]
 province_id: ITALIA
 author: Jean-Paul Morel
 editor: Rhiannon Paré

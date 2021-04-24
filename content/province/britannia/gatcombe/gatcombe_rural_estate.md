@@ -1,6 +1,7 @@
 ---
 title: "Rural Estate in Gatcombe"
 date: 2020-07-10T15:13:29-04:00
+latlon: [ 51.437167, -2.67623 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
