@@ -86,6 +86,7 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 
 * J. Travlos, *Bildlexikon zur Topographie des antiken Athen,* Tübingen, 1971, pp. 42-51, 180F, 181L, 340-341, 345-347, 579, figs. 59-62. [(worldcat)](http://www.worldcat.org/oclc/1024546553)
 * M. Carroll-Spillecke, *Κήπος. Der antike griechische Garten.* Wohnen in der klassischen Polis 3, Munich, 1989, pp. 28-29.[(worldcat)](http://www.worldcat.org/oclc/491757120)
+* M. Carroll-Spillecke, "The gardens of Greece from Homeric to Roman times," *Journal of Garden History* 12, 1992: 91, fig. 13  
 * W. Hoepfner, “Platon’s Akademie. Eine neue Interpretation der Ruinen,” in W. Hoepfner, ed., *Antike Bibliotheken,* Mainz, 2002, pp. 56-62. [(worldcat)](http://www.worldcat.org/oclc/180882710)
 
 <!--#### Periodo ID-->
