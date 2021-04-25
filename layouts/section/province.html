@@ -37,6 +37,12 @@
       {{- if $i -}}, {{ end -}}
       {{ with strings.TrimPrefix $path . }}
       {{ $text := replaceRE "_" " " . | title }}
+      {{ if in $text "Region " }}
+        {{ $text = replaceRE "REGION" "Region" ($text | upper) }}
+      {{ end }}
+      {{ if in $text "Insula " }}
+        {{ $text = replaceRE "insula" "Insula" ($text | lower) }}
+      {{ end }}
       <a href="{{ . | lower }}/">{{ $text }}</a>
       {{- end -}}
     {{ end }}
