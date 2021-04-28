@@ -32,7 +32,7 @@ Palatine Hill \
 <!-- -->
 <!-- -->
 <!-- -->
-## Garden
+### Garden
 
 Garden of the Severan Complex, Palatine
 <!-- -->
@@ -49,13 +49,20 @@ Garden of the Severan Complex, Palatine
 <!-- -->
 The most visible remains from this period are a massive series of substructure [arcades](http://vocab.getty.edu/page/aat/300002580) along the slope of the [Palatine](https://en.wikipedia.org/wiki/Palatine_Hill) overlooking the [Circus Maximus](https://www.digitalaugustanrome.org/records/circus-maximus). It had been considered that this area was a  [*thermae*](https://en.wikipedia.org/wiki/Thermae), a bath complex, from the time of [Septimius Severus](https://en.wikipedia.org/wiki/Septimius_Severus), but recent excavations and studies have shown at least part to have been occupied by the Domitianic building phase. Until the time of [Maxentius](https://en.wikipedia.org/wiki/Maxentius), who built baths, this private wing of the palace was intended for *otium* and open-air promenades and was embellished with vast areas of gardens, [pools](http://vocab.getty.edu/page/aat/300008692) and [fountains](http://vocab.getty.edu/page/aat/300006179).
 <!-- -->
+RELATED SITES OF THE ITALIAN EXCAVATIONS ON THE PALATINE:
+<!-- -->
+[Gardens of the Republican Domus]({{<relref"/palatine_domus.md">}})\
+[Garden of the House of Augustus]({{<relref"/house_of_augustus.md">}})\
+[Garden of the Domus Tiberiana]({{<relref"/Domus_tiberiana.md">}})\
+[Garden of the Neronian Palace]({{<relref"/palace_of_nero.md">}})\
+[Garden of the Domus Flavia]({{<relref"/Domus_flavia.md">}})\
+[Garden of the Domus Augustana]({{<relref"/domus_augustana.md">}})\
+[Garden of the Palatine Stadium]({{<relref"/palatine_stadium.md">}})
+<!-- -->
+<!-- -->
 ### Dates
 
 1st century CE to 4th century CE
-<!-- -->
-#### Excavation Date
-
-unspecified
 <!-- -->
 ### Bibliography
 <!-- -->
