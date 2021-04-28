@@ -1,6 +1,7 @@
 ---
 title: "Urban House on Wolfsstrasse"
 date: 2020-07-12T10:52:13-07:00
+latlon: [ 50.940671, 6.959908 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

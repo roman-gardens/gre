@@ -1,6 +1,7 @@
 ---
 title: "House on the Place des Halles (La maison des Halles)"
 date: 2020-12-08T10:39:31-07:00
+latlon: [ 48.007160, 0.198493 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID

@@ -1,6 +1,7 @@
 ---
 title: "Hispania Baetica"
 date: 2020-10-03T10:00:00-04:00
+latlon: [ 37.317026, -5.060833 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: (AUTHOR_ID)

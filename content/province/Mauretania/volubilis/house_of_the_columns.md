@@ -1,6 +1,7 @@
 ---
 title: "House of the Columns (La maison aux colonnes)"
 date: 2020-11-16T10:00:00-04:00
+latlon: [ 52.055419, -0.795092 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek

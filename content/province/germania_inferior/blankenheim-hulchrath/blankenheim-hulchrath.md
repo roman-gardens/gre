@@ -1,6 +1,7 @@
 ---
 title: "Rustic villa at Blankenheim-Hülchrath"
 date: 2020-07-08T10:39:31-07:00
+latlon: [ 51.606474, 5.794368 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Maureen Carroll

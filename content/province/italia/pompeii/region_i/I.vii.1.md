@@ -1,6 +1,7 @@
 ---
 title: "I.7.1 House of P. Paquius Proculus; House of C. Cuspius Pansa"
 date: 2020-08-08T19:02:52-04:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski

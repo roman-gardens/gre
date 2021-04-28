@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary"
 date: 2020-10-15T10:00:00-04:00
+latlon: [ 37.713343, -5.740734 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: (AUTHOR_ID)

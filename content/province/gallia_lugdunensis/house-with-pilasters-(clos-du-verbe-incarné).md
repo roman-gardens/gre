@@ -1,6 +1,7 @@
 ---
 title: "House with Pilasters (Clos du Verbe Incarné)"
 date: 2020-08-12T10:39:31-07:00
+latlon: [ 45.758866, 4.819481 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID

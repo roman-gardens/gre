@@ -1,6 +1,7 @@
 ---
 title: "House of Sertius (Maison de Sertius)"
 date: 2020-11-13T10:39:31-07:00
+latlon: [ 35.485216, 6.468222 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek

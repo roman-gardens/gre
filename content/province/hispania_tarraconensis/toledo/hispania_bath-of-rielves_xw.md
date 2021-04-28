@@ -1,6 +1,7 @@
 ---
 title: "The so-called “Baths” of Rielves"
 date: 2020-11-2
+latlon: [ 39.960815, -4.192941 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID

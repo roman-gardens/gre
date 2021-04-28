@@ -1,6 +1,7 @@
 ---
 title: "I.ii.15"
 date: 2020-07-25T14:20:01-04:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski

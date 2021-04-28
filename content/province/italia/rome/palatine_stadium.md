@@ -2,6 +2,7 @@
 article-type: "province"
 title: "The Palatine 'Stadium'"
 date: 2021-04-08T02:47:06+02:00
+latlon: [ 41.889306, 12.487109 ]
 province_id: PROVINCE_ID
 author: M.-A. Tomei
 editor: Rhiannon Paré

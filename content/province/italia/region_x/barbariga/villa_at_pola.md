@@ -1,6 +1,7 @@
 ---
 title: "Villa at Pola"
 date: 2020-12-10T12:00:02-05:00
+latlon: [ 45.500780, 10.605182 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Annalisa Marzano

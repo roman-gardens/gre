@@ -1,6 +1,7 @@
 ---
 title: "The Canopus gardens (Fig. 1, n. 2)"
 date: 2020-12-14T21:15:00-08:00
+latlon: [ 41.938472, 12.775940 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti

@@ -2,6 +2,7 @@
 article-type: "province"
 title: "Porticus Liviae"
 date: 2021-03-16T23:53:09-07:00
+latlon: [ 41.891775, 12.486137 ]
 province_id: PROVINCE_ID
 author: E.R. Macaulay and Holly Spoth-Torres
 editor: Joshua Rosenheim and Rhiannon Paré

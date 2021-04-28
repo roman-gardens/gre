@@ -1,6 +1,7 @@
 ---
 title: "Tomb Garden of Q(uintius) Medicus"
 date: 2020-11-29T10:54:29-07:00
+latlon: [ 41.922827, 12.595784 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Paola Olivanti

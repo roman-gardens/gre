@@ -1,6 +1,7 @@
 ---
 title: "Funerary grove of T. Aemilius Vetus"
 date: 2020-07-08T10:39:31-07:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: John Bodel

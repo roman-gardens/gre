@@ -2,6 +2,7 @@
 article-type: "province"
 title: "I.2.28 Casa Della Grata Metallica; Casa Dell’Atrio Tetra-Stilo"
 date: 2021-03-14T17:25:08Z
+latlon: [ 40.750870, 14.493866 ]
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner

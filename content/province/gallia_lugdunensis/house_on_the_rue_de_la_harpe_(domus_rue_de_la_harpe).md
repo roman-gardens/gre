@@ -1,6 +1,7 @@
 ---
 title: "House on the rue de la Harpe ( *Domus* rue de la Harpe)"
 date: 2020-12-08T10:39:31-07:00
+latlon: [ 49.022812, 1.151169 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID

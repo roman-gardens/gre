@@ -1,6 +1,7 @@
 ---
 title: "II.8.6 House of the Garden of Hercules"
 date: 2020-12-10T00:10:10-04:00
+latlon: [ 40.750870, 14.493866 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski

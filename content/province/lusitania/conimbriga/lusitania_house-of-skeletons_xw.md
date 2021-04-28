@@ -1,6 +1,7 @@
 ---
 title: "House of the Skeletons"
 date: 2020-11-2
+latlon: [ 40.099, -8.4933 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Jorge de Alarcão

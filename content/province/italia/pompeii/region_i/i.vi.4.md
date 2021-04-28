@@ -2,6 +2,7 @@
 article-type: "province"
 title: "I.6.4 House of the Lararium; Casa del Larario; Sabello Iliaco"
 date: 2021-04-02T09:07:23+01:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner

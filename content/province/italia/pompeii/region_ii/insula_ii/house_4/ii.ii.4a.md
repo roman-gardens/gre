@@ -1,6 +1,7 @@
 ---
 title: "Peristyle garden in house of Messius Ampliatus (II.ii.4) "
 date: 2020-11-29T10:54:29-07:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski

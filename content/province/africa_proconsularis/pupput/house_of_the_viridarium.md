@@ -1,6 +1,7 @@
 ---
 title: "House of the Viridarium with Niches (Maison du viridarium à niches)"
 date: 2020-10-06T10:39:31-07:00
+latlon: [ 36.392815, 10.562846 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek

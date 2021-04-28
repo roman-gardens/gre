@@ -1,6 +1,7 @@
 ---
 title: "Tomb Garden of Anonymous Gaul in Andematunnum"
 date: 2020-07-13T10:33:04-04:00
+latlon: [ 47.864221, 5.335214 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel

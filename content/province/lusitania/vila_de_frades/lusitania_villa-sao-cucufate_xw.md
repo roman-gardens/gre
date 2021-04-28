@@ -1,6 +1,7 @@
 ---
 title: "Villa Sao Cucufate"
 date: 2020-11-2
+latlon: [ 38.223820, -7.845952 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID

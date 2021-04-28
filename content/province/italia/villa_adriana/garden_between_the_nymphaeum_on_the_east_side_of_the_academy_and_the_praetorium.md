@@ -1,6 +1,7 @@
 ---
 title: "Garden between the nymphaeum on the E side of the Academy and the Praetorium (Fig. 1, n. 24)"
 date: 2020-12-14T21:15:00-08:00
+latlon: [ 41.940614, 12.777282 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti

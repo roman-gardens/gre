@@ -1,6 +1,7 @@
 ---
 title: "Richebourg (Yvelines) villa de"
 date: 2020-12-08T10:39:31-07:00
+latlon: [ 48.445658, 1.485617 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID

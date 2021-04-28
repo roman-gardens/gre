@@ -1,6 +1,7 @@
 ---
 title: "House of the Salsamenta (Usine de salaison)"
 date: 2020-10-06T10:39:31-07:00
+latlon: [ 36.440337, 10.718354 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek, V.Blanc-Bijon
