@@ -7,50 +7,53 @@
         crossorigin=""></script>
 <script src="{{ .Site.BaseURL }}leaflet-tilelayer-colorfilter.min.js"></script>
 <div class="widget-taglist widget">
-	<h4 class="widget__title">Map</h4>
-	<div class="widget__content">
-		<div id='map' class="leaflet-map"></div>
-		<script>
-		    //Create Map
-		    map = L.map('map').setView([40, 17], 3);
-		    markers = [];
-				bounds = L.latLngBounds();
-		    L.tileLayer.colorFilter('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 19,
-		        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-            filter: [
-                'brightness: 100%',
-                'contrast: 100%',
-                'saturation: 50%',
-                'opacity: 100%',
-                'sepia: 10%'
-            ]
-		    }).addTo(map);
-        var div_circle = L.divIcon({ className: 'dot' });
-				{{ $points := slice . }}
-        {{ if eq (replaceRE "\\\\" "/" .Dir ) "/" }}
-          {{ $points = .Site.RegularPages }}
-        {{ else }}
-  				{{ with .RegularPagesRecursive }}
-  				    {{ $points = . }}
-  				{{ end }}
+  <h4 class="widget__title">Map</h4>
+  <div class="widget__content">
+    <div id='map' class="leaflet-map"></div>
+    <script>
+      //Create Map
+      map = L.map('map').setView([40, 17], 3);
+      markers = [];
+      bounds = L.latLngBounds();
+      L.tileLayer.colorFilter('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        filter: [
+          'brightness: 100%',
+          'contrast: 100%',
+          'saturation: 50%',
+          'opacity: 100%',
+          'sepia: 10%'
+        ]
+      }).addTo(map);
+      var div_circle = L.divIcon({ className: 'dot' });
+      {{ $points := slice . }}
+      {{ if eq (replaceRE "\\\\" "/" .Dir ) "/" }}
+        {{ $points = .Site.RegularPages }}
+      {{ else }}
+        {{ with .RegularPagesRecursive }}
+            {{ $points = . }}
         {{ end }}
-    		{{- range $points }}
-  			  	{{ if .Params.latlon }}
-    			    	{{ $lat := index .Params.latlon 0 }}
-		  			    {{ $lon := index .Params.latlon 1 }}
-								{{ if gt $lat 0 }}
-										marker = L.marker([ {{ $lat }}, {{ $lon }} ], { icon: div_circle });
-    								marker.bindPopup("<a href='{{ .Permalink }}'>{{ .Title }}</a>");
-                    marker.addTo(map);
-		    						markers.push(marker);
-				    				bounds.extend(marker.getLatLng());
-								{{ end }}
-		  		  {{ end }}
-  			{{- end }}
-				if (bounds.isValid()) {
-				    map.fitBounds(bounds.pad(0.05));
-				}
-		</script>
-	</div>
+      {{ end }}
+      {{- range $points }}
+        {{ if .Params.latlon }}
+          {{ $lat := index .Params.latlon 0 }}
+          {{ $lon := index .Params.latlon 1 }}
+          {{ if gt $lat 0 }}
+            marker = L.marker([ {{ $lat }}, {{ $lon }} ], { icon: div_circle });
+            marker.bindPopup("<a href='{{ .Permalink }}'>{{ .Title }}</a>");
+            marker.addTo(map);
+            markers.push(marker);
+            bounds.extend(marker.getLatLng());
+          {{ end }}
+        {{ end }}
+      {{- end }}
+      if (bounds.isValid()) {
+        map.fitBounds(bounds.pad(0.05));
+        if (map.getZoom() > 17) {
+          map.setZoom(17);
+        }
+      }
+    </script>
+  </div>
 </div>
