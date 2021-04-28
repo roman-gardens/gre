@@ -20,7 +20,7 @@
       // OpenStreetMap, muted colors
       L.tileLayer.colorFilter('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         minZoom: 0,
-        maxZoom: 19,
+        maxZoom: 18,
         attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
         filter: [
           'brightness: 100%',
@@ -45,10 +45,9 @@
         ]
       }).addTo(map);
 
-      /*
       // Esri World Imagery, lightened
       L.tileLayer.colorFilter('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-        minZoom: 12,
+        minZoom: 19,
         maxZoom: 19,
         attribution: '<a href="https://www.arcgis.com/home/item.html?id=10df2279f9684e4a9f6a7f08febac2a9">Esri</a>',
         filter: [
@@ -60,6 +59,7 @@
         ]
       }).addTo(map);
 
+/*
       // Stamen Toner labels
       L.tileLayer.colorFilter('https://stamen-tiles-{s}.a.ssl.fastly.net/toner-labels/{z}/{x}/{y}{r}.png', {
         minZoom: 12,
@@ -74,7 +74,7 @@
           'invert: 100%'
         ]
       }).addTo(map);
-      */
+*/
 
       <!-- add marker for each garden relevant to the current page -->
       markers = [];
