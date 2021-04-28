@@ -10,23 +10,23 @@ draft: true
 
 ## Province
 
-[ITALIA]({{<relref "..">}})\
-[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
-[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
-
+[Italia]({{<relref "..">}})\
+[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)\
+[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+<!-- -->
 ## Location
 
 [Rome]({{<relref ".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
-
+<!-- -->
 ## Sublocation
 
 Palatine Hill \
 [Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
-
-
-
-## Garden
+<!-- -->
+<!-- -->
+<!-- -->
+### Garden
 
 Garden of the Neronian Palace, Palatine
 
@@ -61,6 +61,18 @@ One may suppose that Nero chose the language of refinement and sumptuousness of 
 Structures known mistakenly as “Livia’s Baths,” still partially preserved under the [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029) of the [*Domus Flavia*](https://en.wikipedia.org/wiki/Flavian_Palace), are attributed to the [*Domus Transitoria*](https://en.wikipedia.org/wiki/Domus_Transitoria). They are imposing and luxurious constructions consisting of a [porticoed](http://vocab.getty.edu/page/aat/300004145) hall with magnificent floors in colored and inlaid [marbles](http://vocab.getty.edu/page/aat/300011443), to a large extent belonging to open areas and connected with gardens. Nearby, excavations have discovered waterproofing systems of low [*suspensurae*](https://en.wikipedia.org/wiki/Suspensura) that are typical of gardens.
 
 What must originally have been an open area with an elaborate [fountain](http://vocab.getty.edu/page/aat/300006179) on one side, adorned with [niches](http://vocab.getty.edu/page/aat/300002704) imitating the architectural forms of a [theater](http://vocab.getty.edu/page/aat/300007117) backdrop ([*scaenae*](http://vocab.getty.edu/page/aat/300004681)), belongs to Neronian constructions. Opposite the fountain was a [pavilion](http://vocab.getty.edu/page/aat/300006819) surrounded by [polychrome]( http://vocab.getty.edu/page/aat/300247962) marble [columns](http://vocab.getty.edu/page/aat/300001571) and [pillars](http://vocab.getty.edu/page/aat/300264605) and marble [basins](http://vocab.getty.edu/page/aat/300045614), perhaps for plantings (Fig. 6). These elements, together with other “stepped” structures for the descent of water, which boldly break up the walls, and [wall paintings](http://vocab.getty.edu/page/aat/300177433), which show connections with widespread themes in gardens, have given rise to the hypothesis that this construction could be a [*diaeta*](https://referenceworks.brillonline.com/entries/brill-s-new-pauly/diaeta-e316370?s.num=11) built in a [terraced](http://vocab.getty.edu/page/aat/300004182) open zone. The presence nearby of a large [cistern](http://vocab.getty.edu/page/aat/300052558) of Neronian date confirms the great need for water in this area at that time.
+<!-- -->
+RELATED SITES OF THE ITALIAN EXCAVATIONS ON THE PALATINE:
+<!-- -->
+[Gardens of the Republican Domus]({{<relref"/palatine_domus.md">}})\
+[Garden of the House of Augustus]({{<relref"/house_of_augustus.md">}})\
+[Garden of the Domus Tiberiana]({{<relref"/Domus_tiberiana.md">}})\
+[Garden of the Domus Flavia]({{<relref"/Domus_flavia.md">}})\
+[Garden of the Domus Augustana]({{<relref"/domus_augustana.md">}})\
+[Garden of the Palatine Stadium]({{<relref"/palatine_stadium.md">}})\
+[Garden of the Severan Complex]({{<relref"/severan_complex.md">}})
+<!-- -->
+<!-- -->
 
 ### Figures
 
@@ -90,5 +102,5 @@ M.-A. Tomei
 
 ### Publication date
 
- 
+
 21 Apr 2021

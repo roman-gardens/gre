@@ -10,9 +10,9 @@ draft: true
 
 ## Province
 
-[ITALIA]({{<relref "..">}})\
-[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
-[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[Italia]({{<relref "..">}})\
+[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)\
+[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 <!-- -->
 ## Location
 
@@ -26,7 +26,7 @@ Palatine Hill \
 <!-- -->
 <!-- -->
 <!-- -->
-## Garden
+### Garden
 
 Garden of the Domus Augustana, Palatine
 <!-- -->
@@ -60,6 +60,18 @@ Upper Peristyle
 
 In the upper peristyle garden in the middle of a large rectangular [pool](http://vocab.getty.edu/page/aat/300008692) with a highly articulated edge stood a small [temple](http://vocab.getty.edu/page/aat/300007595) on a [podium](http://vocab.getty.edu/page/aat/300000976) (Fig. 10), which could be reached by means of a little bridge supported on arches (Fig. 11). Contiguous to this peristyle was a series of rooms with non-rectilinear plans, among which were a [porticoed](http://vocab.getty.edu/page/aat/300004145) [*diaeta*](https://referenceworks.brillonline.com/entries/brill-s-new-pauly/diaeta-e316370?s.num=11) and water gardens. These elements lent the upper peristyle the characteristics of an idyllic-sacral space, where the plantings occupy the areas between the temple and the surrounding structures, which had open forms such as [*loggias*](http://vocab.getty.edu/page/aat/300004137), [terraces](http://vocab.getty.edu/page/aat/300004182), [*exedrae*](http://vocab.getty.edu/page/aat/300081589), and splendid [statues](http://vocab.getty.edu/page/aat/300047600) and works of art (fountains, basins, [herms](http://vocab.getty.edu/page/aat/300047170)
  etc.) in precious [marbles](http://vocab.getty.edu/page/aat/300011443).
+ <!-- -->
+ RELATED SITES OF THE ITALIAN EXCAVATIONS ON THE PALATINE:
+ <!-- -->
+ [Gardens of the Republican Domus]({{<relref"/palatine_domus.md">}})\
+ [Garden of the House of Augustus]({{<relref"/house_of_augustus.md">}})\
+ [Garden of the Domus Tiberiana]({{<relref"/Domus_tiberiana.md">}})\
+ [Garden of the Neronian Palace]({{<relref"/palace_of_nero.md">}})\
+ [Garden of the Domus Flavia]({{<relref"/Domus_flavia.md">}})\
+ [Garden of the Palatine Stadium]({{<relref"/palatine_stadium.md">}})\
+ [Garden of the Severan Complex]({{<relref"/severan_complex.md">}})
+ <!-- -->
+ <!-- -->
 
 ### Figures
 
@@ -87,5 +99,5 @@ M.-A. Tomei
 
 ### Publication date
 
- 
+
 21 Apr 2021

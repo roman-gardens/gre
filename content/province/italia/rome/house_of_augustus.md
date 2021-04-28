@@ -10,22 +10,23 @@ draft: true
 
 ## Province
 
-[ITALIA]({{<relref "..">}})\
-[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
-[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
-
+[Italia]({{<relref "..">}})\
+[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)\
+[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+<!-- -->
 ## Location
+
 [Rome]({{<relref ".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
-
+<!-- -->
 ## Sublocation
 
 Palatine Hill \
 [Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
-
-
-
-## Garden
+<!-- -->
+<!-- -->
+<!-- -->
+### Garden
 
 Garden of the House of Augustus, Palatine
 
@@ -54,6 +55,18 @@ A significant element confirming the diffusion and refinement of the art of gard
 In the [House of Livia](https://parcocolosseo.it/en/marvels/the-house-of-livia/), an apartment within Augustus’ dwelling, wall paintings in the right [*ala*](http://vocab.getty.edu/page/aat/300004055) show rows of columns, between which are festoons laden with leaves, fruit tied by ribbons, and various hanging objects associated with and used in the countryside (Fig. 3). In the same room, the elegant frieze in monochrome yellow with lively open-air scenes against a background of countryside and buildings is a lovely example of landscape painting. In the paintings of the so-called [*Triclinium*](http://vocab.getty.edu/page/aat/300004359)), painted landscape elements are seen amidst thick trees, meadows, lakes and animals.
 
 Finally, both the inventor of the [*ars topiaria*](https://en.wikipedia.org/wiki/Topiary), the art of shaping plants into varied forms by trimming their foliage, [C. Matius](https://en.wikipedia.org/wiki/Gaius_Matius), whom Pliny defines as  "divi Augusti amicus" (*HN*, 12,1 3), and the inventor of garden painting, Studius (or Ludius) (Pliny *HN*, 35.16; Vitr., VII.5.2), were active during the Augustan period, thereby strengthening a connection between the emperor and garden spaces.
+<!-- -->
+RELATED SITES OF THE ITALIAN EXCAVATIONS ON THE PALATINE:
+<!-- -->
+[Gardens of the Republican Domus]({{<relref"/palatine_domus.md">}})\
+[Garden of the Domus Tiberiana]({{<relref"/Domus_tiberiana.md">}})\
+[Garden of the Neronian Palace]({{<relref"/palace_of_nero.md">}})\
+[Garden of the Domus Flavia]({{<relref"/Domus_flavia.md">}})\
+[Garden of the Domus Augustana]({{<relref"/domus_augustana.md">}})\
+[Garden of the Palatine Stadium]({{<relref"/palatine_stadium.md">}})\
+[Garden of the Severan Complex]({{<relref"/severan_complex.md">}})
+<!-- -->
+<!-- -->
 
 ### Dates
 
