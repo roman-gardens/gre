@@ -2,7 +2,7 @@
 
 title: "VIII.2.3. House of Championnet II"
 date: 2021-03-22T00:10:10-04:00
-latlon: [ 0, 0 ]
+latlon: [ 40.74842, 14.48479 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
