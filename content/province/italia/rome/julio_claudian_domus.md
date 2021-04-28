@@ -61,6 +61,7 @@ The *domus* of the Vigna Barberini was included in [Nero's](https://www.britanni
 <!-- -->
 OTHER PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
+[Vigna Barberini]({{<relref"/vigna_barberini.md">}})\
 [Garden of the Flavian Imperial Palace]({{<relref"/flavian_imperial_palace.md">}})\
 [Garden of the Temple of Elagabalus]({{<relref"/temple_of_elagabalus.md">}})
 <!-- -->
@@ -76,7 +77,7 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
 ### Bibliography
 <!-- -->
-* J.-P Morel and F. Villedieu, “Le site de la Vigna Barberini à l’époque néronienne”, *Actes du VIe congrès international Neronia VI, Rome à l’époque néronienne* (Roma 19-23 mai 1999), in press. [(worldcat)](http://www.worldcat.org/oclc/51441167)
+* J.-P Morel and F. Villedieu, “Le site de la Vigna Barberini à l’époque néronienne”, *Actes du VIe congrès international Neronia VI, Rome à l’époque néronienne* (Roma 19-23 Mai 1999). [(worldcat)](http://www.worldcat.org/oclc/51441167)
 * J.-P Morel, “Una ricca domus con giardino in età giulio-claudia” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 33-43. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
 <!-- -->
 #### Pleiades ID
@@ -85,7 +86,7 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
 ### Contributor
 
-Jean-Paul Morel
+Jean-Paul Morel\
 Françoise Villedieu
 <!-- -->
 ### Publication date

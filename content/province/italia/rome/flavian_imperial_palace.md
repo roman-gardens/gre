@@ -51,7 +51,7 @@ Garden of the Flavian Imperial Palace, Palatine
 <!-- -->
 ### Garden Description
 <!-- -->
-During the period of Domitian (81-96 CE) a large artificial platform with massive substructures at the north, east and west was completed at the site of the [Vigna Barberini](https://it.wikipedia.org/wiki/Vigna_Barberini). On this platform stood a large structure with a curvilinear plan at the south, and with [colonnaded](http://vocab.getty.edu/page/aat/300002613) aisles on the east and west (the north is not excavated) that enclosed a vast garden (Figs. 1-2).  Over one-third of this garden area has been partly explored, another third was irrevocably destroyed when the later [*Temple of Elagabalus*](https://en.wikipedia.org/wiki/Elagabalium) was built, and the final third, at the north, remains to be excavated.
+During the period of Domitian (81-96 CE) a large artificial platform with massive substructures at the north, east and west was completed at the site of the [Vigna Barberini](https://it.wikipedia.org/wiki/Vigna_Barberini). On this platform stood a large structure with a curvilinear plan at the south, and with [colonnaded](http://vocab.getty.edu/page/aat/300002613) aisles on the east and west (the north is not excavated) that enclosed a vast garden (Figs. 1-2).  Over one-third of this garden area has been partly explored, another third was irrevocably destroyed when the later [Temple of Elagabalus](https://en.wikipedia.org/wiki/Elagabalium) was built, and the final third, at the north, remains to be excavated.
 
 Only a few elements of the ancient garden were found in place.  In particular, a large rectangular basin (measuring 8.70 meters by 5.30 meters), ornamented with alternating rectangular and semi-circular [niches](http://vocab.getty.edu/page/aat/300002704) faced in marble, was on axis with the center of the curved [façade](http://vocab.getty.edu/page/aat/300002526).  Shortly after construction, settling of the soil used to create the artificial [terrace](http://vocab.getty.edu/page/aat/300004182) caused a rapid degradation of the whole northern section of the garden. During Hadrian’s reign, refurbishment and re-construction was undertaken, the results of which lasted up to the end of the second century CE. This second phase is better recorded than the first, but it is possible that care was taken to preserve at least some trees of the Flavian period.
 
@@ -69,6 +69,7 @@ All through the 2nd century, a series of refurbishments took place that aimed to
 <!-- -->
 OTHER PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
+[Vigna Barberini]({{<relref"/vigna_barberini.md">}})\
 [Garden of the Peristyle of the Julio-Claudian *Domus*]({{<relref"/julio_claudian_domus.md">}})\
 [Garden of the Temple of Elagabalus]({{<relref"/temple_of_elagabalus.md">}})
 <!-- -->
@@ -108,7 +109,7 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
 ### Contributor
 <!-- -->
-Jean-Paul Morel
+Jean-Paul Morel\
 Françoise Villedieu
 <!-- -->
 ## Publication date
