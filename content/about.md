@@ -27,7 +27,7 @@ GRE invites all scholars and the general public to explore the new beta site and
 
 ## Open linked data
 
-GRE adopts [open linked data](https://en.wikipedia.org/wiki/Linked_data#Linked_open_data) approaches whenever it can.
+GRE adopts [open linked data](https://en.wikipedia.org/wiki/Linked_data#Linked_open_data) approaches whenever it can. All of the data associated with the GRE site is free and openly available to the public in our [github repository](https://github.com/roman-gardens/gre).
 
 [more...]({{<ref "open-linked-data/">}})
 
