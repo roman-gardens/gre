@@ -65,6 +65,7 @@ summaryLength = 10000
 twitter_cards = true
 images = ["images/landing-page-map-1.png"]
 customCSS = ["css/custom.css"]
+highlightColor = "#c22d30"
 
 [Params.logo]
 title = "GARDENS of the ROMAN EMPIRE"

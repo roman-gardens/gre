@@ -8,7 +8,7 @@
   <header class="main__header">
     <h1 class="main__title">
       {{ range $i, $dir := $dirs }}
-        {{ if ne 0 $i }} / {{ end }}
+        {{ if ne 0 $i }} - {{ end }}
         {{ $place := replaceRE "_" " " $dir | title }}
         {{ if in $place "Region " }}
           {{ $place = replaceRE "REGION" "Region" ($place | upper) }}
