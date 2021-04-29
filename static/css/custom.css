@@ -13,6 +13,10 @@ a:hover {
   margin: 0 0.8em 0 0;
 }
 
+a.nav {
+  color: #000;
+}
+
 #map {
   width: 100%;
   height: 400px;
