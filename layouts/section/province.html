@@ -1,16 +1,29 @@
 {{ define "main" }}
 <main class="main list" role="main">
-  <!-- current path with proper slashes -->
   {{ $path := print (path.Dir .Path) }}
+  {{ $dirs := split (replaceRE "^province." "" $path) "/" }}
+  {{ $len := len $dirs }}
 
-  <!-- province name hierarchy, properly capitalized etc. -->
-  {{ $province := replaceRE "province.(.*?)" "$1" $path }}
-  {{ $province = replaceRE "_" " " $province | upper }}
-  {{ $province = replaceRE "/" ": " $province }}
-
-
+  <!-- display path hierarchy, with each level linked -->
   <header class="main__header">
-    <h1 class="main__title">{{ $province }}</h1>
+    <h1 class="main__title">
+      {{ range $i, $dir := $dirs }}
+        {{ if ne 0 $i }} / {{ end }}
+        {{ $place := replaceRE "_" " " $dir | title }}
+        {{ if in $place "Region " }}
+          {{ $place = replaceRE "REGION" "Region" ($place | upper) }}
+        {{ end }}
+        {{ if in $place "Insula " }}
+          {{ $place = replaceRE "insula" "Insula" ($place | lower) }}
+        {{ end }}
+        {{ $link := strings.Repeat (sub (sub $len 1) $i) "../" }}
+        {{ if $link }}
+          <a class="nav" href="{{ $link }}">{{ $place }}</a>
+        {{ else }}
+          {{ $place }}
+        {{ end }}
+      {{ end }}
+    </h1>
   </header>
 
   <!-- iterate through all published pages in this province
@@ -31,12 +44,18 @@
 
   <!-- display any subdirectories -->
   {{ if len $dirs }}
-  <div class='province-subdivisions'>
-    <b>Province subdivisions:</b>
+  <div class='subdivisions'>
+    <b>Subdivisions:</b>
     {{ range $i, $v := sort $dirs -}}
       {{- if $i -}}, {{ end -}}
       {{ with strings.TrimPrefix $path . }}
       {{ $text := replaceRE "_" " " . | title }}
+      {{ if in $text "Region " }}
+        {{ $text = replaceRE "REGION" "Region" ($text | upper) }}
+      {{ end }}
+      {{ if in $text "Insula " }}
+        {{ $text = replaceRE "insula" "Insula" ($text | lower) }}
+      {{ end }}
       <a href="{{ . | lower }}/">{{ $text }}</a>
       {{- end -}}
     {{ end }}
