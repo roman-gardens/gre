@@ -1,4 +1,4 @@
-baseURL = "https://roman-gardens.github.io"
+baseURL = "https://roman-gardens.github.io/"
 relativeURLs = false
 
 languageCode = "en-us"
