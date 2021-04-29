@@ -2,6 +2,7 @@
 article-type: "province"
 title: "Domus Tiberiana"
 date: 2021-04-08T02:45:17+02:00
+latlon: [ 41.889306, 12.487109 ]
 province_id: PROVINCE_ID
 author: M.-A. Tomei and E.R. Macaulay
 editor: Rhiannon Paré
@@ -10,23 +11,23 @@ draft: true
 
 ## Province
 
-[ITALIA]({{<relref "..">}})\
-[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
-[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
-
+[Italia]({{<relref "..">}})\
+[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)\
+[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+<!-- -->
 ## Location
 
 [Rome]({{<relref ".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
-
+<!-- -->
 ## Sublocation
 
 Palatine Hill \
 [Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
-
-
-
-## Garden
+<!-- -->
+<!-- -->
+<!-- -->
+### Garden
 
 Garden of the Domus Tiberiana, Palatine
 
@@ -59,6 +60,18 @@ Two inscriptions of the 1st century CE mention two imperial slaves ex Hermaeo ([
 During the recent Swiss excavations, Clemens Krause identified 29 sectors in the *Domus Tiberiana*; 1-9 sectors were the nucleus of the complex. During the second building phase (II, 2) of the [*Domus Aurea*](https://en.wikipedia.org/wiki/Domus_Aurea), the *Domus Tiberiana* was incorporated into it (Krause, 193). A large platform (400 x 450 Roman feet) was added which included the addition of a perimeter wall as well as a system of waterproofing and drainage in sector 9. A small [*cryptoporticus*](http://vocab.getty.edu/page/aat/300004295) under a peristyle (100 x 150 Roman feet) was located in the center. On this platform Nero constructed buildings (Carandini, 13), and it appears that hanging gardens, probably enclosed by a *quadriporticus*, surrounded it.  At the southeast corner of the platform, according to Krause (Lexicon, 193), was an oval “*vivaio*;” a place for raising fish in an area that here remained open to the sky (Fig. 5).
 
 During the Flavian era, the garden was covered by new constructions in sectors 1, 3, 4 and 9 (Krause, 1990, 124). It was at this time gardens in sectors 7, 10, 11, and perhaps 12 were modified (Krause, 1990, 124).
+<!-- -->
+RELATED SITES OF THE ITALIAN EXCAVATIONS ON THE PALATINE:
+<!-- -->
+[Gardens of the Republican Domus]({{<relref"/palatine_domus.md">}})\
+[Garden of the House of Augustus]({{<relref"/house_of_augustus.md">}})\
+[Garden of the Neronian Palace]({{<relref"/palace_of_nero.md">}})\
+[Garden of the Domus Flavia]({{<relref"/Domus_flavia.md">}})\
+[Garden of the Domus Augustana]({{<relref"/domus_augustana.md">}})\
+[Garden of the Palatine Stadium]({{<relref"/palatine_stadium.md">}})\
+[Garden of the Severan Complex]({{<relref"/severan_complex.md">}})
+<!-- -->
+<!-- -->
 
 ### Figures
 
@@ -97,4 +110,5 @@ M.-A. Tomei and E.R. Macaulay
 
 ### Publication date
 
- 15 APRIL 2021
+
+21 Apr 2021

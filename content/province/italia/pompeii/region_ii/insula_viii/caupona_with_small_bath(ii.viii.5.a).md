@@ -1,6 +1,7 @@
 ---
 title: "Caupona with Small Bath"
 date: 2020-12-10T00:10:10-04:00
+latlon: [ 40.750870, 14.493866 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -58,4 +59,5 @@ Unspecified
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
-10 December 2020
+
+21 Apr 2021

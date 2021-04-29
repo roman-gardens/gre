@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Poseidon Onchestios"
 date: 2020-07-26T12:40:59-04:00
+latlon: [ 38.373269, 23.150267 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -115,7 +116,8 @@ unspecified (mentioned in the 1st and 2nd century CE)
 
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

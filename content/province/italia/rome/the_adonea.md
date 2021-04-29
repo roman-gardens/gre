@@ -2,6 +2,7 @@
 article-type: "province"
 title: "The Adonea of the Flavian Palace, Palatine"
 date: 2021-04-04T21:59:57+02:00
+latlon: [ 41.889306, 12.487109 ]
 province_id: ITALIA
 author: Françoise Villedieu
 editor: Rhiannon Paré
@@ -67,4 +68,5 @@ Françoise Villedieu
 
 ### Publication date
 
-15 APRIL 2021
+
+21 Apr 2021

@@ -2,6 +2,7 @@
 article-type: "province"
 title: "Germania Superior"
 date: 2020-07-12T15:52:12-04:00
+latlon: [ 49.214670, 8.015747 ]
 province_id: PROVINCE_ID
 author: Maureen Carroll
 editor: June Dorsch
@@ -57,7 +58,8 @@ c. AD 85
 
 ### Publication date
 
-12 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

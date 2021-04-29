@@ -1,6 +1,7 @@
 ---
 title: "House in Insula 1 and 2 in Augusta Raurica"
 date: 2020-07-13T17:34:54-04:00
+latlon: [ 47.533241, 7.722118 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -104,7 +105,8 @@ House: AD 150 - ca. 170
 
 ### Publication date
 
-14 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

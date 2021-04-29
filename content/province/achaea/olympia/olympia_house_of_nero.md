@@ -1,6 +1,7 @@
 ---
 title: "House of Nero"
 date: 2020-07-27T08:53:14-04:00
+latlon: [ 37.637820, 21.631715 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -107,7 +108,8 @@ mid-1st to 3rd century CE
 
 ### Publication date
 
-27 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

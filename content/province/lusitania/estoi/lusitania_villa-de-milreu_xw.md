@@ -1,6 +1,7 @@
 ---
 title: "Villa de Milreu"
 date: 2020-11-2
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -95,7 +96,8 @@ The archaeologists working on the site have not produced a detailed sequence of 
 
 
 ### Publication date
-20 November 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

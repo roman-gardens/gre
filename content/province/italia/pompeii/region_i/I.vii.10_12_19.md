@@ -1,6 +1,7 @@
 ---
 title: "I.7.10-12/19 House of the Ephebe; Casa Dell’Efebo; House of P. Cornelius Teges (or Tages)"
 date: 2020-08-08T16:18:49-04:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -179,7 +180,8 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
 
-07 April 2021
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -1,6 +1,7 @@
 ---
 title: "Suburban Villa"
 date: 2020-12-14T00:08:52-00:00
+latlon: [ 46.201961, 6.143798 ]
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yvette Pollack
@@ -89,7 +90,8 @@ None Available
 
 ### Publication date
 
-14 December 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

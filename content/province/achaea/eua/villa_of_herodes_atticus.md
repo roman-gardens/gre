@@ -1,6 +1,7 @@
 ---
 title: "Villa of Herodes Atticus"
 date: 2020-07-20T14:24:59-04:00
+latlon: [ 37.377923, 22.656854 ]
 article_id: ARTICLE_ID
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
@@ -106,7 +107,8 @@ From the 2nd century CE until 400 CE
 
 ### Publication date
 
-20 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -1,6 +1,7 @@
 ---
 title: "Tomb Garden of Flavius M. f. Quadratus"
 date: 2020-11-2
+latlon: [ 38.707166, -9.135507 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
@@ -91,7 +92,8 @@ An inscription found immured in the corner of a house near Lisbon around 1735 re
 
 
 ### Publication date
-20 November 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

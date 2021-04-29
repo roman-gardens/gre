@@ -1,6 +1,7 @@
 ---
 title: "I.ix.9/10"
 date: 2020-08-10T11:47:48-04:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -104,7 +105,8 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
 
-10 August 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

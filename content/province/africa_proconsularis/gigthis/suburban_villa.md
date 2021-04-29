@@ -1,6 +1,7 @@
 ---
 title: "Suburban Villa"
 date: 2020-10-01T07:38:05-07:00
+latlon: [ 33.532711, 10.674151 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -91,6 +92,7 @@ unknown
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication date
-1 Nov 2020
+
+21 Apr 2021
 
 ### Related articles

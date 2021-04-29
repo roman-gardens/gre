@@ -1,6 +1,7 @@
 ---
 title: "House of the Fountains"
 date: 2020-11-2
+latlon: [ 40.099, -8.4933 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -91,7 +92,8 @@ The house has recently been the subject of a monograph by Isabelle Morand in whi
 
 
 ### Publication date
-20 November 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

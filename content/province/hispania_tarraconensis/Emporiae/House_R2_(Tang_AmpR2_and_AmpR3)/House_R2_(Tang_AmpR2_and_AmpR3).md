@@ -1,6 +1,7 @@
 ---
 title: "House R2  (Tang AmpR2 and AmpR3)"
 date: 2020-10-18T11:56:31-14:00
+latlon: [ 47.260687, 9.617966 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -125,7 +126,8 @@ House R2, situated south of House R1 in the area of the forum of the Roman City 
 AUTHOR_ID
 
 ### Publication date
-15 December 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

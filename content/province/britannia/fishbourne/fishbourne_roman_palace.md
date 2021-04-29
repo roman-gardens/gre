@@ -1,6 +1,7 @@
 ---
 title: "Roman Palace in Fishbourne"
 date: 2020-07-09T18:05:37-04:00
+latlon: [ 50.836765, -0.809853 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Kathryn Gleason
@@ -119,7 +120,8 @@ late 1st century CE - unspecified
 
 ### Publication date
 
-09 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

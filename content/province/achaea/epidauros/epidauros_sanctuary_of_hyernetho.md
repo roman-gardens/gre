@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Hyernetho"
 date: 2020-07-26T10:46:10-04:00
+latlon: [ 37.633775, 23.159638 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -78,7 +79,8 @@ unspecified
 
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

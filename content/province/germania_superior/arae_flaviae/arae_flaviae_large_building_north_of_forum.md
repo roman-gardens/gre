@@ -1,6 +1,7 @@
 ---
 title: "Large Building North of Forum in Arae Flaviae"
 date: 2020-07-13T11:07:51-04:00
+latlon: [ 48.166687, 8.627925 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -98,7 +99,8 @@ Complex built at the earliest during the reign of Trajan.
 
 ### Publication date
 
-13 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

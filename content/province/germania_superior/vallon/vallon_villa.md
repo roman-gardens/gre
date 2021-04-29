@@ -1,6 +1,7 @@
 ---
 title: "Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)"
 date: 2020-07-17T17:12:15-04:00
+latlon: [ 49.214670, 8.015747 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Michel Fuchs, Jacques Monnier
@@ -140,7 +141,8 @@ Beginning of the 1st c. CE - beginning of the Vth century
 
 ### Publication date
 
-18 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

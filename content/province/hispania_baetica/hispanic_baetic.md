@@ -1,6 +1,7 @@
 ---
 title: "Hispania Baetica"
 date: 2020-10-03T10:00:00-04:00
+latlon: [ 37.317026, -5.060833 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: (AUTHOR_ID)
@@ -69,4 +70,5 @@ A sublocation is any area larger than an individual garden, but located within a
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
 ### Publication date
-03 Oct 2020
+
+21 Apr 20210

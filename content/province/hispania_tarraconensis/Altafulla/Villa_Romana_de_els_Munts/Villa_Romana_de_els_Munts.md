@@ -1,6 +1,7 @@
 ---
 title: "Villa Romana de els Munts"
 date: 2020-10-01T10:39:31-07:00
+latlon: [ 41.136023, 1.385800 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Clopper Almon
@@ -111,7 +112,8 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-15 December 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -1,6 +1,7 @@
 ---
 title: "Urban House or Schola in Aquincum"
 date: 2020-07-21T16:44:26-04:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -96,4 +97,5 @@ Very few houses of Mediterranean type have been discovered, and only one can be 
 
 ### Publication date
 
-22 July 2020
+
+21 Apr 20210

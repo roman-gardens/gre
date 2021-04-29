@@ -1,6 +1,7 @@
 ---
 title: "House of Asinus Rufinus"
 date: 2020-10-01T07:38:05-07:00
+latlon: [ 35.103997, 11.026161 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
@@ -89,7 +90,8 @@ The second half of the II century AD, during the reign of Commodus.
 [Véronique Blanc-Bijon](link) (ORCID: [unknown](orcid LINK))
 
 ### Publication date
-1 OCT 2020
+
+21 Apr 2021
 
 ### Related articles
 [House of the Triumph of Neptune (Maison du Triomphe de Neptune)]({{<relref "house_of_the_triumph_of_neptune.md">}})

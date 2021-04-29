@@ -1,6 +1,7 @@
 ---
 title: "Domus of the Sea Front (Villa du front de mer)"
 date: 2020-10-06T10:39:31-07:00
+latlon: [ 36.882478, 7.751272 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
@@ -106,7 +107,8 @@ It was excavated first in 1911, then in 1951-52, in 1964 and more recently in 20
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication date
-11 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

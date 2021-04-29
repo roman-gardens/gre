@@ -1,6 +1,7 @@
 ---
 title: "II.2.4 House of Messius Ampliatus"
 date: 2020-11-29T10:54:29-07:00
+latlon: [ 40.7517, 14.4925 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -78,7 +79,8 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
 ### Publication date
-4 December 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

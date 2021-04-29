@@ -1,6 +1,7 @@
 ---
 title: "Jericho Herodian Third Palace Corinthian Peristyle"
 date: 2020-07-11T11:20:32-04:00
+latlon: [ 31.870046, 35.443876 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Kathryn Gleason
@@ -121,7 +122,8 @@ With porticoes on three sides and measuring 23 x 14.5m, this courtyard, known as
 
 ### Publication date
 
-09 October 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

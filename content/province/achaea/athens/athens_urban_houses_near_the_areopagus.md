@@ -1,6 +1,7 @@
 ---
 title: "Urban Houses Near the Areopagus"
 date: 2020-07-16T09:46:56-04:00
+latlon: [ 37.972372, 23.723371 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -94,7 +95,8 @@ mid-4th century CE and earlier
 
 ### Publication date
 
-16 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

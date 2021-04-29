@@ -1,6 +1,7 @@
 ---
 title: "Villa de Torre de Palma"
 date: 2020-11-2
+latlon: [ 39.062264, -7.488473 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -102,7 +103,8 @@ The third phase distinguished by Maloney and Hale covered several building campa
 
 
 ### Publication date
-20 November 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

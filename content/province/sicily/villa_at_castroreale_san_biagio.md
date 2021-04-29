@@ -1,6 +1,7 @@
 ---
 title: "Villa at Castroreale San Biagio"
 date: 2020-10-01T11:30:00-05:00
+latlon: [ 38.192251, 15.556634 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Roger Wilson
@@ -96,7 +97,8 @@ R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 199–203,
 
 
 ### Publication date
-1 OCT 2020
+
+21 Apr 2021
 
 
 <!--### Related articles-->

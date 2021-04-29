@@ -2,6 +2,7 @@
 article-type: "province"
 title: "Dacia Traiana"
 date: 2020-07-11T19:24:47-04:00
+latlon: [ 47.5, 22.5 ]
 province_id: PROVINCE_ID
 author: John Bodel
 editor: June Dorsch
@@ -57,7 +58,8 @@ Dacia was of particular interest to the Romans for its supplies of lead, needed 
 
 ### Publication date
 
-11 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

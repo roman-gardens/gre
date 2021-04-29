@@ -2,6 +2,7 @@
 article-type: "province"
 title: "II.ii.4"
 date: 2021-03-06T14:54:53Z
+latlon: [ 40.750870, 14.493866 ]
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner
@@ -68,7 +69,8 @@ Vittorio Spinazzola, 1910-1923, *Pompei alla luce degli Scavi Nuovi di Via dell'
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)  
 
 ### Publication date
-6 March 2021
+
+21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->
 
 <!-- DATE -->

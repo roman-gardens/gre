@@ -1,6 +1,7 @@
 ---
 title: "villa at site 10"
 date: 2020-11-29T10:54:29-07:00
+latlon: [ 41.890683, 12.632573 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Walter Widrig
@@ -89,7 +90,8 @@ Unspecified
 [Walter M Widrig](link) (https://www.worldcat.org/wcidentities/lccn-n2009061717)  
 
 ### Publication date
-22 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

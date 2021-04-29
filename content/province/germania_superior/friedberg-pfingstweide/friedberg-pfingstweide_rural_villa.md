@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Friedberg Pfingstweide"
 date: 2020-07-15T18:12:31-04:00
+latlon: [ 49.214670, 8.015747 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -98,7 +99,8 @@ Early 2nd century - first half of 3rd century
 
 ### Publication date
 
-16 July 2020
+
+21 Apr 2021
 
 
 <!--### Related articles-->

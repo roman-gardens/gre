@@ -1,6 +1,7 @@
 ---
 title: "House and Workshop of A. Granius Romanus (I.viii.13)"
 date: 2020-08-09T10:39:08-04:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -101,7 +102,8 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
 
-09 August 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

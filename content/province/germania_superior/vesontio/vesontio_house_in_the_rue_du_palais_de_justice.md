@@ -1,6 +1,7 @@
 ---
 title: "House in the Rue du Palais de Justice in Vesontio"
 date: 2020-07-18T16:58:55-04:00
+latlon: [ 47.23369, 6.03039 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Claudine Munier, Christophe Gaston, Maureen Carroll
@@ -128,7 +129,8 @@ Christophe Gaston (ORCID: [https://orcid.org/0000-0001-6865-5108](https://orcid.
 
 ### Publication date
 
-19 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

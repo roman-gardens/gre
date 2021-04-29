@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Apollo and the Nymphs"
 date: 2020-07-26T12:25:33-04:00
+latlon: [ 38.585688, 23.044957 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -115,7 +116,8 @@ unspecified
 
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

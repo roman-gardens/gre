@@ -1,6 +1,7 @@
 ---
 title: "Thès estate, villa of the Peacock"
 date: 2020-11-14T00:12:43-00:00
+latlon: [ 42.439512, 3.176623 ]
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
@@ -105,7 +106,8 @@ A.D. 70-100
 [Emilie Chassillan](link)
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -1,6 +1,7 @@
 ---
 title: "House of the Nymphs (Maison des Nymphes)"
 date: 2020-10-06T10:39:31-07:00
+latlon: [ 36.45043, 10.741166 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
@@ -16,7 +17,7 @@ categories:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
 
@@ -101,7 +102,8 @@ Unspecified
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication date
-11 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

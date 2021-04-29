@@ -1,6 +1,7 @@
 ---
 title: "House of the small Peristyle"
 date: 2020-10-01T07:38:05-07:00
+latlon: [ 36.838512, 11.115794 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_UNKONWN
@@ -84,7 +85,8 @@ The house is dated from the Ist century A.D.
 [Véronique Blanc-Bijon](link) (ORCID: [unknown](orcid LINK))
 
 ### Publication date
-1 OCT 2020
+
+21 Apr 2021
 
 ### Related articles
 [House of the Bust of Marcus Aurelius (Maison du Buste de Marc Aurèle)]({{<relref "house_of_the_bust_of_marcus_aurelius.md">}})

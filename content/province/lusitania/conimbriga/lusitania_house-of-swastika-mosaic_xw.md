@@ -1,6 +1,7 @@
 ---
 title: "House of the Swastika Mosaic"
 date: 2020-11-2
+latlon: [ 40.099026, -8.494163 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -86,7 +87,8 @@ Far more modest than the House of Cantaber but following the same general ideas 
 
 
 ### Publication date
-20 November 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

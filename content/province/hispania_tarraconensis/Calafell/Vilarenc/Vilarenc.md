@@ -1,6 +1,7 @@
 ---
 title: "Vilarenc"
 date: 2020-10-18T12:40:31-13:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Clopper Almon
@@ -95,7 +96,8 @@ The villa dates from the first century BC to the third century AD when it was tr
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-15 December 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

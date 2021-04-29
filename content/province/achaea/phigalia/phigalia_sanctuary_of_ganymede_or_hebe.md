@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Ganymede or Hebe"
 date: 2020-07-26T12:41:58-04:00
+latlon: [ 37.396081, 21.841947 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -98,7 +99,8 @@ unspecified (mentioned in the 2nd century CE)
 
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

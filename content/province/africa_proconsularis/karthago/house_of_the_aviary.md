@@ -1,6 +1,7 @@
 ---
 title: "House of the Aviary (Maison de la Volière)"
 date: 2020-10-06T10:39:31-07:00
+latlon: [ 36.857911, 10.331422 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
@@ -101,7 +102,8 @@ The house dates from the end of the IInd-IVth century.
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication date
-11 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

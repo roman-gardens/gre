@@ -1,6 +1,7 @@
 ---
 title: "Building of the Three Basins (Edifice des trois bassins)"
 date: 2020-12-14T12:24:10-03:00
+latlon: [ 36.40112, 9.904448 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski
@@ -81,7 +82,7 @@ The SE area was laid out around an incomplete peristyle with seven columns along
 <!--add in orcid id and info-->
 
 ### Publication Date
-
+21 Apr 2021
 
 <!--### Related articles-->
 

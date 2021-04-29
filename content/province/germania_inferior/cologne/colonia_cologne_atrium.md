@@ -1,6 +1,7 @@
 ---
 title: "Atrium House"
 date: 2020-07-09T07:38:05-07:00
+latlon: [ 50.940671, 6.959908 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -89,7 +90,8 @@ Middle of the first century CE until the fourth century CE
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))    
 
 ### Publication date
-09 July 2020
+
+21 Apr 2021
 
 ### Related articles
 

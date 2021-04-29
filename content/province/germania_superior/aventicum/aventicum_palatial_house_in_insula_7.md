@@ -1,6 +1,7 @@
 ---
 title: "Palatial House in Insula 7 in Aventicum"
 date: 2020-07-14T14:48:37-04:00
+latlon: [ 46.88008, 7.040710 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -107,7 +108,8 @@ Severnan Period - Middle of 3rd century
 
 ### Publication date
 
-14 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

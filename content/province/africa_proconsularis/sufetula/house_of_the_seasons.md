@@ -1,6 +1,7 @@
 ---
 title: "House of the Seasons (La maison des Saisons)"
 date: 2020-10-06T10:39:31-07:00
+latlon: [ 35.240165, 9.119793 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
@@ -16,7 +17,7 @@ categories:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
 
@@ -74,11 +75,11 @@ House of the Seasons (La maison des Saisons)
 The house is dated to the late IVth. early Vth. Century
 
 ### Bibliography
-* D. Parrish, "The Mosaic of Xenophon from Sbeitla", *Mosaïque, Recueil d’hommages à Henri Stern, Paris*, 1982, pp. 297-306, pl. CXCV. 1. [(worldcat)](http://www.worldcat.org/oclc/10727878)
+* Parrish, D., "The Mosaic of Xenophon from Sbeitla", in *Mosaïque, Recueil d’hommages à Henri Stern, Paris*, 1982, pp. 297-306, pl. CXCV. 1. [(worldcat)](http://www.worldcat.org/oclc/10727878)
 * A.Merlin in *BCTH*, 1910, p. CXCVI-CXCVII. [(worldcat)](http://www.worldcat.org/oclc/224692325)
-* N. Duval, F. Baratte, *Les ruines de Sufetula Sbeïtla*, Tunis, 1973, p. 65-69, fig. 44. [(worldcat)](http://www.worldcat.org/oclc/1107607946)
-* D. Parrish, *The Seasons mosaics of Roman North Africa*, Rome, 1984, p. 215-218. [(worldcat)](http://www.worldcat.org/oclc/1022822931)
-* Bullo, S. and F. Ghedini, Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman, Rome: Edizioni Quasar, 2003, p. 201-202. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Duval, N., Baratte, F., *Les ruines de Sufetula Sbeïtla*, Tunis, 1973, p. 65-69, fig. 44. [(worldcat)](http://www.worldcat.org/oclc/1107607946)
+* Parrish, D., *The Seasons mosaics of Roman North Africa*, Rome, 1984, p. 215-218. [(worldcat)](http://www.worldcat.org/oclc/1022822931)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 201-202. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 
 <!--#### Periodo ID-->
@@ -96,7 +97,8 @@ The house is dated to the late IVth. early Vth. Century
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication date
-11 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

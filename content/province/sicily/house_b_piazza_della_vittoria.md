@@ -1,6 +1,7 @@
 ---
 title: "House B, Piazza della Vittoria"
 date: 2020-10-01T11:30:00-05:00
+latlon: [ 38.11127, 13.353442 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Roger Wilson
@@ -94,7 +95,8 @@ A pool, still frescoed in blue, has recently been uncovered at the south end of 
 
 
 ### Publication date
-1 OCT 2020
+
+21 Apr 2021
 
 
 <!--### Related articles-->

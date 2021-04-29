@@ -1,6 +1,7 @@
 ---
 title: "The sanctuary of the Victories of Caracalla"
 date: 11-10-20
+latlon: [ 36.422473, 9.218866 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
@@ -86,3 +87,4 @@ p. 364, pl. 14. [(worldcat)](http://www.worldcat.org/oclc/1028897747)
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication Date
+21 Apr 2021

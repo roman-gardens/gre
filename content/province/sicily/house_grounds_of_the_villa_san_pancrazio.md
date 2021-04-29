@@ -1,6 +1,7 @@
 ---
 title: "House Grounds of the “Villa San Pancrazio”"
 date: 2020-10-01T11:30:00-05:00
+latlon: [ 37.852391, 15.292123 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Roger Wilson
@@ -98,7 +99,8 @@ Pool types: L. Farrar, Ancient Roman Gardens, Stroud, 1998, pp. 71–84.[(worldc
 
 
 ### Publication date
-1 OCT 2020
+
+21 Apr 2021
 
 
 <!--### Related articles-->

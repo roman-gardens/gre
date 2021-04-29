@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Wiesbaden-Biebrich"
 date: 2020-07-20T10:18:48-04:00
+latlon: [ 50.044849, 8.241041 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -98,7 +99,8 @@ unspecified
 
 ### Publication date
 
-20 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -1,6 +1,7 @@
 ---
 title: "Jericho Palace of John Hyrcanus I"
 date: 2020-07-11T11:20:32-04:00
+latlon: [ 31.870046, 35.443876 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Kathryn Gleason
@@ -117,7 +118,8 @@ Over the years, two swimming pools (probably one for men and one for women), eac
 
 ### Publication date
 
-09 October 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

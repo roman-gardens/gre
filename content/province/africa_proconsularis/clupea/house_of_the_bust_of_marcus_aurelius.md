@@ -1,6 +1,7 @@
 ---
 title: "House of the Bust of Marcus Aurelius"
 date: 2020-10-01T07:38:05-07:00
+latlon: [ 36.838512, 11.115794 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_UNKONWN
@@ -88,7 +89,8 @@ Built over an older establishment, the house presents two main phases.  The main
 [Wilhelmina Jashemski](link) (ORCID: [unknown](orcid link))
 
 ### Publication date
-1 OCT 2020
+
+21 Apr 2021
 
 ### Related articles
 [House of the small Peristyle (Maison du petit péristyle)]({{<relref "house_of_the_small_peristyle.md">}})

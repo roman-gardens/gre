@@ -1,6 +1,7 @@
 ---
 title: "House of Taracena"
 date: 2020-10-18T11:56:31-14:00
+latlon: [ 47.260687, 9.617966 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Clopper Almon
@@ -117,7 +118,8 @@ Unspecified
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-15 December 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

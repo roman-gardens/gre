@@ -2,6 +2,7 @@
 article-type: "province"
 title: "Achaea"
 date: 2020-07-20T13:58:53-04:00
+latlon: [ 38.102121, 22.224585 ]
 province_id: PROVINCE_ID
 author: Maureen Carroll
 editor: Jane Millar
@@ -66,4 +67,5 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ### Publication date
 
-20 July 2020
+
+21 Apr 20210

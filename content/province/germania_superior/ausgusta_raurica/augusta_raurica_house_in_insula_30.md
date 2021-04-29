@@ -1,6 +1,7 @@
 ---
 title: "House in Insula 30 in Augusta Raurica"
 date: 2020-07-14T10:02:05-04:00
+latlon: [ 47.533241, 7.722118 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -104,7 +105,8 @@ Insula: 200 A.D.
 
 ### Publication date
 
-14 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

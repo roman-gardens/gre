@@ -1,6 +1,7 @@
 ---
 title: "Villa de Saint-Symphorien"
 date: 2020-11-15T00:08:52-00:00
+latlon: [ 42.439512, 3.176623 ]
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
@@ -123,7 +124,8 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 [Emilie Chassillan](link)
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

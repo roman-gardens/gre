@@ -1,6 +1,7 @@
 ---
 title: "Temple of Hephaistos"
 date: 2020-07-16T09:49:38-04:00
+latlon: [ 37.975646, 23.721409 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -75,8 +76,10 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 
 ### Bibliography
 
-* D.B. Thompson, “The Garden of Hephaistos,” *Hesperia* 6, 1937: 396-425. [(JSTOR)](https://www.jstor.org/stable/146648) [(ASCSA)](https://www.ascsa.edu.gr/uploads/media/hesperia/146648.pdf)
-* M. Carroll-Spillecke, “The gardens of Greece from Homeric to Roman times,” *Journal of Garden History* 12.2, 1992: 90, figs. 10-11. [(worldcat)](http://www.worldcat.org/oclc/4898050192)
+* D.B. Thompson, “The Garden of Hephaistos,” *Hesperia* 6, 1937: 396-425. [(JSTOR)](https://www.jstor.org/stable/146648), [(ASCSA)](https://www.ascsa.edu.gr/uploads/media/hesperia/146648.pdf).
+* M. Carroll-Spillecke, “The gardens of Greece from Homeric to Roman times,” *Journal of Garden History* 12.2, 1992: 90, figs. 10-11. [(worldcat)](http://www.worldcat.org/oclc/4898050192).
+* M. Carroll, "The sacred places of the immortal ones: ancient Greek and Roman sacred groves," in J. Woudstra and C. Roth (eds.), *A History of Groves.* London: Routledge, 2018: 22-23, fig 1.4. [(worldcat)](http://www.worldcat.org/oclc/1012849097).
+
 
 <!--#### Periodo ID-->
 
@@ -96,7 +99,8 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 
 ### Publication date
 
-16 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

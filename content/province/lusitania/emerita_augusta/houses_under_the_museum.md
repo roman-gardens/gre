@@ -1,6 +1,7 @@
 ---
 title: "Houses Under the Museum"
 date: 2020-09-30T11:20:32-04:00
+latlon: [ 38.917216, -6.341213 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -111,7 +112,8 @@ AUTHOR_ID
 
 ### Publication date
 
-6 October 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -1,6 +1,7 @@
 ---
 title: "House with the Five Mosaics"
 date: 2020-10-05T23:06:02-24:00
+latlon: [ 42.439512, 3.176623 ]
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
@@ -116,7 +117,8 @@ In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the ga
 [Emilie Chassillan](link)
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

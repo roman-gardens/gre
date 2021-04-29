@@ -1,6 +1,7 @@
 ---
 title: "Imperial Residence at Batnae"
 date: 2020-10-08T10:30-04:00
+latlon: [ 36.976075, 38.424238 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Catherine Kearns, Maureen Carroll
@@ -86,7 +87,8 @@ fourth century CE
 [Catherine Kearns](#) and [Maureen Carroll](#)
 
 ### Publication date
-3 December 2020  
+
+21 Apr 2021
 
 <!--### Related articles-->
 

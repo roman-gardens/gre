@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Latimer"
 date: 2020-07-11T11:20:32-04:00
+latlon: [ 51.679234, -0.549776 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -96,7 +97,8 @@ early 4th century CE - unspecified
 
 ### Publication date
 
-11 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

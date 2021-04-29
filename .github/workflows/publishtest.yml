@@ -21,7 +21,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --baseURL "https://roman-gardens.github.io/gre-website-test/"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v2

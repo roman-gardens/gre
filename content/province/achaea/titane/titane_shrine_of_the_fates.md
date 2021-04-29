@@ -1,6 +1,7 @@
 ---
 title: "Shrine of the Fates"
 date: 2020-07-26T12:42:56-04:00
+latlon: [ 37.919512, 22.623851 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -109,7 +110,8 @@ BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

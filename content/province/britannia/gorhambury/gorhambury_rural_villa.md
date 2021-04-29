@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Gorhambury"
 date: 2020-07-11T10:45:22-04:00
+latlon: [ 51.753814, -0.382679 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -96,7 +97,8 @@ around A.D. 100 - 175
 
 ### Publication date
 
-11 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

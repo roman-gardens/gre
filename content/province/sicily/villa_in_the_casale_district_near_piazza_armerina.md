@@ -1,6 +1,7 @@
 ---
 title: "Villa in the Casale district near Piazza Armerina"
 date: 2020-10-01T11:30:00-05:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Roger Wilson
@@ -100,7 +101,8 @@ R. J. A. Wilson, in G. C. M. Jansen (ed.), Cura aquarum in Sicilia: Proceedings 
 
 
 ### Publication date
-1 OCT 2020
+
+21 Apr 2021
 
 
 <!--### Related articles-->

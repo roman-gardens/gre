@@ -1,6 +1,7 @@
 ---
 title: "Funerary grove of T. Aemilius Vetus"
 date: 2020-07-08T10:39:31-07:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: John Bodel
@@ -94,7 +95,8 @@ Unspecified
 [John Bodel](link) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
 ### Publication date
-15 December 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

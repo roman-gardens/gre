@@ -1,6 +1,7 @@
 ---
 title: "Jericho Pool Complex of Alexander Janneaus"
 date: 2020-07-11T11:20:32-04:00
+latlon: [ 31.870046, 35.443876 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Kathryn Gleason
@@ -118,7 +119,8 @@ By 90 BCE, Jannaeus was experiencing political and military difficulties, and it
 
 ### Publication date
 
-09 October 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

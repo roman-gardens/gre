@@ -1,6 +1,7 @@
 ---
 title: "Rural villa at Voerendaal"
 date: 2020-07-12T10:58:07-07:00
+latlon: [ 50.883207, 5.918982 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -99,7 +100,8 @@ Early second century CE to ca. 300 CE
 
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

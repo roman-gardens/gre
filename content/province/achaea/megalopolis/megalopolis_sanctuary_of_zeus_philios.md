@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Zeus Philios"
 date: 2020-07-26T12:30:28-04:00
+latlon: [ 37.413033, 22.127645 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -110,7 +111,8 @@ unspecified (still flourished in the 2nd century CE)
 
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

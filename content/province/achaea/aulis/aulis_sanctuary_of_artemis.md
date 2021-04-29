@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Artemis"
 date: 2020-07-16T09:50:12-04:00
+latlon: [ 38.430259, 23.593654 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -97,7 +98,8 @@ unspecified
 
 ### Publication date
 
-16 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

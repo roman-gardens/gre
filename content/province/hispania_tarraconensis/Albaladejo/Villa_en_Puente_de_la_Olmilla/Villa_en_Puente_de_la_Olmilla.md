@@ -1,6 +1,7 @@
 ---
 title: "Villa en Puente de la Olmilla"
 date: 2020-10-08T10:39:31-07:00
+latlon: [ 38.602777, -2.765277 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Clopper Almon
@@ -106,7 +107,8 @@ This fourth-century villa was discovered in 1973.  An apse and a figured mosaic 
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-15 December 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

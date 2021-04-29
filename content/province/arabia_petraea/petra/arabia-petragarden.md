@@ -1,6 +1,7 @@
 ---
 title: "Petra Garden and Pool Complex"
 date: 2020-10-08T10:30-04:00
+latlon: [ 30.675715, 34.826660 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Leigh-Ann Bedal
@@ -720,7 +721,8 @@ End of the 1st century BCE - 2nd/3rd centuries CE (Late Hellenistic/Roman period
 <!-- [name](https://....) -->
 
 ### Publication date
-15 Apr 2021  
+
+21 Apr 2021
 
 <!--### Related articles-->
 

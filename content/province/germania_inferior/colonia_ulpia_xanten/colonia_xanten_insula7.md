@@ -1,6 +1,7 @@
 ---
 title: "The Houses of Insula 7 in Colonia Ulpia Traiana"
 date: 2020-07-12T10:54:29-07:00
+latlon: [ 51.667934, 6.448177 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -78,7 +79,8 @@ Unspecified
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
 
 ### Publication date
-22 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

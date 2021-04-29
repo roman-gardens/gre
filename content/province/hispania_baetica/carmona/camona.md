@@ -1,6 +1,7 @@
 ---
 title: "Carmona, near Seville (Hispalis) BAETICA"
 date: 2020-10-15T10:00:00-04:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti
@@ -100,4 +101,5 @@ unspecified
 
 
 ### Publication date
-13 Oct 2020
+
+21 Apr 20210

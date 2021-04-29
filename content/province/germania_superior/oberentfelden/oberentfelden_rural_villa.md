@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Oberentfelden"
 date: 2020-07-16T17:46:47-04:00
+latlon: [ 47.356477, 8.046769 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -101,7 +102,8 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 
 ### Publication date
 
-17 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

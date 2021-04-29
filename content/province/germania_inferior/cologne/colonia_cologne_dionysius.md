@@ -1,6 +1,7 @@
 ---
 title: "House of Dionyius"
 date: 2020-07-08T20:22:59-07:00
+latlon: [ 50.940671, 6.959908 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -91,7 +92,8 @@ Reign of Vespasian until the end of the fourth century CE
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))    
 
 ### Publication date
-08 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

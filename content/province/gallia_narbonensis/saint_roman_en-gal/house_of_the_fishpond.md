@@ -1,6 +1,7 @@
 ---
 title: "House of the Fishpond"
 date: 2020-09-29T00:31:02-02:00
+latlon: [ 42.439512, 3.176623 ]
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
@@ -117,7 +118,8 @@ NEW WAY ↓↓↓↓
 [Emilie Chassillan](link)
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

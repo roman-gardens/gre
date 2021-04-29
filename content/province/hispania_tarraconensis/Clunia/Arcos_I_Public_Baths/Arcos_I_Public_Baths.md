@@ -1,6 +1,7 @@
 ---
 title: "Arcos I Public Baths"
 date: 2020-10-22T08:59:31-13:00
+latlon: [ 47.260687, 9.617966 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Clopper Almon
@@ -110,7 +111,8 @@ Unspecified
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-15 December 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

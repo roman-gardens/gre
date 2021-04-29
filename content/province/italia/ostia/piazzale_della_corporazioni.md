@@ -1,6 +1,7 @@
 ---
 title: "Piazzale della Corporazioni"
 date: 2021-02-08T19:00:00-08:00
+latlon: [ 41.756389, 12.291007 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Paola Olivanti
@@ -25,8 +26,6 @@ tags:
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
-
-DESCRIPTION
 
 [Ostia Antica](https://en.wikipedia.org/wiki/Ostia_Antica), the port-city of Rome, was situated at the mouth ([*ostium*](https://en.wiktionary.org/wiki/ostium#Latin)) of the [Tiber](https://en.wikipedia.org/wiki/Tiber), where it flowed into the [Tyrrhenian sea](http://vocab.getty.edu/page/tgn/1112319). Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7<sup>th</sup> century by [king Ancus Marcius](https://en.wikipedia.org/wiki/Ancus_Marcius); archaeological evidence shows that the first settlement was founded as a *colonia maritima* in the 4<sup>th</sup> century BCE. and that it was already acting as the harbour of Rome in the 3<sup>rd</sup> century BCE.
 
@@ -136,4 +135,5 @@ Domitianic period
 
 ### Publication date
 
-17 April 2021
+
+21 Apr 2021

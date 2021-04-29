@@ -1,6 +1,7 @@
 ---
 title: "VIII.3.18/16-17. House of Diana"
 date: 2021-03-26T00:10:10-04:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -65,4 +66,5 @@ When this house was excavated in 1826, Fiorelli determined that after the earthq
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
-26 March 2021
+
+21 Apr 2021

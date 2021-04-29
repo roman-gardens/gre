@@ -1,6 +1,7 @@
 ---
 title: "Theater (Theâtre)"
 date: 11-10-20
+latlon: [ 36.422473, 9.218866 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
@@ -75,3 +76,4 @@ At the rear of the theater is a *xystis* known from the dedication inscription (
 [Wilhelmina F. Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 
 ### Publication Date
+21 Apr 2021

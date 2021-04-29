@@ -1,6 +1,7 @@
 ---
 title: "VIII.3.31. Case di Pan"
 date: 2021-03-26T00:10:10-04:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -59,4 +60,5 @@ This house, excavated in 1829-1830, had a peristyle garden (a) on the south side
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
-26 March 2021
+
+21 Apr 2021

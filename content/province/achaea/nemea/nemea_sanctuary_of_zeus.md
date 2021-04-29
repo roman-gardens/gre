@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Zeus"
 date: 2020-07-27T08:51:34-04:00
+latlon: [ 37.809521, 22.710403 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -83,8 +84,10 @@ Trees were still standing in the 2nd century A.D. when Pausanias visited Nemea.
 
 ### Bibliography
 
-* S. G. Miller, “Excavations at Nemea 1976,” Hesperia 46,1977: 9-11; S. G. Miller, “Excavations at Nemea 1977,” *Hesperia* 47, 1978:65; [(worldcat)](http://www.worldcat.org/oclc/5548962573)
-* D. E. Birge, L. H. Kraynak and S. G. Miller, Excavations at Nemea. *Topographical and Architectural Studies. The Sacred Square, the Xenon and the Bath.* Berkeley, 1992, pp. 85-96, figs. 1, 98-103. [(worldcat)](http://www.worldcat.org/oclc/929297744)
+* S. G. Miller, “Excavations at Nemea 1976,” Hesperia 46,1977: 9-11; S. G. Miller, “Excavations at Nemea 1977,” *Hesperia* 47, 1978: 65. [(worldcat)](http://www.worldcat.org/oclc/5548962573).
+* D. E. Birge, L. H. Kraynak and S. G. Miller, Excavations at Nemea. *Topographical and Architectural Studies. The Sacred Square, the Xenon and the Bath.* Berkeley, 1992, pp. 85-96, figs. 1, 98-103. [(worldcat)](http://www.worldcat.org/oclc/929297744).
+* M. Carroll-Spillecke, "The gardens of Greece from Homeric to Roman times," *Journal of Garden History* 12, 1992: 86. [(worldcat)](http://www.worldcat.org/oclc/4898050192).
+* M. Carroll, "The sacred places of the immortal ones: ancient Greek and Roman sacred groves," in J. Woudstra and C. Roth (eds.), *A History of Groves*. London: Routledge, 2018: 14. [(worldcat)](http://www.worldcat.org/oclc/1012849097).
 
 <!--#### Periodo ID-->
 
@@ -104,7 +107,7 @@ Trees were still standing in the 2nd century A.D. when Pausanias visited Nemea.
 
 ### Publication date
 
-27 July 2020
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -1,4 +1,4 @@
-baseURL = "https://roman-gardens.github.io"
+baseURL = "https://roman-gardens.github.io/"
 relativeURLs = false
 
 languageCode = "en-us"
@@ -23,43 +23,49 @@ summaryLength = 10000
 		name = "Home"
 		url = "/home/"
 		weight = -130
-		
+
 	[[menu.main]]
 		identifier = "about"
 		name = "About"
 		url = "/about/"
 		weight = -120
-	
+
 	[[menu.main]]
 		identifier = "gardens"
 		name = "Gardens"
 		url = "/"
 		weight = -110
-	
+
 	[[menu.main]]
 		identifier = "contributors"
 		name = "People"
 		url = "/contributors/"
 		weight = -100
-		
+
 	[[menu.main]]
 		identifier = "contribute"
 		name = "Join"
 		url = "/contribute/"
 		weight = -90
-		
+
 	[[menu.main]]
 		identifier = "blog"
 		name = "News"
 		url = "/blog/"
 		weight = -80
-	
+
 	[[menu.main]]
 		identifier = "citation"
 		name = "How to Cite"
 		url = "/citation/"
 		weight = -70
 
+
+[Params]
+twitter_cards = true
+images = ["images/landing-page-map-1.png"]
+customCSS = ["css/custom.css"]
+highlightColor = "#c22d30"
 
 [Params.logo]
 title = "GARDENS of the ROMAN EMPIRE"
@@ -70,7 +76,7 @@ title = "GARDENS of the ROMAN EMPIRE"
 	single = "left" # Configure layout for single pages
 	# Enable widgets in given order
 	# widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
-	widgets = ["search-lunr", "provinces", "taglist"]
+	widgets = ["search-lunr", "map", "provinces", "taglist"]
 
 [Params.widgets]
 	recent_num = 2 # Set the number of articles in the "Recent articles" widget

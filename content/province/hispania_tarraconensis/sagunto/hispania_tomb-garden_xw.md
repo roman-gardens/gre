@@ -1,6 +1,7 @@
 ---
 title: "Tomb garden and baths of P. Caecil(ius) Rufus and Valeria "
 date: 2020-11-2
+latlon: [ 39.678125, -0.277247 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
@@ -87,7 +88,8 @@ A marble slab found at Puçol (Puzol) near Saguntum, now lost,  but originally p
 
 
 ### Publication date
-20 November 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

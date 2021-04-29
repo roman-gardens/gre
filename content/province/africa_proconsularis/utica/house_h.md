@@ -1,6 +1,7 @@
 ---
 title: "House H (Maison H)"
 date: 2020-09-29T09:49:36-04:00
+latlon: [ 37.055611, 10.061305 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
@@ -99,4 +100,5 @@ This house, the largest in *insula* III (lots 2,3,4,9,10), rivals the House of t
 
 ### Publication date
 
-13 November 2020
+
+21 Apr 2021

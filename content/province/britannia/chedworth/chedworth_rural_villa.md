@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Chedworth"
 date: 2020-07-08T08:19:06-04:00
+latlon: [ 51.819999, -1.924458 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -99,7 +100,8 @@ Late 19th century, 2000-2002
 
 ### Publication date
 
-08 July 2020
+
+21 Apr 2021
 
 ### Related articles
 

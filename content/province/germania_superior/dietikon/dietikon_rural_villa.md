@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Dietikon"
 date: 2020-07-15T13:09:50-04:00
+latlon: [ 49.214670, 8.015747 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Christa Ebnöther, Maureen Carroll
@@ -116,7 +117,8 @@ Stone-built villa: Middle of the 1st century CE
 
 ### Publication date
 
-15 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -2,6 +2,7 @@
 article-type: "province"
 title: "I.3.24 House of Capella"
 date: 2021-03-18T11:58:50Z
+latlon: [ 40.750870, 14.493866 ]
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner
@@ -77,7 +78,8 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
 ### Publication date
-18 March 2021
+
+21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->
 
 <!-- DATE -->

@@ -1,6 +1,7 @@
 ---
 title: "Garden in the courtyard of the buildings to the East of the Inferi Nymphaeum (Fig. 1, n. 22)"
 date: 2020-12-14T21:15:00-08:00
+latlon: [ 41.938192, 12.780881 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti
@@ -102,4 +103,5 @@ unspecified
 
 ### Publication date
 
-17 April 2021
+
+21 Apr 2021

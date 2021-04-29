@@ -1,6 +1,7 @@
 ---
 title: "Jericho Herodian Third Palace Sunken Garden"
 date: 2020-07-11T11:20:32-04:00
+latlon: [ 31.870046, 35.443876 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Kathryn Gleason
@@ -141,7 +142,8 @@ A huge pool (90 x 40 m.) built to the east of the sunken garden formed an integr
 
 ### Publication date
 
-09 October 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

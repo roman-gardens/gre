@@ -1,6 +1,7 @@
 ---
 title: "Temple of Caelestis (Temple de Caelestis) "
 date:
+latlon: [ 36.40112, 9.904448 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski
@@ -77,3 +78,4 @@ unspecified
 [Wilhelmina F. Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 
 ### Publication Date
+21 Apr 2021

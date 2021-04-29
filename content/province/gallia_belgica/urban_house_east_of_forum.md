@@ -1,6 +1,7 @@
 ---
 title: "Urban House East of Forum"
 date: 2020-11-22T10:39:31-07:00
+latlon: [ 49.5, 4.5 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -94,7 +95,8 @@ Unspecified
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ### Publication date
-22 November 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

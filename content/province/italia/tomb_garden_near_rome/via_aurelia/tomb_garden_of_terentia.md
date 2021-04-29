@@ -1,6 +1,7 @@
 ---
 title: "Tomb Garden of Terentia"
 date: 2020-11-30T10:54:29-07:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author:
@@ -78,7 +79,8 @@ John Bodel
 
 ### Publication date
 
-01 December 2020
+
+21 Apr 2021
 <!--### Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

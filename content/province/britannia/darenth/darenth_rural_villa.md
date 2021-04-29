@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Darenth"
 date: 2020-07-08T12:08:30-04:00
+latlon: [ 51.421122, 0.257752 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -95,7 +96,8 @@ ca. 100 CE - late 4th century CE
 
 ### Publication date
 
-08 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

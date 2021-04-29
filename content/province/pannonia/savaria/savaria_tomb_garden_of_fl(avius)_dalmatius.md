@@ -1,6 +1,7 @@
 ---
 title: "Tomb Garden of Fl(avius) Dalmatius in Savaria"
 date: 2020-07-22T09:49:36-04:00
+latlon: [ 47.235142, 16.62192 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
@@ -93,4 +94,5 @@ A limestone slab found near the monastery of St. Martin in Szombathely (Savaria)
 
 ### Publication date
 
-22 July 2020
+
+21 Apr 20210

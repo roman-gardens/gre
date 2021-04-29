@@ -1,6 +1,7 @@
 ---
 title: "Funerary Grove of Q. Cervonius Chryseros"
 date: 2020-11-10T12:00:02-05:00
+latlon: [ 45.77, 13.3748 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
@@ -103,7 +104,8 @@ Sean Gillies (https://pleiades.stoa.org/author/sgillies)
 
 ### Publication date
 
-15 Dec 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

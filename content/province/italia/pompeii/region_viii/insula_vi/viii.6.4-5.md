@@ -1,6 +1,7 @@
 ---
 title: "VIII.6.4-5. Market Garden"
 date: 2021-03-26T00:10:10-04:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -69,4 +70,5 @@ After the earthquake the eastern part of this insula had been converted into a m
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
-26 March 2021
+
+21 Apr 2021

@@ -1,6 +1,7 @@
 ---
 title: "House of the Treasure (Maison au trésor)"
 date: 2020-09-29T09:49:36-04:00
+latlon: [ 37.055611, 10.061305 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
@@ -103,4 +104,5 @@ The House is located in the *insula* II (Lots 1,7). The peristyle garden had a s
 
 ### Publication date
 
-13 November 2020
+
+21 Apr 2021

@@ -1,6 +1,7 @@
 ---
 title: "Terraced garden of the Libraries (Fig. 1, n. 8)"
 date: 2020-12-14T21:15:00-08:00
+latlon: [ 41.942614, 12.776359 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti
@@ -97,4 +98,5 @@ unspecified
 
 ### Publication date
 
-17 April 2021
+
+21 Apr 2021

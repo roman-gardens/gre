@@ -2,6 +2,7 @@
 article-type: "province"
 title: "Pannonia"
 date: 2020-07-21T16:35:11-04:00
+latlon: [ 46.5, 15.5 ]
 province_id: PROVINCE_ID
 author: Maureen Carroll
 editor: June Dorsch
@@ -71,4 +72,5 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ### Publication date
 
-21 July 2020
+
+21 Apr 20210

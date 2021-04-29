@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Mysian Demeter"
 date: 2020-07-26T12:41:28-04:00
+latlon: [ 38.018398, 23.849020 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -113,7 +114,8 @@ unspecified (mentioned in the 2nd century CE)
 
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

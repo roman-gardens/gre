@@ -2,6 +2,7 @@
 article-type: "province"
 title: "The Palatine 'Stadium'"
 date: 2021-04-08T02:47:06+02:00
+latlon: [ 41.889306, 12.487109 ]
 province_id: PROVINCE_ID
 author: M.-A. Tomei
 editor: Rhiannon Paré
@@ -10,23 +11,23 @@ draft: true
 
 ## Province
 
-[ITALIA]({{<relref "..">}})\
-[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
-[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
-
+[Italia]({{<relref "..">}})\
+[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)\
+[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+<!-- -->
 ## Location
 
 [Rome]({{<relref ".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
-
+<!-- -->
 ## Sublocation
 
-Palatine Hill
+Palatine Hill \
 [Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
-
-
-
-## Garden
+<!-- -->
+<!-- -->
+<!-- -->
+### Garden
 
 Stadium Garden of the Flavian Palace, Palatine
 
@@ -43,7 +44,18 @@ The Palatine hippodrome, which has the form of an elongated courtyard  (m. 160 x
 An exedra, from which one enjoyed a splendid view of the garden, opened onto the eastern side of the Hippodrome. On the short side on the north the garden was dominated by a square room with niches, which is interpreted as a grandiose nymphaeum decorated with multiple fountains fed by a series of large cisterns.
 
 At the ends of the Hippodrome the remains of two semicircular fountains are partially preserved. In the middle there must have been an open garden space, confirmed by water conduits and the lack of paving (Fig. 14). It is possible that the viridarium mentioned as existing within the imperial palaces, to which Helagabalus had a mountain of snow transported (Hist. Aug., Heliog. 23,8), was located here.
-
+<!-- -->
+RELATED SITES OF THE ITALIAN EXCAVATIONS ON THE PALATINE:
+<!-- -->
+[Gardens of the Republican Domus]({{<relref"/palatine_domus.md">}})\
+[Garden of the House of Augustus]({{<relref"/house_of_augustus.md">}})\
+[Garden of the Domus Tiberiana]({{<relref"/Domus_tiberiana.md">}})\
+[Garden of the Neronian Palace]({{<relref"/palace_of_nero.md">}})\
+[Garden of the Domus Flavia]({{<relref"/Domus_flavia.md">}})\
+[Garden of the Domus Augustana]({{<relref"/domus_augustana.md">}})\
+[Garden of the Severan Complex]({{<relref"/severan_complex.md">}})
+<!-- -->
+<!-- -->
 ### Figures
 
 
@@ -70,4 +82,5 @@ M.-A. Tomei
 
 ### Publication date
 
-15 APRIL 2021
+
+21 Apr 2021

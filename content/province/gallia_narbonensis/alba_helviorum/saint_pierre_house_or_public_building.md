@@ -1,6 +1,7 @@
 ---
 title: "Saint-Pierre, House or Public Building"
 date: 2020-11-14T00:12:43-00:00
+latlon: [ 42.439512, 3.176623 ]
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
@@ -97,7 +98,8 @@ The western wing, of which 30 m is known, has rooms richly decorated with marble
 [Emilie Chassillan](link)
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -1,6 +1,7 @@
 ---
 title: "Herodium Palace Fortress"
 date: 2020-07-11T11:20:32-04:00
+latlon: [ 31.665784, 35.241750 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Kathryn Gleason
@@ -111,7 +112,8 @@ ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378) \
 
 ### Publication date
 
-09 October 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

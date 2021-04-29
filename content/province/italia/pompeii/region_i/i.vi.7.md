@@ -2,6 +2,7 @@
 article-type: "province"
 title: "I.6.7 Fullonica of Stephanus"
 date: 2021-04-02T09:35:43+01:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner
@@ -103,7 +104,8 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
 
-02 April 2021
+
+21 Apr 2021
 
 <!--### Related articles-->
 

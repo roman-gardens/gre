@@ -1,6 +1,7 @@
 ---
 title: "I.7.2-3 House of M. Fabius Amandio; House of P. Cornelius Cornthus"
 date: 2020-08-08T10:28:51-04:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -110,7 +111,8 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
 
-07 April 2021
+
+21 Apr 2021
 
 <!--### Related articles-->
 

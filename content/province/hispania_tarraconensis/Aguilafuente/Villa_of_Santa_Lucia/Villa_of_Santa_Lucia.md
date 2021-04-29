@@ -1,6 +1,7 @@
 ---
 title: "Villa of Santa Lucia"
 date: 2020-10-08T10:39:31-11:00
+latlon: [ 41.216005, -4.085251 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Clopper Almon
@@ -98,7 +99,8 @@ Excavation in 1968 – 1972 at this site, which has been reburied, revealed over
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 ### Publication date
-15 December 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

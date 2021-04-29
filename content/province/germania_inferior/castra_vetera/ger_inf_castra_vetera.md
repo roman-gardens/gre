@@ -1,6 +1,7 @@
 ---
 title: "Legionary Houses at Castra Vetera (Germania Inferior)"
 date: 2020-07-12T10:57:44-07:00
+latlon: [ 51.646389, 6.469989 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -106,7 +107,8 @@ Unspecified
 
 ### Publication date
 
-25 July 2020
+
+21 Apr 2021
 
 ### Related articles
 

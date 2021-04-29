@@ -1,6 +1,7 @@
 ---
 title: "Villa el Ruedo"
 date: 2020-10-03T21:00:00-04:00
+latlon: [ 37.443110, -4.089429 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: ["Clopper Almon","D. Vaquerizo"]
@@ -118,7 +119,8 @@ unspecified
 
 ### Publication date
 
-3 Oct 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

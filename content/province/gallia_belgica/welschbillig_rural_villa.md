@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa"
 date: 2020-12-12T10:39:31-07:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -90,7 +91,8 @@ Unspecified
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ### Publication date
-12 December 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

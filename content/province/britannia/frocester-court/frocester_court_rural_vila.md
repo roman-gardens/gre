@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Frocester Court"
 date: 2020-07-10T08:32:55-04:00
+latlon: [ 51.726937, -2.311905 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -97,7 +98,8 @@ early 4th - 5th century CE
 
 ### Publication date
 
-10 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

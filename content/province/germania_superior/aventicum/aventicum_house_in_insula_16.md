@@ -1,6 +1,7 @@
 ---
 title: "House in Insula 16 in Aventicum"
 date: 2020-07-15T10:24:03-04:00
+latlon: [ 46.88008, 7.040710 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -99,7 +100,8 @@ AD 71
 
 ### Publication date
 
-15 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

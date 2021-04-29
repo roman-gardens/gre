@@ -1,6 +1,7 @@
 ---
 title: "Tomb Garden of Ti. Claudios Lykos"
 date: 2020-07-16T09:07:30-04:00
+latlon: [ 40.628342, 22.952885 ]
 article_id: ARTICLE_ID
 author: John Bodel
 editor: Amartya Shri
@@ -98,7 +99,8 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 
 ### Publication date
 
-16 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Orbe"
 date: 2020-07-17T13:44:42-04:00
+latlon: [ 46.744280, 6.536848 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -101,7 +102,8 @@ House: mid-1st century CE - 4th century
 
 ### Publication date
 
-17 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

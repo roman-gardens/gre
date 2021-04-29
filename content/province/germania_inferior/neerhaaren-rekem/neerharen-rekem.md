@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa at Neerhaaren-Rekem"
 date: 2020-07-12T10:54:58-07:00
+latlon: [ 50.907583, 5.686724 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -89,7 +90,8 @@ Late first century CE
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
 
 ### Publication date
-22 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

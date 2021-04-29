@@ -1,6 +1,7 @@
 ---
 title: "II.5 Large Vineyard"
 date: 2020-11-29T10:54:29-07:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -182,7 +183,8 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
 ### Publication date
-9 March 2021
+
+21 Apr 2021
 
 <!--### Related articles-->
 

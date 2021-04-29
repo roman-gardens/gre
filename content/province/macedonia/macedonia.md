@@ -2,6 +2,7 @@
 article-type: "province"
 title: "Macedonia"
 date: 2020-07-16T09:34:20-04:00
+latlon: [ 42.5, 22.5 ]
 province_id: PROVINCE_ID
 author: NAME_OF_AUTHOR
 editor: Amartya Shri
@@ -77,4 +78,5 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ### Publication date
 
-16 July 2020
+
+21 Apr 20210

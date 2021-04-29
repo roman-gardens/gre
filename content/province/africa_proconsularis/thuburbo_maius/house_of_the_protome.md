@@ -1,6 +1,7 @@
 ---
 title: "House of the Protomes (Maison des Protomés)"
 date:
+latlon: [ 36.40112, 9.904448 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski
@@ -88,3 +89,4 @@ The *Trifolium* sector, was laid out around a peristyle garden (I-V) enclosed on
 <!--add in orcid id and info-->
 
 ### Publication Date
+21 Apr 2021

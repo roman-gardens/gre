@@ -1,6 +1,7 @@
 ---
 title: "Villa at Durrueli di Realmonte"
 date: 2020-10-01T11:30:00-05:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Roger Wilson
@@ -101,7 +102,8 @@ M. Aoyagi, Ripresa eegli scavi nella villa romana di Realmonte, Kokalos 26–27 
 
 
 ### Publication date
-1 OCT 2020
+
+21 Apr 2021
 
 
 <!--### Related articles-->

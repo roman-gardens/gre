@@ -1,6 +1,7 @@
 ---
 title: "House of the Trifolium (Maison du Trifolium)"
 date: 2020-10-29
+latlon: [ 36.422473, 9.218866 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
@@ -82,3 +83,4 @@ Early 3rd century CE
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication Date
+21 Apr 2021

@@ -1,6 +1,7 @@
 ---
 title: "Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion in Romula"
 date: 2020-07-12T07:56:03-04:00
+latlon: [ 47.5, 22.5 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
@@ -101,7 +102,8 @@ Later second century/third century
 
 ### Publication date
 
-12 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

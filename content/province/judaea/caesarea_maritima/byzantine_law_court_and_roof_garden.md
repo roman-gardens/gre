@@ -1,6 +1,7 @@
 ---
 title: "Caesarea Maritima Byzantine Law Court and Roof Garden"
 date: 2020-07-11T11:20:32-04:00
+latlon: [ 32.501237, 34.89151 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Joseph Patrich
@@ -114,7 +115,8 @@ ORCID: [#](#)
 
 ### Publication date
 
-09 October 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -1,6 +1,7 @@
 ---
 title: "Casa di Galba (VII.2)"
 date: 2020-10-20T00:10:10-04:00
+latlon: [ 40.805843, 14.348058 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -74,4 +75,5 @@ Ruggiero, *Ercolano*, p. 663 [(worldcat)](http://www.worldcat.org/oclc/469320995
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
-20 October 2020
+
+21 Apr 20210

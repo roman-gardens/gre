@@ -2,6 +2,7 @@
 article-type: "province"
 title: "II.6.7 Park Area adjacent to the Great Palaestra and the Amphitheater"
 date: 2021-03-09T08:45:49Z
+latlon: [ 40.7511, 14.49449]
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner
@@ -58,4 +59,5 @@ Park-like areas were located between the Great Palaestra and the Amphitheater an
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
-9 March 2021
+
+21 Apr 2021

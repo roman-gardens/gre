@@ -1,6 +1,7 @@
 ---
 title: "House of the Trussed Animals (Maison des animaux liés)"
 date:
+latlon: [ 36.400355, 9.903990 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski
@@ -84,3 +85,4 @@ Early 3rd century CE
 <!--add in orcid id and info-->
 
 ### Publication Date
+21 Apr 2021

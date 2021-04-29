@@ -1,6 +1,7 @@
 ---
 title: "Edifice of the Platform"
 date: 2020-11-14T00:12:43-00:00
+latlon: [ 42.439512, 3.176623 ]
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
@@ -96,7 +97,8 @@ At the north, a large vestibule gives access to a vast courtyard with a peristyl
 [Emilie Chassillan](link)
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -1,6 +1,7 @@
 ---
 title: "Les Basaltes, House A"
 date: 2020-11-14T00:12:43-00:00
+latlon: [ 42.439512, 3.176623 ]
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
@@ -102,7 +103,8 @@ At first, this relatively modest dwelling was thought to have perhaps belonged t
 [Emilie Chassillan](link)
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

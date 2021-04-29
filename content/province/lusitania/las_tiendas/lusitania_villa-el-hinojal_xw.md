@@ -1,6 +1,7 @@
 ---
 title: "Villa de Hinojal"
 date: 2020-11-2
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Clopper Almon
@@ -96,7 +97,8 @@ The house appears to have been built at the end of the third or beginning of the
 
 
 ### Publication date
-20 November 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

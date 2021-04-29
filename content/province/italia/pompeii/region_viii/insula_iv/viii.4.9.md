@@ -1,6 +1,7 @@
 ---
 title: "VIII.4.9. House of T. Mescinius Gelo"
 date: 2021-03-26T00:10:10-04:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -62,4 +63,5 @@ What was formerly a garden with a pool was converted into a large open area (a) 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
-26 March 2021
+
+21 Apr 2021

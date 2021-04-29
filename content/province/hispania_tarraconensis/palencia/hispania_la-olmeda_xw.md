@@ -1,6 +1,7 @@
 ---
 title: "La Olmeda  "
 date: 2020-11-2
+latlon: [ 42.482035, -4.736989 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -94,7 +95,8 @@ The large number of objects of daily life found in the ruins, some under toppled
 
 
 ### Publication date
-20 November 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

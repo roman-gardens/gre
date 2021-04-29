@@ -1,6 +1,7 @@
 ---
 title: "House of the Grand Oecus (Maison du grand oecus)"
 date: 2020-09-29T09:49:36-04:00
+latlon: [ 37.055611, 10.061305 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
@@ -103,4 +104,5 @@ This house is the most important dwelling discovered to date at Utica. The large
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 ### Publication date
 
-13 November 2020
+
+21 Apr 2021

@@ -1,6 +1,7 @@
 ---
 title: "House of the Mosaic of Hedykoitos"
 date: 2020-11-08T11:56:31-14:00
+latlon: [ 47.260687, 9.617966 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -114,7 +115,8 @@ Unspecified
 AUTHOR_ID
 
 ### Publication date
-15 December 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

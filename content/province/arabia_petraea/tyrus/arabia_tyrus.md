@@ -1,6 +1,7 @@
 ---
 title: "Palace of Hyrcanus the Tobiad"
 date: 2020-10-01
+latlon: [ 31.912796, 35.751922 ]
 province_id:
 article_id: ARTICLE_ID
 author: Kathryn Gleason
@@ -114,7 +115,8 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 <!-- [name](https://....) -->
 
 ### Publication date
-15 Apr 2021
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -1,6 +1,7 @@
 ---
 title: "House of Icarios (Maison d'Icarios)"
 date: 2020-09-29T09:49:36-04:00
+latlon: [ 36.607458, 10.172291 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
@@ -9,6 +10,8 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tags:
+ - "domus"
 ---
 
 ## Province
@@ -16,12 +19,12 @@ categories:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 <!-- DESCRIPTION -->
 
 
 ## Location
-
+[UTHINA (Oudna)]({{<relref ".">}}) \
 [UTHINA (Oudna) Tunisia(Pleiades)](https://pleiades.stoa.org/places/315247)
 
 ### Location Description
@@ -46,6 +49,7 @@ House of Icarios (Maison d'Icarios)
 ### Keywords
 
 - [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [vaults](http://vocab.getty.edu/page/aat/300001370)
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
@@ -61,23 +65,23 @@ This richly decorated house is considered as one of the most remarkable domus of
 <!--### Maps-->
 
 
-<!--### Plans-->
+### Plans
+{{< figure src="../images/House_of_Icarios_Uthina1.jpg" alt="Fig.1: Plan of the House of icarios" title="Fig.1: Plan of the House of Icarios (Gauckler, P., 1896)." >}}
 
 
-### Images
+<!--### Images-->
 
-{{< figure src="../images/House_of_Icarios_Uthina1.jpg" alt="Fig.1: Plan of the House of Icarios." title="Fig.1: Plan of the House of Icarios. (Rights statement)" >}}
 
 ### Dates
 
-The house is dated to the II-IIIc.
+2nd-3rd century CE
 
 ### Bibliography
 
 * P. Gauckler in MonPiot 2(1896) 177-229[(worldcat)](#)
 * P. Quoniam in MelRome 60(1948) pp. 35-54;[(worldcat)](#)
-* H. Ben Hassen, L. Maurin, *Oudna (Uthina) La découverte d’une ville antique de Tunisie*, Paris, 1998; Tomei, Antenor, 3, 2002. [(worldcat)](http://www.worldcat.org/oclc/492084212)
-* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman*, Rome: Edizioni Quasar, 2003,p.325-329. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Ben Hassen, H., Maurin, L., *Oudna (Uthina) La découverte d’une ville antique de Tunisie*, Paris, 1998; Tomei, Antenor, 3, 2002. [(worldcat)](http://www.worldcat.org/oclc/492084212)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003,p.325-329. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 #### Pleiades ID
 
@@ -89,8 +93,9 @@ The house is dated to the II-IIIc.
 
 ### Contributor
 
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X)
+[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication date
 
-13 November 2020
+
+21 Apr 20210

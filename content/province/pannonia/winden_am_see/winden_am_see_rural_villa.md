@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa in Winden Am See"
 date: 2020-07-22T10:17:25-04:00
+latlon: [ 46.5, 15.5 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -94,4 +95,5 @@ On the southeast of the house was a vestibule, from which a central corridor dep
 
 ### Publication date
 
-22 July 2020
+
+21 Apr 20210

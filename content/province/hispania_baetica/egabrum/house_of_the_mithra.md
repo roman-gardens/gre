@@ -1,6 +1,7 @@
 ---
 title: "House of the Mithra"
 date: 2020-10-15T10:00:00-04:00
+latlon: [ 37.487748, -4.459183 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: (AUTHOR_ID)
@@ -104,4 +105,5 @@ unspecified
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
 ### Publication date
-15 Oct 2020
+
+21 Apr 20210

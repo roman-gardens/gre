@@ -1,6 +1,7 @@
 ---
 title: "House of the Triumph of Neptune"
 date: 2020-10-01T07:38:05-07:00
+latlon: [ 35.07824, 11.018733 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_UNKONWN
@@ -90,7 +91,8 @@ Another possible garden was adjacent to the reception room of the northern aisle
 [Véronique Blanc-Bijon](link) (ORCID: [unknown](orcid LINK))
 
 ### Publication date
-1 OCT 2020
+
+21 Apr 2021
 
 ### Related articles
 [House of Asinus Rufinus (Maison d'Asinus Rufinus)]({{<relref "house_of_asinus_rufinus.md">}})

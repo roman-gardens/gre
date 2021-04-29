@@ -1,6 +1,7 @@
 ---
 title: "House of the Lucius Verus"
 date: 2020-09-29T09:49:36-04:00
+latlon: [ 35.296057, 10.707584 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
@@ -92,9 +93,10 @@ The house was laid out around a large persityle garden of twenty-two columns (20
 [7017557](http://vocab.getty.edu/page/tgn/7017557)
 
 ### Contributor
-[Wilhelmina F. Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X)
+[Wilhelmina F. Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)) \
+[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ### Publication date
 
-13 November  2020
+
+21 Apr 2021

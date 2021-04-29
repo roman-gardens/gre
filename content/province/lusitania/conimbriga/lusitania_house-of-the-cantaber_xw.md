@@ -1,6 +1,7 @@
 ---
 title: "House of the Cantaber"
 date: 2020-11-2
+latlon: [ 40.099, -8.4933 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -96,7 +97,8 @@ The other garden area was slightly farther south and against the east wall of th
 
 
 ### Publication date
-20 November 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

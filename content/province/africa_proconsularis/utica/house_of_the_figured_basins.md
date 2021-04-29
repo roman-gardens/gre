@@ -1,6 +1,7 @@
 ---
 title: "House of the Figured Basin (Maison du bassin figuré)"
 date: 2020-09-29T09:49:36-04:00
+latlon: [ 37.055611, 10.061305 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
@@ -95,4 +96,5 @@ The house was located in the *insula* III. The rectangular courtyard, in the SW 
 [Amina-Aïcha Malek](link)(ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 ### Publication date
 
-2 October 2020
+
+21 Apr 2021

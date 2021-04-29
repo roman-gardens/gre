@@ -1,6 +1,7 @@
 ---
 title: "House of the Indian Statuette (I.viii.5)"
 date: 2020-08-08T19:11:52-04:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -106,7 +107,8 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
 
-08 August 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -1,6 +1,7 @@
 ---
 title: "House of Africa (Maison de l'Afrique)"
 date: 2020-09-29T09:49:36-04:00
+latlon: [ 35.296057, 10.707584 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
@@ -91,4 +92,5 @@ the beginning of the IIIrd century.
 
 ### Publication date
 
-13 November  2020
+
+21 Apr 20210

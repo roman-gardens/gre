@@ -1,6 +1,7 @@
 ---
 title: "Urban Houses in Carnuntum"
 date: 2020-07-22T08:57:49-04:00
+latlon: [ 48.113346, 16.867891 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -93,4 +94,5 @@ unspecified
 
 ### Publication date
 
-22 July 2020
+
+21 Apr 20210

@@ -1,6 +1,7 @@
 ---
 title: "Villa Romana"
 date: 2020-10-18T11:56:31-14:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -106,7 +107,8 @@ The oecus or principal reception room is the room with an apse facing the southw
 AUTHOR_ID
 
 ### Publication date
-15 December 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

@@ -1,6 +1,7 @@
 ---
 title: "I.6.2 House of the Cryptoporticus; Casa Del Crirtoportico; Casa Omerica; House of T. Lucretius Carus"
 date: 2020-08-05T19:15:13-04:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -108,7 +109,8 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
 
-02 April 2021
+
+21 Apr 2021
 
 <!--### Related articles-->
 

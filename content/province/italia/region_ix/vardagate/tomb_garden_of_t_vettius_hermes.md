@@ -1,6 +1,7 @@
 ---
 title: "Tomb garden of T. Vettius Hermes"
 date: 2020-12-10T12:00:02-05:00
+latlon: [ 45.0818, 8.4406 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Annalisa Marzano
@@ -102,7 +103,8 @@ Sean Gillies (https://pleiades.stoa.org/author/sgillies)
 
 ### Publication date
 
-15 Dec 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

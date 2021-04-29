@@ -1,6 +1,7 @@
 ---
 title: "II.6 The Great Palaestra"
 date: 2020-12-10T00:10:10-04:00
+latlon: [ 40.750870, 14.493866 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -64,4 +65,5 @@ Excavated 1814 to 1816, 1933, and 1935 to 1939.
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
-9 March 2021
+
+21 Apr 2021

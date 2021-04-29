@@ -1,6 +1,7 @@
 ---
 title: "Caupona of Amarantus Pompeianus (I.ix.11)"
 date: 2020-08-10T12:42:04-04:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Kathryn Gleason
@@ -106,7 +107,8 @@ Early 1990s
 
 ### Publication date
 
-10 August 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

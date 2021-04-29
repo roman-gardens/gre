@@ -2,6 +2,7 @@
 article-type: "province"
 title: "Vigna Barberini"
 date: 2021-04-04T21:57:14+02:00
+latlon: [ 41.889306, 12.487109 ]
 province_id: ITALIA
 author: Françoise Villedieu
 editor: Rhiannon Paré
@@ -49,7 +50,7 @@ The artificial [terrace](http://vocab.getty.edu/page/aat/300004182) that now car
 
 Investigations by the [Soprintendenza Archeologica](http://www.sabap-rm-met.beniculturali.it/) in collaboration with [École française de Rome](https://www.efrome.it/) since 1985 have revealed further episodes of the history of the area. Approximately one third of the site has been explored, although the most ancient levels have been reached only sporadically (Fig. 2).  
 
-The excavations that reached levels prior to the rise of the Empire revealed a peristyle of a large [*domus*](http://vocab.getty.edu/page/aat/300005506) once decorated with plants and basins. Probably destroyed during the 60s of the first century CE, this luxurious dwelling was then buried under thick layers of soil used to create an artificial terrace that was a grand garden of the [Palace of Domitian](https://en.wikipedia.org/wiki/Palace_of_Domitian).  About a century later, during the last years of the second century, this section of the Imperial palace was demolished to make room for a monumental complex centered around a temple dedicated by the emperor [Heliogabalus](https://en.wikipedia.org/wiki/Elagabalus) to the eastern god, [Elagabalus](https://en.wikipedia.org/wiki/Elagabalus_(deity)), later rededicated by [Severus Alexander](https://en.wikipedia.org/wiki/Severus_Alexander) to [Jupiter Ultor](https://en.wikipedia.org/wiki/Jupiter_(mythology)).
+The excavations that reached levels prior to the rise of the Empire revealed a peristyle of a large [*domus*](http://vocab.getty.edu/page/aat/300005506) once decorated with plants and [basins](http://vocab.getty.edu/page/aat/300045614). Probably destroyed during the 60s of the first century CE, this luxurious dwelling was then buried under thick layers of soil used to create an artificial terrace that was a grand garden of the [Palace of Domitian](https://en.wikipedia.org/wiki/Palace_of_Domitian). About a century later, during the last years of the second century, this section of the imperial palace was demolished to make room for a monumental complex centered around a temple, the [*Elagabalium*](https://en.wikipedia.org/wiki/Elagabalium), dedicated by the emperor [Heliogabalus](https://en.wikipedia.org/wiki/Elagabalus) to the eastern god, [Elagabalus](https://en.wikipedia.org/wiki/Elagabalus_(deity)), which was later rededicated by [Severus Alexander](https://en.wikipedia.org/wiki/Severus_Alexander) to [Jupiter Ultor](https://en.wikipedia.org/wiki/Jupiter_(mythology)).
 <!-- -->
 PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
@@ -61,7 +62,7 @@ PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
 {{< figure src="../images/vigna_barberini_fig1.jpg" alt="Aerial photograph of the Vigna Barberini" title="Fig. 1. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma)." >}}
 <!-- -->
-{{< figure src="../images/vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" title="Fig. 2. VAerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma)." >}}
+{{< figure src="../images/vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" title="Fig. 2. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma)." >}}
 <!-- -->
 ### Dates
 

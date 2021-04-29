@@ -1,6 +1,7 @@
 ---
 title: "House in Insula 13 in Aventicum"
 date: 2020-07-15T10:06:00-04:00
+latlon: [ 46.88008, 7.040710 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -107,7 +108,8 @@ Houses: Late 1st century - Middle of 3rd century
 
 ### Publication date
 
-15 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

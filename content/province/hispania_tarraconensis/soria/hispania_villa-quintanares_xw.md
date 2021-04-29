@@ -1,6 +1,7 @@
 ---
 title: "Villa los Quintanares"
 date: 2020-11-2
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID
@@ -89,7 +90,8 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 
 
 ### Publication date
-20 November 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

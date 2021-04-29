@@ -1,6 +1,7 @@
 ---
 title: "Garden arrangement under the Libraries' terrace (Fig. 1, n. 9)"
 date: 2020-12-14T21:15:00-08:00
+latlon: [ 41.943021, 12.776021 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti
@@ -101,4 +102,5 @@ unspecified
 
 ### Publication date
 
-17 April 2021
+
+21 Apr 2021

@@ -1,6 +1,7 @@
 ---
 title: "Suburban Gardens in Camulodunum"
 date: 2020-07-06T16:47:36-04:00
+latlon: [ 51.890074, 0.901087 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -89,7 +90,8 @@ ig. 1: Area outside the Balkerne gate before widening of the town ditch. Details
 
 ### Publication date
 
-06 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

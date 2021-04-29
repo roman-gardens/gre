@@ -1,6 +1,7 @@
 ---
 title: "Tomb Garden of Iul(ia) Victorin(a) in Scarbantia"
 date: 2020-07-22T10:08:21-04:00
+latlon: [ 47.684893, 16.583036 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: John Bodel
@@ -92,4 +93,5 @@ A limestone funerary stele of probably third century date unearthed in 1973 near
 
 ### Publication date
 
-22 July 2020
+
+21 Apr 20210

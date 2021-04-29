@@ -1,6 +1,7 @@
 ---
 title: "Villa"
 date: 2020-10-12T20:00:00-04:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: (AUTHOR_ID)
@@ -93,4 +94,5 @@ unspecified
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
 ### Publication date
-12 Dec 2020
+
+21 Apr 20210

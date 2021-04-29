@@ -2,6 +2,7 @@
 
 title: "VIII.2.3. House of Championnet II"
 date: 2021-03-22T00:10:10-04:00
+latlon: [ 40.74842, 14.48479 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski
@@ -73,4 +74,5 @@ This house, very similar to VII.ii.1, was also excavated in 1799. This peristyle
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
-22 March 2021
+
+21 Apr 2021

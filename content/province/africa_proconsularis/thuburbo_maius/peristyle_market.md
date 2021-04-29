@@ -1,6 +1,7 @@
 ---
 title: "Peristyle Market (Marché)"
 date:
+latlon: [ 36.40112, 9.904448 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski
@@ -72,3 +73,4 @@ The market located to the SW of the forum had a peristyle that enclosed an open 
 <!--add in orcid id and info-->
 
 ### Publication Date
+21 Apr 2021

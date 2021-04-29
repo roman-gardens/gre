@@ -1,6 +1,7 @@
 ---
 title: "The garden between the Small Baths and the Three Exedras Hall (Fig. 1, n. 5)"
 date: 2020-12-14T21:15:00-08:00
+latlon: [ 41.940874, 12.775114 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Eugenia Salza Prina Ricotti
@@ -123,4 +124,5 @@ unspecified
 
 ### Publication date
 
-17 April 2021
+
+21 Apr 2021

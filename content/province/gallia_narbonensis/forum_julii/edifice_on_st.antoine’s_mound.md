@@ -1,6 +1,7 @@
 ---
 title: "Edifice on St. Antoine’s Mound"
 date: 2020-11-04T00:20:41-00:00
+latlon: [ 42.439512, 3.176623 ]
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu
@@ -101,7 +102,8 @@ The residence perhaps enjoyed an exterior garden in the vast open space of arabl
 [Emilie Chassillan](link)
 ### Publication date
 
-26 July 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 

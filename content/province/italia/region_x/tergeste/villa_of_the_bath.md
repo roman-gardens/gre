@@ -1,6 +1,7 @@
 ---
 title: "Villa of the Bath"
 date: 2020-12-10T12:00:02-05:00
+latlon: [ 45.697547, 13.737716 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Annalisa Marzano
@@ -100,7 +101,8 @@ unspecified
 
 ### Publication date
 
-15 Dec 2020
+
+21 Apr 2021
 
 <!--### Related articles-->
 
