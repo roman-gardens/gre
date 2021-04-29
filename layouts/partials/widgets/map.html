@@ -17,10 +17,10 @@
       }).setView([40, 17], 3);
       map.attributionControl.setPrefix('Basemaps ');
 
-      // OpenStreetMap, muted colors
+      // OpenStreetMap, muted colors, for low zoom values
       L.tileLayer.colorFilter('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         minZoom: 0,
-        maxZoom: 18,
+        maxZoom: 3,
         attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
         filter: [
           'brightness: 100%',
@@ -36,6 +36,20 @@
         minZoom: 4,
         maxZoom: 11,
         attribution: '<a href="https://dh.gu.se/dare/">DARE</a>',
+        filter: [
+          'brightness: 100%',
+          'contrast: 100%',
+          'saturation: 30%',
+          'opacity: 100%',
+          'sepia: 10%'
+        ]
+      }).addTo(map);
+
+      // OpenStreetMap, muted colors, for high zoom values
+      L.tileLayer.colorFilter('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        minZoom: 12,
+        maxZoom: 18,
+        attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
         filter: [
           'brightness: 100%',
           'contrast: 100%',
