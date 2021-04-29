@@ -44,8 +44,8 @@
 
   <!-- display any subdirectories -->
   {{ if len $dirs }}
-  <div class='province-subdivisions'>
-    <b>Province subdivisions:</b>
+  <div class='subdivisions'>
+    <b>Subdivisions:</b>
     {{ range $i, $v := sort $dirs -}}
       {{- if $i -}}, {{ end -}}
       {{ with strings.TrimPrefix $path . }}

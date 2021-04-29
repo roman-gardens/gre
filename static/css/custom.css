@@ -31,3 +31,23 @@ a.nav {
   height:12px ! important;
   width: 12px ! important;
 }
+
+#search-results-list {
+	margin: 1em;
+	list-style: none;
+}
+
+#search-results-list li {
+	margin: 1em 1em;
+}
+
+#search-results-list small {
+	color: #666;
+}
+
+.subdivisions {
+  margin: 1em 0;
+  padding: 1em;
+  background: #eee;
+  border: 1px solid #ccc;
+}
