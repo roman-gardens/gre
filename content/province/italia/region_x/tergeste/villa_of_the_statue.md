@@ -1,6 +1,7 @@
 ---
 title: "Villa of the Statue (I.iii.23)"
 date: 2020-12-10T12:00:02-05:00
+latlon: [ 45.7015, 13.725 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Annalisa Marzano

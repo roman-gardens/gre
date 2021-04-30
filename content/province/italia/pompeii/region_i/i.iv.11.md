@@ -2,6 +2,7 @@
 article-type: "province"
 title: "I.4.11 Caupona of Copious"
 date: 2021-03-19T12:45:15Z
+latlon: [ 40.750870, 14.493866 ]
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner

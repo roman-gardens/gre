@@ -1,6 +1,7 @@
 ---
 title: "Sacred Grove at Daphne"
 date: 2020-10-08T10:30-04:00
+latlon: [ 36.222551, 36.183214 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Christine Kondoleon, Elizabeth Macaulay-Lewis

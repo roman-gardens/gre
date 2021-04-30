@@ -2,10 +2,11 @@
 article-type: "province"
 title: "The Severan Complex"
 date: 2021-04-08T02:47:32+02:00
+latlon: [ 41.889306, 12.487109 ]
 province_id: PROVINCE_ID
 author: M.-A. Tomei
 editor: Rhiannon Paré
-draft: false
+draft: true
 tags:
  - "arcades (structural assemblies)"
  - "bathhouses (water recreation structures)"

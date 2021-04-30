@@ -1,6 +1,7 @@
 ---
 title: "Fontao Villa"
 date: 2020-11-2
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_ID

@@ -1,6 +1,7 @@
 ---
 title: "VIII.5.2. Casa del Gallo; House of the Cock"
 date: 2021-03-26T00:10:10-04:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski

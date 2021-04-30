@@ -2,6 +2,7 @@
 
 title: "VIII.2.13."
 date: 2021-03-22T00:10:10-04:00
+latlon: [ 40.74855, 14.48520 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski

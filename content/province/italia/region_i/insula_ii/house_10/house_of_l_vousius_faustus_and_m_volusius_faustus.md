@@ -1,6 +1,7 @@
 ---
 title: "House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)"
 date: 2020-07-24T18:18:22-04:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski

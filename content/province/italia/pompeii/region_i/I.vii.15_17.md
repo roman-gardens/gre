@@ -1,6 +1,7 @@
 ---
 title: "I.7.15-17 Shop-House "
 date: 2020-08-08T18:49:35-04:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski

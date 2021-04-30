@@ -1,6 +1,7 @@
 ---
 title: "Suburban Villa"
 date: 2020-10-01T07:38:05-07:00
+latlon: [ 33.532711, 10.674151 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

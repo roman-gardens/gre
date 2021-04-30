@@ -1,6 +1,7 @@
 ---
 title: "House of the Triumph of Neptune"
 date: 2020-10-01T07:38:05-07:00
+latlon: [ 35.07824, 11.018733 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: AUTHOR_UNKONWN

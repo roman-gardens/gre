@@ -2,6 +2,7 @@
 article-type: "province"
 title: "Caupona, VI.I.1"
 date: 2021-02-19T09:54:16-06:00
+latlon: [ 40.749738, 14.489882 ]
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Claire Campbell

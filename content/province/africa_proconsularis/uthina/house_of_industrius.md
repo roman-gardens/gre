@@ -1,6 +1,7 @@
 ---
 title: "House of Industrius (Maison d'Industrius)"
 date: 2020-09-29T09:49:36-04:00
+latlon: [ 36.607458, 10.172291 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek

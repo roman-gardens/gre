@@ -2,6 +2,7 @@
 article-type: "province"
 title: "Mausoleum Augusti"
 date: 2021-04-05T15:00:00-07:00
+latlon: [ 41.906030, 12.476423 ]
 province_id: PROVINCE_ID
 author: E.R. Macaulay
 editor: Joshua Rosenheim and Rhiannon Paré

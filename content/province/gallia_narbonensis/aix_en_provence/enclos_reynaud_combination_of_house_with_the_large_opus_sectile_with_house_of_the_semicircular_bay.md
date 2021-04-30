@@ -1,6 +1,7 @@
 ---
 title: "Enclos Reynaud, Combination of House with the large opus sectile with House of the semicircular bay"
 date: 2020-10-29T00:08:08-10:00
+latlon: [ 42.439512, 3.176623 ]
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu

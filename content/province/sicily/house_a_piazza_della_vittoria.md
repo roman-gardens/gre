@@ -1,6 +1,7 @@
 ---
 title: "House A, Piazza della Vittoria"
 date: 2020-10-01T11:30:00-05:00
+latlon: [ 38.11127, 13.353442 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Roger Wilson

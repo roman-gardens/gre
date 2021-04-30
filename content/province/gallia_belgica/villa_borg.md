@@ -1,6 +1,7 @@
 ---
 title: "Villa Borg"
 date: 2020-11-22T10:39:31-07:00
+latlon: [ 49.496681, 6.457675 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID

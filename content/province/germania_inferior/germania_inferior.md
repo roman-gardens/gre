@@ -1,6 +1,7 @@
 ---
 title: "Germania Inferior"
 date: 2020-07-12T10:26:59-07:00
+latlon: [ 51.606474, 5.794368 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

@@ -1,6 +1,7 @@
 ---
 title: "Villa of Santa Lucia"
 date: 2020-10-08T10:39:31-11:00
+latlon: [ 41.216005, -4.085251 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Clopper Almon

@@ -1,16 +1,17 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+latlon: [ 0, 0 ]
 article_id: ARTICLE_ID
 author: NAME_OF_AUTHOR
 editor: NAME_OF_EDITOR
-draft: false
+draft: true
 ---
 
 # Province
 
 <!--
-[PROVINCE_NAME]({{<relref "..">}}) 
+[PROVINCE_NAME]({{<relref "..">}})
 -->
 
 ## Province Description
@@ -20,9 +21,9 @@ draft: false
 
 # Location
 
-<!-- 
-[LOCATION_NAME]({{<relref ".">}}) \ 
-[LOCATION_NAME (Pleiades)](https://pleiades.stoa.org/places/108751) 
+<!--
+[LOCATION_NAME]({{<relref ".">}}) \
+[LOCATION_NAME (Pleiades)](https://pleiades.stoa.org/places/108751)
 -->
 
 ## Location Description
@@ -31,7 +32,7 @@ draft: false
 
 # Sublocation
 
-<!-- 
+<!--
 Regio IX
 
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
@@ -61,7 +62,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Maps
 
-<!-- 
+<!--
 OLD WAY (DO NOT USE)
 ![alt_text](../../images/image_name.ext)
 *CAPTION*
@@ -72,7 +73,7 @@ NEW WAY ↓↓↓↓
 
 ## Plans
 
-<!-- 
+<!--
 OLD WAY (DO NOT USE)
 ![alt_text](../../images/image_name.ext)
 *CAPTION*
@@ -83,7 +84,7 @@ NEW WAY ↓↓↓↓
 
 ## Images
 
-<!-- 
+<!--
 OLD WAY (DO NOT USE)
 ![alt_text](../../images/image_name.ext)
 *CAPTION*
@@ -98,8 +99,8 @@ NEW WAY ↓↓↓↓
 
 ## Bibliography
 
-<!-- 
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL) 
+<!--
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
 ### Periodo ID

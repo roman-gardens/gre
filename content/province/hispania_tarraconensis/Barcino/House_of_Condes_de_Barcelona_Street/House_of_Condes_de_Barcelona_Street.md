@@ -1,6 +1,7 @@
 ---
 title: "House of Condes de Barcelona Street"
 date: 2020-10-18T12:40:31-13:00
+latlon: [ 41.385, 2.173611 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Clopper Almon

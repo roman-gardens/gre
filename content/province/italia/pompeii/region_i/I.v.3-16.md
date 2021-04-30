@@ -2,6 +2,7 @@
 article-type: "province"
 title: "I.5.3/16"
 date: 2020-08-03T16:34:47-04:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski

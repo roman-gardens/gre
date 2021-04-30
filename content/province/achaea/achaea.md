@@ -2,6 +2,7 @@
 article-type: "province"
 title: "Achaea"
 date: 2020-07-20T13:58:53-04:00
+latlon: [ 38.102121, 22.224585 ]
 province_id: PROVINCE_ID
 author: Maureen Carroll
 editor: Jane Millar

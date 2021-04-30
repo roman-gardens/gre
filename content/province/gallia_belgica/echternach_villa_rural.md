@@ -1,6 +1,7 @@
 ---
 title: "Rural Villa"
 date: 2020-12-08T10:39:31-07:00
+latlon: [ 49.804053, 6.411923 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID

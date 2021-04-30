@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Poseidon"
 date: 2020-07-26T10:54:32-04:00
+latlon: [ 37.915797, 22.992968 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

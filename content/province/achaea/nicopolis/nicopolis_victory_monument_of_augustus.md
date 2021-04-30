@@ -1,6 +1,7 @@
 ---
 title: "Victory Monument of Augustus"
 date: 2020-07-27T08:51:24-04:00
+latlon: [ 39.027735, 20.735583 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author:

@@ -1,6 +1,7 @@
 ---
 title: "Funerary Chamber of Manlia Felicitas"
 date: 2020-11-30T10:54:29-07:00
+latlon: [ 41.853944, 12.517797 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author:
