@@ -6,6 +6,8 @@
         integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
         crossorigin=""></script>
 <script src="{{ .Site.BaseURL }}js/leaflet-tilelayer-colorfilter.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/leaflet.fullscreen.min.js"></script>
+<link href="{{ .Site.BaseURL }}css/leaflet.fullscreen.css" rel="stylesheet"/>
 <div class="widget-taglist widget">
   <h4 class="widget__title">Map</h4>
   <div class="widget__content">
@@ -13,7 +15,8 @@
     <script>
       //Create Map
       map = L.map('map', {
-        attributionControl: true
+        attributionControl: true,
+        fullscreenControl: true
       }).setView([40, 17], 3);
       map.attributionControl.setPrefix('Basemaps ');
 
