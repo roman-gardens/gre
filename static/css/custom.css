@@ -50,6 +50,10 @@ a.nav {
 	color: #666;
 }
 
+.widget a {
+  color: #000;
+}
+
 .subdivisions {
   margin: 1em 0;
   padding: 1em;
