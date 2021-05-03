@@ -45,15 +45,15 @@ An exedra, from which one enjoyed a splendid view of the garden, opened onto the
 
 At the ends of the Hippodrome the remains of two semicircular fountains are partially preserved. In the middle there must have been an open garden space, confirmed by water conduits and the lack of paving (Fig. 14). It is possible that the viridarium mentioned as existing within the imperial palaces, to which Helagabalus had a mountain of snow transported (Hist. Aug., Heliog. 23,8), was located here.
 <!-- -->
-RELATED SITES OF THE ITALIAN EXCAVATIONS ON THE PALATINE:
+RELATED PHASES ON THE PALATINE:
 <!-- -->
-[Gardens of the Republican Domus]({{<relref"/palatine_domus.md">}})\
-[Garden of the House of Augustus]({{<relref"/house_of_augustus.md">}})\
-[Garden of the Domus Tiberiana]({{<relref"/Domus_tiberiana.md">}})\
-[Garden of the Neronian Palace]({{<relref"/palace_of_nero.md">}})\
-[Garden of the Domus Flavia]({{<relref"/Domus_flavia.md">}})\
-[Garden of the Domus Augustana]({{<relref"/domus_augustana.md">}})\
-[Garden of the Severan Complex]({{<relref"/severan_complex.md">}})
+[Gardens of the Republican Domus (A)]({{<relref"/palatine_domus.md">}})\
+[Garden of the House of Augustus (B)]({{<relref"/house_of_augustus.md">}})\
+[Garden of the Domus Tiberiana (C)]({{<relref"/Domus_tiberiana.md">}})\
+[Garden of the Neronian Palace (D)]({{<relref"/palace_of_nero.md">}})\
+[Garden of the Domus Flavia (E)]({{<relref"/Domus_flavia.md">}})\
+[Garden of the Domus Augustana (F,G)]({{<relref"/domus_augustana.md">}})\
+[Garden of the Severan Complex (I)]({{<relref"/severan_complex.md">}})
 <!-- -->
 <!-- -->
 ### Figures
