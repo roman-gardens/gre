@@ -111,6 +111,7 @@ oscilla
 [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 [pilasters](http://vocab.getty.edu/page/aat/300002737)
 [pillars](http://vocab.getty.edu/page/aat/300264605)
+[piping (plumbing system component)](http://vocab.getty.edu/page/aat/300052572)
 [piscinae]( http://vocab.getty.edu/page/aat/300375619)
 [pools](http://vocab.getty.edu/page/aat/300008692)
 [planting beds](http://vocab.getty.edu/page/aat/300430426)
