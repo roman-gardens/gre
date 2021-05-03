@@ -41,6 +41,8 @@ Garden of the Flavian Imperial Palace, Palatine
 - [column (architectural element)](http://vocab.getty.edu/page/aat/300001571)
 - [flowerpot](http://vocab.getty.edu/page/aat/300194749)
 - [fountain](http://vocab.getty.edu/page/aat/300006179)
+- [lead (metal)](http://vocab.getty.edu/page/aat/300011022)
+- [piping (plumbing system component)](http://vocab.getty.edu/page/aat/300052572)
 - [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
 - [niche (architectural element)](http://vocab.getty.edu/page/aat/300002704)
 - [palace](http://vocab.getty.edu/page/aat/300005734)

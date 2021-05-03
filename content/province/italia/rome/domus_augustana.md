@@ -55,22 +55,22 @@ Garden of the Domus Augustana, Palatine
 
 Lower Peristyle
 
-The lower [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) of the [Domus Augustana](https://en.wikipedia.org/wiki/Domus_Augustana), the private area of the [Flavian Palace](https://en.wikipedia.org/wiki/Flavian_Palace), was sumptuously decorated with a large [fountain](http://vocab.getty.edu/page/aat/300006179) in the shape of four [*peltae*]( http://vocab.getty.edu/page/aat/300213495) (semi-circular shields), common motifs for gardens of the early imperial period, comparable to the arrangements at [Conimbriga](https://en.wikipedia.org/wiki/Con%C3%ADmbriga) (Fig. 9). Water, which is given great space within the architecture, was included in a garden adorned with dense [planting beds](http://vocab.getty.edu/page/aat/300430426) of shrubs and flowers, alternating with decorative elements and important [sculptures](http://vocab.getty.edu/page/aat/300047600). Such scenic plantings around water within an architectural setting are comparable to the later [Maritime Theater](http://vwhl.soic.indiana.edu/villa/maritimetheater.php) at [Hadrian’s Villa](https://en.wikipedia.org/wiki/Hadrian%27s_Villa), which was perhaps inspired by this Flavian peristyle garden. Because of clearly articulated planting beds it is possible to reconstruct the shape of this garden as composed of alternating beds, [basins](http://vocab.getty.edu/page/aat/300045614) and plants around a central fountain. The peristyle garden and fountain as well as several nearby [nymphaea](http://vocab.getty.edu/page/aat/300006809) must have made this part of the palace especially cool and welcoming on hot summer days.
+The lower [peristyles](https://en.wikipedia.org/wiki/Peristyle) of the [Domus Augustana](https://en.wikipedia.org/wiki/Domus_Augustana), the private area of the [Flavian Palace](https://en.wikipedia.org/wiki/Flavian_Palace), was sumptuously decorated with a large [fountain](http://vocab.getty.edu/page/aat/300006179) in the shape of four [*peltae*]( http://vocab.getty.edu/page/aat/300213495) (semi-circular shields), common motifs for gardens of the early imperial period, comparable to the arrangements at [Conimbriga](https://en.wikipedia.org/wiki/Con%C3%ADmbriga) (Fig. 9). Water, which is given great space within the architecture, was included in a garden adorned with dense [planting beds](http://vocab.getty.edu/page/aat/300430426) of shrubs and flowers, alternating with decorative elements and important [sculptures](http://vocab.getty.edu/page/aat/300047600). Such scenic plantings around water within an architectural setting are comparable to the later [Maritime Theater](http://vwhl.soic.indiana.edu/villa/maritimetheater.php) at [Hadrian’s Villa](https://en.wikipedia.org/wiki/Hadrian%27s_Villa), which was perhaps inspired by this Flavian peristyle garden. Because of clearly articulated planting beds it is possible to reconstruct the shape of this garden as composed of alternating beds, [basins](http://vocab.getty.edu/page/aat/300045614) and plants around a central fountain. The peristyle garden and fountain as well as several nearby [nymphaea](http://vocab.getty.edu/page/aat/300006809) must have made this part of the palace especially cool and welcoming on hot summer days.
 
 Upper Peristyle
 
 In the upper peristyle garden in the middle of a large rectangular [pool](http://vocab.getty.edu/page/aat/300008692) with a highly articulated edge stood a small [temple](http://vocab.getty.edu/page/aat/300007595) on a [podium](http://vocab.getty.edu/page/aat/300000976) (Fig. 10), which could be reached by means of a little bridge supported on arches (Fig. 11). Contiguous to this peristyle was a series of rooms with non-rectilinear plans, among which were a [porticoed](http://vocab.getty.edu/page/aat/300004145) [*diaeta*](https://referenceworks.brillonline.com/entries/brill-s-new-pauly/diaeta-e316370?s.num=11) and water gardens. These elements lent the upper peristyle the characteristics of an idyllic-sacral space, where the plantings occupy the areas between the temple and the surrounding structures, which had open forms such as [*loggias*](http://vocab.getty.edu/page/aat/300004137), [terraces](http://vocab.getty.edu/page/aat/300004182), [*exedrae*](http://vocab.getty.edu/page/aat/300081589), and splendid [statues](http://vocab.getty.edu/page/aat/300047600) and works of art (fountains, basins, [herms](http://vocab.getty.edu/page/aat/300047170)
  etc.) in precious [marbles](http://vocab.getty.edu/page/aat/300011443).
  <!-- -->
- RELATED SITES OF THE ITALIAN EXCAVATIONS ON THE PALATINE:
+ RELATED PHASES ON THE PALATINE:
  <!-- -->
- [Gardens of the Republican Domus]({{<relref"/palatine_domus.md">}})\
- [Garden of the House of Augustus]({{<relref"/house_of_augustus.md">}})\
- [Garden of the Domus Tiberiana]({{<relref"/Domus_tiberiana.md">}})\
- [Garden of the Neronian Palace]({{<relref"/palace_of_nero.md">}})\
- [Garden of the Domus Flavia]({{<relref"/Domus_flavia.md">}})\
- [Garden of the Palatine Stadium]({{<relref"/palatine_stadium.md">}})\
- [Garden of the Severan Complex]({{<relref"/severan_complex.md">}})
+ [Gardens of the Republican Domus (A)]({{<relref"/palatine_domus.md">}})\
+ [Garden of the House of Augustus (B)]({{<relref"/house_of_augustus.md">}})\
+ [Garden of the Domus Tiberiana (C)]({{<relref"/Domus_tiberiana.md">}})\
+ [Garden of the Neronian Palace (D)]({{<relref"/palace_of_nero.md">}})\
+ [Garden of the Domus Flavia (E)]({{<relref"/Domus_flavia.md">}})\
+ [Garden of the Palatine Stadium (H)]({{<relref"/palatine_stadium.md">}})\
+ [Garden of the Severan Complex (I)]({{<relref"/severan_complex.md">}})
  <!-- -->
  <!-- -->
 
