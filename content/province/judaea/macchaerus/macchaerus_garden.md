@@ -1,5 +1,5 @@
 ---
-title: "Macchaerus Southern Courtyard"
+title: "Machaerus Southern Courtyard"
 date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.870046, 35.443876 ]
 province_id: PROVINCE_ID
@@ -18,9 +18,8 @@ categories:
 [Iudaea (province) (Pleiades)](https://pleiades.stoa.org/places/981527)
 
 ## Province Description
-Judaea, the Roman province, included parts of the areas of the [Hasmonean](https://en.wikipedia.org/wiki/Hasmonean_dynasty) and [Herodium](https://en.wikipedia.org/wiki/Herodian_dynasty) kingdoms, notably Biblical Judah, Samaria, and Edom. Its capital was Caesarea Maritima. Roman influence in the region began in 63 CE, when the Roman general [Pompey the Great](https://en.wikipedia.org/wiki/Pompey) took over Syria from Mithridates and, coming into Jerusalem, occupied the Second Temple.  Pompey appointed [Antipater](https://en.wikipedia.org/wiki/Antipater_the_Idumaean), the father of Herod, as the first Roman Procurator. Later these ties allowed [Herod](https://en.wikipedia.org/wiki/Herod_the_Great) to seek backing from Rome against the Hasmoneans in 40 BCE, when the senate recognized him as “king of the Jews.”  His territories came to include the regions of Galilee, Gaulanitis (the Golan),Peraea and the Decapolis. Herod balanced his allegiance to Rome with the independence of his kingdom, often employing architectural projects to express his ambitions and control of nature to express his capacity to rule . His many palaces, placed strategically around the kingdom, feature dramatically designed landscapes and gardens.  Upon his death, his heirs were unable to maintain order and Judea was annexed to Syria in 6 CE, although it was assigned its own procurator.   By the time of [Trajan](https://en.wikipedia.org/wiki/Trajan), Judea was reduced in size and the Herodian palaces abandoned, preserving them over the millennia for archaeologists. [Hadrian](https://en.wikipedia.org/wiki/Hadrian) renamed the province Syria Palaestina after the [Bar Kochba revolts (132-135)](https://en.wikipedia.org/wiki/Bar_Kokhba_revolt) provoked him to erase the name of Judea.  
-The period for which we have the richest evidence of a garden culture in this region is during the reign of [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great).  A client king of Rome, Herod’s relationships with [Mark Antony](https://en.wikipedia.org/wiki/Mark_Antony), [Cleopatra](https://en.wikipedia.org/wiki/Cleopatra), [Augustus](https://en.wikipedia.org/wiki/Augustus) and [Marcus Agrippa](https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa) and other officials have been preserved in the texts of [Flavius Josephus](https://en.wikipedia.org/wiki/Josephus).  These constitute a rare record of interactions between Rome and its territories, and provide a valuable context for understanding the trends of design in the early imperial period.  The proximity of Judea to Alexandria, whose palaces and gardens lie beneath the modern city and its harbors, may also provide a suggestion of the late Hellenistic garden culture that Romans emulated.  Evidence of gardens in the Hasmonean winter palaces at Jericho and the palaces of Hyracanus the Tobiad on the other side of the Jordan Valley provide rare cases where texts can illuminate archaeological evidence.   These gardens require further investigation and both are threatened by local development.
-This geography of Judaea comprises a wide variety of biomes, from richly watered plains of the Galilee and the Jordan, to the semi arid Judean Hills, the humid, fertile coastal plain of the Mediterranean, and the deserts of the Dead Sea valley and the Negev.
+Judaea, the Roman province, included parts of the areas of the [Hasmonean](https://en.wikipedia.org/wiki/Hasmonean_dynasty) and [Herodian](https://en.wikipedia.org/wiki/Herodian_dynasty) kingdoms, notably Biblical Judah, Samaria, and Edom. Its capital was Caesarea Maritima. Roman influence in the region began in 63 CE, when the Roman general [Pompey the Great](https://en.wikipedia.org/wiki/Pompey) conquered Syria from Mithridates of Pontus, besieged Jerusalem, and captured the Second Temple; he appointed Hyrcanus, one of the two Hasmonean brothers fighting for kingship, as ethnarch of Judaea. Later, Julius Caesar  appointed [Antipater](https://en.wikipedia.org/wiki/Antipater_the_Idumaean), the father of Herod, as  Judaea's first Roman Procurator. Later these ties allowed [Herod](https://en.wikipedia.org/wiki/Herod_the_Great) to seek backing from Rome against the Hasmoneans in 40 BCE, when the Senate recognized him as “king of the Jews.”  His [territories](https://en.wikipedia.org/wiki/Herodian_Kingdom_of_Judea) came to include the regions of Galilee, Gaulanitis (the Golan),Peraea and the Decapolis, and Augustus later granted him the coastal cities, Batanaea, Auranitis, and Trachonitis. Herod balanced his allegiance to Rome with the independence of his kingdom, often employing architectural projects to express his ambitions and control of nature to express his capacity to rule . His many palaces, placed strategically around the kingdom, feature dramatically designed landscapes and gardens.  Upon his death, his son and heir Archelaus was unable to maintain order and the major part of Judaea was annexed to Syria in 6 CE, with its own prefect, while two other sons of Herod, Philip and Antipas, received territories as tetrarchs. By the time of [Trajan](https://en.wikipedia.org/wiki/Trajan), Judea was reduced in size and many of the Herodian palaces abandoned, preserving them over the millennia for archaeologists. [Hadrian](https://en.wikipedia.org/wiki/Hadrian) renamed the province  After the [Bar Kochba revolts (132-135)](https://en.wikipedia.org/wiki/Bar_Kokhba_revolt)Hadrian renamed the province Syria Palaestina, erasing the name of Judaea.  
+The geography of Judaea comprises a wide variety of biomes, from richly watered plains of the Galilee and the Jordan, to the semi-arid Judean Hills, the humid, fertile coastal plain of the Mediterranean, and the deserts of the Dead Sea valley and the Negev. The period for which we have the richest evidence of a garden culture in this region is during the reign of [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great).  An allied king of Rome, Herod’s relationships with [Mark Antony](https://en.wikipedia.org/wiki/Mark_Antony), [Cleopatra](https://en.wikipedia.org/wiki/Cleopatra), [Augustus](https://en.wikipedia.org/wiki/Augustus), and [Marcus Agrippa](https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa) and other officials ave been preserved in the texts of [Flavius Josephus](https://en.wikipedia.org/wiki/Josephus).  These constitute a rare record of interactions between Rome and its territories, and provide a valuable context for understanding the trends of design in the early imperial period.  The proximity of Judaea to Alexandria, whose palaces and gardens lie beneath the modern city and its harbors, may also provide a suggestion of the late Hellenistic garden culture that Romans emulated.  Evidence of gardens in the Hasmonean winter palaces at Jericho and the palace identified as that of Hyracanus the Tobiad at 'Iraq al-Amir on the other side of the Jordan Valley provide rare cases where texts can illuminate archaeological evidence. These gardens require further investigation and both are threatened by local development.
 
 
 
@@ -31,7 +30,7 @@ This geography of Judaea comprises a wide variety of biomes, from richly watered
 
 ### Location Description
 
-Josephus describes the citadel of Macchaerus in detail (JB VII, 6) as the location where John the Baptist was imprisoned and executed by Herod Antipas.  The German explorer, Ulrich Jasper Seetzen located it for publication in 1807.  The site lies east of the Dead Sea in Transjordan.  Excavations were conducted by Vardaman in June 1968, by Corbo and Piccirillo in 1978-1981 and 1992-1993.  In 2008, the Hungarian Academy of Arts resumed work.
+Josephus describes the citadel of Machaerus in detail (JB VII, 6) as the location where John the Baptist was imprisoned and executed by Herod Antipas.  The German explorer, Ulrich Jasper Seetzen located it for publication in 1807.  The site lies east of the Dead Sea in Transjordan.  Excavations were conducted by Vardaman in June 1968, by Corbo and Piccirillo in 1978-1981 and 1992-1993.  In 2008, the Hungarian Academy of Arts resumed work.
 
 
 <!-- LEAVE THIS BLANK FOR NOW -->
@@ -87,9 +86,16 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 ### Bibliography
 
-* Vörös, Gy, “Machaerus:  Excavations and Surveys (2009-2013)” SHAJ XII, 529-542. http://publication.doa.gov.jo/uploads/publications/15/SHAJ%20XII-529-542.pdf (see model on p. 539 fig. 11); Vörös, Gy. 2013. MACHAERUS I: History, Archaeology and Architecture of the Fortified Herodian Royal Palace and City Overlooking the Dead Sea in Transjordan. Final Report of the Excavations and Surveys: 1807-2012. Milano: Edizioni Terra Santa, SBF Collectio Maior 53. [worldcat] (https://www.worldcat.org/title/excavation-at-herodian-jericho-1951-for-1952-1954/oclc/256829094&referer=brief_results)
+* Vörös, G, “Machaerus:  Excavations and Surveys (2009-2013)” SHAJ XII, 529-542. http://publication.doa.gov.jo/uploads/publications/15/SHAJ%20XII-529-542.pdf (see model on p. 539 fig. 11); Vörös, Gy. 2013. MACHAERUS I: History, Archaeology and Architecture of the Fortified Herodian Royal Palace and City Overlooking the Dead Sea in Transjordan. Final Report of the Excavations and Surveys: 1807-2012. Milano: Edizioni Terra Santa, SBF Collectio Maior 53.
+
+* Vörös, G, 2013: MACHAERUS I: History, Archaeology and Architecture of the Fortified Herodian Royal Palace and City Overlooking the Dead Sea in Transjordan. Final Report of the Excavations and Surveys 1807–2012 (SBF Collectio Maior 53), Milan. [Worldcat](https://www.worldcat.org/title/machaerus-i-history-archaeology-and-architecture-of-the-fortified-herodian-royal-palace-and-city-overlooking-the-dead-sea-in-transjordan-final-report-of-the-excavations-and-surveys-1807-2012/oclc/850428802)
+
+* Vörös, G, 2015: MACHAERUS II: The Hungarian Archaeological Mission in the Light of the American-Baptist and Italian-Franciscan Excavations and Surveys. Final Report 1968–2015 (SBF Collectio Maior 55), Milan.[Worldcat](https://www.worldcat.org/title/machaerus-ii-the-hungarian-archaeological-mission-in-the-light-of-the-american-baptist-and-italian-franciscan-excavations-and-surveys-final-report-1968-2014/oclc/922911326&referer=brief_results)
+
+* Vörös, G, 2019: MACHAERUS III: The Golden Jubilee of the Archaeological Excavations. Final Report on the Herodian Citadel 1968–2018 (SBF Collectio Maior 56), Jerusalem–Milano–Mount Nebo.[Worldcat](https://www.worldcat.org/title/machaerus-iii-the-golden-jubilee-of-the-archaeological-excavations-final-report-on-the-herodian-citadel-1968-2018/oclc/1242122718&referer=brief_results)
 
 
+* Vörös, G, 2020: “The Bema in the Lithostrotos-Gabbatha on the Golgotha of Saint John the Baptist: The Apsidal Judgement-Seat Throne-Niche of Tetrarch Antipas in the Stone-Paved Herodian Royal Peristyle Courtyard of the Fortified Machaerus Mountaintop-Palace Overlooking the Dead Sea in Transjordan,” Holy Land Archaeology on Either Side: Archaeological Essays in Honour of Eugenio Alliata, ofm. (SBF Collectio Maior 57), Milano, pp. 99–120.
 
 
 <!--#### Periodo ID-->
@@ -100,14 +106,14 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 [687917](https://pleiades.stoa.org/places/687917)
 
-#### TGN ID
+<!--#### TGN ID
 
-[#](#)
+[#](#)-->
 
 ### Contributor
 
-[Kathryn L. Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)
-(ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378)
+[Győző Vörös](http://worldcat.org/identities/lccn-no98121290/)
+
 
 ### Publication date
 
