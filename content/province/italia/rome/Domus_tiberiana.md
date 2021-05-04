@@ -51,6 +51,7 @@ Garden of the Domus Tiberiana, Palatine
 - [terrace](http://vocab.getty.edu/page/aat/300004182)
 <!-- -->
 - [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
+- [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
 - [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 - [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
@@ -76,13 +77,13 @@ During the Flavian era, the garden was covered by new constructions in sectors 1
 <!-- -->
 RELATED PHASES ON THE PALATINE:
 <!-- -->
-[Gardens of the Republican Domus (A)]({{<relref"/palatine_domus.md">}})\
-[Garden of the House of Augustus (B)]({{<relref"/house_of_augustus.md">}})\
-[Garden of the Neronian Palace (D)]({{<relref"/palace_of_nero.md">}})\
-<!-- [Garden of the Domus Flavia (E)]({{<relref"/Domus_flavia.md">}})\
-[Garden of the Domus Augustana (F,G)]({{<relref"/domus_augustana.md">}})\
-[Garden of the Palatine Stadium (H)]({{<relref"/palatine_stadium.md">}})\-->
-[Garden of the Severan Complex (I)]({{<relref"/severan_complex.md">}})
+[Gardens of the Republican Domus (A)]({{<relref. "palatine_domus.md">}})\
+[Garden of the House of Augustus (B)]({{<relref. "house_of_augustus.md">}})\
+[Garden of the Neronian Palace (D)]({{<relref. "palace_of_nero.md">}})\
+[Garden of the Domus Flavia (E)]({{<relref. "Domus_flavia.md">}})\
+[Garden of the Domus Augustana (F,G)]({{<relref. "domus_augustana.md">}})\
+[Garden of the Palatine Stadium (H)]({{<relref. "palatine_stadium.md">}})\
+[Garden of the Severan Complex (I)]({{<relref. "severan_complex.md">}})
 <!-- -->
 <!-- -->
 
