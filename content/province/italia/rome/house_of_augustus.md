@@ -69,13 +69,13 @@ Finally, both the inventor of the [*ars topiaria*](https://en.wikipedia.org/wiki
 <!-- -->
 RELATED PHASES ON THE PALATINE:
 <!-- -->
-[Gardens of the Republican Domus (A)]({{<relref"/palatine_domus.md">}})\
-[Garden of the Domus Tiberiana (C)]({{<relref"/Domus_tiberiana.md">}})\
-[Garden of the Neronian Palace (D)]({{<relref"/palace_of_nero.md">}})\
-<!--[Garden of the Domus Flavia (E)]({{<relref"/Domus_flavia.md">}})\
-[Garden of the Domus Augustana (F,G)]({{<relref"/domus_augustana.md">}})\
-[Garden of the Palatine Stadium (H)]({{<relref"/palatine_stadium.md">}})\-->
-[Garden of the Severan Complex (I)]({{<relref"/severan_complex.md">}})
+[Gardens of the Republican Domus (A)]({{<relref. "palatine_domus.md">}})\
+[Garden of the Domus Tiberiana (C)]({{<relref. "Domus_tiberiana.md">}})\
+[Garden of the Neronian Palace (D)]({{<relref. "palace_of_nero.md">}})\
+[Garden of the Domus Flavia (E)]({{<relref. "Domus_flavia.md">}})\
+[Garden of the Domus Augustana (F,G)]({{<relref. "domus_augustana.md">}})\
+[Garden of the Palatine Stadium (H)]({{<relref. "palatine_stadium.md">}})\
+[Garden of the Severan Complex (I)]({{<relref. "severan_complex.md">}})
 <!-- -->
 <!-- -->
 ### Figures
