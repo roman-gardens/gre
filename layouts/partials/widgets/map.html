@@ -62,37 +62,6 @@
         ]
       }).addTo(map);
 
-      // Esri World Imagery, lightened
-      L.tileLayer.colorFilter('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-        minZoom: 19,
-        maxZoom: 19,
-        attribution: '<a href="https://www.arcgis.com/home/item.html?id=10df2279f9684e4a9f6a7f08febac2a9">Esri</a>',
-        filter: [
-          'brightness: 100%',
-          'contrast: 100%',
-          'saturation: 100%',
-          'opacity: 70%',
-          'sepia: 0%'
-        ]
-      }).addTo(map);
-
-/*
-      // Stamen Toner labels
-      L.tileLayer.colorFilter('https://stamen-tiles-{s}.a.ssl.fastly.net/toner-labels/{z}/{x}/{y}{r}.png', {
-        minZoom: 12,
-        maxZoom: 19,
-        attribution: '<a href="http://maps.stamen.com/toner-labels/">Stamen</a>',
-        filter: [
-          'brightness: 100%',
-          'contrast: 100%',
-          'saturation: 100%',
-          'opacity: 70%',
-          'sepia: 0%',
-          'invert: 100%'
-        ]
-      }).addTo(map);
-*/
-
       <!-- add marker for each garden relevant to the current page -->
       markers = [];
       bounds = L.latLngBounds();
