@@ -47,11 +47,11 @@
 
 # Categories widget
 - id: categories_title
-  translation: "Provinces"
+  translation: "Categories"
 
 # Recent Posts widget
 - id: recent_title
-  translation: "Newest Gardens"
+  translation: "Recent Posts"
 
 # Social widget
 - id: social_title
@@ -59,7 +59,7 @@
 
 # Tags List widget
 - id: tags_title
-  translation: "Keywords"
+  translation: "Tags"
 
 # Footer
 - id: footer_credits
