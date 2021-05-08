@@ -21,7 +21,7 @@
       map.attributionControl.setPrefix('Basemaps ');
 
       // OpenStreetMap, muted colors, for low zoom values
-      L.tileLayer.colorFilter('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      L.tileLayer.colorFilter('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         minZoom: 0,
         maxZoom: 3,
         attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -49,7 +49,7 @@
       }).addTo(map);
 
       // OpenStreetMap, muted colors, for high zoom values
-      L.tileLayer.colorFilter('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      L.tileLayer.colorFilter('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         minZoom: 12,
         maxZoom: 19,
         attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
