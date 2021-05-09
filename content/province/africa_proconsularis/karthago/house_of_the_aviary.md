@@ -17,7 +17,7 @@ categories:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
 
@@ -84,7 +84,7 @@ The house dates from the end of the IInd-IVth century.
 ### Bibliography
 * A. Ennabli, “La Maison de la Volière à Carthage: L’Architecture", p. 132, in *Mosaïque, Recueil d’hommage à Henri Stern*, Paris, 1983. [(worldcat)](http://www.worldcat.org/oclc/10727878)
 * W. Ben Osman, “Etude des pavements de la Villa de la Volière”, p. 147, in *Mosaïque, Recueil d’hommage à Henri Stern*, Paris, 1983. [(worldcat)](http://www.worldcat.org/oclc/10727878)
-* Bullo, S. and F. Ghedini, Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman, Rome: Edizioni Quasar, 2003, p. 125-128. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 125-128. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 
 <!--#### Periodo ID-->
