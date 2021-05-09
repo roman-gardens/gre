@@ -60,7 +60,7 @@ House of the Seasons (La maison des Saisons)
 -->
 
 ### Plans
-{{< figure src="../images/AFR_Suf_hs_amalek.jpg" alt="Plan of the House of the Seasons at Sufetula; rights statement" title="Fig. 1: Plan of the House of the Seasons. (Rights statement)" >}}
+{{< figure src="../images/AFR_Suf_hs_amalek1.jpg" alt="Plan of the House of the Seasons at Sufetula; rights statement" title="Fig. 1: Plan of the House of the Seasons. (Duval, N. and Hallier, G., 1972, fig. 11)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
@@ -75,11 +75,13 @@ House of the Seasons (La maison des Saisons)
 The house is dated to the late IVth. early Vth. Century
 
 ### Bibliography
-* Parrish, D., "The Mosaic of Xenophon from Sbeitla", in *Mosaïque, Recueil d’hommages à Henri Stern, Paris*, 1982, pp. 297-306, pl. CXCV. 1. [(worldcat)](http://www.worldcat.org/oclc/10727878)
-* A.Merlin in *BCTH*, 1910, p. CXCVI-CXCVII. [(worldcat)](http://www.worldcat.org/oclc/224692325)
-* Duval, N., Baratte, F., *Les ruines de Sufetula Sbeïtla*, Tunis, 1973, p. 65-69, fig. 44. [(worldcat)](http://www.worldcat.org/oclc/1107607946)
-* Parrish, D., *The Seasons mosaics of Roman North Africa*, Rome, 1984, p. 215-218. [(worldcat)](http://www.worldcat.org/oclc/1022822931)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 201-202. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Duval, N., Baratte, F., *Les ruines de Sufetula Sbeïtla*, Tunis, 1973, p. 65-69, fig. 44. [(worldcat)](http://www.worldcat.org/oclc/1107607946)
+* Duval, N., "Plastique chrétienne de Tunisie et d'Algérie", in *Bulletin archéologique du Comité des Travaux Historiques et Scientifique BAC* (1972), pp. 69-75 and fig. 11.[(worldcat)](http://www.worldcat.org/oclc/888111893)
+* Merlin, A., in *BCTH*, 1910, p. CXCVI-CXCVII. [(worldcat)](http://www.worldcat.org/oclc/224692325)
+* Parrish, D., "The Mosaic of Xenophon from Sbeitla", in *Mosaïque, Recueil d’hommages à Henri Stern, Paris*, 1982, pp. 297-306, pl. CXCV. 1. [(worldcat)](http://www.worldcat.org/oclc/10727878)
+* Parrish, D., *The Seasons mosaics of Roman North Africa*, Rome, 1984, p. 215-218. [(worldcat)](http://www.worldcat.org/oclc/1022822931)
+
 
 
 <!--#### Periodo ID-->
