@@ -6,7 +6,7 @@ latlon: [ 41.889306, 12.487109 ]
 province_id: PROVINCE_ID
 author: M.-A. Tomei
 editor: Rhiannon Paré
-draft: false
+draft: true
 ---
 
 ## Province
@@ -65,13 +65,13 @@ This large, sunny peristyle is likely “the place called Sicilia” near the *C
 <!-- -->
 RELATED PHASES ON THE PALATINE:
 <!-- -->
-[Gardens of the Republican Domus (A)]({{<relref. "palatine_domus.md">}})\
-[Garden of the House of Augustus (B)]({{<relref. "house_of_augustus.md">}})\
-[Garden of the Domus Tiberiana (C)]({{<relref. "Domus_tiberiana.md">}})\
-[Garden of the Neronian Palace (D)]({{<relref. "palace_of_nero.md">}})\
-[Garden of the Domus Augustana (F,G)]({{<relref. "domus_augustana.md">}})\
-[Garden of the Palatine Stadium (H)]({{<relref. "palatine_stadium.md">}})\
-[Garden of the Severan Complex (I)]({{<relref. "severan_complex.md">}})
+[Gardens of the Republican Domus (A)]({{<relref "palatine_domus.md">}})\
+[Garden of the House of Augustus (B)]({{<relref "house_of_augustus.md">}})\
+[Garden of the Domus Tiberiana (C)]({{<relref "Domus_tiberiana.md">}})\
+[Garden of the Neronian Palace (D)]({{<relref "palace_of_nero.md">}})\
+[Garden of the Domus Augustana (F,G)]({{<relref "domus_augustana.md">}})\
+[Garden of the Palatine Stadium (H)]({{<relref "palatine_stadium.md">}})\
+[Garden of the Severan Complex (I)]({{<relref "severan_complex.md">}})
 <!-- -->
 <!-- -->
 ### Figures

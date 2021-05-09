@@ -5,7 +5,9 @@
 <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
         integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
         crossorigin=""></script>
-<script src="{{ .Site.BaseURL }}leaflet-tilelayer-colorfilter.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/leaflet-tilelayer-colorfilter.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/leaflet.fullscreen.min.js"></script>
+<link href="{{ .Site.BaseURL }}css/leaflet.fullscreen.css" rel="stylesheet"/>
 <div class="widget-taglist widget">
   <h4 class="widget__title">Map</h4>
   <div class="widget__content">
@@ -13,12 +15,13 @@
     <script>
       //Create Map
       map = L.map('map', {
-        attributionControl: true
+        attributionControl: true,
+        fullscreenControl: true
       }).setView([40, 17], 3);
       map.attributionControl.setPrefix('Basemaps ');
 
       // OpenStreetMap, muted colors, for low zoom values
-      L.tileLayer.colorFilter('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      L.tileLayer.colorFilter('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         minZoom: 0,
         maxZoom: 3,
         attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -46,9 +49,9 @@
       }).addTo(map);
 
       // OpenStreetMap, muted colors, for high zoom values
-      L.tileLayer.colorFilter('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      L.tileLayer.colorFilter('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         minZoom: 12,
-        maxZoom: 18,
+        maxZoom: 19,
         attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
         filter: [
           'brightness: 100%',
@@ -58,37 +61,6 @@
           'sepia: 10%'
         ]
       }).addTo(map);
-
-      // Esri World Imagery, lightened
-      L.tileLayer.colorFilter('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-        minZoom: 19,
-        maxZoom: 19,
-        attribution: '<a href="https://www.arcgis.com/home/item.html?id=10df2279f9684e4a9f6a7f08febac2a9">Esri</a>',
-        filter: [
-          'brightness: 100%',
-          'contrast: 100%',
-          'saturation: 100%',
-          'opacity: 70%',
-          'sepia: 0%'
-        ]
-      }).addTo(map);
-
-/*
-      // Stamen Toner labels
-      L.tileLayer.colorFilter('https://stamen-tiles-{s}.a.ssl.fastly.net/toner-labels/{z}/{x}/{y}{r}.png', {
-        minZoom: 12,
-        maxZoom: 19,
-        attribution: '<a href="http://maps.stamen.com/toner-labels/">Stamen</a>',
-        filter: [
-          'brightness: 100%',
-          'contrast: 100%',
-          'saturation: 100%',
-          'opacity: 70%',
-          'sepia: 0%',
-          'invert: 100%'
-        ]
-      }).addTo(map);
-*/
 
       <!-- add marker for each garden relevant to the current page -->
       markers = [];
