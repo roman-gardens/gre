@@ -1,6 +1,7 @@
 ---
 title: "VIII.6.4-5. Market Garden"
 date: 2021-03-26T00:10:10-04:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski

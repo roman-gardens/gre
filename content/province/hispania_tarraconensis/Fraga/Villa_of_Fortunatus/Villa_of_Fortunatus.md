@@ -1,6 +1,7 @@
 ---
 title: "Villa of Fortunatus"
 date: 2020-10-18T11:56:31-14:00
+latlon: [ 0, 0 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID

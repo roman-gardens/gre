@@ -1,6 +1,7 @@
 ---
 title: "Villa del Cortijo de los Vila"
 date: 2020-09-24T13:00:00-04:00
+latlon: [ 37.216462, -4.657951 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: (AUTHOR_ID)

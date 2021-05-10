@@ -1,6 +1,7 @@
 ---
 title: "House of Ceres; Casa di Cerere (I.ix.13-14)"
 date: 2020-08-10T13:13:23-04:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski

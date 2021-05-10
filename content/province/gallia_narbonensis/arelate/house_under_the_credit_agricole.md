@@ -1,6 +1,7 @@
 ---
 title: "House under the Crédit Agricole"
 date: 2020-09-29T23:41:02-00:00:00
+latlon: [ 43.604175, 1.443246 ]
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu

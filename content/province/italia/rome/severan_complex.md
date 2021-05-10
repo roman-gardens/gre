@@ -2,10 +2,11 @@
 article-type: "province"
 title: "The Severan Complex"
 date: 2021-04-08T02:47:32+02:00
+latlon: [ 41.889306, 12.487109 ]
 province_id: PROVINCE_ID
 author: M.-A. Tomei
 editor: Rhiannon Paré
-draft: false
+draft: true
 tags:
  - "arcades (structural assemblies)"
  - "bathhouses (water recreation structures)"
@@ -32,7 +33,7 @@ Palatine Hill \
 <!-- -->
 <!-- -->
 <!-- -->
-## Garden
+### Garden
 
 Garden of the Severan Complex, Palatine
 <!-- -->
@@ -49,13 +50,24 @@ Garden of the Severan Complex, Palatine
 <!-- -->
 The most visible remains from this period are a massive series of substructure [arcades](http://vocab.getty.edu/page/aat/300002580) along the slope of the [Palatine](https://en.wikipedia.org/wiki/Palatine_Hill) overlooking the [Circus Maximus](https://www.digitalaugustanrome.org/records/circus-maximus). It had been considered that this area was a  [*thermae*](https://en.wikipedia.org/wiki/Thermae), a bath complex, from the time of [Septimius Severus](https://en.wikipedia.org/wiki/Septimius_Severus), but recent excavations and studies have shown at least part to have been occupied by the Domitianic building phase. Until the time of [Maxentius](https://en.wikipedia.org/wiki/Maxentius), who built baths, this private wing of the palace was intended for *otium* and open-air promenades and was embellished with vast areas of gardens, [pools](http://vocab.getty.edu/page/aat/300008692) and [fountains](http://vocab.getty.edu/page/aat/300006179).
 <!-- -->
-### Dates
+RELATED PHASES ON THE PALATINE:
+<!-- -->
+[Gardens of the Republican Domus (A)]({{<relref"/palatine_domus.md">}})\
+[Garden of the House of Augustus (B)]({{<relref"/house_of_augustus.md">}})\
+[Garden of the Domus Tiberiana (C)]({{<relref"/Domus_tiberiana.md">}})\
+[Garden of the Neronian Palace (D)]({{<relref"/palace_of_nero.md">}})\
+[Garden of the Domus Flavia (E)]({{<relref"/Domus_flavia.md">}})\
+[Garden of the Domus Augustana (F,G)]({{<relref"/domus_augustana.md">}})\
+[Garden of the Palatine Stadium (H)]({{<relref"/palatine_stadium.md">}})
+<!-- -->
+<!-- -->
+### Figures
+
+{{< figure src="../images/severan_complex_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
+<!-- -->
+###Dates
 
 1st century CE to 4th century CE
-<!-- -->
-#### Excavation Date
-
-unspecified
 <!-- -->
 ### Bibliography
 <!-- -->

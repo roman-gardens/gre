@@ -1,6 +1,7 @@
 ---
 title: "Altar of the Twelve Gods"
 date: 2020-07-26T10:20:19-04:00
+latlon: [ 37.97572, 23.722662 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -65,8 +66,9 @@ late 1st century CE (mentioned)
 
 ### Bibliography
 
-* M. Crosby, “The Altar of the Twelve Gods in Athens,” *Hesperia Suppl.* 8, Commemorative Studies in Honor of Theodore Leslie Shear. Princeton, 1949, pp. 82-103, 447-450, pl. 11-14. [(JSTOR)](https://www.jstor.org/stable/1353886)
-* J. McK. Camp, *The Athenian Agora. Excavations in the heart of Classical Athens.* London, 1986, pp. 40-42, figs. 23-24. [(worldcat)](http://www.worldcat.org/oclc/1153939923)
+* M. Crosby, “The Altar of the Twelve Gods in Athens,” *Hesperia Suppl.* 8, Commemorative Studies in Honor of Theodore Leslie Shear. Princeton, 1949, pp. 82-103, 447-450, pl. 11-14. [(JSTOR)](https://www.jstor.org/stable/1353886).
+* J. McK. Camp, *The Athenian Agora. Excavations in the heart of Classical Athens.* London, 1986, pp. 40-42, figs. 23-24. [(worldcat)](http://www.worldcat.org/oclc/1153939923).
+* M. Carroll, "The sacred places of the immortal ones: ancient Greek and Roman sacred groves," in J. Woudstra and C. Roth (eds.), *A History of Groves.* London: Routledge, 2018, pp. 7-18. [(worldcat)](http://www.worldcat.org/oclc/1012849097).
 
 #### Pleiades ID
 

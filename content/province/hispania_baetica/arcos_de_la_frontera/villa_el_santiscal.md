@@ -1,6 +1,7 @@
 ---
 title: "Villa el Santiscal"
 date: 2020-10-04T21:00:00-04:00
+latlon: [ 36.765569, -5.771836 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: ["M. Orfila","N. Doenges"]

@@ -1,6 +1,7 @@
 ---
 title: "I.7.7 House of the Priest Amandus"
 date: 2020-08-08T16:01:37-04:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski

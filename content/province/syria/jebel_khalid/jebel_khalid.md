@@ -1,6 +1,7 @@
 ---
 title: "Acropolis Palace at Jebel Khalid"
 date: 2020-10-08T10:30-04:00
+latlon: [ 36.354311, 38.174169 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Graeme Clark

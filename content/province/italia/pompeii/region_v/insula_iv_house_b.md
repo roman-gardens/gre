@@ -1,6 +1,7 @@
 ---
 title: "V.iv.b."
 date: 2020-09-29T12:07:01-04:00
+latlon: [ 40.74941, 14.485429 ]
 province_id: 1052
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski

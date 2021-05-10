@@ -1,6 +1,7 @@
 ---
 title: "Peristyle Gardens in the Quarter of the Theater"
 date: 2020-10-25T10:30-04:00
+latlon: [ 37.392022, 25.270238 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Monika Trümper
@@ -59,10 +60,10 @@ Whether the *impluvium* of 30.20 square meters (a) of **House F** in insula II o
 1st c. BCE
 
 ### Bibliography
-- J. Chamonard, *Le Quartier du théâtre. Étude sur l’habitation délienne à l’époque hellénistique.* Exploration archéologique de Délos VIII. Paris 1922/24.
-- P. Bruneau, *Recherches sur les cultes de Délos à l’époque hellénistique et à l’époque impériale.* BEFAR 217, 1970.
-- P. Bruneau and J. Ducat, *Guide de Délos. École française d Athènes.* 4th edition, Paris 2005, Nos. 79, 117, 124.
-- M. Trümper, *Wohnen in Delos. Eine baugeschichtliche Untersuchung zum Wandel der Wohnkultur in hellenistischer Zeit.* Internationale Archäologie 46, Rahden/Westfalen 1998: 262-265, 317-318, figs. 59. 62, plan I.
+- J. Chamonard, *Le Quartier du théâtre. Étude sur l’habitation délienne à l’époque hellénistique.* Exploration archéologique de Délos VIII. Paris 1922/24. [(worldcat)](http://www.worldcat.org/oclc/603845054).
+- P. Bruneau, *Recherches sur les cultes de Délos à l’époque hellénistique et à l’époque impériale.* BEFAR 217, 1970. [(worldcat)](http://www.worldcat.org/oclc/2349270).
+- P. Bruneau and J. Ducat, *Guide de Délos. École française d Athènes.* 4th edition, Paris 2005, Nos. 79, 117, 124. [(worldcat)](http://www.worldcat.org/oclc/884638358).
+- M. Trümper, *Wohnen in Delos. Eine baugeschichtliche Untersuchung zum Wandel der Wohnkultur in hellenistischer Zeit.* Internationale Archäologie 46, Rahden/Westfalen 1998: 262-265, 317-318, figs. 59. 62, plan I. [(worldcat)](http://www.worldcat.org/oclc/722868070).
 
 <!--#### Periodo ID-->
 
@@ -75,7 +76,7 @@ Whether the *impluvium* of 30.20 square meters (a) of **House F** in insula II o
 [7011273 (Dhílos,island)](http://vocab.getty.edu/page/tgn/7011273)
 
 ### Contributor
-[Monika Trümper](#) (ORCID: [0000-0003-4524-6242](https://orcid.org/0000-0003-4524-6242))
+Monika Trümper (ORCID: [0000-0003-4524-6242](https://orcid.org/0000-0003-4524-6242))
 
 ### Publication date
 

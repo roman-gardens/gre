@@ -1,6 +1,7 @@
 ---
 title: "Neoplatonic School Near the Areopagus"
 date: 2020-07-20T11:39:30-04:00
+latlon: [ 37.972372, 23.723371 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -46,9 +47,9 @@ One of these buildings, the so-called House C or Omega House, had two peristyle 
 second half of the 4th century CE to the late 6th century CE
 
 ### Bibliography
-* J. McK. Camp, *The Athenian Agora. Excavations in the heart of Classical Athens.* London, 1986, pp. 202-211, figs. 170-186. [(worldcat)](http://www.worldcat.org/oclc/1153939923)
-* A. Frantz, *Late Antiquity: A.D. 267-700.* The Athenian Agora XXIV. Princeton, 1988, pp. 40-48, pls. 6, 27a, 31-36a, 37a, 43. [(worldcat)](http://www.worldcat.org/oclc/63179976)
-* T. L. Shear, “The Athenian Agora: Excavations of 1970,” Hesperia 40, 1971: 266-270, 273-275, pls. 53-55, 58-59. [JSTOR](https://www.jstor.org/stable/147527)
+* J. McK. Camp, *The Athenian Agora. Excavations in the heart of Classical Athens.* London, 1986, pp. 202-211, figs. 170-186. [(worldcat)](http://www.worldcat.org/oclc/1153939923).
+* A. Frantz, *Late Antiquity: A.D. 267-700.* The Athenian Agora XXIV. Princeton, 1988, pp. 40-48, pls. 6, 27a, 31-36a, 37a, 43. [(worldcat)](http://www.worldcat.org/oclc/63179976).
+* T. L. Shear, “The Athenian Agora: Excavations of 1970,” *Hesperia* 40, 1971: 266-270, 273-275, pls. 53-55, 58-59. [(JSTOR)](https://www.jstor.org/stable/147527).
 
 #### Pleiades ID
 [969121823](https://pleiades.stoa.org/places/969121823)

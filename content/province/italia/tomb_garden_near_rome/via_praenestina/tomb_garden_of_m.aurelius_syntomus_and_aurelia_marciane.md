@@ -1,6 +1,7 @@
 ---
 title: "Tomb Garden of M. Aurelius Syntomus and Aurelia Marciane"
 date: 2020-11-29T10:54:29-07:00
+latlon: [ 51.667934, 6.448177 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Francesca Carboni

@@ -1,6 +1,7 @@
 ---
 title: "Leonidaion"
 date: 2020-07-27T08:54:10-04:00
+latlon: [ 37.637701, 21.628797 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll

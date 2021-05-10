@@ -1,6 +1,7 @@
 ---
 title: "The Gardens of Sperlonga. The peristyle garden "
 date: 2020-11-29T10:54:29-07:00
+latlon: [ 41.251480, 13.449332 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: EUGENIA SALZA PRINA RICOTTI

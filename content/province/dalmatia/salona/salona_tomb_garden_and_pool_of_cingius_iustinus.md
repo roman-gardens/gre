@@ -1,6 +1,7 @@
 ---
 title: "Tomb Garden and Pool of Cingius Iustinus"
 date: 2020-07-14T16:52:02-04:00
+latlon: [ 43.539561, 16.483426 ]
 article_id: ARTICLE_ID
 author: [ John Bodel, Other Guy ]
 editor: Christian Casey

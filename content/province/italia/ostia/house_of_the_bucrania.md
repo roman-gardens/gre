@@ -1,6 +1,7 @@
 ---
 title: "House of the Bucrania"
 date: 2021-02-08T19:00:00-08:00
+latlon: [ 41.754855, 12.287656 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Thomas Morard

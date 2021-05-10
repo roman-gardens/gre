@@ -1,6 +1,7 @@
 ---
 title: "House of the Salsamenta (Usine de salaison)"
 date: 2020-10-06T10:39:31-07:00
+latlon: [ 36.440337, 10.718354 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek, V.Blanc-Bijon
@@ -16,7 +17,7 @@ categories:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
 
@@ -87,7 +88,7 @@ Unspecified
 
 ### Bibliography
 * L. Slim, M. Bonifay, P. Trousset and al., “L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, *Africa* XVII, 1999, pp. 159-161, fig. 6, 7. [(worldcat)](http://www.worldcat.org/oclc/949242827)
-* Bullo, S. and F. Ghedini, Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman, Rome: Edizioni Quasar, 2003, p. 183-184. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 183-184. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 <!--#### Periodo ID-->
 

@@ -1,6 +1,7 @@
 ---
 title: "Horticultural pots"
 date: 2020-11-14T00:12:43-00:00
+latlon: [ 42.439512, 3.176623 ]
 article_id: ARTICLE_ID
 author: AUTHOR_ID
 editor: Yichen Liu

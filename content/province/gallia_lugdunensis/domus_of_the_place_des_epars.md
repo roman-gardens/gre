@@ -1,6 +1,7 @@
 ---
 title: "*Domus* of the Place Epars"
 date: 2020-08-12T10:39:31-07:00
+latlon: [ 48.444276, 1.483926 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: AUTHOR_ID

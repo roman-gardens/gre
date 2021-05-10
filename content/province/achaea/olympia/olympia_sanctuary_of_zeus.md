@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary of Zeus"
 date: 2020-07-27T08:52:42-04:00
+latlon: [ 37.637939, 21.630256 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -48,8 +49,8 @@ Sanctuary of Zeus
 - [Literary](#)
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
 - [sacred groves](http://vocab.getty.edu/page/aat/300251876)
-- [plane trees (Platanus orientalis)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:685873-1)
-- [wild olives (Olea oleaster)](http://powo.science.kew.org/taxon/610760-1)
+- [plane trees (*Platanus orientalis*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:685873-1)
+- [wild olives (*Olea oleaster*)](http://powo.science.kew.org/taxon/610760-1)
 
 ### Garden Description
 

@@ -2,6 +2,7 @@
 article-type: "province"
 title: "Gardens of the Temple of Elagabalus"
 date: 2021-02-19T16:52:54+01:00
+latlon: [ 41.889306, 12.487109 ]
 province_id: ITALIA
 author: Françoise Villedieu
 editor: Rhiannon Paré
@@ -35,8 +36,8 @@ Garden of the Temple of Elagabalus, Palatine
 - [allée](http://vocab.getty.edu/page/aat/300178561)
 - [altar (religious fixture)](http://vocab.getty.edu/page/aat/300003725)
 - [amphora (storage vessel)](http://vocab.getty.edu/page/aat/300148696)
-- [canal (waterway)](http://vocab.getty.edu/page/aat/300006075)
 - [brick (construction material)](http://vocab.getty.edu/page/aat/300010463)
+- [canal (waterway)](http://vocab.getty.edu/page/aat/300006075)
 - [flower garden](http://vocab.getty.edu/page/aat/300008135)
 - [flowerpot](http://vocab.getty.edu/page/aat/300194749)
 - [fountain](http://vocab.getty.edu/page/aat/300006179)
@@ -74,6 +75,7 @@ Though we cannot be certain about the plant species chosen, we can nevertheless 
 <!-- -->
 OTHER PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
+[Vigna Barberini]({{<relref"/vigna_barberini.md">}})\
 [Garden of the Peristyle of the Julio-Claudian *Domus*]({{<relref"/julio_claudian_domus.md">}})\
 [Garden of the Flavian Imperial Palace]({{<relref"/flavian_imperial_palace.md">}})\
 <!-- -->

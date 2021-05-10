@@ -1,6 +1,7 @@
 ---
 title: "563.Insula or. I.2-3(C)"
 date: 2020-09-30T00:10:10-04:00
+latlon: [ 40.805843, 14.348058 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina Jashemski

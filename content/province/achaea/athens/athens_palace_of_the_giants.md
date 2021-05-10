@@ -1,6 +1,7 @@
 ---
 title: "Palace of the Giants"
 date: 2020-07-16T09:46:53-04:00
+latlon: [ 37.974611, 23.722431 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Maureen Carroll
@@ -58,9 +59,9 @@ It is possible that a garden might have been present in one of the inner courtya
 early 5th century CE to ca. 530 CE
 
 ### Bibliography
-* H. A. Thompson and R. E. Wycherley, *The Agora of Athens. The History, Shape and Uses of an ancient City Center. The Athenian Agora XIV.* Princeton, 1972, pp. 211-213. [(worldcat)](http://www.worldcat.org/oclc/805087483)
-* J. McK. Camp, *The Athenian Agora: Excavations in the heart of Classical Athens.* London, 1986, p. 200, figs. 166-167. [(worldcat)](http://www.worldcat.org/oclc/1153939923)
-* H. Thompson in A. Frantz, *Late Antiquity: A.D. 267-700.* The Athenian Agora XXIV. Princeton, 1988, pp. 95-116, pls. 54-55. [(worldcat)](http://www.worldcat.org/oclc/63179976)
+* H. A. Thompson and R. E. Wycherley, *The Agora of Athens. The History, Shape and Uses of an ancient City Center.* The Athenian Agora XIV. Princeton, 1972, pp. 211-213. [(worldcat)](http://www.worldcat.org/oclc/805087483).
+* J. McK. Camp, *The Athenian Agora: Excavations in the heart of Classical Athens.* London, 1986, p. 200, figs. 166-167. [(worldcat)](http://www.worldcat.org/oclc/1153939923).
+* H. Thompson in A. Frantz, *Late Antiquity: A.D. 267-700.* The Athenian Agora XXIV. Princeton, 1988, pp. 95-116, pls. 54-55. [(worldcat)](http://www.worldcat.org/oclc/63179976).
 
 #### Pleiades ID
 [807514119](https://pleiades.stoa.org/places/807514119)

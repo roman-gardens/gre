@@ -1,6 +1,7 @@
 ---
 title: "House of Nicentus (Maison de Nicentus)"
 date:
+latlon: [ 36.40112, 9.904448 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski

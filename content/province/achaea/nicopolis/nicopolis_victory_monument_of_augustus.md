@@ -1,6 +1,7 @@
 ---
 title: "Victory Monument of Augustus"
 date: 2020-07-27T08:51:24-04:00
+latlon: [ 39.027735, 20.735583 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author:
@@ -79,15 +80,11 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../images/EUR_ACH_Nicopolis_Altar Fig_2 plan with pots.tif" alt="Fig. 2: State plan of the monument.  Courtesy of K. L. Zachos." title="Fig. 2: State plan of the monument.  Courtesy of K. L. Zachos." >}}
+{{< figure src="../images/eur_ach_nicopolis_fig1_plan.jpg" alt="plan of the monument of Augustus" title="Fig. 1: State plan of the monument.  Courtesy of K. L. Zachos." >}}
 
 ### Images
 
-
-{{< figure src="../images/EUR_ACH_Nicopolis_Altar Fig_1 Reconstruction.tif" alt="Fig. 1: Provisional reconstruction of the monument, based on the evidence from the recent excavations. Drawing courtesy of K. L. Zachos." title="Fig. 1: Provisional reconstruction of the monument, based on the evidence from the recent excavations. Drawing courtesy of K. L. Zachos." >}}
-
-
-{{< figure src="../images/EUR_ACH_Nicopolis_Altar Fig_3 planting pots.tif" alt="Fig. 3: Clay planting pots. Photo courtesy of K. L. Zachos." title="Fig. 3: Clay planting pots. Photo courtesy of K. L. Zachos." >}}
+{{< figure src="../images/eur_ach_nicopolis_fig2_pots.jpg" alt="clay planting pots" title="Fig. 2: Clay planting pots. Photo courtesy of K. L. Zachos." >}}
 
 ### Dates
 
@@ -95,13 +92,15 @@ last quarter of the 1st century BCE and later
 
 ### Bibliography
 
-* W. M. Murray and Ph. M. Petsas, “Octavian’s campsite memorial for the Actian War,” *Trans. Am. Phil Soc.* 79, 1989:4;
-* K. L. Zachos, *Το Μνημείο του Οκταβιανού Αυγούστου στη Νικόπολη: Το Τρόπαιο της Ναυμαχίας του Ακτίου.* Athens 2001; For interim reports see A. Philadelpheus, Archaeologiki Ephemeris 1913:235;
-* A. Philadelpheus, *Praktika* 1913:85-91 and pls. 3-4; [(worldcat)](http://www.worldcat.org/oclc/81311225)
-* A. Philadelpheus, *Praktika* 1921:11-12, 44; [(worldcat)](http://www.worldcat.org/oclc/81311225)
-* K. L. Zachos, *Archaeologikon Deltion, Chronika* for 1995, 1996, 1997, 1998, 1999, 2000;
-* K. L. Zachos, “Excavations at the Actian *tropaeum* at Nicopolis. A preliminary report,” in J. Isager, ed., *Foundation and destruction. Nicopolis and northwestern Greece.* Monograph 3, Danish Institute. Athens, 2001, pp. 29-41; [(worldcat)](http://www.worldcat.org/oclc/491885471)
-* K. L. Zachos, “The *tropaeum* of the sea-battle of Actium at Nicopolis: interim report,” JRA 16, 2003: 65-92.[(worldcat)](http://www.worldcat.org/oclc/5884366383)                     
+* W. M. Murray and Ph. M. Petsas, “Octavian’s campsite memorial for the Actian War,” *Trans. Am. Phil Soc.* 79, 1989: 4. [(worldcat)](http://www.worldcat.org/oclc/892239073).
+* K. L. Zachos, *Το Μνημείο του Οκταβιανού Αυγούστου στη Νικόπολη: Το Τρόπαιο της Ναυμαχίας του Ακτίου.* Athens 2001. [(worldcat)](http://www.worldcat.org/oclc/257369178).
+* A. Philadelpheus, *Praktika* 1913: 85-91 and pls. 3-4. [(worldcat)](http://www.worldcat.org/oclc/81311225)
+* A. Philadelpheus, *Praktika* 1921: 11-12, 44. [(worldcat)](http://www.worldcat.org/oclc/81311225)
+* K. L. Zachos, *Archaeologikon Deltion, Chronika* for 1995, 1996, 1997, 1998, 1999, 2000.
+* K. L. Zachos, “Excavations at the Actian *tropaeum* at Nicopolis. A preliminary report,” in J. Isager, ed., *Foundation and destruction. Nicopolis and northwestern Greece.* Monograph 3, Danish Institute. Athens, 2001: 29-41. [(worldcat)](http://www.worldcat.org/oclc/491885471)
+* K. L. Zachos, “The *tropaeum* of the sea-battle of Actium at Nicopolis: interim report,” JRA 16, 2003: 65-92. [(worldcat)](http://www.worldcat.org/oclc/5884366383)   
+* M. Carroll, "The sacred places of the immortal ones: ancient Greek and Roman sacred groves," in J. Woudstra and C. Roth (eds.), *A History of Groves.* London: Routledge, 2018: 28. [(worldcat)](http://www.worldcat.org/oclc/1012849097).
+
 
 <!--#### Periodo ID-->
 

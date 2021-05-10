@@ -1,6 +1,7 @@
 ---
 title: "Villa de La Cocosa"
 date: 2020-11-2
+latlon: [ 38.738228, -6.99544 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Clopper Almon

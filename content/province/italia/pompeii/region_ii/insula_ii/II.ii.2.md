@@ -2,6 +2,7 @@
 article-type: "province"
 title: "II.ii.2 (House of D. Octavius Quartio)"
 date: 2021-02-21T13:04:51Z
+latlon: [ 40.750870, 14.493866 ]
 province_id: PROVINCE_ID
 author: Wilhelmina Jashemski
 editor: Jessica Venner

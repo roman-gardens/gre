@@ -1,6 +1,7 @@
 ---
 title: "House of the Cascade (Maison de la Cascade)"
 date: 2020-09-29T09:49:36-04:00
+latlon: [ 37.055611, 10.061305 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
@@ -29,7 +30,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 [UTICA (Utique)]({{<relref ".">}}) \
-[UTICA (Utique) Tunisia(Pleiades)](https://pleiades.stoa.org/places/315247)
+[UTICA (Utique) Tunisia(Pleiades)](https://pleiades.stoa.org/places/315248)
 
 ### Location Description
 Her geographic situation made of Utica one of the oldest and well-known Phoenician settlements. In 146 B.C, Utica became the capital of the newly created province of Africa and the residence of the governor. With the triumph of Caesar and the resurgence of Carthage, Utica's supremacy would gradually decline under the empire. In 36 B.C. it became a *municipium* and a colony under Hadrian.

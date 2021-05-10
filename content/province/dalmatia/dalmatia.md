@@ -2,6 +2,7 @@
 article-type: "province"
 title: "Dalmatia"
 date: 2020-07-14T16:46:14-04:00
+latlon: [ 50.940671, 6.959908 ]
 province_id: PROVINCE_ID
 editor: Christian Casey
 author: None

@@ -1,6 +1,7 @@
 ---
 title: "Urban House on Lungenstrasse"
 date: 2020-07-12T10:53:55-07:00
+latlon: [ 50.940671, 6.959908 ]
 article_id: ARTICLE_ID
 author: Maureen Carroll
 editor: David Ratzan

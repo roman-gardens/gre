@@ -1,6 +1,7 @@
 ---
 title: "House of the Nymphs (Maison des Nymphes)"
 date: 2020-10-06T10:39:31-07:00
+latlon: [ 36.45043, 10.741166 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
@@ -16,7 +17,7 @@ categories:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
 
@@ -84,7 +85,7 @@ Unspecified
 * Malek, Amina-Aïcha, Kathryn L. Gleason, and Wilhelmina F. Jashemski. Gardens of the Roman Empire. , 2018.[(worldcat)](http://www.worldcat.org/oclc/1036265637)
 * J.P. Darmon, *Nymfarum domus, Les pavements de la maison des Nymphes à Néapolis (Nabeul, Tunisie) et leur lecture*, Leiden, 1980, p. 9, pp. 85-6 et p. 146. [(worldcat)](http://www.worldcat.org/oclc/797872994)
 * A.-A. Malek, "Entre jardin et mosaïque ": La verticalité et le merveilleux dans la vie quotidienne, in *La Maison Gréco-romaine IX*, Collection de l'Ecole Française de Rome n°352, Rome, 2005, p. 1335-1346. [(worldcat)](http://www.worldcat.org/oclc/109642973)
-* Bullo, S. and F. Ghedini, Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle citta della Tunisia roman, Rome: Edizioni Quasar, 2003, p. 179-182. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 179-182. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 <!--#### Periodo ID-->
 
