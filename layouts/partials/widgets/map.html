@@ -14,6 +14,9 @@
   <h4 class="widget__title">Map</h4>
   <div class="widget__content">
     <div id='map' class="leaflet-map"></div>
+    {{ if eq hugo.Environment "development" }}
+    <div>ctrl-click the map to capture coordinates</div>
+    {{ end }}
     <script>
       //Create Map
       map = L.map('map', {
@@ -77,11 +80,12 @@
           tileZ: 5
         }));
 
-        // Click on map will copy coordinates
+        // CTRL-click on map will copy coordinates
         L.DomEvent.addListener(map, 'click', function(e) {
+          if (! e.originalEvent.ctrlKey) return;
           var coords = '[ ' + e.latlng.lat.toFixed(6) + ', ' + e.latlng.lng.toFixed(6) + ' ]';
           navigator.clipboard.writeText(coords);
-          alert('copied coordinates: ' + coords);
+          //alert('copied coordinates: ' + coords);
         });
       {{ else }}
         // For public website, use DARE basemap, backed up by OpenStreetMap
