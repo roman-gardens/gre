@@ -7,7 +7,9 @@
         crossorigin=""></script>
 <script src="{{ .Site.BaseURL }}js/leaflet-tilelayer-colorfilter.min.js"></script>
 <script src="{{ .Site.BaseURL }}js/leaflet.fullscreen.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/L.Control.Basemaps-min.js"></script>
 <link href="{{ .Site.BaseURL }}css/leaflet.fullscreen.css" rel="stylesheet"/>
+<link href="{{ .Site.BaseURL }}css/L.Control.Basemaps.css" rel="stylesheet"/>
 <div class="widget-taglist widget">
   <h4 class="widget__title">Map</h4>
   <div class="widget__content">
@@ -18,65 +20,123 @@
         attributionControl: true,
         fullscreenControl: true
       }).setView([40, 17], 3);
-      map.attributionControl.setPrefix('Basemaps ');
-
-      // OpenStreetMap, muted colors, for low zoom values
-      L.tileLayer.colorFilter('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        minZoom: 0,
-        maxZoom: 3,
-        attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-        filter: [
-          'brightness: 100%',
-          'contrast: 100%',
-          'saturation: 30%',
-          'opacity: 100%',
-          'sepia: 10%'
-        ]
-      }).addTo(map);
-
-      // Digital Atlas of the Roman Empire, muted colors
-      L.tileLayer.colorFilter('https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png', {
-        minZoom: 4,
-        maxZoom: 11,
-        attribution: '<a href="https://dh.gu.se/dare/">DARE</a>',
-        filter: [
-          'brightness: 100%',
-          'contrast: 100%',
-          'saturation: 30%',
-          'opacity: 100%',
-          'sepia: 10%'
-        ]
-      }).addTo(map);
-
-      // OpenStreetMap, muted colors, for high zoom values
-      L.tileLayer.colorFilter('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        minZoom: 12,
-        maxZoom: 19,
-        attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-        filter: [
-          'brightness: 100%',
-          'contrast: 100%',
-          'saturation: 30%',
-          'opacity: 100%',
-          'sepia: 10%'
-        ]
-      }).addTo(map);
+      map.attributionControl.setPrefix('Basemap');
 
       {{ if eq hugo.Environment "development" }}
-          console.log('env = {{ hugo.Environment }}');
-          L.tileLayer.colorFilter('https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {
-            minZoom: 19,
-            maxZoom: 21,
-            attribution: '<a href="https://about.google/brand-resource-center/products-and-services/geo-guidelines/#required-attribution">Google</a>',
-            filter: [
-              'brightness: 100%',
-              'contrast: 100%',
-              'saturation: 100%',
-              'opacity: 100%',
-              'sepia: 0%'
-            ]
-          }).addTo(map);
+        // When running hugo server locally, add basemap selector including satelitte imagery, for checking coordinate accuracy
+
+        // Digital Atlas of the Roman Empire, muted colors
+        var dare = L.tileLayer.colorFilter('https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png', {
+          label: 'Digital Atlas of the Roman Empire (zoom 4-11 only)',
+          minZoom: 4,
+          maxZoom: 11,
+          attribution: '<a href="https://dh.gu.se/dare/">DARE</a>',
+          errorTileUrl: 'https://dh.gu.se/tiles/imperium/4/8/5.png',
+          filter: [
+            'brightness: 100%',
+            'contrast: 100%',
+            'saturation: 30%',
+            'opacity: 100%',
+            'sepia: 10%'
+          ]
+        });
+
+        // OpenStreetMap, muted colors, for low zoom values
+        var osm = L.tileLayer.colorFilter('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          label: 'OpenStreetMap',
+          minZoom: 0,
+          maxZoom: 19,
+          attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+          filter: [
+            'brightness: 100%',
+            'contrast: 100%',
+            'saturation: 30%',
+            'opacity: 100%',
+            'sepia: 10%'
+          ]
+        });
+
+        var gsat = L.tileLayer.colorFilter('https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {
+          label: 'Google Satellite Imagery',
+          minZoom: 0,
+          maxZoom: 21,
+          attribution: '<a href="https://about.google/brand-resource-center/products-and-services/geo-guidelines/#required-attribution">Google</a>',
+          filter: [
+            'brightness: 100%',
+            'contrast: 100%',
+            'saturation: 100%',
+            'opacity: 80%',
+            'sepia: 0%'
+          ]
+        });
+
+        map.addControl(L.control.basemaps({
+          basemaps: [osm, gsat],
+          tileX: 16,
+          tileY: 12,
+          tileZ: 5
+        }));
+
+        // Click on map will copy coordinates
+        L.DomEvent.addListener(map, 'click', function(e) {
+          var coords = '[ ' + e.latlng.lat.toFixed(6) + ', ' + e.latlng.lng.toFixed(6) + ' ]';
+          navigator.clipboard.writeText(coords);
+          alert('copied coordinates: ' + coords);
+        });
+      {{ else }}
+        // For public website, use DARE basemap, backed up by OpenStreetMap
+
+        // OpenStreetMap, muted colors, for low zoom values
+        var osm_lo = L.tileLayer.colorFilter('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          label: 'OpenStreetMap',
+          minZoom: 0,
+          maxZoom: 3,
+          attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+          filter: [
+            'brightness: 100%',
+            'contrast: 100%',
+            'saturation: 30%',
+            'opacity: 100%',
+            'sepia: 10%'
+          ]
+        });
+        osm_lo.addTo(map);
+
+        // Digital Atlas of the Roman Empire, muted colors
+        var dare = L.tileLayer.colorFilter('https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png', {
+          label: 'Digital Atlas of the Roman Empire (zoom 4-11 only)',
+          minZoom: 4,
+          maxZoom: 11,
+          attribution: '<a href="https://dh.gu.se/dare/">DARE</a>',
+          errorTileUrl: 'https://dh.gu.se/tiles/imperium/4/8/5.png',
+          filter: [
+            'brightness: 100%',
+            'contrast: 100%',
+            'saturation: 30%',
+            'opacity: 100%',
+            'sepia: 10%'
+          ]
+        });
+        dare.addTo(map);
+
+        // OpenStreetMap, muted colors, for high zoom values
+        var osm_hi = L.tileLayer.colorFilter('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          label: 'OpenStreetMap',
+          minZoom: 12,
+          maxZoom: 19,
+          attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+          filter: [
+            'brightness: 100%',
+            'contrast: 100%',
+            'saturation: 30%',
+            'opacity: 100%',
+            'sepia: 10%'
+          ]
+        });
+        osm_hi.addTo(map);
       {{ end }}
+
+
 
       <!-- add marker for each garden relevant to the current page -->
       markers = [];
