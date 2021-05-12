@@ -77,3 +77,15 @@ a.nav {
   background: #eee;
   border: 1px solid #ccc;
 }
+
+.draft {
+  background: #fff2e7;
+}
+
+.draft::before {
+  content: "- - - DRAFT - - -";
+  color: #c22d30;
+  font-size: 250%;
+  font-weight: bold;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
