@@ -1,7 +1,7 @@
 ---
 title: "House of the Bassilica (Maison de la Bassilica)"
 date: 2020-10-06T10:39:31-07:00
-latlon: [ 36.850032, 10.318 ]
+latlon: [ 36.858123, 10.331001 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
@@ -69,6 +69,8 @@ House of the Bassilica (Maison de la Bassilica)
 
 ### Plans
 {{< figure src="../images/AFR_Car_Hb_Amalek.jpg" alt="Plan of the House of the Bassilica at Karthago; rights statement" title="Fig. 1: Plan of the House of the Bassilica. (Rights statement)" >}}
+
+<!-- the north arrow in the figure appears to be incorrect -- based on the satellite imagery, the arrow seems to point west, not north -- Keith -->
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
