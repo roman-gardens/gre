@@ -1,7 +1,7 @@
 ---
 title: "House of the Aviary (Maison de la Volière)"
 date: 2020-10-06T10:39:31-07:00
-latlon: [ 36.857911, 10.331422 ]
+latlon: [ 36.857906, 10.331369 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
