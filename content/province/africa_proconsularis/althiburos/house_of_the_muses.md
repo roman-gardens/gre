@@ -1,7 +1,7 @@
 ---
 title: "House of the Muses"
 date: 2020-10-01T07:38:05-07:00
-latlon: [ 35.94384, 8.831793 ]
+latlon: [ 35.875199, 8.786351 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek

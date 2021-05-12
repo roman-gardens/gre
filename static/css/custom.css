@@ -4,6 +4,10 @@ a:hover {
   text-decoration: underline;
 }
 
+body {
+  line-height: 1.4;
+}
+
 .header {
 	width: 100%;
 	background: linear-gradient(to bottom, #ffffff00, 40%, #ffffff00, 65%, #ffffffff), url('../img/header91.jpg');
@@ -13,9 +17,22 @@ a:hover {
   text-decoration: none;
 }
 
+.widget-search__field {
+  font-size: 11pt;
+  margin: 0;
+  border: 1px solid #ccc;
+}
+
+.widget-search__form {
+  padding: 0;
+  margin: 0;
+  background: none;
+}
+
 .widget-taglist__link {
   text-transform: none;
   margin: 0 0.8em 0 0;
+  font-size: 10.5pt;
 }
 
 a.nav {
@@ -50,9 +67,25 @@ a.nav {
 	color: #666;
 }
 
+.widget a {
+  color: #000;
+}
+
 .subdivisions {
   margin: 1em 0;
   padding: 1em;
   background: #eee;
   border: 1px solid #ccc;
+}
+
+.draft {
+  background: #fff2e7;
+}
+
+.draft::before {
+  content: "- - - DRAFT - - -";
+  color: #c22d30;
+  font-size: 250%;
+  font-weight: bold;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }

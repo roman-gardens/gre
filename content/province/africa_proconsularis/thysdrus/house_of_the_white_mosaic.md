@@ -1,7 +1,7 @@
 ---
 title: "House of the White Mosaic (Maison des mosaïques blanches)"
 date: 2020-09-29T09:49:36-04:00
-latlon: [ 35.296057, 10.707584 ]
+latlon: [ 35.290828, 10.705481 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski, Amina-Aïcha Malek

@@ -12,6 +12,8 @@ categories:
   - "Africa Proconsularis"
 tags:
 - "domus"
+- "peristyle houses"
+- "niches"
 
 ---
 
@@ -64,7 +66,7 @@ The peristyle garden enclosed by a portico on four sides had a long basin, which
 
 
 ### Plans
-{{< figure src="../images/#" alt="Fig.1: Plan of the House of baklouti" title="Fig.1: Plan of the House of baklouti (right statement)." >}}
+{{< figure src="../images/house_of_baklouti.jpg" alt="Fig.1: Plan of the House of Baklouti" title="Fig.1: Plan of the House of Baklouti (Baklouti, H., 1997, fig. 3)." >}}
 
 
 <!--### Images-->
@@ -76,7 +78,8 @@ Unspecified
 
 ### Bibliography
 
-* Baklouti, H., "Une fouille à Uthina, rapport préliminaire", in *Série REPPAL, Revue des Etudes Phéniciennes-PuniAFRICA, Série REPPAL, Revue des Etudes Phéniciennes-Puniques et des Antiquités Libyques ques et des Antiquités Libyques*, 1997, 10, p. 17-34. [(worldcat)](http://www.worldcat.org/oclc/494721439)
+* Baklouti, H., "Une fouille à Uthina, rapport préliminaire", in *Série REPPAL, Revue des Etudes Phéniciennes-Puniques et des Antiquités Libyques ques et des Antiquités Libyques*, 1997, 10, p. 21, fig. 3, pp. 17-34. [(worldcat)](#)
+* Ben Hassen H. H., "Le parc archéologique d'Oudhna, antique Uthina (Tunisie)", in *Bulletin de la Société Nationale des Antiquaires de France*, 2001, 2006. pp. 225-238.[(worldcat)](http://www.worldcat.org/oclc/7290982187)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.333-334. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 #### Pleiades ID

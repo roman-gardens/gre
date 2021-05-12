@@ -1,7 +1,7 @@
 ---
 title: "House of Asinus Rufinus"
 date: 2020-10-01T07:38:05-07:00
-latlon: [ 35.103997, 11.026161 ]
+latlon: [ 35.079643, 11.020606 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Amina-Aïcha Malek
