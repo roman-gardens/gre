@@ -47,6 +47,10 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
+### Location Plan
+
+{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+
 ## Garden
 
 House on Via del Tempio Rotundo
@@ -68,13 +72,13 @@ House on Via del Tempio Rotundo
 
 ### Garden Description
 
-This house was only partially excavated between June 1972 and January 1973 (Fig. 1). In its [Augustan](http://vocab.getty.edu/page/aat/300020543) phase the peristyle garden (a) was adorned with a large central basin paved in [opus signinum](http://vocab.getty.edu/page/aat/300379969). At the center of the basin was a brick support, interpreted as the base of a [fountain](http://vocab.getty.edu/page/aat/300006179). The [columns](http://vocab.getty.edu/page/aat/300001571) of the [peristyle](http://vocab.getty.edu/page/aat/300080971), probably [Tuscan](http://vocab.getty.edu/page/aat/300067420), rested on bases alternating with [travertine](http://vocab.getty.edu/page/aat/300011329) strips at pavement level (Fig. 2). Three perforated vases of the type of *ollae perforatae* recorded by [Cato](https://en.wikipedia.org/wiki/Cato_the_Elder) ([RR  52, 133](https://www.thelatinlibrary.com/cato/cato.agri.html) | [English](https://bit.ly/RRCatoA)) and [Pliny](https://en.wikipedia.org/wiki/Pliny_the_Elder) ([NH 12. 16](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:12.16); [17. 64](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:17.64), [97](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:17.97)) were found between the basin and the columns of the peristyle, and exactly aligned with their bases. The *ollae* were intact and must have contained plants, no doubt of the flowering and rambling variety, which would have found both a support and a chromatic backdrop in the columns to the rear.
+This house was only partially excavated between June 1972 and January 1973 (Fig. 1). In its [Augustan](http://vocab.getty.edu/page/aat/300020543) phase the peristyle garden (a) was adorned with a large central basin paved in [opus signinum](http://vocab.getty.edu/page/aat/300379969). At the center of the basin was a brick support, interpreted as the base of a [fountain](http://vocab.getty.edu/page/aat/300006179). The [columns](http://vocab.getty.edu/page/aat/300001571) of the [peristyle](http://vocab.getty.edu/page/aat/300080971), probably [Tuscan](http://vocab.getty.edu/page/aat/300067420), rested on bases alternating with [travertine](http://vocab.getty.edu/page/aat/300011329) strips at pavement level (Fig. 2). Three perforated vases of the type of *ollae perforatae* recorded by [Cato](https://en.wikipedia.org/wiki/Cato_the_Elder) ([RR  52, 133](https://www.thelatinlibrary.com/cato/cato.agri.html) | [Trans.](https://bit.ly/RRCatoA)) and [Pliny](https://en.wikipedia.org/wiki/Pliny_the_Elder) ([NH 12. 16](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:12.16); [17. 64](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:17.64), [97](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:17.97)) were found between the basin and the columns of the peristyle, and exactly aligned with their bases. The *ollae* were intact and must have contained plants, no doubt of the flowering and rambling variety, which would have found both a support and a chromatic backdrop in the columns to the rear.
 
 ### Plans
 
-{{< figure src="../images/ostia_fig16_colored.jpg" alt="Plan of the House on Via del Tempio Rotundo" title="Fig. 1: Plan (after M. Supino; PA-OAnt, Archives)." >}}
+{{< figure src="../images/ostia_fig15_better_colored.jpg" alt="Plan of the House on Via del Tempio Rotundo" title="Fig. 1: Plan (after M. Supino; PA-OAnt, Archives)." >}}
 
-{{< figure src="../images/ostia_fig17.jpg" alt="Plan of the peristyle, with column bases and flower pots" title="Fig. 2: Plan of the peristyle, with column bases and flower pots (from Messineo)." >}}
+{{< figure src="../images/ostia_fig17_better.jpg" alt="Plan of the peristyle, with column bases and flower pots" title="Fig. 2: Plan of the peristyle, with column bases and flower pots (from Messineo 1984)." >}}
 
 ### Photos
 
@@ -90,8 +94,7 @@ partially excavated between June 1972 and January 1973
 
 ### Bibliography
 
-<!-- Bibliography for Location Description -->
-* G. Calza, *Topografia generale*. [(worldcat)](http://www.worldcat.org/oclc/248497118)
+* G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)

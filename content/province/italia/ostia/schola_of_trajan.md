@@ -45,6 +45,10 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
+### Location Plan
+
+{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+
 ## Garden
 
 Schola of Trajan
@@ -66,13 +70,11 @@ The monumental complex of the Schola of the Trajan, presumed headquarters of the
 
 An [Ionic](http://vocab.getty.edu/page/aat/300020112) [portico](http://vocab.getty.edu/page/aat/300004145), with a [colonnade](http://vocab.getty.edu/page/aat/300002613) of bricks with stucco, surrounded this internal space. A long and narrow water channel crossed the [peristyle](http://vocab.getty.edu/page/aat/300080971) court of the Schola in all its length. It had a low [parapet](http://vocab.getty.edu/page/aat/300002717), decorated on its internal face by a row of rounded niches, and was faced with marble (much restored) (Fig. 2). Slightly offset, the particular position of this channel provokes a subtle optical correction of the angle, which marks the plan of the building. The channel was reduced, or perhaps even abandoned during the construction of the receding part of the Schola. New excavations since 1998 in the Northern sector of the peristyle court have uncovered an important part of the plumbing network. It must have been used for the [water supply](http://vocab.getty.edu/page/aat/300008618) of this internal space of the Schola, which was probably rich in *jeux d’eau.*
 
-### Plans
+### Figures
 
-{{< figure src="../images/ostia_fig18.jpg" alt="Plan of the Schola of the Trajan" title="Fig. 1: Plan (from Morard, Wavelet)." >}}
+{{< figure src="../images/ostia_fig18.jpg" alt="Plan of the Schola of the Trajan" title="Figure 1: Plan (from Morard, Wavelet)." >}}
 
-### Photos
-
-{{< figure src="../images/ostia_fig19.jpg" alt="Plan of the peristyle, with column bases and flower pots" title="Fig. 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive)." >}}
+{{< figure src="../images/ostia_fig19.jpg" alt="Photo of the courtyard of the Schola of Trajan and part of the House with Peristyle, reconstructed after 1938 excavations" title="Figure 2: The courtyard of the Schola of Trajan and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive)." >}}
 
 ### Dates
 
@@ -85,7 +87,7 @@ winter of 1938-1939
 ### Bibliography
 
 <!-- Bibliography for Location Description -->
-* G. Calza, *Topografia generale*. [(worldcat)](http://www.worldcat.org/oclc/248497118)
+* G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)

@@ -45,6 +45,10 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
+### Location Plan
+
+{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+
 ## Garden
 
 House with Peristyle
@@ -75,13 +79,11 @@ The [portico](http://vocab.getty.edu/page/aat/300004145) of this house was then 
 
 The portico [courtyard](http://vocab.getty.edu/page/aat/300004095) was a garden. On its northern side was a large rectangular [*nymphaeum*](http://vocab.getty.edu/page/aat/300006809), also restored in 1939. It is decorated with a semi-circular [niche](http://vocab.getty.edu/page/aat/300002704) on its long southern side. The floor is paved in [*opus spicatum*](http://vocab.getty.edu/page/aat/300417912); the walls are lined with [hydraulic mortar](http://vocab.getty.edu/page/aat/300014756), painted blue (Fig. 1, c). The volume of this *nymphaeum* and the system of the water evacuation and supply were modified several times. The [well](http://vocab.getty.edu/page/aat/300152327) in [*opus testaceum*](http://vocab.getty.edu/page/aat/300265616), in the angle southwest of the basin, is certainly one of the latest features. There is another well under the east corner of the portico that can be reached by stairs. The underground space, which was created around the well, could have been used as a [cellar](http://vocab.getty.edu/page/aat/300004761).
 
-### Plans
+### Figures
 
-{{< figure src="../images/ostia_fig.jpg" alt="Plan of the House with Peristyle" title="Fig. 1: Plan (from Morard, Wavelet)." >}} <!--missing illustration-->
+{{< figure src="../images/ostia_fig18.jpg" alt="Plan of the Schola of the Trajan" title="Figure 1: Plan (from Morard, Wavelet)." >}} <!--missing illustration-->
 
-### Photos
-
-{{< figure src="../images/ostia_fig.jpg" alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations" title="Fig. 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive)." >}} <!--missing illustration-->
+{{< figure src="../images/ostia_fig19.jpg" alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations" title="Figure 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive)." >}} <!--missing illustration-->
 
 ### Dates
 
@@ -95,7 +97,7 @@ winter of 1938-1939
 ### Bibliography
 
 <!-- Bibliography for Location Description -->
-* G. Calza, *Topografia generale*. [(worldcat)](http://www.worldcat.org/oclc/248497118)
+* G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)

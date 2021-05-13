@@ -167,6 +167,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 *Italia*
 - **Kathryn Gleason**, Cornell University: <klg16@cornell.edu>
 - Kim Hartswick, CUNY Graduate Center
+- Joshua Rosenheim, Cornell University
 - *Wilhelmina Jashemski*\*
 - *Eugenia Salza Prina Ricotti*\*
 
@@ -339,7 +340,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 ### Acknowledgements
 We gratefully acknowledge the work of past editorial staff and students who have contributed to the success of this project. We offer special thanks to Dr. Henry Ferry, Executor for the Estate of Wilhelmina Jashemski for his ongoing support of the *Gardens of the Roman Empire* project, and Beatrice Rehl of Cambridge University Press. We also acknowledge with the gratitude the support of the directors of Garden & Landscape Studies at Dumbarton Oaks: Elisabeth Blair MacDougall, Michel Conan, and Thaïsa Way.
 
-We have worked with a terrific team of students who studied ancient gardens and the digital humanities by serving as the “micro-editors” of these entries: Chen Chen, June Dorsch, Tiffany Fong, Shamika Ghate, Nicholas Gill, Annette Lei Guan, Yuming Huang, Yuhan Li, Yaniv Korman, Yifan Li, Yichen Liu, Yuyao Liu, Zhenrui Mei, Jane Ellen Millar, Yvette Pollack, Josh Rosenheim, Dustin Smith, Amartya Shri, Yunyan Sun, Lai Ching Tsui, Xingjian Wang,  Brandon Wilson, Xue Xia, Lingyi Xu, Jinyi Yang, and Jianing Zhou.
+We have worked with a terrific team of students who studied ancient gardens and the digital humanities by serving as the “micro-editors” of these entries: Chen Chen, June Dorsch, Tiffany Fong, Shamika Ghate, Nicholas Gill, Annette Lei Guan, Yuming Huang, Yuhan Li, Yaniv Korman, Yifan Li, Yichen Liu, Yuyao Liu, Zhenrui Mei, Jane Ellen Millar, Yvette Pollack, Joshua Rosenheim, Dustin Smith, Amartya Shri, Yunyan Sun, Lai Ching Tsui, Xingjian Wang,  Brandon Wilson, Xue Xia, Lingyi Xu, Jinyi Yang, and Jianing Zhou.
 
 Another team has worked with Keith Jenkins on the GIS mapping projects since 2017: David L. Ffrench III, Ned Fischer, Catherine Kearns, Charly Parker Kring, Jie Li, Sibel Li, Yixuan Li, Zejun Li, Huan Liu, Erin Wright, and Juliana Van Roggen.
 

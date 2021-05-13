@@ -45,6 +45,10 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
+### Location Plan
+
+{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+
 ## Garden
 
 Garden Houses (Case a Giardino)
@@ -64,20 +68,17 @@ A fourth fountain (b) was added on the eastern side, in the early years of the 3
 
 A sculptural group with a fishing scene, which could be interpreted as a fountain-head, was found (not *in situ*) in one of the rooms of the eastern block and might have belonged to this fountain (Fig. 5).
 
-### Plans
+### Figures
 
-{{< figure src="../images/ostia_fig10_casa_a_giardino_plan_colored.jpg" alt="Plan of the Garden Houses" title="Fig. 1: Plan (after Cervi 1998, fig. 2)." >}}
-<!--missing ostia_fig10, this image found online-->
+{{< figure src="../images/ostia_fig10_better_colored.jpg" alt="Plan of the Garden Houses" title="Figure 1: Plan of Case a Giardino (after Civiltà dell' acqua)." >}}
 
-{{< figure src="../images/ostia_fig12.jpg" alt="Plan of the Garden Houses" title="Fig. 3: Section and reconstruction of fountain (from Civiltà dell' acqua)." >}}
+{{< figure src="../images/ostia_fig11.jpg" alt="Plan of the Garden Houses" title="Figure 2: Fountain (PA-OAnt, Photo Archive)." >}}
 
-### Photos
+{{< figure src="../images/ostia_fig12_better.jpg" alt="Plan of the Garden Houses" title="Figure 3: Section and reconstruction of fountain (from Civiltà dell' acqua)." >}}
 
-{{< figure src="../images/ostia_fig11.jpg" alt="Plan of the Garden Houses" title="Fig. 2: Fountain (PA-OAnt, Photo Archive)." >}}
+{{< figure src="../images/ostia_fig13.jpg" alt="Photo of mosaic with nilotic scene from Fountain b" title="Figure 4: Fountain b: mosaic with nilotic scene (PA-OAnt, Photo Archive)." >}}
 
-{{< figure src="../images/ostia_fig13.jpg" alt="Photo of mosaic with nilotic scene from Fountain b" title="Fig. 4: Fountain b: mosaic with nilotic scene (PA-OAnt, Photo Archive)." >}}
-
-{{< figure src="../images/ostia_fig14.jpg" alt="Photo of the sculpture of a Fisherman on a rock" title="Fig. 5: Fisherman on a rock, sculpture from Garden Houses (PA-OAnt, Photo Archive)." >}}
+{{< figure src="../images/ostia_fig14.jpg" alt="Photo of the sculpture of a Fisherman on a rock" title="Figure 5: Fisherman on a rock, sculpture from Garden Houses (PA-OAnt, Photo Archive)." >}}
 
 ### Dates
 
@@ -91,7 +92,7 @@ unspecified
 ### Bibliography
 
 <!-- Bibliography for Location Description -->
-* G. Calza, *Topografia generale*. [(worldcat)](http://www.worldcat.org/oclc/248497118)
+* G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
