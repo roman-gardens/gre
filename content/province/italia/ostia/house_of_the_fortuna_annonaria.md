@@ -47,6 +47,10 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
+### Location Plan
+
+{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+
 ## Garden
 
 House of the Fortuna Annonaria
@@ -84,17 +88,15 @@ The large apsidal reception room ([*oecus*](http://vocab.getty.edu/page/aat/3000
 
 The garden also forms the backdrop to the rooms in the east part of the house, a [*triclinium*](http://vocab.getty.edu/page/aat/300004359) (Fig. 1, c) and a heated cubicle (Fig. 1, d), lit by a large window and decorated with a lavish black and white [mosaic](http://vocab.getty.edu/page/aat/300015342) floor with mythological scenes.
 
-### Plans
+### Figures
 
-{{< figure src="../images/ostia_fig20_colored.jpg" alt="Plan of the Fortuna Annonaria" title="Fig. 1: Plan (after Boersma)." >}}
+{{< figure src="../images/ostia_fig20_better_colored.jpg" alt="Plan of the Fortuna Annonaria" title="Figure 1: Plan (after Boersma 1985)." >}}
 
-{{< figure src="../images/ostia_fig21.jpg" alt="Axonometry of the Fortuna Annonaria" title="Fig. 2: Axonometry (from Boersma)." >}}
+{{< figure src="../images/ostia_fig21_better.jpg" alt="Axonometry of the Fortuna Annonaria" title="Figure 2: Axonometry (from Boersma 1985)." >}}
 
-### Photos
+{{< figure src="../images/ostia_fig22.jpg" alt="The garden seen from the oecus" title="Figure 3: The garden seen from the oecus (PA-OAnt, Photo Archive)." >}}
 
-{{< figure src="../images/ostia_fig22.jpg" alt="The garden seen from the oecus" title="Fig. 3: The garden seen from the *oecus* (PA-OAnt, Photo Archive)." >}}
-
-{{< figure src="../images/ostia_fig23.jpg" alt="Well head with bucrania" title="Fig. 4: Well head with bucrania (PA-OAnt, Photo Archive)." >}}
+{{< figure src="../images/ostia_fig23.jpg" alt="Well head with bucrania" title="Figure 4: Well head with bucrania (PA-OAnt, Photo Archive)." >}}
 
 ### Dates
 
@@ -107,7 +109,7 @@ unspecified
 ### Bibliography
 
 <!-- Bibliography for Location Description -->
-* G. Calza, *Topografia generale*. [(worldcat)](http://www.worldcat.org/oclc/248497118)
+* G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)

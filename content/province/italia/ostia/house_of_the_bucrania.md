@@ -41,6 +41,10 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
+### Location Plan
+
+{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+
 ## Garden
 
 House of the Bucrania
@@ -75,9 +79,9 @@ After the demolition of the House with Bucrania, the resulting consistent layer 
 
 At present, this is the earliest *hortus* known in ancient Ostia.
 
-### Plans
+### Figures
 
-{{< figure src="../images/ostia_fig.jpg" alt="Plan of the House of the Bucronia" title="Fig. 1: Plan (from Morard, Wavelet)." >}} <!--missing illustration-->
+{{< figure src="../images/ostia_fig18.jpg" alt="Plan of the Schola of the Trajan" title="Figure 1: Plan (from Morard, Wavelet 2002)." >}} <!--missing illustration-->
 
 ### Dates
 
@@ -90,7 +94,7 @@ summer 2002
 ### Bibliography
 
 <!-- Bibliography for Location Description -->
-* G. Calza, *Topografia generale*. [(worldcat)](http://www.worldcat.org/oclc/248497118)
+* G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
@@ -99,6 +103,7 @@ summer 2002
 * M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](http://www.worldcat.org/oclc/1536690)
 <!-- Bibliography for Garden Description -->
 * T. Morard, *Mélanges de l'École française de Rome: Antiquité* Tome 115, No. 1 (2003), in press. [(worldcat)](http://www.worldcat.org/oclc/859589040)
+* T. Morard, D. Wavelet, "Prolégomènes à l’étude du site de la Schola du Trajan à Ostie," in *Mélanges de l'École française de Rome: Antiquité*, Tome 115, No. 2 (2002), pp. 759-815. [(worldcat)](http://www.worldcat.org/oclc/859589040) [(persée)](https://www.persee.fr/issue/mefr_0223-5102_2002_num_114_2)
 
 #### Pleiades ID
 

@@ -48,6 +48,10 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
+### Location Plan
+
+{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+
 ## Garden
 
 House of the Thunderbolt (Domus Fulminata)
@@ -70,23 +74,21 @@ House of the Thunderbolt (Domus Fulminata)
 
 ### Garden Description
 
-The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden, excavated in 1941, was surrounded by a [portico](http://vocab.getty.edu/page/aat/300004145) on all four sides, supported by brick [columns](http://vocab.getty.edu/page/aat/300001571), some of which were paired or clustered in threes (Fig. 1). In the original building, dating to the [Flavian period](https://en.wikipedia.org/wiki/Flavian_dynasty), the garden (a) was furnished with a brick [*biclinium*](http://vocab.getty.edu/page/aat/300170371), with the [*klinai*](http://vocab.getty.edu/page/aat/300375544) placed opposite each other. Behind the *klinai* was an [aedicula](https://en.wikipedia.org/wiki/Aedicula)-shaped [*lararium*](http://vocab.getty.edu/page/aat/300400600) with a cylindrical marble [altar](http://vocab.getty.edu/page/aat/300003725) in front of it (Fig. 2). On the opposite side, and aligned with the entrance, was the basin of a [fountain](http://vocab.getty.edu/page/aat/300006179) with a [polychrome](http://vocab.getty.edu/page/aat/300252261) mosaic in blue and yellow [*tesserae*](http://vocab.getty.edu/page/aat/300010730) (built in a second phase, *c*. 150-200 CE). It was probably fed by the lead pipe (stamped *SEXTILIUS SECUNDUS FECIT*) that was seen by the excavators leading from the entrance towards [the Decumanus](https://en.wikipedia.org/wiki/Decumanus_Maximus). A well-head, placed at the entrance to the garden, had a purely ornamental function, since its bottom is sealed and it only has a hole for the runoff of water. A cube-shaped stuccoed brick pedestal was erected at the southwest corner of the peristyle. Into its sloping top was inserted a marble plaque, inscribed with the letters FDC (“*fulgur dium conditum*”). It marked the spot where lightning had struck, as well as things that had been struck by the same lightning bolt and ritually buried to placate the wrath of the gods.
+The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden, excavated in 1941, was surrounded by a [portico](http://vocab.getty.edu/page/aat/300004145) on all four sides, supported by brick [columns](http://vocab.getty.edu/page/aat/300001571), some of which were paired or clustered in threes (Fig. 1). In the original building, dating to the [Flavian period](https://en.wikipedia.org/wiki/Flavian_dynasty), the garden (a) was furnished with a brick [*biclinium*](http://vocab.getty.edu/page/aat/300170371), with the [*klinai*](http://vocab.getty.edu/page/aat/300375544) placed opposite each other. Behind the *klinai* was an [aedicula](https://en.wikipedia.org/wiki/Aedicula)-shaped [*lararium*](http://vocab.getty.edu/page/aat/300400600) with a cylindrical marble [altar](http://vocab.getty.edu/page/aat/300003725) in front of it (Fig. 2). On the opposite side, and aligned with the entrance, was the basin of a [fountain](http://vocab.getty.edu/page/aat/300006179) with a [polychrome](http://vocab.getty.edu/page/aat/300252261) mosaic in blue and yellow [*tesserae*](http://vocab.getty.edu/page/aat/300010730) (built in a second phase, *c*. 150-200 CE). It was probably fed by the lead pipe (stamped *SEXTILIUS SECUNDUS FECIT*) that was seen by the excavators leading from the entrance towards [the Decumanus](https://en.wikipedia.org/wiki/Decumanus_Maximus). A well-head (Figs. 3-4), placed at the entrance to the garden, had a purely ornamental function, since its bottom is sealed and it only has a hole for the runoff of water. A cube-shaped stuccoed brick pedestal was erected at the southwest corner of the peristyle. Into its sloping top was inserted a marble plaque, inscribed with the letters FDC (“*fulgur dium conditum*”). It marked the spot where lightning had struck, as well as things that had been struck by the same lightning bolt and ritually buried to placate the wrath of the gods.
 
 The residential rooms of the [*domus*](http://vocab.getty.edu/page/aat/300005506) were placed on its upper floor. Some experts think that the main reception rooms should be identified in the wing facing onto the northwest side of the garden. However, not everyone agrees that the House of the Thunderbolt was a private residential building. It could also have been the site of a college or corporation, which some archaeologists connect with the nearby sanctuary of the [Bona Dea](https://en.wikipedia.org/wiki/Bona_Dea). The rooms aligned along the eastern side, all intercommunicating, would have been, in this case, the ceremonial rooms of the college, whereas the residential sector of the building would be identifiable in the rooms on the western side.
 
 The house is one of the most interesting examples of the transition from the atrium peristyle house of [Republican](http://vocab.getty.edu/page/aat/300020537) tradition to the house with a colonnaded courtyard typical of Ostian residential architecture in the 2<sup>nd</sup> century CE.
 
-### Plans
+### Figures
 
-{{< figure src="../images/ostia_fig8_colored.jpg" alt="Plan of Domus Fulminata" title="Fig. 1: Plan (after Scavi di Ostia I)." >}}
+{{< figure src="../images/ostia_fig8_better_colored.jpg" alt="Plan of Domus Fulminata" title="Figure 1: Plan (after Calza 1953)." >}}
 
-{{< figure src="../images_b/ostia_fig13b_threshold.jpg" alt="Section of the basin" title="Fig. 4: Section of the basin (from Ricciardi and Santa Maria Scrinari)." >}}
+{{< figure src="../images/ostia_fig9.jpg" alt="Photo of the garden of the Domus Fulminata in 1941" title="Figure 2: Garden, 1941 (PA-OAnt, Photo Archive)." >}}
 
-### Photos
+{{< figure src="../images_b/ostia_fig12b.jpg" alt="Basin shaped as a well head in the garden of the Domus Fulminata" title="Figure 3: Basin shaped as a well-head (PA-OAnt, Photo Archive)." >}}
 
-{{< figure src="../images/ostia_fig9.jpg" alt="Photo of the garden in 1941" title="Fig. 2: Garden, 1941 (PA-OAnt, Photo Archive)." >}}
-
-{{< figure src="../images_b/ostia_fig12b.jpg" alt="Basin shaped as a well head" title="Fig. 3: Basin shaped as a well head (PA-OAnt, Photo Archive)." >}}
+{{< figure src="../images_b/ostia_fig13b_threshold.jpg" alt="Section of the basin in th" title="Figure 4: Section of the basin (from Ricciardi, Santa Maria Scrinari 1996)." >}}
 
 ### Dates
 
@@ -100,7 +102,7 @@ The house is one of the most interesting examples of the transition from the atr
 ### Bibliography
 
 <!-- Bibliography for Location Description -->
-* G. Calza, *Topografia generale*. [(worldcat)](http://www.worldcat.org/oclc/248497118)
+* G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953. [(worldcat)](http://www.worldcat.org/oclc/248497118)
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
@@ -109,7 +111,7 @@ The house is one of the most interesting examples of the transition from the atr
 * M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](http://www.worldcat.org/oclc/1536690)
 <!-- Bibliography for Garden Description -->
 * *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1941, pp. 56-58, 66. [(worldcat)](http://www.worldcat.org/oclc/8340098)
-* *Civiltà dell'acqua* 2, pp. 108-111. [(worldcat)](http://www.worldcat.org/oclc/312718716)
+* M.A. Ricciardi, V. Santa Maria Scrinari, *La Civiltà dell’acqua in Ostia Antica* 2, Rome, 1996, pp. 108-111. [(worldcat)](http://www.worldcat.org/oclc/801186023)
 
 #### Pleiades ID
 

@@ -47,9 +47,13 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
+### Location Plan
+
+{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+
 ## Garden
 
-Piazzale della Corporazioni
+Piazzale della Corporazioni \
 [The Forum of Corporations (Pleiades)](https://pleiades.stoa.org/places/489630692)
 
 ### Keywords
@@ -83,15 +87,13 @@ During the excavations of [Dante Vaglieri](https://it.wikipedia.org/wiki/Dante_V
 
 In October 1912 Dante Vaglieri began the reconstruction of the garden at the center of the Piazzale delle Corporazioni (Fig. 2). He commissioned a famous landscape architect of the period to create a garden with rectangular [parterres](http://vocab.getty.edu/page/aat/300184573) of various size which retraced in part the layout of the allées and [flower-beds](http://vocab.getty.edu/page/aat/300239937) of the ancient garden: “This garden, reconstructed by one of our cleverest landscape artists, with its display of classic bushes and flowers, its colonnade lining the four sides of the square, and its array of statues of eminent men, bankers, merchants, magistrates, harbour-masters, &c., has become the chief attraction to the visitors of Ostia…” The leading experts in garden architecture of the period included Nicodemo Severi and Giuseppe Roda: perhaps one of them was the “cleverest landscape artist.”
 
-### Plans
+### Figures
 
-{{< figure src="../images/ostia_fig6.jpg" alt="Plan of the Piazzale della Corporazioni" title="Fig. 1: Plan (from Scavi di Ostia I)." >}}
+{{< figure src="../images/ostia_fig6.jpg" alt="Plan of the Piazzale della Corporazioni" title="Fig. 1: Plan (from Lanciani 1881)." >}}
 
-{{< figure src="../images_b/ostia_fig8b.jpg" alt="Plan of the Piazzale della Corporazioni" title="Fig. 3: Sketch of the drainage system (from Giornale degli Scavi 1912)." >}}
+{{< figure src="../images/ostia_fig7.jpg" alt="Photo of the garden in 1912" title="Figure 2: The modern garden, 1912 (PA-OAnt, Photo Archive)." >}}
 
-### Photos
-
-{{< figure src="../images/ostia_fig7.jpg" alt="Photo of the garden in 1912" title="Fig. 2: The modern garden, 1912 (PA-OAnt, Photo Archive)." >}}
+{{< figure src="../images_b/ostia_fig8b.jpg" alt="Plan of the Piazzale della Corporazioni" title="Figure 3: Sketch of the drainage system (from Giornale degli Scavi 1912)." >}}
 
 ### Dates
 
@@ -107,7 +109,7 @@ Domitianic period
 ### Bibliography
 
 <!-- Bibliography for Location Description -->
-* G. Calza, *Topografia generale*. [(worldcat)](http://www.worldcat.org/oclc/248497118)
+* G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
@@ -117,8 +119,8 @@ Domitianic period
 <!-- Bibliography for Garden Description -->
 * *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1912, pp. 279, 303, 338. [(worldcat)](http://www.worldcat.org/oclc/8340098)
 * *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1913, pp. 10, 21, 331, 350. [(worldcat)](http://www.worldcat.org/oclc/8340098)
-* R. Lanciani, *Notizie degli scavi di antichità*, 1881, p. 119. [(worldcat)](http://www.worldcat.org/oclc/472500127)
-* R. Lanciani, *Notes from Rome*, pp. 434-435. [(worldcat)](http://www.worldcat.org/oclc/905765241)
+* R. Lanciani, "Ostia," in *Notizie degli scavi di antichità*, 1881, p. 119. [(worldcat)](http://www.worldcat.org/oclc/472500127)
+* R. Lanciani, *Notes from Rome*, (A.L. Cubberley ed.), London, 1988, pp. 434-435. [(worldcat)](http://www.worldcat.org/oclc/905765241)
 
 #### Pleiades ID
 

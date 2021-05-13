@@ -47,6 +47,10 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
+### Location Plan
+
+{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+
 ## Garden
 
 House of Amor and Psyche
@@ -71,17 +75,15 @@ The entrance of this house (Fig. 1) (which takes its name from the statuary grou
 
 The [*viridarium*](https://en.wiktionary.org/wiki/viridarium) is the main source of light for all the rooms that face on it, including the large reception room (d) (Fig. 3). The house is a typical example of an Ostian patrician house of the early 4th century AD.
 
-### Plans
+### Figures
 
-{{< figure src="../images/ostia_fig3_colored.jpg" alt="Plan of the House of Amor and Psyche" title="Fig. 1: Plan (after *Scavi di Ostia I*)." >}}
+{{< figure src="../images/ostia_fig3_colored.jpg" alt="Plan of the House of Amor and Psyche" title="Figure 1: Plan (after Becatti 1961)." >}}
 
-{{< figure src="../images/ostia_fig5.jpg" alt="Axonometry" title="Fig. 3: Axonometry (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." >}}
+{{< figure src="../images/ostia_fig4.jpg" alt="Photo of Nymphaeum" title="Figure 2: Nymphaeum (PA-OAnt, Photo Archive)." >}}
 
-{{< figure src="../images_b/ostia_fig4b.jpg" alt="Section" title="Fig. 4: Section (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." >}}
+{{< figure src="../images/ostia_fig5_better.jpg" alt="Axonometry" title="Figure 3: Axonometry (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." >}}
 
-### Photos
-
-{{< figure src="../images/ostia_fig4.jpg" alt="Photo of Nymphaeum" title="Fig. 2: Nymphaeum (PA-OAnt, Photo Archive)." >}}
+{{< figure src="../images_b/ostia_fig4b.jpg" alt="Section" title="Figure 4: Section (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." >}}
 
 ### Dates
 
@@ -94,7 +96,7 @@ unspecified
 ### Bibliography
 
 <!-- Bibliography for Location Description -->
-* G. Calza, *Topografia generale*. [(worldcat)](http://www.worldcat.org/oclc/248497118)
+* G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
@@ -105,6 +107,7 @@ unspecified
 * Giovanni Becatti, *Case ostiensi del tardo impero*, pp. 6-8. [(worldcat)](http://www.worldcat.org/oclc/899106405)
 * J. Packer, *American Journal of Archaeology* 71 (1967), pp 125-126. [(worldcat)](http://www.worldcat.org/oclc/1076135742)
 * Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, 1996, p. 123. [(worldcat)](http://www.worldcat.org/oclc/797420782)
+* Giovanni Becatti, *Mosaici e pavimenti marmorei*, Scavi di Ostia IV, Rome, 1961. [(worldcat)](https://www.worldcat.org/title/scavi-di-ostia-iv-mosaici-e-pavimenti-marmorei/oclc/630825752&referer=brief_results)
 * E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 93-97. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
 
 #### Pleiades ID

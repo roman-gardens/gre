@@ -46,6 +46,10 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
+### Location Plan
+
+{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+
 ## Garden
 
 Insula dei Dipinti
@@ -65,11 +69,9 @@ Insula dei Dipinti
 
 The large open area in this [*insula*](http://vocab.getty.edu/page/aat/300000325), divided into two by a wall, was identified as a garden at the time of excavation (1914 to 1919), but on little evidence apart from the absence of paving over most of the area. Recent excavations have however clarified the phases of the garden and added some significant detail. The garden is now known to have been created as a single area, forming an integral part of the late [Hadrianic](http://vocab.getty.edu/page/aat/300107350) development comprising the three houses which make up the Insula of the Paintings (House of Jove and Ganymede, House of the Infant Bacchus and House of the Paintings). The excavations in the SW corner of the south garden (Fig. 1, Tr. 1) however produced no evidence of Hadrianic garden features, due to the garden being greatly disturbed by a substantial restoration of the *insula* somewhere in the period 150-180 CE. At this time the wall dividing the garden into two was built, and a humus-rich soil imported into the south garden area, its use as a garden being confirmed by fragments of five [flower pots](http://vocab.getty.edu/page/aat/300194749), recognized by the holes in their bases. In addition, the lower part of a [Dressel 20](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=83) [amphora](https://en.wikipedia.org/wiki/Amphora#cite_note-12) and a neat, sub-triangular pit roughly 50 cm across cut into the underlying rubble fill may have served as planters. In the [Severan](http://vocab.getty.edu/page/aat/300020566) period a small [aedicular](http://vocab.getty.edu/page/aat/300002574) shrine was added to the south face of the new garden wall, the niche being originally decorated with glass [mosaic](http://vocab.getty.edu/page/aat/300015342) above foliage plants against a red ground. This was later covered with [whitewash](http://vocab.getty.edu/page/aat/300015042) and replaced by a figured scene, and finally a [statue](http://vocab.getty.edu/page/aat/300047600) of [Jove](https://en.wikipedia.org/wiki/Jupiter_(mythology)) was installed in the niche. A section of black-and-white geometric mosaic, overlying the humus-rich soil in Trench 1 and possibly associated lightweight rough walls, suggests the creation of a summer pavilion or dining room during this period, which would have enjoyed a view of the garden shrine.
 
-### Plans
+### Figures
 
-{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Fig. 1: Ostia Antica, General Plan." >}}
-
-{{< figure src="../images/ostia_fig2_colored.jpg" alt="Plan of the Garden and Houses of the Insula dei Dipinti" title="Fig. 2: The Garden and Houses of the Insula dei Dipinti." >}}
+{{< figure src="../images/ostia_fig2_better_colored.jpg" alt="Plan of the Garden and Houses of the Insula dei Dipinti" title="Figure 1: The Garden and Houses of the Insula dei Dipinti." >}}
 
 ### Dates
 
@@ -84,7 +86,7 @@ recent excavations
 ### Bibliography
 
 <!-- Bibliography for Location Description -->
-* G. Calza, *Topografia generale*. [(worldcat)](http://www.worldcat.org/oclc/248497118)
+* G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
