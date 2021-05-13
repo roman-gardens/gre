@@ -1,7 +1,7 @@
 ---
 title: "Jericho Twin Palaces of Alexandra Salome and Late Hasmonean Gardens"
 date: 2020-07-11T11:20:32-04:00
-latlon: [ 31.870046, 35.443876 ]
+latlon: [ 31.853780, 35.433952 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Kathryn Gleason
