@@ -20,7 +20,7 @@ tags:
 
 ## Location
 
-[Ostia]({{<relref "../..">}}) \
+[Ostia]({{<relref ".">}}) \
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
