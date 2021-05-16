@@ -67,7 +67,7 @@ Unspecified
 * Thédenat,*Pompei* 3rd ed. p. 90 and fig. 46 on p. 90. [(worldcat)](http://www.worldcat.org/oclc/612246417)
 
 ### Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
+[Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
 
