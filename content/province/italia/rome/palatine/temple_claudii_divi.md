@@ -21,13 +21,13 @@ tags:
 
 ## Province
 
-[ITALIA]({{<relref "..">}})\
-[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
+[ITALIA]({{<relref "../..">}}) \
+[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052) \
 [ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
-[Rome]({{<relref ".">}}) \
+[Rome]({{<relref "..">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 
 ## Sublocation
