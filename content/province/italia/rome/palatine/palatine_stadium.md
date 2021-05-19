@@ -11,8 +11,8 @@ draft: true
 
 ## Province
 
-[Italia]({{<relref "..">}})\
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)\
+[Italia]({{<relref "..">}}) \
+[Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
 [Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 <!-- -->
 ## Location
