@@ -15,21 +15,21 @@ categories:
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 ### Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-[Region VIII]({{<relref "../..">}})
+[Region VIII]({{<relref "..">}})
 
 ## Insula
-[Insula VII]({{<relref "..">}})
+[Insula VII]({{<relref ".">}})
 
 ### Garden Description
 This temple site was excavated in 1764-1766 and although, as Jashemski points out, it was likely that there was a sacred garden surrounding it, she could find no evidence of plantings remaining when she examined it. Ceremonies in a garden in front of a temple of Isis were depicted in two paintings found in Herculaneum (Mus. Naz. inv. nos. 8924, 8919; Ruesch nos. 1346, 1347). Gardens were often part of the cult of Egyptian temples.
