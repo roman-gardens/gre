@@ -6,7 +6,7 @@ latlon: [ 41.889306, 12.487109 ]
 province_id: PROVINCE_ID
 author: M.-A. Tomei
 editor: Rhiannon Paré
-draft: false
+draft: true
 tags:
  - "arcades (structural assemblies)"
  - "bathhouses (water recreation structures)"
@@ -17,18 +17,18 @@ tags:
 
 ## Province
 
-[Italia]({{<relref "..">}})\
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)\
+[Italia]({{<relref "../..">}}) \
+[Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
 [Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 <!-- -->
 ## Location
 
-[Rome]({{<relref ".">}}) \
+[Rome]({{<relref "..">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 <!-- -->
 ## Sublocation
 
-Palatine Hill \
+[Palatine]({{<relref ".">}}) \
 [Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
 <!-- -->
 <!-- -->

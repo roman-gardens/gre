@@ -11,28 +11,26 @@ draft: false
 
 ## Province
 
-[Italia]({{<relref "..">}})\
+[Italia]({{<relref "../..">}})\
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)\
 [Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
-<!-- -->
+
 ## Location
 
-[Rome]({{<relref ".">}}) \
+[Rome]({{<relref "..">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
-<!-- -->
+
 ## Sublocation
 
-Palatine Hill \
+[Palatine]({{<relref ".">}}) \
 [Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
-<!-- -->
-<!-- -->
-<!-- -->
+
 ## Garden
 
 Garden of the Temple of Elagabalus, Palatine
-<!-- -->
+
 ### Keywords
-<!-- -->
+
 - [allée](http://vocab.getty.edu/page/aat/300178561)
 - [altar (religious fixture)](http://vocab.getty.edu/page/aat/300003725)
 - [amphora (storage vessel)](http://vocab.getty.edu/page/aat/300148696)
