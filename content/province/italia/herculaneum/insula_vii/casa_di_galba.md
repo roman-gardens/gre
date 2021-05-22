@@ -29,15 +29,14 @@ tags:
 
 ## Location
 
-[Herculaneum]({{<relref "../../../..">}}) \
+[Herculaneum]({{<relref "..">}}) \
 [Herculaneum (Pleiades)](https://pleiades.stoa.org/places/432873)
 
 ### Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
-[Insula VII]({{<relref "..">}})
-
+[Insula VII]({{<relref ".">}})
 
 ## Garden
 Casa di Galba
