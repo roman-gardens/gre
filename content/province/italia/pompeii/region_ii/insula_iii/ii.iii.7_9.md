@@ -15,22 +15,23 @@ tags:
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}})
+[Italia]({{<relref "../../..">}})
 
 ## Location
 
-[Pompeii]({{<relref "..">}}) \
+[Pompeii]({{<relref "../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 <!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Sublocation
-Region II
+[Region II]({{<relref "..">}})
 
+<!-- pleiades link prompts for login
 ## House
-II.iii.7/9 (https://pleiades.stoa.org/places/243620947)
-
+[II.iii.7/9 (Pleiades)](https://pleiades.stoa.org/places/243620947)
+-->
 
 ## Garden
 Commercial restaurant garden.

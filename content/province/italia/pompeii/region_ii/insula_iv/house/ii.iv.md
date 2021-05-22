@@ -25,7 +25,7 @@ tags:
 
 ## Location
 
-[Pompeii]({{<relref "..">}}) \
+[Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 <!--### Location Description-->
 
@@ -35,12 +35,13 @@ tags:
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-[Region II]({{<relref ".">}})
+[Region II]({{<relref "../..">}})
 ## Insula
-[Insula IX]({{<relref "#">}})
+[Insula IV]({{<relref "..">}})
 
+<!-- pleiades link is invalid
 ## House
-[House of Julia Felix](https://pleiades.stoa.org/places/955554415)
+[House of Julia Felix (Pleiades)](https://pleiades.stoa.org/places/955554415)-->
 
 ## Garden
 Three separate gardens in the Praedia di Julia Felix.
