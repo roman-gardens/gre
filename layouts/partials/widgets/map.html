@@ -82,10 +82,10 @@
 
         // CTRL-click on map will copy coordinates
         L.DomEvent.addListener(map, 'click', function(e) {
-          if (! e.originalEvent.ctrlKey) return;
-          var coords = '[ ' + e.latlng.lat.toFixed(6) + ', ' + e.latlng.lng.toFixed(6) + ' ]';
-          navigator.clipboard.writeText(coords);
-          //alert('copied coordinates: ' + coords);
+          if (e.originalEvent.ctrlKey || e.originalEvent.metaKey) {
+            var coords = '[ ' + e.latlng.lat.toFixed(6) + ', ' + e.latlng.lng.toFixed(6) + ' ]';
+            navigator.clipboard.writeText(coords);
+          }
         });
       {{ else }}
         // For public website, use DARE basemap, backed up by OpenStreetMap
