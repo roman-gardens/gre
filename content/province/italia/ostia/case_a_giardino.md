@@ -1,7 +1,7 @@
 ---
 title: "Garden Houses (Case a Giardino)"
 date: 2021-02-08T19:00:00-08:00
-latlon: [ 41.754855, 12.287656 ]
+latlon: [ 41.751911781895046, 12.28455095873102 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Paola Olivanti
@@ -51,7 +51,8 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-Garden Houses (Case a Giardino)
+Garden Houses (Case a Giardino) \
+[Garden Houses (Pleiades)](https://pleiades.stoa.org/places/223974298)
 
 ### Keywords
 
@@ -62,7 +63,7 @@ Garden Houses (Case a Giardino)
 
 ### Garden Description
 
-The area in which these houses are situated was laid out as a residential area in *c*.128 CE as part of the [Hadrianic](https://en.wikipedia.org/wiki/Hadrian) remodeling of Ostia (Fig. 1). It is delimited by buildings of various depths, due to the irregularity of the available space. The central area is occupied by two blocks each comprising four houses, surrounded, according to the excavators, by a garden furnished with six [fountains](http://vocab.getty.edu/page/aat/300006179) (a) (three on the west and three on the east side; they each measure 2.93x3.55 m. and have a maximum preserved height of 75 cm.) (Figs. 2, 3). The fountains had more than a purely decorative function. They seem rather to be the classic type of canopied fountain. Each was equipped with a water spout and probably with an opening for drawing water. The fountains were surrounded on three sides by a travertine border, in which a little channel for the discharge of excess water was hewn. Two rounded grooves in the channel, in front of each spout, have been interpreted as supports for vessels to rest in as they were filled with water. On the fourth side, which has no border, is an outlet for the discharge of water, which flowed into the main drain leading outside the complex.
+The area in which these houses are situated was laid out as a residential area in *c*. 128 CE as part of the [Hadrianic](https://en.wikipedia.org/wiki/Hadrian) remodeling of Ostia (Fig. 1). It is delimited by buildings of various depths, due to the irregularity of the available space. The central area is occupied by two blocks each comprising four houses, surrounded, according to the excavators, by a garden furnished with six [fountains](http://vocab.getty.edu/page/aat/300006179) (a) (three on the west and three on the east side; they each measure 2.93x3.55 m. and have a maximum preserved height of 75 cm.) (Figs. 2, 3). The fountains had more than a purely decorative function. They seem rather to be the classic type of canopied fountain. Each was equipped with a water spout and probably with an opening for drawing water. The fountains were surrounded on three sides by a travertine border, in which a little channel for the discharge of excess water was hewn. Two rounded grooves in the channel, in front of each spout, have been interpreted as supports for vessels to rest in as they were filled with water. On the fourth side, which has no border, is an outlet for the discharge of water, which flowed into the main drain leading outside the complex.
 
 A fourth fountain (b) was added on the eastern side, in the early years of the 3rd century CE. Its floor was embellished with a mosaic representing [Nilotic](https://en.wikipedia.org/wiki/Nile) scenes (3.30x2.96 m) (Fig. 4); it has been suggested that it was roofed with a pergola supported by small columns. This fountain was essentially ornamental. It would have provided *jeux d’eau* and was perhaps combined with small flower-beds or garden sculptures in the area surrounded by the mosaic border.
 
@@ -106,8 +107,7 @@ unspecified
 
 #### Pleiades ID
 
-[422995](https://pleiades.stoa.org/places/422995)
-<!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
+[223974298](https://pleiades.stoa.org/places/223974298)
 
 #### TGN ID
 

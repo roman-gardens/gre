@@ -1,7 +1,7 @@
 ---
 title: "House of the Thunderbolt (Domus Fulminata)"
 date: 2021-02-08T19:00:00-08:00
-latlon: [ 41.754855, 12.287656 ]
+latlon: [ 41.750839672367256, 12.285040670892728 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Paola Olivanti
@@ -54,7 +54,8 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-House of the Thunderbolt (Domus Fulminata)
+House of the Thunderbolt (Domus Fulminata) \
+[House of the Thunderbolt (Pleiades)](https://pleiades.stoa.org/places/1554484)
 
 ### Keywords
 
@@ -116,8 +117,7 @@ The house is one of the most interesting examples of the transition from the atr
 
 #### Pleiades ID
 
-[422995](https://pleiades.stoa.org/places/422995)
-<!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
+[1554484](https://pleiades.stoa.org/places/1554484)
 
 #### TGN ID
 

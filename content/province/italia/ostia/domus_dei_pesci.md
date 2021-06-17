@@ -1,7 +1,7 @@
 ---
 title: "Garden beneath the House of the Fishes (Domus dei Pesci)"
 date: 2021-02-08T19:00:00-08:00
-latlon: [ 41.754855, 12.287656 ]
+latlon: [ 41.75282967075262, 12.28930212931829 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Stella Falzone
@@ -50,7 +50,8 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-Garden beneath the House of the Fishes (Domus dei Pesci)
+Garden beneath the House of the Fishes (Domus dei Pesci) \
+[House of the Fishes (Pleiades)](https://pleiades.stoa.org/places/223974300)
 
 ### Keywords
 
@@ -92,8 +93,7 @@ unspecified
 
 #### Pleiades ID
 
-[422995](https://pleiades.stoa.org/places/422995)
-<!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
+[223974300](https://pleiades.stoa.org/places/223974300)
 
 #### TGN ID
 
