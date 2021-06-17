@@ -1,7 +1,7 @@
 ---
 title: "Insula dei Dipinti"
 date: 2021-02-05T10:00:00-08:00
-latlon: [ 41.754855, 12.287656 ]
+latlon: [ 41.75511864107492, 12.287953204806119 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Janet DeLaine
@@ -52,7 +52,8 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-Insula dei Dipinti
+Insula dei Dipinti \
+[Insula dei Dipinti (Pleiades)](https://pleiades.stoa.org/places/841214213)
 
 ### Keywords
 
@@ -95,13 +96,12 @@ recent excavations
 * M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](http://www.worldcat.org/oclc/1536690)
 <!-- Bibliography for Garden Description -->
 * *Giornale degli Scavi*, 1917, pp. 58, 69-70.
-* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1919, pp. 227-228, 251-253, 255, 263-5. [(worldcat)](http://www.worldcat.org/oclc/8340098)
+* *Giornale degli Scavi*, 1919, pp. 227-228, 251-253, 255, 263-5.
 * G. Calza, *Monumenti antichi* 26 (1920), pp. 328-330. [(worldcat)](http://www.worldcat.org/oclc/1067432688)
 
 #### Pleiades ID
 
-[422995](https://pleiades.stoa.org/places/422995)
-<!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
+[841214213](https://pleiades.stoa.org/places/841214213)
 
 #### TGN ID
 
