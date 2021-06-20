@@ -11,14 +11,14 @@ draft: false
 categories:
   - "Numidia"
 tags:
- - "domus"
- - "exedrae (site elements)"
- - "mosaics (visual works)"
- - "peristyle houses"
- - "piscinae"
- - "basin"
- - "fish pool"
- - "amphoras"
+- amphorae (storage vessels)
+- basins (vessels)
+- domus
+- exedrae (site elements)
+- fishponds
+- mosaics (visual works)
+- peristyle houses
+- piscinae
 ---
 
 ## Province
@@ -39,7 +39,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 
 ### Location Description
 
-The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.
+The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.
 
 <!--## Sublocation-->
 
@@ -51,21 +51,20 @@ House of Europa, Central District (Maison d'Europe, Quartier Central)
 
 ### Keywords
 
+- [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
+- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
+- [fishponds](http://vocab.getty.edu/page/aat/300008689)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [piscinae]( http://vocab.getty.edu/page/aat/300375619)
-- [basin](#)
-- [fish pool](#)
-- [amphoras](#)
-
 
 ### Garden Description
 
 This house of irregular shape (Plan view, Fig. 1), rested against the ancient city wall, transformed into a decorative wall for the Severian Forum, and between two large cardines. It was excavated in 1911.
 
-We can see the complex building of Late Antiquity (1500 m2), centered around the peristyle, with a large central area (8.10 x 7.70 m) (Fig. 1). The bases of the columns (four on each side) are not visible; therefore, they seem to lay on a lower level, hidden by later phase of construction. During the first half of Vth century, low walls were set against the columns, except on the west side, where the open area was entered from the gallery. On the north side, an apse, paved with a mosaic representing a shell, encroaches upon the inner space. On the east side, in front of the large exedra XVIII, a mass of masonry includes three small semi-circular pools. A large rectangular fish pool rests against the mass of masonry; there are little terracotta amphoras inside the edges. At the center of this pool, rose a tall hexagonal base engraved with an ivy scroll and unreadable inscriptions, standing on a hollow base. The peristyle galleries were paved with mosaics: there were geometric patterns and two inscriptions glorifying the owner Castorius and his family.
+We can see the complex building of Late Antiquity (1500 m2), centered around the peristyle, with a large central area (8.10 x 7.70 m) (Fig. 1). The bases of the columns (four on each side) are not visible; therefore, they seem to lay on a lower level, hidden by later phase of construction. During the first half of the fifth century, low walls were set against the columns, except on the west side, where the open area was entered from the gallery. On the north side, an apse, paved with a mosaic representing a shell, encroaches upon the inner space. On the east side, in front of the large exedra XVIII, a mass of masonry includes three small semi-circular pools. A large rectangular fish pool rests against the mass of masonry; there are little terracotta amphoras inside the edges. At the center of this pool, rose a tall hexagonal base engraved with an ivy scroll and unreadable inscriptions, standing on a hollow base. The peristyle galleries were paved with mosaics: there were geometric patterns and two inscriptions glorifying the owner Castorius and his family.
 
 The  L shaped space between the fish pool and the columns was probably planted.
 

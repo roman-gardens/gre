@@ -10,6 +10,10 @@ draft: false
 
 categories:
  - "Achaea"
+
+tags:
+- "gymnasiums"
+
 ---
 
 ## Province

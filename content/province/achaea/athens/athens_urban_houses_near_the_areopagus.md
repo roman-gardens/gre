@@ -10,6 +10,13 @@ draft: false
 
 categories:
  - "Achaea"
+
+tags:
+- "basins (vessels)"
+- "peristyles (Roman courtyards)"
+- "pipes (conduits)"
+- "piscinae"
+- "planters (containers)"
 ---
 
 ## Province

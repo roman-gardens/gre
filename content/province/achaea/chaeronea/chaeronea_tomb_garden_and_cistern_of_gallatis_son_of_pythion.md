@@ -10,6 +10,10 @@ draft: false
 
 categories:
  - "Achaea"
+
+tags:
+  - "funerary buildings"
+
 ---
 
 ## Province

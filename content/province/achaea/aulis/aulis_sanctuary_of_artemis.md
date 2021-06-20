@@ -10,6 +10,12 @@ draft: false
 
 categories:
  - "Achaea"
+
+tags:
+ - "date palms (Phoenix dactylifera)"
+ - "sacred groves"
+ - "Pausanias"
+ - "statues"
 ---
 
 ## Province
@@ -45,8 +51,8 @@ Sanctuary of Artemis
 
 - [Literary](#)
 - [date palms (*Phoenix dactylifera*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:668912-1)
-- [grove (sacred grove)](http://vocab.getty.edu/page/aat/300251876)
-- [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
+- [sacred groves](http://vocab.getty.edu/page/aat/300251876)
+- [Pausanias](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1054)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 
 ### Garden Description

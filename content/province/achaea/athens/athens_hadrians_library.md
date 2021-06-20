@@ -10,6 +10,13 @@ draft: false
 
 categories:
  - "Achaea"
+
+tags:
+- "colonnades"
+- "gymnasiums"
+- "Pausanias"
+- "peristyles (Roman courtyards)"
+- "piscinae"
 ---
 
 ## Province
@@ -46,7 +53,7 @@ Library of Hadrian
 - [Archaeological](#)
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [gymnasiums](http://vocab.getty.edu/page/aat/300007297)
-- [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
+- [Pausanias](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1054)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [piscinae](http://vocab.getty.edu/page/aat/300375619)
 

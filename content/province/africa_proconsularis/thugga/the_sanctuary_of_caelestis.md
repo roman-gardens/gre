@@ -12,11 +12,10 @@ categories:
   - "Africa Proconsularis"
 
 tags:
- - "temple"
- - "sanctuary"
+ - "temples"
+ - "sanctuaries"
  - "courtyards"
- - "peripteral and hexastyle"
- - "altar"
+ - "altars"
 ---
 
 ## Province
@@ -43,11 +42,10 @@ The sanctuary of Caelestis
 
 ### Keywords
 
-- [temple](#)
-- [sanctuary](#)
+- [temples](http://vocab.getty.edu/page/aat/300007595)
+- [sanctuaries](http://vocab.getty.edu/page/aat/300004575)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [peripteral and hexastyle](#)
-- [altar](#)
+- [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
 
 ### Garden Description
 

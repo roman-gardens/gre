@@ -10,6 +10,17 @@ draft: false
 
 categories:
  - "Achaea"
+
+tags:
+ - "elms (Ulmus sp.)"
+ - "gymnasiums"
+ - "olive trees (Olea europaea)"
+ - "palaestrae"
+ - "peristyles (Roman courtyards)"
+ - "plane trees (Platanus orientalis)"
+ - "poplars (Populus sp.)"
+ - "statues"
+ - "water features (landscaping)"
 ---
 
 ## Province

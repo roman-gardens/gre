@@ -10,6 +10,12 @@ draft: false
 
 categories:
  - "Achaea"
+
+tags:
+- "Pausanias"
+- "pines (Pinus sp.)"
+- "sacred groves"
+- "Strabo"
 ---
 
 ### Province
@@ -48,10 +54,10 @@ Sanctuary of Poseidon
 ### Keywords
 
 - [Literary](#)
-- [Pausanias](#)
-- [pines (Pinus sp.)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:328247-2)
+- [Pausanias](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1054)
+- [pines (*Pinus* sp.)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:328247-2)
 - [sacred groves](http://vocab.getty.edu/page/aat/300251876)
-- [Strabo](#)
+- [Strabo](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1333)
 
 ### Garden Description
 
