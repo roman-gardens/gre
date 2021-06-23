@@ -32,6 +32,8 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 [Thamugadi]({{<relref ".">}}) \
 [Thamugadi (Pleiades)](https://pleiades.stoa.org/places/334636)
 
+{{< figure src="../images/timgad_city_plan_water_sanctuary.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
+
 ### Location Description
 
 Timgad, ancient Thamugadi was founded as a colony under Trajan. The city had a checker board plan, that measured 11ha. In the center was the forum with its Curia, an imperial temple and the basilica. Between the IInd and the IVth century the city expanded out of its original layout. Temples, baths and a market were built and the center of the city was renovated with the construction of the library, the market and luxurious houses. At the end of the IVth century the bishop Optatus of Timgad a prominent member of the donatist church constructed the great west basilica. During the Byzantine conquest a fortress was erected on the water sanctuary dating to the IIIrd and IVth century.
@@ -87,6 +89,7 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 2nd-3rd century CE
 
 ### Bibliography
+* Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](http://www.worldcat.org/oclc/23396951)
 * Malek, A.-A., "Le Jardin Dans Les Sanctuaires De L'afrique Romaine: Premières Approches.", in *Du Culte Aux Sanctuaires : L'architecture Religieuse Dans L'afrique Romaine Et Byzantine : Actes Du Colloque*, 18-19 Avril 2013, Paris, Fondation Simone Et Cino Del Duca... -. (2018), p. 362, fig. 12. [(worldcat)](http://www.worldcat.org/oclc/1201712466)
 *  Lassus, J., *La forteresse byzantine de Thamugadi, Fouilles à Timgad*, 1938-1956, Paris, 1981, plan p. 25, fig. 9, pp. 215-17, fig. 174-76. [(worldcat)](http://www.worldcat.org/oclc/906459184)
 *  Leschi, L., "Découvertes récentes à Timgad: Aqua Septimiana Felix", in *CRAI*, 1947, pp. 87-99. [(worldcat)](http://www.worldcat.org/oclc/4649794390)

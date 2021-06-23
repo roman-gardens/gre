@@ -30,6 +30,8 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 [Thamugadi]({{<relref ".">}}) \
 [Thamugadi (Pleiades)](https://pleiades.stoa.org/places/334636)
 
+{{< figure src="../images/timgad_city_plan_house_of_the_warehouse.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
+
 ### Location Description
 
 Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.
@@ -83,6 +85,7 @@ Unspecified
 
 ### Bibliography
 *  Ballu, A., *Les ruines de Timgad, Sept années de découvertes*, Paris, 1911, p. 49-53,120, plan p. 51. [(worldcat)](http://www.worldcat.org/oclc/802835102)
+* Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](http://www.worldcat.org/oclc/23396951)
 * Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 88, fig. 12. [(worldcat)](http://www.worldcat.org/oclc/643640586)
 
 
