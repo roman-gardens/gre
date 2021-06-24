@@ -13,7 +13,7 @@ categories:
 
 tags:
 - "Pausanias"
-- "pines (Pinus sp.)"
+- "pines (Pinus)"
 - "sacred groves"
 - "Strabo"
 ---

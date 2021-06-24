@@ -12,13 +12,13 @@ categories:
  - "Achaea"
 
 tags:
- - "elms (Ulmus sp.)"
+ - "elms (Ulmus)"
  - "gymnasiums"
  - "olive trees (Olea europaea)"
  - "palaestrae"
  - "peristyles (Roman courtyards)"
  - "plane trees (Platanus orientalis)"
- - "poplars (Populus sp.)"
+ - "poplars (Populus)"
  - "statues"
  - "water features (landscaping)"
 ---
