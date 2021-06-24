@@ -10,6 +10,11 @@ draft: false
 
 categories:
  - "Achaea"
+
+tags:
+ - "basins (vessels)"
+ - "nymphaea (garden structures)"
+ - "peristyles (Roman courtyards)"
 ---
 
 ## Province

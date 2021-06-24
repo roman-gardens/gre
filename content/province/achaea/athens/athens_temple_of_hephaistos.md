@@ -10,6 +10,12 @@ draft: false
 
 categories:
  - "Achaea"
+
+tags:
+ - "myrtle (Myrtus communis)"
+ - "pits (earthworks)"
+ - "planting pots"
+ - "pomegranate (Punica granatum)"
 ---
 
 ## Province
@@ -48,7 +54,7 @@ Temple of Hephaistos
 - [myrtle (*Myrtus communis*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:599719-1)
 - [pits (earthworks)](http://vocab.getty.edu/page/aat/300008027)
 - [planting pots (horticultural containers)](http://vocab.getty.edu/page/aat/300197605)
-- [pomegranate *(Punica granatum)*](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:554129-1)
+- [pomegranate (*Punica granatum*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:554129-1)
 
 ### Garden Description
 

@@ -10,6 +10,11 @@ draft: false
 
 categories:
  - "Achaea"
+
+tags:
+ - "orchards"
+ - "Pausanias"
+ - "wild olives (Olea oleaster)"
 ---
 
 ### Province
@@ -40,7 +45,7 @@ Sanctuary of Hyernetho
 
 - [Literary](#)
 - [orchards](http://vocab.getty.edu/page/aat/300008890)
-- [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
+- [Pausanias](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1054)
 - [wild olives (Olea oleaster)](http://powo.science.kew.org/taxon/610760-1)
 
 ### Garden Description
