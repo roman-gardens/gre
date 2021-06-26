@@ -5,8 +5,6 @@ languageCode = "en-us"
 title = "Gardens of the Roman Empire"
 theme = "mainroad"
 paginate = "1000"
-# theme = "simpleit-hugo-theme"
-# theme = "book"
 
 publishDir = "docs"
 
