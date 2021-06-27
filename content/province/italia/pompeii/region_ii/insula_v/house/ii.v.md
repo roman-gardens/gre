@@ -24,14 +24,16 @@ tags:
 
 ## Location
 
-[Pompeii]({{<relref "..">}}) \
+[Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 <!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 ## Sublocation
-Region II
+[Region II]({{<relref "../..">}})
 
+## Insula
+[Insula V]({{<relref "..">}})
 
 ## House
 [Large Vineyard](https://pleiades.stoa.org/places/444848573)

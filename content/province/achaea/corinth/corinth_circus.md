@@ -10,6 +10,11 @@ draft: true
 
 categories:
  - "Achaea"
+
+tags:
+ - "amphorae (storage vessels)"
+ - "circuses (Roman arenas)"
+ - "mosaics (visual works)"
 ---
 
 ## Province
@@ -62,7 +67,7 @@ In the spina and meta excavators found three large pits cut into the bedrock, sp
 A transport/storage amphora, broken into several fragments and with the neck and foot cut off, was found inside one of the pits (pit 2, Fig. 3).  This amphora was almost certainly reused as a planting pot and is further evidence that the meta and spina were planted. The amphora is a North Italian Dressel 6 or Spanish Dressel 7-11 type, with dates ranging from the 1st century A.D. to first half of the 2nd century A.D. Thus, the planting pot may not belong to the earliest phase of the circus.
 Fragments of marble sculpture were found in the fill above the spina, including a large egg-shaped object that may be part of a lap-counting device, a colossal hand, the fragmentary head and arm of a youth, the left leg of an athlete with palm tree support, as well as a lifesized terracotta comic mask. The presence of these fragments suggests the possibility that the spina/meta area was also decorated with sculptures amidst the garden plantings.
 
-The so-called “hippodrome garden” type **(see … add cross-references to Domus Flavia on the Palatine Hill in Rome, “Stadium-Garden” at Hadrian’s Villa at Tivoli, the Villa of the Little Circus at Silin, Jericho, Pliny’s Tuscan villa, and Domitian’s villa above Lake Albano)** must have been inspired in some way by Greek hippodromes and/or by Roman circuses with planted areas with sculptural and possibly architectural decoration in the central area and probably around the circumference of the elongated racecourse. It must be pointed out, however, that no Greek hippodrome has ever been excavated, although new excavations at the Sanctuary of Zeus on Mt. Lykaion in Arcadia, Greece may be able to shed some light for the first time on a Classical period hippodrome structure and its possible garden features (http://lykaionexcavation.org). In addition, although trees appear in circus scenes illustrating the spina and meta of the Circus Maximus in Rome on 3rd – 4th century A.D. mosaics, e.g., the Barcelona mosaic, as well as on coins, e.g., coin of Philip I, and on sarcophagus reliefs, such as the Vatican sarcophagus (Humphrey, Roman Circuses, pp. 235-236, figs. 56, 119; p. 127, fig. 56; pp. 196-203, fig. 99-101) and the possibility of plantings has been proposed in the spinae of Roman circuses (e.g., by Humphrey, Roman Circuses, p. 38 for the circus at Leptis Magna), no specific archaeological evidence has been recorded until the publication of this circus at Corinth.
+The so-called “hippodrome garden” type (see the Domus Flavia on the [Palatine Hill]({{<relref "Palatine">}}) in Rome, the “Stadium-Garden at Hadrian’s Villa at Tivoli, the Villa of the Little Circus at Silin, [Jericho]({{<relref "Jericho">}}), Pliny’s Tuscan villa, and Domitian’s villa above Lake Albano) must have been inspired in some way by Greek hippodromes and/or by Roman circuses with planted areas with sculptural and possibly architectural decoration in the central area and probably around the circumference of the elongated racecourse. It must be pointed out, however, that no Greek hippodrome has ever been excavated, although [recent excavations](http://lykaionexcavation.org) at the Sanctuary of Zeus on Mt. Lykaion in Arcadia may be able to shed some light for the first time on a Classical period hippodrome structure and its possible garden features. In addition, although trees appear in circus scenes illustrating the spina and meta of the Circus Maximus in Rome on 3rd – 4th century A.D. mosaics, e.g., the Barcelona mosaic, as well as on coins, e.g., coin of Philip I, and on sarcophagus reliefs, such as the Vatican sarcophagus (Humphrey, 235-236, figs. 56, 119; p. 127, fig. 56; pp. 196-203, fig. 99-101) and the possibility of plantings has been proposed in the spinae of Roman circuses (e.g., by Humphrey, 38 for the circus at Leptis Magna), no specific archaeological evidence has been recorded until the publication of this circus at Corinth.
 
 <!--### Maps-->
 
@@ -107,7 +112,6 @@ BIBLIOGRAPHY:
 [David Gilman Romano](https://anthropology.arizona.edu/user/david-gilman-romano) (ORCID: [0000-0001-5764-6652](https://orcid.org/0000-0001-5764-6652))
 
 ### Publication date
-
 
 21 Apr 2021
 

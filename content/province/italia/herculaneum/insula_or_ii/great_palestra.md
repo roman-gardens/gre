@@ -26,7 +26,7 @@ tags:
 
 ## Location
 
- [Herculaneum]({{<relref "../../../..">}}) \
+ [Herculaneum]({{<relref "..">}}) \
  [Herculaneum (Pleiades)](https://pleiades.stoa.org/places/432873)
 
 
@@ -36,10 +36,10 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 
 ## Insula
 
-[Insula Orientalis II]({{<relref "..">}})
+[Insula Orientalis II]({{<relref ".">}})
 
 ## House
-[Thermea]({{<relref "..">}})
+Thermea
 
 ## Garden
 Great Palestra

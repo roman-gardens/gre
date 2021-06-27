@@ -11,6 +11,13 @@ draft: false
 
 categories:
  - "Achaea"
+
+tags:
+- "exedrae (site elements)"
+- "mosaics (visual works)"
+- "nymphaea (garden structures)"
+- "porticoes"
+- "statues"
 ---
 
 ## Province

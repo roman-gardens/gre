@@ -54,10 +54,7 @@
 
 # Articles in need of a second look
 
-- achaea/athens/athens_neoplatonic..., no author
-- achaea/corinth/corinth_circus, images with no links
-- achaea/eua/villa..., editor seems to be author, no editor/author listed
-- achaea/athens/athenian_schools, need to make sure this info gets in the right places
+- achaea/corinth/corinth_circus, images with no links (image folder empty -JEM)
 - ger sup/dietikon, no orcid for Christa Ebnöther
 - ger sup/vallon, two map images are broken, replace with new
 

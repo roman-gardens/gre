@@ -17,12 +17,12 @@ tags:
 
 ## Province
 
-[Italia]({{<relref "../..">}}) \
+[Italia]({{<relref "..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
 
-[Ostia]({{<relref "../..">}}) \
+[Ostia]({{<relref ".">}}) \
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
@@ -33,7 +33,7 @@ From the 2<sup>nd</sup> century BCE Ostia (and later [Portus](https://en.wikiped
 
 Ostia is especially well known in archaeological and historical studies for its building history. The earliest Ostian houses are only known from sporadic traces, beginning from the 2nd century BCE. They were [*domus*](http://vocab.getty.edu/page/aat/300005506) of traditional type, both in the simplest version, of direct Italic derivation, with rooms arranged round the atrium, and in the more complex Roman-Hellenistic form, in which the peristyle with the garden was added (e.g. the [House of the Bucrania]({{<relref "./house_of_the_bucrania.md/">}})). They were single-family houses, generally single storied, or with an upper story limited to the height of the atrium.  
 
-The transition to a different type of house was marked by the so-called peristyle house, such as the [House on the Via del Tempio Rotundo]({{<relref "./house_on_via_del_tempio_rotundo.md/">}}), which dates to the [Augustan period](https://en.wikipedia.org/wiki/Augustus), the one found below the [Schola of Trajan]({{<relref "./schola_of_trajan.md/">}}) (built 20-40 CE) and the [House of the Thunderbolt]({{<relref "./house_of_the_thunderbolt.md/">}}), datable to the [Vespasianic period](https://en.wikipedia.org/wiki/Vespasian) (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the [House of Fortuna Annonaria]({{<relref "./house_of_the_fortuna_annonaria.md/">}}), with its garden (140-190 CE).
+The transition to a different type of house was marked by the so-called peristyle house, such as the [House on the Via del Tempio Rotondo]({{<relref "./house_on_via_del_tempio_rotondo.md/">}}), which dates to the [Augustan period](https://en.wikipedia.org/wiki/Augustus), the one found below the [Schola of Trajan]({{<relref "./schola_of_trajan.md/">}}) (built 20-40 CE) and the [House of the Thunderbolt]({{<relref "./house_of_the_thunderbolt.md/">}}), datable to the [Vespasianic period](https://en.wikipedia.org/wiki/Vespasian) (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the [House of Fortuna Annonaria]({{<relref "./house_of_the_fortuna_annonaria.md/">}}), with its garden (140-190 CE).
 
 Ostia was heavily reconstructed in the 2<sup>nd</sup> century CE, under the pressure of the growth in population due to the completion of its ports. The new city followed new canons of utilitarian, high-density building, based on the multi-storied [*insula*](https://en.wikipedia.org/wiki/Insula_(building)), which aimed at the efficient use of the little space available. A room with windows on the façade became a kind of atrium-room. The plan became enriched with smaller rooms and internal staircases that ascended to the private apartments of the upper floor. Independent stairways entered from the street provided access to the apartments on the second and upper floors. The most accomplished examples of this type of building date to the [Hadrianic period](https://en.wikipedia.org/wiki/Hadrian), for example in some *insulae* that compose the so-called Garden Houses. In another type of insula the main source of light is not the street, but an inner arcaded courtyard.
 
@@ -81,19 +81,21 @@ In the original plan of the [Augustan](http://vocab.getty.edu/page/aat/300020543
 
 The open area to the back of the theater was never built over. Laid out as a garden, and adorned with [statues](http://vocab.getty.edu/page/aat/300047600) raised in honor of men who had distinguished themselves in trade, it conformed to the recommendation of [Vitruvius](https://en.wikipedia.org/wiki/Vitruvius) ([5.9.1](http://data.perseus.org/citations/urn:cts:latinLit:phi1056.phi001.perseus-lat1:5.9.1) | [(English)](http://data.perseus.org/citations/urn:cts:latinLit:phi1056.phi001.perseus-eng1:5.9.1) | [5.9.5](http://data.perseus.org/citations/urn:cts:latinLit:phi1056.phi001.perseus-lat1:5.9.5) | [(English)](http://data.perseus.org/citations/urn:cts:latinLit:phi1056.phi001.perseus-eng1:5.9.5)), that areas surrounding a theater be laid out with colonnades  (*post scaenam porticus*) and embellished with gardens, where people could stroll about and converse.
 
-During the excavations of [Rodolfo Lanciani](https://en.wikipedia.org/wiki/Rodolfo_Lanciani) (1881) “a street traversing the excavated area of the Forum and aligned on the axis of the temple and the theatre” was identified. Reported to be “gravelled and edged with marble borders”, this street was probably a path of the garden that led from the theater to the temple at the center of the area: “The Forum of Ceres ... was once ornamented with a garden, the [*allées*](http://vocab.getty.edu/page/aat/300178561) of which can still be traced with the help of the marble border-lines by which each plot of green was defined and surrounded.”
+During the excavations of [Rodolfo Lanciani](https://en.wikipedia.org/wiki/Rodolfo_Lanciani) (1881) “a street traversing the excavated area of the Forum and aligned on the axis of the temple and the theatre” was identified (Fig. 2). Reported to be “gravelled and edged with marble borders”, this street was probably a path of the garden that led from the theater to the temple at the center of the area: “The Forum of Ceres ... was once ornamented with a garden, the [*allées*](http://vocab.getty.edu/page/aat/300178561) of which can still be traced with the help of the marble border-lines by which each plot of green was defined and surrounded.”
 
-During the excavations of [Dante Vaglieri](https://it.wikipedia.org/wiki/Dante_Vaglieri) (1910-1913), a system of conduits was identified. It was linked to a large [sewer](http://vocab.getty.edu/page/aat/300006122) that ran underground at the center of the garden area, sloping downwards from south to north in the direction of the Tiber. Two conduits parallel to the central sewer ran in front of the [*stationes*](https://en.wiktionary.org/wiki/statio#Latin). At garden level there were two long gutters that collected rainwater from the roof of the portico. Two basins (respectively 3.10x2.90 and 3.45x3.35 m) at ground level were identified on the southern side of the garden; they were paved with [*opus signinum*](http://vocab.getty.edu/page/aat/300379969) on the inside and probably panelled in marble.
+During the excavations of [Dante Vaglieri](https://it.wikipedia.org/wiki/Dante_Vaglieri) (1910-1913), a system of conduits was identified. It was linked to a large [sewer](http://vocab.getty.edu/page/aat/300006122) that ran underground at the center of the garden area, sloping downwards from south to north in the direction of the Tiber (Fig. 3). Two conduits parallel to the central sewer ran in front of the [*stationes*](https://en.wiktionary.org/wiki/statio#Latin). At garden level there were two long gutters that collected rainwater from the roof of the portico. Two basins (respectively 3.10x2.90 and 3.45x3.35 m) at ground level were identified on the southern side of the garden; they were paved with [*opus signinum*](http://vocab.getty.edu/page/aat/300379969) on the inside and probably panelled in marble.
 
-In October 1912 Dante Vaglieri began the reconstruction of the garden at the center of the Piazzale delle Corporazioni (Fig. 2). He commissioned a famous landscape architect of the period to create a garden with rectangular [parterres](http://vocab.getty.edu/page/aat/300184573) of various size which retraced in part the layout of the allées and [flower-beds](http://vocab.getty.edu/page/aat/300239937) of the ancient garden: “This garden, reconstructed by one of our cleverest landscape artists, with its display of classic bushes and flowers, its colonnade lining the four sides of the square, and its array of statues of eminent men, bankers, merchants, magistrates, harbour-masters, &c., has become the chief attraction to the visitors of Ostia…” The leading experts in garden architecture of the period included Nicodemo Severi and Giuseppe Roda: perhaps one of them was the “cleverest landscape artist.”
+In October 1912 Dante Vaglieri began the reconstruction of the garden at the center of the Piazzale delle Corporazioni (Fig. 4). He commissioned a famous landscape architect of the period to create a garden with rectangular [parterres](http://vocab.getty.edu/page/aat/300184573) of various size which retraced in part the layout of the allées and [flower-beds](http://vocab.getty.edu/page/aat/300239937) of the ancient garden: “This garden, reconstructed by one of our cleverest landscape artists, with its display of classic bushes and flowers, its colonnade lining the four sides of the square, and its array of statues of eminent men, bankers, merchants, magistrates, harbour-masters, &c., has become the chief attraction to the visitors of Ostia…” The leading experts in garden architecture of the period included Pier Andrea and Domenico Saccardi: perhaps one of them was the “cleverest landscape artist.”
 
 ### Figures
 
-{{< figure src="../images/ostia_fig6.jpg" alt="Plan of the Piazzale della Corporazioni" title="Fig. 1: Plan (from Lanciani 1881)." >}}
+{{< figure src="../images_b/ostia_piazzale_fig1.jpg" alt="Plan of the Piazzale della Corporazioni from Calza 1953" title="Figure 1: Plan of the Piazzale della Corporazioni (from Calza 1953)." >}}
 
-{{< figure src="../images/ostia_fig7.jpg" alt="Photo of the garden in 1912" title="Figure 2: The modern garden, 1912 (PA-OAnt, Photo Archive)." >}}
+{{< figure src="../images_b/ostia_piazzale_fig2.jpg" alt="Plan of the Piazzale della Corporazioni from Lanciani 1881" title="Figure 2: Plan of the Piazzale della Corporazioni (from Lanciani 1881)." >}}
 
-{{< figure src="../images_b/ostia_fig8b.jpg" alt="Plan of the Piazzale della Corporazioni" title="Figure 3: Sketch of the drainage system (from Giornale degli Scavi 1912)." >}}
+{{< figure src="../images_b/ostia_piazzale_fig3.jpg" alt="Sketch of the drainage system found below the Piazzale" title="Figure 3: Sketch of the drainage system found below the Piazzale (from Giornale degli Scavi 1912)." >}}
+
+{{< figure src="../images_b/ostia_piazzale_fig4.jpg" alt="Photo of the garden in 1912" title="Figure 4: The modern garden, 1912 (PA-OAnt, Photo Archive)." >}}
 
 ### Dates
 
@@ -117,10 +119,12 @@ Domitianic period
 * M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio," *Rivista di Archeologia* 43, 2019, pp. 165-176. [(worldcat)](http://www.worldcat.org/oclc/797910124) [(Rivista di Archeologia)](http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf)
 * M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](http://www.worldcat.org/oclc/1536690)
 <!-- Bibliography for Garden Description -->
-* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1912, pp. 279, 303, 338. [(worldcat)](http://www.worldcat.org/oclc/8340098)
-* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1913, pp. 10, 21, 331, 350. [(worldcat)](http://www.worldcat.org/oclc/8340098)
+* *Giornale degli Scavi*, 1912, pp. 279, 303, 338.
+* *Giornale degli Scavi*, 1913, pp. 10, 21, 331, 350.
 * R. Lanciani, "Ostia," in *Notizie degli scavi di antichità*, 1881, p. 119. [(worldcat)](http://www.worldcat.org/oclc/472500127)
 * R. Lanciani, *Notes from Rome*, (A.L. Cubberley ed.), London, 1988, pp. 434-435. [(worldcat)](http://www.worldcat.org/oclc/905765241)
+* M. De Vico Fallani, "I giardini ostiensi di Dante Vaglieri. Brevi osservazioni a margine," *Bollettino di Archeologia on line* V, 2014/2, pp. 55-64. [(worldcat)](http://www.worldcat.org/oclc/842430597) [(Bollettino di Archeologia online)](https://bollettinodiarcheologiaonline.beniculturali.it/wp-content/uploads/2018/12/8.-V_2014_2-De-Vico-Fallani-18.02.2015.pdf)
+* E.J. Shepherd, "Prima di Busiri Vici: storia di tre giardini ostiensi e di un parco mai realizzato," in M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](http://www.worldcat.org/oclc/1536690)
 
 #### Pleiades ID
 

@@ -21,7 +21,7 @@ tags:
 
 ## Location
 
-[Pompeii]({{<relref "..">}}) \
+[Pompeii]({{<relref "../../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 <!--### Location Description-->
 
@@ -30,10 +30,10 @@ tags:
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-[Region II]({{<relref ".">}})
+[Region II]({{<relref "../..">}})
 
 ## Insula
-[Insula II]({{<relref "#">}})
+[Insula II]({{<relref "..">}})
 
 ## House
 [House of Messius Ampliatus(II.ii.4))](https://pleiades.stoa.org/places/634179974)

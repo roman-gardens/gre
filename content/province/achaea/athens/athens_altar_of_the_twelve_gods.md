@@ -10,6 +10,11 @@ draft: false
 
 categories:
  - "Achaea"
+
+tags:
+ - "laurel"
+ - "olive trees (Olea europaea)"
+ - "sacred groves"
 ---
 
 ## Province

@@ -1,7 +1,7 @@
 ---
 title: "House of the Bucrania"
 date: 2021-02-08T19:00:00-08:00
-latlon: [ 41.754855, 12.287656 ]
+latlon: [ 41.752743867143124, 12.286672797879733 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Thomas Morard
@@ -11,12 +11,12 @@ draft: false
 
 ## Province
 
-[Italia]({{<relref "../..">}}) \
+[Italia]({{<relref "..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
 
-[Ostia]({{<relref "../..">}}) \
+[Ostia]({{<relref ".">}}) \
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
@@ -27,7 +27,7 @@ From the 2<sup>nd</sup> century BCE Ostia (and later [Portus](https://en.wikiped
 
 Ostia is especially well known in archaeological and historical studies for its building history. The earliest Ostian houses are only known from sporadic traces, beginning from the 2nd century BCE. They were [*domus*](http://vocab.getty.edu/page/aat/300005506) of traditional type, both in the simplest version, of direct Italic derivation, with rooms arranged round the atrium, and in the more complex Roman-Hellenistic form, in which the peristyle with the garden was added (e.g. the [House of the Bucrania]({{<relref "./house_of_the_bucrania.md/">}})). They were single-family houses, generally single storied, or with an upper story limited to the height of the atrium.  
 
-The transition to a different type of house was marked by the so-called peristyle house, such as the [House on the Via del Tempio Rotundo]({{<relref "./house_on_via_del_tempio_rotundo.md/">}}), which dates to the [Augustan period](https://en.wikipedia.org/wiki/Augustus), the one found below the [Schola of Trajan]({{<relref "./schola_of_trajan.md/">}}) (built 20-40 CE) and the [House of the Thunderbolt]({{<relref "./house_of_the_thunderbolt.md/">}}), datable to the [Vespasianic period](https://en.wikipedia.org/wiki/Vespasian) (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the [House of Fortuna Annonaria]({{<relref "./house_of_the_fortuna_annonaria.md/">}}), with its garden (140-190 CE).
+The transition to a different type of house was marked by the so-called peristyle house, such as the [House on the Via del Tempio Rotondo]({{<relref "./house_on_via_del_tempio_rotondo.md/">}}), which dates to the [Augustan period](https://en.wikipedia.org/wiki/Augustus), the one found below the [Schola of Trajan]({{<relref "./schola_of_trajan.md/">}}) (built 20-40 CE) and the [House of the Thunderbolt]({{<relref "./house_of_the_thunderbolt.md/">}}), datable to the [Vespasianic period](https://en.wikipedia.org/wiki/Vespasian) (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the [House of Fortuna Annonaria]({{<relref "./house_of_the_fortuna_annonaria.md/">}}), with its garden (140-190 CE).
 
 Ostia was heavily reconstructed in the 2<sup>nd</sup> century CE, under the pressure of the growth in population due to the completion of its ports. The new city followed new canons of utilitarian, high-density building, based on the multi-storied [*insula*](https://en.wikipedia.org/wiki/Insula_(building)), which aimed at the efficient use of the little space available. A room with windows on the façade became a kind of atrium-room. The plan became enriched with smaller rooms and internal staircases that ascended to the private apartments of the upper floor. Independent stairways entered from the street provided access to the apartments on the second and upper floors. The most accomplished examples of this type of building date to the [Hadrianic period](https://en.wikipedia.org/wiki/Hadrian), for example in some *insulae* that compose the so-called Garden Houses. In another type of insula the main source of light is not the street, but an inner arcaded courtyard.
 

@@ -1,7 +1,7 @@
 ---
 title: "Garden Houses (Case a Giardino)"
 date: 2021-02-08T19:00:00-08:00
-latlon: [ 41.754855, 12.287656 ]
+latlon: [ 41.751911781895046, 12.28455095873102 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Paola Olivanti
@@ -15,12 +15,12 @@ tags:
 
 ## Province
 
-[Italia]({{<relref "../..">}}) \
+[Italia]({{<relref "..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
 
-[Ostia]({{<relref "../..">}}) \
+[Ostia]({{<relref ".">}}) \
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
@@ -31,7 +31,7 @@ From the 2<sup>nd</sup> century BCE Ostia (and later [Portus](https://en.wikiped
 
 Ostia is especially well known in archaeological and historical studies for its building history. The earliest Ostian houses are only known from sporadic traces, beginning from the 2nd century BCE. They were [*domus*](http://vocab.getty.edu/page/aat/300005506) of traditional type, both in the simplest version, of direct Italic derivation, with rooms arranged round the atrium, and in the more complex Roman-Hellenistic form, in which the peristyle with the garden was added (e.g. the [House of the Bucrania]({{<relref "./house_of_the_bucrania.md/">}})). They were single-family houses, generally single storied, or with an upper story limited to the height of the atrium.  
 
-The transition to a different type of house was marked by the so-called peristyle house, such as the [House on the Via del Tempio Rotundo]({{<relref "./house_on_via_del_tempio_rotundo.md/">}}), which dates to the [Augustan period](https://en.wikipedia.org/wiki/Augustus), the one found below the [Schola of Trajan]({{<relref "./schola_of_trajan.md/">}}) (built 20-40 CE) and the [House of the Thunderbolt]({{<relref "./house_of_the_thunderbolt.md/">}}), datable to the [Vespasianic period](https://en.wikipedia.org/wiki/Vespasian) (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the [House of Fortuna Annonaria]({{<relref "./house_of_the_fortuna_annonaria.md/">}}), with its garden (140-190 CE).
+The transition to a different type of house was marked by the so-called peristyle house, such as the [House on the Via del Tempio Rotondo]({{<relref "./house_on_via_del_tempio_rotondo.md/">}}), which dates to the [Augustan period](https://en.wikipedia.org/wiki/Augustus), the one found below the [Schola of Trajan]({{<relref "./schola_of_trajan.md/">}}) (built 20-40 CE) and the [House of the Thunderbolt]({{<relref "./house_of_the_thunderbolt.md/">}}), datable to the [Vespasianic period](https://en.wikipedia.org/wiki/Vespasian) (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the [House of Fortuna Annonaria]({{<relref "./house_of_the_fortuna_annonaria.md/">}}), with its garden (140-190 CE).
 
 Ostia was heavily reconstructed in the 2<sup>nd</sup> century CE, under the pressure of the growth in population due to the completion of its ports. The new city followed new canons of utilitarian, high-density building, based on the multi-storied [*insula*](https://en.wikipedia.org/wiki/Insula_(building)), which aimed at the efficient use of the little space available. A room with windows on the façade became a kind of atrium-room. The plan became enriched with smaller rooms and internal staircases that ascended to the private apartments of the upper floor. Independent stairways entered from the street provided access to the apartments on the second and upper floors. The most accomplished examples of this type of building date to the [Hadrianic period](https://en.wikipedia.org/wiki/Hadrian), for example in some *insulae* that compose the so-called Garden Houses. In another type of insula the main source of light is not the street, but an inner arcaded courtyard.
 
@@ -51,7 +51,8 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-Garden Houses (Case a Giardino)
+Garden Houses (Case a Giardino) \
+[Garden Houses (Pleiades)](https://pleiades.stoa.org/places/223974298)
 
 ### Keywords
 
@@ -62,7 +63,7 @@ Garden Houses (Case a Giardino)
 
 ### Garden Description
 
-The area in which these houses are situated was laid out as a residential area in *c*.128 CE as part of the [Hadrianic](https://en.wikipedia.org/wiki/Hadrian) remodeling of Ostia (Fig. 1). It is delimited by buildings of various depths, due to the irregularity of the available space. The central area is occupied by two blocks each comprising four houses, surrounded, according to the excavators, by a garden furnished with six [fountains](http://vocab.getty.edu/page/aat/300006179) (a) (three on the west and three on the east side; they each measure 2.93x3.55 m. and have a maximum preserved height of 75 cm.) (Figs. 2, 3). The fountains had more than a purely decorative function. They seem rather to be the classic type of canopied fountain. Each was equipped with a water spout and probably with an opening for drawing water. The fountains were surrounded on three sides by a travertine border, in which a little channel for the discharge of excess water was hewn. Two rounded grooves in the channel, in front of each spout, have been interpreted as supports for vessels to rest in as they were filled with water. On the fourth side, which has no border, is an outlet for the discharge of water, which flowed into the main drain leading outside the complex.
+The area in which these houses are situated was laid out as a residential area in *c*. 128 CE as part of the [Hadrianic](https://en.wikipedia.org/wiki/Hadrian) remodeling of Ostia (Fig. 1). It is delimited by buildings of various depths, due to the irregularity of the available space. The central area is occupied by two blocks each comprising four houses, surrounded, according to the excavators, by a garden furnished with six [fountains](http://vocab.getty.edu/page/aat/300006179) (a) (three on the west and three on the east side; they each measure 2.93x3.55 m. and have a maximum preserved height of 75 cm.) (Figs. 2, 3). The fountains had more than a purely decorative function. They seem rather to be the classic type of canopied fountain. Each was equipped with a water spout and probably with an opening for drawing water. The fountains were surrounded on three sides by a travertine border, in which a little channel for the discharge of excess water was hewn. Two rounded grooves in the channel, in front of each spout, have been interpreted as supports for vessels to rest in as they were filled with water. On the fourth side, which has no border, is an outlet for the discharge of water, which flowed into the main drain leading outside the complex.
 
 A fourth fountain (b) was added on the eastern side, in the early years of the 3rd century CE. Its floor was embellished with a mosaic representing [Nilotic](https://en.wikipedia.org/wiki/Nile) scenes (3.30x2.96 m) (Fig. 4); it has been suggested that it was roofed with a pergola supported by small columns. This fountain was essentially ornamental. It would have provided *jeux d’eau* and was perhaps combined with small flower-beds or garden sculptures in the area surrounded by the mosaic border.
 
@@ -70,7 +71,7 @@ A sculptural group with a fishing scene, which could be interpreted as a fountai
 
 ### Figures
 
-{{< figure src="../images/ostia_fig10_better_colored.jpg" alt="Plan of the Garden Houses" title="Figure 1: Plan of Case a Giardino (after Civiltà dell' acqua)." >}}
+{{< figure src="../images/ostia_fig10_better_colored.jpg" alt="Plan of the Garden Houses" title="Figure 1: Plan (after Ricciardi, Scrinari 1996)." >}}
 
 {{< figure src="../images/ostia_fig11.jpg" alt="Plan of the Garden Houses" title="Figure 2: Fountain (PA-OAnt, Photo Archive)." >}}
 
@@ -100,15 +101,13 @@ unspecified
 * M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio," *Rivista di Archeologia* 43, 2019, pp. 165-176. [(worldcat)](http://www.worldcat.org/oclc/797910124) [(Rivista di Archeologia)](http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf)
 * M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](http://www.worldcat.org/oclc/1536690)
 <!-- Bibliography for Garden Description -->
-* *Giornale degli Scavi (Notizie degli scavi di antichità)*, 1941, pp. 34-38. [(worldcat)](http://www.worldcat.org/oclc/8340098)
+* *Giornale degli Scavi*, 1941, pp. 34-38.
 * Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, pp. 121-123. [(worldcat)](http://www.worldcat.org/oclc/797420782)
-* *Civiltà dell'acqua* 2, pp. 114-117. [(worldcat)](http://www.worldcat.org/oclc/312718716)
-
+* M.A. Ricciardi, V. Santa Maria Scrinari, *La Civiltà dell’acqua in Ostia Antica* 2, Rome, 1996, pp. 114-117. [(worldcat)](http://www.worldcat.org/oclc/801186023)
 
 #### Pleiades ID
 
-[422995](https://pleiades.stoa.org/places/422995)
-<!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
+[223974298](https://pleiades.stoa.org/places/223974298)
 
 #### TGN ID
 

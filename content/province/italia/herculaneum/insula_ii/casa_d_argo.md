@@ -24,7 +24,7 @@ categories:
 
 ## Location
 
-[Herculaneum]({{<relref "../../..">}}) \
+[Herculaneum]({{<relref "..">}}) \
 [Herculaneum (Pleiades)](https://pleiades.stoa.org/places/432873)
 
 ### Location Description

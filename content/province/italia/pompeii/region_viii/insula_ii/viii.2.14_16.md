@@ -14,17 +14,17 @@ categories:
   - "Italia"
 tags:
   - "peristyle"
-  - "portico"
-  - "amphoras"
-  - "tondo"
+  - "porticoes"
+  - "amphorae (storage vessels)"
+  - "tondi"
 ---
 
 ## Province
-[Italia]({{<relref "../../../..">}}) \
+[Italia]({{<relref "../../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
-[Pompeii]({{<relref "../../..">}}) \
+[Pompeii]({{<relref "../..">}}) \
 [Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
 
@@ -32,16 +32,16 @@ tags:
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
-[Region VIII]({{<relref "../..">}})
+[Region VIII]({{<relref "..">}})
 
 ## Insula
-[Insula II]({{<relref "..">}})
+[Insula II]({{<relref ".">}})
 
 ### Keywords
- - [peristyle](http://vocab.getty.edu/page/aat/300080971)
- - [portico](http://vocab.getty.edu/page/aat/300004145)
- - [amphoras](http://vocab.getty.edu/page/aat/300148696)
- - [tondo](http://vocab.getty.edu/page/aat/300033622)
+ - [[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+ - [[porticoes](http://vocab.getty.edu/page/aat/300004145)
+ - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
+ - [tondi](http://vocab.getty.edu/page/aat/300033622)
 
 ### Garden Description
 A. The volcanic ledge that this peristyle garden (a) was built on dictated an irregular shape to the portico that enclosed it. The portico had fourteen columns and a rectangular pool in the south-east corner. The west wall of the pool had fourteen small amphoras (30 cm. long; mouth 9.5 cm. wide) arranged in a row of nine on the bottom with a row of eight above. The east wall of the pool had a single row of eight. These provided shelter and spawning places for fish. A possible garden ornament, a tondo (Mus. Naz. inv. no. 121 612), was found in the house. The traces of a garden painting were reported in room II on the lower level by Noack-Hartleben, consisting of a black dado with a yellow fence and foliage painted behind this.

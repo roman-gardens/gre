@@ -31,6 +31,8 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 [Thamugadi]({{<relref ".">}}) \
 [Thamugadi (Pleiades)](https://pleiades.stoa.org/places/334636)
 
+{{< figure src="../images/timgad_city_plan_house_of_the_planters.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
+
 ### Location Description
 
 Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.
@@ -90,6 +92,7 @@ House of the Planters (Maison aux jardinières)
 ### Bibliography
 *  Ballu, A., *Les ruines de Timgad (Antique Thamugadi)*, Paris, 1897, pp. 224-226, plan fig. 36. S. [(worldcat)](http://www.worldcat.org/oclc/1055093825)
 *  Boeswillwald, E., Cagnat, R., Ballu, A.,  *Timgad: une cité africaine sous l'Empire romain*, Paris, Leroux, 1905, pp. 88-92, Plan fig.40.[(worldcat)](http://www.worldcat.org/oclc/156040038)
+* Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](http://www.worldcat.org/oclc/23396951)
 *  Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 37. [(worldcat)](http://www.worldcat.org/oclc/643640586)
 
 <!--#### Periodo ID-->

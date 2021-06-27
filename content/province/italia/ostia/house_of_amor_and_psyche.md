@@ -1,7 +1,7 @@
 ---
 title: "House of Amor and Psyche"
 date: 2021-02-08T19:00:00-08:00
-latlon: [ 41.754855, 12.287656 ]
+latlon: [ 41.7540027, 12.2860096 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Elizabeth J. Shepherd
@@ -17,12 +17,12 @@ tags:
 
 ## Province
 
-[Italia]({{<relref "../..">}}) \
+[Italia]({{<relref "..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
 
 ## Location
 
-[Ostia]({{<relref "../..">}}) \
+[Ostia]({{<relref ".">}}) \
 [Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
@@ -33,7 +33,7 @@ From the 2<sup>nd</sup> century BCE Ostia (and later [Portus](https://en.wikiped
 
 Ostia is especially well known in archaeological and historical studies for its building history. The earliest Ostian houses are only known from sporadic traces, beginning from the 2nd century BCE. They were [*domus*](http://vocab.getty.edu/page/aat/300005506) of traditional type, both in the simplest version, of direct Italic derivation, with rooms arranged round the atrium, and in the more complex Roman-Hellenistic form, in which the peristyle with the garden was added (e.g. the [House of the Bucrania]({{<relref "./house_of_the_bucrania.md/">}})). They were single-family houses, generally single storied, or with an upper story limited to the height of the atrium.  
 
-The transition to a different type of house was marked by the so-called peristyle house, such as the [House on the Via del Tempio Rotundo]({{<relref "./house_on_via_del_tempio_rotundo.md/">}}), which dates to the [Augustan period](https://en.wikipedia.org/wiki/Augustus), the one found below the [Schola of Trajan]({{<relref "./schola_of_trajan.md/">}}) (built 20-40 CE) and the [House of the Thunderbolt]({{<relref "./house_of_the_thunderbolt.md/">}}), datable to the [Vespasianic period](https://en.wikipedia.org/wiki/Vespasian) (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the [House of Fortuna Annonaria]({{<relref "./house_of_the_fortuna_annonaria.md/">}}), with its garden (140-190 CE).
+The transition to a different type of house was marked by the so-called peristyle house, such as the [House on the Via del Tempio Rotondo]({{<relref "./house_on_via_del_tempio_rotondo.md/">}}), which dates to the [Augustan period](https://en.wikipedia.org/wiki/Augustus), the one found below the [Schola of Trajan]({{<relref "./schola_of_trajan.md/">}}) (built 20-40 CE) and the [House of the Thunderbolt]({{<relref "./house_of_the_thunderbolt.md/">}}), datable to the [Vespasianic period](https://en.wikipedia.org/wiki/Vespasian) (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the [House of Fortuna Annonaria]({{<relref "./house_of_the_fortuna_annonaria.md/">}}), with its garden (140-190 CE).
 
 Ostia was heavily reconstructed in the 2<sup>nd</sup> century CE, under the pressure of the growth in population due to the completion of its ports. The new city followed new canons of utilitarian, high-density building, based on the multi-storied [*insula*](https://en.wikipedia.org/wiki/Insula_(building)), which aimed at the efficient use of the little space available. A room with windows on the façade became a kind of atrium-room. The plan became enriched with smaller rooms and internal staircases that ascended to the private apartments of the upper floor. Independent stairways entered from the street provided access to the apartments on the second and upper floors. The most accomplished examples of this type of building date to the [Hadrianic period](https://en.wikipedia.org/wiki/Hadrian), for example in some *insulae* that compose the so-called Garden Houses. In another type of insula the main source of light is not the street, but an inner arcaded courtyard.
 
@@ -53,7 +53,8 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Garden
 
-House of Amor and Psyche
+House of Amor and Psyche \
+[House of Amor and Psyche (Pleiades)](https://pleiades.stoa.org/places/868515126)
 
 ### Keywords
 
@@ -73,7 +74,7 @@ House of Amor and Psyche
 
 The entrance of this house (Fig. 1) (which takes its name from the statuary group found in room b) provides access to a large [portico](http://vocab.getty.edu/page/aat/300004145) (a) with four columns on marble bases, resting on a continuous marble-paneled [balustrade](http://vocab.getty.edu/page/aat/300001989) 50 cm high. To the right of the portico was an area believed to be a garden ([*viridarium*](https://en.wiktionary.org/wiki/viridarium)) (c) terminating in a [nymphaeum](http://vocab.getty.edu/page/aat/300006809). This consisted of a podium 1.10 m. high, paneled in white marble. Hewn into its front side are five deep circular niches. Four are paneled in white marble; only the central niche is panelled in green [cipollino marble](https://en.wikipedia.org/wiki/Cipollino_marble). The architectural elevation of the nymphaeum rises from this podium (Fig. 2). Over four meters high, it consists of two rectangular alternating with three semicircular niches, framed by six marble columns with [Corinthian](https://en.wikipedia.org/wiki/Corinthian_order) capitals and rectangular travertine [plinths](http://vocab.getty.edu/page/aat/300001749), from which little brick arches project. Five marble stepped gradients were placed between the bases of the columns. They formed miniature cascades: the water piped in by the lead conduit that ran along the bases of the niches flowed down over them. The water filled small rectangular basins and, flowing through [terracotta](http://vocab.getty.edu/page/aat/300010669) channels inside the podium, spouted from four outlets placed between the niches. The whole of the podium together with the stepped cascades was paneled in white marble and green *cipollino*; the upper part, by contrast, was stuccoed and adorned with a [polychrome](http://vocab.getty.edu/page/aat/300252261) [wall mosaic](http://vocab.getty.edu/page/aat/300015342). A tile-covered drain ran through the entire length of the podium.
 
-The [*viridarium*](https://en.wiktionary.org/wiki/viridarium) is the main source of light for all the rooms that face on it, including the large reception room (d) (Fig. 3). The house is a typical example of an Ostian patrician house of the early 4th century AD.
+The [*viridarium*](https://en.wiktionary.org/wiki/viridarium) is the main source of light for all the rooms that face on it, including the large reception room (d) (Fig. 3). The house is a typical example of an Ostian patrician house of the early 4th century CE.
 
 ### Figures
 
@@ -105,15 +106,14 @@ unspecified
 * M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](http://www.worldcat.org/oclc/1536690)
 <!-- Bibliography for Garden Description -->
 * Giovanni Becatti, *Case ostiensi del tardo impero*, pp. 6-8. [(worldcat)](http://www.worldcat.org/oclc/899106405)
-* J. Packer, *American Journal of Archaeology* 71 (1967), pp 125-126. [(worldcat)](http://www.worldcat.org/oclc/1076135742)
+* James E. Packer, "The Domus of Cupid and Psyche in Ancient Ostia" in *American Journal of Archaeology*, Vol. 71, No. 2 (1967), pp. 125-126. [(worldcat)](http://www.worldcat.org/oclc/220836766) [(jstor)](https://www.jstor.org/stable/501994)
 * Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, 1996, p. 123. [(worldcat)](http://www.worldcat.org/oclc/797420782)
 * Giovanni Becatti, *Mosaici e pavimenti marmorei*, Scavi di Ostia IV, Rome, 1961. [(worldcat)](https://www.worldcat.org/title/scavi-di-ostia-iv-mosaici-e-pavimenti-marmorei/oclc/630825752&referer=brief_results)
 * E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 93-97. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
 
 #### Pleiades ID
 
-[422995](https://pleiades.stoa.org/places/422995)
-<!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
+[868515126](https://pleiades.stoa.org/places/868515126)
 
 #### TGN ID
 
