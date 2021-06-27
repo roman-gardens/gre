@@ -75,7 +75,7 @@ RELATED PHASES ON THE PALATINE:
 <!-- -->
 <!-- -->
 ### Figures
-{{< figure src="../images/domus_tiberiana_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
+{{< figure src="../images/domus_flavia_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
 <!-- -->
 {{< figure src="../images/domus_flavia_fig2.jpg" alt="View of the Domus Flavia peristyle" title="Fig. 2. View of the Domus Flavia peristyle. Photograph of the Soprintendenza Archeologica di Roma." >}}
 <!-- -->
