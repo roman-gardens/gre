@@ -6,7 +6,7 @@ latlon: [ 41.889306, 12.487109 ]
 province_id: ITALIA
 author: M.-A. Tomei
 editor: Rhiannon Paré
-draft: true
+draft: false
 ---
 
 ## Province

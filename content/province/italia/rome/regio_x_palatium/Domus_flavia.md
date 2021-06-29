@@ -6,7 +6,7 @@ latlon: [ 41.889306, 12.487109 ]
 province_id: PROVINCE_ID
 author: M.-A. Tomei
 editor: Rhiannon Paré
-draft: true
+draft: false
 ---
 
 ## Province
@@ -100,4 +100,4 @@ M.-A. Tomei
 
 ## Publication date
 
-4 May 2021
+29 June 2021
