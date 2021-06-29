@@ -49,13 +49,13 @@ In the Republican period, by the 1st century BCE, the [Palatine Hill](https://en
 <!-- -->
 RELATED PHASES ON THE PALATINE:
 <!-- -->
-[Garden of the House of Augustus (B)]({{<relref"/house_of_augustus.md">}})\
-[Garden of the Domus Tiberiana (C)]({{<relref"/Domus_tiberiana.md">}})\
-[Garden of the Neronian Palace (D)]({{<relref"/palace_of_nero.md">}})\
-[Garden of the Domus Flavia (E)]({{<relref"/Domus_flavia.md">}})\
-[Garden of the Domus Augustana (F,G)]({{<relref"/domus_augustana.md">}})\
-[Garden of the Palatine Stadium (H)]({{<relref"/palatine_stadium.md">}})\
-[Garden of the Severan Complex (I)]({{<relref"/severan_complex.md">}})
+[Garden of the House of Augustus (B)]({{<relref"house_of_augustus">}})\
+[Garden of the Domus Tiberiana (C)]({{<relref"Domus_tiberiana">}})\
+[Garden of the Neronian Palace (D)]({{<relref"domus_transitoria.md">}})\
+[Garden of the Domus Flavia (E)]({{<relref"Domus_flavia">}})\
+[Garden of the Domus Augustana (F,G)]({{<relref"domus_augustana">}})\
+[Garden of the Palatine Stadium (H)]({{<relref"palatine_stadium">}})\
+[Garden of the Severan Complex (I)]({{<relref"severan_complex">}})
 <!-- -->
 <!-- -->
 ### Dates
