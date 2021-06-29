@@ -71,7 +71,7 @@ RELATED PHASES ON THE PALATINE:
 <!-- -->
 [Gardens of the Republican Domus (A)]({{<relref "palatine_domus">}})\
 [Garden of the Domus Tiberiana (C)]({{<relref "Domus_tiberiana">}})\
-[Garden of the Neronian Palace (D)]({{<relref "domus_transitoria.md">}})\
+[Garden of the Neronian Palace (D)]({{<relref "domus_transitoria">}})\
 [Garden of the Domus Flavia (E)]({{<relref "Domus_flavia">}})\
 [Garden of the Domus Augustana (F,G)]({{<relref "domus_augustana">}})\
 [Garden of the Palatine Stadium (H)]({{<relref "palatine_stadium">}})\

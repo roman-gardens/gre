@@ -68,7 +68,7 @@ In the upper peristyle garden in the middle of a large rectangular [pool](http:/
  [Gardens of the Republican Domus (A)]({{<relref"/palatine_domus">}})\
  [Garden of the House of Augustus (B)]({{<relref"/house_of_augustus">}})\
  [Garden of the Domus Tiberiana (C)]({{<relref"/Domus_tiberiana">}})\
- [Garden of the Neronian Palace (D)]({{<relref"/domus_transitoria.md">}})\
+ [Garden of the Neronian Palace (D)]({{<relref"/domus_transitoria">}})\
  [Garden of the Domus Flavia (E)]({{<relref"/Domus_flavia">}})\
  [Garden of the Palatine Stadium (H)]({{<relref"/palatine_stadium">}})\
  [Garden of the Severan Complex (I)]({{<relref"/severan_complex">}})
