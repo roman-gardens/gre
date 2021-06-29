@@ -6,7 +6,7 @@ latlon: [ 41.900013, 12.461381 ]
 province_id: PROVINCE_ID
 author: M.-A. Tomei
 editor: Rhiannon Paré
-draft: true
+draft: false
 ---
 
 ## Province
@@ -64,13 +64,13 @@ Structures known erroneously as “Livia’s Baths,” still partially preserved
 <!-- -->
 RELATED PHASES ON THE PALATINE:
 <!-- -->
-[Gardens of the Republican Domus (A)]({{<relref "palatine_domus.md">}})\
-[Garden of the House of Augustus (B)]({{<relref "house_of_augustus.md">}})\
-[Garden of the Domus Tiberiana (C)]({{<relref "Domus_tiberiana.md">}})\
-[Garden of the Domus Flavia (E)]({{<relref "Domus_flavia.md">}})\
-[Garden of the Domus Augustana (F,G)]({{<relref "domus_augustana.md">}})\
-[Garden of the Palatine Stadium (H)]({{<relref "palatine_stadium.md">}})\
-[Garden of the Severan Complex (I)]({{<relref "severan_complex.md">}})
+[Gardens of the Republican Domus (A)]({{<relref "palatine_domus">}})\
+[Garden of the House of Augustus (B)]({{<relref "house_of_augustus">}})\
+[Garden of the Domus Tiberiana (C)]({{<relref "Domus_tiberiana">}})\
+[Garden of the Domus Flavia (E)]({{<relref "Domus_flavia">}})\
+[Garden of the Domus Augustana (F,G)]({{<relref "domus_augustana">}})\
+[Garden of the Palatine Stadium (H)]({{<relref "palatine_stadium">}})\
+[Garden of the Severan Complex (I)]({{<relref "severan_complex">}})
 <!-- -->
 <!-- -->
 ### Figures
