@@ -21,18 +21,18 @@ tags:
 
 ## Province
 
-[Italia]({{<relref"..">}}) \
+[Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
 [Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
 <!-- -->
 ## Location
 
-[Rome]({{<relref".">}}) \
+[Rome]({{<relref "..">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
 <!-- -->
 ## Sublocation
 
-Rome, Region III \
+[Region III Isis et Serapis]({{<relref ".">}}) \
 Oppian Hill \
 Palantine Hill, [Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208) \
 Velian Hill, [Mons Velia (Pleiades)](https://pleiades.stoa.org/places/157710058) \
