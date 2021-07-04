@@ -90,8 +90,8 @@ RELATED PHASES ON THE PALATINE:
 <!-- -->
 ### Bibliography
 
-* H. Manderscheid, "Was nach den 'ruchlosen Räubereien' übriglieb-zu Gestalt und Funktion der sogenannten Bagni di Livia in der Domus Transitoria," in A. Hoffmann, U. Wulf (eds.), *Die Kaiserpaläste auf dem Palatin in Rom. Das Zentrum der römischen Welt und seine Bauten*, Mainz: Zabern, 2006, p. 75-85. [worldcat](http://www.worldcat.org/oclc/769179906)
-* M.A. Tomei, "Nerone sul Palatino", in M.A. Tomei, R. Rea (eds.), *Nerone: Catalogo della mostra*, Milano: Electa, 2011, p. 118-135. [worldcat](http://www.worldcat.org/oclc/1051659054)
+* H. Manderscheid, "Was nach den 'ruchlosen Räubereien' übriglieb-zu Gestalt und Funktion der sogenannten Bagni di Livia in der Domus Transitoria," in A. Hoffmann, U. Wulf (eds.), *Die Kaiserpaläste auf dem Palatin in Rom. Das Zentrum der römischen Welt und seine Bauten*, Mainz: Zabern, 2006, p. 75-85. [(worldcat)](http://www.worldcat.org/oclc/769179906)
+* M.A. Tomei, "Nerone sul Palatino", in M.A. Tomei, R. Rea (eds.), *Nerone: Catalogo della mostra*, Milano: Electa, 2011, p. 118-135. [(worldcat)](http://www.worldcat.org/oclc/1051659054)
 <!-- -->
 #### Pleiades ID
 
