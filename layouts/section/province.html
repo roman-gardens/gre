@@ -29,6 +29,11 @@
   <!-- get the current place name -->
   {{ $thisplace = delimit (last 1 (split (path.Dir .Path) "/") ) "" }}
   {{ $thisplace = replaceRE "_" " " $thisplace | title }}
+  <!-- fix roman numeral caps -->
+  {{ with findRE "([IVX][ivx]+)" $thisplace 1 }}
+    {{ $roman := delimit . "" }}
+    {{ $thisplace = replaceRE $roman ($roman | upper ) $thisplace }}
+  {{ end }}
   {{ if eq $thisplace "Province" }}
     Provinces:
   {{ else }}
