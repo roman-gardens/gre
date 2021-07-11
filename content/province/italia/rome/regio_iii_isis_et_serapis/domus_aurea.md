@@ -84,7 +84,7 @@ The unfinished Temple to the Divine Claudius became a monumental [*nymphaeum*](h
 <!-- -->
 ### Figures
 <!-- -->
-{{< figure src="../images/domus_aurea_fig1.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" title="Figure 1. Conjectural plan of the Domus Aurea (J.B. Ward-Perkins, 1981, p. 60)." >}}
+{{< figure src="../images/domus_aurea_fig1.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" title="Figure 1. Plan of the Domus Aurea and surrounding areas (LTUR, Vol. 2, p. 397)." >}}
 
 <!--{{< figure src="../images/.jpg" alt="Gardens of the Oppian palace" title="Figure 2. Gardens of the Oppian palace (image source)." >}}-->
 
