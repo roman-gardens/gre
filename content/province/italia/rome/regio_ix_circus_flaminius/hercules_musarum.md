@@ -1,4 +1,6 @@
 ---
+gre_id: "007c015ec1"
+aliases: [/id/007c015ec1]
 article-type: "province"
 title: "Hercules Musarum"
 date: 2021-04-04T10:00:00-07:00
@@ -88,7 +90,7 @@ Built between 187 and 179 BCE; restoration and portico constructed in Late Repub
 <!-- -->
 ### Bibliography
 <!-- -->
-* L. Richardson, “Hercules Musarum and the Porticus Philippi in Rome,” *American Journal of Archaeology* 81 (1977), pp. 355–61. [(worldcat)](http://www.worldcat.org/oclc/915926883) [(JSTOR)](https://www.jstor.org/stable/pdf/503009.pdf?refreqid=excelsior%3A377e0064774644b9c5f76bb7eaee514f)
+* L. Richardson, “Hercules Musarum and the Porticus Philippi in Rome,” *American Journal of Archaeology* 81 (1977), pp. 355–61. [(worldcat)](http://www.worldcat.org/oclc/915926883) | [(JSTOR)](https://www.jstor.org/stable/503009)
 * F. Castagnoli, “Porticus Philippi,” *Analecta Romana Instituti Danici* suppl. 10 (1983), pp. 93–104. [(worldcat)](http://www.worldcat.org/oclc/1708903)
 * F. Coarelli, *Il Campo Marzio*, 1997, pp. 452–84. [(worldcat)](http://www.worldcat.org/oclc/906743621)
 * A. Viscogliosi, s.v. “Porticus Philippi,” *Lexicon topographicum urbis Romae* IV, pp. 146–48. [(worldcat)](http://www.worldcat.org/oclc/772398569)

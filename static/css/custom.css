@@ -106,6 +106,17 @@ article.list__item {
   color: #000;
 }
 
+.subdivisions {
+  margin: 1em 0;
+  padding: 1em;
+  background: #eee;
+  border: 1px solid #ccc;
+}
+
+.permalink {
+  margin: 0.5em 0;
+}
+
 .draft {
   background: #fff2e7;
 }

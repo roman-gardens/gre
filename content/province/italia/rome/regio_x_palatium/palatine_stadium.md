@@ -1,4 +1,6 @@
 ---
+gre_id: "1d89c56774"
+aliases: [/id/1d89c56774]
 article-type: "province"
 title: "The Palatine 'Stadium'"
 date: 2021-04-08T02:47:06+02:00
@@ -97,7 +99,7 @@ unspecified
 
 * M.A. Tomei, Nota sui giardini antichi del Palatino, *Mélanges de l’École Française de Rome (MEFRA)*, 104, 1992, 2, pp. 917-951. [(worldcat)](http://www.worldcat.org/oclc/972029282)
 * M.A. Tomei,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001: 73-75 (with additional bibliography). [(worldcat)](http://www.worldcat.org/oclc/5894435382)
-* A. Hoffmann & U. Wulf, "Bade oder Villenluxus? Zur Neuinterpretation del 'Domus Severiana,'” in Hoffman, Wulf & Angermeyer, *Die Kaiserpaläste auf dem Palatin in Rom*, Mainz am Rhein, 2004: 153-185. [worldcat](http://www.worldcat.org/oclc/180145631)
+* A. Hoffmann & U. Wulf, "Bade oder Villenluxus? Zur Neuinterpretation del 'Domus Severiana,'” in Hoffman, Wulf & Angermeyer, *Die Kaiserpaläste auf dem Palatin in Rom*, Mainz am Rhein, 2004: 153-185. [(worldcat)](http://www.worldcat.org/oclc/180145631)
 <!-- -->
 #### Pleiades ID
 
