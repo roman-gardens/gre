@@ -1,3 +1,4 @@
+// custom code for displaying garden search results from Lunr
 function displayResults (results, store) {
   const searchResultsSummary = document.getElementById('search-results-summary')
   const searchResultsList = document.getElementById('search-results-list')
