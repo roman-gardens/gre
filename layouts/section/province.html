@@ -1,4 +1,5 @@
 {{- define "main" -}}
+<!-- Display list of gardens under the current location -->
 <main class="main list" role="main">
   {{- partial "breadcrumbs.html" . -}}
   {{- $path := print (path.Dir .Path) -}}
