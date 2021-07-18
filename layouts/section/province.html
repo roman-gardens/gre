@@ -1,72 +1,86 @@
-{{ define "main" }}
+{{- define "main" -}}
+<!-- Display list of gardens under the current location -->
 <main class="main list" role="main">
-  {{ $path := print (path.Dir .Path) }}
-  {{ $dirs := split (replaceRE "^province." "" $path) "/" }}
-  {{ $len := len $dirs }}
-
-  <!-- display path hierarchy, with each level linked -->
-  <header class="main__header">
-    <h1 class="main__title">
-      {{ range $i, $dir := $dirs }}
-        {{ if ne 0 $i }} - {{ end }}
-        {{ $place := replaceRE "_" " " $dir | title }}
-        {{ if in $place "Region " }}
-          {{ $place = replaceRE "REGION" "Region" ($place | upper) }}
-        {{ end }}
-        {{ if in $place "Insula " }}
-          {{ $place = replaceRE "insula" "Insula" ($place | lower) }}
-        {{ end }}
-        {{ $link := strings.Repeat (sub (sub $len 1) $i) "../" }}
-        {{ if $link }}
-          <a class="nav" href="{{ $link }}">{{ $place }}</a>
-        {{ else }}
-          {{ $place }}
-        {{ end }}
-      {{ end }}
-    </h1>
-  </header>
+  {{- partial "breadcrumbs.html" . -}}
+  {{- $path := print (path.Dir .Path) -}}
 
   <!-- iterate through all published pages in this province
        to find unique subdirectories
   -->
-  {{ $dirs := slice }}
-  {{ range .RegularPagesRecursive }}
-    {{ $d := strings.TrimPrefix (print $path "/") (path.Dir .Dir) }}
+  {{- $dirs := slice -}}
+  {{- range .RegularPagesRecursive -}}
+    {{- $d := strings.TrimPrefix (print $path "/") (path.Dir .Dir) -}}
     <!-- only keep first level subdirectories -->
-    {{ $d = replaceRE "/.*" "" $d }}
+    {{- $d = replaceRE "/.*" "" $d -}}
+    <!-- force roman rumerals to sort better -->
+    {{- if gt (len (findRE "(regio|insula).*x" $d) ) 0 -}}
+      {{- $d = print "xxx" $d -}}
+    {{- end -}}
     <!-- don't keep articles in the current directory -->
-    {{ if and (not (in $dirs $d)) (not (eq $path $d)) }}
-      {{ if ne $d "province" }}
-        {{ $dirs = $dirs | append $d }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
-
-  <!-- display any subdirectories -->
-  {{ if len $dirs }}
-  <div class='subdivisions'>
-    <b>Subdivisions:</b>
-    {{ range $i, $v := sort $dirs -}}
-      {{- if $i -}}, {{ end -}}
-      {{ with strings.TrimPrefix $path . }}
-      {{ $text := replaceRE "_" " " . | title }}
-      {{ if in $text "Region " }}
-        {{ $text = replaceRE "REGION" "Region" ($text | upper) }}
-      {{ end }}
-      {{ if in $text "Insula " }}
-        {{ $text = replaceRE "insula" "Insula" ($text | lower) }}
-      {{ end }}
-      <a href="{{ . | lower }}/">{{ $text }}</a>
+    {{- if and (not (in $dirs $d)) (not (eq $path $d)) -}}
+      {{- if ne $d "province" -}}
+        {{- $dirs = $dirs | append $d -}}
       {{- end -}}
-    {{ end }}
-  </div>
-  {{ end }}
+    {{- end -}}
+  {{- end -}}
+
+  <!-- get the current place name -->
+  {{- $thisplace := "" -}}
+  {{- $thisplace = delimit (last 1 (split (path.Dir .Path) "/") ) "" -}}
+  {{- $thisplace = replaceRE "_" " " $thisplace | title -}}
+  <!-- fix roman numeral caps -->
+  {{- with findRE "([IVX][ivx]+)" $thisplace 1 -}}
+    {{- $roman := delimit . "" -}}
+    {{- $thisplace = replaceRE $roman ($roman | upper ) $thisplace -}}
+  {{- end -}}
+
+  <!-- Display any sublocations -->
+  {{- if len $dirs -}}
+    {{- if eq $thisplace "Province" }}
+      Provinces:
+    {{- else }}
+      Sublocations of {{ $thisplace }}:
+    {{ end -}}
+    <ul class='sublocations'>
+      {{ range $i, $v := sort $dirs -}}
+        {{- with strings.TrimPrefix $path . -}}
+          <!-- repair roman numerals containing x -->
+          {{- $link := replaceRE "xxx" "" . -}}
+          <!-- convert URL path to title case with spaces -->
+          {{- $place := replaceRE "_" " " $link | title -}}
+
+          <!-- fix roman numeral caps -->
+          {{- with findRE "([IVX][ivx]+)" $place 1 -}}
+            {{- $roman := delimit . "" -}}
+            {{- $place = replaceRE $roman ($roman | upper ) $place -}}
+          {{- end }}
+          <li><a href="{{- $link | lower -}}/">{{- $place -}}</a></li>
+        {{ end -}}
+      {{- end }}
+    </ul>
+  {{ end -}}
 
   {{- if .Sections -}}
-    {{- range sort .RegularPagesRecursive ".Params.Title" }}
-      {{- .Render "summary" }}
+    <!-- get list all garden pages under this location -->
+    {{- $pages := slice -}}
+    {{- range sort .RegularPagesRecursive ".Params.Title" -}}
+      {{- if ne ( path.Base .Path ) "index.md" -}}
+        {{- $pages = $pages | append . -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $count := len $pages -}}
+    <div class='count'>
+      {{- $count }} garden{{ if ne $count 1 }}s{{ end }}
+      {{- if ne $thisplace "Province" }}
+        in {{ $thisplace }}
+      {{ end -}}
+      {{- if ne $count 1 }} have {{ else }} has {{ end }}
+      been published:
+    </div>
+    {{- range $pages -}}
+      {{- .Render "summary" -}}
     {{- end -}}
   {{- end -}}
 </main>
-{{ partial "pagination.html" . }}
-{{ end }}
+{{- partial "pagination.html" . -}}
+{{- end -}}

@@ -1,0 +1,30 @@
+<!-- Display the navigational breadcrumbs at the top of each
+  garden and section webpage -->
+{{ $path := print (path.Dir .Path) }}
+{{ $dirs := split $path "/" }}
+{{ $levels := len $dirs }}
+<!-- adjust $levels for section pages (_index.md) -->
+{{ if eq .Kind "section" }}
+  {{ $levels = sub $levels 1 }}
+{{ end }}
+{{ $place := "" }}
+
+<!-- display path hierarchy, with each level linked -->
+<nav class="breadcrumbs">
+  {{- range $i, $dir := $dirs -}}
+    {{- if ne 0 $i }}
+      /
+    {{- end -}}
+    <!-- convert URL path to title case with spaces -->
+    {{- $place = replaceRE "_" " " $dir | title -}}
+    {{- $place = replaceRE "Province" "All Gardens" $place -}}
+
+    <!-- fix roman numeral caps -->
+    {{- with findRE "([IVX][ivx]+)" $place 1 -}}
+      {{- $roman := delimit . "" -}}
+      {{- $place = replaceRE $roman ($roman | upper ) $place -}}
+    {{- end -}}
+    {{- $link := strings.Repeat (sub $levels $i) "../" }}
+    <a href="{{ $link }}">{{ $place }}</a>
+  {{- end }}
+</nav>

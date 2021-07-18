@@ -8,6 +8,11 @@
 		</figure>
 		{{- end }}
 		<header class="list__header">
+		  <!-- breadcrumbs -->
+		  <div class='smallcrumbs'>
+			  {{ $crumbs := replaceRE "_" " " (path.Dir .Path) }}
+				{{ replaceRE "province/" " " $crumbs }}
+		  </div>
 			<h2 class="list__title post__title ">
 				<a href="{{ .RelPermalink }}" rel="bookmark">
 				{{ .Title }}
@@ -22,9 +27,10 @@
 		</header>
 
 		<div class="content list__excerpt post__content clearfix">
+			<!-- up to 180 characters, starting with the Garden Description -->
 			{{ $summary_parts := split .Summary "Garden Description" }}
 			{{ $summary_excerpt := index $summary_parts 1 }}
-			{{ substr $summary_excerpt 0 300 }}...
+			{{ substr $summary_excerpt 0 180 }}...
 		</div>
 
 		{{- if .Site.Params.readmore }}
