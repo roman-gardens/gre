@@ -10,35 +10,7 @@
 		{{ . }}
 	</div>
 	{{- end }}
-	{{- if .Sections -}}
-		{{- range .Sections -}}
-			{{- range .Data.Pages -}}
-				{{- .Render "summary" }}
-			{{- end -}}
-			{{- if .Sections -}}
-				{{- range .Sections -}}
-					{{- range .Data.Pages -}}
-						{{- .Render "summary" }}
-					{{- end -}}
-					{{- if .Sections -}}
-						{{- range .Sections -}}
-							{{- range .Data.Pages -}}
-								{{- .Render "summary" }}
-							{{- end -}}
-							{{- if .Sections -}}
-								{{- range .Sections -}}
-									{{- range .Data.Pages -}}
-										{{- .Render "summary" }}
-									{{- end -}}
-								{{- end -}}
-							{{- end -}}
-						{{- end -}}
-					{{- end -}}
-				{{- end -}}
-			{{- end -}}
-		{{- end -}}
-	{{- end -}}
-	{{- range .Paginator.Pages.ByTitle }}
+	{{- range .Paginator.Pages }}
 		{{- .Render "summary" }}
 	{{- end }}
 </main>
