@@ -1,16 +1,57 @@
 /* the styles in this file will override the theme styles */
 
+a {
+  color: #c22d30;
+}
+
 a:hover {
   text-decoration: underline;
 }
 
+a.nav {
+  color: #000;
+}
+
 body {
+  font-family: "Georgia", "Palatino", serif;
+  font-size: 12pt;
   line-height: 1.4;
 }
 
 .header {
 	width: 100%;
 	background: linear-gradient(to bottom, #ffffff00, 40%, #ffffff00, 65%, #ffffffff), url('../img/header91.jpg');
+}
+
+.logo__title {
+  font-size: 48px;
+  color: #fff;
+  text-shadow: 2px 4px 5px #000;
+}
+
+.logo__text {
+  text-transform: none;
+}
+
+.menu__item--active .menu__link {
+  color: #fff;
+}
+
+@media screen and (min-width: 767px) {
+
+  .menu__list,
+  .js .menu__list {
+    background: none;
+  }
+
+  .menu__item {
+    border-left: 0;
+  }
+
+  .menu__link {
+  	color: #000;
+  }
+
 }
 
 .menu__link:hover {
