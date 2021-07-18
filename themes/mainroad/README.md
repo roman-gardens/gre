@@ -1,30 +1,24 @@
 # Mainroad
 
 **Mainroad** is a responsive, simple, clean and content-focused [Hugo](https://gohugo.io/) theme based on the
-[MH Magazine lite](https://wordpress.org/themes/mh-magazine-lite/) WordPress theme by
-[MH Themes](https://www.mhthemes.com/).
+[MH Magazine lite](https://wordpress.org/themes/mh-magazine-lite/) WordPress theme.
 
-**[Demo (Fast update)](https://mainroad-demo.netlify.app/)** | [Standart Demo](https://themes.gohugo.io/theme/mainroad/)
+**[Demo (Fast update)](https://mainroad-demo.netlify.app/)** | [Standard Demo](https://themes.gohugo.io/theme/mainroad/)
 
-![screenshot](https://github.com/Vimux/mainroad/blob/master/images/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/Vimux/Mainroad/master/images/screenshot.png)
 
 **Features:**
 
++ Responsive design
++ Main & secondary menus
++ Widgetized sidebar
++ Translations. Over 15 languages and counting
++ Configurable theme settings (sidebar position, author box, post navigation, highlight color) via `config.toml`
 + Hugo internal templates (Open Graph, Schema, Twitter Cards, Disqus, Google Analytics)
-+ Responsive menu
-+ Secondary menus
-+ SVG icons
-+ Theme options (Sidebar position, Author Box, Post Navigation, highlight color) available through config.toml file
-parameters
-+ Table of Contents
-+ MathJax
-
-**Browser support:**
-
-+ **Desktop:** IE11+, Chrome, Firefox, Safari
-+ **Mobile:** Android browser (on Android 4.4+), Safari (on iOS 7+), Google Chrome, Opera mini
-
-Other browsers (like Opera on Blink engine) are also supported, but not tested.
++ Wide cross-browser compatibility
+  + *Desktop: IE11+, Chrome, Firefox, Safari*
+  + *Mobile: Android browser (on Android 4.4+), Safari (on iOS 7+), Google Chrome, Opera mini*
++ Custom Google Fonts support, MathJax, Table of Contents, SVG icons and much more…
 
 ## Installation
 
@@ -89,9 +83,18 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   mathjax = true # Enable MathJax
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
-  highlightColor = "#e22d30" # Override highlight color
+  googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
+  highlightColor = "" # Deprecated in favor of .Site.Params.style.vars.highlightColor
   customCSS = ["css/custom.css"] # Include custom CSS files
   customJS = ["js/custom.js"] # Include custom JS files
+
+[Params.style.vars]
+  highlightColor = "#e22d30" # Override highlight color
+
+  # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
+  # Take care of different quotes OR escaping symbols in these params if necessary
+  fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
+  fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
   image = "img/placeholder.png" # Logo image. Path relative to "static"
@@ -109,6 +112,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  categories_counter = false # Enable counter for each category in "Categories" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget
 
 [Params.widgets.social]
