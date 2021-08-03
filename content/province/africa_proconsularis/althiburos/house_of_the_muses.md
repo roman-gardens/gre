@@ -10,6 +10,15 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tag:
+  - "domus"
+  - "peristyle houses"
+  - "semicircular basin"
+  - "triclinia (rooms)"
+  - "euripus"
+  - "balustrades"
+  - "light wells"
+
 ---
 
 ## Province
@@ -17,7 +26,7 @@ categories:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
 
@@ -44,13 +53,21 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Muses (Maison des Muses)
 
 ### Keywords
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [semicircular basin](#)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- [euripus](#)
+- [balustrades](http://vocab.getty.edu/page/aat/300001989)
+- [light wells](http://vocab.getty.edu/page/aat/300004321)
+
 <!-- [urban villas](#) -->
 
 
 ### Garden Description
-The house, noteworthy for its many and varied mosaic floors, is located on the right side of Oum El Abid river in a residential neighborhood. This vast domus is laid out around a peristyle onto which the rooms open. The courtyard (6.50 x 6.50 m) may have been planted (Plan view, Fig. 1).  A long basin (4.15x 1.85; D. 0,72m.) was placed on the axis of the triclinium (G). Each end of the basin is curved to form a semi-circular pool.
+The house, noteworthy for its many and varied mosaic floors, is located on the right side of Oum El Abid river in a residential neighborhood. This vast *domus* is laid out around a peristyle onto which the rooms open. The courtyard (6.50 x 6.50 m) may have been planted (Plan view, Fig. 1).  A long basin(*euripus*; 4.15 x 1.85; D. 0,72m.) was placed on the axis of the *triclinium* (G). Each end of the basin is curved to form a semi-circular pool.
 
-The triclinium was bordered on two sides by two apartments that each had rooms and a corridor. The rooms to the north of the triclinium have an additional non-paved courtyard (L) enclosed by a colonnade closed by a balustrade. This lightwell may have been a small garden.
+The *triclinium* was bordered on two sides by two apartments that each had rooms and a corridor. The rooms to the north of the *triclinium* have an additional non-paved courtyard (L) enclosed by a colonnade closed by a balustrade. This lightwell may have been a small garden.
 
 
 ### Maps
@@ -60,7 +77,7 @@ The triclinium was bordered on two sides by two apartments that each had rooms a
 -->
 
 ### Plans
-{{< figure src="../images/Althuburos_House_of_the_Muses.jpg" alt="Plan of the House of the Muses at althiburos; rights statement" title="Fig. 1: Plan of the House of the Muses (Rights statement)" >}}
+{{< figure src="../images/Althuburos_House_of_the_Muses.jpg" alt="Plan of the House of the Muses at althiburos; rights statement" title="Fig. 1: Plan of the House of the Muses (Merlin, A., 1913, pl. V)" >}}
 
 ### Images
 
@@ -69,10 +86,15 @@ The triclinium was bordered on two sides by two apartments that each had rooms a
 -->
 
 ### Dates
-Antonian and Severian period (II-III c.)
+2nd-3rd century CE
 
 ### Bibliography
-- R. Rebuffat, 1969, Althiburos 3 ; M. Ennaifer, *La cité d’Althiburos et l’édifice des Asclepieia*, INA, Tunis, 1976, p. 64-70, plan II, *Amplissimae*, p. 27-29.[(worldcat)](http://www.worldcat.org/oclc/463201619)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 27-29. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+- Ennaifer, M., *La cité d’Althiburos et l’édifice des Asclepieia*, INA, Tunis, 1976, p. 64-70, plan II. [(worldcat)](http://www.worldcat.org/oclc/963483765)
+- Merlin, A., *Forum et maisons d’Althiburos, Notes et documents*, VI, 1913, p. 39-45, plan pl. V. [(worldcat)](http://www.worldcat.org/oclc/490070526)
+- Rebuffat, R., "Maisons à péristyle d'Afrique du Nord: répertoire de plans publiés". In: *Mélanges d'archéologie et d'histoire*, tome 81, n°2, 1969, p. 67, Althiburos 2. [(worldcat)](http://www.worldcat.org/oclc/493279757)
+
+
 
 <!--#### Periodo ID-->
 

@@ -10,6 +10,11 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tag:
+  - "domus"
+  - "peristyle houses"
+  - "pool"
+  - "basin"
 ---
 
 ## Province
@@ -47,9 +52,10 @@ A sublocation is any area larger than an individual garden, but located within a
 House of Dionysos
 
 ### Keywords
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [pool](#)
+- [basin](#)
 
 ### Garden Description
  In this very damaged house, a portico on four sides (IV-VII) enclosed a court (VIII) (8 x 11.10 m), which was planted during the building’s second phase dated at the fourth/early fifth century. The northeast and southwest porticos had four columns and the northwest and southeast had five columns.
@@ -63,7 +69,7 @@ House of Dionysos
 -->
 
 ### Plans
-{{< figure src="../images/AFR_Car_Hd_Amalek.jpg" alt="Plan of the House of Dionysos at Karthago; rights statement" title="Fig. 1: Plan of the House of Dionysos. (*CMT*, KARTHAGO, plan 5)" >}}
+{{< figure src="../images/AFR_Car_Hd_Amalek1.jpg" alt="Plan of the House of Dionysos at Karthago; rights statement" title="Fig. 1: Plan of the House of Dionysos. (Ben Abed-Ben Khader, A., 1999, plan 5)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
@@ -75,10 +81,10 @@ House of Dionysos
 -->
 
 ### Dates
-The house dates from the III-V c.
+3rd-5th century CE
 
 ### Bibliography
-* *CMT*, KARTHAGO, Carthage, Les mosaïques du Parc archéologique des Thermes d’Anthonin, INA, Tunis,1999, 46-51, plan 5. [(worldcat)](http://www.worldcat.org/oclc/1181488433)
+* Ben Abed-Ben Khader, A., *Corpus des mosaïques de Tunisie. Vol. 4, Karthago (Carthage), Fasc. 1 Les mosaiques du Parc Archéologique des Thermes d'Antonin*, INA, Tunis,1999, 46-51, plan 5. [(worldcat)](http://www.worldcat.org/oclc/1069099591)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 143-144. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 <!--#### Periodo ID-->

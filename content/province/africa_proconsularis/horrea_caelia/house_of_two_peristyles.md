@@ -10,6 +10,12 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tag:
+  - "domus"
+  - "peristyle houses"
+  - "church buildings by function"
+  - "basin"
+  - "bath"
 ---
 
 ## Province
@@ -17,7 +23,7 @@ categories:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
 
@@ -26,7 +32,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ### Location Description
 
-The site is located on the East seaside of Tunisia. Excavations in the sixties have brought to light warehouses and a large domus opening towards the sea.
+The site is located on the East seaside of Tunisia. Excavations in the sixties have brought to light warehouses and a large *domus* opening towards the sea.
 
 
 <!-- LEAVE THIS BLANK FOR NOW -->
@@ -46,16 +52,18 @@ A sublocation is any area larger than an individual garden, but located within a
 House of two peristyles (Maison aux deux péristyles)
 
 ### Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [church buildings by function](http://vocab.getty.edu/page/aat/300007492)
+- [basin](#)
+- [bath](#)
 
 ### Garden Description
- This large house (850 to 900m2) was built on the sea front and was laid out around a peristyle garden. The eastern part of the *domus* was destroyed by the sea; the western portico is complete, only a part of the north and south porticoes of the peristyle have survived. The peristyle was approximately 200 m2 and its porticoes were separated from the garden by a low wall to which a basin was later added.
+ This large house (850 to 900m²) was built on the sea front and was laid out around a peristyle garden. The eastern part of the *domus* was destroyed by the sea; the western portico is complete, only a part of the north and south porticoes of the peristyle have survived. The peristyle was approximately 200 m² and its porticoes were separated from the garden by a low wall to which a basin was later added.
 
  The house has known some modifications, one of which was the construction of a private bath that may have had a peristyle garden. The house was occupied between the second and the fourth centuries.
 
- When the house was transformed into a church during the middle of the IVth century the garden of the peristyle may have been maintained.
+ When the house was transformed into a church, during the middle of the IVth century, the garden of the peristyle may have been maintained.
 
 
 
@@ -66,7 +74,7 @@ House of two peristyles (Maison aux deux péristyles)
 -->
 
 ### Plans
-{{< figure src="../images/AFR_Hor_Htp_Amalek.jpg" alt="Plan of the House of Two Peristyles at Horrea Caelia" title="Fig. 1: Plan of the House of Two Peristyles. (Rights statement)" >}}
+{{< figure src="../images/AFR_Hor_Htp_Amalek1.jpg" alt="Plan of the House of Two Peristyles at Horrea Caelia" title="Fig. 1: Plan of the House of Two Peristyles. (Ennaïfer, M., Ouertani, N., 2001, fig.2)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
@@ -78,10 +86,10 @@ House of two peristyles (Maison aux deux péristyles)
 -->
 
 ### Dates
-Unspecified
+2nd-4th, 5th century CE
 
 ### Bibliography
-* M. Ennaïfer, N. Ouertani, Les mosaïques de la Maison dite aux deux péristyles de Hergla, originalité d’un atelier Byzacénien, *CMGR VIII*, vol. 1, pp. 216 –237, Fig. 2. [(worldcat)](http://www.worldcat.org/oclc/833866146)
+* Ennaïfer, M., Ouertani, N., "Les mosaïques de la Maison dite aux deux péristyles de Hergla, originalité d’un atelier Byzacénien", in *La mosaïque gréco-romaine. VIII. , Actes du VIIIe colloque international pour l'étude de la mosaïque antique et médiévale, Lausanne (Suisse), 6-11 octobre 1997 / éd. par Daniel Paunier et Christophe Schmidt VIII*, vol. 1, Lausanne : Cahiers d'archéologie romande, 2001, cop. 2001, pp. 216 –237, Fig. 2. [(worldcat)](http://www.worldcat.org/oclc/833866146)
 
 <!--#### Periodo ID-->
 

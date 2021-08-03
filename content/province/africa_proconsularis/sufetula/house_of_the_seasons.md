@@ -10,6 +10,8 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tag:
+  - ""
 ---
 
 ## Province
@@ -46,8 +48,8 @@ House of the Seasons (La maison des Saisons)
 
 ### Keywords
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 
 ### Garden Description
  This house, known for its majestic and richly decorated oecus, is laidout around a peristyle courtyard that was probably planted. The house is dated to the late IVth. early Vth. Century (Plan view, Fig. 1).

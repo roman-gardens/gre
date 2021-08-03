@@ -1,5 +1,5 @@
 ---
-title: "House of the small Peristyle"
+title: "House of the Small Peristyle"
 date: 2020-10-01T07:38:05-07:00
 latlon: [ 36.838512, 11.115794 ]
 province_id: PROVINCE_ID
@@ -10,6 +10,11 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tag:
+  - "domus"
+  - "peristyle houses"
+  - "basin"
+  - "semicircular exedra"
 ---
 
 ## Province
@@ -42,12 +47,15 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the small Peristyle (Maison du petit péristyle)
 
 ### Keywords
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [basin](#)
+- [semicircular exedra](#)
 <!-- [urban villas](#) -->
 
 ### Garden Description
-This small house (320 m²) is located on the lower part of the hill, south of the House of Marcus Aurelius.  The plan is characteristic of small houses with a peristyle (Plan view, Fig. 1).  The west part of the house is occupied by a large triclinium opening onto the peristyle.  Four other rooms paved with mosaics are laid on the north aisle.  Surrounding the mortared courtyard a low wall interweaves between the columns, creating a semi-circular exedra on the eastern side.
-Possibly belonging to this same house, on the east side there is a garden with a basin in the northern corner.
-
+This small house (320 m²) is located on the lower part of the hill, south of the House of *Marcus Aurelius*.  The plan is characteristic of small houses with a peristyle (Plan view, Fig. 1).  The west part of the house is occupied by a large *triclinium* E opening onto the peristyle.  Four other rooms paved with mosaics are laid on the north aisle.  Surrounding the mortared courtyard H a low wall interweaves between the columns, creating a semi-circular exedra on the eastern side H4. Tis courtyard may have been planted at an earlier phase.
+Possibly belonging to this same house, the east part of the *domus* may have been a garden with a basin b in the northern corner. The house is dated from the Ist century A.D.
 
 ### Maps
 
@@ -56,19 +64,18 @@ Possibly belonging to this same house, on the east side there is a garden with a
 -->
 
 ### Plans
-{{< figure src="../images/house_of_the_small_persityle.jpg" alt="Plan of the House of the Small Peristyle; rights statement" title="Fig. 1: Plan of the House of the Small Peristyle (Rights statement)" >}}
+{{< figure src="../images/house_of_the_small_persityle1.jpg" alt="Plan of the House of the Small Peristyle; rights statement" title="Fig. 1: Plan of the House of the Small Peristyle (Lassère, J.-M., Slim, H., 2010)" >}}
 
 ### Images
-Fig 2: View of the house
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates
-The house is dated from the Ist century A.D.
+Late 1st-4th century CE
 
 ### Bibliography
-- J.-M. Lassère, H. Slim, *Maisons de Clupea. Les maisons de l’Ecole de pêche*, Paris, 2010, p. 25-66. [(worldcat)](http://www.worldcat.org/oclc/701795957)
+- Lassère, J.-M., Slim, H., *Maisons de Clupea. Les maisons de l’Ecole de pêche*, Paris, 2010, p. 25-66. [(worldcat)](http://www.worldcat.org/oclc/701795957)
 
 
 <!--#### Periodo ID-->

@@ -10,6 +10,8 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tag:
+  - ""
 ---
 
 ## Province
@@ -46,8 +48,8 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Nymphs (Maison des Nymphes)
 
 ### Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
@@ -82,9 +84,9 @@ House of the Nymphs (Maison des Nymphes)
 Unspecified
 
 ### Bibliography
-* Malek, Amina-Aïcha, Kathryn L. Gleason, and Wilhelmina F. Jashemski. Gardens of the Roman Empire. , 2018.[(worldcat)](http://www.worldcat.org/oclc/1036265637)
-* J.P. Darmon, *Nymfarum domus, Les pavements de la maison des Nymphes à Néapolis (Nabeul, Tunisie) et leur lecture*, Leiden, 1980, p. 9, pp. 85-6 et p. 146. [(worldcat)](http://www.worldcat.org/oclc/797872994)
-* A.-A. Malek, "Entre jardin et mosaïque ": La verticalité et le merveilleux dans la vie quotidienne, in *La Maison Gréco-romaine IX*, Collection de l'Ecole Française de Rome n°352, Rome, 2005, p. 1335-1346. [(worldcat)](http://www.worldcat.org/oclc/109642973)
+* Malek, A.-A, Kathryn L. Gleason, and Wilhelmina F. Jashemski. *Gardens of the Roman Empire.* , 2018.[(worldcat)](http://www.worldcat.org/oclc/1036265637)
+* Darmon, J.P., *Nymfarum domus, Les pavements de la maison des Nymphes à Néapolis (Nabeul, Tunisie) et leur lecture*, Leiden, 1980, p. 9, pp. 85-6 et p. 146. [(worldcat)](http://www.worldcat.org/oclc/797872994)
+* Malek, A.-A., "Entre jardin et mosaïque: La verticalité et le merveilleux dans la vie quotidienne", in *La Maison Gréco-romaine IX*, Collection de l'Ecole Française de Rome n°352, Rome, 2005, p. 1335-1346. [(worldcat)](http://www.worldcat.org/oclc/109642973)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 179-182. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 <!--#### Periodo ID-->

@@ -10,6 +10,8 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tag:
+  - ""
 ---
 
 ## Province
@@ -46,8 +48,8 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Salsamenta (Usine de salaison)
 
 ### Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [pool](#)
 
 ### Garden Description
@@ -87,8 +89,9 @@ House of the Salsamenta (Usine de salaison)
 Unspecified
 
 ### Bibliography
-* L. Slim, M. Bonifay, P. Trousset and al., “L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, *Africa* XVII, 1999, pp. 159-161, fig. 6, 7. [(worldcat)](http://www.worldcat.org/oclc/949242827)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 183-184. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Slim, L., Bonifay, M., Trousset, P. and al., “L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, in *Africa* XVII, 1999, pp. 159-161, fig. 6, 7. [(worldcat)](http://www.worldcat.org/oclc/949242827)
+
 
 <!--#### Periodo ID-->
 

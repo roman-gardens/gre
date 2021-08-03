@@ -10,6 +10,11 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tag:
+  - "domus"
+  - "peristyle houses"
+  - "semicircular basin"
+  - "oeci"
 ---
 
 ## Province
@@ -42,10 +47,14 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Two Hunts (Maison aux deux chasses)
 
 ### Keywords
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [semicircular basin](#)
+- [oeci](http://vocab.getty.edu/page/aat/300080791)
 <!-- [urban villas](#) -->
 
 ### Garden Description
-Known for its beautiful hunting scene mosaics, this large domus (1100m2) was laid out around a square shaped peristyle-garden (15.50x15m) (Plan view, Fig. 1, 2, 3). The low wall of four porticos enclosed the viridarium, which curves to form an apse in front of the oecus. The house was constructed on the remains of an old salt factory; the three basins located on the east side of the garden are the remains of the previous phase of the building.
+Known for its beautiful hunting scene mosaics, this large *domus* (1100m²) was laid out around a square shaped peristyle-garden (15.50x15m) (Plan view, Fig. 1). The low wall of four porticos enclosed the *viridarium*, which curves to form an apse in front of the *oecus*. The house was constructed on the remains of an old salt factory; the three basins located on the east side of the garden are the remains of the previous phase of the building.
 
 
 ### Maps
@@ -55,10 +64,9 @@ Known for its beautiful hunting scene mosaics, this large domus (1100m2) was lai
 -->
 
 ### Plans
-{{< figure src="../images/House_of_the_Two_hunts_Kelibia.jpg" alt="Plan of the House of the Two Hunts at Clupea; rights statement" title="Plan: Plan of the House of the Two Hunts (Rights statement)" >}}
+{{< figure src="../images/House_of_the_Two_hunts_Kelibia1.jpg" alt="Plan of the House of the Two Hunts at Clupea; rights statement" title="Fig. 1: Plan of the House of the Two Hunts (Ennaifer, M., 1994, pl. 94-106)" >}}
 
 ### Images
-Fig.3: Photo of the House of the Two Hunts’ site
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
@@ -67,7 +75,9 @@ Fig.3: Photo of the House of the Two Hunts’ site
 The house and its garden are approximately dated to the V and the VI century.
 
 ### Bibliography
-- M. Ennaifer, *CMGR* VII, 1, 1994 (1999), pp. 233-50, pl. 94-106, Amplissimae, p. 80-83. [(worldcat)](http://www.worldcat.org/oclc/773091749)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 80-83. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+- Ennaifer, M., "La maison des Deux Chasses à Kélibia", in *Colloque de la mosaïque gréco romaine* VII, 1, 1994 (1999), pp. 233-250, pl. 94-106. [(worldcat)](http://www.worldcat.org/oclc/47894208)
+
 
 
 <!--#### Periodo ID-->

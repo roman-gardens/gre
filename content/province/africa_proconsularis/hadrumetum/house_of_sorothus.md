@@ -10,6 +10,11 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tag:
+  - "domus"
+  - "peristyle houses"
+  - "semicircular basin"
+  - "mural paintings (visual works)"
 ---
 
 ## Province
@@ -17,12 +22,14 @@ categories:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
 
 [Hadrumetum (Sousse)]({{<relref ".">}}) \
 [Hadrumetum (Pleiades)](https://pleiades.stoa.org/places/324716)
+
+{{< figure src="../images/hadrumetum_city_plan.jpg" alt="Plan of Hadrumetum; rights statement" title="Fig. 1: Plan of Hadrumetum (Ghaddhab, R., 2016, P.182)" >}}
 
 ### Location Description
 Hadrumetum is located on the bay of Hammamet at the edge of the fertile region of Sahel from which it drew its wealth.  Choosing the side of Rome against Carthage during the Punic war, Hadrumetum was rewarded with the status of free town. Taking the side of Pompey, the city was heavily fined by Caesar after his victory at Thapsus. Nevertheless, the opulence of its houses adorned with luxurious mosaics testifies that the city experienced great economic development after its elevation to the status of colony, under Trajan.
@@ -42,10 +49,15 @@ A sublocation is any area larger than an individual garden, but located within a
 House of  Sorothus (Maison de Sorothus)
 
 ### Keywords
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [semicircular basin](#)
+- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
+
 <!-- [urban villas](#) -->
 
 ### Garden Description
-This very damaged house was laid out around a peristyle garden. A semi-circular and bisected basin was placed on the axis of the reception room (Pan view, Fig. 1). The small wall that enclosed the garden was painted with flowers.
+This very damaged house was laid out around a peristyle garden. A semi-circular and bisected basin was placed on the axis of the reception room (Plan view, Fig. 1). The small wall that enclosed the garden was painted with flowers.
 
 
 
@@ -55,7 +67,7 @@ This very damaged house was laid out around a peristyle garden. A semi-circular 
 ### Plans
 
 
-{{< figure src="../images/Bouse_of_Sorothus.jpg" alt="Diagram plan of the House of Sorothus; rights statement" title="Fig. 1: Diagram plan of the House of Sorothus (Rights statement)" >}}
+{{< figure src="../images/Bouse_of_Sorothus1.jpg" alt="Diagram plan of the House of Sorothus; rights statement" title="Fig. 1: Diagram plan of the House of Sorothus (from Laporte, J.-P., Lavagne, H., 2006, fig.4, and Hannezo, G., 1896, p.819)" >}}
 
 ### Images
 
@@ -67,9 +79,17 @@ This very damaged house was laid out around a peristyle garden. A semi-circular 
 The house is dated to the end of the II c.
 
 ### Bibliography
--  de la Blanchère, "Note sur une mosaïque représentant le cortège de de Neptune, découvertes à Hadrumetum et transportée au musée de Tunis (Bardo)", in *CRAI,* 15, p. 342-346, 378-383;
-- Amplissimae, p.100-101;
-- J.-P. Laporte, H. Lavagne, Sousse, "La *domus* de Sorothus et ses mosaïques", in *Les sodalités africo-romaines,* Chaires internationales de recherche Blaise Pascale, Paris, 2006, p. 24-28, fig. 4.  [(worldcat)](http://www.worldcat.org/oclc/912914354)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 100-101. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+- Gauckler, P., "Les mosaïques de l’Arsenal à Sousse", in *Revue archéologique*, 1897, II, p. 9-10.[(worldcat)](http://www.worldcat.org/oclc/5547381665)
+- Gauckler, P., *Inventaire des mosaïques de la Gaule et de l’Afrique*, II : Afrique
+proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.[(worldcat)](http://www.worldcat.org/oclc/488882908)
+- Ghaddhab, R., "Y avait-il un port à Hadrumetum dans l’antiquité tardive?", in *Revue des etudes anciennes*, 2016, Bordeaux, France: Feret & Fils, pp. 175-199. https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf
+- Hannezo, G., "Les mosaïques de Sousse", in *Association française pour l'Avancement des Sciences*, Carthage, 25e session, 1896, 2e partie, p. 817-821, p. 819.
+- La Blanchère, M.-R., "Note sur une mosaïque représentant le cortège de de Neptune, découvertes à Hadrumetum et transportée au musée de Tunis (Bardo)", in *Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres*, 15, p. 342-346, 378-383.[(worldcat)](http://www.worldcat.org/oclc/4649609892)
+- La Blanchère, M.-R., "La mosaïque de Neptune à Sousse", in *Bulletin du Comité des travaux historiques*, 1888, p. 163‑176.
+- Laporte, J.-P., Lavagne, H., "Sousse: La domus de Sorothus et ses mosaïques", in *Les sodalités africo-romaines*, Chaires internationales de recherche Blaise Pascale, Paris, 2006, p. 24-28, fig. 4.  [(worldcat)](http://www.worldcat.org/oclc/912914354)
+
+
 
 
 <!--#### Periodo ID-->
