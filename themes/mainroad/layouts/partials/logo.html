@@ -1,5 +1,4 @@
 {{- $logoTitle := .Site.Params.logo.title | default .Site.Title -}}
-{{- $logoTitle = replaceRE " of the " " <i>of the</i> " $logoTitle | safeHTML -}}
 {{- $logoSubtitle := .Site.Params.logo.subtitle | default .Site.Params.subtitle -}}
 {{- $logoImage := .Site.Params.logo.image -}}
 

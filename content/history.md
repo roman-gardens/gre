@@ -33,7 +33,7 @@ The goals were to create:
 - a digital reference offered free to the public through a link on Cambridge University’s website.
 - a website that solicits updates and additions via the internet and social media as new evidence emerges.
 
-In the first phase of this initiative, the team created the interactive map, published on this website, using ArcGIS under the direction of [Keith Jenkins](https://guides.library.cornell.edu/prf.php?account_id=9255) of Cornell's Mann Library and the participation of Gleason’s seminar students at Cornell.
+In the first phase of this initiative, the team used tools such as Carto and QGIS to create the location data for the gardens under the direction of [Keith Jenkins](https://guides.library.cornell.edu/prf.php?account_id=9255) of Cornell's Mann Library and with the participation of Gleason's seminar students at Cornell.
 
 The text based presentation of the garden entries remained to be designed when area editor [Roger Bagnall](https://isaw.nyu.edu/people/faculty/emeritus-faculty/rbagnall) proposed having the ISAW digital humanities team create a prototype with blog technology that had lower barriers for contributors, inexpensive, sustainable and stable. Led by [David M. Ratzan](https://isaw.nyu.edu/people/staff/david-m-ratzan) and [CLIR](https://www.clir.org/) post-doctoral fellow [Christian Casey](https://isaw.nyu.edu/people/staff/christian-casey), they designed an exciting prototype that was relatively simple to build and maintain using readily available, inexpensive blog software. Confined by the COVID pandemic in 2020, ISAW interns, Cornell students, and an international group of volunteers have digitized the manuscript for the Gardens of the Roman Empire, a huge step forward towards an  interactive database.
 

@@ -28,7 +28,7 @@
 
 # Authorbox
 - id: authorbox_name
-  translation: "Riguardo {{ .Count }}"
+  translation: "Riguardo {{ .Name }}"
 
 # Sidebar
 - id: sidebar_warning
@@ -39,7 +39,7 @@
 
 # Search widget
 - id: search_placeholder
-  translation: "CERCA..."
+  translation: "CERCA…"
 
 # Languages widget
 - id: languages_title
