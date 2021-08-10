@@ -23,8 +23,8 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
-[Karthago]({{<relref ".">}}) \
-[Karthago (Pleiades)](https://pleiades.stoa.org/places/314921)
+[THYSDRUS (El Jem) Tunisia]({{<relref ".">}}) \
+[THYSDRUS (El Jem) Tunisia(Pleiades)](https://pleiades.stoa.org/places/324835)
 
 ### Location Description
 Thysdrus is located on the western border of the Sahel at 60 km S of Hadrumetum on the road leading to Sfax. The development, from the end of the 2d c., of its olive plantations and its trade in oil made the fortune of the city.

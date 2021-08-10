@@ -68,6 +68,7 @@ Domus of the Sea Front (Villa du front de mer)
 
  The peristyle garden of the house (ca 16.50 x 8.50 m) was enclosed on four sides by a portico supported by twenty marble columns; there was a first floor, as stairs have been found. A large *oecus* (B3) on the northeast side looked out on the garden. In front of this exedra was a shallow pool, framed by two columns. Behind the pool was a cistern opening covered with a stone slab; on the right and left, two square planters were added at a later period. In that part of the garden, the mosaic pavements of the lower level extended under the garden. On the opposite side, a beautiful semi-circular basin, framed by two fluted columns (now broken), and faced inside with colored marbles, was visible from the entrance of the house (Fig. 2). Between the large door and this basin, the portico was paved with white marble slabs. The open space certainly was a garden (B16) as it was planted with bushes a few years ago.
 
+
 ### Maps
 
 <!--
@@ -75,7 +76,7 @@ Domus of the Sea Front (Villa du front de mer)
 -->
 
 ### Plans
-{{< figure src="../images/AFR_Hip_Vsf_Amalekfig1.jpg" alt="Plan of the House of the Sea Front at Hippo Regius; rights statement" title="Fig. 1: Plan of the House of the sea Front. (?)" >}}
+{{< figure src="../images/AFR_Hip_Vsf_Amalekfig11.jpg" alt="Plan of the House of the Sea Front at Hippo Regius; rights statement" title="Fig. 1: Plan of the House of the sea Front. (Marec, E., 1950, )" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
@@ -87,10 +88,7 @@ Domus of the Sea Front (Villa du front de mer)
 -->
 
 ### Dates
-Unspecified
-
-#### Excavation Dates
-It was excavated first in 1911, then in 1951-52, in 1964 and more recently in 2002.
+4th century CE
 
 
 ### Bibliography

@@ -73,7 +73,7 @@ Adjacent to the east apartment is a light well with an earthen floor, which can 
 -->
 
 ### Plans
-{{< figure src="../images/House_of_Asinius_Rufinus_Acholla1.jpg" alt="Plan of the House of Asinius Rufinus at acholla; rights statement" title="Plan: Plan of the House of Asinius Rufinus (Acholla, Et alii, PL. II)" >}}
+{{< figure src="../images/House_of_Asinius_Rufinus_Acholla1.jpg" alt="Plan of the House of Asinius Rufinus at acholla; rights statement" title="Fig. 1: Plan of the House of Asinius Rufinus (Acholla, Et alii, PL. II)" >}}
 
 ### Images
 
@@ -82,7 +82,7 @@ Adjacent to the east apartment is a light well with an earthen floor, which can 
 -->
 
 ### Dates
-The second half of the II century AD.
+mid 2nd century CE
 
 ### Bibliography
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 12-14. [(worldcat)](http://www.worldcat.org/oclc/989088620)
@@ -106,6 +106,7 @@ The second half of the II century AD.
 ### Publication date
 
 21 Apr 2021
-
+<!--
 ### Related articles
 [House of the Triumph of Neptune (Maison du Triomphe de Neptune)]({{<relref "house_of_the_triumph_of_neptune.md">}})
+-->

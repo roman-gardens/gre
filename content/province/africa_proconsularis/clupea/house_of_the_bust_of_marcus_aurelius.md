@@ -101,13 +101,15 @@ Built over an older establishment, the house presents two main phases.  The main
 [7001037](http://vocab.getty.edu/page/tgn/7001037)
 
 ### Contributor
-[Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
-[Véronique Blanc-Bijon](link) (WorldCat Identities: [lccn-nb99006585](http://worldcat.org/identities/lccn-nb99006585/))
+[Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))\
+[Véronique Blanc-Bijon](link) (WorldCat Identities: [lccn-nb99006585](http://worldcat.org/identities/lccn-nb99006585/))\
 [Wilhelmina F. Jashemski](link) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/))
 ### Publication date
 
 21 Apr 2021
 
+<!--
 ### Related articles
 [House of the small Peristyle (Maison du petit péristyle)]({{<relref "house_of_the_small_peristyle.md">}})
 [House of the Two Hunts (Maison aux deux chasses)]({{<relref "house_of_the_two_hunts.md">}})
+-->

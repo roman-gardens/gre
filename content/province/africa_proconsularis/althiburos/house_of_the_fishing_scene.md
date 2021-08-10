@@ -68,7 +68,7 @@ The house stands on the other side of the Wadi Oum El Abid, on the left bank, 12
 -->
 
 ### Plans
-{{< figure src="../images/house_of_the_fishing_scene1.jpg" alt="Plan of the House of the Fishing Scene at althiburos; rights statement" title="Plan: Plan of the House of the Fishing Scene (Merlin, A., 1913, pl. III)" >}}
+{{< figure src="../images/house_of_the_fishing_scene1.jpg" alt="Plan of the House of the Fishing Scene at althiburos; rights statement" title="Fig.1: Plan of the House of the Fishing Scene (Merlin, A., 1913, pl. III)" >}}
 
 ### Images
 
@@ -77,7 +77,7 @@ The house stands on the other side of the Wadi Oum El Abid, on the left bank, 12
 -->
 
 ### Dates
-Severian period (IIIrd c.).
+3rd century CE
 
 ### Bibliography
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 30-31. [(worldcat)](http://www.worldcat.org/oclc/989088620)
@@ -103,7 +103,8 @@ Severian period (IIIrd c.).
 ### Publication date
 
 21 Apr 2021
-
+<!--
 ### Related articles
 [House of the Muses (Maison des Muses)]({{<relref "house_of_the_muses.md">}})
 [Asclepeia Building (Edifice des Asclepeia)]({{<relref "asclepeia_building.md">}})
+-->

@@ -88,7 +88,7 @@ During the third stage dated to the beginning of the second half of the fourth c
 -->
 
 ### Plans
-{{< figure src="../images/Askleipeia_Building1.jpg" alt="Plan of the Asclepieia Building at althiburos; rights statement" title="Plan: Plan of the Asclepieia Building (Rights statement)" >}}
+{{< figure src="../images/Askleipeia_Building1.jpg" alt="Plan of the Asclepieia Building at althiburos; rights statement" title="Fig. 1: Plan of the Asclepieia Building (Rights statement)" >}}
 
 ### Images
 
@@ -121,6 +121,8 @@ NOT FOUND
 
 21 Apr 2021
 
+<!--
 ### Related articles
 [House of the Fishing Scene (Maison de la scène de pêche)]({{<relref "house_of_the_fishing_scene.md">}})
 [House of the Muses (Maison des Muses)]({{<relref "house_of_the_muses.md">}})
+-->

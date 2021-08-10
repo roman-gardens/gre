@@ -41,16 +41,13 @@ The city has been continually occupied to the present day, now known as Cherchel
 House of the Scattered Branches and Flowers (Maison de la Jonchée)
 
 ### Keywords
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [pool](#)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
-- [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
 
 ### Garden Description
-Located on the southeastern seaboard of Cherchel, this domus was only partially excavated but is still considered to be one of the largest houses of Caesarea.  The ruins discovered between 1963 and 1964 are spread out over more than 60 meters from east to west and 30 meters from north to south.  The house had two levels separated by a terrace wall, 15 meters of which have been uncovered.
+Located on the southeastern seaboard of Cherchel, this *domus* was only partially excavated but is still considered to be one of the largest houses of Caesarea.  The ruins discovered between 1963 and 1964 are spread out over more than 60 meters from east to west and 30 meters from north to south.  The house had two levels separated by a terrace wall, 15 meters of which have been uncovered.
 
 To the north, a rectangular pool was discovered on the lower level.  It measured 10 meters by 7.5 and included a fountain built on a square-shaped base, 2.8 meters wide.  The sides had rectangular recesses and also included a water spout in the shape of a pyramid. The tracing of the pipe was still visible. The center of the peristyle may have been planted.
 
@@ -59,21 +56,23 @@ Only part of the southern gallery was excavated. The gallery was 3.15 meters wid
 It is assumed that the peristyle and its garden may have had a view over the sea. One of the rooms sharing this view was decorated with the mosaic of the Jonchée famous for its uniqueness.
 
 ### Plans
-{{< figure src="../images/house_of_the_scattered_branches_and_flowers_fig_1.png" alt="Plan of the House of the Scattered Branches and Flowers. A terrace wall separated the lower portion of the house (the northern half) from the upper portion. A staircase is shown in the middle of the plan, linking the levels. The peristyle garden with the rectangular pool is in the northwest corner of the plan, immediately west of the bottom of the staircase. The partially excavated southern gallery opens immediately east from the top of the stairway." title="Fig. 1: Plan of the House of the Scattered Branches and Flowers (Rights Statement)">}}
+{{< figure src="../images/house_of_the_scattered_branches_and_flowers_fig_1.jpg" alt="Plan of the House of the Scattered Branches and Flowers." title="Fig. 1: Plan of the House of the Scattered Branches and Flowers (Leveau, Ph., 1982, p.101, fig.1, Guéry, R.)">}}
 
 ### Images
-
+{{< figure src="../images/house_of_the_scattered_branches_and_flowers_fig_2.png" alt="Mosaic of the Jonchée (scattered branches) that decorated one of the room of the NO.5 house." title="Fig. 2: Mosaic of the Jonchée (scattered branches) that decorated one of the room of the NO.5 house(aOrOc UMR 8546 CNRS-ENS-PSL Photothèque Stern)">}}
 ### Dates
-
+4th century CE
 #### Excavation Dates
 
 ### Bibliography
-* S. A. Baghli, P. A. Février, "Recherches et travaux (1962-1965)", BAA, t.1, 1962-1965. p.3; BAA, t.3, 1967, p.7, fig.8 et 9. [(worldcat)](http://www.worldcat.org/oclc/491480973)
-
-* S. Ferdi, Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines, Paris, 2005, p. 23-31.
-[(worldcat)](http://www.worldcat.org/oclc/1006126274)
-
-* J. Lassus, "L'archéologie algérienne en 1959", Libyca, arch. épigr., t.8, 2ème sem. 1960, p.30. Ph. Leveau, "Les maisons nobles de Caesarea de Maurétanie", Antiquités africaines, t.18, pp.110-12. [(hathitrust)](https://catalog.hathitrust.org/Record/008568139)
+*  Baghli, S. A., Février, P. A., "Recherches et travaux (1962-1965)", in *Bulletin d’archéologie algérienne*, t.1, 1962-1965. p.3; BAA, t.3, 1967, p.7, fig.8 et 9. [(worldcat)](http://www.worldcat.org/oclc/491480973)
+*  Ferdi, S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p. 23-31.[(worldcat)](http://www.worldcat.org/oclc/1006126274)
+* Ferdi, S. et Malek, A. A., 2000, “Les mosaïques de la maison de la Jonchée à Cherchel”, in *Mosaïque gréco-romaine : actes du VIIe Colloque international pour l'étude de la mosaïque antique*
+ VII, Tunis, p. 327-335. [(worldcat)](http://www.worldcat.org/oclc/949183567)
+*  Lassus, J., "L'archéologie algérienne en 1959", in *Libyca*, arch. épigr., t.8, 2ème sem. 1960, p.30.
+*  Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie", *Antiquités africaines*, t.18, 1982， pp.110-12. [(hathitrust)](https://catalog.hathitrust.org/Record/008568139)
+* Malek, A.-A. "Mise en scènes paysagères", in *Algérie antique*, Catalogue d’exposition, 26 avril-17 août 2003, Musée de l’Arles et de la Provence antique, ed. C. Sintès, Y. Rebahi, Avignon 2003, p. 188-194.
+* Malek, A.-A., "Mosaic and nature : "Cultural allusions to Nature in the Roman Domus", in *Gardens of the Roman Empire*, Volume II, eds., W. F. Jashemski, K. Gleason, A-A Malek, K. Hartswick, Cambridge University Press., NY, 2018, pp.317-321 [(worldcat)](http://www.worldcat.org/oclc/1021392532)
 
 #### Pleiades ID
 

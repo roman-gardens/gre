@@ -76,8 +76,7 @@ This very damaged house was laid out around a peristyle garden. A semi-circular 
 -->
 
 ### Dates
-The house is dated to the end of the II c.
-
+end 2nd century CE
 ### Bibliography
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 100-101. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 - Gauckler, P., "Les mosaïques de l’Arsenal à Sousse", in *Revue archéologique*, 1897, II, p. 9-10.[(worldcat)](http://www.worldcat.org/oclc/5547381665)

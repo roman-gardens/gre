@@ -11,7 +11,9 @@ draft: true
 categories:
   - "Africa Proconsularis"
 tag:
-  - ""
+  - "domus"
+  - "peristyle houses"
+  - "oeci"
 ---
 
 ## Province
@@ -47,12 +49,12 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Seasons (La maison des Saisons)
 
 ### Keywords
-- [oeci](http://vocab.getty.edu/page/aat/300080791)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [oeci](http://vocab.getty.edu/page/aat/300080791)
 
 ### Garden Description
- This house, known for its majestic and richly decorated oecus, is laidout around a peristyle courtyard that was probably planted. The house is dated to the late IVth. early Vth. Century (Plan view, Fig. 1).
+ This house, known for its majestic and richly decorated *oecus*, is laidout around a peristyle courtyard that was probably planted. The house is dated to the late IVth. early Vth. Century (Plan view, Fig. 1).
 
 
 ### Maps
@@ -74,15 +76,15 @@ House of the Seasons (La maison des Saisons)
 -->
 
 ### Dates
-The house is dated to the late IVth. early Vth. Century
+4th-5th century CE
 
 ### Bibliography
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 201-202. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-* Duval, N., Baratte, F., *Les ruines de Sufetula Sbeïtla*, Tunis, 1973, p. 65-69, fig. 44. [(worldcat)](http://www.worldcat.org/oclc/1107607946)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 201-202. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Duval, N., Baratte, F., *Les ruines de Sufetula Sbeïtla*, Tunis, 1973, pp. 65-69, fig. 44. [(worldcat)](http://www.worldcat.org/oclc/1107607946)
 * Duval, N., "Plastique chrétienne de Tunisie et d'Algérie", in *Bulletin archéologique du Comité des Travaux Historiques et Scientifique BAC* (1972), pp. 69-75 and fig. 11.[(worldcat)](http://www.worldcat.org/oclc/888111893)
-* Merlin, A., in *BCTH*, 1910, p. CXCVI-CXCVII. [(worldcat)](http://www.worldcat.org/oclc/224692325)
+* Merlin, A., in *BCTH*, 1910, pp. CXCVI-CXCVII. [(worldcat)](http://www.worldcat.org/oclc/224692325)
 * Parrish, D., "The Mosaic of Xenophon from Sbeitla", in *Mosaïque, Recueil d’hommages à Henri Stern, Paris*, 1982, pp. 297-306, pl. CXCV. 1. [(worldcat)](http://www.worldcat.org/oclc/10727878)
-* Parrish, D., *The Seasons mosaics of Roman North Africa*, Rome, 1984, p. 215-218. [(worldcat)](http://www.worldcat.org/oclc/1022822931)
+* Parrish, D., *The Seasons mosaics of Roman North Africa*, Rome, 1984, pp. 215-218. [(worldcat)](http://www.worldcat.org/oclc/1022822931)
 
 
 

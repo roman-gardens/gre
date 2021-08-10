@@ -112,7 +112,8 @@ The *triclinium* was bordered on two sides by two apartments that each had rooms
 ### Publication date
 
 21 Apr 2021
-
+<!--
 ### Related articles
 [House of the Fishing Scene (Maison de la scène de pêche)]({{<relref "house_of_the_fishing_scene.md">}})
 [Asclepeia Building (Edifice des Asclepeia)]({{<relref "asclepeia_building.md">}})
+-->

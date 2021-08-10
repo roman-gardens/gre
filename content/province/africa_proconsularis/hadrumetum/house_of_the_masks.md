@@ -64,7 +64,7 @@ The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was 
 
 
 ### Plans
-{{< figure src="../images/House_of_the_Masks_Sousse1.jpg" alt="Plan of the House of the Masks at hadrumetum; rights statement" title="Fig. 1: Plan of the House of the Masks (Rights statement)" >}}
+{{< figure src="../images/House_of_the_Masks_Sousse1.jpg" alt="Plan of the House of the Masks at hadrumetum; rights statement" title="Fig. 1: Plan of the House of the Masks (Foucher, L., 1965)" >}}
 
 ### Images
 <!--
@@ -72,7 +72,7 @@ The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was 
 -->
 
 ### Dates
-The house is dated to the II c.
+2nd century CE
 
 ### Bibliography
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 103-105. [(worldcat)](http://www.worldcat.org/oclc/989088620)
