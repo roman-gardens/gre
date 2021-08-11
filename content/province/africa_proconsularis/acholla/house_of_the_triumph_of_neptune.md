@@ -53,13 +53,13 @@ House of the Triumph of Neptune (Maison du Triomphe de Neptune)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
 
 ### Garden Description
-The fully excavated House of the Triumph of Neptune (1172 m2) is situated in the northern part of the city.  The house has a complete peristyle with one aisle entrance situated indirectly from the northeast (Plan view, Fig. 1).  Opposite the entry, the western wing of the house is organized with a vast colonnaded *oecus-triclinium* in the center.  On both sides of the *oecus-triclinium* there are two apartments with four rooms each and a passage to a non-paved rectangular court.  There is another *triclinium* on the south side of the peristyle and a reception room opening onto the north portico.
+The fully excavated House of the Triumph of Neptune (1172 m²) is situated in the northern part of the city.  The house has a complete peristyle with one aisle entrance situated indirectly from the northeast (Plan view, Fig. 1).  Opposite the entry, the western wing of the house is organized with a vast colonnaded *oecus-triclinium* in the center.  On both sides of the *oecus-triclinium* there are two apartments with four rooms each and a passage to a non-paved rectangular court.  There is another *triclinium* on the south side of the peristyle and a reception room opening onto the north portico.
 
 A low wall encloses the peristyle (17.50 x 14.50 m) with its garden (VII; 11.40 x 9.10 m).  The low wall curves to form three apses facing the tripartite entry of the *oecus-triclinium*.  The preserved walls of the garden show the level of the soil at ca. 0.65 m, which is under the level of the porticos’ mosaics.  On those walls, there were small remains of paintings depicting a fence with touches of green foliage on black or brown.  It was probably a garden view.  A small basin was placed later in the northeast corner.
 
-Two open spaces with an earthen floor, probably small gardens, were arranged in both apartments and were accessible by a passage.  It is possible that the north and south walls of the *oecus-triclinium* might have had a window opening onto these courtyard gardens.
+Two open spaces(XXVIII, XXXIV) with an earthen floor, probably small gardens, were arranged in both apartments and were accessible by a passage.  It is possible that the north and south walls of the *oecus-triclinium* might have had a window opening onto these courtyard gardens.
 
-Another possible garden was adjacent to the reception room of the northern aisle of the portico.  This house dates from 150-170 A.D.
+Another possible garden(X) was adjacent to the reception room of the northern aisle of the portico.  This house dates from 150-170 A.D.
 
 
 
@@ -70,7 +70,7 @@ Another possible garden was adjacent to the reception room of the northern aisle
 -->
 
 ### Plans
-{{< figure src="../images/House_the_Triumph_of_Neptune1.jpg" alt="Plan of  the House of the Triumph of Neptune; rights statement" title="Plan of  the House of the Triumph of Neptune (Gozlan, S., Bourgeois, A., 1992, plan II)" >}}
+{{< figure src="../images/House_the_Triumph_of_Neptune2.jpg" alt="Plan of  the House of the Triumph of Neptune; rights statement" title="Plan of  the House of the Triumph of Neptune (Gozlan, S., Bourgeois, A., 1992, plan II)" >}}
 
 ### Images
 
@@ -106,5 +106,6 @@ Another possible garden was adjacent to the reception room of the northern aisle
 
 21 Apr 2021
 
-### Related articles
+<!--### Related articles
 [House of Asinus Rufinus (Maison d'Asinus Rufinus)]({{<relref "house_of_asinus_rufinus.md">}})
+-->

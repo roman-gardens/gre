@@ -10,6 +10,11 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tag:
+  - "domus"
+  - "peristyle houses"
+  - "euripus"
+  - "balustrade"
 ---
 
 ## Province
@@ -17,7 +22,7 @@ categories:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
 
@@ -44,11 +49,16 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Fishing Scene (Maison de la scène de pêche)
 
 ### Keywords
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [euripus](#)
+- [balustrade](http://vocab.getty.edu/page/aat/300001989)
+
 <!-- [urban villas](#) -->
 
 
 ### Garden Description
-The house stands on the other side of the Wadi Oum El Abid, on the left bank, 120 meters to the north of the capitol. The badly damaged rooms are arranged around a peristyle whose porticoes are paved with mosaics (Plan view, Fig.1). A long basin bisected the garden that was enclosed by a balustrade running in between the columns. One of the rooms to the north of the peristyle has two symmetrical apses at each end and is paved with a famous mosaic representing a fishing scene with the head of Oceanus depicted at either end. Severian period (IIIrd c.).
+The house stands on the other side of the Wadi Oum El Abid, on the left bank, 120 meters to the north of the capitol. The badly damaged rooms are arranged around a peristyle whose porticoes are paved with mosaics (Plan view, Fig.1). A long basin (*euripus*) the garden that was enclosed by a balustrade running in between the columns. One of the rooms to the north of the peristyle has two symmetrical apses at each end and is paved with a famous mosaic representing a fishing scene with the head of Oceanus depicted at either end. Severian period (IIIrd c.).
 
 
 ### Maps
@@ -58,7 +68,7 @@ The house stands on the other side of the Wadi Oum El Abid, on the left bank, 12
 -->
 
 ### Plans
-{{< figure src="../images/house_of_the_fishing_scene1.jpg" alt="Plan of the House of the Fishing Scene at althiburos; rights statement" title="Plan: Plan of the House of the Fishing Scene (Rights statement)" >}}
+{{< figure src="../images/house_of_the_fishing_scene1.jpg" alt="Plan of the House of the Fishing Scene at althiburos; rights statement" title="Fig.1: Plan of the House of the Fishing Scene (Merlin, A., 1913, pl. III)" >}}
 
 ### Images
 
@@ -67,10 +77,15 @@ The house stands on the other side of the Wadi Oum El Abid, on the left bank, 12
 -->
 
 ### Dates
-Severian period (IIIrd c.).
+3rd century CE
 
 ### Bibliography
-- R. Rebuffat, 1969, Althiburos 3 ; M. Ennaifer, *La cité d’Althiburos et l’édifice des Asclepieia*, INA, Tunis, 1976, p. 58-63, plan pl. XXXIII, *Amplissimae*, p. 30-31.[(worldcat)](http://www.worldcat.org/oclc/463201619)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 30-31. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+- Ennaifer, M., *La cité d’Althiburos et l’édifice des Asclepieia*, INA, Tunis, 1976, p. 58-63, plan pl. XXXIII. [(worldcat)](http://www.worldcat.org/oclc/963483765)
+- Merlin, A., *Forum et maisons d’Althiburos, Notes et documents*, VI, 1913, p. 36-38, plan pl. III. [(worldcat)](http://www.worldcat.org/oclc/490070526)
+- Rebuffat, R., "Maisons à péristyle d'Afrique du Nord: répertoire de plans publiés". In: *Mélanges d'archéologie et d'histoire*, tome 81, n°2, 1969. pp. 659-724, p. 679, Althiburos 4. [(worldcat)](http://www.worldcat.org/oclc/493279757)
+
+
 
 <!--#### Periodo ID-->
 
@@ -88,7 +103,8 @@ Severian period (IIIrd c.).
 ### Publication date
 
 21 Apr 2021
-
+<!--
 ### Related articles
 [House of the Muses (Maison des Muses)]({{<relref "house_of_the_muses.md">}})
 [Asclepeia Building (Edifice des Asclepeia)]({{<relref "asclepeia_building.md">}})
+-->

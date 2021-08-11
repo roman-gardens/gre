@@ -6,7 +6,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
 editor: Nicholas Gill
-draft: false
+draft: true
 
 categories:
   - "Africa proconsularis"

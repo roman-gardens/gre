@@ -43,18 +43,14 @@ House of the Tizerine Cape (Maison du Cap Tizerine)
 
 ### Keywords
 
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [pool](#)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
-- [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
 
 ### Garden Description
 
-A large domus, about 2400 square meters, located on the cape of Tizerine, with three separate courtyards, one of which was a garden peristyle (Plan view, Fig. 1). The courtyard to the south, the largest, was partially excavated. Only three porticoes with low walls were visible.  There was probably a basin in the open area but only a cruciform cistern was found underneath.
+A large *domus*, about 2400 square meters, located on the cape of Tizerine, with three separate courtyards, one of which was a garden peristyle (Plan view, Fig. 1). The courtyard to the south, the largest, was partially excavated. Only three porticoes with low walls were visible.  There was probably a basin in the open area but only a cruciform cistern was found underneath.
 
 The northwestern courtyard was decorated with a large pool, which had a water spout in the shape of a pyramid.  Inside the pool were recesses, of which six were semi-circular and the others were square-headed. A planter may have surrounded this elaborate pool.
 
@@ -62,25 +58,20 @@ The northeastern courtyard was most likely a peristyle-garden.  There, a basin p
 
 ### Plans
 
-{{< figure src="../images/house_of_the_tizerine_cape_fig_1.png" alt="Plan of the House of the Tizerine Cape. Only a portion of the house is shown in the plan, due to incomplete excavation of the site. The primary portion shown is rectangular in aspect, one room thick along a generally northeast-southwest line. The three garden areas are to the south, the northwest, and the northeast of the surviving rooms, respectively. Additional rooms are shown in the southwest and northeast corners of the plan, bounding the three gardens and suggesting large footprint for the original house." title="Fig. 1: Plan of the House of the Tizerine Cape (Rights Statement)">}}
+{{< figure src="../images/house_of_the_tizerine_cape_fig_1.jpg" alt="Plan of the House of the Tizerine Cape. Only a portion of the house is shown in the plan, due to incomplete excavation of the site. The primary portion shown is rectangular in aspect, one room thick along a generally northeast-southwest line. The three garden areas are to the south, the northwest, and the northeast of the surviving rooms, respectively. Additional rooms are shown in the southwest and northeast corners of the plan, bounding the three gardens and suggesting large footprint for the original house." title="Fig. 1: Plan of the House of the Tizerine Cape (from From Lassus 1960, plan  Stawski E.)">}}
 
 ### Images
 
 ### Dates
-
+2nd-3rd century CE
 #### Excavation Dates
 
 ### Bibliography
-
-* J. Lassus, "L'archéologie algérienne en 1959", Lybica, arch., épigr., t.8, 2ème sem. 1960, pp.27-50. [(hathitrust)](https://catalog.hathitrust.org/Record/008568139)
-
-* V. Waille, "Fouilles de Cherchel (1902-1903)", R. Af., t.47, 1903, p.102. [(worldcat)](http://www.worldcat.org/oclc/690766053)
-
 * Ballu, A., Rapport...en 1921, Alger 1922, p. 9. Rapport... en 1922, Alger 1923, p.7. Rapport... en 1923, Alger 1923, p.8. Raport ... en 1923, Alger 1924, p.8-9. [(worldcat)](http://www.worldcat.org/oclc/876517484)
-
-* Ph. Leveau, "Les maisons nobles de Caesarea de Maurétanie", AntAfr.,  t.18, pp.118-21. [(worldcat)](http://www.worldcat.org/oclc/1014614344)
-
-* S. Ferdi, Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines, Paris, 2005, p. 77. [(worldcat)](http://www.worldcat.org/oclc/1006126274)
+* Ferdi, S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p. 77. [(worldcat)](http://www.worldcat.org/oclc/1006126274)
+* Lassus, J., "L'archéologie algérienne en 1959", in *Lybica*, arch., épigr., t.8, 2ème sem. 1960, pp.27-50. [(hathitrust)](https://catalog.hathitrust.org/Record/008568139)
+* Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie", in *Antiquités africaines*., t.18, pp.118-21. [(worldcat)](http://www.worldcat.org/oclc/1014614344)
+* Waille, v, "Fouilles de Cherchel (1902-1903)", in *Revue Africaine*, t.47, 1903, p.102. [(worldcat)](http://www.worldcat.org/oclc/690766053)
 
 #### Pleiades ID
 

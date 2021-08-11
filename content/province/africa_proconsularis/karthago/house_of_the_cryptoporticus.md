@@ -10,6 +10,10 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tag:
+  - "domus"
+  - "peristyle houses"
+  - "oeci"
 ---
 
 ## Province
@@ -47,15 +51,15 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Cryptoporticus (Maison du Cryptoportique)
 
 ### Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462)
+
 
 ### Garden Description
  The house of the Cryptoporticus occupies the hill of the Odeon on the insula that is located between the decumani N IV and V and the kardines E IX and X.
 
- The house is organized around a peristyle garden with a grand oecus of 200m2 paved with opus sectile opening into it (Plan view, Fig. 1). The house dates from the I-Vth c.
+ The house is organized around a peristyle garden (15,60 x 16,9 m) with a grand oecus of 200m² paved with opus sectile opening into it (Plan view, Fig. 1). The house dates from the I-Vth c.
 
 
 ### Maps
@@ -65,7 +69,7 @@ House of the Cryptoporticus (Maison du Cryptoportique)
 -->
 
 ### Plans
-{{< figure src="../images/House_of_the_cryptoportique.jpg" alt="Plan of the House of the Cryptoportique at Karthago; rights statement" title="Fig. 1: Plan of the House of the Cryptoportique. (Rights statement)" >}}
+{{< figure src="../images/House_of_the_cryptoportique1.jpg" alt="Plan of the House of the Cryptoportique at Karthago; Catherine Balmelle et al., 2012" title="Fig. 1: Plan of the House of the Cryptoportique. (Catherine Balmelle et al., 2012, fig. 271)" >}}
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
@@ -73,15 +77,17 @@ House of the Cryptoporticus (Maison du Cryptoportique)
 
 ### Images
 
-{{< figure src="../images/House_of_the_Cryptoportique_vue.jpg" alt="Photo of the House of the Cryptoportique at Karthago; rights statement" title="Fig. 1: Photo of the House of the Cryptoportique. (Rights statement)" >}}
+{{< figure src="../images/House_of_the_Cryptoportique_vue.jpg" alt="Photo of the House of the Cryptoportique at Karthago; rights statement" title="Fig. 2: Photo of the House of the Cryptoportique. (photo by J.-B. Bellon)" >}}
 
 ### Dates
-The house dates from the I-Vth c.
+1st-5th century CE
 
 ### Bibliography
-* Catherine Balmelle et al., *Carthage, Colline de l’Odéon. Maisons de la Rotonde et du Cryptoportique (Recherches 1987-2000).* Volume 1. *L’architecture et son décor.* Volume 2. *Les données de fouilles.* Rome, École française, 2012 (Collection de l’École Française de Rome, 457) [(worldcat)](http://www.worldcat.org/oclc/843086541)
-* Collective publication (CTEMA, Tunis and CNRS,URA 375,1, Paris), Recherches sur les pavements de la "maison du cryptoportique" à Carthage, 113e Conrgrés National des Sociétés savantes, Strasbourg 1988, IV Colloqsue sur l'histoire et l'archéologie de l'Afrique du Nord, t..I, p 157-173.
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.132-134. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Catherine Balmelle et al., *Carthage, Colline de l’Odéon. Maisons de la Rotonde et du Cryptoportique (Recherches 1987-2000).* Volume 1. *L’architecture et son décor.* Volume 2. *Les données de fouilles.* Rome, École française, 2012 (Collection de l’École Française de Rome, 457), p. 228, fig.271. [(worldcat)](http://www.worldcat.org/oclc/843086541)
+<!--
+* Collective publication (CTEMA, Tunis and CNRS,URA 375,1, Paris), Recherches sur les pavements de la "maison du cryptoportique" à Carthage, 113e Conrgrés National des Sociétés savantes, Strasbourg 1988, IV Colloqsue sur l'histoire et l'archéologie de l'Afrique du Nord, t..I, p 157-173.
+-->
 
 
 <!--#### Periodo ID-->

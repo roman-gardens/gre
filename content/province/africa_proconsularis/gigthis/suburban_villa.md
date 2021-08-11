@@ -10,6 +10,10 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tag:
+  - "villa garden"
+  - "inscription"
+  - "courtyards"
 ---
 
 ## Province
@@ -17,7 +21,7 @@ categories:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
 
@@ -42,10 +46,15 @@ A sublocation is any area larger than an individual garden, but located within a
 Suburban Villa
 
 ### Keywords
+- [villa garden](#)
+- [inscription](#)
+- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+
 <!-- [urban villas](#) -->
 
 ### Garden Description
 On the other side of the fortified enceinte, one hundred and fifty kilometers south was a large building that belonged to an architect according to an inscription found near the peristyle.
+
 This huge suburban villa incompletely excavated, was laid out around two peristyles (Plan view, Fig. 1).
 
 A large peristyle of twenty columns onto which rooms opened may have had a garden.
@@ -61,7 +70,8 @@ On the south of the peristyle was another courtyard with a portico of three colu
 -->
 
 ### Plans
-Fig. 1: Plan of the villa
+{{< figure src="../images/suburban_villa.jpg" alt="Plan of then city and its suburbs; rights statement" title="Fig. 1: Plan of then city and its suburbs (Constans, L.-A., 1916, pl. I)" >}}
+
 
 <!--{{< figure src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
 
@@ -75,7 +85,8 @@ Fig. 1: Plan of the villa
 unknown
 
 ### Bibliography
--  L.A Constans, Gigthis, *NouvArch* ,1916, pp. 99-104. [(worldcat)](({{<relref ".">}})
+- Constans, L.-A., "Gigthis. Étude d'Histoire et d'Archéologie sur un Emporium de la Petite Syrte: avec 14 planches hors texte et 3 figures dans le texte", in *Extrait des Nouvelles Archives des Missions Scientifiques. 14° fasc*, pl.I, pp.100-103, Paris: Imprimerie Nationale, 1916.[(worldcat)](http://www.worldcat.org/oclc/8271308381) https://gallica.bnf.fr/ark:/12148/bpt6k74033b/f119.item.r=constans
+
 
 
 <!--#### Periodo ID-->
@@ -94,5 +105,3 @@ unknown
 ### Publication date
 
 21 Apr 2021
-
-### Related articles

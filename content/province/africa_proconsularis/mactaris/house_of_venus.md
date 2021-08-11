@@ -10,6 +10,10 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tag:
+  - "domus"
+  - "peristyle houses"
+  - "semicircular basin"
 ---
 
 ## Province
@@ -47,14 +51,13 @@ A sublocation is any area larger than an individual garden, but located within a
 House of Venus (Maison de Venus)
 
 ### Keywords
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [pool](#)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [semicircular basin](#)
 
 
 ### Garden Description
- This richly decorated house is located to the east of the forum. A portico on four sides enclosed a court (ca 6.6x11.5m) that may have been planted in the early period of the house (Plan view, Fig.1, 2). An *oecus-triclinium* with the famous fish mosaics opened off the north side of the portico. A large rectangular basin (4.67x2.93 m) oriented northeast-southwest was placed on the axis of the *triclinium*, which opened on the north side of the portico. A semicircular basin was attached to the large basin on the side facing the *triclinium*, but the two basins do not appear to be connected. Both basins were built above ground. The base of the large basin was found *in situ*; the sides consisted of six monolithic pillars (5 of which were found), into which were fitted six limestone plaques (only one was found) 1.63m high, and carved with trellis designs.
+ This richly decorated house is located to the east of the forum. A portico on four sides enclosed a court (ca 6.6x11.5m) that may have been planted in the early period of the house (Plan view, Fig.1). An *oecus-triclinium* with the famous fish mosaics opened off the north side of the portico. A large rectangular basin (4.67x2.93 m) oriented northeast-southwest was placed on the axis of the *triclinium*, which opened on the north side of the portico. A semicircular basin was attached to the large basin on the side facing the *triclinium*, but the two basins do not appear to be connected. Both basins were built above ground. The base of the large basin was found *in situ*; the sides consisted of six monolithic pillars (5 of which were found), into which were fitted six limestone plaques (only one was found) 1.63m high, and carved with trellis designs.
 
 ### Maps
 
@@ -63,7 +66,7 @@ House of Venus (Maison de Venus)
 -->
 
 ### Plans
-{{< figure src="../images/AFR_Mac_Hv_WJashemskifig1.jpg" alt="Plan of the House of Venus at Mactaris; rights statement" title="Fig. 1: Plan of the House of Venus. (Rights statement)" >}}
+{{< figure src="../images/AFR_Mac_Hv_WJashemskifig4.jpg" alt="Plan of the House of Venus at Mactaris; Picard, G. Ch., Bourgeois, A., 1977, pp. 213-220" title="Fig. 1: Plan of the House of Venus. (Picard, G. Ch., Bourgeois, A., 1977, Plan. I)" >}}
 
 
 
@@ -75,11 +78,12 @@ House of Venus (Maison de Venus)
 
 
 ### Dates
-Unspecified
+2nd-3rd century CE
 
 ### Bibliography
-* G. Ch. Picard, A. Bourgeois, “La Maison de Vénus.”, *Recherches Archéologiques Franco-Tunisiennes à Mactar, Sratigraphie et étude des pavements*, I, 1977, EFR, Rome, p. 213-220. [(worldcat)](http://www.worldcat.org/oclc/605049018)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 171-173. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Picard, G. Ch., Bourgeois, A., “La Maison de Vénus.”, in *Recherches Archéologiques Franco-Tunisiennes à Mactar, Sratigraphie et étude des pavements*, I, 1977, EFR, Rome, pp. 213-220, Plan I. [(worldcat)](http://www.worldcat.org/oclc/605049018)
+
 
 
 <!--#### Periodo ID-->

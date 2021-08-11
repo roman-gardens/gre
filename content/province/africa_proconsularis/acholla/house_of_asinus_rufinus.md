@@ -57,7 +57,7 @@ House of Asinius Rufinus (Maison d'Asinius Rufinus)
 
 ### Garden Description
 The house of *Asinius Rufinus* (Approx.
-835 m2) is located in the center of the city.  Towards the south its façade extends along an open area partially excavated and is interpreted as the possible forum of the city.  The house contains a mosaic pavement of Hercules and an inscription located in the main entrance hall with the honorific cursus of M. *Asinius Rufinus*, who was consul between 184 and 185. *Rufinus* most likely changed the older house (from Tiberian times) to this new one opened towards the South.  Therefore the data attributed to this phase of the house comes from the second half of the II century AD, during the reign of Commodus.
+835 m²) is located in the center of the city.  Towards the south its façade extends along an open area partially excavated and is interpreted as the possible forum of the city.  The house contains a mosaic pavement of Hercules and an inscription located in the main entrance hall with the honorific cursus of M. *Asinius Rufinus*, who was consul between 184 and 185. *Rufinus* most likely changed the older house (from Tiberian times) to this new one opened towards the South.  Therefore the data attributed to this phase of the house comes from the second half of the II century AD, during the reign of Commodus.
 
 The house’s incomplete excavation (Plan view, Fig. 1) includes a small entrance and several shops opening onto a non-excavated street oriented towards the North.  The various rooms of the house were laid out around a complete peristyle: the *triclinium* and two apartments in the south, an apartment on the east, two unpaved spaces on the north and a *lararium* (XIX) on the northwest.  A staircase indicates that the house had an upper level.
 
@@ -73,7 +73,7 @@ Adjacent to the east apartment is a light well with an earthen floor, which can 
 -->
 
 ### Plans
-{{< figure src="../images/House_of_Asinius_Rufinus_Acholla1.jpg" alt="Plan of the House of Asinius Rufinus at acholla; rights statement" title="Plan: Plan of the House of Asinius Rufinus (Acholla, Et alii, PL. II)" >}}
+{{< figure src="../images/House_of_Asinius_Rufinus_Acholla1.jpg" alt="Plan of the House of Asinius Rufinus at acholla; rights statement" title="Fig. 1: Plan of the House of Asinius Rufinus (Acholla, Et alii, PL. II)" >}}
 
 ### Images
 
@@ -82,7 +82,7 @@ Adjacent to the east apartment is a light well with an earthen floor, which can 
 -->
 
 ### Dates
-The second half of the II century AD.
+mid 2nd century CE
 
 ### Bibliography
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 12-14. [(worldcat)](http://www.worldcat.org/oclc/989088620)
@@ -106,6 +106,7 @@ The second half of the II century AD.
 ### Publication date
 
 21 Apr 2021
-
+<!--
 ### Related articles
 [House of the Triumph of Neptune (Maison du Triomphe de Neptune)]({{<relref "house_of_the_triumph_of_neptune.md">}})
+-->

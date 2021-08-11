@@ -10,6 +10,10 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tag:
+  - "domus"
+  - "peristyle houses"
+  - "niches"
 ---
 
 ## Province
@@ -23,6 +27,8 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 [Hadrumetum (Sousse)]({{<relref ".">}}) \
 [Hadrumetum (Pleiades)](https://pleiades.stoa.org/places/324716)
+
+{{< figure src="../images/hadrumetum_city_plan.jpg" alt="Plan of Hadrumetum; rights statement" title="Fig. 1: Plan of Hadrumetum (Ghaddhab, R., 2016, P.182)" >}}
 
 ### Location Description
 Hadrumetum is located on the bay of Hammamet at the edge of the fertile region of Sahel from which it drew its wealth.  Choosing the side of Rome against Carthage during the Punic war, Hadrumetum was rewarded with the status of free town. Taking the side of Pompey, the city was heavily fined by Caesar after his victory at Thapsus. Nevertheless, the opulence of its houses adorned with luxurious mosaics testifies that the city experienced great economic development after its elevation to the status of colony, under Trajan.
@@ -42,15 +48,17 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Ostriches (Maison des Autruches)
 
 ### Keywords
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [niches](http://vocab.getty.edu/page/aat/300002704)
 <!-- [urban villas](#) -->
 
 ### Garden Description
-In this incomplete house, the peristyle-garden was bounded by a low wall that curved to make six semi-circular niches facing the galleries of the peristyle (Plan view, Fig. 1). The two niches located on the East-West axis of the triclinium are wider with the one facing the triclinium containing a basin with a marine mosaic.
-
+In this incomplete house, the peristyle-garden was bounded by a low wall that curved to make six semi-circular niches facing the galleries of the peristyle (Plan view, Fig. 1). The two niches located on the East-West axis of the *triclinium* are wider with the one facing the *triclinium* containing a basin with a marine mosaic. The house is dated to the II c.
 
 
 ### Maps
-{{< figure src="../images/map_of_hadrementum.jpg" alt="Map of Hadrementum at hadrumetum; rights statement" title="Map: Map of Hadrementum. 1. House of Sorothus, 2. House of the arsenal and House of Vergil, 3. House of the masks, 4. House of the ostriches, 5. Balzan house, 6. House of the satyrs and of the Bacchae, 7. House at the catacomb of the Good Shepherd. (North is at the top; there is no scale.) Adapted from Amplissimae. (Rights statement)" >}}
+
 
 ### Plans
 Fig. 1: Plan of the House of the Ostriches <!--(VER is sending image)-->
@@ -67,7 +75,10 @@ Fig. 1: Plan of the House of the Ostriches <!--(VER is sending image)-->
 The house is dated to the II c.
 
 ### Bibliography
--  L. Foucher, *"Venationes à Hadrumete",* in OMRL, XLV, 87-114; Amplissimae, p.106-107.  [(worldcat)](http://www.worldcat.org/oclc/68004816)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 106-107. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+- Foucher, L., "Venationes à Hadrumete", in *OMRL*, XLV, pp. 87-114. [(worldcat)](http://www.worldcat.org/oclc/68004816)
+- Ghaddhab, R., "Y avait-il un port à Hadrumetum dans l’antiquité tardive?", in *Revue des etudes anciennes*, 2016, Bordeaux, France: Feret & Fils, pp. 175-199. https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf
+
 
 
 <!--#### Periodo ID-->
