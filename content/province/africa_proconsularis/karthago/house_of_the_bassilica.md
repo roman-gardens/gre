@@ -10,6 +10,10 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tag:
+  - "domus"
+  - "peristyle houses"
+  - "exedrae (site elements)"
 ---
 
 ## Province
@@ -47,19 +51,14 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Bassilica (Maison de la Bassilica)
 
 ### Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [alleys (streets)](http://vocab.getty.edu/page/aat/300008248)
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-
 
 ### Garden Description
  The house was located in the *insula* delimited by the Decumani North V-VI and the Kardines East VIII-IX and neighboring to the North West the Villa of the Aviary. Unfortunately, the house was badly preserved when Gauckler the excavator discovered it (Plan view, Fig. 1). The peristyle was bounded by four porticoes, which were supported by twelve columns. The courtyard had a central alley that was limited on its two sides by colonnaded low walls that formed a circular exedra on one side and a rectangular exedra on the opposite side facing each other. P. Gauckler mentions that the exedrae were paved with mosaic figures of seashore landscapes, as well as the West portico that welcomed the visitor just after the vestibule. Only small fragments of the mosaics have survived. The central alley of the courtyard was on axis with the *oecus*.
 
- 1-	The North and the East portico lead to an open area that Gauckler identifies as a garden of at least 250m2. The house dates from the IVth. c.
-
-
+ The North and the East portico lead to an open area that Gauckler identifies as a garden of at least 250m². The house dates from the IVth. c.
 
 ### Maps
 
@@ -68,7 +67,7 @@ House of the Bassilica (Maison de la Bassilica)
 -->
 
 ### Plans
-{{< figure src="../images/AFR_Car_Hb_Amalek.jpg" alt="Plan of the House of the Bassilica at Karthago; rights statement" title="Fig. 1: Plan of the House of the Bassilica. (Rights statement)" >}}
+{{< figure src="../images/AFR_Car_Hb_Amalek1.jpg" alt="Plan of the House of the Bassilica at Karthago; Gauckler, P., 1904, pp. 16-17" title="Fig. 1: Plan of the House of the Bassilica. (Gauckler, P., 1904, pp. 16-17)" >}}
 
 <!-- the north arrow in the figure appears to be incorrect -- based on the satellite imagery, the arrow seems to point west, not north -- Keith -->
 
@@ -83,12 +82,12 @@ House of the Bassilica (Maison de la Bassilica)
 -->
 
 ### Dates
-The house dates from the IVth. c.
+4th century CE
 
 ### Bibliography
-* P. Gauckler, Marche du service en 1903, Tunis, p. 16-17 [(worldcat)](http://www.worldcat.org/oclc/493647265)
-* W. Ben Osman, Catalogue des mosaïques de Carthage, Musée du Bardo, Musée des Thermes d'Antonin; quartier de Dermech, quartier de l'Odéon., p. 577-587. [(worldcat)](http://www.worldcat.org/oclc/489766044)
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.123-124. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Ben Osman, W., *Catalogue des mosaïques de Carthage, Musée du Bardo, Musée des Thermes d'Antonin; quartier de Dermech, quartier de l'Odéon.*, Lieu de publication inconnu: Éditeur inconnu, 1980, pp. 577-587. [(worldcat)](http://www.worldcat.org/oclc/489766044)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.123-124. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Gauckler, P., *Compte rendu de la marche du service en 1903*, Tunis, 1904, pp. 16-17. [(worldcat)](http://www.worldcat.org/oclc/493647265)
 
 
 <!--#### Periodo ID-->

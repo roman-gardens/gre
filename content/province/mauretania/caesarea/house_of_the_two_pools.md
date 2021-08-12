@@ -44,9 +44,11 @@ House of the Two Pools (Maison aux Deux Bassins)
 ### Keywords
 
 - [domus](http://vocab.getty.edu/page/aat/300005506)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [fountain]
+- [Neptune]
+- [Ulysses]
+- [Mermaids]
 
 ### Garden Description
 
@@ -55,20 +57,26 @@ There is very little information about this house, only two semi circular pools 
 ### Plans
 
 ### Images
+{{< figure src="../images/house_of_the_two_pools.jpg" alt="One is fountain pool of the Ulysses and the Mermaids, the other is fountain of the Neptune" title="Fig. 1: One is fountain pool of the Ulysses and the Mermaids, the other is fountain of the Neptune (Ferdi, S., 2005, Djilali K.)">}}
 
 ### Dates
+4th century
 
 #### Excavation Dates
 
 ### Bibliography
 
-* F. Cumont, "La mosaïque de Cherchel figurant Ulysse et les sirènes", Comptes rendus de l'Académie des Inscriptions et des Belles-Lettres, 1941, p. 103-109. [(worldcat)](http://www.worldcat.org/oclc/492540938)
+* Cumont, F., "La mosaïque de Cherchel figurant Ulysse et les sirènes", in *Comptes rendus de l'Académie des Inscriptions et des Belles-Lettres*, 1941, p. 103-109. [(worldcat)](http://www.worldcat.org/oclc/492540938)
 
-* S. Ferdi and M. Blanchard-Lemée, Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines, Paris, 2005, p.149. [(worldcat)](http://www.worldcat.org/oclc/1006126274)
+* Ferdi, S., *Mosaïques romano-Africaines: Culture et nature à Cherchel*, Blida : Éd. du Tell, 2005。
 
-* Leveau,  Ph., "Les maisons nobles de Caesarea de Maurétanie", AntAfr., t.18, p.142. [(worldcat)](http://www.worldcat.org/oclc/4797426670)
+* Ferdi S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p.149. [(worldcat)](http://www.worldcat.org/oclc/1006126274)
 
-* H. Stern, "Fontaine de Neptune au musée de Cherchel (Algérie)", Ant. Afr., t.15; 1980, p.285-302. [(worldcat)](http://www.worldcat.org/oclc/4797177108)
+* Leveau,  Ph., "Les maisons nobles de Caesarea de Maurétanie", in *Antiquités africaines*, t.18, p.142. [(worldcat)](http://www.worldcat.org/oclc/4797426670)
+
+* Stern, H., "Fontaine de Neptune au musée de Cherchel (Algérie)", in *Antiquités africaines*, t.15; 1980, p.285-302. [(worldcat)](http://www.worldcat.org/oclc/4797177108)
+
+*  Malek, A.-A., "Le jardin au fil de l’eau : mises en scène paysagères dans les domus de Maghreb antique" , in *L'eau dans les villes du Maghreb et leur territoire à l’époque romaine*, eds, V. Brouquier-Redd et F. Hurlet, Bordeaux, Ausonius, 2018, pp. 240-241.
 
 #### Pleiades ID
 

@@ -10,6 +10,16 @@ draft: true
 
 categories:
   - "Africa Proconsularis"
+tag:
+  - "domus"
+  - "peristyle houses"
+  - "oeci"
+  - "fountains"
+  - "semicircular basin"
+  - "pool"
+  - "water jets"
+  - "balustrades"
+  - "euripus"
 ---
 
 ## Province
@@ -17,7 +27,7 @@ categories:
 [Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
+The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
 
@@ -45,7 +55,15 @@ Asclepieia Building (Edifice des Asclepieia)
 
 ### Keywords
 <!-- [urban villas](#) -->
-
+- [domus](http://vocab.getty.edu/page/aat/300005506)
+- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
+- [oeci](http://vocab.getty.edu/page/aat/300080791)
+- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- [semicircular basin](#)
+- [pool](#)
+- [water jets](http://vocab.getty.edu/page/aat/300438513)
+- [balustrades](http://vocab.getty.edu/page/aat/300001989)
+- [euripus](#)
 
 ### Garden Description
 The Asklepeia monument, so-called from a mosaic inscription, is located to the northeast of the House of the Muses. (Plan view, Fig. 1)
@@ -57,7 +75,7 @@ During the first phase, in the beginning of the third century, the garden was bo
 
 During the second phase, in the mid third century, the garden was enclosed by a balustrade and several water features were added: two semi-circular basins (c, d) symmetrical in shape and size – with a rectangular shape on the outside and semi-circular on the inside, each facing a reception room (28, 16). A shallow round pool that had the shape of a daisy with 49 petals was placed inside the N square enclosure (h) from which water was jetting. The well was later filled with soil and not used.
 
-During this phase, a long rectangular basin was laid in front of the entrance of the house. The basin may have been bordered by a garden.
+During this phase, a long rectangular basin (*euripus*) was laid in front of the entrance of the house. The basin may have been bordered by a garden.
 
 During the third stage dated to the beginning of the second half of the fourth century, the water features were modified and a large basin was added. Niches were added inside the semi-circular basins. In the center of the garden, a rectangular basin (g) (6.20x4.20m) that protruded onto the square basin (h) and enclosed a small rectangular basin  (g) (0.15x0.15m) was added.
 
@@ -70,7 +88,7 @@ During the third stage dated to the beginning of the second half of the fourth c
 -->
 
 ### Plans
-{{< figure src="../images/Askleipeia_Building1.jpg" alt="Plan of the Asclepieia Building at althiburos; rights statement" title="Plan: Plan of the Asclepieia Building (Rights statement)" >}}
+{{< figure src="../images/Askleipeia_Building1.jpg" alt="Plan of the Asclepieia Building at althiburos; rights statement" title="Fig. 1: Plan of the Asclepieia Building (Rights statement)" >}}
 
 ### Images
 
@@ -82,7 +100,9 @@ During the third stage dated to the beginning of the second half of the fourth c
 NOT FOUND
 
 ### Bibliography
-- M. Ennaifer, *La cité d’Althiburos et l’édifice des Asclepeia*, Ministère des Affaires Culturelles, Tunis, 1976, pp. 71-152, plan III-IV, *Amplissimae*, p. 21-26.[(worldcat)](http://www.worldcat.org/oclc/463201619)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 21-26. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+- Ennaifer, M., *La cité d’Althiburos et l’édifice des Asclepeia*, Ministère des Affaires Culturelles, Tunis, 1976, pp. 71-152, plan III-IV. [(worldcat)](http://www.worldcat.org/oclc/963483765)
+
 
 <!--#### Periodo ID-->
 
@@ -101,6 +121,8 @@ NOT FOUND
 
 21 Apr 2021
 
+<!--
 ### Related articles
 [House of the Fishing Scene (Maison de la scène de pêche)]({{<relref "house_of_the_fishing_scene.md">}})
 [House of the Muses (Maison des Muses)]({{<relref "house_of_the_muses.md">}})
+-->
