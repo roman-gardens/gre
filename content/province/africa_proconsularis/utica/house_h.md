@@ -12,7 +12,7 @@ categories:
   - "Africa Proconsularis"
 tags:
  - "domus"
- - "peristyles houses"
+ - "peristyle houses"
  - "semicircular basin"
  - "mosaics (visual works)"
 ---

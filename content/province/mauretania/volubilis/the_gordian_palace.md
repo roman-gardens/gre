@@ -39,7 +39,7 @@ The Gordian Palace (Le palais dit de Gordien)
 
 ### Keywords
 
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [palaces](http://vocab.getty.edu/page/aat/300005734)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)

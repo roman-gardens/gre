@@ -13,9 +13,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "peristyle"
-  - "portico"
-  - "triclinium"
+  - "peristyles (Roman courtyards)"
+  - "porticoes"
+  - "triclinia (rooms)"
 ---
 
 ## Province
@@ -38,7 +38,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [peristyle](http://vocab.getty.edu/page/aat/300080971)
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [triclinium](http://vocab.getty.edu/page/aat/300142552)
 
 ### Garden Description

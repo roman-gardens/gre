@@ -13,8 +13,7 @@ categories:
 tags:
  - "atriums (Roman halls)"
  - "basins (vessels)"
- - "basins (vessels)"
- - "bathhouses (water recreation structures)"
+ - "balnea"
  - "courtyards"
  - "drains"
  - "gutters (building drainage components)"
@@ -57,7 +56,7 @@ Villa at Luna
 ### Keywords
 
 - [drains](http://vocab.getty.edu/page/aat/300052564)
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 - [water baths](http://vocab.getty.edu/page/aat/300248755)

@@ -37,7 +37,7 @@ The Villa of the Frescoes (La villa des Fresques)
 
 ### Keywords
 
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [domus](http://vocab.getty.edu/page/aat/300005506)

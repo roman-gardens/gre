@@ -12,7 +12,7 @@ draft: false
 categories:
   - "Italia"
 tags:
-- "triclinium"
+- "triclinia (rooms)"
 ---
 
 ## Province

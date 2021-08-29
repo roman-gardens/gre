@@ -45,7 +45,7 @@ Garden of the Domus Augustana, Palatine
 - [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
 - [planting bed](http://vocab.getty.edu/page/aat/300430426)
 - [pool (body of water)](http://vocab.getty.edu/page/aat/300008692)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [statue](http://vocab.getty.edu/page/aat/300047600)
 - [temple (building)](http://vocab.getty.edu/page/aat/300007595)
 - [terrace](http://vocab.getty.edu/page/aat/300004182)

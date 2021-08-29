@@ -46,7 +46,7 @@ House of the Silver Bust, La Vilasse Quarter
 
 
 ### Keywords
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)

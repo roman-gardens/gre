@@ -12,13 +12,13 @@ categories:
   - "Africa Proconsularis"
 
 tags:
- - "temple"
- - "sanctuary"
+ - "temples (buildings)"
+ - "sanctuaries (religious building spaces)"
  - "courtyards"
  - "planting bed"
  - "cella"
  - "ambulatio"
- - "altar"
+ - "altars (religious fixtures)"
 ---
 
 ## Province
@@ -46,13 +46,13 @@ The sanctuary of Minerva 2
 
 ### Keywords
 
-- [temple](#)
+- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 - [sanctuary](#)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [planting bed](http://vocab.getty.edu/page/aat/300430426)
 - [cella](#)
 - [ambulatio](#)
-- [altar](#)
+- [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
 
 ### Garden Description
 

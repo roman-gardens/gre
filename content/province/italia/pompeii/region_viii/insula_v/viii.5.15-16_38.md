@@ -12,10 +12,10 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "insula"
+  - "insulae"
   - "angiportus"
-  - "portico"
-  - "puteal"
+  - "porticoes"
+  - "puteals"
 
 
 ---
@@ -40,8 +40,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ### Keywords
  - [insula](http://vocab.getty.edu/page/aat/300000325)
  - [angiportus](http://vocab.getty.edu/page/aat/300008249)
- - [puteal](http://vocab.getty.edu/page/aat/300443458)
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [puteals](http://vocab.getty.edu/page/aat/300443458)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 
 

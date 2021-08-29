@@ -12,8 +12,8 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "tablinium"
-  - "portico"
+  - "tablina"
+  - "porticoes"
 ---
 
 ## Province
@@ -34,8 +34,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref ".">}})
 
 ### Keywords
- - [tablinium](http://vocab.getty.edu/page/aat/300004180)
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [tablina](http://vocab.getty.edu/page/aat/300004180)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description
 A. Past the tablinium of this house there was a garden (a) with a portico on the north and most of the west side.

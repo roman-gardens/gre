@@ -46,7 +46,7 @@ Baths of La Planchette
 
 
 ### Keywords
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
 - apsed pools
 

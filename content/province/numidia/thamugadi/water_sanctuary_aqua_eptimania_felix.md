@@ -13,10 +13,10 @@ categories:
 tags:
  - "mural paintings (visual works)"
  - "viridarium"
- - "temple"
- - "sanctuary"
- - "pool"
- - "inscription"
+ - "temples (buildings)"
+ - "sanctuaries (religious building spaces)"
+ - "pools (bodies of water)"
+ - "inscriptions"
 ---
 
 ## Province
@@ -60,7 +60,7 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 - [viridarium](#)
 - [temple](#)
 - [sanctuary](#)
-- [pool](#)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 - [inscription](#)
 
 ### Garden Description

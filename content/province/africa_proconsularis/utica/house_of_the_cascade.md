@@ -12,9 +12,9 @@ categories:
   - "Africa Proconsularis"
 tags:
  - "domus"
- - "peristyles houses"
+ - "peristyle houses"
  - "fountains"
- - "pool"
+ - "pools (bodies of water)"
  - "cascade"
 ---
 
@@ -57,7 +57,7 @@ House of the Cascade (Maison de la Cascade)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [pool](#)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 - [cascade](#)
 
 ### Garden Description

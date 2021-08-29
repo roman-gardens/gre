@@ -13,9 +13,9 @@ categories:
   - "Italia"
 
 tags:
-  - "atrium"
-  - "portico"
-  - "triclinium"
+  - "atriums (Roman halls)"
+  - "porticoes"
+  - "triclinia (rooms)"
 ---
 
 ## Province
@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [atrium](http://vocab.getty.edu/page/aat/300004097)
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [triclinium](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description

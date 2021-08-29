@@ -47,7 +47,7 @@ Garden of the Neronian Palace, Palatine
 - [pillar](http://vocab.getty.edu/page/aat/300264605)
 - [polychromy](http://vocab.getty.edu/page/aat/300247962)
 - [pool (body of water)](http://vocab.getty.edu/page/aat/300008692)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [scaenae](http://vocab.getty.edu/page/aat/300004681)
 - [terrace](http://vocab.getty.edu/page/aat/300004182)
 <!-- -->

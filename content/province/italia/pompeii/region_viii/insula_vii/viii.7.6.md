@@ -13,12 +13,12 @@ categories:
   - "Italia"
 
 tags:
-  - "portico"
-  - "triclinium"
+  - "porticoes"
+  - "triclinia (rooms)"
   - "opus signinum"
-  - "dolium"
-  - "lararium"  
-  - "pergola"
+  - "doliums"
+  - "lararia"  
+  - "pergolas"
 ---
 
 ## Province
@@ -39,7 +39,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VII]({{<relref ".">}})
 
 ### Keywords
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [triclinium](http://vocab.getty.edu/page/aat/300004359)
  - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
  - [dolium](http://vocab.getty.edu/page/aat/300400601)

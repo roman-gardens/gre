@@ -53,7 +53,7 @@ Villa of the Statue
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [water baths](http://vocab.getty.edu/page/aat/300248755)
 - [atrium houses](http://vocab.getty.edu/page/aat/300005451)
 - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)

@@ -13,7 +13,7 @@ categories:
 tag:
   - "domus"
   - "peristyle houses"
-  - "planter"
+  - "planters (containers)"
   - "oeci"
   - "cisterns (plumbing components)"
   - "semicircular basin"
@@ -57,7 +57,7 @@ Domus of the Sea Front (Villa du front de mer)
 ### Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [planter](#)
+- [planters (containers)](http://vocab.getty.edu/page/aat/300237566)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [semicircular basin](#)

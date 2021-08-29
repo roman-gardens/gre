@@ -38,8 +38,8 @@ VI
 Forum Baths
 
 ### Keywords
-- [palaestra]
-- [portico]
+- [palaestrae](http://vocab.getty.edu/page/aat/300007301)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 ---
 
 ### Garden Description

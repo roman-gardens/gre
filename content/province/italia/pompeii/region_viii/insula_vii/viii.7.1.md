@@ -13,7 +13,7 @@ categories:
   - "Italia"
 
 tags:
-  - "caupona"
+  - "cauponae"
   - "pomerium"
 ---
 

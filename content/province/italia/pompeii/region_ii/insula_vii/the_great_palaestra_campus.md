@@ -13,7 +13,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "palaestra"
+ - "palaestrae"
  - "porticoes"
 ---
 

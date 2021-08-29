@@ -48,7 +48,7 @@ Rural Villa in Oberentfelden
 ### Keywords
 
 - [archaeological garden](#)
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)

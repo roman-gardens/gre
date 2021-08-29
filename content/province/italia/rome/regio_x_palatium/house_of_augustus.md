@@ -41,7 +41,7 @@ Garden of the House of Augustus, Palatine
 - [mosaic (visual work)](http://vocab.getty.edu/page/aat/300015342)
 - [nymphaeum (garden structure)](http://vocab.getty.edu/page/aat/300006809)
 - [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [princep](https://www.britannica.com/topic/princeps)
 - [topiary](http://vocab.getty.edu/page/aat/300061887)
 - [triclinium (room)](http://vocab.getty.edu/page/aat/300004359)

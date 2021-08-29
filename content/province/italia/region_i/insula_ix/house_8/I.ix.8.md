@@ -45,7 +45,7 @@ I.ix.8
 
 - [archaeological garden](#)
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [puteal](#)
+- [puteals](#)
 
 ### Garden Description
 

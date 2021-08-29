@@ -42,7 +42,7 @@ Casa del Bicentenario
 - [porticoes]
 - [tablinia]
 - [dolia]
-- [puteal]
+- [puteals]
 
 ---
 

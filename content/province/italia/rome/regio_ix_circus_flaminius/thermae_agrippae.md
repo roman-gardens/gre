@@ -8,10 +8,9 @@ author: E.R. Macaulay and Beth Ryan
 editor: Joshua Rosenheim and Rhiannon Paré
 draft: false
 tags:
- - "bathhouses (water recreation structures)"
+ - "thermae"
  - "gymnasiums"
  - "horti"
- - "thermae"
 ---
 
 ## Province
@@ -39,7 +38,6 @@ Garden of the Thermae Agrippae \
 <!-- -->
 ### Keywords
 <!-- -->
-- [bathhouse (water recreation structure)](http://vocab.getty.edu/page/aat/300007347)
 - [canal (waterway)](http://vocab.getty.edu/page/aat/300006075)
 - [gymnasium](http://vocab.getty.edu/page/aat/300007297)
 - [hortus](http://vocab.getty.edu/page/aat/300008107)

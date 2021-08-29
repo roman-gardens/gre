@@ -20,7 +20,7 @@ tag:
   - "cascade"
   - "oeci"
   - "frons scaenae"
-  - "pool"
+  - "pools (bodies of water)"
 ---
 
 ## Province
@@ -66,7 +66,7 @@ House of the Aviary (Maison de la Volière)
 - [cascade](#)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
 - [frons scaenae](#)
-- [pool](#)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 
 ### Garden Description
  Located on a hill overlooking Carthage, the *house of the aviary* is divided into two parts: the unit centered on the peristyle in the west, and the ensemble with the reception room in the east (Plan view, Fig. 1).

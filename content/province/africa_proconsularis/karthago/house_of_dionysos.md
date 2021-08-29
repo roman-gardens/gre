@@ -13,8 +13,8 @@ categories:
 tag:
   - "domus"
   - "peristyle houses"
-  - "pool"
-  - "basin"
+  - "pools (bodies of water)"
+  - "basins (vessels)"
 ---
 
 ## Province
@@ -54,7 +54,7 @@ House of Dionysos
 ### Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [pool](#)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 - [basin](#)
 
 ### Garden Description

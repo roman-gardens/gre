@@ -12,8 +12,8 @@ draft: false
 categories:
   - "Italia"
 tags:
-- "caupona"
-- "pergola"
+- "cauponae"
+- "pergolas"
 
 ---
 

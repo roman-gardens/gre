@@ -12,10 +12,10 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "atrium"
-  - "tablinium"
-  - "peristyle"
-  - "portico"
+  - "atriums (Roman halls)"
+  - "tablina"
+  - "peristyles (Roman courtyards)"
+  - "porticoes"
 
 ---
 
@@ -38,9 +38,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [atrium](http://vocab.getty.edu/page/aat/300004097)
- - [tablinium](http://vocab.getty.edu/page/aat/300004180)
+ - [tablina](http://vocab.getty.edu/page/aat/300004180)
  - [peristyle](http://vocab.getty.edu/page/aat/300080971)
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description
 Three wide doorways led from the atrium of this house, which did not have a tablinium, to the peristyle of this large garden (a). Nine fluted columns supported the portico which bordered the garden on the east, north and part of the west with a gutter on these same sides. Holes in the columns 0.97 and 0.52 m. from the floor remained where a fence had once been attached.

@@ -12,13 +12,13 @@ draft: false
 categories:
   - "Italia"
 tags:
-- "aedicula"
-- "atrium"
+- "aedicules"
+- "atriums (Roman halls)"
 - "podium"
-- "herm"
-- "statuette"
+- "herms"
+- "statuettes"
 - "thymiaterion"
-- "candelabrum"
+- "candelabras (candleholders)"
 
 ---
 
@@ -40,11 +40,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref ".">}})
 
 ### Keywords
- - [aedicula](http://vocab.getty.edu/page/aat/300002574)
+ - [aedicules](http://vocab.getty.edu/page/aat/300002574)
  - [atrium](http://vocab.getty.edu/page/aat/300004097)
  - [podium](http://vocab.getty.edu/page/aat/300000976)
  - [herm](http://vocab.getty.edu/page/aat/300047170)
- - [statuette](http://vocab.getty.edu/page/aat/300312262)
+ - [statuettes](http://vocab.getty.edu/page/aat/300312262)
  - [thymiaterion](http://vocab.getty.edu/page/aat/300265006)
  - [candelabrum](http://vocab.getty.edu/page/aat/300265618)
 

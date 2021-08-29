@@ -12,9 +12,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "atrium"
-  - "peristyles"
-  - "portico"
+  - "atriums (Roman halls)"
+  - "peristyles (Roman courtyards)"
+  - "porticoes"
 ---
 
 ## Province
@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ### Keywords
  - [atrium](http://vocab.getty.edu/page/aat/300004097)
  - [peristyles](http://vocab.getty.edu/page/aat/300080971)
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 
 ### Garden Description

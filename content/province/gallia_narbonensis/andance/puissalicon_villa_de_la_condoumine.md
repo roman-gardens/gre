@@ -47,7 +47,7 @@ Puissalicon, villa de la Condoumine
 
 ### Keywords
 
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [opus spicatum]
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [opus signinum](http://vocab.getty.edu/page/aat/300379969)

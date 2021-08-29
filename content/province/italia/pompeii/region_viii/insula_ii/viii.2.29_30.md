@@ -13,7 +13,7 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "portico"
+  - "porticoes"
 ---
 
 ## Province
@@ -34,7 +34,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref ".">}})
 
 ### Keywords
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description
 There was a narrow portico on the eastern lower level of this double house 2.20 m. wide with columns connected by a wooden fence. Several steps lower the construction of a supporting wall on the lava ledge allowed room for a small garden (a) with a pool in the center. The house on the west had a terrace at this level which may have contained potted plants. A splendid view of the Bay and the mountains was offered from two wide terraces on the street level to the back of these houses, and these may have been used as roof gardens.
