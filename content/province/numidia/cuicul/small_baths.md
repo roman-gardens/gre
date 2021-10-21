@@ -14,7 +14,7 @@ tags:
  - "mosaics (visual works)"
  - "pergolas"
  - "piscinae"
- - "basin"
+ - "basins (vessels)"
  - "sculpture"
  - "diaeta"
  - "venus"

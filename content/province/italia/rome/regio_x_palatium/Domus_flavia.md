@@ -42,7 +42,7 @@ Upper Peristyle and Nymphaea of the Domus Flavia, Palatine
 - [nymphaeum (garden structure)](http://vocab.getty.edu/page/aat/300006809)
 - [palace](http://vocab.getty.edu/page/aat/300005734)
 - [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [statue](http://vocab.getty.edu/page/aat/300047600)
 - [triclinium (room)](http://vocab.getty.edu/page/aat/300004359)
 - [villa urbana](http://vocab.getty.edu/page/aat/300005520)

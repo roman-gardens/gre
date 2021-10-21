@@ -16,7 +16,7 @@ tag:
   - "oeci"
   - "fountains"
   - "semicircular basin"
-  - "pool"
+  - "pools (bodies of water)"
   - "water jets"
   - "balustrades"
   - "euripus"
@@ -60,7 +60,7 @@ Asclepieia Building (Edifice des Asclepieia)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [semicircular basin](#)
-- [pool](#)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 - [water jets](http://vocab.getty.edu/page/aat/300438513)
 - [balustrades](http://vocab.getty.edu/page/aat/300001989)
 - [euripus](#)

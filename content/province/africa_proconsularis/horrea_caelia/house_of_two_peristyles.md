@@ -14,8 +14,8 @@ tag:
   - "domus"
   - "peristyle houses"
   - "church buildings by function"
-  - "basin"
-  - "bath"
+  - "basins (vessels)"
+  - "balnea"
 ---
 
 ## Province
@@ -55,8 +55,8 @@ House of two peristyles (Maison aux deux péristyles)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [church buildings by function](http://vocab.getty.edu/page/aat/300007492)
-- [basin](#)
-- [bath](#)
+- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 
 ### Garden Description
  This large house (850 to 900m²) was built on the sea front and was laid out around a peristyle garden. The eastern part of the *domus* was destroyed by the sea; the western portico is complete, only a part of the north and south porticoes of the peristyle have survived. The peristyle was approximately 200 m² and its porticoes were separated from the garden by a low wall to which a basin was later added.

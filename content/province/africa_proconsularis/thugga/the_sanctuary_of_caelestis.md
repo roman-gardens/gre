@@ -12,10 +12,10 @@ categories:
   - "Africa Proconsularis"
 
 tags:
- - "temples"
- - "sanctuaries"
+ - "temples (buildings)"
+ - "sanctuaries (religious building spaces)"
  - "courtyards"
- - "altars"
+ - "altars (religious fixtures)"
 ---
 
 ## Province

@@ -13,7 +13,7 @@ categories:
 tags:
  - "domus"
  - "peristyle houses"
- - "basin"
+ - "basins (vessels)"
  - "oeci"
  - "vestibules"
  - "Corinthian columns"

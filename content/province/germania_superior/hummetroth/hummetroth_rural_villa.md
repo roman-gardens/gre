@@ -48,7 +48,7 @@ Rural Villa in Hummetroth
 ### Keywords
 
 - [apsed triclinium](#)
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [corridors](http://vocab.getty.edu/page/aat/300004294)
 - [hypocausts](http://vocab.getty.edu/page/aat/300004277)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)

@@ -12,15 +12,14 @@ categories:
   - "Numidia"
 tags:
  - "courtyards"
+ - "balnea"
  - "domus"
  - "exedrae (site elements)"
  - "mosaics (visual works)"
  - "peristyle houses"
  - "stairs"
  - "triclinia (rooms)"
- - "bath"
- - "basin"
- - "semicircular basin"
+ - "basins (vessels)"
 ---
 
 ## Province
@@ -59,9 +58,8 @@ House of Asinus Nica, Central District (Maison de l’Ane, quartier central)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [stairs](http://vocab.getty.edu/page/aat/300003228)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [bath](#)
-- [basin](#)
-- [semicircular basin](#)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
+- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 
 ### Garden Description
 

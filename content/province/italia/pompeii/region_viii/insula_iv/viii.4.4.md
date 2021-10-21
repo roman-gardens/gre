@@ -12,9 +12,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "portico"
-  - "exedra"
-  - "triclinium"
+  - "porticoes"
+  - "exedrae (site elements)"
+  - "triclinia (rooms)"
 ---
 
 ## Province
@@ -35,7 +35,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IV]({{<relref ".">}})
 
 ### Keywords
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [exedra](http://vocab.getty.edu/page/aat/300004014)
  - [triclinium](http://vocab.getty.edu/page/aat/300004359)
 

@@ -15,7 +15,7 @@ tags:
  - "cisterns (plumbing components)"
  - "lararia"
  - "sacella"
- - "statuettes (free-standing sculpture)"
+ - "statuettes"
  - "tufa"
 ---
 

@@ -46,7 +46,7 @@ House of the Grape Vine Harvesting and House of the Tennis Club (Maison des Vend
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [basin](#)
-- [pool](#)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 
 ### Garden Description
 

@@ -12,9 +12,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "tablinium"
-  - "puteal"
-  - "portico"
+  - "tablina"
+  - "puteals"
+  - "porticoes"
 
 ---
 
@@ -36,9 +36,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula V]({{<relref ".">}})
 
 ### Keywords
- - [tablinium](http://vocab.getty.edu/page/aat/300004180)
- - [puteal](http://vocab.getty.edu/page/aat/300443458)
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [tablina](http://vocab.getty.edu/page/aat/300004180)
+ - [puteals](http://vocab.getty.edu/page/aat/300443458)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 
 ### Garden Description

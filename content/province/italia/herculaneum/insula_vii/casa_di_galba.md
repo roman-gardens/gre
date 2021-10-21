@@ -15,7 +15,7 @@ tags:
  - "exedrae (site elements)"
  - "peristyle houses"
  - "porticoes"
- - "stuccoing"
+ - "stucco"
 ---
 
 ## Province

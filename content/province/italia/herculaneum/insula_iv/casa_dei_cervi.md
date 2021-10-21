@@ -39,12 +39,11 @@ Casa dei Cervi
 
 
 ### Keywords
-- [triclinium]
-- [oecus]
-- [portico]
-- [trapezophron]
-- [puteal]
-- [pergolas]
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- [oeci](http://vocab.getty.edu/page/aat/300080791)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- [puteals](http://vocab.getty.edu/page/aat/300443458)
+- [pergolas](http://vocab.getty.edu/page/aat/300006783)
 ---
 
 ### Garden Description

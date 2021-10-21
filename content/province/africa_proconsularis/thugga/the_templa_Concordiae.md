@@ -12,8 +12,8 @@ categories:
   - "Africa Proconsularis"
 
 tags:
- - "temple"
- - "sanctuary"
+ - "temples (buildings)"
+ - "sanctuaries (religious building spaces)"
  - "courtyards"
  - "cella"
 ---
@@ -50,7 +50,7 @@ Sanctuary B, the templa Concordiae
 
 ### Garden Description
 
-Sanctuary B, the *templa Concordiae* (117-138 CE), is a monument from the time of Hadrian dedicated to several deities, four of whom are known from the texts: Concordia, *Frugifer*, Liber Pater and Neptune (Figure 7). The complex is distinguished from the other cult complexes of the city by the integration of a sacred theater.
+Sanctuary B, the *templa Concordiae* (117-138 CE), is a monument from the time of Hadrian dedicated to several deities, four of whom are known from the texts: Concordia, *Frugifer*, Liber Pater and Neptune. The complex is distinguished from the other cult complexes of the city by the integration of a sacred theater.
 The sanctuary comprises a courtyard surrounded by a quadriportico on which five *cellae* opened to the northwest. The largest and most elaborate, that dedicated to Concord, is located on the axis of the building and its extension in the theater below. This axiality is expressed by a central aisle that leads from the western portico to the altar located in the center of the courtyard. The area was not paved; one can imagine that it was planted as a garden whose vegetation formed a green setting around the altar.
 
 

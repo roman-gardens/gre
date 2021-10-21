@@ -20,7 +20,7 @@ tags:
 - "horticultural containers"
 - "pergolas"
 - "terrace gardens"
-- "water features"
+- "water features (landscaping)"
 ---
 
 ## Province

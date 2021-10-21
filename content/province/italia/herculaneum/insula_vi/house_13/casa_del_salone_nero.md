@@ -13,7 +13,7 @@ categories:
   - "Italia"
 tags:
  - "porticoes"
- - "tablinium"
+ - "tablina"
 ---
 
 ## Province
@@ -43,7 +43,7 @@ Casa del Salone Nero
 
 ### Keywords
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
- - [tablinium](http://vocab.getty.edu/page/aat/300004180)
+ - [tablina](http://vocab.getty.edu/page/aat/300004180)
 
 
 ### Garden Description

@@ -45,7 +45,7 @@ Rustic villa at Rheinbach-Flerzheim
 
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 - [hedges](http://vocab.getty.edu/page/aat/300266413)
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
 - [piscinae]( http://vocab.getty.edu/page/aat/300375619)
 

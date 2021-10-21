@@ -46,7 +46,7 @@ Garden of the Divorum
 - [column (architectural element)](http://vocab.getty.edu/page/aat/300001571)
 - [exedra (site element)](http://vocab.getty.edu/page/aat/300081589)
 - [pool](http://vocab.getty.edu/page/aat/300008692)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [temple (building)](http://vocab.getty.edu/page/aat/300007595)
 - [triumphal arch](http://vocab.getty.edu/page/aat/300007003)
 <!-- -->

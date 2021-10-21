@@ -12,7 +12,7 @@ categories:
   - "Africa Proconsularis"
 tag:
   - "villa garden"
-  - "inscription"
+  - "inscriptions"
   - "courtyards"
 ---
 

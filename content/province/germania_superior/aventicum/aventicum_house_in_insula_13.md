@@ -48,7 +48,7 @@ House in Insula 13 in Aventicum
 ### Keywords
 
 - [archaeological garden](#)
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [corridors](http://vocab.getty.edu/page/aat/300004294)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [garden pavilions](http://vocab.getty.edu/page/aat/300006819)

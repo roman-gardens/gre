@@ -15,8 +15,8 @@ tags:
  - "mosaics (visual works)"
  - "peristyle houses"
  - "semicircular basin"
- - "pool"
- - "fish pool"
+ - "pools (bodies of water)"
+ - "fishponds"
  - "oeci"
 ---
 
@@ -49,7 +49,7 @@ House of the Protomes (Maison des Protomés)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [semicircular basin](#)
-- [pool](#)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 - [fish pool](#)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
 

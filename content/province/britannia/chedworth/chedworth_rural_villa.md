@@ -46,7 +46,7 @@ Rural Villa in Chedworth
 ### Keywords
 
 - [archaeological gardens](#)
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [bone (material)](http://vocab.getty.edu/page/aat/300011798)
 - [drains](http://vocab.getty.edu/page/aat/300052564)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)

@@ -12,9 +12,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "peristyle"
-  - "tablinium"
-  - "puteal"
+  - "peristyles (Roman courtyards)"
+  - "tablina"
+  - "puteals"
 
 ---
 
@@ -37,8 +37,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [peristyle](http://vocab.getty.edu/page/aat/300080971)
- - [tablinium](http://vocab.getty.edu/page/aat/300004180)
- - [puteal](http://vocab.getty.edu/page/aat/300443458)
+ - [tablina](http://vocab.getty.edu/page/aat/300004180)
+ - [puteals](http://vocab.getty.edu/page/aat/300443458)
 
 
 ### Garden Description

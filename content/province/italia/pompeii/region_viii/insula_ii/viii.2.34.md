@@ -13,7 +13,7 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "portico"
+  - "porticoes"
   - "crocodile"
   - "hippopotamus"
 ---
@@ -36,7 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref ".">}})
 
 ### Keywords
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [crocodile](http://vocab.getty.edu/page/aat/300250293)
  - [hippopotamus](http://vocab.getty.edu/page/aat/300310418)
 

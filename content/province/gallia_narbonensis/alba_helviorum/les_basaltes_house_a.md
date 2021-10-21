@@ -46,7 +46,7 @@ Les Basaltes, House A
 
 
 ### Keywords
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [domus](http://vocab.getty.edu/page/aat/300005506)

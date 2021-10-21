@@ -78,7 +78,7 @@ Bath Complex
 ### Keywords
 
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 
 ### Garden Description
 

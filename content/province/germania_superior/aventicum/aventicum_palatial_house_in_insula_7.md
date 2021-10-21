@@ -49,7 +49,7 @@ Palatial House in Insula 7 in Aventicum
 
 - [archaeological garden](#)
 - [axial plan](http://vocab.getty.edu/page/aat/300121971)
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [drains](http://vocab.getty.edu/page/aat/300052564)
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)

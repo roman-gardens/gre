@@ -13,7 +13,7 @@ categories:
   - "Italia"
 tags:
 - "masonry"
-- "aedicula"
+- "aedicules"
 
 ---
 
@@ -36,7 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [masonry](http://vocab.getty.edu/page/aat/300015332)
- - [aedicula](http://vocab.getty.edu/page/aat/300002574)
+ - [aedicules](http://vocab.getty.edu/page/aat/300002574)
 
 ### Garden Description
 This small house had a roofed passageway supported by one column that bordered the garden (a) on the south and east. A low masonry wall enclosed the garden on these same sides and the north wall had a small arched niche with an aedicula façade.

@@ -9,7 +9,7 @@ editor: Rhiannon Paré
 draft: false
 tags:
  - "arcades (structural assemblies)"
- - "bathhouses (water recreation structures)"
+ - "balnea"
  - "domus"
  - "fountains"
  - "pools (bodies of water)"
@@ -40,7 +40,7 @@ Garden of the Severan Complex, Palatine
 ### Keywords
 <!-- -->
 - [arcade (structural assemblies)](http://vocab.getty.edu/page/aat/300002580)
-- [bathhouse (water recreation structure)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [fountain](http://vocab.getty.edu/page/aat/300006179)
 - [pool (body of water)](http://vocab.getty.edu/page/aat/300008692)

@@ -13,7 +13,7 @@ categories:
 tag:
   - "domus"
   - "peristyle houses"
-  - "pool"
+  - "pools (bodies of water)"
   - "salsamenta"
   - "fish factory"
   - "semicircular basin"
@@ -55,7 +55,7 @@ House of the Salsamenta (Usine de salaison)
 ### Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [pool](#)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 - [salsamenta](#)
 - [fish factory](#)
 - [semicircular basin](#)

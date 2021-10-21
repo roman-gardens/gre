@@ -13,7 +13,7 @@ categories:
   - "Italia"
 tags:
  - "doliums"
- - "gutters"
+ - "gutters (building drainage components)"
  - "peristyles (Roman courtyards)"
  - "triclinia (rooms)"
 ---

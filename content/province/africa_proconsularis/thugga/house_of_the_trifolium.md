@@ -12,7 +12,7 @@ categories:
   - "Africa Proconsularis"
 tags:
  - "domus"
- - "peristyle house"
+ - "peristyles (Roman courtyards)"
  - "semicircular basin"
  - "oeci"
 ---

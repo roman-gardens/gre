@@ -14,8 +14,8 @@ tags:
  - "domus"
  - "peristyle houses"
  - "water wells"
- - "planter"
- - "herm-heads"
+ - "planters (containers)"
+ - "herms"
 ---
 
 ## Province
@@ -58,7 +58,7 @@ House of the Planters (Maison aux jardinières)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [water wells](http://vocab.getty.edu/page/aat/300152327)
-- [planter](#)
+- [planters (containers)](http://vocab.getty.edu/page/aat/300237566)
 - [herm-heads](#)
 
 ### Garden Description

@@ -45,7 +45,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [stucco](http://www.getty.edu/vow/AATFullDisplay?find=stucco&logic=AND&note=&english=N&prev_page=1&subjectid=300014966)
+- [stucco](http://vocab.getty.edu/page/aat/300014966)
 - [tablina](http://vocab.getty.edu/page/aat/300004180)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 

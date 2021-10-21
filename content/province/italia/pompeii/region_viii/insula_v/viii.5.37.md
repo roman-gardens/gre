@@ -12,9 +12,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "atrium"
-  - "tablinium"
-  - "portico"
+  - "atriums (Roman halls)"
+  - "tablina"
+  - "porticoes"
 
 ---
 
@@ -37,8 +37,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [atrium](http://vocab.getty.edu/page/aat/300004097)
- - [tablinium](http://vocab.getty.edu/page/aat/300004180)
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [tablina](http://vocab.getty.edu/page/aat/300004180)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description
 This house was excavated in 1882 to reveal a small garden (a) at the rear entered by passageways on either side of the tablinium. The portico on the east had one column and two engaged columns with a low wall that allowed entrance on the south end. Rooms on the west probably had a roof that extended over the very narrow passageway. A gutter surrounded the garden. The excavation yielded several sculptures in the garden area; a small crouching lion (0.245 m. long; Mus. Naz. inv. no. 120 057) and a head of a tiger (0.10 m. long; Mus. Naz. inv. no. 120 049), both fitted as fountain spouts; a marble fountain statuette of a dolphin (0.19 m. long; Mus. Naz. inv. no. 120 051) which was found in the atrium; a statuette of a young satyr missing arms and legs (0.315 m. high; Mus. Naz. inv. no. 120 048) with an iron pin on the right shoulder for a wall mount; the head of a herm (Mus. Naz. inv. no. 120 050).

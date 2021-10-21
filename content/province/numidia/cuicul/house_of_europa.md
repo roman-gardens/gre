@@ -11,14 +11,14 @@ draft: false
 categories:
   - "Numidia"
 tags:
- - "bath"
+ - "balnea"
  - "domus"
  - "mosaics (visual works)"
  - "peristyle houses"
  - "triclinia (rooms)"
- - "basin"
- - "planter"
- - "pool"
+ - "basins (vessels)"
+ - "planters (containers)"
+ - "pools (bodies of water)"
 ---
 
 ## Province
@@ -51,14 +51,14 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 House of Europa, Central District (Maison d'Europe, Quartier Central)
 
 ### Keywords
-- [bath](#)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [basin](#)
-- [planter](#)
-- [pool](#)
+- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- [planters (containers)](http://vocab.getty.edu/page/aat/300237566)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 
 ### Garden Description
 

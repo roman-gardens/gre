@@ -13,9 +13,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "triclinium"
-  - "portico"
-  - "cubiculium"
+  - "triclinia (rooms)"
+  - "porticoes"
+  - "cubicula (domestic spaces)"
 ---
 
 ## Province
@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [triclinium](http://vocab.getty.edu/page/aat/300142552)
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [cubiculium](http://vocab.getty.edu/page/aat/300004367)
 
 ### Garden Description
