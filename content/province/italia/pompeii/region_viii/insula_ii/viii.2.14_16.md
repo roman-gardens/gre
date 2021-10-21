@@ -13,7 +13,7 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "peristyle"
+  - "peristyles (Roman courtyards)"
   - "porticoes"
   - "amphorae (storage vessels)"
   - "tondi"

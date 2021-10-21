@@ -14,7 +14,7 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "peristyle"
+  - "peristyles (Roman courtyards)"
   - "sacrarium"
 ---
 

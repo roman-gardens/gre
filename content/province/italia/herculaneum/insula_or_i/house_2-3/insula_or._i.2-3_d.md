@@ -13,7 +13,7 @@ categories:
   - "Italia"
 tags:
  - "rustic"
- - "shrines"
+ - "shrines (structures)"
 ---
 
 ## Province

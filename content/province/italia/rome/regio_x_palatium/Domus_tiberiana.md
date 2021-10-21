@@ -44,7 +44,7 @@ Garden of the Domus Tiberiana, Palatine
 - [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
 - [piping (plumbing system component)](http://vocab.getty.edu/page/aat/300052572)
 - [pool (body of water)](http://vocab.getty.edu/page/aat/300008692)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 - [solarium](http://vocab.getty.edu/page/aat/300004179)
 - [statue](http://vocab.getty.edu/page/aat/300047600)

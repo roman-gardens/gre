@@ -12,9 +12,9 @@ draft: false
 categories:
   - "Italia"
 tags:
-- "portico"
-- "tablinium"
-- "exedra"
+- "porticoes"
+- "tablina"
+- "exedrae (site elements)"
 ---
 
 ## Province
@@ -35,8 +35,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref ".">}})
 
 ### Keywords
- - [portico](http://vocab.getty.edu/page/aat/300004145)
- - [tablinium](http://vocab.getty.edu/page/aat/300004180)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
+ - [tablina](http://vocab.getty.edu/page/aat/300004180)
  - [exedra](http://vocab.getty.edu/page/aat/300004014)
 
 ### Garden Description

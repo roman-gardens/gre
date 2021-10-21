@@ -12,8 +12,8 @@ categories:
   - "Africa Proconsularis"
 
 tags:
- - "temple"
- - "sanctuary"
+ - "temples (buildings)"
+ - "sanctuaries (religious building spaces)"
  - "courtyards"
  - "planting bed"
  - "balustrades"

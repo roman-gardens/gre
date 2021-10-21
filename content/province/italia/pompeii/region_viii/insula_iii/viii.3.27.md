@@ -13,7 +13,7 @@ categories:
   - "Italia"
 tags:
 - "fauces"
-- "portico"
+- "porticoes"
 ---
 
 ## Province
@@ -35,7 +35,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [fauces](http://vocab.getty.edu/page/aat/300004298)
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description
 From the street, the fauces led to the entrance to the garden (a) which was enclosed on the south and west by a portico with five columns and two engaged columns, all connected by a low wall. The original excavation plan shows a water channel on the south and west edges.

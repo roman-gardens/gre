@@ -47,7 +47,7 @@ Garden of the Flavian Imperial Palace, Palatine
 - [niche (architectural element)](http://vocab.getty.edu/page/aat/300002704)
 - [palace](http://vocab.getty.edu/page/aat/300005734)
 - [plinth](http://vocab.getty.edu/page/aat/300001749)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [sewer](http://vocab.getty.edu/page/aat/300006122)
 - [statue](http://vocab.getty.edu/page/aat/300047600)
 <!-- -->

@@ -14,7 +14,7 @@ tags:
  - "domus"
  - "peristyle houses"
  - "semicircular basin"
- - "triclinia(rooms)"
+ - "triclinia (rooms)"
 ---
 
 ## Province

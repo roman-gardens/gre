@@ -15,14 +15,13 @@ tags:
  - "peristyle houses"
  - "mosaics (visual works)"
  - "triclinia (rooms)"
- - "semicircular basin"
+ - "basins (vessels)"
  - "root cavities"
- - "pipe"
- - "pool"
+ - "pipes (conduits)"
+ - "pools (bodies of water)"
  - "fountains"
- - "pits"
+ - "pits (earthworks)"
  - "furniture"
- - "cooking area"
 ---
 
 ## Province
@@ -55,14 +54,13 @@ House of Bacchus and Ariadne (Maison de Bacchus et Ariane)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [semicircular basin](#)
+- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 - [root cavities](#)
-- [pipe](#)
-- [pool](#)
+- [pipes (conduits)](http://vocab.getty.edu/page/aat/300014662)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [pits](#)
+- [pits](http://vocab.getty.edu/page/aat/300008027)
 - [furniture](#)
-- [cooking area](#)
 
 ### Garden Description
 

@@ -11,7 +11,7 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- - "temple"
+ - "temples (buildings)"
  - "courtyards"
  - "root cavities"
  - "garden soil"

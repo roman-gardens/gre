@@ -12,11 +12,11 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "cisterns"
+ - "cisterns (plumbing components)"
  - "jet d'eau"
  - "peristyles (Roman courtyards)"
  - "porticoes"
- - "statuettes (free-standing sculpture)"
+ - "statuettes"
  - "triclinia (rooms)"
 ---
 

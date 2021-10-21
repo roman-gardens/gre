@@ -13,7 +13,7 @@ categories:
 tags:
  - "domus"
  - "peristyle houses"
- - "planter"
+ - "planters (containers)"
 ---
 
 ## Province
@@ -42,7 +42,7 @@ House of Omnia Tibi Felicia (Maison Omnia Tibi Felicia)
 
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [planter](#)
+- [planters (containers)](http://vocab.getty.edu/page/aat/300237566)
 
 ### Garden Description
 

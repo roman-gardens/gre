@@ -48,7 +48,7 @@ Rural Villa in Friedberg Pfingstweide
 ### Keywords
 
 - [archaeological garden](#)
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ### Garden Description

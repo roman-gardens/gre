@@ -43,7 +43,7 @@ Stadium Garden of the Flavian Palace, Palatine
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 - [pillars](http://vocab.getty.edu/page/aat/300264605)
 - [planting beds](http://vocab.getty.edu/page/aat/300430426)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 <!-- -->
 - [Juvenal](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.800)

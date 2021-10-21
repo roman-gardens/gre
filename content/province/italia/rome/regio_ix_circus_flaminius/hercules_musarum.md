@@ -8,7 +8,7 @@ author: E.R. Macaulay and Linda Anderson
 editor: Joshua Rosenheim and Rhiannon Paré
 draft: false
 tags:
- - "aedes"
+ - "temples (buildings)"
  - "columns (architectural elements)"
  - "exedrae (site elements)"
  - "lucus (grove)"
@@ -40,14 +40,14 @@ Garden of the Hercules Musarum
 <!-- -->
 ### Keywords
 <!-- -->
-- [aedes (temple)](http://vocab.getty.edu/page/aat/300007595)
+- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 - [auditorium](http://vocab.getty.edu/page/aat/300004394)
 - [column (architectural element)](http://vocab.getty.edu/page/aat/300001571)
 - [exedra (site element)](http://vocab.getty.edu/page/aat/300081589)
 - [lucus (grove)](http://vocab.getty.edu/page/aat/300008884)
 - [niche (architectural elements)](http://vocab.getty.edu/page/aat/300002704)
 - [podium (building divisions)](http://vocab.getty.edu/page/aat/300000976)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [statue (free-standing sculpture)](http://vocab.getty.edu/page/aat/300047600)
 <!-- -->
 - [Eumenius Panegyricus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.592)

@@ -15,7 +15,7 @@ categories:
 tags:
  - "atriums (Roman halls)"
  - "peristyles (Roman courtyards)"
- - "stuccoing"
+ - "stucco"
 ---
 
 ## Province

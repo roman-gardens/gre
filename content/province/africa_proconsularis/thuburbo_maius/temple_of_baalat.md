@@ -11,9 +11,9 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- - "temple"
- - "sanctuary"
- - "courtyard"
+ - "temples (buildings)"
+ - "sanctuaries (religious building spaces)"
+ - "courtyards"
 ---
 
 ## Province

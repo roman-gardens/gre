@@ -14,7 +14,7 @@ tags:
  - "domus"
  - "peristyle houses"
  - "semicircular basin"
- - "pool"
+ - "pools (bodies of water)"
  - "triclinia (rooms)"
 ---
 
@@ -58,7 +58,7 @@ House of Sertius (Maison de Sertius)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [semicircular basin](#)
-- [pool](#)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description

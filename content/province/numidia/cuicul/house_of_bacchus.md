@@ -18,7 +18,7 @@ tags:
  - "pergolas"
  - "peristyle houses"
  - "piscinae"
- - "statuettes (free-standing sculpture)"
+ - "statuettes"
  - "venus"
 ---
 

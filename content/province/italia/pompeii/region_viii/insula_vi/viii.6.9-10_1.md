@@ -13,8 +13,8 @@ categories:
   - "Italia"
 
 tags:
-  - "atrium"
-  - "portico"
+  - "atriums (Roman halls)"
+  - "porticoes"
   - "opus signinum"
 ---
 
@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [insula](http://vocab.getty.edu/page/aat/300000325)
- - [portico](http://vocab.getty.edu/page/aat/300004145)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
 
 ### Garden Description

@@ -14,7 +14,7 @@ tags:
  - "domus"
  - "peristyle houses"
  - "triclinia (rooms)"
- - "pool"
+ - "pools (bodies of water)"
 ---
 
 ## Province
@@ -57,7 +57,7 @@ Hermaphrodite House (Maison de l'Hermaphrodite)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [pool](#)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 
 
 ### Garden Description

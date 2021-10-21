@@ -13,7 +13,7 @@ categories:
   - "Italia"
 
 tags:
-  - "portico"
+  - "porticoes"
   - "puteals"
 
 ---
@@ -36,7 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VII]({{<relref ".">}})
 
 ### Keywords
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [puteals](http://vocab.getty.edu/page/aat/300443458)
 
 

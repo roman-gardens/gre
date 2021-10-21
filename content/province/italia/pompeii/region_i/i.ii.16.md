@@ -13,12 +13,12 @@ categories:
   - "Italia"
 tags:
  - "aedicules"
- - "fountain"
- - "gutter"
+ - "fountains"
+ - "gutters (building drainage components)"
  - "lararia"
  - "pillars"
  - "porticoes"
- - "statuette"
+ - "statuettes"
 ---
 
 ## Province
@@ -45,7 +45,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - [lararia](http://vocab.getty.edu/page/aat/300400600)
 - [pillars](http://vocab.getty.edu/page/aat/300264605)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statuette](http://vocab.getty.edu/page/aat/300312262)
+- [statuettes](http://vocab.getty.edu/page/aat/300312262)
 
 
 ## Garden

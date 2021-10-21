@@ -51,7 +51,7 @@ Villa of the Bath
 - [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [water baths](http://vocab.getty.edu/page/aat/300248755)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [atrium houses](http://vocab.getty.edu/page/aat/300005451)

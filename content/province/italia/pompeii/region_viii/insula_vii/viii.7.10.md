@@ -13,8 +13,8 @@ categories:
   - "Italia"
 
 tags:
-  - "triclinium"
-  - "pergola"
+  - "triclinia (rooms)"
+  - "pergolas"
   - "alabastron"
   - "opus signinum"
 

@@ -6,7 +6,7 @@ province_id: PROVINCE_ID
 article_id: ARTICLE_ID
 author: David Gilman Romano
 editor: Jane Millar, Amartya Shri
-draft: true
+draft: false
 
 categories:
  - "Achaea"
@@ -67,7 +67,7 @@ In the spina and meta excavators found three large pits cut into the bedrock, sp
 A transport/storage amphora, broken into several fragments and with the neck and foot cut off, was found inside one of the pits (pit 2, Fig. 3).  This amphora was almost certainly reused as a planting pot and is further evidence that the meta and spina were planted. The amphora is a North Italian Dressel 6 or Spanish Dressel 7-11 type, with dates ranging from the 1st century A.D. to first half of the 2nd century A.D. Thus, the planting pot may not belong to the earliest phase of the circus.
 Fragments of marble sculpture were found in the fill above the spina, including a large egg-shaped object that may be part of a lap-counting device, a colossal hand, the fragmentary head and arm of a youth, the left leg of an athlete with palm tree support, as well as a lifesized terracotta comic mask. The presence of these fragments suggests the possibility that the spina/meta area was also decorated with sculptures amidst the garden plantings.
 
-The so-called “hippodrome garden” type (see the Domus Flavia on the [Palatine Hill]({{<relref "Palatine">}}) in Rome, the “Stadium-Garden at Hadrian’s Villa at Tivoli, the Villa of the Little Circus at Silin, [Jericho]({{<relref "Jericho">}}), Pliny’s Tuscan villa, and Domitian’s villa above Lake Albano) must have been inspired in some way by Greek hippodromes and/or by Roman circuses with planted areas with sculptural and possibly architectural decoration in the central area and probably around the circumference of the elongated racecourse. It must be pointed out, however, that no Greek hippodrome has ever been excavated, although [recent excavations](http://lykaionexcavation.org) at the Sanctuary of Zeus on Mt. Lykaion in Arcadia may be able to shed some light for the first time on a Classical period hippodrome structure and its possible garden features. In addition, although trees appear in circus scenes illustrating the spina and meta of the Circus Maximus in Rome on 3rd – 4th century A.D. mosaics, e.g., the Barcelona mosaic, as well as on coins, e.g., coin of Philip I, and on sarcophagus reliefs, such as the Vatican sarcophagus (Humphrey, 235-236, figs. 56, 119; p. 127, fig. 56; pp. 196-203, fig. 99-101) and the possibility of plantings has been proposed in the spinae of Roman circuses (e.g., by Humphrey, 38 for the circus at Leptis Magna), no specific archaeological evidence has been recorded until the publication of this circus at Corinth.
+The so-called “hippodrome garden” type (see the Domus Flavia on the Palatine Hill in Rome, the “Stadium-Garden at Hadrian’s Villa at Tivoli, the Villa of the Little Circus at Silin, [Jericho]({{<relref "Jericho">}}), Pliny’s Tuscan villa, and Domitian’s villa above Lake Albano) must have been inspired in some way by Greek hippodromes and/or by Roman circuses with planted areas with sculptural and possibly architectural decoration in the central area and probably around the circumference of the elongated racecourse. It must be pointed out, however, that no Greek hippodrome has ever been excavated, although [recent excavations](http://lykaionexcavation.org) at the Sanctuary of Zeus on Mt. Lykaion in Arcadia may be able to shed some light for the first time on a Classical period hippodrome structure and its possible garden features. In addition, although trees appear in circus scenes illustrating the spina and meta of the Circus Maximus in Rome on 3rd – 4th century A.D. mosaics, e.g., the Barcelona mosaic, as well as on coins, e.g., coin of Philip I, and on sarcophagus reliefs, such as the Vatican sarcophagus (Humphrey, 235-236, figs. 56, 119; p. 127, fig. 56; pp. 196-203, fig. 99-101) and the possibility of plantings has been proposed in the spinae of Roman circuses (e.g., by Humphrey, 38 for the circus at Leptis Magna), no specific archaeological evidence has been recorded until the publication of this circus at Corinth.
 
 <!--### Maps-->
 
@@ -77,13 +77,13 @@ The so-called “hippodrome garden” type (see the Domus Flavia on the [Palatin
 
 ### Plans
 
-{{< figure src="../images/" alt="Fig. 1: Actual State Plan of the Roman circus, with planting pits labeled. From D. G. Romano, “Roman Circus,” p. 589, fig. 3. Plan courtesy of the author." title="Fig. 1: Actual State Plan of the Roman circus, with planting pits labeled. From D. G. Romano, “Roman Circus,” p. 589, fig. 3. Plan courtesy of the author." >}}
+{{< figure src="../images/corinth-plan.jpg" alt="plan of the Roman circus, with planting pits labeled" title="Fig. 1: Actual State Plan of the Roman circus, with planting pits labeled. From D. G. Romano, “Roman Circus,” p. 589, fig. 3. Plan courtesy of the author." >}}
 
 ### Images
 
-{{< figure src="../images/" alt="Fig 2. Reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta. Drawing by David Pacifico for the Corinth Computer Project." title="Fig 2. Reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta. Drawing by David Pacifico for the Corinth Computer Project." >}}
+{{< figure src="../images/corinth-circus-restored.jpeg" alt="reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta" title="Fig 2. Reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta. Drawing by David Pacifico for the Corinth Computer Project." >}}
 
-{{< figure src="../images/" alt="Fig. 3: Fragmentary amphora found in pit 2 in the spina of the Roman circus. Photograph courtesy of James Wiseman." title="Fig. 3: Fragmentary amphora found in pit 2 in the spina of the Roman circus. Photograph courtesy of James Wiseman." >}}
+{{< figure src="../images/amphora-in-planting-pit.jpeg" alt="fragmentary amphora found in pit 2 in the spina of the Roman circus" title="Fig. 3: Fragmentary amphora found in pit 2 in the spina of the Roman circus. Photograph courtesy of James Wiseman." >}}
 
 ### Dates
 <!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
@@ -92,8 +92,8 @@ The so-called “hippodrome garden” type (see the Domus Flavia on the [Palatin
 ### Bibliography
 
 BIBLIOGRAPHY:
-* J. H. Humphrey, *Roman Circuses: Arenas for Chariot Racing.* [(worldcat)](http://www.worldcat.org/oclc/299732316) Berkeley,1986.
-* D. G. Romano, “A Roman Circus in Corinth,” *Hesperia* [(worldcat)](http://www.worldcat.org/oclc/359326258) 74, 2005:585-611
+* J. H. Humphrey, *Roman Circuses: Arenas for Chariot Racing.* Berkeley, 1986. [(worldcat)](http://www.worldcat.org/oclc/299732316)
+* D. G. Romano, “A Roman Circus in Corinth,” *Hesperia* 74, 2005: 585-611. [(worldcat)](http://www.worldcat.org/oclc/359326258).
 
 <!--#### Periodo ID-->
 

@@ -40,7 +40,7 @@ Garden of the Temple of Elagabalus, Palatine
 - [flowerpot](http://vocab.getty.edu/page/aat/300194749)
 - [fountain](http://vocab.getty.edu/page/aat/300006179)
 - [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [standards (religious artifact)](http://vocab.getty.edu/page/aat/300429891)
 - [temple (building)](http://vocab.getty.edu/page/aat/300007595)
 <!-- -->

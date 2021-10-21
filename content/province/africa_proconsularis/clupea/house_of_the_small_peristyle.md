@@ -13,7 +13,7 @@ categories:
 tag:
   - "domus"
   - "peristyle houses"
-  - "basin"
+  - "basins (vessels)"
   - "semicircular exedra"
 ---
 

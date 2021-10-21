@@ -14,7 +14,7 @@ categories:
 tags:
  - "theater"
  - "xystis"
- - "inscription"
+ - "inscriptions"
 ---
 
 ## Province

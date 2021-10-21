@@ -13,7 +13,7 @@ categories:
 tags:
  - "domus"
  - "peristyle houses"
- - "pool"
+ - "pools (bodies of water)"
  - "mosaics (visual works)"
 ---
 
@@ -44,7 +44,7 @@ House of Venus (Maison de Venus)
 
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [pool](#)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 
 

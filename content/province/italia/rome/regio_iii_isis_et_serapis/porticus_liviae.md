@@ -48,7 +48,7 @@ Garden of the Porticus Liviae <!--There does not appear to be a Pleiades place r
 - [fresco (visual work)](http://vocab.getty.edu/page/aat/300177433)
 - [niche (architectural element)](http://vocab.getty.edu/page/aat/300002704)]
 - [pergola](http://vocab.getty.edu/page/aat/300006783)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [shrine (structure)](http://vocab.getty.edu/page/aat/300007558)
 - [statue](http://vocab.getty.edu/page/aat/300047600)
 <!-- -->

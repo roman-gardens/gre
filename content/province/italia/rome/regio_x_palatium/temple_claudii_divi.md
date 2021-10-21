@@ -47,7 +47,7 @@ Garden of the Temple of Divine Claudius, Palatine
 - [nemus (grove)](http://vocab.getty.edu/page/aat/300008884)
 - [niche (architectural element)](http://vocab.getty.edu/page/aat/300002704)
 - [nymphaeum (garden structure)](http://vocab.getty.edu/page/aat/300006809)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [planting bed](http://vocab.getty.edu/page/aat/300430426)
 - [stagnum (man-made lake)](http://vocab.getty.edu/page/aat/300263360)
 - [temple (building)](http://vocab.getty.edu/page/aat/300007595)

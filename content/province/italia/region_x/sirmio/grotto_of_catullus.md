@@ -13,7 +13,7 @@ categories:
 tags:
  - "atriums (Roman halls)"
  - "basins (vessels)"
- - "bathhouses (water recreation structures)"
+ - "balnea"
  - "cisterns (plumbing components)"
  - "cryptoportici"
  - "ditches"
@@ -78,7 +78,7 @@ House of Grotto of Aatullus
 - [piscinae]( http://vocab.getty.edu/page/aat/300375619)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [ditches](http://vocab.getty.edu/page/aat/300006178)
 - [water supply systems](http://vocab.getty.edu/page/aat/300008618)

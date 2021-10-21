@@ -14,7 +14,7 @@ tags:
  - "domus"
  - "peristyle houses"
  - "semicircular basin"
- - "pool"
+ - "pools (bodies of water)"
 ---
 
 ## Province
@@ -56,7 +56,7 @@ House of the Warehouse (Maison de l'entrepôt)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [semicircular basin](#)
-- [pool](#)
+- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 ### Garden Description
 This large house was laid out around two peristyles (A,B) arranged along the N S axis. The plan presents a complex layout notably in the southern part of the *domus* upon which the excavators did not comment thoroughly (Plan view, Fig. 1).
 

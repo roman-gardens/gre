@@ -52,7 +52,7 @@ Villa de Muscapeu
 - [reception rooms](http://vocab.getty.edu/page/aat/300077176)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [bathhouses (water recreation structures)](http://vocab.getty.edu/page/aat/300007347)
+- [balnea](http://vocab.getty.edu/page/aat/300120377)
 
 
 

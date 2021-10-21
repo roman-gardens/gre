@@ -32,7 +32,7 @@ tags:
  - "piscinae"
  - "porticoes"
  - "statues"
- - "statuettes (free-standing sculpture)"
+ - "statuettes"
  - "tables (support furniture)"
  - "tablina"
  - "trellises"

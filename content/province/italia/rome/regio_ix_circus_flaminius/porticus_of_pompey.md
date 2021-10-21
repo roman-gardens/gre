@@ -41,7 +41,7 @@ Garden of the Porticus of Pompey \
 - [latrine](http://vocab.getty.edu/page/aat/300007951)
 - [museum](http://vocab.getty.edu/page/aat/300005768)
 - [nemus (grove)](http://vocab.getty.edu/page/aat/300008884)
-- [portico](http://vocab.getty.edu/page/aat/300004145)
+- [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [quadriporticus](http://vocab.getty.edu/page/aat/300004101)
 - [scaenae frons](http://vocab.getty.edu/page/aat/300083030)
 - [statue](http://vocab.getty.edu/page/aat/300047600)

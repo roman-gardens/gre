@@ -14,7 +14,7 @@ tags:
  - "domus"
  - "peristyle houses"
  - "triclinia (rooms)"
- - "basin"
+ - "basins (vessels)"
  - "mosaics (visual works)"
 ---
 
