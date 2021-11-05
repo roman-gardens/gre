@@ -1,4 +1,4 @@
-name: publish to test-a website
+name: publish to test-drafts website
 
 on:
   workflow_dispatch:
@@ -10,9 +10,6 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v1
-        with:
-          submodules: false  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -21,15 +18,16 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify --baseURL "https://roman-gardens.github.io/test-a/"
+        run: hugo --buildDrafts --minify --baseURL "https://roman-gardens.github.io/test-drafts/"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v2
         env:
-          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY_TEST_A }}
-          EXTERNAL_REPOSITORY: roman-gardens/test-a
+          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY_TEST_B }}
+          EXTERNAL_REPOSITORY: roman-gardens/test-drafts
           PUBLISH_BRANCH: main
           PUBLISH_DIR: ./docs
         with:
           emptyCommits: false
           commitMessage: ${{ github.event.head_commit.message }}
+
