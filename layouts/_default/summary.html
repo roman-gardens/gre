@@ -12,6 +12,7 @@
 				<a href="{{ .RelPermalink }}" rel="bookmark">
 				{{ .Title }}
 				</a>
+				{{- if .Params.draft }} (DRAFT) {{- end }}
 			</h2>
 			{{- with .Params.lead }}
 			<p class="list__lead post__lead">{{ . }}</p>
