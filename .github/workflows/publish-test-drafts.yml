@@ -1,4 +1,4 @@
-name: publish to test-b website
+name: publish to test-drafts website
 
 on:
   workflow_dispatch:
@@ -18,7 +18,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify --baseURL "https://roman-gardens.github.io/test-b/"
+        run: hugo --buildDrafts --minify --baseURL "https://roman-gardens.github.io/test-b/"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v2
