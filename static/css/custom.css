@@ -18,6 +18,21 @@ body {
   line-height: 1.4;
 }
 
+
+/* test website styles*/
+body.test {
+  background: #f2fd30;
+}
+.test-header {
+  text-align: center;
+  font-size: 24pt;
+}
+
+
+.container--outer {
+	margin: 0 auto 25px;
+}
+
 .header {
 	width: 100%;
 	background: linear-gradient(to bottom, #ffffff00, 40%, #ffffff00, 65%, #ffffffff), url('../img/header91.jpg');
