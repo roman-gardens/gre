@@ -6,7 +6,7 @@ province_id:
 article_id: ARTICLE_ID
 author: Kathryn Gleason
 editor: Leigh-Ann Bedal and Jane Millar
-draft: true
+draft: false
 
 categories:
  - "Arabia Petraea"
