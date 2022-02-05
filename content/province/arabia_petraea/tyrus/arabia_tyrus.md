@@ -58,7 +58,7 @@ The second terrace is largely unexplored but remains of a building have been not
 Below the dam, the land drops away dramatically in a series of agricultural terraces leading to a large valley and the Jordan Valley beyond.  The complex was unfinished at the time of Hyrcanus’ death in 169-68 BCE, and the complex eventually came into the properties of [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great).
 
 ### Maps
-{{< figure src="../images/1_arabia_petraea_map.jpg" alt="Map of Petra location" title="Fig 1: Map showing the location of ancient Tyrus in Arabia Petraea. Map by L.-A. Bedal, based on [Andrein, with the assistance of EraNavigator](https://commons.wikimedia.org/w/index.php?curid=26047529)" >}}
+{{< figure src="../images/1_arabia_petraea_map.jpg" alt="Map of Petra location" caption="Fig 1: Map showing the location of ancient Tyrus in Arabia Petraea. Map by L.-A. Bedal, based on [Andrein, with the assistance of EraNavigator](https://commons.wikimedia.org/w/index.php?curid=26047529)" >}}
 
 ### Plans
 <!-- {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}} -->
