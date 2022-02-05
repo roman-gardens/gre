@@ -2,8 +2,6 @@ name: publish to gre-website-test
 
 on:
   workflow_dispatch:
-    branches:
-      - main  # Set a branch to deploy
 
 jobs:
   build-deploy:
