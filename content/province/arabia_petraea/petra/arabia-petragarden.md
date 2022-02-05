@@ -120,566 +120,102 @@ A deep deposit of sediment above the pool floor indicates that the pool went out
 
 ### Tables
 Table 1: Taxa identified from the Petra Garden and Pool Complex. (from Ramsey and Bedal 2015)
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5oc{background-color:#fe996b;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-zme7{background-color:#ffce93;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-1e3k{background-color:#f38630;border-color:inherit;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-pidv{background-color:#ffce93;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-eqtu{background-color:#fe996b;border-color:inherit;text-align:center;vertical-align:top}
+
+<style>
+
+table { background:#fff ; border:2px solid #000 ; border-collapse:collapse }
+td, th { border:1px solid #888 ; text-align:center }
+tr td:first-of-type { text-align:left ; white-space:nowrap }
+
+/* header rows */
+tr:nth-of-type(1),
+tr:nth-of-type(2) {
+  background: #333;
+  color: #fff;
+}
+th, tr:nth-of-type(1) td, tr:nth-of-type(2) td {
+  border: none;
+}
+
+/* sub-header rows and last row */
+tr:nth-of-type(3),
+tr:nth-of-type(10),
+tr:nth-of-type(23),
+tbody tr:last-of-type {
+  font-weight: bold;
+  background: #ddd;
+}
+tr:nth-of-type(3) td,
+tr:nth-of-type(10) td,
+tr:nth-of-type(23) td,
+tbody tr:last-of-type td {
+  border: none;
+}
+
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky">   <br>    </th>
-    <th class="tg-c3ow">   <br><span style="font-weight:bold;font-style:italic">Group 1   </span></th>
-    <th class="tg-c3ow">   <br><span style="font-weight:bold;font-style:italic">Group 2   </span></th>
-    <th class="tg-c3ow">   <br><span style="font-weight:bold;font-style:italic">Group 3   </span></th>
-    <th class="tg-c3ow">   <br><span style="font-weight:bold;font-style:italic">Group 4   </span></th>
-    <th class="tg-c3ow">   <br><span style="font-weight:bold;font-style:italic">Group 5   </span></th>
-    <th class="tg-c3ow">   <br><span style="font-weight:bold;font-style:italic">Group 6   </span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-zme7">   <br><span style="font-weight:bold">Species   </span></td>
-    <td class="tg-1e3k">Phases I-II <br>(17 samples)</td>
-    <td class="tg-1e3k">Phases II-III<br>(30 samples)  </td>
-    <td class="tg-1e3k">Phases II-IV<br>(28 samples)</td>
-    <td class="tg-1e3k">Phases II-V<br>(17 samples) </td>
-    <td class="tg-1e3k">Phases IV-VI<br>(22 samples) </td>
-    <td class="tg-1e3k">Phases VII-VIII<br>(13 samples) </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-weight:bold">CEREALS: grains   </span></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Hurdeum hulled grains   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Hordeum vulgare   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>4   </td>
-    <td class="tg-c3ow">   <br>16   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Triticum aestivum/durum   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>5   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Triticum grains </span>indet<span style="font-style:italic">.   </span></td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>4   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Panicum sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br>Cereal grain indet.   </td>
-    <td class="tg-c3ow">   <br>7   </td>
-    <td class="tg-c3ow">   <br>8   </td>
-    <td class="tg-c3ow">   <br>24   </td>
-    <td class="tg-c3ow">   <br>3   </td>
-    <td class="tg-c3ow">   <br>4   </td>
-    <td class="tg-c3ow">   <br>7   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-weight:bold">CEREALS: chaff   </span></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Triticum sp. rachis   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Hordeum rachis   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br>Culm node   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-weight:bold">Leguminosae   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>3   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Vicia sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Vicia ervilla   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Lathryus sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>3   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Cicer arietinum   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Lens sp.   </span></td>
-    <td class="tg-c3ow">   <br>2   </td>
-    <td class="tg-c3ow">   <br>3   </td>
-    <td class="tg-c3ow">   <br>5   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Pisum sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br>Large Legume indet.   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-    <td class="tg-c3ow">   <br>6   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br>Small legume indet.   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-weight:bold">Fruit and Nut Species   </span></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Ficus carica</span> fruit   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Ficus carica   </span></td>
-    <td class="tg-c3ow">   <br>5   </td>
-    <td class="tg-c3ow">   <br>4   </td>
-    <td class="tg-c3ow">   <br>57   </td>
-    <td class="tg-c3ow">   <br>4   </td>
-    <td class="tg-c3ow">   <br>5   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Olea europaea   </span></td>
-    <td class="tg-c3ow">   <br>20   </td>
-    <td class="tg-c3ow">   <br>53   </td>
-    <td class="tg-c3ow">   <br>49   </td>
-    <td class="tg-c3ow">   <br>22   </td>
-    <td class="tg-c3ow">   <br>12   </td>
-    <td class="tg-c3ow">   <br>10   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Vitis vinifera </span>peduncle   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Vitis vinifera ssp</span>. sylvestris   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Vitis vinifera   </span></td>
-    <td class="tg-c3ow">   <br>10   </td>
-    <td class="tg-c3ow">   <br>30   </td>
-    <td class="tg-c3ow">   <br>40   </td>
-    <td class="tg-c3ow">   <br>10   </td>
-    <td class="tg-c3ow">   <br>10   </td>
-    <td class="tg-c3ow">   <br>5   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Phoenix dactylifera   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>5   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>3   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-weight:bold">Nutshell indet.   </span></td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-weight:bold">Weed/Wild Taxa   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Fumaria sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>3   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Adonis sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Chenopodium sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Euphorbia sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Cornilla sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Silene sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Medicago sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>4   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Geranium sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Malva sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>4   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Ornitogalium sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Galium sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>3   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>6   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Plantago sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Phalaris sp.   </span></td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Gramineae </span>indet.   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>4   </td>
-    <td class="tg-c3ow">   <br>8   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Arnebia sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Sambucus sp.   </span></td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Allium sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Litho sperma sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>5   </td>
-    <td class="tg-c3ow">   <br>3   </td>
-    <td class="tg-c3ow">   <br>30   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Echuim sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>8   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Anchusa sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>3   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Thymelea passerina   </span></td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>113   </td>
-    <td class="tg-c3ow">   <br>102   </td>
-    <td class="tg-c3ow">   <br>496   </td>
-    <td class="tg-c3ow">   <br>4   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Verbascum Sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>4   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Prunus sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>3   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Ranunculus sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>3   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Agrostemma sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>3   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>2   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br><span style="font-style:italic">Viola sp.   </span></td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>1   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-    <td class="tg-c3ow">   <br>0   </td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">   <br>Unidentified seeds   </td>
-    <td class="tg-c3ow">   <br>10   </td>
-    <td class="tg-c3ow">   <br>19   </td>
-    <td class="tg-c3ow">   <br>35   </td>
-    <td class="tg-c3ow">   <br>15   </td>
-    <td class="tg-c3ow">   <br>10   </td>
-    <td class="tg-c3ow">   <br>11   </td>
-  </tr>
-  <tr>
-    <td class="tg-x5oc">   <br><span style="font-weight:bold">Totals   </span></td>
-    <td class="tg-eqtu">   <br><span style="font-weight:bold">61   </span></td>
-    <td class="tg-eqtu">   <br><span style="font-weight:bold">274   </span></td>
-    <td class="tg-eqtu">   <br><span style="font-weight:bold">389   </span></td>
-    <td class="tg-eqtu">   <br><span style="font-weight:bold">613   </span></td>
-    <td class="tg-eqtu">   <br><span style="font-weight:bold">60   </span></td>
-    <td class="tg-eqtu">   <br><span style="font-weight:bold">57   </span></td>
-  </tr>
-</tbody>
-</table>
+
+|     | Group 1 | Group 2 | Group 3 | Group 4 | Group 5 | Group 6 |
+| --- | ------- | ------- | ------- | ------- | ------- | ------- |
+| | Phases I-II  | Phases II-III | Phases II-IV | Phases II-V  | Phases IV-VI |  Phases VII-VIII |
+| | (17 samples) | (30 samples)  | (28 samples) | (17 samples) | (22 samples) | (13 samples)     |
+| CEREALS: grains              |
+| Hurdeum hulled grains          |  0 |   1 |   1 |   0 |  0 |  0 |
+| Hordeum vulgare                |  0 |   4 |  16 |   1 |  1 |  2 |
+| Triticum aestivum/durum        |  0 |   0 |   5 |   1 |  0 |  0 |
+| Triticum grains indet.         |  1 |   0 |   4 |   0 |  1 |  0 |
+| Panicum sp.                    |  0 |   0 |   0 |   0 |  1 |  0 |
+| Cereal grain indet.            |  7 |   8 |  24 |   3 |  4 |  7 |
+| CEREALS: chaff               |
+| Triticum sp. rachis            |  0 |   0 |   2 |   0 |  0 |  0 |
+| Hordeum rachis                 |  0 |   0 |   0 |   0 |  1 |  0 |
+| Culm node                      |  0 |   2 |   1 |   0 |  0 |  0 |
+| Leguminosae                    |  0 |   3 |   1 |   0 |  0 |  0 |
+| Vicia sp.                      |  0 |   1 |   2 |   0 |  0 |  0 |
+| Vicia ervilla                  |  0 |   0 |   1 |   0 |  0 |  0 |
+| Lathryus sp.                   |  0 |   3 |   1 |   0 |  0 |  0 |
+| Cicer arietinum                |  0 |   0 |   1 |   0 |  0 |  0 |
+| Lens sp.                       |  2 |   3 |   5 |   1 |  0 |  0 |
+| Pisum sp.                      |  0 |   0 |   0 |   0 |  0 |  2 |
+| Large Legume indet.            |  0 |   2 |   6 |   1 |  1 |  2 |
+| Small legume indet.            |  0 |   1 |   1 |   0 |  0 |  0 |
+| Fruit and Nut Species        |
+| Ficus carica fruit             |  0 |   1 |   1 |   0 |  0 |  0 |
+| Ficus carica                   |  5 |   4 |  57 |   4 |  5 |  0 |
+| Olea europaea                  | 20 |  53 |  49 |  22 | 12 | 10 |
+| Vitis vinifera peduncle        |  2 |   0 |   2 |   0 |  0 |  0 |
+| Vitis vinifera ssp. sylvestris |  0 |   2 |   0 |   0 |  1 |  0 |
+| Vitis vinifera                 | 10 |  30 |  40 |  10 | 10 |  5 |
+| Phoenix dactylifera            |  0 |   5 |   2 |   1 |  3 |  0 |
+| Nutshell indet.                |  1 |   2 |   0 |   1 |  1 |  1 |
+| Weed/Wild Taxa                 |  0 |   0 |   1 |   0 |  0 |  0 |
+| Fumaria sp.                    |  0 |   0 |   3 |   0 |  0 |  0 |
+| Adonis sp.                     |  0 |   0 |   2 |   0 |  0 |  0 |
+| Chenopodium sp.                |  0 |   0 |   1 |   0 |  0 |  0 |
+| Euphorbia sp.                  |  0 |   0 |   1 |   0 |  0 |  0 |
+| Cornilla sp.                   |  0 |   0 |   1 |   0 |  0 |  0 |
+| Silene sp.                     |  0 |   0 |   0 |   1 |  1 |  0 |
+| Medicago sp.                   |  0 |   0 |   4 |   0 |  0 |  0 |
+| Geranium sp.                   |  0 |   0 |   0 |   1 |  0 |  1 |
+| Malva sp.                      |  0 |   0 |   0 |   4 |  0 |  0 |
+| Ornitogalium sp.               |  0 |   0 |   1 |   0 |  0 |  0 |
+| Galium sp.                     |  0 |   0 |   3 |   0 |  0 |  6 |
+| Plantago sp.                   |  0 |   1 |   0 |   0 |  0 |  0 |
+| Phalaris sp.                   |  1 |   1 |   0 |   0 |  0 |  0 |
+| Gramineae indet.               |  0 |   4 |   8 |   1 |  1 |  2 |
+| Arnebia sp.                    |  0 |   0 |   0 |   0 |  2 |  0 |
+| Sambucus sp.                   |  1 |   0 |   0 |   0 |  1 |  0 |
+| Allium sp.                     |  0 |   0 |   0 |   1 |  0 |  0 |
+| Litho sperma sp.               |  0 |   5 |   3 |  30 |  0 |  0 |
+| Echuim sp.                     |  0 |   1 |   0 |   8 |  0 |  1 |
+| Anchusa sp.                    |  0 |   0 |   0 |   3 |  0 |  0 |
+| Thymelea passerina             |  1 | 113 | 102 | 496 |  4 |  2 |
+| Verbascum Sp.                  |  0 |   4 |   0 |   0 |  0 |  0 |
+| Prunus sp.                     |  0 |   1 |   1 |   1 |  0 |  3 |
+| Ranunculus sp.                 |  0 |   0 |   0 |   3 |  0 |  0 |
+| Agrostemma sp.                 |  0 |   0 |   0 |   3 |  0 |  2 |
+| Viola sp.                      |  0 |   0 |   1 |   1 |  0 |  0 |
+| Unidentified seeds             | 10 |  19 |  35 |  15 | 10 | 11 |
+| TOTALS                         | 61 | 274 | 389 | 613 | 60 | 57 |
 
 ### Dates
 End of the 1st century BCE - 2nd/3rd centuries CE (Late Hellenistic/Roman periods)
