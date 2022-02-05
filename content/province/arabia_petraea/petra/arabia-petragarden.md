@@ -123,6 +123,7 @@ Table 1: Taxa identified from the Petra Garden and Pool Complex. (from Ramsey an
 
 <style>
 
+  
 table { background:#fff ; border:3px solid #000 ; border-collapse:collapse }
 td, th { border:1px solid #eee ; text-align:center ; padding-left:0.5em }
 
@@ -225,6 +226,7 @@ tr:nth-child(4),
 | Unidentified seeds               |  10 |  19 |  35 |  15 |  10 |  11 |
 | TOTALS                           |  61 | 274 | 389 | 613 |  60 |  57 |
 
+  
 ### Dates
 End of the 1st century BCE - 2nd/3rd centuries CE (Late Hellenistic/Roman periods)
 
