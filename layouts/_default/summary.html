@@ -22,10 +22,11 @@
 			{{- end }}
 		</header>
 
+    <!-- extract and render start of garden description -->
 		<div class="content list__excerpt post__content clearfix">
 			{{ $summary_parts := split .Summary "Garden Description" }}
 			{{ $summary_excerpt := index $summary_parts 1 }}
-			{{ substr $summary_excerpt 0 300 }}...
+			{{ htmlUnescape (substr $summary_excerpt 0 250) }}...
 		</div>
 
 		{{- if .Site.Params.readmore }}
