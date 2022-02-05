@@ -83,7 +83,7 @@ summaryLength = 10000
 [markup]
   defaultMarkdownHandler = 'goldmark'
 
-  [mrakup.goldmark.extensions]
+  [markup.goldmark.extensions]
     typographer = false
 
 	[markup.goldmark.renderer]
