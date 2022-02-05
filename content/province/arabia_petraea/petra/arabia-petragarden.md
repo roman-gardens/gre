@@ -123,100 +123,110 @@ Table 1: Taxa identified from the Petra Garden and Pool Complex. (from Ramsey an
 
 <style>
 
-table { background:#fff ; border:2px solid #000 ; border-collapse:collapse }
-td, th { border:1px solid #888 ; text-align:center }
-tr td:first-of-type { text-align:left ; white-space:nowrap }
+  
+table { background:#fff ; border:3px solid #000 ; border-collapse:collapse }
+td, th { border:1px solid #eee ; text-align:center ; padding-left:0.5em }
 
-/* header rows */
-tr:nth-of-type(1),
-tr:nth-of-type(2) {
-  background: #333;
-  color: #fff;
-}
-th, tr:nth-of-type(1) td, tr:nth-of-type(2) td {
-  border: none;
-}
+/* left-justify first cell in each row */
+tr td:first-child, tr th:first-child { text-align:left ; white-space:nowrap }
+tr td:first-child { padding-left:2em }
+
+/* style the 4 header rows */
+tr th { border-top:3px solid #000; }
+tr:nth-child(3) td { border-bottom:3px solid #000; }
+tr:nth-child(1),
+  tr:nth-child(2),
+  tr:nth-child(3) { font-weight:bold }
+
+/* don't indent header and subheader rows */
+tr:nth-child(1) td,
+  tr:nth-child(2) td,
+  tr:nth-child(3) td,
+  tr:nth-child(4) td,
+  tr:nth-child(11) td,
+  tr:nth-child(15) td,
+  tr:nth-child(24) td,
+  tr:nth-child(33) td,
+  tr:nth-child(60) td,
+  tbody tr:last-child td { padding-left:0.5em }
 
 /* sub-header rows and last row */
-tr:nth-of-type(3),
-tr:nth-of-type(10),
-tr:nth-of-type(23),
-tbody tr:last-of-type {
-  font-weight: bold;
-  background: #ddd;
-}
-tr:nth-of-type(3) td,
-tr:nth-of-type(10) td,
-tr:nth-of-type(23) td,
-tbody tr:last-of-type td {
-  border: none;
-}
+tr:nth-child(4),
+  tr:nth-child(11),
+  tr:nth-child(15),
+  tr:nth-child(24),
+  tr:nth-child(33),
+  tr:nth-child(60),
+  tbody tr:last-child { font-weight: bold }
 
 </style>
 
-|     | Group 1 | Group 2 | Group 3 | Group 4 | Group 5 | Group 6 |
-| --- | ------- | ------- | ------- | ------- | ------- | ------- |
-| | Phases I-II  | Phases II-III | Phases II-IV | Phases II-V  | Phases IV-VI |  Phases VII-VIII |
-| | (17 samples) | (30 samples)  | (28 samples) | (17 samples) | (22 samples) | (13 samples)     |
-| CEREALS: grains              |
-| Hurdeum hulled grains          |  0 |   1 |   1 |   0 |  0 |  0 |
-| Hordeum vulgare                |  0 |   4 |  16 |   1 |  1 |  2 |
-| Triticum aestivum/durum        |  0 |   0 |   5 |   1 |  0 |  0 |
-| Triticum grains indet.         |  1 |   0 |   4 |   0 |  1 |  0 |
-| Panicum sp.                    |  0 |   0 |   0 |   0 |  1 |  0 |
-| Cereal grain indet.            |  7 |   8 |  24 |   3 |  4 |  7 |
-| CEREALS: chaff               |
-| Triticum sp. rachis            |  0 |   0 |   2 |   0 |  0 |  0 |
-| Hordeum rachis                 |  0 |   0 |   0 |   0 |  1 |  0 |
-| Culm node                      |  0 |   2 |   1 |   0 |  0 |  0 |
-| Leguminosae                    |  0 |   3 |   1 |   0 |  0 |  0 |
-| Vicia sp.                      |  0 |   1 |   2 |   0 |  0 |  0 |
-| Vicia ervilla                  |  0 |   0 |   1 |   0 |  0 |  0 |
-| Lathryus sp.                   |  0 |   3 |   1 |   0 |  0 |  0 |
-| Cicer arietinum                |  0 |   0 |   1 |   0 |  0 |  0 |
-| Lens sp.                       |  2 |   3 |   5 |   1 |  0 |  0 |
-| Pisum sp.                      |  0 |   0 |   0 |   0 |  0 |  2 |
-| Large Legume indet.            |  0 |   2 |   6 |   1 |  1 |  2 |
-| Small legume indet.            |  0 |   1 |   1 |   0 |  0 |  0 |
-| Fruit and Nut Species        |
-| Ficus carica fruit             |  0 |   1 |   1 |   0 |  0 |  0 |
-| Ficus carica                   |  5 |   4 |  57 |   4 |  5 |  0 |
-| Olea europaea                  | 20 |  53 |  49 |  22 | 12 | 10 |
-| Vitis vinifera peduncle        |  2 |   0 |   2 |   0 |  0 |  0 |
-| Vitis vinifera ssp. sylvestris |  0 |   2 |   0 |   0 |  1 |  0 |
-| Vitis vinifera                 | 10 |  30 |  40 |  10 | 10 |  5 |
-| Phoenix dactylifera            |  0 |   5 |   2 |   1 |  3 |  0 |
-| Nutshell indet.                |  1 |   2 |   0 |   1 |  1 |  1 |
-| Weed/Wild Taxa                 |  0 |   0 |   1 |   0 |  0 |  0 |
-| Fumaria sp.                    |  0 |   0 |   3 |   0 |  0 |  0 |
-| Adonis sp.                     |  0 |   0 |   2 |   0 |  0 |  0 |
-| Chenopodium sp.                |  0 |   0 |   1 |   0 |  0 |  0 |
-| Euphorbia sp.                  |  0 |   0 |   1 |   0 |  0 |  0 |
-| Cornilla sp.                   |  0 |   0 |   1 |   0 |  0 |  0 |
-| Silene sp.                     |  0 |   0 |   0 |   1 |  1 |  0 |
-| Medicago sp.                   |  0 |   0 |   4 |   0 |  0 |  0 |
-| Geranium sp.                   |  0 |   0 |   0 |   1 |  0 |  1 |
-| Malva sp.                      |  0 |   0 |   0 |   4 |  0 |  0 |
-| Ornitogalium sp.               |  0 |   0 |   1 |   0 |  0 |  0 |
-| Galium sp.                     |  0 |   0 |   3 |   0 |  0 |  6 |
-| Plantago sp.                   |  0 |   1 |   0 |   0 |  0 |  0 |
-| Phalaris sp.                   |  1 |   1 |   0 |   0 |  0 |  0 |
-| Gramineae indet.               |  0 |   4 |   8 |   1 |  1 |  2 |
-| Arnebia sp.                    |  0 |   0 |   0 |   0 |  2 |  0 |
-| Sambucus sp.                   |  1 |   0 |   0 |   0 |  1 |  0 |
-| Allium sp.                     |  0 |   0 |   0 |   1 |  0 |  0 |
-| Litho sperma sp.               |  0 |   5 |   3 |  30 |  0 |  0 |
-| Echuim sp.                     |  0 |   1 |   0 |   8 |  0 |  1 |
-| Anchusa sp.                    |  0 |   0 |   0 |   3 |  0 |  0 |
-| Thymelea passerina             |  1 | 113 | 102 | 496 |  4 |  2 |
-| Verbascum Sp.                  |  0 |   4 |   0 |   0 |  0 |  0 |
-| Prunus sp.                     |  0 |   1 |   1 |   1 |  0 |  3 |
-| Ranunculus sp.                 |  0 |   0 |   0 |   3 |  0 |  0 |
-| Agrostemma sp.                 |  0 |   0 |   0 |   3 |  0 |  2 |
-| Viola sp.                      |  0 |   0 |   1 |   1 |  0 |  0 |
-| Unidentified seeds             | 10 |  19 |  35 |  15 | 10 | 11 |
-| TOTALS                         | 61 | 274 | 389 | 613 | 60 | 57 |
 
+| Group                            |   1 |   2 |   3 |   4 |   5 |   6 |
+| -------------------------------- | --- | --- | --- | --- | --- | --- |
+| Phases             | I-II | II-III | II-IV | II-V | IV-VI | VII-VIII |
+| Samples                          |  17 |  30 |  28 |  17 |  22 |  13 |
+| Volumes (l)                      | 36.5|  64 | 63.5| 46.5| 66.5|  25 |
+| CEREALS: grains              |
+|   *Hurdeum*, hulled grains       |   0 |   1 |   1 |   0 |   0 |   0 |
+|   *Hordeum vulgare*              |   0 |   4 |  16 |   1 |   1 |   2 |
+|   *Triticum aestivum/durum*      |   0 |   0 |   5 |   1 |   0 |   0 |
+|   *Triticum*, grains indet.      |   1 |   0 |   4 |   0 |   1 |   0 |
+|   *Panicum* sp.                  |   0 |   0 |   0 |   0 |   1 |   0 |
+|   Cereals, grains indet.         |   7 |   8 |  24 |   3 |   4 |   7 |
+| CEREALS: chaff               |
+|   *Triticum* sp., rachis         |   0 |   0 |   2 |   0 |   0 |   0 |
+|   *Hordeum* sp., rachis                |   0 |   0 |   0 |   0 |   1 |   0 |
+|   Culm node                      |   0 |   2 |   1 |   0 |   0 |   0 |
+| Leguminosae                  |       0 |   3 |   1 |   0 |   0 |   0 |
+|   *Vicia* sp.                    |   0 |   1 |   2 |   0 |   0 |   0 |
+|   *Vicia ervilla*                |   0 |   0 |   1 |   0 |   0 |   0 |
+|   *Lathryus* sp.                 |   0 |   3 |   1 |   0 |   0 |   0 |
+|   *Cicer arietinum*              |   0 |   0 |   1 |   0 |   0 |   0 |
+|   *Lens* sp.                     |   2 |   3 |   5 |   1 |   0 |   0 |
+|   *Pisum* sp.                    |   0 |   0 |   0 |   0 |   0 |   2 |
+|   Large Legume indet.            |   0 |   2 |   6 |   1 |   1 |   2 |
+|   Small legume indet.            |   0 |   1 |   1 |   0 |   0 |   0 |
+| Fruit and Nut Species        |
+|   *Ficus carica*, fruit          |   0 |   1 |   1 |   0 |   0 |   0 |
+|   *Ficus carica*                 |   5 |   4 |  57 |   4 |   5 |   0 |
+|   *Olea europaea*                |  20 |  53 |  49 |  22 |  12 |  10 |
+|   *Vitis vinifera*, peduncle     |   2 |   0 |   2 |   0 |   0 |   0 |
+|   *Vitis vinifera* ssp. *sylvestris* |   0 |   2 |   0 |   0 |   1 |   0 |
+|   *Vitis vinifera*               |  10 |  30 |  40 |  10 |  10 |   5 |
+|   *Phoenix dactylifera*          |   0 |   5 |   2 |   1 |   3 |   0 |
+|   Nutshell indet.                |   1 |   2 |   0 |   1 |   1 |   1 |
+| Weed/Wild Taxa               |       0 |   0 |   1 |   0 |   0 |   0 |
+|   *Fumaria* sp.                  |   0 |   0 |   3 |   0 |   0 |   0 |
+|   *Adonis* sp.                   |   0 |   0 |   2 |   0 |   0 |   0 |
+|   *Chenopodium* sp.              |   0 |   0 |   1 |   0 |   0 |   0 |
+|   *Euphorbia* sp.                |   0 |   0 |   1 |   0 |   0 |   0 |
+|   *Cornilla* sp.                 |   0 |   0 |   1 |   0 |   0 |   0 |
+|   *Silene* sp.                   |   0 |   0 |   0 |   1 |   1 |   0 |
+|   *Medicago* sp.                 |   0 |   0 |   4 |   0 |   0 |   0 |
+|   *Geranium* sp.                 |   0 |   0 |   0 |   1 |   0 |   1 |
+|   *Malva* sp.                    |   0 |   0 |   0 |   4 |   0 |   0 |
+|   *Ornitogalium* sp.             |   0 |   0 |   1 |   0 |   0 |   0 |
+|   *Galium* sp.                   |   0 |   0 |   3 |   0 |   0 |   6 |
+|   *Plantago* sp.                 |   0 |   1 |   0 |   0 |   0 |   0 |
+|   *Phalaris* sp.                 |   1 |   1 |   0 |   0 |   0 |   0 |
+|   Gramineae indet.               |   0 |   4 |   8 |   1 |   1 |   2 |
+|   *Arnebia* sp.                  |   0 |   0 |   0 |   0 |   2 |   0 |
+|   *Sambucus* sp.                 |   1 |   0 |   0 |   0 |   1 |   0 |
+|   *Allium* sp.                   |   0 |   0 |   0 |   1 |   0 |   0 |
+|   *Litho sperma* sp.             |   0 |   5 |   3 |  30 |   0 |   0 |
+|   *Echuim* sp.                   |   0 |   1 |   0 |   8 |   0 |   1 |
+|   *Anchusa* sp.                  |   0 |   0 |   0 |   3 |   0 |   0 |
+|   *Thymelea passerina*           |   1 | 113 | 102 | 496 |   4 |   2 |
+|   *Verbascum* Sp.                |   0 |   4 |   0 |   0 |   0 |   0 |
+|   *Prunus* sp.                   |   0 |   1 |   1 |   1 |   0 |   3 |
+|   *Ranunculus* sp.               |   0 |   0 |   0 |   3 |   0 |   0 |
+|   *Agrostemma* sp.               |   0 |   0 |   0 |   3 |   0 |   2 |
+|   *Viola* sp.                    |   0 |   0 |   1 |   1 |   0 |   0 |
+| Unidentified seeds               |  10 |  19 |  35 |  15 |  10 |  11 |
+| TOTALS                           |  61 | 274 | 389 | 613 |  60 |  57 |
+
+  
 ### Dates
 End of the 1st century BCE - 2nd/3rd centuries CE (Late Hellenistic/Roman periods)
 
