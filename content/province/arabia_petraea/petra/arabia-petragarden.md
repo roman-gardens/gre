@@ -123,41 +123,67 @@ Table 1: Taxa identified from the Petra Garden and Pool Complex. (from Ramsey an
 
 <style>
 
-  
-table { background:#fff ; border:3px solid #000 ; border-collapse:collapse }
-td, th { border:1px solid #eee ; text-align:center ; padding-left:0.5em }
+
+table {
+  background: #fff;
+  border: 3px solid #000;
+  border-collapse: collapse;
+}
+td, th {
+  color: #000 ! important;
+  border: 1px solid #eee;
+  text-align: center;
+  padding-left: 0.5em;
+}
 
 /* left-justify first cell in each row */
-tr td:first-child, tr th:first-child { text-align:left ; white-space:nowrap }
-tr td:first-child { padding-left:2em }
+tr td:first-child,
+tr th:first-child {
+  text-align: left;
+  white-space: nowrap;
+}
+/* indent first column */
+tr td:first-child {
+  padding-left: 2em
+}
 
 /* style the 4 header rows */
-tr th { border-top:3px solid #000; }
-tr:nth-child(3) td { border-bottom:3px solid #000; }
+tr th {
+  border-top: 3px solid #000;
+}
+tr:nth-child(3) td {
+  border-bottom: 3px solid #000;
+}
 tr:nth-child(1),
-  tr:nth-child(2),
-  tr:nth-child(3) { font-weight:bold }
+tr:nth-child(2),
+tr:nth-child(3) {
+  font-weight: bold;
+}
 
 /* don't indent header and subheader rows */
 tr:nth-child(1) td,
-  tr:nth-child(2) td,
-  tr:nth-child(3) td,
-  tr:nth-child(4) td,
-  tr:nth-child(11) td,
-  tr:nth-child(15) td,
-  tr:nth-child(24) td,
-  tr:nth-child(33) td,
-  tr:nth-child(60) td,
-  tbody tr:last-child td { padding-left:0.5em }
+tr:nth-child(2) td,
+tr:nth-child(3) td,
+tr:nth-child(4) td,
+tr:nth-child(11) td,
+tr:nth-child(15) td,
+tr:nth-child(24) td,
+tr:nth-child(33) td,
+tr:nth-child(60) td,
+tbody tr:last-child td {
+  padding-left: 0.5em;
+}
 
-/* sub-header rows and last row */
+/* bold sub-header rows and last row */
 tr:nth-child(4),
-  tr:nth-child(11),
-  tr:nth-child(15),
-  tr:nth-child(24),
-  tr:nth-child(33),
-  tr:nth-child(60),
-  tbody tr:last-child { font-weight: bold }
+tr:nth-child(11),
+tr:nth-child(15),
+tr:nth-child(24),
+tr:nth-child(33),
+tr:nth-child(60),
+tbody tr:last-child {
+  font-weight: bold;
+}
 
 </style>
 
@@ -176,7 +202,7 @@ tr:nth-child(4),
 |   Cereals, grains indet.         |   7 |   8 |  24 |   3 |   4 |   7 |
 | CEREALS: chaff               |
 |   *Triticum* sp., rachis         |   0 |   0 |   2 |   0 |   0 |   0 |
-|   *Hordeum* sp., rachis                |   0 |   0 |   0 |   0 |   1 |   0 |
+|   *Hordeum* sp., rachis          |   0 |   0 |   0 |   0 |   1 |   0 |
 |   Culm node                      |   0 |   2 |   1 |   0 |   0 |   0 |
 | Leguminosae                  |       0 |   3 |   1 |   0 |   0 |   0 |
 |   *Vicia* sp.                    |   0 |   1 |   2 |   0 |   0 |   0 |
@@ -226,7 +252,7 @@ tr:nth-child(4),
 | Unidentified seeds               |  10 |  19 |  35 |  15 |  10 |  11 |
 | TOTALS                           |  61 | 274 | 389 | 613 |  60 |  57 |
 
-  
+
 ### Dates
 End of the 1st century BCE - 2nd/3rd centuries CE (Late Hellenistic/Roman periods)
 
