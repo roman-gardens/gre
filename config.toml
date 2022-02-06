@@ -60,13 +60,13 @@ summaryLength = 10000
 
 
 [Params]
-twitter_cards = true
-images = ["images/landing-page-map-1.png"]
-customCSS = ["css/custom.css"]
-highlightColor = "#c22d30"
+  twitter_cards = true
+  images = ["images/landing-page-map-1.png"]
+  customCSS = ["css/custom.css"]
+  highlightColor = "#c22d30"
 
 [Params.logo]
-title = "GARDENS of the ROMAN EMPIRE"
+  title = "GARDENS of the ROMAN EMPIRE"
 
 [Params.sidebar]
 	home = "left" # Configure layout for home page
@@ -79,3 +79,12 @@ title = "GARDENS of the ROMAN EMPIRE"
 [Params.widgets]
 	recent_num = 2 # Set the number of articles in the "Recent articles" widget
 	tags_counter = true # Enable counter for each tag in "Tags" widget
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+
+  [markup.goldmark.extensions]
+    typographer = false
+
+	[markup.goldmark.renderer]
+	  unsafe = true
