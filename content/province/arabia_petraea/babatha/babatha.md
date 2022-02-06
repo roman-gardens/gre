@@ -1,7 +1,7 @@
 ---
 title: "Babatha's Orchard"
 date: 2020-10-01
-latlon: [ 31.912796, 35.751922 ]
+latlon: [ 31.024905, 35.456543 ]
 province_id:
 article_id: ARTICLE_ID
 author: Leigh-Ann Bedal
