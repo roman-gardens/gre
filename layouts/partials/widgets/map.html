@@ -147,7 +147,9 @@
       bounds = L.latLngBounds();
       var div_circle = L.divIcon({ className: 'dot' });
       {{ $points := slice . }}
-      {{ if eq (replaceRE "\\\\" "/" .Dir ) "/" }}
+      {{ if not .File }}
+        {{ $points = .Site.RegularPages }}
+      {{ else if eq .File.Path "home.md" }}
         {{ $points = .Site.RegularPages }}
       {{ else }}
         {{ with .RegularPagesRecursive }}
