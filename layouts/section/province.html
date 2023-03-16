@@ -1,8 +1,9 @@
 {{ define "main" }}
 <main class="main list" role="main">
-  {{ $path := print (path.Dir .Path) }}
+  {{ $path := print (replaceRE "/$" "" (replaceRE "\\\\" "/" .File.Dir) ) }}
   {{ $dirs := split (replaceRE "^province." "" $path) "/" }}
   {{ $len := len $dirs }}
+  PATH='{{ $path }}'
 
   <!-- display path hierarchy, with each level linked -->
   <header class="main__header">
@@ -31,7 +32,7 @@
   -->
   {{ $dirs := slice }}
   {{ range .RegularPagesRecursive }}
-    {{ $d := strings.TrimPrefix (print $path "/") (path.Dir .Dir) }}
+    {{ $d := strings.TrimPrefix (print $path "/") (replaceRE "/$" "" (replaceRE "\\\\" "/" .File.Dir)) }}
     <!-- only keep first level subdirectories -->
     {{ $d = replaceRE "/.*" "" $d }}
     <!-- don't keep articles in the current directory -->
