@@ -3,7 +3,6 @@
   {{ $path := print (replaceRE "/$" "" (replaceRE "\\\\" "/" .File.Dir) ) }}
   {{ $dirs := split (replaceRE "^province." "" $path) "/" }}
   {{ $len := len $dirs }}
-  PATH='{{ $path }}'
 
   <!-- display path hierarchy, with each level linked -->
   <header class="main__header">
