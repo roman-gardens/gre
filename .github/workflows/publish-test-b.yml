@@ -1,4 +1,4 @@
-name: publish to gre-website-test
+name: publish to test-b
 
 on:
   workflow_dispatch:
@@ -19,7 +19,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify --baseURL "https://roman-gardens.github.io/gre-website-test/"
+        run: hugo --minify --baseURL "https://roman-gardens.github.io/test-b/"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
