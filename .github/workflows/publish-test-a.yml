@@ -3,7 +3,7 @@ name: publish to test-a website
 on:
   workflow_dispatch:
     branches:
-      - main  # Set a branch to deploy
+      - main  # User can select branch to deploy when running
 
 jobs:
   build-deploy:
