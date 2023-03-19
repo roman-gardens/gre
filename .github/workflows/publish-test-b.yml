@@ -25,11 +25,9 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        env:
-          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY_TEST_B }}
-          EXTERNAL_REPOSITORY: roman-gardens/test-b
-          PUBLISH_BRANCH: main
-          PUBLISH_DIR: ./docs
         with:
-          emptyCommits: false
-          commitMessage: ${{ github.event.head_commit.message }}
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY_TEST_B }}
+          external_repository: roman-gardens/test-b
+          publish_branch: main
+          publish_dir: ./docs
+          commit_message: ${{ github.event.head_commit.message }}
