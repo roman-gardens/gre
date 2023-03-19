@@ -11,8 +11,7 @@
       {{- $url = replaceRE "-" "_" $url }}
 
       {{- /* fix _/- when publishing to test */ -}}
-      {{- $url = replaceRE "gre_website_test" "gre-website-test" $url }}
-      {{- $url = replaceRE "test_" "test-" $url }}
+      {{- $url = replaceRE "_" "-" $url }}
       <li class="widget__item">
         <a class="widget__link" href="{{ $url }}">{{ .Title }}</a>
       </li>
