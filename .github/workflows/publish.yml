@@ -3,7 +3,7 @@ name: publish to roman-gardens.github.io
 on:
   workflow_dispatch:
     branches:
-      - main  # Set a branch to deploy
+      - main  # User can select branch to deploy when running
 
 jobs:
   build-deploy:
@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          submodules: false # no longer using submodules
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          submodules: false
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -25,11 +25,9 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        env:
-          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          EXTERNAL_REPOSITORY: roman-gardens/roman-gardens.github.io
-          PUBLISH_BRANCH: main
-          PUBLISH_DIR: ./docs
         with:
-          emptyCommits: false
-          commitMessage: ${{ github.event.head_commit.message }}
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: roman-gardens/roman-gardens.github.io
+          publish_branch: main
+          publish_dir: ./docs
+          commit_message: ${{ github.event.head_commit.message }}
