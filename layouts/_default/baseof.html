@@ -47,9 +47,9 @@
 		{{- end }}
 	{{- end }}
 </head>
-<body class="body{{ if or (.Site.BuildDrafts) (in .Site.BaseURL "test") }} test{{ end }}">
-	{{ if or (.Site.BuildDrafts) (in .Site.BaseURL "test") }}
-	<div class="test-header">TEST website</div>
+<body class='body{{ if or (in .Site.BaseURL "localhost") (in .Site.BaseURL "test") }} test{{ end }}'>
+	{{ if or (in .Site.BaseURL "localhost") (in .Site.BaseURL "test") }}
+	<div class="test-header">{{ .Site.BaseURL }}</div>
 	{{ end }}
 	<div class="container container--outer">
 		{{ partial "header" . }}
