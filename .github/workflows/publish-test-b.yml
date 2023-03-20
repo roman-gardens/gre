@@ -1,4 +1,4 @@
-name: publish to test-b
+name: publish to test-b website repo
 
 on:
   workflow_dispatch:
@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          submodules: false  # no longer using submodules
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          submodules: false
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
