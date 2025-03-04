@@ -2,7 +2,7 @@
 gre_id: "6396878ba3"
 aliases: [/id/6396878ba3]
 title: "Tomb garden at Tyre"
-date: 2020-10-08T10:30-04:00
+date: 2020-10-08T10:30:00-04:00
 latlon: [ 33.269847, 35.203843 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID

@@ -2,7 +2,7 @@
 gre_id: "2abc941b5c"
 aliases: [/id/2abc941b5c]
 title: "Agora of the Italians"
-date: 2020-10-25T10:30-04:00
+date: 2020-10-25T10:30:00-04:00
 latlon: [ 37.401783, 25.267610 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID

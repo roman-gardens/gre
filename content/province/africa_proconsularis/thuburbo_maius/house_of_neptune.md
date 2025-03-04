@@ -2,7 +2,7 @@
 gre_id: "e0e0054f68"
 aliases: [/id/e0e0054f68]
 title: "House of Neptune (Maison de Neptune)"
-date: 11-9-20
+date: 2020-11-09
 latlon: [ 36.400355, 9.903990 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID

@@ -2,7 +2,7 @@
 gre_id: "43d2397bce"
 aliases: [/id/43d2397bce]
 title: "Theater (Theâtre)"
-date: 11-10-20
+date: 2020-11-10
 latlon: [ 36.422473, 9.218866 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID

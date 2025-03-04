@@ -2,7 +2,7 @@
 gre_id: "0d54548d75"
 aliases: [/id/0d54548d75]
 title: "Domus under the Hôtel d’Assézat"
-date: 2020-09-29T21:13:02-00:00:00
+date: 2020-09-29T21:13:02
 latlon: [ 43.600353, 1.441875 ]
 article_id: ARTICLE_ID
 author: AUTHOR_ID

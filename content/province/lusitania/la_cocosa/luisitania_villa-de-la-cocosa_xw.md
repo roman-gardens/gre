@@ -2,7 +2,7 @@
 gre_id: "208bdd1bc5"
 aliases: [/id/208bdd1bc5]
 title: "Villa de La Cocosa"
-date: 2020-11-2
+date: 2020-11-02
 latlon: [ 38.738228, -6.99544 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID

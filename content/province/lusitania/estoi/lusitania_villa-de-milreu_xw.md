@@ -2,7 +2,7 @@
 gre_id: "2b7ce2f065"
 aliases: [/id/2b7ce2f065]
 title: "Villa de Milreu"
-date: 2020-11-2
+date: 2020-11-02
 latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID

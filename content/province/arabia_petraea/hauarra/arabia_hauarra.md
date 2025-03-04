@@ -2,7 +2,7 @@
 gre_id: "35fc323d18"
 aliases: [/id/35fc323d18]
 title: "Shrine Complex in Insula E125"
-date: 2020-10-08T10:30-04:00
+date: 2020-10-08T10:30:00-04:00
 latlon: [ 29.956958, 35.328326 ]
 province_id: PROVINCE_id
 article_id: ARTICLE_ID

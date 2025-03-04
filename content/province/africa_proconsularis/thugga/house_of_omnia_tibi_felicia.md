@@ -2,7 +2,7 @@
 gre_id: "0e18b5c4ee"
 aliases: [/id/0e18b5c4ee]
 title: "House of Omnia Tibi Felicia (Maison Omnia Tibi Felicia)"
-date: 11-10-20
+date: 2020-11-10
 latlon: [ 36.422473, 9.218866 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID

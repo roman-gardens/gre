@@ -2,7 +2,7 @@
 gre_id: "19dff800ff"
 aliases: [/id/19dff800ff]
 title: "House of the Swastika Mosaic"
-date: 2020-11-2
+date: 2020-11-02
 latlon: [ 40.099026, -8.494163 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID

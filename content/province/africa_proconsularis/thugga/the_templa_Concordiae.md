@@ -2,7 +2,7 @@
 gre_id: "f3e5a4f149"
 aliases: [/id/f3e5a4f149]
 title: "Sanctuary B, the templa Concordiae"
-date: 11-10-20
+date: 2020-11-10
 latlon: [ 36.422473, 9.218866 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID

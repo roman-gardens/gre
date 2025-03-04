@@ -2,7 +2,7 @@
 gre_id: "c37c091923"
 aliases: [/id/c37c091923]
 title: "House of the Skeletons"
-date: 2020-11-2
+date: 2020-11-02
 latlon: [ 40.099, -8.4933 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID

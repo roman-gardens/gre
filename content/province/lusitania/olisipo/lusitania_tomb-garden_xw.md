@@ -2,7 +2,7 @@
 gre_id: "f92895fc7d"
 aliases: [/id/f92895fc7d]
 title: "Tomb Garden of Flavius M. f. Quadratus"
-date: 2020-11-2
+date: 2020-11-02
 latlon: [ 38.707166, -9.135507 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID

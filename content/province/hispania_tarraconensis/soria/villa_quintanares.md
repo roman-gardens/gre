@@ -2,7 +2,7 @@
 gre_id: "3fc5921f62"
 aliases: [/id/3fc5921f62]
 title: "Villa los Quintanares"
-date: 2020-11-2
+date: 2020-11-02
 latlon: [ 0, 0 ]
 province_id: PROVINCE_ID
 article_id: ARTICLE_ID
