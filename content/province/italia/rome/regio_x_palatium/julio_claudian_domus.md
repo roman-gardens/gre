@@ -65,9 +65,9 @@ The *domus* of the Vigna Barberini was included in [Nero's](https://en.wikipedia
 <!-- -->
 OTHER PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
-[Vigna Barberini]({{<relref"/vigna_barberini.md">}})\
-[Garden of the Flavian Imperial Palace]({{<relref"/flavian_imperial_palace.md">}})\
-[Garden of the Temple of Elagabalus]({{<relref"/temple_of_elagabalus.md">}})
+[Vigna Barberini]({{<relref"vigna_barberini">}})\
+[Garden of the Flavian Imperial Palace]({{<relref"flavian_imperial_palace">}})\
+[Garden of the Temple of Elagabalus]({{<relref"temple_of_elagabalus">}})
 <!-- -->
 ### Figures
 <!-- -->

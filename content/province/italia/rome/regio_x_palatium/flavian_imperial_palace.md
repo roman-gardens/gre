@@ -74,9 +74,9 @@ All through the 2nd century, a series of refurbishments took place that aimed to
 <!-- -->
 OTHER PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
-[Vigna Barberini]({{<relref"/vigna_barberini.md">}})\
-[Garden of the Peristyle of the Julio-Claudian *Domus*]({{<relref"/julio_claudian_domus.md">}})\
-[Garden of the Temple of Elagabalus]({{<relref"/temple_of_elagabalus.md">}})
+[Vigna Barberini]({{<relref"vigna_barberini">}})\
+[Garden of the Peristyle of the Julio-Claudian *Domus*]({{<relref"julio_claudian_domus">}})\
+[Garden of the Temple of Elagabalus]({{<relref"temple_of_elagabalus">}})
 <!-- -->
 ### Figures
 <!-- -->
