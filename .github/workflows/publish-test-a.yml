@@ -1,4 +1,4 @@
-name: publish to roman-gardens.github.io
+name: publish to test-a website repo
 
 on:
   workflow_dispatch:
@@ -21,13 +21,13 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --baseURL "https://roman-gardens.github.io/test-a/"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          external_repository: roman-gardens/roman-gardens.github.io
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY_TEST_A }}
+          external_repository: roman-gardens/test-a
           publish_branch: main
           publish_dir: ./docs
           commit_message: ${{ github.event.head_commit.message }}
