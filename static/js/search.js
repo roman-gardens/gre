@@ -11,7 +11,7 @@ function displayResults (results, store) {
       resultList += '<article class="list__item post">'
 
       // breadcrumbs
-      resultList += '<div class="smallcrumbs">' + item.breadcrumbs + '</div>'
+      resultList += '<div class="smallcrumbs">' + item.smallcrumbs + '</div>'
 
       // linked title
       resultList += '<h3 class="list__title post__title"><a href="' + item.url + '">' + item.title + '</a></h3>'

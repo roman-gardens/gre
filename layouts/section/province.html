@@ -2,14 +2,14 @@
 <!-- Display list of gardens under the current location -->
 <main class="main list" role="main">
   {{- partial "breadcrumbs.html" . -}}
-  {{- $path := print (path.Dir .Path) -}}
+  {{- $path := .Path -}}
 
   <!-- iterate through all published pages in this province
        to find unique subdirectories
   -->
   {{- $dirs := slice -}}
   {{- range .RegularPagesRecursive -}}
-    {{- $d := strings.TrimPrefix (print $path "/") (path.Dir .Dir) -}}
+    {{- $d := strings.TrimPrefix (print $path "/") ( path.Dir .Path) -}}
     <!-- only keep first level subdirectories -->
     {{- $d = replaceRE "/.*" "" $d -}}
     <!-- force roman rumerals to sort better -->
@@ -26,7 +26,7 @@
 
   <!-- get the current place name -->
   {{- $thisplace := "" -}}
-  {{- $thisplace = delimit (last 1 (split (path.Dir .Path) "/") ) "" -}}
+  {{- $thisplace = delimit (last 1 (split (.Path) "/") ) "" -}}
   {{- $thisplace = replaceRE "_" " " $thisplace | title -}}
   <!-- fix roman numeral caps -->
   {{- with findRE "([IVX][ivx]+)" $thisplace 1 -}}
@@ -34,8 +34,8 @@
     {{- $thisplace = replaceRE $roman ($roman | upper ) $thisplace -}}
   {{- end -}}
 
-  <!-- Display any sublocations -->
-  {{- if len $dirs -}}
+  <!-- Display sublocations, if any -->
+  {{- if index $dirs 0 -}}
     {{- if eq $thisplace "Province" }}
       Provinces:
     {{- else }}

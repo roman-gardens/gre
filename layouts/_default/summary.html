@@ -1,4 +1,5 @@
 {{- if len .Summary }}
+	<!-- this template gets used when displaying a list of keyword matches -->
 	<article class="list__item post">
 		{{- if .Params.thumbnail }}
 		<figure class="list__thumbnail">
@@ -8,16 +9,17 @@
 		</figure>
 		{{- end }}
 		<header class="list__header">
-		  <!-- breadcrumbs -->
-		  <div class='smallcrumbs'>
-			  {{ $crumbs := replaceRE "_" " " (path.Dir .Path) }}
-				{{ replaceRE "province/" " " $crumbs }}
-		  </div>
 			<h2 class="list__title post__title ">
 				<a href="{{ .RelPermalink }}" rel="bookmark">
 				{{ .Title }}
 				</a>
 			</h2>
+			<div class='smallcrumbs'>
+				{{ $crumbs := replaceRE "/province/" " " (path.Dir .Path) }}
+			    {{ $crumbs := replaceRE "_" " " $crumbs }}
+				{{ $crumbs := replaceRE "/" " / " $crumbs }}
+				{{ $crumbs }}
+		    </div>
 			{{- with .Params.lead }}
 			<p class="list__lead post__lead">{{ . }}</p>
 			{{- end }}
@@ -28,9 +30,11 @@
 
 		<div class="content list__excerpt post__content clearfix">
 			<!-- up to 180 characters, starting with the Garden Description -->
-			{{ $summary_parts := split .Summary "Garden Description" }}
-			{{ $summary_excerpt := index $summary_parts 1 }}
-			{{ substr $summary_excerpt 0 180 }}...
+			{{ $split := split .Summary "Garden Description" }}
+			{{ $excerpt := (index $split 1) | plainify | htmlUnescape }}
+			{{ $excerpt := substr $excerpt 0 180 }}
+			{{ $excerpt := replaceRE ` \w+$` " " $excerpt }}
+			{{ $excerpt }}...
 		</div>
 
 		{{- if .Site.Params.readmore }}

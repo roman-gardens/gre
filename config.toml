@@ -4,7 +4,6 @@ relativeURLs = false
 languageCode = "en-us"
 title = "Gardens of the Roman Empire"
 theme = "mainroad"
-paginate = "1000"
 
 publishDir = "docs"
 
@@ -12,7 +11,18 @@ buildDrafts = false
 enableEmoji = true
 enableInlineShortcodes = true
 
+# This needs to be high to insure .Summary includes the Garden Description
 summaryLength = 10000
+
+ignoreLogs = ['warning-goldmark-raw-html']
+
+# avoid smart quotes and quote escaping
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.extensions]
+			[markup.goldmark.extensions.typographer]
+				leftDoubleQuote = '"'
+				rightDoubleQuote = '"'
 
 [menu]
 
@@ -60,7 +70,7 @@ summaryLength = 10000
 
 
 [Params]
-twitter_cards = true
+twitter_cards = false
 images = ["images/landing-page-map-1.png"]
 customCSS = ["css/custom.css"]
 highlightColor = "#c22d30"
@@ -74,7 +84,7 @@ title = "GARDENS of the ROMAN EMPIRE"
 	single = "left" # Configure layout for single pages
 	# Enable widgets in given order
 	# widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
-	widgets = ["search-lunr", "map", "taglist"]
+	widgets = ["search-lunr", "map"]
 
 [Params.widgets]
 	recent_num = 2 # Set the number of articles in the "Recent articles" widget

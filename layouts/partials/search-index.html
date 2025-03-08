@@ -1,12 +1,17 @@
 <script>
-function breadcrumbs(dir) {
+function smallcrumbs(dir) {
   dir = dir.toLowerCase()
-  dir = dir.replaceAll('\\', '/')
-  dir = dir.replace('province/', '')
+  dir = dir.replace('/province/', '')
   if (! dir) return
 
   dir = dir.replace(/_/g, ' ')
-  dir = dir.replace(/\/$/, '')
+  dir = dir.replace(/\//g, ' / ')
+
+  // capitalize each word
+  dir = dir.replace(/\b(\w)/g, x => x.toUpperCase())
+
+  // all caps for Roman numerals
+  dir = dir.replace(/\b[ivx]+\b/ig, x => x.toUpperCase())
 
   return dir
 }
@@ -17,7 +22,7 @@ window.store = {
     {{ if .Title }}
     "{{ $ri }}": {
         "title": "{{ .Title }}",
-        "breadcrumbs": breadcrumbs("{{ .File.Dir }}"),
+        "smallcrumbs": smallcrumbs("{{ path.Dir .Path }}"),
         "content": {{ .Plain }},
         "url": "{{ .Permalink }}"},
     {{ end }}

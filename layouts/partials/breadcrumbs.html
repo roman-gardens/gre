@@ -1,17 +1,18 @@
 <!-- Display the navigational breadcrumbs at the top of each
   garden and section webpage -->
-{{ $path := print (path.Dir .Path) }}
+{{ $path := .Path }}
+{{ $path := strings.TrimPrefix "/" $path }}
 {{ $dirs := split $path "/" }}
 {{ $levels := len $dirs }}
-<!-- adjust $levels for section pages (_index.md) -->
-{{ if eq .Kind "section" }}
-  {{ $levels = sub $levels 1 }}
+{{ if eq .Kind "page" }}
+  {{ $dirs = first (sub $levels 1) $dirs }}
 {{ end }}
 {{ $place := "" }}
 
 <!-- display path hierarchy, with each level linked -->
 <nav class="breadcrumbs">
   {{- range $i, $dir := $dirs -}}
+    <!-- print slash except for at beginning -->
     {{- if ne 0 $i }}
       /
     {{- end -}}
@@ -24,7 +25,7 @@
       {{- $roman := delimit . "" -}}
       {{- $place = replaceRE $roman ($roman | upper ) $place -}}
     {{- end -}}
-    {{- $link := strings.Repeat (sub $levels $i) "../" }}
+    {{- $link := strings.Repeat (sub $levels $i 1) "../" }}
     <a href="{{ $link }}">{{ $place }}</a>
   {{- end }}
 </nav>
