@@ -16,13 +16,6 @@ summaryLength = 10000
 
 ignoreLogs = ['warning-goldmark-raw-html']
 
-# avoid smart quotes and quote escaping
-[markup]
-	[markup.goldmark]
-		[markup.goldmark.extensions]
-			[markup.goldmark.extensions.typographer]
-				leftDoubleQuote = '"'
-				rightDoubleQuote = '"'
 
 [menu]
 
