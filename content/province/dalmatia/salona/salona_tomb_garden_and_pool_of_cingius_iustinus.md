@@ -5,7 +5,7 @@ type: garden
 title: "Tomb Garden and Pool of Cingius Iustinus"
 date: 2020-07-14T16:52:02-04:00
 latlon: [ 43.539561, 16.483426 ]
-author: [ John Bodel, Other Guy ]
+author: John Bodel
 editor: Christian Casey
 lead: A rock cut inscription at Salonae ...
 draft: true

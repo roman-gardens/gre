@@ -100,7 +100,7 @@ House of Venus (Maison de Venus)
 
 ### Contributor
 
-[Wilhelmina F. Jashemski](link) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/))
+[Wilhelmina Jashemski](link) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/))
 
 
 ### Publication date

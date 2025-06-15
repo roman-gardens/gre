@@ -124,7 +124,7 @@ at Thuburbo Maius, Zaghouan, Tunisia" in *Sourcebook for Garden Archaeology, Mth
 
 ### Contributor
 
-[Wilhelmina F. Jashemski](http://worldcat.org/identities/lccn-n80037970/)
+[Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 
 ### Publication Date
 21 Apr 2021

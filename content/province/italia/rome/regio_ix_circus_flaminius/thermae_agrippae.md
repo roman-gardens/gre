@@ -5,7 +5,7 @@ type: garden
 title: "Thermae Agrippae"
 date: 2021-03-31T10:58:08-07:00
 latlon: [ 41.896879, 12.476831 ]
-author: E.R. Macaulay, Beth Ryan
+author: Elizabeth Macaulay, Beth Ryan
 editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
 tags:
@@ -94,12 +94,12 @@ The *Thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](http://data.perseus
 <!-- -->
 ### Contributors
 
-[E.R. Macaulay](https://emacaulaylewis.com)\
+[Elizabeth Macaulay](https://emacaulaylewis.com)\
 [Beth Ryan](#)<!--website for Beth Ryan?-->
 <!-- -->
 #### ORCID
 
-[E.R. Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
+[Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 <!--ORCID for Beth Ryan?-->
 <!-- -->
 ### Publication date

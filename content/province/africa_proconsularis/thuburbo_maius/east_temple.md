@@ -78,7 +78,7 @@ Unspecified
 
 ### Contributor
 
-[Wilhelmina F. Jashemski](http://worldcat.org/identities/lccn-n80037970/)
+[Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 <!--add in orcid id and info-->
 
 ### Publication Date

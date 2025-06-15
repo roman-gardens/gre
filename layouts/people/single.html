@@ -1,0 +1,47 @@
+{{ define "main" }}
+<main class="main" role="main">
+	<article class="post{{ if .Params.draft }} draft{{ end }}">
+		{{ if .Params.draft }}
+			<div class="draft">DRAFT</div>
+		{{ end }}
+		<header class="post__header">
+			<h1 class="post__title">{{ .Title }}</h1>
+		</header>
+		{{- if .Params.thumbnail }}
+		<figure class="post__thumbnail">
+			<img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}">
+		</figure>
+		{{- end }}
+		{{- partial "post_toc.html" . -}}
+		<div class="content post__content clearfix">
+			{{ .Content }}
+		</div>
+
+        {{ if 0 }}
+        {{ $person := .Params.Title }}
+        {{ $pages := where .Site.Pages ".Params.Author" $person }}
+        {{ if $pages }}
+            <hr>
+            <h2>Author of</h2>
+            <ul class="people-gardens">
+            {{ range $pages }}
+                <li><a href="{{ index .Aliases 0 }}">{{ .Title }}</a></li>
+            {{ end }}
+            </ul>
+        {{ end }}
+
+        {{ $pages := where .Site.Pages ".Params.Editor" $person }}
+        {{ if $pages }}
+            <hr>
+            <h2>Contributor to</h2>
+            <ul class="people-gardens">
+            {{ range $pages }}
+                <li><a href="{{ index .Aliases 0 }}">{{ .Title }}</a></li>
+            {{ end }}
+            </ul>
+        {{ end }}
+        {{ end }}
+
+	</article>
+</main>
+{{ end }}

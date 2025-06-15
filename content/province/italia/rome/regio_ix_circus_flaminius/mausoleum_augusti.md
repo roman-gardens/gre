@@ -5,7 +5,7 @@ type: garden
 title: "Mausoleum Augusti"
 date: 2021-04-05T15:00:00-07:00
 latlon: [ 41.906030, 12.476423 ]
-author: E.R. Macaulay
+author: Elizabeth Macaulay
 editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
 tags:
@@ -121,11 +121,11 @@ between 28 and 23 BCE
 <!-- -->
 ### Contributor
 
-[E.R. Macaulay](https://emacaulaylewis.com)
+[Elizabeth Macaulay](https://emacaulaylewis.com)
 <!-- -->
 #### ORCID
 
-[E.R. Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
+[Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 <!-- -->
 ### Publication date
 <!-- -->

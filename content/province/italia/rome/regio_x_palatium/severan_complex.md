@@ -5,7 +5,7 @@ type: garden
 title: "The Severan Complex"
 date: 2021-04-08T02:47:32+02:00
 latlon: [ 41.889306, 12.487109 ]
-author: M.-A. Tomei
+author: Maria Anntonietta Tomei
 editor: Rhiannon Paré
 draft: false
 tags:
@@ -82,7 +82,7 @@ RELATED PHASES ON THE PALATINE:
 <!-- -->
 ### Contributor
 
-M.-A. Tomei
+Maria Anntonietta Tomei
 <!-- -->
 ## Publication date
 <!-- -->

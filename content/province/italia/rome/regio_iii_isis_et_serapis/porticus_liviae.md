@@ -5,7 +5,7 @@ type: garden
 title: "Porticus Liviae"
 date: 2021-03-16T23:53:09-07:00
 latlon: [ 41.891775, 12.486137 ]
-author: E.R. Macaulay, Holly Spoth-Torres
+author: Elizabeth Macaulay, Holly Spoth-Torres
 editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
 tags:
@@ -102,12 +102,12 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 <!-- -->
 ### Contributors
 
-[E.R. Macaulay](https://emacaulaylewis.com)\
+[Elizabeth Macaulay](https://emacaulaylewis.com)\
 [Holly Spoth-Torres](https://huddleak.com/meet-the-team/) <!--Is this a good website for Spoth-Torres?-->
 <!-- -->
 #### ORCID
 
-[E.R. Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
+[Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 <!--ORCID for Holly J. Spoth/Holly Spoth-Torres-->
 <!-- -->
 ### Publication date

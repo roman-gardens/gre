@@ -9,10 +9,10 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 
 - *Italics* original editors
 - \*  Deceased  
-- Corresponding editors are noted in **bold**.  †
+- Corresponding editors are noted in **bold**
 
 ## Editors
-- *[Wilhelmina Jashemski](wilhelmina-jashemski)*\* , University of Maryland
+- *[Wilhelmina Jashemski](wilhelmina-jashemski)* \* , University of Maryland
 - [Kathryn Gleason](kathryn-gleason), Cornell University, Executive Editor
 - Kim J. Hartswick, CUNY Graduate Center
 - [Amina-Aïcha Malek](amina-aicha-malek), AOROC, CNRS ENS PSL
@@ -54,9 +54,9 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 - **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
 - Xue Xia, Cornell University
 - Jamel Hajji, INP, Tunisia
-- *Wilhelmina Jashemski*\*
-- *Michèle Blanchard Lemée*\*
-- *Abdelfattah Ichkhakh*\*
+- *Wilhelmina Jashemski* \*
+- *Michèle Blanchard Lemée* \*
+- *Abdelfattah Ichkhakh* \*
 
 #### Arabia Petraea
 - **Leigh Ann Bedal**, Pennsylvania State University/Behrend: <lxb41@psu.edu>
@@ -98,8 +98,8 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 #### Cyrene & Creta
 - **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
 - Xue Xia, Cornell University
-- *Wilhelmina Jashemski*\*
-- *Eugenia Salza Prina Ricotti*\*
+- *Wilhelmina Jashemski* \*
+- *Eugenia Salza Prina Ricotti* \*
 
 #### Galatia
 - **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
@@ -175,13 +175,13 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - **Kathryn Gleason**, Cornell University: <klg16@cornell.edu>
 - Kim Hartswick, CUNY Graduate Center
 - Joshua Rosenheim, Cornell University
-- *Wilhelmina Jashemski*\*
-- *Eugenia Salza Prina Ricotti*\*
+- *Wilhelmina Jashemski* \*
+- *Eugenia Salza Prina Ricotti* \*
 
 #### Italia/Rome
 - Vincent Jolivet, AOROC, CNRS ENS
 - **Elizabeth Macaulay**, CUNY Graduate Center: <emacaulay_lewis@gc.cuny.edu>
-- Rhiannon Pare, Princeton University
+- Rhiannon Paré, Princeton University
 
 #### Italia/Vesuvian Sites (Herculaneum, Pompeii, Stabiae)
 - Riccardo Olivito, IMT School for Advanced Studies Lucca
@@ -190,12 +190,12 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - Yukiko Kawamoto, Nagoya University
 - Kaja Tally Schumacher, Cornell University
 - Yifan Li, Cornell University
-- *Wilhelmina Jashemski*\*
+- *Wilhelmina Jashemski* \*
 
 #### Judaea
 - **Kathryn Gleason**, Cornell University: <klg16@cornell.edu>
 - Yaniv Korman, Cornell University
-- *Ehud Netzer*\*
+- *Ehud Netzer* \*
 
 #### Lycia and Pamphylia
 - **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
@@ -212,8 +212,8 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
 - Xue Xia, Cornell University
 - Mohamed Kbiri Allaoui, INSAP
-- *Wilhelmina Jashemski*\*
-- *Michèle Blanchard Lemée*\*
+- *Wilhelmina Jashemski* \*
+- *Michèle Blanchard Lemée* \*
 
 #### Mesopotamia
 - **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
@@ -229,7 +229,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 #### Numidia
 - **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
 - Xue Xia, Cornell University
-- *Michèle Blanchard Lemée*\*
+- *Michèle Blanchard Lemée* \*
 
 #### Pannonia
 - **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
@@ -256,16 +256,16 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - Valerie Aymer
 - Trinidad Nogales Basarreta
 - Leigh-Ann Bedal
-- Pia Guldager Bilde\*
+- Pia Guldager Bilde \*
 - Bettina Birkenhagen
 - Véronique Blanc-Bijon
-- Michele Blanchard-Leme\*
+- Michèle Blanchard Lemée \*
 - John Bodel
 - Henri Broise
 - Tommasino Budetta
 - Francesca Carbonia
 - Maureen Carroll
-- Inmaculada Moreno Casillas\*
+- Inmaculada Moreno Casillas \*
 - Graeme Clark
 - Amanda Claridge
 - Stefano DeCaro
@@ -281,9 +281,9 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - Giuseppina Ghini
 - Kathryn L. Gleason
 - Kim J. Hartswick
-- Yzhar Hirschfeld\*
+- Yzhar Hirschfeld \*
 - Maria Antonietta Ianiello
-- Wilhelmina Jashemski\*
+- Wilhelmina Jashemski \*
 - Vincent Jolivet
 - Jordi Juan-Tresserras
 - Allan Klynne
@@ -318,7 +318,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - Christopher Ratte
 - M. Barbara Reeves
 - Anna Maria Reggiani
-- Eugenia Salza Prina Ricotti\*
+- Eugenia Salza Prina Ricotti \*
 - Elisabetta Roffia
 - Julio Miguel Román Punzón
 - David Gilman Romano
@@ -336,7 +336,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - D. Vaquerizo
 - Françoise Villedieu
 - Győző Vörös
-- Walter Widrig\*
+- Walter Widrig \*
 - Julian Wiethold
 - David Wilkinson
 - Roger Wilson

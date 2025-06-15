@@ -5,7 +5,7 @@ type: garden
 title: "Domus Aurea"
 date: 2021-03-16T23:02:04-07:00
 latlon: [ 41.891244, 12.495403 ]
-author: E.R. Macaulay, Linda Anderson
+author: Elizabeth Macaulay, Linda Anderson
 editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
 tags:
@@ -118,12 +118,12 @@ unspecified
 
 ### Contributors
 
-[E.R. Macaulay](https://emacaulaylewis.com)\
+[Elizabeth Macaulay](https://emacaulaylewis.com)\
 [Linda Anderson](#)<!--Find website-->
 
 #### ORCID
 
-[E.R. Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
+[Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 <!--ORCID for Linda Anderson-->
 
 ### Publication date

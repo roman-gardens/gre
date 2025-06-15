@@ -5,7 +5,7 @@ type: garden
 title: "Neronian Palace"
 date: 2021-04-08T02:46:02+02:00
 latlon: [ 41.900013, 12.461381 ]
-author: M.-A. Tomei
+author: Maria Anntonietta Tomei
 editor: Rhiannon Paré
 draft: false
 ---
@@ -100,7 +100,7 @@ RELATED PHASES ON THE PALATINE:
 <!-- -->
 ### Contributor
 
-M.-A. Tomei
+Maria Anntonietta Tomei
 <!-- -->
 ### Publication date
 

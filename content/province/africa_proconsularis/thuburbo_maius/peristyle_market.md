@@ -70,7 +70,7 @@ The market located to the SW of the forum had a peristyle that enclosed an open 
 
 ### Contributor
 
-[Wilhelmina F. Jashemski](http://worldcat.org/identities/lccn-n80037970/)
+[Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 <!--add in orcid id and info-->
 
 ### Publication Date

@@ -9,14 +9,22 @@
 
 {{- $page := .Page -}}
 
+{{/* get list of people pages */}}
+{{ $people := where .Site.Pages "Type" "people" }}
+
 {{- with .Params.author -}}
 	{{- $vals := partial "listify.html" . -}}
 	<div>
 		Author{{ if gt (len $vals) 1 }}s{{ end }}:
+		{{/* List each name, and link the name if it has a people page */}}
     	{{ range $i, $v := $vals }}
 			{{- if ne $i 0 -}}, {{ end -}}
-			{{ $link := $page.RelRef (dict "path" (add "people/" (urlize $v))) }}
-			<a href="{{ $link }}">{{ $v }}</a>
+			{{ $person := index (where $people "Title" $v) 0 }}
+			{{ if $person }}
+				<a href="{{ $person.Permalink }}">{{ $v }}</a>
+			{{ else }}
+				{{ $v }}
+			{{ end }}
 		{{ end }}
 	</div>
 {{- end }}
@@ -25,10 +33,16 @@
 	{{ $vals := partial "listify.html" . }}
 	<div>
 		Editor{{ if gt (len $vals) 1 }}s{{ end }}:
+		{{/* List each name, and link the name if it has a people page */}}
     	{{ range $i, $v := $vals -}}
 			{{- if ne $i 0 -}}, {{ end -}}
-			<a href="/people/{{ urlize $v }}">{{ $v }}</a>
-		{{- end -}}
+			{{ $person := index (where $people "Title" $v) 0 }}
+			{{ if $person }}
+				<a href="{{ $person.Permalink }}">{{ $v }}</a>
+			{{ else }}
+				{{ $v }}
+			{{ end }}
+		{{ end }}
 	</div>
 {{- end }}
 

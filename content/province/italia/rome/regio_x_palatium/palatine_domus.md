@@ -5,7 +5,7 @@ type: garden
 title: "The Late Republican Domus"
 date: 2021-04-03T23:08:29+02:00
 latlon: [ 41.889306, 12.487109 ]
-author: M.-A. Tomei  
+author: Maria Anntonietta Tomei  
 editor: Rhiannon Paré
 draft: false
 ---
@@ -79,7 +79,7 @@ RELATED PHASES ON THE PALATINE:
 <!-- -->
 ### Contributor
 
-M.-A. Tomei<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
+Maria Anntonietta Tomei<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
 <!-- -->
 ### Publication date
 

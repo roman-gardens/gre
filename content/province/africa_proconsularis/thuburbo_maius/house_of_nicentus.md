@@ -82,7 +82,7 @@ It was laid out around a peristyle garden (VI-X) of 12 columns (Plan view, Fig. 
 
 ### Contributor
 
-[Wilhelmina F. Jashemski](http://worldcat.org/identities/lccn-n80037970/)
+[Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 <!--add in orcid id and info-->
 
 ### Publication Date

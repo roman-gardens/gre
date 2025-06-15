@@ -5,7 +5,7 @@ type: garden
 title: "Domus Augustana"
 date: 2021-04-08T02:46:42+02:00
 latlon: [ 41.889306, 12.487109 ]
-author: M.-A. Tomei
+author: Maria Anntonietta Tomei
 editor: Rhiannon Paré
 draft: false
 ---
@@ -107,7 +107,7 @@ unspecified
 <!-- -->
 ### Contributor
 
-M.-A. Tomei
+Maria Anntonietta Tomei
 <!-- -->
 #### ORCID
 

@@ -5,7 +5,7 @@ type: garden
 title: "Porticus of Pompey"
 date: 2021-04-06T10:00:00-07:00
 latlon: [ 41.894007, 12.479061 ]
-author: E.R. Macaulay, K.L. Gleason
+author: Elizabeth Macaulay, Kathryn Gleason
 editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
 ---
@@ -116,12 +116,12 @@ Augustus’ remodeling of the theater and *porticus* (in 32 BCE), discussed abov
 <!-- -->
 ### Contributors
 
-[E.R. Macaulay](https://emacaulaylewis.com)\
+[Elizabeth Macaulay](https://emacaulaylewis.com)\
 [Kathryn Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)
 <!-- -->
 #### ORCID
 
-[E.R. Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)\
+[Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)\
 [Kathryn Gleason (0000-0001-6260-8378)](https://orcid.org/0000-0001-6260-8378)
 <!-- -->
 ### Publication date

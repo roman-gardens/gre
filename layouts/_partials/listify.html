@@ -1,8 +1,7 @@
 {{/* 
 
-	Ensure that the input is a list (slice)
-	If the input is a string, convert it into a single-item list
-
+	If a list, return it
+	If a string, split on commas
 */}}
 {{- $isarray := isset . 0 -}}
 {{- $list := slice -}}

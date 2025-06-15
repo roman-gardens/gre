@@ -5,8 +5,8 @@ type: garden
 title: "Pacis"
 date: 2021-06-30T14:08:18+02:00
 latlon: [ 0, 0 ]
-author:  E.R. Macaulay
-editor: Rhiannon Pare
+author:  Elizabeth Macaulay
+editor: Rhiannon Paré
 draft: true
 ---
 
@@ -120,11 +120,11 @@ at the edge of these structures might have belonged to the [attic](http://vocab.
 
 ## Contributor
 
-E.R. Macaulay
+Elizabeth Macaulay
 
 ### ORCID
 
-[E.R. Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
+[Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 ## Publication date
 <!-- Format: dd MONTH_NAME yyyy -->
 1 JULY 2021

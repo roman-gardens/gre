@@ -250,6 +250,10 @@ article.list__item em {
 	margin: 1em 0;
 }
 
+.people-gardens {
+  margin-left: 2em;
+}
+
 .smallcrumbs {
 	color: #282;
   font-size: 90%;

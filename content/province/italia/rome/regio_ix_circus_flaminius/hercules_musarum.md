@@ -5,7 +5,7 @@ type: garden
 title: "Hercules Musarum"
 date: 2021-04-04T10:00:00-07:00
 latlon: [ 41.891775, 12.486137 ]
-author: E.R. Macaulay, Linda Anderson
+author: Elizabeth Macaulay, Linda Anderson
 editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
 tags:
@@ -101,12 +101,12 @@ Built between 187 and 179 BCE; restoration and portico constructed in Late Repub
 <!-- -->
 ### Contributors
 
-[E.R. Macaulay](https://emacaulaylewis.com)\
+[Elizabeth Macaulay](https://emacaulaylewis.com)\
 [Linda Anderson](#)<!--website for Linda Anderson?-->
 <!-- -->
 #### ORCID
 
-[E.R. Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
+[Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 <!--ORCID for Linda Anderson-->
 
 ### Publication date
