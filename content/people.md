@@ -11,18 +11,20 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 - \*  Deceased  
 - Corresponding editors are noted in **bold**
 
-## Editors
-- *[Wilhelmina Jashemski](wilhelmina-jashemski)* \* , University of Maryland
-- [Kathryn Gleason](kathryn-gleason), Cornell University, Executive Editor
+## Executive Editors & Digital Humanities Team
+- [Kathryn Gleason](https://archaeology.cornell.edu/kathryn-gleason), Cornell University, Director & Editor-in-Chief 
+- [Amina-Aïcha Malek](http://www.archeo.ens.fr/Malek-Amina-Aicha.html?lang=fr), AOROC, CNRS ENS PSL, Director & Editor-in-Chief
+- [Divya Kumar-Dumas](mailto:dk4338@nyu.edu), ISAW/NYU, Managing Editor & Digital Strategy Coordinator
+- [Keith Jenkins](mailto:kgj2@cornell.edu), Cornell University, Technical Lead
+
+## Founding Editors (& Scientific Committee)
+- *[Wilhelmina Jashemski](wilhelmina-jashemski)*\* , University of Maryland
+- [Kathryn Gleason](kathryn-gleason), Cornell University
 - Kim J. Hartswick, CUNY Graduate Center
 - [Amina-Aïcha Malek](amina-aicha-malek), AOROC, CNRS ENS PSL
-- [Divya Kumar-Dumas](divya-kumar-dumas), ISAW/NYU, Digital Editor
 
 
-## Website publication designers & technical advisors
-
-- [Divya Kumar-Dumas](divya-kumar-dumas), ISAW/NYU, Production Coordinator
-- [Keith Jenkins](keith-jenkins), Cornell University, GIS mapping and website development
+## Publication Designers & Technical Advisors
 
 ### Website and Data Structure Design
 - Christian Casey, ISAW/NYU
@@ -34,7 +36,7 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 - [Gabriel McKee](https://isaw.nyu.edu/people/staff/gabriel-mckee), ISAW/NYU, Pleiades liaison
 
 
-## Editorial teams for geographic areas and thematic content
+## Editorial Teams (Geographic areas and Thematic Content)
 
 ### Thematic areas
 #### Tomb gardens
@@ -54,9 +56,9 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 - **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
 - Xue Xia, Cornell University
 - Jamel Hajji, INP, Tunisia
-- *Wilhelmina Jashemski* \*
-- *Michèle Blanchard Lemée* \*
-- *Abdelfattah Ichkhakh* \*
+- *Wilhelmina Jashemski*\*
+- *Michèle Blanchard Lemée*\*
+- *Abdelfattah Ichkhakh*\*
 
 #### Arabia Petraea
 - **Leigh Ann Bedal**, Pennsylvania State University/Behrend: <lxb41@psu.edu>
@@ -98,8 +100,8 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 #### Cyrene & Creta
 - **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
 - Xue Xia, Cornell University
-- *Wilhelmina Jashemski* \*
-- *Eugenia Salza Prina Ricotti* \*
+- *Wilhelmina Jashemski*\*
+- *Eugenia Salza Prina Ricotti*\*
 
 #### Galatia
 - **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
@@ -175,8 +177,8 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - **Kathryn Gleason**, Cornell University: <klg16@cornell.edu>
 - Kim Hartswick, CUNY Graduate Center
 - Joshua Rosenheim, Cornell University
-- *Wilhelmina Jashemski* \*
-- *Eugenia Salza Prina Ricotti* \*
+- *Wilhelmina Jashemski*\*
+- *Eugenia Salza Prina Ricotti*\*
 
 #### Italia/Rome
 - Vincent Jolivet, AOROC, CNRS ENS
@@ -190,12 +192,12 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - Yukiko Kawamoto, Nagoya University
 - Kaja Tally Schumacher, Cornell University
 - Yifan Li, Cornell University
-- *Wilhelmina Jashemski* \*
+- *Wilhelmina Jashemski*\*
 
 #### Judaea
 - **Kathryn Gleason**, Cornell University: <klg16@cornell.edu>
 - Yaniv Korman, Cornell University
-- *Ehud Netzer* \*
+- *Ehud Netzer*\*
 
 #### Lycia and Pamphylia
 - **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
@@ -212,8 +214,8 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
 - Xue Xia, Cornell University
 - Mohamed Kbiri Allaoui, INSAP
-- *Wilhelmina Jashemski* \*
-- *Michèle Blanchard Lemée* \*
+- *Wilhelmina Jashemski*\*
+- *Michèle Blanchard Lemée*\*
 
 #### Mesopotamia
 - **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
@@ -229,7 +231,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 #### Numidia
 - **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
 - Xue Xia, Cornell University
-- *Michèle Blanchard Lemée* \*
+- *Michèle Blanchard Lemée*\*
 
 #### Pannonia
 - **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
@@ -256,16 +258,16 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - Valerie Aymer
 - Trinidad Nogales Basarreta
 - Leigh-Ann Bedal
-- Pia Guldager Bilde \*
+- Pia Guldager Bilde\*
 - Bettina Birkenhagen
 - Véronique Blanc-Bijon
-- Michèle Blanchard Lemée \*
+- Michèle Blanchard Lemée\*
 - John Bodel
 - Henri Broise
 - Tommasino Budetta
 - Francesca Carbonia
 - Maureen Carroll
-- Inmaculada Moreno Casillas \*
+- Inmaculada Moreno Casillas\*
 - Graeme Clark
 - Amanda Claridge
 - Stefano DeCaro
@@ -281,9 +283,9 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - Giuseppina Ghini
 - Kathryn L. Gleason
 - Kim J. Hartswick
-- Yzhar Hirschfeld \*
+- Yzhar Hirschfeld\*
 - Maria Antonietta Ianiello
-- Wilhelmina Jashemski \*
+- Wilhelmina Jashemski\*
 - Vincent Jolivet
 - Jordi Juan-Tresserras
 - Allan Klynne
@@ -318,7 +320,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - Christopher Ratte
 - M. Barbara Reeves
 - Anna Maria Reggiani
-- Eugenia Salza Prina Ricotti \*
+- Eugenia Salza Prina Ricotti\*
 - Elisabetta Roffia
 - Julio Miguel Román Punzón
 - David Gilman Romano
@@ -336,7 +338,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - D. Vaquerizo
 - Françoise Villedieu
 - Győző Vörös
-- Walter Widrig \*
+- Walter Widrig\*
 - Julian Wiethold
 - David Wilkinson
 - Roger Wilson
