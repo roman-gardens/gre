@@ -12,18 +12,19 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 - \*  Deceased  
 - Corresponding editors are noted in **bold**.
 
-## Editors
+## Executive Editors & Digital Humanities Team
+- [Kathryn Gleason](https://archaeology.cornell.edu/kathryn-gleason), Cornell University, Director & Editor-in-Chief 
+- [Amina-Aïcha Malek](http://www.archeo.ens.fr/Malek-Amina-Aicha.html?lang=fr), AOROC, CNRS ENS PSL, Director & Editor-in-Chief
+- [Divya Kumar-Dumas](mailto:dk4338@nyu.edu), ISAW/NYU, Managing Editor & Digital Strategy Coordinator
+- [Keith Jenkins](mailto:kgj2@cornell.edu), Cornell University, Technical Lead
+
+## Founding Editors (& Scientific Committee)
 - *Wilhelmina Jashemski*\* , University of Maryland
-- [Kathryn Gleason](https://archaeology.cornell.edu/kathryn-gleason), Cornell University, Executive Editor: <klg16@cornell.edu>
+- [Kathryn Gleason](https://archaeology.cornell.edu/kathryn-gleason), Cornell University: <klg16@cornell.edu>
 - Kim J. Hartswick, CUNY Graduate Center
 - [Amina-Aïcha Malek](http://www.archeo.ens.fr/Malek-Amina-Aicha.html?lang=fr), AOROC, CNRS ENS PSL
-- [Divya Kumar-Dumas](mailto:dk4338@nyu.edu), ISAW/NYU, Digital Editor
 
-
-## Website publication designers & technical advisors
-
-- [Divya Kumar-Dumas](mailto:dk4338@nyu.edu), ISAW/NYU, Production Coordinator
-- [Keith Jenkins](mailto:kgj2@cornell.edu), Cornell University, GIS mapping and website development
+## Publication Designers & Technical Advisors
 
 ### Website and Data Structure Design
 - Christian Casey, ISAW/NYU
@@ -35,7 +36,7 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 - [Gabriel McKee](https://isaw.nyu.edu/people/staff/gabriel-mckee), ISAW/NYU, Pleiades liaison
 
 
-## Editorial teams for geographic areas and thematic content
+## Editorial Teams (Geographic areas and Thematic Content)
 
 ### Thematic areas
 #### Tomb gardens
