@@ -1,5 +1,6 @@
 ---
 title: "People"
+aliases: [/contributors]
 date: 2021-04-20T13:49:40-04:00
 author: David Ratzan, Divya Kumar-Dumas
 draft: false
