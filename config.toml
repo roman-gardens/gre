@@ -42,7 +42,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 	[[menu.main]]
 		name = "People"
-		pageRef = "/contributors/"
+		pageRef = "/people/"
 		weight = 40
 
 	[[menu.main]]
