@@ -8,8 +8,8 @@ The Gardens of the Roman Empire Project has engaged a wonderful community of sch
 We gratefully acknowledge our past editors and the many volunteer and student assistants who have helped us build this project over the years. **[Join us!]({{<ref "contribute/">}})**
 
 - *Italics* original editors
-- \*  Deceased  
-- Corresponding editors are noted in **bold**
+- \*  Deceased
+- \*\* Corresponding editors
 
 ## Executive Editors & Digital Humanities Team
 - [Kathryn Gleason](https://archaeology.cornell.edu/kathryn-gleason), Cornell University, Director & Editor-in-Chief 
@@ -40,20 +40,20 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 
 ### Thematic areas
 #### Tomb gardens
-- **John Bodel**, Brown University: <john_bodel@brown.edu>
+- John Bodel\*\*, Brown University: <john_bodel@brown.edu>
 
 ### Geographic and political areas
 
 #### Achaea
-- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Maureen Carroll\*\*, University of York: <maureen.carroll@york.ac.uk>
 - Jane Millar, University of Texas, Austin
 
 #### Aegyptus
 - *Roger S. Bagnall*, ISAW/NYU
-- **David M. Ratzan**, ISAW/NYU: <david.ratzan@nyu.edu>
+- David M. Ratzan\*\*, ISAW/NYU: <david.ratzan@nyu.edu>
 
 #### Africa Proconsularis
-- **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
+- Amina Aicha Malek\*\*, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
 - Xue Xia, Cornell University
 - Jamel Hajji, INP, Tunisia
 - *Wilhelmina Jashemski*\*
@@ -61,57 +61,57 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 - *Abdelfattah Ichkhakh*\*
 
 #### Arabia Petraea
-- **Leigh Ann Bedal**, Pennsylvania State University/Behrend: <lxb41@psu.edu>
+- Leigh Ann Bedal\*\*, Pennsylvania State University/Behrend: <lxb41@psu.edu>
 
 #### Armenia
-- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Catherine Kearns\*\*, University of Chicago: <cmkearns@uchicago.edu>
 - Divya Kumar-Dumas, University of Pennsylvania
 
 #### Asia
-- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Maureen Carroll\*\*, University of York: <maureen.carroll@york.ac.uk>
 - Divya Kumar-Dumas, University of Pennsylvania
 - Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt
 - *Kathryn Gleason*
 
 #### Bithynia and Pontus
-- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Catherine Kearns\*\*, University of Chicago: <cmkearns@uchicago.edu>
 - Divya Kumar-Dumas, University of Pennsylvania
 - Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt
 - *Maureen Carroll*
 - *Kathryn Gleason*
 
 #### Britannia
-- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Maureen Carroll\*\*, University of York: <maureen.carroll@york.ac.uk>
 - Jane Millar, University of Texas, Austin
 
 #### Cappadocia
-- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Catherine Kearns\*\*, University of Chicago: <cmkearns@uchicago.edu>
 - Divya Kumar-Dumas, University of Pennsylvania
 - Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt
 
 #### Cilicia
-- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Catherine Kearns\*\*, University of Chicago: <cmkearns@uchicago.edu>
 - Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt
 
 #### Cyprus
-- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Catherine Kearns\*\*, University of Chicago: <cmkearns@uchicago.edu>
 - *Elizabeth Macaulay*
 
 #### Cyrene & Creta
-- **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
+- Amina Aicha Malek\*\*, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
 - Xue Xia, Cornell University
 - *Wilhelmina Jashemski*\*
 - *Eugenia Salza Prina Ricotti*\*
 
 #### Galatia
-- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Catherine Kearns\*\*, University of Chicago: <cmkearns@uchicago.edu>
 - Divya Kumar-Dumas, University of Pennsylvania
 - Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt
 - *Maureen Carroll*
 - *Kathryn Gleason*
 
 #### Gallia Aquitania
-- **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
+- Amina Aicha Malek\*\*, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
 - Séverine Blin, Archéologie et philologie d'Orient et d'Occident
 AOROC UMR 8546 CNRS-ENS-PSL
 - *Eric Morvillez*
@@ -120,7 +120,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - *Clopper Almon*
 
 #### Gallia Belgica
-- **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
+- Amina Aicha Malek\*\*, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
 - Séverine Blin, Archéologie et philologie d'Orient et d'Occident
 AOROC UMR 8546 CNRS-ENS-PSL
 - *Eric Morvillez*
@@ -129,7 +129,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - *Clopper Almon*
 
 #### Gallia Lugdunensis
-- **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
+- Amina Aicha Malek\*\*, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
 - Séverine Blin, Archéologie et philologie d'Orient et d'Occident
 AOROC UMR 8546 CNRS-ENS-PSL
 - *Eric Morvillez*
@@ -138,7 +138,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - *Clopper Almon*
 
 #### Gallia Narbonensis
-- **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
+- Amina Aicha Malek\*\*, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
 - Séverine Blin, Archéologie et philologie d'Orient et d'Occident
 AOROC UMR 8546 CNRS-ENS-PSL
 - *Eric Morvillez*
@@ -147,11 +147,11 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - *Clopper Almon*
 
 #### Germania Inferior
-- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Maureen Carroll\*\*, University of York: <maureen.carroll@york.ac.uk>
 - Jane Millar, University of Texas, Austin
 
 #### Germania Superior
-- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Maureen Carroll\*\*, University of York: <maureen.carroll@york.ac.uk>
 - Jane Millar, University of Texas, Austin
 
 #### Hispania Tarraconensis
@@ -174,7 +174,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - *Clopper Almon*
 
 #### Italia
-- **Kathryn Gleason**, Cornell University: <klg16@cornell.edu>
+- Kathryn Gleason\*\*, Cornell University: <klg16@cornell.edu>
 - Kim Hartswick, CUNY Graduate Center
 - Joshua Rosenheim, Cornell University
 - *Wilhelmina Jashemski*\*
@@ -182,12 +182,12 @@ AOROC UMR 8546 CNRS-ENS-PSL
 
 #### Italia/Rome
 - Vincent Jolivet, AOROC, CNRS ENS
-- **Elizabeth Macaulay**, CUNY Graduate Center: <emacaulay_lewis@gc.cuny.edu>
+- Elizabeth Macaulay\*\*, CUNY Graduate Center: <emacaulay_lewis@gc.cuny.edu>
 - Rhiannon Paré, Princeton University
 
 #### Italia/Vesuvian Sites (Herculaneum, Pompeii, Stabiae)
 - Riccardo Olivito, IMT School for Advanced Studies Lucca
-- **Jessica Venner**, University of Birmingham: <jlv871@student.bham.ac.uk>
+- Jessica Venner\*\*, University of Birmingham: <jlv871@student.bham.ac.uk>
 - Clare Campbell, University of Arkansas
 - Yukiko Kawamoto, Nagoya University
 - Kaja Tally Schumacher, Cornell University
@@ -195,53 +195,53 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - *Wilhelmina Jashemski*\*
 
 #### Judaea
-- **Kathryn Gleason**, Cornell University: <klg16@cornell.edu>
+- Kathryn Gleason\*\*, Cornell University: <klg16@cornell.edu>
 - Yaniv Korman, Cornell University
 - *Ehud Netzer*\*
 
 #### Lycia and Pamphylia
-- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Catherine Kearns\*\*, University of Chicago: <cmkearns@uchicago.edu>
 - Divya Kumar-Dumas, University of Pennsylvania
 - Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt
 - *Maureen Carroll*
 - *Kathryn Gleason*
 
 #### Macedonia
-- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Maureen Carroll\*\*, University of York: <maureen.carroll@york.ac.uk>
 - Jane Millar, University of Texas, Austin
 
 #### Mauretania
-- **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
+- Amina Aicha Malek\*\*, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
 - Xue Xia, Cornell University
 - Mohamed Kbiri Allaoui, INSAP
 - *Wilhelmina Jashemski*\*
 - *Michèle Blanchard Lemée*\*
 
 #### Mesopotamia
-- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Catherine Kearns\*\*, University of Chicago: <cmkearns@uchicago.edu>
 - Divya Kumar-Dumas, University of Pennsylvania
 
 #### Moesia (Superior and Inferior)
-- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Catherine Kearns\*\*, University of Chicago: <cmkearns@uchicago.edu>
 
 #### Noricum
-- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Maureen Carroll\*\*, University of York: <maureen.carroll@york.ac.uk>
 - Jane Millar, University of Texas, Austin
 
 #### Numidia
-- **Amina Aicha Malek**, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
+- Amina Aicha Malek\*\*, AOROC, CNRS ENS PSL: <aicha.malek@ens.fr>
 - Xue Xia, Cornell University
 - *Michèle Blanchard Lemée*\*
 
 #### Pannonia
-- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Maureen Carroll\*\*, University of York: <maureen.carroll@york.ac.uk>
 
 #### Raetia
-- **Maureen Carroll**, University of York: <maureen.carroll@york.ac.uk>
+- Maureen Carroll\*\*, University of York: <maureen.carroll@york.ac.uk>
 - Caroline Kneubuhl, Musée romain d'Avenches
 
 #### Syria
-- **Leigh Ann Bedal**, Pennsylvania State University/Behrend: <lxb41@psu.edu>
+- Leigh Ann Bedal\*\*, Pennsylvania State University/Behrend: <lxb41@psu.edu>
 - Divya Kumar-Dumas, University of Pennsylvania
 - Houmam Saad, Directorate-General for Antiquities and Museums, Damascus
 - Abdallah Komait, AOROC, CNRS ENS PSL
@@ -249,7 +249,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - *Christine Kondoleon*
 
 #### Thracia
-- **Catherine Kearns**, University of Chicago: <cmkearns@uchicago.edu>
+- Catherine Kearns\*\*, University of Chicago: <cmkearns@uchicago.edu>
 
 ## Authors
 - Benedetta Adembri
