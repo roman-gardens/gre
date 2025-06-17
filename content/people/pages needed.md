@@ -37,6 +37,3 @@ xingjian-wang
 yichen-liu
 yitzar-hirschfeld
 yiyun-liu
-yuming-huang
-yvette-pollack
-zhenrui-mei

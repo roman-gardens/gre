@@ -9,19 +9,22 @@
 
 {{- $page := .Page -}}
 
-{{/* get list of people pages */}}
-{{ $people := where .Site.Pages "Type" "people" }}
+{{/* create dict of all people pages (name: permalink) */}}
+{{ $people := dict }}
+{{ range where .Site.Pages "Type" "people" }}
+    {{ $people = merge $people (dict .Title .Permalink) }}
+{{ end }}
 
 {{- with .Params.author -}}
 	{{- $vals := partial "listify.html" . -}}
 	<div>
 		Author{{ if gt (len $vals) 1 }}s{{ end }}:
-		{{/* List each name, and link the name if it has a people page */}}
+		{{/* List each name separated by commas, and link the name if it has a people page */}}
     	{{ range $i, $v := $vals }}
 			{{- if ne $i 0 -}}, {{ end -}}
-			{{ $person := index (where $people "Title" $v) 0 }}
-			{{ if $person }}
-				<a href="{{ $person.Permalink }}">{{ $v }}</a>
+			{{ $link := index $people $v }}
+			{{ if $link }}
+				<a href="{{ $link }}">{{ $v }}</a>
 			{{ else }}
 				{{ $v }}
 			{{ end }}
@@ -33,12 +36,12 @@
 	{{ $vals := partial "listify.html" . }}
 	<div>
 		Editor{{ if gt (len $vals) 1 }}s{{ end }}:
-		{{/* List each name, and link the name if it has a people page */}}
+		{{/* List each name separated by commas, and link the name if it has a people page */}}
     	{{ range $i, $v := $vals -}}
 			{{- if ne $i 0 -}}, {{ end -}}
-			{{ $person := index (where $people "Title" $v) 0 }}
-			{{ if $person }}
-				<a href="{{ $person.Permalink }}">{{ $v }}</a>
+			{{ $link := index $people $v }}
+			{{ if $link }}
+				<a href="{{ $link }}">{{ $v }}</a>
 			{{ else }}
 				{{ $v }}
 			{{ end }}

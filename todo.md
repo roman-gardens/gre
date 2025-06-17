@@ -107,7 +107,7 @@
     - or link to a separate person page, [like Pleiades does](https://pleiades.stoa.org/author/thomase)
 - [ ] frontmatter quoting: omit, unless ambiguous
 
-# from 2025-03-04, 2025-04-04, 2025-05-06 meetings
+# from 2025-03-04, 2025-04-04, 2025-05-06, 2025-06-11 meetings
 - [ ] when we restart blog/news, add the posting date and snippet to the list of posts
 - [ ] people: Change Pleiades liaison from Gabriel to Tom Elliott?
 - [ ] maps: fix/remove blank maps
@@ -121,6 +121,13 @@
 - [x] "garden entries" have been published
 - [x] remove numbers like 563 from Herculaneum entry titles
 - [ ] shortcodes for Pleiades, TGN, Periodo, POWO, AAT, Perseus, Worldcat, etc.
+
+- [ ] workflow for simplest way to add a new garden/place ?
+- [ ] "Places in ... " (sublocation box)
+- [ ] "place" instead of "province" type
+- [ ] "contributor" instead of "editor" in front matter
+- [ ] add "modified" date (and try to simplify date to omit time)
+- [ ] place archetype: date, description, image/plan/map, bibliography, keywords, place(s), linked IDs
 
 # Province pages
 - [ ] review which sections should be retained in province pages (and also for gardens...)
