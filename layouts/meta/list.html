@@ -54,10 +54,10 @@
                 <td class="title">{{ $v.Title }}
                     {{ if $draft }}<b>(DRAFT)</b>{{ end }}
                 </td>
-                <td>{{ htmlUnescape (replace $v.Params.Author ", " ",<br>") | safeHTML }}</td>
-                <td>{{ htmlUnescape (replace $v.Params.Editor ", " ",<br>") | safeHTML }}</td>
-                <td class="date">{{ $v.Date.Format "2006-01-02" }}</td>
-                <td class="date">{{ $v.Lastmod.Format "2006-01-02" }}</td>
+                <td class="nowrap">{{ htmlUnescape (replace $v.Params.Author ", " ",<br>") | safeHTML }}</td>
+                <td class="nowrap">{{ htmlUnescape (replace $v.Params.Editor ", " ",<br>") | safeHTML }}</td>
+                <td class="nowrap">{{ $v.Date.Format "2006-01-02" }}</td>
+                <td class="nowrap">{{ $v.Lastmod.Format "2006-01-02" }}</td>
             </tr>
         {{ end }}
     </table>

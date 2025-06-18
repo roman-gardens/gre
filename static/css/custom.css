@@ -298,7 +298,7 @@ article.list__item em {
 }
 
 table.meta {
-  font-family: Arial, sans-serif;
+  font-family: "Arial Narrow", Arial, sans-serif;
 }
 
 table.meta th:hover {
@@ -318,7 +318,7 @@ table.meta .path {
   max-width: 30em;
 }
 
-table.meta .date {
+table.meta .nowrap {
   text-wrap: nowrap;
 }
 
