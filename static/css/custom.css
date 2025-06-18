@@ -270,6 +270,11 @@ article.list__item em {
   font-size: 90%;
 }
 
+.metadata .right {
+  float: right;
+  text-align: right;
+}
+
 .draft {
   background: #fff2e7;
 }

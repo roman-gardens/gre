@@ -1,11 +1,22 @@
 <div class="metadata">
 
+<div class="right">
 {{- with .Params.gre_id }}
 	{{ $url := print $.Site.BaseURL "id/" . "/" }}
 	<div>
 		Permalink: <a href="{{ $url }}">{{ $url }}</a>
 	</div>
 {{- end }}
+{{/*
+{{- with .Date -}}
+	<div>Created: {{ time.Format "2006-01-02" . }}</div>
+{{- end -}}
+
+{{- with .Params.Modified -}}
+	<div>Modified: {{ time.Format "2006-01-02" . }}</div>
+{{- end -}}
+*/}}
+</div>
 
 {{- $page := .Page -}}
 
@@ -35,7 +46,7 @@
 {{- with .Params.editor }}
 	{{ $vals := partial "listify.html" . }}
 	<div>
-		Editor{{ if gt (len $vals) 1 }}s{{ end }}:
+		Contributor{{ if gt (len $vals) 1 }}s{{ end }}:
 		{{/* List each name separated by commas, and link the name if it has a people page */}}
     	{{ range $i, $v := $vals -}}
 			{{- if ne $i 0 -}}, {{ end -}}
@@ -48,13 +59,5 @@
 		{{ end }}
 	</div>
 {{- end }}
-
-{{- with .Date -}}
-	<div>Created: {{ time.Format "2006-01-02" . }}</div>
-{{- end -}}
-
-{{- with .Lastmod -}}
-	<div>Modified: {{ time.Format "2006-01-02" . }}</div>
-{{- end -}}
 
 </div>
