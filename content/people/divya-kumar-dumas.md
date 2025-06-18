@@ -1,7 +1,6 @@
 ---
 type: people
-title: Divya Kumar-Dumas
-email: dk4338@nyu.edu
+title: "Divya Kumar-Dumas"
 draft: false
 ---
 

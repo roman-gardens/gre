@@ -1,7 +1,6 @@
 ---
 type: people
 title: Kathryn Gleason
-email: klg16@cornell.edu
 draft: false
 ---
 
