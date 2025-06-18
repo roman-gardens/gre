@@ -1,6 +1,9 @@
 {{ $src := .Get "src" }}
 {{ $src = urls.JoinPath "https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/" .Page.Parent.Path $src }}
 
+{{/* adjust for old gre-images until we update that repo */}}
+{{ $src = replace $src "/place/" "/province/" }}
+
 <figure>
     <img src="{{ $src }}" alt="{{ .Get "alt" }}" onclick="fullscreen(this)">
     <figcaption>{{ .Get "title" }}</figcaption>
