@@ -3,7 +3,7 @@
 gre_id: "{{ $id }}"
 aliases: [/id/{{ $id }}]
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+date: {{ time.Now.Format "2006-01-02" }}
 latlon: [ 0, 0 ]
 author: AUTHOR ONE, AUTHOR TWO
 editor: EDITOR ONE, EDITOR TWO, EDITOR THREE
