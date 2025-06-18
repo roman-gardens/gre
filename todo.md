@@ -107,7 +107,7 @@
     - or link to a separate person page, [like Pleiades does](https://pleiades.stoa.org/author/thomase)
 - [ ] frontmatter quoting: omit, unless ambiguous
 
-# from 2025-03-04, 2025-04-04, 2025-05-06 meetings
+# from 2025-03-04, 2025-04-04, 2025-05-06, 2025-06-11 meetings
 - [ ] when we restart blog/news, add the posting date and snippet to the list of posts
 - [ ] people: Change Pleiades liaison from Gabriel to Tom Elliott?
 - [ ] maps: fix/remove blank maps
@@ -122,10 +122,20 @@
 - [x] remove numbers like 563 from Herculaneum entry titles
 - [ ] shortcodes for Pleiades, TGN, Periodo, POWO, AAT, Perseus, Worldcat, etc.
 
+- [ ] workflow for simplest way to add a new garden/place ?
+- [x] "Places in ... " (sublocation box)
+- [x] "place" instead of "province" type
+- [ ] "contributor" instead of "editor" in front matter
+- [ ] add "modified" date (and try to simplify date to omit time)
+- [ ] place archetype: date, description, image/plan/map, bibliography, keywords, place(s), linked IDs
+- [ ] add gre_id/aliases for places, update citation example
+- [x] meta page that lists all places and gardens, sortable
+- [ ] fix or remove empty links -- search for "(#)"
+
 # Province pages
 - [ ] review which sections should be retained in province pages (and also for gardens...)
 - [ ] move content from garden entries to the province _index.md
-- [ ] generate new "gre_id" and "alias" values for new province pages
+- [ ] generate new "gre_id" and "alias" values for province pages
 
 # Images
 - [x] rename 37 JPG files to jpg
@@ -138,7 +148,13 @@
 
 # User forks
 
-User forks of the old GRE repo that have updates, as of 2025-03-26:
+Forks: https://github.com/roman-gardens/gre/forks?include=active&period=
+
+Users with forks of the new main repo:
+- dkdumas (Divya Kumar-Dumas, ISAW)
+- kgjenkins (Keith Jenkins, Cornell)
+
+User forks that have updates, as of 2025-03-26:
 - [ ] [amartyashri](https://github.com/roman-gardens/gre/compare/main...amartyashri:gre:master) (Amartya Shri) - 28 files, Pleaides links, removed empty sections
 - [ ] [crc034](https://github.com/roman-gardens/gre/compare/main...crc034:gre:master) (Clarie Campbell, Univ. Arkansas) - 4 files: draft=false, ignore /docs files
 - [ ] [jemillar](https://github.com/roman-gardens/gre/compare/main...jemillar:gre:master) (Jane Millar, UT Austin) - 36 files: links, tags, etc.
@@ -160,6 +176,29 @@ Users with forks that have no updates:
 - yifanli7 (Yifan Li, Cornell alum)
 - yK755 (Yaniv Korman, Cornell alum)
 
+
+
+
+
+
+
+# UPDATES 2025-06-11
+
+- refactored layouts
+- breadcrumb style
+- search snippets, highlighting
+- sublocations box on right
+    - displays whenever there are sublocations
+    - shows number of gardens per sublocation
+- province pages (Achaea and Delos only)
+    - terminology: "province" or "location"?
+- metadata section on garden pages
+    - authors, editors, could add date
+    - linked IDs
+- people pages
+    - separate page for each person -- can be as detailed as we want
+    - linked from main "people" page
+    - linked from article metadata
 
 
 

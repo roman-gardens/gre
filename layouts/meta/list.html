@@ -1,0 +1,124 @@
+{{ define "main" }}
+<main class="main" role="main">
+    {{ $pages := sort (where .Site.RegularPages "Type" "place") "Path" }}
+    <h1>All places ({{ $pages.Len }})</h1>
+    <table class="meta" id="metaplace">
+        <tr>
+            <th>#</th>
+            <th>path</th>
+            <th>title</th>
+            <th>author</th>
+            <th>editor</th>
+            <th>date</th>
+            <th>updated</th>
+        </tr>
+        {{ range $i, $v := $pages }}
+            {{ $draft := "" }}
+            {{ if $v.Draft}}
+                {{ $draft = "draft"}}
+            {{ end }}
+            <tr class="{{ $draft }}">
+                <td>{{ add 1 $i }}</td>
+                <td class="path"><a href="{{ $v.Path }}">{{ $v.Path }}</a></td>
+                <td class="title">{{ $v.Title }}
+                    {{ if $draft }}<b>(DRAFT)</b>{{ end }}
+                </td>
+                <td>{{ htmlUnescape (replace $v.Params.Author ", " ",<br>") | safeHTML }}</td>
+                <td>{{ htmlUnescape (replace $v.Params.Editor ", " ",<br>") | safeHTML }}</td>
+                <td class="date">{{ $v.Date.Format "2006-01-02" }}</td>
+                <td class="date">{{ $v.Lastmod.Format "2006-01-02" }}</td>
+            </tr>
+        {{ end }}
+    </table>
+    
+    {{ $pages := sort (where .Site.RegularPages "Type" "garden") "Path" }}
+    <h1>All gardens ({{ $pages.Len }})</h1>
+    <table class="meta" id="metagarden">
+        <tr>
+            <th>#</th>
+            <th>path</th>
+            <th>title</th>
+            <th>author</th>
+            <th>editor</th>
+            <th>date</th>
+            <th>updated</th>
+        </tr>
+        {{ range $i, $v := $pages }}
+            {{ $draft := "" }}
+            {{ if $v.Draft}}
+                {{ $draft = "draft"}}
+            {{ end }}
+            <tr class="{{ $draft }}">
+                <td>{{ add 1 $i }}</td>
+                <td class="path"><a href="{{ $v.Path }}">{{ $v.Path }}</a></td>
+                <td class="title">{{ $v.Title }}
+                    {{ if $draft }}<b>(DRAFT)</b>{{ end }}
+                </td>
+                <td class="nowrap">{{ htmlUnescape (replace $v.Params.Author ", " ",<br>") | safeHTML }}</td>
+                <td class="nowrap">{{ htmlUnescape (replace $v.Params.Editor ", " ",<br>") | safeHTML }}</td>
+                <td class="nowrap">{{ $v.Date.Format "2006-01-02" }}</td>
+                <td class="nowrap">{{ $v.Lastmod.Format "2006-01-02" }}</td>
+            </tr>
+        {{ end }}
+    </table>
+
+    <!-- make tables sortable by clicking on headers -->
+    <script>
+        var tables = document.querySelectorAll("table")
+        for (let i = 0; i < tables.length; i++) {
+            let t = tables[i]
+            let ths = t.querySelectorAll("th").forEach((x) => {
+                x.addEventListener("click", (e) => {
+                    let th = e.target
+                    let table = th.closest('table')
+                    let dir = 'asc'
+                    if (th.classList.contains('asc')) {
+                        dir = 'desc'
+                    }
+                    table.querySelectorAll('th').forEach((x) => {
+                        x.classList.remove('asc')
+                        x.classList.remove('desc')
+                    })
+                    th.classList.add(dir)
+                    let col = Array.from(th.parentNode.children).indexOf(th)
+                    sortRows(table, col, dir)
+                    e.preventDefault()
+                })
+            })
+        }
+
+        function sortRows(table, col, dir) {
+            let rows = table.querySelectorAll("tr")
+            let numeric = true
+            let values = []
+            for (let i = 1; i < rows.length; i++) {
+                let node = rows[i].querySelector("td:nth-child(" + (col + 1) + ")")
+                let v = node.innerText
+                if (isNaN(v)) {
+                    numeric = false
+                } else {
+                    v = parseFloat(v)
+                }
+                values.push({val:v, row:rows[i]})
+            }
+            if (numeric) {
+                values.sort((a,b) => { return a.val - b.val })
+            } else {
+                values.sort((a,b) => {
+                    let aa = (a.val + '').toUpperCase()
+                    let bb = (b.val + '').toUpperCase()
+                    if (aa < bb) return -1
+                    if (aa > bb) return 1
+                    return 0
+                })
+            }
+            if (dir === 'desc') {
+                values = values.reverse()
+            }
+            for (let i = 0; i < values.length; i++) {
+                table.appendChild(values[i].row)
+            }
+        }
+    </script>
+</main>
+{{ end }}

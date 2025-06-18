@@ -10,7 +10,7 @@
 		{{- end }}
 		<header class="list__header">
 			<div class='smallcrumbs'>
-				{{- $crumbs := replaceRE "/province/" "" (path.Dir .Path) -}}
+				{{- $crumbs := replaceRE "/place/" "" (path.Dir .Path) -}}
 				{{- partial "romancase.html" $crumbs -}}
 			</div>
 			<h3 class="list__title post__title">

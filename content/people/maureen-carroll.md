@@ -1,12 +1,17 @@
 ---
 type: people
-title: "Maureen Carroll"
+title: Maureen Carroll
 email: maureen.carroll@york.ac.uk
 draft: false
 ---
 
+<!-- position title, institution -->
 Professor of Roman Archaeology, University of York
 
-https://www.york.ac.uk/archaeology/people/carroll/
 
-https://orcid.org/0000-0001-9958-8032
+## E-mail
+maureen.carroll@york.ac.uk
+
+
+## Website
+https://www.york.ac.uk/archaeology/people/carroll/
