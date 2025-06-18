@@ -9,8 +9,7 @@ author: Monika Trümper
 editor: Jane Millar
 draft: false
 
-categories:
- - "Achaea"
+
 tags:
  - "colonnades"
  - "courtyards"

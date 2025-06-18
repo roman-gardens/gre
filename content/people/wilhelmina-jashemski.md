@@ -1,6 +1,6 @@
 ---
 type: people
-title: "Wilhelmina Jashemski"
+title: Wilhelmina F. Jashemski
 draft: false
 ---
 

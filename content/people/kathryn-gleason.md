@@ -1,6 +1,7 @@
 ---
 type: people
-title: "Kathryn Gleason"
+title: Kathryn Gleason
+email: klg16@cornell.edu
 draft: false
 ---
 

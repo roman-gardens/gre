@@ -1,6 +1,6 @@
 ---
 type: people
-title: "Amina-Aïcha Malek"
+title: Amina-Aïcha Malek
 draft: false
 ---
 

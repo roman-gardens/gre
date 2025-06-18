@@ -1,27 +1,24 @@
 ---
 title: "People"
+aliases: [/contributors]
 date: 2021-04-20T13:49:40-04:00
+author: David Ratzan, Divya Kumar-Dumas
 draft: false
 ---
 The Gardens of the Roman Empire Project has engaged a wonderful community of scholars, archaeologists, and students over the years.  We have a group of **editors**, who are coordinating the project, a **digital humanities team** that is shaping this website and bringing the data to life, **area editorial teams** for the provinces and major cities, who are seeking out new gardens and reviewing entries; and our contributing **authors**.
 
 We gratefully acknowledge our past editors and the many volunteer and student assistants who have helped us build this project over the years. **[Join us!]({{<ref "contribute/">}})**
 
-- *Italics* original editors
-- \*  Deceased
-- \*\* Corresponding editors
+- *Italics* original editor
+- \*  Deceased  
+- \*\* Corresponding editor
 
-## Executive Editors & Digital Humanities Team
-- [Kathryn Gleason](https://archaeology.cornell.edu/kathryn-gleason), Cornell University, Director & Editor-in-Chief 
-- [Amina-Aïcha Malek](http://www.archeo.ens.fr/Malek-Amina-Aicha.html?lang=fr), AOROC, CNRS ENS PSL, Director & Editor-in-Chief
-- [Divya Kumar-Dumas](mailto:dk4338@nyu.edu), ISAW/NYU, Managing Editor & Digital Strategy Coordinator
-- [Keith Jenkins](mailto:kgj2@cornell.edu), Cornell University, Technical Lead
-
-## Founding Editors (& Scientific Committee)
+## Editors
 - *[Wilhelmina Jashemski](wilhelmina-jashemski)*\* , University of Maryland
-- [Kathryn Gleason](kathryn-gleason), Cornell University
+- [Kathryn Gleason](kathryn-gleason), Cornell University, Executive Editor
 - Kim J. Hartswick, CUNY Graduate Center
 - [Amina-Aïcha Malek](amina-aicha-malek), AOROC, CNRS ENS PSL
+- [Divya Kumar-Dumas](divya-kumar-dumas), ISAW/NYU, Digital Editor
 
 
 ## Publication Designers & Technical Advisors

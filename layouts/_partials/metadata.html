@@ -7,27 +7,14 @@
 	</div>
 {{- end }}
 
-{{- $page := .Page -}}
-
-{{/* create dict of all people pages (name: permalink) */}}
-{{ $people := dict }}
-{{ range where .Site.Pages "Type" "people" }}
-    {{ $people = merge $people (dict .Title .Permalink) }}
-{{ end }}
-
-{{- with .Params.author -}}
-	{{- $vals := partial "listify.html" . -}}
+{{- with .Params.author }}
+	{{ $vals := partial "listify.html" . }}
 	<div>
 		Author{{ if gt (len $vals) 1 }}s{{ end }}:
 		{{/* List each name separated by commas, and link the name if it has a people page */}}
     	{{ range $i, $v := $vals }}
 			{{- if ne $i 0 -}}, {{ end -}}
-			{{ $link := index $people $v }}
-			{{ if $link }}
-				<a href="{{ $link }}">{{ $v }}</a>
-			{{ else }}
-				{{ $v }}
-			{{ end }}
+			<a href="/people/{{ urlize $v}}">{{ $v }}</a>
 		{{ end }}
 	</div>
 {{- end }}
