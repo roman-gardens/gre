@@ -1,6 +1,6 @@
 ---
 type: people
-title: "Divya Kumar-Dumas"
+title: Divya Kumar-Dumas
 draft: false
 ---
 

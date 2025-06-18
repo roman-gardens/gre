@@ -1,4 +1,6 @@
 ---
+date: 2025-06-18
+modified: 2025-06-18
 type: people
 title: Monika Trümper
 draft: false
@@ -17,5 +19,6 @@ https://www.geschkult.fu-berlin.de/en/e/klassarch/institut/01_personen/professor
 ## E-mail
 
 -->
+
 
 <!-- Description -->
