@@ -5,7 +5,7 @@
 
 {{/* get list of sublocations */}}
 {{- $sublocs := slice -}}
-{{- range where page.Pages "Type" "province" -}}
+{{- range where page.Pages "Type" "place" -}}
     {{- if and (hasPrefix .Path (add $path "/")) (ne .Path $path) -}}
         {{- $str := strings.TrimPrefix "/" (strings.TrimPrefix $path .Path) -}}
         {{- if not (strings.Contains $str "/") -}}
@@ -20,10 +20,10 @@
 {{- if gt ($sublocs | len) 0 }}
     <div class='sublocations'>
         <h2>
-            {{- if eq $thisplace "Province" -}}
+            {{- if eq $thisplace "Place" -}}
                 Provinces:
             {{- else -}}
-                Sublocations of {{ $thisplace }}:
+                Places in {{ $thisplace }}:
             {{- end -}}
         </h2>
         <ul>

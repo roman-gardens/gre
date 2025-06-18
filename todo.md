@@ -123,11 +123,13 @@
 - [ ] shortcodes for Pleiades, TGN, Periodo, POWO, AAT, Perseus, Worldcat, etc.
 
 - [ ] workflow for simplest way to add a new garden/place ?
-- [ ] "Places in ... " (sublocation box)
-- [ ] "place" instead of "province" type
+- [x] "Places in ... " (sublocation box)
+- [x] "place" instead of "province" type
 - [ ] "contributor" instead of "editor" in front matter
 - [ ] add "modified" date (and try to simplify date to omit time)
 - [ ] place archetype: date, description, image/plan/map, bibliography, keywords, place(s), linked IDs
+- [ ] add gre_id/aliases for places, update citation example
+- [x] meta page that lists all places and gardens, sortable
 
 # Province pages
 - [ ] review which sections should be retained in province pages (and also for gardens...)

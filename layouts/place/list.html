@@ -1,7 +1,7 @@
 {{/* 
-    For a given location (province or sublocation),
+    For a given place,
     list any sublocations, and
-    list any gardens within the location
+    list any gardens within the place
 */}}
 
 {{- define "main" -}}
@@ -12,12 +12,12 @@
 	{{- partial "sublocations.html" . -}}
 	{{- $thisplace := partial "this-place.html" .Path -}}
 
-	<div class='province{{ if .Params.draft }} draft{{ end }}'>
+	<div class='place{{ if .Params.draft }} draft{{ end }}'>
 		{{ if .Params.draft }}
 			<div class="draft">DRAFT</div>
 		{{ end }}
 		<h1 class="post__title">{{ default $thisplace .Title }}</h1>
-		<!-- province/subprovince article? -->
+		<!-- province/place article? -->
 		{{- if .Content -}}
 			{{ .Content }}
 		{{- end -}}
@@ -33,7 +33,7 @@
 	<div class='summary'>
 		{{ $count }} garden
 		{{ if ne $count 1 }} articles {{ else }} entry{{ end }}
-		{{- if ne $thisplace "Province" }}
+		{{- if ne $thisplace "Place" }}
 			in {{ partial "romancase.html" $thisplace }}
 		{{ end -}}
 		{{ if ne $count 1 }} have {{ else }} has {{ end }}

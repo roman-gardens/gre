@@ -15,4 +15,4 @@ Cite a garden page using the permalink found at the top of the page:
 
 ### For a province (with editor)
 
-> Bedal, L-A. (Ed.) (2021). "Arabia Petraea" Gardens of the Roman Empire, accessed March 31, 2025, [https://roman-gardens.github.io/province/arabia_petraea/](https://roman-gardens.github.io/province/arabia_petraea/)
+> Bedal, L-A. (Ed.) (2021). "Arabia Petraea" Gardens of the Roman Empire, accessed March 31, 2025, [https://roman-gardens.github.io/place/arabia_petraea/](https://roman-gardens.github.io/place/arabia_petraea/)

@@ -1,6 +1,6 @@
 <!-- Display the navigational breadcrumbs at the top of each
-	province or garden webpage -->
-{{- if or (eq .Type "province") (eq .Type "garden") -}}
+	placee or garden webpage -->
+{{- if or (eq .Type "place") (eq .Type "garden") -}}
 	{{- $path := .Path -}}
 	{{- $path := strings.TrimPrefix "/" $path -}}
 	{{- $dirs := split $path "/" -}}
@@ -17,7 +17,7 @@
 			{{- if ne 0 $i -}} / {{- end -}}
 
 			<!-- print "All Gardens" at start of breadcrumbs -->
-			{{- $place = replaceRE "province" "all gardens" $dir -}}
+			{{- $place = replaceRE "place" "all gardens" $dir -}}
 
 			<!-- capitalize and link -->
 			{{- $link := strings.Repeat (sub $levels $i 1) "../" }}

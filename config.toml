@@ -39,7 +39,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 	[[menu.main]]
 		name = "Gardens"
-		pageRef = "/province/"
+		pageRef = "/place/"
 		weight = 30
 
 	[[menu.main]]
@@ -69,6 +69,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 	customCSS = ["css/custom.css"]
 	highlightColor = "#c22d30"
 	customJS = ["js/custom.js"]
+	enableGitInfo = true
 
 [Params.logo]
 	title = "GARDENS of the ROMAN EMPIRE"
@@ -78,12 +79,12 @@ ignoreLogs = ['warning-goldmark-raw-html']
 	list = "left"  # Configure layout for list pages
 	single = "left" # Configure layout for single pages
 	# Enable widgets in given order
-	# widgets = ["search", "recent", "categories", "taglist", "provinces"]
+	# widgets = ["search", "recent", "categories", "taglist"]
 	widgets = ["search-lunr", "map"]
 
 [Params.widgets]
-	recent_num = 2 # Set the number of articles in the "Recent articles" widget
-	tags_counter = true # Enable counter for each tag in "Tags" widget
+	# recent_num = 2 # Set the number of articles in the "Recent articles" widget
+	# tags_counter = true # Enable counter for each tag in "Tags" widget
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
@@ -93,3 +94,6 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 	[markup.goldmark.renderer]
 	  unsafe = true
+
+[frontmatter]
+  lastmod = ["modified",":fileModTime"]
