@@ -4,7 +4,6 @@ aliases: [/id/8abb33d60a]
 type: place
 title: "Achaea"
 date: 2020-07-20T13:58:53-04:00
-latlon: [ 38.102121, 22.224585 ]
 author: Maureen Carroll?
 editor: Jane Millar?
 draft: false

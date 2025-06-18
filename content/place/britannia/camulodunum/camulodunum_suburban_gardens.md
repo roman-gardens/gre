@@ -27,7 +27,7 @@ categories:
 
 ### Location Description
 
-Camulodunum began as an Iron Age settlement defended by dykes, a combination of V-shaped ditch and rampart created by the upcast earth. It extended from the Roman river on the south to the Colne on the north, a distance of some four kilometers. Within this larger area, a legionary fort was built after the Claudian conquest of Britain in AD 43. On the site of the fort, a veteran colony was planted in about AD 49 and given the name [Colonia Victricensis](dead_link), City of Victory. It became the first provincial capital, later superseded by Londinium (London). Outside its walls was a V-shaped defensive ditch.
+Camulodunum began as an Iron Age settlement defended by dykes, a combination of V-shaped ditch and rampart created by the upcast earth. It extended from the Roman river on the south to the Colne on the north, a distance of some four kilometers. Within this larger area, a legionary fort was built after the Claudian conquest of Britain in AD 43. On the site of the fort, a veteran colony was planted in about AD 49 and given the name [Colonia Victricensis](#), City of Victory. It became the first provincial capital, later superseded by Londinium (London). Outside its walls was a V-shaped defensive ditch.
 
 <!--## Sublocation-->
 

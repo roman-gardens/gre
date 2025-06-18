@@ -130,6 +130,7 @@
 - [ ] place archetype: date, description, image/plan/map, bibliography, keywords, place(s), linked IDs
 - [ ] add gre_id/aliases for places, update citation example
 - [x] meta page that lists all places and gardens, sortable
+- [ ] fix or remove empty links -- search for "(#)"
 
 # Province pages
 - [ ] review which sections should be retained in province pages (and also for gardens...)
