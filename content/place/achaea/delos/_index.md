@@ -1,10 +1,9 @@
 ---
-gre_id: "2abc941b5cxxxxx"
-aliases: [/id/2abc941b5cxxxxx]
-type: "province"
+gre_id: "fbded729df"
+aliases: [/id/fbded729df]
+type: place
 title: "Delos"
 date: 2020-10-25T10:30:00-04:00
-latlon: [ 37.401783, 25.267610 ]
 author: Monika Trümper
 editor: Jane Millar
 draft: false

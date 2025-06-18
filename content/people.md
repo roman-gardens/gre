@@ -10,15 +10,20 @@ The Gardens of the Roman Empire Project has engaged a wonderful community of sch
 We gratefully acknowledge our past editors and the many volunteer and student assistants who have helped us build this project over the years. **[Join us!]({{<ref "contribute/">}})**
 
 - *Italics* original editor
-- \*  Deceased  
+- \*  Deceased
 - \*\* Corresponding editor
 
-## Editors
+## Executive Editors & Digital Humanities Team
+- [Kathryn Gleason](https://archaeology.cornell.edu/kathryn-gleason), Cornell University, Director & Editor-in-Chief 
+- [Amina-Aïcha Malek](http://www.archeo.ens.fr/Malek-Amina-Aicha.html?lang=fr), AOROC, CNRS ENS PSL, Director & Editor-in-Chief
+- [Divya Kumar-Dumas](mailto:dk4338@nyu.edu), ISAW/NYU, Managing Editor & Digital Strategy Coordinator
+- [Keith Jenkins](mailto:kgj2@cornell.edu), Cornell University, Technical Lead
+
+## Founding Editors (& Scientific Committee)
 - *[Wilhelmina Jashemski](wilhelmina-jashemski)*\* , University of Maryland
-- [Kathryn Gleason](kathryn-gleason), Cornell University, Executive Editor
+- [Kathryn Gleason](kathryn-gleason), Cornell University
 - Kim J. Hartswick, CUNY Graduate Center
 - [Amina-Aïcha Malek](amina-aicha-malek), AOROC, CNRS ENS PSL
-- [Divya Kumar-Dumas](divya-kumar-dumas), ISAW/NYU, Digital Editor
 
 
 ## Publication Designers & Technical Advisors
