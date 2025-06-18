@@ -9,8 +9,6 @@
     {{ $url = "https://orcid.org" }}
 {{ else if eq $src "pleiades" }}
     {{ $url = "https://pleiades.stoa.org/places" }}
-{{ else if eq $src "tgn" }}
-    {{ $url = "http://vocab.getty.edu/page/tgn" }}
 {{ else if eq $src "powo" }}
     {{ $url = "https://powo.science.kew.org/taxon" }}
 {{ else if eq $src "tgn" }}
@@ -28,5 +26,5 @@
 
 <div class='linkedid'>
     <b>{{ $src }}:</b>
-    <a href="{{ $url }}">{{ $id }} -- {{ $title }}</a>
+    <a href="{{ $url }}">{{ $id }}{{ with $title }} -- {{ . }}{{ end }}</a>
 </div>

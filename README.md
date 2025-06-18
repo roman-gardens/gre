@@ -14,7 +14,7 @@ The public website is built by running a GitHub Action that uses Hugo to publish
 
 Create a new garden page using the `hugo new` command, for example:
 
-```hugo new province/achaea/athens/my_garden.md```
+```hugo new place/achaea/athens/my_garden.md```
 
 In this example, we have specified the full path to the province and sublocation (`achaea/athens`).  Some gardens may have more levels of hierarchical sublocations (`italia/pompeii/region_viii/insula_iii`).
 
