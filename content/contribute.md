@@ -20,4 +20,4 @@ Please send an email with a description of the error and the url of the page on 
 
 ### Support the Project
 
-Although this website has been designed to function inexpensively using volunteers, we can do more with the project if we additional means to train and support students, young scholars, and technical experts. If you are interested in being a project collaborator or supporter, contact [Kathryn Gleason](mailto:klg16@cornell.edu). Donations may be made to a collaborating institution or to the Society for Garden Archaeology.
+Although this website has been designed to function inexpensively using volunteers, we can do more with the project if we can train and support more students, young scholars, and technical experts. If you are interested in being a project collaborator or supporter, contact [Kathryn Gleason](mailto:klg16@cornell.edu). Donations may be made to a collaborating institution or to the Society for Garden Archaeology.
