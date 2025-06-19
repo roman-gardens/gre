@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Dates
-<!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
 
 
 ## Garden Description
@@ -50,7 +50,8 @@ draft: true
 
 <!-- [piscinae](http://vocab.getty.edu/page/aat/300375619), []() -->
 
-### Linked IDs
+
+## Linked IDs
 
 <!--
 Type can be "pleiades", "tgn", "powo", "aat", etc.

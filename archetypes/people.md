@@ -19,7 +19,7 @@ draft: false
 
 <!--
 ## Linked IDs
-{{< id src="" id="" title="" >}}
+{{< id type="orcid" id="" title="" >}}
 >
 
 <!-- Description -->
