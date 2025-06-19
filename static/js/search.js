@@ -26,7 +26,6 @@ function displayResults (qterms, results, store) {
       // extract and highlight first term
       let snippet = content.replace(re, '$1<em>$2</em>$3')
       // highlight any other terms found within the snippet
-      console.log(qterms)
       if (qterms.length > 1) {
         for (let i = 1 ; i < qterms.length; i++) {
           let qi = qterms[i]
@@ -55,6 +54,9 @@ if (q) {
 
   // Retain the search input in the form when displaying results
   window.setTimeout((function(){document.getElementById('search-input').setAttribute('value', q)}), 500)
+  
+  // also split tokens on slash
+  lunr.tokenizer.separator = /[\s\-\/]+/
 
   const idx = lunr(function () {
     this.ref('id')
