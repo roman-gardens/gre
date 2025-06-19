@@ -20,7 +20,9 @@ function smallcrumbs(dir) {
 window.store = {
 {{- range $ri, $rv := where .Site.Pages "Type" "garden" -}}
 	{{ if .Title }}
-	{{ $content := print .Plain " Author: " .Params.Author " Editor: " .Params.Editor " " }}
+	{{/* add path (province, location) and frontmatter (author, contributor) to fulltext */}}
+	{{ $location := title (replaceRE "[\\W_]+" " " .Path) }}
+	{{ $content := print .Plain $location " Author: " .Params.Author " Editor: " .Params.Editor " " }}
 "{{ $ri }}": {
 	"title": "{{ .Title }}",
 	"smallcrumbs": smallcrumbs("{{ path.Dir .Path }}"),
