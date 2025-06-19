@@ -1,14 +1,9 @@
 {{/* 
-
 	If a list, return it
 	If a string, split on commas
-
-	Note that using isset on a string produces a hugo warning,
-	but there seems to be no other way to test for string/array.
 */}}
-{{- $isarray := isset . 0 -}}
 {{- $list := slice -}}
-{{- if $isarray -}}
+{{- if reflect.IsSlice . -}}
 	{{- $list = . -}}
 {{- else if strings.Contains . ", " -}}
     {{- $list = split . ", " }}
