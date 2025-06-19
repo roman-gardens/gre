@@ -1,6 +1,7 @@
 ---
 type: people
 title: Kathryn Gleason
+date: 2025-06-18
 draft: false
 ---
 
@@ -14,6 +15,6 @@ klg16@cornell.edu
 https://archaeology.cornell.edu/kathryn-gleason
 
 ## Linked IDs
-{{< id src="orcid" id="0000-0001-6260-8378" >}}
+{{< id type="orcid" id="0000-0001-6260-8378" >}}
 
 <!-- Description -->

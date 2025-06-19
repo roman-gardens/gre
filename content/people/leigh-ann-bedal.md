@@ -1,26 +1,22 @@
 ---
-date: 2025-06-14T13:32:32-04:00
-modified: 2025-06-14T13:32:32-04:00
 type: people
 title: Leigh-Ann Bedal
+date: 2025-06-18
 draft: false
 ---
 
 <!-- position title, institution -->
+Associate Professor of Anthropology, Penn State University, Behrend
 
-<!--
 ## E-mail
+lxb41@psu.edu
 
--->
-
-<!--
 ## Website
-
--->
+https://behrend.psu.edu/person/leigh-ann-bedal
 
 <!--
 ## Linked IDs
-{{< id src="" id="" title="" >}}
+{{< id type="" id="" title="" >}}
 >
 
 <!-- Description -->

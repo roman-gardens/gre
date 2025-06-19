@@ -1,25 +1,22 @@
 ---
-date: 2025-06-14T13:23:10-04:00
-modified: 2025-06-14T13:23:10-04:00
 type: people
 title: Elizabeth Macaulay
+date: 2025-06-18
 draft: false
 ---
 
 <!-- position title, institution -->
 CUNY Graduate Center
 
-<!--
 ## E-mail
-
--->
+emacaulay_lewis@gc.cuny.edu
 
 ## Website
 https://www.gc.cuny.edu/people/elizabeth-macaulay
 
 <!--
 ## Linked IDs
-{{< id src="" id="" title="" >}}
+{{< id type="" id="" title="" >}}
 >
 
 <!-- Description -->

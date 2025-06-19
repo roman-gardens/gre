@@ -1,9 +1,8 @@
 ---
-date: 2025-06-15T03:11:05-04:00
-modified: 2025-06-15T03:11:05-04:00
 type: people
 title: Christian Casey
-draft: false
+date: 2025-06-18
+draft: true
 ---
 
 <!-- position title, institution -->
@@ -20,7 +19,7 @@ draft: false
 
 <!--
 ## Linked IDs
-{{< id src="" id="" title="" >}}
+{{< id type="" id="" title="" >}}
 >
 
 <!-- Description -->

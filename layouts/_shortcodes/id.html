@@ -1,30 +1,30 @@
 {{ $id := .Get "id" }}
-{{ $src := .Get "src" }}
+{{ $type := .Get "type" }}
 {{ $title := .Get "title" }}
 
 {{ $url := "" }}
-{{ if eq $src "aat" }}
+{{ if eq $type "aat" }}
     {{ $url = "http://vocab.getty.edu/page/aat" }}
-{{ else if eq $src "orcid" }}
+{{ else if eq $type "orcid" }}
     {{ $url = "https://orcid.org" }}
-{{ else if eq $src "pleiades" }}
+{{ else if eq $type "pleiades" }}
     {{ $url = "https://pleiades.stoa.org/places" }}
-{{ else if eq $src "powo" }}
+{{ else if eq $type "powo" }}
     {{ $url = "https://powo.science.kew.org/taxon" }}
-{{ else if eq $src "tgn" }}
+{{ else if eq $type "tgn" }}
     {{ $url = "http://vocab.getty.edu/page/tgn" }}
 {{ end }}
 
 {{ $url = urls.JoinPath $url $id }}
 
 {{/* Capitalize the source appropriately */}}
-{{ if eq $src "pleiades"}}
-    {{ $src = strings.FirstUpper $src }}
+{{ if eq $type "pleiades"}}
+    {{ $type = strings.FirstUpper $type }}
 {{ else }}
-    {{ $src = upper $src }}
+    {{ $type = upper $type }}
 {{ end }}
 
 <div class='linkedid'>
-    <b>{{ $src }}:</b>
+    <b>{{ $type }}:</b>
     <a href="{{ $url }}">{{ $id }}{{ with $title }} -- {{ . }}{{ end }}</a>
 </div>

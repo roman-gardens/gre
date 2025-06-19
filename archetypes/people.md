@@ -1,8 +1,7 @@
 ---
-date: {{ time.Now.Format "2006-01-02" }}
-modified: {{ time.Now.Format "2006-01-02" }}
 type: people
-title: NAME
+title: {{ title (replace .Name "-" " ") }}
+date: {{ time.Now.Format "2006-01-02" }}
 draft: false
 ---
 

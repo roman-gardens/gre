@@ -1,9 +1,8 @@
 ---
-date: 2025-06-14T13:32:50-04:00
-modified: 2025-06-14T13:32:50-04:00
 type: people
 title: M. Barbara Reeves
-draft: false
+date: 2025-06-18
+draft: true
 ---
 
 <!-- position title, institution -->
@@ -19,7 +18,7 @@ https://www.queensu.ca/classics/people-search/m-barbara-reeves
 
 <!--
 ## Linked IDs
-{{< id src="" id="" title="" >}}
+{{< id type="" id="" title="" >}}
 >
 
 <!-- Description -->

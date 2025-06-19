@@ -1,6 +1,7 @@
 ---
 type: people
 title: Keith Jenkins
+date: 2025-06-18
 draft: false
 ---
 
@@ -17,7 +18,7 @@ kgj2@cornell.edu
 
 <!--
 ## Linked IDs
-{{< id src="" id="" title="" >}}
+{{< id type="" id="" title="" >}}
 >
 
 <!-- Description -->

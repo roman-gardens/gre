@@ -1,9 +1,8 @@
 ---
-date: 2025-06-14T13:47:34-04:00
-modified: 2025-06-14T13:47:34-04:00
 type: people
 title: Rhiannon Paré
-draft: false
+date: 2025-06-18
+draft: true
 ---
 
 <!-- position title, institution -->
@@ -20,7 +19,7 @@ draft: false
 
 <!--
 ## Linked IDs
-{{< id src="" id="" title="" >}}
+{{< id type="" id="" title="" >}}
 >
 
 <!-- Description -->

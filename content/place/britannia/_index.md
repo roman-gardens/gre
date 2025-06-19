@@ -19,8 +19,8 @@ Britain is geographically and geologically diverse, and it was characterized in 
 
 #### Linked IDs
 
-{{< id src="pleiades" id="981513" title="Britannia (province)" >}}
-{{< id src="tgn" id="7030316" title="Britannia (province)" >}}
+{{< id type="pleiades" id="981513" title="Britannia (province)" >}}
+{{< id type="tgn" id="7030316" title="Britannia (province)" >}}
 
 <!--#### Periodo ID-->
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->

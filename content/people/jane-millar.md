@@ -1,6 +1,7 @@
 ---
-title: "Jane Millar"
-draft: false
+title: Jane Millar
+date: 2025-06-18
+draft: true
 ---
 
 University of Texas, Austin
@@ -19,7 +20,7 @@ University of Texas, Austin
 
 <!--
 ## Linked IDs
-{{< id src="" id="" title="" >}}
+{{< id type="" id="" title="" >}}
 >
 
 <!-- Description -->

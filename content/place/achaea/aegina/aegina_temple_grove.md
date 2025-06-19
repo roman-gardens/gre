@@ -60,8 +60,8 @@ pre-464 BCE to 2nd century CE
 
 #### Linked IDs
 
-{{< id src="pleiades" id="579844" title="Aegina (island)" >}}
-{{< id src="tgn" id="7011087" title="Aegina (inhabited place)" >}}
+{{< id type="pleiades" id="579844" title="Aegina (island)" >}}
+{{< id type="tgn" id="7011087" title="Aegina (inhabited place)" >}}
 
 ### Contributor
 

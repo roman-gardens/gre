@@ -91,18 +91,16 @@
 - [x] merge nav-merge into master-new (which will be renamed "main" and become the default branch)
 - [x] remove unused layouts
 - [x] remove PROVINCE_ID from front matter - province is part of the directory structure
-- [ ] move province descriptions from garden to separate files?
 - [ ] recover gallia aquitania entries? https://github.com/roman-gardens/gre/commit/06b191b293c531a31dca04631b02d031a3a1b32d
 - [ ] document how theme files should be edited (not in mainroad directory!)
 - [ ] Bibliography first item actually two? https://roman-gardens.github.io/province/italia/rome/regio_x_palatium/domus_augustana/
-- [x] move all images to separate repo? -- experiment and assess pros/cons
 - [ ] alternative names -- example https://roman-gardens.github.io/test-a/id/5c8aada6d5
 - [ ] standardize and document recommendations for entry titles
         - House name, or house number, or both?
         - Roman/Arabic numerals for region, insula, house (e.g. Pompeii VIII.4.30 vs VIII.iv.30)
         - ideally, don't depend on upper/lowercase for meaning
 - [ ] consistent heading levels in articles (h1, h2, h3, etc.)
-- [ ] add author/editor/date metadata to (top or bottom?) of article -- no need to duplicate in the markdown
+- [ ] add author/editor/date metadata to top of article -- no need to duplicate in the markdown
     - use a partial that will use the frontmatter values and automatically add ORCID, email, etc.
     - or link to a separate person page, [like Pleiades does](https://pleiades.stoa.org/author/thomase)
 - [ ] frontmatter quoting: omit, unless ambiguous
@@ -135,8 +133,7 @@
 # Province pages
 - [ ] review which sections should be retained in province pages (and also for gardens...)
 - [ ] move content from garden entries to the province _index.md
-- [ ] generate new "gre_id" and "alias" values for new province pages
-- [ ] fix links from gardens to people pages
+- [x] fix links from gardens to people pages
 
 # Images
 - [x] rename 37 JPG files to jpg
@@ -145,6 +142,9 @@
 - [ ] some photos we want lower resolution (so copyright holder can control access to full resolution)
 - [ ] link to reuse/take-down policy in image captions
 
+# Questions/Discussion
+- People names -- when to include middle initial?
+- People links/pages for everyone, or just prominent contributors?
 
 
 # User forks
