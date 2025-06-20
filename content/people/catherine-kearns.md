@@ -15,8 +15,7 @@ cmkearns@uchicago.edu
 https://classics.uchicago.edu/people/catherine-kearns
 
 <!--
-## Linked IDs
-{{< id type="" id="" title="" >}}
->
+{{< id vocab="ORCID" id="" >}}
+-->
 
 <!-- Description -->

@@ -15,8 +15,7 @@ lxb41@psu.edu
 https://behrend.psu.edu/person/leigh-ann-bedal
 
 <!--
-## Linked IDs
-{{< id type="" id="" title="" >}}
->
+{{< id vocab="ORCID" id="" >}}
+-->
 
 <!-- Description -->

@@ -15,8 +15,7 @@ aicha.malek@ens.fr
 https://www.archeo.ens.fr/Malek-Amina-Aicha.html
 
 <!--
-## Linked IDs
-{{< id type="" id="" title="" >}}
->
+{{< id vocab="ORCID" id="" >}}
+-->
 
 <!-- Description -->

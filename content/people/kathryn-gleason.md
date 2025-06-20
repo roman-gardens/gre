@@ -14,7 +14,6 @@ klg16@cornell.edu
 ## Website
 https://archaeology.cornell.edu/kathryn-gleason
 
-## Linked IDs
-{{< id type="orcid" id="0000-0001-6260-8378" >}}
+{{< id vocab="ORCID" id="0000-0001-6260-8378" >}}
 
 <!-- Description -->

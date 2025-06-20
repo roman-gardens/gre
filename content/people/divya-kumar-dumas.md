@@ -14,7 +14,6 @@ dk4338@nyu.edu
 ## Website
 https://isaw.nyu.edu/people/affiliates/research-associates/divya-kumar-dumas
 
-## Linked IDs
-{{< id type="orcid" id="0000-0002-4766-1880" title="" >}}
+{{< id vocab="ORCID" id="0000-0002-4766-1880" >}}
 
 <!-- Description -->

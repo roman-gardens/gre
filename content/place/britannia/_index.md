@@ -17,10 +17,9 @@ Britain is geographically and geologically diverse, and it was characterized in 
 ### Dates
 43 CE to ~410 CE
 
-#### Linked IDs
-
-{{< id type="pleiades" id="981513" title="Britannia (province)" >}}
-{{< id type="tgn" id="7030316" title="Britannia (province)" >}}
+#### Places
+- {{< id vocab="Pleiades" id="981513" term="Britannia (province)" >}}
+- {{< id vocab="TGN" id="7030316" term="Britannia (province)" >}}
 
 <!--#### Periodo ID-->
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->

@@ -14,8 +14,7 @@ maureen.carroll@york.ac.uk
 ## Website
 https://www.york.ac.uk/archaeology/people/carroll/
 
-## Linked IDs
-{{< id type="orcid" id="0000-0001-9958-8032" title="" >}}
+{{< id vocab="ORCID" id="0000-0001-9958-8032" >}}
 
 <!-- Description -->
 

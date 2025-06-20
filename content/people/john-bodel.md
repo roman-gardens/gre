@@ -14,8 +14,7 @@ john_bodel@brown.edu
 ## Website
 https://www.brown.edu/academics/history/people/john-bodel
 
-## Linked IDs
-{{< id type="orcid" id="0000-0003-1820-6368" title="" >}}
+{{< id vocab="ORCID" id="0000-0003-1820-6368" >}}
 
 
 <!-- Description -->

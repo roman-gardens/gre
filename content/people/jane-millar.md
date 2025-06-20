@@ -19,8 +19,7 @@ University of Texas, Austin
 -->
 
 <!--
-## Linked IDs
-{{< id type="" id="" title="" >}}
->
+{{< id vocab="ORCID" id="" >}}
+-->
 
 <!-- Description -->

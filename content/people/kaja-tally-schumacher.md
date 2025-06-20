@@ -17,8 +17,7 @@ https://www.gsd.harvard.edu/person/kaja-tally-schumacher/
 https://arthistory.cornell.edu/kaja-tally-schumacher
 
 <!--
-## Linked IDs
-{{< id type="" id="" title="" >}}
->
+{{< id vocab="ORCID" id="" >}}
+-->
 
 <!-- Description -->

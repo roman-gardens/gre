@@ -35,6 +35,7 @@
 - [ ] Finish creating documentation
 - [x] Change keywords to bulleted list
 - [ ] Fix all links that have [text](#) or [text](link)
+- [ ] fix search for plurals (lunr matches the singular, but then we can't highlight in the snippet)
 
 # Article Punchlist
 
@@ -116,29 +117,21 @@
 - [ ] garden list sort order (currently alphabetical, but most recent first?)
 - [ ] browse by province -- only list most recent updates?
 - [ ] move province description to browse page for the province
-- [x] "garden entries" have been published
-- [x] remove numbers like 563 from Herculaneum entry titles
 - [ ] shortcodes for Pleiades, TGN, Periodo, POWO, AAT, Perseus, Worldcat, etc.
 
 - [ ] workflow for simplest way to add a new garden/place ?
-- [x] "Places in ... " (sublocation box)
-- [x] "place" instead of "province" type
 - [ ] "contributor" instead of "editor" in front matter
 - [ ] add "modified" date (and try to simplify date to omit time)
 - [ ] place archetype: date, description, image/plan/map, bibliography, keywords, place(s), linked IDs
 - [ ] add gre_id/aliases for places, update citation example
-- [x] meta page that lists all places and gardens, sortable
 - [ ] fix or remove empty links -- search for "(#)"
 
 # Province pages
 - [ ] review which sections should be retained in province pages (and also for gardens...)
 - [ ] move content from garden entries to the province _index.md
-- [x] fix links from gardens to people pages
 
 # Images
-- [x] rename 37 JPG files to jpg
 - [ ] many dupl images in thugga -- warning!  the "2" image may be older (missing additional label/green patch)
-- [x] convert .tif, .ai, and .ppt files to .jpg or .png
 - [ ] some photos we want lower resolution (so copyright holder can control access to full resolution)
 - [ ] link to reuse/take-down policy in image captions
 

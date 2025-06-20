@@ -17,8 +17,7 @@ Queen's University
 https://www.queensu.ca/classics/people-search/m-barbara-reeves
 
 <!--
-## Linked IDs
-{{< id type="" id="" title="" >}}
->
+{{< id vocab="ORCID" id="" >}}
+-->
 
 <!-- Description -->

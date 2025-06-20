@@ -15,8 +15,7 @@ emacaulay_lewis@gc.cuny.edu
 https://www.gc.cuny.edu/people/elizabeth-macaulay
 
 <!--
-## Linked IDs
-{{< id type="" id="" title="" >}}
->
+{{< id vocab="ORCID" id="" >}}
+-->
 
 <!-- Description -->

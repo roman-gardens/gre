@@ -11,8 +11,7 @@ Professor of Classical Archaeology, Freie Universität Berlin
 ## Website
 https://www.geschkult.fu-berlin.de/en/e/klassarch/institut/01_personen/professoren/Truemper.html
 
-## Linked IDs
-{{< id type="orcid" id="0000-0003-4524-6242" >}}
+{{< id vocab="ORCID" id="0000-0003-4524-6242" >}}
 
 <!--
 ## E-mail

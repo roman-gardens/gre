@@ -17,9 +17,8 @@ draft: false
 -->
 
 <!--
-## Linked IDs
-{{< id type="" id="" title="" >}}
->
+{{< id vocab="ORCID" id="" >}}
+-->
 
 <!-- Description -->
 (July 10, 1910 - December 24, 2007)

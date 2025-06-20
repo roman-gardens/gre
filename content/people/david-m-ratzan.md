@@ -1,6 +1,6 @@
 ---
 type: people
-title: David M Ratzan
+title: David M. Ratzan
 date: 2025-06-19
 draft: false
 ---
@@ -19,8 +19,7 @@ https://isaw.nyu.edu/people/staff/david-m-ratzan
 
 
 
-## Linked IDs
-{{< id type="orcid" id="0000-0002-3047-5635" title="" >}}
+{{< id vocab="ORCID" id="0000-0002-3047-5635" >}}
 
 
 <!-- Description -->

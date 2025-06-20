@@ -3,21 +3,11 @@ gre_id: "2abc941b5c"
 aliases: [/id/2abc941b5c]
 type: garden
 title: "Agora of the Italians"
-date: 2020-10-25T10:30:00-04:00
+date: 2021-04-21
 latlon: [ 37.401783, 25.267610 ]
 author: Monika Trümper
 editor: Jane Millar
 draft: false
-
-
-tags:
- - "colonnades"
- - "courtyards"
- - "exedrae (site elements)"
- - "niches"
- - "peristyles (Roman courtyards)"
- - "porticoes"
- - "water wells"
 ---
 
 ## Province
@@ -90,22 +80,12 @@ Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora
 - F. Coarelli, *I mercanti nel tempio. Delo. Culto, politica, commercio.* Athens, 2016. [(worldcat)](http://www.worldcat.org/oclc/966305712).
 - F. Herbin, "Die Statue des Ofellius," in: F. Queyrel – R. von den Hoff (eds.), *Das Leben griechischer Porträts. Porträtstatuen des 5. bis 1. Jhs. v. Chr.* Bildnispraktiken und Neu-Kontextualisierungen. Paris, 2019: 326–335. [(worldcat)](http://www.worldcat.org/oclc/1129887972).
 
-<!--#### Periodo ID-->
 
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+# Places
+- {{< id vocab="Pleiades" id="394168051" term="Agora of the Italians" >}}
+- {{< id vocab="Pleiades" id="599588" term="Delos (island)" >}}
+- {{< id vocab="TGN" id="7011273" term="Dhílos, Nisís (island)" >}}
 
-#### Pleiades ID
-[394168051 (Agora of the Italians)](https://pleiades.stoa.org/places/394168051)
-
-#### TGN ID
-[7011273 (Dhílos,island)](http://vocab.getty.edu/page/tgn/7011273)
-
-### Contributor
-Monika Trümper (ORCID: [0000-0003-4524-6242](https://orcid.org/0000-0003-4524-6242))
-
-### Publication date
-
-21 Apr 2021
 
 <!--### Related articles-->
 
