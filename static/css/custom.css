@@ -12,6 +12,20 @@ a.nav {
   color: #000;
 }
 
+/* external links */
+a + a[target=_blank] {
+  padding-left: 0.5em;
+}
+a[target=_blank], a[target=_blank]:hover {
+  font-family: Candara, Arial, sans-serif;
+  color: #44f;
+}
+a[target=_blank]::after {
+  content: "🗗";
+  padding-left: 2px;
+}
+
+
 body {
   font-family: "Georgia", "Palatino", serif;
   font-size: 12pt;
@@ -86,6 +100,7 @@ figcaption {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0.5em 0 0;
+  xfont-family: "Candara", Arial, sans-serif;
 }
 
 .container--outer {
@@ -154,6 +169,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 nav.breadcrumbs {
+  xfont-family: "Candara", Arial, sans-serif;
   font-weight: bold;
   font-size: 130%;
   margin-bottom: 0.5em;
@@ -255,6 +271,7 @@ article.list__item em {
 }
 
 .smallcrumbs {
+  xfont-family: Candara, Arial, sans-serif;
 	color: #282;
   font-size: 90%;
   margin: 0;
@@ -304,6 +321,10 @@ article.list__item em {
 
 table.meta {
   font-family: "Arial Narrow", Arial, sans-serif;
+  width: auto;
+}
+table#metakeywords {
+  font-family: Arial;
 }
 
 table.meta th:hover {

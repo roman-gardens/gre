@@ -18,8 +18,7 @@ draft: false
 -->
 
 <!--
-## Linked IDs
-{{< id type="orcid" id="" title="" >}}
+{{< id vocab="ORCID" id="" >}}
 >
 
 <!-- Description -->

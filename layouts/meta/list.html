@@ -1,7 +1,15 @@
 {{ define "main" }}
 <main class="main" role="main">
+    <h1>Jump to:</h1>
+    <ul style="margin-left:2em; margin-bottom:3em">
+        <li><a href="#places">Places</a></li>
+        <li><a href="#gardens">Gardens</a></li>
+        <li><a href="#keywords">Keywords</a></li>
+    </ul>
+
+
     {{ $pages := sort (where .Site.RegularPages "Type" "place") "Path" }}
-    <h1>All places ({{ $pages.Len }})</h1>
+    <h1 id="places">All places ({{ $pages.Len }})</h1>
     <table class="meta" id="metaplace">
         <tr>
             <th>#</th>
@@ -32,7 +40,7 @@
     </table>
     
     {{ $pages := sort (where .Site.RegularPages "Type" "garden") "Path" }}
-    <h1>All gardens ({{ $pages.Len }})</h1>
+    <h1 id="gardens">All gardens ({{ $pages.Len }})</h1>
     <table class="meta" id="metagarden">
         <tr>
             <th>#</th>
@@ -61,6 +69,38 @@
             </tr>
         {{ end }}
     </table>
+
+    {{/* Load the list of known keywords */}}
+    {{- $keywords := dict -}}
+    {{- with resources.Get "keywords.csv" -}}
+        {{- $opts := dict "targetType" "slice" -}}
+        {{- $keywords = transform.Unmarshal $opts . -}}
+    {{- end -}}
+    <h1 id="keywords">Keywords </h1>
+    {{ with $keywords }}
+    <table class="meta" id="metakeywords">
+        <thead>
+        <tr>
+            {{ range index . 0 }}
+            <th>{{ . }}</th>
+            {{ end }}
+        </tr>
+        </thead>
+        <tbody>
+        {{ range . | after 1 }}
+            <tr>
+            {{ range $i, $v := . }}
+                {{ if eq $i 0 }}
+                    <td><a href="/search/?q={{ urlize $v }}">{{ $v }}</a></td>
+                {{ else }}
+                    <td>{{ $v }}</td>
+                {{ end }}
+            {{ end }}
+            </tr>
+        {{ end }}
+        </tbody>
+    </table>
+    {{ end }}
 
     <!-- make tables sortable by clicking on headers -->
     <script>

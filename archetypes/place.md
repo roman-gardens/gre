@@ -47,15 +47,16 @@ draft: true
 
 
 ## Keywords
-
-<!-- [piscinae](http://vocab.getty.edu/page/aat/300375619), []() -->
+<!--
+- {{< keyword "Example keyword" >}}
+-->
 
 
 ## Linked IDs
 
 <!--
-Type can be "pleiades", "tgn", "powo", "aat", etc.
-Title should be the label used by the linked resource
-{{< id type="pleiades" id="" title="" >}}
-{{< id type="tgn" id="" title="" >}}
+Term should be the label used by the linked resource
+
+{{< id vocab="Pleiades" id="" term="" >}}
+{{< id vocab="TGN" id="" term="" >}}
 -->
