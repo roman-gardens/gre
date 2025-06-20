@@ -14,14 +14,14 @@
 	<nav class="breadcrumbs">
 		{{- range $i, $dir := $dirs -}}
 			<!-- print slash except for at beginning -->
-			{{- if ne 0 $i -}} / {{- end -}}
+			{{- if ne 0 $i }} / {{ end -}}
 
 			<!-- print "All Gardens" at start of breadcrumbs -->
 			{{- $place = replaceRE "place" "all gardens" $dir -}}
 
 			<!-- capitalize and link -->
-			{{- $link := strings.Repeat (sub $levels $i 1) "../" }}
+			{{- $link := strings.Repeat (sub $levels $i 1) "../" -}}
 			<a href="{{ $link }}">{{ partial "romancase.html" $place }}</a>
-		{{- end }}
+		{{- end -}}
 	</nav>
 {{- end -}}
