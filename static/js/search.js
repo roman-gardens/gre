@@ -69,7 +69,7 @@ if (q) {
       this.add({
         id: key,
         title: window.store[key].title,
-        content: window.store[key].content
+        content: window.store[key].content.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
       })
     }
   })
@@ -77,6 +77,7 @@ if (q) {
   // Only return results that contain ALL query terms
   let qterms = q.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\W+/g, ' ').trim().split(' ')
   let qall = '+' + qterms.join(' +')
+  console.log(qall)
 
   try {
     // Perform the search
