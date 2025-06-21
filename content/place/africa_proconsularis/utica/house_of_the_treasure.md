@@ -57,7 +57,7 @@ House of the Treasure (Maison au trésor)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [semicircular basin](#)
-- [triclinia(rooms)](http://vocab.getty.edu/page/aat/300004359)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
 ### Garden Description

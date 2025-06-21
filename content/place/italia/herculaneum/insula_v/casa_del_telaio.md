@@ -39,9 +39,9 @@ V
 Casa del Telaio
 
 ### Keywords
-- [textrina](http://vocab.getty.edu/page/aat/300007570)
+- [textrina](#)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [puteals](http://vocab.getty.edu/page/aat/300262690)
+- [puteals](http://vocab.getty.edu/page/aat/300443458)
 
 ### Garden Description
 548.V.4/3.

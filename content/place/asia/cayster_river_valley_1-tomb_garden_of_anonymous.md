@@ -55,7 +55,7 @@ Tomb Garden(?) of an Anonymous
 
 ### Keywords
 - inscription
-- [heroon](http://vocab.getty.edu/page/aat/300005888)
+- [heroa](http://vocab.getty.edu/page/aat/300005888)
 - [tomb](http://vocab.getty.edu/page/aat/300005926)
 - grave
 

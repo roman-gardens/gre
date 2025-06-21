@@ -63,7 +63,7 @@ House of the Nymphs (Maison des Nymphes)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
-- [planting pots](#)
+- [cachepots](#)
 - [inscriptions](http://vocab.getty.edu/page/aat/300028702)
 - [Virgil](#)
 

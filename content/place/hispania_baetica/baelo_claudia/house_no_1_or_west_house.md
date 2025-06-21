@@ -51,8 +51,8 @@ House No. 1 or West House
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 <!-- [Doric order]-->
-<!-- [triclinium]-->
 
 ### Garden Description
 

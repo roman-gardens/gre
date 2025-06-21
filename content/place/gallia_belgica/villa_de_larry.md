@@ -44,7 +44,7 @@ Villa de Larry
 
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [hedge](http://vocab.getty.edu/page/aat/300266413)
+- [hedges](http://vocab.getty.edu/page/aat/300266413)
 - [pergolas](http://vocab.getty.edu/page/aat/300006783)
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [fountain](http://vocab.getty.edu/page/aat/300006179)

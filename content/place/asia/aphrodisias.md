@@ -60,7 +60,7 @@ Place of the Palms (South Agora)
 ### Keywords
 
 - [Nymphs](http://vocab.getty.edu/page/aat/300379159)
-- [temenos](http://vocab.getty.edu/page/aat/300000805)
+- [temene](http://vocab.getty.edu/page/aat/300000805)
 - strategos
 - palm-grove
 - agora

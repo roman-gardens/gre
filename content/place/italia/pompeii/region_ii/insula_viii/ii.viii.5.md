@@ -43,12 +43,12 @@ Caupona with small bath.
 ### Keywords
  - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
  - [cauponae](http://vocab.getty.edu/page/aat/300005208)
- - [tabernae](http://www.getty.edu/vow/AATFullDisplay?find=tabernae&logic=AND&note=&english=N&prev_page=1&subjectid=300005366)
+ - [tabernae](http://vocab.getty.edu/page/aat/300005366)
  - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
 ### Garden Description
-A. A very small bath was located at the left rear of the [atrium](http://vocab.getty.edu/page/aat/300004097) in this unusual building. Behind this was a tiny garden with three small triclinia on either side. The couches of these six [triclinia](http://vocab.getty.edu/page/aat/300004359) were so low and narrow they must have been used as seats similar to the [tabernae](http://www.getty.edu/vow/AATFullDisplay?find=tabernae&logic=AND&note=&english=N&prev_page=1&subjectid=300005366) attached to the house of Julia Felix (II.iv.7).
+A. A very small bath was located at the left rear of the [atrium](http://vocab.getty.edu/page/aat/300004097) in this unusual building. Behind this was a tiny garden with three small triclinia on either side. The couches of these six [triclinia](http://vocab.getty.edu/page/aat/300004359) were so low and narrow they must have been used as seats similar to the [tabernae](http://vocab.getty.edu/page/aat/300005366) attached to the house of Julia Felix (II.iv.7).
 B. Another small garden was found to the rear of the [caupona](http://vocab.getty.edu/page/aat/300005208).
 
 <!--### Plans

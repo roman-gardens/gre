@@ -40,7 +40,7 @@ Casa dell’Atrio a Mosaico
 
 ### Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [exedra](http://vocab.getty.edu/page/aat/300004014)
+- [exedrae (interior spaces)](http://vocab.getty.edu/page/aat/300004014)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description

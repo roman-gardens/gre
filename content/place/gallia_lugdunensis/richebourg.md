@@ -42,7 +42,7 @@ Richebourg (Yvelines) villa de
 ### Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [trellises](http://vocab.getty.edu/page/aat/300006785)
-- [stylobate](http://vocab.getty.edu/page/aat/300000986)
+- [stylobates](http://vocab.getty.edu/page/aat/300000986)
 - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
 - [pergolas](http://vocab.getty.edu/page/aat/300006783)
 - [apse](http://vocab.getty.edu/page/aat/300004607)

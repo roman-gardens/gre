@@ -42,11 +42,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ### Keywords
 - [aedicules](http://vocab.getty.edu/page/aat/300002574)
 - [fountain](http://vocab.getty.edu/page/aat/300006179)
-- [gutter](http://vocab.getty.edu/page/aat/300052565)
+- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
 - [lararia](http://vocab.getty.edu/page/aat/300400600)
 - [pillars](http://vocab.getty.edu/page/aat/300264605)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statuettes](http://vocab.getty.edu/page/aat/300312262)
+- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 
 
 ## Garden

@@ -38,7 +38,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
- - [palaestra](http://vocab.getty.edu/page/aat/300007301)
+ - [palaestrae](http://vocab.getty.edu/page/aat/300007301)
 
 
 ### Garden Description

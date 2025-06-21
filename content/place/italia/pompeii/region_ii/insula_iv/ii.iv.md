@@ -50,7 +50,7 @@ Three separate gardens in the Praedia di Julia Felix.
 
 ### Keywords
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [jet d'eau](http://vocab.getty.edu/page/aat/300435392)
+- [sprinklers (watering equipment)](http://vocab.getty.edu/page/aat/300435392)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)

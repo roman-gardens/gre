@@ -42,7 +42,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
- - [sacella](http://www.getty.edu/vow/AATFullDisplay?find=sacellum&logic=AND&note=&english=N&prev_page=1&subjectid=300007570)
+ - [sacella](http://vocab.getty.edu/page/aat/300007570)
  - [water supply systems](http://vocab.getty.edu/page/aat/300008618)
  - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
  - [vestibules](http://vocab.getty.edu/page/aat/300083076)

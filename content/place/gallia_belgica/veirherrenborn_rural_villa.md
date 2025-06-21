@@ -40,7 +40,7 @@ Rural Villa
 
 ### Keywords
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [paddock](http://vocab.getty.edu/page/aat/300428748)
+- [paddocks](http://vocab.getty.edu/page/aat/300428748)
 
 ### Garden Description
 

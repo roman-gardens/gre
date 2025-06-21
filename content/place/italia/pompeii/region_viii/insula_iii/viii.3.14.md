@@ -9,18 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 421
 draft: false
-
-categories:
-  - "Italia"
-tags:
-- "aedicules"
-- "atriums (Roman halls)"
-- "podium"
-- "herms"
-- "statuettes"
-- "thymiaterion"
-- "candelabras (candleholders)"
-
 ---
 
 ## Province
@@ -43,9 +31,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ### Keywords
  - [aedicules](http://vocab.getty.edu/page/aat/300002574)
  - [atrium](http://vocab.getty.edu/page/aat/300004097)
- - [podium](http://vocab.getty.edu/page/aat/300000976)
- - [herm](http://vocab.getty.edu/page/aat/300047170)
- - [statuettes](http://vocab.getty.edu/page/aat/300312262)
+ - [podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)
+ - [herms](http://vocab.getty.edu/page/aat/300047170)
+ - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
  - [thymiaterion](http://vocab.getty.edu/page/aat/300265006)
  - [candelabrum](http://vocab.getty.edu/page/aat/300265618)
 

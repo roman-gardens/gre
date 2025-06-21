@@ -41,7 +41,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
- - [triclinium](http://vocab.getty.edu/page/aat/300004359)
+ - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
  - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
  - [dolium](http://vocab.getty.edu/page/aat/300400601)
  - [lararium](http://vocab.getty.edu/page/aat/300400600)

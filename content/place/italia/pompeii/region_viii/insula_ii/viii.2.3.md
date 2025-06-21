@@ -38,8 +38,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ### Keywords
- - [peristyle](http://vocab.getty.edu/page/aat/300080971)
- - [sacrarium](http://vocab.getty.edu/page/aat/300007572)
+ - [peristyles](http://vocab.getty.edu/page/aat/300080971)
+ - [sacraria](http://vocab.getty.edu/page/aat/300007572)
 
 
 ### Garden Description

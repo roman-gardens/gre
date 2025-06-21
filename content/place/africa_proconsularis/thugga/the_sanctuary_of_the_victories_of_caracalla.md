@@ -44,10 +44,10 @@ The sanctuary of the Victories of Caracalla
 
 ### Keywords
 
-- [temple](#)
+- [temples (buildings)](#)
 - [sanctuary](#)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [planting bed](http://vocab.getty.edu/page/aat/300430426)
+- [planting beds](http://vocab.getty.edu/page/aat/300430426)
 - [balustrades](http://vocab.getty.edu/page/aat/300001989)
 
 ### Garden Description

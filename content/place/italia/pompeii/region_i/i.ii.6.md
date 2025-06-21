@@ -42,7 +42,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [stucco](http://vocab.getty.edu/page/aat/300014966)
+- [stucco (plaster)](http://vocab.getty.edu/page/aat/300014966)
 
 ## Garden
 Small peristyle garden at the rear of the house.

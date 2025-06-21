@@ -54,7 +54,7 @@ Temple of Hephaistos
 - [Archaeological](#)
 - [myrtle (*Myrtus communis*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:599719-1)
 - [pits (earthworks)](http://vocab.getty.edu/page/aat/300008027)
-- [planting pots (horticultural containers)](http://vocab.getty.edu/page/aat/300197605)
+- [cachepots](http://vocab.getty.edu/page/aat/300197605)
 - [pomegranate (*Punica granatum*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:554129-1)
 
 ### Garden Description

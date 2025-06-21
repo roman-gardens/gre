@@ -59,7 +59,7 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 ### Keywords
 - [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
 - [viridarium](#)
-- [temple](#)
+- [temples (buildings)](#)
 - [sanctuary](#)
 - [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 - [inscription](#)

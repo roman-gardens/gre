@@ -42,9 +42,9 @@ House of the Masks (Maison aux Masques)
 
 ### Keywords
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [opus stigninumboth](http://vocab.getty.edu/page/aat/300379969)
+- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [stylobate](http://vocab.getty.edu/page/aat/300000986)
+- [stylobates](http://vocab.getty.edu/page/aat/300000986)
 - [plynth](http://vocab.getty.edu/page/aat/300001749)
 - [pilasters](http://vocab.getty.edu/page/aat/300002737)
 

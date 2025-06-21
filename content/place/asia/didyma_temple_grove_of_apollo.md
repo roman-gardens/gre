@@ -54,8 +54,8 @@ A sublocation is any area larger than an individual garden, but located within a
 Temple Grove of Apollo
 
 ### Keywords
-- [sacred grove](http://vocab.getty.edu/page/aat/300251876)
-- [sanctuary](http://vocab.getty.edu/page/aat/300391482)
+- [sacred groves](http://vocab.getty.edu/page/aat/300251876)
+- [sanctuary centers (religious centers)](http://vocab.getty.edu/page/aat/300391482)
 
 
 ### Garden Description

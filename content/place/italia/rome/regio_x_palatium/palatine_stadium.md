@@ -15,27 +15,27 @@ draft: false
 [Italia]({{<relref "..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
 [Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
-<!-- -->
+
 ## Location
 
 [Rome]({{<relref ".">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
-<!-- -->
+
 ## Sublocation
 
 Palatine Hill \
 [Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
-<!-- -->
-<!-- -->
-<!-- -->
+
+
+
 ### Garden
 
 Stadium Garden of the Flavian Palace, Palatine
 
 ### Keywords
 
-- [allée](http://vocab.getty.edu/page/aat/300178561)
-- [canals (water channels)](http://vocab.getty.edu/page/aat/300006075)
+- [allées](http://vocab.getty.edu/page/aat/300178561)
+- [canals (waterways)](http://vocab.getty.edu/page/aat/300006075)
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
@@ -50,7 +50,7 @@ Stadium Garden of the Flavian Palace, Palatine
 - [Martial](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.897)
 - [Vitruvius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476)
 - [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
-<!-- -->
+
 ### Garden Description
 
 An important garden area in the [Flavian Palace](https://en.wikipedia.org/wiki/Flavian_Palace) was the so-called ["Stadium"](https://en.wikipedia.org/wiki/Palace_of_Domitian#The_Garden_or_%22stadium%22), actually a [*hippodromus*](https://en.wikipedia.org/wiki/Hippodrome), as late authors in fact called it. This term, which is often used with regard to major [villas](http://vocab.getty.edu/page/aat/300005519), usually indicates an elongated rectangular space marked by a wide annular [avenue](http://vocab.getty.edu/page/aat/300178561), lesser avenues, and [flowerbeds](http://vocab.getty.edu/page/aat/300430426). These structures (the Palatine is one of the most representative examples) derive from the [*gymnasia*](https://en.wikipedia.org/wiki/Gymnasium_(ancient_Greece)) of the Greek world ([Vitr. V.11](http://data.perseus.org/citations/urn:cts:latinLit:phi1056.phi001.perseus-lat1:5.11.1)) and were characterized by a [portico-avenue](http://vocab.getty.edu/page/aat/300004145) intended for promenading and the viewing of a succession of panoramas.
@@ -63,9 +63,9 @@ An [*exedra*](http://vocab.getty.edu/page/aat/300081589), from which one enjoyed
 fed by a series of large [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558).
 
 At the ends of the Hippodrome the remains of two semicircular fountains are partially preserved. In the middle there must have been an open garden space, confirmed by [water conduits](http://vocab.getty.edu/page/aat/300006075) and the lack of [paving](http://vocab.getty.edu/page/aat/300053677) (Fig. 4). It is possible that the [*viridarium*](https://en.wikipedia.org/wiki/Roman_gardens) mentioned as existing within the imperial palaces, to which [Heliogabalus](https://en.wikipedia.org/wiki/Elagabalus) had a mountain of snow transported (*Hist. Aug.*, [Heliog. 23.8](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Historia_Augusta/Elagabalus/2*.html) | [Trans.](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Elagabalus/2*.html)), was located here.
-<!-- -->
+
 RELATED PHASES ON THE PALATINE:
-<!-- -->
+
 [Gardens of the Republican Domus (A)]({{<relref"palatine_domus">}})\
 [Garden of the House of Augustus (B)]({{<relref"house_of_augustus">}})\
 [Garden of the Domus Tiberiana (C)]({{<relref"Domus_tiberiana">}})\
@@ -73,44 +73,44 @@ RELATED PHASES ON THE PALATINE:
 [Garden of the Domus Flavia (E)]({{<relref"Domus_flavia">}})\
 [Garden of the Domus Augustana (F,G)]({{<relref"domus_augustana">}})\
 [Garden of the Severan Complex (I)]({{<relref"severan_complex">}})
-<!-- -->
-<!-- -->
+
+
 ### Figures
-<!-- -->
+
 {{< image src="palatine_stadium_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1.	Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).">}}
-<!-- -->
+
 {{< image src="palatine_stadium_fig2.jpg" alt="Photograph of the stadium" title="Fig. 2.	The “Stadium.” (Photo SAR).">}}
-<!-- -->
+
 {{< image src="palatine_stadium_fig3.jpg" alt="Photograph of the stadium" title="Fig. 3.	The so-called Hera Borghese. (Photo SAR).">}}
-<!-- -->
+
 {{< image src="palatine_stadium_fig4.jpg" alt="Reconstruction of the stadium" title="Fig. 4.	Hypothetical reconstruction of the “Stadium” (after C. Huelsen, Forum und Palatin, Munch 1926, plate 58).">}}
-<!-- -->
+
 ### Dates
 
 81-92 CE
-<!-- -->
+
 #### Excavation Date
 
 unspecified
-<!-- -->
+
 ### Bibliography
 
 * M.A. Tomei, Nota sui giardini antichi del Palatino, *Mélanges de l’École Française de Rome (MEFRA)*, 104, 1992, 2, pp. 917-951. [(worldcat)](http://www.worldcat.org/oclc/972029282)
 * M.A. Tomei,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001: 73-75 (with additional bibliography). [(worldcat)](http://www.worldcat.org/oclc/5894435382)
 * A. Hoffmann & U. Wulf, "Bade oder Villenluxus? Zur Neuinterpretation del 'Domus Severiana,'” in Hoffman, Wulf & Angermeyer, *Die Kaiserpaläste auf dem Palatin in Rom*, Mainz am Rhein, 2004: 153-185. [(worldcat)](http://www.worldcat.org/oclc/180145631)
-<!-- -->
+
 #### Pleiades ID
 
 [Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
-<!-- -->
+
 ### Contributor
 
 Maria Anntonietta Tomei
-<!-- -->
+
 #### ORCID
 
 unspecified
-<!-- -->
+
 ### Publication date
-<!-- -->
+
 29 June 2021

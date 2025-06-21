@@ -34,7 +34,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref ".">}})
 
 ### Keywords
- - [triclinium](http://vocab.getty.edu/page/aat/300004359)
+ - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
 This house, excavated in 1829-1830, had a peristyle garden (a) on the south side of the property, to the right of the atrium. A portico on the north and part of the south sides had seven columns, one of which was engaged.

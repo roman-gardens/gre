@@ -327,6 +327,10 @@ table#metakeywords {
   font-family: Arial;
 }
 
+table.meta th {
+  text-align: left;
+}
+
 table.meta th:hover {
   background: #eee;
   cursor: pointer;

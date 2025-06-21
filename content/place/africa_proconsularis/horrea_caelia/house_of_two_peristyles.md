@@ -55,7 +55,7 @@ House of two peristyles (Maison aux deux péristyles)
 ### Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [church buildings by function](http://vocab.getty.edu/page/aat/300007492)
+- [churches (buildings)](http://vocab.getty.edu/page/aat/300007466)
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 - [balnea](http://vocab.getty.edu/page/aat/300120377)
 

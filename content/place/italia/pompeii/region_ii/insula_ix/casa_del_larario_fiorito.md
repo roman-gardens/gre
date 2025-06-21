@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IX]({{<relref ".">}})
 
 ### Keywords
- - [ambulationes]
+ - [porticoes]]
  - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300142552)
  - [charcoal](http://vocab.getty.edu/page/aat/300012862)]
  - [pollen](http://vocab.getty.edu/page/aat/300213002)

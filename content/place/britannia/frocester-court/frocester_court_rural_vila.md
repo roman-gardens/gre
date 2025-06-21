@@ -51,7 +51,7 @@ Rural Villa in Frocester Court
 - [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
 - [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
 - [orchards](http://vocab.getty.edu/page/aat/300008890)
-- [paddock](http://vocab.getty.edu/page/aat/300428748)
+- [paddocks](http://vocab.getty.edu/page/aat/300428748)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 ### Garden Description

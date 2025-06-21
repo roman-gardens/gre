@@ -15,46 +15,46 @@ draft: false
 [Italia]({{<relref "../..">}})\
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052)\
 [Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
-<!-- -->
+
 ## Location
 
 [Rome]({{<relref "..">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
-<!-- -->
+
 ## Sublocation
 
 [Palatine]({{<relref ".">}}) \
 [Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
-<!-- -->
-<!-- -->
-<!-- -->
+
+
+
 ## Garden
 
 Garden of the Flavian Imperial Palace, Palatine
-<!-- -->
+
 ### Keywords
-<!-- -->
-- [allée](http://vocab.getty.edu/page/aat/300178561)
+
+- [allées](http://vocab.getty.edu/page/aat/300178561)
 - [altar (religious fixture)](http://vocab.getty.edu/page/aat/300003725)
 - [amphora (storage vessel)](http://vocab.getty.edu/page/aat/300148696)
-- [canal (waterway)](http://vocab.getty.edu/page/aat/300006075)
+- [canals (waterways)](http://vocab.getty.edu/page/aat/300006075)
 - [colonnade](http://vocab.getty.edu/page/aat/300002613)
-- [column (architectural element)](http://vocab.getty.edu/page/aat/300001571)
+- [columns (architectural element)](http://vocab.getty.edu/page/aat/300001571)
 - [flowerpot](http://vocab.getty.edu/page/aat/300194749)
 - [fountain](http://vocab.getty.edu/page/aat/300006179)
 - [lead (metal)](http://vocab.getty.edu/page/aat/300011022)
-- [piping (plumbing system component)](http://vocab.getty.edu/page/aat/300052572)
+- [piping (plumbing system components)](http://vocab.getty.edu/page/aat/300052572)
 - [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
 - [niche (architectural element)](http://vocab.getty.edu/page/aat/300002704)
 - [palace](http://vocab.getty.edu/page/aat/300005734)
 - [plinth](http://vocab.getty.edu/page/aat/300001749)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [sewer](http://vocab.getty.edu/page/aat/300006122)
+- [sewers (drainage structures)](http://vocab.getty.edu/page/aat/300006122)
 - [statue](http://vocab.getty.edu/page/aat/300047600)
-<!-- -->
-<!-- -->
+
+
 ### Garden Description
-<!-- -->
+
 During the period of [Domitian](https://en.wikipedia.org/wiki/Domitian) (81-96 CE), a large artificial platform with massive substructures at the north, east and west was completed at the site of the [Vigna Barberini](https://it.wikipedia.org/wiki/Vigna_Barberini). On this platform stood a large structure with a curvilinear plan at the south, and with [colonnaded](http://vocab.getty.edu/page/aat/300002613) aisles on the east and west (the north is not excavated) that enclosed a vast garden (Figs. 1-2).  Over one-third of this garden area has been partly explored, another third was irrevocably destroyed when the later [Temple of Elagabalus (*Elagabalium*)](https://en.wikipedia.org/wiki/Elagabalium) was built, and the final third, at the north, remains to be excavated.
 
 Only a few elements of the ancient garden were found in place. In particular, a large rectangular [basin](http://vocab.getty.edu/page/aat/300045614) (measuring 8.70 meters by 5.30 meters), ornamented with alternating rectangular and semi-circular [niches](http://vocab.getty.edu/page/aat/300002704) faced in [marble](http://vocab.getty.edu/page/aat/300011443), was on axis with the center of the curved [façade](http://vocab.getty.edu/page/aat/300002526).  Shortly after construction, settling of the soil used to create the artificial [terrace](http://vocab.getty.edu/page/aat/300004182) caused a rapid degradation of the whole northern section of the garden. During [Hadrian’s](https://en.wikipedia.org/wiki/Hadrian) reign, refurbishment and re-construction was undertaken, the results of which lasted up to the end of the second century CE. This second phase is better recorded than the first, but it is possible that care was taken to preserve at least some trees of the Flavian period.
@@ -70,35 +70,35 @@ The imprints from lead pipes identified during the excavations, as well as the s
 The water conveyed by the drain associated with the fountains flowed into a large sewer set up at the foot of the portico’s colonnade, around the garden. At its top, a 1.80 meter wide canal, [reveted](http://vocab.getty.edu/page/aat/300079019) in marble and bordered by a [plinth](http://vocab.getty.edu/page/aat/300001749), gathered the rainwater flowing from the roof (Fig. 7). It may also have been used to cool the air on hot days and for purely decorative purposes to create a reflecting pool in which the portico and the vegetation were mirrored. This could presumably be achieved by closing the [manholes](http://vocab.getty.edu/page/aat/300004244): it is in fact the limited number of manholes that suggest the above hypothesis.
 
 All through the 2nd century, a series of refurbishments took place that aimed to slow down the degradation of the Flavian buildings, which were threatened by the instability of the level fills of the terrace. Despite such efforts, this complex of buildings was destroyed as a consequence of the fire that raged in the heart of Rome in 191/192 CE, and the construction of a new monumental complex was undertaken.
-<!-- -->
+
 OTHER PHASES OF THE VIGNA BARBERINI SITE:
-<!-- -->
+
 [Vigna Barberini]({{<relref"vigna_barberini">}})\
 [Garden of the Peristyle of the Julio-Claudian *Domus*]({{<relref"julio_claudian_domus">}})\
 [Garden of the Temple of Elagabalus]({{<relref"temple_of_elagabalus">}})
-<!-- -->
+
 ### Figures
-<!-- -->
+
 {{< image src="flavianpalace_fig1.jpg" alt="Reconstruction of the Vigna Barberini" title="Fig. 1. Reconstruction of the Flavian Palace with, in the forefront, the main body of the complex excavated at the Vigna Barberini. (© N. André, AMU-CNRS, IRAA)." >}}
-<!-- -->
+
 {{< image src="flavianpalace_fig2.jpg" alt="Reconstruction of the Vigna Barberini" title="Fig. 2. Map and hypothetical reconstruction of the structures and garden excavated on the site of the Vigna Barberini (© N. André, AMU-CNRS, IRAA)." >}}
-<!-- -->
+
 {{< image src="flavianpalace_fig3.jpg" alt="Reconstruction of the Flavian Palace" title="Fig. 3.	Hypothetical reconstruction of the Flavian garden (© J.-M. Gassend & N. André, AMU-CNRS, IRAA)." >}}
-<!-- -->
+
 {{< image src="flavianpalace_fig4.jpg" alt="Southern Facing Reconstruction of the Flavian Palace" title="Fig. 4. Hypothetical reconstruction of the Flavian garden (© J.-M. Gassend & N. André, AMU-CNRS, IRAA)." >}}
-<!-- -->
+
 {{< image src="flavianpalace_fig5.jpg" alt="Marble Fountain Base" title="Fig. 5. Marble base of a fountain with circular imprint of basin." >}}
-<!-- -->
+
 {{< image src="flavianpalace_fig6.jpg" alt="Flowerpots of the Flavian Palace" title="Fig. 6. 	Flowerpots found in the gardens of the first and second century (© Ch. Durand, AMU-CNRS, CCJ)." >}}
-<!-- -->
+
 {{< image src="flavianpalace_fig7.jpg" alt="Detail Marble Canal of the Flavian Palace" title=" Fig. 7. Detail of the marble canal along the outer edge of the portico." >}}
-<!-- -->
+
 ### Dates
-<!-- -->
+
 1st century - 2nd century CE
-<!-- -->
+
 ### Bibliography
-<!-- -->
+
 * M. Royo, *Domus Imperatoriae, Topographie, formation et imaginaire des palais impériaux du Palatin*, Rome, 1999. [(worldcat)](http://www.worldcat.org/oclc/907608488)
 * F. Villedieu and N. André, *Propositions pour une reconstitution de l'édifice flavien et de l'ensemble monumental tardif de la Vigna Barberini* (Rome, Palatin), *Actes du Colloque: Rome An 2000* (Caen, 2003). [(worldcat)](http://www.worldcat.org/oclc/57229072)
 * J.-L Desnier, “Una borsa persa durante i lavori di terrazzamento” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 57-58. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
@@ -106,16 +106,16 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 * J.-P Morel, “Il giardino adrianeo” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 73-75. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
 * S. Leo, “Vasi da fiori” in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 75-76. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
 * F. Villedieu, *La Vigna Barberini II- Domus, palais impérial et temples: stratigraphie du secteur nord-est du Palatin*, Rome, 2007 (RomaAntica, 6). [(worldcat)](http://www.worldcat.org/oclc/643147049)
-<!-- -->
+
 #### Pleiades ID
-<!-- -->
+
 [971691208](https://pleiades.stoa.org/places/971691208)
-<!-- -->
+
 ### Contributor
-<!-- -->
+
 Jean-Paul Morel\
 Françoise Villedieu
-<!-- -->
+
 ## Publication date
-<!-- -->
+
  17 April 2021

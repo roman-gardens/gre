@@ -54,7 +54,7 @@ Victory Monument of Augustus
 - [orchards](http://vocab.getty.edu/page/aat/300008890)
 - [pedestals](http://vocab.getty.edu/page/aat/300001744)
 - [Strabo](#)
-- [*tropaeum* (monument)](http://vocab.getty.edu/page/aat/300007038)
+- [trophies (war monuments)](http://vocab.getty.edu/page/aat/300007038)
 
 ### Garden Description
 

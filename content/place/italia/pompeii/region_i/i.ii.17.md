@@ -42,7 +42,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [pools](http://vocab.getty.edu/page/aat/300008692)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statuettes](http://vocab.getty.edu/page/aat/300312262)
+- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 - [tablina](http://vocab.getty.edu/page/aat/300004180)
 
 ## Garden

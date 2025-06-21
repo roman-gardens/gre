@@ -55,7 +55,7 @@ Tomb Garden of L. Ogius Patroclus
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 - [epitaphs](http://vocab.getty.edu/page/aat/300028729)
 - [stelae](http://vocab.getty.edu/page/aat/300007023)
-- [grove (sacred grove)](http://vocab.getty.edu/page/aat/300251876)
+- [sacred groves](http://vocab.getty.edu/page/aat/300251876)
 - [vegetable gardens](http://vocab.getty.edu/page/aat/300008142)
 
 ### Garden Description

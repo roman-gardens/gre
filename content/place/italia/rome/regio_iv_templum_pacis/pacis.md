@@ -15,48 +15,48 @@ draft: true
 [Italia]({{<relref "../..">}}) \
 [Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
 [Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
-<!-- -->
+
 ## Location
 
 [Rome]({{<relref "..">}}) \
 [Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
-<!-- -->
+
 ## Sublocation
 
 [Region IV Templum Pacis]({{<relref ".">}}) \
-<!-- -->
-<!-- -->
-<!-- -->
+
+
+
 ## Garden
 
 Garden of the Templum Pacis
-<!-- -->
+
 ### Keywords
-<!-- -->
+
 - [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
 - [bases (column elements)](http://vocab.getty.edu/page/aat/300233843)
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 - [brick (construction material)](http://vocab.getty.edu/page/aat/300010463)
-- [canals (water channels)](http://vocab.getty.edu/page/aat/300006075)
-- [concrete (construction material)](http://vocab.getty.edu/page/aat/300010737)
-- [cornices (architectural elements)](http://vocab.getty.edu/page/aat/300001788)
+- [canals (waterways)](http://vocab.getty.edu/page/aat/300006075)
+- [concrete](http://vocab.getty.edu/page/aat/300010737)
+- [cornices](http://vocab.getty.edu/page/aat/300001788)
 - [capitals (column elements)](http://vocab.getty.edu/page/aat/300001662)
 - [colonnade](http://vocab.getty.edu/page/aat/300002613)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [engaged columns](http://vocab.getty.edu/page/aat/300001638)
-- [entablatures (architectural elements)](http://vocab.getty.edu/page/aat/300001770)
+- [entablatures](http://vocab.getty.edu/page/aat/300001770)
 - [flowerpots](http://vocab.getty.edu/page/aat/300194749)
 - [flower gardens](http://vocab.getty.edu/page/aat/300008135)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
 - [hedges](http://vocab.getty.edu/page/aat/300266413)
-- [library](http://vocab.getty.edu/page/aat/300312241)
+- [library](http://vocab.getty.edu/page/aat/300004433)
 - [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
-- [piping (plumbing system component)](http://vocab.getty.edu/page/aat/300052572)
+- [piping (plumbing system components)](http://vocab.getty.edu/page/aat/300052572)
 - [planting beds](http://vocab.getty.edu/page/aat/300430426)
 - [porticus](http://vocab.getty.edu/page/aat/300004145)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
-<!-- -->
+
 - [Aulus Gellius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.659)
 - [Aurelius Victor](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1469)
 - [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
@@ -66,13 +66,13 @@ Garden of the Templum Pacis
 - [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
 - [Procopius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1697)
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
-<!-- -->
-<!-- -->
+
+
 ### Garden Description
 
 [Vespasian](https://en.wikipedia.org/wiki/Vespasian) vowed the [*Templum Pacis*](https://en.wikipedia.org/wiki/Temple_of_Peace,_Rome), also known as the *Forum Vespasiani*, in 71 CE (Josephus *BJ* [7.158](http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:7.158); Seut. *Vesp.* [9.1](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo020.perseus-lat1:9)) as a victory monument celebrating his military achievements in [Judaea](https://en.wikipedia.org/wiki/Judea) and dedicated it four years later (Dio Cassius [65.15.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0385.tlg001.perseus-grc1:65.15.1) | [Trans](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/65*.html); Aurelius Victor *Caes.* [9.7](https://www.forumromanum.org/literature/victor_ep.html); *Epit. De Caes.* [9.8](https://www.forumromanum.org/literature/victor_ep.html)). Vespasian constructed the *Templum Pacis* to the northeast of the [*Forum Romanum*](https://en.wikipedia.org/wiki/Roman_Forum) and adjacent to the [*Forum Transitorium*](https://en.wikipedia.org/wiki/Forum_of_Nerva), also known as the Forum of Nerva. The ancient sources refer to the complex as the *Templum Pacis*; only in the fourth century CE and later is it referred to as the *Forum Pacis*. [Pliny](https://en.wikipedia.org/wiki/Pliny_the_Elder) considered it the most beautiful building in Rome (*NH* 36.102). It is known from the [*Forma Urbis Romae*](https://en.wikipedia.org/wiki/Forma_Urbis_Romae) (*FUR*), ancient sources, and archaeological excavations (Fig. 1).
 
-The *Templum Pacis* presented Vespasian as the bringer of peace and order. The [*porticus*](http://vocab.getty.edu/page/aat/300004145) housed an extensive art collection, much of which was taken from the [*Domus Aurea*](https://en.wikipedia.org/wiki/Domus_Aurea); including [Myron’s](https://en.wikipedia.org/wiki/Myron) bronze cow and a [bronze](http://vocab.getty.edu/page/aat/300010957) [statue](http://vocab.getty.edu/page/aat/300047600) by [Phidias](https://en.wikipedia.org/wiki/Phidias) or [Lysippos](https://en.wikipedia.org/wiki/Lysippos), among others (Procopius *Goth.* 4.21.12-14; Pliny *NH* 35.74, 35.102, 35.109, 36.27, 36.58; Pausanias 6.9.3; Juvenal 9.22). By displaying these works in the *Templum Pacis*, the people of Rome could now enjoy the artistic treasures that [Nero](https://en.wikipedia.org/wiki/Nero) had coveted for himself. Vespasian also utilized the space to display [*manubiae*](https://en.wikipedia.org/wiki/Glossary_of_ancient_Roman_religion#manubia) (spoils of war) from Judaea, including the seven-branched [menorah](https://en.wikipedia.org/wiki/Temple_menorah) from the [Temple in Jerusalem](https://en.wikipedia.org/wiki/Temple_in_Jerusalem), [trumpets](http://vocab.getty.edu/page/aat/300042339), and other [golden](http://vocab.getty.edu/page/aat/300011021) [vessels](http://vocab.getty.edu/page/aat/300193015) (Josephus *BJ* 7.161). The *Templum Pacis* also included a [library](http://vocab.getty.edu/page/aat/300312241) (Aulus Gellius 5.21.9, 16.8.2). The erection of the [*Colosseum*](https://en.wikipedia.org/wiki/Colosseum) on the site of the gardens and [*stagnum*](http://vocab.getty.edu/page/aat/300263360) of Nero’s *Domus Aurea* was part of the same Flavian building project.
+The *Templum Pacis* presented Vespasian as the bringer of peace and order. The [*porticus*](http://vocab.getty.edu/page/aat/300004145) housed an extensive art collection, much of which was taken from the [*Domus Aurea*](https://en.wikipedia.org/wiki/Domus_Aurea); including [Myron’s](https://en.wikipedia.org/wiki/Myron) bronze cow and a [bronze](http://vocab.getty.edu/page/aat/300010957) [statue](http://vocab.getty.edu/page/aat/300047600) by [Phidias](https://en.wikipedia.org/wiki/Phidias) or [Lysippos](https://en.wikipedia.org/wiki/Lysippos), among others (Procopius *Goth.* 4.21.12-14; Pliny *NH* 35.74, 35.102, 35.109, 36.27, 36.58; Pausanias 6.9.3; Juvenal 9.22). By displaying these works in the *Templum Pacis*, the people of Rome could now enjoy the artistic treasures that [Nero](https://en.wikipedia.org/wiki/Nero) had coveted for himself. Vespasian also utilized the space to display [*manubiae*](https://en.wikipedia.org/wiki/Glossary_of_ancient_Roman_religion#manubia) (spoils of war) from Judaea, including the seven-branched [menorah](https://en.wikipedia.org/wiki/Temple_menorah) from the [Temple in Jerusalem](https://en.wikipedia.org/wiki/Temple_in_Jerusalem), [trumpets](http://vocab.getty.edu/page/aat/300042339), and other [golden](http://vocab.getty.edu/page/aat/300011021) [vessels](http://vocab.getty.edu/page/aat/300193015) (Josephus *BJ* 7.161). The *Templum Pacis* also included a [library](http://vocab.getty.edu/page/aat/300004433) (Aulus Gellius 5.21.9, 16.8.2). The erection of the [*Colosseum*](https://en.wikipedia.org/wiki/Colosseum) on the site of the gardens and [*stagnum*](http://vocab.getty.edu/page/aat/300263360) of Nero’s *Domus Aurea* was part of the same Flavian building project.
 
 The Severan Marble Plan (*FUR*) was displayed in the room located to the southeast of the Temple of [Pax](https://en.wikipedia.org/wiki/Pax_(goddess). Four [pieces](https://formaurbis.stanford.edu/index.php) of the *FUR* depict three porticoes that enclosed a large open space (c. 110 x 105 m). It was organized along a SE axis with a central [altar](http://vocab.getty.edu/page/aat/300003725) (or possible sculpture base), with six sets of four elongated, connected rectangles symmetrically framing the central axis and the Temple to Pax (Fig. 2). R. Lloyd estimated that these rectangles were 5 m. wide; the shorter rectangles were 12 m. in length, and the longer were 20 m. in length. Together, each series of elongated rectangles was 70 m. long. A. M. Colini, one of the first scholars to study the *Templum Pacis*, identified the rectangles as [planting beds](http://vocab.getty.edu/page/aat/300430426). Based on the marble plan, J. B. Ward-Perkins reconstructed the planting beds as individual, unconnected, and equally sized rectangles with large, thickly planted trees. R. Lloyd, however, has suggested that [hedges](http://vocab.getty.edu/page/aat/300266413) or extensive [flowerbeds]((http://vocab.getty.edu/page/aat/300008135) are more likely since trees are generally depicted on the Marble Plan with round drill holes.
 
@@ -82,17 +82,17 @@ Tucci noted that two of the longitudinal features (closest to the southeast port
 
 Neither Tucci (whose two-volume work on the complex is a rigorous, long durée examination of the structure) nor A. Claridge finds this interpretation of water channels to be convincing. According to Tucci, the top of the six structures were capped by marble blocks, each of which had a hole for [lewis irons](http://vocab.getty.edu/page/aat/300023060) to be placed transversely in the center and a recess for a, now lost, metal [clamp](http://vocab.getty.edu/page/aat/300024736). All of these elements would have been visible (and thus not attractive) and damaged by the continuous flowing of water. Furthermore, Tucci argues that the [cornice](http://vocab.getty.edu/page/aat/300001788)
 at the edge of these structures might have belonged to the [attic](http://vocab.getty.edu/page/aat/300002651) story of the porticoes rather than the structures themselves (i.e., they had fallen down and were misinterpreted by the excavators). He notes that the water channels were filled with earth; they were not lined by concrete, as would be expected for water channels. Furthermore, he argues that the position of the gutters (towards the SE portico) would be useless for a water channel flowing over the middle. Instead, the gutter and lead pipes (if in fact present) suggest an infrastructure for watering plants and for drainage, affirming that the *Templum Pacis* was a garden. It is unlikely, however, that the *Templum Pacis* was a type of botanical garden of exotic species that demonstrated Rome’s power over the submissive east, as Pollard has proposed. While Vespasian and Titus paraded the [balsam](https://en.wikipedia.org/wiki/Balm_of_Gilead) tree in their [triumphs](https://en.wikipedia.org/wiki/Roman_triumph), bringing the plant to Rome for the first time, it is unlikely that it would have been planted within the *Templum*, as it needs very specific climate conditions (only found in the Middle East) to live, let alone thrive, and there is no archaeological evidence for plants other than the Gallic roses.
-<!-- -->
+
 ### Figures
-<!-- -->
+
 {{< image src="domus_aurea_fig1.jpg" alt="Plan of the Templum Pacis" title="Figure 1. Base plan." >}}
-<!-- -->
+
 {{< image src="domus_aurea_fig1.jpg" alt="Marble Plan fragments of the Templum Pacis" title="Figure 2. Marble Plan fragments (used by permission of the Stanford FUR project and Eugenio La Rocca)." >}}
-<!-- -->
+
 ## Dates
 
 71 CE- 410 CE
-<!-- -->
+
 ## Bibliography
 
 * J. Anderson, *The Historical Topography of the Imperial Fora*, Bruxelles, 1984: 101–18; pl. 1. [(worldcat)](http://www.worldcat.org/oclc/905747544)
@@ -103,7 +103,7 @@ at the edge of these structures might have belonged to the [attic](http://vocab.
 * A. Claridge, *Rome: An Oxford Archaeological Guide*, Oxford: Oxford University Press, Revised Edition, 171–74. [(worldcat)](http://www.worldcat.org/oclc/799536953)
 * E. A. Pollard, “Pliny’s Natural History and the Flavian Templum Pacis: Botanical imperialism in first-century Rome,” *Journal of World History* 20.3 (2009): 309–38. [(worldcat)](http://www.worldcat.org/oclc/47120664) | [(JSTOR)](https://www.jstor.org/stable/40542802)
 * P. L. Tucci, *The Temple of Peace in Rome*, Cambridge: Cambridge University Press, 2017. [(worldcat)](http://www.worldcat.org/oclc/1025338560)
-<!-- -->
+
 ### Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->

@@ -43,7 +43,7 @@ The sanctuary of Caelestis
 
 ### Keywords
 
-- [temples](http://vocab.getty.edu/page/aat/300007595)
+- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 - [sanctuaries](http://vocab.getty.edu/page/aat/300004575)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)

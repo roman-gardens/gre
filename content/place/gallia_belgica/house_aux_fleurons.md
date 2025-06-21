@@ -42,7 +42,7 @@ The House aux Fleurons (boulevard de la Paix)
 
 ### Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [trench](http://vocab.getty.edu/page/aat/300008022)
+- [trenches](http://vocab.getty.edu/page/aat/300008022)
 
 
 ### Garden Description

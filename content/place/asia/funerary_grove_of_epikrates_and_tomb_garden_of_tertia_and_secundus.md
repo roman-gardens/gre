@@ -67,7 +67,7 @@ Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus
 - [Ulmus (genus)](http://vocab.getty.edu/page/aat/300374849)
 - [woodlands (plant communities)](http://vocab.getty.edu/page/aat/300157169)
 - [buildings (structures)](http://vocab.getty.edu/page/aat/300004792)
-- [wall](http://vocab.getty.edu/page/aat/300002469)
+- [walls](http://vocab.getty.edu/page/aat/300002469)
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 - [inscription](http://vocab.getty.edu/page/aat/300028702)
 - [Athenaeus](https://catalog.perseus.org/catalog/urn:cite:perseus:author.228)

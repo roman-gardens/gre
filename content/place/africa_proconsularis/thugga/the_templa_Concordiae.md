@@ -44,7 +44,7 @@ Sanctuary B, the templa Concordiae
 
 ### Keywords
 
-- [temple](#)
+- [temples (buildings)](#)
 - [sanctuary](#)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [cella](#)

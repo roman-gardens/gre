@@ -38,7 +38,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ### Keywords
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [tablina](http://vocab.getty.edu/page/aat/300004180)
- - [exedra](http://vocab.getty.edu/page/aat/300004014)
+ - [exedrae (interior spaces)](http://vocab.getty.edu/page/aat/300004014)
 
 ### Garden Description
 Fourteen fluted white columns supported a portico that enclosed this large garden (a) at the rear of the tablinium. A fence had been attached to the outside of the columns as evidenced by holes with metal pieces remaining; the top holes placed 0.75 m. high.  A grand view the length of the garden could be enjoyed from the large exedra (b) to the south, framed by two columns, and many other surrounding rooms had garden views.

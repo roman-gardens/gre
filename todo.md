@@ -125,6 +125,7 @@
 - [ ] place archetype: date, description, image/plan/map, bibliography, keywords, place(s), linked IDs
 - [ ] add gre_id/aliases for places, update citation example
 - [ ] fix or remove empty links -- search for "(#)"
+- [ ] fix unnecessarily long links to AAT/TGN http://www.getty.edu/vow/TGNFullDisplay?find=zoar&place=&nation=&prev_page=1&english=Y&subjectid=4012542
 
 # Province pages
 - [ ] review which sections should be retained in province pages (and also for gardens...)
@@ -138,7 +139,7 @@
 # Questions/Discussion
 - People names -- when to include middle initial?
 - People links/pages for everyone, or just prominent contributors?
-
+- keywords like lucus, stagnum, textrina that are not proper AAT terms
 
 # User forks
 

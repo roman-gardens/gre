@@ -51,8 +51,8 @@ Sanctuary of Poseidon Onchestios
 - [Literary](#)
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
 - [sacred groves](http://vocab.getty.edu/page/aat/300251876)
--	[shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
--	[statues](http://vocab.getty.edu/page/aat/300047600)
+- [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
+- [statues](http://vocab.getty.edu/page/aat/300047600)
 
 ### Garden Description
 

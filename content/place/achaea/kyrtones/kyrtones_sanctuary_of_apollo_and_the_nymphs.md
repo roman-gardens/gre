@@ -48,11 +48,11 @@ Sanctuary of Apollo and the Nymphs
 ### Keywords
 
 - [Literary](#)
--	[orchards](http://vocab.getty.edu/page/aat/300008890)
+- [orchards](http://vocab.getty.edu/page/aat/300008890)
 - [Pausanias](#)
 - [sacred groves](http://vocab.getty.edu/page/aat/300251876)
 - [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
--	[springs (bodies of water)](http://vocab.getty.edu/page/aat/300008697)
+- [springs (bodies of water)](http://vocab.getty.edu/page/aat/300008697)
 
 ### Garden Description
 

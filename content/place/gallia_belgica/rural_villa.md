@@ -41,8 +41,8 @@ A sublocation is any area larger than an individual garden, but located within a
 Rural Villa
 
 ### Keywords
-- [villa rustica](http://vocab.getty.edu/page/aat/300005518)
-- [corridor](http://vocab.getty.edu/page/aat/300004294)
+- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- [corridors](http://vocab.getty.edu/page/aat/300004294)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 

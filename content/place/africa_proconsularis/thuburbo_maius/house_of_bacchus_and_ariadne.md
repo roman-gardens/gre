@@ -60,7 +60,7 @@ House of Bacchus and Ariadne (Maison de Bacchus et Ariane)
 - [pipes (conduits)](http://vocab.getty.edu/page/aat/300014662)
 - [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [pits](http://vocab.getty.edu/page/aat/300008027)
+- [pits (earthworks)](http://vocab.getty.edu/page/aat/300008027)
 - [furniture](#)
 
 ### Garden Description

@@ -47,7 +47,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
  - [pergolas](http://vocab.getty.edu/page/aat/300006783)
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [lecti](http://vocab.getty.edu/page/aat/300139419)
- - [reservoirs](http://vocab.getty.edu/page/aat/300006191)
+ - [reservoirs (water distribution structures)](http://vocab.getty.edu/page/aat/300006191)
  - [lattices](http://vocab.getty.edu/page/aat/300163920)
  - [doliums](http://vocab.getty.edu/page/aat/300400601)
 

@@ -31,12 +31,12 @@ If no match is found, it will just output the keyword
 
 {{- range where $keywords "term" $term }}
     {{ $url := "" }}
-    {{ $desc := "" }}
+    {{ $fullname := "" }}
     {{ range where $vocabs "vocab" .vocab}}
         {{ $url = .baseurl }}
-        {{ $desc = .description}}
+        {{ $fullname = .fullname}}
     {{ end }}
     {{ if $url }}
-        <a target="_blank" href="{{ urls.JoinPath $url .id }}" title="{{ $desc }}">{{ .vocab }}:{{ .id }}</a>
+        <a target="_blank" href="{{ urls.JoinPath $url .id }}" title="{{ $fullname }}">{{ .vocab }}:{{ .id }}</a>
     {{ end }}
 {{- end -}}

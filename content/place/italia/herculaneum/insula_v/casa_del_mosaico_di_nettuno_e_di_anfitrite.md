@@ -41,7 +41,7 @@ Casa del Mosaico di Nettuno e di Anfitrite
 ### Keywords
 - [sacella](http://vocab.getty.edu/page/aat/300007570)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300004145)
-- [amphora](http://vocab.getty.edu/page/aat/300262690)
+- [amphorae](http://vocab.getty.edu/page/aat/300148696)
 
 
 ### Garden Description

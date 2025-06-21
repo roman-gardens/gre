@@ -53,7 +53,7 @@ Funerary Grove of Q. Cervonius Chryseros
 
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 - [stelae](http://vocab.getty.edu/page/aat/300007023)
-- [grove (sacred grove)](http://vocab.getty.edu/page/aat/300251876)
+- [sacred groves](http://vocab.getty.edu/page/aat/300251876)
 - [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
 
 ### Garden Description

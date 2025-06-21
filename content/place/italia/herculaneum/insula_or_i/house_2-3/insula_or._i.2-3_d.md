@@ -39,8 +39,8 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 D
 
 ### Keywords
-- [rustic](http://vocab.getty.edu/page/aat/300310541)
-- [shrines](http://vocab.getty.edu/page/aat/300007558)
+- [rustic (style)](http://vocab.getty.edu/page/aat/300310541)
+- [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
 
 
 ### Garden Description

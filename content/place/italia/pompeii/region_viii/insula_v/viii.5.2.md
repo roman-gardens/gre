@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula V]({{<relref ".">}})
 
 ### Keywords
- - [peristyle](http://vocab.getty.edu/page/aat/300080971)
+ - [peristyles](http://vocab.getty.edu/page/aat/300080971)
  - [tablina](http://vocab.getty.edu/page/aat/300004180)
  - [puteals](http://vocab.getty.edu/page/aat/300443458)
 

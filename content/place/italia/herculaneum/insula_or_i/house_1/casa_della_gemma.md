@@ -45,10 +45,10 @@ Casa della Gemma (A)
 
 
 ### Keywords
- - [vaults](http://vocab.getty.edu/page/aat/300001324)
+ - [vaults (structural elements)](http://vocab.getty.edu/page/aat/300001324)
  - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
  - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
- - [sundial](http://vocab.getty.edu/page/aat/300041614)
+ - [sundials](http://vocab.getty.edu/page/aat/300041614)
 
 ### Garden Description
 A. This garden (a) is built partially into the edge of the hill and partially on vaults. A square opening enclosed by a high wall in the center of the garden supplies light to the floor below, shared by both the Casa della Gemma with windows on three sides and the Casa del Rilievo di Telefo next door with windows on one side. The garden was perhaps jointly owned, although neither had an entrance into the area. Three sides of the garden had large raised gutters 0.74 m. wide; 0.70 m. high which collected roof water and conveyed it to a cistern in the atrium of Casa della Gemma. A sundial is located in this garden.

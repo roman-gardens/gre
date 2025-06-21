@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [caupona](http://vocab.getty.edu/page/aat/300005208)
- - [podium](http://vocab.getty.edu/page/aat/300430533)
+ - [podiums (platforms)](http://vocab.getty.edu/page/aat/300249278)
 
 
 ### Garden Description

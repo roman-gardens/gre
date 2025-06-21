@@ -45,11 +45,11 @@ The anonymous sanctuary, Dar Lachheb
 
 ### Keywords
 
-- [temple](#)
+- [temples (buildings)](#)
 - [sanctuary](#)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [triplex porticus](#)
-- [planting bed](http://vocab.getty.edu/page/aat/300430426)
+- [planting beds](http://vocab.getty.edu/page/aat/300430426)
 
 ### Garden Description
 

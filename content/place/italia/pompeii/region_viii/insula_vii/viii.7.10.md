@@ -39,9 +39,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VII]({{<relref ".">}})
 
 ### Keywords
- - [triclinium](http://vocab.getty.edu/page/aat/300004359)
+ - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
  - [pergola](http://vocab.getty.edu/page/aat/300006783)
- - [alabastron](http://vocab.getty.edu/page/aat/300198887)
+ - [alabastra](http://vocab.getty.edu/page/aat/300198887)
  - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
 
 ### Garden Description

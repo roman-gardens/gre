@@ -50,7 +50,7 @@ Villa el Ruedo
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [orchards](http://vocab.getty.edu/page/aat/300008890)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [reservoir](http://vocab.getty.edu/page/aat/300006191)
+- [reservoirs (water distribution structures)](http://vocab.getty.edu/page/aat/300006191)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 <!-- [nymphaeaum]-->
 <!-- [kiln]-->

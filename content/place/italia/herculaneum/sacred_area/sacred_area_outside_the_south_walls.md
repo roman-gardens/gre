@@ -36,9 +36,9 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 
 ### Keywords
 - [parapets](http://vocab.getty.edu/page/aat/300002717)
-- [podium](http://vocab.getty.edu/page/aat/300430533)
+- [podiums (platforms)](http://vocab.getty.edu/page/aat/300249278)
 - [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
-- [woven](http://vocab.getty.edu/page/aat/300411341)
+- [woven material](http://vocab.getty.edu/page/aat/300411341)
 - [rim](http://vocab.getty.edu/page/aat/300203193)
 - [trellises](http://vocab.getty.edu/page/aat/300006785)
 

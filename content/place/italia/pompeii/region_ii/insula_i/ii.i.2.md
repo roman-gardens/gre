@@ -36,7 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula I]({{<relref ".">}})
 
 ### Keywords
- - [tabernae](http://www.getty.edu/vow/AATFullDisplay?find=tabernae&logic=AND&note=&english=N&prev_page=1&subjectid=300005366)
+ - [tabernae](http://vocab.getty.edu/page/aat/300005366)
  - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
 
 

@@ -44,10 +44,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
- - [peristyle](http://vocab.getty.edu/page/aat/300080971)
+ - [peristyles](http://vocab.getty.edu/page/aat/300080971)
  - [tablina](http://vocab.getty.edu/page/aat/300004180)
- - [triclinium](http://vocab.getty.edu/page/aat/300004359)
- - [exedra](http://vocab.getty.edu/page/aat/300004014)
+ - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+ - [exedrae (interior spaces)](http://vocab.getty.edu/page/aat/300004014)
  - [puteals](http://vocab.getty.edu/page/aat/300443458)
  - [atrium](http://vocab.getty.edu/page/aat/300004097)
  - [impluvia](http://vocab.getty.edu/page/aat/300129867)

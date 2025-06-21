@@ -41,12 +41,12 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IV]({{<relref "#">}})
 
 ### Keywords
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)]
+- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [stucco](http://vocab.getty.edu/page/aat/300014966)
+- [stucco (plaster)](http://vocab.getty.edu/page/aat/300014966)
 - [tablina](http://vocab.getty.edu/page/aat/300004180)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 

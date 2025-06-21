@@ -41,7 +41,7 @@ A sublocation is any area larger than an individual garden, but located within a
 House with Pilasters (Clos du Verbe Incarné)
 
 ### Keywords
-- [insula / insulae](http://vocab.getty.edu/page/aat/300000325)
+- [insulae](http://vocab.getty.edu/page/aat/300000325)
 - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [Domus](http://vocab.getty.edu/page/aat/300005506)
 

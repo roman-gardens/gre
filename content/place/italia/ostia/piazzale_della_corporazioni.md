@@ -72,8 +72,7 @@ Piazzale della Corporazioni \
 - [scaenae](http://vocab.getty.edu/page/aat/300004681)
 - [sewers (drainage structures)](http://vocab.getty.edu/page/aat/300006122)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
-- [theater](http://vocab.getty.edu/page/aat/300007117)
-<!---->
+- [theaters (buildings)](http://vocab.getty.edu/page/aat/300007117)
 - [Vitruvius](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476.1)
 
 ### Garden Description

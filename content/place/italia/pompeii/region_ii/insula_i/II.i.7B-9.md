@@ -43,7 +43,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula I]({{<relref ".">}})
 
 ### Keywords
- - [tabernae](http://www.getty.edu/vow/AATFullDisplay?find=tabernae&logic=AND&note=&english=N&prev_page=1&subjectid=300005366)
+ - [tabernae](http://vocab.getty.edu/page/aat/300005366)
  - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
  - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
  - [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
@@ -51,7 +51,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
  - [courtyards](http://vocab.getty.edu/page/aat/300004095)
  - [aedicules](http://vocab.getty.edu/page/aat/300002574)
  - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
- - [stucco](http://vocab.getty.edu/page/aat/300014966)
+ - [stucco (plaster)](http://vocab.getty.edu/page/aat/300014966)
  - [hearth](http://vocab.getty.edu/page/aat/300003990)
 
 

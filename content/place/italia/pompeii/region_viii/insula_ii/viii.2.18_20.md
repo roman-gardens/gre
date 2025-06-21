@@ -37,9 +37,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ### Keywords
- - [peristyle](http://vocab.getty.edu/page/aat/300080971)
+ - [peristyles](http://vocab.getty.edu/page/aat/300080971)
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
- - [triclinium](http://vocab.getty.edu/page/aat/300142552)
+ - [triclinia (couches)](http://vocab.getty.edu/page/aat/300142552)
 
 ### Garden Description
 A. The Sarno Bath is included in this block of irregular shaped houses, reached by entrance 17 on the Via della Scuole that goes to the lower levels. On the street level there was a small peristyle garden (a) located in the center of the house. Two pillars supported a portico on three sides of the garden and the large triclinium (b) offered a view of the garden. A beautifully rendered painting of grape vines with clusters of fruit, birds, lizards and a little mouse graced the black walls of the peristyle.  

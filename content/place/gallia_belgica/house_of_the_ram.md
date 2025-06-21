@@ -43,7 +43,7 @@ House of the Ram (La Maison au Bélier)
 ### Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [drains](http://vocab.getty.edu/page/aat/300052564)
-- [corridor](http://vocab.getty.edu/page/aat/300004294)
+- [corridors](http://vocab.getty.edu/page/aat/300004294)
 
 
 

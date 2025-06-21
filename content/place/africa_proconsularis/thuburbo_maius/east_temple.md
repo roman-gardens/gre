@@ -43,7 +43,7 @@ East Temple (Temple de l'Est)
 
 ### Keywords
 
-- [temple](#)
+- [temples (buildings)](#)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [root cavities](#)
 - [garden soil](#)

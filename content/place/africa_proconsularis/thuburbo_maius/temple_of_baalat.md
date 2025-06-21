@@ -44,7 +44,7 @@ Temple of Baalat (Temple de Balaat)
 
 ### Keywords
 
-- [temple](#)
+- [temples (buildings)](#)
 - [sanctuary](#)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 

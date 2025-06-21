@@ -76,7 +76,7 @@
         {{- $opts := dict "targetType" "slice" -}}
         {{- $keywords = transform.Unmarshal $opts . -}}
     {{- end -}}
-    <h1 id="keywords">Keywords </h1>
+    <h1 id="keywords">Keywords ({{ len $keywords }})</h1>
     {{ with $keywords }}
     <table class="meta" id="metakeywords">
         <thead>
@@ -92,6 +92,8 @@
             {{ range $i, $v := . }}
                 {{ if eq $i 0 }}
                     <td><a href="/search/?q={{ urlize $v }}">{{ $v }}</a></td>
+                {{ else if eq $i 2 }}
+                    <td><a target="_blank" href="http://vocab.getty.edu/aat/{{ $v }}">{{ $v }}</a></td>
                 {{ else }}
                     <td>{{ $v }}</td>
                 {{ end }}

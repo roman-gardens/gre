@@ -65,7 +65,7 @@ House of Icarios (Maison d'Icarios)
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
 - [Corinthian columns](http://vocab.getty.edu/page/aat/300299596)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [vaults](http://vocab.getty.edu/page/aat/300001370)
+- [vaults (structural elements)](http://vocab.getty.edu/page/aat/300001324)
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 
 ### Garden Description

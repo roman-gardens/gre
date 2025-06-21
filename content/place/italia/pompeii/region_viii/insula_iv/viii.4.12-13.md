@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ### Keywords
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
- - [peristyle](http://vocab.getty.edu/page/aat/300080971)
+ - [peristyles](http://vocab.getty.edu/page/aat/300080971)
  - [dolia](http ://vocab.getty.edu/page/aat/300400601)
 
 ### Garden Description

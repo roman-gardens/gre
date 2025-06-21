@@ -40,7 +40,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ### Keywords
  - [atrium](http://vocab.getty.edu/page/aat/300004097)
  - [tablina](http://vocab.getty.edu/page/aat/300004180)
- - [peristyle](http://vocab.getty.edu/page/aat/300080971)
+ - [peristyles](http://vocab.getty.edu/page/aat/300080971)
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ### Garden Description

@@ -50,7 +50,7 @@ The sanctuary of Minerva 2
 - [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 - [sanctuary](#)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [planting bed](http://vocab.getty.edu/page/aat/300430426)
+- [planting beds](http://vocab.getty.edu/page/aat/300430426)
 - [cella](#)
 - [ambulatio](#)
 - [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
