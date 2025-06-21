@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Castra Vetera]({{<relref ".">}}) \
-[Castra Vetera (Pleiades)](https://pleiades.stoa.org/places/108867)
+[Castra Vetera](https://pleiades.stoa.org/places/108867)
 
 <!--### Location Description-->
 

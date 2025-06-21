@@ -48,7 +48,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 ## Location
 
 [Col. Tarraco]({{<relref ".">}}) \
-[Col. Tarraco (Pleiades)](https://pleiades.stoa.org/places/246349)
+[Col. Tarraco](https://pleiades.stoa.org/places/246349)
 
 
 ### Location Description
@@ -112,7 +112,7 @@ The theater of Tarraco is poorly preserved.  Part of the orchestra, the proscaen
 
 #### Pleiades ID
 
-[246349](https://pleiades.stoa.org/places/246349)
+[Col. Tarraco](https://pleiades.stoa.org/places/246349)
 
 #### TGN ID
 

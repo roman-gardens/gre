@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Sudeley/Spoonley Wood]({{<relref ".">}}) \
-[Sudeley/Spoonley Wood (Pleiades)](https://pleiades.stoa.org/places/79693)
+[Sudeley/Spoonley Wood](https://pleiades.stoa.org/places/79693)
 
 <!--### Location Description-->
 

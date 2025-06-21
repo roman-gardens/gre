@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Aventicum]({{<relref ".">}}) \
-[Aventicum (Pleiades)](https://pleiades.stoa.org/places/177495)
+[Aventicum](https://pleiades.stoa.org/places/177495)
 
 ### Location Description
 
@@ -97,7 +97,7 @@ Houses: Late 1st century - Middle of 3rd century
 
 #### Pleiades ID
 
-[177495](https://pleiades.stoa.org/places/177495)
+[Aventicum](https://pleiades.stoa.org/places/177495)
 
 #### TGN ID
 

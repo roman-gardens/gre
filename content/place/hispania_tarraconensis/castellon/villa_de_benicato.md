@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Castellón]({{<relref "../../../..">}})
-[Monte Castellone 2 (Pleiades)](https://pleiades.stoa.org/places/432947)
+[Monte Castellone 2](https://pleiades.stoa.org/places/432947)
 
 <!--### Province Description-->
 
@@ -24,7 +24,7 @@ categories:
 ## Location
 
 [Nules]({{<relref ".">}}) \
-[Pujol de Benicató (Pleiades)](https://pleiades.stoa.org/places/266010)
+[Pujol de Benicató](https://pleiades.stoa.org/places/266010)
 
 <!--### Location Description-->
 

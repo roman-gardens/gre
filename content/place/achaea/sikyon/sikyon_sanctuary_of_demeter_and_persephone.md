@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Sicyon]({{<relref ".">}}) \
-[Sicyon (Pleiades)](https://pleiades.stoa.org/places/570668)
+[Sicyon](https://pleiades.stoa.org/places/570668)
 
 <!--### Location Description-->
 

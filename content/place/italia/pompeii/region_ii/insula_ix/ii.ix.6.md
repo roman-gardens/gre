@@ -26,11 +26,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+[Italia](https://pleiades.stoa.org/places/1052)
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
+[Pompeii](https://pleiades.stoa.org/places/433032)
 
 
 ### Location Description

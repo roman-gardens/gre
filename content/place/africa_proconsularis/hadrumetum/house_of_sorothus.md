@@ -20,7 +20,7 @@ tag:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
+[Africa proconsularis](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -28,7 +28,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 [Hadrumetum (Sousse)]({{<relref ".">}}) \
-[Hadrumetum (Pleiades)](https://pleiades.stoa.org/places/324716)
+[Hadrumetum](https://pleiades.stoa.org/places/324716)
 
 {{< image src="hadrumetum_city_plan.jpg" alt="Plan of Hadrumetum; rights statement" title="Fig. 1: Plan of Hadrumetum (Ghaddhab, R., 2016, P.182)" >}}
 
@@ -97,7 +97,7 @@ proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.[(worldcat)](http://
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[324716](https://pleiades.stoa.org/places/324716)
+[Hadrumetum/Iustinianopolis](https://pleiades.stoa.org/places/324716)
 
 #### TGN ID
 [7015312](http://vocab.getty.edu/page/tgn/7015312)

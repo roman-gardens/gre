@@ -45,7 +45,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 [Clunia]({{<relref ".">}}) \
-[Clunia (Pleiades)](https://pleiades.stoa.org/places/187350)
+[Clunia](https://pleiades.stoa.org/places/187350)
 
 ### Location Description
 This settlement, dating from Julio-Claudian times, is on a high meseta some 60 meters above the surrounding plain and a hundred meters above the water in the Arandilla River. (The Celtoiberian settlement of Clunia, mentioned in the second century BC, seems to have been a short distance away on the other side of the Arandilla.)  Clunia was made a Municipium in the reign of Tiberius, and later became a colony, Colonia Clunia Sulpicia.  Beginning in the reign of Claudius and throughout the rest of the first and second centuries, it was the administrative capital of Hispania Tarraconensis. At this time, it was probably the largest Roman city in Iberia.  The third century saw a decline and loss of the role of administrative center; there was a revival in the fourth century lasting to at least the middle of the fifth century, but it stopped short of a return to former prosperity.  Depopulation followed in the sixth and seventh centuries, and the residents used the area as a necropolis.
@@ -110,7 +110,7 @@ Unspecified
 
 #### Pleiades ID
 
-[187350](https://pleiades.stoa.org/places/187350)
+[Clunia](https://pleiades.stoa.org/places/187350)
 
 #### TGN ID
 [7027125](http://vocab.getty.edu/page/tgn/7027125)

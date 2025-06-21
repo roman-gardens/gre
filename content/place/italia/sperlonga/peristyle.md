@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [Italia]({{<relref "../..">}}) \
-[Villa Tiberii (Pleiades)](https://pleiades.stoa.org/places/433204)
+[Villa Tiberii](https://pleiades.stoa.org/places/433204)
 
 <!--### Location Description-->
 

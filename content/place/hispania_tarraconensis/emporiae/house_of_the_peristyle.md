@@ -45,7 +45,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 [Emporiae]({{<relref ".">}}) \
-[Emporiae (Pleiades)](https://pleiades.stoa.org/places/246382)
+[Emporiae](https://pleiades.stoa.org/places/246382)
 
 
 ### Location Description
@@ -111,7 +111,7 @@ Unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[187350](https://pleiades.stoa.org/places/187350)
+[Emporiae](https://pleiades.stoa.org/places/246382)
 
 #### TGN ID
 [7027125](http://vocab.getty.edu/page/tgn/7027125)

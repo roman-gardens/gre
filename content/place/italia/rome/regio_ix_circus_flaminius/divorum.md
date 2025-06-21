@@ -21,18 +21,18 @@ tags:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[Italia](https://pleiades.stoa.org/places/1052) \
+[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma](https://pleiades.stoa.org/places/423025)
 
 ## Sublocation
 
 [Region IX Circus Flaminius]({{<relref ".">}}) \
-[Campus Martius (Pleiades)](https://pleiades.stoa.org/places/422863)
+[Campus Martius](https://pleiades.stoa.org/places/422863)
 
 
 
@@ -81,7 +81,7 @@ From the northern *exedra*, a water [channel](http://vocab.getty.edu/page/aat/30
 
 #### Pleiades ID
 
-[423025](https://pleiades.stoa.org/places/423025)
+[Roma](https://pleiades.stoa.org/places/423025)
 <!-- Pleiades resource for Location (Rome), not for the individual garden -->
 
 ### Contributors

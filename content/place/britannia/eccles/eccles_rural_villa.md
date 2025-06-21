@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Eccles]({{<relref ".">}}) \
-[Eccles (Pleiades)](https://pleiades.stoa.org/places/79448)
+[Eccles](https://pleiades.stoa.org/places/79448)
 
 <!--### Location Description-->
 

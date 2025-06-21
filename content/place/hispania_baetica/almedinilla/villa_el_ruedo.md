@@ -24,7 +24,7 @@ categories:
 ## Location
 
 [Almedinilla]({{<relref ".">}}) \
-[Almedinilla (Pleiades)](https://pleiades.stoa.org/places/266015)
+[Almedinilla](https://pleiades.stoa.org/places/266015)
 
 ### Location Description
 

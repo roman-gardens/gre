@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Dietikon]({{<relref ".">}}) \
-[Dietikon (Pleiades)](https://pleiades.stoa.org/places/981525)
+[Dietikon](https://pleiades.stoa.org/places/981525)
 
 <!--### Location Description-->
 

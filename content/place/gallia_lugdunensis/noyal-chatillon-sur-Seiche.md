@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [NOYAL-CHATILLION-SUR-SEICHE (Ille-et-Vilaine, France)]({{<relref ".">}}) \
-[NOYAL-CHATILLION-SUR-SEICHE (Pleiades)](https://pleiades.stoa.org/places/69488)
+[NOYAL-CHATILLION-SUR-SEICHE](https://pleiades.stoa.org/places/69488)
 
 <!--### Location Description-->
 

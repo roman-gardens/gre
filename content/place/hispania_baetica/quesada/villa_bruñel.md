@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Quesada]({{<relref ".">}}) \
-[Quesada (Pleiades)](https://pleiades.stoa.org/places/265996)
+[Quesada](https://pleiades.stoa.org/places/265996)
 
 ### Location Description
 

@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Mauretania]({{<relref "..">}}) \
-[Mauretania Caesariensis (Pleiades)](https://pleiades.stoa.org/places/981532)
+[Mauretania Caesariensis](https://pleiades.stoa.org/places/981532)
 
 ## Province Description
 
@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 [Caesarea]({{<relref ".">}}) \
-[Iol Caesarea (Pleiades)](https://pleiades.stoa.org/places/295279)
+[Iol Caesarea](https://pleiades.stoa.org/places/295279)
 
 ### Location Description
 

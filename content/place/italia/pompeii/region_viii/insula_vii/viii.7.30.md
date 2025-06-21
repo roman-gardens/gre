@@ -19,11 +19,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+[Italia](https://pleiades.stoa.org/places/1052)
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
+[Pompeii](https://pleiades.stoa.org/places/433032)
 
 ### Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -44,7 +44,7 @@ The Doric Temple in the Triangular Forum was excavated between 1767 and 1797. A 
 {{< image src="fig.28.region_viii.insula_vii.24-27.png" alt="Fig. 28, Plan of Region VIII, Insula VII, 24-27" title="Fig. 28, Plan of Region VIII, Insula VII, 24-27" >}}
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/538911200)
+[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/2053030)

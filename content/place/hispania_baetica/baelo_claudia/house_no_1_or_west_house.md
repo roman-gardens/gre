@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Baelo Claudia]({{<relref ".">}}) \
-[Baelo Claudia (Pleiades)](https://pleiades.stoa.org/places/256005)
+[Baelo Claudia](https://pleiades.stoa.org/places/256005)
 
 ### Location Description
 

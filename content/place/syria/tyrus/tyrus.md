@@ -26,7 +26,7 @@ An irrigation system based around the qanat, an underground water channel, was u
 ## Location
 
 [Tyrus]({{<relref ".">}}) \
-[Tyrus (Pleiades)](https://pleiades.stoa.org/places/678437)
+[Tyrus](https://pleiades.stoa.org/places/678437)
 
 <!--### Location Description-->
 

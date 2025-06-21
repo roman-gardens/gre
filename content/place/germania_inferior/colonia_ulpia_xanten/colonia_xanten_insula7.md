@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [Xanten]({{<relref ".">}}) \
-[Xanten (Pleiades)](https://pleiades.stoa.org/places/108896)
+[Xanten](https://pleiades.stoa.org/places/108896)
 
 <!--### Location Description-->
 

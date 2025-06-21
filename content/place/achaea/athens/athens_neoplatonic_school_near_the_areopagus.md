@@ -27,7 +27,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 [Athens]({{<relref ".">}}) \
-[Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
+[Athens](https://pleiades.stoa.org/places/579885)
 
 ## Sublocation
 [Aereopagus](https://pleiades.stoa.org/places/969121823)
@@ -58,7 +58,7 @@ second half of the 4th century CE to the late 6th century CE
 * T. L. Shear, “The Athenian Agora: Excavations of 1970,” *Hesperia* 40, 1971: 266-270, 273-275, pls. 53-55, 58-59. [(JSTOR)](https://www.jstor.org/stable/147527).
 
 #### Pleiades ID
-[969121823](https://pleiades.stoa.org/places/969121823)
+[Areopagus](https://pleiades.stoa.org/places/969121823)
 
 #### TGN ID
 [5004159](http://vocab.getty.edu/page/tgn/5004159)

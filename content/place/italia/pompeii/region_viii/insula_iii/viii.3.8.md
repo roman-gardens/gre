@@ -20,11 +20,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+[Italia](https://pleiades.stoa.org/places/1052)
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
+[Pompeii](https://pleiades.stoa.org/places/433032)
 
 ### Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -47,7 +47,7 @@ Fourteen fluted white columns supported a portico that enclosed this large garde
 {{< image src="fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/538911200)
+[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/2053030)

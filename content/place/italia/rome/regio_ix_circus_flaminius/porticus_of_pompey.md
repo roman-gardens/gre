@@ -13,25 +13,25 @@ draft: false
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[Italia](https://pleiades.stoa.org/places/1052) \
+[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma](https://pleiades.stoa.org/places/423025)
 
 ## Sublocation
 
 [Region IX Circus Flaminius]({{<relref ".">}}) \
-[Campus Martius (Pleiades)](https://pleiades.stoa.org/places/422863)
+[Campus Martius](https://pleiades.stoa.org/places/422863)
 
 
 
 ## Garden
 
 Garden of the Porticus of Pompey \
-[Porticus Pompei (Pleiades)](https://pleiades.stoa.org/places/165546433)
+[Porticus Pompei](https://pleiades.stoa.org/places/165546433)
 
 ### Keywords
 

@@ -26,7 +26,7 @@ An irrigation system based around the qanat, an underground water channel, was u
 ## Location
 
 [Antioch]({{<relref ".">}}) \
-[Antioch (Pleiades)](https://pleiades.stoa.org/places/658381)
+[Antioch](https://pleiades.stoa.org/places/658381)
 
 <!--### Location Description-->
 
@@ -84,7 +84,7 @@ Hellenistic
 
 #### Pleiades ID
 
-[658381](https://pleiades.stoa.org/places/658381)
+[Antiochia/Theoupolis](https://pleiades.stoa.org/places/658381)
 
 #### TGN ID
 [7002354](http://vocab.getty.edu/page/tgn/7002354)

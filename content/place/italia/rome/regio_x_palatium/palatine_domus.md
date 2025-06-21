@@ -13,18 +13,18 @@ draft: false
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[Italia](https://pleiades.stoa.org/places/1052) \
+[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma](https://pleiades.stoa.org/places/423025)
 
 ## Sublocation
 
 [Palatine]({{<relref ".">}}) \
-[Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
+[Mons Palatinus](https://pleiades.stoa.org/places/971691208)
 
 
 
@@ -69,9 +69,9 @@ RELATED PHASES ON THE PALATINE:
 
 #### Pleiades ID
 
-[House of M. Tullius Cicero (Pleiades)](https://pleiades.stoa.org/places/233061795)
-[Casa dei Grifi (Pleiades)](https://pleiades.stoa.org/places/817164756)
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
+[House of M. Tullius Cicero](https://pleiades.stoa.org/places/233061795)
+[Casa dei Grifi](https://pleiades.stoa.org/places/817164756)
+[Palatine Hill](https://pleiades.stoa.org/places/971691208)
 
 #### TGN ID
 

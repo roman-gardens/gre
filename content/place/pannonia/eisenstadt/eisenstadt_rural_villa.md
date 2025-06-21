@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Eisenstadt]({{<relref ".">}}) \
-[Eisenstadt (Pleiades)](https://pleiades.stoa.org/places/197425)
+[Eisenstadt](https://pleiades.stoa.org/places/197425)
 
 
 <!--### Location Description-->
@@ -84,7 +84,7 @@ Early 2nd century - 4th century
 
 #### Pleiades ID
 
-[197425](https://pleiades.stoa.org/places/197425)
+[Pannonia](https://pleiades.stoa.org/places/197425)
 
 #### TGN ID
 

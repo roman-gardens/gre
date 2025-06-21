@@ -19,7 +19,7 @@ tags:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
+[Africa proconsularis](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
 
@@ -27,7 +27,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 [THUGGA (Douga) Tunisia]({{<relref ".">}}) \
-[THUGGA (Douga) Tunisia (Pleiades)](https://pleiades.stoa.org/places/315223)
+[THUGGA (Douga) Tunisia](https://pleiades.stoa.org/places/315223)
 
 <!--### Plan of City
 
@@ -69,7 +69,7 @@ This house in the W of the market may have had a peristyle garden enclosed by a 
 
 #### Pleiades_ID
 
-[315223](https://pleiades.stoa.org/places/315223)
+[Thugga/Tokai?](https://pleiades.stoa.org/places/315223)
 
 #### TGN ID
 

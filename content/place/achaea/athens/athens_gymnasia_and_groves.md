@@ -36,7 +36,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Athens]({{<relref ".">}}) \
-[Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
+[Athens](https://pleiades.stoa.org/places/579885)
 
 <!--### Location Description-->
 
@@ -108,7 +108,7 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 
 #### Pleiades ID
 
-[122572945 (Lyceum)](https://pleiades.stoa.org/places/122572945)
+[Lyceum](https://pleiades.stoa.org/places/122572945)
 
 #### TGN ID
 

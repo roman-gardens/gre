@@ -25,7 +25,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 [Emerita Augusta]({{<relref ".">}}) \
-[Emerita Augusta (Pleiades)](https://pleiades.stoa.org/places/256155)
+[Emerita Augusta](https://pleiades.stoa.org/places/256155)
 
 ### Location Description
 Geopolitical and economic motives together facilitated the prosperity of this great center of the Iberian peninsula. Marcus Vipsanius Agrippa, son-in-law of the emperor, was a benefactor of Augusta Emerita. The city was situated on the right bank of the Anas River (Rio Guardiana), today the Guadiana River. The site had the advantage of an easily crossed ford at the mouth of the Barraeca River (Rio Albarregas), and was an ideal site for surveillance and defense.  The area immediately surrounding Augusta Emerita had rich granite quarries, sands from the riverbed, and other types of rock for the new constructions.  The city’s topography determined the new rectilinear urban layout.  The variations in ground level, due to small hills in the land, probably necessitated terracing, which is still discernible in today’s modern network of streets. The bridge over the Guadiana, the longest in the peninsula with a length of almost 800 meters, provided the N-S axis to which the street grid was aligned. The new colony also had an ambitious system of urban drainage. The sewers and water lines form a complete underground complex of canals. The works of hydraulic engineering, whose dates of construction and later stages of development are debated, support the notion that Augusta Emerita was a city with a grand, forward-looking vision.
@@ -93,7 +93,7 @@ This late-imperial domus was discovered by J. Ramón Mélida while excavating th
 
 #### Pleiades ID
 
-[256155](https://pleiades.stoa.org/places/256155)
+[Emerita Augusta](https://pleiades.stoa.org/places/256155)
 
 #### TGN ID
 

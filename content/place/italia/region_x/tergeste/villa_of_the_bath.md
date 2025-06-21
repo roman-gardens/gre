@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Tergeste]({{<relref ".">}}) \
-[Tergeste (Pleiades)](https://pleiades.stoa.org/places/187578)
+[Tergeste](https://pleiades.stoa.org/places/187578)
 
 <!--### Location Description-->
 
@@ -90,7 +90,7 @@ unspecified
 
 #### Pleiades ID
 
-[187578](https://pleiades.stoa.org/places/187578)
+[Tergeste](https://pleiades.stoa.org/places/187578)
 
 #### TGN ID
 

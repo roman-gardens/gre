@@ -32,7 +32,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 
 [Isthmia]({{<relref ".">}}) \
-[Isthmia (Pleiades)](https://pleiades.stoa.org/places/570316)
+[Isthmia](https://pleiades.stoa.org/places/570316)
 
 <!--### Location Description-->
 

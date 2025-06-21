@@ -20,7 +20,7 @@ tag:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
+[Africa proconsularis](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -28,7 +28,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 [Althiburos (Médeïna)]({{<relref ".">}}) \
-[Althiburos (Pleiades)](https://pleiades.stoa.org/places/324664)
+[Althiburos](https://pleiades.stoa.org/places/324664)
 
 ### Location Description
 This town is located on the road between Carthage and Theveste near the border of Proconsularis and Byzacena 35 km west of Mactar. Under the Roman Empire it remained an indigenous civitas until it was raised to the status of a municipium by Hadrian: municipium aelium hadrianum augustum althiburitanum and later was granted the ius Italicum.
@@ -93,7 +93,7 @@ The house stands on the other side of the Wadi Oum El Abid, on the left bank, 12
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[324664](https://pleiades.stoa.org/places/324664)
+[Althiburos](https://pleiades.stoa.org/places/324664)
 
 #### TGN ID
 [5003658](http://vocab.getty.edu/page/tgn/5003658)

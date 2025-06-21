@@ -15,7 +15,7 @@ tags:
 
 ## Province
 [Arabia Petraea]({{<relref "..">}})\
-[Arabia (province) (Pleiades)](https://pleiades.stoa.org/places/981506)
+[Arabia (province)](https://pleiades.stoa.org/places/981506)
 
 The history of Roman Arabia begins with the death of the Nabataean king, [Rabb'el II Soter](https://en.wikipedia.org/wiki/Rabbel_II_Soter), in A.D. 106. The emperor Trajan annexed the [Nabataean kingdom](https://en.wikipedia.org/wiki/Nabataean_Kingdom)   and organized its territory within the new Roman province of Arabia Petraea that occupied a large area of northwestern Arabia, extending from the Hauran in the north, to the Negev and Sinai deserts in the west, and into the northern Hejaz in the south. The administrative district of Perea, formerly under the Herodian dynasty was also added. The provincial capital of Arabia Petraea was located at [Bostra](https://en.wikipedia.org/wiki/Bosra) which replaced [Petra](https://en.wikipedia.org/wiki/Petra) as the capital of Nabataea in the last decades of that kingdom’s independence. Petra continued to function as an important cultural, political and economic center of the province for at least a century following annexation. During the early Byzantine period (4th-6th centuries CE), the major cities of the Roman era continued to flourish, and Christianity gradually became the accepted religion of the area. Petra remained an important center in the early Byzantine period when it was inhabited by a substantial Christian community and was the seat of a bishopric.
 
@@ -23,7 +23,7 @@ The region of Arabia Petraea is primarily a desert environment that belongs to t
 
 ## Location
 [Maoza, near Zoara]({{<relref "..">}})\
-[Zoara (Pleiades)](https://pleiades.stoa.org/places/697768)
+[Zoara](https://pleiades.stoa.org/places/697768)
 
 Babatha's orchard was located in a village by the name of Maḥoz 'Eglatain (Aramaic for "harbor of 'Eglatain"). Alternative names on record are Mahoza and Maoza (Greek Μαωζα). While the exact location of the site is not known, descriptions in the ancient sources place it on the [southeastern coast of the Dead Sea, near the mouth of Wadi Hasa](https://www.pbs.org/wgbh/nova/scrolls/life-02.html) (Biblical Zered). Maoza functioned as the harbor for nearby Ẓo'ar/Zoara (Greek Ζοαρα; modern Ghor el-Safi) (Esler 2017:pp. 66-67), which was the administrative center of the Zoara district of Arabia Petraea (Fig. 1).
 

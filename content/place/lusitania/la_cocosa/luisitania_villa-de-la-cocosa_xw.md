@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-[Lusitania (Pleiades)](https://pleiades.stoa.org/places/1101)
+[Lusitania](https://pleiades.stoa.org/places/1101)
 
 ### Province Description
 
@@ -25,7 +25,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 [La Cocosa]({{<relref ".">}}) \
-[La Cocosa (Pleiades)](https://pleiades.stoa.org/places/256109)
+[La Cocosa](https://pleiades.stoa.org/places/256109)
 
 <!--### Location Description-->
 

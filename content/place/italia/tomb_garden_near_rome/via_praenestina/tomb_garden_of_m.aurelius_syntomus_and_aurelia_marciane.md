@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [via praenestina]({{<relref ".">}}) \
-[via praenestina (Pleiades)](https://pleiades.stoa.org/places/622606468)
+[via praenestina](https://pleiades.stoa.org/places/622606468)
 
 <!--### Location Description-->
 

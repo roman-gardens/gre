@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [Sainte-Marguerite-sur-Mer (Seine-Maritime, France)]({{<relref ".">}}) \
-[Sainte-Marguerite-sur-Mer (Pleiades)](https://pleiades.stoa.org/places/109153)
+[Sainte-Marguerite-sur-Mer](https://pleiades.stoa.org/places/109153)
 
 <!--### Location Description-->
 
@@ -88,7 +88,7 @@ Unspecified
 
 #### Pleiades ID
 
-[109153](https://pleiades.stoa.org/places/109153)
+[Mediolanum Aulercorum](https://pleiades.stoa.org/places/109153)
 
 #### TGN ID
 [6003548](http://vocab.getty.edu/page/tgn/6003548)

@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 [Volubilis]({{<relref ".">}})
-[Volubilis (Pleiades)](https://pleiades.stoa.org/places/275740)
+[Volubilis](https://pleiades.stoa.org/places/275740)
 
 ### Location Description
 

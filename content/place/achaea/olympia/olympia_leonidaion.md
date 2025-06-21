@@ -26,7 +26,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 
 [Olympia]({{<relref ".">}}) \
-[Olympia (Pleiades)](https://pleiades.stoa.org/places/570531)
+[Olympia](https://pleiades.stoa.org/places/570531)
 
 <!--### Location Description-->
 

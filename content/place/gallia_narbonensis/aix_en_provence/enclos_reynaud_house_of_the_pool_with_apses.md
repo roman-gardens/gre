@@ -16,7 +16,7 @@ categories:
 ### Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis (Pleiades)](https://pleiades.stoa.org/places/981537)
+[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
 ### Province Description
 

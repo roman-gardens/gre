@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Soria]({{<relref "../../../..">}})
-[Soria (Pleiades)](https://pleiades.stoa.org/places/694916885)
+[Soria](https://pleiades.stoa.org/places/694916885)
 
 <!--### Province Description-->
 
@@ -24,7 +24,7 @@ categories:
 ## Location
 
 [Rioseco Di Soria]({{<relref ".">}}) \
-[Rioseco Di Soria (Pleiades)](https://pleiades.stoa.org/places/614074944)
+[Rioseco Di Soria](https://pleiades.stoa.org/places/614074944)
 
 ### Location Description
 This villa is about 600 meters southwest of the town Rioseco di Soria on the right (north) bank of the Sequillo river – here a small stream -- and overlooking its plain. Excavations go back to the early 1970's.  In 2007 the site was marked only by mounds of earth over the ruins.

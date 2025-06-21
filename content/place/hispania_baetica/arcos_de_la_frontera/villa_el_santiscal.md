@@ -24,7 +24,7 @@ categories:
 ## Location
 
 [Arcos De La Frontera]({{<relref ".">}}) \
-[Arcos De La Frontera (Pleiades)](https://pleiades.stoa.org/places/255981)
+[Arcos De La Frontera](https://pleiades.stoa.org/places/255981)
 
 ### Location Description
 
@@ -54,7 +54,7 @@ Villa el Santiscal
 
 ### Garden Description
 
-This rich country villa on the left bank of the [Guadalete (Pleiades)](https://pleiades.stoa.org/places/256248) River was begun in the first century and continued in use through the fourth century with its heyday in the third century AD.  Figured mosaics found in the nineteenth century are now lost. Partial excavations around 1965 disclosed a villa built around a central peristyle (14 x 10 m) with a garden in the center. A rill pool ran around the outside of the garden. On each side there was a fountain and semicircular extension of the pool into the planting area of the garden.
+This rich country villa on the left bank of the [Guadalete](https://pleiades.stoa.org/places/256248) River was begun in the first century and continued in use through the fourth century with its heyday in the third century AD.  Figured mosaics found in the nineteenth century are now lost. Partial excavations around 1965 disclosed a villa built around a central peristyle (14 x 10 m) with a garden in the center. A rill pool ran around the outside of the garden. On each side there was a fountain and semicircular extension of the pool into the planting area of the garden.
 
 
 ### Maps

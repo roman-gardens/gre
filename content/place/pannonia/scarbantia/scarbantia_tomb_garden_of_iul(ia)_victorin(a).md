@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Scarbantia]({{<relref ".">}}) \
-[Scarbantia (Pleiades)](https://pleiades.stoa.org/places/197501)
+[Scarbantia](https://pleiades.stoa.org/places/197501)
 
 
 <!--### Location Description-->

@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [LUGDUNUM (Lyon, France)]({{<relref ".">}}) \
-[LUGDUNUM (Pleiades)](https://pleiades.stoa.org/places/167717)
+[LUGDUNUM](https://pleiades.stoa.org/places/167717)
 
 <!--### Location Description-->
 
@@ -75,7 +75,7 @@ Unspecified
 
 #### Pleiades ID
 
-[167717](https://pleiades.stoa.org/places/167717)
+[Col. Lugdunum](https://pleiades.stoa.org/places/167717)
 
 #### TGN ID
 [6002234](http://vocab.getty.edu/page/tgn/6002234)

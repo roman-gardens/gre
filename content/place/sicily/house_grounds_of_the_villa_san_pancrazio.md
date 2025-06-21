@@ -31,7 +31,7 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 ## Location
 
-[Syracuse (Pleiades)](https://pleiades.stoa.org/places/462506)
+[Syracuse](https://pleiades.stoa.org/places/462506)
 
 <!--### Location Description-->
 

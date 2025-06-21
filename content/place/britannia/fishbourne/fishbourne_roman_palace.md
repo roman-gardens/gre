@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Fishbourne]({{<relref ".">}}) \
-[Fishbourne (Pleiades)](https://pleiades.stoa.org/places/79466)
+[Fishbourne](https://pleiades.stoa.org/places/79466)
 
 <!--### Location Description-->
 

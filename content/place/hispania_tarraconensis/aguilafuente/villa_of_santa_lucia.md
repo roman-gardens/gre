@@ -45,7 +45,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 [Santa Lucia]({{<relref "..">}}) \
-[Santa Lucia (Pleiades)](https://pleiades.stoa.org/places/767191138)
+[Santa Lucia](https://pleiades.stoa.org/places/767191138)
 
 <!--### Location Description-->
 

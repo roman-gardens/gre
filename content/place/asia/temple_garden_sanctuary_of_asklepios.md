@@ -36,7 +36,7 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 ## Location
 
 [Kos]({{<relref ".">}}) \
-[Kos (Pleiades)](https://pleiades.stoa.org/places/599728)
+[Kos](https://pleiades.stoa.org/places/599728)
 
 <!--### Location Description-->
 

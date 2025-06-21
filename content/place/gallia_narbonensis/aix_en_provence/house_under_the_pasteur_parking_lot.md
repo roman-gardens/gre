@@ -16,7 +16,7 @@ categories:
 ### Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis (Pleiades)](https://pleiades.stoa.org/places/981537)
+[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
 ### Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [aix-en-provence]({{<relref ".">}}) \
-[aix-en-provence (Pleiades)](https://pleiades.stoa.org/places/148053)
+[aix-en-provence](https://pleiades.stoa.org/places/148053)
 
 ### Location Description
 

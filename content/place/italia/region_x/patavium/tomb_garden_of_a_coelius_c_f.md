@@ -30,7 +30,7 @@ tags:
 ## Location
 
 [Patavium]({{<relref "../../..">}}) \
-[Patavium (Pleiades)](https://pleiades.stoa.org/places/393473)
+[Patavium](https://pleiades.stoa.org/places/393473)
 
 <!--### Location Description-->
 

@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [BORG (Germany)]({{<relref ".">}}) \
-[BORG (Pleiades)](https://pleiades.stoa.org/places/272861914)
+[BORG](https://pleiades.stoa.org/places/272861914)
 
 <!--### Location Description-->
 

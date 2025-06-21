@@ -48,7 +48,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 ## Location
 
 [Segóbriga]({{<relref ".">}}) \
-[Segóbriga (Pleiades)](https://pleiades.stoa.org/places/266036)
+[Segóbriga](https://pleiades.stoa.org/places/266036)
 
 
 ### Location Description

@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Megalopolis]({{<relref ".">}}) \
-[Megalopolis (Pleiades)](https://pleiades.stoa.org/places/570467)
+[Megalopolis](https://pleiades.stoa.org/places/570467)
 
 <!--### Location Description-->
 

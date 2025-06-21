@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Hummetroth]({{<relref ".">}}) \
-[Hummetroth (Pleiades)](https://pleiades.stoa.org/places/981525)
+[Hummetroth](https://pleiades.stoa.org/places/981525)
 
 <!--### Location Description-->
 

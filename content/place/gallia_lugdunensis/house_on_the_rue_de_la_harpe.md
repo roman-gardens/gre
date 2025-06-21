@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [MEDIOLANUM AULERCORUM (Evreux, France)]({{<relref ".">}}) \
-[MEDIOLANUM AULERCORUM (Pleiades)](https://pleiades.stoa.org/places/109153)
+[MEDIOLANUM AULERCORUM](https://pleiades.stoa.org/places/109153)
 
 <!--### Location Description-->
 
@@ -76,7 +76,7 @@ Unspecified
 
 #### Pleiades ID
 
-[109153](https://pleiades.stoa.org/places/109153)
+[Mediolanum Aulercorum](https://pleiades.stoa.org/places/109153)
 
 #### TGN ID
 [6003548](http://vocab.getty.edu/page/tgn/6003548)

@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Sagunto]({{<relref "../../../..">}})
-[Sagunto (Pleiades)](https://pleiades.stoa.org/places/266020)
+[Sagunto](https://pleiades.stoa.org/places/266020)
 
 <!--### Province Description-->
 
@@ -24,7 +24,7 @@ categories:
 ## Location
 
 [Saguntum]({{<relref ".">}}) \
-[Saguntum/Arse (Pleiades)](https://pleiades.stoa.org/places/266021)
+[Saguntum/Arse](https://pleiades.stoa.org/places/266021)
 
 <!--### Location Description-->
 

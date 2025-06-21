@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Oberentfelden]({{<relref ".">}}) \
-[Oberentfelden (Pleiades)](https://pleiades.stoa.org/places/177596)
+[Oberentfelden](https://pleiades.stoa.org/places/177596)
 
 <!--### Location Description-->
 

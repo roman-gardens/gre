@@ -17,13 +17,13 @@ categories:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+[Italia](https://pleiades.stoa.org/places/1052)
 
 
 ## Location
 
  [Herculaneum]({{<relref "..">}}) \
- [Herculaneum (Pleiades)](https://pleiades.stoa.org/places/432873)
+ [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 
 ### Location Description

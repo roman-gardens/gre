@@ -31,7 +31,7 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 ## Location
 
-[Messina (Pleiades)](https://pleiades.stoa.org/places/462538)
+[Messina](https://pleiades.stoa.org/places/462538)
 
 <!--### Location Description-->
 

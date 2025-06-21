@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Carmona]({{<relref ".">}}) \
-[Carmona (Pleiades)](https://pleiades.stoa.org/places/521700443)
+[Carmona](https://pleiades.stoa.org/places/521700443)
 
 ### Location Description
 

@@ -46,8 +46,8 @@ Dacia was of particular interest to the Romans for its supplies of lead, needed 
 
 #### Pleiades ID
 
-[981518]({{<relref ".">}}) \
-[981518](https://pleiades.stoa.org/places/981518)
+[Dacia (province)]({{<relref ".">}}) \
+[Dacia (province)](https://pleiades.stoa.org/places/981518)
 
 #### TGN ID
 

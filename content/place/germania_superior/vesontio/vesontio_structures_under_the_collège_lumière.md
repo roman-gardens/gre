@@ -26,7 +26,7 @@ categories:
 ## Location
 
 [Vesontio]({{<relref ".">}}) \
-[Vesontio (Pleiades)](https://pleiades.stoa.org/places/177657)
+[Vesontio](https://pleiades.stoa.org/places/177657)
 
 ### Location Description
 
@@ -111,7 +111,7 @@ Gardens: Beginning and last third of second century
 
 #### Pleiades ID
 
-[177657](https://pleiades.stoa.org/places/177657)
+[Vesontio](https://pleiades.stoa.org/places/177657)
 
 #### TGN ID
 

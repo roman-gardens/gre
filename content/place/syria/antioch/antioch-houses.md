@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [Antioch]({{<relref ".">}})
-[Antioch (Pleiades)](https://pleiades.stoa.org/places/658381)
+[Antioch](https://pleiades.stoa.org/places/658381)
 
 <!--### Location Description-->
 
@@ -81,7 +81,7 @@ second to the sixth centuries CE
 
 #### Pleiades ID
 
-[658381](https://pleiades.stoa.org/places/658381)
+[Antiochia/Theoupolis](https://pleiades.stoa.org/places/658381)
 
 #### TGN ID
 [7002354](http://vocab.getty.edu/page/tgn/7002354)

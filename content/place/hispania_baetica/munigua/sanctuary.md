@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Munigua]({{<relref ".">}}) \
-[Munigua (Pleiades)](https://pleiades.stoa.org/places/256318)
+[Munigua](https://pleiades.stoa.org/places/256318)
 
 ### Location Description
 

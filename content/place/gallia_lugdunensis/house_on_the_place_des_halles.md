@@ -19,7 +19,7 @@ categories:
 ## Location
 -- missing in Pleiades --
 [VINDINUM a.k.a. Subdinnum (Le Mans, France)]({{<relref ".">}}) \
-[VINDINUM a.k.a. Subdinnum (Pleiades)](https://pleiades.stoa.org/places/109236)
+[VINDINUM a.k.a. Subdinnum](https://pleiades.stoa.org/places/109236)
 
 <!--### Location Description-->
 

@@ -46,7 +46,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 [La Almeda]({{<relref ".">}}) \
-[LA Almeda (Pleiades)](https://pleiades.stoa.org/places/723036345)
+[LA Almeda](https://pleiades.stoa.org/places/723036345)
 
 <!--### Location Description-->
 

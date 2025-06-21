@@ -13,8 +13,8 @@ draft: true
 # Province
 
 [ITALIA]({{<relref "..">}})\
-[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052)\
-[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[ITALIA](https://pleiades.stoa.org/places/1052)\
+[ITALIA, REGIO I](https://pleiades.stoa.org/places/441075550)
 
 ## Province Description
 
@@ -24,7 +24,7 @@ Italia was not considered a province until the reign of Diocletian. The peninsul
 # Location
 
 [Rome]({{<relref ".">}}) \
-[Rome (Pleiades)](https://pleiades.stoa.org/places/108867)
+[Rome](https://pleiades.stoa.org/places/108867)
 
 ## Location Description
 
@@ -32,7 +32,7 @@ Italia was not considered a province until the reign of Diocletian. The peninsul
 
 # Sublocation
 [Caelian Hill]({{<relref ".">}}) \
-[Caelian Hill (Pleiades)](https://pleiades.stoa.org/places/695491849)
+[Caelian Hill](https://pleiades.stoa.org/places/695491849)
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
@@ -87,7 +87,7 @@ The temple is set within eight L-shaped planting beds and fourteen rectangular p
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### Pleiades ID
-[Caelian Hill (Pleiades)](https://pleiades.stoa.org/places/695491849)
+[Caelian Hill](https://pleiades.stoa.org/places/695491849)
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->

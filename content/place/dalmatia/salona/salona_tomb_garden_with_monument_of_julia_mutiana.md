@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Salona]({{<relref ".">}}) \
-[Salona (Pleiades)](https://pleiades.stoa.org/places/197488)
+[Salona](https://pleiades.stoa.org/places/197488)
 
 <!--### Location Description-->
 
@@ -89,7 +89,7 @@ Second half of the second or the third century (CE)
 
 #### Pleiades ID
 
-[197488](https://pleiades.stoa.org/places/197488)
+[Salona](https://pleiades.stoa.org/places/197488)
 
 #### TGN ID
 

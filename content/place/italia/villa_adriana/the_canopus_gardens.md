@@ -22,7 +22,7 @@ tags:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+[Italia](https://pleiades.stoa.org/places/1052)
 
 ## Region
 
@@ -31,7 +31,7 @@ Region IV
 
 ## Location
 
-[Hadrian's Villa (Pleiades)](https://pleiades.stoa.org/places/423127)
+[Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
 ### Location Description
 
@@ -44,7 +44,7 @@ The realization of this magnificent residence must have been a cherished dream o
 ## Garden
 
 The Canopus gardens (Fig. 1, n. 2)\
-[Canopus at Hadrian's Villa (Pleiades)](https://pleiades.stoa.org/places/856037447)
+[Canopus at Hadrian's Villa](https://pleiades.stoa.org/places/856037447)
 
 ### Keywords
 

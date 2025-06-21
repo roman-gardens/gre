@@ -46,7 +46,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 [Villa dels Munts]({{<relref ".">}}) \
-[Villa dels Munts (Pleiades)](https://pleiades.stoa.org/places/250016)
+[Villa dels Munts](https://pleiades.stoa.org/places/250016)
 
 <!--### Location Description-->
 

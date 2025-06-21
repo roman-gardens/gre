@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [DUROCORTORUM (Reims, France)]({{<relref ".">}}) \
-[DUROCORTORUM (Pleiades)](https://pleiades.stoa.org/places/108945)
+[DUROCORTORUM](https://pleiades.stoa.org/places/108945)
 
 <!--### Location Description-->
 

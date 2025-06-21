@@ -23,17 +23,17 @@ tags:
 ## Province
 
 [ITALIA]({{<relref "../..">}}) \
-[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052) \
-[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[ITALIA](https://pleiades.stoa.org/places/1052) \
+[ITALIA, REGIO I](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma](https://pleiades.stoa.org/places/423025)
 
 ## Sublocation
 Caelian Hill \
-[Caelius Mons (Pleiades)](https://pleiades.stoa.org/places/695491849)
+[Caelius Mons](https://pleiades.stoa.org/places/695491849)
 
 
 
@@ -83,7 +83,7 @@ unspecified
 
 #### Pleiades ID
 
-[Caelian Hill (Pleiades)](https://pleiades.stoa.org/places/695491849)
+[Caelian Hill](https://pleiades.stoa.org/places/695491849)
 
 #### TGN ID
 

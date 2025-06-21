@@ -88,7 +88,7 @@ Second century CE to mid-fifth century CE
 
 #### Pleiades ID
 
-[981524](https://pleiades.stoa.org/places/981524)
+[Germania Inferior](https://pleiades.stoa.org/places/981524)
 <!-- germania imferior; no pleiades location -->
 
 #### TGN ID

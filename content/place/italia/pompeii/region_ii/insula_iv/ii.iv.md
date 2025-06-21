@@ -27,7 +27,7 @@ tags:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
+[Pompeii](https://pleiades.stoa.org/places/433032)
 <!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
@@ -41,7 +41,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IV]({{<relref "..">}})
 
 ## House
-[House of Julia Felix (Pleiades)](https://pleiades.stoa.org/places/205387552)-->
+[House of Julia Felix](https://pleiades.stoa.org/places/205387552)-->
 
 ## Garden
 Three separate gardens in the Praedia di Julia Felix.

@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 [Portus Magnus]({{<relref ".">}}) \  
-[Portus Magnus (Pleiades)](https://pleiades.stoa.org/places/285503)
+[Portus Magnus](https://pleiades.stoa.org/places/285503)
 
 ### Location Description
 

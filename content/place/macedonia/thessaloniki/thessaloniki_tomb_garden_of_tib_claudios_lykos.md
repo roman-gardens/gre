@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Thessaloniki]({{<relref ".">}}) \
-[Thessaloniki (Pleiades)](https://pleiades.stoa.org/places/491741)
+[Thessaloniki](https://pleiades.stoa.org/places/491741)
 
 <!--### Location Description-->
 

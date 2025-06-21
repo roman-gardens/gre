@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Orbe]({{<relref ".">}}) \
-[Orbe (Pleiades)](https://pleiades.stoa.org/places/177598)
+[Orbe](https://pleiades.stoa.org/places/177598)
 
 <!--### Location Description-->
 

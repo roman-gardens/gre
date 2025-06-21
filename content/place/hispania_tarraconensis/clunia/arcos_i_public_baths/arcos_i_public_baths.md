@@ -45,7 +45,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 [Clunia]({{<relref ".">}}) \
-[Clunia (Pleiades)](https://pleiades.stoa.org/places/187350)
+[Clunia](https://pleiades.stoa.org/places/187350)
 
 
 ### Location Description
@@ -101,7 +101,7 @@ Unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[187350](https://pleiades.stoa.org/places/187350)
+[Clunia](https://pleiades.stoa.org/places/187350)
 
 #### TGN ID
 [7027125](http://vocab.getty.edu/page/tgn/7027125)

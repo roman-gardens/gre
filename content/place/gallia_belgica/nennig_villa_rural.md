@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [NENNIG  (Germany)]({{<relref ".">}}) \
-[NENNIG (Pleiades)](https://pleiades.stoa.org/places/109198)
+[NENNIG](https://pleiades.stoa.org/places/109198)
 
 <!--### Location Description-->
 

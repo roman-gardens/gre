@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Darenth]({{<relref ".">}}) \
-[Darenth (Pleiades)](https://pleiades.stoa.org/places/79413)
+[Darenth](https://pleiades.stoa.org/places/79413)
 
 <!--### Location Description-->
 

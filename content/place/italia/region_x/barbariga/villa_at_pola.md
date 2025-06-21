@@ -38,7 +38,7 @@ tags:
 ## Location
 
 [Barbariga]({{<relref ".">}}) \
-[Barbariga (Pleiades)](https://pleiades.stoa.org/places/383781)
+[Barbariga](https://pleiades.stoa.org/places/383781)
 
 <!--### Location Description-->
 

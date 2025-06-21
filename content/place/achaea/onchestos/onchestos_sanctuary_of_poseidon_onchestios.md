@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Onchestos]({{<relref ".">}}) \
-[Onchestos (Pleiades)](https://pleiades.stoa.org/places/540984)
+[Onchestos](https://pleiades.stoa.org/places/540984)
 
 <!--### Location Description-->
 

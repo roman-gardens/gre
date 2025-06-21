@@ -19,12 +19,12 @@ tags:
 ## Province
 
 [Italia]({{<relref "..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+[Italia](https://pleiades.stoa.org/places/1052)
 
 ## Location
 
 [Ostia]({{<relref ".">}}) \
-[Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
+[Ostia](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
 
@@ -126,7 +126,7 @@ unspecified
 
 #### Pleiades ID
 
-[422995](https://pleiades.stoa.org/places/422995)
+[Ostia](https://pleiades.stoa.org/places/422995)
 <!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
 #### TGN ID

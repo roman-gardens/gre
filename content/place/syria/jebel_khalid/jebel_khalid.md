@@ -26,7 +26,7 @@ An irrigation system based around the qanat, an underground water channel, was u
 ## Location
 
 [Jebel Khalid]({{<relref ".">}}) \
-[Jebel Khalid (Pleiades)](https://pleiades.stoa.org/places/481573620)
+[Jebel Khalid](https://pleiades.stoa.org/places/481573620)
 
 <!--### Location Description-->
 
@@ -107,7 +107,7 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[167649937 (Acropolis palace at Jebel Khalid)](https://pleiades.stoa.org/places/167649937)
+[Acropolis palace at Jebel Khalid](https://pleiades.stoa.org/places/167649937)
 
 #### TGN ID
 [#](#)

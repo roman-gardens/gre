@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [BAD DURKHEIM-UNGSTEIN (Germany)]({{<relref ".">}}) \
-[BAD DURKHEIM-UNGSTEIN (Pleiades)](https://pleiades.stoa.org/places/108784)
+[BAD DURKHEIM-UNGSTEIN](https://pleiades.stoa.org/places/108784)
 
 <!--### Location Description-->
 

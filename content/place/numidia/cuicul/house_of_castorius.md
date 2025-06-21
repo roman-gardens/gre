@@ -34,7 +34,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 [Cuicul]({{<relref ".">}}) \
-[Cuicul (Pleiades)](https://pleiades.stoa.org/places/305068)
+[Cuicul](https://pleiades.stoa.org/places/305068)
 
 {{< image src="cuicul_house_of_castorius.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
@@ -90,7 +90,7 @@ The  L shaped space between the fish pool and the columns was probably planted.
 
 
 #### Pleiades ID
-[305068](https://pleiades.stoa.org/places/305068)
+[Cuicul](https://pleiades.stoa.org/places/305068)
 #### TGN ID
 
 ### Contributor

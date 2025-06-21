@@ -19,12 +19,12 @@ tags:
 ## Province
 
 [Italia]({{<relref "..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+[Italia](https://pleiades.stoa.org/places/1052)
 
 ## Location
 
 [Ostia]({{<relref ".">}}) \
-[Ostia (Pleiades)](https://pleiades.stoa.org/places/422995)
+[Ostia](https://pleiades.stoa.org/places/422995)
 
 ### Location Description
 
@@ -55,7 +55,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 ## Garden
 
 Piazzale della Corporazioni \
-[The Forum of Corporations (Pleiades)](https://pleiades.stoa.org/places/489630692)
+[The Forum of Corporations](https://pleiades.stoa.org/places/489630692)
 
 ### Keywords
 

@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Ferpicloz]({{<relref ".">}}) \
-[Ferpicloz (Pleiades)](https://pleiades.stoa.org/places/981525)
+[Ferpicloz](https://pleiades.stoa.org/places/981525)
 
 <!--### Location Description-->
 

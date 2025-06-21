@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [WELSCHBILLIG (Germany)]({{<relref ".">}}) \
-[WELSCHBILLIG (Pleiades)](https://pleiades.stoa.org/places/109456)
+[WELSCHBILLIG](https://pleiades.stoa.org/places/109456)
 
 <!--### Location Description-->
 

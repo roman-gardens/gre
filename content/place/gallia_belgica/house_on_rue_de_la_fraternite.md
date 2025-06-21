@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [NEMETACUM (Arras, France)]({{<relref ".">}}) \
-[NEMETACUM (Pleiades)](https://pleiades.stoa.org/places/109194)
+[NEMETACUM](https://pleiades.stoa.org/places/109194)
 
 <!--### Location Description-->
 

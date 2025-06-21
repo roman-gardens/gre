@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [Blankenheim-Hülchrath]({{<relref ".">}}) \
-[Blankenheim-Hülchrath (Pleiades)](https://pleiades.stoa.org/places/981524)
+[Blankenheim-Hülchrath](https://pleiades.stoa.org/places/981524)
 
 <!--### Location Description-->
 
@@ -79,7 +79,7 @@ Unspecified
 
 #### Pleiades ID
 
-[981524](https://pleiades.stoa.org/places/981524)
+[Germania Inferior](https://pleiades.stoa.org/places/981524)
 
 #### TGN ID
 [6002234](http://vocab.getty.edu/page/tgn/6002234)

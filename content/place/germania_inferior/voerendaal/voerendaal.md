@@ -22,7 +22,7 @@ categories:
 ## Location
 
 [Voerendaal]({{<relref ".">}}) \
-[Voerendaal (Pleiades)](https://pleiades.stoa.org/places/109442)  
+[Voerendaal](https://pleiades.stoa.org/places/109442)  
 
 <!--### Location Description-->
 

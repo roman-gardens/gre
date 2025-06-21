@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Cologne]({{<relref ".">}}) \
-[Cologne (Pleiades)](https://pleiades.stoa.org/places/108751)
+[Cologne](https://pleiades.stoa.org/places/108751)
 
 ### Location Description
 This large town on the west bank of the Rhine river was the *civitas* capital of the [Ubii](link) in the first half of the 1st century A.D. It was granted the status of colonia by [Claudius](link) in 50 and became the provincial capital in 85.

@@ -21,19 +21,19 @@ tags:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[Italia](https://pleiades.stoa.org/places/1052) \
+[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma](https://pleiades.stoa.org/places/423025)
 
 ## Sublocation
 
 [Region III Isis et Serapis]({{<relref ".">}}) \
 Oppian Hill \
-Esquiline Hill [Esquilinus Mons (Pleiades)](https://pleiades.stoa.org/places/679976755) \
+Esquiline Hill [Esquilinus Mons](https://pleiades.stoa.org/places/679976755) \
 
 
 
@@ -97,7 +97,7 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 
 #### Pleiades ID
 
-[423025](https://pleiades.stoa.org/places/423025)
+[Roma](https://pleiades.stoa.org/places/423025)
 <!-- Pleiades resource for Location (Roma), not for Porticus Liviae -->
 
 ### Contributors

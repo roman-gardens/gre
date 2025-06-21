@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Carnuntum]({{<relref ".">}}) \
-[Carnuntum (Pleiades)](https://pleiades.stoa.org/places/128376)
+[Carnuntum](https://pleiades.stoa.org/places/128376)
 
 ### Location Description
 

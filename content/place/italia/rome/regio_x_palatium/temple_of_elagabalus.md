@@ -13,18 +13,18 @@ draft: false
 ## Province
 
 [Italia]({{<relref "../..">}})\
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)\
-[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[Italia](https://pleiades.stoa.org/places/1052)\
+[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma](https://pleiades.stoa.org/places/423025)
 
 ## Sublocation
 
 [Palatine]({{<relref ".">}}) \
-[Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
+[Mons Palatinus](https://pleiades.stoa.org/places/971691208)
 
 ## Garden
 
@@ -108,7 +108,7 @@ c. 190- 240 CE
 
 #### Pleiades ID
 
-[971691208](https://pleiades.stoa.org/places/971691208)
+[Palatinus Mons](https://pleiades.stoa.org/places/971691208)
 
 ### Contributor
 

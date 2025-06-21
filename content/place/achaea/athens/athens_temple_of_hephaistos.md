@@ -31,7 +31,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Athens]({{<relref ".">}}) \
-[Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
+[Athens](https://pleiades.stoa.org/places/579885)
 
 <!--### Location Description-->
 
@@ -39,7 +39,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Sublocation
 
-[Agora of Athens (Pleiades)](https://pleiades.stoa.org/places/807514119)
+[Agora of Athens](https://pleiades.stoa.org/places/807514119)
 
 <!--### Sublocation Description-->
 
@@ -94,7 +94,7 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 
 #### Pleiades ID
 
-[558659669 (Hephaisteion)](https://pleiades.stoa.org/places/558659669)
+[Hephaisteion](https://pleiades.stoa.org/places/558659669)
 
 #### TGN ID
 

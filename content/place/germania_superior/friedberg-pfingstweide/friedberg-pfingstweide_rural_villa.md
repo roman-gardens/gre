@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Friedberg Pfingstweide]({{<relref ".">}}) \
-[Friedberg Pfingstweide (Pleiades)](https://pleiades.stoa.org/places/981525)
+[Friedberg Pfingstweide](https://pleiades.stoa.org/places/981525)
 
 <!--### Location Description-->
 

@@ -21,7 +21,7 @@ tags:
 
 ## Province
 [Numidia]({{<relref "..">}}) \
-[Numidia (Pleiades)](https://pleiades.stoa.org/places/981539)
+[Numidia](https://pleiades.stoa.org/places/981539)
 
 ### Province Description
 
@@ -30,7 +30,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 [Thamugadi]({{<relref ".">}}) \
-[Thamugadi (Pleiades)](https://pleiades.stoa.org/places/334636)
+[Thamugadi](https://pleiades.stoa.org/places/334636)
 
 {{< image src="timgad_city_plan_house_of_the_planters.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
 
@@ -102,7 +102,7 @@ House of the Planters (Maison aux jardinières)
 
 #### Pleiades ID
 
-[334636](https://pleiades.stoa.org/places/334636)
+[Thamugadi](https://pleiades.stoa.org/places/334636)
 
 #### TGN ID
 [7001328](http://vocab.getty.edu/page/tgn/7001328)

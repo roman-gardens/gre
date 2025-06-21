@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Wiesbaden-Biebrich]({{<relref ".">}}) \
-[Wiesbaden-Biebrich (Pleiades)](https://pleiades.stoa.org/places/109461)
+[Wiesbaden-Biebrich](https://pleiades.stoa.org/places/109461)
 
 ### Location Description
 

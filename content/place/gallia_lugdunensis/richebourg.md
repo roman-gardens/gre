@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [AUTRICUM (Chartres, France)]({{<relref ".">}}) \
-[AUTRICUM (Pleiades)](https://pleiades.stoa.org/places/108778)
+[AUTRICUM](https://pleiades.stoa.org/places/108778)
 
 <!--### Location Description-->
 

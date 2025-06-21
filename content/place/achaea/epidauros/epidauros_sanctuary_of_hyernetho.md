@@ -30,7 +30,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Epidauros]({{<relref ".">}}) \
-[Epidauros (Pleiades)](https://pleiades.stoa.org/places/570228)
+[Epidauros](https://pleiades.stoa.org/places/570228)
 
 <!--### Location Description
 

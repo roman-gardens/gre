@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [Villa at site 10]({{<relref ".">}}) \
-[Villa at site 10 (Pleiades)](https://pleiades.stoa.org/places/622606468)
+[Villa at site 10](https://pleiades.stoa.org/places/622606468)
 
 <!--### Location Description-->
 

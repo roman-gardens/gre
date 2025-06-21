@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Benalmadena-Costa]({{<relref ".">}}) \
-[Benalmadena-Costa (Pleiades)](https://pleiades.stoa.org/places/510567671)
+[Benalmadena-Costa](https://pleiades.stoa.org/places/510567671)
 
 ### Location Description
 

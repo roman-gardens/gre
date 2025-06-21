@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [via latina]({{<relref ".">}}) \
-[via latina (Pleiades)](https://pleiades.stoa.org/places/93042695)
+[via latina](https://pleiades.stoa.org/places/93042695)
 
 <!--### Location Description-->
 

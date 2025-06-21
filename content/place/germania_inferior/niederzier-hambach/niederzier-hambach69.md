@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Niederzier-Hambach]({{<relref ".">}}) \
-[Niederzier-Hambach (Pleiades)](https://pleiades.stoa.org/places/109210)
+[Niederzier-Hambach](https://pleiades.stoa.org/places/109210)
 
 ### Location Description
 
@@ -88,7 +88,7 @@ Late first century CE until the fourth century CE.
 
 #### Pleiades ID
 
-[109210](https://pleiades.stoa.org/places/109210)
+[Niederzier-Hambach](https://pleiades.stoa.org/places/109210)
 
 #### TGN ID
 

@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Frocester Court]({{<relref ".">}}) \
-[Frocester Court (Pleiades)](https://pleiades.stoa.org/places/79471)
+[Frocester Court](https://pleiades.stoa.org/places/79471)
 
 <!--### Location Description-->
 

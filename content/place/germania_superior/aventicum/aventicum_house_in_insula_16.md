@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Aventicum]({{<relref ".">}}) \
-[Aventicum (Pleiades)](https://pleiades.stoa.org/places/177495)
+[Aventicum](https://pleiades.stoa.org/places/177495)
 
 ### Location Description
 
@@ -89,7 +89,7 @@ AD 71
 
 #### Pleiades ID
 
-[177495](https://pleiades.stoa.org/places/177495)
+[Aventicum](https://pleiades.stoa.org/places/177495)
 
 #### TGN ID
 

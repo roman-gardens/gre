@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Latimer]({{<relref ".">}}) \
-[Latimer (Pleiades)](https://pleiades.stoa.org/places/79555)
+[Latimer](https://pleiades.stoa.org/places/79555)
 
 <!--### Location Description-->
 

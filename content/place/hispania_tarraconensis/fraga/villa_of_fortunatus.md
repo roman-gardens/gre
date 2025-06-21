@@ -46,7 +46,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 ## Location
 
 [Villa Fortunatus]({{<relref ".">}}) \
-[Villa Fortunatus (Pleiades)](https://pleiades.stoa.org/places/907088811)
+[Villa Fortunatus](https://pleiades.stoa.org/places/907088811)
 
 
 ### Location Description

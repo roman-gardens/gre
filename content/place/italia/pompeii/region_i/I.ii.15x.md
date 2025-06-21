@@ -30,7 +30,7 @@ This appears to be a duplicate of [id/01eee45763](/id/01eee45763)
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
+[Pompeii](https://pleiades.stoa.org/places/433032)
 
 <!--### Location Description-->
 

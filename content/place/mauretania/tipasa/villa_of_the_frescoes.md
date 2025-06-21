@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 [Tipasa]({{<relref ".">}}) \
-[Tipasa (Pleiades)](https://pleiades.stoa.org/places/295363)
+[Tipasa](https://pleiades.stoa.org/places/295363)
 
 ### Location Description
 

@@ -13,19 +13,19 @@ draft: false
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[Italia](https://pleiades.stoa.org/places/1052) \
+[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma](https://pleiades.stoa.org/places/423025)
 
 ## Sublocation
 
 [Palatine]({{<relref ".">}}) \
-Palatine Hill [Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208) \
-Esquiline Hill [Esquilinus Mons (Pleiades)](https://pleiades.stoa.org/places/679976755)
+Palatine Hill [Mons Palatinus](https://pleiades.stoa.org/places/971691208) \
+Esquiline Hill [Esquilinus Mons](https://pleiades.stoa.org/places/679976755)
 
 
 
@@ -96,7 +96,7 @@ RELATED PHASES ON THE PALATINE:
 
 #### Pleiades ID
 
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
+[Palatine Hill](https://pleiades.stoa.org/places/971691208)
 
 ### Contributor
 

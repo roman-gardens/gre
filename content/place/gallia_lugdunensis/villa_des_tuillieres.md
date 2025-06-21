@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [SELONGEY (Côte d'Or, France)]({{<relref ".">}}) \
-[SELONGEY (Pleiades)](https://pleiades.stoa.org/places/177578)
+[SELONGEY](https://pleiades.stoa.org/places/177578)
 
 <!--### Location Description-->
 

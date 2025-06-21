@@ -20,11 +20,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+[Italia](https://pleiades.stoa.org/places/1052)
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
+[Pompeii](https://pleiades.stoa.org/places/433032)
 
 
 ### Location Description
@@ -50,7 +50,7 @@ The room (b) to the east had a good view into this garden (a) which was located 
 {{< image src="fig._4_region_viii_insula_ii_13.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/538911200)
+[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/2053030)

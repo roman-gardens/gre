@@ -20,7 +20,7 @@ tag:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
+[Africa proconsularis](https://pleiades.stoa.org/places/991341)
 
 ### Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -28,7 +28,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 [Aspis/Clupea (Kelibia)]({{<relref ".">}}) \
-[Aspis/Clupea (Pleiades)](https://pleiades.stoa.org/places/314892)
+[Aspis/Clupea](https://pleiades.stoa.org/places/314892)
 
 ### Location Description
 The city was built along the slope of the hill several kilometers northwest of the present town. Excavations revealed the Capitol and an important residential district descending in successive levels towards the bank.
@@ -84,7 +84,7 @@ Late 1st-4th century CE
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[314892](https://pleiades.stoa.org/places/314892)
+[Aspis/Clipea](https://pleiades.stoa.org/places/314892)
 
 #### TGN ID
 [7001037](http://vocab.getty.edu/page/tgn/7001037)

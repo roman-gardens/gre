@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [FLIESSEM-OTRANG  (Germany)]({{<relref ".">}}) \
-[FLIESSEM-OTRANG  (Pleiades)](https://pleiades.stoa.org/places/108982)
+[FLIESSEM-OTRANG ](https://pleiades.stoa.org/places/108982)
 
 <!--### Location Description-->
 

@@ -23,29 +23,29 @@ tags:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[Italia](https://pleiades.stoa.org/places/1052) \
+[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma](https://pleiades.stoa.org/places/423025)
 
 ## Sublocation
 
 [Region III Isis et Serapis]({{<relref ".">}}) \
 Oppian Hill \
-Palantine Hill, [Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208) \
-Velian Hill, [Mons Velia (Pleiades)](https://pleiades.stoa.org/places/157710058) \
-Caelian Hill, [Caelius Mons (Pleiades)](https://pleiades.stoa.org/places/695491849) \
-Esquiline Hill, [Esquilinus Mons (Pleiades)](https://pleiades.stoa.org/places/679976755)
+Palantine Hill, [Mons Palatinus](https://pleiades.stoa.org/places/971691208) \
+Velian Hill, [Mons Velia](https://pleiades.stoa.org/places/157710058) \
+Caelian Hill, [Caelius Mons](https://pleiades.stoa.org/places/695491849) \
+Esquiline Hill, [Esquilinus Mons](https://pleiades.stoa.org/places/679976755)
 
 
 
 ## Garden
 
 Garden of the Domus Aurea \
-[Domus Aurea (Pleiades)](https://pleiades.stoa.org/places/410440793)
+[Domus Aurea](https://pleiades.stoa.org/places/410440793)
 
 ### Keywords
 

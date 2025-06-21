@@ -21,18 +21,18 @@ tags:
 
 ## Location
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
+[Pompeii](https://pleiades.stoa.org/places/433032)
 
 <!--### Location Description-->
 <!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Sublocation
 [Region II]({{<relref "../..">}}) \
-[Region II (Pleiades)](https://pleiades.stoa.org/places/456321707)
+[Region II](https://pleiades.stoa.org/places/456321707)
 
 
 ## House
-[House of Messius Ampliatus(II.ii.4) (Pleiades)](https://pleiades.stoa.org/places/634179974)
+[House of Messius Ampliatus(II.ii.4)](https://pleiades.stoa.org/places/634179974)
 
 
 ## Garden

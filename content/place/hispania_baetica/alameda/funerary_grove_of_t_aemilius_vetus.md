@@ -24,7 +24,7 @@ categories:
 ## Location
 
 [Alameda]({{<relref ".">}}) \
-[Alameda (Pleiades)](https://pleiades.stoa.org/places/270382)
+[Alameda](https://pleiades.stoa.org/places/270382)
 
 ### Location Description
 

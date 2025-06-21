@@ -32,7 +32,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Aulis]({{<relref ".">}}) \
-[Aulis (Pleiades)](https://pleiades.stoa.org/places/579889)
+[Aulis](https://pleiades.stoa.org/places/579889)
 
 <!--### Location Description-->
 

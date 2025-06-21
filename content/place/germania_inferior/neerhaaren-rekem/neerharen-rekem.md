@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Neerhaaren-Rekem]({{<relref ".">}}) \
-[Neerhaaren-Rekem (Pleiades)](https://pleiades.stoa.org/places/109193)
+[Neerhaaren-Rekem](https://pleiades.stoa.org/places/109193)
 
 <!--### Location Description-->
 

@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Romula]({{<relref ".">}}) \
-[Romula (Pleiades)](https://pleiades.stoa.org/places/981518)
+[Romula](https://pleiades.stoa.org/places/981518)
 
 <!--### Location Description-->
 
@@ -91,7 +91,7 @@ Later second century/third century
 
 #### Pleiades ID
 
-[981518](https://pleiades.stoa.org/places/981518)
+[Dacia (province)](https://pleiades.stoa.org/places/981518)
 
 #### TGN ID
 

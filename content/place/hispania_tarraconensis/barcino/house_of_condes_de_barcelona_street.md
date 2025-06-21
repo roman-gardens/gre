@@ -45,7 +45,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 [Barcino]({{<relref ".">}}) \
-[Barcino (Pleiades)](https://pleiades.stoa.org/places/246343)
+[Barcino](https://pleiades.stoa.org/places/246343)
 <!-- before the word description, and -->
 <!-- LEAVE THIS BLANK FOR NOW -->
 

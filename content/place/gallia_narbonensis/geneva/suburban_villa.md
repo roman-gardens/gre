@@ -16,7 +16,7 @@ categories:
 ### Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis (Pleiades)](https://pleiades.stoa.org/places/981537)
+[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
 
 <!-- ### Province Description -->
 
@@ -84,7 +84,7 @@ None Available
 #### TGN ID
 
 [7030317](http://vocab.getty.edu/page/tgn/7030317)
-[177528](https://pleiades.stoa.org/places/177528)
+[Genava](https://pleiades.stoa.org/places/177528)
 
 ### Contributor
 

@@ -44,7 +44,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 [Liedena]({{<relref ".">}}) \
-[Liedena (Pleiades)](https://pleiades.stoa.org/places/976648082)
+[Liedena](https://pleiades.stoa.org/places/976648082)
 
 
 ### Location Description

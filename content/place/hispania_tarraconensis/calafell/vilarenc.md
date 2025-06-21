@@ -46,7 +46,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 ## Location
 
 [Vilarenc]({{<relref ".">}}) \
-[Vilarenc (Pleiades)](https://pleiades.stoa.org/places/789886461)
+[Vilarenc](https://pleiades.stoa.org/places/789886461)
 <!-- before the word description, and -->
 <!-- LEAVE THIS BLANK FOR NOW -->
 

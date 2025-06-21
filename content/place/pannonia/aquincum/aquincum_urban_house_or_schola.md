@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Aquincum]({{<relref ".">}}) \
-[Aquincum (Pleiades)](https://pleiades.stoa.org/places/1971301)
+[Aquincum](https://pleiades.stoa.org/places/1971301)
 
 ### Location Description
 

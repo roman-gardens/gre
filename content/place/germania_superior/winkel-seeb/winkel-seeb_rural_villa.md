@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Winkel-Seeb]({{<relref ".">}}) \
-[Winkel-Seeb (Pleiades)](https://pleiades.stoa.org/places/177667)
+[Winkel-Seeb](https://pleiades.stoa.org/places/177667)
 
 <!--### Location Description-->
 

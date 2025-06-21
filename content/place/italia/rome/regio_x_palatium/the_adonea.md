@@ -13,18 +13,18 @@ draft: true
 ## Province
 
 [ITALIA]({{<relref "../..">}}) \
-[ITALIA (Pleiades)](https://pleiades.stoa.org/places/1052) \
-[ITALIA, REGIO I (Pleiades)](https://pleiades.stoa.org/places/441075550)
+[ITALIA](https://pleiades.stoa.org/places/1052) \
+[ITALIA, REGIO I](https://pleiades.stoa.org/places/441075550)
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma (Pleiades)](https://pleiades.stoa.org/places/423025)
+[Roma](https://pleiades.stoa.org/places/423025)
 
 ## Sublocation
 
 [Palatine]({{<relref ".">}}) \
-[Mons Palatinus (Pleiades)](https://pleiades.stoa.org/places/971691208)
+[Mons Palatinus](https://pleiades.stoa.org/places/971691208)
 
 
 
@@ -61,7 +61,7 @@ unspecified
 
 #### Pleiades ID
 
-[Palatine Hill (Pleiades)](https://pleiades.stoa.org/places/971691208)
+[Palatine Hill](https://pleiades.stoa.org/places/971691208)
 
 ### Contributor
 

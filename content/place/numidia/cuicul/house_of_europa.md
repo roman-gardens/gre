@@ -34,7 +34,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 [Cuicul]({{<relref ".">}}) \
-[Cuicul (Pleiades)](https://pleiades.stoa.org/places/305068)
+[Cuicul](https://pleiades.stoa.org/places/305068)
 
 
 {{< image src="cuicul_house_of_europa.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
@@ -95,7 +95,7 @@ Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century
 *  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](http://www.worldcat.org/oclc/1090653355)
 
 #### Pleiades ID
-[305068](https://pleiades.stoa.org/places/305068)
+[Cuicul](https://pleiades.stoa.org/places/305068)
 #### TGN ID
 
 ### Contributor

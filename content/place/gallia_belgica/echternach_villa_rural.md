@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [ECHTERNACH (Luxembourg)]({{<relref ".">}}) \
-[ECHTERNACH (Pleiades)](https://pleiades.stoa.org/places/108955)
+[ECHTERNACH](https://pleiades.stoa.org/places/108955)
 
 <!--### Location Description-->
 

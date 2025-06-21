@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Bad Kreuznach]({{<relref ".">}}) \
-[Bad Kreuznach (Pleiades)](https://pleiades.stoa.org/places/981525)
+[Bad Kreuznach](https://pleiades.stoa.org/places/981525)
 
 <!--### Location Description-->
 

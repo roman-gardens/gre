@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Vallon]({{<relref ".">}}) \
-[Vallon (Pleiades)](https://pleiades.stoa.org/places/981525)
+[Vallon](https://pleiades.stoa.org/places/981525)
 
 <!--### Location Description-->
 

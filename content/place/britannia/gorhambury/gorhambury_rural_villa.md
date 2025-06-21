@@ -25,7 +25,7 @@ tags:
 ## Location
 
 [Gorhambury]({{<relref ".">}}) \
-[Gorhambury (Pleiades)](https://pleiades.stoa.org/places/79485)
+[Gorhambury](https://pleiades.stoa.org/places/79485)
 
 <!--### Location Description-->
 

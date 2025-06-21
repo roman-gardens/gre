@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [via tiburtina]({{<relref ".">}}) \
-[via tiburtina (Pleiades)](https://pleiades.stoa.org/places/272213281)
+[via tiburtina](https://pleiades.stoa.org/places/272213281)
 
 <!--### Location Description-->
 

@@ -42,7 +42,7 @@ The creation of the province of Pannonia can be dated to the years following 9 B
 
 #### Pleiades ID
 
-[197425](https://pleiades.stoa.org/places/197425)
+[Pannonia](https://pleiades.stoa.org/places/197425)
 
 #### TGN ID
 

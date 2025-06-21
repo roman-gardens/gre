@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [COLONIA AUGUSTA TREVERORUM (Trier, Germany)]({{<relref ".">}}) \
-[COLONIA AUGUSTA TREVERORUM (Pleiades)](https://pleiades.stoa.org/places/113319)
+[COLONIA AUGUSTA TREVERORUM](https://pleiades.stoa.org/places/113319)
 
 <!--### Location Description-->
 

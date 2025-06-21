@@ -17,7 +17,7 @@ categories:
 [Italia]({{<relref "../../../..">}})
 
 ## Location
-[Laurentes (Pleiades)](https://pleiades.stoa.org/places/422959)
+[Laurentes](https://pleiades.stoa.org/places/422959)
 
 <!--### Location Description-->
 

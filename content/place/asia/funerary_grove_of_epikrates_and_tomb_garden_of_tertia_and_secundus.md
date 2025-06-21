@@ -36,7 +36,7 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 ## Location
 
 [Nakrason]({{<relref ".">}}) \
-[Nakrason (Pleiades)](https://pleiades.stoa.org/places/550767)
+[Nakrason](https://pleiades.stoa.org/places/550767)
 
 <!--### Location Description-->
 

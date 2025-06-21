@@ -33,7 +33,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Athens]({{<relref ".">}}) \
-[Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
+[Athens](https://pleiades.stoa.org/places/579885)
 
 <!--### Location Description-->
 
@@ -41,7 +41,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Sublocation
 
-[Areopagus (Pleiades)](https://pleiades.stoa.org/places/969121823)
+[Areopagus](https://pleiades.stoa.org/places/969121823)
 
 <!--### Sublocation Description-->
 
@@ -91,7 +91,7 @@ mid-4th century CE and earlier
 
 #### Pleiades ID
 
-[969121823](https://pleiades.stoa.org/places/969121823)
+[Areopagus](https://pleiades.stoa.org/places/969121823)
 
 #### TGN ID
 

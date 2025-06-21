@@ -31,7 +31,7 @@ tags:
 ## Location
 
 [Altinum]({{<relref ".">}}) \
-[Altinum (Pleiades)](https://pleiades.stoa.org/places/197110)
+[Altinum](https://pleiades.stoa.org/places/197110)
 
 <!--### Location Description-->
 

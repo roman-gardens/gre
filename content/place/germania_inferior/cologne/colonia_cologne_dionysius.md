@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Cologne]({{<relref ".">}}) \
-[Cologne (Pleiades)](https://pleiades.stoa.org/places/108751)
+[Cologne](https://pleiades.stoa.org/places/108751)
 
 ### Location Description
 

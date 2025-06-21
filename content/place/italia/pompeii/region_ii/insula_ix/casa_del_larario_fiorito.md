@@ -21,11 +21,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+[Italia](https://pleiades.stoa.org/places/1052)
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
+[Pompeii](https://pleiades.stoa.org/places/433032)
 
 
 ### Location Description
@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IX]({{<relref ".">}})
 
 ### Keywords
- - [porticoes]]
+ - [porticoes]
  - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300142552)
  - [charcoal](http://vocab.getty.edu/page/aat/300012862)]
  - [pollen](http://vocab.getty.edu/page/aat/300213002)

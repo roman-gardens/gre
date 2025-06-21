@@ -16,7 +16,7 @@ categories:
 ### Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis (Pleiades)](https://pleiades.stoa.org/places/981537)
+[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
 
 ### Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [forum_juji]({{<relref ".">}}) \
-[forum_juji (Pleiades)](https://pleiades.stoa.org/places/307416064)
+[forum_juji](https://pleiades.stoa.org/places/307416064)
 
 ### Location Description
 

@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Toledo]({{<relref "../../../..">}})
-[Toletum (Pleiades)](https://pleiades.stoa.org/places/266066)
+[Toletum](https://pleiades.stoa.org/places/266066)
 
 <!--### Province Description-->
 
@@ -24,7 +24,7 @@ categories:
 ## Location
 
 [Rielves]({{<relref ".">}}) \
-[El Solao (Pleiades)](https://pleiades.stoa.org/places/266044)
+[El Solao](https://pleiades.stoa.org/places/266044)
 
 ### Location Description
 A village of about 600 inhabitants 19 kilometers northwest of Toledo.  The ruins of the villa are often called "termas" (baths).

@@ -36,7 +36,7 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 ## Location
 
 [Pergamum (Pergamon; Bergama, Turkey)]({{<relref ".">}}) \
-[Pergamum (Pleiades)](https://pleiades.stoa.org/places/550812)
+[Pergamum](https://pleiades.stoa.org/places/550812)
 
 ### Location Description
 

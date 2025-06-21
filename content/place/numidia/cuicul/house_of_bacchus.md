@@ -35,7 +35,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 [Cuicul]({{<relref ".">}}) \
-[Cuicul (Pleiades)](https://pleiades.stoa.org/places/305068)
+[Cuicul](https://pleiades.stoa.org/places/305068)
 
 {{< image src="cuicul_house_of_bacchus.jpg" alt="Plan of Cuicul." title="Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
@@ -103,7 +103,7 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 * Malek, A.-A. "De l’espace pictural à l’espace du jardin : mosaïques et jardins dans les domus de l’Afrique romaine", in *Archéologie des jardins: analyse des espaces et méthodes d’approches*,  Van Ossel, P.,  Guimier-Sorbets, A.-M. (dir.), Archéologie et histoire romaine 26, Editions Monique Mergoil, 2014, p. 20. [(worldcat)](http://www.worldcat.org/oclc/869205223)
 
 #### Pleiades ID
-[305068](https://pleiades.stoa.org/places/305068)
+[Cuicul](https://pleiades.stoa.org/places/305068)
 #### TGN ID
 
 ### Contributor

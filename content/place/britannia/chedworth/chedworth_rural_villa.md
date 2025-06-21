@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Chedworth]({{<relref ".">}}) \
-[Chedworth (Pleiades)](https://pleiades.stoa.org/places/79383)
+[Chedworth](https://pleiades.stoa.org/places/79383)
 
 <!--### Location Description-->
 

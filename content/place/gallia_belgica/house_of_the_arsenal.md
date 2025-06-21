@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [DIVODURUM MEDIOMATRICORUM (Metz, France)]({{<relref ".">}}) \
-[DIVODURUM MEDIOMATRICORUM (Pleiades)](https://pleiades.stoa.org/places/108927)
+[DIVODURUM MEDIOMATRICORUM](https://pleiades.stoa.org/places/108927)
 
 <!--### Location Description-->
 

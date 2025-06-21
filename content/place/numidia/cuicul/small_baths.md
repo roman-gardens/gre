@@ -33,7 +33,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 [Cuicul]({{<relref ".">}}) \
-[Cuicul (Pleiades)](https://pleiades.stoa.org/places/305068)
+[Cuicul](https://pleiades.stoa.org/places/305068)
 
 
 {{< image src="cuicul_small_baths.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
@@ -89,7 +89,7 @@ Early 3rd century CE
 * Malek, A.-A., "Le jardin au fil de l’eau : mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l’époque romaine*, eds, Brouquier-Reddé, V. et  Hurlet, Bordeaux, F., Ausonius, 2018, pp. 248-249. [(worldcat)](http://www.worldcat.org/oclc/1078217356)
 
 #### Pleiades ID
-[305068](https://pleiades.stoa.org/places/305068)
+[Cuicul](https://pleiades.stoa.org/places/305068)
 #### TGN ID
 
 ### Contributor

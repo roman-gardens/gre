@@ -46,7 +46,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 [Puente de la Olmilla]({{<relref ".">}}) \
-[Puente de la Olmilla (Pleiades)](https://pleiades.stoa.org/places/266009)
+[Puente de la Olmilla](https://pleiades.stoa.org/places/266009)
 
 <!--### Location Description-->
 

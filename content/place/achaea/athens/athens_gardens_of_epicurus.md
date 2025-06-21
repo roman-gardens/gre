@@ -26,7 +26,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 [Athens]({{<relref ".">}}) \
-[Athens (Pleiades)](https://pleiades.stoa.org/places/579885)
+[Athens](https://pleiades.stoa.org/places/579885)
 
 ## Sublocation
 [Dipylon Gate](https://pleiades.stoa.org/places/310115518)

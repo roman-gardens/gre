@@ -52,7 +52,7 @@ tags:
 ## Location
 
 [Sirmio]({{<relref ".">}}) \
-[Sirmio (Pleiades)](https://pleiades.stoa.org/places/383781)
+[Sirmio](https://pleiades.stoa.org/places/383781)
 
 <!--### Location Description-->
 

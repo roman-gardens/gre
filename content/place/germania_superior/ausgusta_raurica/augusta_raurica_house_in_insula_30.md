@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Augusta Raurica]({{<relref ".">}}) \
-[Augusta Raurica (Pleiades)](https://pleiades.stoa.org/places/177494)
+[Augusta Raurica](https://pleiades.stoa.org/places/177494)
 
 ### Location Description
 
@@ -94,7 +94,7 @@ Insula: 200 A.D.
 
 #### Pleiades ID
 
-[177494](https://pleiades.stoa.org/places/177494)
+[Col. Augusta Raurica](https://pleiades.stoa.org/places/177494)
 
 #### TGN ID
 

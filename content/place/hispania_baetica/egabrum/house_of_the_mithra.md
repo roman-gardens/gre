@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Egabrum]({{<relref ".">}}) \
-[Egabrum (Pleiades)](https://pleiades.stoa.org/places/265919)
+[Egabrum](https://pleiades.stoa.org/places/265919)
 
 ### Location Description
 

@@ -29,7 +29,7 @@ tags:
 ## Location
 
 [Vardagate]({{<relref "../../..">}}) \
-[Vardagate (Pleiades)](https://pleiades.stoa.org/places/383809)
+[Vardagate](https://pleiades.stoa.org/places/383809)
 
 <!--### Location Description-->
 

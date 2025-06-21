@@ -21,11 +21,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+[Italia](https://pleiades.stoa.org/places/1052)
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
+[Pompeii](https://pleiades.stoa.org/places/433032)
 
 
 ### Location Description
@@ -52,7 +52,7 @@ B. Built on the volcanic ledge, only a triangular segment of this terrace garden
 {{< image src="fig._4_region_viii_insula_ii_14_16_a.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/538911200)
+[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/2053030)

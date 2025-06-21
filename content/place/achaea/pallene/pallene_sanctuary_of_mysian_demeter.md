@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Pallene]({{<relref ".">}}) \
-[Pallene (Pleiades)](https://pleiades.stoa.org/places/580051)
+[Pallene](https://pleiades.stoa.org/places/580051)
 
 <!--### Location Description-->
 

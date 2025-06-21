@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-[Lusitania (Pleiades)](https://pleiades.stoa.org/places/1101)
+[Lusitania](https://pleiades.stoa.org/places/1101)
 
 ### Province Description
 
@@ -25,7 +25,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 [Conimbriga]({{<relref ".">}}) \
-[Conimbriga (Pleiades)](https://pleiades.stoa.org/places/236443)
+[Conimbriga](https://pleiades.stoa.org/places/236443)
 
 ### Location Description
 
@@ -79,7 +79,7 @@ Far more modest than the House of Cantaber but following the same general ideas 
 
 #### Pleiades ID
 
-[236443](https://pleiades.stoa.org/places/236443)
+[Conimbriga](https://pleiades.stoa.org/places/236443)
 
 <!--#### TGN ID
 [7031751](http://vocab.getty.edu/page/tgn/7031751) -->

@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Winden Am See]({{<relref ".">}}) \
-[Winden Am See (Pleiades)](https://pleiades.stoa.org/places/197425)
+[Winden Am See](https://pleiades.stoa.org/places/197425)
 
 <!--### Location Description-->
 
@@ -84,7 +84,7 @@ On the southeast of the house was a vestibule, from which a central corridor dep
 
 #### Pleiades ID
 
-[197425](https://pleiades.stoa.org/places/197425)
+[Pannonia](https://pleiades.stoa.org/places/197425)
 
 #### TGN ID
 

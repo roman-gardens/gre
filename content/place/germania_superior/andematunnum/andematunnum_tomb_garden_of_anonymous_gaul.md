@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Andematunnum]({{<relref ".">}}) \
-[Andematunnum (Pleiades)](https://pleiades.stoa.org/places/177441)
+[Andematunnum](https://pleiades.stoa.org/places/177441)
 
 <!--### Location Description-->
 

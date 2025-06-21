@@ -16,7 +16,7 @@ categories:
 ### Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis (Pleiades)](https://pleiades.stoa.org/places/981537)
+[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
 
 ### Province Description
 
@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 
 [Toulouse]({{<relref ".">}}) \
-[Toulouse (Pleiades)](https://pleiades.stoa.org/places/246694)
+[Toulouse](https://pleiades.stoa.org/places/246694)
 
 ### Location Description
 
@@ -98,7 +98,7 @@ After original finds in 1979, further vestiges of a domus came to light during s
 #### Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
-[2466694](https://pleiades.stoa.org/places/246694)
+[Tolosa](https://pleiades.stoa.org/places/246694)
 
 #### TGN ID
 

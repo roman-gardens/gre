@@ -16,7 +16,7 @@ categories:
 ### Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis (Pleiades)](https://pleiades.stoa.org/places/981537)
+[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
 ### Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [arausio]({{<relref ".">}}) \
-[arausio (Pleiades)](https://pleiades.stoa.org/places/148054)
+[arausio](https://pleiades.stoa.org/places/148054)
 
 ### Location Description
 

@@ -35,7 +35,7 @@ tags:
 ## Location
 
 [LA SPEZIA]({{<relref "../../..">}}) \
-[LA SPEZIA (Pleiades)](https://pleiades.stoa.org/places/966420455)
+[LA SPEZIA](https://pleiades.stoa.org/places/966420455)
 
 <!--### Location Description-->
 

@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under Nero] in the mid-1st century A.D. Epir
 ## Location
 
 [Phigaleia]({{<relref ".">}}) \
-[Phigaleia (Pleiades)](https://pleiades.stoa.org/places/570598)
+[Phigaleia](https://pleiades.stoa.org/places/570598)
 
 <!--### Location Description-->
 

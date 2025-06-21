@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Augusta Raurica]({{<relref ".">}}) \
-[Augusta Raurica (Pleiades)](https://pleiades.stoa.org/places/177494)
+[Augusta Raurica](https://pleiades.stoa.org/places/177494)
 
 ### Location Description
 
@@ -94,7 +94,7 @@ House: AD 150 - ca. 170
 
 #### Pleiades ID
 
-[177494](https://pleiades.stoa.org/places/177494)
+[Col. Augusta Raurica](https://pleiades.stoa.org/places/177494)
 
 #### TGN ID
 
