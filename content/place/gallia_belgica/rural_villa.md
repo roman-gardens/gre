@@ -87,7 +87,7 @@ Unspecified
 
 #### Pleiades ID
 
-[108784](https://pleiades.stoa.org/places/108784)
+[Bad Dürkheim](https://pleiades.stoa.org/places/108784)
 
 #### TGN ID
 [6000727](http://vocab.getty.edu/page/tgn/6000727)

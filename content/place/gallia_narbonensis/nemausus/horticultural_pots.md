@@ -78,7 +78,7 @@ The archeologists of Nîmes have been particularly sensitive to the presence of 
 
 #### Pleiades ID
 
-[981537](https://pleiades.stoa.org/places/981537)
+[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
 #### TGN ID
 

@@ -107,7 +107,7 @@ With porticoes on three sides and measuring 23 x 14.5m, this courtyard, known as
 
 #### Pleiades ID
 
-[687917](https://pleiades.stoa.org/places/687917)
+[Jericho](https://pleiades.stoa.org/places/687917)
 
 <!--#### TGN ID
 

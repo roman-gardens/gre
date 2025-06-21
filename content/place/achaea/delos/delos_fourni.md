@@ -74,7 +74,7 @@ The core building of the **House of Fourni** is arranged along a main axis with 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[599588 (Delos, island)](https://pleiades.stoa.org/places/599588)
+[Delos (island)](https://pleiades.stoa.org/places/599588)
 
 #### TGN ID
 [7011273 (Dhílos,island)](http://vocab.getty.edu/page/tgn/7011273)

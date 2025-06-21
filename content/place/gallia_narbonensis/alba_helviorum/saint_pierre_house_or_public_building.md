@@ -86,7 +86,7 @@ The western wing, of which 30 m is known, has rooms richly decorated with marble
 
 #### Pleiades ID
 
-[981537](https://pleiades.stoa.org/places/981537)
+[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
 #### TGN ID
 

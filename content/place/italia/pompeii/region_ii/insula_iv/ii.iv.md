@@ -40,9 +40,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula IV]({{<relref "..">}})
 
-<!-- pleiades link is invalid
 ## House
-[House of Julia Felix (Pleiades)](https://pleiades.stoa.org/places/955554415)-->
+[House of Julia Felix (Pleiades)](https://pleiades.stoa.org/places/205387552)-->
 
 ## Garden
 Three separate gardens in the Praedia di Julia Felix.
@@ -120,7 +119,7 @@ Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
 
 #### Pleiades ID
 
-[955554415](https://pleiades.stoa.org/places/955554415)
+[955554415](https://pleiades.stoa.org/places/205387552)
 
 
 

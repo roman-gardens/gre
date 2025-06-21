@@ -69,8 +69,7 @@ The House of the Columns, approximately 1880 square meters, is located to the no
 
 #### Pleiades ID
 
-<!--[79312](https://pleiades.stoa.org/places/79312)
--->
+
 
 #### TGN ID
 

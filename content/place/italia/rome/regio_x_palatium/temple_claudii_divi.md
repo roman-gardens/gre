@@ -43,7 +43,7 @@ Garden of the Temple of Divine Claudius, Palatine
 
 ### Keywords
 
-- [aqueduct](http://vocab.getty.edu/page/aat/300006165)
+- [aqueducts](http://vocab.getty.edu/page/aat/300006165)
 - [cisterns (plumbing component)](http://vocab.getty.edu/page/aat/300052558)
 - [nemus (grove)](http://vocab.getty.edu/page/aat/300008884)
 - [niche (architectural element)](http://vocab.getty.edu/page/aat/300002704)

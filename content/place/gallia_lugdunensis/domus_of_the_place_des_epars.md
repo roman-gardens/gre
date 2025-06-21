@@ -77,7 +77,7 @@ Unspecified
 
 #### Pleiades ID
 
-[108778](https://pleiades.stoa.org/places/108778)
+[Autricum](https://pleiades.stoa.org/places/108778)
 
 #### TGN ID
 [6003548](http://vocab.getty.edu/page/tgn/6003548)

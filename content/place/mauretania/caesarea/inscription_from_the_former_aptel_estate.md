@@ -72,7 +72,6 @@ An inscription CIL VIII 21081 mentioning a pool covered by a wine trellis suppor
 
 #### Pleiades ID
 
-[79312](https://pleiades.stoa.org/places/79312)
 
 #### TGN ID
 

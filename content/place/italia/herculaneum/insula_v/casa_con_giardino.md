@@ -54,7 +54,7 @@ This humble house had a huge garden (a) which was entered from the long fauceson
 
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+[Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/7031897)

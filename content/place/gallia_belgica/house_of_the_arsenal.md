@@ -77,7 +77,7 @@ Unspecified
 
 #### Pleiades ID
 
-[108927](https://pleiades.stoa.org/places/108927)
+[Divodurum/Mettis](https://pleiades.stoa.org/places/108927)
 
 #### TGN ID
 [6000727](http://vocab.getty.edu/page/tgn/6000727)

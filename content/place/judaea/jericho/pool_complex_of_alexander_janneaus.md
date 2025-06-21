@@ -104,7 +104,7 @@ By 90 BCE, Jannaeus was experiencing political and military difficulties, and it
 
 #### Pleiades ID
 
-[687917](https://pleiades.stoa.org/places/687917)
+[Jericho](https://pleiades.stoa.org/places/687917)
 
 <!--#### TGN ID
 

@@ -70,7 +70,7 @@ Unspecified
 
 #### Pleiades ID
 
-[108896](https://pleiades.stoa.org/places/108896)
+[Col. Ulpia Traiana/Tricensimae](https://pleiades.stoa.org/places/108896)
 
 #### TGN ID
 [7208125](http://vocab.getty.edu/page/tgn/7208125)

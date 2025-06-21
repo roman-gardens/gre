@@ -84,7 +84,7 @@ Unspecified
 
 #### Pleiades ID
 
-[108955](https://pleiades.stoa.org/places/108955)
+[Epternacus](https://pleiades.stoa.org/places/108955)
 
 #### TGN ID
 [6000727](http://vocab.getty.edu/page/tgn/6000727)

@@ -55,7 +55,7 @@ Directly south of the Great Palaestra there is a peristyle garden (a) enclosed b
 
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+[Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/7031897)

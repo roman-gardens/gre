@@ -90,7 +90,7 @@ The residence perhaps enjoyed an exterior garden in the vast open space of arabl
 
 #### Pleiades ID
 
-[981537](https://pleiades.stoa.org/places/981537)
+[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
 #### TGN ID
 

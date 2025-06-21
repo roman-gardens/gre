@@ -61,7 +61,7 @@ The Palaestra was crossed by Burbon tunnels in 1756-1760 and partially excavated
 {{< image src="h_garden_casa_rilievo.jpg" alt="Herculaneum - Garden at rear of Casa del Rilievo di Telefo" title="Herculaneum - Garden at rear of Casa del Rilievo di Telefo." >}}
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+[Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/7031897)

@@ -123,7 +123,7 @@ A huge pool (90 x 40 m.) built to the east of the sunken garden formed an integr
 
 #### Pleiades ID
 
-[687917](https://pleiades.stoa.org/places/687917)
+[Jericho](https://pleiades.stoa.org/places/687917)
 
 <!--#### TGN ID
 

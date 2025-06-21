@@ -110,7 +110,7 @@ unspecified
 
 #### Pleiades ID
 
-[107524051](https://pleiades.stoa.org/places/107524051)
+[Temple of Poseidon at Isthmia](https://pleiades.stoa.org/places/107524051)
 
 #### TGN ID
 

@@ -75,7 +75,6 @@ Third century CE
 
 #### Pleiades ID
 
-[79312](https://pleiades.stoa.org/places/79312)
 
 #### TGN ID
 

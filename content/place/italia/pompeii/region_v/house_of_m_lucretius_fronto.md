@@ -93,8 +93,8 @@ Unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[1052](https://pleiades.stoa.org/places/1052) \
-[433032](https://pleiades.stoa.org/places/433032)
+[Italia](https://pleiades.stoa.org/places/1052) \
+[Pompeii](https://pleiades.stoa.org/places/433032)
 
 #### TGN ID
 

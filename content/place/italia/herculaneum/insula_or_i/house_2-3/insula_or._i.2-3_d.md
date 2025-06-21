@@ -53,7 +53,7 @@ D. A rustic shrine was attached to the north side of the house and a long narrow
 
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+[Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/7031897)

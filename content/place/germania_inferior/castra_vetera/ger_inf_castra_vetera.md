@@ -96,7 +96,7 @@ Unspecified
 
 #### Pleiades ID
 
-[108867](https://pleiades.stoa.org/places/108867)
+[Castra Vetera](https://pleiades.stoa.org/places/108867)
 
 #### TGN ID
 

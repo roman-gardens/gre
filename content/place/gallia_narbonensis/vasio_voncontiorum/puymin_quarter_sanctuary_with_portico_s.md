@@ -92,7 +92,7 @@ A.D. 1-100 constructed
 
 #### Pleiades ID
 
-[981537](https://pleiades.stoa.org/places/981537)
+[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
 #### TGN ID
 

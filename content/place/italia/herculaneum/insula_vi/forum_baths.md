@@ -54,7 +54,7 @@ During 1873-1875 the courtyard (a) of the *palaestra* was excavated. A section o
 
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+[Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/7031897)

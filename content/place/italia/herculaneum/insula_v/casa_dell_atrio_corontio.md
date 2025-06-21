@@ -41,7 +41,7 @@ Casa dell’Atrio Corontio
 
 ### Keywords
 - [impluvia]
-- [atrium]
+- [atriums (Roman halls)]
 - [peristyles (Roman courtyards)]
 - [viridarium](#)
 
@@ -58,7 +58,7 @@ A shallow cruciform-shaped *impluvium* was the central feature in the rectangula
 
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+[Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/7031897)

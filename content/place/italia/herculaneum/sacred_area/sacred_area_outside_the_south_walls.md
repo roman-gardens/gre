@@ -55,7 +55,7 @@ The southern edge of town was against a sharp drop to the sea. A terrace located
 {{< image src="herc._scared_area_south_wall_42.12.64.jpg" alt="Sacred Area Outside the South Walls (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Sacred Area Outside the South Walls (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+[Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/7031897)

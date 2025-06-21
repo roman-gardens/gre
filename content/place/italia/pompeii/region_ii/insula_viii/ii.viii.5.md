@@ -55,7 +55,7 @@ B. Another small garden was found to the rear of the [caupona](http://vocab.gett
 {{< image src="../../fig._62,_plan_of_region_ii,_insula_viii.png" alt="Fig. 62, Plan of Region II, insula viii" title="Fig. 62, Plan of Region II, insula viii" >}}-->
 
 #### Pleiades ID
-[456321707](https://pleiades.stoa.org/places/456321707)
+[Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
 #### TGN ID
 [7004658](http://vocab.getty.edu/page/tgn/7004658)

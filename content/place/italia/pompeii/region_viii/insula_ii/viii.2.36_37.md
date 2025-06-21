@@ -36,7 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref ".">}})
 
 ### Keywords
- - [atrium](http://vocab.getty.edu/page/aat/300004097)
+ - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
  - [peristyles](http://vocab.getty.edu/page/aat/300080971)
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 

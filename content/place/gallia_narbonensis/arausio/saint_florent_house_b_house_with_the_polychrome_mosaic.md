@@ -87,7 +87,7 @@ It was of high quality construction with eight black and white floor mosaics wit
 
 #### Pleiades ID
 
-[981537](https://pleiades.stoa.org/places/981537)
+[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
 #### TGN ID
 

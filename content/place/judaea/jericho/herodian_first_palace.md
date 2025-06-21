@@ -101,7 +101,7 @@ This first palace was “introverted” thus giving expression to Herod’s infe
 
 #### Pleiades ID
 
-[687917](https://pleiades.stoa.org/places/687917)
+[Jericho](https://pleiades.stoa.org/places/687917)
 
 <!--#### TGN ID
 

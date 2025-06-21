@@ -59,7 +59,7 @@ B. From the atrium the peristyle on the lower level was reached by way of a stee
 {{< image src="herc.i.2,3_42.19.64.jpg" alt="Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+[Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/7031897)

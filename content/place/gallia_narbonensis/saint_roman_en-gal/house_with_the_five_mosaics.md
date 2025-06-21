@@ -105,7 +105,7 @@ In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the ga
 
 #### Pleiades ID
 
-[981537](https://pleiades.stoa.org/places/981537)
+[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
 #### TGN ID
 

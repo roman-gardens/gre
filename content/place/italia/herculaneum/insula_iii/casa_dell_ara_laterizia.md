@@ -73,7 +73,7 @@ NEW WAY ↓↓↓↓
 {{< image src="Herc.III.19-18,1-2   17.3.78.jpg" alt="Illustration of Casa dell’Ara Laterizia" title="Illustration of Casa dell’Ara Laterizia" >}}
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+[Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/7031897)

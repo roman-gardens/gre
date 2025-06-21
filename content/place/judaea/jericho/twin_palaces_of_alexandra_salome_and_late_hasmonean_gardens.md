@@ -108,7 +108,7 @@ After Alexandra’s death, during the period from 67-32, a large swimming pool (
 
 #### Pleiades ID
 
-[687917](https://pleiades.stoa.org/places/687917)
+[Jericho](https://pleiades.stoa.org/places/687917)
 
 <!--#### TGN ID
 

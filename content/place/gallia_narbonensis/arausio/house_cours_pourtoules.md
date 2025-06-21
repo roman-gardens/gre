@@ -115,7 +115,7 @@ Among the objects found at Cours Pourtoules was a terracotta *oscillum* represen
 
 #### Pleiades ID
 
-[981537](https://pleiades.stoa.org/places/981537)
+[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
 #### TGN ID
 

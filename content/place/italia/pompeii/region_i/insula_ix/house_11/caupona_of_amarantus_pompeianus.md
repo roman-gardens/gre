@@ -96,7 +96,7 @@ Early 1990s
 
 #### Pleiades ID
 
-[433032](https://pleiades.stoa.org/places/433032)
+[Pompeii](https://pleiades.stoa.org/places/433032)
 
 #### TGN ID
 

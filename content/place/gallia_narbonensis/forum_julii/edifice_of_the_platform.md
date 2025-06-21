@@ -85,7 +85,7 @@ At the north, a large vestibule gives access to a vast courtyard with a peristyl
 
 #### Pleiades ID
 
-[981537](https://pleiades.stoa.org/places/981537)
+[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
 #### TGN ID
 

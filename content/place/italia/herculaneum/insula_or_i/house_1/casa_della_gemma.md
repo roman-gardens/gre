@@ -62,7 +62,7 @@ A. This garden (a) is built partially into the edge of the hill and partially on
 {{< image src="herc._i.1_17.11.78.jpg" alt="Herculaneum - insula orientalis I. 1-3 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 1-3 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+[Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/7031897)

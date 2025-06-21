@@ -54,7 +54,7 @@ The Southern Terrace is a series of monumental built terraces constructed along 
 Petra Garden and Pool Complex
 
 ### Keywords
-- [aqueduct](http://vocab.getty.edu/page/aat/300006165)
+- [aqueducts](http://vocab.getty.edu/page/aat/300006165)
 - [archaeobotany](http://vocab.getty.edu/page/aat/300251771)
 - [artificial islands](http://vocab.getty.edu/page/aat/300386969)
 - [artificial water channel](http://vocab.getty.edu/page/aat/300133792)

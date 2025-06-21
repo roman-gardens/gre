@@ -38,8 +38,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref ".">}})
 
 ### Keywords
- - [[peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
- - [[porticoes](http://vocab.getty.edu/page/aat/300004145)
+ - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+ - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
  - [tondi](http://vocab.getty.edu/page/aat/300033622)
 

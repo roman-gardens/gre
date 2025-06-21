@@ -52,7 +52,7 @@ draft: true
 -->
 
 
-## Linked IDs
+## Places
 
 <!--
 Term should be the label used by the linked resource

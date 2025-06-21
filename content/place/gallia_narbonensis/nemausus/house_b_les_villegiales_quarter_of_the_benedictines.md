@@ -102,7 +102,7 @@ A.D. 60-90 One of the principal phases of occupation
 
 #### Pleiades ID
 
-[981537](https://pleiades.stoa.org/places/981537)
+[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
 #### TGN ID
 

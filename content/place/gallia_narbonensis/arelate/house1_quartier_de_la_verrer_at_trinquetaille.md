@@ -83,7 +83,7 @@ Excavations in 1982-1984
 
 #### Pleiades ID
 
-[981537](https://pleiades.stoa.org/places/981537)
+[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 [148217](https://pleiades.stoa.org/places/148217)
 
 #### TGN ID

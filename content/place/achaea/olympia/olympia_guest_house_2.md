@@ -94,7 +94,7 @@ NEW WAY ↓↓↓↓
 
 #### Pleiades ID
 
-[570531](https://pleiades.stoa.org/places/570531)
+[Olympia](https://pleiades.stoa.org/places/570531)
 
 #### TGN ID
 

@@ -103,7 +103,7 @@ Over the years, two swimming pools (probably one for men and one for women), eac
 
 #### Pleiades ID
 
-[687917](https://pleiades.stoa.org/places/687917)
+[Jericho](https://pleiades.stoa.org/places/687917)
 
 <!--#### TGN ID
 

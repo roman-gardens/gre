@@ -46,7 +46,7 @@ tags:
 Large vineyard
 
 ### Keywords
-- [amphitheaters](http://vocab.getty.edu/page/aat/300007128)
+- [amphitheaters (built works)](http://vocab.getty.edu/page/aat/300007128)
 - [trellises](http://vocab.getty.edu/page/aat/300006785)
 - [triclinia (couches)](http://vocab.getty.edu/page/aat/300142552)
 - [vineyards](http://vocab.getty.edu/page/aat/300000248)

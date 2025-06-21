@@ -40,7 +40,7 @@ Casa dell’Alcova
 
 
 ### Keywords
-- [atriums](http://vocab.getty.edu/page/aat/300080798)
+- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [procoeton](#)
 
@@ -71,7 +71,7 @@ NEW WAY ↓↓↓↓
 <!--### Images-->
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+[Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/7031897)

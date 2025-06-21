@@ -71,7 +71,7 @@ The so-called **perfumery** was equipped with a Rhodian peristyle (e), an open *
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[599588 (Delos, island)](https://pleiades.stoa.org/places/599588)
+[Delos (island)](https://pleiades.stoa.org/places/599588)
 
 #### TGN ID
 [7011273 (Dhílos,island)](http://vocab.getty.edu/page/tgn/7011273)

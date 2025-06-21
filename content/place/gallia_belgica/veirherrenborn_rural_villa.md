@@ -80,9 +80,11 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
+<!--
 #### Pleiades ID
 
-[109198](<!-- not on pleiades -->)
+ not on pleiades
+ -->
 
 #### TGN ID
 [6000727](http://vocab.getty.edu/page/tgn/6000727)

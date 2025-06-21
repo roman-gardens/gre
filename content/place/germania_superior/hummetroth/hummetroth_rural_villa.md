@@ -94,7 +94,7 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 
 #### Pleiades ID
 
-[981525](https://pleiades.stoa.org/places/981525)
+[Germania Superior](https://pleiades.stoa.org/places/981525)
 
 #### TGN ID
 

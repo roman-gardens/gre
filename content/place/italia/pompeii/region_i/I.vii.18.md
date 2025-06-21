@@ -85,7 +85,7 @@ Excavated 1926 and 1927. Restoration 2017.
 
 #### Pleiades ID
 
-[433032](https://pleiades.stoa.org/places/433032)
+[Pompeii](https://pleiades.stoa.org/places/433032)
 
 #### TGN ID
 

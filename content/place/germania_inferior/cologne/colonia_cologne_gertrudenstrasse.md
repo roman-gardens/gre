@@ -80,7 +80,7 @@ Middle of the first century CE until the fourth century CE
 
 ##### Pleiades ID
 
-[108751](https://pleiades.stoa.org/places/108751)
+[Ara Ubiorum/Col. Claudia Ara Agrippinensium](https://pleiades.stoa.org/places/108751)
 
 #### TGN ID
 

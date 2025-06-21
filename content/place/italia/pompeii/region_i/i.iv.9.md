@@ -62,7 +62,7 @@ This garden contains a [cistern](http://vocab.getty.edu/page/aat/300052558) open
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[456321707](https://pleiades.stoa.org/places/456321707)
+[Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
 #### TGN ID
 [7004658](http://vocab.getty.edu/page/tgn/7004658)

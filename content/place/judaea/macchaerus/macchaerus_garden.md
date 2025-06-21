@@ -105,7 +105,7 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 #### Pleiades ID
 
-[687917](https://pleiades.stoa.org/places/687917)
+[Jericho](https://pleiades.stoa.org/places/687917)
 
 <!--#### TGN ID
 

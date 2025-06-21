@@ -86,7 +86,7 @@ Unspecified
 
 #### Pleiades ID
 
-[108945](https://pleiades.stoa.org/places/108945)
+[Durocortorum](https://pleiades.stoa.org/places/108945)
 
 #### TGN ID
 [6000727](http://vocab.getty.edu/page/tgn/6000727)

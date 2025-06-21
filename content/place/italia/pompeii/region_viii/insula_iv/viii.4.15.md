@@ -49,7 +49,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
  - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
  - [exedrae (interior spaces)](http://vocab.getty.edu/page/aat/300004014)
  - [puteals](http://vocab.getty.edu/page/aat/300443458)
- - [atrium](http://vocab.getty.edu/page/aat/300004097)
+ - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
  - [impluvia](http://vocab.getty.edu/page/aat/300129867)
 
 ### Garden Description

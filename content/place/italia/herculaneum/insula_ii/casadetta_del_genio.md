@@ -69,7 +69,7 @@ NEW WAY ↓↓↓↓
 {{< image src="Herc. II.3   68.6.57.jpg" alt="Illustration of Casadetta del Genio" title="Illustration of Casadetta del Genio" >}}
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+[Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/7031897)

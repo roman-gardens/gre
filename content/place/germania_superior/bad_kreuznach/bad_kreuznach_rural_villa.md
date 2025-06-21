@@ -99,7 +99,7 @@ Second half of 2nd century - around 275
 
 #### Pleiades ID
 
-[981525](https://pleiades.stoa.org/places/981525)
+[Germania Superior](https://pleiades.stoa.org/places/981525)
 
 #### TGN ID
 

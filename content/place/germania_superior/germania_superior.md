@@ -46,8 +46,8 @@ c. AD 85
 
 #### Pleiades ID
 
-[981525]({{<relref ".">}}) \
-[981525](https://pleiades.stoa.org/places/981525)
+[Germania Superior]({{<relref ".">}}) \
+[Germania Superior](https://pleiades.stoa.org/places/981525)
 
 #### TGN ID
 

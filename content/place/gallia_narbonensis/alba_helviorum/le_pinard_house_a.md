@@ -89,7 +89,7 @@ The natural slope of the terrain towards the east led to building the house in l
 
 #### Pleiades ID
 
-[981537](https://pleiades.stoa.org/places/981537)
+[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
 #### TGN ID
 

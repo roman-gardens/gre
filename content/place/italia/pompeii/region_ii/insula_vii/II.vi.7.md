@@ -43,7 +43,7 @@ Park-like areas were located between the Great Palaestra and the Amphitheater an
 {{< image src="../../fig._61,_plan_of_region_ii,_insula_vii.png" alt="Fig. 61, Plan of Region II, insula vii, plan in Maiuri, NSc(1939), pl.9" title="Fig. 61, Plan of Region II, insula vii, plan in Maiuri, NSc(1939), pl.9" >}}-->
 
 #### Pleiades ID
-[456321707](https://pleiades.stoa.org/places/456321707)
+[Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
 #### TGN ID
 [7004658](http://vocab.getty.edu/page/tgn/7004658)

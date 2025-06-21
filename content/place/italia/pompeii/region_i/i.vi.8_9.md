@@ -76,7 +76,7 @@ Excavated 1912, 1926-27. Bombed in 1943.
 
 #### Pleiades ID
 
-[433032](https://pleiades.stoa.org/places/433032)
+[Pompeii](https://pleiades.stoa.org/places/433032)
 
 #### TGN ID
 

@@ -84,7 +84,7 @@ Unspecified
 
 #### Pleiades ID
 
-[108982](https://pleiades.stoa.org/places/108982)
+[Römische Villa Otrang](https://pleiades.stoa.org/places/108982)
 
 #### TGN ID
 [6000727](http://vocab.getty.edu/page/tgn/6000727)

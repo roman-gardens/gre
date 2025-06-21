@@ -124,7 +124,7 @@ The plan reveals seven rows of up to eleven pots per row, although directly in f
 
 #### Pleiades ID
 
-[687917](https://pleiades.stoa.org/places/687917)
+[Jericho](https://pleiades.stoa.org/places/687917)
 
 <!--#### TGN ID
 

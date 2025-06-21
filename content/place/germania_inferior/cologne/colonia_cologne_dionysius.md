@@ -84,7 +84,7 @@ Reign of Vespasian until the end of the fourth century CE
 
 #### Pleiades ID
 
-[108751](https://pleiades.stoa.org/places/108751)  
+[Ara Ubiorum/Col. Claudia Ara Agrippinensium](https://pleiades.stoa.org/places/108751)  
 
 #### TGN ID
 [7004446](http://vocab.getty.edu/page/tgn/7004446)  

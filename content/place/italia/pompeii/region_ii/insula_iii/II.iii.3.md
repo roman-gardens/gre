@@ -21,7 +21,6 @@ draft: true
 
 # Location
 
-<!-- [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751) -->
 
 ## Location Description
 

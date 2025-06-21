@@ -64,7 +64,6 @@ The house was laid out around a peristyle that may have had a garden. 12 columns
 
 #### Pleiades ID
 
-[79312](https://pleiades.stoa.org/places/79312)
 
 #### TGN ID
 

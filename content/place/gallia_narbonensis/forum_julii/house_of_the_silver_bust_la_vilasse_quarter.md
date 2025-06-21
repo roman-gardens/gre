@@ -111,7 +111,7 @@ A number of sculptural discoveries are noteworthy.  In the vestibule [18] was fo
 
 #### Pleiades ID
 
-[981537](https://pleiades.stoa.org/places/981537)
+[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
 #### TGN ID
 

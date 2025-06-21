@@ -75,7 +75,7 @@ Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 198
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[456321707](https://pleiades.stoa.org/places/456321707)
+[Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
 #### TGN ID
 [7004658](http://vocab.getty.edu/page/tgn/7004658)

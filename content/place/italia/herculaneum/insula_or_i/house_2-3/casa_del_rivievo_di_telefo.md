@@ -63,7 +63,7 @@ A. The excavation of this house in 1934-1936 revealed an unusual atrium arrangem
 {{< image src="herc._i.2,3_42.17.64.jpg" alt="Herculaneum - insula orientalis I. 2.3-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 2.3-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 #### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+[Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
 [7031897](http://vocab.getty.edu/page/tgn/7031897)

@@ -73,7 +73,7 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 {{< image src="../../fig._74,_ii.viii.6_11.20.74.jpg" alt="Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}-->
 
 #### Pleiades ID
-[456321707](https://pleiades.stoa.org/places/456321707)
+[Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
 #### TGN ID
 [7004658](http://vocab.getty.edu/page/tgn/7004658)

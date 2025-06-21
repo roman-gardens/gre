@@ -26,7 +26,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) \
-[[THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
+[THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
 
 ### Location Description
 

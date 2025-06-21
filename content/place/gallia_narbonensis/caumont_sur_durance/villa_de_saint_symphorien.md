@@ -111,7 +111,7 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 
 #### Pleiades ID
 
-[981537](https://pleiades.stoa.org/places/981537)
+[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
 
 #### TGN ID

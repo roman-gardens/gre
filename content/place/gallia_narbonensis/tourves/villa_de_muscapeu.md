@@ -99,7 +99,7 @@ In a second stage, in the first century, a bath complex [5] with an open-air esp
 
 #### Pleiades ID
 
-[981537](https://pleiades.stoa.org/places/981537)
+[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
 #### TGN ID
 
