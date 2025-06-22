@@ -50,7 +50,7 @@ House of Dionysius (Colonia Claudia Ara Agrippinensium)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [apsed pools](#)
 - [axial plan](http://vocab.getty.edu/page/aat/300121971)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
 
 ### Garden Description
 The largest urban villa excavated thus far in Cologne is the House of Dionysos (3400 sq. m.), named after the early 3rd century mosaic floor decorated with Dionysiac motifs in the *triclinium* (Image 1??). The house occupies part of an *insula* in the northeastern corner of the city, bordered on the south by a street leading to the harbor.  
@@ -87,7 +87,7 @@ Reign of Vespasian until the end of the fourth century CE
 [Ara Ubiorum/Col. Claudia Ara Agrippinensium](https://pleiades.stoa.org/places/108751)  
 
 #### TGN ID
-[7004446](http://vocab.getty.edu/page/tgn/7004446)  
+[Cologne (inhabited place)](http://vocab.getty.edu/page/tgn/7004446)  
 
 ### Contributor
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))    

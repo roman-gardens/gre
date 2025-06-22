@@ -98,7 +98,7 @@ House: AD 150 - ca. 170
 
 #### TGN ID
 
-[7017586](http://vocab.getty.edu/page/tgn/7017586)
+[Augusta Rauricorum (deserted settlement)](http://vocab.getty.edu/page/tgn/7017586)
 
 ### Contributor
 

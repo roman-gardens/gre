@@ -80,10 +80,8 @@ A marble slab found at Puçol (Puzol) near Saguntum, now lost,  but originally p
 
 #### Pleiades ID
 
-[266021](https://pleiades.stoa.org/places/266021)
+[Saguntum/Arse](https://pleiades.stoa.org/places/266021)
 
-<!--#### TGN ID
-[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
 
 <!--### Contributor-->
 

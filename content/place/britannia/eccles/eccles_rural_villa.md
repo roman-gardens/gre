@@ -50,7 +50,7 @@ Rural Villa in Eccles
 - [ditches](http://vocab.getty.edu/page/aat/300006178)
 - [drains](http://vocab.getty.edu/page/aat/300052564)
 - [horticultural containers](http://vocab.getty.edu/page/aat/300198749)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 - [water baths](http://vocab.getty.edu/page/aat/300248755)
 
@@ -84,11 +84,11 @@ mid-1st to 4th century CE
 
 #### Pleiades ID
 
-[79448](https://pleiades.stoa.org/places/79448)
+[Eccles](https://pleiades.stoa.org/places/79448)
 
 #### TGN ID
 
-[1029144](http://vocab.getty.edu/page/tgn/1029144)
+[Eccles (inhabited place)](http://vocab.getty.edu/page/tgn/1029144)
 
 ### Contributor
 

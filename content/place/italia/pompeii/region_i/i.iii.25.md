@@ -68,7 +68,7 @@ B. The viridarium lay across the entire width of the house to the rear. The west
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
 #### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ###  Excavation Dates
 Excavated 1869.

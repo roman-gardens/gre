@@ -74,11 +74,11 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[810966696]{{<relref ".">}}) \
-[810966696](https://pleiades.stoa.org/places/810966696)
+[Collegium at Italica]{{<relref ".">}}) \
+[Collegium at Italica](https://pleiades.stoa.org/places/810966696)
 
 #### TGN ID
-[7007822](http://vocab.getty.edu/page/tgn/7007822)
+[Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
 
 ### Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

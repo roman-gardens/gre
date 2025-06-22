@@ -105,11 +105,11 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID)
 
 #### Pleiades ID
-[947227732](https://pleiades.stoa.org/places/947227732)
+[Qasr al-Abd at Tyrus](https://pleiades.stoa.org/places/947227732)
 
 
 #### TGN ID
-[5003214](http://www.getty.edu/vow/TGNFullDisplay?find=tyrus&place=&nation=&prev_page=1&english=Y&subjectid=5003214)
+[Araq El-Emir (inhabited place)](http://vocab.getty.edu/page/tgn/5003214)
 
 ### Contributor
 [Kathryn L. Gleason](#) and [Leigh-Ann Bedal](#)

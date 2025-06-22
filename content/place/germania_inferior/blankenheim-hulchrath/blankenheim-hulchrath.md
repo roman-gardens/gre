@@ -82,7 +82,7 @@ Unspecified
 [Germania Inferior](https://pleiades.stoa.org/places/981524)
 
 #### TGN ID
-[6002234](http://vocab.getty.edu/page/tgn/6002234)
+[Germania Inferior (province)](http://vocab.getty.edu/page/tgn/6002234)
 
 ### Contributor
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  

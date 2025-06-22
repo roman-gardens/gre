@@ -93,11 +93,11 @@ unspecified
 
 #### Pleiades ID
 
-[187290](https://pleiades.stoa.org/places/187290)
+[Aquileia](https://pleiades.stoa.org/places/187290)
 
 #### TGN ID
 
-[7005553](http://vocab.getty.edu/page/tgn/7005553)
+[Aquileia (inhabited place)](http://vocab.getty.edu/page/tgn/7005553)
 
 ### Contributor
 

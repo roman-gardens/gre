@@ -67,11 +67,11 @@ Some years later, Shim'on ben Menahem transferred ownership of the property to h
 [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID)
 
 #### Pleiades ID
-[697768](https://pleiades.stoa.org/places/697768)
+[Zoara](https://pleiades.stoa.org/places/697768)
 
 
 #### TGN ID
-[4012542](http://www.getty.edu/vow/TGNFullDisplay?find=zoar&place=&nation=&prev_page=1&english=Y&subjectid=4012542)
+[eṣ-Ṣafi (deserted settlement)](http://vocab.getty.edu/page/tgn/4012542)
 
 ### Contributor
 [Leigh-Ann Bedal](#)

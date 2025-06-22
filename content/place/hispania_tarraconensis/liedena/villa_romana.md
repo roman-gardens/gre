@@ -43,8 +43,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Location
-[Liedena]({{<relref ".">}}) \
-[Liedena](https://pleiades.stoa.org/places/976648082)
+[Liedena]({{<relref ".">}})
 
 
 ### Location Description
@@ -99,10 +98,13 @@ The oecus or principal reception room is the room with an apse facing the southw
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[976648082](https://pleiades.stoa.org/places/976648082)
+
+[Villa at Foz de Lumbier](https://pleiades.stoa.org/places/250027)
 
 #### TGN ID
-[7027125](http://vocab.getty.edu/page/tgn/7027125)
+
+[Clunia (deserted settlement)](http://vocab.getty.edu/page/tgn/7027125)
+
 
 ### Contributor
 AUTHOR_ID

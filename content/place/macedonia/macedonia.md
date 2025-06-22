@@ -42,12 +42,12 @@ categories:
 
 #### Pleiades ID
 
-[981531]({{<relref ".">}}) \
-[981531](https://pleiades.stoa.org/places/981531)
+[Macedonia (Roman province)]({{<relref ".">}}) \
+[Macedonia (Roman province)](https://pleiades.stoa.org/places/981531)
 
 #### TGN ID
 
-[7001349](http://vocab.getty.edu/page/tgn/7001349)
+[Macedonia (former nation/state/empire)](http://vocab.getty.edu/page/tgn/7001349)
 
 ### Contributor
 

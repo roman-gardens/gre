@@ -102,7 +102,7 @@ The end of the Augustan period
 
 #### TGN ID
 
-[7007664](http://vocab.getty.edu/page/tgn/7007664)
+[Mérida (inhabited place)](http://vocab.getty.edu/page/tgn/7007664)
 
 ### Contributor
 

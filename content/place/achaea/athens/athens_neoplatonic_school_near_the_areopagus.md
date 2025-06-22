@@ -61,7 +61,7 @@ second half of the 4th century CE to the late 6th century CE
 [Areopagus](https://pleiades.stoa.org/places/969121823)
 
 #### TGN ID
-[5004159](http://vocab.getty.edu/page/tgn/5004159)
+[Agorá (ancient site)](http://vocab.getty.edu/page/tgn/5004159)
 
 ### Contributor
 [Maureen Carroll](#) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  

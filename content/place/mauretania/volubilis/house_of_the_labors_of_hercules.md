@@ -72,7 +72,7 @@ Second century CE
 
 #### Pleiades ID
 
-[297059709](https://pleiades.stoa.org/places/297059709)
+[House of the Labors of Hercules](https://pleiades.stoa.org/places/297059709)
 
 #### TGN ID
 

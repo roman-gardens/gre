@@ -108,7 +108,7 @@ Stone-built villa: Middle of the 1st century CE
 
 #### TGN ID
 
-[7007345](http://vocab.getty.edu/page/tgn/7007345)
+[Dietikon (inhabited place)](http://vocab.getty.edu/page/tgn/7007345)
 
 ### Contributor
 

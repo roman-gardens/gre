@@ -102,11 +102,11 @@ BIBLIOGRAPHY:
 
 #### Pleiades ID
 
-[570182](https://pleiades.stoa.org/places/570182)
+[Corinthus/Korinthos](https://pleiades.stoa.org/places/570182)
 
 #### TGN ID
 
-[7010734](http://vocab.getty.edu/page/tgn/7010734)
+[Corinth (inhabited place)](http://vocab.getty.edu/page/tgn/7010734)
 
 ### Contributor
 

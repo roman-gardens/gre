@@ -64,7 +64,7 @@ The Palaestra was crossed by Burbon tunnels in 1756-1760 and partially excavated
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/7031897)
+[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
 ### Dates
 

@@ -95,7 +95,7 @@ Later second century/third century
 
 #### TGN ID
 
-[8712318](http://vocab.getty.edu/page/tgn/8712318)
+[Romula (deserted settlement)](http://vocab.getty.edu/page/tgn/8712318)
 
 ### Contributor
 

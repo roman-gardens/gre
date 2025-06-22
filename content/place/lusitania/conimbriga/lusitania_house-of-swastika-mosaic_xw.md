@@ -81,8 +81,6 @@ Far more modest than the House of Cantaber but following the same general ideas 
 
 [Conimbriga](https://pleiades.stoa.org/places/236443)
 
-<!--#### TGN ID
-[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
 
 <!--### Contributor-->
 

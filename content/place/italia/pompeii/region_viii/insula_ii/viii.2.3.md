@@ -53,7 +53,7 @@ This house, very similar to VII.ii.1, was also excavated in 1799. This peristyle
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
 #### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/2053030)
+[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
 
 ###  Excavation Dates

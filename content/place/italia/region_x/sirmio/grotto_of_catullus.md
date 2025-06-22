@@ -76,7 +76,7 @@ House of Grotto of Aatullus
 - [insulae](http://vocab.getty.edu/page/aat/300000325)
 - [cryptoportici](http://vocab.getty.edu/page/aat/300004295)
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [balnea](http://vocab.getty.edu/page/aat/300120377)
@@ -150,11 +150,11 @@ unspecified
 
 #### Pleiades ID
 
-[870993210](https://pleiades.stoa.org/places/870993210)
+[Grotte di Catullo](https://pleiades.stoa.org/places/870993210)
 
 #### TGN ID
 
-[7005771](http://vocab.getty.edu/page/tgn/7005771)
+[Sirmione (inhabited place)](http://vocab.getty.edu/page/tgn/7005771)
 
 ### Contributor
 

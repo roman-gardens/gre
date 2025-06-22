@@ -98,7 +98,7 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 
 #### TGN ID
 
-[7165467](http://vocab.getty.edu/page/tgn/7165467)
+[Hummetroth (inhabited place)](http://vocab.getty.edu/page/tgn/7165467)
 
 ### Contributor
 

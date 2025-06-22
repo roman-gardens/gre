@@ -87,8 +87,6 @@ The remains of a large villa were discovered in 1900 under an abandoned Benedict
 
 [532133456](https://pleiades.stoa.org/places/532133456)
 
-<!--#### TGN ID
-[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
 
 <!--### Contributor-->
 

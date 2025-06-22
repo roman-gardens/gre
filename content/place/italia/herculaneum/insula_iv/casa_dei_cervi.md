@@ -64,7 +64,7 @@ B. and C. On either side of the *pergola* was a small garden (d)and (e) with an 
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/7031897)
+[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
 
 ### Dates

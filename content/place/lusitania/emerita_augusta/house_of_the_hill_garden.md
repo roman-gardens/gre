@@ -87,7 +87,7 @@ The end of the 2nd or early 3rd century AD
 
 #### TGN ID
 
-[7007664](http://vocab.getty.edu/page/tgn/7007664)
+[Mérida (inhabited place)](http://vocab.getty.edu/page/tgn/7007664)
 
 ### Contributor
 

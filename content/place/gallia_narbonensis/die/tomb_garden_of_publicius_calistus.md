@@ -77,8 +77,8 @@ None Available
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[7662219](http://vocab.getty.edu/page/tgn/7662219)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Die (inhabited place)](http://vocab.getty.edu/page/tgn/7009141)
 
 ### Contributor
 

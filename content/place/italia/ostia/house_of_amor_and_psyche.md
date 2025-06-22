@@ -114,11 +114,11 @@ unspecified
 
 #### Pleiades ID
 
-[868515126](https://pleiades.stoa.org/places/868515126)
+[House of Amor and Psyche](https://pleiades.stoa.org/places/868515126)
 
 #### TGN ID
 
-[7007018](http://vocab.getty.edu/page/tgn/7007018)
+[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ### Contributor

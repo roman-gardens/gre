@@ -106,7 +106,7 @@ To the south, a charming apartment overlooked the cove of the Madrague and may h
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 
 
 ### Contributor

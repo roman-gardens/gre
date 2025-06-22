@@ -77,10 +77,10 @@ fourth century CE
 
 #### Pleiades ID
 
-[678437](https://pleiades.stoa.org/places/678437)
+[Tyrus/Col. Septimia Severa](https://pleiades.stoa.org/places/678437)
 
 #### TGN ID
-[7030348](http://vocab.getty.edu/page/tgn/7030348)
+[Syria (province)](http://vocab.getty.edu/page/tgn/7030348)
 
 ### Contributor
 [Kathryn L. Gleason](#) and [Amina-Aïcha Malek](#)

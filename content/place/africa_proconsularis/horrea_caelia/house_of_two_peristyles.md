@@ -98,10 +98,10 @@ House of two peristyles (Maison aux deux péristyles)
 
 #### Pleiades ID
 
-[315041](https://pleiades.stoa.org/places/315041)
+[Horrea Caelia](https://pleiades.stoa.org/places/315041)
 
 #### TGN ID
-[1094946](http://vocab.getty.edu/page/tgn/1094946)
+[Harqalah (inhabited place)](http://vocab.getty.edu/page/tgn/1094946)
 
 ### Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

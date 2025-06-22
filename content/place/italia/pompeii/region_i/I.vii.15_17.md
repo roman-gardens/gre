@@ -82,7 +82,7 @@ Soprano, P. 1950. *'I triclini all’aperto di Pompei', In Pompeiana, raccolta d
 
 #### TGN ID
 
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ### Contributor
 

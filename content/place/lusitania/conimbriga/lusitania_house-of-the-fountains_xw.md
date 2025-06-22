@@ -87,7 +87,7 @@ The house has recently been the subject of a monograph by Isabelle Morand in whi
 [Conimbriga](https://pleiades.stoa.org/places/236443)
 
 #### TGN ID
-[7031751](http://vocab.getty.edu/page/tgn/7031751)
+[Conimbriga, Ruínas de](http://vocab.getty.edu/page/tgn/7031751)
 
 <!--### Contributor-->
 

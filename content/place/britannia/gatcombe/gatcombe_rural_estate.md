@@ -80,11 +80,11 @@ ca. 280-380 CE
 
 #### Pleiades ID
 
-[79477](https://pleiades.stoa.org/places/79477)
+[Gatcombe](https://pleiades.stoa.org/places/79477)
 
 #### TGN ID
 
-[7026972](http://vocab.getty.edu/page/tgn/7026972)
+[Gatcombe (inhabited place)](http://vocab.getty.edu/page/tgn/7026972)
 
 ### Contributor
 

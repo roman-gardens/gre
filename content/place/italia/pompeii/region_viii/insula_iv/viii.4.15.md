@@ -65,7 +65,7 @@ Eighteen partially fluted columns supported the large portico (a) surrounding th
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
 #### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/2053030)
+[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
 ###  Excavation Dates
 Unspecified

@@ -52,7 +52,7 @@ Urban House or Schola in Aquincum
 - [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 
@@ -86,11 +86,11 @@ Very few houses of Mediterranean type have been discovered, and only one can be 
 
 #### Pleiades ID
 
-[1971301](https://pleiades.stoa.org/places/1971301)
+[Aquincum](https://pleiades.stoa.org/places/197130)
 
 #### TGN ID
 
-[8713146](http://vocab.getty.edu/page/tgn/8713146)
+[Aquincum (deserted settlement)](http://vocab.getty.edu/page/tgn/8713146)
 
 ### Contributor
 

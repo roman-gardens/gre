@@ -83,10 +83,10 @@ Unspecified
 
 #### Pleiades ID
 
-[109236](https://pleiades.stoa.org/places/109236)
+[Ouindinon/Subdinnum](https://pleiades.stoa.org/places/109236)
 
 #### TGN ID
-[6003548](http://vocab.getty.edu/page/tgn/6003548)
+[Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
 
 ### Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

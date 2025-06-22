@@ -90,8 +90,6 @@ The houses were excavated around 1940, at a time when there was no thought of re
 
 [Conimbriga](https://pleiades.stoa.org/places/236443)
 
-<!--#### TGN ID
-[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
 
 <!--### Contributor-->
 

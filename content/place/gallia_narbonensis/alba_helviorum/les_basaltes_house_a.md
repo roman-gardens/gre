@@ -95,8 +95,8 @@ At first, this relatively modest dwelling was thought to have perhaps belonged t
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[8712431](http://vocab.getty.edu/page/tgn/8712431)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Alba-la-Romaine (inhabited place)](http://vocab.getty.edu/page/tgn/8712431)
 
 ### Contributor
 

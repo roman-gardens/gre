@@ -53,7 +53,7 @@ Customers at this thermopolium were served at a counter looking onto the street 
 [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
 #### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ### Dates
 Excavated 1953.

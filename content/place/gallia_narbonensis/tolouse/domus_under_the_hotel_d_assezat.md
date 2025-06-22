@@ -102,8 +102,8 @@ After original finds in 1979, further vestiges of a domus came to light during s
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[7008441](http://vocab.getty.edu/page/tgn/7008441)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Toulouse (inhabited place)](http://vocab.getty.edu/page/tgn/7008441)
 
 ### Contributor
 

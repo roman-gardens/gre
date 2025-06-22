@@ -93,11 +93,11 @@ First half of 1st century A.C. - 250
 
 #### Pleiades ID
 
-[177667](https://pleiades.stoa.org/places/177667)
+[Winkel-Seeb](https://pleiades.stoa.org/places/177667)
 
 #### TGN ID
 
-[6002235](http://vocab.getty.edu/page/tgn/6002235)
+[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
 
 ### Contributor
 

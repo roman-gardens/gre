@@ -99,7 +99,7 @@ Built over an older establishment, the house presents two main phases.  The main
 [Aspis/Clipea](https://pleiades.stoa.org/places/314892)
 
 #### TGN ID
-[7001037](http://vocab.getty.edu/page/tgn/7001037)
+[Kelibia (inhabited place)](http://vocab.getty.edu/page/tgn/7001037)
 
 ### Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))\

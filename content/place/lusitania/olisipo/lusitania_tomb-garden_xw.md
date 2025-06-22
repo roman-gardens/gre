@@ -84,10 +84,8 @@ An inscription found immured in the corner of a house near Lisbon around 1735 re
 
 #### Pleiades ID
 
-[256338](https://pleiades.stoa.org/places/256338)
+[Olisipo](https://pleiades.stoa.org/places/256338)
 
-<!--#### TGN ID
-[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
 
 <!--### Contributor-->
 

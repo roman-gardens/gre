@@ -61,7 +61,7 @@ Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)
 - [orchards](http://vocab.getty.edu/page/aat/300008890)
 - [pedestals](http://vocab.getty.edu/page/aat/300001744)
 - [pillars](http://vocab.getty.edu/page/aat/300264605)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [sherds](http://vocab.getty.edu/page/aat/300117132)
 - [tesserae](http://vocab.getty.edu/page/aat/300010730)
@@ -132,7 +132,7 @@ Beginning of the 1st c. CE - beginning of the Vth century
 
 #### TGN ID
 
-[6002235](http://vocab.getty.edu/page/tgn/6002235)
+[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
 
 ### Contributor
 

@@ -98,10 +98,10 @@ This fourth-century villa was discovered in 1973.  An apse and a figured mosaic 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[266009](https://pleiades.stoa.org/places/266009)
+[Puente de la Olmilla](https://pleiades.stoa.org/places/266009)
 
 #### TGN ID
-[7347952](http://vocab.getty.edu/page/tgn/7347952)
+[Albaladejito (inhabited place)](http://vocab.getty.edu/page/tgn/7347952)
 
 
 ### Contributor

@@ -106,12 +106,12 @@ unspecified
 
 #### Pleiades ID
 
-[266015]({{<relref ".">}}) \
-[266015](https://pleiades.stoa.org/places/266015)
+[El Ruedo]({{<relref ".">}}) \
+[El Ruedo](https://pleiades.stoa.org/places/266015)
 
 #### TGN ID
 
-[4000563](http://vocab.getty.edu/page/tgn/4000563)
+[Almedinilla (inhabited place)](http://vocab.getty.edu/page/tgn/4000563)
 
 ### Contributor
 

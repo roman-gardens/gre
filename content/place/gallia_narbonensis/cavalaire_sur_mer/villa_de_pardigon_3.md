@@ -95,7 +95,7 @@ A,D. 200-300 garden transformed into a court then a dump
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 
 
 ### Contributor

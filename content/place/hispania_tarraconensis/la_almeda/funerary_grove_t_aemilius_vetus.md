@@ -89,7 +89,6 @@ Unspecified
 
 
 #### TGN ID
-[7349289](http://vocab.getty.edu/page/tgn/7349289)
 
 
 ### Contributor

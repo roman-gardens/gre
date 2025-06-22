@@ -50,7 +50,7 @@ Jashemski examined this sizeable garden to the rear of this property in 1957 and
 [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
 #### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ### Dates
 Excavated 1953-1954, 1973, 1984. Restored 1988.

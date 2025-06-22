@@ -103,7 +103,7 @@ Second half of 2nd century - around 275
 
 #### TGN ID
 
-[7012371](http://vocab.getty.edu/page/tgn/7012371)
+[Bad Kreuznach (inhabited place)](http://vocab.getty.edu/page/tgn/7012371)
 
 ### Contributor
 

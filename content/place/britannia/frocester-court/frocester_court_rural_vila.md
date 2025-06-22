@@ -87,11 +87,11 @@ early 4th - 5th century CE
 
 #### Pleiades ID
 
-[79471](https://pleiades.stoa.org/places/79471)
+[Frocester](https://pleiades.stoa.org/places/79471)
 
 #### TGN ID
 
-[4004114](http://vocab.getty.edu/page/tgn/4004114)
+[Frocester (inhabited place)](http://vocab.getty.edu/page/tgn/4004114)
 
 ### Contributor
 

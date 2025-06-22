@@ -100,12 +100,12 @@ unspecified
 
 #### Pleiades ID
 
-[781209675](https://pleiades.stoa.org/places/781209675)
+[Pecile at Hadrian's Villa](https://pleiades.stoa.org/places/781209675)
 <!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
 
 #### TGN ID
 
-[7006983](http://vocab.getty.edu/page/tgn/7006983)
+[Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
 ### Contributor

@@ -87,7 +87,7 @@ unspecified
 
 #### TGN ID
 
-[7000874](http://vocab.getty.edu/page/tgn/7000874)
+[Rome (inhabited place)](http://vocab.getty.edu/page/tgn/7000874)
 
 ### Contributor
 

@@ -97,7 +97,7 @@ Excavated 1912.
 
 #### TGN ID
 
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ### Contributor
 

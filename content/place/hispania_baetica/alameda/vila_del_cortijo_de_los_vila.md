@@ -90,12 +90,12 @@ unspecified
 
 #### Pleiades ID
 
-[521700444]({{<relref ".">}}) \
-[521700444](https://pleiades.stoa.org/places/521700444)
+[Villa del Cortijo de los Vila at Alameda]({{<relref ".">}}) \
+[Villa del Cortijo de los Vila at Alameda](https://pleiades.stoa.org/places/521700444)
 
 #### TGN ID
 
-[1061700](http://vocab.getty.edu/page/tgn/1061700)
+[Alameda (inhabited place)](http://vocab.getty.edu/page/tgn/1061700)
 
 ### Contributor
 

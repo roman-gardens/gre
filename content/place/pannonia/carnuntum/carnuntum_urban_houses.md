@@ -87,7 +87,7 @@ unspecified
 
 #### TGN ID
 
-[7032538](http://vocab.getty.edu/page/tgn/7032538)
+[Carnuntum (deserted settlement)](http://vocab.getty.edu/page/tgn/7032538)
 
 ### Contributor
 

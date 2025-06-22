@@ -91,10 +91,8 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 
 #### Pleiades ID
 
-[256422](https://pleiades.stoa.org/places/256422)
+[S. Cucufate](https://pleiades.stoa.org/places/256422)
 
-<!--#### TGN ID
-[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
 
 <!--### Contributor-->
 

@@ -89,11 +89,11 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 
 #### Pleiades ID
 
-[491741](https://pleiades.stoa.org/places/491741)
+[Thessalonica](https://pleiades.stoa.org/places/491741)
 
 #### TGN ID
 
-[7011182](http://vocab.getty.edu/page/tgn/7011182)
+[Salonika (inhabited place)](http://vocab.getty.edu/page/tgn/7011182)
 
 ### Contributor
 

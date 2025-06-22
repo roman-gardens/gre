@@ -87,11 +87,11 @@ The villa dates from the first century BC to the third century AD when it was tr
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[789886461](https://pleiades.stoa.org/places/789886461)
+[Vilarenc](https://pleiades.stoa.org/places/789886461)
 
 
 #### TGN ID
-[7001381](http://vocab.getty.edu/page/tgn/7001381)
+[Masada (deserted settlement)](http://vocab.getty.edu/page/tgn/7001381)
 
 ### Contributor
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)

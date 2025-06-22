@@ -63,7 +63,7 @@ This house with an L-shaped floor plan had a peristyle garden (a) at the junctur
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/7031897)
+[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
 ### Dates
 Unspecified

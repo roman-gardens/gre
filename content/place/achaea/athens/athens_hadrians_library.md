@@ -93,11 +93,11 @@ In the center of the building was a large open peristyle courtyard with a long p
 
 #### Pleiades ID
 
-[728329644](https://pleiades.stoa.org/places/728329644)
+[Library of Hadrian at Athens](https://pleiades.stoa.org/places/728329644)
 
 #### TGN ID
 
-[5004159](http://vocab.getty.edu/page/tgn/5004159)
+[Agorá (ancient site)](http://vocab.getty.edu/page/tgn/5004159)
 
 ### Contributor
 

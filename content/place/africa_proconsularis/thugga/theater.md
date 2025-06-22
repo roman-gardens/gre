@@ -70,7 +70,7 @@ At the rear of the theater is a *xystis* known from the dedication inscription (
 
 #### TGN ID
 
-[7017996](http://vocab.getty.edu/page/tgn/7017996)
+[Dougga (deserted settlement)](http://vocab.getty.edu/page/tgn/7017996)
 
 ### Contributor
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) \

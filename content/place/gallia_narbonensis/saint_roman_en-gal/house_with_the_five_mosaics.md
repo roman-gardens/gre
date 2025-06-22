@@ -109,8 +109,8 @@ In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the ga
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[5004109](http://vocab.getty.edu/page/tgn/5004109)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Saint-Romain-en-Gal (inhabited place)](http://vocab.getty.edu/page/tgn/5004109)
 
 ### Contributor
 

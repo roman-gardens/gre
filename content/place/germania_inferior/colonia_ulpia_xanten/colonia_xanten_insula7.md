@@ -73,7 +73,7 @@ Unspecified
 [Col. Ulpia Traiana/Tricensimae](https://pleiades.stoa.org/places/108896)
 
 #### TGN ID
-[7208125](http://vocab.getty.edu/page/tgn/7208125)
+[Colonia Ulpia Traiana (ancient site)](http://vocab.getty.edu/page/tgn/7208125)
 
 ### Contributor
 

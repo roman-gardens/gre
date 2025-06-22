@@ -87,7 +87,7 @@ Late 1st-4th century CE
 [Aspis/Clipea](https://pleiades.stoa.org/places/314892)
 
 #### TGN ID
-[7001037](http://vocab.getty.edu/page/tgn/7001037)
+[Kelibia (inhabited place)](http://vocab.getty.edu/page/tgn/7001037)
 
 ### Contributor
 [Véronique Blanc-Bijon](link) (WorldCat Identities: [lccn-nb99006585](http://worldcat.org/identities/lccn-nb99006585/))

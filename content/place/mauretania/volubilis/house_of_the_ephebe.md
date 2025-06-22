@@ -70,7 +70,7 @@ Third century CE
 
 #### Pleiades ID
 
-[125904446](https://pleiades.stoa.org/places/125904446)
+[House of the Ephebe](https://pleiades.stoa.org/places/125904446)
 
 #### TGN ID
 

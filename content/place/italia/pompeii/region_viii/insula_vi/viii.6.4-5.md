@@ -52,7 +52,7 @@ After the earthquake the eastern part of this insula had been converted into a m
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
 #### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/2053030)
+[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
 ###  Excavation Dates
 1883-1884

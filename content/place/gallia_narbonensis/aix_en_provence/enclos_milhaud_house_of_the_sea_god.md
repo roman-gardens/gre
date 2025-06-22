@@ -99,8 +99,8 @@ NEW WAY ↓↓↓↓
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[7010786](http://vocab.getty.edu/page/tgn/7010786)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Aix-en-Provence (inhabited place)](http://vocab.getty.edu/page/tgn/7010786)
 
 ### Contributor
 

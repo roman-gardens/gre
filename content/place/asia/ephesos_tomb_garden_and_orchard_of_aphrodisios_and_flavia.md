@@ -104,7 +104,7 @@ According to a secondary inscription carved horizontally, perhaps in the third c
 [Ephesus/Arsinoe(ia)](https://pleiades.stoa.org/places/599612)
 
 #### TGN ID
-[7002358](http://vocab.getty.edu/page/tgn/7002358)
+[Caria (former nation/state/empire)](http://vocab.getty.edu/page/tgn/7002358)
 
 ### Contributor
 [John Bodel](link) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))

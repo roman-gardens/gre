@@ -57,7 +57,7 @@ During 1873-1875 the courtyard (a) of the *palaestra* was excavated. A section o
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/7031897)
+[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
 
 ### Dates

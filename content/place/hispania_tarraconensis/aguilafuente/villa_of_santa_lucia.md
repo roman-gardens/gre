@@ -90,10 +90,10 @@ Excavation in 1968 – 1972 at this site, which has been reburied, revealed over
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[767191138](https://pleiades.stoa.org/places/767191138)
+[Roman villa at Santa Lucia](https://pleiades.stoa.org/places/767191138)
 
 #### TGN ID
-[7348251](http://vocab.getty.edu/page/tgn/7348251)
+[Aguilafuente (inhabited place)](http://vocab.getty.edu/page/tgn/7348251)
 
 
 ### Contributor

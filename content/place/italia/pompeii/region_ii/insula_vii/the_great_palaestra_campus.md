@@ -51,7 +51,7 @@ Colonnaded [porticoes](http://vocab.getty.edu/page/aat/300004145) encircled the 
 [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
 #### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ### Dates
 Excavated 1814 to 1816, 1933, and 1935 to 1939.

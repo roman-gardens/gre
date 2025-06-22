@@ -100,7 +100,7 @@ Unspecified
 
 #### TGN ID
 
-[7004944](http://vocab.getty.edu/page/tgn/7004944)
+[Vetera Castra (deserted settlement)](http://vocab.getty.edu/page/tgn/7004944)
 
 ### Contributor
 

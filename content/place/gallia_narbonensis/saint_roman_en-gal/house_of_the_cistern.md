@@ -128,8 +128,8 @@ B.C. 20 - A.D. 20
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[5004109](http://vocab.getty.edu/page/tgn/5004109)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Saint-Romain-en-Gal (inhabited place)](http://vocab.getty.edu/page/tgn/5004109)
 
 ### Contributor
 

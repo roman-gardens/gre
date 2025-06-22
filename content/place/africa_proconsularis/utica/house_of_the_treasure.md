@@ -96,7 +96,7 @@ The House is located in the *insula* II (Lots 1,7). The peristyle garden had a s
 
 #### TGN ID
 
-[7018163](http://vocab.getty.edu/page/tgn/7018163)
+[Utica (deserted settlement)](http://vocab.getty.edu/page/tgn/7018163)
 
 ### Contributor
 

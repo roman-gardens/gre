@@ -100,8 +100,8 @@ A.D 20-30 Destroyed
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[7599818](http://vocab.getty.edu/page/tgn/7599818)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Vaucluse (inhabited place)](http://vocab.getty.edu/page/tgn/7599818)
 
 ### Contributor
 

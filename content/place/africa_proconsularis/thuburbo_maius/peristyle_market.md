@@ -66,7 +66,7 @@ The market located to the SW of the forum had a peristyle that enclosed an open 
 
 #### TGN ID
 
-[7001750](http://vocab.getty.edu/page/tgn/7001750)
+[Kasba, Henchir el (deserted settlement)](http://vocab.getty.edu/page/tgn/7001750)
 
 ### Contributor
 

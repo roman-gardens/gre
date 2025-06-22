@@ -111,7 +111,7 @@ Unspecified
 
 #### Pleiades ID
 
-[811119038](https://pleiades.stoa.org/places/811119038)
+[Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus at Nakrason](https://pleiades.stoa.org/places/811119038)
 
 #### TGN ID
 

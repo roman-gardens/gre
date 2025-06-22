@@ -113,7 +113,7 @@ This large house, some 4,000 square meters, was long and narrow. (Fig. 2) Variou
 [Emporiae](https://pleiades.stoa.org/places/246382)
 
 #### TGN ID
-[7027125](http://vocab.getty.edu/page/tgn/7027125)
+[Clunia (deserted settlement)](http://vocab.getty.edu/page/tgn/7027125)
 
 ### Contributor
 AUTHOR_ID

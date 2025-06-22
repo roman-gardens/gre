@@ -90,10 +90,10 @@ Unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[246343](https://pleiades.stoa.org/places/246343)
+[Col. Barcino](https://pleiades.stoa.org/places/246343)
 
 #### TGN ID
-[7007426](http://vocab.getty.edu/page/tgn/7007426)
+[Barcelona (inhabited place)](http://vocab.getty.edu/page/tgn/7007426)
 
 ### Contributor
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)

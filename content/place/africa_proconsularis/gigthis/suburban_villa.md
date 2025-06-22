@@ -95,10 +95,10 @@ unknown
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[344380](https://pleiades.stoa.org/places/344380)
+[Gigthis](https://pleiades.stoa.org/places/344380)
 
 #### TGN ID
-[5003665](http://vocab.getty.edu/page/tgn/5003665)
+[Gigthi (deserted settlement)](http://vocab.getty.edu/page/tgn/5003665)
 
 ### Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

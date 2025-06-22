@@ -89,7 +89,7 @@ R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 199–203,
 
 #### Pleiades ID
 
-[462538](https://pleiades.stoa.org/places/462538)
+[Zancle/Messana](https://pleiades.stoa.org/places/462538)
 
 #### TGN ID
 

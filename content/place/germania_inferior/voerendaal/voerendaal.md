@@ -47,7 +47,7 @@ Rural villa at Voerendaal
 
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
 - [hedges](http://vocab.getty.edu/page/aat/300266413)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
@@ -89,11 +89,11 @@ Early second century CE to ca. 300 CE
 
 #### Pleiades ID
 
-[109442](https://pleiades.stoa.org/places/109442)
+[Voerendaal](https://pleiades.stoa.org/places/109442)
 
 #### TGN ID
 
-[7272601](http://vocab.getty.edu/page/tgn/7272601)
+[Voerendaal (inhabited place)](http://vocab.getty.edu/page/tgn/7272601)
 
 ### Contributor
 

@@ -70,7 +70,7 @@ Second century CE
 
 #### Pleiades ID
 
-[762613672](https://pleiades.stoa.org/places/762613672)
+[The Gordian Palace](https://pleiades.stoa.org/places/762613672)
 
 #### TGN ID
 

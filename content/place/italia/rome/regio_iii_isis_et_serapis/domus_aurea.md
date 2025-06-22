@@ -110,11 +110,11 @@ unspecified
 
 #### Pleiades ID
 
-[410440793](https://pleiades.stoa.org/places/410440793)
+[Domus Aurea](https://pleiades.stoa.org/places/410440793)
 
 #### TGN ID
 
-[8712226](http://vocab.getty.edu/page/tgn/8712226)
+[Domus Aurea (deserted settlement)](http://vocab.getty.edu/page/tgn/8712226)
 
 ### Contributors
 

@@ -75,7 +75,7 @@ Early 3rd century CE
 
 #### TGN ID
 
-[7017996](http://vocab.getty.edu/page/tgn/7017996)
+[Dougga (deserted settlement)](http://vocab.getty.edu/page/tgn/7017996)
 
 ### Contributors
 

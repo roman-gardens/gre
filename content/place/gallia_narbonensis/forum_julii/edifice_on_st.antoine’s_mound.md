@@ -94,8 +94,8 @@ The residence perhaps enjoyed an exterior garden in the vast open space of arabl
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[7008791](http://vocab.getty.edu/page/tgn/7008791)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Fréjus (inhabited place)](http://vocab.getty.edu/page/tgn/7008791)
 
 ### Contributor
 

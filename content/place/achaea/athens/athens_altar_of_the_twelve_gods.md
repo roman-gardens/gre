@@ -78,11 +78,11 @@ late 1st century CE (mentioned)
 
 #### Pleiades ID
 
-[807514119](https://pleiades.stoa.org/places/807514119)
+[Agora of Athens](https://pleiades.stoa.org/places/807514119)
 
 #### TGN ID
 
-[5004159](http://vocab.getty.edu/page/tgn/5004159)
+[Agorá (ancient site)](http://vocab.getty.edu/page/tgn/5004159)
 
 ### Contributor
 

@@ -90,7 +90,7 @@ Unspecified
 
 #### TGN ID
 
-[7018163](http://vocab.getty.edu/page/tgn/7018163)
+[Utica (deserted settlement)](http://vocab.getty.edu/page/tgn/7018163)
 
 ### Contributor
 

@@ -49,7 +49,7 @@ Park-like areas were located between the Great [Palaestra](http://vocab.getty.ed
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 #### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 
 ### Bibliography

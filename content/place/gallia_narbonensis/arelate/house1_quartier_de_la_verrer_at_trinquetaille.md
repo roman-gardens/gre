@@ -84,12 +84,12 @@ Excavations in 1982-1984
 #### Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
-[148217](https://pleiades.stoa.org/places/148217)
+[Theline/Col. Arelate/Constantina](https://pleiades.stoa.org/places/148217)
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[7008775](http://vocab.getty.edu/page/tgn/7008775)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Arles (inhabited place)](http://vocab.getty.edu/page/tgn/7008775)
 
 ### Contributor
 

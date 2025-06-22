@@ -93,10 +93,10 @@ A marble slab found immured in a house wall at Hisarköy (Attouda) in Caria near
 
 #### Pleiades ID
 
-[638779](https://pleiades.stoa.org/places/638779)
+[Attouda](https://pleiades.stoa.org/places/638779)
 
 #### TGN ID
-[7002358](http://vocab.getty.edu/page/tgn/7002358)
+[Caria (former nation/state/empire)](http://vocab.getty.edu/page/tgn/7002358)
 
 ### Contributor
 [John Bodel](link) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))

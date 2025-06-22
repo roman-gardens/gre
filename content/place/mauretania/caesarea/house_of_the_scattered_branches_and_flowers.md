@@ -77,7 +77,7 @@ It is assumed that the peristyle and its garden may have had a view over the sea
 
 #### Pleiades ID
 
-[602104716](https://pleiades.stoa.org/places/602104716)
+[House of the Scattered Branches and Flowers](https://pleiades.stoa.org/places/602104716)
 
 #### TGN ID
 

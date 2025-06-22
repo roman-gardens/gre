@@ -113,7 +113,7 @@ partially excavated between June 1972 and January 1973
 
 #### TGN ID
 
-[7007018](http://vocab.getty.edu/page/tgn/7007018)
+[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ### Contributor

@@ -118,11 +118,11 @@ The house is one of the most interesting examples of the transition from the atr
 
 #### Pleiades ID
 
-[1554484](https://pleiades.stoa.org/places/1554484)
+[House of the Thunderbolt](https://pleiades.stoa.org/places/1554484)
 
 #### TGN ID
 
-[7007018](http://vocab.getty.edu/page/tgn/7007018)
+[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ### Contributor

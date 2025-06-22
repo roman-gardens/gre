@@ -75,7 +75,7 @@ The SE area was laid out around an incomplete peristyle with seven columns along
 
 #### TGN ID
 
-[7001750](http://vocab.getty.edu/page/tgn/7001750)
+[Kasba, Henchir el (deserted settlement)](http://vocab.getty.edu/page/tgn/7001750)
 
 ### Contributor
 

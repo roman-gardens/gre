@@ -100,11 +100,11 @@ unspecified (still flourished in the 2nd century CE)
 
 #### Pleiades ID
 
-[570467](https://pleiades.stoa.org/places/570467)
+[Megalopolis](https://pleiades.stoa.org/places/570467)
 
 #### TGN ID
 
-[7010920](http://vocab.getty.edu/page/tgn/7010920)
+[Megalopolis (deserted settlement)](http://vocab.getty.edu/page/tgn/7010920)
 
 ### Contributor
 

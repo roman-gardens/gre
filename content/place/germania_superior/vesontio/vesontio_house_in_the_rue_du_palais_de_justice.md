@@ -61,7 +61,7 @@ archaeological garden \
 - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [terrazzo](http://vocab.getty.edu/page/aat/300011696)
 - [water wells](http://vocab.getty.edu/page/aat/300152327)
@@ -118,7 +118,7 @@ Beginning of the Flavian epoch - middle of the third century
 
 #### TGN ID
 
-[7008356](http://vocab.getty.edu/page/tgn/7008356)
+[Besancon (inhabited place)](http://vocab.getty.edu/page/tgn/7008356)
 
 ### Contributor
 

@@ -47,7 +47,7 @@ Atrium House (Colonia Claudia Ara Agrippinensium)
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [apsed pools](#)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
 
 ### Garden Description
 West of the [House of Dionysos]({{<relref "colonia_cologne_dionysius.md">}}) stood the so-called "atrium house" which covered an area of 1400 sq. m. (Plan 1). It was built around the middle of the 1st century A.D.  
@@ -85,7 +85,7 @@ Middle of the first century CE until the fourth century CE
 [Ara Ubiorum/Col. Claudia Ara Agrippinensium](https://pleiades.stoa.org/places/108751)
 
 #### TGN ID
-[7004446](http://vocab.getty.edu/page/tgn/7004446)
+[Cologne (inhabited place)](http://vocab.getty.edu/page/tgn/7004446)
 
 ### Contributor
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))    

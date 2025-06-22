@@ -109,11 +109,11 @@ late 1st century CE - unspecified
 
 #### Pleiades ID
 
-[79466](https://pleiades.stoa.org/places/79466)
+[Fishbourne](https://pleiades.stoa.org/places/79466)
 
 #### TGN ID
 
-[7032567](http://vocab.getty.edu/page/tgn/7032567)
+[Fishbourne Roman Palace (historic site)](http://vocab.getty.edu/page/tgn/7032567)
 
 ### Contributor
 

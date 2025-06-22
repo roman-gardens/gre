@@ -86,11 +86,11 @@ around A.D. 100 - 175
 
 #### Pleiades ID
 
-[79485](https://pleiades.stoa.org/places/79485)
+[Gorhambury Ancient Site](https://pleiades.stoa.org/places/79485)
 
 #### TGN ID
 
-[7030316](http://vocab.getty.edu/page/tgn/7030316)
+[Britannia (province)](http://vocab.getty.edu/page/tgn/7030316)
 
 ### Contributor
 

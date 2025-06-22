@@ -88,10 +88,8 @@ Besides the central peristyle, there are several other areas that were possibly 
 
 #### Pleiades ID
 
-[256109](https://pleiades.stoa.org/places/256109)
+[La Cocosa](https://pleiades.stoa.org/places/256109)
 
-<!--#### TGN ID
-[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
 
 <!--### Contributor-->
 

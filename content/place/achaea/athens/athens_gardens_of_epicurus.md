@@ -72,11 +72,11 @@ Cicero set the scene in *De finibus* [(5.1.3)](http://data.perseus.org/citations
 
 #### Pleiades ID
 
-[579885](https://pleiades.stoa.org/places/579885)
+[Athenae](https://pleiades.stoa.org/places/579885)
 
 #### TGN ID
 
-[5004159](http://vocab.getty.edu/page/tgn/5004159)
+[Agorá (ancient site)](http://vocab.getty.edu/page/tgn/5004159)
 
 ### Contributor
 

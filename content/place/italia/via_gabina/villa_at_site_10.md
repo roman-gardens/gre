@@ -81,10 +81,10 @@ Unspecified
 
 #### Pleiades ID
 
-[622606468](https://pleiades.stoa.org/places/622606468)
+[Via Praenestina](https://pleiades.stoa.org/places/622606468)
 
 #### TGN ID
-[7208125](http://vocab.getty.edu/page/tgn/7208125)
+
 
 ### Contributor
 

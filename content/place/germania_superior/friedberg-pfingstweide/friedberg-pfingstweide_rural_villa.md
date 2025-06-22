@@ -92,7 +92,7 @@ Early 2nd century - first half of 3rd century
 
 #### TGN ID
 
-[6002235](http://vocab.getty.edu/page/tgn/6002235)
+[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
 
 ### Contributor
 

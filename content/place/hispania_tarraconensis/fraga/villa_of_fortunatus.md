@@ -96,7 +96,7 @@ Unspecific
 [907088811](https://pleiades.stoa.org/places/907088811)
 
 #### TGN ID
-[7027125](http://vocab.getty.edu/page/tgn/7027125)
+[Clunia (deserted settlement)](http://vocab.getty.edu/page/tgn/7027125)
 
 ### Contributor
 AUTHOR_ID

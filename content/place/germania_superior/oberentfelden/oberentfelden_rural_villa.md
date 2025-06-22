@@ -91,11 +91,11 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 
 #### Pleiades ID
 
-[177596](https://pleiades.stoa.org/places/177596)
+[Oberentfelden](https://pleiades.stoa.org/places/177596)
 
 #### TGN ID
 
-[8703779](http://vocab.getty.edu/page/tgn/8703779)
+[Oberentfelden (inhabited place)](http://vocab.getty.edu/page/tgn/8703779)
 
 ### Contributor
 

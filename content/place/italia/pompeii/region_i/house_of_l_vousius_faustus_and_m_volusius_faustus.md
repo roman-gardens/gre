@@ -59,7 +59,7 @@ House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)
 - [drains](http://vocab.getty.edu/page/aat/300052564)
 - [lararia](http://vocab.getty.edu/page/aat/300400600)
 - [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ### Garden Description
@@ -124,7 +124,7 @@ unspecified
 
 #### TGN ID
 
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ### Contributor
 

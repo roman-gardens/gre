@@ -89,11 +89,11 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[256318]{{<relref ".">}}) \
-[256318](https://pleiades.stoa.org/places/256318)
+[Munigua]{{<relref ".">}}) \
+[Munigua](https://pleiades.stoa.org/places/256318)
 
 #### TGN ID
-[7027137](http://vocab.getty.edu/page/tgn/77027137)
+[Castillo de Mulva (deserted settlement)](http://vocab.getty.edu/page/tgn/7027137)
 
 ### Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

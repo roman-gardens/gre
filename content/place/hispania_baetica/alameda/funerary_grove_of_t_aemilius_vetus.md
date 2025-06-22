@@ -89,12 +89,12 @@ unspecified
 
 #### Pleiades ID
 
-[270382]({{<relref ".">}}) \
-[270382](https://pleiades.stoa.org/places/270382)
+[Urgapa]({{<relref ".">}}) \
+[Urgapa](https://pleiades.stoa.org/places/270382)
 
 #### TGN ID
 
-[1061700](http://vocab.getty.edu/page/tgn/1061700)
+[Alameda (inhabited place)](http://vocab.getty.edu/page/tgn/1061700)
 
 ### Contributor
 

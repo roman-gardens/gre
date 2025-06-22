@@ -84,8 +84,8 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[510567671]{{<relref ".">}}) \
-[510567671](https://pleiades.stoa.org/places/510567671)
+[Benalroma]{{<relref ".">}}) \
+[Benalroma](https://pleiades.stoa.org/places/510567671)
 
 #### TGN ID
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->

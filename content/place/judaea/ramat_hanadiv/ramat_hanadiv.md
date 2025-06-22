@@ -98,7 +98,7 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 
 #### Pleiades ID
 
-[678357](https://pleiades.stoa.org/places/678357)
+[Ramat ha-Nadiv](https://pleiades.stoa.org/places/678357)
 
 <!--######## TGN ID
 

@@ -97,7 +97,7 @@ House of the Viridarium with Niches (Maison du viridarium à niches)
 [Pupput](https://pleiades.stoa.org/places/315121)
 
 #### TGN ID
-[8697602](http://vocab.getty.edu/page/tgn/8697602)
+[Pupput (deserted settlement)](http://vocab.getty.edu/page/tgn/8697602)
 
 ### Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

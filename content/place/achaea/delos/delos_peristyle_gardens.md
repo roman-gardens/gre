@@ -74,7 +74,7 @@ Whether the *impluvium* of 30.20 square meters (a) of **House F** in insula II o
 [Delos (island)](https://pleiades.stoa.org/places/599588)
 
 #### TGN ID
-[7011273 (Dhílos,island)](http://vocab.getty.edu/page/tgn/7011273)
+[Dhílos, Nisís (island)](http://vocab.getty.edu/page/tgn/7011273)
 
 ### Contributor
 Monika Trümper (ORCID: [0000-0003-4524-6242](https://orcid.org/0000-0003-4524-6242))

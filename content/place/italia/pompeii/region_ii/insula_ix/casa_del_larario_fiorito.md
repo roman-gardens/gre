@@ -63,7 +63,7 @@ Need Fig. 77-->
 [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
 #### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ###  Excavation Dates
 Excavated 1951, 1954, 1987. Restored 1988. Re-opened 2018.

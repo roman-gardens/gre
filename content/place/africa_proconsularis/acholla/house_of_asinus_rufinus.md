@@ -97,7 +97,7 @@ mid 2nd century CE
 [Acholla](https://pleiades.stoa.org/places/324653)
 
 #### TGN ID
-[5003657](http://vocab.getty.edu/page/tgn/5003657)
+[Henchir Bou Tria (deserted settlement)](http://vocab.getty.edu/page/tgn/5003657)
 
 ### Contributor
 [Véronique Blanc-Bijon] (WorldCat Identities: [lccn-nb99006585](http://worldcat.org/identities/lccn-nb99006585/))

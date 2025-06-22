@@ -96,11 +96,11 @@ Trees were still standing in the 2nd century A.D. when Pausanias visited Nemea.
 
 #### Pleiades ID
 
-[570504](https://pleiades.stoa.org/places/570504)
+[Nemea](https://pleiades.stoa.org/places/570504)
 
 #### TGN ID
 
-[7220732](http://vocab.getty.edu/page/tgn/7220732)
+[Neméa (ancient site)](http://vocab.getty.edu/page/tgn/7220732)
 
 ### Contributor
 

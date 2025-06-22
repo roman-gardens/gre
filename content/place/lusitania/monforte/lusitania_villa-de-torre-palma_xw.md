@@ -95,10 +95,8 @@ The third phase distinguished by Maloney and Hale covered several building campa
 
 #### Pleiades ID
 
-[256478](https://pleiades.stoa.org/places/256478)
+[Torre de Palma](https://pleiades.stoa.org/places/256478)
 
-<!--#### TGN ID
-[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
 
 <!--### Contributor-->
 

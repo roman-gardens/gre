@@ -92,7 +92,7 @@ This house, the largest in *insula* III (lots 2,3,4,9,10), rivals the House of t
 
 #### TGN ID
 
-[7018163](http://vocab.getty.edu/page/tgn/7018163)
+[Utica (deserted settlement)](http://vocab.getty.edu/page/tgn/7018163)
 
 ### Contributor
 

@@ -87,10 +87,8 @@ The large number of objects of daily life found in the ruins, some under toppled
 
 #### Pleiades ID
 
-[236579](https://pleiades.stoa.org/places/236579)
+[La Olmeda](https://pleiades.stoa.org/places/236579)
 
-<!--#### TGN ID
-[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
 
 <!--### Contributor-->
 

@@ -105,7 +105,7 @@ House of the Planters (Maison aux jardinières)
 [Thamugadi](https://pleiades.stoa.org/places/334636)
 
 #### TGN ID
-[7001328](http://vocab.getty.edu/page/tgn/7001328)
+[Timgad (deserted settlement)](http://vocab.getty.edu/page/tgn/7001328)
 
 ### Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

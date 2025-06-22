@@ -94,7 +94,7 @@ Maiuri, A. 1929. *NSc*, pp. 414-415 and fig. 26 on p. 401.
 
 #### TGN ID
 
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ### Contributor
 

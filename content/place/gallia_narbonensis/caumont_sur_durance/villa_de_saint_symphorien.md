@@ -116,7 +116,7 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 
 
 ### Contributor

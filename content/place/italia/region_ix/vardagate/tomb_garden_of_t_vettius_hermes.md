@@ -92,7 +92,7 @@ unspecified
 
 #### Pleiades ID
 
-[383809](https://pleiades.stoa.org/places/383809)
+[Vardagate](https://pleiades.stoa.org/places/383809)
 
 #### TGN ID
 

@@ -44,7 +44,7 @@ Rural villa at Neerhaaren-Rekem
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518) 
 - [arbors](http://vocab.getty.edu/page/aat/300006781) 
 - [pergolas](http://vocab.getty.edu/page/aat/300006783) 
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619) 
+- [piscinae](http://vocab.getty.edu/page/aat/300375619) 
 
 
 ### Garden Description
@@ -80,7 +80,7 @@ Late first century CE
 
 #### Pleiades ID
 
-[109193](https://pleiades.stoa.org/places/109193)  
+[Neerhaaren-Rekem](https://pleiades.stoa.org/places/109193)  
 
 <!--#### TGN ID-->
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->

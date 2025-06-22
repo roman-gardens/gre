@@ -112,7 +112,7 @@ The end of the 1st to the 4th century AD
 
 #### TGN ID
 
-[7007664](http://vocab.getty.edu/page/tgn/7007664)
+[Mérida (inhabited place)](http://vocab.getty.edu/page/tgn/7007664)
 
 ### Contributor
 

@@ -50,7 +50,7 @@ Leonidaion
 
 - [Archaeological](#)
 - [artificial water channels](http://vocab.getty.edu/page/aat/300133792)
-- [planting beds]( http://vocab.getty.edu/page/aat/300430426)
+- [planting beds](http://vocab.getty.edu/page/aat/300430426)
 - [quatrefoils](http://vocab.getty.edu/page/aat/300009784)
 
 
@@ -103,7 +103,7 @@ NEW WAY ↓↓↓↓
 
 #### TGN ID
 
-[7220732](http://vocab.getty.edu/page/tgn/7220732)
+[Olympia (deserted settlement)](http://vocab.getty.edu/page/tgn/7011018)
 
 ### Contributor
 

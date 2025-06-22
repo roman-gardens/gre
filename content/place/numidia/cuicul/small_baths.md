@@ -52,7 +52,7 @@ Small Baths (Garden of the Small Baths to the south of the Great Baths; rear gar
 
 ### Keywords
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
 - [pergolas](http://vocab.getty.edu/page/aat/300006783)
 - [bath](#)
 - [sculpture](#)

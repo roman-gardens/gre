@@ -90,8 +90,6 @@ The archaeologists working on the site have not produced a detailed sequence of 
 
 [854718547](https://pleiades.stoa.org/places/854718547)
 
-<!--#### TGN ID
-[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
 
 <!--### Contributor-->
 

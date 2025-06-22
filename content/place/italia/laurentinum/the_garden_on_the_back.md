@@ -84,7 +84,7 @@ Unspecified
 
 #### Pleiades ID
 
-[422959](https://pleiades.stoa.org/places/422959)
+[Laurentes](https://pleiades.stoa.org/places/422959)
 
 
 

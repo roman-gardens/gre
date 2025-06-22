@@ -94,8 +94,8 @@ A.D 101-200
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[8712431](http://vocab.getty.edu/page/tgn/8712431)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Alba-la-Romaine (inhabited place)](http://vocab.getty.edu/page/tgn/8712431)
 
 ### Contributor
 

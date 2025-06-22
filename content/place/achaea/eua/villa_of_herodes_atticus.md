@@ -101,7 +101,7 @@ From the 2nd century CE until 400 CE
 
 #### Pleiades ID
 
-[570241](https://pleiades.stoa.org/places/570241)
+[Eua?](https://pleiades.stoa.org/places/570241)
 
 <!--#### TGN ID-->
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->

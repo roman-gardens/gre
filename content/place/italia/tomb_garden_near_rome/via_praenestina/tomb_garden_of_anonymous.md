@@ -18,8 +18,7 @@ categories:
 
 ## Location
 
-[via latina]({{<relref ".">}}) \
-[via latina](https://pleiades.stoa.org/places/93042695)
+[Via Praenestina](https://pleiades.stoa.org/places/622606468)
 
 <!--### Location Description-->
 
@@ -62,10 +61,10 @@ Unspecified
 
 #### Pleiades ID
 
-[93042695](https://pleiades.stoa.org/places/93042695)
+[Via Praenestina](https://pleiades.stoa.org/places/622606468)
 
 #### TGN ID
-[6006328](http://vocab.getty.edu/tgn/6006328)
+
 
 ### Contributor
 

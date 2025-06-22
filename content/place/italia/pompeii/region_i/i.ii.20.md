@@ -67,7 +67,7 @@ This small [caupona](http://vocab.getty.edu/page/aat/300005208) had a garden at 
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
 #### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ###  Excavation Dates
 Excavated 1869.

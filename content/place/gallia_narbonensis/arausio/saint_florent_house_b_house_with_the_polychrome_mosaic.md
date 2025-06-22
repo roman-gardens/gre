@@ -91,8 +91,8 @@ It was of high quality construction with eight black and white floor mosaics wit
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[7599818](http://vocab.getty.edu/page/tgn/7599818)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Vaucluse (inhabited place)](http://vocab.getty.edu/page/tgn/7599818)
 
 ### Contributor
 

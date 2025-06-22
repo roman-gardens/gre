@@ -48,7 +48,7 @@ The famous painting “Judgment of Solomon” (0.45 x 1.55m.; Mus. Naz. inv. no.
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
 #### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/2053030)
+[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
 ###  Excavation Dates
 Unspecified

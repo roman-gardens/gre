@@ -52,7 +52,7 @@ At the rear of the tablinium excavated in 1881 a narrow garden (a) had a portico
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
 #### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/2053030)
+[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
 ###  Excavation Dates
 1881

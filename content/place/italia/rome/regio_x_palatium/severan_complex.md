@@ -78,7 +78,7 @@ RELATED PHASES ON THE PALATINE:
 
 #### Pleiades ID
 
-[584305092](https://pleiades.stoa.org/places/584305092)
+[Temple of the Severan family](https://pleiades.stoa.org/places/584305092)
 
 ### Contributor
 

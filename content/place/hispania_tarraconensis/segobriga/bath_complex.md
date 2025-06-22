@@ -113,11 +113,11 @@ Flavian times（A.D 69–96）
 
 #### Pleiades ID
 
-[266036](https://pleiades.stoa.org/places/266036)
+[Segobriga](https://pleiades.stoa.org/places/266036)
 
 #### TGN ID
 
-[8712888](http://vocab.getty.edu/page/tgn/8712888)
+[Segobriga (deserted settlement)](http://vocab.getty.edu/page/tgn/8712888)
 
 ### Contributor
 

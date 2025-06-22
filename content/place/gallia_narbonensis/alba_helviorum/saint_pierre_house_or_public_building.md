@@ -90,8 +90,8 @@ The western wing, of which 30 m is known, has rooms richly decorated with marble
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[8712431](http://vocab.getty.edu/page/tgn/8712431)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Alba-la-Romaine (inhabited place)](http://vocab.getty.edu/page/tgn/8712431)
 
 ### Contributor
 

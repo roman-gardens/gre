@@ -84,8 +84,6 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 
 [614074944](https://pleiades.stoa.org/places/614074944)
 
-<!--#### TGN ID
-[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
 
 <!--### Contributor-->
 

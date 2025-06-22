@@ -87,7 +87,7 @@ Hellenistic
 [Antiochia/Theoupolis](https://pleiades.stoa.org/places/658381)
 
 #### TGN ID
-[7002354](http://vocab.getty.edu/page/tgn/7002354)
+[Antioch (deserted settlement)](http://vocab.getty.edu/page/tgn/7002354)
 
 ### Contributor
 [Christine Kondoleon](#) and [Elizabeth Macaulay-Lewis](#)

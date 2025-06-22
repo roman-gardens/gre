@@ -91,8 +91,8 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[521700443]{{<relref ".">}}) \
-[521700443](https://pleiades.stoa.org/places/521700443)
+[Elephant tomb at Carmona]{{<relref ".">}}) \
+[Elephant tomb at Carmona](https://pleiades.stoa.org/places/521700443)
 
 #### TGN ID
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->

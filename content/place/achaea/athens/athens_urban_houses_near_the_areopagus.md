@@ -95,7 +95,7 @@ mid-4th century CE and earlier
 
 #### TGN ID
 
-[7001393](http://vocab.getty.edu/page/tgn/7001393)
+[Athens (inhabited place)](http://vocab.getty.edu/page/tgn/7001393)
 
 ### Contributor
 

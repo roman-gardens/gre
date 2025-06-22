@@ -93,11 +93,11 @@ unspecified
 
 #### Pleiades ID
 
-[579889](https://pleiades.stoa.org/places/579889)
+[Aulis](https://pleiades.stoa.org/places/579889)
 
 #### TGN ID
 
-[5004252](http://vocab.getty.edu/page/tgn/5004252)
+[Avlida (inhabited place)](http://vocab.getty.edu/page/tgn/5004252)
 
 ### Contributor
 

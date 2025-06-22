@@ -93,10 +93,10 @@ House of Venus (Maison de Venus)
 
 #### Pleiades ID
 
-[324774](https://pleiades.stoa.org/places/324774)
+[Mactaris](https://pleiades.stoa.org/places/324774)
 
 #### TGN ID
-[5003670](http://vocab.getty.edu/page/tgn/5003670)
+[Mactar (deserted settlement)](http://vocab.getty.edu/page/tgn/5003670)
 
 ### Contributor
 

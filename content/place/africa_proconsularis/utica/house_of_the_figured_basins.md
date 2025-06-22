@@ -89,7 +89,7 @@ The house was located in the *insula* III. The rectangular courtyard, in the SW 
 
 #### TGN ID
 
-[7018163](http://vocab.getty.edu/page/tgn/7018163)
+[Utica (deserted settlement)](http://vocab.getty.edu/page/tgn/7018163)
 
 ### Contributor
 

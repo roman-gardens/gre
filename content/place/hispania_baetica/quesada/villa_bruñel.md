@@ -116,11 +116,11 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[265996]{{<relref ".">}}) \
-[265996](https://pleiades.stoa.org/places/265996)
+[Pago de Bruñel]{{<relref ".">}}) \
+[Pago de Bruñel](https://pleiades.stoa.org/places/265996)
 
 #### TGN ID
-[7027137](http://vocab.getty.edu/page/tgn/77027137)
+[Castillo de Mulva (deserted settlement)](http://vocab.getty.edu/page/tgn/7027137)
 
 ### Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

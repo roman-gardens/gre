@@ -61,7 +61,7 @@ Two hundred years after the first excavation efforts started at Herculaneum in 1
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/7031897)
+[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
 
 ### Dates

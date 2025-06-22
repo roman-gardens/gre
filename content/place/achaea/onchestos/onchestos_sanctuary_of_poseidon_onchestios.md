@@ -105,11 +105,11 @@ unspecified (mentioned in the 1st and 2nd century CE)
 
 #### Pleiades ID
 
-[540984](https://pleiades.stoa.org/places/540984)
+[Onchestos](https://pleiades.stoa.org/places/540984)
 
 #### TGN ID
 
-[7002683](http://vocab.getty.edu/page/tgn/7002683)
+[Boeotia (regional division)](http://vocab.getty.edu/page/tgn/7002683)
 
 ### Contributor
 

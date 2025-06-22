@@ -113,7 +113,7 @@ Unspecified
 [Clunia](https://pleiades.stoa.org/places/187350)
 
 #### TGN ID
-[7027125](http://vocab.getty.edu/page/tgn/7027125)
+[Clunia (deserted settlement)](http://vocab.getty.edu/page/tgn/7027125)
 
 ### Contributor
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)

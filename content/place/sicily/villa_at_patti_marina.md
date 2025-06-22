@@ -89,7 +89,7 @@ G. Voza, L’attivita della Soprintendenza alle Antichita della Sicilia Oriental
 
 #### Pleiades ID
 
-[462538](https://pleiades.stoa.org/places/462538)
+[Zancle/Messana](https://pleiades.stoa.org/places/462538)
 
 #### TGN ID
 

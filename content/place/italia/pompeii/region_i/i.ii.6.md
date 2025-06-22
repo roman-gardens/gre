@@ -67,7 +67,7 @@ The west portico of the small peristyle garden at the rear of the house was ente
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
 #### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ###  Excavation Dates
 Excavated 1872. Bombed in 1943.

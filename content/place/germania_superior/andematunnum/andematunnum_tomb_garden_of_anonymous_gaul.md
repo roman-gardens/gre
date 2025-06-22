@@ -94,11 +94,11 @@ unspecified
 
 #### Pleiades ID
 
-[177441](https://pleiades.stoa.org/places/177441)
+[Andematunnum](https://pleiades.stoa.org/places/177441)
 
 #### TGN ID
 
-[6002235](http://vocab.getty.edu/page/tgn/6002235)
+[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
 
 ### Contributor
 

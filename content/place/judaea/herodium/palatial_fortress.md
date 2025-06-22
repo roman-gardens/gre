@@ -101,7 +101,7 @@ The Palace Fortress is a cylindrical structure originally seven stories high (tw
 
 #### TGN ID
 
-[8713913](http://vocab.getty.edu/page/tgn/8713913)
+[Judean Desert (desert)](http://vocab.getty.edu/page/tgn/8713913)
 
 ### Contributor
 

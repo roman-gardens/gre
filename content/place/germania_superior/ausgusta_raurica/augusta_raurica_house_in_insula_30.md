@@ -98,7 +98,7 @@ Insula: 200 A.D.
 
 #### TGN ID
 
-[7017586](http://vocab.getty.edu/page/tgn/7017586)
+[Augusta Rauricorum (deserted settlement)](http://vocab.getty.edu/page/tgn/7017586)
 
 ### Contributor
 

@@ -93,7 +93,7 @@ R. J. A. Wilson, in G. C. M. Jansen (ed.), Cura aquarum in Sicilia: Proceedings 
 
 #### Pleiades ID
 
-[462236](https://pleiades.stoa.org/places/462236/)
+[(H)Enna](https://pleiades.stoa.org/places/462236/)
 
 #### TGN ID
 

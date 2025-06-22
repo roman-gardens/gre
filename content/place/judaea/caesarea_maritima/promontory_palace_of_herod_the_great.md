@@ -110,7 +110,7 @@ Foundations of garden architecture, water channels and garden soils of the late 
 
 #### TGN ID
 
-[7001363](http://www.getty.edu/vow/TGNFullDisplay?find=CAESAREA+MARITIMA&place=&nation=&prev_page=1&english=Y&subjectid=7001363)
+[Caesarea (deserted settlement)](http://vocab.getty.edu/page/tgn/7001363)
 
 ### Contributor
 

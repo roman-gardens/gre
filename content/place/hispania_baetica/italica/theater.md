@@ -84,7 +84,7 @@ unspecified
 [224658206](https://pleiades.stoa.org/places/224658206)
 
 #### TGN ID
-[7007822](http://vocab.getty.edu/page/tgn/7007822)
+[Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
 
 ### Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

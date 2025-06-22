@@ -98,8 +98,8 @@ In a fourth stage, the villa lost its residential character: the *pars urbana* w
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[7602340](http://vocab.getty.edu/page/tgn/7602340)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Taradeau (inhabited place)](http://vocab.getty.edu/page/tgn/7602340)
 
 ### Contributor
 

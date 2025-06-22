@@ -106,11 +106,11 @@ Unspecified
 
 #### Pleiades ID
 
-[537932154](https://pleiades.stoa.org/places/537932154)
+[Temple Grove of Nikephorion at Pergamum](https://pleiades.stoa.org/places/537932154)
 
 #### TGN ID
 
-[7016140](http://vocab.getty.edu/page/tgn/7016140)
+[Bergama (inhabited place)](http://vocab.getty.edu/page/tgn/7016140)
 
 ### Contributor
 

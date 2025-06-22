@@ -75,4 +75,4 @@ RELATED PHASES ON THE PALATINE:
 
 #### TGN ID
 
-[3000935](http://vocab.getty.edu/page/tgn/3000935)
+[Monte Palatino (hill)](http://vocab.getty.edu/page/tgn/3000935)

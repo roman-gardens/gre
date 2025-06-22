@@ -65,7 +65,7 @@ A. This garden (a) is built partially into the edge of the hill and partially on
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/7031897)
+[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
 ### Dates
 Unspecified

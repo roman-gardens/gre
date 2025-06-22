@@ -95,10 +95,10 @@ House of the Seasons (La maison des Saisons)
 
 #### Pleiades ID
 
-[324816](https://pleiades.stoa.org/places/324816)
+[Sufetula](https://pleiades.stoa.org/places/324816)
 
 #### TGN ID
-[7001754](http://vocab.getty.edu/page/tgn/7001754)
+[Sbeitla (inhabited place)](http://vocab.getty.edu/page/tgn/7001754)
 
 ### Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

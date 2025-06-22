@@ -72,13 +72,13 @@ Soprano, p. 300, no. 13.
 
 
 ### Pleiades ID
-[222138654](https://pleiades.stoa.org/places/222138654)
+[Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### TGN ID
-[7004658](http://www.getty.edu/vow/TGNFullDisplay?find=&place=&nation=&english=Y&subjectid=7004658)
+[Pompeii (deserted settlement)](http://www.getty.edu/vow/TGNFullDisplay?find=&place=&nation=&english=Y&subjectid=7004658)
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->

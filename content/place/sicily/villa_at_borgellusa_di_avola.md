@@ -90,7 +90,7 @@ id., Sicily under the Roman Empire, Warminster, 1990, pp. 197–8  with fig. 165
 
 #### Pleiades ID
 
-[462503](https://pleiades.stoa.org/places/462503)
+[Syracusae/Syrakousai](https://pleiades.stoa.org/places/462503)
 
 #### TGN ID
 

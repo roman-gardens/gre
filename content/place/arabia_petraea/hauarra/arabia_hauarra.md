@@ -73,10 +73,10 @@ A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely dam
 
 
 #### Pleiades ID
-[746716 (Auara)](https://pleiades.stoa.org/places/746716)
+[Auara](https://pleiades.stoa.org/places/746716)
 
 #### TGN ID
-[7007646 (Ḥawwārah)](http://vocab.getty.edu/page/tgn/7007646)
+[Ḥawwārah (inhabited place)](http://vocab.getty.edu/page/tgn/7007646)
 
 ### Contributor
 [M. Barbara Reeves](#)

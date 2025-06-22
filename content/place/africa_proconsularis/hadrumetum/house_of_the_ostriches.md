@@ -90,7 +90,7 @@ The house is dated to the II c.
 [Hadrumetum/Iustinianopolis](https://pleiades.stoa.org/places/324716)
 
 #### TGN ID
-[7015312](http://vocab.getty.edu/page/tgn/7015312)
+[Sousse (inhabited place)](http://vocab.getty.edu/page/tgn/7015312)
 
 ### Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

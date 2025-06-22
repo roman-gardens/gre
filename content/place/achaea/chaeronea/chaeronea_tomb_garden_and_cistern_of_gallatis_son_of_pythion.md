@@ -76,11 +76,11 @@ probably the first or second century
 
 #### Pleiades ID
 
-[540701](https://pleiades.stoa.org/places/540701)
+[Chaeronea](https://pleiades.stoa.org/places/540701)
 
 #### TGN ID
 
-[7010731](http://vocab.getty.edu/page/tgn/7010731)
+[Chaironeia (inhabited place)](http://vocab.getty.edu/page/tgn/7010731)
 
 ### Contributor
 

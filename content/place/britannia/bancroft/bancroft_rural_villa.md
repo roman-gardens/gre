@@ -88,10 +88,10 @@ late 3rd century CE, rebuilt and enlarged in the mid-4th century
 
 #### Pleiades ID
 
-[79312](https://pleiades.stoa.org/places/79312)
+[Bancroft Roman villa](https://pleiades.stoa.org/places/79312)
 
 #### TGN ID
-[7030316](http://vocab.getty.edu/page/tgn/7030316)
+[Britannia (province)](http://vocab.getty.edu/page/tgn/7030316)
 
 ### Contributor
 

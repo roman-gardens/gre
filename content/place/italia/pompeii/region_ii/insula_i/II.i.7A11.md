@@ -68,7 +68,7 @@ PompeiiinPictures, 2018, *II.1.12 Pompeii. Complesso dei Riti magici or Magic Ri
 [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
 #### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ###  Excavation Dates
 1954, 1957, 1963, 1985

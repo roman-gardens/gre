@@ -58,7 +58,7 @@ Victory Monument of Augustus
 
 ### Garden Description
 
-The *tropaeum* of Nicopolis, a monument celebrating the naval victory of Octavian over the joint forces of Anthony and Cleopatra at Actium, is situated on the so-called Sacred Hill of Apollo north of the ancient city. On this hill, according to ancient sources, Octavian camped during the crucial days before the battle on August 29, 31 BCE (Dio Cassius [51.1.3]( http://data.perseus.org/citations/urn:cts:greekLit:tlg0385.tlg001.perseus-grc1:51.1.3); Suetonius 18.2, 96.2; Plutarch, *Antonius* 65.3; Philip of Salonica, *Anthologia Palatina* 6.236).
+The *tropaeum* of Nicopolis, a monument celebrating the naval victory of Octavian over the joint forces of Anthony and Cleopatra at Actium, is situated on the so-called Sacred Hill of Apollo north of the ancient city. On this hill, according to ancient sources, Octavian camped during the crucial days before the battle on August 29, 31 BCE (Dio Cassius [51.1.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0385.tlg001.perseus-grc1:51.1.3); Suetonius 18.2, 96.2; Plutarch, *Antonius* 65.3; Philip of Salonica, *Anthologia Palatina* 6.236).
 
 At the foot of the hill is the suburb of Nicopolis which hosted the Actian Games, the site of a now ruinous stadium and gymnasium. Strabo describes the district as a sacred grove, saying the games took place every four years on the hill and in the gymnasium and a stadium below it [(7.7.6)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-eng1:7.7.6). It is not clear from his description whether the sacred grove was a pre-existing natural one, or whether the plantings were part of the building program of Octavian. The extensive construction work for the stadium and gymnasium would have greatly affected the pre-existing landscape, so it seems more likely that grove was contemporary with the construction of the stadium and the gymnasium.
 
@@ -109,11 +109,11 @@ last quarter of the 1st century BCE and later
 
 #### Pleiades ID
 
-[531013](https://pleiades.stoa.org/places/531013)
+[Nicopolis](https://pleiades.stoa.org/places/531013)
 
 #### TGN ID
 
-[7011016](http://vocab.getty.edu/page/tgn/7011016)
+[Nicopolis (deserted settlement)](http://vocab.getty.edu/page/tgn/7011016)
 
 ### Contributor
 

@@ -41,7 +41,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
 - [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
 
 ## Garden
 
@@ -49,7 +49,7 @@ Shop-House garden with [pool](http://vocab.getty.edu/page/aat/300008692) and pai
 
 ### Garden Description
 
-Two [paintings](http://vocab.getty.edu/page/aat/300033644) were found on the west wall of the [atrium](http://vocab.getty.edu/page/aat/300004097) behind this shop, one was of a *porticus* villa on the sea and the second was a garden representation (o.16 x 0.43 m.). The garden was surrounded by a lattice [fence](http://vocab.getty.edu/page/aat/300005044) which was drawn wider in the front than the rear and had a rectangular [pool]( http://vocab.getty.edu/page/aat/300375619) in front with ducks swimming.
+Two [paintings](http://vocab.getty.edu/page/aat/300033644) were found on the west wall of the [atrium](http://vocab.getty.edu/page/aat/300004097) behind this shop, one was of a *porticus* villa on the sea and the second was a garden representation (o.16 x 0.43 m.). The garden was surrounded by a lattice [fence](http://vocab.getty.edu/page/aat/300005044) which was drawn wider in the front than the rear and had a rectangular [pool](http://vocab.getty.edu/page/aat/300375619) in front with ducks swimming.
 
 <!--### Maps-->
 
@@ -89,7 +89,7 @@ Excavated 1926 and 1927. Restoration 2017.
 
 #### TGN ID
 
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ### Contributor
 

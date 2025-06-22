@@ -106,10 +106,10 @@ Domus of the Sea Front (Villa du front de mer)
 
 #### Pleiades ID
 
-[305090](https://pleiades.stoa.org/places/305090)
+[Hippo Regius](https://pleiades.stoa.org/places/305090)
 
 #### TGN ID
-[7001313](http://vocab.getty.edu/page/tgn/7001313)
+[Annaba (inhabited place)](http://vocab.getty.edu/page/tgn/7001313)
 
 ### Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

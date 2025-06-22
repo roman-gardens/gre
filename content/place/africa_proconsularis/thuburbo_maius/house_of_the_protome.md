@@ -82,7 +82,7 @@ The *Trifolium* sector, was laid out around a peristyle garden (I-V) enclosed on
 
 #### TGN ID
 
-[7001750](http://vocab.getty.edu/page/tgn/7001750)
+[Kasba, Henchir el (deserted settlement)](http://vocab.getty.edu/page/tgn/7001750)
 
 ### Contributor
 

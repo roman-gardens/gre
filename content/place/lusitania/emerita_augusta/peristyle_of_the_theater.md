@@ -123,7 +123,7 @@ While the theater belongs to multiple phases of construction, the aula sacra bel
 
 #### TGN ID
 
-[7007664](http://vocab.getty.edu/page/tgn/7007664)
+[Mérida (inhabited place)](http://vocab.getty.edu/page/tgn/7007664)
 
 ### Contributor
 

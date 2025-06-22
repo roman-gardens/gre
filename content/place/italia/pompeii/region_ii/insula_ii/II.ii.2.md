@@ -104,7 +104,7 @@ Paul Zanker, 1998, *Pompeii: Public and Private Life, pp.477-480.*
 [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
 #### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ###  Excavation Dates
 1916, 1918, 1921, 1933-35 and 1973

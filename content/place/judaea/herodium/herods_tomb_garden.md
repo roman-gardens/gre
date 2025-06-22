@@ -104,7 +104,7 @@ In 2005, Netzer’s team found the long-sought tomb of Herod, positioned on a te
 
 #### TGN ID
 
-[8713913](http://vocab.getty.edu/page/tgn/8713913)
+[Judean Desert (desert)](http://vocab.getty.edu/page/tgn/8713913)
 
 ### Contributor
 

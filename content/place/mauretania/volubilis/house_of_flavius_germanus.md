@@ -70,7 +70,7 @@ Third century CE
 
 #### Pleiades ID
 
-[814800402](https://pleiades.stoa.org/places/814800402)
+[House of Flavius Germanus](https://pleiades.stoa.org/places/814800402)
 
 #### TGN ID
 

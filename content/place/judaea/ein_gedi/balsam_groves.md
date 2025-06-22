@@ -94,11 +94,11 @@ Agriculture
 
 #### Pleiades ID
 
-[196074068](https://pleiades.stoa.org/places/196074068)
+['Ein Gedi](https://pleiades.stoa.org/places/196074068)
 
 #### TGN ID
 
-[7001389](http://www.getty.edu/vow/TGNFullDisplay?find=Ein+Gedi&place=&nation=&page=1&english=Y&subjectid=-1&checked=7001389)
+[En Gedi (inhabited place)](http://vocab.getty.edu/page/tgn/7001389)
 
 ### Contributor
 

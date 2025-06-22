@@ -94,11 +94,11 @@ unspecified
 
 #### Pleiades ID
 
-[223974300](https://pleiades.stoa.org/places/223974300)
+[House of the Fishes](https://pleiades.stoa.org/places/223974300)
 
 #### TGN ID
 
-[7007018](http://vocab.getty.edu/page/tgn/7007018)
+[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ### Contributor

@@ -101,7 +101,7 @@ Opening off of the *triclinium* to the S was a smaller area enclosed by a portic
 
 #### TGN ID
 
-[7018163](http://vocab.getty.edu/page/tgn/7018163)
+[Utica (deserted settlement)](http://vocab.getty.edu/page/tgn/7018163)
 
 ### Contributor
 

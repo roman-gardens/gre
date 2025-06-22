@@ -98,7 +98,7 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 
 #### TGN ID
 
-[5004159 (Agora)](http://vocab.getty.edu/page/tgn/5004159)
+[Agorá (ancient site)](http://vocab.getty.edu/page/tgn/5004159)
 
 ### Contributor
 

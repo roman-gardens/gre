@@ -91,8 +91,6 @@ The other garden area was slightly farther south and against the east wall of th
 
 [Conimbriga](https://pleiades.stoa.org/places/236443)
 
-<!--#### TGN ID
-[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
 
 <!--### Contributor-->
 

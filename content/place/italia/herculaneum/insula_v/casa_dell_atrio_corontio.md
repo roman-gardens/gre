@@ -61,7 +61,7 @@ A shallow cruciform-shaped *impluvium* was the central feature in the rectangula
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 #### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/7031897)
+[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
 
 ### Dates

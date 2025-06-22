@@ -109,7 +109,7 @@ UNKOWN
 
 #### TGN ID
 
-[7008715](http://vocab.getty.edu/page/tgn/7008715)
+[Tarragona (inhabited place)](http://vocab.getty.edu/page/tgn/7008715)
 
 ### Contributor
 

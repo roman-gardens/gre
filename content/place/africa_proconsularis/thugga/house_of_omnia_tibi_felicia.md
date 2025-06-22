@@ -73,7 +73,7 @@ The courtyard of the peristyle, which was paved with mosaics, was lined with bui
 
 #### TGN ID
 
-[7017996](http://vocab.getty.edu/page/tgn/7017996)
+[Dougga (deserted settlement)](http://vocab.getty.edu/page/tgn/7017996)
 
 ### Contributors
 

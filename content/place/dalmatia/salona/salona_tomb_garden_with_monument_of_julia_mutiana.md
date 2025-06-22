@@ -93,7 +93,7 @@ Second half of the second or the third century (CE)
 
 #### TGN ID
 
-[7017320](http://vocab.getty.edu/page/tgn/7017320)
+[Solin (inhabited place)](http://vocab.getty.edu/page/tgn/7017320)
 
 ### Contributor
 

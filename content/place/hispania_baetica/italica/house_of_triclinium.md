@@ -74,11 +74,10 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[224658205]{{<relref ".">}}) \
-[2224658205](https://pleiades.stoa.org/places/224658205)
+[House of the Triclinium at Italica](https://pleiades.stoa.org/places/224658205)
 
 #### TGN ID
-[7007822](http://vocab.getty.edu/page/tgn/7007822)
+[Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
 
 ### Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

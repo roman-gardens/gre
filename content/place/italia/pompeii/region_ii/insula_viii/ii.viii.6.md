@@ -76,7 +76,7 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
 #### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ###  Excavation Dates
 1953-1954, 1971-1972.

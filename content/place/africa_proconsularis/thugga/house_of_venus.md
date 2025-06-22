@@ -74,7 +74,7 @@ The house of Venus is located at the S of the capitol and is adjacent to the tem
 
 #### TGN ID
 
-[7017996](http://vocab.getty.edu/page/tgn/7017996)
+[Dougga (deserted settlement)](http://vocab.getty.edu/page/tgn/7017996)
 
 ### Contributors
 

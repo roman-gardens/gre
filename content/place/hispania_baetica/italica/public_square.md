@@ -67,11 +67,11 @@ unspecified
 
 
 #### Pleiades ID
-[810966695]{{<relref ".">}}) \
-[810966695](https://pleiades.stoa.org/places/810966695)
+[Public Square at Italica]{{<relref ".">}}) \
+[Public Square at Italica](https://pleiades.stoa.org/places/810966695)
 
 #### TGN ID
-[7007822](http://vocab.getty.edu/page/tgn/7007822)
+[Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
 
 ### Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

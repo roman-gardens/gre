@@ -89,8 +89,8 @@ At the north, a large vestibule gives access to a vast courtyard with a peristyl
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[7008791](http://vocab.getty.edu/page/tgn/7008791)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Fréjus (inhabited place)](http://vocab.getty.edu/page/tgn/7008791)
 
 ### Contributor
 

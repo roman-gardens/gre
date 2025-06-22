@@ -115,11 +115,11 @@ Tiberius times(A.D 14-37)
 
 #### Pleiades ID
 
-[972371930](https://pleiades.stoa.org/places/972371930)
+[Villa El Soldán (The Sultan)](https://pleiades.stoa.org/places/972371930)
 
 #### TGN ID
 
-[7325447](http://vocab.getty.edu/page/tgn/7325447)
+[Santa Colomba de Somoza (inhabited place)](http://vocab.getty.edu/page/tgn/7325447)
 
 ### Contributor
 

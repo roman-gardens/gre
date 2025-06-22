@@ -99,10 +99,10 @@ Unspecified
 
 #### Pleiades ID
 
-[272861914](https://pleiades.stoa.org/places/272861914)
+[Borg Roman villa](https://pleiades.stoa.org/places/272861914)
 
 #### TGN ID
-[6000727](http://vocab.getty.edu/page/tgn/6000727)
+[Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
 
 ### Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

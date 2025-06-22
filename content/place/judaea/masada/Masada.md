@@ -101,11 +101,11 @@ The Northern or Hanging Palace, the latest of Herod’s constructions on the sit
 
 #### Pleiades ID
 
-[687968](https://pleiades.stoa.org/places/687968)
+[Masada](https://pleiades.stoa.org/places/687968)
 
 #### TGN ID
 
-[7001381](http://vocab.getty.edu/page/tgn/7001381)
+[Masada (deserted settlement)](http://vocab.getty.edu/page/tgn/7001381)
 
 ### Contributor
 

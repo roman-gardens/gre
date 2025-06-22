@@ -65,7 +65,7 @@ A sublocation is any area larger than an individual garden, but located within a
 [Baetica](https://pleiades.stoa.org/places/862)
 
 #### TGN ID
-[6000567]( http://vocab.getty.edu/page/tgn/6000567)
+[Baetica (province)](http://vocab.getty.edu/page/tgn/6000567)
 
 ### Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

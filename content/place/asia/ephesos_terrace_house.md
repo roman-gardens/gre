@@ -112,7 +112,7 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 [Ephesus/Arsinoe(ia)](https://pleiades.stoa.org/places/599612)
 
 #### TGN ID
-[7002358](http://vocab.getty.edu/page/tgn/7002358)
+[Caria (former nation/state/empire)](http://vocab.getty.edu/page/tgn/7002358)
 
 ### Contributor
 [Kathryn Gleason](link) (ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378))

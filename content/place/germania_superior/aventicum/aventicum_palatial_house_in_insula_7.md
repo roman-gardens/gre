@@ -56,7 +56,7 @@ Palatial House in Insula 7 in Aventicum
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [palaces](http://vocab.getty.edu/page/aat/300005734)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
 - [presence chambers](http://vocab.getty.edu/page/aat/300004445)
 
 ### Garden Description
@@ -101,7 +101,7 @@ Severnan Period - Middle of 3rd century
 
 #### TGN ID
 
-[6002235](http://vocab.getty.edu/page/tgn/6002235)
+[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
 
 ### Contributor
 

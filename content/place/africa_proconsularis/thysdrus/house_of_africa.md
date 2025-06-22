@@ -86,7 +86,7 @@ the beginning of the IIIrd century.
 
 #### TGN ID
 
-[7017557](http://vocab.getty.edu/page/tgn/7017557)
+[El Jemm (inhabited place)](http://vocab.getty.edu/page/tgn/7017557)
 
 ### Contributor
 [Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)

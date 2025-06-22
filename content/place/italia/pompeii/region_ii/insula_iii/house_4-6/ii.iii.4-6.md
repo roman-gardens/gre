@@ -32,8 +32,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "#">}})
 
 ## House
+<!-- invalid
 [II.iii.4-6](https://pleiades.stoa.org/places/998787235)
-
+-->
 
 ## Garden
 Small domestic property with a garden to the rear.
@@ -69,8 +70,9 @@ B. The small garden to the rear of house 4 had an entrance into this large open 
 
 #### Pleiades ID
 
+<!-- invalid
 [998787235](https://pleiades.stoa.org/places/998787235)
-
+-->
 
 
 

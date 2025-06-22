@@ -104,11 +104,11 @@ unspecified
 
 #### Pleiades ID
 
-[966420455](https://pleiades.stoa.org/places/966420455)
+[Roman forum of Luna](https://pleiades.stoa.org/places/966420455)
 
 #### TGN ID
 
-[7003143](http://vocab.getty.edu/page/tgn/7003143)
+[La Spezia (province)](http://vocab.getty.edu/page/tgn/7003143)
 
 ### Contributor
 

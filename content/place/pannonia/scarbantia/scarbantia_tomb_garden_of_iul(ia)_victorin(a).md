@@ -82,11 +82,11 @@ A limestone funerary stele of probably third century date unearthed in 1973 near
 
 #### Pleiades ID
 
-[197501](https://pleiades.stoa.org/places/197501)
+[Scarbantia](https://pleiades.stoa.org/places/197501)
 
 #### TGN ID
 
-[4008442](http://vocab.getty.edu/page/tgn/4008442)
+[Pannonia (general region)](http://vocab.getty.edu/page/tgn/4008442)
 
 ### Contributor
 

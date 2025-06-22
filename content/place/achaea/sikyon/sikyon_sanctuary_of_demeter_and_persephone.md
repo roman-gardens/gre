@@ -100,11 +100,11 @@ unspecified (mentioned in the 2nd century CE)
 
 #### Pleiades ID
 
-[570668](https://pleiades.stoa.org/places/570668)
+[Sicyon/Demetrias](https://pleiades.stoa.org/places/570668)
 
 #### TGN ID
 
-[7002741](http://vocab.getty.edu/page/tgn/7002741)
+[Corinth (regional division)](http://vocab.getty.edu/page/tgn/7002741)
 
 ### Contributor
 

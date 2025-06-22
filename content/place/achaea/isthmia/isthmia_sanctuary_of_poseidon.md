@@ -114,7 +114,7 @@ unspecified
 
 #### TGN ID
 
-[5004291](http://vocab.getty.edu/page/tgn/5004291)
+[Kirás Vrísi (inhabited place)](http://vocab.getty.edu/page/tgn/5004291)
 
 ### Contributor
 

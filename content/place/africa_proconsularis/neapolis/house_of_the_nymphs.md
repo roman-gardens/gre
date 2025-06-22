@@ -114,7 +114,7 @@ Unspecified
 [Neapolis](https://pleiades.stoa.org/places/315093)
 
 #### TGN ID
-[1094981](http://vocab.getty.edu/page/tgn/1094981)
+[Nabeul (inhabited place)](http://vocab.getty.edu/page/tgn/1094981)
 
 ### Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

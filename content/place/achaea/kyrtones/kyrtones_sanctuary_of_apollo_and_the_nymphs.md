@@ -104,7 +104,7 @@ unspecified
 
 #### Pleiades ID
 
-[540898](https://pleiades.stoa.org/places/540898)
+[Kyrtones](https://pleiades.stoa.org/places/540898)
 
 <!--#### TGN ID-->
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->

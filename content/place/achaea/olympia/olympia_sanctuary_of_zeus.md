@@ -93,11 +93,11 @@ unspecified
 
 #### Pleiades ID
 
-[316294900](https://pleiades.stoa.org/places/316294900)
+[Temple of Zeus at Olympia](https://pleiades.stoa.org/places/316294900)
 
 #### TGN ID
 
-[7220732](http://vocab.getty.edu/page/tgn/7220732)
+[Olympia (deserted settlement)](http://vocab.getty.edu/page/tgn/7011018)
 
 ### Contributor
 

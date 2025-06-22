@@ -69,10 +69,10 @@ early 5th century CE to ca. 530 CE
 * H. Thompson in A. Frantz, *Late Antiquity: A.D. 267-700.* The Athenian Agora XXIV. Princeton, 1988, pp. 95-116, pls. 54-55. [(worldcat)](http://www.worldcat.org/oclc/63179976).
 
 #### Pleiades ID
-[807514119](https://pleiades.stoa.org/places/807514119)
+[Agora of Athens](https://pleiades.stoa.org/places/807514119)
 
 #### TGN ID
-[5004159](http://vocab.getty.edu/page/tgn/5004159)
+[Agorá (ancient site)](http://vocab.getty.edu/page/tgn/5004159)
 
 ### Contributor
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

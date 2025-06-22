@@ -97,11 +97,11 @@ Within the enclosure of the Islamic Alcazaba, west of the city, are the remains 
 
 #### Pleiades ID
 
-[64187403](https://pleiades.stoa.org/places/64187403)
+[Roman theater at Malaca](https://pleiades.stoa.org/places/64187403)
 
 #### TGN ID
 
-[8713074](http://vocab.getty.edu/page/tgn/8713074)
+[Alcazaba (ancient site)](http://vocab.getty.edu/page/tgn/8713074)
 
 ### Contributor
 

@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [COLONIA AUGUSTA TREVERORUM (Trier, Germany)]({{<relref ".">}}) \
-[COLONIA AUGUSTA TREVERORUM](https://pleiades.stoa.org/places/113319)
+[COLONIA AUGUSTA TREVERORUM](https://pleiades.stoa.org/places/108894)
 
 <!--### Location Description-->
 
@@ -87,10 +87,10 @@ Unspecified
 
 #### Pleiades ID
 
-[113319](https://pleiades.stoa.org/places/113319)
+[Col. Augusta Treverorum](https://pleiades.stoa.org/places/108894)
 
 #### TGN ID
-[6000727](http://vocab.getty.edu/page/tgn/6000727)
+[Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
 
 ### Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

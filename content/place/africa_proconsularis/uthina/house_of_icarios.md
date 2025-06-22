@@ -106,7 +106,7 @@ This richly decorated house is considered as one of the most remarkable *domus* 
 
 #### TGN ID
 
-[7024022](http://vocab.getty.edu/page/tgn/7024022)
+[Oudna (deserted settlement)](http://vocab.getty.edu/page/tgn/7024022)
 
 ### Contributor
 

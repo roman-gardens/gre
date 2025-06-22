@@ -106,8 +106,8 @@ A.D. 60-90 One of the principal phases of occupation
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[7008371](http://vocab.getty.edu/page/tgn/7008371)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Nîmes (inhabited place)](http://vocab.getty.edu/page/tgn/7008371)
 
 ### Contributor
 

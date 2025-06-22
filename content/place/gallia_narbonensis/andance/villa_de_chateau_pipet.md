@@ -98,8 +98,8 @@ No date was proposed for the structure in the excavation reports.
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[1031774](http://vocab.getty.edu/page/tgn/1031774)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Andance (inhabited place)](http://vocab.getty.edu/page/tgn/1031774)
 
 ### Contributor
 

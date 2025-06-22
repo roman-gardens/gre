@@ -86,10 +86,8 @@ The large number of objects of daily life found in the ruins, some under toppled
 
 #### Pleiades ID
 
-[266044](https://pleiades.stoa.org/places/266044)
+[El Solao](https://pleiades.stoa.org/places/266044)
 
-<!--#### TGN ID
-[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
 
 <!--### Contributor-->
 

@@ -89,11 +89,11 @@ unspecified
 
 #### Pleiades ID
 
-[393473](https://pleiades.stoa.org/places/393473)
+[Patavium](https://pleiades.stoa.org/places/393473)
 
 #### TGN ID
 
-[77003085](http://vocab.getty.edu/page/tgn/7003085)
+[Padua (inhabited place)](http://vocab.getty.edu/page/tgn/7003085)
 
 ### Contributor
 

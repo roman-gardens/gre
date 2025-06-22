@@ -47,7 +47,7 @@ A. A very small bath was located at the left rear of the atrium in this unusual 
 [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
 #### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ### Dates
 Unspecified

@@ -48,7 +48,7 @@ Rural Villa in Darenth
 
 - [archaeological gardens](#)
 - [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 - [waterspouts](http://vocab.getty.edu/page/aat/300248603)
 
@@ -85,11 +85,11 @@ ca. 100 CE - late 4th century CE
 
 #### Pleiades ID
 
-[79413](https://pleiades.stoa.org/places/79413)
+[Darenth](https://pleiades.stoa.org/places/79413)
 
 #### TGN ID
 
-[7027349](http://vocab.getty.edu/page/tgn/7027349)
+[Darenth (inhabited place)](http://vocab.getty.edu/page/tgn/7027349)
 
 ### Contributor
 

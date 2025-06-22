@@ -103,7 +103,7 @@ A limited examination of the courtyard area by K. Gleason in December 1985 suppo
 
 #### TGN ID
 
-[8713913](http://vocab.getty.edu/page/tgn/8713913)
+[Judean Desert (desert)](http://vocab.getty.edu/page/tgn/8713913)
 
 ### Contributor
 

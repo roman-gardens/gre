@@ -46,7 +46,7 @@ The creation of the province of Pannonia can be dated to the years following 9 B
 
 #### TGN ID
 
-[4008442](http://vocab.getty.edu/page/tgn/4008442)
+[Pannonia (general region)](http://vocab.getty.edu/page/tgn/4008442)
 
 ### Contributor
 

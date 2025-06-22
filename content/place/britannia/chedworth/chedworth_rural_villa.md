@@ -89,11 +89,11 @@ Late 19th century, 2000-2002
 
 #### Pleiades ID
 
-[79383](https://pleiades.stoa.org/places/79383)
+[Chedworth](https://pleiades.stoa.org/places/79383)
 
 #### TGN ID
 
-[7032560](http://vocab.getty.edu/page/tgn/7032560)
+[Chedworth Roman Villa (historic site)](http://vocab.getty.edu/page/tgn/7032560)
 
 ### Contributor
 

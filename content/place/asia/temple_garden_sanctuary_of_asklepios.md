@@ -103,10 +103,10 @@ Unspecified
 
 #### Pleiades ID
 
-[814448537](https://pleiades.stoa.org/places/814448537)
+[Grove of Asklepios at Kos](https://pleiades.stoa.org/places/814448537)
 
 #### TGN ID
-[7012054](http://vocab.getty.edu/page/tgn/7012054)
+[Kos, Nísos (island)](http://vocab.getty.edu/page/tgn/7012054)
 
 ### Contributor
 

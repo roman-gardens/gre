@@ -82,10 +82,8 @@ The villa from the middle of the 2nd century evolved around a peristyle garden w
 
 #### Pleiades ID
 
-[266010](https://pleiades.stoa.org/places/266010)
+[Pujol de Benicató](https://pleiades.stoa.org/places/266010)
 
-<!--#### TGN ID
-[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
 
 <!--### Contributor-->
 

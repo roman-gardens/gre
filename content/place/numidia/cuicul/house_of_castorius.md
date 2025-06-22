@@ -59,7 +59,7 @@ House of Europa, Central District (Maison d'Europe, Quartier Central)
 - [fishponds](http://vocab.getty.edu/page/aat/300008689)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
 
 ### Garden Description
 

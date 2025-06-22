@@ -70,7 +70,7 @@ The peristyle garden had four porticoes supported by 14 columns and enclosed by 
 
 #### Pleiades ID
 
-[151506429](https://pleiades.stoa.org/places/151506429)
+[Villa of the Frescoes](https://pleiades.stoa.org/places/151506429)
 
 #### TGN ID
 

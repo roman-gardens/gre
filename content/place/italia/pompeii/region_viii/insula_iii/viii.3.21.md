@@ -49,7 +49,7 @@ This small house had a roofed passageway supported by one column that bordered t
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
 #### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/2053030)
+[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
 ###  Excavation Dates
 Unspecified

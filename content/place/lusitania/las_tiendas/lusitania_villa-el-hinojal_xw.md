@@ -91,8 +91,6 @@ The house appears to have been built at the end of the third or beginning of the
 
 [213630148](https://pleiades.stoa.org/places/213630148)
 
-<!--#### TGN ID
-[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
 
 <!--### Contributor-->
 

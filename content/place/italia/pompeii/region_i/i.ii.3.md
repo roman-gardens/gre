@@ -60,7 +60,7 @@ The small viridarium at the rear of the house had narrow, slightly raised beds a
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
 #### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ###  Excavation Dates
 1916, 1950, 1985. Bombed in 1943.

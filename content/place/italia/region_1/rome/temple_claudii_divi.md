@@ -93,7 +93,7 @@ The temple is set within eight L-shaped planting beds and fourteen rectangular p
 <!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ### TGN ID
-[7000874](http://vocab.getty.edu/page/tgn/7000874)
+[Rome (inhabited place)](http://vocab.getty.edu/page/tgn/7000874)
 <!-- ID is for Location (Rome), not the individual garden -->
 
 ## Contributor

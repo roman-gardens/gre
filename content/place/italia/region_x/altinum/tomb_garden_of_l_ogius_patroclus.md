@@ -92,11 +92,11 @@ unspecified
 
 #### Pleiades ID
 
-[197110](https://pleiades.stoa.org/places/197110)
+[Altinum](https://pleiades.stoa.org/places/197110)
 
 #### TGN ID
 
-[4000603](http://vocab.getty.edu/page/tgn/4000603)
+[Altino (inhabited place)](http://vocab.getty.edu/page/tgn/4000603)
 
 ### Contributor
 

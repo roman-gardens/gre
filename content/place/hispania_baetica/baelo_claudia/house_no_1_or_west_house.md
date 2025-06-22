@@ -93,11 +93,11 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[574194294]{{<relref ".">}}) \
-[574194294](https://pleiades.stoa.org/places/574194294)
+[House of the West at Baelo]{{<relref ".">}}) \
+[House of the West at Baelo](https://pleiades.stoa.org/places/574194294)
 
 #### TGN ID
-[8712326](http://vocab.getty.edu/page/tgn/8712326)
+[Baelo Claudia (deserted settlement)](http://vocab.getty.edu/page/tgn/8712326)
 
 ### Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

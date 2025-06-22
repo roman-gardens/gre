@@ -112,7 +112,7 @@ Augustus’ remodeling of the theater and *porticus* (in 32 BCE), discussed abov
 
 #### Pleiades ID
 
-[165546433](https://pleiades.stoa.org/places/165546433)
+[Porticus Pompei](https://pleiades.stoa.org/places/165546433)
 
 ### Contributors
 

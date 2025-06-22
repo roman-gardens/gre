@@ -97,7 +97,7 @@ House of Dionysos
 [Carthago](https://pleiades.stoa.org/places/314921)
 
 #### TGN ID
-[7016143](http://vocab.getty.edu/page/tgn/7016143)
+[Carthage (deserted settlement)](http://vocab.getty.edu/page/tgn/7016143)
 
 ### Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

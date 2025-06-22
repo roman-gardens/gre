@@ -108,11 +108,11 @@ The first third of the 2nd century
 
 #### Pleiades ID
 
-[188623838](https://pleiades.stoa.org/places/188623838)
+[Villa de Los Villares](https://pleiades.stoa.org/places/188623838)
 
 #### TGN ID
 
-[7322442](http://vocab.getty.edu/page/tgn/7322442)
+[Santervás del Burgo (inhabited place)](http://vocab.getty.edu/page/tgn/7322442)
 
 ### Contributor
 

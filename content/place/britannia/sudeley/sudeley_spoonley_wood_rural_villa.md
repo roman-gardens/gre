@@ -87,11 +87,11 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 #### Pleiades ID
 
-[79693](https://pleiades.stoa.org/places/79693)
+[Spoonley](https://pleiades.stoa.org/places/79693)
 
 #### TGN ID
 
-[7030316](http://vocab.getty.edu/page/tgn/7030316)
+[Britannia (province)](http://vocab.getty.edu/page/tgn/7030316)
 
 ### Contributor
 

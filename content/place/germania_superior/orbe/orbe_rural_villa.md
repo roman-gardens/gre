@@ -91,11 +91,11 @@ House: mid-1st century CE - 4th century
 
 #### Pleiades ID
 
-[177598](https://pleiades.stoa.org/places/177598)
+[Orbe Gallo-Roman Villa](https://pleiades.stoa.org/places/177598)
 
 #### TGN ID
 
-[7007438](http://vocab.getty.edu/page/tgn/7007438)
+[Orbe (inhabited place)](http://vocab.getty.edu/page/tgn/7007438)
 
 ### Contributor
 

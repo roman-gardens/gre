@@ -53,7 +53,7 @@ Garden of the Mausoleum of Augustus \
 - [nemus (grove)](http://vocab.getty.edu/page/aat/300008884)
 - [obelisks (monumental pillars)](http://vocab.getty.edu/page/aat/300007021)
 - [(orthostat) cippus](http://vocab.getty.edu/page/aat/300006963)
-- [reliefs (sculptures)]( http://vocab.getty.edu/page/aat/300047230)
+- [reliefs (sculptures)](http://vocab.getty.edu/page/aat/300047230)
 - [sculpture](http://vocab.getty.edu/page/aat/300047090)
 - [statue](http://vocab.getty.edu/page/aat/300047600)
 - [travertine](http://vocab.getty.edu/page/aat/300011329)
@@ -87,7 +87,7 @@ In 1976, E. Bucher proposed that the *gnomon* cast a 150 m. shadow directly acro
 
 *Ara Pacis Augustae*
 
-The [Ara Pacis](https://www.digitalaugustanrome.org/records/pax-augusta-ara) is the most famous piece of Augustan monumental [sculpture](http://vocab.getty.edu/page/aat/300047090) in Rome. Dedicated in 9 BCE on [Livia’s](https://en.wikipedia.org/wiki/Livia) birthday, the Altar of Peace was a celebration of Augustus’s [*Pax Romana*](https://en.wikipedia.org/wiki/Pax_Romana). Located adjacent to the *Via Flaminia*, there is no specific evidence for its park setting; however, the [sculptural reliefs]( http://vocab.getty.edu/page/aat/300047230), especially the vegetation depicted in the lower register of the [marble](http://vocab.getty.edu/page/aat/300011443) wall that encloses the altar, contributed to the overall themes of the Augustan campus that celebrated fertility, family, and peace, among other themes. It was reconstructed in 1938 from fragments, after which Mussolini moved it from its original location, just west of the *Via Flaminia*, and placed it next to the Mausoleum of Augustus.
+The [Ara Pacis](https://www.digitalaugustanrome.org/records/pax-augusta-ara) is the most famous piece of Augustan monumental [sculpture](http://vocab.getty.edu/page/aat/300047090) in Rome. Dedicated in 9 BCE on [Livia’s](https://en.wikipedia.org/wiki/Livia) birthday, the Altar of Peace was a celebration of Augustus’s [*Pax Romana*](https://en.wikipedia.org/wiki/Pax_Romana). Located adjacent to the *Via Flaminia*, there is no specific evidence for its park setting; however, the [sculptural reliefs](http://vocab.getty.edu/page/aat/300047230), especially the vegetation depicted in the lower register of the [marble](http://vocab.getty.edu/page/aat/300011443) wall that encloses the altar, contributed to the overall themes of the Augustan campus that celebrated fertility, family, and peace, among other themes. It was reconstructed in 1938 from fragments, after which Mussolini moved it from its original location, just west of the *Via Flaminia*, and placed it next to the Mausoleum of Augustus.
 
 *Ustrinum*
 
@@ -116,7 +116,7 @@ between 28 and 23 BCE
 
 #### Pleiades ID
 
-[281368358](https://pleiades.stoa.org/places/281368358)
+[Mausoleum Augusti](https://pleiades.stoa.org/places/281368358)
 
 ### Contributor
 

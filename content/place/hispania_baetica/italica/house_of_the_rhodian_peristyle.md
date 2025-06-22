@@ -77,11 +77,11 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[932178530]{{<relref ".">}}) \
-[932178530](https://pleiades.stoa.org/places/932178530)
+[House of the Rhodian Peristyle at Italica]{{<relref ".">}}) \
+[House of the Rhodian Peristyle at Italica](https://pleiades.stoa.org/places/932178530)
 
 #### TGN ID
-[7007822](http://vocab.getty.edu/page/tgn/7007822)
+[Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
 
 ### Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

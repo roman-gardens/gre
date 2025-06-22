@@ -97,7 +97,7 @@ This late-imperial domus was discovered by J. Ramón Mélida while excavating th
 
 #### TGN ID
 
-[7007664](http://vocab.getty.edu/page/tgn/7007664)
+[Mérida (inhabited place)](http://vocab.getty.edu/page/tgn/7007664)
 
 ### Contributor
 

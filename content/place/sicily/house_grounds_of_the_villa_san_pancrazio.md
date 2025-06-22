@@ -91,7 +91,7 @@ Pool types: L. Farrar, Ancient Roman Gardens, Stroud, 1998, pp. 71–84.[(worldc
 
 #### Pleiades ID
 
-[462506](https://pleiades.stoa.org/places/462506)
+[Tauromenium](https://pleiades.stoa.org/places/462506)
 
 #### TGN ID
 

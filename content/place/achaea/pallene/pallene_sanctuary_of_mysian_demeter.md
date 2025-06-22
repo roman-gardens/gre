@@ -103,11 +103,11 @@ unspecified (mentioned in the 2nd century CE)
 
 #### Pleiades ID
 
-[580051](https://pleiades.stoa.org/places/580051)
+[Pallene](https://pleiades.stoa.org/places/580051)
 
 #### TGN ID
 
-[7002739](http://vocab.getty.edu/page/tgn/7002739)
+[Argolís (regional division)](http://vocab.getty.edu/page/tgn/7002739)
 
 ### Contributor
 

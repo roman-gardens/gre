@@ -105,7 +105,7 @@ The *triclinium* was bordered on two sides by two apartments that each had rooms
 [Althiburos](https://pleiades.stoa.org/places/324664)
 
 #### TGN ID
-[5003658](http://vocab.getty.edu/page/tgn/5003658)
+[Althiburus (deserted settlement)](http://vocab.getty.edu/page/tgn/5003658)
 
 ### Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

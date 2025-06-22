@@ -107,10 +107,10 @@ Unspecified
 
 #### Pleiades ID
 
-[69488](https://pleiades.stoa.org/places/69488)
+[Châtillon-sur-Seiche](https://pleiades.stoa.org/places/69488)
 
 #### TGN ID
-[6003548](http://vocab.getty.edu/page/tgn/6003548)
+[Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
 
 ### Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

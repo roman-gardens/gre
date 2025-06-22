@@ -88,11 +88,11 @@ unspecified
 
 #### Pleiades ID
 
-[109461](https://pleiades.stoa.org/places/109461)
+[Wiesbaden-Biebrich](https://pleiades.stoa.org/places/109461)
 
 #### TGN ID
 
-[6002235](http://vocab.getty.edu/page/tgn/6002235)
+[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
 
 ### Contributor
 

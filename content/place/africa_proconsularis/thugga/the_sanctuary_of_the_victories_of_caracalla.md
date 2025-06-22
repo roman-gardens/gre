@@ -81,7 +81,7 @@ p. 364, pl. 14. [(worldcat)](http://www.worldcat.org/oclc/1028897747)
 
 #### TGN ID
 
-[7017996](http://vocab.getty.edu/page/tgn/7017996)
+[Dougga (deserted settlement)](http://vocab.getty.edu/page/tgn/7017996)
 
 ### Contributor
 

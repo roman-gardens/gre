@@ -81,7 +81,7 @@ There is very little information about this house, only two semi circular pools 
 
 #### Pleiades ID
 
-[125904444](https://pleiades.stoa.org/places/125904444)
+[House of the Two Pools](https://pleiades.stoa.org/places/125904444)
 
 #### TGN ID
 

@@ -61,7 +61,7 @@ Vittorio Spinazzola, 1910-1923, *Pompei alla luce degli Scavi Nuovi di Via dell'
 [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
 #### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ###  Excavation Dates
 1916, 1918 and 1921.

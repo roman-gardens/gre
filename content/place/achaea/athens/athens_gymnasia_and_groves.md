@@ -112,7 +112,7 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 
 #### TGN ID
 
-[7001393](http://vocab.getty.edu/page/tgn/7001393)
+[Athens (inhabited place)](http://vocab.getty.edu/page/tgn/7001393)
 
 ### Contributor
 

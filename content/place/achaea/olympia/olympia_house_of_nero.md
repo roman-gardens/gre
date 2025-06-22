@@ -101,7 +101,7 @@ mid-1st to 3rd century CE
 
 #### TGN ID
 
-[7220732](http://vocab.getty.edu/page/tgn/7220732)
+[Olympia (deserted settlement)](http://vocab.getty.edu/page/tgn/7011018)
 
 ### Contributor
 

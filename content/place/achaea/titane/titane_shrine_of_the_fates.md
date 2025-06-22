@@ -101,7 +101,7 @@ BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 
 #### Pleiades ID
 
-[570741](https://pleiades.stoa.org/places/570741)
+[Titane](https://pleiades.stoa.org/places/570741)
 
 <!--#### TGN ID-->
 

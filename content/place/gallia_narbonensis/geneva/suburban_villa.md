@@ -83,7 +83,7 @@ None Available
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Genava](https://pleiades.stoa.org/places/177528)
 
 ### Contributor

@@ -76,7 +76,7 @@ The anonymous sanctuary, called *Dar Lachheb* (184-187 CE), located about fifty 
 
 #### TGN ID
 
-[7017996](http://vocab.getty.edu/page/tgn/7017996)
+[Dougga (deserted settlement)](http://vocab.getty.edu/page/tgn/7017996)
 
 ### Contributor
 

@@ -51,7 +51,7 @@ Dacia was of particular interest to the Romans for its supplies of lead, needed 
 
 #### TGN ID
 
-[7030323](http://vocab.getty.edu/page/tgn/7030323)
+[Dacia (historical region)](http://vocab.getty.edu/page/tgn/7030323)
 
 ### Contributor
 

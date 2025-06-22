@@ -86,11 +86,11 @@ early 4th century CE - unspecified
 
 #### Pleiades ID
 
-[79555](https://pleiades.stoa.org/places/79555)
+[Latimer](https://pleiades.stoa.org/places/79555)
 
 #### TGN ID
 
-[1029792](http://vocab.getty.edu/page/tgn/1029792)
+[Latimer (inhabited place)](http://vocab.getty.edu/page/tgn/1029792)
 
 ### Contributor
 

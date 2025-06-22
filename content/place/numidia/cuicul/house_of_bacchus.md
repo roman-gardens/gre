@@ -59,7 +59,7 @@ House of Bacchus, building south of the Great Baths (Maison de Bacchus, édifice
 - [oeci](http://vocab.getty.edu/page/aat/300080791)
 - [pergolas](http://vocab.getty.edu/page/aat/300006783)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
+- [piscinae](http://vocab.getty.edu/page/aat/300375619)
 - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 - [venus](#)
 

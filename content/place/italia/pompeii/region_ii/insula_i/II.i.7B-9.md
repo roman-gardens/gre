@@ -78,7 +78,7 @@ Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 198
 [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
 #### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
+[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 ###  Excavation Dates
 1939, 1953-1955, 1983

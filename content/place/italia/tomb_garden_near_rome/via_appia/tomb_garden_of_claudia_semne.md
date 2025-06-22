@@ -83,7 +83,7 @@ Unspecified
 
 #### Pleiades ID
 
-[537932155](https://pleiades.stoa.org/places/537932155)
+[Tomb Garden of Claudia Semne](https://pleiades.stoa.org/places/537932155)
 
 
 

@@ -108,11 +108,11 @@ unspecified
 
 #### Pleiades ID
 
-[223974298](https://pleiades.stoa.org/places/223974298)
+[Garden Houses](https://pleiades.stoa.org/places/223974298)
 
 #### TGN ID
 
-[7007018](http://vocab.getty.edu/page/tgn/7007018)
+[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ### Contributor

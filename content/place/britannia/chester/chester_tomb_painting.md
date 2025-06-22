@@ -76,11 +76,11 @@ unspecified
 
 #### Pleiades ID
 
-[89144](https://pleiades.stoa.org/places/89144)
+[Cilurnum](https://pleiades.stoa.org/places/89144)
 
 #### TGN ID
 
-[7026064]( http://vocab.getty.edu/page/tgn/7026064)
+[Chesters (inhabited place)](http://vocab.getty.edu/page/tgn/7026064)
 
 ### Contributor
 

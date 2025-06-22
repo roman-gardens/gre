@@ -102,11 +102,11 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[250016](https://pleiades.stoa.org/places/250016)
+[Villa dels Munts](https://pleiades.stoa.org/places/250016)
 
 
 #### TGN ID
-[7344921](http://vocab.getty.edu/page/tgn/7344921)
+[Altafulla (inhabited place)](http://vocab.getty.edu/page/tgn/7344921)
 
 
 ### Contributor

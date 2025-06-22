@@ -103,8 +103,8 @@ In a second stage, in the first century, a bath complex [5] with an open-air esp
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[1035905](http://vocab.getty.edu/page/tgn/1035905)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Tourves (inhabited place)](http://vocab.getty.edu/page/tgn/1035905)
 
 ### Contributor
 

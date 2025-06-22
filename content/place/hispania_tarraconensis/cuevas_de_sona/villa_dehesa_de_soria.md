@@ -92,7 +92,7 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 [667996380](https://pleiades.stoa.org/places/667996380)
 
 #### TGN ID
-[7027125](http://vocab.getty.edu/page/tgn/7027125)
+[Clunia (deserted settlement)](http://vocab.getty.edu/page/tgn/7027125)
 
 ### Contributor
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)

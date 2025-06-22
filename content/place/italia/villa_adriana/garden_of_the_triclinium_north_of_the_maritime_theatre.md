@@ -92,7 +92,7 @@ unspecified
 
 #### TGN ID
 
-[7006983](http://vocab.getty.edu/page/tgn/7006983)
+[Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
 ### Contributor

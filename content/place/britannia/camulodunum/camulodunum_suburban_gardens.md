@@ -79,11 +79,11 @@ ig. 1: Area outside the Balkerne gate before widening of the town ditch. Details
 
 #### Pleiades ID
 
-[79393](https://pleiades.stoa.org/places/79393)
+[Col. Camulodunum](https://pleiades.stoa.org/places/79393)
 
 
 #### TGN ID
-[7011866](http://vocab.getty.edu/page/tgn/7011866)
+[Colchester (inhabited place)](http://vocab.getty.edu/page/tgn/7011866)
 
 ### Contributor
 

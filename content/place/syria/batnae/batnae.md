@@ -79,7 +79,7 @@ fourth century CE
 
 #### Pleiades ID
 
-[658405](https://pleiades.stoa.org/places/658405)
+[Batnae/Markopolis](https://pleiades.stoa.org/places/658405)
 
 #### TGN ID
 [#](#)

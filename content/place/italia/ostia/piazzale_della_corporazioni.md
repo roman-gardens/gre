@@ -128,11 +128,11 @@ Domitianic period
 
 #### Pleiades ID
 
-[489630692](https://pleiades.stoa.org/places/489630692)
+[The Forum of Corporations](https://pleiades.stoa.org/places/489630692)
 
 #### TGN ID
 
-[7007018](http://vocab.getty.edu/page/tgn/7007018)
+[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ### Contributor

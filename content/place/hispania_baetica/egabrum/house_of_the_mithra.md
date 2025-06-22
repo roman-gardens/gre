@@ -96,11 +96,11 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
-[265919]{{<relref ".">}}) \
-[265919](https://pleiades.stoa.org/places/265919)
+[Igabrum/Egabrum]{{<relref ".">}}) \
+[Igabrum/Egabrum](https://pleiades.stoa.org/places/265919)
 
 #### TGN ID
-[7007570](http://vocab.getty.edu/page/tgn/7007570)
+[Cabra (inhabited place)](http://vocab.getty.edu/page/tgn/7007570)
 
 ### Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

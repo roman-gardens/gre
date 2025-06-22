@@ -62,7 +62,7 @@ Unspecified
 
 #### Pleiades ID
 
-[272213281](https://pleiades.stoa.org/places/272213281)
+[Via Tiburtina](https://pleiades.stoa.org/places/272213281)
 
 #### TGN ID
 

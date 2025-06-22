@@ -42,7 +42,7 @@ Garden of the Domus Augustana, Palatine
 - [loggias](http://vocab.getty.edu/page/aat/300004137)
 - [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
 - [nymphaeum (garden structure)](http://vocab.getty.edu/page/aat/300006809)
-- [peltae]( http://vocab.getty.edu/page/aat/300213495)
+- [peltae](http://vocab.getty.edu/page/aat/300213495)
 - [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
 - [planting beds](http://vocab.getty.edu/page/aat/300430426)
 - [pools (body of water)](http://vocab.getty.edu/page/aat/300008692)

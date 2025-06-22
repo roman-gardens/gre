@@ -88,11 +88,11 @@ unspecified (mentioned in the 2nd century CE)
 
 #### Pleiades ID
 
-[570598](https://pleiades.stoa.org/places/570598)
+[Phigaleia](https://pleiades.stoa.org/places/570598)
 
 #### TGN ID
 
-[5004240](http://vocab.getty.edu/page/tgn/5004240)
+[Phigalia (inhabited place)](http://vocab.getty.edu/page/tgn/5004240)
 
 ### Contributor
 

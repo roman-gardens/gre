@@ -66,10 +66,10 @@ Unspecified
 
 #### Pleiades ID
 
-[93042695](https://pleiades.stoa.org/places/93042695)
+[Via Latina](https://pleiades.stoa.org/places/93042695)
 
 #### TGN ID
-[6006328](http://vocab.getty.edu/tgn/6006328)
+[Via Latina (road)](http://vocab.getty.edu/page/tgn/6006328)
 
 ### Contributor
 

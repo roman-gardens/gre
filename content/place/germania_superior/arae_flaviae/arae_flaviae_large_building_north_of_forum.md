@@ -88,11 +88,11 @@ Complex built at the earliest during the reign of Trajan.
 
 #### Pleiades ID
 
-[118572](https://pleiades.stoa.org/places/118572)
+[Arae Flaviae](https://pleiades.stoa.org/places/118572)
 
 #### TGN ID
 
-[6002235](http://vocab.getty.edu/page/tgn/6002235)
+[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
 
 ### Contributor
 

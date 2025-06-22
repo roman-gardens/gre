@@ -82,7 +82,7 @@ Middle of the first century CE until the fourth century CE
 [Ara Ubiorum/Col. Claudia Ara Agrippinensium](https://pleiades.stoa.org/places/108751)
 
 #### TGN ID
-[7004446](http://vocab.getty.edu/page/tgn/7004446)
+[Cologne (inhabited place)](http://vocab.getty.edu/page/tgn/7004446)
 
 ### Contributor
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  

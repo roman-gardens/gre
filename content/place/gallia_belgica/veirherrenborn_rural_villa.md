@@ -87,7 +87,7 @@ Unspecified
  -->
 
 #### TGN ID
-[6000727](http://vocab.getty.edu/page/tgn/6000727)
+[Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
 
 ### Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

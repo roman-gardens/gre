@@ -83,11 +83,11 @@ A limestone slab found near the monastery of St. Martin in Szombathely (Savaria)
 
 #### Pleiades ID
 
-[197498](https://pleiades.stoa.org/places/197498)
+[Savaria](https://pleiades.stoa.org/places/197498)
 
 #### TGN ID
 
-[4008442](http://vocab.getty.edu/page/tgn/4008442)
+[Pannonia (general region)](http://vocab.getty.edu/page/tgn/4008442)
 
 ### Contributor
 

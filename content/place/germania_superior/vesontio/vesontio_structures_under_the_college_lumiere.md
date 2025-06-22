@@ -115,7 +115,7 @@ Gardens: Beginning and last third of second century
 
 #### TGN ID
 
-[7008356](http://vocab.getty.edu/page/tgn/7008356)
+[Besancon (inhabited place)](http://vocab.getty.edu/page/tgn/7008356)
 
 ### Contributor
 

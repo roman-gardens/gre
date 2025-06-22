@@ -94,7 +94,7 @@ unspecified
 
 #### TGN ID
 
-[7005539](hhttp://vocab.getty.edu/page/tgn/7005539)
+[Trieste (inhabited place)](hhttp://vocab.getty.edu/page/tgn/7005539)
 
 ### Contributor
 

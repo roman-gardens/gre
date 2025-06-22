@@ -92,12 +92,12 @@ unspecified
 
 #### Pleiades ID
 
-[256436]({{<relref ".">}}) \
-[256436](https://pleiades.stoa.org/places/256436)
+[El Santiscal]({{<relref ".">}}) \
+[El Santiscal](https://pleiades.stoa.org/places/256436)
 
 #### TGN ID
 
-[1061772](http://vocab.getty.edu/page/tgn/1061772)
+[Arcos de la Frontera (inhabited place)](http://vocab.getty.edu/page/tgn/1061772)
 
 ### Contributor
 

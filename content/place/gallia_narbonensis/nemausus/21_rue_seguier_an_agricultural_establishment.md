@@ -97,8 +97,8 @@ A.D 80-100 Two burials made
 
 #### TGN ID
 
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[7008371](http://vocab.getty.edu/page/tgn/7008371)
+[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+[Nîmes (inhabited place)](http://vocab.getty.edu/page/tgn/7008371)
 
 ### Contributor
 

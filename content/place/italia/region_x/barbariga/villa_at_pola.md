@@ -38,7 +38,9 @@ tags:
 ## Location
 
 [Barbariga]({{<relref ".">}}) \
+<!-- this is wrong
 [Barbariga](https://pleiades.stoa.org/places/383781)
+-->
 
 <!--### Location Description-->
 
@@ -102,17 +104,24 @@ unspecified
 
 * M. De Franceschini, 1998, *Le ville romane della X regio: Venetia et Histria. Catalogo e carta archeologica dell’insediamento romano nel territorio, dall’età repubblicana al tardo impero*, Roma.[(worldcat)](http://www.worldcat.org/oclc/1071842281)
 
+<!--
+See Römische Villa bei Pola / von Hans Schwalb (1902)
+https://babel.hathitrust.org/cgi/pt?id=hvd.32044081405060&seq=35
+-->
+
 <!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 #### Pleiades ID
 
-[870993210](https://pleiades.stoa.org/places/870993210)
+[Pola](https://pleiades.stoa.org/places/197448)
+
 
 #### TGN ID
 
-[7005771](http://vocab.getty.edu/page/tgn/7005771)
+[Pula (inhabited place)](http://vocab.getty.edu/page/tgn/7015562)
+
 
 ### Contributor
 

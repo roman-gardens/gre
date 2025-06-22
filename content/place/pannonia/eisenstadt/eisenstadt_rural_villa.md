@@ -88,7 +88,7 @@ Early 2nd century - 4th century
 
 #### TGN ID
 
-[7003056](http://vocab.getty.edu/page/tgn/7003056)
+[Eisenstadt (inhabited place)](http://vocab.getty.edu/page/tgn/7003056)
 
 ### Contributor
 
