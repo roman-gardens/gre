@@ -7,15 +7,15 @@
 		Permalink: <a href="{{ $url }}">{{ $url }}</a>
 	</div>
 {{- end }}
-{{/*
-{{- with .Date -}}
-	<div>Created: {{ time.Format "2006-01-02" . }}</div>
-{{- end -}}
+{{- if .Params.Modified -}}
+	{{- with .Date -}}
+		<div>Created: {{ time.Format "2006-01-02" . }}</div>
+	{{- end -}}
 
-{{- with .Params.Modified -}}
-	<div>Modified: {{ time.Format "2006-01-02" . }}</div>
+	{{- with .Params.Modified -}}
+		<div>Modified: {{ time.Format "2006-01-02" . }}</div>
+	{{- end -}}
 {{- end -}}
-*/}}
 </div>
 
 {{- $page := .Page -}}

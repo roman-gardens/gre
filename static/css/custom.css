@@ -17,7 +17,7 @@ a + a[target=_blank] {
   padding-left: 0.5em;
 }
 a[target=_blank], a[target=_blank]:hover {
-  font-family: Candara, Arial, sans-serif;
+  font-family: "Candara", "Arial", sans-serif;
   color: #44f;
 }
 a[target=_blank]::after {
@@ -100,7 +100,7 @@ figcaption {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0.5em 0 0;
-  xfont-family: "Candara", Arial, sans-serif;
+  font-family: "Candara", Arial, sans-serif;
 }
 
 .container--outer {
@@ -169,11 +169,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 nav.breadcrumbs {
-  xfont-family: "Candara", Arial, sans-serif;
+  font-family: "Candara", Arial, sans-serif;
   font-weight: bold;
   font-size: 130%;
   margin-bottom: 0.5em;
-  color: #262;
+  color: #282;
 }
 
 nav.breadcrumbs a {
@@ -271,9 +271,9 @@ article.list__item em {
 }
 
 .smallcrumbs {
-  xfont-family: Candara, Arial, sans-serif;
+  font-family: "Candara", "Arial", sans-serif;
 	color: #282;
-  font-size: 90%;
+  font-size: 100%;
   margin: 0;
   line-height: 1.0;
 }
@@ -283,6 +283,7 @@ article.list__item em {
 }
 
 .metadata {
+  font-family: "Candara", "Arial", sans-serif;
   margin: 0.5em 2em;
   font-size: 90%;
 }
