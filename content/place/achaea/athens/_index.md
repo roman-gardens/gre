@@ -1,0 +1,27 @@
+---
+gre_id: "4ade66dff9"
+aliases: [/id/4ade66dff9]
+type: place
+title: "Athens"
+latlon: [ 0, 0 ]
+author: 
+editor: Keith Jenkins
+date: 2025-06-23
+modified: 2025-06-23
+draft: false
+---
+
+<!--
+## Bibliography
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+-->
+
+<!--
+## Keywords
+- {{< keyword "Example keyword" >}}
+-->
+
+## Places
+- {{< id vocab="Pleiades" id="579885" term="Athenae" >}}
+- {{< id vocab="TGN" id="7001393" term="Athens (inhabited place)" >}}
+

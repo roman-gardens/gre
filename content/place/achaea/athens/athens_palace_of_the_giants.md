@@ -3,10 +3,11 @@ gre_id: "2237720cc1"
 aliases: [/id/2237720cc1]
 type: garden
 title: "Palace of the Giants"
-date: 2020-07-16T09:46:53-04:00
 latlon: [ 37.974611, 23.722431 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
+date: 2021-04-21
+modified: 2025-06-23
 draft: false
 
 categories:

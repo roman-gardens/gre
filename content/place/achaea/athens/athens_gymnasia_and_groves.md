@@ -3,72 +3,17 @@ gre_id: "67c1d91fc2"
 aliases: [/id/67c1d91fc2]
 type: garden
 title: "Gymnasia and Groves"
-date: 2020-07-16T09:47:21-04:00
 latlon: [ 37.974031, 23.743349 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
+date: 2021-04-21
+modified: 2025-06-23
 draft: false
-
-categories:
- - "Achaea"
-
-tags:
- - "elms (Ulmus)"
- - "gymnasiums"
- - "olive trees (Olea europaea)"
- - "palaestrae"
- - "peristyles (Roman courtyards)"
- - "plane trees (Platanus orientalis)"
- - "poplars (Populus)"
- - "statues"
- - "water features (landscaping)"
 ---
 
-## Province
+## Dates
 
-[Achaea]({{<relref "..">}})
-
-## Province Description
-
-Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
-The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woolen textiles and marbles.
-
-## Location
-
-[Athens]({{<relref ".">}}) \
-[Athens](https://pleiades.stoa.org/places/579885)
-
-<!--### Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--### Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
-## Garden
-
-Gymnasia and Groves
-
-## Keywords
-- [Archaeological](#)
-- [Literary](#)
-- [elms (*Ulmus* sp.)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30004945-2)
-- [gymnasiums](http://vocab.getty.edu/page/aat/300007297)
-- [olive trees (*Olea europaea*)](http://powo.science.kew.org/taxon/610675-1)
-- [palaestrae](http://vocab.getty.edu/page/aat/300007301)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [plane trees (*Platanus orientalis*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:685873-1)
-- [poplars (*Populus* sp.)](http://powo.science.kew.org/taxon/328417-2)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [water features (landscaping)](http://vocab.getty.edu/page/aat/300180674)
+4th century BCE and later
 
 ## Garden Description
 
@@ -92,9 +37,6 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-## Dates
-4th century BCE and later
-
 ## Bibliography
 
 * J. Travlos, *Bildlexikon zur Topographie des antiken Athen,* Tübingen, 1971, pp. 42-51, 180F, 181L, 340-341, 345-347, 579, figs. 59-62. [(worldcat)](http://www.worldcat.org/oclc/1024546553)
@@ -102,27 +44,21 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 * M. Carroll-Spillecke, "The gardens of Greece from Homeric to Roman times," *Journal of Garden History* 12, 1992: 91, fig. 13  
 * W. Hoepfner, “Platon’s Akademie. Eine neue Interpretation der Ruinen,” in W. Hoepfner, ed., *Antike Bibliotheken,* Mainz, 2002, pp. 56-62. [(worldcat)](http://www.worldcat.org/oclc/180882710)
 
-<!--#### Periodo ID-->
+## Keywords
 
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+- {{< keyword "Archaeological" >}}
+- {{< keyword "Literary" >}}
+- {{< keyword "elms" >}}
+- {{< keyword "gymnasiums" >}}
+- {{< keyword "olive trees" >}}
+- {{< keyword "palaestrae" >}}
+- {{< keyword "peristyles (Roman courtyards)" >}}
+- {{< keyword "plane trees" >}}
+- {{< keyword "poplars" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "water features (landscaping)" >}}
 
-## Pleiades ID
+## Places
 
-[Lyceum](https://pleiades.stoa.org/places/122572945)
+- {{< id vocab="Pleiades" id="122572945" term="Lyceum" >}}
 
-## TGN ID
-
-[Athens (inhabited place)](http://vocab.getty.edu/page/tgn/7001393)
-
-## Contributor
-
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
-
-## Publication date
-
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

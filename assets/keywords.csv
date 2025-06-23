@@ -116,7 +116,7 @@ graffiti (casual notations),AAT,300015613,graffiti (casual notations)
 granite,AAT,300011183,granite (rock)
 groves (plant communities),AAT,300008884,groves (plant communities)
 gutters (building drainage components),AAT,300052565,gutters (building drainage components)
-gymnasium,AAT,300007297,gymnasiums (physical education buildings)
+gymnasiums,AAT,300007297,gymnasiums (physical education buildings)
 Hadrianic,AAT,300107350,Hadrianic
 hanging gardens,AAT,300008100,hanging gardens
 headboards,AAT,300040447,headboards
@@ -186,7 +186,7 @@ orchards,AAT,300008890,orchards
 orthostats,AAT,300002712,orthostats
 paddock,AAT,300428748,paddocks
 palace,AAT,300005734,palaces (official residences)
-palaestra,AAT,300007301,palaestrae
+palaestrae,AAT,300007301,palaestrae
 paradise gardens,AAT,300008112,paradise gardens
 parapets,AAT,300002717,parapets (wall components)
 parterres,AAT,300184573,parterres
@@ -327,3 +327,8 @@ well houses,AAT,300008017,well houses
 whitewash (water-base paint),AAT,300015042,whitewash (water-base paint)
 woodlands (plant communities),AAT,300157169,woodlands (plant communities)
 woven material,AAT,300411341,woven material
+laurel,POWO,465049-1,Laurus nobilis
+olive trees,POWO,610675-1,Olea europaea
+elms,POWO,30004945-2,Ulmus sp.
+plane trees,POWO,685873-1,Platanus orientalis
+poplars,POWO,328417-2,Populus sp.

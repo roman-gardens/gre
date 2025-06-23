@@ -30,6 +30,10 @@ If no match is found, it will just output the keyword
 <a href="/search/?q={{ $term }}">{{ $term }}</a>
 
 {{- range where $keywords "term" $term }}
+    {{ $official := index . "officialterm" }}
+    {{ if ne $official $term }}
+        (<i>{{ $official }}</i>)
+    {{ end }}
     {{ $url := "" }}
     {{ $fullname := "" }}
     {{ range where $vocabs "vocab" .vocab}}
