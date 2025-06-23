@@ -39,14 +39,14 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Sainte-Marguerite-sur-Mer (Seine-Maritime) Roman Villa
 
-### Keywords
+## Keywords
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [hypocausts] (http://vocab.getty.edu/page/aat/300004277)
 - [exedrae] (http://vocab.getty.edu/page/aat/300081589)
 - [triclinia (rooms)] (http://vocab.getty.edu/page/aat/300004359)
 
-### Garden Description
+## Garden Description
 
 Following the fortuitous discovery of *mosaics* in 1820, the site of a large Roman villa was excavated from 1821 to 1830 by M. Solicoffre, then from 1840 to 1848 by P. J. Féret, and again in 1876 by Abbé Loth. The ruins were then abandoned, and our knowledge of them comes entirely from the very uneven documentation of these early explorations. From our perspective, however, what is noteworthy about this literature is not its inadequacy by modern standards but the considerable interest it shows in plants and gardens.
 
@@ -56,11 +56,11 @@ Eighty meters to the west, below the villa and parallel to its west side was a b
 
 The excavators also note at about 55 meters northeast of the promenade a small, square structure that could have been a little temple or shrine. They mention also two springs, one of which had a square basin and was still in use in 1876 by the inhabitants. The waters of the spring on the plateau were channeled by pipes of elm, some of which were discovered: “the trunk of an elm, 1.80 meters long, with its bark still on and hollowed out in the middle by a drill, carried water to feed the baths.”  It was found in place along with several others and was then deposited in the museum of antiquities in Rouen.
 
-### Maps
+## Maps
 
 None Available
 
-### Plans
+## Plans
 
 {{< image src="st_mar_plan.jpg" alt="A Plan of the Villa at Sainte-Marguerite-sur-Mer." title="Detailed Plan of Villa at Sainte-Marguerite-sur-Mer." >}}
 
@@ -69,14 +69,14 @@ None Available
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 None Available
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - P.J. Féret, Lettre adressée à M. de Caumont sur les fouilles pratiquées à Sainte-Marguerite sur Mer près Dieppe in *Bulletin Monumental* 9, 1843, p. 92-97.  <!-- No worldcat -->
 - Ch.W. Martin, Note sur les fouilles exécutées en 1876 sur l’emplacement de la station romaine de Ste-Marguerite-sur-Mer (Seine inférieure), in *Bulletin de la Société des Antiquaires de Normandie*, 1861, p. 319-326. [(worldcat)] (http://www.worldcat.org/oclc/1026569500)
 - abbé J. Loth, Fouilles de Ste-Marguerite-sur-Mer, in *Bulletin de la Commission des antiquités de la Seine-Inférieure*, Rouen, 1870, p. 68-75. [(worldcat)] (http://www.worldcat.org/oclc/812701053)
@@ -86,17 +86,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Mediolanum Aulercorum](https://pleiades.stoa.org/places/109153)
 
-#### TGN ID
+## TGN ID
 [Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
 
-### Contributor
+## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

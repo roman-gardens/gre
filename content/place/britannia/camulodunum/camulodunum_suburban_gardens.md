@@ -25,7 +25,7 @@ categories:
 [Camulodunum]({{<relref ".">}}) \
 [Camulodunum](https://pleiades.stoa.org/places/79393)
 
-### Location Description
+## Location Description
 
 Camulodunum began as an Iron Age settlement defended by dykes, a combination of V-shaped ditch and rampart created by the upcast earth. It extended from the Roman river on the south to the Colne on the north, a distance of some four kilometers. Within this larger area, a legionary fort was built after the Claudian conquest of Britain in AD 43. On the site of the fort, a veteran colony was planted in about AD 49 and given the name [Colonia Victricensis](#), City of Victory. It became the first provincial capital, later superseded by Londinium (London). Outside its walls was a V-shaped defensive ditch.
 
@@ -44,52 +44,52 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Suburban Gardens in Camulodunum
 
-### Keywords
+## Keywords
 
 - [archaeological gardens](#)
 - [ditches](http://vocab.getty.edu/page/aat/300006178)
 - [villae suburbanae](http://vocab.getty.edu/page/aat/300005519)
 
-### Garden Description
+## Garden Description
 
 Outside the walls of the city, utilitarian gardens were planted, possibly in the 3rd century, in allotments along the road leading to the Balkerne Gate. Upon the widening of the defensive ditch at the foot of the walls around AD 275, a thick dump of soil was deposited on these garden allotments, preserving a short stretch of mounded cultivation beds laid out in rows. The excavators have suggested that the beds might have been formed for growing vines or plants such as asparagus. It is uncertain whether the gardens were attached to suburban dwellings at this time, but by about 300 practically all suburban houses in this area had been demolished without replacement.
 
 <!-- ### Maps
 
-### Plans
+## Plans
 
-### Images
+## Images
 
 ig. 1: Area outside the Balkerne gate before widening of the town ditch. Details of the beds in the middle of the section of are gardens in the foreground are based on excavation. From Crummy, City of Victory, p. 42. (Rights statement)
 
 -->
 
-### Dates
+## Dates
 
 3rd century - about 300 CE
 
-### Bibliography
+## Bibliography
 
 *  P. Crummy, *Excavations at Lion Walk, Balkerne Lane and Middleborough, Colchester, Essex*. Colchester Archaeological Report 3, Colchester, 1984, fig. 106. [(worldcat)](http://www.worldcat.org/oclc/12511745)
 *  P. Crummy, *City of Victory*, Colchester, 1997, pp. 114-115, figs. on pp. 100, 116-117. [(worldcat)](http://www.worldcat.org/oclc/1152612897)
 
-#### Periodo ID
+## Periodo ID
 
 <!--[PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID)-->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Col. Camulodunum](https://pleiades.stoa.org/places/79393)
 
 
-#### TGN ID
+## TGN ID
 [Colchester (inhabited place)](http://vocab.getty.edu/page/tgn/7011866)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

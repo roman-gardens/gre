@@ -26,7 +26,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -38,33 +38,33 @@ The realization of this magnificent residence must have been a cherished dream o
 
 The area under the Temple of the Venus of Cnidus (Fig. 1, n. 12)
 
-### Keywords
+## Keywords
 
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 
-### Garden Description
+## Garden Description
 
 Here also the presence of a garden is only denounced by the high content of lead in the soil (SALZA PRINA RICOTTI 1994-95, fig. 7) and by the decorative setting, which is offered by the towering arches of the Venus of Cnidus' sustaining wall (Fig. 34). Then there is a large *nymphaeum* with a swimming pool set at the extreme northern side of this embankment (Fig. 31, A).
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
 {{< image src="31_belvedere.jpg" alt="Plan of the Venus of Cnidus Belvedere at Hadrian's Villa" title="Fig. 31: Plan of the Venus of Cnidus Belvedere, Eugenia Salza Prina Ricotti." >}}
 
-### Images
+## Images
 
 {{< image src="34_sustaining_wall.jpg" alt="Photograph of the sustaining wall of the Venus of Cnidus at Hadrian's Villa" title="Fig. 34: The sustaining wall of the Venus of Cnidus, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -84,21 +84,21 @@ unspecified
 <!-- Bibliography for Garden Description -->
 * E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67 (1994-95), pp. 69-85, fig. 7. [(worldcat)](http://www.worldcat.org/oclc/1006002216) <!-- link to specific issue needed -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

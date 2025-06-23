@@ -27,7 +27,7 @@ tags:
 [Pompeii]({{<relref "../..">}}) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -36,28 +36,28 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula V]({{<relref ".">}})
 
-### Keywords
+## Keywords
  - [peristyles](http://vocab.getty.edu/page/aat/300080971)
  - [tablina](http://vocab.getty.edu/page/aat/300004180)
  - [puteals](http://vocab.getty.edu/page/aat/300443458)
 
 
-### Garden Description
+## Garden Description
 At the time of the eruption this peristyle garden (a) was in the process of renovation. Located behind the tablinium, the white fluted columns on the east and north were still standing, however, all of the columns on the west and two of the south columns had been demolished. There was a rectangular pool 1.06 x 2.56 m. with a semi-circular extension in the back located in the south end of the garden. A low tufa puteal sat over a cistern opening between the first and second columns on the east end of the north side and a gutter encircled the outside edge. According to Jacono, Spano successfully recovered the planting pattern even though it had been excavated many years prior. The design was drawn out in Maiuri’s plan but no accounting was given of how the plan was recovered or what evidence was observed.  Jashemski observed that a fence had been mounted on the columns. Holes were bored at 0.96 and 0.44 m. above the ground, some still containing parts of the metal fasteners.
 
-### Plans
+## Plans
 {{< image src="fig.16_region_viii.insula_v.png" alt="Fig. 16, Plan of  Region VIII, Insula V" title="Plan of  Region VIII, Insula V" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
-#### TGN ID
+## TGN ID
 [Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
-###  Excavation Dates
+##  Excavation Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 * Jacono, Osservazioni su i viridarii pompeiani, p. 12 [(worldcat)](http://www.worldcat.org/oclc/1131425884)
 * Jashemski, *Gardens*, vol. II, p. 214 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
 * Mairui, *Notizie degli scavi di Antichita* (1944-1945), p. 150 and fig. 6 (plan) on p. 144 [(worldcat)](http://www.worldcat.org/oclc/638883283)
@@ -66,9 +66,9 @@ Unspecified
 
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

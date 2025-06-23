@@ -20,7 +20,7 @@ draft: false
 [Ostia]({{<relref ".">}}) \
 [Ostia](https://pleiades.stoa.org/places/422995)
 
-### Location Description
+## Location Description
 
 [Ostia Antica](https://en.wikipedia.org/wiki/Ostia_Antica), the port-city of Rome, was situated at the mouth ([*ostium*](https://en.wiktionary.org/wiki/ostium#Latin)) of the [Tiber](https://en.wikipedia.org/wiki/Tiber), where it flowed into the [Tyrrhenian sea](http://vocab.getty.edu/page/tgn/1112319). Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7<sup>th</sup> century by [king Ancus Marcius](https://en.wikipedia.org/wiki/Ancus_Marcius); archaeological evidence shows that the first settlement was founded as a *colonia maritima* in the 4<sup>th</sup> century BCE. and that it was already acting as the harbour of Rome in the 3<sup>rd</sup> century BCE.
 
@@ -42,7 +42,7 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
-### Location Plan
+## Location Plan
 
 {{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
 
@@ -50,7 +50,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 House of the Bucrania
 
-### Keywords
+## Keywords
 
 - [architectural terracotta](http://vocab.getty.edu/page/aat/300010670)
 - [architraves (entablature)](http://vocab.getty.edu/page/aat/300001780)
@@ -72,7 +72,7 @@ House of the Bucrania
 - [tuff](http://vocab.getty.edu/page/aat/300011264)
 - [waterspouts](http://vocab.getty.edu/page/aat/300248603)
 
-### Garden Description
+## Garden Description
 
 In the summer of 2002 part of the [*hortus*](http://vocab.getty.edu/page/aat/300008107) of the [Domus with peristyle]({{<relref "./house_with_peristyle.md/">}}) was excavated (in the west corner) (Fig. 1, d). At 80 cm under the present sea level, part of the garden of a [Late Republican](http://vocab.getty.edu/page/aat/300020540) [*domus*](http://vocab.getty.edu/page/aat/300005506) (called *Domus* with Bucrania) was revealed. The *domus* was built about 80-60 BCE and destroyed about 20-40 CE. A dark organic soil layer was found, at the same level as the floors of the building. A [flower pot](http://vocab.getty.edu/page/aat/300194749) with four holes was found in this layer. The foundation of a low wall and several structures composed of splinters of [tuff](http://vocab.getty.edu/page/aat/300011264) bound by bad quality mortar were probably part of the internal arrangement of the garden. Future excavation will certainly help to understand better these structures; the study of pollens and seeds is also in progress.
 
@@ -80,19 +80,19 @@ After the demolition of the House with Bucrania, the resulting consistent layer 
 
 At present, this is the earliest *hortus* known in ancient Ostia.
 
-### Figures
+## Figures
 
 {{< image src="ostia_fig18.jpg" alt="Plan of the Schola of the Trajan" title="Figure 1: Plan (from Morard, Wavelet 2002)." >}} <!--missing illustration-->
 
-### Dates
+## Dates
 
 80-60 BCE to 20-40 CE
 
-#### Excavation Date
+## Excavation Date
 
 summer 2002
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
@@ -106,21 +106,21 @@ summer 2002
 * T. Morard, *Mélanges de l'École française de Rome: Antiquité* Tome 115, No. 1 (2003), in press. [(worldcat)](http://www.worldcat.org/oclc/859589040)
 * T. Morard, D. Wavelet, "Prolégomènes à l’étude du site de la Schola du Trajan à Ostie," in *Mélanges de l'École française de Rome: Antiquité*, Tome 115, No. 2 (2002), pp. 759-815. [(worldcat)](http://www.worldcat.org/oclc/859589040) [(persée)](https://www.persee.fr/issue/mefr_0223-5102_2002_num_114_2)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Ostia](https://pleiades.stoa.org/places/422995)
 <!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
-#### TGN ID
+## TGN ID
 
 [Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
-### Contributor
+## Contributor
 
 Thomas Morard
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

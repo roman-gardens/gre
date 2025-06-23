@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
 [Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [arausio]({{<relref ".">}}) \
 [arausio](https://pleiades.stoa.org/places/148054)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -46,13 +46,13 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 House Cours Pourtoules
 
 
-### House Description
+## House Description
 
 In 1984 – 86, prior to construction of a parking garage, a large area of some 4,700 square meters was excavated south of the Cours Pourtoules. About a third of the ancient structures were reinforced and reburied; the rest was destroyed. The area encompassed  several ancient houses;  the one of interest to us is in the west insula.
 
 
 
-### Keywords
+## Keywords
 
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [doliums](http://vocab.getty.edu/page/aat/300400601)
@@ -63,7 +63,7 @@ In 1984 – 86, prior to construction of a parking garage, a large area of some 
 
 
 
-### Garden Description
+## Garden Description
 
 The garden to the south is not completely known. The north gallery (BG), 5.5 meters wide at its widest point, was paved with black-and-white mosaics for at least 35 meters. At the west was a gallery (17 x  3.5 m)  with a floor of pounded earth.  One side was perhaps with a full wall pierced by windows.  In the southwest corner of the garden was a well (FS) for which a half *dolium, found destroyed in the well, served as a puteal. The soil of the garden is brown clay with strata of sand. Analysis of this soil has not been able to identify traces of what was planted in it. The garden was probably put in during Augustan times, but the paucity of ceramic material that could support this date must be underlined.
 
@@ -77,7 +77,7 @@ Among the objects found at Cours Pourtoules was a terracotta *oscillum* represen
 
 
 
-### Plans
+## Plans
 
 
 {{< image src="cours_pourtoules_general_map.png" alt="General map of Cours Pourtoules" title="General map of Cours Pourtoules" >}}
@@ -92,20 +92,20 @@ Among the objects found at Cours Pourtoules was a terracotta *oscillum* represen
 
 
 
-### Images
+## Images
 
 {{< image src="maquette_cours_pourtoules.png" alt="House Cours Pouroules" title="House Cours Pouroules" >}}
 
 
 
-### Dates
+## Dates
 
 
 
 
 
 
-### Bibliography
+## Bibliography
 
 1.  “Orange, Cours Pourtoules”, Informations archéologiques in Gallia 87-88, P. 321-26
 
@@ -113,21 +113,21 @@ Among the objects found at Cours Pourtoules was a terracotta *oscillum* represen
 
 2. J.-D. Bouche, Orange, Cours Pourtoule, ilôt Ouest. Présentation des données de fouilles de l’état I et II 15-10 av. J.-C. à 40 ap. J.-C. mémoire de DEA Université d’Aix-en-Provence, dir. X. Lafon, 2003 (à verifier EM)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Vaucluse (inhabited place)](http://vocab.getty.edu/page/tgn/7599818)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

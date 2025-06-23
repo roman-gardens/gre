@@ -18,7 +18,7 @@ categories:
 [Lusitania]({{<relref "../../../..">}})
 [Lusitania](https://pleiades.stoa.org/places/1101)
 
-### Province Description
+## Province Description
 
 Despite the prior existence of urban centers like Metellinum, the capital of Lusitania was a new foundation, the Colonia Augusta Emerita (Mérida), which would also serve as the capital of one of the smaller juridical units (conventus) and would be the scene of flourishing activity in the succeeding centuries, its prosperity lasting until the late Roman and Visigothic era.  Subsequently, a series of well-known Roman cities were built in what was then Lusitania but is now partly in Portugal and partly in Spain. As well as the capital, there were Conimbriga, Salmantica, Evora, Olisipo (now Lisbon), Pax Iulia (now Beja), and Metallium Viscascense (Aljustrel), this last recognized as the capital of an important mining area. The series of wealthy villae, such as that of La Cocosa, Milreu or San Cucufate are particularly noteworthy.  Another of the important elements of the Roman era is the series of still visible ways of communication, of which the Vía de la Plata has most remaining, especially in the sections of Baños de Montemayor in Cáceres or the bridges that cross the rivers, such as that of San Pedro de Alcántara, or of Mérida.
 
@@ -27,7 +27,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 [Conimbriga]({{<relref ".">}}) \
 [Conimbriga](https://pleiades.stoa.org/places/236443)
 
-### Location Description
+## Location Description
 
 The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Augustan period and, thereafter, a forum, a public bath-house, an aqueduct and city walls were constructed.  During the Flavian period, the city was made a municipium with ius Latii.  At the end of the third or beginning of the fourth century AD, new fortification walls considerably reduced the area occupied by the city.   In the time of the Suevi it was an Episcopal See, which was then transferred to Aeminium (the present day Coimbra) around A. D. 585, when the kingdom of the Suevi was conquered by the Visigoths.  Further reduced in area and impoverished, the city survived until 986, at which date, according to Arab sources, it was destroyed by the great Muslim chief Almansor. In addition to the Augustan forum, which was completely rebuilt on a new ground plan under the Flavians, four bath houses have been excavated, and preliminary trial trenches established the plan of the amphitheater. Four domus have been excavated, three of which were left outside the wall built under the late empire.  It is in these houses, all built around peristyles, that we find the gardens of Conimbriga.
 
@@ -47,23 +47,23 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 House of the Swastika Mosaic
 
-### Keywords
+## Keywords
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 
-### Garden Description
+## Garden Description
 Far more modest than the House of Cantaber but following the same general ideas of garden design, this house was left outside the new city wall built during the late empire.  The mosaics, now in excellent condition after modern restoration, can be dated to the mid third century A.D., but the house is the result of several successive transformations.  Presumably that history explains why the main room with the mosaic with many swastikas is not aligned with the axis of the garden, though two of its three doorways offered views of it.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="HIS LUS_Conim_Swastika_Plan_CA fig1.jpg" alt="Plan view of House of the Swastika Mosaic at Conimbriga, Lusitania Province, Spain." title="Fig. 1: House of Swastika Mosaic." >}}
 
-### Images
+## Images
 
 {{< image src="HIS LUS_Conim_Swastika_Photo_CA fig2.jpg"  title="Fig. 2: Looking west over swastika mosaic to garden." >}}
 
@@ -77,7 +77,7 @@ Far more modest than the House of Cantaber but following the same general ideas 
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Conimbriga](https://pleiades.stoa.org/places/236443)
 
@@ -85,7 +85,7 @@ Far more modest than the House of Cantaber but following the same general ideas 
 <!--### Contributor-->
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

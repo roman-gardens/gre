@@ -27,7 +27,7 @@ tags:
 [Pompeii]({{<relref "../..">}}) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -36,28 +36,28 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula VII]({{<relref ".">}})
 
-### Keywords
+## Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [puteals](http://vocab.getty.edu/page/aat/300443458)
 
 
-### Garden Description
+## Garden Description
 A public garden laid out to the specifications of Vitruvius originally occupied the area at the rear of the Great Theater. There was a seventy four column portico enclosing an area with green plots of trees and shrubs and pathways for promenades. In the later years of the city the colonnade was converted into gladiator barracks and the green space became the training field. A gutter surrounded the area to collect the roof run off. There were two puteals in the east portico.
 
-### Plans
+## Plans
 {{< image src="fig.28.region_viii.insula_vii.24-27.png" alt="Fig. 28, Plan of Region VIII, Insula VII, 24-27" title="Fig. 28, Plan of Region VIII, Insula VII, 24-27" >}}
 
 
-#### Pleiades ID
+## Pleiades ID
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
-#### TGN ID
+## TGN ID
 [Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
-###  Excavation Dates
+##  Excavation Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 * Fiorelli, *Descrizione di Pompei*, pp. 350-351 [(worldcat)](http://www.worldcat.org/oclc/1198324804)
 * Jashemski, *Gardens*, 1:160 and 216 (balloon photo) and 217 (plan) on pp. 138-139 [(worldcat)](http://www.worldcat.org/oclc/1047945215)
 * Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
@@ -65,9 +65,9 @@ Unspecified
 * Fiorelli, ed. *Pompeianarum Antiquitatum Historia*, vol. 1, pt. 1, p. 202 (Feb. 7, 1767) [(worldcat)](http://www.worldcat.org/oclc/952709056)
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

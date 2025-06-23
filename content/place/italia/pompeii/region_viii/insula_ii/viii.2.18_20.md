@@ -26,7 +26,7 @@ tags:
 [Pompeii]({{<relref "../..">}}) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -36,30 +36,30 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref ".">}})
 
 
-### Keywords
+## Keywords
  - [peristyles](http://vocab.getty.edu/page/aat/300080971)
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [triclinia (couches)](http://vocab.getty.edu/page/aat/300142552)
 
-### Garden Description
+## Garden Description
 A. The Sarno Bath is included in this block of irregular shaped houses, reached by entrance 17 on the Via della Scuole that goes to the lower levels. On the street level there was a small peristyle garden (a) located in the center of the house. Two pillars supported a portico on three sides of the garden and the large triclinium (b) offered a view of the garden. A beautifully rendered painting of grape vines with clusters of fruit, birds, lizards and a little mouse graced the black walls of the peristyle.  
 B. The irregular shapes of the buildings created this triangular light well. Two large windows allowed light into the passageway from the street at entrance 20, which also received light from a third window before the passageway ended at the peristyle. The light well had a tufa gutter that drained to the east into a cistern that was accessed in the kitchen. There were likely some plantings in the light well, as well as on the four porticoed terraces to the rear, including the upper level terrace that did not survive.  
 
-### Plans
+## Plans
 {{< image src="fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
 {{< image src="fig._4_region_viii_insula_ii_18_20_a.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
-#### TGN ID
+## TGN ID
 [Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
 
-###  Excavation Dates
+##  Excavation Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 * deVos A. and de Vos, M., *Pompei, Ercolano, Stabia*, p. 58 [(worldcat)](http://www.worldcat.org/oclc/492584380)
 * Jashemski, *Gardens*, vol. II, p. 207 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
 * Koloski-Ostrow, *The Sarno bath complex*, no. 11 on fig. 1 (plan), no. 20 on fig. 1 (plan) [(worldcat)](http://www.worldcat.org/oclc/246688831)
@@ -73,9 +73,9 @@ Unspecified
 * Sogliano, *Gli scavi di Pompei dal 1873 al 1900* In Atti del Congresso Internationale di Scienze Storische, pp. 399-400 [(worldcat)][http://www.worldcat.org/oclc/883497732)
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

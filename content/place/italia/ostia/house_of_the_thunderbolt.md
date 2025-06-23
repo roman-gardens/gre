@@ -27,7 +27,7 @@ tags:
 [Ostia]({{<relref ".">}}) \
 [Ostia](https://pleiades.stoa.org/places/422995)
 
-### Location Description
+## Location Description
 
 [Ostia Antica](https://en.wikipedia.org/wiki/Ostia_Antica), the port-city of Rome, was situated at the mouth ([*ostium*](https://en.wiktionary.org/wiki/ostium#Latin)) of the [Tiber](https://en.wikipedia.org/wiki/Tiber), where it flowed into the [Tyrrhenian sea](http://vocab.getty.edu/page/tgn/1112319). Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7<sup>th</sup> century by [king Ancus Marcius](https://en.wikipedia.org/wiki/Ancus_Marcius); archaeological evidence shows that the first settlement was founded as a *colonia maritima* in the 4<sup>th</sup> century BCE. and that it was already acting as the harbour of Rome in the 3<sup>rd</sup> century BCE.
 
@@ -49,7 +49,7 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
-### Location Plan
+## Location Plan
 
 {{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
 
@@ -58,7 +58,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 House of the Thunderbolt (Domus Fulminata) \
 [House of the Thunderbolt](https://pleiades.stoa.org/places/1554484)
 
-### Keywords
+## Keywords
 
 - [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
 - [biclinia](http://vocab.getty.edu/page/aat/300170371)
@@ -74,7 +74,7 @@ House of the Thunderbolt (Domus Fulminata) \
 - [Republican](http://vocab.getty.edu/page/aat/300020537)
 - [tesserae](http://vocab.getty.edu/page/aat/300010730)
 
-### Garden Description
+## Garden Description
 
 The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden, excavated in 1941, was surrounded by a [portico](http://vocab.getty.edu/page/aat/300004145) on all four sides, supported by brick [columns](http://vocab.getty.edu/page/aat/300001571), some of which were paired or clustered in threes (Fig. 1). In the original building, dating to the [Flavian period](https://en.wikipedia.org/wiki/Flavian_dynasty), the garden (a) was furnished with a brick [*biclinium*](http://vocab.getty.edu/page/aat/300170371), with the [*klinai*](http://vocab.getty.edu/page/aat/300375544) placed opposite each other. Behind the *klinai* was an [aedicula](https://en.wikipedia.org/wiki/Aedicula)-shaped [*lararium*](http://vocab.getty.edu/page/aat/300400600) with a cylindrical marble [altar](http://vocab.getty.edu/page/aat/300003725) in front of it (Fig. 2). On the opposite side, and aligned with the entrance, was the basin of a [fountain](http://vocab.getty.edu/page/aat/300006179) with a [polychrome](http://vocab.getty.edu/page/aat/300252261) mosaic in blue and yellow [*tesserae*](http://vocab.getty.edu/page/aat/300010730) (built in a second phase, *c*. 150-200 CE). It was probably fed by the lead pipe (stamped *SEXTILIUS SECUNDUS FECIT*) that was seen by the excavators leading from the entrance towards [the Decumanus](https://en.wikipedia.org/wiki/Decumanus_Maximus). A well-head (Figs. 3-4), placed at the entrance to the garden, had a purely ornamental function, since its bottom is sealed and it only has a hole for the runoff of water. A cube-shaped stuccoed brick pedestal was erected at the southwest corner of the peristyle. Into its sloping top was inserted a marble plaque, inscribed with the letters FDC (“*fulgur dium conditum*”). It marked the spot where lightning had struck, as well as things that had been struck by the same lightning bolt and ritually buried to placate the wrath of the gods.
 
@@ -82,7 +82,7 @@ The residential rooms of the [*domus*](http://vocab.getty.edu/page/aat/300005506
 
 The house is one of the most interesting examples of the transition from the atrium peristyle house of [Republican](http://vocab.getty.edu/page/aat/300020537) tradition to the house with a colonnaded courtyard typical of Ostian residential architecture in the 2<sup>nd</sup> century CE.
 
-### Figures
+## Figures
 
 {{< image src="ostia_fig8_better_colored.jpg" alt="Plan of Domus Fulminata" title="Figure 1: Plan (after Calza 1953)." >}}
 
@@ -92,16 +92,16 @@ The house is one of the most interesting examples of the transition from the atr
 
 {{< image src="ostia_fig13b_threshold.jpg" alt="Section of the basin in th" title="Figure 4: Section of the basin (from Ricciardi, Scrinari 1996)." >}}
 
-### Dates
+## Dates
 
 [Flavian period](https://en.wikipedia.org/wiki/Flavian_dynasty) \
 150-200 CE
 
-#### Excavation Date
+## Excavation Date
 
 1941
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953. [(worldcat)](http://www.worldcat.org/oclc/248497118)
@@ -116,20 +116,20 @@ The house is one of the most interesting examples of the transition from the atr
 * M.A. Ricciardi, V. Santa Maria Scrinari, *La Civiltà dell’acqua in Ostia Antica* 2, Rome, 1996, pp. 108-111. [(worldcat)](http://www.worldcat.org/oclc/801186023)
 * L.B. van der Meer, N.L.C. Stevens, H. Stoeger, "Domus Fulminata: The House of the Thunderbolt at Ostia (III, vii, 3-5)," *Bulletin Antieke Beschaving* 80, 2005, pp. 91-111. [(worldcat)](http://www.worldcat.org/oclc/703562666)
 
-#### Pleiades ID
+## Pleiades ID
 
 [House of the Thunderbolt](https://pleiades.stoa.org/places/1554484)
 
-#### TGN ID
+## TGN ID
 
 [Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
-### Contributor
+## Contributor
 
 [Paola Olivanti](https://www.worldcat.org/identities/lccn-nr98023577/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

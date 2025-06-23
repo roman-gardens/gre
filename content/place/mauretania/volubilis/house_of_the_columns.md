@@ -24,7 +24,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 [Volubilis]({{<relref ".">}})
 [Volubilis](https://pleiades.stoa.org/places/275740)
 
-### Location Description
+## Location Description
 
 Volubilis was the capital of the province of Mauretania Tingitania. The city was of Punic foundation, located on the edge of a plain that slopes down from the Zerhoun hills. During the reign of Juba II, king of Mauretania, Volubilis knew a prosperous period. He was succeeded by his son, Ptolemy of Mauretania, who was assassinated in 40 CE by Caligula. The kingdom was then divided into two provinces, and Volubilis was elevated to the rank of municipium as a reward for taking the side of Rome during the conflict.
 
@@ -38,7 +38,7 @@ The city rapidly developed and expanded; new temples, baths, civic buildings and
 
 House of the Columns (La maison aux colonnes)
 
-### Keywords
+## Keywords
 
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
@@ -47,37 +47,37 @@ House of the Columns (La maison aux colonnes)
 - [piscinae](http://vocab.getty.edu/page/aat/300375619)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
-### Garden Description
+## Garden Description
 
 The House of the Columns, approximately 1880 square meters, is located to the north of the triumphal arch along the decumanus. The large Rhodian-type peristyle was enclosed on four sides by a portico supported by 14 columns. The space between the columns was spanned by a low wall (Plan view, Fig.1). A large circular pool filled most of the courtyard. Plants may have been grown in the space between the portico and the pool. The central space of the north portico was framed by two taller, twisted Corinthian columns in between which was a pedestal that supported a fountain sculpture. The elevated north portico permitted a good view into the garden from the triclinium (label T).
 
-### Plans
+## Plans
 <!--Plan View Image Missing-->
 <!-- {{< image src="IMAGEMISSING" alt="Plan of the House of the Columns" title="Fig. 1: Plan of the House of the Columns (Rights Statement)">}} -->
 
-### Images
+## Images
 
-### Dates
+## Dates
 
-#### Excavation Dates
+## Excavation Dates
 
-### Bibliography
+## Bibliography
 
 * Ichkhakh," Recherches sur les Maisons du Quatier de l'arc de Triomphe (Volubilis)", to be published in PSAM 2010, Fig. 7. [(worldcat)](http://www.worldcat.org/oclc/883553652)
 
 * Thouvenot, R., “La maison aux colonnes”, PSAM, 7, 1945, 132-145, fig. 4. A. [(worldcat)](http://www.worldcat.org/oclc/765468558)
 
-#### Pleiades ID
+## Pleiades ID
 
 
 
-#### TGN ID
+## TGN ID
 
-### Contributor
+## Contributor
 
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
-### Publication date
+## Publication date
 
 <!--07 July 2020-->
 

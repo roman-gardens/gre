@@ -32,7 +32,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 [Caesarea Maritima]({{<relref ".">}}) \
 [Caesarea Maritima](https://pleiades.stoa.org/places/678401/?searchterm=Caesarea%20Maritima*)
 
-### Location Description
+## Location Description
 
 Ultimately the capital of the Roman provinces of Judaea and Syria Palestina, the city was built by Herod the Great. He acquired the old Hellenistic city of Strato’s Tower from Octavian as part of a territorial expansion after Actium, and turned the modest natural harbor here into a major port city, laid out on an orthogonal urban plan. Reminiscent of the basilaea of Alexandria, the southern area of the city was devoted to Herod’s seaside palace, in its early phase, and to public entertainment facilities by the time of the city’s opening in 12 BC.  Josephus describes the port and the features of the city  (AJ 15.9.6.331 and BJ 1.21.5. 408)  including an “amphitheatron” and theater in the south, where archaeologists have discovered and restored a stadium and a theater.  These are in the area of the archaeological remains of a palace, also noted but not located by Josephus.  The city was a successful enterprise, and by the second and third centuries CE the stadium functions had moved inland and expansive villas were constructed over the remains of the stadium.  By the Byzantine era, these villas were incorporated into a new praetorium.  These palaces and villas have gardens, discovered in varying degrees of preservation, supplied with water through water channels, initially from the aqueduct and later from wells.   Upon the destruction of this district of the city, the Arab inhabitants developed gardens amidst the ruins, irrigated by wells and water channels.   
 
@@ -53,12 +53,12 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Royal Garden
 
-### Keywords
+## Keywords
 
 - [pleasure garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=4&subjectid=300008115)
 - [walled garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=5&subjectid=300008129)
 
-### Garden Description
+## Garden Description
 Byzantine Law Court and Roof Garden
 
 Architectural analysis and epigraphic finds excavated by Josef Patrich and the Combined Caesarea Excavations suggest that the buildings in the area immediately south of the harbor (Area CC) formed a governmental compound of Roman - Byzantine Caesarea, comprising a Revenue Office (skrinion), a Law Court and adjacent to them an archive or library for judicial and financial records and books. Earlier archaeologists (JECM) had identified this complex as an honorific U-shaped building; however, it is clearly the inverse.  Constructed about 200 CE, the Law Court was a vast hall (13 x 18 m.), built on top of four vaults facing west(Fig.1). In the first phase (fig 3), the hall faced west to the sea and was surrounded on three sides (N, E and S) by a reflection pool. To its east a square fountain was constructed.
@@ -69,17 +69,17 @@ During this phase the building looked out over an extended garden on the east si
 
 During the third phase, in the 6th century, the entire garden, including the fountain, was covered by a mosaic floor.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="asia_jud_caesarea_patrich_1.jpg" alt="Fig. 1: Plan of the garden area (Anna Iamim, Combined Caesarea Excavations)" title="Fig. 1: Plan of the garden area (Anna Iamim, Combined Caesarea Excavations)" >}}
 
-### Images
+## Images
 
 {{< image src="ASIA-JUD-CAESAREA-PATRICH-2.jpg" alt="Fig. 2: Reconstructed section of vaults and planting area showing roof garden construction (E. Clemence after J. Patrich)" title="Fig. 2: Reconstructed section of vaults and planting area showing roof garden construction (E. Clemence after J. Patrich)" >}}
 
@@ -87,11 +87,11 @@ During the third phase, in the 6th century, the entire garden, including the fou
 
 {{< image src="asia_jud_caesarea_patrich_4.jpg" alt="Fig. 4: Reconstructed of Phases 2 with a surrounding garden (I. Rabinowitz after J. Patrich)" title="Fig. 4: Reconstructed of Phases 2 with a surrounding garden (I. Rabinowitz after J. Patrich)" >}}
 
-### Dates
+## Dates
 
 77 CE - 638 CE
 
-### Bibliography
+## Bibliography
 
 *  K.G. Holum, “Inscriptions from the imperial revenue office of Byzantine Caesarea Palaestinae” Journal of Roman Archaeology Supplement 14, 1995: 333-345. [(worldcat)](https://www.worldcat.org/title/roman-and-byzantine-near-east-some-recent-archaeological-research/oclc/607804837&referer=brief_results)
 
@@ -100,20 +100,20 @@ During the third phase, in the 6th century, the entire garden, including the fou
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Stratonos Pyrgos/Caesarea](https://pleiades.stoa.org/places/678401/?searchterm=Caesarea%20Maritima*)
 
-#### TGN ID
+## TGN ID
 
 [Caesarea (deserted settlement)](http://vocab.getty.edu/page/tgn/7001363)
 
-### Contributor
+## Contributor
 
 [Joseph Patrich](http://pluto.mscc.huji.ac.il/~patrichj/my_web_site/)
 <!--ORCID: [#](#)-->
 
-### Publication date
+## Publication date
 
 
 3 May 2021

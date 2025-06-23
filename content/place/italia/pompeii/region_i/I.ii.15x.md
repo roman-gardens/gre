@@ -13,7 +13,7 @@ categories:
  - "Italia"
 ---
 
-# DUPLICATE!
+## DUPLICATE!
 
 This appears to be a duplicate of [id/01eee45763](/id/01eee45763)
 -KGJ
@@ -56,12 +56,12 @@ This appears to be a duplicate of [id/01eee45763](/id/01eee45763)
 
 I.ii.15
 
-### Keywords
+## Keywords
 
 - [archaeological garden](#)
 - [impluvia](http://vocab.getty.edu/page/aat/300129867)
 
-### Garden Description
+## Garden Description
 
 This humble house was excavated in 1873. It had no garden but the *impluvium* was surrounded by a low masonry wall. The top contained a planting bed which served as a small garden.
 
@@ -76,7 +76,7 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
@@ -85,16 +85,16 @@ NEW WAY ↓↓↓↓
 <!--### Images-->
 
 
-### Dates
+## Dates
 
 unspecified
 
 
-#### Excavation Dates
+## Excavation Dates
 
 1873
 
-### Bibliography
+## Bibliography
 
 * Fiorelli, *Descr.*, p. 42. [(worldcat)](http://www.worldcat.org/oclc/908272023)
 * Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](http://www.worldcat.org/oclc/921816405)
@@ -105,19 +105,19 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

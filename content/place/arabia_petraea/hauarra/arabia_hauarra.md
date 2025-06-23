@@ -41,7 +41,7 @@ Nabataean Hawara (Auara) was founded by king [Aretas III](https://en.wikipedia.o
 ## Garden
 Shrine Complex in Insula E125
 
-### Keywords
+## Keywords
 - [aqueducts](http://vocab.getty.edu/page/aat/300006165)
 - [baetyls](http://vocab.getty.edu/page/aat/300400603)
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
@@ -51,38 +51,38 @@ Shrine Complex in Insula E125
 - [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
 - [temene](http://vocab.getty.edu/page/aat/300000805)
 
-### Garden Description
+## Garden Description
 A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely damaged during the Roman conquest of Arabia Petraea, the site’s inhabitants built another shrine at the same location. The Roman-period shrine occupied the southeast corner of a multi-unit *insula* (E125), but could only be accessed from outside the complex. This shrine consisted of a square *naos* (containing a central Nabataean *baetyl* and legionary altar, bins, shelves, and votive offerings) enclosed in a rectangular open-air temenos (Fig. 3). Upon entering the temenos, worshippers walked to the *naos* along a 12.7 m long paved processional way that was flanked by two long raised planters. An aqueduct-fed basin next to the door of the *naos* appears to have supplied the shrine with so much fresh water that it must have been intended not just for ritual cleansing, but for supplying the planters as well. Given the relatively shallow depth of the planters, and that no root balls or pots were found within, they probably contained shrubs and/or flowers rather than trees. Although the architect clearly tried to make the planters symmetrical in size, shape, and location, their design (and that of the whole Roman shrine) was constrained by the reuse of some Nabataean walls as foundations.
 
-### Maps
+## Maps
 {{< image src="1_arabia_petraea_map.jpg" alt="Map of Petra location" caption="Fig 1: Map showing the location of ancient Hawara (Hauarra) in Arabia Petraea. Map by L.-A. Bedal, based on [Andrein, with the assistance of EraNavigator](https://commons.wikimedia.org/w/index.php?curid=26047529)" >}}
 
-### Plans
+## Plans
 {{< image src="2_hauarra_plan.jpg" alt="Plan of shrine in Insula E125" title="Fig 2: Plan of Shrine Complex in the southeast corner of Insula E125 (Plan by S. Fraser and D. Skinner)" >}}
 
-### Images
+## Images
 {{< image src="3_hauarra_model.jpg" alt="View down a paved path towards a small building" title="Fig. 3: Shrine Complex in Insula E125 (Reconstruction by C. Kanellopoulos and P. Konstandopoulos)" >}}
 
 
-### Dates
+## Dates
 1st century CE, mid-2nd to 3rd century CE
 
-### Bibliography
+## Bibliography
 - Oleson, J. P., M. B. Reeves, G. S. Baker, E. de Bruijn, Y. Gerber, M. Nikolic, and A. N. Sherwood. 2008. “Preliminary Report on Excavations at Al-Humayma, Ancient Hawara, 2004 and 2005.” *Annual of  the Department of  Antiquities of Jordan* 52: 309–42. [(Stable URL)](http://publication.doa.gov.jo/Publications/ViewChapterPublic/326).
 - Reeves, M. B. 2019. “A Nabataean and Roman Shrine with Civic and Military Gods at Humayma, Jordan.” *Arabian Archaeology & Epigraphy* 30 (1): 134–55. [(DOI)](https://doi.org/10.1111/aae.12121).
 
 
-#### Pleiades ID
+## Pleiades ID
 [Auara](https://pleiades.stoa.org/places/746716)
 
-#### TGN ID
+## TGN ID
 [Ḥawwārah (inhabited place)](http://vocab.getty.edu/page/tgn/7007646)
 
-### Contributor
+## Contributor
 [M. Barbara Reeves](#)
 <!-- [name](https://....) -->
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

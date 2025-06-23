@@ -25,7 +25,7 @@ tags:
 [Ostia]({{<relref ".">}}) \
 [Ostia](https://pleiades.stoa.org/places/422995)
 
-### Location Description
+## Location Description
 
 [Ostia Antica](https://en.wikipedia.org/wiki/Ostia_Antica), the port-city of Rome, was situated at the mouth ([*ostium*](https://en.wiktionary.org/wiki/ostium#Latin)) of the [Tiber](https://en.wikipedia.org/wiki/Tiber), where it flowed into the [Tyrrhenian sea](http://vocab.getty.edu/page/tgn/1112319). Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7<sup>th</sup> century by [king Ancus Marcius](https://en.wikipedia.org/wiki/Ancus_Marcius); archaeological evidence shows that the first settlement was founded as a *colonia maritima* in the 4<sup>th</sup> century BCE. and that it was already acting as the harbour of Rome in the 3<sup>rd</sup> century BCE.
 
@@ -47,7 +47,7 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
-### Location Plan
+## Location Plan
 
 {{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
 
@@ -56,7 +56,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 Insula dei Dipinti \
 [Insula dei Dipinti](https://pleiades.stoa.org/places/841214213)
 
-### Keywords
+## Keywords
 
 - [aedicules](http://vocab.getty.edu/page/aat/300002574)
 - [flowerpots](http://vocab.getty.edu/page/aat/300194749)
@@ -67,25 +67,25 @@ Insula dei Dipinti \
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 - [whitewash (water-base paint)](http://vocab.getty.edu/page/aat/300015042)
 
-### Garden Description
+## Garden Description
 
 The large open area in this [*insula*](http://vocab.getty.edu/page/aat/300000325), divided into two by a wall, was identified as a garden at the time of excavation (1914 to 1919), but on little evidence apart from the absence of paving over most of the area. Recent excavations have however clarified the phases of the garden and added some significant detail. The garden is now known to have been created as a single area, forming an integral part of the late [Hadrianic](http://vocab.getty.edu/page/aat/300107350) development comprising the three houses which make up the Insula of the Paintings (House of Jove and Ganymede, House of the Infant Bacchus and House of the Paintings). The excavations in the SW corner of the south garden (Fig. 1, Tr. 1) however produced no evidence of Hadrianic garden features, due to the garden being greatly disturbed by a substantial restoration of the *insula* somewhere in the period 150-180 CE. At this time the wall dividing the garden into two was built, and a humus-rich soil imported into the south garden area, its use as a garden being confirmed by fragments of five [flower pots](http://vocab.getty.edu/page/aat/300194749), recognized by the holes in their bases. In addition, the lower part of a [Dressel 20](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=83) [amphora](https://en.wikipedia.org/wiki/Amphora#cite_note-12) and a neat, sub-triangular pit roughly 50 cm across cut into the underlying rubble fill may have served as planters. In the [Severan](http://vocab.getty.edu/page/aat/300020566) period a small [aedicular](http://vocab.getty.edu/page/aat/300002574) shrine was added to the south face of the new garden wall, the niche being originally decorated with glass [mosaic](http://vocab.getty.edu/page/aat/300015342) above foliage plants against a red ground. This was later covered with [whitewash](http://vocab.getty.edu/page/aat/300015042) and replaced by a figured scene, and finally a [statue](http://vocab.getty.edu/page/aat/300047600) of [Jove](https://en.wikipedia.org/wiki/Jupiter_(mythology)) was installed in the niche. A section of black-and-white geometric mosaic, overlying the humus-rich soil in Trench 1 and possibly associated lightweight rough walls, suggests the creation of a summer pavilion or dining room during this period, which would have enjoyed a view of the garden shrine.
 
-### Figures
+## Figures
 
 {{< image src="ostia_fig2_better_colored.jpg" alt="Plan of the Garden and Houses of the Insula dei Dipinti" title="Figure 1: The Garden and Houses of the Insula dei Dipinti." >}}
 
-### Dates
+## Dates
 
 late Hadrianic period \
 150-180 CE
 
-#### Excavation Date
+## Excavation Date
 
 1914-1919 \
 recent excavations
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
@@ -100,24 +100,24 @@ recent excavations
 * *Giornale degli Scavi*, 1919, pp. 227-228, 251-253, 255, 263-5.
 * G. Calza, *Monumenti antichi* 26 (1920), pp. 328-330. [(worldcat)](http://www.worldcat.org/oclc/1067432688)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Insula dei Dipinti](https://pleiades.stoa.org/places/841214213)
 
-#### TGN ID
+## TGN ID
 
 [Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
-### Contributor
+## Contributor
 
 [Janet DeLaine](https://www.classics.ox.ac.uk/people/dr-janet-delaine#/)
 
-#### ORCID
+## ORCID
 
 [Janet DeLaine (0000-0002-6409-7126)](https://orcid.org/0000-0002-6409-7126)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

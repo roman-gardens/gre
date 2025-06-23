@@ -26,7 +26,7 @@ categories:
  [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 
-### Location Description
+## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
@@ -38,12 +38,12 @@ III
 ## Garden
 Casa dell’Ara Laterizia
 
-### Keywords
+## Keywords
 - [sacella](http://vocab.getty.edu/page/aat/300007570)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [opus reticulatum](http://vocab.getty.edu/page/aat/300262690)
 
-### Garden Description
+## Garden Description
 539.III.17.
 At the rear of this small house there was a courtyard with an impressive brick altar against the rear wall. Maiuri felt this was probably a roofed area which would have been a *sacellum*. This area was excavated in 1927-1929 and may have held a few potted plants.
 
@@ -60,34 +60,34 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 {{< image src="H_3_3-17.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
 
 {{< image src="H_3_1-2_18-19.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
 
 
-### Images
+## Images
 
 {{< image src="Herc. III.19-18,1-2   17.2.78.jpg" alt="Illustration of Casa dell’Ara Laterizia" title="Illustration of Casa dell’Ara Laterizia" >}}
 
 {{< image src="Herc.III.19-18,1-2   17.3.78.jpg" alt="Illustration of Casa dell’Ara Laterizia" title="Illustration of Casa dell’Ara Laterizia" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-#### TGN ID
+## TGN ID
 [Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 1835-1855
 
-### Bibliography
+## Bibliography
 - Maiuri, *Ercolano*, p. 422 and fig. 359 (plan) on p. 420.
 - A.C. *BdI* (1835),p. 129 [(worldcat)](http://www.worldcat.org/oclc/504636074)
 - Maiuri, *Herculaneum*, pp. 26-27 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
@@ -100,11 +100,11 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
-### Publication date
+## Publication date
 
 
 

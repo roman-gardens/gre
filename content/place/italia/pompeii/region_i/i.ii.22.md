@@ -28,7 +28,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -36,7 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula II]({{<relref "#">}})
 
-### Keywords
+## Keywords
 - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
 - [cauponae](http://vocab.getty.edu/page/aat/300005208)
 - [pillars](http://vocab.getty.edu/page/aat/300264605)
@@ -45,10 +45,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Garden
 Garden serving a [caupona](http://vocab.getty.edu/page/aat/300005208).
 
-### Garden Description
+## Garden Description
 This [caupona](http://vocab.getty.edu/page/aat/300005208) was excavated in 1873 but the reports offer insufficient details to determine if the open area had been planted. The room was entered directly from the street and the open area, had a [portico](http://vocab.getty.edu/page/aat/300004145) on the north and east supported by one [pillar](http://vocab.getty.edu/page/aat/300264605). Fifteen [amphorae](http://vocab.getty.edu/page/aat/300148696) with inscriptions were uncovered here.
 
-### Bibliography
+## Bibliography
 
 * Fiorelli, G. 1875. *Descrizione di Pompei*, p. 45 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)    
 * GiornSc, n.s., 1874-1877, col.60  
@@ -60,20 +60,20 @@ This [caupona](http://vocab.getty.edu/page/aat/300005208) was excavated in 1873 
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-###  Excavation Dates
+##  Excavation Dates
 Excavated 1870.
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->

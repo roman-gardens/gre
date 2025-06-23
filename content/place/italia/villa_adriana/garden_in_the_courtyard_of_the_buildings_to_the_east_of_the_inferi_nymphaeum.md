@@ -27,7 +27,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -39,18 +39,18 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Garden in the courtyard of the buildings to the East of the *Inferi Nymphaeum* (Fig. 1, n. 22)
 
-### Keywords
+## Keywords
 
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 
-### Garden Description
+## Garden Description
 
 The presence of a garden on the eastern side of this luxurious pavilion with its monumental *exedra* is denounced by the high presence of lead in its soil (SALZA PRINA RICOTTI 1994-95, fig. 7). Although peripheral to the Hadrianic residence, this place must have been of great importance. There was a very large building that at this moment is still a bit of mystery (Figg. 65 and 66). It is quite far away, it has a monumental terrace on which Piranesi imagined a little round temple; during my survey I found fragments of fine marbles all around it and the floors of the rooms around the terrace are paved with mosaic. Apart of all this it must have had some special meaning also for the successors of Hadrian as it was tended with particular care up to the end of the Empire. That is very strange. This garden is set in an area where some very important buildings, as the Academy, the Odeon and other luxurious pavilions existed but, at Hadrian's death, were abandoned and never watered, while the so called “Temple of Pluto" was tended up till the end of the Roman Empire.  We can't avoid asking ourselves: “Why?”
 
 The only explanation seems to be the fact that Hadrian, who not only was introduced to the Eleusinian mysteries but reached in them the highest degree. Thus he could have wanted to recreate in his residence a memento of them, and not only as Spartianus wrote: “ And as nothing could be missed, there he created also the Inferi.” A death reign all for him! I don’t think it is very alluring, but a memento to the Eleusinian misteries, definitely yes, and for this it is acceptable to believe that he created a big holy building and near by a grotto to remember everybody of the Plutonium (Fig. 67).
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
@@ -60,15 +60,15 @@ The only explanation seems to be the fact that Hadrian, who not only was introdu
 
 {{< image src="67_inferi_plutonium.jpg" alt="Plan showing the comparison between the small Plutinium grotto at Eleusis and the small inferi grotto at Villa Adriana" title="Fig. 67: Comparison between Eleusis and Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -88,21 +88,21 @@ unspecified
 <!-- Bibliography for Garden Description -->
 * E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67, 1994-95, fig. 7. [(worldcat)](http://www.worldcat.org/oclc/1006002216)<!-- link to specific issue needed -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

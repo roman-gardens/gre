@@ -29,7 +29,7 @@ tags:
 [Africa Proconsularis]({{<relref "..">}}) \
 [Africa proconsularis](https://pleiades.stoa.org/places/991341)
 
-### Province Description
+## Province Description
 
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
@@ -41,7 +41,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 {{< image src="thuburbo_house_of_bacchus_and_ariadne.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
 
-### Location Description
+## Location Description
 
 The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to a *municipium* by Hadrian (117-138), and to a colony during the rein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.
 
@@ -50,7 +50,7 @@ The city occupies the slopes of a hill in a fertile grain producing area about 5
 
 House of Bacchus and Ariadne (Maison de Bacchus et Ariane)
 
-### Keywords
+## Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
@@ -63,7 +63,7 @@ House of Bacchus and Ariadne (Maison de Bacchus et Ariane)
 - [pits (earthworks)](http://vocab.getty.edu/page/aat/300008027)
 - [furniture](#)
 
-### Garden Description
+## Garden Description
 
 This large house, occupying most of an insula (excavated in l925), dates in its present form from the early fifth century.  The SW part of the house was devoted to business, the production of olive oil.
 
@@ -83,12 +83,12 @@ The trees in this garden were probably food bearing trees.  Ancient Tunisia had 
 
 We next consider the identity of the many smaller roots.  Since this garden was viewed from the large formal dining room, an effort would have been made to make it beautiful all year round.  Fruit trees would have been beautiful in flower or fruit but they are deciduous.  Only the olive tree is evergreen.  Ornamental plant material in ancient Roman gardens was extremely limited, but the majority of the plants were evergreen and produced beautiful gardens in every season, welcome in winter and refreshingly cool in summer.  The plant material in Tunisia was limited for the most part to the laurel, myrtle, rosemary, laurustinus, oleander, acanthus and ivy.  There does not seem to be a place in this garden for ivy, but any of the other plants could have been used.  Roman gardens had few flowers, especially with color.  Roses are pictured in Tunisian mosaics and they may have been used in this garden. The oleander (Nerium oleander L.) with its striking pink flowers is the only colorful garden shrub.  It is widespread in all Tunisia and tolerant of variable growing conditions.  It seems probable that oleanders, so prominent in modern Tunisian gardens, as well as in the wild, also added color to this garden.
 
-### Maps
+## Maps
 
-### Plans
+## Plans
 {{< image src="AFR_Thub_Hba_malek fig1.jpg" alt="Fig. 1: Plan of the House of Bacchus and Ariadne" title="Fig. 1: Plan of the House of Bacchus and Ariadne. (CMT, V. II, fasc.4, Pl. XXIV. Jashemski, W. F., 1995, p. 561, fig. 2)" >}}
 
-### Images
+## Images
 {{< image src="photography_of_the_decayed_tree_root.jpg" alt="Decayed tree root 23 cm in diameter (Photo J. Foss)" title="Fig. 2: Decayed tree root 23 cm in diameter. (Photo J. Foss, Jashemski, W. F., 1995, fig. 5)" >}}
 
 {{< image src="House_of_Bacchus_and_Ariadne_Detail_Plan.jpg" alt="Detail, Plan of courtyard garden, House of Bacchus and Ariadne" title="Fig. 3: Detail, Plan of courtyard garden, House of Bacchus and Ariadne. (Victoria I, Jashemski, W. F., 1995, fig. 7)" >}}
@@ -96,11 +96,11 @@ We next consider the identity of the many smaller roots.  Since this garden was 
 {{< image src="House_of_Bacchus_and_Ariadne_Drawing.jpg" alt="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne" title="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne. (Victoria I, Jashemski, W. F., 1995, fig. 11)" >}}
 <!--convert photos to jpeg-->
 
-### Dates
+## Dates
 
 5th century CE
 
-### Bibliography
+## Bibliography
 * Alexander, M. A., Ben Abed-Ben Khader, A. and David, S., *Corpus des Mosaïques de Tunisie*, *Thuburbo  Majus,  Les  mosaïques  de  la  région  Est*,  V.  II,  fasc.4, INA, Tunis, 1994, pp.39-66, Pl. XXIV. [(worldcat)](http://www.worldcat.org/oclc/71513636)
 * Ben, Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](http://www.worldcat.org/oclc/20058336)
 *  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.214-217. [(worldcat)](http://www.worldcat.org/oclc/989088620)
@@ -114,17 +114,17 @@ at Thuburbo Maius, Zaghouan, Tunisia" in *Sourcebook for Garden Archaeology, Mth
 
 
 
-#### Pleiades_ID
+## Pleiades_ID
 
 [Thuburbo Maius](https://pleiades.stoa.org/places/315220)
 
-#### TGN ID
+## TGN ID
 
 [Kasba, Henchir el (deserted settlement)](http://vocab.getty.edu/page/tgn/7001750)
 
-### Contributor
+## Contributor
 
 [Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 
-### Publication Date
+## Publication Date
 21 Apr 2021

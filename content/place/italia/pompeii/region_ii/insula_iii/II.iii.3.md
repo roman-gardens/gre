@@ -10,7 +10,7 @@ editor: NAME_OF_EDITOR
 draft: true
 ---
 
-# Province
+## Province
 
 <!--- Content of Province heading --->
 
@@ -19,14 +19,14 @@ draft: true
 <!-- DESCRIPTION -->
 
 
-# Location
+## Location
 
 
 ## Location Description
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
@@ -37,7 +37,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 <!-- DESCRIPTION -->
 
-# Garden
+## Garden
 <!-- List of gardens in province -->
 <!-- May be left blank for now -->
 
@@ -52,16 +52,16 @@ A sublocation is any area larger than an individual garden, but located within a
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-### Periodo ID
+## Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+## Pleiades ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### TGN ID
+## TGN ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
@@ -70,7 +70,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 <!-- [AUTHOR_NAME](AUTHOR_LINK) -->
 
-### ORCID
+## ORCID
 
 <!-- [ORCID](https://orcid.org/ORCID) -->
 

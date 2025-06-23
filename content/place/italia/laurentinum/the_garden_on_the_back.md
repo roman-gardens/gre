@@ -26,7 +26,7 @@ categories:
 ## Sublocation
 laurentinum
 
-### Sublocation Description
+## Sublocation Description
 
 The discovery of the Laurentinum
 
@@ -44,27 +44,27 @@ At the end of the XIX century the village was found. As the Municipality of Rome
 
 The garden on the back
 
-### Keywords
+## Keywords
 
 - [insulae](http://vocab.getty.edu/page/aat/300000325)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
-### Garden Description
+## Garden Description
 Excavating the garden of the Laurentinum would have been very interesting, but there was not the time, nor the money. However we found where it was: a rectangular area free from masonry set, as the letter said, on the back of the famous cryptoporticus, one of the principal highlights of the Laurentine. Pliny told us that a long vine trellis ran along this building and that mulberry trees and figs grew in the garden. Thus the place, with its fruit trees, must have been pleasingly rustic. There was also a long hedge of box trees. Rosemary took the place of buxum every time the bushes had to be exposed to the sea winds. As Pliny explained, buxum couldn't stand the salt and, when exposed to it, it quickly dried up and died, while rosemary thrived on the coast.
 This description we just reported was the one that Pliny gave us. From what we see now, it appears that, after Pliny's death and the selling of his maritime residence, the new owners brought many changes to it. Today high heaps of soil surround the garden's area and, even though this part has not been excavated, it is evident that some masonry structure must be buried under it. It is highly probable that the vine trellises, and the rustic enclosures of Pliny's times, were substituted by a marble portico which transformed the simple garden in a more elegant peristyle one. Evidently at this moment mulberry trees and figs must have been quickly replaced by less useful but more decorative plants.
 
 
 
 
-### Plans
+## Plans
 {{< image src="102 - Pliny times.jpg" alt="102 - The Lauretinum as it was in Pliny’s times" title="102 - Pliny times">}}
 {{< image src="103 - Severian Laurentinum.jpg" alt="103 - Laurentinum in Severian times. Map of the excavations and surface remains." title="1103 - Laurentinum in Severian times">}}
 {{< image src="104 - Excav, Laurentinum.jpg" alt="104 - Excavations and survey of  the Cryptoporch and the Severian changes" title="104 - Excavations and survey of  the Cryptoporch and the Severian changes">}}
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - COLINI 1985 = A. M. COLINI., *Tra Castel Fusano e Capocotta: il vicus Augustanus e le ville di Ortensio e di Plinio il Giovane*, Sin AA. VV., Capocotta ultima spiaggia. Proposta per il parco naturalistico-archeologico del litorale romano, Roma 1985, pp. 79-87. [worldcat](http://www.worldcat.org/oclc/313030535)
 
 - SALZA PRINA RICOTTI 1984 = E. SALZA PRINA RICOTTI, , *La c.d. Villa Magna: il Laurentinum di Plinio il Giovane*, RendLinc 39 (1984), pp. 339-358 [worldcat](http://www.worldcat.org/oclc/15561411)
@@ -82,17 +82,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Laurentes](https://pleiades.stoa.org/places/422959)
 
 
 
-### Contributor
+## Contributor
 SALZA PRINA RICOTTI
 
 
-### Publication date
+## Publication date
 
 
 <!--### Related articles-->

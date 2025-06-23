@@ -24,34 +24,34 @@ categories:
 
 ## Sublocation
 
-### Sublocation Description
+## Sublocation Description
 
 ## Garden
 
 Tomb Garden of (Cl)oelia Tyche and (C)loelia Faustina
 
-### Keywords
+## Keywords
 
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 - [epitaphs](http://vocab.getty.edu/page/aat/300028729)
 
-### Garden Description
+## Garden Description
 The lower right portion of a marble slab found in the vicinity of the Via del Mare outside Rome records an epitaph of the late first or second century dedicated  to a mother, [Cl]oelia Tyche, and sister, [C]loelia Faustina, and their freedmen and freedwomen, and declaring that the property, which comprised “a tomb monument and building and garden enclosed by a wall” (hoc monimentum et aedificium et hortum, ita uti  maceria clusum est), would not pass to the heir.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
-### Images
+## Images
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - G. Vergantini, *La collezione epigrafica dei Musei Capitolini: Inediti – revisioni –contributi al riordino*, (Tituli 6), edited by S. Panciera (Rome 1987) 152-53 n. 72, Tav. XXXIX, 4. [worldcat](https://www.worldcat.org/title/collezione-epigrafica-dei-musei-capitolini-inediti-revisioni-contributi-al-riordino/oclc/848526529&referer=brief_results)
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 176 n. 4. [worldcat](https://www.worldcat.org/title/horti-sepulchrales-e-cepotaphia-nelle-iscrizioni-urbane/oclc/886794800&referer=brief_results)
 
@@ -59,13 +59,13 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
-#### TGN ID
+## TGN ID
 
-### Contributor
+## Contributor
 
-### Publication date
+## Publication date
 
 <!--### Related articles-->
 

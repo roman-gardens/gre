@@ -41,7 +41,7 @@ Esquiline Hill [Esquilinus Mons](https://pleiades.stoa.org/places/679976755) \
 
 Garden of the Porticus Liviae <!--There does not appear to be a Pleiades place resource for this garden-->
 
-### Keywords
+## Keywords
 
 - [colonnade](http://vocab.getty.edu/page/aat/300002613)
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
@@ -59,7 +59,7 @@ Garden of the Porticus Liviae <!--There does not appear to be a Pleiades place r
 - [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
 - [Strabo](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1333)
 
-### Garden Description
+## Garden Description
 
 Located on the [Oppian](https://en.wikipedia.org/wiki/Oppian_Hill) hill between the [*Clivus Suburanus*](https://pleiades.stoa.org/places/821658053) and the later [Baths of Trajan](https://en.wikipedia.org/wiki/Baths_of_Trajan) (*Thermae Traiani*) in the [*Subura*](https://pleiades.stoa.org/places/451696383), the [*Porticus Liviae*](https://www.digitalaugustanrome.org/records/porticus-liviae) is represented on three fragments of the [Severan Marble Plan (*FUR*)](https://formaurbis.stanford.edu/index.php?field0=all&search0=liviae&op0=and&field1=all&search1=porticus). The public [*porticus*](http://vocab.getty.edu/page/aat/300004145) was constructed on the site of the grand [*Domus*](https://en.wikipedia.org/wiki/Domus) of [Publius Vedius Pollio](https://en.wikipedia.org/wiki/Vedius_Pollio), who bequeathed his property to Augustus upon his death.
 
@@ -71,7 +71,7 @@ The *Porticus* featured a central garden. Pliny writes of a single, productive v
 
 Excavations in 1984 identified pre- and post-Augustan phases, but provided no information about possible gardens. The excavations suggest that the *Porticus* remained in use until the fifth century CE, but that by the mid-sixth century the *Porticus* was being used for burials.
 
-### Figures
+## Figures
 
 {{< image src="porticusliviae_fig1.jpg" alt="Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder" title="Fig. 1. Reconstruction of the plan of the Porticus Liviae. © Carandini and Carafa, 2012, tab. 109." >}}
 
@@ -79,15 +79,15 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 
 <!--{{< image src=".jpg" alt="Entrance to the Porticus Liviae" title="Fig. 3. Entrance to the Porticus Liviae. © Holly Spoth-Torres." >}}-->
 
-### Dates
+## Dates
 
 7 CE
 
-#### Excavation Date
+## Excavation Date
 
 1984- C. Panella
 
-### Bibliography
+## Bibliography
 
 * A. Carandini and P. Carafa (eds.), *The Atlas of Ancient Rome: Biography and Portraits of the City,* 2 vols., Princeton and Oxford, Princeton University Press, 2017. [Trans. (worldcat)](http://www.worldcat.org/oclc/980303776) | [Italian (worldcat)](http://www.worldcat.org/oclc/903328667)
 * A. Claridge, *Rome*, 2nd Ed., Oxford, Oxford University Press, pp. 339-340. [(worldcat)](http://www.worldcat.org/oclc/1158433558)
@@ -95,21 +95,21 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae* IV, Roma, Edizioni Quasar, 1999, "Porticus Liviae" (C. Panella), pp. 127-129; "Subura" (K. Welch), pp. 379-383. [(worldcat)](http://www.worldcat.org/oclc/772398569)
 <!--correct citation format? compare with Domus Aurea-->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Roma](https://pleiades.stoa.org/places/423025)
 <!-- Pleiades resource for Location (Roma), not for Porticus Liviae -->
 
-### Contributors
+## Contributors
 
 [Elizabeth Macaulay](https://emacaulaylewis.com)\
 [Holly Spoth-Torres](https://huddleak.com/meet-the-team/) <!--Is this a good website for Spoth-Torres?-->
 
-#### ORCID
+## ORCID
 
 [Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 <!--ORCID for Holly J. Spoth/Holly Spoth-Torres-->
 
-### Publication date
+## Publication date
 
 17 April 2021

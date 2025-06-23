@@ -25,7 +25,7 @@ tags:
 [Pompeii]({{<relref "../..">}}) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -34,28 +34,28 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula IV]({{<relref ".">}})
 
-### Keywords
+## Keywords
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
-### Garden Description
+## Garden Description
 This garden (a) was tucked around the right end of a long fauces which led from the street. The garden was enclosed by a low wall and a gutter on the north and west and a narrow portico with one column on the north. A cistern opening was built into the wall on the west. Two marble heads 0.16 m. high were found; one of yellow marble and bearded, with horns and an ivy crown, and the second of white marble with an ivy crown but beardless. They were of the type that is mounted on posts as garden ornaments and were uncovered in the room at the rear of the portico.
 
-### Plans
+## Plans
 {{< image src="fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" title="Plan of Region VIII Insula IV" >}}
 
-### Images
+## Images
 {{< image src="fig.15.viii.iv.33_9.34.59.jpg" alt="Fig. 15, 9.34.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 15, 9.34.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
-#### TGN ID
+## TGN ID
 [Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
-###  Excavation Dates
+##  Excavation Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 * Dohl, *Plastik aus Pompeji*, p. 45 [(worldcat)](http://www.worldcat.org/oclc/52662796)
 * Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, p. 8 [(worldcat)](http://www.worldcat.org/oclc/65043382)
 * Fiorelli, *Descrizione di Pompei*, p. 342 [(worldcat)](http://www.worldcat.org/oclc/252039996)
@@ -64,9 +64,9 @@ Unspecified
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 67 [(worldcat)](http://www.worldcat.org/oclc/906755593)
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

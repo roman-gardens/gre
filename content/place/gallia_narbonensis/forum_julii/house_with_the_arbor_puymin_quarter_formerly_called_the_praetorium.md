@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
 [Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [forum_julii]({{<relref ".">}}) \
 [forum_julii](https://pleiades.stoa.org/places/307416064)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -47,7 +47,7 @@ House with the Arbor, Puymin Quarter, Formerly called the Praetorium
 
 
 
-### Keywords
+## Keywords
 - [praetoriums](http://vocab.getty.edu/page/aat/300005636)
 - [stairs](http://vocab.getty.edu/page/aat/300003228)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
@@ -59,12 +59,12 @@ House with the Arbor, Puymin Quarter, Formerly called the Praetorium
 
 
 
-### House Description
+## House Description
 
 This house stood southwest of the theater, on the Puymin hill, in the residential northeast quarter of the city.  Unearthed between 1927 and 1929, it covered a surface of about 3000 square meters.  A first stage was built around 40 – 30 B.C., followed by a considerable extension to the northeast in the first century A.D.. First interpreted as an official residence, a *praetorium*, by J. Sautel, it takes its present name from an arbor found in the garden.  The house, organized on at least three levels, was considerably worn down so that interpreting the different phases is not easy.
 
 
-### Garden Description
+## Garden Description
 
 The residential part best known was organized around a garden 17 by 20 meters, framed by three wings in a U.  At the center of the east wing, the bottom of the U, a grand stairway with two {curving?) symmetric ramps framing a niche (possibly for a statue) rose to the second storey where a portico overlooked the garden from three sides.  To the west, the fourth side of the garden was closed against the outside by a straight wall.  On it was supported a wall accented by a central apse (with a opening of 5.8 meters) centered on the axis of the garden.  Along this wall, but separated from it by a space, lie three related pools which are below the garden.  Built of masonry, one is semi-circular (3.85 meters in diameter) with a lateral set of stone steps for access, while the other two are symmetrically placed rectangles (2.4 by .85 meters).  No water jet was noted.  There was also a well with masonry rim in the southeastern part of the garden.   
 
@@ -77,20 +77,20 @@ To the northeast of the house are remains in which it has been proposed to see a
 
 
 
-### Plans
+## Plans
 
 
 
 
 
 
-### Dates
+## Dates
 B.C. 40-30 First Stage
 A.D. 1-100 Considerable extension to the northeast
 
 
 
-### Bibliography
+## Bibliography
 
 1. *La Maison Urbaine D'époque Romaine*. Avignon: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 80-81. [(worldcat)](http://www.worldcat.org/oclc/717347715)
 
@@ -99,21 +99,21 @@ A.D. 1-100 Considerable extension to the northeast
 3. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.267-274. [(worldcat)](http://www.worldcat.org/oclc/905795401)
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Fréjus (inhabited place)](http://vocab.getty.edu/page/tgn/7008791)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

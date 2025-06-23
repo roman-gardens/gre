@@ -28,7 +28,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -36,7 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula VI]({{<relref "#">}})
 
-### Keywords
+## Keywords
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [pillars](http://vocab.getty.edu/page/aat/300264605)
@@ -45,7 +45,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Garden
 Shop property with peristyle garden and doghouse.
 
-### Garden Description
+## Garden Description
 
 This modest house had rooms opening off the small [peristyle](http://vocab.getty.edu/page/aat/300080971) garden at the rear of the structure. The rooms had been remodeled to serve as a shop and at the time of the eruption, were in disrepair. Four [columns](http://vocab.getty.edu/page/aat/300001571), two of tufa, two of brick, supported the [peristyle](http://vocab.getty.edu/page/aat/300080971) [portico](http://vocab.getty.edu/page/aat/300004145) on the north and east sides and were connected by a low wall with an entrance to the garden on the east side. A terra-cotta puteal was located on the east side of the [portico](http://vocab.getty.edu/page/aat/300004145). The house to the rear was completely destroyed necessitated the building of a crude doghouse in the last intercolumniation on the east side. Keeping a dog would have prevented intruders from entering through the ruins and robbing the shop as well as the adjacent house (no. 11) where the shopkeeper most likely resided.
 
@@ -61,10 +61,10 @@ NEW WAY ↓↓↓↓
 -->
 
 
-### Dates
+## Dates
 Excavated 1912, 1926-27. Bombed in 1943.
 
-### Bibliography
+## Bibliography
 
 * Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 35. [(worldcat)](http://www.worldcat.org/oclc/921816405).    
 * Maiuri, A. 1929. *NSc*, pp. 393-395 and fig. 26 on p. 401.  
@@ -74,19 +74,19 @@ Excavated 1912, 1926-27. Bombed in 1943.
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

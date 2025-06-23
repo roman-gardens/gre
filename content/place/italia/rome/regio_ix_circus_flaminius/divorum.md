@@ -40,7 +40,7 @@ tags:
 
 Garden of the Divorum
 
-### Keywords
+## Keywords
 
 - [altar (religious fixture)](http://vocab.getty.edu/page/aat/300003725)
 - [canals (waterways)](http://vocab.getty.edu/page/aat/300006075)
@@ -52,7 +52,7 @@ Garden of the Divorum
 - [triumphal arches (memorial arches)](http://vocab.getty.edu/page/aat/300007003)
 
 
-### Garden Description
+## Garden Description
 
 The [Divorum](https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Divorum.html), also known as the *Templum Divorum* (Degrassi 13.1.103, 233) and the *Porticus Divorum*, was a [*porticus*](http://vocab.getty.edu/page/aat/300004145) with two small [temples](http://vocab.getty.edu/page/aat/300007595) built in honor of [Titus](https://en.wikipedia.org/wiki/Titus) and [Vespasian](https://en.wikipedia.org/wiki/Vespasian) by [Domitian](https://en.wikipedia.org/wiki/Domitian), who constructed the complex after the first of 80 CE on the site of the [Villa Publica](https://www.digitalaugustanrome.org/records/villa-publica) ([Chronographer of 354 CE](http://www.tertullian.org/fathers/chronography_of_354_14_regions_of_rome.htm)). The Divorum, known from its depiction on the [Severan Marble Plan (*FUR*)](https://formaurbis.stanford.edu/index.php?field0=all&search0=DIVORUM&op0=and&field1=all&search1=) (Fig.1), is located on the eastern [*Campus Martius*](https://en.wikipedia.org/wiki/Campus_Martius) among other religious structures, including the [Temple of Minerva Chalcidica](https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Minerva_Chalcidica.html), which visually integrated with the Divorum.
 
@@ -60,7 +60,7 @@ The *porticus* complex (220 x 55m) (Fig. 2) consists of a northern entry in the 
 
 From the northern *exedra*, a water [channel](http://vocab.getty.edu/page/aat/300006075) appears to lead to the altar or pool, which is stepped up or down on the north and south, depending upon the interpretation of the feature. Another water channel appears along the interior western edge of the *porticus*. The [Amnis Petronia](https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Amnis_Petronia.html) passes by the complex at the northwest corner.
 
-### Figures
+## Figures
 
 {{< image src="divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" title="Fig. 1. Photograph of the Severan Forma Urbis depicting the Divorum. © Stanford Project." >}}
 
@@ -68,32 +68,32 @@ From the northern *exedra*, a water [channel](http://vocab.getty.edu/page/aat/30
 
 {{< image src="divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" title="Fig. 3. Perspective view looking north along the central axis. © Valerie Aymer." >}}
 
-### Dates
+## Dates
 
 80 CE
 
-### Bibliography
+## Bibliography
 
 * L. Richardson, Jr., “The Villa Publica and the Divorum” in *In Memoriam Otto J. Brendel*, Eds. L. Bonfante and H. von Heintze, Mainz, 1976, pp. 159-163. [(worldcat)](http://www.worldcat.org/oclc/890088916)
 * R. H. Darwall-Smith, *Emperors of Architecture: A Study of Flavian Rome*, Collection Latomus 231 (1996), pp. 125-7, 139-40, 157-9, 172-7. [(worldcat)](http://www.worldcat.org/oclc/1000784723)
 * J. B. Ward-Perkins, *Roman Imperial Architecture*, Yale, 1981, pp. 20, 50-1, 74-5. [(worldcat)](http://www.worldcat.org/oclc/833150443)
 * A. Degrassi (ed.), *Inscriptiones Italiae XIII: Fasti et Elogia*, Rome, 1937. [(worldcat)](http://www.worldcat.org/oclc/769370170)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Roma](https://pleiades.stoa.org/places/423025)
 <!-- Pleiades resource for Location (Rome), not for the individual garden -->
 
-### Contributors
+## Contributors
 
 [Valerie Aymer](https://landscape.cals.cornell.edu/people/valerie-aymer/)\
 [Kathryn Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)<!--Will these Cornell links suffice?-->
 
-#### ORCID
+## ORCID
 
 [Valerie Aymer (0000-0003-2609-0086)](https://orcid.org/0000-0003-2609-0086)\
 [Kathryn Gleason (0000-0001-6260-8378)](https://orcid.org/0000-0001-6260-8378)
 
-### Publication date
+## Publication date
 
 17 April 2021

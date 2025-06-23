@@ -27,7 +27,7 @@ tag:
 [Africa Proconsularis]({{<relref "..">}}) \
 [Africa proconsularis](https://pleiades.stoa.org/places/991341)
 
-### Province Description
+## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
@@ -35,7 +35,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 [Althiburos (Médeïna)]({{<relref ".">}}) \
 [Althiburos](https://pleiades.stoa.org/places/324664)
 
-### Location Description
+## Location Description
 This town is located on the road between Carthage and Theveste near the border of Proconsularis and Byzacena 35 km west of Mactar. Under the Roman Empire it remained an indigenous civitas until it was raised to the status of a municipium by Hadrian: municipium aelium hadrianum augustum althiburitanum and later was granted the ius Italicum.
 
 The trade of agricultural products and craftsmanship made Althiburos a prosperous city, particularly, the fabrication and the commerce of aromatics. The development of the city reached its peak under the Antonian and Severian dynasties. It is difficult to follow the history of Althiburos during the third century when the province of Africa underwent the severe crisis of 238. The city was abandoned just before the Arab conquest.  Excavations have brought to light the forum, the capitol, the Hadrianic triumphal arch and two temples. At the east corner of the forum, near one of the temples, was a complex of houses and a building with a rotonda to the south of which stood a monumental fountain. Outside the excavated center are other monuments, among them the theater and a triumphal arch.
@@ -54,7 +54,7 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Asclepieia Building (Edifice des Asclepieia)
 
-### Keywords
+## Keywords
 <!-- [urban villas](#) -->
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
@@ -66,7 +66,7 @@ Asclepieia Building (Edifice des Asclepieia)
 - [balustrades](http://vocab.getty.edu/page/aat/300001989)
 - [euripus](#)
 
-### Garden Description
+## Garden Description
 The Asklepeia monument, so-called from a mosaic inscription, is located to the northeast of the House of the Muses. (Plan view, Fig. 1)
 
 This building is divided into three sections: the central building, the northeast sector and the private baths. The central building, probably a house, presents an architectural arrangement unusual in Africa. Strictly symmetrical in plan, the monument has a long gallery terminating at either end in two corner turrets. The facade has several windows on either side of an impressive entrance. This corridor opens onto a large square room flanked on either side by a square-shaped basin with a passageway running around it. This great vestibule views onto a peristyle garden (20.33x17.5m) equipped with a complete hydraulic system in the garden (167m2). Two large symmetrical oeci, along with their adjoining apartments, frame both sides of this peristyle.
@@ -82,25 +82,25 @@ During the third stage dated to the beginning of the second half of the fourth c
 
 
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 {{< image src="Askleipeia_Building1.jpg" alt="Plan of the Asclepieia Building at althiburos; rights statement" title="Fig. 1: Plan of the Asclepieia Building (Rights statement)" >}}
 
-### Images
+## Images
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 NOT FOUND
 
-### Bibliography
+## Bibliography
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 21-26. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 - Ennaifer, M., *La cité d’Althiburos et l’édifice des Asclepeia*, Ministère des Affaires Culturelles, Tunis, 1976, pp. 71-152, plan III-IV. [(worldcat)](http://www.worldcat.org/oclc/963483765)
 
@@ -109,21 +109,21 @@ NOT FOUND
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Althiburos](https://pleiades.stoa.org/places/324664)
 
-#### TGN ID
+## TGN ID
 [Althiburus (deserted settlement)](http://vocab.getty.edu/page/tgn/5003658)
 
-### Contributor
+## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 
 <!--
-### Related articles
+## Related articles
 [House of the Fishing Scene (Maison de la scène de pêche)]({{<relref "house_of_the_fishing_scene.md">}})
 [House of the Muses (Maison des Muses)]({{<relref "house_of_the_muses.md">}})
 -->

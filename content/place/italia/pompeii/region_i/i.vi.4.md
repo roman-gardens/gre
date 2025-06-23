@@ -26,7 +26,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -34,14 +34,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula VI]({{<relref "#">}})
 
-### Keywords
+## Keywords
 - [atrium houses](http://vocab.getty.edu/page/aat/300005451)
 - [tablina](http://vocab.getty.edu/page/aat/300004180)
 
 ## Garden
 House of the Lararium; Casa del Larario; Sabello Iliaco.
 
-### Garden Description
+## Garden Description
 
 A small garden was located at the rear of the [tablinum](http://vocab.getty.edu/page/aat/300004180) accessed by a passageway from the [atrium](http://vocab.getty.edu/page/aat/300005451). A small pool (0.70 m. deep) was centered in the garden enclosed by a crudely built double wall with a space in between for flowers. At the time of the eruption the house was undergoing extensive repairs.
 
@@ -62,13 +62,13 @@ NEW WAY ↓↓↓↓
 
 {{< image src="../region-i-insula-vi.png" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." title="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement)." >}}
 
-### Images-->
+## Images-->
 
 
-### Dates
+## Dates
 Excavated 1873-1874.
 
-### Bibliography
+## Bibliography
 
 * Della Corte, M. 1913. *NSc*, pp. 356-357 and fig. 1 on p.356. [(worldcat)](http://www.worldcat.org/oclc/859831184)  
 * Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 35. [(worldcat)](http://www.worldcat.org/oclc/921816405).    
@@ -79,19 +79,19 @@ Excavated 1873-1874.
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

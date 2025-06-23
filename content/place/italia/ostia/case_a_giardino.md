@@ -24,7 +24,7 @@ tags:
 [Ostia]({{<relref ".">}}) \
 [Ostia](https://pleiades.stoa.org/places/422995)
 
-### Location Description
+## Location Description
 
 [Ostia Antica](https://en.wikipedia.org/wiki/Ostia_Antica), the port-city of Rome, was situated at the mouth ([*ostium*](https://en.wiktionary.org/wiki/ostium#Latin)) of the [Tiber](https://en.wikipedia.org/wiki/Tiber), where it flowed into the [Tyrrhenian sea](http://vocab.getty.edu/page/tgn/1112319). Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7<sup>th</sup> century by [king Ancus Marcius](https://en.wikipedia.org/wiki/Ancus_Marcius); archaeological evidence shows that the first settlement was founded as a *colonia maritima* in the 4<sup>th</sup> century BCE. and that it was already acting as the harbour of Rome in the 3<sup>rd</sup> century BCE.
 
@@ -46,7 +46,7 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
-### Location Plan
+## Location Plan
 
 {{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
 
@@ -55,14 +55,14 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 Garden Houses (Case a Giardino) \
 [Garden Houses](https://pleiades.stoa.org/places/223974298)
 
-### Keywords
+## Keywords
 
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [jeux d’eau](#)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 
-### Garden Description
+## Garden Description
 
 The area in which these houses are situated was laid out as a residential area in *c*. 128 CE as part of the [Hadrianic](https://en.wikipedia.org/wiki/Hadrian) remodeling of Ostia (Fig. 1). It is delimited by buildings of various depths, due to the irregularity of the available space. The central area is occupied by two blocks each comprising four houses, surrounded, according to the excavators, by a garden furnished with six [fountains](http://vocab.getty.edu/page/aat/300006179) (a) (three on the west and three on the east side; they each measure 2.93x3.55 m. and have a maximum preserved height of 75 cm.) (Figs. 2, 3). The fountains had more than a purely decorative function. They seem rather to be the classic type of canopied fountain. Each was equipped with a water spout and probably with an opening for drawing water. The fountains were surrounded on three sides by a travertine border, in which a little channel for the discharge of excess water was hewn. Two rounded grooves in the channel, in front of each spout, have been interpreted as supports for vessels to rest in as they were filled with water. On the fourth side, which has no border, is an outlet for the discharge of water, which flowed into the main drain leading outside the complex.
 
@@ -70,7 +70,7 @@ A fourth fountain (b) was added on the eastern side, in the early years of the 3
 
 A sculptural group with a fishing scene, which could be interpreted as a fountain-head, was found (not *in situ*) in one of the rooms of the eastern block and might have belonged to this fountain (Fig. 5).
 
-### Figures
+## Figures
 
 {{< image src="ostia_fig10_better_colored.jpg" alt="Plan of the Garden Houses" title="Figure 1: Plan (after Ricciardi, Scrinari 1996)." >}}
 
@@ -82,16 +82,16 @@ A sculptural group with a fishing scene, which could be interpreted as a fountai
 
 {{< image src="ostia_fig14.jpg" alt="Photo of the sculpture of a Fisherman on a rock" title="Figure 5: Fisherman on a rock, sculpture from Garden Houses (PA-OAnt, Photo Archive)." >}}
 
-### Dates
+## Dates
 
 128 CE \
 3rd century CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
@@ -106,20 +106,20 @@ unspecified
 * Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, pp. 121-123. [(worldcat)](http://www.worldcat.org/oclc/797420782)
 * M.A. Ricciardi, V. Santa Maria Scrinari, *La Civiltà dell’acqua in Ostia Antica* 2, Rome, 1996, pp. 114-117. [(worldcat)](http://www.worldcat.org/oclc/801186023)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Garden Houses](https://pleiades.stoa.org/places/223974298)
 
-#### TGN ID
+## TGN ID
 
 [Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
-### Contributor
+## Contributor
 
 [Paola Olivanti](https://www.worldcat.org/identities/lccn-nr98023577/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

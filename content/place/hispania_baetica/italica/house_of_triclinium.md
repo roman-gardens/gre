@@ -25,7 +25,7 @@ Hispania Baetica
 [Italica]({{<relref ".">}}) \
 [Italica](https://pleiades.stoa.org/places/256231)
 
-### Location Description
+## Location Description
 
 In 206 BC Publius Cornelius Scipio settled wounded veterans of the battle of Ilipa in an existing Turdentanian town which he renamed Italica to remind the settlers and their descendants of their origins.  Three centuries later, it was still a town of some 14 hectares, less than a fourth the size of Pompeii and much smaller than neighboring [Hispalis](https://pleiades.stoa.org/places/256210) (Sevilla) or [Corduba](https://pleiades.stoa.org/places/256128).  Little is known of this town archaeologically because it lies under modern Santiponce.
 
@@ -35,32 +35,32 @@ Italica underwent a major expansion during the reign of the emperor Hadrian, a n
 
 House of the Triclinium
 
-### Keywords
+## Keywords
 
 
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 
 
-### Garden Description
+## Garden Description
 
 This house, in the area southeast of the House of Hylas, had a peristyle garden that, even in its poor state of preservation, can be theoretically reconstructed, as done by Blázquez and drawn by F. Riat.
 
 
-### Maps
+## Maps
 
 {{< image src="HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
 
-### Images
+## Images
 
 {{< image src="HIS_BAE_Italica_Ht fig 1.jpg" alt="Fig. 1: Reconstruction of garden.  Drawing by F. Riart 2001, page 33. (Rights Statement)" >}}
 
 
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](http://www.worldcat.org/oclc/882602957)
 * A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](http://www.worldcat.org/oclc/638777432)
@@ -73,15 +73,15 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [House of the Triclinium at Italica](https://pleiades.stoa.org/places/224658205)
 
-#### TGN ID
+## TGN ID
 [Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
 
-### Contributor
+## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
-### Publication date
+## Publication date
 
 21 Apr 2021

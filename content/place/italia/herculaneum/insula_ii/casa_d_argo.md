@@ -28,7 +28,7 @@ categories:
 [Herculaneum]({{<relref "..">}}) \
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-### Location Description
+## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 <!--### Location Description-->
@@ -45,7 +45,7 @@ II
 Casa D’Argo
 
 
-### Keywords
+## Keywords
 
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
@@ -53,7 +53,7 @@ Casa D’Argo
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
 
-### Garden Description
+## Garden Description
 533.II.2.
 A. The earliest excavations of Herculaneum were done with underground tunnels. Several of these crossed this site and were discovered sixty three years later when further excavation of this patrician house was conducted in1828-1835. Eight brick columns and one engaged column stood on each of the long sides of the *portico* that bounded the large *peristyle* garden (a) on the east, north, and west sides. The north side was supported by four more columns and at the two front corners there was a pillar with an engaged column on each side. In the center of the north side two smaller pillars with one engaged column each framed a garden view from the *triclinium*. All the supporting members were coated with fine stucco.  *Gutters* ringing the garden conveyed rain water to the *cistern*.
 
@@ -72,20 +72,20 @@ NEW WAY ↓↓↓↓
 -->
 
 
-### Plans
+## Plans
 
 
 {{< image src="H_2_2.jpg" alt="Plan of Casa D’Argo" title="Plan of Casa D’Argo" >}}
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 1828-1835
 
-### Bibliography
+## Bibliography
 
 - A.C. *BdI* (1835),p. 130 [(worldcat)](http://www.worldcat.org/oclc/504636074)
 - Bonucci, *BdI* (1830), p.121 [(worldcat)](http://www.worldcat.org/oclc/504636074)
@@ -101,18 +101,18 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-#### TGN ID
+## TGN ID
 [Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
-### Publication date
+## Publication date
 
 
 

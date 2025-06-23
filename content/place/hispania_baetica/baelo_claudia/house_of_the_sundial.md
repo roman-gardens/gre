@@ -25,7 +25,7 @@ Hispania Baetica
 [Baelo Claudia]({{<relref ".">}}) \
 [Baelo Claudia](https://pleiades.stoa.org/places/256005)
 
-### Location Description
+## Location Description
 
 Baelo Claudia began in the late second century BC as a center for trade with North Africa through Tangier and for salting fish and production of *garum*, or fish sauces. Baelo's high point was reached about the time of Claudius, when it was made a *municipium*. An earthquake in the second century AD hastened its decline, though there was some revival in the third century, until it was totally abandoned by the seventh century AD.  Nowhere else in the Iberian peninsula is it possible to find all the elements of Roman urbanism in such good condition: forum, temples of the capitol to the traditional gods of the Romans, a temple to an oriental divinity (in this case, Isis), *curia*, administrative buildings, market, theater, baths, aqueducts, private houses, an industrial zone, and a complete city wall.  Only an arena seems missing.
 
@@ -46,18 +46,18 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Villa del Cortijo de los Vila
 
-### Keywords
+## Keywords
 
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 
 
-### Garden Description
+## Garden Description
 
 Located across the colonnaded street from West house was the House of the Sundial.   This house had a rectangular peristyle courtyard with four columns on the long side and three on the shorter side, gutters around the edges, and a well in the center.  According to Sillières, the courtyard was paved in *opus signinum* and thus did not have a garden, though potted plants may have given the appearance of a garden.  Room [19] on the northeast corner of the peristyle was connected to the fish preserving operation just to the north.  Perhaps the occupant of the house ran the fish business.  
 
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -69,7 +69,7 @@ Located across the colonnaded street from West house was the House of the Sundia
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 {{< image src="HIS_BAE_Baelo map Hs_Fig. 1_CA.jpg" alt="Map of Baelo Claudia. Adapted from Sillières. (Rights Statement)" >}}
 
@@ -79,11 +79,11 @@ Located across the colonnaded street from West house was the House of the Sundia
 
 
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 * A. Balil Iliana, ‘Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana,’ *Boletín del Seminario de Estudios de Arte y Arqueología, XXXIX*, Universidad de Valladolid (Valladolid 1973), 138-140.[(worldcat)](http://www.worldcat.org/oclc/7243478)
 * P. Sillières, M. Fincker, J.M. Labarthe,*Baelo Claudia: une cité romaine de Bètique*, Collection de la Casa de Velázquez 51 (Madrid 1995), 165-170.[(worldcat)](http://www.worldcat.org/oclc/431871350)
 
@@ -93,16 +93,16 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [House of the Sundial at Baelo]{{<relref ".">}}) \
 [House of the Sundial at Baelo](https://pleiades.stoa.org/places/510567670)
 
-#### TGN ID
+## TGN ID
 [Baelo Claudia (deserted settlement)](http://vocab.getty.edu/page/tgn/8712326)
 
-### Contributor
+## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
-### Publication date
+## Publication date
 
 21 Apr 2021

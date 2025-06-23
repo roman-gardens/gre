@@ -24,7 +24,7 @@ tag:
 [Africa Proconsularis]({{<relref "..">}}) \
 [Africa proconsularis](https://pleiades.stoa.org/places/991341)
 
-### Province Description
+## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
@@ -32,7 +32,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 [Neapolis]({{<relref ".">}}) \
 [Neapolis](https://pleiades.stoa.org/places/315093)
 
-### Location Description
+## Location Description
 
 The city of Neapolis that bears a Greek name meaning the “new city”, is located on the south coast of Cap Bon at 60 km from Carthage. The municipal history of the city is not well known. Scholars disagree as to the foundation date of the colony some think it became *colonia Iulia* with Cesar and others think that it was elevated to the rank of colony by Augustus.
 
@@ -53,7 +53,7 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 House of the Salsamenta (Usine de salaison)
 
-### Keywords
+## Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
@@ -62,20 +62,20 @@ House of the Salsamenta (Usine de salaison)
 - [semicircular basin](#)
 
 
-### Garden Description
+## Garden Description
  A fish-curing factory (*salsamenta*) located to the SE of the Nymfarum domus was renovated between the IInd and the IIIrd centuries. Among the changes made was the design of a small house organized around a small peristyle garden (4 x 4 m.) (XXII) and bound by a low wall that curved to make a semi-circular basin (Plan view, Fig.1; ).
 
  During the second half of the IVth century, with the abandonment of the industrial unit, the residential area was enlarged and a second semi-circular basin was added in the garden.
 
 
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 {{< image src="Salsamenta_house_Nabeul_phase_11.jpg" alt="Plan of the House of the Salsamenta at Neapolis Phase 1; rights statement" title="Fig. 1: Plan of the House of the Salsamenta Phase 1. (“L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, *Africa* XVII, 1999, pp. 159-161, fig. 6)" >}}
 
 {{< image src="Salsamenta_house_phase_21.jpg" alt="Plan of the House of the Salsamenta at Neapolis Phase 2; rights statement" title="Fig. 2: Plan of the House of the Salsamenta Phase 2. (“L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, *Africa* XVII, 1999, pp. 159-161, fig. 7)" >}}
@@ -84,7 +84,7 @@ House of the Salsamenta (Usine de salaison)
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 <!--
 {{< image src="afr_nea_hs_amalek_fig2.jpg" alt="Rendering of the House of the Salsamenta at Neapolis; rights statement" title="Fig. 3: Rendering of the House of the Salsamenta. (Rights statement)" >}}
 -->
@@ -96,10 +96,10 @@ House of the Salsamenta (Usine de salaison)
 {{< image src="afr_nea_hs_amalek_fig5.jpg" alt="Photos of the House of the Salsamenta site at Neapolis; rights statement" title="Fig. 5: Photos of the House of the Salsamenta site. (Rights statement)" >}}
 
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 183-184. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 * Slim, L., Bonifay, M., Trousset, P. and al., “L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, in *Africa* XVII, 1999, pp. 159-161, fig. 6, 7. [(worldcat)](http://www.worldcat.org/oclc/949242827)
 
@@ -108,18 +108,18 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Neapolis](https://pleiades.stoa.org/places/315093)
 
-#### TGN ID
+## TGN ID
 [Nabeul (inhabited place)](http://vocab.getty.edu/page/tgn/1094981)
 
-### Contributor
+## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 [Blanc-Bijon, Véronique](link) (WorldCat Identities: [lccn-nb99006585](http://www.worldcat.org/identities/lccn-nb99006585/))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

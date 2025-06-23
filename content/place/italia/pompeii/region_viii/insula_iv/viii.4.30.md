@@ -25,7 +25,7 @@ tags:
 [Pompeii]({{<relref "../..">}}) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -34,38 +34,38 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula IV]({{<relref ".">}})
 
-### Keywords
+## Keywords
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 
 
 
-### Garden Description
+## Garden Description
 This tiny house with the small atrium and adjacent rooms had formerly been a porticoed garden, part of house 15 according to Fiorelli.
 
-### Plans
+## Plans
 {{< image src="fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" title="Plan of Region VIII Insula IV" >}}
 
 
-#### Pleiades ID
+## Pleiades ID
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
-#### TGN ID
+## TGN ID
 [Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
-###  Excavation Dates
+##  Excavation Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 * Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, pp.7-8 [(worldcat)](http://www.worldcat.org/oclc/65043382)
 * Fiorelli, *Descrizione di Pompei*, pp. 343-345 [(worldcat)](http://www.worldcat.org/oclc/252039996)
 * Jashemski, *Gardens*, vol. II, p. 214 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 67 [(worldcat)](http://www.worldcat.org/oclc/906755593)
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

@@ -28,7 +28,7 @@ tags:
 [Pompeii]({{<relref "../..">}}) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -37,36 +37,36 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula V]({{<relref ".">}})
 
-### Keywords
+## Keywords
  - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
  - [tablina](http://vocab.getty.edu/page/aat/300004180)
  - [peristyles](http://vocab.getty.edu/page/aat/300080971)
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
-### Garden Description
+## Garden Description
 Three wide doorways led from the atrium of this house, which did not have a tablinium, to the peristyle of this large garden (a). Nine fluted columns supported the portico which bordered the garden on the east, north and part of the west with a gutter on these same sides. Holes in the columns 0.97 and 0.52 m. from the floor remained where a fence had once been attached.
 
-### Plans
+## Plans
 {{< image src="fig.16_region_viii.insula_v.png" alt="Fig. 16, Plan of  Region VIII, Insula V" title="Plan of  Region VIII, Insula V" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
-#### TGN ID
+## TGN ID
 [Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
-###  Excavation Dates
+##  Excavation Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 * Fiorelli, *Descrizione di Pompei*, p. 447 (address given as VIII.vi.10-11) [(worldcat)](http://www.worldcat.org/oclc/252039996)
 * Jashemski, *Gardens*, vol. II, p. 217 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
 * Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 230-231 [(worldcat)](http://www.worldcat.org/oclc/823239162)
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

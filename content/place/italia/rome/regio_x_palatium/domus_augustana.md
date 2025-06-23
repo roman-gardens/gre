@@ -28,11 +28,11 @@ draft: false
 
 
 
-### Garden
+## Garden
 
 Garden of the Domus Augustana, Palatine
 
-### Keywords
+## Keywords
 
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
@@ -52,7 +52,7 @@ Garden of the Domus Augustana, Palatine
 - [terraces (landscaped-site elements)](http://vocab.getty.edu/page/aat/300004182)
 
 
-### Garden Description
+## Garden Description
 
 LOWER PERISTYLE
 
@@ -76,7 +76,7 @@ In the upper peristyle garden in the middle of a large rectangular [pool](http:/
  
  
 
-### Figures
+## Figures
 {{< image src="domus_augustana_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1. Plan of the Palatine with the indication of the garden area of the Lower Peristyle (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
 
 {{< image src="domus_augustana_fig2.jpg" alt="Plan of the Palatine" title="Fig. 2. Plan of the Palatine with the indication of the garden area of the Upper Peristyle (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
@@ -87,32 +87,32 @@ In the upper peristyle garden in the middle of a large rectangular [pool](http:/
 
 {{< image src="domus_augustana_fig5.jpg" alt="Reconstruction of the upper peristyle of the Domus Augustana" title="Fig. 11 Upper peristyle of the Domus Augustana: Hypothetical reconstruction. (G. de Angelis D’Ossat, 1932)." >}}
 
-### Dates
+## Dates
 
 92 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * A. Schmölder-Veit, "Aqueducts for the *Urbis Clarissimus Locus*: The Palatine’s Water Supply from Republican to Imperial Times," in K. Wentworth Rinne, ed., *Aquae Urbis Romae: The Waters of the City of Rome*, 7 (Institute for Advanced Technology in the Humanities, University of Virginia, 2011): 1-27. [(worldcat) ("Aqueducts")](http://www.worldcat.org/oclc/1107408596) [(worldcat) ("Waters")](http://www.worldcat.org/oclc/58593220)
 * N. Sojc (Hrsg), *Domus Augustana. Neue Forschungen zum “ Versenkten Peristyl” auf dem Palatin; Investigating the “ Sunken Peristyle” on the Palatine Hill*, Leiden 2012 [(worldcat)](http://www.worldcat.org/oclc/862716259)
 * A. Platner-Ashby, *A Topographical Dictionary of Ancient Rome*, London: Oxford, 1929: 158-166.[(worldcat)](http://www.worldcat.org/oclc/910092330)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Palatine Hill](https://pleiades.stoa.org/places/971691208)
 
-### Contributor
+## Contributor
 
 Maria Anntonietta Tomei
 
-#### ORCID
+## ORCID
 
 unspecified
 
-### Publication date
+## Publication date
 
 21 Apr 2021

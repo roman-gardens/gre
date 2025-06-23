@@ -26,7 +26,7 @@ tags:
 [Ostia]({{<relref ".">}}) \
 [Ostia](https://pleiades.stoa.org/places/422995)
 
-### Location Description
+## Location Description
 
 [Ostia Antica](https://en.wikipedia.org/wiki/Ostia_Antica), the port-city of Rome, was situated at the mouth ([*ostium*](https://en.wiktionary.org/wiki/ostium#Latin)) of the [Tiber](https://en.wikipedia.org/wiki/Tiber), where it flowed into the [Tyrrhenian sea](http://vocab.getty.edu/page/tgn/1112319). Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7<sup>th</sup> century by [king Ancus Marcius](https://en.wikipedia.org/wiki/Ancus_Marcius); archaeological evidence shows that the first settlement was founded as a *colonia maritima* in the 4<sup>th</sup> century BCE. and that it was already acting as the harbour of Rome in the 3<sup>rd</sup> century BCE.
 
@@ -48,7 +48,7 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
-### Location Plan
+## Location Plan
 
 {{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
 
@@ -56,7 +56,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 House on Via del Tempio Rotondo
 
-### Keywords
+## Keywords
 
 - [Augustan](http://vocab.getty.edu/page/aat/300020543)
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
@@ -71,29 +71,29 @@ House on Via del Tempio Rotondo
 - [Cato](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.335.1)
 - [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
 
-### Garden Description
+## Garden Description
 
 This house was only partially excavated between June 1972 and January 1973 (Fig. 1). In its [Augustan](http://vocab.getty.edu/page/aat/300020543) phase the peristyle garden (a) was adorned with a large central basin paved in [opus signinum](http://vocab.getty.edu/page/aat/300379969). At the center of the basin was a brick support, interpreted as the base of a [fountain](http://vocab.getty.edu/page/aat/300006179). The [columns](http://vocab.getty.edu/page/aat/300001571) of the [peristyle](http://vocab.getty.edu/page/aat/300080971), probably [Tuscan](http://vocab.getty.edu/page/aat/300067420), rested on bases alternating with [travertine](http://vocab.getty.edu/page/aat/300011329) strips at pavement level (Fig. 2). Three perforated vases of the type of *ollae perforatae* recorded by [Cato](https://en.wikipedia.org/wiki/Cato_the_Elder) ([RR  52, 133](https://www.thelatinlibrary.com/cato/cato.agri.html) | [Trans.](https://bit.ly/RRCatoA)) and [Pliny](https://en.wikipedia.org/wiki/Pliny_the_Elder) ([NH 12. 16](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:12.16); [17. 64](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:17.64), [97](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:17.97)) were found between the basin and the columns of the peristyle, and exactly aligned with their bases. The *ollae* were intact and must have contained plants, no doubt of the flowering and rambling variety, which would have found both a support and a chromatic backdrop in the columns to the rear.
 
-### Plans
+## Plans
 
 {{< image src="ostia_fig15_better_colored.jpg" alt="Plan of the House on Via del Tempio Rotundo" title="Fig. 1: Plan (after M. Supino; PA-OAnt, Archives)." >}}
 
 {{< image src="ostia_fig17_better.jpg" alt="Plan of the peristyle, with column bases and flower pots" title="Fig. 2: Plan of the peristyle, with column bases and flower pots (from Messineo 1984)." >}}
 
-### Photos
+## Photos
 
 {{< image src="ostia_fig23b.jpg" alt="A flower pot during 1973 excavation" title="Fig. 3: A flower pot during excavation, 1973 (PA-OAnt, Photo Archive)." >}}
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 partially excavated between June 1972 and January 1973
 
-### Bibliography
+## Bibliography
 
 * G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
 * R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
@@ -106,21 +106,21 @@ partially excavated between June 1972 and January 1973
 * *Giornale degli Scavi*, 1972-1973, p. 56. [(worldcat)](http://www.worldcat.org/oclc/8340098)
 * G. Messineo, "Ollae perforatae," *Xenia* 8, 1984, pp. 65-82. [(worldcat)](http://www.worldcat.org/oclc/7522968) <!-- correct worldcat? -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Ostia](https://pleiades.stoa.org/places/422995)
 <!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
-#### TGN ID
+## TGN ID
 
 [Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
-### Contributor
+## Contributor
 
 [Paola Olivanti](https://www.worldcat.org/identities/lccn-nr98023577/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

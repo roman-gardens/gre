@@ -24,7 +24,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 [Caesarea]({{<relref ".">}}) \
 [Iol Caesarea](https://pleiades.stoa.org/places/295279)
 
-### Location Description
+## Location Description
 
 A prestigious city on the southwestern shore of the Mediterranean Sea, Caesarea is located approximately 100 km west of Algiers. Situated on the border of an upland plain dominating the sea and bordered on the west and east by the mountains of the Chenoua and of the Cape Ténès, respectively, the city was one of the ports that the Carthaginians established on the coast of the Maghreb.
 
@@ -42,7 +42,7 @@ The city has been continually occupied to the present day, now known as Cherchel
 
 House of the Two Pools (Maison aux Deux Bassins)
 
-### Keywords
+## Keywords
 
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
@@ -51,21 +51,21 @@ House of the Two Pools (Maison aux Deux Bassins)
 - [Ulysses]
 - [Mermaids]
 
-### Garden Description
+## Garden Description
 
 There is very little information about this house, only two semi circular pools facing each other have survived. The fountain pool of Ulysses and the Mermaids and the pool of Neptune probably decorated a peristyle with a possible garden. The pools are now preserved in the museum.
 
-### Plans
+## Plans
 
-### Images
+## Images
 {{< image src="house_of_the_two_pools.jpg" alt="One is fountain pool of the Ulysses and the Mermaids, the other is fountain of the Neptune" title="Fig. 1: One is fountain pool of the Ulysses and the Mermaids, the other is fountain of the Neptune (Ferdi, S., 2005, Djilali K.)">}}
 
-### Dates
+## Dates
 4th century
 
-#### Excavation Dates
+## Excavation Dates
 
-### Bibliography
+## Bibliography
 
 * Cumont, F., "La mosaïque de Cherchel figurant Ulysse et les sirènes", in *Comptes rendus de l'Académie des Inscriptions et des Belles-Lettres*, 1941, p. 103-109. [(worldcat)](http://www.worldcat.org/oclc/492540938)
 
@@ -79,17 +79,17 @@ There is very little information about this house, only two semi circular pools 
 
 *  Malek, A.-A., "Le jardin au fil de l’eau : mises en scène paysagères dans les domus de Maghreb antique" , in *L'eau dans les villes du Maghreb et leur territoire à l’époque romaine*, eds, V. Brouquier-Redd et F. Hurlet, Bordeaux, Ausonius, 2018, pp. 240-241.
 
-#### Pleiades ID
+## Pleiades ID
 
 [House of the Two Pools](https://pleiades.stoa.org/places/125904444)
 
-#### TGN ID
+## TGN ID
 
-### Contributor
+## Contributor
 
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
-### Publication date
+## Publication date
 
 <!--07 July 2020-->
 

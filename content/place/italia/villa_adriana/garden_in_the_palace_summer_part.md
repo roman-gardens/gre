@@ -24,7 +24,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -36,33 +36,33 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Garden in the Palace Summer part (Fig. 1, n. 14)
 
-### Keywords
+## Keywords
 
 unspecified
 
-### Garden Description
+## Garden Description
 
 Quite certainly there was a garden here, but we don't have any elements to help us to reconstruct its appearance (Fig. 36). Only a trench was by me excavated in the western part of the courtyard, just in front of the Hadrianic *stibadium* used in summer for open-air dining (Fig.37). I wanted to ascertain if here, as in the Canopus' *coenatio*, there had also been an *euripus*, but the probe gave no result, and anyway the digging was too limited to help our understanding of the place.
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
 {{< image src="36_summer_residence.jpg" alt="Plan of the Summer Residence at Hadrian's Villa" title="Fig. 36: Plan of the Summer Residence, Eugenia Salza Prina Ricotti." >}}
 
-### Images
+## Images
 
 {{< image src="37_stibadio_di_palazzo.jpg" alt="Photograph of the Stibadium used for open-air dining in the Summer Residence at Hadrian's Villa" title="Fig. 37: The Stibadium used in summer for open-air dining, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -80,21 +80,21 @@ unspecified
 * M. E. Timpson, J.E. Foss, R. J. Lewis, C. A. Stiles, "Soil interpretation of some Roman archaeological sites in Italy and Tunisia," *15th Int. Congr. of Soil Science*, Vol. 6b, 1994, pp. 172-173. [(worldcat)](http://www.worldcat.org/oclc/32679652)
 * J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](http://www.worldcat.org/oclc/1040851034)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

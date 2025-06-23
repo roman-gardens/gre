@@ -33,7 +33,7 @@ tags:
 [Pompeii]({{<relref "../..">}}) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -42,7 +42,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula IV]({{<relref ".">}})
 
-### Keywords
+## Keywords
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [peristyles](http://vocab.getty.edu/page/aat/300080971)
  - [tablina](http://vocab.getty.edu/page/aat/300004180)
@@ -52,25 +52,25 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
  - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
  - [impluvia](http://vocab.getty.edu/page/aat/300129867)
 
-### Garden Description
+## Garden Description
 Eighteen partially fluted columns supported the large portico (a) surrounding this spacious peristyle garden. Excavated in 1861, the garden was located at the rear of the tablinum and could be viewed from the large triclinium on the east or the exedra on the west. A wooden fence had enclosed the garden as evidenced by the vertical slots in the columns where the fence had been secured. The portico held two puteals, one marble and the other travertine. A gutter circled the garden and at the south end a pool 0.90 x 1.05 m.; 0.18 m. deep contained a fountain.  There was also a fountain located in the atrium, which became a common house feature after the completion of the aquaduct. At the edge of the marble impluvium two ornate trapezophori flanked a round opening containing the bronze water key that controlled the water jet in the center of the impluvium.
 
-### Plans
+## Plans
 {{< image src="fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" title="Plan of Region VIII Insula IV" >}}
 
-### Images
+## Images
 {{< image src="fig.13.viii.iv.15_11.10.59.jpg" alt="Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
-#### TGN ID
+## TGN ID
 [Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
-###  Excavation Dates
+##  Excavation Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 * Breton, *Pompeia*, 3rd ed. pp. 471-472 [(worldcat)](http://www.worldcat.org/oclc/894211341)
 * Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, p. 6 [(worldcat)](http://www.worldcat.org/oclc/65043382)
 * Fiorelli, *Descrizione di Pompei*, p. 342 [(worldcat)](http://www.worldcat.org/oclc/252039996)
@@ -79,9 +79,9 @@ Unspecified
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 67 [(worldcat)](http://www.worldcat.org/oclc/906755593)
 * Pernice, *Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen*, pp. 1, 24, 28, 37 and fig. 1 on p. 2. [(worldcat)](http://www.worldcat.org/oclc/680390526)
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

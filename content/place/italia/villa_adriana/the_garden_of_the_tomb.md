@@ -26,7 +26,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -39,29 +39,29 @@ The realization of this magnificent residence must have been a cherished dream o
 The garden of the tomb (Fig. 1, n. 21)\
 [Piazza d'Oro at Hadrian's Villa](https://pleiades.stoa.org/places/379689233)
 
-### Keywords
+## Keywords
 
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 
-### Garden Description
+## Garden Description
 
 We always find open spaces around the more important tombs and we know that they were kept as gardens. Just last summer Prof. Foss analyzed the samples drawn from the enclosure of the tomb of Romulus, Massenzio's son, on the Appian way, and found a large quantity of lead in it, lead that was not found in other parts of this emperor's villa, as in its famed Circus (Fig. 64). It is evident that the area around this tomb was kept as a garden and that it was watered for quite a long period. Of the garden around the tomb found on the back of the Piazza d'Oro we can only say that, as the Romulus tomb, it was set in a very large enclosure. Lead was present but not in very large quantity (SALZA PRINA RICOTTI 1994-95, fig. 7), thus it must have been set with big trees and bushes that didn't need much irrigation If tufa is present here as in the nearby garden, and if ever the Tomb's area will be excavated, we probably might find the same kind of arrangements for planting trees as in the Piazza d'Oro.
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
 {{< image src="64_tomba_romolo.jpg" alt="Plan of the Tomb of Romulus in Massentius' villa at Hadrian's Villa" title="Fig. 64: The Tomb of Romulus in Massentius' villa, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -81,21 +81,21 @@ unspecified
 <!-- Bibliography for Garden Description -->
 * E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67, 1994-95, fig. 7. [(worldcat)](http://www.worldcat.org/oclc/1006002216)<!-- link to specific issue needed -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

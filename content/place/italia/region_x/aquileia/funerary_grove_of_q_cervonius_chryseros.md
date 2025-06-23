@@ -49,14 +49,14 @@ tags:
 
 Funerary Grove of Q. Cervonius Chryseros
 
-### Keywords
+## Keywords
 
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 - [stelae](http://vocab.getty.edu/page/aat/300007023)
 - [sacred groves](http://vocab.getty.edu/page/aat/300251876)
 - [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
 
-### Garden Description
+## Garden Description
 
 A small inscribed altar of (probably) the Julio-Claudian era found by Mommsen among the stones of Aquileia and now lost records on its left and right sides dedications to Dis Pater and (H)era respectively and, on its front, the name of the dedicant, a consul’s aide (acc(ensus) co(n)s(ularis)) and local sevir at Florentia, Q. Cervonius Chryseros, who built “the grove, the enclosure wall, the altars, the mound (? molem), and the seats” (lucum, maceriem, aras, molem, [s]edilia). The dedication to Dis Pater suggests a funerary context, which leads Chioffi to identify the molis as a tomb monument of some ill-defined type (perhaps an irregular mound?). A Roman soldier serving in lower Germany at Carvium (Herwen) was buried by his two heirs ad molem,  “near (or at) the mound” (AE 1939, 130). The same Chryseros perhaps appears as the owner of a slave, Fausta, who in fulfillment of a vow dedicated another monument to Dis Pater at Aquileia (CIL 5.35*).
 
@@ -74,15 +74,15 @@ NEW WAY ↓↓↓↓
 <!--### Images-->
 
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * G. B. Brusin, *Inscriptiones Aquileiae*, Udine 1991-1993, no. 192.[(worldcat)](http://www.worldcat.org/oclc/603656316)
 * S. Panciera, *Libitina e dintorni : Libitina e i luci sepolcrali*, Rome 2004, nn. 17-31. [(worldcat)](http://www.worldcat.org/oclc/849004166)
@@ -91,19 +91,19 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Aquileia](https://pleiades.stoa.org/places/187290)
 
-#### TGN ID
+## TGN ID
 
 [Aquileia (inhabited place)](http://vocab.getty.edu/page/tgn/7005553)
 
-### Contributor
+## Contributor
 
 Sean Gillies (https://pleiades.stoa.org/author/sgillies)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

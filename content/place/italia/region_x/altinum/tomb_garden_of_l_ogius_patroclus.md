@@ -50,7 +50,7 @@ tags:
 
 Tomb Garden of L. Ogius Patroclus
 
-### Keywords
+## Keywords
 
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 - [epitaphs](http://vocab.getty.edu/page/aat/300028729)
@@ -58,7 +58,7 @@ Tomb Garden of L. Ogius Patroclus
 - [sacred groves](http://vocab.getty.edu/page/aat/300251876)
 - [vegetable gardens](http://vocab.getty.edu/page/aat/300008142)
 
-### Garden Description
+## Garden Description
 
 A marble slab reported at Altinum in the sixteenth century and now in Venice  records, above a depiction of an axe, a plumb-line, and a tree with birds, the epitaph of L. Ogius Patroclus, who some time (probably) in the late first or second century, “following the tradition of dutiful respect maintained by the corporation of firemen, donated while still living the gardens with building adjoining the tomb, so that from their revenue roses and food would be supplied generously for his patron and, eventually, for himself” (secutus pietatem col(legii) cent(onariorum) hortos cum aedificio huic sepult(urae) {a} iunctos vivos donavit, ut ex reditu eor(um) largius rosae et esce patrono suo et quandoque sibi ponerentur). The pairing of roses for the dead and food for the living (rosae et escae) was common in Roman funerary celebrations at the grave site, which perhaps suggests that mixed planting of flowers and vegetables was common in Roman tomb gardens as well (cf. ILS 6711, 8371).
 
@@ -73,15 +73,15 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 16th century
 
-### Bibliography
+## Bibliography
 
 * CIL 5.2176
 * ILS 8369
@@ -90,20 +90,20 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Altinum](https://pleiades.stoa.org/places/197110)
 
-#### TGN ID
+## TGN ID
 
 [Altino (inhabited place)](http://vocab.getty.edu/page/tgn/4000603)
 
-### Contributor
+## Contributor
 
 Sean Gillies (https://pleiades.stoa.org/author/sgillies)
 
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

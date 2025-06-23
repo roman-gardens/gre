@@ -42,7 +42,7 @@ categories:
 
 House of the Indian Statuette (I.viii.5)
 
-### Keywords
+## Keywords
 
 - [archaeological garden](#)
 - [chests (case furniture)](http://vocab.getty.edu/page/aat/300038992)
@@ -53,7 +53,7 @@ House of the Indian Statuette (I.viii.5)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 
-### Garden Description
+## Garden Description
 
 A *portico* enclosed this garden (a) on the north, east and south sides, and the *portico* on the west had been closed to create rooms. These enclosed columns can be observed incorporated into the wall but only one of the other columns remains standing. The garden was surrounded by a gutter. A small Indian statuette (0.25 m. high) was found in the adjacent shop and it is believed to have been stored in a wooden chest in one of the rooms off the *portico* with other domestic items. It had tumbled into the shop when the southwest corner of the *peristyle* collapsed.
 
@@ -68,7 +68,7 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
@@ -76,14 +76,14 @@ NEW WAY ↓↓↓↓
 
 <!--### Images-->
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 
-### Bibliography
+## Bibliography
 
 * Della Corte, *Case*, p. 334.
 * Jashemski, *Gardens*, vol.II, p. 42. [(worldcat)](http://www.worldcat.org/oclc/921816405)
@@ -94,19 +94,19 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

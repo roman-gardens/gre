@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Roman Palace in Fishbourne
 
-### Keywords
+## Keywords
 
 - [archaeological gardens](#)
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
@@ -58,7 +58,7 @@ Roman Palace in Fishbourne
 - [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
 - [vegetable gardens](http://vocab.getty.edu/page/aat/300008142)
 
-### Garden Description
+## Garden Description
 
 Fishbourne Roman Palace was accidentally discovered during the digging of a water main trench in 1960. The discovery led to nine seasons of excavations (1961-69) that showed the site had developed from a military base at the time of the Roman invasion in AD 43 to a sumptuous palace by the end of the first century CE. Carefully excavated by Barry Cunliffe, using techniques of environmental archaeology, the garden excavations at the palace have long served as a model in the development of Roman garden archaeology, although the findings did not initially prompt the investigation of other gardens in Britain. Today the site has been developed for display and education.
 
@@ -76,25 +76,25 @@ Limited excavations to the south of the palace revealed an artificial terrace wh
 
 <!-- ### Maps -->
 
-### Plans
+## Plans
 
 {{< image src="fishbourne-fig-1.jpg" alt="Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace." title="Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace." >}}
 
-### Images
+## Images
 
 {{< image src="fishbourne-fig-2.jpg" alt="Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace." title="Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace." >}}
 
 {{< image src="fishbourne-fig-3.jpg" alt="Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace." title="Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace." >}}
 
-### Dates
+## Dates
 
 late 1st century CE - unspecified
 
-#### Excavation Dates
+## Excavation Dates
 
 1961-69, mid 1980s
 
-### Bibliography
+## Bibliography
 
 * M. Carroll, *Earthly Paradises. Ancient Gardens in History and Archaeology.* London: The British Museum Press, 2003, 86, fig. 66; 101, fig. 79
 * M. Carroll, They came, they saw, they gardened. *The Garden: Journal of the Royal Horticultural Society* 128.6, 2003, 460-463, figs. p. 462
@@ -107,19 +107,19 @@ late 1st century CE - unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Fishbourne](https://pleiades.stoa.org/places/79466)
 
-#### TGN ID
+## TGN ID
 
 [Fishbourne Roman Palace (historic site)](http://vocab.getty.edu/page/tgn/7032567)
 
-### Contributor
+## Contributor
 
 [Kathryn Gleason](https://classics.cornell.edu/kathryn-gleason) (ORCID:[0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

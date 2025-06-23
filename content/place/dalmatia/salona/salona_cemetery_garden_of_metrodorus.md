@@ -47,40 +47,40 @@ A sublocation is any area larger than an individual garden, but located within a
 Cemetery Garden of Metrodorus
 
 
-### Keywords
+## Keywords
 
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 - [epitaphs](http://vocab.getty.edu/page/aat/300028729)
 - [sarcophagi (coffins)](http://vocab.getty.edu/page/aat/300005947)
 
 
-### Garden Description
+## Garden Description
 
 A sarcophagus found at Salona in 1824, transported to the museum in Split, and subsequently lost bore an inscription recording the donation by Aur(elius) Aprilianus to Aur(elius) Amurus and Aur(elia) Quinta of a sarcophagus “which is in the garden of Metrodorus” and specifying that it was put into position while they were still alive (*Aur*(*elius*) *Aprilianus se vivo donavet arcam Aur*(*elio*) *Amuro et Aur*(*eliae*) *Quinte que est in orto Metrodori. Vivi sibi posuerunt…*). The find spot of the sarcophagus is not known, but Wilkes plausibly associates the garden of Metrodorus with a walled cemetery a hundred meters outside the city gate on the north side of the road leading west from town, which comprises a number of individual familial plots marked out by dividing walls within an area enclosed by a massive masonry perimeter built of blocks more than four meters long. The garden of Metrodorus was perhaps home also to the monument of Iulia Mutiana erected “among the sarcophagi in the middle in the garden, near the road, overlooking the old (?) courtyard (or seed bed)” (see the preceding entry): the two inscriptions belong broadly to the same period (the latter second or third century) and might well be contemporary with each other. 
 
-### Maps
+## Maps
 
 <!-- 
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 <!-- 
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 <!-- 
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 Late second or third century (CE)
 
-### Bibliography
+## Bibliography
 
 1. *CIL* 3.2207
 2. M. Abramic´, *VAHD 52*, 1935-49:1-18
@@ -90,19 +90,19 @@ Late second or third century (CE)
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Salona](https://pleiades.stoa.org/places/197488)
 
-#### TGN ID
+## TGN ID
 
 [Solin (inhabited place)](http://vocab.getty.edu/page/tgn/7017320)
 
-### Contributor
+## Contributor
 
 [John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
-### Publication date
+## Publication date
 <!-- Format: dd MONTH_NAME yyyy -->
 
 15 July 2020

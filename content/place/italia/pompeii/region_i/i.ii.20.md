@@ -27,7 +27,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -35,7 +35,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula II]({{<relref "#">}})
 
-### Keywords
+## Keywords
 - [biclinia](http://vocab.getty.edu/page/aat/300170371)
 - [cauponae](http://vocab.getty.edu/page/aat/300005208)
 - [lararia](http://vocab.getty.edu/page/aat/300400600)
@@ -43,11 +43,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Garden
 Garden serving the [Caupona](http://vocab.getty.edu/page/aat/300005208) of Innulus.
 
-### Garden Description
+## Garden Description
 This small [caupona](http://vocab.getty.edu/page/aat/300005208) had a garden at the rear with a roofed passageway on the east and the south. It was excavated in 1873 and a masonry [biclinium](http://vocab.getty.edu/page/aat/300170371) (l. medius, 2.65m.; l. imus 2.94 m.) with a round table (dia. 0.93 m.) was uncovered in the northwest corner and a niche [lararium](http://vocab.getty.edu/page/aat/300400600) on the north garden wall.
 
 
-### Bibliography
+## Bibliography
 
 * Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 23, no.13 [(worldcat)](https://www.worldcat.org/title/corpus-of-the-lararia-of-pompeii/oclc/892026154&referer=brief_results)  
 * Fiorelli, G. 1875. *Descrizione di Pompei*, p. 45 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)    
@@ -63,20 +63,20 @@ This small [caupona](http://vocab.getty.edu/page/aat/300005208) had a garden at 
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-###  Excavation Dates
+##  Excavation Dates
 Excavated 1869.
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->

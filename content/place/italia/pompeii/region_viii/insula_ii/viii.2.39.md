@@ -26,7 +26,7 @@ tags:
 [Pompeii]({{<relref "../..">}}) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -35,29 +35,29 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula II]({{<relref ".">}})
 
-### Keywords
+## Keywords
  - [triclinia (couches)](http://vocab.getty.edu/page/aat/300142552)
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367)
 
-### Garden Description
+## Garden Description
 This was the last of the houses to be built on the Via della Regina, all of which were built over the south wall of the city. Located directly west of the Triangular Forum, it was excavated in 1767-1769, filled in, and then re-excavated in 1885-1886. A triclinium (b) and (b΄) flanked either side of the center room (a) and they all faced a portico that was completely open to the view of the Bay and mountains. One story below, the main room (c) had two windows and a door to the wide terrace beyond. On either side of this room there was a triclinium and a cubiculium, each with a window to the same view. The terraces would have been used as roof gardens, and garden artifacts such as the marble head of a lion fitted as a fountain and a fragment of a marble sundial were found in this house. In the right ala (f) there was a garden representation under the painting of an Egyptian landscape. The representation measuring 0.14 x 0.36 m. had a yellow lattice fence enclosing a garden with plantings both inside and outside and two trees. The amount of vegetation and the size of the figures makes this representation unusual. A herm of Silvanus with a scythe in his right hand and a pedum or shepherd’s crook in his left stands in the center of the garden. A person in a long garment working with a three pronged weeding hook is to the left and a second figure in a long garment is kneeling over some plants on the right. A drawing of the garden representation is in the Deutsches Archäologisches Institut, Rome, negative no.53 504.
 
-### Plans
+## Plans
 {{< image src="fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
 {{< image src="fig._4_region_viii_insula_ii_39.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 29-39" title="Plan of the Pompeii Region VIII, Insula II, 29-39" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
-#### TGN ID
+## TGN ID
 [Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
 
-###  Excavation Dates
+##  Excavation Dates
 First excavated in 1767-1769, Filled in. Re-excavated in 1885-1886
 
-### Bibliography
+## Bibliography
 * Döhl, *Plastik aus Pompeji*, p. 43 [(worldcat)](http://www.worldcat.org/oclc/52662796)
 * Dyer, *Pompeii*, 3rd ed. p. 439 [(worldcat)](http://www.worldcat.org/oclc/24327166)
 * Fiorelli, *Descrizione di Pompei*, p. 446 [(worldcat)](http://www.worldcat.org/oclc/1198324804)
@@ -72,9 +72,9 @@ First excavated in 1767-1769, Filled in. Re-excavated in 1885-1886
 * Schefold, *Die Wände Pompejis*, p. 218 [(worldcat)][http://www.worldcat.org/oclc/1100462668)
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

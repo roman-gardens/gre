@@ -52,36 +52,36 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Villa at Durrueli di Realmonte
 
-### Keywords
+## Keywords
 
 <!-- [urban villas](#) -->
 
 
-### Garden Description
+## Garden Description
 
 There is a small semicircular basin (Farrar Type E) inserted in a secondary period in the north edge of the peristyle, facing the principal marble-paved reception or dining-room of the north wing (Fig. 10). The basin has marble wall-veneer and plain tessellation on its floor (Fig 11). This arrangement at Durrueli may have been influenced by North African fashion, where the demi-lune basin is especially common.
 
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 <!--{{< image src="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
 
-### Images
+## Images
 
 {{< image src="figure10.png" alt="Fig. 10 Durrueli di Realmonte, plan of Roman villa" title="Fig. 10 Durrueli di Realmonte, plan of Roman villa" >}}
 
 
 
-### Dates
+## Dates
 
 
-### Bibliography
+## Bibliography
 R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 198–9  with figs 164 and 165.2.[(worldcat)](http://www.worldcat.org/oclc/608028740)
 
 M. Aoyagi, Ripresa eegli scavi nella villa romana di Realmonte, Kokalos 26–27 (1980–81):  668–73 [(worldcat)](http://www.worldcat.org/oclc/186378054)
@@ -92,17 +92,17 @@ M. Aoyagi, Ripresa eegli scavi nella villa romana di Realmonte, Kokalos 26–27 
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Durrueli di Realmonte](https://pleiades.stoa.org/places/462188/)
 
-#### TGN ID
+## TGN ID
 
 
-### Contributor
+## Contributor
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

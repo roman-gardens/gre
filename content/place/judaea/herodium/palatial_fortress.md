@@ -31,7 +31,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 [Herodium]({{<relref ".">}}) \
 [Herodium](https://pleiades.stoa.org/places/687916)
 
-### Location Description
+## Location Description
 Herodium
 
 Herod the Great’s primary residence and burial place appears to have been this large palace complex 15 km southwest of Jerusalem.  Here his court was within easy reach of the city, and on clear days the palace and the Mt. of Olives are visible in both directions. Herodium was an entirely new administrative and residential complex, commemorating his military victory over Antigonus for control of Jerusalem in 40 BCE.  Herodium was begun c. 23-20 BC and offered a Herod a range of facilities in which he could perhaps live and conduct business more freely here than in Jerusalem. (Jewish Antiquities, XV, 323-325) The palace has two primary residential areas: the fortified palace atop a natural, but raised hilltop; and an unfortified palace that spans a gentle valley below. (Fig. 1)  (Josephus Jewish War I, 419-421; Jewish Antiquities, XV, 323-325).
@@ -54,23 +54,23 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Royal Garden
 
-### Keywords
+## Keywords
 
 - [pleasure garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=4&subjectid=300008115)
 - [walled garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=5&subjectid=300008129)
 
-### Garden Description
+## Garden Description
 Palace Fortress
 
 The Palace Fortress is a cylindrical structure originally seven stories high (two vaulted corridors in the substructure and five stories of corridors each having its floors supported on wooden beams). In the open interior of the cylinder, palace quarters were designed with luxuriously appointed rooms facing onto a 41x18m courtyard (Fig 1A).  These included a triclinium/reception hall, baths, and living quarters. This peristyle featured colonnaded corridors on three of its sides, the two shorter of which were decorated by exedra.  The interior focal point for these rooms was a garden, which has been excavated to approximately its original surface.  The soil of the garden is clearly amended with fertilizer and suitable for cultivation using water from the cisterns beneath the palace.
 
 
 <!--
-### Maps
+## Maps
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="ASIA_JUD_HERODIUM _1.jpg" alt="Fig. 1:Plan of the complex at Herodium showing the Fortress Palace with its small peristyle garden (A), the Tomb Garden (B) and the Lower Palace with its central pool and cultivated grounds (C) (Yaniv Korman after Netzer)." title="Fig. 1:Plan of the complex at Herodium showing the Fortress Palace with its small peristyle garden (A), the Tomb Garden (B) and the Lower Palace with its central pool and cultivated grounds (C) (Yaniv Korman after Netzer)" >}}
 
@@ -78,11 +78,11 @@ The Palace Fortress is a cylindrical structure originally seven stories high (tw
 
 {{< image src="Latimer_fig_15_or_10.1b.jpg" alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." title="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." >}}-->
 
-### Dates
+## Dates
 
 30 BCE - 60 CE
 
-### Bibliography
+## Bibliography
 
 * E. Netzer, “Greater Herodium” in Qedem, Monographs of the Institute of Archaeology, The Hebrew University of Jerusalem 13, 1981 [(worldcat)](https://www.worldcat.org/title/greater-herodium/oclc/470633336&referer=brief_results)
 * E. Netzer The Palaces of the Hasmoneans and Herod the Great, Jerusalem: The Israel Exploration Society, 1999, 98-107 [(worldcat)](https://www.worldcat.org/title/palaces-of-the-hasmoneans-and-herod-the-great/oclc/1089147869&referer=brief_results)
@@ -95,22 +95,22 @@ The Palace Fortress is a cylindrical structure originally seven stories high (tw
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Herodeion](https://pleiades.stoa.org/places/687916)
 
-#### TGN ID
+## TGN ID
 
 [Judean Desert (desert)](http://vocab.getty.edu/page/tgn/8713913)
 
-### Contributor
+## Contributor
 
 [Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
 
 [Kathryn L. Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)
 ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

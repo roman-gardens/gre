@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
 [Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [aix-en-provence]({{<relref ".">}}) \
 [aix-en-provence (Pleiades)]()
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -47,7 +47,7 @@ Enclos Reynaud, House with the semicircular bay, phase I
 
 
 
-### Keywords
+## Keywords
 
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
@@ -58,7 +58,7 @@ Enclos Reynaud, House with the semicircular bay, phase I
 
 
 
-### House Description
+## House Description
 
 In the second century, to judge by the style of the mosaics, the two preceding houses, NAR6.3 and NAR6.4, were joined without, however, any major change in plan. Fragments of statues have been found. With an area greater than 1500 square meters, pavements of high quality, and statuary, it must have been an imposing home. It was occupied for some two centuries.
 
@@ -73,7 +73,7 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 
 {{< image src="enclos_reynaud_combination_of_house_with_the_large_opus_sectile_with_house_of_the_semicircular_bay.png" alt="Plan of the Combination of House with the Large Opus with House fo the Semicircular Bay" title="Combination of House with the large opus sectile with House of the semicircular bay" >}}<!--### Images-->
@@ -86,11 +86,11 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 
 
-### Bibliography
+## Bibliography
 
 1. *Maison 1996*, t. II,, p. 42-43
 
@@ -100,21 +100,21 @@ NEW WAY ↓↓↓↓
 3. P. Gros, *L'architecture Romaine: Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire. Paris: A. et J*. Picard, 2011, P. 187-188 [(worldcat)](http://www.worldcat.org/oclc/762763355)
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Aix-en-Provence (inhabited place)](http://vocab.getty.edu/page/tgn/7010786)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

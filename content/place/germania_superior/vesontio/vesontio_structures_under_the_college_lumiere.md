@@ -28,7 +28,7 @@ categories:
 [Vesontio]({{<relref ".">}}) \
 [Vesontio](https://pleiades.stoa.org/places/177657)
 
-### Location Description
+## Location Description
 
 The defensibility offered by this unique geography made Caesar hasten to occupy Vesontio in 58 BC. The town came to have all the usual Roman structures– forum, baths, aqueduct, and amphitheater (on the other side of the Doubs, to the northwest.) But the most visible remnant is the Porte Noire (Black Gate) [3], a triumphal arch built by Marcus Aurelius at the southeastern end of the *cardo maximus*, today Grande Rue and still the center of city life.
 
@@ -50,7 +50,7 @@ A sublocation is any area larger than an individual garden, but located within a
 Structures under the Collège Lumière in Vesontio
 
 
-### Keywords
+## Keywords
 
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [kraters](http://vocab.getty.edu/page/aat/300198855)
@@ -63,7 +63,7 @@ Structures under the Collège Lumière in Vesontio
 - [rinceaux](http://vocab.getty.edu/page/aat/300165495)
 - [terrazzo](http://vocab.getty.edu/page/aat/300011696)
 
-### Garden Description
+## Garden Description
 
 The results of the 2004 excavation at the Collège Lumière are still under study and the data are therefore still partial. This zone, close to the river and the artisinal quarter has, in the past, yielded most of the mosaics recorded for Besançon. The ancient structures discovered on 3000 square meters relate to a Gallo-Roman urbanization extending from the Augustan period to the third century and superimposed on a rather dense Gallic occupation of the first century BC. Two phases of construction from the late Augustan period up through the end of the first century, have thus far not permitted the confirmation of the possible presence of a garden. On the other, later constructions dating from the beginning and last third of the second century are rich in peristyles with open space suitable for a garden.
 
@@ -81,7 +81,7 @@ A fragment of a little ornamental stone *krater* was found in the material that 
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 <span style="color:red"> Images not available (?) </span>
 
@@ -93,15 +93,15 @@ A fragment of a little ornamental stone *krater* was found in the material that 
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 Gardens: Beginning and last third of second century
 
-#### Excavation Dates
+## Excavation Dates
 
 2004
 
-### Bibliography
+## Bibliography
 
 * C. Gaston and C. Munier “Une luxueuse domus de la find du IIe siècle à Besançon, college Lumière (Doubs, F)"" in *Premières Journées archéologiques frontalières de l'Arc jurassien: Mandeure, sa campagne et ses relations d'Avenches à Luxeuil et d'Augst à Besançon*. Ed, Cécile Bélet-Gonda, Presses Univ. Franche-Comté (2007), 103-112.
 
@@ -109,15 +109,15 @@ Gardens: Beginning and last third of second century
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Vesontio](https://pleiades.stoa.org/places/177657)
 
-#### TGN ID
+## TGN ID
 
 [Besancon (inhabited place)](http://vocab.getty.edu/page/tgn/7008356)
 
-### Contributor
+## Contributor
 
 Claudine Monier (ORCID: N/A)
 
@@ -125,7 +125,7 @@ Christophe Gaston (ORCID: [https://orcid.org/0000-0001-6865-5108](https://orcid.
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

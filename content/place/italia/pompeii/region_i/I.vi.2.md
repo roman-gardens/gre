@@ -23,7 +23,7 @@ categories:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -31,7 +31,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula VI]({{<relref "#">}})
 
-### Keywords
+## Keywords
 - [archaeological garden](#)
 - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [busts (sculpture)](http://vocab.getty.edu/page/aat/300417950)
@@ -51,7 +51,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 House of the Cryptoporticus; Casa Del Crirtoportico; Casa Omerica; House of T. Lucretius Carus.
 
 
-### Garden Description
+## Garden Description
 
 A. A passageway from the [atrium](http://vocab.getty.edu/page/aat/300004097) led to a modest [peristyle](http://vocab.getty.edu/page/aat/300004029) garden visible through a window in the rear wall. A low wall enclosed the garden on the north and east sides along with five brick columns covered with white stucco and a [pillar](http://vocab.getty.edu/page/aat/300264605) supporting the roof of the [portico](http://vocab.getty.edu/page/aat/300004145). A large, well preserved wall [painting](http://vocab.getty.edu/page/aat/300033644) survived on the west wall of the north [portico](http://vocab.getty.edu/page/aat/300004145) as well as a niche [lararium](http://vocab.getty.edu/page/aat/300400600) decorated with a painted [bust](http://vocab.getty.edu/page/aat/300417950) of Mercury. From the garden a flight of stairs led down to an elegant [cryptoporticus](http://vocab.getty.edu/page/aat/300004295) (underground [portico](http://vocab.getty.edu/page/aat/300004145)) illuminated by light from the adjacent garden through high windows. A solarium terrace, or [loggia](http://vocab.getty.edu/page/aat/300004137), overlooking the large garden could be reached by another flight of [stairs](http://vocab.getty.edu/page/aat/300003228) form the east [portico](http://vocab.getty.edu/page/aat/300004145).
 
@@ -68,7 +68,7 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 <!--
-### Plans
+## Plans
 
 {{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
@@ -77,11 +77,11 @@ NEW WAY ↓↓↓↓
 <!--### Images-->
 
 
-### Dates
+## Dates
 Excavated 1911-1929.
 
 
-### Bibliography
+## Bibliography
 * Della Corte, M. *NSc* (1914), pp. 74-75, 228.  
 * Fiorelli, G. 1875. *Descrizione di Pompei*, pp. 452-453. [(worldcat)](http://www.worldcat.org/oclc/908272023)  
 * Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 33-34. [(worldcat)](http://www.worldcat.org/oclc/921816405)
@@ -96,19 +96,19 @@ Excavated 1911-1929.
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

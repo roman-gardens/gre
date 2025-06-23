@@ -52,33 +52,33 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Villa at Borgellusa di Avola
 
-### Keywords
+## Keywords
 
 <!-- [urban villas](#) -->
 
 
-### Garden Description
+## Garden Description
 
 There is a four meter square basin located in the middle of the space enclosed by the peristyle (Fig. 6). Belonging to Farrar’s type D, the pool has a square exterior and an inner outline of semicircular corner niches alternating with rectangular recesses. Probably belonging to the first half of the first century A. D., the pool is waterproofed with white mortar inside, and has edges lined with white and grey marble, possibly Carraran (Fig. 7).
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 <!--{{< image src="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
 
-### Images
+## Images
 
 {{< image src="figure7.jpg" alt="Fig. 7  Borgellusa, water basin at the centre of the peristyle garden" title="Fig. 7  Borgellusa, water basin at the centre of the peristyle garden" >}}
 
-### Dates
+## Dates
 
 
-### Bibliography
+## Bibliography
 G. M. Bacci, Scavi e ricerche a Avola, Grammichele, Portopalo, Taormina, Kokalos 30–31 (1984–85):  711–13 [(worldcat)](http://www.worldcat.org/oclc/186378054);
 
 R. J. A. Wilson, Archaeological Reports 34 (1987–88):  115, fig. 6 [(worldcat)]()
@@ -88,17 +88,17 @@ id., Sicily under the Roman Empire, Warminster, 1990, pp. 197–8  with fig. 165
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Syracusae/Syrakousai](https://pleiades.stoa.org/places/462503)
 
-#### TGN ID
+## TGN ID
 
 
-### Contributor
+## Contributor
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

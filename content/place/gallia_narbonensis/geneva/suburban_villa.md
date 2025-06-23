@@ -13,7 +13,7 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
 [Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
@@ -27,7 +27,7 @@ categories:
 [Genava, ((Geneva, France)]({{<relref ".">}}) \
 [Genava](https://pleiades.stoa.org/places/177528)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -42,12 +42,12 @@ The Roman town, located at the western end of Lake Geneva at the confluence of t
 Suburban Villa
 
 <!-- ### Keywords -->
-### Keywords
+## Keywords
 - [villae suburbanae](http://vocab.getty.edu/page/aat/300005519)
 - [peristyles](http://vocab.getty.edu/page/aat/300080971)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
-### Garden Description
+## Garden Description
 
 This *villa suburbana* in the modern Parc de la Grange lay outside the town on the southern shore of Lake Geneva. The villa, built originally in the mid 1st c. A.D., was extended in the 2nd and 3rd c., and was inhabited until the 4th c. (Fig. 8.2). It measured 40 x 30.50 m., and it had a separate bath complex on the northwest.  The entire estate was 450 m. long and approximately 180 m. in width.
 
@@ -58,18 +58,18 @@ To the northwest of the house were enclosed areas which have been interpreted as
 
 <!-- text is from draft file -->
 
-### Plans
+## Plans
 
 None Available
 
-### Images
+## Images
 
 None Available
 
-### Dates
+## Dates
 
 
-### Bibliography
+## Bibliography
 
 - L. Blondel and G. Darier, "La villa romaine de la Grange, Genève," Anzeiger für schweizerische Geschichte 24, 1922:70-88, pls. 1-2. [(worldcat)](http://www.worldcat.org/oclc/891753412)
 
@@ -77,20 +77,20 @@ None Available
 
 - M.-A. Haldimann, P. André, E. Broillet-Ramjoué, Matthieu Poux, “Entre résidence indigène et domus gallo-romaine: le domaine antique du Parc de La Grange (GE),” Archéologie Suisse 24.2, 2001: 2-15, figs. 4, 13-14, 17. [(worldcat)](http://www.worldcat.org/oclc/718064040)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Genava](https://pleiades.stoa.org/places/177528)
 
-### Contributor
+## Contributor
 
 [AUTHOR_ID](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

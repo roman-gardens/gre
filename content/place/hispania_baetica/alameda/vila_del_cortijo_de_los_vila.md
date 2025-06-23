@@ -26,7 +26,7 @@ categories:
 [Alameda]({{<relref ".">}}) \
 [Alameda](https://pleiades.stoa.org/places/270382)
 
-### Location Description
+## Location Description
 
 Ruins of large Roman baths, now surrounded by an interpretive center, and numerous finds of Roman coins and pottery fragments make clear that there was a considerable Roman town here with its center in the heart of the modern town.  Its name, however, has not been determined for certain.  The villa described below is near the modern town cemetery.  It seems, however, that the villa was reburied for its protection.
 
@@ -45,7 +45,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Villa del Cortijo de los Vila
 
-### Keywords
+## Keywords
 
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
@@ -54,11 +54,11 @@ Villa del Cortijo de los Vila
 <!-- - [Priapus](#) -->
 
 
-### Garden Description
+## Garden Description
 
 Excavations in 1985 and 1986 brought to light a villa dating to the end of the third or beginning of the fourth century AD.  The villa is also known as the “Finca del Moral.”  Measures were taken to preserve the fine mosaics. In the peristyle of the villa there was a rectangular garden area [A] with rounded corners and semicircles on the four sides. At its center is a square brick structure faced with marble, which was probably a fountain. Also found in the villa was a statuette of Priapus, who was often associated with gardens, and whose cult images often appeared in them. The figure, placed in the center of the garden and dating from the end of the second century, is adorned with bunches of grapes, surrounded by flowers, birds and a pair of sandals.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -70,14 +70,14 @@ Excavations in 1985 and 1986 brought to light a villa dating to the end of the t
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * F. Almohalla, M. J. Botos,*Villa romana del cortijo de los Vila (Alameda)*, (Malaga 1989), (unpublished memorandum deposited with the Diputacion de Malaga, Area de Urbanismo)
 * J. M. Blázquez,'Los jardines en la Hispania Romana,' *Historia de los Parques y Jardines en España*, C. Añón Feliu, ed. (Madrid 2001) 29. [(worldcat)](http://www.worldcat.org/oclc/1090911182)
@@ -88,20 +88,20 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa del Cortijo de los Vila at Alameda]({{<relref ".">}}) \
 [Villa del Cortijo de los Vila at Alameda](https://pleiades.stoa.org/places/521700444)
 
-#### TGN ID
+## TGN ID
 
 [Alameda (inhabited place)](http://vocab.getty.edu/page/tgn/1061700)
 
-### Contributor
+## Contributor
 
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

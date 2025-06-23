@@ -27,7 +27,7 @@ categories:
 ## Sublocation
 Via Appia
 
-### Sublocation Description
+## Sublocation Description
 An early Roman road (via publica) originating at Rome and terminating at Brundisium, the Via Appia was begun in the fourth century B.C. by the censor Appius Claudius Caecus. The Latin author Statius described the Via Appia as "queen of the long roads".
 
 
@@ -36,20 +36,20 @@ An early Roman road (via publica) originating at Rome and terminating at Brundis
 
 Tomb Garden of Aur(elius) Inachus
 
-### Keywords
+## Keywords
 
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 
 
-### Garden Description
+## Garden Description
 An inscription found beside the Via Appia near the tomb of Cecelia Metella in 1851 identifies a cepotaphium belonging to Aur(elius) Inachus, a freedman of one of the Antonine emperors (probably Commodus), who served as assistant to the messengers at the office of the emperor’s private accounts, and to Aurelia Macariane, Aurelia Rodogune, and their freedmen and freedwomen and descendants (CIL 6.8505 cf. p. 3459). The womens’ names are unusual: “R(h)odogune” is recorded only once elsewhere at Rome; “Macariane” (the not uncommon “Macaria” plus a suffix modeled on “Rodogune”?) appears to be otherwise unattested. The absence of a praenomen from Inachus’s name and the abbreviation of his gentilicium point to a date in the first half of the third century.
 
 
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - J. Bodel, *Roman Tomb Gardens*, Cambridge University Press, 2018, p. 236. [link](https://www.cambridge.org/core/books/gardens-of-the-roman-empire/roman-tomb-gardens/6BDAE36C21FFFADD3EB4E9CBD4BB8986)
 
 - G.-L. Gregori , *SHorti sepulchrales e cepotaphia nelle iscrizioni urbane*, Bullettino della Commissione Archeologica Comunale di Roma”
@@ -66,17 +66,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Tomb Garden of Aur(elius) Inachus](https://pleiades.stoa.org/places/811119037)
 
 
 
-### Contributor
+## Contributor
 	J Bodel
 
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

@@ -27,7 +27,7 @@ categories:
 [Arae Flaviae]({{<relref ".">}}) \
 [Arae Flaviae](https://pleiades.stoa.org/places/118572)
 
-### Location Description
+## Location Description
 
 This town on the Neckar river was granted municipal status around 84 AD or slightly later. In modern terms, it lies about halfway between Zurich and Stuttgart.
 
@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Large Building north of Forum in Arae Flaviae
 
-### Keywords
+## Keywords
 
 - [archaeological garden](#)
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
@@ -54,31 +54,31 @@ Large Building north of Forum in Arae Flaviae
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
 
-### Garden Description
+## Garden Description
 
 This building ca. 95 meters in width consisted of several units built at different times. These may represent more than one house, or they may be parts of one large house. The southern part of the complex, entered from the colonnaded street on the west, had a vestibule or corridor leading into a peristyle courtyard. This may have been planted, although the excavators could find no clear evidence of this. Beyond the peristyle to the east was a series of rooms, including one large room presumably with representative character, and an open area interpreted as a courtyard or garden (G in Fig. 1). The complex was built at the earliest during the reign of Trajan, but additions and alterations followed throughout the 2nd and perhaps the 3rd century.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="EUR_GS_AraFla_Bnf_carroll.jpg" alt="Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2." title="Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2. (Rights statement)" >}}
 
-### Images
+## Images
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 Complex built at the earliest during the reign of Trajan.
 
-### Bibliography
+## Bibliography
 
 * C. S. Sommer, "Municipium Arae Flaviae. Militärisches und ziviles Zentrum im rechtsrheinischen Obergermanien," *Bericht der Römisch-Germanischen Kommission 73*, 1992: 301-302, Beilage 1.2.
 
@@ -86,19 +86,19 @@ Complex built at the earliest during the reign of Trajan.
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Arae Flaviae](https://pleiades.stoa.org/places/118572)
 
-#### TGN ID
+## TGN ID
 
 [Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

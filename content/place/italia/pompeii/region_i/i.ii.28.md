@@ -27,7 +27,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -35,7 +35,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula III]({{<relref "#">}})
 
-### Keywords
+## Keywords
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
@@ -46,11 +46,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Garden
 [Peristyle](http://vocab.getty.edu/page/aat/300080971) garden at the rear of the Casa Della Grata Metallica (also known as the Casa Dell’Atrio Tetra-Stilo).
 
-### Garden Description
+## Garden Description
 At the rear of the house there was a [peristyle](http://vocab.getty.edu/page/aat/300080971) garden with a [portico](http://vocab.getty.edu/page/aat/300004145) along the east side and part of the south. The excavation took place in 1873-74. A low wall joined three stuccoed brick [columns](http://vocab.getty.edu/page/aat/300001571) and two engaged ones which supported the [portico](http://vocab.getty.edu/page/aat/300004145). There was an entrance to the garden on the south side opposite the door from the [tablinum](http://vocab.getty.edu/page/aat/300004180) and another on the east opposite the kitchen door, which was closed later according to Mau. The [columns](http://vocab.getty.edu/page/aat/300001571) were white above the height of the wall and red below. Water was carried to the [cistern](http://vocab.getty.edu/page/aat/300052558) by a wide gutter on the south and east edges of the garden, and Mau found some evidence of aqueduct water. There was a masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) (l. medius, 5.30 m; l. imus, 3.85 m; l. summus, 2.70 m) with a circular table (dia. of support, 0.70 m) built against the west wall. Inside of each couch there were four niches (0.19 m wide). The last niche in the south couch was larger in size and separated from the other three by the mouth of the [cistern](http://vocab.getty.edu/page/aat/300052558). There was a small masonry podium on the north wall with steps for access. A round tufa altar was located opposite the *lectus summus*.
 
 
-### Bibliography
+## Bibliography
 
 * Fiorelli, G. 1875. *Descrizione di Pompei*, p. 70-1 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)    
 * GiornSc, n.s., 1874-1877, col.60  
@@ -65,20 +65,20 @@ At the rear of the house there was a [peristyle](http://vocab.getty.edu/page/aat
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-###  Excavation Dates
+##  Excavation Dates
 Excavated 1873.
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->

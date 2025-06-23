@@ -27,7 +27,7 @@ tag:
 [Africa Proconsularis]({{<relref "..">}}) \
 [Africa proconsularis](https://pleiades.stoa.org/places/991341)
 
-### Province Description
+## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
@@ -35,7 +35,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 [Neapolis]({{<relref ".">}}) \
 [Neapolis](https://pleiades.stoa.org/places/315093)
 
-### Location Description
+## Location Description
 
 The city of Neapolis that bears a Greek name meaning the “new city,” is located on the south coast of Cap Bon at 60 km from Carthage. The municipal history of the city is not well known. Scholars disagree as to the foundation date of the colony some think it became *colonia Iulia* with Cesar and others think that it was elevated to the rank of colony by Augustus.
 
@@ -56,7 +56,7 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 House of the Nymphs (Maison des Nymphes)
 
-### Keywords
+## Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
@@ -67,26 +67,26 @@ House of the Nymphs (Maison des Nymphes)
 - [inscriptions](http://vocab.getty.edu/page/aat/300028702)
 - [Virgil](#)
 
-### Garden Description
+## Garden Description
  This large house (1500m²) laid-out around a peristyle-garden is known for its mosaic pavements figuring Homeric scenes. The peristyle is entered from the S. The N wing had a vast *oecus-triclinium* bordered on both sides by two apartments that each had two rooms and a passage to a pseudo-atrium (Plan view, Fig.1).
 
  The peristyle was trapezoidal in shape (8.29 x 9 x 16. 15 m) and was bordered by 12 columns. Four porticos, 5m wide, enclosed the garden. The semicircular pool facing the *oecus-triclinium*, that projected into the garden was paved with a mosaic depicting a mask of Ocean among fishes and had an inscription “NYMFARUM DOMUS” quoting a passage from Virgil’s Aeneid. According to the excavator, J.-P. Darmon, a row of broken amphoras that had served as planting pots were found along the central axis of the garden facing the *oecus* and the basin (Fig.2)
 
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 {{< image src="afr_nea_hn_amalekfig2.jpg" alt="Plan of the House of the Nymphs at Neapolis; rights statement" title="Fig.1: Plan of the House of the Nymphs. (Darmon, J.P., 1980, p. 9, pp. 85-6 et p. 146.)" >}}
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 {{< image src="afr_nea_hn_amalekphotofig2.jpg" alt="Photographic view of the gardenat Neapolis; rights statement" title="Fig.2: Photographic view of the garden. (?)" >}}
 
@@ -94,10 +94,10 @@ House of the Nymphs (Maison des Nymphes)
 
 {{< image src="detail_of_the_basin.jpg" alt="Detail of the pool with inscription; rights statement" title="Fig.4: Detail of the basin with the inscription Nymfarum Domus. (Malek, A.-A., 2018, fig. 12.11B)" >}}
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 179-182. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 * Darmon, J.P., *Nymfarum domus, Les pavements de la maison des Nymphes à Néapolis (Nabeul, Tunisie) et leur lecture*, Leiden, 1980, p. 9, pp. 85-6 et p. 146. [(worldcat)](http://www.worldcat.org/oclc/797872994)
 * Malek, A.-A., "Entre jardin et mosaïque: La verticalité et le merveilleux dans la vie quotidienne", in *La Maison Gréco-romaine IX*, Collection de l'Ecole Française de Rome n°352, Rome, 2005, p. 1335-1346. [(worldcat)](http://www.worldcat.org/oclc/109642973)
@@ -109,17 +109,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Neapolis](https://pleiades.stoa.org/places/315093)
 
-#### TGN ID
+## TGN ID
 [Nabeul (inhabited place)](http://vocab.getty.edu/page/tgn/1094981)
 
-### Contributor
+## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

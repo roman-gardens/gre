@@ -29,7 +29,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 [Macchaerus]({{<relref ".">}}) \
 [Macchaerus](https://pleiades.stoa.org/places/687917)
 
-### Location Description
+## Location Description
 
 Josephus describes the citadel of Machaerus in detail (JB VII, 6) as the location where John the Baptist was imprisoned and executed by Herod Antipas.  The German explorer, Ulrich Jasper Seetzen located it for publication in 1807.  The site lies east of the Dead Sea in Transjordan.  Excavations were conducted by Vardaman in June 1968, by Corbo and Piccirillo in 1978-1981 and 1992-1993.  In 2008, the Hungarian Academy of Arts resumed work.
 
@@ -44,7 +44,7 @@ Josephus describes the citadel of Machaerus in detail (JB VII, 6) as the locatio
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 
 
-### Sublocation Description
+## Sublocation Description
 
 The third palace built by Herod in the late first century B.C. merits special mention with regard to the integration of water, gardens and landscape. This palace was sited along a straight section of Wadi Qelt to take advantage of its season flow of water each winter.  This area was, however, lower than those on which the first and second palaces had been built, offering a more limited view of the surroundings.  This shortcoming was offset by the erection of a viewing pavilion on top of an artificial tel.  The overall building complex was rectilinear, with Wadi Qelt cutting through the center, and a bridge spanning the two halves.  On the north side lay a complex of banqueting rooms, Roman style baths, reception rooms, peristyle courtyards and colonnaded walks.   On the south lay a great sunken garden, the artificial tel and pavilion, and, off-axis, a shallow boating pool. (Fig. 6) The garden features are discussed individually below.-->
 
@@ -52,12 +52,12 @@ The third palace built by Herod in the late first century B.C. merits special me
 
 Royal Garden
 
-### Keywords
+## Keywords
 
 - [pleasure garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=4&subjectid=300008115)
 - [walled garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=5&subjectid=300008129)
 
-### Garden Description
+## Garden Description
 
 During the architectural survey in 2010, the team excavated a 4 x 2m trench to the west of the storerooms and east of the bath quarter.  Working to a depth of 2m, the archaeologists encountered one meter of homogenous soil over the artificial stone terrace.  The only artifact found was a Herodian lamp.  The soil was sealed off from the terrace by a layer of hydraulic mortar.  After thorough examination of the stratigraphic section we were able to establish that the southern courtyard of the Herodian places was filled with soil, creating a place for a royal garden.  It is the only possible location for a garden within the walls of the citadel, and thus corresponds with description by Josephus.
 "Now within this place [inside Machaerus] there grew a sort of rue [Ruta] that deserves our wonder on account of its largeness, for it was no way inferior to any fig tree whatsoever, either in height or in thickness; and the report is, that it had lasted ever since the times of Herod, and would probably have lasted much longer, had it not been cut down by those Jews who took possession of the place afterward." (Josephus, War VII 6, 3)
@@ -66,26 +66,26 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 
 <!--
-### Maps
+## Maps
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}-->
 
 
-### Plans
+## Plans
 
 {{< image src="ASIA_JUD_MACCHAREUS_1.jpg" alt="Figure 1: Plan of the Herodian places at Macchaerus, the excavated garden is marked with a green rectangle (Vörös, 2013)." title="Figure 1: Plan of the Herodian places at Macchaerus, the excavated garden is marked with a green rectangle (Vörös, 2013)." >}}
 
 
-### Images
+## Images
 {{< image src="ASIA_JUD_MACCHAREUS_2.jpg" alt="Figure 2: Section drawing of the research trench in the Southern Courtyard (Vörös, 2013)." title="Figure 2:Section drawing of the research trench in the Southern Courtyard (Vörös, 2013)." >}}
 
 {{< image src="ASIA_JUD_MACCHAREUS.jpg" alt="Figure 3: Cutaway bird’s eye view of the Herodian fortified royal palace from the south. This theoretical reconstruction is superimposed on an aerial photograph by David Kennedy.." title="Figure 3:Cutaway bird’s eye view of the Herodian fortified royal palace from the south. This theoretical reconstruction is superimposed on an aerial photograph by David Kennedy." >}}
 
 <!--
-### Dates
+## Dates
 
 31 BCE - 4 BCE -->
 
-### Bibliography
+## Bibliography
 
 * Vörös, G, “Machaerus:  Excavations and Surveys (2009-2013)” SHAJ XII, 529-542. http://publication.doa.gov.jo/uploads/publications/15/SHAJ%20XII-529-542.pdf (see model on p. 539 fig. 11); Vörös, Gy. 2013. MACHAERUS I: History, Archaeology and Architecture of the Fortified Herodian Royal Palace and City Overlooking the Dead Sea in Transjordan. Final Report of the Excavations and Surveys: 1807-2012. Milano: Edizioni Terra Santa, SBF Collectio Maior 53.
 
@@ -103,7 +103,7 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Jericho](https://pleiades.stoa.org/places/687917)
 
@@ -111,12 +111,12 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 [#](#)-->
 
-### Contributor
+## Contributor
 
 [Győző Vörös](http://worldcat.org/identities/lccn-no98121290/)
 
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

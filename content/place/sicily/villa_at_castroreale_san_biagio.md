@@ -52,34 +52,34 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Villa at Castroreale San Biagio
 
-### Keywords
+## Keywords
 - [ ] (https)
 <!-- [urban villas](#) -->
 
 
-### Garden Description
+## Garden Description
 
 There is a rectangular fountain basin set at the south end of the peristyle facing the triclinium, probably of the second century A. D. (Figs 8 and 9).
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 <!--{{< image src="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
 
-### Images
+## Images
 
 {{< image src="figure8.png" alt="Fig. 8  Castroreale San Biagio, plan of Roman villa" title="Fig. 8  Castroreale San Biagio, plan of Roman villa" >}}
 
 
-### Dates
+## Dates
 
 
-### Bibliography
+## Bibliography
 
 R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 199–203, with figs 165.3 and 166 (202 for the garden).[(worldcat)](http://www.worldcat.org/oclc/608028740)
 
@@ -87,17 +87,17 @@ R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 199–203,
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Zancle/Messana](https://pleiades.stoa.org/places/462538)
 
-#### TGN ID
+## TGN ID
 
 
-### Contributor
+## Contributor
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

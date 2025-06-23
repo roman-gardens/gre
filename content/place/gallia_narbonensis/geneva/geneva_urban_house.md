@@ -13,7 +13,7 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
 [Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
@@ -27,7 +27,7 @@ categories:
 [Genava, ((Geneva, France)]({{<relref ".">}}) \
 [Genava](https://pleiades.stoa.org/places/177528)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -42,48 +42,48 @@ The Roman town, located at the western end of Lake Geneva at the confluence of t
 Urban House
 
 <!-- ### Keywords -->
-### Keywords
+## Keywords
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
 
-### Garden Description
+## Garden Description
 
 This badly preserved building situated on the Plateau des Tranchées was on a terraced slope overlooking Lake Geneva (Lacus Lemanus). Originally built between 20 and 40 A.D., and occupied until 180, the house had a central *peristyle courtyard* measuring 7.80 x 22 m. in size.
 Below the *peristyle* was a *terrace* where excavations uncovered a deposit 15 cm. thick of organically enriched soil. This evidence suggested to the excavators that the *terrace* was planted as a garden. Due to subsidence and shifting of masonry walls, the house was rebuilt between 50 and 70 without a *peristyle courtyard* or a *garden terrace*.
 
 <!-- text is from draft file -->
 
-### Plans
+## Plans
 
 None Available
 
 
 
-### Images
+## Images
 
 None Available
 
-### Dates
+## Dates
 
 
-### Bibliography
+## Bibliography
 
 - M.-A. Haldimann, E. Ramjoué, and C. Simon, “Les fouilles de la cour de l’ancienne prison de Saint-Antoine,” Archäologie der Schweiz 14, 1991:194-204. [(worldcat)](http://www.worldcat.org/oclc/891753412)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Genava](https://pleiades.stoa.org/places/177528)
 
-### Contributor
+## Contributor
 
 [AUTHOR_ID](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

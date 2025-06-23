@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
 [Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -28,7 +28,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [saint-roman-en-gal]({{<relref ".">}}) \
 [saint-roman-en-gal (Pleiades)]()
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -48,14 +48,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 House of the Fishpond
 
 
-### Keywords
+## Keywords
 
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 
 
 
 
-### Garden Description
+## Garden Description
 
 In the course of the second century, some two meters of fill was added to the garden to bring it up to the same level as the rest of the house. The use of the space was completely inverted. Rooms were built on the filled-in garden, and the former house was torn down to become a garden. This new house continued to occupy the whole insula. No plan is available for this house, but the new eastern part would be practically completely preserved in the next house. To the east now extended the new garden, which may possibly have preserved three branches of the channel-pool of the earlier house.
 
@@ -71,7 +71,7 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 
 {{< image src="House of the Fishpond.png" alt="ALT_TEXT" title="house of the fishpond" >}}
@@ -88,11 +88,11 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 
 
-### Bibliography
+## Bibliography
 
 1. *Maison 1996*, t. II,, p. 406-411
 
@@ -104,21 +104,21 @@ NEW WAY ↓↓↓↓
 
 6. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig.194.[worldcat](http://www.worldcat.org/oclc/43416334)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Saint-Romain-en-Gal (inhabited place)](http://vocab.getty.edu/page/tgn/5004109)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

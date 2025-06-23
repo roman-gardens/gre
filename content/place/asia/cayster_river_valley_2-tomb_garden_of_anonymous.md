@@ -54,7 +54,7 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Tomb Garden (peribolion) of an Anonymous
 
-### Keywords
+## Keywords
 - inscription
 - crematory
 - [periboloi](http://vocab.getty.edu/page/aat/300005069)
@@ -62,32 +62,32 @@ Tomb Garden (peribolion) of an Anonymous
 - tomb monument
 
 
-### Garden Description
+## Garden Description
 A broken inscription found near Thyaira in 1901 records the second part of a funerary dedication in which the dedicant prescribes who can be buried in his monument and forbids anyone “to sell this tomb or the garden (peribÒlion) in front of it with the crematory in it oÈk §j°stai d¢ oÈden[‹] pvl∞sai toËto tÚ ≤r“on oÈd¢ tÚ prÚ aÈtoË peribÒlion §n ⁄ §stin ≤kaÊstra)”. The prohibition against alienation suggests that *peribÒlion* here, like *peribÒlow* at Attaleia and Hypaipa in Lydia and often elsewhere, refers metonymically to a garden enclosed within the wall rather than simply to the wall itself. The crematory (≤kaÊstra)—a feature seldom mentioned in funerary inscriptions in Asia Minor—suggests a Roman style tomb garden, with *ustrina*	and tomb monument enclosed within the same perimeter wall, as often around Rome and on the Bay of Naples.
 
 <!--
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 <!--
-### Plans
+## Plans
 {{< image src="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" alt="Plan of villa rustica at Blackenheim-Hülchrath; rights statement" title="Plan of the excavations at Aphrodisias">}}
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 <!--
-### Images
+## Images
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 1901 CE
 
-### Bibliography
+## Bibliography
 - Frontrier, *REA* 4, 1902:263, no. 12 [(Persée)](www.persee.fr/doc/rea_0035-2004_1902_num_4_4_1284)
 - R. Cagnat et al, *Inscriptiones Graecae ad res Romanas pertinentes*. Paris, 1906-1927, IV, 1605 [(worldcat)](http://www.worldcat.org/oclc/256313198)
 - J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, pp. 66, 144. [(worldcat)](http://www.worldcat.org/oclc/164233326)
@@ -96,17 +96,17 @@ A broken inscription found near Thyaira in 1901 records the second part of a fun
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Thyaira](https://pleiades.stoa.org/places/599981)
 
-#### TGN ID
+## TGN ID
 [Caria (former nation/state/empire)](http://vocab.getty.edu/page/tgn/7002358)
 
-### Contributor
+## Contributor
 [John Bodel](link) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

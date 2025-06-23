@@ -13,11 +13,11 @@ categories:
  - "Achaea"
 ---
 
-### Province
+## Province
 
 [Achaea]({{<relref "..">}})
 
-### Province Description
+## Province Description
 
 Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
 The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woollen textiles and marbles.
@@ -45,7 +45,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Victory Monument of Augustus
 
-### Keywords
+## Keywords
 
 - [Literary](#)
 - [Archaeological](#)
@@ -56,7 +56,7 @@ Victory Monument of Augustus
 - [Strabo](#)
 - [trophies (war monuments)](http://vocab.getty.edu/page/aat/300007038)
 
-### Garden Description
+## Garden Description
 
 The *tropaeum* of Nicopolis, a monument celebrating the naval victory of Octavian over the joint forces of Anthony and Cleopatra at Actium, is situated on the so-called Sacred Hill of Apollo north of the ancient city. On this hill, according to ancient sources, Octavian camped during the crucial days before the battle on August 29, 31 BCE (Dio Cassius [51.1.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0385.tlg001.perseus-grc1:51.1.3); Suetonius 18.2, 96.2; Plutarch, *Antonius* 65.3; Philip of Salonica, *Anthologia Palatina* 6.236).
 
@@ -79,19 +79,19 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="eur_ach_nicopolis_fig1_plan.jpg" alt="plan of the monument of Augustus" title="Fig. 1: State plan of the monument.  Courtesy of K. L. Zachos." >}}
 
-### Images
+## Images
 
 {{< image src="eur_ach_nicopolis_fig2_pots.jpg" alt="clay planting pots" title="Fig. 2: Clay planting pots. Photo courtesy of K. L. Zachos." >}}
 
-### Dates
+## Dates
 
 last quarter of the 1st century BCE and later
 
-### Bibliography
+## Bibliography
 
 * W. M. Murray and Ph. M. Petsas, “Octavian’s campsite memorial for the Actian War,” *Trans. Am. Phil Soc.* 79, 1989: 4. [(worldcat)](http://www.worldcat.org/oclc/892239073).
 * K. L. Zachos, *Το Μνημείο του Οκταβιανού Αυγούστου στη Νικόπολη: Το Τρόπαιο της Ναυμαχίας του Ακτίου.* Athens 2001. [(worldcat)](http://www.worldcat.org/oclc/257369178).
@@ -107,17 +107,17 @@ last quarter of the 1st century BCE and later
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Nicopolis](https://pleiades.stoa.org/places/531013)
 
-#### TGN ID
+## TGN ID
 
 [Nicopolis (deserted settlement)](http://vocab.getty.edu/page/tgn/7011016)
 
-### Contributor
+## Contributor
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

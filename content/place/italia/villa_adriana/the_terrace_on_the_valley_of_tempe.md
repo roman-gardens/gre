@@ -26,7 +26,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -38,29 +38,29 @@ The realization of this magnificent residence must have been a cherished dream o
 
 The terrace on the valley of Tempe (Fig. 1, n. 10)
 
-### Keywords
+## Keywords
 
 - [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
 
-### Garden Description
+## Garden Description
 
 This terrace offers a splendid view of Tivoli and its mountains (Fig. 30). The concentration of lead in its soil shows that it was kept as a cultivated area (SALZA PRINA RICOTTI 1994-95, fig. 7). Today we don't have enough elements to understand its landscaping, but we must consider that the terrace is set between two very important garden features of Villa Adriana. On the northern side it is flanked by the enchanting, open air pavilion now called the “Belvedere of the Venus of Cnidus” (Fig. 1, 11) while, on the opposite side of the plateau, another imposing *nymphaeum*, the so-called “Stallone”, concludes the esplanade overlooking the Valley of Tempe. At the back of this terrace a big sustaining wall reinforced by impressive arches ran along the West side, and this embankment was concluded by another more modest *nymphaeum*, set in front of the Venus of Cnidus' Belvedere. It was decorated by a series of niches which, before the ruin of Villa Adriana, might have contained some decorative elements, giving this garden its final touch. Today the niches have been disfigured opening , in each of them, windows of different shapes the ones from the others.
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
 {{< image src="30_tempe's_terrace.jpg" alt="Plan of the Terrace on the valley of Tempe at Hadrian's Villa" title="Fig. 30: Plan of the Terrace on the valey of Tempe, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -80,21 +80,21 @@ unspecified
 <!-- Bibliography for Garden Description -->
 * E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67 (1994-95), pp. 69-85, fig. 7. [(worldcat)](http://www.worldcat.org/oclc/1006002216) <!-- link to specific issue needed -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

@@ -27,48 +27,48 @@ categories:
 
 ## Sublocation
 
-### Sublocation Description
+## Sublocation Description
 
 ## Garden
 
 Tomb Garden of Q(uintius) Medicus
 
-### Keywords
+## Keywords
 
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 
-### Garden Description
+## Garden Description
 An opisthographic marble slab found reused for a Christian tomb (ICUR 8842) in the catacombs of S. Cyriaca on the Via Tiburtina records the epitaph of an imperial freedman, Q(uintius) Medicus, who some time during the first or second century built a tomb garden (cepotafiu(m)) for himself and granted possession of it to his daughter, Quinta Vitalis.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
-### Images
+## Images
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian, BCom 92 (1987-88) [1989] 182 n. 48. [worldcat](https://www.worldcat.org/title/horti-sepulchrales-e-cepotaphia-nelle-iscrizioni-urbane/oclc/886794800&referer=brief_results)
 
 <!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Via Tiburtina](https://pleiades.stoa.org/places/272213281)
 
-#### TGN ID
+## TGN ID
 
-### Contributor
+## Contributor
 
-### Publication date
+## Publication date
 
 <!--### Related articles-->
 

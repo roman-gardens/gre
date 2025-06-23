@@ -26,7 +26,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -34,31 +34,31 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula VIII]({{<relref ".">}})
 
-### Keywords
+## Keywords
  - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300142552)
 
-### Garden Description
+## Garden Description
 A. A very small bath was located at the left rear of the atrium in this unusual building.  Behind this was a tiny garden (a) with three small triclinia on either side. The couches of these six triclinia were so low and narrow they must have been used as seats similar to the taberna attached to the house of Julia Felix, II.iv.7.
 
-### Plans
+## Plans
 {{< image src="../../fig._62,_plan_of_region_ii,_insula_viii.png" alt="Fig. 62, Plan of Region II, insula viii" title="Fig. 62, Plan of Region II, insula viii" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 * Jashemski, *Gardens*, vol.II, p.94 [(worldcat)](http://www.worldcat.org/oclc/921816405)
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

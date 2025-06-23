@@ -48,13 +48,13 @@ tags:
 
 Tomb garden of T. Vettius Hermes
 
-### Keywords
+## Keywords
 
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 - [epitaphs](http://vocab.getty.edu/page/aat/300028729)
 - [stelae](http://vocab.getty.edu/page/aat/300007023)
 
-### Garden Description
+## Garden Description
 
 A marble stele now in a church at Grazzano records the epitaph of T. Vettius Hermes, a freedman ointment dealer (seplasiarius). After a gnomic sentiment about chthonic birthand reunion (mater genuit materq(ue) recepiit), Hermes goes on to declare that “these gardens, as great and excellent as they are, (will) serve my ashes, for I shall appoint caretakers to dine on the proceeds from them on my birthday and on the day of roses, in perpetuity” (hi horti ita uti o(ptimi) m(aximi)/que sunt cineribus seruite(!) meis nam curatores substituam uti uescantur ex horum hortorum reditu natale meo et per rosam in perpetuo).
 
@@ -72,15 +72,15 @@ NEW WAY ↓↓↓↓
 <!--### Images-->
 
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * CIL5.7454, cf. p. 7454
 * ILS8342
@@ -90,19 +90,19 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Vardagate](https://pleiades.stoa.org/places/383809)
 
-#### TGN ID
+## TGN ID
 
 unspecified
 
-### Contributor
+## Contributor
 
 Sean Gillies (https://pleiades.stoa.org/author/sgillies)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

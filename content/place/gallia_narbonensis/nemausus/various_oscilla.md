@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
 [Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [nemausus]({{<relref ".">}}) \
 [nemausus](https://pleiades.stoa.org/places/148142)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -47,12 +47,12 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 
 
-### Keywords
+## Keywords
 
 - oscilla
 
 
-### Element Description
+## Element Description
 
 These were discovered out of context or the location of the find is not known:
 
@@ -64,32 +64,32 @@ These were discovered out of context or the location of the find is not known:
 
 
 
-### Plans
+## Plans
 
 
 
-### Dates
+## Dates
 
 
 
-### Bibliography
+## Bibliography
 1. J.L. Fiches, A. Veyrac, *Nîmes*, CAG, 30/1, 1996, P. 350, P. 512.
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Nîmes (inhabited place)](http://vocab.getty.edu/page/tgn/7008371)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

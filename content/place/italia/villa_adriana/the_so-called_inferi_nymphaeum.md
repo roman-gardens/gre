@@ -27,7 +27,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -39,12 +39,12 @@ The realization of this magnificent residence must have been a cherished dream o
 
 The so-called *Inferi Nymphaeum* (Fig. 1, n. 23)
 
-### Keywords
+## Keywords
 
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 
-### Garden Description
+## Garden Description
 
 The so-called *Inferi* (Figg. 68 and 69) is a garden arrangement placed a little South of the tomb and closely connected with the building called the “Temple of Pluto” set just East of it. This peculiar landscaping arrangement was created excavating a narrow artificial valley in the slopes of the grounds that here are climbing up towards the Santo Stefano Hill, while the *Inferi*’s garden went down to rejoin the same level of the underground carriages' road, which, as a modern subway, connected all the buildings of Villa Adriana (MACDONALD, PINTO 1995, pp. 143-145; SALZA PRINA RICOTTI 1998, pp. 390-395, figs. 18-19; SALZA PRINA RICOTTI 2000, pp. 303-305, figs. 25, 138). The small vale, 128 m long and 17 m wide, terminated, at its southern extremity, in a dark grotto 5.10 m wide and 7.20 m deep (Fig. 68, P). At the end of the small cave a narrow cleaving (Fig. 68, A) not even 40-30 cm large and diminishing all the time, is all that is left of an ancient fountain (Fig.70). At Contini's time the grotto must have been nearly filled by soil and so it still was in the XIX century as we can see in a Penna drawing (Fig. 71), However Contini could have seen only the top of the Inferi. This can explain why the Roman 17nth century architect traced an inexistent gallery connecting the small *nymphaeum* with the trapezoidal system of large galleries which served as parking place and stables to the Great Underground Carriage Road. Contini, impressed by Aelius Spartianus' assertion “*etiam Inferos finxit*” (*Hist. Aug., Hadr.* 26.5), believed that all the gigantic underground parts of this area were a representation of the afterlife. Thus he supposed that a gallery must have connected with this *antrum* - which he thought to be the entrance of the reign of Pluto - with the Great Trapeze.
 
@@ -60,7 +60,7 @@ Romans, as we know, never did anything unnecessary just for symmetry's sake. Had
 
 Coming back to the small cave, this grotto is surely what Aelius Spartianus called *Inferi* when he wrote “*etiam Inferos finxit*”. The tight connection of it with the mysterious building known with different names - Elysian Fields (Ligorio), Serapis Temple (Piranesi), Pluto's Temple (Penna) - when compared in the same scale with the *Telesterion* and the nearby *Plutonium* of Eleusis (Fig. 67) might suggest that this creation was contrived by Hadrian as a memento of the Eleusinian mysteries to which, he had been initiated, and in which he also reached the highest degree.
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
@@ -70,21 +70,21 @@ Coming back to the small cave, this grotto is surely what Aelius Spartianus call
 
 {{< image src="69_inferi_nymphaeum.jpg" alt="Isometric plan of the Inferi Nymphaeum at Hadrian's Villa" title="Fig. 69: Isometry of the Inferi Nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
-### Images
+## Images
 
 {{< image src="70_small_grotto.jpg" alt="Photograph of the small grotto of the Inferi Nymphaeum at Villa Adriana" title="Fig. 70: The small grotto of the Inferi Nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
 {{< image src="71_inferi_by_penna.jpg" alt="Drawing of the Inferi Nymphaeum at Villa Adriana, by A. Penna" title="Fig. 71: Early nineteenth-century drawing of the Inferi Nymphaeum, by A. Penna, courtesy of Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -106,21 +106,21 @@ unspecified
 * E. Salza Prina Ricotti, “Adriano: architettura del verde e dell'acqua”, in *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, pp. 390-395, figs. 18-19. [(worldcat)](http://www.worldcat.org/oclc/636808013)
 * E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 303-305, figs. 25, 138. [(worldcat)](http://www.worldcat.org/oclc/46784026)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

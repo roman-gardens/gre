@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
 [Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [forum_julii]({{<relref ".">}}) \
 [forum_julii](https://pleiades.stoa.org/places/307416064)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -47,7 +47,7 @@ Edifice of the Platform
 
 
 
-### Keywords
+## Keywords
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
@@ -56,7 +56,7 @@ Edifice of the Platform
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 
-### House Description
+## House Description
 
 This construction is situated in the southeast corner of Network B of the town plan, near the port. The parcel has a surface 8,422 square meters with 6,860 for the habitation properly speaking and a covered useful surface of 3390 square meters.  The present construction goes back to the end of the first century B.C., between 30 and 10 B.C., but there was an anterior condition. The edifice was lavishly decorated and underwent multiple rearrangements in second century and then again in late antiquity.  
 
@@ -65,17 +65,17 @@ At the north, a large vestibule gives access to a vast courtyard with a peristyl
 
 
 
-### Plans
+## Plans
 
 
 {{< image src="edifice_of_the_platform.png" alt="Plan of Edifice of the Platform" title="Edifice of the platform" >}}
 
 
-### Dates
+## Dates
 
 
 
-### Bibliography
+## Bibliography
 
 1. Bouet, Alain. La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise. Vaucluse: Service d'Archéologie du Conseil Général de Vaucluse, 1996, P. 94-96, fiche n°2, P. 104-105 [(worldcat)](http://www.worldcat.org/oclc/919659882)
 
@@ -83,21 +83,21 @@ At the north, a large vestibule gives access to a vast courtyard with a peristyl
 
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Fréjus (inhabited place)](http://vocab.getty.edu/page/tgn/7008791)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

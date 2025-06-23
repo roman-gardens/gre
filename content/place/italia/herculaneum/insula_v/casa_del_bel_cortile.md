@@ -26,7 +26,7 @@ categories:
  [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 
-### Location Description
+## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
@@ -38,11 +38,11 @@ V
 ## Garden
 Casa del bel Cortile
 
-### Keywords
+## Keywords
 None
 
 
-### Garden Description
+## Garden Description
 Appendix II. 110.V.8.
 The illusion of a gardentrellis was created in this house withno garden by painting the archway under a flight of stairs in the courtyard with climbing vines and flowering oleanders
 <!--### Maps-->
@@ -56,34 +56,34 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 {{< image src="H_3_3-17.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
 
 {{< image src="H_3_1-2_18-19.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
 
 
-### Images
+## Images
 
 {{< image src="Herc. III.19-18,1-2   17.2.78.jpg" alt="Illustration of Casa dell’Ara Laterizia" title="Illustration of Casa dell’Ara Laterizia" >}}
 
 {{< image src="Herc.III.19-18,1-2   17.3.78.jpg" alt="Illustration of Casa dell’Ara Laterizia" title="Illustration of Casa dell’Ara Laterizia" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-#### TGN ID
+## TGN ID
 [Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 - Maiuri,Herculaneum,p. 46
 - Idem, Ercolano,p. 338
 
@@ -91,11 +91,11 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
-### Publication date
+## Publication date
 
 
 

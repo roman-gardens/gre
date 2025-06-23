@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
 [Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [arausio]({{<relref ".">}}) \
 [arausio](https://pleiades.stoa.org/places/148054)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -47,7 +47,7 @@ Suburban Villa de la  Brunette
 
 
 
-### Keywords
+## Keywords
 
 - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [atrium houses](http://vocab.getty.edu/page/aat/300005451)
@@ -59,12 +59,12 @@ Suburban Villa de la  Brunette
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 
 
-### House Description
+## House Description
 
 To the west of Orange, this residence is just south of the amphitheater – which was destroyed in the eighteenth century.   More than 2000 square meters have been unearthed.  It is bounded on the south by a fencing wall 150 meters long and on the north by road that separates the house from the amphitheater.  The east and west boundaries are not known.  Constructed in the first century A.D. (condition 1), the habitation was greatly remodeled and embellished towards the end of the second century (condition 2) only to be abandoned in the first half of the third century.
 
 
-### Garden Description
+## Garden Description
 
 Condition 1: The central building is organized around an *atrium* which opens to the east on the garden through a 2.9-meter wide portico [3].  This portico extends all along the east side of the building and forms a transition between the rooms of the house and the garden.  On the north, it opens onto the rooms [4] to [7].  Room [7] is the most spacious of the residential part.  The garden [30] unfolds to the east of the villa. Its full surface is unknown, since its limits to the north and to the east are unknown.  The form of the plantings has not been ascertained. In the garden, 15 meters from the portico [3], was a rectangular pool [31] 13.35 meters long, more than 3.5 meters wide (to the limit of the excavation) and more than a meter deep.  It is covered with a layer of tile with waterproofing strips in the corners.  Around the pool, the ground was covered with pebbles.
 
@@ -78,7 +78,7 @@ At the heart of the garden, the rectangular pool [47] of the first condition was
 
 
 
-### Plans
+## Plans
 
 
 {{< image src="suburban_villa_de_la_brunette_1.png" alt="Fig. 1 Plan of Suburban Villa de la Brunette" title="Fig. 1 Plan of Suburban Villa de la Brunette" >}}
@@ -86,33 +86,33 @@ At the heart of the garden, the rectangular pool [47] of the first condition was
 {{< image src="suburban_villa_de_la_brunette_2.png" alt="Fig. 2 Plan of Suburban Villa de la Brunette" title="Fig. 2 Plan of Suburban Villa de la Brunette" >}}
 
 
-### Dates
+## Dates
 A.D. 1-100 constructed
 
 
 
 
 
-### Bibliography
+## Bibliography
 
 1.  J.-M. Mignon, I. Doray,  V. Faure, A. Bouet, *La  Brunette*  à  Orange  premier  établissement  antique    périurbain  (Vaucluse),  in  R.A.N.,  30,  1997,  P.173-202.
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Vaucluse (inhabited place)](http://vocab.getty.edu/page/tgn/7599818)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

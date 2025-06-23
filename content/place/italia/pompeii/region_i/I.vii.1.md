@@ -33,7 +33,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -41,7 +41,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula VII]({{<relref "#">}})
 
-### Keywords
+## Keywords
 
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
@@ -57,7 +57,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 House of P. Paquius Proculus; House of C. Cuspius Pansa.
 
-### Garden Description
+## Garden Description
 
 This elegant house was excavated in 1923. To the rear was a large and sunny [peristyl](http://vocab.getty.edu/page/aat/300004029) garden with a [portico](http://vocab.getty.edu/page/aat/300004145) on four sides supported by sixteen [columns](http://vocab.getty.edu/page/aat/300001571). At the northeast corner stood a lava puteal with a [gutter](http://vocab.getty.edu/page/aat/300052565) that ran around the edges of the garden. In the center of the garden a wooden [triclinium](http://vocab.getty.edu/page/aat/300004359) was shaded by a [pergolas](http://vocab.getty.edu/page/aat/300006783) supported by four columns. The nails and the imprint of the wooden structure of the [triclinium](http://vocab.getty.edu/page/aat/300004359) were clearly preserved. A marble faced rectangular [pool](http://vocab.getty.edu/page/aat/300375619), with an apse-shaped extension to the north and a [fountain](http://vocab.getty.edu/page/aat/300006179) jet, was located in front of the [triclinium](http://vocab.getty.edu/page/aat/300004359). This [pool](http://vocab.getty.edu/page/aat/300375619) was connected to a smaller marble basin between the couches of the [triclinium](http://vocab.getty.edu/page/aat/300004359). An excellent view of the garden was afforded from the large salon at the rear of the [tablinum](http://vocab.getty.edu/page/aat/300004180) with two [columns](http://vocab.getty.edu/page/aat/300001571) at the entrance of the [portico](http://vocab.getty.edu/page/aat/300004145). The [oecus](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300080791) also opened on the north [portico](http://vocab.getty.edu/page/aat/300004145) with a fine view of the garden and the loggia above had a view of the garden as well as views to the sea and the Lattari Mountains.
 
@@ -80,10 +80,10 @@ NEW WAY ↓↓↓↓
 
 <!--### Images-->
 
-### Dates
+## Dates
 Excavated 1912, 1915, 1926 and 1936.
 
-### Bibliography
+## Bibliography
 
 * Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, pp. 92. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)  
 * Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, pp. 37.  [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)   
@@ -99,19 +99,19 @@ Excavated 1912, 1915, 1926 and 1936.
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

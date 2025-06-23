@@ -24,7 +24,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 [Caesarea]({{<relref ".">}}) \
 [Iol Caesarea](https://pleiades.stoa.org/places/295279)
 
-### Location Description
+## Location Description
 
 A prestigious city on the southwestern shore of the Mediterranean Sea, Caesarea is located approximately 100 km west of Algiers. Situated on the border of an upland plain dominating the sea and bordered on the west and east by the mountains of the Chenoua and of the Cape Ténès, respectively, the city was one of the ports that the Carthaginians established on the coast of the Maghreb.
 
@@ -42,13 +42,13 @@ The city has been continually occupied to the present day, now known as Cherchel
 
 House of Iustiniani and Sabini (Maison de Kaid Youcef)
 
-### Keywords
+## Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [semicircular basin](#)
 
 
-### Garden Description
+## Garden Description
 
 The only house for which it is possible to furnish a complete plan is located to the south of the grand temple, from which it was separated by the *decumanus*. To the east and west side lie two houses, which have yet to be excavated. It is one of the largest *domus* discovered in *Caesarea*, covering over 2330 square meters. Surveys prove that the house dates back to the Augustan era.
 
@@ -56,37 +56,37 @@ This *domus*, containing both baths and small shops, is arranged around a rectan
 
 In the southwestern corner, a small room protrudes into the gallery and opens into both the northern gallery and a rear garden on the south. Along the western gallery, a small door opens up to this second garden that surrounded the large reception room. Opening through a tripartite entry into the peristyle garden, this room was decorated with a mosaic that bore the inscription FL(aui) IUSTIANI ET SABINI (I).
 
-### Plans
+## Plans
 
 {{< image src="house_of_iustiniani_and_sabini_fig_1.jpg" alt="Plan of the House of Iustiniani and Sabini. The house has an overall rectangular aspect, with the roughly square peristyle garden occupying the center. More details are included in the garden description section above." title="Fig. 1: Plan of the House of Iustiniani and Sabini (Leveau, Ph., 1982, pp.137,fig.21, Stawski E.)">}}
 
-### Images
+## Images
 
-### Dates
+## Dates
 
 1st century CE
 
-#### Excavation Dates
+## Excavation Dates
 
-### Bibliography
+## Bibliography
 
 *  Baghli, S. A.，Février, P.-A., "Travaux et recherches en 1966-1967", in *Bulletin d’archéologie algérienne*, t.2, p.1 and t.3, p.2-4. [(worldcat)](http://www.worldcat.org/oclc/491481018)
 * Ferdi S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p.149. [(worldcat)](http://www.worldcat.org/oclc/1006126274)
 * Lassus, J., "L'archéologie algérienne en 1959 et 1960", R. Af., 1961, p.441 and "La mosaïque de Thétis et Pélée", in *Bulletin d’archéologie algérienne*, t.1, 1962-1965, p.103. [(hathitrust)](https://catalog.hathitrust.org/Record/008568139)[(worldcat)](http://www.worldcat.org/oclc/491480973)
 * Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie", in *Antiquités africaines*, t.18, 1982, pp.136-38. [(worldcat)](http://www.worldcat.org/oclc/4797426670)
 
-#### Pleiades ID
+## Pleiades ID
 
 [278428164](https://pleiades.stoa.org/places/278428164)
 
-#### TGN ID
+## TGN ID
 
 
-### Contributor
+## Contributor
 
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
-### Publication date
+## Publication date
 
 <!--07 July 2020-->
 

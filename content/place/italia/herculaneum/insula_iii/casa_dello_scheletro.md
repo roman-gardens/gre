@@ -26,7 +26,7 @@ categories:
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 
-### Location Description
+## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
@@ -39,14 +39,14 @@ III
 Casa dello Scheletro
 
 
-### Keywords
+## Keywords
 
 - [aedicules](http://vocab.getty.edu/page/aat/300002574)
 - [tympana (wall components)](http://vocab.getty.edu/page/aat/300002736)
 - [pergolas](http://vocab.getty.edu/page/aat/300006783)
 - [amorino](#)
 
-### Garden Description
+## Garden Description
 The small light well of this house had once been occupied by a pool. By the time of the eruption it had been filled with soil and converted to a small garden (a). During this change an *aedicula* was built on a high podium against the back wall, decorated with mosaic and shells, and garden paintings were added to the light well walls. The walls on the east and south had panels framed on the top and sides with a wide red band and a smaller black one inside. The south wall had panels on both sides of the mosaic *aedicule*, and of all the panels, the left panel of the south wall was the best preserved, although the
 GARDENS OF THE ROMAN EMPIREITALIA2center third is missing. In this panel the lattice fence is evident and a *tympanumis* suspended form the center of the top. This panel also has traces of what could have been a trellised *pergola* just to the left of the *aedicula*. The garden in the background is filled with densely planted bushes and a bird is perched on a branch on either edge of the panel. A masonry base was uncovered in the pool which had at one time supported a fountain jet or statuette. The excavation was begun in 1830-1831, resumed in 1869-1871, and completed in 1927. The niche of the *aedecula* shrine was decorated with a cluster of acanthus leaves with a female face in the center. A small roof was set in the wall to protect the painting and above this was a marble relief of an *amorino* flying to the left carrying a filled money purse. An iron grate was built over the top of this light well to prevent intruders from gaining access from the neighbor’s roofs. To the north was an apsed room which gained light and air from this area.
 
@@ -61,26 +61,26 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 {{< image src="H_3_3-17.jpg" alt="Plan of Casa dello Scheletro" title="Plan of Casa dello Scheletro" >}}
 
 
 
-#### Pleiades ID
+## Pleiades ID
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-#### TGN ID
+## TGN ID
 [Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 1830-1831; 1869-1871; 1927
 
-### Bibliography
+## Bibliography
 
 - Jashemski, *Gardens*, vol.II, pp. 369-370 [(worldcat)](http://www.worldcat.org/oclc/1029851777)
 - Maiuri, *Herculaneum*, pp. 35-36 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
@@ -92,11 +92,11 @@ unspecified
 
 
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
-### Publication date
+## Publication date
 
 
 

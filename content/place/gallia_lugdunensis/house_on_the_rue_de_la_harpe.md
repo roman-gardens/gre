@@ -39,34 +39,34 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 House on the Place des Halles (La maison des Halles)
 
-### Keywords
+## Keywords
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [fountain](http://vocab.getty.edu/page/aat/300006179)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
-### Garden Description
+## Garden Description
 
 Excavations of a 1400 square meter site in 1989 at 45 rue de la Harpe partially uncovered five habitations of the southern quarter of the city. They were occupied between the first and third century until a final destruction around 275 – 280. Among them, one had a *peristyle* [1] of which three *porticos* are know; it was quite likely planted. The same house had another paved court with a *fountain* [2]. Further south, the corner of another *courtyard* with *porticos* (4 x 3 columns) was found.
 
-### Maps
+## Maps
 
 None Available
 
-### Plans
+## Plans
 {{< image src="rue_de_la_harpe.jpg" alt="Reconstructed axonometric plan of the Domus of the Rue de la Harpe. It shows rooms and bits of the garden space." title="Reconstruction of the four house spaces that make up House on the Rue de la Harpe." >}}
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 None Available
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - D. CLIQUET,  L’Eure,  27,  CAG p.136-137,  restitution  p.136. [(worldcat)](http://www.worldcat.org/oclc/715608474)
 
 
@@ -74,17 +74,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Mediolanum Aulercorum](https://pleiades.stoa.org/places/109153)
 
-#### TGN ID
+## TGN ID
 [Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
 
-### Contributor
+## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

@@ -39,7 +39,7 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Richebourg (Yvelines) villa de
 
-### Keywords
+## Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [trellises](http://vocab.getty.edu/page/aat/300006785)
 - [stylobates](http://vocab.getty.edu/page/aat/300000986)
@@ -49,7 +49,7 @@ Richebourg (Yvelines) villa de
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
-### Garden Description
+## Garden Description
 Though the site has an area of 12 or 13 hectares, only one hectare has been excavated, the residential and agricultural part. Two groups of buildings frame a large garden on a slightly trapezoidal, walled area. To the north was the residence; to the south, the utility buildings, including a silo; while to the east, within its own walls, was the farmyard also with several buildings.  
 
 The *pars urbana* at the north end opened towards the south on a large space [1] developed as a garden. The southern façade was a *portico* stretching between rooms extending forward  from either end of the main house. Along this façade [2], excavations have shown a band of gravel on a masonry base bordered by posts. Perhaps these posts supported a *trellis* along this façade. Against the *stylobate* of the *portico*, several bases of *amphorae* were discovered, doubtless as pots for plants that perhaps climbed on the *trellis.* A fragment of a white marble disk could be, according to Y. Barat, the only remains of an oscillum that once hung in the gallery.     
@@ -66,24 +66,24 @@ Near the southwest corner of the villa, a stone masonry slab [5] of irregular pl
 
 Pollen analyses have yielded some results, although the pollens were damaged and oxidized by the dry environment. Samples of garden soil were both from the pots and from outside them. Several of the species identified, such as plantain, argue for a mown lawn. The tree species indicate the presence of conifers – cedars, larches and spruces (cedrus, larix, picea).   An oleaceae (determined by D. Marguerie) poses problems of interpretation. Was it a lilac or an olive?  In either case, it is an imported species. The lilac would come from the northeast of the Balkans; the olive, from the Mediterranean. Though the lilac might seem more probable on the basis of current plantings, it is noteworthy that Pliny reports that the olive was acclimated in central Gaul (H.N. V 1-2, XVII, 47-48). The genus Prunus appeared several times, thus confirming the results of charcoal analysis (anthracology) but without determination of the species – wild cherry or domestic cherry. Ivy is also present, perhaps to cover the pergolas.  
 
-### Maps
+## Maps
 
 None Available
 
-### Plans
+## Plans
 {{< image src="yvelines1.jpg" alt="A plan of the gardens of Richebourg. Small black dots, representing places where horticultural pots were found are also marked on the plan." title="Plan 1:  Fig 4 - Plan of the Athenian Gardens of Richebourg" >}}
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 {{< image src="yvelines2.jpg" alt="A colorful bird's eye perspective of the garden between the buildings." title="Plan 1:  Bird's Eye Perspective of the Garden" >}}
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - Y. Barat,  La villa gallo-romaine de Richebourg (Yvelines) in  *Revue  Archéologique  du  Centre  de  la  France,*  38,  1999,  p. 117-67,  plans  p. 122,  jardin  p.140. [(worldcat)](http://www.worldcat.org/oclc/4647907321)
 - Y Barat, D. Morize, Les pots d’horticulture dans le monde antique et les jardins de la villa de Richebourg (Yvelines), in *SFECAG, Actes du colloque de Fribourg,* 1999, p. 213-36.  <!-- no worldcat -->
 - Y. Barat, La recherche archéologique des jardins antiques in *Les nouvelles de l’archéologie*  83-84, 2001, p. 56-62, not. P. 58-59. <!-- no worldcat -->
@@ -95,17 +95,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Autricum](https://pleiades.stoa.org/places/108778)
 
-#### TGN ID
+## TGN ID
 [Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
 
-### Contributor
+## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

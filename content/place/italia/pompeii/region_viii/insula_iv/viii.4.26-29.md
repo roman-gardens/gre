@@ -25,7 +25,7 @@ tags:
 [Pompeii]({{<relref "../..">}}) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -34,29 +34,29 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula IV]({{<relref ".">}})
 
-### Keywords
+## Keywords
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 
-### Garden Description
+## Garden Description
 Directly across from the Temple of Isis was an entryway to this garden (a) which was located to the rear of the house. On the east there was a portico with two columns and high up on the north wall there was an arched niche.
 
-### Plans
+## Plans
 {{< image src="fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" title="Plan of Region VIII Insula IV" >}}
 
-### Images
+## Images
 {{< image src="fig.14.viii.iv.27_14.22.59.jpg" alt="Fig.14,  14.22.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig.14,  14.22.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
-#### TGN ID
+## TGN ID
 [Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
-###  Excavation Dates
+##  Excavation Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 * Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 76, no. 363 [(worldcat)](http://www.worldcat.org/oclc/1131425884)
 * Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, p. 7 [(worldcat)](http://www.worldcat.org/oclc/65043382)
 * Fiorelli, *Descrizione di Pompei*, p. 343 [(worldcat)](http://www.worldcat.org/oclc/252039996)
@@ -64,9 +64,9 @@ Unspecified
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 67 [(worldcat)](http://www.worldcat.org/oclc/906755593)
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

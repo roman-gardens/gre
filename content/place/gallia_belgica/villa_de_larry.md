@@ -40,7 +40,7 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Villa de Larry
 
-### Keywords
+## Keywords
 
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
@@ -49,7 +49,7 @@ Villa de Larry
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [fountain](http://vocab.getty.edu/page/aat/300006179)
 
-### Garden Description
+## Garden Description
 
 <!-- Taken from draft file -->
 The site is on the Lorraine plateau, which has been densely occupied and cultivated since protohistoric times. The villa was on the divide between the headwaters of the Seille on the west and the Neid on the east and only 2.3 kilometers from the Roman road connecting Metz, Sarrebourg, and Strasbourg. The combination of the *pars urbana* and the *pars rustica* occupied more than 7 hectares, and the *pars rustica* alone had at least twelve buildings. The site of *pars urbana* now lies under the airport runway, so all vestiges were destroyed in the construction.  The *pars rustica* lies outside the airport property in cultivated fields. It remains buried but intact and has been (2006- 2007) the subject of further investigation by ground-penetrating radar and other techniques not requiring excavation.
@@ -71,22 +71,22 @@ In the fourth century, the villa was in large part ruined; the pools were filled
 The Villa de Larry site is an example of the villa of a country estate where the gardens integrated the architecture of the buildings. The art of gardening bore witness to the will of the builders and proprietors to master nature and the plant world, imposing on them harmonious and regular forms with plans inspired by the imperial prototypes of Rome.
 
 
-### Maps
+## Maps
 
 None Available
 
-### Plans
+## Plans
 
 None Available
 
-### Images
+## Images
 
 None Available
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - J.-D. Laffite, A. Bressoud, M. Mondy, A. Lefèbvre, M. Feller, I. Dechanez-Clerc, J.-J. Bigot, É. Rouger, *LIÉHON (Moselle) « Larry » - Aéroport Metz-Nancy Lorraine*, rapport de fouille préventive 2003, INRAP GEN/ SRA DRAC Lorraine, Metz, 2005, 9 vol., 1378 p., 207 figures, 61 plates. [(worldcat)](http://www.worldcat.org/oclc/20955708)
 
 
@@ -94,17 +94,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Divodurum/Mettis](https://pleiades.stoa.org/places/108927)
 
-#### TGN ID
+## TGN ID
 [Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
 
-### Contributor
+## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

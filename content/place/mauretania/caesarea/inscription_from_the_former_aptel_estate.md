@@ -24,7 +24,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 [Caesarea]({{<relref ".">}}) \
 [Iol Caesarea](https://pleiades.stoa.org/places/295279)
 
-### Location Description
+## Location Description
 
 A prestigious city on the southwestern shore of the Mediterranean Sea, Caesarea is located approximately 100 km west of Algiers. Situated on the border of an upland plain dominating the sea and bordered on the west and east by the mountains of the Chenoua and of the Cape Ténès, respectively, the city was one of the ports that the Carthaginians established on the coast of the Maghreb.
 
@@ -42,13 +42,13 @@ The city has been continually occupied to the present day, now known as Cherchel
 
 Inscription from the former Aptel Estate
 
-### Keywords
+## Keywords
 
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 
-### Garden Description
+## Garden Description
 
 An inscription CIL VIII 21081 mentioning a pool covered by a wine trellis supported by two columns was found in the Aptel estate:
 
@@ -56,30 +56,30 @@ An inscription CIL VIII 21081 mentioning a pool covered by a wine trellis suppor
 
 “As many (pools) are sheltered by a vine caught up by tall columns, as also [there] is a bend into an arch smoothing with manageable scale; as statues breathing of Parian marble live and as the swell of the water flows forth with varied course...”
 
-### Plans
+## Plans
 
-### Images
+## Images
 
-### Dates
+## Dates
 
-#### Excavation Dates
+## Excavation Dates
 
-### Bibliography
+## Bibliography
 
 * Leveau, Ph., *Caesarea de Maurétanie, une ville romaine et ses campagnes*, Rome, 1984, p. 56. [(worldcat)](http://www.worldcat.org/oclc/1014614344)
 
 * Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie",  in *Antiquités africaines*, 18, 1982, p. 117, no. 7. [(worldcat)](http://www.worldcat.org/oclc/4797426670)
 
-#### Pleiades ID
+## Pleiades ID
 
 
-#### TGN ID
+## TGN ID
 
-### Contributor
+## Contributor
 
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
-### Publication date
+## Publication date
 
 <!--07 July 2020-->
 

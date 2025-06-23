@@ -39,7 +39,7 @@ tags:
 Garden of the Mausoleum of Augustus \
 [Mausoleum Augusti](https://pleiades.stoa.org/places/281368358)
 
-### Keywords
+## Keywords
 
 - [altar (religious fixture)](http://vocab.getty.edu/page/aat/300003725)
 - [ambulatio (portico)](http://vocab.getty.edu/page/aat/300004145)
@@ -65,7 +65,7 @@ Garden of the Mausoleum of Augustus \
 - [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
 
 
-### Garden Description
+## Garden Description
 
 The [Mausoleum of Augustus](https://www.digitalaugustanrome.org/records/mausoleum-augustus) was located in the northern [*Campus Martius*](https://en.wikipedia.org/wiki/Campus_Martius) between the [*Via Flaminia*](https://en.wikipedia.org/wiki/Via_Flaminia) and the [Tiber](https://en.wikipedia.org/wiki/Tiber). The exact bounds of the park are unknown, but they stretched from north of the Mausoleum of Augustus to south of the [*Horologium*](http://vocab.getty.edu/page/aat/300404895) and the [Ara Pacis](https://en.wikipedia.org/wiki/Ara_Pacis), which was located along the *Via Flaminia*.
 
@@ -97,15 +97,15 @@ Six large travertine slabs with inscriptions that refer to different members of 
 
 The park in which the Mausoleum of Augustus, the Ara Pacis, the Horologium, and several other altars were located, transformed the entire northern *Campus Martius* into a celebration of Augustus’s life, achievements, and death.
 
-### Dates
+## Dates
 
 between 28 and 23 BCE
 
-#### Excavation Dates
+## Excavation Dates
 
 1869, 1871–1872, 1907–1908, 1916–1930, 1934–1938
 
-### Bibliography
+## Bibliography
 
 * E. Buchner, *Die Sonnenuhr des Augustus*, Mainz, 1982. [(worldcat)](http://www.worldcat.org/oclc/469037372)
 * D. Castriota, *The Ara Pacis Augustae and the Imagery of Abundance in later Greek and Early Roman Imperial Art*, Princeton, 1995. [(worldcat)](http://www.worldcat.org/oclc/468823329)
@@ -114,18 +114,18 @@ between 28 and 23 BCE
 * E. La Rocco, *Ara Pacis Augustae: in occasione del restauro della fronte orientale*, Rome, 1983. [(worldcat)](http://www.worldcat.org/oclc/60060689)
 * B. Frischer et al. “New Light on the Relationship between the Montecitorio Obelisk and the Ara Pacis of Augustus,” *Studies in Digital Heritage* (1:1), 2017, pp. 1–105. [(worldcat)](http://www.worldcat.org/oclc/1224085907)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Mausoleum Augusti](https://pleiades.stoa.org/places/281368358)
 
-### Contributor
+## Contributor
 
 [Elizabeth Macaulay](https://emacaulaylewis.com)
 
-#### ORCID
+## ORCID
 
 [Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 
-### Publication date
+## Publication date
 
 17 April 2021

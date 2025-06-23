@@ -39,7 +39,7 @@ tags:
 
 Garden of the Hercules Musarum
 
-### Keywords
+## Keywords
 
 - [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 - [auditorium](http://vocab.getty.edu/page/aat/300004394)
@@ -60,7 +60,7 @@ Garden of the Hercules Musarum
 - [Valerius Maximus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1448)
 
 
-### Garden Description
+## Garden Description
 
 The [*Aedes Hercules Musarum*](http://archive1.village.virginia.edu/spw4s/RomanForum/GoogleEarth/AK_GE/AK_HTML/TS-031.html) was located in the southern [*Campus Martius*](https://en.wikipedia.org/wiki/Campus_Martius). It was enclosed by the [*Porticus Philippi*](https://www.digitalaugustanrome.org/records/porticus-phillippi) (61 x 92 m.) in the late Republican period. Known from several fragments of the [Severan Marble Plan (*Forma Urbis Romae*)](https://en.wikipedia.org/wiki/Forma_Urbis_Romae), it was also adjacent (to the northwest) to the [*Porticus Octaviae*](https://www.digitalaugustanrome.org/records/porticus-octaviae) (Figs. 1–2). [M. Fulvius Nobilior](https://en.wikipedia.org/wiki/Marcus_Fulvius_Nobilior_(consul_189_BC)), consul in 189 BCE (and censor with [M. Aemilius Lepidus](https://www.britannica.com/biography/Marcus-Aemilius-Lepidus-Roman-statesman-died-152-BC) in 179 BCE), may have built the temple between 187 and 179 BCE (Eumen. Pan. 5.7.3) after his triumph. [Ovid](https://en.wikipedia.org/wiki/Ovid) ([*Fast.* 6.801–2](http://data.perseus.org/citations/urn:cts:latinLit:phi0959.phi007.perseus-lat1:6)) and [Suetonius](https://en.wikipedia.org/wiki/Suetonius) ([Aug. 29.5](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo012.perseus-lat1:29.5)) state that [L. Marcius Philippus](https://en.wikipedia.org/wiki/Lucius_Marcius_Philippus_(consul_38_BC)) (who had a [triumph](https://en.wikipedia.org/wiki/Roman_triumph) in 34 or 33 BCE) restored the temple and built the [portico](http://vocab.getty.edu/page/aat/300004145) around it.
 
@@ -70,7 +70,7 @@ The *FUR* shows that the [temple]((http://vocab.getty.edu/page/aat/300007595)) w
 
 The *collegium poetarum* formally gathered near the complex, and so perhaps the *porticus* and its *exedra* could have housed a poetics school with an [auditorium](http://vocab.getty.edu/page/aat/300004394) for lectures or discussions of poetry and works of art; perhaps functioning like an Alexandrian-inspired [*Museion*](https://en.wikipedia.org/wiki/Musaeum) ([Val. Max. 3.7.11](http://data.perseus.org/citations/urn:cts:latinLit:phi1038.phi001.perseus-lat1:3.7.11); [Plin. *HN* 34.19](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:34.19)).
 
-### Figures
+## Figures
 
 {{< image src="hercules_musarum_fig1.jpg" alt="fragment from the Forma Urbis Romae showing a part of the Hercules Musarum complex, and inscribed with its name" title=" Fig. 1. Temple of Hercules Musarum on a fragment of the Severan Marble Plan." >}}
 
@@ -80,36 +80,36 @@ The *collegium poetarum* formally gathered near the complex, and so perhaps the 
 
 {{< image src="hercules_musarum_fig4.jpg" alt="Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas" title="Figure 4. Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas (Coarelli, 1997, Figs. 113, 114)." >}}
 
-### Dates
+## Dates
 
 Built between 187 and 179 BCE; restoration and portico constructed in Late Republican era (post 33 BCE)
 
-#### Excavation Date
+## Excavation Date
 
 1980s
 
-### Bibliography
+## Bibliography
 
 * L. Richardson, “Hercules Musarum and the Porticus Philippi in Rome,” *American Journal of Archaeology* 81 (1977), pp. 355–61. [(worldcat)](http://www.worldcat.org/oclc/915926883) | [(JSTOR)](https://www.jstor.org/stable/503009)
 * F. Castagnoli, “Porticus Philippi,” *Analecta Romana Instituti Danici* suppl. 10 (1983), pp. 93–104. [(worldcat)](http://www.worldcat.org/oclc/1708903)
 * F. Coarelli, *Il Campo Marzio*, 1997, pp. 452–84. [(worldcat)](http://www.worldcat.org/oclc/906743621)
 * A. Viscogliosi, s.v. “Porticus Philippi,” *Lexicon topographicum urbis Romae* IV, pp. 146–48. [(worldcat)](http://www.worldcat.org/oclc/772398569)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Roma](https://pleiades.stoa.org/places/423025)
 <!-- Pleiades resource for Location (Rome), not for the individual garden -->
 
-### Contributors
+## Contributors
 
 [Elizabeth Macaulay](https://emacaulaylewis.com)\
 [Linda Anderson](#)<!--website for Linda Anderson?-->
 
-#### ORCID
+## ORCID
 
 [Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 <!--ORCID for Linda Anderson-->
 
-### Publication date
+## Publication date
 
 17 April 2021

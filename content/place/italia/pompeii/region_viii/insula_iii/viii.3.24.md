@@ -27,7 +27,7 @@ tags:
 [Pompeii]({{<relref "../..">}}) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -36,38 +36,38 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula III]({{<relref ".">}})
 
-### Keywords
+## Keywords
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [puteals](http://vocab.getty.edu/page/aat/300443458)
  - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
-### Garden Description
+## Garden Description
 A. The earthquake destroyed an elegant house on this site and this house was subsequently rebuilt on the ruins. A long fauces terminated in the garden (a) which was bounded on the north and part of the east and west sides by a portico. A low wall connected the supporting columns with an entrance on the west and east and two puteals integrated into the wall. The original excavation plan shows a water channel bordering the garden on the west, north and east sides.
 B. Backed up to the ancient caupona there was a second garden (b) next to the triclinium (c).
 
-### Plans
+## Plans
 {{< image src="fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
-#### TGN ID
+## TGN ID
 [Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
-###  Excavation Dates
+##  Excavation Dates
 Unspecified
 
 
-### Bibliography
+## Bibliography
 * Breton, *Pompeia*, pp. 497-498 and drawing of stibadium on p. 499 [(worldcat)](http://www.worldcat.org/oclc/894211341)
 * Fiorelli, *Descrizione di Pompei*, pp. 328, 330 [(worldcat)](http://www.worldcat.org/oclc/252039996)
 * Jashemski, *Gardens*, vol. II, p. 211 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 66 [(worldcat)](http://www.worldcat.org/oclc/906755593)
 * Pernice, *Hellenistische Tische, Zisternenmündungen, Beckenuntersätze, Altäre und Truhen* p. 15 [(worldcat)](http://www.worldcat.org/oclc/680390526)
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

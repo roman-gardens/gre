@@ -27,7 +27,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -39,32 +39,32 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## House
 [House I](#)
 
-### Keywords
+## Keywords
  - [tablina](http://vocab.getty.edu/page/aat/300004180)
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 
-### Garden Description
+## Garden Description
 This house was excavated in 1799 and to the rear of the tablinium there was a portico which enclosed an area surrounded by a gutter. Openings were cut in the floor where the twelve supporting columns stood to allow light into the rooms below in the volcanic ledge. Mazois and Fiorelli labeled this area a hanging garden because of this configuration. A grand view of the Bay of Naples and the mountains could be enjoyed from the terraces on two levels in this house, and potted plants and shrubs may have been placed there.
 
-### Plans
+## Plans
 {{< image src="fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
 {{< image src="fig._4_region_viii_insula_ii_1.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
 
-### Images
+## Images
 {{< image src="fig.3.viii.ii_10.2.59.jpg" alt="Fig 3, 10.2.59, View of insula ii from below (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig 3, 10.2.59, View of insula ii from below (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
-#### TGN ID
+## TGN ID
 [Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
 
-###  Excavation Dates
+##  Excavation Dates
 1799
 
-### Bibliography
+## Bibliography
 * Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 74 [(worldcat)](http://www.worldcat.org/oclc/1131425884)
 * Breton, *Pompeia*, 3rd ed. p. 502 [(worldcat)](http://www.worldcat.org/oclc/894211341)
 * Dyer, *Pompeii*, 3rd ed. p. 441 [(worldcat)](http://www.worldcat.org/oclc/24327166)
@@ -77,9 +77,9 @@ This house was excavated in 1799 and to the rear of the tablinium there was a po
 * Fiorelli,ed. *Pompeianarum Antiquitatum Historia* (May 16, 1800),  vol. 1, pt. 2, p. 173 [(worldcat)](http://www.worldcat.org/oclc/714988573)
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

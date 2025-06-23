@@ -10,7 +10,7 @@ editor: Claire Campbell
 draft: true
 ---
 
-# Province
+## Province
 [Italia]({{<relref "../..">}}) \
 [Italia](https://pleiades.stoa.org/places/1052)
 <!--- Content of Province heading --->
@@ -20,7 +20,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 <!-- DESCRIPTION -->
 
 
-# Location
+## Location
 [Pompeii]({{<relref "..">}}) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
@@ -28,7 +28,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 [Regio VI](https://pleiades.stoa.org/places/984330151)
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
@@ -44,13 +44,13 @@ VI.I.1
 <!-- List of gardens in province -->
 <!-- May be left blank for now -->
 
-### Keywords
+## Keywords
 [triclinia](http://vocab.getty.edu/page/aat/300004359) \
 [pergolas](http://vocab.getty.edu/page/aat/300006783) \
 [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558) \
 [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
 
-### Garden Description
+## Garden Description
 Just inside the *Porta di Ercolano* was a small inn pressed against the city wall that had a garden with a masonry *triclinium* (l. *medius*, 3.95 m.; *l. imus* 4.00; *l. summus* 3.75 m.). A vine covered pergola had provided shade to the *triclinium* and the sockets in the back wall where the pergola roof supports fitted were visible when this area was excavated in 1787. Rooms upstairs provided overnight accommodations for guests. A cistern opening in the southwest corner of the garden received water from a gutter that ran along the south edge.
 
 ## Dates
@@ -71,13 +71,13 @@ Soprano, p. 300, no. 13.
 -->
 
 
-### Pleiades ID
+## Pleiades ID
 [Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://www.getty.edu/vow/TGNFullDisplay?find=&place=&nation=&english=Y&subjectid=7004658)
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 

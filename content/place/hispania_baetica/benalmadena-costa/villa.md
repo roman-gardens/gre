@@ -25,7 +25,7 @@ Hispania Baetica
 [Benalmadena-Costa]({{<relref ".">}}) \
 [Benalmadena-Costa](https://pleiades.stoa.org/places/510567671)
 
-### Location Description
+## Location Description
 
 <!--## Sublocation-->
 
@@ -42,16 +42,16 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Villa
 
-### Keywords
+## Keywords
 
 <!-- [no keyword]-->
 
-### Garden Description
+## Garden Description
 
 At the rear of this villa there is a grand *euripus* running the length of the large rectangular garden.  
 
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -63,18 +63,18 @@ At the rear of this villa there is a grand *euripus* running the length of the l
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 * P. Rodriguez Oliva, *La arqueológia romana de Benalmádena*, Ayuntamiento de Benalmádena, (Malaga 1982).[(worldcat)](http://www.worldcat.org/oclc/1123848744)
 * P. Rodriguez Oliva,*Anuario Arqueologico de Andalucia, 1986*, Direccion general de bienes culturales, (Sevilla, 1987), part II, 407 ff. [(worldcat)](http://www.worldcat.org/oclc/491540528)
 * Mª L. Loza Azuaga,‘La escultura de fuentes en Hispania: ejemplos de la Bética, *Actas de la I Reunión sobre escultura romana en Hispania*, (Mérida, 1993), 97-110.[(worldcat)](http://www.worldcat.org/oclc/884615852)
@@ -83,17 +83,17 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Benalroma]{{<relref ".">}}) \
 [Benalroma](https://pleiades.stoa.org/places/510567671)
 
-#### TGN ID
+## TGN ID
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
 
 
-### Contributor
+## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
-### Publication date
+## Publication date
 
 21 Apr 2021

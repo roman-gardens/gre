@@ -27,7 +27,7 @@ categories:
 ## Sublocation
 Via Aurelia
 
-### Sublocation Description
+## Sublocation Description
 An ancient Roman road begun ca. 241 B.C. by the censor C. Aurelius Cotta.
 
 
@@ -35,11 +35,11 @@ An ancient Roman road begun ca. 241 B.C. by the censor C. Aurelius Cotta.
 
 Tomb Garden of Terentia
 
-### Keywords
+## Keywords
 - [epitaphs](http://vocab.getty.edu/page/aat/300028729)
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 
-### Garden Description
+## Garden Description
 A fragmentary (and probably reused) epitaph, probably of the first or second century CE, found in the catacombs of Calepodio beside the Via Aurelia identifies a cepota[phium] of Terentia.
 
 
@@ -49,7 +49,7 @@ A fragmentary (and probably reused) epitaph, probably of the first or second cen
 
 
 
-### Bibliography
+## Bibliography
 - J. Bodel, *Roman Tomb Gardens*, Cambridge University Press, 2018, pp. 225, 237.  [link](https://www.cambridge.org/core/books/gardens-of-the-roman-empire/roman-tomb-gardens/6BDAE36C21FFFADD3EB4E9CBD4BB8986)
 
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](http://www.worldcat.org/oclc/886794800)
@@ -68,17 +68,17 @@ A fragmentary (and probably reused) epitaph, probably of the first or second cen
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [283772837](https://pleiades.stoa.org/places/283772837)
 
 
 
-### Contributor
+## Contributor
 John Bodel
 
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

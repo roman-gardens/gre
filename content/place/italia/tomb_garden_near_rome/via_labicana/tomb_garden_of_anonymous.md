@@ -27,20 +27,20 @@ categories:
 ## Sublocation
 Via Labicana
 
-### Sublocation Description
+## Sublocation Description
 An ancient Roman road connecting Rome and Labicum.
 
 
 ## Garden
 Tomb Garden of Anonymous
 
-### Keywords
+## Keywords
 - [epitaphs](http://vocab.getty.edu/page/aat/300028729)
 - [sepulchral monuments](http://vocab.getty.edu/page/aat/300005909)
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 
 
-### Garden Description
+## Garden Description
 
 A fragmentary marble slab found beside the Via Labicana near the cemetery of Centocelle and recording the end of an epitaph addressed in part to an Aurelius identifies a cepotaphium in the formulaic clause prohibiting misuse or alienation of the tomb property.
 
@@ -48,10 +48,10 @@ A fragmentary marble slab found beside the Via Labicana near the cemetery of Cen
 
 
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](http://www.worldcat.org/oclc/886794800)
 
 
@@ -67,17 +67,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [60995119](https://pleiades.stoa.org/places/60995119)
 
 
 
-### Contributor
+## Contributor
 John Bodel
 
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

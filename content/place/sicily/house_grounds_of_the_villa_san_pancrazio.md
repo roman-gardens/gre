@@ -52,35 +52,35 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Villa at Patti Marina
 
-### Keywords
+## Keywords
 
 <!-- [urban villas](#) -->
 
 
-### Garden Description
+## Garden Description
 
 In private housing at this site on the east coast no excavation has so far been attempted to reveal the presence of gardens, and little is known of the arrangements for running water in houses to irrigate such gardens or to supply ornamental pools and fountains.  This town house has a small rectangular pool with a small semicircular recess (Farrar Type B) at the south end of the garden peristyle, facing what was presumably the principal dining room at the south end of the house. The precise date is uncertain.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 <!--{{< image src="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
 
-### Images
+## Images
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 
-### Bibliography
+## Bibliography
 G. M. Bacci, Attivita della soprintendenza: Taormina, Kokalos 39–40 (1993–94): 945–7. [(worldcat)](http://www.worldcat.org/oclc/186378054)
 
 Pool types: L. Farrar, Ancient Roman Gardens, Stroud, 1998, pp. 71–84.[(worldcat)](http://www.worldcat.org/oclc/1169942407)
@@ -89,17 +89,17 @@ Pool types: L. Farrar, Ancient Roman Gardens, Stroud, 1998, pp. 71–84.[(worldc
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Tauromenium](https://pleiades.stoa.org/places/462506)
 
-#### TGN ID
+## TGN ID
 
 
-### Contributor
+## Contributor
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

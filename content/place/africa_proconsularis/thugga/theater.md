@@ -22,7 +22,7 @@ tags:
 [Africa Proconsularis]({{<relref "..">}}) \
 [Africa proconsularis](https://pleiades.stoa.org/places/991341)
 
-### Province Description
+## Province Description
 
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The  climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
@@ -33,7 +33,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 {{< image src="dougga_theater.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
 
-### Location Description
+## Location Description
 
 Annexed in 46 B.C., the Romanization of the city of Thugga that was probably a residence of the Numidian kings, was gradual but profound. It became Municipium Thuggense in 205, and was raised to the rank of a Colonia Licinia Septima Aurelia Alexandriana Thuggensesin in 261 under Gallien. Numerous buildings of this city overlooking the valley of the Ouadi Khaled, have been uncovered among them the Capitol dedicated to the Capitoline Triad in 166-67, the theater on the top of the plateau constructed under Antonius Pius, the Temple of Mercury, Fortune, Augustan Piety, Liber Pater, Concordia, Frugifer, Pluto, Saturn and the Temple of Caelestis which stands in the middle of a an olive grove. In the residential areas stands the Licinian Baths with their Palestrae and the Cyclops Baths and the Triumphal Arch of Septimus Severus set astride a street leading down the hill. Two building inscriptions (CIL VIII, 26606 and CIL VIII, 26607), dated to AD 166-169 mention a theater with a basilica, porticoes, and xystis.
 
@@ -41,40 +41,40 @@ Annexed in 46 B.C., the Romanization of the city of Thugga that was probably a r
 
 Theater (Theâtre)
 
-### Keywords
+## Keywords
 
 - [theater](#)
 - [xystis](#)
 - [inscription](#)
 
-### Garden Description
+## Garden Description
 
 At the rear of the theater is a *xystis* known from the dedication inscription (CIL VIII 26606, 26608) (Plan view, Fig.1). The word *xystis* probably corresponds to the portico and the semi-circular garden space that develops behind the stage building.
 
-### Maps
+## Maps
 
-### Plans
+## Plans
 
 {{< image src="AFR_Thu_T_Wjashemski_color.jpg" alt="Plan of the Temple" title="Fig.1 Plan of the Temple(Les ruines de Dougga, p. 53, plan général n°18)" >}}
 
-### Dates
+## Dates
 1st-2nd century CE
 
-### Bibliography
+## Bibliography
 * Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](http://www.worldcat.org/oclc/7380877046)
 *  Poinssot, C., *Les ruines de Dougga*, Tunis, 1958, n°18, p. 53: plan, général n°18. [(worldcat)](http://www.worldcat.org/oclc/475099061)
 
-#### Pleiades_ID
+## Pleiades_ID
 
 [Thugga/Tokai?](https://pleiades.stoa.org/places/315223)
 
-#### TGN ID
+## TGN ID
 
 [Dougga (deserted settlement)](http://vocab.getty.edu/page/tgn/7017996)
 
-### Contributor
+## Contributor
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) \
 [Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 
-### Publication Date
+## Publication Date
 21 Apr 2021

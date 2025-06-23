@@ -28,7 +28,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -36,7 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula VII]({{<relref "#">}})
 
-### Keywords
+## Keywords
 
 - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
@@ -47,7 +47,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 Shop-House garden with [pool](http://vocab.getty.edu/page/aat/300008692) and paintings.
 
-### Garden Description
+## Garden Description
 
 Two [paintings](http://vocab.getty.edu/page/aat/300033644) were found on the west wall of the [atrium](http://vocab.getty.edu/page/aat/300004097) behind this shop, one was of a *porticus* villa on the sea and the second was a garden representation (o.16 x 0.43 m.). The garden was surrounded by a lattice [fence](http://vocab.getty.edu/page/aat/300005044) which was drawn wider in the front than the rear and had a rectangular [pool](http://vocab.getty.edu/page/aat/300375619) in front with ducks swimming.
 
@@ -62,7 +62,7 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 
 
-### Plans
+## Plans
 
 {{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
@@ -70,10 +70,10 @@ NEW WAY ↓↓↓↓
 
 <!--### Images-->
 
-### Dates
+## Dates
 Excavated 1926 and 1927. Restoration 2017.
 
-### Bibliography
+## Bibliography
 
 * Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, pp. 395. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
 * Maiuri, A. 1939. *NSc*, p. 380, and fig. 14 on p. 381.  
@@ -83,19 +83,19 @@ Excavated 1926 and 1927. Restoration 2017.
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

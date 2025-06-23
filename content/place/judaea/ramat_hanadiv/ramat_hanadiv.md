@@ -60,7 +60,7 @@ Villae Rusticae
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
 
-### Garden Description
+## Garden Description
 
 Probable garden soils have been identified in a partially excavated palatial complex from the Herodian period. (Fig. 1) The fortified residential complex is a huge square covering an area of over 5,000 square meters. Towers stood in the four corners of the precinct, which thus appears to have been what was called in the Hellenistic period a tetrapyrgion- type palace.  Josephus also uses the term in describing the palace at Masada (Wars 7, 289).  This is the best preserved example known to date in Palestine.  The palace’s inhabitants were probably members of Jewish elite during and after Herod’s reign, as the complex was abandoned during the great Revolt.  
 
@@ -74,20 +74,20 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 
 
-### Plans
+## Plans
 
 {{< image src="Latimer_fig_14_or_10.1a.jpg" alt="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20." title="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.(Rights statement)" >}}
 
-### Images
+## Images
 
 {{< image src="Latimer_fig_15_or_10.1b.jpg" alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." title="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." >}}
  -->
 
-### Dates
+## Dates
 
 15 BCE - 60 CE
 
-### Bibliography
+## Bibliography
 
 * Y. Hirschfeld, Ramat Hanadiv Excavations, Jerusalem 2000; S.T.A.M. Mols, Wooden Furniture in Herculaneum, Amsterdam (1999):139-40. [worldcat](https://www.worldcat.org/title/ramat-hanadiv-excavations-final-report-of-the-1984-1998-seasons/oclc/44755201&referer=brief_results)
 
@@ -96,7 +96,7 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Ramat ha-Nadiv](https://pleiades.stoa.org/places/678357)
 
@@ -104,12 +104,12 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 
 [#](#)-->
 
-### Contributor
+## Contributor
 
 [Yitzar Hirschfeld]
 
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

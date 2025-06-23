@@ -24,7 +24,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -36,36 +36,36 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Terraced garden of the Libraries (Fig. 1, n. 8)
 
-### Keywords
+## Keywords
 
 - [euripus](#)
 - [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
 
-### Garden Description
+## Garden Description
 
 This terrace, leaning to the North on a sustaining wall, is the first one of a series of very interesting overhanging gardens developing on successive sloping down terraces (Fig. 25). Up to now no flowerbeds have been discovered. Today we can only admire the very long *euripus* (Fig. 26), which was the principal feature of this garden (Fig. 25, A). It ran parallel to the buildings of the libraries and occupied all its northern front. At its extremities the *euripus* expanded in two octagonal basins which had flowerbeds at their centers (Fig. 26). Two other smaller basins decorated the garden (Fig. 25, B-C).  We can see one in the photo (Fig. 27).
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
 {{< image src="25_libraries.jpg" alt="Plan of the Libraries at Hadrian's Villa" title="Fig. 25: Plan of the Libraries, Eugenia Salza Prina Ricotti." >}}
 
-### Images
+## Images
 
 {{< image src="26_libraries_euripus.jpg" alt="Photograph of the Euripus in the Terraced garden of the Libraries at Hadrian's Villa" title="Fig. 26: Euripus, Eugenia Salza Prina Ricotti." >}}
 
 {{< image src="27_fontana.jpg" alt="Photograph of a Fountain in the Terraced garden of the Libraries at Hadrian's Villa" title="Fig. 27: Fountain, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -83,21 +83,21 @@ unspecified
 * M. E. Timpson, J.E. Foss, R. J. Lewis, C. A. Stiles, "Soil interpretation of some Roman archaeological sites in Italy and Tunisia," *15th Int. Congr. of Soil Science*, Vol. 6b, 1994, pp. 172-173. [(worldcat)](http://www.worldcat.org/oclc/32679652)
 * J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](http://www.worldcat.org/oclc/1040851034)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

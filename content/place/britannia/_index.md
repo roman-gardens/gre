@@ -14,21 +14,21 @@ After Caesar’s campaigns in Britain in 55 and 54 BC, the southern part of the 
 Britain is geographically and geologically diverse, and it was characterized in the Roman period by a variety of confined ecosystems. Even before the conquest, grain, cattle, and metals, were exported to the continent. Cereal production, chiefly spelt wheat and barley, were the mainstay of the Roman agrarian economy of the province. In the 3rd and 4th centuries, Britain was a prosperous and secure place, little threatened by the barbarian incursions disrupting life across the channel in Gaul and Germany. In 359/360, shipments of sorely needed British grain were procured to supply the harassed army and civilians on the Rhine. By the late Roman period, British woollen textiles also were valued exports. Under [Septimius Severus](#) (193-211), the island was split into two provinces: Britannia Superior and Britannia Inferior. During the reign of [Diocletian](#) (284-305), the two British provinces were further divided into four: Britannia Prima, Maxima Caesariensis, Britannia Secunda and Flavia Caesariensis. The capitals of these provinces were [Corinium](#) (Cirencester), Londinum (London), [Eboracum](#) (York) and [Lindum](#) (Lincoln) respectively.
 
 
-### Dates
+## Dates
 43 CE to ~410 CE
 
-#### Places
+## Places
 - {{< id vocab="Pleiades" id="981513" term="Britannia (province)" >}}
 - {{< id vocab="TGN" id="7030316" term="Britannia (province)" >}}
 
 <!--#### Periodo ID-->
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

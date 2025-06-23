@@ -25,7 +25,7 @@ Hispania Baetica
 [Italica]({{<relref ".">}}) \
 [Italica](https://pleiades.stoa.org/places/256231)
 
-### Location Description
+## Location Description
 
 In 206 BC Publius Cornelius Scipio settled wounded veterans of the battle of Ilipa in an existing Turdentanian town which he renamed Italica to remind the settlers and their descendants of their origins.  Three centuries later, it was still a town of some 14 hectares, less than a fourth the size of Pompeii and much smaller than neighboring [Hispalis](https://pleiades.stoa.org/places/256210) (Sevilla) or [Corduba](https://pleiades.stoa.org/places/256128).  Little is known of this town archaeologically because it lies under modern Santiponce.
 
@@ -35,7 +35,7 @@ Italica underwent a major expansion during the reign of the emperor Hadrian, a n
 
 House of the Rhodian Peristyle
 
-### Keywords
+## Keywords
 
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
@@ -45,25 +45,25 @@ House of the Rhodian Peristyle
 
 
 
-### Garden Description
+## Garden Description
 
 This house is on the top of a hill and has thus been exposed to more erosion and pillage of stone than most.  The entrance was on the east side and led into the peristyle.  One of its galleries was higher than the other three. Vitruvius 6.7.3 used the term “Rhodian” to describe such peristyles, and this feature gave the house its modern name (reference). Only two rooms around the courtyard are in good enough condition to be interpreted.  One is marked as a triclinium by the shape of its checker-board mosaic.  The other had rolls of foliage. In the absence of evidence to the contrary, we may guess that the central courtyard was a garden.       
 
-### Maps
+## Maps
 
 {{< image src="HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
 
 
-### Images
+## Images
 
 {{< image src="HIS_BAE_Italica_Hrp fig 1.jpg" alt="Fig. 1: Photograph. (Rights Statement)" >}}
 
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](http://www.worldcat.org/oclc/882602957)
 * A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](http://www.worldcat.org/oclc/638777432)
@@ -76,16 +76,16 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [House of the Rhodian Peristyle at Italica]{{<relref ".">}}) \
 [House of the Rhodian Peristyle at Italica](https://pleiades.stoa.org/places/932178530)
 
-#### TGN ID
+## TGN ID
 [Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
 
-### Contributor
+## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
-### Publication date
+## Publication date
 
 21 Apr 2021

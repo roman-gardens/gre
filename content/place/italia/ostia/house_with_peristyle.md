@@ -24,7 +24,7 @@ tags:
 [Ostia]({{<relref ".">}}) \
 [Ostia](https://pleiades.stoa.org/places/422995)
 
-### Location Description
+## Location Description
 
 [Ostia Antica](https://en.wikipedia.org/wiki/Ostia_Antica), the port-city of Rome, was situated at the mouth ([*ostium*](https://en.wiktionary.org/wiki/ostium#Latin)) of the [Tiber](https://en.wikipedia.org/wiki/Tiber), where it flowed into the [Tyrrhenian sea](http://vocab.getty.edu/page/tgn/1112319). Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7<sup>th</sup> century by [king Ancus Marcius](https://en.wikipedia.org/wiki/Ancus_Marcius); archaeological evidence shows that the first settlement was founded as a *colonia maritima* in the 4<sup>th</sup> century BCE. and that it was already acting as the harbour of Rome in the 3<sup>rd</sup> century BCE.
 
@@ -46,7 +46,7 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
-### Location Plan
+## Location Plan
 
 {{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
 
@@ -54,7 +54,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 House with Peristyle
 
-### Keywords
+## Keywords
 
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [Early Imperial](http://vocab.getty.edu/page/aat/300107346)
@@ -72,7 +72,7 @@ House with Peristyle
 - [water supply systems](http://vocab.getty.edu/page/aat/300008618)
 - [water wells](http://vocab.getty.edu/page/aat/300152327)
 
-### Garden Description
+## Garden Description
 
 During the winter 1938-1939 part of an earlier building was found under the occupation level of the [Schola of the Trajan]({{<relref "./schola_of_trajan.md/">}}). It was called House with peristyle, as the main preserved feature was seen to be the considerable part of a classical [peristyle](http://vocab.getty.edu/page/aat/300080971)) (Fig. 1, b). The house was erected between 20-40 CE and then destroyed between 160-200 CE. The find created great interest and massive restorations began, in order to show visitors a characteristic type of private architecture of the [early Empire](http://vocab.getty.edu/page/aat/300107346), rarely found in Ostia.
 
@@ -80,22 +80,22 @@ The [portico](http://vocab.getty.edu/page/aat/300004145) of this house was then 
 
 The portico [courtyard](http://vocab.getty.edu/page/aat/300004095) was a garden. On its northern side was a large rectangular [*nymphaeum*](http://vocab.getty.edu/page/aat/300006809), also restored in 1939. It is decorated with a semi-circular [niche](http://vocab.getty.edu/page/aat/300002704) on its long southern side. The floor is paved in [*opus spicatum*](http://vocab.getty.edu/page/aat/300417912); the walls are lined with [hydraulic mortar](http://vocab.getty.edu/page/aat/300014756), painted blue (Fig. 1, c). The volume of this *nymphaeum* and the system of the water evacuation and supply were modified several times. The [well](http://vocab.getty.edu/page/aat/300152327) in [*opus testaceum*](http://vocab.getty.edu/page/aat/300265616), in the angle southwest of the basin, is certainly one of the latest features. There is another well under the east corner of the portico that can be reached by stairs. The underground space, which was created around the well, could have been used as a [cellar](http://vocab.getty.edu/page/aat/300004761).
 
-### Figures
+## Figures
 
 {{< image src="ostia_fig18.jpg" alt="Plan of the Schola of the Trajan" title="Figure 1: Plan (from Morard, Wavelet)." >}} <!--missing illustration-->
 
 {{< image src="ostia_fig19.jpg" alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations" title="Figure 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive)." >}} <!--missing illustration-->
 
-### Dates
+## Dates
 
 erected 20-40 CE \
 destroyed 160-200 CE
 
-#### Excavation Date
+## Excavation Date
 
 winter of 1938-1939
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
@@ -109,21 +109,21 @@ winter of 1938-1939
 * Arena, *Ostia repubblicana*, p. 23. [(worldcat)]()
 * T. Morard and D. Wavelet, *Mélanges de l'École française de Rome: Antiquité* Tome 114, No. 2 (2002), Rome, pp. 759-815. [(worldcat)](http://www.worldcat.org/oclc/859589040) [hathitrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015068961740&view=2up&seq=183)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Ostia](https://pleiades.stoa.org/places/422995)
 <!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
-#### TGN ID
+## TGN ID
 
 [Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
-### Contributor
+## Contributor
 
 Thomas Morard
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

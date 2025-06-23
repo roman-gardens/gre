@@ -42,7 +42,7 @@ categories:
 
 Casa dei Quattro Stili; House of L.V.P. (I.viii.17/11)
 
-### Keywords
+## Keywords
 
 - [archaeological garden](#)
 - [inscription](#)
@@ -51,7 +51,7 @@ Casa dei Quattro Stili; House of L.V.P. (I.viii.17/11)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [roofing tile](http://vocab.getty.edu/page/aat/300010699)
 
-### Garden Description
+## Garden Description
 
 A *portico* supported by four pillars at the back of this house enclosed this *peristyle* garden (a) on the west. There was a passageway to the north of this garden that provided a back entrance to this house. A roof tile found in the garden in 1938 was inscribed FVLGVR (*CIL* IV.8223) and marked the spot where lightning had struck and where all affected items were buried.
 
@@ -66,7 +66,7 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
@@ -75,14 +75,14 @@ NEW WAY ↓↓↓↓
 <!--### Images-->
 
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 
-### Bibliography
+## Bibliography
 
 * Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Maiuri, “Fulgur conditum,” *RendNap*, n.s., 21 (1942): 53-72 and figs. 1 (plan) and 2 on pp. 56-57.
@@ -91,19 +91,19 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

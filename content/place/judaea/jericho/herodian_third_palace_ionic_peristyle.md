@@ -32,7 +32,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 [Jericho]({{<relref ".">}}) \
 [Jericho](https://pleiades.stoa.org/places/687917)
 
-### Location Description
+## Location Description
 
 In one of the most beautiful spots of the Eastern Mediterranean, five km west of Jericho, the biblical “city of Palms,” (Deut. 34:3) lie the remains of a royal complex of the late Second Temple Period (the end of the second century B.C. continuing through the mid-first century A.D).  Despite their location in the desert some 200 m. below sea level (one of the lowest occupied elevations on earth) these palaces were set amidst an abundance of vegetation and enjoyed a copious supply of water brought from the surrounding hills via water channels.  The palaces are dramatically situated along Wadi Qelt where the gorge opens abruptly onto the Jordan Valley floor. (Fig. 1) They were set amidst the large palm and balsam groves for which the valley was famed.  Water channels give archaeological evidence of groves to the north of the palace, but literary evidence suggests that royal holdings from Jericho to Ein Gedi were extensive. None of the gardens have been fully excavated, but many have been examined and the presence of rich soil rather than pavement, as well as water channels and ceramic planting pots provide conclusive evidence for the many gardens discussed below.
 
@@ -50,7 +50,7 @@ Herodian Entertainment Complex, Third Palace
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+## Sublocation Description
 
 The third palace built by Herod in the late first century B.C. merits special mention with regard to the integration of water, gardens and landscape. This palace was sited along a straight section of Wadi Qelt to take advantage of its season flow of water each winter.  This area was, however, lower than those on which the first and second palaces had been built, offering a more limited view of the surroundings.  This shortcoming was offset by the erection of a viewing pavilion on top of an artificial tel.  The overall building complex was rectilinear, with Wadi Qelt cutting through the center, and a bridge spanning the two halves.  On the north side lay a complex of banqueting rooms, Roman style baths, reception rooms, peristyle courtyards and colonnaded walks.   On the south lay a great sunken garden, the artificial tel and pavilion, and, off-axis, a shallow boating pool. (Fig. 2) The garden features are discussed individually below.
 
@@ -60,12 +60,12 @@ The third palace built by Herod in the late first century B.C. merits special me
 
 Royal Garden
 
-### Keywords
+## Keywords
 
 - [pleasure garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=4&subjectid=300008115)
 - [walled garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=5&subjectid=300008129)
 
-### Garden Description
+## Garden Description
 
 Ionic Peristyle
 
@@ -81,17 +81,17 @@ The plan reveals seven rows of up to eleven pots per row, although directly in f
 
 
 <!--
-### Maps
+## Maps
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="ASIA_JUD_JERICHO_13a.jpg" alt="Figure 3: Plan of the Ionic Peristyle Courtyard B64 with the location of the planting pots (K. Wilczak and K. Gleason)." title="Figure 3: Plan of the Ionic Peristyle Courtyard B64 with the location of the planting pots (K. Wilczak and K. Gleason)." >}}
 
 
 
-### Images
+## Images
 
 {{< image src="ASIA_JUD_JERICHO_12.jpg" alt="Figure 4: Section extending from the Sunken Garden, through Garden B64, to the Southern Tell (K. Wilczak after Netzer 2001a: Ill. 478)." title="Figure 4: Section extending from the Sunken Garden, through Garden B64, to the Southern Tell (K. Wilczak after Netzer 2001a: Ill. 478)." >}}
 
@@ -101,11 +101,11 @@ The plan reveals seven rows of up to eleven pots per row, although directly in f
 
 {{< image src="ASIA_JUD_JERICHO_13b.jpg" alt="Figure 7: Axonometric reconstruction of the Ionic Peristyle Courtyard B64 with the location of the planting pots (Yaniv Korman)." title="Figure 7: Axonometric reconstruction of the Ionic Peristyle Courtyard B64 with the location of the planting pots (Yaniv Korman)." >}}
 
-### Dates
+## Dates
 
 31 BCE - 4 BCE
 
-### Bibliography
+## Bibliography
 
 * G. Garbrecht, and E. Netzer, “Die Wasserversorgung des geschichtlichen Jericho und seiner koniglichen Anlagen,” in Mitteilungen (aus dem Leichtweiss-Institut fur Wasserbau) 115, Braunschweig/Jerusalem 1991 [worldcat](https://www.worldcat.org/title/wasserversorgung-des-geschichtlichen-jericho-und-seiner-koniglichen-anlagen-gut-winterpalaste/oclc/640203824&referer=brief_results)
 * K. Gleason, “Garden Excavations at the Herodian Winter Palace in Jericho, 1985-1987", Bulletin of the Anglo-Israel Archaeological Society, Vol. 7, 1987-8 [Jstor](https://www.jstor.org/stable/43324090?seq=1)
@@ -122,7 +122,7 @@ The plan reveals seven rows of up to eleven pots per row, although directly in f
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Jericho](https://pleiades.stoa.org/places/687917)
 
@@ -130,12 +130,12 @@ The plan reveals seven rows of up to eleven pots per row, although directly in f
 
 [#](#)-->
 
-### Contributor
+## Contributor
 
 [Kathryn L. Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)
 (ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

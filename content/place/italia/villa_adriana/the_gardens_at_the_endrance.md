@@ -28,7 +28,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -40,13 +40,13 @@ The realization of this magnificent residence must have been a cherished dream o
 
 The gardens at the entrance of Hadrian's villa (Fig. 1, n. 3)
 
-### Keywords
+## Keywords
 
 - [flower gardens](http://vocab.getty.edu/page/aat/300008135)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [tufa](http://vocab.getty.edu/page/aat/300011712)
 
-### Garden Description
+## Garden Description
 
 The Great Entrance Hall of Hadrian's villa (Fig. 9) presents three gardens, two of which (Fig. 9, A and G) are peristyle ones.
 
@@ -56,7 +56,7 @@ b –The other garden (Figs. 9, G, and 10-11), set at the eastern side of the en
 
 c – The third garden of the Great Entrance Hall occupies its extreme western part (REICHARDT 1933, pp. 129-130). Here an unpaved courtyard circled a small temple, probably dedicated to the Imperial Lares (Fig. 9, L). The flowerbeds have still to be excavated, but, as in all the Great Entrance Hall's area the tufa is practically surfacing, this must happen also here. Therefore it is highly probable that an excavation will bring to light the flowerbeds cut in the rock for the plants.
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
@@ -64,19 +64,19 @@ c – The third garden of the Great Entrance Hall occupies its extreme western p
 
 {{< image src="10_isometric_east_garden.jpg" alt="Isometric plan of the Garden in the East sector of the Great Hall at Hadrian's Villa" title="Fig. 10: Garden in the East sector of the Great Hall, Eugenia Salza Prina Ricotti." >}}
 
-### Images
+## Images
 
 {{< image src="11_east_garden.jpg" alt="Photograph of the Garden in the East sector of the Great Hall at Hadrian's Villa" title="Fig. 11: Garden in the East sector of the Great Hall, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -102,21 +102,21 @@ unspecified
 * Mari, Reggiani, Righi, "Grande Vestibolo presso le Cento Camerelle. Indagini e restauri," in F. Filippi (ed.), *Archeologia e Giubileo. Gli interventi a Roma e nel Lazio nel Piano per il Grande Giubileo del 2000*, Napoli 2000, pp. 478-483. [(worldcat)](http://www.worldcat.org/oclc/47988378)
 * E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 323-324, fig. 80-81, 87, 134-135. [(worldcat)](http://www.worldcat.org/oclc/46784026)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

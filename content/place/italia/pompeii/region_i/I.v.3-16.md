@@ -22,7 +22,7 @@ categories:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -34,13 +34,13 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Garden
 Hospitium garden, possibly planted in antiquity.
 
-### Keywords
+## Keywords
 
 - [lararia](http://vocab.getty.edu/page/aat/300400600)
 - [stables (animal housing)](http://vocab.getty.edu/page/aat/300005015)
 - [troughs (containers)](http://vocab.getty.edu/page/aat/300220971)
 
-### Garden Description
+## Garden Description
 
 This site had been destroyed in antiquity and probably had been a *hospitium*. Excavated in 1874, the remains of a watering [trough](http://vocab.getty.edu/page/aat/300220971) for animals and a [stable](http://vocab.getty.edu/page/aat/300005015) were uncovered. Often demolished sites were planted but it could not be determined if there was vegetation present at the time of the eruption. The west wall contained an arched [lararium](http://vocab.getty.edu/page/aat/300400600) niche.
 
@@ -64,11 +64,11 @@ NEW WAY ↓↓↓↓
 <!--### Images-->
 
 
-### Dates
+## Dates
 
 Excavated 1874.
 
-### Bibliography
+## Bibliography
 
 * Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 25, no. 34.
 * Fiorelli, G. 1875. *Descrizione di Pompei*, pp. 452-453. [(worldcat)](http://www.worldcat.org/oclc/908272023)
@@ -79,19 +79,19 @@ Excavated 1874.
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

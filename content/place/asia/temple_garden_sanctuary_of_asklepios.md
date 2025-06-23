@@ -57,7 +57,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Temple Garden, Sanctuary of Asklepios
 
-### Keywords
+## Keywords
 
 - [sacred groves](http://vocab.getty.edu/page/aat/300251876)
 - [sanctuary centers (religious centers)](http://vocab.getty.edu/page/aat/300391482)
@@ -71,29 +71,29 @@ Temple Garden, Sanctuary of Asklepios
 - [palaestrae](http://vocab.getty.edu/page/aat/300007301)
 - [gymnasiums](http://vocab.getty.edu/page/aat/300007297)
 
-### Garden Description
+## Garden Description
 
 Inscriptions of the fifth and fourth centuries B.C. record certain regulations for the maintenance of a sacred grove belonging to Asklepios on the island of Kos.  Cypress trees are specifically mentioned, and it was unlawful to cut them down or remove wood from the sanctuary.  In the mid-first century B.C., however, a Roman prefect by the name of Turullius felled trees in the sanctuary to acquire timber for building ships. Caesar had him executed for this offence (Cassius Dio 51.8.3; Valerius Maximus 1.1.19).
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 
 
-### Images
+## Images
 
 
 
-### Dates
+## Dates
 
 Unspecified
 
-### Bibliography
+## Bibliography
 
 * R. Herzog, *Heilige Gesetze von Kos*, Berlin, 1928, pp. 32-33. [(worldcat)](http://www.worldcat.org/oclc/1140889143)
 
@@ -101,18 +101,18 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Grove of Asklepios at Kos](https://pleiades.stoa.org/places/814448537)
 
-#### TGN ID
+## TGN ID
 [Kos, Nísos (island)](http://vocab.getty.edu/page/tgn/7012054)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

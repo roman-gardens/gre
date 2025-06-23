@@ -33,7 +33,7 @@ draft: false
 Garden of the Porticus of Pompey \
 [Porticus Pompei](https://pleiades.stoa.org/places/165546433)
 
-### Keywords
+## Keywords
 
 - [cavea](http://vocab.getty.edu/page/aat/300004734)
 - [colonnade](http://vocab.getty.edu/page/aat/300002613)
@@ -62,7 +62,7 @@ Garden of the Porticus of Pompey \
 - [Vitruvius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476)
 
 
-### Garden Description
+## Garden Description
 
 Completed in 55 BCE on the [*Campus Martius*](https://en.wikipedia.org/wiki/Campus_Martius), the [*Porticus Pompeianae*](https://en.wikipedia.org/wiki/Portico_of_Pompey), or *Porticus of Pompey*, was Rome’s first public park ([Plin. *HN* 37.6.13](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:37.6); [Propertius 2.32.11](http://data.perseus.org/citations/urn:cts:latinLit:phi0620.phi001.perseus-lat2:2.32) | [Trans.]((https://hdl.handle.net/2027/uc1.aa0016309106?urlappend=%3Bseq=179)); [Vitruvius *De Arch.* 5.9.1](http://data.perseus.org/citations/urn:cts:latinLit:phi1056.phi001.perseus-lat1:5.9.1)). Funded by the eastern victories of the general [Gnaeus Pompeius Magnus](https://en.wikipedia.org/wiki/Pompey), the [*Porticus*](http://vocab.getty.edu/page/aat/300004145) comprised a double [*nemus*](http://vocab.getty.edu/page/aat/300008884), enclosed by a [*quadriporticus*](http://vocab.getty.edu/page/aat/300004101), and a [*curia*](https://en.wikipedia.org/wiki/Curia). The western end of the precinct featured his theater-temple complex. The [Pompeium Theatrum](https://en.wikipedia.org/wiki/Theatre_of_Pompey) was the first permanent stone [theater](http://vocab.getty.edu/page/aat/300007117) constructed in Rome; its [*cavea*](http://vocab.getty.edu/page/aat/300004734) served as the steps to Pompey’s victory [temple](http://vocab.getty.edu/page/aat/300007595), dedicated to his protector, [Venus Victrix](https://en.wikipedia.org/wiki/Venus_(mythology)).
 
@@ -84,7 +84,7 @@ The *Porticus Pompeianae* not only functioned as a victory monument and politica
 
 Augustus’ remodeling of the theater and *porticus* (in 32 BCE), discussed above, minimized the political nature of the space and instead emphasized the *porticus* as a space of pleasure. After a fire in 80 CE, [Domitian](https://en.wikipedia.org/wiki/Domitian) restored the complex. It also burned during the reign of [Carinus](https://en.wikipedia.org/wiki/Carinus) (283–85 CE) and was restored by [Diocletian](https://en.wikipedia.org/wiki/Diocletian).
 
-### Figures
+## Figures
 
 {{< image src="porticus_of_pompey_fig1.jpg" alt="A restored plan of the Porticus of Pompey based on the Marble Plan, the archaeological remains of the Republic temples, and on the foundations of the theater" title="Fig. 1. Restored plan of the Porticus Pompeianae based on the Marble Plan, the archaeological remains of the Republic temples, and the foundations of the theater. Gleason, 1994, p.16." >}}
 
@@ -94,11 +94,11 @@ Augustus’ remodeling of the theater and *porticus* (in 32 BCE), discussed abov
 
 {{< image src="porticus_of_pompey_fig4.jpg" alt="Sketch of the view along the central axis from the curia to the temple of Venus Victrix atop the theater after the erection of a permanent stage building by Augustus; the unity of the space is lost due to the erection of scaena; the temple cannot be seen at all" title="Fig. 4. The view along the central axis from the Curia to the Temple of Venus Victrix atop the theater after the erection of a permanent stage building by Augustus; the unity of the space is lost due to the erection of the scaenae. The temple cannot be seen at all. © Lori Cockerham Catalano." >}}
 
-### Dates
+## Dates
 
 55 BCE
 
-### Bibliography
+## Bibliography
 
 * F. Coarelli, *Il Campo Marzio*, Rome, 1997, pp. 539-79. [(worldcat)](http://www.worldcat.org/oclc/906743621)
 * P.A., Gianfrotta, O. Mazzucato, M., Polia, “Scavo nell’area del Teatro Argentina 1968-69,” *Bollettino della Commissione Archaeologica Comunale di Roma* 81 (1968-69), pp. 25-36. [(worldcat)](http://www.worldcat.org/oclc/43879063)
@@ -110,20 +110,20 @@ Augustus’ remodeling of the theater and *porticus* (in 32 BCE), discussed abov
 * M. Gagliardo and J.Packer “A New Look at Pompey’s Theater: History, Documentation, and Recent Excavation,” *American Journal of Archaeology* Vol. 110, No. 1 (January 2006), pp. 93–122. [(worldcat)](http://www.worldcat.org/oclc/604029789)
 * E. Macaulay-Lewis, “Use and Reception,” in *A Cultural History of Gardens in Antiquity*, ed. K.L. Gleason, London, 2013, pp. 99–118. [(worldcat)](http://www.worldcat.org/oclc/968535933)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Porticus Pompei](https://pleiades.stoa.org/places/165546433)
 
-### Contributors
+## Contributors
 
 [Elizabeth Macaulay](https://emacaulaylewis.com)\
 [Kathryn Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)
 
-#### ORCID
+## ORCID
 
 [Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)\
 [Kathryn Gleason (0000-0001-6260-8378)](https://orcid.org/0000-0001-6260-8378)
 
-### Publication date
+## Publication date
 
 17 April 2021

@@ -39,7 +39,7 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Villa de Châtillon-sur-Seiche
 
-### Keywords
+## Keywords
 - [barn](http://vocab.getty.edu/page/aat/300004900)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [trenches](http://vocab.getty.edu/page/aat/300008022)
@@ -49,7 +49,7 @@ Villa de Châtillon-sur-Seiche
 - [forecourt](http://vocab.getty.edu/page/aat/300004104)
 
 
-### Garden Description
+## Garden Description
 
 Six kilometers south of Rennes, this village with medieval churches and pleasant promenades along the banks of the Seiche must once have been the site of *castellum* from which the name Châtillon derives. The fort was probably on a mound a few hundred meters southwest of the ancient farm and villa described here.
 
@@ -76,27 +76,27 @@ Was there a garden? Within the *courtyard,* there is no direct evidence of plant
 A study of pollens and sediments below the levels of the Gallo-Roman villa in a paleosol dated to the late first century BC or early first century AD has revealed the environment of the farm at that time. It shows a soil already worked and gardened by man and the presence of pollens of cereals. The countryside, already totally or partially cleared combined various trees – pine, hazel, oak, holly and linden – with ferns and herbaceous plants, especially grasses and plantains characteristic of prairies and grasslands. A comparison with the quantities of pollens found in the soils of the villa in the second and third centuries shows relative stability of the percentages, as shown in figure 5. While interesting, these findings describe the environment rather than the gardens themselves.
 
 
-### Maps
+## Maps
 
 {{< image src="noyal1.jpg" alt="These images are three maps that show the development of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) over time from 1 year A.D. or after J.C. to 180 A.D. or J.C." title="A Map of Land Development Over Time." >}}
 
-### Plans
+## Plans
 
 {{< image src="noyal2.jpg" alt="Two maps with developed and labeled plans of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) from 180 A.D. or J.C. to the villa in the middle of the third century A.D. or J.C." title="Plans of Land Development Over Time." >}}
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 {{< image src="noyal_photo.jpg" alt="A grainy photograph of an archaeological dig of the fountain bassin." title="The Fountain Bassin." >}}
 
 {{< image src="noyal_section.jpg" alt="A section drawing of a fountain. A female figure stands in the center with water spewing out of a column. There are two extra, unadorned pedastals in the fountain drawing before getting to the fountain's edge." title="Reconstructed cut of the Fountain Bassin." >}}
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - Alain Provost, “La villa gallo-romaine de Chatillon-sur-Seiche,” in the catalog of the exposition  *Nos ancêtres les Riedones*, Musée de Bretagne- Eco-musée du pays de Rennes, Rennes, 20 juin, 31 déc. 1990, p. 10-31 [(worldcat)](http://www.worldcat.org/oclc/715516488)
 - Gilles Leroux, Alain Provost, CAG- Ille-et-vilaine (35), p. 270-274. [(worldcat)] (http://www.worldcat.org/oclc/463616145)
 
@@ -105,17 +105,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Châtillon-sur-Seiche](https://pleiades.stoa.org/places/69488)
 
-#### TGN ID
+## TGN ID
 [Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
 
-### Contributor
+## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

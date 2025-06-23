@@ -26,7 +26,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -34,7 +34,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula IV]({{<relref "#">}})
 
-### Keywords
+## Keywords
 - [lararia](http://vocab.getty.edu/page/aat/300400600)
 - [cauponae](http://vocab.getty.edu/page/aat/300005208)
 - [latrine](http://vocab.getty.edu/page/aat/300007951)
@@ -43,10 +43,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Garden at the rear of the [Caupona](http://vocab.getty.edu/page/aat/300005208) of Copious.
 
 
-### Garden Description
+## Garden Description
 This modest [caupona](http://vocab.getty.edu/page/aat/300005208) had a garden at the rear that was raised one step higher than the rest of the building. It once had a masonry altar with a [lararium](http://vocab.getty.edu/page/aat/300400600) painting above but both of these have been lost. A [latrine](http://vocab.getty.edu/page/aat/300007951) was located at the southeast corner of the garden.
 
-### Bibliography
+## Bibliography
 
 * Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 25, no.31 [(worldcat)](https://www.worldcat.org/title/corpus-of-the-lararia-of-pompeii/oclc/892026154&referer=brief_results) (incorrectly calls the garden a room)   
 * Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 68    
@@ -60,20 +60,20 @@ This modest [caupona](http://vocab.getty.edu/page/aat/300005208) had a garden at
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-###  Excavation Dates
+##  Excavation Dates
 Excavated 1853 and 1863.
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->

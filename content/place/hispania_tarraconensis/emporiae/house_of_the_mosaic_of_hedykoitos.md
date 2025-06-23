@@ -17,7 +17,7 @@ categories:
 [Hispania Tarraconensis]({{<relref "..">}}) \
 [Tarraconensis(Pleiades)](https://pleiades.stoa.org/places/981551)
 
-### Province Description
+## Province Description
 In 236 BC, to offset Carthage's loss of Sicily and Sardinia in the First Punic War, Hamilcar Barca led an expedition into Hispania to establish a colony there.  Through force of arms and diplomacy, he spread Carthaginian influence as far north as Barcellona, which bears his name.   In 230 BC, Hasdrubal, his son-in-law, established Qart Hadast that became Carthago Nova in Roman times and Cartagena today.  After the death of Hasdrubal, Hannibal, Hamilcar's oldest son, took command, attacked Saguntum, and in 218 set out for Italy leaving his younger brother, Hasdrubal, in command in Spain.  Through the Alps, he descended into Italy and threatened Rome for fourteen years.  Roman armies under the brothers Gnaeus and Publius Cornelius Scipio kept Hasdrubal in check and prevented his reinforcing Hannibal. They were both killed by the Carthaginians in 212.  Two years later, another Publius Cornelius Scipio, the  25-year-old son of the late general of the same name, was sent to Spain.  The next year, he captured New Carthage and, in 206 at the battle of Ilipa (about 15 km north of Savilla) destroyed most of the Carthaginians' numerically superior army and ended their hold on Spain.  Scipio settled his wounded veterans nearby at a place he called Italica to remind them of their origins.  Today, it is one of the best Roman archaeological sites in Italy.   After a quick trip back to Rome, where he was elected consul, he returned to Spain and went on to attack Carthage itself.  Hannibal was recalled to Africa, but Scipio annihilated his army in 202.  Rome thus came into possession of the Mediterranean coast of Iberia.
 
 If Rome was drawn into Hispania to keep the Carthaginians there from supporting Hannibal in Italy, it missed the opportunity offered by Hannibal's defeat to get out of Spain honorably.   Instead, in 197 BC it created two new Roman provinces, Hispania Citerior whose capital was Carthago Nova and Hispania Ulterior with Corduba as its capital.  Soon after, Rome launched a long war to subjugate the Lusitani, Celtiberians on the west coast.  During Sulla's dictatorship, the Lusitani were again in revolt, this time under the able leadership of the Roman general Quintus Sertorius, who sought to create an independent, Roman-like state in Hispania. He established a senate and schools for the sons of the local nobility.  
@@ -33,7 +33,7 @@ There has been little research on the gardens in the Roman settlements in Spain 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
 
-### Bibliography
+## Bibliography
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](http://www.worldcat.org/oclc/1090911182)
 
 - P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](http://www.worldcat.org/oclc/640067386)
@@ -48,7 +48,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 [Emporiae](https://pleiades.stoa.org/places/246382)
 
 
-### Location Description
+## Location Description
 As Strabo (3.4.8) tells us, Greeks from Phokaia, by way of Massalia (Marseilles), established a market town (Emporion) here.  Archaeology gives a date of approximately 575- 550 BC.  The original settlement was on an island in the mouth of the Fluvià River. About 550, the settlement began to spread south onto the mainland, and the original settlement became known as Palaiapolis, the Old City.  For clarity, archaeologists have given this Greek settlement on the mainland the corresponding name of Neapolis, New City.  The plural form of the Latin name for the area – Emporiae, “markets” –  reflects the dual nature of the city.  Though literary sources mention other Greek settlements along the coast of the Iberian Peninsula, this is the only one known archaeologically.  
 
 Not only was Emporion the point of first contact between the Celtoiberians and Hellenic civilization, it was also here that, in 218 B.C., Roman armies first entered Iberia.  The Roman consul Publius Cornelius Scipio reached Massalia too late to intercept Hannibal on his march into Italy, so he dispatched his brother Cnaeus with part of his forces to Emporion to cut Hannibal's supply lines, while he himself returned to engage the Carthaginian in the Po valley.
@@ -60,7 +60,7 @@ Neapolis was abandoned in the course of the second half of the first century AD.
 Publicly funded excavation of the northeastern part of Neapolis and the forum of the Roman City was conducted in 1846-8.  Further systematic studies were conducted from 1908 to 1936 under E. Gandía, who took a great interest in stratigraphy before it was common to do so.  The Spanish Civil War brought this work to an end, but Gandía's day books have been preserved.  Work was resumed in the 1940's and 1950's by M. Almagro, with recent work by R. Mar and J. Ruiz de Arbulo, and B. Tang.  Tang emphasizes that it is often difficult or impossible to determine whether a space in a house in Neapolis was open or covered.  The difficulty should not be so great in the case of gardens, for any sort of paving or hammered earth rules out the possibility of a garden. She identifies gardens in N5 and N7 and notes  that also N 52 near the northern end of the western edge and N 75 on the  northern edge “appear to have been provided with gardens or terraces.”
 
 
-### Bibliography
+## Bibliography
 - M.A. Basch, Ampurias; *historia de la ciudad y guía de las excavaciones*. Barcelona, 1951 [(worldcat)](http://www.worldcat.org/oclc/802755367)
 
 - A. Balil Iliana, *Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana*, in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid,  1972 [(worldcat)](http://www.worldcat.org/oclc/7243478)
@@ -72,31 +72,31 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 - B. Tang, *Delos, Carthage, Ampurias, The Housing of Three Mediterranean Trading Centers*, Bretschneider, Rome, 2005. [(worldcat)](http://www.worldcat.org/oclc/57730335)
 
 
-### Plans
+## Plans
 {{< image src="HIS_TAR_Emp_plan_fig2.jpg" alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." title="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." >}}
 
-### Images
+## Images
 {{< image src="HIS_TAR_Emp_aerial_viewfig1.jpg" alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." title="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." >}}
 
 
 ## Garden
 House of the Mosaic of Hedykoitos
 
-### Keywords
+## Keywords
 - [atrium houses](http://vocab.getty.edu/page/aat/300005451)
 - [city walls](http://vocab.getty.edu/page/aat/300005072)
 
 
-### Garden Description
+## Garden Description
 This house in the northwest corner of Neapolis backs onto the edge of the city, against the western wall. It had gardens or terraces on its outside edges.
 
 
-### Plans
+## Plans
 {{< image src="HIS_TAR_Emp_Hedykoitos_fig1.jpg" alt="Plan of the House of the Mosaic of Hedykoitos." title="Plan of the House of the Mosaic of Hedykoitos.  Adapted from Mar and Ruiz de Arbulo." >}}
 
 
 
-### Dates
+## Dates
 Unspecified
 
 <!---doesn't have ## Bibliography-->
@@ -106,16 +106,16 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Emporiae](https://pleiades.stoa.org/places/246382)
 
-#### TGN ID
+## TGN ID
 [Clunia (deserted settlement)](http://vocab.getty.edu/page/tgn/7027125)
 
-### Contributor
+## Contributor
 AUTHOR_ID
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

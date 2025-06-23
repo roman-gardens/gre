@@ -25,7 +25,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -33,17 +33,17 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula II]({{<relref "#">}})
 
-### Keywords
+## Keywords
 - [impluvia](http://vocab.getty.edu/page/aat/300129867)
 
 ## Garden
 Small house with a planting bed around an indoor [impluvium](http://vocab.getty.edu/page/aat/300129867).
 
-### Garden Description
+## Garden Description
 This humble house was excavated in 1873. It had no garden but the [impluvium](http://vocab.getty.edu/page/aat/300129867) was surrounded by a low masonry wall. The top contained a planting bed which served as a small garden.
 
 
-### Bibliography
+## Bibliography
 
 * Fiorelli, G. 1875. *Descrizione di Pompei*, p. 42 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)   
 * Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 22 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
@@ -54,20 +54,20 @@ This humble house was excavated in 1873. It had no garden but the [impluvium](ht
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-###  Excavation Dates
+##  Excavation Dates
 Excavated 1869 and 1873. Bombed in 1943.
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
 [Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [saint-roman-en-gal]({{<relref ".">}}) \
 [saint-roman-en-gal (Pleiades)]()
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -37,7 +37,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [House of the Ocean Gods](#)
 
-### Sublocation Description
+## Sublocation Description
 
 The northern end of this vast house is just west of the House of Five Mosaics and in the same insula. From the Passage des Grands Entrepôts along this northern limit, it runs over 100 meters southward to the “Voie I” along the south side of the archaeological site. The eastern edge is about 230 meters west of the Rhone. No less than five names have been given to the houses occupying part or all of the site. The following table of these names with approximate dates may help the reader keep them straight. The final house runs just over 100 meters from south to north. The first two houses covered only about the first 66 meters from the south, up to the noticeable kink in the north-south lines. The third house in the above list, the House of the Large Peristyle, was limited to the area north of this kink. The fourth house combined these two, while the last rebuilt the whole area keeping only the outline and a few walls. We describe the houses in chronological order. All plans for these houses are from La maison des dieux ocean, Equipe archèologique departmentale de Saint-Romain-en-Gal, published by Aglas, 1996.
 
@@ -48,7 +48,7 @@ The northern end of this vast house is just west of the House of Five Mosaics an
 House of Gilded Stones
 
 
-### Keywords
+## Keywords
 
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
@@ -64,7 +64,7 @@ House of Gilded Stones
 
 
 
-### House Description
+## House Description
  
 The living space was organized in U on three side of a garden with peristyle.  An entrance on the south formed part of a porch [1] which led to the large vestibule [8] (8.5 x 6.4 m) which opened directly onto the peristyle [23]. From the stratigraphy of the soil it is not possible to know whether this peristyle court was planted or whether it was tamped earth. This courtyard (15.7 x 11.4 m) with an open area of 230 square meters is surrounded on all four sides by porticoes 2.5 meters wide. The columns have disappeared. A column with a phallus-formed top formed a fountain that was perhaps part of the décor of the peristyle; the column rested on a socle pierced by a channel for a conduit of lead which continued through the center of the column. A rectangular pool (7 x 3 m) with a semicircular apse of 2.5 meter diameter, perhaps ornamented by a fountain, occupied the northern half of the central area of the peristyle court. A lead pipe coming from the baths supplied water. The drain cut diagonally across the southern half of the courtyard and continued to the wall along the east side of the house, where it turned and ran parallel to this wall down to the channeled stream on the other side of the street to the south of the house..
 On the west were rooms with concrete floors, perhaps bedrooms, except for the central room of the wing [16] (5 x 4.2 m) with a somewhat elevated floor in *opus signinum*.
@@ -82,7 +82,7 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="house_of_the_gilded_stones.png" alt="Plan of House of the Gilded Stones" title="Plan of House of the Gilded Stones" >}}
 
@@ -90,11 +90,11 @@ NEW WAY ↓↓↓↓
 
 
 
-### Dates
+## Dates
 
 A.D. 20 – A.D. 60
 
-### Bibliography
+## Bibliography
 
 1. Laroche, H. Savay-Guerraz, E. Chantriaux et al. *Guides Archéologiques De La France*. Saint-Romain-en-Gal: Conseil général du Rhône, Equipe archéologique de Saint-Romain-en-Gal, 1984, P. 46-57[worldcat](http://www.worldcat.org/oclc/234328026)
 
@@ -111,21 +111,21 @@ A.D. 20 – A.D. 60
 7. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271, fig 189.[worldcat](http://www.worldcat.org/oclc/43416334)
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Saint-Romain-en-Gal (inhabited place)](http://vocab.getty.edu/page/tgn/5004109)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

@@ -44,7 +44,7 @@ While the general settlement of Jebel Khalid appears to have been systematically
 ## Garden
 Acropolis Palace at Jebel Khalid
 
-### Keywords
+## Keywords
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
@@ -52,7 +52,7 @@ Acropolis Palace at Jebel Khalid
 - [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
 - [trenches](http://vocab.getty.edu/page/aat/300008022)
 
-### Garden Description
+## Garden Description
 It is apparent that there was once a large limestone outcrop within the Acropolis at the highest point of the Jebel range, providing panoramic views of the Euphrates valley (figs. 3 and 4: overall plan of the site and ground plan of Acropolis palace). This outcrop was quarried to a rough level terrace, leaving a rocky bluff (and evident quarry face) on the western side, against which a stout retaining wall was built, also serving as the exterior western wall of the building.  Nowhere, even in foundation trenches, is there any trace of previous occupation. This building was laid out on a virgin site, or the initial quarrying operations totally cleared away any vestige of any earlier habitation. The coin and stamped amphora handle evidence confirms a third-century BCE construction date.
 
 The building was planned around a square central courtyard, 'room 26' (measurements from central point of column bases are N.17100mm, S.17100mm, E.17800mm, W.17840mm; measurements from the corners of 'room 26' are N.25.3m, S.25.1m, E.26.2m, W.26.0m). The bedrock floor of this courtyard was evidently quarried to drain towards a large cistern in the southeast corner, conveniently located close to a major entertainment room (room 20) with two store-rooms and kitchens (rooms 19 and 21) to either side of it. This cistern is bell-shaped and subsequent excavation has revealed that it was lined with an impermeable plaster; it has a roughly circular mouth, 1.5 meter wide, a depth of 6.6 m, and maximum width of 6.7 m. No well-head was found. While it can be assumed that water from the roofs of the surrounding courtyard rooms was collected, no evidence was found for a drainage system into this cistern, although a settling pond and sluice arrangement has been uncovered by excavation. Indeed, there could have been large pithoi or barrels to collect water from lion-headed waterspouts overhead (fig. 5: example of lion-headed water-spout).
@@ -61,7 +61,7 @@ A circular stand was found carved into the bedrock (c. 5 cm deep, 37~38 cm in di
 
 A stylobate was laid on the four sides of this courtyard on leveled bedrock using ashlar blocks with neatly drafted edges (av. dimensions: 0.860 m x 0.680 m and 0.210~0.260 m deep, but there is considerable variation) with some rustication visible on the courtyard side below the courtyard floor level (fig. 7 details of stylobate). The colonnade is decastyle, with ten columns to a side, 36 in total. A deep and unusually wide foundation trench was cut in front of the stylobate on the courtyard side—going down in places 0.97 m from paving level and being up to 0.82 m wide (fig. 8: excavated garden bed.) Normally one would expect such a trench to be filled with builders' rubble and chippings, but in this case, it was filled with rich brown, nitrogenous soil (not the light grey wind-blown dust that has accumulated over time elsewhere at the site). It seems clear that a formal garden was installed around the inside perimeter of much of the courtyard, easily watered from the roof-water collection. Soil samples were taken but have yet to be analysed: there is no other sign of courtyard planting.  As such, it constitutes the earliest recorded courtyard garden in a Greek building and it helps to explain the sudden appearance of such plantings in the courtyards of southern Italian houses such as at Pompeii in the second century BCE.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -69,7 +69,7 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 
 {{< image src="asia_syria_jebkhl_gclark_1.jpg" alt="Map showing location of Jebel Khalid within the borders of Syria" title="Fig. 1: Location map of Jebel Khalid">}}
 
-### Plans
+## Plans
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
@@ -77,7 +77,7 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 
 {{< image src="asia_syria_jebkhl_gclark_3.jpg" alt="Ground plan of the Acropolis palace" title="Fig. 3: Ground plan of the Acropolis palace">}}
 
-### Images
+## Images
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -93,10 +93,10 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 
 {{< image src="asia_syria_jebkhl_gclark_8.jpg" alt="Excavated garden bed" title="Fig. 8:  Excavated garden bed" >}}
 
-### Dates
+## Dates
 3rd century BCE
 
-### Bibliography
+## Bibliography
 - G. Clarke. "Greek Graffiti from North Syria." *Mediterranean Archaeology* 5/6 (1992/3): 117-120, plates 39-40.  
 - ibid. "Jebel Khalid on the Euphrates: The Acropolis Building." Proceedings of the Second Macedonian Conference, Melbourne, in *Mediterranean Archaeology* 7 (1994): 69-75, plates 1-3.
 - ibid., ed., "Jebel Khalid on the Euphrates: Report on Excavations 1986-1996." *Meditarch Suppl.* 5 (2002): 25-48, plates IV-VIII and 10-25.
@@ -106,16 +106,16 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Acropolis palace at Jebel Khalid](https://pleiades.stoa.org/places/167649937)
 
-#### TGN ID
+## TGN ID
 [#](#)
 
-### Contributor
+## Contributor
 [Graeme Clark](#)
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

@@ -27,7 +27,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -36,35 +36,35 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VII]({{<relref ".">}})
 
 
-### Keywords
+## Keywords
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [palaestrae](http://vocab.getty.edu/page/aat/300007301)
 
 
-### Garden Description
+## Garden Description
 Colonnaded [porticoes](http://vocab.getty.edu/page/aat/300004145) encircled the [palaestra](http://vocab.getty.edu/page/aat/300007301) on the south, west and north. A large swimming pool (34.55 m x 22.25 m) was located in the center. Casts made of tree cavities planted eight meters apart in two rows around the north, west and south sides of the enclosed area indicated that these were plane trees, just under one hundred years old.
 
 <!--### Plans
 {{< image src="../../fig._61,_plan_of_region_ii,_insula_vii.png" alt="Fig. 61, Plan of Region II, insula vii, plan in Maiuri, NSc(1939), pl.9" title="Fig. 61, Plan of Region II, insula vii, plan in Maiuri, NSc(1939), pl.9" >}}-->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Dates
+## Dates
 Excavated 1814 to 1816, 1933, and 1935 to 1939.
 
-### Bibliography
+## Bibliography
 * Jashemski, W. 1979. *Gardens of Pompeii*, vol.I, pp.160-161 and fig. 246 on p.161  [(worldcat)](http://www.worldcat.org/oclc/884024123)
 * Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.92 [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Maiuri, A. 1939. *Notizie degli scavi di antichità*, pp.193-195 and pl.9 (plan shows only a part of the root cavities found).[(worldcat)](http://www.worldcat.org/oclc/1646037)
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

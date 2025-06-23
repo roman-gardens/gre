@@ -44,7 +44,7 @@ categories:
 
 Villa of the Statue
 
-### Keywords
+## Keywords
 
 - [archaeological garden](#)
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
@@ -67,7 +67,7 @@ Villa of the Statue
 - [apsed triclinium]
 - [archaeological garden]
 
-### Garden Description
+## Garden Description
 
 A villa dating from the first century B.C. to at least the time of Marcus Aurelius was discovered near the modern via Miramare in Barcola.  It overlooked the sea to the west and had a portico at the south (Fig. 1: B), with rooms opening onto it. The main nucleus of the villa unfolded around a rectangular garden surrounded by porticoes on all four sides (the long sides measure 24.5 m.; the short ones 15.2; Fig. 1: U).  A rectangular brick pool with a black mosaic pavement was in the north-east portion of the garden (Fig. 1: a). It pre-dates the portico, since it was partly destroyed by the paving of the north-east portico.  A terminus post quem for the construction of the portico was determined by a coin of Nero, found inside the pool.
 
@@ -88,15 +88,15 @@ NEW WAY ↓↓↓↓
 -->
 
 
-### Dates
+## Dates
 
 100 B.C.
 
-#### Excavation Date
+## Excavation Date
 
 19th century
 
-### Bibliography
+## Bibliography
 
 *  M. De Franceschini, 1998, *Le ville romane della X regio: Venetia et Histria. Catalogo e carta archeologica dell’insediamento romano nel territorio, dall’età repubblicana al tardo impero*, Roma.[(worldcat)](http://www.worldcat.org/oclc/1071842281)
 
@@ -105,19 +105,19 @@ NEW WAY ↓↓↓↓
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Tergeste](https://pleiades.stoa.org/places/187578)
 
-#### TGN ID
+## TGN ID
 
 [Trieste (inhabited place)](hhttp://vocab.getty.edu/page/tgn/7005539)
 
-### Contributor
+## Contributor
 
 [Brady Kiesling](https://pleiades.stoa.org/author/bkiesling)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

@@ -26,51 +26,51 @@ categories:
 
 ## Sublocation
 
-### Sublocation Description
+## Sublocation Description
 
 ## Garden
 
 Tomb Garden of Anonymous
 
-### Keywords
+## Keywords
 
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 
-### Garden Description
+## Garden Description
 A funerary plaque (evidently complete) discovered in 1861 beside the Via Praenestina near Tor Sapienza records the dimensions of a tomb plot “with a garden enclosed by a wall” eighty-one and a half feet in frontage, forty-three and a half feet in depth (c. 320 square meters).		
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
-### Images
+## Images
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian,  BCom 92 (1987-88) [1989][1989] 178 n. 20. [worldcat](https://www.worldcat.org/title/horti-sepulchrales-e-cepotaphia-nelle-iscrizioni-urbane/oclc/886794800&referer=brief_results)
 
 <!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Via Praenestina](https://pleiades.stoa.org/places/622606468)
 
-#### TGN ID
+## TGN ID
 
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 <!--### Related articles-->
 

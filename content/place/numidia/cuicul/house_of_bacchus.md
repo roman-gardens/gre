@@ -39,7 +39,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 
 {{< image src="cuicul_house_of_bacchus.jpg" alt="Plan of Cuicul." title="Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
-### Location Description
+## Location Description
 
 The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.
 
@@ -51,7 +51,7 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 
 House of Bacchus, building south of the Great Baths (Maison de Bacchus, édifice au sud des Grands Thermes)
 
-### Keywords
+## Keywords
 
 - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
@@ -63,7 +63,7 @@ House of Bacchus, building south of the Great Baths (Maison de Bacchus, édifice
 - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 - [venus](#)
 
-### Garden Description
+## Garden Description
 
 The large block of buildings called the "House of Bacchus", (about 7000 m2) has three separated gardens A, B, C and a peristyle VI. This site has been excavated during four periods (1929, 1931,1937 and 1944).
 
@@ -75,18 +75,18 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 
 
 
-### Plans
+## Plans
 
 {{< image src="house_of_bacchus_plan_new1.jpg" alt="Plan of the House of Bacchus." title="Fig. 1: Plan of the House of Bacchus (Dans les jardins de Djemila, Blanchard-Lemée, M., 1998, p. 194, fig. 9)">}}
 
-### Images
+## Images
 {{< image src="house_of_bacchus_plan_photo1.jpg" alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc" title="Fig. 2: The small peristyle garden B and its semi circular basin (Février, P.-A. – CCJ 62889))">}}
 
 {{< image src="pool_and_fish_pool.jpg" alt="The pool and fish pool." title="Fig. 3: The pool and fish pool (Février, P.-A.– CCJ 62945)">}}
 
 {{< image src="fish_pool.jpg" alt="The fish pool." title="Fig. 4: The fish pool (Février, P.-A.– CCJ 62886)">}}
 
-### Dates
+## Dates
 
 3nd-5th century CE
 
@@ -94,7 +94,7 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 
 1929, 1931, 1937, 1944
 -->
-### Bibliography
+## Bibliography
 
 * Blanchard-Lemée, M., "Dans les jardins de Djemila", in *Antiquités Africaines*, 34, 1998, pp. 185-197, Il fig. [(worldcat)](http://www.worldcat.org/oclc/4824686051)
 * Blanchard-Lemée, M., "La Maison de Bacchus à Djemila: Architecture et décor d'une grande demeure provinciale à la fin de l'antiquité", in *Bulletin archéologique du CTHS.*, NS, fasc. 17 B (Colloque sur l'archéologie et l'histoire de l'Afrique du Nord, Perpignan, 1981), 1984, pp. 131-143. [(worldcat)](http://www.worldcat.org/oclc/848793520)
@@ -102,15 +102,15 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 * Malek, A.-A., "Le jardin au fil de l’eau:  mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l’époque romaine*, eds, V. Brouquier-Reddé et F. Hurlet, Bordeaux, Ausonius, 2018, pp. 248-249. [(worldcat)](http://www.worldcat.org/oclc/1078217356)
 * Malek, A.-A. "De l’espace pictural à l’espace du jardin : mosaïques et jardins dans les domus de l’Afrique romaine", in *Archéologie des jardins: analyse des espaces et méthodes d’approches*,  Van Ossel, P.,  Guimier-Sorbets, A.-M. (dir.), Archéologie et histoire romaine 26, Editions Monique Mergoil, 2014, p. 20. [(worldcat)](http://www.worldcat.org/oclc/869205223)
 
-#### Pleiades ID
+## Pleiades ID
 [Cuicul](https://pleiades.stoa.org/places/305068)
-#### TGN ID
+## TGN ID
 
-### Contributor
+## Contributor
 
 [Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)
 
-### Publication date
+## Publication date
 21 Apr 2021
 <!--07 July 2020-->
 

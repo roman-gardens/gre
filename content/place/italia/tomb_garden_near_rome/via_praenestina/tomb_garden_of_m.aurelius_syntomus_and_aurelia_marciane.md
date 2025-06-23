@@ -27,50 +27,50 @@ categories:
 
 ## Sublocation
 
-### Sublocation Description
+## Sublocation Description
 
 ## Garden
 
 Tomb Garden of M. Aurelius Syntomus and Aurelia Marciane
 
-### Keywords
+## Keywords
 
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 
-### Garden Description
+## Garden Description
 A marble slab found in 1745 near a circular tomb monument beside the Via Praenestina at the first mile from the Porta Maggiore records “a building with tomb garden (cepotaphium) and monument (memoria)” built up from the ground by M. Aurelius Syntomus and his wife Aurelia Marciane for themselves, their son and daughter, and their freedmen and descendants, probably some time in the late second or third century.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
-### Images
+## Images
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian, BCom 92 (1987-88) [1989] 176 n. 7. [worldcat](https://www.worldcat.org/title/horti-sepulchrales-e-cepotaphia-nelle-iscrizioni-urbane/oclc/886794800&referer=brief_results)
 
 <!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 
-#### TGN ID
+## TGN ID
 
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
 
-### Publication date
+## Publication date
 
 <!--### Related articles-->
 

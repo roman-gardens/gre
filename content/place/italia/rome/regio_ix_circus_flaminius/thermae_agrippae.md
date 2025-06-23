@@ -37,7 +37,7 @@ tags:
 Garden of the Thermae Agrippae \
 [Thermae Agrippae](https://pleiades.stoa.org/places/22073979)
 
-### Keywords
+## Keywords
 
 - [canals (waterways)](http://vocab.getty.edu/page/aat/300006075)
 - [gymnasium](http://vocab.getty.edu/page/aat/300007297)
@@ -57,7 +57,7 @@ Garden of the Thermae Agrippae \
 - [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
 
 
-### Garden Description
+## Garden Description
 
 Knowledge of this [*thermae*](http://vocab.getty.edu/page/aat/300007364), or bathing complex, and its associated public gardens comes from textual evidence and the [Severan Marble Plan (*FUR*)](https://formaurbis.stanford.edu/fragment.php?record=1&field0=all&search0=agrippa&op0=and&field1=all) (Figs. 1–2). Located in the central [*Campus Martius*](https://en.wikipedia.org/wiki/Campus_Martius), [Agrippa](https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa)’s *thermae,* the [*Thermae Agrippae*](https://en.wikipedia.org/wiki/Baths_of_Agrippa), were associated with his [*horti*](http://vocab.getty.edu/page/aat/300008107); upon his death in 12 BCE, he left both to the Roman people, free of charge ([Cass. Dio 54.29.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0385.tlg001.perseus-grc1:54.29.4) |  [Trans.](https://bit.ly/CDioE54)).
 
@@ -69,17 +69,17 @@ Agrippa also placed famous works of art within the complex. The baths contained 
 
 The *Thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](http://data.perseus.org/citations/urn:cts:greekLit:tlg0385.tlg001.perseus-grc1:66.24) | [Trans.](https://bit.ly/CDioE66)) and was restored quickly by [Titus](https://en.wikipedia.org/wiki/Titus) or [Domitian](https://en.wikipedia.org/wiki/Domitian) ([Martial 3.20.15, 36.6](http://data.perseus.org/texts/urn:cts:latinLit:phi1294.phi002) | [Trans.](https://topostext.org/work/677)). Restorations by [Hadrian](https://en.wikipedia.org/wiki/Hadrian), [Constantius](https://en.wikipedia.org/wiki/Constantius_II) and [Constans](https://en.wikipedia.org/wiki/Constans) are known. According to [Sidonius Apollinaris](https://en.wikipedia.org/wiki/Sidonius_Apollinaris), the baths are mentioned in the Regionary Catalogues and were still in use in the fifth century ([*Carm.* 23.496](http://data.perseus.org/citations/urn:cts:latinLit:stoa0261.stoa0001.perseus-lat1:23) | [Trans.](http://archive.org/details/poemsletterswith01sidouoft/page/316/mode/2up?view=theater)).
 
-### Figures
+## Figures
 
 {{< image src="thermae_agrippae_fig1.jpg" alt="Marble Plan Fragment" title="Fig. 1. Marble Plan Fragment (Yegül, fig. 143, p. 134)." >}}
 
 {{< image src="thermae_agrippae_fig2.jpg" alt="Base Plan of the Thermae Agrippae" title="Fig. 2. Base Plan of the Thermae Agrippae (Yegül, fig. 145, p. 134, after Huelsen)." >}}
 
-### Dates
+## Dates
 
 1st century BCE - 5th century CE
 
-### Bibliography
+## Bibliography
 
 * F. Coarelli, “Il Campo Marzio Occidentale. Storiae e Topografia,” *Mélanges de l’École française de Rome, Antiquité* 89: 2 (1977), pp. 808–846. [(worldcat)](http://www.worldcat.org/oclc/220729070)
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae*, s.v. "Campus Agrippae" (F. Coarelli), p. 217. [(worldcat)](http://www.worldcat.org/oclc/1114759113)
@@ -88,20 +88,20 @@ The *Thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](http://data.perseus
 * F. Yegül, *Baths and Bathing in Classical Antiquity*, New York, 1992, pp. 133–137. [(worldcat)](http://www.worldcat.org/oclc/894788084)
 * J. Delaine, “Gardens in Baths and Palaestras,” *Gardens of the Roman Empire*, New York, 2018, pp. 165–184. [(worldcat)](http://www.worldcat.org/oclc/1036265637)
 
-#### Pleiades ID
+## Pleiades ID
 
 [22073979](https://pleiades.stoa.org/places/22073979)
 
-### Contributors
+## Contributors
 
 [Elizabeth Macaulay](https://emacaulaylewis.com)\
 [Beth Ryan](#)<!--website for Beth Ryan?-->
 
-#### ORCID
+## ORCID
 
 [Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 <!--ORCID for Beth Ryan?-->
 
-### Publication date
+## Publication date
 
 17 April 2021

@@ -24,7 +24,7 @@ tags:
 [Italia]({{<relref "../..">}}) \
 [Italia](https://pleiades.stoa.org/places/1052)
 
-### Province Description
+## Province Description
 <!-- DESCRIPTION -->
 The Italian peninsula extending northward to the Alps as recognized by the Romans.
 
@@ -34,7 +34,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 <!--### Location Description-->
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 <!-- LEAVE THIS BLANK FOR NOW -->
@@ -53,7 +53,7 @@ House a/11
 ## Garden
 V.iv.a/11
 
-### Keywords
+## Keywords
 - [tablina](http://vocab.getty.edu/page/aat/300004180)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
@@ -62,10 +62,10 @@ V.iv.a/11
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 
 
-### Garden Description
+## Garden Description
 B. At the rear of this house a *peristyle* garden (b) was bordered on the south by a *portico*. Three columns and an engaged column, stuccoed and fluted on the top, red at the bottom, supported the *portico*. A large animal painting occupied three walls of the *peristyle* garden with a bold checkerboard above and a black dado at the base painted with stylized plants and flowers. The west wall featured a garden representation on the *predella*. The garden is entered through a tall portal with a round *oscillum* suspended beneath a crater-shaped vase on the top of the entry. The front fence forms an *excedra* on either side of the entrance and shrubbery painted in green is shown along the front. Garden representations cover the entire dado (0.55 x 3.50 m.) of both the north and south walls of the *tablinium*. On a black background a garden is enclosed by an elaborate fence that suggests marble with a curvilinear and rectilinear design. The garden on the north wall a large semicircle in the center has a footed circular fountain with a water jet in the center, the water falling in two streams.  The south wall has a crater-shaped fountain in an angular niche. Flowers bloom in lavender and white while birds sit on the fence in both paintings. A white flower garland graces the base of the paintings and traces of a *schola* are visible on the north wall.
 
-### Plans
+## Plans
 
 <!--{{< image src="Euro_GaAq_Montreal_Villa de Séviac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." title="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." >}}
 -->
@@ -73,13 +73,13 @@ B. At the rear of this house a *peristyle* garden (b) was bordered on the south 
 <!--### Images-->
 
 
-### Dates
+## Dates
 Unspecified
 
-#### Excavation Dates
+## Excavation Dates
 1900CE
 
-### Bibliography
+## Bibliography
 * Bastet, p. 66. [(worldcat)](http://www.worldcat.org/oclc/174883177)
 * Curtius, *Wandmalerei*, fig. 33. [(worldcat)](http://www.worldcat.org/oclc/494624256)
 * Jashemski, *Gardens*, 1:71 and fig. 115b on p. 71, 1:79 and fig. 128 on p. 78. [(worldcat)](http://www.worldcat.org/oclc/1029851777)
@@ -97,17 +97,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Italia](https://pleiades.stoa.org/places/1052) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 
-### Contributor
+## Contributor
 [Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 <!--### Related articles-->

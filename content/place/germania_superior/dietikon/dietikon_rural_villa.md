@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rural Villa in Dietikon
 
-### Keywords
+## Keywords
 
 - [archaeological garden](#)
 - [axial plan](http://vocab.getty.edu/page/aat/300121971)
@@ -56,7 +56,7 @@ Rural Villa in Dietikon
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
-### Garden Description
+## Garden Description
 
 This villa rustica complex was built on a site at the bottom of a valley near and parallel to the river Limmat. Dietikon was situated on an important land and water traffic route from the Bündner Alps to Vindonissa and further north to the Rhine. Recent excavations supply valuable evidence for a garden in front of the entrance to a rural residence, giving insight into the appearance of other similar villas at which, for one reason or another, no physical remains of gardens have been retrieved. The excavations revealed a first villa with timber buildings dating to the Tiberian period, or early 1st century AD. Around the middle of the 1st century AD these first buildings were replaced by an axially-constructed stone-built villa complex with an enclosure, covering a total surface of 13 hectares (Fig. 1 and 4).
 
@@ -70,7 +70,7 @@ In the late 1st century, around AD 70, the timber-lined pool in the west was rep
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="EUR_GS_Die_Rv1_carroll.jpg" alt="Fig. 1: Overall plan of the site during the 2nd half of the 1st century and 1st half 2nd century AD. Plan courtesy of Christa Ebnöther." title="Fig. 1: Overall plan of the site during the 2nd half of the 1st century and 1st half 2nd century AD. Plan courtesy of Christa Ebnöther." >}}
 
@@ -78,13 +78,13 @@ In the late 1st century, around AD 70, the timber-lined pool in the west was rep
 
 {{< image src="EUR_GS_Die_Rv4_carroll.jpg" alt="Fig. 3: Plan of the main building showing the curved plantings flanking the path." title="Fig. 3: Plan of the main building showing the curved plantings flanking the path. (Rights Statement)" >}}
 
-### Images
+## Images
 
 {{< image src="EUR_GS_Die_Rv2_carroll.jpg" alt="Fig. 4: Reconstructed perspective drawing." title="Fig. 4: Reconstructed perspective drawing. (Rights Statement)" >}}
 
 {{< image src="EUR_GS_Die_Rv5_carroll.jpg" alt="Fig. 5: Photo of the masonry pool with planting pattern of the courtyard garden retained." title="Fig. 5: Photo of the masonry pool with planting pattern of the courtyard garden retained. (Rights Statement)" >}}
 
-### Dates
+## Dates
 
 Garden: Late 1st century (~70 CE) - Middle of the 2nd century
 
@@ -92,7 +92,7 @@ First buildings: Early 1st century CE - Middle of 1st century CE
 
 Stone-built villa: Middle of the 1st century CE
 
-### Bibliography
+## Bibliography
 
 * C. Ebnöther, "Die Gartenanlage in der pars urbana des Gutshofes von Dietikon ZH," *Archäologie der Schweiz* 14, 1991:250-256. [(worldcat)](http://www.worldcat.org/oclc/891753339)
 * C. Ebnöther, *Der römische Gutshof in Dietikon*. Monographien der Kantonsarchäologie Zürich 25, Zürich, 1995, pp. 36-45, 49-50, figs. 21, 36-37,41-42. [(worldcat)](http://www.worldcat.org/oclc/891774240)
@@ -102,21 +102,21 @@ Stone-built villa: Middle of the 1st century CE
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Germania Superior](https://pleiades.stoa.org/places/981525)
 
-#### TGN ID
+## TGN ID
 
 [Dietikon (inhabited place)](http://vocab.getty.edu/page/tgn/7007345)
 
-### Contributor
+## Contributor
 
 [Christa Ebnöther](https://www.iaw.unibe.ch/ueber_uns/arp_amp_pa_personen/prof_dr_ebnoether_christa/index_ger.html#pane222202)
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

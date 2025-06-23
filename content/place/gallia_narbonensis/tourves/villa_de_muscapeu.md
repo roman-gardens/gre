@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
 [Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [tourves]({{<relref ".">}}) \
 [tourves](https://pleiades.stoa.org/places/157799)
 
-### Location Description
+## Location Description
 
 Tourves is a village about 30 kilometers almost due north of Toulon on the via Aureliana in the valley of the Camary, a tributary of the Argens.<!--### Location Description-->
 
@@ -47,7 +47,7 @@ Villa de Muscapeu
 
 
 
-### Keywords
+## Keywords
 
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
@@ -59,7 +59,7 @@ Villa de Muscapeu
 
 
 
-### Villa Description
+## Villa Description
 
 In the locality of Muscapeu, at the foot of a slope, was found this villa.  Partial excavations in 1950 to 1960 exposed 4200 square meters.  Constructed in the first half of the first century B.C. , it was occupied until sometime in the third century.  An aqueduct from a spring supplied water.  The *pars urbana* is to the east; the *pars rustica* to the west.  
 
@@ -73,20 +73,20 @@ In a second stage, in the first century, a bath complex [5] with an open-air esp
 
 
 
-### Plans
+## Plans
 
 
 {{< image src="villa_de_muscapeu.jpg" alt="Plan of The Villa de Muscapeu" title="Plan of The Villa de Muscapeu" >}}
 
 
 
-### Dates
+## Dates
 
 
 
 
 
-### Bibliography
+## Bibliography
 
 1. Brun, Jean-Pierre. *Carte Archéologique De La Gaule: 83, Le Var 1*. Paris, 1999, vol.2, P. 835-840, plan P. 836. [(worldcat)](http://www.worldcat.org/oclc/1074683092)
 
@@ -97,21 +97,21 @@ In a second stage, in the first century, a bath complex [5] with an open-air esp
 
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Tourves (inhabited place)](http://vocab.getty.edu/page/tgn/1035905)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

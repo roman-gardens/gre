@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
 [Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [forum_julii]({{<relref ".">}}) \
 [forum_julii](https://pleiades.stoa.org/places/307416064)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -47,7 +47,7 @@ House of the Silver Bust, La Vilasse Quarter
 
 
 
-### Keywords
+## Keywords
 - [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
@@ -60,7 +60,7 @@ House of the Silver Bust, La Vilasse Quarter
 
 
 
-### House Description
+## House Description
 
 This house was in a central residential quarter across the street (rue des Boutiques) from the public baths of the town center.   Unearthed between 1924 and 1946, it occupied a parcel of 4354 square meters with a useful covered surface of 1957.3 square meters.  The condition now shown goes back to the second half of the first century; though previous states are possible, nothing is known of them.  It was subsequently occupied during at least two centuries.  There was a fire and doubtless at least partial abandonment in the course of the third century.  Its complex plan made it one of the largest grand homes of Vaison during the Flavian epoch.  It groups together several elements of distinct origin: one or two houses to the east, one in the center, and a bath structure that was originally public.  This development explains the different orientations of these buildings.
 
@@ -86,19 +86,19 @@ A number of sculptural discoveries are noteworthy.  In the vestibule [18] was fo
 
 
 
-### Plans
+## Plans
 
 
 {{< image src="house_of_the_silver_bust_la_vilasse_quarter.png" alt="Plan of House of the Silver Bust" title="Plan of House of the Silver Bust" >}}
 
 
 
-### Dates
+## Dates
 
 
 
 
-### Bibliography
+## Bibliography
 
 1. P.Gros, J. Cuyon, Ph, Leveau, *La maison urbaine d'epoque romaine, Atlas des mainsons urbaines en Gaule Narbonnaise*, t. II, Doc.d'Arch. Vaucl., 6, 1996, fiche n°2, p. 342-345 [(worldcat)](http://www.worldcat.org/oclc/919659882)
 
@@ -109,21 +109,21 @@ A number of sculptural discoveries are noteworthy.  In the vestibule [18] was fo
 4. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.168-80. [(worldcat)](http://www.worldcat.org/oclc/905795401)
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Fréjus (inhabited place)](http://vocab.getty.edu/page/tgn/7008791)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

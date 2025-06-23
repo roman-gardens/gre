@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rural Villa in Winkel-Seeb
 
-### Keywords
+## Keywords
 
 - [archaeological garden](#)
 - [corridors](http://vocab.getty.edu/page/aat/300004294)
@@ -56,7 +56,7 @@ Rural Villa in Winkel-Seeb
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 - [well houses](http://vocab.getty.edu/page/aat/300008017)
 
-### Garden Description
+## Garden Description
 
 The residential and service parts of this *villa rustica* occupied an area of ca. 7 hectares. The lateral walls of the complex could be followed over a length of 395 meters, but it is assumed that they once extended up to the lake southeast of the farm. The house, measuring 56.70 x 82.40 meters, was of the winged corridor type (Fig. 12.1). The *villa rustica* was built in the first half of the 1st century A.C. and inhabited until its destruction in 250. The two protruding wings on either side of the entrance on the north extended to the dividing wall between the pars urbana and the pars rustica. These may have been built as covered porticoes or pergolas. The large terraced courtyard between them was possibly laid out as a garden or park (G in Fig. 1). Immediately north of the dividing wall was a well-house.
 
@@ -66,7 +66,7 @@ The residential and service parts of this *villa rustica* occupied an area of ca
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="EUR_GS_WinSe_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa with porticoes enclosing a possible garden (G) in front of the house. Plan adapted from Drack and Fellmann 1988, fig. 511." title="Fig. 1: Plan of the rural villa with porticoes enclosing a possible garden (G) in front of the house. Plan adapted from Drack and Fellmann 1988, fig. 511. (Rights Statement)" >}}
 
@@ -76,11 +76,11 @@ The residential and service parts of this *villa rustica* occupied an area of ca
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 First half of 1st century A.C. - 250
 
-### Bibliography
+## Bibliography
 
 * W. Drack and R. Fellmann, *Die Römer in der Schweiz*, Stuttgart, 1988, pp. 550-555, figs. 511-512. [(worldcat)](http://www.worldcat.org/oclc/639129078)
 * Ch. Jacquat, *Der römische Garten in Seeb*, Zürich, 1988. [(worldcat)](http://www.worldcat.org/oclc/883206952)
@@ -91,19 +91,19 @@ First half of 1st century A.C. - 250
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Winkel-Seeb](https://pleiades.stoa.org/places/177667)
 
-#### TGN ID
+## TGN ID
 
 [Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

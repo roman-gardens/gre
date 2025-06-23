@@ -45,26 +45,26 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Villa de Benicató
 
-### Keywords
+## Keywords
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [corridors](http://vocab.getty.edu/page/aat/300004294)
 
-### Garden Description
+## Garden Description
 The first finds go back to 1883.  Part of the site was acquired by the provincial government in 1954 and archaeological work was begun the next year, but the reports remain unpublished.  
 The villa from the middle of the 2nd century evolved around a peristyle garden with a large circular pool, 7.6 meters in inside diameter, in the middle.  A paved corridor led to the pool from the  north gallery of the peristyle.  There were baths and two rooms with mosaic floors.  Most rooms, however, had floors of hammered earth.   
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="his_tar_nul_v_benicato_fig1.jpg" alt="Plan of Villa de Benicató at Nules, Castellón Province, Spain" title="Fig. 1:  Plan of the Villa de Benicto.  Adapted from Gorges, Planche XXXIV." >}}
 
 
-### Images
+## Images
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -73,14 +73,14 @@ The villa from the middle of the 2nd century evolved around a peristyle garden w
 <!--### Dates-->
 
 
-### Bibliography
+## Bibliography
 - F. Gusi and C. Olaria : La villa romana de Benicató (Nules, Castellón). Cuadernos de Prehistoria y, Arqueología Castellonenses, 4, (1996) pp. 101-144. [(worldcat)](http://www.worldcat.org/oclc/802707581)
 
 <!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pujol de Benicató](https://pleiades.stoa.org/places/266010)
 
@@ -88,7 +88,7 @@ The villa from the middle of the 2nd century evolved around a peristyle garden w
 <!--### Contributor-->
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

@@ -31,7 +31,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -39,7 +39,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula II]({{<relref "#">}})
 
-### Keywords
+## Keywords
 - [aedicules](http://vocab.getty.edu/page/aat/300002574)
 - [fountain](http://vocab.getty.edu/page/aat/300006179)
 - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
@@ -52,12 +52,12 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Garden
 [Peristyle](http://vocab.getty.edu/page/aat/300080971) garden with decorative elements.
 
-### Garden Description
+## Garden Description
 This house was excavated in 1873. The entranceway led directly to the portico which enclosed the garden on the north and east. In the northwest corner of the [portico](http://vocab.getty.edu/page/aat/300004145) a masonry [aedicula](http://vocab.getty.edu/page/aat/300002574) [lararium](http://vocab.getty.edu/page/aat/300400600) formed an arched niche on top of a solid podium. A low wall connected the columns and [pillars](http://vocab.getty.edu/page/aat/300264605) of the [portico](http://vocab.getty.edu/page/aat/300004145). There was an entrance to the garden on the east side and a [gutter](http://vocab.getty.edu/page/aat/300052565) along the east and north edges of the garden. A terracotta [statuette](http://vocab.getty.edu/page/aat/300312262) of a seated old man holding a scroll in his right hand and wearing a short sleeved tunic (0.60 m high; Mus. Naz. Inv. No. 109 622; Ruesh no. 453) served as a [fountain](http://vocab.getty.edu/page/aat/300006179). This statue has been variously identified, but most likely was the Greek philosopher Antisthenes (ca. 445-360), a devoted follower of Socrates. A terracotta puteal was also found in the garden.
 
 
 
-### Bibliography
+## Bibliography
 
 * Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 22 [(worldcat)](https://www.worldcat.org/title/corpus-of-the-lararia-of-pompeii/oclc/892026154&referer=brief_results)  
 * Curtius, L. 1994. *Miszellen zur Geschichte des greichischen Porträts*, RM, p. 38   
@@ -81,20 +81,20 @@ This house was excavated in 1873. The entranceway led directly to the portico wh
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-###  Excavation Dates
+##  Excavation Dates
 Excavated 1872.
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->

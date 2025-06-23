@@ -35,7 +35,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -47,7 +47,7 @@ The realization of this magnificent residence must have been a cherished dream o
 
 The garden between the Small Baths and the Three Exedras Hall (Fig. 1, n. 5)
 
-### Keywords
+## Keywords
 
 - [flower gardens](http://vocab.getty.edu/page/aat/300008135)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
@@ -60,11 +60,11 @@ The garden between the Small Baths and the Three Exedras Hall (Fig. 1, n. 5)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [tufa](http://vocab.getty.edu/page/aat/300011712)
 
-### Garden Description
+## Garden Description
 
 It has already been cited in the precedent Jashemski-Ricotti article but only very sketchily (JASHEMSKI, SALZA PRINA RICOTTI 1987-88, pp. 149-150, fig. 3). Today the finding of the enormous amount of lead in its soil (1234 mg/kg) (Fig. 17) has created a new interest in it (FOSS 1989-90; FOSS 1992; FOSS, SALZA PRINA RICOTTI 1996; SALZA PRINA RICOTTI 1998, pp. 368-370, fig. 3; SALZA PRINA RICOTTI 2000, pp. 331-334, figs. 114-115). It proves that this plot of land was exploited for a very long time starting from the earlier republican era. Probably at those times a huge reservoir existed there and the land was kept as an orchard. Later on, just before the end of the I cent. B.C., it must have been transformed in a garden (SALZA PRINA RICOTTI 1994-95, p. 78, fig. 5) and the front of this cistern was decorated by an elegant nymphaeum (Figg. 18 and 19). In Hadrianic times the baths displaced the water reserve, but the nymphaeum was preserved. It must have been a particularly fine and elegant monument if Hadrian decided to save it and made it an important part of his new garden arrangement. The Augustan water-theater consisted of a 19.50 m long façade, adorned by two low basins, which stretched out from semielliptical niches (PENNA 1831, p. 59, fig. 59). We still see in them two low pedestals, evidently built to sustain some fountain statues. Other statues must have occupied the three square niches framed by small columns, which, set at a level of 1.84 m from the soil, flanked the basins' ones. The big piscina limaria, that supplied the two thermae, replaced the ancient reservoir and furnished large quantities of water. It soaked the ground and allowed the cultivation of plants that had to be frequently and abundantly watered. It is evident that only an uninterrupted irrigation delivered for at least eight centuries through leaden pipes could deposit in the soil such a high concentration of this metal.
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
@@ -72,19 +72,19 @@ It has already been cited in the precedent Jashemski-Ricotti article but only ve
 
 {{< image src="18_augustan_nymphaeum.jpg" alt="Plan of the Augustan nymphaeum in the garden between the Small Baths and the Three Exedras Hall at Hadrian's Villa" title="Fig. 18: Plan of the Augustan nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
-### Images
+## Images
 
 {{< image src="19_augusteum.jpg" alt="Photograph of the Augustan nymphaeum in the garden between the Small Baths and the Three Exedras Hall at Hadrian's Villa" title="Fig. 19: The Augustan nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -109,21 +109,21 @@ unspecified
 * E. Salza Prina Ricotti, “Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana,” *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67 (1994-95), p. 78, fig. 5. [(worldcat)](http://www.worldcat.org/oclc/1006002216) <!-- link to specific issue needed -->
 * A. Penna, *Viaggio pittorico della Villa Adriana di Tivoli*, Roma 1831, p. 59, fig. 59. [(worldcat)](http://www.worldcat.org/oclc/937430829)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

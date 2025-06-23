@@ -39,7 +39,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 
 {{< image src="cuicul_house_of_asinus_nica.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
-### Location Description
+## Location Description
 
 The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.
 
@@ -51,7 +51,7 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 
 House of Asinus Nica, Central District (Maison de l’Ane, quartier central)
 
-### Keywords
+## Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
@@ -62,7 +62,7 @@ House of Asinus Nica, Central District (Maison de l’Ane, quartier central)
 - [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 
-### Garden Description
+## Garden Description
 
 Like several peristyle houses of the ancient part of Cuicul, the house of Asinus Nica, about 870 square meters in size, was inhabited and transformed from the second to the fifth century. The fifth century additions are the large reception room XI with a marine Venus mosaic and the private baths with the Asinus Nica mosaics. The more ancient part of the house, south of wall M-M’ is rather small and more irregular in shape.
 
@@ -70,34 +70,34 @@ The open area of this peristyle garden, about 9 by 8.5 meters in size, is enclos
 
 The house lacked wide-open views from exedra and from the galleries towards the pools and the gardens. This irregularity can be explained by the presence of a first floor opening directly onto the Cardo Maximus, the existence of which is shown by a staircase with seven steps. A reception room was located on the first floor, so that the enclosed garden and the pools could be seen through windows or galleries from the upper floor. From this elevation, the luxurious decoration and lavish use of water would have been seen to full effect.
 
-### Plans
+## Plans
 
 {{< image src="house_of_asinus_nica_plan1.jpg" alt="Plan of the House of Asinus Nica." title="Fig. 1: Plan of the House of Asinus Nica (Blanchard-Lemée, M., AOrOc)">}}
 
-### Images
+## Images
 {{< image src="house_of_asinus_nica_photo.jpg" alt="View of the garden." title="Fig. 2: View of the garden (Blanchard-Lemée, M., AOrOc)">}}
 
 
-### Dates
+## Dates
 
 2nd-5th century CE
 
 <!--#### Excavation Dates
 -->
-### Bibliography
+## Bibliography
 * Blanchard-Lemée, M., *Maisons à mosaïques du quartier central de Djemila (Cuicul)*, Paris, 1975, pp. 129-151. [(worldcat)](http://www.worldcat.org/oclc/461390883)
 *  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](http://www.worldcat.org/oclc/1090653355)
 
 
-#### Pleiades ID
+## Pleiades ID
 [Cuicul](https://pleiades.stoa.org/places/305068)
-#### TGN ID
+## TGN ID
 
-### Contributor
+## Contributor
 
 [Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)
 
-### Publication date
+## Publication date
 21 Apr 2021
 <!--07 July 2020-->
 

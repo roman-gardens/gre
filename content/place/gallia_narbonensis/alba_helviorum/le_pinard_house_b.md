@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
 [Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [alba_helviorum]({{<relref ".">}}) \
 [alba_helviorum](https://pleiades.stoa.org/places/167629)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -47,7 +47,7 @@ Le Pinard, House B
 
 
 
-### Keywords
+## Keywords
 - [ditches](http://vocab.getty.edu/page/aat/300006178)
 - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
@@ -55,7 +55,7 @@ Le Pinard, House B
 
 
 
-### House Description
+## House Description
 
 
 This house is also 120 southwest of the theater, in front of house A.  Excavated in 1967-1968, the parcel covers 450 sq m, with a useful covered surface of 401.5 sq m.  It was constructed in the second century.  Only the southwest corner is known; the rest is lost or not excavated.  
@@ -65,20 +65,20 @@ On entering from the east-west street, after passing through two incidental room
 
 
 
-### Plans
+## Plans
 
 
 {{< image src="le_pinard_house_B.png" alt="Plan of Le Pinard, House B" title="Plan of Le Pinard, House B" >}}
 
 
 
-### Dates
+## Dates
 
 A.D 101-200
 
 
 
-### Bibliography
+## Bibliography
 
 1. *La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise*. Vaucluse: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 80-81. [(worldcat)](http://www.worldcat.org/oclc/695787865)
 
@@ -88,21 +88,21 @@ A.D 101-200
 
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Alba-la-Romaine (inhabited place)](http://vocab.getty.edu/page/tgn/8712431)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

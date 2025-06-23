@@ -25,7 +25,7 @@ Hispania Baetica
 [Baelo Claudia]({{<relref ".">}}) \
 [Baelo Claudia](https://pleiades.stoa.org/places/256005)
 
-### Location Description
+## Location Description
 
 Baelo Claudia began in the late second century BC as a center for trade with North Africa through Tangier and for salting fish and production of *garum*, or fish sauces. Baelo's high point was reached about the time of Claudius, when it was made a *municipium*. An earthquake in the second century AD hastened its decline, though there was some revival in the third century, until it was totally abandoned by the seventh century AD.  Nowhere else in the Iberian peninsula is it possible to find all the elements of Roman urbanism in such good condition: forum, temples of the capitol to the traditional gods of the Romans, a temple to an oriental divinity (in this case, Isis), *curia*, administrative buildings, market, theater, baths, aqueducts, private houses, an industrial zone, and a complete city wall.  Only an arena seems missing.
 
@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 House No. 1 or West House
 
-### Keywords
+## Keywords
 
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
@@ -54,12 +54,12 @@ House No. 1 or West House
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 <!-- [Doric order]-->
 
-### Garden Description
+## Garden Description
 
 The entrance [Fig. 1, 2] to this house was on the west side of the colonnaded street.  Just to the north was a shop [23] selling fish and *garum*; its tanks are still in place. The entrance hall leads into the west gallery of the peristyle courtyard [25]. There are three columns on each side of the courtyard. Each column’s base featured an ornamental double *torus*.  Three capitals have been preserved; they were of the Doric order but were only rough-hewn as they, like all columns in Baelo, were covered with plaster. A garden most likely surrounded the well in the center.  Rooms [32] and [33] were probably the reception room and the triclinium respectively. The reception room had a good view of the garden though not central.  The northwest corner of the house belonged instead to the garum factory [VI].
 
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -71,18 +71,18 @@ The entrance [Fig. 1, 2] to this house was on the west side of the colonnaded st
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 {{< image src="HIS_BAE_Baelo_west House Fig1_CA.jpg" alt="Fig. 1: Photo of West House seen from the north. The two vats in the left foreground are just above the numeral IV on the plan.  The peristyle is in the center of the picture. (Rights Statement)" >}}
 
 {{< image src="HIS_BAE_Baelo Hs_plan_Fig2" alt="Fig. 2: Plan of the two port houses. From Sillières. (Rights Statement)" >}}
 
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 * A. Balil Iliana, ‘Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana,’ *Boletín del Seminario de Estudios de Arte y Arqueología, XXXIX*, Universidad de Valladolid (Valladolid 1973), 138-140.[(worldcat)](http://www.worldcat.org/oclc/7243478)
 * P. Sillières, M. Fincker, J.M. Labarthe,*Baelo Claudia: une cité romaine de Bètique*, Collection de la Casa de Velázquez 51 (Madrid 1995), 165-170.[(worldcat)](http://www.worldcat.org/oclc/431871350)
 
@@ -92,16 +92,16 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [House of the West at Baelo]{{<relref ".">}}) \
 [House of the West at Baelo](https://pleiades.stoa.org/places/574194294)
 
-#### TGN ID
+## TGN ID
 [Baelo Claudia (deserted settlement)](http://vocab.getty.edu/page/tgn/8712326)
 
-### Contributor
+## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
-### Publication date
+## Publication date
 
 21 Apr 2021

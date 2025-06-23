@@ -44,7 +44,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rural Villa in Darenth
 
-### Keywords
+## Keywords
 
 - [archaeological gardens](#)
 - [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
@@ -52,7 +52,7 @@ Rural Villa in Darenth
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 - [waterspouts](http://vocab.getty.edu/page/aat/300248603)
 
-### Garden Description
+## Garden Description
 
 Excavations at this site of a Roman villa in Kent uncovered a large rectangular masonry pool in the courtyard, which was enclosed by buildings on the north, west, and east (Fig. 1). The villa buildings took up an area of 150 x 225 meters in total, including the courtyard with a width of 26.5 meters. Occupation at the site began after A.D. 100 and continued until the closing decades of the 4th century.
 
@@ -64,17 +64,17 @@ South of the western range of rooms was a large, open space measuring 14.6 x 58.
 
 <!--### Maps-->
 
-### Plans
+## Plans
 
 {{< image src="darenth.png" alt="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20" title="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20." >}}
 
 <!--### Images-->
 
-### Dates
+## Dates
 
 ca. 100 CE - late 4th century CE
 
-### Bibliography
+## Bibliography
 
 * A. Detsicas, *The Cantiaci*, Gloucester, 1983, pp. 103-107, fig. 20. [(worldcat)](http://www.worldcat.org/oclc/247009310)
 * B. Philp, *Excavations in the Darent Valley*, Kent, Gloucester, 1984, pp. 89-92, figs. 24, 33. [(worldcat)](http://www.worldcat.org/oclc/896055765)
@@ -83,19 +83,19 @@ ca. 100 CE - late 4th century CE
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Darenth](https://pleiades.stoa.org/places/79413)
 
-#### TGN ID
+## TGN ID
 
 [Darenth (inhabited place)](http://vocab.getty.edu/page/tgn/7027349)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

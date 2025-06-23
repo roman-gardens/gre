@@ -27,7 +27,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -40,12 +40,12 @@ The realization of this magnificent residence must have been a cherished dream o
 Antinous' tomb (Fig. 1, n. 25)\
 [Antinoeion at Hadrian's Villa](https://pleiades.stoa.org/places/652231746)
 
-### Keywords
+## Keywords
 
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 
-### Garden Description
+## Garden Description
 
 When, after having asked Dr. Reggiani to write about the garden emerged by her excavations, I began to study the map she kindly sent me (Fig. 75). Mari had informed me that the big structure beside the entrance gate was a Nymphaeum, but this seemed to me really improbable: It was too big and not in scale with the rest. I soon discovered that not only it was not a Nymphaeum but that it was a tomb and I easily connected it with Antinous, the same Antinous who had been deified by the Egyptians (E. SALZA PRINA RICOTTI 2002-2003). Hadrian was more than pleased to accept him as a god, thus he could  build to his memory a very important monument, something that he could never do for a simple boy. A temple more than a tomb.
 
@@ -73,7 +73,7 @@ Today on this rocky plain, left naked by an exaggerate excavation, we can see al
 
 As we have said at the beginning the Temple-tomb was never completed. Antinous who, at the end of the works, would have been transported there, was left in Antinoopolis’ temple (J. C. GRENIER 1986). Anyway he now was a god with a well asserted religion, and temples (Fig. 90) in a great part of the known world. A cult that thrived up to the middle of  the IV century (ATTANASIUS 350 A.D.). However also if Antinous was left in the desert’s sands his memory is still here and visiting Villa Adriana, one can always feel his presence.
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
@@ -97,7 +97,7 @@ As we have said at the beginning the Temple-tomb was never completed. Antinous w
 
 {{< image src="90_templi_di_antinoo.jpg" alt="Map of temples to Antinous" title="Fig. 90: Map of temples to Antinous, Eugenia Salza Prina Ricotti." >}}
 
-### Images
+## Images
 
 {{< image src="82_trincee_siepi.1jpg" alt="Photograph of the trenches for boxtree edges and flowering bushes that were cut in the tufa of the tomb garden" title="Fig. 82: The trenches cut in the tufa for  boxtree edges and flowering bushes in the garden of Antinous' tomb, Eugenia Salza Prina Ricotti." >}}
 
@@ -111,15 +111,15 @@ As we have said at the beginning the Temple-tomb was never completed. Antinous w
 
 {{< image src="89_cuts_in_the_tufa.jpg" alt="Photograph showing the cuts made in the tufa of the tomb's platform by the Jesuits" title="Fig. 89: Cuts made in the tufa of the tomb's platform by the Jesuits, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -146,21 +146,21 @@ unspecified
 * Attanasius 350 A.D. –  From a letter of Saint Attanasius “And then this is the new god, Antinous, Hadrian’s servant, a boy who was a slave of the emperor’s depraved and against nature lust... This scandalous and shameless boy died in Aegypt during an imperial court’s visit to this country. Immediately His Imperial Majesty issued an order and an extremely rigorous edict obliging all his subjects to recognize the deity of the dead boy..."
 <!-- PIETRANGELI 1993 reference removed-->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Antinoeion at Hadrian's Villa](https://pleiades.stoa.org/places/652231746)
 <!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

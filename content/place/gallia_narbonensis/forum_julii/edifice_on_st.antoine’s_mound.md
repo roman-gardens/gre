@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
 [Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [forum_julii]({{<relref ".">}}) \
 [forum_julii](https://pleiades.stoa.org/places/307416064)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -47,7 +47,7 @@ Edifice on St. Antoine’s Mound
 
 
 
-### Keywords
+## Keywords
 - [praetoriums](http://vocab.getty.edu/page/aat/300005636)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
@@ -57,7 +57,7 @@ Edifice on St. Antoine’s Mound
 
 
 
-### House Description
+## House Description
 
 This grand residential edifice may be either a public building or a great mansion.  Built on St. Antoine’s mound, it is situated in the southwest corner of network A of the town plan.  In immediate proximity of the port, it was first interpreded as the *praetorium* of the naval arsenal (A. Donnadieu 1932).  Then it was assigned the role of residence of the perfect of the fleet or the occasional palace for the governor of the province (P.-A. Février, 1977).  Less luxurious than the edifice of the platform (see below), it has been classified in the recent *l’Atlas topographique de Fréjus* among the public buildings of the city.
 
@@ -70,17 +70,17 @@ The residence perhaps enjoyed an exterior garden in the vast open space of arabl
 
 
 
-### Plans
+## Plans
 
 
 {{< image src="edifice_on_st.antoine’s_mound.png" alt="Plan of Edifice on St. Antoine's mound" title="Edifice on St. Antoine’s Mound" >}}
 
 
-### Dates
+## Dates
 
 
 
-### Bibliography
+## Bibliography
 
 1. Atlas Des Maisons De Gaule Narbonnaise. Avignon: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 94-96 et fiche n°1, P. 100-101. [(worldcat)](http://www.worldcat.org/oclc/717347935)
 
@@ -88,21 +88,21 @@ The residence perhaps enjoyed an exterior garden in the vast open space of arabl
 
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Fréjus (inhabited place)](http://vocab.getty.edu/page/tgn/7008791)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

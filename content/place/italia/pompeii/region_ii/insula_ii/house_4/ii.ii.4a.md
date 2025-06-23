@@ -38,20 +38,20 @@ tags:
 ## Garden
 Peristyle garden in house of Messius Ampliatus (II.ii.4)
 
-### Keywords
+## Keywords
 
 - [insulae](http://vocab.getty.edu/page/aat/300000325)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
-### Garden Description
+## Garden Description
 
 
 
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - Della, Corte M, *Case Ed Abitanti Di Pompei*, Pompei-scavi: M. Della Corte, 1954. Print. [worldcat](http://www.worldcat.org/oclc/878618392)
 
 - Jashemski, Wilhelmina F, *‘The Garden of Hercules at Pompeii’ (II.viii.6): The Discovery of a Commercial Flower Garden.*,American Journal of Archaeology, vol. 83, no. 4, 1979, pp. 403–411. [link](https://www.jstor.org/stable/504139. Accessed 2 Dec. 2020.)
@@ -63,17 +63,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [House of Messius Ampliatus](https://pleiades.stoa.org/places/634179974)
 
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

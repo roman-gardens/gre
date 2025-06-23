@@ -47,7 +47,7 @@ Esquiline Hill, [Esquilinus Mons](https://pleiades.stoa.org/places/679976755)
 Garden of the Domus Aurea \
 [Domus Aurea](https://pleiades.stoa.org/places/410440793)
 
-### Keywords
+## Keywords
 
 - [brick (construction material)](http://vocab.getty.edu/page/aat/300010463)
 - [colonnade](http://vocab.getty.edu/page/aat/300002613)
@@ -71,7 +71,7 @@ Garden of the Domus Aurea \
 - [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
 
 
-### Garden Description
+## Garden Description
 
 Famous for its innovative architecture, the [*Domus Aurea*](https://en.wikipedia.org/wiki/Domus_Aurea) contained equally impressive gardens. After the fire of 64 CE, [Nero](https://en.wikipedia.org/wiki/Nero) erected this monumental residence, replacing the damaged [*Domus Transitoria*](https://en.wikipedia.org/wiki/Domus_Transitoria). While the exact boundaries of the property are unknown, it is generally thought to have extended from the palaces of the [Palatine](https://en.wikipedia.org/wiki/Palatine_Hill), across the [Velian](https://en.wikipedia.org/wiki/Velian_Hill) and [Oppian](https://en.wikipedia.org/wiki/Oppian_Hill) Hills to the [*Horti Maecenatis*](https://en.wikipedia.org/wiki/Gardens_of_Maecenas) and the [*Horti Lamiani*](https://en.wikipedia.org/wiki/Horti_Lamiani) on the [Esquiline](https://en.wikipedia.org/wiki/Esquiline_Hill), down into the valley and up to the [Temple to the Divine Claudius](https://en.wikipedia.org/wiki/Temple_of_Claudius) on the [Caelian](https://en.wikipedia.org/wiki/Caelian_Hill) Hill (Fig. 1). Gardens and an artificial lake ([*stagnum*](http://vocab.getty.edu/page/aat/300263360)) were constructed in this valley, where the [Colosseum](https://en.wikipedia.org/wiki/Colosseum) now stands. Based on the ancient sources, scholars interpreted these gardens as naturalistic, but recent excavations have challenged this view ([Suet. *Ner.* 31.1–2](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo016.perseus-lat1:31); [Tacitus *Ann.* 15.42.1](http://data.perseus.org/citations/urn:cts:latinLit:phi1351.phi005.perseus-lat1:15.42)).
 
@@ -84,22 +84,22 @@ The [*Domus Tiberiana*](https://en.wikipedia.org/wiki/Domus_Tiberiana) on the Pa
 The unfinished Temple to the Divine Claudius became a monumental [*nymphaeum*](http://vocab.getty.edu/page/aat/300006809). The eastern wall of the temple platform was transformed into ornamental [niched](http://vocab.getty.edu/page/aat/300002704) [facades](http://vocab.getty.edu/page/aat/300002526) with abundant [fountain](http://vocab.getty.edu/page/aat/300006179) jets fed by a new branch of the [*Aqua Claudia*](https://pleiades.stoa.org/places/423563). The [brick](http://vocab.getty.edu/page/aat/300010463) remains of this *nymphaeum* are visible today along the [*Via Claudia*](https://pleiades.stoa.org/places/688514720)<!--(Fig. 3)-->. The water features drained into the *stagnum*.
 
 
-### Figures
+## Figures
 {{< image src="domus_aurea_fig1.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" title="Figure 1. Plan of the Domus Aurea and surrounding areas (LTUR, Vol. 2, p. 397)." >}}
 
 <!--{{< image src=".jpg" alt="Gardens of the Oppian palace" title="Figure 2. Gardens of the Oppian palace (image source)." >}}-->
 
 <!--{{< image src=".jpg" alt="Photograph of Neronian nymphaeum on the Caelian" title="Figure 3. Photograph of Neronian nymphaeum on the Caelian (image source)." >}}-->
 
-### Dates
+## Dates
 
 post-64 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * L. Ball, *The Domus Aurea and the Roman Architectural Revolution*, Cambridge, Cambridge University Press, 2003. [(worldcat)](http://www.worldcat.org/oclc/185994172)
 * E. Chaplin, *Nero*, 2003. [(worldcat)](http://www.worldcat.org/oclc/940668435)
@@ -108,25 +108,25 @@ unspecified
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae*, s.v. "Domus Tiberiana" (C. Krause), Rome, 1993, pp. 189-197. [(worldcat)](http://www.worldcat.org/oclc/1114759113)
 * J.B. Ward Perkins, *Roman Imperial Architecture*, Penguin books, 1981, pp. 59-60. [(worldcat)](http://www.worldcat.org/oclc/1091918996)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Domus Aurea](https://pleiades.stoa.org/places/410440793)
 
-#### TGN ID
+## TGN ID
 
 [Domus Aurea (deserted settlement)](http://vocab.getty.edu/page/tgn/8712226)
 
-### Contributors
+## Contributors
 
 [Elizabeth Macaulay](https://emacaulaylewis.com)\
 [Linda Anderson](#)<!--Find website-->
 
-#### ORCID
+## ORCID
 
 [Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 <!--ORCID for Linda Anderson-->
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

@@ -27,7 +27,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -35,7 +35,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula III]({{<relref "#">}})
 
-### Keywords
+## Keywords
 - [lararia](http://vocab.getty.edu/page/aat/300400600)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
@@ -43,10 +43,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Garden
 [Peristyle](http://vocab.getty.edu/page/aat/300080971) garden in a domestic property.
 
-### Garden Description
+## Garden Description
 This small house, excavated in 1872, had no [atrium](http://vocab.getty.edu/page/aat/300004097) and the [peristyle](http://vocab.getty.edu/page/aat/300080971) garden was to the right of the north end of the entrance passageway. A [portico](http://vocab.getty.edu/page/aat/300004145) enclosed the garden on the west, north, and part of the south sides. Part of the [portico](http://vocab.getty.edu/page/aat/300004145) had been closed to make rooms. Paintings of amorini decorated the [peristyle](http://vocab.getty.edu/page/aat/300080971) with two little busts that may have been portraits of the owners. A [lararium](http://vocab.getty.edu/page/aat/300400600) painting and an arched niche were located in the west wall of the [peristyle](http://vocab.getty.edu/page/aat/300080971). A small marble column with bas-relief of foliage most likely served as garden decoration.
 
-### Bibliography
+## Bibliography
 
 * Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 24, no.29 [(worldcat)](https://www.worldcat.org/title/corpus-of-the-lararia-of-pompeii/oclc/892026154&referer=brief_results)    
 * Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 75  
@@ -63,20 +63,20 @@ This small house, excavated in 1872, had no [atrium](http://vocab.getty.edu/page
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-###  Excavation Dates
+##  Excavation Dates
 Excavated 1869
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->

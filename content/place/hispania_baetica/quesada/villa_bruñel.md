@@ -25,7 +25,7 @@ Hispania Baetica
 [Quesada]({{<relref ".">}}) \
 [Quesada](https://pleiades.stoa.org/places/265996)
 
-### Location Description
+## Location Description
 
 <!--## Sublocation-->
 
@@ -42,7 +42,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Villa Bruñel
 
-### Keywords
+## Keywords
 
 - [apses](http://vocab.getty.edu/page/aat/300004607)
 - [buttresses](http://vocab.getty.edu/page/aat/300000891)
@@ -55,7 +55,7 @@ Villa Bruñel
 <!-- [vanes]-->
 
 
-### Garden Description
+## Garden Description
 
 This villa, 5 kilometers north of the center of Quesada, was excavated in eight campaigns between 1965 and 1971, and had multiple phases of construction.  The north end of the villa appears as a normal peristyle villa. Directly across the middle of the peristyle and its garden, a mighty wall slices slices the peristyle in two halves running east-west. Beyond the wall, the peristyle and garden continue.  But the east-west wall turns out to be the north side of a vast double-apsed hall, which is followed, further south, by another villa wrapping around a large courtyard with covered galleries on all four sides, while off to the southeast, there is another peristyle with garden, porticoes, and surrounding rooms.  
 
@@ -71,7 +71,7 @@ The *gran patio* and its galleries were bordered on the east by a line of rooms,
 
 Sotomayor did not think that the gran patio was a garden, and proposed that it might have been a coral for ‘lesser herds’ (*ganado menor*), by which he presumably meant mainly sheep.  He pointed out that there was no ornament, such as a pool or fountain in the middle of the area.  While the *templum* was clearly not a garden, it had no masonry floor save what it had inherited from the second phase of the villa.  It seems, however, to have had a wooden or reed roof, for carbonized portions of beams suitable for supporting the roof were found.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -83,7 +83,7 @@ Sotomayor did not think that the gran patio was a garden, and proposed that it m
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 
 {{< image src="HIS_BAE_Quesdad_Vb_lcoation map_CA fig1.jpg" alt="Fig. 1: Location map of Villa Brunel. (Rights Statement)" >}}
@@ -99,11 +99,11 @@ Sotomayor did not think that the gran patio was a garden, and proposed that it m
 {{< image src="HIS_BAE_Quesdad_Vb_photo CA fig 6.jpg" alt="Fig. 6: Photo of Villa Brunel looking west across the garden. (Rights Statement)" >}}
 
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * P. de Palol and M. Sotomayor, ‘Excavaciones en la villa romana de Bruñel (Quesada), de la Provincia de Jaén,’ *Actas del VIII Congreso Internacional de Arqueología Cristiana (Barcelona, 5-11 October, 1969)*, (Roma-Barcelona, 1972), 275-381. [(worldcat)](http://www.worldcat.org/oclc/805693419)
 * M. Sotomayor, ‘La villa romana de Bruñel,’ *Cuadernos de Prehistoria de la Universidad de Granada 10*, (Granada, 1985), 335-366. [(worldcat)](http://www.worldcat.org/oclc/934427727)
@@ -115,16 +115,16 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Pago de Bruñel]{{<relref ".">}}) \
 [Pago de Bruñel](https://pleiades.stoa.org/places/265996)
 
-#### TGN ID
+## TGN ID
 [Castillo de Mulva (deserted settlement)](http://vocab.getty.edu/page/tgn/7027137)
 
-### Contributor
+## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
-### Publication date
+## Publication date
 
 21 Apr 2021

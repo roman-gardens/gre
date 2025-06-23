@@ -28,7 +28,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -40,13 +40,13 @@ The realization of this magnificent residence must have been a cherished dream o
 
 The so-called Throne Hall garden (Fig. 1, n. 17)
 
-### Keywords
+## Keywords
 
 - [flower gardens](http://vocab.getty.edu/page/aat/300008135)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
-### Garden Description
+## Garden Description
 
 The so-called “Throne Hall” (MACDONALD, PINTO 1995, pp. 78-81), was not a throne hall at all (Fig. 46). It was a garden (JASHEMSKI, SALZA PRINA RICOTTI 1987-88, pp. 154-156, figs. 9-10; SALZA PRINA RICOTTI 1998, p. 366, fig. 2; SALZA PRINA RICOTTI 2000, pp. 325-330, figs. 111-113). A probe (Fig. 46, A), in the peristyle cleared that here there was no flooring. Another probe (Fig. 46, B), revealed instead the existence of two flowerbeds (Fig. 46, C), dug in the tufa, and enclosed by low walls of irregular blocks of stone, roughly set together by a poor mortar. Even a small flowerpot was found in the northern flowerbed (Fig. 47). By its small size and its shape, it revealed to have contained some small plant of the kind called by Pliny “viola”(Fig. 48). The garden was crossed in the middle by a central alley: a large path (Fig. 46, P) that led to a podium (Fig. 46, S) set in an ample apse. Today both these two elements are in very bad condition The remains of the apse are scarcely higher than the basis of a series of niches, which - Penna says - were decorated by chunks of pumice tinged with green and bluish hues to imitate the grottoes' rocky walls, a typical decoration for a garden *nymphaeum*. Today the podium, that was set in the middle of the apse, is quite wrecked. Once it must have been lined with marble but today only the concrete of its basement is left (Fig. 49).
 
@@ -54,7 +54,7 @@ However the presence of the podium and the fragments of the red marble suggests 
 
 It is evident that this peristyle-garden was clearly designed to give a scenographic view of the masterwork (Fig. 50) to people staying in the Doric Pilasters' Hall.
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
@@ -62,7 +62,7 @@ It is evident that this peristyle-garden was clearly designed to give a scenogra
 
 {{< image src="50_reconstruction.jpg" alt="Reconstruction of the Throne Hall garden at Hadrian's Villa" title="Fig. 50: Reconstruction of the Throne Hall garden." >}}
 
-### Images
+## Images
 
 {{< image src="47_finding_a_flower_pot.jpg" alt="Photograph of the unearthing of a flower pot in the Throne Hall garden at Hadrian's Villa" title="Fig. 47: Finding a flower pot, courtesy of Eugenia Salza Prina Ricotti." >}}
 
@@ -70,15 +70,15 @@ It is evident that this peristyle-garden was clearly designed to give a scenogra
 
 {{< image src="49_the_throne_garden.jpg" alt="Photograph of the concrete basement remaining from the ruined Podium in the Throne Hall garden at Hadrian's Villa" title="Fig. 49: The concrete basement remaining from the ruined Podium in the Throne Hall garden, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -101,21 +101,21 @@ unspecified
 * E. Salza Prina Ricotti, "Adriano: architettura del verde e dell-acqua," in *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, p. 366, fig. 2. [(worldcat)](http://www.worldcat.org/oclc/636808013)
 * E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 325-330, figs. 111-113. [(worldcat)](http://www.worldcat.org/oclc/46784026)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

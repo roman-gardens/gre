@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rural Villa in Oberentfelden
 
-### Keywords
+## Keywords
 
 - [archaeological garden](#)
 - [balnea](http://vocab.getty.edu/page/aat/300120377)
@@ -55,7 +55,7 @@ Rural Villa in Oberentfelden
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
-### Garden Description
+## Garden Description
 
 The enclosed area of this villa rustica was 160 meters wide and at least 460 meters long; the eastern limits of the complex have not yet been found. The main residence and bath complex (A and B in Fig. 1), dating to the beginning of the 2nd century, stood on sloping land eight meters higher than the rest of the farmyard. At the eastern end of the service area (pars rustica) was a large peristyle building with a nymphaeum at the western end (D in Fig. 1). The open courtyard within this peristyle may have been a garden. Small kitchen gardens have been reconstructed between the various outbuildings and smaller houses (C in Fig. 1) in the pars rustica. Gardens here are possible, but it remains a matter of speculation whether these areas were actually planted.
 
@@ -65,7 +65,7 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="EUR_GS_Obe_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa (A) with a bath (B), a nymphaeum (D) and various outbuildings and houses (C). Plan adapted from Drack and Fellmann 1988, fig. 418." title="Fig. 1: Plan of the rural villa (A) with a bath (B), a nymphaeum (D) and various outbuildings and houses (C). Plan adapted from Drack and Fellmann 1988, fig. 418." >}}
 
@@ -75,11 +75,11 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 2nd century
 
-### Bibliography
+## Bibliography
 
 * W. Drack and R. Fellmann, *Die Römer in der Schweiz*, Stuttgart, 1988, pp. 457-459, fig. 418. [(worldcat)](http://www.worldcat.org/oclc/639129078)
 * R. Fellmann, *La Suisse gallo-romaine. Cinq siècles d’histoire*, Lausanne, 1992, pp. 152, 154, fig. 105. [(worldcat)](http://www.worldcat.org/oclc/28038264)
@@ -89,19 +89,19 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Oberentfelden](https://pleiades.stoa.org/places/177596)
 
-#### TGN ID
+## TGN ID
 
 [Oberentfelden (inhabited place)](http://vocab.getty.edu/page/tgn/8703779)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

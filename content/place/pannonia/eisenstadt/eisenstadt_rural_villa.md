@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rural Villa in Eisenstadt
 
-### Keywords
+## Keywords
 
 - [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
 - [archaeological garden](#)
@@ -56,25 +56,25 @@ Rural Villa in Eisenstadt
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
-### Garden Description
+## Garden Description
 
 The residence of this *villa rustica* was entered on the southeast by a portico (Fig. 1). After passing through a room interpreted as the atrium, one arrived in the open courtyard which had a peristyle on three sides (G on plan). On the northern edge of the courtyard was a podium (P on plan) near which votive altars to Diana and Silvanus were found, both gods of the woods and suitable subjects for a garden. This corner of the courtyard, thus, seems to have had religious character. In the middle of the courtyard was a square foundation, measuring 1.80 x 1.80 m., possibly the remains of a base for some kind of figure. The *villa rustica* was established in the early 2nd century and occupied probably until the 4th century.
 
 <!--### Maps-->
 
 
-### Plans
+## Plans
 
 {{< image src="PAN_EIS_Villa_M Carroll.jpg" alt="Fig. 1: Plan of the rural villa with a peristyle courtyard (G) and a podium (P) for sculpture. Adapted from Thomas 1964, fig. 73." title="Fig. 1: Plan of the rural villa with a peristyle courtyard (G) and a podium (P) for sculpture. Adapted from Thomas 1964, fig. 73. (Rights statement.)" >}}
 
 <!--### Images-->
 
 
-### Dates
+## Dates
 
 Early 2nd century - 4th century
 
-### Bibliography
+## Bibliography
 
 * E.B. Thomas, *Römische Villen in Pannonien*, Budapest, 1964, pp. 137-151, fig. 73. [(worldcat)](http://www.worldcat.org/oclc/785736879)
 
@@ -82,19 +82,19 @@ Early 2nd century - 4th century
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pannonia](https://pleiades.stoa.org/places/197425)
 
-#### TGN ID
+## TGN ID
 
 [Eisenstadt (inhabited place)](http://vocab.getty.edu/page/tgn/7003056)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

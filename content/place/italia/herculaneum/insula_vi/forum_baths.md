@@ -26,7 +26,7 @@ categories:
  [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 
-### Location Description
+## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
@@ -38,37 +38,37 @@ VI
 ## Garden
 Forum Baths
 
-### Keywords
+## Keywords
 - [palaestrae](http://vocab.getty.edu/page/aat/300007301)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 ---
 
-### Garden Description
+## Garden Description
 555.VI.1/7/8/10.
 During 1873-1875 the courtyard (a) of the *palaestra* was excavated. A section of the northeast *portico* was not excavated until 1930. The courtyard measured 15.75 x 25.25 m. and was bounded by the *portico* on the west, north and east sides. Engaged columns stood along the south. This area was likely planted after the *palestra* was built. Although the original excavators labeled this as a garden, no detailed observations were recorded to confirm this supposition.
 
-### Plans
+## Plans
 {{< image src="H_3_3-17.jpg" alt="Plan of Casa A Graticcio" title="Plan of Casa A Graticcio" >}}
 
 
 
 
-#### Pleiades ID
+## Pleiades ID
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-#### TGN ID
+## TGN ID
 [Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 1873-1875, 1930
 
-### Bibliography
+## Bibliography
 
 - Jashemski, Gardens, 1:165
 - Maiuri,Herculaneum, p. 40
@@ -79,11 +79,11 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
-### Publication date
+## Publication date
 
 
 

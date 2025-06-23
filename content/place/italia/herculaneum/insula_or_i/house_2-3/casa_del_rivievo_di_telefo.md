@@ -32,7 +32,7 @@ tags:
  [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 
-### Location Description
+## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
@@ -43,7 +43,7 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 Casa della Gemma (A)
 
 
-### Keywords
+## Keywords
 - [fauces](http://vocab.getty.edu/page/aat/300004298)
 - [tondi](http://vocab.getty.edu/page/aat/300033622)
 - [peltae](http://vocab.getty.edu/page/aat/300213495)
@@ -51,34 +51,34 @@ Casa della Gemma (A)
 - [impluvia](http://vocab.getty.edu/page/aat/300129867)
 
 
-### Garden Description
+## Garden Description
 A. The excavation of this house in 1934-1936 revealed an unusual atrium arrangement, which Maiuri states is the first time the architectural scheme that is used in a peristyle was stylishly applied to the atrium. The atrium had no fauces, there were three columns on both the north and south sides, and on the west side there were two engaged columns with two freestanding columns between them forming the entrance and supporting the room above. A collection of marble oscilla was uncovered here, second only to the collection found in the House of the Golden Cupids in Pompeii. The tondi, peltae, and pinakes were hung between the columns against the background of glossy red walls. Various Dionysiac and theater themes, satyrs, maenads, Pan, theater masks, an amorino, a sea horse and a sea panther were the subjects featured on the oscilla. The impluvium was enclosed by a low wall with a planting space on the top providing a garden atmosphere to the atrium. A marble puteal was located on the west side of the impluvium.  
 
-### Plans
+## Plans
 {{< image src="herculaneum_or.i_a.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
 
 {{< image src="h_orientalis_1_1-3-a.jpg" alt="Herculaneum - insula orientalis I. 1-3-a" title="Herculaneum - insula orientalis I. 1-3-a" >}}
 
-### Images
+## Images
 {{< image src="herc._i.2,3_42.17.64.jpg" alt="Herculaneum - insula orientalis I. 2.3-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 2.3-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-#### TGN ID
+## TGN ID
 [Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 * Maiuri, *Herculaneum*, pp.65-66 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
 * Maiuri, *Ercolano*, pp. 347-352 and fig. 276 (plan) on p. 346 [(worldcat)](http://www.worldcat.org/oclc/490581395)
 * Jashemski, *Gardens*, vol. 1, fig. 91 on p. 52 [(worldcat)](http://www.worldcat.org/oclc/1029851777)
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

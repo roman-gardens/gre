@@ -17,7 +17,7 @@ categories:
 [Hispania Tarraconensis]({{<relref "..">}}) \
 [Tarraconensis(Pleiades)](https://pleiades.stoa.org/places/981551)
 
-### Province Description
+## Province Description
 In 236 BC, to offset Carthage's loss of Sicily and Sardinia in the First Punic War, Hamilcar Barca led an expedition into Hispania to establish a colony there.  Through force of arms and diplomacy, he spread Carthaginian influence as far north as Barcellona, which bears his name.   In 230 BC, Hasdrubal, his son-in-law, established Qart Hadast that became Carthago Nova in Roman times and Cartagena today.  After the death of Hasdrubal, Hannibal, Hamilcar's oldest son, took command, attacked Saguntum, and in 218 set out for Italy leaving his younger brother, Hasdrubal, in command in Spain.  Through the Alps, he descended into Italy and threatened Rome for fourteen years.  Roman armies under the brothers Gnaeus and Publius Cornelius Scipio kept Hasdrubal in check and prevented his reinforcing Hannibal. They were both killed by the Carthaginians in 212.  Two years later, another Publius Cornelius Scipio, the  25-year-old son of the late general of the same name, was sent to Spain.  The next year, he captured New Carthage and, in 206 at the battle of Ilipa (about 15 km north of Savilla) destroyed most of the Carthaginians' numerically superior army and ended their hold on Spain.  Scipio settled his wounded veterans nearby at a place he called Italica to remind them of their origins.  Today, it is one of the best Roman archaeological sites in Italy.   After a quick trip back to Rome, where he was elected consul, he returned to Spain and went on to attack Carthage itself.  Hannibal was recalled to Africa, but Scipio annihilated his army in 202.  Rome thus came into possession of the Mediterranean coast of Iberia.
 
 If Rome was drawn into Hispania to keep the Carthaginians there from supporting Hannibal in Italy, it missed the opportunity offered by Hannibal's defeat to get out of Spain honorably.   Instead, in 197 BC it created two new Roman provinces, Hispania Citerior whose capital was Carthago Nova and Hispania Ulterior with Corduba as its capital.  Soon after, Rome launched a long war to subjugate the Lusitani, Celtiberians on the west coast.  During Sulla's dictatorship, the Lusitani were again in revolt, this time under the able leadership of the Roman general Quintus Sertorius, who sought to create an independent, Roman-like state in Hispania. He established a senate and schools for the sons of the local nobility.  
@@ -58,13 +58,13 @@ Villa Dehesa de Soria
 
 
 
-### Keywords
+## Keywords
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
-### Garden Description
+## Garden Description
 The villa was first excavated in 1928-9.(Ampu  More than 22 rooms were paved with mosaics for a total area of 1,400 square meters of mosaic. Made of local stones, they date from the second century AD. Among them is a rare picture of a crown of shafts a grain, a symbol of agricultural fertility.
 
 This villa is one of the best examples in Spain of an axially planned peristyle villa. In the center of its grand peristyle courtyard (41 x 22 m.) was a structure which may have been part of a water supply system for the garden in the courtyard. The main reception room (Fig. 1, 1, in the center of the north wing) had a wide opening onto the garden and a passage through the low wall which otherwise surrounded the garden on three sides and half of the fourth. Likewise room [2] on the east side, possibly a triclinium, had a good view of the garden.  An unusual feature, however, is that, with the exception of these two rooms, all the other rooms around the porticoes of the peristyle did not open directly onto the portico but onto narrow corridors perpendicular to the portico. Thus, unless they had windows, they did not get light and air directly from the garden courtyard.
@@ -72,15 +72,15 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 
 
 
-### Plans
+## Plans
 {{< image src="his_tar_cue_soria_fig1.jpg" alt="Villa of Cuevas de Soria." title="Villa of Cuevas de Soria.  Source: Gorges, Planche XLIV." >}}
 
 
 
-### Dates
+## Dates
 2C AD
 
-### Bibliography
+## Bibliography
  - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. [(worldcat)](http://www.worldcat.org/oclc/7840420644)
 
 
@@ -88,16 +88,16 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [667996380](https://pleiades.stoa.org/places/667996380)
 
-#### TGN ID
+## TGN ID
 [Clunia (deserted settlement)](http://vocab.getty.edu/page/tgn/7027125)
 
-### Contributor
+## Contributor
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

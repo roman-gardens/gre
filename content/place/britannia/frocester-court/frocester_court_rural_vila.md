@@ -44,7 +44,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rural Villa in Frocester Court
 
-### Keywords
+## Keywords
 
 - [archaeological gardens](#)
 - [ditches](http://vocab.getty.edu/page/aat/300006178)
@@ -54,7 +54,7 @@ Rural Villa in Frocester Court
 - [paddocks](http://vocab.getty.edu/page/aat/300428748)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
-### Garden Description
+## Garden Description
 
 This Roman villa in Gloucestershire is situated about 14 miles west of the civitas capital Corinium Dobunnorum (Cirencester). The main residence is of the winged corridor type, fronted by a large courtyard which was bounded by the house on one side, by a wall on the two sides perpendicular to the house and by a fence on the fourth side opposite the house (Fig. 1). The yard measured 56 x 53 meters.
 
@@ -62,19 +62,19 @@ Excavated evidence indicates that this courtyard was designed as a formal garden
 
 <!-- ### Maps -->
 
-### Plans
+## Plans
 
 {{< image src="Frocester_Fig_10_or_7.1a.jpg" alt="Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2." title="Fig. 1: Plan of the villa with its central path (P), planting beds for flowers and hedges (dark grey rectangles), a possible orchard (O) and a gravelled yard (dotted). Adapted from Zeepvat 1991, fig. 5.2." >}}
 
-### Images
+## Images
 
 {{< image src="Frocester_11_or_7.1b.jpg" alt="Fig. 2: Reconstruction of the villa and its garden at Frocester Court. The closest wall should be a fence. Drawing courtesy of E. Price." title="Fig. 2: Reconstruction of the villa and its garden at Frocester Court. The closest wall should be a fence. Drawing courtesy of E. Price." >}}
 
-### Dates
+## Dates
 
 early 4th - 5th century CE
 
-### Bibliography
+## Bibliography
 
 * M. Carroll, *Earthly Paradises. Ancient Gardens in History and Archaeology.* London: The British Museum Press, 2003, 110, fig. 88
 * M. Carroll, They came, they saw, they gardened. *The Garden: Journal of the Royal Horticultural Society* 128.6, 2003, 463, fig. p. 461
@@ -85,19 +85,19 @@ early 4th - 5th century CE
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Frocester](https://pleiades.stoa.org/places/79471)
 
-#### TGN ID
+## TGN ID
 
 [Frocester (inhabited place)](http://vocab.getty.edu/page/tgn/4004114)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

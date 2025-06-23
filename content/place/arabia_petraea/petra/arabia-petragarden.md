@@ -53,7 +53,7 @@ The Southern Terrace is a series of monumental built terraces constructed along 
 ## Garden
 Petra Garden and Pool Complex
 
-### Keywords
+## Keywords
 - [aqueducts](http://vocab.getty.edu/page/aat/300006165)
 - [archaeobotany](http://vocab.getty.edu/page/aat/300251771)
 - [artificial islands](http://vocab.getty.edu/page/aat/300386969)
@@ -75,7 +75,7 @@ Petra Garden and Pool Complex
 - [terracotta pipelines](http://www.romanaqueducts.info/picturedictionary/pd_onderwerpen/pipe.htm)
 - [water features (landscaping)](http://vocab.getty.edu/page/aat/300180674)
 
-### Garden Description
+## Garden Description
 The only example of a garden investigated using specialized garden archaeology techniques in the region of Arabia Petraea is found at Petra. A large open area was believed to be the site of a marketplace, the so-called “Lower Market,” until excavations revealed the remnants of a formal garden and pool complex. The garden is situated on an artificial terrace on the southern slope of the Wadi Musa, overlooking the main colonnaded street and flanked by the so-called “Middle Market” to the east, and the [Great Temple](https://pleiades.stoa.org/places/777218559) complex to the west. To the south of the garden is a residential quarter on top of a high sandstone ridge (Ez-Zantur), where several private villas have been excavated (Fig. 5). Primary access into the garden was apparently from the west, through a triple colonnade that marks the boundary between the Great Temple’s “lower temenos” and the garden terrace.
 
 The garden is composed of two distinct parts: on the north is a large earthen terrace that is elevated approximately six meters above the main street and is level with the Great Temple’s “lower temenos”; to the south of the earthen terrace and elevated another two and a half meters above it is a monumental pool with a central island-pavilion (Fig. 3). A metrological analysis of the site reveals that the Roman *pes* was employed in the layout of the garden terrace and pool.
@@ -98,17 +98,17 @@ The Petra garden continued in use after the Roman annexation of Petra in 106 CE,
 
 A deep deposit of sediment above the pool floor indicates that the pool went out of use or was not well-maintained for a period of time before the collapse of the pavilion walls into the pool as a result of the earthquake of 363 CE that caused much destruction in Petra. The remnants of later walls, evidence for the reuse of the hydraulic installations, and a raised field that occupies part of the earthen terrace, testify to the continued use of the site for agricultural purposes through the post-Roman occupation of Petra and into the modern era.
 
-### Maps
+## Maps
 {{< image src="1_arabia_petraea_map.jpg" alt="Map of Petra location" caption="Fig. 1: Map showing the location of ancient Petra in Arabia Petraea. Map by L.-A. Bedal, based on [Andrein with the assistance of EraNavigator](https://commons.wikimedia.org/w/index.php?curid=26047529)" >}}
 
-### Plans
+## Plans
 {{< image src="2_arabia_petra_city_center.jpg" alt="Plan of Petra's city center" title="Fig. 2: Plan of Petra's city center showing the location of the garden and pool complex on the Southern Terrace. Plan by L.-A. Bedal" >}}
 
 {{< image src="3_arabia_petra_garden_plan.jpg" alt="Archaeological plan showing garden and pool complex" title="Fig. 3: Plan of the garden and pool complex, 2018. Permission of L.-A. Bedal." >}}
 
 {{< image src="4_arabia_petra_gpr.jpg" alt="plan of ground-penetrating radar results" title="Fig. 4: Horizontal slice of the ground-penetrating radar data showing the location of built features (yellow-orange) on the garden terrace. Permission of L.-A. Bedal." >}}
 
-### Images
+## Images
 {{< image src="5_arabia_petra_southernterrace.jpg" alt="View of the Southern Terrace and its structures" title="Fig. 5: Aerial view of the structures on the Southern Terrace in Petra's City Center. Photograph by L.-A. Bedal." >}}
 
 {{< image src="6_arabia_petra_pathway.jpg" alt="Overhead view of Trench 17" title="Fig. 6: Excavations in Trench 17 where a gravel pathway with stone border and excavated root cavities were uncovered. Photograph by L.-A. Bedal." >}}
@@ -119,7 +119,7 @@ A deep deposit of sediment above the pool floor indicates that the pool went out
 
 {{< image src="9_arabia_petra_garden_fresco.jpg" alt="Painted ceiling in a vaulted room." title="Fig. 9: Garden trellis painting at Little Petra. Photograph by L.-A. Bedal." >}}
 
-### Tables
+## Tables
 Table 1: Taxa identified from the Petra Garden and Pool Complex. (from Ramsey and Bedal 2015)
 
 <style>
@@ -254,10 +254,10 @@ tbody tr:last-child {
 | TOTALS                           |  61 | 274 | 389 | 613 |  60 |  57 |
 
 
-### Dates
+## Dates
 End of the 1st century BCE - 2nd/3rd centuries CE (Late Hellenistic/Roman periods)
 
-### Bibliography
+## Bibliography
 - Alcock, S.E., M.L. Berenfeld, I.B. Straughn, C.A. Tuttle, and (with a ceramic report by Tali Erickson-Gini). 2010. “The Brown University Petra Archaeological Project: Report on the 2009 Exploration Season in the ‘Upper Market.’” *Annual of the Department of Antiquities of Jordan* 54: 153–166. (http://publication.doa.gov.jo/Publications/ViewChapterPublic/91)
 
 - Bedal, L.-A. 1999. “A Paradeisos in Petra: new light on the ‘Lower Market.’” *Annual of  the Department of  Antiquities of Jordan* 43: 227–239. (http://publication.doa.gov.jo/Publications/ViewChapterPublic/759)
@@ -284,17 +284,17 @@ End of the 1st century BCE - 2nd/3rd centuries CE (Late Hellenistic/Roman period
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Garden and Pool Complex at Petra](https://pleiades.stoa.org/places/511547525)
 
-#### TGN ID
+## TGN ID
 [Petra (deserted settlement)](http://vocab.getty.edu/page/tgn/7002383)
 
-### Contributor
+## Contributor
 [Leigh-Ann Bedal](#)
 <!-- [name](https://....) -->
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

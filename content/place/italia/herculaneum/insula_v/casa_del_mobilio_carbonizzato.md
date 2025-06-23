@@ -26,7 +26,7 @@ categories:
  [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 
-### Location Description
+## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
@@ -38,14 +38,14 @@ V
 ## Garden
 Casa del Mobilio Carbonizzato
 
-### Keywords
+## Keywords
 - [fauces](http://vocab.getty.edu/page/aat/300007570)
 - [aedicula](http://vocab.getty.edu/page/aat/300004145)
 - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
 - [aedicula lararium]()
 - [lararium]
 
-### Garden Description
+## Garden Description
 549.V.5.
 Visible from the *fauces*, this little courtyard (a) had an elaborate *aedicula* shrine which was excavated in 1932-1933. A low double wall with a gutter bordered the courtyard on the west and north sides with a cistern opening located in the center of the west edge of garden. Four small flower beds on the sides and a circular bed in the center had raised borders to retain the water for the plants within, and the remainder of the courtyard was paved in *opus signinum*. Jashemski commented that the garden had been restored with eleven such small planting beds. The east wall had traces of an animal painting on a blue background by the *aedicula lararium*. A deer was painted on the right side and several more indistinct animal forms were noted over the *lararium*. At the south end of this wall there were traces of leaves and a lattice fence suggesting a garden painting may have been located here.
 <!--### Maps-->
@@ -59,34 +59,34 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 {{< image src="H_3_3-17.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
 
 {{< image src="H_3_1-2_18-19.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
 
 
-### Images
+## Images
 
 {{< image src="Herc. III.19-18,1-2   17.2.78.jpg" alt="Illustration of Casa dell’Ara Laterizia" title="Illustration of Casa dell’Ara Laterizia" >}}
 
 {{< image src="Herc.III.19-18,1-2   17.3.78.jpg" alt="Illustration of Casa dell’Ara Laterizia" title="Illustration of Casa dell’Ara Laterizia" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-#### TGN ID
+## TGN ID
 [Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 1932-1933
 
-### Bibliography
+## Bibliography
 - Jashemski, Gardens, vol.II, p. 370-371
 - Maiuri, Herculaneum,p. 44
 - Maiuri, Ercolano, pp.260-261 and fig. 203 (plan) on p. 256.
@@ -95,11 +95,11 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
-### Publication date
+## Publication date
 
 
 

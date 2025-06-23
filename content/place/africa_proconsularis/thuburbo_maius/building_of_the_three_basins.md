@@ -22,7 +22,7 @@ tags:
 [Africa Proconsularis]({{<relref "..">}}) \
 [Africa proconsularis](https://pleiades.stoa.org/places/991341)
 
-### Province Description
+## Province Description
 
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
@@ -33,17 +33,17 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 {{< image src="thuburbo_house_of_the_three_basins.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
 
-### Location Description
+## Location Description
 
 The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to a *municipium* by Hadrian (117-138), and to a colony during the rein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.
 
-### Keywords
+## Keywords
 
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [semicircular basin](#)
 
-### Garden Description
+## Garden Description
 
 This building, located to the NW of the Winter Baths, was comprised of three articulated sectors, the SE area, the NW area, and the area to the N of the NW area.
 
@@ -51,17 +51,17 @@ The SE area was laid out around an incomplete peristyle with seven columns along
 
 
 
-### Maps
+## Maps
 
-### Plans
+## Plans
 
 {{< image src="AFR_Thub_Btb_Wjashemski_color.jpg" alt="Plan of the Bulding of the Three Basins; CMT, Thuburbo Majus, V. II, fasc.2, plan 19-20" title="Fig. 1: Plan of the Bulding of the Three Basins (CMT, Thuburbo Majus, V. II, fasc.2, plan 19-20)" >}}
 
-### Dates
+## Dates
 
 2nd-3rd century CE
 
-### Bibliography
+## Bibliography
 
 *  Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région des Grands Thermes*, V. II, fasc.2,  INA, Tunis, 1985, pp. 101-13, plan 19-20. [(worldcat)](http://www.worldcat.org/oclc/603306079)
 * Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987. [(worldcat)](http://www.worldcat.org/oclc/20058336)
@@ -69,20 +69,20 @@ The SE area was laid out around an incomplete peristyle with seven columns along
 
 
 
-#### Pleiades_ID
+## Pleiades_ID
 
 [Thuburbo Maius](https://pleiades.stoa.org/places/315220)
 
-#### TGN ID
+## TGN ID
 
 [Kasba, Henchir el (deserted settlement)](http://vocab.getty.edu/page/tgn/7001750)
 
-### Contributor
+## Contributor
 
 [Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 <!--add in orcid id and info-->
 
-### Publication Date
+## Publication Date
 21 Apr 2021
 
 <!--### Related articles-->

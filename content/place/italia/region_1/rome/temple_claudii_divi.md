@@ -10,7 +10,7 @@ editor: Rhiannon Paré
 draft: true
 ---
 
-# Province
+## Province
 
 [ITALIA]({{<relref "..">}})\
 [ITALIA](https://pleiades.stoa.org/places/1052)\
@@ -21,7 +21,7 @@ draft: true
 Italia was not considered a province until the reign of Diocletian. The peninsula, however, was divided into administrative regions by Augustus around 7 BCE, according to Pliny's *Naturalis Historia*. Regio I was comprised of Latium and Campania.<!-- DESCRIPTION -->
 
 
-# Location
+## Location
 
 [Rome]({{<relref ".">}}) \
 [Rome](https://pleiades.stoa.org/places/108867)
@@ -30,7 +30,7 @@ Italia was not considered a province until the reign of Diocletian. The peninsul
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-# Sublocation
+## Sublocation
 [Caelian Hill]({{<relref ".">}}) \
 [Caelian Hill](https://pleiades.stoa.org/places/695491849)
 
@@ -43,11 +43,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 <!-- DESCRIPTION -->
 
-# Garden
+## Garden
 Gardens of the Temple of Divine Claudius (Roma)<!-- List of gardens in province -->
 <!-- May be left blank for now -->
 
-### Keywords
+## Keywords
 
 - [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
 - [nemus (grove)](http://vocab.getty.edu/page/aat/300008884)
@@ -56,7 +56,7 @@ Gardens of the Temple of Divine Claudius (Roma)<!-- List of gardens in province 
 - [aqueducts](http://vocab.getty.edu/page/aat/300006165)
 - [stagnum (man-made lake)](http://vocab.getty.edu/page/aat/300263360)
 
-### Garden Description
+## Garden Description
 
 The Temple of the Divine Claudius, located on the northern slope of the Caelian Hill, was constructed in multiple phases. The temple is known from the Severan marble plan (Fig. 1) and from archaeological remains.  Agrippina initiated the building of the temple but was murdered before its completion. After the fire of A.D. 64, Nero altered the temple to include it in the [Domus Aurea](https://en.wikipedia.org/wiki/Domus_Aurea) ([Seutonius Vesp. 9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0061%3Alife%3Dves.%3Achapter%3D9%3Asection%3D1);  [Frontinus Aq. 2.76](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Frontinus/De_Aquis/text*.html)). Vespasian completed the temple in A.D. 69.
 
@@ -82,17 +82,17 @@ The temple is set within eight L-shaped planting beds and fourteen rectangular p
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-### Periodo ID
+## Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+## Pleiades ID
 [Caelian Hill](https://pleiades.stoa.org/places/695491849)
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### TGN ID
+## TGN ID
 [Rome (inhabited place)](http://vocab.getty.edu/page/tgn/7000874)
 <!-- ID is for Location (Rome), not the individual garden -->
 
@@ -100,7 +100,7 @@ The temple is set within eight L-shaped planting beds and fourteen rectangular p
 
 Valerie Aymer<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
 
-### ORCID
+## ORCID
 
 <!-- [ORCID](https://orcid.org/ORCID) -->
 

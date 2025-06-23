@@ -37,11 +37,11 @@ Caelian Hill \
 
 
 
-# Garden
+## Garden
 
 Garden of the Temple of Divine Claudius, Palatine
 
-### Keywords
+## Keywords
 
 - [aqueducts](http://vocab.getty.edu/page/aat/300006165)
 - [cisterns (plumbing component)](http://vocab.getty.edu/page/aat/300052558)
@@ -54,7 +54,7 @@ Garden of the Temple of Divine Claudius, Palatine
 - [temple (building)](http://vocab.getty.edu/page/aat/300007595)
 
 
-### Garden Description
+## Garden Description
 
 The [Temple of the Divine Claudius](https://en.wikipedia.org/wiki/Temple_of_Claudius), located on the northern slope of the [Caelian Hill](https://en.wikipedia.org/wiki/Caelian_Hill), was constructed in multiple phases. The [temple](http://vocab.getty.edu/page/aat/300007595) is known from the [Severan Marble Plan (*FUR*)]((https://formaurbis.stanford.edu/index.php?field0=all&search0=CLAUDIUS&op0=and&field1=all&search1=)) (Fig. 1) and from archaeological remains.  [Agrippina](https://www.britannica.com/biography/Julia-Agrippina) initiated the building of the temple but was murdered before its completion. After the fire of 64 CE, [Nero](https://www.britannica.com/biography/Nero-Roman-emperor) altered the temple to include it in the [*Domus Aurea*](https://en.wikipedia.org/wiki/Domus_Aurea) ([Seutonius *Vesp*. 9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0061%3Alife%3Dves.%3Achapter%3D9%3Asection%3D1);  [Frontinus *Aq*. 2.76](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Frontinus/De_Aquis/text*.html)). [Vespasian](https://www.britannica.com/biography/Vespasian) completed the temple in 69 CE.
 
@@ -64,15 +64,15 @@ Because these remains are located under the present-day Monastery of the Passion
 
 The temple is set within eight L-shaped [planting beds](http://vocab.getty.edu/page/aat/300430426 and fourteen rectangular planting beds (Fig. 2).  Some scholars considered these forms to be the substructures of the temple complex, while it is also possible that these structures are water features.  However, the majority of scholars believe that these structures are planted rows of trees or shrubs in a [*nemus*](http://vocab.getty.edu/page/aat/300008884), similar to the plantings found during the new excavations of the [Templum Pacis](https://en.wikipedia.org/wiki/Temple_of_Peace,_Rome). The role of Vespasian as sponsor also lends credence to such an interpretation.  Vespasian is credited with building a *quadriporticus* to surround the entire platform and Martial mentions a *porticus* ([Martial *Sp*. 2.9-10](https://www.thelatinlibrary.com/martial/mart.spec.shtml)), but there is no evidence for the *porticus* on the Marble Plan.
 
-### Dates
+## Dates
 
 1st century CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * M. Blake, *Roman Construction in Italy from Tiberius through the Flavians.* Washington, 1959, pp. 31-3, 52-3, 90-1. [(worldcat)](http://www.worldcat.org/oclc/466937796)
 * *LTUR*, s.v. Claudius, Divus, Templum by C. Buzzetti; [(worldcat)](http://www.worldcat.org/oclc/492434566)
@@ -81,19 +81,19 @@ unspecified
 * R. Lloyd, "Three Monumental Gardens on the Marble Plan" *American Journal of Archaeology* (1986): 91-100. [(worldcat)](http://www.worldcat.org/oclc/1076135742)
 * K. Gleason and L. Cockerham, "Rus in Urbe: Two Parks of Ancient Rome" *CELA Proceedings*, 1992, pp. 103-12.[(worldcat)](http://www.worldcat.org/oclc/741989882)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Caelian Hill](https://pleiades.stoa.org/places/695491849)
 
-#### TGN ID
+## TGN ID
 
 [Rome (inhabited place)](http://vocab.getty.edu/page/tgn/7000874)
 
-### Contributor
+## Contributor
 
 Valerie Aymer<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
 
-#### ORCID
+## ORCID
 
 <!-- [ORCID](https://orcid.org/ORCID) -->
 

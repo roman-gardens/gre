@@ -26,7 +26,7 @@ categories:
  [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 
-### Location Description
+## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
@@ -39,12 +39,12 @@ IV
 Casa dell’Alcova
 
 
-### Keywords
+## Keywords
 - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [procoeton](#)
 
-### Garden Description
+## Garden Description
 542.IV.3-4.
 A. Two separate dwellings were united to form this house, excavated in 1928-1929. The northern house has three courtyards. The first (a) is directly off of the vestibule, the second is a covered *atrium*(b) with a small courtyard that collected roof water, and the third courtyard (c) in the rear supplied light and air to the adjoining rooms and the *triclinium*. This was too badly damaged to ascertain if it was a garden or even if it once held potted plants. It was compared to the better preserved courtyard in the Casa a Graticcio by Maiuri.
 
@@ -61,7 +61,7 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="H_4_3-9.jpg" alt="Plan of Casa dell’Alcova" title="Plan of Casa dell’Alcova" >}}
 
@@ -70,22 +70,22 @@ NEW WAY ↓↓↓↓
 
 <!--### Images-->
 
-#### Pleiades ID
+## Pleiades ID
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-#### TGN ID
+## TGN ID
 [Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 1928-1929
 
-### Bibliography
+## Bibliography
 
 - Maiuri, *Ercolano*, pp. 51, 389-391 and fig. 322 (plan) on p. 389 [(worldcat)](http://www.worldcat.org/oclc/490581395)
 - Maiuri, *Herculaneum*, pp. 31 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
@@ -96,11 +96,11 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
-### Publication date
+## Publication date
 
 
 

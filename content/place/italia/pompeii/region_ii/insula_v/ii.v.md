@@ -45,7 +45,7 @@ tags:
 ## Garden
 Large vineyard
 
-### Keywords
+## Keywords
 - [amphitheaters (built works)](http://vocab.getty.edu/page/aat/300007128)
 - [trellises](http://vocab.getty.edu/page/aat/300006785)
 - [triclinia (couches)](http://vocab.getty.edu/page/aat/300142552)
@@ -55,7 +55,7 @@ Large vineyard
 
 
 
-### Garden Description
+## Garden Description
 Located north of the amphitheater, this site was initially identified as the Foro Boario or Cattle Market.  A small amount of excavation was started in 1755, but in 1814 the entrance and south wall were excavated. Most of the excavation was completed in the 1950s, except the northeastern section. In 1966, Jashemski undertook preliminary sub-soil excavations and proved that the area had been under cultivation. Work continued through 1968 and 1970 removing some undisturbed lapilli and consequently 2,014 vine root cavities were recorded with an equal number of stakes in that section. It was noted that ninety percent of the root cavities had a diameter ranging from 2 to 5.5 cm with the average being just under 4 cm. The total range of size was from 1 cm to 8.5 cm. The vines were spaced four Roman feet apart, trained on a rectangular framed trellis (*vitus compluviata*) and each vine had three or four depressions for watering at the base. Also discovered were two well preserved examples of propagation by layering.
 A north-south path starting from the entrance divided the vineyard into equal halves. An east-west path crossed this leading to the outdoor [triclinium](http://vocab.getty.edu/page/aat/300004359) and two rooms where the wine was made. A third path was discovered in 1970 running parallel to the north wall. Fifteen coins were found on the third path. The paths ran under [arbors](http://vocab.getty.edu/page/aat/300006781) and usually two root cavities were found by each of the posts that supported the [arbor](http://vocab.getty.edu/page/aat/300006781).
 Rows of trees were planted at the edge of the vineyard between the second and third row of vines and widely spaced trees grew along the paths between the first and second row of vines on each side of the paths. Other trees were scattered randomly in the rest of the vineyard. In all, fifty-eight tree cavities were found, their ground level dimension ranging from 3.5cm to 40 cm. Two carbonized olives were found as well as one bean which could indicate that vegetables were also grown under the vines.
@@ -143,10 +143,10 @@ The entrance directly across from the amphitheater was designed to be an archite
 
 {{< image src="Fig. 60 II.v. 18.3.70.jpg" alt="the excavation" title="the excavation ">}}-->
 
-### Dates
+## Dates
 Excavated 1755, 1814 and between 1912 and 1972.
 
-### Bibliography
+## Bibliography
 - *Giornale di scavo sistematico eseguito nell’area del Foro Boario da 1º Decembre, 1954 al 31 Maggio 1955* (unpublished);
 
 
@@ -174,18 +174,18 @@ Excavated 1755, 1814 and between 1912 and 1972.
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [444848573](https://pleiades.stoa.org/places/444848573)
 
 
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

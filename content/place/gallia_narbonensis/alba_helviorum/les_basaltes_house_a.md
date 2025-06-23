@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
 [Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [alba_helviorum]({{<relref ".">}}) \
 [alba_helviorum](https://pleiades.stoa.org/places/167629)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -47,7 +47,7 @@ Les Basaltes, House A
 
 
 
-### Keywords
+## Keywords
 - [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
@@ -57,7 +57,7 @@ Les Basaltes, House A
 
 
 
-### House Description
+## House Description
 
 
 This house is in the eastern quarter of the town, near the temple of the Basaltes, 200 m to the west of the forum.  It lies 35 m to the south of the apparently private baths of la Planchette, near the temple of the Basaltes.  Excavated in 1983-1984, the walls are for the most part destroyed down to the level of the foundations.  The house covers an area of 632.5 sq m, with a usable covered surface of 356.9 sq m.  After a previous state not well known, it was rebuilt between 10 and 20 A.D.. It saw several phases before being abandoned at the end of the third century.  The eastern part of the house is unknown.  
@@ -72,38 +72,38 @@ At first, this relatively modest dwelling was thought to have perhaps belonged t
 
 
 
-### Plans
+## Plans
 
 
 {{< image src="les_basaltes_house_A.png" alt="Plan of Les Basaltes, House A" title="Plan of Les Basaltes, House A" >}}
 
 
 
-### Dates
+## Dates
 
 
 
 
 
-### Bibliography
+## Bibliography
 
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Alba-la-Romaine (inhabited place)](http://vocab.getty.edu/page/tgn/8712431)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

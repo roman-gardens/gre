@@ -28,7 +28,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -36,7 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula IV]({{<relref "#">}})
 
-### Keywords
+## Keywords
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [tablina](http://vocab.getty.edu/page/aat/300004180)
@@ -45,12 +45,12 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Garden
 [Peristyle](http://vocab.getty.edu/page/aat/300080971) garden in a domestic property with a viridarium to the rear.
 
-### Garden Description
+## Garden Description
 This [peristyle](http://vocab.getty.edu/page/aat/300080971) garden had two entrances on the west and the south. It was located at the rear of the [tablinum](http://vocab.getty.edu/page/aat/300004180) and had a [portico](http://vocab.getty.edu/page/aat/300004145) on the west and south enclosed by a low wall and supported by columns. At the west entrance there was a cistern. A large window that looked out into the garden located in the [triclinium](http://vocab.getty.edu/page/aat/300004359) was framed by two engaged columns.
 
 
 
-### Bibliography
+## Bibliography
 
 * Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 65  
 * Fiorelli, G. 1875. *Descrizione di Pompei*, p. 60 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)    
@@ -62,20 +62,20 @@ This [peristyle](http://vocab.getty.edu/page/aat/300080971) garden had two entra
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-###  Excavation Dates
+##  Excavation Dates
 Excavated 1869.
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->

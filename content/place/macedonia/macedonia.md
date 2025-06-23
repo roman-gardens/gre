@@ -26,11 +26,11 @@ categories:
 <!-- May be left blank for now -->
 
 
-### Dates
+## Dates
 <!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
 <!-- If no date, use "unspecified" -->
 
-### Bibliography
+## Bibliography
 
 <!--
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
@@ -40,24 +40,24 @@ categories:
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Macedonia (Roman province)]({{<relref ".">}}) \
 [Macedonia (Roman province)](https://pleiades.stoa.org/places/981531)
 
-#### TGN ID
+## TGN ID
 
 [Macedonia (former nation/state/empire)](http://vocab.getty.edu/page/tgn/7001349)
 
-### Contributor
+## Contributor
 
 <!-- [AUTHOR_NAME](AUTHOR_LINK) -->
 
-#### ORCID
+## ORCID
 
 <!-- [ORCID](https://orcid.org/ORCID) -->
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

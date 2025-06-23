@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Tomb Garden of Anonymous Gaul in Andematunnum
 
-### Keywords
+## Keywords
 
 - [former reservoirs](http://vocab.getty.edu/page/aat/300386966)
 - [inscription](#)
@@ -55,11 +55,11 @@ Tomb Garden of Anonymous Gaul in Andematunnum
 - [orchards](http://vocab.getty.edu/page/aat/300008890)
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 
-### Garden Description
+## Garden Description
 
 A famous inscription from the territory of the Lingonian Gauls (Langres) known only from a manuscript of the tenth century records the will of a local hunting enthusiast who built for himself a lavish mausoleum (*cella memoriae*) and equipped it with orchards (*pomaria*) and a reservoir (*lacus*) put in the care of two freedmen who are instructed to devote the revenues from them to upkeep of the tomb complex, and three landscape gardeners (*topiarii*) and their apprentices, each to be supported annually by the testator’s grandson, Sex. Iulius Aquila, and his heirs. The will goes on to provide for annual banquets at the tomb site, to be funded by Aquila and his heirs (not explicitly from proceeds of the orchards), and to ensure that any deviations from the testator’s prescriptions be undertaken only in order that the complex be better adorned, better planted, and better perfected (*nisi..ut melius colantur et conserantur perficianturque*).
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -71,17 +71,17 @@ A famous inscription from the territory of the Lingonian Gauls (Langres) known o
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * *CIL* 13.5708. [EDCS-19800561](http://db.edcs.eu/epigr/epi_ergebnis.php)
 * *ILS* 8379.
@@ -92,19 +92,19 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Andematunnum](https://pleiades.stoa.org/places/177441)
 
-#### TGN ID
+## TGN ID
 
 [Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
 
-### Contributor
+## Contributor
 
 [John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

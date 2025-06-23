@@ -25,7 +25,7 @@ Hispania Baetica
 [Egabrum]({{<relref ".">}}) \
 [Egabrum](https://pleiades.stoa.org/places/265919)
 
-### Location Description
+## Location Description
 
 <!--## Sublocation-->
 
@@ -42,7 +42,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 House of the Mithra
 
-### Keywords
+## Keywords
 
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [drains](http://vocab.getty.edu/page/aat/300052564)
@@ -52,12 +52,12 @@ House of the Mithra
 <!-- [Doric order]-->
 <!-- [triclinium]-->
 
-### Garden Description
+## Garden Description
 
 Excavations identified two building phases in the villa. The early Imperial phase of the villa contained a peristyle courtyard with a pool, central drain and possibly a garden. During the late Imperial phase (fourth century AD), the pool was converted into a double fountain with two semicircular exedras on its short sides, which housed sculptures of Mithra and Dionysus. The space which may have been a garden was transformed into a second pool around the original one by paving it and building a low wall at the base of the peristyle. The ruins show this second state.
 
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -69,7 +69,7 @@ Excavations identified two building phases in the villa. The early Imperial phas
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 {{< image src="HIS_BAE_Ega_Hm_plan_CA fig1.jpg" alt="Fig. 1: Plan of the House of the Mithra.  Source: Gorges, Planche XXXIII. (Rights Statement)" >}}
 
@@ -79,11 +79,11 @@ Excavations identified two building phases in the villa. The early Imperial phas
 
 
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * A. Blanco, J. García y M. Bendala, ‘Excavaciones en Cabra (Córdoba).La Casa de Mitra (Primera campaña, 1972),’ *Habis 3*, Universidad de Sevilla, (Sevilla 1973), 297-319.[(worldcat)](http://www.worldcat.org/oclc/920418457)
 * M.ª C. Fernández Castro,*Villas romanas en Hispania*, (Madrid 1982). [(worldcat)](http://www.worldcat.org/oclc/876519837)
@@ -95,16 +95,16 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Igabrum/Egabrum]{{<relref ".">}}) \
 [Igabrum/Egabrum](https://pleiades.stoa.org/places/265919)
 
-#### TGN ID
+## TGN ID
 [Cabra (inhabited place)](http://vocab.getty.edu/page/tgn/7007570)
 
-### Contributor
+## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
-### Publication date
+## Publication date
 
 21 Apr 2021

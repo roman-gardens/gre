@@ -24,7 +24,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 [Volubilis]({{<relref ".">}})
 [Volubilis](https://pleiades.stoa.org/places/275740)
 
-### Location Description
+## Location Description
 
 Volubilis was the capital of the province of Mauretania Tingitania. The city was of Punic foundation, located on the edge of a plain that slopes down from the Zerhoun hills. During the reign of Juba II, king of Mauretania, Volubilis knew a prosperous period. He was succeeded by his son, Ptolemy of Mauretania, who was assassinated in 40 CE by Caligula. The kingdom was then divided into two provinces, and Volubilis was elevated to the rank of municipium as a reward for taking the side of Rome during the conflict.
 
@@ -38,7 +38,7 @@ The city rapidly developed and expanded; new temples, baths, civic buildings and
 
 The Gordian Palace (Le palais dit de Gordien)
 
-### Keywords
+## Keywords
 
 - [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
@@ -48,37 +48,37 @@ The Gordian Palace (Le palais dit de Gordien)
 - [piscinae](http://vocab.getty.edu/page/aat/300375619)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
-### Garden Description
+## Garden Description
 
 The large domus that belonged to the rich Pompeian family during the second century became the Governor’s palace during the Gordian period. The domus, approximately 69 by 74 m, was located on the north side of the decumanus maximus.  The vestibule opened into a rectangular peristyle garden enclosed on four sides by a portico supported by 12 columns. A horseshoe-shaped pool faced the large oecus (label 7) on the north and extended into the garden. There was an entrance into the garden on the south, placed along the central axis of the vestibule and the oecus. Two other courtyards (labels 22 and 17) with pools gave light and air to their surrounding rooms. A bath with a courtyard peristyle added to the luxury of the domus.
 
-### Plans
+## Plans
 <!--Plan View Image Missing-->
 <!-- {{< image src="IMAGEMISSING" alt="Plan of the Gordian Palace" title="Fig. 1: Plan of the Gordian Palace (Rights Statement)">}} -->
 
-### Images
+## Images
 
-### Dates
+## Dates
 
 Second century CE
 
-#### Excavation Dates
+## Excavation Dates
 
-### Bibliography
+## Bibliography
 
 * R. Thouvenot., Maisons de Volubilis: Le palais dit de Gordien et la Maison à la mosaïque de Vénus, Rabat, 1958, p. 49-86, fig. 8, pl. 11. [(worldcat)](http://www.worldcat.org/oclc/876482067)
 
-#### Pleiades ID
+## Pleiades ID
 
 [The Gordian Palace](https://pleiades.stoa.org/places/762613672)
 
-#### TGN ID
+## TGN ID
 
-### Contributor
+## Contributor
 
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
-### Publication date
+## Publication date
 
 <!--07 July 2020-->
 

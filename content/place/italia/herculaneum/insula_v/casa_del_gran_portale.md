@@ -26,7 +26,7 @@ categories:
  [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 
-### Location Description
+## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
@@ -38,36 +38,36 @@ V
 ## Garden
 Casa con Giardino
 
-### Keywords
+## Keywords
 none
 ---
 
-### Garden Description
+## Garden Description
 554.V.35.
 Just to the west of the entrance to this house was a small, raised courtyard (a) which supplied light and air to the residence. This area collected rain water from the roof and directed it into the cistern which had a covered overflow emptying onto the street. Garden paintings in this courtyard gave the impression of beingin a garden.A red background was covered with flowering oleanders, a lattice fence in front and a vase-shaped fountain in the center of one panel. The wall towards the street may have had similar decoration with a pilaster in relief dividing the wall into two panels according to Maiuri, however nothing remains on this wall.
 
-### Plans
+## Plans
 {{< image src="H_3_3-17.jpg" alt="Plan of Casa A Graticcio" title="Plan of Casa A Graticcio" >}}
 
 
 
 
-#### Pleiades ID
+## Pleiades ID
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-#### TGN ID
+## TGN ID
 [Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 - Jashemski, Gardens, vol.II, p. 371
 - Maiuri,Herculaneum, p. 53
@@ -77,11 +77,11 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
-### Publication date
+## Publication date
 
 
 

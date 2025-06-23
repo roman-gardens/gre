@@ -19,7 +19,7 @@ tags:
 [Africa Proconsularis]({{<relref "..">}}) \
 [Africa proconsularis](https://pleiades.stoa.org/places/991341)
 
-### Province Description
+## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 <!-- DESCRIPTION -->
 
@@ -28,7 +28,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 [UTHINA (Oudna)]({{<relref ".">}}) \
 [UTHINA (Oudna) Tunisia(Pleiades)](https://pleiades.stoa.org/places/315247)
 
-### Location Description
+## Location Description
 Located to the Southeast of the amphitheater, this house was laid out around a peristyle garden of 10 columns that connected by a low wall. A semicircular basin extended into the garden on the NE facing the reception room.
 
 <!--## Sublocation-->
@@ -46,14 +46,14 @@ A sublocation is any area larger than an individual garden, but located within a
 
 House of Industrius (Maison d'Industrius)
 
-### Keywords
+## Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [colonnade](http://vocab.getty.edu/page/aat/300002613)
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 
-### Garden Description
+## Garden Description
 
 Located to the Southeast of the amphitheater, this house was laid out around a peristyle garden of 10 columns that connected by a low wall. A semicircular basin extended into the garden on the NE facing the reception room.
 
@@ -62,7 +62,7 @@ Located to the Southeast of the amphitheater, this house was laid out around a p
 <!--### Maps-->
 
 
-### Plans
+## Plans
 {{< image src="#" alt="Fig.1: Plan of the House of industrius" title="Fig.1: Plan of the House of industrius (right statement)." >}}
 
 
@@ -70,28 +70,28 @@ Located to the Southeast of the amphitheater, this house was laid out around a p
 
 <!--{{< image src="AFR_Uth_Ind_Malek.jpg" alt="Fig. 1: Plan of the House of Industrius. Photo courtesy of Amina-Aïcha Malek." title="Fig. 1: Plan of the House of Industrius. Photo courtesy of Amina-Aïcha Malek.(Rights statement)" >}}-->
 
-### Dates
+## Dates
 
 Unspecified
 
-### Bibliography
+## Bibliography
 
 * Ben Hassen, H., Maurin, L., *Oudna (Uthina) La découverte d’une ville antique de Tunisie*, Paris, 1998.[(worldcat)](http://www.worldcat.org/oclc/492084212)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.330-332.  [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Uthina](https://pleiades.stoa.org/places/315247)
 
-#### TGN ID
+## TGN ID
 
 [Oudna (deserted settlement)](http://vocab.getty.edu/page/tgn/7024022)
 
-### Contributor
+## Contributor
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

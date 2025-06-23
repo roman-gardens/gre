@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
 [Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [nemausus]({{<relref ".">}}) \
 [nemausus](https://pleiades.stoa.org/places/148142)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -47,7 +47,7 @@ House B, Les Villégiales, quarter of the Benedictines
 
 
 
-### Keywords
+## Keywords
 
 - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
 - [reception rooms](http://vocab.getty.edu/page/aat/300077176)
@@ -61,7 +61,7 @@ House B, Les Villégiales, quarter of the Benedictines
 
 
 
-### House Description
+## House Description
 
 This site is 300 meters east of the big spring de la Fontaine at the foot of Mt. Cavalier. The house, discovered during an emergency dig in 1991-92, is not well preserved.  Built in the middle of the first century, it seems to have existed until the middle of the second century.  Though not very luxurious, it had however some *opus signinum* with geometric patterns of tessera.  It is noteworthy, however, that in contrast to other houses in Nîmes of the same period, it seems to have had running water supplied by lead-lined canals in a utility tunnel in direct connection to the town water house.  Covering a little more than 170 square meters, the dwelling is organized around a garden, which has been explored in an area of 8 by 6 meters, but which must have been somewhat longer and probably had an area of about 72 square meters.  Along the east, west, and north sides ran galleries paved in *opus signinum* with inlays. On the north side, slightly off-center toward the west, there was a small reception room in the form of an exedra (4.8 by 3.8 m).
 
@@ -74,7 +74,7 @@ At the south of the garden there is a well which may have supplied the house bef
 
 
 
-### Plans
+## Plans
 
 
 {{< image src="house_b_les_villegiales_quarter_of_the_benedictines_1.png" alt="Plan of House B, Les Villégiales, quarter of the Benedictines" title="Fig. 1 Plan of House B, Les Villégiales, quarter of the Benedictines" >}}
@@ -83,14 +83,14 @@ At the south of the garden there is a well which may have supplied the house bef
 
 
 
-### Dates
+## Dates
 A.D. 1-100 Built
 A.D. 60-90 One of the principal phases of occupation
 
 
 
 
-### Bibliography
+## Bibliography
 
 1. J.L. Fiches, A. Veyrac, *Nîmes*, CAG, 30/1, 1996.
 
@@ -100,21 +100,21 @@ A.D. 60-90 One of the principal phases of occupation
 
 4. Garmy, Pierre, and Martial Monteil. *Le Quartier Antique Des Bénédictins À Nîmes (gard): Découvertes Anciennes Et Fouilles, 1966-1992*. Paris: Editions de la Maison des sciences de l'homme, 2000, P. 74-90, P 173-181.[(worldcat)](http://www.worldcat.org/oclc/45421533)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Nîmes (inhabited place)](http://vocab.getty.edu/page/tgn/7008371)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

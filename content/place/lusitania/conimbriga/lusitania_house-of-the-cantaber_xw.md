@@ -18,7 +18,7 @@ categories:
 [Lusitania]({{<relref "../../../..">}})
 [Lusitania](https://pleiades.stoa.org/places/1101)
 
-### Province Description
+## Province Description
 
 Despite the prior existence of urban centers like Metellinum, the capital of Lusitania was a new foundation, the Colonia Augusta Emerita (Mérida), which would also serve as the capital of one of the smaller juridical units (conventus) and would be the scene of flourishing activity in the succeeding centuries, its prosperity lasting until the late Roman and Visigothic era.  Subsequently, a series of well-known Roman cities were built in what was then Lusitania but is now partly in Portugal and partly in Spain. As well as the capital, there were Conimbriga, Salmantica, Evora, Olisipo (now Lisbon), Pax Iulia (now Beja), and Metallium Viscascense (Aljustrel), this last recognized as the capital of an important mining area. The series of wealthy villae, such as that of La Cocosa, Milreu or San Cucufate are particularly noteworthy.  Another of the important elements of the Roman era is the series of still visible ways of communication, of which the Vía de la Plata has most remaining, especially in the sections of Baños de Montemayor in Cáceres or the bridges that cross the rivers, such as that of San Pedro de Alcántara, or of Mérida.
 
@@ -27,7 +27,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 [Conimbriga]({{<relref ".">}}) \
 [Conimbriga](https://pleiades.stoa.org/places/236443)
 
-### Location Description
+## Location Description
 
 The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Augustan period and, thereafter, a forum, a public bath-house, an aqueduct and city walls were constructed.  During the Flavian period, the city was made a municipium with ius Latii.  At the end of the third or beginning of the fourth century AD, new fortification walls considerably reduced the area occupied by the city.   In the time of the Suevi it was an Episcopal See, which was then transferred to Aeminium (the present day Coimbra) around A. D. 585, when the kingdom of the Suevi was conquered by the Visigoths.  Further reduced in area and impoverished, the city survived until 986, at which date, according to Arab sources, it was destroyed by the great Muslim chief Almansor. In addition to the Augustan forum, which was completely rebuilt on a new ground plan under the Flavians, four bath houses have been excavated, and preliminary trial trenches established the plan of the amphitheater. Four domus have been excavated, three of which were left outside the wall built under the late empire.  It is in these houses, all built around peristyles, that we find the gardens of Conimbriga.
 
@@ -47,11 +47,11 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 House of the Cantaber
 
-### Keywords
+## Keywords
 - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 
-### Garden Description
+## Garden Description
 Hidacio, bishop of Chaves and a chronicler of his age, records that the Suevi sacked Conimbriga in 465 and 468 A.D. and that in the second year “the most noble Cantaber” was killed and his family sold into slavery. This house is by far the finest inside the city walls, so it is reasonably guessed to be that of Cantaber.   It is larger than the House of the Fountains with an area of more than 3,300 square meters.  The garden is similar, although it is less elaborate, has slightly different proportions, and has no fountains.  Although the house underwent structural alterations, the peristyle is part of the original plan, which does not appear to date from much later than the Flavian era.
 
 Originally, a large area at the south end was a garden occupying nearly a third of the area of the house.  It was later sacrificed to become baths, so it is tinted slightly green on the plan in Figure 1.  
@@ -62,17 +62,17 @@ South of the central peristyle was a large room that centered on the garden, and
 The other garden area was slightly farther south and against the east wall of the house.  A portico ran around three sides but required only three columns, all on the west side.  The rectangular pool (6.5 x2.5 m) had three basically square flower beds aligned in it.  The two end squares, however, had semicircular niches cut out of the center of each side, while the center square had a circle cut out of its center and connected to the surrounding water.  As in the House of the Fountains, flower beds in the pool appeared like islands in a lake (Fig. 4).  One can imagine that this secluded spot was a favorite of the most noble Cantaber.
 
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="HIS LUS_Conim_Cantaber_Plan_CA fig1.jpg" alt="Plan of House of the Cantaber at Conimbriga, Lusitania Province, Spain" title="Fig. 1: House of Cantaber. Adapted from Hipólito Correia." >}}
 
-### Images
+## Images
 
 {{< image src="HIS LUS_Conim_Cantaber_Photo_CA fig2.jpg" title="Fig. 2: Main peristyle." >}}
 {{< image src="HIS LUS_Conim_ Cantaber_Planters_CAfig3.jpg" title="Fig. 3: Pool with pink planters." >}}
@@ -87,7 +87,7 @@ The other garden area was slightly farther south and against the east wall of th
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Conimbriga](https://pleiades.stoa.org/places/236443)
 
@@ -95,7 +95,7 @@ The other garden area was slightly farther south and against the east wall of th
 <!--### Contributor-->
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

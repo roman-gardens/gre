@@ -22,7 +22,7 @@ categories:
 [Cologne]({{<relref ".">}}) \
 [Cologne](https://pleiades.stoa.org/places/108751)
 
-### Location Description
+## Location Description
 
 This large town on the west bank of the Rhine river was the *civitas* capital of the [Ubii](link) in the first half of the 1st century A.D. It was granted the status of colonia by [Claudius](link) in 50 and became the provincial capital in 85.  
 
@@ -41,7 +41,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 House of Dionysius (Colonia Claudia Ara Agrippinensium)
 
-### Keywords
+## Keywords
 
 - [urban villas](#)
 - [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
@@ -52,29 +52,29 @@ House of Dionysius (Colonia Claudia Ara Agrippinensium)
 - [axial plan](http://vocab.getty.edu/page/aat/300121971)
 - [piscinae](http://vocab.getty.edu/page/aat/300375619)
 
-### Garden Description
+## Garden Description
 The largest urban villa excavated thus far in Cologne is the House of Dionysos (3400 sq. m.), named after the early 3rd century mosaic floor decorated with Dionysiac motifs in the *triclinium* (Image 1??). The house occupies part of an *insula* in the northeastern corner of the city, bordered on the south by a street leading to the harbor.  
 
 The original house, erected after A.D. 50, was rebuilt under [Vespasian](link) and included a peristyle garden courtyard measuring 23 x 27 m. (G on Plan 1). The garden was surrounded on three sides by a peristyle, 3.35 m. in width. A ground level gutter ran around the edge of the garden. At this time, a masonry pool with a paved floor occupied a position in the eastern part of the garden. A piece of lead pipe and a bronze opening were found associated with the pool. This was later replaced in the second half of the 2nd century by an apsed pool (4.20 x 5.40 m.) in the western half of the garden which drained into the gutter at the west. The pool was axially arranged between the entrance to the house on the east and the dining room on the west, from which a view through a wide doorway onto the garden was afforded. The triclinium was unheated, leading the excavator to interpret it as a summer triclinium. The connection with the garden would, in this case, be quite understandable. An axial planting pattern in the garden with a path leading from the entrance of the house to the pool is possible. There is, however, no evidence for the planting pattern or the type of vegetation in this garden. The house was inhabited until the 4th century.
 
-### Maps
+## Maps
 
 
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 
-### Plans
+## Plans
 {{< image src="cologne_dionysius_plan1_EUR_GI_ColClaAA_HoD_carroll.jpg" alt="Plan 1. Plan of the House of Dionysius at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the House of Dionysos, built around a central courtyard garden (G) with a pool (grey). Plan adapted from Fremersdorf 1956, fig. 27. (Rights statement)" >}}
 
-### Images
+## Images
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 Reign of Vespasian until the end of the fourth century CE
 
-### Bibliography
+## Bibliography
 - F. Fremersdorf, *Das römische Haus mit dem Dionysosmosaik vor dem Südportal des Kölner Doms*, Berlin, 1956. [(worldcat)](http://www.worldcat.org/oclc/456335122)  
 - M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 55, fig. 20. [(worldcat)](http://www.worldcat.org/oclc/1120840822)   
 
@@ -82,17 +82,17 @@ Reign of Vespasian until the end of the fourth century CE
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Ara Ubiorum/Col. Claudia Ara Agrippinensium](https://pleiades.stoa.org/places/108751)  
 
-#### TGN ID
+## TGN ID
 [Cologne (inhabited place)](http://vocab.getty.edu/page/tgn/7004446)  
 
-### Contributor
+## Contributor
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))    
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

@@ -40,14 +40,14 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Villa Borg
 
-### Keywords
+## Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [basins](http://vocab.getty.edu/page/aat/300045614)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 
 
-### Garden Description
+## Garden Description
 
 The *villa* of Borg is situated in a forest between the villages Borg and Oberleuken, community of Perl (Landkreis Merzig-Wadern), in the border-region Germany - Luxembourg - France. The huge villa complex is situated in a densely occupied Roman settlement region on the fertile plateaus between the river valleys of Saar and Mosel. *Pars urbana* and *pars rustica* covered an area of about 7.5 hectare. The *villa* was built in the direct vicinity of the Roman road from Metz to Trier (*Augusta Treverorum*), which was part of the far-distance connection between Marseille and Cologne.
 
@@ -63,28 +63,28 @@ In the year 2000, the reconstructed main building of the *villa* with its bath, 
 
 
 
-### Maps
+## Maps
 
 None Available
 
-### Plans
-
-None Available
-<!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
--->
-
-### Images
+## Plans
 
 None Available
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Images
+
+None Available
+<!--
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+-->
+
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - J. Brück, "Die villa von Borg", in: Der Kreis Merzig-Wadern und die Mosel zwischen Nennig und Metz. Führer zu archäologischen Denkmälern in Deutschland 24 (Stuttgart 1992) 112-119. [(worldcat)](http://www.worldcat.org/oclc/932182025)
 - R. Gleser & A. Miron, Romanisierungsforschung im Saarland. Archäologische Informationen 18, 1995, 213-215 <!-- not in worldcat -->
 - A. Miron (Hrsg.), Das Badegebäude der römischen Villa von Borg (Merzig 1997). [(worldcat)](http://www.worldcat.org/oclc/1222406745)
@@ -97,17 +97,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Borg Roman villa](https://pleiades.stoa.org/places/272861914)
 
-#### TGN ID
+## TGN ID
 [Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
 
-### Contributor
+## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

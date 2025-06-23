@@ -24,7 +24,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 [Caesarea]({{<relref ".">}}) \
 [Iol Caesarea](https://pleiades.stoa.org/places/295279)
 
-### Location Description
+## Location Description
 
 A prestigious city on the southwestern shore of the Mediterranean Sea, Caesarea is located approximately 100 km west of Algiers. Situated on the border of an upland plain dominating the sea and bordered on the west and east by the mountains of the Chenoua and of the Cape Ténès, respectively, the city was one of the ports that the Carthaginians established on the coast of the Maghreb.
 
@@ -42,14 +42,14 @@ The city has been continually occupied to the present day, now known as Cherchel
 
 House of the Grape Vine Harvesting and House of the Tennis Club (Maison des Vendanges et Maison du Tennis Club)
 
-### Keywords
+## Keywords
 
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [basin](#)
 - [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 
-### Garden Description
+## Garden Description
 
 On the seaside, two houses were partially excavated on the Tennis Club estate. They are next to each other and share a common wall.
 
@@ -57,35 +57,35 @@ In the eastern house, it is impossible to determine if the courtyard with a squa
 
 The western dwelling was organized around a narrow peristyle garden, 8.5 by 16.5 m, in which the open area was only 1.6 m wide.  Jean Lassus describes this unusual peristyle garden as a sort of "*atrium*" with its four-sided slanted roof and a garden as the *impluvium*. To the east was a reception room, decorated with the well-known Harvesting of the Vines mosaic (Mosaïque des Vendanges).
 
-### Plans
+## Plans
 
 {{< image src="house_of_the_harvesting_and_house_of_the_tennis_club_fig_1.jpg" alt="Plan of the House of the Harvesting and the House of the Tennis Club." title="Fig. 1: Plan of the House of the Harvesting and the House of the Tennis Club (Leveau, Ph., 1982, p.126, fig.12, Daunic, J.)">}}
 
-### Images
+## Images
 
-### Dates
+## Dates
 4th-5th century CE
-#### Excavation Dates
+## Excavation Dates
 
-### Bibliography
+## Bibliography
 * Baghli S.A., Février P.A., "Rcherches et travaux en 1966-1967", in *Bulletin d’archéologie algérienne*, t.2, 1966-1967, p.1. [(worldcat)](http://www.worldcat.org/oclc/491481018)
 * Ferdi S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p.149. [(worldcat)](http://www.worldcat.org/oclc/1006126274)
 * Lassus, J., *L'archéologie algérienne en 1958, Lybica, arch. épigr*. t.7, 2ème sem. 1959, p.251. [(haithitrust)](https://catalog.hathitrust.org/Record/008568139)
 * Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie", in *Antiquités africaines*., t.18, 1982, pp.124-128. [(worldcat)](http://www.worldcat.org/oclc/4797426670)
 
-#### Pleiades ID
+## Pleiades ID
 
 <!-- broken link
 [125904443](https://pleiades.stoa.org/places/125904443)
 -->
 
-#### TGN ID
+## TGN ID
 
-### Contributor
+## Contributor
 
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
-### Publication date
+## Publication date
 
 <!--07 July 2020-->
 

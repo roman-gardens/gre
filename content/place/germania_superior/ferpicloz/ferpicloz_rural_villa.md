@@ -46,14 +46,14 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rural Villa in Ferpicloz
 
-### Keywords
+## Keywords
 
 archaeological garden \
 
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
-### Garden Description
+## Garden Description
 
 The house of this *villa rustica* was of the winged corridor type (A in Fig. 1) with a porticoed facade (Fig. 1). Attached to the eastern end of the house, measuring 37 x 46 meters, was a wall running east-west which has been interpreted as the protective wall of a garden (G in Fig. 1).
 
@@ -63,7 +63,7 @@ The house of this *villa rustica* was of the winged corridor type (A in Fig. 1) 
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="EUR_GS_Fer_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa (A) with a possible garden (G) protected by a wall to the east of the main building. The shoreline of the lake is dotted. Adapted from Drack and Fellmann 1988, fig. 369." title="Fig. 1: Plan of the rural villa (A) with a possible garden (G) protected by a wall to the east of the main building. The shoreline of the lake is dotted. Adapted from Drack and Fellmann 1988, fig. 369. (Rights Statement)" >}}
 
@@ -73,11 +73,11 @@ The house of this *villa rustica* was of the winged corridor type (A in Fig. 1) 
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * W. Drack and R. Fellmann, *Die Römer in der Schweiz*, Stuttgart, 1988, pp. 394-395, fig. 369. [(worldcat)](http://www.worldcat.org/oclc/639129078)
 * R. Fellmann, *La Suisse gallo-romaine. Cinq siècles d’histoire*, Lausanne, 1992, p. 157, fig. 116.3. [(worldcat)](http://www.worldcat.org/oclc/28038264)
@@ -86,19 +86,19 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Germania Superior](https://pleiades.stoa.org/places/981525)
 
-#### TGN ID
+## TGN ID
 
 [Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

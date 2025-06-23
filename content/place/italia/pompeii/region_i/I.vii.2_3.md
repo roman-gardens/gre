@@ -29,7 +29,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula VII]({{<relref "#">}})
 
-### Keywords
+## Keywords
 
 - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
@@ -45,7 +45,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
 - [piscinae](http://vocab.getty.edu/page/aat/300375619)
 
-### Garden Description
+## Garden Description
 
 A very small garden was located in the light well at the rear of the [atrium](http://vocab.getty.edu/page/aat/300004097). The small raised garden (about 0.50 m. high) had a tiny semicircular pool fed by roof water. Three marble bases (0.16 x 0.21 m.) were most likely place at the edge of the [pool](http://vocab.getty.edu/page/aat/300375619). A garden [painting](http://vocab.getty.edu/page/aat/300033644) adorned the wall behind [pool](http://vocab.getty.edu/page/aat/300375619). This was the painting of a garden [fence](http://vocab.getty.edu/page/aat/300005044) and a slender, footed [fountain](http://vocab.getty.edu/page/aat/300006179) before it. The water jets have attracted a peacock and two small birds that are perched on the rim. The elaborate plant motif on the foot of the [fountain](http://vocab.getty.edu/page/aat/300006179) suggested to Maiuri that the artist was depicting a bronze fountain rather than a marble one. A dense thicket painted behind the [fence](http://vocab.getty.edu/page/aat/300005044) has small fruit, the blossom ends are clearly visible, with white myrtle blossoms mixed with the foliage. Jashemski differs with Maiuri’s description of this as an oleander thicket with blossoms and berries; as she points out that oleander has elongated pods as opposed to round berries. The east wall was yellow with plants painted on it, but only the north panel survived, and nothing remains of the work on the west and north walls.
 
@@ -59,13 +59,13 @@ OLD WAY (DO NOT USE)
 NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 
-### Plans
+## Plans
 
 {{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< image src="../Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." title="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement)." >}}
 
-### Images
+## Images
 
 {{< image src="Fig_34_I.vii.3_54.8.64.jpg" alt="Fig. 3: I.vii. 54.8.64, S.A. Jashemski." title="Fig. 3: I.vii. 54.8.64, S.A. Jashemski (Rights Statement)." >}}
 
@@ -75,11 +75,11 @@ NEW WAY ↓↓↓↓
 
 {{< image src="Fig_37_I.vii.2_12.36.72.jpg" alt="Fig. 6: I.vii. 12.36.72, S.A. Jashemski." title="Fig. 6: I.vii. 12.36.72, S.A. Jashemski (Rights Statement)." >}}-->
 
-### Dates
+## Dates
 Excavated 1911 and 1923.
 
 
-### Bibliography
+## Bibliography
 
 * Della Corte, M. *Case ed abitanti di Pompei*, p. 313.  
 * Grimal, P. *Les jardins Romaines*, p. 446, no. 4.  
@@ -98,19 +98,19 @@ Excavated 1911 and 1923.
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

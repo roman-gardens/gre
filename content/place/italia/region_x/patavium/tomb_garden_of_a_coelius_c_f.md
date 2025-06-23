@@ -49,14 +49,14 @@ tags:
 
 Tomb garden of A. Coelius C. f.
 
-### Keywords
+## Keywords
 
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 - [epitaphs](http://vocab.getty.edu/page/aat/300028729)
 - [stelae](http://vocab.getty.edu/page/aat/300007023)
 - [mausoleums](http://vocab.getty.edu/page/aat/300005891)
 
-### Garden Description
+## Garden Description
 
 A broken marble slab immured in the cathedral at Padua since the seventeenth century records the epitaph of A. Coelius C. f., who some time in the first or second century dedicated to the divine spirits (Dis Manibus) and to himself in perpetuity a garden that had once, it seems, belonged to an Arius (hortum… Arianum). Whether it had always been a tomb garden or was only then being converted to a funerary use is uncertain.
 
@@ -71,15 +71,15 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * CIL 5.2935
 
@@ -87,19 +87,19 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Patavium](https://pleiades.stoa.org/places/393473)
 
-#### TGN ID
+## TGN ID
 
 [Padua (inhabited place)](http://vocab.getty.edu/page/tgn/7003085)
 
-### Contributor
+## Contributor
 
 Brady Kiesling (https://pleiades.stoa.org/author/bkiesling)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

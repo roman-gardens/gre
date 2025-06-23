@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
 [Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [forum_julii]({{<relref ".">}}) \
 [forum_julii](https://pleiades.stoa.org/places/307416064)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -47,14 +47,14 @@ House Formigé Square-2 phases
 
 
 
-### Keywords
+## Keywords
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
 - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 
 
-### House Description
+## House Description
 
 The house found under Formigé square lies 200 m south of the intersection of the *cardo maximus* and the *decumanus maximus* at 150 meters from the quays of the port.  It is in the southwest quarter of  Insula A of the network of the city.  A parcel of 462 square meters has been recovered with a useful covered surface of about 342 square meters.  To the south it is paralleled by a *decumanus* and by other habitations to the north and east.  The principal entrance was probably on the south.  What may be called the first stage of construction, though it replaced a previous condition, seems to go back to around A.D. 1 – 5.  In this condition, it was occupied until A.D. 60 – 70.  Its pavements have been preserved, along with a large part of its painted decoration up to a considerable height.
 
@@ -66,23 +66,23 @@ Around A.D. 65 – 70, the house entered a second stage which lasted three and a
 
 
 
-### Plans
+## Plans
 
 
 {{< image src="house_formige_square_2phases_2.png" alt="Plan House Formigé Square-2 phases" title="Fig. 1 Plan of the House Formigé Square-2 phases" >}}
 
-### images
+## images
 
 {{< image src="house_formige_square_2phases_1.png" alt="Excavation of House Formigé Square" title="Excavation of the House Formigé Square" >}}
 
 {{< image src="house_formige_square_2phases_3.png" alt="Axon of House Formigé Square" title="Axon of the House Formigé Square" >}}
 
-### Dates
+## Dates
 A.D. 1-5 First Stage of Construction
 A.D. 65-70 Second Stage of Construction
 
 
-### Bibliography
+## Bibliography
 
 1. Bouet, Alain. La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise. Vaucluse: Service d'Archéologie du Conseil Général de Vaucluse, 1996, fiche n°3, P. 110-111,  fiche  n°4, P. 112-113. [(worldcat)](http://www.worldcat.org/oclc/919659882)
 
@@ -90,21 +90,21 @@ A.D. 65-70 Second Stage of Construction
 
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Fréjus (inhabited place)](http://vocab.getty.edu/page/tgn/7008791)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

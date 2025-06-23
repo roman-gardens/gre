@@ -2,6 +2,7 @@
 {{- $id := substr (sha256 now) 0 10 }}
 gre_id: "{{ $id }}"
 aliases: [/id/{{ $id }}]
+type: garden
 title: {{ title (replace .Name "-" " ") }}
 latlon: [ 0, 0 ]
 author: AUTHOR ONE, AUTHOR TWO

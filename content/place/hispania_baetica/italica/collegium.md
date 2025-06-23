@@ -25,7 +25,7 @@ Hispania Baetica
 [Italica]({{<relref ".">}}) \
 [Italica](https://pleiades.stoa.org/places/256231)
 
-### Location Description
+## Location Description
 
 In 206 BC Publius Cornelius Scipio settled wounded veterans of the battle of Ilipa in an existing Turdentanian town which he renamed Italica to remind the settlers and their descendants of their origins.  Three centuries later, it was still a town of some 14 hectares, less than a fourth the size of Pompeii and much smaller than neighboring [Hispalis](https://pleiades.stoa.org/places/256210) (Sevilla) or [Corduba](https://pleiades.stoa.org/places/256128).  Little is known of this town archaeologically because it lies under modern Santiponce.
 
@@ -35,7 +35,7 @@ Italica underwent a major expansion during the reign of the emperor Hadrian, a n
 
 Collegium
 
-### Keywords
+## Keywords
 
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [pillars](http://vocab.getty.edu/page/aat/300264605)
@@ -43,15 +43,15 @@ Collegium
 
 
 
-### Garden Description
+## Garden Description
 
 A building just south of the public park has been identified as the seat of a Collegium because of its internal structure and size. It was previously known as ‘The House of the Exedra.’ It occupies an entire insula, some 4,000 square meters. In its center is a peristyle, which was surrounded by galleries roofed with cross vaulting supported by brick pillars of rectangular cross-section with abutting pilasters making them cruciform in shape. In the center of the peristyle is a pool notable for its curves. It surrounds a circular planter for a tree or flowers.
 
-### Maps
+## Maps
 
 {{< image src="HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
 
-### Images
+## Images
 
 
 {{< image src="HIS BAE Ita Collegium plan fig1.jpg" alt="Fig. 1: Plan of the Collegium of the Excedra. (Rights Statement)" >}}
@@ -59,11 +59,11 @@ A building just south of the public park has been identified as the seat of a Co
 {{< image src="HIS BAE italica collegium fig2.jpg" alt="Fig. 2: Photo of the existing site. (Rights Statement)" >}}
 
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 * Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](http://www.worldcat.org/oclc/882602957)
 * A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](http://www.worldcat.org/oclc/638777432)
 * A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). 75-76 [(worldcat)](http://www.worldcat.org/oclc/916989580)
@@ -73,16 +73,16 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Collegium at Italica]{{<relref ".">}}) \
 [Collegium at Italica](https://pleiades.stoa.org/places/810966696)
 
-#### TGN ID
+## TGN ID
 [Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
 
-### Contributor
+## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
-### Publication date
+## Publication date
 
 21 Apr 2021

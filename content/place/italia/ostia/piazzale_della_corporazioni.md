@@ -26,7 +26,7 @@ tags:
 [Ostia]({{<relref ".">}}) \
 [Ostia](https://pleiades.stoa.org/places/422995)
 
-### Location Description
+## Location Description
 
 [Ostia Antica](https://en.wikipedia.org/wiki/Ostia_Antica), the port-city of Rome, was situated at the mouth ([*ostium*](https://en.wiktionary.org/wiki/ostium#Latin)) of the [Tiber](https://en.wikipedia.org/wiki/Tiber), where it flowed into the [Tyrrhenian sea](http://vocab.getty.edu/page/tgn/1112319). Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7<sup>th</sup> century by [king Ancus Marcius](https://en.wikipedia.org/wiki/Ancus_Marcius); archaeological evidence shows that the first settlement was founded as a *colonia maritima* in the 4<sup>th</sup> century BCE. and that it was already acting as the harbour of Rome in the 3<sup>rd</sup> century BCE.
 
@@ -48,7 +48,7 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
-### Location Plan
+## Location Plan
 
 {{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
 
@@ -57,7 +57,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 Piazzale della Corporazioni \
 [The Forum of Corporations](https://pleiades.stoa.org/places/489630692)
 
-### Keywords
+## Keywords
 
 - [allées](http://vocab.getty.edu/page/aat/300178561)
 - [beds (site elements)](http://vocab.getty.edu/page/aat/300239937)
@@ -75,7 +75,7 @@ Piazzale della Corporazioni \
 - [theaters (buildings)](http://vocab.getty.edu/page/aat/300007117)
 - [Vitruvius](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476.1)
 
-### Garden Description
+## Garden Description
 
 In the original plan of the [Augustan](http://vocab.getty.edu/page/aat/300020543) period the garden area to the back of the [theater](http://vocab.getty.edu/page/aat/300007117) was surrounded on three sides by a roofed corridor opening onto the [Tiber](https://en.wikipedia.org/wiki/Tiber) on the northern side with a monumental entrance. In the [Claudian](http://vocab.getty.edu/page/aat/300020545) period the whole level of the area was raised and a [portico](http://vocab.getty.edu/page/aat/300004145) consisting of a single row of brick [columns](http://vocab.getty.edu/page/aat/300001571) added. A temple was built at the center of the garden area in the [Domitianic](http://vocab.getty.edu/page/ulan/500083758) period; traditionally identified since its discovery (1881) with the temple of [Ceres](https://en.wikipedia.org/wiki/Ceres_(mythology)), it has more recently been attributed to [Vulcan](https://en.wikipedia.org/wiki/Vulcan_(mythology)) or to the [imperial cult](https://en.wikipedia.org/wiki/Imperial_cult_of_ancient_Rome). During the [Hadrianic](http://vocab.getty.edu/page/aat/300107350) period the portico was doubled with a second row of columns; the entrances on the northern side were blocked, and buildings erected against them, making access to the garden possible only from the theater (Fig. 1).
 
@@ -87,7 +87,7 @@ During the excavations of [Dante Vaglieri](https://it.wikipedia.org/wiki/Dante_V
 
 In October 1912 Dante Vaglieri began the reconstruction of the garden at the center of the Piazzale delle Corporazioni (Fig. 4). He commissioned a famous landscape architect of the period to create a garden with rectangular [parterres](http://vocab.getty.edu/page/aat/300184573) of various size which retraced in part the layout of the allées and [flower-beds](http://vocab.getty.edu/page/aat/300239937) of the ancient garden: “This garden, reconstructed by one of our cleverest landscape artists, with its display of classic bushes and flowers, its colonnade lining the four sides of the square, and its array of statues of eminent men, bankers, merchants, magistrates, harbour-masters, &c., has become the chief attraction to the visitors of Ostia…” The leading experts in garden architecture of the period included Pier Andrea and Domenico Saccardi: perhaps one of them was the “cleverest landscape artist.”
 
-### Figures
+## Figures
 
 {{< image src="ostia_piazzale_fig1.jpg" alt="Plan of the Piazzale della Corporazioni from Calza 1953" title="Figure 1: Plan of the Piazzale della Corporazioni (from Calza 1953)." >}}
 
@@ -97,18 +97,18 @@ In October 1912 Dante Vaglieri began the reconstruction of the garden at the cen
 
 {{< image src="ostia_piazzale_fig4.jpg" alt="Photo of the garden in 1912" title="Figure 4: The modern garden, 1912 (PA-OAnt, Photo Archive)." >}}
 
-### Dates
+## Dates
 
 Augustan period \
 Claudian period \
 Domitianic period
 
-#### Excavation Dates
+## Excavation Dates
 
 1881 \
 1910-1913
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
@@ -126,20 +126,20 @@ Domitianic period
 * M. De Vico Fallani, "I giardini ostiensi di Dante Vaglieri. Brevi osservazioni a margine," *Bollettino di Archeologia on line* V, 2014/2, pp. 55-64. [(worldcat)](http://www.worldcat.org/oclc/842430597) [(Bollettino di Archeologia online)](https://bollettinodiarcheologiaonline.beniculturali.it/wp-content/uploads/2018/12/8.-V_2014_2-De-Vico-Fallani-18.02.2015.pdf)
 * E.J. Shepherd, "Prima di Busiri Vici: storia di tre giardini ostiensi e di un parco mai realizzato," in M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](http://www.worldcat.org/oclc/1536690)
 
-#### Pleiades ID
+## Pleiades ID
 
 [The Forum of Corporations](https://pleiades.stoa.org/places/489630692)
 
-#### TGN ID
+## TGN ID
 
 [Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
-### Contributor
+## Contributor
 
 [Paola Olivanti](https://www.worldcat.org/identities/lccn-nr98023577/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

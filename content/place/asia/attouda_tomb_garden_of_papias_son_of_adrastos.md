@@ -52,38 +52,38 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Tomb Garden of Papias son of Adrastos
 
-### Keywords
+## Keywords
 - marble slab
 - [epitaphs](http://vocab.getty.edu/page/aat/300028729)
 
 
 
-### Garden Description
+## Garden Description
 A marble slab found immured in a house wall at Hisarköy (Attouda) in Caria near the border with Phrygia records an *epitaph* set up by Papias, the son of Adrastos, grandson of Zeuxis, great grandson of Kounbarion, for himself and his heirs and sets aside a plot of unencumbered land six cubits square around it, from which it was permitted to derive revenue ([t“] mnhme€ƒ periÒria [di]°[ye]to pÆxiw ©<j> é[ne]pikvlut€, nomØn ka‹ karpe€an énepikvlut€).  The modest size of the allotment (less than ten m2) suggests that the productive plot was probably a garden.
 
 <!--
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 <!--
-### Plans
+## Plans
 {{< image src="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" alt="Plan of villa rustica at Blackenheim-Hülchrath; rights statement" title="Plan of the excavations at Aphrodisias">}}
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 <!--
-### Images
+## Images
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 2nd century BC
 
-### Bibliography
+## Bibliography
 - *Monumenta Asiae Minoris Antiquae*. Manchester and London, 1928-1993, VI, 83. [(worldcat)](https://www.jstor.org/stable/4341001)
 - J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, p. 145. [(worldcat)](http://www.worldcat.org/oclc/164233326)
 
@@ -91,17 +91,17 @@ A marble slab found immured in a house wall at Hisarköy (Attouda) in Caria near
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Attouda](https://pleiades.stoa.org/places/638779)
 
-#### TGN ID
+## TGN ID
 [Caria (former nation/state/empire)](http://vocab.getty.edu/page/tgn/7002358)
 
-### Contributor
+## Contributor
 [John Bodel](link) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

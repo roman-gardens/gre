@@ -38,12 +38,12 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Rural Villa
 
-### Keywords
+## Keywords
 - [mosiacs](http://vocab.getty.edu/page/aat/300015342)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 
-### Garden Description
+## Garden Description
 
 This villa of a farm near Echternach was of the winged corridor type with sumptuous interior marble paneling, *mosaics* and wall paintings (Fig. 1). Originally constructed in the 60s of the first century AD, the villa was enlarged until it covered an area of 8928 square meters in the third century.  
 
@@ -54,45 +54,45 @@ The southern *peristyle courtyard* (16.50 x 17 meters) within the house itself w
 <!-- Text comes from draft file-->
 
 
-### Maps
+## Maps
 
 None Available
 
-### Plans
-
-None Available
-<!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
--->
-
-### Images
+## Plans
 
 None Available
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Images
+
+None Available
+<!--
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+-->
+
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - J. Metzler, J. Zimmer and L. Bakker, *Ausgrabungen in Echternach*, Luxembourg, 1981; P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 350-353, figs. 145-146. (worldcat)](http://www.worldcat.org/oclc/905778589)
 
 <!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Epternacus](https://pleiades.stoa.org/places/108955)
 
-#### TGN ID
+## TGN ID
 [Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
 
-### Contributor
+## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

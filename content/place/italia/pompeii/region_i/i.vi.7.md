@@ -29,7 +29,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula VI]({{<relref "#">}})
 
-### Keywords
+## Keywords
 - [atrium houses](http://vocab.getty.edu/page/aat/300005451)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [pillars](http://vocab.getty.edu/page/aat/300264605)
@@ -47,7 +47,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Garden
 Fullonica of Stephanus; Fullery of Stephanus.
 
-### Garden Description
+## Garden Description
 
 This house had been converted to a fullery and the small [peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the rear probably served as a drying area. Five [pillars](http://vocab.getty.edu/page/aat/300264605) of the [portico](http://vocab.getty.edu/page/aat/300004145) were connected by a low, marble topped wall. This enclosed the raised garden on the east, north and west sides with a deep [gutter](http://vocab.getty.edu/page/aat/300052565) running around the garden along the wall.
 
@@ -69,17 +69,17 @@ NEW WAY ↓↓↓↓
 
 {{< image src="../region-i-insula-vi.png" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." title="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement)." >}}
 
-### Images
+## Images
 
 {{< image src="Fig_15_I. vi.7_6.29.59.jpg" alt="Fig. 3: I.iv. 6.29.59, S.A. Jashemski." title="Fig. 3: I.iv. 6.29.59, S.A. Jashemski (Rights Statement)." >}}
 
 {{< image src="Fig_16_I.vi.7_6.36.59.jpg" alt="Fig. 4: I.iv. 6.36.59, S.A. Jashemski." title="Fig. 4: I.iv. 6.36.59, S.A. Jashemski (Rights Statement)." >}}-->
 
 
-### Dates
+## Dates
 Excavated 1912.
 
-### Bibliography
+## Bibliography
 
 * Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, p. 198. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)  
 * Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 35. [(worldcat)](http://www.worldcat.org/oclc/921816405).    
@@ -91,19 +91,19 @@ Excavated 1912.
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

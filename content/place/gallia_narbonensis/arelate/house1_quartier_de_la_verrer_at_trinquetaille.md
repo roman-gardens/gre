@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
 [Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -29,7 +29,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [Arelate]({{<relref ".">}}) \
 [Arelate](https://pleiades.stoa.org/places/148217)
 
-### Location Description
+## Location Description
 
 Arles was one of the pilgrimage sites on route to the Cathedral of Santiago de Compostela. French pilgrimage routes to Compostela tend to follow old Roman roads, many of which continued to be utilized as primary roads of communication during the Middle Ages. Arles was a leading city of the west Roman Empire. It fell under Visigoth control during the 6th century and then under Muslims rule in 730. It has a Roman arena dating to the 1st century BCE, which is presently used for bullfights and plays. It also has many Roman ruins. Arles was home to Vincent van Gogh during a productive period of his career.
 
@@ -49,7 +49,7 @@ Arles was one of the pilgrimage sites on route to the Cathedral of Santiago de C
 House I, Quartier de la Verrerie at Trinquetaille
 
 
-### Keywords
+## Keywords
 
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462)
@@ -57,23 +57,23 @@ House I, Quartier de la Verrerie at Trinquetaille
 
 
 
-### House Description
+## House Description
 
 This house on the right bank of the Rhone is at [20] on the map.  Excavations in 1982-1984, partially uncovered the remains of the building of about 240 square meters. Almost all of the fourteen known rooms of this rich house have mosaic or *opus sectile* floors. The house revealed by the excavations was built about 180 CE, but three prior phases, from the first and second century, were noted. It was occupied until about 260 and underwent repairs visible in restorations of the mosaics.
 The free space north of rooms [1], [2] and [9] was probably a garden without porticoes. How far it extended to the north and east is not known.
 
 
 
-### Plans
+## Plans
 
 {{< image src="house1_quartier_de_la_verrerie_glassworks_quarter_at_trinquetaille.png" alt="Plan of House I, Quartier de la Verrerie at Trinquetaille" title="Plan of House I, Quartier de la Verrerie at Trinquetaille" >}}
 
 
-### Dates
+## Dates
 
 Excavations in 1982-1984
 
-### Bibliography
+## Bibliography
 
 1. Cl. Sintès, *Les fouilles de la verrerie de Trinquetaille*, in Cl. SINTES, dir., Du nouveau sur Arles antique, Arles, 1987, p. 81-4. 
 
@@ -81,22 +81,22 @@ Excavations in 1982-1984
 
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 [Theline/Col. Arelate/Constantina](https://pleiades.stoa.org/places/148217)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Arles (inhabited place)](http://vocab.getty.edu/page/tgn/7008775)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

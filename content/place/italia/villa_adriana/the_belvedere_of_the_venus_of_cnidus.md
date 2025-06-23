@@ -27,7 +27,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -39,19 +39,19 @@ The realization of this magnificent residence must have been a cherished dream o
 
 The Belvedere of the Venus of Cnidus (Fig. 1, n. 11)
 
-### Keywords
+## Keywords
 
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 
 
-### Garden Description
+## Garden Description
 
 This Belvedere is not really a garden. The area is all paved with luxurious *opus sectile*, and, therefore, there were no flowerbeds, but in every important park, beside bushes and blooming plants, there are always some elegant pavilions and exedras where one could pause and take a rest reading a book or talking with friends. Of course, you can't have such a thing in small private house gardens where the area is restricted and all the space must be used for growing colorful blossoms. On the contrary in large extension of space they make necessary spots of interest where strollers can pause to enjoy the beauty of the thereabouts (SALZA PRINA RICOTTI 2000, pp. 388-390, fig. 139). The Belvedere of the Venus of Cnidus (Fig. 31) is one of them and it is also one of the most charming (ORTOLANI 1998). It was placed on a hillock overlooking the so-called Valley of Tempe. Two large exedras (Fig. 31, D) were laid on one of its sides; a round temple (Fig. 32) sheltering a copy of the Venus of Cnidus by Praxiteles stood at its center (Fig. 31, B), and, from it, the view ranged over Tivoli and the Appennine mountains in the background, really an enchanted place with a stunning view.
 
 The Belvedere was created in those areas bought by Hadrian to have enough space to realize his project. Between it and the republican property ran a road that had deeply cut the tufa and to join the two parts Hadrian had to construct on the road a barrel vault to sustain the necessary soil (Fig. 33).
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
@@ -59,20 +59,20 @@ The Belvedere was created in those areas bought by Hadrian to have enough space 
 
 {{< image src="33_cnido.jpg" alt="Isometric plan of Belvedere of the Venus of Cnidus at Hadrian's Villa" title="Fig. 33: Isometry of the Belvedere of the Venus of Cnidus." >}}
 
-### Images
+## Images
 
 {{< image src="32_tempietto.jpg" alt="Photograph of the round temple sheltering a copy of the Venus of Cnidus at Hadrian's Villa" title="Fig. 32: The temple sheltering a copy of the Venus of Cnidus, Eugenia Salza Prina Ricotti." >}}
 
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -93,21 +93,21 @@ unspecified
 * E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 388-390, fig. 139. [(worldcat)](http://www.worldcat.org/oclc/46784026)
 * G. Ortolani, *Il padiglione di Afrudite Cnidia a Villa Adriana:progette e significato*, Roma 1998. [(worldcat)](http://www.worldcat.org/oclc/884631277)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

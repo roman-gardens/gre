@@ -24,7 +24,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -36,38 +36,38 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Garden of the *triclinium* North of the Maritime Theatre (Fig. 1, n. 7)
 
-### Keywords
+## Keywords
 
 - [cyzigene](#)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
-### Garden Description
+## Garden Description
 
 Today what is left of this garden is a nymphaeum 7 m long and 3.50 m large. It was set against a wall on its northern side and served as a background to the area. It consisted of a small, marble lined fountain, with a basin at its front and five square niches set on a semieliptic line at its back (Fig. 23). On the southern end, a porch, with a white mosaic paving, was set in front of a triclinium of the kind called cyzigene, which means a dining room encircled by a garden (Fig. 24). That left free only an area 34 m long and 21 m wide, set between the triclinium and the nymphaeum; not very much but quite enough to create a pleasant green scenery.
 
 This garden, which stood between two of the highlights of Villa Adriana - the Teatro Marittimo to the South, and the Libraries to the East - while the red marble statue of a faun - one of the most important masterpieces found in this imperial residence - was discovered walled up in a niche of the sustaining wall of its terrace, was certainly very important.
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
 {{< image src="24_cyzigen_triclinium.jpg" alt="Plan of the Cyzigen triclinium in the garden North of the Maritime Theatre at Hadrian's Villa" title="Fig. 24: A Cyzigen triclinium, Eugenia Salza Prina Ricotti." >}}
 
-### Images
+## Images
 
 {{< image src="23_nymphaeum_n_of_maritime_theatre.jpg" alt="Photograph of the Nymphaeum in the garden North of the Maritime Theatre at Hadrian's Villa" title="Fig. 23: The Nymphaeum North of the Maritime Theatre, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -85,21 +85,21 @@ unspecified
 * M. E. Timpson, J.E. Foss, R. J. Lewis, C. A. Stiles, "Soil interpretation of some Roman archaeological sites in Italy and Tunisia," *15th Int. Congr. of Soil Science*, Vol. 6b, 1994, pp. 172-173. [(worldcat)](http://www.worldcat.org/oclc/32679652)
 * J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](http://www.worldcat.org/oclc/1040851034)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

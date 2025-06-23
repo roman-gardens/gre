@@ -17,7 +17,7 @@ categories:
 
 Dacia Traiana
 
-### Province Description
+## Province Description
 
 Dacia occupied the region occupied by today by Romania, Moldava, and parts of Bulgaria, Serbia, Hungary and the Ukraine. Homeland of the Gatae tribe, it was conquered by the Romans under Trajan in 106 CE. After the Romans retreated from this region in 271-275 CE, they renamed an area of Moesia Superior “Dacia Aureliana”. This entry concerns only original province of Dacia.
 
@@ -30,13 +30,13 @@ Both rulers were murdered in the same year, and the kingdom was broken into smal
 
 Dacia was of particular interest to the Romans for its supplies of lead, needed for the water pipes of the cities and villas.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 106 CE to 271-275 CE
 
@@ -44,20 +44,20 @@ Dacia was of particular interest to the Romans for its supplies of lead, needed 
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Dacia (province)]({{<relref ".">}}) \
 [Dacia (province)](https://pleiades.stoa.org/places/981518)
 
-#### TGN ID
+## TGN ID
 
 [Dacia (historical region)](http://vocab.getty.edu/page/tgn/7030323)
 
-### Contributor
+## Contributor
 
 [John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

@@ -54,38 +54,38 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Tomb (peribolos) garden of Bassos son of Euarestos
 
-### Keywords
+## Keywords
 - statue
 - [peribolo](http://vocab.getty.edu/page/aat/300005069)
 - tomb
 
 
-### Garden Description
+## Garden Description
 A statue base found in 1886 in a modern cemetery midway along the path between Gueuktché-Ahmed and Seldjikli preserves, on its front, a decree of the local senate and people at Attaleia passed, probably, some time during the second century honoring Bassus and his father Euarestos for their demonstration of piety toward the guardian Zeus of the city; on its right side, an excerpt from Euarestos’s will instructing his heir to provide oil to the community on one day a year annually; and, on its left side, detailed instructions for the implementation of the foundation: “From the first to the fifth hour of the day the oil shall be provided from the revenues of the garden (per™€bolow) purchased from Eubolos, the son of Antiphanes, for Bassos, son of Euarestos, grandson of Phocas”. (épÚ Àraw a' ßvw e' t`eyÆsetai tÚ ¶leon §k prosÒd<o>vn peribÒlou toË égorasy°ntow parå EÈboÊlou ÉAntifãnouw efiw Bãsson EÈar°[s]tou Fvkç tÚn ÍÒn). The location of the garden in relation to Bassos’s tomb is not specified, and the statue base recording its purchase and the honorific decree recognizing it were probably set up in a public place rather than at the tomb, but the commemorative purpose of the garden in supporting an annual distribution in his name is clear, and it is likely that the two properties were near each other, if not contiguous. In accordance with an idiomatic usage common in both Greek and Latin and favored in Lydia (as at Hypaipa and Thyaira), the garden is identified metonymically by reference to its enclosure wall (per™€bolow), the *sine qua non* of a tomb garden in the Greco-Roman world.  
 
 <!--
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 <!--
-### Plans
+## Plans
 {{< image src="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" alt="Plan of villa rustica at Blackenheim-Hülchrath; rights statement" title="Plan of the excavations at Aphrodisias">}}-->
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 <!--
-### Images
+## Images
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - G. Radet and H. Lechat, “Notes de géographie ancienne,” BCH 11, 1887:399-401 [(worldcat)](http://www.worldcat.org/oclc/4648358600)
 - R. Cagnat, et al., *Inscriptiones Graecae ad res Romanas pertinentes*. Paris, 1906-1927, IV, 1168 [(worldcat)](http://www.worldcat.org/oclc/256313198)
 - B. Laum, *Stiftungen in der griechischen und römischen Antike*. Leipzig, 1914, II, no. 72 [(worldcat)](http://www.worldcat.org/oclc/457633912)
@@ -96,17 +96,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Attaleia](https://pleiades.stoa.org/places/550472)
 
-#### TGN ID
+## TGN ID
 [Caria (former nation/state/empire)](http://vocab.getty.edu/page/tgn/7002358)
 
-### Contributor
+## Contributor
 [John Bodel](link) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

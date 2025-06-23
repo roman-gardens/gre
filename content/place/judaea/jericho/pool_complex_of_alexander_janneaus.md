@@ -32,7 +32,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 [Jericho]({{<relref ".">}}) \
 [Jericho](https://pleiades.stoa.org/places/687917)
 
-### Location Description
+## Location Description
 
 In one of the most beautiful spots of the Eastern Mediterranean, five km west of Jericho, the biblical “city of Palms,” (Deut. 34:3) lie the remains of a royal complex of the late Second Temple Period (the end of the second century B.C. continuing through the mid-first century A.D).  Despite their location in the desert some 200 m. below sea level (one of the lowest occupied elevations on earth) these palaces were set amidst an abundance of vegetation and enjoyed a copious supply of water brought from the surrounding hills via water channels. The palaces are dramatically situated along Wadi Qelt where the gorge opens abruptly onto the Jordan Valley floor. (Fig. 1) They were set amidst the large palm and balsam groves for which the valley was famed.  Water channels give archaeological evidence of groves to the north of the palace, but literary evidence suggests that royal holdings from Jericho to Ein Gedi were extensive. None of the gardens have been fully excavated, but many have been examined and the presence of rich soil rather than pavement, as well as water channels and ceramic planting pots provide conclusive evidence for the many gardens discussed below.
 
@@ -55,12 +55,12 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Royal Garden
 
-### Keywords
+## Keywords
 
 - [pleasure garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=4&subjectid=300008115)
 - [walled garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=5&subjectid=300008129)
 
-### Garden Description
+## Garden Description
 
 Pool Complex of Alexander Janneaus
 
@@ -69,24 +69,24 @@ The ascent to the throne of Alexander Jannaeus in 103 B.C. triggered a significa
 By 90 BCE, Jannaeus was experiencing political and military difficulties, and it seems that vacations in Jericho had become dangerous.  To address security problems, he buried the palace of his father and on top of it he built an elevated, fortified palace surrounded by a moat. The new building offered the advantages of better views across the renowned estate of palm and balsam groves and greater exposure to breezes.
 
 <!--
-### Maps
+## Maps
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="ASIA_JUD_JERICHO_2.jpg" alt="Figure 2: The plantations and Hasmonean palace buildings, Area AA represent the location of the  buried Palace.(K. Wilczak and K. Gleason, after Netzer 2001a: Plan 4; Netzer and Laureys-Chachy 2004: Plan 2) " title="Figure 2: The plantations and Hasmonean palace buildings, Area AA represent the location of the the buried Palace.(K. Wilczak and K. Gleason, after Netzer 2001a: Plan 4; Netzer and Laureys-Chachy 2004: Plan 2) " >}}
 
 
-### Images
+## Images
 
 {{< image src="ASIA_JUD_JERICHO_4.jpg" alt="Figure 3:Axonometric reconstruction of the Hasmonean palace and cultivated areas (Netzer 1999)." title="Figure 3:Axonometric reconstruction of the Hasmonean palace and cultivated areas (Netzer 1999)." >}}
 
-### Dates
+## Dates
 
 103 BCE - 76 BCE
 
-### Bibliography
+## Bibliography
 
 * G. Garbrecht, and E. Netzer, “Die Wasserversorgung des geschichtlichen Jericho und seiner koniglichen Anlagen,” in Mitteilungen (aus dem Leichtweiss-Institut fur Wasserbau) 115, Braunschweig/Jerusalem 1991 [worldcat](https://www.worldcat.org/title/wasserversorgung-des-geschichtlichen-jericho-und-seiner-koniglichen-anlagen-gut-winterpalaste/oclc/640203824&referer=brief_results)
 * K. Gleason, “Garden Excavations at the Herodian Winter Palace in Jericho, 1985-1987", Bulletin of the Anglo-Israel Archaeological Society, Vol. 7, 1987-8 [Jstor](https://www.jstor.org/stable/43324090?seq=1)
@@ -102,7 +102,7 @@ By 90 BCE, Jannaeus was experiencing political and military difficulties, and it
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Jericho](https://pleiades.stoa.org/places/687917)
 
@@ -110,13 +110,13 @@ By 90 BCE, Jannaeus was experiencing political and military difficulties, and it
 
 [#](#)-->
 
-### Contributor
+## Contributor
 
 [Kathryn L. Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)
 (ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378)
 [Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

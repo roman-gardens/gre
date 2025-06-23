@@ -26,7 +26,7 @@ categories:
 [Arcos De La Frontera]({{<relref ".">}}) \
 [Arcos De La Frontera](https://pleiades.stoa.org/places/255981)
 
-### Location Description
+## Location Description
 
 <!--## Sublocation-->
 
@@ -43,7 +43,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Villa el Santiscal
 
-### Keywords
+## Keywords
 
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
@@ -52,12 +52,12 @@ Villa el Santiscal
 
 
 
-### Garden Description
+## Garden Description
 
 This rich country villa on the left bank of the [Guadalete](https://pleiades.stoa.org/places/256248) River was begun in the first century and continued in use through the fourth century with its heyday in the third century AD.  Figured mosaics found in the nineteenth century are now lost. Partial excavations around 1965 disclosed a villa built around a central peristyle (14 x 10 m) with a garden in the center. A rill pool ran around the outside of the garden. On each side there was a fountain and semicircular extension of the pool into the planting area of the garden.
 
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -69,18 +69,18 @@ This rich country villa on the left bank of the [Guadalete](https://pleiades.sto
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 {{< image src="HIS_BAE_Villa El Santiscal_plan_CA fig1.jpg" alt="Fig. 1: Plan of Villa el Santiscal, Gorges, Planche LXIII. (Rights Statement)" >}}
 
 {{< image src="HIS_BAE_Villa el Santiscal_photo_CA fig2.jpg" alt="Fig. 2: Photo of Villa el Santiscal seen from northwest. (Rights Statement)" >}}
 
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * M.ª C. Fernández Castro,*Villas romanas en Hispania*, (Madrid 1982), 121-154.[(worldcat)](http://www.worldcat.org/oclc/876519837)
 * J. M. Blázquez, ‘Los jardines en la Hispania Romana,’ *Historia de los Parques y Jardines en España*, Diputación Provincial de Córdoba-Edita Grupo FCC (Madrid 2001). [(worldcat)](http://www.worldcat.org/oclc/1090911182)
@@ -90,21 +90,21 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [El Santiscal]({{<relref ".">}}) \
 [El Santiscal](https://pleiades.stoa.org/places/256436)
 
-#### TGN ID
+## TGN ID
 
 [Arcos de la Frontera (inhabited place)](http://vocab.getty.edu/page/tgn/1061772)
 
-### Contributor
+## Contributor
 
 [M. Orfila](link)
 [N. Doenges](link)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

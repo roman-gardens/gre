@@ -29,7 +29,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -42,32 +42,32 @@ The realization of this magnificent residence must have been a cherished dream o
 The Libraries' Courtyard (Fig. 1, n. 13)\
 [Libraries' Courtyard at Hadrian's Villa](https://pleiades.stoa.org/places/369692199)
 
-### Keywords
+## Keywords
 
 - [flower gardens](http://vocab.getty.edu/page/aat/300008135)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
-### Garden Description
+## Garden Description
 
 This garden belongs to the republican period and it is one of the most ancient of Villa Adriana. It is enclosed in a large peristyle 48 m wide, 72 m long. The place seems to have been watered from the Republican time up to the end of the Roman Empire, and the content of lead in its soil is among the highest in the area (SALZA PRINA RICOTTI 1994-95, fig. 7). At the center of the portico's northern side, there still is a republican *nymphaeum* with a rectangular plan and very thick walls: a vaulted hall decorated with a series of niches, but quite heavy and gloomy (Fig. 35, E). There must have been flowerbeds in the peristyle, but the garden has still to be excavated. Now an olive grove occupies the place, and I doubt that anybody would dare to cut it down. However, if this would ever happen, we must hope to ascertain the presence of tufa surfacing in this area and, thus, find the hole cut in the rock to create the flowerbeds. It would be the only way to discover how the place had been planned.
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
 {{< image src="35_library_courtyard.jpg" alt="Plan of the Libraries' Courtyard at Hadrian's Villa" title="Fig. 35: Plan of the Libraries' Courtyard, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -87,21 +87,21 @@ unspecified
 <!-- Bibliography for Garden Description -->
 * E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67 (1994-95), pp. 69-85, fig. 7. [(worldcat)](http://www.worldcat.org/oclc/1006002216) <!-- link to specific issue needed -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

@@ -17,7 +17,7 @@ categories:
 
 [Germania inferior]({{<relref "..">}})
 
-### Province Description
+## Province Description
 
 ## Location
 
@@ -42,7 +42,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rustic villa at Rheinbach-Flerzheim
 
-### Keywords
+## Keywords
 
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 - [hedges](http://vocab.getty.edu/page/aat/300266413)
@@ -50,34 +50,34 @@ Rustic villa at Rheinbach-Flerzheim
 - [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
 - [piscinae](http://vocab.getty.edu/page/aat/300375619)
 
-### Garden Description
+## Garden Description
 
 There was no division between the residential and service parts of this modest farm. The house, with its bath (A and B on plan), and the outbuildings were built of stone at the beginning of the 2nd century (Plan 1). The winged corridor type house of this *villa rustica* was 37 m. long and 20 m. wide, and it had a bath attached to the back.  
 
 Enclosing the farm complex was a hedge or row of trees, the planting trenches of which were uncovered in excavations (gray wavy border on plan). Based on the palaeobotanical evidence of carbonised plant remains and pollen, a kitchen garden near the house and fruit trees on the property have been reconstructed. In front of the entrance to the main residence at the south were the remains of a small pool lined with clay. This has been taken as evidence for an ornamental garden surrounding the pool.  On a farm of this modest size and simplicity, however, an ornamental garden seems rather unlikely. The farm was occupied until the mid-5th century.
 
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="rheinbach-flerzheim_plan1_EUR_GI_RheFle_Rv_carroll.jpg" alt="Plan 1. Plan of the farmyard with its house (A) and bath (B) enclosed by a hedge (grey line). The open circles are wells. Adapted from Carroll 2001, fig. 38. (Rights statement)." title="Plan 1. Plan of the farmyard with its house (A) and bath (B) enclosed by a hedge (grey line). The open circles are wells. Adapted from Carroll 2001, fig. 38. (Rights statement)." >}}
 
-### Images
+## Images
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 Second century CE to mid-fifth century CE
 
-### Bibliography
+## Bibliography
 
 - M. Gechter, "Der römische Gutshof von Rheinbach-Flerzheim," in *Spurensicherung. Archäologische Denkmalpflege in der Euregio Maas-Rhein*, Mainz, 1992, pp. 249-54, 452-60. [worldcat](http://www.worldcat.org/oclc/28027282)
 - M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 79, fig. 38. [worldcat](http://www.worldcat.org/oclc/1120840822)
@@ -86,19 +86,19 @@ Second century CE to mid-fifth century CE
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Germania Inferior](https://pleiades.stoa.org/places/981524)
 <!-- germania imferior; no pleiades location -->
 
-#### TGN ID
+## TGN ID
 
 [Flerzheim (inhabited place)](http://vocab.getty.edu/page/tgn/7192890)
 
-### Contributor
+## Contributor
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

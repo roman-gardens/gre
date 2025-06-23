@@ -24,7 +24,7 @@ tags:
 [Pompeii]({{<relref "../..">}}) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -33,27 +33,27 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula II]({{<relref ".">}})
 
-### Keywords
+## Keywords
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
-### Garden Description
+## Garden Description
 There was a narrow portico on the eastern lower level of this double house 2.20 m. wide with columns connected by a wooden fence. Several steps lower the construction of a supporting wall on the lava ledge allowed room for a small garden (a) with a pool in the center. The house on the west had a terrace at this level which may have contained potted plants. A splendid view of the Bay and the mountains was offered from two wide terraces on the street level to the back of these houses, and these may have been used as roof gardens.
 
-### Plans
+## Plans
 {{< image src="fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
 {{< image src="fig._4_region_viii_insula_ii_30.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 29-39" title="Plan of the Pompeii Region VIII, Insula II, 29-39" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
-#### TGN ID
+## TGN ID
 [Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
 
-###  Excavation Dates
+##  Excavation Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 * Jashemski, *Gardens*, vol. II, pp. 208-209 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
 * Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1884), pp. 212-214 [http://www.worldcat.org/oclc/860559196)
 * Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi,” p. 20 [(worldcat)](http://www.worldcat.org/oclc/906755593)
@@ -61,9 +61,9 @@ Unspecified
 * Sogliano, *Notizie degli scavi di Antichita* (1883), p. 347 [(worldcat)](http://www.worldcat.org/oclc/46875519)
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

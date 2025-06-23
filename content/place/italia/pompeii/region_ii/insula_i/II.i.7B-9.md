@@ -34,7 +34,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -42,7 +42,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula I]({{<relref ".">}})
 
-### Keywords
+## Keywords
  - [tabernae](http://vocab.getty.edu/page/aat/300005366)
  - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
  - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
@@ -58,14 +58,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Garden
 Vineyard with large masonry [triclinium](http://vocab.getty.edu/page/aat/300004359), treading floor and [courtyard](http://vocab.getty.edu/page/aat/300004095) garden.
 
-### Garden Description
+## Garden Description
 A. The access to this garden featured an arched niche high on the garden wall located either side of the direct entrance from the street at entrance 8. A further entrance (7A) from the street was located on the east wall. The masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) (l. medius, 3.60 m.; l. imus 3.20 l. summus 2.43 m.) in the northwest corner had a round table (0.55 m. in dia.) between the couches and a rectangular [table](http://vocab.getty.edu/page/aat/300039548) (0.65 x 1.03 m.) built against the north wall. A cistern opening was found to the south of the [triclinium](http://vocab.getty.edu/page/aat/300004359). To the left of entrance 8, a small room was excavated in 1985 to reveal a treading floor that allowed the juice from the grapes to flow into a small [dolium](http://vocab.getty.edu/page/aat/300400601). This indicates that the garden was most likely planted in vines.
 
 B. Entrance 8 opened directly into a [courtyard](http://vocab.getty.edu/page/aat/300004095) garden. A cistern opening in the northeast corner of the garden was fed by a [gutter](http://vocab.getty.edu/page/aat/300052565) along the east edge. To the right of the door on the east wall was a small niche lararium with an [aedicules](http://vocab.getty.edu/page/aat/300002574) façade. To the right of this niche, a painting of Hercules was displayed in a red border. Below this was a garden setting with an altar and a crested serpent painted in low [stucco](http://www.getty.edu/vow/AATFullDisplay?find=stucco&logic=AND&note=&english=N&prev_page=1&subjectid=300014966) relief. In the interior area of this property, stairs leading to an upper floor and a [hearth](http://vocab.getty.edu/page/aat/300003990) in a kitchen area were located. The stairs likely led to accommodation.
 
 
 
-### Bibliography
+## Bibliography
 W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.75.* [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)
 Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 1986, *Corpus topographicum Pompeianum Pars IIIA, p.40-41* [(worldcat)](https://www.worldcat.org/title/corpus-topographicum-pompeianum/oclc/8667821)
 
@@ -74,21 +74,21 @@ Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 198
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-###  Excavation Dates
+##  Excavation Dates
 1939, 1953-1955, 1983
 
-### Contributors
+## Contributors
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)  
 Jessica Venner (https://orcid.org/0000-0001-5828-6222)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->

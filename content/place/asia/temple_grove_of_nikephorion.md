@@ -38,7 +38,7 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 [Pergamum (Pergamon; Bergama, Turkey)]({{<relref ".">}}) \
 [Pergamum](https://pleiades.stoa.org/places/550812)
 
-### Location Description
+## Location Description
 
 Pergamum, a fortress site in Mysia near the Aegean coast, was transformed into an architectural center under the Attalid dynasty (282-133 B.C.).  Attalus the III wrote treatises on gardens, raised poisonous plants, made wax models (Plut. Demet. 20.2), and upon his death, left the kingdom of Mysia to the Romans.  It became one of the most important Roman cities of Asia, and current scholarship has revealed its significance as an influence on the art and architecture of Rome.  The range of designed open spaces includes sanctuaries, gymnasia, palaestra, and agoras, all of which were renovated during the Roman period.  No archaeological remains of planting features have been reported, but an inscription records a law prohibiting the deliberate planting of trees near walls (SEG XIII 521.11.158-61).
 
@@ -57,7 +57,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Temple Grove of Nikephorion
 
-### Keywords
+## Keywords
 
 - [groves (plant communities)](http://vocab.getty.edu/page/aat/300008884)
 - [sanctuary centers (religious centers)](http://vocab.getty.edu/page/aat/300391482)
@@ -71,29 +71,29 @@ Temple Grove of Nikephorion
 - [palaestrae](http://vocab.getty.edu/page/aat/300007301)
 - [gymnasiums](http://vocab.getty.edu/page/aat/300007297)
 
-### Garden Description
+## Garden Description
 
 King Eumenes II of Pergamum employed a gardener to plant new trees and nurse damaged ones back to health in the grove of the Nikephorion, following an attack on the city by Philip V of Macedon in 201 B.C., during which Philip V ordered his troops to cut down trees in the sanctuary (Polybios 16.1.6).
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 
 
-### Images
+## Images
 
 
 
-### Dates
+## Dates
 
 Unspecified
 
-### Bibliography
+## Bibliography
 
 * M. Carroll-Spillecke, “The Gardens of Greece from Homeric to Roman Times,” *Journal of Garden History* 12, 1992: 84-101. [(Taylor & Francis Online)](https://doi.org/10.1080/01445170.1992.10410564)
 * A. Kuttner, “Republican Rome looks at Pergamon," *Harvard Studies in Classical Philology* vol. 97, *Greece in Rome: Influence, Interaction, Resistance*, ed. C. P. Jones, R. Thomas, 1997, pp. 157-178. [(worldcat)](http://www.worldcat.org/oclc/67030024)
@@ -104,20 +104,20 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Temple Grove of Nikephorion at Pergamum](https://pleiades.stoa.org/places/537932154)
 
-#### TGN ID
+## TGN ID
 
 [Bergama (inhabited place)](http://vocab.getty.edu/page/tgn/7016140)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 [Kathryn Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/) (ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

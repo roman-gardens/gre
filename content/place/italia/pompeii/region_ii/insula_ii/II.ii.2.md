@@ -38,7 +38,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -46,7 +46,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula II]({{<relref ".">}})
 
-### Keywords
+## Keywords
  - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
  - [impluvia](http://vocab.getty.edu/page/aat/300129867)
  - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
@@ -70,7 +70,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Garden
 Large garden planted with trees and decorated with a water channel (euripus), garden paintings, garden statues, and a [biclinium](http://vocab.getty.edu/page/aat/300170371) and triclinium](http://vocab.getty.edu/page/aat/300004359). Inside, a spacious [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029) with [fountains](http://vocab.getty.edu/page/aat/300006179) was decorated with flowers in planting boxes and ornamentals.
 
-### Garden Description
+## Garden Description
 A. The spacious Tuscan [atrium](http://vocab.getty.edu/page/aat/300004097) of this luxurious house excavated in 1918-1921 was a lavish garden. A low, double masonry wall, faced with marble on the outside, bordered the [impluvium](http://vocab.getty.edu/page/aat/300129867) and according to Spinazzola, the space between the walls had been lined with wood to form a planting box for flowers and ornamentals. The pool had a [fountain](http://vocab.getty.edu/page/aat/300006179) base, which may have held a statuette, and bases in the center of each side may have held additional statuary. On the north side of the [impluvium](http://vocab.getty.edu/page/aat/300129867) pipe remains, as well as the cavity where the pipe emerged from under the south base, were excavated. Bombing during WWII extensively damaged the other two sides but these have since been restored.  
 
 B. At the rear of the atrium a modest [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029) garden was enclosed by a [portico](http://vocab.getty.edu/page/aat/300004145) on the east, north and west sides. The supporting columns were smooth and colored red at the base, and fluted and white at the top. A very low wall joined all of the columns. Two circular beds in the center of the garden and a bed bordering the edges with a path between, entered from the south, were shown on the large plan by Spinazzola (see p.376).  Although a dot in the center of each circular bed could represent a root cavity, no mention is made of soil contours or root cavities. A glazed terra-cotta statuette of Bes, the Egyptian deity (Pompeii inv. no. 2897) and of a pharaoh (Pompeii inv. no. 2898) were found but indications were that many other statuettes from this garden had been carried away by ancient excavators.  
@@ -83,7 +83,7 @@ There was evidence of long vine [arbors](http://vocab.getty.edu/page/aat/3000067
 
 A masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) stood to the east of the first fountain and here two sculptured supports for a marble table were found. The west side of the covered passageway once had wooden benches, and near the wall at the south end of the garden a one-third life size statuette of a sleeping hermaphrodite (Pompeii inv. no. 3021) was discovered. An entrance from the Via di Castricio allowed direct access to the garden.
 
-### Bibliography
+## Bibliography
 Döhl, H. 1976. *Plastik aus Pompeji*, Habilitationsschrift, Göttingen, p.6.  
 W. F. Jashemski, 1979, *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius, pp.46-47* [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)  
 W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.82-83.* [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
@@ -100,19 +100,19 @@ Paul Zanker, 1998, *Pompeii: Public and Private Life, pp.477-480.*
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-###  Excavation Dates
+##  Excavation Dates
 1916, 1918, 1921, 1933-35 and 1973
 
-### Contributors
+## Contributors
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)  
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->

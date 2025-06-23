@@ -40,12 +40,12 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Villa des Tuillières
 
-### Keywords
+## Keywords
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [porticos/porticus](http://vocab.getty.edu/page/aat/300004145)
 - [hypocausts](http://vocab.getty.edu/page/aat/300004277)
 
-### Garden Description
+## Garden Description
 
 The villa des Tuillières near Selongey was on a Roman road connecting Lyon and Trier. The *villa* was detected by aerial photography in 1973 and almost completely excavated by the private Association Archéologique de Fontaine-Française in advance of the construction of the motorway A 26/31 Langres – Dijon between 1976 and 1988.
 
@@ -60,25 +60,25 @@ The villa was destroyed during the barbarian invasion into Gaul in 256-8 AD, whi
 Furthermore, there is evidence of lentil (*Lens culinaris*) and broad bean (*Vicia faba*), which were most probably cultivated either in the gardens of the villa or on small fields in the vicinity. Carbonized scales from walnuts and uncarbonized fruit stones from peach (*Prunus persica*) and damson (*Prunus insititia*) indicate cultivation of fruit trees in the gardens while hazel (*Corylus avellana*) and sloe (*Prunus spinosa*) were most probably fruits collected from the wild.
 
 
-### Maps
+## Maps
 
 None Available
 
-### Plans
+## Plans
 
 None Available
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 None Available
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - J.C. Beal with the collaboration of d'A. et A. Ruellet,  La resserre de Selongey (Côte d'Or): une collection d'objets de bois et d'ivoire dans la villa des Tuillières,» *Revue Archéologique de l'Est* xx
 - E. Gauthier, M. Joly, « Vignoble et viticulture dans le centre-est de la Gaule au Ier siècle « .in: F. Favory/A. Vignot (eds.), Actualités de la Recherche en Histoire et Archéologie agraires. Actes du colloque international AGER V, Besançon 2000.
 - *Collection Annales Littéraires* No. 764, Série *Environnement*, sociétés et archéologie 5(2003) :191-208, Besançon;
@@ -91,17 +91,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Mediolanum](https://pleiades.stoa.org/places/177578)
 
-#### TGN ID
+## TGN ID
 [Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
 
-### Contributor
+## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

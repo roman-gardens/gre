@@ -29,7 +29,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -40,36 +40,36 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Garden
 Caupona with small bath.
 
-### Keywords
+## Keywords
  - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
  - [cauponae](http://vocab.getty.edu/page/aat/300005208)
  - [tabernae](http://vocab.getty.edu/page/aat/300005366)
  - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
-### Garden Description
+## Garden Description
 A. A very small bath was located at the left rear of the [atrium](http://vocab.getty.edu/page/aat/300004097) in this unusual building. Behind this was a tiny garden with three small triclinia on either side. The couches of these six [triclinia](http://vocab.getty.edu/page/aat/300004359) were so low and narrow they must have been used as seats similar to the [tabernae](http://vocab.getty.edu/page/aat/300005366) attached to the house of Julia Felix (II.iv.7).
 B. Another small garden was found to the rear of the [caupona](http://vocab.getty.edu/page/aat/300005208).
 
 <!--### Plans
 {{< image src="../../fig._62,_plan_of_region_ii,_insula_viii.png" alt="Fig. 62, Plan of Region II, insula viii" title="Fig. 62, Plan of Region II, insula viii" >}}-->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Dates
+## Dates
 Excavated 1954.
 
-### Bibliography
+## Bibliography
 * Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.94 [(worldcat)](http://www.worldcat.org/oclc/921816405)
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

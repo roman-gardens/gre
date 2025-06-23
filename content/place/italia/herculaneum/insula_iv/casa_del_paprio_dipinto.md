@@ -26,7 +26,7 @@ categories:
  [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 
-### Location Description
+## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
@@ -39,11 +39,11 @@ IV
 Casa del Paprio Dipinto
 
 
-### Keywords
+## Keywords
 - [impluvia](http://vocab.getty.edu/page/aat/300129867)
 
 
-### Garden Description
+## Garden Description
 544.IV.8-9.
 This narrow house excavated in 1929-1932 had a small paved courtyard serving as both a light well and an *impluvium*. This area could have held potted plants. A hunt scene once decorated the back wall, featuring lions and bulls, scenes more typically found on the walls of more luxurious dwellings.
 <!--### Maps-->
@@ -57,29 +57,29 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="H_4_3-9.jpg" alt="Plan of Casa del Paprio Dipinto" title="Plan of Casa del Paprio Dipinto" >}}
 
 
 <!--### Images-->
 
-#### Pleiades ID
+## Pleiades ID
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-#### TGN ID
+## TGN ID
 [Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 1929-1932
 
-### Bibliography
+## Bibliography
 
 - Jashemski, *Gardens*, vol.II, p. 370 [(worldcat)](http://www.worldcat.org/oclc/1029851777)
 - Maiuri, *Herculaneum*, pp. 32 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
@@ -89,11 +89,11 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
-### Publication date
+## Publication date
 
 
 

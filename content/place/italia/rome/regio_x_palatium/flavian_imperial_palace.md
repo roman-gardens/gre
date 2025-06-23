@@ -32,7 +32,7 @@ draft: false
 
 Garden of the Flavian Imperial Palace, Palatine
 
-### Keywords
+## Keywords
 
 - [allées](http://vocab.getty.edu/page/aat/300178561)
 - [altar (religious fixture)](http://vocab.getty.edu/page/aat/300003725)
@@ -53,7 +53,7 @@ Garden of the Flavian Imperial Palace, Palatine
 - [statue](http://vocab.getty.edu/page/aat/300047600)
 
 
-### Garden Description
+## Garden Description
 
 During the period of [Domitian](https://en.wikipedia.org/wiki/Domitian) (81-96 CE), a large artificial platform with massive substructures at the north, east and west was completed at the site of the [Vigna Barberini](https://it.wikipedia.org/wiki/Vigna_Barberini). On this platform stood a large structure with a curvilinear plan at the south, and with [colonnaded](http://vocab.getty.edu/page/aat/300002613) aisles on the east and west (the north is not excavated) that enclosed a vast garden (Figs. 1-2).  Over one-third of this garden area has been partly explored, another third was irrevocably destroyed when the later [Temple of Elagabalus (*Elagabalium*)](https://en.wikipedia.org/wiki/Elagabalium) was built, and the final third, at the north, remains to be excavated.
 
@@ -77,7 +77,7 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 [Garden of the Peristyle of the Julio-Claudian *Domus*]({{<relref"julio_claudian_domus">}})\
 [Garden of the Temple of Elagabalus]({{<relref"temple_of_elagabalus">}})
 
-### Figures
+## Figures
 
 {{< image src="flavianpalace_fig1.jpg" alt="Reconstruction of the Vigna Barberini" title="Fig. 1. Reconstruction of the Flavian Palace with, in the forefront, the main body of the complex excavated at the Vigna Barberini. (© N. André, AMU-CNRS, IRAA)." >}}
 
@@ -93,11 +93,11 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 
 {{< image src="flavianpalace_fig7.jpg" alt="Detail Marble Canal of the Flavian Palace" title=" Fig. 7. Detail of the marble canal along the outer edge of the portico." >}}
 
-### Dates
+## Dates
 
 1st century - 2nd century CE
 
-### Bibliography
+## Bibliography
 
 * M. Royo, *Domus Imperatoriae, Topographie, formation et imaginaire des palais impériaux du Palatin*, Rome, 1999. [(worldcat)](http://www.worldcat.org/oclc/907608488)
 * F. Villedieu and N. André, *Propositions pour une reconstitution de l'édifice flavien et de l'ensemble monumental tardif de la Vigna Barberini* (Rome, Palatin), *Actes du Colloque: Rome An 2000* (Caen, 2003). [(worldcat)](http://www.worldcat.org/oclc/57229072)
@@ -107,11 +107,11 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 * S. Leo, “Vasi da fiori” in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 75-76. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
 * F. Villedieu, *La Vigna Barberini II- Domus, palais impérial et temples: stratigraphie du secteur nord-est du Palatin*, Rome, 2007 (RomaAntica, 6). [(worldcat)](http://www.worldcat.org/oclc/643147049)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Palatinus Mons](https://pleiades.stoa.org/places/971691208)
 
-### Contributor
+## Contributor
 
 Jean-Paul Morel\
 Françoise Villedieu

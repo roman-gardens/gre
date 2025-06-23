@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rural Villa in Hummetroth
 
-### Keywords
+## Keywords
 
 - [apsed triclinium](#)
 - [balnea](http://vocab.getty.edu/page/aat/300120377)
@@ -57,7 +57,7 @@ Rural Villa in Hummetroth
 - [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
-### Garden Description
+## Garden Description
 
 The enclosed farmyard, including the residential area (pars urbana) and the service zone with outbuildings and working areas (pars rustica), covered an area of 3.5 hectares. The house of this *villa rustica* of the 2nd century is of the winged corridor type with two protruding wings framing a large courtyard in front of the house at the south (Fig. 1).
 
@@ -69,7 +69,7 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="EUR_GS_Hum_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south. Plan adapted from Baatz and Herrmann 1989, fig. 303a." title="Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south. Plan adapted from Baatz and Herrmann 1989, fig. 303a." >}}
 
@@ -79,11 +79,11 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 2nd century
 
-### Bibliography
+## Bibliography
 
 * D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart,1989, pp. 360-361, fig. 303a-b. [(worldcat)](http://www.worldcat.org/oclc/476625416)
 * M. Carroll, *Romans,Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 74, fig. 29. [(worldcat)](http://www.worldcat.org/oclc/1120840822)
@@ -92,19 +92,19 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Germania Superior](https://pleiades.stoa.org/places/981525)
 
-#### TGN ID
+## TGN ID
 
 [Hummetroth (inhabited place)](http://vocab.getty.edu/page/tgn/7165467)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

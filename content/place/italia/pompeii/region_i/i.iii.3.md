@@ -29,7 +29,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula III]({{<relref "#">}})
 
-### Keywords
+## Keywords
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
 - [lararia](http://vocab.getty.edu/page/aat/300400600)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
@@ -48,13 +48,13 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Garden
 [Peristyle](http://vocab.getty.edu/page/aat/300080971) gardens in the House of Epidius Fortunatus.
 
-### Garden Description
+## Garden Description
 A. On the right of the [tablinum](http://vocab.getty.edu/page/aat/300004180) were ten steps that led to the [peristyle](http://vocab.getty.edu/page/aat/300080971) garden. A [portico](http://vocab.getty.edu/page/aat/300004145) enclosed the garden on the west, north and east sides. This was supported by ten columns and two engaged columns which were stuccoed brick painted red. The north, east, and west edges of the garden had a gutter. There were two cistern openings, according to Mau, one located in the northeast corner of the garden with a tufa puteal and the other in the corresponding corner of the portico. Water emptied at the northeast corner from the gutter into the cistern and into the street at the southeast and southwest corners. An aqueduct pipe came out of the first column, (counting from the south on the west portico), and ran between the gutter and the [portico](http://vocab.getty.edu/page/aat/300004145). The pipe rose, supported from the second column on the west side, to spurt a jet of water in the gutter. Flanking the west and the north [porticoes](http://vocab.getty.edu/page/aat/300004145), it disappeared going to the northwest. On the west side it was possible in two places to let water flow into the gutter by a widening of the pipe. The gutter had openings to the gardens at these two points to serve as watering outlets. There were keys before and after the widen pipe sections to control the flow of water. Two branches of this pipe entered a room off the northwest corner of the [peristyle](http://vocab.getty.edu/page/aat/300080971) where there was a basin.
 
 B. The front of this house excavated in 1869 had an unusual design in that it was set back some distance from the street. The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden was entered at the end of the entranceway at the rear of a long *angiprotus* (alleyway). Rooms of the house were located at the right and rear of the garden. The [peristyle)](http://vocab.getty.edu/page/aat/300080971) had undergone various changes and was supported on the east and north by tall tufa columns. The [portico](http://vocab.getty.edu/page/aat/300004145) roof on the west was supported by two low brick columns and two pilasters surmounted by arches. A low wall enclosed the garden, joining the columns either side of the entrance between the two columns to the west. A terracotta puteal was adjacent to the west wall along with a hearth covered with a small vault decorated with a rough, bearded head supposed to be Vulcan. A large window on the south wall gave a view from the [exedra](http://vocab.getty.edu/page/aat/300081589) into the garden. The east [peristyle](http://vocab.getty.edu/page/aat/300080971)wall contained a [lararium](http://vocab.getty.edu/page/aat/300400600) niche and a gutter ran along the north, east, and west edges of the garden.
 
 
-### Bibliography
+## Bibliography
 
 * Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 24, no.22 [(worldcat)](https://www.worldcat.org/title/corpus-of-the-lararia-of-pompeii/oclc/892026154&referer=brief_results)  
 * Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 72 [(worldcat)](https://www.worldcat.org/title/giornale-degli-scavi-di-pompei/oclc/10781121)  
@@ -69,20 +69,20 @@ B. The front of this house excavated in 1869 had an unusual design in that it wa
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-###  Excavation Dates
+##  Excavation Dates
 Excavated 1873.
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->

@@ -26,7 +26,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -34,7 +34,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula I]({{<relref ".">}})
 
-### Keywords
+## Keywords
  - [cauponae](http://vocab.getty.edu/page/aat/300005208)
  - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
 
@@ -44,11 +44,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Small garden to the rear of a
 [caupona](http://vocab.getty.edu/page/aat/300005208)
 
-### Garden Description
+## Garden Description
 The garden in the southeast section of this area was shared the house at entrance 3 and shops 4, 5, and 6 on the Via dell’Abbondanza. It was also possible to enter the garden from the side street at entrance 7.  Jashemski established in 1975 that the area had been planted due to the presence of scattered root cavities, but extensive damage to the soil prevented the recovery of an accurate planting plan.
 
 
-### Bibliography
+## Bibliography
 Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, p.75 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)
 
 
@@ -57,20 +57,20 @@ Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed 
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-###  Excavation Dates
+##  Excavation Dates
 1916, 1950, 1985. Bombed in 1943.
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->

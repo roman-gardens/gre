@@ -29,7 +29,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -41,38 +41,38 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Peristyle-garden on the eastern side of the Republican villa (Fig. 1, n. 18)
 
-### Keywords
+## Keywords
 
 - [flower gardens](http://vocab.getty.edu/page/aat/300008135)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
-### Garden Description
+## Garden Description
 
 This garden was set in the middle of a luxurious peristyle (SALZA PRINA RICOTTI 2000, pp. 335-337, fig. 116). Unluckily only its western part has been preserved. From what we find now on this side of the area, and from the ancient surveys showing the entire garden still existing in the XVIII cent., we can imagine how it must have looked. It was the kind which we call “*hortus conclusus*”, and it was enclosed by high walls decorated by a series of niches with semicircular ones alternating with square ones (Figg. 51; 52 and 53). Columns stood between them, and were set in the walls in such a way that only half of them emerged, looking as a sequence of half columns. Today only the groove left by them in the masonry, and the remains of the fine *opus sectile* which, once, covered the portico's soil, allow us to imagine how it was decorated. At the two extremities of the western wall two very small *nymphaea* set in two narrow niches refreshed the air with their fountains (Fig. 51, a and b ). Apart from this today we can only see three large rooms, opening on the garden, which occupied the northern side of the peristyle. All the rest has been devastated by the agricultural exploitation of the land. Savage plowing and the destruction of both the portico and the enclosure to create ampler space for planting more olive trees and other crops, has caused landslides which have engulfed all the eastern part of this garden. Unluckily here there was no tufa platform to save the garden structure, and this is a pity, because this garden, connected with the Palace, must have been very interesting and the quantity of lead present in its soil shows that it was much cared for (SALZA PRINA RICOTTI 1994-95, fig. 7).
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
 {{< image src="51_hortus_conclusus.jpg" alt="Plan of the hortus conclusus on the eastern side of the Republican villa at Hadrian's Villa" title="Fig. 51: Plan of the hortus conclusus, Eugenia Salza Prina Ricotti." >}}
 
-### Images
+## Images
 
 {{< image src="52_peristilio_a_est_di_palazzo.jpg" alt="Photograph of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa at Hadrian's Villa" title="Fig. 52: A view of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa, Eugenia Salza Prina Ricotti." >}}
 
 {{< image src="53_peristilio_ad_est_di_palazzo_2.jpg" alt="Second photograph of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa at Hadrian's Villa" title="Fig. 53: A second view of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -93,21 +93,21 @@ unspecified
 * E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 335-337, fig. 116. [(worldcat)](http://www.worldcat.org/oclc/46784026)
 * E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67, 1994-95, fig. 7. [(worldcat)](http://www.worldcat.org/oclc/1006002216)<!-- link to specific issue needed -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

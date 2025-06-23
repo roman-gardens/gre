@@ -54,7 +54,7 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- DESCRIPTION -->
 
 
-### Keywords
+## Keywords
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [dado](http://vocab.getty.edu/page/aat/300001746)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
@@ -62,7 +62,7 @@ A sublocation is any area larger than an individual garden, but located within a
 - [putto](http://vocab.getty.edu/page/aat/300250465)
 
 
-### House Description
+## House Description
 The most striking remains are in Terrace House 2, in Room 20 (Residence 4), excavated by H. Vetters between 1967-1983.  Here, in a space originally designed as a courtyard, the walls are decorated with an elaborate garden scene. Much of the painting is covered by a later painting of marble panels, but on the north and west walls the garden scene has been partially revealed (Figs. 1 and 2).  The viewer within the room looks out past a real marble dado on top of which is an illusionistic marble fence with an unusual egg and dart design along the top.  Beyond is a garden scene, similar to those seen in Pompeii or the famous garden scene of Livia at Prima Porta. The scene is filled with luxuriant foliage, out of which apple trees rise up against the blue sky bearing apples or quinces.  A bird flies over a young juniper or cypress. The illusion of the garden continues without a break around the corners.  It allows the viewers to feel present in a garden, while knowing they are in a room looking out at it. The later painting completely destroys both the illusion and any recollection that the space had formerly been an open courtyard.
 
 In the central peristyle of Residence 2 of Terrace House 2, Vetters uncovered a late Imperial mosaic of Dionysius and Ariadne in a niche. The peristyle itself is a paved courtyard, but the mosaic offers the viewer a rich view of a paradisiacal vineyard.  A lunette features a mosaic of two peacocks holding a garland over a basket or urn of grapes and fruits, with white geese to each side standing on a green lawn with roses and lilies (Fig. 3). The ceiling of the niche features Dionysias and Ariadne in a central medallion set into a panel of blue, against which is arrayed a vine laden with grapes and doves (Fig. 4).  In the upper corner, the vine emerges from the ground, and along the base of the wall, a winged *putto* leads two harnessed leopards or panthers.  The opposite side is not preserved.
@@ -71,17 +71,17 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 
 
 <!--
-### Maps
+## Maps
 
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 {{< image src="Ephesos Plan.jpg" alt="Plan of Ephesos terrace house 2 with courtyard in the middle and rooms surrounding it, Photo by N. Blanc" title="Plan of Ephesos terrace house 2">}}
 
 
 
-### Images
+## Images
 
 
 {{< image src="Ephesos Northwest corner 5a.jpg" alt="Garden painting in the North-West corner of the peristyle showing plants and painted windows with more surrounding context" title="Garden painting in the North-West corner of the peristyle" >}}
@@ -93,10 +93,10 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 {{< image src="Ephesos North Wall.jpg" alt="Painting showing plants as discovered on the North wall of the terrace house 2" title="Painting as discovered on the North wall of the terrace house 2" >}}
 
 
-### Dates
+## Dates
 1st-3rd c. CE
 
-### Bibliography
+## Bibliography
 - *Forschungen in Ephesos* Vol. VIII/1, Figs. 207-219 [(worldcat)](http://www.worldcat.org/oclc/6928546)
 - *Forschungen in Ephesos* Vol. VIII/2 Figs. 109-130 [(worldcat)](http://www.worldcat.org/oclc/6928546)
 - W. Jobst, *Romische Mosaiken aus Ephesos I:  Die Hanghauser des Embolos*,Vienna, 1977 [(worldcat)](http://www.worldcat.org/oclc/929054298)
@@ -107,17 +107,17 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Ephesus/Arsinoe(ia)](https://pleiades.stoa.org/places/599612)
 
-#### TGN ID
+## TGN ID
 [Caria (former nation/state/empire)](http://vocab.getty.edu/page/tgn/7002358)
 
-### Contributor
+## Contributor
 [Kathryn Gleason](link) (ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

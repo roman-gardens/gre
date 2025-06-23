@@ -32,7 +32,7 @@ tags:
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -47,7 +47,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Three separate gardens in the Praedia di Julia Felix.
 
 
-### Keywords
+## Keywords
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [sprinklers (watering equipment)](http://vocab.getty.edu/page/aat/300435392)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
@@ -55,7 +55,7 @@ Three separate gardens in the Praedia di Julia Felix.
 - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
-### Garden Description
+## Garden Description
 Three separate gardens were located in this property.  
 
 A. Garden A (entrance 9) occupies the entire *insula* and is one of the largest properties in the city. It was originally excavated in 1755-1757, stripped of its works of art and re-buried. In 1951-1952, this garden was re-excavated and restored but not published. Sixteen elegantly carved slender marble pillars support a [portico](http://vocab.getty.edu/page/aat/300004145) which borders the [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029) garden on the west. An alcove housed a summer [triclinium](http://vocab.getty.edu/page/aat/300004359) (l. medius, 4.00 m.; l. imus and summus 3.00 m.) with marble faced couches that looked through the [portico](http://vocab.getty.edu/page/aat/300004145) into the garden. Between the couches a niche supplied water that ran down small marble steps to a hole at the bottom. The water re-surfaced as a jet in the middle of the [triclinium](http://vocab.getty.edu/page/aat/300004359). A vine covered [arbor](http://vocab.getty.edu/page/aat/300006781) stretched along the south and east side of the garden and beyond it in bays on the east wall were raised planting beds, alternating semicircular and square. These were covered with pumice and decorated with a band of Egyptian blue around the sides and top, the middle bay having four bands of Egyptian blue. The room to the south of the [triclinium](http://vocab.getty.edu/page/aat/300004359) had a garden representation (0.185 x 0.42 m) on the north part of the west wall on the red middle zone.
@@ -69,7 +69,7 @@ B. An outdoor swimming [pool](http://vocab.getty.edu/page/aat/300008692) (8.50 x
 C. A walled rustic garden close to entrance 8 had been planted and at the time of the excavation; rectangular planting bed contours were evident here. This included tree root cavities were noted around the perimeter of each bed and four rectangular water basins (one of which was double), and a [cistern](http://vocab.getty.edu/page/aat/300052558) opening.
 
 
-### Plans
+## Plans
 {{< image src="Fig. 18, II.iv.2   5.29.59.jpg" alt="Fig. 18, II.iv.2   5.29.59 - view form the portico ." title="view form the portico">}}
 
 {{< image src="Fig. 19, II.iv.    5.32.59.jpg" alt="ig. 19, II.iv.5.32.59.- detail of the jet." title="detail of the jet.">}}
@@ -78,11 +78,11 @@ C. A walled rustic garden close to entrance 8 had been planted and at the time o
 
 
 
-### Dates
+## Dates
 Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
 
 
-### Bibliography
+## Bibliography
 - *Annali Dell'instituto Di Correspondenza Archeologica,* 1830, p.50 [worldcat](http://www.worldcat.org/oclc/470771737)
 - Bonucci, Da Carlo. 2018. *Pompei Descritta Da Carlo Bonucc,* p.219 [worldcat](http://www.worldcat.org/oclc/23518809)
 - Bragantini, Irene. 1981. *Pitture E Pavimenti Di Pompei.* Roma: Ministero per i beni culturali e ambientali, Istituto centrale per il catalogo e la documentazione, 1981. 1:238 [worldcat](http://www.worldcat.org/oclc/13334913)
@@ -117,18 +117,18 @@ Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [House of Julia Felix](https://pleiades.stoa.org/places/205387552)
 
 
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)  
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

@@ -24,7 +24,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 [Volubilis]({{<relref ".">}})
 [Volubilis](https://pleiades.stoa.org/places/275740)
 
-### Location Description
+## Location Description
 
 Volubilis was the capital of the province of Mauretania Tingitania. The city was of Punic foundation, located on the edge of a plain that slopes down from the Zerhoun hills. During the reign of Juba II, king of Mauretania, Volubilis knew a prosperous period. He was succeeded by his son, Ptolemy of Mauretania, who was assassinated in 40 CE by Caligula. The kingdom was then divided into two provinces, and Volubilis was elevated to the rank of municipium as a reward for taking the side of Rome during the conflict.
 
@@ -38,7 +38,7 @@ The city rapidly developed and expanded; new temples, baths, civic buildings and
 
 House of Flavius Germanus (La maison de Flavius Germanicus)
 
-### Keywords
+## Keywords
 
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
@@ -46,39 +46,39 @@ House of Flavius Germanus (La maison de Flavius Germanicus)
 - [piscinae](http://vocab.getty.edu/page/aat/300375619)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
-### Garden Description
+## Garden Description
 
 The House of Flavius Germanus, dating to the third century, is located between the decumanus maximus, the decumanus north I, the House of the Labors of Hercules, and the House of Dionysus and the four Seasons. The peristyle was enclosed on four sides by a portico supported by 14 columns (Plan view, Fig. 1). The space between the columns was spanned by a low wall. Along the north portico, a rectangular pool, curved at its center, extended into the garden and faced the oecus (label 12) opening into the garden. At the southeast corner was a domestic shrine with an inscription giving the name of the owner. During the second phase of the house, a large garden was added at the rear, bounded by a wall on the southern side.
 
-### Plans
+## Plans
 <!--Plan View Image Missing-->
 <!-- {{< image src="IMAGEMISSING" alt="Plan of the House of Flavius Germanus" title="Fig. 1: Plan of the House of Flavius Germanus (Rights Statement)">}} -->
 
-### Images
+## Images
 
-### Dates
+## Dates
 
 Third century CE
 
-#### Excavation Dates
+## Excavation Dates
 
-### Bibliography
+## Bibliography
 
 * R. Etienne, Le quartier Nord-Est de Volubilis, Paris, 1960, 34-8, Pl. V, XLVI, 2.  [(haithitrust)](https://catalog.hathitrust.org/Record/001605508)
 
 * R. Thouvenot, “Maisons et hydraulique dans le quartier NE de Volubilis”, p. 27-58, Plan I, Pl. IV. [(worldcat)](http://www.worldcat.org/oclc/458298688)
 
-#### Pleiades ID
+## Pleiades ID
 
 [House of Flavius Germanus](https://pleiades.stoa.org/places/814800402)
 
-#### TGN ID
+## TGN ID
 
-### Contributor
+## Contributor
 
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
-### Publication date
+## Publication date
 
 <!--07 July 2020-->
 

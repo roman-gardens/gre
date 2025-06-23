@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
 [Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -28,7 +28,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [Toulouse]({{<relref ".">}}) \
 [Toulouse](https://pleiades.stoa.org/places/246694)
 
-### Location Description
+## Location Description
 
 Toulouse was one of the pilgrimage sites on route to the Cathedral of Santiago de Compostela; French pilgrimage routes to Compostela tend to follow old Roman roads, many of which continued to be utilized as primary roads of communication during the Middle Ages. It is a prehistoric route, taken over by Romans in 106 BCE and then captured by Clovis in 508. Toulouse resisted the crusade against the "Albigensian heresy" in the early 13th century. It received parlement 1443 and was a witness to the Protestant massacre of 1562 and the scene of the British victory over the French in 1814. Between 1942 and 1944 it was occupied by Nazi rule. There are a number of noteworthy art museum here.<!--### Location Description-->
 
@@ -48,7 +48,7 @@ Toulouse was one of the pilgrimage sites on route to the Cathedral of Santiago d
 Domus under the Hôtel d’Assézat
 
 
-### Keywords
+## Keywords
 
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
@@ -58,7 +58,7 @@ Domus under the Hôtel d’Assézat
 
 
 
-### House Description
+## House Description
 
 The Hôtel d’Assézat is a Renaissance palace which now houses the  art collection of [Georges Bemberg](https://fr.wikipedia.org/wiki/Georges_Bemberg).  In the heart of Toulouse, it is about 150 meters east of the [Pont Neuf](https://en.wikipedia.org/wiki/Pont_Neuf), in [rue de Metz](https://fr.wikipedia.org/wiki/Rue_de_Metz_(Paris)). After original finds in 1979, further vestiges of a domus came to light during salvage excavations in 1993-1994 in connection with expansion of facilities. After a first phase dating from A.D. 1 – 15, of which remain some painted plaster found in the trenches, there developed in the reign of [Tiberius](https://en.wikipedia.org/wiki/Tiberius), between 15 and 30, a residence with rooms ornamented with carefully executed mosaics.  They were organized around a courtyard for household work, as indicated by a fireplace and a sinkhole for waste water. The surface was tamped earth repaired three times – to judge from the surviving strips – with a new layer of clay.
  In a new phase, the house was completely remodeled with larger rooms sometime between 40 and 80. It took on a more coherent plan: the open space was transformed into a peristyle with a central garden. It was bordered on the three known sides with porticoes; strangely, no trace of the colonnade of the portico has been found. A shallow, U-shaped pool, of which the long arm on the south was at least 17 meters, runs along three of the sides. The garden side of the frame of the pool, the inside of the U, was marked off rhythmically by a little apse on the west side (the bottom of the U) and a rectangular notch on the northern arm, presumably matched by one on the south, though the poor condition of the remains makes any interpretation risky. The central part of the U remained free of any construction and is considered the garden. The bottom of the 90- centimeter-wide channels that formed the pool was hydraulic cement. Since they were 50 centimeters below the floor of the porticoes, these channels must have served to catch rain water as well as to embellish the garden. In a later phase, the bottom of the channels was covered with marble flagstones, which left their imprint in the mortar.
@@ -75,17 +75,17 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="domus_under_the_hotel_d_assezat.png" alt="Plan of Domus under the Hôtel d’Assézat" title="Plan of Domus under the Hôtel d’Assézat" >}}
 
 
 
-### Dates
+## Dates
 
 After original finds in 1979, further vestiges of a domus came to light during salvage excavations in 1993-1994 in connection with expansion of facilities.
 
-### Bibliography
+## Bibliography
 
 1. Jean. Catalo, Urbanisme antique et médiéval au 4, rue Clémence Isaure In *Mémoire de la Société Archéologique du Midi de la France*, 56, 1996, p. 51-74.[(worldcat)]()
 
@@ -95,22 +95,22 @@ After original finds in 1979, further vestiges of a domus came to light during s
 
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 [Tolosa](https://pleiades.stoa.org/places/246694)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Toulouse (inhabited place)](http://vocab.getty.edu/page/tgn/7008441)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

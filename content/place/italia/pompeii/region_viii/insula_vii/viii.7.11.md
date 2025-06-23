@@ -23,7 +23,7 @@ categories:
 [Pompeii]({{<relref "../..">}}) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -34,29 +34,29 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 
-### Garden Description
+## Garden Description
 Behind this shop and the rooms beyond that there was a garden (a).
 
-### Plans
+## Plans
 {{< image src="fig.23.region_viii.insula_vii.1-15.png" alt="Fig.23, Plan of Region VIII, Insula VII" title="Fig.23, Plan of Region VIII, Insula VII" >}}
 
 
-#### Pleiades ID
+## Pleiades ID
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
-#### TGN ID
+## TGN ID
 [Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
-###  Excavation Dates
+##  Excavation Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 * Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
 * Viola, *Gli scavi di Pompei dal 1873 al 1878.* In Pompei e la regione sotterrara dal Vesuvio nell' anno LXXIX, p. 17 (where the address is VIII.viii.11) [(worldcat)](http://www.worldcat.org/oclc/254502217)
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

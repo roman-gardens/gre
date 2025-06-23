@@ -12,7 +12,7 @@ draft: false
 Delos is a small island in the center of the Cyclades measuring about five kilometers north-south and 1.3 kilometers east-west at the widest.  In antiquity, it was famous as the birthplace of Apollo. Apollo’s sanctuary, founded in the seventh century B.C., is situated on a small plain next to the main port. It became a principal Panhellenic cult center and always formed the heart of the later settlement and city. The city was under Athenian supremacy in the fifth and fourth centuries B.C. and became independent only in 314 B.C. Although extensive public building occurred during the period of its status as an independent city-state and the island began to develop as a commercial center, the city remained relatively small and was still mainly engaged in local and regional trade with the surrounding Cycladic islands. This changed significantly when the Romans handed control of Delos to Athens in 167 B.C. and declared it a free port. It soon developed into a booming cosmopolitan trade center with merchants coming from all over the Mediterranean world. As a consequence the city grew considerably, mostly to meet the needs of its new purpose. Squares, quays, warehouses, shops, new residential quarters, and clubhouses of foreign associations were constructed, and public buildings and sanctuaries were either renovated and extended or newly built. Although Delos was sacked twice, in 88 B.C. by the troops of Mithridates and 69 B.C. by the pirates under Athenodoros, its desertion during the first century B.C. is predominantly due to the rivalry of increasingly successful Roman ports like Puteoli and Ostia. Life in Delos did not come to an abrupt halt as evidenced by remains of Roman thermae and several Christian basilicas, but it continued on a much smaller scale.
 
 
-### Bibliography
+## Bibliography
 - P. Roussel and M. Launey, *Inscriptions de Délos*. Paris, 1937. [(worldcat)](http://www.worldcat.org/oclc/860534008).
 - Ét. Lapalus, *L’Agora des Italiens.* Exploration archéologique de Délos XIX. Paris, 1939. [(worldcat)](http://www.worldcat.org/oclc/603854444).
 - J. Marcadé, *Au Musée de Délos. Étude de la sculpture hellénistique en ronde bosse découverte dans l’île.* BEFAR fasc. 215, 1969. [(worldcat)](http://www.worldcat.org/oclc/872196666).
@@ -28,6 +28,6 @@ Delos is a small island in the center of the Cyclades measuring about five kilom
 - F. Herbin, "Die Statue des Ofellius," in: F. Queyrel – R. von den Hoff (eds.), *Das Leben griechischer Porträts. Porträtstatuen des 5. bis 1. Jhs. v. Chr.* Bildnispraktiken und Neu-Kontextualisierungen. Paris, 2019: 326–335. [(worldcat)](http://www.worldcat.org/oclc/1129887972).
 
 
-#### Places
+## Places
 - {{< id vocab="Pleiades" id="599588" term="Delos (island)" >}}
 - {{< id vocab="TGN" id="7011273" term="Dhílos, Nisís (island)" >}}

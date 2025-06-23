@@ -28,11 +28,11 @@ draft: false
 
 
 
-### Garden
+## Garden
 
 Garden of the Domus Tiberiana, Palatine
 
-### Keywords
+## Keywords
 
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 - [cryptoporticus](http://vocab.getty.edu/page/aat/300004295)
@@ -58,7 +58,7 @@ Garden of the Domus Tiberiana, Palatine
 - [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
 
 
-### Garden Description
+## Garden Description
 
 The remains of this [*domus*](https://en.wikipedia.org/wiki/Domus), on the western part of the [Palatine](https://en.wikipedia.org/wiki/Palatine_Hill), are now under the Renaissance [Farnese gardens](https://en.wikipedia.org/wiki/Farnese_Gardens). The [*Domus Tiberiana*](https://en.wikipedia.org/wiki/Domus_Tiberiana) is first mentioned after the death of [Nero](https://en.wikipedia.org/wiki/Nero): [Plutarch](https://en.wikipedia.org/wiki/Plutarch) and [Tacitus](https://en.wikipedia.org/wiki/Tacitus) refer to it in the context of the turbulent events of 69 CE ([ Plut. *Galba*, 24.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0007.tlg065.perseus-grc1:24.4); [Tac. *Hist*. 1.27](http://data.perseus.org/citations/urn:cts:latinLit:phi1351.phi004.perseus-lat1:1.27); [Suet. *Vit*. 15.3](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo019.perseus-lat1:15.3) | [Trans.](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo019.perseus-eng1:15); [Suet. *Otho* 6.2](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo018.perseus-lat1:6)). It was an imperial residence for later emperors, including [Antoninus Pius](https://en.wikipedia.org/wiki/Antoninus_Pius), [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius), and [Lucius Verus](https://en.wikipedia.org/wiki/Lucius_Verus) ([*Hist. Aug. Pius* 10.4](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Historia_Augusta/Antoninus_Pius*.html) | [Trans.](https://penelope.uchicago.edu/Thayer/e/roman/texts/historia_augusta/antoninus_pius*.html); [*Hist. Aug. Marc*. 6.3](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Historia_Augusta/Marcus_Aurelius/1*.html) | [Trans.](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Marcus_Aurelius/1*.html); [*Hist. Aug. Ver*.2.4, 6.3-4](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Historia_Augusta/Lucius_Verus*.html) | [Trans.](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Lucius_Verus*.html); [*Cass. Dio* 72.35.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0385.tlg001.perseus-grc1:72.35.4) | [Trans.](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/72*.html)), although Nero and [Domitian](https://en.wikipedia.org/wiki/Domitian) appear to have made the most changes to the original design.
 
@@ -88,7 +88,7 @@ RELATED PHASES ON THE PALATINE:
 
 
 
-### Figures
+## Figures
 
 {{< image src="domus_tiberiana_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
 
@@ -98,11 +98,11 @@ RELATED PHASES ON THE PALATINE:
 
 {{< image src="domus_tiberiana_fig4.jpg" alt="Basin of the Domus Tiberiana" title="Fig. 4. Oval pool in the southeast corner of the gardens (Photo Moscioni 246A)." >}}
 
-### Dates
+## Dates
 
 1st century- 3rd century CE
 
-#### Excavation Date
+## Excavation Date
 
 1720-1729: F. Bianchini\
 1860s: P. Rosa\
@@ -111,7 +111,7 @@ RELATED PHASES ON THE PALATINE:
 1990-: M. Tomei and M.G. Filetici under the Sopraintendenza Archeologica di Roma.
 
 
-### Bibliography
+## Bibliography
 
 * A. Carandini, “Il Giardino Romano nell’età Tardo Repubblicana e Giulio-Claudia” *Roma Antica 2: Gli Orti Farnesiani sul Palatino*. Rome: École Française de Rome (1990):  9-15. [(worldcat)](http://www.worldcat.org/oclc/471515490)
 * C. Krause, “Domus Tiberiana,” Lexicon, Vol. 2., ed. Steinby, 189-197. [(worldcat)](http://www.worldcat.org/oclc/503786698)
@@ -121,19 +121,19 @@ RELATED PHASES ON THE PALATINE:
 * L. Richardson, “Domus Tiberiana,” *A New Topographical Dictionary of Rome*. Baltimore: Johns Hopkins University Press, 1992, 136-137. [(worldcat)](http://www.worldcat.org/oclc/256637651)
 * M.A. Tomei, M.G. Filetici (eds.), *Domus Tiberiana: Scavi e Restauri 1990-2011*. Milano: Electa, 2011, partic. pp. 59-70; 222-229; 303-305. [(worldcat)](http://www.worldcat.org/oclc/819286517)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Palatine Hill](https://pleiades.stoa.org/places/971691208)
 
-### Contributor
+## Contributor
 
 Maria Anntonietta Tomei\
 Elizabeth Macaulay
 
-#### ORCID
+## ORCID
 
 [Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 
-### Publication date
+## Publication date
 
 3 May 2021

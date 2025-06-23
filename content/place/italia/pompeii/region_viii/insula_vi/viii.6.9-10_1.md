@@ -27,7 +27,7 @@ tags:
 [Pompeii]({{<relref "../..">}}) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -36,37 +36,37 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula VI]({{<relref ".">}})
 
-### Keywords
+## Keywords
  - [insula](http://vocab.getty.edu/page/aat/300000325)
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
 
-### Garden Description
+## Garden Description
 The atrium at the front of this house had been converted into a bakery. Towards the back a portico surrounded a small area (a). The portico columns were black at the base and red above, three on the north and three on the south and were connected by a low wall 0.47 m. high, but only the bases survived. The interior area was paved with opus signinum and in the middle there was a rectangle lined with white and gray marble, a yellow marble cross with a red bordered yellow square in the center. This has sustained much damage since it was exposed. At the outside of the paved area there was a gutter with a cistern opening located between the columns on the west side. This area may have contained potted plants. The portico could be entered directly from entrance no. 9 and various rooms opened off of it, the room on the east (b) had the best view into the portico.
 
-### Plans
+## Plans
 {{< image src="fig.20.region_viii.insula_vi.png" alt="Fig. 20, Plan of Region VIII, Insula VI" title="Fig. 20, Plan of Region VIII, Insula VI" >}}
 
-### Images
+## Images
 {{< image src="fig.22.viii.vi.9_12.29.59.jpg" alt="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
-#### TGN ID
+## TGN ID
 [Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
-###  Excavation Dates
+##  Excavation Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 * Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome, 1937, p.78, no.375 [(worldcat)](http://www.worldcat.org/oclc/1131425884)
 * Jashemski, *Gardens*, vol. II, p.219 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
 * Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica*, 1884, pp.182-183 (location given as VII.vii [9]) [(worldcat)](http://www.worldcat.org/oclc/823239162)
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

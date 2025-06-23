@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
 [Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [forum_julii]({{<relref ".">}}) \
 [forum_julii](https://pleiades.stoa.org/places/307416064)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -47,7 +47,7 @@ Tower Enclosure, Insula III, House IIIA – 3 phases
 
 
 
-### Keywords
+## Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [reception rooms](http://vocab.getty.edu/page/aat/300077176)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
@@ -59,7 +59,7 @@ Tower Enclosure, Insula III, House IIIA – 3 phases
 
 
 
-### House Description
+## House Description
 
 This house is 65 meters south of the rampart and 120 meters to the west of the theater. It occupies the northeast corner of an insula in network B, in the northeast quarter of the city. The house occupies a parcel of 192 square meters, with a useful covered area of 85.5 square meters.  It was bordered on the north by a *decumanus* and on the east by a *cardo* with porticos.  To the west and south, it had common walls with other habitations. Constructed around A.D. 20-25, the house continued in use for 40 – 45 years.
 
@@ -72,14 +72,14 @@ In a third and final phase, dated from around the end of the second century, the
 
 
 
-### Plans
+## Plans
 
 
 {{< image src="tower_enclosure_insula_III_house_IIIA_3_phases.png" alt="Plan of Tower Enclosure, Insula III, House IIIA" title="Plan of Tower Enclosure, Insula III, House IIIA" >}}
 
 
 
-### Dates
+## Dates
 
 A.D. 20-15 First Phase
 A.D 70 Second Phase
@@ -87,7 +87,7 @@ A.D. 200 Final Phase
 
 
 
-### Bibliography
+## Bibliography
 
 1. *La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise*. Vaucluse: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 114-115. [(worldcat)](http://www.worldcat.org/oclc/695787865)
 
@@ -96,21 +96,21 @@ A.D. 200 Final Phase
 
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Fréjus (inhabited place)](http://vocab.getty.edu/page/tgn/7008791)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

@@ -42,7 +42,7 @@ categories:
 
 I.ix.9/10
 
-### Keywords
+## Keywords
 
 - [archaeological garden](#)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
@@ -51,7 +51,7 @@ I.ix.9/10
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [stairs](http://vocab.getty.edu/page/aat/300003228)
 
-### Garden Description
+## Garden Description
 
 To the rear of this house a raised garden (a), three steps up, had a *portico* on the east. The *portico* was supported by two columns on the east, an engaged column and a pilaster.
 
@@ -66,7 +66,7 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
@@ -75,15 +75,15 @@ NEW WAY ↓↓↓↓
 <!--### Images-->
 
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 
 
-### Bibliography
+## Bibliography
 
 * DeVos, “Scavi nuovi sconoscuti (1.9.13),” *Meded* 38 (1976), pl. 35 (plan).
 * Jashemski, *Gardens*, vol.II, p. 44. [(worldcat)](http://www.worldcat.org/oclc/921816405)
@@ -92,19 +92,19 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

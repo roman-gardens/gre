@@ -28,11 +28,11 @@ draft: false
 
 
 
-### Garden
+## Garden
 
 Upper Peristyle and Nymphaea of the Domus Flavia, Palatine
 
-### Keywords
+## Keywords
 
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 - [flower garden](http://vocab.getty.edu/page/aat/300008135)
@@ -54,7 +54,7 @@ Upper Peristyle and Nymphaea of the Domus Flavia, Palatine
 - [Statius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1323)
 
 
-### Garden Description
+## Garden Description
 
 UPPER PERISTYLE AND NYMPHAEA
 
@@ -75,27 +75,27 @@ RELATED PHASES ON THE PALATINE:
 [Garden of the Severan Complex (I)]({{<relref "severan_complex">}})
 
 
-### Figures
+## Figures
 {{< image src="domus_flavia_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
 
 {{< image src="domus_flavia_fig2.jpg" alt="View of the Domus Flavia peristyle" title="Fig. 2. View of the Domus Flavia peristyle. Photograph of the Soprintendenza Archeologica di Roma." >}}
 
 {{< image src="domus_flavia_fig3.jpg" alt="Nymphaeum of the Domus Flavia" title="Fig. 3. Western nymphaeum after restoration (Photo SAR)." >}}
 
-### Dates
+## Dates
 
 1st c- 5th c CE
 
 <!--### Excavation Dates
 
-### Bibliography-->
+## Bibliography-->
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Palatine Hill](https://pleiades.stoa.org/places/971691208)
 
-### Contributor
+## Contributor
 
 Maria Anntonietta Tomei
 

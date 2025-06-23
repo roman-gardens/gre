@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
 [Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -28,7 +28,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [Arelate]({{<relref ".">}}) \
 [Arelate](https://pleiades.stoa.org/places/148217)
 
-### Location Description
+## Location Description
 
 Arles was one of the pilgrimage sites on route to the Cathedral of Santiago de Compostela. French pilgrimage routes to Compostela tend to follow old Roman roads, many of which continued to be utilized as primary roads of communication during the Middle Ages. Arles was a leading city of the west Roman Empire. It fell under Visigoth control during the 6th century and then under Muslims rule in 730. It has a Roman arena dating to the 1st century BCE, which is presently used for bullfights and plays. It also has many Roman ruins. Arles was home to Vincent van Gogh during a productive period of his career.<!--### Location Description-->
 
@@ -48,7 +48,7 @@ Arles was one of the pilgrimage sites on route to the Cathedral of Santiago de C
 House under the Crédit Agricole
 
 
-### Keywords
+## Keywords
 
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
@@ -58,45 +58,45 @@ House under the Crédit Agricole
 
 
 
-### House Description
+## House Description
 
 This house at [14] on the map, was discovered in 1977 in an emergency salvage excavation. It was constructed about 180 and destroyed in the third quarter of the third century. The portion revealed was composed of four rooms, aligned in an east-west direction, with polychrome mosaic floors and a southern wall that was seemingly without openings. Along the north side, however, was a wide portico giving light and air to the rooms. Beyond it, there extended an area that was perhaps a garden.
 
 
 
-### Plans
+## Plans
 
 {{< image src="house_under_the_credit_agricole.png" alt="Plan of House under the Crédit Agricole" title="Plan of House under the Crédit Agricole" >}}
 
 
 
-### Dates
+## Dates
 
 After original finds in 1979, further vestiges of a domus came to light during salvage excavations in 1993-1994 in connection with expansion of facilities.
 
-### Bibliography
+## Bibliography
 
 1. J.M. Rouquette, “Les découvertes du Crédit Agricole” in Claude Sintès, dir., *Du nouveau sur Arles antique*, Arles, 1987, p. 71-7;  Maison 1996 t. II,  p. 88-89.
 
 
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 [Tolosa](https://pleiades.stoa.org/places/246694)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Arles (inhabited place)](http://vocab.getty.edu/page/tgn/7008775)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

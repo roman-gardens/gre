@@ -30,7 +30,7 @@ tags:
 [Herculaneum]({{<relref "..">}}) \
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-### Location Description
+## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 
@@ -41,34 +41,34 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 ## Garden
 Garden (a)
 
-### Keywords
+## Keywords
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
-### Garden Description
+## Garden Description
 Directly south of the Great Palaestra there is a peristyle garden (a) enclosed by a portico. A pool with a low wall surrounding it is located in the center of this garden.
 
-### Plans
+## Plans
 {{< image src="herculaneum_ii_a.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
 {{< image src="i_or._ii-a.jpg" alt="Herculaneum - Garden (a) south of the Great Palaestra" title="Herculaneum - Garden (a) south of the Great Palaestra" >}}
 
 
 
-#### Pleiades ID
+## Pleiades ID
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-#### TGN ID
+## TGN ID
 [Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 Not applicable
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

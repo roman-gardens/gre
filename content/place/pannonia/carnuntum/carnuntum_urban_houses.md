@@ -27,7 +27,7 @@ categories:
 [Carnuntum]({{<relref ".">}}) \
 [Carnuntum](https://pleiades.stoa.org/places/128376)
 
-### Location Description
+## Location Description
 
 The town of Carnuntum on the Danube River, like Aquincum, was promoted to colonial status in 194 A.D., after having been a *municipium*. Excavations in the modern zoological garden have revealed part of the town plan and its residential district.
 
@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Urban Houses in Carnuntum
 
-### Keywords
+## Keywords
 
 - [arcades (structural assemblies)](http://vocab.getty.edu/page/aat/300002580)
 - [archaeological garden](#)
@@ -54,25 +54,25 @@ Urban Houses in Carnuntum
 - [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
 
-### Garden Description
+## Garden Description
 
 The regional house type found often in Pannonia, the so-called corridor house, is characterized by a vestibule or arcade on its narrow front and a central corridor running the length of the house, separating it into two parts. One of these houses (B on plan) on a street corner in Carnuntum exhibits this plan clearly (Fig. 1). South of the house, facing the street and separate from it, are various rooms which were interpreted as shops and workshops. North of the house is an open unpaved courtyard which is usually assumed to have been a garden, perhaps a kitchen garden (G on plan). The neighboring house (A in Fig. 1) to the east is of similar plan, if somewhat more irregular, and it too has an open courtyard at the north (G on plan).
 
 <!--### Maps-->
 
 
-### Plans
+## Plans
 
 {{< image src="PAN_CAR_House 1_M Carroll.jpg" alt="Fig. 1: Plan of houses (A) and (B), with possible garden courtyards (G) at the rear. Adapted from Jobst 1983, fig. p. 144." title="Fig. 1: Plan of houses (A) and (B), with possible garden courtyards (G) at the rear. Adapted from Jobst 1983, fig. p. 144.(Rights statement.)" >}}
 
 <!--### Images-->
 
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * E. Swoboda, *Carnuntum. Seine Geschichte und seine Denkmäler*, 2nd Ed., Vienna, 1964, pp. 155-157, figs. 10-11, pl. 40. [(worldcat)](http://www.worldcat.org/oclc/223422804)
 * W. Jobst, *Provinzhauptstadt Carnuntum*, Vienna, 1983, pp. 156-160, fig. p. 144. [(worldcat)](http://www.worldcat.org/oclc/251349102)
@@ -81,19 +81,19 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [128376](https://pleiades.stoa.org/places/128376)
 
-#### TGN ID
+## TGN ID
 
 [Carnuntum (deserted settlement)](http://vocab.getty.edu/page/tgn/7032538)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

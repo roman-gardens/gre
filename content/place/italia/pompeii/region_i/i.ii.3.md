@@ -25,7 +25,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -33,18 +33,18 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula II]({{<relref "#">}})
 
-### Keywords
+## Keywords
  - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 
 
 ## Garden
 Small viridarium to the rear of a house.
 
-### Garden Description
+## Garden Description
 The small viridarium at the rear of the house had narrow, slightly raised beds along the walls on the north and east side. These beds were for the cultivation of flowers, according to Fiorelli. A small vestibule on the north side of the garden was decorated with remnants of tufa [columns](http://vocab.getty.edu/page/aat/300001571) brought from another site.
 
 
-### Bibliography
+## Bibliography
 
 * Fiorelli, G. 1875. *Descrizione di Pompei*, p. 37 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)  
 * Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 21 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
@@ -56,20 +56,20 @@ The small viridarium at the rear of the house had narrow, slightly raised beds a
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-###  Excavation Dates
+##  Excavation Dates
 1916, 1950, 1985. Bombed in 1943.
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->

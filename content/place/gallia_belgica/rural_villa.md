@@ -40,14 +40,14 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Rural Villa
 
-### Keywords
+## Keywords
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 - [corridors](http://vocab.getty.edu/page/aat/300004294)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 
 
-### Garden Description
+## Garden Description
 
 The stone structures of this *villa rustica*, dating to the early second century, replaced earlier timber buildings. With the addition of an annex on the east in the early fourth century, the facade of the house acquired a length of 104 meters. The farm was occupied until the early fifth century.
 
@@ -57,45 +57,45 @@ The main residence is a villa of the winged *corridor* type (BEL 13.1.1). Two pr
 
 
 
-### Maps
+## Maps
 
 None Available
 
-### Plans
-
-None Available
-<!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
--->
-
-### Images
+## Plans
 
 None Available
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Images
+
+None Available
+<!--
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+-->
+
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - H. Cüppers, ed., Die Römer in Rheinland-Pfalz, Stuttgart, 1990, pp. 317-319, figs. 156, 199. [(worldcat)](http://www.worldcat.org/oclc/924024101)
 
 <!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Bad Dürkheim](https://pleiades.stoa.org/places/108784)
 
-#### TGN ID
+## TGN ID
 [Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
 
-### Contributor
+## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

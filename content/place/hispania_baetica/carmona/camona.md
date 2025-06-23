@@ -25,7 +25,7 @@ Hispania Baetica
 [Carmona]({{<relref ".">}}) \
 [Carmona](https://pleiades.stoa.org/places/521700443)
 
-### Location Description
+## Location Description
 
 <!--## Sublocation-->
 
@@ -42,7 +42,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Elephant tomb
 
-### Keywords
+## Keywords
 
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 - [statues](http://vocab.getty.edu/page/aat/300047600)
@@ -50,12 +50,12 @@ Elephant tomb
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
-### Garden Description
+## Garden Description
 
 In the necropolis of Carmona, near Seville, is a very large and deep tomb created in a shallow area that had been excavated in the rock (Fig.7). Named the Elephant tomb after a statue of an elephant found just at the entrance of the repository. (Fig. 7, b). In a corner of the tomb, there was a very regular kitchen where the servants could prepare the *“refrigeri”*  dinner (Fig. 7, k). Nearby a pit (Fig. 7, p) furnished water both to the kitchen and to a nearby vast ritual basin for purification (Fig. 7, r). The triclinium for the relatives was set just outside the tomb (Fig. 7, a) while a stone bench was set around tables cut in the rock (Fig. 7, c) for the servants and other family’s dependents. Gardens may well have occupied the free spaces outside the tomb. It is certainly one of the most interesting tomb that I have visited, and has features often present in Punic tombs of the North Africa. Thus I reconstructed (Fig. 8) and also photographed it (Fig. 9).
 
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -67,7 +67,7 @@ In the necropolis of Carmona, near Seville, is a very large and deep tomb create
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 
 {{< image src="7-carmona-plan.png" alt="Figure 7 – Plan of the Elephant tomb at the necropolis of Carmona near Seville. (Rights Statement)" >}}
@@ -78,11 +78,11 @@ In the necropolis of Carmona, near Seville, is a very large and deep tomb create
 
 
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 * Vaquerizo Gil, Desiderio, *Necroìpolis urbanas en Baetica*, Tarragona 2010).[(worldcat)](http://www.worldcat.org/oclc/929776098)
 
 
@@ -90,17 +90,17 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Elephant tomb at Carmona]{{<relref ".">}}) \
 [Elephant tomb at Carmona](https://pleiades.stoa.org/places/521700443)
 
-#### TGN ID
+## TGN ID
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
 
-### Contributor
+## Contributor
 [Eugenia Salza Prina Ricotti]
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021

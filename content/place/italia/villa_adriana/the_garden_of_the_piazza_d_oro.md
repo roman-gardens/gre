@@ -28,7 +28,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -41,13 +41,13 @@ The realization of this magnificent residence must have been a cherished dream o
 The Garden of the Piazza d'Oro (Fig. 1, n. 20)\
 [Piazza d'Oro at Hadrian's Villa](https://pleiades.stoa.org/places/379689233)
 
-### Keywords
+## Keywords
 
 - [flower gardens](http://vocab.getty.edu/page/aat/300008135)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
-### Garden Description
+## Garden Description
 
 The garden of the Piazza d'Oro is one of the most prestigious and interesting of Villa Adriana. It consists of a peristyle garden set amid a double portico and surrounded by some of the most elegant buildings of this imperial residence (Figg. 54 and 55). The garden, which occupies the central part of the peristyle, was probed in 1987. Afterwards, in 1988, with the sponsorship of Dumbarton Oaks and the help of the Latium Superintendence, it was partially excavated (SALZA PRINA RICOTTI 1987, pp. 180-181, figs. 29-34; JASHEMSKI, SALZA PRINA RICOTTI 1987-88, pp. 162-169, figs. 16-22; JASHEMSKI, SALZA PRINA RICOTTI 1992, pp. 585-595, figs. 8-17; SALZA PRINA RICOTTI 1998, pp. 370-374, figs. 4-8; SALZA PRINA RICOTTI 2000, pp. 339-354, figs. 117-126). Here the nearly surfacing platform of tufa was a great help to find where the flowerbeds were and how the garden was arranged (Fig. 56). The first thing that was discovered was a double line of deep holes, m 1.80 long, 0.90 wide and 1.20 deep which circled all the area (Fig. 56, f). Their size proved that they were meant for trees, but which ones? As we didn't find any seeds, pollens or roots to help us in identifying them, we must rely on what was written in ancient texts. From Pliny we know that in their gardens Romans used cypresses (PLIN. *nat.* 16.60.139-141; PLIN. *epist.* 5.6.16-17), plane trees (PLIN. *nat.* 12.3-5), pine trees, pomegranates, oleanders, laurels (PLIN. *nat.* 15.49.197) and, at the end of the Republic, even lemon trees (PLIN. *nat.* 1.15-16; see JASHEMSKI 1979, pp. 77-79).
 
@@ -61,7 +61,7 @@ Then when it was closed and all the water furnished by the pavilion fountains we
 
 Here there was a different way to water the plants. Due to their inclination the canals were too deep for the capillarity, but all the same were still continued for letting them to reach the drainage canal. Thus in the eastern part of the garden a very old system was used, one that we find in Pasagarde, the splendid Cyrus park. Here marble lined canals joined a series of cubic basins. In the Piazza d’Oro the eastern canal, that in ancient times was completely covered by a vault, but that now for a spell lays in the open, had many little pits excavated in its bottom (Fig. 63). Over each one of them was placed a pump. Probably bronze ones that were pillaged in the middle age at the time of the “metals hunger”. The breaks in the canal’s vault (Fig. 56, p) seems to confirm this hypothesis.
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
@@ -73,7 +73,7 @@ Here there was a different way to water the plants. Due to their inclination the
 
 {{< image src="59_sections_piazza_d'oro.jpg" alt="Cross-sections of the Piazza d'Oro garden at Hadrian's Villa, illustrating the irrigation by capillarity" title="Fig. 59: Irrigation by capillarity in the Piazza d’Oro garden, Eugenia Salza Prina Ricotti." >}}
 
-### Images
+## Images
 
 {{< image src="57_the_garden.jpg" alt="Photograph of the Garden of the Piazza d'Oro at Hadrian's Villa" title="Fig. 57: The Garden of the Piazza d'Oro, Eugenia Salza Prina Ricotti." >}}
 
@@ -87,15 +87,15 @@ Here there was a different way to water the plants. Due to their inclination the
 
 {{< image src="63_pozzetti_irrigazione.jpg" alt="Photograph of eastern irrigation canal of the Piazza d'Oro garden Hadrian's Villa, showing the many little pits excavated in its bottom" title="Fig. 63: The eastern canal of the Piazza d'Oro garden, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -127,21 +127,21 @@ unspecified
 * PLIN. *nat.* 21.14 and 47
 * E. Salza Prina Ricotti, “Il sistema di irrigazione della Piazza d’Oro”, *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 62 (1989-90), pp. 121-150. [(worldcat)](http://www.worldcat.org/oclc/1074521932)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Piazza d'Oro at Hadrian's Villa](https://pleiades.stoa.org/places/379689233)
 <!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

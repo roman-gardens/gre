@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
 [Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [alba_helviorum]({{<relref ".">}}) \
 [alba_helviorum](https://pleiades.stoa.org/places/167629)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -47,14 +47,14 @@ Le Pinard, House A
 
 
 
-### Keywords
+## Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [water wells](http://vocab.getty.edu/page/aat/300152327)
 
 
 
-### Garden Description
+## Garden Description
 
 
 This vast house lies 120 m southwest of the theater in the southern quarter of the ancient town at a place called *le pinard*, “the wine” from the pinot grape.  Partially excavated in 1967-1968, it is still not entirely unearthed.  The known portions extend over 1250 m2 of which 715 m2 are useful covered area.  The last state is dated to the second century, but one may well suppose that there were earlier states not yet studied or exposed.
@@ -65,19 +65,19 @@ The natural slope of the terrain towards the east led to building the house in l
 
 
 
-### Plans
+## Plans
 
 
 {{< image src="le_pinard_house_A.png" alt="Plan of Le Pinard, House A" title="Plan of Le Pinard, House A" >}}
 
 
 
-### Dates
+## Dates
 
 
 
 
-### Bibliography
+## Bibliography
 
 1. Bouet, Alain. La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise. Vaucluse: Service d'Archéologie du Conseil Général de Vaucluse, 1996, P. 76-77. [(worldcat)](http://www.worldcat.org/oclc/919659882)
 
@@ -87,21 +87,21 @@ The natural slope of the terrain towards the east led to building the house in l
 
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Alba-la-Romaine (inhabited place)](http://vocab.getty.edu/page/tgn/8712431)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

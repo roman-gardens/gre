@@ -27,20 +27,20 @@ categories:
 ## Sublocation
 Via Labicana
 
-### Sublocation Description
+## Sublocation Description
 An ancient Roman road connecting Rome and Labicum.
 
 
 ## Garden
 Tomb Garden of a Funerary Collegium
 
-### Keywords
+## Keywords
 - [crematories](http://vocab.getty.edu/page/aat/300005871)
 - [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 
 
-### Garden Description
+## Garden Description
 
 A marble slab found at the cemetery of Centocelle and now preserved in the National Museum in Stockholm records the establishment in 16 CE of a funerary garden and various appurtenances by two senior officials of a funerary collegium and the clearing of an area beyond a perimeter wall for the construction of new crematories (ustrinae). The long  commemorative text, our most detailed verbal record of the appointments of a Roman funerary garden, is worth quoting in full:
 
@@ -53,10 +53,10 @@ The inscription concludes with eight hexameters urging readers to recognize in t
 
 
 
-### Dates
+## Dates
 16 CE
 
-### Bibliography
+## Bibliography
 - B. E. Thomasson and M. Pavese,*A Survey of Greek and Latin Inscriptions on Stone in Swedish Collections,* (Stockholm 1997) XXX [worldcat](http://www.worldcat.org/oclc/898968143)
 
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](http://www.worldcat.org/oclc/886794800)
@@ -77,17 +77,17 @@ The inscription concludes with eight hexameters urging readers to recognize in t
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [229438405](https://pleiades.stoa.org/places/229438405)
 
 
 
-### Contributor
+## Contributor
 John Bodel
 
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

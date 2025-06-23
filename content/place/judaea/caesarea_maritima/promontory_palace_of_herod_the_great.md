@@ -32,7 +32,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 [Caesarea Maritima]({{<relref ".">}}) \
 [Caesarea Maritima](https://pleiades.stoa.org/places/678401/?searchterm=Caesarea%20Maritima*)
 
-### Location Description
+## Location Description
 
 Ultimately the capital of the Roman provinces of Judaea and Syria Palestina, the city was built by Herod the Great. He acquired the old Hellenistic city of Strato’s Tower from Octavian as part of a territorial expansion after Actium, and turned the modest natural harbor here into a major port city, laid out on an orthogonal urban plan. Reminiscent of the basilaea of Alexandria, the southern area of the city was devoted to Herod’s seaside palace, in its early phase, and to public entertainment facilities by the time of the city’s opening in 12 BC.  Josephus describes the port and the features of the city  (AJ 15.9.6.331 and BJ 1.21.5. 408)  including an “amphitheatron” and theater in the south, where archaeologists have discovered and restored a stadium and a theater.  These are in the area of the archaeological remains of a palace, also noted but not located by Josephus.  The city was a successful enterprise, and by the second and third centuries CE the stadium functions had moved inland and expansive villas were constructed over the remains of the stadium.  By the Byzantine era, these villas were incorporated into a new praetorium.  These palaces and villas have gardens, discovered in varying degrees of preservation, supplied with water through water channels, initially from the aqueduct and later from wells.   Upon the destruction of this district of the city, the Arab inhabitants developed gardens amidst the ruins, irrigated by wells and water channels.   
 
@@ -53,12 +53,12 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Royal Garden
 
-### Keywords
+## Keywords
 
 - [pleasure garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=4&subjectid=300008115)
 - [walled garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=5&subjectid=300008129)
 
-### Garden Description
+## Garden Description
 Promontory Palace of Herod the Great
 
 A seaside palace west of the theater at Caesarea Maritima has been identified by E. Netzer as the maritime palace Herod the Great built to supervise construction of the great harbor, and, later, to provide reception space for guests at spectacles and official functions.  (Fig. 1) The view north from this promontory became increasingly impressive as the harbor was completed and thrived. The palace served as the official praetorium of his heirs and subsequent Roman officials.
@@ -69,17 +69,17 @@ Excavations by K. Gleason and B. Burrell for the University of Pennsylvania Muse
 
 Foundations of garden architecture, water channels and garden soils of the late Byzantine period have also been found, best preserved in the eastern half of the site.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="a_j_c_k_1.jpg" alt="Fig. 1: Plan of the Promontory Palace (J.H. Williams and A. Iamim): a) first phase (c. 22-15 BC) ; b) second phase (c. 15-4 BC)" title="Fig. 1: Plan of the Promontory Palace (J.H. Williams and A. Iamim): a) first phase (c. 22-15 BC) ; b) second phase (c. 15-4 BC)" >}}
 
-### Images
+## Images
 
 {{< image src="A_J_C_K_2.jpg" alt="Fig. 2: Photograph of cuttings around pool for planters (K. Gleason)." title="Fig. 2:Photograph of cuttings around pool for planters (K. Gleason." >}}
 
@@ -87,11 +87,11 @@ Foundations of garden architecture, water channels and garden soils of the late 
 
 {{< image src="a_j_c_k_4.jpg" alt="Fig. 4: Reconstruction drawing of the Promontory upper garden (Y. Korman)." title="Fig. 4 Reconstruction drawing of the Promontory upper garden (Y. Korman)" >}}
 
-### Dates
+## Dates
 
 37 BCE - 135 CE
 
-### Bibliography
+## Bibliography
 
 * D. Langgut, K. Gleason, and B. Burrell, “Pollen Analysis as Evidence for Herod’s Royal Garden at the Promontory Palace, Caesarea”  Israel Journal of Plant Sciences  62 (2015): 111-121. http://www.tandfonline.com/action/showCitFormats?doi=10.1080/07929978.2014.975560;
 * K. Gleason et al. “The promontory palace at Caesarea Maritima : preliminary evidence for Herod's Praetorium” Journal of Roman Archaeology, 11 (1998) 23-52. [(worldcat)](https://www.worldcat.org/title/the-promontory-palace-at-caesarea-maritima-preliminary-evidence-for-herods-praetorium/oclc/5884367944&referer=brief_results)
@@ -104,20 +104,20 @@ Foundations of garden architecture, water channels and garden soils of the late 
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Stratonos Pyrgos/Caesarea](https://pleiades.stoa.org/places/678401/?searchterm=Caesarea%20Maritima*)
 
-#### TGN ID
+## TGN ID
 
 [Caesarea (deserted settlement)](http://vocab.getty.edu/page/tgn/7001363)
 
-### Contributor
+## Contributor
 
 [Kathryn L. Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)
 ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

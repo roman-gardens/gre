@@ -42,7 +42,7 @@ categories:
 
 Caupona-Hospitium dei "Pulcinella" (I.viii.10)
 
-### Keywords
+## Keywords
 
 - [archaeological garden](#)
 - [lararia](http://vocab.getty.edu/page/aat/300400600)
@@ -50,7 +50,7 @@ Caupona-Hospitium dei "Pulcinella" (I.viii.10)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
-### Garden Description
+## Garden Description
 
 A. This house had no *atrium* and the *peristyle* was entered directly from the street. The *peristyle* garden (a) was enclosed on the east and the south by a *portico*. Two *lararium* flanked the door to a basement on the north end of the east *portico*. The one on the right was well preserved with paintings of an altar, two *Lares*, serpents, and a rectangular niche painted with what appear to be poppies. When a layer of plaster crumbled from the wall in March 1949 it revealed a painting of a pottery shop and led Maiuri to believe that there had been a pottery shop entrance to the street from the room on the left. Two other paintings on the façade depict Mercury and costumed men attired as Neapolitan Punch and Judy puppets. This gave the house the identity as a *caupona-hospitium* of the “Pulcinella.”
 
@@ -65,7 +65,7 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
@@ -74,14 +74,14 @@ NEW WAY ↓↓↓↓
 <!--### Images-->
 
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 
-### Bibliography
+## Bibliography
 
 * Della Corte, *Case*, p. 326, no. 675.
 * Jashemski, *Gardens*, vol.II, pp. 42-43. [(worldcat)](http://www.worldcat.org/oclc/921816405)
@@ -91,19 +91,19 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

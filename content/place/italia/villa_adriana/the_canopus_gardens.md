@@ -33,7 +33,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -46,7 +46,7 @@ The realization of this magnificent residence must have been a cherished dream o
 The Canopus gardens (Fig. 1, n. 2)\
 [Canopus at Hadrian's Villa](https://pleiades.stoa.org/places/856037447)
 
-### Keywords
+## Keywords
 
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
@@ -57,13 +57,13 @@ The Canopus gardens (Fig. 1, n. 2)\
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 - [canals (waterways)](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300006075)
 
-### Garden Description
+## Garden Description
 
 The Canopus (Fig. 2 and 3) is perhaps the most important of all Villa Adriana's gardens (JASHEMSKI, SALZA PRINA RICOTTI 1987-88, pp. 152-162, fig. 11-15; JASHEMSKI, SALZA PRINA RICOTTI 1992, pp. 579-585, tavv. I-IV; SALZA PRINA RICOTTI 1998, pp. 374-383, fig. 9-13; SALZA PRINA RICOTTI 2000, pp. 323-324, fig. 80-81, 87, 134-135). It was set at the principal entrance through which Hadrian's important guests were introduced when they came to visit the emperor. Thus the breathtaking view of the Canopus was the first impression visitors received entering this imperial residence. Their glance ran along the narrow valley set at the South side of Villa Adriana's principal entry. An imposing waterway occupied all its length (Fig. 4). Columns and white marble statues reflected themselves in its blue water, and two statuary groups, both representing Scylla in the act of killing Ulysses' mates, emerged from the canal. It was here that Hadrian held his most important receptions and the banquets that, from time to time, he offered to his subjects (MART. 8.49; 9.91). As in ancient Rome dinner began around two o' clock p.m., and as, at this moment, the sun was still very high and very hot, a portico ran along the eastern bank offering its shade to those guests who had to dine on the sunny side (Fig. 2, A). On the opposite one, which was already protected by the hill, there was no portico (Fig. 2, B), but four beautiful copies of the Erecteum's Caryatids and of two Sylens were set on the canal's edge and were reflected on the water (SALZA PRINA RICOTTI 1987, pp. 175-178, figs. 13-20, 35-37). The spectacle was superb: the golden color of the portico's columns, fashioned in the yellow marble of Shimtou, stood out against the green of the well-cut hedges of box-tree that bordered the lowest part of the valley (SALZA PRINA RICOTTI 2000a), while high terraces rose at its two sides scaling the surrounding hills (Figg. 4 and 5) To complete the landscaping, a monumental *exedra*,  (Fig. 6)  and two elegant pavilion set at its sides (Figg. 2. D and D1 7) decorated the end of the valley (Fig. 2, C). In the old times the exedra was coated with polished marbles and multicolored mosaics. Some of its niches hosted imposing statues and large waterfalls flowed by other ones, while back, at the end of a central long gallery, a powerful cascade fed the outlying waterway (Fig. 2, E). Nothing could have been more pleasant and at the same time more imposing than the Canopus.
 
 Then excavations in the valley showed the existence of two long flower beds that were set on the two side of the canal (Fig. 8) and in them both we and the Danish archaeologists found amphoras  cut in two and with large holes on their sides to let the plant kept in them to branch  their roots in the soil and remain strong and flourishing. Our probes are marked on the plan (Fig 2. m; n; o; p; q).
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
@@ -73,7 +73,7 @@ Then excavations in the valley showed the existence of two long flower beds that
 
 {{< image src="5_canopus_isometric.jpg" alt="Isometric plan of the Canopus at Hadrian's Villa" title="Fig. 5: Isometry of the Canopus, Eugenia Salza Prina Ricotti." >}}
 
-### Images
+## Images
 
 {{< image src="4_the_canal.jpg" alt="Photograph of the canal at the Canopus at Hadrian's Villa" title="Fig. 4: The canal at the Canopus, Eugenia Salza Prina Ricotti." >}}
 
@@ -83,15 +83,15 @@ Then excavations in the valley showed the existence of two long flower beds that
 
 {{< image src="8_the_excavation.jpg" alt="Photograph of the excavation at the Canopus at Hadrian's Villa" title="Fig. 8: The excavation at the Canopus, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -116,21 +116,21 @@ unspecified
 * E. Salza Prina Ricotti, "The Importance of Water in Roman Garden Triclinia," in *Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection)*, Dumbarton Oaks 1987, pp. 175-178, fig. 13-20, 35-37. [(worldcat)](http://www.worldcat.org/oclc/887179596)
 * E. Salza Prina Ricotti, "Vasi da fiori," in *Adriano Architettura e progetto*, Milano 2000, pp. 202-203. [(worldcat)](http://www.worldcat.org/oclc/717263606)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Canopus at Hadrian's Villa](https://pleiades.stoa.org/places/856037447)
 <!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

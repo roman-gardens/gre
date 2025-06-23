@@ -28,7 +28,7 @@ tags:
 
 [Achaea]({{<relref "..">}})
 
-### Province Description
+## Province Description
 
 Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
 The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woolen textiles and marbles.
@@ -57,7 +57,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Gymnasia and Groves
 
-### Keywords
+## Keywords
 - [Archaeological](#)
 - [Literary](#)
 - [elms (*Ulmus* sp.)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30004945-2)
@@ -70,7 +70,7 @@ Gymnasia and Groves
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 - [water features (landscaping)](http://vocab.getty.edu/page/aat/300180674)
 
-### Garden Description
+## Garden Description
 
 The three most famous gymnasia in Athens, situated outside the city in naturally well-watered and shady sanctuaries of pre-Classical date, were those in the suburbs.  In the **Academy** there was a shrine of the hero Hekademos; the **Lykeion** had a sanctuary of Apollo; and a cult site of Herakles was located in **Kynosarges**.  The gymnasia in these suburbs were especially revered in Roman times as prestigious educational centers.  They included running tracks and other sports grounds for physical training, rooms for literary instruction and baths spread out over a large area and loosely added to in the course of time.  In each of the three areas foundation walls of a building enclosing a palaestra, or sports ground, of the 4th century B.C. have been excavated.  Roman building activity in the Athenian suburbs is confirmed by Pausanius [(1.18.9)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:1.18). According to him, Hadrian had a gymnasium named after him outside the walls of Athens near the Ilissos River in Kynosarges, although it is unclear whether he actually had a new gymnasium built here in the 2nd century A.D. or if he merely refurbished the old one.  Roman honorific inscriptions and baths erected on the sites of the three suburban gymnasia indicate that they were kept up and modernized well after the Classical period.
 
@@ -82,7 +82,7 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="gymnasium.jpg" alt="Plan of the late Hellenistic/early Roman gymnasium in the suburb of Academy at Athens" title="Fig. 1: Plan of the late Hellenistic/early Roman gymnasium with a possible garden (G), a pool (P) and a podium for statues (S) in the suburb of Academy at Athens. Adapted from Travlos 1971, fig. 59." >}}
 
@@ -92,10 +92,10 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 4th century BCE and later
 
-### Bibliography
+## Bibliography
 
 * J. Travlos, *Bildlexikon zur Topographie des antiken Athen,* Tübingen, 1971, pp. 42-51, 180F, 181L, 340-341, 345-347, 579, figs. 59-62. [(worldcat)](http://www.worldcat.org/oclc/1024546553)
 * M. Carroll-Spillecke, *Κήπος. Der antike griechische Garten.* Wohnen in der klassischen Polis 3, Munich, 1989, pp. 28-29.[(worldcat)](http://www.worldcat.org/oclc/491757120)
@@ -106,19 +106,19 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Lyceum](https://pleiades.stoa.org/places/122572945)
 
-#### TGN ID
+## TGN ID
 
 [Athens (inhabited place)](http://vocab.getty.edu/page/tgn/7001393)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

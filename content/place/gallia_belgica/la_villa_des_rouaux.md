@@ -39,7 +39,7 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Villa de Larry
 
-### Keywords
+## Keywords
 
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
@@ -49,7 +49,7 @@ Villa de Larry
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [fountain](http://vocab.getty.edu/page/aat/300006179)
 
-### Garden Description
+## Garden Description
 
 <!-- Taken from draft file -->
 The villa des Rouaux runs along the south side of most of the village of Peltre, which is five kilometers southeast of of Metz. The historical and archaeological context is that of the periphery of Divodurum, principal city of the Mediomatrici, where a dense fabric of Roman rural sites has been found. This villa was 600 meters from the Roman road connecting Metz and Strasbourg.
@@ -69,22 +69,22 @@ These observations suggest that this large *court* [11] was not used for agricul
 
 
 
-### Maps
+## Maps
 
 None Available
 
-### Plans
+## Plans
 
 None Available
 
-### Images
+## Images
 
 None Available
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - J.-D. Laffite, A. Bressoud, M. Mondy, A. Lefèbvre, M. Feller, I. Dechanez-Clerc, J.-J. Bigot, É. Rouger, *LIÉHON (Moselle) « Larry » - Aéroport Metz-Nancy Lorraine*, rapport de fouille préventive 2003, INRAP GEN/ SRA DRAC Lorraine, Metz, 2005, 9 vol., 1378 p., 207 figures, 61 plates. [(worldcat)](http://www.worldcat.org/oclc/20955708)
 
 
@@ -92,17 +92,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Divodurum/Mettis](https://pleiades.stoa.org/places/108927)
 
-#### TGN ID
+## TGN ID
 [Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
 
-### Contributor
+## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

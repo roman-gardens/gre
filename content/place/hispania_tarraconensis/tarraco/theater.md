@@ -18,7 +18,7 @@ categories:
 [Hispania Tarraconensis]({{<relref "..">}})  
 [Tarraconensis(Pleiades)](https://pleiades.stoa.org/places/981551)
 
-### Province Description
+## Province Description
 In 236 BC, to offset Carthage's loss of Sicily and Sardinia in the First Punic War, Hamilcar Barca led an expedition into Hispania to establish a colony there.  Through force of arms and diplomacy, he spread Carthaginian influence as far north as Barcellona, which bears his name.   In 230 BC, Hasdrubal, his son-in-law, established Qart Hadast that became Carthago Nova in Roman times and Cartagena today.  After the death of Hasdrubal, Hannibal, Hamilcar's oldest son, took command, attacked Saguntum, and in 218 set out for Italy leaving his younger brother, Hasdrubal, in command in Spain.  Through the Alps, he descended into Italy and threatened Rome for fourteen years.  Roman armies under the brothers Gnaeus and Publius Cornelius Scipio kept Hasdrubal in check and prevented his reinforcing Hannibal. They were both killed by the Carthaginians in 212.  Two years later, another Publius Cornelius Scipio, the  25-year-old son of the late general of the same name, was sent to Spain.  The next year, he captured New Carthage and, in 206 at the battle of Ilipa (about 15 km north of Savilla) destroyed most of the Carthaginians' numerically superior army and ended their hold on Spain.  Scipio settled his wounded veterans nearby at a place he called Italica to remind them of their origins.  Today, it is one of the best Roman archaeological sites in Italy.   After a quick trip back to Rome, where he was elected consul, he returned to Spain and went on to attack Carthage itself.  Hannibal was recalled to Africa, but Scipio annihilated his army in 202.  Rome thus came into possession of the Mediterranean coast of Iberia.
 
 If Rome was drawn into Hispania to keep the Carthaginians there from supporting Hannibal in Italy, it missed the opportunity offered by Hannibal's defeat to get out of Spain honorably.   Instead, in 197 BC it created two new Roman provinces, Hispania Citerior whose capital was Carthago Nova and Hispania Ulterior with Corduba as its capital.  Soon after, Rome launched a long war to subjugate the Lusitani, Celtiberians on the west coast.  During Sulla's dictatorship, the Lusitani were again in revolt, this time under the able leadership of the Roman general Quintus Sertorius, who sought to create an independent, Roman-like state in Hispania. He established a senate and schools for the sons of the local nobility.  
@@ -34,7 +34,7 @@ There has been little research on the gardens in the Roman settlements in Spain 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
 
-### Bibliography
+## Bibliography
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](http://www.worldcat.org/oclc/1090911182)
 
 - P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](http://www.worldcat.org/oclc/640067386)
@@ -51,7 +51,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 [Col. Tarraco](https://pleiades.stoa.org/places/246349)
 
 
-### Location Description
+## Location Description
 
 Despite the rather sparse archaeological evidence for gardens in Tarragona, one of the most important cities of Roman Spain, there is a brief passage at the beginning of Vergilius orator an poeta by Publius Annius Florus, friend of Hadrian, in which he described a temple garden thought to be in Tarragona, though the city is not mentioned explicitly:
 While I was passing through the temple enclosure my head full of the fatigues of the day, pleasantly resting in the shade of many trees by cool running water breathing fresh air, I suddenly came upon a group of people…
@@ -75,14 +75,14 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Theater
 
-### Keywords
+## Keywords
 
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 - [cryptoportici](http://vocab.getty.edu/page/aat/300004295)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [stairs](http://vocab.getty.edu/page/aat/300003228)
 
-### Garden Description
+## Garden Description
 
 The theater of Tarraco is poorly preserved.  Part of the orchestra, the proscaenium, the scaena frons, the first five rows of seats, and a cryptoporticus running parallel to the curved façade survive.  Connected to the theater was a monumental nympheum (a) and a large garden area (b), through which privileged spectators passed to be seated in the first rows.  The garden, constructed in the first century A.D. along with the theater, included the nympheum, which was in the center of a large blind wall with pilasters bordering the uneven hill. Two large bases flanked the nympheum and perhaps held monumental craters. Water from the fountain passed into a large pool, four meters deep, with fountains at either end. This large pool had walls lined with opus signinum and was topped with a molded raised edge. It now lies buried beneath a neighboring plot of ground. A small door at the end of the pilaster wall joined this whole unit to the theater. From the door, one reached the parascenium, and by means of stairs to the west, one reached the entrance of the theater.
 
@@ -90,17 +90,17 @@ The theater of Tarraco is poorly preserved.  Part of the orchestra, the proscaen
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="his_tar_tar_theater_fig1.jpg" alt="Fig. 1: Plan of the Tarraco Theater." title="Fig. 1: Plan of the Tarraco Theater. (No scale or north arrow available.)" >}}
 
 
-### Dates
+## Dates
 
 1st century CE
 
 
-### Bibliography
+## Bibliography
 
 * X. Aquilué et al., *Tarraco. Guía arqueológica*. El Medol Guies. Tarragona, 1991 [(worldcat)](http://www.worldcat.org/oclc/964178067)
 * R. Mar; M. Roca; J. Ruíz de Arbulo, “El teatro romano de tarragona. Un problema pendiente,” in *Teatros romanos de Hispania*. Murcia, 1993, 11-23. [(worldcat)](http://www.worldcat.org/oclc/642299895)
@@ -110,19 +110,19 @@ The theater of Tarraco is poorly preserved.  Part of the orchestra, the proscaen
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Col. Tarraco](https://pleiades.stoa.org/places/246349)
 
-#### TGN ID
+## TGN ID
 
 [Tarragona (inhabited place)](http://vocab.getty.edu/page/tgn/7008715)
 
-### Contributor
+## Contributor
 
 AUTHOR_ID
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

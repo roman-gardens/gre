@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
 [Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -28,7 +28,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [saint-roman-en-gal]({{<relref ".">}}) \
 [saint-roman-en-gal (Pleiades)]()
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -48,14 +48,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 House of Sucellus
 
 
-### Keywords
+## Keywords
 
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 
 
 
 
-### House Description
+## House Description
 
 On leaving the House of the Lion from its northwest corner, following the rue du Rhône west for 35 meters and turning north on the rue des Thermes for 100 meters, one comes to the area now occupied by two structures, the House of Sucellus to the west and the Edifice with Pillars (Edifice aux piliers) to the east. Originally, the whole area was one house, called the House of the Fishpond (Maison au Vivier), which went through two phases. The space was then completely rearranged in a phase known as the House of the Large Gallery (Maison de la Grande Gallery), which was then transformed to its final state: the House of Sucellus to the west and the Edifice with Pillars to the east. The area was unearthed during a programmed excavation in 1990 and was found well preserved. The total surface area is about 2400 square meters.
 
@@ -71,7 +71,7 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 
 
@@ -81,11 +81,11 @@ NEW WAY ↓↓↓↓
 
 
 
-### Dates
+## Dates
 
 It was completely uncovered in 1987 so that its lines might be respected in the building above it, and then covered over to protect it during construction.
 
-### Bibliography
+## Bibliography
 
 1. *Maison 1996*, t. II,, p. 406-411
 
@@ -98,21 +98,21 @@ It was completely uncovered in 1987 so that its lines might be respected in the 
 6. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig.194.[worldcat](http://www.worldcat.org/oclc/43416334)
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Saint-Romain-en-Gal (inhabited place)](http://vocab.getty.edu/page/tgn/5004109)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

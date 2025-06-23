@@ -38,12 +38,12 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Rural Villa
 
-### Keywords
+## Keywords
 - [palace](http://vocab.getty.edu/page/aat/300005734)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [herms](http://vocab.getty.edu/page/aat/300047170)
 
-### Garden Description
+## Garden Description
 
 This palatial villa, which has been interpreted as an imperial summer *palace*, lay within the confines of an imperial domain about 12 km. northwest of Colonia Augusta Treverorum. It was built during the reign of the emperor Valentinian I (364-375) or Gratian (367-383) who resided in the capital. Very little remains of the actual villa, although foundation walls of other buildings and a possible *portico* have been found.
 
@@ -54,28 +54,28 @@ The grounds of the villa were almost certainly landscaped in some form, as is su
 <!-- Text comes from draft file-->
 
 
-### Maps
+## Maps
 
 None Available
 
-### Plans
-
-None Available
-<!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
--->
-
-### Images
+## Plans
 
 None Available
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Images
+
+None Available
+<!--
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+-->
+
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - H. Wrede, *Die spätantike Hermengalerie von Welschbillig*. Römisch-Germanische Forschungen 32, Berlin, 1972 [(worldcat)] (http://www.worldcat.org/oclc/223360098)
 - H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp. 665-667, figs. 607-609. [(worldcat)] (http://www.worldcat.org/oclc/924024101)
 - P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 277-278, fig. 90.  [(worldcat)] (http://www.worldcat.org/oclc/445007864)
@@ -84,17 +84,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Roman Villa at Welschbillig](https://pleiades.stoa.org/places/109456)
 
-#### TGN ID
+## TGN ID
 [Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
 
-### Contributor
+## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

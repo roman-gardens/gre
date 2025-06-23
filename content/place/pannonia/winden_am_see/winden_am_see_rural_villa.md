@@ -45,7 +45,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rural Villa in Winden Am See
 
-### Keywords
+## Keywords
 
 - [archaeological garden](#)
 - [corridors](http://vocab.getty.edu/page/aat/300004294)
@@ -53,7 +53,7 @@ Rural Villa in Winden Am See
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
-### Garden Description
+## Garden Description
 
 The modest house of this *villa rustica* is of the so-called corridor type, a type common in the region and already seen at Carnuntum (Fig. 1). It was built around 100 A.D. and occupied until the 4th century.
 
@@ -62,18 +62,18 @@ On the southeast of the house was a vestibule, from which a central corridor dep
 <!--### Maps-->
 
 
-### Plans
+## Plans
 
 {{< image src="PAN_WID_Villa_M_Carroll.jpg" alt="Fig. 1: Plan of the farmhouse with a garden plot (G) enclosed by walls. Adapted from Thomas 1964, fig. 107." title="Fig. 1: Plan of the farmhouse with a garden plot (G) enclosed by walls. Adapted from Thomas 1964, fig. 107.(Rights statement.)" >}}
 
 <!--### Images-->
 
 
-### Dates
+## Dates
 
 100 AD - 4th century
 
-### Bibliography
+## Bibliography
 
 *  E.B. Thomas, *Römische Villen in Pannonien*, Budapest, 1964, pp. 201-210, figs. 107-10. [(worldcat)](http://www.worldcat.org/oclc/785736879)
 * A. Mócsy, *Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire*, London, 1974, p. 173, fig. 32. [(worldcat)](http://www.worldcat.org/oclc/644823914)
@@ -82,19 +82,19 @@ On the southeast of the house was a vestibule, from which a central corridor dep
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pannonia](https://pleiades.stoa.org/places/197425)
 
-#### TGN ID
+## TGN ID
 
 [Pannonia (general region)](http://vocab.getty.edu/page/tgn/4008442)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

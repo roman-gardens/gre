@@ -26,7 +26,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -38,11 +38,11 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Palace *nymphaeum* (Fig. 1, n. 16)
 
-### Keywords
+## Keywords
 
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 
-### Garden Description
+## Garden Description
 
 The Palace *nymphaeum* (LUGLI 1927) has already been published quite extensively in the proceedings of the last symposium on ancient Roman Gardens held in Rome in 1995 (JASHEMSKI, SALZA PRINA RICOTTI 1987-88, pp. 151-154, figs. 6-8; SALZA PRINA RICOTTI 1998, pp. 385-388, figs. 15-16; SALZA PRINA RICOTTI 2000, pp. 361-367, figs. 129-133). This water theater was shaped like an *auditorium*. A monumental entry (Fig. 38, H) led the way to a large paved area where low walls contained either two oval flowerbeds or two small basins (Fig. 38 A). An emicycle concluded the arrangement and sustained the pressure of the higher grounds that rose at the back  of the garden.
 
@@ -50,7 +50,7 @@ To understand how it must have been we can study the two cross sections. One, W 
 
 We can have an idea how it looked at the beginning of the XIX century in a drawing by Penna (Fig. 42). However the modern situation is even worse (Fig. 43). We made a probe along the emicycle (Fig. 44) and at its top we found the rest of the same kind of canal that in the Stadium Nymphaeum brought water to the small marble lined waterfall (Fig. 45). It was then possible to understand that the two were quite similar.
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
@@ -62,7 +62,7 @@ We can have an idea how it looked at the beginning of the XIX century in a drawi
 
 {{< image src="41_nymphaeum_perspective.jpg" alt="Perspective plan of the Palace Nymphaeum at Hadrian's Villa" title="Fig. 41: Perspective of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
-### Images
+## Images
 
 {{< image src="42_nymphaeum_by_penna.jpg" alt="Drawing of the Palace Nymphaeum at Hadrian's Villa, as it appeared in the early nineteenth century, by A. Penna" title="Fig. 42: Drawing of the Palace Nymphaeum in the early nineteenth century, by A. Penna, courtesy of Eugenia Salza Prina Ricotti." >}}
 
@@ -72,15 +72,15 @@ We can have an idea how it looked at the beginning of the XIX century in a drawi
 
 {{< image src="45_the_immission_canal.jpg" alt="Photograph of a canal unearthed by the probe at the Palace Nymphaeum at Hadrian's Villa" title="Fig. 45: The imission canal of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -102,21 +102,21 @@ unspecified
 * E. Salza Prina Ricotti, "Adriano: architettura del verde e dell-acqua," in *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, pp. 385-388, figs. 15-16. [(worldcat)](http://www.worldcat.org/oclc/636808013)
 * E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 361-367, figs. 129-133. [(worldcat)](http://www.worldcat.org/oclc/46784026)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

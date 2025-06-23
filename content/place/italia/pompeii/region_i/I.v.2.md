@@ -29,7 +29,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula V]({{<relref "#">}})
 
-### Keywords
+## Keywords
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
 - [lararia](http://vocab.getty.edu/page/aat/300400600)
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
@@ -47,7 +47,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Garden
 Officina Coriariorum of M. Vesonius Primus (tannery) with a [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden and large open space to the rear.
 
-### Keywords
+## Keywords
 
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
@@ -57,7 +57,7 @@ Officina Coriariorum of M. Vesonius Primus (tannery) with a [peristyles (Roman c
 - [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
-### Garden Description
+## Garden Description
 
 A. This tannery was excavated in 1873-1874. The [peristyle](http://vocab.getty.edu/page/aat/300080971) courtyard had a [portico](http://vocab.getty.edu/page/aat/300004145) to the north and east supported by brick [pillars](http://vocab.getty.edu/page/aat/300264605) which had been most likely been built when the original house was converted to a tannery. Against the west wall there was a masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) (*l.medius* 4.99 m.; *l.summus* and *l.imus* 4.96 m.; table, 1.78 x 0.93 m.). The top of the [triclinium](http://vocab.getty.edu/page/aat/300004359) table held the famous mosaic of a skull (0.45 x 0.50 m. Mus. Naz. inv. no. 109 982;; Reusch no. 163). The mosaic representing the Epicurian philosophy features a large skull over a butterfly on a wheel representing the soul and time. On either side of the skull are the possessions of both the rich and poor with a plumb line hanging over the skull indicating the equalizing power of death. The northeastern part of the courtyard was a rectangle, the north side of which was formed by the three first intercolumniations counting from the northeast corner of the north [portico](http://vocab.getty.edu/page/aat/300004145), and the east side by the first two intercolumniations counting from the same corner. This area was paved with [opus signinum](http://vocab.getty.edu/page/aat/300379969). The little area around the [triclinium](http://vocab.getty.edu/page/aat/300004359) between the paved area and the west wall was believed to be a garden according to Mau.  
 
@@ -74,10 +74,10 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}-->
 
 
-### Dates
+## Dates
 Excavated 1873-1874.
 
-### Bibliography
+## Bibliography
 
 * Brendel, O. 1934. “Untersuchungen zur Allegorie des pompejanischen Totenkopfmosaiks,” *RM* (1934), pp 157-179.
 * Fiorelli, G. 1875. *Descrizione di Pompei*, pp. 452-453. [(worldcat)](http://www.worldcat.org/oclc/908272023), p. 452. [(worldcat)](http://www.worldcat.org/oclc/908272023)
@@ -98,19 +98,19 @@ Excavated 1873-1874.
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

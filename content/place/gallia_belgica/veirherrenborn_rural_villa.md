@@ -38,11 +38,11 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Rural Villa
 
-### Keywords
+## Keywords
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [paddocks](http://vocab.getty.edu/page/aat/300428748)
 
-### Garden Description
+## Garden Description
 
 The house stood in the middle of a farm complex 75 meters wide and 120 meters long. It dates to the early second century.  The house (A on the plan, Fig. 1) is of the winged corridor type, measuring 19.30 x 22.40 meters.
 
@@ -52,28 +52,28 @@ The house stood in the middle of a farm complex 75 meters wide and 120 meters lo
 <!-- Text comes from draft file-->
 
 
-### Maps
+## Maps
 
 None Available
 
-### Plans
-
-None Available
-<!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
--->
-
-### Images
+## Plans
 
 None Available
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Images
+
+None Available
+<!--
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+-->
+
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, p. 653, fig. 594. [(worldcat)] (http://www.worldcat.org/oclc/924024101)
 
 <!--#### Periodo ID-->
@@ -81,18 +81,18 @@ Unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 <!--
-#### Pleiades ID
+## Pleiades ID
 
  not on pleiades
  -->
 
-#### TGN ID
+## TGN ID
 [Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
 
-### Contributor
+## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

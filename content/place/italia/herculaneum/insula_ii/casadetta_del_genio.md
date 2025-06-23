@@ -25,7 +25,7 @@ categories:
  [Herculaneum]({{<relref "..">}}) \
  [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-### Location Description
+## Location Description
   An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 
@@ -43,11 +43,11 @@ II; III
 ## Garden
 Casadetta del Genio
 
-### Keywords
+## Keywords
 
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
-### Garden Description
+## Garden Description
 This house was partially excavated in 1829-1830 and again in 1850. The *portico* had a floor on the east slightly lower than the sections on the north and south. A pool (a) was located in the center of the garden with a semi-circular extension on the east end and two small marble posts which probably held herms. The pool measured 2.35 m. wide, 0.87 m. deep and was only excavated to a length of 6.50 m.
 
  <!--### Maps-->
@@ -61,28 +61,28 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="H_2_3.jpg" alt="Plan of Casadetta del Genio" title="Plan of Casadetta del Genio" >}}
 
-### Images
+## Images
 {{< image src="Herc. II.3   68.6.57.jpg" alt="Illustration of Casadetta del Genio" title="Illustration of Casadetta del Genio" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-#### TGN ID
+## TGN ID
 [Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 -
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 1829-1830; 1850
 
-### Bibliography
+## Bibliography
 
 - Maiuri, *Herculaneum*, p. 25 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
 - Maiuri, *Ercolano*, pp. 375-377 and fig. 307 (plan) on p. 376 [(worldcat)](http://www.worldcat.org/oclc/490581395)
@@ -93,11 +93,11 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
-### Publication date
+## Publication date
 
 
 <!--### Related articles-->

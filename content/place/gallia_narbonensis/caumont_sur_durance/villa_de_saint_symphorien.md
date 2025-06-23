@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
 [Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [caumont_sur_durance]({{<relref ".">}}) \
 [caumont_sur_durance](https://pleiades.stoa.org/places/352400034)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -39,7 +39,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 <!--### Sublocation Description-->
 
-### Sublocation Description
+## Sublocation Description
 
 Halfway between Avignon and Cavaillon, this villa is west of the present village of Caumont-sur-Durance where the road forks with one branch going to Bonpas and the other to Avignon.  It sat upon a little mound overlooking the Durance. Known since its fortuitous discovery in the middle of the nineteenth century, the site is the source of the famous, acephalous Venus of Caumont, a beautiful marble statue now in the Calvet museum.<!-- DESCRIPTION -->
 
@@ -49,7 +49,7 @@ Villa de Muscapeu
 
 
 
-### Keywords
+## Keywords
 
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
@@ -60,7 +60,7 @@ Villa de Muscapeu
 
 
 
-### Villa Description
+## Villa Description
 
 
 The site of the villa is practically completely covered by modern houses.   The villa, of vast proportions, was built on successive terraces whose form survives in the present layout of lots.  The part already excavated have revealed a sigma-shaped portico and at least two groups of rooms connected with baths.  The construction was luxurious as attested by fragments of *opus sectile*, mosaics and wall paintings of quality, and especially by beautifully made architectural tiles called Campana plaques, with low-relief volutes and images of porticos, winged victories sacrificing bulls .
@@ -85,7 +85,7 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 
 
 
-### Images
+## Images
 
 {{< image src="villa_de_saint_symphorien_1.png" alt="Fig. 1 The Villa de Muscapeu" title="Fig. 1 The Villa de Muscapeu" >}}
 
@@ -94,13 +94,13 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 
 
 
-### Dates
+## Dates
 
 
 
 
 
-### Bibliography
+## Bibliography
 
 1.  D. CARRU, D. LAVERGNE, J. MOURARET, *Caumont-sur-Durance, Saint-Symphorien, in Bilan scientifique de la région Provence Alpes-Côte d’Azur*, S.R.A, D.R.A.C, Marseille, 2002, P. 181-183.  
 
@@ -109,22 +109,22 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

@@ -27,7 +27,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -35,17 +35,17 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula III]({{<relref "#">}})
 
-### Keywords
+## Keywords
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 ## Garden
 [Peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the rear of a domestic property.
 
-### Garden Description
+## Garden Description
 This site was excavated in 1868 revealing a [peristyle](http://vocab.getty.edu/page/aat/300080971) garden at the rear of the house. A [portico](http://vocab.getty.edu/page/aat/300004145) on the east and north side was supported by five columns connected by a low wall. There was an opening to the garden on the north. The middle of the garden had two [cistern](http://vocab.getty.edu/page/aat/300052558) puteals. The west wall of the garden held the famous painting depicting the battle between the Nucerians and the Pompeians in the amphitheatre (1.60m high by a little less than 2.00m wide; Mus. Naz. Inv. No. 112 222; Ruesch no. 1344). This event was recorded by Tacitus (Annals 14.17). A gutter went along the east, south, and north edges of the garden.
 
-### Bibliography
+## Bibliography
 
 * Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 74   [(worldcat)](https://www.worldcat.org/title/giornale-degli-scavi-di-pompei/oclc/10781121)  
 * Fiorelli, G. 1875. *Descrizione di Pompei*, p. 55-56 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)    
@@ -63,20 +63,20 @@ This site was excavated in 1868 revealing a [peristyle](http://vocab.getty.edu/p
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-###  Excavation Dates
+##  Excavation Dates
 Excavated c.1868.
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->

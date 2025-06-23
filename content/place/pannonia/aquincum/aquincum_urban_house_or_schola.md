@@ -17,7 +17,7 @@ categories:
 
 [Pannonia]({{<relref "..">}})
 
-### Province Description
+## Province Description
 
 
 
@@ -27,7 +27,7 @@ categories:
 [Aquincum]({{<relref ".">}}) \
 [Aquincum](https://pleiades.stoa.org/places/1971301)
 
-### Location Description
+## Location Description
 
 This town on the Danube river acquired the rank of *municipium* under Hadrian in 124 A.D. In the year 194 it was granted colonial status.
 
@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Urban House or Schola in Aquincum
 
-### Keywords
+## Keywords
 
 - [archaeological garden](#)
 - [balnea](http://vocab.getty.edu/page/aat/300120377)
@@ -56,26 +56,26 @@ Urban House or Schola in Aquincum
 - [statues](http://vocab.getty.edu/page/aat/300047600)
 - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 
-### Garden Description
+## Garden Description
 
 Very few houses of Mediterranean type have been discovered, and only one can be said with certainty to have had a garden (Fig. 1, G in Fig. 1). The peristyle courtyard was a prominent feature of this house of irregular plan and substantial size near the southern city wall. The house dates to the 3rd century, and it is thought to have been a clubhouse or *schola* for young men (*collegium iuventutis*), complete with a bath suite. In the middle of the courtyard, framed on four sides by a low wall supporting columns, was a square masonry pool (Fig. 2). In the center of the pool was a fountain consisting of a small marble satyr standing on a column of the same material. This decorative element and the unpaved ground strongly suggest the existence of a garden.
 
 <!--### Maps-->
 
 
-### Plans
+## Plans
 
 {{< image src="PAN_AQU_House 1_M Carroll.jpg" alt="Fig. 1: Plan of a building with a peristyle garden courtyard (G) and a pool in its center. Adapted from Polenz and Póczy 1986, fig. 47." title="Fig. 1: Plan of a building with a peristyle garden courtyard (G) and a pool in its center. Adapted from Polenz and Póczy 1986, fig. 47.(Rights statement.)" >}}
 
-### Images
+## Images
 
 {{< image src="PAN_AQU.jpg" alt="Fig. 2: The excavated courtyard building with its peristyle garden. Photo courtesy of M. Carroll." title="Fig. 2: The excavated courtyard building with its peristyle garden. Photo courtesy of M. Carroll.)" >}}
 
-### Dates
+## Dates
 
 3rd century
 
-### Bibliography
+## Bibliography
 
 * A. Mócsy, *Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire*, London, 1974, p. 166, pl. 16b. [(worldcat)](http://www.worldcat.org/oclc/644823914)
 * H. Polenz and K. Póczy, *Das römische Budapest. Neue Ausgrabungen und Funde in Aquincum*, Münster, 1986, p. 124, fig. 47, pl. 10. [(worldcat)](http://www.worldcat.org/oclc/19741038)
@@ -84,19 +84,19 @@ Very few houses of Mediterranean type have been discovered, and only one can be 
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Aquincum](https://pleiades.stoa.org/places/197130)
 
-#### TGN ID
+## TGN ID
 
 [Aquincum (deserted settlement)](http://vocab.getty.edu/page/tgn/8713146)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

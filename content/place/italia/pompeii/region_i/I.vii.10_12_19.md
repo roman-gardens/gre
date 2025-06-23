@@ -51,7 +51,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -59,7 +59,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula VII]({{<relref "#">}})
 
-### Keywords
+## Keywords
 
 - [aedicules](http://vocab.getty.edu/page/aat/300002574)
 - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
@@ -94,7 +94,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 House of the Ephebe; Casa Dell’Efebo; House of P. Cornelius Teges (or Tages).
 
-### Garden Description
+## Garden Description
 
 A. This house was made by combining several small houses. The upper garden had an unusual [portico](http://vocab.getty.edu/page/aat/300004145) on the north with various diameter [columns](http://vocab.getty.edu/page/aat/300001571), plastered and painted red, and two [pillars](http://vocab.getty.edu/page/aat/300264605). A third [column](http://vocab.getty.edu/page/aat/300001571) on a square base supported an extension of the [portico](http://vocab.getty.edu/page/aat/300004145), which was a step lower and formed by an extension of the [vestibule](http://vocab.getty.edu/page/aat/300083076) at entrance 12. The [triclinium](http://vocab.getty.edu/page/aat/300004359), [tablinum](http://vocab.getty.edu/page/aat/300004180), and [exedra](http://vocab.getty.edu/page/aat/300081589) on the upper level of the [portico](http://vocab.getty.edu/page/aat/300004145) were protected from cold and rain by some sort of screen installed between the columns and the west [pillar](http://vocab.getty.edu/page/aat/300264605). Most scholars surmise these were wooden but Maiuri proposed that they were glass, although he did not find any glass fragments during excavation (window panes surviving from this period from other sites are on display at the *Museo Archaeologico* in Naples and in the *deposito* at Pompeii).  
 Two steps below the [portico](http://vocab.getty.edu/page/aat/300004145) was the garden. The back wall had a large animal [painting](http://vocab.getty.edu/page/aat/300033644) and a small [aedicules](http://vocab.getty.edu/page/aat/300002574) with a semicircular niche. A relief of Dianna and two deer adorned the front and inside a bronze [statuette](http://vocab.getty.edu/page/aat/300312262) [fountain](http://vocab.getty.edu/page/aat/300006179) of Pomona (0.38 m. high; Mus. Naz. inv. no. 144 276) stood holding a bivalve shell filled with fruit. Water jetted from the shell, down four marble steps and into the small square [pool](http://vocab.getty.edu/page/aat/300375619) below. A marble covered channel divided the *lectus medius* of the [triclinium](http://vocab.getty.edu/page/aat/300004359) in two parts and carried the water to a small jet in the center of the low [triclinium](http://vocab.getty.edu/page/aat/300004359) [table](http://vocab.getty.edu/page/aat/300039548). Four large [columns](http://vocab.getty.edu/page/aat/300001571) supported a vine-covered pergola that shaded the [triclinium](http://vocab.getty.edu/page/aat/300004359). The soil near the [columns](http://vocab.getty.edu/page/aat/300001571) had root cavities, as reported by Maiuri, but no further details were recorded.  
@@ -124,13 +124,13 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 
 
-### Plans
+## Plans
 
 {{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< image src="../Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." title="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement)." >}}
 
-### Images
+## Images
 
 {{< image src="Fig_41_I.vii.11_12_11.32.59.jpg" alt="Fig. 3: I.vii. 11.32.59, S.A. Jashemski." title="Fig. 3: I.vii. 11.32.59, S.A. Jashemski (Rights Statement)." >}}
 
@@ -140,10 +140,10 @@ NEW WAY ↓↓↓↓
 
 {{< image src="Fig_44_I.vii.11_12_11.33.59.jpg" alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski." title="Fig. 6: I.vii. 11.33.59, S.A. Jashemski (Rights Statement)." >}}-->
 
-### Dates
+## Dates
 Excavated 1912 and 1925.
 
-### Bibliography
+## Bibliography
 
 * Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 26, no. 41.  
 * Chamoux, F. 1950. *BCH* p. 70-79.  
@@ -167,19 +167,19 @@ Excavated 1912 and 1925.
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

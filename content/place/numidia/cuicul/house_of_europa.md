@@ -39,7 +39,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 
 {{< image src="cuicul_house_of_europa.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
-### Location Description
+## Location Description
 
 The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.
 
@@ -51,7 +51,7 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 
 House of Europa, Central District (Maison d'Europe, Quartier Central)
 
-### Keywords
+## Keywords
 - [balnea](http://vocab.getty.edu/page/aat/300120377)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
@@ -61,7 +61,7 @@ House of Europa, Central District (Maison d'Europe, Quartier Central)
 - [planters (containers)](http://vocab.getty.edu/page/aat/300237566)
 - [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
 
-### Garden Description
+## Garden Description
 
 The block of buildings termed the House of Europa, about 1500 square meters in area, extends along the main Cardo, quite over the north gate of the town. It included large and small baths, a monumental entrance, shops and other areas for commercial use, and a peristyle house on the north side. It was excavated in 1914 and 1915.
 
@@ -72,37 +72,37 @@ Room 18 enjoyed a spectacular view toward the terraced fountains and plants. It 
 Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century, a terrace overlooked the peristyle courtyard towards the south. It might have been used as a hanging garden, possibly decorated with potted plants.
 
 
-### Plans
+## Plans
 
 {{< image src="house_of_europa_plan1.jpg" alt="Plan of the House of Europa." title="Fig. 1: Plan of the House of Europa (Blanchard-Lemée, M., 1975, fig.49)">}}
 
-### Images
+## Images
 {{< image src="house_of_europa_plant1.jpg" alt="View of the peristyle of the house." title="Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)">}}
 
 {{< image src="house_of_europa_plant.jpg" alt="View of planter d." title="Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)">}}
-### Dates
+## Dates
 
 2nd-5th century CE
 
-#### Excavation Dates
+## Excavation Dates
 
 1914-1915
 
-### Bibliography
+## Bibliography
 
 *  Allais, Y., "La maison d'Europe à Djemila", in *Revue Africaine*, 83, 1939, pp. 35-44. [(worldcat)](http://www.worldcat.org/oclc/758942246)
 * Blanchard-Lemée, M., *Maisons à mosaïques du quartier central de Djemila (Cuicul)*, Paris, 1975, pp. 129-151, fig.49. [(worldcat)](http://www.worldcat.org/oclc/461390883)
 *  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](http://www.worldcat.org/oclc/1090653355)
 
-#### Pleiades ID
+## Pleiades ID
 [Cuicul](https://pleiades.stoa.org/places/305068)
-#### TGN ID
+## TGN ID
 
-### Contributor
+## Contributor
 
 [Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)
 
-### Publication date
+## Publication date
 21 Apr 2021
 <!--07 July 2020-->
 

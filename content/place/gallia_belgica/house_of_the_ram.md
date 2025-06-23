@@ -33,21 +33,21 @@ categories:
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+## Sublocation Description
 
 Durocortorum was mentioned by Caesar as the center of the Remi, a Celtic tribe that sided with the Romans against the Belgians. It then became a federated city, nominally independent.  Under Augustus, it became the capital of Gallia Belgica. Many vestiges indicate that it was densely settled and unusually extensive.   A network of water supply and sewers has been found; an aqueduct brought water from 40 kilometers.  The cardo and decumanus are still identifiable today by vestiges of four gates with arches, the northern one still standing; they cardo and decumanus intersect at the present Place Royale.  Today, the city is known for its magnificent Gothic cathedral and its fine champagnes.
 
 ## Garden
 House of the Ram (La Maison au Bélier)
 
-### Keywords
+## Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [drains](http://vocab.getty.edu/page/aat/300052564)
 - [corridors](http://vocab.getty.edu/page/aat/300004294)
 
 
 
-### Garden Description
+## Garden Description
 
 BEL 2.3.1: Reims, House of the Ram
 Excavated in 1992-93 by Agnès Balmelle, this vast house probably covered about 2000 square meters. The date of construction is rather uncertain; it could be as early as the end of the first century or as late as the second half of the second (Fig. 1)  The excavations have revealed a *portico* (A) (20 x 3 m) opening onto an open space which may have been a garden. It was bordered on the southwest by *drain* which no doubt collected rainwater from the roof and led it away to the northwest. A well (E) was in the north gallery or *corridor* (B).
@@ -55,28 +55,28 @@ Excavated in 1992-93 by Agnès Balmelle, this vast house probably covered about 
 
 
 
-### Maps
+## Maps
 
 None Available
 
-### Plans
-
-None Available
-<!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
--->
-
-### Images
+## Plans
 
 None Available
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Images
+
+None Available
+<!--
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+-->
+
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - A. Balmelle, *Reims, Le site de la villa des Capucins (site n°51 454 129)* : D.F.S. de sauvegarde urgent, S.R.A. Champagne-Ardenne, 1995  <!-- not on worldcat -->
 - A. Balmelle, R. Neiss, Les maisons de l’élite à *Durocortorum*, in Archéologie urbaine à Reims, *Bulletin de la société archéologique champenoise*, t. 96, 2003, 4, p. 82. [(worldcat)](http://www.worldcat.org/oclc/718698064)
 
@@ -84,17 +84,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Durocortorum](https://pleiades.stoa.org/places/108945)
 
-#### TGN ID
+## TGN ID
 [Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
 
-### Contributor
+## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

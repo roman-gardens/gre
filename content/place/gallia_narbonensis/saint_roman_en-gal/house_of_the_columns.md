@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
 [Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [saint-roman-en-gal]({{<relref ".">}}) \
 [saint-roman-en-gal (Pleiades)]()
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -47,7 +47,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 House of the Columns
 
 
-### Keywords
+## Keywords
 
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
@@ -62,7 +62,7 @@ House of the Columns
 
 
 
-### House Description
+## House Description
 
 The house  had a linear plan starting from a garden on the south,  then on the north side of the garden, a façade gallery, then several rooms, and finally a peristyle on the north. It went through three phases with the changes concentrated on the south garden. In the first phase, this garden [13] (23.5 x 11.5 m) was bordered on the north by a portico [12] 2.5 meters wide. In the garden, adjacent to this portico and directly in front of the principal reception room [8] was a rectangular pool (7.5 x 4 m) with an apse in the center of the south side. It probably had a fountain.
 
@@ -81,7 +81,7 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 
 {{< image src="house_of_the_columns_phase1.png" alt="Plan of House of the columns_phase1" title="Fig. 1 Plan of House of the columns_phase1" >}}
@@ -91,11 +91,11 @@ NEW WAY ↓↓↓↓
 {{< image src="house_of_the_columns_phase3.png" alt="Plan of House of the columns_phase3" title="Fig. 3 Plan of House of the columns_phase2" >}}
 
 
-### Dates
+## Dates
 
 
 
-### Bibliography
+## Bibliography
 
 1. *Maison 1996*, t. II,, p. 309-401
 
@@ -108,21 +108,21 @@ NEW WAY ↓↓↓↓
 5. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig. 194.[worldcat](hhttp://www.worldcat.org/oclc/43416334)
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Saint-Romain-en-Gal (inhabited place)](http://vocab.getty.edu/page/tgn/5004109)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

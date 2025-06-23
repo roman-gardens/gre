@@ -17,7 +17,7 @@ categories:
 [Hispania Tarraconensis]({{<relref "..">}}) \
 [Tarraconensis(Pleiades)](https://pleiades.stoa.org/places/981551)
 
-### Province Description
+## Province Description
 
 In 236 BC, to offset Carthage's loss of Sicily and Sardinia in the First Punic War, Hamilcar Barca led an expedition into Hispania to establish a colony there.  Through force of arms and diplomacy, he spread Carthaginian influence as far north as Barcellona, which bears his name.   In 230 BC, Hasdrubal, his son-in-law, established Qart Hadast that became Carthago Nova in Roman times and Cartagena today.  After the death of Hasdrubal, Hannibal, Hamilcar's oldest son, took command, attacked Saguntum, and in 218 set out for Italy leaving his younger brother, Hasdrubal, in command in Spain.  Through the Alps, he descended into Italy and threatened Rome for fourteen years.  Roman armies under the brothers Gnaeus and Publius Cornelius Scipio kept Hasdrubal in check and prevented his reinforcing Hannibal. They were both killed by the Carthaginians in 212.  Two years later, another Publius Cornelius Scipio, the  25-year-old son of the late general of the same name, was sent to Spain.  The next year, he captured New Carthage and, in 206 at the battle of Ilipa (about 15 km north of Savilla) destroyed most of the Carthaginians' numerically superior army and ended their hold on Spain.  Scipio settled his wounded veterans nearby at a place he called Italica to remind them of their origins.  Today, it is one of the best Roman archaeological sites in Italy.   After a quick trip back to Rome, where he was elected consul, he returned to Spain and went on to attack Carthage itself.  Hannibal was recalled to Africa, but Scipio annihilated his army in 202.  Rome thus came into possession of the Mediterranean coast of Iberia.
 
@@ -34,7 +34,7 @@ There has been little research on the gardens in the Roman settlements in Spain 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
 
-### Bibliography
+## Bibliography
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](http://www.worldcat.org/oclc/1090911182)
 
 - P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](http://www.worldcat.org/oclc/640067386)
@@ -67,17 +67,17 @@ A sublocation is any area larger than an individual garden, but located within a
 Villa Romana de els Munts
 
 
-### Keywords
+## Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 
-### Garden Description
+## Garden Description
 This richly adorned pleasure villa by the sea was built early in the first century AD and continued in use into the fifth century.  Its period of greatest splendor was between about 100 and 250 AD.  It was pillaged and burned shortly after 268, dated by a hoard of coins found in the underground prison. The prison was equipped with stocks, presumably for punishment of slaves. The mansion was rebuilt and enlarged during the fourth century AD.
 
 Across the front of the house on the side by the sea ran a *portico* [1] in a northwest-to-southeast direction to offer the best view.  The garden lay between this portico and the sea. The excavator judged the area to be a garden, and his view is supported by several pools and perhaps a nymphaeum in the area.  Also, at its southeast end, the portico turns and runs towards the sea. Opening onto this arm was a reception room with seven octagonal fountains arranged in a U. This room thus faced the garden and a pool rather than the sea.  The portico was extended by a walkway and steps which defined the edge of the garden and led down the hill to a large bath complex added in the fourth-century rebuilding.
 
 
-### Plans
+## Plans
 {{< image src="his_tar_alt_vr_munts_fig1.jpg" alt="Plan of Villa Romana de Els Munts" title="Villa Romana de Els Munts, Altafulla. (Source: Gorges, Planche LVI.)" >}}
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -85,10 +85,10 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 
 
 
-### Dates
+## Dates
 1C AD
 
-### Bibliography
+## Bibliography
  - F. Tarrats et al., *El área residencial de la villa romana de “Els Munts*, Madrider Mitteilungen 41. Mainz, 2000, pp. 358-379. [(worldcat)](http://www.worldcat.org/oclc/7180188573)
 
  - F. Tarrats, E. Ramón Seriñena and J. M. Macías I Solé, *Noves intervencions a la vil.la romana dels Munts*, in Tribuna d’Arqueologia 1996-1997. Generalitat de Catalunya, Barcelona, 1997, pp. 35-56. [(worldcat)](http://www.worldcat.org/oclc/47686221)
@@ -101,18 +101,18 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Villa dels Munts](https://pleiades.stoa.org/places/250016)
 
 
-#### TGN ID
+## TGN ID
 [Altafulla (inhabited place)](http://vocab.getty.edu/page/tgn/7344921)
 
 
-### Contributor
+## Contributor
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

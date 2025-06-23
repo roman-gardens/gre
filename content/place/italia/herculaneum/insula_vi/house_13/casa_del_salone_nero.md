@@ -27,7 +27,7 @@ tags:
 [Herculaneum]({{<relref "../..">}}) \
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-### Location Description
+## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -42,38 +42,38 @@ Casa del Salone Nero
 
 
 
-### Keywords
+## Keywords
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [tablina](http://vocab.getty.edu/page/aat/300004180)
 
 
-### Garden Description
+## Garden Description
 Excavation of this garden (a) to the rear of this elegant house took place in the spring of 1939. The garden was completely surround by a portico which had eight columns and two pillars on the north side with engaged columns placed strategically so as to provide an unimpeded view from the tablinum. The southwest corner of the garden was the location of a small pool (0.82 x 0.63).
 
-### Plans
+## Plans
 {{< image src="herculaneum_vi_13.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
 {{< image src="h_6_11-19_25-26-a.jpg" alt="Herculaneum VI.11-19,25-26-Casa del Salone Nero" title="Herculaneum VI.11-19,25-26-Casa del Salone Nero" >}}
 
 
 
-#### Pleiades ID
+## Pleiades ID
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-#### TGN ID
+## TGN ID
 [Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 Maiuri, *Ercolano*, p. 240 and fig. 187 (plan) on p. 239 [(worldcat)](http://www.worldcat.org/oclc/490581395)
 
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021

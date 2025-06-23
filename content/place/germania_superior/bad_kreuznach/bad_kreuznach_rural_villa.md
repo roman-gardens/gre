@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Rural Villa in Bad Kreuznach
 
-### Keywords
+## Keywords
 
 - [apsed triclinium](#)
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
@@ -59,7 +59,7 @@ Rural Villa in Bad Kreuznach
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 
-### Garden Description
+## Garden Description
 
 This villa, almost 6000 square meters in size, gives eloquent testimony to the wealth and status of the owner of the rural estate. The estate was built in the second half of the 2nd century and occupied until its destruction around 275.
 
@@ -73,7 +73,7 @@ At the northeast of the villa was a garden (G in Fig. 1) with a lararium. On the
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="EUR_GS_BadKre_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204." title="Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204.(Rights statement)" >}}
 
@@ -83,11 +83,11 @@ At the northeast of the villa was a garden (G in Fig. 1) with a lararium. On the
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 Second half of 2nd century - around 275
 
-### Bibliography
+## Bibliography
 
 * G. Rupprecht, "Die Kreuznacher Mosaikbodenvilla. Kurzbericht (Stand: April 1977)," *Saalburg Jahrbuch* 34, 1977:78-87.
 * G. Rupprecht, "Leben auf dem Land," *Archäologie in Deutschland* 4, 1986: 36-39. [(worldcat)](http://www.worldcat.org/oclc/7788112662)
@@ -97,19 +97,19 @@ Second half of 2nd century - around 275
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Germania Superior](https://pleiades.stoa.org/places/981525)
 
-#### TGN ID
+## TGN ID
 
 [Bad Kreuznach (inhabited place)](http://vocab.getty.edu/page/tgn/7012371)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

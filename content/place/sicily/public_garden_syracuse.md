@@ -52,35 +52,35 @@ A sublocation is any area larger than an individual garden, but located within a
 
 PUBLIC GARDEN, Syracuse
 
-### Keywords
+## Keywords
 
 <!-- [urban villas](#) -->
 
 
-### Garden Description
+## Garden Description
 
 In the Roman period, the clearest evidence for the presence of a formal garden in a public place comes from Syracuse, where an impressive piazza, 175 by 45 meters, was laid out early in the Augustan period on the west side of the third-century B. C. Altar of Hieron (Fig. 2). A U-shaped stoa was erected on three sides, with fourteen columns on the short sides and sixty-four on the long; the Altar itself formed the fourth. Within the area enclosed by this portico, a large rectangular basin was erected in the center, with steps at the corners and a statue base in the middle; a drain led away from the basin westwards under the portico. The open space around the basin was planted systematically with five rows of trees, thirty-two trees in the two outermost rows, and twenty-six in each of the rows interrupted by the pool; there were thus 142 trees (of unknown species) in all (Fig. 3). The arrangement, with its central pool, trees and surrounding porticoes, recalls similar monuments in Campania, such as the Great Palaestra, also of Augustan date, at Pompeii (see Vol. 1, no.), and the Palaestra at Herculaneum (see Vol. 1, no.). The function of the Syracuse square is unknown, but it must have been principally intended as a pleasant park where the townsfolk of Syracuse could stroll, especially, perhaps, when attending events staged in the nearby amphitheater.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 <!--{{< image src="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
 
-### Images
+## Images
 
 {{< image src="figure2.jpg" alt="Fig. 2  Syracuse, plan of the piazza adjacent to the Altar of Hieron with central pool and pits marking the sites of trees" title="Fig. 2  Syracuse, plan of the piazza adjacent to the Altar of Hieron with central pool and pits marking the sites of trees" >}}
 
 {{< image src="figure3.png" alt="Fig. 3  Syracuse, general view of the piazza as it appears today" title="Fig. 3  Syracuse, general view of the piazza as it appears today" >}}
 
-### Dates
+## Dates
 
 
-### Bibliography
+## Bibliography
 
 
 G. V. Gentili, Notizie degli Scavi 1954, pp. 333–61 [(worldcat)](https://cornell.on.worldcat.org/oclc/1646037);
@@ -93,17 +93,17 @@ id., Sicily under the Roman Empire, Warminster, 1990, pp. 197–8  with fig. 165
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Syracusae/Syrakousai](https://pleiades.stoa.org/places/462503)
 
-#### TGN ID
+## TGN ID
 
 
-### Contributor
+## Contributor
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

@@ -25,7 +25,7 @@ tags:
 [Pompeii]({{<relref "../..">}}) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -34,30 +34,30 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula VI]({{<relref ".">}})
 
-### Keywords
+## Keywords
 - [insula](http://vocab.getty.edu/page/aat/300000325)
 - [aedicules](http://vocab.getty.edu/page/aat/300002574)
 
-### Garden Description
+## Garden Description
 After the earthquake the eastern part of this insula had been converted into a market garden. When it was excavated in 1883-1884 some of the soil contours remained. A basin in the northwest corner collected water that was diverted from the street. Gardening tools were found in this garden and the remnants of the earlier structure that stood here, an animal painting on the south wall and a simple aedicula shrine in the southwest corner, indicated that this had been a home.
 
-### Plans
+## Plans
 {{< image src="fig.20.region_viii.insula_vi.png" alt="Fig. 20, Plan of Region VIII, Insula VI" title="Fig. 20, Plan of Region VIII, Insula VI" >}}
 
-### Images
+## Images
 {{< image src="fig.21.viii.6.2 12.31.59.jpg" alt="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 
-#### Pleiades ID
+## Pleiades ID
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
-#### TGN ID
+## TGN ID
 [Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
-###  Excavation Dates
+##  Excavation Dates
 1883-1884
 
-### Bibliography
+## Bibliography
 * Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome, 1937, p.78, no.374 and pl.33.1 [(worldcat)](http://www.worldcat.org/oclc/1131425884)
 * Jashemski, *Gardens*, vol. II, pp.219,365 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
 * Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica*, 1884, pp.134-135 [(worldcat)](http://www.worldcat.org/oclc/823239162)
@@ -66,9 +66,9 @@ After the earthquake the eastern part of this insula had been converted into a m
 * Sogliano, *Notizie degli scavi di Antichita*, 1884, pp.280,396 [(worldcat)](http://www.worldcat.org/oclc/638883283)
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

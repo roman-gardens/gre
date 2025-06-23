@@ -53,40 +53,40 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Temple Grove of Apollo
 
-### Keywords
+## Keywords
 - [sacred groves](http://vocab.getty.edu/page/aat/300251876)
 - [sanctuary centers (religious centers)](http://vocab.getty.edu/page/aat/300391482)
 
 
-### Garden Description
+## Garden Description
 The *sanctuary* of Apollo at Didyma was a regional sanctuary that lay on the border of Caria and Ionia (Strabo 12.1.2).  The Temple of Apollo, attested by Strabo (12.1.5), was built on the site of the spring and oracle of Apollo mentioned by Herodotus (1.92.159) and Pausanius (7.2.6).  Inscriptions found in the area of the sanctuary attest to a “*sacred grove*” [(CIG 2885d)] and Strabo (14.1.5) specifies that in his day a grove (*alsos*) was planted inside and outside the temple precinct.
 
 The precinct has been well-defined archaeologically, but the archaeologists identified no traces of the trees.
 
 
 <!--
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 <!--
-### Plans
+## Plans
 <!--{{< image src="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" alt="Plan of villa rustica at Blackenheim-Hülchrath; rights statement" title="Plan of the excavations at Aphrodisias">}}
 
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 <!--
-### Images
+## Images
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - K. Tuchelt, “Didyma” in ed. E. Meyers, *Oxford Encyclopedia of Archaeology in the Near East*,  Oxford: Oxford University Press, Oxford,1996 : p.160 [(worldcat)](http://www.worldcat.org/oclc/5104744829)
 - Birge,D E.  Sacred Groves in the Ancient Greek World. PhD. Dissertation.  University of California at Berkeley, 1982, 394-395. [(worldcat)](http://www.worldcat.org/oclc/83523268)
 - B. Haussoullier, "le temple d'Apollon didymien" Revue de Philologie  22 (1898) 50-51.[(worldcat)](http://www.worldcat.org/oclc/1764078)
@@ -96,17 +96,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Didyma/Branchidai/Ioustinianopolis](https://pleiades.stoa.org/places/599593)
 
-#### TGN ID
+## TGN ID
 [Caria (former nation/state/empire)](http://vocab.getty.edu/page/tgn/7002358)
 
-### Contributor
+## Contributor
 [Kathryn Gleason](link) (ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

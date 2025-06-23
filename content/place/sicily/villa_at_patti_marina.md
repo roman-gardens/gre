@@ -52,52 +52,52 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Villa at Patti Marina
 
-### Keywords
+## Keywords
 
 <!-- [urban villas](#) -->
 
 
-### Garden Description
+## Garden Description
 
 This fourth-century villa on the north coast has also yielded evidence for a garden (but no ornamental pools). A figured mosaic pavement belonging to an earlier, third-century villa was found inside the courtyard of the later villa, but it had been heavily damaged by cuttings through it for the plants and trees of the garden of the fourth-century villa. Nothing can be said of the layout of the latter in detail as the excavation remains unpublished, but the potential for garden archaeology in the island has at least been demonstrated.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 <!--{{< image src="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
 
-### Images
+## Images
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 
-### Bibliography
+## Bibliography
 G. Voza, L’attivita della Soprintendenza alle Antichita della Sicilia Orientale, Kokalos 26–7 (1980–81): Attivita nel territorio della Soprintendenza alle Antichita di Siracusa nel quadriennio 1980–1984, Kokalos 692–3; 30–31 (1984–85):  660–61.R. J. A. Wilson [(worldcat)](http://www.worldcat.org/oclc/186378054)
 
 <!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Zancle/Messana](https://pleiades.stoa.org/places/462538)
 
-#### TGN ID
+## TGN ID
 
 
-### Contributor
+## Contributor
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

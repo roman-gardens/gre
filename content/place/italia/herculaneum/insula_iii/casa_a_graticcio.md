@@ -26,7 +26,7 @@ categories:
  [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 
-### Location Description
+## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
@@ -39,11 +39,11 @@ III
 Casa A Graticcio
 
 
-### Keywords
+## Keywords
 
 N/A
 
-### Garden Description
+## Garden Description
 538.III.13-15.
 This multi-family dwelling was excavated in 1927-1929. There was a small paved courtyard (a) 1.97 x 2.97 m. located to provide light and air to the surrounding apartments which was enclosed on the east, north and west by a low wall 0.76 m. high which formeda catch basin for rainwater. Herbs or flowers could be grown in the planting space (14 cm. wide x 25 cm. deep) on the top of the wall. The middle of the north side of the wall contained the mouth of a well that was 0.90 m. dia. and in the floor of the passageway to the west of the courtyard there was the mouth of a cistern covered by a circular piece of marble. There was a windlass with a rope found in a nearby room undoubtedly used to draw water from either of these fixtures. According to Maiuri, there could be a large cistern underground connecting the mouth of cistern in the passageway and the mouth of the well.
 <!--### Maps-->
@@ -57,28 +57,28 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 {{< image src="H_3_3-17.jpg" alt="Plan of Casa A Graticcio" title="Plan of Casa A Graticcio" >}}
 
 
 <!--### Images-->
 
-#### Pleiades ID
+## Pleiades ID
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-#### TGN ID
+## TGN ID
 [Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 1927-1929
 
-### Bibliography
+## Bibliography
 
 - Maiuri, *Herculaneum*, pp. 32-33 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
 - Maiuri, *Ercolano*, pp. 412-413 and fig. 345 (plan) on p. 407  [(worldcat)](http://www.worldcat.org/oclc/490581395)
@@ -88,11 +88,11 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
-### Publication date
+## Publication date
 
 
 

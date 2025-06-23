@@ -32,7 +32,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 [Herodium]({{<relref ".">}}) \
 [Herodium](https://pleiades.stoa.org/places/687916)
 
-### Location Description
+## Location Description
 Herodium
 
 Herod the Great’s primary residence and burial place appears to have been this large palace complex 15 km southwest of Jerusalem.  Here his court was within easy reach of the city, and on clear days the palace and the Mt. of Olives are visible in both directions. Herodium was an entirely new administrative and residential complex, commemorating his military victory over Antigonus for control of Jerusalem in 40 BCE.  Herodium was begun c. 23-20 BC and offered a Herod a range of facilities in which he could perhaps live and conduct business more freely here than in Jerusalem. (Jewish Antiquities, XV, 323-325) The palace has two primary residential areas: the fortified palace atop a natural, but raised hilltop; and an unfortified palace that spans a gentle valley below. (Fig. 1)   (Josephus Jewish War I, 419-421; Jewish Antiquities, XV, 323-325).
@@ -55,23 +55,23 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Royal Garden
 
-### Keywords
+## Keywords
 
 - [pleasure garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=4&subjectid=300008115)
 - [walled garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=5&subjectid=300008129)
 
-### Garden Description
+## Garden Description
 
 Herod’s Tomb Garden
 
 In 2005, Netzer’s team found the long-sought tomb of Herod, positioned on a terrace constructed into the slope of the artificial hill. This terrace was constructed of chipped stone and construction debris, largely the light limestone of the area.  To the front and sides of the tomb, a layer of rich brown loam, similar to that found in the other garden areas, clearly indicated a garden. (Fig. 4)  A small pool with lead piping was found to the side of the terrace.  Although the lead pipes had been robbed, the pool evidently watered the terraced gardens (fig 1B, 2, and 3)
 
 <!--
-### Maps
+## Maps
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="ASIA_JUD_HERODIUM _1.jpg" alt="Fig. 1:Plan of the complex at Herodium showing the Fortress Palace with its small peristyle garden (A), the Tomb Garden (B) and the Lower Palace with its central pool and cultivated grounds (C) (Yaniv Korman after Netzer)." title="Fig. 1:Plan of the complex at Herodium showing the Fortress Palace with its small peristyle garden (A), the Tomb Garden (B) and the Lower Palace with its central pool and cultivated grounds (C) (Yaniv Korman after Netzer)" >}}
 
@@ -81,11 +81,11 @@ In 2005, Netzer’s team found the long-sought tomb of Herod, positioned on a te
 
 {{< image src="ASIA_JUD_HERODIUM _3.jpg" alt="Fig. 3: A reconstruction drawing of the mausoleum garden at its early period, around 15 BC (Yaniv Korman)." title="Fig. 3: A reconstruction drawing of the mausoleum garden at its early period, around 15 BC (Yaniv Korman)" >}}-->
 
-### Dates
+## Dates
 
 15 BCE - 60 CE
 
-### Bibliography
+## Bibliography
 
 * E. Netzer, “Greater Herodium” in Qedem, Monographs of the Institute of Archaeology, The Hebrew University of Jerusalem 13, 1981 [(worldcat)](https://www.worldcat.org/title/greater-herodium/oclc/470633336&referer=brief_results)
 * E. Netzer The Palaces of the Hasmoneans and Herod the Great, Jerusalem: The Israel Exploration Society, 1999, 98-107 [(worldcat)](https://www.worldcat.org/title/palaces-of-the-hasmoneans-and-herod-the-great/oclc/1089147869&referer=brief_results)
@@ -98,21 +98,21 @@ In 2005, Netzer’s team found the long-sought tomb of Herod, positioned on a te
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Herodeion](https://pleiades.stoa.org/places/687916)
 
-#### TGN ID
+## TGN ID
 
 [Judean Desert (desert)](http://vocab.getty.edu/page/tgn/8713913)
 
-### Contributor
+## Contributor
 
 [Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
 
 
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

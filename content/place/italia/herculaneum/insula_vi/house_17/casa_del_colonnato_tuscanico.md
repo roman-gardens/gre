@@ -30,7 +30,7 @@ tags:
 [Herculaneum]({{<relref "../..">}}) \
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-### Location Description
+## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 
@@ -44,39 +44,39 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 Casa del Colonnato Tuscanico
 
 
-### Keywords
+## Keywords
  - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 
 
 
-### Garden Description
+## Garden Description
 This house with an L-shaped floor plan had a peristyle garden (a) at the juncture of the two wings enclosed by a seventeen column portico. The garden entrance facing the large room to the north had double columns, and the garden could be approached from the atrium or from the entrance off the street on the west.
 
-### Plans
+## Plans
 {{< image src="herculaneum_vi_17.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
 {{< image src="h_6_11-19_25-26-a.jpg" alt="Herculaneum VI.11-19,25-26-Case del Colonnato Tuscanico" title="Herculaneum VI.11-19,25-26-Case del Colonnato Tuscanico" >}}
 
 
 
-#### Pleiades ID
+## Pleiades ID
 [Herculaneum](https://pleiades.stoa.org/places/432873)
 
-#### TGN ID
+## TGN ID
 [Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 G.Cerulli Irelli, *La casa del Colonnato Tuscanico*, MemNap 7 (1974): 49 and fig. 1 (plan)[(worldcat)](http://www.worldcat.org/oclc/990804745)
 
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021

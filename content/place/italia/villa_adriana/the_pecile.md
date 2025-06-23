@@ -30,7 +30,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -43,7 +43,7 @@ The realization of this magnificent residence must have been a cherished dream o
 The Pecile (Fig. 1, n. 6)\
 [Pecile at Hadrian's Villa](https://pleiades.stoa.org/places/781209675)
 
-### Keywords
+## Keywords
 
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [flower gardens](http://vocab.getty.edu/page/aat/300008135)
@@ -51,31 +51,31 @@ The Pecile (Fig. 1, n. 6)\
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [tufa](http://vocab.getty.edu/page/aat/300011712)
 
-### Garden Description
+## Garden Description
 
 The Pecile (Fig. 20) was never excavated as a garden. Thus, today, we have only the large pond, 30 m wide x 116 m long (Fig. 21) which hosts a flock of white geese (Fig. 20, A). A garden must have been spread all around it, but its flowerbeds need still to be investigated (SALZA PRINA RICOTTI 2000, pp. 139-141, fig. 45). If, as in Villa Adriana often happens, they have been dug in the tufa platform, sooner or later we will be able to see their shapes and reconstruct the garden's appearance. For the moment we have to be content with the dark green bushes which, cut in the shape of columns, mark the spots once occupied by the ones of the monumental peristyle 100 m wide and 248 m long. On the northern side of the Pecile, we can still admire the long wall around which, once, ran the double portico used by the Emperor for his daily strolls (Fig. 20, B): three spins around the central wall corresponded to a mile as written on a marble slate (HÜLSEN 1896; MANCINI 1952; COARELLI 1997, pp. 207-209). He could circle around it as many times as his doctor had prescribed him to do (Fig. 22). According to ancient Romans' belief, long walks offered an opportunity to exercise and were necessary to preserve both health and fitness. At the western end of the Pecile, a pillared Belvedere offered to Villa Adriana's inhabitants the possibility to rest from time to time admiring the underlying plain and the city of Rome far away on the horizon.
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
 {{< image src="20_pecile_isometry.jpg" alt="Isometric plan of the Pecile Garden at Hadrian's Villa" title="Fig. 20: Isometry of the Pecile, Eugenia Salza Prina Ricotti." >}}
 
-### Images
+## Images
 
 {{< image src="21_pecile_pond.jpg" alt="Photograph of the pond of the Pecile Garden at Hadrian's Villa" title="Fig. 21: The pond of the Pecile Garden, Eugenia Salza Prina Ricotti." >}}
 
 {{< image src="22_pecile_wall.jpg" alt="Photograph of the wall at the northern side of the Pecile Garden at Hadrian's Villa" title="Fig. 22: The wall of the Pecile Garden, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -98,21 +98,21 @@ unspecified
 * G. Mancini, *Inscriptiones Italiae*, vol. IV, Regio IV, fasc. I, *Tibur*, Roma 1952, p. 113, n. 242. [(worldcat)](http://www.worldcat.org/oclc/1070414020)
 * F. Coarelli, "Il 'Pecile' di Villa Adriana e la Porticus triumphi" *Mitteilungen des Deutschen Archäologischen Instituts, Römische Abteilung* 104, 1997, pp. 207-217. [(worldcat)](http://www.worldcat.org/oclc/8799287)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pecile at Hadrian's Villa](https://pleiades.stoa.org/places/781209675)
 <!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

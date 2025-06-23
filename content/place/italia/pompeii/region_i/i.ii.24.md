@@ -32,7 +32,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -40,7 +40,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula II]({{<relref "#">}})
 
-### Keywords
+## Keywords
 - [aedicules](http://vocab.getty.edu/page/aat/300002574)
 - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
 - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
@@ -54,10 +54,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Garden
 Garden serving a [caupona](http://vocab.getty.edu/page/aat/300005208).
 
-### Garden Description
+## Garden Description
 The garden east of the [atrium](http://vocab.getty.edu/page/aat/300004097) had a [portico](http://vocab.getty.edu/page/aat/300004145) extending along the south and part of the west sides. A low wall (0.52m high) connected the columns and an entrance to the garden was located on the west. In 1873 the [caupona](http://vocab.getty.edu/page/aat/300005208) was excavated. The garden contained a masonry triclinium (l. medius, 3.85m; l. summus and l. imus, 3.20m) with a table. The badly damaged [triclinium](http://vocab.getty.edu/page/aat/300004359) revealed the [amphorae](http://vocab.getty.edu/page/aat/300148696) used in its construction. A low podium along the north wall was thought by Fiorelli to have held [flowerpots](http://vocab.getty.edu/page/aat/300194749). Mau reported a drainage channel at the corner of the [triclinium](http://vocab.getty.edu/page/aat/300004359) formed by the l. meduis and the l. summus, although it is no longer evident. The base of an [aedicula](http://vocab.getty.edu/page/aat/300002574) [lararium](http://vocab.getty.edu/page/aat/300400600) remains against the east wall opposite the north end of the east couch.
 
-### Bibliography
+## Bibliography
 
 * Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 23, no.17  
 * Fiorelli, G. 1875. *Descrizione di Pompei*, p. 47 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)    
@@ -76,20 +76,20 @@ The garden east of the [atrium](http://vocab.getty.edu/page/aat/300004097) had a
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-###  Excavation Dates
+##  Excavation Dates
 Excavated 1872.
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 <!-- Format: dd MONTH_NAME yyyy -->

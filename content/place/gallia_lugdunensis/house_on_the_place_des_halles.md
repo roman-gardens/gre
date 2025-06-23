@@ -32,19 +32,19 @@ categories:
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+## Sublocation Description
 
 On the left bank of the Sarthe, where it is joined by the Isaac creek, the Roman town was the successor to a Celtic oppidum. A wall of the late empire enclosed nine hectares.
 
 ## Garden
 House on the Place des Halles (La maison des Halles)
 
-### Keywords
+## Keywords
 - [domus](http://vocab.getty.edu/page/aat/300005506)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 
 
-### Garden Description
+## Garden Description
 
 LUG 6.1.1: Le Mans. House on the Place des Halles. From CAG.
 
@@ -52,28 +52,28 @@ This *domus* was on the Place des Halles, the former site of the covered market 
 
 <!-- Description was in draft, not final. -->
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 {{< image src="place_des_halles.jpg" alt="A section drawing depicting the two floors of what a restored domus would look like." title="Restored section of the entire domus by P. André" >}}
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 Unspecified
 
-### Bibliography
+## Bibliography
 - Service  Régional  de  l’Archéologie  des  Pays  de  la  Loire,  *La  Sarthe,*  72,  CAG p. 318-319,  plan  p. 318. [(worldcat)](http://www.worldcat.org/oclc/316192643)
 
 
@@ -81,17 +81,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Ouindinon/Subdinnum](https://pleiades.stoa.org/places/109236)
 
-#### TGN ID
+## TGN ID
 [Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
 
-### Contributor
+## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

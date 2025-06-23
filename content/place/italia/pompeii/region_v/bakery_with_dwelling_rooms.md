@@ -22,7 +22,7 @@ tags:
 [Italia]({{<relref "../..">}}) \
 [Italia](https://pleiades.stoa.org/places/1052)
 
-### Province Description
+## Province Description
 <!-- DESCRIPTION -->
 The Italian peninsula extending northward to the Alps as recognized by the Romans.
 
@@ -32,7 +32,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 <!--### Location Description-->
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 <!-- LEAVE THIS BLANK FOR NOW -->
@@ -51,17 +51,17 @@ House 1
 ## Garden
 Bakery with Dwelling Rooms (V.iv.1)
 
-### Keywords
+## Keywords
 - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
 - [lararia](http://vocab.getty.edu/page/aat/300400600)  
 - [trellises](http://vocab.getty.edu/page/aat/300006785)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 
-### Garden Description
+## Garden Description
 This house was excavated in 1900 and a small garden (a) was found to the east of the *atrium*. A masonry planting bed on the north, east and south walls (0.32 m. high, 0.25 m. wide) was shortened on the south to leave room for the cistern *puteal* that stood in the southwestern corner. A podium (0.60 x 0.90 m.;) 0.55 m. high against the middle of the east wall with a niche in the wall above it was thought by Boyce to be an altar. Above the planting bed, traces of garden paintings could be seen. The only records of these paintings are reports from those present at the time of excavation. Mau relates that the paintings consisted of a lattice fence with plants above. There were two openings depicted in the fence on the on the east wall, the one on the left 0.95 m and the one on the right 1.15 m.  Each opening had plants and a vessel, the one on the left was bottle-shaped and silver colored and the one on the right was goblet-shaped and gold colored. Jashemski notes that these vessels probably represented fountains. Sogliano commented that the garden had representations of xenia.
 
 
-### Plans
+## Plans
 
 <!--{{< image src="Euro_GaAq_Montreal_Villa de Séviac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." title="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." >}}
 -->
@@ -69,13 +69,13 @@ This house was excavated in 1900 and a small garden (a) was found to the east of
 <!--### Images-->
 
 
-### Dates
+## Dates
 Unspecified
 
-#### Excavation Dates
+## Excavation Dates
 1900CE
 
-### Bibliography
+## Bibliography
 * Boyce, p. 39, no. 117. [(worldcat)](http://www.worldcat.org/oclc/491367250)
 * Jashemski, *Gardens*, vol.II, pp. 116, 336.  [(worldcat)](http://www.worldcat.org/oclc/1029851777)
 * Mau, *RM* (1901), pp. 313-314. [(worldcat)](http://www.worldcat.org/oclc/1189330863)
@@ -87,17 +87,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Italia](https://pleiades.stoa.org/places/1052)
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 
-### Contributor
+## Contributor
 [Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 <!--### Related articles-->

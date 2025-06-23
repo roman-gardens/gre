@@ -31,7 +31,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 [Ein Gedi]({{<relref ".">}}) \
 [Ein Gedi](https://pleiades.stoa.org/places/196074068/?searchterm=%20Ein%20Gedi*)
 
-### Location Description
+## Location Description
 
 The balsam groves of the Dead Sea region have been famous since the queen of Sheba (Egypt and Ethiopia) reputedly brought balsam as a gift to King Solomon (1 Kings 10:10; Josephus Ant.8. 6, 5-6.). From the time of Theophrastus,  Jericho and Ein Gedi near the Dead Sea were renowned for their watered palm and balsam plantations (paradeisoi), described by Diodorus Siculus, Varro, Strabo, Virgil, Horace, Pausanias, Pliny the Elder, Solinus and Galen.  They are described in some detail by Josephus (Antiquitates Judaeorum 14.54), who notes their water supply was destroyed during the Jewish Revolt.  The balsam, however, is regarded as extinct and has not been identified archaeobotanically.  
 
@@ -57,32 +57,32 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Agriculture
 
-### Keywords
+## Keywords
 
 - [orchards](http://vocab.getty.edu/page/aat/300008890)
 
 <!--### Garden Description
 
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 
 
-### Plans
+## Plans
 
 {{< image src="Latimer_fig_14_or_10.1a.jpg" alt="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20." title="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.(Rights statement)" >}}
 
-### Images
+## Images
 
 {{< image src="Latimer_fig_15_or_10.1b.jpg" alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." title="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." >}} -->
 
-### Dates
+## Dates
 
  6-135 CE
 
-### Bibliography
+## Bibliography
 
 *   Patrich, J.,“A Juglet Containing Balsam Oil (?) from a Cave near Qumran,” Israel Exploration Journal  39 (1989):43-49 [(worldcat)](https://www.worldcat.org/title/juglet-containing-balsam-oil-from-a-cave-near-qumran/oclc/310426513&referer=brief_results)
 *   Sallon, S., Cherif, E., Chabrillange, N., Solowey, E., Gros-Balthazard, M., Ivorra, S., & Aberlenc, F. (2020). Origins and insights into the historic Judean date palm based on genetic analysis of germinated ancient seeds and morphometric studies. Science advances, 6(6), eaax0384. [(worldcat)](https://www.worldcat.org/title/origins-and-insights-into-the-historic-judean-date-palm-based-on-genetic-analysis-of-germinated-ancient-seeds-and-morphometric-studies/oclc/8536654525&referer=brief_results)
@@ -92,20 +92,20 @@ Agriculture
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 ['Ein Gedi](https://pleiades.stoa.org/places/196074068)
 
-#### TGN ID
+## TGN ID
 
 [En Gedi (inhabited place)](http://vocab.getty.edu/page/tgn/7001389)
 
-### Contributor
+## Contributor
 
 [Kathryn L. Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)
 ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

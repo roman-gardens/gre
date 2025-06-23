@@ -42,7 +42,7 @@ categories:
 
 House of the Beautiful Impluvium; Casa del Bell Impluvio (I.ix.1)
 
-### Keywords
+## Keywords
 
 - [archaeological garden](#)
 - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
@@ -56,7 +56,7 @@ House of the Beautiful Impluvium; Casa del Bell Impluvio (I.ix.1)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [predellas](http://vocab.getty.edu/page/aat/300003745)
 
-### Garden Description
+## Garden Description
 
 According to Eschebach’s plan, there was a *portico* at the rear of this house that enclosed this *peristyle* garden (a) on four sides. A small section of the foundation wall remains on the south end of the east side. <span style="color:orange"> The *cubiculum* (b) to the east of the *atrium* has a garden representation on the west half of the black *predella* on the south wall. It was poorly preserved but the left section shows a garden with a lattice fence and a pergola. Faint images remain of a similar pergola on the right side. The center of the painting, (which is 0.09 x 0.84 m.) has an open area with a crater perhaps serving as a fountain in a pergola. Two additional pergolas stand to either side. </span>
 
@@ -71,7 +71,7 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
@@ -80,14 +80,14 @@ NEW WAY ↓↓↓↓
 <!--### Images-->
 
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 
-### Bibliography
+## Bibliography
 
 * *CIL* IV. 10274, 10333 (for *amphoras* found in the garden March 3, 1952).
 * <span style="color:orange"> de Vos, p.135 in Bastet. </span>
@@ -97,19 +97,19 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

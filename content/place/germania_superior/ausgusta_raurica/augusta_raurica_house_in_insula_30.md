@@ -27,7 +27,7 @@ categories:
 [Augusta Raurica]({{<relref ".">}}) \
 [Augusta Raurica](https://pleiades.stoa.org/places/177494)
 
-### Location Description
+## Location Description
 
 The town on the Rhine River possessed colonial status since the late 1st century BC. The street grid, as well as many public and residential buildings, are well known from excavations.
 
@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 House in Insula 30 in Augusta Raurica
 
-### Keywords
+## Keywords
 
 
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
@@ -57,33 +57,33 @@ House in Insula 30 in Augusta Raurica
 - [vestibules](http://vocab.getty.edu/page/aat/300083076)
 - [water wells](http://vocab.getty.edu/page/aat/300152327)
 
-### Garden Description
+## Garden Description
 
 Insula 30, east of the central baths, was taken up by a single house built around 200 AD. This replaced several earlier structures on the site. The insula, including the street colonnades, had an overall area of ca. 48 x 60 meters.
 
 The house had a peristyle courtyard of rectangular shape which was surrounded on three sides by a low wall supporting stone columns. The courtyard was unpaved and almost certainly planted (G in Fig. 1). Entering the house from the east, one passed through a vestibule before arriving in the peristyle corridor around the courtyard. The courtyard wall, enclosing an area 14 x 23.50 meters in size, was fronted by a water channel. There was a well in the north. From the triclinium to the west of the courtyard, one had a view directly into the courtyard.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="EUR_GS_AugRau_Hi30_carroll.jpg" alt="Fig. 1: Plan of a house in Insula 30 with a garden courtyard (G). Plan adapted from Laur-Belart 1988, fig. 126." title="Fig. 1: Plan of a house in Insula 30 with a garden courtyard (G). Plan adapted from Laur-Belart 1988, fig. 126. (Rights statement)" >}}
 
-### Images
+## Images
 
 <!--
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 Insula: 200 A.D.
 
-### Bibliography
+## Bibliography
 
 * R. Laur-Belart, *Führer durch Augusta Raurica*, 5th Ed., Basel, 1988, pp. 134-136, fig. 126. [(worldcat)](http://www.worldcat.org/oclc/1069020725)
 * M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 55, fig. 20. [(worldcat)](http://www.worldcat.org/oclc/1120840822)
@@ -92,19 +92,19 @@ Insula: 200 A.D.
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Col. Augusta Raurica](https://pleiades.stoa.org/places/177494)
 
-#### TGN ID
+## TGN ID
 
 [Augusta Rauricorum (deserted settlement)](http://vocab.getty.edu/page/tgn/7017586)
 
-### Contributor
+## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

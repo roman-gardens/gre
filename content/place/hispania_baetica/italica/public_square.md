@@ -25,7 +25,7 @@ Hispania Baetica
 [Italica]({{<relref ".">}}) \
 [Italica](https://pleiades.stoa.org/places/256231)
 
-### Location Description
+## Location Description
 
 In 206 BC Publius Cornelius Scipio settled wounded veterans of the battle of Ilipa in an existing Turdentanian town which he renamed Italica to remind the settlers and their descendants of their origins.  Three centuries later, it was still a town of some 14 hectares, less than a fourth the size of Pompeii and much smaller than neighboring [Hispalis](https://pleiades.stoa.org/places/256210) (Sevilla) or [Corduba](https://pleiades.stoa.org/places/256128).  Little is known of this town archaeologically because it lies under modern Santiponce.
 
@@ -35,28 +35,28 @@ Italica underwent a major expansion during the reign of the emperor Hadrian, a n
 
 Public Square
 
-### Keywords
+## Keywords
 
 <!-- [no keyword]-->
 
-### Garden Description
+## Garden Description
 
 This triangular area, number 19 on the map and on the visitor's left immediately after entering the walled area, is the only public garden space thus far identified in Roman Spain. Its triangular in form is determined by the angle between the city wall and the grid of the streets.
 
 
-### Maps
+## Maps
 
 {{< image src="HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
 
-### Images
+## Images
 
 {{< image src="HIS_BAE_Italica_public park_CA fig1.jpg" alt="Fig. 2: Public park photographed looking west towards the gate at the far corner of the triangle. (Rights Statement)" >}}
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](http://www.worldcat.org/oclc/882602957)
 * A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](http://www.worldcat.org/oclc/638777432)
@@ -66,16 +66,16 @@ unspecified
 
 
 
-#### Pleiades ID
+## Pleiades ID
 [Public Square at Italica]{{<relref ".">}}) \
 [Public Square at Italica](https://pleiades.stoa.org/places/810966695)
 
-#### TGN ID
+## TGN ID
 [Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
 
-### Contributor
+## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
-### Publication date
+## Publication date
 
 21 Apr 2021

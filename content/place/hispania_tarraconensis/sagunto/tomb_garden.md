@@ -44,25 +44,25 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Tomb garden and baths of P. Caecil(ius) Rufus and Valeria
 
-### Keywords
+## Keywords
 - [tombs](http://vocab.getty.edu/page/aat/300005926)
 
-### Garden Description
+## Garden Description
 A marble slab found at Puçol (Puzol) near Saguntum, now lost,  but originally preserving an epitaph of the late first or early second century set up by P. Caecil(ius) Rufus for himself and his wife Valeria, records that they purchased an area (locus) vaulted over with walls, baths (a notable amenity at a tomb), and gardens and constructed a monument there for themselves and their daughters, to the end that their ashes be mingled with those of their ancestors  (se vivis compararunt locum uti est concameratum parietib(us), balneis, hortis; monumentum construxerunt sibi et filiabus donec avitis cineribus immisceantur). For the identification of the couple and the approximate date, see Alföldy in CIL.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -71,14 +71,14 @@ A marble slab found at Puçol (Puzol) near Saguntum, now lost,  but originally p
 <!--### Dates-->
 
 
-### Bibliography
+## Bibliography
 - H. von Hesberg, “Römische Grabbauten in den hispanischen Provinzen” in W. Trimllmich et al., eds., Hispania Antiqua. Denkmäler der Römerzeit (Mainz 1993) XXX; EDH HD026300. [(worldcat)](http://www.worldcat.org/oclc/7377084156)
 
 <!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Saguntum/Arse](https://pleiades.stoa.org/places/266021)
 
@@ -86,7 +86,7 @@ A marble slab found at Puçol (Puzol) near Saguntum, now lost,  but originally p
 <!--### Contributor-->
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

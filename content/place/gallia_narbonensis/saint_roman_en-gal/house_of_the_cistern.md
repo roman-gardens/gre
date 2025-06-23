@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
 [Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [saint-roman-en-gal]({{<relref ".">}}) \
 [saint-roman-en-gal (Pleiades)]()
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -37,7 +37,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [House of the Ocean Gods](#)
 
-### Sublocation Description
+## Sublocation Description
 
 The northern end of this vast house is just west of the House of Five Mosaics and in the same insula. From the Passage des Grands Entrepôts along this northern limit, it runs over 100 meters southward to the “Voie I” along the south side of the archaeological site. The eastern edge is about 230 meters west of the Rhone. No less than five names have been given to the houses occupying part or all of the site. The following table of these names with approximate dates may help the reader keep them straight.
 The final house runs just over 100 meters from south to north. The first two houses covered only about the first 66 meters from the south, up to the noticeable kink in the north-south lines. The third house in the above list, the House of the Large Peristyle, was limited to the area north of this kink. The fourth house combined these two, while the last rebuilt the whole area keeping only the outline and a few walls. We describe the houses in chronological order. All plans for these houses are from La maison des dieux ocean, Equipe archèologique departmentale de Saint-Romain-en-Gal, published by Aglas, 1996.
@@ -50,7 +50,7 @@ The final house runs just over 100 meters from south to north. The first two hou
 House with the Cistern
 
 
-### Keywords
+## Keywords
 
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
@@ -61,7 +61,7 @@ House with the Cistern
 
 
 
-### House Description
+## House Description
 This house was exposed during a programmed excavation from 1981 to 1985. It occupies a plot of 1338 square meters facing Voie I, on which it opens through an entrance in the center of its façade.
 This phase, called the House with the Cistern, was constructed in the last years of the Augustan period on the site of an earlier building, itself Augustan and probably also a dwelling. It was occupied 20 to 25 years before being remodeled. In its unusual quadrilateral shape, no two sides were parallel, but the west and south sides were perpendicular, and the interior walls ran parallel to one or the other of them. The average width (in the east-west direction) was 24 meters and average length 66 meters. The construction was organized around three sides of the courtyard [12] (10 x 8 m); it may have been planted or may have had a simple earthen floor. To the north, a second open space, a court or a garden [17] (roughly 27 x 15 m) took up a third of the lot. A cylindrical structure [16] three meters in diameter, interpreted as a cistern, occupies an extension off the southeast corner. Nearly all of the floors are of pounded earth. Numerous areas of painted plaster have been discovered in the thirteen rooms that ring three sides of the courtyard [12]. However, the quality of the construction remained ordinary.
  
@@ -78,7 +78,7 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 <!--
 OLD WAY (DO NOT USE)
@@ -100,11 +100,11 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 
 B.C. 20 - A.D. 20
 
-### Bibliography
+## Bibliography
 
 1. Laroche, H. Savay-Guerraz, E. Chantriaux et al. *Guides Archéologiques De La France*. Saint-Romain-en-Gal: Conseil général du Rhône, Equipe archéologique de Saint-Romain-en-Gal, 1984, P. 46-57[worldcat](http://www.worldcat.org/oclc/234328026)
 
@@ -122,21 +122,21 @@ B.C. 20 - A.D. 20
 
 
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Saint-Romain-en-Gal (inhabited place)](http://vocab.getty.edu/page/tgn/5004109)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

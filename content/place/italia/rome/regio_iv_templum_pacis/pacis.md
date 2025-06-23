@@ -31,7 +31,7 @@ draft: true
 
 Garden of the Templum Pacis
 
-### Keywords
+## Keywords
 
 - [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
 - [bases (column elements)](http://vocab.getty.edu/page/aat/300233843)
@@ -68,7 +68,7 @@ Garden of the Templum Pacis
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 
 
-### Garden Description
+## Garden Description
 
 [Vespasian](https://en.wikipedia.org/wiki/Vespasian) vowed the [*Templum Pacis*](https://en.wikipedia.org/wiki/Temple_of_Peace,_Rome), also known as the *Forum Vespasiani*, in 71 CE (Josephus *BJ* [7.158](http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:7.158); Seut. *Vesp.* [9.1](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo020.perseus-lat1:9)) as a victory monument celebrating his military achievements in [Judaea](https://en.wikipedia.org/wiki/Judea) and dedicated it four years later (Dio Cassius [65.15.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0385.tlg001.perseus-grc1:65.15.1) | [Trans](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/65*.html); Aurelius Victor *Caes.* [9.7](https://www.forumromanum.org/literature/victor_ep.html); *Epit. De Caes.* [9.8](https://www.forumromanum.org/literature/victor_ep.html)). Vespasian constructed the *Templum Pacis* to the northeast of the [*Forum Romanum*](https://en.wikipedia.org/wiki/Roman_Forum) and adjacent to the [*Forum Transitorium*](https://en.wikipedia.org/wiki/Forum_of_Nerva), also known as the Forum of Nerva. The ancient sources refer to the complex as the *Templum Pacis*; only in the fourth century CE and later is it referred to as the *Forum Pacis*. [Pliny](https://en.wikipedia.org/wiki/Pliny_the_Elder) considered it the most beautiful building in Rome (*NH* 36.102). It is known from the [*Forma Urbis Romae*](https://en.wikipedia.org/wiki/Forma_Urbis_Romae) (*FUR*), ancient sources, and archaeological excavations (Fig. 1).
 
@@ -83,7 +83,7 @@ Tucci noted that two of the longitudinal features (closest to the southeast port
 Neither Tucci (whose two-volume work on the complex is a rigorous, long durée examination of the structure) nor A. Claridge finds this interpretation of water channels to be convincing. According to Tucci, the top of the six structures were capped by marble blocks, each of which had a hole for [lewis irons](http://vocab.getty.edu/page/aat/300023060) to be placed transversely in the center and a recess for a, now lost, metal [clamp](http://vocab.getty.edu/page/aat/300024736). All of these elements would have been visible (and thus not attractive) and damaged by the continuous flowing of water. Furthermore, Tucci argues that the [cornice](http://vocab.getty.edu/page/aat/300001788)
 at the edge of these structures might have belonged to the [attic](http://vocab.getty.edu/page/aat/300002651) story of the porticoes rather than the structures themselves (i.e., they had fallen down and were misinterpreted by the excavators). He notes that the water channels were filled with earth; they were not lined by concrete, as would be expected for water channels. Furthermore, he argues that the position of the gutters (towards the SE portico) would be useless for a water channel flowing over the middle. Instead, the gutter and lead pipes (if in fact present) suggest an infrastructure for watering plants and for drainage, affirming that the *Templum Pacis* was a garden. It is unlikely, however, that the *Templum Pacis* was a type of botanical garden of exotic species that demonstrated Rome’s power over the submissive east, as Pollard has proposed. While Vespasian and Titus paraded the [balsam](https://en.wikipedia.org/wiki/Balm_of_Gilead) tree in their [triumphs](https://en.wikipedia.org/wiki/Roman_triumph), bringing the plant to Rome for the first time, it is unlikely that it would have been planted within the *Templum*, as it needs very specific climate conditions (only found in the Middle East) to live, let alone thrive, and there is no archaeological evidence for plants other than the Gallic roses.
 
-### Figures
+## Figures
 
 {{< image src="domus_aurea_fig1.jpg" alt="Plan of the Templum Pacis" title="Figure 1. Base plan." >}}
 
@@ -104,16 +104,16 @@ at the edge of these structures might have belonged to the [attic](http://vocab.
 * E. A. Pollard, “Pliny’s Natural History and the Flavian Templum Pacis: Botanical imperialism in first-century Rome,” *Journal of World History* 20.3 (2009): 309–38. [(worldcat)](http://www.worldcat.org/oclc/47120664) | [(JSTOR)](https://www.jstor.org/stable/40542802)
 * P. L. Tucci, *The Temple of Peace in Rome*, Cambridge: Cambridge University Press, 2017. [(worldcat)](http://www.worldcat.org/oclc/1025338560)
 
-### Periodo ID
+## Periodo ID
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### Pleiades ID
+## Pleiades ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-### TGN ID
+## TGN ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
@@ -122,7 +122,7 @@ at the edge of these structures might have belonged to the [attic](http://vocab.
 
 Elizabeth Macaulay
 
-### ORCID
+## ORCID
 
 [Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
 ## Publication date

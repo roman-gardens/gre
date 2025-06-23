@@ -28,11 +28,11 @@ draft: false
 
 
 
-### Garden
+## Garden
 
 Garden of the House of Augustus, Palatine
 
-### Keywords
+## Keywords
 
 - [alae](http://vocab.getty.edu/page/aat/300004055)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
@@ -54,7 +54,7 @@ Garden of the House of Augustus, Palatine
 - [Vitruvius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476)
 
 
-### Garden Description
+## Garden Description
 
 This important house, the [*Domus Augusti*](https://en.wikipedia.org/wiki/House_of_Augustus), which incorporated part of the earlier [*Domus*](https://en.wikipedia.org/wiki/Domus) of [Quintus Hortensius](https://en.wikipedia.org/wiki/Quintus_Hortensius) ([Vell. Pat. II.81](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Velleius_Paterculus/2C*.html) | [Trans.](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/2C*.html)), must have contained important gardens. Yet excavations carried out in the 1960s, although identifying remains as the house of the first [*princeps*]https://en.wikipedia.org/wiki/Princeps), [Augustus](https://en.wikipedia.org/wiki/Augustus), provided few elements connected with the presence of gardens (Fig 1.).
 
@@ -79,7 +79,7 @@ RELATED PHASES ON THE PALATINE:
 [Garden of the Severan Complex (I)]({{<relref "severan_complex">}})
 
 
-### Figures
+## Figures
 
 {{< image src="house_augustus_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1.	Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
 
@@ -87,24 +87,24 @@ RELATED PHASES ON THE PALATINE:
 
 {{< image src="house_augustus_fig3.jpg" alt="Yellow frieze of the House of Livia" title="Fig. 3. House of Livia. Right ala with detail of the “yellow frieze”. (Photo SAR)." >}}
 
-### Dates
+## Dates
 
 1st century BCE
 
-#### Excavation Date
+## Excavation Date
 
 1865-1870: P. Rosa
 1937: A. Bartoli
 1956: G. Carettoni
 
-### Bibliography
+## Bibliography
 
 * M.A. Tomei, *Augusto sul Palatino: Gli Scavi di Gianfilippo Carettoni. Appunti inediti (1955-1984)*, Milano, 2014. [(worldcat)](http://www.worldcat.org/oclc/903406162)!
 
-### Contributor
+## Contributor
 
 Maria Anntonietta Tomei
 
-### Publication date
+## Publication date
 
 28 April 2021

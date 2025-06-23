@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
 [Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [arausio]({{<relref ".">}}) \
 [arausio](https://pleiades.stoa.org/places/148054)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -47,7 +47,7 @@ Quarter of Saint-Florent, House A – House of the Mosaic with Meanders
 
 
 
-### Keywords
+## Keywords
 
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
@@ -58,12 +58,12 @@ Quarter of Saint-Florent, House A – House of the Mosaic with Meanders
 - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
 
 
-### House Description
+## House Description
 
 Some years after the destruction by flood of the house of Clodius (NAR15.10), and its neighbor (House A2), their ruins were leveled and this house built upon them. Some authorities place the construction in the last third of the first century, around the year 70; others, sometime in the second century. The dwelling seems to have lasted until about 260-280.
 
 
-### Garden Description
+## Garden Description
 
 The garden was in the square peristyle (9.7 m on a side) with six Corinthian columns on a side. (The east corner has not be found, but can be confidently conjectured, along with the fourth gallery.) The reception room [a] (of nearly 50 sq. m.) was ornamented with a black and white mosaics with meanders of alternating swastikas and squares, filled in with floral motifs, chalices and *hederae* (ivy). Slightly off-center relative to the garden, it opens through a large bay onto the north gallery of the peristyle, which also has a mosaic. This northern gallery was of the Rhodian type to open a larger view from the main room onto the garden. Just inside the peristyle, a gutter of cut stone caught rainwater from the roofs of the porticoes.
 A rectangular pool (7.4 x 2.5 m. and less than 70 or 80 cm. deep) running the full length of the north side of the garden occupied more than a third of its space. It was lined in *opus signinum* and had masonry quarterround in the edges to make them watertight. It was incompletely excavated on the south side and could well have had there a semicircular apse as in the neighboring House with the Polychrome Mosaic. Probably it had a well, as in other parts of Orange, but none has been located.
@@ -74,13 +74,13 @@ A rather large sewer collector (30 x 40 cm in section) took the rainwater of the
 
 
 
-### Plans
+## Plans
 
 
 {{< image src="quarter_of_saint_florent_house_a_house_of_the_mosaic_with_meanders.png" alt="Plan of Quarter of Saint-Florent, House A – House of the Mosaic with Meanders" title="Plan of Quarter of Saint-Florent, House A – House of the Mosaic with Meanders" >}}
 
 
-### Dates
+## Dates
 B.C 10-A.D 10 Built
 A.D 20-30 Destroyed
 
@@ -88,27 +88,27 @@ A.D 20-30 Destroyed
 
 
 
-### Bibliography
+## Bibliography
 
 1. Bellet, Michel-Edouard. *Orange Antique: Monuments Et Musée*. Paris: Imprimerie nationale, 1991, P. 69 [(worldcat)](http://www.worldcat.org/oclc/24832885)
 
 2. Maison 1996,  t. II, P. 229-237 and  P. 240-242.
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Vaucluse (inhabited place)](http://vocab.getty.edu/page/tgn/7599818)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

@@ -22,7 +22,7 @@ tags:
 
 [Achaea]({{<relref "..">}})
 
-### Province Description
+## Province Description
 
 Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
 
@@ -52,14 +52,14 @@ A sublocation is any area larger than an individual garden, but located within a
 
 The Circus of Roman Corinth
 
-### Keywords
+## Keywords
 
 - [Archaeological](#)
 - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
 - [circuses (Roman arenas)](http://vocab.getty.edu/page/aat/300007255)
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
 
-### Garden Description
+## Garden Description
 
 The circus of Roman Corinth was excavated in 1967-1968 in the so-called Gymnasium area to the north of the city. The eastern curved meta, a portion of the spina (a total of 19 meters in length; Max. W. 4.49 m.), and a series of hard-packed racecourse floors were recovered, along with a fragmentary marble cone that was part of a turning post (meta). Lead curse tablets, typical finds in circuses, were found close to the meta. It appears that the circus was planned as an integral component of the Caesarian design of the city after 44 B.C. and constructed during the mid- to late-Augustan period. There are renovation phases in the late 1st century and 6th century A.D. This circus was probably the site of the equestrian contests of the Corinthian Caesarea festival and, at times, of the Panhellenic Isthmian Games.
 
@@ -76,21 +76,21 @@ The so-called “hippodrome garden” type (see the Domus Flavia on the Palatine
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="corinth-plan.jpg" alt="plan of the Roman circus, with planting pits labeled" title="Fig. 1: Actual State Plan of the Roman circus, with planting pits labeled. From D. G. Romano, “Roman Circus,” p. 589, fig. 3. Plan courtesy of the author." >}}
 
-### Images
+## Images
 
 {{< image src="corinth-circus-restored.jpg" alt="reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta" title="Fig 2. Reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta. Drawing by David Pacifico for the Corinth Computer Project." >}}
 
 {{< image src="amphora-in-planting-pit.jpg" alt="fragmentary amphora found in pit 2 in the spina of the Roman circus" title="Fig. 3: Fragmentary amphora found in pit 2 in the spina of the Roman circus. Photograph courtesy of James Wiseman." >}}
 
-### Dates
+## Dates
 <!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
 <!-- If no date, use "unspecified" -->
 
-### Bibliography
+## Bibliography
 
 BIBLIOGRAPHY:
 * J. H. Humphrey, *Roman Circuses: Arenas for Chariot Racing.* Berkeley, 1986. [(worldcat)](http://www.worldcat.org/oclc/299732316)
@@ -100,19 +100,19 @@ BIBLIOGRAPHY:
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Corinthus/Korinthos](https://pleiades.stoa.org/places/570182)
 
-#### TGN ID
+## TGN ID
 
 [Corinth (inhabited place)](http://vocab.getty.edu/page/tgn/7010734)
 
-### Contributor
+## Contributor
 
 [David Gilman Romano](https://anthropology.arizona.edu/user/david-gilman-romano) (ORCID: [0000-0001-5764-6652](https://orcid.org/0000-0001-5764-6652))
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

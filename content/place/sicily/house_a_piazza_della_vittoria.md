@@ -52,51 +52,51 @@ A sublocation is any area larger than an individual garden, but located within a
 
 House A, Piazza della Vittoria
 
-### Keywords
+## Keywords
 
 <!-- [urban villas](#) -->
 
 
-### Garden Description
+## Garden Description
 
 There is a circular pool in the center of the peristyle in this grand house (Fig. 5). The date  of this pool may belong to the substantial refashioning of the dwelling in the third century A. D.
 
-### Maps
+## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 <!--{{< image src="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
 
-### Images
+## Images
 
 {{< image src="figure5.jpg" alt="Fig. 5  Palermo, Piazza della Vittoria, plans of houses A, B and C" title="Fig. 5  Palermo, Piazza della Vittoria, plans of houses A, B and C" >}}
 
 
-### Dates
+## Dates
 
 
-### Bibliography
+## Bibliography
 R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, p. 127 with references, and p. 121, fig. 109.8. [(worldcat)](http://www.worldcat.org/oclc/608028740)
 
 <!--#### Periodo ID-->
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pan(h)ormus](https://pleiades.stoa.org/places/462410)
 
-#### TGN ID
+## TGN ID
 
 
-### Contributor
+## Contributor
 
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

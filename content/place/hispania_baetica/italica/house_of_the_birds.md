@@ -25,7 +25,7 @@ Hispania Baetica
 [Italica]({{<relref ".">}}) \
 [Italica](https://pleiades.stoa.org/places/256231)
 
-### Location Description
+## Location Description
 
 In 206 BC Publius Cornelius Scipio settled wounded veterans of the battle of Ilipa in an existing Turdentanian town which he renamed Italica to remind the settlers and their descendants of their origins.  Three centuries later, it was still a town of some 14 hectares, less than a fourth the size of Pompeii and much smaller than neighboring [Hispalis](https://pleiades.stoa.org/places/256210) (Sevilla) or [Corduba](https://pleiades.stoa.org/places/256128).  Little is known of this town archaeologically because it lies under modern Santiponce.
 
@@ -35,7 +35,7 @@ Italica underwent a major expansion during the reign of the emperor Hadrian, a n
 
 House of the Birds
 
-### Keywords
+## Keywords
 
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
@@ -45,18 +45,18 @@ House of the Birds
 <!-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)-->
 
 
-### Garden Description
+## Garden Description
 
 This large, typical ‘peristyle house’ had a courtyard that provided light for all the rooms of the house.  The entrance was on the southwest side of the house from the main street leading from the gate where the visitor enters.  After a small vestibule and a wide *fauces*, one came directly into the peristyle garden.  Beneath it was a cistern in which rainwater was collected; the water was accessed by means of a well and winch. Water also came from an aqueduct to a fountain on the façade of the house. The peristyle took up a quarter of the total area of the house.
 
 To the left of the entering guest was the reception room with an interesting mosaic of the birds, each bird in its own square.  Straight ahead, behind the peristyle, was a large *triclinium* with a good view of the garden.  Moreover, beside the *triclinium* and presumably visible from it through a window was a small garden with a peristyle of two columns on two sides and four on one side. Most of this garden was occupied by an ornate pool with semicircular extensions at the corners.  On the other side of the *triclinium* was another pool with long steps descending into it suggesting that it was for swimming. It was surrounded by a patio. Opening onto this patio were five rooms with mosaic floors.  To the visitor's right on entering the garden from the southwest were found traces of a niche with a mosaic pavement above which had once been the *lararium*.
 
 
-### Maps
+## Maps
 
 {{< image src="HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
 
-### Images
+## Images
 
 
 {{< image src="HIS_BAE_Italica_Hob_CA fig1.jpg" alt="Fig. 1: Photograph looking over the garden to the northeast. (Rights Statement)" >}}
@@ -72,11 +72,11 @@ To the left of the entering guest was the reception room with an interesting mos
 {{< image src="HIS_BAE_Italica Hob_CA fig6.jpg" alt="Fig. 6: Plan of the House of the Birds. (Rights Statement)" >}}
 
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](http://www.worldcat.org/oclc/882602957)
 * A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](http://www.worldcat.org/oclc/638777432)
@@ -89,16 +89,16 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [House of the Birds at Italica]{{<relref ".">}}) \
 [House of the Birds at Italica](https://pleiades.stoa.org/places/623258561)
 
-#### TGN ID
+## TGN ID
 [Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
 
-### Contributor
+## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
-### Publication date
+## Publication date
 
 21 Apr 2021

@@ -24,7 +24,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 [Portus Magnus]({{<relref ".">}}) \  
 [Portus Magnus](https://pleiades.stoa.org/places/285503)
 
-### Location Description
+## Location Description
 
 The ancient city is located about 5 km from the modern city of Arzew and 35 km northeast of Oran. An important settlement on the west coast of Algeria, it served as a Roman trading post and naval base during the early Roman Empire period.
 
@@ -36,7 +36,7 @@ The ancient city is located about 5 km from the modern city of Arzew and 35 km n
 
 Small House with peristyle and basins
 
-### Keywords
+## Keywords
 
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
@@ -44,34 +44,34 @@ Small House with peristyle and basins
 - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
 - [peristyle house](http://vocab.getty.edu/page/aat/300005452)
 
-### Garden Description
+## Garden Description
 
 The house was laid out around a peristyle that may have had a garden. 12 columns surrounded the courtyard, with three semicircular pools extending into it.
 
-### Plans
+## Plans
 
 {{< image src="small_house_with_peristyle_and_basins_fig_1.png" alt="Plan of Small House with peristyle and basins in Portus Magnus. Square in overall aspect, front side of the house faced almost due east. A small entrance was at the southern end of this wall, with the square-sided atrium occupying a corner of the house and opening into the large central peristyle. Other rooms surrounded this rectangular peristyle on all sides, forming the square shape of the building. Only two of these rooms (those in the southwest corner of the house) are linked by an interior hallway, with the other ten opening only into the peristyle." title="Fig. 1: Plan of Small House with peristyle and basins in Portus Magnus (Rights Statement)">}}
 
-### Images
+## Images
 
-### Dates
+## Dates
 
-#### Excavation Dates
+## Excavation Dates
 
-### Bibliography
+## Bibliography
 
 * S. Gsell, Monuments Antiques de l’Algérie, Paris, 1901, p. 19-21, fig. 87. [worldcat](https://www.worldcat.org/title/monuments-antiques-de-lalgerie-tome-second/oclc/491461100)
 
-#### Pleiades ID
+## Pleiades ID
 
 
-#### TGN ID
+## TGN ID
 
-### Contributor
+## Contributor
 
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
-### Publication date
+## Publication date
 
 <!--07 July 2020-->
 

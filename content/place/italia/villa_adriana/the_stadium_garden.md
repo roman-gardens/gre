@@ -35,7 +35,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -48,7 +48,7 @@ The realization of this magnificent residence must have been a cherished dream o
 The Stadium-garden (Fig. 1, n. 4)
 [Stadium-garden at Hadrian's Villa](https://pleiades.stoa.org/places/190433997)
 
-### Keywords
+## Keywords
 
 - [flower gardens](http://vocab.getty.edu/page/aat/300008135)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
@@ -61,7 +61,7 @@ The Stadium-garden (Fig. 1, n. 4)
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [tufa](http://vocab.getty.edu/page/aat/300011712)
 
-### Garden Description
+## Garden Description
 
 Already widely documented, published and discussed, it was surveyed, excavated and reconstructed by A. Hoffman (HOFFMAN 1980). His book is an outstanding and very important work but we can't accept all of his hypotheses, and namely we can't believe the existence of an impossible central basin (HOFFMAN 1980, p. 67, plt. 50. 1). The place, picked for it by Hoffman, is a square area where tufa is surfacing (Fig. 12, d). All the excavations put in evidence that only a thin layer of soil (10 to 5 cm high) covered the rock (JASHEMSKI, SALZA PRINA RICOTTI 1987-88, pp. 151-154, fig. 4; SALZA PRINA RICOTTI 1998, pp. 383-385, fig. 14). Now it stands to reason that, if there had been a basin, it must have had a decorative coating of marble or mosaic. In this case the tufa would have been first smoothed and after that leveled with a thick layer of mortar. But there is no trace of leveling or of mortar here. The surface of the rock is irregular and left as it was in nature. It is difficult to understand how, with this kind of rocks nearly surfacing, anybody could have imagined to find the depth necessary to create a basin. How didn't he calculate the thickness of the layer of concrete necessary to create a horizontal smooth plane, which, as the higher peaks of the rock were at 5 cm from the soil's surface, had to be 6 cm thick at least? How didn't he realize that, to keep the water in, he had to spread over the concrete a layer of at least 2 cm of impervious *opus signinum*? Then he had to cover it with another layer of mortar necessary for fixing the chosen flooring, and at last, add from 1 to 3 cm of mosaic or marble. There would never have been any place left, not even for enough water to moisten the surface.
 
@@ -73,7 +73,7 @@ Meanwhile on the northern end of the Stadium the area between three luxurious ro
 
 On the opposite side (Figg. 12, H; 16), another garden - an emicycle - imitated the part which, in a real Stadium, was occupied by the public. Only this one was a magnificent *nymphaeum* (HOFFMAN 1980, pp. 000-000). A canalization, coasting the palace building, circled the top of the emicycle, and water slided from it on the white marble steps of eight small waterfalls. Amid them, hedges of box trees, neatly cut, well groomed, and set in big mortar containers, took the place of the spectators' seats. At the bottom, in a small grotto, a fountain collected the falling water, and emptied it in the nearby semicircular basin, concluding with it this splendid water-theater. A spectacular garden indeed.  
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
@@ -83,21 +83,21 @@ On the opposite side (Figg. 12, H; 16), another garden - an emicycle - imitated 
 
 {{< image src="16_great_nymphaeum.jpg" alt="Plan of the Great Nymphaeum in the Stadium-garden at Hadrian's Villa" title="Fig. 16: Plan of the Great Nymphaeum in the Stadium-garden, Eugenia Salza Prina Ricotti." >}}
 
-### Images
+## Images
 
 {{< image src="14_northern_garden.jpg" alt="Photograph of the Northern Garden in the Stadium-garden at Hadrian's Villa" title="Fig. 14: Northern Garden, Eugenia Salza Prina Ricotti." >}}
 
 {{< image src="15_southern_garden.jpg" alt="Photograph of the Southern Garden in the Stadium-garden at Hadrian's Villa" title="Fig. 15: Southern Garden, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -122,21 +122,21 @@ unspecified
 * E. Salza Prina Ricotti, "The Importance of Water in Roman Garden Triclinia," in *Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection)*, Dumbarton Oaks 1987, pp. 178-180, fig. 21-28, 35-37. [(worldcat)](http://www.worldcat.org/oclc/887179596)
 * E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 225-231. [(worldcat)](http://www.worldcat.org/oclc/46784026)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Stadium-garden at Hadrian's Villa](https://pleiades.stoa.org/places/190433997)
 <!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

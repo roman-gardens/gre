@@ -23,7 +23,7 @@ tags:
 [Ostia]({{<relref ".">}}) \
 [Ostia](https://pleiades.stoa.org/places/422995)
 
-### Location Description
+## Location Description
 
 [Ostia Antica](https://en.wikipedia.org/wiki/Ostia_Antica), the port-city of Rome, was situated at the mouth ([*ostium*](https://en.wiktionary.org/wiki/ostium#Latin)) of the [Tiber](https://en.wikipedia.org/wiki/Tiber), where it flowed into the [Tyrrhenian sea](http://vocab.getty.edu/page/tgn/1112319). Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7<sup>th</sup> century by [king Ancus Marcius](https://en.wikipedia.org/wiki/Ancus_Marcius); archaeological evidence shows that the first settlement was founded as a *colonia maritima* in the 4<sup>th</sup> century BCE. and that it was already acting as the harbour of Rome in the 3<sup>rd</sup> century BCE.
 
@@ -45,7 +45,7 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
-### Location Plan
+## Location Plan
 
 {{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
 
@@ -54,31 +54,31 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 Garden beneath the House of the Fishes (Domus dei Pesci) \
 [House of the Fishes](https://pleiades.stoa.org/places/223974300)
 
-### Keywords
+## Keywords
 
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 - [terracotta (clay material)](http://vocab.getty.edu/page/aat/300010669)
 - [water supply systems](http://vocab.getty.edu/page/aat/300008618)
 
-### Garden Description
+## Garden Description
 
 In the course of recent excavations in a room (a) of this house a probable garden area was uncovered (Fig. 1). Only its southern limits, represented by the perimeter wall of an otherwise unidentified building, could be traced. The archaeological sequence established by the [stratigraphy](https://en.wikipedia.org/wiki/Stratigraphy) of this garden area dates it between the early 2nd and early 3rd century CE. It is characterized by a series of superimposed levels of beaten earth, interrupted by small channels, [postholes](https://en.wikipedia.org/wiki/Posthole) and larger pits.
 
 One significant level of these successive transformations of the area is represented by a layer which was cut to provide the support for a kind of rectangular [terracotta](http://vocab.getty.edu/page/aat/300010669) container. It rested directly on the earth, and was perhaps used as a watering basin. Probably connected with this object is a small channel running parallel to it, 10 cm deep and 30 cm wide, paved with pottery fragments. To the south of this channel a pit was located, its edge lined with pottery fragments. It is flanked by two smaller and shallower holes (respectively 12 and 16 cm in diameter), perhaps for small shrubs or poles. Probably slightly later is another layout of the garden, represented by a beaten earth level cut by a pit (*c*.22 cm wide, 10 cm deep). Found embedded inside it was a large, upturned upper part of a [Dressel 20](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=83) [amphora](https://en.wikipedia.org/wiki/Amphora#cite_note-12), possibly used as a planting pot.
 
-### Plans
+## Plans
 
 {{< image src="ostia_fig16_better_colored.jpg" alt="Plan of the Garden beneath the House of the Fishes" title="Fig. 1: Plan (after Becatti, 1961)." >}}
 
-### Dates
+## Dates
 
 between the early 2nd and early 3rd century CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
@@ -92,20 +92,20 @@ unspecified
 * Giovanni Becatti, *Case ostiensi del tardo impero*, 1961, pp. 18-20. [(worldcat)](http://www.worldcat.org/oclc/899106405)
 * F. Zevi et al., *Notizie degli scavi di antichità*, in press. [(worldcat)](http://www.worldcat.org/oclc/8340098)
 
-#### Pleiades ID
+## Pleiades ID
 
 [House of the Fishes](https://pleiades.stoa.org/places/223974300)
 
-#### TGN ID
+## TGN ID
 
 [Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
-### Contributor
+## Contributor
 
 [Stella Falzone](https://www.cespro-ostia.org/stella-falzone) <!-- is this a good website for Falzone? -->
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

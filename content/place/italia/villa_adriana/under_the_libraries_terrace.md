@@ -26,7 +26,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -38,36 +38,36 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Garden arrangement under the Libraries' terrace (Fig. 1, n. 9)
 
-### Keywords
+## Keywords
 
 - [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
 
-### Garden Description
+## Garden Description
 
 The principal element of this garden (Fig. 28) is the sustaining wall of the overhanging terrace, a kind of theater scenery decorated by a series of 23 alternatively semicircular and square niches (Fig. 29).
 
 However the garden did not occupy the entire plateau. A substantial concentration of lead is found only in the area set in front of the sustaining wall where a garden with its flowerbeds must have been set, while the most northern part of the plateau, where lead is scantily present, must have been occupied by trees and bushes which did not need much watering (SALZA PRINA RICOTTI 1994-95, fig. 7).
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
 {{< image src="28_under_libraries.jpg" alt="Plan of the Garden under the Libraries at Hadrian's Villa" title="Fig. 28: Plan of the Garden under the Libraries, Eugenia Salza Prina Ricotti." >}}
 
-### Images
+## Images
 
 {{< image src="29_nymphaeum.jpg" alt="Photograph of the Nymphaeum of the Terraced garden under the Libraries at Hadrian's Villa" title="Fig. 29: Nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -87,21 +87,21 @@ unspecified
 <!-- Bibliography for Garden Description -->
 * E. Salza Prina Ricotti, "Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67 (1994-95), pp. 69-85, fig. 7. [(worldcat)](http://www.worldcat.org/oclc/1006002216) <!-- link to specific issue needed -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

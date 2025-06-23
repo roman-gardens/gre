@@ -38,7 +38,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 
 {{< image src="cuicul_house_of_castorius.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
-### Location Description
+## Location Description
 
 The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.
 
@@ -50,7 +50,7 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 
 House of Europa, Central District (Maison d'Europe, Quartier Central)
 
-### Keywords
+## Keywords
 
 - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
@@ -61,7 +61,7 @@ House of Europa, Central District (Maison d'Europe, Quartier Central)
 - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
 - [piscinae](http://vocab.getty.edu/page/aat/300375619)
 
-### Garden Description
+## Garden Description
 
 This house of irregular shape (Plan view, Fig. 1), rested against the ancient city wall, transformed into a decorative wall for the Severian Forum, and between two large cardines. It was excavated in 1911.
 
@@ -69,35 +69,35 @@ We can see the complex building of Late Antiquity (1500 m2), centered around the
 
 The  L shaped space between the fish pool and the columns was probably planted.
 
-### Plans
+## Plans
 
 {{< image src="house_of_castorius_plan1.jpg" alt="Plan of the House of Castorius." title="Fig. 1: Plan of the House of Castorius (Blanchard-Lemée, M., 1975, fig. 4)">}}
 
-### Images
+## Images
 {{< image src="house_of_castorius_photo1.jpg" alt="Southwest corner of the peristyle XVI, the L shaped planted area." title="Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)">}}
 
 {{< image src="house_of_castorius_photo2.jpg" alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool." title="Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)">}}
 
-### Dates
+## Dates
 5th century
 
-#### Excavation Dates
+## Excavation Dates
 1911
 
-### Bibliography
+## Bibliography
 *  Blanchard-Lemée, M., *Maisons à mosaïques du quartier central de Djemila (Cuicul)*, Paris, 1975, pp. 158-161. [(worldcat)](http://www.worldcat.org/oclc/461390883)
 *  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](http://www.worldcat.org/oclc/1090653355)
 
 
-#### Pleiades ID
+## Pleiades ID
 [Cuicul](https://pleiades.stoa.org/places/305068)
-#### TGN ID
+## TGN ID
 
-### Contributor
+## Contributor
 
 [Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)
 
-### Publication date
+## Publication date
 21 Apr 2021
 <!--07 July 2020-->
 

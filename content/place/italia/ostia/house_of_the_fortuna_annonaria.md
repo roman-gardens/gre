@@ -26,7 +26,7 @@ tags:
 [Ostia]({{<relref ".">}}) \
 [Ostia](https://pleiades.stoa.org/places/422995)
 
-### Location Description
+## Location Description
 
 [Ostia Antica](https://en.wikipedia.org/wiki/Ostia_Antica), the port-city of Rome, was situated at the mouth ([*ostium*](https://en.wiktionary.org/wiki/ostium#Latin)) of the [Tiber](https://en.wikipedia.org/wiki/Tiber), where it flowed into the [Tyrrhenian sea](http://vocab.getty.edu/page/tgn/1112319). Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7<sup>th</sup> century by [king Ancus Marcius](https://en.wikipedia.org/wiki/Ancus_Marcius); archaeological evidence shows that the first settlement was founded as a *colonia maritima* in the 4<sup>th</sup> century BCE. and that it was already acting as the harbour of Rome in the 3<sup>rd</sup> century BCE.
 
@@ -48,7 +48,7 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
-### Location Plan
+## Location Plan
 
 {{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
 
@@ -56,7 +56,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 House of the Fortuna Annonaria
 
-### Keywords
+## Keywords
 
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 - [bucrania](http://vocab.getty.edu/page/aat/300030853)
@@ -77,7 +77,7 @@ House of the Fortuna Annonaria
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 - [water wells](http://vocab.getty.edu/page/aat/300152327)
 
-### Garden Description
+## Garden Description
 
 The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden (Fig. 1, a) has [travertine](http://vocab.getty.edu/page/aat/300011329) [columns](http://vocab.getty.edu/page/aat/300001571) on three sides. The fourth side coincides with the perimeter wall of the house, which forms part of the original plan, dating to the 2nd century CE. The last phase of the [*domus*](http://vocab.getty.edu/page/aat/300005506), lavishly decorated with precious marbles, dates to the 4th century CE. Against the rear wall of the garden is a brick [niche](http://vocab.getty.edu/page/aat/300002704) (h. 194 cm.; w. 114 cm.) containing a statue of [Juno](https://en.wikipedia.org/wiki/Juno_(mythology)) or [Demeter](https://en.wikipedia.org/wiki/Demeter) and two benches in [*opus listatum*](https://en.wikipedia.org/wiki/Opus_vittatum) (w. 41 cm.; preserved h. 28 cm.). “The area inside the peristyle must undoubtedly have been kept as a garden (Figs. 2 and 3). The remains of a rectangular basin (3.10x5.40 m.) with drainage outlet at its north-east corner were found at its center” (Becatti).
 
@@ -89,7 +89,7 @@ The large apsidal reception room ([*oecus*](http://vocab.getty.edu/page/aat/3000
 
 The garden also forms the backdrop to the rooms in the east part of the house, a [*triclinium*](http://vocab.getty.edu/page/aat/300004359) (Fig. 1, c) and a heated cubicle (Fig. 1, d), lit by a large window and decorated with a lavish black and white [mosaic](http://vocab.getty.edu/page/aat/300015342) floor with mythological scenes.
 
-### Figures
+## Figures
 
 {{< image src="ostia_fig20_better_colored.jpg" alt="Plan of the Fortuna Annonaria" title="Figure 1: Plan (after Boersma 1985)." >}}
 
@@ -99,15 +99,15 @@ The garden also forms the backdrop to the rooms in the east part of the house, a
 
 {{< image src="ostia_fig23.jpg" alt="Well head with bucrania" title="Figure 4: Well head with bucrania (PA-OAnt, Photo Archive)." >}}
 
-### Dates
+## Dates
 
 2nd century CE to 4th century CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
@@ -124,21 +124,21 @@ unspecified
 * Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, 1996, pp. 123-124. [(worldcat)](http://www.worldcat.org/oclc/797420782)
 * E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 82-84. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Ostia](https://pleiades.stoa.org/places/422995)
 <!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
-#### TGN ID
+## TGN ID
 
 [Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
-### Contributor
+## Contributor
 
 Elizabeth J. Shepherd
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

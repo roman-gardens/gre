@@ -42,7 +42,7 @@ categories:
 
 House of the Fruit Orchard; Casa del Frutteto; Dei Cubicoli Floreali (I.ix.5)
 
-### Keywords
+## Keywords
 
 - [archaeological garden](#)
 - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
@@ -55,7 +55,7 @@ House of the Fruit Orchard; Casa del Frutteto; Dei Cubicoli Floreali (I.ix.5)
 - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
 - [trellises](http://vocab.getty.edu/page/aat/300006785)
 
-### Garden Description
+## Garden Description
 
 A *portico* with three columns, red on the bottom, white on the top, enclosed this *peristyle* garden (a) on the north, east and south sides. The excavating work in 1951 revealed a cistern opening at the edge of the north *portico* and a gutter on the north, east and south side of the garden. Paintings of orchards adorned two small *cubicula* (b and c) and gave this house its name.
 
@@ -72,7 +72,7 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
@@ -81,15 +81,15 @@ NEW WAY ↓↓↓↓
 <!--### Images-->
 
 
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 1951
 
-### Bibliography
+## Bibliography
 
 * <span style="color:green">Jashemski, *Gardens*, 1:74-77 and figs. 117, 118, 120, 122 on p. 74-76, fig. 126 on p. 78, figs. 171-173 on pp. 106-107, and fig. 408 on p. 274. [(worldcat)](http://www.worldcat.org/oclc/884024123)</span>
 * Idem, *Gardens*, vol.II, pp. 44, <span style="color:green">317-320. </span>[(worldcat)](http://www.worldcat.org/oclc/921816405)
@@ -108,19 +108,19 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
-### Contributor
+## Contributor
 
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

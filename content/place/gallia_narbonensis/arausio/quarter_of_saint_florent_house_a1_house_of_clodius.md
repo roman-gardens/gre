@@ -13,12 +13,12 @@ categories:
  - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
 [Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [arausio]({{<relref ".">}}) \
 [arausio](https://pleiades.stoa.org/places/148054)
 
-### Location Description
+## Location Description
 
 <!--### Location Description-->
 
@@ -48,7 +48,7 @@ Quarter of Saint-Florent – House A1, House of Clodius
 
 
 
-### Keywords
+## Keywords
 
 - decumanus
 - [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
@@ -60,7 +60,7 @@ Quarter of Saint-Florent – House A1, House of Clodius
 
 
 
-### House Description
+## House Description
 
 House A1, called the House of Clodius, is bordered on the north by a secondary *decumanus* and has a common wall with other houses on three sides. It seems to have occupied an area of a little more than 450 square meters, but exploration is incomplete on the northeast because of the limits imposed on the excavation. The edifice reached us in very bad condition with many of the stones of its walls carried off. It was built in the Augustan period, somewhere between 10 B.C. and 10 A.D. and was destroyed in 20-30 A.D., perhaps in a flood that struck the town in about 30, as in the quarter of the Cours Pourtoules. In one of the rooms, an inscription in tesserae reads CLODIVS, perhaps gives the name of the proprietor.
 
@@ -72,13 +72,13 @@ The presumed *triclinium* opened through a wide entrance, flanked on either side
 
 
 
-### Plans
+## Plans
 
 
 {{< image src="quarter_of_saint_florent_house_a1_house_of_clodius.png" alt="Plan of Quarter of Saint-Florent – House A1, House of Clodius" title="Plan of Quarter of Saint-Florent – House A1, House of Clodius" >}}
 
 
-### Dates
+## Dates
 B.C 10-A.D 10 Built
 A.D 20-30 Destroyed
 
@@ -86,25 +86,25 @@ A.D 20-30 Destroyed
 
 
 
-### Bibliography
+## Bibliography
 
 1. Bellet, Michel-Edouard. *Orange Antique: Monuments Et Musée*. Paris: Imprimerie nationale, 1991, P. 229-239 [(worldcat)](http://www.worldcat.org/oclc/24832885)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Narbonensis (province)](https://pleiades.stoa.org/places/981537)
 
-#### TGN ID
+## TGN ID
 
 [Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
 [Vaucluse (inhabited place)](http://vocab.getty.edu/page/tgn/7599818)
 
-### Contributor
+## Contributor
 
 [Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-### Publication date
+## Publication date
 
 
 21 Apr 2021

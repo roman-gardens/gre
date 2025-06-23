@@ -27,7 +27,7 @@ tags:
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -36,31 +36,31 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula VII]({{<relref ".">}})
 
-### Keywords
+## Keywords
  - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
  - [palaestrae](http://vocab.getty.edu/page/aat/300007301)
 
 
-### Garden Description
+## Garden Description
 Park-like areas were located between the Great [Palaestra](http://vocab.getty.edu/page/aat/300007301) and the Amphitheater and to the north. Here booths were set up under trees or awnings and a carnival atmosphere existed as depicted in a painting (Mus. Naz. inv. no. 112 222) found in the [peristyle](http://vocab.getty.edu/page/aat/300080971) of house I.3.23. Two huge root cavities were found in front of the [palaestra](http://vocab.getty.edu/page/aat/300007301) by Maiuri, although only one was recorded in his plan, and six trees grew in a row on the north side of the [palaestra](http://vocab.getty.edu/page/aat/300007301).
 
 
-#### Pleiades ID
+## Pleiades ID
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 [Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
 
 
-### Bibliography
+## Bibliography
 * Jashemski, W.F. *Gardens of Pompeii*, vol.I, pp. 13-14, 161-162 [(worldcat)](http://www.worldcat.org/oclc/884024123)
 * Jashemski, W.F. *Gardens of Pompeii*, vol.II, pp. 91-92 [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Maiuri, A. *Notizie degli scavi di antichità*, p.194 [(worldcat)](http://www.worldcat.org/oclc/1646037)
 
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

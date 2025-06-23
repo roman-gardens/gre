@@ -17,7 +17,7 @@ categories:
 
 <!--- Content of Province heading --->
 
-### Province Description
+## Province Description
 
 <!-- DESCRIPTION -->
 **Introduction Needed**
@@ -46,11 +46,11 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- May be left blank for now -->
 
 
-### Dates
+## Dates
 <!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
 <!-- If no date, use "unspecified" -->
 
-### Bibliography
+## Bibliography
 
 <!-- 
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL) 
@@ -60,7 +60,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
@@ -70,15 +70,15 @@ A sublocation is any area larger than an individual garden, but located within a
 
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
 
-### Contributor
+## Contributor
 
 <!-- [AUTHOR_NAME](AUTHOR_LINK) -->
 
-#### ORCID
+## ORCID
 
 <!-- [ORCID](https://orcid.org/ORCID) -->
 
-### Publication date
+## Publication date
 <!-- Format: dd MONTH_NAME yyyy -->
 
 <!-- DATE -->

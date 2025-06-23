@@ -25,7 +25,7 @@ Hispania Baetica
 [Italica]({{<relref ".">}}) \
 [Italica](https://pleiades.stoa.org/places/256231)
 
-### Location Description
+## Location Description
 
 In 206 BC Publius Cornelius Scipio settled wounded veterans of the battle of Ilipa in an existing Turdentanian town which he renamed Italica to remind the settlers and their descendants of their origins.  Three centuries later, it was still a town of some 14 hectares, less than a fourth the size of Pompeii and much smaller than neighboring [Hispalis](https://pleiades.stoa.org/places/256210) (Sevilla) or [Corduba](https://pleiades.stoa.org/places/256128).  Little is known of this town archaeologically because it lies under modern Santiponce.
 
@@ -35,7 +35,7 @@ Italica underwent a major expansion during the reign of the emperor Hadrian, a n
 
 House of Hylas
 
-### Keywords
+## Keywords
 
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
@@ -46,7 +46,7 @@ House of Hylas
 <!-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)-->
 
 
-### Garden Description
+## Garden Description
 
 This house, with three garden areas, is just east of the Santiponce cemetery.  The principal garden, to the south, had a fountain with a rectangular basin in the center. The walls of the basin were covered with mosaics representing fish and molluscs. To the east opened a triclinium, identifiable by the U-shaped design of the floor mosaic. To the north of the principal garden was a large room with a double opening onto the garden.  It could well have been either a reception room or a second triclinium.  
 
@@ -55,11 +55,11 @@ To the east of this room was a second garden; low walls with the columns of the 
 To the west of the central reception room or triclinium was the third garden, which survives in much worse condition than the eastern one. It also likely had a peristyle and certainly it had a small rectangular pool in the middle.  
 
 
-### Maps
+## Maps
 
 {{< image src="HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
 
-### Images
+## Images
 
 
 {{< image src="XXXX.jpg" alt="Fig. 1: Photograph looking northeast over a pool in the west garden. (Rights Statement)" >}}
@@ -67,11 +67,11 @@ To the west of the central reception room or triclinium was the third garden, wh
 {{< image src="XXXX.jpg" alt="Fig. 2: Plan of the House of Hylas. (Rights Statement)" >}}
 
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](http://www.worldcat.org/oclc/882602957)
 * A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](http://www.worldcat.org/oclc/638777432)
@@ -84,16 +84,16 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [House of Hylas at Italica]{{<relref ".">}}) \
 [House of Hylas at Italica](https://pleiades.stoa.org/places/634946753)
 
-#### TGN ID
+## TGN ID
 [Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
 
-### Contributor
+## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
-### Publication date
+## Publication date
 
 21 Apr 2021

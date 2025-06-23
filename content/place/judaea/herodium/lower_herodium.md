@@ -31,7 +31,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 [Herodium]({{<relref ".">}}) \
 [Herodium](https://pleiades.stoa.org/places/687916)
 
-### Location Description
+## Location Description
 Herodium
 
 Herod the Great’s primary residence and burial place appears to have been this large palace complex 15 km southwest of Jerusalem.  Here his court was within easy reach of the city, and on clear days the palace and the Mt. of Olives are visible in both directions. Herodium was an entirely new administrative and residential complex, commemorating his military victory over Antigonus for control of Jerusalem in 40 BCE.  Herodium was begun c. 23-20 BC and offered a Herod a range of facilities in which he could perhaps live and conduct business more freely here than in Jerusalem. (Jewish Antiquities, XV, 323-325) The palace has two primary residential areas: the fortified palace atop a natural, but raised hilltop; and an unfortified palace that spans a gentle valley below. (Fig. 1)  (Josephus Jewish War I, 419-421; Jewish Antiquities, XV, 323-325).
@@ -54,12 +54,12 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Royal Garden
 
-### Keywords
+## Keywords
 
 - [pleasure garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=4&subjectid=300008115)
 - [walled garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=5&subjectid=300008129)
 
-### Garden Description
+## Garden Description
 Lower Herodium
 
 Lower Herodium (Fig. 1C) comprises several units. Here the central focus is the large pool, the water of which was supplied by a 6 km long aqueduct built by Herod from the spring at the modern village of Artas. The pool is set into a huge garden terrace 120 X 110 m. in size. It was constructed by blocking and leveling a whole section of a valley with up to 8 m of fill. A stepped retaining wall, like a dam, supports the terrace to the east of the garden, as well as two long halls, one on the garden level and the other below, looking down the valley. The garden itself is surrounded on three sides (north, west and south) by wide colonnades situated about 1.5m higher than the garden. The pool was probably used for swimming, for small boats, as a water reservoir, and as a central architectural focus at “the heart” of Lower Herodium. A tholos-type pavilion topped the circular stone foundation (13.5 m in diameter) exposed in the center of the pool.  The majority of the buildings at Lower Herodium, still largely unexcavated, are laid out in a “U” shaped cluster around this large garden.
@@ -68,11 +68,11 @@ A limited examination of the courtyard area by K. Gleason in December 1985 suppo
 
 
 <!--
-### Maps
+## Maps
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Plans
+## Plans
 
 {{< image src="ASIA_JUD_HERODIUM _1.jpg" alt="Fig. 1:Plan of the complex at Herodium showing the Fortress Palace with its small peristyle garden (A), the Tomb Garden (B) and the Lower Palace with its central pool and cultivated grounds (C) (Yaniv Korman after Netzer)." title="Fig. 1:Plan of the complex at Herodium showing the Fortress Palace with its small peristyle garden (A), the Tomb Garden (B) and the Lower Palace with its central pool and cultivated grounds (C) (Yaniv Korman after Netzer)" >}}
 
@@ -80,11 +80,11 @@ A limited examination of the courtyard area by K. Gleason in December 1985 suppo
 
 {{< image src="Latimer_fig_15_or_10.1b.jpg" alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." title="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." >}}-->
 
-### Dates
+## Dates
 
 30 BCE - 60 CE
 
-### Bibliography
+## Bibliography
 
 * E. Netzer, “Greater Herodium” in Qedem, Monographs of the Institute of Archaeology, The Hebrew University of Jerusalem 13, 1981 [(worldcat)](https://www.worldcat.org/title/greater-herodium/oclc/470633336&referer=brief_results)
 * E. Netzer The Palaces of the Hasmoneans and Herod the Great, Jerusalem: The Israel Exploration Society, 1999, 98-107 [(worldcat)](https://www.worldcat.org/title/palaces-of-the-hasmoneans-and-herod-the-great/oclc/1089147869&referer=brief_results)
@@ -97,22 +97,22 @@ A limited examination of the courtyard area by K. Gleason in December 1985 suppo
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Herodeion](https://pleiades.stoa.org/places/687916)
 
-#### TGN ID
+## TGN ID
 
 [Judean Desert (desert)](http://vocab.getty.edu/page/tgn/8713913)
 
-### Contributor
+## Contributor
 
 [Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
 
 [Kathryn L. Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)
 ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

@@ -28,7 +28,7 @@ Region IV
 
 [Hadrian's Villa](https://pleiades.stoa.org/places/423127)
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -40,13 +40,13 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Garden between the *nymphaeum* on the E side of the Academy and the *Praetorium* (Fig. 1, n. 24)
 
-### Keywords
+## Keywords
 
 - [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
 - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
 
-### Garden Description
+## Garden Description
 
 These gardens, (Fig. 72) never completed, would probably have covered 35.000 square meters. One extended itself between the impressive Nymphaeum waterfall (Fig. 73) set at the eastern side of the Academy and the noble upper part of the so-called *Praetorium* where a beautiful *exedra* occupied the center of an elegant pavilion (SALZA PRINA RICOTTI 1998, pp. 388-390, fig. 17; SALZA PRINA RICOTTI 2000, pp. 377-381, fig. 137). The two elements faced each other at a distance of 347 m. The minimal presence of lead in the soil of this area and its position connected with the palatial Academy - which now, due to the results of the soil analyses, we know was never completed or inhabited – explain what happened. After the *nymphaeum* with its beautiful waterfalls (Fig.74) and the facing *Praetorium* pavilion had been erected, Hadrian died. Everything stopped and Villa Adriana was never completed. Thus, today we can only see the two principal features of this garden: the pavilion and the *nymphaeum*.
 
@@ -56,7 +56,7 @@ I had the chance to find this *nymphaeum* cleaned from vegetation and therefore 
 
 In a second moment, after the *nymphaeum* had been completed, the first small waterfall on the western side was destroyed and an exit to the Great Carriages Underground Road was created in its place. To understand when this change was done we must keep in mind that, as the last findings about lead content of the archaeological sites' soil prove, the Academy, that was probably destined to Sabina, who - I suspect - returned ailing from her travels with Hadrian and never came to Villa Adriana. She stayed in Rome and there she died. Thus the access of the carriages to this area must have been decided in Hadrian's time, when it was still thought that the residence would have been lived in. The successors of Hadrian; who didn't wish to occupy this part of Villa Adriana, would never have cared to open an access to the underground carriages road. In conclusion this change must have been done between 128 and 136 A.D. It certainly was decided by Hadrian.
 
-### Plans
+## Plans
 
 {{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
@@ -66,15 +66,15 @@ In a second moment, after the *nymphaeum* had been completed, the first small wa
 
 {{< image src="74_academy_nymphaeum.jpg" alt="Perspective rendering of the Academy's nymphaeum, showing waterfalls" title="Fig. 74: Perspective showing the waterfalls of the Academy's nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
@@ -95,21 +95,21 @@ unspecified
 * E. Salza Prina Ricotti, “Adriano: architettura del verde e dell'acqua”, in *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, pp. 388-390, figs. 17. [(worldcat)](http://www.worldcat.org/oclc/636808013)
 * E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 377-381, fig. 137. [(worldcat)](http://www.worldcat.org/oclc/46784026)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
+## TGN ID
 
 [Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
+## Contributor
 
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

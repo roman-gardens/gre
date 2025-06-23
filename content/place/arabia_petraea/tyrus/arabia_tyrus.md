@@ -38,7 +38,7 @@ The Hellenistic/Roman settlement of Tyrus was located in Wadi Seer in the highla
 ## Garden
 Palace of Hyrcanus the Tobiad
 
-### Keywords
+## Keywords
 
 - [artificial islands](http://vocab.getty.edu/page/aat/300386969)
 - [forecourt](http://vocab.getty.edu/page/aat/300004104)
@@ -49,7 +49,7 @@ Palace of Hyrcanus the Tobiad
 - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 
-### Garden Description
+## Garden Description
 This large preserved palace provides a rare glimpse of the kind of luxurious complex built by the late Hellenistic Alexandrian elite.  According to [Josephus](https://en.wikipedia.org/wiki/Josephus) (*Antiquities* [Book 12:228-236](http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus%3Atext%3A1999.01.0146%3Abook%3D12%3Asection%3D228)), Hyrcanus the [Tobiad](https://en.wikipedia.org/wiki/Tobiads) was a Hellenized Jew and Ptolemaic official who had spent considerable time in Alexandria. Remains of the palace’s architecture are disposed on each of three terraces, an arrangement described by Josephus as large, open courtyards (*aulae*) which he adorned with vast gardens, descriptive of a *paradeisos* (paradise garden). The site has been explored by various expeditions, most recently by the Department of Antiquities of Jordan and the French Institute of Archaeology for the Near East under the direction of Fawzi Zayadine and Ernest Will.  Although no garden excavations have been undertaken, the site of the palace illuminates Josephus’ description.
 
 The west side of the uppermost terrace contains the caves described by Josephus as *triclinia*, with doors designed so that only one person could pass through at a time.  A dovecote (*columbarium*), a typical feature of local palaces through the Herodian period, lies at the southern end of the cliff. Other remains of the palace and earlier inhabitation on the site lie on the east side of this terrace.
@@ -58,16 +58,16 @@ The second terrace is largely unexplored but remains of a building have been not
 
 Below the dam, the land drops away dramatically in a series of agricultural terraces leading to a large valley and the Jordan Valley beyond.  The complex was unfinished at the time of Hyrcanus’ death in 169-68 BCE, and the complex eventually came into the properties of [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great).
 
-### Maps
+## Maps
 {{< image src="1_arabia_petraea_map.jpg" alt="Map of Petra location" caption="Fig 1: Map showing the location of ancient Tyrus in Arabia Petraea. Map by L.-A. Bedal, based on [Andrein, with the assistance of EraNavigator](https://commons.wikimedia.org/w/index.php?curid=26047529)" >}}
 
-### Plans
+## Plans
 <!-- {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}} -->
 <!--
  Waiting for plan from K. Gleason
 -->
 
-### Images
+## Images
 <!-- {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}} -->
 <!--
  Waiting for columbarium photo from K. Gleason
@@ -84,10 +84,10 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Dates
+## Dates
 2nd century BCE - 1st century CE (Hellenistic-Early Roman period)
 
-### Bibliography
+## Bibliography
 - Lapp, N. 1993. "ʻIraq al-Amir," In *The New Encyclopedia of Archaeological Excavations in the Holy Land* IV, edited by E. Stern, *et al*, 1254-1257, Jerusalem. [(worldcat)](http://www.worldcat.org/oclc/850884350)
 
 - Lapp, P. W., 1963. “The second and third campaigns at Araq-el-Emir,” *Bulletin of the American Schools of Oriental Research* 171: 8-39.(http://www.jstor.org/stable/1355604)
@@ -100,22 +100,22 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 
 - Zayadine, F. 1997. “Iraq El Amir” In *The Oxford Encyclopedia of the Archaeology of the Near East*, edited by E. Meyers, Oxford. [(worldcat)](https://www.worldcat.org/oclc/1080900665)
 
-#### Periodo ID
+## Periodo ID
 
 [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID)
 
-#### Pleiades ID
+## Pleiades ID
 [Qasr al-Abd at Tyrus](https://pleiades.stoa.org/places/947227732)
 
 
-#### TGN ID
+## TGN ID
 [Araq El-Emir (inhabited place)](http://vocab.getty.edu/page/tgn/5003214)
 
-### Contributor
+## Contributor
 [Kathryn L. Gleason](#) and [Leigh-Ann Bedal](#)
 <!-- [name](https://....) -->
 
-### Publication date
+## Publication date
 
 21 Apr 2021
 

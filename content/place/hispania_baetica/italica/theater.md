@@ -25,7 +25,7 @@ Hispania Baetica
 [Italica]({{<relref ".">}}) \
 [Italica](https://pleiades.stoa.org/places/256231)
 
-### Location Description
+## Location Description
 
 In 206 BC Publius Cornelius Scipio settled wounded veterans of the battle of Ilipa in an existing Turdentanian town which he renamed Italica to remind the settlers and their descendants of their origins.  Three centuries later, it was still a town of some 14 hectares, less than a fourth the size of Pompeii and much smaller than neighboring [Hispalis](https://pleiades.stoa.org/places/256210) (Sevilla) or [Corduba](https://pleiades.stoa.org/places/256128).  Little is known of this town archaeologically because it lies under modern Santiponce.
 
@@ -35,7 +35,7 @@ Italica underwent a major expansion during the reign of the emperor Hadrian, a n
 
 Theater
 
-### Keywords
+## Keywords
 
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
@@ -46,27 +46,27 @@ Theater
 
 
 
-### Garden Description
+## Garden Description
 
 The Italica Theater makes use of the side of a hill to support most of its *gradería*, as do all known theaters in Spain.  It was built in the oldest sector of the city and in a location earlier occupied by a simpler structure.  The theater had a portico behind the *scaena* in which there was a chapel to Isis in the second century AD.  The portico with heavy sandstone columns covered in stucco surrounded a grand courtyard.  At some point low walls were constructed between the columns, and pedestals for honorific statues were placed on top of the low walls.  When the ground level in the courtyard was raised (possibly for the creation of a garden) a wall was built to keep earth from entering the portico.
 
 
-### Maps
+## Maps
 
 {{< image src="HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
 
-### Images
+## Images
 
 
 {{< image src="HIS_BAE_Italica_theater_plan_Notebook.jpg" alt="Fig. 1: Plan of the Theater, from Italica MMCC, page 43. (Rights Statement)" >}}
 
 
 
-### Dates
+## Dates
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](http://www.worldcat.org/oclc/882602957)
 * A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](http://www.worldcat.org/oclc/638777432)
@@ -79,16 +79,16 @@ unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [2224658206]{{<relref ".">}}) \
 [224658206](https://pleiades.stoa.org/places/224658206)
 
-#### TGN ID
+## TGN ID
 [Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
 
-### Contributor
+## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
-### Publication date
+## Publication date
 
 21 Apr 2021

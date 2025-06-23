@@ -24,7 +24,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 [Volubilis]({{<relref ".">}})
 [Volubilis](https://pleiades.stoa.org/places/275740)
 
-### Location Description
+## Location Description
 
 Volubilis was the capital of the province of Mauretania Tingitania. The city was of Punic foundation, located on the edge of a plain that slopes down from the Zerhoun hills. During the reign of Juba II, king of Mauretania, Volubilis knew a prosperous period. He was succeeded by his son, Ptolemy of Mauretania, who was assassinated in 40 CE by Caligula. The kingdom was then divided into two provinces, and Volubilis was elevated to the rank of municipium as a reward for taking the side of Rome during the conflict.
 
@@ -38,7 +38,7 @@ The city rapidly developed and expanded; new temples, baths, civic buildings and
 
 House of the Labors of Hercules (La maison des travaux d'Hercules)
 
-### Keywords
+## Keywords
 
 - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
 - [fountains](http://vocab.getty.edu/page/aat/300006179)
@@ -48,39 +48,39 @@ House of the Labors of Hercules (La maison des travaux d'Hercules)
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [reception rooms](http://vocab.getty.edu/page/aat/300077176)
 
-### Garden Description
+## Garden Description
 
 The House of the Labors of Hercules, dating to the beginning of the second century CE, is located between the cardo maximum, the cardo north II, and the decumanus north I in the northeast neighborhood of Volubilis. The peristyle had a trapezoidal shape and was enclosed on four sides by a portico supported by 12 columns. The space between the columns was spanned by a low wall.  The peristyle is of Rhodian type with higher columns along the side of the oecus that opened into it. In the center of the garden, set slightly closer to the oecus, was an elaborate pool made of recesses that enclosed a masonry fountain ornamented with rectilinear and curved niches. Five reception rooms opened into the garden, among which is the triclinium 5 with its pavement mosaic featuring the Labors of Hercules.
 
-### Plans
+## Plans
 <!--Plan View Image Missing-->
 <!-- {{< image src="IMAGEMISSING" alt="Plan of the House of the Labors of Hercules" title="Fig. 1: Plan of the House of the Labors of Hercules (Rights Statement)">}} -->
 
-### Images
+## Images
 
-### Dates
+## Dates
 
 Second century CE
 
-#### Excavation Dates
+## Excavation Dates
 
-### Bibliography
+## Bibliography
 
 * R. Etienne, Le quartier Nord-Est de Volubilis, Paris, 1960, p. 31- 4, Pl. IV, XLIV, 2. [(haithitrust)](https://catalog.hathitrust.org/Record/001605508)
 
 * R. Thouvenot, “La maison des travaux d'Hercule”, PSAM, 8, p. 69-107, fig. 1. [(worldcat)](http://www.worldcat.org/oclc/458298683)
 
-#### Pleiades ID
+## Pleiades ID
 
 [House of the Labors of Hercules](https://pleiades.stoa.org/places/297059709)
 
-#### TGN ID
+## TGN ID
 
-### Contributor
+## Contributor
 
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
-### Publication date
+## Publication date
 
 <!--07 July 2020-->
 

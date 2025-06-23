@@ -24,7 +24,7 @@ tags:
 [Ostia]({{<relref ".">}}) \
 [Ostia](https://pleiades.stoa.org/places/422995)
 
-### Location Description
+## Location Description
 
 [Ostia Antica](https://en.wikipedia.org/wiki/Ostia_Antica), the port-city of Rome, was situated at the mouth ([*ostium*](https://en.wiktionary.org/wiki/ostium#Latin)) of the [Tiber](https://en.wikipedia.org/wiki/Tiber), where it flowed into the [Tyrrhenian sea](http://vocab.getty.edu/page/tgn/1112319). Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7<sup>th</sup> century by [king Ancus Marcius](https://en.wikipedia.org/wiki/Ancus_Marcius); archaeological evidence shows that the first settlement was founded as a *colonia maritima* in the 4<sup>th</sup> century BCE. and that it was already acting as the harbour of Rome in the 3<sup>rd</sup> century BCE.
 
@@ -46,7 +46,7 @@ Ostia gives us, all things considered, the idea of a heavily built-up city, whic
 
 Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5<sup>th</sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (*Cosmographia*: 25.25-30).
 
-### Location Plan
+## Location Plan
 
 {{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
 
@@ -54,7 +54,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 Schola of Trajan
 
-### Keywords
+## Keywords
 
 - [colonnades](http://vocab.getty.edu/page/aat/300002613)
 - [courtyards](http://vocab.getty.edu/page/aat/300004095)
@@ -65,27 +65,27 @@ Schola of Trajan
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [water supply systems](http://vocab.getty.edu/page/aat/300008618)
 
-### Garden Description
+## Garden Description
 
 The monumental complex of the Schola of the Trajan, presumed headquarters of the corporation of the marine carpenters, was built *c*.160-200 and abandoned after the 4th century CE. It was excavated and restored during the winter of 1938-1939. It includes a vast internal [courtyard](http://vocab.getty.edu/page/aat/300004095), which is oblong and marked with an obtuse angle in its median part (Fig. 1, a). Unfortunately, ancient damage and early, inaccurate excavations make it impossible to know if this space was paved or a garden.
 
 An [Ionic](http://vocab.getty.edu/page/aat/300020112) [portico](http://vocab.getty.edu/page/aat/300004145), with a [colonnade](http://vocab.getty.edu/page/aat/300002613) of bricks with stucco, surrounded this internal space. A long and narrow water channel crossed the [peristyle](http://vocab.getty.edu/page/aat/300080971) court of the Schola in all its length. It had a low [parapet](http://vocab.getty.edu/page/aat/300002717), decorated on its internal face by a row of rounded niches, and was faced with marble (much restored) (Fig. 2). Slightly offset, the particular position of this channel provokes a subtle optical correction of the angle, which marks the plan of the building. The channel was reduced, or perhaps even abandoned during the construction of the receding part of the Schola. New excavations since 1998 in the Northern sector of the peristyle court have uncovered an important part of the plumbing network. It must have been used for the [water supply](http://vocab.getty.edu/page/aat/300008618) of this internal space of the Schola, which was probably rich in *jeux d’eau.*
 
-### Figures
+## Figures
 
 {{< image src="ostia_fig18.jpg" alt="Plan of the Schola of the Trajan" title="Figure 1: Plan (from Morard, Wavelet)." >}}
 
 {{< image src="ostia_fig19.jpg" alt="Photo of the courtyard of the Schola of Trajan and part of the House with Peristyle, reconstructed after 1938 excavations" title="Figure 2: The courtyard of the Schola of Trajan and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive)." >}}
 
-### Dates
+## Dates
 
 built 160-200 CE and abandoned after the 4th century CE
 
-#### Excavation Date
+## Excavation Date
 
 winter of 1938-1939
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
 * G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
@@ -99,21 +99,21 @@ winter of 1938-1939
 * *Giornale degli Scavi*, 1938, pp. 65-69, 75-81.
 * T. Morard and D. Wavelet, *Mélanges de l'École française de Rome: Antiquité* Tome 114, No. 2 (2002), Rome, pp. 759-815. [(worldcat)](http://www.worldcat.org/oclc/859589040) [hathitrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015068961740&view=2up&seq=183)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Ostia](https://pleiades.stoa.org/places/422995)
 <!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
-#### TGN ID
+## TGN ID
 
 [Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
-### Contributor
+## Contributor
 
 Thomas Morard
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021

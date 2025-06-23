@@ -22,7 +22,7 @@ tags:
 [Italia]({{<relref "../..">}}) \
 [Italia](https://pleiades.stoa.org/places/1052)
 
-### Province Description
+## Province Description
 <!-- DESCRIPTION -->
 The Italian peninsula extending northward to the Alps as recognized by the Romans.
 
@@ -32,7 +32,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
 <!--### Location Description-->
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 <!-- LEAVE THIS BLANK FOR NOW -->
@@ -51,16 +51,16 @@ House 3
 ## Garden
 V.iv.3
 
-### Keywords
+## Keywords
 - [porticoes](http://vocab.getty.edu/page/aat/300004145)
 - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
 - [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
 
 
-### Garden Description
+## Garden Description
 At the rear of this house excavated in 1899 was a courtyard garden (a) with a *portico* on the south. This was supported by one column that was reinforced by a large pillar. The garden was enclosed by a low wall with an opening on the south. A gutter that encircled the edges had a settling basin (0.35 x 0.45 m.; 0.55 m. deep) in the southwest corner. There was no cistern, but a *puteal* stood in the southeast corner.
 
-### Plans
+## Plans
 
 <!--{{< image src="Euro_GaAq_Montreal_Villa de Séviac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." title="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." >}}
 -->
@@ -68,13 +68,13 @@ At the rear of this house excavated in 1899 was a courtyard garden (a) with a *p
 <!--### Images-->
 
 
-### Dates
+## Dates
 Unspecified
 
-#### Excavation Dates
+## Excavation Dates
 1899
 
-### Bibliography
+## Bibliography
 * Jashemski, *Gardens*, vol.II, p. 116.[(worldcat)](http://www.worldcat.org/oclc/1029851777)
 * Mau, *RM* (1901), p. 324.[(worldcat)](http://www.worldcat.org/oclc/1189330863)
 * Pernice, p. 28.[(worldcat)](http://www.worldcat.org/oclc/714016975)
@@ -86,17 +86,17 @@ Unspecified
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 [Italia](https://pleiades.stoa.org/places/1052) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-#### TGN ID
+## TGN ID
 
 
-### Contributor
+## Contributor
 [Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 
 <!--### Related articles-->

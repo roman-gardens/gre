@@ -26,7 +26,7 @@ tags:
 [Pompeii]({{<relref "../..">}}) \
 [Pompeii](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
@@ -35,28 +35,28 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 [Insula III]({{<relref ".">}})
 
-### Keywords
+## Keywords
  - [porticoes](http://vocab.getty.edu/page/aat/300004145)
  - [tablina](http://vocab.getty.edu/page/aat/300004180)
  - [exedrae (interior spaces)](http://vocab.getty.edu/page/aat/300004014)
 
-### Garden Description
+## Garden Description
 Fourteen fluted white columns supported a portico that enclosed this large garden (a) at the rear of the tablinium. A fence had been attached to the outside of the columns as evidenced by holes with metal pieces remaining; the top holes placed 0.75 m. high.  A grand view the length of the garden could be enjoyed from the large exedra (b) to the south, framed by two columns, and many other surrounding rooms had garden views.
 
-### Plans
+## Plans
 {{< image src="fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
 
-#### Pleiades ID
+## Pleiades ID
 [Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
 
-#### TGN ID
+## TGN ID
 [Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
 
-###  Excavation Dates
+##  Excavation Dates
 Unspecified
 
 
-### Bibliography
+## Bibliography
 * Breton, *Pompeia*, p. 453 [(worldcat)](http://www.worldcat.org/oclc/894211341)
 * Dyer, *Pompeii*, p. 435 [(worldcat)](http://www.worldcat.org/oclc/24327166)
 * Fiorelli, *Descrizione di Pompei*, p. 323-324 [(worldcat)](http://www.worldcat.org/oclc/252039996)
@@ -64,9 +64,9 @@ Unspecified
 * Schultz, *Annali dell'Instituto di Corrispondenza Archeologica*, 1838, pp. 200-201, [(worldcat)](http://www.worldcat.org/oclc/263597320)
 * Schultz, *Annali dell'Instituto di Corrispondenza Archeologica*, 1841, p. 120, [(worldcat)](http://www.worldcat.org/oclc/263597320)
 
-### Contributor
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
-### Publication date
+## Publication date
 
 21 Apr 2021

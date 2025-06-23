@@ -32,7 +32,7 @@ draft: false
 
 Garden of the Peristyle of the Julio-Claudian *Domus*, Palatine
 
-### Keywords
+## Keywords
 
 - [brick (construction material)](http://vocab.getty.edu/page/aat/300010463)
 - [colonnade](http://vocab.getty.edu/page/aat/300002613)
@@ -50,7 +50,7 @@ Garden of the Peristyle of the Julio-Claudian *Domus*, Palatine
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 
 
-### Garden Description
+## Garden Description
 
 At the end of the Republican era and the beginning of the Empire, residential dwellings occupied, at least in part, the northeastern corner of the Palatine.  Two distinct excavation areas have revealed the partial remains of one or more [*domus*](https://en.wikipedia.org/wiki/Domus) in the southern part of the [terrace](http://vocab.getty.edu/page/aat/300004182), some 6.5 meters below the present ground level. The two excavated sections have not been joined because of a wide road of Severan date that divides them.  It is not possible, therefore, to ascertain whether the pre-Domitianic remains, on either side of this road, belong to a single *domus*.  It is clear, however, the remains all share several features: obliqueness with respect to the later platform, building materials and techniques, and a luxurious quality.
 
@@ -68,30 +68,30 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 [Garden of the Flavian Imperial Palace]({{<relref"flavian_imperial_palace">}})\
 [Garden of the Temple of Elagabalus]({{<relref"temple_of_elagabalus">}})
 
-### Figures
+## Figures
 
 {{< image src="jc_domus_fig1.jpg" alt="Column base of Julio-Claudian domus" title=" Figure 1. Peristyle column marble base of the Julio-Claudian domus. Photograph from Villedieu et al, 2001, Figure 14." >}}
 
 {{< image src="jc_domus_fig2.jpg" alt="Reconstruction of the Julio-Claudian domus" title="Figure 2. Axonometric reconstruction of the domus peristyle (© J.-M. Gassend, AMU-CNRS, IRAA)." >}}
 
-### Dates
+## Dates
 
 1st century BCE- 1st century CE
 
-### Bibliography
+## Bibliography
 
 * J.-P Morel and F. Villedieu, “Le site de la Vigna Barberini à l’époque néronienne”, *Actes du VIe congrès international Neronia VI, Rome à l’époque néronienne* (Roma 19-23 Mai 1999). [(worldcat)](http://www.worldcat.org/oclc/51441167)
 * J.-P Morel, “Una ricca domus con giardino in età giulio-claudia” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 33-43. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
 
-#### Pleiades ID
+## Pleiades ID
 
 [Palatinus Mons](https://pleiades.stoa.org/places/971691208)
 
-### Contributor
+## Contributor
 
 Jean-Paul Morel\
 Françoise Villedieu
 
-### Publication date
+## Publication date
 
 17 April 2021

@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)
 
-### Keywords
+## Keywords
 
 - [arbors](http://vocab.getty.edu/page/aat/300006781)
 - [barns](http://vocab.getty.edu/page/aat/300004900)
@@ -68,7 +68,7 @@ Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)
 - [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
 - [water supply systems](http://vocab.getty.edu/page/aat/300008618)
 
-### Garden Description
+## Garden Description
 
 Located 6km south-east of Avenches/ Aventicum, the capital of the Helvetian tribe, this site is situated on a small alluvial terrace at the bottom of a hillside. The area is bordered by a stream, the Laret, characterized by a flow, sometimes torrential, that has fluctuated during the past centuries. To the west, on the right bank, stands the rocky spur of Carignan (Fig. 1). Due to the relatively restrictive topography, human settlements favoured the left bank until the Middle Ages.
 
@@ -88,7 +88,7 @@ Whereas the courtyards have offered very few traces for the Early Roman Period, 
 
 After the disappearance of the Antique site, the land continues to be occupied during the Early Middle Ages. The discovery of channels supports the hypothesis that the areas between the new buildings or on their sides, were well enough built to see the creation of an ornamental garden. However, the remains are too disrupted to allow further discussion.
 
-### Maps
+## Maps
 <!--warning these do not seem to appear-->
 {{< image src="EUR_GS_Val_villa1_carroll.jpg" alt="Fig. 1: Vallon location map." title="Fig. 1: Vallon location map. (Rights Statement)" >}}
 
@@ -100,7 +100,7 @@ After the disappearance of the Antique site, the land continues to be occupied d
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-### Images
+## Images
 
 {{< image src="EUR_GS_Val_villa2_carroll.jpg" alt="Fig. 3 : pine wood conduits preserved in one of the channels. Photo Fribourg State Archaeological Service." title="Fig. 3 : pine wood conduits preserved in one of the channels. Photo Fribourg State Archaeological Service. (Rights Statement)" >}}
 
@@ -110,15 +110,15 @@ After the disappearance of the Antique site, the land continues to be occupied d
 
 {{< image src="EUR_GS_Val_villa6_carroll.jpg" alt="Fig. 6 : watercolour of the habitation area integrating the first results obtained by excavating the gardens. Please note the less significant partition between the different courtyards. The cistern at the front of the south building (to the right) is highly hypothetical; it seems rather to be an ornamental pool. Watercolour: Bernard Reymond, Yverdon-les-Bains (Switzerland)." title="Fig. 6 : watercolour of the habitation area integrating the first results obtained by excavating the gardens. Please note the less significant partition between the different courtyards. The cistern at the front of the south building (to the right) is highly hypothetical; it seems rather to be an ornamental pool. Watercolour: Bernard Reymond, Yverdon-les-Bains (Switzerland). (Rights Statement)" >}}
 
-### Dates
+## Dates
 
 Beginning of the 1st c. CE - beginning of the Vth century
 
-#### Excavation Dates
+## Excavation Dates
 
 1985-2000, 2006/2010
 
-### Bibliography
+## Bibliography
 
 <span style="color:red"> No bibliography listed </span>
 
@@ -126,21 +126,21 @@ Beginning of the 1st c. CE - beginning of the Vth century
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+## Pleiades ID
 
 [Germania Superior](https://pleiades.stoa.org/places/981525)
 
-#### TGN ID
+## TGN ID
 
 [Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
 
-### Contributor
+## Contributor
 
 [Michel Fuchs](https://michelefuchs.academia.edu/) (ORCID: [0000-0001-8176-8393](https://orcid.org/0000-0001-8176-8393))
 
 [Jacques Monnier](https://unil.academia.edu/JacquesMonnier) (ORCID: N/A)
 
-### Publication date
+## Publication date
 
 
 21 Apr 2021
