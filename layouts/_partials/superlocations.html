@@ -1,0 +1,15 @@
+{{/* Get locations containing this garden */}}
+{{- $path := split .Path "/" -}}
+
+{{/* List them */}}
+<h2>Places containing this garden</h2>
+<ul class='superlocations'>
+{{- range $i, $v := (collections.Reverse $path) -}}
+    {{- if gt $i 0 -}}
+        {{- if eq $v "place" -}}{{ break }}{{ end -}}
+        {{- $v = partial "romancase.html" $v }}
+        {{ $url := strings.Repeat $i "../" }}
+        <li><a href="{{ $url }}">{{ $v }}</a></li>
+    {{- end -}}
+{{- end -}}
+</ul>

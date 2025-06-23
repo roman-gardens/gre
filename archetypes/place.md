@@ -14,50 +14,37 @@ draft: true
 ## Dates
 <!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
 
-
 ## Garden Description
-
 <!-- This is the main text describing the garden -->
 
-
+<!--
 ## Maps
-
-<!--
 {{< image src="filename.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-
+<!--
 ## Plans
-
-<!--
 {{< image src="filename.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-
+<!--
 ## Images
-
-<!--
 {{< image src="filename.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-
-## Bibliography
 <!--
+## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-
-## Keywords
 <!--
+## Keywords
 - {{< keyword "Example keyword" >}}
 -->
 
-
-## Places
-
 <!--
-Term should be the label used by the linked resource
-
-{{< id vocab="Pleiades" id="" term="" >}}
-{{< id vocab="TGN" id="" term="" >}}
+## Places
+places containing this garden will be listed automatically
+- {{< id vocab="Pleiades" id="" term="" >}}
+- {{< id vocab="TGN" id="" term="" >}}
 -->
