@@ -3,38 +3,16 @@ gre_id: "3b8bd0aa5b"
 aliases: [/id/3b8bd0aa5b]
 type: garden
 title: "Kitchen and Commercial Gardens"
-date: 2020-10-25T10:30:00-04:00
 latlon: [ 37.392022, 25.270238 ]
 author: Monika Trümper
 editor: Jane Millar
+date: 2021-04-21
+modified: 2025-06-23
 draft: false
-
-categories:
- - "Achaea"
-tags:
- - "inscriptions"
- - "market gardens"
 ---
 
-## Province
-
-<!-- cats pajamas -->
-
-[Achaea]({{<relref "..">}})
-
-## Location
-[Delos]({{<relref ".">}}) \
-[Delos](https://pleiades.stoa.org/places/599588)
-
-## Location Description
-Delos is a small island in the center of the Cyclades measuring about five kilometers north-south and 1.3 kilometers east-west at the widest.  In antiquity, it was famous as the birthplace of Apollo. Apollo’s sanctuary, founded in the seventh century B.C., is situated on a small plain next to the main port. It became a principal Panhellenic cult center and always formed the heart of the later settlement and city. The city was under Athenian supremacy in the fifth and fourth centuries B.C. and became independent only in 314 B.C. Although extensive public building occurred during the period of its status as an independent city-state and the island began to develop as a commercial center, the city remained relatively small and was still mainly engaged in local and regional trade with the surrounding Cycladic islands. This changed significantly when the Romans handed control of Delos to Athens in 167 B.C. and declared it a free port. It soon developed into a booming cosmopolitan trade center with merchants coming from all over the Mediterranean world. As a consequence the city grew considerably, mostly to meet the needs of its new purpose. Squares, quays, warehouses, shops, new residential quarters, and clubhouses of foreign associations were constructed, and public buildings and sanctuaries were either renovated and extended or newly built. Although Delos was sacked twice, in 88 B.C. by the troops of Mithridates and 69 B.C. by the pirates under Athenodoros, its desertion during the first century B.C. is predominantly due to the rivalry of increasingly successful Roman ports like Puteoli and Ostia. Life in Delos did not come to an abrupt halt as evidenced by remains of Roman thermae and several Christian basilicas, but it continued on a much smaller scale.
-
-## Garden
-Kitchen and Commercial Gardens
-
-## Keywords
-- [inscriptions](http://vocab.getty.edu/page/aat/300028702)
-- [market gardens](http://vocab.getty.edu/page/aat/300008111)
+## Dates
+5th-2nd century BCE
 
 ## Garden Description
 The inscriptions of the sanctuary of Apollo mention nearly 30 *kepoi* within the period of 433 B.C. to 156/155 B.C., which were either private or belonged to Apollo and were rented or leased. Most of these cannot be localized because they were named after their former owners and with topographical references or surnames unknown today. However, in the years between 167 and 155 B.C., three *kepoi* were situated near identified buildings: the sanctuary of Leto, the Hippodrome, and the Neorion. A fourth was located near the palaestra, the identification of which among the several palaestra-buildings in Delos is contested. The first three *kepoi* were located east of the sanctuary of Apollo in a zone which was regarded as specifically humid and fertile because the Inopos, the main watercourse of Delos, was believed to have passed here before emptying into the Bay of Skardhana to the north. However, it has been shown that the Inopos ended south of the sanctuary of Apollo and could therefore never have irrigated the potential garden zone east of Apollo’s sacred precinct.
@@ -53,8 +31,6 @@ The variety of trees and plants cultivated in ancient Delos is known from the ep
 ## Images
 -->
 
-## Dates
-5th-2nd century BCE
 
 ## Bibliography
 - P. Bruneau, “Deliaca II: No. 31. Les jardins urbains de Délos,” *BCH* 103, 1979: 89-99. [(Persée)](https://www.persee.fr/doc/bch_0007-4217_1979_num_103_1_1979).
@@ -69,24 +45,13 @@ The variety of trees and plants cultivated in ancient Delos is known from the ep
 - M. Brunet, “Le courtil et le paradis,” in: J.-P. Brun and P. Jockey, eds., *Techniques et sociétés en Méditerranée. Hommage à Marie-Claire Amouretti. Collection L’atelier méditerranéen.* Travaux du Centre Camille Jullian, Aix, 2001:157-168. [(worldcat)](http://www.worldcat.org/oclc/708550357).
 - C. Prêtre, ed., *Nouveau choix d'inscriptions de Délos. Lois, comptes et inventaires.* Études épigrapiques 4, 2002. [(worldcat)](http://www.worldcat.org/oclc/470363782).
 
+## Keywords
+- {{< keyword "inscriptions" >}}
+- {{< keyword "market gardens" >}}
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-## Pleiades ID
-[Delos (island)](https://pleiades.stoa.org/places/599588)
-
-## TGN ID
-[Dhílos, Nisís (island)](http://vocab.getty.edu/page/tgn/7011273)
-
-## Contributor
-Monika Trümper (ORCID: [0000-0003-4524-6242](https://orcid.org/0000-0003-4524-6242))
-
-## Publication date
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->
+<!--
+## Places
+places containing this garden will be listed automatically
+- {{< id vocab="Pleiades" id="" term="" >}}
+- {{< id vocab="TGN" id="" term="" >}}
+-->

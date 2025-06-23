@@ -3,9 +3,10 @@ gre_id: "fbded729df"
 aliases: [/id/fbded729df]
 type: place
 title: "Delos"
-date: 2021-04-21
 author: Monika Trümper
 editor: Jane Millar
+date: 2021-04-21
+modified: 2025-06-23
 draft: false
 ---
 
