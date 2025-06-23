@@ -18,9 +18,10 @@
 		{{ end }}
 		<h1 class="post__title">{{ default $thisplace .Title }}</h1>
 		<!-- province/place article? -->
-		{{- if .Content -}}
+		<div class="content post__content clearfix">
 			{{ .Content }}
-		{{- end -}}
+			{{ partial "superlocations.html" . }}
+		</div>
 	</div>
 
 	<!-- List all garden articles under this location -->

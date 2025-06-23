@@ -1,8 +1,9 @@
-{{/* Get locations containing this garden */}}
+{{/* Get locations containing this place/garden */}}
 {{- $path := split .Path "/" -}}
 
+{{- if gt (len $path) 3 -}}
 {{/* List them */}}
-<h2>Places containing this garden</h2>
+<h2>Places containing this {{ .Type }}</h2>
 <ul class='superlocations'>
 {{- range $i, $v := (collections.Reverse $path) -}}
     {{- if gt $i 0 -}}
@@ -13,3 +14,4 @@
     {{- end -}}
 {{- end -}}
 </ul>
+{{- end -}}
