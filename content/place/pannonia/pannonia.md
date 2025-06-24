@@ -14,7 +14,7 @@ categories:
 
 ## Province
 
-[Pannonia](https://pleiades.stoa.org/places/197425)
+- {{< id vocab="Pleiades" id="197425" term="Pannonia" >}}
 
 ## Province Description
 
@@ -42,11 +42,11 @@ The creation of the province of Pannonia can be dated to the years following 9 B
 
 ## Pleiades ID
 
-[Pannonia](https://pleiades.stoa.org/places/197425)
+- {{< id vocab="Pleiades" id="197425" term="Pannonia" >}}
 
 ## TGN ID
 
-[Pannonia (general region)](http://vocab.getty.edu/page/tgn/4008442)
+- {{< id vocab="TGN" id="4008442" term="Pannonia (general region)" >}}
 
 ## Contributor
 

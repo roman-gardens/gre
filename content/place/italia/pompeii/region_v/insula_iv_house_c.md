@@ -21,7 +21,7 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Province Description
 <!-- DESCRIPTION -->
@@ -30,7 +30,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 <!--### Location Description-->
 ## Location Description
@@ -54,11 +54,11 @@ V.iv.c.
 
 ## Keywords
 - [viridarium]{#}
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [tablina](http://vocab.getty.edu/page/aat/300004180)
-- [trellises](http://vocab.getty.edu/page/aat/300006785)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)  
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "trellises" >}}
+- {{< keyword "lararia" >}}  
 
 
 ## Garden Description
@@ -92,11 +92,11 @@ Wooden steps at the rear of this house excavated in 1902 led up to a *viridarium
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 [Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

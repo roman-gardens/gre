@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [caumont_sur_durance]({{<relref ".">}}) \
-[caumont_sur_durance](https://pleiades.stoa.org/places/352400034)
+- {{< id vocab="Pleiades" id="352400034" term="caumont_sur_durance" >}}
 
 ## Location Description
 
@@ -51,11 +51,11 @@ Villa de Muscapeu
 
 ## Keywords
 
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [hypocausts](http://vocab.getty.edu/page/aat/300004277)
-- [orchards](http://vocab.getty.edu/page/aat/300008890)
+- {{< keyword "peristyles" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "hypocausts" >}}
+- {{< keyword "orchards" >}}
 
 
 
@@ -111,12 +111,12 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 
 
 ## Contributor

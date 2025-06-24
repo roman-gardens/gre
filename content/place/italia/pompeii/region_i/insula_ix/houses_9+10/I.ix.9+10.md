@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Sublocation
 
@@ -44,12 +44,12 @@ I.ix.9/10
 
 ## Keywords
 
-- [archaeological garden](#)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [engaged columns](http://vocab.getty.edu/page/aat/300001638)
-- [pilasters](http://vocab.getty.edu/page/aat/300002737)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [stairs](http://vocab.getty.edu/page/aat/300003228)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "engaged columns" >}}
+- {{< keyword "pilasters" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "stairs" >}}
 
 ## Garden Description
 
@@ -94,11 +94,11 @@ unspecified
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

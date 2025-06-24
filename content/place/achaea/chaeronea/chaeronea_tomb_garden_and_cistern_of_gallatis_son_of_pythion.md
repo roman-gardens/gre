@@ -29,7 +29,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Chaeronea]({{<relref ".">}}) \
-[Chaeronea](https://pleiades.stoa.org/places/540701)
+- {{< id vocab="Pleiades" id="540701" term="Chaeronea" >}}
 
 <!--### Location Description
 
@@ -45,8 +45,8 @@ Tomb Garden and Cistern of Gallatis, Son of Pythion
 
 ## Keywords
 
-- [Inscription](#)
-- [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
+- {{< keyword "Inscription" >}}
+- {{< keyword "funerary buildings" >}}
 
 ## Garden Description
 
@@ -76,11 +76,11 @@ probably the first or second century
 
 ## Pleiades ID
 
-[Chaeronea](https://pleiades.stoa.org/places/540701)
+- {{< id vocab="Pleiades" id="540701" term="Chaeronea" >}}
 
 ## TGN ID
 
-[Chaironeia (inhabited place)](http://vocab.getty.edu/page/tgn/7010731)
+- {{< id vocab="TGN" id="7010731" term="Chaironeia (inhabited place)" >}}
 
 ## Contributor
 

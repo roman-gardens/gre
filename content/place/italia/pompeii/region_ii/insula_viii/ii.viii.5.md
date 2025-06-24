@@ -22,11 +22,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -41,10 +41,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Caupona with small bath.
 
 ## Keywords
- - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
- - [cauponae](http://vocab.getty.edu/page/aat/300005208)
- - [tabernae](http://vocab.getty.edu/page/aat/300005366)
- - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "cauponae" >}}
+- {{< keyword "tabernae" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 
 ## Garden Description
@@ -55,10 +55,10 @@ B. Another small garden was found to the rear of the [caupona](http://vocab.gett
 {{< image src="../../fig._62,_plan_of_region_ii,_insula_viii.png" alt="Fig. 62, Plan of Region II, insula viii" title="Fig. 62, Plan of Region II, insula viii" >}}-->
 
 ## Pleiades ID
-[Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
+- {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Dates
 Excavated 1954.

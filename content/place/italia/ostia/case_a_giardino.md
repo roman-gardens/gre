@@ -17,12 +17,12 @@ tags:
 ## Province
 
 [Italia]({{<relref "..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
 [Ostia]({{<relref ".">}}) \
-[Ostia](https://pleiades.stoa.org/places/422995)
+- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 
 ## Location Description
 
@@ -53,14 +53,14 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 ## Garden
 
 Garden Houses (Case a Giardino) \
-[Garden Houses](https://pleiades.stoa.org/places/223974298)
+- {{< id vocab="Pleiades" id="223974298" term="Garden Houses" >}}
 
 ## Keywords
 
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [jeux d’eau](#)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
+- {{< keyword "fountains" >}}
+- {{< keyword "jeux d’eau" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "statues" >}}
 
 ## Garden Description
 
@@ -108,11 +108,11 @@ unspecified
 
 ## Pleiades ID
 
-[Garden Houses](https://pleiades.stoa.org/places/223974298)
+- {{< id vocab="Pleiades" id="223974298" term="Garden Houses" >}}
 
 ## TGN ID
 
-[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
+- {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor

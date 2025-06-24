@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Mauretania]({{<relref "..">}}) \
-[Mauretania Caesariensis (province)(Pleiades)](https://pleiades.stoa.org/places/981532)
+- {{< id vocab="Pleiades" id="981532" term="Mauretania Caesariensis (province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 [Caesarea]({{<relref ".">}}) \
-[Iol Caesarea](https://pleiades.stoa.org/places/295279)
+- {{< id vocab="Pleiades" id="295279" term="Iol Caesarea" >}}
 
 ## Location Description
 
@@ -44,10 +44,10 @@ House of the Tizerine Cape (Maison du Cap Tizerine)
 
 ## Keywords
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "fountains" >}}
 
 ## Garden Description
 
@@ -76,7 +76,7 @@ The northeastern courtyard was most likely a peristyle-garden.  There, a basin p
 
 ## Pleiades ID
 
-[278428163](https://pleiades.stoa.org/places/278428163)
+- {{< id vocab="Pleiades" id="278428163" term="278428163" >}}
 
 ## TGN ID
 

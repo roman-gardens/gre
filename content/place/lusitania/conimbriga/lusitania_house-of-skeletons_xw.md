@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-[Lusitania](https://pleiades.stoa.org/places/1101)
+- {{< id vocab="Pleiades" id="1101" term="Lusitania" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 [Conimbriga]({{<relref ".">}}) \
-[Conimbriga](https://pleiades.stoa.org/places/236443)
+- {{< id vocab="Pleiades" id="236443" term="Conimbriga" >}}
 
 ## Location Description
 
@@ -48,9 +48,9 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Skeletons
 
 ## Keywords
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [axial plan](http://vocab.getty.edu/page/aat/300121971)
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "axial plan" >}}
 
 ## Garden Description
 The peristyle garden of the fourth domus follows a different pattern.  In contrast to the House of the Swastika Mosaic, this house is very squarely centered on the garden. The axis of the entrance bisects the garden and the triclinium on the other side.  A shallow rill with a small exedra on this axis winds around the peristyle, leaving a cultivated rectangle in the center.  In front of the triclinium there is a square pool, also shallow, lined with slabs of limestone and set into the cultivated area but not joined to the rill.
@@ -88,7 +88,7 @@ The houses were excavated around 1940, at a time when there was no thought of re
 
 ## Pleiades ID
 
-[Conimbriga](https://pleiades.stoa.org/places/236443)
+- {{< id vocab="Pleiades" id="236443" term="Conimbriga" >}}
 
 
 <!--### Contributor-->

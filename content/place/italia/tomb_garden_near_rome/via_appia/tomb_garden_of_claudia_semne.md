@@ -17,8 +17,8 @@ categories:
 [Italia]({{<relref "../../../..">}})
 
 ## Location
-[VIA APPIA](https://pleiades.stoa.org/places/356966898)
-[Tomb Garden of Claudia Semne](https://pleiades.stoa.org/places/537932155)
+- {{< id vocab="Pleiades" id="356966898" term="VIA APPIA" >}}
+- {{< id vocab="Pleiades" id="537932155" term="Tomb Garden of Claudia Semne" >}}
 
 <!--### Location Description-->
 
@@ -38,11 +38,11 @@ Tomb Garden of Claudia Semne
 
 ## Keywords
 
-- [aediculae](http://vocab.getty.edu/page/aat/300002574)
-- [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
-- [pavilions](http://vocab.getty.edu/page/aat/300006819)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [vineyard](http://vocab.getty.edu/page/aat/300000248)
+- {{< keyword "aedicules" >}}
+- {{< keyword "funerary buildings" >}}
+- {{< keyword "pavilions" >}}
+- {{< keyword "tombs" >}}
+- {{< keyword "vineyards" >}}
 
 
 
@@ -83,7 +83,7 @@ Unspecified
 
 ## Pleiades ID
 
-[Tomb Garden of Claudia Semne](https://pleiades.stoa.org/places/537932155)
+- {{< id vocab="Pleiades" id="537932155" term="Tomb Garden of Claudia Semne" >}}
 
 
 

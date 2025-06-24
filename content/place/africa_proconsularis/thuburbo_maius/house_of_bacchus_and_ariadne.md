@@ -19,7 +19,7 @@ tags:
  - "basins (vessels)"
  - "root cavities"
  - "pipes (conduits)"
- - "pools (bodies of water)"
+ - "pools"
  - "fountains"
  - "pits (earthworks)"
  - "furniture"
@@ -27,7 +27,7 @@ tags:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 
@@ -35,7 +35,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) \
-[THUBURBO MAIUS (Henchir Kasbat), Tunisia](https://pleiades.stoa.org/places/315220)
+- {{< id vocab="Pleiades" id="315220" term="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
 
@@ -51,17 +51,17 @@ The city occupies the slopes of a hill in a fertile grain producing area about 5
 House of Bacchus and Ariadne (Maison de Bacchus et Ariane)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [root cavities](#)
-- [pipes (conduits)](http://vocab.getty.edu/page/aat/300014662)
-- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [pits (earthworks)](http://vocab.getty.edu/page/aat/300008027)
-- [furniture](#)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "root cavities" >}}
+- {{< keyword "pipes (conduits)" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "pits (earthworks)" >}}
+- {{< keyword "furniture" >}}
 
 ## Garden Description
 
@@ -116,11 +116,11 @@ at Thuburbo Maius, Zaghouan, Tunisia" in *Sourcebook for Garden Archaeology, Mth
 
 ## Pleiades_ID
 
-[Thuburbo Maius](https://pleiades.stoa.org/places/315220)
+- {{< id vocab="Pleiades" id="315220" term="Thuburbo Maius" >}}
 
 ## TGN ID
 
-[Kasba, Henchir el (deserted settlement)](http://vocab.getty.edu/page/tgn/7001750)
+- {{< id vocab="TGN" id="7001750" term="Kasba, Henchir el (deserted settlement)" >}}
 
 ## Contributor
 

@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Sublocation
 
@@ -44,14 +44,14 @@ House of the Indian Statuette (I.viii.5)
 
 ## Keywords
 
-- [archaeological garden](#)
-- [chests (case furniture)](http://vocab.getty.edu/page/aat/300038992)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "chests (case furniture)" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "statuettes (free-standing sculpture)" >}}
 
 ## Garden Description
 
@@ -96,11 +96,11 @@ unspecified
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

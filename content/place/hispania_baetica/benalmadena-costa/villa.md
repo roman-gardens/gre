@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Benalmadena-Costa]({{<relref ".">}}) \
-[Benalmadena-Costa](https://pleiades.stoa.org/places/510567671)
+- {{< id vocab="Pleiades" id="510567671" term="Benalmadena-Costa" >}}
 
 ## Location Description
 
@@ -85,7 +85,7 @@ unspecified
 
 ## Pleiades ID
 [Benalroma]{{<relref ".">}}) \
-[Benalroma](https://pleiades.stoa.org/places/510567671)
+- {{< id vocab="Pleiades" id="510567671" term="Benalroma" >}}
 
 ## TGN ID
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->

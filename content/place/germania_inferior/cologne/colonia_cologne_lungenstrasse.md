@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [Cologne]({{<relref ".">}}) \
-[Cologne](https://pleiades.stoa.org/places/108751)
+- {{< id vocab="Pleiades" id="108751" term="Cologne" >}}
 
 ## Location Description
 This large town on the west bank of the Rhine river was the *civitas* capital of the [Ubii](link) in the first half of the 1st century A.D. It was granted the status of colonia by [Claudius](link) in 50 and became the provincial capital in 85.
@@ -39,8 +39,8 @@ A sublocation is any area larger than an individual garden, but located within a
 Urban house on Lungenstrasse (Colonia Claudia Ara Agrippinensium)
 
 ## Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
+- {{< keyword "peristyles" >}}
+- {{< keyword "mural paintings (visual works)" >}}
 
 ## Garden Description
 In the second half of the 1st century A.D. a large peristyle house was constructed on the western fringe of the city, built on the remains of abandoned pottery kilns. The peristyle courtyard of the house was at least 13 x  21 m. in size, but the structural remains were badly damaged when a temple complex was erected on the site around the middle of the 2nd century Neither the complete ground plan nor the extent of the building could be determined.  
@@ -74,10 +74,10 @@ None
 
 ## Pleiades ID
 
-[Ara Ubiorum/Col. Claudia Ara Agrippinensium](https://pleiades.stoa.org/places/108751)
+- {{< id vocab="Pleiades" id="108751" term="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
 
 ## TGN ID
-[Cologne (inhabited place)](http://vocab.getty.edu/page/tgn/7004446)
+- {{< id vocab="TGN" id="7004446" term="Cologne (inhabited place)" >}}
 
 ## Contributor
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  

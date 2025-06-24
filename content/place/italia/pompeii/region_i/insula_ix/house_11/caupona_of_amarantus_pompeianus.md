@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Sublocation
 
@@ -40,12 +40,12 @@ I.ix.11
 
 ## Keywords
 
-- [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
-- [archaeological garden](#)
-- [lapilli](#)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
+- {{< keyword "amphorae (storage vessels)" >}}
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "lapilli" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "terrace gardens" >}}
 
 ## Garden Description
 
@@ -96,11 +96,11 @@ Early 1990s
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

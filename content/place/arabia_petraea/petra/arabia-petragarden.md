@@ -26,7 +26,7 @@ tags:
 
 ## Province
 [Arabia Petraea]({{<relref "..">}})\
-[Arabia (province)](https://pleiades.stoa.org/places/981506)
+- {{< id vocab="Pleiades" id="981506" term="Arabia (province)" >}}
 
 The
 story of Roman Arabia begins with the death of the Nabataean king, [Rabb'el II soter](https://en.wikipedia.org/wiki/Rabbel_II_Soter), in 106 CE. The emperor Trajan annexed the [Nabataean kingdom](https://en.wikipedia.org/wiki/Nabataean_Kingdom)   and organized its territory within the new Roman province of Arabia Petraea that occupied a large area of northwestern Arabia, extending from the Hauran in the north, to the Negev and Sinai deserts in the west, and into the northern Hejaz in the south. The administrative district of Perea, formerly under the Herodian dynasty was also added. The provincial capital of Arabia Petraea was located at [Bostra](https://en.wikipedia.org/wiki/Bosra) which replaced [Petra](https://en.wikipedia.org/wiki/Petra) as the capital of Nabataea in the last decades of that kingdom’s independence. Petra continued to function as an important cultural, political and economic center of the province for at least a century following annexation. During the early Byzantine period (4th-6th centuries CE), the major cities of the Roman era continued to flourish, and Christianity gradually became the accepted religion of the area. Petra remained an important center in the early Byzantine period when it was inhabited by a substantial Christian community and was the seat of a bishopric.
@@ -35,7 +35,7 @@ The region of Arabia Petraea is primarily a desert environment that belongs to t
 
 ## Location
 [Petra]({{<relref ".">}})\
-[Petra](https://pleiades.stoa.org/places/697725)
+- {{< id vocab="Pleiades" id="697725" term="Petra" >}}
 
 Petra, known to its ancient inhabitants as *Raqmu*, is located approximately 80 kilometers southeast of the Dead Sea in modern Jordan. The ancient city is situated on the western slopes of the Sharā Mountain Range, in a wide basin surrounded by deeply eroded mountainous ridges of sandstone, with outcrops of limestone and porphyry that form a natural fortification.
 
@@ -54,26 +54,26 @@ The Southern Terrace is a series of monumental built terraces constructed along 
 Petra Garden and Pool Complex
 
 ## Keywords
-- [aqueducts](http://vocab.getty.edu/page/aat/300006165)
-- [archaeobotany](http://vocab.getty.edu/page/aat/300251771)
-- [artificial islands](http://vocab.getty.edu/page/aat/300386969)
-- [artificial water channel](http://vocab.getty.edu/page/aat/300133792)
-- [castelli aquae](http://vocab.getty.edu/page/aat/300006192)
-- [cisterns](http://vocab.getty.edu/page/aat/300052558)
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [garden pavilions](http://vocab.getty.edu/page/aat/300006819)
-- [groves (plant communities)](http://vocab.getty.edu/page/aat/300008884)
-- [horticultural containers](http://vocab.getty.edu/page/aat/300198749)
+- {{< keyword "aqueducts" >}}
+- {{< keyword "archaeobotany" >}}
+- {{< keyword "artificial islands" >}}
+- {{< keyword "artificial water channels" >}}
+- {{< keyword "castelli aquae" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "garden pavilions" >}}
+- {{< keyword "groves (plant communities)" >}}
+- {{< keyword "horticultural containers" >}}
 - [lead pipelines](http://www.romanaqueducts.info/picturedictionary/pd_onderwerpen/pipe.htm)
-- [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [reflecting pools](http://vocab.getty.edu/page/aat/300179485)
-- [reservoirs (water distribution structures)](http://vocab.getty.edu/page/aat/300006191)
-- [root (plant material)](http://vocab.getty.edu/page/aat/300081475)
-- [swimming pools](http://vocab.getty.edu/page/aat/300007376)
-- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
+- {{< keyword "pergolas" >}}
+- {{< keyword "reflecting pools" >}}
+- {{< keyword "reservoirs (water distribution structures)" >}}
+- {{< keyword "root (plant material)" >}}
+- {{< keyword "swimming pools" >}}
+- {{< keyword "terrace gardens" >}}
 - [terracotta pipelines](http://www.romanaqueducts.info/picturedictionary/pd_onderwerpen/pipe.htm)
-- [water features (landscaping)](http://vocab.getty.edu/page/aat/300180674)
+- {{< keyword "water features (landscaping)" >}}
 
 ## Garden Description
 The only example of a garden investigated using specialized garden archaeology techniques in the region of Arabia Petraea is found at Petra. A large open area was believed to be the site of a marketplace, the so-called “Lower Market,” until excavations revealed the remnants of a formal garden and pool complex. The garden is situated on an artificial terrace on the southern slope of the Wadi Musa, overlooking the main colonnaded street and flanked by the so-called “Middle Market” to the east, and the [Great Temple](https://pleiades.stoa.org/places/777218559) complex to the west. To the south of the garden is a residential quarter on top of a high sandstone ridge (Ez-Zantur), where several private villas have been excavated (Fig. 5). Primary access into the garden was apparently from the west, through a triple colonnade that marks the boundary between the Great Temple’s “lower temenos” and the garden terrace.
@@ -285,10 +285,10 @@ End of the 1st century BCE - 2nd/3rd centuries CE (Late Hellenistic/Roman period
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Garden and Pool Complex at Petra](https://pleiades.stoa.org/places/511547525)
+- {{< id vocab="Pleiades" id="511547525" term="Garden and Pool Complex at Petra" >}}
 
 ## TGN ID
-[Petra (deserted settlement)](http://vocab.getty.edu/page/tgn/7002383)
+- {{< id vocab="TGN" id="7002383" term="Petra (deserted settlement)" >}}
 
 ## Contributor
 [Leigh-Ann Bedal](#)

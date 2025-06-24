@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Aventicum]({{<relref ".">}}) \
-[Aventicum](https://pleiades.stoa.org/places/177495)
+- {{< id vocab="Pleiades" id="177495" term="Aventicum" >}}
 
 ## Location Description
 
@@ -48,16 +48,16 @@ House in Insula 13 in Aventicum
 
 ## Keywords
 
-- [archaeological garden](#)
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [garden pavilions](http://vocab.getty.edu/page/aat/300006819)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "balnea" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "garden pavilions" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "reception rooms" >}}
 
 ## Garden Description
 
@@ -97,11 +97,11 @@ Houses: Late 1st century - Middle of 3rd century
 
 ## Pleiades ID
 
-[Aventicum](https://pleiades.stoa.org/places/177495)
+- {{< id vocab="Pleiades" id="177495" term="Aventicum" >}}
 
 ## TGN ID
 
-[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
+- {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
 
 ## Contributor
 

@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Aventicum]({{<relref ".">}}) \
-[Aventicum](https://pleiades.stoa.org/places/177495)
+- {{< id vocab="Pleiades" id="177495" term="Aventicum" >}}
 
 ## Location Description
 
@@ -48,16 +48,16 @@ Palatial House in Insula 7 in Aventicum
 
 ## Keywords
 
-- [archaeological garden](#)
-- [axial plan](http://vocab.getty.edu/page/aat/300121971)
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [drains](http://vocab.getty.edu/page/aat/300052564)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [palaces](http://vocab.getty.edu/page/aat/300005734)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [presence chambers](http://vocab.getty.edu/page/aat/300004445)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "axial plan" >}}
+- {{< keyword "balnea" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "presence chambers" >}}
 
 ## Garden Description
 
@@ -97,11 +97,11 @@ Severnan Period - Middle of 3rd century
 
 ## Pleiades ID
 
-[Aventicum](https://pleiades.stoa.org/places/177495)
+- {{< id vocab="Pleiades" id="177495" term="Aventicum" >}}
 
 ## TGN ID
 
-[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
+- {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
 
 ## Contributor
 

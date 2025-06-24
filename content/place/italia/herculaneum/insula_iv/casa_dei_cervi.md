@@ -17,7 +17,7 @@ categories:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 
 ## Location
@@ -40,11 +40,11 @@ Casa dei Cervi
 
 
 ## Keywords
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [puteals](http://vocab.getty.edu/page/aat/300443458)
-- [pergolas](http://vocab.getty.edu/page/aat/300006783)
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "puteals" >}}
+- {{< keyword "pergolas" >}}
 ---
 
 ## Garden Description
@@ -61,10 +61,10 @@ B. and C. On either side of the *pergola* was a small garden (d)and (e) with an 
 
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 
 ## Dates

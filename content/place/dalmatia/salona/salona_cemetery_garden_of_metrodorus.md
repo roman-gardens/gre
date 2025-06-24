@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Salona]({{<relref ".">}}) \
-[Salona](https://pleiades.stoa.org/places/197488)
+- {{< id vocab="Pleiades" id="197488" term="Salona" >}}
 
 <!--### Location Description-->
 
@@ -49,9 +49,9 @@ Cemetery Garden of Metrodorus
 
 ## Keywords
 
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
-- [sarcophagi (coffins)](http://vocab.getty.edu/page/aat/300005947)
+- {{< keyword "tombs" >}}
+- {{< keyword "epitaphs" >}}
+- {{< keyword "sarcophagi (coffins)" >}}
 
 
 ## Garden Description
@@ -92,11 +92,11 @@ Late second or third century (CE)
 
 ## Pleiades ID
 
-[Salona](https://pleiades.stoa.org/places/197488)
+- {{< id vocab="Pleiades" id="197488" term="Salona" >}}
 
 ## TGN ID
 
-[Solin (inhabited place)](http://vocab.getty.edu/page/tgn/7017320)
+- {{< id vocab="TGN" id="7017320" term="Solin (inhabited place)" >}}
 
 ## Contributor
 

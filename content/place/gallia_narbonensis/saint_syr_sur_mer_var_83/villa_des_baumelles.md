@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [saint_cyr_sur_mer]({{<relref ".">}}) \
-[saint_cyr_sur_mer](https://pleiades.stoa.org/places/452090054)
+- {{< id vocab="Pleiades" id="452090054" term="saint_cyr_sur_mer" >}}
 
 ## Location Description
 
@@ -49,15 +49,15 @@ Villa des Baumelles
 
 ## Keywords
 
-- [aqueducts](http://vocab.getty.edu/page/aat/300006165)
-- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [stairs](http://vocab.getty.edu/page/aat/300003228)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "aqueducts" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "stairs" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 
 
@@ -102,11 +102,11 @@ To the south, a charming apartment overlooked the cove of the Madrague and may h
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 
 
 ## Contributor

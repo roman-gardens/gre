@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [forum_julii]({{<relref ".">}}) \
-[forum_julii](https://pleiades.stoa.org/places/307416064)
+- {{< id vocab="Pleiades" id="307416064" term="forum_julii" >}}
 
 ## Location Description
 
@@ -48,14 +48,14 @@ Tower Enclosure, Insula III, House IIIA – 3 phases
 
 
 ## Keywords
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [water wells](http://vocab.getty.edu/page/aat/300152327)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [water wells](http://vocab.getty.edu/page/aat/300152327)
-- [vestibules](http://vocab.getty.edu/page/aat/300083076)
+- {{< keyword "porticoes" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "water wells" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "water wells" >}}
+- {{< keyword "vestibules" >}}
 
 
 
@@ -98,12 +98,12 @@ A.D. 200 Final Phase
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Fréjus (inhabited place)](http://vocab.getty.edu/page/tgn/7008791)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7008791" term="Fréjus (inhabited place)" >}}
 
 ## Contributor
 

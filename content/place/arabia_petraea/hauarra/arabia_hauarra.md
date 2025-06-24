@@ -15,16 +15,16 @@ tags:
  - "aqueducts"
  - "baetyls"
  - "basins (vessels)"
- - "insulae"
+ - "insulae (apartments)"
  - "naoi (chambers)"
  - "planters (containers)"
- - "shrines (structures)"
+ - "shrines"
  - "temene"
 ---
 
 ## Province
 [Arabia Petraea]({{<relref "..">}})\
-[Arabia (province)](https://pleiades.stoa.org/places/981506)
+- {{< id vocab="Pleiades" id="981506" term="Arabia (province)" >}}
 
 The history of Roman Arabia begins with the death of the Nabataean king, [Rabb'el II soter](https://en.wikipedia.org/wiki/Rabbel_II_Soter), in A.D. 106. The emperor Trajan annexed the [Nabataean kingdom](https://en.wikipedia.org/wiki/Nabataean_Kingdom)   and organized its territory within the new Roman province of Arabia Petraea that occupied a large area of northwestern Arabia, extending from the Hauran in the north, to the Negev and Sinai deserts in the west, and into the northern Hejaz in the south. The administrative district of Perea, formerly under the Herodian dynasty was also added. The provincial capital of Arabia Petraea was located at [Bostra](https://en.wikipedia.org/wiki/Bosra) which replaced [Petra](https://en.wikipedia.org/wiki/Petra) as the capital of Nabataea in the last decades of that kingdom’s independence. Petra continued to function as an important cultural, political and economic center of the province for at least a century following annexation. During the early Byzantine period (4th-6th centuries CE), the major cities of the Roman era continued to flourish, and Christianity gradually became the accepted religion of the area. Petra remained an important center in the early Byzantine period when it was inhabited by a substantial Christian community and was the seat of a bishopric.
 
@@ -33,7 +33,7 @@ The region of Arabia Petraea is primarily a desert environment that belongs to t
 
 ## Location
 [Auara]({{<relref ".">}})\
-[Auara](https://pleiades.stoa.org/places/746716)
+- {{< id vocab="Pleiades" id="746716" term="Auara" >}}
 
 Nabataean Hawara (Auara) was founded by king [Aretas III](https://en.wikipedia.org/wiki/Aretas_III) in the early first century BCE as a trading post along the [King's Highway](https://en.wikipedia.org/wiki/King%27s_Highway_(ancient)), midway between the Nabataean capital, [Petra](https://pleiades.stoa.org/places/697725), and the port town of [Aila](https://en.wikipedia.org/wiki/Aqaba#Classical_antiquity) on the Gulf of Aqaba (Fig. 1). In the early 2nd century CE, under Roman occupation, a fort was erected at the site (Roman Hauarra/Havarra) due to its strategic position on the major trade highway that was rebuilt as the [*Via Nova Traiana*](https://en.wikipedia.org/wiki/Via_Traiana_Nova). Associated with the fort was a small town with a bathhouse and a community shrine. The modern name for the site is [Humayma](https://en.wikipedia.org/wiki/Humeima).
 
@@ -42,14 +42,14 @@ Nabataean Hawara (Auara) was founded by king [Aretas III](https://en.wikipedia.o
 Shrine Complex in Insula E125
 
 ## Keywords
-- [aqueducts](http://vocab.getty.edu/page/aat/300006165)
-- [baetyls](http://vocab.getty.edu/page/aat/300400603)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [naoi (chambers)](http://vocab.getty.edu/page/aat/300004658)
-- [planters (containers)](http://vocab.getty.edu/page/aat/300237566)
-- [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
-- [temene](http://vocab.getty.edu/page/aat/300000805)
+- {{< keyword "aqueducts" >}}
+- {{< keyword "baetyls" >}}
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "naoi (chambers)" >}}
+- {{< keyword "planters (containers)" >}}
+- {{< keyword "shrines" >}}
+- {{< keyword "temene" >}}
 
 ## Garden Description
 A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely damaged during the Roman conquest of Arabia Petraea, the site’s inhabitants built another shrine at the same location. The Roman-period shrine occupied the southeast corner of a multi-unit *insula* (E125), but could only be accessed from outside the complex. This shrine consisted of a square *naos* (containing a central Nabataean *baetyl* and legionary altar, bins, shelves, and votive offerings) enclosed in a rectangular open-air temenos (Fig. 3). Upon entering the temenos, worshippers walked to the *naos* along a 12.7 m long paved processional way that was flanked by two long raised planters. An aqueduct-fed basin next to the door of the *naos* appears to have supplied the shrine with so much fresh water that it must have been intended not just for ritual cleansing, but for supplying the planters as well. Given the relatively shallow depth of the planters, and that no root balls or pots were found within, they probably contained shrubs and/or flowers rather than trees. Although the architect clearly tried to make the planters symmetrical in size, shape, and location, their design (and that of the whole Roman shrine) was constrained by the reuse of some Nabataean walls as foundations.
@@ -73,10 +73,10 @@ A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely dam
 
 
 ## Pleiades ID
-[Auara](https://pleiades.stoa.org/places/746716)
+- {{< id vocab="Pleiades" id="746716" term="Auara" >}}
 
 ## TGN ID
-[Ḥawwārah (inhabited place)](http://vocab.getty.edu/page/tgn/7007646)
+- {{< id vocab="TGN" id="7007646" term="Ḥawwārah (inhabited place)" >}}
 
 ## Contributor
 [M. Barbara Reeves](#)

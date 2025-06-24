@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Italica]({{<relref ".">}}) \
-[Italica](https://pleiades.stoa.org/places/256231)
+- {{< id vocab="Pleiades" id="256231" term="Italica" >}}
 
 ## Location Description
 
@@ -38,7 +38,7 @@ House of the Triclinium
 ## Keywords
 
 
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
+- {{< keyword "peristyles" >}}
 
 
 ## Garden Description
@@ -74,10 +74,10 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[House of the Triclinium at Italica](https://pleiades.stoa.org/places/224658205)
+- {{< id vocab="Pleiades" id="224658205" term="House of the Triclinium at Italica" >}}
 
 ## TGN ID
-[Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
+- {{< id vocab="TGN" id="7007822" term="Itálica (deserted settlement)" >}}
 
 ## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

@@ -13,24 +13,24 @@ tags:
  - "balnea"
  - "domus"
  - "fountains"
- - "pools (bodies of water)"
+ - "pools"
 ---
 
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
 [Palatine]({{<relref ".">}}) \
-[Mons Palatinus](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
 
@@ -40,11 +40,11 @@ Garden of the Severan Complex, Palatine
 
 ## Keywords
 
-- [arcade (structural assemblies)](http://vocab.getty.edu/page/aat/300002580)
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [fountain](http://vocab.getty.edu/page/aat/300006179)
-- [pools (body of water)](http://vocab.getty.edu/page/aat/300008692)
+- {{< keyword "arcades (structural assemblies)" >}}
+- {{< keyword "balnea" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "pools (body of water)" >}}
 
 
 ## Garden Description
@@ -78,7 +78,7 @@ RELATED PHASES ON THE PALATINE:
 
 ## Pleiades ID
 
-[Temple of the Severan family](https://pleiades.stoa.org/places/584305092)
+- {{< id vocab="Pleiades" id="584305092" term="Temple of the Severan family" >}}
 
 ## Contributor
 

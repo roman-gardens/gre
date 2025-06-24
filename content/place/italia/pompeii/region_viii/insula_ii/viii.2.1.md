@@ -20,11 +20,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -40,8 +40,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [House I](#)
 
 ## Keywords
- - [tablina](http://vocab.getty.edu/page/aat/300004180)
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "tablina" >}}
+- {{< keyword "porticoes" >}}
 
 
 ## Garden Description
@@ -55,10 +55,10 @@ This house was excavated in 1799 and to the rear of the tablinium there was a po
 {{< image src="fig.3.viii.ii_10.2.59.jpg" alt="Fig 3, 10.2.59, View of insula ii from below (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig 3, 10.2.59, View of insula ii from below (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Pleiades ID
-[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
+- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
+- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 
 ##  Excavation Dates

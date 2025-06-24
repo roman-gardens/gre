@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [AUTRICUM (Chartres, France)]({{<relref ".">}}) \
-[AUTRICUM](https://pleiades.stoa.org/places/108778)
+- {{< id vocab="Pleiades" id="108778" term="AUTRICUM" >}}
 
 <!--### Location Description-->
 
@@ -40,8 +40,8 @@ A sublocation is any area larger than an individual garden, but located within a
 *Domus* of the Place Epars
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [hypocaust](http://vocab.getty.edu/page/aat/300004277)
+- {{< keyword "domus" >}}
+- {{< keyword "hypocausts" >}}
 
 
 ## Garden Description
@@ -77,10 +77,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Autricum](https://pleiades.stoa.org/places/108778)
+- {{< id vocab="Pleiades" id="108778" term="Autricum" >}}
 
 ## TGN ID
-[Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
+- {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

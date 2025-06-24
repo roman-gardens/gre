@@ -39,7 +39,7 @@ A sublocation is any area larger than an individual garden, but located within a
 Rural Villa
 
 ## Keywords
-- [vegetable garden](http://vocab.getty.edu/page/aat/300008142)
+- {{< keyword "vegetable gardens" >}}
 
 ## Garden Description
 
@@ -73,9 +73,9 @@ None Available
 Unspecified
 
 ## Bibliography
-- E. Gose, "Jahresbericht", Trierer Zeitschrift 24/26,1956-58: 511-525, figs. 106, 113. [(worldcat)] (http://www.worldcat.org/oclc/223360098)
-- H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp. 663-665, fig. 606. [(worldcat)] (http://www.worldcat.org/oclc/924024101)
-- P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 273-276, fig. 82.  [(worldcat)] (http://www.worldcat.org/oclc/445007864)
+- E. Gose, "Jahresbericht", Trierer Zeitschrift 24/26,1956-58: 511-525, figs. 106, 113. [(worldcat)](http://www.worldcat.org/oclc/223360098)
+- H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp. 663-665, fig. 606. [(worldcat)](http://www.worldcat.org/oclc/924024101)
+- P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 273-276, fig. 82.  [(worldcat)](http://www.worldcat.org/oclc/445007864)
 
 <!--#### Periodo ID-->
 
@@ -86,7 +86,7 @@ Unspecified
 [Roman Villa at Welschbillig](<-- none available -->)
 
 ## TGN ID
-[Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
+- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -49,13 +49,13 @@ House of the Columns
 
 ## Keywords
 
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "reception rooms" >}}
 - [apsed pools]()
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
+- {{< keyword "fountains" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "nymphaea (garden structures)" >}}
 
 
 
@@ -110,12 +110,12 @@ NEW WAY ↓↓↓↓
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Saint-Romain-en-Gal (inhabited place)](http://vocab.getty.edu/page/tgn/5004109)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="5004109" term="Saint-Romain-en-Gal (inhabited place)" >}}
 
 ## Contributor
 

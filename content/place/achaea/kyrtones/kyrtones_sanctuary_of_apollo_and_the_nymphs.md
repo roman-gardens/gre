@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Kyrtones]({{<relref ".">}}) \
-[Kyrtones](https://pleiades.stoa.org/places/540898)
+- {{< id vocab="Pleiades" id="540898" term="Kyrtones" >}}
 
 <!--### Location Description-->
 
@@ -47,12 +47,12 @@ Sanctuary of Apollo and the Nymphs
 
 ## Keywords
 
-- [Literary](#)
-- [orchards](http://vocab.getty.edu/page/aat/300008890)
-- [Pausanias](#)
-- [sacred groves](http://vocab.getty.edu/page/aat/300251876)
-- [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
-- [springs (bodies of water)](http://vocab.getty.edu/page/aat/300008697)
+- {{< keyword "literary gardens" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "Pausanias" >}}
+- {{< keyword "sacred groves" >}}
+- {{< keyword "shrines" >}}
+- {{< keyword "springs (bodies of water)" >}}
 
 ## Garden Description
 
@@ -104,7 +104,7 @@ unspecified
 
 ## Pleiades ID
 
-[Kyrtones](https://pleiades.stoa.org/places/540898)
+- {{< id vocab="Pleiades" id="540898" term="Kyrtones" >}}
 
 <!--#### TGN ID-->
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->

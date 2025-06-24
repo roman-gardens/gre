@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Tergeste]({{<relref ".">}}) \
-[Tergeste](https://pleiades.stoa.org/places/187578)
+- {{< id vocab="Pleiades" id="187578" term="Tergeste" >}}
 
 <!--### Location Description-->
 
@@ -46,26 +46,26 @@ Villa of the Statue
 
 ## Keywords
 
-- [archaeological garden](#)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [water baths](http://vocab.getty.edu/page/aat/300248755)
-- [atrium houses](http://vocab.getty.edu/page/aat/300005451)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [tesserae](http://vocab.getty.edu/page/aat/300010730)
-- [ceramic tile](http://vocab.getty.edu/page/aat/300010678)
-- [opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462)
-- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
-- [garden pavilions](http://vocab.getty.edu/page/aat/300006819)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "balnea" >}}
+- {{< keyword "water baths" >}}
+- {{< keyword "atrium houses" >}}
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "tesserae" >}}
+- {{< keyword "ceramic tile" >}}
+- {{< keyword "opus sectile (visual works)" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "garden pavilions" >}}
 - [apsed triclinium]
-- [archaeological garden]
+<!-- - {{< keyword "archaeological gardens" >}} -->
 
 ## Garden Description
 
@@ -107,7 +107,7 @@ NEW WAY ↓↓↓↓
 
 ## Pleiades ID
 
-[Tergeste](https://pleiades.stoa.org/places/187578)
+- {{< id vocab="Pleiades" id="187578" term="Tergeste" >}}
 
 ## TGN ID
 

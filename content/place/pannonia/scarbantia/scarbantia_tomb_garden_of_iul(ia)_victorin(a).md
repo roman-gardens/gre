@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Scarbantia]({{<relref ".">}}) \
-[Scarbantia](https://pleiades.stoa.org/places/197501)
+- {{< id vocab="Pleiades" id="197501" term="Scarbantia" >}}
 
 
 <!--### Location Description-->
@@ -48,11 +48,11 @@ Tomb Garden of Iul(ia) Victorin(a) in Scarbantia
 
 ## Keywords
 
-- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
-- [literary garden](#)
-- [stelae](http://vocab.getty.edu/page/aat/300007023)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [viridarium](#)
+- {{< keyword "epitaphs" >}}
+- {{< keyword "literary gardens" >}}
+- {{< keyword "stelae" >}}
+- {{< keyword "tombs" >}}
+- {{< keyword "viridarium" >}}
 
 ## Garden Description
 
@@ -82,11 +82,11 @@ A limestone funerary stele of probably third century date unearthed in 1973 near
 
 ## Pleiades ID
 
-[Scarbantia](https://pleiades.stoa.org/places/197501)
+- {{< id vocab="Pleiades" id="197501" term="Scarbantia" >}}
 
 ## TGN ID
 
-[Pannonia (general region)](http://vocab.getty.edu/page/tgn/4008442)
+- {{< id vocab="TGN" id="4008442" term="Pannonia (general region)" >}}
 
 ## Contributor
 

@@ -24,7 +24,7 @@ tag:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -32,7 +32,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 [Althiburos (Médeïna)]({{<relref ".">}}) \
-[Althiburos](https://pleiades.stoa.org/places/324664)
+- {{< id vocab="Pleiades" id="324664" term="Althiburos" >}}
 
 ## Location Description
 This town is located on the road between Carthage and Theveste near the border of Proconsularis and Byzacena 35 km west of Mactar. Under the Roman Empire it remained an indigenous civitas until it was raised to the status of a municipium by Hadrian: municipium aelium hadrianum augustum althiburitanum and later was granted the ius Italicum.
@@ -54,13 +54,13 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Muses (Maison des Muses)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [semicircular basin](#)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [euripus](#)
-- [balustrades](http://vocab.getty.edu/page/aat/300001989)
-- [light wells](http://vocab.getty.edu/page/aat/300004321)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "semicircular basin" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "euripus" >}}
+- {{< keyword "balustrades" >}}
+- {{< keyword "light wells" >}}
 
 <!-- [urban villas](#) -->
 
@@ -102,10 +102,10 @@ The *triclinium* was bordered on two sides by two apartments that each had rooms
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Althiburos](https://pleiades.stoa.org/places/324664)
+- {{< id vocab="Pleiades" id="324664" term="Althiburos" >}}
 
 ## TGN ID
-[Althiburus (deserted settlement)](http://vocab.getty.edu/page/tgn/5003658)
+- {{< id vocab="TGN" id="5003658" term="Althiburus (deserted settlement)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

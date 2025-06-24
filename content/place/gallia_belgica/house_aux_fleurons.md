@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [DUROCORTORUM (Reims, France)]({{<relref ".">}}) \
-[DUROCORTORUM](https://pleiades.stoa.org/places/108945)
+- {{< id vocab="Pleiades" id="108945" term="DUROCORTORUM" >}}
 
 <!--### Location Description-->
 
@@ -41,8 +41,8 @@ Durocortorum was mentioned by Caesar as the center of the Remi, a Celtic tribe t
 The House aux Fleurons (boulevard de la Paix)
 
 ## Keywords
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [trenches](http://vocab.getty.edu/page/aat/300008022)
+- {{< keyword "porticoes" >}}
+- {{< keyword "trenches" >}}
 
 
 ## Garden Description
@@ -86,10 +86,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Durocortorum](https://pleiades.stoa.org/places/108945)
+- {{< id vocab="Pleiades" id="108945" term="Durocortorum" >}}
 
 ## TGN ID
-[Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
+- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

@@ -13,13 +13,13 @@ draft: false
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
@@ -35,22 +35,22 @@ Garden of the Neronian Palace, Palatine
 
 ## Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [cisterns (plumbing component)](http://vocab.getty.edu/page/aat/300052558)
-- [columns (architectural element)](http://vocab.getty.edu/page/aat/300001571)
-- [fountain](http://vocab.getty.edu/page/aat/300006179)
-- [frescoes (paintings)](http://vocab.getty.edu/page/aat/300177433)
-- [garden pavilion](http://vocab.getty.edu/page/aat/300006819)
-- [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
-- [niche (architectural element)](http://vocab.getty.edu/page/aat/300002704)
-- [palace](http://vocab.getty.edu/page/aat/300005734)
-- [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
-- [pillars](http://vocab.getty.edu/page/aat/300264605)
-- [polychrome](http://vocab.getty.edu/page/aat/300252261)
-- [pools (body of water)](http://vocab.getty.edu/page/aat/300008692)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [scaenae](http://vocab.getty.edu/page/aat/300004681)
-- [terraces (landscaped-site elements)](http://vocab.getty.edu/page/aat/300004182)
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "columns (architectural element)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "frescoes (paintings)" >}}
+- {{< keyword "garden pavilions" >}}
+- {{< keyword "marble (rock)" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "polychrome" >}}
+- {{< keyword "pools (body of water)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "scaenae" >}}
+- {{< keyword "terraces (landscaped-site elements)" >}}
 
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 
@@ -96,7 +96,7 @@ RELATED PHASES ON THE PALATINE:
 
 ## Pleiades ID
 
-[Palatine Hill](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}
 
 ## Contributor
 

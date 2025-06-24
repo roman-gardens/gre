@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [NEMETACUM (Arras, France)]({{<relref ".">}}) \
-[NEMETACUM](https://pleiades.stoa.org/places/109194)
+- {{< id vocab="Pleiades" id="109194" term="NEMETACUM" >}}
 
 <!--### Location Description-->
 
@@ -41,8 +41,8 @@ A sublocation is any area larger than an individual garden, but located within a
 House on rue de la Fraternité
 
 ## Keywords
-- [mosiacs](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
+- {{< keyword "mosiacs" >}}
+- {{< keyword "peristyles" >}}
 
 
 
@@ -86,10 +86,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Nemetacum](https://pleiades.stoa.org/places/109194)
+- {{< id vocab="Pleiades" id="109194" term="Nemetacum" >}}
 
 ## TGN ID
-[Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
+- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

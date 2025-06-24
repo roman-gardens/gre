@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Munigua]({{<relref ".">}}) \
-[Munigua](https://pleiades.stoa.org/places/256318)
+- {{< id vocab="Pleiades" id="256318" term="Munigua" >}}
 
 ## Location Description
 
@@ -44,8 +44,8 @@ Sanctuary
 
 ## Keywords
 
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "porticoes" >}}
 
 
 
@@ -90,10 +90,10 @@ unspecified
 
 ## Pleiades ID
 [Munigua]{{<relref ".">}}) \
-[Munigua](https://pleiades.stoa.org/places/256318)
+- {{< id vocab="Pleiades" id="256318" term="Munigua" >}}
 
 ## TGN ID
-[Castillo de Mulva (deserted settlement)](http://vocab.getty.edu/page/tgn/7027137)
+- {{< id vocab="TGN" id="7027137" term="Castillo de Mulva (deserted settlement)" >}}
 
 ## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

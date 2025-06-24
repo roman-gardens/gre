@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 <!--- Content of Province heading --->
 
 ## Province Description
@@ -22,14 +22,14 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 <!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Sublocation
-[Regio VI](https://pleiades.stoa.org/places/984330151)
+- {{< id vocab="Pleiades" id="984330151" term="Regio VI" >}}
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
@@ -72,7 +72,7 @@ Soprano, p. 300, no. 13.
 
 
 ## Pleiades ID
-[Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
+- {{< id vocab="Pleiades" id="222138654" term="Regio I, Pompeii" >}}
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->

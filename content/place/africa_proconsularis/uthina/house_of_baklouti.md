@@ -20,7 +20,7 @@ tags:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -29,7 +29,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 [UTHINA (Oudna)]({{<relref ".">}}) \
-[UTHINA (Oudna) Tunisia(Pleiades)](https://pleiades.stoa.org/places/315247)
+- {{< id vocab="Pleiades" id="315247" term="UTHINA (Oudna) Tunisia(Pleiades)" >}}
 
 ## Location Description
 Uthina was a town in the province of Africa Proconsularis, now northern Tunisia. Uthina became a Roman colony of veterans of Legio XIII Gemina during the reign of Emperor Augustus. Hence, it was mentioned by Ptolemy (IV, 3, 34), Pliny the Elder, and the Tabula Peutingeriana.
@@ -52,9 +52,9 @@ House of Baklouti (Maison de Baklouti)
 
 ## Keywords
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [niches](http://vocab.getty.edu/page/aat/300002704)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "niches" >}}
 
 ## Garden Description
 
@@ -85,11 +85,11 @@ Unspecified
 
 ## Pleiades ID
 
-[Uthina](https://pleiades.stoa.org/places/315247)
+- {{< id vocab="Pleiades" id="315247" term="Uthina" >}}
 
 ## TGN ID
 
-[Oudna (deserted settlement)](http://vocab.getty.edu/page/tgn/7024022)
+- {{< id vocab="TGN" id="7024022" term="Oudna (deserted settlement)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

@@ -17,8 +17,8 @@ categories:
 [Italia]({{<relref "../../../..">}})
 
 ## Location
-[VIA ARDEATINA](https://pleiades.stoa.org/places/587835546)
-[Tomb Garden of M. Aurel(ius) Alexander](https://pleiades.stoa.org/places/390400921)
+- {{< id vocab="Pleiades" id="587835546" term="VIA ARDEATINA" >}}
+- {{< id vocab="Pleiades" id="390400921" term="Tomb Garden of M. Aurel(ius) Alexander" >}}
 
 <!--### Location Description-->
 
@@ -36,10 +36,10 @@ Tomb Garden of M. Aurel(ius) Alexander
 
 ## Keywords
 
-- [aediculae](http://vocab.getty.edu/page/aat/300002574)
-- [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
+- {{< keyword "aedicules" >}}
+- {{< keyword "funerary buildings" >}}
+- {{< keyword "tombs" >}}
+- {{< keyword "domus" >}}
 ## Garden Description
 An epitaph of the late second or early third century found in 1715 between the first and second mile of the Via Ardeatina near the church of S. Balbina records that a senior centurion and Roman knight, M. Aurelius Alexander detached from his house (domus, rather than horti, the expanding urban environment having now encompassed this suburban zone) a cepotaphium made for himself and his wife, Aurelia Antiochiana, their freedmen and descendents. A final injunction aiming to prevent alienation of the property by any means idly threatened transgressors with a fine of 100,000 sesterces (!), to be paid in to the sacred treasury.
 
@@ -62,7 +62,7 @@ late second or early third century
 
 ## Pleiades ID
 
-[390400921](https://pleiades.stoa.org/places/390400921)
+- {{< id vocab="Pleiades" id="390400921" term="390400921" >}}
 
 
 

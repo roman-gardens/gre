@@ -19,11 +19,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -35,8 +35,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula I]({{<relref ".">}})
 
 ## Keywords
- - [cauponae](http://vocab.getty.edu/page/aat/300005208)
- - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
+- {{< keyword "cauponae" >}}
+- {{< keyword "amphorae (storage vessels)" >}}
 
 
 
@@ -58,10 +58,10 @@ Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
+- {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 1916, 1950, 1985. Bombed in 1943.

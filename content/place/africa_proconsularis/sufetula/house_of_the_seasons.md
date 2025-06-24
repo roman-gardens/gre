@@ -19,7 +19,7 @@ tag:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -27,7 +27,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 [Sufetula]({{<relref ".">}}) \
-[Sufetula](https://pleiades.stoa.org/places/324816)
+- {{< id vocab="Pleiades" id="324816" term="Sufetula" >}}
 
 ## Location Description
 
@@ -50,9 +50,9 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Seasons (La maison des Saisons)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [oeci](http://vocab.getty.edu/page/aat/300080791)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "oeci" >}}
 
 ## Garden Description
  This house, known for its majestic and richly decorated *oecus*, is laidout around a peristyle courtyard that was probably planted. The house is dated to the late IVth. early Vth. Century (Plan view, Fig. 1).
@@ -95,10 +95,10 @@ House of the Seasons (La maison des Saisons)
 
 ## Pleiades ID
 
-[Sufetula](https://pleiades.stoa.org/places/324816)
+- {{< id vocab="Pleiades" id="324816" term="Sufetula" >}}
 
 ## TGN ID
-[Sbeitla (inhabited place)](http://vocab.getty.edu/page/tgn/7001754)
+- {{< id vocab="TGN" id="7001754" term="Sbeitla (inhabited place)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Andematunnum]({{<relref ".">}}) \
-[Andematunnum](https://pleiades.stoa.org/places/177441)
+- {{< id vocab="Pleiades" id="177441" term="Andematunnum" >}}
 
 <!--### Location Description-->
 
@@ -48,12 +48,12 @@ Tomb Garden of Anonymous Gaul in Andematunnum
 
 ## Keywords
 
-- [former reservoirs](http://vocab.getty.edu/page/aat/300386966)
-- [inscription](#)
-- [literary garden](#)
-- [mausoleums](http://vocab.getty.edu/page/aat/300005891)
-- [orchards](http://vocab.getty.edu/page/aat/300008890)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- {{< keyword "former reservoirs" >}}
+- {{< keyword "inscription" >}}
+- {{< keyword "literary gardens" >}}
+- {{< keyword "mausoleums" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "tombs" >}}
 
 ## Garden Description
 
@@ -94,11 +94,11 @@ unspecified
 
 ## Pleiades ID
 
-[Andematunnum](https://pleiades.stoa.org/places/177441)
+- {{< id vocab="Pleiades" id="177441" term="Andematunnum" >}}
 
 ## TGN ID
 
-[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
+- {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
 
 ## Contributor
 

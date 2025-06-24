@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Augusta Raurica]({{<relref ".">}}) \
-[Augusta Raurica](https://pleiades.stoa.org/places/177494)
+- {{< id vocab="Pleiades" id="177494" term="Augusta Raurica" >}}
 
 ## Location Description
 
@@ -49,13 +49,13 @@ House in Insula 30 in Augusta Raurica
 ## Keywords
 
 
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [vestibules](http://vocab.getty.edu/page/aat/300083076)
-- [water wells](http://vocab.getty.edu/page/aat/300152327)
+- {{< keyword "colonnades" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "vestibules" >}}
+- {{< keyword "water wells" >}}
 
 ## Garden Description
 
@@ -94,11 +94,11 @@ Insula: 200 A.D.
 
 ## Pleiades ID
 
-[Col. Augusta Raurica](https://pleiades.stoa.org/places/177494)
+- {{< id vocab="Pleiades" id="177494" term="Col. Augusta Raurica" >}}
 
 ## TGN ID
 
-[Augusta Rauricorum (deserted settlement)](http://vocab.getty.edu/page/tgn/7017586)
+- {{< id vocab="TGN" id="7017586" term="Augusta Rauricorum (deserted settlement)" >}}
 
 ## Contributor
 

@@ -17,8 +17,8 @@ categories:
 [Italia]({{<relref "../../../..">}})
 
 ## Location
-[Via Labicana](https://pleiades.stoa.org/places/74935822)
-[Tomb Garden of a Funerary Collegium](https://pleiades.stoa.org/places/229438405)
+- {{< id vocab="Pleiades" id="74935822" term="Via Labicana" >}}
+- {{< id vocab="Pleiades" id="229438405" term="Tomb Garden of a Funerary Collegium" >}}
 
 <!--### Location Description-->
 
@@ -35,9 +35,9 @@ An ancient Roman road connecting Rome and Labicum.
 Tomb Garden of a Funerary Collegium
 
 ## Keywords
-- [crematories](http://vocab.getty.edu/page/aat/300005871)
-- [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- {{< keyword "crematories" >}}
+- {{< keyword "funerary buildings" >}}
+- {{< keyword "tombs" >}}
 
 
 ## Garden Description
@@ -79,7 +79,7 @@ The inscription concludes with eight hexameters urging readers to recognize in t
 
 ## Pleiades ID
 
-[229438405](https://pleiades.stoa.org/places/229438405)
+- {{< id vocab="Pleiades" id="229438405" term="229438405" >}}
 
 
 

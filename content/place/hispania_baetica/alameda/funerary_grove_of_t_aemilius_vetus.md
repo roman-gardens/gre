@@ -24,7 +24,7 @@ categories:
 ## Location
 
 [Alameda]({{<relref ".">}}) \
-[Alameda](https://pleiades.stoa.org/places/270382)
+- {{< id vocab="Pleiades" id="270382" term="Alameda" >}}
 
 ## Location Description
 
@@ -90,11 +90,11 @@ unspecified
 ## Pleiades ID
 
 [Urgapa]({{<relref ".">}}) \
-[Urgapa](https://pleiades.stoa.org/places/270382)
+- {{< id vocab="Pleiades" id="270382" term="Urgapa" >}}
 
 ## TGN ID
 
-[Alameda (inhabited place)](http://vocab.getty.edu/page/tgn/1061700)
+- {{< id vocab="TGN" id="1061700" term="Alameda (inhabited place)" >}}
 
 ## Contributor
 

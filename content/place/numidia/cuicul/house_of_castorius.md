@@ -25,7 +25,7 @@ tags:
 ## Province
 
 [Numidia]({{<relref "..">}}) \
-[Numidia (Roman province)(Pleiades)](https://pleiades.stoa.org/places/981539)
+- {{< id vocab="Pleiades" id="981539" term="Numidia (Roman province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -34,7 +34,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 [Cuicul]({{<relref ".">}}) \
-[Cuicul](https://pleiades.stoa.org/places/305068)
+- {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}
 
 {{< image src="cuicul_house_of_castorius.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
@@ -52,14 +52,14 @@ House of Europa, Central District (Maison d'Europe, Quartier Central)
 
 ## Keywords
 
-- [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [fishponds](http://vocab.getty.edu/page/aat/300008689)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
+- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "fishponds" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "piscinae" >}}
 
 ## Garden Description
 
@@ -90,7 +90,7 @@ The  L shaped space between the fish pool and the columns was probably planted.
 
 
 ## Pleiades ID
-[Cuicul](https://pleiades.stoa.org/places/305068)
+- {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}
 ## TGN ID
 
 ## Contributor

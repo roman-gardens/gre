@@ -17,13 +17,13 @@ categories:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 
 ## Location
 
 [Herculaneum]({{<relref "..">}}) \
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 
 ## Location Description
@@ -41,10 +41,10 @@ Casa dello Scheletro
 
 ## Keywords
 
-- [aedicules](http://vocab.getty.edu/page/aat/300002574)
-- [tympana (wall components)](http://vocab.getty.edu/page/aat/300002736)
-- [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [amorino](#)
+- {{< keyword "aedicules" >}}
+- {{< keyword "tympana (wall components)" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "amorini" >}}
 
 ## Garden Description
 The small light well of this house had once been occupied by a pool. By the time of the eruption it had been filled with soil and converted to a small garden (a). During this change an *aedicula* was built on a high podium against the back wall, decorated with mosaic and shells, and garden paintings were added to the light well walls. The walls on the east and south had panels framed on the top and sides with a wide red band and a smaller black one inside. The south wall had panels on both sides of the mosaic *aedicule*, and of all the panels, the left panel of the south wall was the best preserved, although the
@@ -67,10 +67,10 @@ NEW WAY ↓↓↓↓
 
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 

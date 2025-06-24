@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [taradeau]({{<relref ".">}}) \
-[taradeau](https://pleiades.stoa.org/places/452090055)
+- {{< id vocab="Pleiades" id="452090055" term="taradeau" >}}
 
 ## Location Description
 
@@ -49,13 +49,13 @@ The villa of Saint Martin
 
 ## Keywords
 
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
+- {{< keyword "porticoes" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "peristyles" >}}
 
 
 
@@ -94,12 +94,12 @@ In a fourth stage, the villa lost its residential character: the *pars urbana* w
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Taradeau (inhabited place)](http://vocab.getty.edu/page/tgn/7602340)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7602340" term="Taradeau (inhabited place)" >}}
 
 ## Contributor
 

@@ -14,7 +14,7 @@ categories:
   - "Italia"
 tags:
   - "porticoes"
-  - "peristyles (Roman courtyards)"
+  - "peristyles"
   - "tablina"
   - "triclinia (rooms)"
   - "exedrae (site elements)"
@@ -27,11 +27,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -43,14 +43,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IV]({{<relref ".">}})
 
 ## Keywords
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
- - [peristyles](http://vocab.getty.edu/page/aat/300080971)
- - [tablina](http://vocab.getty.edu/page/aat/300004180)
- - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
- - [exedrae (interior spaces)](http://vocab.getty.edu/page/aat/300004014)
- - [puteals](http://vocab.getty.edu/page/aat/300443458)
- - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
- - [impluvia](http://vocab.getty.edu/page/aat/300129867)
+- {{< keyword "porticoes" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "exedrae (interior spaces)" >}}
+- {{< keyword "puteals" >}}
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "impluvia" >}}
 
 ## Garden Description
 Eighteen partially fluted columns supported the large portico (a) surrounding this spacious peristyle garden. Excavated in 1861, the garden was located at the rear of the tablinum and could be viewed from the large triclinium on the east or the exedra on the west. A wooden fence had enclosed the garden as evidenced by the vertical slots in the columns where the fence had been secured. The portico held two puteals, one marble and the other travertine. A gutter circled the garden and at the south end a pool 0.90 x 1.05 m.; 0.18 m. deep contained a fountain.  There was also a fountain located in the atrium, which became a common house feature after the completion of the aquaduct. At the edge of the marble impluvium two ornate trapezophori flanked a round opening containing the bronze water key that controlled the water jet in the center of the impluvium.
@@ -62,10 +62,10 @@ Eighteen partially fluted columns supported the large portico (a) surrounding th
 {{< image src="fig.13.viii.iv.15_11.10.59.jpg" alt="Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Pleiades ID
-[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
+- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
+- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
 Unspecified

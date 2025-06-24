@@ -18,11 +18,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -34,7 +34,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "#">}})
 
 ## Keywords
-- [impluvia](http://vocab.getty.edu/page/aat/300129867)
+- {{< keyword "impluvia" >}}
 
 ## Garden
 Small house with a planting bed around an indoor [impluvium](http://vocab.getty.edu/page/aat/300129867).
@@ -58,7 +58,7 @@ This humble house was excavated in 1873. It had no garden but the [impluvium](ht
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 Excavated 1869 and 1873. Bombed in 1943.

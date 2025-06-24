@@ -13,18 +13,18 @@ draft: false
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
 [Palatine]({{<relref ".">}}) \
-[Mons Palatinus](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
 
@@ -34,11 +34,11 @@ Gardens of the Republican *Domus*, Palatine
 
 ## Keywords
 
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [sudatoria](http://vocab.getty.edu/page/aat/300004219)
-- [palaestrae](http://vocab.getty.edu/page/aat/300007301)
-- [peristyle (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- {{< keyword "porticoes" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "sudatoria" >}}
+- {{< keyword "palaestrae" >}}
+- {{< keyword "peristyles" >}}
 
 - [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
 - [Cicero](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.364)
@@ -69,10 +69,10 @@ RELATED PHASES ON THE PALATINE:
 
 ## Pleiades ID
 
-[House of M. Tullius Cicero](https://pleiades.stoa.org/places/233061795)
-[Casa dei Grifi](https://pleiades.stoa.org/places/817164756)
-[Palatine Hill](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="233061795" term="House of M. Tullius Cicero" >}}
+- {{< id vocab="Pleiades" id="817164756" term="Casa dei Grifi" >}}
+- {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}
 
 ## TGN ID
 
-[Monte Palatino (hill)](http://vocab.getty.edu/page/tgn/3000935)
+- {{< id vocab="TGN" id="3000935" term="Monte Palatino (hill)" >}}

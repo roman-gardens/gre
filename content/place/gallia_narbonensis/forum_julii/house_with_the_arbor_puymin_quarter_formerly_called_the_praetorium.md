@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [forum_julii]({{<relref ".">}}) \
-[forum_julii](https://pleiades.stoa.org/places/307416064)
+- {{< id vocab="Pleiades" id="307416064" term="forum_julii" >}}
 
 ## Location Description
 
@@ -48,14 +48,14 @@ House with the Arbor, Puymin Quarter, Formerly called the Praetorium
 
 
 ## Keywords
-- [praetoriums](http://vocab.getty.edu/page/aat/300005636)
-- [stairs](http://vocab.getty.edu/page/aat/300003228)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [water wells](http://vocab.getty.edu/page/aat/300152327)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
+- {{< keyword "praetoriums" >}}
+- {{< keyword "stairs" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "water wells" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "balnea" >}}
+- {{< keyword "colonnades" >}}
 
 
 
@@ -101,12 +101,12 @@ A.D. 1-100 Considerable extension to the northeast
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Fréjus (inhabited place)](http://vocab.getty.edu/page/tgn/7008791)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7008791" term="Fréjus (inhabited place)" >}}
 
 ## Contributor
 

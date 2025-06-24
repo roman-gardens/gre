@@ -36,7 +36,7 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 ## Location
 
 [Kos]({{<relref ".">}}) \
-[Kos](https://pleiades.stoa.org/places/599728)
+- {{< id vocab="Pleiades" id="599728" term="Kos" >}}
 
 <!--### Location Description-->
 
@@ -59,17 +59,17 @@ Temple Garden, Sanctuary of Asklepios
 
 ## Keywords
 
-- [sacred groves](http://vocab.getty.edu/page/aat/300251876)
-- [sanctuary centers (religious centers)](http://vocab.getty.edu/page/aat/300391482)
-- [inscription](http://vocab.getty.edu/page/aat/300028702)
+- {{< keyword "sacred groves" >}}
+- {{< keyword "sanctuary centers (religious centers)" >}}
+- {{< keyword "inscriptions" >}}
 - [Athenaeus](https://catalog.perseus.org/catalog/urn:cite:perseus:author.228)
 - [Pliny the Elder](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1141)
 - [Cicero](https://catalog.perseus.org/catalog/urn:cite:perseus:author.365)
 - [Aristotle](https://catalog.perseus.org/catalog/urn:cite:perseus:author.204)
 - [Plutarch](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1144)
-- [quadriportici](http://vocab.getty.edu/page/aat/300004101)
-- [palaestrae](http://vocab.getty.edu/page/aat/300007301)
-- [gymnasiums](http://vocab.getty.edu/page/aat/300007297)
+- {{< keyword "quadriportici" >}}
+- {{< keyword "palaestrae" >}}
+- {{< keyword "gymnasiums (physical education buildings)" >}}
 
 ## Garden Description
 
@@ -103,10 +103,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Grove of Asklepios at Kos](https://pleiades.stoa.org/places/814448537)
+- {{< id vocab="Pleiades" id="814448537" term="Grove of Asklepios at Kos" >}}
 
 ## TGN ID
-[Kos, Nísos (island)](http://vocab.getty.edu/page/tgn/7012054)
+- {{< id vocab="TGN" id="7012054" term="Kos, Nísos (island)" >}}
 
 ## Contributor
 

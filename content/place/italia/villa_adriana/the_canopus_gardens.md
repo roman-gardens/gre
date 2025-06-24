@@ -22,7 +22,7 @@ tags:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Region
 
@@ -31,7 +31,7 @@ Region IV
 
 ## Location
 
-[Hadrian's Villa](https://pleiades.stoa.org/places/423127)
+- {{< id vocab="Pleiades" id="423127" term="Hadrian's Villa" >}}
 
 ## Location Description
 
@@ -44,17 +44,17 @@ The realization of this magnificent residence must have been a cherished dream o
 ## Garden
 
 The Canopus gardens (Fig. 1, n. 2)\
-[Canopus at Hadrian's Villa](https://pleiades.stoa.org/places/856037447)
+- {{< id vocab="Pleiades" id="856037447" term="Canopus at Hadrian's Villa" >}}
 
 ## Keywords
 
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [flower gardens](http://vocab.getty.edu/page/aat/300008135)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "flower gardens" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
 - [canals (waterways)](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300006075)
 
 ## Garden Description
@@ -118,12 +118,12 @@ unspecified
 
 ## Pleiades ID
 
-[Canopus at Hadrian's Villa](https://pleiades.stoa.org/places/856037447)
+- {{< id vocab="Pleiades" id="856037447" term="Canopus at Hadrian's Villa" >}}
 <!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
 
 ## TGN ID
 
-[Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
+- {{< id vocab="TGN" id="7006983" term="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
 ## Contributor

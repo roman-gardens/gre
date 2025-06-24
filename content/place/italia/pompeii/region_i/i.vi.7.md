@@ -15,18 +15,18 @@ categories:
 tags:
  - "atrium houses"
  - "gutters (building drainage components)"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "pillars"
  - "porticoes"
 ---
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -38,11 +38,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VI]({{<relref "#">}})
 
 ## Keywords
-- [atrium houses](http://vocab.getty.edu/page/aat/300005451)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [pillars](http://vocab.getty.edu/page/aat/300264605)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
+- {{< keyword "atrium houses" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "gutters (building drainage components)" >}}
 
 ## Garden
 Fullonica of Stephanus; Fullery of Stephanus.
@@ -93,11 +93,11 @@ Excavated 1912.
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

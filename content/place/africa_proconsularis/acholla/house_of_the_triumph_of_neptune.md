@@ -20,7 +20,7 @@ tags:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -28,7 +28,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 [Acholla (Henchir Botria)]({{<relref ".">}}) \
-[Acholla](https://pleiades.stoa.org/places/324653)
+- {{< id vocab="Pleiades" id="324653" term="Acholla" >}}
 
 ## Location Description
 The city of Acholla was established forty-five km north of Sfax, along the seashore of the coast of Bysacena. When the city took sides with Rome in the third Punic war, Acholla was rewarded with the status of a free city. Later, under Hadrian, the city became a municipum. Production of oil from the countryside, inner cities of Bararus and Thysdrus, and commerce by sea made Acholla, with its harbor, a prosperous town.  Two baths and a series of houses testify to the wealth of the inhabitants of Acholla by the opulence and the originality of their mosaic décor. The mosaic decor gives evidence to the presence of one of the first mosaic workshops in Africa.  
@@ -48,10 +48,10 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Triumph of Neptune (Maison du Triomphe de Neptune)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [oeci](http://vocab.getty.edu/page/aat/300080791)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "oeci" >}}
 
 ## Garden Description
 The fully excavated House of the Triumph of Neptune (1172 m²) is situated in the northern part of the city.  The house has a complete peristyle with one aisle entrance situated indirectly from the northeast (Plan view, Fig. 1).  Opposite the entry, the western wing of the house is organized with a vast colonnaded *oecus-triclinium* in the center.  On both sides of the *oecus-triclinium* there are two apartments with four rooms each and a passage to a non-paved rectangular court.  There is another *triclinium* on the south side of the peristyle and a reception room opening onto the north portico.
@@ -95,10 +95,10 @@ Another possible garden(X) was adjacent to the reception room of the northern ai
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Acholla](https://pleiades.stoa.org/places/324653)
+- {{< id vocab="Pleiades" id="324653" term="Acholla" >}}
 
 ## TGN ID
-[Henchir Bou Tria (deserted settlement)](http://vocab.getty.edu/page/tgn/5003657)
+- {{< id vocab="TGN" id="5003657" term="Henchir Bou Tria (deserted settlement)" >}}
 
 ## Contributor
 [Véronique Blanc-Bijon] (WorldCat Identities: [lccn-nb99006585](http://worldcat.org/identities/lccn-nb99006585/))

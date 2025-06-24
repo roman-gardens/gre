@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Augusta Raurica]({{<relref ".">}}) \
-[Augusta Raurica](https://pleiades.stoa.org/places/177494)
+- {{< id vocab="Pleiades" id="177494" term="Augusta Raurica" >}}
 
 ## Location Description
 
@@ -50,10 +50,10 @@ House in Insula 1 and 2 in Augusta Raurica
 
 archaeological garden \
 
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
+- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "terrace gardens" >}}
 
 ## Garden Description
 
@@ -94,11 +94,11 @@ House: AD 150 - ca. 170
 
 ## Pleiades ID
 
-[Col. Augusta Raurica](https://pleiades.stoa.org/places/177494)
+- {{< id vocab="Pleiades" id="177494" term="Col. Augusta Raurica" >}}
 
 ## TGN ID
 
-[Augusta Rauricorum (deserted settlement)](http://vocab.getty.edu/page/tgn/7017586)
+- {{< id vocab="TGN" id="7017586" term="Augusta Rauricorum (deserted settlement)" >}}
 
 ## Contributor
 

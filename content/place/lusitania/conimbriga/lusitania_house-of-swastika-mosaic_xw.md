@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-[Lusitania](https://pleiades.stoa.org/places/1101)
+- {{< id vocab="Pleiades" id="1101" term="Lusitania" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 [Conimbriga]({{<relref ".">}}) \
-[Conimbriga](https://pleiades.stoa.org/places/236443)
+- {{< id vocab="Pleiades" id="236443" term="Conimbriga" >}}
 
 ## Location Description
 
@@ -48,7 +48,7 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Swastika Mosaic
 
 ## Keywords
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- {{< keyword "mosaics (visual works)" >}}
 
 ## Garden Description
 Far more modest than the House of Cantaber but following the same general ideas of garden design, this house was left outside the new city wall built during the late empire.  The mosaics, now in excellent condition after modern restoration, can be dated to the mid third century A.D., but the house is the result of several successive transformations.  Presumably that history explains why the main room with the mosaic with many swastikas is not aligned with the axis of the garden, though two of its three doorways offered views of it.
@@ -79,7 +79,7 @@ Far more modest than the House of Cantaber but following the same general ideas 
 
 ## Pleiades ID
 
-[Conimbriga](https://pleiades.stoa.org/places/236443)
+- {{< id vocab="Pleiades" id="236443" term="Conimbriga" >}}
 
 
 <!--### Contributor-->

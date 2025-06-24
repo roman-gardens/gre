@@ -32,7 +32,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Eua]({{<relref ".">}}) \
-[Eua](https://pleiades.stoa.org/places/570241)
+- {{< id vocab="Pleiades" id="570241" term="Eua" >}}
 
 <!--### Location Description-->
 
@@ -55,12 +55,12 @@ Villa of Herodes Atticus
 
 ## Keywords
 
-- [Archaeological](#)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
 
 ## Garden Description
 
@@ -101,7 +101,7 @@ From the 2nd century CE until 400 CE
 
 ## Pleiades ID
 
-[Eua?](https://pleiades.stoa.org/places/570241)
+- {{< id vocab="Pleiades" id="570241" term="Eua?" >}}
 
 <!--#### TGN ID-->
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->

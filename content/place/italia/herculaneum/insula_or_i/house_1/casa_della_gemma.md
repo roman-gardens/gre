@@ -23,12 +23,12 @@ tags:
 ## Province
 
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
 [Herculaneum]({{<relref "../..">}}) \
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 
 ## Location Description
@@ -45,10 +45,10 @@ Casa della Gemma (A)
 
 
 ## Keywords
- - [vaults (structural elements)](http://vocab.getty.edu/page/aat/300001324)
- - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
- - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
- - [sundials](http://vocab.getty.edu/page/aat/300041614)
+- {{< keyword "vaults (structural elements)" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "sundials" >}}
 
 ## Garden Description
 A. This garden (a) is built partially into the edge of the hill and partially on vaults. A square opening enclosed by a high wall in the center of the garden supplies light to the floor below, shared by both the Casa della Gemma with windows on three sides and the Casa del Rilievo di Telefo next door with windows on one side. The garden was perhaps jointly owned, although neither had an entrance into the area. Three sides of the garden had large raised gutters 0.74 m. wide; 0.70 m. high which collected roof water and conveyed it to a cistern in the atrium of Casa della Gemma. A sundial is located in this garden.
@@ -62,10 +62,10 @@ A. This garden (a) is built partially into the edge of the hill and partially on
 {{< image src="herc._i.1_17.11.78.jpg" alt="Herculaneum - insula orientalis I. 1-3 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 1-3 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 Unspecified

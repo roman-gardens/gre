@@ -21,7 +21,7 @@ tags:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 
@@ -29,7 +29,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) \
-[THUBURBO MAIUS (Henchir Kasbat), Tunisia](https://pleiades.stoa.org/places/315220)
+- {{< id vocab="Pleiades" id="315220" term="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
 
@@ -44,11 +44,11 @@ The city occupies the slopes of a hill in a fertile grain producing area about 5
 House of the Trussed Animals (Maison des animaux liés)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "cubicula (domestic spaces)" >}}
 
 ## Garden Description
 
@@ -74,11 +74,11 @@ Early 3rd century CE
 
 ## Pleiades_ID
 
-[Thuburbo Maius](https://pleiades.stoa.org/places/315220)
+- {{< id vocab="Pleiades" id="315220" term="Thuburbo Maius" >}}
 
 ## TGN ID
 
-[Kasba, Henchir el (deserted settlement)](http://vocab.getty.edu/page/tgn/7001750)
+- {{< id vocab="TGN" id="7001750" term="Kasba, Henchir el (deserted settlement)" >}}
 
 ## Contributor
 

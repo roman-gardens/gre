@@ -32,7 +32,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Athens]({{<relref ".">}}) \
-[Athens](https://pleiades.stoa.org/places/579885)
+- {{< id vocab="Pleiades" id="579885" term="Athens" >}}
 
 <!--### Location Description-->
 
@@ -40,7 +40,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Sublocation
 
-[Agora of Athens](https://pleiades.stoa.org/places/807514119)
+- {{< id vocab="Pleiades" id="807514119" term="Agora of Athens" >}}
 
 <!--### Sublocation Description-->
 
@@ -52,10 +52,10 @@ Temple of Hephaistos
 
 ## Keywords
 
-- [Archaeological](#)
+<!-- - {{< keyword "archaeological gardens" >}} -->
 - [myrtle (*Myrtus communis*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:599719-1)
-- [pits (earthworks)](http://vocab.getty.edu/page/aat/300008027)
-- [cachepots](http://vocab.getty.edu/page/aat/300197605)
+- {{< keyword "pits (earthworks)" >}}
+- {{< keyword "cachepots" >}}
 - [pomegranate (*Punica granatum*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:554129-1)
 
 ## Garden Description
@@ -95,11 +95,11 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 
 ## Pleiades ID
 
-[Hephaisteion](https://pleiades.stoa.org/places/558659669)
+- {{< id vocab="Pleiades" id="558659669" term="Hephaisteion" >}}
 
 ## TGN ID
 
-[Agorá (ancient site)](http://vocab.getty.edu/page/tgn/5004159)
+- {{< id vocab="TGN" id="5004159" term="Agorá (ancient site)" >}}
 
 ## Contributor
 

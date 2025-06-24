@@ -13,16 +13,16 @@ categories:
   - "Africa Proconsularis"
 
 tags:
- - "temples (buildings)"
+ - "temples"
  - "sanctuaries (religious building spaces)"
- - "courtyards"
- - "planting bed"
+ - "courtyards (uncovered spaces)"
+ - "planting beds"
  - "balustrades"
 ---
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 
@@ -30,7 +30,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 [THUGGA (Dougga) Tunisia]({{<relref ".">}}) \
-[THUGGA (Dougga) Tunisia](https://pleiades.stoa.org/places/315223)
+- {{< id vocab="Pleiades" id="315223" term="THUGGA (Dougga) Tunisia" >}}
 
 {{< image src="dougga_the_sanctuary_of_the_victories_of_caracalla.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
 
@@ -44,11 +44,11 @@ The sanctuary of the Victories of Caracalla
 
 ## Keywords
 
-- [temples (buildings)](#)
-- [sanctuary](#)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [planting beds](http://vocab.getty.edu/page/aat/300430426)
-- [balustrades](http://vocab.getty.edu/page/aat/300001989)
+- {{< keyword "temples (buildings)" >}}
+- {{< keyword "sanctuary" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "planting beds" >}}
+- {{< keyword "balustrades" >}}
 
 ## Garden Description
 
@@ -77,11 +77,11 @@ p. 364, pl. 14. [(worldcat)](http://www.worldcat.org/oclc/1028897747)
 
 ## Pleiades_ID
 
-[Thugga/Tokai?](https://pleiades.stoa.org/places/315223)
+- {{< id vocab="Pleiades" id="315223" term="Thugga/Tokai?" >}}
 
 ## TGN ID
 
-[Dougga (deserted settlement)](http://vocab.getty.edu/page/tgn/7017996)
+- {{< id vocab="TGN" id="7017996" term="Dougga (deserted settlement)" >}}
 
 ## Contributor
 

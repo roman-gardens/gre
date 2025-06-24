@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Onchestos]({{<relref ".">}}) \
-[Onchestos](https://pleiades.stoa.org/places/540984)
+- {{< id vocab="Pleiades" id="540984" term="Onchestos" >}}
 
 <!--### Location Description-->
 
@@ -48,11 +48,11 @@ Sanctuary of Poseidon Onchestios
 
 ## Keywords
 
-- [Literary](#)
+- {{< keyword "literary gardens" >}}
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
-- [sacred groves](http://vocab.getty.edu/page/aat/300251876)
-- [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
+- {{< keyword "sacred groves" >}}
+- {{< keyword "shrines" >}}
+- {{< keyword "statues" >}}
 
 ## Garden Description
 
@@ -105,11 +105,11 @@ unspecified (mentioned in the 1st and 2nd century CE)
 
 ## Pleiades ID
 
-[Onchestos](https://pleiades.stoa.org/places/540984)
+- {{< id vocab="Pleiades" id="540984" term="Onchestos" >}}
 
 ## TGN ID
 
-[Boeotia (regional division)](http://vocab.getty.edu/page/tgn/7002683)
+- {{< id vocab="TGN" id="7002683" term="Boeotia (regional division)" >}}
 
 ## Contributor
 

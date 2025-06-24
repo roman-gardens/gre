@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Wiesbaden-Biebrich]({{<relref ".">}}) \
-[Wiesbaden-Biebrich](https://pleiades.stoa.org/places/109461)
+- {{< id vocab="Pleiades" id="109461" term="Wiesbaden-Biebrich" >}}
 
 ## Location Description
 
@@ -50,8 +50,8 @@ Rural Villa in Wiesbaden-Biebrich
 
 archaeological garden \
 
-- [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- {{< keyword "kitchen gardens" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -88,11 +88,11 @@ unspecified
 
 ## Pleiades ID
 
-[Wiesbaden-Biebrich](https://pleiades.stoa.org/places/109461)
+- {{< id vocab="Pleiades" id="109461" term="Wiesbaden-Biebrich" >}}
 
 ## TGN ID
 
-[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
+- {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
 
 ## Contributor
 

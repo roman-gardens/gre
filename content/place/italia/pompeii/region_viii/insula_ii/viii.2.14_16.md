@@ -13,7 +13,7 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "peristyles (Roman courtyards)"
+  - "peristyles"
   - "porticoes"
   - "amphorae (storage vessels)"
   - "tondi"
@@ -21,11 +21,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -38,10 +38,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref ".">}})
 
 ## Keywords
- - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
- - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
- - [tondi](http://vocab.getty.edu/page/aat/300033622)
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "tondi" >}}
 
 ## Garden Description
 A. The volcanic ledge that this peristyle garden (a) was built on dictated an irregular shape to the portico that enclosed it. The portico had fourteen columns and a rectangular pool in the south-east corner. The west wall of the pool had fourteen small amphoras (30 cm. long; mouth 9.5 cm. wide) arranged in a row of nine on the bottom with a row of eight above. The east wall of the pool had a single row of eight. These provided shelter and spawning places for fish. A possible garden ornament, a tondo (Mus. Naz. inv. no. 121 612), was found in the house. The traces of a garden painting were reported in room II on the lower level by Noack-Hartleben, consisting of a black dado with a yellow fence and foliage painted behind this.
@@ -52,10 +52,10 @@ B. Built on the volcanic ledge, only a triangular segment of this terrace garden
 {{< image src="fig._4_region_viii_insula_ii_14_16_a.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
 
 ## Pleiades ID
-[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
+- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
+- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 
 ##  Excavation Dates

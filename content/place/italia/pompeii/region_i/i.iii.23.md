@@ -14,17 +14,17 @@ categories:
   - "Italia"
 tags:
  - "cisterns (plumbing components)"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "porticoes"
 ---
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -36,8 +36,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref "#">}})
 
 ## Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 ## Garden
 [Peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the rear of a domestic property.
@@ -67,7 +67,7 @@ This site was excavated in 1868 revealing a [peristyle](http://vocab.getty.edu/p
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 Excavated c.1868.

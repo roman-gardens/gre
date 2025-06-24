@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Winkel-Seeb]({{<relref ".">}}) \
-[Winkel-Seeb](https://pleiades.stoa.org/places/177667)
+- {{< id vocab="Pleiades" id="177667" term="Winkel-Seeb" >}}
 
 <!--### Location Description-->
 
@@ -48,13 +48,13 @@ Rural Villa in Winkel-Seeb
 
 ## Keywords
 
-- [archaeological garden](#)
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
-- [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
-- [well houses](http://vocab.getty.edu/page/aat/300008017)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "corridors" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "terrace gardens" >}}
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "well houses" >}}
 
 ## Garden Description
 
@@ -93,11 +93,11 @@ First half of 1st century A.C. - 250
 
 ## Pleiades ID
 
-[Winkel-Seeb](https://pleiades.stoa.org/places/177667)
+- {{< id vocab="Pleiades" id="177667" term="Winkel-Seeb" >}}
 
 ## TGN ID
 
-[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
+- {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
 
 ## Contributor
 

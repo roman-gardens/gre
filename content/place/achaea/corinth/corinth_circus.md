@@ -31,7 +31,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Corinth]({{<relref ".">}}) \
-[Corinth](https://pleiades.stoa.org/places/570182)
+- {{< id vocab="Pleiades" id="570182" term="Corinth" >}}
 
 <!--### Location Description-->
 
@@ -54,10 +54,10 @@ The Circus of Roman Corinth
 
 ## Keywords
 
-- [Archaeological](#)
-- [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
-- [circuses (Roman arenas)](http://vocab.getty.edu/page/aat/300007255)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "circuses (Roman arenas)" >}}
+- {{< keyword "mosaics (visual works)" >}}
 
 ## Garden Description
 
@@ -102,11 +102,11 @@ BIBLIOGRAPHY:
 
 ## Pleiades ID
 
-[Corinthus/Korinthos](https://pleiades.stoa.org/places/570182)
+- {{< id vocab="Pleiades" id="570182" term="Corinthus/Korinthos" >}}
 
 ## TGN ID
 
-[Corinth (inhabited place)](http://vocab.getty.edu/page/tgn/7010734)
+- {{< id vocab="TGN" id="7010734" term="Corinth (inhabited place)" >}}
 
 ## Contributor
 

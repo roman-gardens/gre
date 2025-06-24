@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Soria]({{<relref "../../../..">}})
-[Soria](https://pleiades.stoa.org/places/694916885)
+- {{< id vocab="Pleiades" id="694916885" term="Soria" >}}
 
 <!--### Province Description-->
 
@@ -24,7 +24,7 @@ categories:
 ## Location
 
 [Rioseco Di Soria]({{<relref ".">}}) \
-[Rioseco Di Soria](https://pleiades.stoa.org/places/614074944)
+- {{< id vocab="Pleiades" id="614074944" term="Rioseco Di Soria" >}}
 
 ## Location Description
 This villa is about 600 meters southwest of the town Rioseco di Soria on the right (north) bank of the Sequillo river – here a small stream -- and overlooking its plain. Excavations go back to the early 1970's.  In 2007 the site was marked only by mounds of earth over the ruins.
@@ -46,8 +46,8 @@ A sublocation is any area larger than an individual garden, but located within a
 Villa los Quintanares
 
 ## Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- {{< keyword "peristyles" >}}
+- {{< keyword "mosaics (visual works)" >}}
 
 ## Garden Description
 Built in the second half of the 2nd century CE, it was destroyed during the invasions of the Franks after 256.  Following the recovery of the Empire under Claudius II and Aurelian (268 -275), it was rebuilt and enlarged, surviving into the 5th century. Water was brought to the villa  by a conduit from 1.5 km further up the Sequillo.
@@ -82,7 +82,7 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 
 ## Pleiades ID
 
-[614074944](https://pleiades.stoa.org/places/614074944)
+- {{< id vocab="Pleiades" id="614074944" term="614074944" >}}
 
 
 <!--### Contributor-->

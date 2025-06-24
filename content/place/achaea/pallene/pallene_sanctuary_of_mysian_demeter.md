@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Pallene]({{<relref ".">}}) \
-[Pallene](https://pleiades.stoa.org/places/580051)
+- {{< id vocab="Pleiades" id="580051" term="Pallene" >}}
 
 <!--### Location Description-->
 
@@ -47,10 +47,10 @@ Sanctuary of Mysian Demeter
 
 ## Keywords
 
-- [Literary](#)
+- {{< keyword "literary gardens" >}}
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
-- [sacred groves](http://vocab.getty.edu/page/aat/300251876)
-- [springs (bodies of water)](http://vocab.getty.edu/page/aat/300008697)
+- {{< keyword "sacred groves" >}}
+- {{< keyword "springs (bodies of water)" >}}
 
 ## Garden Description
 
@@ -103,11 +103,11 @@ unspecified (mentioned in the 2nd century CE)
 
 ## Pleiades ID
 
-[Pallene](https://pleiades.stoa.org/places/580051)
+- {{< id vocab="Pleiades" id="580051" term="Pallene" >}}
 
 ## TGN ID
 
-[Argolís (regional division)](http://vocab.getty.edu/page/tgn/7002739)
+- {{< id vocab="TGN" id="7002739" term="Argolís (regional division)" >}}
 
 ## Contributor
 

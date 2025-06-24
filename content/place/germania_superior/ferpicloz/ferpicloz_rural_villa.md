@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Ferpicloz]({{<relref ".">}}) \
-[Ferpicloz](https://pleiades.stoa.org/places/981525)
+- {{< id vocab="Pleiades" id="981525" term="Ferpicloz" >}}
 
 <!--### Location Description-->
 
@@ -50,8 +50,8 @@ Rural Villa in Ferpicloz
 
 archaeological garden \
 
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- {{< keyword "porticoes" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -88,11 +88,11 @@ unspecified
 
 ## Pleiades ID
 
-[Germania Superior](https://pleiades.stoa.org/places/981525)
+- {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
 
 ## TGN ID
 
-[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
+- {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
 
 ## Contributor
 

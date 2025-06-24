@@ -20,7 +20,7 @@ tags:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -30,7 +30,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 [UTICA (Utique)]({{<relref ".">}}) \
-[UTICA (Utique) Tunisia(Pleiades)](https://pleiades.stoa.org/places/315248)
+- {{< id vocab="Pleiades" id="315248" term="UTICA (Utique) Tunisia(Pleiades)" >}}
 
 ## Location Description
 Her geographic situation made of Utica one of the oldest and well-known Phoenician settlements. In 146 B.C, Utica became the capital of the newly created province of Africa and the residence of the governor. With the triumph of Caesar and the resurgence of Carthage, Utica's supremacy would gradually decline under the empire. In 36 B.C. it became a *municipium* and a colony under Hadrian.
@@ -54,10 +54,10 @@ House of the Treasure (Maison au trésor)
 
 ## Keywords
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [semicircular basin](#)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "semicircular basin" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 
 ## Garden Description
@@ -92,11 +92,11 @@ The House is located in the *insula* II (Lots 1,7). The peristyle garden had a s
 
 ## Pleiades ID
 
-[Utica](https://pleiades.stoa.org/places/315248)
+- {{< id vocab="Pleiades" id="315248" term="Utica" >}}
 
 ## TGN ID
 
-[Utica (deserted settlement)](http://vocab.getty.edu/page/tgn/7018163)
+- {{< id vocab="TGN" id="7018163" term="Utica (deserted settlement)" >}}
 
 ## Contributor
 

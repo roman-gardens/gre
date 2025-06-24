@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Thessaloniki]({{<relref ".">}}) \
-[Thessaloniki](https://pleiades.stoa.org/places/491741)
+- {{< id vocab="Pleiades" id="491741" term="Thessaloniki" >}}
 
 <!--### Location Description-->
 
@@ -49,9 +49,9 @@ Tomb Garden of Ti. Claudios Lykos
 
 ## Keywords
 
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [sarcophagi (coffins)](http://vocab.getty.edu/page/aat/300005947)
-- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
+- {{< keyword "tombs" >}}
+- {{< keyword "sarcophagi (coffins)" >}}
+- {{< keyword "epitaphs" >}}
 
 ## Garden Description
 
@@ -89,11 +89,11 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 
 ## Pleiades ID
 
-[Thessalonica](https://pleiades.stoa.org/places/491741)
+- {{< id vocab="Pleiades" id="491741" term="Thessalonica" >}}
 
 ## TGN ID
 
-[Salonika (inhabited place)](http://vocab.getty.edu/page/tgn/7011182)
+- {{< id vocab="TGN" id="7011182" term="Salonika (inhabited place)" >}}
 
 ## Contributor
 

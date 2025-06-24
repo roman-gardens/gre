@@ -17,8 +17,8 @@ categories:
 [Italia]({{<relref "../../../..">}})
 
 ## Location
-[Via Aurelia](https://pleiades.stoa.org/places/174900201)
-[Tomb Garden of C. Nonius Minyas](https://pleiades.stoa.org/places/283772837)
+- {{< id vocab="Pleiades" id="174900201" term="Via Aurelia" >}}
+- {{< id vocab="Pleiades" id="283772837" term="Tomb Garden of C. Nonius Minyas" >}}
 
 <!--### Location Description-->
 
@@ -36,8 +36,8 @@ An ancient Roman road begun ca. 241 B.C. by the censor C. Aurelius Cotta.
 Tomb Garden of Terentia
 
 ## Keywords
-- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- {{< keyword "epitaphs" >}}
+- {{< keyword "tombs" >}}
 
 ## Garden Description
 A fragmentary (and probably reused) epitaph, probably of the first or second century CE, found in the catacombs of Calepodio beside the Via Aurelia identifies a cepota[phium] of Terentia.
@@ -70,7 +70,7 @@ A fragmentary (and probably reused) epitaph, probably of the first or second cen
 
 ## Pleiades ID
 
-[283772837](https://pleiades.stoa.org/places/283772837)
+- {{< id vocab="Pleiades" id="283772837" term="283772837" >}}
 
 
 

@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Region
 
@@ -22,7 +22,7 @@ Region IV
 
 ## Location
 
-[Hadrian's Villa](https://pleiades.stoa.org/places/423127)
+- {{< id vocab="Pleiades" id="423127" term="Hadrian's Villa" >}}
 
 ## Location Description
 
@@ -82,12 +82,12 @@ unspecified
 
 ## Pleiades ID
 
-[Villa Hadriani](https://pleiades.stoa.org/places/423127)
+- {{< id vocab="Pleiades" id="423127" term="Villa Hadriani" >}}
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
 ## TGN ID
 
-[Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
+- {{< id vocab="TGN" id="7006983" term="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
 ## Contributor

@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Mauretania]({{<relref "..">}}) \
-[Mauretania Caesariensis (province)(Pleiades)](https://pleiades.stoa.org/places/981532)
+- {{< id vocab="Pleiades" id="981532" term="Mauretania Caesariensis (province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 [Portus Magnus]({{<relref ".">}}) \  
-[Portus Magnus](https://pleiades.stoa.org/places/285503)
+- {{< id vocab="Pleiades" id="285503" term="Portus Magnus" >}}
 
 ## Location Description
 
@@ -38,12 +38,12 @@ Large House with peristyle and basins
 
 ## Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [peristyle house](http://vocab.getty.edu/page/aat/300005452)
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "peristyle houses" >}}
 
 ## Garden Description
 
@@ -67,7 +67,7 @@ A corridor (see Fig. 1, label M) was bordered by two small gardens (labels N and
 
 ## Pleiades ID
 
-[553386076](https://pleiades.stoa.org/places/553386076)
+- {{< id vocab="Pleiades" id="553386076" term="553386076" >}}
 
 ## TGN ID
 

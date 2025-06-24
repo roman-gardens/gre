@@ -13,18 +13,18 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "peristyles (Roman courtyards)"
+  - "peristyles"
   - "porticoes"
   - "triclinia (rooms)"
 ---
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -37,9 +37,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ## Keywords
- - [peristyles](http://vocab.getty.edu/page/aat/300080971)
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
- - [triclinia (couches)](http://vocab.getty.edu/page/aat/300142552)
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "triclinia (couches)" >}}
 
 ## Garden Description
 A. The Sarno Bath is included in this block of irregular shaped houses, reached by entrance 17 on the Via della Scuole that goes to the lower levels. On the street level there was a small peristyle garden (a) located in the center of the house. Two pillars supported a portico on three sides of the garden and the large triclinium (b) offered a view of the garden. A beautifully rendered painting of grape vines with clusters of fruit, birds, lizards and a little mouse graced the black walls of the peristyle.  
@@ -50,10 +50,10 @@ B. The irregular shapes of the buildings created this triangular light well. Two
 {{< image src="fig._4_region_viii_insula_ii_18_20_a.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
 
 ## Pleiades ID
-[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
+- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
+- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 
 ##  Excavation Dates

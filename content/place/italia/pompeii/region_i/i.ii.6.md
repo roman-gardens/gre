@@ -22,11 +22,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -38,11 +38,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "#">}})
 
 ## Keywords
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [stucco (plaster)](http://vocab.getty.edu/page/aat/300014966)
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "graffiti (casual notations)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "stucco (plaster)" >}}
 
 ## Garden
 Small peristyle garden at the rear of the house.
@@ -67,7 +67,7 @@ The west portico of the small peristyle garden at the rear of the house was ente
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 Excavated 1872. Bombed in 1943.

@@ -17,7 +17,7 @@ tags:
  - "fountains"
  - "gutters (building drainage components)"
  - "oeci"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "piscinae"
  - "porticoes"
  - "tablina"
@@ -26,11 +26,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -43,15 +43,15 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [tablina](http://vocab.getty.edu/page/aat/300004180)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden
 
@@ -101,11 +101,11 @@ Excavated 1912, 1915, 1926 and 1936.
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

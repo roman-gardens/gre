@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Italica]({{<relref ".">}}) \
-[Italica](https://pleiades.stoa.org/places/256231)
+- {{< id vocab="Pleiades" id="256231" term="Italica" >}}
 
 ## Location Description
 
@@ -37,12 +37,12 @@ Theater
 
 ## Keywords
 
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [pedestals](http://vocab.getty.edu/page/aat/300001744)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "pedestals" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
 
 
 
@@ -81,10 +81,10 @@ unspecified
 
 ## Pleiades ID
 [2224658206]{{<relref ".">}}) \
-[224658206](https://pleiades.stoa.org/places/224658206)
+- {{< id vocab="Pleiades" id="224658206" term="224658206" >}}
 
 ## TGN ID
-[Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
+- {{< id vocab="TGN" id="7007822" term="Itálica (deserted settlement)" >}}
 
 ## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

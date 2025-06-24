@@ -33,19 +33,19 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## House
 <!-- invalid
-[II.iii.4-6](https://pleiades.stoa.org/places/998787235)
+- {{< id vocab="Pleiades" id="998787235" term="II.iii.4-6" >}}
 -->
 
 ## Garden
 Small domestic property with a garden to the rear.
 
 ## Keywords
-- [cauponae](http://vocab.getty.edu/page/aat/300005208)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
-- [sacella](http://vocab.getty.edu/page/aat/300007570)
-- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
-- [tufa](http://vocab.getty.edu/page/aat/300011712)
+- {{< keyword "cauponae" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "sacella" >}}
+- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "tufa" >}}
 
 ## Garden Description
 A. A small garden at the rear of this connected house and [caupona](http://vocab.getty.edu/page/aat/300005208) may have originally contained the two small statuettes found at this site in 1953. The two pieces were a headless ithyphallic tufa statuette (0.33 m. high with base; Pompeii inv. no. 10017) and a marble statuette of Venus (0.51 m. high without base; Pompeii inv. no. 9926) with much of the red color preserved in the drapery. The inventory books list this house as II.vi.4.  
@@ -71,7 +71,7 @@ B. The small garden to the rear of house 4 had an entrance into this large open 
 ## Pleiades ID
 
 <!-- invalid
-[998787235](https://pleiades.stoa.org/places/998787235)
+- {{< id vocab="Pleiades" id="998787235" term="998787235" >}}
 -->
 
 

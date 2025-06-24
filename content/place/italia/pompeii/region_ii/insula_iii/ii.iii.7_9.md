@@ -21,7 +21,7 @@ tags:
 ## Location
 
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 <!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
@@ -31,14 +31,14 @@ tags:
 
 <!-- pleiades link prompts for login
 ## House
-[II.iii.7/9](https://pleiades.stoa.org/places/243620947)
+- {{< id vocab="Pleiades" id="243620947" term="II.iii.7/9" >}}
 -->
 
 ## Garden
 Commercial restaurant garden.
 
 ## Keywords
-- [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
+- {{< keyword "tables (support furniture)" >}}
 
 
 ## Garden Description
@@ -62,7 +62,7 @@ This garden restaurant was strategically located across from the Palaestra. This
 
 ## Pleiades ID
 
-[425769173](https://pleiades.stoa.org/places/425769173)
+- {{< id vocab="Pleiades" id="425769173" term="425769173" >}}
 
 
 

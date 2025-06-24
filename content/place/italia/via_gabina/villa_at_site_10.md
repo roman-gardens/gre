@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [Villa at site 10]({{<relref ".">}}) \
-[Villa at site 10](https://pleiades.stoa.org/places/622606468)
+- {{< id vocab="Pleiades" id="622606468" term="Villa at site 10" >}}
 
 <!--### Location Description-->
 
@@ -38,11 +38,11 @@ Villa at site 10
 
 ## Keywords
 
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [villae suburbanae](http://vocab.getty.edu/page/aat/300005519)
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "villae suburbanae" >}}
 
 ## Garden Description
 This large complex villa structure was founded in the Augustan period and was abandoned in the early 3rd century A.D, with evidence from pottery of continued occupation that time.  Not even the peristyle core of the plan could be dated to what we call Period 1 (the early occupation period of the Via Gabina sites).  Pottery, roof tile stamps, and construction technique (revetted concrete) all give four phases to the villa remains – Augustan, Julio Claudian, Domitianic, and Hadrianic.  Reconstructions have been accomplished for all the phases of Period 2, but what interests us here with our focus on gardens is the last or Hadrianic phase (Phase 2 D – Figs. 4 and 5).  
@@ -81,7 +81,7 @@ Unspecified
 
 ## Pleiades ID
 
-[Via Praenestina](https://pleiades.stoa.org/places/622606468)
+- {{< id vocab="Pleiades" id="622606468" term="Via Praenestina" >}}
 
 ## TGN ID
 

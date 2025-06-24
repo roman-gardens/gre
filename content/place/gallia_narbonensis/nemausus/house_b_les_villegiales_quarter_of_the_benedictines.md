@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [nemausus]({{<relref ".">}}) \
-[nemausus](https://pleiades.stoa.org/places/148142)
+- {{< id vocab="Pleiades" id="148142" term="nemausus" >}}
 
 ## Location Description
 
@@ -49,10 +49,10 @@ House B, Les Villégiales, quarter of the Benedictines
 
 ## Keywords
 
-- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-- [ditches](http://vocab.getty.edu/page/aat/300006178)
-- [water wells](http://vocab.getty.edu/page/aat/300152327)
+- {{< keyword "opus signinum" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "ditches" >}}
+- {{< keyword "water wells" >}}
 
 
 
@@ -102,12 +102,12 @@ A.D. 60-90 One of the principal phases of occupation
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Nîmes (inhabited place)](http://vocab.getty.edu/page/tgn/7008371)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7008371" term="Nîmes (inhabited place)" >}}
 
 ## Contributor
 

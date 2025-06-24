@@ -15,7 +15,7 @@ tags:
 
 ## Province
 [Arabia Petraea]({{<relref "..">}})\
-[Arabia (province)](https://pleiades.stoa.org/places/981506)
+- {{< id vocab="Pleiades" id="981506" term="Arabia (province)" >}}
 
 The history of Roman Arabia begins with the death of the Nabataean king, [Rabb'el II Soter](https://en.wikipedia.org/wiki/Rabbel_II_Soter), in A.D. 106. The emperor Trajan annexed the [Nabataean kingdom](https://en.wikipedia.org/wiki/Nabataean_Kingdom)   and organized its territory within the new Roman province of Arabia Petraea that occupied a large area of northwestern Arabia, extending from the Hauran in the north, to the Negev and Sinai deserts in the west, and into the northern Hejaz in the south. The administrative district of Perea, formerly under the Herodian dynasty was also added. The provincial capital of Arabia Petraea was located at [Bostra](https://en.wikipedia.org/wiki/Bosra) which replaced [Petra](https://en.wikipedia.org/wiki/Petra) as the capital of Nabataea in the last decades of that kingdom’s independence. Petra continued to function as an important cultural, political and economic center of the province for at least a century following annexation. During the early Byzantine period (4th-6th centuries CE), the major cities of the Roman era continued to flourish, and Christianity gradually became the accepted religion of the area. Petra remained an important center in the early Byzantine period when it was inhabited by a substantial Christian community and was the seat of a bishopric.
 
@@ -23,7 +23,7 @@ The region of Arabia Petraea is primarily a desert environment that belongs to t
 
 ## Location
 [Maoza, near Zoara]({{<relref "..">}})\
-[Zoara](https://pleiades.stoa.org/places/697768)
+- {{< id vocab="Pleiades" id="697768" term="Zoara" >}}
 
 Babatha's orchard was located in a village by the name of Maḥoz 'Eglatain (Aramaic for "harbor of 'Eglatain"). Alternative names on record are Mahoza and Maoza (Greek Μαωζα). While the exact location of the site is not known, descriptions in the ancient sources place it on the [southeastern coast of the Dead Sea, near the mouth of Wadi Hasa](https://www.pbs.org/wgbh/nova/scrolls/life-02.html) (Biblical Zered). Maoza functioned as the harbor for nearby Ẓo'ar/Zoara (Greek Ζοαρα; modern Ghor el-Safi) (Esler 2017:pp. 66-67), which was the administrative center of the Zoara district of Arabia Petraea (Fig. 1).
 
@@ -33,8 +33,8 @@ Babatha's Orchard
 
 ## Keywords
 
-- [orchards](http://vocab.getty.edu/page/aat/300008890)
-- [irrigation ditches](http://vocab.getty.edu/page/aat/300404100)
+- {{< keyword "orchards" >}}
+- {{< keyword "irrigation ditches" >}}
 
 ## Garden Description
 Babatha's orchard is known only from its documentation in a collection of papyrus scrolls known as the ["Babatha Archive"](https://en.wikipedia.org/wiki/Babatha) that was discovered in 1961 in the [Cave of Letters](https://en.wikipedia.org/wiki/Cave_of_Letters) [near the Dead Sea](https://pleiades.stoa.org/places/363078283/). Babatha was among a group of Jewish fugitives who took shelter in the cave near the end of the [Bar Kokhba Revolt](https://en.wikipedia.org/wiki/Bar_Kokhba_revolt) (15-135 CE). While in hiding, Babatha buried a cache of her personal possessions that included thirty-five legal documents dated between 94 CE and 132 CE. It is assumed that, soon after, Babatha was taken prisoner or killed by Roman soldiers.
@@ -67,11 +67,11 @@ Some years later, Shim'on ben Menahem transferred ownership of the property to h
 [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID)
 
 ## Pleiades ID
-[Zoara](https://pleiades.stoa.org/places/697768)
+- {{< id vocab="Pleiades" id="697768" term="Zoara" >}}
 
 
 ## TGN ID
-[eṣ-Ṣafi (deserted settlement)](http://vocab.getty.edu/page/tgn/4012542)
+- {{< id vocab="TGN" id="4012542" term="eṣ-Ṣafi (deserted settlement)" >}}
 
 ## Contributor
 [Leigh-Ann Bedal](#)

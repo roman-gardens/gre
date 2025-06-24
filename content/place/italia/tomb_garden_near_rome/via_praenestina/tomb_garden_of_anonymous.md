@@ -18,7 +18,7 @@ categories:
 
 ## Location
 
-[Via Praenestina](https://pleiades.stoa.org/places/622606468)
+- {{< id vocab="Pleiades" id="622606468" term="Via Praenestina" >}}
 
 <!--### Location Description-->
 
@@ -34,7 +34,7 @@ Tomb Garden of Anonymous
 
 ## Keywords
 
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- {{< keyword "tombs" >}}
 
 ## Garden Description
 A funerary plaque (evidently complete) discovered in 1861 beside the Via Praenestina near Tor Sapienza records the dimensions of a tomb plot “with a garden enclosed by a wall” eighty-one and a half feet in frontage, forty-three and a half feet in depth (c. 320 square meters).		
@@ -61,7 +61,7 @@ Unspecified
 
 ## Pleiades ID
 
-[Via Praenestina](https://pleiades.stoa.org/places/622606468)
+- {{< id vocab="Pleiades" id="622606468" term="Via Praenestina" >}}
 
 ## TGN ID
 

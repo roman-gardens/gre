@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [arausio]({{<relref ".">}}) \
-[arausio](https://pleiades.stoa.org/places/148054)
+- {{< id vocab="Pleiades" id="148054" term="arausio" >}}
 
 ## Location Description
 
@@ -51,12 +51,12 @@ Quarter of Saint-Florent – House A1, House of Clodius
 ## Keywords
 
 - decumanus
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [pilasters](http://vocab.getty.edu/page/aat/300002737)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "cubicula (domestic spaces)" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "pilasters" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "colonnades" >}}
 
 
 
@@ -92,12 +92,12 @@ A.D 20-30 Destroyed
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Vaucluse (inhabited place)](http://vocab.getty.edu/page/tgn/7599818)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7599818" term="Vaucluse (inhabited place)" >}}
 
 ## Contributor
 

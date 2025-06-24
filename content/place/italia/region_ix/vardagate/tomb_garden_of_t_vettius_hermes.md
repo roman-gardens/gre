@@ -29,7 +29,7 @@ tags:
 ## Location
 
 [Vardagate]({{<relref "../../..">}}) \
-[Vardagate](https://pleiades.stoa.org/places/383809)
+- {{< id vocab="Pleiades" id="383809" term="Vardagate" >}}
 
 <!--### Location Description-->
 
@@ -50,9 +50,9 @@ Tomb garden of T. Vettius Hermes
 
 ## Keywords
 
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
-- [stelae](http://vocab.getty.edu/page/aat/300007023)
+- {{< keyword "tombs" >}}
+- {{< keyword "epitaphs" >}}
+- {{< keyword "stelae" >}}
 
 ## Garden Description
 
@@ -92,7 +92,7 @@ unspecified
 
 ## Pleiades ID
 
-[Vardagate](https://pleiades.stoa.org/places/383809)
+- {{< id vocab="Pleiades" id="383809" term="Vardagate" >}}
 
 ## TGN ID
 

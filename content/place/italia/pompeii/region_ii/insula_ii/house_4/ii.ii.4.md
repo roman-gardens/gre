@@ -12,7 +12,7 @@ draft: false
 categories:
  - "Italia"
 tags:
- - "courtyards"
+ - "courtyards (uncovered spaces)"
  - "porticoes"
 
 ---
@@ -23,7 +23,7 @@ tags:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 <!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
@@ -37,15 +37,15 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "..">}})
 
 ## House
-[House of Messius Ampliatus(II.ii.4))](https://pleiades.stoa.org/places/634179974)
+- {{< id vocab="Pleiades" id="634179974" term="House of Messius Ampliatus(II.ii.4))" >}}
 
 ## Garden
 Narrow garden in the house of Messius Ampliatus.
 
 ## Keywords
 
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "porticoes" >}}
 
 ## Garden Description
 A. The [portico](http://vocab.getty.edu/page/aat/300004145) which bordered the [peristyle](http://vocab.getty.edu/page/aat/300080971) garden on the north and east side was accessed from the entrance hall. This site had been extensively damaged prior to excavation.
@@ -71,7 +71,7 @@ B. The east [portico](http://vocab.getty.edu/page/aat/300004145) gave access to 
 
 ## Pleiades ID
 
-[Villa Tiberii](https://pleiades.stoa.org/places/433204)
+- {{< id vocab="Pleiades" id="433204" term="Villa Tiberii" >}}
 
 
 

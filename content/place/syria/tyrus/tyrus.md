@@ -26,7 +26,7 @@ An irrigation system based around the qanat, an underground water channel, was u
 ## Location
 
 [Tyrus]({{<relref ".">}}) \
-[Tyrus](https://pleiades.stoa.org/places/678437)
+- {{< id vocab="Pleiades" id="678437" term="Tyrus" >}}
 
 <!--### Location Description-->
 
@@ -43,9 +43,9 @@ Tyre, an ancient Phoenician port city (est. 2750 BCE), became part of the Roman 
 Tomb garden at Tyre
 
 ## Keywords
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [niches](http://vocab.getty.edu/page/aat/300002704)
+- {{< keyword "tombs" >}}
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "niches" >}}
 
 ## Garden Description
 A tomb garden (Tomb Complex 15) has been found in a cemetery complex dating to the fourth century CE. (Fig. 1) Excavated by Maurice Chéhab, it features an enclosed garden (18x21 m) surrounded by a wall.  The west wall supports a water channel which fed a rectangular basin in the apsidal hall and a large square basin in the northeast corner of the garden. (Fig. 2) A small square basin was installed by the great basin to catch the water and transmit it to channels in the garden itself. Along the central axis of the garden postholes were found, suggesting a free-standing trellis, or perhaps some form of fence.  Other features of the walls include decorative niches, possibly for sculpture.  No evidence for plants has been recovered, but from the structural arrangement, it is clearly a garden. Such tomb gardens provided a gracious place for visiting the dead and perhaps for growing produce for offerings and subsidizing the maintenance of the complex.
@@ -77,10 +77,10 @@ fourth century CE
 
 ## Pleiades ID
 
-[Tyrus/Col. Septimia Severa](https://pleiades.stoa.org/places/678437)
+- {{< id vocab="Pleiades" id="678437" term="Tyrus/Col. Septimia Severa" >}}
 
 ## TGN ID
-[Syria (province)](http://vocab.getty.edu/page/tgn/7030348)
+- {{< id vocab="TGN" id="7030348" term="Syria (province)" >}}
 
 ## Contributor
 [Kathryn L. Gleason](#) and [Amina-Aïcha Malek](#)

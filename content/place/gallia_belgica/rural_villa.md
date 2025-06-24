@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [BAD DURKHEIM-UNGSTEIN (Germany)]({{<relref ".">}}) \
-[BAD DURKHEIM-UNGSTEIN](https://pleiades.stoa.org/places/108784)
+- {{< id vocab="Pleiades" id="108784" term="BAD DURKHEIM-UNGSTEIN" >}}
 
 <!--### Location Description-->
 
@@ -41,9 +41,9 @@ A sublocation is any area larger than an individual garden, but located within a
 Rural Villa
 
 ## Keywords
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
 
 
 
@@ -87,10 +87,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Bad Dürkheim](https://pleiades.stoa.org/places/108784)
+- {{< id vocab="Pleiades" id="108784" term="Bad Dürkheim" >}}
 
 ## TGN ID
-[Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
+- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

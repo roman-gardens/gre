@@ -20,10 +20,10 @@ tags:
  - "biclinia"
  - "fountains"
  - "impluvia"
- - "insulae"
+ - "insulae (apartments)"
  - "nymphaea (garden structures)"
  - "pergolas"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "porticoes"
  - "triclinia (rooms)"
  - "water supply systems"
@@ -31,11 +31,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -47,20 +47,20 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref ".">}})
 
 ## Keywords
- - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
- - [impluvia](http://vocab.getty.edu/page/aat/300129867)
- - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
- - [biclinia](http://vocab.getty.edu/page/aat/300170371)
- - [aedicules](http://vocab.getty.edu/page/aat/300002574)
- - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
- - [insulae](http://vocab.getty.edu/page/aat/300000325)
- - [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
- - [pergolas](http://vocab.getty.edu/page/aat/300006783)
- - [arbors](http://vocab.getty.edu/page/aat/300006781)
- - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
- - [water supply systems](http://vocab.getty.edu/page/aat/300008618)
- - [fountains](http://vocab.getty.edu/page/aat/300006179)
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "impluvia" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "biclinia" >}}
+- {{< keyword "aedicules" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "arbors" >}}
+- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "water supply systems" >}}
+- {{< keyword "fountains" >}}
 
 
  ## House
@@ -101,10 +101,10 @@ Paul Zanker, 1998, *Pompeii: Public and Private Life, pp.477-480.*
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
+- {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 1916, 1918, 1921, 1933-35 and 1973

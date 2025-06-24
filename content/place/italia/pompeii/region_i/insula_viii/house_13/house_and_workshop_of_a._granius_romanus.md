@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Sublocation
 
@@ -44,10 +44,10 @@ House and Workshop of A. Granius Romanus (I.viii.13)
 
 ## Keywords
 
-- [archaeological garden](#)
-- [graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613)
-- [inscription](#)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "graffiti (casual notations)" >}}
+- {{< keyword "inscription" >}}
+- {{< keyword "lararia" >}}
 
 ## Garden Description
 
@@ -91,11 +91,11 @@ unspecified
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

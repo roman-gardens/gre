@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [Sainte-Marguerite-sur-Mer (Seine-Maritime, France)]({{<relref ".">}}) \
-[Sainte-Marguerite-sur-Mer](https://pleiades.stoa.org/places/109153)
+- {{< id vocab="Pleiades" id="109153" term="Sainte-Marguerite-sur-Mer" >}}
 
 <!--### Location Description-->
 
@@ -40,11 +40,11 @@ A sublocation is any area larger than an individual garden, but located within a
 Sainte-Marguerite-sur-Mer (Seine-Maritime) Roman Villa
 
 ## Keywords
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [hypocausts] (http://vocab.getty.edu/page/aat/300004277)
-- [exedrae] (http://vocab.getty.edu/page/aat/300081589)
-- [triclinia (rooms)] (http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "porticoes" >}}
+- [hypocausts](http://vocab.getty.edu/page/aat/300004277)
+- [exedrae](http://vocab.getty.edu/page/aat/300081589)
+- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
 
 ## Garden Description
 
@@ -78,8 +78,8 @@ Unspecified
 
 ## Bibliography
 - P.J. Féret, Lettre adressée à M. de Caumont sur les fouilles pratiquées à Sainte-Marguerite sur Mer près Dieppe in *Bulletin Monumental* 9, 1843, p. 92-97.  <!-- No worldcat -->
-- Ch.W. Martin, Note sur les fouilles exécutées en 1876 sur l’emplacement de la station romaine de Ste-Marguerite-sur-Mer (Seine inférieure), in *Bulletin de la Société des Antiquaires de Normandie*, 1861, p. 319-326. [(worldcat)] (http://www.worldcat.org/oclc/1026569500)
-- abbé J. Loth, Fouilles de Ste-Marguerite-sur-Mer, in *Bulletin de la Commission des antiquités de la Seine-Inférieure*, Rouen, 1870, p. 68-75. [(worldcat)] (http://www.worldcat.org/oclc/812701053)
+- Ch.W. Martin, Note sur les fouilles exécutées en 1876 sur l’emplacement de la station romaine de Ste-Marguerite-sur-Mer (Seine inférieure), in *Bulletin de la Société des Antiquaires de Normandie*, 1861, p. 319-326. [(worldcat)](http://www.worldcat.org/oclc/1026569500)
+- abbé J. Loth, Fouilles de Ste-Marguerite-sur-Mer, in *Bulletin de la Commission des antiquités de la Seine-Inférieure*, Rouen, 1870, p. 68-75. [(worldcat)](http://www.worldcat.org/oclc/812701053)
 - <! -- In the process of being finalized: J.P. Darmon, Recueil "Erin Mckay" <emckay2@towson.edu>ise II, 5???, 1994 (ou 5 ???), n°:894-902, p.111-114; ???, in CAG Seine-maritime; 76, 20???, p. 497-500 (with detailed bibliography). -->
 
 <!--#### Periodo ID-->
@@ -88,10 +88,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Mediolanum Aulercorum](https://pleiades.stoa.org/places/109153)
+- {{< id vocab="Pleiades" id="109153" term="Mediolanum Aulercorum" >}}
 
 ## TGN ID
-[Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
+- {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

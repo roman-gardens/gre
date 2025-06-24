@@ -19,45 +19,46 @@ tags:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
 [Region IX Circus Flaminius]({{<relref ".">}}) \
-[Campus Martius](https://pleiades.stoa.org/places/422863)
+- {{< id vocab="Pleiades" id="422863" term="Campus Martius" >}}
 
 
 
 ## Garden
 
 Garden of the Mausoleum of Augustus \
-[Mausoleum Augusti](https://pleiades.stoa.org/places/281368358)
+- {{< id vocab="Pleiades" id="281368358" term="Mausoleum Augusti" >}}
 
 ## Keywords
 
-- [altar (religious fixture)](http://vocab.getty.edu/page/aat/300003725)
-- [ambulatio (portico)](http://vocab.getty.edu/page/aat/300004145)
-- [bronze (metal)](http://vocab.getty.edu/page/aat/300010957)
-- [colonnade](http://vocab.getty.edu/page/aat/300002613)
-- [granite](http://vocab.getty.edu/page/aat/300011183)
-- [solaria (sundials)](http://vocab.getty.edu/page/aat/300404895)
-- [inscription](#)
-- [iron](http://vocab.getty.edu/page/aat/300011002)
-- [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
-- [nemus (grove)](http://vocab.getty.edu/page/aat/300008884)
-- [obelisks (monumental pillars)](http://vocab.getty.edu/page/aat/300007021)
-- [(orthostat) cippus](http://vocab.getty.edu/page/aat/300006963)
-- [reliefs (sculptures)](http://vocab.getty.edu/page/aat/300047230)
-- [sculpture](http://vocab.getty.edu/page/aat/300047090)
-- [statue](http://vocab.getty.edu/page/aat/300047600)
-- [travertine](http://vocab.getty.edu/page/aat/300011329)
-- [ustrina](http://vocab.getty.edu/page/aat/300005876)
+- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "ambulatio" >}}
+- {{< keyword "bronze (metal)" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "granite (rock)" >}}
+- {{< keyword "solaria (sundials)" >}}
+- {{< keyword "inscriptions" >}}
+- {{< keyword "iron (metal)" >}}
+- {{< keyword "marble (rock)" >}}
+- {{< keyword "nemus (grove)" >}}
+- {{< keyword "obelisks (monumental pillars)" >}}
+- {{< keyword "orthostats" >}}
+- {{< keyword "cippi" >}}
+- {{< keyword "reliefs (sculptures)" >}}
+- {{< keyword "sculpture" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "travertine" >}}
+- {{< keyword "ustrina" >}}
 
 - [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
 - [Strabo](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1333)
@@ -116,7 +117,7 @@ between 28 and 23 BCE
 
 ## Pleiades ID
 
-[Mausoleum Augusti](https://pleiades.stoa.org/places/281368358)
+- {{< id vocab="Pleiades" id="281368358" term="Mausoleum Augusti" >}}
 
 ## Contributor
 

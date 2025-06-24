@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Sublocation
 
@@ -44,16 +44,16 @@ House of L. Vetutius Placidus and Ascula (at the rear of Themopolium no. 8) (I.v
 
 ## Keywords
 
-- [archaeological garden](#)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [engaged columns](http://vocab.getty.edu/page/aat/300001638)
-- [fulcrum](#)
-- [monopodia](http://vocab.getty.edu/page/aat/300041194)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "engaged columns" >}}
+- {{< keyword "fulcrum" >}}
+- {{< keyword "monopodia" >}}
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "tables (support furniture)" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 
@@ -100,11 +100,11 @@ unspecified
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

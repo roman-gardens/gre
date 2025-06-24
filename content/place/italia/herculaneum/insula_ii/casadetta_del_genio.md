@@ -17,7 +17,7 @@ categories:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 
 ## Location
@@ -45,7 +45,7 @@ Casadetta del Genio
 
 ## Keywords
 
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "porticoes" >}}
 
 ## Garden Description
 This house was partially excavated in 1829-1830 and again in 1850. The *portico* had a floor on the east slightly lower than the sections on the north and south. A pool (a) was located in the center of the garden with a semi-circular extension on the east end and two small marble posts which probably held herms. The pool measured 2.35 m. wide, 0.87 m. deep and was only excavated to a length of 6.50 m.
@@ -69,10 +69,10 @@ NEW WAY ↓↓↓↓
 {{< image src="Herc. II.3   68.6.57.jpg" alt="Illustration of Casadetta del Genio" title="Illustration of Casadetta del Genio" >}}
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 -
 ## Dates
 

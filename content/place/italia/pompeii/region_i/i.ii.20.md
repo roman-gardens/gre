@@ -20,11 +20,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -36,9 +36,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "#">}})
 
 ## Keywords
-- [biclinia](http://vocab.getty.edu/page/aat/300170371)
-- [cauponae](http://vocab.getty.edu/page/aat/300005208)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
+- {{< keyword "biclinia" >}}
+- {{< keyword "cauponae" >}}
+- {{< keyword "lararia" >}}
 
 ## Garden
 Garden serving the [Caupona](http://vocab.getty.edu/page/aat/300005208) of Innulus.
@@ -67,7 +67,7 @@ This small [caupona](http://vocab.getty.edu/page/aat/300005208) had a garden at 
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 Excavated 1869.

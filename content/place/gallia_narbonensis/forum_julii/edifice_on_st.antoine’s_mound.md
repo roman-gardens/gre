@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [forum_julii]({{<relref ".">}}) \
-[forum_julii](https://pleiades.stoa.org/places/307416064)
+- {{< id vocab="Pleiades" id="307416064" term="forum_julii" >}}
 
 ## Location Description
 
@@ -48,11 +48,11 @@ Edifice on St. Antoine’s Mound
 
 
 ## Keywords
-- [praetoriums](http://vocab.getty.edu/page/aat/300005636)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- {{< keyword "praetoriums" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "peristyles" >}}
 
 
 
@@ -90,12 +90,12 @@ The residence perhaps enjoyed an exterior garden in the vast open space of arabl
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Fréjus (inhabited place)](http://vocab.getty.edu/page/tgn/7008791)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7008791" term="Fréjus (inhabited place)" >}}
 
 ## Contributor
 

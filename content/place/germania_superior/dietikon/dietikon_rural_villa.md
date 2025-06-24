@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Dietikon]({{<relref ".">}}) \
-[Dietikon](https://pleiades.stoa.org/places/981525)
+- {{< id vocab="Pleiades" id="981525" term="Dietikon" >}}
 
 <!--### Location Description-->
 
@@ -48,13 +48,13 @@ Rural Villa in Dietikon
 
 ## Keywords
 
-- [archaeological garden](#)
-- [axial plan](http://vocab.getty.edu/page/aat/300121971)
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
-- [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "axial plan" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -104,11 +104,11 @@ Stone-built villa: Middle of the 1st century CE
 
 ## Pleiades ID
 
-[Germania Superior](https://pleiades.stoa.org/places/981525)
+- {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
 
 ## TGN ID
 
-[Dietikon (inhabited place)](http://vocab.getty.edu/page/tgn/7007345)
+- {{< id vocab="TGN" id="7007345" term="Dietikon (inhabited place)" >}}
 
 ## Contributor
 

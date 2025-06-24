@@ -20,11 +20,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -37,8 +37,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ## Keywords
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
- - [palaestrae](http://vocab.getty.edu/page/aat/300007301)
+- {{< keyword "porticoes" >}}
+- {{< keyword "palaestrae" >}}
 
 
 ## Garden Description
@@ -48,10 +48,10 @@ Colonnaded [porticoes](http://vocab.getty.edu/page/aat/300004145) encircled the 
 {{< image src="../../fig._61,_plan_of_region_ii,_insula_vii.png" alt="Fig. 61, Plan of Region II, insula vii, plan in Maiuri, NSc(1939), pl.9" title="Fig. 61, Plan of Region II, insula vii, plan in Maiuri, NSc(1939), pl.9" >}}-->
 
 ## Pleiades ID
-[Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
+- {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Dates
 Excavated 1814 to 1816, 1933, and 1935 to 1939.

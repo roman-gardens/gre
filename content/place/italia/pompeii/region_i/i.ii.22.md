@@ -21,11 +21,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -37,10 +37,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "#">}})
 
 ## Keywords
-- [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
-- [cauponae](http://vocab.getty.edu/page/aat/300005208)
-- [pillars](http://vocab.getty.edu/page/aat/300264605)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "cauponae" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "porticoes" >}}
 
 ## Garden
 Garden serving a [caupona](http://vocab.getty.edu/page/aat/300005208).
@@ -64,7 +64,7 @@ This [caupona](http://vocab.getty.edu/page/aat/300005208) was excavated in 1873 
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 Excavated 1870.

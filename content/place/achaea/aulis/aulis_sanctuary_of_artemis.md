@@ -32,7 +32,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Aulis]({{<relref ".">}}) \
-[Aulis](https://pleiades.stoa.org/places/579889)
+- {{< id vocab="Pleiades" id="579889" term="Aulis" >}}
 
 <!--### Location Description-->
 
@@ -50,11 +50,11 @@ Sanctuary of Artemis
 
 ## Keywords
 
-- [Literary](#)
+- {{< keyword "literary gardens" >}}
 - [date palms (*Phoenix dactylifera*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:668912-1)
-- [sacred groves](http://vocab.getty.edu/page/aat/300251876)
+- {{< keyword "sacred groves" >}}
 - [Pausanias](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1054)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
+- {{< keyword "statues" >}}
 
 ## Garden Description
 
@@ -93,11 +93,11 @@ unspecified
 
 ## Pleiades ID
 
-[Aulis](https://pleiades.stoa.org/places/579889)
+- {{< id vocab="Pleiades" id="579889" term="Aulis" >}}
 
 ## TGN ID
 
-[Avlida (inhabited place)](http://vocab.getty.edu/page/tgn/5004252)
+- {{< id vocab="TGN" id="5004252" term="Avlida (inhabited place)" >}}
 
 ## Contributor
 

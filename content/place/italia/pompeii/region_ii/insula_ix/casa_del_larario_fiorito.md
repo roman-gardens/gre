@@ -14,18 +14,18 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "charcoal"
+ - "charcoal (material)"
  - "pollen"
  - "triclinia (rooms)"
 ---
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -38,9 +38,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
  - [porticoes]
- - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300142552)
- - [charcoal](http://vocab.getty.edu/page/aat/300012862)]
- - [pollen](http://vocab.getty.edu/page/aat/300213002)
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "charcoal (material)" >}}]
+- {{< keyword "pollen" >}}
 
 
 ## Garden Description
@@ -60,10 +60,10 @@ Need Fig. 77-->
 
 
 ## Pleiades ID
-[Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
+- {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 Excavated 1951, 1954, 1987. Restored 1988. Re-opened 2018.

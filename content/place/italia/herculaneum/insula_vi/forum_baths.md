@@ -17,7 +17,7 @@ categories:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 
 ## Location
@@ -39,8 +39,8 @@ VI
 Forum Baths
 
 ## Keywords
-- [palaestrae](http://vocab.getty.edu/page/aat/300007301)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "palaestrae" >}}
+- {{< keyword "porticoes" >}}
 ---
 
 ## Garden Description
@@ -54,10 +54,10 @@ During 1873-1875 the courtyard (a) of the *palaestra* was excavated. A section o
 
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 
 ## Dates

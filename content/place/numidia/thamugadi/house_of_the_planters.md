@@ -21,7 +21,7 @@ tags:
 
 ## Province
 [Numidia]({{<relref "..">}}) \
-[Numidia](https://pleiades.stoa.org/places/981539)
+- {{< id vocab="Pleiades" id="981539" term="Numidia" >}}
 
 ## Province Description
 
@@ -30,7 +30,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 [Thamugadi]({{<relref ".">}}) \
-[Thamugadi](https://pleiades.stoa.org/places/334636)
+- {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}
 
 {{< image src="timgad_city_plan_house_of_the_planters.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
 
@@ -56,11 +56,11 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Planters (Maison aux jardinières)
 
 ## Keywords
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [water wells](http://vocab.getty.edu/page/aat/300152327)
-- [planters (containers)](http://vocab.getty.edu/page/aat/300237566)
-- [herm-heads](#)
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "water wells" >}}
+- {{< keyword "planters (containers)" >}}
+- {{< keyword "herm-heads" >}}
 
 ## Garden Description
  Located SW of the Decumanus and NE of the forum, the house of the "Jardinières" almost square shaped, was laid out around a peristyle of 10 columns. Along the three porticoes and the angles of the fourth were arranged planters (10,50 x10,50 m) whose contours are curved. Double herm-heads or two sided-plaque with masks were found, they may have surmounted the corner pilasters of the courtyard. In the middle was a well. Facing the entrance and opening towards the courtyard, a large reception room was surrounded on its two sides by a vestibule leading to a room. (Plan view Fig.1; Fig.2)
@@ -102,10 +102,10 @@ House of the Planters (Maison aux jardinières)
 
 ## Pleiades ID
 
-[Thamugadi](https://pleiades.stoa.org/places/334636)
+- {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}
 
 ## TGN ID
-[Timgad (deserted settlement)](http://vocab.getty.edu/page/tgn/7001328)
+- {{< id vocab="TGN" id="7001328" term="Timgad (deserted settlement)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

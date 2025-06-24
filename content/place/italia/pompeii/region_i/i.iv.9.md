@@ -20,11 +20,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -36,9 +36,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IV]({{<relref "#">}})
 
 ## Keywords
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
-- [tablina](http://vocab.getty.edu/page/aat/300004180)
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "tablina" >}}
 
 ## Garden
 Viridarium garden in a domestic property.
@@ -65,7 +65,7 @@ This garden contains a [cistern](http://vocab.getty.edu/page/aat/300052558) open
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 Excavated 1855 and 1861.

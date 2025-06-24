@@ -15,12 +15,12 @@ tags:
  - "domus"
  - "peristyle houses"
  - "semicircular basin"
- - "pools (bodies of water)"
+ - "pools"
 ---
 
 ## Province
 [Numidia]({{<relref "..">}}) \
-[Numidia](https://pleiades.stoa.org/places/981539)
+- {{< id vocab="Pleiades" id="981539" term="Numidia" >}}
 
 ## Province Description
 
@@ -29,7 +29,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 [Thamugadi]({{<relref ".">}}) \
-[Thamugadi](https://pleiades.stoa.org/places/334636)
+- {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}
 
 {{< image src="timgad_city_plan_house_of_the_warehouse.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
 
@@ -54,10 +54,10 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Warehouse (Maison de l'entrepôt)
 
 ## Keywords
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [semicircular basin](#)
-- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "semicircular basin" >}}
+- {{< keyword "pools" >}}
 ## Garden Description
 This large house was laid out around two peristyles (A,B) arranged along the N S axis. The plan presents a complex layout notably in the southern part of the *domus* upon which the excavators did not comment thoroughly (Plan view, Fig. 1).
 
@@ -96,10 +96,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Thamugadi](https://pleiades.stoa.org/places/334636)
+- {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}
 
 ## TGN ID
-[Timgad (deserted settlement)](http://vocab.getty.edu/page/tgn/7001328)
+- {{< id vocab="TGN" id="7001328" term="Timgad (deserted settlement)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

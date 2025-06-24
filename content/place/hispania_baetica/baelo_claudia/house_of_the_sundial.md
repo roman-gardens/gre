@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Baelo Claudia]({{<relref ".">}}) \
-[Baelo Claudia](https://pleiades.stoa.org/places/256005)
+- {{< id vocab="Pleiades" id="256005" term="Baelo Claudia" >}}
 
 ## Location Description
 
@@ -48,8 +48,8 @@ Villa del Cortijo de los Vila
 
 ## Keywords
 
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "peristyles" >}}
 
 
 ## Garden Description
@@ -95,10 +95,10 @@ unspecified
 
 ## Pleiades ID
 [House of the Sundial at Baelo]{{<relref ".">}}) \
-[House of the Sundial at Baelo](https://pleiades.stoa.org/places/510567670)
+- {{< id vocab="Pleiades" id="510567670" term="House of the Sundial at Baelo" >}}
 
 ## TGN ID
-[Baelo Claudia (deserted settlement)](http://vocab.getty.edu/page/tgn/8712326)
+- {{< id vocab="TGN" id="8712326" term="Baelo Claudia (deserted settlement)" >}}
 
 ## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [COLONIA AUGUSTA TREVERORUM (Trier, Germany)]({{<relref ".">}}) \
-[COLONIA AUGUSTA TREVERORUM](https://pleiades.stoa.org/places/108894)
+- {{< id vocab="Pleiades" id="108894" term="COLONIA AUGUSTA TREVERORUM" >}}
 
 <!--### Location Description-->
 
@@ -41,9 +41,9 @@ A sublocation is any area larger than an individual garden, but located within a
 Urban House East of Forum
 
 ## Keywords
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "peristyles" >}}
 
 
 
@@ -87,10 +87,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Col. Augusta Treverorum](https://pleiades.stoa.org/places/108894)
+- {{< id vocab="Pleiades" id="108894" term="Col. Augusta Treverorum" >}}
 
 ## TGN ID
-[Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
+- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

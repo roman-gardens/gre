@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 <!-- ### Province Description -->
 
@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Genava, ((Geneva, France)]({{<relref ".">}}) \
-[Genava](https://pleiades.stoa.org/places/177528)
+- {{< id vocab="Pleiades" id="177528" term="Genava" >}}
 
 ## Location Description
 
@@ -43,9 +43,9 @@ Suburban Villa
 
 <!-- ### Keywords -->
 ## Keywords
-- [villae suburbanae](http://vocab.getty.edu/page/aat/300005519)
-- [peristyles](http://vocab.getty.edu/page/aat/300080971)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- {{< keyword "villae suburbanae" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
 
 ## Garden Description
 
@@ -79,12 +79,12 @@ None Available
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Genava](https://pleiades.stoa.org/places/177528)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="Pleiades" id="177528" term="Genava" >}}
 
 ## Contributor
 

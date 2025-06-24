@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Fishbourne]({{<relref ".">}}) \
-[Fishbourne](https://pleiades.stoa.org/places/79466)
+- {{< id vocab="Pleiades" id="79466" term="Fishbourne" >}}
 
 <!--### Location Description-->
 
@@ -48,15 +48,15 @@ Roman Palace in Fishbourne
 
 ## Keywords
 
-- [archaeological gardens](#)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [loam](http://vocab.getty.edu/page/aat/300014335)
-- [palaces](http://vocab.getty.edu/page/aat/300005734)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [presence chambers](http://vocab.getty.edu/page/aat/300004445)
-- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
-- [vegetable gardens](http://vocab.getty.edu/page/aat/300008142)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "loam" >}}
+- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "presence chambers" >}}
+- {{< keyword "terrace gardens" >}}
+- {{< keyword "vegetable gardens" >}}
 
 ## Garden Description
 
@@ -109,11 +109,11 @@ late 1st century CE - unspecified
 
 ## Pleiades ID
 
-[Fishbourne](https://pleiades.stoa.org/places/79466)
+- {{< id vocab="Pleiades" id="79466" term="Fishbourne" >}}
 
 ## TGN ID
 
-[Fishbourne Roman Palace (historic site)](http://vocab.getty.edu/page/tgn/7032567)
+- {{< id vocab="TGN" id="7032567" term="Fishbourne Roman Palace (historic site)" >}}
 
 ## Contributor
 

@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [nemausus]({{<relref ".">}}) \
-[nemausus](https://pleiades.stoa.org/places/148142)
+- {{< id vocab="Pleiades" id="148142" term="nemausus" >}}
 
 ## Location Description
 
@@ -49,10 +49,10 @@ Domus de La Marseillaise
 
 ## Keywords
 
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [pilasters](http://vocab.getty.edu/page/aat/300002737)
+- {{< keyword "porticoes" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "pilasters" >}}
 
 
 
@@ -92,12 +92,12 @@ A.D. 40-60 Built
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Nîmes (inhabited place)](http://vocab.getty.edu/page/tgn/7008371)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7008371" term="Nîmes (inhabited place)" >}}
 
 ## Contributor
 

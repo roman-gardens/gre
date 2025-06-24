@@ -14,13 +14,13 @@ categories:
 tags:
  - "domus"
  - "peristyle houses"
- - "pools (bodies of water)"
+ - "pools"
  - "mosaics (visual works)"
 ---
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 
@@ -28,7 +28,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 [THUGGA (Dougga) Tunisia]({{<relref ".">}}) \
-[THUGGA (Dougga) Tunisia](https://pleiades.stoa.org/places/315223)
+- {{< id vocab="Pleiades" id="315223" term="THUGGA (Dougga) Tunisia" >}}
 
 
 {{< image src="dougga_house_of_venus.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
@@ -43,10 +43,10 @@ House of Venus (Maison de Venus)
 
 ## Keywords
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "mosaics (visual works)" >}}
 
 
 ## Garden Description
@@ -70,11 +70,11 @@ The house of Venus is located at the S of the capitol and is adjacent to the tem
 
 ## Pleiades_ID
 
-[Thugga/Tokai?](https://pleiades.stoa.org/places/315223)
+- {{< id vocab="Pleiades" id="315223" term="Thugga/Tokai?" >}}
 
 ## TGN ID
 
-[Dougga (deserted settlement)](http://vocab.getty.edu/page/tgn/7017996)
+- {{< id vocab="TGN" id="7017996" term="Dougga (deserted settlement)" >}}
 
 ## Contributors
 

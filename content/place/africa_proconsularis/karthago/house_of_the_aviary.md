@@ -21,12 +21,12 @@ tag:
   - "cascade"
   - "oeci"
   - "frons scaenae"
-  - "pools (bodies of water)"
+  - "pools"
 ---
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -34,7 +34,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 [Karthago]({{<relref ".">}}) \
-[Karthago](https://pleiades.stoa.org/places/314921)
+- {{< id vocab="Pleiades" id="314921" term="Karthago" >}}
 
 ## Location Description
 
@@ -58,16 +58,16 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Aviary (Maison de la Volière)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [trees](#)
-- [tree cavities](#)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [cascade](#)
-- [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [frons scaenae](#)
-- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "trees" >}}
+- {{< keyword "tree cavities" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cascade" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "frons scaenae" >}}
+- {{< keyword "pools" >}}
 
 ## Garden Description
  Located on a hill overlooking Carthage, the *house of the aviary* is divided into two parts: the unit centered on the peristyle in the west, and the ensemble with the reception room in the east (Plan view, Fig. 1).
@@ -113,10 +113,10 @@ the end of 2nd-4th century CE
 
 ## Pleiades ID
 
-[Carthago](https://pleiades.stoa.org/places/314921)
+- {{< id vocab="Pleiades" id="314921" term="Carthago" >}}
 
 ## TGN ID
-[Carthage (deserted settlement)](http://vocab.getty.edu/page/tgn/7016143)
+- {{< id vocab="TGN" id="7016143" term="Carthage (deserted settlement)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

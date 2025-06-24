@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -50,7 +50,7 @@ House of the Ocean Gods
 
 ## Keywords
 
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "porticoes" >}}
 
 
 
@@ -119,12 +119,12 @@ A.D. 185-A.D 247
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Saint-Romain-en-Gal (inhabited place)](http://vocab.getty.edu/page/tgn/5004109)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="5004109" term="Saint-Romain-en-Gal (inhabited place)" >}}
 
 ## Contributor
 

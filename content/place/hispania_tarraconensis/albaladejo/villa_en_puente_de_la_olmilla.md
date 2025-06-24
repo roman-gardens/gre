@@ -15,7 +15,7 @@ categories:
 
 ## Province
 [Hispania Tarraconensis]({{<relref "..">}}) \
-[Tarraconensis(Pleiades)](https://pleiades.stoa.org/places/981551)
+- {{< id vocab="Pleiades" id="981551" term="Tarraconensis(Pleiades)" >}}
 
 
 ## Province Description
@@ -46,7 +46,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 [Puente de la Olmilla]({{<relref ".">}}) \
-[Puente de la Olmilla](https://pleiades.stoa.org/places/266009)
+- {{< id vocab="Pleiades" id="266009" term="Puente de la Olmilla" >}}
 
 <!--### Location Description-->
 
@@ -68,7 +68,7 @@ Villa en Puente de la Olmilla
 
 
 ## Keywords
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "triclinia (rooms)" >}}
 
 
 ## Garden Description
@@ -98,10 +98,10 @@ This fourth-century villa was discovered in 1973.  An apse and a figured mosaic 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Puente de la Olmilla](https://pleiades.stoa.org/places/266009)
+- {{< id vocab="Pleiades" id="266009" term="Puente de la Olmilla" >}}
 
 ## TGN ID
-[Albaladejito (inhabited place)](http://vocab.getty.edu/page/tgn/7347952)
+- {{< id vocab="TGN" id="7347952" term="Albaladejito (inhabited place)" >}}
 
 
 ## Contributor

@@ -16,12 +16,12 @@ tags:
 ## Province
 
 [Italia]({{<relref "..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
 [Ostia]({{<relref ".">}}) \
-[Ostia](https://pleiades.stoa.org/places/422995)
+- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 
 ## Location Description
 
@@ -52,13 +52,13 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 ## Garden
 
 Garden beneath the House of the Fishes (Domus dei Pesci) \
-[House of the Fishes](https://pleiades.stoa.org/places/223974300)
+- {{< id vocab="Pleiades" id="223974300" term="House of the Fishes" >}}
 
 ## Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [terracotta (clay material)](http://vocab.getty.edu/page/aat/300010669)
-- [water supply systems](http://vocab.getty.edu/page/aat/300008618)
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "terracotta (clay material)" >}}
+- {{< keyword "water supply systems" >}}
 
 ## Garden Description
 
@@ -94,11 +94,11 @@ unspecified
 
 ## Pleiades ID
 
-[House of the Fishes](https://pleiades.stoa.org/places/223974300)
+- {{< id vocab="Pleiades" id="223974300" term="House of the Fishes" >}}
 
 ## TGN ID
 
-[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
+- {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor

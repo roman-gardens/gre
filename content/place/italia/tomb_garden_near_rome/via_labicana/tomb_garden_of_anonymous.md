@@ -17,8 +17,8 @@ categories:
 [Italia]({{<relref "../../../..">}})
 
 ## Location
-[Via Labicana](https://pleiades.stoa.org/places/74935822)
-[Tomb Garden of Anonymous](https://pleiades.stoa.org/places/60995119)
+- {{< id vocab="Pleiades" id="74935822" term="Via Labicana" >}}
+- {{< id vocab="Pleiades" id="60995119" term="Tomb Garden of Anonymous" >}}
 
 <!--### Location Description-->
 
@@ -35,9 +35,9 @@ An ancient Roman road connecting Rome and Labicum.
 Tomb Garden of Anonymous
 
 ## Keywords
-- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
-- [sepulchral monuments](http://vocab.getty.edu/page/aat/300005909)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- {{< keyword "epitaphs" >}}
+- {{< keyword "sepulchral monuments" >}}
+- {{< keyword "tombs" >}}
 
 
 ## Garden Description
@@ -69,7 +69,7 @@ Unspecified
 
 ## Pleiades ID
 
-[60995119](https://pleiades.stoa.org/places/60995119)
+- {{< id vocab="Pleiades" id="60995119" term="60995119" >}}
 
 
 

@@ -9,7 +9,7 @@ author: Thomas Morard
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "courtyards"
+ - "courtyards (uncovered spaces)"
  - "porticoes"
  - "water supply systems"
 ---
@@ -17,12 +17,12 @@ tags:
 ## Province
 
 [Italia]({{<relref "..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
 [Ostia]({{<relref ".">}}) \
-[Ostia](https://pleiades.stoa.org/places/422995)
+- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 
 ## Location Description
 
@@ -56,21 +56,21 @@ House with Peristyle
 
 ## Keywords
 
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [Early Imperial](http://vocab.getty.edu/page/aat/300107346)
-- [hydraulic mortar](http://vocab.getty.edu/page/aat/300014756)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [niches](http://vocab.getty.edu/page/aat/300002704)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [opus spicatum](http://vocab.getty.edu/page/aat/300417912)
-- [opus tessellatum (process)](http://vocab.getty.edu/page/aat/300379968)
-- [opus testaceum](http://vocab.getty.edu/page/aat/300265616)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [root cellars](http://vocab.getty.edu/page/aat/300004761)
-- [water supply systems](http://vocab.getty.edu/page/aat/300008618)
-- [water wells](http://vocab.getty.edu/page/aat/300152327)
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "Early Imperial" >}}
+- {{< keyword "hydraulic mortar" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "opus spicatum" >}}
+- {{< keyword "opus tessellatum (process)" >}}
+- {{< keyword "opus testaceum" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "root cellars" >}}
+- {{< keyword "water supply systems" >}}
+- {{< keyword "water wells" >}}
 
 ## Garden Description
 
@@ -111,12 +111,12 @@ winter of 1938-1939
 
 ## Pleiades ID
 
-[Ostia](https://pleiades.stoa.org/places/422995)
+- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 <!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
 ## TGN ID
 
-[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
+- {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor

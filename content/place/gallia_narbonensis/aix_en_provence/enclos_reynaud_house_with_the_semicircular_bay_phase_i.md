@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -49,10 +49,10 @@ Enclos Reynaud, House with the semicircular bay, phase I
 
 ## Keywords
 
-- [vestibules](http://vocab.getty.edu/page/aat/300083076)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- {{< keyword "vestibules" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "opus sectile (visual works)" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
 
 
 
@@ -104,12 +104,12 @@ NEW WAY ↓↓↓↓
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Aix-en-Provence (inhabited place)](http://vocab.getty.edu/page/tgn/7010786)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7010786" term="Aix-en-Provence (inhabited place)" >}}
 
 ## Contributor
 

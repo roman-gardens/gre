@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Castellón]({{<relref "../../../..">}})
-[Monte Castellone 2](https://pleiades.stoa.org/places/432947)
+- {{< id vocab="Pleiades" id="432947" term="Monte Castellone 2" >}}
 
 <!--### Province Description-->
 
@@ -24,7 +24,7 @@ categories:
 ## Location
 
 [Nules]({{<relref ".">}}) \
-[Pujol de Benicató](https://pleiades.stoa.org/places/266010)
+- {{< id vocab="Pleiades" id="266010" term="Pujol de Benicató" >}}
 
 <!--### Location Description-->
 
@@ -46,8 +46,8 @@ A sublocation is any area larger than an individual garden, but located within a
 Villa de Benicató
 
 ## Keywords
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "corridors" >}}
 
 ## Garden Description
 The first finds go back to 1883.  Part of the site was acquired by the provincial government in 1954 and archaeological work was begun the next year, but the reports remain unpublished.  
@@ -82,7 +82,7 @@ The villa from the middle of the 2nd century evolved around a peristyle garden w
 
 ## Pleiades ID
 
-[Pujol de Benicató](https://pleiades.stoa.org/places/266010)
+- {{< id vocab="Pleiades" id="266010" term="Pujol de Benicató" >}}
 
 
 <!--### Contributor-->

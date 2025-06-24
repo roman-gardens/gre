@@ -10,26 +10,26 @@ editor: Rhiannon Paré
 draft: false
 tags:
  - "domus"
- - "palaces"
- - "peristyles (Roman courtyards)"
- - "temples (buildings)"
+ - "palaces (official residences)"
+ - "peristyles"
+ - "temples"
 ---
 
 ## Province
 
 [Italia]({{<relref "../..">}})\
-[Italia](https://pleiades.stoa.org/places/1052)\
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}\
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
 [Palatine]({{<relref ".">}}) \
-[Mons Palatinus](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
 
@@ -39,10 +39,10 @@ Vigna Barberini Site Overview, Palatine
 
 ## Keywords
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [palace](http://vocab.getty.edu/page/aat/300005734)
-- [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
-- [temple (building)](http://vocab.getty.edu/page/aat/300007595)
+- {{< keyword "domus" >}}
+- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "temples" >}}
 
 
 ## Garden Description
@@ -90,7 +90,7 @@ PHASES OF THE VIGNA BARBERINI SITE:
 
 ## Pleiades ID
 
-[Palatinus Mons](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Palatinus Mons" >}}
 
 ## Contributor
 

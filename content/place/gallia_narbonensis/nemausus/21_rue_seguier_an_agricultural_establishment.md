@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [nemausus]({{<relref ".">}}) \
-[nemausus](https://pleiades.stoa.org/places/148142)
+- {{< id vocab="Pleiades" id="148142" term="nemausus" >}}
 
 ## Location Description
 
@@ -49,9 +49,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Keywords
 
-- [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
-- [flowerpots](http://vocab.getty.edu/page/aat/300194749)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "porticoes" >}}
 
 
 
@@ -93,12 +93,12 @@ A.D 80-100 Two burials made
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Nîmes (inhabited place)](http://vocab.getty.edu/page/tgn/7008371)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7008371" term="Nîmes (inhabited place)" >}}
 
 ## Contributor
 

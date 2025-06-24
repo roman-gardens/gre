@@ -12,8 +12,8 @@ draft: false
 categories:
  - "Italia"
 tags:
- - "courtyards"
- - "insulae"
+ - "courtyards (uncovered spaces)"
+ - "insulae (apartments)"
 ---
 
 ## Province
@@ -21,18 +21,18 @@ tags:
 
 ## Location
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 <!--### Location Description-->
 <!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Sublocation
 [Region II]({{<relref "../..">}}) \
-[Region II](https://pleiades.stoa.org/places/456321707)
+- {{< id vocab="Pleiades" id="456321707" term="Region II" >}}
 
 
 ## House
-[House of Messius Ampliatus(II.ii.4)](https://pleiades.stoa.org/places/634179974)
+- {{< id vocab="Pleiades" id="634179974" term="House of Messius Ampliatus(II.ii.4)" >}}
 
 
 ## Garden
@@ -40,8 +40,8 @@ Peristyle garden in house of Messius Ampliatus (II.ii.4)
 
 ## Keywords
 
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
 
 ## Garden Description
 
@@ -65,7 +65,7 @@ Unspecified
 
 ## Pleiades ID
 
-[House of Messius Ampliatus](https://pleiades.stoa.org/places/634179974)
+- {{< id vocab="Pleiades" id="634179974" term="House of Messius Ampliatus" >}}
 
 
 

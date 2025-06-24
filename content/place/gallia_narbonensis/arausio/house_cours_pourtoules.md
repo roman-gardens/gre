@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [arausio]({{<relref ".">}}) \
-[arausio](https://pleiades.stoa.org/places/148054)
+- {{< id vocab="Pleiades" id="148054" term="arausio" >}}
 
 ## Location Description
 
@@ -54,12 +54,12 @@ In 1984 – 86, prior to construction of a parking garage, a large area of some 
 
 ## Keywords
 
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [doliums](http://vocab.getty.edu/page/aat/300400601)
-- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462)
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "dolia" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "opus sectile (visual works)" >}}
 
 
 
@@ -115,12 +115,12 @@ Among the objects found at Cours Pourtoules was a terracotta *oscillum* represen
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Vaucluse (inhabited place)](http://vocab.getty.edu/page/tgn/7599818)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7599818" term="Vaucluse (inhabited place)" >}}
 
 ## Contributor
 

@@ -15,7 +15,7 @@ tags:
  - "atriums (Roman halls)"
  - "basins (vessels)"
  - "balnea"
- - "courtyards"
+ - "courtyards (uncovered spaces)"
  - "drains"
  - "gutters (building drainage components)"
  - "reception rooms"
@@ -35,7 +35,7 @@ tags:
 ## Location
 
 [LA SPEZIA]({{<relref "../../..">}}) \
-[LA SPEZIA](https://pleiades.stoa.org/places/966420455)
+- {{< id vocab="Pleiades" id="966420455" term="LA SPEZIA" >}}
 
 <!--### Location Description-->
 
@@ -56,16 +56,16 @@ Villa at Luna
 
 ## Keywords
 
-- [drains](http://vocab.getty.edu/page/aat/300052564)
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [vestibules](http://vocab.getty.edu/page/aat/300083076)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [water baths](http://vocab.getty.edu/page/aat/300248755)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- {{< keyword "drains" >}}
+- {{< keyword "balnea" >}}
+- {{< keyword "vestibules" >}}
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "water baths" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "basins (vessels)" >}}
 
 ## Garden Description
 
@@ -104,11 +104,11 @@ unspecified
 
 ## Pleiades ID
 
-[Roman forum of Luna](https://pleiades.stoa.org/places/966420455)
+- {{< id vocab="Pleiades" id="966420455" term="Roman forum of Luna" >}}
 
 ## TGN ID
 
-[La Spezia (province)](http://vocab.getty.edu/page/tgn/7003143)
+- {{< id vocab="TGN" id="7003143" term="La Spezia (province)" >}}
 
 ## Contributor
 

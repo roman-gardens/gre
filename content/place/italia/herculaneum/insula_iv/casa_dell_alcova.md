@@ -17,7 +17,7 @@ categories:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 
 ## Location
@@ -40,9 +40,9 @@ Casa dell’Alcova
 
 
 ## Keywords
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [procoeton](#)
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "procoeton" >}}
 
 ## Garden Description
 542.IV.3-4.
@@ -71,10 +71,10 @@ NEW WAY ↓↓↓↓
 <!--### Images-->
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 
 ## Dates

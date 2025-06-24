@@ -25,11 +25,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -41,14 +41,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "#">}})
 
 ## Keywords
-- [aedicules](http://vocab.getty.edu/page/aat/300002574)
-- [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [cauponae](http://vocab.getty.edu/page/aat/300005208)
-- [flowerpots](http://vocab.getty.edu/page/aat/300194749)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "aedicules" >}}
+- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "cauponae" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 
 ## Garden
@@ -80,7 +80,7 @@ The garden east of the [atrium](http://vocab.getty.edu/page/aat/300004097) had a
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 Excavated 1872.

@@ -13,15 +13,15 @@ categories:
   - "Africa Proconsularis"
 
 tags:
- - "temples (buildings)"
+ - "temples"
  - "sanctuaries (religious building spaces)"
- - "courtyards"
+ - "courtyards (uncovered spaces)"
  - "cella"
 ---
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 
@@ -29,7 +29,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 [THUGGA (Dougga) Tunisia]({{<relref ".">}}) \
-[THUGGA (Dougga) Tunisia](https://pleiades.stoa.org/places/315223)
+- {{< id vocab="Pleiades" id="315223" term="THUGGA (Dougga) Tunisia" >}}
 
 
 {{< image src="dougga_the_templa_concordiae.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
@@ -44,10 +44,10 @@ Sanctuary B, the templa Concordiae
 
 ## Keywords
 
-- [temples (buildings)](#)
-- [sanctuary](#)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [cella](#)
+- {{< keyword "temples (buildings)" >}}
+- {{< keyword "sanctuary" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "cella" >}}
 
 ## Garden Description
 
@@ -73,11 +73,11 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 
 ## Pleiades_ID
 
-[Thugga/Tokai?](https://pleiades.stoa.org/places/315223)
+- {{< id vocab="Pleiades" id="315223" term="Thugga/Tokai?" >}}
 
 ## TGN ID
 
-[Dougga (deserted settlement)](http://vocab.getty.edu/page/tgn/7017996)
+- {{< id vocab="TGN" id="7017996" term="Dougga (deserted settlement)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

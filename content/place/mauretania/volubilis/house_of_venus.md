@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Mauretania]({{<relref "..">}}) \
-[Mauretania Tingitana (province)(Pleiades)](https://pleiades.stoa.org/places/981533)
+- {{< id vocab="Pleiades" id="981533" term="Mauretania Tingitana (province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 [Volubilis]({{<relref ".">}})
-[Volubilis](https://pleiades.stoa.org/places/275740)
+- {{< id vocab="Pleiades" id="275740" term="Volubilis" >}}
 
 ## Location Description
 
@@ -40,13 +40,13 @@ House of Venus (Maison du cortège de Vénus)
 
 ## Keywords
 
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [peristyle house](http://vocab.getty.edu/page/aat/300005452)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "reception rooms" >}}
 
 ## Garden Description
 

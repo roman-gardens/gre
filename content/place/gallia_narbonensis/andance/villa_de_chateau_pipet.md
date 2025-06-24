@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [andance]({{<relref ".">}}) \
-[andance](https://pleiades.stoa.org/places/167644)
+- {{< id vocab="Pleiades" id="167644" term="andance" >}}
 
 ## Location Description
 
@@ -49,9 +49,9 @@ Villa de Château-Pipet
 
 ## Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "opus signinum" >}}
 
 
 
@@ -94,12 +94,12 @@ No date was proposed for the structure in the excavation reports.
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Andance (inhabited place)](http://vocab.getty.edu/page/tgn/1031774)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="1031774" term="Andance (inhabited place)" >}}
 
 ## Contributor
 

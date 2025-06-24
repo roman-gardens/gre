@@ -19,12 +19,12 @@ tags:
 ## Province
 
 [Italia]({{<relref "..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
 [Ostia]({{<relref ".">}}) \
-[Ostia](https://pleiades.stoa.org/places/422995)
+- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 
 ## Location Description
 
@@ -55,24 +55,24 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 ## Garden
 
 Piazzale della Corporazioni \
-[The Forum of Corporations](https://pleiades.stoa.org/places/489630692)
+- {{< id vocab="Pleiades" id="489630692" term="The Forum of Corporations" >}}
 
 ## Keywords
 
-- [allées](http://vocab.getty.edu/page/aat/300178561)
-- [beds (site elements)](http://vocab.getty.edu/page/aat/300239937)
-- [Augustan](http://vocab.getty.edu/page/aat/300020543)
+- {{< keyword "allées" >}}
+- {{< keyword "beds (site elements)" >}}
+- {{< keyword "Augustan" >}}
 - [Domitian, Emperor of Rome](http://vocab.getty.edu/page/ulan/500083758)
-- [Hadrianic](http://vocab.getty.edu/page/aat/300107350)
-- [Julio-Claudian](http://vocab.getty.edu/page/aat/300020545)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
-- [parterres](http://vocab.getty.edu/page/aat/300184573)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [scaenae](http://vocab.getty.edu/page/aat/300004681)
-- [sewers (drainage structures)](http://vocab.getty.edu/page/aat/300006122)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [theaters (buildings)](http://vocab.getty.edu/page/aat/300007117)
+- {{< keyword "Hadrianic" >}}
+- {{< keyword "Julio-Claudian" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "parterres" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "scaenae" >}}
+- {{< keyword "sewers (drainage structures)" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "theaters (buildings)" >}}
 - [Vitruvius](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476.1)
 
 ## Garden Description
@@ -128,11 +128,11 @@ Domitianic period
 
 ## Pleiades ID
 
-[The Forum of Corporations](https://pleiades.stoa.org/places/489630692)
+- {{< id vocab="Pleiades" id="489630692" term="The Forum of Corporations" >}}
 
 ## TGN ID
 
-[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
+- {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor

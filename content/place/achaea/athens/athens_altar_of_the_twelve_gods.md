@@ -40,7 +40,7 @@ NEEDED - search bibliography for plans.
 
 ## Keywords
 
-- {{< keyword "Literary" >}}
+- {{< keyword "literary gardens" >}}
 - {{< keyword "sacred groves" >}}
 - {{< keyword "laurel" >}}
 - {{< keyword "olive trees" >}}

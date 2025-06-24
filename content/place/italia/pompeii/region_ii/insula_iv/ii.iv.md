@@ -15,7 +15,7 @@ categories:
 tags:
  - "cisterns (plumbing components)"
  - "jet d'eau"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "porticoes"
  - "statuettes"
  - "triclinia (rooms)"
@@ -27,7 +27,7 @@ tags:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 <!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
@@ -41,19 +41,19 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IV]({{<relref "..">}})
 
 ## House
-[House of Julia Felix](https://pleiades.stoa.org/places/205387552)-->
+- {{< id vocab="Pleiades" id="205387552" term="House of Julia Felix" >}}-->
 
 ## Garden
 Three separate gardens in the Praedia di Julia Felix.
 
 
 ## Keywords
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [sprinklers (watering equipment)](http://vocab.getty.edu/page/aat/300435392)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "sprinklers (watering equipment)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 Three separate gardens were located in this property.  
@@ -119,7 +119,7 @@ Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
 
 ## Pleiades ID
 
-[House of Julia Felix](https://pleiades.stoa.org/places/205387552)
+- {{< id vocab="Pleiades" id="205387552" term="House of Julia Felix" >}}
 
 
 

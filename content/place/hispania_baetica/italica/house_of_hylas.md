@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Italica]({{<relref ".">}}) \
-[Italica](https://pleiades.stoa.org/places/256231)
+- {{< id vocab="Pleiades" id="256231" term="Italica" >}}
 
 ## Location Description
 
@@ -37,12 +37,12 @@ House of Hylas
 
 ## Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [nymphs](http://vocab.getty.edu/page/aat/300379159)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "nymphs" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "reception rooms" >}}
 <!-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)-->
 
 
@@ -86,10 +86,10 @@ unspecified
 
 ## Pleiades ID
 [House of Hylas at Italica]{{<relref ".">}}) \
-[House of Hylas at Italica](https://pleiades.stoa.org/places/634946753)
+- {{< id vocab="Pleiades" id="634946753" term="House of Hylas at Italica" >}}
 
 ## TGN ID
-[Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
+- {{< id vocab="TGN" id="7007822" term="Itálica (deserted settlement)" >}}
 
 ## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

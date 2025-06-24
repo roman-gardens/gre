@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [NENNIG  (Germany)]({{<relref ".">}}) \
-[NENNIG](https://pleiades.stoa.org/places/109198)
+- {{< id vocab="Pleiades" id="109198" term="NENNIG" >}}
 
 <!--### Location Description-->
 
@@ -39,9 +39,9 @@ A sublocation is any area larger than an individual garden, but located within a
 Rural Villa
 
 ## Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
-- [bath building](http://vocab.getty.edu/page/aat/300007347)
+- {{< keyword "peristyles" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "bathhouses (water recreation structures)" >}}
 
 ## Garden Description
 
@@ -74,8 +74,8 @@ None Available
 Unspecified
 
 ## Bibliography
-- P. Steiner, *Die römische Villa von Nennig*, Saarbrücken, 1955. [(worldcat)] (http://www.worldcat.org/oclc/1073267042)
-- H. Mylius, "Die Rekonstruktion der römischen Villen von Nennig und Fliessem," *Bonner Jahrbuch* 129, 1924:110-120, fig. 1, pls. 4-5. [(worldcat)] (http://www.worldcat.org/oclc/1075378207)
+- P. Steiner, *Die römische Villa von Nennig*, Saarbrücken, 1955. [(worldcat)](http://www.worldcat.org/oclc/1073267042)
+- H. Mylius, "Die Rekonstruktion der römischen Villen von Nennig und Fliessem," *Bonner Jahrbuch* 129, 1924:110-120, fig. 1, pls. 4-5. [(worldcat)](http://www.worldcat.org/oclc/1075378207)
 
 <!--#### Periodo ID-->
 
@@ -83,10 +83,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Nennig](https://pleiades.stoa.org/places/109198)
+- {{< id vocab="Pleiades" id="109198" term="Nennig" >}}
 
 ## TGN ID
-[Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
+- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

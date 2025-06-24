@@ -9,7 +9,7 @@ author: Thomas Morard
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "courtyards"
+ - "courtyards (uncovered spaces)"
  - "porticoes"
  - "water supply systems"
 ---
@@ -17,12 +17,12 @@ tags:
 ## Province
 
 [Italia]({{<relref "..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
 [Ostia]({{<relref ".">}}) \
-[Ostia](https://pleiades.stoa.org/places/422995)
+- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 
 ## Location Description
 
@@ -56,14 +56,14 @@ Schola of Trajan
 
 ## Keywords
 
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [Ionic (architecture style)](http://vocab.getty.edu/page/aat/300020112)
-- [jeux d’eau](#)
-- [parapets](http://vocab.getty.edu/page/aat/300002717)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [water supply systems](http://vocab.getty.edu/page/aat/300008618)
+- {{< keyword "colonnades" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "Ionic (architecture style)" >}}
+- {{< keyword "jeux d’eau" >}}
+- {{< keyword "parapets" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "water supply systems" >}}
 
 ## Garden Description
 
@@ -101,12 +101,12 @@ winter of 1938-1939
 
 ## Pleiades ID
 
-[Ostia](https://pleiades.stoa.org/places/422995)
+- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 <!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
 ## TGN ID
 
-[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
+- {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor

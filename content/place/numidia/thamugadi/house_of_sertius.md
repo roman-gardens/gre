@@ -15,13 +15,13 @@ tags:
  - "domus"
  - "peristyle houses"
  - "semicircular basin"
- - "pools (bodies of water)"
+ - "pools"
  - "triclinia (rooms)"
 ---
 
 ## Province
 [Numidia]({{<relref "..">}}) \
-[Numidia](https://pleiades.stoa.org/places/981539)
+- {{< id vocab="Pleiades" id="981539" term="Numidia" >}}
 
 ## Province Description
 
@@ -30,7 +30,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 [Thamugadi]({{<relref ".">}}) \
-[Thamugadi](https://pleiades.stoa.org/places/334636)
+- {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}
 
 {{< image src="timgad_city_plan_house_of_the_sertius.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
 
@@ -56,11 +56,11 @@ A sublocation is any area larger than an individual garden, but located within a
 House of Sertius (Maison de Sertius)
 
 ## Keywords
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [semicircular basin](#)
-- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "semicircular basin" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 This large *domus* the result of the combining of two houses, is located at the periphery of the center of the city. The *domus* is laid out around two peristyles. The first, near the vestibule had a long rectangular basin placed in the axis of the *triclinium*, the two strips that bordered the pool may have been planted. The second peristyle with 8 columns had a semi-circular basin (Plan view Fi.1).
@@ -98,10 +98,10 @@ This large *domus* the result of the combining of two houses, is located at the 
 
 ## Pleiades ID
 
-[Thamugadi](https://pleiades.stoa.org/places/334636)
+- {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}
 
 ## TGN ID
-[Timgad (deserted settlement)](http://vocab.getty.edu/page/tgn/7001328)
+- {{< id vocab="TGN" id="7001328" term="Timgad (deserted settlement)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

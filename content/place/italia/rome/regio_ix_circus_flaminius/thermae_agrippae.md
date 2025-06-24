@@ -10,42 +10,42 @@ editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
 tags:
  - "thermae"
- - "gymnasiums"
+ - "gymnasiums (physical education buildings)"
  - "horti"
 ---
 
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
 [Region IX Circus Flaminius]({{<relref ".">}}) \
-[Campus Martius](https://pleiades.stoa.org/places/422863)
+- {{< id vocab="Pleiades" id="422863" term="Campus Martius" >}}
 
 
 
 ## Garden
 
 Garden of the Thermae Agrippae \
-[Thermae Agrippae](https://pleiades.stoa.org/places/22073979)
+- {{< id vocab="Pleiades" id="22073979" term="Thermae Agrippae" >}}
 
 ## Keywords
 
-- [canals (waterways)](http://vocab.getty.edu/page/aat/300006075)
-- [gymnasium](http://vocab.getty.edu/page/aat/300007297)
-- [botanical gardens](http://vocab.getty.edu/page/aat/300008107)
-- [nemus (grove)](http://vocab.getty.edu/page/aat/300008884)
-- [stagnum (man-made lake)](http://vocab.getty.edu/page/aat/300263360)
-- [statue](http://vocab.getty.edu/page/aat/300047600)
-- [thermae](http://vocab.getty.edu/page/aat/300007364)
+- {{< keyword "canals (waterways)" >}}
+- {{< keyword "gymnasiums" >}}
+- {{< keyword "botanical gardens" >}}
+- {{< keyword "nemus (grove)" >}}
+- {{< keyword "stagnum (man-made lake)" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "thermae" >}}
 
 - [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
 - [Frontinus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.639)
@@ -90,7 +90,7 @@ The *Thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](http://data.perseus
 
 ## Pleiades ID
 
-[22073979](https://pleiades.stoa.org/places/22073979)
+- {{< id vocab="Pleiades" id="22073979" term="22073979" >}}
 
 ## Contributors
 

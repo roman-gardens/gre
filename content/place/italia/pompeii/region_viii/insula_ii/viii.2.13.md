@@ -20,11 +20,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -38,8 +38,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ## Keywords
- - [tablina](http://vocab.getty.edu/page/aat/300004180)
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "tablina" >}}
+- {{< keyword "porticoes" >}}
 
 
 ## Garden Description
@@ -50,10 +50,10 @@ The room (b) to the east had a good view into this garden (a) which was located 
 {{< image src="fig._4_region_viii_insula_ii_13.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
 
 ## Pleiades ID
-[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
+- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
+- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 
 

@@ -16,14 +16,14 @@ tags:
  - "mosaics (visual works)"
  - "peristyle houses"
  - "semicircular basin"
- - "pools (bodies of water)"
+ - "pools"
  - "fishponds"
  - "oeci"
 ---
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 
@@ -31,7 +31,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) \
-[THUBURBO MAIUS (Henchir Kasbat), Tunisia](https://pleiades.stoa.org/places/315220)
+- {{< id vocab="Pleiades" id="315220" term="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
 
@@ -46,13 +46,13 @@ The city occupies the slopes of a hill in a fertile grain producing area about 5
 House of the Protomes (Maison des Protomés)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [semicircular basin](#)
-- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
-- [fish pool](#)
-- [oeci](http://vocab.getty.edu/page/aat/300080791)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "semicircular basin" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "fish pool" >}}
+- {{< keyword "oeci" >}}
 
 
 ## Garden Description
@@ -78,11 +78,11 @@ The *Trifolium* sector, was laid out around a peristyle garden (I-V) enclosed on
 
 ## Pleiades_ID
 
-[Thuburbo Maius](https://pleiades.stoa.org/places/315220)
+- {{< id vocab="Pleiades" id="315220" term="Thuburbo Maius" >}}
 
 ## TGN ID
 
-[Kasba, Henchir el (deserted settlement)](http://vocab.getty.edu/page/tgn/7001750)
+- {{< id vocab="TGN" id="7001750" term="Kasba, Henchir el (deserted settlement)" >}}
 
 ## Contributor
 

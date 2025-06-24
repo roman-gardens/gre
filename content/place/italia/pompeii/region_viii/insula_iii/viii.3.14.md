@@ -13,11 +13,11 @@ draft: false
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -29,13 +29,13 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref ".">}})
 
 ## Keywords
- - [aedicules](http://vocab.getty.edu/page/aat/300002574)
- - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
- - [podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)
- - [herms](http://vocab.getty.edu/page/aat/300047170)
- - [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
- - [thymiaterion](http://vocab.getty.edu/page/aat/300265006)
- - [candelabrum](http://vocab.getty.edu/page/aat/300265618)
+- {{< keyword "aedicules" >}}
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "podiums (building divisions)" >}}
+- {{< keyword "herms" >}}
+- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "thymiateria" >}}
+- {{< keyword "candelabrum (motifs)" >}}
 
 ## Garden Description
 A large aedicula shrine was built against the rear wall of this long garden (a) directly across from the north side of the atrium, which was entirely open to this view. The shrine stood on a podium 2.00 x 2.15 m.; 0.80 m. high with four steps in front and a marble herm on either side. Two little brick columns supported a roof over a marble statuette of Diana with a marble thymiaterion before it. A broken marble candelabrum was found at the foot of the steps when this site was excavated in 1839. Jashemski reports that the head and right arm of the statuette were found first and later the rest of the statuette was uncovered in good condition, however, she was unable to find any record of the statuette in the Museo Nazionale and speculated that the Princess of Saxony, who was present at the excavation, may have been given possession of the statuette. Another aedicula shrine with an altar was located in the northwest corner of the garden.
@@ -49,10 +49,10 @@ A large aedicula shrine was built against the rear wall of this long garden (a) 
 {{< image src="fig._8._viii.iii.14_12.30.59.jpg" alt="Fig. 8, 12.30.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 8, 12.30.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Pleiades ID
-[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
+- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
+- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
 Unspecified

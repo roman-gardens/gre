@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Niederzier-Hambach]({{<relref ".">}}) \
-[Niederzier-Hambach](https://pleiades.stoa.org/places/109210)
+- {{< id vocab="Pleiades" id="109210" term="Niederzier-Hambach" >}}
 
 ## Location Description
 
@@ -46,14 +46,14 @@ Niederzier Hambach 69
 
 ## Keywords
 
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
-- [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
-- [ditches](http://vocab.getty.edu/page/aat/300006178)
-- [hedges](http://vocab.getty.edu/page/aat/300266413)
-- [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
-- [orchards](http://vocab.getty.edu/page/aat/300008890)
-- [water wells](http://vocab.getty.edu/page/aat/300152327)
-- [cherry (plant)](http://vocab.getty.edu/page/aat/300375306)
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "fences (site elements)" >}}
+- {{< keyword "ditches" >}}
+- {{< keyword "hedges" >}}
+- {{< keyword "kitchen gardens" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "water wells" >}}
+- {{< keyword "cherry (plant)" >}}
 
 ## Garden Description
 
@@ -88,11 +88,11 @@ Late first century CE until the fourth century CE.
 
 ## Pleiades ID
 
-[Niederzier-Hambach](https://pleiades.stoa.org/places/109210)
+- {{< id vocab="Pleiades" id="109210" term="Niederzier-Hambach" >}}
 
 ## TGN ID
 
-[Niederzier (inhabited place)](http://vocab.getty.edu/page/tgn/7128518)
+- {{< id vocab="TGN" id="7128518" term="Niederzier (inhabited place)" >}}
 
 ## Contributor
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  

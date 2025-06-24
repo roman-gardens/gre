@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -49,11 +49,11 @@ The House of the Lion
 
 ## Keywords
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "domus" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 
 
@@ -95,12 +95,12 @@ It was completely uncovered in 1987 so that its lines might be respected in the 
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Saint-Romain-en-Gal (inhabited place)](http://vocab.getty.edu/page/tgn/5004109)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="5004109" term="Saint-Romain-en-Gal (inhabited place)" >}}
 
 ## Contributor
 

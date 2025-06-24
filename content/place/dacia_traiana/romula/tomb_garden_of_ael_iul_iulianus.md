@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Romula]({{<relref ".">}}) \
-[Romula](https://pleiades.stoa.org/places/981518)
+- {{< id vocab="Pleiades" id="981518" term="Romula" >}}
 
 <!--### Location Description-->
 
@@ -46,10 +46,10 @@ Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion in Romula
 
 ## Keywords
 
-- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
-- [inscription](#)
-- [literary garden](#)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- {{< keyword "epitaphs" >}}
+- {{< keyword "inscription" >}}
+- {{< keyword "literary gardens" >}}
+- {{< keyword "tombs" >}}
 
 ## Garden Description
 
@@ -91,11 +91,11 @@ Later second century/third century
 
 ## Pleiades ID
 
-[Dacia (province)](https://pleiades.stoa.org/places/981518)
+- {{< id vocab="Pleiades" id="981518" term="Dacia (province)" >}}
 
 ## TGN ID
 
-[Romula (deserted settlement)](http://vocab.getty.edu/page/tgn/8712318)
+- {{< id vocab="TGN" id="8712318" term="Romula (deserted settlement)" >}}
 
 ## Contributor
 

@@ -22,7 +22,7 @@ categories:
 ## Location
 
 [Voerendaal]({{<relref ".">}}) \
-[Voerendaal](https://pleiades.stoa.org/places/109442)  
+- {{< id vocab="Pleiades" id="109442" term="Voerendaal" >}}  
 
 <!--### Location Description-->
 
@@ -45,11 +45,11 @@ Rural villa at Voerendaal
 
 ## Keywords
 
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [hedges](http://vocab.getty.edu/page/aat/300266413)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "hedges" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
 
 
 ## Garden Description
@@ -89,11 +89,11 @@ Early second century CE to ca. 300 CE
 
 ## Pleiades ID
 
-[Voerendaal](https://pleiades.stoa.org/places/109442)
+- {{< id vocab="Pleiades" id="109442" term="Voerendaal" >}}
 
 ## TGN ID
 
-[Voerendaal (inhabited place)](http://vocab.getty.edu/page/tgn/7272601)
+- {{< id vocab="TGN" id="7272601" term="Voerendaal (inhabited place)" >}}
 
 ## Contributor
 

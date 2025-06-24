@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 
 [Toulouse]({{<relref ".">}}) \
-[Toulouse](https://pleiades.stoa.org/places/246694)
+- {{< id vocab="Pleiades" id="246694" term="Toulouse" >}}
 
 ## Location Description
 
@@ -50,11 +50,11 @@ Domus under the Hôtel d’Assézat
 
 ## Keywords
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "domus" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 
 
@@ -97,13 +97,13 @@ After original finds in 1979, further vestiges of a domus came to light during s
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
-[Tolosa](https://pleiades.stoa.org/places/246694)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
+- {{< id vocab="Pleiades" id="246694" term="Tolosa" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Toulouse (inhabited place)](http://vocab.getty.edu/page/tgn/7008441)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7008441" term="Toulouse (inhabited place)" >}}
 
 ## Contributor
 

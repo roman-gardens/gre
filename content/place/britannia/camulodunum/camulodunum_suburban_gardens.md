@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Camulodunum]({{<relref ".">}}) \
-[Camulodunum](https://pleiades.stoa.org/places/79393)
+- {{< id vocab="Pleiades" id="79393" term="Camulodunum" >}}
 
 ## Location Description
 
@@ -46,9 +46,9 @@ Suburban Gardens in Camulodunum
 
 ## Keywords
 
-- [archaeological gardens](#)
-- [ditches](http://vocab.getty.edu/page/aat/300006178)
-- [villae suburbanae](http://vocab.getty.edu/page/aat/300005519)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "ditches" >}}
+- {{< keyword "villae suburbanae" >}}
 
 ## Garden Description
 
@@ -79,11 +79,11 @@ ig. 1: Area outside the Balkerne gate before widening of the town ditch. Details
 
 ## Pleiades ID
 
-[Col. Camulodunum](https://pleiades.stoa.org/places/79393)
+- {{< id vocab="Pleiades" id="79393" term="Col. Camulodunum" >}}
 
 
 ## TGN ID
-[Colchester (inhabited place)](http://vocab.getty.edu/page/tgn/7011866)
+- {{< id vocab="TGN" id="7011866" term="Colchester (inhabited place)" >}}
 
 ## Contributor
 

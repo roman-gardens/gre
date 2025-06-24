@@ -14,7 +14,7 @@ categories:
 tags:
  - "fountains"
  - "lararia"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "porticoes"
  - "predellas"
  - "tablina"
@@ -22,7 +22,7 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Province Description
 <!-- DESCRIPTION -->
@@ -31,7 +31,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 <!--### Location Description-->
 ## Location Description
@@ -54,12 +54,12 @@ House a/11
 V.iv.a/11
 
 ## Keywords
-- [tablina](http://vocab.getty.edu/page/aat/300004180)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [predellas](http://vocab.getty.edu/page/aat/300003745)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)  
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- {{< keyword "tablina" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "predellas" >}}
+- {{< keyword "lararia" >}}  
+- {{< keyword "fountains" >}}
 
 
 ## Garden Description
@@ -98,8 +98,8 @@ Unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 

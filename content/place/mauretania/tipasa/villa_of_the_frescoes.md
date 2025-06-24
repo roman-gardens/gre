@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Mauretania]({{<relref "..">}}) \
-[Mauretania Caesariensis (province)(Pleiades)](https://pleiades.stoa.org/places/981532)
+- {{< id vocab="Pleiades" id="981532" term="Mauretania Caesariensis (province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 [Tipasa]({{<relref ".">}}) \
-[Tipasa](https://pleiades.stoa.org/places/295363)
+- {{< id vocab="Pleiades" id="295363" term="Tipasa" >}}
 
 ## Location Description
 
@@ -38,11 +38,11 @@ The Villa of the Frescoes (La villa des Fresques)
 
 ## Keywords
 
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
+- {{< keyword "balnea" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "peristyles" >}}
 
 ## Garden Description
 
@@ -70,7 +70,7 @@ The peristyle garden had four porticoes supported by 14 columns and enclosed by 
 
 ## Pleiades ID
 
-[Villa of the Frescoes](https://pleiades.stoa.org/places/151506429)
+- {{< id vocab="Pleiades" id="151506429" term="Villa of the Frescoes" >}}
 
 ## TGN ID
 

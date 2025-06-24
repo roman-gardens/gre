@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Titane]({{<relref ".">}}) \
-[Titane](https://pleiades.stoa.org/places/570741)
+- {{< id vocab="Pleiades" id="570741" term="Titane" >}}
 
 <!--### Location Description-->
 
@@ -45,11 +45,11 @@ Shrine of the Fates
 
 ## Keywords
 
-- [Literary](#)
-- [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
+- {{< keyword "literary gardens" >}}
+- {{< keyword "altars (religious fixtures)" >}}
 - [holm oaks (Quercus ilex)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296290-1)
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
-- [sacred groves](http://vocab.getty.edu/page/aat/300251876)
+- {{< keyword "sacred groves" >}}
 
 ## Garden Description
 
@@ -101,7 +101,7 @@ BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 
 ## Pleiades ID
 
-[Titane](https://pleiades.stoa.org/places/570741)
+- {{< id vocab="Pleiades" id="570741" term="Titane" >}}
 
 <!--#### TGN ID-->
 

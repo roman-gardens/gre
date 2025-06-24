@@ -31,7 +31,7 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 ## Location
 
-[Syracuse](https://pleiades.stoa.org/places/462506)
+- {{< id vocab="Pleiades" id="462506" term="Syracuse" >}}
 
 <!--### Location Description-->
 
@@ -91,7 +91,7 @@ Pool types: L. Farrar, Ancient Roman Gardens, Stroud, 1998, pp. 71–84.[(worldc
 
 ## Pleiades ID
 
-[Tauromenium](https://pleiades.stoa.org/places/462506)
+- {{< id vocab="Pleiades" id="462506" term="Tauromenium" >}}
 
 ## TGN ID
 

@@ -14,12 +14,12 @@ categories:
 tag:
   - "villa garden"
   - "inscriptions"
-  - "courtyards"
+  - "courtyards (uncovered spaces)"
 ---
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -27,7 +27,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 [Gigthis (Bou Ghara)]({{<relref ".">}}) \
-[Gigthis](https://pleiades.stoa.org/places/344380)
+- {{< id vocab="Pleiades" id="344380" term="Gigthis" >}}
 
 ## Location Description
 The important site Gigthis (50ha) largely excavated in the beginning of the last century by Constans was located on the opposite side of the Jerba Island, on the Gulf of Bou Grara. The remains of Gigthis stretches out along the foothills going down the coast in a fertile region known for its olive groves.
@@ -47,9 +47,9 @@ A sublocation is any area larger than an individual garden, but located within a
 Suburban Villa
 
 ## Keywords
-- [villa garden](#)
-- [inscription](#)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- {{< keyword "villa garden" >}}
+- {{< keyword "inscription" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
 
 <!-- [urban villas](#) -->
 
@@ -95,10 +95,10 @@ unknown
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Gigthis](https://pleiades.stoa.org/places/344380)
+- {{< id vocab="Pleiades" id="344380" term="Gigthis" >}}
 
 ## TGN ID
-[Gigthi (deserted settlement)](http://vocab.getty.edu/page/tgn/5003665)
+- {{< id vocab="TGN" id="5003665" term="Gigthi (deserted settlement)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

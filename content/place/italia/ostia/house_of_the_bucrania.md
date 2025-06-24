@@ -13,12 +13,12 @@ draft: false
 ## Province
 
 [Italia]({{<relref "..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
 [Ostia]({{<relref ".">}}) \
-[Ostia](https://pleiades.stoa.org/places/422995)
+- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 
 ## Location Description
 
@@ -52,25 +52,25 @@ House of the Bucrania
 
 ## Keywords
 
-- [architectural terracotta](http://vocab.getty.edu/page/aat/300010670)
-- [architraves (entablature)](http://vocab.getty.edu/page/aat/300001780)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [botanical gardens](http://vocab.getty.edu/page/aat/300008107)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [Doric order](http://vocab.getty.edu/page/aat/300067406)
-- [flowerpots](http://vocab.getty.edu/page/aat/300194749)
-- [fluting](http://vocab.getty.edu/page/aat/300010233)
-- [friezes (entablature components)](http://vocab.getty.edu/page/aat/300001816)
-- [Late Republican](http://vocab.getty.edu/page/aat/300020540)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
-- [orthostats](http://vocab.getty.edu/page/aat/300002712)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [Second Style](http://vocab.getty.edu/page/aat/300020609)
-- [socles](http://vocab.getty.edu/page/aat/300080499)
-- [tesserae](http://vocab.getty.edu/page/aat/300010730)
-- [tuff](http://vocab.getty.edu/page/aat/300011264)
-- [waterspouts](http://vocab.getty.edu/page/aat/300248603)
+- {{< keyword "architectural terracotta" >}}
+- {{< keyword "architraves (entablature)" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "botanical gardens" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "Doric order" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "fluting" >}}
+- {{< keyword "friezes (entablature components)" >}}
+- {{< keyword "Late Republican" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "orthostats" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "Second Style" >}}
+- {{< keyword "socles" >}}
+- {{< keyword "tesserae" >}}
+- {{< keyword "tuff" >}}
+- {{< keyword "waterspouts" >}}
 
 ## Garden Description
 
@@ -108,12 +108,12 @@ summer 2002
 
 ## Pleiades ID
 
-[Ostia](https://pleiades.stoa.org/places/422995)
+- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 <!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
 ## TGN ID
 
-[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
+- {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor

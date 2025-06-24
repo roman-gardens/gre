@@ -13,18 +13,18 @@ draft: true
 ## Province
 
 [ITALIA]({{<relref "../..">}}) \
-[ITALIA](https://pleiades.stoa.org/places/1052) \
-[ITALIA, REGIO I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="ITALIA" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="ITALIA, REGIO I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
 [Palatine]({{<relref ".">}}) \
-[Mons Palatinus](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
 
@@ -34,9 +34,9 @@ The Adonea of the Flavian Palace, Palatine
 
 ## Keywords
 
-- [flower garden](http://vocab.getty.edu/page/aat/300008135)
-- [flowerpot](http://vocab.getty.edu/page/aat/300194749)
-- [palace](http://vocab.getty.edu/page/aat/300005734)
+- {{< keyword "flower gardens" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "palaces (official residences)" >}}
 - [princep](https://www.britannica.com/topic/princeps)
 
 - [Philostratus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1108)
@@ -61,7 +61,7 @@ unspecified
 
 ## Pleiades ID
 
-[Palatine Hill](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}
 
 ## Contributor
 

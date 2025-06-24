@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-[Lusitania](https://pleiades.stoa.org/places/1101)
+- {{< id vocab="Pleiades" id="1101" term="Lusitania" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 [Las Tiendas]({{<relref ".">}}) \
-[Las Tiendas](https://pleiades.stoa.org/places/213630148)
+- {{< id vocab="Pleiades" id="213630148" term="Las Tiendas" >}}
 
 <!--### Location Description-->
 
@@ -47,8 +47,8 @@ A sublocation is any area larger than an individual garden, but located within a
 Villa el Hinojal
 
 ## Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [hypocausts](http://vocab.getty.edu/page/aat/300004277)
+- {{< keyword "peristyles" >}}
+- {{< keyword "hypocausts" >}}
 
 ## Garden Description
 In the early 1970's, J. M. Álvarez Martinez began excavations at this site, whose report appeared in 1976.   The villa was built around a central open space (11.7 x 6.3 m), which the archaeologists initially assumed was a peristyle.  There was indeed a wall (0.70 meters high and 0.55 meters thick) around the central area, which was judged to a garden.  But there was no trace of columns or bases or capitals of even imprints of where they had been.  The passageways around the courtyard on the north, west, and south were definitely covered; and on the east, where the entrances to the walled area were, there was probably also a portico, for that wall had painted decoration which would hardly have been left exposed to the weather.  The garden gave light to the rooms around it.
@@ -89,7 +89,7 @@ The house appears to have been built at the end of the third or beginning of the
 
 ## Pleiades ID
 
-[213630148](https://pleiades.stoa.org/places/213630148)
+- {{< id vocab="Pleiades" id="213630148" term="213630148" >}}
 
 
 <!--### Contributor-->

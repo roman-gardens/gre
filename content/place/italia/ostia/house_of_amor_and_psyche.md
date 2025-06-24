@@ -19,12 +19,12 @@ tags:
 ## Province
 
 [Italia]({{<relref "..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
 [Ostia]({{<relref ".">}}) \
-[Ostia](https://pleiades.stoa.org/places/422995)
+- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 
 ## Location Description
 
@@ -55,21 +55,21 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 ## Garden
 
 House of Amor and Psyche \
-[House of Amor and Psyche](https://pleiades.stoa.org/places/868515126)
+- {{< id vocab="Pleiades" id="868515126" term="House of Amor and Psyche" >}}
 
 ## Keywords
 
-- [balastrades](http://vocab.getty.edu/page/aat/300001989)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [Corinthian order](http://vocab.getty.edu/page/aat/300067417)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [plinths](http://vocab.getty.edu/page/aat/300001749)
-- [polychrome](http://vocab.getty.edu/page/aat/300252261)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [terracotta (clay material)](http://vocab.getty.edu/page/aat/300010669)
-- [viridarium](#)
+- {{< keyword "balustrades" >}}
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "Corinthian order" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "plinths" >}}
+- {{< keyword "polychrome" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "terracotta (clay material)" >}}
+- {{< keyword "viridarium" >}}
 
 ## Garden Description
 
@@ -114,11 +114,11 @@ unspecified
 
 ## Pleiades ID
 
-[House of Amor and Psyche](https://pleiades.stoa.org/places/868515126)
+- {{< id vocab="Pleiades" id="868515126" term="House of Amor and Psyche" >}}
 
 ## TGN ID
 
-[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
+- {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor

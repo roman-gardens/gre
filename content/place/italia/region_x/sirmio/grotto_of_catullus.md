@@ -23,10 +23,10 @@ tags:
  - "fences (site elements)"
  - "garden pavilions"
  - "gutters (building drainage components)"
- - "insulae"
+ - "insulae (apartments)"
  - "loam"
  - "orchards"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "piscinae"
  - "porticoes"
  - "presence chambers"
@@ -52,7 +52,7 @@ tags:
 ## Location
 
 [Sirmio]({{<relref ".">}}) \
-[Sirmio](https://pleiades.stoa.org/places/383781)
+- {{< id vocab="Pleiades" id="383781" term="Sirmio" >}}
 
 <!--### Location Description-->
 
@@ -73,32 +73,32 @@ House of Grotto of Aatullus
 
 ## Keywords
 
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [cryptoportici](http://vocab.getty.edu/page/aat/300004295)
-- [vestibules](http://vocab.getty.edu/page/aat/300083076)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [ditches](http://vocab.getty.edu/page/aat/300006178)
-- [water supply systems](http://vocab.getty.edu/page/aat/300008618)
-- [water baths](http://vocab.getty.edu/page/aat/300248755)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [drains](http://vocab.getty.edu/page/aat/300052564)
-- [loam](http://vocab.getty.edu/page/aat/300014335)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [terrazzo](http://vocab.getty.edu/page/aat/300011696)
-- [water wells](http://vocab.getty.edu/page/aat/300152327)
-- [orchards](http://vocab.getty.edu/page/aat/300008890)
-- [presence chambers](http://vocab.getty.edu/page/aat/300004445)
-- [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [garden pavilions](http://vocab.getty.edu/page/aat/300006819)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-- [terrazzo](http://vocab.getty.edu/page/aat/300011696)
+- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "cryptoportici" >}}
+- {{< keyword "vestibules" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "balnea" >}}
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "ditches" >}}
+- {{< keyword "water supply systems" >}}
+- {{< keyword "water baths" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "loam" >}}
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "terrazzo" >}}
+- {{< keyword "water wells" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "presence chambers" >}}
+- {{< keyword "fences (site elements)" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "garden pavilions" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "terrazzo" >}}
 
 ## Garden Description
 
@@ -150,11 +150,11 @@ unspecified
 
 ## Pleiades ID
 
-[Grotte di Catullo](https://pleiades.stoa.org/places/870993210)
+- {{< id vocab="Pleiades" id="870993210" term="Grotte di Catullo" >}}
 
 ## TGN ID
 
-[Sirmione (inhabited place)](http://vocab.getty.edu/page/tgn/7005771)
+- {{< id vocab="TGN" id="7005771" term="Sirmione (inhabited place)" >}}
 
 ## Contributor
 

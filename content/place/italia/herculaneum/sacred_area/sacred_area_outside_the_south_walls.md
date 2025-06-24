@@ -15,32 +15,32 @@ categories:
 tags:
  - "parapets"
  - "podium"
- - "rim"
- - "shrines (structures)"
+ - "rims"
+ - "shrines"
  - "trellises"
  - "woven"
 ---
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 
 ## Location
 [Herculaneum]({{<relref "..">}}) \
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 
 ## Keywords
-- [parapets](http://vocab.getty.edu/page/aat/300002717)
-- [podiums (platforms)](http://vocab.getty.edu/page/aat/300249278)
-- [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
-- [woven material](http://vocab.getty.edu/page/aat/300411341)
-- [rim](http://vocab.getty.edu/page/aat/300203193)
-- [trellises](http://vocab.getty.edu/page/aat/300006785)
+- {{< keyword "parapets" >}}
+- {{< keyword "podiums (platforms)" >}}
+- {{< keyword "shrines" >}}
+- {{< keyword "woven material" >}}
+- {{< keyword "rims" >}}
+- {{< keyword "trellises" >}}
 
 
 ## Garden Description
@@ -55,10 +55,10 @@ The southern edge of town was against a sharp drop to the sea. A terrace located
 {{< image src="herc._scared_area_south_wall_42.12.64.jpg" alt="Sacred Area Outside the South Walls (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Sacred Area Outside the South Walls (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 Unspecified

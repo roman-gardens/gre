@@ -17,7 +17,7 @@ tags:
  - "gutters (building drainage components)"
  - "mosaics (visual works)"
  - "mural paintings (visual works)"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "podiums (building divisions)"
  - "porticoes"
  - "presence chambers"
@@ -39,7 +39,7 @@ tags:
 
 [Barbariga]({{<relref ".">}}) \
 <!-- this is wrong
-[Barbariga](https://pleiades.stoa.org/places/383781)
+- {{< id vocab="Pleiades" id="383781" term="Barbariga" >}}
 -->
 
 <!--### Location Description-->
@@ -61,18 +61,18 @@ Villa at Pola
 
 ## Keywords
 
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [cryptoportici](http://vocab.getty.edu/page/aat/300004295)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [tesserae](http://vocab.getty.edu/page/aat/300010730)
-- [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-- [atrium houses](http://vocab.getty.edu/page/aat/300005451)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [presence chambers](http://vocab.getty.edu/page/aat/300004445)
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "cryptoportici" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "podiums (building divisions)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "tesserae" >}}
+- {{< keyword "villae urbanae" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "atrium houses" >}}
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "presence chambers" >}}
 
 ## Garden Description
 
@@ -115,12 +115,12 @@ https://babel.hathitrust.org/cgi/pt?id=hvd.32044081405060&seq=35
 
 ## Pleiades ID
 
-[Pola](https://pleiades.stoa.org/places/197448)
+- {{< id vocab="Pleiades" id="197448" term="Pola" >}}
 
 
 ## TGN ID
 
-[Pula (inhabited place)](http://vocab.getty.edu/page/tgn/7015562)
+- {{< id vocab="TGN" id="7015562" term="Pula (inhabited place)" >}}
 
 
 ## Contributor

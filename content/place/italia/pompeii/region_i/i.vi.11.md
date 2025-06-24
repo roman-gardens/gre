@@ -21,11 +21,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -38,10 +38,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "fences (site elements)" >}}
+- {{< keyword "porticoes" >}}
 
 
 ## Garden
@@ -90,11 +90,11 @@ Maiuri, A. 1929. *NSc*, pp. 414-415 and fig. 26 on p. 401.
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

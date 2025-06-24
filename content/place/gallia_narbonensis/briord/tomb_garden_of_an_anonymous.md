@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 <!-- ### Province Description -->
 
@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [BRIORD]({{<relref ".">}}) \
-[BRIORD](https://pleiades.stoa.org/places/167693)
+- {{< id vocab="Pleiades" id="167693" term="BRIORD" >}}
 
 ## Location Description
 
@@ -46,8 +46,8 @@ Tomb garden of an anonymous
 
 ## Keywords
 
-- [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
-- [tomb](http://vocab.getty.edu/page/aat/300005926)
+- {{< keyword "funerary buildings" >}}
+- {{< keyword "tombs" >}}
 
 ## Garden Description
 
@@ -73,12 +73,12 @@ None Available
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Briord (inhabited place)](http://vocab.getty.edu/page/tgn/7662219)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7662219" term="Briord (inhabited place)" >}}
 
 ## Contributor
 

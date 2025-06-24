@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [cavalaire_sur_mer]({{<relref "..">}}) \
-[cavalaire_sur_mer](https://pleiades.stoa.org/places/157901)
+- {{< id vocab="Pleiades" id="157901" term="cavalaire_sur_mer" >}}
 
 ## Location Description
 
@@ -48,10 +48,10 @@ Villa de Pardigon 3
 
 
 ## Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "reception rooms" >}}
 
 
 
@@ -91,11 +91,11 @@ A,D. 200-300 garden transformed into a court then a dump
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 
 
 ## Contributor

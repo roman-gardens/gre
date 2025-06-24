@@ -21,11 +21,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -37,9 +37,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VI]({{<relref ".">}})
 
 ## Keywords
- - [insula](http://vocab.getty.edu/page/aat/300000325)
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
- - [opus signinum](http://vocab.getty.edu/page/aat/300379969)
+- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "opus signinum" >}}
 
 ## Garden Description
 The atrium at the front of this house had been converted into a bakery. Towards the back a portico surrounded a small area (a). The portico columns were black at the base and red above, three on the north and three on the south and were connected by a low wall 0.47 m. high, but only the bases survived. The interior area was paved with opus signinum and in the middle there was a rectangle lined with white and gray marble, a yellow marble cross with a red bordered yellow square in the center. This has sustained much damage since it was exposed. At the outside of the paved area there was a gutter with a cistern opening located between the columns on the west side. This area may have contained potted plants. The portico could be entered directly from entrance no. 9 and various rooms opened off of it, the room on the east (b) had the best view into the portico.
@@ -51,10 +51,10 @@ The atrium at the front of this house had been converted into a bakery. Towards 
 {{< image src="fig.22.viii.vi.9_12.29.59.jpg" alt="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Pleiades ID
-[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
+- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
+- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
 Unspecified

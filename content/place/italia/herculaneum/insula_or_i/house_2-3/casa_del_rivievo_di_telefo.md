@@ -24,7 +24,7 @@ tags:
 ## Province
 
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
@@ -44,11 +44,11 @@ Casa della Gemma (A)
 
 
 ## Keywords
-- [fauces](http://vocab.getty.edu/page/aat/300004298)
-- [tondi](http://vocab.getty.edu/page/aat/300033622)
-- [peltae](http://vocab.getty.edu/page/aat/300213495)
-- [pinakes](http://vocab.getty.edu/page/aat/300264977)
-- [impluvia](http://vocab.getty.edu/page/aat/300129867)
+- {{< keyword "fauces" >}}
+- {{< keyword "tondi" >}}
+- {{< keyword "peltae" >}}
+- {{< keyword "pinakes" >}}
+- {{< keyword "impluvia" >}}
 
 
 ## Garden Description
@@ -63,10 +63,10 @@ A. The excavation of this house in 1934-1936 revealed an unusual atrium arrangem
 {{< image src="herc._i.2,3_42.17.64.jpg" alt="Herculaneum - insula orientalis I. 2.3-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 2.3-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 Unspecified

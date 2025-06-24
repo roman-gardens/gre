@@ -19,13 +19,13 @@ tags:
  - "triclinia (rooms)"
  - "basins (vessels)"
  - "planters (containers)"
- - "pools (bodies of water)"
+ - "pools"
 ---
 
 ## Province
 
 [Numidia]({{<relref "..">}}) \
-[Numidia (Roman province)(Pleiades)](https://pleiades.stoa.org/places/981539)
+- {{< id vocab="Pleiades" id="981539" term="Numidia (Roman province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -34,7 +34,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 [Cuicul]({{<relref ".">}}) \
-[Cuicul](https://pleiades.stoa.org/places/305068)
+- {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}
 
 
 {{< image src="cuicul_house_of_europa.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
@@ -52,14 +52,14 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 House of Europa, Central District (Maison d'Europe, Quartier Central)
 
 ## Keywords
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [planters (containers)](http://vocab.getty.edu/page/aat/300237566)
-- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
+- {{< keyword "balnea" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "planters (containers)" >}}
+- {{< keyword "pools" >}}
 
 ## Garden Description
 
@@ -95,7 +95,7 @@ Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century
 *  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](http://www.worldcat.org/oclc/1090653355)
 
 ## Pleiades ID
-[Cuicul](https://pleiades.stoa.org/places/305068)
+- {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}
 ## TGN ID
 
 ## Contributor

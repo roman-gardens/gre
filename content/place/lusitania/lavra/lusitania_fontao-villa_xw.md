@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-[Lusitania](https://pleiades.stoa.org/places/1101)
+- {{< id vocab="Pleiades" id="1101" term="Lusitania" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 [Lavra]({{<relref ".">}}) \
-[Lavra](https://pleiades.stoa.org/places/532133456)
+- {{< id vocab="Pleiades" id="532133456" term="Lavra" >}}
 
 <!--### Location Description-->
 
@@ -47,8 +47,8 @@ A sublocation is any area larger than an individual garden, but located within a
 Fontao Villa
 
 <!--### Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [hypocausts](http://vocab.getty.edu/page/aat/300004277)-->
+- {{< keyword "peristyles" >}}
+- {{< keyword "hypocausts" >}}-->
 
 ## Garden Description
 The remains of a large villa were discovered in 1900 under an abandoned Benedictine monastery. Among the structures identified are several basins that are usually found in gardens. The villa dates to the late empire.
@@ -85,7 +85,7 @@ The remains of a large villa were discovered in 1900 under an abandoned Benedict
 
 ## Pleiades ID
 
-[532133456](https://pleiades.stoa.org/places/532133456)
+- {{< id vocab="Pleiades" id="532133456" term="532133456" >}}
 
 
 <!--### Contributor-->

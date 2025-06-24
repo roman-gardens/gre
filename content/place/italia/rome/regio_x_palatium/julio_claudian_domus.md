@@ -13,18 +13,18 @@ draft: false
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Rome](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Rome" >}}
 
 ## Sublocation
 
 [Palatine]({{<relref ".">}}) \
-[Mons Palatinus](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
 
@@ -34,18 +34,18 @@ Garden of the Peristyle of the Julio-Claudian *Domus*, Palatine
 
 ## Keywords
 
-- [brick (construction material)](http://vocab.getty.edu/page/aat/300010463)
-- [colonnade](http://vocab.getty.edu/page/aat/300002613)
-- [columns (architectural element)](http://vocab.getty.edu/page/aat/300001571)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [flower garden](http://vocab.getty.edu/page/aat/300008135)
-- [flowerpot](http://vocab.getty.edu/page/aat/300194749)
-- [frescoes (paintings)](http://vocab.getty.edu/page/aat/300177433)
-- [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
+- {{< keyword "brick (clay material)" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "columns (architectural element)" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "flower gardens" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "frescoes (paintings)" >}}
+- {{< keyword "marble (rock)" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "peristyles" >}}
 - [princeps](https://www.britannica.com/topic/princeps)
-- [architectural terracotta](http://vocab.getty.edu/page/aat/300010670)
+- {{< keyword "architectural terracotta" >}}
 
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 
@@ -85,7 +85,7 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 
 ## Pleiades ID
 
-[Palatinus Mons](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Palatinus Mons" >}}
 
 ## Contributor
 

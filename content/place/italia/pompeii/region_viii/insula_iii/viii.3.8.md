@@ -20,11 +20,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -36,9 +36,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref ".">}})
 
 ## Keywords
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
- - [tablina](http://vocab.getty.edu/page/aat/300004180)
- - [exedrae (interior spaces)](http://vocab.getty.edu/page/aat/300004014)
+- {{< keyword "porticoes" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "exedrae (interior spaces)" >}}
 
 ## Garden Description
 Fourteen fluted white columns supported a portico that enclosed this large garden (a) at the rear of the tablinium. A fence had been attached to the outside of the columns as evidenced by holes with metal pieces remaining; the top holes placed 0.75 m. high.  A grand view the length of the garden could be enjoyed from the large exedra (b) to the south, framed by two columns, and many other surrounding rooms had garden views.
@@ -47,10 +47,10 @@ Fourteen fluted white columns supported a portico that enclosed this large garde
 {{< image src="fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
 
 ## Pleiades ID
-[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
+- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
+- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
 Unspecified

@@ -15,16 +15,16 @@ categories:
   - "Italia"
 tags:
  - "palaestrae"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
 ---
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -37,8 +37,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VII]({{<relref ".">}})
 
 ## Keywords
- - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
- - [palaestrae](http://vocab.getty.edu/page/aat/300007301)
+- {{< keyword "peristyles" >}}
+- {{< keyword "palaestrae" >}}
 
 
 ## Garden Description
@@ -46,10 +46,10 @@ Park-like areas were located between the Great [Palaestra](http://vocab.getty.ed
 
 
 ## Pleiades ID
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 
 ## Bibliography

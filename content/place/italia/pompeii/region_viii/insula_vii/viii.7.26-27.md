@@ -22,11 +22,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -38,10 +38,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VII]({{<relref ".">}})
 
 ## Keywords
- - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
- - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
- - [angiportus](http://vocab.getty.edu/page/aat/300008249)
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "angiportus" >}}
 
 ## Garden Description
 Beyond shop 26 and the living quarters behind it there was a very large garden (a) that was entered directly from the atrium through the portico that stood at the north side of the garden. The garden could also be reached by the long, narrow angiportus located at the rear of the east portico of the Temple of Isis. The garden could be viewed from the triclinium to the north.
@@ -54,10 +54,10 @@ Beyond shop 26 and the living quarters behind it there was a very large garden (
 {{< image src="fig.30.viii.vii.27_9.27.59.jpg" alt="Fig.30, 9.27.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig.30, 9.27.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Pleiades ID
-[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
+- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
+- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
 Unspecified

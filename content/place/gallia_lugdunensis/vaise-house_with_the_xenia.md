@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [LUGDUNUM (Lyon, France)]({{<relref ".">}}) \
-[LUGDUNUM](https://pleiades.stoa.org/places/167717)
+- {{< id vocab="Pleiades" id="167717" term="LUGDUNUM" >}}
 
 <!--### Location Description-->
 
@@ -41,10 +41,10 @@ A sublocation is any area larger than an individual garden, but located within a
 House with Pilasters (Clos du Verbe Incarné)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [drain](http://vocab.getty.edu/page/aat/300052564)
+- {{< keyword "domus" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "drains" >}}
 
 ## Garden Description
 *Xenia* were gifts of game, fish, poultry, fruits or vegetables given by a host to a guest to be cooked to the guest’s liking. Here, the name comes from the discovery of a *pinax* (a painted ceramic tablet) showing *xenia.* This house was discovered during excavation of the southern sector of the Saint-Pierre land management zone (ZAC) in a suburban quarter of Lyon. The building –one hesitates whether to call it a suburban *villa* or a *domus*–extends over 630 square meters. There are traces of occupation of the site in Augustan times, but the house (29 x 24 m) was built in the reign of Tiberius. It is organized in two perpendicular wings around a courtyard with *porticos* in a U. The galleries are 3.5 meters wide. In this first phase, nine rooms were placed around the court.
@@ -78,10 +78,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Col. Lugdunum](https://pleiades.stoa.org/places/167717)
+- {{< id vocab="Pleiades" id="167717" term="Col. Lugdunum" >}}
 
 ## TGN ID
-[Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
+- {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

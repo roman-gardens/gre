@@ -15,7 +15,7 @@ categories:
 
 ## Province
 [Hispania Tarraconensis]({{<relref "..">}}) \
-[Tarraconensis(Pleiades)](https://pleiades.stoa.org/places/981551)
+- {{< id vocab="Pleiades" id="981551" term="Tarraconensis(Pleiades)" >}}
 
 
 ## Province Description
@@ -46,7 +46,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 [La Almeda]({{<relref ".">}}) \
-[LA Almeda](https://pleiades.stoa.org/places/723036345)
+- {{< id vocab="Pleiades" id="723036345" term="LA Almeda" >}}
 
 <!--### Location Description-->
 
@@ -85,7 +85,7 @@ Unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[723036345](https://pleiades.stoa.org/places/723036345)
+- {{< id vocab="Pleiades" id="723036345" term="723036345" >}}
 
 
 ## TGN ID

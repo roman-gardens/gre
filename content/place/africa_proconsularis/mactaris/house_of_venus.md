@@ -19,7 +19,7 @@ tag:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -27,7 +27,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 [Mactaris]({{<relref ".">}}) \
-[Mactaris](https://pleiades.stoa.org/places/324774)
+- {{< id vocab="Pleiades" id="324774" term="Mactaris" >}}
 
 ## Location Description
 
@@ -52,9 +52,9 @@ A sublocation is any area larger than an individual garden, but located within a
 House of Venus (Maison de Venus)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [semicircular basin](#)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "semicircular basin" >}}
 
 
 ## Garden Description
@@ -93,10 +93,10 @@ House of Venus (Maison de Venus)
 
 ## Pleiades ID
 
-[Mactaris](https://pleiades.stoa.org/places/324774)
+- {{< id vocab="Pleiades" id="324774" term="Mactaris" >}}
 
 ## TGN ID
-[Mactar (deserted settlement)](http://vocab.getty.edu/page/tgn/5003670)
+- {{< id vocab="TGN" id="5003670" term="Mactar (deserted settlement)" >}}
 
 ## Contributor
 

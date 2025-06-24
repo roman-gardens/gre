@@ -13,18 +13,18 @@ draft: false
 ## Province
 
 [Italia]({{<relref "../..">}})\
-[Italia](https://pleiades.stoa.org/places/1052)\
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}\
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
 [Palatine]({{<relref ".">}}) \
-[Mons Palatinus](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
 
@@ -34,23 +34,23 @@ Garden of the Flavian Imperial Palace, Palatine
 
 ## Keywords
 
-- [allées](http://vocab.getty.edu/page/aat/300178561)
-- [altar (religious fixture)](http://vocab.getty.edu/page/aat/300003725)
-- [amphora (storage vessel)](http://vocab.getty.edu/page/aat/300148696)
-- [canals (waterways)](http://vocab.getty.edu/page/aat/300006075)
-- [colonnade](http://vocab.getty.edu/page/aat/300002613)
-- [columns (architectural element)](http://vocab.getty.edu/page/aat/300001571)
-- [flowerpot](http://vocab.getty.edu/page/aat/300194749)
-- [fountain](http://vocab.getty.edu/page/aat/300006179)
-- [lead (metal)](http://vocab.getty.edu/page/aat/300011022)
-- [piping (plumbing system components)](http://vocab.getty.edu/page/aat/300052572)
-- [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
-- [niche (architectural element)](http://vocab.getty.edu/page/aat/300002704)
-- [palace](http://vocab.getty.edu/page/aat/300005734)
-- [plinth](http://vocab.getty.edu/page/aat/300001749)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [sewers (drainage structures)](http://vocab.getty.edu/page/aat/300006122)
-- [statue](http://vocab.getty.edu/page/aat/300047600)
+- {{< keyword "allées" >}}
+- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "canals (waterways)" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "columns (architectural element)" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "lead (metal)" >}}
+- {{< keyword "piping (plumbing system components)" >}}
+- {{< keyword "marble (rock)" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "plinths" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "sewers (drainage structures)" >}}
+- {{< keyword "statues" >}}
 
 
 ## Garden Description
@@ -109,7 +109,7 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 
 ## Pleiades ID
 
-[Palatinus Mons](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Palatinus Mons" >}}
 
 ## Contributor
 

@@ -30,7 +30,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Epidauros]({{<relref ".">}}) \
-[Epidauros](https://pleiades.stoa.org/places/570228)
+- {{< id vocab="Pleiades" id="570228" term="Epidauros" >}}
 
 <!--### Location Description
 
@@ -44,8 +44,8 @@ Sanctuary of Hyernetho
 
 ## Keywords
 
-- [Literary](#)
-- [orchards](http://vocab.getty.edu/page/aat/300008890)
+- {{< keyword "literary gardens" >}}
+- {{< keyword "orchards" >}}
 - [Pausanias](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1054)
 - [wild olives (Olea oleaster)](http://powo.science.kew.org/taxon/610760-1)
 

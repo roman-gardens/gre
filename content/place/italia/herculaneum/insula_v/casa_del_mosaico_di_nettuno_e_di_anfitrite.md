@@ -17,7 +17,7 @@ categories:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 
 ## Location
@@ -39,9 +39,9 @@ V
 Casa del Mosaico di Nettuno e di Anfitrite
 
 ## Keywords
-- [sacella](http://vocab.getty.edu/page/aat/300007570)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300004145)
-- [amphorae](http://vocab.getty.edu/page/aat/300148696)
+- {{< keyword "sacella" >}}
+- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "amphorae (storage vessels)" >}}
 
 
 ## Garden Description
@@ -71,10 +71,10 @@ NEW WAY ↓↓↓↓
 {{< image src="Herc.III.19-18,1-2   17.3.78.jpg" alt="Illustration of Casa dell’Ara Laterizia" title="Illustration of Casa dell’Ara Laterizia" >}}
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 
 ## Dates

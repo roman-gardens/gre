@@ -15,14 +15,14 @@ categories:
   - "Italia"
 tags:
  - "atriums (Roman halls)"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "stucco"
 ---
 
 ## Province
 
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
@@ -42,9 +42,9 @@ B
 
 
 ## Keywords
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [stuccoing](http://vocab.getty.edu/page/aat/300053875)
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "stuccoing" >}}
 
 
 ## Garden Description
@@ -59,10 +59,10 @@ B. From the atrium the peristyle on the lower level was reached by way of a stee
 {{< image src="herc.i.2,3_42.19.64.jpg" alt="Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 Unspecified

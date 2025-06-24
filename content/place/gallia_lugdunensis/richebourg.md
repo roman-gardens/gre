@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [AUTRICUM (Chartres, France)]({{<relref ".">}}) \
-[AUTRICUM](https://pleiades.stoa.org/places/108778)
+- {{< id vocab="Pleiades" id="108778" term="AUTRICUM" >}}
 
 <!--### Location Description-->
 
@@ -40,14 +40,14 @@ A sublocation is any area larger than an individual garden, but located within a
 Richebourg (Yvelines) villa de
 
 ## Keywords
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [trellises](http://vocab.getty.edu/page/aat/300006785)
-- [stylobates](http://vocab.getty.edu/page/aat/300000986)
-- [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
-- [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [apse](http://vocab.getty.edu/page/aat/300004607)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "porticoes" >}}
+- {{< keyword "trellises" >}}
+- {{< keyword "stylobates" >}}
+- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "apses" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 Though the site has an area of 12 or 13 hectares, only one hectare has been excavated, the residential and agricultural part. Two groups of buildings frame a large garden on a slightly trapezoidal, walled area. To the north was the residence; to the south, the utility buildings, including a silo; while to the east, within its own walls, was the farmyard also with several buildings.  
@@ -97,10 +97,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Autricum](https://pleiades.stoa.org/places/108778)
+- {{< id vocab="Pleiades" id="108778" term="Autricum" >}}
 
 ## TGN ID
-[Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
+- {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

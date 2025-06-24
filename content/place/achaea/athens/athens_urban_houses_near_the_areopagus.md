@@ -15,7 +15,7 @@ categories:
 
 tags:
 - "basins (vessels)"
-- "peristyles (Roman courtyards)"
+- "peristyles"
 - "pipes (conduits)"
 - "piscinae"
 - "planters (containers)"
@@ -34,7 +34,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Athens]({{<relref ".">}}) \
-[Athens](https://pleiades.stoa.org/places/579885)
+- {{< id vocab="Pleiades" id="579885" term="Athens" >}}
 
 <!--### Location Description-->
 
@@ -42,7 +42,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Sublocation
 
-[Areopagus](https://pleiades.stoa.org/places/969121823)
+- {{< id vocab="Pleiades" id="969121823" term="Areopagus" >}}
 
 <!--### Sublocation Description-->
 
@@ -54,12 +54,12 @@ Urban Houses near Areopagus
 
 ## Keywords
 
-- [Archaeological](#)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [pipes (conduits)](http://vocab.getty.edu/page/aat/300014662)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [planters (containers)](http://vocab.getty.edu/page/aat/300237566)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pipes (conduits)" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "planters (containers)" >}}
 
 ## Garden Description
 
@@ -92,11 +92,11 @@ mid-4th century CE and earlier
 
 ## Pleiades ID
 
-[Areopagus](https://pleiades.stoa.org/places/969121823)
+- {{< id vocab="Pleiades" id="969121823" term="Areopagus" >}}
 
 ## TGN ID
 
-[Athens (inhabited place)](http://vocab.getty.edu/page/tgn/7001393)
+- {{< id vocab="TGN" id="7001393" term="Athens (inhabited place)" >}}
 
 ## Contributor
 

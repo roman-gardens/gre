@@ -14,18 +14,18 @@ categories:
   - "Italia"
 tags:
  - "columns (architectural elements)"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "pillars"
  - "porticoes"
 ---
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -37,10 +37,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VI]({{<relref "#">}})
 
 ## Keywords
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [pillars](http://vocab.getty.edu/page/aat/300264605)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "porticoes" >}}
 
 ## Garden
 Shop property with peristyle garden and doghouse.
@@ -76,11 +76,11 @@ Excavated 1912, 1926-27. Bombed in 1943.
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

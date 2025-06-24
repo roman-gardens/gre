@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Nicopolis]({{<relref ".">}})
-[Nicopolis](https://pleiades.stoa.org/places/531013)
+- {{< id vocab="Pleiades" id="531013" term="Nicopolis" >}}
 
 <!--### Location Description-->
 
@@ -47,14 +47,14 @@ Victory Monument of Augustus
 
 ## Keywords
 
-- [Literary](#)
-- [Archaeological](#)
-- [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
-- [friezes (ornamental areas)](http://vocab.getty.edu/page/aat/300123582)
-- [orchards](http://vocab.getty.edu/page/aat/300008890)
-- [pedestals](http://vocab.getty.edu/page/aat/300001744)
-- [Strabo](#)
-- [trophies (war monuments)](http://vocab.getty.edu/page/aat/300007038)
+- {{< keyword "literary gardens" >}}
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "friezes (ornamental areas)" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "pedestals" >}}
+- {{< keyword "Strabo" >}}
+- {{< keyword "trophies (war monuments)" >}}
 
 ## Garden Description
 
@@ -109,11 +109,11 @@ last quarter of the 1st century BCE and later
 
 ## Pleiades ID
 
-[Nicopolis](https://pleiades.stoa.org/places/531013)
+- {{< id vocab="Pleiades" id="531013" term="Nicopolis" >}}
 
 ## TGN ID
 
-[Nicopolis (deserted settlement)](http://vocab.getty.edu/page/tgn/7011016)
+- {{< id vocab="TGN" id="7011016" term="Nicopolis (deserted settlement)" >}}
 
 ## Contributor
 

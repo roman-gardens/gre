@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 <!--### Location Description-->
 
@@ -53,14 +53,14 @@ House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)
 
 ## Keywords
 
-- [aedicules](http://vocab.getty.edu/page/aat/300002574)
-- [archaeological garden](#)
-- [biclinia](http://vocab.getty.edu/page/aat/300170371)
-- [drains](http://vocab.getty.edu/page/aat/300052564)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "aedicules" >}}
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "biclinia" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 
@@ -120,11 +120,11 @@ unspecified
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

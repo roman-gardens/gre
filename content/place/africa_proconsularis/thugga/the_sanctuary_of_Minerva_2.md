@@ -13,10 +13,10 @@ categories:
   - "Africa Proconsularis"
 
 tags:
- - "temples (buildings)"
+ - "temples"
  - "sanctuaries (religious building spaces)"
- - "courtyards"
- - "planting bed"
+ - "courtyards (uncovered spaces)"
+ - "planting beds"
  - "cella"
  - "ambulatio"
  - "altars (religious fixtures)"
@@ -24,7 +24,7 @@ tags:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 
@@ -32,7 +32,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 [THUGGA (Dougga) Tunisia]({{<relref ".">}}) \
-[THUGGA (Dougga) Tunisia](https://pleiades.stoa.org/places/315223)
+- {{< id vocab="Pleiades" id="315223" term="THUGGA (Dougga) Tunisia" >}}
 
 
 {{< image src="dougga_the_sanctuary_of_minerva.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
@@ -47,13 +47,13 @@ The sanctuary of Minerva 2
 
 ## Keywords
 
-- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
-- [sanctuary](#)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [planting beds](http://vocab.getty.edu/page/aat/300430426)
-- [cella](#)
-- [ambulatio](#)
-- [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
+- {{< keyword "temples" >}}
+- {{< keyword "sanctuary" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "planting beds" >}}
+- {{< keyword "cella" >}}
+- {{< keyword "ambulatio" >}}
+- {{< keyword "altars (religious fixtures)" >}}
 
 ## Garden Description
 
@@ -79,11 +79,11 @@ Antiqua, 9), Bordeaux : Ausonius Éditions 2004, pp. 340-341, p. 216, fig. 2a. [
 
 ## Pleiades_ID
 
-[Thugga/Tokai?](https://pleiades.stoa.org/places/315223)
+- {{< id vocab="Pleiades" id="315223" term="Thugga/Tokai?" >}}
 
 ## TGN ID
 
-[Dougga (deserted settlement)](http://vocab.getty.edu/page/tgn/7017996)
+- {{< id vocab="TGN" id="7017996" term="Dougga (deserted settlement)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

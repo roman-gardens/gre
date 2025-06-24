@@ -13,18 +13,18 @@ draft: false
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
 [Palatine]({{<relref ".">}}) \
-[Mons Palatinus](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
 
@@ -34,18 +34,18 @@ Garden of the House of Augustus, Palatine
 
 ## Keywords
 
-- [alae](http://vocab.getty.edu/page/aat/300004055)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [festoon (motif)](http://vocab.getty.edu/page/aat/300167386)
-- [frescoes (paintings)](http://vocab.getty.edu/page/aat/300177433)
-- [friezes (ornamental areas)](http://vocab.getty.edu/page/aat/300123582)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [nymphaeum (garden structure)](http://vocab.getty.edu/page/aat/300006809)
-- [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "alae" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "festoon (motif)" >}}
+- {{< keyword "frescoes (paintings)" >}}
+- {{< keyword "friezes (ornamental areas)" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 - [princep](https://www.britannica.com/topic/princeps)
-- [topiary](http://vocab.getty.edu/page/aat/300061887)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "topiary" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 - [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
 - [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)

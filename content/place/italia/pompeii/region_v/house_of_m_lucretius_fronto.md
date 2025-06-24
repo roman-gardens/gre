@@ -22,7 +22,7 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Province Description
 <!-- DESCRIPTION -->
@@ -31,7 +31,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 <!--### Location Description-->
 ## Location Description
@@ -54,12 +54,12 @@ House a/11
 House of M. Lucretius Fronto (V.iv.a/11)
 
 ## Keywords
-- [cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367)
-- [atrium houses](http://vocab.getty.edu/page/aat/300005451)
-- [predellas](http://vocab.getty.edu/page/aat/300003745)
-- [tablina](http://vocab.getty.edu/page/aat/300004180)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [trellises](http://vocab.getty.edu/page/aat/300006785)
+- {{< keyword "cubicula (domestic spaces)" >}}
+- {{< keyword "atrium houses" >}}
+- {{< keyword "predellas" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "trellises" >}}
 
 
 
@@ -93,8 +93,8 @@ Unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 

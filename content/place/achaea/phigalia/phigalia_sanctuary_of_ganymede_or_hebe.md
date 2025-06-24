@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under Nero] in the mid-1st century A.D. Epir
 ## Location
 
 [Phigaleia]({{<relref ".">}}) \
-[Phigaleia](https://pleiades.stoa.org/places/570598)
+- {{< id vocab="Pleiades" id="570598" term="Phigaleia" >}}
 
 <!--### Location Description-->
 
@@ -45,7 +45,7 @@ Sanctuary of Ganymede or Hebe
 
 ## Keywords
 
-- [Literary](#)
+- {{< keyword "literary gardens" >}}
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
 -	[sacred groves](http://vocab.getty.edu/page/aat/300251876)
 
@@ -88,11 +88,11 @@ unspecified (mentioned in the 2nd century CE)
 
 ## Pleiades ID
 
-[Phigaleia](https://pleiades.stoa.org/places/570598)
+- {{< id vocab="Pleiades" id="570598" term="Phigaleia" >}}
 
 ## TGN ID
 
-[Phigalia (inhabited place)](http://vocab.getty.edu/page/tgn/5004240)
+- {{< id vocab="TGN" id="5004240" term="Phigalia (inhabited place)" >}}
 
 ## Contributor
 

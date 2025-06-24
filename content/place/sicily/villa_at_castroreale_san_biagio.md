@@ -31,7 +31,7 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 ## Location
 
-[Messina](https://pleiades.stoa.org/places/462538)
+- {{< id vocab="Pleiades" id="462538" term="Messina" >}}
 
 <!--### Location Description-->
 
@@ -53,8 +53,6 @@ A sublocation is any area larger than an individual garden, but located within a
 Villa at Castroreale San Biagio
 
 ## Keywords
-- [ ] (https)
-<!-- [urban villas](#) -->
 
 
 ## Garden Description
@@ -89,7 +87,7 @@ R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 199–203,
 
 ## Pleiades ID
 
-[Zancle/Messana](https://pleiades.stoa.org/places/462538)
+- {{< id vocab="Pleiades" id="462538" term="Zancle/Messana" >}}
 
 ## TGN ID
 

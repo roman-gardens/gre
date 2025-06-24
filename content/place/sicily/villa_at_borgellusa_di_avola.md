@@ -31,7 +31,7 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 ## Location
 
-[Syracuse](https://pleiades.stoa.org/places/462503)
+- {{< id vocab="Pleiades" id="462503" term="Syracuse" >}}
 
 <!--### Location Description-->
 
@@ -90,7 +90,7 @@ id., Sicily under the Roman Empire, Warminster, 1990, pp. 197–8  with fig. 165
 
 ## Pleiades ID
 
-[Syracusae/Syrakousai](https://pleiades.stoa.org/places/462503)
+- {{< id vocab="Pleiades" id="462503" term="Syracusae/Syrakousai" >}}
 
 ## TGN ID
 

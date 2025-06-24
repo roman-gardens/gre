@@ -44,11 +44,11 @@ Rustic villa at Rheinbach-Flerzheim
 
 ## Keywords
 
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
-- [hedges](http://vocab.getty.edu/page/aat/300266413)
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "hedges" >}}
+- {{< keyword "balnea" >}}
+- {{< keyword "kitchen gardens" >}}
+- {{< keyword "piscinae" >}}
 
 ## Garden Description
 
@@ -88,12 +88,12 @@ Second century CE to mid-fifth century CE
 
 ## Pleiades ID
 
-[Germania Inferior](https://pleiades.stoa.org/places/981524)
+- {{< id vocab="Pleiades" id="981524" term="Germania Inferior" >}}
 <!-- germania imferior; no pleiades location -->
 
 ## TGN ID
 
-[Flerzheim (inhabited place)](http://vocab.getty.edu/page/tgn/7192890)
+- {{< id vocab="TGN" id="7192890" term="Flerzheim (inhabited place)" >}}
 
 ## Contributor
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Cologne]({{<relref ".">}}) \
-[Cologne](https://pleiades.stoa.org/places/108751)
+- {{< id vocab="Pleiades" id="108751" term="Cologne" >}}
 
 ## Location Description
 This large town on the west bank of the Rhine river was the *civitas* capital of the [Ubii](link) in the first half of the 1st century A.D. It was granted the status of colonia by [Claudius](link) in 50 and became the provincial capital in 85.
@@ -41,11 +41,11 @@ Urban house on Wolfsstrasse (Colonia Claudia Ara Agrippinensium)
 
 ## Keywords
 
-- [urban villas](#) 
-- [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644) 
+- {{< keyword "urban villas" >}}
+- {{< keyword "villae urbanae" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "mural paintings (visual works)" >}} 
 
 
 ## Garden Description
@@ -79,10 +79,10 @@ Middle of the first century CE until the fourth century CE
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Ara Ubiorum/Col. Claudia Ara Agrippinensium](https://pleiades.stoa.org/places/108751)
+- {{< id vocab="Pleiades" id="108751" term="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
 
 ## TGN ID
-[Cologne (inhabited place)](http://vocab.getty.edu/page/tgn/7004446)
+- {{< id vocab="TGN" id="7004446" term="Cologne (inhabited place)" >}}
 
 ## Contributor
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  

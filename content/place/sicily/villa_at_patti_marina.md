@@ -31,7 +31,7 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 ## Location
 
-[Messina](https://pleiades.stoa.org/places/462538)
+- {{< id vocab="Pleiades" id="462538" term="Messina" >}}
 
 <!--### Location Description-->
 
@@ -89,7 +89,7 @@ G. Voza, L’attivita della Soprintendenza alle Antichita della Sicilia Oriental
 
 ## Pleiades ID
 
-[Zancle/Messana](https://pleiades.stoa.org/places/462538)
+- {{< id vocab="Pleiades" id="462538" term="Zancle/Messana" >}}
 
 ## TGN ID
 

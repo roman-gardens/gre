@@ -36,7 +36,7 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 ## Location
 
 [Pergamum (Pergamon; Bergama, Turkey)]({{<relref ".">}}) \
-[Pergamum](https://pleiades.stoa.org/places/550812)
+- {{< id vocab="Pleiades" id="550812" term="Pergamum" >}}
 
 ## Location Description
 
@@ -59,17 +59,17 @@ Temple Grove of Nikephorion
 
 ## Keywords
 
-- [groves (plant communities)](http://vocab.getty.edu/page/aat/300008884)
-- [sanctuary centers (religious centers)](http://vocab.getty.edu/page/aat/300391482)
-- [inscription](http://vocab.getty.edu/page/aat/300028702)
+- {{< keyword "groves (plant communities)" >}}
+- {{< keyword "sanctuary centers (religious centers)" >}}
+- {{< keyword "inscriptions" >}}
 - [Athenaeus](https://catalog.perseus.org/catalog/urn:cite:perseus:author.228)
 - [Pliny the Elder](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1141)
 - [Cicero](https://catalog.perseus.org/catalog/urn:cite:perseus:author.365)
 - [Aristotle](https://catalog.perseus.org/catalog/urn:cite:perseus:author.204)
 - [Plutarch](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1144)
-- [quadriportici](http://vocab.getty.edu/page/aat/300004101)
-- [palaestrae](http://vocab.getty.edu/page/aat/300007301)
-- [gymnasiums](http://vocab.getty.edu/page/aat/300007297)
+- {{< keyword "quadriportici" >}}
+- {{< keyword "palaestrae" >}}
+- {{< keyword "gymnasiums (physical education buildings)" >}}
 
 ## Garden Description
 
@@ -106,11 +106,11 @@ Unspecified
 
 ## Pleiades ID
 
-[Temple Grove of Nikephorion at Pergamum](https://pleiades.stoa.org/places/537932154)
+- {{< id vocab="Pleiades" id="537932154" term="Temple Grove of Nikephorion at Pergamum" >}}
 
 ## TGN ID
 
-[Bergama (inhabited place)](http://vocab.getty.edu/page/tgn/7016140)
+- {{< id vocab="TGN" id="7016140" term="Bergama (inhabited place)" >}}
 
 ## Contributor
 

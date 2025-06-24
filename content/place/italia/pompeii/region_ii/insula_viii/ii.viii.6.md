@@ -15,7 +15,7 @@ categories:
   - "Italia"
 tags:
  - "aedicules"
- - "doliums"
+ - "dolia"
  - "lararia"
  - "strigillation"
  - "triclinia (rooms)"
@@ -23,11 +23,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -39,11 +39,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VIII]({{<relref ".">}})
 
 ## Keywords
- - [aedicules](http://vocab.getty.edu/page/aat/300002574)
- - [lararia](http://vocab.getty.edu/page/aat/300400600)
- - [strigillation](http://vocab.getty.edu/page/aat/300121959)
- - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300142552)
- - [doliums](http://vocab.getty.edu/page/aat/300400601)
+- {{< keyword "aedicules" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "strigillation" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "dolia" >}}
 
 
 
@@ -73,10 +73,10 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 {{< image src="../../fig._74,_ii.viii.6_11.20.74.jpg" alt="Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}-->
 
 ## Pleiades ID
-[Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
+- {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 1953-1954, 1971-1972.

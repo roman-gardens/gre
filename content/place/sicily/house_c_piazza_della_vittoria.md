@@ -31,7 +31,7 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 ## Location
 
-[Palermo](https://pleiades.stoa.org/places/462410)
+- {{< id vocab="Pleiades" id="462410" term="Palermo" >}}
 
 <!--### Location Description-->
 
@@ -87,7 +87,7 @@ R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, p. 127 with re
 
 ## Pleiades ID
 
-[Pan(h)ormus](https://pleiades.stoa.org/places/462410)
+- {{< id vocab="Pleiades" id="462410" term="Pan(h)ormus" >}}
 
 ## TGN ID
 

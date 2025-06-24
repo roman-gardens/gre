@@ -15,14 +15,14 @@ categories:
   - "Italia"
 tags:
  - "fountains"
- - "shrines (structures)"
+ - "shrines"
  - "trellises"
 ---
 
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 
 ## Location
@@ -46,9 +46,9 @@ Thermea
 Great Palestra
 
 ## Keywords
-- [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [trellises](http://vocab.getty.edu/page/aat/300006785)
+- {{< keyword "shrines" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "trellises" >}}
 
 
 
@@ -61,10 +61,10 @@ The Palaestra was crossed by Burbon tunnels in 1756-1760 and partially excavated
 {{< image src="h_garden_casa_rilievo.jpg" alt="Herculaneum - Garden at rear of Casa del Rilievo di Telefo" title="Herculaneum - Garden at rear of Casa del Rilievo di Telefo." >}}
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 

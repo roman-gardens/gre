@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [tourves]({{<relref ".">}}) \
-[tourves](https://pleiades.stoa.org/places/157799)
+- {{< id vocab="Pleiades" id="157799" term="tourves" >}}
 
 ## Location Description
 
@@ -49,12 +49,12 @@ Villa de Muscapeu
 
 ## Keywords
 
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
+- {{< keyword "peristyles" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "balnea" >}}
 
 
 
@@ -99,12 +99,12 @@ In a second stage, in the first century, a bath complex [5] with an open-air esp
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Tourves (inhabited place)](http://vocab.getty.edu/page/tgn/1035905)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="1035905" term="Tourves (inhabited place)" >}}
 
 ## Contributor
 

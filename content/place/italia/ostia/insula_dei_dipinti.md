@@ -11,19 +11,19 @@ draft: false
 tags:
  - "aedicules"
  - "flowerpots"
- - "insulae"
+ - "insulae (apartments)"
  - "mosaics (visual works)"
 ---
 
 ## Province
 
 [Italia]({{<relref "..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
 [Ostia]({{<relref ".">}}) \
-[Ostia](https://pleiades.stoa.org/places/422995)
+- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 
 ## Location Description
 
@@ -54,18 +54,18 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 ## Garden
 
 Insula dei Dipinti \
-[Insula dei Dipinti](https://pleiades.stoa.org/places/841214213)
+- {{< id vocab="Pleiades" id="841214213" term="Insula dei Dipinti" >}}
 
 ## Keywords
 
-- [aedicules](http://vocab.getty.edu/page/aat/300002574)
-- [flowerpots](http://vocab.getty.edu/page/aat/300194749)
-- [Hadrianic](http://vocab.getty.edu/page/aat/300107350)
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [Severan](http://vocab.getty.edu/page/aat/300020566)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [whitewash (water-base paint)](http://vocab.getty.edu/page/aat/300015042)
+- {{< keyword "aedicules" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "Hadrianic" >}}
+- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "Severan" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "whitewash (water-base paint)" >}}
 
 ## Garden Description
 
@@ -102,11 +102,11 @@ recent excavations
 
 ## Pleiades ID
 
-[Insula dei Dipinti](https://pleiades.stoa.org/places/841214213)
+- {{< id vocab="Pleiades" id="841214213" term="Insula dei Dipinti" >}}
 
 ## TGN ID
 
-[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
+- {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor

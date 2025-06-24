@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Mauretania]({{<relref "..">}}) \
-[Mauretania Tingitana (province)(Pleiades)](https://pleiades.stoa.org/places/981533)
+- {{< id vocab="Pleiades" id="981533" term="Mauretania Tingitana (province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 [Volubilis]({{<relref ".">}})
-[Volubilis](https://pleiades.stoa.org/places/275740)
+- {{< id vocab="Pleiades" id="275740" term="Volubilis" >}}
 
 ## Location Description
 
@@ -40,13 +40,13 @@ The Gordian Palace (Le palais dit de Gordien)
 
 ## Keywords
 
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [palaces](http://vocab.getty.edu/page/aat/300005734)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [peristyle house](http://vocab.getty.edu/page/aat/300005452)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "balnea" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "porticoes" >}}
 
 ## Garden Description
 
@@ -70,7 +70,7 @@ Second century CE
 
 ## Pleiades ID
 
-[The Gordian Palace](https://pleiades.stoa.org/places/762613672)
+- {{< id vocab="Pleiades" id="762613672" term="The Gordian Palace" >}}
 
 ## TGN ID
 

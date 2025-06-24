@@ -22,7 +22,7 @@ tag:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -30,7 +30,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 [Hippo Regius]({{<relref ".">}}) \
-[Hippo Regius](https://pleiades.stoa.org/places/305090)
+- {{< id vocab="Pleiades" id="305090" term="Hippo Regius" >}}
 
 ## Location Description
 
@@ -56,12 +56,12 @@ A sublocation is any area larger than an individual garden, but located within a
 Domus of the Sea Front (Villa du front de mer)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [planters (containers)](http://vocab.getty.edu/page/aat/300237566)
-- [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [semicircular basin](#)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "planters (containers)" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "semicircular basin" >}}
 
 
 ## Garden Description
@@ -106,10 +106,10 @@ Domus of the Sea Front (Villa du front de mer)
 
 ## Pleiades ID
 
-[Hippo Regius](https://pleiades.stoa.org/places/305090)
+- {{< id vocab="Pleiades" id="305090" term="Hippo Regius" >}}
 
 ## TGN ID
-[Annaba (inhabited place)](http://vocab.getty.edu/page/tgn/7001313)
+- {{< id vocab="TGN" id="7001313" term="Annaba (inhabited place)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

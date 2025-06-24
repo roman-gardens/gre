@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-[Lusitania](https://pleiades.stoa.org/places/1101)
+- {{< id vocab="Pleiades" id="1101" term="Lusitania" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 [La Cocosa]({{<relref ".">}}) \
-[La Cocosa](https://pleiades.stoa.org/places/256109)
+- {{< id vocab="Pleiades" id="256109" term="La Cocosa" >}}
 
 <!--### Location Description-->
 
@@ -47,9 +47,9 @@ A sublocation is any area larger than an individual garden, but located within a
 Villa de La Cocosa
 
 ## Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)
+- {{< keyword "peristyles" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "podiums (building divisions)" >}}
 
 ## Garden Description
 Rock is very scarce in this region, so it happened that sometime around 1940 workers removing stones from the ruined walls of this villa found the mosaic floor of the tepidarium.  The owner informed the authorities in Badajoz, archaeologists were brought in, and the villa was fully excavated. A few years later, José de C. Serra Ráfols was entrusted with the job of mapping the site and preparing documentation based on his own work and the notes of his predecessors.  His ample text of 173 pages plus 28 drawings and 37 photographs appeared in 1952.  The mosaic from the tepidarium with a hippocampus (marine centaur) surrounded by dolphins and fish is in the Museo de Bellas Artes in Badajoz.  This excavation, however, was done long before the interest in the archaeology of gardens, so it is hardly surprising that almost nothing is said about them.
@@ -88,7 +88,7 @@ Besides the central peristyle, there are several other areas that were possibly 
 
 ## Pleiades ID
 
-[La Cocosa](https://pleiades.stoa.org/places/256109)
+- {{< id vocab="Pleiades" id="256109" term="La Cocosa" >}}
 
 
 <!--### Contributor-->

@@ -15,10 +15,10 @@ categories:
 tags:
  - "aedicules"
  - "amphorae (storage vessels)"
- - "courtyards"
- - "doliums"
+ - "courtyards (uncovered spaces)"
+ - "dolia"
  - "gutters (building drainage components)"
- - "hearth"
+ - "hearths"
  - "stucco"
  - "tabernae"
  - "tables (support furniture)"
@@ -27,11 +27,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -43,16 +43,16 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula I]({{<relref ".">}})
 
 ## Keywords
- - [tabernae](http://vocab.getty.edu/page/aat/300005366)
- - [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
- - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
- - [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
- - [doliums](http://vocab.getty.edu/page/aat/300400601)
- - [courtyards](http://vocab.getty.edu/page/aat/300004095)
- - [aedicules](http://vocab.getty.edu/page/aat/300002574)
- - [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
- - [stucco (plaster)](http://vocab.getty.edu/page/aat/300014966)
- - [hearth](http://vocab.getty.edu/page/aat/300003990)
+- {{< keyword "tabernae" >}}
+- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "tables (support furniture)" >}}
+- {{< keyword "dolia" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "aedicules" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "stucco (plaster)" >}}
+- {{< keyword "hearths" >}}
 
 
 ## Garden
@@ -75,10 +75,10 @@ Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 198
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
+- {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 1939, 1953-1955, 1983

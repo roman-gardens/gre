@@ -51,10 +51,10 @@ Funerary Grove of Q. Cervonius Chryseros
 
 ## Keywords
 
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [stelae](http://vocab.getty.edu/page/aat/300007023)
-- [sacred groves](http://vocab.getty.edu/page/aat/300251876)
-- [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
+- {{< keyword "tombs" >}}
+- {{< keyword "stelae" >}}
+- {{< keyword "sacred groves" >}}
+- {{< keyword "altars (religious fixtures)" >}}
 
 ## Garden Description
 
@@ -93,11 +93,11 @@ unspecified
 
 ## Pleiades ID
 
-[Aquileia](https://pleiades.stoa.org/places/187290)
+- {{< id vocab="Pleiades" id="187290" term="Aquileia" >}}
 
 ## TGN ID
 
-[Aquileia (inhabited place)](http://vocab.getty.edu/page/tgn/7005553)
+- {{< id vocab="TGN" id="7005553" term="Aquileia (inhabited place)" >}}
 
 ## Contributor
 

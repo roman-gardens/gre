@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Hummetroth]({{<relref ".">}}) \
-[Hummetroth](https://pleiades.stoa.org/places/981525)
+- {{< id vocab="Pleiades" id="981525" term="Hummetroth" >}}
 
 <!--### Location Description-->
 
@@ -48,14 +48,14 @@ Rural Villa in Hummetroth
 
 ## Keywords
 
-- [apsed triclinium](#)
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
-- [hypocausts](http://vocab.getty.edu/page/aat/300004277)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- {{< keyword "apsed triclinia" >}}
+- {{< keyword "balnea" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "hypocausts" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "terrace gardens" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -94,11 +94,11 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 
 ## Pleiades ID
 
-[Germania Superior](https://pleiades.stoa.org/places/981525)
+- {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
 
 ## TGN ID
 
-[Hummetroth (inhabited place)](http://vocab.getty.edu/page/tgn/7165467)
+- {{< id vocab="TGN" id="7165467" term="Hummetroth (inhabited place)" >}}
 
 ## Contributor
 

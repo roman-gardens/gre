@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -49,12 +49,12 @@ Aix, Jardins de Grassi, House with the large peristyle
 
 ## Keywords
 
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-- [opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [pilasters](http://vocab.getty.edu/page/aat/300002737)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- {{< keyword "peristyles" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "opus sectile (visual works)" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "pilasters" >}}
+- {{< keyword "columns (architectural elements)" >}}
 
 
 
@@ -106,12 +106,12 @@ NEW WAY ↓↓↓↓
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Aix-en-Provence (inhabited place)](http://vocab.getty.edu/page/tgn/7010786)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7010786" term="Aix-en-Provence (inhabited place)" >}}
 
 ## Contributor
 

@@ -16,7 +16,7 @@ tags:
  - "exedrae (site elements)"
  - "fountains"
  - "oeci"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "porticoes"
  - "stucco"
  - "tablina"
@@ -25,11 +25,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -41,14 +41,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IV]({{<relref "#">}})
 
 ## Keywords
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [stucco (plaster)](http://vocab.getty.edu/page/aat/300014966)
-- [tablina](http://vocab.getty.edu/page/aat/300004180)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "stucco (plaster)" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden
 House of the Citharist (also known as the Casa Del Citarista, House of L. Popidius Secundus Agustianus, and L. Popidus Ampliatus), a domestic property with [peristyle](http://vocab.getty.edu/page/aat/300080971) gardens.
@@ -110,7 +110,7 @@ C. The north [peristyle](http://vocab.getty.edu/page/aat/300080971) garden belon
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 Excavated 1853-1861, 1868, 1872 and 1929.

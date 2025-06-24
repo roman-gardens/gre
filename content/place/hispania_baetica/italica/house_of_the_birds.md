@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Italica]({{<relref ".">}}) \
-[Italica](https://pleiades.stoa.org/places/256231)
+- {{< id vocab="Pleiades" id="256231" term="Italica" >}}
 
 ## Location Description
 
@@ -37,11 +37,11 @@ House of the Birds
 
 ## Keywords
 
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [vestibules](http://vocab.getty.edu/page/aat/300083076)
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "vestibules" >}}
 <!-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)-->
 
 
@@ -91,10 +91,10 @@ unspecified
 
 ## Pleiades ID
 [House of the Birds at Italica]{{<relref ".">}}) \
-[House of the Birds at Italica](https://pleiades.stoa.org/places/623258561)
+- {{< id vocab="Pleiades" id="623258561" term="House of the Birds at Italica" >}}
 
 ## TGN ID
-[Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
+- {{< id vocab="TGN" id="7007822" term="Itálica (deserted settlement)" >}}
 
 ## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

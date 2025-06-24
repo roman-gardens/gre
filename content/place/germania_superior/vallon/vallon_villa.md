@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Vallon]({{<relref ".">}}) \
-[Vallon](https://pleiades.stoa.org/places/981525)
+- {{< id vocab="Pleiades" id="981525" term="Vallon" >}}
 
 <!--### Location Description-->
 
@@ -48,25 +48,25 @@ Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)
 
 ## Keywords
 
-- [arbors](http://vocab.getty.edu/page/aat/300006781)
-- [barns](http://vocab.getty.edu/page/aat/300004900)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [ceramic tile](http://vocab.getty.edu/page/aat/300010678)
-- [ditches](http://vocab.getty.edu/page/aat/300006178)
-- [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
-- [hearths](http://vocab.getty.edu/page/aat/300003990)
-- [horrea](http://vocab.getty.edu/page/aat/300120504)
-- [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [orchards](http://vocab.getty.edu/page/aat/300008890)
-- [pedestals](http://vocab.getty.edu/page/aat/300001744)
-- [pillars](http://vocab.getty.edu/page/aat/300264605)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [sherds](http://vocab.getty.edu/page/aat/300117132)
-- [tesserae](http://vocab.getty.edu/page/aat/300010730)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
-- [water supply systems](http://vocab.getty.edu/page/aat/300008618)
+- {{< keyword "arbors" >}}
+- {{< keyword "barns" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "ceramic tile" >}}
+- {{< keyword "ditches" >}}
+- {{< keyword "fences (site elements)" >}}
+- {{< keyword "hearths" >}}
+- {{< keyword "horrea" >}}
+- {{< keyword "kitchen gardens" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "pedestals" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "sherds" >}}
+- {{< keyword "tesserae" >}}
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "water supply systems" >}}
 
 ## Garden Description
 
@@ -128,11 +128,11 @@ Beginning of the 1st c. CE - beginning of the Vth century
 
 ## Pleiades ID
 
-[Germania Superior](https://pleiades.stoa.org/places/981525)
+- {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
 
 ## TGN ID
 
-[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
+- {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
 
 ## Contributor
 

@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [LUGDUNUM (Lyon, France)]({{<relref ".">}}) \
-[LUGDUNUM](https://pleiades.stoa.org/places/167717)
+- {{< id vocab="Pleiades" id="167717" term="LUGDUNUM" >}}
 
 <!--### Location Description-->
 
@@ -41,9 +41,9 @@ A sublocation is any area larger than an individual garden, but located within a
 House with Pilasters (Clos du Verbe Incarné)
 
 ## Keywords
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [Domus](http://vocab.getty.edu/page/aat/300005506)
+- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "domus" >}}
 
 ## Garden Description
 The *insula* VII of the Clos du Verbe Incarné, excavated from 1977 to 1987, lies on the western slope of a little dip (71 x 34 m) in the upper town, about 160 meters northwest of the center of the top of the theater. In this *insula*, begun between 40 and 20 BC, one can follow the evolution of this quarter up to the end of the third century. To the north, the *insula* was bordered by the street called du Capitol and to the west by the street called de Cybèle. The subdivision of the *insula* was put in place from 15–10 BC. The house occupied 400 square meters, and was organized on an italic plan around a traditional *atrium* followed by a tablinum[1]. The house of seven or eight rooms did not have a peristyle but did, no doubt, include a *hortus*[2] (15 x 5 m) at the back of the lot.
@@ -75,10 +75,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Col. Lugdunum](https://pleiades.stoa.org/places/167717)
+- {{< id vocab="Pleiades" id="167717" term="Col. Lugdunum" >}}
 
 ## TGN ID
-[Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
+- {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  

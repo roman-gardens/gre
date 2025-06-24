@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [aix-en-provence]({{<relref ".">}}) \
-[aix-en-provence](https://pleiades.stoa.org/places/148053)
+- {{< id vocab="Pleiades" id="148053" term="aix-en-provence" >}}
 
 ## Location Description
 
@@ -48,15 +48,15 @@ House under the Pasteur parking lot
 
 
 ## Keywords
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [candelabras (candleholders)](http://vocab.getty.edu/page/aat/300037584)
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "terrace gardens" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "candelabras (candleholders)" >}}
 
 
 
@@ -116,12 +116,12 @@ NEW WAY ↓↓↓↓
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Aix-en-Provence (inhabited place)](http://vocab.getty.edu/page/tgn/7010786)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7010786" term="Aix-en-Provence (inhabited place)" >}}
 
 ## Contributor
 

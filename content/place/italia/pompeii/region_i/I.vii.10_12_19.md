@@ -20,7 +20,7 @@ tags:
  - "candelabras (candleholders)"
  - "cisterns (plumbing components)"
  - "columns (architectural elements)"
- - "doliums"
+ - "dolia"
  - "engaged columns"
  - "exedrae (site elements)"
  - "fences (site elements)"
@@ -28,7 +28,7 @@ tags:
  - "impluvia"
  - "mural paintings (visual works)"
  - "pergolas"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "pillars"
  - "piscinae"
  - "porticoes"
@@ -44,11 +44,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -61,33 +61,33 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 
-- [aedicules](http://vocab.getty.edu/page/aat/300002574)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [busts (sculpture)](http://vocab.getty.edu/page/aat/300417950)
-- [candelabras (candleholders)](http://vocab.getty.edu/page/aat/300037584)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [doliums](http://vocab.getty.edu/page/aat/300400601)
-- [engaged columns](http://vocab.getty.edu/page/aat/300001638)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [impluvia](http://vocab.getty.edu/page/aat/300129867)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [pillars](http://vocab.getty.edu/page/aat/300264605)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
-- [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
-- [tablina](http://vocab.getty.edu/page/aat/300004180)
-- [trellises](http://vocab.getty.edu/page/aat/300006785)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [vegetable gardens](http://vocab.getty.edu/page/aat/300008142)
-- [vestibules](http://vocab.getty.edu/page/aat/300083076)
+- {{< keyword "aedicules" >}}
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "busts (sculpture)" >}}
+- {{< keyword "candelabras (candleholders)" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "dolia" >}}
+- {{< keyword "engaged columns" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "fences (site elements)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "impluvia" >}}
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "tables (support furniture)" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "trellises" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "vegetable gardens" >}}
+- {{< keyword "vestibules" >}}
 
 
 ## Garden
@@ -169,11 +169,11 @@ Excavated 1912 and 1925.
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

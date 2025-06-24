@@ -17,7 +17,7 @@ categories:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 <!--### Province Description-->
 
 <!-- DESCRIPTION -->
@@ -26,7 +26,7 @@ categories:
 ## Location
 
 [Herculaneum]({{<relref "..">}}) \
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
@@ -47,11 +47,11 @@ Casa D’Argo
 
 ## Keywords
 
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "gutters (building drainage components)" >}}
 
 ## Garden Description
 533.II.2.
@@ -102,10 +102,10 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 
 ## Contributor

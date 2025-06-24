@@ -19,11 +19,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -35,7 +35,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VI]({{<relref ".">}})
 
 ## Keywords
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "porticoes" >}}
 
 ## Garden Description
 At the time of the eruption this site (a) was under construction. A portico was being built on the south and west sides using brick-shaped tufa columns and three old tufa columns. The columns on the south were salvaged from an earlier building. This was a large area, the intended use not clear. It may have been a garden previously.
@@ -48,10 +48,10 @@ At the time of the eruption this site (a) was under construction. A portico was 
 
 
 ## Pleiades ID
-[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
+- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
+- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
 Unspecified

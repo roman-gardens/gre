@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [arausio]({{<relref ".">}}) \
-[arausio](https://pleiades.stoa.org/places/148054)
+- {{< id vocab="Pleiades" id="148054" term="arausio" >}}
 
 ## Location Description
 
@@ -49,13 +49,13 @@ Quarter of Saint-Florent, House A – House of the Mosaic with Meanders
 
 ## Keywords
 
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
+- {{< keyword "peristyles" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "opus signinum" >}}
 
 
 ## House Description
@@ -96,12 +96,12 @@ A.D 20-30 Destroyed
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Vaucluse (inhabited place)](http://vocab.getty.edu/page/tgn/7599818)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7599818" term="Vaucluse (inhabited place)" >}}
 
 ## Contributor
 

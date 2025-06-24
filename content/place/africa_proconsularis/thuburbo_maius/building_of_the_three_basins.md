@@ -20,7 +20,7 @@ tags:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 
@@ -28,7 +28,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) \
-[THUBURBO MAIUS (Henchir Kasbat), Tunisia](https://pleiades.stoa.org/places/315220)
+- {{< id vocab="Pleiades" id="315220" term="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
 {{< image src="thuburbo_house_of_the_three_basins.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
@@ -39,9 +39,9 @@ The city occupies the slopes of a hill in a fertile grain producing area about 5
 
 ## Keywords
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [semicircular basin](#)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "semicircular basin" >}}
 
 ## Garden Description
 
@@ -71,11 +71,11 @@ The SE area was laid out around an incomplete peristyle with seven columns along
 
 ## Pleiades_ID
 
-[Thuburbo Maius](https://pleiades.stoa.org/places/315220)
+- {{< id vocab="Pleiades" id="315220" term="Thuburbo Maius" >}}
 
 ## TGN ID
 
-[Kasba, Henchir el (deserted settlement)](http://vocab.getty.edu/page/tgn/7001750)
+- {{< id vocab="TGN" id="7001750" term="Kasba, Henchir el (deserted settlement)" >}}
 
 ## Contributor
 

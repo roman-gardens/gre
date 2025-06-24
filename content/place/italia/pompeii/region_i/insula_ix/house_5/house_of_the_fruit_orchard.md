@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Sublocation
 
@@ -44,16 +44,16 @@ House of the Fruit Orchard; Casa del Frutteto; Dei Cubicoli Floreali (I.ix.5)
 
 ## Keywords
 
-- [archaeological garden](#)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
-- [trellises](http://vocab.getty.edu/page/aat/300006785)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "cubicula (domestic spaces)" >}}
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "trellises" >}}
 
 ## Garden Description
 
@@ -110,11 +110,11 @@ unspecified
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

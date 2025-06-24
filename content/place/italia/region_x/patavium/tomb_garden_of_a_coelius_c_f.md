@@ -30,7 +30,7 @@ tags:
 ## Location
 
 [Patavium]({{<relref "../../..">}}) \
-[Patavium](https://pleiades.stoa.org/places/393473)
+- {{< id vocab="Pleiades" id="393473" term="Patavium" >}}
 
 <!--### Location Description-->
 
@@ -51,10 +51,10 @@ Tomb garden of A. Coelius C. f.
 
 ## Keywords
 
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
-- [stelae](http://vocab.getty.edu/page/aat/300007023)
-- [mausoleums](http://vocab.getty.edu/page/aat/300005891)
+- {{< keyword "tombs" >}}
+- {{< keyword "epitaphs" >}}
+- {{< keyword "stelae" >}}
+- {{< keyword "mausoleums" >}}
 
 ## Garden Description
 
@@ -89,11 +89,11 @@ unspecified
 
 ## Pleiades ID
 
-[Patavium](https://pleiades.stoa.org/places/393473)
+- {{< id vocab="Pleiades" id="393473" term="Patavium" >}}
 
 ## TGN ID
 
-[Padua (inhabited place)](http://vocab.getty.edu/page/tgn/7003085)
+- {{< id vocab="TGN" id="7003085" term="Padua (inhabited place)" >}}
 
 ## Contributor
 

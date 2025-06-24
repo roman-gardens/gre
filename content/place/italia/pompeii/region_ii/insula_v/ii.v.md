@@ -14,7 +14,7 @@ categories:
  - "Italia"
 tags:
  - "amphitheaters"
- - "doliums"
+ - "dolia"
  - "trellises"
  - "triclinia (couches)"
  - "vineyards"
@@ -26,7 +26,7 @@ tags:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 <!--### Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
@@ -37,7 +37,7 @@ tags:
 [Insula V]({{<relref "..">}})
 
 ## House
-[Large Vineyard](https://pleiades.stoa.org/places/444848573)
+- {{< id vocab="Pleiades" id="444848573" term="Large Vineyard" >}}
 
 
 
@@ -46,11 +46,11 @@ tags:
 Large vineyard
 
 ## Keywords
-- [amphitheaters (built works)](http://vocab.getty.edu/page/aat/300007128)
-- [trellises](http://vocab.getty.edu/page/aat/300006785)
-- [triclinia (couches)](http://vocab.getty.edu/page/aat/300142552)
-- [vineyards](http://vocab.getty.edu/page/aat/300000248)
-- [doliums](http://vocab.getty.edu/page/aat/300400601)
+- {{< keyword "amphitheaters (built works)" >}}
+- {{< keyword "trellises" >}}
+- {{< keyword "triclinia (couches)" >}}
+- {{< keyword "vineyards" >}}
+- {{< keyword "dolia" >}}
 
 
 
@@ -176,7 +176,7 @@ Excavated 1755, 1814 and between 1912 and 1972.
 
 ## Pleiades ID
 
-[444848573](https://pleiades.stoa.org/places/444848573)
+- {{< id vocab="Pleiades" id="444848573" term="444848573" >}}
 
 
 

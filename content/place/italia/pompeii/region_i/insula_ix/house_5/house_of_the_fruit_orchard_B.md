@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Sublocation
 
@@ -44,9 +44,9 @@ House of the Fruit Orchard; Casa del Frutteto; Dei Cubicoli Floreali (I.ix.5) B
 
 ## Keywords
 
-- [archaeological garden](#)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "peristyles" >}}
 
 ## Garden Description
 
@@ -102,11 +102,11 @@ unspecified
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

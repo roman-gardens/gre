@@ -15,12 +15,12 @@ tags:
  - "domus"
  - "peristyle houses"
  - "triclinia (rooms)"
- - "pools (bodies of water)"
+ - "pools"
 ---
 
 ## Province
 [Numidia]({{<relref "..">}}) \
-[Numidia](https://pleiades.stoa.org/places/981539)
+- {{< id vocab="Pleiades" id="981539" term="Numidia" >}}
 
 ## Province Description
 
@@ -29,7 +29,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 [Thamugadi]({{<relref ".">}}) \
-[Thamugadi](https://pleiades.stoa.org/places/334636)
+- {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}
 
 {{< image src="timgad_city_plan_hermaphrodite_house.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
 
@@ -55,10 +55,10 @@ A sublocation is any area larger than an individual garden, but located within a
 Hermaphrodite House (Maison de l'Hermaphrodite)
 
 ## Keywords
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "pools" >}}
 
 
 ## Garden Description
@@ -96,10 +96,10 @@ The large house was laid out around a large peristyle of 22 columns. In the axis
 
 ## Pleiades ID
 
-[Thamugadi](https://pleiades.stoa.org/places/334636)
+- {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}
 
 ## TGN ID
-[Timgad (deserted settlement)](http://vocab.getty.edu/page/tgn/7001328)
+- {{< id vocab="TGN" id="7001328" term="Timgad (deserted settlement)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

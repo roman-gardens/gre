@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [LUGDUNUM (Lyon, France)]({{<relref ".">}}) \
-[LUGDUNUM](https://pleiades.stoa.org/places/167717)
+- {{< id vocab="Pleiades" id="167717" term="LUGDUNUM" >}}
 
 <!--### Location Description-->
 
@@ -41,15 +41,15 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Masks (Maison aux Masques)
 
 ## Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [stylobates](http://vocab.getty.edu/page/aat/300000986)
-- [plynth](http://vocab.getty.edu/page/aat/300001749)
-- [pilasters](http://vocab.getty.edu/page/aat/300002737)
+- {{< keyword "peristyles" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "stylobates" >}}
+- {{< keyword "plinths" >}}
+- {{< keyword "pilasters" >}}
 
 ## Garden Description
-The two known wings of the house were organized around a *peristyle* (8x 12 m), probably in a U, though the west wall has not been found but has been drawn on the accompanying plan by extension of wall further south. Two of the three galleries were open. The open area of the *peristyle* court was ornamented by a rectangular pool (5.4 x 2.6 m) covered with *opus signinumboth* inside and outside; it had a drain in the northeast corner. The surface of the water in the pool would have been above the level of pounded earth floor of the courtyard. *Porticoes* 2.8 meters wide around three sides of the courtyard also had pounded earth floors; the *stylobate* was blocks of limestone while the columns were of circular brick covered with plaster painted red in the lower part, white in the upper, and touched with green highlights. The *porticoes* were terminated at the west end by engaged columns. The painted plaster is preserved in place in the southwest corner of the peristyle. A red *plinth* sets off tuffs of green foliage; above are black panels bordered with decorative strings. At a later phase, a wall was built between the last two columns of the of the *portico*; in the space thus created were found bases for shelves. Near the *peristyle* were found little theatrical masks in terra cotta which had served as oscilla. An ostrich egg, an exotic import, was perhaps also hung in the *peristyle*. Onto the south *portico* opened a reception room [B 20] (8.6 x 6.2 m) rhythmically divided by four *pilasters* and two columns. Onto the east *portico* opened an even larger room [B 12] (10.5 x 6.5 m). Both reception rooms had concrete floors with limestone accents. There were also two small courtyards --one in the south wing, one in the east --both indicated on the plan.
+The two known wings of the house were organized around a *peristyle* (8x 12 m), probably in a U, though the west wall has not been found but has been drawn on the accompanying plan by extension of wall further south. Two of the three galleries were open. The open area of the *peristyle* court was ornamented by a rectangular pool (5.4 x 2.6 m) covered with *opus signinum* both inside and outside; it had a drain in the northeast corner. The surface of the water in the pool would have been above the level of pounded earth floor of the courtyard. *Porticoes* 2.8 meters wide around three sides of the courtyard also had pounded earth floors; the *stylobate* was blocks of limestone while the columns were of circular brick covered with plaster painted red in the lower part, white in the upper, and touched with green highlights. The *porticoes* were terminated at the west end by engaged columns. The painted plaster is preserved in place in the southwest corner of the peristyle. A red *plinth* sets off tuffs of green foliage; above are black panels bordered with decorative strings. At a later phase, a wall was built between the last two columns of the of the *portico*; in the space thus created were found bases for shelves. Near the *peristyle* were found little theatrical masks in terra cotta which had served as oscilla. An ostrich egg, an exotic import, was perhaps also hung in the *peristyle*. Onto the south *portico* opened a reception room [B 20] (8.6 x 6.2 m) rhythmically divided by four *pilasters* and two columns. Onto the east *portico* opened an even larger room [B 12] (10.5 x 6.5 m). Both reception rooms had concrete floors with limestone accents. There were also two small courtyards --one in the south wing, one in the east --both indicated on the plan.
 
 ## Maps
 
@@ -76,10 +76,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Col. Lugdunum](https://pleiades.stoa.org/places/167717)
+- {{< id vocab="Pleiades" id="167717" term="Col. Lugdunum" >}}
 
 ## TGN ID
-[Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
+- {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

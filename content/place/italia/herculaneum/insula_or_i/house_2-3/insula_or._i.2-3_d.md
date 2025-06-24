@@ -14,13 +14,13 @@ categories:
   - "Italia"
 tags:
  - "rustic"
- - "shrines (structures)"
+ - "shrines"
 ---
 
 ## Province
 
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
@@ -39,8 +39,8 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 D
 
 ## Keywords
-- [rustic (style)](http://vocab.getty.edu/page/aat/300310541)
-- [shrines (structures)](http://vocab.getty.edu/page/aat/300007558)
+- {{< keyword "rustic (style)" >}}
+- {{< keyword "shrines" >}}
 
 
 ## Garden Description
@@ -53,10 +53,10 @@ D. A rustic shrine was attached to the north side of the house and a long narrow
 
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 Unspecified

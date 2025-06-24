@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Frocester Court]({{<relref ".">}}) \
-[Frocester Court](https://pleiades.stoa.org/places/79471)
+- {{< id vocab="Pleiades" id="79471" term="Frocester Court" >}}
 
 <!--### Location Description-->
 
@@ -46,13 +46,13 @@ Rural Villa in Frocester Court
 
 ## Keywords
 
-- [archaeological gardens](#)
-- [ditches](http://vocab.getty.edu/page/aat/300006178)
-- [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
-- [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
-- [orchards](http://vocab.getty.edu/page/aat/300008890)
-- [paddocks](http://vocab.getty.edu/page/aat/300428748)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "ditches" >}}
+- {{< keyword "fences (site elements)" >}}
+- {{< keyword "kitchen gardens" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "paddocks" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -87,11 +87,11 @@ early 4th - 5th century CE
 
 ## Pleiades ID
 
-[Frocester](https://pleiades.stoa.org/places/79471)
+- {{< id vocab="Pleiades" id="79471" term="Frocester" >}}
 
 ## TGN ID
 
-[Frocester (inhabited place)](http://vocab.getty.edu/page/tgn/4004114)
+- {{< id vocab="TGN" id="4004114" term="Frocester (inhabited place)" >}}
 
 ## Contributor
 

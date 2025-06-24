@@ -25,7 +25,7 @@ tag:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -33,7 +33,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 [Neapolis]({{<relref ".">}}) \
-[Neapolis](https://pleiades.stoa.org/places/315093)
+- {{< id vocab="Pleiades" id="315093" term="Neapolis" >}}
 
 ## Location Description
 
@@ -57,15 +57,15 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Nymphs (Maison des Nymphes)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
-- [cachepots](#)
-- [inscriptions](http://vocab.getty.edu/page/aat/300028702)
-- [Virgil](#)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "cachepots" >}}
+- {{< keyword "inscriptions" >}}
+- {{< keyword "Virgil" >}}
 
 ## Garden Description
  This large house (1500m²) laid-out around a peristyle-garden is known for its mosaic pavements figuring Homeric scenes. The peristyle is entered from the S. The N wing had a vast *oecus-triclinium* bordered on both sides by two apartments that each had two rooms and a passage to a pseudo-atrium (Plan view, Fig.1).
@@ -111,10 +111,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Neapolis](https://pleiades.stoa.org/places/315093)
+- {{< id vocab="Pleiades" id="315093" term="Neapolis" >}}
 
 ## TGN ID
-[Nabeul (inhabited place)](http://vocab.getty.edu/page/tgn/1094981)
+- {{< id vocab="TGN" id="1094981" term="Nabeul (inhabited place)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

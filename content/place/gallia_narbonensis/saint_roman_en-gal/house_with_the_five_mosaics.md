@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -49,13 +49,13 @@ House with the Five Mosaics
 
 ## Keywords
 
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
-- [opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "porticoes" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "opus sectile (visual works)" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 
 
@@ -105,12 +105,12 @@ In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the ga
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Saint-Romain-en-Gal (inhabited place)](http://vocab.getty.edu/page/tgn/5004109)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="5004109" term="Saint-Romain-en-Gal (inhabited place)" >}}
 
 ## Contributor
 

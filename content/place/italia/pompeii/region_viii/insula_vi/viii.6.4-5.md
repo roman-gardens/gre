@@ -13,17 +13,17 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "insulae"
+  - "insulae (apartments)"
   - "aedicules"
 ---
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -35,8 +35,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VI]({{<relref ".">}})
 
 ## Keywords
-- [insula](http://vocab.getty.edu/page/aat/300000325)
-- [aedicules](http://vocab.getty.edu/page/aat/300002574)
+- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "aedicules" >}}
 
 ## Garden Description
 After the earthquake the eastern part of this insula had been converted into a market garden. When it was excavated in 1883-1884 some of the soil contours remained. A basin in the northwest corner collected water that was diverted from the street. Gardening tools were found in this garden and the remnants of the earlier structure that stood here, an animal painting on the south wall and a simple aedicula shrine in the southwest corner, indicated that this had been a home.
@@ -49,10 +49,10 @@ After the earthquake the eastern part of this insula had been converted into a m
 
 
 ## Pleiades ID
-[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
+- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
+- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
 1883-1884

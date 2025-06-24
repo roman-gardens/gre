@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Sublocation
 
@@ -44,11 +44,11 @@ Caupona-Hospitium dei "Pulcinella" (I.viii.10)
 
 ## Keywords
 
-- [archaeological garden](#)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "lararia" >}}
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 ## Garden Description
 
@@ -93,11 +93,11 @@ unspecified
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

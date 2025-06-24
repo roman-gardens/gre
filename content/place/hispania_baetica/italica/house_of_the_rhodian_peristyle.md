@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Italica]({{<relref ".">}}) \
-[Italica](https://pleiades.stoa.org/places/256231)
+- {{< id vocab="Pleiades" id="256231" term="Italica" >}}
 
 ## Location Description
 
@@ -37,9 +37,9 @@ House of the Rhodian Peristyle
 
 ## Keywords
 
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "peristyles" >}}
 <!-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)-->
 
 
@@ -78,10 +78,10 @@ unspecified
 
 ## Pleiades ID
 [House of the Rhodian Peristyle at Italica]{{<relref ".">}}) \
-[House of the Rhodian Peristyle at Italica](https://pleiades.stoa.org/places/932178530)
+- {{< id vocab="Pleiades" id="932178530" term="House of the Rhodian Peristyle at Italica" >}}
 
 ## TGN ID
-[Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
+- {{< id vocab="TGN" id="7007822" term="Itálica (deserted settlement)" >}}
 
 ## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

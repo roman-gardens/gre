@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [forum_juji]({{<relref ".">}}) \
-[forum_juji](https://pleiades.stoa.org/places/307416064)
+- {{< id vocab="Pleiades" id="307416064" term="forum_juji" >}}
 
 ## Location Description
 
@@ -48,11 +48,11 @@ Puymin Quarter, Sanctuary with Portico’s
 
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
+- {{< keyword "domus" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "columns (architectural elements)" >}}
 
 
 
@@ -92,12 +92,12 @@ A.D. 1-100 constructed
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Fréjus (inhabited place)](http://vocab.getty.edu/page/tgn/7008791)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7008791" term="Fréjus (inhabited place)" >}}
 
 ## Contributor
 

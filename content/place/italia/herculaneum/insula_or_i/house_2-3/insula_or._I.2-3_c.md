@@ -12,13 +12,13 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "peristyles (Roman courtyards)"
+ - "peristyles"
 ---
 
 ## Province
 
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
@@ -37,7 +37,7 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 C
 
 ## Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- {{< keyword "peristyles" >}}
 
 ## Garden Description
 C. There are five rooms south of the peristyle and on a lower level beyond them is another garden (c).
@@ -49,10 +49,10 @@ C. There are five rooms south of the peristyle and on a lower level beyond them 
 
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 Unspecified

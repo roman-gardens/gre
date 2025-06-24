@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Sublocation
 
@@ -44,16 +44,16 @@ House of Successus (I.ix.3)
 
 ## Keywords
 
-- [archaeological garden](#)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367)
-- [graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613)
-- [inscription](#)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
-- [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "cubicula (domestic spaces)" >}}
+- {{< keyword "graffiti (casual notations)" >}}
+- {{< keyword "inscription" >}}
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "tables (support furniture)" >}}
 
 ## Garden Description
 
@@ -106,11 +106,11 @@ unspecified
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

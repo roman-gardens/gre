@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Sudeley/Spoonley Wood]({{<relref ".">}}) \
-[Sudeley/Spoonley Wood](https://pleiades.stoa.org/places/79693)
+- {{< id vocab="Pleiades" id="79693" term="Sudeley/Spoonley Wood" >}}
 
 <!--### Location Description-->
 
@@ -46,10 +46,10 @@ Rural Villa in Sudeley/Spoonley Wood
 
 ## Keywords
 
-- [archaeological garden](#)
-- [axial plan](http://vocab.getty.edu/page/aat/300121971)
-- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "axial plan" >}}
+- {{< keyword "terrace gardens" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -87,11 +87,11 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 ## Pleiades ID
 
-[Spoonley](https://pleiades.stoa.org/places/79693)
+- {{< id vocab="Pleiades" id="79693" term="Spoonley" >}}
 
 ## TGN ID
 
-[Britannia (province)](http://vocab.getty.edu/page/tgn/7030316)
+- {{< id vocab="TGN" id="7030316" term="Britannia (province)" >}}
 
 ## Contributor
 

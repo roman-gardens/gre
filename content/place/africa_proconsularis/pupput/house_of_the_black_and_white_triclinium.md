@@ -19,7 +19,7 @@ tags:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -27,7 +27,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 [Pupput]({{<relref ".">}}) \
-[Pupput](https://pleiades.stoa.org/places/315121)
+- {{< id vocab="Pleiades" id="315121" term="Pupput" >}}
 
 {{< image src="city_plan_house_of_the_black_and_white_triclinium.jpg" alt="Plan of the residential quarters (Th. Leroy)" title="Plan of the residential quarters (Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)" >}}
 
@@ -52,10 +52,10 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Black and White Triclinium (Maison du triclinium en noir et blanc)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [semicircular basin](#)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "semicircular basin" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 The house is laid out around a square shaped peristyle garden. Between the columns runs a low wall (0.30m) that separates the porticoes from the garden. There was a semicircular basin in the N facing the *triclinium* (Plan view, Fig.1). The house is dated from the II-III c.
@@ -96,10 +96,10 @@ The house is laid out around a square shaped peristyle garden. Between the colum
 
 ## Pleiades ID
 
-[Pupput](https://pleiades.stoa.org/places/315121)
+- {{< id vocab="Pleiades" id="315121" term="Pupput" >}}
 
 ## TGN ID
-[Pupput (deserted settlement)](http://vocab.getty.edu/page/tgn/8697602)
+- {{< id vocab="TGN" id="8697602" term="Pupput (deserted settlement)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

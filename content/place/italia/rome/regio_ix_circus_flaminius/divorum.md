@@ -14,25 +14,25 @@ tags:
  - "columns (architectural elements)"
  - "exedrae (site elements)"
  - "porticoes"
- - "temples (buildings)"
+ - "temples"
  - "triumphal arch"
 ---
 
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
 [Region IX Circus Flaminius]({{<relref ".">}}) \
-[Campus Martius](https://pleiades.stoa.org/places/422863)
+- {{< id vocab="Pleiades" id="422863" term="Campus Martius" >}}
 
 
 
@@ -42,14 +42,14 @@ Garden of the Divorum
 
 ## Keywords
 
-- [altar (religious fixture)](http://vocab.getty.edu/page/aat/300003725)
-- [canals (waterways)](http://vocab.getty.edu/page/aat/300006075)
-- [columns (architectural element)](http://vocab.getty.edu/page/aat/300001571)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [pools](http://vocab.getty.edu/page/aat/300008692)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [temple (building)](http://vocab.getty.edu/page/aat/300007595)
-- [triumphal arches (memorial arches)](http://vocab.getty.edu/page/aat/300007003)
+- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "canals (waterways)" >}}
+- {{< keyword "columns (architectural element)" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "temples" >}}
+- {{< keyword "triumphal arches (memorial arches)" >}}
 
 
 ## Garden Description
@@ -81,7 +81,7 @@ From the northern *exedra*, a water [channel](http://vocab.getty.edu/page/aat/30
 
 ## Pleiades ID
 
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 <!-- Pleiades resource for Location (Rome), not for the individual garden -->
 
 ## Contributors

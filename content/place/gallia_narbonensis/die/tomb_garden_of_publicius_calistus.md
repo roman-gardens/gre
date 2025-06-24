@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 <!-- ### Province Description -->
 
@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [DIE, France]({{<relref ".">}}) \
-[DIE, France](https://pleiades.stoa.org/places/167716)
+- {{< id vocab="Pleiades" id="167716" term="DIE, France" >}}
 
 ## Location Description
 
@@ -73,12 +73,12 @@ None Available
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Die (inhabited place)](http://vocab.getty.edu/page/tgn/7009141)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7009141" term="Die (inhabited place)" >}}
 
 ## Contributor
 

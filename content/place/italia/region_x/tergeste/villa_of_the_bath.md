@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Tergeste]({{<relref ".">}}) \
-[Tergeste](https://pleiades.stoa.org/places/187578)
+- {{< id vocab="Pleiades" id="187578" term="Tergeste" >}}
 
 <!--### Location Description-->
 
@@ -46,17 +46,17 @@ Villa of the Bath
 
 ## Keywords
 
-- [archaeological garden](#)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [water baths](http://vocab.getty.edu/page/aat/300248755)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [atrium houses](http://vocab.getty.edu/page/aat/300005451)
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "villae urbanae" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "balnea" >}}
+- {{< keyword "water baths" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "atrium houses" >}}
+- {{< keyword "corridors" >}}
 
 ## Garden Description
 
@@ -90,7 +90,7 @@ unspecified
 
 ## Pleiades ID
 
-[Tergeste](https://pleiades.stoa.org/places/187578)
+- {{< id vocab="Pleiades" id="187578" term="Tergeste" >}}
 
 ## TGN ID
 

@@ -19,7 +19,7 @@ tags:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 
@@ -27,7 +27,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 [THUGGA (Douga) Tunisia]({{<relref ".">}}) \
-[THUGGA (Douga) Tunisia](https://pleiades.stoa.org/places/315223)
+- {{< id vocab="Pleiades" id="315223" term="THUGGA (Douga) Tunisia" >}}
 
 <!--### Plan of City
 
@@ -44,9 +44,9 @@ House of the Two Fountains (Maison aux deux Fontaines)
 
 ## Keywords
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [semicircular basin](#)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "semicircular basin" >}}
 
 
 ## Garden Description
@@ -69,11 +69,11 @@ This house in the W of the market may have had a peristyle garden enclosed by a 
 
 ## Pleiades_ID
 
-[Thugga/Tokai?](https://pleiades.stoa.org/places/315223)
+- {{< id vocab="Pleiades" id="315223" term="Thugga/Tokai?" >}}
 
 ## TGN ID
 
-[Dougga (deserted settlement)](http://vocab.getty.edu/page/tgn/7017996)
+- {{< id vocab="TGN" id="7017996" term="Dougga (deserted settlement)" >}}
 
 ## Contributors
 

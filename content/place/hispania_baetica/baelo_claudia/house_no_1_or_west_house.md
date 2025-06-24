@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Baelo Claudia]({{<relref ".">}}) \
-[Baelo Claudia](https://pleiades.stoa.org/places/256005)
+- {{< id vocab="Pleiades" id="256005" term="Baelo Claudia" >}}
 
 ## Location Description
 
@@ -48,10 +48,10 @@ House No. 1 or West House
 
 ## Keywords
 
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "colonnades" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "triclinia (rooms)" >}}
 <!-- [Doric order]-->
 
 ## Garden Description
@@ -94,10 +94,10 @@ unspecified
 
 ## Pleiades ID
 [House of the West at Baelo]{{<relref ".">}}) \
-[House of the West at Baelo](https://pleiades.stoa.org/places/574194294)
+- {{< id vocab="Pleiades" id="574194294" term="House of the West at Baelo" >}}
 
 ## TGN ID
-[Baelo Claudia (deserted settlement)](http://vocab.getty.edu/page/tgn/8712326)
+- {{< id vocab="TGN" id="8712326" term="Baelo Claudia (deserted settlement)" >}}
 
 ## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

@@ -15,9 +15,9 @@ categories:
 
 tags:
 - "colonnades"
-- "gymnasiums"
+- "gymnasiums (physical education buildings)"
 - "Pausanias"
-- "peristyles (Roman courtyards)"
+- "peristyles"
 - "piscinae"
 ---
 
@@ -33,7 +33,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Athens]({{<relref ".">}}) \
-[Athens](https://pleiades.stoa.org/places/579885)
+- {{< id vocab="Pleiades" id="579885" term="Athens" >}}
 
 <!--### Location Description-->
 
@@ -51,13 +51,13 @@ Library of Hadrian
 
 ## Keywords
 
-- [Literary](#)
-- [Archaeological](#)
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [gymnasiums](http://vocab.getty.edu/page/aat/300007297)
+- {{< keyword "literary gardens" >}}
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "colonnades" >}}
+- {{< keyword "gymnasiums (physical education buildings)" >}}
 - [Pausanias](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1054)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
+- {{< keyword "peristyles" >}}
+- {{< keyword "piscinae" >}}
 
 ## Garden Description
 
@@ -94,11 +94,11 @@ In the center of the building was a large open peristyle courtyard with a long p
 
 ## Pleiades ID
 
-[Library of Hadrian at Athens](https://pleiades.stoa.org/places/728329644)
+- {{< id vocab="Pleiades" id="728329644" term="Library of Hadrian at Athens" >}}
 
 ## TGN ID
 
-[Agorá (ancient site)](http://vocab.getty.edu/page/tgn/5004159)
+- {{< id vocab="TGN" id="5004159" term="Agorá (ancient site)" >}}
 
 ## Contributor
 

@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Olympia]({{<relref ".">}}) \
-[Olympia](https://pleiades.stoa.org/places/570531)
+- {{< id vocab="Pleiades" id="570531" term="Olympia" >}}
 
 <!--### Location Description-->
 
@@ -47,8 +47,8 @@ Guest House II
 
 ## Keywords
 
-- [Archaeological](#)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "peristyles" >}}
 
 ## Garden Description
 
@@ -94,11 +94,11 @@ NEW WAY ↓↓↓↓
 
 ## Pleiades ID
 
-[Olympia](https://pleiades.stoa.org/places/570531)
+- {{< id vocab="Pleiades" id="570531" term="Olympia" >}}
 
 ## TGN ID
 
-[Olympia (deserted settlement)](http://vocab.getty.edu/page/tgn/7011018)
+- {{< id vocab="TGN" id="7011018" term="Olympia (deserted settlement)" >}}
 
 ## Contributor
 

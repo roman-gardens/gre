@@ -16,7 +16,7 @@ tags:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Region
 
@@ -25,7 +25,7 @@ Region IV
 
 ## Location
 
-[Hadrian's Villa](https://pleiades.stoa.org/places/423127)
+- {{< id vocab="Pleiades" id="423127" term="Hadrian's Villa" >}}
 
 ## Location Description
 
@@ -38,12 +38,12 @@ The realization of this magnificent residence must have been a cherished dream o
 ## Garden
 
 Antinous' tomb (Fig. 1, n. 25)\
-[Antinoeion at Hadrian's Villa](https://pleiades.stoa.org/places/652231746)
+- {{< id vocab="Pleiades" id="652231746" term="Antinoeion at Hadrian's Villa" >}}
 
 ## Keywords
 
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "tombs" >}}
 
 ## Garden Description
 
@@ -148,12 +148,12 @@ unspecified
 
 ## Pleiades ID
 
-[Antinoeion at Hadrian's Villa](https://pleiades.stoa.org/places/652231746)
+- {{< id vocab="Pleiades" id="652231746" term="Antinoeion at Hadrian's Villa" >}}
 <!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
 
 ## TGN ID
 
-[Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
+- {{< id vocab="TGN" id="7006983" term="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
 ## Contributor

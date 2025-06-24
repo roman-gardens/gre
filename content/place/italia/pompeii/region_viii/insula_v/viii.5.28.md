@@ -15,18 +15,18 @@ categories:
 tags:
   - "atriums (Roman halls)"
   - "tablina"
-  - "peristyles (Roman courtyards)"
+  - "peristyles"
   - "porticoes"
 
 ---
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -38,10 +38,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula V]({{<relref ".">}})
 
 ## Keywords
- - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
- - [tablina](http://vocab.getty.edu/page/aat/300004180)
- - [peristyles](http://vocab.getty.edu/page/aat/300080971)
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 ## Garden Description
 Three wide doorways led from the atrium of this house, which did not have a tablinium, to the peristyle of this large garden (a). Nine fluted columns supported the portico which bordered the garden on the east, north and part of the west with a gutter on these same sides. Holes in the columns 0.97 and 0.52 m. from the floor remained where a fence had once been attached.
@@ -50,10 +50,10 @@ Three wide doorways led from the atrium of this house, which did not have a tabl
 {{< image src="fig.16_region_viii.insula_v.png" alt="Fig. 16, Plan of  Region VIII, Insula V" title="Plan of  Region VIII, Insula V" >}}
 
 ## Pleiades ID
-[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
+- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
+- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
 Unspecified

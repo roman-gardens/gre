@@ -15,7 +15,7 @@ categories:
 
 ## Province
 [Hispania Tarraconensis]({{<relref "..">}}) \
-[Tarraconensis(Pleiades)](https://pleiades.stoa.org/places/981551)
+- {{< id vocab="Pleiades" id="981551" term="Tarraconensis(Pleiades)" >}}
 
 ## Province Description
 
@@ -46,7 +46,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 [Villa dels Munts]({{<relref ".">}}) \
-[Villa dels Munts](https://pleiades.stoa.org/places/250016)
+- {{< id vocab="Pleiades" id="250016" term="Villa dels Munts" >}}
 
 <!--### Location Description-->
 
@@ -68,7 +68,7 @@ Villa Romana de els Munts
 
 
 ## Keywords
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "porticoes" >}}
 
 
 ## Garden Description
@@ -102,11 +102,11 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Villa dels Munts](https://pleiades.stoa.org/places/250016)
+- {{< id vocab="Pleiades" id="250016" term="Villa dels Munts" >}}
 
 
 ## TGN ID
-[Altafulla (inhabited place)](http://vocab.getty.edu/page/tgn/7344921)
+- {{< id vocab="TGN" id="7344921" term="Altafulla (inhabited place)" >}}
 
 
 ## Contributor

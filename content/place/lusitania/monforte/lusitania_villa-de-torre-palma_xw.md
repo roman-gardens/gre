@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-[Lusitania](https://pleiades.stoa.org/places/1101)
+- {{< id vocab="Pleiades" id="1101" term="Lusitania" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 [Monforte]({{<relref ".">}}) \
-[Torre de Palma](https://pleiades.stoa.org/places/256478)
+- {{< id vocab="Pleiades" id="256478" term="Torre de Palma" >}}
 
 <!--### Location Description-->
 
@@ -47,10 +47,10 @@ A sublocation is any area larger than an individual garden, but located within a
 Villa de Torre de Palma
 
 ## Keywords
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
+- {{< keyword "mosaics (visual works)" >}}
 - apsed triclinium
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [doliums](http://vocab.getty.edu/page/aat/300400601)
+- {{< keyword "peristyles" >}}
+- {{< keyword "dolia" >}}
 
 ## Garden Description
 This villa was discovered by farm workers in 1947, and excavations were begun soon afterwards by the Museu Etnológico (now the Museu Arqueológico) in Lisbon.  Hundreds of rooms were unearthed, and major mosaics and many crates of materials were removed to the museum.  In 1983, American archaeologists from the University of Louisville became involved with the site through a project to re-excavate the Christian basilica in the northern end.  When the 1983 campaign found coins from the mid fourth century A.D. embedded in the original floor of the basilica – thereby establishing it as the earliest known double-apsed church on the Iberian Peninsula – it became clear that much might be learned from re-excavation of the whole site with modern methods.  
@@ -95,7 +95,7 @@ The third phase distinguished by Maloney and Hale covered several building campa
 
 ## Pleiades ID
 
-[Torre de Palma](https://pleiades.stoa.org/places/256478)
+- {{< id vocab="Pleiades" id="256478" term="Torre de Palma" >}}
 
 
 <!--### Contributor-->

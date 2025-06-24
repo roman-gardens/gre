@@ -14,13 +14,13 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "porticoes"
 ---
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
  <!--### Province Description-->
 
@@ -28,7 +28,7 @@ tags:
 
 ## Location
 [Herculaneum]({{<relref "..">}}) \
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
@@ -42,8 +42,8 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 Garden (a)
 
 ## Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 ## Garden Description
 Directly south of the Great Palaestra there is a peristyle garden (a) enclosed by a portico. A pool with a low wall surrounding it is located in the center of this garden.
@@ -55,10 +55,10 @@ Directly south of the Great Palaestra there is a peristyle garden (a) enclosed b
 
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 Unspecified

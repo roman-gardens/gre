@@ -32,7 +32,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 
 [Isthmia]({{<relref ".">}}) \
-[Isthmia](https://pleiades.stoa.org/places/570316)
+- {{< id vocab="Pleiades" id="570316" term="Isthmia" >}}
 
 <!--### Location Description-->
 
@@ -54,10 +54,10 @@ Sanctuary of Poseidon
 
 ## Keywords
 
-- [Literary](#)
+- {{< keyword "literary gardens" >}}
 - [Pausanias](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1054)
 - [pines (*Pinus* sp.)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:328247-2)
-- [sacred groves](http://vocab.getty.edu/page/aat/300251876)
+- {{< keyword "sacred groves" >}}
 - [Strabo](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1333)
 
 ## Garden Description
@@ -110,11 +110,11 @@ unspecified
 
 ## Pleiades ID
 
-[Temple of Poseidon at Isthmia](https://pleiades.stoa.org/places/107524051)
+- {{< id vocab="Pleiades" id="107524051" term="Temple of Poseidon at Isthmia" >}}
 
 ## TGN ID
 
-[Kirás Vrísi (inhabited place)](http://vocab.getty.edu/page/tgn/5004291)
+- {{< id vocab="TGN" id="5004291" term="Kirás Vrísi (inhabited place)" >}}
 
 ## Contributor
 

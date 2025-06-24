@@ -15,7 +15,7 @@ categories:
 
 ## Province
 [Hispania Tarraconensis]({{<relref "..">}}) \
-[Tarraconensis(Pleiades)](https://pleiades.stoa.org/places/981551)
+- {{< id vocab="Pleiades" id="981551" term="Tarraconensis(Pleiades)" >}}
 
 ## Province Description
 In 236 BC, to offset Carthage's loss of Sicily and Sardinia in the First Punic War, Hamilcar Barca led an expedition into Hispania to establish a colony there.  Through force of arms and diplomacy, he spread Carthaginian influence as far north as Barcellona, which bears his name.   In 230 BC, Hasdrubal, his son-in-law, established Qart Hadast that became Carthago Nova in Roman times and Cartagena today.  After the death of Hasdrubal, Hannibal, Hamilcar's oldest son, took command, attacked Saguntum, and in 218 set out for Italy leaving his younger brother, Hasdrubal, in command in Spain.  Through the Alps, he descended into Italy and threatened Rome for fourteen years.  Roman armies under the brothers Gnaeus and Publius Cornelius Scipio kept Hasdrubal in check and prevented his reinforcing Hannibal. They were both killed by the Carthaginians in 212.  Two years later, another Publius Cornelius Scipio, the  25-year-old son of the late general of the same name, was sent to Spain.  The next year, he captured New Carthage and, in 206 at the battle of Ilipa (about 15 km north of Savilla) destroyed most of the Carthaginians' numerically superior army and ended their hold on Spain.  Scipio settled his wounded veterans nearby at a place he called Italica to remind them of their origins.  Today, it is one of the best Roman archaeological sites in Italy.   After a quick trip back to Rome, where he was elected consul, he returned to Spain and went on to attack Carthage itself.  Hannibal was recalled to Africa, but Scipio annihilated his army in 202.  Rome thus came into possession of the Mediterranean coast of Iberia.
@@ -45,7 +45,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 [Santa Lucia]({{<relref "..">}}) \
-[Santa Lucia](https://pleiades.stoa.org/places/767191138)
+- {{< id vocab="Pleiades" id="767191138" term="Santa Lucia" >}}
 
 <!--### Location Description-->
 
@@ -67,7 +67,7 @@ Villa of Santa Lucia
 
 
 ## Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- {{< keyword "peristyles" >}}
 
 
 ## Garden Description
@@ -90,10 +90,10 @@ Excavation in 1968 – 1972 at this site, which has been reburied, revealed over
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Roman villa at Santa Lucia](https://pleiades.stoa.org/places/767191138)
+- {{< id vocab="Pleiades" id="767191138" term="Roman villa at Santa Lucia" >}}
 
 ## TGN ID
-[Aguilafuente (inhabited place)](http://vocab.getty.edu/page/tgn/7348251)
+- {{< id vocab="TGN" id="7348251" term="Aguilafuente (inhabited place)" >}}
 
 
 ## Contributor

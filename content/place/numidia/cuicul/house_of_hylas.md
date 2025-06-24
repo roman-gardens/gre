@@ -21,7 +21,7 @@ tags:
 ## Province
 
 [Numidia]({{<relref "..">}}) \
-[Numidia (Roman province)(Pleiades)](https://pleiades.stoa.org/places/981539)
+- {{< id vocab="Pleiades" id="981539" term="Numidia (Roman province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -30,7 +30,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 [Cuicul]({{<relref ".">}}) \
-[Cuicul](https://pleiades.stoa.org/places/305068)
+- {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}
 
 
 {{< image src="cuicul_house_of_hylas.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
@@ -49,10 +49,10 @@ House of Hylas, Central District (Maison de Castorius, Quartier central)
 
 ## Keywords
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [semicircular basin](#)
+- {{< keyword "domus" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "semicircular basin" >}}
 
 ## Garden Description
 
@@ -83,7 +83,7 @@ On the side of the corridor leading from the Severan Forum, there was a garden, 
 *  Février, P.-A., "Note sur le développement urbain en Afrique du Nord, les exemples comparés de Djemila et de Sétif", in  *C.Arch.* , XIV, 1964, pp. 21-22, plan p. 14. [(worldcat)](http://www.worldcat.org/oclc/758540114)
 
 ## Pleiades ID
-[Cuicul](https://pleiades.stoa.org/places/305068)
+- {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}
 ## TGN ID
 
 ## Contributor

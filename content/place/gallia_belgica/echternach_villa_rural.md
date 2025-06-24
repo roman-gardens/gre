@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [ECHTERNACH (Luxembourg)]({{<relref ".">}}) \
-[ECHTERNACH](https://pleiades.stoa.org/places/108955)
+- {{< id vocab="Pleiades" id="108955" term="ECHTERNACH" >}}
 
 <!--### Location Description-->
 
@@ -39,9 +39,9 @@ A sublocation is any area larger than an individual garden, but located within a
 Rural Villa
 
 ## Keywords
-- [mosiacs](http://vocab.getty.edu/page/aat/300015342)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- {{< keyword "mosiacs" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "peristyles" >}}
 
 ## Garden Description
 
@@ -84,10 +84,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Epternacus](https://pleiades.stoa.org/places/108955)
+- {{< id vocab="Pleiades" id="108955" term="Epternacus" >}}
 
 ## TGN ID
-[Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
+- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

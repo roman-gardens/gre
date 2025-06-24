@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [forum_julii]({{<relref ".">}}) \
-[forum_julii](https://pleiades.stoa.org/places/307416064)
+- {{< id vocab="Pleiades" id="307416064" term="forum_julii" >}}
 
 ## Location Description
 
@@ -48,12 +48,12 @@ Edifice of the Platform
 
 
 ## Keywords
-- [vestibules](http://vocab.getty.edu/page/aat/300083076)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "vestibules" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "opus sectile (visual works)" >}}
+- {{< keyword "porticoes" >}}
 
 
 ## House Description
@@ -85,12 +85,12 @@ At the north, a large vestibule gives access to a vast courtyard with a peristyl
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Fréjus (inhabited place)](http://vocab.getty.edu/page/tgn/7008791)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7008791" term="Fréjus (inhabited place)" >}}
 
 ## Contributor
 

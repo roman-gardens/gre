@@ -14,18 +14,18 @@ categories:
   - "Italia"
 tags:
  - "atriums (Roman halls)"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "porticoes"
  - "tablina"
 ---
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -37,13 +37,13 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "#">}})
 
 ## Keywords
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [pools](http://vocab.getty.edu/page/aat/300008692)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
-- [tablina](http://vocab.getty.edu/page/aat/300004180)
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "tablina" >}}
 
 ## Garden
 A small garden with pools to the rear of a domestic property, in addition to one peristyle garden with decorative elements.
@@ -82,7 +82,7 @@ B. The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the east
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 Excavated 1869.

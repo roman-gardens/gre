@@ -22,7 +22,7 @@ tags:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
  <!--### Province Description-->
 
@@ -31,7 +31,7 @@ tags:
 ## Location
 
 [Herculaneum]({{<relref "..">}}) \
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
@@ -45,10 +45,10 @@ Casa di Galba
 
 ## Keywords
 
-- [stuccoing](http://vocab.getty.edu/page/aat/300053875)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
+- {{< keyword "stuccoing" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "exedrae (site elements)" >}}
 
 ## Garden Description
 The excavation of this site was begun in 1873-1874 and is still incomplete. A silver bust, supposedly of the emperor Galba, found in the street in front of this house gave the site its name. Twelve stuccoed tufa columns support a portico which encloses this peristyle garden. A marble faced cruciform basin in the center contained a small column with a fountain. The columns were connected by a low wall with an entrance on the east opposite the exedra providing a view of the garden and fountain.
@@ -58,10 +58,10 @@ The excavation of this site was begun in 1873-1874 and is still incomplete. A si
 {{< image src="herculaneum_casa_di_galba.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 Unspecified

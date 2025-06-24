@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Quesada]({{<relref ".">}}) \
-[Quesada](https://pleiades.stoa.org/places/265996)
+- {{< id vocab="Pleiades" id="265996" term="Quesada" >}}
 
 ## Location Description
 
@@ -44,14 +44,14 @@ Villa Bruñel
 
 ## Keywords
 
-- [apses](http://vocab.getty.edu/page/aat/300004607)
-- [buttresses](http://vocab.getty.edu/page/aat/300000891)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [rills](http://vocab.getty.edu/page/aat/300263440)
+- {{< keyword "apses" >}}
+- {{< keyword "buttresses" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "rills" >}}
 <!-- [vanes]-->
 
 
@@ -117,10 +117,10 @@ unspecified
 
 ## Pleiades ID
 [Pago de Bruñel]{{<relref ".">}}) \
-[Pago de Bruñel](https://pleiades.stoa.org/places/265996)
+- {{< id vocab="Pleiades" id="265996" term="Pago de Bruñel" >}}
 
 ## TGN ID
-[Castillo de Mulva (deserted settlement)](http://vocab.getty.edu/page/tgn/7027137)
+- {{< id vocab="TGN" id="7027137" term="Castillo de Mulva (deserted settlement)" >}}
 
 ## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

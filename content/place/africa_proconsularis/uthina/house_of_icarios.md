@@ -26,7 +26,7 @@ tags:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -35,7 +35,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 [UTHINA (Oudna)]({{<relref ".">}}) \
-[UTHINA (Oudna) Tunisia(Pleiades)](https://pleiades.stoa.org/places/315247)
+- {{< id vocab="Pleiades" id="315247" term="UTHINA (Oudna) Tunisia(Pleiades)" >}}
 
 ## Location Description
 Uthina was a town in the province of Africa Proconsularis, now northern Tunisia. Uthina became a Roman colony of veterans of Legio XIII Gemina during the reign of Emperor Augustus. Hence, it was mentioned by Ptolemy (IV, 3, 34), Pliny the Elder, and the Tabula Peutingeriana.
@@ -58,15 +58,15 @@ House of Icarios (Maison d'Icarios)
 
 ## Keywords
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [basin](#)
-- [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [vestibules](http://vocab.getty.edu/page/aat/300083076)
-- [Corinthian columns](http://vocab.getty.edu/page/aat/300299596)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [vaults (structural elements)](http://vocab.getty.edu/page/aat/300001324)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "vestibules" >}}
+- {{< keyword "Corinthian columns" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "vaults (structural elements)" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
 
 ## Garden Description
 
@@ -102,11 +102,11 @@ This richly decorated house is considered as one of the most remarkable *domus* 
 
 ## Pleiades ID
 
-[Uthina](https://pleiades.stoa.org/places/315247)
+- {{< id vocab="Pleiades" id="315247" term="Uthina" >}}
 
 ## TGN ID
 
-[Oudna (deserted settlement)](http://vocab.getty.edu/page/tgn/7024022)
+- {{< id vocab="TGN" id="7024022" term="Oudna (deserted settlement)" >}}
 
 ## Contributor
 

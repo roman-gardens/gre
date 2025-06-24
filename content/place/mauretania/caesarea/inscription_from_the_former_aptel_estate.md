@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Mauretania]({{<relref "..">}}) \
-[Mauretania Caesariensis (province)(Pleiades)](https://pleiades.stoa.org/places/981532)
+- {{< id vocab="Pleiades" id="981532" term="Mauretania Caesariensis (province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 [Caesarea]({{<relref ".">}}) \
-[Iol Caesarea](https://pleiades.stoa.org/places/295279)
+- {{< id vocab="Pleiades" id="295279" term="Iol Caesarea" >}}
 
 ## Location Description
 
@@ -44,9 +44,9 @@ Inscription from the former Aptel Estate
 
 ## Keywords
 
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "nymphaea (garden structures)" >}}
 
 ## Garden Description
 

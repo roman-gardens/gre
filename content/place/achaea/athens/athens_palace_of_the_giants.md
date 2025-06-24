@@ -14,8 +14,8 @@ categories:
  - "Achaea"
 
 tags:
- - "gymnasiums"
- - "peristyles (Roman courtyards)"
+ - "gymnasiums (physical education buildings)"
+ - "peristyles"
 ---
 
 ## Province
@@ -27,18 +27,18 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 [Athens]({{<relref ".">}}) \
-[Athens](https://pleiades.stoa.org/places/579885)
+- {{< id vocab="Pleiades" id="579885" term="Athens" >}}
 
 ## Sublocation
-[Agora of Athens](https://pleiades.stoa.org/places/807514119)
+- {{< id vocab="Pleiades" id="807514119" term="Agora of Athens" >}}
 
 ## Garden
 Palace of the Giants
 
 ## Keywords
-- [Archaeological](#)
-- [gymnasiums](http://vocab.getty.edu/page/aat/300007297)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "gymnasiums (physical education buildings)" >}}
+- {{< keyword "peristyles" >}}
 
 ## Garden Description
 A large complex of the early 5th century A.D. in the southern part of the Agora on the site of the earlier [Odeon of Agrippa](http://agora.ascsa.net/id/agora/monument/odeion) generally has been interpreted as a late Roman gymnasion (“Gymnasion of the Giants”) (Fig. 1).  Homer Thompson, however, proposed that the building might have been an official residence maintained by the Imperial court with suitable temporary accommodations for high-ranking government officials.  He suggested that the great northern courtyard may have met ceremonial needs as a reception area, while the other parts of the building served as quarters for guests, including bedrooms and baths.  The northern courtyard (29 x 38 m.) was adorned with a row of statues stretching the length of the court.  These included a figure of Epicurus, the great Classical philosopher who had a school and garden in the suburb of Academy in the 4th century B.C.  Plantings in this setting would not be out of place thematically, but without any evidence for them, this must remain speculation.  
@@ -70,10 +70,10 @@ early 5th century CE to ca. 530 CE
 * H. Thompson in A. Frantz, *Late Antiquity: A.D. 267-700.* The Athenian Agora XXIV. Princeton, 1988, pp. 95-116, pls. 54-55. [(worldcat)](http://www.worldcat.org/oclc/63179976).
 
 ## Pleiades ID
-[Agora of Athens](https://pleiades.stoa.org/places/807514119)
+- {{< id vocab="Pleiades" id="807514119" term="Agora of Athens" >}}
 
 ## TGN ID
-[Agorá (ancient site)](http://vocab.getty.edu/page/tgn/5004159)
+- {{< id vocab="TGN" id="5004159" term="Agorá (ancient site)" >}}
 
 ## Contributor
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

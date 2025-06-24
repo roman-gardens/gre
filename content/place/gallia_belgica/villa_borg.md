@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [BORG (Germany)]({{<relref ".">}}) \
-[BORG](https://pleiades.stoa.org/places/272861914)
+- {{< id vocab="Pleiades" id="272861914" term="BORG" >}}
 
 <!--### Location Description-->
 
@@ -41,9 +41,9 @@ A sublocation is any area larger than an individual garden, but located within a
 Villa Borg
 
 ## Keywords
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [basins](http://vocab.getty.edu/page/aat/300045614)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- {{< keyword "porticoes" >}}
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
 
 
 
@@ -99,10 +99,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Borg Roman villa](https://pleiades.stoa.org/places/272861914)
+- {{< id vocab="Pleiades" id="272861914" term="Borg Roman villa" >}}
 
 ## TGN ID
-[Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
+- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

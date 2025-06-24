@@ -13,18 +13,18 @@ draft: false
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
 [Palatine]({{<relref ".">}}) \
-[Mons Palatinus](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
 
@@ -34,19 +34,19 @@ Upper Peristyle and Nymphaea of the Domus Flavia, Palatine
 
 ## Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [flower garden](http://vocab.getty.edu/page/aat/300008135)
-- [fountain](http://vocab.getty.edu/page/aat/300006179)
-- [labyrinth](http://vocab.getty.edu/page/aat/300312218)
-- [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
-- [niche (architectural element)](http://vocab.getty.edu/page/aat/300002704)
-- [nymphaeum (garden structure)](http://vocab.getty.edu/page/aat/300006809)
-- [palace](http://vocab.getty.edu/page/aat/300005734)
-- [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statue](http://vocab.getty.edu/page/aat/300047600)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [villa urbana](http://vocab.getty.edu/page/aat/300005520)
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "flower gardens" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "labyrinths (built works)" >}}
+- {{< keyword "marble (rock)" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "villa urbanae" >}}
 
 - [Martial](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.897)
 - [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
@@ -93,7 +93,7 @@ RELATED PHASES ON THE PALATINE:
 
 ## Pleiades ID
 
-[Palatine Hill](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}
 
 ## Contributor
 

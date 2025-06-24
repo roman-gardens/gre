@@ -25,11 +25,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -42,14 +42,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [garden lights](http://vocab.getty.edu/page/aat/300183142)
-- [garden ornaments](http://vocab.getty.edu/page/aat/300424784)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "garden lights" >}}
+- {{< keyword "garden ornaments" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "porticoes" >}}
 
 
 ## Garden
@@ -114,11 +114,11 @@ Excavated 1913.
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

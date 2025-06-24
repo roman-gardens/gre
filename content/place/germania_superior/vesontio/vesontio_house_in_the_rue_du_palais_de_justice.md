@@ -26,7 +26,7 @@ categories:
 ## Location
 
 [Vesontio]({{<relref ".">}}) \
-[Vesontio](https://pleiades.stoa.org/places/177657)
+- {{< id vocab="Pleiades" id="177657" term="Vesontio" >}}
 
 ## Location Description
 
@@ -53,18 +53,18 @@ House in the Rue du Palais de Justice in Vesontio
 
 archaeological garden \
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [hypocausts](http://vocab.getty.edu/page/aat/300004277)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462)
-- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
-- [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [terrazzo](http://vocab.getty.edu/page/aat/300011696)
-- [water wells](http://vocab.getty.edu/page/aat/300152327)
+- {{< keyword "domus" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "hypocausts" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "opus sectile (visual works)" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "terrazzo" >}}
+- {{< keyword "water wells" >}}
 
 ## Garden Description
 
@@ -114,11 +114,11 @@ Beginning of the Flavian epoch - middle of the third century
 
 ## Pleiades ID
 
-[Vesontio](https://pleiades.stoa.org/places/177657)
+- {{< id vocab="Pleiades" id="177657" term="Vesontio" >}}
 
 ## TGN ID
 
-[Besancon (inhabited place)](http://vocab.getty.edu/page/tgn/7008356)
+- {{< id vocab="TGN" id="7008356" term="Besancon (inhabited place)" >}}
 
 ## Contributor
 

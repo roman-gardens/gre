@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Arae Flaviae]({{<relref ".">}}) \
-[Arae Flaviae](https://pleiades.stoa.org/places/118572)
+- {{< id vocab="Pleiades" id="118572" term="Arae Flaviae" >}}
 
 ## Location Description
 
@@ -48,11 +48,11 @@ Large Building north of Forum in Arae Flaviae
 
 ## Keywords
 
-- [archaeological garden](#)
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [vestibules](http://vocab.getty.edu/page/aat/300083076)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "colonnades" >}}
+- {{< keyword "corridors" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "vestibules" >}}
 
 ## Garden Description
 
@@ -88,11 +88,11 @@ Complex built at the earliest during the reign of Trajan.
 
 ## Pleiades ID
 
-[Arae Flaviae](https://pleiades.stoa.org/places/118572)
+- {{< id vocab="Pleiades" id="118572" term="Arae Flaviae" >}}
 
 ## TGN ID
 
-[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
+- {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
 
 ## Contributor
 

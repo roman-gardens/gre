@@ -20,7 +20,7 @@ tags:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 
@@ -28,7 +28,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 [THUGGA (Dougga) Tunisia]({{<relref ".">}}) \
-[THUGGA (Dougga) Tunisia](https://pleiades.stoa.org/places/315223)
+- {{< id vocab="Pleiades" id="315223" term="THUGGA (Dougga) Tunisia" >}}
 
 
 {{< image src="dougga_theater.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
@@ -43,9 +43,9 @@ Theater (Theâtre)
 
 ## Keywords
 
-- [theater](#)
-- [xystis](#)
-- [inscription](#)
+- {{< keyword "theater" >}}
+- {{< keyword "xystis" >}}
+- {{< keyword "inscription" >}}
 
 ## Garden Description
 
@@ -66,11 +66,11 @@ At the rear of the theater is a *xystis* known from the dedication inscription (
 
 ## Pleiades_ID
 
-[Thugga/Tokai?](https://pleiades.stoa.org/places/315223)
+- {{< id vocab="Pleiades" id="315223" term="Thugga/Tokai?" >}}
 
 ## TGN ID
 
-[Dougga (deserted settlement)](http://vocab.getty.edu/page/tgn/7017996)
+- {{< id vocab="TGN" id="7017996" term="Dougga (deserted settlement)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) \

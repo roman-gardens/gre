@@ -14,7 +14,7 @@ tags:
  - "exedrae (site elements)"
  - "nemus (grove)"
  - "nymphaea (garden structures)"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "porticoes"
  - "stagnum (man-made lake)"
  - "terrace gardens"
@@ -23,13 +23,13 @@ tags:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
@@ -45,27 +45,27 @@ Esquiline Hill, [Esquilinus Mons](https://pleiades.stoa.org/places/679976755)
 ## Garden
 
 Garden of the Domus Aurea \
-[Domus Aurea](https://pleiades.stoa.org/places/410440793)
+- {{< id vocab="Pleiades" id="410440793" term="Domus Aurea" >}}
 
 ## Keywords
 
-- [brick (construction material)](http://vocab.getty.edu/page/aat/300010463)
-- [colonnade](http://vocab.getty.edu/page/aat/300002613)
-- [cryptoporticus](http://vocab.getty.edu/page/aat/300004295)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [flowerpots](http://vocab.getty.edu/page/aat/300194749)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [hanging garden](http://vocab.getty.edu/page/aat/300008100)
-- [nemus (grove)](http://vocab.getty.edu/page/aat/300008884)
-- [niche (architectural element)](http://vocab.getty.edu/page/aat/300002704)
-- [nymphaeum (garden structure)](http://vocab.getty.edu/page/aat/300006809)
-- [palace](http://vocab.getty.edu/page/aat/300005734)
-- [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
-- [porticus](http://vocab.getty.edu/page/aat/300004145)
-- [retaining walls](http://vocab.getty.edu/page/aat/300005073)
-- [stagnum (man-made lake)](http://vocab.getty.edu/page/aat/300263360)
-- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
+- {{< keyword "brick (clay material)" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "cryptoportici" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "hanging gardens" >}}
+- {{< keyword "nemus (grove)" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "retaining walls" >}}
+- {{< keyword "stagnum (man-made lake)" >}}
+- {{< keyword "terrace gardens" >}}
 
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 - [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
@@ -110,11 +110,11 @@ unspecified
 
 ## Pleiades ID
 
-[Domus Aurea](https://pleiades.stoa.org/places/410440793)
+- {{< id vocab="Pleiades" id="410440793" term="Domus Aurea" >}}
 
 ## TGN ID
 
-[Domus Aurea (deserted settlement)](http://vocab.getty.edu/page/tgn/8712226)
+- {{< id vocab="TGN" id="8712226" term="Domus Aurea (deserted settlement)" >}}
 
 ## Contributors
 

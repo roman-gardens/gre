@@ -39,8 +39,8 @@ A sublocation is any area larger than an individual garden, but located within a
 Rural Villa
 
 ## Keywords
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [paddocks](http://vocab.getty.edu/page/aat/300428748)
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "paddocks" >}}
 
 ## Garden Description
 
@@ -74,7 +74,7 @@ None Available
 Unspecified
 
 ## Bibliography
-- H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, p. 653, fig. 594. [(worldcat)] (http://www.worldcat.org/oclc/924024101)
+- H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, p. 653, fig. 594. [(worldcat)](http://www.worldcat.org/oclc/924024101)
 
 <!--#### Periodo ID-->
 
@@ -87,7 +87,7 @@ Unspecified
  -->
 
 ## TGN ID
-[Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
+- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

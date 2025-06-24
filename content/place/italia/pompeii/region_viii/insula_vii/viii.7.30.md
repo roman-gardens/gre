@@ -19,11 +19,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -35,7 +35,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VII]({{<relref ".">}})
 
 ## Keywords
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "porticoes" >}}
 
 ## Garden Description
 The Doric Temple in the Triangular Forum was excavated between 1767 and 1797. A superlative view from the colonnade at the edge of the cliff looked across the Bay and a marble fountain basin supported by a fluted marble base stood in front of a middle column of the north portico catching water that spouted from a pipe above in the column. Fiorelli suggested that the temple most likely had been surrounded by a sacred grove. There was a stone schola in the northwest corner of the temple with a sundial on the back. The sundial was inscribed with the acknowledgement that L. Sepunius Sandilianus and M. Herennius Epidianus had built the sundial and seat at their own expense (CIL X. 831).
@@ -44,10 +44,10 @@ The Doric Temple in the Triangular Forum was excavated between 1767 and 1797. A 
 {{< image src="fig.28.region_viii.insula_vii.24-27.png" alt="Fig. 28, Plan of Region VIII, Insula VII, 24-27" title="Fig. 28, Plan of Region VIII, Insula VII, 24-27" >}}
 
 ## Pleiades ID
-[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
+- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
+- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
 Unspecified

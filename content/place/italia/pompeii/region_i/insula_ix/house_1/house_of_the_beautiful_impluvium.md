@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Sublocation
 
@@ -44,17 +44,17 @@ House of the Beautiful Impluvium; Casa del Bell Impluvio (I.ix.1)
 
 ## Keywords
 
-- [archaeological garden](#)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [impluvia](http://vocab.getty.edu/page/aat/300129867)
-- [inscription](#)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [predellas](http://vocab.getty.edu/page/aat/300003745)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "cubicula (domestic spaces)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "impluvia" >}}
+- {{< keyword "inscription" >}}
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "predellas" >}}
 
 ## Garden Description
 
@@ -99,11 +99,11 @@ unspecified
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

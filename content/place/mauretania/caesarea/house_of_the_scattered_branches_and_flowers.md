@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Mauretania]({{<relref "..">}}) \
-[Mauretania Caesariensis (province)(Pleiades)](https://pleiades.stoa.org/places/981532)
+- {{< id vocab="Pleiades" id="981532" term="Mauretania Caesariensis (province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 [Caesarea]({{<relref ".">}}) \
-[Iol Caesarea](https://pleiades.stoa.org/places/295279)
+- {{< id vocab="Pleiades" id="295279" term="Iol Caesarea" >}}
 
 ## Location Description
 
@@ -42,10 +42,10 @@ The city has been continually occupied to the present day, now known as Cherchel
 House of the Scattered Branches and Flowers (Maison de la Jonchée)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "fountains" >}}
 
 ## Garden Description
 Located on the southeastern seaboard of Cherchel, this *domus* was only partially excavated but is still considered to be one of the largest houses of Caesarea.  The ruins discovered between 1963 and 1964 are spread out over more than 60 meters from east to west and 30 meters from north to south.  The house had two levels separated by a terrace wall, 15 meters of which have been uncovered.
@@ -77,7 +77,7 @@ It is assumed that the peristyle and its garden may have had a view over the sea
 
 ## Pleiades ID
 
-[House of the Scattered Branches and Flowers](https://pleiades.stoa.org/places/602104716)
+- {{< id vocab="Pleiades" id="602104716" term="House of the Scattered Branches and Flowers" >}}
 
 ## TGN ID
 

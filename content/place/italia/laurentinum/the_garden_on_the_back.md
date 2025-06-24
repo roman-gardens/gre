@@ -17,7 +17,7 @@ categories:
 [Italia]({{<relref "../../../..">}})
 
 ## Location
-[Laurentes](https://pleiades.stoa.org/places/422959)
+- {{< id vocab="Pleiades" id="422959" term="Laurentes" >}}
 
 <!--### Location Description-->
 
@@ -46,8 +46,8 @@ The garden on the back
 
 ## Keywords
 
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
 
 ## Garden Description
 Excavating the garden of the Laurentinum would have been very interesting, but there was not the time, nor the money. However we found where it was: a rectangular area free from masonry set, as the letter said, on the back of the famous cryptoporticus, one of the principal highlights of the Laurentine. Pliny told us that a long vine trellis ran along this building and that mulberry trees and figs grew in the garden. Thus the place, with its fruit trees, must have been pleasingly rustic. There was also a long hedge of box trees. Rosemary took the place of buxum every time the bushes had to be exposed to the sea winds. As Pliny explained, buxum couldn't stand the salt and, when exposed to it, it quickly dried up and died, while rosemary thrived on the coast.
@@ -84,7 +84,7 @@ Unspecified
 
 ## Pleiades ID
 
-[Laurentes](https://pleiades.stoa.org/places/422959)
+- {{< id vocab="Pleiades" id="422959" term="Laurentes" >}}
 
 
 

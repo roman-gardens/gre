@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Mauretania]({{<relref "..">}}) \
-[Mauretania Caesariensis](https://pleiades.stoa.org/places/981532)
+- {{< id vocab="Pleiades" id="981532" term="Mauretania Caesariensis" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 [Caesarea]({{<relref ".">}}) \
-[Iol Caesarea](https://pleiades.stoa.org/places/295279)
+- {{< id vocab="Pleiades" id="295279" term="Iol Caesarea" >}}
 
 ## Location Description
 
@@ -43,9 +43,9 @@ The city has been continually occupied to the present day, now known as Cherchel
 House of Iustiniani and Sabini (Maison de Kaid Youcef)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [semicircular basin](#)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "semicircular basin" >}}
 
 
 ## Garden Description
@@ -77,7 +77,7 @@ In the southwestern corner, a small room protrudes into the gallery and opens in
 
 ## Pleiades ID
 
-[278428164](https://pleiades.stoa.org/places/278428164)
+- {{< id vocab="Pleiades" id="278428164" term="278428164" >}}
 
 ## TGN ID
 

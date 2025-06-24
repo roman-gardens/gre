@@ -12,28 +12,28 @@ tags:
  - "aqueducts"
  - "cisterns (plumbing components)"
  - "nemus (grove)"
- - "niches (architectural elements)"
+ - "niches"
  - "nymphaea (garden structures)"
  - "planting beds"
  - "porticoes"
  - "stagnum (man-made lake)"
- - "temples (buildings)"
+ - "temples"
 ---
 
 ## Province
 
 [ITALIA]({{<relref "../..">}}) \
-[ITALIA](https://pleiades.stoa.org/places/1052) \
-[ITALIA, REGIO I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="ITALIA" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="ITALIA, REGIO I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 Caelian Hill \
-[Caelius Mons](https://pleiades.stoa.org/places/695491849)
+- {{< id vocab="Pleiades" id="695491849" term="Caelius Mons" >}}
 
 
 
@@ -43,15 +43,15 @@ Garden of the Temple of Divine Claudius, Palatine
 
 ## Keywords
 
-- [aqueducts](http://vocab.getty.edu/page/aat/300006165)
-- [cisterns (plumbing component)](http://vocab.getty.edu/page/aat/300052558)
-- [nemus (grove)](http://vocab.getty.edu/page/aat/300008884)
-- [niche (architectural element)](http://vocab.getty.edu/page/aat/300002704)
-- [nymphaeum (garden structure)](http://vocab.getty.edu/page/aat/300006809)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [planting beds](http://vocab.getty.edu/page/aat/300430426)
-- [stagnum (man-made lake)](http://vocab.getty.edu/page/aat/300263360)
-- [temple (building)](http://vocab.getty.edu/page/aat/300007595)
+- {{< keyword "aqueducts" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "nemus (grove)" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "planting beds" >}}
+- {{< keyword "stagnum (man-made lake)" >}}
+- {{< keyword "temples" >}}
 
 
 ## Garden Description
@@ -83,11 +83,11 @@ unspecified
 
 ## Pleiades ID
 
-[Caelian Hill](https://pleiades.stoa.org/places/695491849)
+- {{< id vocab="Pleiades" id="695491849" term="Caelian Hill" >}}
 
 ## TGN ID
 
-[Rome (inhabited place)](http://vocab.getty.edu/page/tgn/7000874)
+- {{< id vocab="TGN" id="7000874" term="Rome (inhabited place)" >}}
 
 ## Contributor
 

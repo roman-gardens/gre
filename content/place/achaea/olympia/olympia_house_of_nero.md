@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Olympia]({{<relref ".">}}) \
-[Olympia](https://pleiades.stoa.org/places/570531)
+- {{< id vocab="Pleiades" id="570531" term="Olympia" >}}
 
 <!--### Location Description-->
 
@@ -48,10 +48,10 @@ House of Nero
 
 ## Keywords
 
-- [Archaeological](#)
-- [artificial water channels](http://vocab.getty.edu/page/aat/300133792)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "artificial water channels" >}}
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "peristyles" >}}
 
 ## Garden Description
 
@@ -97,11 +97,11 @@ mid-1st to 3rd century CE
 
 ## Pleiades ID
 
-[Olympia](https://pleiades.stoa.org/places/570531)
+- {{< id vocab="Pleiades" id="570531" term="Olympia" >}}
 
 ## TGN ID
 
-[Olympia (deserted settlement)](http://vocab.getty.edu/page/tgn/7011018)
+- {{< id vocab="TGN" id="7011018" term="Olympia (deserted settlement)" >}}
 
 ## Contributor
 

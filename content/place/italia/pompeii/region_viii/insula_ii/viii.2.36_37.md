@@ -14,17 +14,17 @@ categories:
   - "Italia"
 tags:
   - "atriums (Roman halls)"
-  - "peristyles (Roman courtyards)"
+  - "peristyles"
   - "porticoes"
 ---
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -36,9 +36,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref ".">}})
 
 ## Keywords
- - [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
- - [peristyles](http://vocab.getty.edu/page/aat/300080971)
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 
 ## Garden Description
@@ -49,10 +49,10 @@ This house was excavated in 1885. The entrance at 37 went into the atrium and be
 {{< image src="fig._4_region_viii_insula_ii_36_37.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 29-39" title="Plan of the Pompeii Region VIII, Insula II, 29-39" >}}
 
 ## Pleiades ID
-[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
+- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
+- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 
 ##  Excavation Dates

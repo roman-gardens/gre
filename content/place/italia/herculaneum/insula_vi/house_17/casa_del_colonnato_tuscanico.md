@@ -21,14 +21,14 @@ tags:
 ## Province
 
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 
 
 ## Location
 
 [Herculaneum]({{<relref "../..">}}) \
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
@@ -45,8 +45,8 @@ Casa del Colonnato Tuscanico
 
 
 ## Keywords
- - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "porticoes" >}}
 
 
 
@@ -60,10 +60,10 @@ This house with an L-shaped floor plan had a peristyle garden (a) at the junctur
 
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 Unspecified

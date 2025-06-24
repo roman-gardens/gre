@@ -12,7 +12,7 @@ draft: false
 categories:
   - "Numidia"
 tags:
- - "courtyards"
+ - "courtyards (uncovered spaces)"
  - "balnea"
  - "domus"
  - "exedrae (site elements)"
@@ -26,7 +26,7 @@ tags:
 ## Province
 
 [Numidia]({{<relref "..">}}) \
-[Numidia (Roman province)(Pleiades)](https://pleiades.stoa.org/places/981539)
+- {{< id vocab="Pleiades" id="981539" term="Numidia (Roman province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -35,7 +35,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 [Cuicul]({{<relref ".">}}) \
-[Cuicul](https://pleiades.stoa.org/places/305068)
+- {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}
 
 {{< image src="cuicul_house_of_asinus_nica.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
@@ -52,15 +52,15 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 House of Asinus Nica, Central District (Maison de l’Ane, quartier central)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [stairs](http://vocab.getty.edu/page/aat/300003228)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "stairs" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "balnea" >}}
+- {{< keyword "basins (vessels)" >}}
 
 ## Garden Description
 
@@ -90,7 +90,7 @@ The house lacked wide-open views from exedra and from the galleries towards the 
 
 
 ## Pleiades ID
-[Cuicul](https://pleiades.stoa.org/places/305068)
+- {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}
 ## TGN ID
 
 ## Contributor

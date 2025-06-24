@@ -15,19 +15,19 @@ tags:
  - "frescoes (visual works)"
  - "pergolas"
  - "porticoes"
- - "shrines (structures)"
+ - "shrines"
 ---
 
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
@@ -43,15 +43,15 @@ Garden of the Porticus Liviae <!--There does not appear to be a Pleiades place r
 
 ## Keywords
 
-- [colonnade](http://vocab.getty.edu/page/aat/300002613)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [fountain](http://vocab.getty.edu/page/aat/300006179)
-- [frescoes (paintings)](http://vocab.getty.edu/page/aat/300177433)
-- [niche (architectural element)](http://vocab.getty.edu/page/aat/300002704)]
-- [pergola](http://vocab.getty.edu/page/aat/300006783)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [shrines (structure)](http://vocab.getty.edu/page/aat/300007558)
-- [statue](http://vocab.getty.edu/page/aat/300047600)
+- {{< keyword "colonnades" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "frescoes (paintings)" >}}
+- {{< keyword "niches" >}}]
+- {{< keyword "pergolas" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "shrines" >}}
+- {{< keyword "statues" >}}
 
 - [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
 - [Ovid](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1018)
@@ -97,7 +97,7 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 
 ## Pleiades ID
 
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 <!-- Pleiades resource for Location (Roma), not for Porticus Liviae -->
 
 ## Contributors

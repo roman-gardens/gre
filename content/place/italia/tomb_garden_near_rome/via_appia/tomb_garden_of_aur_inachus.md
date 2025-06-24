@@ -17,8 +17,8 @@ categories:
 [Italia]({{<relref "../../../..">}})
 
 ## Location
-[VIA APPIA](https://pleiades.stoa.org/places/356966898)
-[Tomb Garden of Aur(elius) Inachus](https://pleiades.stoa.org/places/811119037)
+- {{< id vocab="Pleiades" id="356966898" term="VIA APPIA" >}}
+- {{< id vocab="Pleiades" id="811119037" term="Tomb Garden of Aur(elius) Inachus" >}}
 
 <!--### Location Description-->
 
@@ -38,7 +38,7 @@ Tomb Garden of Aur(elius) Inachus
 
 ## Keywords
 
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- {{< keyword "tombs" >}}
 
 
 ## Garden Description
@@ -68,7 +68,7 @@ Unspecified
 
 ## Pleiades ID
 
-[Tomb Garden of Aur(elius) Inachus](https://pleiades.stoa.org/places/811119037)
+- {{< id vocab="Pleiades" id="811119037" term="Tomb Garden of Aur(elius) Inachus" >}}
 
 
 

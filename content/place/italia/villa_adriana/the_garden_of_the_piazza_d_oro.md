@@ -10,14 +10,14 @@ editor: Joshua Rosenheim
 draft: true
 tags:
  - "flower gardens"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "porticoes"
 ---
 
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Region
 
@@ -26,7 +26,7 @@ Region IV
 
 ## Location
 
-[Hadrian's Villa](https://pleiades.stoa.org/places/423127)
+- {{< id vocab="Pleiades" id="423127" term="Hadrian's Villa" >}}
 
 ## Location Description
 
@@ -39,13 +39,13 @@ The realization of this magnificent residence must have been a cherished dream o
 ## Garden
 
 The Garden of the Piazza d'Oro (Fig. 1, n. 20)\
-[Piazza d'Oro at Hadrian's Villa](https://pleiades.stoa.org/places/379689233)
+- {{< id vocab="Pleiades" id="379689233" term="Piazza d'Oro at Hadrian's Villa" >}}
 
 ## Keywords
 
-- [flower gardens](http://vocab.getty.edu/page/aat/300008135)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "flower gardens" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 ## Garden Description
 
@@ -129,12 +129,12 @@ unspecified
 
 ## Pleiades ID
 
-[Piazza d'Oro at Hadrian's Villa](https://pleiades.stoa.org/places/379689233)
+- {{< id vocab="Pleiades" id="379689233" term="Piazza d'Oro at Hadrian's Villa" >}}
 <!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
 
 ## TGN ID
 
-[Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
+- {{< id vocab="TGN" id="7006983" term="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
 ## Contributor

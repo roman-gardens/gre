@@ -13,15 +13,15 @@ categories:
   - "Africa Proconsularis"
 
 tags:
- - "temples (buildings)"
+ - "temples"
  - "sanctuaries (religious building spaces)"
- - "courtyards"
+ - "courtyards (uncovered spaces)"
  - "altars (religious fixtures)"
 ---
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 
@@ -29,7 +29,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 [THUGGA (Dougga) Tunisia]({{<relref ".">}}) \
-[THUGGA (Dougga) Tunisia](https://pleiades.stoa.org/places/315223)
+- {{< id vocab="Pleiades" id="315223" term="THUGGA (Dougga) Tunisia" >}}
 
 {{< image src="dougga_the_sanctuary_of_caelestis.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
 
@@ -43,10 +43,10 @@ The sanctuary of Caelestis
 
 ## Keywords
 
-- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
-- [sanctuaries](http://vocab.getty.edu/page/aat/300004575)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
+- {{< keyword "temples" >}}
+- {{< keyword "sanctuaries (religious building spaces)" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "altars (religious fixtures)" >}}
 
 ## Garden Description
 
@@ -69,11 +69,11 @@ The sanctuary of *Caelestis*, installed on the north-western outskirts of the ci
 
 ## Pleiades_ID
 
-[Thugga/Tokai?](https://pleiades.stoa.org/places/315223)
+- {{< id vocab="Pleiades" id="315223" term="Thugga/Tokai?" >}}
 
 ## TGN ID
 
-[Dougga (deserted settlement)](http://vocab.getty.edu/page/tgn/7017996)
+- {{< id vocab="TGN" id="7017996" term="Dougga (deserted settlement)" >}}
 
 ## Contributor
 

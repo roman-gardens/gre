@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [NOYAL-CHATILLION-SUR-SEICHE (Ille-et-Vilaine, France)]({{<relref ".">}}) \
-[NOYAL-CHATILLION-SUR-SEICHE](https://pleiades.stoa.org/places/69488)
+- {{< id vocab="Pleiades" id="69488" term="NOYAL-CHATILLION-SUR-SEICHE" >}}
 
 <!--### Location Description-->
 
@@ -40,13 +40,13 @@ A sublocation is any area larger than an individual garden, but located within a
 Villa de Châtillon-sur-Seiche
 
 ## Keywords
-- [barn](http://vocab.getty.edu/page/aat/300004900)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [trenches](http://vocab.getty.edu/page/aat/300008022)
-- [fanum](http://vocab.getty.edu/page/aat/300400628)
-- [fountain](http://vocab.getty.edu/page/aat/300006179)
-- [hypocausts](http://vocab.getty.edu/page/aat/300004277)
-- [forecourt](http://vocab.getty.edu/page/aat/300004104)
+- {{< keyword "barns" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "trenches" >}}
+- {{< keyword "fanums" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "hypocausts" >}}
+- {{< keyword "forecourts" >}}
 
 
 ## Garden Description
@@ -98,7 +98,7 @@ Unspecified
 
 ## Bibliography
 - Alain Provost, “La villa gallo-romaine de Chatillon-sur-Seiche,” in the catalog of the exposition  *Nos ancêtres les Riedones*, Musée de Bretagne- Eco-musée du pays de Rennes, Rennes, 20 juin, 31 déc. 1990, p. 10-31 [(worldcat)](http://www.worldcat.org/oclc/715516488)
-- Gilles Leroux, Alain Provost, CAG- Ille-et-vilaine (35), p. 270-274. [(worldcat)] (http://www.worldcat.org/oclc/463616145)
+- Gilles Leroux, Alain Provost, CAG- Ille-et-vilaine (35), p. 270-274. [(worldcat)](http://www.worldcat.org/oclc/463616145)
 
 
 <!--#### Periodo ID-->
@@ -107,10 +107,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Châtillon-sur-Seiche](https://pleiades.stoa.org/places/69488)
+- {{< id vocab="Pleiades" id="69488" term="Châtillon-sur-Seiche" >}}
 
 ## TGN ID
-[Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
+- {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

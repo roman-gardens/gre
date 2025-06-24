@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Toledo]({{<relref "../../../..">}})
-[Toletum](https://pleiades.stoa.org/places/266066)
+- {{< id vocab="Pleiades" id="266066" term="Toletum" >}}
 
 <!--### Province Description-->
 
@@ -24,7 +24,7 @@ categories:
 ## Location
 
 [Rielves]({{<relref ".">}}) \
-[El Solao](https://pleiades.stoa.org/places/266044)
+- {{< id vocab="Pleiades" id="266044" term="El Solao" >}}
 
 ## Location Description
 A village of about 600 inhabitants 19 kilometers northwest of Toledo.  The ruins of the villa are often called "termas" (baths).
@@ -46,9 +46,9 @@ A sublocation is any area larger than an individual garden, but located within a
 The so-called "Baths" of Rielves
 
 <!--### Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
+- {{< keyword "peristyles" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "corridors" >}}
 
 ## Garden Description
 The major building period dated to the beginning of the 4th century, supplanting an earlier late 1st century phase.. The peristyle garden belonged to the later phase.  The house is laid out around its central garden with approximate symmetry relative its north-south axis.  The front of the house, the side from which guests entered, was clearly the south where the entry way [25] had a geometric mosaic floor whereas the north entrance way [7] had an earthen floor.  Immediately on entry, the guest would have seen the garden through an arcade on its south side.  These nine semicircular arches formed a sort of interior façade.  This arcade had fallen over – or been pushed pulled over – in the destruction of the house, so it has been possible to reconstruct it in elevation, and it has been rebuilt.  The Romans made extensive use of the round arch for practical purposes; this is an interesting example of its use for purely esthetic purposes, since a simple colonnade would have served just as well structurally.
@@ -86,7 +86,7 @@ The large number of objects of daily life found in the ruins, some under toppled
 
 ## Pleiades ID
 
-[El Solao](https://pleiades.stoa.org/places/266044)
+- {{< id vocab="Pleiades" id="266044" term="El Solao" >}}
 
 
 <!--### Contributor-->

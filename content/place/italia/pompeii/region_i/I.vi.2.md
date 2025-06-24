@@ -16,11 +16,11 @@ categories:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -32,19 +32,19 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VI]({{<relref "#">}})
 
 ## Keywords
-- [archaeological garden](#)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [busts (sculpture)](http://vocab.getty.edu/page/aat/300417950)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [cryptoportici](http://vocab.getty.edu/page/aat/300004295)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
-- [loggias](http://vocab.getty.edu/page/aat/300004137)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [pillars](http://vocab.getty.edu/page/aat/300264605)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [stairs](http://vocab.getty.edu/page/aat/300003228)
-- [vegetable gardens](http://vocab.getty.edu/page/aat/300008142)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "busts (sculpture)" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "cryptoportici" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "loggias" >}}
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "stairs" >}}
+- {{< keyword "vegetable gardens" >}}
 
 
 ## Garden
@@ -98,11 +98,11 @@ Excavated 1911-1929.
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

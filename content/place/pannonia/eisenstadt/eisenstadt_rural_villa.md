@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Eisenstadt]({{<relref ".">}}) \
-[Eisenstadt](https://pleiades.stoa.org/places/197425)
+- {{< id vocab="Pleiades" id="197425" term="Eisenstadt" >}}
 
 
 <!--### Location Description-->
@@ -48,13 +48,13 @@ Rural Villa in Eisenstadt
 
 ## Keywords
 
-- [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
-- [archaeological garden](#)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- {{< keyword "altars (religious fixtures)" >}}
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "podiums (building divisions)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -84,11 +84,11 @@ Early 2nd century - 4th century
 
 ## Pleiades ID
 
-[Pannonia](https://pleiades.stoa.org/places/197425)
+- {{< id vocab="Pleiades" id="197425" term="Pannonia" >}}
 
 ## TGN ID
 
-[Eisenstadt (inhabited place)](http://vocab.getty.edu/page/tgn/7003056)
+- {{< id vocab="TGN" id="7003056" term="Eisenstadt (inhabited place)" >}}
 
 ## Contributor
 

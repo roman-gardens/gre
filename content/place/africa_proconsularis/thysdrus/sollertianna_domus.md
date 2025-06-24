@@ -19,7 +19,7 @@ tags:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A praetor governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -28,7 +28,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 [THYSDRUS (El Jem) Tunisia]({{<relref ".">}}) \
-[THYSDRUS (El Jem) Tunisia(Pleiades)](https://pleiades.stoa.org/places/324835)
+- {{< id vocab="Pleiades" id="324835" term="THYSDRUS (El Jem) Tunisia(Pleiades)" >}}
 
 ## Location Description
 Thysdrus is located on the western border of the Sahel at 60 km S of Hadrumetum on the road leading to Sfax. The development, from the end of the 2d c., of its olive plantations and its trade in oil made the fortune of the city.
@@ -54,10 +54,10 @@ Sollertianna Domus
 
 ## Keywords
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
-- [semicircular basin](#)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "semicircular basin" >}}
 
 ## Garden Description
 
@@ -89,11 +89,11 @@ Early 3rd century CE
 
 ## Pleiades ID
 
-[Thysdrus](https://pleiades.stoa.org/places/324835)
+- {{< id vocab="Pleiades" id="324835" term="Thysdrus" >}}
 
 ## TGN ID
 
-[El Jemm (inhabited place)](http://vocab.getty.edu/page/tgn/7017557)
+- {{< id vocab="TGN" id="7017557" term="El Jemm (inhabited place)" >}}
 
 ## Contributor
 [Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)) \

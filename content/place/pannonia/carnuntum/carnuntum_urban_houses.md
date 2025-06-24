@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Carnuntum]({{<relref ".">}}) \
-[Carnuntum](https://pleiades.stoa.org/places/128376)
+- {{< id vocab="Pleiades" id="128376" term="Carnuntum" >}}
 
 ## Location Description
 
@@ -48,11 +48,11 @@ Urban Houses in Carnuntum
 
 ## Keywords
 
-- [arcades (structural assemblies)](http://vocab.getty.edu/page/aat/300002580)
-- [archaeological garden](#)
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
-- [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
-- [vestibules](http://vocab.getty.edu/page/aat/300083076)
+- {{< keyword "arcades (structural assemblies)" >}}
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "corridors" >}}
+- {{< keyword "kitchen gardens" >}}
+- {{< keyword "vestibules" >}}
 
 ## Garden Description
 
@@ -83,11 +83,11 @@ unspecified
 
 ## Pleiades ID
 
-[128376](https://pleiades.stoa.org/places/128376)
+- {{< id vocab="Pleiades" id="128376" term="128376" >}}
 
 ## TGN ID
 
-[Carnuntum (deserted settlement)](http://vocab.getty.edu/page/tgn/7032538)
+- {{< id vocab="TGN" id="7032538" term="Carnuntum (deserted settlement)" >}}
 
 ## Contributor
 

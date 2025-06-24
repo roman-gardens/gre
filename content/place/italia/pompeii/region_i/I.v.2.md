@@ -15,18 +15,18 @@ categories:
 tags:
  - "exedrae (site elements)"
  - "lararia"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "porticoes"
  - "tablina"
 ---
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -38,24 +38,24 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula V]({{<relref "#">}})
 
 ## Keywords
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [tablina](http://vocab.getty.edu/page/aat/300004180)
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "tablina" >}}
 
 ## Garden
 Officina Coriariorum of M. Vesonius Primus (tannery) with a [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden and large open space to the rear.
 
 ## Keywords
 
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [pillars](http://vocab.getty.edu/page/aat/300264605)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "tables (support furniture)" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 
@@ -100,11 +100,11 @@ Excavated 1873-1874.
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

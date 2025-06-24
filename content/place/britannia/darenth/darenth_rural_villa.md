@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Darenth]({{<relref ".">}}) \
-[Darenth](https://pleiades.stoa.org/places/79413)
+- {{< id vocab="Pleiades" id="79413" term="Darenth" >}}
 
 <!--### Location Description-->
 
@@ -46,11 +46,11 @@ Rural Villa in Darenth
 
 ## Keywords
 
-- [archaeological gardens](#)
-- [kitchen gardens](http://vocab.getty.edu/page/aat/300008110)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
-- [waterspouts](http://vocab.getty.edu/page/aat/300248603)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "kitchen gardens" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "waterspouts" >}}
 
 ## Garden Description
 
@@ -85,11 +85,11 @@ ca. 100 CE - late 4th century CE
 
 ## Pleiades ID
 
-[Darenth](https://pleiades.stoa.org/places/79413)
+- {{< id vocab="Pleiades" id="79413" term="Darenth" >}}
 
 ## TGN ID
 
-[Darenth (inhabited place)](http://vocab.getty.edu/page/tgn/7027349)
+- {{< id vocab="TGN" id="7027349" term="Darenth (inhabited place)" >}}
 
 ## Contributor
 

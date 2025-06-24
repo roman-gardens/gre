@@ -24,7 +24,7 @@ tags:
 ## Province
 
 [Numidia]({{<relref "..">}}) \
-[Numidia (Roman province)(Pleiades)](https://pleiades.stoa.org/places/981539)
+- {{< id vocab="Pleiades" id="981539" term="Numidia (Roman province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -33,7 +33,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 [Cuicul]({{<relref ".">}}) \
-[Cuicul](https://pleiades.stoa.org/places/305068)
+- {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}
 
 
 {{< image src="cuicul_small_baths.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
@@ -51,15 +51,15 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 Small Baths (Garden of the Small Baths to the south of the Great Baths; rear garden to the west of the House of Bacchus)
 
 ## Keywords
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [bath](#)
-- [sculpture](#)
-- [diaeta](#)
-- [venus](#)
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "baths" >}}
+- {{< keyword "sculpture" >}}
+- {{< keyword "diaeta" >}}
+- {{< keyword "venus" >}}
 
-## Garden Description
+## Garden Descriptionf
 
 The garden A mentioned as an open area was excavated in 1930-1931 and in 1944 (Plan view, Fig. 1). It was enclosed on the N, by the Small Baths I (covered in a later period by the seven apse hall built in the fifth century); on the W, by the limit of a long boundary wall (44m long) of the property; on the S, by another wall and by the little building II with the well known dionysiac pavement. Along the rear wall of the garden on the W, there was a terrace III (9 m long) paved with black mosaic. It runs from the large reservoir at the SW corner to a pavilion IV near the NW corner. The pavilion (6.40 m x 3.60 m) commanded a large view over the garden; it may be interpreted as a summer dining room, a diaeta. It was decorated with stuccoed moldings and a colorful mosaic pavement, which could hardly be dated before the fourth century, but perhaps was not the original pavement. Parallel to the edge of the terrace, one meter below the reservoir, sixty centimeters below the terrace, there was a rectangular pool V (16. 50 m X 4.50 m, 1.63 m deep). Water entered at the south edge, under the pedestal (a) still in place. Along the W and the S sides of the pool, more or less than two meters away, there is a row of stone bases, each showing a hole for a wood post, that likely supported a pergola; a vine probably shaded the passage (similar holes are visible in the N and W edges of the pool) (fig. 2, fig. 3). Standing on the pedestal (a), we may imagine a garden statue, for the feet of a marble statuette of an Unraveling Venus (1 m high) were found precisely at the same time (fig. 4) ; the body had been carried, by the load of earth along the sharp slope, towards the large peristyle. Near the pool were also found a broken head of Aseculapius (30 cm high) and a set of surgical instruments. On the E side of the garden, there was a tank that stored water from the spring, the channel of which crosses the garden towards the large peristyle VI. The little building II with dionysiac pavement, perhaps widely opened towards the garden, and must be interpreted in connection to it: the vine in the mosaic may recall the vine in the pergola. This ornamental garden combines many uses (bathing, dining, curing, entertaining) and many religious significations, referring to Dionysus, Venus, Aesculapius.
 
@@ -89,7 +89,7 @@ Early 3rd century CE
 * Malek, A.-A., "Le jardin au fil de l’eau : mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l’époque romaine*, eds, Brouquier-Reddé, V. et  Hurlet, Bordeaux, F., Ausonius, 2018, pp. 248-249. [(worldcat)](http://www.worldcat.org/oclc/1078217356)
 
 ## Pleiades ID
-[Cuicul](https://pleiades.stoa.org/places/305068)
+- {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}
 ## TGN ID
 
 ## Contributor

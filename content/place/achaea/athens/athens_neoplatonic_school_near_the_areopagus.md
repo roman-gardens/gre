@@ -16,7 +16,7 @@ categories:
 tags:
  - "basins (vessels)"
  - "nymphaea (garden structures)"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
 ---
 
 ## Province
@@ -28,19 +28,19 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 [Athens]({{<relref ".">}}) \
-[Athens](https://pleiades.stoa.org/places/579885)
+- {{< id vocab="Pleiades" id="579885" term="Athens" >}}
 
 ## Sublocation
-[Aereopagus](https://pleiades.stoa.org/places/969121823)
+- {{< id vocab="Pleiades" id="969121823" term="Aereopagus" >}}
 
 ## Garden
 Neoplatonic School near the Areopagus (Omega House)
 
 ## Keywords
-- [Archaeological](#)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "peristyles" >}}
 
 ## Garden Description
 Several houses with peristyle courtyards were built north of the Areopagus in the second half of the 4th century A.D.  These have been interpreted as schools of the Neoplatonic philosophers in which the school directors lived and students were instructed.  
@@ -59,10 +59,10 @@ second half of the 4th century CE to the late 6th century CE
 * T. L. Shear, “The Athenian Agora: Excavations of 1970,” *Hesperia* 40, 1971: 266-270, 273-275, pls. 53-55, 58-59. [(JSTOR)](https://www.jstor.org/stable/147527).
 
 ## Pleiades ID
-[Areopagus](https://pleiades.stoa.org/places/969121823)
+- {{< id vocab="Pleiades" id="969121823" term="Areopagus" >}}
 
 ## TGN ID
-[Agorá (ancient site)](http://vocab.getty.edu/page/tgn/5004159)
+- {{< id vocab="TGN" id="5004159" term="Agorá (ancient site)" >}}
 
 ## Contributor
 [Maureen Carroll](#) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  

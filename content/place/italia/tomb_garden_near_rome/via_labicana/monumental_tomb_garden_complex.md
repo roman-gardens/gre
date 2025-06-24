@@ -17,8 +17,8 @@ categories:
 [Italia]({{<relref "../../../..">}})
 
 ## Location
-[Via Labicana](https://pleiades.stoa.org/places/74935822)
-[Monumental Tomb Garden Complex](https://pleiades.stoa.org/places/423338213)
+- {{< id vocab="Pleiades" id="74935822" term="Via Labicana" >}}
+- {{< id vocab="Pleiades" id="423338213" term="Monumental Tomb Garden Complex" >}}
 
 <!--### Location Description-->
 
@@ -35,12 +35,12 @@ An ancient Roman road connecting Rome and Labicum.
 Monumental Tomb Garden Complex
 
 ## Keywords
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [ditches](http://vocab.getty.edu/page/aat/300006178)
-- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
-- [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
-- [sepulchral monuments](http://vocab.getty.edu/page/aat/300005909)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "ditches" >}}
+- {{< keyword "epitaphs" >}}
+- {{< keyword "funerary buildings" >}}
+- {{< keyword "sepulchral monuments" >}}
+- {{< keyword "tombs" >}}
 
 
 ## Garden Description
@@ -86,7 +86,7 @@ The plan was dated as early as the Augustan age, the scale and design seem more 
 
 ## Pleiades ID
 
-[Tomb Garden of Aur(elius) Inachus](https://pleiades.stoa.org/places/423338213)
+- {{< id vocab="Pleiades" id="423338213" term="Tomb Garden of Aur(elius) Inachus" >}}
 
 
 

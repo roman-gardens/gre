@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [andance]({{<relref ".">}}) \
-[andance](https://pleiades.stoa.org/places/167644)
+- {{< id vocab="Pleiades" id="167644" term="andance" >}}
 
 ## Location Description
 
@@ -46,13 +46,13 @@ Puissalicon, villa de la Condoumine
 
 ## Keywords
 
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
+- {{< keyword "balnea" >}}
 - [opus spicatum]
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "reception rooms" >}}
 
 
 
@@ -102,12 +102,12 @@ A.D. 75-100 built
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Andance (inhabited place)](http://vocab.getty.edu/page/tgn/1031774)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="1031774" term="Andance (inhabited place)" >}}
 
 ## Contributor
 

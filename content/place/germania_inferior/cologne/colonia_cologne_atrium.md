@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [Cologne]({{<relref ".">}}) \
-[Cologne](https://pleiades.stoa.org/places/108751)
+- {{< id vocab="Pleiades" id="108751" term="Cologne" >}}
 
 ## Location Description
 This large town on the west bank of the Rhine river was the *civitas* capital of the [Ubii](link) in the first half of the 1st century A.D. It was granted the status of colonia by [Claudius](link) in 50 and became the provincial capital in 85.
@@ -39,15 +39,15 @@ A sublocation is any area larger than an individual garden, but located within a
 Atrium House (Colonia Claudia Ara Agrippinensium)
 
 ## Keywords
-- [urban villas](#)
-- [villae urbanae](http://vocab.getty.edu/page/aat/300005520)
-- [atrium houses](http://vocab.getty.edu/page/aat/300005451)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [tablina](http://vocab.getty.edu/page/aat/300004180)
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [apsed pools](#)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
+- {{< keyword "urban villas" >}}
+- {{< keyword "villae urbanae" >}}
+- {{< keyword "atrium houses" >}}
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "apsed pools" >}}
+- {{< keyword "piscinae" >}}
 
 ## Garden Description
 West of the [House of Dionysos]({{<relref "colonia_cologne_dionysius.md">}}) stood the so-called "atrium house" which covered an area of 1400 sq. m. (Plan 1). It was built around the middle of the 1st century A.D.  
@@ -82,10 +82,10 @@ Middle of the first century CE until the fourth century CE
 
 ## Pleiades ID
 
-[Ara Ubiorum/Col. Claudia Ara Agrippinensium](https://pleiades.stoa.org/places/108751)
+- {{< id vocab="Pleiades" id="108751" term="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
 
 ## TGN ID
-[Cologne (inhabited place)](http://vocab.getty.edu/page/tgn/7004446)
+- {{< id vocab="TGN" id="7004446" term="Cologne (inhabited place)" >}}
 
 ## Contributor
 [Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))    

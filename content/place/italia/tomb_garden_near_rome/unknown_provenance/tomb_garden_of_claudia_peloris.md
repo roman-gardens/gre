@@ -32,8 +32,8 @@ Tomb Garden of Claudia Peloris
 
 ## Keywords
 
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
+- {{< keyword "tombs" >}}
+- {{< keyword "epitaphs" >}}
 
 ## Garden Description
 A marble plaque now in the archaeological museum of Perugia but probably of urban origin records the epitaph of a freedwoman of Octavia, the daughter of the deified emperor Claudius, Claudia Peloris, and her husband, also an imperial freedman and procurator of the Augusti,  Ti. Claudius Eutychus, who left to her sisters and freedwomen and their descendants charge of a building (aedificium) and tomb monument (monumentum). An inscribed plan at the center of the plaque depicting different sections of a building and tomb complex (evidently the ones specified in the text) shows, at the right, a walled tomb enclosure, with the monument built into the rear wall and a corridor leading off the left side of the forecourt to a stair descending perpendicularly to an undergound burial chamber below; at the left, the ground floor of a two storey building (the set of rooms depicted at the top of the plan represents the second floor) with a roughly rectangular walled garden (70 X 76 X 65 X 65 Roman feet, some 410 square meters), opening off the rear (Fig. XXX).

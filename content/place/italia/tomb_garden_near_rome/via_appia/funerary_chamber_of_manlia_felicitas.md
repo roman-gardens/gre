@@ -17,8 +17,8 @@ categories:
 [Italia]({{<relref "../../../..">}})
 
 ## Location
-[VIA APPIA](https://pleiades.stoa.org/places/356966898)
-[Funerary Chamber of Manlia Felicitas](https://pleiades.stoa.org/places/990721366)
+- {{< id vocab="Pleiades" id="356966898" term="VIA APPIA" >}}
+- {{< id vocab="Pleiades" id="990721366" term="Funerary Chamber of Manlia Felicitas" >}}
 
 <!--### Location Description-->
 
@@ -38,9 +38,9 @@ Funerary Chamber of Manlia Felicitas
 
 ## Keywords
 
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
+- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "tombs" >}}
+- {{< keyword "funerary buildings" >}}
 
 ## Garden Description
 In 1937 a French student, Louis Vignon, searching for new catacombs around the third mile of the Via Appia near the tomb of Caecilia Metella, discovered a subterranean funerary chamber accessible via a descending stair that ended at a landing which opened perpendicularly into the middle of one of its walls. Each of the other three walls contained an arcosolium decorated with frescoes depicting animal and vegetal life against a background of herbs and flowers beneath hanging garlands punctuated by aquatic fowl, doves, and the heads of youths; beneath the frescoes the lower walls were paneled in polychrome marble. The figured scenes—at the back, opposite the entrance, a pair of peacocks flanking a niche; to the left a pair of Cupids draping a gazelle in a long ribbon; to the right a pair of gazelles on either side of a twisted tree—belong to a stock of Hellenistic motifs evocative of the gardens of the blessed popular at Rome during the Julio-Claudian period and, especially, the reign of Augustus, to which Wuillemier thought the monument belonged.
@@ -71,7 +71,7 @@ In 1937 a French student, Louis Vignon, searching for new catacombs around the t
 
 ## Pleiades ID
 
-[Funerary Chamber of Manlia Felicitas](https://pleiades.stoa.org/places/990721366)
+- {{< id vocab="Pleiades" id="990721366" term="Funerary Chamber of Manlia Felicitas" >}}
 
 
 

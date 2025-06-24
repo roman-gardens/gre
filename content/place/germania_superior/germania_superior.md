@@ -47,11 +47,11 @@ c. AD 85
 ## Pleiades ID
 
 [Germania Superior]({{<relref ".">}}) \
-[Germania Superior](https://pleiades.stoa.org/places/981525)
+- {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
 
 ## TGN ID
 
-[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
+- {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
 
 ## Contributor
 

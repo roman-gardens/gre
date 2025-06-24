@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Italica]({{<relref ".">}}) \
-[Italica](https://pleiades.stoa.org/places/256231)
+- {{< id vocab="Pleiades" id="256231" term="Italica" >}}
 
 ## Location Description
 
@@ -68,10 +68,10 @@ unspecified
 
 ## Pleiades ID
 [Public Square at Italica]{{<relref ".">}}) \
-[Public Square at Italica](https://pleiades.stoa.org/places/810966695)
+- {{< id vocab="Pleiades" id="810966695" term="Public Square at Italica" >}}
 
 ## TGN ID
-[Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
+- {{< id vocab="TGN" id="7007822" term="Itálica (deserted settlement)" >}}
 
 ## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

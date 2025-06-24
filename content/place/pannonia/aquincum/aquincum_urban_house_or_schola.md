@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Aquincum]({{<relref ".">}}) \
-[Aquincum](https://pleiades.stoa.org/places/1971301)
+- {{< id vocab="Pleiades" id="1971301" term="Aquincum" >}}
 
 ## Location Description
 
@@ -48,13 +48,13 @@ Urban House or Schola in Aquincum
 
 ## Keywords
 
-- [archaeological garden](#)
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "balnea" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "statuettes (free-standing sculpture)" >}}
 
 ## Garden Description
 
@@ -86,11 +86,11 @@ Very few houses of Mediterranean type have been discovered, and only one can be 
 
 ## Pleiades ID
 
-[Aquincum](https://pleiades.stoa.org/places/197130)
+- {{< id vocab="Pleiades" id="197130" term="Aquincum" >}}
 
 ## TGN ID
 
-[Aquincum (deserted settlement)](http://vocab.getty.edu/page/tgn/8713146)
+- {{< id vocab="TGN" id="8713146" term="Aquincum (deserted settlement)" >}}
 
 ## Contributor
 

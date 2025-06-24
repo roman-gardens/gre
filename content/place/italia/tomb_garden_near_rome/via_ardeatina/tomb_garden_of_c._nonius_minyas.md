@@ -17,8 +17,8 @@ categories:
 [Italia]({{<relref "../../../..">}})
 
 ## Location
-[VIA ARDEATINA](https://pleiades.stoa.org/places/587835546)
-[Tomb Garden of C. Nonius Minyas](https://pleiades.stoa.org/places/195817642)
+- {{< id vocab="Pleiades" id="587835546" term="VIA ARDEATINA" >}}
+- {{< id vocab="Pleiades" id="195817642" term="Tomb Garden of C. Nonius Minyas" >}}
 
 <!--### Location Description-->
 
@@ -36,8 +36,8 @@ Tomb Garden of C. Nonius Minyas
 
 ## Keywords
 
-- [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- {{< keyword "funerary buildings" >}}
+- {{< keyword "tombs" >}}
 
 
 ## Garden Description
@@ -74,7 +74,7 @@ late first or second century
 ## Pleiades ID
 
 <!-- broken link
-[195817642](https://pleiades.stoa.org/places/195817642)
+- {{< id vocab="Pleiades" id="195817642" term="195817642" >}}
 -->
 
 

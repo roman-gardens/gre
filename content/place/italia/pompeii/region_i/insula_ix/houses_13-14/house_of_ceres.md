@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Sublocation
 
@@ -44,19 +44,19 @@ House of Ceres; Casa di Cerere (I.ix.13-14)
 
 ## Keywords
 
-- [amorini](#)
-- [archaeological garden](#)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
-- [tablina](http://vocab.getty.edu/page/aat/300004180)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [vases](http://vocab.getty.edu/page/aat/300132254)
+- {{< keyword "amorini" >}}
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "vases" >}}
 
 ## Garden Description
 
@@ -110,11 +110,11 @@ unspecified
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

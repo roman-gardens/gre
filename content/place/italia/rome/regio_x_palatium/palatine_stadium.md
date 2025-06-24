@@ -13,18 +13,18 @@ draft: false
 ## Province
 
 [Italia]({{<relref "..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref ".">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
 Palatine Hill \
-[Mons Palatinus](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
 
@@ -34,18 +34,18 @@ Stadium Garden of the Flavian Palace, Palatine
 
 ## Keywords
 
-- [allées](http://vocab.getty.edu/page/aat/300178561)
-- [canals (waterways)](http://vocab.getty.edu/page/aat/300006075)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [niches (architectural elements)](http://vocab.getty.edu/page/aat/300002704)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [pillars](http://vocab.getty.edu/page/aat/300264605)
-- [planting beds](http://vocab.getty.edu/page/aat/300430426)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
+- {{< keyword "allées" >}}
+- {{< keyword "canals (waterways)" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "planting beds" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
 - [Juvenal](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.800)
 - [Martial](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.897)
 - [Vitruvius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476)
@@ -101,7 +101,7 @@ unspecified
 
 ## Pleiades ID
 
-[Palatine Hill](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}
 
 ## Contributor
 

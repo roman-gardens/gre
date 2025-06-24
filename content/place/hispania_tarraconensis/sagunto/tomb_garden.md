@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Sagunto]({{<relref "../../../..">}})
-[Sagunto](https://pleiades.stoa.org/places/266020)
+- {{< id vocab="Pleiades" id="266020" term="Sagunto" >}}
 
 <!--### Province Description-->
 
@@ -24,7 +24,7 @@ categories:
 ## Location
 
 [Saguntum]({{<relref ".">}}) \
-[Saguntum/Arse](https://pleiades.stoa.org/places/266021)
+- {{< id vocab="Pleiades" id="266021" term="Saguntum/Arse" >}}
 
 <!--### Location Description-->
 
@@ -45,7 +45,7 @@ A sublocation is any area larger than an individual garden, but located within a
 Tomb garden and baths of P. Caecil(ius) Rufus and Valeria
 
 ## Keywords
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- {{< keyword "tombs" >}}
 
 ## Garden Description
 A marble slab found at Puçol (Puzol) near Saguntum, now lost,  but originally preserving an epitaph of the late first or early second century set up by P. Caecil(ius) Rufus for himself and his wife Valeria, records that they purchased an area (locus) vaulted over with walls, baths (a notable amenity at a tomb), and gardens and constructed a monument there for themselves and their daughters, to the end that their ashes be mingled with those of their ancestors  (se vivis compararunt locum uti est concameratum parietib(us), balneis, hortis; monumentum construxerunt sibi et filiabus donec avitis cineribus immisceantur). For the identification of the couple and the approximate date, see Alföldy in CIL.
@@ -80,7 +80,7 @@ A marble slab found at Puçol (Puzol) near Saguntum, now lost,  but originally p
 
 ## Pleiades ID
 
-[Saguntum/Arse](https://pleiades.stoa.org/places/266021)
+- {{< id vocab="Pleiades" id="266021" term="Saguntum/Arse" >}}
 
 
 <!--### Contributor-->

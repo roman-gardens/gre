@@ -12,19 +12,19 @@ tags:
  - "basins (vessels)"
  - "fountains"
  - "opus signinum"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "vases"
 ---
 
 ## Province
 
 [Italia]({{<relref "..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
 [Ostia]({{<relref ".">}}) \
-[Ostia](https://pleiades.stoa.org/places/422995)
+- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 
 ## Location Description
 
@@ -58,15 +58,15 @@ House on Via del Tempio Rotondo
 
 ## Keywords
 
-- [Augustan](http://vocab.getty.edu/page/aat/300020543)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [opus signinum](http://vocab.getty.edu/page/aat/300379969)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [travertine](http://vocab.getty.edu/page/aat/300011329)
-- [Tuscan order](http://vocab.getty.edu/page/aat/300067420)
-- [vases](http://vocab.getty.edu/page/aat/300132254)
+- {{< keyword "Augustan" >}}
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "travertine" >}}
+- {{< keyword "Tuscan order" >}}
+- {{< keyword "vases" >}}
 <!---->
 - [Cato](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.335.1)
 - [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
@@ -108,12 +108,12 @@ partially excavated between June 1972 and January 1973
 
 ## Pleiades ID
 
-[Ostia](https://pleiades.stoa.org/places/422995)
+- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 <!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
 ## TGN ID
 
-[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
+- {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor

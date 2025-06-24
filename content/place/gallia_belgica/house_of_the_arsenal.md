@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [DIVODURUM MEDIOMATRICORUM (Metz, France)]({{<relref ".">}}) \
-[DIVODURUM MEDIOMATRICORUM](https://pleiades.stoa.org/places/108927)
+- {{< id vocab="Pleiades" id="108927" term="DIVODURUM MEDIOMATRICORUM" >}}
 
 <!--### Location Description-->
 
@@ -42,9 +42,9 @@ HHouse of the Arsenal (Maison de l’Arsenal)
 
 ## Keywords
 
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [hypocausts](http://vocab.getty.edu/page/aat/300004277)
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "hypocausts" >}}
 
 
 ## Garden Description
@@ -77,10 +77,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Divodurum/Mettis](https://pleiades.stoa.org/places/108927)
+- {{< id vocab="Pleiades" id="108927" term="Divodurum/Mettis" >}}
 
 ## TGN ID
-[Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
+- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

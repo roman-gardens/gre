@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Nemea]({{<relref ".">}}) \
-[Nemea](https://pleiades.stoa.org/places/570504)
+- {{< id vocab="Pleiades" id="570504" term="Nemea" >}}
 
 <!--### Location Description-->
 
@@ -47,11 +47,11 @@ Sanctuary of Zeus
 
 ## Keywords
 
-- [Literary](#)
-- [Archaeological](#)
-- [Pausanias](#)
-- [archaeobotany](http://vocab.getty.edu/page/aat/300251771)
-- [cypress (wood)](http://vocab.getty.edu/page/aat/300012540)
+- {{< keyword "literary gardens" >}}
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "Pausanias" >}}
+- {{< keyword "archaeobotany" >}}
+- {{< keyword "cypress (wood)" >}}
 - [cypresses (Cupressaceae)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126767-1)
 -	[pits (earthworks)](http://vocab.getty.edu/page/aat/300008027)
 -	[sacred groves](http://vocab.getty.edu/page/aat/300251876)
@@ -96,11 +96,11 @@ Trees were still standing in the 2nd century A.D. when Pausanias visited Nemea.
 
 ## Pleiades ID
 
-[Nemea](https://pleiades.stoa.org/places/570504)
+- {{< id vocab="Pleiades" id="570504" term="Nemea" >}}
 
 ## TGN ID
 
-[Neméa (ancient site)](http://vocab.getty.edu/page/tgn/7220732)
+- {{< id vocab="TGN" id="7220732" term="Neméa (ancient site)" >}}
 
 ## Contributor
 

@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [MEDIOLANUM AULERCORUM (Evreux, France)]({{<relref ".">}}) \
-[MEDIOLANUM AULERCORUM](https://pleiades.stoa.org/places/109153)
+- {{< id vocab="Pleiades" id="109153" term="MEDIOLANUM AULERCORUM" >}}
 
 <!--### Location Description-->
 
@@ -40,10 +40,10 @@ A sublocation is any area larger than an individual garden, but located within a
 House on the Place des Halles (La maison des Halles)
 
 ## Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [fountain](http://vocab.getty.edu/page/aat/300006179)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
 
 ## Garden Description
 
@@ -76,10 +76,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Mediolanum Aulercorum](https://pleiades.stoa.org/places/109153)
+- {{< id vocab="Pleiades" id="109153" term="Mediolanum Aulercorum" >}}
 
 ## TGN ID
-[Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
+- {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

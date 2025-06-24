@@ -14,10 +14,10 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "doliums"
+ - "dolia"
  - "lattices"
  - "lecti"
- - "masonry"
+ - "masonry (building materials)"
  - "pergolas"
  - "porticoes"
  - "reservoirs"
@@ -26,11 +26,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -42,14 +42,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IX]({{<relref ".">}})
 
 ## Keywords
- - [masonry](http://vocab.getty.edu/page/aat/300015332)
- - [triclinia (rooms)](http://vocab.getty.edu/page/aat/300142552)
- - [pergolas](http://vocab.getty.edu/page/aat/300006783)
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
- - [lecti](http://vocab.getty.edu/page/aat/300139419)
- - [reservoirs (water distribution structures)](http://vocab.getty.edu/page/aat/300006191)
- - [lattices](http://vocab.getty.edu/page/aat/300163920)
- - [doliums](http://vocab.getty.edu/page/aat/300400601)
+- {{< keyword "masonry (building materials)" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "lecti" >}}
+- {{< keyword "reservoirs (water distribution structures)" >}}
+- {{< keyword "lattices" >}}
+- {{< keyword "dolia" >}}
 
 
 ## Garden Description
@@ -70,10 +70,10 @@ B. This vineyard section of the property was excavated in 1984 by Dr. De Caro. A
 -->
 
 ## Pleiades ID
-[Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
+- {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 Eastern part first excavated 1939 and then 1954 to 1955.

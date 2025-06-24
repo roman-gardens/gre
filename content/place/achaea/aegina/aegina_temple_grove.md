@@ -39,9 +39,9 @@ Evidence for a temple grove on Aegina exists only in a literary reference. Pausa
 -->
 
 ## Keywords
-- {{< keyword "Literary" >}}
+- {{< keyword "literary gardens" >}}
 - {{< keyword "sacred groves" >}}
-- {{< keyword "Olea europaea" >}}
+- {{< keyword "olive trees" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="579844" term="Aegina (island)" >}}

@@ -18,11 +18,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -34,7 +34,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IV]({{<relref ".">}})
 
 ## Keywords
- - [tablina](http://vocab.getty.edu/page/aat/300004180)
+- {{< keyword "tablina" >}}
 
 ## Garden Description
 What was formerly a garden with a pool was converted into a large open area (a) by the demolition of some walls to the rear of the tablinium. Significant remnants of woolen and linen cloth were recovered from the area when it was excavated in 1860-1861 and this led Fiorelli to believe that the Stabian Baths just across the street used this area to wash clothes and dry them in the open.
@@ -43,10 +43,10 @@ What was formerly a garden with a pool was converted into a large open area (a) 
 {{< image src="fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" title="Plan of Region VIII Insula IV" >}}
 
 ## Pleiades ID
-[Regio VIII, Pompeii](https://pleiades.stoa.org/places/538911200)
+- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (inhabited place)](http://vocab.getty.edu/page/tgn/2053030)
+- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
 1860-1861

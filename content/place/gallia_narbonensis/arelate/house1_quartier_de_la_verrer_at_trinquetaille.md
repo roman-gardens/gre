@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 
 [Arelate]({{<relref ".">}}) \
-[Arelate](https://pleiades.stoa.org/places/148217)
+- {{< id vocab="Pleiades" id="148217" term="Arelate" >}}
 
 ## Location Description
 
@@ -51,9 +51,9 @@ House I, Quartier de la Verrerie at Trinquetaille
 
 ## Keywords
 
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [opus sectile (visual works)](http://vocab.getty.edu/page/aat/300254462)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "opus sectile (visual works)" >}}
+- {{< keyword "porticoes" >}}
 
 
 
@@ -83,13 +83,13 @@ Excavations in 1982-1984
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
-[Theline/Col. Arelate/Constantina](https://pleiades.stoa.org/places/148217)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
+- {{< id vocab="Pleiades" id="148217" term="Theline/Col. Arelate/Constantina" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Arles (inhabited place)](http://vocab.getty.edu/page/tgn/7008775)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7008775" term="Arles (inhabited place)" >}}
 
 ## Contributor
 

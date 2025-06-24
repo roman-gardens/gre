@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [DIVODURUM MEDIOMATRICORUM (Liéhon, France)]({{<relref ".">}}) \
-[DIVODURUM MEDIOMATRICORUM](https://pleiades.stoa.org/places/108927)
+- {{< id vocab="Pleiades" id="108927" term="DIVODURUM MEDIOMATRICORUM" >}}
 
 <!--### Location Description-->
 
@@ -42,12 +42,12 @@ Villa de Larry
 
 ## Keywords
 
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [hedges](http://vocab.getty.edu/page/aat/300266413)
-- [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [fountain](http://vocab.getty.edu/page/aat/300006179)
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "hedges" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "fountains" >}}
 
 ## Garden Description
 
@@ -96,10 +96,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Divodurum/Mettis](https://pleiades.stoa.org/places/108927)
+- {{< id vocab="Pleiades" id="108927" term="Divodurum/Mettis" >}}
 
 ## TGN ID
-[Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
+- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

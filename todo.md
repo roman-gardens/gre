@@ -140,6 +140,7 @@
 - People names -- when to include middle initial?
 - People links/pages for everyone, or just prominent contributors?
 - keywords like lucus, stagnum, textrina that are not proper AAT terms
+- "literary gardens" keyword okay, but do we really need "archaeological gardens"? (currently commented out in the relatively few articles that have it, but nearly all the gardens are arch.)
 
 # User forks
 

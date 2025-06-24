@@ -19,12 +19,12 @@ tags:
 ## Province
 
 [Italia]({{<relref "..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
 [Ostia]({{<relref ".">}}) \
-[Ostia](https://pleiades.stoa.org/places/422995)
+- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 
 ## Location Description
 
@@ -58,24 +58,24 @@ House of the Fortuna Annonaria
 
 ## Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [bucrania](http://vocab.getty.edu/page/aat/300030853)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [cornucopias (motifs)](http://vocab.getty.edu/page/aat/300303413)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [herms](http://vocab.getty.edu/page/aat/300047170)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [Neo-Attic](http://vocab.getty.edu/page/aat/300020212)
-- [niches](http://vocab.getty.edu/page/aat/300002704)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [opus listatum](#)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [puteals](http://vocab.getty.edu/page/aat/300443458)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [travertine](http://vocab.getty.edu/page/aat/300011329)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [water wells](http://vocab.getty.edu/page/aat/300152327)
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "bucrania" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "cornucopias (motifs)" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "herms" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "Neo-Attic" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "opus listatum" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "puteals" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "travertine" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "water wells" >}}
 
 ## Garden Description
 
@@ -126,12 +126,12 @@ unspecified
 
 ## Pleiades ID
 
-[Ostia](https://pleiades.stoa.org/places/422995)
+- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 <!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
 ## TGN ID
 
-[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
+- {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor

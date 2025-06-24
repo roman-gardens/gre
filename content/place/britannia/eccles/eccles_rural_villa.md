@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Eccles]({{<relref ".">}}) \
-[Eccles](https://pleiades.stoa.org/places/79448)
+- {{< id vocab="Pleiades" id="79448" term="Eccles" >}}
 
 <!--### Location Description-->
 
@@ -46,13 +46,13 @@ Rural Villa in Eccles
 
 ## Keywords
 
-- [archaeological gardens](#)
-- [ditches](http://vocab.getty.edu/page/aat/300006178)
-- [drains](http://vocab.getty.edu/page/aat/300052564)
-- [horticultural containers](http://vocab.getty.edu/page/aat/300198749)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
-- [water baths](http://vocab.getty.edu/page/aat/300248755)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "ditches" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "horticultural containers" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "water baths" >}}
 
 ## Garden Description
 
@@ -84,11 +84,11 @@ mid-1st to 4th century CE
 
 ## Pleiades ID
 
-[Eccles](https://pleiades.stoa.org/places/79448)
+- {{< id vocab="Pleiades" id="79448" term="Eccles" >}}
 
 ## TGN ID
 
-[Eccles (inhabited place)](http://vocab.getty.edu/page/tgn/1029144)
+- {{< id vocab="TGN" id="1029144" term="Eccles (inhabited place)" >}}
 
 ## Contributor
 

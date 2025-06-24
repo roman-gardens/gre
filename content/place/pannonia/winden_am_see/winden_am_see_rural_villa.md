@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Winden Am See]({{<relref ".">}}) \
-[Winden Am See](https://pleiades.stoa.org/places/197425)
+- {{< id vocab="Pleiades" id="197425" term="Winden Am See" >}}
 
 <!--### Location Description-->
 
@@ -47,11 +47,11 @@ Rural Villa in Winden Am See
 
 ## Keywords
 
-- [archaeological garden](#)
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
-- [rural villas](#)
-- [vestibules](http://vocab.getty.edu/page/aat/300083076)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "corridors" >}}
+- {{< keyword "rural villas" >}}
+- {{< keyword "vestibules" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -84,11 +84,11 @@ On the southeast of the house was a vestibule, from which a central corridor dep
 
 ## Pleiades ID
 
-[Pannonia](https://pleiades.stoa.org/places/197425)
+- {{< id vocab="Pleiades" id="197425" term="Pannonia" >}}
 
 ## TGN ID
 
-[Pannonia (general region)](http://vocab.getty.edu/page/tgn/4008442)
+- {{< id vocab="TGN" id="4008442" term="Pannonia (general region)" >}}
 
 ## Contributor
 

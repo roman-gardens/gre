@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Latimer]({{<relref ".">}}) \
-[Latimer](https://pleiades.stoa.org/places/79555)
+- {{< id vocab="Pleiades" id="79555" term="Latimer" >}}
 
 <!--### Location Description-->
 
@@ -46,12 +46,12 @@ Rural Villa in Latimer
 
 ## Keywords
 
-- [archaeological garden](#)
-- [fences (site elements)](http://vocab.getty.edu/page/aat/300005044)
-- [flower gardens](http://vocab.getty.edu/page/aat/300008135)
-- [orchards](http://vocab.getty.edu/page/aat/300008890)
-- [vegetable gardens](http://vocab.getty.edu/page/aat/300008142)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "fences (site elements)" >}}
+- {{< keyword "flower gardens" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "vegetable gardens" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -86,11 +86,11 @@ early 4th century CE - unspecified
 
 ## Pleiades ID
 
-[Latimer](https://pleiades.stoa.org/places/79555)
+- {{< id vocab="Pleiades" id="79555" term="Latimer" >}}
 
 ## TGN ID
 
-[Latimer (inhabited place)](http://vocab.getty.edu/page/tgn/1029792)
+- {{< id vocab="TGN" id="1029792" term="Latimer (inhabited place)" >}}
 
 ## Contributor
 

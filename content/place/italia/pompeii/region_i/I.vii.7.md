@@ -18,7 +18,7 @@ tags:
  - "cisterns (plumbing components)"
  - "columns (architectural elements)"
  - "lararia"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "porticoes"
  - "tables (support furniture)"
  - "triclinia (rooms)"
@@ -26,11 +26,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -43,15 +43,15 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 
-- [aedicules](http://vocab.getty.edu/page/aat/300002574)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "aedicules" >}}
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "tables (support furniture)" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Gardens
 
@@ -104,11 +104,11 @@ Excavated 1912 and 1924.
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

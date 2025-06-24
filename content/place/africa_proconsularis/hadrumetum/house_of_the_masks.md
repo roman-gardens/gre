@@ -19,7 +19,7 @@ tag:
 
 ## Province
 [Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis](https://pleiades.stoa.org/places/991341)
+- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -27,7 +27,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 [Hadrumetum (Sousse)]({{<relref ".">}}) \
-[Hadrumetum](https://pleiades.stoa.org/places/324716)
+- {{< id vocab="Pleiades" id="324716" term="Hadrumetum" >}}
 
 {{< image src="hadrumetum_city_plan.jpg" alt="Plan of Hadrumetum; rights statement" title="Fig. 1: Plan of Hadrumetum (Ghaddhab, R., 2016, P.182)" >}}
 
@@ -49,9 +49,9 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Masks (Maison des Masques)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [oecus cyzicenus](#)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "oecus cyzicenus" >}}
 <!-- [urban villas](#) -->
 
 ## Garden Description
@@ -87,10 +87,10 @@ The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Hadrumetum/Iustinianopolis](https://pleiades.stoa.org/places/324716)
+- {{< id vocab="Pleiades" id="324716" term="Hadrumetum/Iustinianopolis" >}}
 
 ## TGN ID
-[Sousse (inhabited place)](http://vocab.getty.edu/page/tgn/7015312)
+- {{< id vocab="TGN" id="7015312" term="Sousse (inhabited place)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

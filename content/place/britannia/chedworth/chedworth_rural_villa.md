@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Chedworth]({{<relref ".">}}) \
-[Chedworth](https://pleiades.stoa.org/places/79383)
+- {{< id vocab="Pleiades" id="79383" term="Chedworth" >}}
 
 <!--### Location Description-->
 
@@ -46,13 +46,13 @@ Rural Villa in Chedworth
 
 ## Keywords
 
-- [archaeological gardens](#)
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [bone (material)](http://vocab.getty.edu/page/aat/300011798)
-- [drains](http://vocab.getty.edu/page/aat/300052564)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [sherds](http://vocab.getty.edu/page/aat/300117132)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "balnea" >}}
+- {{< keyword "bone (material)" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "sherds" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -89,11 +89,11 @@ Late 19th century, 2000-2002
 
 ## Pleiades ID
 
-[Chedworth](https://pleiades.stoa.org/places/79383)
+- {{< id vocab="Pleiades" id="79383" term="Chedworth" >}}
 
 ## TGN ID
 
-[Chedworth Roman Villa (historic site)](http://vocab.getty.edu/page/tgn/7032560)
+- {{< id vocab="TGN" id="7032560" term="Chedworth Roman Villa (historic site)" >}}
 
 ## Contributor
 

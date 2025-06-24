@@ -17,7 +17,7 @@ categories:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 
 ## Location
@@ -39,9 +39,9 @@ IV
 Casa dell’Atrio a Mosaico
 
 ## Keywords
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [exedrae (interior spaces)](http://vocab.getty.edu/page/aat/300004014)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "porticoes" >}}
+- {{< keyword "exedrae (interior spaces)" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 541.IV.1-2
@@ -64,10 +64,10 @@ NEW WAY ↓↓↓↓
 <!--### Images-->
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 
 ## Dates

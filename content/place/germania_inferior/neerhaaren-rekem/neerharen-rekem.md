@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Neerhaaren-Rekem]({{<relref ".">}}) \
-[Neerhaaren-Rekem](https://pleiades.stoa.org/places/109193)
+- {{< id vocab="Pleiades" id="109193" term="Neerhaaren-Rekem" >}}
 
 <!--### Location Description-->
 
@@ -41,10 +41,10 @@ A sublocation is any area larger than an individual garden, but located within a
 Rural villa at Neerhaaren-Rekem
 
 ## Keywords- [rural villas](#) 
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518) 
-- [arbors](http://vocab.getty.edu/page/aat/300006781) 
-- [pergolas](http://vocab.getty.edu/page/aat/300006783) 
-- [piscinae](http://vocab.getty.edu/page/aat/300375619) 
+- {{< keyword "villae rusticae" >}} 
+- {{< keyword "arbors" >}} 
+- {{< keyword "pergolas" >}} 
+- {{< keyword "piscinae" >}} 
 
 
 ## Garden Description
@@ -80,7 +80,7 @@ Late first century CE
 
 ## Pleiades ID
 
-[Neerhaaren-Rekem](https://pleiades.stoa.org/places/109193)  
+- {{< id vocab="Pleiades" id="109193" term="Neerhaaren-Rekem" >}}  
 
 <!--#### TGN ID-->
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->

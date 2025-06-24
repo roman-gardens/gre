@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Carmona]({{<relref ".">}}) \
-[Carmona](https://pleiades.stoa.org/places/521700443)
+- {{< id vocab="Pleiades" id="521700443" term="Carmona" >}}
 
 ## Location Description
 
@@ -44,10 +44,10 @@ Elephant tomb
 
 ## Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "tombs" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 
 ## Garden Description
@@ -92,7 +92,7 @@ unspecified
 
 ## Pleiades ID
 [Elephant tomb at Carmona]{{<relref ".">}}) \
-[Elephant tomb at Carmona](https://pleiades.stoa.org/places/521700443)
+- {{< id vocab="Pleiades" id="521700443" term="Elephant tomb at Carmona" >}}
 
 ## TGN ID
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->

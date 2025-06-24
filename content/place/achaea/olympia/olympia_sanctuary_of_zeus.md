@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Olympia]({{<relref ".">}}) \
-[Olympia](https://pleiades.stoa.org/places/570531)
+- {{< id vocab="Pleiades" id="570531" term="Olympia" >}}
 
 <!--### Location Description-->
 
@@ -47,9 +47,9 @@ Sanctuary of Zeus
 
 ## Keywords
 
-- [Literary](#)
+- {{< keyword "literary gardens" >}}
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
-- [sacred groves](http://vocab.getty.edu/page/aat/300251876)
+- {{< keyword "sacred groves" >}}
 - [plane trees (*Platanus orientalis*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:685873-1)
 - [wild olives (*Olea oleaster*)](http://powo.science.kew.org/taxon/610760-1)
 
@@ -93,11 +93,11 @@ unspecified
 
 ## Pleiades ID
 
-[Temple of Zeus at Olympia](https://pleiades.stoa.org/places/316294900)
+- {{< id vocab="Pleiades" id="316294900" term="Temple of Zeus at Olympia" >}}
 
 ## TGN ID
 
-[Olympia (deserted settlement)](http://vocab.getty.edu/page/tgn/7011018)
+- {{< id vocab="TGN" id="7011018" term="Olympia (deserted settlement)" >}}
 
 ## Contributor
 

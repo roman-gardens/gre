@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Bad Kreuznach]({{<relref ".">}}) \
-[Bad Kreuznach](https://pleiades.stoa.org/places/981525)
+- {{< id vocab="Pleiades" id="981525" term="Bad Kreuznach" >}}
 
 <!--### Location Description-->
 
@@ -48,16 +48,16 @@ Rural Villa in Bad Kreuznach
 
 ## Keywords
 
-- [apsed triclinium](#)
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [cryptoportici](http://vocab.getty.edu/page/aat/300004295)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- {{< keyword "apsed triclinia" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "cryptoportici" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -99,11 +99,11 @@ Second half of 2nd century - around 275
 
 ## Pleiades ID
 
-[Germania Superior](https://pleiades.stoa.org/places/981525)
+- {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
 
 ## TGN ID
 
-[Bad Kreuznach (inhabited place)](http://vocab.getty.edu/page/tgn/7012371)
+- {{< id vocab="TGN" id="7012371" term="Bad Kreuznach (inhabited place)" >}}
 
 ## Contributor
 

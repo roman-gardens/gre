@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Gatcombe]({{<relref ".">}}) \
-[Gatcombe](https://pleiades.stoa.org/places/79477)
+- {{< id vocab="Pleiades" id="79477" term="Gatcombe" >}}
 
 <!--### Location Description-->
 
@@ -46,7 +46,7 @@ Rural Estate in Gatcombe
 
 ## Keywords
 
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- {{< keyword "villae rusticae" >}}
 
 
 ## Garden Description
@@ -80,11 +80,11 @@ ca. 280-380 CE
 
 ## Pleiades ID
 
-[Gatcombe](https://pleiades.stoa.org/places/79477)
+- {{< id vocab="Pleiades" id="79477" term="Gatcombe" >}}
 
 ## TGN ID
 
-[Gatcombe (inhabited place)](http://vocab.getty.edu/page/tgn/7026972)
+- {{< id vocab="TGN" id="7026972" term="Gatcombe (inhabited place)" >}}
 
 ## Contributor
 

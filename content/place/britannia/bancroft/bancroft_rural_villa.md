@@ -45,13 +45,13 @@ Rural Villa in Bancroft
 
 ## Keywords
 
-- [archaeological gardens](#)
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [drains](http://vocab.getty.edu/page/aat/300052564)
-- [gazebos](http://vocab.getty.edu/page/aat/300006798)
-- [horticultural containers](http://vocab.getty.edu/page/aat/300198749)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "balnea" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "gazebos" >}}
+- {{< keyword "horticultural containers" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -88,10 +88,10 @@ late 3rd century CE, rebuilt and enlarged in the mid-4th century
 
 ## Pleiades ID
 
-[Bancroft Roman villa](https://pleiades.stoa.org/places/79312)
+- {{< id vocab="Pleiades" id="79312" term="Bancroft Roman villa" >}}
 
 ## TGN ID
-[Britannia (province)](http://vocab.getty.edu/page/tgn/7030316)
+- {{< id vocab="TGN" id="7030316" term="Britannia (province)" >}}
 
 ## Contributor
 

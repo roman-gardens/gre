@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Orbe]({{<relref ".">}}) \
-[Orbe](https://pleiades.stoa.org/places/177598)
+- {{< id vocab="Pleiades" id="177598" term="Orbe" >}}
 
 <!--### Location Description-->
 
@@ -50,9 +50,9 @@ Rural Villa in Orbe
 
 archaeological garden \
 
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
-- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- {{< keyword "corridors" >}}
+- {{< keyword "terrace gardens" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -91,11 +91,11 @@ House: mid-1st century CE - 4th century
 
 ## Pleiades ID
 
-[Orbe Gallo-Roman Villa](https://pleiades.stoa.org/places/177598)
+- {{< id vocab="Pleiades" id="177598" term="Orbe Gallo-Roman Villa" >}}
 
 ## TGN ID
 
-[Orbe (inhabited place)](http://vocab.getty.edu/page/tgn/7007438)
+- {{< id vocab="TGN" id="7007438" term="Orbe (inhabited place)" >}}
 
 ## Contributor
 

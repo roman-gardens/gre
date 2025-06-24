@@ -13,19 +13,19 @@ tags:
  - "columns (architectural elements)"
  - "domus"
  - "lararia"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "tesserae"
 ---
 
 ## Province
 
 [Italia]({{<relref "..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
 [Ostia]({{<relref ".">}}) \
-[Ostia](https://pleiades.stoa.org/places/422995)
+- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 
 ## Location Description
 
@@ -56,23 +56,23 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 ## Garden
 
 House of the Thunderbolt (Domus Fulminata) \
-[House of the Thunderbolt](https://pleiades.stoa.org/places/1554484)
+- {{< id vocab="Pleiades" id="1554484" term="House of the Thunderbolt" >}}
 
 ## Keywords
 
-- [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
-- [biclinia](http://vocab.getty.edu/page/aat/300170371)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [Flavian](http://vocab.getty.edu/page/aat/300020551)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [klinai](http://vocab.getty.edu/page/aat/300375544)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [polychrome](http://vocab.getty.edu/page/aat/300252261)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [Republican](http://vocab.getty.edu/page/aat/300020537)
-- [tesserae](http://vocab.getty.edu/page/aat/300010730)
+- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "biclinia" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "Flavian" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "klinai" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "polychrome" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "Republican" >}}
+- {{< keyword "tesserae" >}}
 
 ## Garden Description
 
@@ -118,11 +118,11 @@ The house is one of the most interesting examples of the transition from the atr
 
 ## Pleiades ID
 
-[House of the Thunderbolt](https://pleiades.stoa.org/places/1554484)
+- {{< id vocab="Pleiades" id="1554484" term="House of the Thunderbolt" >}}
 
 ## TGN ID
 
-[Ostia Antica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007018)
+- {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor

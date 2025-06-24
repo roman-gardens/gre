@@ -26,7 +26,7 @@ An irrigation system based around the qanat, an underground water channel, was u
 ## Location
 
 [Antioch]({{<relref ".">}}) \
-[Antioch](https://pleiades.stoa.org/places/658381)
+- {{< id vocab="Pleiades" id="658381" term="Antioch" >}}
 
 <!--### Location Description-->
 
@@ -43,7 +43,7 @@ Antioch on the Orontes was founded by the Macedonian general Seleucus I as the c
 Sacred Grove at Daphne
 
 ## Keywords
-- [sacred groves](http://vocab.getty.edu/page/aat/300251876)
+- {{< keyword "sacred groves" >}}
 
 ## Garden Description
 Antioch was most famous for its public gardens, such as the sacred grove of Daphne in the precinct of Apollo.  The sanctuary was described by Strabo as a “large, thickly shaded grove intersected by fountain streams in the midst of which there is an asylum precinct and a temple of Apollo and Artemis” (16.2.6). This impression is reinforced in the lecture given in 360 CE by Libanius who praises Daphne for “the number and thickness and height of the cypresses, the shady paths, the choruses of singing birds, the even breeze, the odors sweeter than spices, the stately aqueducts, the vines trained to form banqueting hall – these are the gardens of Alcinous…a veritable Sybaris” (Lib. Or. 11.236).
@@ -84,10 +84,10 @@ Hellenistic
 
 ## Pleiades ID
 
-[Antiochia/Theoupolis](https://pleiades.stoa.org/places/658381)
+- {{< id vocab="Pleiades" id="658381" term="Antiochia/Theoupolis" >}}
 
 ## TGN ID
-[Antioch (deserted settlement)](http://vocab.getty.edu/page/tgn/7002354)
+- {{< id vocab="TGN" id="7002354" term="Antioch (deserted settlement)" >}}
 
 ## Contributor
 [Christine Kondoleon](#) and [Elizabeth Macaulay-Lewis](#)

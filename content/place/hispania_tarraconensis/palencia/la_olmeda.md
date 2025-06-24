@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Palencia]({{<relref "../../../..">}})
-[Palencia](https://pleiades.stoa.org/places/236591)
+- {{< id vocab="Pleiades" id="236591" term="Palencia" >}}
 
 <!--### Province Description-->
 
@@ -24,7 +24,7 @@ categories:
 ## Location
 
 [PEDROSA DE LA VEGA]({{<relref ".">}}) \
-[La Olmeda](https://pleiades.stoa.org/places/236579)
+- {{< id vocab="Pleiades" id="236579" term="La Olmeda" >}}
 
 ## Location Description
 The size, quality, and excellent state of preservation of the mosaics of this villa make it an arehaeological jewel.  In an area known since the Middle Ages as La Olmeda (the Elm Grove), it was discovered in 1968 by Javier Cortes, the owner of the land, as he was about to level the area for an irrigation project.  He immediately recognized its value and involved Pedro de Paloa, a professional archaeologist. Its scientific exploration was financed by Cortes until the site was given to the provincial government  in 1980.  Excavation continued to 1986.  Great care has been taken to preserve the mosaics and lower parts of the villa walls in their original place.  In 2005, construction began on a new, 6.2 million euro protective shell and facility to accommodate some 40,000 visitors a year.  The Museo Monográfico de la Villa de Pedrosa de la Vega has been created in the old chuch of San Pedro in Saldaña to display the many tools, coins, ceramics, glass and other daily objects from the villa and the extensive nearby cemeteries.  
@@ -47,9 +47,9 @@ A sublocation is any area larger than an individual garden, but located within a
 La Olmeda  
 
 ## Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [corridors](http://vocab.getty.edu/page/aat/300004294)
+- {{< keyword "peristyles" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "corridors" >}}
 
 ## Garden Description
 The major building period dated to the beginning of the 4th century, supplanting an earlier late 1st century phase.. The peristyle garden belonged to the later phase.  The house is laid out around its central garden with approximate symmetry relative its north-south axis.  The front of the house, the side from which guests entered, was clearly the south where the entry way [25] had a geometric mosaic floor whereas the north entrance way [7] had an earthen floor.  Immediately on entry, the guest would have seen the garden through an arcade on its south side.  These nine semicircular arches formed a sort of interior façade.  This arcade had fallen over – or been pushed pulled over – in the destruction of the house, so it has been possible to reconstruct it in elevation, and it has been rebuilt.  The Romans made extensive use of the round arch for practical purposes; this is an interesting example of its use for purely esthetic purposes, since a simple colonnade would have served just as well structurally.
@@ -87,7 +87,7 @@ The large number of objects of daily life found in the ruins, some under toppled
 
 ## Pleiades ID
 
-[La Olmeda](https://pleiades.stoa.org/places/236579)
+- {{< id vocab="Pleiades" id="236579" term="La Olmeda" >}}
 
 
 <!--### Contributor-->

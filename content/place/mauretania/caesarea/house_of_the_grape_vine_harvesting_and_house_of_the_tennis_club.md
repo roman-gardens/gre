@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Mauretania]({{<relref "..">}}) \
-[Mauretania Caesariensis](https://pleiades.stoa.org/places/981532)
+- {{< id vocab="Pleiades" id="981532" term="Mauretania Caesariensis" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 [Caesarea]({{<relref ".">}}) \
-[Iol Caesarea](https://pleiades.stoa.org/places/295279)
+- {{< id vocab="Pleiades" id="295279" term="Iol Caesarea" >}}
 
 ## Location Description
 
@@ -44,10 +44,10 @@ House of the Grape Vine Harvesting and House of the Tennis Club (Maison des Vend
 
 ## Keywords
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [basin](#)
-- [pools (bodies of water)](http://vocab.getty.edu/page/aat/300008692)
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "pools" >}}
 
 ## Garden Description
 
@@ -76,7 +76,7 @@ The western dwelling was organized around a narrow peristyle garden, 8.5 by 16.5
 ## Pleiades ID
 
 <!-- broken link
-[125904443](https://pleiades.stoa.org/places/125904443)
+- {{< id vocab="Pleiades" id="125904443" term="125904443" >}}
 -->
 
 ## TGN ID

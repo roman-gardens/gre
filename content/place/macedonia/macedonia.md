@@ -43,11 +43,11 @@ categories:
 ## Pleiades ID
 
 [Macedonia (Roman province)]({{<relref ".">}}) \
-[Macedonia (Roman province)](https://pleiades.stoa.org/places/981531)
+- {{< id vocab="Pleiades" id="981531" term="Macedonia (Roman province)" >}}
 
 ## TGN ID
 
-[Macedonia (former nation/state/empire)](http://vocab.getty.edu/page/tgn/7001349)
+- {{< id vocab="TGN" id="7001349" term="Macedonia (former nation/state/empire)" >}}
 
 ## Contributor
 

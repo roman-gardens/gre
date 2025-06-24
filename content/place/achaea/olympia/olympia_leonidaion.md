@@ -26,7 +26,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 
 [Olympia]({{<relref ".">}}) \
-[Olympia](https://pleiades.stoa.org/places/570531)
+- {{< id vocab="Pleiades" id="570531" term="Olympia" >}}
 
 <!--### Location Description-->
 
@@ -48,10 +48,10 @@ Leonidaion
 
 ## Keywords
 
-- [Archaeological](#)
-- [artificial water channels](http://vocab.getty.edu/page/aat/300133792)
-- [planting beds](http://vocab.getty.edu/page/aat/300430426)
-- [quatrefoils](http://vocab.getty.edu/page/aat/300009784)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "artificial water channels" >}}
+- {{< keyword "planting beds" >}}
+- {{< keyword "quatrefoils" >}}
 
 
 ## Garden Description
@@ -99,11 +99,11 @@ NEW WAY ↓↓↓↓
 
 ## Pleiades ID
 
-[Olympia](https://pleiades.stoa.org/places/570531)
+- {{< id vocab="Pleiades" id="570531" term="Olympia" >}}
 
 ## TGN ID
 
-[Olympia (deserted settlement)](http://vocab.getty.edu/page/tgn/7011018)
+- {{< id vocab="TGN" id="7011018" term="Olympia (deserted settlement)" >}}
 
 ## Contributor
 

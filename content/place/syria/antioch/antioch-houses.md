@@ -19,7 +19,7 @@ categories:
 ## Location
 
 [Antioch]({{<relref ".">}})
-[Antioch](https://pleiades.stoa.org/places/658381)
+- {{< id vocab="Pleiades" id="658381" term="Antioch" >}}
 
 <!--### Location Description-->
 
@@ -36,11 +36,11 @@ Antioch on the Orontes was founded by the Macedonian general Seleucus I as the c
 Private Houses at Antioch
 
 ## Keywords
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [water features (landscaping)](http://vocab.getty.edu/page/aat/300180674)
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "water features (landscaping)" >}}
 
 ## Garden Description
 The most significant finds from the international excavations conducted from 1932 to 1939 were the many houses built in and around the city center, on the surrounding terraces of the mountain slopes, in the suburb of Daphne, and in the port of Seleucia Pieria. Scores of floor mosaics dating from the second to the sixth centuries CE paved these houses and brought the private lives of the elite into focus. Although no gardens have been excavated in Antioch, the examination of the figural mosaics, statuary, and the fragmentary remains of house plans suggest that there were private gardens.
@@ -81,10 +81,10 @@ second to the sixth centuries CE
 
 ## Pleiades ID
 
-[Antiochia/Theoupolis](https://pleiades.stoa.org/places/658381)
+- {{< id vocab="Pleiades" id="658381" term="Antiochia/Theoupolis" >}}
 
 ## TGN ID
-[Antioch (deserted settlement)](http://vocab.getty.edu/page/tgn/7002354)
+- {{< id vocab="TGN" id="7002354" term="Antioch (deserted settlement)" >}}
 
 ## Contributor
 [Christine Kondoleon](#) and [Elizabeth Macaulay-Lewis](#)

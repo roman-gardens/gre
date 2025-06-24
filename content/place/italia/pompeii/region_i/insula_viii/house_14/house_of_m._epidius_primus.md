@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Sublocation
 
@@ -44,11 +44,11 @@ House of M. Epidius Primus (I.viii.14)
 
 ## Keywords
 
-- [archaeological garden](#)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [viridarium](#)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "viridarium" >}}
 
 ## Garden Description
 
@@ -93,11 +93,11 @@ unspecified
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

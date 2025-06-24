@@ -19,7 +19,7 @@ categories:
 ## Location
 -- missing in Pleiades --
 [VINDINUM a.k.a. Subdinnum (Le Mans, France)]({{<relref ".">}}) \
-[VINDINUM a.k.a. Subdinnum](https://pleiades.stoa.org/places/109236)
+- {{< id vocab="Pleiades" id="109236" term="VINDINUM a.k.a. Subdinnum" >}}
 
 <!--### Location Description-->
 
@@ -40,8 +40,8 @@ On the left bank of the Sarthe, where it is joined by the Isaac creek, the Roman
 House on the Place des Halles (La maison des Halles)
 
 ## Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- {{< keyword "domus" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
 
 
 ## Garden Description
@@ -83,10 +83,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Ouindinon/Subdinnum](https://pleiades.stoa.org/places/109236)
+- {{< id vocab="Pleiades" id="109236" term="Ouindinon/Subdinnum" >}}
 
 ## TGN ID
-[Gallia Lugdunensis (province)](http://vocab.getty.edu/page/tgn/6003548)
+- {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

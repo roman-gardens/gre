@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [FLIESSEM-OTRANG  (Germany)]({{<relref ".">}}) \
-[FLIESSEM-OTRANG ](https://pleiades.stoa.org/places/108982)
+- {{< id vocab="Pleiades" id="108982" term="FLIESSEM-OTRANG " >}}
 
 <!--### Location Description-->
 
@@ -39,10 +39,10 @@ A sublocation is any area larger than an individual garden, but located within a
 Rural Villa
 
 ## Keywords
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
 
 ## Garden Description
 
@@ -74,9 +74,9 @@ None Available
 Unspecified
 
 ## Bibliography
-- H. Mylius, "Die Rekonstruktion der römischen Villen von Nennig und Fliessem," Bonner Jahrbuch 129, 1924:120-128, fig. 3, pl. 7; E. M. Wightman, Roman Trier and the Treveri, London, 1970, pp. 143-145, fig. 15; H. Cüppers, ed., Die Römer in Rheinland-Pfalz, Stuttgart,1990, pp. 367-371, figs. 264-265. [(worldcat)] (http://www.worldcat.org/oclc/1075378207)
-- E. M. Wightman, Roman Trier and the Treveri, London, 1970, pp. 143-145, fig. 15 [(worldcat)] (http://www.worldcat.org/oclc/1001859813)
-- H. Cüppers, ed., Die Römer in Rheinland-Pfalz, Stuttgart,1990, pp. 367-371, figs. 264-265. [(worldcat)] (http://www.worldcat.org/oclc/924024101)
+- H. Mylius, "Die Rekonstruktion der römischen Villen von Nennig und Fliessem," Bonner Jahrbuch 129, 1924:120-128, fig. 3, pl. 7; E. M. Wightman, Roman Trier and the Treveri, London, 1970, pp. 143-145, fig. 15; H. Cüppers, ed., Die Römer in Rheinland-Pfalz, Stuttgart,1990, pp. 367-371, figs. 264-265. [(worldcat)](http://www.worldcat.org/oclc/1075378207)
+- E. M. Wightman, Roman Trier and the Treveri, London, 1970, pp. 143-145, fig. 15 [(worldcat)](http://www.worldcat.org/oclc/1001859813)
+- H. Cüppers, ed., Die Römer in Rheinland-Pfalz, Stuttgart,1990, pp. 367-371, figs. 264-265. [(worldcat)](http://www.worldcat.org/oclc/924024101)
 
 <!--#### Periodo ID-->
 
@@ -84,10 +84,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Römische Villa Otrang](https://pleiades.stoa.org/places/108982)
+- {{< id vocab="Pleiades" id="108982" term="Römische Villa Otrang" >}}
 
 ## TGN ID
-[Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
+- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

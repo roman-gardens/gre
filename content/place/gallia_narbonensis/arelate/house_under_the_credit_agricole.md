@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 
 [Arelate]({{<relref ".">}}) \
-[Arelate](https://pleiades.stoa.org/places/148217)
+- {{< id vocab="Pleiades" id="148217" term="Arelate" >}}
 
 ## Location Description
 
@@ -50,11 +50,11 @@ House under the Crédit Agricole
 
 ## Keywords
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "domus" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 
 
@@ -83,13 +83,13 @@ After original finds in 1979, further vestiges of a domus came to light during s
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
-[Tolosa](https://pleiades.stoa.org/places/246694)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
+- {{< id vocab="Pleiades" id="246694" term="Tolosa" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Arles (inhabited place)](http://vocab.getty.edu/page/tgn/7008775)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7008775" term="Arles (inhabited place)" >}}
 
 ## Contributor
 

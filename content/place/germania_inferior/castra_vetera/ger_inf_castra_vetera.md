@@ -23,7 +23,7 @@ categories:
 ## Location
 
 [Castra Vetera]({{<relref ".">}}) \
-[Castra Vetera](https://pleiades.stoa.org/places/108867)
+- {{< id vocab="Pleiades" id="108867" term="Castra Vetera" >}}
 
 <!--### Location Description-->
 
@@ -46,12 +46,12 @@ Legionary houses at Castra Vetera (Germania inferior)
 
 ## Keywords
 
-- [castra](http://vocab.getty.edu/page/aat/300008440)
-- [praetoriums](http://vocab.getty.edu/page/aat/300005636)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [tablina](http://vocab.getty.edu/page/aat/300004180)
-- [pedestals](http://vocab.getty.edu/page/aat/300001744)
+- {{< keyword "castra" >}}
+- {{< keyword "praetoriums" >}}
+- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "pedestals" >}}
 - [Pliny the Younger](https://catalog.perseus.org/catalog/urn:cts:latinLit:phi1318)
 
 ## Garden Description
@@ -96,11 +96,11 @@ Unspecified
 
 ## Pleiades ID
 
-[Castra Vetera](https://pleiades.stoa.org/places/108867)
+- {{< id vocab="Pleiades" id="108867" term="Castra Vetera" >}}
 
 ## TGN ID
 
-[Vetera Castra (deserted settlement)](http://vocab.getty.edu/page/tgn/7004944)
+- {{< id vocab="TGN" id="7004944" term="Vetera Castra (deserted settlement)" >}}
 
 ## Contributor
 

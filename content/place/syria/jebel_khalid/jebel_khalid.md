@@ -26,7 +26,7 @@ An irrigation system based around the qanat, an underground water channel, was u
 ## Location
 
 [Jebel Khalid]({{<relref ".">}}) \
-[Jebel Khalid](https://pleiades.stoa.org/places/481573620)
+- {{< id vocab="Pleiades" id="481573620" term="Jebel Khalid" >}}
 
 <!--### Location Description-->
 
@@ -45,12 +45,12 @@ While the general settlement of Jebel Khalid appears to have been systematically
 Acropolis Palace at Jebel Khalid
 
 ## Keywords
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [palaces](http://vocab.getty.edu/page/aat/300005734)
-- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
-- [trenches](http://vocab.getty.edu/page/aat/300008022)
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "terrace gardens" >}}
+- {{< keyword "trenches" >}}
 
 ## Garden Description
 It is apparent that there was once a large limestone outcrop within the Acropolis at the highest point of the Jebel range, providing panoramic views of the Euphrates valley (figs. 3 and 4: overall plan of the site and ground plan of Acropolis palace). This outcrop was quarried to a rough level terrace, leaving a rocky bluff (and evident quarry face) on the western side, against which a stout retaining wall was built, also serving as the exterior western wall of the building.  Nowhere, even in foundation trenches, is there any trace of previous occupation. This building was laid out on a virgin site, or the initial quarrying operations totally cleared away any vestige of any earlier habitation. The coin and stamped amphora handle evidence confirms a third-century BCE construction date.
@@ -107,7 +107,7 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Acropolis palace at Jebel Khalid](https://pleiades.stoa.org/places/167649937)
+- {{< id vocab="Pleiades" id="167649937" term="Acropolis palace at Jebel Khalid" >}}
 
 ## TGN ID
 [#](#)

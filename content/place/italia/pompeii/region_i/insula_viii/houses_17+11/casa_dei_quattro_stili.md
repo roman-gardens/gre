@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [Pompeii]({{<relref "../../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Sublocation
 
@@ -44,12 +44,12 @@ Casa dei Quattro Stili; House of L.V.P. (I.viii.17/11)
 
 ## Keywords
 
-- [archaeological garden](#)
-- [inscription](#)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [pillars](http://vocab.getty.edu/page/aat/300264605)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [roofing tile](http://vocab.getty.edu/page/aat/300010699)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "inscription" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "roofing tile" >}}
 
 ## Garden Description
 
@@ -93,11 +93,11 @@ unspecified
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

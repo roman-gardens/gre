@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Italica]({{<relref ".">}}) \
-[Italica](https://pleiades.stoa.org/places/256231)
+- {{< id vocab="Pleiades" id="256231" term="Italica" >}}
 
 ## Location Description
 
@@ -37,9 +37,9 @@ Collegium
 
 ## Keywords
 
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [pillars](http://vocab.getty.edu/page/aat/300264605)
-- [pilasters](http://vocab.getty.edu/page/aat/300002737)
+- {{< keyword "peristyles" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "pilasters" >}}
 
 
 
@@ -75,10 +75,10 @@ unspecified
 
 ## Pleiades ID
 [Collegium at Italica]{{<relref ".">}}) \
-[Collegium at Italica](https://pleiades.stoa.org/places/810966696)
+- {{< id vocab="Pleiades" id="810966696" term="Collegium at Italica" >}}
 
 ## TGN ID
-[Itálica (deserted settlement)](http://vocab.getty.edu/page/tgn/7007822)
+- {{< id vocab="TGN" id="7007822" term="Itálica (deserted settlement)" >}}
 
 ## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

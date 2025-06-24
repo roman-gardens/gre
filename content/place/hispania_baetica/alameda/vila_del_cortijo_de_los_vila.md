@@ -24,7 +24,7 @@ categories:
 ## Location
 
 [Alameda]({{<relref ".">}}) \
-[Alameda](https://pleiades.stoa.org/places/270382)
+- {{< id vocab="Pleiades" id="270382" term="Alameda" >}}
 
 ## Location Description
 
@@ -47,10 +47,10 @@ Villa del Cortijo de los Vila
 
 ## Keywords
 
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
+- {{< keyword "fountains" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "statuettes (free-standing sculpture)" >}}
 <!-- - [Priapus](#) -->
 
 
@@ -91,11 +91,11 @@ unspecified
 ## Pleiades ID
 
 [Villa del Cortijo de los Vila at Alameda]({{<relref ".">}}) \
-[Villa del Cortijo de los Vila at Alameda](https://pleiades.stoa.org/places/521700444)
+- {{< id vocab="Pleiades" id="521700444" term="Villa del Cortijo de los Vila at Alameda" >}}
 
 ## TGN ID
 
-[Alameda (inhabited place)](http://vocab.getty.edu/page/tgn/1061700)
+- {{< id vocab="TGN" id="1061700" term="Alameda (inhabited place)" >}}
 
 ## Contributor
 

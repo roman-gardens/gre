@@ -25,7 +25,7 @@ tags:
 ## Location
 
 [Gorhambury]({{<relref ".">}}) \
-[Gorhambury](https://pleiades.stoa.org/places/79485)
+- {{< id vocab="Pleiades" id="79485" term="Gorhambury" >}}
 
 <!--### Location Description-->
 
@@ -48,10 +48,10 @@ Rural Villa in Gorhambury
 
 ## Keywords
 
-- [arbors](http://vocab.getty.edu/page/aat/300006781)
-- [axial plan](http://vocab.getty.edu/page/aat/300121971)
-- [loam](http://vocab.getty.edu/page/aat/300014335)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+- {{< keyword "arbors" >}}
+- {{< keyword "axial plan" >}}
+- {{< keyword "loam" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -86,11 +86,11 @@ around A.D. 100 - 175
 
 ## Pleiades ID
 
-[Gorhambury Ancient Site](https://pleiades.stoa.org/places/79485)
+- {{< id vocab="Pleiades" id="79485" term="Gorhambury Ancient Site" >}}
 
 ## TGN ID
 
-[Britannia (province)](http://vocab.getty.edu/page/tgn/7030316)
+- {{< id vocab="TGN" id="7030316" term="Britannia (province)" >}}
 
 ## Contributor
 

@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-[Lusitania](https://pleiades.stoa.org/places/1101)
+- {{< id vocab="Pleiades" id="1101" term="Lusitania" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 [Vila de Frades]({{<relref ".">}}) \
-[OS. Cucufate](https://pleiades.stoa.org/places/256422)
+- {{< id vocab="Pleiades" id="256422" term="OS. Cucufate" >}}
 
 <!--### Location Description-->
 
@@ -47,8 +47,8 @@ A sublocation is any area larger than an individual garden, but located within a
 Villa Sao Cucufate
 
 ## Keywords
-- [tablina](http://vocab.getty.edu/page/aat/300004180)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- {{< keyword "tablina" >}}
+- {{< keyword "peristyles" >}}
 
 ## Garden Description
 This villa, which lies southeast of Lisbon, had multiple construction phases, investigated by J. Alarcão, R. Etienne, and F. Mayet.  The key to distinguishing the first villa from the second turned out to be that the first was made of granite without mortar, while the second was built of schist.  It was a modest structure with a patio [Fig. 1, 7], quite possibly an informal garden, surrounded on two sides by galleries [6]. Rooms [3], [4], and [5] were the family's living quarters. Half-buried jars made clear that room [10] was a storeroom, presumably for grain, oil, and wine.  Dating this phase is uncertain; some terra sigillata suggests a date in the mid 1st century.
@@ -91,7 +91,7 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 
 ## Pleiades ID
 
-[S. Cucufate](https://pleiades.stoa.org/places/256422)
+- {{< id vocab="Pleiades" id="256422" term="S. Cucufate" >}}
 
 
 <!--### Contributor-->

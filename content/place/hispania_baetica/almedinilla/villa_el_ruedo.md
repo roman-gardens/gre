@@ -24,7 +24,7 @@ categories:
 ## Location
 
 [Almedinilla]({{<relref ".">}}) \
-[Almedinilla](https://pleiades.stoa.org/places/266015)
+- {{< id vocab="Pleiades" id="266015" term="Almedinilla" >}}
 
 ## Location Description
 
@@ -45,13 +45,13 @@ Villa el Ruedo
 
 ## Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [orchards](http://vocab.getty.edu/page/aat/300008890)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [reservoirs (water distribution structures)](http://vocab.getty.edu/page/aat/300006191)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "reservoirs (water distribution structures)" >}}
+- {{< keyword "triclinia (rooms)" >}}
 <!-- [nymphaeaum]-->
 <!-- [kiln]-->
 
@@ -107,11 +107,11 @@ unspecified
 ## Pleiades ID
 
 [El Ruedo]({{<relref ".">}}) \
-[El Ruedo](https://pleiades.stoa.org/places/266015)
+- {{< id vocab="Pleiades" id="266015" term="El Ruedo" >}}
 
 ## TGN ID
 
-[Almedinilla (inhabited place)](http://vocab.getty.edu/page/tgn/4000563)
+- {{< id vocab="TGN" id="4000563" term="Almedinilla (inhabited place)" >}}
 
 ## Contributor
 

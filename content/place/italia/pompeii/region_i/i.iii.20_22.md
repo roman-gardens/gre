@@ -13,19 +13,19 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "doliums"
+ - "dolia"
  - "gutters (building drainage components)"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "triclinia (rooms)"
 ---
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -37,10 +37,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref "#">}})
 
 ## Keywords
-- [doliums](http://vocab.getty.edu/page/aat/300400601)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "dolia" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden
 Garden to the rear of a domestic property and joined to a *thermopolium*.
@@ -68,7 +68,7 @@ At the rear of this house there was a garden with a passageway on the north and 
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 Excavated 1868.

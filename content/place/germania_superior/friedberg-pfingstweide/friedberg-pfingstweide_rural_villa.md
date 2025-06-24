@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Friedberg Pfingstweide]({{<relref ".">}}) \
-[Friedberg Pfingstweide](https://pleiades.stoa.org/places/981525)
+- {{< id vocab="Pleiades" id="981525" term="Friedberg Pfingstweide" >}}
 
 <!--### Location Description-->
 
@@ -48,9 +48,9 @@ Rural Villa in Friedberg Pfingstweide
 
 ## Keywords
 
-- [archaeological garden](#)
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [villae rusticae](http://vocab.getty.edu/page/aat/300005518)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "balnea" >}}
+- {{< keyword "villae rusticae" >}}
 
 ## Garden Description
 
@@ -88,11 +88,11 @@ Early 2nd century - first half of 3rd century
 
 ## Pleiades ID
 
-[Germania Superior](https://pleiades.stoa.org/places/981525)
+- {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
 
 ## TGN ID
 
-[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
+- {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
 
 ## Contributor
 

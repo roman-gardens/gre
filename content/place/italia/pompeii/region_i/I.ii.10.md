@@ -22,11 +22,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -38,12 +38,12 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "#">}})
 
 ## Keywords
-- [aedicules](http://vocab.getty.edu/page/aat/300002574)
-- [biclinia](http://vocab.getty.edu/page/aat/300170371)
-- [drains](http://vocab.getty.edu/page/aat/300052564)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
-- [pools](http://vocab.getty.edu/page/aat/300008692)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "aedicules" >}}
+- {{< keyword "biclinia" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden
 Garden at the rear of the House of L. Vousius Faustus and M. Volusius Faustus.
@@ -74,7 +74,7 @@ Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 11
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 Excavated 1873. Bombed in 1943.

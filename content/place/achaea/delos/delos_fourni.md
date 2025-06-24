@@ -48,7 +48,7 @@ The core building of the **House of Fourni** is arranged along a main axis with 
 - {{< keyword "impluvia" >}}
 - {{< keyword "nymphaea (garden structures)" >}}
 - {{< keyword "oeci" >}}
-- {{< keyword "peristyles (Roman courtyards)" >}}
+- {{< keyword "peristyles" >}}
 
 <!--
 ## Places

@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Asia]({{<relref "..">}}) \
-[Asia](https://pleiades.stoa.org/places/981509)
+- {{< id vocab="Pleiades" id="981509" term="Asia" >}}
 
 ## Province description
 The region of what is now modern Turkey became a part of the Roman Empire in 133 B.C. when king Attalos III of Pergamum bequeathed his kingdom to the Roman people.  The province included the heartland of the Pergamene kingdom as well as the territories of Mysia, Lydia, Ionia, Caria, western Phrygia and the eastern Aegean islands.  Under Augustus in 27 B.C. Asia was declared a senatorial province and the governance of a proconsul.  The capital of the province was Ephesos, although Pergamon may have fulfilled this role initially.  Under Diocletian (284-305 A.D.) the province was subdivided into smaller administrative units: Hellespontus, Asia, Lydia, Caria, Phrygia I and Phrygia II.  Due to its excellent harbors on the west coast and its many navigable rivers, Asia’s water-borne trade with the rest of the Mediterranean flourished.  In the second century A.D. Asia experienced great prosperity, to which the growth and architectural aggrandizement of many of its cities attest. In the area of Kibyra, bordering the regions of Lycia, Caria, Phrygia and Pisidia, numerous inscriptions refer to the large imperial estates of Roman families.  Woolen textiles, marble, and timber constituted a significant part of the commodities exported from the province.  
@@ -34,7 +34,7 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 
 ## Location
 
-[EPHESOS (Efes, Turkey)](https://pleiades.stoa.org/places/599612)
+- {{< id vocab="Pleiades" id="599612" term="EPHESOS (Efes, Turkey)" >}}
 
 ## Location Description
 Remains of gardens have yet to be discovered in this city, but an appreciation for garden culture is seen in the Terrace Houses, dating to the second and third centuries A.D., where wall paintings not only depict gardens, but use garden images to create the illustionistic experience of being in the space of garden.
@@ -56,8 +56,8 @@ Tomb Garden and Orchard of Aphrodisios and Flavia
 
 ## Keywords
 
-- [stele](http://vocab.getty.edu/page/aat/300007023)
-- [sarcophagi (coffins)](http://vocab.getty.edu/page/aat/300005947)
+- {{< keyword "stelae" >}}
+- {{< keyword "sarcophagi (coffins)" >}}
 - pvmãrin <!-- What is this? -CDC -->
 - pomarium
 - tomb monuments
@@ -101,10 +101,10 @@ According to a secondary inscription carved horizontally, perhaps in the third c
 
 ## Pleiades ID
 
-[Ephesus/Arsinoe(ia)](https://pleiades.stoa.org/places/599612)
+- {{< id vocab="Pleiades" id="599612" term="Ephesus/Arsinoe(ia)" >}}
 
 ## TGN ID
-[Caria (former nation/state/empire)](http://vocab.getty.edu/page/tgn/7002358)
+- {{< id vocab="TGN" id="7002358" term="Caria (former nation/state/empire)" >}}
 
 ## Contributor
 [John Bodel](link) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))

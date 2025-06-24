@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Aventicum]({{<relref ".">}}) \
-[Aventicum](https://pleiades.stoa.org/places/177495)
+- {{< id vocab="Pleiades" id="177495" term="Aventicum" >}}
 
 ## Location Description
 
@@ -48,9 +48,9 @@ House in Insula 16 in Aventicum
 
 ## Keywords
 
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [insulae](http://vocab.getty.edu/page/aat/300000325)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- {{< keyword "colonnades" >}}
+- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "peristyles" >}}
 
 ## Garden Description
 
@@ -89,11 +89,11 @@ AD 71
 
 ## Pleiades ID
 
-[Aventicum](https://pleiades.stoa.org/places/177495)
+- {{< id vocab="Pleiades" id="177495" term="Aventicum" >}}
 
 ## TGN ID
 
-[Germania Superior (province)](http://vocab.getty.edu/page/tgn/6002235)
+- {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
 
 ## Contributor
 

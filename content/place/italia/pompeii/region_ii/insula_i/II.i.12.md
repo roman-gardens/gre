@@ -17,7 +17,7 @@ tags:
  - "cisterns (plumbing components)"
  - "columns (architectural elements)"
  - "graffiti (casual notations)"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "sacella"
  - "vestibules"
  - "water supply systems"
@@ -25,11 +25,11 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "../..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -41,14 +41,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula I]({{<relref ".">}})
 
 ## Keywords
- - [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
- - [sacella](http://vocab.getty.edu/page/aat/300007570)
- - [water supply systems](http://vocab.getty.edu/page/aat/300008618)
- - [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
- - [vestibules](http://vocab.getty.edu/page/aat/300083076)
- - [graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613)
- - [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
- - [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "sacella" >}}
+- {{< keyword "water supply systems" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "vestibules" >}}
+- {{< keyword "graffiti (casual notations)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "altars (religious fixtures)" >}}
 
 
 
@@ -81,10 +81,10 @@ PompeiiinPictures, 2018, *Pompeii. Complesso dei Riti magici or Magic Rites Comp
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
+- {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 1954, 1957, 1963, 1985

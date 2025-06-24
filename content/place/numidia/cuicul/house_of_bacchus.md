@@ -26,7 +26,7 @@ tags:
 ## Province
 
 [Numidia]({{<relref "..">}}) \
-[Numidia (Roman province)(Pleiades)](https://pleiades.stoa.org/places/981539)
+- {{< id vocab="Pleiades" id="981539" term="Numidia (Roman province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -35,7 +35,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 [Cuicul]({{<relref ".">}}) \
-[Cuicul](https://pleiades.stoa.org/places/305068)
+- {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}
 
 {{< image src="cuicul_house_of_bacchus.jpg" alt="Plan of Cuicul." title="Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
@@ -53,15 +53,15 @@ House of Bacchus, building south of the Great Baths (Maison de Bacchus, édifice
 
 ## Keywords
 
-- [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [oeci](http://vocab.getty.edu/page/aat/300080791)
-- [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
-- [venus](#)
+- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "venus" >}}
 
 ## Garden Description
 
@@ -103,7 +103,7 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 * Malek, A.-A. "De l’espace pictural à l’espace du jardin : mosaïques et jardins dans les domus de l’Afrique romaine", in *Archéologie des jardins: analyse des espaces et méthodes d’approches*,  Van Ossel, P.,  Guimier-Sorbets, A.-M. (dir.), Archéologie et histoire romaine 26, Editions Monique Mergoil, 2014, p. 20. [(worldcat)](http://www.worldcat.org/oclc/869205223)
 
 ## Pleiades ID
-[Cuicul](https://pleiades.stoa.org/places/305068)
+- {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}
 ## TGN ID
 
 ## Contributor

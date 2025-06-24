@@ -13,18 +13,18 @@ draft: false
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
 [Palatine]({{<relref ".">}}) \
-[Mons Palatinus](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
 
@@ -34,22 +34,22 @@ Garden of the Domus Tiberiana, Palatine
 
 ## Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [cryptoporticus](http://vocab.getty.edu/page/aat/300004295)
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [fountain](http://vocab.getty.edu/page/aat/300006179)
-- [garden pavilion](http://vocab.getty.edu/page/aat/300006819)
-- [herms](http://vocab.getty.edu/page/aat/300047170)
-- [lead (metal)](http://vocab.getty.edu/page/aat/300011022)
-- [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
-- [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
-- [piping (plumbing system components)](http://vocab.getty.edu/page/aat/300052572)
-- [pools (body of water)](http://vocab.getty.edu/page/aat/300008692)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [solariums (building spaces)](http://vocab.getty.edu/page/aat/300004179)
-- [statue](http://vocab.getty.edu/page/aat/300047600)
-- [terraces (landscaped-site elements)](http://vocab.getty.edu/page/aat/300004182)
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "cryptoportici" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "garden pavilions" >}}
+- {{< keyword "herms" >}}
+- {{< keyword "lead (metal)" >}}
+- {{< keyword "marble (rock)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "piping (plumbing system components)" >}}
+- {{< keyword "pools (body of water)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "solariums (building spaces)" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "terraces (landscaped-site elements)" >}}
 
 - [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
 - [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
@@ -123,7 +123,7 @@ RELATED PHASES ON THE PALATINE:
 
 ## Pleiades ID
 
-[Palatine Hill](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}
 
 ## Contributor
 

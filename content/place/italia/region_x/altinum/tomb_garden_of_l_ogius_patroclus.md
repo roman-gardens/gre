@@ -31,7 +31,7 @@ tags:
 ## Location
 
 [Altinum]({{<relref ".">}}) \
-[Altinum](https://pleiades.stoa.org/places/197110)
+- {{< id vocab="Pleiades" id="197110" term="Altinum" >}}
 
 <!--### Location Description-->
 
@@ -52,11 +52,11 @@ Tomb Garden of L. Ogius Patroclus
 
 ## Keywords
 
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
-- [stelae](http://vocab.getty.edu/page/aat/300007023)
-- [sacred groves](http://vocab.getty.edu/page/aat/300251876)
-- [vegetable gardens](http://vocab.getty.edu/page/aat/300008142)
+- {{< keyword "tombs" >}}
+- {{< keyword "epitaphs" >}}
+- {{< keyword "stelae" >}}
+- {{< keyword "sacred groves" >}}
+- {{< keyword "vegetable gardens" >}}
 
 ## Garden Description
 
@@ -92,11 +92,11 @@ unspecified
 
 ## Pleiades ID
 
-[Altinum](https://pleiades.stoa.org/places/197110)
+- {{< id vocab="Pleiades" id="197110" term="Altinum" >}}
 
 ## TGN ID
 
-[Altino (inhabited place)](http://vocab.getty.edu/page/tgn/4000603)
+- {{< id vocab="TGN" id="4000603" term="Altino (inhabited place)" >}}
 
 ## Contributor
 

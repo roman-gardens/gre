@@ -13,18 +13,18 @@ draft: false
 ## Province
 
 [Italia]({{<relref "../..">}})\
-[Italia](https://pleiades.stoa.org/places/1052)\
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}\
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
 [Palatine]({{<relref ".">}}) \
-[Mons Palatinus](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 ## Garden
 
@@ -32,18 +32,18 @@ Garden of the Temple of Elagabalus, Palatine
 
 ## Keywords
 
-- [allées](http://vocab.getty.edu/page/aat/300178561)
-- [altar (religious fixture)](http://vocab.getty.edu/page/aat/300003725)
-- [amphora (storage vessel)](http://vocab.getty.edu/page/aat/300148696)
-- [brick (construction material)](http://vocab.getty.edu/page/aat/300010463)
-- [canals (waterways)](http://vocab.getty.edu/page/aat/300006075)
-- [flower garden](http://vocab.getty.edu/page/aat/300008135)
-- [flowerpot](http://vocab.getty.edu/page/aat/300194749)
-- [fountain](http://vocab.getty.edu/page/aat/300006179)
-- [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [religious standards](http://vocab.getty.edu/page/aat/300429891)
-- [temple (building)](http://vocab.getty.edu/page/aat/300007595)
+- {{< keyword "allées" >}}
+- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "brick (clay material)" >}}
+- {{< keyword "canals (waterways)" >}}
+- {{< keyword "flower gardens" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "marble (rock)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "religious standards" >}}
+- {{< keyword "temples" >}}
 - [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
 
 
@@ -108,7 +108,7 @@ c. 190- 240 CE
 
 ## Pleiades ID
 
-[Palatinus Mons](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Palatinus Mons" >}}
 
 ## Contributor
 

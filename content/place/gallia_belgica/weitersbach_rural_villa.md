@@ -20,7 +20,7 @@ categories:
 ## Location
 
 [WELSCHBILLIG (Germany)]({{<relref ".">}}) \
-[WELSCHBILLIG](https://pleiades.stoa.org/places/109456)
+- {{< id vocab="Pleiades" id="109456" term="WELSCHBILLIG" >}}
 
 <!--### Location Description-->
 
@@ -39,9 +39,9 @@ A sublocation is any area larger than an individual garden, but located within a
 Rural Villa
 
 ## Keywords
-- [palace](http://vocab.getty.edu/page/aat/300005734)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [herms](http://vocab.getty.edu/page/aat/300047170)
+- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "herms" >}}
 
 ## Garden Description
 
@@ -76,9 +76,9 @@ None Available
 Unspecified
 
 ## Bibliography
-- H. Wrede, *Die spätantike Hermengalerie von Welschbillig*. Römisch-Germanische Forschungen 32, Berlin, 1972 [(worldcat)] (http://www.worldcat.org/oclc/223360098)
-- H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp. 665-667, figs. 607-609. [(worldcat)] (http://www.worldcat.org/oclc/924024101)
-- P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 277-278, fig. 90.  [(worldcat)] (http://www.worldcat.org/oclc/445007864)
+- H. Wrede, *Die spätantike Hermengalerie von Welschbillig*. Römisch-Germanische Forschungen 32, Berlin, 1972 [(worldcat)](http://www.worldcat.org/oclc/223360098)
+- H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp. 665-667, figs. 607-609. [(worldcat)](http://www.worldcat.org/oclc/924024101)
+- P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 277-278, fig. 90.  [(worldcat)](http://www.worldcat.org/oclc/445007864)
 
 <!--#### Periodo ID-->
 
@@ -86,10 +86,10 @@ Unspecified
 
 ## Pleiades ID
 
-[Roman Villa at Welschbillig](https://pleiades.stoa.org/places/109456)
+- {{< id vocab="Pleiades" id="109456" term="Roman Villa at Welschbillig" >}}
 
 ## TGN ID
-[Gallia Belgica (province)](http://vocab.getty.edu/page/tgn/6000727)
+- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
 [AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))

@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-[Lusitania](https://pleiades.stoa.org/places/1101)
+- {{< id vocab="Pleiades" id="1101" term="Lusitania" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 [Conimbriga]({{<relref ".">}}) \
-[Conimbriga](https://pleiades.stoa.org/places/236443)
+- {{< id vocab="Pleiades" id="236443" term="Conimbriga" >}}
 
 ## Location Description
 
@@ -48,8 +48,8 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Cantaber
 
 ## Keywords
-- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
+- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "peristyles" >}}
 
 ## Garden Description
 Hidacio, bishop of Chaves and a chronicler of his age, records that the Suevi sacked Conimbriga in 465 and 468 A.D. and that in the second year “the most noble Cantaber” was killed and his family sold into slavery. This house is by far the finest inside the city walls, so it is reasonably guessed to be that of Cantaber.   It is larger than the House of the Fountains with an area of more than 3,300 square meters.  The garden is similar, although it is less elaborate, has slightly different proportions, and has no fountains.  Although the house underwent structural alterations, the peristyle is part of the original plan, which does not appear to date from much later than the Flavian era.
@@ -89,7 +89,7 @@ The other garden area was slightly farther south and against the east wall of th
 
 ## Pleiades ID
 
-[Conimbriga](https://pleiades.stoa.org/places/236443)
+- {{< id vocab="Pleiades" id="236443" term="Conimbriga" >}}
 
 
 <!--### Contributor-->

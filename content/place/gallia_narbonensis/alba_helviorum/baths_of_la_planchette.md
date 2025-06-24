@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -25,7 +25,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [alba_helviorum]({{<relref ".">}}) \
-[alba_helviorum](https://pleiades.stoa.org/places/167629)
+- {{< id vocab="Pleiades" id="167629" term="alba_helviorum" >}}
 
 ## Location Description
 
@@ -48,8 +48,8 @@ Baths of La Planchette
 
 
 ## Keywords
-- [balnea](http://vocab.getty.edu/page/aat/300120377)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
+- {{< keyword "balnea" >}}
+- {{< keyword "gutters (building drainage components)" >}}
 - apsed pools
 
 
@@ -87,12 +87,12 @@ To the northeast there are the baths of la Planchette, today backfilled.   This 
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Alba-la-Romaine (inhabited place)](http://vocab.getty.edu/page/tgn/8712431)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="8712431" term="Alba-la-Romaine (inhabited place)" >}}
 
 ## Contributor
 

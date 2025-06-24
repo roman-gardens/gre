@@ -17,8 +17,8 @@ categories:
 [Italia]({{<relref "../../../..">}})
 
 ## Location
-[Via Labicana](https://pleiades.stoa.org/places/74935822)
-[Temple Tomb Garden of Q. Haterius Tychicus](https://pleiades.stoa.org/places/229438406)
+- {{< id vocab="Pleiades" id="74935822" term="Via Labicana" >}}
+- {{< id vocab="Pleiades" id="229438406" term="Temple Tomb Garden of Q. Haterius Tychicus" >}}
 
 <!--### Location Description-->
 
@@ -35,11 +35,11 @@ An ancient Roman road connecting Rome and Labicum.
 Temple Tomb Garden of Q. Haterius Tychicus
 
 ## Keywords
-- [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
-- [sepulchral monuments](http://vocab.getty.edu/page/aat/300005909)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [villa](http://vocab.getty.edu/page/aat/300005517)
-- [garden pavilions](http://vocab.getty.edu/page/aat/300006819)
+- {{< keyword "funerary buildings" >}}
+- {{< keyword "sepulchral monuments" >}}
+- {{< keyword "tombs" >}}
+- {{< keyword "villas" >}}
+- {{< keyword "garden pavilions" >}}
 
 ## Garden Description
 
@@ -66,7 +66,7 @@ Unspecified
 
 ## Pleiades ID
 
-[229438406](https://pleiades.stoa.org/places/229438406)
+- {{< id vocab="Pleiades" id="229438406" term="229438406" >}}
 
 
 

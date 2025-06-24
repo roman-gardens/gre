@@ -13,43 +13,43 @@ draft: false
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
 [Region IX Circus Flaminius]({{<relref ".">}}) \
-[Campus Martius](https://pleiades.stoa.org/places/422863)
+- {{< id vocab="Pleiades" id="422863" term="Campus Martius" >}}
 
 
 
 ## Garden
 
 Garden of the Porticus of Pompey \
-[Porticus Pompei](https://pleiades.stoa.org/places/165546433)
+- {{< id vocab="Pleiades" id="165546433" term="Porticus Pompei" >}}
 
 ## Keywords
 
-- [cavea](http://vocab.getty.edu/page/aat/300004734)
-- [colonnade](http://vocab.getty.edu/page/aat/300002613)
-- [curia](http://vocab.getty.edu/page/aat/300006027)
-- [fountain](http://vocab.getty.edu/page/aat/300006179)
-- [latrine](http://vocab.getty.edu/page/aat/300007951)
-- [museum](http://vocab.getty.edu/page/aat/300005768)
-- [nemus (grove)](http://vocab.getty.edu/page/aat/300008884)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [quadriportici](http://vocab.getty.edu/page/aat/300004101)
-- [scaenae frontes](http://vocab.getty.edu/page/aat/300083030)
-- [statue](http://vocab.getty.edu/page/aat/300047600)
-- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
-- [theaters (buildings)](http://vocab.getty.edu/page/aat/300007117)
-- [viridarium](#)
-- [arboretums](http://vocab.getty.edu/page/aat/300008106)
+- {{< keyword "caveae" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "curiae" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "latrines" >}}
+- {{< keyword "museums (buildings)" >}}
+- {{< keyword "nemus (grove)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "quadriportici" >}}
+- {{< keyword "scaenae frontes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "temples" >}}
+- {{< keyword "theaters (buildings)" >}}
+- {{< keyword "viridarium" >}}
+- {{< keyword "arboretums" >}}
 - [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
 - [Catullus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.337)
 - [Cicero](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.364)
@@ -112,7 +112,7 @@ Augustus’ remodeling of the theater and *porticus* (in 32 BCE), discussed abov
 
 ## Pleiades ID
 
-[Porticus Pompei](https://pleiades.stoa.org/places/165546433)
+- {{< id vocab="Pleiades" id="165546433" term="Porticus Pompei" >}}
 
 ## Contributors
 

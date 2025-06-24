@@ -13,13 +13,13 @@ draft: true
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
@@ -33,29 +33,29 @@ Garden of the Templum Pacis
 
 ## Keywords
 
-- [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
-- [bases (column elements)](http://vocab.getty.edu/page/aat/300233843)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [brick (construction material)](http://vocab.getty.edu/page/aat/300010463)
-- [canals (waterways)](http://vocab.getty.edu/page/aat/300006075)
-- [concrete](http://vocab.getty.edu/page/aat/300010737)
-- [cornices](http://vocab.getty.edu/page/aat/300001788)
-- [capitals (column elements)](http://vocab.getty.edu/page/aat/300001662)
-- [colonnade](http://vocab.getty.edu/page/aat/300002613)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [engaged columns](http://vocab.getty.edu/page/aat/300001638)
-- [entablatures](http://vocab.getty.edu/page/aat/300001770)
-- [flowerpots](http://vocab.getty.edu/page/aat/300194749)
-- [flower gardens](http://vocab.getty.edu/page/aat/300008135)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [hedges](http://vocab.getty.edu/page/aat/300266413)
-- [library](http://vocab.getty.edu/page/aat/300004433)
-- [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
-- [piping (plumbing system components)](http://vocab.getty.edu/page/aat/300052572)
-- [planting beds](http://vocab.getty.edu/page/aat/300430426)
-- [porticus](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
+- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "column bases" >}}
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "brick (clay material)" >}}
+- {{< keyword "canals (waterways)" >}}
+- {{< keyword "concrete" >}}
+- {{< keyword "cornices" >}}
+- {{< keyword "capitals (column elements)" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "engaged columns" >}}
+- {{< keyword "entablatures" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "flower gardens" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "hedges" >}}
+- {{< keyword "libraries (rooms)" >}}
+- {{< keyword "marble (rock)" >}}
+- {{< keyword "piping (plumbing system components)" >}}
+- {{< keyword "planting beds" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
 
 - [Aulus Gellius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.659)
 - [Aurelius Victor](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1469)

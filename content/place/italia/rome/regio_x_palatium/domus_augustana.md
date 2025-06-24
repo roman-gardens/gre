@@ -13,18 +13,18 @@ draft: false
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
 [Palatine]({{<relref ".">}}) \
-[Mons Palatinus](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
 
@@ -34,22 +34,22 @@ Garden of the Domus Augustana, Palatine
 
 ## Keywords
 
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [flower garden](http://vocab.getty.edu/page/aat/300008135)
-- [fountain](http://vocab.getty.edu/page/aat/300006179)
-- [herms](http://vocab.getty.edu/page/aat/300047170)
-- [loggias](http://vocab.getty.edu/page/aat/300004137)
-- [marble (decorative element)](http://vocab.getty.edu/page/aat/300011443)
-- [nymphaeum (garden structure)](http://vocab.getty.edu/page/aat/300006809)
-- [peltae](http://vocab.getty.edu/page/aat/300213495)
-- [peristyle (Roman courtyard)](http://vocab.getty.edu/page/aat/300080971)
-- [planting beds](http://vocab.getty.edu/page/aat/300430426)
-- [pools (body of water)](http://vocab.getty.edu/page/aat/300008692)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statue](http://vocab.getty.edu/page/aat/300047600)
-- [temple (building)](http://vocab.getty.edu/page/aat/300007595)
-- [terraces (landscaped-site elements)](http://vocab.getty.edu/page/aat/300004182)
+- {{< keyword "basins (vessels)" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "flower gardens" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "herms" >}}
+- {{< keyword "loggias" >}}
+- {{< keyword "marble (rock)" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "peltae" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "planting beds" >}}
+- {{< keyword "pools (body of water)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "temples" >}}
+- {{< keyword "terraces (landscaped-site elements)" >}}
 
 
 ## Garden Description
@@ -103,7 +103,7 @@ unspecified
 
 ## Pleiades ID
 
-[Palatine Hill](https://pleiades.stoa.org/places/971691208)
+- {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}
 
 ## Contributor
 

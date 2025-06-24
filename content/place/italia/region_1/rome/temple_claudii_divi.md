@@ -13,8 +13,8 @@ draft: true
 ## Province
 
 [ITALIA]({{<relref "..">}})\
-[ITALIA](https://pleiades.stoa.org/places/1052)\
-[ITALIA, REGIO I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="ITALIA" >}}\
+- {{< id vocab="Pleiades" id="441075550" term="ITALIA, REGIO I" >}}
 
 ## Province Description
 
@@ -24,7 +24,7 @@ Italia was not considered a province until the reign of Diocletian. The peninsul
 ## Location
 
 [Rome]({{<relref ".">}}) \
-[Rome](https://pleiades.stoa.org/places/108867)
+- {{< id vocab="Pleiades" id="108867" term="Rome" >}}
 
 ## Location Description
 
@@ -32,7 +32,7 @@ Italia was not considered a province until the reign of Diocletian. The peninsul
 
 ## Sublocation
 [Caelian Hill]({{<relref ".">}}) \
-[Caelian Hill](https://pleiades.stoa.org/places/695491849)
+- {{< id vocab="Pleiades" id="695491849" term="Caelian Hill" >}}
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
@@ -49,12 +49,12 @@ Gardens of the Temple of Divine Claudius (Roma)<!-- List of gardens in province 
 
 ## Keywords
 
-- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
-- [nemus (grove)](http://vocab.getty.edu/page/aat/300008884)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [aqueducts](http://vocab.getty.edu/page/aat/300006165)
-- [stagnum (man-made lake)](http://vocab.getty.edu/page/aat/300263360)
+- {{< keyword "temples" >}}
+- {{< keyword "nemus (grove)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "aqueducts" >}}
+- {{< keyword "stagnum (man-made lake)" >}}
 
 ## Garden Description
 
@@ -87,13 +87,13 @@ The temple is set within eight L-shaped planting beds and fourteen rectangular p
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Caelian Hill](https://pleiades.stoa.org/places/695491849)
+- {{< id vocab="Pleiades" id="695491849" term="Caelian Hill" >}}
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## TGN ID
-[Rome (inhabited place)](http://vocab.getty.edu/page/tgn/7000874)
+- {{< id vocab="TGN" id="7000874" term="Rome (inhabited place)" >}}
 <!-- ID is for Location (Rome), not the individual garden -->
 
 ## Contributor

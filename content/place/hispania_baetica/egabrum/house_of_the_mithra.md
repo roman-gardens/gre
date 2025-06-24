@@ -23,7 +23,7 @@ Hispania Baetica
 ## Location
 
 [Egabrum]({{<relref ".">}}) \
-[Egabrum](https://pleiades.stoa.org/places/265919)
+- {{< id vocab="Pleiades" id="265919" term="Egabrum" >}}
 
 ## Location Description
 
@@ -44,11 +44,11 @@ House of the Mithra
 
 ## Keywords
 
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [drains](http://vocab.getty.edu/page/aat/300052564)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "peristyles" >}}
 <!-- [Doric order]-->
 <!-- [triclinium]-->
 
@@ -97,10 +97,10 @@ unspecified
 
 ## Pleiades ID
 [Igabrum/Egabrum]{{<relref ".">}}) \
-[Igabrum/Egabrum](https://pleiades.stoa.org/places/265919)
+- {{< id vocab="Pleiades" id="265919" term="Igabrum/Egabrum" >}}
 
 ## TGN ID
-[Cabra (inhabited place)](http://vocab.getty.edu/page/tgn/7007570)
+- {{< id vocab="TGN" id="7007570" term="Cabra (inhabited place)" >}}
 
 ## Contributor
 [(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->

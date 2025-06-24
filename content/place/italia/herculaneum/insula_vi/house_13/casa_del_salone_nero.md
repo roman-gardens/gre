@@ -19,13 +19,13 @@ tags:
 
 ## Province
 [Italia]({{<relref "../../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 
 
 ## Location
 [Herculaneum]({{<relref "../..">}}) \
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
@@ -43,8 +43,8 @@ Casa del Salone Nero
 
 
 ## Keywords
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
- - [tablina](http://vocab.getty.edu/page/aat/300004180)
+- {{< keyword "porticoes" >}}
+- {{< keyword "tablina" >}}
 
 
 ## Garden Description
@@ -57,10 +57,10 @@ Excavation of this garden (a) to the rear of this elegant house took place in th
 
 
 ## Pleiades ID
-[Herculaneum](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
 
 ## TGN ID
-[Herculaneum (deserted settlement)](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 Unspecified

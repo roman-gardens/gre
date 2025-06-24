@@ -16,7 +16,7 @@ categories:
 ## Province
 
 [Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -50,12 +50,12 @@ House of Gilded Stones
 
 ## Keywords
 
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "peristyles" >}}
+- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "porticoes" >}}
 
 
 
@@ -113,12 +113,12 @@ A.D. 20 – A.D. 60
 
 ## Pleiades ID
 
-[Narbonensis (province)](https://pleiades.stoa.org/places/981537)
+- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
 ## TGN ID
 
-[Gallia Narbonensis (province)](http://vocab.getty.edu/page/tgn/7030317)
-[Saint-Romain-en-Gal (inhabited place)](http://vocab.getty.edu/page/tgn/5004109)
+- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="5004109" term="Saint-Romain-en-Gal (inhabited place)" >}}
 
 ## Contributor
 

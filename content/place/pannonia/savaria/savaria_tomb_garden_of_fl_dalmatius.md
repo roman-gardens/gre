@@ -25,7 +25,7 @@ categories:
 ## Location
 
 [Savaria]({{<relref ".">}}) \
-[Savaria](https://pleiades.stoa.org/places/197498)
+- {{< id vocab="Pleiades" id="197498" term="Savaria" >}}
 
 <!--### Location Description-->
 
@@ -47,10 +47,10 @@ Tomb Garden of Fl(avius) Dalmatius in Savaria
 
 ## Keywords
 
-- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
-- [inscription](#)
-- [literary garden](#)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- {{< keyword "epitaphs" >}}
+- {{< keyword "inscription" >}}
+- {{< keyword "literary gardens" >}}
+- {{< keyword "tombs" >}}
 
 ## Garden Description
 
@@ -83,11 +83,11 @@ A limestone slab found near the monastery of St. Martin in Szombathely (Savaria)
 
 ## Pleiades ID
 
-[Savaria](https://pleiades.stoa.org/places/197498)
+- {{< id vocab="Pleiades" id="197498" term="Savaria" >}}
 
 ## TGN ID
 
-[Pannonia (general region)](http://vocab.getty.edu/page/tgn/4008442)
+- {{< id vocab="TGN" id="4008442" term="Pannonia (general region)" >}}
 
 ## Contributor
 

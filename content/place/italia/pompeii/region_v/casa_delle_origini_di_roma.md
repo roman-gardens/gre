@@ -22,7 +22,7 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Province Description
 <!-- DESCRIPTION -->
@@ -31,7 +31,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 <!--### Location Description-->
 ## Location Description
@@ -54,12 +54,12 @@ House 13
 Casa Delle Origini di Roma; House of M. Fabius Secundus (V.iv.13.)
 
 ## Keywords
-- [gutters (building drainage components)](http://vocab.getty.edu/page/aat/300052565)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [triclinia (couches)](http://vocab.getty.edu/page/aat/300142552)
-- [trellises](http://vocab.getty.edu/page/aat/300006785)
-- [altars (religious fixtures)](http://vocab.getty.edu/page/aat/300003725)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)  
+- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "triclinia (couches)" >}}
+- {{< keyword "trellises" >}}
+- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "lararia" >}}  
 
 
 ## Garden Description
@@ -92,8 +92,8 @@ Unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 

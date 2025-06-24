@@ -24,7 +24,7 @@ categories:
 ## Location
 
 [Arcos De La Frontera]({{<relref ".">}}) \
-[Arcos De La Frontera](https://pleiades.stoa.org/places/255981)
+- {{< id vocab="Pleiades" id="255981" term="Arcos De La Frontera" >}}
 
 ## Location Description
 
@@ -45,10 +45,10 @@ Villa el Santiscal
 
 ## Keywords
 
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [mosaics (visual works)](http://vocab.getty.edu/page/aat/300015342)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [rills](http://vocab.getty.edu/page/aat/300263440)
+- {{< keyword "fountains" >}}
+- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "rills" >}}
 
 
 
@@ -93,11 +93,11 @@ unspecified
 ## Pleiades ID
 
 [El Santiscal]({{<relref ".">}}) \
-[El Santiscal](https://pleiades.stoa.org/places/256436)
+- {{< id vocab="Pleiades" id="256436" term="El Santiscal" >}}
 
 ## TGN ID
 
-[Arcos de la Frontera (inhabited place)](http://vocab.getty.edu/page/tgn/1061772)
+- {{< id vocab="TGN" id="1061772" term="Arcos de la Frontera (inhabited place)" >}}
 
 ## Contributor
 

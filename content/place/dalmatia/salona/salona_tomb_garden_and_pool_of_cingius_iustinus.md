@@ -26,7 +26,7 @@ categories:
 ## Location
 
 [Salona]({{<relref ".">}}) \
-[Salona](https://pleiades.stoa.org/places/197488)
+- {{< id vocab="Pleiades" id="197488" term="Salona" >}}
 
 <!--### Location Description-->
 
@@ -50,9 +50,9 @@ Tomb Garden and Pool of Cingius Iustinus
 
 ## Keywords
 
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
+- {{< keyword "piscinae" >}}
+- {{< keyword "tombs" >}}
+- {{< keyword "epitaphs" >}}
 
 
 ## Garden Description
@@ -91,11 +91,11 @@ Late second or third century (CE)
 
 ## Pleiades ID
 
-[Salona](https://pleiades.stoa.org/places/197488)
+- {{< id vocab="Pleiades" id="197488" term="Salona" >}}
 
 ## TGN ID
 
-[Solin (inhabited place)](http://vocab.getty.edu/page/tgn/7017320)
+- {{< id vocab="TGN" id="7017320" term="Solin (inhabited place)" >}}
 
 ## Contributor
 

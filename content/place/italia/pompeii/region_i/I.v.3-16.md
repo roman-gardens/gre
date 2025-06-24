@@ -15,11 +15,11 @@ categories:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
 ## Location Description
@@ -36,9 +36,9 @@ Hospitium garden, possibly planted in antiquity.
 
 ## Keywords
 
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
-- [stables (animal housing)](http://vocab.getty.edu/page/aat/300005015)
-- [troughs (containers)](http://vocab.getty.edu/page/aat/300220971)
+- {{< keyword "lararia" >}}
+- {{< keyword "stables (animal housing)" >}}
+- {{< keyword "troughs (containers)" >}}
 
 ## Garden Description
 
@@ -81,11 +81,11 @@ Excavated 1874.
 
 ## Pleiades ID
 
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
 
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

@@ -25,7 +25,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 [Megalopolis]({{<relref ".">}}) \
-[Megalopolis](https://pleiades.stoa.org/places/570467)
+- {{< id vocab="Pleiades" id="570467" term="Megalopolis" >}}
 
 <!--### Location Description-->
 
@@ -45,7 +45,7 @@ Sanctuary of Zeus Philios
 
 ## Keywords
 
-- [Literary](#)
+- {{< keyword "literary gardens" >}}
 - [Pausanias](https://www.britannica.com/biography/Pausanias-Greek-geographer)
 -	[sacred groves](http://vocab.getty.edu/page/aat/300251876)
 
@@ -100,11 +100,11 @@ unspecified (still flourished in the 2nd century CE)
 
 ## Pleiades ID
 
-[Megalopolis](https://pleiades.stoa.org/places/570467)
+- {{< id vocab="Pleiades" id="570467" term="Megalopolis" >}}
 
 ## TGN ID
 
-[Megalopolis (deserted settlement)](http://vocab.getty.edu/page/tgn/7010920)
+- {{< id vocab="TGN" id="7010920" term="Megalopolis (deserted settlement)" >}}
 
 ## Contributor
 

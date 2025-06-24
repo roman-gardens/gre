@@ -13,7 +13,7 @@ tags:
  - "fountains"
  - "garden pavilions"
  - "nymphaea (garden structures)"
- - "peristyles (Roman courtyards)"
+ - "peristyles"
  - "piazza"
  - "porticoes"
  - "stadium"
@@ -24,7 +24,7 @@ tags:
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Region
 
@@ -33,7 +33,7 @@ Region IV
 
 ## Location
 
-[Hadrian's Villa](https://pleiades.stoa.org/places/423127)
+- {{< id vocab="Pleiades" id="423127" term="Hadrian's Villa" >}}
 
 ## Location Description
 
@@ -46,20 +46,20 @@ The realization of this magnificent residence must have been a cherished dream o
 ## Garden
 
 The Stadium-garden (Fig. 1, n. 4)
-[Stadium-garden at Hadrian's Villa](https://pleiades.stoa.org/places/190433997)
+- {{< id vocab="Pleiades" id="190433997" term="Stadium-garden at Hadrian's Villa" >}}
 
 ## Keywords
 
-- [flower gardens](http://vocab.getty.edu/page/aat/300008135)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [garden pavilions](http://vocab.getty.edu/page/aat/300006819)
-- [nymphaea (garden structures)](http://vocab.getty.edu/page/aat/300006809)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+- {{< keyword "flower gardens" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "garden pavilions" >}}
+- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "peristyles" >}}
 - [piazza](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300164841)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "porticoes" >}}
 - [stadium](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300007271)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
-- [tufa](http://vocab.getty.edu/page/aat/300011712)
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "tufa" >}}
 
 ## Garden Description
 
@@ -124,12 +124,12 @@ unspecified
 
 ## Pleiades ID
 
-[Stadium-garden at Hadrian's Villa](https://pleiades.stoa.org/places/190433997)
+- {{< id vocab="Pleiades" id="190433997" term="Stadium-garden at Hadrian's Villa" >}}
 <!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
 
 ## TGN ID
 
-[Hadrian's Villa (ruins)](http://vocab.getty.edu/page/tgn/7006983)
+- {{< id vocab="TGN" id="7006983" term="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
 ## Contributor

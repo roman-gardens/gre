@@ -48,8 +48,8 @@ Tomb Painting in Chester
 
 ## Keywords
 
-- [funerary buildings](http://vocab.getty.edu/page/aat/300005866)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- {{< keyword "funerary buildings" >}}
+- {{< keyword "tombs" >}}
 
 ## Garden Description
 
@@ -76,11 +76,11 @@ unspecified
 
 ## Pleiades ID
 
-[Cilurnum](https://pleiades.stoa.org/places/89144)
+- {{< id vocab="Pleiades" id="89144" term="Cilurnum" >}}
 
 ## TGN ID
 
-[Chesters (inhabited place)](http://vocab.getty.edu/page/tgn/7026064)
+- {{< id vocab="TGN" id="7026064" term="Chesters (inhabited place)" >}}
 
 ## Contributor
 

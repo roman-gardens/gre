@@ -9,29 +9,29 @@ author: Elizabeth Macaulay, Linda Anderson
 editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
 tags:
- - "temples (buildings)"
+ - "temples"
  - "columns (architectural elements)"
  - "exedrae (site elements)"
  - "lucus (grove)"
  - "porticoes"
- - "temples (buildings)"
+ - "temples"
 ---
 
 ## Province
 
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Italia, Regio I](https://pleiades.stoa.org/places/441075550)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
 [Rome]({{<relref "..">}}) \
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
 [Region IX Circus Flaminius]({{<relref ".">}}) \
-[Campus Martius](https://pleiades.stoa.org/places/422863)
+- {{< id vocab="Pleiades" id="422863" term="Campus Martius" >}}
 
 
 
@@ -41,16 +41,16 @@ Garden of the Hercules Musarum
 
 ## Keywords
 
-- [temples (buildings)](http://vocab.getty.edu/page/aat/300007595)
-- [auditorium](http://vocab.getty.edu/page/aat/300004394)
-- [columns (architectural element)](http://vocab.getty.edu/page/aat/300001571)
-- [exedrae (site elements)](http://vocab.getty.edu/page/aat/300081589)
-- [lucus (grove)](#)
-- [groves (plant communities)](http://vocab.getty.edu/page/aat/300008884)
-- [niche (architectural elements)](http://vocab.getty.edu/page/aat/300002704)
-- [podiums (building divisions)](http://vocab.getty.edu/page/aat/300000976)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
+- {{< keyword "temples" >}}
+- {{< keyword "auditoriums" >}}
+- {{< keyword "columns (architectural element)" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "lucus (grove)" >}}
+- {{< keyword "groves (plant communities)" >}}
+- {{< keyword "niches" >}}
+- {{< keyword "podiums (building divisions)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
 
 - [Eumenius Panegyricus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.592)
 - [Macrobius](https://catalog.perseus.org/catalog/urn:cite:perseus:author.872)
@@ -97,7 +97,7 @@ Built between 187 and 179 BCE; restoration and portico constructed in Late Repub
 
 ## Pleiades ID
 
-[Roma](https://pleiades.stoa.org/places/423025)
+- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 <!-- Pleiades resource for Location (Rome), not for the individual garden -->
 
 ## Contributors

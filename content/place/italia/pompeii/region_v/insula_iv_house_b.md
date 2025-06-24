@@ -21,7 +21,7 @@ tags:
 
 ## Province
 [Italia]({{<relref "../..">}}) \
-[Italia](https://pleiades.stoa.org/places/1052)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Province Description
 <!-- DESCRIPTION -->
@@ -30,7 +30,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 
 ## Location
 [Pompeii]({{<relref "..">}}) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 <!--### Location Description-->
 ## Location Description
@@ -53,11 +53,11 @@ House b
 V.iv.b.
 
 ## Keywords
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [fountains](http://vocab.getty.edu/page/aat/300006179)
-- [triclinia (couches)](http://vocab.getty.edu/page/aat/300142552)
-- [trellises](http://vocab.getty.edu/page/aat/300006785)
-- [headboards](http://vocab.getty.edu/page/aat/300040447)
+- {{< keyword "porticoes" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "triclinia (couches)" >}}
+- {{< keyword "trellises" >}}
+- {{< keyword "headboards" >}}
 
 
 ## Garden Description
@@ -89,11 +89,11 @@ When the excavation work reached the northeast corner of this house in 1901, a s
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Italia](https://pleiades.stoa.org/places/1052) \
-[Pompeii](https://pleiades.stoa.org/places/433032)
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
+- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://vocab.getty.edu/page/tgn/7004658)
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 [Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
