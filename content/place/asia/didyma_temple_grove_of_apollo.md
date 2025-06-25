@@ -55,7 +55,7 @@ Temple Grove of Apollo
 
 ## Keywords
 - {{< keyword "sacred groves" >}}
-- {{< keyword "sanctuary centers (religious centers)" >}}
+- {{< keyword "sanctuary centers" >}}
 
 
 ## Garden Description

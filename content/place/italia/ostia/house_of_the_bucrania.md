@@ -53,16 +53,16 @@ House of the Bucrania
 ## Keywords
 
 - {{< keyword "architectural terracotta" >}}
-- {{< keyword "architraves (entablature)" >}}
+- {{< keyword "architraves" >}}
 - {{< keyword "domus" >}}
 - {{< keyword "botanical gardens" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "Doric order" >}}
 - {{< keyword "flowerpots" >}}
 - {{< keyword "fluting" >}}
-- {{< keyword "friezes (entablature components)" >}}
+- {{< keyword "friezes" >}}
 - {{< keyword "Late Republican" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "opus signinum" >}}
 - {{< keyword "orthostats" >}}
 - {{< keyword "porticoes" >}}

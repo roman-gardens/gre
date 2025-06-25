@@ -67,7 +67,7 @@ House of Condes de Barcelona Street
 ## Keywords
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 
 
 ## Garden Description

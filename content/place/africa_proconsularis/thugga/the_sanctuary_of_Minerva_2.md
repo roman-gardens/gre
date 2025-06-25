@@ -14,12 +14,12 @@ categories:
 
 tags:
  - "temples"
- - "sanctuaries (religious building spaces)"
- - "courtyards (uncovered spaces)"
+ - "sanctuaries"
+ - "courtyards"
  - "planting beds"
- - "cella"
+ - "cellae"
  - "ambulatio"
- - "altars (religious fixtures)"
+ - "altars"
 ---
 
 ## Province
@@ -48,12 +48,12 @@ The sanctuary of Minerva 2
 ## Keywords
 
 - {{< keyword "temples" >}}
-- {{< keyword "sanctuary" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "sanctuaries" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "planting beds" >}}
-- {{< keyword "cella" >}}
+- {{< keyword "cellae" >}}
 - {{< keyword "ambulatio" >}}
-- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "altars" >}}
 
 ## Garden Description
 

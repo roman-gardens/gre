@@ -12,8 +12,8 @@ draft: false
 
 ## Province
 
-[Italia]({{<relref "../..">}})\
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}\
+[Italia]({{<relref "../..">}}) \
+- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
 - {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
@@ -33,14 +33,14 @@ Garden of the Temple of Elagabalus, Palatine
 ## Keywords
 
 - {{< keyword "allées" >}}
-- {{< keyword "altars (religious fixtures)" >}}
-- {{< keyword "amphorae (storage vessels)" >}}
-- {{< keyword "brick (clay material)" >}}
-- {{< keyword "canals (waterways)" >}}
+- {{< keyword "altars" >}}
+- {{< keyword "amphorae" >}}
+- {{< keyword "brick" >}}
+- {{< keyword "canals" >}}
 - {{< keyword "flower gardens" >}}
 - {{< keyword "flowerpots" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "marble (rock)" >}}
+- {{< keyword "marble" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "religious standards" >}}
 - {{< keyword "temples" >}}

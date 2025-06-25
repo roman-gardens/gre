@@ -14,8 +14,8 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "atriums (Roman halls)"
- - "cisterns (plumbing components)"
+ - "atriums"
+ - "cisterns"
  - "sundial"
  - "vaults"
 ---
@@ -45,9 +45,9 @@ Casa della Gemma (A)
 
 
 ## Keywords
-- {{< keyword "vaults (structural elements)" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "vaults" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "sundials" >}}
 
 ## Garden Description

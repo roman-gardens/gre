@@ -48,7 +48,7 @@ Tomb Garden of Fl(avius) Dalmatius in Savaria
 ## Keywords
 
 - {{< keyword "epitaphs" >}}
-- {{< keyword "inscription" >}}
+- {{< keyword "inscriptions" >}}
 - {{< keyword "literary gardens" >}}
 - {{< keyword "tombs" >}}
 

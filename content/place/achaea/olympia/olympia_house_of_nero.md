@@ -50,7 +50,7 @@ House of Nero
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "artificial water channels" >}}
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "peristyles" >}}
 
 ## Garden Description

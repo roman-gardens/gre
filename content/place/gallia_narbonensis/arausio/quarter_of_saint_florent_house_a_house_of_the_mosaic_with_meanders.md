@@ -50,10 +50,10 @@ Quarter of Saint-Florent, House A – House of the Mosaic with Meanders
 ## Keywords
 
 - {{< keyword "peristyles" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "reception rooms" >}}
-- {{< keyword "mosaics (visual works)" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "gutters" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "opus signinum" >}}
 

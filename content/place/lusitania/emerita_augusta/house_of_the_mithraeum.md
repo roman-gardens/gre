@@ -63,10 +63,10 @@ House of the Mithraeum
 
 - {{< keyword "peristyles" >}}
 - {{< keyword "colonnades" >}}
-- {{< keyword "rural villas" >}}
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "axial plan" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 
 ## Garden Description
 

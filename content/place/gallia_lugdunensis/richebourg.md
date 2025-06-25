@@ -43,10 +43,10 @@ Richebourg (Yvelines) villa de
 - {{< keyword "porticoes" >}}
 - {{< keyword "trellises" >}}
 - {{< keyword "stylobates" >}}
-- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "amphorae" >}}
 - {{< keyword "pergolas" >}}
 - {{< keyword "apses" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description

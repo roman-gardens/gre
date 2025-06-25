@@ -51,8 +51,8 @@ House I, Quartier de la Verrerie at Trinquetaille
 
 ## Keywords
 
-- {{< keyword "mosaics (visual works)" >}}
-- {{< keyword "opus sectile (visual works)" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "opus sectile" >}}
 - {{< keyword "porticoes" >}}
 
 

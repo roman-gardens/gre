@@ -37,9 +37,9 @@ House of the Birds
 
 ## Keywords
 
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "vestibules" >}}
 <!-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)-->

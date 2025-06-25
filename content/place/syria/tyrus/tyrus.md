@@ -44,7 +44,7 @@ Tomb garden at Tyre
 
 ## Keywords
 - {{< keyword "tombs" >}}
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "basins" >}}
 - {{< keyword "niches" >}}
 
 ## Garden Description

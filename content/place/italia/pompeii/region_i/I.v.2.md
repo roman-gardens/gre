@@ -49,12 +49,12 @@ Officina Coriariorum of M. Vesonius Primus (tannery) with a [peristyles (Roman c
 
 ## Keywords
 
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "opus signinum" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "pillars" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "tables (support furniture)" >}}
+- {{< keyword "tables" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description

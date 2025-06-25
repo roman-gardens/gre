@@ -15,7 +15,7 @@ tag:
   - "domus"
   - "peristyle houses"
   - "semicircular basin"
-  - "mural paintings (visual works)"
+  - "mural paintings"
 ---
 
 ## Province
@@ -53,7 +53,7 @@ House of  Sorothus (Maison de Sorothus)
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "semicircular basin" >}}
-- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "mural paintings" >}}
 
 <!-- [urban villas](#) -->
 

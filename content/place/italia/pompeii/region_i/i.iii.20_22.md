@@ -14,7 +14,7 @@ categories:
   - "Italia"
 tags:
  - "dolia"
- - "gutters (building drainage components)"
+ - "gutters"
  - "peristyles"
  - "triclinia (rooms)"
 ---
@@ -38,7 +38,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 - {{< keyword "dolia" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "gutters" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "triclinia (rooms)" >}}
 

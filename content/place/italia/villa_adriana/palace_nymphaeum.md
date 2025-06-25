@@ -9,7 +9,7 @@ author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: true
 tags:
- - "nymphaea (garden structures)"
+ - "nymphaea"
 ---
 
 ## Province
@@ -40,7 +40,7 @@ Palace *nymphaeum* (Fig. 1, n. 16)
 
 ## Keywords
 
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 
 ## Garden Description
 

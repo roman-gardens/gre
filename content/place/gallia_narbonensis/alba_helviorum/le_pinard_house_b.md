@@ -49,7 +49,7 @@ Le Pinard, House B
 
 ## Keywords
 - {{< keyword "ditches" >}}
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "vestibules" >}}
 
 

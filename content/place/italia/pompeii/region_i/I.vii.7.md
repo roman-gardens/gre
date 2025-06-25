@@ -14,13 +14,13 @@ categories:
   - "Italia"
 tags:
  - "aedicules"
- - "atriums (Roman halls)"
- - "cisterns (plumbing components)"
- - "columns (architectural elements)"
+ - "atriums"
+ - "cisterns"
+ - "columns"
  - "lararia"
  - "peristyles"
  - "porticoes"
- - "tables (support furniture)"
+ - "tables"
  - "triclinia (rooms)"
 ---
 
@@ -44,13 +44,13 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Keywords
 
 - {{< keyword "aedicules" >}}
-- {{< keyword "atriums (Roman halls)" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "lararia" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "tables (support furniture)" >}}
+- {{< keyword "tables" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
 ## Gardens

@@ -50,11 +50,11 @@ House with the Five Mosaics
 ## Keywords
 
 - {{< keyword "porticoes" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "opus signinum" >}}
-- {{< keyword "opus sectile (visual works)" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "opus sectile" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
 

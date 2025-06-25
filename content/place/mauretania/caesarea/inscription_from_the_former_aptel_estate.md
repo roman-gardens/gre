@@ -44,9 +44,9 @@ Inscription from the former Aptel Estate
 
 ## Keywords
 
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "domus" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 
 ## Garden Description
 

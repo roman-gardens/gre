@@ -48,14 +48,14 @@ House under the Pasteur parking lot
 
 
 ## Keywords
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "mosaics (visual works)" >}}
-- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "statuettes" >}}
 - {{< keyword "domus" >}}
 - {{< keyword "terrace gardens" >}}
 - {{< keyword "reception rooms" >}}
-- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "mural paintings" >}}
 - {{< keyword "candelabras (candleholders)" >}}
 
 

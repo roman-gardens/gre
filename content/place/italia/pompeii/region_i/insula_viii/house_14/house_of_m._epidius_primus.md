@@ -45,9 +45,9 @@ House of M. Epidius Primus (I.viii.14)
 ## Keywords
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "atriums (Roman halls)" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "gutters" >}}
 - {{< keyword "viridarium" >}}
 
 ## Garden Description

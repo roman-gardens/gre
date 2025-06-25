@@ -52,7 +52,7 @@ Sanctuary of Apollo and the Nymphs
 - {{< keyword "Pausanias" >}}
 - {{< keyword "sacred groves" >}}
 - {{< keyword "shrines" >}}
-- {{< keyword "springs (bodies of water)" >}}
+- {{< keyword "springs" >}}
 
 ## Garden Description
 

@@ -12,18 +12,18 @@ draft: true
 categories:
  - "Italia"
 tags:
- - "atriums (Roman halls)"
- - "basins (vessels)"
+ - "atriums"
+ - "basins"
  - "balnea"
- - "cisterns (plumbing components)"
+ - "cisterns"
  - "cryptoportici"
  - "ditches"
  - "drains"
  - "exedrae (site elements)"
- - "fences (site elements)"
+ - "fences"
  - "garden pavilions"
- - "gutters (building drainage components)"
- - "insulae (apartments)"
+ - "gutters"
+ - "insulae"
  - "loam"
  - "orchards"
  - "peristyles"
@@ -73,28 +73,28 @@ House of Grotto of Aatullus
 
 ## Keywords
 
-- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "insulae" >}}
 - {{< keyword "cryptoportici" >}}
 - {{< keyword "vestibules" >}}
 - {{< keyword "piscinae" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "balnea" >}}
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "ditches" >}}
 - {{< keyword "water supply systems" >}}
 - {{< keyword "water baths" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "gutters" >}}
 - {{< keyword "drains" >}}
 - {{< keyword "loam" >}}
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "basins" >}}
 - {{< keyword "statues" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "terrazzo" >}}
 - {{< keyword "water wells" >}}
 - {{< keyword "orchards" >}}
 - {{< keyword "presence chambers" >}}
-- {{< keyword "fences (site elements)" >}}
+- {{< keyword "fences" >}}
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "garden pavilions" >}}
 - {{< keyword "reception rooms" >}}

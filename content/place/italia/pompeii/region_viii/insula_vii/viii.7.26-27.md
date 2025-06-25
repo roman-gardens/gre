@@ -14,7 +14,7 @@ categories:
   - "Italia"
 
 tags:
-  - "atriums (Roman halls)"
+  - "atriums"
   - "porticoes"
   - "triclinia (rooms)"
   - "angiportus"
@@ -38,7 +38,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VII]({{<relref ".">}})
 
 ## Keywords
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "angiportus" >}}

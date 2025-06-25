@@ -10,10 +10,10 @@ editor: Rhiannon Paré
 draft: true
 tags:
  - "aqueducts"
- - "cisterns (plumbing components)"
+ - "cisterns"
  - "nemus (grove)"
  - "niches"
- - "nymphaea (garden structures)"
+ - "nymphaea"
  - "planting beds"
  - "porticoes"
  - "stagnum (man-made lake)"
@@ -44,7 +44,7 @@ Garden of the Temple of Divine Claudius, Palatine
 ## Keywords
 
 - {{< keyword "aqueducts" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "nemus (grove)" >}}
 - {{< keyword "niches" >}}
 - {{< keyword "nymphaea" >}}

@@ -40,8 +40,8 @@ Casa del Mosaico di Nettuno e di Anfitrite
 
 ## Keywords
 - {{< keyword "sacella" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
-- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "amphorae" >}}
 
 
 ## Garden Description

@@ -55,7 +55,7 @@ House of the Columns
 - [apsed pools]()
 - {{< keyword "fountains" >}}
 - {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 
 
 

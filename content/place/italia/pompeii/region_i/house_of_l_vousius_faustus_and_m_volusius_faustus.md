@@ -58,7 +58,7 @@ House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)
 - {{< keyword "biclinia" >}}
 - {{< keyword "drains" >}}
 - {{< keyword "lararia" >}}
-- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "mural paintings" >}}
 - {{< keyword "piscinae" >}}
 - {{< keyword "triclinia (rooms)" >}}
 

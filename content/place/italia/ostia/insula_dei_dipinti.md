@@ -11,8 +11,8 @@ draft: false
 tags:
  - "aedicules"
  - "flowerpots"
- - "insulae (apartments)"
- - "mosaics (visual works)"
+ - "insulae"
+ - "mosaics"
 ---
 
 ## Province
@@ -61,11 +61,11 @@ Insula dei Dipinti \
 - {{< keyword "aedicules" >}}
 - {{< keyword "flowerpots" >}}
 - {{< keyword "Hadrianic" >}}
-- {{< keyword "insulae (apartments)" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "insulae" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "Severan" >}}
 - {{< keyword "statues" >}}
-- {{< keyword "whitewash (water-base paint)" >}}
+- {{< keyword "whitewash" >}}
 
 ## Garden Description
 

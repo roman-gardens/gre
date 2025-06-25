@@ -14,13 +14,13 @@ categories:
 tag:
   - "domus"
   - "peristyle houses"
-  - "mosaics (visual works)"
+  - "mosaics"
   - "trees"
   - "tree cavities"
-  - "cisterns (plumbing components)"
-  - "cascade"
+  - "cisterns"
+  - "cascades"
   - "oeci"
-  - "frons scaenae"
+  - "scaenae frontes"
   - "pools"
 ---
 
@@ -60,13 +60,13 @@ House of the Aviary (Maison de la Volière)
 ## Keywords
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "trees" >}}
 - {{< keyword "tree cavities" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
-- {{< keyword "cascade" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "cascades" >}}
 - {{< keyword "oeci" >}}
-- {{< keyword "frons scaenae" >}}
+- {{< keyword "scaenae frontes" >}}
 - {{< keyword "pools" >}}
 
 ## Garden Description

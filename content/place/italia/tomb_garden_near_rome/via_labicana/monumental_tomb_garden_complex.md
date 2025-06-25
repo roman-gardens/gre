@@ -35,7 +35,7 @@ An ancient Roman road connecting Rome and Labicum.
 Monumental Tomb Garden Complex
 
 ## Keywords
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "ditches" >}}
 - {{< keyword "epitaphs" >}}
 - {{< keyword "funerary buildings" >}}

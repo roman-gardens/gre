@@ -38,9 +38,9 @@ Small House with peristyle and basins
 
 ## Keywords
 
-- {{< keyword "basins (vessels)" >}}
-- {{< keyword "columns (architectural elements)" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "peristyle houses" >}}
 

@@ -41,7 +41,7 @@ Rural Villa
 ## Keywords
 - {{< keyword "peristyles" >}}
 - {{< keyword "corridors" >}}
-- {{< keyword "bathhouses (water recreation structures)" >}}
+- {{< keyword "bathhouses" >}}
 
 ## Garden Description
 

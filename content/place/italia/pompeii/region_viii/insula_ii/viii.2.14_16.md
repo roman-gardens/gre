@@ -15,7 +15,7 @@ categories:
 tags:
   - "peristyles"
   - "porticoes"
-  - "amphorae (storage vessels)"
+  - "amphorae"
   - "tondi"
 ---
 
@@ -40,7 +40,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Keywords
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "amphorae" >}}
 - {{< keyword "tondi" >}}
 
 ## Garden Description

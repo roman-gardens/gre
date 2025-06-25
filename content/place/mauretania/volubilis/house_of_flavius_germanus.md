@@ -40,7 +40,7 @@ House of Flavius Germanus (La maison de Flavius Germanicus)
 
 ## Keywords
 
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "piscinae" >}}

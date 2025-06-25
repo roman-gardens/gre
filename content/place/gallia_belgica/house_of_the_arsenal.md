@@ -42,7 +42,7 @@ HHouse of the Arsenal (Maison de l’Arsenal)
 
 ## Keywords
 
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "hypocausts" >}}
 

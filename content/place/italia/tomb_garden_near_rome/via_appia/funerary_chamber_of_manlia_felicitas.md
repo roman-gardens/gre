@@ -38,7 +38,7 @@ Funerary Chamber of Manlia Felicitas
 
 ## Keywords
 
-- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "insulae" >}}
 - {{< keyword "tombs" >}}
 - {{< keyword "funerary buildings" >}}
 

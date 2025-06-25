@@ -9,7 +9,7 @@ author: Elizabeth Macaulay
 editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
 tags:
- - "altars (religious fixtures)"
+ - "altars"
  - "nemus (grove)"
  - "obelisk"
  - "statues"
@@ -41,20 +41,20 @@ Garden of the Mausoleum of Augustus \
 
 ## Keywords
 
-- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "altars" >}}
 - {{< keyword "ambulatio" >}}
-- {{< keyword "bronze (metal)" >}}
+- {{< keyword "bronze" >}}
 - {{< keyword "colonnades" >}}
-- {{< keyword "granite (rock)" >}}
-- {{< keyword "solaria (sundials)" >}}
+- {{< keyword "granite" >}}
+- {{< keyword "solaria" >}}
 - {{< keyword "inscriptions" >}}
-- {{< keyword "iron (metal)" >}}
-- {{< keyword "marble (rock)" >}}
+- {{< keyword "iron" >}}
+- {{< keyword "marble" >}}
 - {{< keyword "nemus (grove)" >}}
-- {{< keyword "obelisks (monumental pillars)" >}}
+- {{< keyword "obelisks" >}}
 - {{< keyword "orthostats" >}}
 - {{< keyword "cippi" >}}
-- {{< keyword "reliefs (sculptures)" >}}
+- {{< keyword "reliefs" >}}
 - {{< keyword "sculpture" >}}
 - {{< keyword "statues" >}}
 - {{< keyword "travertine" >}}

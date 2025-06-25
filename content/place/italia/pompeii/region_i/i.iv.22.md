@@ -13,7 +13,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "atriums (Roman halls)"
+ - "atriums"
  - "triclinia (rooms)"
 ---
 
@@ -35,7 +35,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IV]({{<relref "#">}})
 
 ## Keywords
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
 ## Garden

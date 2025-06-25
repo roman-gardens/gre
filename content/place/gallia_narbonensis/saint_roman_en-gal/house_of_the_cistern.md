@@ -53,7 +53,7 @@ House with the Cistern
 ## Keywords
 
 - {{< keyword "porticoes" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 
 
 

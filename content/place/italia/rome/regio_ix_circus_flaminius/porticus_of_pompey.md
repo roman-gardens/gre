@@ -40,14 +40,14 @@ Garden of the Porticus of Pompey \
 - {{< keyword "curiae" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "latrines" >}}
-- {{< keyword "museums (buildings)" >}}
+- {{< keyword "museums" >}}
 - {{< keyword "nemus (grove)" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "quadriportici" >}}
 - {{< keyword "scaenae frontes" >}}
 - {{< keyword "statues" >}}
 - {{< keyword "temples" >}}
-- {{< keyword "theaters (buildings)" >}}
+- {{< keyword "theaters" >}}
 - {{< keyword "viridarium" >}}
 - {{< keyword "arboretums" >}}
 - [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)

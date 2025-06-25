@@ -48,9 +48,9 @@ Rural Villa in Eisenstadt
 
 ## Keywords
 
-- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "altars" >}}
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "podiums (building divisions)" >}}
 - {{< keyword "porticoes" >}}

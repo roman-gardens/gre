@@ -14,10 +14,10 @@ categories:
 tag:
   - "domus"
   - "peristyle houses"
-  - "mosaics (visual works)"
+  - "mosaics"
   - "oeci"
   - "triclinia (rooms)"
-  - "amphorae (storage vessels)"
+  - "amphorae"
   - "planting pots"
   - "inscriptions"
   - "Virgil"
@@ -59,10 +59,10 @@ House of the Nymphs (Maison des Nymphes)
 ## Keywords
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "oeci" >}}
 - {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "amphorae" >}}
 - {{< keyword "cachepots" >}}
 - {{< keyword "inscriptions" >}}
 - {{< keyword "Virgil" >}}

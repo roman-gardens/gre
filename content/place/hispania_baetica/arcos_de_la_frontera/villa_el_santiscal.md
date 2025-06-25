@@ -46,7 +46,7 @@ Villa el Santiscal
 ## Keywords
 
 - {{< keyword "fountains" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "rills" >}}
 

@@ -54,12 +54,12 @@ In 1984 – 86, prior to construction of a parking garage, a large area of some 
 
 ## Keywords
 
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "dolia" >}}
 - {{< keyword "opus signinum" >}}
 - {{< keyword "reception rooms" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "opus sectile (visual works)" >}}
+- {{< keyword "opus sectile" >}}
 
 
 

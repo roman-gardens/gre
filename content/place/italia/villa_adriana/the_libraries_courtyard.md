@@ -10,7 +10,7 @@ editor: Joshua Rosenheim
 draft: true
 tags:
  - "flower gardens"
- - "nymphaea (garden structures)"
+ - "nymphaea"
  - "peristyles"
  - "porticoes"
 ---
@@ -45,7 +45,7 @@ The Libraries' Courtyard (Fig. 1, n. 13)\
 ## Keywords
 
 - {{< keyword "flower gardens" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 

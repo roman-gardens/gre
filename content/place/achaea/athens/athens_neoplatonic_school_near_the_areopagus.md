@@ -14,8 +14,8 @@ categories:
  - "Achaea"
 
 tags:
- - "basins (vessels)"
- - "nymphaea (garden structures)"
+ - "basins"
+ - "nymphaea"
  - "peristyles"
 ---
 
@@ -38,8 +38,8 @@ Neoplatonic School near the Areopagus (Omega House)
 
 ## Keywords
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "basins (vessels)" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "peristyles" >}}
 
 ## Garden Description

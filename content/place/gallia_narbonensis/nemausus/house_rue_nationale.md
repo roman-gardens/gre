@@ -52,7 +52,7 @@ Baths of La Planchette
 - {{< keyword "vestibules" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "opus signinum" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "gutters" >}}
 
 
 ## House Description

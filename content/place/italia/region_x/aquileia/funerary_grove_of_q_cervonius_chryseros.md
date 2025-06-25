@@ -12,7 +12,7 @@ draft: true
 categories:
  - "Italia"
 tags:
- - "altars (religious fixtures)"
+ - "altars"
  - "grove (sacred grove)"
  - "stelae"
  - "tombs"
@@ -54,7 +54,7 @@ Funerary Grove of Q. Cervonius Chryseros
 - {{< keyword "tombs" >}}
 - {{< keyword "stelae" >}}
 - {{< keyword "sacred groves" >}}
-- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "altars" >}}
 
 ## Garden Description
 

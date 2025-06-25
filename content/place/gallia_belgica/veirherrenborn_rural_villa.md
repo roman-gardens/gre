@@ -39,7 +39,7 @@ A sublocation is any area larger than an individual garden, but located within a
 Rural Villa
 
 ## Keywords
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "paddocks" >}}
 
 ## Garden Description

@@ -54,7 +54,7 @@ Villa des Baumelles
 - {{< keyword "colonnades" >}}
 - {{< keyword "stairs" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "reception rooms" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "triclinia (rooms)" >}}

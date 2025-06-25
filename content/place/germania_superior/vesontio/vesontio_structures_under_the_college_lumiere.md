@@ -54,7 +54,7 @@ Structures under the Collège Lumière in Vesontio
 
 - {{< keyword "colonnades" >}}
 - {{< keyword "kraters" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "opus signinum" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "piscinae" >}}

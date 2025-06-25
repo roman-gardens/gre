@@ -44,7 +44,7 @@ Elephant tomb
 
 ## Keywords
 
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "basins" >}}
 - {{< keyword "statues" >}}
 - {{< keyword "tombs" >}}
 - {{< keyword "triclinia (rooms)" >}}

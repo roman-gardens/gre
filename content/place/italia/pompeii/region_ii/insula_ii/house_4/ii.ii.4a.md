@@ -12,8 +12,8 @@ draft: false
 categories:
  - "Italia"
 tags:
- - "courtyards (uncovered spaces)"
- - "insulae (apartments)"
+ - "courtyards"
+ - "insulae"
 ---
 
 ## Province
@@ -40,8 +40,8 @@ Peristyle garden in house of Messius Ampliatus (II.ii.4)
 
 ## Keywords
 
-- {{< keyword "insulae (apartments)" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "insulae" >}}
+- {{< keyword "courtyards" >}}
 
 ## Garden Description
 

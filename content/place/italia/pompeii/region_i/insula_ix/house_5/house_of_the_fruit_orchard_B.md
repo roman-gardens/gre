@@ -45,7 +45,7 @@ House of the Fruit Orchard; Casa del Frutteto; Dei Cubicoli Floreali (I.ix.5) B
 ## Keywords
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "mural paintings" >}}
 - {{< keyword "peristyles" >}}
 
 ## Garden Description

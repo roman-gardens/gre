@@ -1,0 +1,66 @@
+{{/*
+
+For the specifed term, return an HTML snippet
+containing:
+* the term (linked to a GRE search)
+* if the term is listed in keywords.csv (with or without any parentheticals)
+  then add a link labelled with vocab:id, linked to the vocab website
+
+*/}}
+{{- $term := . -}}
+
+{{/* Load the list of known keywords */}}
+{{- $keywords := dict -}}
+{{- with resources.Get "keywords.csv" -}}
+    {{- $opts := dict "targetType" "map" -}}
+    {{- $keywords = transform.Unmarshal $opts . -}}
+    
+    {{/* include version of keywords without parentheticals */}}
+    {{ $morekeywords := slice }}
+    {{ range $keywords }}
+        {{ $row := . }}
+        {{ $term := index . "term" }}
+        {{ $parens := findRESubmatch `^(.*) \(.*\)$` $term }}
+        {{ range $parens }}
+            {{ $shortkeyword := index . 1 }}
+            {{ $newrow := dict "term" $shortkeyword "vocab" (index $row "vocab") "id" (index $row "id") "fullterm" (index $row "term") }}
+            {{ $morekeywords = $morekeywords | append $newrow }}
+        {{ end }}
+    {{ end }}
+    {{ $keywords = $keywords | append $morekeywords }}
+{{- end -}}
+
+{{/* Load the list of known vocabularies */}}
+{{- $vocabs := dict -}}
+{{- with resources.Get "vocabs.csv" -}}
+    {{- $opts := dict "targetType" "map" -}}
+    {{- $vocabs = transform.Unmarshal $opts . -}}
+{{- end -}}
+
+{{/* Link the term*/}}
+{{ $output := "" }}
+
+{{/* Add any links to external vocabularies */}}
+{{- range where $keywords "term" $term }}
+    {{ $fullterm := index . "fullterm" }}
+    {{ $url := "" }}
+    {{ $vocabname := "" }}
+
+    {{/* Get the full vocab name */}}
+    {{ range where $vocabs "vocab" .vocab}}
+        {{ $url = .baseurl }}
+        {{ $vocabname = .vocabname}}
+    {{ end }}
+
+    {{ if $url }}
+        {{ $output = print $output `<a href="/search/?q=` $term `">` (cond $fullterm $fullterm $term) `</a>` }}
+        {{ $output = print $output `<a target="_blank" href="` (urls.JoinPath $url .id) `" title="` $vocabname `">` .vocab `:` .id `</a>` }}
+    {{ else }}
+        {{ $output = print "UNKNOWN VOCAB " .vocab " for " $term }}
+    {{ end }}
+{{- end -}}
+{{ if eq $output "" }}
+    {{ $output = print `<a href="/search/?q=` $term `">` $term `</a>`}}
+{{ end }}
+
+{{ return safeHTML (htmlUnescape $output) }}

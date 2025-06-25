@@ -16,7 +16,7 @@ tags:
  - "peristyle houses"
  - "euripus"
  - "semicircular basin"
- - "mosaics (visual works)"
+ - "mosaics"
 ---
 
 ## Province
@@ -59,7 +59,7 @@ House of the Grand Oecus (Maison du grand oecus)
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "euripus" >}}
 - {{< keyword "semicircular basin" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 
 
 ## Garden Description

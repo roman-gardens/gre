@@ -9,7 +9,7 @@ author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "basins (vessels)"
+ - "basins"
  - "fountains"
  - "opus signinum"
  - "peristyles"
@@ -59,8 +59,8 @@ House on Via del Tempio Rotondo
 ## Keywords
 
 - {{< keyword "Augustan" >}}
-- {{< keyword "basins (vessels)" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "opus signinum" >}}
 - {{< keyword "peristyles" >}}

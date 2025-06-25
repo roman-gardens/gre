@@ -13,7 +13,7 @@ categories:
   - "Africa Proconsularis"
 
 tags:
- - "theater"
+ - "theaters"
  - "xystis"
  - "inscriptions"
 ---
@@ -43,9 +43,9 @@ Theater (Theâtre)
 
 ## Keywords
 
-- {{< keyword "theater" >}}
+- {{< keyword "theaters" >}}
 - {{< keyword "xystis" >}}
-- {{< keyword "inscription" >}}
+- {{< keyword "inscriptions" >}}
 
 ## Garden Description
 

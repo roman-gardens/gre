@@ -12,7 +12,7 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- - "cubicula (domestic spaces)"
+ - "cubicula"
  - "domus"
  - "oeci"
  - "peristyle houses"
@@ -48,7 +48,7 @@ House of the Trussed Animals (Maison des animaux liés)
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "oeci" >}}
-- {{< keyword "cubicula (domestic spaces)" >}}
+- {{< keyword "cubicula" >}}
 
 ## Garden Description
 

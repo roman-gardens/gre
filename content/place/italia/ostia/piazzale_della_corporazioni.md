@@ -9,8 +9,8 @@ author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "basins (vessels)"
- - "columns (architectural elements)"
+ - "basins"
+ - "columns"
  - "opus signinum"
  - "porticoes"
  - "statues"
@@ -60,19 +60,19 @@ Piazzale della Corporazioni \
 ## Keywords
 
 - {{< keyword "allées" >}}
-- {{< keyword "beds (site elements)" >}}
+- {{< keyword "beds" >}}
 - {{< keyword "Augustan" >}}
 - [Domitian, Emperor of Rome](http://vocab.getty.edu/page/ulan/500083758)
 - {{< keyword "Hadrianic" >}}
 - {{< keyword "Julio-Claudian" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "opus signinum" >}}
 - {{< keyword "parterres" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "scaenae" >}}
-- {{< keyword "sewers (drainage structures)" >}}
+- {{< keyword "sewers" >}}
 - {{< keyword "statues" >}}
-- {{< keyword "theaters (buildings)" >}}
+- {{< keyword "theaters" >}}
 - [Vitruvius](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476.1)
 
 ## Garden Description

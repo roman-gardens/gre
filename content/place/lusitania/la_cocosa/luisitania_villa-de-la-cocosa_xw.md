@@ -48,7 +48,7 @@ Villa de La Cocosa
 
 ## Keywords
 - {{< keyword "peristyles" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "podiums (building divisions)" >}}
 
 ## Garden Description

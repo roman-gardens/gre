@@ -53,10 +53,10 @@ House of Vestibule with Columns
 - {{< keyword "porticoes" >}}
 - {{< keyword "vestibules" >}}
 - {{< keyword "colonnades" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "reception rooms" >}}
 
 

@@ -1,6 +1,7 @@
-vocab,baseurl,fullname
+vocab,baseurl,vocabname
 AAT,http://vocab.getty.edu/page/aat,Art and Architecture Thesaurus (Getty)
 ORCID,https://orcid.org,Open Researcher and Contributor ID
 Pleiades,https://pleiades.stoa.org/places,Pleiades gazetteer of ancient places
 POWO,https://powo.science.kew.org/taxon,Plants of the World Online (Kew)
 TGN,http://vocab.getty.edu/page/tgn,Thesaurus of Geographic Names (Getty)
+ULAN,http://vocab.getty.edu/page/ulan,Union List of Artist Names (Getty)

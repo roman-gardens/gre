@@ -10,7 +10,7 @@ editor: Joshua Rosenheim
 draft: true
 tags:
  - "exedrae (site elements)"
- - "nymphaea (garden structures)"
+ - "nymphaea"
 ---
 
 ## Province
@@ -42,7 +42,7 @@ Garden in the courtyard of the buildings to the East of the *Inferi Nymphaeum* (
 ## Keywords
 
 - {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 
 ## Garden Description
 

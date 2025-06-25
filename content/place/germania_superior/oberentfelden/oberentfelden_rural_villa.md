@@ -51,7 +51,7 @@ Rural Villa in Oberentfelden
 <!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "balnea" >}}
 - {{< keyword "kitchen gardens" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "villae rusticae" >}}
 

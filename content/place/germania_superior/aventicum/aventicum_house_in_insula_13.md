@@ -53,8 +53,8 @@ House in Insula 13 in Aventicum
 - {{< keyword "corridors" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "garden pavilions" >}}
-- {{< keyword "gutters (building drainage components)" >}}
-- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "insulae" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "piscinae" >}}
 - {{< keyword "reception rooms" >}}

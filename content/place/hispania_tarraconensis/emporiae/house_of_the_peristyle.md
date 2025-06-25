@@ -84,7 +84,7 @@ House of the Peristyle
 
 ## Keywords
 - {{< keyword "peristyles" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 
 
 ## Garden Description

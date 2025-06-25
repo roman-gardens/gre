@@ -52,7 +52,7 @@ Gardens of the Temple of Divine Claudius (Roma)<!-- List of gardens in province 
 - {{< keyword "temples" >}}
 - {{< keyword "nemus (grove)" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "aqueducts" >}}
 - {{< keyword "stagnum (man-made lake)" >}}
 

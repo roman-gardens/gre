@@ -14,8 +14,8 @@ categories:
   - "Italia"
 tags:
  - "aedicules"
- - "amphorae (storage vessels)"
- - "atriums (Roman halls)"
+ - "amphorae"
+ - "atriums"
  - "cauponae"
  - "flowerpots"
  - "lararia"
@@ -42,8 +42,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 - {{< keyword "aedicules" >}}
-- {{< keyword "amphorae (storage vessels)" >}}
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "amphorae" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "cauponae" >}}
 - {{< keyword "flowerpots" >}}
 - {{< keyword "lararia" >}}

@@ -13,10 +13,10 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "altars (religious fixtures)"
- - "cisterns (plumbing components)"
- - "columns (architectural elements)"
- - "graffiti (casual notations)"
+ - "altars"
+ - "cisterns"
+ - "columns"
+ - "graffiti"
  - "peristyles"
  - "sacella"
  - "vestibules"
@@ -41,14 +41,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula I]({{<relref ".">}})
 
 ## Keywords
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "sacella" >}}
 - {{< keyword "water supply systems" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "vestibules" >}}
-- {{< keyword "graffiti (casual notations)" >}}
+- {{< keyword "graffiti" >}}
 - {{< keyword "peristyles" >}}
-- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "altars" >}}
 
 
 

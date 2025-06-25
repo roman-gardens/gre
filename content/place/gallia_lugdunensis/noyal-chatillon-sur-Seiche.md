@@ -41,7 +41,7 @@ Villa de Châtillon-sur-Seiche
 
 ## Keywords
 - {{< keyword "barns" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "trenches" >}}
 - {{< keyword "fanums" >}}
 - {{< keyword "fountains" >}}

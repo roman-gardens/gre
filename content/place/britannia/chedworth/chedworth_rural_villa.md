@@ -48,9 +48,9 @@ Rural Villa in Chedworth
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "balnea" >}}
-- {{< keyword "bone (material)" >}}
+- {{< keyword "bone" >}}
 - {{< keyword "drains" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "sherds" >}}
 - {{< keyword "villae rusticae" >}}
 

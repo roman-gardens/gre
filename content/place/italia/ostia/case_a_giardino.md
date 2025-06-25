@@ -10,7 +10,7 @@ editor: Joshua Rosenheim
 draft: false
 tags:
  - "fountains"
- - "mosaics (visual works)"
+ - "mosaics"
  - "statues"
 ---
 
@@ -58,15 +58,15 @@ Garden Houses (Case a Giardino) \
 ## Keywords
 
 - {{< keyword "fountains" >}}
-- {{< keyword "jeux d’eau" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "jeux d'eau" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "statues" >}}
 
 ## Garden Description
 
 The area in which these houses are situated was laid out as a residential area in *c*. 128 CE as part of the [Hadrianic](https://en.wikipedia.org/wiki/Hadrian) remodeling of Ostia (Fig. 1). It is delimited by buildings of various depths, due to the irregularity of the available space. The central area is occupied by two blocks each comprising four houses, surrounded, according to the excavators, by a garden furnished with six [fountains](http://vocab.getty.edu/page/aat/300006179) (a) (three on the west and three on the east side; they each measure 2.93x3.55 m. and have a maximum preserved height of 75 cm.) (Figs. 2, 3). The fountains had more than a purely decorative function. They seem rather to be the classic type of canopied fountain. Each was equipped with a water spout and probably with an opening for drawing water. The fountains were surrounded on three sides by a travertine border, in which a little channel for the discharge of excess water was hewn. Two rounded grooves in the channel, in front of each spout, have been interpreted as supports for vessels to rest in as they were filled with water. On the fourth side, which has no border, is an outlet for the discharge of water, which flowed into the main drain leading outside the complex.
 
-A fourth fountain (b) was added on the eastern side, in the early years of the 3rd century CE. Its floor was embellished with a mosaic representing [Nilotic](https://en.wikipedia.org/wiki/Nile) scenes (3.30x2.96 m) (Fig. 4); it has been suggested that it was roofed with a pergola supported by small columns. This fountain was essentially ornamental. It would have provided *jeux d’eau* and was perhaps combined with small flower-beds or garden sculptures in the area surrounded by the mosaic border.
+A fourth fountain (b) was added on the eastern side, in the early years of the 3rd century CE. Its floor was embellished with a mosaic representing [Nilotic](https://en.wikipedia.org/wiki/Nile) scenes (3.30x2.96 m) (Fig. 4); it has been suggested that it was roofed with a pergola supported by small columns. This fountain was essentially ornamental. It would have provided *jeux d'eau* and was perhaps combined with small flower-beds or garden sculptures in the area surrounded by the mosaic border.
 
 A sculptural group with a fishing scene, which could be interpreted as a fountain-head, was found (not *in situ*) in one of the rooms of the eastern block and might have belonged to this fountain (Fig. 5).
 

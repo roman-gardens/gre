@@ -50,7 +50,7 @@ Saint-Pierre, House or Public Building
 ## Keywords
 
 - {{< keyword "porticoes" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "porticoes" >}}
 
 

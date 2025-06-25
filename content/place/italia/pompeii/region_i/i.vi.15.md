@@ -13,13 +13,13 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "basins (vessels)"
- - "cisterns (plumbing components)"
+ - "basins"
+ - "cisterns"
  - "fountains"
  - "garden lights"
  - "garden ornaments"
- - "gutters (building drainage components)"
- - "mural paintings (visual works)"
+ - "gutters"
+ - "mural paintings"
  - "porticoes"
 ---
 
@@ -42,13 +42,13 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 
-- {{< keyword "basins (vessels)" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "garden lights" >}}
 - {{< keyword "garden ornaments" >}}
-- {{< keyword "gutters (building drainage components)" >}}
-- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "mural paintings" >}}
 - {{< keyword "porticoes" >}}
 
 

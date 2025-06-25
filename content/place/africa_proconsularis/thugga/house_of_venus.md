@@ -15,7 +15,7 @@ tags:
  - "domus"
  - "peristyle houses"
  - "pools"
- - "mosaics (visual works)"
+ - "mosaics"
 ---
 
 ## Province
@@ -46,7 +46,7 @@ House of Venus (Maison de Venus)
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "pools" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 
 
 ## Garden Description

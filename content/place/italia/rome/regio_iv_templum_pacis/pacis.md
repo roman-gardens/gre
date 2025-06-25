@@ -33,26 +33,26 @@ Garden of the Templum Pacis
 
 ## Keywords
 
-- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "altars" >}}
 - {{< keyword "column bases" >}}
-- {{< keyword "basins (vessels)" >}}
-- {{< keyword "brick (clay material)" >}}
-- {{< keyword "canals (waterways)" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "brick" >}}
+- {{< keyword "canals" >}}
 - {{< keyword "concrete" >}}
 - {{< keyword "cornices" >}}
-- {{< keyword "capitals (column elements)" >}}
+- {{< keyword "capitals" >}}
 - {{< keyword "colonnades" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "engaged columns" >}}
 - {{< keyword "entablatures" >}}
 - {{< keyword "flowerpots" >}}
 - {{< keyword "flower gardens" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "gutters" >}}
 - {{< keyword "hedges" >}}
-- {{< keyword "libraries (rooms)" >}}
-- {{< keyword "marble (rock)" >}}
-- {{< keyword "piping (plumbing system components)" >}}
+- {{< keyword "libraries" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "pipes" >}}
 - {{< keyword "planting beds" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "statues" >}}
@@ -78,7 +78,7 @@ The Severan Marble Plan (*FUR*) was displayed in the room located to the southea
 
 Excavations of the *Templum Pacis* (carried out between 1998 and 2005) examined a portion of the SW part of the open space. The open space was enclosed on three sides by a portico, five steps above the ground level. The [colonnade](http://vocab.getty.edu/page/aat/300002613) was composed of [Corinthian](https://en.wikipedia.org/wiki/Corinthian_order) [columns](http://vocab.getty.edu/page/aat/300001571) of pink [Aswan granite](http://www.oum.ox.ac.uk/corsi/stones/view/839) (with white [marble](http://vocab.getty.edu/page/aat/300011443) [bases](http://vocab.getty.edu/page/aat/300233843), [capitals](http://vocab.getty.edu/page/aat/300001662), and [entablature](http://vocab.getty.edu/page/aat/300001770)). There was an [engaged](https://en.wikipedia.org/wiki/Engaged_column) [colonnade](http://vocab.getty.edu/page/aat/300002613) of twenty-two columns with shafts of Lucullan black-red marble located along the main entrance from the [*Argiletum*](https://en.wikipedia.org/wiki/Argiletum) (NW corner). The majority of the square was beaten earth, though there was some marble flooring installed towards the *Forum Transitorium*. During the 1998-2000 excavations, three of the six longitudinal features visible on the *FUR* were unearthed. They are 4.70 m. wide and 1 m. tall, demarcated by [brick-faced]([brick (construction material)](http://vocab.getty.edu/page/aat/300010463) [concrete](http://vocab.getty.edu/page/aat/300010737) walls with a marble [veneer](http://vocab.getty.edu/page/aat/300002571). They do not match the rectangles depicted on the Marble Plan. The differences between the Marble Plan and the archaeological remains can perhaps be explained by a replanting and redesigning of the garden features after the *Templum Pacis* was badly damaged in the fire of 191 CE. Or, as Tucci suggests,  it may be that the rectangles on *FUR* fragment 15b never existed.
 
-Tucci noted that two of the longitudinal features (closest to the southeast portico) were connected by a brick wall (which showed no joint, suggesting that they were constructed at the same time). Traces of [lead](http://vocab.getty.edu/page/aat/300011022) [pipes](http://vocab.getty.edu/page/aat/300052572) (still unpublished as of 2017) and marble [gutters](http://vocab.getty.edu/page/aat/300052565) have led the excavators to reconstruct [water channels](http://vocab.getty.edu/page/aat/300006075), which have been called *euripi*, carved into the top of the wall. The excavators have proposed that there were six marble covered [basins](http://vocab.getty.edu/page/aat/300045614) (1-1.5 m. tall) where water flowed continually over the edge into a gutter (like a modern infinity pool). Along the gutters were a row of small [vases](http://vocab.getty.edu/page/aat/300132254) in which Gallic roses were planted. Thirty-one planting pots with soil and seed remains were discovered. Based on the archaeobotanical examination of the surviving seeds by A. Celant, the plants were identified as [Gallic roses](https://en.wikipedia.org/wiki/Rosa_gallica), which are also depicted in Pompeian wall paintings.
+Tucci noted that two of the longitudinal features (closest to the southeast portico) were connected by a brick wall (which showed no joint, suggesting that they were constructed at the same time). Traces of [lead](http://vocab.getty.edu/page/aat/300011022) [pipes](http://vocab.getty.edu/page/aat/300014662) (still unpublished as of 2017) and marble [gutters](http://vocab.getty.edu/page/aat/300052565) have led the excavators to reconstruct [water channels](http://vocab.getty.edu/page/aat/300006075), which have been called *euripi*, carved into the top of the wall. The excavators have proposed that there were six marble covered [basins](http://vocab.getty.edu/page/aat/300045614) (1-1.5 m. tall) where water flowed continually over the edge into a gutter (like a modern infinity pool). Along the gutters were a row of small [vases](http://vocab.getty.edu/page/aat/300132254) in which Gallic roses were planted. Thirty-one planting pots with soil and seed remains were discovered. Based on the archaeobotanical examination of the surviving seeds by A. Celant, the plants were identified as [Gallic roses](https://en.wikipedia.org/wiki/Rosa_gallica), which are also depicted in Pompeian wall paintings.
 
 Neither Tucci (whose two-volume work on the complex is a rigorous, long durée examination of the structure) nor A. Claridge finds this interpretation of water channels to be convincing. According to Tucci, the top of the six structures were capped by marble blocks, each of which had a hole for [lewis irons](http://vocab.getty.edu/page/aat/300023060) to be placed transversely in the center and a recess for a, now lost, metal [clamp](http://vocab.getty.edu/page/aat/300024736). All of these elements would have been visible (and thus not attractive) and damaged by the continuous flowing of water. Furthermore, Tucci argues that the [cornice](http://vocab.getty.edu/page/aat/300001788)
 at the edge of these structures might have belonged to the [attic](http://vocab.getty.edu/page/aat/300002651) story of the porticoes rather than the structures themselves (i.e., they had fallen down and were misinterpreted by the excavators). He notes that the water channels were filled with earth; they were not lined by concrete, as would be expected for water channels. Furthermore, he argues that the position of the gutters (towards the SE portico) would be useless for a water channel flowing over the middle. Instead, the gutter and lead pipes (if in fact present) suggest an infrastructure for watering plants and for drainage, affirming that the *Templum Pacis* was a garden. It is unlikely, however, that the *Templum Pacis* was a type of botanical garden of exotic species that demonstrated Rome’s power over the submissive east, as Pollard has proposed. While Vespasian and Titus paraded the [balsam](https://en.wikipedia.org/wiki/Balm_of_Gilead) tree in their [triumphs](https://en.wikipedia.org/wiki/Roman_triumph), bringing the plant to Rome for the first time, it is unlikely that it would have been planted within the *Templum*, as it needs very specific climate conditions (only found in the Middle East) to live, let alone thrive, and there is no archaeological evidence for plants other than the Gallic roses.

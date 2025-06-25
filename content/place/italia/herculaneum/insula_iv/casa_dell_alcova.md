@@ -40,7 +40,7 @@ Casa dell’Alcova
 
 
 ## Keywords
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "procoeton" >}}
 

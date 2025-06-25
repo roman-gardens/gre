@@ -14,11 +14,11 @@ categories:
 tags:
  - "balnea"
  - "domus"
- - "mosaics (visual works)"
+ - "mosaics"
  - "peristyle houses"
  - "triclinia (rooms)"
- - "basins (vessels)"
- - "planters (containers)"
+ - "basins"
+ - "planters"
  - "pools"
 ---
 
@@ -54,11 +54,11 @@ House of Europa, Central District (Maison d'Europe, Quartier Central)
 ## Keywords
 - {{< keyword "balnea" >}}
 - {{< keyword "domus" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "basins (vessels)" >}}
-- {{< keyword "planters (containers)" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "planters" >}}
 - {{< keyword "pools" >}}
 
 ## Garden Description

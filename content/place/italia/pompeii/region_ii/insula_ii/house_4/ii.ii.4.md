@@ -12,7 +12,7 @@ draft: false
 categories:
  - "Italia"
 tags:
- - "courtyards (uncovered spaces)"
+ - "courtyards"
  - "porticoes"
 
 ---
@@ -44,7 +44,7 @@ Narrow garden in the house of Messius Ampliatus.
 
 ## Keywords
 
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "porticoes" >}}
 
 ## Garden Description

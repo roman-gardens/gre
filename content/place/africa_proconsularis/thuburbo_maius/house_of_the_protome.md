@@ -13,7 +13,7 @@ categories:
   - "Africa Proconsularis"
 tags:
  - "domus"
- - "mosaics (visual works)"
+ - "mosaics"
  - "peristyle houses"
  - "semicircular basin"
  - "pools"
@@ -48,10 +48,10 @@ House of the Protomes (Maison des Protomés)
 ## Keywords
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "semicircular basin" >}}
 - {{< keyword "pools" >}}
-- {{< keyword "fish pool" >}}
+- {{< keyword "fishponds" >}}
 - {{< keyword "oeci" >}}
 
 

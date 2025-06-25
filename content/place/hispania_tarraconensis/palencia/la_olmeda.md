@@ -48,7 +48,7 @@ La Olmeda
 
 ## Keywords
 - {{< keyword "peristyles" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "corridors" >}}
 
 ## Garden Description

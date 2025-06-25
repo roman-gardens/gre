@@ -37,8 +37,8 @@ Hospitium garden, possibly planted in antiquity.
 ## Keywords
 
 - {{< keyword "lararia" >}}
-- {{< keyword "stables (animal housing)" >}}
-- {{< keyword "troughs (containers)" >}}
+- {{< keyword "stables" >}}
+- {{< keyword "troughs" >}}
 
 ## Garden Description
 

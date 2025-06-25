@@ -13,7 +13,7 @@ tags:
  - "domus"
  - "exedrae (site elements)"
  - "nemus (grove)"
- - "nymphaea (garden structures)"
+ - "nymphaea"
  - "peristyles"
  - "porticoes"
  - "stagnum (man-made lake)"
@@ -49,7 +49,7 @@ Garden of the Domus Aurea \
 
 ## Keywords
 
-- {{< keyword "brick (clay material)" >}}
+- {{< keyword "brick" >}}
 - {{< keyword "colonnades" >}}
 - {{< keyword "cryptoportici" >}}
 - {{< keyword "domus" >}}
@@ -60,7 +60,7 @@ Garden of the Domus Aurea \
 - {{< keyword "nemus (grove)" >}}
 - {{< keyword "niches" >}}
 - {{< keyword "nymphaea" >}}
-- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "palaces" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "retaining walls" >}}

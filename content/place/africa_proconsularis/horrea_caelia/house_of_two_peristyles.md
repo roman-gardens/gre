@@ -15,7 +15,7 @@ tag:
   - "domus"
   - "peristyle houses"
   - "church buildings by function"
-  - "basins (vessels)"
+  - "basins"
   - "balnea"
 ---
 
@@ -55,8 +55,8 @@ House of two peristyles (Maison aux deux péristyles)
 ## Keywords
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
-- {{< keyword "churches (buildings)" >}}
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "churches" >}}
+- {{< keyword "basins" >}}
 - {{< keyword "balnea" >}}
 
 ## Garden Description

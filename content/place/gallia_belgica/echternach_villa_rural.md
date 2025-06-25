@@ -40,7 +40,7 @@ Rural Villa
 
 ## Keywords
 - {{< keyword "mosiacs" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "peristyles" >}}
 
 ## Garden Description

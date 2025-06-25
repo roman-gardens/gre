@@ -34,19 +34,19 @@ Upper Peristyle and Nymphaea of the Domus Flavia, Palatine
 
 ## Keywords
 
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "basins" >}}
 - {{< keyword "flower gardens" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "labyrinths (built works)" >}}
-- {{< keyword "marble (rock)" >}}
+- {{< keyword "labyrinths" >}}
+- {{< keyword "marble" >}}
 - {{< keyword "niches" >}}
 - {{< keyword "nymphaea" >}}
-- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "palaces" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "statues" >}}
 - {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "villa urbanae" >}}
+- {{< keyword "villae urbanae" >}}
 
 - [Martial](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.897)
 - [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)

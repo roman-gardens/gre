@@ -43,7 +43,7 @@ House with Pilasters (Clos du Verbe Incarné)
 ## Keywords
 - {{< keyword "domus" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "drains" >}}
 
 ## Garden Description

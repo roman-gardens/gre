@@ -49,8 +49,8 @@ Villa de Château-Pipet
 
 ## Keywords
 
-- {{< keyword "basins (vessels)" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "opus signinum" >}}
 
 

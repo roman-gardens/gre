@@ -14,7 +14,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "atriums (Roman halls)"
+ - "atriums"
  - "cauponae"
  - "tabernae"
  - "triclinia (rooms)"
@@ -41,7 +41,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Caupona with small bath.
 
 ## Keywords
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "cauponae" >}}
 - {{< keyword "tabernae" >}}
 - {{< keyword "triclinia (rooms)" >}}

@@ -51,8 +51,8 @@ Puymin Quarter, Sanctuary with Portico’s
 - {{< keyword "domus" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "statues" >}}
-- {{< keyword "gutters (building drainage components)" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "columns" >}}
 
 
 

@@ -40,7 +40,7 @@ House of the Ephebe (Maison de l'Ephebe)
 
 ## Keywords
 
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "piscinae" >}}

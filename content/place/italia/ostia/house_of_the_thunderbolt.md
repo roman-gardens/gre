@@ -10,7 +10,7 @@ editor: Joshua Rosenheim
 draft: false
 tags:
  - "biclinia"
- - "columns (architectural elements)"
+ - "columns"
  - "domus"
  - "lararia"
  - "peristyles"
@@ -60,9 +60,9 @@ House of the Thunderbolt (Domus Fulminata) \
 
 ## Keywords
 
-- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "altars" >}}
 - {{< keyword "biclinia" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "domus" >}}
 - {{< keyword "Flavian" >}}
 - {{< keyword "fountains" >}}

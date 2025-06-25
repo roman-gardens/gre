@@ -12,7 +12,7 @@ draft: true
 categories:
 - "Italia"
 tags:
- - "cisterns (plumbing components)"
+ - "cisterns"
  - "fountains"
  - "lararia"
  - "trellises"
@@ -52,7 +52,7 @@ House 1
 Bakery with Dwelling Rooms (V.iv.1)
 
 ## Keywords
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "lararia" >}}  
 - {{< keyword "trellises" >}}
 - {{< keyword "fountains" >}}

@@ -48,9 +48,9 @@ Villa del Cortijo de los Vila
 ## Keywords
 
 - {{< keyword "fountains" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "peristyles" >}}
-- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "statuettes" >}}
 <!-- - [Priapus](#) -->
 
 

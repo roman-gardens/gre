@@ -49,10 +49,10 @@ Edifice of the Platform
 
 ## Keywords
 - {{< keyword "vestibules" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "peristyles" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
-- {{< keyword "opus sectile (visual works)" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "opus sectile" >}}
 - {{< keyword "porticoes" >}}
 
 

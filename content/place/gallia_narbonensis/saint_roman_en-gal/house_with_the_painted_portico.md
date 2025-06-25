@@ -50,8 +50,8 @@ House with the Painted Portico
 ## Keywords
 
 - {{< keyword "porticoes" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "columns" >}}
 - apsed pools
 
 

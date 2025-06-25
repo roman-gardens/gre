@@ -51,8 +51,8 @@ House under the Crédit Agricole
 ## Keywords
 
 - {{< keyword "domus" >}}
-- {{< keyword "mosaics (visual works)" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 

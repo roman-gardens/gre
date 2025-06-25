@@ -49,7 +49,7 @@ Enclos Reynaud, House with the semicircular bay, phase I
 
 ## Keywords
 
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "statues" >}}
 
 

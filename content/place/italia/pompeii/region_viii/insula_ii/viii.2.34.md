@@ -14,8 +14,8 @@ categories:
   - "Italia"
 tags:
   - "porticoes"
-  - "Crocodylidae (family)"
-  - "Hippopotamus (genus)"
+  - "Crocodylidae"
+  - "Hippopotamus"
 ---
 
 ## Province
@@ -37,8 +37,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 - {{< keyword "porticoes" >}}
-- {{< keyword "Crocodylidae (family)" >}}
-- {{< keyword "Hippopotamus (genus)" >}}
+- {{< keyword "Crocodylidae" >}}
+- {{< keyword "Hippopotamus" >}}
 
 
 ## Garden Description

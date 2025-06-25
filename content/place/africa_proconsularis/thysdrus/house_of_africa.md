@@ -52,7 +52,7 @@ House of Africa (Maison de l'Afrique) (New plan and reconstruction) cf V.B.Bijon
 ## Keywords
 
 - {{< keyword "peristyles" >}}
-- {{< keyword "semicircular" >}}
+- {{< keyword "semicircular basin" >}}
 
 ## Garden Description
 

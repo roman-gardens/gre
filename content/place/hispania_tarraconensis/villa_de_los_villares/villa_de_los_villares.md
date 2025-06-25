@@ -76,7 +76,7 @@ Villa de Los Villares
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "drains" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 
 ## Garden Description
 

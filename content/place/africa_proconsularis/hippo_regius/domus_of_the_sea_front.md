@@ -14,9 +14,9 @@ categories:
 tag:
   - "domus"
   - "peristyle houses"
-  - "planters (containers)"
+  - "planters"
   - "oeci"
-  - "cisterns (plumbing components)"
+  - "cisterns"
   - "semicircular basin"
 ---
 
@@ -58,9 +58,9 @@ Domus of the Sea Front (Villa du front de mer)
 ## Keywords
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
-- {{< keyword "planters (containers)" >}}
+- {{< keyword "planters" >}}
 - {{< keyword "oeci" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "semicircular basin" >}}
 
 

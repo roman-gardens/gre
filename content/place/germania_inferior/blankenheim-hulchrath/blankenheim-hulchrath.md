@@ -40,7 +40,6 @@ A sublocation is any area larger than an individual garden, but located within a
 Rustic villa at Blankenheim-Hülchrath
 
 ## Keywords
-- {{< keyword "rural villas" >}}
 - {{< keyword "villae rusticae" >}}
 
 ## Garden Description

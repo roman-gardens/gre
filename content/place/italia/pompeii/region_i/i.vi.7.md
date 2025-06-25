@@ -14,7 +14,7 @@ categories:
   - "Italia"
 tags:
  - "atrium houses"
- - "gutters (building drainage components)"
+ - "gutters"
  - "peristyles"
  - "pillars"
  - "porticoes"
@@ -42,7 +42,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "peristyles" >}}
 - {{< keyword "pillars" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "gutters" >}}
 
 ## Garden
 Fullonica of Stephanus; Fullery of Stephanus.

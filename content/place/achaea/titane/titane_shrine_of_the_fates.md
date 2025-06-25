@@ -46,7 +46,7 @@ Shrine of the Fates
 ## Keywords
 
 - {{< keyword "literary gardens" >}}
-- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "altars" >}}
 - [holm oaks (Quercus ilex)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296290-1)
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
 - {{< keyword "sacred groves" >}}

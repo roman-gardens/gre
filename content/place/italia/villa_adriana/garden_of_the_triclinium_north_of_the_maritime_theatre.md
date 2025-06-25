@@ -40,7 +40,7 @@ Garden of the *triclinium* North of the Maritime Theatre (Fig. 1, n. 7)
 
 - {{< keyword "cyzigene" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description

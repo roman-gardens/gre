@@ -35,21 +35,21 @@ Garden of the Flavian Imperial Palace, Palatine
 ## Keywords
 
 - {{< keyword "allées" >}}
-- {{< keyword "altars (religious fixtures)" >}}
-- {{< keyword "amphorae (storage vessels)" >}}
-- {{< keyword "canals (waterways)" >}}
+- {{< keyword "altars" >}}
+- {{< keyword "amphorae" >}}
+- {{< keyword "canals" >}}
 - {{< keyword "colonnades" >}}
 - {{< keyword "columns (architectural element)" >}}
 - {{< keyword "flowerpots" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "lead (metal)" >}}
-- {{< keyword "piping (plumbing system components)" >}}
-- {{< keyword "marble (rock)" >}}
+- {{< keyword "lead" >}}
+- {{< keyword "pipes" >}}
+- {{< keyword "marble" >}}
 - {{< keyword "niches" >}}
-- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "palaces" >}}
 - {{< keyword "plinths" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "sewers (drainage structures)" >}}
+- {{< keyword "sewers" >}}
 - {{< keyword "statues" >}}
 
 

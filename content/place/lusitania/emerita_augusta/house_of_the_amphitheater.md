@@ -62,10 +62,10 @@ House of the Amphitheater
 ## Keywords
 
 - {{< keyword "peristyles" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "water wells" >}}
 - {{< keyword "colonnades" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description

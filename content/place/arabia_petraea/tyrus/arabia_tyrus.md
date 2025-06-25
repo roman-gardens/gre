@@ -43,7 +43,7 @@ Palace of Hyrcanus the Tobiad
 - {{< keyword "artificial islands" >}}
 - {{< keyword "forecourts" >}}
 - {{< keyword "dovecotes" >}}
-- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "palaces" >}}
 - {{< keyword "paradise gardens" >}}
 - {{< keyword "reflecting pools" >}}
 - {{< keyword "triclinia (rooms)" >}}

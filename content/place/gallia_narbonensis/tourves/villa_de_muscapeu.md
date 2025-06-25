@@ -53,7 +53,7 @@ Villa de Muscapeu
 - {{< keyword "opus signinum" >}}
 - {{< keyword "reception rooms" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "balnea" >}}
 
 

@@ -46,7 +46,7 @@ Garden of the Porticus Liviae <!--There does not appear to be a Pleiades place r
 - {{< keyword "colonnades" >}}
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "frescoes (paintings)" >}}
+- {{< keyword "frescoes" >}}
 - {{< keyword "niches" >}}]
 - {{< keyword "pergolas" >}}
 - {{< keyword "porticoes" >}}

@@ -37,8 +37,8 @@ House of the Rhodian Peristyle
 
 ## Keywords
 
-- {{< keyword "courtyards (uncovered spaces)" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "peristyles" >}}
 <!-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)-->
 

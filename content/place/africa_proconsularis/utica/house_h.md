@@ -15,7 +15,7 @@ tags:
  - "domus"
  - "peristyle houses"
  - "semicircular basin"
- - "mosaics (visual works)"
+ - "mosaics"
 ---
 
 ## Province
@@ -56,7 +56,7 @@ House H (Maison H)
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "semicircular basin" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 
 
 ## Garden Description

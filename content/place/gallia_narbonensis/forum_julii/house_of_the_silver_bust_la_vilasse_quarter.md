@@ -50,7 +50,7 @@ House of the Silver Bust, La Vilasse Quarter
 ## Keywords
 - {{< keyword "balnea" >}}
 - {{< keyword "vestibules" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "reception rooms" >}}

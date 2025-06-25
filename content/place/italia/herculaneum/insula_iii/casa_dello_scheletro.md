@@ -42,7 +42,7 @@ Casa dello Scheletro
 ## Keywords
 
 - {{< keyword "aedicules" >}}
-- {{< keyword "tympana (wall components)" >}}
+- {{< keyword "tympana" >}}
 - {{< keyword "pergolas" >}}
 - {{< keyword "amorini" >}}
 

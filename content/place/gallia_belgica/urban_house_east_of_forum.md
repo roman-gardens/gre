@@ -41,8 +41,8 @@ A sublocation is any area larger than an individual garden, but located within a
 Urban House East of Forum
 
 ## Keywords
-- {{< keyword "insulae (apartments)" >}}
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "insulae" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "peristyles" >}}
 
 

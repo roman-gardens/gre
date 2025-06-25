@@ -12,9 +12,9 @@ draft: true
 categories:
 - "Italia"
 tags:
- - "cisterns (plumbing components)"
+ - "cisterns"
  - "lararia"
- - "mural paintings (visual works)"
+ - "mural paintings"
  - "tablina"
  - "trellises"
 ---
@@ -54,8 +54,8 @@ V.iv.c.
 
 ## Keywords
 - [viridarium]{#}
-- {{< keyword "cisterns (plumbing components)" >}}
-- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "mural paintings" >}}
 - {{< keyword "tablina" >}}
 - {{< keyword "trellises" >}}
 - {{< keyword "lararia" >}}  

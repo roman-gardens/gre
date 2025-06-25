@@ -48,7 +48,7 @@ Legionary houses at Castra Vetera (Germania inferior)
 
 - {{< keyword "castra" >}}
 - {{< keyword "praetoriums" >}}
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "tablina" >}}
 - {{< keyword "pedestals" >}}

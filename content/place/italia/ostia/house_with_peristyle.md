@@ -9,7 +9,7 @@ author: Thomas Morard
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "courtyards (uncovered spaces)"
+ - "courtyards"
  - "porticoes"
  - "water supply systems"
 ---
@@ -56,15 +56,15 @@ House with Peristyle
 
 ## Keywords
 
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "Early Imperial" >}}
 - {{< keyword "hydraulic mortar" >}}
-- {{< keyword "mosaics (visual works)" >}}
-- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "mural paintings" >}}
 - {{< keyword "niches" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "opus spicatum" >}}
-- {{< keyword "opus tessellatum (process)" >}}
+- {{< keyword "opus tessellatum" >}}
 - {{< keyword "opus testaceum" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}

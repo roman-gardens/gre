@@ -45,7 +45,7 @@ Casa dei Quattro Stili; House of L.V.P. (I.viii.17/11)
 ## Keywords
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "inscription" >}}
+- {{< keyword "inscriptions" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "pillars" >}}
 - {{< keyword "porticoes" >}}

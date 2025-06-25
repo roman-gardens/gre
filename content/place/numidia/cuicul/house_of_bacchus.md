@@ -12,9 +12,9 @@ draft: false
 categories:
   - "Numidia"
 tags:
- - "amphorae (storage vessels)"
+ - "amphorae"
  - "domus"
- - "mosaics (visual works)"
+ - "mosaics"
  - "oeci"
  - "pergolas"
  - "peristyle houses"
@@ -53,15 +53,15 @@ House of Bacchus, building south of the Great Baths (Maison de Bacchus, édifice
 
 ## Keywords
 
-- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "amphorae" >}}
 - {{< keyword "domus" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "oeci" >}}
 - {{< keyword "pergolas" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "piscinae" >}}
-- {{< keyword "statuettes (free-standing sculpture)" >}}
-- {{< keyword "venus" >}}
+- {{< keyword "statuettes" >}}
+- {{< keyword "Venus" >}}
 
 ## Garden Description
 

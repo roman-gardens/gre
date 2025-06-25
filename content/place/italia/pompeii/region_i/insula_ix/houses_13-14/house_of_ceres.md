@@ -46,14 +46,14 @@ House of Ceres; Casa di Cerere (I.ix.13-14)
 
 - {{< keyword "amorini" >}}
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "basins" >}}
 - {{< keyword "colonnades" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "mural paintings" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "statues" >}}
-- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "statuettes" >}}
 - {{< keyword "tablina" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "vases" >}}

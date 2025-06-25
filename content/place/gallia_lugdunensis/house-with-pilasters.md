@@ -41,8 +41,8 @@ A sublocation is any area larger than an individual garden, but located within a
 House with Pilasters (Clos du Verbe Incarné)
 
 ## Keywords
-- {{< keyword "insulae (apartments)" >}}
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "insulae" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "domus" >}}
 
 ## Garden Description

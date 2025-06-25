@@ -40,9 +40,9 @@ Rural Villa
 
 ## Keywords
 - {{< keyword "villae rusticae" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 
 ## Garden Description
 

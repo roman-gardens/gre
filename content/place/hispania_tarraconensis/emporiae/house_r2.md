@@ -83,7 +83,7 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 House R2 (Tang AmpR2 and AmpR3)   
 
 ## Keywords
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "porticoes" >}}
 
 

@@ -13,7 +13,7 @@ draft: false
 categories:
   - "Italia"
 tags:
-  - "insulae (apartments)"
+  - "insulae"
   - "aedicules"
 ---
 
@@ -35,7 +35,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VI]({{<relref ".">}})
 
 ## Keywords
-- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "insulae" >}}
 - {{< keyword "aedicules" >}}
 
 ## Garden Description

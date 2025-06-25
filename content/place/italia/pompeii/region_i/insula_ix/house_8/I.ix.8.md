@@ -45,7 +45,7 @@ I.ix.8
 ## Keywords
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "puteals" >}}
 
 ## Garden Description

@@ -40,7 +40,7 @@ House of the Columns (La maison aux colonnes)
 
 ## Keywords
 
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "peristyle houses" >}}

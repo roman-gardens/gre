@@ -13,8 +13,8 @@ categories:
 - "Italia"
 tags:
  - "atrium houses"
- - "cubicula (domestic spaces)"
- - "gutters (building drainage components)"
+ - "cubicula"
+ - "gutters"
  - "predellas"
  - "tablina"
  - "trellises"
@@ -54,11 +54,11 @@ House a/11
 House of M. Lucretius Fronto (V.iv.a/11)
 
 ## Keywords
-- {{< keyword "cubicula (domestic spaces)" >}}
+- {{< keyword "cubicula" >}}
 - {{< keyword "atrium houses" >}}
 - {{< keyword "predellas" >}}
 - {{< keyword "tablina" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "gutters" >}}
 - {{< keyword "trellises" >}}
 
 

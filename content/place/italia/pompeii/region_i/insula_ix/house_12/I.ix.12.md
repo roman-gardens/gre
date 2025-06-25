@@ -45,7 +45,7 @@ I.ix.12
 ## Keywords
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "lararia" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "pillars" >}}

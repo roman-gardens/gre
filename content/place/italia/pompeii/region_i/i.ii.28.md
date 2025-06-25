@@ -36,8 +36,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref "#">}})
 
 ## Keywords
-- {{< keyword "cisterns (plumbing components)" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "tablina" >}}
 - {{< keyword "triclinia (rooms)" >}}

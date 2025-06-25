@@ -2,7 +2,7 @@
 gre_id: "278abf125d"
 aliases: [/id/278abf125d]
 type: garden
-title: "Theater"
+title: "theaters"
 date: 2020-09-30T11:20:32-04:00
 latlon: [ 41.116892, 1.258337 ]
 author: AUTHOR_ID
@@ -77,7 +77,7 @@ Theater
 
 ## Keywords
 
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "cryptoportici" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "stairs" >}}

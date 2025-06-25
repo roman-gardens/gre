@@ -13,9 +13,9 @@ categories:
   - "Africa Proconsularis"
 tags:
  - "temples"
- - "courtyards (uncovered spaces)"
+ - "courtyards"
  - "root cavities"
- - "garden soil"
+ - "soil"
 ---
 
 ## Province
@@ -43,10 +43,10 @@ East Temple (Temple de l'Est)
 
 ## Keywords
 
-- {{< keyword "temples (buildings)" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "temples" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "root cavities" >}}
-- {{< keyword "garden soil" >}}
+- {{< keyword "soil" >}}
 
 ## Garden Description
 

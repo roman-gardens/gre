@@ -53,8 +53,8 @@ Palatial House in Insula 7 in Aventicum
 - {{< keyword "balnea" >}}
 - {{< keyword "drains" >}}
 - {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "mosaics (visual works)" >}}
-- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "palaces" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "piscinae" >}}
 - {{< keyword "presence chambers" >}}

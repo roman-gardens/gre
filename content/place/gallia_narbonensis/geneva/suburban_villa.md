@@ -45,7 +45,7 @@ Suburban Villa
 ## Keywords
 - {{< keyword "villae suburbanae" >}}
 - {{< keyword "peristyles" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 
 ## Garden Description
 

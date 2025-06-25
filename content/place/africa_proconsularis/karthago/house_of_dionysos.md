@@ -15,7 +15,7 @@ tag:
   - "domus"
   - "peristyle houses"
   - "pools"
-  - "basins (vessels)"
+  - "basins"
 ---
 
 ## Province

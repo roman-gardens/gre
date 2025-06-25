@@ -13,7 +13,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "amphorae (storage vessels)"
+ - "amphorae"
  - "cauponae"
  - "pillars"
  - "porticoes"
@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "#">}})
 
 ## Keywords
-- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "amphorae" >}}
 - {{< keyword "cauponae" >}}
 - {{< keyword "pillars" >}}
 - {{< keyword "porticoes" >}}

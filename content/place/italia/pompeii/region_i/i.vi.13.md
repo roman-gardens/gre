@@ -13,7 +13,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "fences (site elements)"
+ - "fences"
  - "lararia"
 ---
 
@@ -35,7 +35,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VI]({{<relref "#">}})
 
 ## Keywords
-- {{< keyword "fences (site elements)" >}}
+- {{< keyword "fences" >}}
 - {{< keyword "lararia" >}}
 
 

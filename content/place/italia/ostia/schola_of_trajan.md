@@ -9,7 +9,7 @@ author: Thomas Morard
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "courtyards (uncovered spaces)"
+ - "courtyards"
  - "porticoes"
  - "water supply systems"
 ---
@@ -57,9 +57,9 @@ Schola of Trajan
 ## Keywords
 
 - {{< keyword "colonnades" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
-- {{< keyword "Ionic (architecture style)" >}}
-- {{< keyword "jeux d’eau" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "Ionic" >}}
+- {{< keyword "jeux d'eau" >}}
 - {{< keyword "parapets" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
@@ -69,7 +69,7 @@ Schola of Trajan
 
 The monumental complex of the Schola of the Trajan, presumed headquarters of the corporation of the marine carpenters, was built *c*.160-200 and abandoned after the 4th century CE. It was excavated and restored during the winter of 1938-1939. It includes a vast internal [courtyard](http://vocab.getty.edu/page/aat/300004095), which is oblong and marked with an obtuse angle in its median part (Fig. 1, a). Unfortunately, ancient damage and early, inaccurate excavations make it impossible to know if this space was paved or a garden.
 
-An [Ionic](http://vocab.getty.edu/page/aat/300020112) [portico](http://vocab.getty.edu/page/aat/300004145), with a [colonnade](http://vocab.getty.edu/page/aat/300002613) of bricks with stucco, surrounded this internal space. A long and narrow water channel crossed the [peristyle](http://vocab.getty.edu/page/aat/300080971) court of the Schola in all its length. It had a low [parapet](http://vocab.getty.edu/page/aat/300002717), decorated on its internal face by a row of rounded niches, and was faced with marble (much restored) (Fig. 2). Slightly offset, the particular position of this channel provokes a subtle optical correction of the angle, which marks the plan of the building. The channel was reduced, or perhaps even abandoned during the construction of the receding part of the Schola. New excavations since 1998 in the Northern sector of the peristyle court have uncovered an important part of the plumbing network. It must have been used for the [water supply](http://vocab.getty.edu/page/aat/300008618) of this internal space of the Schola, which was probably rich in *jeux d’eau.*
+An [Ionic](http://vocab.getty.edu/page/aat/300020112) [portico](http://vocab.getty.edu/page/aat/300004145), with a [colonnade](http://vocab.getty.edu/page/aat/300002613) of bricks with stucco, surrounded this internal space. A long and narrow water channel crossed the [peristyle](http://vocab.getty.edu/page/aat/300080971) court of the Schola in all its length. It had a low [parapet](http://vocab.getty.edu/page/aat/300002717), decorated on its internal face by a row of rounded niches, and was faced with marble (much restored) (Fig. 2). Slightly offset, the particular position of this channel provokes a subtle optical correction of the angle, which marks the plan of the building. The channel was reduced, or perhaps even abandoned during the construction of the receding part of the Schola. New excavations since 1998 in the Northern sector of the peristyle court have uncovered an important part of the plumbing network. It must have been used for the [water supply](http://vocab.getty.edu/page/aat/300008618) of this internal space of the Schola, which was probably rich in *jeux d'eau.*
 
 ## Figures
 

@@ -51,10 +51,10 @@ Aix, Jardins de Grassi, House with the large peristyle
 
 - {{< keyword "peristyles" >}}
 - {{< keyword "reception rooms" >}}
-- {{< keyword "opus sectile (visual works)" >}}
+- {{< keyword "opus sectile" >}}
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "pilasters" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 
 
 

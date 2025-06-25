@@ -41,7 +41,7 @@ A sublocation is any area larger than an individual garden, but located within a
 Villa des Tuillières
 
 ## Keywords
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "hypocausts" >}}
 

@@ -49,13 +49,13 @@ Saint-Florent, House B, House with the Polychrome Mosaic
 
 ## Keywords
 
-- {{< keyword "mosaics (visual works)" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "opus signinum" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "gutters" >}}
 
 
 

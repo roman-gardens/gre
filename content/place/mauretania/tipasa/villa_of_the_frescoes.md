@@ -39,8 +39,8 @@ The Villa of the Frescoes (La villa des Fresques)
 ## Keywords
 
 - {{< keyword "balnea" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "domus" >}}
 - {{< keyword "peristyles" >}}
 

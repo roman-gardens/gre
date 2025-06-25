@@ -13,7 +13,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "cisterns (plumbing components)"
+ - "cisterns"
  - "lararia"
  - "tablina"
 ---
@@ -36,7 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IV]({{<relref "#">}})
 
 ## Keywords
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "lararia" >}}
 - {{< keyword "tablina" >}}
 

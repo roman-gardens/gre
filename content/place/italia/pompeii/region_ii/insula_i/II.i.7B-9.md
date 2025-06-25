@@ -14,14 +14,14 @@ categories:
   - "Italia"
 tags:
  - "aedicules"
- - "amphorae (storage vessels)"
- - "courtyards (uncovered spaces)"
+ - "amphorae"
+ - "courtyards"
  - "dolia"
- - "gutters (building drainage components)"
+ - "gutters"
  - "hearths"
  - "stucco"
  - "tabernae"
- - "tables (support furniture)"
+ - "tables"
  - "triclinia (rooms)"
 ---
 
@@ -44,14 +44,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 - {{< keyword "tabernae" >}}
-- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "amphorae" >}}
 - {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "tables (support furniture)" >}}
+- {{< keyword "tables" >}}
 - {{< keyword "dolia" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "aedicules" >}}
-- {{< keyword "gutters (building drainage components)" >}}
-- {{< keyword "stucco (plaster)" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "stucco" >}}
 - {{< keyword "hearths" >}}
 
 

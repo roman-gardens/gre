@@ -17,7 +17,7 @@ tags:
  - "dolia"
  - "lattices"
  - "lecti"
- - "masonry (building materials)"
+ - "masonry"
  - "pergolas"
  - "porticoes"
  - "reservoirs"
@@ -42,12 +42,12 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IX]({{<relref ".">}})
 
 ## Keywords
-- {{< keyword "masonry (building materials)" >}}
+- {{< keyword "masonry" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "pergolas" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "lecti" >}}
-- {{< keyword "reservoirs (water distribution structures)" >}}
+- {{< keyword "reservoirs" >}}
 - {{< keyword "lattices" >}}
 - {{< keyword "dolia" >}}
 

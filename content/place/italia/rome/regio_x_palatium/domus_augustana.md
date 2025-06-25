@@ -34,22 +34,22 @@ Garden of the Domus Augustana, Palatine
 
 ## Keywords
 
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "basins" >}}
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "flower gardens" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "herms" >}}
 - {{< keyword "loggias" >}}
-- {{< keyword "marble (rock)" >}}
+- {{< keyword "marble" >}}
 - {{< keyword "nymphaea" >}}
 - {{< keyword "peltae" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "planting beds" >}}
-- {{< keyword "pools (body of water)" >}}
+- {{< keyword "pools" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "statues" >}}
 - {{< keyword "temples" >}}
-- {{< keyword "terraces (landscaped-site elements)" >}}
+- {{< keyword "terraces" >}}
 
 
 ## Garden Description

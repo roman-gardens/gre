@@ -49,7 +49,7 @@ Baths of La Planchette
 
 ## Keywords
 - {{< keyword "balnea" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "gutters" >}}
 - apsed pools
 
 

@@ -47,7 +47,7 @@ The so-called "Baths" of Rielves
 
 <!--### Keywords
 - {{< keyword "peristyles" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "corridors" >}}
 
 ## Garden Description

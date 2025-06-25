@@ -14,9 +14,9 @@ categories:
 
 tags:
  - "temples"
- - "sanctuaries (religious building spaces)"
- - "courtyards (uncovered spaces)"
- - "cella"
+ - "sanctuaries"
+ - "courtyards"
+ - "cellae"
 ---
 
 ## Province
@@ -44,10 +44,10 @@ Sanctuary B, the templa Concordiae
 
 ## Keywords
 
-- {{< keyword "temples (buildings)" >}}
-- {{< keyword "sanctuary" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
-- {{< keyword "cella" >}}
+- {{< keyword "temples" >}}
+- {{< keyword "sanctuaries" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "cellae" >}}
 
 ## Garden Description
 

@@ -13,7 +13,7 @@ categories:
   - "Numidia"
 tags:
  - "domus"
- - "mosaics (visual works)"
+ - "mosaics"
  - "peristyle houses"
  - "semicircular basin"
 ---
@@ -50,7 +50,7 @@ House of Hylas, Central District (Maison de Castorius, Quartier central)
 ## Keywords
 
 - {{< keyword "domus" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "semicircular basin" >}}
 

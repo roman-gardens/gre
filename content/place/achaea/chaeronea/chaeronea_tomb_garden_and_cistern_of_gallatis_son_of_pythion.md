@@ -45,7 +45,7 @@ Tomb Garden and Cistern of Gallatis, Son of Pythion
 
 ## Keywords
 
-- {{< keyword "Inscription" >}}
+- {{< keyword "inscriptions" >}}
 - {{< keyword "funerary buildings" >}}
 
 ## Garden Description

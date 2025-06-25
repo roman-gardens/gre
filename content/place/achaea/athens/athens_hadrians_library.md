@@ -15,7 +15,7 @@ categories:
 
 tags:
 - "colonnades"
-- "gymnasiums (physical education buildings)"
+- "gymnasiums"
 - "Pausanias"
 - "peristyles"
 - "piscinae"
@@ -54,7 +54,7 @@ Library of Hadrian
 - {{< keyword "literary gardens" >}}
 <!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "colonnades" >}}
-- {{< keyword "gymnasiums (physical education buildings)" >}}
+- {{< keyword "gymnasiums" >}}
 - [Pausanias](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1054)
 - {{< keyword "peristyles" >}}
 - {{< keyword "piscinae" >}}

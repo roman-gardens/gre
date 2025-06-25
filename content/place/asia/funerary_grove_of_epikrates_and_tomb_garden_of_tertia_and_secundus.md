@@ -63,10 +63,10 @@ Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus
 - {{< keyword "funerals" >}}
 - {{< keyword "watercourses" >}}
 - {{< keyword "vineyards" >}}
-- {{< keyword "groves (plant communities)" >}}
-- {{< keyword "Ulmus (genus)" >}}
-- {{< keyword "woodlands (plant communities)" >}}
-- {{< keyword "buildings (structures)" >}}
+- {{< keyword "groves" >}}
+- {{< keyword "Ulmus" >}}
+- {{< keyword "woodlands" >}}
+- {{< keyword "buildings" >}}
 - {{< keyword "walls" >}}
 - {{< keyword "tombs" >}}
 - {{< keyword "inscriptions" >}}
@@ -77,7 +77,7 @@ Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus
 - [Plutarch](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1144)
 - {{< keyword "quadriportici" >}}
 - {{< keyword "palaestrae" >}}
-- {{< keyword "gymnasiums (physical education buildings)" >}}
+- {{< keyword "gymnasiums" >}}
 
 ## Garden Description
 

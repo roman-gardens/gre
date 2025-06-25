@@ -34,22 +34,22 @@ Garden of the Domus Tiberiana, Palatine
 
 ## Keywords
 
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "basins" >}}
 - {{< keyword "cryptoportici" >}}
 - {{< keyword "domus" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "garden pavilions" >}}
 - {{< keyword "herms" >}}
-- {{< keyword "lead (metal)" >}}
-- {{< keyword "marble (rock)" >}}
+- {{< keyword "lead" >}}
+- {{< keyword "marble" >}}
 - {{< keyword "peristyles" >}}
-- {{< keyword "piping (plumbing system components)" >}}
-- {{< keyword "pools (body of water)" >}}
+- {{< keyword "pipes" >}}
+- {{< keyword "pools" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "statues" >}}
-- {{< keyword "solariums (building spaces)" >}}
+- {{< keyword "solariums" >}}
 - {{< keyword "statues" >}}
-- {{< keyword "terraces (landscaped-site elements)" >}}
+- {{< keyword "terraces" >}}
 
 - [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
 - [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)

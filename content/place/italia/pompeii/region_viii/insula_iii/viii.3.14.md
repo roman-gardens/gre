@@ -30,10 +30,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 - {{< keyword "aedicules" >}}
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "podiums (building divisions)" >}}
 - {{< keyword "herms" >}}
-- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "statuettes" >}}
 - {{< keyword "thymiateria" >}}
 - {{< keyword "candelabrum (motifs)" >}}
 

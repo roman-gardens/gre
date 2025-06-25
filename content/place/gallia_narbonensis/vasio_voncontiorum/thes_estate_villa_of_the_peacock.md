@@ -48,12 +48,12 @@ Thès estate, villa of the Peacock
 
 
 ## Keywords
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "reception rooms" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "pilasters" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "gutters" >}}
 
 
 

@@ -51,8 +51,8 @@ Enclos Reynaud, House with the large opus sectile, phase I
 
 - {{< keyword "vestibules" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "opus sectile (visual works)" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "opus sectile" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "porticoes" >}}
 
 

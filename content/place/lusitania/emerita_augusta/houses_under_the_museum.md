@@ -62,7 +62,7 @@ Houses Under the Museum
 ## Keywords
 
 - {{< keyword "peristyles" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "exedrae (site elements)" >}}
 

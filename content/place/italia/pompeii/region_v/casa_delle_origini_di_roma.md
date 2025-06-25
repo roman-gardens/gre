@@ -12,9 +12,9 @@ draft: true
 categories:
 - "Italia"
 tags:
- - "altars (religious fixtures)"
- - "cisterns (plumbing components)"
- - "gutters (building drainage components)"
+ - "altars"
+ - "cisterns"
+ - "gutters"
  - "lararia"
  - "trellises"
  - "triclinia (couches)"
@@ -54,11 +54,11 @@ House 13
 Casa Delle Origini di Roma; House of M. Fabius Secundus (V.iv.13.)
 
 ## Keywords
-- {{< keyword "gutters (building drainage components)" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "triclinia (couches)" >}}
 - {{< keyword "trellises" >}}
-- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "altars" >}}
 - {{< keyword "lararia" >}}  
 
 

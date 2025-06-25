@@ -48,7 +48,7 @@ Urban Houses in Carnuntum
 
 ## Keywords
 
-- {{< keyword "arcades (structural assemblies)" >}}
+- {{< keyword "arcades" >}}
 <!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "corridors" >}}
 - {{< keyword "kitchen gardens" >}}

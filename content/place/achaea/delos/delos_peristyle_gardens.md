@@ -42,7 +42,7 @@ Whether the *impluvium* of 30.20 square meters (a) of **House F** in insula II o
 
 ## Keywords
 - {{< keyword "impluvia" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "oeci" >}}
 - {{< keyword "peristyles" >}}
 

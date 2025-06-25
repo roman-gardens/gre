@@ -36,7 +36,7 @@ The Adonea of the Flavian Palace, Palatine
 
 - {{< keyword "flower gardens" >}}
 - {{< keyword "flowerpots" >}}
-- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "palaces" >}}
 - [princep](https://www.britannica.com/topic/princeps)
 
 - [Philostratus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1108)

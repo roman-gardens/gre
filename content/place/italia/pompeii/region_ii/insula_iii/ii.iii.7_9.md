@@ -12,7 +12,7 @@ draft: false
 categories:
  - "Italia"
 tags:
- - "tables (support furniture)"
+ - "tables"
 ---
 
 ## Province
@@ -38,7 +38,7 @@ tags:
 Commercial restaurant garden.
 
 ## Keywords
-- {{< keyword "tables (support furniture)" >}}
+- {{< keyword "tables" >}}
 
 
 ## Garden Description

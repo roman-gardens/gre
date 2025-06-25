@@ -40,8 +40,8 @@ House of Venus (Maison du cortège de Vénus)
 
 ## Keywords
 
-- {{< keyword "columns (architectural elements)" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "piscinae" >}}

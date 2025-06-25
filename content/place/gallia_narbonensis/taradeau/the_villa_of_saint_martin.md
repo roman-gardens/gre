@@ -50,10 +50,10 @@ The villa of Saint Martin
 ## Keywords
 
 - {{< keyword "porticoes" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "opus signinum" >}}
 - {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "reception rooms" >}}
 - {{< keyword "peristyles" >}}
 

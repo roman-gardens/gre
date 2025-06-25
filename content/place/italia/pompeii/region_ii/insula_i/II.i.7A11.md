@@ -13,7 +13,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "cisterns (plumbing components)"
+ - "cisterns"
  - "dolia"
  - "water supply systems"
 ---
@@ -36,7 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula I]({{<relref ".">}})
 
 ## Keywords
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "water supply systems" >}}
 - {{< keyword "dolia" >}}
 

@@ -21,7 +21,7 @@ tags:
 - "horticultural containers"
 - "pergolas"
 - "terrace gardens"
-- "water features (landscaping)"
+- "water features"
 ---
 
 ## Province
@@ -59,21 +59,21 @@ Petra Garden and Pool Complex
 - {{< keyword "artificial islands" >}}
 - {{< keyword "artificial water channels" >}}
 - {{< keyword "castelli aquae" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "colonnades" >}}
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "garden pavilions" >}}
-- {{< keyword "groves (plant communities)" >}}
+- {{< keyword "groves" >}}
 - {{< keyword "horticultural containers" >}}
 - [lead pipelines](http://www.romanaqueducts.info/picturedictionary/pd_onderwerpen/pipe.htm)
 - {{< keyword "pergolas" >}}
 - {{< keyword "reflecting pools" >}}
-- {{< keyword "reservoirs (water distribution structures)" >}}
-- {{< keyword "root (plant material)" >}}
+- {{< keyword "reservoirs" >}}
+- {{< keyword "root" >}}
 - {{< keyword "swimming pools" >}}
 - {{< keyword "terrace gardens" >}}
 - [terracotta pipelines](http://www.romanaqueducts.info/picturedictionary/pd_onderwerpen/pipe.htm)
-- {{< keyword "water features (landscaping)" >}}
+- {{< keyword "water features" >}}
 
 ## Garden Description
 The only example of a garden investigated using specialized garden archaeology techniques in the region of Arabia Petraea is found at Petra. A large open area was believed to be the site of a marketplace, the so-called “Lower Market,” until excavations revealed the remnants of a formal garden and pool complex. The garden is situated on an artificial terrace on the southern slope of the Wadi Musa, overlooking the main colonnaded street and flanked by the so-called “Middle Market” to the east, and the [Great Temple](https://pleiades.stoa.org/places/777218559) complex to the west. To the south of the garden is a residential quarter on top of a high sandstone ridge (Ez-Zantur), where several private villas have been excavated (Fig. 5). Primary access into the garden was apparently from the west, through a triple colonnade that marks the boundary between the Great Temple’s “lower temenos” and the garden terrace.

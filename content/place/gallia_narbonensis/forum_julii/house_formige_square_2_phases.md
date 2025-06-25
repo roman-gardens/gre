@@ -49,7 +49,7 @@ House Formigé Square-2 phases
 
 ## Keywords
 - {{< keyword "vestibules" >}}
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "fountains" >}}
 

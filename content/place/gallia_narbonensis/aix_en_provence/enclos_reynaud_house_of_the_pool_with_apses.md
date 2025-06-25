@@ -50,7 +50,7 @@ Enclos Reynaud, House of the pool with apses
 ## Keywords
 
 - {{< keyword "peristyles" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 
 
 

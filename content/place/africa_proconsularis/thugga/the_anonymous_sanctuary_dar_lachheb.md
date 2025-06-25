@@ -14,8 +14,8 @@ categories:
 
 tags:
  - "temples"
- - "sanctuaries (religious building spaces)"
- - "courtyards (uncovered spaces)"
+ - "sanctuaries"
+ - "courtyards"
  - "triplex porticus"
  - "planting beds"
 ---
@@ -45,9 +45,9 @@ The anonymous sanctuary, Dar Lachheb
 
 ## Keywords
 
-- {{< keyword "temples (buildings)" >}}
-- {{< keyword "sanctuary" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "temples" >}}
+- {{< keyword "sanctuaries" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "triplex porticus" >}}
 - {{< keyword "planting beds" >}}
 

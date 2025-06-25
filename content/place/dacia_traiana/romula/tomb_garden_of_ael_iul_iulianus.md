@@ -47,7 +47,7 @@ Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion in Romula
 ## Keywords
 
 - {{< keyword "epitaphs" >}}
-- {{< keyword "inscription" >}}
+- {{< keyword "inscriptions" >}}
 - {{< keyword "literary gardens" >}}
 - {{< keyword "tombs" >}}
 

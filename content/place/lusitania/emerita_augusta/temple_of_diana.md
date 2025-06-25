@@ -63,7 +63,7 @@ Temple of Diana
 - {{< keyword "porticoes" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "waterspouts" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 
 ## Garden Description
 

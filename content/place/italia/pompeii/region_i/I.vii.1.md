@@ -13,9 +13,9 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "columns (architectural elements)"
+ - "columns"
  - "fountains"
- - "gutters (building drainage components)"
+ - "gutters"
  - "oeci"
  - "peristyles"
  - "piscinae"
@@ -43,9 +43,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "gutters" >}}
 - {{< keyword "oeci" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "piscinae" >}}

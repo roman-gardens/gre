@@ -9,7 +9,7 @@ author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: true
 tags:
- - "columns (architectural elements)"
+ - "columns"
  - "flower gardens"
  - "peristyles"
  - "porticoes"
@@ -45,7 +45,7 @@ The Pecile (Fig. 1, n. 6)\
 
 ## Keywords
 
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "flower gardens" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}

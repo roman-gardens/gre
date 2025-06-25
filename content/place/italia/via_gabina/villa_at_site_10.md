@@ -38,10 +38,10 @@ Villa at site 10
 
 ## Keywords
 
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "corridors" >}}
 - {{< keyword "domus" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "villae suburbanae" >}}
 
 ## Garden Description

@@ -13,7 +13,7 @@ categories:
   - "Africa Proconsularis"
 tags:
  - "domus"
- - "mosaics (visual works)"
+ - "mosaics"
  - "oeci"
  - "peristyle houses"
 ---
@@ -47,7 +47,7 @@ House of Nicentus (Maison de Nicentus)
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "semicircular basin" >}}
 - {{< keyword "oeci" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 
 ## Garden Description
 

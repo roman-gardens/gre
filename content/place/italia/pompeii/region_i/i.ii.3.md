@@ -13,7 +13,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "columns (architectural elements)"
+ - "columns"
 ---
 
 ## Province
@@ -34,7 +34,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "#">}})
 
 ## Keywords
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 
 
 ## Garden

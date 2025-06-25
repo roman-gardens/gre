@@ -9,12 +9,12 @@ author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: true
 tags:
- - "canals (waterways)"
- - "cisterns (plumbing components)"
- - "columns (architectural elements)"
+ - "canals"
+ - "cisterns"
+ - "columns"
  - "exedrae (site elements)"
  - "flower gardens"
- - "mosaics (visual works)"
+ - "mosaics"
  - "porticoes"
  - "statues"
 ---
@@ -48,11 +48,11 @@ The Canopus gardens (Fig. 1, n. 2)\
 
 ## Keywords
 
-- {{< keyword "cisterns (plumbing components)" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "flower gardens" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "statues" >}}
 - [canals (waterways)](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300006075)

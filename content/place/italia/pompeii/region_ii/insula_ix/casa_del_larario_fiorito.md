@@ -14,7 +14,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "charcoal (material)"
+ - "charcoal"
  - "pollen"
  - "triclinia (rooms)"
 ---
@@ -39,7 +39,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Keywords
  - [porticoes]
 - {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "charcoal (material)" >}}]
+- {{< keyword "charcoal" >}}]
 - {{< keyword "pollen" >}}
 
 

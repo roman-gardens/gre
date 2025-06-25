@@ -36,10 +36,10 @@ Garden of the House of Augustus, Palatine
 
 - {{< keyword "alae" >}}
 - {{< keyword "domus" >}}
-- {{< keyword "festoon (motif)" >}}
-- {{< keyword "frescoes (paintings)" >}}
-- {{< keyword "friezes (ornamental areas)" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "festoon" >}}
+- {{< keyword "frescoes" >}}
+- {{< keyword "friezes" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "nymphaea" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}

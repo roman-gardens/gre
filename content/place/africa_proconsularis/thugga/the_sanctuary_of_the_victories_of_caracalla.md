@@ -14,8 +14,8 @@ categories:
 
 tags:
  - "temples"
- - "sanctuaries (religious building spaces)"
- - "courtyards (uncovered spaces)"
+ - "sanctuaries"
+ - "courtyards"
  - "planting beds"
  - "balustrades"
 ---
@@ -44,9 +44,9 @@ The sanctuary of the Victories of Caracalla
 
 ## Keywords
 
-- {{< keyword "temples (buildings)" >}}
-- {{< keyword "sanctuary" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "temples" >}}
+- {{< keyword "sanctuaries" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "planting beds" >}}
 - {{< keyword "balustrades" >}}
 

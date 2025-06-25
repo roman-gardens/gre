@@ -13,7 +13,7 @@ categories:
  - "Italia"
 tags:
  - "cauponae"
- - "cisterns (plumbing components)"
+ - "cisterns"
  - "lararia"
  - "sacella"
  - "statuettes"
@@ -41,10 +41,10 @@ Small domestic property with a garden to the rear.
 
 ## Keywords
 - {{< keyword "cauponae" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "lararia" >}}
 - {{< keyword "sacella" >}}
-- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "statuettes" >}}
 - {{< keyword "tufa" >}}
 
 ## Garden Description

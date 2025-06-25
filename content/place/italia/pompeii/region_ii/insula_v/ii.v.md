@@ -46,7 +46,7 @@ tags:
 Large vineyard
 
 ## Keywords
-- {{< keyword "amphitheaters (built works)" >}}
+- {{< keyword "amphitheaters" >}}
 - {{< keyword "trellises" >}}
 - {{< keyword "triclinia (couches)" >}}
 - {{< keyword "vineyards" >}}

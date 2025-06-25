@@ -46,9 +46,9 @@ Villa Bruñel
 
 - {{< keyword "apses" >}}
 - {{< keyword "buttresses" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "rills" >}}

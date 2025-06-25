@@ -54,7 +54,7 @@ Urban House or Schola in Aquincum
 - {{< keyword "peristyles" >}}
 - {{< keyword "piscinae" >}}
 - {{< keyword "statues" >}}
-- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "statuettes" >}}
 
 ## Garden Description
 

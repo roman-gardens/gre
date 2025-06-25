@@ -49,7 +49,7 @@ Tomb Garden of Anonymous Gaul in Andematunnum
 ## Keywords
 
 - {{< keyword "former reservoirs" >}}
-- {{< keyword "inscription" >}}
+- {{< keyword "inscriptions" >}}
 - {{< keyword "literary gardens" >}}
 - {{< keyword "mausoleums" >}}
 - {{< keyword "orchards" >}}

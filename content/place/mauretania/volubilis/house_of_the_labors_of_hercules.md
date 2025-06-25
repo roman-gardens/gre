@@ -40,7 +40,7 @@ House of the Labors of Hercules (La maison des travaux d'Hercules)
 
 ## Keywords
 
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "peristyle houses" >}}

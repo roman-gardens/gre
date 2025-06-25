@@ -39,7 +39,7 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 D
 
 ## Keywords
-- {{< keyword "rustic (style)" >}}
+- {{< keyword "rustic" >}}
 - {{< keyword "shrines" >}}
 
 

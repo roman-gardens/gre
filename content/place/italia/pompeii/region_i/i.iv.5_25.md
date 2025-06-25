@@ -46,7 +46,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "oeci" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "stucco (plaster)" >}}
+- {{< keyword "stucco" >}}
 - {{< keyword "tablina" >}}
 - {{< keyword "triclinia (rooms)" >}}
 

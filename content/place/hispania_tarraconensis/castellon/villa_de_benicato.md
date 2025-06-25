@@ -46,7 +46,7 @@ A sublocation is any area larger than an individual garden, but located within a
 Villa de Benicató
 
 ## Keywords
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "corridors" >}}
 
 ## Garden Description

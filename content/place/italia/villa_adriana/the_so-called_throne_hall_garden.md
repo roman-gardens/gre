@@ -10,7 +10,7 @@ editor: Joshua Rosenheim
 draft: true
 tags:
  - "flower gardens"
- - "nymphaea (garden structures)"
+ - "nymphaea"
  - "peristyles"
 ---
 
@@ -43,7 +43,7 @@ The so-called Throne Hall garden (Fig. 1, n. 17)
 ## Keywords
 
 - {{< keyword "flower gardens" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "peristyles" >}}
 
 ## Garden Description

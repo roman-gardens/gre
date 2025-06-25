@@ -45,7 +45,7 @@ I.ix.9/10
 ## Keywords
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "engaged columns" >}}
 - {{< keyword "pilasters" >}}
 - {{< keyword "porticoes" >}}

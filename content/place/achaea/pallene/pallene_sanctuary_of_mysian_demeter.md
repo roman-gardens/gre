@@ -50,7 +50,7 @@ Sanctuary of Mysian Demeter
 - {{< keyword "literary gardens" >}}
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
 - {{< keyword "sacred groves" >}}
-- {{< keyword "springs (bodies of water)" >}}
+- {{< keyword "springs" >}}
 
 ## Garden Description
 

@@ -10,7 +10,7 @@ editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
 tags:
  - "temples"
- - "columns (architectural elements)"
+ - "columns"
  - "exedrae (site elements)"
  - "lucus (grove)"
  - "porticoes"
@@ -46,7 +46,7 @@ Garden of the Hercules Musarum
 - {{< keyword "columns (architectural element)" >}}
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "lucus (grove)" >}}
-- {{< keyword "groves (plant communities)" >}}
+- {{< keyword "groves" >}}
 - {{< keyword "niches" >}}
 - {{< keyword "podiums (building divisions)" >}}
 - {{< keyword "porticoes" >}}

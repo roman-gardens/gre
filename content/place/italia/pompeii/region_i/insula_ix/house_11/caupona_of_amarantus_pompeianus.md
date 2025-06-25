@@ -40,7 +40,7 @@ I.ix.11
 
 ## Keywords
 
-- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "amphorae" >}}
 <!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "lapilli" >}}
 - {{< keyword "lararia" >}}

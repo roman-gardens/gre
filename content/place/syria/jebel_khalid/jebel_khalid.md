@@ -45,10 +45,10 @@ While the general settlement of Jebel Khalid appears to have been systematically
 Acropolis Palace at Jebel Khalid
 
 ## Keywords
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "colonnades" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
-- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "palaces" >}}
 - {{< keyword "terrace gardens" >}}
 - {{< keyword "trenches" >}}
 

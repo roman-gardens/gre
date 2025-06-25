@@ -1,371 +1,332 @@
-term,vocab,id,officialterm
-aedicules,AAT,300002574,aedicules
-agriculture (discipline),AAT,300054463,agriculture (discipline)
-agriculture,AAT,300054463,agriculture (discipline)
-alabastra,AAT,300198887,alabastra
-alae,AAT,300004055,alae
-allées,AAT,300178561,allées
-altars (religious fixtures),AAT,300003725,altars (religious fixtures)
-altars,AAT,300003725,altars (religious fixtures)
-ambulatio,none,,ambulatio
-amorini,none,,amorini
-amphitheaters (built works),AAT,300007128,amphitheaters (built works)
-amphitheaters,AAT,300007128,amphitheaters (built works)
-amphorae (storage vessels),AAT,300148696,amphorae (storage vessels)
-amphorae,AAT,300148696,amphorae (storage vessels)
-angiportus,AAT,300008249,angiportūs
-angiportūs,AAT,300008249,angiportūs
-annular vaults,AAT,300001370,annular vaults
-apses,AAT,300004607,apses
-apsed pools,none,,apsed pools
-apsed triclinia,none,apsed triclinia
-aqueducts,AAT,300006165,aqueducts
-arboretums,AAT,300008106,arboretums
-arbors,AAT,300006781,arbors
-arcades (structural assemblies),AAT,300002580,arcades (structural assemblies)
-arcades,AAT,300002580,arcades (structural assemblies)
-archaeobotany,AAT,300251771,archaeobotany
-archaeological gardens,none,,archaeological gardens
-architectural terracotta,AAT,300010670,architectural terracotta
-architraves (entablature),AAT,300001780,architraves (entablature)
-architraves,AAT,300001780,architraves (entablature)
-artificial islands,AAT,300386969,artificial islands
-artificial lakes,AAT,300263360,artificial lakes
-artificial water channels,AAT,300133792,artificial water channels
-atrium houses,AAT,300005451,atrium houses
-atriums,AAT,300004097,atriums (Roman halls)
-atriums (Roman halls),AAT,300004097,atriums (Roman halls)
-auditoriums,AAT,300004394,auditoriums
-Augustan,AAT,300020543,Augustan
-awnings,AAT,300254200,awnings
-axial plan,AAT,300121971,axial plan
-baetyls,AAT,300400603,baetyls
-balnea,AAT,300120377,balnea
-balustrades,AAT,300001989,balustrades
-barns,AAT,300004900,barns
-basins (vessels),AAT,300045614,basins (vessels)
-basins,AAT,300045614,basins (vessels)
-bathhouses (water recreation structures),AAT,300007347,bathhouses (water recreation structures)
-bathhouses,AAT,300007347,bathhouses (water recreation structures)
-baths,none,,baths
-beds (site elements),AAT,300239937,beds (site elements)
-beds,AAT,300239937,beds (site elements)
-biclinia,AAT,300170371,biclinia
-bone (material),AAT,300011798,bone (material)
-bone,AAT,300011798,bone (material)
-botanical gardens,AAT,300008107,botanical gardens
-brick (clay material),AAT,300010463,brick (clay material)
-brick,AAT,300010463,brick (clay material)
-bronze (metal),AAT,300010957,bronze (metal)
-bucrania,AAT,300030853,bucrania
-buildings (structures),AAT,300004792,buildings (structures)
-burials,AAT,300263485,burials
-busts (sculpture),AAT,300417950,busts (sculpture)
-buttresses,AAT,300000891,buttresses
-cachepots,AAT,300197605,cachepots
-caldaria,AAT,300004203,caldaria
-canals (waterways),AAT,300006075,canals (waterways)
-candelabras (candleholders),AAT,300037584,candelabras (candleholders)
-candelabrum (motifs),AAT,300265618,candelabrum (motifs)
-capitals (column components),AAT,300001662,capitals (column components)
-castelli aquae,AAT,300006192,castelli aquae
-castra,AAT,300008440,castra
-catch basins,AAT,300052554,catch basins
-cauponae,AAT,300005208,cauponae
-caveae,AAT,300004734,caveae
-ceramic (material),AAT,300235507,ceramic (material)
-ceramic tile,AAT,300010678,ceramic tile
-charcoal (material),AAT,300012862,charcoal (material)
-cherry (plant),AAT,300375306,cherry (plant)
-chests (case furniture),AAT,300038992,chests (case furniture)
-churches (buildings),AAT,300007466,churches (buildings)
-cippi,AAT,300006963,cippi
-circuses (Roman arenas),AAT,300007255,circuses (Roman arenas)
-cisterns (plumbing components),AAT,300052558,cisterns (plumbing components)
-city walls,AAT,300005072,city walls
-colonnades,AAT,300002613,colonnades
-column bases,AAT,300233843,column bases
-columns (architectural elements),AAT,300001571,columns (architectural elements)
-concrete,AAT,300010737,concrete
-Corinthian columns,AAT,300299596,Corinthian columns
-Corinthian order,AAT,300067417,Corinthian order
-cornices,AAT,300001788,cornices
-cornucopias (motifs),AAT,300303413,cornucopias (motifs)
-corridors,AAT,300004294,corridors
-courtyards (uncovered spaces),AAT,300004095,courtyards (uncovered spaces)
-crematories,AAT,300005871,crematories
-Crocodylidae (family),AAT,300250293,Crocodylidae (family)
-cryptoportici,AAT,300004295,cryptoportici
-cubicula (domestic spaces),AAT,300004367,cubicula (domestic spaces)
-curiae,AAT,300006027,curiae
-cypress (wood),AAT,300012540,cypress (wood)
-dadoes,AAT,300001746,dadoes
-ditches,AAT,300006178,ditches
-dolia,AAT,300400601,doliums
-doliums,AAT,300400601,doliums
-domus,AAT,300005506,domus
-Doric order,AAT,300067406,Doric order
-dovecotes,AAT,300004975,dovecotes
-drains,AAT,300052564,drains
-Early Imperial,AAT,300107346,Early Imperial
-elms,POWO,30004945-2,Ulmus sp.
-engaged columns,AAT,300001638,engaged columns
-entablatures,AAT,300001770,entablatures
-epitaphs,AAT,300028729,epitaphs
-exedrae (interior spaces),AAT,300004014,exedrae (interior spaces)
-exedrae (site elements),AAT,300081589,exedrae (site elements)
-fanums,AAT,300400628,fanums
-fauces,AAT,300004298,fauces
-fences (site elements),AAT,300005044,fences (site elements)
-festoon (motif),AAT,300167386,festoon (motif)
-fishponds,AAT,300008689,fishponds
-Flavian,AAT,300020551,Flavian
-flower gardens,AAT,300008135,flower gardens
-flowerpots,AAT,300194749,flowerpots
-fluting,AAT,300010233,fluting
-forecourts,AAT,300004104,forecourts
-former reservoirs,AAT,300386966,former reservoirs
-fountains,AAT,300006179,fountains
-frescoes (paintings),AAT,300177433,frescoes (paintings)
-friezes (entablature components),AAT,300001816,friezes (entablature components)
-friezes (ornamental areas),AAT,300123582,friezes (ornamental areas)
-funerals,AAT,300069162,funerals
-funerary buildings,AAT,300005866,funerary buildings
-garden lights,AAT,300183142,garden lights
-garden ornaments,AAT,300424784,garden ornaments
-garden pavilions,AAT,300006819,garden pavilions
-gazebos,AAT,300006798,gazebos
-graffiti (casual notations),AAT,300015613,graffiti (casual notations)
-granite (rock),AAT,300011183,granite (rock)
-groves (plant communities),AAT,300008884,groves (plant communities)
-groves (plant communities),AAT,300008884,groves (plant communities)
-groves (plant communities),AAT,300008884,groves (plant communities)
-gutters (building drainage components),AAT,300052565,gutters (building drainage components)
-gymnasiums (physical education buildings),AAT,300007297,gymnasiums (physical education buildings)
-gymnasiums,AAT,300007297,gymnasiums (physical education buildings)
-Hadrianic,AAT,300107350,Hadrianic
-hanging gardens,AAT,300008100,hanging gardens
-headboards,AAT,300040447,headboards
-hearths,AAT,300003990,hearths
-hedges,AAT,300266413,hedges
-herms,AAT,300047170,herms
-heroa,AAT,300005888,heroa
-Hippopotamus (genus),AAT,300310418,Hippopotamus (genus)
-horrea,AAT,300120504,horrea
-horticultural containers,AAT,300198749,horticultural containers
-hydraulic mortar,AAT,300014756,hydraulic mortar
-hydraulic mortar,AAT,300014756,hydraulic mortar
-hypocausts,AAT,300004277,hypocausts
-impluvia,AAT,300129867,impluvia
-inscriptions,AAT,300028702,inscriptions
-insulae (apartments),AAT,300000325,insulae (apartments)
-Ionic (architecture style),AAT,300020112,Ionic (architecture style)
-iron (metal),AAT,300011002,iron (metal)
-irrigation ditches,AAT,300404100,irrigation ditches
-Julio-Claudian,AAT,300020545,Julio-Claudian
-kitchen gardens,AAT,300008110,kitchen gardens
-klinai,AAT,300375544,klinai
-kraters,AAT,300198855,kraters
-labyrinths (built works),AAT,300312218,labyrinths (built works)
-lararia,AAT,300400600,lararia
-Late Republican,AAT,300020540,Late Republican
-latrines,AAT,300007951,latrines
-lattices,AAT,300163920,lattices
-laurel,POWO,465049-1,Laurus nobilis
-lead (metal),AAT,300011022,lead (metal)
-lecti,AAT,300139419,lecti
-libraries (rooms),AAT,300004433,libraries (rooms)
-light wells,AAT,300004321,light wells
-literary gardens,none,,literary gardens
-loam,AAT,300014335,loam
-loggias,AAT,300004137,loggias
-lucus (grove),none,,lucus (grove)
-manholes,AAT,300004244,manholes
-marble (rock),AAT,300011443,marble (rock)
-market gardens,AAT,300008111,market gardens
-masonry (building materials),AAT,300015332,masonry (building materials)
-mausoleums,AAT,300005891,mausoleums
-medallions (ornament areas),AAT,300077354,medallions (ornament areas)
-monopodia,AAT,300041194,monopodia
-mosaics (visual works),AAT,300015342,mosaics (visual works)
-mosaics,AAT,300015342,mosaics (visual works)
-mural paintings (visual works),AAT,300033644,mural paintings (visual works)
-mural paintings (visual works),AAT,300033644,mural paintings (visual works)
-museums (buildings),AAT,300005768,museums (buildings)
-naoi (chambers),AAT,300004658,naoi (chambers)
-natationes,AAT,300162917,natationes
-nemus (grove),none,,nemus (grove)
-Neo-Attic,AAT,300020212,Neo-Attic
-niches,AAT,300002704,niches
-nymphaea (garden structures),AAT,300006809,nymphaea (garden structures)
-nymphaea,AAT,300006809,nymphaea (garden structures)
-nymphs,AAT,300379159,nymphs
-obelisks (monumental pillars),AAT,300007021,obelisks (monumental pillars)
-oeci,AAT,300080791,oeci
-olive trees,POWO,610675-1,Olea europaea
-opus reticulatum,AAT,300262690,opus reticulatum
-opus sectile (visual works),AAT,300254462,opus sectile (visual works)
-opus signinum,AAT,300379969,opus signinum
-opus signinum,AAT,300379969,opus signinum
-opus spicatum (process),AAT,300417912,opus spicatum (process)
-opus spicatum,AAT,300417912,opus spicatum (process)
-opus tessellatum (process),AAT,300379968,opus tessellatum (process)
-opus testaceum,AAT,300265616,opus testaceum
-orchards,AAT,300008890,orchards
-orthostats,AAT,300002712,orthostats
-paddocks,AAT,300428748,paddocks
-palaces (official residences),AAT,300005734,palaces (official residences)
-palaestrae,AAT,300007301,palaestrae
-paradise gardens,AAT,300008112,paradise gardens
-parapets (wall components),AAT,300002717,parapets (wall components)
-parapets,AAT,300002717,parapets (wall components)
-parterres,AAT,300184573,parterres
-passages (circulation spaces),AAT,300004283,passages (circulation spaces)
-pavilions (light buildings),AAT,300448947,pavilions (light buildings)
-pavilions,AAT,300448947,pavilions (light buildings)
-pedestals,AAT,300001744,pedestals
-peltae,AAT,300213495,peltae
-pergolas,AAT,300006783,pergolas
-periboloi,AAT,300005069,periboloi
-peristyle houses,AAT,300005452,peristyle houses
-peristyles (Roman courtyards),AAT,300080971,peristyles (Roman courtyards)
-peristyles,AAT,300080971,peristyles (Roman courtyards)
-pilasters (wall components),AAT,300002737,pilasters (wall components)
-pilasters,AAT,300002737,pilasters (wall components)
-pillars (structural elements),AAT,300264605,pillars (structural elements)
-pillars,AAT,300264605,pillars (structural elements)
-pinakes (votive plaques),AAT,300264977,pinakes (votive plaques)
-pinakes,AAT,300264977,pinakes (votive plaques)
-pipes (conduits),AAT,300014662,pipes (conduits)
-piping (plumbing system components),AAT,,piping (plumbing system components)
-piscinae (pools),AAT,300375619,piscinae (pools)
-piscinae,AAT,300375619,piscinae (pools)
-pits (earthworks),AAT,300008027,pits (earthworks)
-plane trees,POWO,685873-1,Platanus orientalis
-planters (containers),AAT,300237566,planters (containers)
-planting beds,AAT,300430426,planting beds
-plinths,AAT,300001749,plinths
-podiums (building divisions),AAT,300000976,podiums (building divisions)
-podiums (platforms),AAT,300249278,podiums (platforms)
-pollen,AAT,300213002,pollen
-polychrome,AAT,300252261,polychrome
-pools (bodies of water),AAT,300008692,pools (bodies of water)
-pools,AAT,300008692,pools (bodies of water)
-poplars,POWO,328417-2,Populus sp.
-porticoes,AAT,300004145,porticoes
-praetoriums,AAT,300005636,praetoriums
-predellas,AAT,300003745,predellas
-presence chambers,AAT,300004445,presence chambers
-puteals,AAT,300443458,puteals
-putti (motifs),AAT,300250465,putti (motifs)
-quadriportici,AAT,300004101,quadriportici
-quatrefoils,AAT,300009784,quatrefoils
-reception rooms,AAT,300077176,reception rooms
-reflecting pools,AAT,300179485,reflecting pools
-reliefs (sculptures),AAT,300047230,reliefs (sculptures)
-religious standards,AAT,300429891,religious standards
-Republican,AAT,300020537,Republican
-reservoirs (water distribution structures),AAT,300006191,reservoirs (water distribution structures)
-retaining walls,AAT,300005073,retaining walls
-rills,AAT,300263440,rills
-rims (container components),AAT,300203193,rims (container components)
-rims,AAT,300203193,rims (container components)
-rinceaux,AAT,300165495,rinceaux
-roofing tile,AAT,300010699,roofing tile
-root (plant material),AAT,300081475,root (plant material)
-root cellars,AAT,300004761,root cellars
-rustic (style),AAT,300310541,rustic (style)
-sacella,AAT,300007570,sacella
-sacraria,AAT,300007572,sacraria
-sacred groves,AAT,300251876,sacred groves
-sanctuaries (religious building spaces),AAT,300004575,sanctuaries (religious building spaces)
-sanctuary centers (religious centers),AAT,300391482,sanctuary centers (religious centers)
-sarcophagi (coffins),AAT,300005947,sarcophagi (coffins)
-scaenae frontes,AAT,300083030,scaenae frontes
-scaenae,AAT,300004681,scaenae
-sculpture (visual works),AAT,300047090,sculpture (visual works)
-sculpture,AAT,300047090,sculpture (visual works)
-Second Style,AAT,300020609,Second Style
-semicircular,AAT,300263828,semicircular
-sepulchral monuments,AAT,300005909,sepulchral monuments
-Severan,AAT,300020566,Severan
-sewers (drainage structures),AAT,300006122,sewers (drainage structures)
-sherds,AAT,300117132,sherds
-shrines (structures),AAT,300007558,shrines (structures)
-shrines,AAT,300007558,shrines (structures)
-socles,AAT,300080499,socles
-solaria (sundials),AAT,300404895,solaria (sundials)
-solariums (building spaces),AAT,300004179,solariums (building spaces)
-springs (bodies of water),AAT,300008697,springs (bodies of water)
-sprinklers (watering equipment),AAT,300435392,sprinklers (watering equipment)
-stables (animal housing),AAT,300005015,stables (animal housing)
-stagnum (man-made lake),none,,stagnum (man-made lake)
-stairs (series of steps),AAT,300003228,stairs (series of steps)
-stairs,AAT,300003228,stairs (series of steps)
-statues,AAT,300047600,statues
-statuettes (free-standing sculpture),AAT,300312262,statuettes (free-standing sculpture)
-stelae,AAT,300007023,stelae
-strigillation,AAT,300121959,strigillation
-stucco (plaster),AAT,300014966,stucco (plaster)
-stuccoing,AAT,300053875,stuccoing
-stylobates,AAT,300000986,stylobates
-sudatoria,AAT,300004219,sudatoria
-sundials,AAT,300041614,sundials
-swimming pools,AAT,300007376,swimming pools
-tabernae,AAT,300005366,tabernae
-tables (support furniture),AAT,300039548,tables (support furniture)
-tablina,AAT,300004180,tablina
-temene,AAT,300000805,temene
-temples (buildings),AAT,300007595,temples (buildings)
-temples,AAT,300007595,temples (buildings)
-terrace gardens,AAT,300404778,terrace gardens
-terraces (landscaped-site elements),AAT,300004182,terraces (landscaped-site elements)
-terracotta (clay material),AAT,300010669,terracotta (clay material)
-terrazzo,AAT,300011696,terrazzo
-tesserae (mosaic components),AAT,300010730,tesserae (mosaic components)
-tesserae,AAT,300010730,tesserae (mosaic components)
-textrina,none,,textrina
-theaters (buildings),AAT,300007117,theaters (buildings)
-thermae,AAT,300007364,thermae
-thermopolia,AAT,300400645,thermopolia
-thymiateria,AAT,300265006,thymiateria
-tombs,AAT,300005926,tombs
-tondi,AAT,300033622,tondi
-topiary,AAT,300061887,topiary
-travertine,AAT,300011329,travertine
-trellises,AAT,300006785,trellises
-trenches,AAT,300008022,trenches
-triclinia (couches),AAT,300142552,triclinia (couches)
-triclinia (rooms),AAT,300004359,triclinia (rooms)
-triumphal arches (memorial arches),AAT,300007003,triumphal arches (memorial arches)
-trophies (war monuments),AAT,300007038,trophies (war monuments)
-troughs (containers),AAT,300220971,troughs (containers)
-tufa,AAT,300011712,tufa
-tuff,AAT,300011264,tuff
-Tuscan order,AAT,300067420,Tuscan order
-tympana (wall components),AAT,300002736,tympana (wall components)
-Ulmus (genus),AAT,300374849,Ulmus (genus)
-ustrina,AAT,300005876,ustrina
-vases,AAT,300132254,vases
-vaults (structural elements),AAT,300001324,vaults (structural elements)
-vegetable gardens,AAT,300008142,vegetable gardens
-veneered walls,AAT,300002571,veneered walls
-vestibules,AAT,300083076,vestibules
-villae rusticae,AAT,300005518,villae rusticae
-villae suburbanae,AAT,300005519,villae suburbanae
-villae urbanae,AAT,300005520,villae urbanae
-villas,AAT,300005517,villas
-vineyards,AAT,300000248,vineyards
-viridarium,none,,viridarium
-walls,AAT,300002469,walls
-water baths,AAT,300248755,water baths
-water features (landscaping),AAT,300180674,water features (landscaping)
-water jets,AAT,300438513,water jets
-water supply systems,AAT,300008618,water supply systems
-water wells,AAT,300152327,water wells
-watercourses,AAT,300387091,watercourses
-waterspouts,AAT,300248603,waterspouts
-well houses,AAT,300008017,well houses
-whitewash (water-base paint),AAT,300015042,whitewash (water-base paint)
-woodlands (plant communities),AAT,300157169,woodlands (plant communities)
-woven material,AAT,300411341,woven material
+term,vocab,id
+aedicules,AAT,300002574
+agriculture (discipline),AAT,300054463
+alabastra,AAT,300198887
+alae,AAT,300004055
+allées,AAT,300178561
+altars (religious fixtures),AAT,300003725
+amphitheaters (built works),AAT,300007128
+amphorae (storage vessels),AAT,300148696
+angiportus,AAT,300008249
+annular vaults,AAT,300001370
+apses,AAT,300004607
+aqueducts,AAT,300006165
+arboretums,AAT,300008106
+arbors,AAT,300006781
+arcades (structural assemblies),AAT,300002580
+archaeobotany,AAT,300251771
+architectural terracotta,AAT,300010670
+architraves (entablature),AAT,300001780
+artificial islands,AAT,300386969
+artificial lakes,AAT,300263360
+artificial water channels,AAT,300133792
+atrium houses,AAT,300005451
+atriums (Roman halls),AAT,300004097
+auditoriums,AAT,300004394
+Augustan,AAT,300020543
+awnings,AAT,300254200
+axial plan,AAT,300121971
+baetyls,AAT,300400603
+balnea,AAT,300120377
+balustrades,AAT,300001989
+barns,AAT,300004900
+basins (vessels),AAT,300045614
+bathhouses (water recreation structures),AAT,300007347
+beds (site elements),AAT,300239937
+biclinia,AAT,300170371
+bone (material),AAT,300011798
+botanical gardens,AAT,300008107
+brick (clay material),AAT,300010463
+bronze (metal),AAT,300010957
+bucrania,AAT,300030853
+buildings (structures),AAT,300004792
+burials,AAT,300263485
+busts (sculpture),AAT,300417950
+buttresses,AAT,300000891
+cachepots,AAT,300197605
+caldaria,AAT,300004203
+canals (waterways),AAT,300006075
+candelabras (candleholders),AAT,300037584
+candelabrum (motifs),AAT,300265618
+capitals (column components),AAT,300001662
+cascades (water features),AAT,300006792
+castelli aquae,AAT,300006192
+castra,AAT,300008440
+catch basins,AAT,300052554
+cauponae,AAT,300005208
+caveae,AAT,300004734
+cellae,AAT,300185263
+ceramic (material),AAT,300235507
+ceramic tile,AAT,300010678
+charcoal (material),AAT,300012862
+cherry (plant),AAT,300375306
+chests (case furniture),AAT,300038992
+churches (buildings),AAT,300007466
+cippi,AAT,300006963
+circuses (Roman arenas),AAT,300007255
+cisterns (plumbing components),AAT,300052558
+city walls,AAT,300005072
+colonnades,AAT,300002613
+column bases,AAT,300233843
+columns (architectural elements),AAT,300001571
+concrete,AAT,300010737
+Corinthian columns,AAT,300299596
+Corinthian order,AAT,300067417
+cornices,AAT,300001788
+cornucopias (motifs),AAT,300303413
+corridors,AAT,300004294
+courtyards (uncovered spaces),AAT,300004095
+crematories,AAT,300005871
+Crocodylidae (family),AAT,300250293
+cryptoportici,AAT,300004295
+cubicula (domestic spaces),AAT,300004367
+curiae,AAT,300006027
+cypress (wood),AAT,300012540
+dadoes,AAT,300001746
+ditches,AAT,300006178
+dolia,AAT,300400601
+doliums,AAT,300400601
+domus,AAT,300005506
+Doric order,AAT,300067406
+dovecotes,AAT,300004975
+drains,AAT,300052564
+Early Imperial,AAT,300107346
+elms,POWO,30004945-2
+engaged columns,AAT,300001638
+entablatures,AAT,300001770
+epitaphs,AAT,300028729
+exedrae (interior spaces),AAT,300004014
+exedrae (site elements),AAT,300081589
+fanums,AAT,300400628
+fauces,AAT,300004298
+fences (site elements),AAT,300005044
+festoon (motif),AAT,300167386
+fishponds,AAT,300008689
+fish-processing centers (inhabited places),AAT,300387283
+Flavian,AAT,300020551
+flower gardens,AAT,300008135
+flowerpots,AAT,300194749
+fluting,AAT,300010233
+forecourts,AAT,300004104
+former reservoirs,AAT,300386966
+fountains,AAT,300006179
+frescoes (paintings),AAT,300177433
+friezes (ornamental areas),AAT,300123582
+headboards,AAT,300040447
+funerals,AAT,300069162
+funerary buildings,AAT,300005866
+furniture,AAT,300037680
+garden lights,AAT,300183142
+garden ornaments,AAT,300424784
+garden pavilions,AAT,300006819
+gazebos,AAT,300006798
+graffiti (casual notations),AAT,300015613
+granite (rock),AAT,300011183
+groves (plant communities),AAT,300008884
+gutters (building drainage components),AAT,300052565
+gymnasiums (physical education buildings),AAT,300007297
+Hadrianic,AAT,300107350
+hanging gardens,AAT,300008100
+headboards,AAT,300040447
+hearths,AAT,300003990
+hedges,AAT,300266413
+herms,AAT,300047170
+heroa,AAT,300005888
+Hippopotamus (genus),AAT,300310418
+horrea,AAT,300120504
+horticultural containers,AAT,300198749
+hydraulic mortar,AAT,300014756
+hydraulic mortar,AAT,300014756
+hypocausts,AAT,300004277
+impluvia,AAT,300129867
+inscriptions,AAT,300028702
+insulae (apartments),AAT,300000325
+Ionic (architecture style),AAT,300020112
+iron (metal),AAT,300011002
+irrigation ditches,AAT,300404100
+Julio-Claudian,AAT,300020545
+kitchen gardens,AAT,300008110
+klinai,AAT,300375544
+kraters,AAT,300198855
+labyrinths (built works),AAT,300312218
+lararia,AAT,300400600
+Late Republican,AAT,300020540
+latrines,AAT,300007951
+lattices,AAT,300163920
+laurel,POWO,465049-1
+lead (metal),AAT,300011022
+lecti,AAT,300139419
+libraries (rooms),AAT,300004433
+light wells,AAT,300004321
+loam,AAT,300014335
+loggias,AAT,300004137
+manholes,AAT,300004244
+marble (rock),AAT,300011443
+Marcus Aurelius,ULAN,500115701
+market gardens,AAT,300008111
+masonry (building materials),AAT,300015332
+mausoleums,AAT,300005891
+medallions (ornament areas),AAT,300077354
+monopodia,AAT,300041194
+mosaics (visual works),AAT,300015342
+mural paintings (visual works),AAT,300033644
+museums (buildings),AAT,300005768
+naoi (chambers),AAT,300004658
+natationes,AAT,300162917
+Neo-Attic,AAT,300020212
+niches,AAT,300002704
+nymphaea (garden structures),AAT,300006809
+nymphs,AAT,300379159
+obelisks (monumental pillars),AAT,300007021
+oeci,AAT,300080791
+olive trees,POWO,610675-1
+open air markets,AAT,300444923
+opus reticulatum,AAT,300262690
+opus sectile (visual works),AAT,300254462
+opus signinum,AAT,300379969
+opus spicatum (process),AAT,300417912
+opus tessellatum (process),AAT,300379968
+opus testaceum,AAT,300265616
+orchards,AAT,300008890
+orthostats,AAT,300002712
+paddocks,AAT,300428748
+palaces (official residences),AAT,300005734
+palaestrae,AAT,300007301
+paradise gardens,AAT,300008112
+parapets (wall components),AAT,300002717
+parterres,AAT,300184573
+passages (circulation spaces),AAT,300004283
+pavilions (light buildings),AAT,300448947
+pedestals,AAT,300001744
+peltae,AAT,300213495
+pergolas,AAT,300006783
+periboloi,AAT,300005069
+peristyle houses,AAT,300005452
+peristyles (Roman courtyards),AAT,300080971
+pilasters (wall components),AAT,300002737
+pillars (structural elements),AAT,300264605
+pinakes (votive plaques),AAT,300264977
+pipes (conduits),AAT,300014662
+piscinae (pools),AAT,300375619
+pits (earthworks),AAT,300008027
+plane trees,POWO,685873-1
+planters (containers),AAT,300237566
+planting beds,AAT,300430426
+plinths,AAT,300001749
+podiums (building divisions),AAT,300000976
+podiums (platforms),AAT,300249278
+pollen,AAT,300213002
+polychrome,AAT,300252261
+pools (bodies of water),AAT,300008692
+poplars,POWO,328417-2
+porticoes,AAT,300004145
+praetoriums,AAT,300005636
+predellas,AAT,300003745
+presence chambers,AAT,300004445
+puteals,AAT,300443458
+putti (motifs),AAT,300250465
+quadriportici,AAT,300004101
+quatrefoils,AAT,300009784
+reception rooms,AAT,300077176
+reflecting pools,AAT,300179485
+reliefs (sculptures),AAT,300047230
+religious standards,AAT,300429891
+Republican,AAT,300020537
+reservoirs (water distribution structures),AAT,300006191
+retaining walls,AAT,300005073
+rills,AAT,300263440
+rims (container components),AAT,300203193
+rinceaux,AAT,300165495
+roofing tile,AAT,300010699
+root (plant material),AAT,300081475
+root cellars,AAT,300004761
+rustic (style),AAT,300310541
+sacella,AAT,300007570
+sacraria,AAT,300007572
+sacred groves,AAT,300251876
+sanctuaries (religious building spaces),AAT,300004575
+sanctuary centers (religious centers),AAT,300391482
+sarcophagi (coffins),AAT,300005947
+scaenae frontes,AAT,300083030
+scaenae,AAT,300004681
+sculpture (visual works),AAT,300047090
+Second Style,AAT,300020609
+semicircular,AAT,300263828
+sepulchral monuments,AAT,300005909
+Severan,AAT,300020566
+sewers (drainage structures),AAT,300006122
+sherds,AAT,300117132
+shrines (structures),AAT,300007558
+socles,AAT,300080499
+soil,AAT,300014330
+solaria (sundials),AAT,300404895
+solariums (building spaces),AAT,300004179
+springs (bodies of water),AAT,300008697
+sprinklers (watering equipment),AAT,300435392
+stables (animal housing),AAT,300005015
+stairs (series of steps),AAT,300003228
+statues,AAT,300047600
+statuettes (free-standing sculpture),AAT,300312262
+stelae,AAT,300007023
+strigillation,AAT,300121959
+stucco (plaster),AAT,300014966
+stuccoing,AAT,300053875
+stylobates,AAT,300000986
+sudatoria,AAT,300004219
+sundials,AAT,300041614
+swimming pools,AAT,300007376
+tabernae,AAT,300005366
+tables (support furniture),AAT,300039548
+tablina,AAT,300004180
+temene,AAT,300000805
+temples (buildings),AAT,300007595
+terrace gardens,AAT,300404778
+terraces (landscaped-site elements),AAT,300004182
+terracotta (clay material),AAT,300010669
+terrazzo,AAT,300011696
+tesserae (mosaic components),AAT,300010730
+theaters (buildings),AAT,300007117
+thermae,AAT,300007364
+thermopolia,AAT,300400645
+thymiateria,AAT,300265006
+tombs,AAT,300005926
+tondi,AAT,300033622
+topiary,AAT,300061887
+travertine,AAT,300011329
+trees (woody plants),AAT,300132410
+trellises,AAT,300006785
+trenches,AAT,300008022
+triclinia (couches),AAT,300142552
+triclinia (rooms),AAT,300004359
+triumphal arches (memorial arches),AAT,300007003
+trophies (war monuments),AAT,300007038
+troughs (containers),AAT,300220971
+tufa,AAT,300011712
+tuff,AAT,300011264
+Tuscan order,AAT,300067420
+tympana (wall components),AAT,300002736
+Ulmus (genus),AAT,300374849
+ustrina,AAT,300005876
+vases,AAT,300132254
+vaults (structural elements),AAT,300001324
+vegetable gardens,AAT,300008142
+veneered walls,AAT,300002571
+vestibules,AAT,300083076
+villae rusticae,AAT,300005518
+villae suburbanae,AAT,300005519
+villae urbanae,AAT,300005520
+villas,AAT,300005517
+vineyards,AAT,300000248
+walled gardens,AAT,300008129
+walls,AAT,300002469
+water baths,AAT,300248755
+water features (landscaping),AAT,300180674
+water jets,AAT,300438513
+water supply systems,AAT,300008618
+water wells,AAT,300152327
+watercourses,AAT,300387091
+waterspouts,AAT,300248603
+well houses,AAT,300008017
+whitewash (water-base paint),AAT,300015042
+woodlands (plant communities),AAT,300157169
+woven material,AAT,300411341

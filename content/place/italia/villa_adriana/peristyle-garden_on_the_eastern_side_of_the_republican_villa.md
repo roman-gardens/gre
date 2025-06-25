@@ -10,7 +10,7 @@ editor: Joshua Rosenheim
 draft: true
 tags:
  - "flower gardens"
- - "nymphaea (garden structures)"
+ - "nymphaea"
  - "peristyles"
  - "porticoes"
 ---
@@ -44,7 +44,7 @@ Peristyle-garden on the eastern side of the Republican villa (Fig. 1, n. 18)
 ## Keywords
 
 - {{< keyword "flower gardens" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 

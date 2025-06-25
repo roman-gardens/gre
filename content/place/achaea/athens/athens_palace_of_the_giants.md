@@ -14,7 +14,7 @@ categories:
  - "Achaea"
 
 tags:
- - "gymnasiums (physical education buildings)"
+ - "gymnasiums"
  - "peristyles"
 ---
 
@@ -37,7 +37,7 @@ Palace of the Giants
 
 ## Keywords
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "gymnasiums (physical education buildings)" >}}
+- {{< keyword "gymnasiums" >}}
 - {{< keyword "peristyles" >}}
 
 ## Garden Description

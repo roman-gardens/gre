@@ -42,8 +42,8 @@ Villa Borg
 
 ## Keywords
 - {{< keyword "porticoes" >}}
-- {{< keyword "basins (vessels)" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "courtyards" >}}
 
 
 

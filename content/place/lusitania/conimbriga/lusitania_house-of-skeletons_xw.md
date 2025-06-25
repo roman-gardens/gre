@@ -48,7 +48,7 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Skeletons
 
 ## Keywords
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "axial plan" >}}
 

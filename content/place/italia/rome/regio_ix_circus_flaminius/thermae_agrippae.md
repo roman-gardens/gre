@@ -10,7 +10,7 @@ editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
 tags:
  - "thermae"
- - "gymnasiums (physical education buildings)"
+ - "gymnasiums"
  - "horti"
 ---
 
@@ -39,7 +39,7 @@ Garden of the Thermae Agrippae \
 
 ## Keywords
 
-- {{< keyword "canals (waterways)" >}}
+- {{< keyword "canals" >}}
 - {{< keyword "gymnasiums" >}}
 - {{< keyword "botanical gardens" >}}
 - {{< keyword "nemus (grove)" >}}

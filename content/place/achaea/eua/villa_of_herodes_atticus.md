@@ -14,8 +14,8 @@ categories:
 
 tags:
 - "exedrae (site elements)"
-- "mosaics (visual works)"
-- "nymphaea (garden structures)"
+- "mosaics"
+- "nymphaea"
 - "porticoes"
 - "statues"
 ---
@@ -57,8 +57,8 @@ Villa of Herodes Atticus
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "mosaics (visual works)" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "statues" >}}
 

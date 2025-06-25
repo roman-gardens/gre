@@ -14,7 +14,7 @@ categories:
 tag:
   - "domus"
   - "peristyle houses"
-  - "basins (vessels)"
+  - "basins"
   - "semicircular exedra"
 ---
 
@@ -51,7 +51,7 @@ House of the small Peristyle (Maison du petit péristyle)
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "basins" >}}
-- {{< keyword "semicircular exedra" >}}
+- {{< keyword "exedra" >}}
 <!-- [urban villas](#) -->
 
 ## Garden Description

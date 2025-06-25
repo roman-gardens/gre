@@ -9,10 +9,10 @@ author: Elizabeth J Shepherd
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "basins (vessels)"
- - "columns (architectural elements)"
- - "mosaics (visual works)"
- - "nymphaea (garden structures)"
+ - "basins"
+ - "columns"
+ - "mosaics"
+ - "nymphaea"
  - "porticoes"
 ---
 
@@ -60,15 +60,15 @@ House of Amor and Psyche \
 ## Keywords
 
 - {{< keyword "balustrades" >}}
-- {{< keyword "basins (vessels)" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "Corinthian order" >}}
-- {{< keyword "mosaics (visual works)" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "plinths" >}}
 - {{< keyword "polychrome" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "terracotta (clay material)" >}}
+- {{< keyword "terracotta" >}}
 - {{< keyword "viridarium" >}}
 
 ## Garden Description

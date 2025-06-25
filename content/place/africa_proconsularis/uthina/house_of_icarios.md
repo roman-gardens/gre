@@ -14,13 +14,13 @@ categories:
 tags:
  - "domus"
  - "peristyle houses"
- - "basins (vessels)"
+ - "basins"
  - "oeci"
  - "vestibules"
  - "Corinthian columns"
  - "triclinia (rooms)"
  - "vaults"
- - "cisterns (plumbing components)"
+ - "cisterns"
 
 ---
 
@@ -65,8 +65,8 @@ House of Icarios (Maison d'Icarios)
 - {{< keyword "vestibules" >}}
 - {{< keyword "Corinthian columns" >}}
 - {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "vaults (structural elements)" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "vaults" >}}
+- {{< keyword "cisterns" >}}
 
 ## Garden Description
 

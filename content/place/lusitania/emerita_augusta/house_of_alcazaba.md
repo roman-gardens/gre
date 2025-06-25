@@ -62,7 +62,7 @@ House of Alcazaba
 ## Keywords
 
 - {{< keyword "peristyles" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 
 ## Garden Description
 

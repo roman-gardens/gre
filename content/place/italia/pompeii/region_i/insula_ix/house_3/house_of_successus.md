@@ -45,15 +45,15 @@ House of Successus (I.ix.3)
 ## Keywords
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "atriums (Roman halls)" >}}
-- {{< keyword "cubicula (domestic spaces)" >}}
-- {{< keyword "graffiti (casual notations)" >}}
-- {{< keyword "inscription" >}}
-- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "cubicula" >}}
+- {{< keyword "graffiti" >}}
+- {{< keyword "inscriptions" >}}
+- {{< keyword "mural paintings" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "statues" >}}
-- {{< keyword "statuettes (free-standing sculpture)" >}}
-- {{< keyword "tables (support furniture)" >}}
+- {{< keyword "statuettes" >}}
+- {{< keyword "tables" >}}
 
 ## Garden Description
 

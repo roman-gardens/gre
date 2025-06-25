@@ -37,9 +37,9 @@ House of Hylas
 
 ## Keywords
 
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "basins" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "nymphs" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "reception rooms" >}}

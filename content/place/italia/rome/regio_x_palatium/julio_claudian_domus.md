@@ -34,15 +34,15 @@ Garden of the Peristyle of the Julio-Claudian *Domus*, Palatine
 
 ## Keywords
 
-- {{< keyword "brick (clay material)" >}}
+- {{< keyword "brick" >}}
 - {{< keyword "colonnades" >}}
 - {{< keyword "columns (architectural element)" >}}
 - {{< keyword "domus" >}}
 - {{< keyword "flower gardens" >}}
 - {{< keyword "flowerpots" >}}
-- {{< keyword "frescoes (paintings)" >}}
-- {{< keyword "marble (rock)" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "frescoes" >}}
+- {{< keyword "marble" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "peristyles" >}}
 - [princeps](https://www.britannica.com/topic/princeps)
 - {{< keyword "architectural terracotta" >}}

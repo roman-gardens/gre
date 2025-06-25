@@ -49,12 +49,12 @@ Victory Monument of Augustus
 
 - {{< keyword "literary gardens" >}}
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "altars (religious fixtures)" >}}
-- {{< keyword "friezes (ornamental areas)" >}}
+- {{< keyword "altars" >}}
+- {{< keyword "friezes" >}}
 - {{< keyword "orchards" >}}
 - {{< keyword "pedestals" >}}
 - {{< keyword "Strabo" >}}
-- {{< keyword "trophies (war monuments)" >}}
+- {{< keyword "trophies" >}}
 
 ## Garden Description
 

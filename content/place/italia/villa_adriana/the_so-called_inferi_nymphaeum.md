@@ -10,7 +10,7 @@ editor: Joshua Rosenheim
 draft: true
 tags:
  - "fountains"
- - "nymphaea (garden structures)"
+ - "nymphaea"
 ---
 
 ## Province
@@ -42,7 +42,7 @@ The so-called *Inferi Nymphaeum* (Fig. 1, n. 23)
 ## Keywords
 
 - {{< keyword "fountains" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 
 ## Garden Description
 

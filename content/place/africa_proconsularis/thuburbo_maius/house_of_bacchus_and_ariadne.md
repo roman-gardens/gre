@@ -14,14 +14,14 @@ categories:
 tags:
  - "domus"
  - "peristyle houses"
- - "mosaics (visual works)"
+ - "mosaics"
  - "triclinia (rooms)"
- - "basins (vessels)"
+ - "basins"
  - "root cavities"
- - "pipes (conduits)"
+ - "pipes"
  - "pools"
  - "fountains"
- - "pits (earthworks)"
+ - "pits"
  - "furniture"
 ---
 
@@ -53,14 +53,14 @@ House of Bacchus and Ariadne (Maison de Bacchus et Ariane)
 ## Keywords
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "basins" >}}
 - {{< keyword "root cavities" >}}
-- {{< keyword "pipes (conduits)" >}}
+- {{< keyword "pipes" >}}
 - {{< keyword "pools" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "pits (earthworks)" >}}
+- {{< keyword "pits" >}}
 - {{< keyword "furniture" >}}
 
 ## Garden Description

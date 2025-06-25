@@ -47,14 +47,14 @@ Villa of the Bath
 ## Keywords
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "cisterns (plumbing components)" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "gutters" >}}
 - {{< keyword "villae urbanae" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "balnea" >}}
 - {{< keyword "water baths" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "atrium houses" >}}
 - {{< keyword "corridors" >}}
 

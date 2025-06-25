@@ -16,7 +16,7 @@ tags:
  - "peristyle houses"
  - "fountains"
  - "pools"
- - "cascade"
+ - "cascades"
 ---
 
 ## Province
@@ -59,7 +59,7 @@ House of the Cascade (Maison de la Cascade)
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "pools" >}}
-- {{< keyword "cascade" >}}
+- {{< keyword "cascades" >}}
 
 ## Garden Description
 

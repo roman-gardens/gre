@@ -10,7 +10,7 @@ editor: Rhiannon Paré
 draft: false
 tags:
  - "domus"
- - "palaces (official residences)"
+ - "palaces"
  - "peristyles"
  - "temples"
 ---
@@ -40,7 +40,7 @@ Vigna Barberini Site Overview, Palatine
 ## Keywords
 
 - {{< keyword "domus" >}}
-- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "palaces" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "temples" >}}
 

@@ -42,7 +42,7 @@ Urban house on Gertrudenstrasse (Colonia Claudia Ara Agrippinensium)
 
 ## Keywords
 
-- {{< keyword "urban villas" >}}
+- {{< keyword "villae urbanae" >}}
 - {{< keyword "villae urbanae" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "apsed pools" >}}

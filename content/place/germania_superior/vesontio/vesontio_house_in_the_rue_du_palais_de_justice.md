@@ -56,8 +56,8 @@ archaeological garden \
 - {{< keyword "domus" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "hypocausts" >}}
-- {{< keyword "mosaics (visual works)" >}}
-- {{< keyword "opus sectile (visual works)" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "opus sectile" >}}
 - {{< keyword "opus signinum" >}}
 - {{< keyword "oeci" >}}
 - {{< keyword "peristyles" >}}

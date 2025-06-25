@@ -40,7 +40,7 @@ Villa at site 11
 
 - {{< keyword "barns" >}}
 - {{< keyword "atrium houses" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "villae suburbanae" >}}
 
 ## Garden Description

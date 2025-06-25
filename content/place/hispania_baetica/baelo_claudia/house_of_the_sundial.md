@@ -48,7 +48,7 @@ Villa del Cortijo de los Vila
 
 ## Keywords
 
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "peristyles" >}}
 
 

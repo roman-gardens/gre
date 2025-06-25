@@ -13,7 +13,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "cisterns (plumbing components)"
+ - "cisterns"
  - "jet d'eau"
  - "peristyles"
  - "porticoes"
@@ -48,11 +48,11 @@ Three separate gardens in the Praedia di Julia Felix.
 
 
 ## Keywords
-- {{< keyword "cisterns (plumbing components)" >}}
-- {{< keyword "sprinklers (watering equipment)" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "sprinklers" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "statuettes" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description

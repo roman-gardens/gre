@@ -44,7 +44,7 @@ House of the Mithra
 
 ## Keywords
 
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "drains" >}}
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "fountains" >}}

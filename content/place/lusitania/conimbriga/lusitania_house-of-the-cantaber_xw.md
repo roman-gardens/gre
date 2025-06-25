@@ -48,7 +48,7 @@ A sublocation is any area larger than an individual garden, but located within a
 House of the Cantaber
 
 ## Keywords
-- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "statuettes" >}}
 - {{< keyword "peristyles" >}}
 
 ## Garden Description

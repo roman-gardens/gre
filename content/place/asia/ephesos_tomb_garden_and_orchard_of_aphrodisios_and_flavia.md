@@ -57,7 +57,7 @@ Tomb Garden and Orchard of Aphrodisios and Flavia
 ## Keywords
 
 - {{< keyword "stelae" >}}
-- {{< keyword "sarcophagi (coffins)" >}}
+- {{< keyword "sarcophagi" >}}
 - pvmãrin <!-- What is this? -CDC -->
 - pomarium
 - tomb monuments

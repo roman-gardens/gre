@@ -40,7 +40,7 @@ A sublocation is any area larger than an individual garden, but located within a
 Sainte-Marguerite-sur-Mer (Seine-Maritime) Roman Villa
 
 ## Keywords
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "porticoes" >}}
 - [hypocausts](http://vocab.getty.edu/page/aat/300004277)
 - [exedrae](http://vocab.getty.edu/page/aat/300081589)

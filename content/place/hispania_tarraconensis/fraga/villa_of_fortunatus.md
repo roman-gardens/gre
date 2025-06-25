@@ -58,7 +58,7 @@ Villa of Fortunatus
 
 ## Keywords
 - {{< keyword "peristyle houses" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 
 
 ## Garden Description

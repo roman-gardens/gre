@@ -9,10 +9,10 @@ author: Elizabeth J Shepherd
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "basins (vessels)"
- - "columns (architectural elements)"
- - "mosaics (visual works)"
- - "nymphaea (garden structures)"
+ - "basins"
+ - "columns"
+ - "mosaics"
+ - "nymphaea"
  - "oeci"
 ---
 
@@ -58,16 +58,16 @@ House of the Fortuna Annonaria
 
 ## Keywords
 
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "basins" >}}
 - {{< keyword "bucrania" >}}
-- {{< keyword "columns (architectural elements)" >}}
-- {{< keyword "cornucopias (motifs)" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "cornucopias" >}}
 - {{< keyword "domus" >}}
 - {{< keyword "herms" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "Neo-Attic" >}}
 - {{< keyword "niches" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "oeci" >}}
 - {{< keyword "opus listatum" >}}
 - {{< keyword "peristyles" >}}

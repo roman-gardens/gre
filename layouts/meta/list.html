@@ -2,9 +2,9 @@
 <main class="main" role="main">
     <h1>Jump to:</h1>
     <ul style="margin-left:2em; margin-bottom:3em">
-        <li><a href="#places">Places</a></li>
-        <li><a href="#gardens">Gardens</a></li>
-        <li><a href="#keywords">Keywords</a></li>
+        <li><a href="#places">All Places</a></li>
+        <li><a href="#gardens">All Gardens</a></li>
+        <li><a href="#linkedkeywords">Linked Keywords</a></li>
     </ul>
 
 
@@ -76,32 +76,39 @@
         {{- $opts := dict "targetType" "slice" -}}
         {{- $keywords = transform.Unmarshal $opts . -}}
     {{- end -}}
-    <h1 id="keywords">Keywords ({{ len $keywords }})</h1>
+    <h1 id="linkedkeywords">Linked keywords ({{ len $keywords }})</h1>
     {{ with $keywords }}
-    <table class="meta" id="metakeywords">
-        <thead>
-        <tr>
-            {{ range index . 0 }}
-            <th>{{ . }}</th>
-            {{ end }}
-        </tr>
-        </thead>
-        <tbody>
-        {{ range . | after 1 }}
+        <table class="meta" id="metakeywords">
+            <thead>
             <tr>
-            {{ range $i, $v := . }}
-                {{ if eq $i 0 }}
-                    <td><a href="/search/?q={{ urlize $v }}">{{ $v }}</a></td>
-                {{ else if eq $i 2 }}
-                    <td><a target="_blank" href="http://vocab.getty.edu/aat/{{ $v }}">{{ $v }}</a></td>
-                {{ else }}
-                    <td>{{ $v }}</td>
+                {{ range index . 0 }}
+                <th>{{ . }}</th>
                 {{ end }}
-            {{ end }}
             </tr>
-        {{ end }}
-        </tbody>
-    </table>
+            </thead>
+            <tbody>
+            {{/* Iterate through each row (skipping the head, which we already did) */}}
+            {{ range . | after 1 }}
+                <tr>
+                {{ $term := "" }}
+                {{/* Iterate through each column */}}
+                {{ range $i, $v := . }}
+                    {{ if eq $i 0 }}
+                        {{/* remember term for the keyword link in the last column */}}
+                        {{ $term = $v }}
+                        <td>{{ $v }}</td>
+                    {{ else if eq $i 1 }}
+                        <td>{{ $v }}</td>
+                    {{ else if eq $i 2 }}
+                        <td>{{ partial "keyword" $term }}</td>
+                    {{ else }}
+                        <td>{{ $v }}</td>
+                    {{ end }}
+                {{ end }}
+                </tr>
+            {{ end }}
+            </tbody>
+        </table>
     {{ end }}
 
     <!-- make tables sortable by clicking on headers -->

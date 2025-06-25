@@ -9,9 +9,9 @@ author: Valerie Aymer, Kathryn Gleason
 editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
 tags:
- - "altars (religious fixtures)"
- - "canals (waterways)"
- - "columns (architectural elements)"
+ - "altars"
+ - "canals"
+ - "columns"
  - "exedrae (site elements)"
  - "porticoes"
  - "temples"
@@ -42,14 +42,14 @@ Garden of the Divorum
 
 ## Keywords
 
-- {{< keyword "altars (religious fixtures)" >}}
-- {{< keyword "canals (waterways)" >}}
+- {{< keyword "altars" >}}
+- {{< keyword "canals" >}}
 - {{< keyword "columns (architectural element)" >}}
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "pools" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "temples" >}}
-- {{< keyword "triumphal arches (memorial arches)" >}}
+- {{< keyword "triumphal arches" >}}
 
 
 ## Garden Description

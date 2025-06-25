@@ -13,8 +13,8 @@ categories:
   - "Africa Proconsularis"
 tags:
  - "temples"
- - "sanctuaries (religious building spaces)"
- - "courtyards (uncovered spaces)"
+ - "sanctuaries"
+ - "courtyards"
 ---
 
 ## Province
@@ -44,9 +44,9 @@ Temple of Baalat (Temple de Balaat)
 
 ## Keywords
 
-- {{< keyword "temples (buildings)" >}}
-- {{< keyword "sanctuary" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "temples" >}}
+- {{< keyword "sanctuaries" >}}
+- {{< keyword "courtyards" >}}
 
 ## Garden Description
 

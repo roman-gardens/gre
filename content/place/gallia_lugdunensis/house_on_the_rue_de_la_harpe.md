@@ -43,7 +43,7 @@ House on the Place des Halles (La maison des Halles)
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 
 ## Garden Description
 

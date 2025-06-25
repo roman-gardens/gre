@@ -14,14 +14,14 @@ categories:
   - "Italia"
 tags:
  - "aedicules"
- - "amphorae (storage vessels)"
+ - "amphorae"
  - "arbors"
- - "atriums (Roman halls)"
+ - "atriums"
  - "biclinia"
  - "fountains"
  - "impluvia"
- - "insulae (apartments)"
- - "nymphaea (garden structures)"
+ - "insulae"
+ - "nymphaea"
  - "pergolas"
  - "peristyles"
  - "porticoes"
@@ -47,18 +47,18 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref ".">}})
 
 ## Keywords
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "impluvia" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "biclinia" >}}
 - {{< keyword "aedicules" >}}
 - {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "insulae (apartments)" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "insulae" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "pergolas" >}}
 - {{< keyword "arbors" >}}
-- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "amphorae" >}}
 - {{< keyword "water supply systems" >}}
 - {{< keyword "fountains" >}}
 

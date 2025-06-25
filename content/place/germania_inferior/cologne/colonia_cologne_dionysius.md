@@ -43,10 +43,10 @@ House of Dionysius (Colonia Claudia Ara Agrippinensium)
 
 ## Keywords
 
-- {{< keyword "urban villas" >}}
+- {{< keyword "villae urbanae" >}}
 - {{< keyword "villae urbanae" >}}
 - {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "insulae" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "apsed pools" >}}
 - {{< keyword "axial plan" >}}

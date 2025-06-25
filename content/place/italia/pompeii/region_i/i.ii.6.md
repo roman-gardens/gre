@@ -13,9 +13,9 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "atriums (Roman halls)"
- - "columns (architectural elements)"
- - "graffiti (casual notations)"
+ - "atriums"
+ - "columns"
+ - "graffiti"
  - "porticoes"
  - "stucco"
 ---
@@ -38,11 +38,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "#">}})
 
 ## Keywords
-- {{< keyword "atriums (Roman halls)" >}}
-- {{< keyword "columns (architectural elements)" >}}
-- {{< keyword "graffiti (casual notations)" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "graffiti" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "stucco (plaster)" >}}
+- {{< keyword "stucco" >}}
 
 ## Garden
 Small peristyle garden at the rear of the house.

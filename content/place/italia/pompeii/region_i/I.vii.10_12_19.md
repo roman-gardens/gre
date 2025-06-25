@@ -14,19 +14,19 @@ categories:
   - "Italia"
 tags:
  - "aedicules"
- - "atriums (Roman halls)"
- - "basins (vessels)"
- - "busts (sculpture)"
+ - "atriums"
+ - "basins"
+ - "busts"
  - "candelabras (candleholders)"
- - "cisterns (plumbing components)"
- - "columns (architectural elements)"
+ - "cisterns"
+ - "columns"
  - "dolia"
  - "engaged columns"
  - "exedrae (site elements)"
- - "fences (site elements)"
+ - "fences"
  - "fountains"
  - "impluvia"
- - "mural paintings (visual works)"
+ - "mural paintings"
  - "pergolas"
  - "peristyles"
  - "pillars"
@@ -34,7 +34,7 @@ tags:
  - "porticoes"
  - "statues"
  - "statuettes"
- - "tables (support furniture)"
+ - "tables"
  - "tablina"
  - "trellises"
  - "triclinia (rooms)"
@@ -62,27 +62,27 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Keywords
 
 - {{< keyword "aedicules" >}}
-- {{< keyword "atriums (Roman halls)" >}}
-- {{< keyword "basins (vessels)" >}}
-- {{< keyword "busts (sculpture)" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "busts" >}}
 - {{< keyword "candelabras (candleholders)" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "dolia" >}}
 - {{< keyword "engaged columns" >}}
 - {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "fences (site elements)" >}}
+- {{< keyword "fences" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "impluvia" >}}
-- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "mural paintings" >}}
 - {{< keyword "pergolas" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "pillars" >}}
 - {{< keyword "piscinae" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "statues" >}}
-- {{< keyword "statuettes (free-standing sculpture)" >}}
-- {{< keyword "tables (support furniture)" >}}
+- {{< keyword "statuettes" >}}
+- {{< keyword "tables" >}}
 - {{< keyword "tablina" >}}
 - {{< keyword "trellises" >}}
 - {{< keyword "triclinia (rooms)" >}}

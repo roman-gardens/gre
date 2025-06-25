@@ -48,11 +48,11 @@ Niederzier Hambach 59
 
 - {{< keyword "villae rusticae" >}} 
 - {{< keyword "ditches" >}} 
-- {{< keyword "fences (site elements)" >}} 
+- {{< keyword "fences" >}} 
 - {{< keyword "hedges" >}} 
 - {{< keyword "water wells" >}} 
 - {{< keyword "orchards" >}} 
-- {{< keyword "cherry (plant)" >}} 
+- {{< keyword "cherry" >}} 
 
 
 ## Garden Description

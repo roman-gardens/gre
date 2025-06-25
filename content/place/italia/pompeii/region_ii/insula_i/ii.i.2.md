@@ -13,7 +13,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "amphorae (storage vessels)"
+ - "amphorae"
  - "tabernae"
 ---
 
@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 - {{< keyword "tabernae" >}}
-- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "amphorae" >}}
 
 
 ## House

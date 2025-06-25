@@ -50,7 +50,7 @@ Villa de Pardigon 3
 ## Keywords
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "reception rooms" >}}
 
 

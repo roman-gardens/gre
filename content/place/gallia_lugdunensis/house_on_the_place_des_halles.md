@@ -41,7 +41,7 @@ House on the Place des Halles (La maison des Halles)
 
 ## Keywords
 - {{< keyword "domus" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 
 
 ## Garden Description

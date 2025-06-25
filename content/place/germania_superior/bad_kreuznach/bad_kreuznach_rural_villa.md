@@ -52,9 +52,9 @@ Rural Villa in Bad Kreuznach
 - {{< keyword "colonnades" >}}
 - {{< keyword "cryptoportici" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "gutters" >}}
 - {{< keyword "lararia" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "villae rusticae" >}}

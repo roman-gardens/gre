@@ -42,7 +42,7 @@ House with Garden, rue des Capucins
 
 ## Keywords
 - {{< keyword "domus" >}}
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 
 
 ## Garden Description

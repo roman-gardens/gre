@@ -49,7 +49,7 @@ House No. 1 or West House
 ## Keywords
 
 - {{< keyword "colonnades" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "triclinia (rooms)" >}}
 <!-- [Doric order]-->

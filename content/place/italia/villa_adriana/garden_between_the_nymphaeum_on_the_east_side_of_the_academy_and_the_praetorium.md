@@ -11,7 +11,7 @@ draft: true
 tags:
  - "exedrae (site elements)"
  - "fountains"
- - "nymphaea (garden structures)"
+ - "nymphaea"
 ---
 
 ## Province
@@ -44,7 +44,7 @@ Garden between the *nymphaeum* on the E side of the Academy and the *Praetorium*
 
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 
 ## Garden Description
 

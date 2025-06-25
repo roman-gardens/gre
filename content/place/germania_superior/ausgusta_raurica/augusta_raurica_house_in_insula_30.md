@@ -51,7 +51,7 @@ House in Insula 30 in Augusta Raurica
 
 - {{< keyword "colonnades" >}}
 - {{< keyword "corridors" >}}
-- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "insulae" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "vestibules" >}}

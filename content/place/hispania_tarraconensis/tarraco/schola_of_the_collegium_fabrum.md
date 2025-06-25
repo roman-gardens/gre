@@ -77,7 +77,7 @@ Schola of the Collegium Fabrum
 ## Keywords
 
 - {{< keyword "garden ornaments" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "statues" >}}
 
 ## Garden Description

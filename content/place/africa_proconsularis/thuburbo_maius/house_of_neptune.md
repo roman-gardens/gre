@@ -12,7 +12,7 @@ draft: false
 categories:
   - "Africa Proconsularis"
 tags:
- - "cisterns (plumbing components)"
+ - "cisterns"
  - "domus"
  - "peristyle houses"
  - "semicircular basin"
@@ -45,7 +45,7 @@ House of Neptune (Maison de Neptune)
 ## Keywords
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "semicircular basin" >}}
 
 ## Garden Description

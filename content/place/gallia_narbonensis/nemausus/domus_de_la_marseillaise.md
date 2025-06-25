@@ -50,7 +50,7 @@ Domus de La Marseillaise
 ## Keywords
 
 - {{< keyword "porticoes" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "pilasters" >}}
 

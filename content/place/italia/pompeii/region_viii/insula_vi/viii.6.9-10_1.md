@@ -14,7 +14,7 @@ categories:
   - "Italia"
 
 tags:
-  - "atriums (Roman halls)"
+  - "atriums"
   - "porticoes"
   - "opus signinum"
 ---
@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VI]({{<relref ".">}})
 
 ## Keywords
-- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "insulae" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "opus signinum" >}}
 

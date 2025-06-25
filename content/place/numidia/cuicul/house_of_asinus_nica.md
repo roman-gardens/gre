@@ -12,15 +12,15 @@ draft: false
 categories:
   - "Numidia"
 tags:
- - "courtyards (uncovered spaces)"
+ - "courtyards"
  - "balnea"
  - "domus"
  - "exedrae (site elements)"
- - "mosaics (visual works)"
+ - "mosaics"
  - "peristyle houses"
  - "stairs"
  - "triclinia (rooms)"
- - "basins (vessels)"
+ - "basins"
 ---
 
 ## Province
@@ -54,13 +54,13 @@ House of Asinus Nica, Central District (Maison de l’Ane, quartier central)
 ## Keywords
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "stairs" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "balnea" >}}
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "basins" >}}
 
 ## Garden Description
 

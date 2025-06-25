@@ -55,11 +55,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 ## Keywords
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "dadoes" >}}
 - {{< keyword "peristyles" >}}
-- {{< keyword "medallions (ornament areas)" >}}
-- {{< keyword "putti (motifs)" >}}
+- {{< keyword "medallions" >}}
+- {{< keyword "putti" >}}
 
 
 ## House Description

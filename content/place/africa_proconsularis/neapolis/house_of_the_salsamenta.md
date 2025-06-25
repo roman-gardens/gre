@@ -15,8 +15,6 @@ tag:
   - "domus"
   - "peristyle houses"
   - "pools"
-  - "salsamenta"
-  - "fish factory"
   - "semicircular basin"
 ---
 
@@ -58,7 +56,7 @@ House of the Salsamenta (Usine de salaison)
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "pools" >}}
 - {{< keyword "salsamenta" >}}
-- {{< keyword "fish factory" >}}
+- {{< keyword "fish-processing centers" >}}
 - {{< keyword "semicircular basin" >}}
 
 

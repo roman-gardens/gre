@@ -13,7 +13,7 @@ categories:
   - "Africa Proconsularis"
 tags:
  - "domus"
- - "mosaics (visual works)"
+ - "mosaics"
  - "peristyle houses"
  - "semicircular basin"
 ---
@@ -47,7 +47,7 @@ House of the Palms (Maison des Palmes)
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "semicircular basin" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 
 ## Garden Description
 

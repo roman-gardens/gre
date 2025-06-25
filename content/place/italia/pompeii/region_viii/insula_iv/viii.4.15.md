@@ -19,7 +19,7 @@ tags:
   - "triclinia (rooms)"
   - "exedrae (site elements)"
   - "puteals"
-  - "atriums (Roman halls)"
+  - "atriums"
   - "impluvia"
 
 
@@ -49,7 +49,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "exedrae (interior spaces)" >}}
 - {{< keyword "puteals" >}}
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "impluvia" >}}
 
 ## Garden Description

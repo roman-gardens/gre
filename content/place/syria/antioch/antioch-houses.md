@@ -36,11 +36,11 @@ Antioch on the Orontes was founded by the Macedonian general Seleucus I as the c
 Private Houses at Antioch
 
 ## Keywords
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "statues" >}}
-- {{< keyword "water features (landscaping)" >}}
+- {{< keyword "water features" >}}
 
 ## Garden Description
 The most significant finds from the international excavations conducted from 1932 to 1939 were the many houses built in and around the city center, on the surrounding terraces of the mountain slopes, in the suburb of Daphne, and in the port of Seleucia Pieria. Scores of floor mosaics dating from the second to the sixth centuries CE paved these houses and brought the private lives of the elite into focus. Although no gardens have been excavated in Antioch, the examination of the figural mosaics, statuary, and the fragmentary remains of house plans suggest that there were private gardens.

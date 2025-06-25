@@ -14,7 +14,7 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "atriums (Roman halls)"
+ - "atriums"
  - "peristyles"
  - "stucco"
 ---
@@ -42,7 +42,7 @@ B
 
 
 ## Keywords
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "stuccoing" >}}
 

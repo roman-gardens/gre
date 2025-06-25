@@ -13,9 +13,9 @@ categories:
  - "Achaea"
 
 tags:
- - "amphorae (storage vessels)"
- - "circuses (Roman arenas)"
- - "mosaics (visual works)"
+ - "amphorae"
+ - "circuses"
+ - "mosaics"
 ---
 
 ## Province
@@ -55,9 +55,9 @@ The Circus of Roman Corinth
 ## Keywords
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "amphorae (storage vessels)" >}}
-- {{< keyword "circuses (Roman arenas)" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "amphorae" >}}
+- {{< keyword "circuses" >}}
+- {{< keyword "mosaics" >}}
 
 ## Garden Description
 

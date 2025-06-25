@@ -15,8 +15,8 @@ tags:
  - "domus"
  - "peristyle houses"
  - "triclinia (rooms)"
- - "basins (vessels)"
- - "mosaics (visual works)"
+ - "basins"
+ - "mosaics"
 ---
 
 ## Province
@@ -59,7 +59,7 @@ House of the West (Maison de l'est)
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "basins" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 
 
 ## Garden Description

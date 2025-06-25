@@ -9,7 +9,7 @@ author: Stella Falzone
 editor: Joshua Rosenheim
 draft: false
 tags:
- - "basins (vessels)"
+ - "basins"
  - "water supply systems"
 ---
 
@@ -56,8 +56,8 @@ Garden beneath the House of the Fishes (Domus dei Pesci) \
 
 ## Keywords
 
-- {{< keyword "basins (vessels)" >}}
-- {{< keyword "terracotta (clay material)" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "terracotta" >}}
 - {{< keyword "water supply systems" >}}
 
 ## Garden Description

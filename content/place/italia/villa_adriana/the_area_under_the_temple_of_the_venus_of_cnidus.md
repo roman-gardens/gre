@@ -9,7 +9,7 @@ author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: true
 tags:
- - "nymphaea (garden structures)"
+ - "nymphaea"
 ---
 
 ## Province
@@ -40,7 +40,7 @@ The area under the Temple of the Venus of Cnidus (Fig. 1, n. 12)
 
 ## Keywords
 
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 
 ## Garden Description
 

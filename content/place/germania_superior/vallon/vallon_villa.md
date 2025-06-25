@@ -50,14 +50,14 @@ Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)
 
 - {{< keyword "arbors" >}}
 - {{< keyword "barns" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "ceramic tile" >}}
 - {{< keyword "ditches" >}}
-- {{< keyword "fences (site elements)" >}}
+- {{< keyword "fences" >}}
 - {{< keyword "hearths" >}}
 - {{< keyword "horrea" >}}
 - {{< keyword "kitchen gardens" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "orchards" >}}
 - {{< keyword "pedestals" >}}
 - {{< keyword "pillars" >}}

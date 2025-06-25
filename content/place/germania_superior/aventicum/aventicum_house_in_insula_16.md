@@ -49,7 +49,7 @@ House in Insula 16 in Aventicum
 ## Keywords
 
 - {{< keyword "colonnades" >}}
-- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "insulae" >}}
 - {{< keyword "peristyles" >}}
 
 ## Garden Description

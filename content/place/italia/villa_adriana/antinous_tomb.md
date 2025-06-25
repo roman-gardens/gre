@@ -9,7 +9,7 @@ author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: true
 tags:
- - "nymphaea (garden structures)"
+ - "nymphaea"
  - "tombs"
 ---
 
@@ -42,7 +42,7 @@ Antinous' tomb (Fig. 1, n. 25)\
 
 ## Keywords
 
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "tombs" >}}
 
 ## Garden Description

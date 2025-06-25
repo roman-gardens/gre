@@ -12,7 +12,7 @@ draft: true
 categories:
   - "Africa Proconsularis"
 tags:
- - "mosaics (visual works)"
+ - "mosaics"
  - "peristyles"
  - "market"
 ---
@@ -40,8 +40,8 @@ Peristyle Market (Marché)
 ## Keywords
 
 - {{< keyword "peristyles" >}}
-- {{< keyword "mosaics (visual works)" >}}
-- {{< keyword "market" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "open air markets" >}}
 
 ## Garden Description
 

@@ -49,7 +49,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Keywords
 
-- {{< keyword "amphorae (storage vessels)" >}}
+- {{< keyword "amphorae" >}}
 - {{< keyword "flowerpots" >}}
 - {{< keyword "porticoes" >}}
 

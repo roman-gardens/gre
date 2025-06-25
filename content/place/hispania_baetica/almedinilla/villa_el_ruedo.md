@@ -45,12 +45,12 @@ Villa el Ruedo
 
 ## Keywords
 
-- {{< keyword "basins (vessels)" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "orchards" >}}
 - {{< keyword "peristyles" >}}
-- {{< keyword "reservoirs (water distribution structures)" >}}
+- {{< keyword "reservoirs" >}}
 - {{< keyword "triclinia (rooms)" >}}
 <!-- [nymphaeaum]-->
 <!-- [kiln]-->

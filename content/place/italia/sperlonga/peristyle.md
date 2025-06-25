@@ -42,8 +42,8 @@ The villa has three gardens:  one peristyle garden, one cryptoporticus and the t
 
 ## Keywords
 
-- {{< keyword "insulae (apartments)" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "insulae" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "peristyles" >}}
 
 ## Garden Description

@@ -60,7 +60,7 @@ Villa Dehesa de Soria
 
 ## Keywords
 - {{< keyword "peristyles" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
 

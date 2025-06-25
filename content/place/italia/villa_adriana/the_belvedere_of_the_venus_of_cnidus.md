@@ -10,7 +10,7 @@ editor: Joshua Rosenheim
 draft: true
 tags:
  - "exedrae (site elements)"
- - "nymphaea (garden structures)"
+ - "nymphaea"
 ---
 
 ## Province
@@ -42,7 +42,7 @@ The Belvedere of the Venus of Cnidus (Fig. 1, n. 11)
 ## Keywords
 
 - {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 
 
 ## Garden Description

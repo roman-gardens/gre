@@ -41,8 +41,8 @@ The Gordian Palace (Le palais dit de Gordien)
 ## Keywords
 
 - {{< keyword "balnea" >}}
-- {{< keyword "columns (architectural elements)" >}}
-- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "palaces" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "piscinae" >}}

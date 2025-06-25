@@ -39,10 +39,10 @@ A sublocation is any area larger than an individual garden, but located within a
 Atrium House (Colonia Claudia Ara Agrippinensium)
 
 ## Keywords
-- {{< keyword "urban villas" >}}
+- {{< keyword "villae urbanae" >}}
 - {{< keyword "villae urbanae" >}}
 - {{< keyword "atrium houses" >}}
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "tablina" >}}
 - {{< keyword "colonnades" >}}
 - {{< keyword "peristyles" >}}

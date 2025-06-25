@@ -43,7 +43,7 @@ Rural Villa
 ## Keywords
 - {{< keyword "villae rusticae" >}}
 - {{< keyword "corridors" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 
 
 

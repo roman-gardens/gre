@@ -14,7 +14,7 @@ categories:
   - "Italia"
 tags:
   - "porticoes"
-  - "atriums (Roman halls)"
+  - "atriums"
 ---
 
 ## Province
@@ -36,7 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 - {{< keyword "porticoes" >}}
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 
 
 

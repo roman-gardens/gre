@@ -62,7 +62,7 @@ House of the Hill Garden
 ## Keywords
 
 - {{< keyword "peristyles" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 
 ## Garden Description
 

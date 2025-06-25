@@ -42,11 +42,11 @@ Villa de Larry
 
 ## Keywords
 
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "hedges" >}}
 - {{< keyword "pergolas" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "fountains" >}}
 
 ## Garden Description

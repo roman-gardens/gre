@@ -9,7 +9,7 @@ author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: true
 tags:
- - "columns (architectural elements)"
+ - "columns"
  - "porticoes"
 ---
 
@@ -41,7 +41,7 @@ Garden on a terrace (Fig. 1, n. 15)
 
 ## Keywords
 
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "porticoes" >}}
 
 ## Garden Description

@@ -50,7 +50,7 @@ House in Insula 1 and 2 in Augusta Raurica
 
 archaeological garden \
 
-- {{< keyword "insulae (apartments)" >}}
+- {{< keyword "insulae" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "terrace gardens" >}}

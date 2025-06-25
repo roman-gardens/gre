@@ -12,7 +12,7 @@ tags:
  - "flower gardens"
  - "fountains"
  - "garden pavilions"
- - "nymphaea (garden structures)"
+ - "nymphaea"
  - "peristyles"
  - "piazza"
  - "porticoes"
@@ -53,7 +53,7 @@ The Stadium-garden (Fig. 1, n. 4)
 - {{< keyword "flower gardens" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "garden pavilions" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "peristyles" >}}
 - [piazza](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300164841)
 - {{< keyword "porticoes" >}}

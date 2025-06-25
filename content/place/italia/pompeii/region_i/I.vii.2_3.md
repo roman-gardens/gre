@@ -13,10 +13,10 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "atriums (Roman halls)"
- - "fences (site elements)"
+ - "atriums"
+ - "fences"
  - "fountains"
- - "mural paintings (visual works)"
+ - "mural paintings"
  - "piscinae"
 ---
 
@@ -39,10 +39,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 
-- {{< keyword "atriums (Roman halls)" >}}
-- {{< keyword "fences (site elements)" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "fences" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "mural paintings" >}}
 - {{< keyword "piscinae" >}}
 
 ## Garden Description

@@ -12,10 +12,10 @@ draft: false
 categories:
   - "Numidia"
 tags:
- - "mural paintings (visual works)"
+ - "mural paintings"
  - "viridarium"
  - "temples"
- - "sanctuaries (religious building spaces)"
+ - "sanctuaries"
  - "pools"
  - "inscriptions"
 ---
@@ -57,12 +57,12 @@ A sublocation is any area larger than an individual garden, but located within a
 Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 
 ## Keywords
-- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "mural paintings" >}}
 - {{< keyword "viridarium" >}}
-- {{< keyword "temples (buildings)" >}}
-- {{< keyword "sanctuary" >}}
+- {{< keyword "temples" >}}
+- {{< keyword "sanctuaries" >}}
 - {{< keyword "pools" >}}
-- {{< keyword "inscription" >}}
+- {{< keyword "inscriptions" >}}
 
 ## Garden Description
  The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of the city. An inscription that was discovered during the Byzantine fort excavations enumerates the embellishments that were undertaken in 213 by the city of Timgad for the sanctuary, Aqua Septimiana Felix: one of which, a bronze balustrade surrounding the spring (a pool with marble slabs of 3,6 m x 13, 60 m) and a *viridarium* surrounded by porticoes decorated with paintings (*porticus virdiari (sic) picturis ornatas*).

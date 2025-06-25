@@ -14,7 +14,7 @@ categories:
 tag:
   - "villa garden"
   - "inscriptions"
-  - "courtyards (uncovered spaces)"
+  - "courtyards"
 ---
 
 ## Province
@@ -47,9 +47,9 @@ A sublocation is any area larger than an individual garden, but located within a
 Suburban Villa
 
 ## Keywords
-- {{< keyword "villa garden" >}}
-- {{< keyword "inscription" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "villae suburbanae" >}}
+- {{< keyword "inscriptions" >}}
+- {{< keyword "courtyards" >}}
 
 <!-- [urban villas](#) -->
 

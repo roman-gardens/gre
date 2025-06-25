@@ -2,7 +2,7 @@
 gre_id: "c72ff9e782"
 aliases: [/id/c72ff9e782]
 type: garden
-title: "Theater"
+title: "theaters"
 date: 2020-10-18T10:00:00-04:00
 latlon: [ 0, 0 ]
 author: (AUTHOR_ID)
@@ -37,8 +37,8 @@ Theater
 
 ## Keywords
 
-- {{< keyword "columns (architectural elements)" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "pedestals" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}

@@ -62,7 +62,7 @@ Basilica-House of the Theater
 ## Keywords
 
 - {{< keyword "colonnades" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "impluvia" >}}
 
 ## Garden Description

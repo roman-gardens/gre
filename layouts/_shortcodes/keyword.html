@@ -1,46 +1,7 @@
 {{/*
 
 Example usage (in a garden article):
-{{< keyword mosaic >}}
-
-If "mosaic" is found in /assets/keywords.csv
-Then the keyword will be linked to the corresponding aat/powo/etc. webpage
-If no match is found, it will just output the keyword
+    {{< keyword mosaic >}}
 
 */}}
-
-{{/* Get the term specified in the call to the keyword shortcode */}}
-{{- $term := .Get 0 -}}
-
-{{/* Load the list of known keywords */}}
-{{- $keywords := dict -}}
-{{- with resources.Get "keywords.csv" -}}
-    {{- $opts := dict "targetType" "map" -}}
-    {{- $keywords = transform.Unmarshal $opts . -}}
-{{- end -}}
-
-{{/* Load the list of known vocabularies */}}
-{{- $vocabs := dict -}}
-{{- with resources.Get "vocabs.csv" -}}
-    {{- $opts := dict "targetType" "map" -}}
-    {{- $vocabs = transform.Unmarshal $opts . -}}
-{{- end -}}
-
-{{/* Link the term*/}}
-<a href="/search/?q={{ $term }}">{{ $term }}</a>
-
-{{- range where $keywords "term" $term }}
-    {{ $official := index . "officialterm" }}
-    {{ if ne $official $term }}
-        (<i>{{ $official }}</i>)
-    {{ end }}
-    {{ $url := "" }}
-    {{ $fullname := "" }}
-    {{ range where $vocabs "vocab" .vocab}}
-        {{ $url = .baseurl }}
-        {{ $fullname = .fullname}}
-    {{ end }}
-    {{ if $url }}
-        <a target="_blank" href="{{ urls.JoinPath $url .id }}" title="{{ $fullname }}">{{ .vocab }}:{{ .id }}</a>
-    {{ end }}
-{{- end -}}
+{{ partial "keyword" (.Get 0) }}

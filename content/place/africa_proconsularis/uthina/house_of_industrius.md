@@ -51,7 +51,7 @@ House of Industrius (Maison d'Industrius)
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "colonnades" >}}
 - {{< keyword "vestibules" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 
 ## Garden Description
 

@@ -15,7 +15,7 @@ categories:
 
 tags:
  - "myrtle (Myrtus communis)"
- - "pits (earthworks)"
+ - "pits"
  - "planting pots"
  - "pomegranate (Punica granatum)"
 ---
@@ -54,7 +54,7 @@ Temple of Hephaistos
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
 - [myrtle (*Myrtus communis*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:599719-1)
-- {{< keyword "pits (earthworks)" >}}
+- {{< keyword "pits" >}}
 - {{< keyword "cachepots" >}}
 - [pomegranate (*Punica granatum*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:554129-1)
 

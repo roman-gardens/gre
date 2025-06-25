@@ -41,11 +41,11 @@ Urban house on Wolfsstrasse (Colonia Claudia Ara Agrippinensium)
 
 ## Keywords
 
-- {{< keyword "urban villas" >}}
+- {{< keyword "villae urbanae" >}}
 - {{< keyword "villae urbanae" >}}
 - {{< keyword "colonnades" >}}
 - {{< keyword "peristyles" >}}
-- {{< keyword "mural paintings (visual works)" >}} 
+- {{< keyword "mural paintings" >}} 
 
 
 ## Garden Description

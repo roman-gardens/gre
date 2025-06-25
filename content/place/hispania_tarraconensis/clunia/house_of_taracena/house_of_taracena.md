@@ -68,8 +68,8 @@ The steep sides of the meseta and its height above the surrounding plain clearly
 House of Taracena
 
 ## Keywords
-- {{< keyword "passages (circulation spaces)" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "passages" >}}
+- {{< keyword "courtyards" >}}
 
 
 ## Garden Description

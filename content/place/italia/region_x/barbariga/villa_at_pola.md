@@ -14,9 +14,9 @@ categories:
 tags:
  - "atrium houses"
  - "cryptoportici"
- - "gutters (building drainage components)"
- - "mosaics (visual works)"
- - "mural paintings (visual works)"
+ - "gutters"
+ - "mosaics"
+ - "mural paintings"
  - "peristyles"
  - "podiums (building divisions)"
  - "porticoes"
@@ -61,9 +61,9 @@ Villa at Pola
 
 ## Keywords
 
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "cryptoportici" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "gutters" >}}
 - {{< keyword "podiums (building divisions)" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
@@ -71,7 +71,7 @@ Villa at Pola
 - {{< keyword "villae urbanae" >}}
 - {{< keyword "reception rooms" >}}
 - {{< keyword "atrium houses" >}}
-- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "mural paintings" >}}
 - {{< keyword "presence chambers" >}}
 
 ## Garden Description

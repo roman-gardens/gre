@@ -51,10 +51,10 @@ House of Gilded Stones
 ## Keywords
 
 - {{< keyword "peristyles" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "porticoes" >}}
 
 

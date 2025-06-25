@@ -12,12 +12,12 @@ draft: true
 categories:
  - "Italia"
 tags:
- - "atriums (Roman halls)"
- - "basins (vessels)"
+ - "atriums"
+ - "basins"
  - "balnea"
- - "courtyards (uncovered spaces)"
+ - "courtyards"
  - "drains"
- - "gutters (building drainage components)"
+ - "gutters"
  - "reception rooms"
  - "vestibules"
  - "water baths"
@@ -59,13 +59,13 @@ Villa at Luna
 - {{< keyword "drains" >}}
 - {{< keyword "balnea" >}}
 - {{< keyword "vestibules" >}}
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "basins" >}}
 - {{< keyword "water baths" >}}
 - {{< keyword "reception rooms" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
-- {{< keyword "gutters (building drainage components)" >}}
-- {{< keyword "atriums (Roman halls)" >}}
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "basins" >}}
 
 ## Garden Description
 

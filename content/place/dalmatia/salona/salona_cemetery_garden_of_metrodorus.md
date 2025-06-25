@@ -51,7 +51,7 @@ Cemetery Garden of Metrodorus
 
 - {{< keyword "tombs" >}}
 - {{< keyword "epitaphs" >}}
-- {{< keyword "sarcophagi (coffins)" >}}
+- {{< keyword "sarcophagi" >}}
 
 
 ## Garden Description

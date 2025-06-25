@@ -49,7 +49,7 @@ Rural villa at Voerendaal
 - {{< keyword "porticoes" >}}
 - {{< keyword "piscinae" >}}
 - {{< keyword "hedges" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 
 
 ## Garden Description

@@ -35,22 +35,22 @@ Garden of the Neronian Palace, Palatine
 
 ## Keywords
 
-- {{< keyword "basins (vessels)" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "columns (architectural element)" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "frescoes (paintings)" >}}
+- {{< keyword "frescoes" >}}
 - {{< keyword "garden pavilions" >}}
-- {{< keyword "marble (rock)" >}}
+- {{< keyword "marble" >}}
 - {{< keyword "niches" >}}
-- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "palaces" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "pillars" >}}
 - {{< keyword "polychrome" >}}
-- {{< keyword "pools (body of water)" >}}
+- {{< keyword "pools" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "scaenae" >}}
-- {{< keyword "terraces (landscaped-site elements)" >}}
+- {{< keyword "terraces" >}}
 
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 

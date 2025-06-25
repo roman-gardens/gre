@@ -127,6 +127,18 @@
 - [ ] fix or remove empty links -- search for "(#)"
 - [ ] fix unnecessarily long links to AAT/TGN http://www.getty.edu/vow/TGNFullDisplay?find=zoar&place=&nation=&prev_page=1&english=Y&subjectid=4012542
 
+- [ ] meta keyword search link should omit parentetical
+
+
+
+
+
+
+
+
+
+
+
 # Province pages
 - [ ] review which sections should be retained in province pages (and also for gardens...)
 - [ ] move content from garden entries to the province _index.md
@@ -141,6 +153,7 @@
 - People links/pages for everyone, or just prominent contributors?
 - keywords like lucus, stagnum, textrina that are not proper AAT terms
 - "literary gardens" keyword okay, but do we really need "archaeological gardens"? (currently commented out in the relatively few articles that have it, but nearly all the gardens are arch.)
+- exedrae (AAT, indoor vs outdoor)
 
 # User forks
 

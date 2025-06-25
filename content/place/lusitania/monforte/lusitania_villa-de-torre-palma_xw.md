@@ -47,7 +47,7 @@ A sublocation is any area larger than an individual garden, but located within a
 Villa de Torre de Palma
 
 ## Keywords
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - apsed triclinium
 - {{< keyword "peristyles" >}}
 - {{< keyword "dolia" >}}

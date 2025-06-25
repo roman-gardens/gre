@@ -9,7 +9,7 @@ author: Maria Anntonietta Tomei
 editor: Rhiannon Paré
 draft: false
 tags:
- - "arcades (structural assemblies)"
+ - "arcades"
  - "balnea"
  - "domus"
  - "fountains"
@@ -40,11 +40,11 @@ Garden of the Severan Complex, Palatine
 
 ## Keywords
 
-- {{< keyword "arcades (structural assemblies)" >}}
+- {{< keyword "arcades" >}}
 - {{< keyword "balnea" >}}
 - {{< keyword "domus" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "pools (body of water)" >}}
+- {{< keyword "pools" >}}
 
 
 ## Garden Description

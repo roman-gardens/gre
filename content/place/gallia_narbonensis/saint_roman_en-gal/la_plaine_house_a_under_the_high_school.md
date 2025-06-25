@@ -54,7 +54,7 @@ La Plaine, House A under the High School
 - {{< keyword "domus" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "reception rooms" >}}
 
 

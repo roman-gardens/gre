@@ -12,10 +12,10 @@ draft: false
 categories:
   - "Numidia"
 tags:
- - "mosaics (visual works)"
+ - "mosaics"
  - "pergolas"
  - "piscinae"
- - "basins (vessels)"
+ - "basins"
  - "sculpture"
  - "diaeta"
  - "venus"
@@ -51,13 +51,13 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 Small Baths (Garden of the Small Baths to the south of the Great Baths; rear garden to the west of the House of Bacchus)
 
 ## Keywords
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "piscinae" >}}
 - {{< keyword "pergolas" >}}
 - {{< keyword "baths" >}}
 - {{< keyword "sculpture" >}}
 - {{< keyword "diaeta" >}}
-- {{< keyword "venus" >}}
+- {{< keyword "Venus" >}}
 
 ## Garden Descriptionf
 

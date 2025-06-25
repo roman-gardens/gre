@@ -52,7 +52,7 @@ Tower Enclosure, Insula III, House IIIA – 3 phases
 - {{< keyword "reception rooms" >}}
 - {{< keyword "domus" >}}
 - {{< keyword "water wells" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "water wells" >}}
 - {{< keyword "vestibules" >}}

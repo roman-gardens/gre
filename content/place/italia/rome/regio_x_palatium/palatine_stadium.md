@@ -35,13 +35,13 @@ Stadium Garden of the Flavian Palace, Palatine
 ## Keywords
 
 - {{< keyword "allées" >}}
-- {{< keyword "canals (waterways)" >}}
-- {{< keyword "cisterns (plumbing components)" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "canals" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "niches" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "pillars" >}}
 - {{< keyword "planting beds" >}}
 - {{< keyword "porticoes" >}}

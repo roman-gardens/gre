@@ -61,7 +61,7 @@ Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora
 
 ## Keywords
 - {{< keyword "colonnades" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "niches" >}}
 - {{< keyword "peristyles" >}}

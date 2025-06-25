@@ -84,7 +84,7 @@ House of the L-shaped Cistern
 
 ## Keywords
 - {{< keyword "burials" >}}
-- {{< keyword "ceramic (material)" >}}
+- {{< keyword "ceramic" >}}
 
 
 ## Garden Description

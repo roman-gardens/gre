@@ -13,9 +13,9 @@ draft: false
 categories:
   - "Italia"
 tags:
- - "cisterns (plumbing components)"
- - "columns (architectural elements)"
- - "fences (site elements)"
+ - "cisterns"
+ - "columns"
+ - "fences"
  - "porticoes"
 ---
 
@@ -38,9 +38,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 
-- {{< keyword "cisterns (plumbing components)" >}}
-- {{< keyword "columns (architectural elements)" >}}
-- {{< keyword "fences (site elements)" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "fences" >}}
 - {{< keyword "porticoes" >}}
 
 

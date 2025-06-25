@@ -49,13 +49,13 @@ Suburban Villa de la  Brunette
 
 ## Keywords
 
-- {{< keyword "atriums (Roman halls)" >}}
+- {{< keyword "atriums" >}}
 - {{< keyword "atrium houses" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "gutters" >}}
 - {{< keyword "reception rooms" >}}
 - {{< keyword "colonnades" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "statues" >}}
 
 

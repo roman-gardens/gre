@@ -47,7 +47,7 @@ Cicero set the scene in *De finibus* [(5.1.3)](http://data.perseus.org/citations
 ## Keywords
 
 - {{< keyword "literary gardens" >}}
-- {{< keyword "gymnasiums (physical education buildings)" >}}
+- {{< keyword "gymnasiums" >}}
 
 ## Places
 

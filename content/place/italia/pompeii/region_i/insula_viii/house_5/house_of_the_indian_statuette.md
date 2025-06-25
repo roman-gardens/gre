@@ -45,13 +45,13 @@ House of the Indian Statuette (I.viii.5)
 ## Keywords
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "chests (case furniture)" >}}
-- {{< keyword "columns (architectural elements)" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "chests" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "gutters" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "statues" >}}
-- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "statuettes" >}}
 
 ## Garden Description
 

@@ -13,7 +13,7 @@ draft: false
 categories:
   - "Italia"
 tags:
-- "masonry (building materials)"
+- "masonry"
 - "aedicules"
 
 ---
@@ -36,7 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref ".">}})
 
 ## Keywords
-- {{< keyword "masonry (building materials)" >}}
+- {{< keyword "masonry" >}}
 - {{< keyword "aedicules" >}}
 
 ## Garden Description

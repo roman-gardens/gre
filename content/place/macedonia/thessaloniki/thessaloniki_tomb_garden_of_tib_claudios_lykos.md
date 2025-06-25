@@ -50,7 +50,7 @@ Tomb Garden of Ti. Claudios Lykos
 ## Keywords
 
 - {{< keyword "tombs" >}}
-- {{< keyword "sarcophagi (coffins)" >}}
+- {{< keyword "sarcophagi" >}}
 - {{< keyword "epitaphs" >}}
 
 ## Garden Description

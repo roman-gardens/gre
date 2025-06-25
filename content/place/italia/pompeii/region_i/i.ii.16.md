@@ -15,7 +15,7 @@ categories:
 tags:
  - "aedicules"
  - "fountains"
- - "gutters (building drainage components)"
+ - "gutters"
  - "lararia"
  - "pillars"
  - "porticoes"
@@ -42,11 +42,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Keywords
 - {{< keyword "aedicules" >}}
 - {{< keyword "fountains" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "gutters" >}}
 - {{< keyword "lararia" >}}
 - {{< keyword "pillars" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "statuettes (free-standing sculpture)" >}}
+- {{< keyword "statuettes" >}}
 
 
 ## Garden

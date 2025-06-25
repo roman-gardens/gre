@@ -56,8 +56,8 @@ Royal Garden
 ## Keywords
 
 - [pleasure garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=4&subjectid=300008115)
-- [walled garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=5&subjectid=300008129)
-- {{< keyword "agriculture (discipline)" >}}
+- {{< keyword "walled gardens" >}}
+- {{< keyword "agriculture" >}}
 
 ## Garden Description
 

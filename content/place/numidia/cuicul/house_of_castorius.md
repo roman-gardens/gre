@@ -52,12 +52,12 @@ House of Europa, Central District (Maison d'Europe, Quartier Central)
 
 ## Keywords
 
-- {{< keyword "amphorae (storage vessels)" >}}
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "amphorae" >}}
+- {{< keyword "basins" >}}
 - {{< keyword "domus" >}}
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "fishponds" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "piscinae" >}}
 

@@ -47,11 +47,11 @@ Casa D’Argo
 
 ## Keywords
 
-- {{< keyword "cisterns (plumbing components)" >}}
+- {{< keyword "cisterns" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "gutters (building drainage components)" >}}
+- {{< keyword "gutters" >}}
 
 ## Garden Description
 533.II.2.

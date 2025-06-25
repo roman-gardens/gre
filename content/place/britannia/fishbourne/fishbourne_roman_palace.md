@@ -49,10 +49,10 @@ Roman Palace in Fishbourne
 ## Keywords
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "basins" >}}
 - {{< keyword "colonnades" >}}
 - {{< keyword "loam" >}}
-- {{< keyword "palaces (official residences)" >}}
+- {{< keyword "palaces" >}}
 - {{< keyword "piscinae" >}}
 - {{< keyword "presence chambers" >}}
 - {{< keyword "terrace gardens" >}}

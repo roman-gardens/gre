@@ -47,21 +47,21 @@ Villa of the Statue
 ## Keywords
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "cisterns (plumbing components)" >}}
-- {{< keyword "gutters (building drainage components)" >}}
-- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "mural paintings" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "pergolas" >}}
 - {{< keyword "balnea" >}}
 - {{< keyword "water baths" >}}
 - {{< keyword "atrium houses" >}}
-- {{< keyword "atriums (Roman halls)" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "tesserae" >}}
 - {{< keyword "ceramic tile" >}}
-- {{< keyword "opus sectile (visual works)" >}}
+- {{< keyword "opus sectile" >}}
 - {{< keyword "opus signinum" >}}
 - {{< keyword "garden pavilions" >}}
 - [apsed triclinium]

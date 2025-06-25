@@ -59,8 +59,8 @@ Temple Grove of Nikephorion
 
 ## Keywords
 
-- {{< keyword "groves (plant communities)" >}}
-- {{< keyword "sanctuary centers (religious centers)" >}}
+- {{< keyword "groves" >}}
+- {{< keyword "sanctuary centers" >}}
 - {{< keyword "inscriptions" >}}
 - [Athenaeus](https://catalog.perseus.org/catalog/urn:cite:perseus:author.228)
 - [Pliny the Elder](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1141)
@@ -69,7 +69,7 @@ Temple Grove of Nikephorion
 - [Plutarch](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1144)
 - {{< keyword "quadriportici" >}}
 - {{< keyword "palaestrae" >}}
-- {{< keyword "gymnasiums (physical education buildings)" >}}
+- {{< keyword "gymnasiums" >}}
 
 ## Garden Description
 

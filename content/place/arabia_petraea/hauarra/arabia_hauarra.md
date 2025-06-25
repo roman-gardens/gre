@@ -14,10 +14,10 @@ categories:
 tags:
  - "aqueducts"
  - "baetyls"
- - "basins (vessels)"
- - "insulae (apartments)"
- - "naoi (chambers)"
- - "planters (containers)"
+ - "basins"
+ - "insulae"
+ - "naoi"
+ - "planters"
  - "shrines"
  - "temene"
 ---
@@ -44,10 +44,10 @@ Shrine Complex in Insula E125
 ## Keywords
 - {{< keyword "aqueducts" >}}
 - {{< keyword "baetyls" >}}
-- {{< keyword "basins (vessels)" >}}
-- {{< keyword "insulae (apartments)" >}}
-- {{< keyword "naoi (chambers)" >}}
-- {{< keyword "planters (containers)" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "insulae" >}}
+- {{< keyword "naoi" >}}
+- {{< keyword "planters" >}}
 - {{< keyword "shrines" >}}
 - {{< keyword "temene" >}}
 

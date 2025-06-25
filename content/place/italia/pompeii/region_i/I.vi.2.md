@@ -33,13 +33,13 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Keywords
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "atriums (Roman halls)" >}}
-- {{< keyword "busts (sculpture)" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "busts" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "cryptoportici" >}}
 - {{< keyword "lararia" >}}
 - {{< keyword "loggias" >}}
-- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "mural paintings" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "pillars" >}}
 - {{< keyword "porticoes" >}}

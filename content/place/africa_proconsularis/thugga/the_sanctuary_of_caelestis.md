@@ -14,9 +14,9 @@ categories:
 
 tags:
  - "temples"
- - "sanctuaries (religious building spaces)"
- - "courtyards (uncovered spaces)"
- - "altars (religious fixtures)"
+ - "sanctuaries"
+ - "courtyards"
+ - "altars"
 ---
 
 ## Province
@@ -44,9 +44,9 @@ The sanctuary of Caelestis
 ## Keywords
 
 - {{< keyword "temples" >}}
-- {{< keyword "sanctuaries (religious building spaces)" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
-- {{< keyword "altars (religious fixtures)" >}}
+- {{< keyword "sanctuaries" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "altars" >}}
 
 ## Garden Description
 

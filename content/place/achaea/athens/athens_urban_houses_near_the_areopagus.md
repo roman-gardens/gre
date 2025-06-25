@@ -14,11 +14,11 @@ categories:
  - "Achaea"
 
 tags:
-- "basins (vessels)"
+- "basins"
 - "peristyles"
-- "pipes (conduits)"
+- "pipes"
 - "piscinae"
-- "planters (containers)"
+- "planters"
 ---
 
 ## Province
@@ -55,11 +55,11 @@ Urban Houses near Areopagus
 ## Keywords
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "basins" >}}
 - {{< keyword "peristyles" >}}
-- {{< keyword "pipes (conduits)" >}}
+- {{< keyword "pipes" >}}
 - {{< keyword "piscinae" >}}
-- {{< keyword "planters (containers)" >}}
+- {{< keyword "planters" >}}
 
 ## Garden Description
 

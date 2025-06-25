@@ -41,7 +41,7 @@ The so-called **perfumery** was equipped with a Rhodian peristyle (e), an open *
 
 ## Keywords
 - {{< keyword "impluvia" >}}
-- {{< keyword "nymphaea (garden structures)" >}}
+- {{< keyword "nymphaea" >}}
 - {{< keyword "oeci" >}}
 - {{< keyword "peristyles" >}}
 

@@ -13,8 +13,8 @@ categories:
 - "Italia"
 
 tags:
- - "basins (vessels)"
- - "gutters (building drainage components)"
+ - "basins"
+ - "gutters"
  - "porticoes"
 ---
 
@@ -53,8 +53,8 @@ V.iv.3
 
 ## Keywords
 - {{< keyword "porticoes" >}}
-- {{< keyword "gutters (building drainage components)" >}}
-- {{< keyword "basins (vessels)" >}}
+- {{< keyword "gutters" >}}
+- {{< keyword "basins" >}}
 
 
 ## Garden Description

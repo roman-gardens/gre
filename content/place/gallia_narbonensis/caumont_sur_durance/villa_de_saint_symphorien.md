@@ -52,7 +52,7 @@ Villa de Muscapeu
 ## Keywords
 
 - {{< keyword "peristyles" >}}
-- {{< keyword "mosaics (visual works)" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "hypocausts" >}}
 - {{< keyword "orchards" >}}

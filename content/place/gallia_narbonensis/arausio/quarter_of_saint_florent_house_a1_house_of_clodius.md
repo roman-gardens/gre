@@ -51,9 +51,9 @@ Quarter of Saint-Florent – House A1, House of Clodius
 ## Keywords
 
 - decumanus
-- {{< keyword "mosaics (visual works)" >}}
-- {{< keyword "cubicula (domestic spaces)" >}}
-- {{< keyword "columns (architectural elements)" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "cubicula" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "pilasters" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "colonnades" >}}

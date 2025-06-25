@@ -46,7 +46,7 @@ Caupona-Hospitium dei "Pulcinella" (I.viii.10)
 
 <!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "lararia" >}}
-- {{< keyword "mural paintings (visual works)" >}}
+- {{< keyword "mural paintings" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 

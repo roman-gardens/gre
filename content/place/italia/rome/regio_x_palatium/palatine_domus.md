@@ -39,7 +39,6 @@ Gardens of the Republican *Domus*, Palatine
 - {{< keyword "sudatoria" >}}
 - {{< keyword "palaestrae" >}}
 - {{< keyword "peristyles" >}}
-
 - [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
 - [Cicero](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.364)
 

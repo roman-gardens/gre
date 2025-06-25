@@ -49,7 +49,7 @@ Edifice on St. Antoine’s Mound
 
 ## Keywords
 - {{< keyword "praetoriums" >}}
-- {{< keyword "courtyards (uncovered spaces)" >}}
+- {{< keyword "courtyards" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "peristyles" >}}
