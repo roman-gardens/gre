@@ -8,13 +8,7 @@ latlon: [ 41.853944, 12.517797 ]
 author:
 editor: Yuyao Liu
 draft: true
-
-categories:
- - "Italia"
 ---
-
-## Province
-[Italia]({{<relref "../../../..">}})
 
 ## Location
 - {{< id vocab="Pleiades" id="356966898" term="VIA APPIA" >}}

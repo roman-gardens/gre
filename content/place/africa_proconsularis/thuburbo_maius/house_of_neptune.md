@@ -8,14 +8,6 @@ latlon: [ 36.400355, 9.903990 ]
 author: Wilhelmina Jashemski
 editor: Nicholas Gill
 draft: false
-
-categories:
-  - "Africa Proconsularis"
-tags:
- - "cisterns"
- - "domus"
- - "peristyle houses"
- - "semicircular basin"
 ---
 
 ## Province

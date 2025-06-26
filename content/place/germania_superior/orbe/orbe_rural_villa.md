@@ -8,14 +8,7 @@ latlon: [ 46.744280, 6.536848 ]
 author: Maureen Carroll
 editor: June Dorsch
 draft: true
-
-categories:
- - "Germania Superior"
 ---
-
-## Province
-
-[Germania Superior]({{<relref "..">}})  
 
 <!--### Province Description-->
 

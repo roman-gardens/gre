@@ -8,16 +8,7 @@ latlon: [ 51.753814, -0.382679 ]
 author: Maureen Carroll
 editor: June Dorsch
 draft: false
-
-categories:
- - "Britannia"
-tags:
- - "arbors"
 ---
-
-## Province
-
-[Britannia]({{<relref "..">}})  
 
 ## Province Description
 

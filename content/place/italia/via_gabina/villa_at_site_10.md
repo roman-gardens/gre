@@ -8,13 +8,7 @@ latlon: [ 41.890683, 12.632573 ]
 author: Walter Widrig
 editor: Lingyi Xu
 draft: true
-
-categories:
-- "italia"
 ---
-
-## Province
-[italia]({{<relref "..">}})
 
 ## Location
 

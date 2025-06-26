@@ -5,12 +5,6 @@ latlon: [ 31.024905, 35.456543 ]
 author: Leigh-Ann Bedal
 editor: Leigh-Ann Bedal
 draft: false
-
-categories:
- - "Arabia Petraea"
-tags:
- - "orchards"
- -
 ---
 
 ## Province

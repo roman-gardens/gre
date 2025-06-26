@@ -9,13 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 147
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "palaestrae"
- - "peristyles"
 ---
 
 ## Province

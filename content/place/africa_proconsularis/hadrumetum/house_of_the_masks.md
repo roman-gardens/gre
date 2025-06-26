@@ -8,13 +8,6 @@ latlon: [ 35.825866, 10.63878 ]
 author: Maureen Carroll
 editor: Yuming Huang
 draft: true
-
-categories:
-  - "Africa Proconsularis"
-tag:
-  - "domus"
-  - "peristyle houses"
-  - "oecus cyzicenus"
 ---
 
 ## Province

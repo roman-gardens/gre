@@ -8,17 +8,6 @@ latlon: [ 41.941169, 12.775543 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: true
-tags:
- - "flower gardens"
- - "fountains"
- - "garden pavilions"
- - "nymphaea"
- - "peristyles"
- - "piazza"
- - "porticoes"
- - "stadium"
- - "triclinia (rooms)"
- - "tufa"
 ---
 
 ## Province
@@ -55,9 +44,9 @@ The Stadium-garden (Fig. 1, n. 4)
 - {{< keyword "garden pavilions" >}}
 - {{< keyword "nymphaea" >}}
 - {{< keyword "peristyles" >}}
-- [piazza](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300164841)
+- {{< keyword "piazzas" >}}
 - {{< keyword "porticoes" >}}
-- [stadium](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300007271)
+- {{< keyword "stadiums" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "tufa" >}}
 

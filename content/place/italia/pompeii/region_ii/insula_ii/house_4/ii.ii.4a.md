@@ -8,16 +8,7 @@ latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yuyao Liu
 draft: false
-
-categories:
- - "Italia"
-tags:
- - "courtyards"
- - "insulae"
 ---
-
-## Province
-[Italia]({{<relref "../../../..">}})
 
 ## Location
 [Pompeii]({{<relref "../../..">}}) \

@@ -8,14 +8,6 @@ latlon: [ 35.485216, 6.468222 ]
 author: Amina-Aïcha Malek
 editor: Xue Xia
 draft: false
-
-categories:
-  - "Numidia"
-tags:
- - "domus"
- - "peristyle houses"
- - "triclinia (rooms)"
- - "pools"
 ---
 
 ## Province

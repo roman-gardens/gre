@@ -8,19 +8,7 @@ latlon: [ 37.900814, 22.895986 ]
 author: David Gilman Romano
 editor: Jane Millar, Amartya Shri
 draft: false
-
-categories:
- - "Achaea"
-
-tags:
- - "amphorae"
- - "circuses"
- - "mosaics"
 ---
-
-## Province
-
-[Achaea]({{<relref "..">}})
 
 ## Province Description
 

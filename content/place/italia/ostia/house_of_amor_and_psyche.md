@@ -8,12 +8,6 @@ latlon: [ 41.7540027, 12.2860096 ]
 author: Elizabeth J Shepherd
 editor: Joshua Rosenheim
 draft: false
-tags:
- - "basins"
- - "columns"
- - "mosaics"
- - "nymphaea"
- - "porticoes"
 ---
 
 ## Province

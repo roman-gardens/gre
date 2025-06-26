@@ -8,14 +8,6 @@ latlon: [ 36.317690, 5.736683 ]
 author: Michèle Blanchard-Lemée
 editor: Brandon Wilson
 draft: false
-
-categories:
-  - "Numidia"
-tags:
- - "domus"
- - "mosaics"
- - "peristyle houses"
- - "semicircular basin"
 ---
 
 ## Province

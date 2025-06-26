@@ -8,13 +8,7 @@ latlon: [ 49.024342, 1.151012 ]
 author: AUTHOR_ID
 editor: Yvette Pollack
 draft: true
-
-categories:
- - "Gallia"
 ---
-
-## Province
-[Gallia]({{<relref "..">}})
 
 ## Location
 
@@ -42,9 +36,9 @@ Sainte-Marguerite-sur-Mer (Seine-Maritime) Roman Villa
 ## Keywords
 - {{< keyword "mosaics" >}}
 - {{< keyword "porticoes" >}}
-- [hypocausts](http://vocab.getty.edu/page/aat/300004277)
-- [exedrae](http://vocab.getty.edu/page/aat/300081589)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "hypocausts" >}}
+- {{< keyword "exedrae (interior spaces)" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 

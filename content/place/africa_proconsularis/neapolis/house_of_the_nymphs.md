@@ -8,19 +8,6 @@ latlon: [ 36.440688, 10.719419 ]
 author: Amina-Aïcha Malek
 editor: Xue Xia
 draft: true
-
-categories:
-  - "Africa Proconsularis"
-tag:
-  - "domus"
-  - "peristyle houses"
-  - "mosaics"
-  - "oeci"
-  - "triclinia (rooms)"
-  - "amphorae"
-  - "planting pots"
-  - "inscriptions"
-  - "Virgil"
 ---
 
 ## Province

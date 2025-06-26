@@ -8,12 +8,7 @@ latlon: [ 0, 0 ]
 author: (AUTHOR_ID)
 editor: Lai Ching Tsui
 draft: true
-
-categories:
 ---
-
-## Province
-Hispania Baetica
 
 <!--### Province Description-->
 

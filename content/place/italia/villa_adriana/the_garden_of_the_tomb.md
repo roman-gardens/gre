@@ -8,8 +8,6 @@ latlon: [ 41.939804, 12.778392 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: true
-tags:
- - "tombs"
 ---
 
 ## Province

@@ -9,10 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 563
 draft: false
-categories:
-  - "Italia"
-tags:
- - "peristyles"
 ---
 
 ## Province

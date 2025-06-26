@@ -8,18 +8,7 @@ latlon: [ 38.493967, 22.841425 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
 draft: false
-
-categories:
- - "Achaea"
-
-tags:
-  - "funerary buildings"
-
 ---
-
-## Province
-
-[Achaea]({{<relref "..">}})
 
 ## Province Description
 

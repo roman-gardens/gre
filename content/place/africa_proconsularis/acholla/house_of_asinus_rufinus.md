@@ -8,13 +8,6 @@ latlon: [ 35.079643, 11.020606 ]
 author: Amina-Aïcha Malek
 editor: Yuming Huang
 draft: true
-
-tag:
-  - "domus"
-  - "peristyle houses"
-  - "lararia"
-  - "triclinia (rooms)"
-  - "viridarium"
 ---
 
 ## Province

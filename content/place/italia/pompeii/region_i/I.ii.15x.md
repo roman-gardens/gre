@@ -8,19 +8,12 @@ latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 editor: June Dorsch
 draft: true
-
-categories:
- - "Italia"
 ---
 
 ## DUPLICATE!
 
 This appears to be a duplicate of [id/01eee45763](/id/01eee45763)
 -KGJ
-
-## Province
-
-[Italia]({{<relref "../../../..">}})
 
 <!--### Province Description-->
 

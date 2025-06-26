@@ -8,9 +8,6 @@ latlon: [ 0, 0 ]
 author: AUTHOR_ID
 editor: Qianli Jiang
 draft: true
-
-categories:
- - "Hispania Tarraconensis"
 ---
 
 ## Province

@@ -8,15 +8,7 @@ latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
 draft: false
-
-categories:
- - "Italia"
-tags:
- - "tables"
 ---
-
-## Province
-[Italia]({{<relref "../../..">}})
 
 ## Location
 

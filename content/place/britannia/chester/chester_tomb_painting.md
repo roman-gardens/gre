@@ -8,17 +8,7 @@ latlon: [ 53.1884, -2.8877 ]
 author: John Bodel
 editor: June Dorsch
 draft: false
-
-categories:
- - "Britannia"
-tags:
- - "funerary buildings"
- - "tombs"
 ---
-
-## Province
-
-[Britannia]({{<relref "..">}})  
 
 ## Province Description
 

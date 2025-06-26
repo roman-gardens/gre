@@ -9,14 +9,7 @@ author: Claudine Munier, Christophe Gaston, Maureen Carroll
 editor: June Dorsch
 translator: Clopper Almon
 draft: true
-
-categories:
- - "Germania Superior"
 ---
-
-## Province
-
-[Germania Superior]({{<relref "..">}})  
 
 <!--### Province Description-->
 

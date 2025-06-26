@@ -8,24 +8,7 @@ latlon: [ 44.1159, 9.8214 ]
 author: Annalisa Marzano
 editor: Zhenrui Mei
 draft: true
-
-categories:
- - "Italia"
-tags:
- - "atriums"
- - "basins"
- - "balnea"
- - "courtyards"
- - "drains"
- - "gutters"
- - "reception rooms"
- - "vestibules"
- - "water baths"
 ---
-
-## Province
-
-[Italia]({{<relref "../../../..">}})
 
 <!--### Province Description-->
 

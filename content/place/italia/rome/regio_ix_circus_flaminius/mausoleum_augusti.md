@@ -8,12 +8,6 @@ latlon: [ 41.906030, 12.476423 ]
 author: Elizabeth Macaulay
 editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
-tags:
- - "altars"
- - "nemus (grove)"
- - "obelisk"
- - "statues"
- - "ustrins (crematories)"
 ---
 
 ## Province

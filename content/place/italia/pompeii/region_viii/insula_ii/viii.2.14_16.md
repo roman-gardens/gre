@@ -9,14 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 410,411
 draft: false
-
-categories:
-  - "Italia"
-tags:
-  - "peristyles"
-  - "porticoes"
-  - "amphorae"
-  - "tondi"
 ---
 
 ## Province

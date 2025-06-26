@@ -8,9 +8,6 @@ latlon: [ 41.942634, 12.771788 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: true
-tags:
- - "columns"
- - "porticoes"
 ---
 
 ## Province

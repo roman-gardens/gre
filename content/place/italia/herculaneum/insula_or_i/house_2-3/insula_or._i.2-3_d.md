@@ -9,12 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 564
 draft: false
-
-categories:
-  - "Italia"
-tags:
- - "rustic"
- - "shrines"
 ---
 
 ## Province

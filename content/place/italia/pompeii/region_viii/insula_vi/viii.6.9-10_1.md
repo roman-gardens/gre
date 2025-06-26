@@ -9,14 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 450
 draft: false
-
-categories:
-  - "Italia"
-
-tags:
-  - "atriums"
-  - "porticoes"
-  - "opus signinum"
 ---
 
 ## Province
@@ -37,6 +29,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VI]({{<relref ".">}})
 
 ## Keywords
+- {{< keyword "atriums" >}}
 - {{< keyword "insulae" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "opus signinum" >}}

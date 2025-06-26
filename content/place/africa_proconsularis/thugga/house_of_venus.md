@@ -8,14 +8,6 @@ latlon: [ 36.422473, 9.218866 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Nicholas Gill
 draft: true
-
-categories:
-  - "Africa proconsularis"
-tags:
- - "domus"
- - "peristyle houses"
- - "pools"
- - "mosaics"
 ---
 
 ## Province

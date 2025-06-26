@@ -9,21 +9,7 @@ editor: Amartya Shri, Jane Millar
 date: 2021-04-21
 modified: 2025-06-23
 draft: false
-
-categories:
- - "Achaea"
-
-tags:
-- "basins"
-- "peristyles"
-- "pipes"
-- "piscinae"
-- "planters"
 ---
-
-## Province
-
-[Achaea]({{<relref "..">}})
 
 ## Province Description
 
@@ -59,7 +45,7 @@ Urban Houses near Areopagus
 - {{< keyword "peristyles" >}}
 - {{< keyword "pipes" >}}
 - {{< keyword "piscinae" >}}
-- {{< keyword "planters" >}}
+- {{< keyword "planting beds" >}}
 
 ## Garden Description
 

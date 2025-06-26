@@ -8,9 +8,6 @@ latlon: [ 37.944523, 27.351764 ]
 author: Kathryn Gleason
 editor: Shamika Ghate
 draft: true
-
-categories:
- - "Asia"
 ---
 
 ## Province

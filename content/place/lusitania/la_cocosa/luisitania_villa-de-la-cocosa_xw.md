@@ -8,9 +8,6 @@ latlon: [ 38.738228, -6.99544 ]
 author: Clopper Almon
 editor: Xingjian Wang
 draft: true
-
-categories:
- - "Lusitania"
 ---
 
 ## Province

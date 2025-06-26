@@ -8,9 +8,6 @@ latlon: [ 37.384829, 27.256115 ]
 author: AUTHOR_ID
 editor: Shamika Ghate
 draft: true
-
-categories:
- - "Asia"
 ---
 
 ## Province

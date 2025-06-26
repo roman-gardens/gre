@@ -8,13 +8,7 @@ latlon: [ 48.007160, 0.198493 ]
 author: AUTHOR_ID
 editor: Yvette Pollack
 draft: true
-
-categories:
- - "Gallia"
 ---
-
-## Province
-[Gallia]({{<relref "..">}})
 
 ## Location
 -- missing in Pleiades --

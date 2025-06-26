@@ -8,11 +8,6 @@ latlon: [ 31.468449, 35.388383 ]
 author: Kathryn Gleason
 editor: Yaniv Korman
 draft: false
-
-categories:
- - "Judaea"
-tags:
- - "orchards"
 ---
 
 ## Province

@@ -8,12 +8,6 @@ latlon: [ 37.055611, 10.061305 ]
 author: Wilhelmina Jashemski
 editor: Jinyi Yang
 draft: true
-
-categories:
-  - "Africa Proconsularis"
-tags:
- - "domus"
- - "peristyle houses"
 ---
 
 ## Province

@@ -8,17 +8,6 @@ latlon: [ 41.940874, 12.775114 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: true
-tags:
- - "flower gardens"
- - "fountains"
- - "garden pavilions"
- - "nymphaea"
- - "peristyles"
- - "piazza"
- - "porticoes"
- - "stadium"
- - "triclinia (rooms)"
- - "tufa"
 ---
 
 ## Province
@@ -54,9 +43,9 @@ The garden between the Small Baths and the Three Exedras Hall (Fig. 1, n. 5)
 - {{< keyword "garden pavilions" >}}
 - {{< keyword "nymphaea" >}}
 - {{< keyword "peristyles" >}}
-- [piazza](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300164841)
+- {{< keyword "piazzas" >}}
 - {{< keyword "porticoes" >}}
-- [stadium](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300007271)
+- {{< keyword "stadiums" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "tufa" >}}
 

@@ -8,9 +8,6 @@ latlon: [ 39.678125, -0.277247 ]
 author: John Bodel
 editor: Xingjian Wang
 draft: true
-
-categories:
- - "Hispania Tarraconensis"
 ---
 
 ## Province

@@ -8,12 +8,6 @@ latlon: [ 41.75413924799149, 12.290541242057353 ]
 author: Elizabeth J Shepherd
 editor: Joshua Rosenheim
 draft: false
-tags:
- - "basins"
- - "columns"
- - "mosaics"
- - "nymphaea"
- - "oeci"
 ---
 
 ## Province

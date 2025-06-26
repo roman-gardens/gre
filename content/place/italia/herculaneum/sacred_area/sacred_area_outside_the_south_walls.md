@@ -9,16 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 567
 draft: false
-
-categories:
-  - "Italia"
-tags:
- - "parapets"
- - "podium"
- - "rims"
- - "shrines"
- - "trellises"
- - "woven"
 ---
 
 ## Province

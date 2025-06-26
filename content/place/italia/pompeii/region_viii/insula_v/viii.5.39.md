@@ -9,14 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 445,446
 draft: false
-
-categories:
-  - "Italia"
-tags:
-  - "atriums"
-  - "triclinia (rooms)"
-  - "porticoes"
-
 ---
 
 ## Province
@@ -39,6 +31,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Keywords
 - {{< keyword "atriums" >}}
 - {{< keyword "tablina" >}}
+- {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "porticoes" >}}
 
 

@@ -9,19 +9,6 @@ author: Wilhelmina Jashemski
 editor: Jessica Venner
 jashemski-catalogue: 154
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "dolia"
- - "lattices"
- - "lecti"
- - "masonry"
- - "pergolas"
- - "porticoes"
- - "reservoirs"
- - "triclinia (rooms)"
 ---
 
 ## Province

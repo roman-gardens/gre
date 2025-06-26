@@ -8,13 +8,6 @@ latlon: [ 31.316258, 35.353684 ]
 author: Kathryn Gleason
 editor: Yaniv Korman
 draft: false
-
-categories:
- - "Judaea"
-tags:
- - "agriculture (discipline)"
- - "pleasure garden"
- - "walled garden"
 ---
 
 ## Province
@@ -55,7 +48,7 @@ Royal Garden
 
 ## Keywords
 
-- [pleasure garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=4&subjectid=300008115)
+- {{< keyword "pleasure gardens" >}}
 - {{< keyword "walled gardens" >}}
 - {{< keyword "agriculture" >}}
 

@@ -7,9 +7,6 @@ date: 2020-07-16T09:34:20-04:00
 author: NAME_OF_AUTHOR
 editor: Amartya Shri
 draft: true
-
-categories:
- - "Macedonia"
 ---
 
 ## Province

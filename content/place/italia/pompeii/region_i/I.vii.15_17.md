@@ -8,12 +8,6 @@ latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "triclinia (rooms)"
 ---
 
 ## Province

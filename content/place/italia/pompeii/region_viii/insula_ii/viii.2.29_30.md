@@ -9,11 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 414
 draft: false
-
-categories:
-  - "Italia"
-tags:
-  - "porticoes"
 ---
 
 ## Province

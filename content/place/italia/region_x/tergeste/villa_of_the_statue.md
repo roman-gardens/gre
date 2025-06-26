@@ -8,14 +8,7 @@ latlon: [ 45.7015, 13.725 ]
 author: Annalisa Marzano
 editor: Zhenrui Mei
 draft: true
-
-categories:
- - "Italia"
 ---
-
-## Province
-
-[Italia]({{<relref "../..">}})
 
 <!--### Province Description-->
 
@@ -64,7 +57,7 @@ Villa of the Statue
 - {{< keyword "opus sectile" >}}
 - {{< keyword "opus signinum" >}}
 - {{< keyword "garden pavilions" >}}
-- [apsed triclinium]
+- {{< keyword "apsed triclinium" >}}
 <!-- - {{< keyword "archaeological gardens" >}} -->
 
 ## Garden Description

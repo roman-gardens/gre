@@ -8,9 +8,6 @@ latlon: [ 41.385, 2.173611 ]
 author: Clopper Almon
 editor: Qianli Jiang
 draft: true
-
-categories:
- - "Hispania Tarraconensis"
 ---
 
 ## Province

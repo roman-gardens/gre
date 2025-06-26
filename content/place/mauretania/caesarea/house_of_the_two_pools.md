@@ -46,10 +46,10 @@ House of the Two Pools (Maison aux Deux Bassins)
 
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
-- [fountain]
-- [Neptune]
-- [Ulysses]
-- [Mermaids]
+- {{< keyword "fountain" >}}
+- {{< keyword "Neptune" >}}
+- {{< keyword "Ulysses" >}}
+- {{< keyword "Mermaids" >}}
 
 ## Garden Description
 

@@ -8,19 +8,6 @@ latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "exedrae (site elements)"
- - "fountains"
- - "oeci"
- - "peristyles"
- - "porticoes"
- - "stucco"
- - "tablina"
- - "triclinia (rooms)"
 ---
 
 ## Province

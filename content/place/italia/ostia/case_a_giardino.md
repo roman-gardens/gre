@@ -8,10 +8,6 @@ latlon: [ 41.751911781895046, 12.28455095873102 ]
 author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
-tags:
- - "fountains"
- - "mosaics"
- - "statues"
 ---
 
 ## Province

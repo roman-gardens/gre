@@ -8,14 +8,7 @@ latlon: [ 50.836765, -0.809853 ]
 author: Kathryn Gleason
 editor: June Dorsch
 draft: false
-
-categories:
- - "Britannia"
 ---
-
-## Province
-
-[Britannia]({{<relref "..">}})  
 
 <!--### Province Description-->
 

@@ -9,13 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 431
 draft: false
-
-categories:
-  - "Italia"
-tags:
-  - "porticoes"
-  - "peristyles"
-  - "dolia"
 ---
 
 ## Province

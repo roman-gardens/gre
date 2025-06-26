@@ -8,14 +8,7 @@ latlon: [ 37.637820, 21.631715 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
 draft: false
-
-categories:
- - "Achaea"
 ---
-
-## Province
-
-[Achaea]({{<relref "..">}})
 
 ## Province Description
 

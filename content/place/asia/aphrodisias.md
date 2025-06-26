@@ -8,9 +8,6 @@ latlon: [ 0, 0 ]
 author: Kathryn Gleason
 editor: Shamika Ghate
 draft: true
-
-categories:
- - "Asia"
 ---
 
 ## Province
@@ -42,8 +39,10 @@ Aphrodisias (*Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis*), in Ca
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
+<!-- invalid id
 ## Sublocation
 - {{< id vocab="Pleiades" id="827863015" term="Place of the Palms" >}}
+-->
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
@@ -61,9 +60,9 @@ Place of the Palms (South Agora)
 
 - {{< keyword "nymphs" >}}
 - {{< keyword "temene" >}}
-- strategos
-- palm-grove
-- agora
+- {{< keyword "strategos" >}}
+- {{< keyword "palm-grove" >}}
+- {{< keyword "agoras" >}}
 
 ## Garden Description
   An inscription (MAMA VIII, 448)  indicates that Artemidorus Pedias, during his term as *strategos*,  promised to “adorn a palm grove with a statue of Hermes, and a gilded Aphrodite with Erotes holding lamps on either side and a marble Eros in Front” (Roueché, 70.) The location of this garden is not specified.  Robert suggests, based on the location of the inscription, that it was in the temenos of Aphrodite (Robert, 257). Roueché conjectures that it perhaps lay on the east side of the agora, based upon the presence of Hermes Agoraios (MAMA VIII, 406, 445, 446, and CIG 2770).  She proposes that the grove was later embellished by the fountain at the agora gate, where inscriptions (Hell. IV, 131-2) honor the conversion of the gate into a fountain, alluding to the *Nymphs* of the “place of the palms” (RRR Smith et al. 2018) Roueché notes that this palm-grove, with its walks, statuary, and fountains was clearly an elaborately decorated park.  The agora and *temenos* have been identified.  The south agora (215 x 70m)  features a long, monumental basin in its center.  
@@ -104,7 +103,9 @@ Unspecified
 
 ## Pleiades ID
 
+<!-- invalid
 - {{< id vocab="Pleiades" id="827863015" term="82786301" >}}
+-->
 
 ## TGN ID
 - {{< id vocab="TGN" id="7002358" term="Caria (former nation/state/empire)" >}}

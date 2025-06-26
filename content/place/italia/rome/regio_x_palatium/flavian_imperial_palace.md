@@ -39,7 +39,7 @@ Garden of the Flavian Imperial Palace, Palatine
 - {{< keyword "amphorae" >}}
 - {{< keyword "canals" >}}
 - {{< keyword "colonnades" >}}
-- {{< keyword "columns (architectural element)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "flowerpots" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "lead" >}}

@@ -8,20 +8,6 @@ latlon: [ 36.857906, 10.331369 ]
 author: Amina-Aïcha Malek
 editor: Xue Xia
 draft: true
-
-categories:
-  - "Africa Proconsularis"
-tag:
-  - "domus"
-  - "peristyle houses"
-  - "mosaics"
-  - "trees"
-  - "tree cavities"
-  - "cisterns"
-  - "cascades"
-  - "oeci"
-  - "scaenae frontes"
-  - "pools"
 ---
 
 ## Province

@@ -8,14 +8,6 @@ latlon: [ 36.422473, 9.218866 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Nicholas Gill
 draft: false
-
-categories:
-  - "Africa Proconsularis"
-
-tags:
- - "theaters"
- - "xystis"
- - "inscriptions"
 ---
 
 ## Province

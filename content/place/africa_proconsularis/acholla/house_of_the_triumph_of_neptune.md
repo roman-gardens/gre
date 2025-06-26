@@ -8,14 +8,6 @@ latlon: [ 35.079643, 11.020606 ]
 author: AUTHOR_UNKONWN
 editor: Yuming Huang
 draft: true
-
-categories:
-  - "Africa Proconsularis"
-tags:
-  - "domus"
-  - "peristyle houses"
-  - "triclinia (rooms)"
-  - "oeci"
 ---
 
 ## Province

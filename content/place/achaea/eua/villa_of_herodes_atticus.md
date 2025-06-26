@@ -8,21 +8,7 @@ latlon: [ 37.377923, 22.656854 ]
 author: Annalisa Marzano
 editor: Jane Millar, Amartya Shri
 draft: false
-
-categories:
- - "Achaea"
-
-tags:
-- "exedrae (site elements)"
-- "mosaics"
-- "nymphaea"
-- "porticoes"
-- "statues"
 ---
-
-## Province
-
-[Achaea]({{<relref "..">}})
 
 ## Province Description
 

@@ -8,11 +8,6 @@ latlon: [ 36.607458, 10.172291 ]
 author: Amina-Aïcha Malek
 editor: Jinyi Yang
 draft: true
-
-categories:
-  - "Africa Proconsularis"
-tags:
- - "domus"
 ---
 
 ## Province

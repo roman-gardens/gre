@@ -8,14 +8,6 @@ latlon: [ 37.055611, 10.061305 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Jinyi Yang
 draft: false
-
-categories:
-  - "Africa Proconsularis"
-tags:
- - "domus"
- - "peristyle houses"
- - "semicircular basin"
- - "mosaics"
 ---
 
 ## Province

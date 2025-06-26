@@ -8,13 +8,6 @@ latlon: [ 36.857260, 10.331488 ]
 author: Amina-Aïcha Malek
 editor: Xue Xia
 draft: true
-
-categories:
-  - "Africa Proconsularis"
-tag:
-  - "domus"
-  - "peristyle houses"
-  - "oeci"
 ---
 
 ## Province

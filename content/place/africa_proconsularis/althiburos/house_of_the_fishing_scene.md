@@ -8,14 +8,6 @@ latlon: [ 35.874279, 8.785248 ]
 author: Amina-Aïcha Malek
 editor: Yuming Huang
 draft: true
-
-categories:
-  - "Africa Proconsularis"
-tag:
-  - "domus"
-  - "peristyle houses"
-  - "euripus"
-  - "balustrades"
 ---
 
 ## Province

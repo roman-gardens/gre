@@ -8,20 +8,7 @@ latlon: [ 37.915797, 22.992968 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
 draft: false
-
-categories:
- - "Achaea"
-
-tags:
-- "Pausanias"
-- "pines (Pinus)"
-- "sacred groves"
-- "Strabo"
 ---
-
-## Province
-
-[Achaea]({{<relref "..">}})
 
 ## Province Description
 

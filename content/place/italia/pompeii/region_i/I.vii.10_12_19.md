@@ -8,38 +8,6 @@ latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "aedicules"
- - "atriums"
- - "basins"
- - "busts"
- - "candelabras (candleholders)"
- - "cisterns"
- - "columns"
- - "dolia"
- - "engaged columns"
- - "exedrae (site elements)"
- - "fences"
- - "fountains"
- - "impluvia"
- - "mural paintings"
- - "pergolas"
- - "peristyles"
- - "pillars"
- - "piscinae"
- - "porticoes"
- - "statues"
- - "statuettes"
- - "tables"
- - "tablina"
- - "trellises"
- - "triclinia (rooms)"
- - "vegetable gardens"
- - "vestibules"
 ---
 
 ## Province

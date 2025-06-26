@@ -8,17 +8,8 @@ latlon: [ 49.022812, 1.151169 ]
 author: AUTHOR_ID
 editor: Yvette Pollack
 draft: true
-
-categories:
- - "Gallia"
 ---
 
-## Province
-[Gallia]({{<relref "..">}})
-
-## Location
-
-[MEDIOLANUM AULERCORUM (Evreux, France)]({{<relref ".">}}) \
 - {{< id vocab="Pleiades" id="109153" term="MEDIOLANUM AULERCORUM" >}}
 
 <!--### Location Description-->

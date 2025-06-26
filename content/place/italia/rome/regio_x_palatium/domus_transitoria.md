@@ -37,7 +37,7 @@ Garden of the Neronian Palace, Palatine
 
 - {{< keyword "basins" >}}
 - {{< keyword "cisterns" >}}
-- {{< keyword "columns (architectural element)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "frescoes" >}}
 - {{< keyword "garden pavilions" >}}

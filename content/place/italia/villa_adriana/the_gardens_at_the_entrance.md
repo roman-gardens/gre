@@ -8,10 +8,6 @@ latlon: [ 41.942937, 12.774304 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: true
-tags:
- - "flower gardens"
- - "peristyles"
- - "tufa"
 ---
 
 ## Province

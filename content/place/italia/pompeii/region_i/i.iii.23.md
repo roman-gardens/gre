@@ -8,14 +8,6 @@ latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "cisterns"
- - "peristyles"
- - "porticoes"
 ---
 
 ## Province
@@ -36,6 +28,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref "#">}})
 
 ## Keywords
+- {{< keyword "cisterns" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 

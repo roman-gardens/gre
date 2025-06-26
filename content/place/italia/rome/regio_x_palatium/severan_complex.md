@@ -8,12 +8,6 @@ latlon: [ 41.889306, 12.487109 ]
 author: Maria Anntonietta Tomei
 editor: Rhiannon Paré
 draft: false
-tags:
- - "arcades"
- - "balnea"
- - "domus"
- - "fountains"
- - "pools"
 ---
 
 ## Province

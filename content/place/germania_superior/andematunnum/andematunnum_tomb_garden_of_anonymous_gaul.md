@@ -8,14 +8,7 @@ latlon: [ 47.864221, 5.335214 ]
 author: John Bodel
 editor: June Dorsch
 draft: true
-
-categories:
- - "Germania Superior"
 ---
-
-## Province
-
-[Germania Superior]({{<relref "..">}})  
 
 <!--### Province Description-->
 

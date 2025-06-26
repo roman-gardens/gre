@@ -8,20 +8,6 @@ latlon: [ 30.328615, 35.443000 ]
 author: Leigh-Ann Bedal
 editor: Jane Millar, Leigh-Ann Bedal
 draft: false
-
-categories:
- - "Arabia Petraea"
-tags:
-- "archaeobotany"
-- "artificial islands"
-- "castelli aquae"
-- "colonnades"
-- "exedrae (site elements)"
-- "garden pavilions"
-- "horticultural containers"
-- "pergolas"
-- "terrace gardens"
-- "water features"
 ---
 
 ## Province

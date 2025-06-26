@@ -8,9 +8,6 @@ latlon: [ 50.940671, 6.959908 ]
 editor: Christian Casey
 author: None
 draft: true
-
-categories:
- - "Dalmatia"
 ---
 
 ## Province

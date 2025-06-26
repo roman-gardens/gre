@@ -8,16 +8,6 @@ latlon: [ 36.422473, 9.218866 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Xue Xia
 draft: false
-
-categories:
-  - "Africa Proconsularis"
-
-tags:
- - "temples"
- - "sanctuaries"
- - "courtyards"
- - "planting beds"
- - "balustrades"
 ---
 
 ## Province

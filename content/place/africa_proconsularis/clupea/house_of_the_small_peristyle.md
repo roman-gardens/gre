@@ -8,14 +8,6 @@ latlon: [ 36.838512, 11.115794 ]
 author: AUTHOR_UNKONWN
 editor: Yuming Huang
 draft: true
-
-categories:
-  - "Africa Proconsularis"
-tag:
-  - "domus"
-  - "peristyle houses"
-  - "basins"
-  - "semicircular exedra"
 ---
 
 ## Province
@@ -51,8 +43,9 @@ House of the small Peristyle (Maison du petit péristyle)
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "basins" >}}
-- {{< keyword "exedra" >}}
-<!-- [urban villas](#) -->
+- {{< keyword "semicircular" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "villae urbanae" >}}
 
 ## Garden Description
 This small house (320 m²) is located on the lower part of the hill, south of the House of *Marcus Aurelius*.  The plan is characteristic of small houses with a peristyle (Plan view, Fig. 1).  The west part of the house is occupied by a large *triclinium* E opening onto the peristyle.  Four other rooms paved with mosaics are laid on the north aisle.  Surrounding the mortared courtyard H a low wall interweaves between the columns, creating a semi-circular exedra on the eastern side H4. Tis courtyard may have been planted at an earlier phase.

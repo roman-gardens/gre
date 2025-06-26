@@ -36,7 +36,7 @@ Garden of the Peristyle of the Julio-Claudian *Domus*, Palatine
 
 - {{< keyword "brick" >}}
 - {{< keyword "colonnades" >}}
-- {{< keyword "columns (architectural element)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "domus" >}}
 - {{< keyword "flower gardens" >}}
 - {{< keyword "flowerpots" >}}

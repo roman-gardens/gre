@@ -8,11 +8,6 @@ latlon: [ 32.547145, 34.9361 ]
 author: Yitzar Hirschfeld
 editor: Yaniv Korman
 draft: true
-
-categories:
- - "Judaea"
-tags:
- - "villae rusticae"
 ---
 
 ## Province

@@ -8,14 +8,7 @@ latlon: [ 49.214670, 8.015747 ]
 author: Michel Fuchs, Jacques Monnier
 editor: June Dorsch
 draft: true
-
-categories:
- - "Germania Superior"
 ---
-
-## Province
-
-[Germania Superior]({{<relref "..">}})  
 
 <!--### Province Description-->
 

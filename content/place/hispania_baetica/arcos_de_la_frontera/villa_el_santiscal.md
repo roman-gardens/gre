@@ -8,13 +8,7 @@ latlon: [ 36.765569, -5.771836 ]
 author: M. Orfila, N. Doenges
 editor: Lai Ching Tsui
 draft: true
-
-categories:
 ---
-
-## Province
-
-[Hispania Baetica]({{<relref "..">}})  
 
 <!--### Province Description-->
 

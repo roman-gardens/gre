@@ -8,14 +8,7 @@ latlon: [ 47.235142, 16.62192 ]
 author: John Bodel
 editor: June Dorsch
 draft: true
-
-categories:
- - "Pannonia"
 ---
-
-## Province
-
-[Pannonia]({{<relref "..">}})
 
 <!--### Province Description-->
 

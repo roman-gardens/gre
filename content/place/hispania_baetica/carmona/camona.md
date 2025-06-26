@@ -8,12 +8,7 @@ latlon: [ 0, 0 ]
 author: Eugenia Salza Prina Ricotti
 editor: Lai Ching Tsui
 draft: true
-
-categories:
 ---
-
-## Province
-Hispania Baetica
 
 <!--### Province Description-->
 

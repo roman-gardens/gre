@@ -8,15 +8,6 @@ latlon: [ 41.938472, 12.775940 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: true
-tags:
- - "canals"
- - "cisterns"
- - "columns"
- - "exedrae (site elements)"
- - "flower gardens"
- - "mosaics"
- - "porticoes"
- - "statues"
 ---
 
 ## Province
@@ -55,7 +46,7 @@ The Canopus gardens (Fig. 1, n. 2)\
 - {{< keyword "mosaics" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "statues" >}}
-- [canals (waterways)](http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300006075)
+- {{< keyword "canals" >}}
 
 ## Garden Description
 

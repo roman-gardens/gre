@@ -8,14 +8,7 @@ latlon: [ 50.907583, 5.686724 ]
 author: Maureen Carroll
 editor: David Ratzan
 draft: true
-
-categories:
- - "Germania Inferior"
 ---
-
-## Province
-
-[Germania inferior]({{<relref "..">}})
 
 ## Location
 

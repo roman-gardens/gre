@@ -9,20 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 432
 draft: false
-
-categories:
-  - "Italia"
-tags:
-  - "porticoes"
-  - "peristyles"
-  - "tablina"
-  - "triclinia (rooms)"
-  - "exedrae (site elements)"
-  - "puteals"
-  - "atriums"
-  - "impluvia"
-
-
 ---
 
 ## Province
@@ -48,9 +34,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "tablina" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "exedrae (interior spaces)" >}}
+- {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "puteals" >}}
 - {{< keyword "atriums" >}}
 - {{< keyword "impluvia" >}}
+<!-- TODO: not sure which exedrae -->
 
 ## Garden Description
 Eighteen partially fluted columns supported the large portico (a) surrounding this spacious peristyle garden. Excavated in 1861, the garden was located at the rear of the tablinum and could be viewed from the large triclinium on the east or the exedra on the west. A wooden fence had enclosed the garden as evidenced by the vertical slots in the columns where the fence had been secured. The portico held two puteals, one marble and the other travertine. A gutter circled the garden and at the south end a pool 0.90 x 1.05 m.; 0.18 m. deep contained a fountain.  There was also a fountain located in the atrium, which became a common house feature after the completion of the aquaduct. At the edge of the marble impluvium two ornate trapezophori flanked a round opening containing the bronze water key that controlled the water jet in the center of the impluvium.

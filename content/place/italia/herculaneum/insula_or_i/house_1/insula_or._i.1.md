@@ -9,12 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 560
 draft: false
-
-categories:
-  - "Italia"
-tags:
- - "loggias"
- - "triclinia (rooms)"
 ---
 
 ## Province

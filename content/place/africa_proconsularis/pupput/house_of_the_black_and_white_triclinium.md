@@ -8,13 +8,6 @@ latlon: [ 36.392591, 10.563067 ]
 author: Amina-Aïcha Malek
 editor: Xue Xia
 draft: false
-
-categories:
-  - "Africa Proconsularis"
-tags:
- - "domus"
- - "peristyle houses"
- - "semicircular basin"
 ---
 
 ## Province

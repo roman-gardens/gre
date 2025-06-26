@@ -8,13 +8,7 @@ latlon: [ 0, 0 ]
 author: John Bodel
 editor: Lai Ching Tsui
 draft: true
-
-categories:
 ---
-
-## Province
-
-[Hispania Baetica]({{<relref "..">}})  
 
 <!--### Province Description-->
 

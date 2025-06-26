@@ -8,9 +8,6 @@ latlon: [ 42.482035, -4.736989 ]
 author: AUTHOR_ID
 editor: Xingjian Wang
 draft: true
-
-categories:
- - "Hispania Tarraconensis"
 ---
 
 ## Province

@@ -8,9 +8,6 @@ latlon: [ 38.602777, -2.765277 ]
 author: Clopper Almon
 editor: Qianli Jiang
 draft: true
-
-categories:
- - "Hispania Tarraconensis"
 ---
 
 ## Province
@@ -88,9 +85,9 @@ This fourth-century villa was discovered in 1973.  An apse and a figured mosaic 
 4C
 
 ## Bibliography
- - M.R. Puig and R. Montanya Maluquer, *Mosaicos de la villa romana de Puente de la Olmilla (Albadalejo, Ciudad Real)*, Pyrenae: revista de prehistòria i antiguitat de la Mediterrània Occidental, ISSN 0079-8215, Nº. 11, 1975, pp. 133-143. [(worldcat)](http://www.worldcat.org/oclc/7840420644)
+- M.R. Puig and R. Montanya Maluquer, *Mosaicos de la villa romana de Puente de la Olmilla (Albadalejo, Ciudad Real)*, Pyrenae: revista de prehistòria i antiguitat de la Mediterrània Occidental, ISSN 0079-8215, Nº. 11, 1975, pp. 133-143. [(worldcat)](http://www.worldcat.org/oclc/7840420644)
 
- - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. [(worldcat)](http://www.worldcat.org/oclc/7840420644)
+- M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. [(worldcat)](http://www.worldcat.org/oclc/7840420644)
 
 
 <!--#### Periodo ID-->

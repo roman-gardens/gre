@@ -9,14 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 436
 draft: false
-
-categories:
-  - "Italia"
-tags:
-  - "peristyles"
-  - "tablina"
-  - "puteals"
-
 ---
 
 ## Province

@@ -8,9 +8,6 @@ latlon: [ 38.030473, 27.441238 ]
 author: John Bodel
 editor: Shamika Ghate
 draft: true
-
-categories:
- - "Asia"
 ---
 
 ## Province

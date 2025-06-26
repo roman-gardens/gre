@@ -8,13 +8,7 @@ latlon: [ 0, 0 ]
 author:
 editor: Yuyao Liu
 draft: true
-
-categories:
- - "Italia"
 ---
-
-## Province
-[Italia]({{<relref "../../../..">}})
 
 ## Location
 - {{< id vocab="Pleiades" id="587835546" term="VIA ARDEATINA" >}}

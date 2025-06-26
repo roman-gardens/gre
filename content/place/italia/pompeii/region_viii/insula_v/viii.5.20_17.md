@@ -9,13 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 441
 draft: false
-
-categories:
-  - "Italia"
-tags:
-  - "angiportus"
-  - "cauponae"
-
 ---
 
 ## Province

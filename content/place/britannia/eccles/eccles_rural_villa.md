@@ -8,14 +8,7 @@ latlon: [ 51.318926, 0.479999 ]
 author: Maureen Carroll
 editor: June Dorsch
 draft: false
-
-categories:
- - "Britannia"
 ---
-
-## Province
-
-[Britannia]({{<relref "..">}})  
 
 ## Province Description
 

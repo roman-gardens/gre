@@ -8,16 +8,6 @@ latlon: [ 31.912796, 35.751922 ]
 author: Kathryn Gleason
 editor: Leigh-Ann Bedal, Jane Millar
 draft: false
-
-categories:
- - "Arabia Petraea"
-tags:
- - "artificial islands"
- - "forecourts"
- - "dovecotes"
- - "paradise gardens"
- - "reflecting pools"
- - "triclinia (rooms)"
 ---
 
 ## Province

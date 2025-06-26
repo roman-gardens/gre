@@ -8,18 +8,6 @@ latlon: [ 29.956958, 35.328326 ]
 author: M. Barbara Reeves
 editor: Jane Millar, Leigh-Ann Bedal
 draft: false
-
-categories:
- - "Arabia Petraea"
-tags:
- - "aqueducts"
- - "baetyls"
- - "basins"
- - "insulae"
- - "naoi"
- - "planters"
- - "shrines"
- - "temene"
 ---
 
 ## Province

@@ -8,9 +8,6 @@ latlon: [ 0, 0 ]
 author: Clopper Almon
 editor: Xingjian Wang
 draft: true
-
-categories:
- - "Lusitania"
 ---
 
 ## Province

@@ -9,13 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 408
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
-  - "peristyles"
-  - "sacraria"
 ---
 
 ## Province

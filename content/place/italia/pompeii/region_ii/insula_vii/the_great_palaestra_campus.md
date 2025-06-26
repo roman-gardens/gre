@@ -9,13 +9,6 @@ author: Wilhelmina Jashemski
 editor: Jessica Venner
 jashemski-catalogue: 148
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "palaestrae"
- - "porticoes"
 ---
 
 ## Province

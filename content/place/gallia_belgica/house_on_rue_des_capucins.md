@@ -8,14 +8,7 @@ latlon: [ 49.253877, 4.033055 ]
 author: AUTHOR_ID
 editor: Yvette Pollack
 draft: true
-
-categories:
- - "Gallia"
- - "Belgica"
 ---
-
-## Province
-[Gallia]({{<relref "..">}})
 
 ## Location
 

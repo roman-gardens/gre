@@ -9,15 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 443
 draft: false
-
-categories:
-  - "Italia"
-tags:
-  - "atriums"
-  - "tablina"
-  - "peristyles"
-  - "porticoes"
-
 ---
 
 ## Province

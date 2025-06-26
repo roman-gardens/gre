@@ -8,14 +8,7 @@ latlon: [ 0, 0 ]
 author: Maureen Carroll
 editor: June Dorsch
 draft: true
-
-categories:
- - "Pannonia"
 ---
-
-## Province
-
-[Pannonia]({{<relref "..">}})
 
 ## Province Description
 

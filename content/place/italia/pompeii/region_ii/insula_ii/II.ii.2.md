@@ -8,25 +8,6 @@ latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "aedicules"
- - "amphorae"
- - "arbors"
- - "atriums"
- - "biclinia"
- - "fountains"
- - "impluvia"
- - "insulae"
- - "nymphaea"
- - "pergolas"
- - "peristyles"
- - "porticoes"
- - "triclinia (rooms)"
- - "water supply systems"
 ---
 
 ## Province

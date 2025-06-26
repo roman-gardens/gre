@@ -8,10 +8,6 @@ latlon: [ 41.752743867143124, 12.286672797879733 ]
 author: Thomas Morard
 editor: Joshua Rosenheim
 draft: false
-tags:
- - "courtyards"
- - "porticoes"
- - "water supply systems"
 ---
 
 ## Province

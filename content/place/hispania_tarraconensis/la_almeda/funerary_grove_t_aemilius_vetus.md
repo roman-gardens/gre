@@ -8,9 +8,6 @@ latlon: [ 0, 0 ]
 author: John Bodel
 editor: Qianli Jiang
 draft: true
-
-categories:
- - "Hispania Tarraconensis"
 ---
 
 ## Province

@@ -8,11 +8,6 @@ latlon: [ 41.889306, 12.487109 ]
 author: Françoise Villedieu
 editor: Rhiannon Paré
 draft: false
-tags:
- - "domus"
- - "palaces"
- - "peristyles"
- - "temples"
 ---
 
 ## Province

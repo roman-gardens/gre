@@ -8,17 +8,6 @@ latlon: [ 36.317690, 5.736683 ]
 author: Michèle Blanchard-Lemée
 editor: Brandon Wilson
 draft: false
-
-categories:
-  - "Numidia"
-tags:
- - "mosaics"
- - "pergolas"
- - "piscinae"
- - "basins"
- - "sculpture"
- - "diaeta"
- - "venus"
 ---
 
 ## Province

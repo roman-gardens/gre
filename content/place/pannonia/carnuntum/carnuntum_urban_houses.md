@@ -8,14 +8,7 @@ latlon: [ 48.113346, 16.867891 ]
 author: Maureen Carroll
 editor: June Dorsch
 draft: true
-
-categories:
- - "Pannonia"
 ---
-
-## Province
-
-[Pannonia]({{<relref "..">}})
 
 <!--### Province Description-->
 

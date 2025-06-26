@@ -8,12 +8,6 @@ latlon: [ 41.756389, 12.291007 ]
 author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
-tags:
- - "basins"
- - "columns"
- - "opus signinum"
- - "porticoes"
- - "statues"
 ---
 
 ## Province
@@ -62,7 +56,7 @@ Piazzale della Corporazioni \
 - {{< keyword "allées" >}}
 - {{< keyword "beds" >}}
 - {{< keyword "Augustan" >}}
-- [Domitian, Emperor of Rome](http://vocab.getty.edu/page/ulan/500083758)
+- {{< keyword "Domitian, Emperor of Rome" >}}
 - {{< keyword "Hadrianic" >}}
 - {{< keyword "Julio-Claudian" >}}
 - {{< keyword "columns" >}}

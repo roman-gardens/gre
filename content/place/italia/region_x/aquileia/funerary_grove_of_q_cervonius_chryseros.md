@@ -8,19 +8,7 @@ latlon: [ 45.77, 13.3748 ]
 author: John Bodel
 editor: Zhenrui Mei
 draft: true
-
-categories:
- - "Italia"
-tags:
- - "altars"
- - "grove (sacred grove)"
- - "stelae"
- - "tombs"
 ---
-
-## Province
-
-[Italia]({{<relref "../..">}})
 
 <!--### Province Description-->
 

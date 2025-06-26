@@ -9,13 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 422
 draft: false
-
-categories:
-  - "Italia"
-tags:
-- "cauponae"
-- "pergolas"
-
 ---
 
 ## Province
@@ -38,6 +31,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Keywords
 - {{< keyword "cauponae" >}}
 - {{< keyword "podiums (platforms)" >}}
+- {{< keyword "pergolas" >}}
 
 
 ## Garden Description

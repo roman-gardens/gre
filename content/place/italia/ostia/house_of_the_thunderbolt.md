@@ -8,13 +8,6 @@ latlon: [ 41.750839672367256, 12.285040670892728 ]
 author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
-tags:
- - "biclinia"
- - "columns"
- - "domus"
- - "lararia"
- - "peristyles"
- - "tesserae"
 ---
 
 ## Province

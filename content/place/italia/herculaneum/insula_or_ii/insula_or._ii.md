@@ -9,13 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 565
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "peristyles"
- - "porticoes"
 ---
 
 ## Province

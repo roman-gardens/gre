@@ -1,5 +1,6 @@
 term,vocab,id
 aedicules,AAT,300002574
+agoras,AAT,300008074
 agriculture (discipline),AAT,300054463
 alabastra,AAT,300198887
 alae,AAT,300004055
@@ -86,6 +87,7 @@ dadoes,AAT,300001746
 ditches,AAT,300006178
 dolia,AAT,300400601
 doliums,AAT,300400601
+"Domitian, Emperor of Rome",ULAN,500083758
 domus,AAT,300005506
 Doric order,AAT,300067406
 dovecotes,AAT,300004975
@@ -162,7 +164,7 @@ loam,AAT,300014335
 loggias,AAT,300004137
 manholes,AAT,300004244
 marble (rock),AAT,300011443
-Marcus Aurelius,ULAN,500115701
+"Marcus Aurelius",ULAN,500115701
 market gardens,AAT,300008111
 masonry (building materials),AAT,300015332
 mausoleums,AAT,300005891
@@ -203,6 +205,7 @@ pergolas,AAT,300006783
 periboloi,AAT,300005069
 peristyle houses,AAT,300005452
 peristyles (Roman courtyards),AAT,300080971
+piazzas (squares),AAT,300164841
 pilasters (wall components),AAT,300002737
 pillars (structural elements),AAT,300264605
 pinakes (votive plaques),AAT,300264977
@@ -212,6 +215,7 @@ pits (earthworks),AAT,300008027
 plane trees,POWO,685873-1
 planters (containers),AAT,300237566
 planting beds,AAT,300430426
+pleasure gardens,AAT,300008115
 plinths,AAT,300001749
 podiums (building divisions),AAT,300000976
 podiums (platforms),AAT,300249278
@@ -264,6 +268,7 @@ solariums (building spaces),AAT,300004179
 springs (bodies of water),AAT,300008697
 sprinklers (watering equipment),AAT,300435392
 stables (animal housing),AAT,300005015
+stadiums,AAT,300007271
 stairs (series of steps),AAT,300003228
 statues,AAT,300047600
 statuettes (free-standing sculpture),AAT,300312262

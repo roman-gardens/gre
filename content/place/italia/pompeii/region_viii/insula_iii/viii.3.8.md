@@ -9,13 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 420
 draft: false
-
-categories:
-  - "Italia"
-tags:
-- "porticoes"
-- "tablina"
-- "exedrae (site elements)"
 ---
 
 ## Province

@@ -47,7 +47,7 @@ Puissalicon, villa de la Condoumine
 ## Keywords
 
 - {{< keyword "balnea" >}}
-- [opus spicatum]
+- {{< keyword "opus spicatum" >}}
 - {{< keyword "columns" >}}
 - {{< keyword "opus signinum" >}}
 - {{< keyword "statues" >}}

@@ -8,14 +8,6 @@ latlon: [ 41.894698, 12.478022 ]
 author: Valerie Aymer, Kathryn Gleason
 editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
-tags:
- - "altars"
- - "canals"
- - "columns"
- - "exedrae (site elements)"
- - "porticoes"
- - "temples"
- - "triumphal arch"
 ---
 
 ## Province
@@ -44,7 +36,7 @@ Garden of the Divorum
 
 - {{< keyword "altars" >}}
 - {{< keyword "canals" >}}
-- {{< keyword "columns (architectural element)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "pools" >}}
 - {{< keyword "porticoes" >}}

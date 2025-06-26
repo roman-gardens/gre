@@ -8,27 +8,7 @@ latlon: [ 45.500780, 10.605182 ]
 author: Annalisa Marzano
 editor: Zhenrui Mei
 draft: true
-
-categories:
- - "Italia"
-tags:
- - "atrium houses"
- - "cryptoportici"
- - "gutters"
- - "mosaics"
- - "mural paintings"
- - "peristyles"
- - "podiums (building divisions)"
- - "porticoes"
- - "presence chambers"
- - "reception rooms"
- - "tesserae"
- - "villae urbanae"
 ---
-
-## Province
-
-[Italia]({{<relref "../..">}})
 
 <!--### Province Description-->
 

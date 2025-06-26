@@ -9,15 +9,6 @@ author: Wilhelmina Jashemski
 editor: Jessica Venner
 jashemski-catalogue: 152
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "atriums"
- - "cauponae"
- - "tabernae"
- - "triclinia (rooms)"
 ---
 
 ## Province

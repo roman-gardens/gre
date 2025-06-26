@@ -9,9 +9,6 @@ author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 535-536
 draft: true
-
-categories:
- - "Italia"
 ---
 
 ## Province

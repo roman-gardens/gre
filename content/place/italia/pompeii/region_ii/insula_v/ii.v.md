@@ -8,20 +8,7 @@ latlon: [ 40.752264, 14.494333 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
 draft: false
-
-
-categories:
- - "Italia"
-tags:
- - "amphitheaters"
- - "dolia"
- - "trellises"
- - "triclinia (couches)"
- - "vineyards"
 ---
-
-## Province
-[Italia]({{<relref "../../../..">}})
 
 ## Location
 

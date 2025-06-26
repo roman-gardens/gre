@@ -8,15 +8,6 @@ latlon: [ 36.023752, 10.517062 ]
 author: Amina-Aïcha Malek
 editor: Xue Xia
 draft: true
-
-categories:
-  - "Africa Proconsularis"
-tag:
-  - "domus"
-  - "peristyle houses"
-  - "church buildings by function"
-  - "basins"
-  - "balnea"
 ---
 
 ## Province

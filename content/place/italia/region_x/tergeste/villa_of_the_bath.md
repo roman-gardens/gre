@@ -8,14 +8,7 @@ latlon: [ 45.697547, 13.737716 ]
 author: Annalisa Marzano
 editor: Zhenrui Mei
 draft: true
-
-categories:
- - "Italia"
 ---
-
-## Province
-
-[Italia]({{<relref "../..">}})
 
 <!--### Province Description-->
 

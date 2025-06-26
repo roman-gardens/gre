@@ -8,9 +8,6 @@ latlon: [ 38.917216, -6.341213 ]
 author: AUTHOR_ID
 editor: Yiyun Liu
 draft: true
-
-categories:
- - "Lusitania"
 ---
 
 ## Province

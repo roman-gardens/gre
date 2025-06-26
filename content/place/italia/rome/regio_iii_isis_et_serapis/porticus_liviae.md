@@ -8,14 +8,6 @@ latlon: [ 41.891775, 12.486137 ]
 author: Elizabeth Macaulay, Holly Spoth-Torres
 editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
-tags:
- - "colonnades"
- - "domus"
- - "exedrae (site elements)"
- - "frescoes (visual works)"
- - "pergolas"
- - "porticoes"
- - "shrines"
 ---
 
 ## Province

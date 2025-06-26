@@ -8,13 +8,6 @@ latlon: [ 41.891775, 12.486137 ]
 author: Elizabeth Macaulay, Linda Anderson
 editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
-tags:
- - "temples"
- - "columns"
- - "exedrae (site elements)"
- - "lucus (grove)"
- - "porticoes"
- - "temples"
 ---
 
 ## Province
@@ -43,7 +36,7 @@ Garden of the Hercules Musarum
 
 - {{< keyword "temples" >}}
 - {{< keyword "auditoriums" >}}
-- {{< keyword "columns (architectural element)" >}}
+- {{< keyword "columns" >}}
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "lucus (grove)" >}}
 - {{< keyword "groves" >}}

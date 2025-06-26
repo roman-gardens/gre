@@ -8,9 +8,6 @@ latlon: [ 41.938192, 12.780881 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: true
-tags:
- - "exedrae (site elements)"
- - "nymphaea"
 ---
 
 ## Province

@@ -8,9 +8,6 @@ latlon: [ 46.201961, 6.143798 ]
 author: AUTHOR_ID
 editor: Yvette Pollack
 draft: true
-
-categories:
- - "Gallia Narbonensis"
 ---
 
 ## Province

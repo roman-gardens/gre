@@ -8,13 +8,7 @@ latlon: [ 41.922827, 12.595784 ]
 author: Paola Olivanti
 editor: Lingyi Xu
 draft: true
-
-categories:
-- "italia"
 ---
-
-## Province
-[italia]({{<relref "..">}})
 
 ## Location
 

@@ -8,14 +8,7 @@ latlon: [ 40.628342, 22.952885 ]
 author: John Bodel
 editor: Amartya Shri
 draft: true
-
-categories:
- - "Macedonia"
 ---
-
-## Province
-
-[Macedonia]({{<relref "..">}})  
 
 <!--### Province Description-->
 

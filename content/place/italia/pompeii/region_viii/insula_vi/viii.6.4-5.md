@@ -9,12 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 449
 draft: false
-
-categories:
-  - "Italia"
-tags:
-  - "insulae"
-  - "aedicules"
 ---
 
 ## Province

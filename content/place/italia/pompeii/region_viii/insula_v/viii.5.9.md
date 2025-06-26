@@ -9,14 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 437
 draft: false
-
-categories:
-  - "Italia"
-tags:
-  - "tablina"
-  - "puteals"
-  - "porticoes"
-
 ---
 
 ## Province

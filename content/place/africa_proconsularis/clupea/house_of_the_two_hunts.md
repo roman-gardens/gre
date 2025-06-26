@@ -8,14 +8,6 @@ latlon: [ 36.838512, 11.115794 ]
 author: Maureen Carroll
 editor: Yuming Huang
 draft: true
-
-categories:
-  - "Africa Proconsularis"
-tag:
-  - "domus"
-  - "peristyle houses"
-  - "semicircular basin"
-  - "oeci"
 ---
 
 ## Province

@@ -8,14 +8,7 @@ latlon: [ 40.74941, 14.485429 ]
 author: Unknown
 editor: June Dorsch
 draft: true
-
-categories:
- - "Italia"
 ---
-
-## Province
-
-[Italia]({{<relref "../../../..">}})
 
 ## Location
 

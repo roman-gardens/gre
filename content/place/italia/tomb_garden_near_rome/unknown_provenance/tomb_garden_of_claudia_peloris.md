@@ -8,13 +8,7 @@ latlon: [ 0, 0 ]
 author:
 editor: Lingyi Xu
 draft: true
-
-categories:
-- "italia"
 ---
-
-## Province
-[italia]({{<relref "..">}})
 
 ## Location
 

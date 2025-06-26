@@ -8,13 +8,7 @@ latlon: [ 41.251480, 13.449332 ]
 author: EUGENIA SALZA PRINA RICOTTI
 editor: Yuyao Liu
 draft: true
-
-categories:
- - "Italia"
 ---
-
-## Province
-[Italia]({{<relref "../../../..">}})
 
 ## Location
 

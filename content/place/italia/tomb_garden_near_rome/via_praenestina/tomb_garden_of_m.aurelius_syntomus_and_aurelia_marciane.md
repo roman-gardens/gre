@@ -8,13 +8,7 @@ latlon: [ 51.667934, 6.448177 ]
 author: Francesca Carboni
 editor: Lingyi Xu
 draft: true
-
-categories:
-- "italia"
 ---
-
-## Province
-[italia]({{<relref "..">}})
 
 ## Location
 

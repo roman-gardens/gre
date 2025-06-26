@@ -8,21 +8,7 @@ latlon: [ 40.751957, 14.493271 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "cisterns"
- - "jet d'eau"
- - "peristyles"
- - "porticoes"
- - "statuettes"
- - "triclinia (rooms)"
 ---
-
-## Province
-[Italia]({{<relref "../../../..">}})
 
 ## Location
 

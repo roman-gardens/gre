@@ -9,15 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 150
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "lararia"
- - "lecti"
- - "thermopolia"
- - "triclinia (rooms)"
 ---
 
 ## Province

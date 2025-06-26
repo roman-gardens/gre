@@ -8,8 +8,6 @@ latlon: [ 41.944593, 12.774851 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: true
-tags:
- - "nymphaea"
 ---
 
 ## Province

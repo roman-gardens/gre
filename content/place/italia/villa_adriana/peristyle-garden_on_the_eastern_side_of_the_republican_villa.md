@@ -8,11 +8,6 @@ latlon: [ 41.942693, 12.778156 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: true
-tags:
- - "flower gardens"
- - "nymphaea"
- - "peristyles"
- - "porticoes"
 ---
 
 ## Province

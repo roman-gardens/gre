@@ -9,9 +9,6 @@ author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 551
 draft: true
-
-categories:
- - "Italia"
 ---
 
 ## Province
@@ -40,10 +37,10 @@ Casa del Bicentenario
 
 <!-- These keywords have not been finished. Please add Getty Thesaurus links. - Christian -->
 ## Keywords
-- [porticoes]
-- [tablinia]
-- [dolia]
-- [puteals]
+- {{< keyword "porticoes" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "dolia" >}}
+- {{< keyword "puteals" >}}
 
 ---
 

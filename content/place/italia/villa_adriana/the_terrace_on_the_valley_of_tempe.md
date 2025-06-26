@@ -8,8 +8,6 @@ latlon: [ 41.943986, 12.778580 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
 draft: true
-tags:
- - "terrace gardens"
 ---
 
 ## Province

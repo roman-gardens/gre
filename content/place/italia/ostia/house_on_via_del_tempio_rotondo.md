@@ -8,12 +8,6 @@ latlon: [ 41.753312445649286, 12.288591244178454 ]
 author: Paola Olivanti
 editor: Joshua Rosenheim
 draft: false
-tags:
- - "basins"
- - "fountains"
- - "opus signinum"
- - "peristyles"
- - "vases"
 ---
 
 ## Province

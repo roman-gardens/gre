@@ -8,9 +8,6 @@ latlon: [ 0, 0 ]
 author: AUTHOR_ID
 editor: Qianli Jiang
 draft: true
-
-categories:
- - "Hispania Tarraconensis"
 ---
 
 ## Province
@@ -81,7 +78,7 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 2C AD
 
 ## Bibliography
- - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. [(worldcat)](http://www.worldcat.org/oclc/7840420644)
+- M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. [(worldcat)](http://www.worldcat.org/oclc/7840420644)
 
 
 <!--#### Periodo ID-->

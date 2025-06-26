@@ -8,14 +8,7 @@ latlon: [ 47.5, 22.5 ]
 author: John Bodel
 editor: June Dorsch
 draft: true
-
-categories:
- - "Dacia Traiana"
 ---
-
-## Province
-
-[Dacia Traiana]({{<relref "..">}})  
 
 ## Province Description
 

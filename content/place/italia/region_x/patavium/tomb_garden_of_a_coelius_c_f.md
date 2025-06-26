@@ -8,19 +8,7 @@ latlon: [ 45.4071, 11.8698 ]
 author: John Bodel
 editor: Zhenrui Mei
 draft: true
-
-categories:
- - "Italia"
-tags:
- - "epitaphs"
- - "mausoleums"
- - "stelae"
- - "tombs"
 ---
-
-## Province
-
-[Italia]({{<relref "../../../..">}})
 
 <!--### Province Description-->
 

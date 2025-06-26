@@ -8,13 +8,7 @@ latlon: [ 51.606474, 5.794368 ]
 author: Maureen Carroll
 editor: David Ratzan
 draft: true
-
-categories:
- - "Germania Inferior"
 ---
-
-## Province
-Germania inferior
 
 ## Province Description
 The Augustan military zone along the lower [Rhine](link) was formally reorganized as the province of Germania Inferior, Lower Germany, during the reign of [Domitian](link) around A.D. 85. Until this time, the area had been on the eastern fringe of the province of [Gallia Belgica]({{<relref ".">}}) \

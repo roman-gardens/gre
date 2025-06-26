@@ -9,14 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 457
 draft: false
-
-categories:
-  - "Italia"
-
-tags:
-  - "atriums"
-  - "porticoes"
-  - "triclinia (rooms)"
 ---
 
 ## Province

@@ -9,16 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 438,439,440
 draft: false
-
-categories:
-  - "Italia"
-tags:
-  - "insulae"
-  - "angiportus"
-  - "porticoes"
-  - "puteals"
-
-
 ---
 
 ## Province

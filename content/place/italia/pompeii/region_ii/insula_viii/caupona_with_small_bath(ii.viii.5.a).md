@@ -9,12 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 151
 draft: true
-
-
-categories:
-  - "Italia"
-tags:
- - "triclinia (rooms)"
 ---
 
 ## Province

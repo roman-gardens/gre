@@ -8,41 +8,7 @@ latlon: [ 45.501241, 10.606902 ]
 author: E. Roffia
 editor: Zhenrui Mei
 draft: true
-
-categories:
- - "Italia"
-tags:
- - "atriums"
- - "basins"
- - "balnea"
- - "cisterns"
- - "cryptoportici"
- - "ditches"
- - "drains"
- - "exedrae (site elements)"
- - "fences"
- - "garden pavilions"
- - "gutters"
- - "insulae"
- - "loam"
- - "orchards"
- - "peristyles"
- - "piscinae"
- - "porticoes"
- - "presence chambers"
- - "reception rooms"
- - "statues"
- - "terrazzo"
- - "terrazzo"
- - "vestibules"
- - "water baths"
- - "water supply systems"
- - "water wells"
 ---
-
-## Province
-
-[Italia]({{<relref "../..">}})
 
 <!--### Province Description-->
 

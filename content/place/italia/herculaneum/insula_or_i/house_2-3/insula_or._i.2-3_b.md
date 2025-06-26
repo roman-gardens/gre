@@ -9,14 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 562
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "atriums"
- - "peristyles"
- - "stucco"
 ---
 
 ## Province

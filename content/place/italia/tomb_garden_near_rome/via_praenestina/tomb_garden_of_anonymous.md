@@ -8,13 +8,7 @@ latlon: [ 41.649151, 13.194182 ]
 author: Maureen Carroll
 editor: Lingyi Xu
 draft: true
-
-categories:
- - "italia"
 ---
-
-## Province
-[italia]({{<relref "..">}})
 
 ## Location
 

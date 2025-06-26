@@ -8,13 +8,7 @@ latlon: [ 36.222551, 36.183214 ]
 author: Christine Kondoleon, Elizabeth Macaulay-Lewis
 editor: Jane Millar
 draft: true
-
-categories:
- - "Syria"
 ---
-
-## Province
-[Syria]({{<relref "..">}})
 
 ## Location
 

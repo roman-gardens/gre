@@ -8,20 +8,7 @@ latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
 draft: false
-
-categories:
- - "Italia"
-tags:
- - "cauponae"
- - "cisterns"
- - "lararia"
- - "sacella"
- - "statuettes"
- - "tufa"
 ---
-
-## Province
-[Italia]({{<relref "../../../..">}})
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.

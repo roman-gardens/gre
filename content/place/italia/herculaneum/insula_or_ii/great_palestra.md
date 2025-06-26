@@ -9,14 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 566
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "fountains"
- - "shrines"
- - "trellises"
 ---
 
 ## Province

@@ -9,17 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 452
 draft: false
-
-categories:
-  - "Italia"
-
-tags:
-  - "porticoes"
-  - "triclinia (rooms)"
-  - "opus signinum"
-  - "dolia"
-  - "lararia"  
-  - "pergolas"
 ---
 
 ## Province

@@ -8,14 +8,7 @@ latlon: [ 0, 0 ]
 author: Maureen Carroll, Kathryn Gleason
 editor: Annette Guan
 draft: true
-
-categories:
- - "Asia"
 ---
-
-## Province
-
-[Asia]({{<relref "..">}})  
 
 ## Province Description
 

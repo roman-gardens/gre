@@ -9,14 +9,6 @@ author: Wilhelmina Jashemski
 editor: Jessica Venner
 jashemski-catalogue: 15X
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "charcoal"
- - "pollen"
- - "triclinia (rooms)"
 ---
 
 ## Province
@@ -37,9 +29,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IX]({{<relref ".">}})
 
 ## Keywords
- - [porticoes]
+- {{< keyword "porticoes" >}}
 - {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "charcoal" >}}]
+- {{< keyword "charcoal" >}}
 - {{< keyword "pollen" >}}
 
 

@@ -8,9 +8,6 @@ latlon: [ 35.296057, 10.707584 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Jinyi Yang
 draft: true
-
-categories:
-  - "Africa Proconsularis"
 ---
 
 ## Province

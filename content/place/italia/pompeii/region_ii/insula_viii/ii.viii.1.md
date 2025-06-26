@@ -9,12 +9,6 @@ author: Wilhelmina Jashemski
 editor: Jessica Venner
 jashemski-catalogue: 149
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "vegetable gardens"
 ---
 
 ## Province

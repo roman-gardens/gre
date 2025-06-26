@@ -8,16 +8,6 @@ latlon: [ 41.886952, 12.495084 ]
 author: Valerie Aymer
 editor: Rhiannon Paré
 draft: true
-tags:
- - "aqueducts"
- - "cisterns"
- - "nemus (grove)"
- - "niches"
- - "nymphaea"
- - "planting beds"
- - "porticoes"
- - "stagnum (man-made lake)"
- - "temples"
 ---
 
 ## Province

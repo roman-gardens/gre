@@ -9,20 +9,7 @@ editor: Jane Millar, Amartya Shri
 date: 2021-04-21
 modified: 2025-06-23
 draft: false
-
-categories:
- - "Achaea"
-
-tags:
- - "myrtle (Myrtus communis)"
- - "pits"
- - "planting pots"
- - "pomegranate (Punica granatum)"
 ---
-
-## Province
-
-[Achaea]({{<relref "..">}})
 
 ## Province Description
 
@@ -55,7 +42,7 @@ Temple of Hephaistos
 <!-- - {{< keyword "archaeological gardens" >}} -->
 - [myrtle (*Myrtus communis*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:599719-1)
 - {{< keyword "pits" >}}
-- {{< keyword "cachepots" >}}
+- {{< keyword "flowerpots" >}}
 - [pomegranate (*Punica granatum*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:554129-1)
 
 ## Garden Description

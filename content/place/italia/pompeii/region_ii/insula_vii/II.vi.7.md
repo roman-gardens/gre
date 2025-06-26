@@ -8,10 +8,6 @@ latlon: [ 40.7511, 14.49449]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
 draft: false
-
-
-categories:
- - "Italia"
 ---
 
 ## Province

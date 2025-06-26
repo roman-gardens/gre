@@ -8,13 +8,6 @@ latlon: [ 33.532711, 10.674151 ]
 author: Maureen Carroll
 editor: Yuming Huang
 draft: true
-
-categories:
-  - "Africa Proconsularis"
-tag:
-  - "villa garden"
-  - "inscriptions"
-  - "courtyards"
 ---
 
 ## Province

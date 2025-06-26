@@ -8,19 +8,6 @@ latlon: [ 36.317690, 5.736683 ]
 author: Michèle Blanchard-Lemée
 editor: Brandon Wilson
 draft: false
-
-categories:
-  - "Numidia"
-tags:
- - "amphorae"
- - "domus"
- - "mosaics"
- - "oeci"
- - "pergolas"
- - "peristyle houses"
- - "piscinae"
- - "statuettes"
- - "venus"
 ---
 
 ## Province

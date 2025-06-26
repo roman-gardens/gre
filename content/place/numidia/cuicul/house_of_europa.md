@@ -8,18 +8,6 @@ latlon: [ 36.317690, 5.736683 ]
 author: Michèle Blanchard-Lemée
 editor: Brandon Wilson
 draft: false
-
-categories:
-  - "Numidia"
-tags:
- - "balnea"
- - "domus"
- - "mosaics"
- - "peristyle houses"
- - "triclinia (rooms)"
- - "basins"
- - "planters"
- - "pools"
 ---
 
 ## Province

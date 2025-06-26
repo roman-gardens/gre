@@ -8,16 +8,6 @@ latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 editor: Jianing Zhou
 draft: true
-
-categories:
-- "Italia"
-tags:
- - "fountains"
- - "lararia"
- - "peristyles"
- - "porticoes"
- - "predellas"
- - "tablina"
 ---
 
 ## Province

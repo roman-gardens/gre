@@ -9,16 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 561
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "fauces"
- - "impluvia"
- - "peltae"
- - "pinakes"
- - "tondi"
 ---
 
 ## Province

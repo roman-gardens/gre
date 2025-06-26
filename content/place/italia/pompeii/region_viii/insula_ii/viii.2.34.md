@@ -9,13 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 415
 draft: false
-
-categories:
-  - "Italia"
-tags:
-  - "porticoes"
-  - "Crocodylidae"
-  - "Hippopotamus"
 ---
 
 ## Province

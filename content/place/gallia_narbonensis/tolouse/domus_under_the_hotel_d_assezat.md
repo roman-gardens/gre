@@ -8,9 +8,6 @@ latlon: [ 43.600353, 1.441875 ]
 author: AUTHOR_ID
 editor: Yichen Liu
 draft: true
-
-categories:
- - "Gallia Narbonensis"
 ---
 
 ## Province

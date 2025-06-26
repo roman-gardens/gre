@@ -8,18 +8,6 @@ latlon: [ 36.317690, 5.736683 ]
 author: Michèle Blanchard-Lemée
 editor: Brandon Wilson
 draft: false
-
-categories:
-  - "Numidia"
-tags:
-- amphorae (storage vessels)
-- basins (vessels)
-- domus
-- exedrae (site elements)
-- fishponds
-- mosaics (visual works)
-- peristyle houses
-- piscinae
 ---
 
 ## Province

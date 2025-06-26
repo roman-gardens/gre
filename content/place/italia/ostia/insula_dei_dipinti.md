@@ -8,11 +8,6 @@ latlon: [ 41.75511864107492, 12.287953204806119 ]
 author: Janet DeLaine
 editor: Joshua Rosenheim
 draft: false
-tags:
- - "aedicules"
- - "flowerpots"
- - "insulae"
- - "mosaics"
 ---
 
 ## Province

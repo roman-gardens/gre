@@ -9,9 +9,6 @@ author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 552
 draft: true
-
-categories:
- - "Italia"
 ---
 
 ## Province
@@ -40,9 +37,9 @@ Casa dell’Atrio Corontio
 
 
 ## Keywords
-- [impluvia]
-- [atriums (Roman halls)]
-- [peristyles (Roman courtyards)]
+- {{< keyword "impluvia" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "peristyles" >}}
 - {{< keyword "viridarium" >}}
 
 ---

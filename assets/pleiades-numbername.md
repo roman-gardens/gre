@@ -18,6 +18,8 @@
 [614074944](https://pleiades.stoa.org/places/614074944)
 [667996380](https://pleiades.stoa.org/places/667996380)
 [723036345](https://pleiades.stoa.org/places/723036345)
-[82786301](https://pleiades.stoa.org/places/827863015)
 [854718547](https://pleiades.stoa.org/places/854718547)
+
+
+Both numbers are invalid:
 [907088811](https://pleiades.stoa.org/places/90708881)

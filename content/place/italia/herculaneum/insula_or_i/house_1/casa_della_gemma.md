@@ -9,15 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 559
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "atriums"
- - "cisterns"
- - "sundial"
- - "vaults"
 ---
 
 ## Province

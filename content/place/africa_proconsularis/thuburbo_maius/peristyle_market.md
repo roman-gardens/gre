@@ -8,13 +8,6 @@ latlon: [ 36.40112, 9.904448 ]
 author: Wilhelmina Jashemski
 editor: Nicholas Gill
 draft: true
-
-categories:
-  - "Africa Proconsularis"
-tags:
- - "mosaics"
- - "peristyles"
- - "market"
 ---
 
 ## Province

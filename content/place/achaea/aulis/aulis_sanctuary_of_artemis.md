@@ -8,20 +8,7 @@ latlon: [ 38.430259, 23.593654 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
 draft: false
-
-categories:
- - "Achaea"
-
-tags:
- - "date palms (Phoenix dactylifera)"
- - "sacred groves"
- - "Pausanias"
- - "statues"
 ---
-
-## Province
-
-[Achaea]({{<relref "..">}})
 
 ## Province Description
 

@@ -8,17 +8,6 @@ latlon: [ 36.838512, 11.115794 ]
 author: AUTHOR_UNKONWN
 editor: Yuming Huang
 draft: true
-
-categories:
-  - "Africa Proconsularis"
-tag:
-  - "domus"
-  - "peristyle houses"
-  - "aedicules"
-  - "semicircular basin"
-  - "Marcus Aurelius"
-  - "sculpture"
-
 ---
 
 ## Province

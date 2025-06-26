@@ -8,12 +8,7 @@ latlon: [ 37.317026, -5.060833 ]
 author: (AUTHOR_ID)
 editor: Lai Ching Tsui
 draft: true
-
-categories:
 ---
-
-## Province
-Hispania Baetica
 
 ## Province Description
 The province of Hispania Ulterior Baetica adapted very quickly to Roman ways, given the cultural substratum that existed, for it was strongly influenced prior to the conquest by the Carthaginian culture. Today it occupies part of what is now [Andalusia]({{<relref ".">}}) \

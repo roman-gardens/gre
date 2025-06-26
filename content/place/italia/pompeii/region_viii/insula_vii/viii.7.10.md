@@ -9,16 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 453
 draft: false
-
-categories:
-  - "Italia"
-
-tags:
-  - "triclinia (rooms)"
-  - "pergolas"
-  - "alabastron"
-  - "opus signinum"
-
 ---
 
 ## Province

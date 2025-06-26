@@ -8,14 +8,6 @@ latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski, Jessica Venner
 editor: Jessica Venner
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "cisterns"
- - "dolia"
- - "water supply systems"
 ---
 
 ## Province

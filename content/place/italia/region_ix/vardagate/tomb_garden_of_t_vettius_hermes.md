@@ -8,18 +8,7 @@ latlon: [ 45.0818, 8.4406 ]
 author: Annalisa Marzano
 editor: Zhenrui Mei
 draft: true
-
-categories:
- - "Italia"
-tags:
- - "epitaphs"
- - "stelae"
- - "tombs"
 ---
-
-## Province
-
-[Italia]({{<relref "../../../..">}})
 
 <!--### Province Description-->
 

@@ -9,14 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 558
 draft: false
-
-categories:
-  - "Italia"
-tags:
- - "exedrae (site elements)"
- - "peristyle houses"
- - "porticoes"
- - "stucco"
 ---
 
 ## Province

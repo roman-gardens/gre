@@ -9,10 +9,6 @@ author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 448
 draft: false
-
-categories:
-  - "Italia"
-
 ---
 
 ## Province

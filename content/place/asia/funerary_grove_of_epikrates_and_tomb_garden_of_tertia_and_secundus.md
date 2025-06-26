@@ -8,14 +8,7 @@ latlon: [ 0, 0 ]
 author: John Bodel
 editor: Annette Guan
 draft: true
-
-categories:
- - "Asia"
 ---
-
-## Province
-
-[Asia]({{<relref "..">}})  
 
 ## Province Description
 

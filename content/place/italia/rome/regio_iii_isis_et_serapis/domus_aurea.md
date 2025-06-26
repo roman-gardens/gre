@@ -8,16 +8,6 @@ latlon: [ 41.891244, 12.495403 ]
 author: Elizabeth Macaulay, Linda Anderson
 editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
-tags:
- - "cryptoportici"
- - "domus"
- - "exedrae (site elements)"
- - "nemus (grove)"
- - "nymphaea"
- - "peristyles"
- - "porticoes"
- - "stagnum (man-made lake)"
- - "terrace gardens"
 ---
 
 ## Province

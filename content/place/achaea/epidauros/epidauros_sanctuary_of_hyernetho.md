@@ -8,19 +8,7 @@ latlon: [ 37.633775, 23.159638 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
 draft: false
-
-categories:
- - "Achaea"
-
-tags:
- - "orchards"
- - "Pausanias"
- - "wild olives (Olea oleaster)"
 ---
-
-## Province
-
-[Achaea]({{<relref "..">}})
 
 ## Province Description
 

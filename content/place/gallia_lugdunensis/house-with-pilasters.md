@@ -8,14 +8,7 @@ latlon: [ 45.758866, 4.819481 ]
 author: AUTHOR_ID
 editor: Yvette Pollack
 draft: true
-
-categories:
- - "Gallia"
- - "Gallia Lugdunensis"
 ---
-
-## Province
-[Gallia]({{<relref "..">}})
 
 ## Location
 

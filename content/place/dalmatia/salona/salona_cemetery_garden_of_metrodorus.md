@@ -8,14 +8,7 @@ latlon: [ 43.539561, 16.483426 ]
 author: John Bodel
 editor: Christian Casey
 draft: true
-
-categories:
- - "Dalmatia"
 ---
-
-## Province
-
-[Dalmatia]({{<relref "..">}})
 
 <!--### Province Description-->
 

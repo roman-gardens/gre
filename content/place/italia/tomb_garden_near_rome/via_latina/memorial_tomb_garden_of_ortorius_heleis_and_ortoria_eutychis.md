@@ -8,13 +8,7 @@ latlon: [ 41.649151, 13.194182 ]
 author: 	Pier Giorgio Monti
 editor: Lingyi Xu
 draft: true
-
-categories:
- - "italia"
 ---
-
-## Province
-[italia]({{<relref "..">}})
 
 ## Location
 

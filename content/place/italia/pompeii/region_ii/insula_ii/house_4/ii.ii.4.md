@@ -8,17 +8,7 @@ latlon: [ 40.7517, 14.4925 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
 draft: false
-
-categories:
- - "Italia"
-tags:
- - "courtyards"
- - "porticoes"
-
 ---
-
-## Province
-[Italia]({{<relref "../../../..">}})
 
 ## Location
 

@@ -8,9 +8,6 @@ latlon: [ 31.870046, 35.443876 ]
 author: Győző Vörös
 editor: Yaniv Korman
 draft: false
-
-categories:
- - "Judaea"
 ---
 
 ## Province

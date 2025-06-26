@@ -8,9 +8,6 @@ latlon: [ 41.713123, -3.150103 ]
 author: AUTHOR_ID
 editor: Yiyun Liu
 draft: true
-
-categories:
- - "Hispania Tarraconensis"
 ---
 
 ## Province

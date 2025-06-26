@@ -8,9 +8,6 @@ latlon: [ 38.707166, -9.135507 ]
 author: John Bodel
 editor: Xingjian Wang
 draft: true
-
-categories:
- - "Lusitania"
 ---
 
 ## Province

@@ -9,9 +9,6 @@ author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 553
 draft: true
-
-categories:
- - "Italia"
 ---
 
 ## Province
@@ -39,7 +36,7 @@ V
 Casa con Giardino
 
 ## Keywords
-- [fauces]
+- {{< keyword "fauces" >}}
 
 ---
 

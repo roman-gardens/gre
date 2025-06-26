@@ -8,9 +8,6 @@ latlon: [ 41.75282967075262, 12.28930212931829 ]
 author: Stella Falzone
 editor: Joshua Rosenheim
 draft: false
-tags:
- - "basins"
- - "water supply systems"
 ---
 
 ## Province

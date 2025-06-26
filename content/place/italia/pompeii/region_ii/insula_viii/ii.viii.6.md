@@ -9,16 +9,6 @@ author: Wilhelmina Jashemski
 editor: Jessica Venner
 jashemski-catalogue: 153
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "aedicules"
- - "dolia"
- - "lararia"
- - "strigillation"
- - "triclinia (rooms)"
 ---
 
 ## Province

@@ -8,10 +8,6 @@ latlon: [ 41.896879, 12.476831 ]
 author: Elizabeth Macaulay, Beth Ryan
 editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
-tags:
- - "thermae"
- - "gymnasiums"
- - "horti"
 ---
 
 ## Province

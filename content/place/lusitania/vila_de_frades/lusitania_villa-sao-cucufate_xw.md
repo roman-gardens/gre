@@ -8,9 +8,6 @@ latlon: [ 38.223820, -7.845952 ]
 author: AUTHOR_ID
 editor: Xingjian Wang
 draft: true
-
-categories:
- - "Lusitania"
 ---
 
 ## Province

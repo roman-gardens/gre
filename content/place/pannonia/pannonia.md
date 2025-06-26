@@ -7,9 +7,6 @@ date: 2020-07-21T16:35:11-04:00
 author: Maureen Carroll
 editor: June Dorsch
 draft: true
-
-categories:
- - "Pannonia"
 ---
 
 ## Province
