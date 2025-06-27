@@ -10,8 +10,6 @@ editor: David Ratzan
 draft: true
 ---
 
-## Province Description
-
 ## Location
 
 [Voerendaal]({{<relref ".">}}) \

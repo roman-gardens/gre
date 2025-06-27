@@ -3,10 +3,11 @@ gre_id: "af830a592c"
 aliases: [/id/af830a592c]
 type: garden
 title: "Guest House 1"
-date: 2020-07-27T08:54:25-04:00
 latlon: [ 37.637590, 21.628024 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
+date: 2021-04-21
+modified: 2025-06-26
 draft: false
 ---
 
@@ -96,16 +97,3 @@ NEW WAY ↓↓↓↓
 ## TGN ID
 
 - {{< id vocab="TGN" id="7011018" term="Olympia (deserted settlement)" >}}
-
-## Contributor
-
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
-
-## Publication date
-
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

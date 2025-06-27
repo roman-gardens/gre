@@ -3,10 +3,11 @@ gre_id: "21eea814e6"
 aliases: [/id/21eea814e6]
 type: garden
 title: "Sanctuary of Apollo and the Nymphs"
-date: 2020-07-26T12:25:33-04:00
 latlon: [ 38.585688, 23.044957 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
+date: 2021-04-21
+modified: 2025-06-26
 draft: false
 ---
 
@@ -103,16 +104,3 @@ unspecified
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
-
-## Contributor
-
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
-
-## Publication date
-
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

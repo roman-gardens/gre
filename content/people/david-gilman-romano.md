@@ -2,7 +2,7 @@
 type: people
 title: David Gilman Romano
 date: 2025-06-18
-draft: true
+draft: false
 ---
 
 <!-- position title, institution -->
@@ -12,13 +12,11 @@ draft: true
 
 -->
 
-<!--
+
 ## Website
 
--->
+https://anthropology.arizona.edu/person/david-gilman-romano
 
-<!--
-{{< id vocab="ORCID" id="" >}}
--->
+{{< id vocab="ORCID" id="0000-0001-5764-6652" >}}
 
 <!-- Description -->

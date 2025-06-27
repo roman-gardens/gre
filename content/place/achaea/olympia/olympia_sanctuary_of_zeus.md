@@ -3,10 +3,11 @@ gre_id: "b5400dccdb"
 aliases: [/id/b5400dccdb]
 type: garden
 title: "Sanctuary of Zeus"
-date: 2020-07-27T08:52:42-04:00
 latlon: [ 37.637939, 21.630256 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
+date: 2021-04-21
+modified: 2025-06-26
 draft: false
 ---
 
@@ -91,16 +92,3 @@ unspecified
 ## TGN ID
 
 - {{< id vocab="TGN" id="7011018" term="Olympia (deserted settlement)" >}}
-
-## Contributor
-
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
-
-## Publication date
-
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

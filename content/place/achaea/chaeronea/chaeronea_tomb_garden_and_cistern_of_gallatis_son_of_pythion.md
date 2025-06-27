@@ -3,10 +3,11 @@ gre_id: "40b1adacb6"
 aliases: [/id/40b1adacb6]
 type: garden
 title: "Tomb Garden and Cistern of Gallatis, Son of Pythion"
-date: 2020-07-26T10:33:06-04:00
 latlon: [ 38.493967, 22.841425 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
+date: 2021-04-21
+modified: 2025-06-26
 draft: false
 ---
 
@@ -70,12 +71,3 @@ probably the first or second century
 ## TGN ID
 
 - {{< id vocab="TGN" id="7010731" term="Chaironeia (inhabited place)" >}}
-
-## Contributor
-
-Maureen Carroll (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
-
-## Publication date
-
-
-21 Apr 2021

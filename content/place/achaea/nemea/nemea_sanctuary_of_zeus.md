@@ -3,10 +3,11 @@ gre_id: "16ce9bd153"
 aliases: [/id/16ce9bd153]
 type: garden
 title: "Sanctuary of Zeus"
-date: 2020-07-27T08:51:34-04:00
 latlon: [ 37.809521, 22.710403 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
+date: 2021-04-21
+modified: 2025-06-26
 draft: false
 ---
 
@@ -94,15 +95,3 @@ Trees were still standing in the 2nd century A.D. when Pausanias visited Nemea.
 ## TGN ID
 
 - {{< id vocab="TGN" id="7220732" term="Neméa (ancient site)" >}}
-
-## Contributor
-
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
-
-## Publication date
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

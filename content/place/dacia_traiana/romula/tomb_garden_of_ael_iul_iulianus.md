@@ -10,9 +10,6 @@ editor: June Dorsch
 draft: true
 ---
 
-## Province Description
-
-
 ## Location
 
 [Romula]({{<relref ".">}}) \

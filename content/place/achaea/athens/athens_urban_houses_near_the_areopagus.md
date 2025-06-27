@@ -7,7 +7,7 @@ latlon: [ 37.972372, 23.723371 ]
 author: Maureen Carroll
 editor: Amartya Shri, Jane Millar
 date: 2021-04-21
-modified: 2025-06-23
+modified: 2025-06-26
 draft: false
 ---
 
@@ -83,16 +83,3 @@ mid-4th century CE and earlier
 ## TGN ID
 
 - {{< id vocab="TGN" id="7001393" term="Athens (inhabited place)" >}}
-
-## Contributor
-
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
-
-## Publication date
-
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

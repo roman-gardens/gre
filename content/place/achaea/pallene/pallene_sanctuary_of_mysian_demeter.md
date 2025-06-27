@@ -3,10 +3,11 @@ gre_id: "fd8693dc71"
 aliases: [/id/fd8693dc71]
 type: garden
 title: "Sanctuary of Mysian Demeter"
-date: 2020-07-26T12:41:28-04:00
 latlon: [ 38.018398, 23.849020 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
+date: 2021-04-21
+modified: 2025-06-26
 draft: true
 ---
 
@@ -101,16 +102,3 @@ unspecified (mentioned in the 2nd century CE)
 ## TGN ID
 
 - {{< id vocab="TGN" id="7002739" term="Argolís (regional division)" >}}
-
-## Contributor
-
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
-
-## Publication date
-
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

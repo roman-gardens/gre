@@ -3,18 +3,13 @@ gre_id: "0a16dfa1d8"
 aliases: [/id/0a16dfa1d8]
 type: garden
 title: "The Circus of Roman Corinth"
-date: 2020-07-16T09:50:29-04:00
 latlon: [ 37.900814, 22.895986 ]
 author: David Gilman Romano
 editor: Jane Millar, Amartya Shri
+date: 2021-04-21
+modified: 2025-06-26
 draft: false
 ---
-
-## Province Description
-
-Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
-
-The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and wooolen textiles and marbles.
 
 ## Location
 
@@ -95,15 +90,3 @@ BIBLIOGRAPHY:
 ## TGN ID
 
 - {{< id vocab="TGN" id="7010734" term="Corinth (inhabited place)" >}}
-
-## Contributor
-
-[David Gilman Romano](https://anthropology.arizona.edu/user/david-gilman-romano) (ORCID: [0000-0001-5764-6652](https://orcid.org/0000-0001-5764-6652))
-
-## Publication date
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

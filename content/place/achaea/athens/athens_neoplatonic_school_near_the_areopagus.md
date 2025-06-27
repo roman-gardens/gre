@@ -7,7 +7,7 @@ latlon: [ 37.972372, 23.723371 ]
 author: Maureen Carroll
 editor: Jane Millar
 date: 2021-04-21
-modified: 2025-06-23
+modified: 2025-06-26
 draft: false
 ---
 
@@ -52,10 +52,3 @@ second half of the 4th century CE to the late 6th century CE
 
 ## TGN ID
 - {{< id vocab="TGN" id="5004159" term="Agorá (ancient site)" >}}
-
-## Contributor
-[Maureen Carroll](#) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
-
-## Publication date
-
-21 Apr 2021

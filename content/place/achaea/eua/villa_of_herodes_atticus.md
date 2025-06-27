@@ -3,10 +3,11 @@ gre_id: "6a6ac9d69b"
 aliases: [/id/6a6ac9d69b]
 type: garden
 title: "Villa of Herodes Atticus"
-date: 2020-07-20T14:24:59-04:00
 latlon: [ 37.377923, 22.656854 ]
 author: Annalisa Marzano
 editor: Jane Millar, Amartya Shri
+date: 2021-04-21
+modified: 2025-06-26
 draft: false
 ---
 
@@ -93,16 +94,3 @@ From the 2nd century CE until 400 CE
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
-
-## Contributor
-
-[Annalisa Marzano](https://www.reading.ac.uk/classics/about/staff/a-marzano.aspx) (ORCID: [0000-0002-6485-9143](https://orcid.org/0000-0002-6485-9143))
-
-## Publication date
-
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

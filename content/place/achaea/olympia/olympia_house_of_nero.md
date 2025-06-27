@@ -3,10 +3,11 @@ gre_id: "c6200cef9d"
 aliases: [/id/c6200cef9d]
 type: garden
 title: "House of Nero"
-date: 2020-07-27T08:53:14-04:00
 latlon: [ 37.637820, 21.631715 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
+date: 2021-04-21
+modified: 2025-06-26
 draft: false
 ---
 
@@ -95,16 +96,3 @@ mid-1st to 3rd century CE
 ## TGN ID
 
 - {{< id vocab="TGN" id="7011018" term="Olympia (deserted settlement)" >}}
-
-## Contributor
-
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
-
-## Publication date
-
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

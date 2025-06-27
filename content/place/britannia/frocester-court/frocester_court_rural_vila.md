@@ -10,9 +10,6 @@ editor: June Dorsch
 draft: false
 ---
 
-## Province Description
-
-
 ## Location
 
 [Frocester Court]({{<relref ".">}}) \

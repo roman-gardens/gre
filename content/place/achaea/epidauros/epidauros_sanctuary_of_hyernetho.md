@@ -3,10 +3,11 @@ gre_id: "4ac5538904"
 aliases: [/id/4ac5538904]
 type: garden
 title: "Sanctuary of Hyernetho"
-date: 2020-07-26T10:46:10-04:00
 latlon: [ 37.633775, 23.159638 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
+date: 2021-04-21
+modified: 2025-06-26
 draft: false
 ---
 
@@ -66,16 +67,3 @@ unspecified
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
-
-## Contributor
-
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
-
-## Publication date
-
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

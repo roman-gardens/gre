@@ -3,10 +3,11 @@ gre_id: "545e2e06a2"
 aliases: [/id/545e2e06a2]
 type: garden
 title: "Shrine of the Fates"
-date: 2020-07-26T12:42:56-04:00
 latlon: [ 37.919512, 22.623851 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
+date: 2021-04-21
+modified: 2025-06-26
 draft: true
 ---
 
@@ -97,16 +98,3 @@ BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 - {{< id vocab="Pleiades" id="570741" term="Titane" >}}
 
 <!--#### TGN ID-->
-
-## Contributor
-
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
-
-## Publication date
-
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

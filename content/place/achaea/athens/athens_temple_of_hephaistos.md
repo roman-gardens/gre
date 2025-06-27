@@ -7,7 +7,7 @@ latlon: [ 37.975646, 23.721409 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
 date: 2021-04-21
-modified: 2025-06-23
+modified: 2025-06-26
 draft: false
 ---
 
@@ -87,16 +87,3 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 ## TGN ID
 
 - {{< id vocab="TGN" id="5004159" term="Agorá (ancient site)" >}}
-
-## Contributor
-
-[Maureen Carroll](#) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
-
-## Publication date
-
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

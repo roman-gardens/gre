@@ -10,9 +10,6 @@ editor: June Dorsch, Jane Millar
 draft: false
 ---
 
-## Province Description
-
-
 ## Location
 
 [Bancroft]({{<relref ".">}})  
