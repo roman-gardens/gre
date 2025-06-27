@@ -65,10 +65,6 @@ Unspecified
 - E. Delaval, C. Bellon, J. Chastel, E. Plassot, L. Tranoy, *Vaise, un quartier de Lyon antique,* Document d’archéologie en Rhône-Alpes n° 5, Lyon, 1995. E. Plassot, Le quartier Saint-Pierre, la maison aux *xenia*, p. 71-129.  [(worldcat)](http://www.worldcat.org/oclc/1031979297)  
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="167717" term="Col. Lugdunum" >}}

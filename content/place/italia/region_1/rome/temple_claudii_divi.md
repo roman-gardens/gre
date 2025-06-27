@@ -3,10 +3,10 @@ gre_id: "f7427554d9"
 aliases: [/id/f7427554d9]
 type: garden
 title: "Gardens of the Temple of Claudii Divi, Rome"
-date: 2021-02-02T10:57:44-07:00
 latlon: [ 41.886952, 12.495084 ]
 author: Valerie Aymer
 editor: Rhiannon Paré
+date: 2021-04-15
 draft: true
 ---
 
@@ -82,10 +82,6 @@ The temple is set within eight L-shaped planting beds and fourteen rectangular p
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-## Periodo ID
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="695491849" term="Caelian Hill" >}}
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
@@ -95,16 +91,3 @@ The temple is set within eight L-shaped planting beds and fourteen rectangular p
 ## TGN ID
 - {{< id vocab="TGN" id="7000874" term="Rome (inhabited place)" >}}
 <!-- ID is for Location (Rome), not the individual garden -->
-
-## Contributor
-
-Valerie Aymer<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
-
-## ORCID
-
-<!-- [ORCID](https://orcid.org/ORCID) -->
-
-## Publication date
-15 APRIL 2021<!-- Format: dd MONTH_NAME yyyy -->
-
-<!-- DATE -->

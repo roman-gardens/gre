@@ -104,10 +104,6 @@ Flavian times（A.D 69–96）
 
 * J. M. Blázquez, “Los jardines en la Hispania Romana”, in *Historia de los Parques y Jardines en España*. Edita Grupo FCC, Madrid, 2001, p. 26. [(worldcat)](http://www.worldcat.org/oclc/1090911182)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="266036" term="Segobriga" >}}

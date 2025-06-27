@@ -3,10 +3,10 @@ gre_id: "18a75adaf8"
 aliases: [/id/18a75adaf8]
 type: garden
 title: "Porticus Liviae"
-date: 2021-03-16T23:53:09-07:00
 latlon: [ 41.891775, 12.486137 ]
 author: Elizabeth Macaulay, Holly Spoth-Torres
 editor: Joshua Rosenheim, Rhiannon Paré
+date: 2021-04-17
 draft: false
 ---
 
@@ -91,17 +91,3 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 
 - {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 <!-- Pleiades resource for Location (Roma), not for Porticus Liviae -->
-
-## Contributors
-
-[Elizabeth Macaulay](https://emacaulaylewis.com)\
-[Holly Spoth-Torres](https://huddleak.com/meet-the-team/) <!--Is this a good website for Spoth-Torres?-->
-
-## ORCID
-
-[Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
-<!--ORCID for Holly J. Spoth/Holly Spoth-Torres-->
-
-## Publication date
-
-17 April 2021

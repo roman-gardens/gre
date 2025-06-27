@@ -65,10 +65,6 @@ fourth century CE
 - M. H. Chéhab, *Fouilles de Tyr: La Necropole*. Paris: Bulletin du Musée de Beyrouth XXXIV (1984): 270-280. [(worldcat)](http://www.worldcat.org/oclc/490791677)
 - L. De Jong, “Performing Death in Tyre:  The Life and Afterlife of a Roman Cemetery in the Province of Syria. *AJA* 114.4 (Oct. 2010) pp. 597-630. [(jstor)](https://www.jstor.org/stable/25763804)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="678437" term="Tyrus/Col. Septimia Severa" >}}

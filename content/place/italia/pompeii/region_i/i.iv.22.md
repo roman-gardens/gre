@@ -49,10 +49,6 @@ Directly to the rear of the [atrium](http://vocab.getty.edu/page/aat/300004097),
 * Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 307, no. 29  (also incorrectly calls the garden a room)  
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 

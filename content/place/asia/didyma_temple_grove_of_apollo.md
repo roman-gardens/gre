@@ -89,10 +89,6 @@ Unspecified
 - B. Haussoullier, "le temple d'Apollon didymien" Revue de Philologie  22 (1898) 50-51.[(worldcat)](http://www.worldcat.org/oclc/1764078)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="599593" term="Didyma/Branchidai/Ioustinianopolis" >}}

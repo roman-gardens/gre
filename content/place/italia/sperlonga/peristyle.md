@@ -80,10 +80,6 @@ Unspecified
 
 -SALZA PRINA RICOTTI, *Sistemazione paesaggistica del fronte a mare e giardini nelle ville marittime di epoca romana*, in Giornate di studio in occasione del 250º anniversario degli Scavi di Stabia (in print), pp. 137-169. [worldcat](http://www.worldcat.org/oclc/469755044)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433204" term="Villa Tiberii" >}}

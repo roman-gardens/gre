@@ -92,10 +92,6 @@ unspecified
 - Trotter, *Ercolano*, pp. 51, 330-331 and fig. 258 (plan) on p. 474-475
 *(for reference to Bonucci’s brief and inaccurate account of the excavation of this house, as preserved by Ruggerio)* [(worldcat)]()
 
--
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Contributor
 

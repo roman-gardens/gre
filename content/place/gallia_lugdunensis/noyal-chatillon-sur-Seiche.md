@@ -95,10 +95,6 @@ Unspecified
 - Gilles Leroux, Alain Provost, CAG- Ille-et-vilaine (35), p. 270-274. [(worldcat)](http://www.worldcat.org/oclc/463616145)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="69488" term="Châtillon-sur-Seiche" >}}

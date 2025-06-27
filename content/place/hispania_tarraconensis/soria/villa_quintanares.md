@@ -73,10 +73,6 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 - Teógenes Ortego Frías, La villa romana de Los Quintanares, en el término de Rioseco de Soria, in IX Congreso Nacional de Arqueología. Valladolid. Valladolid, 1965, pp. 341-347. [(worldcat)](http://www.worldcat.org/oclc/892240885)
 - T. Ortego Frías, La villa romana de Los Quintanares, en el término de Rioseco (Soria), in  Segovia , Symposium de arqueología romana,. Publicaciones eventuales 27, Universidad de Barcelona, Barcelona, 1977, pp. 285-292. [(worldcat)](http://www.worldcat.org/oclc/802753312)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="614074944" term="614074944" >}}

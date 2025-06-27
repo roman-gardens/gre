@@ -89,10 +89,6 @@ Unspecified
 - J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, p. 144 [(worldcat)](http://www.worldcat.org/oclc/164233326)
 - P. Herrmann, *Tituli Lydiae linguis Graeca et Latina conscripti (Tituli Asiae Minoris V, 2)*. Vienna, 1989, 828c4.[(worldcat)](http://www.worldcat.org/oclc/886649239)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="550472" term="Attaleia" >}}

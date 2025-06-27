@@ -74,10 +74,6 @@ In the center of the building was a large open peristyle courtyard with a long p
 * J. Travlos, *Bildlexikon zur Topographie des antiken Athen.* Tübingen, 1971, pp. 244-252, figs. 316-318. [(worldcat)](http://www.worldcat.org/oclc/1024546553).
 * D. Willers, *Hadrians panhellenisches Programm: Archäologische Beiträge zur Neugestaltung Athens durch Hadrian.* Basel, 1990, pp. 14-21, figs. 1-2, pl. 1.3. [(worldcat)](http://www.worldcat.org/oclc/22880052).
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="728329644" term="Library of Hadrian at Athens" >}}

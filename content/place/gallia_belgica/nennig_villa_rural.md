@@ -70,10 +70,6 @@ Unspecified
 - P. Steiner, *Die römische Villa von Nennig*, Saarbrücken, 1955. [(worldcat)](http://www.worldcat.org/oclc/1073267042)
 - H. Mylius, "Die Rekonstruktion der römischen Villen von Nennig und Fliessem," *Bonner Jahrbuch* 129, 1924:110-120, fig. 1, pls. 4-5. [(worldcat)](http://www.worldcat.org/oclc/1075378207)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="109198" term="Nennig" >}}

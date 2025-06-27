@@ -74,10 +74,6 @@ unspecified
 * P. Rodriguez Oliva,*Anuario Arqueologico de Andalucia, 1986*, Direccion general de bienes culturales, (Sevilla, 1987), part II, 407 ff. [(worldcat)](http://www.worldcat.org/oclc/491540528)
 * Mª L. Loza Azuaga,‘La escultura de fuentes en Hispania: ejemplos de la Bética, *Actas de la I Reunión sobre escultura romana en Hispania*, (Mérida, 1993), 97-110.[(worldcat)](http://www.worldcat.org/oclc/884615852)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - [Benalroma]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="510567671" term="Benalroma" >}}

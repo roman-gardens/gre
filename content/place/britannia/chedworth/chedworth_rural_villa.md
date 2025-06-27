@@ -73,10 +73,6 @@ Late 19th century, 2000-2002
 * M. Carroll, Excavations at Chedworth Roman Villa by the University of Sheffield 2000-2002, in S. Esmonde Cleary, J. Wood and E. Durham (eds.), *Chedworth Roman Villa: Excavations and Re-Imaginings from the Nineteenth to the Twenty-First Centuries* Britannia Monograph Series 34. London: Society for the Promotion of Roman Studies (forthcoming).
 * R. Goodburn, *Chedworth Roman Villa*, London, 1996. [(worldcat)](http://www.worldcat.org/oclc/862309842)
 
-## Periodo ID
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="79383" term="Chedworth" >}}

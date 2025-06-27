@@ -73,10 +73,6 @@ Very few houses of Mediterranean type have been discovered, and only one can be 
 * A. Mócsy, *Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire*, London, 1974, p. 166, pl. 16b. [(worldcat)](http://www.worldcat.org/oclc/644823914)
 * H. Polenz and K. Póczy, *Das römische Budapest. Neue Ausgrabungen und Funde in Aquincum*, Münster, 1986, p. 124, fig. 47, pl. 10. [(worldcat)](http://www.worldcat.org/oclc/19741038)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="197130" term="Aquincum" >}}

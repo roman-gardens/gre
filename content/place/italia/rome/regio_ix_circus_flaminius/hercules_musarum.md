@@ -3,7 +3,7 @@ gre_id: "007c015ec1"
 aliases: [/id/007c015ec1]
 type: garden
 title: "Hercules Musarum"
-date: 2021-04-04T10:00:00-07:00
+date: 2021-04-17
 latlon: [ 41.891775, 12.486137 ]
 author: Elizabeth Macaulay, Linda Anderson
 editor: Joshua Rosenheim, Rhiannon Paré
@@ -92,17 +92,3 @@ Built between 187 and 179 BCE; restoration and portico constructed in Late Repub
 
 - {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 <!-- Pleiades resource for Location (Rome), not for the individual garden -->
-
-## Contributors
-
-[Elizabeth Macaulay](https://emacaulaylewis.com)\
-[Linda Anderson](#)<!--website for Linda Anderson?-->
-
-## ORCID
-
-[Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
-<!--ORCID for Linda Anderson-->
-
-## Publication date
-
-17 April 2021

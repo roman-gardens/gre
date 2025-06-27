@@ -79,10 +79,6 @@ The archaeologists working on the site have not produced a detailed sequence of 
 <!--### Bibliography
 - T. Hauschild and F. Teichner, Milreu Ruins, Roteiros de Arqueologia Portugese 9, Ministerio da Cultura, Lisboa, 2002. [(worldcat)](http://www.worldcat.org/oclc/927151602)-->
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="854718547" term="854718547" >}}

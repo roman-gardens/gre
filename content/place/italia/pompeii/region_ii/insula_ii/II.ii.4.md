@@ -47,10 +47,6 @@ B. The east [portico](http://vocab.getty.edu/page/aat/300004145) gave access to 
 W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.83.* [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
 Vittorio Spinazzola, 1910-1923, *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza, pp.376 (after map in which the garden is labelled hortus) 481 on pp.409-416, 418.*  
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
 

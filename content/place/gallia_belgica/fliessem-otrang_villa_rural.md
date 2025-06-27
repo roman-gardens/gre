@@ -71,10 +71,6 @@ Unspecified
 - E. M. Wightman, Roman Trier and the Treveri, London, 1970, pp. 143-145, fig. 15 [(worldcat)](http://www.worldcat.org/oclc/1001859813)
 - H. Cüppers, ed., Die Römer in Rheinland-Pfalz, Stuttgart,1990, pp. 367-371, figs. 264-265. [(worldcat)](http://www.worldcat.org/oclc/924024101)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="108982" term="Römische Villa Otrang" >}}

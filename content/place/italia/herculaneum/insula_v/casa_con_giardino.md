@@ -38,7 +38,6 @@ Casa con Giardino
 ## Keywords
 - {{< keyword "fauces" >}}
 
----
 
 ## Garden Description
 553.V.33
@@ -70,10 +69,6 @@ unspecified
 - Maiuri,Herculaneum, p. 52
 - Maiuri, Ercolano, p. 431 and fig. 374 (plan) on p. 431
 
--
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Contributor
 

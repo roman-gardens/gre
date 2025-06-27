@@ -74,10 +74,6 @@ Early second century CE to ca. 300 CE
 - W.J.H. Willems, "Die kaiserzeitliche Villa von Voerendaal", in *Spurensicherung. Archäologische Denkmalpflege in der Euregio Maas-Rhein*, Mainz, 1992, pp. 526-534, figs. 307-308. [worldcat](http://www.worldcat.org/oclc/884633203)
 - P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 363-365, fig. 155. [worldcat](http://www.worldcat.org/oclc/445007864)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="109442" term="Voerendaal" >}}

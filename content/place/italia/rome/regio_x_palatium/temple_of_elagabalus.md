@@ -3,7 +3,7 @@ gre_id: "9970d12455"
 aliases: [/id/9970d12455]
 type: garden
 title: "Gardens of the Temple of Elagabalus"
-date: 2021-02-19T16:52:54+01:00
+date: 2021-04-17
 latlon: [ 41.889306, 12.487109 ]
 author: Françoise Villedieu
 editor: Rhiannon Paré
@@ -109,11 +109,3 @@ c. 190- 240 CE
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="971691208" term="Palatinus Mons" >}}
-
-## Contributor
-
-Françoise Villedieu
-
-## Publication date
-
-17 April 2021

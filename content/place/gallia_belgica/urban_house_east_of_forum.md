@@ -74,10 +74,6 @@ Unspecified
 - W. Reusch, "Die Ausgrabungen im Westteil der Trierer Kaiserthermen", Bericht der Römisch-Germanischen Kommission 51-52,1970-71:252-270, 281, Beilage 30. [(worldcat)](http://www.worldcat.org/oclc/67721035)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="108894" term="Col. Augusta Treverorum" >}}

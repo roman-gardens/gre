@@ -75,10 +75,6 @@ Unspecified
 * Sogliano, *NSc* (1901), p.256 and fig. 1 (plan). [(worldcat)](http://www.worldcat.org/oclc/1091982220)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

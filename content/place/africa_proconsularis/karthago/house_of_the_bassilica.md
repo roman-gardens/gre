@@ -84,10 +84,6 @@ House of the Bassilica (Maison de la Bassilica)
 * Gauckler, P., *Compte rendu de la marche du service en 1903*, Tunis, 1904, pp. 16-17. [(worldcat)](http://www.worldcat.org/oclc/493647265)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="314921" term="Carthago" >}}

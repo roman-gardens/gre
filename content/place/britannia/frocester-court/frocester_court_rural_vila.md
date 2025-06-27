@@ -71,10 +71,6 @@ early 4th - 5th century CE
 * E. Price, Frocester. *A Romano-British Settlement, its Antecedents and Successors*, Gloucester, 2000. [(worldcat)](A Romano-British Settlement, its Antecedents and Successors)
 * R.J. Zeepvat, “Roman Gardens in Britain,” in: A.E. Brown, ed., *Garden Archaeology*. Council for British Archaaeology Research Report 78, London, 1991, pp. 53-56, fig. 5.2. [(worldcat)](http://www.worldcat.org/oclc/246578144)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="79471" term="Frocester" >}}

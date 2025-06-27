@@ -83,11 +83,6 @@ unspecified
 - Maiuri, *Herculaneum*, pp. 35-36 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
 - Maiuri, *Ercolano*, pp. 51, 272-274 and fig. 213 (plan) on p. 266;[(worldcat)](http://www.worldcat.org/oclc/490581395)
 - Sear, *Roman wall and vault mosaics* no. 26, pp. 66-67, calls the shrine a fountain.[(worldcat)](http://www.worldcat.org/oclc/871655330)
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-
 
 ## Contributor
 

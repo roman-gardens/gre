@@ -67,10 +67,6 @@ fourth century CE
 ## Bibliography
 - K. Butcher, *Roman Syria and the Near East,* Los Angeles: Getty Publications, 2003. 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="658405" term="Batnae/Markopolis" >}}

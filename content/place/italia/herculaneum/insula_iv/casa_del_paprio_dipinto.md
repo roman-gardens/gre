@@ -82,10 +82,6 @@ unspecified
 - Maiuri, *Herculaneum*, pp. 32 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
 - Maiuri, *Ercolano*, pp. 424 and fig. 365 (plan) on p. 424. [(worldcat)](http://www.worldcat.org/oclc/490581395)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Contributor
 
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)

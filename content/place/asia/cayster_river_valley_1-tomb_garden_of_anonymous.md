@@ -87,10 +87,6 @@ Unspecified
 - J. Keil and A. von Premerstein, Bericht über eine dritte Reise in Lydien. Vienna, 1914, no. 112 [(worldcat)](http://www.worldcat.org/oclc/604130286)
 - J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, p. 145. [(worldcat)](http://www.worldcat.org/oclc/164233326)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="550492" term="Cayster (river)" >}}

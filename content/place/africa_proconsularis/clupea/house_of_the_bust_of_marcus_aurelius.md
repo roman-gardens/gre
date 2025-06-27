@@ -80,10 +80,6 @@ Built over an older establishment, the house presents two main phases.  The main
 - Ennabli, A., "Rapport préliminaire de la fouille de la villa romaine de Kelibia", in *Africa*, 3 (1969-70), pp. 239-41.
 - Lassère, J.-M., Slim, H., *Maisons de Clupea. Les maisons de l’Ecole de pêche*, Paris, 2010, pp. 67-148. [(worldcat)](http://www.worldcat.org/oclc/701795957)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="314892" term="Aspis/Clipea" >}}
 

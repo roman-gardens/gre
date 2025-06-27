@@ -48,10 +48,6 @@ This garden restaurant was strategically located across from the Palaestra. This
 - Della, Corte M. 1954. *Case Ed Abitanti Di Pompei. Pompei-scavi:*. [worldcat](http://www.worldcat.org/oclc/878618392)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="425769173" term="425769173" >}}

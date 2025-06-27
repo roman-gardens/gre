@@ -58,10 +58,6 @@ When Vignon returned to the site thirteen years later, the underground chamber c
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="990721366" term="Funerary Chamber of Manlia Felicitas" >}}

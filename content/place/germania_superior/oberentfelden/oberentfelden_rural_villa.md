@@ -78,10 +78,6 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 * R. Fellmann, *La Suisse gallo-romaine. Cinq siècles d’histoire*, Lausanne, 1992, pp. 152, 154, fig. 105. [(worldcat)](http://www.worldcat.org/oclc/28038264)
 * M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 75, fig. 34. [(worldcat)](http://www.worldcat.org/oclc/1120840822)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="177596" term="Oberentfelden" >}}

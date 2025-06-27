@@ -94,10 +94,6 @@ unspecified
 * D. Vaquerizo and J. M. Noguera,*La villa romana de El Ruedo (Almedinilla, Córdoba): Decoración escultórica e interpretación*, Diputación Provincial de Córdoba-Universidad de Córdoba-Universidad de Murcia (Murcia 1997). [(worldcat)](http://www.worldcat.org/oclc/1024361591)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - [El Ruedo]({{<relref ".">}}) 

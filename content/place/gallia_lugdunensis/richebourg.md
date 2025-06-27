@@ -85,10 +85,6 @@ Unspecified
 - Y. Barat and D. Morize, L’archéologie des jardins antiques: le cas de la *pars urbana* de la *villa* de Richebourg (Yvelines) in *Actualité de la Recherche en Histoire et Archéologie agraires, Annales Littéraires de L’Université de Franche-Comté,* 764, Besançon, 2003.  [(worldcat)](http://www.worldcat.org/oclc/243748592)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="108778" term="Autricum" >}}

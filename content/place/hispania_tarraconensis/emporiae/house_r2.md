@@ -110,10 +110,6 @@ House R2, situated south of House R1 in the area of the forum of the Roman City 
 <!---doesn't have ## Bibliography-->
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="246382" term="Emporiae" >}}
 

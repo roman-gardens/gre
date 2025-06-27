@@ -54,10 +54,6 @@ Unspecified
 - J. M. C. Toynbee, *Death and Burial in the Roman World*,  Print book : English : Hopkins pb. ed., 96 and n. 312. [worldcat](https://www.worldcat.org/title/death-and-burial-in-the-roman-world/oclc/833003812&referer=brief_results)
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian, BCom 92 (1987-88) [1989] 180 n. 37. [worldcat](https://www.worldcat.org/title/horti-sepulchrales-e-cepotaphia-nelle-iscrizioni-urbane/oclc/886794800&referer=brief_results)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="93042695" term="Via Latina" >}}

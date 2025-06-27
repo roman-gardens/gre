@@ -72,10 +72,6 @@ Hellenistic
 - D. Levi, *Antioch Mosaic Pavements,* Princeton: Princeton University Press, 1947, pp. 326-337, pl. 79-80
 - E. Weber,  *Tabula Peutingeriana: Codex Vindobanensis 324,* Graz: Akademische Druck- u. Verlagsanstalt, 1976, p. 18.
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="658381" term="Antiochia/Theoupolis" >}}

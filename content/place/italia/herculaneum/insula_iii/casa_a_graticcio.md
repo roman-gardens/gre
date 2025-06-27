@@ -80,10 +80,6 @@ unspecified
 - Maiuri, *Herculaneum*, pp. 32-33 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
 - Maiuri, *Ercolano*, pp. 412-413 and fig. 345 (plan) on p. 407  [(worldcat)](http://www.worldcat.org/oclc/490581395)
 
--
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Contributor
 

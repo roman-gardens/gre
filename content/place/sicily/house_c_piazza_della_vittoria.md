@@ -74,10 +74,6 @@ There is a rectangular tank or fountain set against the rear wall of a small int
 ## Bibliography
 R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, p. 127 with references, and p. 121, fig. 109.8. [(worldcat)](http://www.worldcat.org/oclc/608028740)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="462410" term="Pan(h)ormus" >}}

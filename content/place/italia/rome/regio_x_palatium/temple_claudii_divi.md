@@ -3,7 +3,7 @@ gre_id: "36b18899b0"
 aliases: [/id/36b18899b0]
 type: garden
 title: "Gardens of the Temple of the Divine Claudius"
-date: 2021-02-02T10:57:44-07:00
+date: 2021-04-15
 latlon: [ 41.886952, 12.495084 ]
 author: Valerie Aymer
 editor: Rhiannon Paré
@@ -78,15 +78,3 @@ unspecified
 ## TGN ID
 
 - {{< id vocab="TGN" id="7000874" term="Rome (inhabited place)" >}}
-
-## Contributor
-
-Valerie Aymer<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
-
-## ORCID
-
-<!-- [ORCID](https://orcid.org/ORCID) -->
-
-## Publication date
-
-15 APRIL 2021

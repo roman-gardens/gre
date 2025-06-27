@@ -3,7 +3,7 @@ gre_id: "e8b3c44463"
 aliases: [/id/e8b3c44463]
 type: garden
 title: "House of Asinius Rufinus (Maison d'Asinius Rufinus)"
-date: 2020-10-01T07:38:05-07:00
+date: 2021-04-21
 latlon: [ 35.079643, 11.020606 ]
 author: Amina-Aïcha Malek
 editor: Yuming Huang
@@ -81,10 +81,6 @@ mid 2nd century CE
 - Gozlan, S., Jeddi, N., Blanc-Bijon, V., Bourgeois, A., *Recherches archéologiques franco-tunisiennes à Acholla. II - Les mosaïques des maisons du quartier central et les mosaïques éparses* (Collection de l’EFR), Rome, INAA – EFR, 2001, p. 19-28, plan Pl. II. [(worldcat)](http://www.worldcat.org/oclc/46598604)
 - Rebuffat, R., *Maisons à péristyle d’Afrique du Nord, Répertoire de plans publiés*, II, MEFRA, tome 86, 1974-1, p.454. [(worldcat)](http://www.worldcat.org/oclc/1069174087)
 
-
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="324653" term="Acholla" >}}

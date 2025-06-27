@@ -78,10 +78,6 @@ This house is the most important dwelling discovered to date at Utica. The large
 * Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp. 1-18, plans 1, 2. [(worldcat)](http://www.worldcat.org/oclc/905773599)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="315248" term="Utica" >}}

@@ -92,10 +92,6 @@ The 4th century A.D
 * J. Barrera Antón (De), “El trabajo estucado en «Augusta Emerita»: los grandes frisos de la casa romana del solar del Museo”, in *Extremadura Arqueológica,  (Homenaje a la Dra Dª Milagro Gil Mascarell Boscá)*, 5(1995): 221-223. [(worldcat)](http://www.worldcat.org/oclc/34430232)
 * J. Hernández Ramírez, *La pintura mural romana de Mérida. (Inserta en la estructura urbana y doméstica de la ciudad)*, UNED (unpublished doctoral disertation), 1993, pp. 1380-1506.
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="256155" term="Emerita Augusta" >}}

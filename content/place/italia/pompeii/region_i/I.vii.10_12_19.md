@@ -131,10 +131,6 @@ Excavated 1912 and 1925.
 * Soprano, P. 1950, *'I triclini all’aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 295, no. 5 and fig. 31 on p. 296.   
 * Zanker, P. 1998. *Pompeii: Public and Private Life*, pp. 500-501.  
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

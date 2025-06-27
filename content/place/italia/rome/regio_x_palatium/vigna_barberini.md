@@ -3,10 +3,10 @@ gre_id: "b50312a60b"
 aliases: [/id/b50312a60b]
 type: garden
 title: "Vigna Barberini"
-date: 2021-04-04T21:57:14+02:00
 latlon: [ 41.889306, 12.487109 ]
 author: Françoise Villedieu
 editor: Rhiannon Paré
+date: 2021-04-17
 draft: false
 ---
 
@@ -86,11 +86,3 @@ PHASES OF THE VIGNA BARBERINI SITE:
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="971691208" term="Palatinus Mons" >}}
-
-## Contributor
-
-Françoise Villedieu<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
-
-## Publication date
-
-17 April 2021

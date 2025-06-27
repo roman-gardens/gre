@@ -62,8 +62,6 @@ probably the first or second century
 
 * J. Kubińska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure.* Warsaw, 1968, pp. 146-47. [(worldcat)](http://www.worldcat.org/oclc/923470105)
 
-<!--#### Periodo ID-->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="540701" term="Chaeronea" >}}

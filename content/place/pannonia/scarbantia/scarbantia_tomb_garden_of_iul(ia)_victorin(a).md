@@ -69,10 +69,6 @@ A limestone funerary stele of probably third century date unearthed in 1973 near
 * *AE* 1973, 433.
 * *Epigraphische Datenbank Heidelberg* HD011378.
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="197501" term="Scarbantia" >}}

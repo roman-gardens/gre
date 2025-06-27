@@ -90,10 +90,6 @@ unspecified
 - Michel, pp. 402-403;Neuerburg, p. 136, no. 41
 - Sear, pp. 95-96.
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Contributor
 
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)

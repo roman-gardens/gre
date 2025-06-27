@@ -85,10 +85,6 @@ The Palace Fortress is a cylindrical structure originally seven stories high (tw
 [worldcat](https://www.worldcat.org/title/herodium-final-reports-of-the-1972-2010-excavations-directed-by-ehud-netzer/oclc/907827917&referer=brief_results)
 * D. Langgut, M. Cavanagh , R. Evyasaf, Y. Korman, R. Porat, G. Stiebel., K. Gleason. "The reconstruction of Herod the Great’s palatial gardens in Herodium: a botanical perspective", In: Chachy R, Kalman Y, and Porat R (eds.), "Lower Herodium," in  HERODIUM II;  Final Reports of the 1972-2010 Excavations Directed by Ehud Netzer, Jerusalem. In press  
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="687916" term="Herodeion" >}}

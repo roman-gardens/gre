@@ -77,10 +77,6 @@ G. M. Bacci, Scavi e ricerche a Avola, Grammichele, Portopalo, Taormina, Kokalos
 R. J. A. Wilson, Archaeological Reports 34 (1987–88):  115, fig. 6 [(worldcat)]()
 id., Sicily under the Roman Empire, Warminster, 1990, pp. 197–8  with fig. 165.1. [(worldcat)](http://www.worldcat.org/oclc/608028740)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="462503" term="Syracusae/Syrakousai" >}}

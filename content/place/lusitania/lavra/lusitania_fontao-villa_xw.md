@@ -76,10 +76,6 @@ The remains of a large villa were discovered in 1900 under an abandoned Benedict
 - J. de C. Serra Rafols, ‘A propósito de la villa de La Cocosa. Rectificación.’ In Archivo Español de Arqueología, XXVI. CSIC, Madrid, 1953, p. 302. [(worldcat)](http://www.worldcat.org/oclc/1122498001)
 - J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](http://www.worldcat.org/oclc/803415143)-->
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="532133456" term="532133456" >}}

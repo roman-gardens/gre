@@ -84,10 +84,6 @@ This late-imperial domus was discovered by J. Ramón Mélida while excavating th
 * R. Durán Cabello, ‘La técnica constructiva de la llamada ‘Casa Basílica’ de Mérida’, in *La casa urbana hispanorromana : ponencias y comunicaciones.*, 1991, pp. 359-69. [(worldcat)](http://www.worldcat.org/oclc/434540010)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="256155" term="Emerita Augusta" >}}

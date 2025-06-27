@@ -80,10 +80,6 @@ G. V. Gentili, La villa romana di Piazza Armerina Palazzo Erculio, Osimo, 1 (199
 
 R. J. A. Wilson, in G. C. M. Jansen (ed.), Cura aquarum in Sicilia: Proceedings of the Tenth International Congress on the History of Water Management and Hydraulic Engineering in the Mediterranean Region, Syracuse, May 16–22, 1998 [Bulletin Antieke Beschaving Supplement 5], Leiden: Stichtung BABesch 2000 [publ. 2001]: 22–23).[(worldcat)](http://www.worldcat.org/oclc/47203187)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 [(H)Enna](https://pleiades.stoa.org/places/462236/)

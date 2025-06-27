@@ -89,10 +89,6 @@ The end of the Augustan period
 *  J. Mª.  Álvarez Martinez, J. L. de la Barrera Antón and A. Velázquez Jiménez, *Mérida* (Turismo Everest), León, 1995, p. 54. [(worldcat)](http://www.worldcat.org/oclc/433607571)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="256155" term="Emerita Augusta" >}}

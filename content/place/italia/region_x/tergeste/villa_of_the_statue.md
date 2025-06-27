@@ -94,10 +94,6 @@ NEW WAY ↓↓↓↓
 *  M. De Franceschini, 1998, *Le ville romane della X regio: Venetia et Histria. Catalogo e carta archeologica dell’insediamento romano nel territorio, dall’età repubblicana al tardo impero*, Roma.[(worldcat)](http://www.worldcat.org/oclc/1071842281)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="187578" term="Tergeste" >}}

@@ -115,10 +115,6 @@ Beginning of the 1st c. CE - beginning of the Vth century
 
 <span style="color:red"> No bibliography listed </span>
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}

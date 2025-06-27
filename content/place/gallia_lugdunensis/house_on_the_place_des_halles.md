@@ -71,10 +71,6 @@ Unspecified
 - Service  Régional  de  l’Archéologie  des  Pays  de  la  Loire,  *La  Sarthe,*  72,  CAG p. 318-319,  plan  p. 318. [(worldcat)](http://www.worldcat.org/oclc/316192643)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="109236" term="Ouindinon/Subdinnum" >}}

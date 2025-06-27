@@ -55,10 +55,6 @@ W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed
 Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 1986, *Corpus topographicum Pompeianum Pars IIIA, p.40-41* [(worldcat)](https://www.worldcat.org/title/corpus-topographicum-pompeianum/oclc/8667821)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
 

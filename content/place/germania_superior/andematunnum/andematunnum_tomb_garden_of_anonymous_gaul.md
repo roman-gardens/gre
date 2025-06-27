@@ -81,10 +81,6 @@ unspecified
 * *FIRA* III 49.
 * J.-J. Hatt, *La tombe gallo-romaine* (Paris 1951) 65-84. [(worldcat)](http://www.worldcat.org/oclc/561069313)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="177441" term="Andematunnum" >}}

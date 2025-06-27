@@ -80,10 +80,6 @@ unspecified
 * J. M. Blázquez, ‘Los jardines en la Hispania Romana,’ *Historia de los Parques y Jardines en España*, Diputación Provincial de Córdoba-Edita Grupo FCC (Madrid 2001). [(worldcat)](http://www.worldcat.org/oclc/1090911182)
 * J.-G. Gorges, *Les villas hispano-romaines: Inventaire et Problématique Archéologiques* (Publications du Centre Pierre Paris IV). Paris: de Boccard, 1979, 241. [(worldcat)](http://www.worldcat.org/oclc/461777678)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - [El Santiscal]({{<relref ".">}}) 

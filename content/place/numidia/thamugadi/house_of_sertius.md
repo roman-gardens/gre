@@ -83,10 +83,6 @@ This large *domus* the result of the combining of two houses, is located at the 
 * Lassus, J., "Une opération immobilière à Timgad", in *Mélanges d’archéologie et d’histoire offerts à André Piganiol*, Paris, 1966, pp. 1221-1231. [(worldcat)](http://www.worldcat.org/oclc/419236627)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}

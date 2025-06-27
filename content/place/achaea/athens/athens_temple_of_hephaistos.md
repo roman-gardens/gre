@@ -76,10 +76,6 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 * M. Carroll, "The sacred places of the immortal ones: ancient Greek and Roman sacred groves," in J. Woudstra and C. Roth (eds.), *A History of Groves.* London: Routledge, 2018: 22-23, fig 1.4. [(worldcat)](http://www.worldcat.org/oclc/1012849097).
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="558659669" term="Hephaisteion" >}}

@@ -78,10 +78,6 @@ unspecified
 * Mª L. Loza Azuaga,'La escultura de fuentes en Hispania: ejemplos de la Bética,'*Actas de la I Reunión sobre escultura romana en Hispania*, T. Nogales Basarrate, ed. (Mérida 1993) 103. [(worldcat)](http://www.worldcat.org/oclc/884615852)
 * E. Arcos von Haartman, A. Alvarez Rubiera, ‘Análisis de la naturaleza, estructura y tecnología del conjunto de mosaicos de la villa romana del Cortijo Auta (Riogordo), villa romana del Cortijo Vila (Alameda) y del ninfeo romano de Carnicería de los Moros (Antequera),’ *Mainake  No. 10*, (Malaga 1988), 159-80. [(worldcat)](http://www.worldcat.org/oclc/806736187)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - [Villa del Cortijo de los Vila at Alameda]({{<relref ".">}}) 

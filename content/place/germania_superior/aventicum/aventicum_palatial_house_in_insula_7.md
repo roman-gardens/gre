@@ -84,10 +84,6 @@ Severnan Period - Middle of 3rd century
 * J. Morel, “Avenches, Palais de Derrière la Tour,” *Bull. de l’Association Pro Aventico* 37, 1995: 206-209, fig. 4.[(worldcat)](http://www.worldcat.org/oclc/716573918)
 * J. Morel, “L’habitat,” in : A. Hochuli-Gysel, ed., Avenches, capitale des Helvètes, *Archéologie Suisse* 24.1 2001: 47-49, fig. 62.[(worldcat)](http://www.worldcat.org/oclc/718693183)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="177495" term="Aventicum" >}}

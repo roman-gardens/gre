@@ -79,10 +79,6 @@ The houses were excavated around 1940, at a time when there was no thought of re
 - J. Alarcão and R. Etienne, “Les jardins a Conimbriga (Portugal)” in Ancient Roman Gardens, Dumbarton Oaks Colloquium on the History of Landscape Architecture,no. 7. 1979, E. B. MacDougall and W. F. Jashemski eds.  Washington, D. C., 1981, pp. 67-80. [(worldcat)](http://www.worldcat.org/oclc/495350071)
 - V. Hipólito Carreia, Conimbriga, Guide to the Ruins, Instituto Portugués de Museus, 2006. [(worldcat)](http://www.worldcat.org/oclc/927151602)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="236443" term="Conimbriga" >}}

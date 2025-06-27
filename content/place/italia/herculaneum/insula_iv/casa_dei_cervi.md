@@ -42,7 +42,7 @@ Casa dei Cervi
 - {{< keyword "porticoes" >}}
 - {{< keyword "puteals" >}}
 - {{< keyword "pergolas" >}}
----
+
 
 ## Garden Description
 545.IV.21
@@ -79,20 +79,3 @@ unspecified
 - Maiuri, “Fanciullo erote da Ercolano, Le Arti (1943), pp. 175-179
 - Maiuri, Herculaneum,p. 64
 - Maiuri, Ercolano, pp. 320, 323.
-
--
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-## Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
-
-## Publication date
-
-
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

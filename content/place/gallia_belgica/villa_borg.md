@@ -86,10 +86,6 @@ Unspecified
 - J. Wiethold, "Kontinuität und Wandel in der landwirtschaftlichen Produktion und Nahrungsmittelversorgung zwischen Spätlatènezeit und gallo-römischer Epoche. Archäobotanische Analysen in der Großvillenanlage von Borg, Krs. Merzig-Wadern", in: A. Haffner & S. Schnurbein (eds.), Kelten, Germanen und Römer im Mittelgebirgsraum zwischen Luxemburg und Thüringen. Akten des Internationalen Kolloquiums zum DFG-Schwerpunktprogramm "Romanisierung" in Trier vom 28. bis 30. September 1998. Kolloquien zur Vor- und Frühgeschichte 5 (Bonn 2000) 147-159. [(worldcat)](http://www.worldcat.org/oclc/891994550)
 - B. Birkenhagen, Die Römische Villa Borg. Ein Begleiter durch die Anlage (Merzig 2004).[(worldcat)](http://www.worldcat.org/oclc/178935672)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="272861914" term="Borg Roman villa" >}}

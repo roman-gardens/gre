@@ -81,10 +81,6 @@ M. Aoyagi, Ripresa eegli scavi nella villa romana di Realmonte, Kokalos 26–27 
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 [Durrueli di Realmonte](https://pleiades.stoa.org/places/462188/)

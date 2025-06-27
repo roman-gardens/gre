@@ -76,10 +76,6 @@ AD 71
 * H. Bögli and D. Weidmann, "Nouvelles recherches à Aventicum," *Archäologie der Schweiz* 2, 1978:71-72, fig. 2.[(worldcat)](http://www.worldcat.org/oclc/891764106)
 * A. G. McKay, *Houses, Villas and Palaces in the Roman World*, London, 1975, pp. 202-203, fig. 186. [(worldcat)](http://www.worldcat.org/oclc/901557900)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="177495" term="Aventicum" >}}

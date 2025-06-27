@@ -77,10 +77,6 @@ The large number of objects of daily life found in the ruins, some under toppled
 ## Bibliography
 - Mª C. Fernández Castro, Las llamadas "Termas" de Rielves (Toledo), in Archivo Español de Arqueología, L-LI. CSIC, Madrid, 1978, pp. 209-251. [(worldcat)](http://www.worldcat.org/oclc/1122498001)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="266044" term="El Solao" >}}

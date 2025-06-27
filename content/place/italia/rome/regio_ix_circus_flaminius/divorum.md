@@ -3,7 +3,7 @@ gre_id: "864b23466d"
 aliases: [/id/864b23466d]
 type: garden
 title: "Divorum"
-date: 2021-03-31T10:00:00-07:00
+date: 2021-04-17
 latlon: [ 41.894698, 12.478022 ]
 author: Valerie Aymer, Kathryn Gleason
 editor: Joshua Rosenheim, Rhiannon Paré
@@ -75,17 +75,3 @@ From the northern *exedra*, a water [channel](http://vocab.getty.edu/page/aat/30
 
 - {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 <!-- Pleiades resource for Location (Rome), not for the individual garden -->
-
-## Contributors
-
-[Valerie Aymer](https://landscape.cals.cornell.edu/people/valerie-aymer/)\
-[Kathryn Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)<!--Will these Cornell links suffice?-->
-
-## ORCID
-
-[Valerie Aymer (0000-0003-2609-0086)](https://orcid.org/0000-0003-2609-0086)\
-[Kathryn Gleason (0000-0001-6260-8378)](https://orcid.org/0000-0001-6260-8378)
-
-## Publication date
-
-17 April 2021

@@ -89,10 +89,6 @@ C. The north [peristyle](http://vocab.getty.edu/page/aat/300080971) garden belon
 * Ward-Perkins, J. and Claridge, A. 1976. *Pompeii A.D. 79*, no. 83  
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="222138654" term="Regio I, Pompeii" >}}
 

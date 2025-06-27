@@ -64,10 +64,6 @@ unspecified
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="224658205" term="House of the Triclinium at Italica" >}}
 

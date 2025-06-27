@@ -75,10 +75,6 @@ unspecified
 * G. B. Brusin, *Inscriptiones Aquileiae*, Udine 1991-1993, no. 192.[(worldcat)](http://www.worldcat.org/oclc/603656316)
 * S. Panciera, *Libitina e dintorni : Libitina e i luci sepolcrali*, Rome 2004, nn. 17-31. [(worldcat)](http://www.worldcat.org/oclc/849004166)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="187290" term="Aquileia" >}}

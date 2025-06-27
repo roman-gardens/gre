@@ -86,10 +86,6 @@ unspecified
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - [Igabrum/Egabrum]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="265919" term="Igabrum/Egabrum" >}}

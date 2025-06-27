@@ -74,10 +74,6 @@ Unspecified
 ## Bibliography
 - H. Cüppers, ed., Die Römer in Rheinland-Pfalz, Stuttgart, 1990, pp. 317-319, figs. 156, 199. [(worldcat)](http://www.worldcat.org/oclc/924024101)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="108784" term="Bad Dürkheim" >}}

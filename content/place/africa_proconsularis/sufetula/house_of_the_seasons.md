@@ -82,10 +82,6 @@ House of the Seasons (La maison des Saisons)
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="324816" term="Sufetula" >}}

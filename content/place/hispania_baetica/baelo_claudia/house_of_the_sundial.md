@@ -84,10 +84,6 @@ unspecified
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - [House of the Sundial at Baelo]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="510567670" term="House of the Sundial at Baelo" >}}

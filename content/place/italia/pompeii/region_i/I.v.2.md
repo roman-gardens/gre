@@ -84,10 +84,6 @@ Excavated 1873-1874.
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, plate 32  
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

@@ -52,10 +52,6 @@ PompeiiinPictures, 2018, *II.1.11 Pompeii. Large garden yard. Linked to II.1.12.
 PompeiiinPictures, 2018, *II.1.12 Pompeii. Complesso dei Riti magici or Magic Rites Complex or Casa di Biria, Sibilla pompeiana or Officina Magica of Sextilius Pyrricus.* [(PompeiiinPictures)](https://pompeiiinpictures.com/pompeiiinpictures/R2/2%2001%2012.htm)  
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
 

@@ -57,10 +57,6 @@ Reign of Domitian (ca. 85 CE) to the reign of Diocletian (284-305 CE)
 ## Bibliography
 None
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - [Germania Inferior]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981524" term="Germania Inferior" >}}

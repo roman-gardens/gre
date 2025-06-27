@@ -83,10 +83,6 @@ Early 1990s
 * *CIL* IV.10345 (for amphoras found in the garden February, 1953).
 * DeVos, “Scavi nuovi sconoscuti (1.9.13),” *Meded* 38 (1976), pl. 35 (plan).
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

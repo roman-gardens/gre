@@ -38,7 +38,7 @@ Forum Baths
 ## Keywords
 - {{< keyword "palaestrae" >}}
 - {{< keyword "porticoes" >}}
----
+
 
 ## Garden Description
 555.VI.1/7/8/10.
@@ -71,10 +71,6 @@ unspecified
 - Maiuri,Herculaneum, p. 40
 - Maiuri, Ercolano, pp. 91, 100-102 and fig. 68 (plan) on p. 92
 - Ruggiero, Ercolano, p. 654 and pl. 12, where the garden is no. 55 on the plan.
-
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Contributor
 

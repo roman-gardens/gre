@@ -87,10 +87,6 @@ House of the Planters (Maison aux jardinières)
 * Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](http://www.worldcat.org/oclc/23396951)
 *  Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 37. [(worldcat)](http://www.worldcat.org/oclc/643640586)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}

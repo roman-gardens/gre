@@ -66,10 +66,6 @@ Unspecified
 - H. G. Horn, ed., *Die Römer in Nordrhein-Westfalen*, Stuttgart, 1987, pp. 361-63, figs. 306-308. [(worldcat)](http://www.worldcat.org/oclc/456209115)  
 - P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule.* Suppl. Gallia 51, Paris, 1992, pp. 192-193, fig. 5. [(worldcat)](http://www.worldcat.org/oclc/407704732)  
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="981524" term="Germania Inferior" >}}

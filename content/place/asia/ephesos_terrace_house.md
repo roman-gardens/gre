@@ -100,10 +100,6 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 - C. Kearns, “Visual representations of gardens: diachronic perspectives on the art of landscape,” In ed. K. Gleason, *Cultural History of Gardens*, London. 2013. pp. 164-165. [(worldcat)](http://www.worldcat.org/oclc/968338784)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="599612" term="Ephesus/Arsinoe(ia)" >}}

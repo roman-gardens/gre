@@ -1,7 +1,7 @@
 ---
 gre_id: "b134587b51"
 aliases: [/id/b134587b51]
-
+type: garden
 title: "VIII.2.3. House of Championnet II"
 date: 2021-03-22T00:10:10-04:00
 latlon: [ 40.74842, 14.48479 ]

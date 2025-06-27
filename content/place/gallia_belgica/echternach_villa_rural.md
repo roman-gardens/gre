@@ -71,10 +71,6 @@ Unspecified
 ## Bibliography
 - J. Metzler, J. Zimmer and L. Bakker, *Ausgrabungen in Echternach*, Luxembourg, 1981; P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 350-353, figs. 145-146. (worldcat)](http://www.worldcat.org/oclc/905778589)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="108955" term="Epternacus" >}}

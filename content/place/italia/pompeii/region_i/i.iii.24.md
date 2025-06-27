@@ -52,10 +52,6 @@ At the rear of the house, excavated in 1868, there was a [peristyle](http://voca
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://www.worldcat.org/title/codex-topographicus-pompeianus-1937-1957-and-undated/oclc/974375313&referer=brief_results), nos. 54  
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 

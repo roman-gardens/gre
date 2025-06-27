@@ -77,10 +77,6 @@ Vittorio Spinazzola, 1910-1923, *Pompei alla luce degli Scavi Nuovi di Via dell'
 Thomas D. Price and A. W. Van Buren, 1935, *'The House of Marcus Loreius Tiburtinus at Pompei', In MAAR 12, pp.151-153 and pls. 11-13.*  
 Paul Zanker, 1998, *Pompeii: Public and Private Life, pp.477-480.*
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
 

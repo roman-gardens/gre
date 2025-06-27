@@ -99,10 +99,6 @@ Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="205387552" term="House of Julia Felix" >}}

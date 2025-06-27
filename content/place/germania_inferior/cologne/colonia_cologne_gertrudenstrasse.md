@@ -67,10 +67,6 @@ Middle of the first century CE until the fourth century CE
 ## Bibliography
 - R. Thomas, *Römische Wandmalerei in Köln*, Mainz, 1993, pp. 321-327, figs. 138-39. [(worldcat)](http://www.worldcat.org/oclc/30330730)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="108751" term="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}

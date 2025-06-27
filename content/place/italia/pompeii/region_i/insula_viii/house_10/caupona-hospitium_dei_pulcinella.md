@@ -80,10 +80,6 @@ unspecified
 * Jashemski, *Gardens*, vol.II, pp. 42-43. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Maiuri, *RM* (1953-54), pp. 89-91 (the house is erroneously numbered I.v.10) on the plan, fig, 1.
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

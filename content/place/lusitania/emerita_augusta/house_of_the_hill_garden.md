@@ -73,10 +73,6 @@ The end of the 2nd or early 3rd century AD
 
 *  A. Blanco Freijeiro, *Corpus de mosaicos romanos de España*, 1(1978):  48-49. [(worldcat)](http://www.worldcat.org/oclc/801845218)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="256155" term="Emerita Augusta" >}}

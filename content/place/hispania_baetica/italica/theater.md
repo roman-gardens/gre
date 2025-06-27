@@ -70,10 +70,6 @@ unspecified
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - [2224658206]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="224658206" term="224658206" >}}

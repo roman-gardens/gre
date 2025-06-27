@@ -92,10 +92,6 @@ last quarter of the 1st century BCE and later
 * M. Carroll, "The sacred places of the immortal ones: ancient Greek and Roman sacred groves," in J. Woudstra and C. Roth (eds.), *A History of Groves.* London: Routledge, 2018: 28. [(worldcat)](http://www.worldcat.org/oclc/1012849097).
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="531013" term="Nicopolis" >}}

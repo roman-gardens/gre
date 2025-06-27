@@ -92,10 +92,6 @@ NOT FOUND
 - Ennaifer, M., *La cité d’Althiburos et l’édifice des Asclepeia*, Ministère des Affaires Culturelles, Tunis, 1976, pp. 71-152, plan III-IV. [(worldcat)](http://www.worldcat.org/oclc/963483765)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="324664" term="Althiburos" >}}
 

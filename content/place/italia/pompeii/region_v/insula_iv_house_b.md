@@ -75,10 +75,6 @@ When the excavation work reached the northeast corner of this house in 1901, a s
 * Soprano, p. 299, no. 11.
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

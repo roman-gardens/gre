@@ -80,10 +80,6 @@ Unspecified
 
 - H. Lehner, *Vetera. Die Ergebnisse der Ausgrabungen des Bonner Provinzialmuseums bis 1929.* Römisch-Germanische Forschungen 4, Berlin, 1930, pp. 52-60, figs. 38-41. [worldcat](http://www.worldcat.org/oclc/884633203)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="108867" term="Castra Vetera" >}}

@@ -88,10 +88,6 @@ Excavated 1911-1929.
 * Spinazzola, V. 1910-1923, *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, pp. 121-122, 442, 444-445, 451, 453. [(worldcat)](http://www.worldcat.org/oclc/883858580)  
 * Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 16.  
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

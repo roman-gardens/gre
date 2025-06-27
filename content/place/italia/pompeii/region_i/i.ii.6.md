@@ -49,10 +49,6 @@ The west portico of the small peristyle garden at the rear of the house was ente
 * Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 11
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 

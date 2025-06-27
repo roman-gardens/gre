@@ -99,10 +99,6 @@ The end of the 1st to the 4th century AD
 
 *   LL. Abad Casal, “Pintura romana en Mérida,’ in *Augusta Emerita*, Madrid, 1976, pp. 163-82 [(worldcat)](http://www.worldcat.org/oclc/180625207)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="256155" term="Emerita Augusta" >}}

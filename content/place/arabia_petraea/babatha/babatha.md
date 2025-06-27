@@ -1,4 +1,7 @@
 ---
+gre_id: "a401c7d278"
+aliases: [/id/a401c7d278]
+type: garden
 title: "Babatha's Orchard"
 date: 2020-10-01
 latlon: [ 31.024905, 35.456543 ]
@@ -56,9 +59,6 @@ Some years later, Shim'on ben Menahem transferred ownership of the property to h
 
 - Lewis, N., *et al.* 1989. *The Documents from the Bar Kokhba Period in the Cave of the Letters,* Jerusalem: Israel Exploration Society. Pp. 65-68, Plate 13. [(worldcat)](http://www.worldcat.org/oclc/21262733)
 
-## Periodo ID
-
-[PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID)
 
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="697768" term="Zoara" >}}

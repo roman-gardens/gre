@@ -74,10 +74,6 @@ There is a rectangular fountain basin set at the south end of the peristyle faci
 
 R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 199–203, with figs 165.3 and 166 (202 for the garden).[(worldcat)](http://www.worldcat.org/oclc/608028740)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="462538" term="Zancle/Messana" >}}

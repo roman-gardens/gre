@@ -3,7 +3,7 @@ gre_id: "33272c1a3c"
 aliases: [/id/33272c1a3c]
 type: garden
 title: "Casa del Larario Fiorito (II.ix.4)"
-date: 2020-12-10T00:10:10-04:00
+date: 2021-04-21
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
@@ -63,11 +63,3 @@ Excavated 1951, 1954, 1987. Restored 1988. Re-opened 2018.
 
 ## Bibliography
 Ciarallo, A. 1990. *Le problematiche botaniche dell’area archeologica Vesuviana*, L'Erma di Bretschneider, pp.17-32. [(worldcat)](http://www.worldcat.org/oclc/6022166)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 20211

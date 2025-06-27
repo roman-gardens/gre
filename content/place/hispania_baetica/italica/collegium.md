@@ -64,10 +64,6 @@ unspecified
 * A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). 75-76 [(worldcat)](http://www.worldcat.org/oclc/916989580)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - [Collegium at Italica]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="810966696" term="Collegium at Italica" >}}

@@ -3,7 +3,7 @@ gre_id: "25fff046fb"
 aliases: [/id/25fff046fb]
 type: garden
 title: "Porticus of Pompey"
-date: 2021-04-06T10:00:00-07:00
+date: 2021-04-17
 latlon: [ 41.894007, 12.479061 ]
 author: Elizabeth Macaulay, Kathryn Gleason
 editor: Joshua Rosenheim, Rhiannon Paré
@@ -113,17 +113,3 @@ Augustus’ remodeling of the theater and *porticus* (in 32 BCE), discussed abov
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="165546433" term="Porticus Pompei" >}}
-
-## Contributors
-
-[Elizabeth Macaulay](https://emacaulaylewis.com)\
-[Kathryn Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)
-
-## ORCID
-
-[Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)\
-[Kathryn Gleason (0000-0001-6260-8378)](https://orcid.org/0000-0001-6260-8378)
-
-## Publication date
-
-17 April 2021

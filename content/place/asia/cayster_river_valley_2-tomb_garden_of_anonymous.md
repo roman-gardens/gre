@@ -89,10 +89,6 @@ A broken inscription found near Thyaira in 1901 records the second part of a fun
 - R. Cagnat et al, *Inscriptiones Graecae ad res Romanas pertinentes*. Paris, 1906-1927, IV, 1605 [(worldcat)](http://www.worldcat.org/oclc/256313198)
 - J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, pp. 66, 144. [(worldcat)](http://www.worldcat.org/oclc/164233326)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="599981" term="Thyaira" >}}

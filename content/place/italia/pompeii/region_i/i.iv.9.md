@@ -49,10 +49,6 @@ This garden contains a [cistern](http://vocab.getty.edu/page/aat/300052558) open
 * Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 79  
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 

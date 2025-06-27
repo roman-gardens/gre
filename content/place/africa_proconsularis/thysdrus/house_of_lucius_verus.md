@@ -75,10 +75,6 @@ The house was laid out around a large persityle garden of twenty-two columns (20
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="324835" term="Thysdrus" >}}

@@ -77,10 +77,6 @@ unspecified
 * Géza Alföldy, “Epigraphica Hispanica IX,” *Zeitschrift für Papyrologie und Epigraphik 67*, 1987, 235-36, Tav. VI, 5.[(jstore)](https://www.jstor.org/stable/20186588)
 * "Espagne Citérieure," *L'Année épigraphique Année 1987 (1990)*, 685. [(jstore)](https://www.jstor.org/stable/25607522)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - [Urgapa]({{<relref ".">}}) 

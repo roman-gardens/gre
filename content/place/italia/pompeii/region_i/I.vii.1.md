@@ -81,10 +81,6 @@ Excavated 1912, 1915, 1926 and 1936.
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, appendix on water and photo no. 66.  
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

@@ -82,10 +82,6 @@ The large house was laid out around a large peristyle of 22 columns. In the axis
 * Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](http://www.worldcat.org/oclc/23396951)
 * Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 65, fig. 7. [(worldcat)](http://www.worldcat.org/oclc/643640586)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}

@@ -65,10 +65,6 @@ Unspecified
 - :A. Ollagnier, D. Joly, *L’Eure-et-Loir,*  CAG  p. 137-139,  plan  p. 138 (with bibliography of previous works).   [(worldcat)](http://www.worldcat.org/oclc/1031979297) <!-- missing Worldcat -->
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="108778" term="Autricum" >}}

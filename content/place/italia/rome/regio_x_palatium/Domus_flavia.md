@@ -3,7 +3,7 @@ gre_id: "eaee25d9ed"
 aliases: [/id/eaee25d9ed]
 type: garden
 title: "Domus Flavia, Upper Peristyle and Nymphaea"
-date: 2021-04-08T02:46:24+02:00
+date: 2021-06-29
 latlon: [ 41.889306, 12.487109 ]
 author: Maria Anntonietta Tomei
 editor: Rhiannon Paré
@@ -94,11 +94,3 @@ RELATED PHASES ON THE PALATINE:
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}
-
-## Contributor
-
-Maria Anntonietta Tomei
-
-## Publication date
-
-29 June 2021

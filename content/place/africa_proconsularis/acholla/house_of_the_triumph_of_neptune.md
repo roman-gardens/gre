@@ -82,10 +82,6 @@ Another possible garden(X) was adjacent to the reception room of the northern ai
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="324653" term="Acholla" >}}
 

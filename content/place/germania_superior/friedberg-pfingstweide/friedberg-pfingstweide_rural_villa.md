@@ -75,10 +75,6 @@ Early 2nd century - first half of 3rd century
 
 * D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart, 1989, pp. 307-309, fig. 246. [(worldcat)](http://www.worldcat.org/oclc/476625416)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}

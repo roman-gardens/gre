@@ -94,10 +94,6 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="250016" term="Villa dels Munts" >}}
 

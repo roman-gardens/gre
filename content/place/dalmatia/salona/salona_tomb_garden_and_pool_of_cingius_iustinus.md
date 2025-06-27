@@ -78,10 +78,6 @@ Late second or third century (CE)
 
 1. *CIL* 3.2279
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="197488" term="Salona" >}}

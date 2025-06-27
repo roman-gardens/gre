@@ -90,9 +90,6 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 
 - Zayadine, F. 1997. “Iraq El Amir” In *The Oxford Encyclopedia of the Archaeology of the Near East*, edited by E. Meyers, Oxford. [(worldcat)](https://www.worldcat.org/oclc/1080900665)
 
-## Periodo ID
-
-[PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID)
 
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="947227732" term="Qasr al-Abd at Tyrus" >}}

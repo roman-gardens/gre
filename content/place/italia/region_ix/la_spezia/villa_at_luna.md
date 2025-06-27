@@ -81,10 +81,6 @@ unspecified
 * F. Tinè Bertocchi (ed.), 1986, *Roma e i Liguri*, Genova, 54-56.[(worldcat)](http://www.worldcat.org/oclc/19745032)
 * H. Mielsch, 1987, *Die römische Villa: Architektur und Lebensform*, Munich, 175-177. [(worldcat)](http://www.worldcat.org/oclc/1140555144)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="966420455" term="Roman forum of Luna" >}}

@@ -84,10 +84,6 @@ Excavated 1912 and 1924.
 * Maiuri, A. 1939. *Pompeii*, p. 112. [(worldcat)](http://www.worldcat.org/oclc/470375462)   
 * Maiuri, A. 1961. *“I giardini,” In Le Vie d’Italia*, p. 1138, no. 9.  
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

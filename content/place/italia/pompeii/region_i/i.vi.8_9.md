@@ -61,10 +61,6 @@ Excavated 1912, 1926-27. Bombed in 1943.
 * Maiuri, A. 1929. *NSc*, pp. 393-395 and fig. 26 on p. 401.  
 * Pernice, E. and Winter, F. 1925, *Gefässe und Geräthe aus BronzeDie Hellenistische Kunst in Pompeii*, p. 32 and plate 21.1.    
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

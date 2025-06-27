@@ -3,7 +3,7 @@ gre_id: "ac531a92fb"
 aliases: [/id/ac531a92fb]
 type: garden
 title: "Mausoleum Augusti"
-date: 2021-04-05T15:00:00-07:00
+date: 2021-04-17
 latlon: [ 41.906030, 12.476423 ]
 author: Elizabeth Macaulay
 editor: Joshua Rosenheim, Rhiannon Paré
@@ -112,15 +112,3 @@ between 28 and 23 BCE
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="281368358" term="Mausoleum Augusti" >}}
-
-## Contributor
-
-[Elizabeth Macaulay](https://emacaulaylewis.com)
-
-## ORCID
-
-[Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
-
-## Publication date
-
-17 April 2021

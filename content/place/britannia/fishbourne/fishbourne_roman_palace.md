@@ -96,10 +96,6 @@ late 1st century CE - unspecified
 * B. Cunliffe, *Fishbourne Roman Palace*, Tempus, 1998. [(worldcat)](http://www.worldcat.org/oclc/997465222)
 * Amina-Aïcha Malek, *A Sourcebook of Garden Archaeology*, Bern: Peter Lang, 2012.[(worldcat)](http://www.worldcat.org/oclc/865000398)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="79466" term="Fishbourne" >}}

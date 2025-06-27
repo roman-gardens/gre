@@ -72,10 +72,6 @@ Excavated 1874.
 * Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 33. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 16.
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

@@ -81,10 +81,6 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 * D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart,1989, pp. 360-361, fig. 303a-b. [(worldcat)](http://www.worldcat.org/oclc/476625416)
 * M. Carroll, *Romans,Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 74, fig. 29. [(worldcat)](http://www.worldcat.org/oclc/1120840822)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}

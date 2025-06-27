@@ -63,10 +63,6 @@ Unspecified
 - A.  Desbat, *Les  fouilles  de  la  rue  des  Farges  à  Lyon*, Groupe  lyonnais  de recherche en archéologie gallo-romaine, Lyon, 1984, p. 45-49 [(worldcat)](http://www.worldcat.org/oclc/406719832)
 - A. Desbat, *Jadis, rue des Farges, archéologie  d’un  quartier  de  Lyon  antique*,  exposition  au  Musée  de  la  Civilisation  Gallo-Romaine de Lyon, 1985.  [(worldcat)](http://www.worldcat.org/oclc/24275953)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="167717" term="Col. Lugdunum" >}}

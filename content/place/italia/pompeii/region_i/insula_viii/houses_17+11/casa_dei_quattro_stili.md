@@ -80,10 +80,6 @@ unspecified
 * Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](http://www.worldcat.org/oclc/921816405)
 * Maiuri, “Fulgur conditum,” *RendNap*, n.s., 21 (1942): 53-72 and figs. 1 (plan) and 2 on pp. 56-57.
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

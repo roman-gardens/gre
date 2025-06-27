@@ -58,10 +58,6 @@ A fragmentary (and probably reused) epitaph, probably of the first or second cen
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="283772837" term="283772837" >}}

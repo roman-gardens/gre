@@ -75,10 +75,6 @@ An inscription found immured in the corner of a house near Lisbon around 1735 re
 - J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](http://www.worldcat.org/oclc/803415143)
 - S. J. Maloney and J. R. Hale, ‘The villa of Torre de Palma (Alto Alentejo)’ Journal of Roman Archaeology, vol. 9, 1996, p. 275-94. [(worldcat)](http://www.worldcat.org/oclc/51847498)-->
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="256338" term="Olisipo" >}}

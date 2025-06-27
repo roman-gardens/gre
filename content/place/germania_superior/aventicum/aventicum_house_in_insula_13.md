@@ -84,10 +84,6 @@ Houses: Late 1st century - Middle of 3rd century
 * J. Morel, “L’habitat,” in : A. Hochuli-Gysel, ed., Avenches, capitale des Helvètes, Archéologie Suisse 24.1, 2001: 45-46, figs. 58, 60. [(worldcat)](http://www.worldcat.org/oclc/718693183)
 * M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 55, fig. 20. [(worldcat)](http://www.worldcat.org/oclc/1120840822)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="177495" term="Aventicum" >}}

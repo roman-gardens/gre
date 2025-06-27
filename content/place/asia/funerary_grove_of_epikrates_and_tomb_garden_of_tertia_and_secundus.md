@@ -98,10 +98,6 @@ Unspecified
 
 * P. Herrmann and K. Z. Polaktan, *Das Testament des Epikrates und andere neue Inschriften aus dem Museum von Manisa* (Sitz. Wien 265.1). Vienna, 1969, pp. 7-36. [(worldcat)](http://www.worldcat.org/oclc/1123735245)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="811119038" term="Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus at Nakrason" >}}

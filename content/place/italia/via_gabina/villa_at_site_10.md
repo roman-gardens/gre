@@ -69,10 +69,6 @@ Unspecified
 - W. Widrig, *Two Sites on the Ancient Via Gabina*, British Museum Occasional Paper 24 (1980), 119-141. [worldcat](https://www.worldcat.org/title/via-gabina-villas-sites-10-11-and-13/oclc/277246450&referer=brief_results)
 - W. Widrig, *Land Use at the Via Gabina Villas*, Ancient Roman Villa Gardens (Dumbarton Oaks, 1987), 225-260. [worldcat](https://www.worldcat.org/title/ancient-roman-villa-gardens/oclc/848945186&referer=brief_results)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="622606468" term="Via Praenestina" >}}

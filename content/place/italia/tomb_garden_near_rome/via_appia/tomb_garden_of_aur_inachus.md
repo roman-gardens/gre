@@ -52,10 +52,6 @@ Unspecified
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="811119037" term="Tomb Garden of Aur(elius) Inachus" >}}

@@ -93,10 +93,6 @@ unspecified
 - Niccolini,*Real museo borbonico*, vol. 7, fig. 59 (plan), description by Bechi, pp. 19-21 [(worldcat)](http://www.worldcat.org/oclc/277993202)
 - Ruggiero, *Ercolano*, pp. 541-545 (contains the detailed reports of Bonucci)[(worldcat)](http://www.worldcat.org/oclc/18405521)
 -
--
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}

@@ -107,10 +107,6 @@ unspecified
 * Soprano, p.305, no. 23.
 * Viola, “*Scavi*” p. 11. [(worldcat)](http://www.worldcat.org/oclc/715087975)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

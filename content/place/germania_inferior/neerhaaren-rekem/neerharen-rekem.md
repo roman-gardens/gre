@@ -67,10 +67,6 @@ Late first century CE
 - G. De Boe, M. De Bie, and L. Van Impe, "Heerharen-Rekem. Die komplexe Besiedlungsgeschichte einer vor den Kiesbaggern geretteten Fundstätte," in *Spurensicherung. Archäologische Denkmalpflege in der Euregio Maas-Rhein*, Mainz, 1992, pp. 490-493, fig. 288. [worldcat](http://www.worldcat.org/oclc/475480390)
 - P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 297-300, fig. 105. [worldcat](http://www.worldcat.org/oclc/445007864)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="109193" term="Neerhaaren-Rekem" >}}  

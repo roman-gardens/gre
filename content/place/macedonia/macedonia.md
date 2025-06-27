@@ -33,10 +33,6 @@ draft: true
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - [Macedonia (Roman province)]({{<relref ".">}}) 

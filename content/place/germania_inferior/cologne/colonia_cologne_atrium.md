@@ -70,10 +70,6 @@ Middle of the first century CE until the fourth century CE
 - G. Precht, "Die Ausgrabungen um den Kölner Dom. Vorbericht über die Untersuchungen," *Kölner Jahrbuch* 12, 1971:55-56, fig. 2, pl. 7.2. [(worldcat)](http://www.worldcat.org/oclc/638867317)  
 - H. Hellenkemper, "Architektur als Beitrag zur Geschichte der CCAA," in H. Temporini, ed., *Aufstieg und Niedergang der Römischen Welt* II.4, Berlin, 1974, p. 810, figs. 20-21. [(worldcat)](link)    
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="108751" term="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}

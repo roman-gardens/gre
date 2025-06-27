@@ -57,10 +57,6 @@ unspecified
 * R. P. Wright and I. A. Richmond, *Catalogue of the Inscribed and Sculptured Stones in the Grosvenor Museum, Chester* (1955) 40 no. 92, pl. 26. [(world cat)](http://www.worldcat.org/oclc/500390411)
 * J. M. C. Toynbee, *Death and Burial in the Roman World* (London 1971) 100. [(world cat)](http://www.worldcat.org/oclc/807342603)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="89144" term="Cilurnum" >}}

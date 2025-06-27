@@ -75,9 +75,6 @@ Unspecified
 -SALZA PRINA RICOTTI, *The Importance of Water in Roman Garden Triclinia*,in Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection), Dumbarton Oaks 1987, pp. 137-184 [worldcat]http://www.worldcat.org/oclc/715121487
 
 -SALZA PRINA RICOTTI, *Sistemazione paesaggistica del fronte a mare e giardini nelle ville marittime di epoca romana*, in Giornate di studio in occasione del 250º anniversario degli Scavi di Stabia (in print), pp. 137-169. [worldcat](http://www.worldcat.org/oclc/469755044)
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
 

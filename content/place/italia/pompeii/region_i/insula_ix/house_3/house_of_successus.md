@@ -93,10 +93,6 @@ unspecified
 * Maiuri, *Pompeii*, p. 82. [(worldcat)](http://www.worldcat.org/oclc/470375462)
 * Schefold, *WandP*, p. 38.
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

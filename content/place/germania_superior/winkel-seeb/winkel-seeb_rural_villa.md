@@ -80,10 +80,6 @@ First half of 1st century A.C. - 250
 * W. Drack, *Der römische Gutshof bei Seeb, Gem. Winkel. Berichte der Zürcher Denkmalpflege. Archäologische Monographien 8*, Zürich, 1990. [(worldcat)](http://www.worldcat.org/oclc/468251890)
 * M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 75, fig. 29. [(worldcat)](http://www.worldcat.org/oclc/1120840822)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="177667" term="Winkel-Seeb" >}}

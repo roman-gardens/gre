@@ -78,10 +78,6 @@ The House is located in the *insula* II (Lots 1,7). The peristyle garden had a s
 * Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp.11-18, plans 3,4.[(worldcat)](http://www.worldcat.org/oclc/905773599)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="315248" term="Utica" >}}

@@ -96,10 +96,6 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 - ibid., ed., "Jebel Khalid on the Euphrates: Report on Excavations 1986-1996." *Meditarch Suppl.* 5 (2002): 25-48, plates IV-VIII and 10-25.
 - Inge Nielsen (ed.) *The Royal Palace Institution in the First Millennium BC.* Regional Development and Cultural Change between East and West, Monographs of the Danish Institute at Athens, vol. 4, pp. 215-247.
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="167649937" term="Acropolis palace at Jebel Khalid" >}}
 

@@ -90,10 +90,6 @@ Domus of the Sea Front (Villa du front de mer)
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="305090" term="Hippo Regius" >}}

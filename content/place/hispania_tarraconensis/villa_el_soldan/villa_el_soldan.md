@@ -106,10 +106,6 @@ Tiberius times(A.D 14-37)
 * P. R. Lewis, G. D. B. Jones, Roman Gold-Mining in North-West Spain, *The Journal of Roman Studies*, Vol. 60, 1970 (1970), pp. 169-185 [(worldcat)](http://www.worldcat.org/oclc/960771440)
 * R. F. J. Jones, D. G. Bird, Roman Gold-Mining in North-West Spain, II: Workings on the Rio Duerna, *The Journal of Roman Studies*, Vol. 62, 1972 (1972), pp. 59 [(worldcat)](http://www.worldcat.org/oclc/960771440)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="972371930" term="Villa El Soldán (The Sultan)" >}}

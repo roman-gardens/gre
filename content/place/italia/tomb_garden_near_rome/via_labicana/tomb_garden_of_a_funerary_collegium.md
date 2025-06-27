@@ -67,10 +67,6 @@ The inscription concludes with eight hexameters urging readers to recognize in t
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="229438405" term="229438405" >}}

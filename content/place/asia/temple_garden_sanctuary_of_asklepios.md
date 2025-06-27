@@ -90,10 +90,6 @@ Unspecified
 
 * R. Herzog, *Heilige Gesetze von Kos*, Berlin, 1928, pp. 32-33. [(worldcat)](http://www.worldcat.org/oclc/1140889143)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="814448537" term="Grove of Asklepios at Kos" >}}

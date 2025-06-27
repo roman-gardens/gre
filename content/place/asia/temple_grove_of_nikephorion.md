@@ -93,10 +93,6 @@ Unspecified
 * C. Ratte, “Pergamon,” *Oxford Encyclopedia of Near Eastern Archaeology*, 1997, 261-262. [(worldcat)](http://www.worldcat.org/oclc/607143997)
 * I. Nielsen, *Hellenistic Palaces*. Aarhus, 1994, p. 107, catalog no. 15. [(worldcat)](http://www.worldcat.org/oclc/468433476)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="537932154" term="Temple Grove of Nikephorion at Pergamum" >}}

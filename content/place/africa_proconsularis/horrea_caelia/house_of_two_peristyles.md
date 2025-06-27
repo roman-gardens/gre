@@ -83,10 +83,6 @@ House of two peristyles (Maison aux deux péristyles)
 ## Bibliography
 * Ennaïfer, M., Ouertani, N., "Les mosaïques de la Maison dite aux deux péristyles de Hergla, originalité d’un atelier Byzacénien", in *La mosaïque gréco-romaine. VIII. , Actes du VIIIe colloque international pour l'étude de la mosaïque antique et médiévale, Lausanne (Suisse), 6-11 octobre 1997 / éd. par Daniel Paunier et Christophe Schmidt VIII*, vol. 1, Lausanne : Cahiers d'archéologie romande, 2001, cop. 2001, pp. 216 –237, Fig. 2. [(worldcat)](http://www.worldcat.org/oclc/833866146)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="315041" term="Horrea Caelia" >}}

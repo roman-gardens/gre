@@ -104,10 +104,6 @@ at the edge of these structures might have belonged to the [attic](http://vocab.
 * E. A. Pollard, “Pliny’s Natural History and the Flavian Templum Pacis: Botanical imperialism in first-century Rome,” *Journal of World History* 20.3 (2009): 309–38. [(worldcat)](http://www.worldcat.org/oclc/47120664) | [(JSTOR)](https://www.jstor.org/stable/40542802)
 * P. L. Tucci, *The Temple of Peace in Rome*, Cambridge: Cambridge University Press, 2017. [(worldcat)](http://www.worldcat.org/oclc/1025338560)
 
-## Periodo ID
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 

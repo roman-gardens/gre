@@ -88,10 +88,6 @@ Within the enclosure of the Islamic Alcazaba, west of the city, are the remains 
 * E. García Sandoval, “Excavaciones arqueológicas en la zona de Mérida: La Casa del Anfiteatro," in *C.A.N.*, 8(1964): 469-477 [(worldcat)](http://www.worldcat.org/oclc/43198027)
 * F. Palma Garcia, “Las casas romanos intramuros en Mérida” *Mérida, excavaciones arqueológicos.* 1997, p. 347-65 [(worldcat)](http://www.worldcat.org/oclc/37151472)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="64187403" term="Roman theater at Malaca" >}}

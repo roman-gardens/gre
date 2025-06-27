@@ -3,10 +3,10 @@ gre_id: "5c1a7e251d"
 aliases: [/id/5c1a7e251d]
 type: garden
 title: "Caesarea Maritima Byzantine Law Court and Roof Garden"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 32.501237, 34.89151 ]
 author: Joseph Patrich
 editor: Yaniv Korman
+date: 2021-05-03
 draft: false
 ---
 
@@ -90,10 +90,6 @@ During the third phase, in the 6th century, the entire garden, including the fou
 *  K.G. Holum, “Inscriptions from the imperial revenue office of Byzantine Caesarea Palaestinae” Journal of Roman Archaeology Supplement 14, 1995: 333-345. [(worldcat)](https://www.worldcat.org/title/roman-and-byzantine-near-east-some-recent-archaeological-research/oclc/607804837&referer=brief_results)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 [Stratonos Pyrgos/Caesarea](https://pleiades.stoa.org/places/678401/?searchterm=Caesarea%20Maritima*)
@@ -101,17 +97,3 @@ During the third phase, in the 6th century, the entire garden, including the fou
 ## TGN ID
 
 - {{< id vocab="TGN" id="7001363" term="Caesarea (deserted settlement)" >}}
-
-## Contributor
-
-[Joseph Patrich](http://pluto.mscc.huji.ac.il/~patrichj/my_web_site/)
-<!--ORCID: [#](#)-->
-
-## Publication date
-
-
-3 May 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

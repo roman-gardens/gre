@@ -50,10 +50,6 @@ Unspecified
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 178 n. 21, 179 fig. 2; J. [worldcat](https://www.worldcat.org/title/horti-sepulchrales-e-cepotaphia-nelle-iscrizioni-urbane/oclc/886794800&referer=brief_results)
 - Bodel, *Monumental Villas and Villa Monuments*, JRA 10 (1997) 26. [worldcat](https://www.worldcat.org/title/hadrians-villa-and-villa-deste/oclc/18871033&referer=brief_results)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 ## TGN ID

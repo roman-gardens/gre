@@ -75,10 +75,6 @@ unspecified
 * ILS8342
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="383809" term="Vardagate" >}}

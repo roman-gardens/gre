@@ -99,10 +99,6 @@ The first third of the 2nd century
 * M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1982 [(worldcat)](http://www.worldcat.org/oclc/876519837)
 * J. M. Blázquez, Los jardines en la Hispania Romana, in *Historia de los Parques y Jardines en España*. Edita Grupo FCC, Madrid, 2001, p. 33 [(worldcat)](http://www.worldcat.org/oclc/1090911182)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="188623838" term="Villa de Los Villares" >}}

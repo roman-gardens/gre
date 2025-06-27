@@ -84,10 +84,6 @@ A marble slab found immured in a house wall at Hisarköy (Attouda) in Caria near
 - *Monumenta Asiae Minoris Antiquae*. Manchester and London, 1928-1993, VI, 83. [(worldcat)](https://www.jstor.org/stable/4341001)
 - J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, p. 145. [(worldcat)](http://www.worldcat.org/oclc/164233326)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="638779" term="Attouda" >}}

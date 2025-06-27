@@ -75,10 +75,6 @@ The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was 
 - Guizani, S., "L’œcus « cyzicenus » de la maison des Masques à Sousse", in *Revue Tunisienne d’archéologie*, 2013, p. 77-91.[(worldcat)](http://www.worldcat.org/oclc/949200707)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="324716" term="Hadrumetum/Iustinianopolis" >}}
 

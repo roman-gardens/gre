@@ -73,10 +73,6 @@ Unspecified
 - A. Balmelle, *Reims, Le site de la villa des Capucins (site n°51 454 129)* : D.F.S. de sauvegarde urgent, S.R.A. Champagne-Ardenne, 1995  <!-- not on worldcat -->
 - A. Balmelle, R. Neiss, Les maisons de l’élite à *Durocortorum*, in Archéologie urbaine à Reims, *Bulletin de la société archéologique champenoise*, t. 96, 2003, 4, p. 82. [(worldcat)](http://www.worldcat.org/oclc/718698064)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="108945" term="Durocortorum" >}}

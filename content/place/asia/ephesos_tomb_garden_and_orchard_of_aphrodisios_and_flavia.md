@@ -92,10 +92,6 @@ According to a secondary inscription carved horizontally, perhaps in the third c
 - C. Börker and R. Merkelbach, *Die Inschriften von Ephesos, Teil V.* Bonn, 1980 (I.Ephesos V), 1625b. [(worldcat)](http://www.worldcat.org/oclc/1085909921)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="599612" term="Ephesus/Arsinoe(ia)" >}}

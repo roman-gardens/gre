@@ -106,10 +106,6 @@ unspecified
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - [Pago de Bruñel]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="265996" term="Pago de Bruñel" >}}

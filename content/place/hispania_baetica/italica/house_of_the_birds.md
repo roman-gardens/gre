@@ -80,10 +80,6 @@ unspecified
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - [House of the Birds at Italica]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="623258561" term="House of the Birds at Italica" >}}

@@ -82,10 +82,6 @@ House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)
 * Germain, S. *Les mosaïques de Timgad*, Paris, 1969, p. 81, fig. 10. [(worldcat)](http://www.worldcat.org/oclc/643640586)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}

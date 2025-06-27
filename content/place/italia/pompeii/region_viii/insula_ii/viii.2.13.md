@@ -1,7 +1,7 @@
 ---
 gre_id: "b4703e7d9d"
 aliases: [/id/b4703e7d9d]
-
+type: garden
 title: "VIII.2.13."
 date: 2021-03-22T00:10:10-04:00
 latlon: [ 40.74855, 14.48520 ]

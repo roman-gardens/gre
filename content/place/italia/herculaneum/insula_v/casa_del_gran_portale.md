@@ -35,9 +35,6 @@ V
 ## Garden
 Casa con Giardino
 
-## Keywords
-none
----
 
 ## Garden Description
 554.V.35.
@@ -69,10 +66,6 @@ unspecified
 - Jashemski, Gardens, vol.II, p. 371
 - Maiuri,Herculaneum, p. 53
 - Maiuri, Ercolano, pp. 378-379 and fig. 308 (plan) on p. 378
-
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Contributor
 

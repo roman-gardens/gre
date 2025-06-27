@@ -77,10 +77,6 @@ Late first century CE until the fourth century CE.
 - K.-H. Knörzer and J. Meurers-Balke, "Die Wirtschafts- und Nutzflächen eines römischen Gutshofes," in H. Hellenkemper, H. Koschick and B.Trier, eds., *Archäologie in Nordrhein-Westfalen*,  pp. 242-46. [worldcat](http://www.worldcat.org/oclc/22528273)
 - W. Gaitzsch, "Antikes Landleben im Modell einer villa rustica," *Archäologie im Rheinland 1990*, Cologne, 1991, pp. 46-49.  
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="109210" term="Niederzier-Hambach" >}}

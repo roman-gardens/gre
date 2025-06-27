@@ -40,10 +40,6 @@ The regions on the upper [Rhine](#) formally became the province of Germania Sup
 
 c. AD 85
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - [Germania Superior]({{<relref ".">}}) 

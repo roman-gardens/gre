@@ -42,7 +42,6 @@ Casa dell’Atrio Corontio
 - {{< keyword "peristyles" >}}
 - {{< keyword "viridarium" >}}
 
----
 
 ## Garden Description
 552.V.30.
@@ -75,10 +74,6 @@ unspecified
 - Maiuri,Herculaneum,p. 51
 - Idem, Ercolano, pp.51, 263-264 and fig. 209 (plan) on p. 261
 
--
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Contributor
 

@@ -91,10 +91,6 @@ unspecified (mentioned in the 2nd century CE)
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="580051" term="Pallene" >}}

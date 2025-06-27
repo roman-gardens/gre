@@ -103,10 +103,6 @@ The theater of Tarraco is poorly preserved.  Part of the orchestra, the proscaen
 * R. Mar; M. Roca; J. Ruíz de Arbulo, “El teatro romano de tarragona. Un problema pendiente,” in *Teatros romanos de Hispania*. Murcia, 1993, 11-23. [(worldcat)](http://www.worldcat.org/oclc/642299895)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="246349" term="Col. Tarraco" >}}

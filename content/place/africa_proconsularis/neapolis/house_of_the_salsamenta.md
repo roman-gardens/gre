@@ -94,10 +94,6 @@ Unspecified
 * Slim, L., Bonifay, M., Trousset, P. and al., “L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, in *Africa* XVII, 1999, pp. 159-161, fig. 6, 7. [(worldcat)](http://www.worldcat.org/oclc/949242827)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="315093" term="Neapolis" >}}

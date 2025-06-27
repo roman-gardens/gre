@@ -83,10 +83,6 @@ unspecified
 * Maiuri, “Statuetta eburnea d’art indiana a Pompei,” *LeArti* (1938), pp. 111-115.
 * Idem, “Navalia pompeiana,” *RendNap*, n.s., 33 (1959): 22.
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

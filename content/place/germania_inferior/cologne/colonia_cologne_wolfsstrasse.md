@@ -67,10 +67,6 @@ Middle of the first century CE until the fourth century CE
 ## Bibliography
 - M. Carroll-Spillecke, “Ausgrabungen in einem römischen Wohnviertel in der Wolfsstraße/Richmodstraße in Köln,” *Kölner Jahrbuch* 30 (1997): 415-31. [(worldcat)](http://www.worldcat.org/oclc/638867317)  
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="108751" term="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
 

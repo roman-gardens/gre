@@ -70,10 +70,6 @@ A limestone slab found near the monastery of St. Martin in Szombathely (Savaria)
 * A. Mócsy and T. Szentléleky, *Die römischen Steindenkmäler von Savaria*. Amsterdam, 1971, p. 117, no. 161, photo 143. [(worldcat)](http://www.worldcat.org/oclc/963618321)
 * T. Adamik,*Archaeologiai Ertesítö* 110, 1983:3-9 = AE 1984:722.
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="197498" term="Savaria" >}}

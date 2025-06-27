@@ -79,10 +79,6 @@ Excavation in 1968 – 1972 at this site, which has been reburied, revealed over
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="767191138" term="Roman villa at Santa Lucia" >}}
 

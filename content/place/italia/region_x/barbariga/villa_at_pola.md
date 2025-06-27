@@ -89,10 +89,6 @@ See Römische Villa bei Pola / von Hans Schwalb (1902)
 https://babel.hathitrust.org/cgi/pt?id=hvd.32044081405060&seq=35
 -->
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="197448" term="Pola" >}}

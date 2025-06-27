@@ -65,10 +65,6 @@ This house was excavated in 1873. The entranceway led directly to the portico wh
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://www.worldcat.org/title/codex-topographicus-pompeianus-1937-1957-and-undated/oclc/974375313&referer=brief_results)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 

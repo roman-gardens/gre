@@ -80,10 +80,6 @@ The house stands on the other side of the Wadi Oum El Abid, on the left bank, 12
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="324664" term="Althiburos" >}}
 

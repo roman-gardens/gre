@@ -50,10 +50,6 @@ late second or early third century
  [worldcat](http://www.worldcat.org/oclc/886794800)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="390400921" term="390400921" >}}

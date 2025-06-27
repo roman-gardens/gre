@@ -94,10 +94,6 @@ Foundations of garden architecture, water channels and garden soils of the late 
 * L.I. Levine, and E. Netzer, Excavations at Caesarea Maritima, Qedem 21, 1986, pp. 158-160; Excavations at Caesarea Maritima [(worldcat)](https://www.worldcat.org/title/excavations-at-caesarea-maritima-1975-1976-1979-final-report/oclc/1172114860&referer=brief_results)
 * E. Netzer, “Herod the Great’s Palace” In Caesarea Maritima: a Retrospective after Two Millennia. Eds. A. Raban and K. Holum, Leiden: J. Brill, 1996, pp. 193-207. [(worldcat)](https://www.worldcat.org/title/caesarea-maritima-a-retrospective-after-two-millenia/oclc/34557572&referer=brief_results)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 [Stratonos Pyrgos/Caesarea](https://pleiades.stoa.org/places/678401/?searchterm=Caesarea%20Maritima*)

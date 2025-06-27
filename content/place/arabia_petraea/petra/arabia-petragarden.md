@@ -266,10 +266,6 @@ End of the 1st century BCE - 2nd/3rd centuries CE (Late Hellenistic/Roman period
 
 - Ramsay, J.H., and L.-A. Bedal. 2015. “Garden Variety Seeds? Botanical Remains from the Petra Garden and Pool Complex.” *Vegetation History and Archaeobotany* 24/5: 621–634. doi:10.1007/s00334-015-0520-4. (https://link.springer.com/article/10.1007/s00334-015-0520-4)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="511547525" term="Garden and Pool Complex at Petra" >}}
 

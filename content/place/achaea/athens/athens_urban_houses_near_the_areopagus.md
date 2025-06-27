@@ -72,10 +72,6 @@ mid-4th century CE and earlier
 * A. Frantz, *Late Antiquity: A.D. 267-700.* The Athenian Agora XXIV. Princeton, 1988, pp. 36-37, pls. 24a, 25a. [(worldcat)](http://www.worldcat.org/oclc/63179976)
 * H. A. Thompson and R. E. Wycherley, *The Agora of Athens. The History, Shape and Uses of an ancient City Center.* The Athenian Agora XIV. Princeton, 1972, p. 185, fig. 46. [(worldcat)](http://www.worldcat.org/oclc/805087483)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="969121823" term="Areopagus" >}}

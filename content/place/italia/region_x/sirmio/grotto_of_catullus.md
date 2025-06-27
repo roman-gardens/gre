@@ -110,10 +110,6 @@ unspecified
 * T.P.Wiseman, *Le Grotte di  Catullo.  Una  villa  romana  e  i  suoi proprietari*, Brescia 1990. [(worldcat)](http://www.worldcat.org/oclc/848596547)
 * E. Roffia, *Sirmione, le “grotte di Catullo”, in Ville romane sul lago di Garda*, a cura di E.Roffia, Brescia 1997, pp.141-169. [(worldcat)](http://www.worldcat.org/oclc/878098534)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="870993210" term="Grotte di Catullo" >}}

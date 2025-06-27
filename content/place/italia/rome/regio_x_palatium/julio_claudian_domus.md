@@ -3,9 +3,9 @@ gre_id: "da916f5290"
 aliases: [/id/da916f5290]
 type: garden
 title: "The Garden of the Julio-Claudian Domus"
-date: 2021-04-04T21:57:59+02:00
+date: 2021-04-17
 latlon: [ 41.889306, 12.487109 ]
-author: Jean-Paul Morel
+author: Jean-Paul Morel, Françoise Villedieu
 editor: Rhiannon Paré
 draft: false
 ---
@@ -86,12 +86,3 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="971691208" term="Palatinus Mons" >}}
-
-## Contributor
-
-Jean-Paul Morel\
-Françoise Villedieu
-
-## Publication date
-
-17 April 2021

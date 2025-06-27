@@ -68,10 +68,6 @@ around A.D. 100 - 175
 * A. Selkirk, “Gorhambury,” *Current Archaeology* 87, 1983: 120-121, fig. on p. 116.
 * D.S. Neal, A. Wardle and J. Hunn, *Excavation of the Iron Age, Roman and Medieval Settlement at Gorhambury, St. Albans*. English Heritage Report 14, London, 1990, p. 44, fig. 56. [(worldcat)](http://www.worldcat.org/oclc/908621649)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="79485" term="Gorhambury Ancient Site" >}}

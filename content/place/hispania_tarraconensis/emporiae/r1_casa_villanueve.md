@@ -102,10 +102,6 @@ This large house, some 4,000 square meters, was long and narrow. (Fig. 2) Variou
 <!---doesn't have ## Bibliography-->
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="246382" term="Emporiae" >}}
 

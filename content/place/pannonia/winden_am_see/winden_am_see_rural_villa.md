@@ -70,10 +70,6 @@ On the southeast of the house was a vestibule, from which a central corridor dep
 *  E.B. Thomas, *Römische Villen in Pannonien*, Budapest, 1964, pp. 201-210, figs. 107-10. [(worldcat)](http://www.worldcat.org/oclc/785736879)
 * A. Mócsy, *Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire*, London, 1974, p. 173, fig. 32. [(worldcat)](http://www.worldcat.org/oclc/644823914)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="197425" term="Pannonia" >}}

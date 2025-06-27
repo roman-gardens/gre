@@ -79,10 +79,6 @@ unspecified
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - [Munigua]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256318" term="Munigua" >}}

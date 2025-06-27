@@ -83,10 +83,6 @@ Agriculture
 *   Sallon, S., Cherif, E., Chabrillange, N., Solowey, E., Gros-Balthazard, M., Ivorra, S., & Aberlenc, F. (2020). Origins and insights into the historic Judean date palm based on genetic analysis of germinated ancient seeds and morphometric studies. Science advances, 6(6), eaax0384. [(worldcat)](https://www.worldcat.org/title/origins-and-insights-into-the-historic-judean-date-palm-based-on-genetic-analysis-of-germinated-ancient-seeds-and-morphometric-studies/oclc/8536654525&referer=brief_results)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="196074068" term="'Ein Gedi" >}}

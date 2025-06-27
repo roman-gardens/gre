@@ -76,10 +76,6 @@ Early 3rd century CE
 * Slim, H., Dulière, C., *Corpus des Mosaïques de Tunisie*, *Thysdrus*, *El Jem, Quartier Sud-Ouest*, INA, Tunis, 1996, pp. 1-11, plans 1-2.[(worldcat)](http://www.worldcat.org/oclc/886543032)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="324835" term="Thysdrus" >}}

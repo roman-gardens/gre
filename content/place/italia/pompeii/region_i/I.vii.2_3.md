@@ -84,10 +84,6 @@ Excavated 1911 and 1923.
 * Warscher, T. 1942. *Flora Pompeiana*, p. 24.   
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

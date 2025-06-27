@@ -81,10 +81,6 @@ House of the Viridarium with Niches (Maison du viridarium à niches)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 197-198. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="315121" term="Pupput" >}}

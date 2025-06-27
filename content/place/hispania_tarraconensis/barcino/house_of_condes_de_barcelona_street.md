@@ -82,10 +82,6 @@ Unspecified
 - A. Balil Iliana, *Casa y urbanismo en la España antigua*. Casa familiar y vivienda colectiva en la España romana,’ in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid, 1972, 113-115. [(worldcat)](http://www.worldcat.org/oclc/807743135)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="246343" term="Col. Barcino" >}}
 

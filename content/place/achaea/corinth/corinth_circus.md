@@ -79,10 +79,6 @@ BIBLIOGRAPHY:
 * J. H. Humphrey, *Roman Circuses: Arenas for Chariot Racing.* Berkeley, 1986. [(worldcat)](http://www.worldcat.org/oclc/299732316)
 * D. G. Romano, “A Roman Circus in Corinth,” *Hesperia* 74, 2005: 585-611. [(worldcat)](http://www.worldcat.org/oclc/359326258).
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="570182" term="Corinthus/Korinthos" >}}

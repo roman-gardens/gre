@@ -55,8 +55,6 @@ unspecified
 
 <!-- ### Bibliography
 
-## Periodo ID
-
 ## Pleiades ID -->
 
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->

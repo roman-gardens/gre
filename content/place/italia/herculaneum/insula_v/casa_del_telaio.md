@@ -84,10 +84,6 @@ unspecified
 ## Bibliography
 - Maiuri, *Ercolano*, p. 430 and fig. 370 (plan) on p. 427
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Contributor
 
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)

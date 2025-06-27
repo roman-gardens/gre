@@ -83,10 +83,6 @@ unspecified
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - [House of the West at Baelo]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="574194294" term="House of the West at Baelo" >}}

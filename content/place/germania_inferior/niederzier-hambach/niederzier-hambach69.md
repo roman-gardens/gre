@@ -72,10 +72,6 @@ Late first century CE until the fourth century CE.
 - K.-H. Knörzer, "Veränderungen der Unkrautvegetation auf rheinischen Bauernhöfen seit der Römerzeit," *Bonner Jahrbuch* 184, 1984: 491-503. [worldcat](http://www.worldcat.org/oclc/729362071)
 - W. Gaitzsch, "Grundformen römischer Landsiedlungen im Westen der CCAA," *Bonner Jahrbuch* 186, 1986: 397-427, fig. 5. [worldcat](http://www.worldcat.org/oclc/729362071)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="109210" term="Niederzier-Hambach" >}}

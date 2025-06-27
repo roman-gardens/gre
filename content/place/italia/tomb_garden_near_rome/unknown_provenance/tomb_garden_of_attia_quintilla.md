@@ -51,10 +51,6 @@ Unspecified
 - D. Boschung, *Antike Grabaltäre aus den Nekropolen Roms*, (Acta Bernensia X) (Bern 1987) 107 no. 329, Taf. [worldcat](https://www.worldcat.org/title/antike-grabaltare-aus-den-nekropolen-roms/oclc/1063931061&referer=brief_results)
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 177 n. 9. [worldcat](https://www.worldcat.org/title/horti-sepulchrales-e-cepotaphia-nelle-iscrizioni-urbane/oclc/886794800&referer=brief_results)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 ## TGN ID

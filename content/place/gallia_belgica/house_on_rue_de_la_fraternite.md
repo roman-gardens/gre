@@ -73,10 +73,6 @@ Unspecified
 - Alain Jacques, Georges Jelski, “Arras antique, bilan et perspective” in *Les villes de la Gaule Belgique au Haut-Empire*, Actes du colloque tenu à Saint-Riquier (somme) le 22-23-24 octobre 1982, Revue achéologique de Picardie, p. 124-5. [(worldcat)](http://www.worldcat.org/oclc/313214592)
 -  Delmaire  et  al., *Le Nord-Pas- de-Calais*, 62/1, CAG,  p. 145-147, fig. 46,  plan  p. 145; H. Stern I, 1 p. 101-102.  <!-- not on worldcat and last part seems to be in draft.-->
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="109194" term="Nemetacum" >}}

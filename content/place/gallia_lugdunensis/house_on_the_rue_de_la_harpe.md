@@ -61,10 +61,6 @@ Unspecified
 - D. CLIQUET,  L’Eure,  27,  CAG p.136-137,  restitution  p.136. [(worldcat)](http://www.worldcat.org/oclc/715608474)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="109153" term="Mediolanum Aulercorum" >}}

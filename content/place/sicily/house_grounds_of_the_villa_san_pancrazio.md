@@ -78,10 +78,6 @@ G. M. Bacci, Attivita della soprintendenza: Taormina, Kokalos 39–40 (1993–94
 
 Pool types: L. Farrar, Ancient Roman Gardens, Stroud, 1998, pp. 71–84.[(worldcat)](http://www.worldcat.org/oclc/1169942407)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="462506" term="Tauromenium" >}}

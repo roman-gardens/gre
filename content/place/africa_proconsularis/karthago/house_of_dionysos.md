@@ -80,10 +80,6 @@ House of Dionysos
 * Ben Abed-Ben Khader, A., *Corpus des mosaïques de Tunisie. Vol. 4, Karthago (Carthage), Fasc. 1 Les mosaiques du Parc Archéologique des Thermes d'Antonin*, INA, Tunis,1999, 46-51, plan 5. [(worldcat)](http://www.worldcat.org/oclc/1069099591)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 143-144. [(worldcat)](http://www.worldcat.org/oclc/989088620)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="314921" term="Carthago" >}}

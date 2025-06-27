@@ -96,10 +96,6 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 * Vörös, G, 2020: “The Bema in the Lithostrotos-Gabbatha on the Golgotha of Saint John the Baptist: The Apsidal Judgement-Seat Throne-Niche of Tetrarch Antipas in the Stone-Paved Herodian Royal Peristyle Courtyard of the Fortified Machaerus Mountaintop-Palace Overlooking the Dead Sea in Transjordan,” Holy Land Archaeology on Either Side: Archaeological Essays in Honour of Eugenio Alliata, ofm. (SBF Collectio Maior 57), Milano, pp. 99–120.
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="687917" term="Jericho" >}}

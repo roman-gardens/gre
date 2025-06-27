@@ -82,10 +82,6 @@ From the 2nd century CE until 400 CE
 * G. Ieranò, “I tesori di un intellettuale,” *Archeo* 6, 2001:48-53
 * G. Spyropoulos, *Drei Meisterwerke der griechischen Plastik aus der Villa des Herodes Atticus zu Eva/Loukou.* Frankfurt-am-Main, 2001. [(worldcat)](http://www.worldcat.org/oclc/1039041411)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="570241" term="Eua?" >}}

@@ -70,10 +70,6 @@ early 4th century CE - unspecified
 * M. Carroll, They came, they saw, they gardened. *The Garden: Journal of the Royal Horticultural Society* 128.6, 2003, 461, fig. p. 463
 * R.J. Zeepvat, “Roman Gardens in Britain,” in: A.E. Brown, ed., Garden Archaeology. Council for British Archaeology Research Report 78, London, 1991, p. 56, fig. 5.3. [(worldcat)](http://www.worldcat.org/oclc/246578144)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="79555" term="Latimer" >}}

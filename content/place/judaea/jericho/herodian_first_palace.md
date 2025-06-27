@@ -89,10 +89,6 @@ This first palace was “introverted” thus giving expression to Herod’s infe
 * J. Pritchard, “The Excavation at Herodian Jericho, 1951," The Annual of the American Schools of Oriental Research 32-3 (1952-4): 56-58. [worldcat](https://www.worldcat.org/title/excavation-at-herodian-jericho-1951-for-1952-1954/oclc/256829094&referer=brief_results)
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="687917" term="Jericho" >}}

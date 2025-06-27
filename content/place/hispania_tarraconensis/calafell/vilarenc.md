@@ -79,10 +79,6 @@ The villa dates from the first century BC to the third century AD when it was tr
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="789886461" term="Vilarenc" >}}
 

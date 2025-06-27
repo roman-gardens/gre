@@ -51,10 +51,6 @@ B. The small garden to the rear of house 4 had an entrance into this large open 
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 <!-- invalid

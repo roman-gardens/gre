@@ -97,10 +97,6 @@ unspecified
 * *PPP*, 1:109.
 * <span style="color:green">*PPP*, 1:109.</span>
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

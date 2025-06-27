@@ -95,10 +95,6 @@ With porticoes on three sides and measuring 23 x 14.5m, this courtyard, known as
 * J. Pritchard, “The Excavation at Herodian Jericho, 1951," The Annual of the American Schools of Oriental Research 32-3 (1952-4): 56-58. [worldcat](https://www.worldcat.org/title/excavation-at-herodian-jericho-1951-for-1952-1954/oclc/256829094&referer=brief_results)
 * D. Langgut, and K. Gleason. "Identification of the Miniaturised Garden of King Herod The Great: The Fossil Pollen Evidence." STRATA: Bulletin of the Anglo-Israel Archaeological Society 38 (2020).
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="687917" term="Jericho" >}}

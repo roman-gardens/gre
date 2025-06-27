@@ -75,10 +75,6 @@ unspecified
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - [House of Hylas at Italica]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="634946753" term="House of Hylas at Italica" >}}

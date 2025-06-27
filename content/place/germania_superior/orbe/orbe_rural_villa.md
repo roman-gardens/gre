@@ -78,10 +78,6 @@ House: mid-1st century CE - 4th century
 * R. Fellmann, *La Suisse gallo-romaine. Cinq siècles d’histoire*, Lausanne, 1992, pp. 152-153, fig. 112. [(worldcat)](http://www.worldcat.org/oclc/28038264)
 * Th. Luginbühl, J. Monnier, Y. Dubois, *Vie de palais et travail d’esclave. La villa romaine d’Orbe-Boscéaz*. Document du Musée cantonal d’archéologie et d’histoire, Lausanne, 2001, pp. 34-36, 53-55, figs. 28-29, 40, 49-51. [(worldcat)](Vie de palais et travail d’esclave. La villa romaine d’Orbe-Boscéaz)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="177598" term="Orbe Gallo-Roman Villa" >}}

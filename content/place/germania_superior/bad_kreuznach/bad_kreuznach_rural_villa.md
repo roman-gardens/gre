@@ -86,10 +86,6 @@ Second half of 2nd century - around 275
 * G. Rupprecht, "Leben auf dem Land," *Archäologie in Deutschland* 4, 1986: 36-39. [(worldcat)](http://www.worldcat.org/oclc/7788112662)
 * Heinz Cüppers, *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp.321-323, fig. 204. [(worldcat)](http://www.worldcat.org/oclc/1040869002)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}

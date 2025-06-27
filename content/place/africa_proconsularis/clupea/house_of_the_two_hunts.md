@@ -74,10 +74,6 @@ The house is dated to the 5th-6th century AD on the base of the style of its mos
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="314892" term="Aspis/Clipea" >}}
 

@@ -3,7 +3,7 @@ gre_id: "2f6b1e398d"
 aliases: [/id/2f6b1e398d]
 type: garden
 title: "House of Augustus"
-date: 2021-04-04T00:37:34+02:00
+date: 2021-04-28
 latlon: [ 41.889306, 12.487109 ]
 author: Maria Anntonietta Tomei
 editor: Rhiannon Paré
@@ -100,11 +100,3 @@ RELATED PHASES ON THE PALATINE:
 ## Bibliography
 
 * M.A. Tomei, *Augusto sul Palatino: Gli Scavi di Gianfilippo Carettoni. Appunti inediti (1955-1984)*, Milano, 2014. [(worldcat)](http://www.worldcat.org/oclc/903406162)!
-
-## Contributor
-
-Maria Anntonietta Tomei
-
-## Publication date
-
-28 April 2021

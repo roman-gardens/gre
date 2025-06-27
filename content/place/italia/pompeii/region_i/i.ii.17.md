@@ -65,10 +65,6 @@ B. The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the east
 * Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, pp. 12, 76, no.1, p. 77, nos. 5, 12, p.79, nos. 45, 46 [(worldcat)](https://www.worldcat.org/title/scavi-di-pompei-dal-1873-al-1878/oclc/254502217&referer=brief_results)  
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, no. 32 [(worldcat)](https://www.worldcat.org/title/codex-topographicus-pompeianus-1937-1957-and-undated/oclc/974375313&referer=brief_results)  
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
 

@@ -84,10 +84,6 @@ unspecified
 - Maiuri,Herculaneum,p. 46
 - Idem, Ercolano,p. 338
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Contributor
 
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)

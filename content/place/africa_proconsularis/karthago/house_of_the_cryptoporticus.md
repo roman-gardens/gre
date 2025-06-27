@@ -84,10 +84,6 @@ House of the Cryptoporticus (Maison du Cryptoportique)
 -->
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="314921" term="Carthago" >}}

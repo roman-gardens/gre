@@ -55,10 +55,6 @@ B. The east [portico](http://vocab.getty.edu/page/aat/300004145) gave access to 
 
 
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433204" term="Villa Tiberii" >}}

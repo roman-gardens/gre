@@ -70,10 +70,6 @@ Unspecified
 - H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp. 663-665, fig. 606. [(worldcat)](http://www.worldcat.org/oclc/924024101)
 - P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 273-276, fig. 82.  [(worldcat)](http://www.worldcat.org/oclc/445007864)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 [Roman Villa at Welschbillig](<-- none available -->)

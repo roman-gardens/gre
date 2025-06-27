@@ -3,7 +3,7 @@ gre_id: "a8ffc665cb"
 aliases: [/id/a8ffc665cb]
 type: garden
 title: "Thermae Agrippae"
-date: 2021-03-31T10:58:08-07:00
+date: 2021-04-17
 latlon: [ 41.896879, 12.476831 ]
 author: Elizabeth Macaulay, Beth Ryan
 editor: Joshua Rosenheim, Rhiannon Paré
@@ -87,17 +87,3 @@ The *Thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](http://data.perseus
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="22073979" term="22073979" >}}
-
-## Contributors
-
-[Elizabeth Macaulay](https://emacaulaylewis.com)\
-[Beth Ryan](#)<!--website for Beth Ryan?-->
-
-## ORCID
-
-[Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
-<!--ORCID for Beth Ryan?-->
-
-## Publication date
-
-17 April 2021

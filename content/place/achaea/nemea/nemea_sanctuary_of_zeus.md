@@ -84,10 +84,6 @@ Trees were still standing in the 2nd century A.D. when Pausanias visited Nemea.
 * M. Carroll-Spillecke, "The gardens of Greece from Homeric to Roman times," *Journal of Garden History* 12, 1992: 86. [(worldcat)](http://www.worldcat.org/oclc/4898050192).
 * M. Carroll, "The sacred places of the immortal ones: ancient Greek and Roman sacred groves," in J. Woudstra and C. Roth (eds.), *A History of Groves*. London: Routledge, 2018: 14. [(worldcat)](http://www.worldcat.org/oclc/1012849097).
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="570504" term="Nemea" >}}

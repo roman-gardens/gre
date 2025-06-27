@@ -3,10 +3,10 @@ gre_id: "8a6db3fdb1"
 aliases: [/id/8a6db3fdb1]
 type: garden
 title: "Domus Tiberiana"
-date: 2021-04-08T02:45:17+02:00
 latlon: [ 41.889306, 12.487109 ]
 author: Maria Anntonietta Tomei, Elizabeth Macaulay
 editor: Rhiannon Paré
+date: 2021-05-03
 draft: false
 ---
 
@@ -124,16 +124,3 @@ RELATED PHASES ON THE PALATINE:
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}
-
-## Contributor
-
-Maria Anntonietta Tomei\
-Elizabeth Macaulay
-
-## ORCID
-
-[Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
-
-## Publication date
-
-3 May 2021

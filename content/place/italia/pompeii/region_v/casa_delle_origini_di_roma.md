@@ -77,10 +77,6 @@ Unspecified
 * Soprano, p. 299, no. 12 (identifies the structure in the garden as a true triclinium and not triclinium-shaped seats as Sogliano suggests); (Soprano, I triclini all'aperto di Pompei)
 * Thédenat, p. 88. [(worldcat)](http://www.worldcat.org/oclc/37336723)
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}

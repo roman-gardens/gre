@@ -97,10 +97,6 @@ unspecified
 * <span style="color:green">Schefold, *WändP*, p.38.</span>
 * <span style="color:green">Sichtermann, *Antike Welt* (1974), no. 3, pp. 41-45.</span>
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
