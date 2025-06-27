@@ -32,7 +32,7 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 
 <!--## Sublocation-->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 ## Garden
 
@@ -89,6 +89,6 @@ The  L shaped space between the fish pool and the columns was probably planted.
 21 Apr 2021
 <!--07 July 2020-->
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -14,7 +14,7 @@ draft: true
 - {{< id vocab="Pleiades" id="587835546" term="VIA ARDEATINA" >}}
 - {{< id vocab="Pleiades" id="195817642" term="Tomb Garden of C. Nonius Minyas" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -75,6 +75,6 @@ John Bodel
 
 
 21 Apr 2021
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

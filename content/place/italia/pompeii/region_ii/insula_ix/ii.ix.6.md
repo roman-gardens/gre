@@ -47,7 +47,7 @@ B. This vineyard section of the property was excavated in 1984 by Dr. De Caro. A
 
 
 
-<!--### Plans
+<!--## Plans
 {{< image src="../../fig._75,_plan_of_region_ii,_insula_ix.png" alt="Fig. 75, Plan of Region II, insula ix" title="Fig. 75, Plan of Region II, insula ix" >}}
 
 ## Images

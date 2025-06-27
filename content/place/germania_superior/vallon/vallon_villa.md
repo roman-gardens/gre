@@ -10,7 +10,7 @@ editor: June Dorsch
 draft: true
 ---
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -20,7 +20,7 @@ draft: true
 - [Vallon]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981525" term="Vallon" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -31,7 +31,7 @@ draft: true
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -87,7 +87,7 @@ After the disappearance of the Antique site, the land continues to be occupied d
 
 {{< image src="EUR_GS_Val_villa3_carroll.jpg" alt="Fig. 2 : map of the habitation zone in the second half of the IInd century of our era." title="Fig. 2 : map of the habitation zone in the second half of the IInd century of our era.(Rights Statement)" >}}
 
-<!--### Plans-->
+<!--## Plans-->
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -134,6 +134,6 @@ Beginning of the 1st c. CE - beginning of the Vth century
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

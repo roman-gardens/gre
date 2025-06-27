@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Aix, Jardins de Grassi, House with the large peristyle](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -59,7 +59,7 @@ Aix, Jardins de Grassi, House with the large peristyle
 ## House Description
 
 This luxurious residence wrapped around a large (15 x 18 m) peristyle [1] with galleries 3 to 4 meters wide. The center was no doubt a garden. A vast reception room [15], paved with an *opus sectile*, looked out onto the central axis of the garden. It was flanked by two other handsome rooms; the one to the west [18] also had a marble floor. An exedra [5] with an *opus sectile* floor opened in the center of the east wing over a wide threshold, embellished on each side by a pilaster and column. Room 14, also with a marble floor, is more withdrawn. The principal reception room opened onto another open space [1], thought to have been 22 meters long by 7 meters wide, delimited at ground level by a stone border. Perhaps treated as a garden, it was made pleasant by two stone basins with water jets placed on the axis of the rooms [18] and [16]. The view was rounded off by the large flattened semicircle of the back (north) wall of the garden.
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -79,7 +79,7 @@ NEW WAY ↓↓↓↓
 
 
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -120,6 +120,6 @@ NEW WAY ↓↓↓↓
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

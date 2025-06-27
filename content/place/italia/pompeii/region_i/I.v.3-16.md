@@ -41,7 +41,7 @@ Hospitium garden, possibly planted in antiquity.
 
 This site had been destroyed in antiquity and probably had been a *hospitium*. Excavated in 1874, the remains of a watering [trough](http://vocab.getty.edu/page/aat/300220971) for animals and a [stable](http://vocab.getty.edu/page/aat/300005015) were uncovered. Often demolished sites were planted but it could not be determined if there was vegetation present at the time of the eruption. The west wall contained an arched [lararium](http://vocab.getty.edu/page/aat/300400600) niche.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -52,13 +52,13 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Plans
+<!--## Plans
 
 {{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< image src="../region-i-insula-v.png" alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." title="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10 (Rights Statement)." >}}
 
-<!--### Images-->
+<!--## Images-->
 
 
 ## Dates
@@ -89,6 +89,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

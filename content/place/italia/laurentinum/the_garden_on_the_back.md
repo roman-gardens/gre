@@ -13,7 +13,7 @@ draft: true
 ## Location
 - {{< id vocab="Pleiades" id="422959" term="Laurentes" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -92,6 +92,6 @@ SALZA PRINA RICOTTI
 ## Publication date
 
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

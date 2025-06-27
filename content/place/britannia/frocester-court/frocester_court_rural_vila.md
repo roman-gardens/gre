@@ -15,7 +15,7 @@ draft: false
 - [Frocester Court]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="79471" term="Frocester Court" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -26,7 +26,7 @@ draft: false
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -50,7 +50,7 @@ This Roman villa in Gloucestershire is situated about 14 miles west of the civit
 
 Excavated evidence indicates that this courtyard was designed as a formal garden in the early 4th century. The courtyard was bisected by a central drive 5 meters wide consisting of rubble with a layer of heavy metalling on top and bounded by kerb stones (P in Fig. 1). It led from the courtyard gate at the southeast and continued to the front of the house. The garden consisted of two planting beds near the house, a hedge and two long beds on either side of the drive (dark grey in Fig. 1) (Fig. 2). These beds had been dug into the stone and gravel and then filled with 20 centimeters of very dark soil. It is not known what plants grew here, although carbonized remains of box plants at the villa may reflect one type of greenery planted in the courtyard. The northeast part of the yard was paved with stone and gravel (dotted in Fig. 1), the southwest part, however, was not paved, suggesting that this part of the garden might have been used as an orchard or an area for trees or shrubs (O in Fig. 1). The formal garden was destroyed by 5th century cultivation. Northwest of the house, i.e. at the back, various ditches marked off a number of areas interpreted as possible paddocks and an area covered with a layer of very dark soil which has been interpreted as a kitchen garden.
 
-<!-- ### Maps -->
+<!-- ## Maps -->
 
 ## Plans
 
@@ -88,6 +88,6 @@ early 4th - 5th century CE
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

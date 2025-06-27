@@ -36,7 +36,7 @@ The city has been continually occupied to the present day, now known as Cherchel
 
 <!--## Sublocation-->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 ## Garden
 
@@ -90,6 +90,6 @@ In the southwestern corner, a small room protrudes into the gallery and opens in
 
 <!--07 July 2020-->
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

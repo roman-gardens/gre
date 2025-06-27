@@ -21,7 +21,7 @@ The provincial capital was Corinth. Under Nero] in the mid-1st century A.D. Epir
 - [Phigaleia]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="570598" term="Phigaleia" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW
 
@@ -47,7 +47,7 @@ Sanctuary of Ganymede or Hebe
 
 The only indication that there was a garden at this sanctuary is a literary reference to a grove of cypress trees.  According to Pausanias [(2.13.3)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.13), this ancient sanctuary in the northeastern Peloponnese was located above the acropolis.  The grove associated with the goddess Ganymede or Hebe was still in existence when Pausanias travelled to Phlious.  In honour of the goddess, a number of prisoners were pardoned every year, the fetters of those set free being hung on the trees in the grove.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 
@@ -60,7 +60,7 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Images
+<!--## Images
 
 NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}

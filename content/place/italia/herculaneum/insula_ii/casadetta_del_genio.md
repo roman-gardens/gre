@@ -27,7 +27,7 @@ draft: true
 
 
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -47,7 +47,7 @@ Casadetta del Genio
 ## Garden Description
 This house was partially excavated in 1829-1830 and again in 1850. The *portico* had a floor on the east slightly lower than the sections on the north and south. A pool (a) was located in the center of the garden with a semi-circular extension on the east end and two small marble posts which probably held herms. The pool measured 2.35 m. wide, 0.87 m. deep and was only excavated to a length of 6.50 m.
 
- <!--### Maps-->
+ <!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -92,6 +92,6 @@ Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 ## Publication date
 
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

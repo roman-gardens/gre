@@ -24,7 +24,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 - [Estoi]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="854718547" term="Estoi" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -35,7 +35,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -73,10 +73,10 @@ The archaeologists working on the site have not produced a detailed sequence of 
 
 {{< image src="HIS_LUS_Milreu_pool mosaic fig3.jpg" title="Fig. 3: Photo of the fish mosaic" >}}
 
-<!--### Dates-->
+<!--## Dates-->
 
 
-<!--### Bibliography
+<!--## Bibliography
 - T. Hauschild and F. Teichner, Milreu Ruins, Roteiros de Arqueologia Portugese 9, Ministerio da Cultura, Lisboa, 2002. [(worldcat)](http://www.worldcat.org/oclc/927151602)-->
 
 ## Pleiades ID
@@ -84,13 +84,13 @@ The archaeologists working on the site have not produced a detailed sequence of 
 - {{< id vocab="Pleiades" id="854718547" term="854718547" >}}
 
 
-<!--### Contributor-->
+<!--## Contributor-->
 
 
 ## Publication date
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

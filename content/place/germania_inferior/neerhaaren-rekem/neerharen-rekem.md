@@ -15,7 +15,7 @@ draft: true
 - [Neerhaaren-Rekem]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="109193" term="Neerhaaren-Rekem" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -26,7 +26,7 @@ draft: true
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -71,7 +71,7 @@ Late first century CE
 
 - {{< id vocab="Pleiades" id="109193" term="Neerhaaren-Rekem" >}}  
 
-<!--#### TGN ID-->
+<!--## TGN ID-->
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
@@ -83,6 +83,6 @@ Late first century CE
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -36,7 +36,7 @@ Arles was one of the pilgrimage sites on route to the Cathedral of Santiago de C
 
 [House I,  Quartier de la Verrerie at Trinquetaille](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -98,6 +98,6 @@ Excavations in 1982-1984
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -10,7 +10,7 @@ editor: June Dorsch
 draft: true
 ---
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -20,7 +20,7 @@ draft: true
 - [Hummetroth]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981525" term="Hummetroth" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -31,7 +31,7 @@ draft: true
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -56,7 +56,7 @@ The enclosed farmyard, including the residential area (pars urbana) and the serv
 
 The courtyard was divided into two zones by a terrace(?) wall, and in both zones a garden has been reconstructed (G in Fig. 1). Entering the house from the south, one passed through a large reception room to an apsed triclinium with hypocaust heating. A bath complex lay to the southwest, entered by the portico next to the garden.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -66,7 +66,7 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 
 {{< image src="EUR_GS_Hum_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south. Plan adapted from Baatz and Herrmann 1989, fig. 303a." title="Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south. Plan adapted from Baatz and Herrmann 1989, fig. 303a." >}}
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -98,6 +98,6 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

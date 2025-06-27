@@ -27,7 +27,7 @@ This geography of Judaea comprises a wide variety of biomes, from richly watered
 - [Ramat Hanadiv]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="678357" term="Ramat Hanadiv(Pleiades)" >}}
 
-<!--### Location Description
+<!--## Location Description
 
 
 
@@ -42,7 +42,7 @@ This geography of Judaea comprises a wide variety of biomes, from richly watered
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -50,7 +50,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 Villae Rusticae
 
- ### Keywords
+ ## Keywords
 
 - {{< keyword "villae rusticae" >}}
 
@@ -63,7 +63,7 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 
 
 
-<!--### Maps
+<!--## Maps
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -91,7 +91,7 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 
 - {{< id vocab="Pleiades" id="678357" term="Ramat ha-Nadiv" >}}
 
-<!--######## TGN ID
+<!--## TGN ID
 
 [#](#)-->
 
@@ -105,6 +105,6 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

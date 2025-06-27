@@ -27,7 +27,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-Arles was one of the pilgrimage sites on route to the Cathedral of Santiago de Compostela. French pilgrimage routes to Compostela tend to follow old Roman roads, many of which continued to be utilized as primary roads of communication during the Middle Ages. Arles was a leading city of the west Roman Empire. It fell under Visigoth control during the 6th century and then under Muslims rule in 730. It has a Roman arena dating to the 1st century BCE, which is presently used for bullfights and plays. It also has many Roman ruins. Arles was home to Vincent van Gogh during a productive period of his career.<!--### Location Description-->
+Arles was one of the pilgrimage sites on route to the Cathedral of Santiago de Compostela. French pilgrimage routes to Compostela tend to follow old Roman roads, many of which continued to be utilized as primary roads of communication during the Middle Ages. Arles was a leading city of the west Roman Empire. It fell under Visigoth control during the 6th century and then under Muslims rule in 730. It has a Roman arena dating to the 1st century BCE, which is presently used for bullfights and plays. It also has many Roman ruins. Arles was home to Vincent van Gogh during a productive period of his career.
+
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -35,7 +37,7 @@ Arles was one of the pilgrimage sites on route to the Cathedral of Santiago de C
 
 [House under the Crédit Agricole](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -98,6 +100,6 @@ After original finds in 1979, further vestiges of a domus came to light during s
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

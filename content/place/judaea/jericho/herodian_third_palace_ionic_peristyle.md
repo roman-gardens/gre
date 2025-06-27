@@ -116,7 +116,7 @@ The plan reveals seven rows of up to eleven pots per row, although directly in f
 
 - {{< id vocab="Pleiades" id="687917" term="Jericho" >}}
 
-<!--#### TGN ID
+<!--## TGN ID
 
 [#](#)-->
 
@@ -130,6 +130,6 @@ The plan reveals seven rows of up to eleven pots per row, although directly in f
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

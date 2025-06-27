@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -64,7 +64,7 @@ This phase, called the House with the Cistern, was constructed in the last years
  
 
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -86,7 +86,7 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -138,6 +138,6 @@ B.C. 20 - A.D. 20
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

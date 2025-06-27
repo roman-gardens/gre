@@ -32,7 +32,7 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 
 <!--## Sublocation-->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 ## Garden
 
@@ -69,7 +69,7 @@ The house lacked wide-open views from exedra and from the galleries towards the 
 
 2nd-5th century CE
 
-<!--#### Excavation Dates
+<!--## Excavation Dates
 -->
 ## Bibliography
 * Blanchard-Lemée, M., *Maisons à mosaïques du quartier central de Djemila (Cuicul)*, Paris, 1975, pp. 129-151. [(worldcat)](http://www.worldcat.org/oclc/461390883)
@@ -88,6 +88,6 @@ The house lacked wide-open views from exedra and from the galleries towards the 
 21 Apr 2021
 <!--07 July 2020-->
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

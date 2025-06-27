@@ -35,7 +35,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 - [Villa Dehesa de Soria]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="667996380" term="Villa Dehesa de Soria(Pleiades)" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -46,7 +46,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -94,6 +94,6 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

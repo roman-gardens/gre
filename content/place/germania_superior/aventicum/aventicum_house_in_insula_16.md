@@ -10,7 +10,7 @@ editor: June Dorsch
 draft: true
 ---
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -31,7 +31,7 @@ The town was established in the Augustan period as the civitas capital of the He
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -51,7 +51,7 @@ In Insula 16 East, northeast of the forum, were small shops and houses belonging
 
 In the middle of the insula was a large peristyle courtyard which may have been planted (G in Fig. 1). In the southwestern part of the building complex taverns and shops opened onto the colonnaded street.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -61,7 +61,7 @@ In the middle of the insula was a large peristyle courtyard which may have been 
 
 {{< image src="EUR_GS_AugRau_Hi16_carroll.jpg" alt="Fig. 1: Plan of the house with a possible peristyle garden (G) in Insula 16. Adapted from McKay 1986, fig. 186." title="Fig. 1: Plan of the house with a possible peristyle garden (G) in Insula 16. Adapted from McKay 1986, fig. 186." >}}
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -93,6 +93,6 @@ AD 71
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

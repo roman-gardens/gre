@@ -10,7 +10,7 @@ editor: Zhenrui Mei
 draft: true
 ---
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -20,7 +20,7 @@ draft: true
 - [Patavium]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="393473" term="Patavium" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -28,7 +28,7 @@ draft: true
 
 [Region X]({{<relref "../..">}})
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -48,7 +48,7 @@ Tomb garden of A. Coelius C. f.
 
 A broken marble slab immured in the cathedral at Padua since the seventeenth century records the epitaph of A. Coelius C. f., who some time in the first or second century dedicated to the divine spirits (Dis Manibus) and to himself in perpetuity a garden that had once, it seems, belonged to an Arius (hortum… Arianum). Whether it had always been a tomb garden or was only then being converted to a funerary use is uncertain.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -88,6 +88,6 @@ Brady Kiesling (https://pleiades.stoa.org/author/bkiesling)
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

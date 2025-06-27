@@ -21,7 +21,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 - [Kyrtones]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="540898" term="Kyrtones" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW
 
@@ -31,7 +31,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -52,7 +52,7 @@ Sanctuary of Apollo and the Nymphs
 
 A grove and shrine of Apollo in the mountaintop town of Kyrtones in Boeotia was visited by Pausanias in the 2nd century A.D. [(9.24.4)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:9.24.4).  There was also a natural spring at the site, next to which was a sanctuary of the Nymphs and a small grove of fruit-bearing trees.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -72,7 +72,7 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -96,7 +96,7 @@ unspecified
 
 - {{< id vocab="Pleiades" id="540898" term="Kyrtones" >}}
 
-<!--#### TGN ID-->
+<!--## TGN ID-->
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->

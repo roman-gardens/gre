@@ -10,7 +10,7 @@ editor: Zhenrui Mei
 draft: true
 ---
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -20,7 +20,7 @@ draft: true
 - [Vardagate]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="383809" term="Vardagate" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -28,7 +28,7 @@ draft: true
 
 [Region IX]({{<relref "..">}})
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -47,7 +47,7 @@ Tomb garden of T. Vettius Hermes
 
 A marble stele now in a church at Grazzano records the epitaph of T. Vettius Hermes, a freedman ointment dealer (seplasiarius). After a gnomic sentiment about chthonic birthand reunion (mater genuit materq(ue) recepiit), Hermes goes on to declare that “these gardens, as great and excellent as they are, (will) serve my ashes, for I shall appoint caretakers to dine on the proceeds from them on my birthday and on the day of roses, in perpetuity” (hi horti ita uti o(ptimi) m(aximi)/que sunt cineribus seruite(!) meis nam curatores substituam uti uescantur ex horum hortorum reditu natale meo et per rosam in perpetuo).
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -58,7 +58,7 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Images-->
+<!--## Images-->
 
 
 ## Dates
@@ -92,6 +92,6 @@ Sean Gillies (https://pleiades.stoa.org/author/sgillies)
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [House under the Pasteur parking lot](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -67,7 +67,9 @@ The north wing of the house had six domestic rooms with concrete floors. The eas
 
 Around the year 70, the house was extended to the south. In this Phase 2 form, it was the largest house as yet uncovered in the city. The excavated useful covered surface is 850 square meters, but it is estimated that the entire parcel was about 2847 square meters. It was on two levels; the new level to the south was about a meter below the original level. On its south side, the house was bordered by a *domus* not yet excavated, and perhaps the rampart was its northeast limit. It was accessed by a dead-end street running east-west and opening, it would seem, onto the *cardo maximus*. In this second phase, the house was occupied for two centuries.
 
-Four groups of structures lay in a somewhat staggered pattern. All opened onto gardens through porticoes. The original structure on the upper terrace retained its L form with the north-south arm of the L between two gardens, [1 and 16]. The new, lower terrace was roughly square with portico-bordered gardens in the northeast [27] and southwest [17] quadrants and structures in the other two quadrants. The south garden [17], known only in part, included a rectangular pool and 3-meter wide porticoes on at least the north and east sides. The columns had finely sculptured Corinthian capitals [18]. Among the residential rooms should be noted the vast salon [23] for reception of guests. To the east, two other large rooms, [29] and [30] (12 x 7 m) on the axis of the pool were certainly also used for reception. They had a white mosaic with black framing lines and also beautiful mural paintings of high quality. Panels of cinnabar red were set off by inter-panel areas in Egyptian blue with pictures of theatrical masks hung from candelabra.<!--### Maps-->
+Four groups of structures lay in a somewhat staggered pattern. All opened onto gardens through porticoes. The original structure on the upper terrace retained its L form with the north-south arm of the L between two gardens, [1 and 16]. The new, lower terrace was roughly square with portico-bordered gardens in the northeast [27] and southwest [17] quadrants and structures in the other two quadrants. The south garden [17], known only in part, included a rectangular pool and 3-meter wide porticoes on at least the north and east sides. The columns had finely sculptured Corinthian capitals [18]. Among the residential rooms should be noted the vast salon [23] for reception of guests. To the east, two other large rooms, [29] and [30] (12 x 7 m) on the axis of the pool were certainly also used for reception. They had a white mosaic with black framing lines and also beautiful mural paintings of high quality. Panels of cinnabar red were set off by inter-panel areas in Egyptian blue with pictures of theatrical masks hung from candelabra.
+
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -85,7 +87,7 @@ NEW WAY ↓↓↓↓
 
 {{< image src="house_under_the_pasteur_parking_lot_phase2.png" alt="Fig.2 Plan of the House under the Pasteur parking lot, Phase 2" title="House under the Pasteur parking lot_phase2" >}}
 
-<!--### Images-->
+<!--## Images-->
 <!--
 OLD WAY (DO NOT USE)
 ![alt_text](../../images/image_name.ext)
@@ -130,6 +132,6 @@ NEW WAY ↓↓↓↓
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

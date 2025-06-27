@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Enclos Reynaud, House with the semicircular bay, phase I](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -60,7 +60,7 @@ Enclos Reynaud, House with the semicircular bay, phase I
 
 On the north side, two rooms [1] and [2] are symmetrically placed on either side of a large axial room [3] (about 6 x 5.3 m) which opened onto the street. Its floor was covered by a white mosaic with black border. On its south side, a semicircular protrusion extended the room across the portico and out into the garden. “At about two thirds of the way from the northern to the southern wall, near the mosaic, the room is crossed by a chain of very hard calcareous stone which seems to have formed a sort of sanctuary or chancel in the part terminated by the rounded bay.” (Rouard, 1842).  Beyond, to the south, a large square courtyard [4] (about 8.2 meters on a side) was presumably a garden. It must have been surrounded by a portico 1.7 meters wide; but  only the floor, with a white mosaic bordered by the same very hard stone, was discovered.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -77,7 +77,7 @@ NEW WAY ↓↓↓↓
 {{< image src="nar_6.4_enclos_reynaud_house_with_the_semicircular_bay_phase_I.png" alt="Plan of the House with the semicircular bay, phase I" title="House with the semicircular bay, phase I" >}}
 
 
-<!--### Images-->
+<!--## Images-->
 <!--
 OLD WAY (DO NOT USE)
 ![alt_text](../../images/image_name.ext)
@@ -118,6 +118,6 @@ NEW WAY ↓↓↓↓
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -15,7 +15,7 @@ draft: false
 - [Chedworth]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="79383" term="Chedworth" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -26,7 +26,7 @@ draft: false
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -54,7 +54,7 @@ Parts of the villa may date to the early 3rd century A.D. at the latest, but ext
 
 {{< image src="Chedworth_fig_3.jpg" alt="Fig. 1: Plan of the villa and its garden (G) in the courtyard. Plan by M. Carroll and C. Merrony." title="Fig. 1: Plan of the villa and its garden (G) in the courtyard. Plan by M. Carroll and C. Merrony." >}}
 
-<!-- ### Maps
+<!-- ## Maps
 
 ## Images -->
 

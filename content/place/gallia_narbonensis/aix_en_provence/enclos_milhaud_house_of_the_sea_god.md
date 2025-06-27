@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Enclos Milhaud, House of the Sea god](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -52,7 +52,7 @@ Enclos Milhaud, House of the Sea god
 ## House Description
 
 fiche not translated
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -69,7 +69,7 @@ NEW WAY ↓↓↓↓
 {{< image src="enclos_milhaud_house_of_the_sea_god.png" alt="Plan of House of the Sea god" title="Enclos Milhaud, House of the Sea god" >}}
 
 
-<!--### Images-->
+<!--## Images-->
 <!--
 OLD WAY (DO NOT USE)
 ![alt_text](../../images/image_name.ext)
@@ -109,6 +109,6 @@ NEW WAY ↓↓↓↓
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

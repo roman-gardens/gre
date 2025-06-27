@@ -15,7 +15,7 @@ draft: true
 - [Italia]({{<relref "../..">}}) 
 - {{< id vocab="Pleiades" id="433204" term="Villa Tiberii" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -92,6 +92,6 @@ EUGENIA SALZA PRINA RICOTTI
 ## Publication date
 
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

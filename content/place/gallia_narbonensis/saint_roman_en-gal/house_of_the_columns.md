@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [House of the Columns](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -67,7 +67,7 @@ In the second phase, this south  garden was reduced by the addition of two later
 The final phase lasted about fifty years, beginning in the first half of the third century. The south garden was enlarged by the suppression of the east portico. The U-shaped channel pool lost its lateral arms, so that it became a simple rectangle (18 x 1.5 m) and it was made shallower. The apse, in practically the same place, was off-center to the west. The garden kept its summer *triclinium* and *nympheum*.
 
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -124,6 +124,6 @@ NEW WAY ↓↓↓↓
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

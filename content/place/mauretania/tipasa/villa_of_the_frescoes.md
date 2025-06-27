@@ -30,7 +30,7 @@ The etymology of Tipasa means the “crossing bridge” in Phoenician, suggestin
 
 <!--## Sublocation-->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 ## Garden
 
@@ -82,6 +82,6 @@ The peristyle garden had four porticoes supported by 14 columns and enclosed by 
 
 <!--07 July 2020-->
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -64,7 +64,7 @@ Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 198
 ##  Excavation Dates
 1939, 1953-1955, 1983
 
-## Contributors
+## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)  
 Jessica Venner (https://orcid.org/0000-0001-5828-6222)
 

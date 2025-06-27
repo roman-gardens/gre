@@ -10,7 +10,7 @@ editor: June Dorsch
 draft: true
 ---
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -31,7 +31,7 @@ The town was established in the Augustan period as the civitas capital of the He
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -58,7 +58,7 @@ Recent excavations in Insula 13 on the northwestern edge of the town have uncove
 
 The most remarkable feature of the building was a T-shaped garden courtyard (G in Fig. 1) surrounded by a peristyle on all sides (Fig. 1). A ground line gutter ran around the edge of the courtyard. In the southern part of the garden was a large pool paved with limestone slabs and measuring 6 x 12 meters On the northern edge of the pool was a rectangular fountain. To the north of this was a square structure measuring 5.40 x 5.40 meters which may have been a garden pavilion.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -68,7 +68,7 @@ The most remarkable feature of the building was a T-shaped garden courtyard (G i
 
 {{< image src="EUR_GS_AugRau_Hi13_carroll.jpg" alt="Fig. 1: Plan of a courtyard house in Insula 13 with a peristyle garden (G) and pool (grey). Plan adapted from Carroll 2001, fig. 20." title="Fig. 1: Plan of a courtyard house in Insula 13 with a peristyle garden (G) and pool (grey). Plan adapted from Carroll 2001, fig. 20. (Rights statement)" >}}
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -101,6 +101,6 @@ Houses: Late 1st century - Middle of 3rd century
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

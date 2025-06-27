@@ -15,7 +15,7 @@ draft: true
 This appears to be a duplicate of [id/01eee45763](/id/01eee45763)
 -KGJ
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -25,7 +25,7 @@ This appears to be a duplicate of [id/01eee45763](/id/01eee45763)
 - [Pompeii]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -33,7 +33,7 @@ This appears to be a duplicate of [id/01eee45763](/id/01eee45763)
 
 [Region I]({{<relref "../..">}})
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -58,7 +58,7 @@ I.ii.15
 
 This humble house was excavated in 1873. It had no garden but the *impluvium* was surrounded by a low masonry wall. The top contained a planting bed which served as a small garden.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -75,7 +75,7 @@ NEW WAY ↓↓↓↓
 
 {{< image src="fig-2-region-i-insula-ii.png" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
 
-<!--### Images-->
+<!--## Images-->
 
 
 ## Dates
@@ -111,6 +111,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

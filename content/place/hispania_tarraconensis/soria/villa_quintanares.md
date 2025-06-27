@@ -15,7 +15,7 @@ draft: true
 [Soria]({{<relref "../../../..">}})
 - {{< id vocab="Pleiades" id="694916885" term="Soria" >}}
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 
 ## Location
@@ -35,7 +35,7 @@ This villa is about 600 meters southwest of the town Rioseco di Soria on the rig
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -66,7 +66,7 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Dates-->
+<!--## Dates-->
 
 
 ## Bibliography
@@ -78,13 +78,13 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 - {{< id vocab="Pleiades" id="614074944" term="614074944" >}}
 
 
-<!--### Contributor-->
+<!--## Contributor-->
 
 
 ## Publication date
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

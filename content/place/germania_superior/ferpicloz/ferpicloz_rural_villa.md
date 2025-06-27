@@ -10,7 +10,7 @@ editor: June Dorsch
 draft: true
 ---
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -20,7 +20,7 @@ draft: true
 - [Ferpicloz]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981525" term="Ferpicloz" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -31,7 +31,7 @@ draft: true
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -50,7 +50,7 @@ archaeological garden \
 
 The house of this *villa rustica* was of the winged corridor type (A in Fig. 1) with a porticoed facade (Fig. 1). Attached to the eastern end of the house, measuring 37 x 46 meters, was a wall running east-west which has been interpreted as the protective wall of a garden (G in Fig. 1).
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -60,7 +60,7 @@ The house of this *villa rustica* was of the winged corridor type (A in Fig. 1) 
 
 {{< image src="EUR_GS_Fer_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa (A) with a possible garden (G) protected by a wall to the east of the main building. The shoreline of the lake is dotted. Adapted from Drack and Fellmann 1988, fig. 369." title="Fig. 1: Plan of the rural villa (A) with a possible garden (G) protected by a wall to the east of the main building. The shoreline of the lake is dotted. Adapted from Drack and Fellmann 1988, fig. 369. (Rights Statement)" >}}
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -92,6 +92,6 @@ unspecified
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

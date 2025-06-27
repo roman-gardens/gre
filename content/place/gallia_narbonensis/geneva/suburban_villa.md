@@ -15,7 +15,7 @@ draft: true
 - [Gallia_narbonensis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
-<!-- ### Province Description -->
+<!-- ## Province Description -->
 
 
 
@@ -26,7 +26,7 @@ draft: true
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -38,7 +38,7 @@ The Roman town, located at the western end of Lake Geneva at the confluence of t
 
 Suburban Villa
 
-<!-- ### Keywords -->
+<!-- ## Keywords -->
 ## Keywords
 - {{< keyword "villae suburbanae" >}}
 - {{< keyword "peristyles" >}}
@@ -92,6 +92,6 @@ None Available
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

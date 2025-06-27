@@ -15,7 +15,7 @@ draft: true
 [Toledo]({{<relref "../../../..">}})
 - {{< id vocab="Pleiades" id="266066" term="Toletum" >}}
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 
 ## Location
@@ -35,14 +35,14 @@ A village of about 600 inhabitants 19 kilometers northwest of Toledo.  The ruins
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
 ## Garden
 The so-called "Baths" of Rielves
 
-<!--### Keywords
+<!--## Keywords
 - {{< keyword "peristyles" >}}
 - {{< keyword "mosaics" >}}
 - {{< keyword "corridors" >}}
@@ -71,7 +71,7 @@ The large number of objects of daily life found in the ruins, some under toppled
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Dates-->
+<!--## Dates-->
 
 
 ## Bibliography
@@ -82,13 +82,13 @@ The large number of objects of daily life found in the ruins, some under toppled
 - {{< id vocab="Pleiades" id="266044" term="El Solao" >}}
 
 
-<!--### Contributor-->
+<!--## Contributor-->
 
 
 ## Publication date
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

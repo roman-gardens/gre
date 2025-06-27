@@ -10,7 +10,7 @@ editor: June Dorsch
 draft: true
 ---
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -20,7 +20,7 @@ draft: true
 - [Bad Kreuznach]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981525" term="Bad Kreuznach" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -31,7 +31,7 @@ draft: true
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -60,7 +60,7 @@ The three-storied villa with more than 50 rooms on the ground floor alone, many 
 
 At the northeast of the villa was a garden (G in Fig. 1) with a lararium. On the southwest there was a garden (G in Fig. 1) with a fountain. The northern facade had a cryptoporticus below and a porticoed corridor on the story above. The service area of the villa rustica lay in front of the villa to the north.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -70,7 +70,7 @@ At the northeast of the villa was a garden (G in Fig. 1) with a lararium. On the
 
 {{< image src="EUR_GS_BadKre_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204." title="Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204.(Rights statement)" >}}
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -104,6 +104,6 @@ Second half of 2nd century - around 275
 21 Apr 2021
 
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -47,7 +47,7 @@ House of the Priest Amandus.
 
 One step above the level of the [triclinium](http://vocab.getty.edu/page/aat/300004359) of this small house with an irregular floor plan was a [peristyle](http://vocab.getty.edu/page/aat/300004029) garden. It was to the west of the [atrium](http://vocab.getty.edu/page/aat/300004097) and enclosed on the north and east by a [portico](http://vocab.getty.edu/page/aat/300004145). Five [columns](http://vocab.getty.edu/page/aat/300001571) supported the [portico](http://vocab.getty.edu/page/aat/300004145) and two engaged [columns](http://vocab.getty.edu/page/aat/300001571) on the west wall continued the order of the [peristyle](http://vocab.getty.edu/page/aat/300004029). A large tree root cavity (the cast measures 0.80 x 0.82) indicated that the garden was well shaded and nail holes in the wall would suggest that vines had been trained to grow in that area. A large window located in the room to the west gave a view into the garden. A puteal was located over the [cistern](http://vocab.getty.edu/page/aat/300052558) opening in the northwest corner of the [peristyle](http://vocab.getty.edu/page/aat/300004029) and another puteal was additionally found in the garden as well as a *cartibulum* ([tables](http://vocab.getty.edu/page/aat/300039548)) decorated on one side with lions heads and a small circular base most likely used for a statuette. A [lararia](http://vocab.getty.edu/page/aat/300400600) on the west wall consisted of an [aedicules](http://vocab.getty.edu/page/aat/300002574) façade with an arched niche.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -101,6 +101,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

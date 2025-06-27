@@ -48,7 +48,7 @@ B. The center [peristyle](http://vocab.getty.edu/page/aat/300080971) was separat
 
 C. The north [peristyle](http://vocab.getty.edu/page/aat/300080971) garden belonged originally to a house whose entrance was on the Via dell’Abbondanza. It was accessed by a flight of steps from the central [peristyle](http://vocab.getty.edu/page/aat/300080971) which lies about two meters below. A [portico](http://vocab.getty.edu/page/aat/300004145) surrounded this garden on the south, east, and most of the north sides. Between the two middle columns on the east side there was a travertine puteal. A large exedra proceeded by a vestibule offered a view of the garden from the west, as did the [triclinium](http://vocab.getty.edu/page/aat/300004359) from the east. The columns were made of brick and Sarno sandstone and faced with stucco, just like the ones in the central [peristyle](http://vocab.getty.edu/page/aat/300080971). They were unfluted except the ones opposite the entrances to the large [exedra](http://vocab.getty.edu/page/aat/300081589), the [triclinium](http://vocab.getty.edu/page/aat/300004359), and the atrium to the north. A gutter surrounded the garden.  
 
-<!--### Images
+<!--## Images
 
 {{<figure src="content/province/italia/pompeii/region_i/images/Fig.9_I.iv.5,25_20.4.66.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).">}}
 

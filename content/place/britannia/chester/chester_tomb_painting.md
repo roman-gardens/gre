@@ -14,7 +14,7 @@ draft: false
 
 [Chester]({{<relref ".">}})  
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -25,7 +25,7 @@ draft: false
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -42,7 +42,7 @@ Tomb Painting in Chester
 
 Toynbee’s suggestion that a military tombstone from Chester depicting a row of three gabled buildings with stylized trees or shrubs planted in front of the two at the sides perhaps represents a tomb garden with tomb and flanking funerary buildings, though plausible, cannot in itself be taken to show that tomb gardens existed in Roman Britain; it would, however, suggest that the concept of planting at tombs was regarded as conventionally Roman and appropriate.
 
-<!-- ### Maps
+<!-- ## Maps
 
 ## Plans
 
@@ -74,6 +74,6 @@ unspecified
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

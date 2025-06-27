@@ -26,7 +26,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-Tourves is a village about 30 kilometers almost due north of Toulon on the via Aureliana in the valley of the Camary, a tributary of the Argens.<!--### Location Description-->
+Tourves is a village about 30 kilometers almost due north of Toulon on the via Aureliana in the valley of the Camary, a tributary of the Argens.
+
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +36,7 @@ Tourves is a village about 30 kilometers almost due north of Toulon on the via A
 
 [Villa de Muscapeu](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -113,6 +115,6 @@ In a second stage, in the first century, a bath complex [5] with an open-air esp
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

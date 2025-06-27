@@ -40,7 +40,7 @@ House of Stallus Eros.
 
 At the rear of this house a masonry wall surrounded the small garden which was undergoing extensive repairs at the time of the eruption. A [lararium](http://vocab.getty.edu/page/aat/300400600) niche was located on the east wall and the rear wall held remnants of a garden painting. This painting was evidently in poor condition at the time of the eruption. Maiuri mentions the painting in his excavation report: “*una grande parete dipinta con una pittura di paesaggio.*” A detailed description is given by Della Corte who stated that the *viridarium* was given the illusion of enlargement by the paintings of woodland trees and flowering plants. He reported the usual lattice [fence](http://vocab.getty.edu/page/aat/300005044) painted in the foreground with a tetrastyle pavilion and a statue of a winged female sphinx painted at each end of the [fence](http://vocab.getty.edu/page/aat/300005044). *Oscilla* were painted to appear to hang from the upper border of the large wall. A painting of Orpheus charming the beasts was barely visible on the right side of the wall. Seated on a dark red cloak between gigantic rocks in a landscape, his lyre against his leg, a variety of animals approached him. A section of the painting that survived on the right depicted a peacock, a goose, a cock, a wild boar, and a large black guinea hen. The painting was photographed at the time of excavation in 1929 (Mus. Naz. negative C/1614). Jashemski examined this site in 1964 and found part of a narrow panel still visible to the right of the large panel, although covered by vines. This panel was separated from the rest by a dark vertical stripe. At the bottom a lattice [fence](http://vocab.getty.edu/page/aat/300005044)had daisy-like flowers growing through it, with both rounded and pointed petals. Above the [fence](http://vocab.getty.edu/page/aat/300005044) two roughly painted cypress trees (Cupressus sempervirens L.) flank several bushes which are not Acacia vera as suggested by Grimal. Jashemski notes that Grimal wrote his description on the basis of one sentence of Maiuri and the Museo Nazionale photograph included in Maiuri’s report. He also had Warscher’s photograph of the sphinx detail from the large panel but could not identify where it was located in the large panel. Jashemski also speculated that it was likely there had been an identical narrow panel on the other side of the large panel, but all the plaster had fallen leaving no trace of decorations. The best preserved section of the painting that Jashemski found was a large bush painted on the left side of the large panel. The bush could not be identified by the form of the fruit and/or flowers but perched in the bush was a crudely depicted owl identified as *Athene noctua* (Scopoli, 1769) by way of its big head and hefty legs. Another bird was painted on a higher branch to the right which may have been a thrush. Another bush just below and to the right edge of the painting and a large cypress to the right of the bush with the owl was shown in the Museo Nazionale (negative C/1614).
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -51,7 +51,7 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Plans
+<!--## Plans
 
 {{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
@@ -101,6 +101,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

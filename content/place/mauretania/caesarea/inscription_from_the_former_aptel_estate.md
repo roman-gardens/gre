@@ -36,7 +36,7 @@ The city has been continually occupied to the present day, now known as Cherchel
 
 <!--## Sublocation-->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 ## Garden
 
@@ -83,6 +83,6 @@ An inscription CIL VIII 21081 mentioning a pool covered by a wine trellis suppor
 
 <!--07 July 2020-->
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

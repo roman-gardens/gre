@@ -15,7 +15,7 @@ draft: true
 - [Sainte-Marguerite-sur-Mer (Seine-Maritime, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="109153" term="Sainte-Marguerite-sur-Mer" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -26,7 +26,7 @@ draft: true
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -90,6 +90,6 @@ Unspecified
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -24,7 +24,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 - [Monforte]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256478" term="Torre de Palma" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 
 <!-- LEAVE THIS BLANK FOR NOW -->
@@ -36,7 +36,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -78,7 +78,7 @@ The third phase distinguished by Maloney and Hale covered several building campa
 
 {{< image src="HIS LUS_Torre de Palma_photo_CA fig5.jpg" title="Fig. 5: Photo of the peristyle seen from northwest corner." >}}
 
-<!--### Dates-->
+<!--## Dates-->
 
 
 ## Bibliography
@@ -91,13 +91,13 @@ The third phase distinguished by Maloney and Hale covered several building campa
 - {{< id vocab="Pleiades" id="256478" term="Torre de Palma" >}}
 
 
-<!--### Contributor-->
+<!--## Contributor-->
 
 
 ## Publication date
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

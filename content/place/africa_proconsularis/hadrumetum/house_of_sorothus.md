@@ -34,7 +34,7 @@ Hadrumetum is located on the bay of Hammamet at the edge of the fertile region o
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -54,7 +54,7 @@ This very damaged house was laid out around a peristyle garden. A semi-circular 
 
 
 
-<!--### Maps
+<!--## Maps
 {{< image src="map_of_hadrementum.jpg" alt="Map of Hadrementum at hadrumetum; rights statement" title="Map: Map of Hadrementum. 1. House of Sorothus, 2. House of the arsenal and House of Vergil, 3. House of the masks, 4. House of the ostriches, 5. Balzan house, 6. House of the satyrs and of the Bacchae, 7. House at the catacomb of the Good Shepherd. (North is at the top; there is no scale.) Adapted from Amplissimae. (Rights statement)" >}}-->
 
 ## Plans

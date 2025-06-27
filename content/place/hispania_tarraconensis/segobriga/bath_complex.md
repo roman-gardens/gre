@@ -54,7 +54,7 @@ Segóbriga, a deserted Roman city with theater, amphitheater, forum, walls, aque
 Within the city, there are remarkably few remains of residences.  Presumably the population that filled the theater and amphitheater lived in country villas or closer to the mines.
 The site has been developed as an archaeological park; the monuments are in remarkably good condition and are eminently visitable.
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -65,7 +65,7 @@ The site has been developed as an archaeological park; the monuments are in rema
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -121,6 +121,6 @@ AUTHOR_ID
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

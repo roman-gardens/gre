@@ -32,7 +32,7 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 
 <!--## Sublocation-->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 ## Garden
 
@@ -77,7 +77,7 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 
 3nd-5th century CE
 
-<!--#### Excavation Dates
+<!--## Excavation Dates
 
 1929, 1931, 1937, 1944
 -->
@@ -101,6 +101,6 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 21 Apr 2021
 <!--07 July 2020-->
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

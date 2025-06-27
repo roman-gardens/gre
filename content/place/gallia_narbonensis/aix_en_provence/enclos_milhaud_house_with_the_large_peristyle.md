@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Enclos Milhaud, House with the large peristyle](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -51,7 +51,9 @@ Enclos Milhaud, House with the large peristyle
 
 ## House Description
 
-fiche not translated<!--### Maps-->
+fiche not translated
+
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -68,7 +70,7 @@ NEW WAY ↓↓↓↓
 {{< image src="enclos_milhaud_house_with_the_large_peristyle.png" alt="Plan of the House with the Large Peristyle" title="Fig.1 Enclos Milhaud, House with the large peristyle" >}}
 
 
-<!--### Images-->
+<!--## Images-->
 <!--
 OLD WAY (DO NOT USE)
 ![alt_text](../../images/image_name.ext)
@@ -111,6 +113,6 @@ NEW WAY ↓↓↓↓
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

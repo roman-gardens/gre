@@ -23,7 +23,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 - [Pompeii]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
@@ -61,7 +61,7 @@ Wooden steps at the rear of this house excavated in 1902 led up to a *viridarium
 {{< image src="fig_25_v_iv_48_1_61.jpg" alt="At the extreme left of the east wall was a niche that most likely had been a lararium." title="Fig.25, 48.1.61: Picture of the east wall of the viridarium." >}}
 
 
-<!--### Images-->
+<!--## Images-->
 
 
 ## Dates
@@ -91,6 +91,6 @@ Wooden steps at the rear of this house excavated in 1902 led up to a *viridarium
 ## Publication date
 
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

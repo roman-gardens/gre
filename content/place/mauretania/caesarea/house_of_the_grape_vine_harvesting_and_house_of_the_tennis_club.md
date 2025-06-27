@@ -36,7 +36,7 @@ The city has been continually occupied to the present day, now known as Cherchel
 
 <!--## Sublocation-->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 ## Garden
 
@@ -89,6 +89,6 @@ The western dwelling was organized around a narrow peristyle garden, 8.5 by 16.5
 
 <!--07 July 2020-->
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

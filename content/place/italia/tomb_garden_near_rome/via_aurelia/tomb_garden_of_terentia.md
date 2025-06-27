@@ -14,7 +14,7 @@ draft: true
 - {{< id vocab="Pleiades" id="174900201" term="Via Aurelia" >}}
 - {{< id vocab="Pleiades" id="283772837" term="Tomb Garden of C. Nonius Minyas" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -72,6 +72,6 @@ John Bodel
 
 
 21 Apr 2021
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

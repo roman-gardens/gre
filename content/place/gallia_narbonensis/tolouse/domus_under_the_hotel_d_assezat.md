@@ -27,7 +27,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-Toulouse was one of the pilgrimage sites on route to the Cathedral of Santiago de Compostela; French pilgrimage routes to Compostela tend to follow old Roman roads, many of which continued to be utilized as primary roads of communication during the Middle Ages. It is a prehistoric route, taken over by Romans in 106 BCE and then captured by Clovis in 508. Toulouse resisted the crusade against the "Albigensian heresy" in the early 13th century. It received parlement 1443 and was a witness to the Protestant massacre of 1562 and the scene of the British victory over the French in 1814. Between 1942 and 1944 it was occupied by Nazi rule. There are a number of noteworthy art museum here.<!--### Location Description-->
+Toulouse was one of the pilgrimage sites on route to the Cathedral of Santiago de Compostela; French pilgrimage routes to Compostela tend to follow old Roman roads, many of which continued to be utilized as primary roads of communication during the Middle Ages. It is a prehistoric route, taken over by Romans in 106 BCE and then captured by Clovis in 508. Toulouse resisted the crusade against the "Albigensian heresy" in the early 13th century. It received parlement 1443 and was a witness to the Protestant massacre of 1562 and the scene of the British victory over the French in 1814. Between 1942 and 1944 it was occupied by Nazi rule. There are a number of noteworthy art museum here.
+
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -35,7 +37,7 @@ Toulouse was one of the pilgrimage sites on route to the Cathedral of Santiago d
 
 [Domus under the Hôtel d’Assézat](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -61,7 +63,7 @@ The Hôtel d’Assézat is a Renaissance palace which now houses the  art collec
  In a new phase, the house was completely remodeled with larger rooms sometime between 40 and 80. It took on a more coherent plan: the open space was transformed into a peristyle with a central garden. It was bordered on the three known sides with porticoes; strangely, no trace of the colonnade of the portico has been found. A shallow, U-shaped pool, of which the long arm on the south was at least 17 meters, runs along three of the sides. The garden side of the frame of the pool, the inside of the U, was marked off rhythmically by a little apse on the west side (the bottom of the U) and a rectangular notch on the northern arm, presumably matched by one on the south, though the poor condition of the remains makes any interpretation risky. The central part of the U remained free of any construction and is considered the garden. The bottom of the 90- centimeter-wide channels that formed the pool was hydraulic cement. Since they were 50 centimeters below the floor of the porticoes, these channels must have served to catch rain water as well as to embellish the garden. In a later phase, the bottom of the channels was covered with marble flagstones, which left their imprint in the mortar.
 The domus must have continued to exist beyond the first century, but no precise evidence of change has been detected before the great modifications of the holding which came in the fifth century.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -112,6 +114,6 @@ After original finds in 1979, further vestiges of a domus came to light during s
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

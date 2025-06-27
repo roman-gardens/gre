@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -35,7 +35,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [House of Sucellus](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -57,7 +57,7 @@ House of Sucellus
 On leaving the House of the Lion from its northwest corner, following the rue du Rhône west for 35 meters and turning north on the rue des Thermes for 100 meters, one comes to the area now occupied by two structures, the House of Sucellus to the west and the Edifice with Pillars (Edifice aux piliers) to the east. Originally, the whole area was one house, called the House of the Fishpond (Maison au Vivier), which went through two phases. The space was then completely rearranged in a phase known as the House of the Large Gallery (Maison de la Grande Gallery), which was then transformed to its final state: the House of Sucellus to the west and the Edifice with Pillars to the east. The area was unearthed during a programmed excavation in 1990 and was found well preserved. The total surface area is about 2400 square meters.
 
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -114,6 +114,6 @@ It was completely uncovered in 1987 so that its lines might be respected in the 
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

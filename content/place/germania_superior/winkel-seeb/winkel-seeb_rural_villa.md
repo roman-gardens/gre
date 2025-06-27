@@ -10,7 +10,7 @@ editor: June Dorsch
 draft: true
 ---
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -20,7 +20,7 @@ draft: true
 - [Winkel-Seeb]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="177667" term="Winkel-Seeb" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -31,7 +31,7 @@ draft: true
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -53,7 +53,7 @@ Rural Villa in Winkel-Seeb
 
 The residential and service parts of this *villa rustica* occupied an area of ca. 7 hectares. The lateral walls of the complex could be followed over a length of 395 meters, but it is assumed that they once extended up to the lake southeast of the farm. The house, measuring 56.70 x 82.40 meters, was of the winged corridor type (Fig. 12.1). The *villa rustica* was built in the first half of the 1st century A.C. and inhabited until its destruction in 250. The two protruding wings on either side of the entrance on the north extended to the dividing wall between the pars urbana and the pars rustica. These may have been built as covered porticoes or pergolas. The large terraced courtyard between them was possibly laid out as a garden or park (G in Fig. 1). Immediately north of the dividing wall was a well-house.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -63,7 +63,7 @@ The residential and service parts of this *villa rustica* occupied an area of ca
 
 {{< image src="EUR_GS_WinSe_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa with porticoes enclosing a possible garden (G) in front of the house. Plan adapted from Drack and Fellmann 1988, fig. 511." title="Fig. 1: Plan of the rural villa with porticoes enclosing a possible garden (G) in front of the house. Plan adapted from Drack and Fellmann 1988, fig. 511. (Rights Statement)" >}}
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -97,6 +97,6 @@ First half of 1st century A.C. - 250
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

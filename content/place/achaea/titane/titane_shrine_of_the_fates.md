@@ -21,7 +21,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 - [Titane]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="570741" term="Titane" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW
 
@@ -49,7 +49,7 @@ Shrine of the Fates
 
 In the narrow road to Titane near Corinth was a grove of holm oaks and a shrine of the Fates which Pausanias visited in the 2nd century A.D. ([2.11.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.11)). According to Pausanias, the grove was said to be particularly old.  Part of the religious ritual at the site was the annual sacrifice of pregnant ewes on the open-air altar and the offering of a libation made of a mixture of milk, honey and flowers.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -69,7 +69,7 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -93,4 +93,4 @@ BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 
 - {{< id vocab="Pleiades" id="570741" term="Titane" >}}
 
-<!--#### TGN ID-->
+<!--## TGN ID-->

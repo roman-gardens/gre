@@ -14,7 +14,7 @@ draft: true
 
 - {{< id vocab="Pleiades" id="622606468" term="Via Praenestina" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -62,6 +62,6 @@ Unspecified
 
 ## Publication date
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

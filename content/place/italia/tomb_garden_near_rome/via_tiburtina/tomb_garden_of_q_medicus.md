@@ -15,7 +15,7 @@ draft: true
 - [via tiburtina]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="272213281" term="via tiburtina" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -60,6 +60,6 @@ Unspecified
 
 ## Publication date
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

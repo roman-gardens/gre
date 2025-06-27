@@ -26,7 +26,7 @@ In the Hambacher Forst region, which lies approximately 30-35 km. west of the fo
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -61,7 +61,7 @@ To the east of the house was an area marked off by a narrow ditch (B on plan). T
 
 {{< image src="niederzier-hambach69_plan1_EUR_GI_Nie_RvH_69_carroll.jpg" alt="Plan 1. Plan of the farm house (A) and the farmyard enclosed by a hedge (grey line).  A vegetable garden (G) may have lain within another hedge (B). Adapted from Gaitzsch 1986, fig. 5. (Rights statement)." title="Plan 1. Plan of the farm house (A) and the farmyard enclosed by a hedge (grey line). A vegetable garden (G) may have lain within another hedge (B). Adapted from Gaitzsch 1986, fig. 5. (Rights statement)." >}}
 
-<!--### Images-->
+<!--## Images-->
 
 ## Dates
 

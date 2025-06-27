@@ -43,7 +43,7 @@ Casa del Paprio Dipinto
 ## Garden Description
 544.IV.8-9.
 This narrow house excavated in 1929-1932 had a small paved courtyard serving as both a light well and an *impluvium*. This area could have held potted plants. A hunt scene once decorated the back wall, featuring lions and bulls, scenes more typically found on the walls of more luxurious dwellings.
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -59,7 +59,7 @@ NEW WAY ↓↓↓↓
 {{< image src="H_4_3-9.jpg" alt="Plan of Casa del Paprio Dipinto" title="Plan of Casa del Paprio Dipinto" >}}
 
 
-<!--### Images-->
+<!--## Images-->
 
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
@@ -90,6 +90,6 @@ Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
 
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

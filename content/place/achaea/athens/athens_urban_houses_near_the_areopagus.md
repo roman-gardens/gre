@@ -22,7 +22,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 - [Athens]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="579885" term="Athens" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -30,7 +30,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 - {{< id vocab="Pleiades" id="969121823" term="Areopagus" >}}
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -52,7 +52,7 @@ Urban Houses near Areopagus
 Several Roman houses in Athens make use of the remains of Classical and Hellenistic buildings, and, as far as we can tell, these houses generally had courtyards paved with marble chips, pebbles or tile set in mortar, rather than with gardens.  One house on the northwest slope of the Areopagus, however, was of early Roman date and might have had a garden, since the surface of its peristyle courtyard was unpaved (Fig. 1).  In the center of this courtyard was a rectangular water basin with apsidal ends, and in the southwest corner was a well.
 Another only partially excavated house of the mid-4th century A.D., built into the northern slope of the Areopagus, had a small courtyard (3.20 x 3.90 m.) paved with blue and white marble slabs surrounded by a masonry flower bed 50 cm. wide (Fig. 2; f on plan).  Around this ran a shallow marble-paved basin (c on plan) which was supplied with water by a fountain on the south eastern side of the courtyard.  Water flowed from the basin through a lead pipe in the middle of each side of the courtyard into the planter beds.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}

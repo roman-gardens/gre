@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -65,7 +65,7 @@ The courtyard of this peristyle was certainly used as a garden. It had a rectang
 
 In the northern wing of the house, a square reception room [53], 5.8 meters on a side, was centered on the axis of the garden. No mosaic was found in it, but the few remaining fragments of the pavement indicate that it was mainly of marble plaques.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -122,6 +122,6 @@ NEW WAY ↓↓↓↓
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

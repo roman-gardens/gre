@@ -106,7 +106,7 @@ unspecified
 
 - {{< id vocab="TGN" id="8712226" term="Domus Aurea (deserted settlement)" >}}
 
-## Contributors
+## Contributor
 
 [Elizabeth Macaulay](https://emacaulaylewis.com)\
 [Linda Anderson](#)<!--Find website-->

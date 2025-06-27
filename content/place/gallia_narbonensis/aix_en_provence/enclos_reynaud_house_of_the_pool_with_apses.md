@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Enclos Reynaud, House of the pool with apses](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -55,7 +55,7 @@ Enclos Reynaud, House of the pool with apses
 
 According to a partial plan, the residence was organized around a large courtyard with peristyle [1] (14.5 x 8.0 m). Although covered with paving stones in the final phase, the courtyard may have been a garden in an earlier phase, for it had a pool in the center. This pool of an unusal, quadrilobe shape, was 9 meters long and covered in gray marble. This marble was reduced practically to chalk when the house burned. The pool was then used as a dump and was found filled with materials from the time of the invasions.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -72,7 +72,7 @@ NEW WAY ↓↓↓↓
 {{< image src="enclos_reynaud_house_of_the_pool_with_apses.png" alt="Plan of the House of the Pool with Apses" title="Enclos Reynaud,House of the pool with apses" >}}
 
 
-<!--### Images-->
+<!--## Images-->
 <!--
 OLD WAY (DO NOT USE)
 ![alt_text](../../images/image_name.ext)
@@ -115,6 +115,6 @@ NEW WAY ↓↓↓↓
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

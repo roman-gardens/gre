@@ -43,7 +43,7 @@ N/A
 ## Garden Description
 538.III.13-15.
 This multi-family dwelling was excavated in 1927-1929. There was a small paved courtyard (a) 1.97 x 2.97 m. located to provide light and air to the surrounding apartments which was enclosed on the east, north and west by a low wall 0.76 m. high which formeda catch basin for rainwater. Herbs or flowers could be grown in the planting space (14 cm. wide x 25 cm. deep) on the top of the wall. The middle of the north side of the wall contained the mouth of a well that was 0.90 m. dia. and in the floor of the passageway to the west of the courtyard there was the mouth of a cistern covered by a circular piece of marble. There was a windlass with a rope found in a nearby room undoubtedly used to draw water from either of these fixtures. According to Maiuri, there could be a large cistern underground connecting the mouth of cistern in the passageway and the mouth of the well.
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -58,7 +58,7 @@ NEW WAY ↓↓↓↓
 {{< image src="H_3_3-17.jpg" alt="Plan of Casa A Graticcio" title="Plan of Casa A Graticcio" >}}
 
 
-<!--### Images-->
+<!--## Images-->
 
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
@@ -89,6 +89,6 @@ Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
 
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

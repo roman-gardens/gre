@@ -15,7 +15,7 @@ draft: true
 - [Gallia Narbonensis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
-<!-- ### Province Description -->
+<!-- ## Province Description -->
 
 
 
@@ -26,14 +26,14 @@ draft: true
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Sublocation
 
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -41,7 +41,7 @@ draft: true
 
 Tomb garden of Publicius Calistus
 
-<!-- ### Keywords -->
+<!-- ## Keywords -->
 
 
 ## Garden Description
@@ -86,6 +86,6 @@ None Available
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

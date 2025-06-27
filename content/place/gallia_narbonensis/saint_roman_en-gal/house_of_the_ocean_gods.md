@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -59,7 +59,7 @@ House of the Ocean Gods
 
 A century passed before further major modifications. Then the eight columns of the vestibule on the south were removed, and the mosaic floor with the heads of the ocean gods in the four corners (which gives its name to the house) was installed there. In the middle was of the vestibule was a circular pool (diameter 2.5 m) with water jets. North of the first peristyle garden, a huge room [14] was created connecting the first peristyle to the second. In the following peristyle [19], the U-shaped pool with the water jets was eliminated, though the rectangular pool (6.30 x 2.50 m), lined with white marble at the south end of the peristyle was kept. Its bottom was 40 centimeters below the level of the floor of the south portico. Several ovoid horticultural pots (oleae perforatae) in common pale earth ceramic were found against the north wall of this pool.
 The rest of the north end of the house remained unchanged. It should be added that the area [29] west of large room [30] may have been a third garden.
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -81,7 +81,7 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -133,6 +133,6 @@ A.D. 185-A.D 247
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

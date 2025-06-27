@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -60,7 +60,7 @@ House of the Large Peristyle
  
 Only its eastern end has been uncovered, and of the rooms for living -- presumably to the west – very little is known. What is known is a large peristyle of unusual form with a center certainly planted as a garden. The long axis of the peristyle ran almost due north to make an angle of about 80 degrees with the street along the north and with the axis of the living areas of the house to the west. The form of the peristyle (32.5 x 18 m with porticoes 3.7 meters wide) would have been a fairly normal, slightly trapezoidal “rectangle” with the south side missing were it not that more than half of the west side was also missing. The colonnade on that side ran straight into a wall, presumably of the neighbor’s house, which jutted out into the southwest corner of our owner’s elegant peristyle courtyard and garden. In the northern part of the courtyard, the presence of a U-shaped channel pool seems well attested but is not shown on the plan.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -77,7 +77,7 @@ NEW WAY ↓↓↓↓
 {{< image src="House of the Large Peristyle.png" alt="ALT_TEXT" title="house of the large peristyle" >}}
 
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -128,6 +128,6 @@ A.D. 20-A.D 60
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

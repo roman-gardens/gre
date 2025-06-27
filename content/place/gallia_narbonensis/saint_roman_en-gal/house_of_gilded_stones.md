@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -68,7 +68,7 @@ On the west were rooms with concrete floors, perhaps bedrooms, except for the ce
 On the axis of the pool, to the north, was the most spacious room [20] (60 square m) which served as a *triclinium*; its presumed mosaic is totally lost. Room [18], with a mosaic floor, could have been a summer dinning room in connection with this garden, especially because of its position to the north.
 Further to the north, at the back of the lot, the house had a large garden [25] of 276 square meters with a portico [24] along the south side, 18.6 meters in length and 3 meters wide, with a floor of pounded earth. Below this portico lay a garden of 276 square meters, which one entered no doubt by steps. Study of the soil has not been able to determine how the place was planted. Was it a pleasure garden or a kitchen garden?
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -127,6 +127,6 @@ A.D. 20 – A.D. 60
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

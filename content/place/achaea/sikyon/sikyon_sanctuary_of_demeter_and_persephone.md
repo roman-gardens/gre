@@ -21,7 +21,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 - [Sicyon]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="570668" term="Sicyon" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW
 
@@ -47,7 +47,7 @@ Sanctuary of Demeter and Persephone
 
 Pausanias gave directions on how to reach the grove called Pyraia, located near the city of Sikyon ([2.11.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.11)).  He did not reveal what kind of trees grew here, but the grove was sacred to Demeter and Persephone.  In it both men and women held religious festivals, but in separate locations.  Statues of Demeter and Persephone, as well as Dionysos, were still standing in a chamber of the sanctuary when Pausanias visited the site in the 2nd century A.D.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -67,7 +67,7 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 OLD WAY (DO NOT USE)

@@ -24,7 +24,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 - [La Cocosa]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256109" term="La Cocosa" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 
 <!-- LEAVE THIS BLANK FOR NOW -->
@@ -36,7 +36,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -71,7 +71,7 @@ Besides the central peristyle, there are several other areas that were possibly 
 
 {{< image src="HIS_LUS_LaCocosa_section fig2.jpg" title="Fig. 2: Plan of the Villa of La Cocosa. Adapted from Serra Rafols." >}}
 
-<!--### Dates-->
+<!--## Dates-->
 
 
 ## Bibliography
@@ -84,13 +84,13 @@ Besides the central peristyle, there are several other areas that were possibly 
 - {{< id vocab="Pleiades" id="256109" term="La Cocosa" >}}
 
 
-<!--### Contributor-->
+<!--## Contributor-->
 
 
 ## Publication date
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

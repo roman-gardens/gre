@@ -21,7 +21,7 @@ Britain is geographically and geologically diverse, and it was characterized in 
 - {{< id vocab="Pleiades" id="981513" term="Britannia (province)" >}}
 - {{< id vocab="TGN" id="7030316" term="Britannia (province)" >}}
 
-<!--#### Periodo ID-->
+<!--## Periodo ID-->
 ## Contributor
 
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
@@ -30,6 +30,6 @@ Britain is geographically and geologically diverse, and it was characterized in 
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

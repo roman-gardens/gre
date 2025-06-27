@@ -100,7 +100,7 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 - {{< id vocab="Pleiades" id="687917" term="Jericho" >}}
 
-<!--#### TGN ID
+<!--## TGN ID
 
 [#](#)-->
 
@@ -114,6 +114,6 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

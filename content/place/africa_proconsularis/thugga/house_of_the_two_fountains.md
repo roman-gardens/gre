@@ -22,7 +22,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 - [THUGGA (Douga) Tunisia]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="315223" term="THUGGA (Douga) Tunisia" >}}
 
-<!--### Plan of City
+<!--## Plan of City
 
 {{< image src="Doua_plan_city.jpg" alt="Plan of Thugga" title="Plan of the Thugga" >}}
 -->
@@ -68,7 +68,7 @@ This house in the W of the market may have had a peristyle garden enclosed by a 
 
 - {{< id vocab="TGN" id="7017996" term="Dougga (deserted settlement)" >}}
 
-## Contributors
+## Contributor
 
 [Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 

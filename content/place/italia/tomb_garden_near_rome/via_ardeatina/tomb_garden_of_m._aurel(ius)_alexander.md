@@ -14,7 +14,7 @@ draft: true
 - {{< id vocab="Pleiades" id="587835546" term="VIA ARDEATINA" >}}
 - {{< id vocab="Pleiades" id="390400921" term="Tomb Garden of M. Aurel(ius) Alexander" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -64,6 +64,6 @@ John Bodel
 
 
 21 Apr 2021
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

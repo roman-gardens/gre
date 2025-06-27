@@ -17,7 +17,7 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 [Enna]({{<relref "../..">}})
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -26,7 +26,7 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 [Enna](https://pleiades.stoa.org/places/462236/)
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -37,7 +37,7 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -95,6 +95,6 @@ R. J. A. Wilson, in G. C. M. Jansen (ed.), Cura aquarum in Sicilia: Proceedings 
 21 Apr 2021
 
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -21,7 +21,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 - [Epidauros]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="570228" term="Epidauros" >}}
 
-<!--### Location Description
+<!--## Location Description
 
 ## Sublocation
 
@@ -42,7 +42,7 @@ Sanctuary of Hyernetho
 
 According to local legend, the Argive maiden, Hyrnetho, died in an ancestral struggle and was buried on this site [(Pausanias, 2.28.6-7)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.28).  The sanctuary lay in the midst of a grove of wild olive trees.  Established law, even in Roman times, forbade anyone to remove broken branches of these olives or any other trees in the grove.
 
-<!--### Maps
+<!--## Maps
 
 ## Plans
 
@@ -53,7 +53,7 @@ According to local legend, the Argive maiden, Hyrnetho, died in an ancestral str
 ## Dates
 unspecified
 
-<!-- ### Bibliography
+<!-- ## Bibliography
 
 ## Pleiades ID -->
 
@@ -61,7 +61,7 @@ unspecified
 
 <!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-<!--#### TGN ID-->
+<!--## TGN ID-->
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->

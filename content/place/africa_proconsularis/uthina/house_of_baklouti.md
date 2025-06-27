@@ -35,7 +35,7 @@ From the accounts given by geographers the site seems to be the ruins that form 
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -55,14 +55,14 @@ The peristyle garden enclosed by a portico on four sides had a long basin, which
 
 
 
-<!--### Maps-->
+<!--## Maps-->
 
 
 ## Plans
 {{< image src="house_of_baklouti.jpg" alt="Fig.1: Plan of the House of Baklouti" title="Fig.1: Plan of the House of Baklouti (Baklouti, H., 1997, fig. 3)." >}}
 
 
-<!--### Images-->
+<!--## Images-->
 <!--Fig.1: Plan of the House of Icarios-->
 
 ## Dates

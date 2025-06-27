@@ -21,7 +21,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 - [Pallene]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="580051" term="Pallene" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW
 
@@ -31,7 +31,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -50,7 +50,7 @@ Sanctuary of Mysian Demeter
 
 Pausanias described a grove of all kinds of trees with a natural spring sacred to Demeter near Pallene in the Argolid ([7.27.9-10](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:7.27)).  According to legend, the sanctuary was established by an Argive, Mysios.  An annual festival of Demeter took place here for the duration of seven days.  On the third day of that festival, the sacred rites were celebrated exclusively by female devotees.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -70,7 +70,7 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 OLD WAY (DO NOT USE)

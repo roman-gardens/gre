@@ -5,7 +5,7 @@ type: garden
 title: "House of the Bust of Marcus Aurelius"
 date: 2020-10-01T07:38:05-07:00
 latlon: [ 36.838512, 11.115794 ]
-author: AUTHOR_UNKONWN
+author: Amina-Aïcha Malek
 editor: Yuming Huang
 draft: true
 ---
@@ -32,7 +32,7 @@ The city was built along the slope of the hill several kilometers northwest of t
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 

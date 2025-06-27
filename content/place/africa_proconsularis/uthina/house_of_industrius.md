@@ -33,7 +33,7 @@ Located to the Southeast of the amphitheater, this house was laid out around a p
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -54,14 +54,14 @@ Located to the Southeast of the amphitheater, this house was laid out around a p
 
 
 
-<!--### Maps-->
+<!--## Maps-->
 
 
 ## Plans
 {{< image src="#" alt="Fig.1: Plan of the House of industrius" title="Fig.1: Plan of the House of industrius (right statement)." >}}
 
 
-<!--### Images-->
+<!--## Images-->
 
 <!--{{< image src="AFR_Uth_Ind_Malek.jpg" alt="Fig. 1: Plan of the House of Industrius. Photo courtesy of Amina-Aïcha Malek." title="Fig. 1: Plan of the House of Industrius. Photo courtesy of Amina-Aïcha Malek.(Rights statement)" >}}-->
 

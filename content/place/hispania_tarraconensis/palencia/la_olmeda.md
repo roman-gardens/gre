@@ -15,7 +15,7 @@ draft: true
 [Palencia]({{<relref "../../../..">}})
 - {{< id vocab="Pleiades" id="236591" term="Palencia" >}}
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 
 ## Location
@@ -36,7 +36,7 @@ The villa is best reached by a well-marked road turning to the west from CL-615 
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -71,7 +71,7 @@ The large number of objects of daily life found in the ruins, some under toppled
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Dates-->
+<!--## Dates-->
 
 
 ## Bibliography
@@ -83,13 +83,13 @@ The large number of objects of daily life found in the ruins, some under toppled
 - {{< id vocab="Pleiades" id="236579" term="La Olmeda" >}}
 
 
-<!--### Contributor-->
+<!--## Contributor-->
 
 
 ## Publication date
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

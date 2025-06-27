@@ -3,7 +3,7 @@ gre_id: "3a192fd948"
 aliases: [/id/3a192fd948]
 type: garden
 title: "House of the Trussed Animals (Maison des animaux liés)"
-date:
+date: 2021-04-21
 latlon: [ 36.400355, 9.903990 ]
 author: Wilhelmina Jashemski
 editor: Nicholas Gill

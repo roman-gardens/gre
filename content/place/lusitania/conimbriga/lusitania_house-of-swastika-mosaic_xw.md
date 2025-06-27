@@ -37,7 +37,7 @@ The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Aug
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -64,10 +64,10 @@ Far more modest than the House of Cantaber but following the same general ideas 
 
 {{< image src="HIS LUS_Conim_Swastika_Photo_CA fig2.jpg"  title="Fig. 2: Looking west over swastika mosaic to garden." >}}
 
-<!--### Dates-->
+<!--## Dates-->
 
 
-<!--### Bibliography
+<!--## Bibliography
 - Morand, I., La Maison aux jets d'eau de Conimbriga (Boccard, Paris, 2005). [(worldcat)](http://www.worldcat.org/oclc/255066311) -->
 
 ## Pleiades ID
@@ -75,13 +75,13 @@ Far more modest than the House of Cantaber but following the same general ideas 
 - {{< id vocab="Pleiades" id="236443" term="Conimbriga" >}}
 
 
-<!--### Contributor-->
+<!--## Contributor-->
 
 
 ## Publication date
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

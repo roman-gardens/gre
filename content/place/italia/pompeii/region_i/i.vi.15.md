@@ -47,7 +47,7 @@ House of L. Ceius Secundus; House of the Ceii; of Queen Elena; of Fabia and Tyra
 
 This small garden was located at the rear of the house and featured a [portico](http://vocab.getty.edu/page/aat/300004145) on part of the south side and a [gutter](http://vocab.getty.edu/page/aat/300052565) along the south and east sides which carried water to the [cistern](http://vocab.getty.edu/page/aat/300052558). Preserved on the rear wall was one of the best animal paintings found in Pompeii, with three large openings provided in the painting to accommodate garden lights. On either side of the animal painting at the lower part of the wall is a garden painting with a sphinx crouching in oleanders with dark red blossoms holding a fountain basin. The [fountain](http://vocab.getty.edu/page/aat/300006179) on the right would appear to pour water into the actual [gutter](http://vocab.getty.edu/page/aat/300052565) below. A realistic border of myrtle (*Myrtus communis L.*) and ivy (*Hedera helix L.*) is painted along the bottom of the wall with birds flying across a red background. Just above this, branches of ivy are painted along the bottom of an expansive wild animal scene. A bull is being pursued by a lion across a rocky lake shore on the lower foreground, wolves and wild boars occupy the center of the picture on the opposite shore, on the right a leopard is chasing two rams, and two gazelles are painted on the left. Brackets for [garden lights](http://vocab.getty.edu/page/aat/300183142) had been installed where three large holes remained in this animal painting. The outside walls of the *apotheca* (storeroom) on the southwest corner of the garden had painted garden motifs. There was a garden scene painted on a reddish background depicting a statue of a water nymph with a two handled basin appearing to catch water from the roof and directing it to the [gutter](http://vocab.getty.edu/page/aat/300052565) below. To the left are bushes with a tawny owl (*Strix aluco L.*) and to the right is a white pigeon or rock dove (*Columba livia Gmelin*). Over this was a panel with two peacocks (*Pavo cristatus L.*) facing a bronze garden ornament that consists of a leafy stalk topped by a round shield. Flowering plants fill in the bottom while the top of the panel is graced with two garlands and two flying birds, a swallow (*Hirundo rustica L.*) on the left and a large headed bird on the right which could be a shrike (*Lanius sp.*) Although the outside wall of the *apotheca* was badly damaged, to the right of the window paintings of a bush with red blossoms and a myrtle bush on a yellow background survived. The east and west walls were decorated with large Egyptian landscapes. Another garden decoration, a marble dove (0.29 m. long) was found in the kitchen.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -58,7 +58,7 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Plans
+<!--## Plans
 
 {{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
@@ -112,6 +112,6 @@ Excavated 1913.
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -42,7 +42,7 @@ Caupona with small bath.
 A. A very small bath was located at the left rear of the [atrium](http://vocab.getty.edu/page/aat/300004097) in this unusual building. Behind this was a tiny garden with three small triclinia on either side. The couches of these six [triclinia](http://vocab.getty.edu/page/aat/300004359) were so low and narrow they must have been used as seats similar to the [tabernae](http://vocab.getty.edu/page/aat/300005366) attached to the house of Julia Felix (II.iv.7).
 B. Another small garden was found to the rear of the [caupona](http://vocab.getty.edu/page/aat/300005208).
 
-<!--### Plans
+<!--## Plans
 {{< image src="../../fig._62,_plan_of_region_ii,_insula_viii.png" alt="Fig. 62, Plan of Region II, insula viii" title="Fig. 62, Plan of Region II, insula viii" >}}-->
 
 ## Pleiades ID

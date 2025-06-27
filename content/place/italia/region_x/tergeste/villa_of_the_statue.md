@@ -10,7 +10,7 @@ editor: Zhenrui Mei
 draft: true
 ---
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -20,7 +20,7 @@ draft: true
 - [Tergeste]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="187578" term="Tergeste" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -28,7 +28,7 @@ draft: true
 
 [Region X]({{<relref "..">}})
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -69,7 +69,7 @@ During nineteenth century excavations, fragments of two superimposed wall painti
 North of the peristyle was the bath quarter (Fig. 1: G, H, I, M, P), but it is not completely clear how the two parts of the villa were connected.  In a partially excavated Tuscan type atrium (G) with an impluvium, several fragments of a marble torso were recovered, possible from a copy of the Polykleitan Doryphoros or Diadumenos.  On the west side of the villa facing the sea was a porticoed garden (Z) and large semicircular exedra (24 m in diameter).  Under the mosaic floor of this exedra are traces of an earlier room (Fig. 1: a) with a mosaic floor.  On axis with the center of the exedra and garden was a triclinium (6.2 x 12 m) with a black-and-white mosaic floor.  Another exedra (7.5 x 15 m), with a black-and-white mosaic floor, had large windows looking to the sea, and beside it a staircase leading to the water’s edge and to a dock.
 
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -111,6 +111,6 @@ NEW WAY ↓↓↓↓
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

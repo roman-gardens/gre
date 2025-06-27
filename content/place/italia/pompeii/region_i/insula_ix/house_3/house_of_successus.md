@@ -19,7 +19,7 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -52,7 +52,7 @@ House of Successus (I.ix.3)
 
 A portrait of a little boy painted on the north wall of the *cubiculum*, to the left of the *atrium*, with the graffito PVER/SUCCUSSVS (*CIL* IV. 9992a) gave this house its name. Excavated in 1952, the garden (a) at the rear of the house had a *portico*, and a table base carved as a statuette of a small boy with a dove (Pompeii inv. no. 20395) was discovered in the north portico. Fig. 3, Fig. 4. <span style="color:orange">The room in the southwest corner of the garden (b) had a garden representation on the large white middle panel on the south wall of the room. It was framed by a narrow reddish-brown border and painted in shades of brown and white on a light blue-green background. Two gardens enclosed by a wooden fence contained an open apse-shaped area in between them with a round pool. A jet in the center jetted water which descended in two separate streams. The gardens on the side were cut off by the frame. A figure across the front of the painting was perhaps a fence defining a passageway.</span> Fig. 5.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -110,6 +110,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

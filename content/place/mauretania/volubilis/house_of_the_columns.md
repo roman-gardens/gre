@@ -32,7 +32,7 @@ The city rapidly developed and expanded; new temples, baths, civic buildings and
 
 <!--## Sublocation-->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 ## Garden
 
@@ -81,6 +81,6 @@ The House of the Columns, approximately 1880 square meters, is located to the no
 
 <!--07 July 2020-->
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

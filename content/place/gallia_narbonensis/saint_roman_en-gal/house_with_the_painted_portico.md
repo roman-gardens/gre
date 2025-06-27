@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [House with the Painted Portico](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -61,7 +61,7 @@ House with the Painted Portico
 This house was destroyed to build the market and lies under it, but it is partly visible through glass plates in the floor. It was occupied approximately from 60 to 140. The lot covered 947 square meters and has two façade porticoes, one on the rue du Commerce and one on Voie III. The house was arranged around a central trapezoidal courtyard [1] (roughly 7,50 x 6,50 m) which may have been a garden. There were porticoes on only the north and east sides [2 and 3]. They had pounded earth floors; their black and green painted columns give the house its name. A one-meter wide channel pool ran around the north, east and south sides. Later, this pool was made shallower and its bottom covered with a concrete containing calcite crystals. A rectangular pool (5 x 2 m) with an axial apse of 1 meter closed the U-shaped channel pool on the west. A single cutting pot was found during the excavation.
 
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -112,6 +112,6 @@ NEW WAY ↓↓↓↓
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

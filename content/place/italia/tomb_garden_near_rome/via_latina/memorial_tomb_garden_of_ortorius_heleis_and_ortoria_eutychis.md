@@ -15,7 +15,7 @@ draft: true
 - [via latina]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="93042695" term="via latina" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 

@@ -10,7 +10,7 @@ editor: June Dorsch
 draft: true
 ---
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -20,7 +20,7 @@ draft: true
 - [Winden Am See]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="197425" term="Winden Am See" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 
 <!--## Sublocation-->
@@ -30,7 +30,7 @@ draft: true
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -51,14 +51,14 @@ The modest house of this *villa rustica* is of the so-called corridor type, a ty
 
 On the southeast of the house was a vestibule, from which a central corridor departed at a 90 degree angle. This corridor divided the house into two parts of equal width. Two walls at right angles to the house at the northeast enclosed an area in which the excavators found "fine garden soil." This observation allows the reconstruction of a garden, probably a kitchen garden, next to the house (G in Fig. 1).
 
-<!--### Maps-->
+<!--## Maps-->
 
 
 ## Plans
 
 {{< image src="PAN_WID_Villa_M_Carroll.jpg" alt="Fig. 1: Plan of the farmhouse with a garden plot (G) enclosed by walls. Adapted from Thomas 1964, fig. 107." title="Fig. 1: Plan of the farmhouse with a garden plot (G) enclosed by walls. Adapted from Thomas 1964, fig. 107.(Rights statement.)" >}}
 
-<!--### Images-->
+<!--## Images-->
 
 
 ## Dates

@@ -19,7 +19,7 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -48,7 +48,7 @@ I.ix.12
 
 A low wall connected the three columns and a pillar that supported the *portico* of this *peristyle* garden (a) located to the back of the house. The *portico* enclosed the garden on the on the east and south and entry was gained on the south between two of the columns. The excavation was done in 1952-53 and uncovered a *lararium* niche on the west garden wall.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -65,7 +65,7 @@ NEW WAY ↓↓↓↓
 
 {{< image src="../region-i-insula-ix.png" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." title="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement)." >}}
 
-<!--### Images-->
+<!--## Images-->
 
 
 ## Dates
@@ -99,6 +99,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

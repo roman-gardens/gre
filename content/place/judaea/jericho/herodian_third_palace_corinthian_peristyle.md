@@ -74,7 +74,7 @@ With porticoes on three sides and measuring 23 x 14.5m, this courtyard, known as
 
 {{< image src="ASIA_JUD_JERICHO_16a.jpg" alt="Figure 3: Plan of Corinthian peristyle garden (B55) showing contouring (K. Gleason)." title="Figure 3: Plan of Corinthian peristyle garden (B55) showing contouring (K. Gleason)." >}}
 
-<!--### Images
+<!--## Images
 
 {{< image src="ASIA_JUD_JERICHO_16b.jpg" alt="Figure 16b: Axonometric reconstruction of Corinthian peristyle garden (B55) showing contouring (Yaniv Korman)." title="Axonometric reconstruction of Corinthian peristyle garden (B55) showing contouring (Yaniv Korman)." >}} -->
 
@@ -99,7 +99,7 @@ With porticoes on three sides and measuring 23 x 14.5m, this courtyard, known as
 
 - {{< id vocab="Pleiades" id="687917" term="Jericho" >}}
 
-<!--#### TGN ID
+<!--## TGN ID
 
 [#](#)-->
 
@@ -113,6 +113,6 @@ With porticoes on three sides and measuring 23 x 14.5m, this courtyard, known as
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

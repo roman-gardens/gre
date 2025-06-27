@@ -42,7 +42,7 @@ Casa Dei Quadretti Teatralli; House of the Calavii; Casa di Casca Longus.
 
 A partially completed wall joined the [columns](http://vocab.getty.edu/page/aat/300001571) supporting the [portico](http://vocab.getty.edu/page/aat/300004145) at the rear of this house.  Next to this was a small garden which was in an extreme state of ruin at the time of excavation due to the weakening of the wine cellar vaults below. The vaults had openings to admit light and air for the wine ageing and a [cistern](http://vocab.getty.edu/page/aat/300052558) was also located under the garden. On the [portico](http://vocab.getty.edu/page/aat/300004145) to the east there was a large terra-cotta puteal. A room on the south end of the east [portico](http://vocab.getty.edu/page/aat/300004145) contains a garden representation on the west wall. Barely a third of the representation survived and what remains is extremely faded. It is painted in yellow on a small dark green panel in the center of a red wall and shows a pergola with a lattice [fences](http://vocab.getty.edu/page/aat/300005044) extending from both sides and a section of [fence](http://vocab.getty.edu/page/aat/300005044) in front.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -92,6 +92,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

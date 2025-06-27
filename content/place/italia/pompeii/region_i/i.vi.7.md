@@ -41,7 +41,7 @@ Fullonica of Stephanus; Fullery of Stephanus.
 
 This house had been converted to a fullery and the small [peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the rear probably served as a drying area. Five [pillars](http://vocab.getty.edu/page/aat/300264605) of the [portico](http://vocab.getty.edu/page/aat/300004145) were connected by a low, marble topped wall. This enclosed the raised garden on the east, north and west sides with a deep [gutter](http://vocab.getty.edu/page/aat/300052565) running around the garden along the wall.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -53,7 +53,7 @@ NEW WAY ↓↓↓↓
 -->
 
 
-<!--### Plans
+<!--## Plans
 
 {{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
@@ -94,6 +94,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

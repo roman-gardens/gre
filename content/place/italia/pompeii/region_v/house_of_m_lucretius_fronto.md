@@ -23,7 +23,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 - [Pompeii]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
@@ -61,7 +61,7 @@ A. Immediately to the south of the rear door to the *tablinium*, excavated in 19
 <!--{{< image src="Euro_GaAq_Montreal_Villa de Séviac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." title="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." >}}
 -->
 
-<!--### Images-->
+<!--## Images-->
 
 
 ## Dates
@@ -91,6 +91,6 @@ Unspecified
 ## Publication date
 
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

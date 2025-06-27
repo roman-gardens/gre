@@ -11,7 +11,7 @@ translator: Clopper Almon
 draft: true
 ---
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -34,7 +34,7 @@ Archaeology in a downtown area is always a matter of seizing opportunities as th
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -68,7 +68,7 @@ The largest of the rooms, decorated by the Neptune mosaic, opened on its north s
 
 A fragment of a little ornamental stone *krater* was found in the material that filled the east peristyle after its abandonment. From late antiquity is the foundation of a pool or cistern of about 3.5 by 2.5 meters. Its stones have been removed, and only the *opus signinum* mortar bearing the imprint of the stones has been found. This structure pierced through all the archaeological levels and into the natural earth.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -80,7 +80,7 @@ A fragment of a little ornamental stone *krater* was found in the material that 
 
 - Fig. 1: Plan of the domus, now under the Collège Lumière.
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -119,6 +119,6 @@ Christophe Gaston (ORCID: [https://orcid.org/0000-0001-6865-5108](https://orcid.
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

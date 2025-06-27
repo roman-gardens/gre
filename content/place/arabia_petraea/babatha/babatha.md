@@ -75,6 +75,6 @@ Some years later, Shim'on ben Menahem transferred ownership of the property to h
 
 February 5, 2022
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

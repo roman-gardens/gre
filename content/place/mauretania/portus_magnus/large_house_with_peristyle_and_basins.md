@@ -30,7 +30,7 @@ The ancient city is located about 5 km from the modern city of Arzew and 35 km n
 
 <!--## Sublocation-->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 ## Garden
 
@@ -79,6 +79,6 @@ A corridor (see Fig. 1, label M) was bordered by two small gardens (labels N and
 
 <!--07 July 2020-->
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

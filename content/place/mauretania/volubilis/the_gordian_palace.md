@@ -32,7 +32,7 @@ The city rapidly developed and expanded; new temples, baths, civic buildings and
 
 <!--## Sublocation-->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 ## Garden
 
@@ -82,6 +82,6 @@ Second century CE
 
 <!--07 July 2020-->
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -14,7 +14,7 @@ draft: true
 - {{< id vocab="Pleiades" id="74935822" term="Via Labicana" >}}
 - {{< id vocab="Pleiades" id="229438405" term="Tomb Garden of a Funerary Collegium" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -81,6 +81,6 @@ John Bodel
 
 
 21 Apr 2021
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -15,7 +15,7 @@ draft: true
 - [VINDINUM a.k.a. Subdinnum (Le Mans, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="109236" term="VINDINUM a.k.a. Subdinnum" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -85,6 +85,6 @@ Unspecified
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

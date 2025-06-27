@@ -39,7 +39,7 @@ Shop-House garden with an outdoor [triclinium](http://vocab.getty.edu/page/aat/3
 
 The shop-house was laid out in a very irregular manner and the garden took up most of the space. There was a masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) in the southern part of the garden. This had a *lectus imus* and a *lectus summus* that both were 3.80 m. in length and the *lectus medius* was 4.24 m. in length. The rectangular [table](http://vocab.getty.edu/page/aat/300039548) measured 1.10 x 0.75 m.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -56,7 +56,7 @@ NEW WAY ↓↓↓↓
 
 {{< image src="../Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." title="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement)." >}}-->
 
-<!--### Images-->
+<!--## Images-->
 
 ## Dates
 Excavated 1868 and 1927.
@@ -83,6 +83,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

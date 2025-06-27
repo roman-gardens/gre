@@ -37,7 +37,7 @@ Among the most remarkable monuments of the ancient city are the best preserved l
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -58,13 +58,13 @@ This house located E of the House of the Dolphins, has a small sunken peristyle 
 
 
 
-<!--### Maps-->
+<!--## Maps-->
 
 
 ## Plans
 {{< image src="AFR_Thy_Hwm_Wjashemski1.jpg" alt="Fig.1: Plan of the house of the White Mosaic." title="Fig.1: Plan of the house of the White Mosaic. (CMT, plan 7)" >}}
 
-<!--### Images-->
+<!--## Images-->
 
 ## Dates
 

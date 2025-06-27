@@ -16,7 +16,7 @@ draft: false
 - [Corinth]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="570182" term="Corinth" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -27,7 +27,7 @@ draft: false
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -53,7 +53,7 @@ Fragments of marble sculpture were found in the fill above the spina, including 
 
 The so-called “hippodrome garden” type (see the Domus Flavia on the Palatine Hill in Rome, the “Stadium-Garden at Hadrian’s Villa at Tivoli, the Villa of the Little Circus at Silin, Jericho, Pliny’s Tuscan villa, and Domitian’s villa above Lake Albano) must have been inspired in some way by Greek hippodromes and/or by Roman circuses with planted areas with sculptural and possibly architectural decoration in the central area and probably around the circumference of the elongated racecourse. It must be pointed out, however, that no Greek hippodrome has ever been excavated, although [recent excavations](http://lykaionexcavation.org) at the Sanctuary of Zeus on Mt. Lykaion in Arcadia may be able to shed some light for the first time on a Classical period hippodrome structure and its possible garden features. In addition, although trees appear in circus scenes illustrating the spina and meta of the Circus Maximus in Rome on 3rd – 4th century A.D. mosaics, e.g., the Barcelona mosaic, as well as on coins, e.g., coin of Philip I, and on sarcophagus reliefs, such as the Vatican sarcophagus (Humphrey, 235-236, figs. 56, 119; p. 127, fig. 56; pp. 196-203, fig. 99-101) and the possibility of plantings has been proposed in the spinae of Roman circuses (e.g., by Humphrey, 38 for the circus at Leptis Magna), no specific archaeological evidence has been recorded until the publication of this circus at Corinth.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}

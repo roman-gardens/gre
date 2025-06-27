@@ -21,7 +21,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 - [Megalopolis]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="570467" term="Megalopolis" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW
 
@@ -29,7 +29,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 [The Agora of Megalopolis](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -47,7 +47,7 @@ Sanctuary of Zeus Philios
 
 Pausanias mentioned a small grove of trees in the sanctuary of Zeus Philios that was in close proximity to the agora in Megalopolis [(8.31.4-5)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:8.31). The grove was enclosed within a boundary wall.  In the precinct were images of the goddesses Demeter and Kore.  This grove almost certainly had been in existence since pre-Roman times, but it still flourished in the 2nd century A.D. when Pausanias visited the site.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -67,7 +67,7 @@ NEW WAY ↓↓↓↓
 {{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 OLD WAY (DO NOT USE)

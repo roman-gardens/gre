@@ -41,7 +41,7 @@ Herod the Great’s primary residence and burial place appears to have been this
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -69,7 +69,7 @@ In 2005, Netzer’s team found the long-sought tomb of Herod, positioned on a te
 
 {{< image src="ASIA_JUD_HERODIUM _1.jpg" alt="Fig. 1:Plan of the complex at Herodium showing the Fortress Palace with its small peristyle garden (A), the Tomb Garden (B) and the Lower Palace with its central pool and cultivated grounds (C) (Yaniv Korman after Netzer)." title="Fig. 1:Plan of the complex at Herodium showing the Fortress Palace with its small peristyle garden (A), the Tomb Garden (B) and the Lower Palace with its central pool and cultivated grounds (C) (Yaniv Korman after Netzer)" >}}
 
-<!--### Images
+<!--## Images
 
 {{< image src="ASIA_JUD_HERODIUM _2.jpg" alt="Fig. 2: A reconstruction drawing of the mausoleum garden at its later period, around 20 AD (Yaniv Korman)." title="Fig. 2: A reconstruction drawing of the mausoleum garden at its later period, around 20 AD (Yaniv Korman)" >}}
 
@@ -107,6 +107,6 @@ In 2005, Netzer’s team found the long-sought tomb of Herod, positioned on a te
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

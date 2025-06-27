@@ -10,7 +10,7 @@ editor: Zhenrui Mei
 draft: true
 ---
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -20,7 +20,7 @@ draft: true
 - [LA SPEZIA]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="966420455" term="LA SPEZIA" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -28,7 +28,7 @@ draft: true
 
 [Region IX]({{<relref "..">}})
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -54,7 +54,7 @@ Villa at Luna
 
 The coastal villa was located at the east end of the Gulf of La Spezia and controlled a large fundus. Little is known of the first nucleus of the villa, dated to 120-100 B.C. The layout that has survived dates to the second phase (80-50 B.C.). The excavated portion of the pars urbana is to the north of a large courtyard (Fig. 1: 11). On the same axis with the vestibulum and Corinthian atrium (respectively 1 and 2 in fig. 1) was a quadrangular hortus (Fig. 1:8). Most probably this garden was surrounded by porticoes. Several water canals passed through the garden and ended in Courtyard 11. In the late first century A.D. the main residential part was moved to a higher elevation, and the area of the Corinthian atrium was transformed into a bath suite. These changes affected also the hortus: the level of the area was raised, some service-rooms were built, and in the west corner was the praefurnium.. From the west corner a masonry staircase led to the granaria (Fig. 1: 9). Courtyard 11 possessed in the middle one or maybe two open air water basins. Several underground water drains crossed it, gathering rainfall waters into a main drain, which ended in the cove. Building phases dated to the third and fourth centuries A.D. did not substantially change this space distribution. The villa was inhabited until the sixth century A.D.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -65,7 +65,7 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Images-->
+<!--## Images-->
 
 
 ## Dates
@@ -98,6 +98,6 @@ Jeffrey Becker
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

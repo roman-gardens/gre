@@ -15,7 +15,7 @@ draft: true
 [Sagunto]({{<relref "../../../..">}})
 - {{< id vocab="Pleiades" id="266020" term="Sagunto" >}}
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 
 ## Location
@@ -23,7 +23,7 @@ draft: true
 - [Saguntum]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="266021" term="Saguntum/Arse" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ draft: true
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -65,7 +65,7 @@ A marble slab found at Puçol (Puzol) near Saguntum, now lost,  but originally p
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Dates-->
+<!--## Dates-->
 
 
 ## Bibliography
@@ -76,13 +76,13 @@ A marble slab found at Puçol (Puzol) near Saguntum, now lost,  but originally p
 - {{< id vocab="Pleiades" id="266021" term="Saguntum/Arse" >}}
 
 
-<!--### Contributor-->
+<!--## Contributor-->
 
 
 ## Publication date
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

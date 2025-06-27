@@ -21,7 +21,7 @@ The three most famous gymnasia in Athens, situated outside the city in naturally
 
 Ancient literary references to the plane, elm, poplar, and olive trees in the Academy are numerous.  Excavations in the suburb of Academy have shown that a new gymnasium was built there in the late Hellenistic/early Roman period.  This gymnasium consisted of a central courtyard enclosed by porticoes on all four sides (Fig. 1). The northern wing of the building complex contained rooms which were probably used as libraries and for lectures, while the south, west and east wings appear to have had a row of desks, of which only the stone bases remain, running down the middle of each corridors. The courtyard itself may have been used as a palaestra for training, although by this period Greek education focused less on physical training than on lectures, debates, and literary study.  The courtyard had a pool in the center (P on plan) and a podium for statues (S on plan), possibly of the Muses, at the northern end, both of which certainly would have restricted any space for athletics.   No paving in the courtyard could be found, and it possible that it was planted in some way, perhaps with shade trees (G on plan).
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -31,7 +31,7 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 
 {{< image src="gymnasium.jpg" alt="Plan of the late Hellenistic/early Roman gymnasium in the suburb of Academy at Athens" title="Fig. 1: Plan of the late Hellenistic/early Roman gymnasium with a possible garden (G), a pool (P) and a podium for statues (S) in the suburb of Academy at Athens. Adapted from Travlos 1971, fig. 59." >}}
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}

@@ -24,7 +24,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 - [Lavra]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="532133456" term="Lavra" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 
 <!-- LEAVE THIS BLANK FOR NOW -->
@@ -36,7 +36,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -68,10 +68,10 @@ The remains of a large villa were discovered in 1900 under an abandoned Benedict
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Dates-->
+<!--## Dates-->
 
 
-<!--### Bibliography
+<!--## Bibliography
 - J. de C. Serra Rafols, La villa romana de la Dehesa de ‘La Cocosa’. Badajoz, 1952. [(worldcat)](http://www.worldcat.org/oclc/17319391)
 - J. de C. Serra Rafols, ‘A propósito de la villa de La Cocosa. Rectificación.’ In Archivo Español de Arqueología, XXVI. CSIC, Madrid, 1953, p. 302. [(worldcat)](http://www.worldcat.org/oclc/1122498001)
 - J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](http://www.worldcat.org/oclc/803415143)-->
@@ -81,13 +81,13 @@ The remains of a large villa were discovered in 1900 under an abandoned Benedict
 - {{< id vocab="Pleiades" id="532133456" term="532133456" >}}
 
 
-<!--### Contributor-->
+<!--## Contributor-->
 
 
 ## Publication date
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -47,7 +47,7 @@ House of P. Paquius Proculus; House of C. Cuspius Pansa.
 
 This elegant house was excavated in 1923. To the rear was a large and sunny [peristyl](http://vocab.getty.edu/page/aat/300004029) garden with a [portico](http://vocab.getty.edu/page/aat/300004145) on four sides supported by sixteen [columns](http://vocab.getty.edu/page/aat/300001571). At the northeast corner stood a lava puteal with a [gutter](http://vocab.getty.edu/page/aat/300052565) that ran around the edges of the garden. In the center of the garden a wooden [triclinium](http://vocab.getty.edu/page/aat/300004359) was shaded by a [pergolas](http://vocab.getty.edu/page/aat/300006783) supported by four columns. The nails and the imprint of the wooden structure of the [triclinium](http://vocab.getty.edu/page/aat/300004359) were clearly preserved. A marble faced rectangular [pool](http://vocab.getty.edu/page/aat/300375619), with an apse-shaped extension to the north and a [fountain](http://vocab.getty.edu/page/aat/300006179) jet, was located in front of the [triclinium](http://vocab.getty.edu/page/aat/300004359). This [pool](http://vocab.getty.edu/page/aat/300375619) was connected to a smaller marble basin between the couches of the [triclinium](http://vocab.getty.edu/page/aat/300004359). An excellent view of the garden was afforded from the large salon at the rear of the [tablinum](http://vocab.getty.edu/page/aat/300004180) with two [columns](http://vocab.getty.edu/page/aat/300001571) at the entrance of the [portico](http://vocab.getty.edu/page/aat/300004145). The [oecus](http://vocab.getty.edu/page/aat/300080791) also opened on the north [portico](http://vocab.getty.edu/page/aat/300004145) with a fine view of the garden and the loggia above had a view of the garden as well as views to the sea and the Lattari Mountains.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -58,13 +58,13 @@ NEW WAY ↓↓↓↓
 {{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Plans
+<!--## Plans
 
 {{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< image src="../region-i-insula-8.jpg" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." title="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement)." >}}
 
-<!--### Images-->
+<!--## Images-->
 
 ## Dates
 Excavated 1912, 1915, 1926 and 1936.
@@ -98,6 +98,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

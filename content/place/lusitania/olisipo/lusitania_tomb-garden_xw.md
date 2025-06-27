@@ -24,7 +24,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 - [Olisipo]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256338" term="Olisipo" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 
 <!-- LEAVE THIS BLANK FOR NOW -->
@@ -36,7 +36,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -67,10 +67,10 @@ An inscription found immured in the corner of a house near Lisbon around 1735 re
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Dates-->
+<!--## Dates-->
 
 
-<!--### Bibliography
+<!--## Bibliography
 - M. Heleno, ‘A ‘villa’ lusitano-romano de Torre de Palma (Monforte),’ O Arqueólogo Portugés ser 2, 6 (1962) p. 313-38. [(worldcat)](http://www.worldcat.org/oclc/517199729)
 - J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](http://www.worldcat.org/oclc/803415143)
 - S. J. Maloney and J. R. Hale, ‘The villa of Torre de Palma (Alto Alentejo)’ Journal of Roman Archaeology, vol. 9, 1996, p. 275-94. [(worldcat)](http://www.worldcat.org/oclc/51847498)-->
@@ -80,13 +80,13 @@ An inscription found immured in the corner of a house near Lisbon around 1735 re
 - {{< id vocab="Pleiades" id="256338" term="Olisipo" >}}
 
 
-<!--### Contributor-->
+<!--## Contributor-->
 
 
 ## Publication date
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

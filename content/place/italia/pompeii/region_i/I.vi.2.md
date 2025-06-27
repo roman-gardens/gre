@@ -53,7 +53,7 @@ A. A passageway from the [atrium](http://vocab.getty.edu/page/aat/300004097) led
 
 B. At the rear of the house, a large enclosed garden had been increased in size by reducing the wings of the [cryptoporticus](http://vocab.getty.edu/page/aat/300004295). The last owner had built a spacious [loggia](http://vocab.getty.edu/page/aat/300004137) (5 x 20 m.) above the north wing of the [cryptoporticus](http://vocab.getty.edu/page/aat/300004295) overlooking the garden. A high wall joined the five [pillars](http://vocab.getty.edu/page/aat/300264605) and the roof supporting pilaster and formed windows into the garden. At the west end of the [loggia](http://vocab.getty.edu/page/aat/300004137) was a masonry triclinium with side couches, each having a fulcrum (foot), (l. medius 4.41m.; l.summus and l. imus 4.68 m.; dia. of table 0.55m.). A large area was left open for tables or dancers, suggesting to Spinoza that this could have been a public gathering place. There were low seats in front of the side couches and extended along the terrace walls that may have been intended for children according to Soprano. A kitchen was located on the north side of the [loggia](http://vocab.getty.edu/page/aat/300004137). Six steps from the southeast corner of the [loggia](http://vocab.getty.edu/page/aat/300004137) led up into the garden which had been raised to the level of the windows in the [cryptoporticus](http://vocab.getty.edu/page/aat/300004295). Della Corte thought that this garden had been used to raise many cabbages and leeks. The remains of eleven victims of the volcanic eruption were found in the garden.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -70,7 +70,7 @@ NEW WAY ↓↓↓↓
 
 {{< image src="../region-i-insula-v.png" alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10." title="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10 (Rights Statement)." >}}
 
-<!--### Images-->
+<!--## Images-->
 
 
 ## Dates
@@ -105,6 +105,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

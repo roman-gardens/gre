@@ -16,7 +16,7 @@ draft: false
 [Nicopolis]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="531013" term="Nicopolis" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW
 
@@ -26,7 +26,7 @@ draft: false
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -57,7 +57,7 @@ During the excavation of the upper terrace within the peristyle courtyard sherds
 
 The pots were placed along the outer stylobates of the porticos at a distance of between 20 to 60 cm from the stylobate. Two planting pots at the rear of the podium probably mark the extent of the courtyard to the south. Perhaps other plants were placed near the pedestals and the altar of the monument, but for the moment this cannot be proven. The exact distance between the pots is impossible to calculate, but from a few in situ examples, it appears that the plants were placed very close to each other in front of the columns. This arrangement would exclude the planting of large trees, which would cause damage to the porticos and cut off the view from the interior. No traces of the roots or the seeds of the plants that might have been in the pots have been found, but the plants used to decorate the sacred area of the monument may have been laurels for their association with Apollo and with victory, victorious generals, and their triumphs. In Octavian’s Actian triumph, depicted in the *tropaeum* of Nicopolis on the altar’s marble frieze, he stands on the *currus triumphalis* holding a laurel branch in his extended right hand and wearing a laurel wreath on his head. All the magistrates who accompany him in the triumph also wear laurel wreaths. The Roman Senate voted in 27 BCE that a laurel tree should be placed on each side of the door of the House of Augustus on the Palatine, and a civic crown of oak leaves should be placed above the door [(*Res Gestae* 34)](http://data.perseus.org/citations/urn:cts:latinLit:phi1221.phi007.perseus-lat1:34). As an emblem of Octavian/Augustus, as well as Apollo, the laurel would have been a natural choice for his Sacred Hill where Octavian erected the monument as an act of *pietas* to his patron god and his divine supporters, Mars and Neptune.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)

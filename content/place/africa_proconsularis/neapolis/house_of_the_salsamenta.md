@@ -5,7 +5,7 @@ type: garden
 title: "House of the Salsamenta (Usine de salaison)"
 date: 2020-10-06T10:39:31-07:00
 latlon: [ 36.438789, 10.717447 ]
-author: Amina-Aïcha Malek, V.Blanc-Bijon
+author: Amina-Aïcha Malek, Véronique Blanc-Bijon
 editor: Xue Xia
 draft: true
 ---
@@ -36,7 +36,7 @@ The city of Neapolis that bears a Greek name meaning the “new city”, is loca
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -109,6 +109,6 @@ Unspecified
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

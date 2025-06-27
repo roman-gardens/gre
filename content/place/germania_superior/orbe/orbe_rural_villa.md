@@ -10,7 +10,7 @@ editor: June Dorsch
 draft: true
 ---
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -20,7 +20,7 @@ draft: true
 - [Orbe]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="177598" term="Orbe" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -31,7 +31,7 @@ draft: true
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -51,7 +51,7 @@ archaeological garden \
 
 This large palatial house belonged to a villa rustica revealed by excavation and aerial photography. The enclosed farmyard is calculated to have been approximately 420 x 650 meters in size. The house itself, built in the mid-1st century AD and in use until the 4th century, was 200 meters long (Fig. 1). This winged corridor house had two large open courtyards between the protruding wings at the front. These were very likely gardens (G in Fig. 1). Twenty-five meters in front of the house at the east was a long terrace wall 400 meters long running north-south. There may have been gardens or a park (G in Fig. 1) between the house and this terrace wall.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -61,7 +61,7 @@ This large palatial house belonged to a villa rustica revealed by excavation and
 
 {{< image src="EUR_GS_Orb_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa (A) with two large courtyard gardens (G) and a possible walled garden (G) to the east of the main house. The dotted lines are structures known only from aerial photography. Adapted from Drack and Fellmann 1988, fig. 423." title="Fig. 1: Plan of the rural villa (A) with two large courtyard gardens (G) and a possible walled garden (G) to the east of the main house. The dotted lines are structures known only from aerial photography. Adapted from Drack and Fellmann 1988, fig. 423. (Rights Statement)" >}}
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
@@ -95,6 +95,6 @@ House: mid-1st century CE - 4th century
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

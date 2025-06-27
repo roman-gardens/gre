@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -59,6 +59,6 @@ Unspecified
 
 ## Publication date
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

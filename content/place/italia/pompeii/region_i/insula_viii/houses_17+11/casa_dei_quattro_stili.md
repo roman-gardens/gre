@@ -19,7 +19,7 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -48,7 +48,7 @@ Casa dei Quattro Stili; House of L.V.P. (I.viii.17/11)
 
 A *portico* supported by four pillars at the back of this house enclosed this *peristyle* garden (a) on the west. There was a passageway to the north of this garden that provided a back entrance to this house. A roof tile found in the garden in 1938 was inscribed FVLGVR (*CIL* IV.8223) and marked the spot where lightning had struck and where all affected items were buried.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -65,7 +65,7 @@ NEW WAY ↓↓↓↓
 
 {{< image src="../region-i-insula-8.jpg" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." title="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement)." >}}
 
-<!--### Images-->
+<!--## Images-->
 
 
 ## Dates
@@ -97,6 +97,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

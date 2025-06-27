@@ -24,7 +24,7 @@ The regions on the upper [Rhine](#) formally became the province of Germania Sup
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-<!--### Plans-->
+<!--## Plans-->
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -58,6 +58,6 @@ c. AD 85
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

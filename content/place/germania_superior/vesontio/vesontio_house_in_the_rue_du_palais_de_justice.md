@@ -11,7 +11,7 @@ translator: C.A.
 draft: true
 ---
 
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -34,7 +34,7 @@ Archaeology in a downtown area is always a matter of seizing opportunities as th
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -67,13 +67,13 @@ In the second half of the second century, the “garden” was restructured. The
 
 At the beginning of the third century, the two *domus* were transformed. In particular, polychrome mosaics were installed in the east house and rooms with hypocausts in the north house. The little shrine or monument at the western end of the garden was eliminated, but the pool was reconstructed without alteration. The paving stones that had been in a pool were in part removed and used to build a 3.8 x 2.9 meter platform which served as the base, presumably, of a quadrangular fountain in the north house in an open space which replaced the peristyle, which was then destroyed.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 {{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
-<!--### Plans-->
+<!--## Plans-->
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -122,6 +122,6 @@ Christophe Gaston (ORCID: [https://orcid.org/0000-0001-6865-5108](https://orcid.
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

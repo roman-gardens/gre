@@ -101,7 +101,7 @@
         - Roman/Arabic numerals for region, insula, house (e.g. Pompeii VIII.4.30 vs VIII.iv.30)
         - ideally, don't depend on upper/lowercase for meaning
 - [ ] consistent heading levels in articles (h1, h2, h3, etc.)
-- [ ] add author/editor/date metadata to top of article -- no need to duplicate in the markdown
+- [x] add author/editor/date metadata to top of article -- no need to duplicate in the markdown
     - use a partial that will use the frontmatter values and automatically add ORCID, email, etc.
     - or link to a separate person page, [like Pleiades does](https://pleiades.stoa.org/author/thomase)
 - [ ] frontmatter quoting: omit, unless ambiguous
@@ -112,7 +112,6 @@
 - [ ] maps: fix/remove blank maps
 - [ ] documentation: rewrite software setup
 - [ ] list of keywords as glossary (option to search GRE or go to Getty Thesaurus, etc.)
-- [ ] keywords section in article text vs tags in front matter
 - [x] fix capitalization in garden list for "VIa", "VIlla" etc. (getting mangled by Roman numeral processing)
 - [ ] garden list sort order (currently alphabetical, but most recent first?)
 - [ ] browse by province -- only list most recent updates?
@@ -124,9 +123,9 @@
 - [ ] add "modified" date (and try to simplify date to omit time)
 - [ ] place archetype: date, description, image/plan/map, bibliography, keywords, place(s), linked IDs
 - [ ] add gre_id/aliases for places, update citation example
+
 - [ ] fix or remove empty links -- search for "(#)"
 - [ ] backslashes \
-- [ ] consistent "Fig. 2: Title"
 
 
 

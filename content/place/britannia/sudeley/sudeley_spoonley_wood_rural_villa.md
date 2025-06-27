@@ -15,7 +15,7 @@ draft: false
 - [Sudeley/Spoonley Wood]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="79693" term="Sudeley/Spoonley Wood" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -26,7 +26,7 @@ draft: false
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -92,6 +92,6 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -36,7 +36,7 @@ The city has been continually occupied to the present day, now known as Cherchel
 
 <!--## Sublocation-->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 ## Garden
 House of the Scattered Branches and Flowers (Maison de la Jonchée)
@@ -89,6 +89,6 @@ It is assumed that the peristyle and its garden may have had a view over the sea
 
 <!--07 July 2020-->
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

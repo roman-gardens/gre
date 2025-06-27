@@ -15,7 +15,7 @@ draft: false
 - [Darenth]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="79413" term="Darenth" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -26,7 +26,7 @@ draft: false
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -52,13 +52,13 @@ South of the western range of rooms was a large, open space measuring 14.6 x 58.
 
 <!-- The Gs referenced in the article are not clear as there are three Gs in the figure-->
 
-<!--### Maps-->
+<!--## Maps-->
 
 ## Plans
 
 {{< image src="darenth.png" alt="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20" title="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20." >}}
 
-<!--### Images-->
+<!--## Images-->
 
 ## Dates
 
@@ -86,6 +86,6 @@ ca. 100 CE - late 4th century CE
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

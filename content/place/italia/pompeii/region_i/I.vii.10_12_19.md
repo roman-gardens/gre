@@ -81,7 +81,7 @@ B. This [peristyle](http://vocab.getty.edu/page/aat/300080971) garden was entere
 C. Behind the [tablinum](http://vocab.getty.edu/page/aat/300004180), and seen from the entrance (no. 19), a small light well served as a garden. It was [painted](http://vocab.getty.edu/page/aat/300033644) to represent a garden and the floor had been paved. The only surviving images were the usual [fence](http://vocab.getty.edu/page/aat/300005044) with faint traces of oleander bushes and birds. Further traces indicated that a statuette of Venus standing on a marble base in an apsed niche in the lattice [fence](http://vocab.getty.edu/page/aat/300005044) may have been represented on the east wall. The lattice [fence](http://vocab.getty.edu/page/aat/300005044) on the north wall was painted to represent a rectangular niche. Water was piped from the garden above through the lower part of the rear wall and possible supplied a jet in the middle of the [impluvium](http://vocab.getty.edu/page/aat/300129867), as surmised by Maiuri.  
 
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -148,6 +148,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

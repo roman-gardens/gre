@@ -38,7 +38,7 @@ Among the most remarkable monuments of the ancient city are the best preserved l
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -58,13 +58,13 @@ This vast house (3000 m2) was laid out around a peristyle garden (Plan view, Fig
 
 
 
-<!--### Maps
+<!--## Maps
 
 
-<!--### Plans-->
+<!--## Plans-->
 
 
-<!--### Images-->
+<!--## Images-->
 <!--Fig. 1: Plan view of the House of Africa-->
 
 ## Dates

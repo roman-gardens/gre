@@ -15,7 +15,7 @@ draft: true
 - [DUROCORTORUM (Reims, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108945" term="DUROCORTORUM" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -87,6 +87,6 @@ Unspecified
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

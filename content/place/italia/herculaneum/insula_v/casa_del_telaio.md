@@ -43,7 +43,7 @@ Casa del Telaio
 ## Garden Description
 548.V.4/3.
 There was a courtyard (a) in the center of this house which was apparently attached to a *textrina*. The courtyard was surrounded by a *portico* with seven supporting brick columns. These were connected by a low wall and a second wall on the inside was slightly lower and formed a gutter. A terra-cotta *puteal* was located by the entrance on the north over the cistern opening. Maiuri concluded there was enough soil present here to indicate this had been a garden.
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -92,6 +92,6 @@ Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
 
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

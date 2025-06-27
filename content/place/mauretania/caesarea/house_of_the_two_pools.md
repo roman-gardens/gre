@@ -36,7 +36,7 @@ The city has been continually occupied to the present day, now known as Cherchel
 
 <!--## Sublocation-->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 ## Garden
 
@@ -93,6 +93,6 @@ There is very little information about this house, only two semi circular pools 
 
 <!--07 July 2020-->
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

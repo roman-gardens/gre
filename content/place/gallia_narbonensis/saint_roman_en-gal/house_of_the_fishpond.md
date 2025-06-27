@@ -27,7 +27,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -35,7 +35,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [House of the Fishpond](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -57,7 +57,7 @@ House of the Fishpond
 In the course of the second century, some two meters of fill was added to the garden to bring it up to the same level as the rest of the house. The use of the space was completely inverted. Rooms were built on the filled-in garden, and the former house was torn down to become a garden. This new house continued to occupy the whole insula. No plan is available for this house, but the new eastern part would be practically completely preserved in the next house. To the east now extended the new garden, which may possibly have preserved three branches of the channel-pool of the earlier house.
 
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -74,7 +74,7 @@ NEW WAY ↓↓↓↓
 {{< image src="House of the Fishpond.png" alt="ALT_TEXT" title="house of the fishpond" >}}
 
 
-<!--### Images-->
+<!--## Images-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -120,6 +120,6 @@ NEW WAY ↓↓↓↓
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -37,7 +37,7 @@ Among the most remarkable monuments of the ancient city are the best preserved l
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -60,13 +60,13 @@ The light well (XXVII, 8.45 x 2.75 m) to the W of the *oecus* was also planted.
 
 
 
-<!--### Maps-->
+<!--## Maps-->
 
 
 ## Plans
 {{< image src="AFR_Thy_Hp_Wjashemski1.jpg" alt="Fig. 1: Plan of the House of the Peacock." title="Fig. 1: Plan of the House of the Peacock. (CMT, plans 3-4)" >}}
 
-<!--### Images-->
+<!--## Images-->
 ## Dates
 
 Early 3rd century CE

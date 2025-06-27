@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [The House of the Lion](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -58,7 +58,7 @@ The House of the Lion
 
 This house is today, as when it was built, only a few meters back from the right bank of the Rhone. It is now under the museum. It was completely uncovered in 1987 so that its lines might be respected in the building above it, and then covered over to protect it during construction. The museum sits above it on pilings so that at some future time the house can again be unearthed. It was built in the second century, covered a surface of more than 2500 square meters, and was occupied 100 to 150 years before being destroyed by the river. The name comes from a mosaic of a lion found in room [10] and now in the museum. The insula is separated into two parts by an east-west wall. It is difficult to determine whether the structures on either side are two halves of the same house or two different houses. However, the northern part was composed mainly of reception areas and lacked service rooms, so the assumption that it was somehow one house seems plausible.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -109,6 +109,6 @@ It was completely uncovered in 1987 so that its lines might be respected in the 
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

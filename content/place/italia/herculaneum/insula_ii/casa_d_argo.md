@@ -15,7 +15,7 @@ draft: true
 
 - [Italia]({{<relref "../..">}}) 
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}}
-<!--### Province Description-->
+<!--## Province Description-->
 
 <!-- DESCRIPTION -->
 
@@ -28,7 +28,7 @@ draft: true
 ## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -57,7 +57,7 @@ A. The earliest excavations of Herculaneum were done with underground tunnels. S
 534.II.2.
 B. A second *peristyle* garden was located to the west of the first, but has only been partially excavated. It has stuccoed columns and pillars joined by a wall 0.4 m. high painted with plants and flowers.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -109,6 +109,6 @@ Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
 
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

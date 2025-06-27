@@ -15,7 +15,7 @@ draft: true
 [Italia]({{<relref "../../../..">}})
 [Villa Tiberii](https://pleiades.stoa.org/places/433204?searchterm=sperl)
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -89,6 +89,6 @@ Unspecified
 ## Publication date
 
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

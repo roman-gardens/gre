@@ -14,7 +14,7 @@ draft: true
 - {{< id vocab="Pleiades" id="356966898" term="VIA APPIA" >}}
 - {{< id vocab="Pleiades" id="537932155" term="Tomb Garden of Claudia Semne" >}}
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -86,6 +86,6 @@ John Bodel
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

@@ -38,7 +38,7 @@ House of the Lararium; Casa del Larario; Sabello Iliaco.
 
 A small garden was located at the rear of the [tablinum](http://vocab.getty.edu/page/aat/300004180) accessed by a passageway from the [atrium](http://vocab.getty.edu/page/aat/300005451). A small pool (0.70 m. deep) was centered in the garden enclosed by a crudely built double wall with a space in between for flowers. At the time of the eruption the house was undergoing extensive repairs.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -85,6 +85,6 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->

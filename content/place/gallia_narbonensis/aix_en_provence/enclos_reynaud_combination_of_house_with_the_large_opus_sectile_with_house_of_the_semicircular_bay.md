@@ -26,7 +26,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--### Location Description-->
+<!--## Location Description-->
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -34,7 +34,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Enclos Reynaud, House with the semicircular bay, phase I](#)
 
-<!--### Sublocation Description-->
+<!--## Sublocation Description-->
 
 <!-- DESCRIPTION -->
 
@@ -59,7 +59,7 @@ Enclos Reynaud, House with the semicircular bay, phase I
 
 In the second century, to judge by the style of the mosaics, the two preceding houses, NAR6.3 and NAR6.4, were joined without, however, any major change in plan. Fragments of statues have been found. With an area greater than 1500 square meters, pavements of high quality, and statuary, it must have been an imposing home. It was occupied for some two centuries.
 
-<!--### Maps-->
+<!--## Maps-->
 
 <!--
 OLD WAY (DO NOT USE)
@@ -73,7 +73,9 @@ NEW WAY ↓↓↓↓
 ## Plans
 
 
-{{< image src="enclos_reynaud_combination_of_house_with_the_large_opus_sectile_with_house_of_the_semicircular_bay.png" alt="Plan of the Combination of House with the Large Opus with House fo the Semicircular Bay" title="Combination of House with the large opus sectile with House of the semicircular bay" >}}<!--### Images-->
+{{< image src="enclos_reynaud_combination_of_house_with_the_large_opus_sectile_with_house_of_the_semicircular_bay.png" alt="Plan of the Combination of House with the Large Opus with House fo the Semicircular Bay" title="Combination of House with the large opus sectile with House of the semicircular bay" >}}
+
+<!--## Images-->
 <!--
 OLD WAY (DO NOT USE)
 ![alt_text](../../images/image_name.ext)
@@ -116,6 +118,6 @@ NEW WAY ↓↓↓↓
 
 21 Apr 2021
 
-<!--### Related articles-->
+<!--## Related articles-->
 
 <!-- Links to other related articles. Leave blank for now -->
