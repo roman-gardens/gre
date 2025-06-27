@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Arae Flaviae]({{<relref ".">}}) \
+- [Arae Flaviae]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="118572" term="Arae Flaviae" >}}
 
 ## Location Description

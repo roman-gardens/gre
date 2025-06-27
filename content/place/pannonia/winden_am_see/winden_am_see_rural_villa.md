@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Winden Am See]({{<relref ".">}}) \
+- [Winden Am See]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="197425" term="Winden Am See" >}}
 
 <!--### Location Description-->

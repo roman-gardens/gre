@@ -13,7 +13,7 @@ draft: false
 
 ## Province
 
-[Italia]({{<relref "../..">}}) \
+- [Italia]({{<relref "../..">}}) 
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 

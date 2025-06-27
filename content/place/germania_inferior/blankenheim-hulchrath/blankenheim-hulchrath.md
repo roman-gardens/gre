@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[Blankenheim-Hülchrath]({{<relref ".">}}) \
+- [Blankenheim-Hülchrath]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981524" term="Blankenheim-Hülchrath" >}}
 
 <!--### Location Description-->

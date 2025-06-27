@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Almedinilla]({{<relref ".">}}) \
+- [Almedinilla]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="266015" term="Almedinilla" >}}
 
 ## Location Description
@@ -100,7 +100,7 @@ unspecified
 
 ## Pleiades ID
 
-[El Ruedo]({{<relref ".">}}) \
+- [El Ruedo]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="266015" term="El Ruedo" >}}
 
 ## TGN ID

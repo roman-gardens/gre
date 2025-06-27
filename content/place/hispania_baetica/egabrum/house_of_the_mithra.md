@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Egabrum]({{<relref ".">}}) \
+- [Egabrum]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="265919" term="Egabrum" >}}
 
 ## Location Description
@@ -91,7 +91,7 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Igabrum/Egabrum]{{<relref ".">}}) \
+- [Igabrum/Egabrum]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="265919" term="Igabrum/Egabrum" >}}
 
 ## TGN ID

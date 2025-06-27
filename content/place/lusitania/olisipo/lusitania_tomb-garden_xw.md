@@ -21,7 +21,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 ## Location
 
-[Olisipo]({{<relref ".">}}) \
+- [Olisipo]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256338" term="Olisipo" >}}
 
 <!--### Location Description-->

@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Carnuntum]({{<relref ".">}}) \
+- [Carnuntum]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="128376" term="Carnuntum" >}}
 
 ## Location Description

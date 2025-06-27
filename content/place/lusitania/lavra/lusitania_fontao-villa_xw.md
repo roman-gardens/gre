@@ -21,7 +21,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 ## Location
 
-[Lavra]({{<relref ".">}}) \
+- [Lavra]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="532133456" term="Lavra" >}}
 
 <!--### Location Description-->
@@ -43,9 +43,9 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Garden
 Fontao Villa
 
-<!--### Keywords
+## Keywords
 - {{< keyword "peristyles" >}}
-- {{< keyword "hypocausts" >}}-->
+- {{< keyword "hypocausts" >}}
 
 ## Garden Description
 The remains of a large villa were discovered in 1900 under an abandoned Benedictine monastery. Among the structures identified are several basins that are usually found in gardens. The villa dates to the late empire.

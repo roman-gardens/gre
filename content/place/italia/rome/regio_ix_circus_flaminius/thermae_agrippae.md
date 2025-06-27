@@ -12,18 +12,18 @@ draft: false
 
 ## Province
 
-[Italia]({{<relref "../..">}}) \
+- [Italia]({{<relref "../..">}}) 
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
 - {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
-[Rome]({{<relref "..">}}) \
+- [Rome]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
-[Region IX Circus Flaminius]({{<relref ".">}}) \
+- [Region IX Circus Flaminius]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="422863" term="Campus Martius" >}}
 
 
@@ -67,9 +67,9 @@ The *Thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](http://data.perseus
 
 ## Figures
 
-{{< image src="thermae_agrippae_fig1.jpg" alt="Marble Plan Fragment" title="Fig. 1. Marble Plan Fragment (Yegül, fig. 143, p. 134)." >}}
+{{< image src="thermae_agrippae_fig1.jpg" alt="Marble Plan Fragment" title="Fig. 1: Marble Plan Fragment (Yegül, fig. 143, p. 134)." >}}
 
-{{< image src="thermae_agrippae_fig2.jpg" alt="Base Plan of the Thermae Agrippae" title="Fig. 2. Base Plan of the Thermae Agrippae (Yegül, fig. 145, p. 134, after Huelsen)." >}}
+{{< image src="thermae_agrippae_fig2.jpg" alt="Base Plan of the Thermae Agrippae" title="Fig. 2: Base Plan of the Thermae Agrippae (Yegül, fig. 145, p. 134, after Huelsen)." >}}
 
 ## Dates
 

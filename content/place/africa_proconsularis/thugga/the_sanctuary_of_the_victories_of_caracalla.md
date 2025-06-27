@@ -11,7 +11,7 @@ draft: false
 ---
 
 ## Province
-[Africa Proconsularis]({{<relref "..">}}) \
+- [Africa Proconsularis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
@@ -19,7 +19,7 @@ draft: false
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The  climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
 
 ## Location
-[THUGGA (Dougga) Tunisia]({{<relref ".">}}) \
+- [THUGGA (Dougga) Tunisia]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="315223" term="THUGGA (Dougga) Tunisia" >}}
 
 {{< image src="dougga_the_sanctuary_of_the_victories_of_caracalla.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}

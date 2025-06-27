@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[FLIESSEM-OTRANG  (Germany)]({{<relref ".">}}) \
+- [FLIESSEM-OTRANG  (Germany)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108982" term="FLIESSEM-OTRANG " >}}
 
 <!--### Location Description-->

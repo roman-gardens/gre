@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 
-[Gallia_narbonensis]({{<relref "..">}}) \
+- [Gallia_narbonensis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 ## Province Description
@@ -21,7 +21,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location
 
-[saint_cyr_sur_mer]({{<relref ".">}}) \
+- [saint_cyr_sur_mer]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="452090054" term="saint_cyr_sur_mer" >}}
 
 ## Location Description

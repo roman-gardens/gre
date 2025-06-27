@@ -12,7 +12,7 @@ draft: false
 
 ## Location
 
-[Darenth]({{<relref ".">}}) \
+- [Darenth]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="79413" term="Darenth" >}}
 
 <!--### Location Description-->

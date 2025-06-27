@@ -21,7 +21,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 ## Location
 
-[Conimbriga]({{<relref ".">}}) \
+- [Conimbriga]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="236443" term="Conimbriga" >}}
 
 ## Location Description

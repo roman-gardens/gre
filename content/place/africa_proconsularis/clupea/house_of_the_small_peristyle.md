@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Africa Proconsularis]({{<relref "..">}}) \
+- [Africa Proconsularis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
@@ -19,7 +19,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
-[Aspis/Clupea (Kelibia)]({{<relref ".">}}) \
+- [Aspis/Clupea (Kelibia)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="314892" term="Aspis/Clupea" >}}
 
 ## Location Description

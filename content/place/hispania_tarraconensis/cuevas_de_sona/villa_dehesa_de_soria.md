@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Hispania Tarraconensis]({{<relref "..">}}) \
+- [Hispania Tarraconensis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981551" term="Tarraconensis(Pleiades)" >}}
 
 ## Province Description
@@ -32,7 +32,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Location
-[Villa Dehesa de Soria]({{<relref ".">}}) \
+- [Villa Dehesa de Soria]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="667996380" term="Villa Dehesa de Soria(Pleiades)" >}}
 
 <!--### Location Description-->

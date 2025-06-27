@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Ferpicloz]({{<relref ".">}}) \
+- [Ferpicloz]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981525" term="Ferpicloz" >}}
 
 <!--### Location Description-->

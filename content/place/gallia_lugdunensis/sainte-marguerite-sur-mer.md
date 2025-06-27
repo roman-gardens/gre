@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[Sainte-Marguerite-sur-Mer (Seine-Maritime, France)]({{<relref ".">}}) \
+- [Sainte-Marguerite-sur-Mer (Seine-Maritime, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="109153" term="Sainte-Marguerite-sur-Mer" >}}
 
 <!--### Location Description-->

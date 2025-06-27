@@ -28,7 +28,7 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 
 ## Location
 
-[Kos]({{<relref ".">}}) \
+- [Kos]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="599728" term="Kos" >}}
 
 <!--### Location Description-->

@@ -11,11 +11,11 @@ draft: false
 ---
 
 ## Province
-[Italia]({{<relref "../../..">}}) \
+- [Italia]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
-[Pompeii]({{<relref "../..">}}) \
+- [Pompeii]({{<relref "../..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
@@ -46,7 +46,7 @@ Vineyard with large masonry [triclinium](http://vocab.getty.edu/page/aat/3000043
 ## Garden Description
 A. The access to this garden featured an arched niche high on the garden wall located either side of the direct entrance from the street at entrance 8. A further entrance (7A) from the street was located on the east wall. The masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) (l. medius, 3.60 m.; l. imus 3.20 l. summus 2.43 m.) in the northwest corner had a round table (0.55 m. in dia.) between the couches and a rectangular [table](http://vocab.getty.edu/page/aat/300039548) (0.65 x 1.03 m.) built against the north wall. A cistern opening was found to the south of the [triclinium](http://vocab.getty.edu/page/aat/300004359). To the left of entrance 8, a small room was excavated in 1985 to reveal a treading floor that allowed the juice from the grapes to flow into a small [dolium](http://vocab.getty.edu/page/aat/300400601). This indicates that the garden was most likely planted in vines.
 
-B. Entrance 8 opened directly into a [courtyard](http://vocab.getty.edu/page/aat/300004095) garden. A cistern opening in the northeast corner of the garden was fed by a [gutter](http://vocab.getty.edu/page/aat/300052565) along the east edge. To the right of the door on the east wall was a small niche lararium with an [aedicules](http://vocab.getty.edu/page/aat/300002574) façade. To the right of this niche, a painting of Hercules was displayed in a red border. Below this was a garden setting with an altar and a crested serpent painted in low [stucco](http://www.getty.edu/vow/AATFullDisplay?find=stucco&logic=AND&note=&english=N&prev_page=1&subjectid=300014966) relief. In the interior area of this property, stairs leading to an upper floor and a [hearth](http://vocab.getty.edu/page/aat/300003990) in a kitchen area were located. The stairs likely led to accommodation.
+B. Entrance 8 opened directly into a [courtyard](http://vocab.getty.edu/page/aat/300004095) garden. A cistern opening in the northeast corner of the garden was fed by a [gutter](http://vocab.getty.edu/page/aat/300052565) along the east edge. To the right of the door on the east wall was a small niche lararium with an [aedicules](http://vocab.getty.edu/page/aat/300002574) façade. To the right of this niche, a painting of Hercules was displayed in a red border. Below this was a garden setting with an altar and a crested serpent painted in low [stucco](hhttp://vocab.getty.edu/page/aat/300014966) relief. In the interior area of this property, stairs leading to an upper floor and a [hearth](http://vocab.getty.edu/page/aat/300003990) in a kitchen area were located. The stairs likely led to accommodation.
 
 
 

@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[BORG (Germany)]({{<relref ".">}}) \
+- [BORG (Germany)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="272861914" term="BORG" >}}
 
 <!--### Location Description-->

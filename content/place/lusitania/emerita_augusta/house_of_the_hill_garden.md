@@ -20,7 +20,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 ## Location
 
-[Emerita Augusta]({{<relref ".">}}) \
+- [Emerita Augusta]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256155" term="Emerita Augusta" >}}
 
 ## Location Description

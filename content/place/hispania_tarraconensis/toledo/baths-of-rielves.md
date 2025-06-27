@@ -20,7 +20,7 @@ draft: true
 
 ## Location
 
-[Rielves]({{<relref ".">}}) \
+- [Rielves]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="266044" term="El Solao" >}}
 
 ## Location Description

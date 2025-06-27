@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[via tiburtina]({{<relref ".">}}) \
+- [via tiburtina]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="272213281" term="via tiburtina" >}}
 
 <!--### Location Description-->

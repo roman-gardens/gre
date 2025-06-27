@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Arcos De La Frontera]({{<relref ".">}}) \
+- [Arcos De La Frontera]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="255981" term="Arcos De La Frontera" >}}
 
 ## Location Description
@@ -86,7 +86,7 @@ unspecified
 
 ## Pleiades ID
 
-[El Santiscal]({{<relref ".">}}) \
+- [El Santiscal]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256436" term="El Santiscal" >}}
 
 ## TGN ID

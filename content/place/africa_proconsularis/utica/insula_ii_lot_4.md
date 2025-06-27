@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Africa Proconsularis]({{<relref "..">}}) \
+- [Africa Proconsularis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
@@ -21,7 +21,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
-[UTICA (Utique)]({{<relref ".">}}) \
+- [UTICA (Utique)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="315248" term="UTICA (Utique) Tunisia(Pleiades)" >}}
 
 ## Location Description

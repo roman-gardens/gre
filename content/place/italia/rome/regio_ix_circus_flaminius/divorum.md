@@ -12,18 +12,18 @@ draft: false
 
 ## Province
 
-[Italia]({{<relref "../..">}}) \
+- [Italia]({{<relref "../..">}}) 
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
 - {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
-[Rome]({{<relref "..">}}) \
+- [Rome]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
-[Region IX Circus Flaminius]({{<relref ".">}}) \
+- [Region IX Circus Flaminius]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="422863" term="Campus Martius" >}}
 
 
@@ -54,11 +54,11 @@ From the northern *exedra*, a water [channel](http://vocab.getty.edu/page/aat/30
 
 ## Figures
 
-{{< image src="divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" title="Fig. 1. Photograph of the Severan Forma Urbis depicting the Divorum. © Stanford Project." >}}
+{{< image src="divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" title="Fig. 1: Photograph of the Severan Forma Urbis depicting the Divorum. © Stanford Project." >}}
 
-{{< image src="divorum_fig2_edited.jpg" alt="Reconstructed plan of the Divorum" title="Fig. 2. Reconstructed plan of the Divorum. © Valerie Aymer." >}}
+{{< image src="divorum_fig2_edited.jpg" alt="Reconstructed plan of the Divorum" title="Fig. 2: Reconstructed plan of the Divorum. © Valerie Aymer." >}}
 
-{{< image src="divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" title="Fig. 3. Perspective view looking north along the central axis. © Valerie Aymer." >}}
+{{< image src="divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" title="Fig. 3: Perspective view looking north along the central axis. © Valerie Aymer." >}}
 
 ## Dates
 

@@ -18,7 +18,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 
-[Sicyon]({{<relref ".">}}) \
+- [Sicyon]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="570668" term="Sicyon" >}}
 
 <!--### Location Description-->
@@ -41,7 +41,7 @@ Sanctuary of Demeter and Persephone
 
 - {{< keyword "literary gardens" >}}
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
--	[sacred groves](http://vocab.getty.edu/page/aat/300251876)
+- sacred groves](http://vocab.getty.edu/page/aat/300251876)
 
 ## Garden Description
 

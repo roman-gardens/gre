@@ -20,7 +20,7 @@ draft: true
 
 ## Location
 
-[Saguntum]({{<relref ".">}}) \
+- [Saguntum]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="266021" term="Saguntum/Arse" >}}
 
 <!--### Location Description-->

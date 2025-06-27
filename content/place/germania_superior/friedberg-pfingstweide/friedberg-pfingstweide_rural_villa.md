@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Friedberg Pfingstweide]({{<relref ".">}}) \
+- [Friedberg Pfingstweide]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981525" term="Friedberg Pfingstweide" >}}
 
 <!--### Location Description-->

@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Andematunnum]({{<relref ".">}}) \
+- [Andematunnum]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="177441" term="Andematunnum" >}}
 
 <!--### Location Description-->

@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[DIVODURUM MEDIOMATRICORUM (Liéhon, France)]({{<relref ".">}}) \
+- [DIVODURUM MEDIOMATRICORUM (Liéhon, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108927" term="DIVODURUM MEDIOMATRICORUM" >}}
 
 <!--### Location Description-->

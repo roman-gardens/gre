@@ -20,7 +20,7 @@ draft: true
 
 ## Location
 
-[Rioseco Di Soria]({{<relref ".">}}) \
+- [Rioseco Di Soria]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="614074944" term="Rioseco Di Soria" >}}
 
 ## Location Description

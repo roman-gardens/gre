@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Vallon]({{<relref ".">}}) \
+- [Vallon]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981525" term="Vallon" >}}
 
 <!--### Location Description-->

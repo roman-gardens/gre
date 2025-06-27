@@ -16,7 +16,7 @@ Roman intervention in Greek political affairs resulted in conflicts that led to 
 The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woolen textiles and marbles.
 
 ## Location
-[Athens]({{<relref ".">}}) \
+- [Athens]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="579885" term="Athens" >}}
 
 ## Sublocation

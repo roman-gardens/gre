@@ -11,7 +11,7 @@ draft: false
 ---
 
 ## Province
-[Arabia Petraea]({{<relref "..">}})\
+- [Arabia Petraea]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981506" term="Arabia (province)" >}}
 
 The history of Roman Arabia begins with the death of the Nabataean king, [Rabb'el II soter](https://en.wikipedia.org/wiki/Rabbel_II_Soter), in A.D. 106. The emperor Trajan annexed the [Nabataean kingdom](https://en.wikipedia.org/wiki/Nabataean_Kingdom)   and organized its territory within the new Roman province of Arabia Petraea that occupied a large area of northwestern Arabia, extending from the Hauran in the north, to the Negev and Sinai deserts in the west, and into the northern Hejaz in the south. The administrative district of Perea, formerly under the Herodian dynasty was also added. The provincial capital of Arabia Petraea was located at [Bostra](https://en.wikipedia.org/wiki/Bosra) which replaced [Petra](https://en.wikipedia.org/wiki/Petra) as the capital of Nabataea in the last decades of that kingdom’s independence. Petra continued to function as an important cultural, political and economic center of the province for at least a century following annexation. During the early Byzantine period (4th-6th centuries CE), the major cities of the Roman era continued to flourish, and Christianity gradually became the accepted religion of the area. Petra remained an important center in the early Byzantine period when it was inhabited by a substantial Christian community and was the seat of a bishopric.
@@ -20,7 +20,7 @@ The region of Arabia Petraea is primarily a desert environment that belongs to t
 
 
 ## Location
-[Auara]({{<relref ".">}})\
+- [Auara]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="746716" term="Auara" >}}
 
 Nabataean Hawara (Auara) was founded by king [Aretas III](https://en.wikipedia.org/wiki/Aretas_III) in the early first century BCE as a trading post along the [King's Highway](https://en.wikipedia.org/wiki/King%27s_Highway_(ancient)), midway between the Nabataean capital, [Petra](https://pleiades.stoa.org/places/697725), and the port town of [Aila](https://en.wikipedia.org/wiki/Aqaba#Classical_antiquity) on the Gulf of Aqaba (Fig. 1). In the early 2nd century CE, under Roman occupation, a fort was erected at the site (Roman Hauarra/Havarra) due to its strategic position on the major trade highway that was rebuilt as the [*Via Nova Traiana*](https://en.wikipedia.org/wiki/Via_Traiana_Nova). Associated with the fort was a small town with a bathhouse and a community shrine. The modern name for the site is [Humayma](https://en.wikipedia.org/wiki/Humeima).
@@ -43,10 +43,10 @@ Shrine Complex in Insula E125
 A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely damaged during the Roman conquest of Arabia Petraea, the site’s inhabitants built another shrine at the same location. The Roman-period shrine occupied the southeast corner of a multi-unit *insula* (E125), but could only be accessed from outside the complex. This shrine consisted of a square *naos* (containing a central Nabataean *baetyl* and legionary altar, bins, shelves, and votive offerings) enclosed in a rectangular open-air temenos (Fig. 3). Upon entering the temenos, worshippers walked to the *naos* along a 12.7 m long paved processional way that was flanked by two long raised planters. An aqueduct-fed basin next to the door of the *naos* appears to have supplied the shrine with so much fresh water that it must have been intended not just for ritual cleansing, but for supplying the planters as well. Given the relatively shallow depth of the planters, and that no root balls or pots were found within, they probably contained shrubs and/or flowers rather than trees. Although the architect clearly tried to make the planters symmetrical in size, shape, and location, their design (and that of the whole Roman shrine) was constrained by the reuse of some Nabataean walls as foundations.
 
 ## Maps
-{{< image src="1_arabia_petraea_map.jpg" alt="Map of Petra location" caption="Fig 1: Map showing the location of ancient Hawara (Hauarra) in Arabia Petraea. Map by L.-A. Bedal, based on [Andrein, with the assistance of EraNavigator](https://commons.wikimedia.org/w/index.php?curid=26047529)" >}}
+{{< image src="1_arabia_petraea_map.jpg" alt="Map of Petra location" caption="Fig. 1: Map showing the location of ancient Hawara (Hauarra) in Arabia Petraea. Map by L.-A. Bedal, based on [Andrein, with the assistance of EraNavigator](https://commons.wikimedia.org/w/index.php?curid=26047529)" >}}
 
 ## Plans
-{{< image src="2_hauarra_plan.jpg" alt="Plan of shrine in Insula E125" title="Fig 2: Plan of Shrine Complex in the southeast corner of Insula E125 (Plan by S. Fraser and D. Skinner)" >}}
+{{< image src="2_hauarra_plan.jpg" alt="Plan of shrine in Insula E125" title="Fig. 2: Plan of Shrine Complex in the southeast corner of Insula E125 (Plan by S. Fraser and D. Skinner)" >}}
 
 ## Images
 {{< image src="3_hauarra_model.jpg" alt="View down a paved path towards a small building" title="Fig. 3: Shrine Complex in Insula E125 (Reconstruction by C. Kanellopoulos and P. Konstandopoulos)" >}}

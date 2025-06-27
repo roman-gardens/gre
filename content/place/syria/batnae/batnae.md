@@ -19,7 +19,7 @@ An irrigation system based around the qanat, an underground water channel, was u
 
 ## Location
 
-[Batnae]({{<relref ".">}}) \
+- [Batnae]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="658405" term="Batnae/Markopolis" >}}
 
 <!--### Location Description-->

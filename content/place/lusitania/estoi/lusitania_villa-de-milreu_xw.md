@@ -21,7 +21,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 ## Location
 
-[Estoi]({{<relref ".">}}) \
+- [Estoi]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="854718547" term="Estoi" >}}
 
 <!--### Location Description-->

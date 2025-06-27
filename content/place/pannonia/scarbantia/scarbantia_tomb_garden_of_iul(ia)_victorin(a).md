@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Scarbantia]({{<relref ".">}}) \
+- [Scarbantia]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="197501" term="Scarbantia" >}}
 
 

@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[LA SPEZIA]({{<relref "../../..">}}) \
+- [LA SPEZIA]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="966420455" term="LA SPEZIA" >}}
 
 <!--### Location Description-->

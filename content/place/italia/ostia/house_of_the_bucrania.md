@@ -12,12 +12,12 @@ draft: false
 
 ## Province
 
-[Italia]({{<relref "..">}}) \
+- [Italia]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
 
-[Ostia]({{<relref ".">}}) \
+- [Ostia]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 
 ## Location Description

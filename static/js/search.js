@@ -23,6 +23,7 @@ function displayResults (qterms, results, store) {
       // find text around first instance of first query term
       let q1 = qterms[0].normalize("NFD").replace(/[\u0300-\u036f]/g, "")
       // find singular even when query is plural
+      // TODO: can we use lunr's stemming?
       q1 = q1.replace(/s$/, 's?')
       let re = new RegExp(`^.*?(.{0,140})(${q1})(.{0,140}).*?$`, 'is')
       // extract and highlight first term

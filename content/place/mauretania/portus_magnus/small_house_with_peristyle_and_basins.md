@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 
-[Mauretania]({{<relref "..">}}) \
+- [Mauretania]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981532" term="Mauretania Caesariensis (province)(Pleiades)" >}}
 
 ## Province Description

@@ -12,7 +12,7 @@ draft: false
 
 ## Location
 
-[Frocester Court]({{<relref ".">}}) \
+- [Frocester Court]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="79471" term="Frocester Court" >}}
 
 <!--### Location Description-->

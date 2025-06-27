@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Italia]({{<relref "../..">}}) \
+- [Italia]({{<relref "../..">}}) 
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Province Description
@@ -20,7 +20,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 
 
 ## Location
-[Pompeii]({{<relref "..">}}) \
+- [Pompeii]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 <!--### Location Description-->

@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[SELONGEY (Côte d'Or, France)]({{<relref ".">}}) \
+- [SELONGEY (Côte d'Or, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="177578" term="SELONGEY" >}}
 
 <!--### Location Description-->

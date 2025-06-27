@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Winkel-Seeb]({{<relref ".">}}) \
+- [Winkel-Seeb]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="177667" term="Winkel-Seeb" >}}
 
 <!--### Location Description-->

@@ -12,7 +12,7 @@ draft: false
 
 ## Province
 
-[Judaea]({{<relref "..">}}) \
+- [Judaea]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981527" term="Iudaea (province)" >}}
 
 ## Province Description

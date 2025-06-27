@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Africa Proconsularis]({{<relref "..">}}) \
+- [Africa Proconsularis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
@@ -19,7 +19,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
-[Aspis/Clupea (Kelibia)]({{<relref ".">}}) \
+- [Aspis/Clupea (Kelibia)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="314892" term="Aspis/Clupea" >}}
 
 ## Location Description
@@ -44,7 +44,7 @@ House of the Two Hunts (Maison aux deux chasses)
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "semicircular basin" >}}
 - {{< keyword "oeci" >}}
-<!-- [urban villas](#) -->
+<!-- {{< keyword "villae urbanae" >}} -->
 
 ## Garden Description
 Known for its beautiful hunting scene mosaics, this large *domus* (1100m²) was laid out around a square shaped peristyle-garden (15.50x15m) (Plan view, Fig. 1). The low wall of four porticos enclosed the *viridarium*, which curves to form an apse in front of the *oecus*. The house was constructed on the remains of an old salt factory; the three basins located on the east side of the garden are the remains of the previous phase of the building.

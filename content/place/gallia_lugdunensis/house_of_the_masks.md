@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[LUGDUNUM (Lyon, France)]({{<relref ".">}}) \
+- [LUGDUNUM (Lyon, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="167717" term="LUGDUNUM" >}}
 
 <!--### Location Description-->

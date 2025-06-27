@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[Cologne]({{<relref ".">}}) \
+- [Cologne]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108751" term="Cologne" >}}
 
 ## Location Description

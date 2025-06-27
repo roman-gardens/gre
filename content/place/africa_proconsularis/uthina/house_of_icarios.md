@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Africa Proconsularis]({{<relref "..">}}) \
+- [Africa Proconsularis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
@@ -20,7 +20,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 
 ## Location
-[UTHINA (Oudna)]({{<relref ".">}}) \
+- [UTHINA (Oudna)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="315247" term="UTHINA (Oudna) Tunisia(Pleiades)" >}}
 
 ## Location Description

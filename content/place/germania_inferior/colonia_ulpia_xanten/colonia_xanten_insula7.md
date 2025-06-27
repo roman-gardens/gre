@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[Xanten]({{<relref ".">}}) \
+- [Xanten]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108896" term="Xanten" >}}
 
 <!--### Location Description-->

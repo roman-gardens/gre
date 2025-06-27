@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Italica]({{<relref ".">}}) \
+- [Italica]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256231" term="Italica" >}}
 
 ## Location Description
@@ -72,7 +72,7 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[House of the Rhodian Peristyle at Italica]{{<relref ".">}}) \
+- [House of the Rhodian Peristyle at Italica]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="932178530" term="House of the Rhodian Peristyle at Italica" >}}
 
 ## TGN ID

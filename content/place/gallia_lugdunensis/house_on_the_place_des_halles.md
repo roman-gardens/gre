@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 -- missing in Pleiades --
-[VINDINUM a.k.a. Subdinnum (Le Mans, France)]({{<relref ".">}}) \
+- [VINDINUM a.k.a. Subdinnum (Le Mans, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="109236" term="VINDINUM a.k.a. Subdinnum" >}}
 
 <!--### Location Description-->

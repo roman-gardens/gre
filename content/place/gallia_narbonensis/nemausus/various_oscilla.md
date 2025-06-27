@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 
-[Gallia Narbonensis]({{<relref "..">}}) \
+- [Gallia Narbonensis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
@@ -21,7 +21,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location
 
-[nemausus]({{<relref ".">}}) \
+- [nemausus]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="148142" term="nemausus" >}}
 
 ## Location Description
@@ -53,11 +53,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 These were discovered out of context or the location of the find is not known:
 
-●	A circular *oscillum* of white marble, 22 cm in diameter, with a theatrical mask, flute, and, to the right, a tambourine under a tree. Discovered around 1770.
-
-●	Fragment of a rectangular *oscillum* showing, on one side, the leg of an animal supported on a wheel and, on the other, a theatrical mask.  (The maximum height of the fragment is 14.5 cm.)
-
-●	A rectangular *oscillum* with masks (15 by 22 cm). On one side, Ganymede gives drink to the eagle Jupiter; on the other, two theatrical masks.
+- A circular *oscillum* of white marble, 22 cm in diameter, with a theatrical mask, flute, and, to the right, a tambourine under a tree. Discovered around 1770.
+- Fragment of a rectangular *oscillum* showing, on one side, the leg of an animal supported on a wheel and, on the other, a theatrical mask.  (The maximum height of the fragment is 14.5 cm.)
+- A rectangular *oscillum* with masks (15 by 22 cm). On one side, Ganymede gives drink to the eagle Jupiter; on the other, two theatrical masks.
 
 
 

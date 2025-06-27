@@ -12,7 +12,7 @@ draft: false
 
 ## Province
 
-[Judaea]({{<relref "..">}}) \
+- [Judaea]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981527" term="Iudaea (province)" >}}
 
 ## Province Description
@@ -23,7 +23,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 
 ## Location
 
-[Macchaerus]({{<relref ".">}}) \
+- [Macchaerus]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="687917" term="Macchaerus" >}}
 
 ## Location Description
@@ -51,8 +51,8 @@ Royal Garden
 
 ## Keywords
 
-- [pleasure garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=4&subjectid=300008115)
-- [walled garden](http://www.getty.edu/vow/AATFullDisplay?find=garden&logic=AND&note=&english=N&prev_page=5&subjectid=300008129)
+- {{< keyword "pleasure gardens" >}}
+- {{< keyword "walled gardens" >}}
 
 ## Garden Description
 

@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Bad Kreuznach]({{<relref ".">}}) \
+- [Bad Kreuznach]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981525" term="Bad Kreuznach" >}}
 
 <!--### Location Description-->

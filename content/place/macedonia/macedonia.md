@@ -39,7 +39,7 @@ draft: true
 
 ## Pleiades ID
 
-[Macedonia (Roman province)]({{<relref ".">}}) \
+- [Macedonia (Roman province)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981531" term="Macedonia (Roman province)" >}}
 
 ## TGN ID

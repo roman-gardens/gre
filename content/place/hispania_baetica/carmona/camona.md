@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Carmona]({{<relref ".">}}) \
+- [Carmona]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="521700443" term="Carmona" >}}
 
 ## Location Description
@@ -86,7 +86,7 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Elephant tomb at Carmona]{{<relref ".">}}) \
+- [Elephant tomb at Carmona]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="521700443" term="Elephant tomb at Carmona" >}}
 
 ## TGN ID

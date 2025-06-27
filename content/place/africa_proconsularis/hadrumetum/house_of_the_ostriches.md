@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Africa Proconsularis]({{<relref "..">}}) \
+- [Africa Proconsularis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
@@ -19,7 +19,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
-[Hadrumetum (Sousse)]({{<relref ".">}}) \
+- [Hadrumetum (Sousse)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="324716" term="Hadrumetum" >}}
 
 {{< image src="hadrumetum_city_plan.jpg" alt="Plan of Hadrumetum; rights statement" title="Fig. 1: Plan of Hadrumetum (Ghaddhab, R., 2016, P.182)" >}}
@@ -45,7 +45,7 @@ House of the Ostriches (Maison des Autruches)
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "niches" >}}
-<!-- [urban villas](#) -->
+<!-- {{< keyword "villae urbanae" >}} -->
 
 ## Garden Description
 In this incomplete house, the peristyle-garden was bounded by a low wall that curved to make six semi-circular niches facing the galleries of the peristyle (Plan view, Fig. 1). The two niches located on the East-West axis of the *triclinium* are wider with the one facing the *triclinium* containing a basin with a marine mosaic. The house is dated to the II c.

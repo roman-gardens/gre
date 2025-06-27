@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[Romula]({{<relref ".">}}) \
+- [Romula]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981518" term="Romula" >}}
 
 <!--### Location Description-->

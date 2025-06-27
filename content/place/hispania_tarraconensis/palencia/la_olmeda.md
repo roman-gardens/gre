@@ -20,7 +20,7 @@ draft: true
 
 ## Location
 
-[PEDROSA DE LA VEGA]({{<relref ".">}}) \
+- [PEDROSA DE LA VEGA]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="236579" term="La Olmeda" >}}
 
 ## Location Description

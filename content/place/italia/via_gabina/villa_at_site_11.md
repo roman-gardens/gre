@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[Villa at site 11]({{<relref ".">}}) \
+- [Villa at site 11]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="622606468" term="Villa at site 11" >}}
 
 <!--### Location Description-->

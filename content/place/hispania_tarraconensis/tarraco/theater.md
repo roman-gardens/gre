@@ -44,7 +44,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 
-[Col. Tarraco]({{<relref ".">}}) \
+- [Col. Tarraco]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="246349" term="Col. Tarraco" >}}
 
 

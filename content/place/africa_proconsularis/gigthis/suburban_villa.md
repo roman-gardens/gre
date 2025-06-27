@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Africa Proconsularis]({{<relref "..">}}) \
+- [Africa Proconsularis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
@@ -19,7 +19,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
-[Gigthis (Bou Ghara)]({{<relref ".">}}) \
+- [Gigthis (Bou Ghara)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="344380" term="Gigthis" >}}
 
 ## Location Description
@@ -44,7 +44,7 @@ Suburban Villa
 - {{< keyword "inscriptions" >}}
 - {{< keyword "courtyards" >}}
 
-<!-- [urban villas](#) -->
+<!-- {{< keyword "villae urbanae" >}} -->
 
 ## Garden Description
 On the other side of the fortified enceinte, one hundred and fifty kilometers south was a large building that belonged to an architect according to an inscription found near the peristyle.

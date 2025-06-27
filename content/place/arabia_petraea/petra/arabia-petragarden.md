@@ -11,7 +11,7 @@ draft: false
 ---
 
 ## Province
-[Arabia Petraea]({{<relref "..">}})\
+- [Arabia Petraea]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981506" term="Arabia (province)" >}}
 
 The
@@ -20,7 +20,7 @@ story of Roman Arabia begins with the death of the Nabataean king, [Rabb'el II s
 The region of Arabia Petraea is primarily a desert environment that belongs to the eastern Mediterranean weather system. Its inhabitants experienced marked seasonal contrasts with dry, hot summers and cold, wet winters. Rainfall occurs during the winter months and ranges from over 600 millimeters in the north-west to as low as 100 millimeters in the south and east of the region.
 
 ## Location
-[Petra]({{<relref ".">}})\
+- [Petra]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="697725" term="Petra" >}}
 
 Petra, known to its ancient inhabitants as *Raqmu*, is located approximately 80 kilometers southeast of the Dead Sea in modern Jordan. The ancient city is situated on the western slopes of the Sharā Mountain Range, in a wide basin surrounded by deeply eroded mountainous ridges of sandstone, with outcrops of limestone and porphyry that form a natural fortification.

@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Quesada]({{<relref ".">}}) \
+- [Quesada]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="265996" term="Quesada" >}}
 
 ## Location Description
@@ -111,7 +111,7 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Pago de Bruñel]{{<relref ".">}}) \
+- [Pago de Bruñel]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="265996" term="Pago de Bruñel" >}}
 
 ## TGN ID

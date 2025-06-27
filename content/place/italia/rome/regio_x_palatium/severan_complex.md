@@ -12,18 +12,18 @@ draft: false
 
 ## Province
 
-[Italia]({{<relref "../..">}}) \
+- [Italia]({{<relref "../..">}}) 
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
 - {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
 
 ## Location
 
-[Rome]({{<relref "..">}}) \
+- [Rome]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 
 ## Sublocation
 
-[Palatine]({{<relref ".">}}) \
+- [Palatine]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
@@ -58,7 +58,7 @@ RELATED PHASES ON THE PALATINE:
 
 ## Figures
 
-{{< image src="severan_complex_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
+{{< image src="severan_complex_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1: Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
 
 ###Dates
 

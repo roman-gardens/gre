@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[Neerhaaren-Rekem]({{<relref ".">}}) \
+- [Neerhaaren-Rekem]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="109193" term="Neerhaaren-Rekem" >}}
 
 <!--### Location Description-->

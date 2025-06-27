@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 
-[Gallia Narbonensis]({{<relref "..">}}) \
+- [Gallia Narbonensis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 <!-- ### Province Description -->
@@ -21,7 +21,7 @@ draft: true
 
 ## Location
 
-[DIE, France]({{<relref ".">}}) \
+- [DIE, France]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="167716" term="DIE, France" >}}
 
 ## Location Description

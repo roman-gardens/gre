@@ -19,7 +19,7 @@ An irrigation system based around the qanat, an underground water channel, was u
 
 ## Location
 
-[Tyrus]({{<relref ".">}}) \
+- [Tyrus]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="678437" term="Tyrus" >}}
 
 <!--### Location Description-->

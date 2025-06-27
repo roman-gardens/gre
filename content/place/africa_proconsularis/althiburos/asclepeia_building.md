@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Africa Proconsularis]({{<relref "..">}}) \
+- [Africa Proconsularis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
@@ -19,7 +19,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
-[Althiburos (Médeïna)]({{<relref ".">}}) \
+- [Althiburos (Médeïna)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="324664" term="Althiburos" >}}
 
 ## Location Description
@@ -42,7 +42,7 @@ A sublocation is any area larger than an individual garden, but located within a
 Asclepieia Building (Edifice des Asclepieia)
 
 ## Keywords
-<!-- [urban villas](#) -->
+<!-- {{< keyword "villae urbanae" >}} -->
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "oeci" >}}

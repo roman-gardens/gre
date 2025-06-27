@@ -18,7 +18,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 
-[Chaeronea]({{<relref ".">}}) \
+- [Chaeronea]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="540701" term="Chaeronea" >}}
 
 <!--### Location Description

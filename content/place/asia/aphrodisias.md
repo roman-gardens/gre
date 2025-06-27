@@ -31,7 +31,7 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 
 ## Location
 
-[Geyre, Caria region, Turkey]({{<relref ".">}}) \
+- [Geyre, Caria region, Turkey]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="638753" term="Aphrodisias " >}}
 
 ## Location Description

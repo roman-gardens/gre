@@ -19,7 +19,7 @@ An irrigation system based around the qanat, an underground water channel, was u
 
 ## Location
 
-[Jebel Khalid]({{<relref ".">}}) \
+- [Jebel Khalid]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="481573620" term="Jebel Khalid" >}}
 
 <!--### Location Description-->

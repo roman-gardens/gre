@@ -12,7 +12,7 @@ draft: false
 
 ## Location
 
-[Latimer]({{<relref ".">}}) \
+- [Latimer]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="79555" term="Latimer" >}}
 
 <!--### Location Description-->

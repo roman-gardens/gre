@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Africa Proconsularis]({{<relref "..">}}) \
+- [Africa Proconsularis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
@@ -19,7 +19,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
-[Althiburos (Médeïna)]({{<relref ".">}}) \
+- [Althiburos (Médeïna)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="324664" term="Althiburos" >}}
 
 ## Location Description
@@ -47,7 +47,7 @@ House of the Fishing Scene (Maison de la scène de pêche)
 - {{< keyword "euripus" >}}
 - {{< keyword "balustrades" >}}
 
-<!-- [urban villas](#) -->
+<!-- {{< keyword "villae urbanae" >}} -->
 
 
 ## Garden Description

@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[Pompeii]({{<relref "../../..">}}) \
+- [Pompeii]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Sublocation

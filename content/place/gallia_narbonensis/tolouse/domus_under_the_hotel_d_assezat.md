@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 
-[Gallia_narbonensis]({{<relref "..">}}) \
+- [Gallia_narbonensis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
 
 ## Province Description
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 
-[Toulouse]({{<relref ".">}}) \
+- [Toulouse]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="246694" term="Toulouse" >}}
 
 ## Location Description

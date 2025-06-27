@@ -17,7 +17,7 @@ draft: false
 
 ## Location
 
-[Fishbourne]({{<relref ".">}}) \
+- [Fishbourne]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="79466" term="Fishbourne" >}}
 
 <!--### Location Description-->

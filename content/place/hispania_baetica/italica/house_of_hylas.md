@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Italica]({{<relref ".">}}) \
+- [Italica]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256231" term="Italica" >}}
 
 ## Location Description
@@ -80,7 +80,7 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[House of Hylas at Italica]{{<relref ".">}}) \
+- [House of Hylas at Italica]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="634946753" term="House of Hylas at Italica" >}}
 
 ## TGN ID

@@ -44,7 +44,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 
-[Villa de Los Villares]({{<relref ".">}}) \
+- [Villa de Los Villares]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="188623838" term="Villa de Los Villares" >}}
 
 

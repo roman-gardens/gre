@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Thessaloniki]({{<relref ".">}}) \
+- [Thessaloniki]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="491741" term="Thessaloniki" >}}
 
 <!--### Location Description-->

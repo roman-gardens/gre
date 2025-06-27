@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Hispania Tarraconensis]({{<relref "..">}}) \
+- [Hispania Tarraconensis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981551" term="Tarraconensis(Pleiades)" >}}
 
 ## Province Description
@@ -42,7 +42,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Location
-[Villa dels Munts]({{<relref ".">}}) \
+- [Villa dels Munts]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="250016" term="Villa dels Munts" >}}
 
 <!--### Location Description-->

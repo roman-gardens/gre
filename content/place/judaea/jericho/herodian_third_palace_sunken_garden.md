@@ -12,7 +12,7 @@ draft: false
 
 ## Province
 
-[Judaea]({{<relref "..">}}) \
+- [Judaea]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981527" term="Iudaea (province)" >}}
 
 ## Province Description
@@ -23,7 +23,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 
 ## Location
 
-[Jericho]({{<relref ".">}}) \
+- [Jericho]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="687917" term="Jericho" >}}
 
 ## Location Description
@@ -83,7 +83,7 @@ A huge pool (90 x 40 m.) built to the east of the sunken garden formed an integr
 
 {{< image src="/ASIA_JUD_JERICHO_17.jpg" alt="Figure 4: view of the Third Palace showing the Sunken Garden with linear promenades(ambulationes, K. Gleason after J. Salzberg)." title="Figure 4: view of the Third Palace showing the Sunken Garden with linear promenades(ambulationes, K. Gleason after J. Salzberg)." >}}
 
-{{< image src="fig_18.jpg" alt="Fig 5: The Grand Facade of the Sunken Garden  and Netzer’s Trench B3, view from the northwest (Netzer 2001a: Ill. 433)." title="Fig 5: The Grand Facade of the Sunken Garden  and Netzer’s Trench B3, view from the northwest (Netzer 2001a: Ill. 433)." >}}
+{{< image src="fig_18.jpg" alt="Fig. 5: The Grand Facade of the Sunken Garden  and Netzer’s Trench B3, view from the northwest (Netzer 2001a: Ill. 433)." title="Fig. 5: The Grand Facade of the Sunken Garden  and Netzer’s Trench B3, view from the northwest (Netzer 2001a: Ill. 433)." >}}
 
 {{< image src="/ASIA_JUD_JERICHO_19.jpg" alt="Figure 6:Axonometric reconstruction of the Hemicycle and the Sunken Garden terrace showing the excavation areas.Light shading indicates the Kelso and Baramki excavations, dark shading indicates Netzer’s excavations (K.Gleason after J. Salzberg)." title="Figure 6:Axonometric reconstruction of the Hemicycle and the Sunken Garden terrace showing the excavation areas.Light shading indicates the Kelso and Baramki excavations, dark shading indicates Netzer’s excavations (K.Gleason after J. Salzberg)." >}}
 

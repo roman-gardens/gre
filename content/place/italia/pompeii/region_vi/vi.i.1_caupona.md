@@ -3,15 +3,15 @@ gre_id: "dc6198eba1"
 aliases: [/id/dc6198eba1]
 type: garden
 title: "Caupona, VI.I.1"
-date: 2021-02-19T09:54:16-06:00
 latlon: [ 40.749738, 14.489882 ]
 author: Wilhelmina Jashemski
 editor: Claire Campbell
+date: 2021-02-19
 draft: true
 ---
 
 ## Province
-[Italia]({{<relref "../..">}}) \
+- [Italia]({{<relref "../..">}}) 
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 <!--- Content of Province heading --->
 
@@ -21,7 +21,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 
 
 ## Location
-[Pompeii]({{<relref "..">}}) \
+- [Pompeii]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 ## Location Description
@@ -73,23 +73,7 @@ Soprano, p. 300, no. 13.
 
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="222138654" term="Regio I, Pompeii" >}}
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
-
-<!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## TGN ID
-[Pompeii (deserted settlement)](http://www.getty.edu/vow/TGNFullDisplay?find=&place=&nation=&english=Y&subjectid=7004658)
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
-<!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
-
-## Contributor
-[Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
-
-
-## Publication date
-19 February 2021
-<!-- Format: dd MONTH_NAME yyyy -->
-
-<!-- DATE -->
+- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}>}}

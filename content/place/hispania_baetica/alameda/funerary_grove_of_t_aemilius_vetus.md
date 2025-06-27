@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Alameda]({{<relref ".">}}) \
+- [Alameda]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="270382" term="Alameda" >}}
 
 ## Location Description
@@ -83,7 +83,7 @@ unspecified
 
 ## Pleiades ID
 
-[Urgapa]({{<relref ".">}}) \
+- [Urgapa]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="270382" term="Urgapa" >}}
 
 ## TGN ID

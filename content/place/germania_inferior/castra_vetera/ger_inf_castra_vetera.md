@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[Castra Vetera]({{<relref ".">}}) \
+- [Castra Vetera]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108867" term="Castra Vetera" >}}
 
 <!--### Location Description-->

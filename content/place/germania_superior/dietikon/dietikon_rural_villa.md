@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Dietikon]({{<relref ".">}}) \
+- [Dietikon]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981525" term="Dietikon" >}}
 
 <!--### Location Description-->

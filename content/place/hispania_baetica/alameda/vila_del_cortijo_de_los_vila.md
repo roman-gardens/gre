@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Alameda]({{<relref ".">}}) \
+- [Alameda]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="270382" term="Alameda" >}}
 
 ## Location Description
@@ -84,7 +84,7 @@ unspecified
 
 ## Pleiades ID
 
-[Villa del Cortijo de los Vila at Alameda]({{<relref ".">}}) \
+- [Villa del Cortijo de los Vila at Alameda]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="521700444" term="Villa del Cortijo de los Vila at Alameda" >}}
 
 ## TGN ID

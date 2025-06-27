@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[AUTRICUM (Chartres, France)]({{<relref ".">}}) \
+- [AUTRICUM (Chartres, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108778" term="AUTRICUM" >}}
 
 <!--### Location Description-->

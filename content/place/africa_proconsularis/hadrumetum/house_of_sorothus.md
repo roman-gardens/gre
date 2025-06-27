@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Africa Proconsularis]({{<relref "..">}}) \
+- [Africa Proconsularis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
@@ -19,7 +19,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
-[Hadrumetum (Sousse)]({{<relref ".">}}) \
+- [Hadrumetum (Sousse)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="324716" term="Hadrumetum" >}}
 
 {{< image src="hadrumetum_city_plan.jpg" alt="Plan of Hadrumetum; rights statement" title="Fig. 1: Plan of Hadrumetum (Ghaddhab, R., 2016, P.182)" >}}
@@ -47,7 +47,7 @@ House of  Sorothus (Maison de Sorothus)
 - {{< keyword "semicircular basin" >}}
 - {{< keyword "mural paintings" >}}
 
-<!-- [urban villas](#) -->
+<!-- {{< keyword "villae urbanae" >}} -->
 
 ## Garden Description
 This very damaged house was laid out around a peristyle garden. A semi-circular and bisected basin was placed on the axis of the reception room (Plan view, Fig. 1). The small wall that enclosed the garden was painted with flowers.

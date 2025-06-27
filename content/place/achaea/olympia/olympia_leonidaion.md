@@ -19,7 +19,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 
-[Olympia]({{<relref ".">}}) \
+- [Olympia]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="570531" term="Olympia" >}}
 
 <!--### Location Description-->

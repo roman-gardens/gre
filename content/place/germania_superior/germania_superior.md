@@ -46,7 +46,7 @@ c. AD 85
 
 ## Pleiades ID
 
-[Germania Superior]({{<relref ".">}}) \
+- [Germania Superior]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
 
 ## TGN ID

@@ -11,11 +11,11 @@ draft: false
 ---
 
 ## Province
-[Italia]({{<relref "../../..">}}) \
+- [Italia]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}}
 
 ## Location
-[Pompeii]({{<relref "../..">}}) \
+- [Pompeii]({{<relref "../..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 
@@ -39,7 +39,7 @@ House of Aemilius Primio and Aemiluis Saturninus
 
 
 ## Garden
-Small garden to the rear of a [taberna](http://www.getty.edu/vow/AATFullDisplay?find=tabernae&logic=AND&note=&english=N&prev_page=1&subjectid=300005366)
+Small garden to the rear of a [taberna](http://vocab.getty.edu/page/aat/300005366)
 
 ## Garden Description
 Behind the shop, living quarters were located, including a garden to the rear. The west garden wall was topped with the broken [amphorae](http://vocab.getty.edu/page/aat/300148696)]; this wall was shared with the rear open area in I.i.1.

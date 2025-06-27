@@ -13,7 +13,7 @@ draft: false
 
 ## Location
 
-[Corinth]({{<relref ".">}}) \
+- [Corinth]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="570182" term="Corinth" >}}
 
 <!--### Location Description-->

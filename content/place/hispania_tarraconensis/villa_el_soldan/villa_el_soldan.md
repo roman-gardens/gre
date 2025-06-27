@@ -43,7 +43,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 
-[Villa El Soldán  (The Sultan)]({{<relref ".">}}) \
+- [Villa El Soldán  (The Sultan)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="972371930" term="Villa El Soldán  (The Sultan) " >}}
 
 

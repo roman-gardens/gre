@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[COLONIA AUGUSTA TREVERORUM (Trier, Germany)]({{<relref ".">}}) \
+- [COLONIA AUGUSTA TREVERORUM (Trier, Germany)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108894" term="COLONIA AUGUSTA TREVERORUM" >}}
 
 <!--### Location Description-->

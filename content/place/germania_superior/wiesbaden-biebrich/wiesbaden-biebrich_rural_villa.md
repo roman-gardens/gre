@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Wiesbaden-Biebrich]({{<relref ".">}}) \
+- [Wiesbaden-Biebrich]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="109461" term="Wiesbaden-Biebrich" >}}
 
 ## Location Description

@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Benalmadena-Costa]({{<relref ".">}}) \
+- [Benalmadena-Costa]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="510567671" term="Benalmadena-Costa" >}}
 
 ## Location Description
@@ -79,7 +79,7 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Benalroma]{{<relref ".">}}) \
+- [Benalroma]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="510567671" term="Benalroma" >}}
 
 ## TGN ID

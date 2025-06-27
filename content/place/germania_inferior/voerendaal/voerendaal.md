@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[Voerendaal]({{<relref ".">}}) \
+- [Voerendaal]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="109442" term="Voerendaal" >}}  
 
 <!--### Location Description-->

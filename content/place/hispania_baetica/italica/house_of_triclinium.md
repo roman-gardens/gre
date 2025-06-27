@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Italica]({{<relref ".">}}) \
+- [Italica]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256231" term="Italica" >}}
 
 ## Location Description

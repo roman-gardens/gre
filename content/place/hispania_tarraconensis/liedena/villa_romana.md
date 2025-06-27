@@ -10,7 +10,7 @@ editor: Qianli Jiang
 draft: true
 ---
 
-[Hispania Tarraconensis]({{<relref "..">}}) \
+- [Hispania Tarraconensis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981551" term="Tarraconensis(Pleiades)" >}}
 
 ## Province Description

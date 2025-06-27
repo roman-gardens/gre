@@ -3,20 +3,16 @@ gre_id: "14593f97f9"
 aliases: [/id/14593f97f9]
 type: garden
 title: "Tomb Garden of Aur(elius) Inachus"
-date: 2020-11-30T10:54:29-07:00
 latlon: [ 0, 0 ]
-author:
+author: John Bodel
 editor: Yuyao Liu
+date: 2021-04-21
 draft: true
 ---
 
 ## Location
-- {{< id vocab="Pleiades" id="356966898" term="VIA APPIA" >}}
+- {{< id vocab="Pleiades" id="356966898" term="Via Appia" >}}
 - {{< id vocab="Pleiades" id="811119037" term="Tomb Garden of Aur(elius) Inachus" >}}
-
-<!--### Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Sublocation
 Via Appia
@@ -63,18 +59,3 @@ Unspecified
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="811119037" term="Tomb Garden of Aur(elius) Inachus" >}}
-
-
-
-## Contributor
-	J Bodel
-
-
-## Publication date
-
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

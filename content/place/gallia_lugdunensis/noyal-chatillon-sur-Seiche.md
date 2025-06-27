@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[NOYAL-CHATILLION-SUR-SEICHE (Ille-et-Vilaine, France)]({{<relref ".">}}) \
+- [NOYAL-CHATILLION-SUR-SEICHE (Ille-et-Vilaine, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="69488" term="NOYAL-CHATILLION-SUR-SEICHE" >}}
 
 <!--### Location Description-->

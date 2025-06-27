@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[NENNIG  (Germany)]({{<relref ".">}}) \
+- [NENNIG  (Germany)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="109198" term="NENNIG" >}}
 
 <!--### Location Description-->

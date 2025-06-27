@@ -18,7 +18,7 @@ draft: true
 
 ## Location
 
-[Salona]({{<relref ".">}}) \
+- [Salona]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="197488" term="Salona" >}}
 
 <!--### Location Description-->

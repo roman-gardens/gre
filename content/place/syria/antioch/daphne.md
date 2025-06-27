@@ -19,7 +19,7 @@ An irrigation system based around the qanat, an underground water channel, was u
 
 ## Location
 
-[Antioch]({{<relref ".">}}) \
+- [Antioch]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="658381" term="Antioch" >}}
 
 <!--### Location Description-->

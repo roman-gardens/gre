@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Africa Proconsularis]({{<relref "..">}}) \
+- [Africa Proconsularis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
@@ -19,7 +19,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
-[Aspis/Clupea (Kelibia)]({{<relref ".">}}) \
+- [Aspis/Clupea (Kelibia)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="314892" term="Aspis/Clupea" >}}
 
 ## Location Description
@@ -47,7 +47,7 @@ House of the Bust of Marcus Aurelius (Maison du Buste de Marc Aurèle)
 - {{< keyword "Marcus Aurelius" >}}
 - {{< keyword "sculpture" >}}
 
-<!-- [urban villas](#) -->
+<!-- {{< keyword "villae urbanae" >}} -->
 
 ## Garden Description
 This *domus* (ca. 1000 m²) has a large central garden of irregular shape (250 m²) enclosed by a peristyle (20.20 x 21.40 m, 432.30 m²) (Plan view, Fig. 1).  The northwest wing seems the most important area of the house.  It had a large corridor XVII that opened onto a portico XVIII with a view toward the garden.  In the garden, along the axis of the main reception room II, a semi-circular *aedicula* XXIV was installed on a cistern XXVI where fragments of *Marcus Aurelius* bust were found that was probably installed on a stuccoed statue base XXV.  On the south side of the garden on the edge of the gallery XXI was a semi-circular pool XXVIII.

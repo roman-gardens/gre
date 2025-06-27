@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Hispania Tarraconensis]({{<relref "..">}}) \
+- [Hispania Tarraconensis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981551" term="Tarraconensis(Pleiades)" >}}
 
 
@@ -42,7 +42,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Location
-[La Almeda]({{<relref ".">}}) \
+- [La Almeda]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="723036345" term="LA Almeda" >}}
 
 <!--### Location Description-->

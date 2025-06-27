@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 
-[Gallia Narbonensis]({{<relref "..">}}) \
+- [Gallia Narbonensis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
 
 ## Province Description
@@ -21,7 +21,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location
 
-[caumont_sur_durance]({{<relref ".">}}) \
+- [caumont_sur_durance]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="352400034" term="caumont_sur_durance" >}}
 
 ## Location Description

@@ -12,7 +12,7 @@ draft: false
 
 ## Province
 
-[Judaea]({{<relref "..">}}) \
+- [Judaea]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981527" term="Iudaea (province)" >}}
 
 ## Province Description
@@ -23,7 +23,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 
 ## Location
 
-[Herodium]({{<relref ".">}}) \
+- [Herodium]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="687916" term="Herodium" >}}
 
 ## Location Description

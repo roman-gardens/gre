@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Baelo Claudia]({{<relref ".">}}) \
+- [Baelo Claudia]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256005" term="Baelo Claudia" >}}
 
 ## Location Description
@@ -89,7 +89,7 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[House of the Sundial at Baelo]{{<relref ".">}}) \
+- [House of the Sundial at Baelo]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="510567670" term="House of the Sundial at Baelo" >}}
 
 ## TGN ID

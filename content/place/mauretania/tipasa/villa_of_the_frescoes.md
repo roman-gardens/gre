@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 
-[Mauretania]({{<relref "..">}}) \
+- [Mauretania]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981532" term="Mauretania Caesariensis (province)(Pleiades)" >}}
 
 ## Province Description
@@ -21,7 +21,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 
 ## Location
 
-[Tipasa]({{<relref ".">}}) \
+- [Tipasa]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="295363" term="Tipasa" >}}
 
 ## Location Description

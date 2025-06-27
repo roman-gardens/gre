@@ -22,7 +22,7 @@ This appears to be a duplicate of [id/01eee45763](/id/01eee45763)
 
 ## Location
 
-[Pompeii]({{<relref "../../..">}}) \
+- [Pompeii]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
 <!--### Location Description-->

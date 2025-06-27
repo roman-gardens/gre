@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[ECHTERNACH (Luxembourg)]({{<relref ".">}}) \
+- [ECHTERNACH (Luxembourg)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108955" term="ECHTERNACH" >}}
 
 <!--### Location Description-->

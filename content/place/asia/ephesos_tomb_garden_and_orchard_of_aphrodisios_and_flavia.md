@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 
-[Asia]({{<relref "..">}}) \
+- [Asia]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981509" term="Asia" >}}
 
 ## Province description

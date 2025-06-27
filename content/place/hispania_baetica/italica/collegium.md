@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Italica]({{<relref ".">}}) \
+- [Italica]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256231" term="Italica" >}}
 
 ## Location Description
@@ -69,7 +69,7 @@ unspecified
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
 ## Pleiades ID
-[Collegium at Italica]{{<relref ".">}}) \
+- [Collegium at Italica]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="810966696" term="Collegium at Italica" >}}
 
 ## TGN ID

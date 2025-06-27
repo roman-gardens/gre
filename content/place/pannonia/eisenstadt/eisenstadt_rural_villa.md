@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Eisenstadt]({{<relref ".">}}) \
+- [Eisenstadt]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="197425" term="Eisenstadt" >}}
 
 

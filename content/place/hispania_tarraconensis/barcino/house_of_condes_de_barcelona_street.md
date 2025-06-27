@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Hispania Tarraconensis]({{<relref "..">}}) \
+- [Hispania Tarraconensis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981551" term="Tarraconensis(Pleiades)" >}}
 
 ## Province Description
@@ -41,7 +41,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Location
-[Barcino]({{<relref ".">}}) \
+- [Barcino]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="246343" term="Barcino" >}}
 <!-- before the word description, and -->
 <!-- LEAVE THIS BLANK FOR NOW -->

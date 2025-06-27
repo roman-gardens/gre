@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[Niederzier-Hambach]({{<relref ".">}}) \
+- [Niederzier-Hambach]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="109210" term="Niederzier-Hambach" >}}
 
 ## Location Description

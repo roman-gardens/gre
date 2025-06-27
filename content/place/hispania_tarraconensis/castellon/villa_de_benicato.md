@@ -20,7 +20,7 @@ draft: true
 
 ## Location
 
-[Nules]({{<relref ".">}}) \
+- [Nules]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="266010" term="Pujol de Benicató" >}}
 
 <!--### Location Description-->

@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Orbe]({{<relref ".">}}) \
+- [Orbe]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="177598" term="Orbe" >}}
 
 <!--### Location Description-->

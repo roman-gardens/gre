@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Savaria]({{<relref ".">}}) \
+- [Savaria]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="197498" term="Savaria" >}}
 
 <!--### Location Description-->

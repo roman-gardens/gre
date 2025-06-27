@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Africa Proconsularis]({{<relref "..">}}) \
+- [Africa Proconsularis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
@@ -21,7 +21,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
-[THYSDRUS (El Jem) Tunisia]({{<relref ".">}}) \
+- [THYSDRUS (El Jem) Tunisia]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="324835" term="THYSDRUS (El Jem) Tunisia(Pleiades)" >}}
 
 ## Location Description

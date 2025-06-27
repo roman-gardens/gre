@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 
-[Judaea]({{<relref "..">}}) \
+- [Judaea]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981527" term="Iudaea (province)" >}}
 
 ## Province Description
@@ -24,7 +24,7 @@ This geography of Judaea comprises a wide variety of biomes, from richly watered
 
 ## Location
 
-[Ramat Hanadiv]({{<relref ".">}}) \
+- [Ramat Hanadiv]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="678357" term="Ramat Hanadiv(Pleiades)" >}}
 
 <!--### Location Description

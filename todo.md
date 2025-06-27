@@ -125,12 +125,8 @@
 - [ ] place archetype: date, description, image/plan/map, bibliography, keywords, place(s), linked IDs
 - [ ] add gre_id/aliases for places, update citation example
 - [ ] fix or remove empty links -- search for "(#)"
-- [ ] fix unnecessarily long links to AAT/TGN http://www.getty.edu/vow/TGNFullDisplay?find=zoar&place=&nation=&prev_page=1&english=Y&subjectid=4012542
-
-- [ ] meta keyword search link should omit parentetical
-
-
-
+- [ ] backslashes \
+- [ ] consistent "Fig. 2: Title"
 
 
 

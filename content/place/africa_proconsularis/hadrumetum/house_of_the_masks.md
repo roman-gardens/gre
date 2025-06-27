@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Africa Proconsularis]({{<relref "..">}}) \
+- [Africa Proconsularis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
 
 ## Province Description
@@ -19,7 +19,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 
-[Hadrumetum (Sousse)]({{<relref ".">}}) \
+- [Hadrumetum (Sousse)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="324716" term="Hadrumetum" >}}
 
 {{< image src="hadrumetum_city_plan.jpg" alt="Plan of Hadrumetum; rights statement" title="Fig. 1: Plan of Hadrumetum (Ghaddhab, R., 2016, P.182)" >}}
@@ -45,7 +45,7 @@ House of the Masks (Maison des Masques)
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "oecus cyzicenus" >}}
-<!-- [urban villas](#) -->
+<!-- {{< keyword "villae urbanae" >}} -->
 
 ## Garden Description
 Known for its mosaic pavements, the *domus* of the Masks was laid out around a large peristyle that may have had a garden.

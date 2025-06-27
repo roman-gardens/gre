@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-[Italica]({{<relref ".">}}) \
+- [Italica]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256231" term="Italica" >}}
 
 ## Location Description
@@ -62,7 +62,7 @@ unspecified
 
 
 ## Pleiades ID
-[Public Square at Italica]{{<relref ".">}}) \
+- [Public Square at Italica]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="810966695" term="Public Square at Italica" >}}
 
 ## TGN ID

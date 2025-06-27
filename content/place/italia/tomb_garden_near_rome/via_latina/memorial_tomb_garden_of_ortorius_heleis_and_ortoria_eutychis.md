@@ -5,14 +5,14 @@ type: garden
 title: "Memorial Tomb Garden of Ortorius Heleis and Ortoria Eutychis"
 date: 2020-11-29T10:54:29-07:00
 latlon: [ 41.649151, 13.194182 ]
-author: 	Pier Giorgio Monti
+author: Pier Giorgio Monti
 editor: Lingyi Xu
 draft: true
 ---
 
 ## Location
 
-[via latina]({{<relref ".">}}) \
+- [via latina]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="93042695" term="via latina" >}}
 
 <!--### Location Description-->
@@ -64,14 +64,3 @@ Unspecified
 
 ## TGN ID
 - {{< id vocab="TGN" id="6006328" term="Via Latina (road)" >}}
-
-## Contributor
-
-[	Pier Giorgio Monti](link) (ORCID: [0000-0001-7719-0920](https://orcid.org/0000-0001-7719-0920
-))
-
-## Publication date
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

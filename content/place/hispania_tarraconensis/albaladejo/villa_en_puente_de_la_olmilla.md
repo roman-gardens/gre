@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Province
-[Hispania Tarraconensis]({{<relref "..">}}) \
+- [Hispania Tarraconensis]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="981551" term="Tarraconensis(Pleiades)" >}}
 
 
@@ -42,7 +42,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Location
-[Puente de la Olmilla]({{<relref ".">}}) \
+- [Puente de la Olmilla]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="266009" term="Puente de la Olmilla" >}}
 
 <!--### Location Description-->

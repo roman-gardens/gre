@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-[WELSCHBILLIG (Germany)]({{<relref ".">}}) \
+- [WELSCHBILLIG (Germany)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="109456" term="WELSCHBILLIG" >}}
 
 <!--### Location Description-->
