@@ -100,7 +100,7 @@
                     {{ else if eq $i 1 }}
                         <td>{{ $v }}</td>
                     {{ else if eq $i 2 }}
-                        <td>{{ partial "keyword" $term }}</td>
+                        <td>{{ partial "keyword-link" $term }}</td>
                     {{ else }}
                         <td>{{ $v }}</td>
                     {{ end }}

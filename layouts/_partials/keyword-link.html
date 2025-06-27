@@ -53,7 +53,8 @@ containing:
     {{ end }}
 
     {{ if $url }}
-        {{ $output = print $output `<a href="/search/?q=` $term `">` (cond $fullterm $fullterm $term) `</a>` }}
+        {{ $shortterm := replaceRE ` \(.*\)` "" $term }}
+        {{ $output = print $output `<a href="/search/?q=` $shortterm `">` (cond $fullterm $fullterm $term) `</a>` }}
         {{ $output = print $output `<a target="_blank" href="` (urls.JoinPath $url .id) `" title="` $vocabname `">` .vocab `:` .id `</a>` }}
     {{ else }}
         {{ $output = print "UNKNOWN VOCAB " .vocab " for " $term }}
