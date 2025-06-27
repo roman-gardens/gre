@@ -46,7 +46,7 @@ B. The small garden to the rear of house 4 had an entrance into this large open 
 
 ## Bibliography
 - Jashemski, Wilhelmina F, and Stanley A. Jashemski, *The Gardens of Pompeii: Herculaneum and the Villas Destroyed by Vesuvius.* New Rochelle, NY: Caratzas, 1993, pp. 84.
-[worldcat](http://www.worldcat.org/oclc/769881162)
+[worldcat](https://search.worldcat.org/title/769881162)
 
 
 

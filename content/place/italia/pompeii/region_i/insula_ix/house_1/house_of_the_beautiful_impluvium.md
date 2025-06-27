@@ -84,7 +84,7 @@ unspecified
 
 * *CIL* IV. 10274, 10333 (for *amphoras* found in the garden March 3, 1952).
 * <span style="color:orange"> de Vos, p.135 in Bastet. </span>
-* Jashemski, *Gardens*, vol.II, pp. 44; <span style="color:orange">395</span>. [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Jashemski, *Gardens*, vol.II, pp. 44; <span style="color:orange">395</span>. [(worldcat)](https://search.worldcat.org/title/921816405)
 
 ## Pleiades ID
 

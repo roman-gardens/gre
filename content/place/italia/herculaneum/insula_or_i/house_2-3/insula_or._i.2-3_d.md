@@ -56,8 +56,8 @@ D. A rustic shrine was attached to the north side of the house and a long narrow
 Unspecified
 
 ## Bibliography
-* Maiuri, *Herculaneum*,  p. 67 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
-* Maiuri, *Ercolano*, pp. 359, 360 [(worldcat)](http://www.worldcat.org/oclc/490581395)
+* Maiuri, *Herculaneum*,  p. 67 [(worldcat)](https://search.worldcat.org/title/1107784297)
+* Maiuri, *Ercolano*, pp. 359, 360 [(worldcat)](https://search.worldcat.org/title/490581395)
 
 
 ## Contributor

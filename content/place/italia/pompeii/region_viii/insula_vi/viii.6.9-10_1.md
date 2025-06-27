@@ -53,9 +53,9 @@ The atrium at the front of this house had been converted into a bakery. Towards 
 Unspecified
 
 ## Bibliography
-* Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome, 1937, p.78, no.375 [(worldcat)](http://www.worldcat.org/oclc/1131425884)
-* Jashemski, *Gardens*, vol. II, p.219 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica*, 1884, pp.182-183 (location given as VII.vii [9]) [(worldcat)](http://www.worldcat.org/oclc/823239162)
+* Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome, 1937, p.78, no.375 [(worldcat)](https://search.worldcat.org/title/1131425884)
+* Jashemski, *Gardens*, vol. II, p.219 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica*, 1884, pp.182-183 (location given as VII.vii [9]) [(worldcat)](https://search.worldcat.org/title/823239162)
 
 ## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

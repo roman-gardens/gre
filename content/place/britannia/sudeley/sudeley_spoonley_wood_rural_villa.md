@@ -68,8 +68,8 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 ## Bibliography
 
-- *Ancient and Historical Monuments in the County of Gloucester* Vol. 1. Royal Commission on Historical Monuments of England, London, 1976, pp. 113-114, fig. on p. 114. [(worldcat)](http://www.worldcat.org/oclc/929693324)
-- C. Taylor, *The Archaeology of Gardens*. Shire Archaeology Series 30, Aylesbury, 1983, pp. 30-31, fig. 1. [(worldcat)](http://www.worldcat.org/oclc/881563275)
+- *Ancient and Historical Monuments in the County of Gloucester* Vol. 1. Royal Commission on Historical Monuments of England, London, 1976, pp. 113-114, fig. on p. 114. [(worldcat)](https://search.worldcat.org/title/929693324)
+- C. Taylor, *The Archaeology of Gardens*. Shire Archaeology Series 30, Aylesbury, 1983, pp. 30-31, fig. 1. [(worldcat)](https://search.worldcat.org/title/881563275)
 
 ## Pleiades ID
 

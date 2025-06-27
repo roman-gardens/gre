@@ -68,8 +68,8 @@ The original house, erected after A.D. 50, was rebuilt under [Vespasian](link) a
 Reign of Vespasian until the end of the fourth century CE
 
 ## Bibliography
-- F. Fremersdorf, *Das römische Haus mit dem Dionysosmosaik vor dem Südportal des Kölner Doms*, Berlin, 1956. [(worldcat)](http://www.worldcat.org/oclc/456335122)  
-- M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 55, fig. 20. [(worldcat)](http://www.worldcat.org/oclc/1120840822)   
+- F. Fremersdorf, *Das römische Haus mit dem Dionysosmosaik vor dem Südportal des Kölner Doms*, Berlin, 1956. [(worldcat)](https://search.worldcat.org/title/456335122)  
+- M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 55, fig. 20. [(worldcat)](https://search.worldcat.org/title/1120840822)   
 
 ## Pleiades ID
 

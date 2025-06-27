@@ -79,7 +79,7 @@ unspecified
 * *CIL* 13.5708. [EDCS-19800561](http://db.edcs.eu/epigr/epi_ergebnis.php)
 * *ILS* 8379.
 * *FIRA* III 49.
-* J.-J. Hatt, *La tombe gallo-romaine* (Paris 1951) 65-84. [(worldcat)](http://www.worldcat.org/oclc/561069313)
+* J.-J. Hatt, *La tombe gallo-romaine* (Paris 1951) 65-84. [(worldcat)](https://search.worldcat.org/title/561069313)
 
 ## Pleiades ID
 

@@ -50,7 +50,7 @@ Entry no. 17 from the angioportus offered a second access to this garden at the 
 Unspecified
 
 ## Bibliography
-* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 226-227 [(worldcat)](http://www.worldcat.org/oclc/823239162)
+* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 226-227 [(worldcat)](https://search.worldcat.org/title/823239162)
 
 ## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

@@ -74,7 +74,7 @@ Excavations in 1982-1984
 
 1. Cl. Sintès, *Les fouilles de la verrerie de Trinquetaille*, in Cl. SINTES, dir., Du nouveau sur Arles antique, Arles, 1987, p. 81-4. 
 
-2. Rouquette, Jean-Maurice, and Claude Sintès. *Arles Antique: Monuments Et Sites* Paris: Impr. nationale, p. 90-1.[(worldcat)](http://www.worldcat.org/oclc/22813475)
+2. Rouquette, Jean-Maurice, and Claude Sintès. *Arles Antique: Monuments Et Sites* Paris: Impr. nationale, p. 90-1.[(worldcat)](https://search.worldcat.org/title/22813475)
 
 
 

@@ -68,7 +68,7 @@ Far more modest than the House of Cantaber but following the same general ideas 
 
 
 <!--## Bibliography
-- Morand, I., La Maison aux jets d'eau de Conimbriga (Boccard, Paris, 2005). [(worldcat)](http://www.worldcat.org/oclc/255066311) -->
+- Morand, I., La Maison aux jets d'eau de Conimbriga (Boccard, Paris, 2005). [(worldcat)](https://search.worldcat.org/title/255066311) -->
 
 ## Pleiades ID
 

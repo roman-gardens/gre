@@ -46,7 +46,7 @@ A marble slab of unknown urban provenance broken at the bottom and long lost rec
 Unspecified
 
 ## Bibliography
-- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 177 n. 11. [worldcat](https://www.worldcat.org/title/horti-sepulchrales-e-cepotaphia-nelle-iscrizioni-urbane/oclc/886794800&referer=brief_results)
+- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 177 n. 11. [worldcat](https://search.worldcat.org/title/886794800)
 
 ## Pleiades ID
 

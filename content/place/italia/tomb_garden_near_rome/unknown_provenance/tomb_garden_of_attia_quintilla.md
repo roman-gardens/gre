@@ -46,10 +46,10 @@ A handsome marble funerary altar of unknown but presumably urban provenance, now
 Unspecified
 
 ## Bibliography
-- W. Altmann, *Die römischen Grabaltäre der Kaiserzeit*, (Berlin 1905) 168 no. 214; S. [worldcat](https://www.worldcat.org/title/romischen-grabaltare-der-kaiserzeit/oclc/715073021&referer=brief_results)
-- S. Ducroix, *Catalogue analytique des inscriptions latines sur pierre conservées au Musée du Louvre*, (Paris 1975) 96  no. 314. [worldcat](https://www.worldcat.org/title/catalogue-analytique-des-inscriptions-latines-sur-pierre-conservees-au-musee-du-louvre/oclc/602598921&referer=brief_results)
-- D. Boschung, *Antike Grabaltäre aus den Nekropolen Roms*, (Acta Bernensia X) (Bern 1987) 107 no. 329, Taf. [worldcat](https://www.worldcat.org/title/antike-grabaltare-aus-den-nekropolen-roms/oclc/1063931061&referer=brief_results)
-- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 177 n. 9. [worldcat](https://www.worldcat.org/title/horti-sepulchrales-e-cepotaphia-nelle-iscrizioni-urbane/oclc/886794800&referer=brief_results)
+- W. Altmann, *Die römischen Grabaltäre der Kaiserzeit*, (Berlin 1905) 168 no. 214; S. [worldcat](https://search.worldcat.org/title/715073021)
+- S. Ducroix, *Catalogue analytique des inscriptions latines sur pierre conservées au Musée du Louvre*, (Paris 1975) 96  no. 314. [worldcat](https://search.worldcat.org/title/602598921)
+- D. Boschung, *Antike Grabaltäre aus den Nekropolen Roms*, (Acta Bernensia X) (Bern 1987) 107 no. 329, Taf. [worldcat](https://search.worldcat.org/title/1063931061)
+- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 177 n. 9. [worldcat](https://search.worldcat.org/title/886794800)
 
 ## Pleiades ID
 

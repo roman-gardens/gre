@@ -71,8 +71,8 @@ Unspecified
 
 ## Bibliography
 
-* Ben Hassen, H., Maurin, L., *Oudna (Uthina) La découverte d’une ville antique de Tunisie*, Paris, 1998.[(worldcat)](http://www.worldcat.org/oclc/492084212)
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.330-332.  [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Ben Hassen, H., Maurin, L., *Oudna (Uthina) La découverte d’une ville antique de Tunisie*, Paris, 1998.[(worldcat)](https://search.worldcat.org/title/492084212)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.330-332.  [(worldcat)](https://search.worldcat.org/title/989088620)
 
 
 ## Pleiades ID

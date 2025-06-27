@@ -55,8 +55,8 @@ The house of Venus is located at the S of the capitol and is adjacent to the tem
 3rd-5th century CE?
 
 ## Bibliography
-* Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](http://www.worldcat.org/oclc/7380877046)
-*  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.266-267. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](https://search.worldcat.org/title/7380877046)
+*  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.266-267. [(worldcat)](https://search.worldcat.org/title/989088620)
 *  Jeddi, N., *CMGR*,VII-1,  1999, pp. 211-232,  PL.  LXXXVIII
 
 

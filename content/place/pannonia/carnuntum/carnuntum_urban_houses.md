@@ -67,8 +67,8 @@ unspecified
 
 ## Bibliography
 
-* E. Swoboda, *Carnuntum. Seine Geschichte und seine Denkmäler*, 2nd Ed., Vienna, 1964, pp. 155-157, figs. 10-11, pl. 40. [(worldcat)](http://www.worldcat.org/oclc/223422804)
-* W. Jobst, *Provinzhauptstadt Carnuntum*, Vienna, 1983, pp. 156-160, fig. p. 144. [(worldcat)](http://www.worldcat.org/oclc/251349102)
+* E. Swoboda, *Carnuntum. Seine Geschichte und seine Denkmäler*, 2nd Ed., Vienna, 1964, pp. 155-157, figs. 10-11, pl. 40. [(worldcat)](https://search.worldcat.org/title/223422804)
+* W. Jobst, *Provinzhauptstadt Carnuntum*, Vienna, 1983, pp. 156-160, fig. p. 144. [(worldcat)](https://search.worldcat.org/title/251349102)
 
 ## Pleiades ID
 

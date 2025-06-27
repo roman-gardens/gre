@@ -69,7 +69,7 @@ Early 2nd century - 4th century
 
 ## Bibliography
 
-* E.B. Thomas, *Römische Villen in Pannonien*, Budapest, 1964, pp. 137-151, fig. 73. [(worldcat)](http://www.worldcat.org/oclc/785736879)
+* E.B. Thomas, *Römische Villen in Pannonien*, Budapest, 1964, pp. 137-151, fig. 73. [(worldcat)](https://search.worldcat.org/title/785736879)
 
 ## Pleiades ID
 

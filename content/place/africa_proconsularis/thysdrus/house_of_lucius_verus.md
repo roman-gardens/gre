@@ -66,12 +66,12 @@ The house was laid out around a large persityle garden of twenty-two columns (20
 3rd century CE
 
 ## Bibliography
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.285-287. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.285-287. [(worldcat)](https://search.worldcat.org/title/989088620)
 * Slim, H., "Thysdrus, une des plus grandes villes romaines d'Afrique", in *Les Dossiers de l'Archéologie, 69*, 1983, pp. 52-61.
-* Slim, H., "La maison du portrait de Lucius Verus à El Jem," BSAF, 1990, pp.87-88. [(worldcat)](http://www.worldcat.org/oclc/473121908)
-* Slim, H., "Le modèle urbain romain et le problème de l'eau dans les confins Sahel et de la Basse Steppe", in *Afrique dans l'Occident romain* (1er Siècle av. J.-C.- IV siècls ap. J.-C.) Actes du Colloque, Rome, décembre 1987, Rome, 1990, pp. 190-192. [(worldcat)](http://www.worldcat.org/oclc/949069985)
-* Slim, H., El Jem, *Ancient Thrysdrus*, Tunis, 1996, pp. 75-76. [(worldcat)](http://www.worldcat.org/oclc/1091934056)
-* Commission d'Afrique du Nord 2/2/90 *BCTH*. [(worldcat)](http://www.worldcat.org/oclc/836611377)
+* Slim, H., "La maison du portrait de Lucius Verus à El Jem," BSAF, 1990, pp.87-88. [(worldcat)](https://search.worldcat.org/title/473121908)
+* Slim, H., "Le modèle urbain romain et le problème de l'eau dans les confins Sahel et de la Basse Steppe", in *Afrique dans l'Occident romain* (1er Siècle av. J.-C.- IV siècls ap. J.-C.) Actes du Colloque, Rome, décembre 1987, Rome, 1990, pp. 190-192. [(worldcat)](https://search.worldcat.org/title/949069985)
+* Slim, H., El Jem, *Ancient Thrysdrus*, Tunis, 1996, pp. 75-76. [(worldcat)](https://search.worldcat.org/title/1091934056)
+* Commission d'Afrique du Nord 2/2/90 *BCTH*. [(worldcat)](https://search.worldcat.org/title/836611377)
 
 
 

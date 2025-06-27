@@ -42,7 +42,7 @@ The garden in the southeast section of this area was shared the house at entranc
 
 
 ## Bibliography
-Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, p.75 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)
+Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, p.75 [(worldcat)](https://search.worldcat.org/title/222353569)
 
 
 

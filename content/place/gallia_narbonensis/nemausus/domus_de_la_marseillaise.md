@@ -77,15 +77,15 @@ A.D. 40-60 Built
 
 ## Bibliography
 
-1. *Archéologie À Nîmes: Bilan De 40 Années De Recherches Et Découvertes : 1950-1990 : Ville De Nîmes, Musée Archéologique, Juin 1990*. Nîmes: Musée archéologique, 1990, P. 141-144. [(worldcat)](http://www.worldcat.org/oclc/611143779)
+1. *Archéologie À Nîmes: Bilan De 40 Années De Recherches Et Découvertes : 1950-1990 : Ville De Nîmes, Musée Archéologique, Juin 1990*. Nîmes: Musée archéologique, 1990, P. 141-144. [(worldcat)](https://search.worldcat.org/title/611143779)
 
 2. 1. J.L. Fiches, A. Veyrac, *Nîmes*, CAG, 30/1, 1996, P. 127.
 
-3. P.Gros, J. Guyon, Ph. Leveau, dir.,*La maison urbaine d'époque romaine, Atlas des maisons de la Gaule narbonnaise*, t. II, Doc. d'Archéol. Vaucl, 6, 1996, Nîmes, fiche n°3 P. 194-195.[(worldcat)](http://www.worldcat.org/oclc/491576850)
+3. P.Gros, J. Guyon, Ph. Leveau, dir.,*La maison urbaine d'époque romaine, Atlas des maisons de la Gaule narbonnaise*, t. II, Doc. d'Archéol. Vaucl, 6, 1996, Nîmes, fiche n°3 P. 194-195.[(worldcat)](https://search.worldcat.org/title/491576850)
 
-4. M. Monteil, *Nîmes antique et sa proche campagne*, Monographie d'Archéologie Méditerranéenne, 3, 1999, P. 139-144.[(worldcat)](http://www.worldcat.org/oclc/643112972)
+4. M. Monteil, *Nîmes antique et sa proche campagne*, Monographie d'Archéologie Méditerranéenne, 3, 1999, P. 139-144.[(worldcat)](https://search.worldcat.org/title/643112972)
 
-5. Garmy, Pierre, and Martial Monteil. *Le Quartier Antique Des Bénédictins À Nîmes (gard): Découvertes Anciennes Et Fouilles, 1966-1992*. Paris: Editions de la Maison des sciences de l'homme, 2000, P. 64-73.[(worldcat)](http://www.worldcat.org/oclc/45421533)
+5. Garmy, Pierre, and Martial Monteil. *Le Quartier Antique Des Bénédictins À Nîmes (gard): Découvertes Anciennes Et Fouilles, 1966-1992*. Paris: Editions de la Maison des sciences de l'homme, 2000, P. 64-73.[(worldcat)](https://search.worldcat.org/title/45421533)
 
 ## Pleiades ID
 

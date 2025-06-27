@@ -60,7 +60,7 @@ B. The front of this house has an L-shaped terrace (b) which provided a passagew
 Unspecified
 
 ## Bibliography
-* Maiuri, *Ercolano*, p.65 [(worldcat)](http://www.worldcat.org/oclc/490581395)
+* Maiuri, *Ercolano*, p.65 [(worldcat)](https://search.worldcat.org/title/490581395)
 
 ## Contributor
  Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

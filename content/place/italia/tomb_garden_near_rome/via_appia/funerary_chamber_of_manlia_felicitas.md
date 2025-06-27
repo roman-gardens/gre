@@ -48,9 +48,9 @@ When Vignon returned to the site thirteen years later, the underground chamber c
 ## Bibliography
 - J. Bodel, *Roman Tomb Gardens*, Cambridge University Press, 2018, p. 208-209.  [link](https://www.cambridge.org/core/books/gardens-of-the-roman-empire/roman-tomb-gardens/6BDAE36C21FFFADD3EB4E9CBD4BB8986)
 
-- P. Wuilleumier , *Sur la Voie Appienne: Les horti Manliani*, Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres,1951, 34-41; Archaiologike Ephemeris, 1952, 35; Quilici 1977: 39 (horti Manliani) [worldcat](https://www.worldcat.org/title/sur-la-voie-appienne-les-horti-manliani/oclc/754279146)
+- P. Wuilleumier , *Sur la Voie Appienne: Les horti Manliani*, Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres,1951, 34-41; Archaiologike Ephemeris, 1952, 35; Quilici 1977: 39 (horti Manliani) [worldcat](https://search.worldcat.org/title/754279146)
 
-- G.-L. Gregori , *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Bullettino della Commissione Archeologica Comunale di Roma BCom 92 (1987-88) [1989]: 180 n. 35, 185. [worldcat](https://www.worldcat.org/title/horti-sepulchrales-e-cepotaphia-nelle-iscrizioni-urbane/oclc/886794800)
+- G.-L. Gregori , *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Bullettino della Commissione Archeologica Comunale di Roma BCom 92 (1987-88) [1989]: 180 n. 35, 185. [worldcat](https://search.worldcat.org/title/886794800)
 
 
 

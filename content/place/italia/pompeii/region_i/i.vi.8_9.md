@@ -57,7 +57,7 @@ Excavated 1912, 1926-27. Bombed in 1943.
 
 ## Bibliography
 
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 35. [(worldcat)](http://www.worldcat.org/oclc/921816405).    
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 35. [(worldcat)](https://search.worldcat.org/title/921816405).    
 * Maiuri, A. 1929. *NSc*, pp. 393-395 and fig. 26 on p. 401.  
 * Pernice, E. and Winter, F. 1925, *Gefässe und Geräthe aus BronzeDie Hellenistische Kunst in Pompeii*, p. 32 and plate 21.1.    
 

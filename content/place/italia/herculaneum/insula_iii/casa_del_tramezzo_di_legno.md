@@ -87,10 +87,10 @@ unspecified
 
 ## Bibliography
 
-- Jashemski, *Gardens*, 1:59,and fig. 94 on p. 58 [(worldcat)](http://www.worldcat.org/oclc/1029851777)
-- Jashemski, *Gardens*, Vol.II, P. 370 [(worldcat)](http://www.worldcat.org/oclc/1029851777)
-- Maiuri, *Herculaneum*, pp. 35-36 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
-- Maiuri, *Ercolano*, pp. 231, 217-218 and fig. 162 (plan) on p. 208  [(worldcat)](http://www.worldcat.org/oclc/490581395)
+- Jashemski, *Gardens*, 1:59,and fig. 94 on p. 58 [(worldcat)](https://search.worldcat.org/title/1029851777)
+- Jashemski, *Gardens*, Vol.II, P. 370 [(worldcat)](https://search.worldcat.org/title/1029851777)
+- Maiuri, *Herculaneum*, pp. 35-36 [(worldcat)](https://search.worldcat.org/title/1107784297)
+- Maiuri, *Ercolano*, pp. 231, 217-218 and fig. 162 (plan) on p. 208  [(worldcat)](https://search.worldcat.org/title/490581395)
 
 ## Contributor
 

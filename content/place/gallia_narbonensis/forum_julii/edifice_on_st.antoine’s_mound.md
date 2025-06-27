@@ -79,9 +79,9 @@ The residence perhaps enjoyed an exterior garden in the vast open space of arabl
 
 ## Bibliography
 
-1. Atlas Des Maisons De Gaule Narbonnaise. Avignon: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 94-96 et fiche n°1, P. 100-101. [(worldcat)](http://www.worldcat.org/oclc/717347935)
+1. Atlas Des Maisons De Gaule Narbonnaise. Avignon: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 94-96 et fiche n°1, P. 100-101. [(worldcat)](https://search.worldcat.org/title/717347935)
 
-2. RIVET,  D.  BRENTCHALOFF,  S.  ROUCOLE,  S.  SAULNIER,  *Fréjus,  Atlas topographique  des  villes  de  gaule  méridionale*,  R.A.N.,  supplément  32,  Montpellier,  2000,  P. 278-281. [(worldcat)](http://www.worldcat.org/oclc/491603596)
+2. RIVET,  D.  BRENTCHALOFF,  S.  ROUCOLE,  S.  SAULNIER,  *Fréjus,  Atlas topographique  des  villes  de  gaule  méridionale*,  R.A.N.,  supplément  32,  Montpellier,  2000,  P. 278-281. [(worldcat)](https://search.worldcat.org/title/491603596)
 
 
 

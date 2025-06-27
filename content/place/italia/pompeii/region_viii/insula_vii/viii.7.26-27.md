@@ -54,10 +54,10 @@ Beyond shop 26 and the living quarters behind it there was a very large garden (
 Unspecified
 
 ## Bibliography
-* Fiorelli, *Descrizione di Pompei*, p. 358 [(worldcat)](http://www.worldcat.org/oclc/1198324804)
-* Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees 1809-1810-1811*,2:55 and pl. 16 (plan) [(worldcat)](http://www.worldcat.org/oclc/457565631)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 69 [(worldcat)](http://www.worldcat.org/oclc/906755593)
+* Fiorelli, *Descrizione di Pompei*, p. 358 [(worldcat)](https://search.worldcat.org/title/1198324804)
+* Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees 1809-1810-1811*,2:55 and pl. 16 (plan) [(worldcat)](https://search.worldcat.org/title/457565631)
+* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 69 [(worldcat)](https://search.worldcat.org/title/906755593)
 
 ## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

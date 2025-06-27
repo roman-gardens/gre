@@ -73,14 +73,14 @@ Excavated 1911 and 1923.
 
 * Della Corte, M. *Case ed abitanti di Pompei*, p. 313.  
 * Grimal, P. *Les jardins Romaines*, p. 446, no. 4.  
-* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, p. 60 and fig. 97 on p. 60. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)    
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, p. 37. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, p. 60 and fig. 97 on p. 60. [(worldcat)](https://search.worldcat.org/title/312003872)    
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, p. 37. [(worldcat)](https://search.worldcat.org/title/222353569)  
 * Maiuri, A. 1927. *NSc*, pp. 8, 11 and fig. 1 (plan) on p. 4.  
-* Maiuri, A. 1939. *Pompeii*, pp. 2, 112. [(worldcat)](http://www.worldcat.org/oclc/470375462)  
-* Maiuri, A. 1937. *Monumenti della pittura antica scoperti in italia*, sec. 3. [(worldcat)](https://www.worldcat.org/title/monumenti-della-pittura-antica-scoperti-in-italia-3-pompei-12-le-pitture-della-casa-del-citarista/oclc/635056420)  
+* Maiuri, A. 1939. *Pompeii*, pp. 2, 112. [(worldcat)](https://search.worldcat.org/title/470375462)  
+* Maiuri, A. 1937. *Monumenti della pittura antica scoperti in italia*, sec. 3. [(worldcat)](https://search.worldcat.org/title/635056420)  
 * *PPP*, p. 55.  
 * Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 30.  
-* Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, see large plan at back of book. [(worldcat)](http://www.worldcat.org/oclc/883858580)
+* Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, see large plan at back of book. [(worldcat)](https://search.worldcat.org/title/883858580)
 * Warscher, T. 1942. *Flora Pompeiana*, p. 24.   
 
 

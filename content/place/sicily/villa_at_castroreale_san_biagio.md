@@ -72,7 +72,7 @@ There is a rectangular fountain basin set at the south end of the peristyle faci
 
 ## Bibliography
 
-R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 199–203, with figs 165.3 and 166 (202 for the garden).[(worldcat)](http://www.worldcat.org/oclc/608028740)
+R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 199–203, with figs 165.3 and 166 (202 for the garden).[(worldcat)](https://search.worldcat.org/title/608028740)
 
 ## Pleiades ID
 

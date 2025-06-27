@@ -55,8 +55,8 @@ Between the buildings were open areas, some paved and equipped with ovens and po
 Unspecified
 
 ## Bibliography
-- H.G. Horn, ed., *Die Römer in Nordrhein-Westfalen*, Stuttgart, 1987, pp. 634-636, fig. 542 (incorrectly labeled as Insula 26). [worldcat](http://www.worldcat.org/oclc/462024461)
-- G. Precht and C.B. Rüger, *Archaologischer Stadtplan. Colonia Ulpia Traiana*, Cologne, 1991. [worldcat](http://www.worldcat.org/oclc/28844426)
+- H.G. Horn, ed., *Die Römer in Nordrhein-Westfalen*, Stuttgart, 1987, pp. 634-636, fig. 542 (incorrectly labeled as Insula 26). [worldcat](https://search.worldcat.org/title/462024461)
+- G. Precht and C.B. Rüger, *Archaologischer Stadtplan. Colonia Ulpia Traiana*, Cologne, 1991. [worldcat](https://search.worldcat.org/title/28844426)
 
 ## Pleiades ID
 

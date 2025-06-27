@@ -59,9 +59,9 @@ The excavation of this site was begun in 1873-1874 and is still incomplete. A si
 Unspecified
 
 ## Bibliography
-Maiuri, *Herculaneum*, pp. 25-26 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
-Maiuri, *Ercolano*, pp. 405-406 and fig. 340 (plan) on p. 404 [(worldcat)](http://www.worldcat.org/oclc/490581395)
-Ruggiero, *Ercolano*, p. 663 [(worldcat)](http://www.worldcat.org/oclc/469320995)
+Maiuri, *Herculaneum*, pp. 25-26 [(worldcat)](https://search.worldcat.org/title/1107784297)
+Maiuri, *Ercolano*, pp. 405-406 and fig. 340 (plan) on p. 404 [(worldcat)](https://search.worldcat.org/title/490581395)
+Ruggiero, *Ercolano*, p. 663 [(worldcat)](https://search.worldcat.org/title/469320995)
 
 ## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

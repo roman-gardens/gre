@@ -60,7 +60,7 @@ probably the first or second century
 
 ## Bibliography
 
-* J. Kubińska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure.* Warsaw, 1968, pp. 146-47. [(worldcat)](http://www.worldcat.org/oclc/923470105)
+* J. Kubińska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure.* Warsaw, 1968, pp. 146-47. [(worldcat)](https://search.worldcat.org/title/923470105)
 
 ## Pleiades ID
 

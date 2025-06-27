@@ -83,11 +83,11 @@ A statue base found in 1886 in a modern cemetery midway along the path between G
 Unspecified
 
 ## Bibliography
-- G. Radet and H. Lechat, “Notes de géographie ancienne,” BCH 11, 1887:399-401 [(worldcat)](http://www.worldcat.org/oclc/4648358600)
-- R. Cagnat, et al., *Inscriptiones Graecae ad res Romanas pertinentes*. Paris, 1906-1927, IV, 1168 [(worldcat)](http://www.worldcat.org/oclc/256313198)
-- B. Laum, *Stiftungen in der griechischen und römischen Antike*. Leipzig, 1914, II, no. 72 [(worldcat)](http://www.worldcat.org/oclc/457633912)
-- J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, p. 144 [(worldcat)](http://www.worldcat.org/oclc/164233326)
-- P. Herrmann, *Tituli Lydiae linguis Graeca et Latina conscripti (Tituli Asiae Minoris V, 2)*. Vienna, 1989, 828c4.[(worldcat)](http://www.worldcat.org/oclc/886649239)
+- G. Radet and H. Lechat, “Notes de géographie ancienne,” BCH 11, 1887:399-401 [(worldcat)](https://search.worldcat.org/title/4648358600)
+- R. Cagnat, et al., *Inscriptiones Graecae ad res Romanas pertinentes*. Paris, 1906-1927, IV, 1168 [(worldcat)](https://search.worldcat.org/title/256313198)
+- B. Laum, *Stiftungen in der griechischen und römischen Antike*. Leipzig, 1914, II, no. 72 [(worldcat)](https://search.worldcat.org/title/457633912)
+- J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, p. 144 [(worldcat)](https://search.worldcat.org/title/164233326)
+- P. Herrmann, *Tituli Lydiae linguis Graeca et Latina conscripti (Tituli Asiae Minoris V, 2)*. Vienna, 1989, 828c4.[(worldcat)](https://search.worldcat.org/title/886649239)
 
 ## Pleiades ID
 

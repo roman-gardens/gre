@@ -52,12 +52,12 @@ This house was excavated in 1885. The entrance at 37 went into the atrium and be
 1885
 
 ## Bibliography
-* Jashemski, *Gardens*, vol. II, p. 209 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1886), pp. 206-207 and pl. 12 (plan) [http://www.worldcat.org/oclc/860559196)
-* Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees*, vol. 2, pls. 32, 33 [(worldcat)](http://www.worldcat.org/oclc/1707639)
-* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi,” pp. 16, 17 [(worldcat)](http://www.worldcat.org/oclc/906755593)
-* Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 31-44 passim, pls. 5, 6 (plans) and 21 (reconstruction) [(worldcat)](http://www.worldcat.org/oclc/486835478)
-* Sogliano, *Notizie degli scavi di Antichita* (1885), p. 535 and plan on pp. 253 and 533. [(worldcat)](http://www.worldcat.org/oclc/46875519)
+* Jashemski, *Gardens*, vol. II, p. 209 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1886), pp. 206-207 and pl. 12 (plan) [https://search.worldcat.org/title/860559196)
+* Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees*, vol. 2, pls. 32, 33 [(worldcat)](https://search.worldcat.org/title/1707639)
+* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi,” pp. 16, 17 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 31-44 passim, pls. 5, 6 (plans) and 21 (reconstruction) [(worldcat)](https://search.worldcat.org/title/486835478)
+* Sogliano, *Notizie degli scavi di Antichita* (1885), p. 535 and plan on pp. 253 and 533. [(worldcat)](https://search.worldcat.org/title/46875519)
 
 
 ## Contributor

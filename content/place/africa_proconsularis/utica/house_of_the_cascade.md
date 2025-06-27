@@ -80,9 +80,9 @@ Opening off of the *triclinium* to the S was a smaller area enclosed by a portic
 
 ## Bibliography
 
-* Alexander, M. A., Ennaifer, M., *Corpus des Mosaïques de Tunisie*, *Utique, insulae, I-II-III*, INA, Tunis, 1973, pp. 19-56, plan 5,7 and plates 8, 9, 25, 63. [(worldcat)](http://www.worldcat.org/oclc/61828622)
-* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.351-354. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-* Février  P.-A., "Image, imaginaire et symbolisme. A propos de deux maisons du Maghreb antique", in *Mosaïque, Recueil d'hommages à Henri Stern*, Paris,1983, pp. 159-162. [(worldcat)](http://www.worldcat.org/oclc/876420608)
+* Alexander, M. A., Ennaifer, M., *Corpus des Mosaïques de Tunisie*, *Utique, insulae, I-II-III*, INA, Tunis, 1973, pp. 19-56, plan 5,7 and plates 8, 9, 25, 63. [(worldcat)](https://search.worldcat.org/title/61828622)
+* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.351-354. [(worldcat)](https://search.worldcat.org/title/989088620)
+* Février  P.-A., "Image, imaginaire et symbolisme. A propos de deux maisons du Maghreb antique", in *Mosaïque, Recueil d'hommages à Henri Stern*, Paris,1983, pp. 159-162. [(worldcat)](https://search.worldcat.org/title/876420608)
 
 
 

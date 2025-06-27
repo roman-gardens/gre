@@ -52,14 +52,14 @@ Unspecified
 
 
 ## Bibliography
-* Breton, *Pompeia*, pp. 497-498 and drawing of stibadium on p. 498 [(worldcat)](http://www.worldcat.org/oclc/894211341)
-* Dyer, *Pompeii*, p. 316 [(worldcat)](http://www.worldcat.org/oclc/24327166)
-* Fiorelli, *Descrizione di Pompei*, pp. 326-327 [(worldcat)](http://www.worldcat.org/oclc/252039996)
-* Jashemski, *Gardens*, vol. II, p. 211 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees 1809-1810-1811*, 2:60 and pl. 12.1 (plan)[(worldcat)](http://www.worldcat.org/oclc/457565631)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 66 [(worldcat)](http://www.worldcat.org/oclc/906755593)
-* Soprano, *'I triclini all' aperto di Pompei' In Pompeiana* pp. 306-307, no. 28 and fig. 28 on p. 291 [(worldcat)](http://www.worldcat.org/oclc/311371089)
-* Thédenat,*Pompei* 3rd ed. p. 90 and fig. 46 on p. 90. [(worldcat)](http://www.worldcat.org/oclc/612246417)
+* Breton, *Pompeia*, pp. 497-498 and drawing of stibadium on p. 498 [(worldcat)](https://search.worldcat.org/title/894211341)
+* Dyer, *Pompeii*, p. 316 [(worldcat)](https://search.worldcat.org/title/24327166)
+* Fiorelli, *Descrizione di Pompei*, pp. 326-327 [(worldcat)](https://search.worldcat.org/title/252039996)
+* Jashemski, *Gardens*, vol. II, p. 211 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees 1809-1810-1811*, 2:60 and pl. 12.1 (plan)[(worldcat)](https://search.worldcat.org/title/457565631)
+* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Soprano, *'I triclini all' aperto di Pompei' In Pompeiana* pp. 306-307, no. 28 and fig. 28 on p. 291 [(worldcat)](https://search.worldcat.org/title/311371089)
+* Thédenat,*Pompei* 3rd ed. p. 90 and fig. 46 on p. 90. [(worldcat)](https://search.worldcat.org/title/612246417)
 
 ## Contributor
 [Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

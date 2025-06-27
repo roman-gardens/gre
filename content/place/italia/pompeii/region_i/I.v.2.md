@@ -70,10 +70,10 @@ Excavated 1873-1874.
 ## Bibliography
 
 * Brendel, O. 1934. “Untersuchungen zur Allegorie des pompejanischen Totenkopfmosaiks,” *RM* (1934), pp 157-179.
-* Fiorelli, G. 1875. *Descrizione di Pompei*, pp. 452-453. [(worldcat)](http://www.worldcat.org/oclc/908272023), p. 452. [(worldcat)](http://www.worldcat.org/oclc/908272023)
+* Fiorelli, G. 1875. *Descrizione di Pompei*, pp. 452-453. [(worldcat)](https://search.worldcat.org/title/908272023), p. 452. [(worldcat)](https://search.worldcat.org/title/908272023)
 * *GiornSc*, n.s., 3 (1874-1877), col. 93.
-* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius,* fig. 268 on p. 181 and p. 198. [(worldcat)](http://www.worldcat.org/oclc/921816405)
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 33. [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius,* fig. 268 on p. 181 and p. 198. [(worldcat)](https://search.worldcat.org/title/921816405)
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 33. [(worldcat)](https://search.worldcat.org/title/921816405)
 * Mau, *BdI* (1874), pp. 272-275.
 * Mau, A. 1907. *Pompeii: It's life and art*, pp. 398-399.
 * Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 48 (mosaic).

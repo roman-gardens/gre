@@ -83,7 +83,7 @@ A,D. 200-300 garden transformed into a court then a dump
 
 ## Bibliography
 
-1.  Brun, Jean-Pierre. *Carte Archéologique De La Gaule: 83, Le Var 1*. Paris, 1999, vol.2, P. 324-330, plan P. 326. [(worldcat)](http://www.worldcat.org/oclc/1074683092)
+1.  Brun, Jean-Pierre. *Carte Archéologique De La Gaule: 83, Le Var 1*. Paris, 1999, vol.2, P. 324-330, plan P. 326. [(worldcat)](https://search.worldcat.org/title/1074683092)
 
 
 ## Pleiades ID

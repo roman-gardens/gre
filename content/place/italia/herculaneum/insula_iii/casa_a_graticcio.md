@@ -77,8 +77,8 @@ unspecified
 
 ## Bibliography
 
-- Maiuri, *Herculaneum*, pp. 32-33 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
-- Maiuri, *Ercolano*, pp. 412-413 and fig. 345 (plan) on p. 407  [(worldcat)](http://www.worldcat.org/oclc/490581395)
+- Maiuri, *Herculaneum*, pp. 32-33 [(worldcat)](https://search.worldcat.org/title/1107784297)
+- Maiuri, *Ercolano*, pp. 412-413 and fig. 345 (plan) on p. 407  [(worldcat)](https://search.worldcat.org/title/490581395)
 
 
 ## Contributor

@@ -87,7 +87,7 @@ A.D 20-30 Destroyed
 
 ## Bibliography
 
-1. Bellet, Michel-Edouard. *Orange Antique: Monuments Et Musée*. Paris: Imprimerie nationale, 1991, P. 69 [(worldcat)](http://www.worldcat.org/oclc/24832885)
+1. Bellet, Michel-Edouard. *Orange Antique: Monuments Et Musée*. Paris: Imprimerie nationale, 1991, P. 69 [(worldcat)](https://search.worldcat.org/title/24832885)
 
 2. Maison 1996,  t. II, P. 229-237 and  P. 240-242.
 

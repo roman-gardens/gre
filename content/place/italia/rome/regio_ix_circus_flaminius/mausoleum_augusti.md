@@ -102,12 +102,12 @@ between 28 and 23 BCE
 
 ## Bibliography
 
-* E. Buchner, *Die Sonnenuhr des Augustus*, Mainz, 1982. [(worldcat)](http://www.worldcat.org/oclc/469037372)
-* D. Castriota, *The Ara Pacis Augustae and the Imagery of Abundance in later Greek and Early Roman Imperial Art*, Princeton, 1995. [(worldcat)](http://www.worldcat.org/oclc/468823329)
-* H. von Hesberg and S. Panciera, *Das Mausoleum des Augustus: der Bau und seine Inschriften*, Munich, 1994. [(worldcat)](http://www.worldcat.org/oclc/688385178)
-* V. Jolivet, “Les Cendres D’ Auguste: note sure la topographie monumentale du Champ de Mars septentrional,” *Archeologia Laziale* 9 (1988), pp. 90-6. [(worldcat)](http://www.worldcat.org/oclc/489812568)
-* E. La Rocco, *Ara Pacis Augustae: in occasione del restauro della fronte orientale*, Rome, 1983. [(worldcat)](http://www.worldcat.org/oclc/60060689)
-* B. Frischer et al. “New Light on the Relationship between the Montecitorio Obelisk and the Ara Pacis of Augustus,” *Studies in Digital Heritage* (1:1), 2017, pp. 1–105. [(worldcat)](http://www.worldcat.org/oclc/1224085907)
+* E. Buchner, *Die Sonnenuhr des Augustus*, Mainz, 1982. [(worldcat)](https://search.worldcat.org/title/469037372)
+* D. Castriota, *The Ara Pacis Augustae and the Imagery of Abundance in later Greek and Early Roman Imperial Art*, Princeton, 1995. [(worldcat)](https://search.worldcat.org/title/468823329)
+* H. von Hesberg and S. Panciera, *Das Mausoleum des Augustus: der Bau und seine Inschriften*, Munich, 1994. [(worldcat)](https://search.worldcat.org/title/688385178)
+* V. Jolivet, “Les Cendres D’ Auguste: note sure la topographie monumentale du Champ de Mars septentrional,” *Archeologia Laziale* 9 (1988), pp. 90-6. [(worldcat)](https://search.worldcat.org/title/489812568)
+* E. La Rocco, *Ara Pacis Augustae: in occasione del restauro della fronte orientale*, Rome, 1983. [(worldcat)](https://search.worldcat.org/title/60060689)
+* B. Frischer et al. “New Light on the Relationship between the Montecitorio Obelisk and the Ara Pacis of Augustus,” *Studies in Digital Heritage* (1:1), 2017, pp. 1–105. [(worldcat)](https://search.worldcat.org/title/1224085907)
 
 ## Pleiades ID
 

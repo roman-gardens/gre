@@ -59,10 +59,10 @@ The sanctuary of Minerva 2, (138-161 CE), built later than the *templa Concordia
 
 ## Bibliography
 
-* Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](http://www.worldcat.org/oclc/7380877046)
-* Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, Brouquier Reddé, V., Baratte, Fr.,  Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, p. 364, pl. 14. [(worldcat)](http://www.worldcat.org/oclc/1028897747)
+* Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](https://search.worldcat.org/title/7380877046)
+* Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, Brouquier Reddé, V., Baratte, Fr.,  Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, p. 364, pl. 14. [(worldcat)](https://search.worldcat.org/title/1028897747)
 * Saint-Amans, S. "Topographie religieuse de Thugga (Dougga)"", in *Ville romaine d'Afrique proconsulaire (Tunisie)*, (Scripta
-Antiqua, 9), Bordeaux : Ausonius Éditions 2004, pp. 340-341, p. 216, fig. 2a. [(worldcat)](http://www.worldcat.org/oclc/218514555)
+Antiqua, 9), Bordeaux : Ausonius Éditions 2004, pp. 340-341, p. 216, fig. 2a. [(worldcat)](https://search.worldcat.org/title/218514555)
 
 
 ## Pleiades_ID

@@ -72,8 +72,8 @@ Unspecified
 
 ## Bibliography
 - P.J. Féret, Lettre adressée à M. de Caumont sur les fouilles pratiquées à Sainte-Marguerite sur Mer près Dieppe in *Bulletin Monumental* 9, 1843, p. 92-97.  <!-- No worldcat -->
-- Ch.W. Martin, Note sur les fouilles exécutées en 1876 sur l’emplacement de la station romaine de Ste-Marguerite-sur-Mer (Seine inférieure), in *Bulletin de la Société des Antiquaires de Normandie*, 1861, p. 319-326. [(worldcat)](http://www.worldcat.org/oclc/1026569500)
-- abbé J. Loth, Fouilles de Ste-Marguerite-sur-Mer, in *Bulletin de la Commission des antiquités de la Seine-Inférieure*, Rouen, 1870, p. 68-75. [(worldcat)](http://www.worldcat.org/oclc/812701053)
+- Ch.W. Martin, Note sur les fouilles exécutées en 1876 sur l’emplacement de la station romaine de Ste-Marguerite-sur-Mer (Seine inférieure), in *Bulletin de la Société des Antiquaires de Normandie*, 1861, p. 319-326. [(worldcat)](https://search.worldcat.org/title/1026569500)
+- abbé J. Loth, Fouilles de Ste-Marguerite-sur-Mer, in *Bulletin de la Commission des antiquités de la Seine-Inférieure*, Rouen, 1870, p. 68-75. [(worldcat)](https://search.worldcat.org/title/812701053)
 - <! -- In the process of being finalized: J.P. Darmon, Recueil "Erin Mckay" <emckay2@towson.edu>ise II, 5???, 1994 (ou 5 ???), n°:894-902, p.111-114; ???, in CAG Seine-maritime; 76, 20???, p. 497-500 (with detailed bibliography). -->
 
 ## Pleiades ID

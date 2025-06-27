@@ -80,7 +80,7 @@ G. V. Gentili, Notizie degli Scavi 1954, pp. 333–61 [(worldcat)](https://corne
 
 R. J. A. Wilson, Archaeological Reports 34 (1987–88):  115, fig. 6 [(worldcat)]()
 
-id., Sicily under the Roman Empire, Warminster, 1990, pp. 197–8  with fig. 165.1. [(worldcat)](http://www.worldcat.org/oclc/608028740)
+id., Sicily under the Roman Empire, Warminster, 1990, pp. 197–8  with fig. 165.1. [(worldcat)](https://search.worldcat.org/title/608028740)
 
 ## Pleiades ID
 

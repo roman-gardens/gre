@@ -73,9 +73,9 @@ House: mid-1st century CE - 4th century
 
 ## Bibliography
 
-* D. Weidmann, "L'établissement romain d'Orbe/Boscéaz," *Archäologie der Schweiz* 2, 1978: 84-86. [(worldcat)](http://www.worldcat.org/oclc/715629881)
-* W. Drack and R. Fellmann, *Die Römer in der Schweiz*, Stuttgart, 1988, pp. 463-465, figs. 422-423. [(worldcat)](http://www.worldcat.org/oclc/639129078)
-* R. Fellmann, *La Suisse gallo-romaine. Cinq siècles d’histoire*, Lausanne, 1992, pp. 152-153, fig. 112. [(worldcat)](http://www.worldcat.org/oclc/28038264)
+* D. Weidmann, "L'établissement romain d'Orbe/Boscéaz," *Archäologie der Schweiz* 2, 1978: 84-86. [(worldcat)](https://search.worldcat.org/title/715629881)
+* W. Drack and R. Fellmann, *Die Römer in der Schweiz*, Stuttgart, 1988, pp. 463-465, figs. 422-423. [(worldcat)](https://search.worldcat.org/title/639129078)
+* R. Fellmann, *La Suisse gallo-romaine. Cinq siècles d’histoire*, Lausanne, 1992, pp. 152-153, fig. 112. [(worldcat)](https://search.worldcat.org/title/28038264)
 * Th. Luginbühl, J. Monnier, Y. Dubois, *Vie de palais et travail d’esclave. La villa romaine d’Orbe-Boscéaz*. Document du Musée cantonal d’archéologie et d’histoire, Lausanne, 2001, pp. 34-36, 53-55, figs. 28-29, 40, 49-51. [(worldcat)](Vie de palais et travail d’esclave. La villa romaine d’Orbe-Boscéaz)
 
 ## Pleiades ID

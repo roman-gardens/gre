@@ -73,8 +73,8 @@ This house, the largest in *insula* III (lots 2,3,4,9,10), rivals the House of t
 1st-3rd century CE
 
 ## Bibliography
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.346-347. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-* Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp.121-128. [(worldcat)](http://www.worldcat.org/oclc/905773599)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.346-347. [(worldcat)](https://search.worldcat.org/title/989088620)
+* Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp.121-128. [(worldcat)](https://search.worldcat.org/title/905773599)
 
 
 

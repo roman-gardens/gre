@@ -70,8 +70,8 @@ None Available
 Unspecified
 
 ## Bibliography
-- W. Reusch, "Wandmalereien und Mosaikboden eines Peristylhauses im Bereich der Trierer Kaiserthermen," Trierer Zeitschrift 29, 1966:187-235. [(worldcat)](http://www.worldcat.org/oclc/1088857189)
-- W. Reusch, "Die Ausgrabungen im Westteil der Trierer Kaiserthermen", Bericht der Römisch-Germanischen Kommission 51-52,1970-71:252-270, 281, Beilage 30. [(worldcat)](http://www.worldcat.org/oclc/67721035)
+- W. Reusch, "Wandmalereien und Mosaikboden eines Peristylhauses im Bereich der Trierer Kaiserthermen," Trierer Zeitschrift 29, 1966:187-235. [(worldcat)](https://search.worldcat.org/title/1088857189)
+- W. Reusch, "Die Ausgrabungen im Westteil der Trierer Kaiserthermen", Bericht der Römisch-Germanischen Kommission 51-52,1970-71:252-270, 281, Beilage 30. [(worldcat)](https://search.worldcat.org/title/67721035)
 
 
 ## Pleiades ID

@@ -88,8 +88,8 @@ During the third stage dated to the beginning of the second half of the fourth c
 NOT FOUND
 
 ## Bibliography
-- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 21-26. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-- Ennaifer, M., *La cité d’Althiburos et l’édifice des Asclepeia*, Ministère des Affaires Culturelles, Tunis, 1976, pp. 71-152, plan III-IV. [(worldcat)](http://www.worldcat.org/oclc/963483765)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 21-26. [(worldcat)](https://search.worldcat.org/title/989088620)
+- Ennaifer, M., *La cité d’Althiburos et l’édifice des Asclepeia*, Ministère des Affaires Culturelles, Tunis, 1976, pp. 71-152, plan III-IV. [(worldcat)](https://search.worldcat.org/title/963483765)
 
 
 ## Pleiades ID

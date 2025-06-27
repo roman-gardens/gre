@@ -78,8 +78,8 @@ Insula: 200 A.D.
 
 ## Bibliography
 
-* R. Laur-Belart, *Führer durch Augusta Raurica*, 5th Ed., Basel, 1988, pp. 134-136, fig. 126. [(worldcat)](http://www.worldcat.org/oclc/1069020725)
-* M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 55, fig. 20. [(worldcat)](http://www.worldcat.org/oclc/1120840822)
+* R. Laur-Belart, *Führer durch Augusta Raurica*, 5th Ed., Basel, 1988, pp. 134-136, fig. 126. [(worldcat)](https://search.worldcat.org/title/1069020725)
+* M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 55, fig. 20. [(worldcat)](https://search.worldcat.org/title/1120840822)
 
 ## Pleiades ID
 

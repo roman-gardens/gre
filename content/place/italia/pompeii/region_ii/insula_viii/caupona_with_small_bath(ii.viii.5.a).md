@@ -47,7 +47,7 @@ A. A very small bath was located at the left rear of the atrium in this unusual 
 Unspecified
 
 ## Bibliography
-* Jashemski, *Gardens*, vol.II, p.94 [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Jashemski, *Gardens*, vol.II, p.94 [(worldcat)](https://search.worldcat.org/title/921816405)
 
 
 ## Contributor

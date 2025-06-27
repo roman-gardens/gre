@@ -75,10 +75,10 @@ First half of 1st century A.C. - 250
 
 ## Bibliography
 
-* W. Drack and R. Fellmann, *Die Römer in der Schweiz*, Stuttgart, 1988, pp. 550-555, figs. 511-512. [(worldcat)](http://www.worldcat.org/oclc/639129078)
-* Ch. Jacquat, *Der römische Garten in Seeb*, Zürich, 1988. [(worldcat)](http://www.worldcat.org/oclc/883206952)
-* W. Drack, *Der römische Gutshof bei Seeb, Gem. Winkel. Berichte der Zürcher Denkmalpflege. Archäologische Monographien 8*, Zürich, 1990. [(worldcat)](http://www.worldcat.org/oclc/468251890)
-* M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 75, fig. 29. [(worldcat)](http://www.worldcat.org/oclc/1120840822)
+* W. Drack and R. Fellmann, *Die Römer in der Schweiz*, Stuttgart, 1988, pp. 550-555, figs. 511-512. [(worldcat)](https://search.worldcat.org/title/639129078)
+* Ch. Jacquat, *Der römische Garten in Seeb*, Zürich, 1988. [(worldcat)](https://search.worldcat.org/title/883206952)
+* W. Drack, *Der römische Gutshof bei Seeb, Gem. Winkel. Berichte der Zürcher Denkmalpflege. Archäologische Monographien 8*, Zürich, 1990. [(worldcat)](https://search.worldcat.org/title/468251890)
+* M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 75, fig. 29. [(worldcat)](https://search.worldcat.org/title/1120840822)
 
 ## Pleiades ID
 

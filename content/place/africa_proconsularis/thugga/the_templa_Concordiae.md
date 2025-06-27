@@ -58,9 +58,9 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 
 ## Bibliography
 
-* Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](http://www.worldcat.org/oclc/7380877046)
-* Aounallah, S., Golvin, J.-C. (Dir.), Ben Rhomdane, H., Brouquier-Reddé, V., Chehidi, M.A., Ghaki, M., Khanoussi, M., Maurin, L., Saint-Amans, S., *Dougga, Études d'architecture religieuse 2. Les sanctuaires du forum, du centre de l'agglomération et de la Grande rue courbe* (Mémoires, 42), Bordeaux : Ausonius Éditions, 2016, p. 440, fig. 86. [(worldcat)](http://www.worldcat.org/oclc/957698433)
-* Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, Brouquier Reddé, V., Baratte, Fr.,  Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, p. 360, pl. 10. [(worldcat)](http://www.worldcat.org/oclc/1028897747)
+* Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](https://search.worldcat.org/title/7380877046)
+* Aounallah, S., Golvin, J.-C. (Dir.), Ben Rhomdane, H., Brouquier-Reddé, V., Chehidi, M.A., Ghaki, M., Khanoussi, M., Maurin, L., Saint-Amans, S., *Dougga, Études d'architecture religieuse 2. Les sanctuaires du forum, du centre de l'agglomération et de la Grande rue courbe* (Mémoires, 42), Bordeaux : Ausonius Éditions, 2016, p. 440, fig. 86. [(worldcat)](https://search.worldcat.org/title/957698433)
+* Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, Brouquier Reddé, V., Baratte, Fr.,  Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, p. 360, pl. 10. [(worldcat)](https://search.worldcat.org/title/1028897747)
 
 ## Pleiades_ID
 

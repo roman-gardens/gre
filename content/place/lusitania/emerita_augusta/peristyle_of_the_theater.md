@@ -34,7 +34,7 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 
 ## Bibliography
-- I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](http://www.worldcat.org/oclc/225047612)
+- I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
 
 <!--## Location Description-->
 
@@ -103,9 +103,9 @@ While the theater belongs to multiple phases of construction, the aula sacra bel
 
 ## Bibliography
 
-* A. Floriano, “Excavaciones en Mérida (Campañas de 1934 y 1936)”, in *Archivo Español de Arqueología*,  55 (1944): 151-187 [(worldcat)](http://www.worldcat.org/oclc/1122498001)
-* J.R. Mélida, “El teatro romano de Mérida,” *R.A.B.M.*, 32, (1915): 1-38 [(worldcat)](http://www.worldcat.org/oclc/252779984)
-* P. Mateos Cruz and J. Marquez Pérez, ‘Neuvas structuras urbanas relacionadas con el Teatro Romano de Mérida: El pórtico de acceso,’ *Mérida, excavaciones arqueológicas, 1997*, pp.301-20 [(worldcat)](http://www.worldcat.org/oclc/48947141)
+* A. Floriano, “Excavaciones en Mérida (Campañas de 1934 y 1936)”, in *Archivo Español de Arqueología*,  55 (1944): 151-187 [(worldcat)](https://search.worldcat.org/title/1122498001)
+* J.R. Mélida, “El teatro romano de Mérida,” *R.A.B.M.*, 32, (1915): 1-38 [(worldcat)](https://search.worldcat.org/title/252779984)
+* P. Mateos Cruz and J. Marquez Pérez, ‘Neuvas structuras urbanas relacionadas con el Teatro Romano de Mérida: El pórtico de acceso,’ *Mérida, excavaciones arqueológicas, 1997*, pp.301-20 [(worldcat)](https://search.worldcat.org/title/48947141)
 * W. Trillmich, *Die Prásenz des Kaiserhauses im Theater der Colonia Augusta Emerita* , (unpublished disertation), University of München (1995)
 
 

@@ -69,7 +69,7 @@ None Available
 Unspecified
 
 ## Bibliography
-- J. Metzler, J. Zimmer and L. Bakker, *Ausgrabungen in Echternach*, Luxembourg, 1981; P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 350-353, figs. 145-146. (worldcat)](http://www.worldcat.org/oclc/905778589)
+- J. Metzler, J. Zimmer and L. Bakker, *Ausgrabungen in Echternach*, Luxembourg, 1981; P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 350-353, figs. 145-146. (worldcat)](https://search.worldcat.org/title/905778589)
 
 ## Pleiades ID
 

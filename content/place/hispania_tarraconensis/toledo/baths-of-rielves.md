@@ -75,7 +75,7 @@ The large number of objects of daily life found in the ruins, some under toppled
 
 
 ## Bibliography
-- Mª C. Fernández Castro, Las llamadas "Termas" de Rielves (Toledo), in Archivo Español de Arqueología, L-LI. CSIC, Madrid, 1978, pp. 209-251. [(worldcat)](http://www.worldcat.org/oclc/1122498001)
+- Mª C. Fernández Castro, Las llamadas "Termas" de Rielves (Toledo), in Archivo Español de Arqueología, L-LI. CSIC, Madrid, 1978, pp. 209-251. [(worldcat)](https://search.worldcat.org/title/1122498001)
 
 ## Pleiades ID
 

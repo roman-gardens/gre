@@ -78,7 +78,7 @@ Unspecified
 
 ## Bibliography
 
-- H. Lehner, *Vetera. Die Ergebnisse der Ausgrabungen des Bonner Provinzialmuseums bis 1929.* Römisch-Germanische Forschungen 4, Berlin, 1930, pp. 52-60, figs. 38-41. [worldcat](http://www.worldcat.org/oclc/884633203)
+- H. Lehner, *Vetera. Die Ergebnisse der Ausgrabungen des Bonner Provinzialmuseums bis 1929.* Römisch-Germanische Forschungen 4, Berlin, 1930, pp. 52-60, figs. 38-41. [worldcat](https://search.worldcat.org/title/884633203)
 
 ## Pleiades ID
 

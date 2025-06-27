@@ -51,8 +51,8 @@ B. Entrance 8 opened directly into a [courtyard](http://vocab.getty.edu/page/aat
 
 
 ## Bibliography
-W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.75.* [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)
-Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 1986, *Corpus topographicum Pompeianum Pars IIIA, p.40-41* [(worldcat)](https://www.worldcat.org/title/corpus-topographicum-pompeianum/oclc/8667821)
+W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.75.* [(worldcat)](https://search.worldcat.org/title/222353569)
+Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 1986, *Corpus topographicum Pompeianum Pars IIIA, p.40-41* [(worldcat)](https://search.worldcat.org/title/8667821)
 
 
 ## Pleiades ID

@@ -79,9 +79,9 @@ House of the Bassilica (Maison de la Bassilica)
 4th century CE
 
 ## Bibliography
-* Ben Osman, W., *Catalogue des mosaïques de Carthage, Musée du Bardo, Musée des Thermes d'Antonin; quartier de Dermech, quartier de l'Odéon.*, Lieu de publication inconnu: Éditeur inconnu, 1980, pp. 577-587. [(worldcat)](http://www.worldcat.org/oclc/489766044)
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.123-124. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-* Gauckler, P., *Compte rendu de la marche du service en 1903*, Tunis, 1904, pp. 16-17. [(worldcat)](http://www.worldcat.org/oclc/493647265)
+* Ben Osman, W., *Catalogue des mosaïques de Carthage, Musée du Bardo, Musée des Thermes d'Antonin; quartier de Dermech, quartier de l'Odéon.*, Lieu de publication inconnu: Éditeur inconnu, 1980, pp. 577-587. [(worldcat)](https://search.worldcat.org/title/489766044)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.123-124. [(worldcat)](https://search.worldcat.org/title/989088620)
+* Gauckler, P., *Compte rendu de la marche du service en 1903*, Tunis, 1904, pp. 16-17. [(worldcat)](https://search.worldcat.org/title/493647265)
 
 
 ## Pleiades ID

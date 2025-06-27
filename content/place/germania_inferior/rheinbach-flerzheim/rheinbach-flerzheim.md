@@ -70,8 +70,8 @@ Second century CE to mid-fifth century CE
 
 ## Bibliography
 
-- M. Gechter, "Der römische Gutshof von Rheinbach-Flerzheim," in *Spurensicherung. Archäologische Denkmalpflege in der Euregio Maas-Rhein*, Mainz, 1992, pp. 249-54, 452-60. [worldcat](http://www.worldcat.org/oclc/28027282)
-- M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 79, fig. 38. [worldcat](http://www.worldcat.org/oclc/1120840822)
+- M. Gechter, "Der römische Gutshof von Rheinbach-Flerzheim," in *Spurensicherung. Archäologische Denkmalpflege in der Euregio Maas-Rhein*, Mainz, 1992, pp. 249-54, 452-60. [worldcat](https://search.worldcat.org/title/28027282)
+- M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 79, fig. 38. [worldcat](https://search.worldcat.org/title/1120840822)
 
 ## Pleiades ID
 

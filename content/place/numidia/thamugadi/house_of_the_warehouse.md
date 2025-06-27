@@ -77,9 +77,9 @@ The S part of the *domus* was probably added in a latter period. It presents a p
 Unspecified
 
 ## Bibliography
-*  Ballu, A., *Les ruines de Timgad, Sept années de découvertes*, Paris, 1911, p. 49-53,120, plan p. 51. [(worldcat)](http://www.worldcat.org/oclc/802835102)
-* Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](http://www.worldcat.org/oclc/23396951)
-* Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 88, fig. 12. [(worldcat)](http://www.worldcat.org/oclc/643640586)
+*  Ballu, A., *Les ruines de Timgad, Sept années de découvertes*, Paris, 1911, p. 49-53,120, plan p. 51. [(worldcat)](https://search.worldcat.org/title/802835102)
+* Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
+* Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 88, fig. 12. [(worldcat)](https://search.worldcat.org/title/643640586)
 
 
 ## Pleiades ID

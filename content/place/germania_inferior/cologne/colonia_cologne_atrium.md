@@ -67,7 +67,7 @@ Entering from the colonnaded street at the west, one passed through a room recon
 Middle of the first century CE until the fourth century CE
 
 ## Bibliography
-- G. Precht, "Die Ausgrabungen um den Kölner Dom. Vorbericht über die Untersuchungen," *Kölner Jahrbuch* 12, 1971:55-56, fig. 2, pl. 7.2. [(worldcat)](http://www.worldcat.org/oclc/638867317)  
+- G. Precht, "Die Ausgrabungen um den Kölner Dom. Vorbericht über die Untersuchungen," *Kölner Jahrbuch* 12, 1971:55-56, fig. 2, pl. 7.2. [(worldcat)](https://search.worldcat.org/title/638867317)  
 - H. Hellenkemper, "Architektur als Beitrag zur Geschichte der CCAA," in H. Temporini, ed., *Aufstieg und Niedergang der Römischen Welt* II.4, Berlin, 1974, p. 810, figs. 20-21. [(worldcat)](link)    
 
 ## Pleiades ID

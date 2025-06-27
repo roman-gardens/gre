@@ -72,8 +72,8 @@ The light well (XXVII, 8.45 x 2.75 m) to the W of the *oecus* was also planted.
 Early 3rd century CE
 
 ## Bibliography
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.266-267.pp.313-316. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-* Dulière, C., *Corpus des Mosaïques de Tunisie*, *Thysdrus, El Jem*, *Quartier Sud-Ouest*, INA, Tunis, 1996, pp. 31-66, plans 3-4.[(worldcat)](http://www.worldcat.org/oclc/884623863)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.266-267.pp.313-316. [(worldcat)](https://search.worldcat.org/title/989088620)
+* Dulière, C., *Corpus des Mosaïques de Tunisie*, *Thysdrus, El Jem*, *Quartier Sud-Ouest*, INA, Tunis, 1996, pp. 31-66, plans 3-4.[(worldcat)](https://search.worldcat.org/title/884623863)
 
 ## Pleiades ID
 

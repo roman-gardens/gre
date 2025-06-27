@@ -47,9 +47,9 @@ Unspecified
 
 
 ## Bibliography
-- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](http://www.worldcat.org/oclc/886794800)
+- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](https://search.worldcat.org/title/886794800)
 
--F. Sinn and K. S. Freyberger, *Vatikansiche Museen: Museo Gregorio Profano ex Lateranense: Dir Grabdenkmäler 2: Die Ausstatung des Hateriusgrabes,* (Mainz 1996) 45-51, no. 5 (pl. 7, figs. 8-10). [worldcat](http://www.worldcat.org/oclc/312453022)
+-F. Sinn and K. S. Freyberger, *Vatikansiche Museen: Museo Gregorio Profano ex Lateranense: Dir Grabdenkmäler 2: Die Ausstatung des Hateriusgrabes,* (Mainz 1996) 45-51, no. 5 (pl. 7, figs. 8-10). [worldcat](https://search.worldcat.org/title/312453022)
 
 
 

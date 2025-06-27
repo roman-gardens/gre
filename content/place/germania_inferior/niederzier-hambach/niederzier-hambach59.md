@@ -73,8 +73,8 @@ Late first century CE until the fourth century CE.
 
 ## Bibliography
 
-- W. Gaitzsch, "Der römische Gutshof im 'Gewährhau’ bei Niederzier," in H. Hellenkemper, H. Koschik and B. Trier, eds., *Archäologie in Nordrhein-Westfalen*, Cologne, 1990, pp. 235-41. [worldcat](http://www.worldcat.org/oclc/22528273)
-- K.-H. Knörzer and J. Meurers-Balke, "Die Wirtschafts- und Nutzflächen eines römischen Gutshofes," in H. Hellenkemper, H. Koschick and B.Trier, eds., *Archäologie in Nordrhein-Westfalen*,  pp. 242-46. [worldcat](http://www.worldcat.org/oclc/22528273)
+- W. Gaitzsch, "Der römische Gutshof im 'Gewährhau’ bei Niederzier," in H. Hellenkemper, H. Koschik and B. Trier, eds., *Archäologie in Nordrhein-Westfalen*, Cologne, 1990, pp. 235-41. [worldcat](https://search.worldcat.org/title/22528273)
+- K.-H. Knörzer and J. Meurers-Balke, "Die Wirtschafts- und Nutzflächen eines römischen Gutshofes," in H. Hellenkemper, H. Koschick and B.Trier, eds., *Archäologie in Nordrhein-Westfalen*,  pp. 242-46. [worldcat](https://search.worldcat.org/title/22528273)
 - W. Gaitzsch, "Antikes Landleben im Modell einer villa rustica," *Archäologie im Rheinland 1990*, Cologne, 1991, pp. 46-49.  
 
 ## Pleiades ID

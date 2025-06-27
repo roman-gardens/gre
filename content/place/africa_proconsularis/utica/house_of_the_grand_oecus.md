@@ -74,8 +74,8 @@ This house is the most important dwelling discovered to date at Utica. The large
 1st-2nd century CE
 
 ## Bibliography
-* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.341-343. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-* Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp. 1-18, plans 1, 2. [(worldcat)](http://www.worldcat.org/oclc/905773599)
+* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.341-343. [(worldcat)](https://search.worldcat.org/title/989088620)
+* Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp. 1-18, plans 1, 2. [(worldcat)](https://search.worldcat.org/title/905773599)
 
 
 ## Pleiades ID

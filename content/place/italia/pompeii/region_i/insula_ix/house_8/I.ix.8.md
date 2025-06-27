@@ -75,7 +75,7 @@ unspecified - 70 CE
 
 ## Bibliography
 
-* Jashemski, *Gardens*, vol.II, p. 44. [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Jashemski, *Gardens*, vol.II, p. 44. [(worldcat)](https://search.worldcat.org/title/921816405)
 
 ## Pleiades ID
 

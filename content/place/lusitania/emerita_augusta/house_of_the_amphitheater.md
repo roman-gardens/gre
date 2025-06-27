@@ -34,7 +34,7 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 
 ## Bibliography
-- I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](http://www.worldcat.org/oclc/225047612)
+- I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
 
 
 <!--## Location Description-->
@@ -102,9 +102,9 @@ from 1947
 
 ## Bibliography
 
-* A. Balil Illana, A. 1976: "Sobre la arquitectura doméstica en Augusta Emerita", *Augusta Emerita Actas del Bimilenario de Mérida, Mérida*, 75-91. [(worldcat)](http://www.worldcat.org/oclc/256553527)
-* E. García Sandoval, Excavaciones arqueológicas en la zona de Mérida: La Casa del Anfiteatro," in *C.A.N.*, 8 (i964): 469-477 [(worldcat)](http://www.worldcat.org/oclc/43198027)
-* E. García Sandoval, Informe sobre las casa romanas de Mérida y excavaciones en la «Casa del Anfiteatro»," in *Excavaciones Arqueológicas en España*  nº. 49, Madrid, 1964. [(worldcat)](http://www.worldcat.org/oclc/681090209)
+* A. Balil Illana, A. 1976: "Sobre la arquitectura doméstica en Augusta Emerita", *Augusta Emerita Actas del Bimilenario de Mérida, Mérida*, 75-91. [(worldcat)](https://search.worldcat.org/title/256553527)
+* E. García Sandoval, Excavaciones arqueológicas en la zona de Mérida: La Casa del Anfiteatro," in *C.A.N.*, 8 (i964): 469-477 [(worldcat)](https://search.worldcat.org/title/43198027)
+* E. García Sandoval, Informe sobre las casa romanas de Mérida y excavaciones en la «Casa del Anfiteatro»," in *Excavaciones Arqueológicas en España*  nº. 49, Madrid, 1964. [(worldcat)](https://search.worldcat.org/title/681090209)
 
 ## Pleiades ID
 

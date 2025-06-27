@@ -90,8 +90,8 @@ unspecified
 
 ## Bibliography
 
-* D. Vaquerizo Gil and J. R. Carrillo Diaz-Pines,‘The Roman Villa of El Ruedo’ (Almedinilla, Córdoba),*Journal of Roman Archaeology 8*, (Ann Arbor 1995), 121-154. [(worldcat)](http://www.worldcat.org/oclc/643576298)
-* D. Vaquerizo and J. M. Noguera,*La villa romana de El Ruedo (Almedinilla, Córdoba): Decoración escultórica e interpretación*, Diputación Provincial de Córdoba-Universidad de Córdoba-Universidad de Murcia (Murcia 1997). [(worldcat)](http://www.worldcat.org/oclc/1024361591)
+* D. Vaquerizo Gil and J. R. Carrillo Diaz-Pines,‘The Roman Villa of El Ruedo’ (Almedinilla, Córdoba),*Journal of Roman Archaeology 8*, (Ann Arbor 1995), 121-154. [(worldcat)](https://search.worldcat.org/title/643576298)
+* D. Vaquerizo and J. M. Noguera,*La villa romana de El Ruedo (Almedinilla, Córdoba): Decoración escultórica e interpretación*, Diputación Provincial de Córdoba-Universidad de Córdoba-Universidad de Murcia (Murcia 1997). [(worldcat)](https://search.worldcat.org/title/1024361591)
 
 
 ## Pleiades ID

@@ -53,14 +53,14 @@ This house, very similar to VII.ii.1, was also excavated in 1799. This peristyle
 1799
 
 ## Bibliography
-* Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 74, no. 342 [(worldcat)](http://www.worldcat.org/oclc/1131425884)
-* Breton, *Pompeia*, 3rd ed. p. 501 [(worldcat)](http://www.worldcat.org/oclc/894211341)
-* Fiorelli, *Descrizione di Pompei*, p. 442 [(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol. II, p. 205 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1892), p. 14 and pl. 1 (plan) [http://www.worldcat.org/oclc/860559196)
-* Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees* (1809-1810-1811), 2:62 and pls. 21 (plan), 22 [(worldcat)](http://www.worldcat.org/oclc/1707639)
-* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 3, “Topografia,” pl. 6 (plan) [(worldcat)](http://www.worldcat.org/oclc/906755593)
-* Noack and Lehmann-Hartleben, *Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 121-128 passim and fig. 32 (plan) on p. 116 and pl. 17 (plans). [(worldcat)](http://www.worldcat.org/oclc/876087879)
+* Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 74, no. 342 [(worldcat)](https://search.worldcat.org/title/1131425884)
+* Breton, *Pompeia*, 3rd ed. p. 501 [(worldcat)](https://search.worldcat.org/title/894211341)
+* Fiorelli, *Descrizione di Pompei*, p. 442 [(worldcat)](https://search.worldcat.org/title/908272023)
+* Jashemski, *Gardens*, vol. II, p. 205 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1892), p. 14 and pl. 1 (plan) [https://search.worldcat.org/title/860559196)
+* Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees* (1809-1810-1811), 2:62 and pls. 21 (plan), 22 [(worldcat)](https://search.worldcat.org/title/1707639)
+* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 3, “Topografia,” pl. 6 (plan) [(worldcat)](https://search.worldcat.org/title/906755593)
+* Noack and Lehmann-Hartleben, *Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 121-128 passim and fig. 32 (plan) on p. 116 and pl. 17 (plans). [(worldcat)](https://search.worldcat.org/title/876087879)
 
 
 ## Contributor

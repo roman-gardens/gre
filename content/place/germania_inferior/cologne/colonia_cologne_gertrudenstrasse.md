@@ -65,7 +65,7 @@ The courtyard was unpaved, and the presence of a source of water suggests that i
 Middle of the first century CE until the fourth century CE
 
 ## Bibliography
-- R. Thomas, *Römische Wandmalerei in Köln*, Mainz, 1993, pp. 321-327, figs. 138-39. [(worldcat)](http://www.worldcat.org/oclc/30330730)
+- R. Thomas, *Römische Wandmalerei in Köln*, Mainz, 1993, pp. 321-327, figs. 138-39. [(worldcat)](https://search.worldcat.org/title/30330730)
 
 ## Pleiades ID
 

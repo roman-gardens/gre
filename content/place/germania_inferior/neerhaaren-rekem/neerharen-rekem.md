@@ -64,8 +64,8 @@ The facade of this modest house of a *villa rustica* near the [Meuse river](http
 Late first century CE
 
 ## Bibliography
-- G. De Boe, M. De Bie, and L. Van Impe, "Heerharen-Rekem. Die komplexe Besiedlungsgeschichte einer vor den Kiesbaggern geretteten Fundstätte," in *Spurensicherung. Archäologische Denkmalpflege in der Euregio Maas-Rhein*, Mainz, 1992, pp. 490-493, fig. 288. [worldcat](http://www.worldcat.org/oclc/475480390)
-- P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 297-300, fig. 105. [worldcat](http://www.worldcat.org/oclc/445007864)
+- G. De Boe, M. De Bie, and L. Van Impe, "Heerharen-Rekem. Die komplexe Besiedlungsgeschichte einer vor den Kiesbaggern geretteten Fundstätte," in *Spurensicherung. Archäologische Denkmalpflege in der Euregio Maas-Rhein*, Mainz, 1992, pp. 490-493, fig. 288. [worldcat](https://search.worldcat.org/title/475480390)
+- P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 297-300, fig. 105. [worldcat](https://search.worldcat.org/title/445007864)
 
 ## Pleiades ID
 

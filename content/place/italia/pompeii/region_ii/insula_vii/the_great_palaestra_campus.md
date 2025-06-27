@@ -50,9 +50,9 @@ Colonnaded [porticoes](http://vocab.getty.edu/page/aat/300004145) encircled the 
 Excavated 1814 to 1816, 1933, and 1935 to 1939.
 
 ## Bibliography
-* Jashemski, W. 1979. *Gardens of Pompeii*, vol.I, pp.160-161 and fig. 246 on p.161  [(worldcat)](http://www.worldcat.org/oclc/884024123)
-* Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.92 [(worldcat)](http://www.worldcat.org/oclc/921816405)
-* Maiuri, A. 1939. *Notizie degli scavi di antichità*, pp.193-195 and pl.9 (plan shows only a part of the root cavities found).[(worldcat)](http://www.worldcat.org/oclc/1646037)
+* Jashemski, W. 1979. *Gardens of Pompeii*, vol.I, pp.160-161 and fig. 246 on p.161  [(worldcat)](https://search.worldcat.org/title/884024123)
+* Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.92 [(worldcat)](https://search.worldcat.org/title/921816405)
+* Maiuri, A. 1939. *Notizie degli scavi di antichità*, pp.193-195 and pl.9 (plan shows only a part of the root cavities found).[(worldcat)](https://search.worldcat.org/title/1646037)
 
 
 ## Contributor

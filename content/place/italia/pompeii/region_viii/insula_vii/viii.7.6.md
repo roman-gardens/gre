@@ -56,16 +56,16 @@ The extremely long entranceway from the street led all the way to the back of th
 1906
 
 ## Bibliography
-* Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 78, no. 376 [(worldcat)](http://www.worldcat.org/oclc/1131425884)
-* Fiorelli, *Descrizione di Pompei*, pp. 348-349 [(worldcat)](http://www.worldcat.org/oclc/1198324804)
-* Jashemski, *Gardens*, 1:187 [(worldcat)](http://www.worldcat.org/oclc/1047945215)
-* Jashemski, *Gardens*, vol. II, p. 220 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Matz, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1875), pp. 164-165 [(worldcat)](http://www.worldcat.org/oclc/823239162)
-* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1875), pp. 164-165 [(worldcat)](http://www.worldcat.org/oclc/823239162)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 68 [(worldcat)](http://www.worldcat.org/oclc/906755593)
-* Soprano, *I triclini all'aperto di Pompei* In Pompeiana, pp. 301-302, no. 16. [(worldcat)](http://www.worldcat.org/oclc/78719058)
-* Spano, *Notizie degli scavi di Antichita* (1910), pp. 264-265 and fig. 5 (plan) on p. 263 [(worldcat)](http://www.worldcat.org/oclc/638883283)
-* Viola, *Gli scavi di Pompei dal 1873 al 1878.* In Pompei e la regione sotterrara dal Vesuvio nell' anno LXXIX, p. 17 (where the address is given as VIII,viii.6.) [(worldcat)](http://www.worldcat.org/oclc/254502217)
+* Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 78, no. 376 [(worldcat)](https://search.worldcat.org/title/1131425884)
+* Fiorelli, *Descrizione di Pompei*, pp. 348-349 [(worldcat)](https://search.worldcat.org/title/1198324804)
+* Jashemski, *Gardens*, 1:187 [(worldcat)](https://search.worldcat.org/title/1047945215)
+* Jashemski, *Gardens*, vol. II, p. 220 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Matz, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1875), pp. 164-165 [(worldcat)](https://search.worldcat.org/title/823239162)
+* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1875), pp. 164-165 [(worldcat)](https://search.worldcat.org/title/823239162)
+* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 68 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Soprano, *I triclini all'aperto di Pompei* In Pompeiana, pp. 301-302, no. 16. [(worldcat)](https://search.worldcat.org/title/78719058)
+* Spano, *Notizie degli scavi di Antichita* (1910), pp. 264-265 and fig. 5 (plan) on p. 263 [(worldcat)](https://search.worldcat.org/title/638883283)
+* Viola, *Gli scavi di Pompei dal 1873 al 1878.* In Pompei e la regione sotterrara dal Vesuvio nell' anno LXXIX, p. 17 (where the address is given as VIII,viii.6.) [(worldcat)](https://search.worldcat.org/title/254502217)
 
 
 ## Contributor

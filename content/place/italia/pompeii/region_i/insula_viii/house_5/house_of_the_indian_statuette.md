@@ -79,7 +79,7 @@ unspecified
 ## Bibliography
 
 * Della Corte, *Case*, p. 334.
-* Jashemski, *Gardens*, vol.II, p. 42. [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Jashemski, *Gardens*, vol.II, p. 42. [(worldcat)](https://search.worldcat.org/title/921816405)
 * Maiuri, “Statuetta eburnea d’art indiana a Pompei,” *LeArti* (1938), pp. 111-115.
 * Idem, “Navalia pompeiana,” *RendNap*, n.s., 33 (1959): 22.
 

@@ -59,12 +59,12 @@ Just inside the *Porta di Ercolano* was a small inn pressed against the city wal
 <!-- If no date, use "unspecified" -->
 
 ## Bibliography
-Dyer, pp. 307-308, plan, p. 308 [(worldcat)](https://www.worldcat.org/title/pompeii-its-history-buildings-and-antiquities-an-account-of-the-destruction-of-the-city-with-a-full-description-of-the-remains-and-of-the-recent-excavations-and-also-an-itinerary-for-visitors/oclc/944931081&referer=brief_results) \
-Fiorelli, *Descr.*, p.76 [(worldcat)](https://www.worldcat.org/title/la-descrizione-di-pompei-1875-con-una-cronistoria-per-immagini-e-la-lettera-alla-guardia-nazionale-del-distretto-di-castellammare-di-stabia/oclc/1074056884&referer=brief_results) \
-Jashemski, *Gardens*, 1:168 and fig. 249 on p.168 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-2-herculaneum-and-the-villas-destroyed-by-vesuvius/oclc/921816405) \
-Idem, *Gardens*, vol. II, p. 119 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-2-herculaneum-and-the-villas-destroyed-by-vesuvius/oclc/921816405) \
-Mazois, 2:46, pl. 9, figs. 3, 5 [(worldcat)](https://www.worldcat.org/title/ruines-de-pompei-dessinees-et-mesurees-pendant-les-annees-mdcccix-mdcccx-mdcccxi/oclc/874412631&referer=brief_results) \
-*PAH*, vol. 1, pt.2, p.36 (Mar. 8, 1787) [(worldcat)](http://www.worldcat.org/oclc/568028156) \
+Dyer, pp. 307-308, plan, p. 308 [(worldcat)](https://search.worldcat.org/title/944931081) \
+Fiorelli, *Descr.*, p.76 [(worldcat)](https://search.worldcat.org/title/1074056884) \
+Jashemski, *Gardens*, 1:168 and fig. 249 on p.168 [(worldcat)](https://search.worldcat.org/title/921816405) \
+Idem, *Gardens*, vol. II, p. 119 [(worldcat)](https://search.worldcat.org/title/921816405) \
+Mazois, 2:46, pl. 9, figs. 3, 5 [(worldcat)](https://search.worldcat.org/title/874412631) \
+*PAH*, vol. 1, pt.2, p.36 (Mar. 8, 1787) [(worldcat)](https://search.worldcat.org/title/568028156) \
 Soprano, p. 300, no. 13. 
 <!--
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)

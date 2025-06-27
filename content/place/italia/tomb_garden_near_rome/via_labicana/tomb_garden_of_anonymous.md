@@ -46,7 +46,7 @@ A fragmentary marble slab found beside the Via Labicana near the cemetery of Cen
 Unspecified
 
 ## Bibliography
-- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](http://www.worldcat.org/oclc/886794800)
+- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](https://search.worldcat.org/title/886794800)
 
 
 

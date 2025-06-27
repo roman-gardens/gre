@@ -49,14 +49,14 @@ These two shops, excavated in 1861, shared a house and a garden (a) to the back.
 1861
 
 ## Bibliography
-* Breton, *Pompeia*, 3rd ed. p. 470 [(worldcat)](http://www.worldcat.org/oclc/894211341)
-* Dohl, *Plastik aus Pompeji*, p. 44 [(worldcat)](http://www.worldcat.org/oclc/52662796)
-* Fiorelli, *Giornale degli scavi di Pompei* (1861), pp. 351-352, 367 [(worldcat)](http://www.worldcat.org/oclc/962518899)
-* Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, p. 5 [(worldcat)](http://www.worldcat.org/oclc/65043382)
-* Fiorelli, *Descrizione di Pompei*, p. 340 [(worldcat)](http://www.worldcat.org/oclc/252039996)
-* Jashemski, *Gardens*, vol. II, p. 213 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Lugebil, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1861), p. 237 [(worldcat)](http://www.worldcat.org/oclc/823239162)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 67 [(worldcat)](http://www.worldcat.org/oclc/906755593)
+* Breton, *Pompeia*, 3rd ed. p. 470 [(worldcat)](https://search.worldcat.org/title/894211341)
+* Dohl, *Plastik aus Pompeji*, p. 44 [(worldcat)](https://search.worldcat.org/title/52662796)
+* Fiorelli, *Giornale degli scavi di Pompei* (1861), pp. 351-352, 367 [(worldcat)](https://search.worldcat.org/title/962518899)
+* Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, p. 5 [(worldcat)](https://search.worldcat.org/title/65043382)
+* Fiorelli, *Descrizione di Pompei*, p. 340 [(worldcat)](https://search.worldcat.org/title/252039996)
+* Jashemski, *Gardens*, vol. II, p. 213 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Lugebil, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1861), p. 237 [(worldcat)](https://search.worldcat.org/title/823239162)
+* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)
 
 ## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

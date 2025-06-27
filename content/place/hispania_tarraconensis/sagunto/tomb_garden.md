@@ -69,7 +69,7 @@ A marble slab found at Puçol (Puzol) near Saguntum, now lost,  but originally p
 
 
 ## Bibliography
-- H. von Hesberg, “Römische Grabbauten in den hispanischen Provinzen” in W. Trimllmich et al., eds., Hispania Antiqua. Denkmäler der Römerzeit (Mainz 1993) XXX; EDH HD026300. [(worldcat)](http://www.worldcat.org/oclc/7377084156)
+- H. von Hesberg, “Römische Grabbauten in den hispanischen Provinzen” in W. Trimllmich et al., eds., Hispania Antiqua. Denkmäler der Römerzeit (Mainz 1993) XXX; EDH HD026300. [(worldcat)](https://search.worldcat.org/title/7377084156)
 
 ## Pleiades ID
 

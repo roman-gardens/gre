@@ -32,13 +32,13 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Bibliography
-- J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](http://www.worldcat.org/oclc/1090911182)
+- J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
 
-- P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](http://www.worldcat.org/oclc/640067386)
+- P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](https://search.worldcat.org/title/640067386)
 
--  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](http://www.worldcat.org/oclc/803415143)
+-  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
 
-- M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](http://www.worldcat.org/oclc/940998520)
+- M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
 
 ## Location
@@ -102,9 +102,9 @@ Tiberius times(A.D 14-37)
 
 ## Bibliography
 
-* M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. Gorges, p. 276-7 [(worldcat)](http://www.worldcat.org/oclc/876519837)
-* P. R. Lewis, G. D. B. Jones, Roman Gold-Mining in North-West Spain, *The Journal of Roman Studies*, Vol. 60, 1970 (1970), pp. 169-185 [(worldcat)](http://www.worldcat.org/oclc/960771440)
-* R. F. J. Jones, D. G. Bird, Roman Gold-Mining in North-West Spain, II: Workings on the Rio Duerna, *The Journal of Roman Studies*, Vol. 62, 1972 (1972), pp. 59 [(worldcat)](http://www.worldcat.org/oclc/960771440)
+* M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. Gorges, p. 276-7 [(worldcat)](https://search.worldcat.org/title/876519837)
+* P. R. Lewis, G. D. B. Jones, Roman Gold-Mining in North-West Spain, *The Journal of Roman Studies*, Vol. 60, 1970 (1970), pp. 169-185 [(worldcat)](https://search.worldcat.org/title/960771440)
+* R. F. J. Jones, D. G. Bird, Roman Gold-Mining in North-West Spain, II: Workings on the Rio Duerna, *The Journal of Roman Studies*, Vol. 62, 1972 (1972), pp. 59 [(worldcat)](https://search.worldcat.org/title/960771440)
 
 ## Pleiades ID
 

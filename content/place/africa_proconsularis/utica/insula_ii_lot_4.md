@@ -72,7 +72,7 @@ Unspecified
 
 ## Bibliography
 
-* Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, pp. 57-66, plans 8-10. [(worldcat)](http://www.worldcat.org/oclc/905773599)
+* Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, pp. 57-66, plans 8-10. [(worldcat)](https://search.worldcat.org/title/905773599)
 
 ## Pleiades ID
 

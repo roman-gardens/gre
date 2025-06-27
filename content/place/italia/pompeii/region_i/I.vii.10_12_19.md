@@ -117,14 +117,14 @@ Excavated 1912 and 1925.
 * Chamoux, F. 1950. *BCH* p. 70-79.  
 * Della Corte, M. *Case ed abitanti di Pompei*, pp. 317-318.  
 * Döhl, H. 1976. *Plastik aus Pompeji*, Habilitationsschrift, Göttingen, pp. 4-5.  
-* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, pp. 50, 57, 92-93, 113 and figs. 145-149 on pp. 93-94. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)  
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, pp. 38-41, 316-317. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, pp. 50, 57, 92-93, 113 and figs. 145-149 on pp. 93-94. [(worldcat)](https://search.worldcat.org/title/312003872)  
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, pp. 38-41, 316-317. [(worldcat)](https://search.worldcat.org/title/222353569)  
 * Kapossy, B. 1969, *Brunnenfiguren der hellenistischen und römischen Zeit*, p. 13.  
 * Maiuri, A. 1925. *“La raffigurazione del placentarius in quattro bronzetti pompeiani,” In BdA*, pp. 268-275.  
 * Maiuri, A. 1926. *"L’efebodi Via dell’Abbondanza a Pompei,” In BdA*, pp. 337-353.  
 * Maiuri, A. 1939. *NSc*, pp. 49-68, 70-74, 370, fig 9 (plan) on p. 33, and pl. 20.  
-* Maiuri, A. 1937. *Monumenti della pittura antica scoperti in italia*, sec. 3. [(worldcat)](https://www.worldcat.org/title/monumenti-della-pittura-antica-scoperti-in-italia-3-pompei-12-le-pitture-della-casa-del-citarista/oclc/635056420)  
-* Maiuri, A. 1939. *Pompeii*, pp. 23-27, pls. 3-5, 20. [(worldcat)](http://www.worldcat.org/oclc/470375462)  
+* Maiuri, A. 1937. *Monumenti della pittura antica scoperti in italia*, sec. 3. [(worldcat)](https://search.worldcat.org/title/635056420)  
+* Maiuri, A. 1939. *Pompeii*, pp. 23-27, pls. 3-5, 20. [(worldcat)](https://search.worldcat.org/title/470375462)  
 * Goldicutt, J. and Norman Neuerburg, N. 2016. *Specimens of Ancient Decorations from Pompeii*, pp. 117-119, no. 18.   
 *PPP*, p. 70.  
 * Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 34.  

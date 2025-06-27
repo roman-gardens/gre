@@ -63,7 +63,7 @@ A corridor (see Fig. 1, label M) was bordered by two small gardens (labels N and
 
 ## Bibliography
 
-* S. Gsell, Monuments Antiques de l’Algérie, Paris, 1901, p. 19-21, fig. 87. [worldcat](https://www.worldcat.org/title/monuments-antiques-de-lalgerie-tome-second/oclc/491461100)
+* S. Gsell, Monuments Antiques de l’Algérie, Paris, 1901, p. 19-21, fig. 87. [worldcat](https://search.worldcat.org/title/491461100)
 
 ## Pleiades ID
 

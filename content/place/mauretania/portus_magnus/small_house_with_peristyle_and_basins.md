@@ -60,7 +60,7 @@ The house was laid out around a peristyle that may have had a garden. 12 columns
 
 ## Bibliography
 
-* S. Gsell, Monuments Antiques de l’Algérie, Paris, 1901, p. 19-21, fig. 87. [worldcat](https://www.worldcat.org/title/monuments-antiques-de-lalgerie-tome-second/oclc/491461100)
+* S. Gsell, Monuments Antiques de l’Algérie, Paris, 1901, p. 19-21, fig. 87. [worldcat](https://search.worldcat.org/title/491461100)
 
 ## Pleiades ID
 

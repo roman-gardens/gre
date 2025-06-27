@@ -50,7 +50,7 @@ Jashemski examined this sizeable garden to the rear of this property in 1957 and
 Excavated 1953-1954, 1973, 1984. Restored 1988.
 
 ## Bibliography
-* Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.92 [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.92 [(worldcat)](https://search.worldcat.org/title/921816405)
 
 
 ## Contributor

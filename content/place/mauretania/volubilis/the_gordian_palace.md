@@ -66,7 +66,7 @@ Second century CE
 
 ## Bibliography
 
-* R. Thouvenot., Maisons de Volubilis: Le palais dit de Gordien et la Maison à la mosaïque de Vénus, Rabat, 1958, p. 49-86, fig. 8, pl. 11. [(worldcat)](http://www.worldcat.org/oclc/876482067)
+* R. Thouvenot., Maisons de Volubilis: Le palais dit de Gordien et la Maison à la mosaïque de Vénus, Rabat, 1958, p. 49-86, fig. 8, pl. 11. [(worldcat)](https://search.worldcat.org/title/876482067)
 
 ## Pleiades ID
 

@@ -47,9 +47,9 @@ When this garden was excavated in 1873, the excavators reported three panels on 
 ## Bibliography
 
 * Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 22
-* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 42 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)   
-* Jashemski, W.F. 1979, *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, pp. 110-111 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)  
-* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 22, 313   [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 42 [(worldcat)](https://search.worldcat.org/title/9528380)   
+* Jashemski, W.F. 1979, *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, pp. 110-111 [(worldcat)](https://search.worldcat.org/title/312003872)  
+* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 22, 313   [(worldcat)](https://search.worldcat.org/title/222353569)  
 * Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 76   
 * Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 9 (describes this painting as a *paradeisos*, with sea, deer, panther, and a nymphaeum)  
 * Sogliano, A. 1879. *Le pitture murali campane scoverte negli anni 1867-79*, p. 224, no.694  

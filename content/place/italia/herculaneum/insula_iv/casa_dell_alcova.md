@@ -84,10 +84,10 @@ unspecified
 
 ## Bibliography
 
-- Maiuri, *Ercolano*, pp. 51, 389-391 and fig. 322 (plan) on p. 389 [(worldcat)](http://www.worldcat.org/oclc/490581395)
-- Maiuri, *Herculaneum*, pp. 31 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
+- Maiuri, *Ercolano*, pp. 51, 389-391 and fig. 322 (plan) on p. 389 [(worldcat)](https://search.worldcat.org/title/490581395)
+- Maiuri, *Herculaneum*, pp. 31 [(worldcat)](https://search.worldcat.org/title/1107784297)
 -
-- Maiuri, *Ercolano*, pp. 51, 392 and fig. 322 (plan) on p. 389 [(worldcat)](http://www.worldcat.org/oclc/490581395)
+- Maiuri, *Ercolano*, pp. 51, 392 and fig. 322 (plan) on p. 389 [(worldcat)](https://search.worldcat.org/title/490581395)
 
 ## Contributor
 

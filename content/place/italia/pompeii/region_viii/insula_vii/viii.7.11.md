@@ -47,8 +47,8 @@ Behind this shop and the rooms beyond that there was a garden (a).
 Unspecified
 
 ## Bibliography
-* Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Viola, *Gli scavi di Pompei dal 1873 al 1878.* In Pompei e la regione sotterrara dal Vesuvio nell' anno LXXIX, p. 17 (where the address is VIII.viii.11) [(worldcat)](http://www.worldcat.org/oclc/254502217)
+* Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Viola, *Gli scavi di Pompei dal 1873 al 1878.* In Pompei e la regione sotterrara dal Vesuvio nell' anno LXXIX, p. 17 (where the address is VIII.viii.11) [(worldcat)](https://search.worldcat.org/title/254502217)
 
 ## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

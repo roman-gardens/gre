@@ -47,8 +47,8 @@ The courtyard of this large peristyle to the NE of the Summer Baths, dedicated b
 
 ## Bibliography
 
-*  CMT, *Thuburbo Majus, Les mosaïques de la région des Grands Thermes*, V. II, fasc.2,INA, Tunis, 1985, pp37-8, plan 5-6. [(Worldcat)](http://www.worldcat.org/oclc/905765362)
-* Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](http://www.worldcat.org/oclc/20058336)
+*  CMT, *Thuburbo Majus, Les mosaïques de la région des Grands Thermes*, V. II, fasc.2,INA, Tunis, 1985, pp37-8, plan 5-6. [(Worldcat)](https://search.worldcat.org/title/905765362)
+* Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](https://search.worldcat.org/title/20058336)
 
 ## Pleiades_ID
 

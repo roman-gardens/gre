@@ -72,8 +72,8 @@ Unspecified
 ## Bibliography
 
 * Baklouti, H., "Une fouille à Uthina, rapport préliminaire", in *Série REPPAL, Revue des Etudes Phéniciennes-Puniques et des Antiquités Libyques ques et des Antiquités Libyques*, 1997, 10, p. 21, fig. 3, pp. 17-34. [(worldcat)](#)
-* Ben Hassen H. H., "Le parc archéologique d'Oudhna, antique Uthina (Tunisie)", in *Bulletin de la Société Nationale des Antiquaires de France*, 2001, 2006. pp. 225-238.[(worldcat)](http://www.worldcat.org/oclc/7290982187)
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.333-334. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Ben Hassen H. H., "Le parc archéologique d'Oudhna, antique Uthina (Tunisie)", in *Bulletin de la Société Nationale des Antiquaires de France*, 2001, 2006. pp. 225-238.[(worldcat)](https://search.worldcat.org/title/7290982187)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.333-334. [(worldcat)](https://search.worldcat.org/title/989088620)
 
 ## Pleiades ID
 

@@ -77,8 +77,8 @@ House of Dionysos
 3rd-5th century CE
 
 ## Bibliography
-* Ben Abed-Ben Khader, A., *Corpus des mosaïques de Tunisie. Vol. 4, Karthago (Carthage), Fasc. 1 Les mosaiques du Parc Archéologique des Thermes d'Antonin*, INA, Tunis,1999, 46-51, plan 5. [(worldcat)](http://www.worldcat.org/oclc/1069099591)
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 143-144. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Ben Abed-Ben Khader, A., *Corpus des mosaïques de Tunisie. Vol. 4, Karthago (Carthage), Fasc. 1 Les mosaiques du Parc Archéologique des Thermes d'Antonin*, INA, Tunis,1999, 46-51, plan 5. [(worldcat)](https://search.worldcat.org/title/1069099591)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 143-144. [(worldcat)](https://search.worldcat.org/title/989088620)
 
 ## Pleiades ID
 

@@ -66,9 +66,9 @@ An inscription CIL VIII 21081 mentioning a pool covered by a wine trellis suppor
 
 ## Bibliography
 
-* Leveau, Ph., *Caesarea de Maurétanie, une ville romaine et ses campagnes*, Rome, 1984, p. 56. [(worldcat)](http://www.worldcat.org/oclc/1014614344)
+* Leveau, Ph., *Caesarea de Maurétanie, une ville romaine et ses campagnes*, Rome, 1984, p. 56. [(worldcat)](https://search.worldcat.org/title/1014614344)
 
-* Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie",  in *Antiquités africaines*, 18, 1982, p. 117, no. 7. [(worldcat)](http://www.worldcat.org/oclc/4797426670)
+* Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie",  in *Antiquités africaines*, 18, 1982, p. 117, no. 7. [(worldcat)](https://search.worldcat.org/title/4797426670)
 
 ## Pleiades ID
 

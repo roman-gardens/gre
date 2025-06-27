@@ -60,7 +60,7 @@ Excavation of this garden (a) to the rear of this elegant house took place in th
 Unspecified
 
 ## Bibliography
-Maiuri, *Ercolano*, p. 240 and fig. 187 (plan) on p. 239 [(worldcat)](http://www.worldcat.org/oclc/490581395)
+Maiuri, *Ercolano*, p. 240 and fig. 187 (plan) on p. 239 [(worldcat)](https://search.worldcat.org/title/490581395)
 
 
 

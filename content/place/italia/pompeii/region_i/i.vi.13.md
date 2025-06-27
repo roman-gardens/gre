@@ -78,8 +78,8 @@ Excavated 1926 and 1927.
 * Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 25, no. 38.  
 * de Vos, M. 1977. *Meded*, 39, p. 39.  
 * Della Corte, M. *NSc* (1914), p. 269.  
-* Grimal, P. 1969. *Les jardins romaines*, p. 446, no. 3. [(worldcat)](https://www.worldcat.org/title/jardins-romaines/oclc/803189435&referer=brief_results)  
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 36, 313-314. [(worldcat)](http://www.worldcat.org/oclc/921816405).    
+* Grimal, P. 1969. *Les jardins romaines*, p. 446, no. 3. [(worldcat)](https://search.worldcat.org/title/803189435)  
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 36, 313-314. [(worldcat)](https://search.worldcat.org/title/921816405).    
 * Maiuri, A. 1929. *NSc*, pp. 434, fig. 44 (plan) on p. 432 and fig. 45.  
 * *PPP*, 1, p. 39.  
 * Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 26.  

@@ -66,12 +66,12 @@ B. This vineyard section of the property was excavated in 1984 by Dr. De Caro. A
 Eastern part first excavated 1939 and then 1954 to 1955.
 
 ## Bibliography
-* Jashemski, W. 1979. *The Gardens of Pompeii*, vol.I, pp.176-177 and fig. 261 on p.176 [(worldcat)](http://www.worldcat.org/oclc/884024123)
-* Jashemski, W. 1993. *The Gardens of Pompeii*, vol.II, pp.97-98, 331-333 [(worldcat)](http://www.worldcat.org/oclc/921816405)
-* Maiuri, A. *Pompeii*, p.84: “triclinium flanked by two mosaic polychrome water lilies” (sic) [(worldcat)](http://www.worldcat.org/oclc/470375462)
-* Neuerburg, N. 1965. *L'architettura delle fontane e dei ninfei nell'Italia antica*, pp.120-121, no.22 [(worldcat)](http://www.worldcat.org/oclc/1153859)
-* Bragantini, I. et al., 1981. *Pitture e pavimenti di Pompei*, vol.I, pp.243-244 [(worldcat)](http://www.worldcat.org/oclc/13334913)
-* Sear, F. B. 1977. *Roman Wall and Vault Mosaics*, RM, Supp.23 pp.76-77, no.37 [(worldcat)](http://www.worldcat.org/oclc/1170409934)
+* Jashemski, W. 1979. *The Gardens of Pompeii*, vol.I, pp.176-177 and fig. 261 on p.176 [(worldcat)](https://search.worldcat.org/title/884024123)
+* Jashemski, W. 1993. *The Gardens of Pompeii*, vol.II, pp.97-98, 331-333 [(worldcat)](https://search.worldcat.org/title/921816405)
+* Maiuri, A. *Pompeii*, p.84: “triclinium flanked by two mosaic polychrome water lilies” (sic) [(worldcat)](https://search.worldcat.org/title/470375462)
+* Neuerburg, N. 1965. *L'architettura delle fontane e dei ninfei nell'Italia antica*, pp.120-121, no.22 [(worldcat)](https://search.worldcat.org/title/1153859)
+* Bragantini, I. et al., 1981. *Pitture e pavimenti di Pompei*, vol.I, pp.243-244 [(worldcat)](https://search.worldcat.org/title/13334913)
+* Sear, F. B. 1977. *Roman Wall and Vault Mosaics*, RM, Supp.23 pp.76-77, no.37 [(worldcat)](https://search.worldcat.org/title/1170409934)
 
 ## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

@@ -69,7 +69,7 @@ Possibly belonging to this same house, the east part of the *domus* may have bee
 Late 1st-4th century CE
 
 ## Bibliography
-- Lassère, J.-M., Slim, H., *Maisons de Clupea. Les maisons de l’Ecole de pêche*, Paris, 2010, p. 25-66. [(worldcat)](http://www.worldcat.org/oclc/701795957)
+- Lassère, J.-M., Slim, H., *Maisons de Clupea. Les maisons de l’Ecole de pêche*, Paris, 2010, p. 25-66. [(worldcat)](https://search.worldcat.org/title/701795957)
 
 
 ## Pleiades ID

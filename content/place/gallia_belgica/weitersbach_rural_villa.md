@@ -69,9 +69,9 @@ None Available
 Unspecified
 
 ## Bibliography
-- H. Wrede, *Die spätantike Hermengalerie von Welschbillig*. Römisch-Germanische Forschungen 32, Berlin, 1972 [(worldcat)](http://www.worldcat.org/oclc/223360098)
-- H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp. 665-667, figs. 607-609. [(worldcat)](http://www.worldcat.org/oclc/924024101)
-- P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 277-278, fig. 90.  [(worldcat)](http://www.worldcat.org/oclc/445007864)
+- H. Wrede, *Die spätantike Hermengalerie von Welschbillig*. Römisch-Germanische Forschungen 32, Berlin, 1972 [(worldcat)](https://search.worldcat.org/title/223360098)
+- H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp. 665-667, figs. 607-609. [(worldcat)](https://search.worldcat.org/title/924024101)
+- P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 277-278, fig. 90.  [(worldcat)](https://search.worldcat.org/title/445007864)
 
 ## Pleiades ID
 

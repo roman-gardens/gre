@@ -34,7 +34,7 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 
 ## Bibliography
-- I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](http://www.worldcat.org/oclc/225047612)
+- I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
 
 <!--## Location Description-->
 
@@ -71,7 +71,7 @@ The end of the 2nd or early 3rd century AD
 
 ## Bibliography
 
-*  A. Blanco Freijeiro, *Corpus de mosaicos romanos de España*, 1(1978):  48-49. [(worldcat)](http://www.worldcat.org/oclc/801845218)
+*  A. Blanco Freijeiro, *Corpus de mosaicos romanos de España*, 1(1978):  48-49. [(worldcat)](https://search.worldcat.org/title/801845218)
 
 ## Pleiades ID
 

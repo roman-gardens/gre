@@ -81,9 +81,9 @@ A.D. 65-70 Second Stage of Construction
 
 ## Bibliography
 
-1. Bouet, Alain. La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise. Vaucluse: Service d'Archéologie du Conseil Général de Vaucluse, 1996, fiche n°3, P. 110-111,  fiche  n°4, P. 112-113. [(worldcat)](http://www.worldcat.org/oclc/919659882)
+1. Bouet, Alain. La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise. Vaucluse: Service d'Archéologie du Conseil Général de Vaucluse, 1996, fiche n°3, P. 110-111,  fiche  n°4, P. 112-113. [(worldcat)](https://search.worldcat.org/title/919659882)
 
-2. RIVET,  D.  BRENTCHALOFF,  S.  ROUCOLE,  S.  SAULNIER,  *Fréjus,  Atlas topographique  des  villes  de  gaule  méridionale*,  R.A.N.,  supplément  32,  Montpellier,  2000,  P. 195-198. [(worldcat)](http://www.worldcat.org/oclc/491603596)
+2. RIVET,  D.  BRENTCHALOFF,  S.  ROUCOLE,  S.  SAULNIER,  *Fréjus,  Atlas topographique  des  villes  de  gaule  méridionale*,  R.A.N.,  supplément  32,  Montpellier,  2000,  P. 195-198. [(worldcat)](https://search.worldcat.org/title/491603596)
 
 
 

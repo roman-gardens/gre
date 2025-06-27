@@ -82,11 +82,11 @@ A.D. 70-100
 
 ## Bibliography
 
-1. KISCH, Yves . *La Villa Du Paon: Le Quartier Des Boutiques : Vaison-La-Romaine*. Vaison-la-Romaine: Mairie, 1990 [(worldcat)](http://www.worldcat.org/oclc/964237739)
+1. KISCH, Yves . *La Villa Du Paon: Le Quartier Des Boutiques : Vaison-La-Romaine*. Vaison-la-Romaine: Mairie, 1990 [(worldcat)](https://search.worldcat.org/title/964237739)
 
 2. H. Lavagne,  Recueil génral des mosaïques de la Gaule romaine, III, province de Narbonnaise 3, partie sud-est, Xe suppl. à Gallia, Paris CNRS, 2000, n° 647-53, p. 157 ss.
 
-3. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.277-287. [(worldcat)](http://www.worldcat.org/oclc/905795401)
+3. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.277-287. [(worldcat)](https://search.worldcat.org/title/905795401)
 
 
 ## Pleiades ID

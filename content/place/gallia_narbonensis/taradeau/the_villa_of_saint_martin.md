@@ -86,7 +86,7 @@ In a fourth stage, the villa lost its residential character: the *pars urbana* w
 
 ## Bibliography
 
-1.  Brun, Jean-Pierre. *Carte Archéologique De La Gaule: 83, Le Var 1*. Paris, 1999, vol.2, P. 765-771, plan P. 765. [(worldcat)](http://www.worldcat.org/oclc/1074683092)
+1.  Brun, Jean-Pierre. *Carte Archéologique De La Gaule: 83, Le Var 1*. Paris, 1999, vol.2, P. 765-771, plan P. 765. [(worldcat)](https://search.worldcat.org/title/1074683092)
 
 
 ## Pleiades ID

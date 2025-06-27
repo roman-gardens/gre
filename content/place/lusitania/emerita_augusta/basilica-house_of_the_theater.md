@@ -35,7 +35,7 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 
 ## Bibliography
-- I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](http://www.worldcat.org/oclc/225047612)
+- I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
 
 <!--## Location Description-->
 
@@ -81,7 +81,7 @@ This late-imperial domus was discovered by J. Ramón Mélida while excavating th
 
 ## Bibliography
 
-* R. Durán Cabello, ‘La técnica constructiva de la llamada ‘Casa Basílica’ de Mérida’, in *La casa urbana hispanorromana : ponencias y comunicaciones.*, 1991, pp. 359-69. [(worldcat)](http://www.worldcat.org/oclc/434540010)
+* R. Durán Cabello, ‘La técnica constructiva de la llamada ‘Casa Basílica’ de Mérida’, in *La casa urbana hispanorromana : ponencias y comunicaciones.*, 1991, pp. 359-69. [(worldcat)](https://search.worldcat.org/title/434540010)
 
 
 ## Pleiades ID

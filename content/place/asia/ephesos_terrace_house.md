@@ -94,10 +94,10 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 1st-3rd c. CE
 
 ## Bibliography
-- *Forschungen in Ephesos* Vol. VIII/1, Figs. 207-219 [(worldcat)](http://www.worldcat.org/oclc/6928546)
-- *Forschungen in Ephesos* Vol. VIII/2 Figs. 109-130 [(worldcat)](http://www.worldcat.org/oclc/6928546)
-- W. Jobst, *Romische Mosaiken aus Ephesos I:  Die Hanghauser des Embolos*,Vienna, 1977 [(worldcat)](http://www.worldcat.org/oclc/929054298)
-- C. Kearns, “Visual representations of gardens: diachronic perspectives on the art of landscape,” In ed. K. Gleason, *Cultural History of Gardens*, London. 2013. pp. 164-165. [(worldcat)](http://www.worldcat.org/oclc/968338784)
+- *Forschungen in Ephesos* Vol. VIII/1, Figs. 207-219 [(worldcat)](https://search.worldcat.org/title/6928546)
+- *Forschungen in Ephesos* Vol. VIII/2 Figs. 109-130 [(worldcat)](https://search.worldcat.org/title/6928546)
+- W. Jobst, *Romische Mosaiken aus Ephesos I:  Die Hanghauser des Embolos*,Vienna, 1977 [(worldcat)](https://search.worldcat.org/title/929054298)
+- C. Kearns, “Visual representations of gardens: diachronic perspectives on the art of landscape,” In ed. K. Gleason, *Cultural History of Gardens*, London. 2013. pp. 164-165. [(worldcat)](https://search.worldcat.org/title/968338784)
 
 
 ## Pleiades ID

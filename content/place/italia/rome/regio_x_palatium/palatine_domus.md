@@ -64,7 +64,7 @@ RELATED PHASES ON THE PALATINE:
 
 ## Bibliography
 
-* M.A. Tomei, *Augusto sul Palatino: Gli Scavi di Gianfilippo Carettoni. Appunti inediti (1955-1984)*, Milano, 2014. [(worldcat)](http://www.worldcat.org/oclc/903406162)
+* M.A. Tomei, *Augusto sul Palatino: Gli Scavi di Gianfilippo Carettoni. Appunti inediti (1955-1984)*, Milano, 2014. [(worldcat)](https://search.worldcat.org/title/903406162)
 
 ## Pleiades ID
 

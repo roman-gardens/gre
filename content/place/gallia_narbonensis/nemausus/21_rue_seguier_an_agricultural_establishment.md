@@ -85,7 +85,7 @@ A.D 80-100 Two burials made
 
 3. Y. Manniez, A. Recolin, fiche Nîmes, 21, rue Séguier (Gard) *in Forme de l’habitat rural en Gaule Narbonnaise*, n° 2, ed. APDCA, Juan-les-Pins, 1994, 6 p.
 
-3. S. Barberan, Un aménagement horticole dans la cour d’un établissement pré-urbain à Nîmes (Gard) in *Bulletin de l’Ecole antique de Nîmes*, P. 67-22.[(worldcat)](http://www.worldcat.org/oclc/835159144)
+3. S. Barberan, Un aménagement horticole dans la cour d’un établissement pré-urbain à Nîmes (Gard) in *Bulletin de l’Ecole antique de Nîmes*, P. 67-22.[(worldcat)](https://search.worldcat.org/title/835159144)
 
 
 ## Pleiades ID

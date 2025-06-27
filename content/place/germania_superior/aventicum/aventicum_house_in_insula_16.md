@@ -73,8 +73,8 @@ AD 71
 
 ## Bibliography
 
-* H. Bögli and D. Weidmann, "Nouvelles recherches à Aventicum," *Archäologie der Schweiz* 2, 1978:71-72, fig. 2.[(worldcat)](http://www.worldcat.org/oclc/891764106)
-* A. G. McKay, *Houses, Villas and Palaces in the Roman World*, London, 1975, pp. 202-203, fig. 186. [(worldcat)](http://www.worldcat.org/oclc/901557900)
+* H. Bögli and D. Weidmann, "Nouvelles recherches à Aventicum," *Archäologie der Schweiz* 2, 1978:71-72, fig. 2.[(worldcat)](https://search.worldcat.org/title/891764106)
+* A. G. McKay, *Houses, Villas and Palaces in the Roman World*, London, 1975, pp. 202-203, fig. 186. [(worldcat)](https://search.worldcat.org/title/901557900)
 
 ## Pleiades ID
 

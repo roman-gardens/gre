@@ -87,9 +87,9 @@ In a second stage, in the first century, a bath complex [5] with an open-air esp
 
 ## Bibliography
 
-1. Brun, Jean-Pierre. *Carte Archéologique De La Gaule: 83, Le Var 1*. Paris, 1999, vol.2, P. 835-840, plan P. 836. [(worldcat)](http://www.worldcat.org/oclc/1074683092)
+1. Brun, Jean-Pierre. *Carte Archéologique De La Gaule: 83, Le Var 1*. Paris, 1999, vol.2, P. 835-840, plan P. 836. [(worldcat)](https://search.worldcat.org/title/1074683092)
 
-2. Bouet, Alain, and Philippe Leveau. Les Thermes Prives Et Publics En Gaule Narbonnaise. S.l.: s.n., 1996, P. 401, Fig. 279-283. [(worldcat)](http://www.worldcat.org/oclc/490154337)
+2. Bouet, Alain, and Philippe Leveau. Les Thermes Prives Et Publics En Gaule Narbonnaise. S.l.: s.n., 1996, P. 401, Fig. 279-283. [(worldcat)](https://search.worldcat.org/title/490154337)
 
 3. R. AMBARD, *La  villa  gallo-romaine  de  Muscapeu*, in *Provence  historique*,  V, 1955, P. 104.
 

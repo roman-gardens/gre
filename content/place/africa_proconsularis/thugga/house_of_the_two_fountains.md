@@ -55,9 +55,9 @@ This house in the W of the market may have had a peristyle garden enclosed by a 
 ## Dates
 
 ## Bibliography
-*  Poinssot, C., Les ruines de Dougga, Tunis, 1958, p. ???[(worldcat)](http://www.worldcat.org/oclc/804952011)
-* C. Poinssot, Les ruines de Dougga, Tunis, 1983[(worldcat)](http://www.worldcat.org/oclc/475099061)
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.264-265. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+*  Poinssot, C., Les ruines de Dougga, Tunis, 1958, p. ???[(worldcat)](https://search.worldcat.org/title/804952011)
+* C. Poinssot, Les ruines de Dougga, Tunis, 1983[(worldcat)](https://search.worldcat.org/title/475099061)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.264-265. [(worldcat)](https://search.worldcat.org/title/989088620)
 
 
 ## Pleiades_ID

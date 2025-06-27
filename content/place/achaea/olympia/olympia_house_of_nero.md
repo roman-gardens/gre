@@ -83,7 +83,7 @@ mid-1st to 3rd century CE
 
 ## Bibliography
 
-* A. Mallwitz, *Olympia und seine Bauten.* Munich,1972, pp. 276-277, fig. 230. [(worldcat)](http://www.worldcat.org/oclc/51584745)
+* A. Mallwitz, *Olympia und seine Bauten.* Munich,1972, pp. 276-277, fig. 230. [(worldcat)](https://search.worldcat.org/title/51584745)
 
 ## Pleiades ID
 

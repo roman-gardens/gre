@@ -66,8 +66,8 @@ ca. 100 CE - late 4th century CE
 
 ## Bibliography
 
-* A. Detsicas, *The Cantiaci*, Gloucester, 1983, pp. 103-107, fig. 20. [(worldcat)](http://www.worldcat.org/oclc/247009310)
-* B. Philp, *Excavations in the Darent Valley*, Kent, Gloucester, 1984, pp. 89-92, figs. 24, 33. [(worldcat)](http://www.worldcat.org/oclc/896055765)
+* A. Detsicas, *The Cantiaci*, Gloucester, 1983, pp. 103-107, fig. 20. [(worldcat)](https://search.worldcat.org/title/247009310)
+* B. Philp, *Excavations in the Darent Valley*, Kent, Gloucester, 1984, pp. 89-92, figs. 24, 33. [(worldcat)](https://search.worldcat.org/title/896055765)
 
 ## Pleiades ID
 

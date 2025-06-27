@@ -72,8 +72,8 @@ unspecified
 
 ## Bibliography
 
-* W. Drack and R. Fellmann, *Die Römer in der Schweiz*, Stuttgart, 1988, pp. 394-395, fig. 369. [(worldcat)](http://www.worldcat.org/oclc/639129078)
-* R. Fellmann, *La Suisse gallo-romaine. Cinq siècles d’histoire*, Lausanne, 1992, p. 157, fig. 116.3. [(worldcat)](http://www.worldcat.org/oclc/28038264)
+* W. Drack and R. Fellmann, *Die Römer in der Schweiz*, Stuttgart, 1988, pp. 394-395, fig. 369. [(worldcat)](https://search.worldcat.org/title/639129078)
+* R. Fellmann, *La Suisse gallo-romaine. Cinq siècles d’histoire*, Lausanne, 1992, p. 157, fig. 116.3. [(worldcat)](https://search.worldcat.org/title/28038264)
 
 ## Pleiades ID
 

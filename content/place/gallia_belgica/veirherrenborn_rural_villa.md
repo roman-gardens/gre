@@ -67,7 +67,7 @@ None Available
 Unspecified
 
 ## Bibliography
-- H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, p. 653, fig. 594. [(worldcat)](http://www.worldcat.org/oclc/924024101)
+- H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, p. 653, fig. 594. [(worldcat)](https://search.worldcat.org/title/924024101)
 
 <!--
 ## Pleiades ID

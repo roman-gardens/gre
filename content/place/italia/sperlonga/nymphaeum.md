@@ -71,19 +71,19 @@ These parts of the villa have been relatively spared and they are among the best
 Unspecified
 
 ## Bibliography
--B. ANDREAE, A. CONTICELLO, H. SCHROTELER, D. WUNDERLICH, *Abformung der Polyphemgruppe von Sperlonga, in GfK nach einem neuen Verfahren*, Der Präparaator 16, 1-2 (1970), pp. 1-000 [worldcat](http://www.worldcat.org/oclc/1088832601)
+-B. ANDREAE, A. CONTICELLO, H. SCHROTELER, D. WUNDERLICH, *Abformung der Polyphemgruppe von Sperlonga, in GfK nach einem neuen Verfahren*, Der Präparaator 16, 1-2 (1970), pp. 1-000 [worldcat](https://search.worldcat.org/title/1088832601)
 
--F. COARELLI, *Sperlonga e Tiberio*, DArch 7 (1973), pp. 97-122 [worldcat](https://www.worldcat.org/title/sperlonga-e-tiberio/oclc/1088846423)
+-F. COARELLI, *Sperlonga e Tiberio*, DArch 7 (1973), pp. 97-122 [worldcat](https://search.worldcat.org/title/1088846423)
 
--A. CONTICELLO, B. ANDREAE, *Die Skulpturen von Sperlonga*, Antike Plastik 14, Berlin 1974, pp. 000-000 [worldcat](https://www.worldcat.org/title/die-skulpturen-von-sperlonga/oclc/1050484099)
+-A. CONTICELLO, B. ANDREAE, *Die Skulpturen von Sperlonga*, Antike Plastik 14, Berlin 1974, pp. 000-000 [worldcat](https://search.worldcat.org/title/1050484099)
 
--G. JACOPI, *L’antro di Tiberio a Sperlonga (Istituto di Studi Romani)*, Roma 1963 [worldcat](https://www.worldcat.org/title/antro-di-tiberio-a-sperlonga/oclc/1965932)
+-G. JACOPI, *L’antro di Tiberio a Sperlonga (Istituto di Studi Romani)*, Roma 1963 [worldcat](https://search.worldcat.org/title/1965932)
 
--SALZA PRINA RICOTTI, *Il gruppo di Polifemo a Sperlonga - Problemi di sistemazione*, RendPontAcc 42 (1968-1970), pp. 118-134, tavv. 1-3, figg. 5-9 [worldcat]http://www.worldcat.org/oclc/849270161
+-SALZA PRINA RICOTTI, *Il gruppo di Polifemo a Sperlonga - Problemi di sistemazione*, RendPontAcc 42 (1968-1970), pp. 118-134, tavv. 1-3, figg. 5-9 [worldcat]https://search.worldcat.org/title/849270161
 
--SALZA PRINA RICOTTI, *The Importance of Water in Roman Garden Triclinia*,in Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection), Dumbarton Oaks 1987, pp. 137-184 [worldcat]http://www.worldcat.org/oclc/715121487
+-SALZA PRINA RICOTTI, *The Importance of Water in Roman Garden Triclinia*,in Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection), Dumbarton Oaks 1987, pp. 137-184 [worldcat]https://search.worldcat.org/title/715121487
 
--SALZA PRINA RICOTTI, *Sistemazione paesaggistica del fronte a mare e giardini nelle ville marittime di epoca romana*, in Giornate di studio in occasione del 250º anniversario degli Scavi di Stabia (in print), pp. 137-169. [worldcat](http://www.worldcat.org/oclc/469755044)
+-SALZA PRINA RICOTTI, *Sistemazione paesaggistica del fronte a mare e giardini nelle ville marittime di epoca romana*, in Giornate di studio in occasione del 250º anniversario degli Scavi di Stabia (in print), pp. 137-169. [worldcat](https://search.worldcat.org/title/469755044)
 
 
 ## Pleiades ID

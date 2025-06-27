@@ -71,7 +71,7 @@ unspecified
 
 ## Bibliography
 
-* Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](https://search.worldcat.org/title/921816405)
 * Maiuri, *RM* (1953-54), p. 91.
 
 ## Pleiades ID

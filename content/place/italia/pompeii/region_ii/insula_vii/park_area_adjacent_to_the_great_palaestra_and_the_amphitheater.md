@@ -46,9 +46,9 @@ Park-like areas were located between the Great [Palaestra](http://vocab.getty.ed
 
 
 ## Bibliography
-* Jashemski, W.F. *Gardens of Pompeii*, vol.I, pp. 13-14, 161-162 [(worldcat)](http://www.worldcat.org/oclc/884024123)
-* Jashemski, W.F. *Gardens of Pompeii*, vol.II, pp. 91-92 [(worldcat)](http://www.worldcat.org/oclc/921816405)
-* Maiuri, A. *Notizie degli scavi di antichità*, p.194 [(worldcat)](http://www.worldcat.org/oclc/1646037)
+* Jashemski, W.F. *Gardens of Pompeii*, vol.I, pp. 13-14, 161-162 [(worldcat)](https://search.worldcat.org/title/884024123)
+* Jashemski, W.F. *Gardens of Pompeii*, vol.II, pp. 91-92 [(worldcat)](https://search.worldcat.org/title/921816405)
+* Maiuri, A. *Notizie degli scavi di antichità*, p.194 [(worldcat)](https://search.worldcat.org/title/1646037)
 
 
 ## Contributor

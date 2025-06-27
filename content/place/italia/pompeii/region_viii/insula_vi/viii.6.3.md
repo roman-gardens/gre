@@ -46,9 +46,9 @@ Only the bases remain of the fourteen brick columns that enclosed this garden (a
 Unspecified
 
 ## Bibliography
-* Jashemski, *Gardens*, vol. II, p.219 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica*, 1884, pp.135-136 plan [(worldcat)](http://www.worldcat.org/oclc/823239162)
-* Sogliano, *Notizie degli scavi di Antichita*, 1883, p.51 [(worldcat)](http://www.worldcat.org/oclc/638883283)
+* Jashemski, *Gardens*, vol. II, p.219 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica*, 1884, pp.135-136 plan [(worldcat)](https://search.worldcat.org/title/823239162)
+* Sogliano, *Notizie degli scavi di Antichita*, 1883, p.51 [(worldcat)](https://search.worldcat.org/title/638883283)
 
 ## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

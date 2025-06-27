@@ -51,11 +51,11 @@ Directly across from the Temple of Isis was an entryway to this garden (a) which
 Unspecified
 
 ## Bibliography
-* Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 76, no. 363 [(worldcat)](http://www.worldcat.org/oclc/1131425884)
-* Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, p. 7 [(worldcat)](http://www.worldcat.org/oclc/65043382)
-* Fiorelli, *Descrizione di Pompei*, p. 343 [(worldcat)](http://www.worldcat.org/oclc/252039996)
-* Jashemski, *Gardens*, vol. II, p. 214 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 67 [(worldcat)](http://www.worldcat.org/oclc/906755593)
+* Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 76, no. 363 [(worldcat)](https://search.worldcat.org/title/1131425884)
+* Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, p. 7 [(worldcat)](https://search.worldcat.org/title/65043382)
+* Fiorelli, *Descrizione di Pompei*, p. 343 [(worldcat)](https://search.worldcat.org/title/252039996)
+* Jashemski, *Gardens*, vol. II, p. 214 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)
 
 
 ## Contributor

@@ -106,19 +106,19 @@ Domitianic period
 
 <!-- Bibliography for Location Description -->
 * G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
-* R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
-* C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
-* Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
-* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
-* M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio," *Rivista di Archeologia* 43, 2019, pp. 165-176. [(worldcat)](http://www.worldcat.org/oclc/797910124) [(Rivista di Archeologia)](http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf)
-* M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](http://www.worldcat.org/oclc/1536690)
+* R. Meiggs, *Roman Ostia*. [(worldcat)](https://search.worldcat.org/title/868614740)
+* C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](https://search.worldcat.org/title/848372586)
+* Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](https://search.worldcat.org/title/801326827)
+* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](https://search.worldcat.org/title/1130900997)
+* M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio," *Rivista di Archeologia* 43, 2019, pp. 165-176. [(worldcat)](https://search.worldcat.org/title/797910124) [(Rivista di Archeologia)](http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf)
+* M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](https://search.worldcat.org/title/1536690)
 <!-- Bibliography for Garden Description -->
 * *Giornale degli Scavi*, 1912, pp. 279, 303, 338.
 * *Giornale degli Scavi*, 1913, pp. 10, 21, 331, 350.
-* R. Lanciani, "Ostia," in *Notizie degli scavi di antichità*, 1881, p. 119. [(worldcat)](http://www.worldcat.org/oclc/472500127)
-* R. Lanciani, *Notes from Rome*, (A.L. Cubberley ed.), London, 1988, pp. 434-435. [(worldcat)](http://www.worldcat.org/oclc/905765241)
-* M. De Vico Fallani, "I giardini ostiensi di Dante Vaglieri. Brevi osservazioni a margine," *Bollettino di Archeologia on line* V, 2014/2, pp. 55-64. [(worldcat)](http://www.worldcat.org/oclc/842430597) [(Bollettino di Archeologia online)](https://bollettinodiarcheologiaonline.beniculturali.it/wp-content/uploads/2018/12/8.-V_2014_2-De-Vico-Fallani-18.02.2015.pdf)
-* E.J. Shepherd, "Prima di Busiri Vici: storia di tre giardini ostiensi e di un parco mai realizzato," in M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](http://www.worldcat.org/oclc/1536690)
+* R. Lanciani, "Ostia," in *Notizie degli scavi di antichità*, 1881, p. 119. [(worldcat)](https://search.worldcat.org/title/472500127)
+* R. Lanciani, *Notes from Rome*, (A.L. Cubberley ed.), London, 1988, pp. 434-435. [(worldcat)](https://search.worldcat.org/title/905765241)
+* M. De Vico Fallani, "I giardini ostiensi di Dante Vaglieri. Brevi osservazioni a margine," *Bollettino di Archeologia on line* V, 2014/2, pp. 55-64. [(worldcat)](https://search.worldcat.org/title/842430597) [(Bollettino di Archeologia online)](https://bollettinodiarcheologiaonline.beniculturali.it/wp-content/uploads/2018/12/8.-V_2014_2-De-Vico-Fallani-18.02.2015.pdf)
+* E.J. Shepherd, "Prima di Busiri Vici: storia di tre giardini ostiensi e di un parco mai realizzato," in M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](https://search.worldcat.org/title/1536690)
 
 ## Pleiades ID
 

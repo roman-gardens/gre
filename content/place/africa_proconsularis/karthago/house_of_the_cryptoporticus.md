@@ -77,8 +77,8 @@ House of the Cryptoporticus (Maison du Cryptoportique)
 1st-5th century CE
 
 ## Bibliography
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.132-134. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-* Catherine Balmelle et al., *Carthage, Colline de l’Odéon. Maisons de la Rotonde et du Cryptoportique (Recherches 1987-2000).* Volume 1. *L’architecture et son décor.* Volume 2. *Les données de fouilles.* Rome, École française, 2012 (Collection de l’École Française de Rome, 457), p. 228, fig.271. [(worldcat)](http://www.worldcat.org/oclc/843086541)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.132-134. [(worldcat)](https://search.worldcat.org/title/989088620)
+* Catherine Balmelle et al., *Carthage, Colline de l’Odéon. Maisons de la Rotonde et du Cryptoportique (Recherches 1987-2000).* Volume 1. *L’architecture et son décor.* Volume 2. *Les données de fouilles.* Rome, École française, 2012 (Collection de l’École Française de Rome, 457), p. 228, fig.271. [(worldcat)](https://search.worldcat.org/title/843086541)
 <!--
 * Collective publication (CTEMA, Tunis and CNRS,URA 375,1, Paris), Recherches sur les pavements de la "maison du cryptoportique" à Carthage, 113e Conrgrés National des Sociétés savantes, Strasbourg 1988, IV Colloqsue sur l'histoire et l'archéologie de l'Afrique du Nord, t..I, p 157-173.
 -->

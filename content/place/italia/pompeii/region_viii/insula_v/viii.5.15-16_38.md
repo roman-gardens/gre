@@ -59,10 +59,10 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 Unspecified
 
 ## Bibliography
-* Jashemski, *Gardens*, vol. II, pp. 216-217 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 197-200, 203-204 [(worldcat)](http://www.worldcat.org/oclc/823239162)
-* Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 279, 317 [(worldcat)](http://www.worldcat.org/oclc/638883283)
-* Pernice, *Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen*, p. 34 and pl. 23.2 [(worldcat)](http://www.worldcat.org/oclc/680390526)
+* Jashemski, *Gardens*, vol. II, pp. 216-217 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 197-200, 203-204 [(worldcat)](https://search.worldcat.org/title/823239162)
+* Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 279, 317 [(worldcat)](https://search.worldcat.org/title/638883283)
+* Pernice, *Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen*, p. 34 and pl. 23.2 [(worldcat)](https://search.worldcat.org/title/680390526)
 
 
 ## Contributor

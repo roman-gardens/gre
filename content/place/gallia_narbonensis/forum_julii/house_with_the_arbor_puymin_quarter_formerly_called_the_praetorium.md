@@ -89,11 +89,11 @@ A.D. 1-100 Considerable extension to the northeast
 
 ## Bibliography
 
-1. *La Maison Urbaine D'époque Romaine*. Avignon: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 80-81. [(worldcat)](http://www.worldcat.org/oclc/717347715)
+1. *La Maison Urbaine D'époque Romaine*. Avignon: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 80-81. [(worldcat)](https://search.worldcat.org/title/717347715)
 
-2. Chr.  Goudineau,  Y.  de  Kisch,  Vaison-la-Romaine,  Guide  archéologique  de  France,  1999,  1ère  éd. 1984,  P. 74-77; [(worldcat)](http://www.worldcat.org/oclc/807347615)
+2. Chr.  Goudineau,  Y.  de  Kisch,  Vaison-la-Romaine,  Guide  archéologique  de  France,  1999,  1ère  éd. 1984,  P. 74-77; [(worldcat)](https://search.worldcat.org/title/807347615)
 
-3. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.267-274. [(worldcat)](http://www.worldcat.org/oclc/905795401)
+3. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.267-274. [(worldcat)](https://search.worldcat.org/title/905795401)
 
 
 ## Pleiades ID

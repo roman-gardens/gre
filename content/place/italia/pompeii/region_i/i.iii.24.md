@@ -41,15 +41,15 @@ At the rear of the house, excavated in 1868, there was a [peristyle](http://voca
 
 ## Bibliography
 
-* Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 24, no.261 [(worldcat)](https://www.worldcat.org/title/corpus-of-the-lararia-of-pompeii/oclc/892026154&referer=brief_results)  
-* Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, pp. 74, 150, no. 456 [(worldcat)](https://www.worldcat.org/title/giornale-degli-scavi-di-pompei/oclc/10781121)  
-* Fiorelli, G. 1875. *Descrizione di Pompei*, pp. 56-57 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)    
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 28, 313   [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+* Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 24, no.261 [(worldcat)](https://search.worldcat.org/title/892026154)  
+* Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, pp. 74, 150, no. 456 [(worldcat)](https://search.worldcat.org/title/10781121)  
+* Fiorelli, G. 1875. *Descrizione di Pompei*, pp. 56-57 [(worldcat)](https://search.worldcat.org/title/9528380)    
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 28, 313   [(worldcat)](https://search.worldcat.org/title/222353569)  
 * Matz, F. 1869. *BdI*, pp. 239-240  
 * Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 78    
 * Schefold, n.d. *WandP*, p. 13  
 * Sogliano, A., 1879. *Le pitture murali campane scoverte negli anni 1867-79. Napoli: Giannini*, p. 225, no. 705  
-* Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://www.worldcat.org/title/codex-topographicus-pompeianus-1937-1957-and-undated/oclc/974375313&referer=brief_results), nos. 54  
+* Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://search.worldcat.org/title/974375313), nos. 54  
 
 
 ## Pleiades ID

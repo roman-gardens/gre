@@ -42,10 +42,10 @@ This garden contains a [cistern](http://vocab.getty.edu/page/aat/300052558) open
 
 ## Bibliography
 
-* Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 24, no.30 [(worldcat)](https://www.worldcat.org/title/corpus-of-the-lararia-of-pompeii/oclc/892026154&referer=brief_results)     
+* Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 24, no.30 [(worldcat)](https://search.worldcat.org/title/892026154)     
 * Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 68    
-* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 66 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)    
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 34 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 66 [(worldcat)](https://search.worldcat.org/title/9528380)    
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 34 [(worldcat)](https://search.worldcat.org/title/222353569)  
 * Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 79  
 
 

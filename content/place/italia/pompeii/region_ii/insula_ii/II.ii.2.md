@@ -66,8 +66,8 @@ A masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) stood to the e
 
 ## Bibliography
 Döhl, H. 1976. *Plastik aus Pompeji*, Habilitationsschrift, Göttingen, p.6.  
-W. F. Jashemski, 1979, *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius, pp.46-47* [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)  
-W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.82-83.* [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+W. F. Jashemski, 1979, *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius, pp.46-47* [(worldcat)](https://search.worldcat.org/title/312003872)  
+W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.82-83.* [(worldcat)](https://search.worldcat.org/title/222353569)  
 Balázs Kapossy, 1969, *Brunnenfiguren der hellenistischen und römischen Zeit, p.40.*
 John Goldicutt and Norman Neuerburg, 2016, *Specimens of Ancient Decorations from Pompeii, p. 119, no.20.*  
 Erich Pernice and Franz Winter, 1925, *Gefässe und Geräthe aus BronzeDie Hellenistische Kunst in Pompeii, 5, p.49.*  

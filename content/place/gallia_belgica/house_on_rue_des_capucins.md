@@ -64,7 +64,7 @@ Unspecified
 
 ## Bibliography
 - F. Berthelot, L’archéologie urbaine à Reims, in *L’archéologie en Champagne-Ardenne*, 1960-1990, *Bulletin de la société archéologique champenoise,* t. 85, 1992, 4, p. 283-287.  <!-- not on worldcat -->
-- A. Balmelle, R. Neiss, Les maisons de l’élite à *Durocortorum*, in Archéologie urbaine à Reims, *Bulletin de la société archéologique champenoise,* t. 96, 2003, 4, p. 73.  [(worldcat)](http://www.worldcat.org/oclc/718698064)
+- A. Balmelle, R. Neiss, Les maisons de l’élite à *Durocortorum*, in Archéologie urbaine à Reims, *Bulletin de la société archéologique champenoise,* t. 96, 2003, 4, p. 73.  [(worldcat)](https://search.worldcat.org/title/718698064)
 
 
 ## Pleiades ID

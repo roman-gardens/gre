@@ -31,13 +31,13 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Bibliography
-- J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](http://www.worldcat.org/oclc/1090911182)
+- J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
 
-- P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](http://www.worldcat.org/oclc/640067386)
+- P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](https://search.worldcat.org/title/640067386)
 
--  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](http://www.worldcat.org/oclc/803415143)
+-  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
 
-- M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](http://www.worldcat.org/oclc/940998520)
+- M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
 
 ## Location
@@ -52,11 +52,11 @@ It was identified as a Roman site by scholars in the 16th century. A plan publis
 The steep sides of the meseta and its height above the surrounding plain clearly made the site defensible, but at the same time posed a problem of water supply, especially for the gardens and extensive baths.  Aqueducts were out of the question; elevated spans nearly twice the height of the Pont du Gard and many kilometers long would have been necessary. The solution lay in a series of natural caverns in the limestone which the Romans connected and dammed up with locks at the outlet at the northern end.  These structures turned the whole meseta into a catch basin for water during the rainy season. They held some 1.5 million liters.  The water level was about 15 meters below the ground level at the baths and about 20 meters below at House 1.  Such a depth meant that it was worthwhile to catch water in cisterns near the surface, but the bottoms of some 15 conical wells into the caverns leave no doubt that the water was used in dry periods.  The structures were identified in 1913 by Vicente Hinojal; further explored in 1976 and 1977 by Pedro de Palol; and then thoroughly explored and mapped beginning in 1981 by archaeologists in collaboration with the local speleological group. Further geophysical study was underway in 2004.  
 
 ## Bibliography
-- B. Taracena Aguirre, *El palacio romano de Clunia*, in Archivo Español de Arqueología, XIX. C.S.I.C., Madrid, 1946, pp.78-80 [(worldcat)](http://www.worldcat.org/oclc/567842688)
+- B. Taracena Aguirre, *El palacio romano de Clunia*, in Archivo Español de Arqueología, XIX. C.S.I.C., Madrid, 1946, pp.78-80 [(worldcat)](https://search.worldcat.org/title/567842688)
 
-- A. Balil Iliana, *Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana*, in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid,  1972, pp. 125-133 [(worldcat)](http://www.worldcat.org/oclc/7243478)
+- A. Balil Iliana, *Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana*, in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid,  1972, pp. 125-133 [(worldcat)](https://search.worldcat.org/title/7243478)
 
--  P. de Palol, *Clunia, Historia de la ciudad y guía de las excavaciones*. Diputación Provincial de Burgos, 1994 [(worldcat)](http://www.worldcat.org/oclc/34212878)
+-  P. de Palol, *Clunia, Historia de la ciudad y guía de las excavaciones*. Diputación Provincial de Burgos, 1994 [(worldcat)](https://search.worldcat.org/title/34212878)
 
 - On the underground water system, see L. Valdés, F. Tuset, J. Reina, M. Farjas, *Colonia Clunia Sulpicia*  at  public-repository.epoch-net.org/publications/VAST2004/37-44.pdf.
 

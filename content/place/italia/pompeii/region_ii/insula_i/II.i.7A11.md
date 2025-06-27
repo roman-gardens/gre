@@ -45,9 +45,9 @@ A. (Entrance 7A) A square garden area was tucked behind two rooms. The beginning
 B. (Entrance 11) The two rooms in back of this area were an industrial complex, and the large rectangular area in front was entered directly from the street.  This had been cleared, probably after the earthquake (AD 62), and used as a garden. The industrial areas were likely also connected to the House of the Sibyl (II.i.12) after AD 62.
 
 ## Bibliography
-W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.76.* [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
-Armando La Porta, Laurentino García y García, Joan McConnell and Halsted B. Van der Poel, 1983, *Corpus topographicum Pompeianum Pars II, p.234* [(worldcat)](https://www.worldcat.org/title/corpus-topographicum-pompeianum/oclc/8667821)  
-Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 1986, *Corpus topographicum Pompeianum Pars IIIA, p.40-41* [(worldcat)](https://www.worldcat.org/title/corpus-topographicum-pompeianum/oclc/8667821)  
+W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.76.* [(worldcat)](https://search.worldcat.org/title/222353569)  
+Armando La Porta, Laurentino García y García, Joan McConnell and Halsted B. Van der Poel, 1983, *Corpus topographicum Pompeianum Pars II, p.234* [(worldcat)](https://search.worldcat.org/title/8667821)  
+Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 1986, *Corpus topographicum Pompeianum Pars IIIA, p.40-41* [(worldcat)](https://search.worldcat.org/title/8667821)  
 PompeiiinPictures, 2018, *II.1.11 Pompeii. Large garden yard. Linked to II.1.12.* [(PompeiiinPictures)](https://pompeiiinpictures.com/pompeiiinpictures/R2/2%2001%2011.htm)  
 PompeiiinPictures, 2018, *II.1.12 Pompeii. Complesso dei Riti magici or Magic Rites Complex or Casa di Biria, Sibilla pompeiana or Officina Magica of Sextilius Pyrricus.* [(PompeiiinPictures)](https://pompeiiinpictures.com/pompeiiinpictures/R2/2%2001%2012.htm)  
 

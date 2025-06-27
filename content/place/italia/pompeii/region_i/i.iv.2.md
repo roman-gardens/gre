@@ -44,8 +44,8 @@ This [peristyle](http://vocab.getty.edu/page/aat/300080971) garden had two entra
 ## Bibliography
 
 * Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 65  
-* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 60 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)    
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 29 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 60 [(worldcat)](https://search.worldcat.org/title/9528380)    
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 29 [(worldcat)](https://search.worldcat.org/title/222353569)  
 * Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 79  
 
 

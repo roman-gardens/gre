@@ -50,9 +50,9 @@ Three wide doorways led from the atrium of this house, which did not have a tabl
 Unspecified
 
 ## Bibliography
-* Fiorelli, *Descrizione di Pompei*, p. 447 (address given as VIII.vi.10-11) [(worldcat)](http://www.worldcat.org/oclc/252039996)
-* Jashemski, *Gardens*, vol. II, p. 217 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 230-231 [(worldcat)](http://www.worldcat.org/oclc/823239162)
+* Fiorelli, *Descrizione di Pompei*, p. 447 (address given as VIII.vi.10-11) [(worldcat)](https://search.worldcat.org/title/252039996)
+* Jashemski, *Gardens*, vol. II, p. 217 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 230-231 [(worldcat)](https://search.worldcat.org/title/823239162)
 
 
 ## Contributor

@@ -62,7 +62,7 @@ A tomb garden (Tomb Complex 15) has been found in a cemetery complex dating to t
 fourth century CE
 
 ## Bibliography
-- M. H. Chéhab, *Fouilles de Tyr: La Necropole*. Paris: Bulletin du Musée de Beyrouth XXXIV (1984): 270-280. [(worldcat)](http://www.worldcat.org/oclc/490791677)
+- M. H. Chéhab, *Fouilles de Tyr: La Necropole*. Paris: Bulletin du Musée de Beyrouth XXXIV (1984): 270-280. [(worldcat)](https://search.worldcat.org/title/490791677)
 - L. De Jong, “Performing Death in Tyre:  The Life and Afterlife of a Roman Cemetery in the Province of Syria. *AJA* 114.4 (Oct. 2010) pp. 597-630. [(jstor)](https://www.jstor.org/stable/25763804)
 
 ## Pleiades ID

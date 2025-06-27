@@ -78,9 +78,9 @@ unspecified
 
 ## Bibliography
 
-- Jashemski, *Gardens*, vol.II, p. 370 [(worldcat)](http://www.worldcat.org/oclc/1029851777)
-- Maiuri, *Herculaneum*, pp. 32 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
-- Maiuri, *Ercolano*, pp. 424 and fig. 365 (plan) on p. 424. [(worldcat)](http://www.worldcat.org/oclc/490581395)
+- Jashemski, *Gardens*, vol.II, p. 370 [(worldcat)](https://search.worldcat.org/title/1029851777)
+- Maiuri, *Herculaneum*, pp. 32 [(worldcat)](https://search.worldcat.org/title/1107784297)
+- Maiuri, *Ercolano*, pp. 424 and fig. 365 (plan) on p. 424. [(worldcat)](https://search.worldcat.org/title/490581395)
 
 ## Contributor
 

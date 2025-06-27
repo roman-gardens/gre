@@ -83,10 +83,10 @@ Domus of the Sea Front (Villa du front de mer)
 
 
 ## Bibliography
-* Lavergne, D., "Le quartier ‘des villae du front de mer", in *Hippone*, Ed. X. Delestre Ed., Aix en Provence, 2005, p. 127-138, plan phase 2. [(worldcat)](http://www.worldcat.org/oclc/934188719)
-* Marec, E., *Hippone, antique Hippo Regius*, 1950, pp. 42-53, figs. 19, 21, 67. [(worldcat)](http://www.worldcat.org/oclc/1108887226)
-* Morel, J.P., "Recherches stratigraphiques à Hippone", in *BAA*, III, 1968, pp.35-84. [(worldcat)](http://www.worldcat.org/oclc/849065879)
-* Pachtere, F.-G. DE, "Les nouvelles fouilles d'Hippone", in *MEFR*, XXXI, 1911, pp. 321-47, pl. XlII, XV (plan). [(worldcat)](https://www.worldcat.org/oclc/888306109)
+* Lavergne, D., "Le quartier ‘des villae du front de mer", in *Hippone*, Ed. X. Delestre Ed., Aix en Provence, 2005, p. 127-138, plan phase 2. [(worldcat)](https://search.worldcat.org/title/934188719)
+* Marec, E., *Hippone, antique Hippo Regius*, 1950, pp. 42-53, figs. 19, 21, 67. [(worldcat)](https://search.worldcat.org/title/1108887226)
+* Morel, J.P., "Recherches stratigraphiques à Hippone", in *BAA*, III, 1968, pp.35-84. [(worldcat)](https://search.worldcat.org/title/849065879)
+* Pachtere, F.-G. DE, "Les nouvelles fouilles d'Hippone", in *MEFR*, XXXI, 1911, pp. 321-47, pl. XlII, XV (plan). [(worldcat)](https://search.worldcat.org/title/888306109)
 
 
 

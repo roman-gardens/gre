@@ -69,8 +69,8 @@ late 3rd century CE, rebuilt and enlarged in the mid-4th century
 
 ## Bibliography
 
-* R. J. Williams and R. J. Zeepvat, Bancroft. *The late Bronze Age and Iron Age Settlement and Roman Villa and Temple-Mausoleum*. Buckinghamshire Archaeological Society Monograph Series 7, Aylesbury, 1994, pp. 154, 163, 188-191, figs. 66, 80, 83, 85, 93, 101-103, pls. 57-59. [(worldcat)](http://www.worldcat.org/oclc/669708984)
-* R.J. Zeepvat, “Roman Gardens in Britain,” in: A. E. Brown, ed., *Garden Archaeology*. Council for British Archaeology Research Report 78, London, 1991, pp. 56-58, fig. 5.4. [(worldcat)](http://www.worldcat.org/oclc/911653165)
+* R. J. Williams and R. J. Zeepvat, Bancroft. *The late Bronze Age and Iron Age Settlement and Roman Villa and Temple-Mausoleum*. Buckinghamshire Archaeological Society Monograph Series 7, Aylesbury, 1994, pp. 154, 163, 188-191, figs. 66, 80, 83, 85, 93, 101-103, pls. 57-59. [(worldcat)](https://search.worldcat.org/title/669708984)
+* R.J. Zeepvat, “Roman Gardens in Britain,” in: A. E. Brown, ed., *Garden Archaeology*. Council for British Archaeology Research Report 78, London, 1991, pp. 56-58, fig. 5.4. [(worldcat)](https://search.worldcat.org/title/911653165)
 
 ## Pleiades ID
 

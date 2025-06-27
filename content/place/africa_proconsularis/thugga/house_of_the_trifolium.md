@@ -55,10 +55,10 @@ This house is the largest excavated to-date at Thugga. It appears to date from t
 Early 3rd century CE
 
 ## Bibliography
-* Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](http://www.worldcat.org/oclc/7380877046)
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia roman*, Rome: Edizioni Quasar, 2003, pp.274-276. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](https://search.worldcat.org/title/7380877046)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia roman*, Rome: Edizioni Quasar, 2003, pp.274-276. [(worldcat)](https://search.worldcat.org/title/989088620)
 *  Hiesel, G., Strocka, V. M., "Vorberchicht Über die Grabungen 1996-2000", in *Thugga, I, Grundlagen und Bericht*, Ed. M. Kanoussi, V. M. Strocka, pp. 75-76, 78, Abb. I
-*  Poinssot, C., *Les ruines de Dougga*, Tunis, 1958, p. 53: plan, général n°18. [(worldcat)](http://www.worldcat.org/oclc/475099061)
+*  Poinssot, C., *Les ruines de Dougga*, Tunis, 1958, p. 53: plan, général n°18. [(worldcat)](https://search.worldcat.org/title/475099061)
 * Plan from http://www.dougga.rnrt.tn/file/plan_maison_trifolium.pdf
 
 ## Pleiades_ID

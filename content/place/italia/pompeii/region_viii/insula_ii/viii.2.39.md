@@ -51,18 +51,18 @@ This was the last of the houses to be built on the Via della Regina, all of whic
 First excavated in 1767-1769, Filled in. Re-excavated in 1885-1886
 
 ## Bibliography
-* Döhl, *Plastik aus Pompeji*, p. 43 [(worldcat)](http://www.worldcat.org/oclc/52662796)
-* Dyer, *Pompeii*, 3rd ed. p. 439 [(worldcat)](http://www.worldcat.org/oclc/24327166)
-* Fiorelli, *Descrizione di Pompei*, p. 446 [(worldcat)](http://www.worldcat.org/oclc/1198324804)
-* Grimal, *Les jardins romains*, 3rd ed. p. 269, no.1 [(worldcat)](http://www.worldcat.org/oclc/797276280)
-* Jashemski, *Gardens*, vol. II, pp. 209, 401 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1887), pp. 126, 131 and pl.6, figs. 1 and 2, p. 120, no. 17 [(worldcat)](http://www.worldcat.org/oclc/860559196)
-* Mau, *Pompeii: Its Life and Art*, 2nd ed, Trans. by Kelsey, pp. 344-346 and fig. 176 (plan) on p. 345 [(worldcat)](http://www.worldcat.org/oclc/1079839724)
-* Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees*, vol. 2:73-74 and pls. 32, 33 (plans) [(worldcat)](http://www.worldcat.org/oclc/1707639)
-* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi,” p. 3 [(worldcat)](http://www.worldcat.org/oclc/906755593)
-* Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 18-30 passim, pls. 3 (plan) and 21 (reconstruction) [(worldcat)](http://www.worldcat.org/oclc/486835478)
-* Fiorelli, ed. *Pompeianarum Antiquitatum Historia*, vol. 1, pt. 1 pp. 210, 211 (Aug.14, 22, 29, 1767)[(worldcat)](http://www.worldcat.org/oclc/714988573)
-* Schefold, *Die Wände Pompejis*, p. 218 [(worldcat)][http://www.worldcat.org/oclc/1100462668)
+* Döhl, *Plastik aus Pompeji*, p. 43 [(worldcat)](https://search.worldcat.org/title/52662796)
+* Dyer, *Pompeii*, 3rd ed. p. 439 [(worldcat)](https://search.worldcat.org/title/24327166)
+* Fiorelli, *Descrizione di Pompei*, p. 446 [(worldcat)](https://search.worldcat.org/title/1198324804)
+* Grimal, *Les jardins romains*, 3rd ed. p. 269, no.1 [(worldcat)](https://search.worldcat.org/title/797276280)
+* Jashemski, *Gardens*, vol. II, pp. 209, 401 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1887), pp. 126, 131 and pl.6, figs. 1 and 2, p. 120, no. 17 [(worldcat)](https://search.worldcat.org/title/860559196)
+* Mau, *Pompeii: Its Life and Art*, 2nd ed, Trans. by Kelsey, pp. 344-346 and fig. 176 (plan) on p. 345 [(worldcat)](https://search.worldcat.org/title/1079839724)
+* Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees*, vol. 2:73-74 and pls. 32, 33 (plans) [(worldcat)](https://search.worldcat.org/title/1707639)
+* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi,” p. 3 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 18-30 passim, pls. 3 (plan) and 21 (reconstruction) [(worldcat)](https://search.worldcat.org/title/486835478)
+* Fiorelli, ed. *Pompeianarum Antiquitatum Historia*, vol. 1, pt. 1 pp. 210, 211 (Aug.14, 22, 29, 1767)[(worldcat)](https://search.worldcat.org/title/714988573)
+* Schefold, *Die Wände Pompejis*, p. 218 [(worldcat)][https://search.worldcat.org/title/1100462668)
 
 
 ## Contributor

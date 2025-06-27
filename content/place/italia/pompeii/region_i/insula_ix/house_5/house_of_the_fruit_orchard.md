@@ -84,11 +84,11 @@ unspecified
 
 ## Bibliography
 
-* <span style="color:green">Jashemski, *Gardens*, 1:74-77 and figs. 117, 118, 120, 122 on p. 74-76, fig. 126 on p. 78, figs. 171-173 on pp. 106-107, and fig. 408 on p. 274. [(worldcat)](http://www.worldcat.org/oclc/884024123)</span>
-* Idem, *Gardens*, vol.II, pp. 44, <span style="color:green">317-320. </span>[(worldcat)](http://www.worldcat.org/oclc/921816405)
+* <span style="color:green">Jashemski, *Gardens*, 1:74-77 and figs. 117, 118, 120, 122 on p. 74-76, fig. 126 on p. 78, figs. 171-173 on pp. 106-107, and fig. 408 on p. 274. [(worldcat)](https://search.worldcat.org/title/884024123)</span>
+* Idem, *Gardens*, vol.II, pp. 44, <span style="color:green">317-320. </span>[(worldcat)](https://search.worldcat.org/title/921816405)
 * <span style="color:green">Bastet, p. 75.</span>
 * <span style="color:green">De Vos, *Guida*, p. 124.</span>
-* <span style="color:green">Idem, *Rom.Paint.*, pp. 127-129. [(worldcat)](http://www.worldcat.org/oclc/1016254127)</span>
+* <span style="color:green">Idem, *Rom.Paint.*, pp. 127-129. [(worldcat)](https://search.worldcat.org/title/1016254127)</span>
 * <span style="color:green">Le Corsu, “Un oratoire pompéien consacré à Dionysos-Osiris,” *RevueArch*, fasc. 2 (1967): 239, 242-249 (little mention of plant material).</span>
 * <span style="color:green">Maiuri, *BdA*, (1952), pp. 7-9.</span>
 * <span style="color:green">Michel, pp. 386-390.</span>

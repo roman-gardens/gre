@@ -58,16 +58,16 @@ This house was excavated in 1799 and to the rear of the tablinium there was a po
 1799
 
 ## Bibliography
-* Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 74 [(worldcat)](http://www.worldcat.org/oclc/1131425884)
-* Breton, *Pompeia*, 3rd ed. p. 502 [(worldcat)](http://www.worldcat.org/oclc/894211341)
-* Dyer, *Pompeii*, 3rd ed. p. 441 [(worldcat)](http://www.worldcat.org/oclc/24327166)
-* Fiorelli, *Descrizione di Pompei*, p. 442 [(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol. II, p. 205 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Maiuri, *Notizie degli scavi di Antichita* (1933), p. 272 [(worldcat)](http://www.worldcat.org/oclc/46875519)
-* Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees* (1809-1810-1811), 2:62 and pls. 21 (plan), 22 [(worldcat)](http://www.worldcat.org/oclc/1707639)
-* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 3, “Topografia,” pl. 6 (plan) [(worldcat)](http://www.worldcat.org/oclc/906755593)
-* Noack and Lehmann-Hartleben, *Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 114-121 passim and figs. 32 on p. 116, 33 on p. 117 (plans) and pl. 17 (plan), pl. 26 (reconstruction) [(worldcat)](http://www.worldcat.org/oclc/876087879)
-* Fiorelli,ed. *Pompeianarum Antiquitatum Historia* (May 16, 1800),  vol. 1, pt. 2, p. 173 [(worldcat)](http://www.worldcat.org/oclc/714988573)
+* Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 74 [(worldcat)](https://search.worldcat.org/title/1131425884)
+* Breton, *Pompeia*, 3rd ed. p. 502 [(worldcat)](https://search.worldcat.org/title/894211341)
+* Dyer, *Pompeii*, 3rd ed. p. 441 [(worldcat)](https://search.worldcat.org/title/24327166)
+* Fiorelli, *Descrizione di Pompei*, p. 442 [(worldcat)](https://search.worldcat.org/title/908272023)
+* Jashemski, *Gardens*, vol. II, p. 205 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Maiuri, *Notizie degli scavi di Antichita* (1933), p. 272 [(worldcat)](https://search.worldcat.org/title/46875519)
+* Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees* (1809-1810-1811), 2:62 and pls. 21 (plan), 22 [(worldcat)](https://search.worldcat.org/title/1707639)
+* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 3, “Topografia,” pl. 6 (plan) [(worldcat)](https://search.worldcat.org/title/906755593)
+* Noack and Lehmann-Hartleben, *Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 114-121 passim and figs. 32 on p. 116, 33 on p. 117 (plans) and pl. 17 (plan), pl. 26 (reconstruction) [(worldcat)](https://search.worldcat.org/title/876087879)
+* Fiorelli,ed. *Pompeianarum Antiquitatum Historia* (May 16, 1800),  vol. 1, pt. 2, p. 173 [(worldcat)](https://search.worldcat.org/title/714988573)
 
 
 ## Contributor

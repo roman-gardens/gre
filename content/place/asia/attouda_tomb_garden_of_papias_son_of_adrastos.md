@@ -82,7 +82,7 @@ A marble slab found immured in a house wall at Hisarköy (Attouda) in Caria near
 
 ## Bibliography
 - *Monumenta Asiae Minoris Antiquae*. Manchester and London, 1928-1993, VI, 83. [(worldcat)](https://www.jstor.org/stable/4341001)
-- J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, p. 145. [(worldcat)](http://www.worldcat.org/oclc/164233326)
+- J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, p. 145. [(worldcat)](https://search.worldcat.org/title/164233326)
 
 ## Pleiades ID
 

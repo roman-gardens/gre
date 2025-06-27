@@ -43,9 +43,9 @@ This garden restaurant was strategically located across from the Palaestra. This
 1951-1953.
 
 ## Bibliography
-- Jashemski, Wilhelmina F, 1979. *The Gardens of Pompeii, Herculaneum, and the Villas Destroyed by Vesuvius,* New Rochelle: Aristide D. Caratzas, 1:176.  [worldcat](http://www.worldcat.org/oclc/884024123)
-- Jashemski, Wilhelmina F, 1993. *The Gardens of Pompeii, Herculaneum, and the Villas Destroyed by Vesuvius, vol.II*, p. 85. [worldcat](http://www.worldcat.org/oclc/769881162)
-- Della, Corte M. 1954. *Case Ed Abitanti Di Pompei. Pompei-scavi:*. [worldcat](http://www.worldcat.org/oclc/878618392)
+- Jashemski, Wilhelmina F, 1979. *The Gardens of Pompeii, Herculaneum, and the Villas Destroyed by Vesuvius,* New Rochelle: Aristide D. Caratzas, 1:176.  [worldcat](https://search.worldcat.org/title/884024123)
+- Jashemski, Wilhelmina F, 1993. *The Gardens of Pompeii, Herculaneum, and the Villas Destroyed by Vesuvius, vol.II*, p. 85. [worldcat](https://search.worldcat.org/title/769881162)
+- Della, Corte M. 1954. *Case Ed Abitanti Di Pompei. Pompei-scavi:*. [worldcat](https://search.worldcat.org/title/878618392)
 
 
 ## Pleiades ID

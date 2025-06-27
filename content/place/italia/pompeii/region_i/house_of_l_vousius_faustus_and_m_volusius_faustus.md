@@ -95,17 +95,17 @@ unspecified
 ## Bibliography
 
 * Boyce, p. 22, no. 6.
-* Fiorelli, *Descr.*, p. 42. [(worldcat)](http://www.worldcat.org/oclc/908272023)
+* Fiorelli, *Descr.*, p. 42. [(worldcat)](https://search.worldcat.org/title/908272023)
 * <span style="color:green"> *GiornSc*, n.s., 3 (1874-1877), col. 57. </span>
-* Jashemski, *Gardens*, 1:1 10-1 1 1. [(worldcat)](http://www.worldcat.org/oclc/884024123)
-* Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](http://www.worldcat.org/oclc/921816405)
-* <span style="color:green"> Jashemski, *Gardens*, vol.II, p. 313. [(worldcat)](http://www.worldcat.org/oclc/921816405)</span>
+* Jashemski, *Gardens*, 1:1 10-1 1 1. [(worldcat)](https://search.worldcat.org/title/884024123)
+* Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](https://search.worldcat.org/title/921816405)
+* <span style="color:green"> Jashemski, *Gardens*, vol.II, p. 313. [(worldcat)](https://search.worldcat.org/title/921816405)</span>
 * Mau, *BdI* (1874), pp. 197-198.
 * Niccolini, *Case*, vol. 2, “Descr. Gen.,” p. 76.
-* <span style="color:green"> Schefold, *WandP*, p. 9 (describes this painting as a *paradeisos*, with sea, deer, panther, and nymphaeum). [(worldcat)](http://www.worldcat.org/oclc/637248120) </span>
-* <span style="color:green"> Sogliano, “Pitture,” p. 224, no. 694. [(worldcat)](http://www.worldcat.org/oclc/826597580) </span>
+* <span style="color:green"> Schefold, *WandP*, p. 9 (describes this painting as a *paradeisos*, with sea, deer, panther, and nymphaeum). [(worldcat)](https://search.worldcat.org/title/637248120) </span>
+* <span style="color:green"> Sogliano, “Pitture,” p. 224, no. 694. [(worldcat)](https://search.worldcat.org/title/826597580) </span>
 * Soprano, p.305, no. 23.
-* Viola, “*Scavi*” p. 11. [(worldcat)](http://www.worldcat.org/oclc/715087975)
+* Viola, “*Scavi*” p. 11. [(worldcat)](https://search.worldcat.org/title/715087975)
 
 ## Pleiades ID
 

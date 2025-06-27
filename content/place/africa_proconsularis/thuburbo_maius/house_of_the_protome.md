@@ -61,8 +61,8 @@ The *Trifolium* sector, was laid out around a peristyle garden (I-V) enclosed on
 
 ## Bibliography
 
-*  Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987, pp. 27-60, plan 4-5. [(worldcat)](http://www.worldcat.org/oclc/20058336)
-*  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.245-248. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+*  Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987, pp. 27-60, plan 4-5. [(worldcat)](https://search.worldcat.org/title/20058336)
+*  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.245-248. [(worldcat)](https://search.worldcat.org/title/989088620)
 
 
 ## Pleiades_ID

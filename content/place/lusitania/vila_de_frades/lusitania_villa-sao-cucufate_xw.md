@@ -80,7 +80,7 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 
 
 ## Bibliography
-- J. G. Gorges, pp. 124 and 477; J. de Alarcão, S. Cucufate. Roteiros da Arqueologia Portuguesa 5. Instituto Portugues do Patrimonio Arquitectónico, 1988. [(worldcat)](http://www.worldcat.org/oclc/54521562)
+- J. G. Gorges, pp. 124 and 477; J. de Alarcão, S. Cucufate. Roteiros da Arqueologia Portuguesa 5. Instituto Portugues do Patrimonio Arquitectónico, 1988. [(worldcat)](https://search.worldcat.org/title/54521562)
 
 ## Pleiades ID
 

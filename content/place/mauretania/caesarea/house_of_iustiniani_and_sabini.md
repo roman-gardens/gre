@@ -70,10 +70,10 @@ In the southwestern corner, a small room protrudes into the gallery and opens in
 
 ## Bibliography
 
-*  Baghli, S. A.，Février, P.-A., "Travaux et recherches en 1966-1967", in *Bulletin d’archéologie algérienne*, t.2, p.1 and t.3, p.2-4. [(worldcat)](http://www.worldcat.org/oclc/491481018)
-* Ferdi S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p.149. [(worldcat)](http://www.worldcat.org/oclc/1006126274)
-* Lassus, J., "L'archéologie algérienne en 1959 et 1960", R. Af., 1961, p.441 and "La mosaïque de Thétis et Pélée", in *Bulletin d’archéologie algérienne*, t.1, 1962-1965, p.103. [(hathitrust)](https://catalog.hathitrust.org/Record/008568139)[(worldcat)](http://www.worldcat.org/oclc/491480973)
-* Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie", in *Antiquités africaines*, t.18, 1982, pp.136-38. [(worldcat)](http://www.worldcat.org/oclc/4797426670)
+*  Baghli, S. A.，Février, P.-A., "Travaux et recherches en 1966-1967", in *Bulletin d’archéologie algérienne*, t.2, p.1 and t.3, p.2-4. [(worldcat)](https://search.worldcat.org/title/491481018)
+* Ferdi S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p.149. [(worldcat)](https://search.worldcat.org/title/1006126274)
+* Lassus, J., "L'archéologie algérienne en 1959 et 1960", R. Af., 1961, p.441 and "La mosaïque de Thétis et Pélée", in *Bulletin d’archéologie algérienne*, t.1, 1962-1965, p.103. [(hathitrust)](https://catalog.hathitrust.org/Record/008568139)[(worldcat)](https://search.worldcat.org/title/491480973)
+* Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie", in *Antiquités africaines*, t.18, 1982, pp.136-38. [(worldcat)](https://search.worldcat.org/title/4797426670)
 
 ## Pleiades ID
 

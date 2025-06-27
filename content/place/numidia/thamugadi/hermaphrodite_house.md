@@ -78,9 +78,9 @@ The large house was laid out around a large peristyle of 22 columns. In the axis
 3rd century CE?
 
 ## Bibliography
-* Ballu, A., *Les ruines de Timgad*, Paris, 1903, p. 90-94. [(worldcat)](http://www.worldcat.org/oclc/804848941)
-* Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](http://www.worldcat.org/oclc/23396951)
-* Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 65, fig. 7. [(worldcat)](http://www.worldcat.org/oclc/643640586)
+* Ballu, A., *Les ruines de Timgad*, Paris, 1903, p. 90-94. [(worldcat)](https://search.worldcat.org/title/804848941)
+* Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
+* Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 65, fig. 7. [(worldcat)](https://search.worldcat.org/title/643640586)
 
 ## Pleiades ID
 

@@ -80,11 +80,11 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 2nd-3rd century CE
 
 ## Bibliography
-* Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](http://www.worldcat.org/oclc/23396951)
-* Malek, A.-A., "Le Jardin Dans Les Sanctuaires De L'afrique Romaine: Premières Approches.", in *Du Culte Aux Sanctuaires : L'architecture Religieuse Dans L'afrique Romaine Et Byzantine : Actes Du Colloque*, 18-19 Avril 2013, Paris, Fondation Simone Et Cino Del Duca... -. (2018), p. 362, fig. 12. [(worldcat)](http://www.worldcat.org/oclc/1201712466)
-*  Lassus, J., *La forteresse byzantine de Thamugadi, Fouilles à Timgad*, 1938-1956, Paris, 1981, plan p. 25, fig. 9, pp. 215-17, fig. 174-76. [(worldcat)](http://www.worldcat.org/oclc/906459184)
-*  Leschi, L., "Découvertes récentes à Timgad: Aqua Septimiana Felix", in *CRAI*, 1947, pp. 87-99. [(worldcat)](http://www.worldcat.org/oclc/4649794390)
-*  Leschi, L., *Etudes d'épigraphie, d'archéologie et d'histoire africaines*, Paris, 1957, pp. 240-45, ici pp. 242. [(worldcat)](http://www.worldcat.org/oclc/78689255)
+* Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
+* Malek, A.-A., "Le Jardin Dans Les Sanctuaires De L'afrique Romaine: Premières Approches.", in *Du Culte Aux Sanctuaires : L'architecture Religieuse Dans L'afrique Romaine Et Byzantine : Actes Du Colloque*, 18-19 Avril 2013, Paris, Fondation Simone Et Cino Del Duca... -. (2018), p. 362, fig. 12. [(worldcat)](https://search.worldcat.org/title/1201712466)
+*  Lassus, J., *La forteresse byzantine de Thamugadi, Fouilles à Timgad*, 1938-1956, Paris, 1981, plan p. 25, fig. 9, pp. 215-17, fig. 174-76. [(worldcat)](https://search.worldcat.org/title/906459184)
+*  Leschi, L., "Découvertes récentes à Timgad: Aqua Septimiana Felix", in *CRAI*, 1947, pp. 87-99. [(worldcat)](https://search.worldcat.org/title/4649794390)
+*  Leschi, L., *Etudes d'épigraphie, d'archéologie et d'histoire africaines*, Paris, 1957, pp. 240-45, ici pp. 242. [(worldcat)](https://search.worldcat.org/title/78689255)
 
 
 

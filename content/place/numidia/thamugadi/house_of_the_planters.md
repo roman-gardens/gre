@@ -82,10 +82,10 @@ House of the Planters (Maison aux jardinières)
 2nd-3rd century CE?
 
 ## Bibliography
-*  Ballu, A., *Les ruines de Timgad (Antique Thamugadi)*, Paris, 1897, pp. 224-226, plan fig. 36. S. [(worldcat)](http://www.worldcat.org/oclc/1055093825)
-*  Boeswillwald, E., Cagnat, R., Ballu, A.,  *Timgad: une cité africaine sous l'Empire romain*, Paris, Leroux, 1905, pp. 88-92, Plan fig.40.[(worldcat)](http://www.worldcat.org/oclc/156040038)
-* Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](http://www.worldcat.org/oclc/23396951)
-*  Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 37. [(worldcat)](http://www.worldcat.org/oclc/643640586)
+*  Ballu, A., *Les ruines de Timgad (Antique Thamugadi)*, Paris, 1897, pp. 224-226, plan fig. 36. S. [(worldcat)](https://search.worldcat.org/title/1055093825)
+*  Boeswillwald, E., Cagnat, R., Ballu, A.,  *Timgad: une cité africaine sous l'Empire romain*, Paris, Leroux, 1905, pp. 88-92, Plan fig.40.[(worldcat)](https://search.worldcat.org/title/156040038)
+* Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
+*  Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 37. [(worldcat)](https://search.worldcat.org/title/643640586)
 
 ## Pleiades ID
 

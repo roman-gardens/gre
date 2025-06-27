@@ -80,24 +80,24 @@ In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the ga
 
 ## Bibliography
 
-1. Lancha, Janine. *Recueil General Des Mosaïques De La Gaule: Iii*. Paris: CNRS, 1981, P. 259-286.[worldcat](http://www.worldcat.org/oclc/234328026)
+1. Lancha, Janine. *Recueil General Des Mosaïques De La Gaule: Iii*. Paris: CNRS, 1981, P. 259-286.[worldcat](https://search.worldcat.org/title/234328026)
 
 
-2. *Guides Archéologiques De La France*. Saint-Romain-en-Gal: Conseil général du Rhône, Equipe archéologique de Saint-Romain-en-Gal, 1984, P. 57-58[worldcat](http://www.worldcat.org/oclc/234328026)
+2. *Guides Archéologiques De La France*. Saint-Romain-en-Gal: Conseil général du Rhône, Equipe archéologique de Saint-Romain-en-Gal, 1984, P. 57-58[worldcat](https://search.worldcat.org/title/234328026)
 
-3. Lancha, Janine. *Les Mosaïques De Vienne*. Lyon: Presses universitaires de Lyon, 1990, P. 61-75.[worldcat](http://www.worldcat.org/oclc/484477042)
+3. Lancha, Janine. *Les Mosaïques De Vienne*. Lyon: Presses universitaires de Lyon, 1990, P. 61-75.[worldcat](https://search.worldcat.org/title/484477042)
 
-4. *Recherches Archéologiques a Saint-Romain-En-Gal (1988 - 1990)*. Vienne, 1992, P. 86-132.[worldcat](http://www.worldcat.org/oclc/1068996218)
+4. *Recherches Archéologiques a Saint-Romain-En-Gal (1988 - 1990)*. Vienne, 1992, P. 86-132.[worldcat](https://search.worldcat.org/title/1068996218)
 
-5. Prisset, Jean-Luc, Laurence Brissaud, and Odile Leblanc. *Evolution Urbaine À Saint-Romain En-Gal: La Rue Du Commerce Et La Maison Aux Cinq Mosaïques*. Paris: CNRS éd, 1994, P. 1-133. [worldcat](http://www.worldcat.org/oclc/491540838)
+5. Prisset, Jean-Luc, Laurence Brissaud, and Odile Leblanc. *Evolution Urbaine À Saint-Romain En-Gal: La Rue Du Commerce Et La Maison Aux Cinq Mosaïques*. Paris: CNRS éd, 1994, P. 1-133. [worldcat](https://search.worldcat.org/title/491540838)
 
 6. *Maison 1996*, t. II,, p. 384-387
 
-7. *Guide Du Site Saint-Romain-En-Ga*. Paris: Réunion des musées nationaux, 1999, P. 64-69.[worldcat](http://www.worldcat.org/oclc/43416334)
+7. *Guide Du Site Saint-Romain-En-Ga*. Paris: Réunion des musées nationaux, 1999, P. 64-69.[worldcat](https://search.worldcat.org/title/43416334)
 
-8. Gros, Pierre. *L'architecture Romaine Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 161-162.[worldcat](http://www.worldcat.org/oclc/1169743067)
+8. Gros, Pierre. *L'architecture Romaine Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 161-162.[worldcat](https://search.worldcat.org/title/1169743067)
 
-9. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271.[worldcat](http://www.worldcat.org/oclc/43416334)
+9. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271.[worldcat](https://search.worldcat.org/title/43416334)
 
 
 ## Pleiades ID

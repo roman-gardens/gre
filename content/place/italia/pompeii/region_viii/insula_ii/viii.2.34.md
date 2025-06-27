@@ -52,12 +52,12 @@ A colonnaded portico stood at the edge of the terrace (a) on the street level of
 Unspecified
 
 ## Bibliography
-* Jashemski, *Gardens*, vol. II, p. 209 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1886), pp. 152-153, 156, 157 and pls. 7a.2, 3, (plan) [http://www.worldcat.org/oclc/860559196)
-* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi,” p. 19 [(worldcat)](http://www.worldcat.org/oclc/906755593)
-* Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 44-55 passim, and fig. 12 (plan) on p. 52 and pls. 22, 23 (reconstructions) [(worldcat)](http://www.worldcat.org/oclc/486835478)
-* Schefold, *Die Wände Pompejis*, p. 217 [(worldcat)][http://www.worldcat.org/oclc/1100462668)
-* Sogliano, *Notizie degli scavi di Antichita* (1885), p. 257 [(worldcat)](http://www.worldcat.org/oclc/46875519)
+* Jashemski, *Gardens*, vol. II, p. 209 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1886), pp. 152-153, 156, 157 and pls. 7a.2, 3, (plan) [https://search.worldcat.org/title/860559196)
+* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi,” p. 19 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 44-55 passim, and fig. 12 (plan) on p. 52 and pls. 22, 23 (reconstructions) [(worldcat)](https://search.worldcat.org/title/486835478)
+* Schefold, *Die Wände Pompejis*, p. 217 [(worldcat)][https://search.worldcat.org/title/1100462668)
+* Sogliano, *Notizie degli scavi di Antichita* (1885), p. 257 [(worldcat)](https://search.worldcat.org/title/46875519)
 
 
 ## Contributor

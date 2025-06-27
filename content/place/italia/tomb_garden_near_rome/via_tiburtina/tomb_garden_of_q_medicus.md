@@ -48,7 +48,7 @@ An opisthographic marble slab found reused for a Christian tomb (ICUR 8842) in t
 Unspecified
 
 ## Bibliography
-- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian, BCom 92 (1987-88) [1989] 182 n. 48. [worldcat](https://www.worldcat.org/title/horti-sepulchrales-e-cepotaphia-nelle-iscrizioni-urbane/oclc/886794800&referer=brief_results)
+- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian, BCom 92 (1987-88) [1989] 182 n. 48. [worldcat](https://search.worldcat.org/title/886794800)
 
 ## Pleiades ID
 

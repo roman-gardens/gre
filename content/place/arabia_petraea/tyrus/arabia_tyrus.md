@@ -78,17 +78,17 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 2nd century BCE - 1st century CE (Hellenistic-Early Roman period)
 
 ## Bibliography
-- Lapp, N. 1993. "ʻIraq al-Amir," In *The New Encyclopedia of Archaeological Excavations in the Holy Land* IV, edited by E. Stern, *et al*, 1254-1257, Jerusalem. [(worldcat)](http://www.worldcat.org/oclc/850884350)
+- Lapp, N. 1993. "ʻIraq al-Amir," In *The New Encyclopedia of Archaeological Excavations in the Holy Land* IV, edited by E. Stern, *et al*, 1254-1257, Jerusalem. [(worldcat)](https://search.worldcat.org/title/850884350)
 
 - Lapp, P. W., 1963. “The second and third campaigns at Araq-el-Emir,” *Bulletin of the American Schools of Oriental Research* 171: 8-39.(http://www.jstor.org/stable/1355604)
 
 - Netzer, E. 1999. “Floating in the Desert: a pleasure palace in Jordan.” *Archaeology Odyssey* 2/1: 46–55. (https://www.baslibrary.org/archaeology-odyssey/2/1/14)
 
-- Nielsen, I., 1994. *Hellenistic Palaces: Tradition and Renewal*, Aarhhus: Aarhus University Press. [(worldcat)](http://www.worldcat.org/oclc/468433476)
+- Nielsen, I., 1994. *Hellenistic Palaces: Tradition and Renewal*, Aarhhus: Aarhus University Press. [(worldcat)](https://search.worldcat.org/title/468433476)
 
-- Will, E., and F. Larché, 1991. ʻIraq al Amir : le château du Tobiade Hyrcan, Paris: Biblioteque Archeologique et Historique 132. [(worldcat)](https://www.worldcat.org/oclc/231538684)
+- Will, E., and F. Larché, 1991. ʻIraq al Amir : le château du Tobiade Hyrcan, Paris: Biblioteque Archeologique et Historique 132. [(worldcat)](https://search.worldcat.org/title/231538684)
 
-- Zayadine, F. 1997. “Iraq El Amir” In *The Oxford Encyclopedia of the Archaeology of the Near East*, edited by E. Meyers, Oxford. [(worldcat)](https://www.worldcat.org/oclc/1080900665)
+- Zayadine, F. 1997. “Iraq El Amir” In *The Oxford Encyclopedia of the Archaeology of the Near East*, edited by E. Meyers, Oxford. [(worldcat)](https://search.worldcat.org/title/1080900665)
 
 
 ## Pleiades ID

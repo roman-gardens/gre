@@ -86,10 +86,10 @@ According to a secondary inscription carved horizontally, perhaps in the third c
 2nd or 3rd c. B.C.
 
 ## Bibliography
-- E. L. Hicks, *The Collection of Ancient Greek Inscriptions in the British Museum* III.2 Ephesos. Oxford, 1890, no. 625b [(worldcat)](http://www.worldcat.org/oclc/866630869)
-- B. Keil, “Über kleinasiatische Grabinschriften,” *Hermes* 43, 1908:546, n. 1 [(worldcat)](http://www.worldcat.org/oclc/5546821422)
-- J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, pp. 115, 144 [(worldcat)](http://www.worldcat.org/oclc/1164839456)
-- C. Börker and R. Merkelbach, *Die Inschriften von Ephesos, Teil V.* Bonn, 1980 (I.Ephesos V), 1625b. [(worldcat)](http://www.worldcat.org/oclc/1085909921)
+- E. L. Hicks, *The Collection of Ancient Greek Inscriptions in the British Museum* III.2 Ephesos. Oxford, 1890, no. 625b [(worldcat)](https://search.worldcat.org/title/866630869)
+- B. Keil, “Über kleinasiatische Grabinschriften,” *Hermes* 43, 1908:546, n. 1 [(worldcat)](https://search.worldcat.org/title/5546821422)
+- J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, pp. 115, 144 [(worldcat)](https://search.worldcat.org/title/1164839456)
+- C. Börker and R. Merkelbach, *Die Inschriften von Ephesos, Teil V.* Bonn, 1980 (I.Ephesos V), 1625b. [(worldcat)](https://search.worldcat.org/title/1085909921)
 
 
 ## Pleiades ID

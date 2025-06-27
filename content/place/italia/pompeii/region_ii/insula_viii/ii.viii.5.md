@@ -55,7 +55,7 @@ B. Another small garden was found to the rear of the [caupona](http://vocab.gett
 Excavated 1954.
 
 ## Bibliography
-* Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.94 [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.94 [(worldcat)](https://search.worldcat.org/title/921816405)
 
 
 ## Contributor

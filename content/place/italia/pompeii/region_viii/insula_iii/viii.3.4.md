@@ -49,10 +49,10 @@ B. The garden (a) had an entrance to this area (b) which was planted after havin
 Unspecified
 
 ## Bibliography
-* Fiorelli, *Descrizione di Pompei*, pp. 321-322 [(worldcat)](http://www.worldcat.org/oclc/252039996)
-* Jashemski, *Gardens*, vol. II, p. 210 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 65 [(worldcat)](http://www.worldcat.org/oclc/906755593)
-* Schultz, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1841), p. 119, [(worldcat)](http://www.worldcat.org/oclc/646515522)
+* Fiorelli, *Descrizione di Pompei*, pp. 321-322 [(worldcat)](https://search.worldcat.org/title/252039996)
+* Jashemski, *Gardens*, vol. II, p. 210 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 65 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Schultz, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1841), p. 119, [(worldcat)](https://search.worldcat.org/title/646515522)
 
 ## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

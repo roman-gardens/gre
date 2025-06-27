@@ -57,9 +57,9 @@ Examination of the garden revealed that it had been shaded by a row of four tree
 
 ## Bibliography
 Olga Elia, 1960, 'Vasi magici e mani pantee a Pompei' In *RendAccNapoli, 35, pp.5-10 and pl.1 (plan)*
-W. F. Jashemski, 1979, *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius, pp.31, 135-137, fig. 48 on p.31, and figs. pp.213-215 on pp.135-136.* [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)  
-Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 1986, *Corpus topographicum Pompeianum Pars IIIA, p.40-41* [(worldcat)](https://www.worldcat.org/title/corpus-topographicum-pompeianum/oclc/8667821)  
-W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.76.* [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+W. F. Jashemski, 1979, *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius, pp.31, 135-137, fig. 48 on p.31, and figs. pp.213-215 on pp.135-136.* [(worldcat)](https://search.worldcat.org/title/312003872)  
+Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 1986, *Corpus topographicum Pompeianum Pars IIIA, p.40-41* [(worldcat)](https://search.worldcat.org/title/8667821)  
+W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.76.* [(worldcat)](https://search.worldcat.org/title/222353569)  
 PompeiiinPictures, 2018, *Pompeii. Complesso dei Riti magici or Magic Rites Complex or Casa di Biria, Sibilla pompeiana or Officina Magica of Sextilius Pyrricus.* [(PompeiiinPictures)](https://pompeiiinpictures.com/pompeiiinpictures/R2/2%2001%2012.htm)
 
 

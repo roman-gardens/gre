@@ -84,8 +84,8 @@ NEW WAY ↓↓↓↓
 
 ## Bibliography
 
-* A. Mallwitz, *Olympia und seine Bauten.* Munich,1972, pp. 276-277, fig. 230. [(worldcat)](http://www.worldcat.org/oclc/51584745)
-* R. Tölle-Kastenbein, *Antike Wasserkultur*. Munich, 1990, p. 192. [(worldcat)](http://www.worldcat.org/oclc/231090332)
+* A. Mallwitz, *Olympia und seine Bauten.* Munich,1972, pp. 276-277, fig. 230. [(worldcat)](https://search.worldcat.org/title/51584745)
+* R. Tölle-Kastenbein, *Antike Wasserkultur*. Munich, 1990, p. 192. [(worldcat)](https://search.worldcat.org/title/231090332)
 
 ## Pleiades ID
 

@@ -69,8 +69,8 @@ The house is dated to the 5th-6th century AD on the base of the style of its mos
 2nd-3rd, 5th-6th century CE
 
 ## Bibliography
-- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 80-83. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-- Ennaifer, M., "La maison des Deux Chasses à Kélibia", in *Colloque de la mosaïque gréco romaine* VII, 1, 1994 (1999), pp. 233-250, pl. 94-106. [(worldcat)](http://www.worldcat.org/oclc/47894208)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 80-83. [(worldcat)](https://search.worldcat.org/title/989088620)
+- Ennaifer, M., "La maison des Deux Chasses à Kélibia", in *Colloque de la mosaïque gréco romaine* VII, 1, 1994 (1999), pp. 233-250, pl. 94-106. [(worldcat)](https://search.worldcat.org/title/47894208)
 
 
 

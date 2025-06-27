@@ -71,7 +71,7 @@ Third century CE
 
 * R. Etienne, Le quartier Nord-Est de Volubilis, Paris, 1960, p. 77-80, pl. XVII, LXXII, LXXIII, 1. [(haithitrust)](https://catalog.hathitrust.org/Record/001605508)
 
-* R. Thouvenot., Maisons de Volubilis: Le palais dit de Gordien et la Maison à la mosaïque de Vénus, Rabat, 1958, p. 49-86, fig. 8, pl. 11. [(worldcat)](http://www.worldcat.org/oclc/876482067)
+* R. Thouvenot., Maisons de Volubilis: Le palais dit de Gordien et la Maison à la mosaïque de Vénus, Rabat, 1958, p. 49-86, fig. 8, pl. 11. [(worldcat)](https://search.worldcat.org/title/876482067)
 
 ## Pleiades ID
 

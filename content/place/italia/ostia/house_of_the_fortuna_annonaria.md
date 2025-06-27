@@ -105,18 +105,18 @@ unspecified
 
 <!-- Bibliography for Location Description -->
 * G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
-* R. Meiggs, *Roman Ostia*. [(worldcat)](http://www.worldcat.org/oclc/868614740)
-* C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](http://www.worldcat.org/oclc/848372586)
-* Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](http://www.worldcat.org/oclc/801326827)
-* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
-* M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio," *Rivista di Archeologia* 43, 2019, pp. 165-176. [(worldcat)](http://www.worldcat.org/oclc/797910124) [(Rivista di Archeologia)](http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf)
-* M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](http://www.worldcat.org/oclc/1536690)
+* R. Meiggs, *Roman Ostia*. [(worldcat)](https://search.worldcat.org/title/868614740)
+* C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](https://search.worldcat.org/title/848372586)
+* Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](https://search.worldcat.org/title/801326827)
+* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](https://search.worldcat.org/title/1130900997)
+* M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio," *Rivista di Archeologia* 43, 2019, pp. 165-176. [(worldcat)](https://search.worldcat.org/title/797910124) [(Rivista di Archeologia)](http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf)
+* M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](https://search.worldcat.org/title/1536690)
 <!-- Bibliography for Garden Description -->
 * *Giornale degli Scavi*, 1939, pp. 54-87.
-* Giovanni Becatti, *Case ostiensi del tardo impero*, pp. 23-25. [(worldcat)](http://www.worldcat.org/oclc/899106405)
-* John S. Boersma, *Amoenissima Civitas: Block V. ii at Ostia, Description and Analysis of its Visible Remains*, Assen: Van Gorcum, 1985, pp. 151, 156-160. [(worldcat)](http://www.worldcat.org/oclc/964182479)
-* Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, 1996, pp. 123-124. [(worldcat)](http://www.worldcat.org/oclc/797420782)
-* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 82-84. [(worldcat)](http://www.worldcat.org/oclc/1130900997)
+* Giovanni Becatti, *Case ostiensi del tardo impero*, pp. 23-25. [(worldcat)](https://search.worldcat.org/title/899106405)
+* John S. Boersma, *Amoenissima Civitas: Block V. ii at Ostia, Description and Analysis of its Visible Remains*, Assen: Van Gorcum, 1985, pp. 151, 156-160. [(worldcat)](https://search.worldcat.org/title/964182479)
+* Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, 1996, pp. 123-124. [(worldcat)](https://search.worldcat.org/title/797420782)
+* E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 82-84. [(worldcat)](https://search.worldcat.org/title/1130900997)
 
 ## Pleiades ID
 

@@ -53,12 +53,12 @@ This caupona, excavated in 1874, had a garden (a) across the back with a low wal
 1874
 
 ## Bibliography
-* Grimal, *Les jardins romains*, 3rd ed. pp. 457-459, no. 31 (address given as VIII.viii.1) [(worldcat)](http://www.worldcat.org/oclc/797276280)
-* Jashemski, *Gardens*, vol. II, pp. 220, 365 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1875), pp. 127-128, 169 [(worldcat)](http://www.worldcat.org/oclc/823239162)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 68 [(worldcat)](http://www.worldcat.org/oclc/906755593)
-* Schefold, *Die Wande Pompejis*, p. 230 [(worldcat)](http://www.worldcat.org/oclc/1189906922)
-* Soliano, *Le pitture murali campane scoverte negli anni 1867-1879.* In Pompei e la regione sotterrata dal Vesuvio nel'anno LXXIX, p. 224, no. 695 (address given as VIII.viii.1) [(worldcat)](http://www.worldcat.org/oclc/162912722)
+* Grimal, *Les jardins romains*, 3rd ed. pp. 457-459, no. 31 (address given as VIII.viii.1) [(worldcat)](https://search.worldcat.org/title/797276280)
+* Jashemski, *Gardens*, vol. II, pp. 220, 365 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1875), pp. 127-128, 169 [(worldcat)](https://search.worldcat.org/title/823239162)
+* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 68 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Schefold, *Die Wande Pompejis*, p. 230 [(worldcat)](https://search.worldcat.org/title/1189906922)
+* Soliano, *Le pitture murali campane scoverte negli anni 1867-1879.* In Pompei e la regione sotterrata dal Vesuvio nel'anno LXXIX, p. 224, no. 695 (address given as VIII.viii.1) [(worldcat)](https://search.worldcat.org/title/162912722)
 
 ## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

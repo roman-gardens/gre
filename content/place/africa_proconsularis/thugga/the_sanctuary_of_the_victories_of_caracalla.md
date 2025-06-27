@@ -59,10 +59,10 @@ The sanctuary of the Victories of Caracalla, situated in the southwest of the fo
 214 CE
 
 ## Bibliography
-* Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](http://www.worldcat.org/oclc/7380877046)
-*  Golvin J.-C., Khanoussi M. (dir.), *Dougga, études d’architecture religieuse. Les sanctuaires desVictoires de Caracalla, de « Pluton » et de Caelestis* (Mémoires, 12), Bordeaux : Ausonius Éditions, 2005, pp. 33-77, fig. 17, 64. [(worldcat)](http://www.worldcat.org/oclc/844610963)
+* Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](https://search.worldcat.org/title/7380877046)
+*  Golvin J.-C., Khanoussi M. (dir.), *Dougga, études d’architecture religieuse. Les sanctuaires desVictoires de Caracalla, de « Pluton » et de Caelestis* (Mémoires, 12), Bordeaux : Ausonius Éditions, 2005, pp. 33-77, fig. 17, 64. [(worldcat)](https://search.worldcat.org/title/844610963)
 * Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, Brouquier Reddé, V., Baratte, Fr.,  Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230,
-p. 364, pl. 14. [(worldcat)](http://www.worldcat.org/oclc/1028897747)
+p. 364, pl. 14. [(worldcat)](https://search.worldcat.org/title/1028897747)
 * Sections from http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf
 
 ## Pleiades_ID

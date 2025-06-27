@@ -68,11 +68,11 @@ None Available
 
 ## Bibliography
 
-- L. Blondel and G. Darier, "La villa romaine de la Grange, Genève," Anzeiger für schweizerische Geschichte 24, 1922:70-88, pls. 1-2. [(worldcat)](http://www.worldcat.org/oclc/891753412)
+- L. Blondel and G. Darier, "La villa romaine de la Grange, Genève," Anzeiger für schweizerische Geschichte 24, 1922:70-88, pls. 1-2. [(worldcat)](https://search.worldcat.org/title/891753412)
 
-- W. Drack, "Die Gutshöfe," in Ur- und frühgeschichtliche Archäologie der Schweiz 5, Basel, 1975, p. 58, fig. 21. [(worldcat)](http://www.worldcat.org/oclc/995475924)
+- W. Drack, "Die Gutshöfe," in Ur- und frühgeschichtliche Archäologie der Schweiz 5, Basel, 1975, p. 58, fig. 21. [(worldcat)](https://search.worldcat.org/title/995475924)
 
-- M.-A. Haldimann, P. André, E. Broillet-Ramjoué, Matthieu Poux, “Entre résidence indigène et domus gallo-romaine: le domaine antique du Parc de La Grange (GE),” Archéologie Suisse 24.2, 2001: 2-15, figs. 4, 13-14, 17. [(worldcat)](http://www.worldcat.org/oclc/718064040)
+- M.-A. Haldimann, P. André, E. Broillet-Ramjoué, Matthieu Poux, “Entre résidence indigène et domus gallo-romaine: le domaine antique du Parc de La Grange (GE),” Archéologie Suisse 24.2, 2001: 2-15, figs. 4, 13-14, 17. [(worldcat)](https://search.worldcat.org/title/718064040)
 
 ## Pleiades ID
 

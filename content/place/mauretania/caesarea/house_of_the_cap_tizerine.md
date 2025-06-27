@@ -68,11 +68,11 @@ The northeastern courtyard was most likely a peristyle-garden.  There, a basin p
 ## Excavation Dates
 
 ## Bibliography
-* Ballu, A., Rapport...en 1921, Alger 1922, p. 9. Rapport... en 1922, Alger 1923, p.7. Rapport... en 1923, Alger 1923, p.8. Raport ... en 1923, Alger 1924, p.8-9. [(worldcat)](http://www.worldcat.org/oclc/876517484)
-* Ferdi, S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p. 77. [(worldcat)](http://www.worldcat.org/oclc/1006126274)
+* Ballu, A., Rapport...en 1921, Alger 1922, p. 9. Rapport... en 1922, Alger 1923, p.7. Rapport... en 1923, Alger 1923, p.8. Raport ... en 1923, Alger 1924, p.8-9. [(worldcat)](https://search.worldcat.org/title/876517484)
+* Ferdi, S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p. 77. [(worldcat)](https://search.worldcat.org/title/1006126274)
 * Lassus, J., "L'archéologie algérienne en 1959", in *Lybica*, arch., épigr., t.8, 2ème sem. 1960, pp.27-50. [(hathitrust)](https://catalog.hathitrust.org/Record/008568139)
-* Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie", in *Antiquités africaines*., t.18, pp.118-21. [(worldcat)](http://www.worldcat.org/oclc/1014614344)
-* Waille, v, "Fouilles de Cherchel (1902-1903)", in *Revue Africaine*, t.47, 1903, p.102. [(worldcat)](http://www.worldcat.org/oclc/690766053)
+* Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie", in *Antiquités africaines*., t.18, pp.118-21. [(worldcat)](https://search.worldcat.org/title/1014614344)
+* Waille, v, "Fouilles de Cherchel (1902-1903)", in *Revue Africaine*, t.47, 1903, p.102. [(worldcat)](https://search.worldcat.org/title/690766053)
 
 ## Pleiades ID
 

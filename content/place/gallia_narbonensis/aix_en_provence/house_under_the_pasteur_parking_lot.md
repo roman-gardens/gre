@@ -103,7 +103,7 @@ NEW WAY ↓↓↓↓
 
 ## Bibliography
 
-1. R. Boiron, C. Landure, N. Nin,  Les fouilles de l’Aire du Chapitre, actuel parking Pasteur, Documents d’Archéologie aixoise, 2, 1986, P. 13-36[(worldcat)](http://www.worldcat.org/oclc/20998985)
+1. R. Boiron, C. Landure, N. Nin,  Les fouilles de l’Aire du Chapitre, actuel parking Pasteur, Documents d’Archéologie aixoise, 2, 1986, P. 13-36[(worldcat)](https://search.worldcat.org/title/20998985)
 
 2. *Maison 1996*, t. II,, P. 12-15 and fiche n°4, P. 22-23 ; fiche n°5, P. 24-25
 

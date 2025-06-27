@@ -54,16 +54,16 @@ B. Built on the volcanic ledge, only a triangular segment of this terrace garden
 Unspecified
 
 ## Bibliography
-* Döhl,*Plastik aus Pompeji*, p. 42 [(worldcat)](http://www.worldcat.org/oclc/52662796)
-* Jashemski, *Gardens*, 1:110 and fig. 178 on p. 109 and no. 94 on p. 348 [(worldcat)](http://www.worldcat.org/oclc/1047945215)
-* Jashemski, *Gardens*, vol. II, pp. 205-206, 364-365 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1892), pp. 7, 9-10 and pl.1 [http://www.worldcat.org/oclc/860559196)
-* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi,” p. 61 [(worldcat)](http://www.worldcat.org/oclc/906755593)
-* Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 141-157 passim, and pls. 18 (ground floor), 20 (lower levels), figs. 37 on p. 147, 38 on p. 149, pp. 141-157 passim, pls. 18, 20 (plans and section [(worldcat)](http://www.worldcat.org/oclc/486835478)
-* Sogliano, *Notizie degli scavi di Antichita* (1890), p. 328 [(worldcat)](http://www.worldcat.org/oclc/46875519)
-* Sogliano, *Notizie degli scavi di Antichita* (1893), pp. 4, 48-49 [(worldcat)](http://www.worldcat.org/oclc/46875519)
-* Sogliano, *Notizie degli scavi di Antichita* (1894), p. 147 [(worldcat)](http://www.worldcat.org/oclc/46875519)
-* Sogliano, *Notizie degli scavi di Antichita* (1899), pp. 23, 141-143 and fig. 1 (plan) on p. 141 [(worldcat)](http://www.worldcat.org/oclc/46875519)
+* Döhl,*Plastik aus Pompeji*, p. 42 [(worldcat)](https://search.worldcat.org/title/52662796)
+* Jashemski, *Gardens*, 1:110 and fig. 178 on p. 109 and no. 94 on p. 348 [(worldcat)](https://search.worldcat.org/title/1047945215)
+* Jashemski, *Gardens*, vol. II, pp. 205-206, 364-365 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1892), pp. 7, 9-10 and pl.1 [https://search.worldcat.org/title/860559196)
+* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi,” p. 61 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 141-157 passim, and pls. 18 (ground floor), 20 (lower levels), figs. 37 on p. 147, 38 on p. 149, pp. 141-157 passim, pls. 18, 20 (plans and section [(worldcat)](https://search.worldcat.org/title/486835478)
+* Sogliano, *Notizie degli scavi di Antichita* (1890), p. 328 [(worldcat)](https://search.worldcat.org/title/46875519)
+* Sogliano, *Notizie degli scavi di Antichita* (1893), pp. 4, 48-49 [(worldcat)](https://search.worldcat.org/title/46875519)
+* Sogliano, *Notizie degli scavi di Antichita* (1894), p. 147 [(worldcat)](https://search.worldcat.org/title/46875519)
+* Sogliano, *Notizie degli scavi di Antichita* (1899), pp. 23, 141-143 and fig. 1 (plan) on p. 141 [(worldcat)](https://search.worldcat.org/title/46875519)
 
 
 

@@ -72,10 +72,10 @@ Early 3rd century CE
 
 ## Bibliography
 
-* Blanchard-Lemée, M., "Dans les jardins de Djemila", in *Antiquités Africaines*, 34, 1998, pp. 185-197, Il fig. [(worldcat)](http://www.worldcat.org/oclc/4824686051)
-*  Blanchard-Lemée, M., "La Maison de Bacchus à Djemila: Architecture et décor d'une grande demeure provinciale à la fin de l'antiquité", in *Bulletin archéologique du C. THS.*, NS, fasc. 17 B (Colloque sur l'archéologie et l'histoire de l'Afrique du Nord, Perpignan, 1981), 1984, pp. 131-143. [(worldcat)](http://www.worldcat.org/oclc/848793520)
-*  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](http://www.worldcat.org/oclc/1090653355)
-* Malek, A.-A., "Le jardin au fil de l’eau : mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l’époque romaine*, eds, Brouquier-Reddé, V. et  Hurlet, Bordeaux, F., Ausonius, 2018, pp. 248-249. [(worldcat)](http://www.worldcat.org/oclc/1078217356)
+* Blanchard-Lemée, M., "Dans les jardins de Djemila", in *Antiquités Africaines*, 34, 1998, pp. 185-197, Il fig. [(worldcat)](https://search.worldcat.org/title/4824686051)
+*  Blanchard-Lemée, M., "La Maison de Bacchus à Djemila: Architecture et décor d'une grande demeure provinciale à la fin de l'antiquité", in *Bulletin archéologique du C. THS.*, NS, fasc. 17 B (Colloque sur l'archéologie et l'histoire de l'Afrique du Nord, Perpignan, 1981), 1984, pp. 131-143. [(worldcat)](https://search.worldcat.org/title/848793520)
+*  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](https://search.worldcat.org/title/1090653355)
+* Malek, A.-A., "Le jardin au fil de l’eau : mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l’époque romaine*, eds, Brouquier-Reddé, V. et  Hurlet, Bordeaux, F., Ausonius, 2018, pp. 248-249. [(worldcat)](https://search.worldcat.org/title/1078217356)
 
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}

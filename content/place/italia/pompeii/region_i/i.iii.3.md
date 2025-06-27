@@ -46,13 +46,13 @@ B. The front of this house excavated in 1869 had an unusual design in that it wa
 
 ## Bibliography
 
-* Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 24, no.22 [(worldcat)](https://www.worldcat.org/title/corpus-of-the-lararia-of-pompeii/oclc/892026154&referer=brief_results)  
-* Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 72 [(worldcat)](https://www.worldcat.org/title/giornale-degli-scavi-di-pompei/oclc/10781121)  
-* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 52-53 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)    
+* Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 24, no.22 [(worldcat)](https://search.worldcat.org/title/892026154)  
+* Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 72 [(worldcat)](https://search.worldcat.org/title/10781121)  
+* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 52-53 [(worldcat)](https://search.worldcat.org/title/9528380)    
 * GiornSc, n.s., 1868-1869, col.300-301  
-* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 26 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 26 [(worldcat)](https://search.worldcat.org/title/222353569)  
 * Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 78  
-* Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, nos.16-21 [(worldcat)](https://www.worldcat.org/title/codex-topographicus-pompeianus-1937-1957-and-undated/oclc/974375313&referer=brief_results)  
+* Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, nos.16-21 [(worldcat)](https://search.worldcat.org/title/974375313)  
 
 
 ## Pleiades ID

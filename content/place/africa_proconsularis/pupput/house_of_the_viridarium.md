@@ -76,9 +76,9 @@ House of the Viridarium with Niches (Maison du viridarium à niches)
 4th century CE
 
 ## Bibliography
-* Ben Abed Ben Khader, A., “Mosaïques de la maison du *viridarium* à niches à Pupput (Tunisie)”, in *CMGR IV*, 1994, pp.265-271, Pl. CLXXI. [(worldcat)](http://www.worldcat.org/oclc/949085959)
-* Ben Abed Ben Khader, A., "Les maisons de Pupput (Tunisie)", in *Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres*, 150ᵉ année, N. 1, 2006. pp. 518-522, fig. 8, p. 519, fig. 9, p. 521. [(worldcat)](http://www.worldcat.org/oclc/859686146)
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 197-198. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Ben Abed Ben Khader, A., “Mosaïques de la maison du *viridarium* à niches à Pupput (Tunisie)”, in *CMGR IV*, 1994, pp.265-271, Pl. CLXXI. [(worldcat)](https://search.worldcat.org/title/949085959)
+* Ben Abed Ben Khader, A., "Les maisons de Pupput (Tunisie)", in *Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres*, 150ᵉ année, N. 1, 2006. pp. 518-522, fig. 8, p. 519, fig. 9, p. 521. [(worldcat)](https://search.worldcat.org/title/859686146)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 197-198. [(worldcat)](https://search.worldcat.org/title/989088620)
 
 
 ## Pleiades ID

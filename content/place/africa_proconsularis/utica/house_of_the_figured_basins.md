@@ -72,8 +72,8 @@ The house was located in the *insula* III. The rectangular courtyard, in the SW 
 
 ## Bibliography
 
-* Alexander, M. A., Ennaifer, M., *Corpus des Mosaïques de Tunisie*, *Utique, insulae, I-II-III*, INA, Tunis, 1973, pp. 121, 126-128, plan 22.  [(worldcat)](http://www.worldcat.org/oclc/61828622)
-* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003,pp.344-345. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Alexander, M. A., Ennaifer, M., *Corpus des Mosaïques de Tunisie*, *Utique, insulae, I-II-III*, INA, Tunis, 1973, pp. 121, 126-128, plan 22.  [(worldcat)](https://search.worldcat.org/title/61828622)
+* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003,pp.344-345. [(worldcat)](https://search.worldcat.org/title/989088620)
 
 
 ## Pleiades ID

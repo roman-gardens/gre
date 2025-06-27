@@ -76,9 +76,9 @@ unspecified
 
 ## Bibliography
 
-* M.ª C. Fernández Castro,*Villas romanas en Hispania*, (Madrid 1982), 121-154.[(worldcat)](http://www.worldcat.org/oclc/876519837)
-* J. M. Blázquez, ‘Los jardines en la Hispania Romana,’ *Historia de los Parques y Jardines en España*, Diputación Provincial de Córdoba-Edita Grupo FCC (Madrid 2001). [(worldcat)](http://www.worldcat.org/oclc/1090911182)
-* J.-G. Gorges, *Les villas hispano-romaines: Inventaire et Problématique Archéologiques* (Publications du Centre Pierre Paris IV). Paris: de Boccard, 1979, 241. [(worldcat)](http://www.worldcat.org/oclc/461777678)
+* M.ª C. Fernández Castro,*Villas romanas en Hispania*, (Madrid 1982), 121-154.[(worldcat)](https://search.worldcat.org/title/876519837)
+* J. M. Blázquez, ‘Los jardines en la Hispania Romana,’ *Historia de los Parques y Jardines en España*, Diputación Provincial de Córdoba-Edita Grupo FCC (Madrid 2001). [(worldcat)](https://search.worldcat.org/title/1090911182)
+* J.-G. Gorges, *Les villas hispano-romaines: Inventaire et Problématique Archéologiques* (Publications du Centre Pierre Paris IV). Paris: de Boccard, 1979, 241. [(worldcat)](https://search.worldcat.org/title/461777678)
 
 ## Pleiades ID
 

@@ -96,7 +96,7 @@ NEW WAY ↓↓↓↓
 
 2. J, Guyon, Nin N, Rivet L, and Saulnier S. Aix-En-Provence (Bouches-Du-Rhône), 1996, P. 50.
 
-3. P. Gros, *L'architecture Romaine: Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire. Paris: A. et J*. Picard, 2011, P. 187-188 [(worldcat)](http://www.worldcat.org/oclc/762763355)
+3. P. Gros, *L'architecture Romaine: Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire. Paris: A. et J*. Picard, 2011, P. 187-188 [(worldcat)](https://search.worldcat.org/title/762763355)
 
 
 ## Pleiades ID

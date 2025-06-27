@@ -32,13 +32,13 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Bibliography
-- J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](http://www.worldcat.org/oclc/1090911182)
+- J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
 
-- P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](http://www.worldcat.org/oclc/640067386)
+- P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](https://search.worldcat.org/title/640067386)
 
--  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](http://www.worldcat.org/oclc/803415143)
+-  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
 
-- M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](http://www.worldcat.org/oclc/940998520)
+- M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
 
 ## Location
@@ -93,8 +93,8 @@ UNKOWN
 
 ## Bibliography
 
-* E. V. Koppel, *La Schola del collegium fabrum de Tarraco y su decoración escultórica*. Faventia Monografies 7. Edit. Bellaterra, Barcelona, 1988 [(worldcat)](http://www.worldcat.org/oclc/601968172)
-* Mª. L. Loza Azuaga, “La escultura de fuentes en Hispania: ejemplos de la Bética,” in *Actas de la I Reunión sobre escultura romana en Hispania*, Mérida, 1993, 98. [(worldcat)](http://www.worldcat.org/oclc/940998520)
+* E. V. Koppel, *La Schola del collegium fabrum de Tarraco y su decoración escultórica*. Faventia Monografies 7. Edit. Bellaterra, Barcelona, 1988 [(worldcat)](https://search.worldcat.org/title/601968172)
+* Mª. L. Loza Azuaga, “La escultura de fuentes en Hispania: ejemplos de la Bética,” in *Actas de la I Reunión sobre escultura romana en Hispania*, Mérida, 1993, 98. [(worldcat)](https://search.worldcat.org/title/940998520)
 
 ## Pleiades ID
 

@@ -66,7 +66,7 @@ Third century CE
 
 * R. Etienne, Le quartier Nord-Est de Volubilis, Paris, 1960, 34-8, Pl. V, XLVI, 2.  [(haithitrust)](https://catalog.hathitrust.org/Record/001605508)
 
-* R. Thouvenot, “Maisons et hydraulique dans le quartier NE de Volubilis”, p. 27-58, Plan I, Pl. IV. [(worldcat)](http://www.worldcat.org/oclc/458298688)
+* R. Thouvenot, “Maisons et hydraulique dans le quartier NE de Volubilis”, p. 27-58, Plan I, Pl. IV. [(worldcat)](https://search.worldcat.org/title/458298688)
 
 ## Pleiades ID
 

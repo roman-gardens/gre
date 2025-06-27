@@ -48,12 +48,12 @@ The famous painting “Judgment of Solomon” (0.45 x 1.55m.; Mus. Naz. inv. no.
 Unspecified
 
 ## Bibliography
-* Breton, *Pompeia*, 3rd ed. p. 456 [(worldcat)](http://www.worldcat.org/oclc/894211341)
-* Jashemski, *Gardens*, vol. II, p. 217 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 228-230 [(worldcat)](http://www.worldcat.org/oclc/823239162)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi, 1874-1882” pp. 19-20 (address given as VIII.5a-6a.6 [(worldcat)](http://www.worldcat.org/oclc/906755593)
-* Schefold, *Die Wande Pompejis*, p. 227 [(worldcat)](http://www.worldcat.org/oclc/1189906922)
-* Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 322-323 [(worldcat)](http://www.worldcat.org/oclc/638883283)
+* Breton, *Pompeia*, 3rd ed. p. 456 [(worldcat)](https://search.worldcat.org/title/894211341)
+* Jashemski, *Gardens*, vol. II, p. 217 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 228-230 [(worldcat)](https://search.worldcat.org/title/823239162)
+* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi, 1874-1882” pp. 19-20 (address given as VIII.5a-6a.6 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Schefold, *Die Wande Pompejis*, p. 227 [(worldcat)](https://search.worldcat.org/title/1189906922)
+* Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 322-323 [(worldcat)](https://search.worldcat.org/title/638883283)
 
 ## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

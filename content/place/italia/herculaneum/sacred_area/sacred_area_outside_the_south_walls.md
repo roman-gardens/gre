@@ -57,9 +57,9 @@ Unspecified
 1939 to 1958
 
 ## Bibliography
-* Jashemski, *Gardens*, 1:158-160 [(worldcat)](http://www.worldcat.org/oclc/1029851777)
-* Jashemski, *Gardens*, vol.II, p. 371 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Maiuri, *Ercolano*, pp. 181-182 and fig. 143 (plan) opposite p. 176 [(worldcat)](http://www.worldcat.org/oclc/490581395)
+* Jashemski, *Gardens*, 1:158-160 [(worldcat)](https://search.worldcat.org/title/1029851777)
+* Jashemski, *Gardens*, vol.II, p. 371 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Maiuri, *Ercolano*, pp. 181-182 and fig. 143 (plan) opposite p. 176 [(worldcat)](https://search.worldcat.org/title/490581395)
 * Michel, p. 386
 
 

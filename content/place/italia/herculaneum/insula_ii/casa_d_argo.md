@@ -84,14 +84,14 @@ unspecified
 
 ## Bibliography
 
-- A.C. *BdI* (1835),p. 130 [(worldcat)](http://www.worldcat.org/oclc/504636074)
-- Bonucci, *BdI* (1830), p.121 [(worldcat)](http://www.worldcat.org/oclc/504636074)
-- Bonucci, Le due Sicilie: Ercolano, fig. 11 (plan) and p. 37 [(worldcat)](http://www.worldcat.org/oclc/79720703)
-- Breton,*Pompeia* p. 519 [(worldcat)](http://www.worldcat.org/oclc/602759412)
-- Maiuri, *Herculaneum*, p. 24 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
-- Maiuri,*Ercolano*, pp. 367-368 and fig. 293 (plan) on p. 362  [(worldcat)](http://www.worldcat.org/oclc/490581395)
-- Niccolini,*Real museo borbonico*, vol. 7, fig. 59 (plan), description by Bechi, pp. 19-21 [(worldcat)](http://www.worldcat.org/oclc/277993202)
-- Ruggiero, *Ercolano*, pp. 541-545 (contains the detailed reports of Bonucci)[(worldcat)](http://www.worldcat.org/oclc/18405521)
+- A.C. *BdI* (1835),p. 130 [(worldcat)](https://search.worldcat.org/title/504636074)
+- Bonucci, *BdI* (1830), p.121 [(worldcat)](https://search.worldcat.org/title/504636074)
+- Bonucci, Le due Sicilie: Ercolano, fig. 11 (plan) and p. 37 [(worldcat)](https://search.worldcat.org/title/79720703)
+- Breton,*Pompeia* p. 519 [(worldcat)](https://search.worldcat.org/title/602759412)
+- Maiuri, *Herculaneum*, p. 24 [(worldcat)](https://search.worldcat.org/title/1107784297)
+- Maiuri,*Ercolano*, pp. 367-368 and fig. 293 (plan) on p. 362  [(worldcat)](https://search.worldcat.org/title/490581395)
+- Niccolini,*Real museo borbonico*, vol. 7, fig. 59 (plan), description by Bechi, pp. 19-21 [(worldcat)](https://search.worldcat.org/title/277993202)
+- Ruggiero, *Ercolano*, pp. 541-545 (contains the detailed reports of Bonucci)[(worldcat)](https://search.worldcat.org/title/18405521)
 -
 
 ## Pleiades ID

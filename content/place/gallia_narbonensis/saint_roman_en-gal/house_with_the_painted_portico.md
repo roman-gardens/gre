@@ -88,9 +88,9 @@ NEW WAY ↓↓↓↓
 
 1. *Maison 1996*, t. II,, p. 392-393
 
-2. *Guide Du Site Saint-Romain-En-Ga*. Paris: Réunion des musées nationaux, 1999, P. 52-53.[worldcat](http://www.worldcat.org/oclc/43416334)
+2. *Guide Du Site Saint-Romain-En-Ga*. Paris: Réunion des musées nationaux, 1999, P. 52-53.[worldcat](https://search.worldcat.org/title/43416334)
 
-3. *Recherches Archéologiques a Saint-Romain-En-Gal (1988 - 1990)*. Vienne, 1992, P. 45-83.[worldcat](hhttp://www.worldcat.org/oclc/1068996218)
+3. *Recherches Archéologiques a Saint-Romain-En-Gal (1988 - 1990)*. Vienne, 1992, P. 45-83.[worldcat](hhttps://search.worldcat.org/title/1068996218)
 
 
 ## Pleiades ID

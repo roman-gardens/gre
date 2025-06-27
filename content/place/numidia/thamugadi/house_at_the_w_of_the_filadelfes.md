@@ -76,10 +76,10 @@ House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)
 3rd-5th century CE?
 
 ## Bibliography
-* Ballu A., *Rapport*, 1922, p. 47-53. [(worldcat)](http://www.worldcat.org/oclc/557425503)
-* Ballu A., *Rapport* 1923, p. 45-47: plan dépliant. [(worldcat)](http://www.worldcat.org/oclc/494571409)
-* Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](http://www.worldcat.org/oclc/23396951)
-* Germain, S. *Les mosaïques de Timgad*, Paris, 1969, p. 81, fig. 10. [(worldcat)](http://www.worldcat.org/oclc/643640586)
+* Ballu A., *Rapport*, 1922, p. 47-53. [(worldcat)](https://search.worldcat.org/title/557425503)
+* Ballu A., *Rapport* 1923, p. 45-47: plan dépliant. [(worldcat)](https://search.worldcat.org/title/494571409)
+* Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
+* Germain, S. *Les mosaïques de Timgad*, Paris, 1969, p. 81, fig. 10. [(worldcat)](https://search.worldcat.org/title/643640586)
 
 
 ## Pleiades ID

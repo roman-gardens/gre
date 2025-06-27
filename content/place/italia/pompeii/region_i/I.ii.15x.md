@@ -89,9 +89,9 @@ unspecified
 
 ## Bibliography
 
-* Fiorelli, *Descr.*, p. 42. [(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](http://www.worldcat.org/oclc/921816405)
-* Viola, “*Scavi*” p. 12. [(worldcat)](http://www.worldcat.org/oclc/715087975)
+* Fiorelli, *Descr.*, p. 42. [(worldcat)](https://search.worldcat.org/title/908272023)
+* Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](https://search.worldcat.org/title/921816405)
+* Viola, “*Scavi*” p. 12. [(worldcat)](https://search.worldcat.org/title/715087975)
 * Warscher, “Codex.”
 
 ## Pleiades ID

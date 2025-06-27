@@ -66,14 +66,14 @@ It is assumed that the peristyle and its garden may have had a view over the sea
 ## Excavation Dates
 
 ## Bibliography
-*  Baghli, S. A., Février, P. A., "Recherches et travaux (1962-1965)", in *Bulletin d’archéologie algérienne*, t.1, 1962-1965. p.3; BAA, t.3, 1967, p.7, fig.8 et 9. [(worldcat)](http://www.worldcat.org/oclc/491480973)
-*  Ferdi, S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p. 23-31.[(worldcat)](http://www.worldcat.org/oclc/1006126274)
+*  Baghli, S. A., Février, P. A., "Recherches et travaux (1962-1965)", in *Bulletin d’archéologie algérienne*, t.1, 1962-1965. p.3; BAA, t.3, 1967, p.7, fig.8 et 9. [(worldcat)](https://search.worldcat.org/title/491480973)
+*  Ferdi, S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p. 23-31.[(worldcat)](https://search.worldcat.org/title/1006126274)
 * Ferdi, S. et Malek, A. A., 2000, “Les mosaïques de la maison de la Jonchée à Cherchel”, in *Mosaïque gréco-romaine : actes du VIIe Colloque international pour l'étude de la mosaïque antique*
- VII, Tunis, p. 327-335. [(worldcat)](http://www.worldcat.org/oclc/949183567)
+ VII, Tunis, p. 327-335. [(worldcat)](https://search.worldcat.org/title/949183567)
 *  Lassus, J., "L'archéologie algérienne en 1959", in *Libyca*, arch. épigr., t.8, 2ème sem. 1960, p.30.
 *  Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie", *Antiquités africaines*, t.18, 1982， pp.110-12. [(hathitrust)](https://catalog.hathitrust.org/Record/008568139)
 * Malek, A.-A. "Mise en scènes paysagères", in *Algérie antique*, Catalogue d’exposition, 26 avril-17 août 2003, Musée de l’Arles et de la Provence antique, ed. C. Sintès, Y. Rebahi, Avignon 2003, p. 188-194.
-* Malek, A.-A., "Mosaic and nature : "Cultural allusions to Nature in the Roman Domus", in *Gardens of the Roman Empire*, Volume II, eds., W. F. Jashemski, K. Gleason, A-A Malek, K. Hartswick, Cambridge University Press., NY, 2018, pp.317-321 [(worldcat)](http://www.worldcat.org/oclc/1021392532)
+* Malek, A.-A., "Mosaic and nature : "Cultural allusions to Nature in the Roman Domus", in *Gardens of the Roman Empire*, Volume II, eds., W. F. Jashemski, K. Gleason, A-A Malek, K. Hartswick, Cambridge University Press., NY, 2018, pp.317-321 [(worldcat)](https://search.worldcat.org/title/1021392532)
 
 ## Pleiades ID
 

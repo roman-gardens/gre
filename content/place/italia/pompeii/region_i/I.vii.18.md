@@ -66,7 +66,7 @@ Excavated 1926 and 1927. Restoration 2017.
 
 ## Bibliography
 
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, pp. 395. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, pp. 395. [(worldcat)](https://search.worldcat.org/title/222353569)  
 * Maiuri, A. 1939. *NSc*, p. 380, and fig. 14 on p. 381.  
 * Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 35.  
 

@@ -62,8 +62,8 @@ A. This garden (a) is built partially into the edge of the hill and partially on
 Unspecified
 
 ## Bibliography
-* Maiuri, *Herculaneum*, p.65 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
-* Maiuri, *Ercolano*, p. 341 and fig. 266 (plan) on p. 337 [(worldcat)](http://www.worldcat.org/oclc/490581395)
+* Maiuri, *Herculaneum*, p.65 [(worldcat)](https://search.worldcat.org/title/1107784297)
+* Maiuri, *Ercolano*, p. 341 and fig. 266 (plan) on p. 337 [(worldcat)](https://search.worldcat.org/title/490581395)
 * Gibbs, p. 295, no. 3074G
 
 

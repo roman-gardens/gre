@@ -104,11 +104,11 @@ unspecified
 
 ## Bibliography
 
-* G.G. Orti Manara, *La penisola di Sirmione sul lago di Garda*, Verona 1856.[(worldcat)](http://www.worldcat.org/oclc/876477151)
-* N. Degrassi, *Le Grotte di Catullo*, Taranto 1956. [(worldcat)](http://www.worldcat.org/oclc/602972748)
-* M. MirabellaRoberti, *La villa romana di Sirmione*, Milano 1958, pp.157-162.[(worldcat)](http://www.worldcat.org/oclc/886956335)
-* T.P.Wiseman, *Le Grotte di  Catullo.  Una  villa  romana  e  i  suoi proprietari*, Brescia 1990. [(worldcat)](http://www.worldcat.org/oclc/848596547)
-* E. Roffia, *Sirmione, le “grotte di Catullo”, in Ville romane sul lago di Garda*, a cura di E.Roffia, Brescia 1997, pp.141-169. [(worldcat)](http://www.worldcat.org/oclc/878098534)
+* G.G. Orti Manara, *La penisola di Sirmione sul lago di Garda*, Verona 1856.[(worldcat)](https://search.worldcat.org/title/876477151)
+* N. Degrassi, *Le Grotte di Catullo*, Taranto 1956. [(worldcat)](https://search.worldcat.org/title/602972748)
+* M. MirabellaRoberti, *La villa romana di Sirmione*, Milano 1958, pp.157-162.[(worldcat)](https://search.worldcat.org/title/886956335)
+* T.P.Wiseman, *Le Grotte di  Catullo.  Una  villa  romana  e  i  suoi proprietari*, Brescia 1990. [(worldcat)](https://search.worldcat.org/title/848596547)
+* E. Roffia, *Sirmione, le “grotte di Catullo”, in Ville romane sul lago di Garda*, a cura di E.Roffia, Brescia 1997, pp.141-169. [(worldcat)](https://search.worldcat.org/title/878098534)
 
 ## Pleiades ID
 

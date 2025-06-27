@@ -74,7 +74,7 @@ This fourth-century villa on the north coast has also yielded evidence for a gar
 
 
 ## Bibliography
-G. Voza, L’attivita della Soprintendenza alle Antichita della Sicilia Orientale, Kokalos 26–7 (1980–81): Attivita nel territorio della Soprintendenza alle Antichita di Siracusa nel quadriennio 1980–1984, Kokalos 692–3; 30–31 (1984–85):  660–61.R. J. A. Wilson [(worldcat)](http://www.worldcat.org/oclc/186378054)
+G. Voza, L’attivita della Soprintendenza alle Antichita della Sicilia Orientale, Kokalos 26–7 (1980–81): Attivita nel territorio della Soprintendenza alle Antichita di Siracusa nel quadriennio 1980–1984, Kokalos 692–3; 30–31 (1984–85):  660–61.R. J. A. Wilson [(worldcat)](https://search.worldcat.org/title/186378054)
 
 ## Pleiades ID
 

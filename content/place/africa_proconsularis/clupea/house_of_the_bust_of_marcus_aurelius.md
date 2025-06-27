@@ -76,9 +76,9 @@ Built over an older establishment, the house presents two main phases.  The main
 2nd-3rd century CE
 
 ## Bibliography
-- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 84. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 84. [(worldcat)](https://search.worldcat.org/title/989088620)
 - Ennabli, A., "Rapport préliminaire de la fouille de la villa romaine de Kelibia", in *Africa*, 3 (1969-70), pp. 239-41.
-- Lassère, J.-M., Slim, H., *Maisons de Clupea. Les maisons de l’Ecole de pêche*, Paris, 2010, pp. 67-148. [(worldcat)](http://www.worldcat.org/oclc/701795957)
+- Lassère, J.-M., Slim, H., *Maisons de Clupea. Les maisons de l’Ecole de pêche*, Paris, 2010, pp. 67-148. [(worldcat)](https://search.worldcat.org/title/701795957)
 
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="314892" term="Aspis/Clipea" >}}

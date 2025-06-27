@@ -78,7 +78,7 @@ The other garden area was slightly farther south and against the east wall of th
 
 
 <!--## Bibliography
-- Morand, I., La Maison aux jets d'eau de Conimbriga (Boccard, Paris, 2005). [(worldcat)](http://www.worldcat.org/oclc/255066311) -->
+- Morand, I., La Maison aux jets d'eau de Conimbriga (Boccard, Paris, 2005). [(worldcat)](https://search.worldcat.org/title/255066311) -->
 
 ## Pleiades ID
 

@@ -84,8 +84,8 @@ A highly fragmentary inscription found in the south part of the Cayster River va
 Unspecified
 
 ## Bibliography
-- J. Keil and A. von Premerstein, Bericht über eine dritte Reise in Lydien. Vienna, 1914, no. 112 [(worldcat)](http://www.worldcat.org/oclc/604130286)
-- J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, p. 145. [(worldcat)](http://www.worldcat.org/oclc/164233326)
+- J. Keil and A. von Premerstein, Bericht über eine dritte Reise in Lydien. Vienna, 1914, no. 112 [(worldcat)](https://search.worldcat.org/title/604130286)
+- J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, p. 145. [(worldcat)](https://search.worldcat.org/title/164233326)
 
 ## Pleiades ID
 

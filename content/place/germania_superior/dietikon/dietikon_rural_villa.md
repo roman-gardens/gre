@@ -87,9 +87,9 @@ Stone-built villa: Middle of the 1st century CE
 
 ## Bibliography
 
-* C. Ebnöther, "Die Gartenanlage in der pars urbana des Gutshofes von Dietikon ZH," *Archäologie der Schweiz* 14, 1991:250-256. [(worldcat)](http://www.worldcat.org/oclc/891753339)
-* C. Ebnöther, *Der römische Gutshof in Dietikon*. Monographien der Kantonsarchäologie Zürich 25, Zürich, 1995, pp. 36-45, 49-50, figs. 21, 36-37,41-42. [(worldcat)](http://www.worldcat.org/oclc/891774240)
-* L. Flutsch, U. Niffeler, F. Rossi, eds., *La Suisse du Paléolithique à l’aube du Moyen-Age (SPM) V. Epoque romaine/Età Romana*, Basel, 2002, p. 143, fig. 140. [(worldcat)](http://www.worldcat.org/oclc/492139765)
+* C. Ebnöther, "Die Gartenanlage in der pars urbana des Gutshofes von Dietikon ZH," *Archäologie der Schweiz* 14, 1991:250-256. [(worldcat)](https://search.worldcat.org/title/891753339)
+* C. Ebnöther, *Der römische Gutshof in Dietikon*. Monographien der Kantonsarchäologie Zürich 25, Zürich, 1995, pp. 36-45, 49-50, figs. 21, 36-37,41-42. [(worldcat)](https://search.worldcat.org/title/891774240)
+* L. Flutsch, U. Niffeler, F. Rossi, eds., *La Suisse du Paléolithique à l’aube du Moyen-Age (SPM) V. Epoque romaine/Età Romana*, Basel, 2002, p. 143, fig. 140. [(worldcat)](https://search.worldcat.org/title/492139765)
 
 ## Pleiades ID
 

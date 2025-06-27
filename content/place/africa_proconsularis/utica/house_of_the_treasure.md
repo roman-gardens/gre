@@ -74,8 +74,8 @@ The House is located in the *insula* II (Lots 1,7). The peristyle garden had a s
 1st-4th century CE
 
 ## Bibliography
-* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.348-349. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-* Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp.11-18, plans 3,4.[(worldcat)](http://www.worldcat.org/oclc/905773599)
+* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.348-349. [(worldcat)](https://search.worldcat.org/title/989088620)
+* Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp.11-18, plans 3,4.[(worldcat)](https://search.worldcat.org/title/905773599)
 
 
 ## Pleiades ID

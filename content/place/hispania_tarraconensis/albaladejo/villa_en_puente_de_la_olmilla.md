@@ -32,13 +32,13 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Bibliography
-- J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](http://www.worldcat.org/oclc/1090911182)
+- J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
 
-- P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](http://www.worldcat.org/oclc/640067386)
+- P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](https://search.worldcat.org/title/640067386)
 
--  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](http://www.worldcat.org/oclc/803415143)
+-  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
 
-- M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](http://www.worldcat.org/oclc/940998520)
+- M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
 
 ## Location
@@ -85,9 +85,9 @@ This fourth-century villa was discovered in 1973.  An apse and a figured mosaic 
 4C
 
 ## Bibliography
-- M.R. Puig and R. Montanya Maluquer, *Mosaicos de la villa romana de Puente de la Olmilla (Albadalejo, Ciudad Real)*, Pyrenae: revista de prehistòria i antiguitat de la Mediterrània Occidental, ISSN 0079-8215, Nº. 11, 1975, pp. 133-143. [(worldcat)](http://www.worldcat.org/oclc/7840420644)
+- M.R. Puig and R. Montanya Maluquer, *Mosaicos de la villa romana de Puente de la Olmilla (Albadalejo, Ciudad Real)*, Pyrenae: revista de prehistòria i antiguitat de la Mediterrània Occidental, ISSN 0079-8215, Nº. 11, 1975, pp. 133-143. [(worldcat)](https://search.worldcat.org/title/7840420644)
 
-- M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. [(worldcat)](http://www.worldcat.org/oclc/7840420644)
+- M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. [(worldcat)](https://search.worldcat.org/title/7840420644)
 
 
 ## Pleiades ID

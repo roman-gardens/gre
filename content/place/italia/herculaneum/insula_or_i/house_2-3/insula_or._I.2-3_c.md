@@ -54,7 +54,7 @@ C. There are five rooms south of the peristyle and on a lower level beyond them 
 Unspecified
 
 ## Bibliography
-* Maiuri, *Ercolano*, p. 353 [(worldcat)](http://www.worldcat.org/oclc/490581395)
+* Maiuri, *Ercolano*, p. 353 [(worldcat)](https://search.worldcat.org/title/490581395)
 
 ## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

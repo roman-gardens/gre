@@ -51,14 +51,14 @@ Behind shop no. 10 and the accompanying living quarters was a garden (a) enclose
 Unspecified
 
 ## Bibliography
-* Döhl,*Plastik aus Pompeji*, p. 48, (listed under VIII.vii.5-11) [(worldcat)](http://www.worldcat.org/oclc/52662796)
-* Fiorelli, *Notizie degli scavi di Antichita* (1881), p. 17 [(worldcat)](http://www.worldcat.org/oclc/638883283)
-* Fiorelli, *Descrizione di Pompei*, p. 349 [(worldcat)](http://www.worldcat.org/oclc/1198324804)
-* Jashemski, *Gardens*, 1:187 and fig. 277 on p. 187 [(worldcat)](http://www.worldcat.org/oclc/1047945215)
-* Jashemski, *Gardens*, vol. II, pp. 221-222 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1875), p. 168 [(worldcat)](http://www.worldcat.org/oclc/823239162)
-* Soprano, *I triclini all'aperto di Pompei* In Pompeiana, p. 302, no. 18 [(worldcat)](http://www.worldcat.org/oclc/78719058)
-* Spano, *Notizie degli scavi di Antichita* (1910), pp. 265-268 and fig. 5 (plan) on p. 263 [(worldcat)](http://www.worldcat.org/oclc/638883283)
+* Döhl,*Plastik aus Pompeji*, p. 48, (listed under VIII.vii.5-11) [(worldcat)](https://search.worldcat.org/title/52662796)
+* Fiorelli, *Notizie degli scavi di Antichita* (1881), p. 17 [(worldcat)](https://search.worldcat.org/title/638883283)
+* Fiorelli, *Descrizione di Pompei*, p. 349 [(worldcat)](https://search.worldcat.org/title/1198324804)
+* Jashemski, *Gardens*, 1:187 and fig. 277 on p. 187 [(worldcat)](https://search.worldcat.org/title/1047945215)
+* Jashemski, *Gardens*, vol. II, pp. 221-222 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1875), p. 168 [(worldcat)](https://search.worldcat.org/title/823239162)
+* Soprano, *I triclini all'aperto di Pompei* In Pompeiana, p. 302, no. 18 [(worldcat)](https://search.worldcat.org/title/78719058)
+* Spano, *Notizie degli scavi di Antichita* (1910), pp. 265-268 and fig. 5 (plan) on p. 263 [(worldcat)](https://search.worldcat.org/title/638883283)
 
 
 ## Contributor

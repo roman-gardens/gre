@@ -32,13 +32,13 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Bibliography
-- J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](http://www.worldcat.org/oclc/1090911182)
+- J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
 
-- P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](http://www.worldcat.org/oclc/640067386)
+- P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](https://search.worldcat.org/title/640067386)
 
--  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](http://www.worldcat.org/oclc/803415143)
+-  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
 
-- M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](http://www.worldcat.org/oclc/940998520)
+- M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
 
 ## Location
@@ -86,11 +86,11 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 1C AD
 
 ## Bibliography
-- F. Tarrats et al., *El área residencial de la villa romana de “Els Munts*, Madrider Mitteilungen 41. Mainz, 2000, pp. 358-379. [(worldcat)](http://www.worldcat.org/oclc/7180188573)
+- F. Tarrats et al., *El área residencial de la villa romana de “Els Munts*, Madrider Mitteilungen 41. Mainz, 2000, pp. 358-379. [(worldcat)](https://search.worldcat.org/title/7180188573)
 
-- F. Tarrats, E. Ramón Seriñena and J. M. Macías I Solé, *Noves intervencions a la vil.la romana dels Munts*, in Tribuna d’Arqueologia 1996-1997. Generalitat de Catalunya, Barcelona, 1997, pp. 35-56. [(worldcat)](http://www.worldcat.org/oclc/47686221)
+- F. Tarrats, E. Ramón Seriñena and J. M. Macías I Solé, *Noves intervencions a la vil.la romana dels Munts*, in Tribuna d’Arqueologia 1996-1997. Generalitat de Catalunya, Barcelona, 1997, pp. 35-56. [(worldcat)](https://search.worldcat.org/title/47686221)
 
-- J.G. Gorges, *Les villes hispano-romaines*. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, p. 407-8. [(worldcat)](http://www.worldcat.org/oclc/803415143)
+- J.G. Gorges, *Les villes hispano-romaines*. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, p. 407-8. [(worldcat)](https://search.worldcat.org/title/803415143)
 
 
 

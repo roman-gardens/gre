@@ -48,9 +48,9 @@ Park-like areas were located between the Great Palaestra and the Amphitheater an
 
 
 ## Bibliography
-* Jashemski, W. 1979. *Gardens of Pompeii*, vol.I, pp.13-14, 161-162 [(worldcat)](http://www.worldcat.org/oclc/884024123)
-* Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.91-92 [(worldcat)](http://www.worldcat.org/oclc/921816405)
-* Maiuri, A. 1939. *Notizie degli scavi di antichità*, pp.194 [(worldcat)](http://www.worldcat.org/oclc/1646037)
+* Jashemski, W. 1979. *Gardens of Pompeii*, vol.I, pp.13-14, 161-162 [(worldcat)](https://search.worldcat.org/title/884024123)
+* Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.91-92 [(worldcat)](https://search.worldcat.org/title/921816405)
+* Maiuri, A. 1939. *Notizie degli scavi di antichità*, pp.194 [(worldcat)](https://search.worldcat.org/title/1646037)
 
 
 ## Contributor

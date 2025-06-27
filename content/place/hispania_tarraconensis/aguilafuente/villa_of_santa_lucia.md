@@ -31,10 +31,10 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Bibliography
-- J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](http://www.worldcat.org/oclc/1090911182)
-- P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](http://www.worldcat.org/oclc/640067386)
--  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](http://www.worldcat.org/oclc/803415143)
-- M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](http://www.worldcat.org/oclc/940998520)
+- J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
+- P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](https://search.worldcat.org/title/640067386)
+-  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
+- M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
 
 ## Location
@@ -73,9 +73,9 @@ Excavation in 1968 – 1972 at this site, which has been reburied, revealed over
 4C
 
 ## Bibliography
-- M.ª Lucas and V. Viñas, *La villa romana de Aguilafuente (Segovia) in Symposium de arqueología romana*, Segovia y la arqueología romana. Publicaciones eventuales 27, Universidad de Barcelona, Barcelona, 1977, pp. 239-255.[(worldcat)](http://www.worldcat.org/oclc/7180188573)
+- M.ª Lucas and V. Viñas, *La villa romana de Aguilafuente (Segovia) in Symposium de arqueología romana*, Segovia y la arqueología romana. Publicaciones eventuales 27, Universidad de Barcelona, Barcelona, 1977, pp. 239-255.[(worldcat)](https://search.worldcat.org/title/7180188573)
 
-- M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986;  J.G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 355. [(worldcat)](http://www.worldcat.org/oclc/758189394)
+- M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986;  J.G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 355. [(worldcat)](https://search.worldcat.org/title/758189394)
 
 
 

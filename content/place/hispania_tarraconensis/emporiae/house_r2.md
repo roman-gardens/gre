@@ -31,13 +31,13 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Bibliography
-- J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](http://www.worldcat.org/oclc/1090911182)
+- J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
 
-- P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](http://www.worldcat.org/oclc/640067386)
+- P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](https://search.worldcat.org/title/640067386)
 
--  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](http://www.worldcat.org/oclc/803415143)
+-  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
 
-- M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](http://www.worldcat.org/oclc/940998520)
+- M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
 
 ## Location
@@ -58,15 +58,15 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 
 
 ## Bibliography
-- M.A. Basch, Ampurias; *historia de la ciudad y guía de las excavaciones*. Barcelona, 1951 [(worldcat)](http://www.worldcat.org/oclc/802755367)
+- M.A. Basch, Ampurias; *historia de la ciudad y guía de las excavaciones*. Barcelona, 1951 [(worldcat)](https://search.worldcat.org/title/802755367)
 
-- A. Balil Iliana, *Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana*, in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid,  1972 [(worldcat)](http://www.worldcat.org/oclc/7243478)
+- A. Balil Iliana, *Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana*, in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid,  1972 [(worldcat)](https://search.worldcat.org/title/7243478)
 
--  R. Marcet i Barbé and E. Sanmartí, *Empuries*, Barcelona, 1989 [(worldcat)](http://www.worldcat.org/oclc/22917816)
+-  R. Marcet i Barbé and E. Sanmartí, *Empuries*, Barcelona, 1989 [(worldcat)](https://search.worldcat.org/title/22917816)
 
-- R. Mar and J. Ruiz de Arbulo, *Ampurias romana : historia, arquitectura y arqueología*. Sabadell, 1993 [(worldcat)](http://www.worldcat.org/oclc/30732452)
+- R. Mar and J. Ruiz de Arbulo, *Ampurias romana : historia, arquitectura y arqueología*. Sabadell, 1993 [(worldcat)](https://search.worldcat.org/title/30732452)
 
-- B. Tang, *Delos, Carthage, Ampurias, The Housing of Three Mediterranean Trading Centers*, Bretschneider, Rome, 2005. [(worldcat)](http://www.worldcat.org/oclc/57730335)
+- B. Tang, *Delos, Carthage, Ampurias, The Housing of Three Mediterranean Trading Centers*, Bretschneider, Rome, 2005. [(worldcat)](https://search.worldcat.org/title/57730335)
 
 
 ## Plans
@@ -89,13 +89,13 @@ House R2, situated south of House R1 in the area of the forum of the Roman City 
 
 
 ## Bibliography
-- X. Aquilué and J. Ruíz de Arbulo, *La jardinería en la época antigua*, in Historia de los Parques y Jardines en España. Edita Grupo FCC, Madrid, 2001,  p. 12 [(worldcat)](http://www.worldcat.org/oclc/1090911182)
+- X. Aquilué and J. Ruíz de Arbulo, *La jardinería en la época antigua*, in Historia de los Parques y Jardines en España. Edita Grupo FCC, Madrid, 2001,  p. 12 [(worldcat)](https://search.worldcat.org/title/1090911182)
 
-- A. Balil Iliana, *Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana*, in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid, 1973, 101-102 [(worldcat)](http://www.worldcat.org/oclc/7243478)
+- A. Balil Iliana, *Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana*, in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid, 1973, 101-102 [(worldcat)](https://search.worldcat.org/title/7243478)
 
-- R. Mar and J. Ruíz de Arbulo, Ampurias Romana, Editorial Ausa, Sabadell, 1993, 390–397 [(worldcat)](http://www.worldcat.org/oclc/30732452)
+- R. Mar and J. Ruíz de Arbulo, Ampurias Romana, Editorial Ausa, Sabadell, 1993, 390–397 [(worldcat)](https://search.worldcat.org/title/30732452)
 
-- E. Ripio Perelló, Ampurias: Itinerary-Guide, Publicaciones del “Instituto de Prehistoria y Arqueología de la Diputación Provincial de Barcelona, Barcelona, 1972. [(worldcat)](http://www.worldcat.org/oclc/45255754)
+- E. Ripio Perelló, Ampurias: Itinerary-Guide, Publicaciones del “Instituto de Prehistoria y Arqueología de la Diputación Provincial de Barcelona, Barcelona, 1972. [(worldcat)](https://search.worldcat.org/title/45255754)
 
 ## Plans
 {{< image src="HIS_TAR_Emp_R2_fig1.jpg" alt="The Roman or Republican city at Ampurias." title="The Roman or Republican city at Ampurias.  Adapted from Mar and Ruiiz de Arbulo." >}}

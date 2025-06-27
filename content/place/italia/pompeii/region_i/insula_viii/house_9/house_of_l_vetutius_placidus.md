@@ -83,7 +83,7 @@ unspecified
 ## Bibliography
 
 * Della Corte, *NSc* (1946), p. 95.
-* Jashemski, *Gardens*, vol.II, p. 42. [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Jashemski, *Gardens*, vol.II, p. 42. [(worldcat)](https://search.worldcat.org/title/921816405)
 * <span style="color:green">Schefold, *WändP*, p. 37. </span>
 * Soprano, p. 297, no. 7.
 

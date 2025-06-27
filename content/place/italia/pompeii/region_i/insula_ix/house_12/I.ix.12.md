@@ -79,7 +79,7 @@ unspecified
 ## Bibliography
 
 * DeVos, “Scavi nuovi sconoscuti (1.9.13),” *Meded* 38 (1976), pl. 35 (plan).
-* Jashemski, *Gardens*, vol.II, p. 45. [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Jashemski, *Gardens*, vol.II, p. 45. [(worldcat)](https://search.worldcat.org/title/921816405)
 * Orr, no. 4.
 
 ## Pleiades ID

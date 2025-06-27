@@ -92,9 +92,9 @@ A.D. 75-100 built
 
 1. J. P. Bacou, La villa gallo-romaine de Condoumine à Puissalicon, civitas de Béziers, *Revue Archéologique de Narbonnaise*, 1971, 4, P. 93 – 149.
 
-2. Bacou, J.-P. "La Villa Gallo-Romaine De Condoumine À Puissalicon (civitas De Béziers)." *Revue Archéologique De Narbonnaise*. 4.1 (1971): 93-149. [(worldcat)](http://www.worldcat.org/oclc/4797757945)
+2. Bacou, J.-P. "La Villa Gallo-Romaine De Condoumine À Puissalicon (civitas De Béziers)." *Revue Archéologique De Narbonnaise*. 4.1 (1971): 93-149. [(worldcat)](https://search.worldcat.org/title/4797757945)
 
-2. Alain Bouet, *Les thermes publics et privés en Gaule Narbonnaise*, vol. II, catalogue, coll. École Française de Rome 320, Rome, 2003, P. 208-11. [(worldcat)](http://www.worldcat.org/oclc/490154337)
+2. Alain Bouet, *Les thermes publics et privés en Gaule Narbonnaise*, vol. II, catalogue, coll. École Française de Rome 320, Rome, 2003, P. 208-11. [(worldcat)](https://search.worldcat.org/title/490154337)
 
 
 

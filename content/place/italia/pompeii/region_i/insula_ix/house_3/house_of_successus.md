@@ -88,9 +88,9 @@ unspecified
 ## Bibliography
 
 * Della Corte, *Case*, p. 339, no. 723a.
-* Jashemski, *Gardens*, vol. 1, fig. 160 on p. 102 (for the portrait). [(worldcat)](http://www.worldcat.org/oclc/884024123)
-* Jashemski, *Gardens*, vol.II, pp. 44; <span style="color:orange">395</span>. [(worldcat)](http://www.worldcat.org/oclc/921816405)
-* Maiuri, *Pompeii*, p. 82. [(worldcat)](http://www.worldcat.org/oclc/470375462)
+* Jashemski, *Gardens*, vol. 1, fig. 160 on p. 102 (for the portrait). [(worldcat)](https://search.worldcat.org/title/884024123)
+* Jashemski, *Gardens*, vol.II, pp. 44; <span style="color:orange">395</span>. [(worldcat)](https://search.worldcat.org/title/921816405)
+* Maiuri, *Pompeii*, p. 82. [(worldcat)](https://search.worldcat.org/title/470375462)
 * Schefold, *WandP*, p. 38.
 
 ## Pleiades ID

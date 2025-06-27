@@ -79,8 +79,8 @@ Agriculture
 
 ## Bibliography
 
-*   Patrich, J.,“A Juglet Containing Balsam Oil (?) from a Cave near Qumran,” Israel Exploration Journal  39 (1989):43-49 [(worldcat)](https://www.worldcat.org/title/juglet-containing-balsam-oil-from-a-cave-near-qumran/oclc/310426513&referer=brief_results)
-*   Sallon, S., Cherif, E., Chabrillange, N., Solowey, E., Gros-Balthazard, M., Ivorra, S., & Aberlenc, F. (2020). Origins and insights into the historic Judean date palm based on genetic analysis of germinated ancient seeds and morphometric studies. Science advances, 6(6), eaax0384. [(worldcat)](https://www.worldcat.org/title/origins-and-insights-into-the-historic-judean-date-palm-based-on-genetic-analysis-of-germinated-ancient-seeds-and-morphometric-studies/oclc/8536654525&referer=brief_results)
+*   Patrich, J.,“A Juglet Containing Balsam Oil (?) from a Cave near Qumran,” Israel Exploration Journal  39 (1989):43-49 [(worldcat)](https://search.worldcat.org/title/310426513)
+*   Sallon, S., Cherif, E., Chabrillange, N., Solowey, E., Gros-Balthazard, M., Ivorra, S., & Aberlenc, F. (2020). Origins and insights into the historic Judean date palm based on genetic analysis of germinated ancient seeds and morphometric studies. Science advances, 6(6), eaax0384. [(worldcat)](https://search.worldcat.org/title/8536654525)
 
 
 ## Pleiades ID

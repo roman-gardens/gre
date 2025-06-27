@@ -71,7 +71,7 @@ The villa from the middle of the 2nd century evolved around a peristyle garden w
 
 
 ## Bibliography
-- F. Gusi and C. Olaria : La villa romana de Benicató (Nules, Castellón). Cuadernos de Prehistoria y, Arqueología Castellonenses, 4, (1996) pp. 101-144. [(worldcat)](http://www.worldcat.org/oclc/802707581)
+- F. Gusi and C. Olaria : La villa romana de Benicató (Nules, Castellón). Cuadernos de Prehistoria y, Arqueología Castellonenses, 4, (1996) pp. 101-144. [(worldcat)](https://search.worldcat.org/title/802707581)
 
 ## Pleiades ID
 

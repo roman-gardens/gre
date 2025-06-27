@@ -71,20 +71,20 @@ Luckily a small part of it was preserved, and here we still find the low parapet
 Unspecified
 
 ## Bibliography
-- COLINI 1985 = A. M. COLINI., *Tra Castel Fusano e Capocotta: il vicus Augustanus e le ville di Ortensio e di Plinio il Giovane*, Sin AA. VV., Capocotta ultima spiaggia. Proposta per il parco naturalistico-archeologico del litorale romano, Roma 1985, pp. 79-87. [worldcat](http://www.worldcat.org/oclc/462024461)
+- COLINI 1985 = A. M. COLINI., *Tra Castel Fusano e Capocotta: il vicus Augustanus e le ville di Ortensio e di Plinio il Giovane*, Sin AA. VV., Capocotta ultima spiaggia. Proposta per il parco naturalistico-archeologico del litorale romano, Roma 1985, pp. 79-87. [worldcat](https://search.worldcat.org/title/462024461)
 
-- SALZA PRINA RICOTTI 1984 = E. SALZA PRINA RICOTTI, , *La c.d. Villa Magna: il Laurentinum di Plinio il Giovane*, RendLinc 39 (1984), pp. 339-358 [worldcat](http://www.worldcat.org/oclc/15561411)
+- SALZA PRINA RICOTTI 1984 = E. SALZA PRINA RICOTTI, , *La c.d. Villa Magna: il Laurentinum di Plinio il Giovane*, RendLinc 39 (1984), pp. 339-358 [worldcat](https://search.worldcat.org/title/15561411)
 
-- SALZA PRINA RICOTTI 1985 =  E. SALZA PRINA RICOTTI, , *La Villa Magna a Grotte di Piastra*, in Castelporziano I. Iª Campagna di scavo e di restauro 1984, Roma 1985, pp. 53-66 [worldcat](http://www.worldcat.org/oclc/848344120)
+- SALZA PRINA RICOTTI 1985 =  E. SALZA PRINA RICOTTI, , *La Villa Magna a Grotte di Piastra*, in Castelporziano I. Iª Campagna di scavo e di restauro 1984, Roma 1985, pp. 53-66 [worldcat](https://search.worldcat.org/title/848344120)
 
-- SALZA PRINA RICOTTI 1987 = E. SALZA PRINA RICOTTI, , *The Importance of Water in Roman Garden Triclinia*,in Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection), Dumbarton Oaks 1987, pp. 137-184 [worldcat](http://www.worldcat.org/oclc/887179596)
+- SALZA PRINA RICOTTI 1987 = E. SALZA PRINA RICOTTI, , *The Importance of Water in Roman Garden Triclinia*,in Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection), Dumbarton Oaks 1987, pp. 137-184 [worldcat](https://search.worldcat.org/title/887179596)
 
-- SALZA PRINA RICOTTI 1987a = E. SALZA PRINA RICOTTI, , *La Villa Magna a Grotte di Piastra*,in Castelporziano II. Campagna di scavo e di restauro 1985 – 1986, Roma 1987, pp. 45-66 [worldcat](http://www.worldcat.org/oclc/848344120)
+- SALZA PRINA RICOTTI 1987a = E. SALZA PRINA RICOTTI, , *La Villa Magna a Grotte di Piastra*,in Castelporziano II. Campagna di scavo e di restauro 1985 – 1986, Roma 1987, pp. 45-66 [worldcat](https://search.worldcat.org/title/848344120)
 
 - SALZA PRINA RICOTTI 1989 = E. SALZA PRINA RICOTTI, , *Sul terrazzo odoroso di viole: la scoperta della villa di Plinio il Giovane*,Archeo 54 (agosto 1989), pp. 34-43
-[worldcat](https://www.worldcat.org/title/archeo/oclc/920385284/editions?referer=di&editionsView=true)
+[worldcat](https://search.worldcat.org/title/920385284/editions?referer=di&editionsView=true)
 
-- SALZA PRINA RICOTTI 2002 = E. SALZA PRINA RICOTTI, , *Sistemazione paesaggistica del fronte a mare e giardini nelle ville marittime di epoca romana*,in Giornate di studio in occasione del 250º anniversario degli Scavi di Stabia (in print), pp. 137-169 [worldcat](http://www.worldcat.org/oclc/469755044)
+- SALZA PRINA RICOTTI 2002 = E. SALZA PRINA RICOTTI, , *Sistemazione paesaggistica del fronte a mare e giardini nelle ville marittime di epoca romana*,in Giornate di studio in occasione del 250º anniversario degli Scavi di Stabia (in print), pp. 137-169 [worldcat](https://search.worldcat.org/title/469755044)
 
 
 

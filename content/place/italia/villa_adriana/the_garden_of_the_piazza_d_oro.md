@@ -94,34 +94,34 @@ unspecified
 ## Bibliography
 
 <!-- Bibliography for Location Description -->
-* H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
-* H. Kähler, *Hadrian und sein Villa bei Tivoli*, Berlin 1950. [(worldcat)](http://www.worldcat.org/oclc/1034105)
-* S. Aurigemma, *Villa Adriana*, Roma 1961. [(worldcat)](http://www.worldcat.org/oclc/646837399)
-* F. Rakob, "Der Bauplan einer kaiserlichen Villa," in W. Hartmann (ed.), *Festschrift K. Langheit*, Bönn 1973, pp. 113-125. [(worldcat)](http://www.worldcat.org/oclc/300184474)
-* F. E. Brown, "Hadrianic Architecture," in L. F. Sadler (ed.), *Essays in Memory of Karl Lehmann*, New York 1964, pp. 55-58. [(worldcat)](http://www.worldcat.org/oclc/911991480)
-* G. Lugli, "Studi topografici intorno alle antiche ville suburbane. VI. Villa Adriana. A. - Una villa di età repubblicana inclusa nelle contruzioni imperiali," *Bullettino della Commissione archeologica Comunale di Roma* 55, 1927, pp. 139-204. [(worldcat)](http://www.worldcat.org/oclc/1716088)
-* C. Caprino, "Plastico marmoreo di uno stadio nella Villa Adriana a Tivoli," *Rivista dell'Instuto nazionale di archeologia e storia dell'arte* 3 s., 19-20 (1996-97), pp. 113-151. [(worldcat)](http://www.worldcat.org/oclc/1754035)
-* E. Salza Prina Ricotti, "Nascita e sviluppo di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 65, 1992-93, p. 73. [(worldcat)](http://www.worldcat.org/oclc/797448140)
-* E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 144-147. [(worldcat)](http://www.worldcat.org/oclc/46784026)
-* J. E. Foss, J. T. Ammons, M. E. Simmons, S. Y. Lee, R. C. Minter, "Genesis of soil developed in volcanic tufa at Hadrian's Villa near Rome," *Agronomy Abstracts ASA*, Madison WL 1990, p. 291. [(worldcat)](http://www.worldcat.org/oclc/1644021)
-* J. E. Foss, "Appendice. Soils of Hadrian's Villa," in E. Salza Prina Ricotti, “Il sistema di irrigazione della Piazza d’Oro,” *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 62 (1989-90), pp. 151-157. [(worldcat)](http://www.worldcat.org/oclc/1074521932)
-* J. E. Foss, "Appendice. Soils of Hadrian's Villa," in W. F. Jashemski, E. Salza Prina Ricotti "Preliminary Excavations in the Gardens of Hadrian's Villa: the Canopus Area and the Piazza d'Oro" *American Journal of Archaeology*, Vol. 96, No.4 (Oct. 1992), pp. 595-597. [(worldcat)](http://www.worldcat.org/oclc/1032864253)<!-- worldcat link is for the journal, not the specific issue thereof --> [(jstor)](http://www.jstor.org/stable/505186)
-* M. E. Timpson, J.E. Foss, R. J. Lewis, C. A. Stiles, "Soil interpretation of some Roman archaeological sites in Italy and Tunisia," *15th Int. Congr. of Soil Science*, Vol. 6b, 1994, pp. 172-173. [(worldcat)](http://www.worldcat.org/oclc/32679652)
-* J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](http://www.worldcat.org/oclc/1040851034)
+* H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](https://search.worldcat.org/title/12847711)
+* H. Kähler, *Hadrian und sein Villa bei Tivoli*, Berlin 1950. [(worldcat)](https://search.worldcat.org/title/1034105)
+* S. Aurigemma, *Villa Adriana*, Roma 1961. [(worldcat)](https://search.worldcat.org/title/646837399)
+* F. Rakob, "Der Bauplan einer kaiserlichen Villa," in W. Hartmann (ed.), *Festschrift K. Langheit*, Bönn 1973, pp. 113-125. [(worldcat)](https://search.worldcat.org/title/300184474)
+* F. E. Brown, "Hadrianic Architecture," in L. F. Sadler (ed.), *Essays in Memory of Karl Lehmann*, New York 1964, pp. 55-58. [(worldcat)](https://search.worldcat.org/title/911991480)
+* G. Lugli, "Studi topografici intorno alle antiche ville suburbane. VI. Villa Adriana. A. - Una villa di età repubblicana inclusa nelle contruzioni imperiali," *Bullettino della Commissione archeologica Comunale di Roma* 55, 1927, pp. 139-204. [(worldcat)](https://search.worldcat.org/title/1716088)
+* C. Caprino, "Plastico marmoreo di uno stadio nella Villa Adriana a Tivoli," *Rivista dell'Instuto nazionale di archeologia e storia dell'arte* 3 s., 19-20 (1996-97), pp. 113-151. [(worldcat)](https://search.worldcat.org/title/1754035)
+* E. Salza Prina Ricotti, "Nascita e sviluppo di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 65, 1992-93, p. 73. [(worldcat)](https://search.worldcat.org/title/797448140)
+* E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 144-147. [(worldcat)](https://search.worldcat.org/title/46784026)
+* J. E. Foss, J. T. Ammons, M. E. Simmons, S. Y. Lee, R. C. Minter, "Genesis of soil developed in volcanic tufa at Hadrian's Villa near Rome," *Agronomy Abstracts ASA*, Madison WL 1990, p. 291. [(worldcat)](https://search.worldcat.org/title/1644021)
+* J. E. Foss, "Appendice. Soils of Hadrian's Villa," in E. Salza Prina Ricotti, “Il sistema di irrigazione della Piazza d’Oro,” *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 62 (1989-90), pp. 151-157. [(worldcat)](https://search.worldcat.org/title/1074521932)
+* J. E. Foss, "Appendice. Soils of Hadrian's Villa," in W. F. Jashemski, E. Salza Prina Ricotti "Preliminary Excavations in the Gardens of Hadrian's Villa: the Canopus Area and the Piazza d'Oro" *American Journal of Archaeology*, Vol. 96, No.4 (Oct. 1992), pp. 595-597. [(worldcat)](https://search.worldcat.org/title/1032864253)<!-- worldcat link is for the journal, not the specific issue thereof --> [(jstor)](http://www.jstor.org/stable/505186)
+* M. E. Timpson, J.E. Foss, R. J. Lewis, C. A. Stiles, "Soil interpretation of some Roman archaeological sites in Italy and Tunisia," *15th Int. Congr. of Soil Science*, Vol. 6b, 1994, pp. 172-173. [(worldcat)](https://search.worldcat.org/title/32679652)
+* J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](https://search.worldcat.org/title/1040851034)
 <!-- Bibliography for Garden Description -->
-* E. Salza Prina Ricotti, “The Importance of Water in Roman Garden Triclinia”, in *Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection)*, Dumbarton Oaks 1987, pp. 180-181, figs. 29-34. [(worldcat)](http://www.worldcat.org/oclc/887179596)
-* W. F. Jashemski, E. Salza Prina Ricotti, “I giardini di Villa Adriana: rapporto preliminare”, *Atti della Pontificia Accademia romana di archeologia: Rendiconti*, Vol. 60 (1987-88), pp. 162-169, figs. 16-22. [(worldcat)](http://www.worldcat.org/oclc/1075183783)
-* E. Salza Prina Ricotti, “Adriano: architettura del verde e dell'acqua”, in *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, pp. 370-374, figs. 4-8. [(worldcat)](http://www.worldcat.org/oclc/636808013)
-* E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 339-354, figs. 117-126. [(worldcat)](http://www.worldcat.org/oclc/46784026)
+* E. Salza Prina Ricotti, “The Importance of Water in Roman Garden Triclinia”, in *Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection)*, Dumbarton Oaks 1987, pp. 180-181, figs. 29-34. [(worldcat)](https://search.worldcat.org/title/887179596)
+* W. F. Jashemski, E. Salza Prina Ricotti, “I giardini di Villa Adriana: rapporto preliminare”, *Atti della Pontificia Accademia romana di archeologia: Rendiconti*, Vol. 60 (1987-88), pp. 162-169, figs. 16-22. [(worldcat)](https://search.worldcat.org/title/1075183783)
+* E. Salza Prina Ricotti, “Adriano: architettura del verde e dell'acqua”, in *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, pp. 370-374, figs. 4-8. [(worldcat)](https://search.worldcat.org/title/636808013)
+* E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 339-354, figs. 117-126. [(worldcat)](https://search.worldcat.org/title/46784026)
 * PLIN. *nat.* 16.60.139-141
 * PLIN. *epist.* 5.6.16-17
 * PLIN. *nat.* 12.3-5
 * PLIN. *nat.* 1.15-16
-* W. F. Jashemski, *The Gardens of Pompeii Herculaneum and the Villas Destroyed by the Vesuvius*, I, New York 1979, pp. 77-79 [(worldcat)](http://www.worldcat.org/oclc/472153224)
-* W. F. Jashemski, *The Gardens of Pompeii Herculaneum and the Villas Destroyed by the Vesuvius*, II, New York 1993, *passim* [(worldcat)](http://www.worldcat.org/oclc/769881162)
+* W. F. Jashemski, *The Gardens of Pompeii Herculaneum and the Villas Destroyed by the Vesuvius*, I, New York 1979, pp. 77-79 [(worldcat)](https://search.worldcat.org/title/472153224)
+* W. F. Jashemski, *The Gardens of Pompeii Herculaneum and the Villas Destroyed by the Vesuvius*, II, New York 1993, *passim* [(worldcat)](https://search.worldcat.org/title/769881162)
 * PLIN. *nat.* 16.28.70
 * PLIN. *nat.* 21.14 and 47
-* E. Salza Prina Ricotti, “Il sistema di irrigazione della Piazza d’Oro”, *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 62 (1989-90), pp. 121-150. [(worldcat)](http://www.worldcat.org/oclc/1074521932)
+* E. Salza Prina Ricotti, “Il sistema di irrigazione della Piazza d’Oro”, *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 62 (1989-90), pp. 121-150. [(worldcat)](https://search.worldcat.org/title/1074521932)
 
 ## Pleiades ID
 

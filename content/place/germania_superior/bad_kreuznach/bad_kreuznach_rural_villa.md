@@ -83,8 +83,8 @@ Second half of 2nd century - around 275
 ## Bibliography
 
 * G. Rupprecht, "Die Kreuznacher Mosaikbodenvilla. Kurzbericht (Stand: April 1977)," *Saalburg Jahrbuch* 34, 1977:78-87.
-* G. Rupprecht, "Leben auf dem Land," *Archäologie in Deutschland* 4, 1986: 36-39. [(worldcat)](http://www.worldcat.org/oclc/7788112662)
-* Heinz Cüppers, *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp.321-323, fig. 204. [(worldcat)](http://www.worldcat.org/oclc/1040869002)
+* G. Rupprecht, "Leben auf dem Land," *Archäologie in Deutschland* 4, 1986: 36-39. [(worldcat)](https://search.worldcat.org/title/7788112662)
+* Heinz Cüppers, *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp.321-323, fig. 204. [(worldcat)](https://search.worldcat.org/title/1040869002)
 
 ## Pleiades ID
 

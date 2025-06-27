@@ -35,10 +35,10 @@ Whether the *impluvium* of 30.20 square meters (a) of **House F** in insula II o
 {{< image src="delos_fig10_theat_quart_house_f.jpg" alt="Photo of courtyard inside house F" title="Fig. 3:  Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest. Photo courtesy of M. Trümper." >}}
 
 ## Bibliography
-- J. Chamonard, *Le Quartier du théâtre. Étude sur l’habitation délienne à l’époque hellénistique.* Exploration archéologique de Délos VIII. Paris 1922/24. [(worldcat)](http://www.worldcat.org/oclc/603845054).
-- P. Bruneau, *Recherches sur les cultes de Délos à l’époque hellénistique et à l’époque impériale.* BEFAR 217, 1970. [(worldcat)](http://www.worldcat.org/oclc/2349270).
-- P. Bruneau and J. Ducat, *Guide de Délos. École française d Athènes.* 4th edition, Paris 2005, Nos. 79, 117, 124. [(worldcat)](http://www.worldcat.org/oclc/884638358).
-- M. Trümper, *Wohnen in Delos. Eine baugeschichtliche Untersuchung zum Wandel der Wohnkultur in hellenistischer Zeit.* Internationale Archäologie 46, Rahden/Westfalen 1998: 262-265, 317-318, figs. 59. 62, plan I. [(worldcat)](http://www.worldcat.org/oclc/722868070).
+- J. Chamonard, *Le Quartier du théâtre. Étude sur l’habitation délienne à l’époque hellénistique.* Exploration archéologique de Délos VIII. Paris 1922/24. [(worldcat)](https://search.worldcat.org/title/603845054).
+- P. Bruneau, *Recherches sur les cultes de Délos à l’époque hellénistique et à l’époque impériale.* BEFAR 217, 1970. [(worldcat)](https://search.worldcat.org/title/2349270).
+- P. Bruneau and J. Ducat, *Guide de Délos. École française d Athènes.* 4th edition, Paris 2005, Nos. 79, 117, 124. [(worldcat)](https://search.worldcat.org/title/884638358).
+- M. Trümper, *Wohnen in Delos. Eine baugeschichtliche Untersuchung zum Wandel der Wohnkultur in hellenistischer Zeit.* Internationale Archäologie 46, Rahden/Westfalen 1998: 262-265, 317-318, figs. 59. 62, plan I. [(worldcat)](https://search.worldcat.org/title/722868070).
 
 ## Keywords
 - {{< keyword "impluvia" >}}

@@ -51,10 +51,10 @@ At the time of the eruption this site (a) was under construction. A portico was 
 Unspecified
 
 ## Bibliography
-* *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), plan between pp. 170 and 171 where this garden is VIII.vii.[6][(worldcat)](http://www.worldcat.org/oclc/955010670)
-* Jashemski, *Gardens*, vol. II, p. 219 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1884), p. 137 plan [(worldcat)](http://www.worldcat.org/oclc/823239162)
-* Sogliano, *Notizie degli scavi di Antichita* (1882), p. 281, 324, 359-360 [(worldcat)](http://www.worldcat.org/oclc/638883283)
+* *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), plan between pp. 170 and 171 where this garden is VIII.vii.[6][(worldcat)](https://search.worldcat.org/title/955010670)
+* Jashemski, *Gardens*, vol. II, p. 219 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1884), p. 137 plan [(worldcat)](https://search.worldcat.org/title/823239162)
+* Sogliano, *Notizie degli scavi di Antichita* (1882), p. 281, 324, 359-360 [(worldcat)](https://search.worldcat.org/title/638883283)
 
 
 ## Contributor

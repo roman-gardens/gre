@@ -79,10 +79,10 @@ unspecified
 
 ## Bibliography
 
-- Jashemski, *Gardens*, vol.II, pp. 369-370 [(worldcat)](http://www.worldcat.org/oclc/1029851777)
-- Maiuri, *Herculaneum*, pp. 35-36 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
-- Maiuri, *Ercolano*, pp. 51, 272-274 and fig. 213 (plan) on p. 266;[(worldcat)](http://www.worldcat.org/oclc/490581395)
-- Sear, *Roman wall and vault mosaics* no. 26, pp. 66-67, calls the shrine a fountain.[(worldcat)](http://www.worldcat.org/oclc/871655330)
+- Jashemski, *Gardens*, vol.II, pp. 369-370 [(worldcat)](https://search.worldcat.org/title/1029851777)
+- Maiuri, *Herculaneum*, pp. 35-36 [(worldcat)](https://search.worldcat.org/title/1107784297)
+- Maiuri, *Ercolano*, pp. 51, 272-274 and fig. 213 (plan) on p. 266;[(worldcat)](https://search.worldcat.org/title/490581395)
+- Sear, *Roman wall and vault mosaics* no. 26, pp. 66-67, calls the shrine a fountain.[(worldcat)](https://search.worldcat.org/title/871655330)
 
 ## Contributor
 

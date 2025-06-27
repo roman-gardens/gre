@@ -71,8 +71,8 @@ This house located E of the House of the Dolphins, has a small sunken peristyle 
 Early 3rd century CE
 
 ## Bibliography
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.306-308. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-* Dulière, C., *Corpus des Mosaïques de Tunisie*, *Thysdrus, El Jem*, *Quartier Sud-Ouest*, INA, Tunis, 1996, pp. 101-105, plans 7.[(worldcat)](http://www.worldcat.org/oclc/884623863)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.306-308. [(worldcat)](https://search.worldcat.org/title/989088620)
+* Dulière, C., *Corpus des Mosaïques de Tunisie*, *Thysdrus, El Jem*, *Quartier Sud-Ouest*, INA, Tunis, 1996, pp. 101-105, plans 7.[(worldcat)](https://search.worldcat.org/title/884623863)
 
 
 

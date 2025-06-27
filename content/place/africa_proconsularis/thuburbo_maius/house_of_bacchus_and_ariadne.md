@@ -86,16 +86,16 @@ We next consider the identity of the many smaller roots.  Since this garden was 
 5th century CE
 
 ## Bibliography
-* Alexander, M. A., Ben Abed-Ben Khader, A. and David, S., *Corpus des Mosaïques de Tunisie*, *Thuburbo  Majus,  Les  mosaïques  de  la  région  Est*,  V.  II,  fasc.4, INA, Tunis, 1994, pp.39-66, Pl. XXIV. [(worldcat)](http://www.worldcat.org/oclc/71513636)
-* Ben, Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](http://www.worldcat.org/oclc/20058336)
-*  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.214-217. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-* Jashemski, W. F., "Roman Gardens in Tunisia: Preliminary Excavations in the House of Bacchus and Ariadne and in the East Temple at Thuburbo Maius," *AJA* 99 (1995), pp. 559-576. [(worldcat)](http://www.worldcat.org/oclc/7376761548)
+* Alexander, M. A., Ben Abed-Ben Khader, A. and David, S., *Corpus des Mosaïques de Tunisie*, *Thuburbo  Majus,  Les  mosaïques  de  la  région  Est*,  V.  II,  fasc.4, INA, Tunis, 1994, pp.39-66, Pl. XXIV. [(worldcat)](https://search.worldcat.org/title/71513636)
+* Ben, Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](https://search.worldcat.org/title/20058336)
+*  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.214-217. [(worldcat)](https://search.worldcat.org/title/989088620)
+* Jashemski, W. F., "Roman Gardens in Tunisia: Preliminary Excavations in the House of Bacchus and Ariadne and in the East Temple at Thuburbo Maius," *AJA* 99 (1995), pp. 559-576. [(worldcat)](https://search.worldcat.org/title/7376761548)
 * Jashemski, W. F., “Ancient Roman gardens in Campania and Tunisia: a comparison of the
-evidence,” *Journal of Garden History*, 16/4,1996, pp. 231-243.[(worldcat)](http://www.worldcat.org/oclc/195025022)
+evidence,” *Journal of Garden History*, 16/4,1996, pp. 231-243.[(worldcat)](https://search.worldcat.org/title/195025022)
 * Jashemski, W. F., "The Courtyard Garden in the House of Bacchus and Ariadne
-at Thuburbo Maius, Zaghouan, Tunisia" in *Sourcebook for Garden Archaeology, Mthods, Techniques, Interpretations and Field examples*, ed., A-A Malek, Berne, Suisse, Peter Lang, 2013, coll. Parcs et Jardins (Peter Lang/Fondations des parcs et jardins de France), pp. 595-601.[(worldcat)](http://www.worldcat.org/oclc/863671257)
+at Thuburbo Maius, Zaghouan, Tunisia" in *Sourcebook for Garden Archaeology, Mthods, Techniques, Interpretations and Field examples*, ed., A-A Malek, Berne, Suisse, Peter Lang, 2013, coll. Parcs et Jardins (Peter Lang/Fondations des parcs et jardins de France), pp. 595-601.[(worldcat)](https://search.worldcat.org/title/863671257)
 * Lantier, R., "Un bassin a mosaiques de Thurburbo Majus", *BAC* 1944, pp. 280-82 [(Bibliothèque nationale de France)](https://gallica.bnf.fr/ark:/12148/bpt6k62947017/f290.item#)
-* Malek, A.-A., "Le jardin au fil de l’eau : mises en scène paysagères dans les domus de Maghreb antique", in *L’eau dans les villes du Maghreb et leur territoire à l’époque romaine*, Brouquier-Reddé, V., Hurlet, F. (dir.), Bordeaux, Ausonius, 2018, pp. 235-254. [(worldcat)](http://www.worldcat.org/oclc/1078217356)
+* Malek, A.-A., "Le jardin au fil de l’eau : mises en scène paysagères dans les domus de Maghreb antique", in *L’eau dans les villes du Maghreb et leur territoire à l’époque romaine*, Brouquier-Reddé, V., Hurlet, F. (dir.), Bordeaux, Ausonius, 2018, pp. 235-254. [(worldcat)](https://search.worldcat.org/title/1078217356)
 
 
 

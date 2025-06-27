@@ -50,10 +50,10 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Bibliography
 
-* M. Bendala,‘De la Protohistoria a la Conquista Romana’,*Historia General de España y América*, vol. 1, 2, (Madrid 1981-1992) 569-593. [(worldcat)](http://www.worldcat.org/oclc/506194962)
-* J. Mª Blázquez, J. Remesal and E. Rodríguez,*Excavaciones arqueológicas en el Monte Testaccio, Roma : memoria campaña 1989*, Informes Arqueológicos, Ministerio de Cultura, (Madrid 1994). [(worldcat)](http://www.worldcat.org/oclc/506194962)
-* CL. Domergue, ‘Les mines de la Péninsule Ibérique dans l’Antiquité romaine,’ *Collection de l’École Française de Rome, 127*, (Roma 1990). [(worldcat)](http://www.worldcat.org/oclc/1039552105)
-* W. Trillmich, ‘Las ciudades hispanorromanas: reflejos de las metropolis,’ *Hispania : el legado de Roma : Museo Nacional de arte Romano-Mérida, febrero-abril de 1999*, Ministerio de Educación y Cultura, (Madrid 1999), 183-196. [(worldcat)](http://www.worldcat.org/oclc/66909836)
+* M. Bendala,‘De la Protohistoria a la Conquista Romana’,*Historia General de España y América*, vol. 1, 2, (Madrid 1981-1992) 569-593. [(worldcat)](https://search.worldcat.org/title/506194962)
+* J. Mª Blázquez, J. Remesal and E. Rodríguez,*Excavaciones arqueológicas en el Monte Testaccio, Roma : memoria campaña 1989*, Informes Arqueológicos, Ministerio de Cultura, (Madrid 1994). [(worldcat)](https://search.worldcat.org/title/506194962)
+* CL. Domergue, ‘Les mines de la Péninsule Ibérique dans l’Antiquité romaine,’ *Collection de l’École Française de Rome, 127*, (Roma 1990). [(worldcat)](https://search.worldcat.org/title/1039552105)
+* W. Trillmich, ‘Las ciudades hispanorromanas: reflejos de las metropolis,’ *Hispania : el legado de Roma : Museo Nacional de arte Romano-Mérida, febrero-abril de 1999*, Ministerio de Educación y Cultura, (Madrid 1999), 183-196. [(worldcat)](https://search.worldcat.org/title/66909836)
 
 ## Pleiades ID
 - [Baetica]{{<relref ".">}}) 

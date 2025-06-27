@@ -96,13 +96,13 @@ NEW WAY ↓↓↓↓
 
 1. *Maison 1996*, t. II,, p. 309-401
 
-2. *Guide Du Site Saint-Romain-En-Ga*. Paris: Réunion des musées nationaux, 1999, P. 36-39.[worldcat](http://www.worldcat.org/oclc/43416334)
+2. *Guide Du Site Saint-Romain-En-Ga*. Paris: Réunion des musées nationaux, 1999, P. 36-39.[worldcat](https://search.worldcat.org/title/43416334)
 
-3. Gros, Pierre. *L'architecture Romaine Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 189.[worldcat](http://www.worldcat.org/oclc/1169743067)
+3. Gros, Pierre. *L'architecture Romaine Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 189.[worldcat](https://search.worldcat.org/title/1169743067)
 
-4. *Recherches Archéologiques a Saint-Romain-En-Gal (1988 - 1990)*. Vienne, 1992, P. 45-83.[worldcat](http://www.worldcat.org/oclc/1068996218)
+4. *Recherches Archéologiques a Saint-Romain-En-Gal (1988 - 1990)*. Vienne, 1992, P. 45-83.[worldcat](https://search.worldcat.org/title/1068996218)
 
-5. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig. 194.[worldcat](hhttp://www.worldcat.org/oclc/43416334)
+5. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig. 194.[worldcat](hhttps://search.worldcat.org/title/43416334)
 
 
 ## Pleiades ID

@@ -88,11 +88,11 @@ Foundations of garden architecture, water channels and garden soils of the late 
 ## Bibliography
 
 * D. Langgut, K. Gleason, and B. Burrell, “Pollen Analysis as Evidence for Herod’s Royal Garden at the Promontory Palace, Caesarea”  Israel Journal of Plant Sciences  62 (2015): 111-121. http://www.tandfonline.com/action/showCitFormats?doi=10.1080/07929978.2014.975560;
-* K. Gleason et al. “The promontory palace at Caesarea Maritima : preliminary evidence for Herod's Praetorium” Journal of Roman Archaeology, 11 (1998) 23-52. [(worldcat)](https://www.worldcat.org/title/the-promontory-palace-at-caesarea-maritima-preliminary-evidence-for-herods-praetorium/oclc/5884367944&referer=brief_results)
+* K. Gleason et al. “The promontory palace at Caesarea Maritima : preliminary evidence for Herod's Praetorium” Journal of Roman Archaeology, 11 (1998) 23-52. [(worldcat)](https://search.worldcat.org/title/5884367944)
 * B. Burrell, K. Gleason, and E. Netzer, “Uncovering Herod’s Seaside Palace” Biblical Archaeology Review 19.3(1993): 50-57; [link](https://www.baslibrary.org/biblical-archaeology-review/19/3/7)
-* K. Gleason, “Ruler and Spectacle: Herod’s Palace at Caesarea” Caesarea Maritima: a Retrospective after Two Millennia.  Eds., A. Raban and K. Holum,  Leiden: J. Brill, 1996, pp. 208-27; [(worldcat)](https://www.worldcat.org/title/caesarea-maritima-a-retrospective-after-two-millenia/oclc/34557572&referer=brief_results)
-* L.I. Levine, and E. Netzer, Excavations at Caesarea Maritima, Qedem 21, 1986, pp. 158-160; Excavations at Caesarea Maritima [(worldcat)](https://www.worldcat.org/title/excavations-at-caesarea-maritima-1975-1976-1979-final-report/oclc/1172114860&referer=brief_results)
-* E. Netzer, “Herod the Great’s Palace” In Caesarea Maritima: a Retrospective after Two Millennia. Eds. A. Raban and K. Holum, Leiden: J. Brill, 1996, pp. 193-207. [(worldcat)](https://www.worldcat.org/title/caesarea-maritima-a-retrospective-after-two-millenia/oclc/34557572&referer=brief_results)
+* K. Gleason, “Ruler and Spectacle: Herod’s Palace at Caesarea” Caesarea Maritima: a Retrospective after Two Millennia.  Eds., A. Raban and K. Holum,  Leiden: J. Brill, 1996, pp. 208-27; [(worldcat)](https://search.worldcat.org/title/34557572)
+* L.I. Levine, and E. Netzer, Excavations at Caesarea Maritima, Qedem 21, 1986, pp. 158-160; Excavations at Caesarea Maritima [(worldcat)](https://search.worldcat.org/title/1172114860)
+* E. Netzer, “Herod the Great’s Palace” In Caesarea Maritima: a Retrospective after Two Millennia. Eds. A. Raban and K. Holum, Leiden: J. Brill, 1996, pp. 193-207. [(worldcat)](https://search.worldcat.org/title/34557572)
 
 ## Pleiades ID
 

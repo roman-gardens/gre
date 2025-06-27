@@ -77,9 +77,9 @@ Adjacent to the east apartment is a light well with an earthen floor, which can 
 mid 2nd century CE
 
 ## Bibliography
-- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 12-14. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-- Gozlan, S., Jeddi, N., Blanc-Bijon, V., Bourgeois, A., *Recherches archéologiques franco-tunisiennes à Acholla. II - Les mosaïques des maisons du quartier central et les mosaïques éparses* (Collection de l’EFR), Rome, INAA – EFR, 2001, p. 19-28, plan Pl. II. [(worldcat)](http://www.worldcat.org/oclc/46598604)
-- Rebuffat, R., *Maisons à péristyle d’Afrique du Nord, Répertoire de plans publiés*, II, MEFRA, tome 86, 1974-1, p.454. [(worldcat)](http://www.worldcat.org/oclc/1069174087)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 12-14. [(worldcat)](https://search.worldcat.org/title/989088620)
+- Gozlan, S., Jeddi, N., Blanc-Bijon, V., Bourgeois, A., *Recherches archéologiques franco-tunisiennes à Acholla. II - Les mosaïques des maisons du quartier central et les mosaïques éparses* (Collection de l’EFR), Rome, INAA – EFR, 2001, p. 19-28, plan Pl. II. [(worldcat)](https://search.worldcat.org/title/46598604)
+- Rebuffat, R., *Maisons à péristyle d’Afrique du Nord, Répertoire de plans publiés*, II, MEFRA, tome 86, 1974-1, p.454. [(worldcat)](https://search.worldcat.org/title/1069174087)
 
 
 ## Pleiades ID

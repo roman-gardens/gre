@@ -68,8 +68,8 @@ Excavated 1874.
 ## Bibliography
 
 * Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 25, no. 34.
-* Fiorelli, G. 1875. *Descrizione di Pompei*, pp. 452-453. [(worldcat)](http://www.worldcat.org/oclc/908272023)
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 33. [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Fiorelli, G. 1875. *Descrizione di Pompei*, pp. 452-453. [(worldcat)](https://search.worldcat.org/title/908272023)
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 33. [(worldcat)](https://search.worldcat.org/title/921816405)
 * Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 16.
 
 ## Pleiades ID

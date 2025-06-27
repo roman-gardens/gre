@@ -65,10 +65,10 @@ C. The north [peristyle](http://vocab.getty.edu/page/aat/300080971) garden belon
 * Elia. 1937. *Mon. Pitt. Ant*, In Pompeii 1, sec. 3, p. 4, fig. 3  
 * Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, pp. 66-67, 387-388, 392-394, 397, 399-400 and plate 165, no. 182-183  
 * Fiorelli, G. 1863. *Giornale dei Soprastanti*, pp. 658-688 (see also Fiorelli, G. 1859)  
-* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 62 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)    
-* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius,* pp. 21-22 and figs. 28-29 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)  
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 29-30, 32-33, 394 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
-* Kapossy, B. 1969. *Brunnenfiguren der hellenistischen und romischen Zeit*, Zurich, p. 48, 51-52   [(worldcat)](https://www.worldcat.org/title/brunnenfiguren-der-hellenistischen-und-romischen-zeit/oclc/804937054?referer=di&ht=edition)   
+* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 62 [(worldcat)](https://search.worldcat.org/title/9528380)    
+* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius,* pp. 21-22 and figs. 28-29 [(worldcat)](https://search.worldcat.org/title/312003872)  
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 29-30, 32-33, 394 [(worldcat)](https://search.worldcat.org/title/222353569)  
+* Kapossy, B. 1969. *Brunnenfiguren der hellenistischen und romischen Zeit*, Zurich, p. 48, 51-52   [(worldcat)](https://search.worldcat.org/title/804937054?referer=di&ht=edition)   
 * Lugebil, K. J. 1861. *BdI*, p. 240   
 * Maiuri, A. 1926. *BdA*, p. 350  
 * Maiuri, A. 1939. *NSc*, pp. 575-576  

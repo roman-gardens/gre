@@ -55,9 +55,9 @@ The SE area was laid out around an incomplete peristyle with seven columns along
 
 ## Bibliography
 
-*  Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région des Grands Thermes*, V. II, fasc.2,  INA, Tunis, 1985, pp. 101-13, plan 19-20. [(worldcat)](http://www.worldcat.org/oclc/603306079)
-* Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987. [(worldcat)](http://www.worldcat.org/oclc/20058336)
-*  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.230-232. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+*  Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région des Grands Thermes*, V. II, fasc.2,  INA, Tunis, 1985, pp. 101-13, plan 19-20. [(worldcat)](https://search.worldcat.org/title/603306079)
+* Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987. [(worldcat)](https://search.worldcat.org/title/20058336)
+*  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.230-232. [(worldcat)](https://search.worldcat.org/title/989088620)
 
 
 

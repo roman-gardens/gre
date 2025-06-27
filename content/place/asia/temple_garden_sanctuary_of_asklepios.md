@@ -88,7 +88,7 @@ Unspecified
 
 ## Bibliography
 
-* R. Herzog, *Heilige Gesetze von Kos*, Berlin, 1928, pp. 32-33. [(worldcat)](http://www.worldcat.org/oclc/1140889143)
+* R. Herzog, *Heilige Gesetze von Kos*, Berlin, 1928, pp. 32-33. [(worldcat)](https://search.worldcat.org/title/1140889143)
 
 ## Pleiades ID
 

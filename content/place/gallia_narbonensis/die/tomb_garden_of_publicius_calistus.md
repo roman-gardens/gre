@@ -66,7 +66,7 @@ None Available
 
 - CIL 12.1657 <!-- Need more info about book -->
 
-- J.-J. Hatt, *La tombe gallo-romaine* (Paris 1951) 71. [(worldcat)](http://www.worldcat.org/oclc/166053943)
+- J.-J. Hatt, *La tombe gallo-romaine* (Paris 1951) 71. [(worldcat)](https://search.worldcat.org/title/166053943)
 
 ## Pleiades ID
 

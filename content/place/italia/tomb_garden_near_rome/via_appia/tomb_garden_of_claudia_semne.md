@@ -54,9 +54,9 @@ Unspecified
 ## Bibliography
 - Bignamini, Ilaria, and Amanda Claridge， *The Tomb of Claudia Semne and Excavations in Eighteenth-Century Rome.* Papers of the British School at Rome 66 (1998): 215-44. Accessed December 1, 2020. [link](https://www.jstor.org/stable/40310981)
 
-- G.-L. Gregori , *SHorti sepulchrales e cepotaphia nelle iscrizioni urbane*, Bullettino della Commissione Archeologica Comunale di Roma” [worldcat](http://www.worldcat.org/oclc/886794800)
+- G.-L. Gregori , *SHorti sepulchrales e cepotaphia nelle iscrizioni urbane*, Bullettino della Commissione Archeologica Comunale di Roma” [worldcat](https://search.worldcat.org/title/886794800)
 
-- H. Wrede,*Das Mausoleum des Claudia Semne und die bürgerliche Plastik der Kaiserzeit*,MDAI(R) 78 (1971): 125-66;[worldcat](http://www.worldcat.org/oclc/848753956)
+- H. Wrede,*Das Mausoleum des Claudia Semne und die bürgerliche Plastik der Kaiserzeit*,MDAI(R) 78 (1971): 125-66;[worldcat](https://search.worldcat.org/title/848753956)
 
 - J. Bodel, *Roman Tomb Gardens*, Cambridge University Press, 2018, p. 208-209. [link](https://www.cambridge.org/core/books/gardens-of-the-roman-empire/roman-tomb-gardens/6BDAE36C21FFFADD3EB4E9CBD4BB8986)
 

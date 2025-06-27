@@ -98,7 +98,7 @@ NEW WAY ↓↓↓↓
 
 1. *Maison 1996*, t. II,, p. 30-31
 
-2. *Atlas De Provence-Côte D'azur: 1*. Bruxelles: ACTES, 1974, P 62-64 and P261-277.[worldcat](http://www.worldcat.org/oclc/461460528)
+2. *Atlas De Provence-Côte D'azur: 1*. Bruxelles: ACTES, 1974, P 62-64 and P261-277.[worldcat](https://search.worldcat.org/title/461460528)
 
 
 ## Pleiades ID

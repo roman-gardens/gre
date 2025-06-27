@@ -68,7 +68,7 @@ Second century CE
 
 * R. Etienne, Le quartier Nord-Est de Volubilis, Paris, 1960, p. 31- 4, Pl. IV, XLIV, 2. [(haithitrust)](https://catalog.hathitrust.org/Record/001605508)
 
-* R. Thouvenot, “La maison des travaux d'Hercule”, PSAM, 8, p. 69-107, fig. 1. [(worldcat)](http://www.worldcat.org/oclc/458298683)
+* R. Thouvenot, “La maison des travaux d'Hercule”, PSAM, 8, p. 69-107, fig. 1. [(worldcat)](https://search.worldcat.org/title/458298683)
 
 ## Pleiades ID
 

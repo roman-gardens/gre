@@ -88,15 +88,15 @@ The  low wing of the palace (Fig 2, AK) incorporated the two Hasmonean swimming 
 
 ## Bibliography
 
-* G. Garbrecht, and E. Netzer, “Die Wasserversorgung des geschichtlichen Jericho und seiner koniglichen Anlagen,” in Mitteilungen (aus dem Leichtweiss-Institut fur Wasserbau) 115, Braunschweig/Jerusalem 1991 [worldcat](https://www.worldcat.org/title/wasserversorgung-des-geschichtlichen-jericho-und-seiner-koniglichen-anlagen-gut-winterpalaste/oclc/640203824&referer=brief_results)
+* G. Garbrecht, and E. Netzer, “Die Wasserversorgung des geschichtlichen Jericho und seiner koniglichen Anlagen,” in Mitteilungen (aus dem Leichtweiss-Institut fur Wasserbau) 115, Braunschweig/Jerusalem 1991 [worldcat](https://search.worldcat.org/title/640203824)
 * K. Gleason, “Garden Excavations at the Herodian Winter Palace in Jericho, 1985-1987", Bulletin of the Anglo-Israel Archaeological Society, Vol. 7, 1987-8 [Jstor](https://www.jstor.org/stable/43324090?seq=1)
-* K. Gleason, “A Garden Excavation in the Oasis Palace of Herod the Great at Jericho,”  Landscape Journal 12.2 (1993):156-67[wordcat](https://www.worldcat.org/title/a-garden-excavation-in-the-oasis-palace-of-herod-the-great-at-jericho/oclc/6906023732&referer=brief_results)
+* K. Gleason, “A Garden Excavation in the Oasis Palace of Herod the Great at Jericho,”  Landscape Journal 12.2 (1993):156-67[wordcat](https://search.worldcat.org/title/6906023732)
 * J. Kelso, James L. and Dimitri Baramki, “Excavations at New Testament Jericho and Kirbet en-Nitla,” Annual of the American Schools of Oriental Research 29-30 (1949-51): 38-39
-* E. Netzer, The Palaces of the Hasmoneans and Herod the Great, Jerusalem: The Israel Exploration Society, 1999: 13-64 [wordcat](https://www.worldcat.org/title/palaces-of-the-hasmoneans-and-herod-the-great/oclc/1089147869&referer=brief_results)
-* Nielsen, Inge, Hellenistic Palaces,1994, 195-201 [wordcat](https://www.worldcat.org/title/hellenistic-palaces-tradition-and-renewal/oclc/468433476&referer=brief_results)
-* E. Netzer, The Hasmonean and Herodian Palaces at Jericho:  Final Reports of the 1973-1987 Excavations,  Vol. 1, Jerusalem:  Israel Exploration Society, 2001 : 287-298 [worldcat](https://www.worldcat.org/title/hasmonean-and-herodian-palaces-at-jericho-final-reports-of-the-1973-1987-excavations/oclc/610635909&referer=brief_results)
-* E. Netzer, and Garbrecht G, “Water channels and a royal estate of the late Hellenistic period in Jericho’s eastern plains,” in D. Amit, J. Patrich and Y.; Hirschfeld, eds, The Aqueducts of Israel. 353-365. JRA Supplement 46, R.I. 2002 [worldcat](https://www.worldcat.org/title/water-channels-and-a-royal-estate-of-the-late-hellenistic-period-in-jerichos-western-plains/oclc/197716279&referer=brief_results)
-* J. Pritchard, “The Excavation at Herodian Jericho, 1951," The Annual of the American Schools of Oriental Research 32-3 (1952-4): 56-58. [worldcat](https://www.worldcat.org/title/excavation-at-herodian-jericho-1951-for-1952-1954/oclc/256829094&referer=brief_results)
+* E. Netzer, The Palaces of the Hasmoneans and Herod the Great, Jerusalem: The Israel Exploration Society, 1999: 13-64 [wordcat](https://search.worldcat.org/title/1089147869)
+* Nielsen, Inge, Hellenistic Palaces,1994, 195-201 [wordcat](https://search.worldcat.org/title/468433476)
+* E. Netzer, The Hasmonean and Herodian Palaces at Jericho:  Final Reports of the 1973-1987 Excavations,  Vol. 1, Jerusalem:  Israel Exploration Society, 2001 : 287-298 [worldcat](https://search.worldcat.org/title/610635909)
+* E. Netzer, and Garbrecht G, “Water channels and a royal estate of the late Hellenistic period in Jericho’s eastern plains,” in D. Amit, J. Patrich and Y.; Hirschfeld, eds, The Aqueducts of Israel. 353-365. JRA Supplement 46, R.I. 2002 [worldcat](https://search.worldcat.org/title/197716279)
+* J. Pritchard, “The Excavation at Herodian Jericho, 1951," The Annual of the American Schools of Oriental Research 32-3 (1952-4): 56-58. [worldcat](https://search.worldcat.org/title/256829094)
 
 ## Pleiades ID
 

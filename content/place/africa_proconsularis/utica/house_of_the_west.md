@@ -74,8 +74,8 @@ The house is dated to the II century.
 2nd century CE
 
 ## Bibliography
-* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.339-340. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-* Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp.19-26, plans 4. [(worldcat)](http://www.worldcat.org/oclc/905773599)
+* Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.339-340. [(worldcat)](https://search.worldcat.org/title/989088620)
+* Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp.19-26, plans 4. [(worldcat)](https://search.worldcat.org/title/905773599)
 
 
 ## Pleiades ID

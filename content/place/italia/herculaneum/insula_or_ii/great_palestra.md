@@ -63,10 +63,10 @@ The Palaestra was crossed by Burbon tunnels in 1756-1760 and partially excavated
 Unspecified
 
 ## Bibliography
-* Jashemski, *Gardens*, 1:162-163, n. 94 on p. 348 and fig. 247 on p. 163[(worldcat)](http://www.worldcat.org/oclc/1029851777)
-* Maiuri, *Herculaneum*, pp. 55-56 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
-* Maiuri, “Fontana monumentale in bronzo nei nuovi scavi di Ercolano,” BdA (1954), pp. 193-199[(worldcat)](http://www.worldcat.org/oclc/908521660)
-* Maiuri, *Ercolano*, pp. 136-137 and fig. 91 (plan) on p. 114 (see pp. 189-190, nn. 58 and 59 for reports of Ruggiero on the Burbon excavations[(worldcat)](http://www.worldcat.org/oclc/490581395)
+* Jashemski, *Gardens*, 1:162-163, n. 94 on p. 348 and fig. 247 on p. 163[(worldcat)](https://search.worldcat.org/title/1029851777)
+* Maiuri, *Herculaneum*, pp. 55-56 [(worldcat)](https://search.worldcat.org/title/1107784297)
+* Maiuri, “Fontana monumentale in bronzo nei nuovi scavi di Ercolano,” BdA (1954), pp. 193-199[(worldcat)](https://search.worldcat.org/title/908521660)
+* Maiuri, *Ercolano*, pp. 136-137 and fig. 91 (plan) on p. 114 (see pp. 189-190, nn. 58 and 59 for reports of Ruggiero on the Burbon excavations[(worldcat)](https://search.worldcat.org/title/490581395)
 
 
 ## Contributor

@@ -62,7 +62,7 @@ None Available
 Unspecified
 
 ## Bibliography
-- :A. Ollagnier, D. Joly, *L’Eure-et-Loir,*  CAG  p. 137-139,  plan  p. 138 (with bibliography of previous works).   [(worldcat)](http://www.worldcat.org/oclc/1031979297) <!-- missing Worldcat -->
+- :A. Ollagnier, D. Joly, *L’Eure-et-Loir,*  CAG  p. 137-139,  plan  p. 138 (with bibliography of previous works).   [(worldcat)](https://search.worldcat.org/title/1031979297) <!-- missing Worldcat -->
 
 
 ## Pleiades ID

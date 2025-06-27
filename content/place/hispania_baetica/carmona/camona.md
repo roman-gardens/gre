@@ -78,7 +78,7 @@ In the necropolis of Carmona, near Seville, is a very large and deep tomb create
 unspecified
 
 ## Bibliography
-* Vaquerizo Gil, Desiderio, *Necroìpolis urbanas en Baetica*, Tarragona 2010).[(worldcat)](http://www.worldcat.org/oclc/929776098)
+* Vaquerizo Gil, Desiderio, *Necroìpolis urbanas en Baetica*, Tarragona 2010).[(worldcat)](https://search.worldcat.org/title/929776098)
 
 
 ## Pleiades ID

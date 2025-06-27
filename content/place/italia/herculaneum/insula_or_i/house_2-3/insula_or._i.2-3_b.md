@@ -60,9 +60,9 @@ B. From the atrium the peristyle on the lower level was reached by way of a stee
 Unspecified
 
 ## Bibliography
-* Maiuri, *Herculaneum*, pp.66-67 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
-* Maiuri, *Ercolano*, p. 353 [(worldcat)](http://www.worldcat.org/oclc/490581395)
-* Jashemski, *Gardens*, 1:50-51 and fig. 89 on p. 51 [(worldcat)](http://www.worldcat.org/oclc/1029851777)
+* Maiuri, *Herculaneum*, pp.66-67 [(worldcat)](https://search.worldcat.org/title/1107784297)
+* Maiuri, *Ercolano*, p. 353 [(worldcat)](https://search.worldcat.org/title/490581395)
+* Jashemski, *Gardens*, 1:50-51 and fig. 89 on p. 51 [(worldcat)](https://search.worldcat.org/title/1029851777)
 
 
 ## Contributor

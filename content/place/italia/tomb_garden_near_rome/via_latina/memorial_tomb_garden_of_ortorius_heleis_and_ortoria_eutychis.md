@@ -51,8 +51,8 @@ An inscribed marble plaque found in the early 1930s covering a drain near Ponte 
 Unspecified
 
 ## Bibliography
-- J. M. C. Toynbee, *Death and Burial in the Roman World*,  Print book : English : Hopkins pb. ed., 96 and n. 312. [worldcat](https://www.worldcat.org/title/death-and-burial-in-the-roman-world/oclc/833003812&referer=brief_results)
-- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian, BCom 92 (1987-88) [1989] 180 n. 37. [worldcat](https://www.worldcat.org/title/horti-sepulchrales-e-cepotaphia-nelle-iscrizioni-urbane/oclc/886794800&referer=brief_results)
+- J. M. C. Toynbee, *Death and Burial in the Roman World*,  Print book : English : Hopkins pb. ed., 96 and n. 312. [worldcat](https://search.worldcat.org/title/833003812)
+- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian, BCom 92 (1987-88) [1989] 180 n. 37. [worldcat](https://search.worldcat.org/title/886794800)
 
 ## Pleiades ID
 

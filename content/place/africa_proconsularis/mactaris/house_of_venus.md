@@ -75,8 +75,8 @@ House of Venus (Maison de Venus)
 2nd-3rd century CE
 
 ## Bibliography
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 171-173. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-* Picard, G. Ch., Bourgeois, A., “La Maison de Vénus.”, in *Recherches Archéologiques Franco-Tunisiennes à Mactar, Sratigraphie et étude des pavements*, I, 1977, EFR, Rome, pp. 213-220, Plan I. [(worldcat)](http://www.worldcat.org/oclc/605049018)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 171-173. [(worldcat)](https://search.worldcat.org/title/989088620)
+* Picard, G. Ch., Bourgeois, A., “La Maison de Vénus.”, in *Recherches Archéologiques Franco-Tunisiennes à Mactar, Sratigraphie et étude des pavements*, I, 1977, EFR, Rome, pp. 213-220, Plan I. [(worldcat)](https://search.worldcat.org/title/605049018)
 
 
 

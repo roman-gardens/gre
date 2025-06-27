@@ -72,8 +72,8 @@ A small courtyard garden (XX, 5.60 x 3 m) enclosed on its two sides by a colonna
 Early 3rd century CE
 
 ## Bibliography
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 317-319. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-* Slim, H., Dulière, C., *Corpus des Mosaïques de Tunisie*, *Thysdrus*, *El Jem, Quartier Sud-Ouest*, INA, Tunis, 1996, pp. 1-11, plans 1-2.[(worldcat)](http://www.worldcat.org/oclc/886543032)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 317-319. [(worldcat)](https://search.worldcat.org/title/989088620)
+* Slim, H., Dulière, C., *Corpus des Mosaïques de Tunisie*, *Thysdrus*, *El Jem, Quartier Sud-Ouest*, INA, Tunis, 1996, pp. 1-11, plans 1-2.[(worldcat)](https://search.worldcat.org/title/886543032)
 
 
 ## Pleiades ID

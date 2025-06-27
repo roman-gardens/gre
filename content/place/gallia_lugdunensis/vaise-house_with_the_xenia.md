@@ -62,7 +62,7 @@ None Available
 Unspecified
 
 ## Bibliography
-- E. Delaval, C. Bellon, J. Chastel, E. Plassot, L. Tranoy, *Vaise, un quartier de Lyon antique,* Document d’archéologie en Rhône-Alpes n° 5, Lyon, 1995. E. Plassot, Le quartier Saint-Pierre, la maison aux *xenia*, p. 71-129.  [(worldcat)](http://www.worldcat.org/oclc/1031979297)  
+- E. Delaval, C. Bellon, J. Chastel, E. Plassot, L. Tranoy, *Vaise, un quartier de Lyon antique,* Document d’archéologie en Rhône-Alpes n° 5, Lyon, 1995. E. Plassot, Le quartier Saint-Pierre, la maison aux *xenia*, p. 71-129.  [(worldcat)](https://search.worldcat.org/title/1031979297)  
 
 
 ## Pleiades ID

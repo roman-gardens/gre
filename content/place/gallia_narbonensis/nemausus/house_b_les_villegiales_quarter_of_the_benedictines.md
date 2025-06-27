@@ -91,11 +91,11 @@ A.D. 60-90 One of the principal phases of occupation
 
 1. J.L. Fiches, A. Veyrac, *Nîmes*, CAG, 30/1, 1996.
 
-2. P.Gros, J. Guyon, Ph. Leveau, dir.,*La maison urbaine d'époque romaine, Atlas des maisons de la Gaule narbonnaise*, t. II, Doc. d'Archéol. Vaucl, 6, 1996, Nîmes, fiche n°6 P. 200-201.[(worldcat)](http://www.worldcat.org/oclc/491576850)
+2. P.Gros, J. Guyon, Ph. Leveau, dir.,*La maison urbaine d'époque romaine, Atlas des maisons de la Gaule narbonnaise*, t. II, Doc. d'Archéol. Vaucl, 6, 1996, Nîmes, fiche n°6 P. 200-201.[(worldcat)](https://search.worldcat.org/title/491576850)
 
-3. M. Monteil, *Nîmes antique et sa proche campagne*, Monographie d'Archéologie Méditerranéenne, 3, 1999, P. 130-135.[(worldcat)](http://www.worldcat.org/oclc/643112972)
+3. M. Monteil, *Nîmes antique et sa proche campagne*, Monographie d'Archéologie Méditerranéenne, 3, 1999, P. 130-135.[(worldcat)](https://search.worldcat.org/title/643112972)
 
-4. Garmy, Pierre, and Martial Monteil. *Le Quartier Antique Des Bénédictins À Nîmes (gard): Découvertes Anciennes Et Fouilles, 1966-1992*. Paris: Editions de la Maison des sciences de l'homme, 2000, P. 74-90, P 173-181.[(worldcat)](http://www.worldcat.org/oclc/45421533)
+4. Garmy, Pierre, and Martial Monteil. *Le Quartier Antique Des Bénédictins À Nîmes (gard): Découvertes Anciennes Et Fouilles, 1966-1992*. Paris: Editions de la Maison des sciences de l'homme, 2000, P. 74-90, P 173-181.[(worldcat)](https://search.worldcat.org/title/45421533)
 
 ## Pleiades ID
 

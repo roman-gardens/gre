@@ -44,9 +44,9 @@ This temple site was excavated in 1764-1766 and although, as Jashemski points ou
 1764-1766
 
 ## Bibliography
-* Jashemski, *Gardens*, 1:157 and figs. 216 (balloon photo) and 217 (plan) on pp. 138-139 [(worldcat)](http://www.worldcat.org/oclc/1047945215)
-* Jashemski, *Gardens*, vol. II, pp. 222-223 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 1, “Tempio d’Iside,” pl. 2 (plan) [(worldcat)](http://www.worldcat.org/oclc/906755593)
+* Jashemski, *Gardens*, 1:157 and figs. 216 (balloon photo) and 217 (plan) on pp. 138-139 [(worldcat)](https://search.worldcat.org/title/1047945215)
+* Jashemski, *Gardens*, vol. II, pp. 222-223 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 1, “Tempio d’Iside,” pl. 2 (plan) [(worldcat)](https://search.worldcat.org/title/906755593)
 
 ## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

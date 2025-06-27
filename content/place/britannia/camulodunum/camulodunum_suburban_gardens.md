@@ -60,8 +60,8 @@ ig. 1: Area outside the Balkerne gate before widening of the town ditch. Details
 
 ## Bibliography
 
-*  P. Crummy, *Excavations at Lion Walk, Balkerne Lane and Middleborough, Colchester, Essex*. Colchester Archaeological Report 3, Colchester, 1984, fig. 106. [(worldcat)](http://www.worldcat.org/oclc/12511745)
-*  P. Crummy, *City of Victory*, Colchester, 1997, pp. 114-115, figs. on pp. 100, 116-117. [(worldcat)](http://www.worldcat.org/oclc/1152612897)
+*  P. Crummy, *Excavations at Lion Walk, Balkerne Lane and Middleborough, Colchester, Essex*. Colchester Archaeological Report 3, Colchester, 1984, fig. 106. [(worldcat)](https://search.worldcat.org/title/12511745)
+*  P. Crummy, *City of Victory*, Colchester, 1997, pp. 114-115, figs. on pp. 100, 116-117. [(worldcat)](https://search.worldcat.org/title/1152612897)
 
 
 ## Pleiades ID

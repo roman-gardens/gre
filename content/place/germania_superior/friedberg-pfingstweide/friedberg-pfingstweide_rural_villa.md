@@ -73,7 +73,7 @@ Early 2nd century - first half of 3rd century
 
 ## Bibliography
 
-* D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart, 1989, pp. 307-309, fig. 246. [(worldcat)](http://www.worldcat.org/oclc/476625416)
+* D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart, 1989, pp. 307-309, fig. 246. [(worldcat)](https://search.worldcat.org/title/476625416)
 
 ## Pleiades ID
 

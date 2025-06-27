@@ -67,8 +67,8 @@ On the southeast of the house was a vestibule, from which a central corridor dep
 
 ## Bibliography
 
-*  E.B. Thomas, *Römische Villen in Pannonien*, Budapest, 1964, pp. 201-210, figs. 107-10. [(worldcat)](http://www.worldcat.org/oclc/785736879)
-* A. Mócsy, *Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire*, London, 1974, p. 173, fig. 32. [(worldcat)](http://www.worldcat.org/oclc/644823914)
+*  E.B. Thomas, *Römische Villen in Pannonien*, Budapest, 1964, pp. 201-210, figs. 107-10. [(worldcat)](https://search.worldcat.org/title/785736879)
+* A. Mócsy, *Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire*, London, 1974, p. 173, fig. 32. [(worldcat)](https://search.worldcat.org/title/644823914)
 
 ## Pleiades ID
 

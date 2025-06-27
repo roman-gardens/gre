@@ -70,16 +70,16 @@ Unspecified
 1900CE
 
 ## Bibliography
-* Bastet, p. 66. [(worldcat)](http://www.worldcat.org/oclc/174883177)
-* Curtius, *Wandmalerei*, fig. 33. [(worldcat)](http://www.worldcat.org/oclc/494624256)
-* Jashemski, *Gardens*, 1:71 and fig. 115b on p. 71, 1:79 and fig. 128 on p. 78. [(worldcat)](http://www.worldcat.org/oclc/1029851777)
-* Idem, *Gardens*, vol.II, pp. 116, 336, 396-397. [(worldcat)](http://www.worldcat.org/oclc/921816405)
-* Mau, *RM* (1901), pp. 338, 356, plan pl. 13. [(worldcat)](http://www.worldcat.org/oclc/1189330863)
-* Michel, pp. 390-391. [(worldcat)](http://www.worldcat.org/oclc/1088872231)
-* PPP, 2:87, 89, 90-91. [(worldcat)](http://www.worldcat.org/oclc/13334913)
-* Schefold, *RM*, (1953-1954), pp. 113, 117. [(worldcat)](http://www.worldcat.org/oclc/1100462668)
+* Bastet, p. 66. [(worldcat)](https://search.worldcat.org/title/174883177)
+* Curtius, *Wandmalerei*, fig. 33. [(worldcat)](https://search.worldcat.org/title/494624256)
+* Jashemski, *Gardens*, 1:71 and fig. 115b on p. 71, 1:79 and fig. 128 on p. 78. [(worldcat)](https://search.worldcat.org/title/1029851777)
+* Idem, *Gardens*, vol.II, pp. 116, 336, 396-397. [(worldcat)](https://search.worldcat.org/title/921816405)
+* Mau, *RM* (1901), pp. 338, 356, plan pl. 13. [(worldcat)](https://search.worldcat.org/title/1189330863)
+* Michel, pp. 390-391. [(worldcat)](https://search.worldcat.org/title/1088872231)
+* PPP, 2:87, 89, 90-91. [(worldcat)](https://search.worldcat.org/title/13334913)
+* Schefold, *RM*, (1953-1954), pp. 113, 117. [(worldcat)](https://search.worldcat.org/title/1100462668)
 * Idem, *WändP*, pp. 85, 87.
-* Sogliano, *NSc* (1901), pp. 155, 163, 164-166 and figs. 15 and 15. [(worldcat)](http://www.worldcat.org/oclc/1091982220)
+* Sogliano, *NSc* (1901), pp. 155, 163, 164-166 and figs. 15 and 15. [(worldcat)](https://search.worldcat.org/title/1091982220)
 * Warscher, “Flora pompei” p. 36.
 
 

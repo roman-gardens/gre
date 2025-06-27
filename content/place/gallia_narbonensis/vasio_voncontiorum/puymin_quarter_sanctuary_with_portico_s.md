@@ -82,9 +82,9 @@ A.D. 1-100 constructed
 
 ## Bibliography
 
-1. Chr.  Goudineau,  Y.  de  Kisch,  Vaison-la-Romaine,  Guide  archéologique  de  France,  1999,  1ère  éd. 1984,  P. 74-77; [(worldcat)](http://www.worldcat.org/oclc/807347615)
+1. Chr.  Goudineau,  Y.  de  Kisch,  Vaison-la-Romaine,  Guide  archéologique  de  France,  1999,  1ère  éd. 1984,  P. 74-77; [(worldcat)](https://search.worldcat.org/title/807347615)
 
-2. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.251-254. [(worldcat)](http://www.worldcat.org/oclc/905795401)
+2. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.251-254. [(worldcat)](https://search.worldcat.org/title/905795401)
 
 
 ## Pleiades ID

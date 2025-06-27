@@ -61,7 +61,7 @@ None Available
 Unspecified
 
 ## Bibliography
-- Ph. Brunella, D. Meckenbenner, Cl. Lefebvre, P. Thion, *Metz, cinq années de recherches archéologiques 1982-1987,* Dalph, Gumra, 1990, p.33-36, fig.36. [(worldcat)](http://www.worldcat.org/oclc/20955708)
+- Ph. Brunella, D. Meckenbenner, Cl. Lefebvre, P. Thion, *Metz, cinq années de recherches archéologiques 1982-1987,* Dalph, Gumra, 1990, p.33-36, fig.36. [(worldcat)](https://search.worldcat.org/title/20955708)
 
 
 ## Pleiades ID

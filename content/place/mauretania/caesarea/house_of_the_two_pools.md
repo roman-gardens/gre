@@ -67,15 +67,15 @@ There is very little information about this house, only two semi circular pools 
 
 ## Bibliography
 
-* Cumont, F., "La mosaïque de Cherchel figurant Ulysse et les sirènes", in *Comptes rendus de l'Académie des Inscriptions et des Belles-Lettres*, 1941, p. 103-109. [(worldcat)](http://www.worldcat.org/oclc/492540938)
+* Cumont, F., "La mosaïque de Cherchel figurant Ulysse et les sirènes", in *Comptes rendus de l'Académie des Inscriptions et des Belles-Lettres*, 1941, p. 103-109. [(worldcat)](https://search.worldcat.org/title/492540938)
 
 * Ferdi, S., *Mosaïques romano-Africaines: Culture et nature à Cherchel*, Blida : Éd. du Tell, 2005。
 
-* Ferdi S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p.149. [(worldcat)](http://www.worldcat.org/oclc/1006126274)
+* Ferdi S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p.149. [(worldcat)](https://search.worldcat.org/title/1006126274)
 
-* Leveau,  Ph., "Les maisons nobles de Caesarea de Maurétanie", in *Antiquités africaines*, t.18, p.142. [(worldcat)](http://www.worldcat.org/oclc/4797426670)
+* Leveau,  Ph., "Les maisons nobles de Caesarea de Maurétanie", in *Antiquités africaines*, t.18, p.142. [(worldcat)](https://search.worldcat.org/title/4797426670)
 
-* Stern, H., "Fontaine de Neptune au musée de Cherchel (Algérie)", in *Antiquités africaines*, t.15; 1980, p.285-302. [(worldcat)](http://www.worldcat.org/oclc/4797177108)
+* Stern, H., "Fontaine de Neptune au musée de Cherchel (Algérie)", in *Antiquités africaines*, t.15; 1980, p.285-302. [(worldcat)](https://search.worldcat.org/title/4797177108)
 
 *  Malek, A.-A., "Le jardin au fil de l’eau : mises en scène paysagères dans les domus de Maghreb antique" , in *L'eau dans les villes du Maghreb et leur territoire à l’époque romaine*, eds, V. Brouquier-Redd et F. Hurlet, Bordeaux, Ausonius, 2018, pp. 240-241.
 

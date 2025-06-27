@@ -26,11 +26,11 @@ Example usage (in a garden article):
 {{- end -}}
 
 {{ $url := "" }}
-{{ $desc := "" }}
+{{ $vocabname := "" }}
 {{ range where $vocabs "vocab" $vocab}}
     {{ $url = .baseurl }}
-    {{ $desc = .description }}
+    {{ $vocabname = .vocabname }}
 {{ end }}
 {{ if $url }}
-    <a target="_blank" href="{{ urls.JoinPath $url $id }}" title="{{ $desc }}">{{ $vocab }}: {{ $id }}</a>
+    <a target="_blank" href="{{ urls.JoinPath $url $id }}" title="{{ $vocabname }}">{{ $vocab }}: {{ $id }}</a>
 {{ end }}

@@ -69,8 +69,8 @@ Late first century CE until the fourth century CE.
 
 ## Bibliography
 
-- K.-H. Knörzer, "Veränderungen der Unkrautvegetation auf rheinischen Bauernhöfen seit der Römerzeit," *Bonner Jahrbuch* 184, 1984: 491-503. [worldcat](http://www.worldcat.org/oclc/729362071)
-- W. Gaitzsch, "Grundformen römischer Landsiedlungen im Westen der CCAA," *Bonner Jahrbuch* 186, 1986: 397-427, fig. 5. [worldcat](http://www.worldcat.org/oclc/729362071)
+- K.-H. Knörzer, "Veränderungen der Unkrautvegetation auf rheinischen Bauernhöfen seit der Römerzeit," *Bonner Jahrbuch* 184, 1984: 491-503. [worldcat](https://search.worldcat.org/title/729362071)
+- W. Gaitzsch, "Grundformen römischer Landsiedlungen im Westen der CCAA," *Bonner Jahrbuch* 186, 1986: 397-427, fig. 5. [worldcat](https://search.worldcat.org/title/729362071)
 
 ## Pleiades ID
 

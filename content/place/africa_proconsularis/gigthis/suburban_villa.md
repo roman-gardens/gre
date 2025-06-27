@@ -79,7 +79,7 @@ On the south of the peristyle was another courtyard with a portico of three colu
 unknown
 
 ## Bibliography
-- Constans, L.-A., "Gigthis. Étude d'Histoire et d'Archéologie sur un Emporium de la Petite Syrte: avec 14 planches hors texte et 3 figures dans le texte", in *Extrait des Nouvelles Archives des Missions Scientifiques. 14° fasc*, pl.I, pp.100-103, Paris: Imprimerie Nationale, 1916.[(worldcat)](http://www.worldcat.org/oclc/8271308381) https://gallica.bnf.fr/ark:/12148/bpt6k74033b/f119.item.r=constans
+- Constans, L.-A., "Gigthis. Étude d'Histoire et d'Archéologie sur un Emporium de la Petite Syrte: avec 14 planches hors texte et 3 figures dans le texte", in *Extrait des Nouvelles Archives des Missions Scientifiques. 14° fasc*, pl.I, pp.100-103, Paris: Imprimerie Nationale, 1916.[(worldcat)](https://search.worldcat.org/title/8271308381) https://gallica.bnf.fr/ark:/12148/bpt6k74033b/f119.item.r=constans
 
 
 

@@ -82,9 +82,9 @@ The third phase distinguished by Maloney and Hale covered several building campa
 
 
 ## Bibliography
-- M. Heleno, ‘A ‘villa’ lusitano-romano de Torre de Palma (Monforte),’ O Arqueólogo Portugés ser 2, 6 (1962) p. 313-38. [(worldcat)](http://www.worldcat.org/oclc/517199729)
-- J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](http://www.worldcat.org/oclc/803415143)
-- S. J. Maloney and J. R. Hale, ‘The villa of Torre de Palma (Alto Alentejo)’ Journal of Roman Archaeology, vol. 9, 1996, p. 275-94. [(worldcat)](http://www.worldcat.org/oclc/51847498)
+- M. Heleno, ‘A ‘villa’ lusitano-romano de Torre de Palma (Monforte),’ O Arqueólogo Portugés ser 2, 6 (1962) p. 313-38. [(worldcat)](https://search.worldcat.org/title/517199729)
+- J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](https://search.worldcat.org/title/803415143)
+- S. J. Maloney and J. R. Hale, ‘The villa of Torre de Palma (Alto Alentejo)’ Journal of Roman Archaeology, vol. 9, 1996, p. 275-94. [(worldcat)](https://search.worldcat.org/title/51847498)
 
 ## Pleiades ID
 

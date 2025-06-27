@@ -86,8 +86,8 @@ A broken inscription found near Thyaira in 1901 records the second part of a fun
 
 ## Bibliography
 - Frontrier, *REA* 4, 1902:263, no. 12 [(Persée)](www.persee.fr/doc/rea_0035-2004_1902_num_4_4_1284)
-- R. Cagnat et al, *Inscriptiones Graecae ad res Romanas pertinentes*. Paris, 1906-1927, IV, 1605 [(worldcat)](http://www.worldcat.org/oclc/256313198)
-- J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, pp. 66, 144. [(worldcat)](http://www.worldcat.org/oclc/164233326)
+- R. Cagnat et al, *Inscriptiones Graecae ad res Romanas pertinentes*. Paris, 1906-1927, IV, 1605 [(worldcat)](https://search.worldcat.org/title/256313198)
+- J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, pp. 66, 144. [(worldcat)](https://search.worldcat.org/title/164233326)
 
 ## Pleiades ID
 

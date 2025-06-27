@@ -46,7 +46,7 @@ A fragmentary opisthographic slab of unknown urban provenance, now in the Lapida
 Unspecified
 
 ## Bibliography
-- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 177 n. 10. [worldcat](https://www.worldcat.org/title/horti-sepulchrales-e-cepotaphia-nelle-iscrizioni-urbane/oclc/886794800&referer=brief_results)
+- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 177 n. 10. [worldcat](https://search.worldcat.org/title/886794800)
 
 ## Pleiades ID
 

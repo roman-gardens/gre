@@ -78,9 +78,9 @@ Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century
 
 ## Bibliography
 
-*  Allais, Y., "La maison d'Europe à Djemila", in *Revue Africaine*, 83, 1939, pp. 35-44. [(worldcat)](http://www.worldcat.org/oclc/758942246)
-* Blanchard-Lemée, M., *Maisons à mosaïques du quartier central de Djemila (Cuicul)*, Paris, 1975, pp. 129-151, fig.49. [(worldcat)](http://www.worldcat.org/oclc/461390883)
-*  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](http://www.worldcat.org/oclc/1090653355)
+*  Allais, Y., "La maison d'Europe à Djemila", in *Revue Africaine*, 83, 1939, pp. 35-44. [(worldcat)](https://search.worldcat.org/title/758942246)
+* Blanchard-Lemée, M., *Maisons à mosaïques du quartier central de Djemila (Cuicul)*, Paris, 1975, pp. 129-151, fig.49. [(worldcat)](https://search.worldcat.org/title/461390883)
+*  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](https://search.worldcat.org/title/1090653355)
 
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}

@@ -99,12 +99,12 @@ c. 190- 240 CE
 
 ## Bibliography
 
-* F. Chausson, “Le site de la Vigna Barberini de 191 à 455” in *La Vigna Barberini I. Histoire d’un site. Étude des sources et de la topographie*, Rome, 1997, pp. 31-85. [(worldcat)](http://www.worldcat.org/oclc/1000676783)
-* M. Royo, “Constructions antérieures au grand temple «sévérien»” in *La Vigna Barberini I*, op. cit., pp. 21-26 (Adonea). [(worldcat)](http://www.worldcat.org/oclc/1000676783)
-* H. Broise and Y. Thébert,  “Élagabal et le complexe religieux de la Vigna Barberini, “ *Mélanges de l’École Française de Rome*, 111 (1999), pp. 729-747. [(worldcat)](http://www.worldcat.org/oclc/972029282)
-* Y. Thébert, “Il santuario di Elagabalus: un giardino sacro” in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 83-94. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
-* G. Rizzo, “Le anfore utilizzate come vasi da fiori nei giardini del tempio” in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, p. 98. [(worldcat)](http://www.worldcat.org/oclc/5894435382)
-* F. Villedieu, *La Vigna Barberini II- Domus, palais impérial et temples: stratigraphie du secteur nord-est du Palatin*, Rome, 2007 (RomaAntica, 6). [(worldcat)](http://www.worldcat.org/oclc/643147049)
+* F. Chausson, “Le site de la Vigna Barberini de 191 à 455” in *La Vigna Barberini I. Histoire d’un site. Étude des sources et de la topographie*, Rome, 1997, pp. 31-85. [(worldcat)](https://search.worldcat.org/title/1000676783)
+* M. Royo, “Constructions antérieures au grand temple «sévérien»” in *La Vigna Barberini I*, op. cit., pp. 21-26 (Adonea). [(worldcat)](https://search.worldcat.org/title/1000676783)
+* H. Broise and Y. Thébert,  “Élagabal et le complexe religieux de la Vigna Barberini, “ *Mélanges de l’École Française de Rome*, 111 (1999), pp. 729-747. [(worldcat)](https://search.worldcat.org/title/972029282)
+* Y. Thébert, “Il santuario di Elagabalus: un giardino sacro” in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 83-94. [(worldcat)](https://search.worldcat.org/title/5894435382)
+* G. Rizzo, “Le anfore utilizzate come vasi da fiori nei giardini del tempio” in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, p. 98. [(worldcat)](https://search.worldcat.org/title/5894435382)
+* F. Villedieu, *La Vigna Barberini II- Domus, palais impérial et temples: stratigraphie du secteur nord-est du Palatin*, Rome, 2007 (RomaAntica, 6). [(worldcat)](https://search.worldcat.org/title/643147049)
 
 ## Pleiades ID
 

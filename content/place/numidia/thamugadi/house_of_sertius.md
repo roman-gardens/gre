@@ -77,10 +77,10 @@ This large *domus* the result of the combining of two houses, is located at the 
 3rd-5th century CE?
 
 ## Bibliography
-*  Boeswillwald, E., Cagnat, R., Ballu, A.,  *Timgad une cité africaine sous l’Empire romain*, Paris, 1905; pp. 326-333, plan fig. 152. [(worldcat)](http://www.worldcat.org/oclc/898850651)
-* Courtois, C., *Timgad, antique Thamugadi*, Paris, 1951, p 53, plan with scale. [(worldcat)](http://www.worldcat.org/oclc/23396951)
-*  Germain, S. *Les mosaïques de Timgad*, Paris, 1969, p. 59. [(worldcat)](http://www.worldcat.org/oclc/643640586)
-* Lassus, J., "Une opération immobilière à Timgad", in *Mélanges d’archéologie et d’histoire offerts à André Piganiol*, Paris, 1966, pp. 1221-1231. [(worldcat)](http://www.worldcat.org/oclc/419236627)
+*  Boeswillwald, E., Cagnat, R., Ballu, A.,  *Timgad une cité africaine sous l’Empire romain*, Paris, 1905; pp. 326-333, plan fig. 152. [(worldcat)](https://search.worldcat.org/title/898850651)
+* Courtois, C., *Timgad, antique Thamugadi*, Paris, 1951, p 53, plan with scale. [(worldcat)](https://search.worldcat.org/title/23396951)
+*  Germain, S. *Les mosaïques de Timgad*, Paris, 1969, p. 59. [(worldcat)](https://search.worldcat.org/title/643640586)
+* Lassus, J., "Une opération immobilière à Timgad", in *Mélanges d’archéologie et d’histoire offerts à André Piganiol*, Paris, 1966, pp. 1221-1231. [(worldcat)](https://search.worldcat.org/title/419236627)
 
 
 ## Pleiades ID

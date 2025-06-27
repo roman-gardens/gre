@@ -55,9 +55,9 @@ Only the central passage (III) way leading to the temple (IV) was paved. The res
 unspecified
 
 ## Bibliography
-*  Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région des Grands Thermes*, V. II, fasc.2, INA, Tunis, 1985, pp. 51-3, plan 10. [(worldcat)](http://www.worldcat.org/oclc/905765362)
-* Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](http://www.worldcat.org/oclc/20058336)
-* Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, V. Brouquier Reddé, Fr. Baratte, E. Rocca (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, 360, fig. 10. [(worldcat)](http://www.worldcat.org/oclc/1028897747)
+*  Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région des Grands Thermes*, V. II, fasc.2, INA, Tunis, 1985, pp. 51-3, plan 10. [(worldcat)](https://search.worldcat.org/title/905765362)
+* Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](https://search.worldcat.org/title/20058336)
+* Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, V. Brouquier Reddé, Fr. Baratte, E. Rocca (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, 360, fig. 10. [(worldcat)](https://search.worldcat.org/title/1028897747)
 
 
 ## Pleiades_ID

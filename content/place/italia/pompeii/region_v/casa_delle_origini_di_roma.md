@@ -70,12 +70,12 @@ Unspecified
 Unspecified
 
 ## Bibliography
-* Boyce, p. 41, no. 126 and pl. 11.2. [(worldcat)](http://www.worldcat.org/oclc/491367250)
+* Boyce, p. 41, no. 126 and pl. 11.2. [(worldcat)](https://search.worldcat.org/title/491367250)
 * Döhl, p. 14; (Döhl, Plastik aus Pompeji)
-* Jashemski, *Gardens*, vol.II, p. 116. [(worldcat)](http://www.worldcat.org/oclc/1029851777)
-* Sogliano, *NSc* (1905), pp. 91-92 and fig. 1 (plan) on p. 87. [(worldcat)](http://www.worldcat.org/oclc/1091982220)
+* Jashemski, *Gardens*, vol.II, p. 116. [(worldcat)](https://search.worldcat.org/title/1029851777)
+* Sogliano, *NSc* (1905), pp. 91-92 and fig. 1 (plan) on p. 87. [(worldcat)](https://search.worldcat.org/title/1091982220)
 * Soprano, p. 299, no. 12 (identifies the structure in the garden as a true triclinium and not triclinium-shaped seats as Sogliano suggests); (Soprano, I triclini all'aperto di Pompei)
-* Thédenat, p. 88. [(worldcat)](http://www.worldcat.org/oclc/37336723)
+* Thédenat, p. 88. [(worldcat)](https://search.worldcat.org/title/37336723)
 
 ## Pleiades ID
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}} \

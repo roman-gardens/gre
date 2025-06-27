@@ -77,9 +77,9 @@ unspecified
 
 ## Bibliography
 
-- Gibbs, *Greek and Roman sundials*, p. 148, no 1031G [(worldcat)](http://www.worldcat.org/oclc/185685966)
-- Maiuri, *Herculaneum*, pp. 28-30 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
-- Maiuri, *Ercolano*, pp. 290-293, 295, 298, 300 and fig. 223 (plan) on p. 280.[(worldcat)](http://www.worldcat.org/oclc/490581395)
+- Gibbs, *Greek and Roman sundials*, p. 148, no 1031G [(worldcat)](https://search.worldcat.org/title/185685966)
+- Maiuri, *Herculaneum*, pp. 28-30 [(worldcat)](https://search.worldcat.org/title/1107784297)
+- Maiuri, *Ercolano*, pp. 290-293, 295, 298, 300 and fig. 223 (plan) on p. 280.[(worldcat)](https://search.worldcat.org/title/490581395)
 
 
 ## Contributor

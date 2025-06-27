@@ -100,9 +100,9 @@ unspecified
 
 ## Bibliography
 
-* P. de Palol and M. Sotomayor, ‘Excavaciones en la villa romana de Bruñel (Quesada), de la Provincia de Jaén,’ *Actas del VIII Congreso Internacional de Arqueología Cristiana (Barcelona, 5-11 October, 1969)*, (Roma-Barcelona, 1972), 275-381. [(worldcat)](http://www.worldcat.org/oclc/805693419)
-* M. Sotomayor, ‘La villa romana de Bruñel,’ *Cuadernos de Prehistoria de la Universidad de Granada 10*, (Granada, 1985), 335-366. [(worldcat)](http://www.worldcat.org/oclc/934427727)
-* M.ª C. Fernández Castro,*Villas romanas en Hispania*, (Madrid 1982).[(worldcat)](http://www.worldcat.org/oclc/876519837)
+* P. de Palol and M. Sotomayor, ‘Excavaciones en la villa romana de Bruñel (Quesada), de la Provincia de Jaén,’ *Actas del VIII Congreso Internacional de Arqueología Cristiana (Barcelona, 5-11 October, 1969)*, (Roma-Barcelona, 1972), 275-381. [(worldcat)](https://search.worldcat.org/title/805693419)
+* M. Sotomayor, ‘La villa romana de Bruñel,’ *Cuadernos de Prehistoria de la Universidad de Granada 10*, (Granada, 1985), 335-366. [(worldcat)](https://search.worldcat.org/title/934427727)
+* M.ª C. Fernández Castro,*Villas romanas en Hispania*, (Madrid 1982).[(worldcat)](https://search.worldcat.org/title/876519837)
 
 
 

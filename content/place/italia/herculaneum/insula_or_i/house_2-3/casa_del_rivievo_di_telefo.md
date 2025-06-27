@@ -62,9 +62,9 @@ A. The excavation of this house in 1934-1936 revealed an unusual atrium arrangem
 Unspecified
 
 ## Bibliography
-* Maiuri, *Herculaneum*, pp.65-66 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
-* Maiuri, *Ercolano*, pp. 347-352 and fig. 276 (plan) on p. 346 [(worldcat)](http://www.worldcat.org/oclc/490581395)
-* Jashemski, *Gardens*, vol. 1, fig. 91 on p. 52 [(worldcat)](http://www.worldcat.org/oclc/1029851777)
+* Maiuri, *Herculaneum*, pp.65-66 [(worldcat)](https://search.worldcat.org/title/1107784297)
+* Maiuri, *Ercolano*, pp. 347-352 and fig. 276 (plan) on p. 346 [(worldcat)](https://search.worldcat.org/title/490581395)
+* Jashemski, *Gardens*, vol. 1, fig. 91 on p. 52 [(worldcat)](https://search.worldcat.org/title/1029851777)
 
 ## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

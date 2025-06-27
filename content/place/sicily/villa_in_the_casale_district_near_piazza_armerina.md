@@ -74,11 +74,11 @@ The sumptuous fourth-century villa has, not surprisingly, a large and most elabo
 
 
 ## Bibliography
-A. Carandini, A. Ricci and M. De Vos, Filosofiana. La villa di Piazza Armerina, Palermo 1982, pp. 126–8 [(worldcat)](http://www.worldcat.org/oclc/165760407)
+A. Carandini, A. Ricci and M. De Vos, Filosofiana. La villa di Piazza Armerina, Palermo 1982, pp. 126–8 [(worldcat)](https://search.worldcat.org/title/165760407)
 
-G. V. Gentili, La villa romana di Piazza Armerina Palazzo Erculio, Osimo, 1 (1999): 79–83; 2 (1999): 25–8 [(worldcat)](http://www.worldcat.org/oclc/610543162)
+G. V. Gentili, La villa romana di Piazza Armerina Palazzo Erculio, Osimo, 1 (1999): 79–83; 2 (1999): 25–8 [(worldcat)](https://search.worldcat.org/title/610543162)
 
-R. J. A. Wilson, in G. C. M. Jansen (ed.), Cura aquarum in Sicilia: Proceedings of the Tenth International Congress on the History of Water Management and Hydraulic Engineering in the Mediterranean Region, Syracuse, May 16–22, 1998 [Bulletin Antieke Beschaving Supplement 5], Leiden: Stichtung BABesch 2000 [publ. 2001]: 22–23).[(worldcat)](http://www.worldcat.org/oclc/47203187)
+R. J. A. Wilson, in G. C. M. Jansen (ed.), Cura aquarum in Sicilia: Proceedings of the Tenth International Congress on the History of Water Management and Hydraulic Engineering in the Mediterranean Region, Syracuse, May 16–22, 1998 [Bulletin Antieke Beschaving Supplement 5], Leiden: Stichtung BABesch 2000 [publ. 2001]: 22–23).[(worldcat)](https://search.worldcat.org/title/47203187)
 
 ## Pleiades ID
 

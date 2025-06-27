@@ -34,7 +34,7 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 
 ## Bibliography
-- I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](http://www.worldcat.org/oclc/225047612)
+- I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
 
 <!--## Location Description-->
 
@@ -86,7 +86,7 @@ The end of the Augustan period
 
 ## Bibliography
 
-*  J. Mª.  Álvarez Martinez, J. L. de la Barrera Antón and A. Velázquez Jiménez, *Mérida* (Turismo Everest), León, 1995, p. 54. [(worldcat)](http://www.worldcat.org/oclc/433607571)
+*  J. Mª.  Álvarez Martinez, J. L. de la Barrera Antón and A. Velázquez Jiménez, *Mérida* (Turismo Everest), León, 1995, p. 54. [(worldcat)](https://search.worldcat.org/title/433607571)
 
 
 ## Pleiades ID

@@ -69,10 +69,10 @@ The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was 
 2nd century CE
 
 ## Bibliography
-- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 103-105. [(worldcat)](http://www.worldcat.org/oclc/989088620)
-- Foucher, L., *La Maison des Masques à Sousse, Fouilles 1962-1963*, Notes et documents, VI, Tunis, 1965. [(worldcat)](http://www.worldcat.org/oclc/318017455)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 103-105. [(worldcat)](https://search.worldcat.org/title/989088620)
+- Foucher, L., *La Maison des Masques à Sousse, Fouilles 1962-1963*, Notes et documents, VI, Tunis, 1965. [(worldcat)](https://search.worldcat.org/title/318017455)
 - Ghaddhab, R., "Y avait-il un port à Hadrumetum dans l’antiquité tardive?", in *Revue des etudes anciennes*, 2016, Bordeaux, France: Feret & Fils, pp. 175-199. https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf
-- Guizani, S., "L’œcus « cyzicenus » de la maison des Masques à Sousse", in *Revue Tunisienne d’archéologie*, 2013, p. 77-91.[(worldcat)](http://www.worldcat.org/oclc/949200707)
+- Guizani, S., "L’œcus « cyzicenus » de la maison des Masques à Sousse", in *Revue Tunisienne d’archéologie*, 2013, p. 77-91.[(worldcat)](https://search.worldcat.org/title/949200707)
 
 
 ## Pleiades ID

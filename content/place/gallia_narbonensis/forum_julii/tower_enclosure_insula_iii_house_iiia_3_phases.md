@@ -86,10 +86,10 @@ A.D. 200 Final Phase
 
 ## Bibliography
 
-1. *La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise*. Vaucluse: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 114-115. [(worldcat)](http://www.worldcat.org/oclc/695787865)
+1. *La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise*. Vaucluse: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 114-115. [(worldcat)](https://search.worldcat.org/title/695787865)
 
 
-2. RIVET,  D.  BRENTCHALOFF,  S.  ROUCOLE,  S.  SAULNIER,  *Fréjus,  Atlas topographique  des  villes  de  gaule  méridionale*,  R.A.N.,  supplément  32,  Montpellier,  2000,  P. 127-128. [(worldcat)](http://www.worldcat.org/oclc/491603596)
+2. RIVET,  D.  BRENTCHALOFF,  S.  ROUCOLE,  S.  SAULNIER,  *Fréjus,  Atlas topographique  des  villes  de  gaule  méridionale*,  R.A.N.,  supplément  32,  Montpellier,  2000,  P. 127-128. [(worldcat)](https://search.worldcat.org/title/491603596)
 
 
 

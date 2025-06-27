@@ -79,13 +79,13 @@ Excavated 1911-1929.
 
 ## Bibliography
 * Della Corte, M. *NSc* (1914), pp. 74-75, 228.  
-* Fiorelli, G. 1875. *Descrizione di Pompei*, pp. 452-453. [(worldcat)](http://www.worldcat.org/oclc/908272023)  
-* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 33-34. [(worldcat)](http://www.worldcat.org/oclc/921816405)
+* Fiorelli, G. 1875. *Descrizione di Pompei*, pp. 452-453. [(worldcat)](https://search.worldcat.org/title/908272023)  
+* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 33-34. [(worldcat)](https://search.worldcat.org/title/921816405)
 * Maiuri, A. 1933. *NSc*, pp. 256, 258-259, 272 and pl. 5 (plan).  
 * Prina Ricotti, S.P. *Cucine Romana a Pompei E Come Eseguirle*, pp. 268-271.  
-* Soprano, P. 1950, *'I triclini all’aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, pp. 294-295, no. 4 and fig. 30. [(worldcat)](https://www.worldcat.org/title/pompeiana-raccolta-di-studi-per-il-secondo-centenario-degli-scavi-di-pompei/oclc/470355316&referer=brief_results)
+* Soprano, P. 1950, *'I triclini all’aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, pp. 294-295, no. 4 and fig. 30. [(worldcat)](https://search.worldcat.org/title/470355316)
 * Spinazzola, V. 1914. *NSc*, pp. 256, 259-262, 287, 365-368.  
-* Spinazzola, V. 1910-1923, *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, pp. 121-122, 442, 444-445, 451, 453. [(worldcat)](http://www.worldcat.org/oclc/883858580)  
+* Spinazzola, V. 1910-1923, *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, pp. 121-122, 442, 444-445, 451, 453. [(worldcat)](https://search.worldcat.org/title/883858580)  
 * Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 16.  
 
 ## Pleiades ID

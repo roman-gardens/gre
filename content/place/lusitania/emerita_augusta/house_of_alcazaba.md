@@ -34,7 +34,7 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 
 ## Bibliography
-- I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](http://www.worldcat.org/oclc/225047612)
+- I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
 
 
 <!--## Location Description-->
@@ -85,8 +85,8 @@ Within the enclosure of the Islamic Alcazaba, west of the city, are the remains 
 ## Bibliography
 
 * L. J. Hernández Ramírez, *La pintura mural romana de Mérida*. (Inserta en la estructura urbana y doméstica de la ciudad, UNED (unpublished doctoral dissertation), 1993, pp. 634-702, lam. 10
-* E. García Sandoval, “Excavaciones arqueológicas en la zona de Mérida: La Casa del Anfiteatro," in *C.A.N.*, 8(1964): 469-477 [(worldcat)](http://www.worldcat.org/oclc/43198027)
-* F. Palma Garcia, “Las casas romanos intramuros en Mérida” *Mérida, excavaciones arqueológicos.* 1997, p. 347-65 [(worldcat)](http://www.worldcat.org/oclc/37151472)
+* E. García Sandoval, “Excavaciones arqueológicas en la zona de Mérida: La Casa del Anfiteatro," in *C.A.N.*, 8(1964): 469-477 [(worldcat)](https://search.worldcat.org/title/43198027)
+* F. Palma Garcia, “Las casas romanos intramuros en Mérida” *Mérida, excavaciones arqueológicos.* 1997, p. 347-65 [(worldcat)](https://search.worldcat.org/title/37151472)
 
 ## Pleiades ID
 

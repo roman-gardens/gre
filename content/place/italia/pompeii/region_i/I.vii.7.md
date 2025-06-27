@@ -78,10 +78,10 @@ Excavated 1912 and 1924.
 ## Bibliography
 
 * Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 25, no. 39.  
-* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, p. 30. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-1/oclc/312003872&referer=brief_results)  
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, pp. 37-38. [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
+* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, p. 30. [(worldcat)](https://search.worldcat.org/title/312003872)  
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, pp. 37-38. [(worldcat)](https://search.worldcat.org/title/222353569)  
 * Maiuri, A. 1939. *NSc*, pp. 26-27 and fig. 1 (plan) on p. 4.  
-* Maiuri, A. 1939. *Pompeii*, p. 112. [(worldcat)](http://www.worldcat.org/oclc/470375462)   
+* Maiuri, A. 1939. *Pompeii*, p. 112. [(worldcat)](https://search.worldcat.org/title/470375462)   
 * Maiuri, A. 1961. *“I giardini,” In Le Vie d’Italia*, p. 1138, no. 9.  
 
 ## Pleiades ID

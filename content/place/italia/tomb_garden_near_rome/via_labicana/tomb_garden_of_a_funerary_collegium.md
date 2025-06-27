@@ -51,11 +51,11 @@ The inscription concludes with eight hexameters urging readers to recognize in t
 16 CE
 
 ## Bibliography
-- B. E. Thomasson and M. Pavese,*A Survey of Greek and Latin Inscriptions on Stone in Swedish Collections,* (Stockholm 1997) XXX [worldcat](http://www.worldcat.org/oclc/898968143)
+- B. E. Thomasson and M. Pavese,*A Survey of Greek and Latin Inscriptions on Stone in Swedish Collections,* (Stockholm 1997) XXX [worldcat](https://search.worldcat.org/title/898968143)
 
-- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](http://www.worldcat.org/oclc/886794800)
+- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](https://search.worldcat.org/title/886794800)
 
-- L. Chioffi, *Epigrafia e insediamenti: Il caso del suburbio di Roma,* in  La forma della città e del territorio (Atlante Tematico di Topografia Antica V Supplemento), edited by S. Quilici Gigli (Rome, 1999) 53 n. 9.[worldcat](http://www.worldcat.org/oclc/43384208)
+- L. Chioffi, *Epigrafia e insediamenti: Il caso del suburbio di Roma,* in  La forma della città e del territorio (Atlante Tematico di Topografia Antica V Supplemento), edited by S. Quilici Gigli (Rome, 1999) 53 n. 9.[worldcat](https://search.worldcat.org/title/43384208)
 
 
 

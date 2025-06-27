@@ -73,8 +73,8 @@ the beginning of the IIIrd century.
 
 ## Bibliography
 
-* H. Slim, CMGR VII-1, 1999, pp. 137-38, *Archéologia*, Avril 2000, n° 366. [(worldcat)](http://www.worldcat.org/oclc/797652780)
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.123-124. [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* H. Slim, CMGR VII-1, 1999, pp. 137-38, *Archéologia*, Avril 2000, n° 366. [(worldcat)](https://search.worldcat.org/title/797652780)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.123-124. [(worldcat)](https://search.worldcat.org/title/989088620)
 
 
 ## Pleiades ID
