@@ -83,7 +83,6 @@ The western dwelling was organized around a narrow peristyle garden, 8.5 by 16.5
 
 ## Contributor
 
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
 ## Publication date
 

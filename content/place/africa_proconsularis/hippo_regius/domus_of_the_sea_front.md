@@ -98,7 +98,6 @@ Domus of the Sea Front (Villa du front de mer)
 - {{< id vocab="TGN" id="7001313" term="Annaba (inhabited place)" >}}
 
 ## Contributor
-[Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ## Publication date
 

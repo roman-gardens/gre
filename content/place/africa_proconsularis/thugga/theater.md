@@ -65,7 +65,6 @@ At the rear of the theater is a *xystis* known from the dedication inscription (
 - {{< id vocab="TGN" id="7017996" term="Dougga (deserted settlement)" >}}
 
 ## Contributor
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) \
 [Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 
 ## Publication Date

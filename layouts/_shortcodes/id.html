@@ -34,3 +34,8 @@ Example usage (in a garden article):
 {{ if $url }}
     <a target="_blank" href="{{ urls.JoinPath $url $id }}" title="{{ $vocabname }}">{{ $vocab }}: {{ $id }}</a>
 {{ end }}
+
+{{/* linebreak if we aren't showing the term (as in ORCID/WorldCat on a people page) */}}
+{{ if not $term }}
+    <br>
+{{ end }}

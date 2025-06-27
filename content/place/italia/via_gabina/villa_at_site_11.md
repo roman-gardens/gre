@@ -3,10 +3,10 @@ gre_id: "4cdf8e98d7"
 aliases: [/id/4cdf8e98d7]
 type: garden
 title: "Villa at site 11"
-date: 2020-11-29T10:54:29-07:00
 latlon: [ 41.890683, 12.632573 ]
 author: Walter Widrig
 editor: Lingyi Xu
+date: 2021-04-21
 draft: true
 ---
 
@@ -66,16 +66,3 @@ Unspecified
 
 ## TGN ID
 
-
-
-## Contributor
-
-[Walter M Widrig](link) (https://www.worldcat.org/wcidentities/lccn-n2009061717)  
-
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

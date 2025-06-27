@@ -90,7 +90,6 @@ First half of 1st century A.C. - 250
 
 ## Contributor
 
-[Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ## Publication date
 

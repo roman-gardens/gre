@@ -86,7 +86,6 @@ Late first century CE until the fourth century CE.
 - {{< id vocab="TGN" id="7128518" term="Niederzier (inhabited place)" >}}
 
 ## Contributor
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
 
 ## Publication date
 

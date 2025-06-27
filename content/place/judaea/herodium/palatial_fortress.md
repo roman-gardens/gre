@@ -97,8 +97,6 @@ The Palace Fortress is a cylindrical structure originally seven stories high (tw
 
 [Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
 
-[Kathryn L. Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)
-ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378)
 
 ## Publication date
 

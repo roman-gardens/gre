@@ -73,7 +73,6 @@ fourth century CE
 - {{< id vocab="TGN" id="7030348" term="Syria (province)" >}}
 
 ## Contributor
-[Kathryn L. Gleason](#) and [Amina-Aïcha Malek](#)
 
 ## Publication date
 

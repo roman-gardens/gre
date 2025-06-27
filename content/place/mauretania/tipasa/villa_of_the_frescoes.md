@@ -76,7 +76,6 @@ The peristyle garden had four porticoes supported by 14 columns and enclosed by 
 
 ## Contributor
 
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
 ## Publication date
 

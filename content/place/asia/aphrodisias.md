@@ -107,7 +107,6 @@ Unspecified
 - {{< id vocab="TGN" id="7002358" term="Caria (former nation/state/empire)" >}}
 
 ## Contributor
-[Kathryn Gleason](link)(ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378))
 
 ## Publication date
 

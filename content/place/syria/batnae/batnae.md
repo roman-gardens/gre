@@ -75,8 +75,7 @@ fourth century CE
 [#](#)
 
 ## Contributor
-[Catherine Kearns](#) and [Maureen Carroll](#)
-
+[Catherine Kearns](#) and 
 ## Publication date
 
 21 Apr 2021

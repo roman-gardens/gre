@@ -3,10 +3,10 @@ gre_id: "5cdeb84b3f"
 aliases: [/id/5cdeb84b3f]
 type: garden
 title: "House on Via del Tempio Rotondo"
-date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.753312445649286, 12.288591244178454 ]
 author: Paola Olivanti
 editor: Joshua Rosenheim
+date: 2021-04-21
 draft: false
 ---
 
@@ -109,12 +109,3 @@ partially excavated between June 1972 and January 1973
 
 - {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
-
-## Contributor
-
-[Paola Olivanti](https://www.worldcat.org/identities/lccn-nr98023577/)
-
-## Publication date
-
-
-21 Apr 2021

@@ -84,7 +84,6 @@ Early second century CE to ca. 300 CE
 
 ## Contributor
 
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
 
 ## Publication date
 

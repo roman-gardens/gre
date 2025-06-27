@@ -82,7 +82,6 @@ The northeastern courtyard was most likely a peristyle-garden.  There, a basin p
 
 ## Contributor
 
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
 ## Publication date
 

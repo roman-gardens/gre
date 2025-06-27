@@ -103,8 +103,6 @@ Unspecified
 
 ## Contributor
 
-[Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
-[Kathryn Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/) (ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378))
 
 ## Publication date
 

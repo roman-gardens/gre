@@ -75,7 +75,6 @@ The House of the Columns, approximately 1880 square meters, is located to the no
 
 ## Contributor
 
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
 ## Publication date
 

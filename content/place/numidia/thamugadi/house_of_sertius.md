@@ -91,7 +91,6 @@ This large *domus* the result of the combining of two houses, is located at the 
 - {{< id vocab="TGN" id="7001328" term="Timgad (deserted settlement)" >}}
 
 ## Contributor
-[Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ## Publication date
 

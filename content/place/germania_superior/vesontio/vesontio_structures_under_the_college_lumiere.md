@@ -112,7 +112,6 @@ Claudine Monier (ORCID: N/A)
 
 Christophe Gaston (ORCID: [https://orcid.org/0000-0001-6865-5108](https://orcid.org/0000-0001-6865-5108))
 
-[Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ## Publication date
 

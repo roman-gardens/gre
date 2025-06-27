@@ -87,7 +87,6 @@ There is very little information about this house, only two semi circular pools 
 
 ## Contributor
 
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
 ## Publication date
 

@@ -3,10 +3,10 @@ gre_id: "a81d577cb3"
 aliases: [/id/a81d577cb3]
 type: garden
 title: "Piazzale della Corporazioni"
-date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.756389, 12.291007 ]
 author: Paola Olivanti
 editor: Joshua Rosenheim
+date: 2021-04-21
 draft: false
 ---
 
@@ -128,12 +128,3 @@ Domitianic period
 
 - {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
-
-## Contributor
-
-[Paola Olivanti](https://www.worldcat.org/identities/lccn-nr98023577/)
-
-## Publication date
-
-
-21 Apr 2021

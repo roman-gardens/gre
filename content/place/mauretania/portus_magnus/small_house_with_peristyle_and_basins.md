@@ -69,7 +69,6 @@ The house was laid out around a peristyle that may have had a garden. 12 columns
 
 ## Contributor
 
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
 ## Publication date
 

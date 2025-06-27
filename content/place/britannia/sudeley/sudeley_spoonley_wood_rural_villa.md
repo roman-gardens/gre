@@ -81,7 +81,6 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 ## Contributor
 
-[Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll)
 
 ## ORCID:
 

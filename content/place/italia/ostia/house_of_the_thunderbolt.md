@@ -3,10 +3,10 @@ gre_id: "ba47943440"
 aliases: [/id/ba47943440]
 type: garden
 title: "House of the Thunderbolt (Domus Fulminata)"
-date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.750839672367256, 12.285040670892728 ]
 author: Paola Olivanti
 editor: Joshua Rosenheim
+date: 2021-04-21
 draft: false
 ---
 
@@ -117,12 +117,3 @@ The house is one of the most interesting examples of the transition from the atr
 
 - {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
-
-## Contributor
-
-[Paola Olivanti](https://www.worldcat.org/identities/lccn-nr98023577/)
-
-## Publication date
-
-
-21 Apr 2021

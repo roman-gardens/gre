@@ -3,10 +3,10 @@ gre_id: "4e09dabd43"
 aliases: [/id/4e09dabd43]
 type: garden
 title: "Villa at site 10"
-date: 2020-11-29T10:54:29-07:00
 latlon: [ 41.890683, 12.632573 ]
 author: Walter Widrig
 editor: Lingyi Xu
+date: 2021-04-21
 draft: true
 ---
 
@@ -72,18 +72,3 @@ Unspecified
 ## Pleiades ID
 
 - {{< id vocab="Pleiades" id="622606468" term="Via Praenestina" >}}
-
-## TGN ID
-
-
-## Contributor
-
-[Walter M Widrig](link) (https://www.worldcat.org/wcidentities/lccn-n2009061717)  
-
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

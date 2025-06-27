@@ -77,7 +77,6 @@ An inscription CIL VIII 21081 mentioning a pool covered by a wine trellis suppor
 
 ## Contributor
 
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
 ## Publication date
 

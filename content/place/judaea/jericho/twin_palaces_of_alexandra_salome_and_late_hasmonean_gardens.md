@@ -106,8 +106,6 @@ After Alexandra’s death, during the period from 67-32, a large swimming pool (
 
 ## Contributor
 
-[Kathryn L. Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)
-(ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378)
 [Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
 ## Publication date
 

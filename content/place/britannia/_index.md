@@ -24,7 +24,6 @@ Britain is geographically and geologically diverse, and it was characterized in 
 <!--## Periodo ID-->
 ## Contributor
 
-[Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ## Publication date
 

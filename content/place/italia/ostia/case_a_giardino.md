@@ -3,10 +3,10 @@ gre_id: "6425fe15f5"
 aliases: [/id/6425fe15f5]
 type: garden
 title: "Garden Houses (Case a Giardino)"
-date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.751911781895046, 12.28455095873102 ]
 author: Paola Olivanti
 editor: Joshua Rosenheim
+date: 2021-04-21
 draft: false
 ---
 
@@ -110,12 +110,3 @@ unspecified
 
 - {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
-
-## Contributor
-
-[Paola Olivanti](https://www.worldcat.org/identities/lccn-nr98023577/)
-
-## Publication date
-
-
-21 Apr 2021

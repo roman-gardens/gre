@@ -77,7 +77,6 @@ Middle of the first century CE until the fourth century CE
 
 ## Contributor
 
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
 
 ## Publication date
 

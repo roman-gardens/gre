@@ -5,8 +5,8 @@ type: garden
 title: "Palace of Hyrcanus the Tobiad"
 date: 2020-10-01
 latlon: [ 31.912796, 35.751922 ]
-author: Kathryn Gleason
-editor: Leigh-Ann Bedal, Jane Millar
+author: Kathryn Gleason, Leigh-Ann Bedal
+editor: Jane Millar
 draft: false
 ---
 
@@ -99,7 +99,6 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 - {{< id vocab="TGN" id="5003214" term="Araq El-Emir (inhabited place)" >}}
 
 ## Contributor
-[Kathryn L. Gleason](#) and [Leigh-Ann Bedal](#)
 <!-- [name](https://....) -->
 
 ## Publication date

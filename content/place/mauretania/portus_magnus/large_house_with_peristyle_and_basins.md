@@ -73,7 +73,6 @@ A corridor (see Fig. 1, label M) was bordered by two small gardens (labels N and
 
 ## Contributor
 
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
 ## Publication date
 

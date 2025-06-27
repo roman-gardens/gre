@@ -90,7 +90,6 @@ House of the Seasons (La maison des Saisons)
 - {{< id vocab="TGN" id="7001754" term="Sbeitla (inhabited place)" >}}
 
 ## Contributor
-[Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 ## Publication date
 

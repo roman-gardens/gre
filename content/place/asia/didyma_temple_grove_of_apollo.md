@@ -5,7 +5,7 @@ type: garden
 title: "Temple Grove of Apollo"
 date: 2020-10-03T10:39:31-07:00
 latlon: [ 37.384829, 27.256115 ]
-author: AUTHOR_ID
+author: Kathryn Gleason
 editor: Shamika Ghate
 draft: true
 ---
@@ -97,7 +97,6 @@ Unspecified
 - {{< id vocab="TGN" id="7002358" term="Caria (former nation/state/empire)" >}}
 
 ## Contributor
-[Kathryn Gleason](link) (ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378))
 
 ## Publication date
 

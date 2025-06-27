@@ -65,7 +65,6 @@ None
 - {{< id vocab="TGN" id="6002234" term="Germania Inferior (province)" >}}
 
 ## Contributor
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
 
 ## Publication date
 

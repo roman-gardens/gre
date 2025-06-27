@@ -83,7 +83,6 @@ It is assumed that the peristyle and its garden may have had a view over the sea
 
 ## Contributor
 
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/)
 
 ## Publication date
 

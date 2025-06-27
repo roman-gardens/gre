@@ -105,8 +105,6 @@ With porticoes on three sides and measuring 23 x 14.5m, this courtyard, known as
 
 ## Contributor
 
-[Kathryn L. Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)
-(ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378)
 
 ## Publication date
 

@@ -121,8 +121,6 @@ A huge pool (90 x 40 m.) built to the east of the sunken garden formed an integr
 
 ## Contributor
 
-[Kathryn L. Gleason](https://landscape.cals.cornell.edu/people/kathryn-l-gleason/)
-(ORCID: [0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378)
 
 ## Publication date
 
