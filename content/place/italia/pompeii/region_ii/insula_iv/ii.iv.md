@@ -3,10 +3,10 @@ gre_id: "c0f96c0e73"
 aliases: [/id/c0f96c0e73]
 type: garden
 title: "II.4 Estate of Julia Felix; Praedia di Giulia Felice"
-date: 2021-03-06T14:54:53Z
 latlon: [ 40.751957, 14.493271 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
+date: 2021-04-21
 draft: false
 ---
 

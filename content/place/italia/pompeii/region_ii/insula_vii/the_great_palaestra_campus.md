@@ -3,11 +3,11 @@ gre_id: "49e4c2d1b1"
 aliases: [/id/49e4c2d1b1]
 type: garden
 title: "II.6 The Great Palaestra"
-date: 2020-12-10T00:10:10-04:00
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
 jashemski-catalogue: 148
+date: 2021-04-21
 draft: false
 ---
 
@@ -51,11 +51,3 @@ Excavated 1814 to 1816, 1933, and 1935 to 1939.
 * Jashemski, W. 1979. *Gardens of Pompeii*, vol.I, pp.160-161 and fig. 246 on p.161  [(worldcat)](https://search.worldcat.org/title/884024123)
 * Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.92 [(worldcat)](https://search.worldcat.org/title/921816405)
 * Maiuri, A. 1939. *Notizie degli scavi di antichità*, pp.193-195 and pl.9 (plan shows only a part of the root cavities found).[(worldcat)](https://search.worldcat.org/title/1646037)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

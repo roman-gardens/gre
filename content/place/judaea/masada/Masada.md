@@ -3,10 +3,10 @@ gre_id: "8758362e50"
 aliases: [/id/8758362e50]
 type: garden
 title: "Masada"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.316258, 35.353684 ]
 author: Kathryn Gleason
 editor: Yaniv Korman
+date: 2021-04-21
 draft: false
 ---
 
@@ -84,8 +84,6 @@ The Northern or Hanging Palace, the latest of Herod’s constructions on the sit
 
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

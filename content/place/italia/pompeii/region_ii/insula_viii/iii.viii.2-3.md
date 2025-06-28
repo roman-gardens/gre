@@ -3,11 +3,11 @@ gre_id: "3a58cd0c0e"
 aliases: [/id/3a58cd0c0e]
 type: garden
 title: "II.8.2-3"
-date: 2020-12-10T00:10:10-04:00
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 150
+date: 2021-04-21
 draft: false
 ---
 
@@ -50,11 +50,3 @@ Excavated 1953.
 ## Bibliography
 * Jashemski, W.F. 1993. *Gardens of Pompeii*, vol.II, p.92 [(worldcat)](https://search.worldcat.org/title/921816405)
 * Orr, David. G. 1972. *Roman Domestic Religion: A Study of the Roman Household Deities and their Shrines at Pompeii and Herculaneum* [(worldcat)](https://search.worldcat.org/title/644432540)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

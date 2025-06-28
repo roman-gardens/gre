@@ -73,10 +73,6 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 
 - {{< id vocab="Pleiades" id="256422" term="S. Cucufate" >}}
 
-
-<!--## Contributor-->
-
-
 ## Publication date
 
 21 Apr 2021

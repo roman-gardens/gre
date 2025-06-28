@@ -69,8 +69,6 @@ These were discovered out of context or the location of the find is not known:
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

@@ -3,10 +3,10 @@ gre_id: "0c51c2cecb"
 aliases: [/id/0c51c2cecb]
 type: garden
 title: "Garden beneath the House of the Fishes (Domus dei Pesci)"
-date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.75282967075262, 12.28930212931829 ]
 author: Stella Falzone
 editor: Joshua Rosenheim
+date: 2021-04-21
 draft: false
 ---
 
@@ -100,6 +100,4 @@ unspecified
 [Stella Falzone](https://www.cespro-ostia.org/stella-falzone) <!-- is this a good website for Falzone? -->
 
 ## Publication date
-
-
 21 Apr 2021

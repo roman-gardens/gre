@@ -3,10 +3,10 @@ gre_id: "cdb21753ee"
 aliases: [/id/cdb21753ee]
 type: garden
 title: "Hermaphrodite House (Maison de l'Hermaphrodite)"
-date: 2020-11-13T10:39:31-07:00
 latlon: [ 35.485216, 6.468222 ]
 author: Amina-Aïcha Malek
 editor: Xue Xia
+date: 2021-04-21
 draft: false
 ---
 

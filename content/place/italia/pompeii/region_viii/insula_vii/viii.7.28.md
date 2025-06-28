@@ -3,11 +3,11 @@ gre_id: "27ac79ecb5"
 aliases: [/id/27ac79ecb5]
 type: garden
 title: "VIII.7.28. Temple of Isis"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 459
+date: 2021-04-21
 draft: false
 ---
 
@@ -45,10 +45,3 @@ This temple site was excavated in 1764-1766 and although, as Jashemski points ou
 * Jashemski, *Gardens*, 1:157 and figs. 216 (balloon photo) and 217 (plan) on pp. 138-139 [(worldcat)](https://search.worldcat.org/title/1047945215)
 * Jashemski, *Gardens*, vol. II, pp. 222-223 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 1, “Tempio d’Iside,” pl. 2 (plan) [(worldcat)](https://search.worldcat.org/title/906755593)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

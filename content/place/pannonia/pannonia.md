@@ -39,6 +39,4 @@ The creation of the province of Pannonia can be dated to the years following 9 B
 - {{< id vocab="TGN" id="4008442" term="Pannonia (general region)" >}}
 
 ## Publication date
-
-
 21 Apr 2021

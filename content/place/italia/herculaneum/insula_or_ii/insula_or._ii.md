@@ -3,11 +3,11 @@ gre_id: "f1a0523454"
 aliases: [/id/f1a0523454]
 type: garden
 title: "Insula or. II"
-date: 2020-09-30T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 565
+date: 2021-04-21
 draft: false
 ---
 
@@ -54,10 +54,3 @@ Unspecified
 
 ## Bibliography
 Not applicable
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

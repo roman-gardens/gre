@@ -97,8 +97,6 @@ NEW WAY ↓↓↓↓
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

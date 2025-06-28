@@ -3,10 +3,10 @@ gre_id: "b876d5102b"
 aliases: [/id/b876d5102b]
 type: garden
 title: "I.6.4 House of the Lararium; Casa del Larario; Sabello Iliaco"
-date: 2021-04-02T09:07:23+01:00
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
+date: 2021-04-21
 draft: false
 ---
 
@@ -78,8 +78,6 @@ Excavated 1873-1874.
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

@@ -343,7 +343,7 @@ table.meta a {
 }
 
 table.meta tr.draft {
-  background: #fff2e7;
+  background: #fda; /* #fff2e7; */
 }
 
 table.meta .path {

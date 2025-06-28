@@ -3,11 +3,11 @@ gre_id: "c1103d0733"
 aliases: [/id/c1103d0733]
 type: garden
 title: "VIII.2.29-30."
-date: 2021-03-22T00:10:10-04:00
 latlon: [ 40.74812, 14.48687 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 414
+date: 2021-04-21
 draft: false
 ---
 
@@ -52,11 +52,3 @@ Unspecified
 * Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi,” p. 20 [(worldcat)](https://search.worldcat.org/title/906755593)
 * Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, fig. 27 (plan) on pp. 55-70 passim and fig. 17 on p. 62, fig. 18 on p. 65 (plan), pls. 9, 10 (plan and section) and pls. 22, 23 (reconstructions) [(worldcat)](https://search.worldcat.org/title/486835478)
 * Sogliano, *Notizie degli scavi di Antichita* (1883), p. 347 [(worldcat)](https://search.worldcat.org/title/46875519)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

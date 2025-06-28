@@ -87,8 +87,6 @@ Stone-built villa: Middle of the 1st century CE
 
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

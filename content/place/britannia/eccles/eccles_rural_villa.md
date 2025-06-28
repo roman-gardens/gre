@@ -3,10 +3,10 @@ gre_id: "a4cf8fcabe"
 aliases: [/id/a4cf8fcabe]
 type: garden
 title: "Rural Villa in Eccles"
-date: 2020-07-08T17:53:24-04:00
 latlon: [ 51.318926, 0.479999 ]
 author: Maureen Carroll
 editor: June Dorsch
+date: 2021-04-21
 draft: false
 ---
 
@@ -59,8 +59,6 @@ mid-1st to 4th century CE
 - {{< id vocab="TGN" id="1029144" term="Eccles (inhabited place)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

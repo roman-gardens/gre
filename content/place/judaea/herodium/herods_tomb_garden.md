@@ -3,10 +3,10 @@ gre_id: "ce27b94b83"
 aliases: [/id/ce27b94b83]
 type: garden
 title: "Herodium Herod’s Tomb Garden"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.665784, 35.241750 ]
 author: Ehud Netzer
 editor: Yaniv Korman
+date: 2021-04-21
 draft: false
 ---
 
@@ -85,8 +85,6 @@ In 2005, Netzer’s team found the long-sought tomb of Herod, positioned on a te
 
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

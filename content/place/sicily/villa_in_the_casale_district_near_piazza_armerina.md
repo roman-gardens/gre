@@ -18,7 +18,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 [Enna]({{<relref "../..">}})
 
 
-
 ## Location
 
 [Enna](https://pleiades.stoa.org/places/462236/)

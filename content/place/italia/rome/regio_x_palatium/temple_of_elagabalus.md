@@ -3,10 +3,10 @@ gre_id: "9970d12455"
 aliases: [/id/9970d12455]
 type: garden
 title: "Gardens of the Temple of Elagabalus"
-date: 2021-04-17
 latlon: [ 41.889306, 12.487109 ]
 author: Françoise Villedieu
 editor: Rhiannon Paré
+date: 2021-04-21
 draft: false
 ---
 

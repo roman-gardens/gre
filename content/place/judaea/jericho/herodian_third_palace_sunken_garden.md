@@ -3,10 +3,10 @@ gre_id: "9d91dd8940"
 aliases: [/id/9d91dd8940]
 type: garden
 title: "Jericho Herodian Third Palace Sunken Garden"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.853621, 35.434882 ]
 author: Kathryn Gleason
 editor: Yaniv Korman
+date: 2021-04-21
 draft: false
 ---
 
@@ -119,8 +119,6 @@ A huge pool (90 x 40 m.) built to the east of the sunken garden formed an integr
 [#](#)-->
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

@@ -3,10 +3,10 @@ gre_id: "53500e1feb"
 aliases: [/id/53500e1feb]
 type: garden
 title: "I.7.10-12/19 House of the Ephebe; Casa Dell’Efebo; House of P. Cornelius Teges (or Tages)"
-date: 2020-08-08T16:18:49-04:00
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
+date: 2021-04-21
 draft: false
 ---
 
@@ -141,8 +141,6 @@ Excavated 1912 and 1925.
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

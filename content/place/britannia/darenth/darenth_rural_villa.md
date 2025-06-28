@@ -3,10 +3,10 @@ gre_id: "19c1b644fb"
 aliases: [/id/19c1b644fb]
 type: garden
 title: "Rural Villa in Darenth"
-date: 2020-07-08T12:08:30-04:00
 latlon: [ 51.421122, 0.257752 ]
 author: Maureen Carroll
 editor: June Dorsch
+date: 2021-04-21
 draft: false
 ---
 
@@ -60,8 +60,6 @@ ca. 100 CE - late 4th century CE
 - {{< id vocab="TGN" id="7027349" term="Darenth (inhabited place)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

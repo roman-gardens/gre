@@ -3,11 +3,11 @@ gre_id: "6d58326d51"
 aliases: [/id/6d58326d51]
 type: garden
 title: "VIII.7.10. Shop-House"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 453
+date: 2021-04-21
 draft: false
 ---
 
@@ -57,11 +57,3 @@ Unspecified
 * Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1875), p. 168 [(worldcat)](https://search.worldcat.org/title/823239162)
 * Soprano, *I triclini all'aperto di Pompei* In Pompeiana, p. 302, no. 18 [(worldcat)](https://search.worldcat.org/title/78719058)
 * Spano, *Notizie degli scavi di Antichita* (1910), pp. 265-268 and fig. 5 (plan) on p. 263 [(worldcat)](https://search.worldcat.org/title/638883283)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

@@ -90,8 +90,6 @@ A.D. 1-100 Considerable extension to the northeast
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

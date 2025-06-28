@@ -3,10 +3,10 @@ gre_id: "2240426c29"
 aliases: [/id/2240426c29]
 type: garden
 title: "Roman Palace in Fishbourne"
-date: 2020-07-09T18:05:37-04:00
 latlon: [ 50.836765, -0.809853 ]
 author: Kathryn Gleason
 editor: June Dorsch
+date: 2021-04-21
 draft: false
 ---
 
@@ -87,8 +87,6 @@ late 1st century CE - unspecified
 - {{< id vocab="TGN" id="7032567" term="Fishbourne Roman Palace (historic site)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

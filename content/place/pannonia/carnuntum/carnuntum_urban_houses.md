@@ -64,6 +64,4 @@ unspecified
 - {{< id vocab="TGN" id="7032538" term="Carnuntum (deserted settlement)" >}}
 
 ## Publication date
-
-
 21 Apr 2021

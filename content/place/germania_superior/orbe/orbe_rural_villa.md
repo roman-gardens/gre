@@ -69,8 +69,6 @@ House: mid-1st century CE - 4th century
 - {{< id vocab="TGN" id="7007438" term="Orbe (inhabited place)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

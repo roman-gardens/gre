@@ -3,10 +3,10 @@ gre_id: "93e760d9c3"
 aliases: [/id/93e760d9c3]
 type: garden
 title: "House with Peristyle"
-date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.752743867143124, 12.286672797879733 ]
 author: Thomas Morard
 editor: Joshua Rosenheim
+date: 2021-04-21
 draft: false
 ---
 
@@ -118,6 +118,4 @@ winter of 1938-1939
 Thomas Morard
 
 ## Publication date
-
-
 21 Apr 2021

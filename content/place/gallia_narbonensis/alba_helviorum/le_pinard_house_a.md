@@ -80,8 +80,6 @@ The natural slope of the terrain towards the east led to building the house in l
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

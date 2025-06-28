@@ -71,8 +71,6 @@ First half of 1st century A.C. - 250
 - {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

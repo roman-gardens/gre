@@ -3,11 +3,11 @@ gre_id: "0fc1cea99b"
 aliases: [/id/0fc1cea99b]
 type: garden
 title: "VIII.2.36/37."
-date: 2021-03-22T00:10:10-04:00
 latlon: [ 40.74841, 14.48730 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 416
+date: 2021-04-21
 draft: false
 ---
 
@@ -56,11 +56,3 @@ This house was excavated in 1885. The entrance at 37 went into the atrium and be
 * Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi,” pp. 16, 17 [(worldcat)](https://search.worldcat.org/title/906755593)
 * Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 31-44 passim, pls. 5, 6 (plans) and 21 (reconstruction) [(worldcat)](https://search.worldcat.org/title/486835478)
 * Sogliano, *Notizie degli scavi di Antichita* (1885), p. 535 and plan on pp. 253 and 533. [(worldcat)](https://search.worldcat.org/title/46875519)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

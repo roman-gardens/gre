@@ -69,8 +69,6 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 - {{< id vocab="TGN" id="8703779" term="Oberentfelden (inhabited place)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

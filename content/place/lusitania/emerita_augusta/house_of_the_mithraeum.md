@@ -91,8 +91,6 @@ The end of the 1st to the 4th century AD
 
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

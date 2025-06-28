@@ -65,6 +65,4 @@ Very few houses of Mediterranean type have been discovered, and only one can be 
 - {{< id vocab="TGN" id="8713146" term="Aquincum (deserted settlement)" >}}
 
 ## Publication date
-
-
 21 Apr 2021

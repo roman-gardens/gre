@@ -3,11 +3,11 @@ gre_id: "cc3148ba5f"
 aliases: [/id/cc3148ba5f]
 type: garden
 title: "VIII.5.15-16/18."
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 438,439,440
+date: 2021-04-21
 draft: false
 ---
 
@@ -60,11 +60,3 @@ Unspecified
 * Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 197-200, 203-204 [(worldcat)](https://search.worldcat.org/title/823239162)
 * Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 279, 317 [(worldcat)](https://search.worldcat.org/title/638883283)
 * Pernice, *Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen*, p. 34 and pl. 23.2 [(worldcat)](https://search.worldcat.org/title/680390526)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

@@ -25,7 +25,6 @@ draft: true
 [Region X]({{<relref "..">}})
 
 
-
 ## Garden
 
 House of Grotto of Aatullus
@@ -113,8 +112,6 @@ unspecified
 Tom Elliott (https://pleiades.stoa.org/author/thomase)
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

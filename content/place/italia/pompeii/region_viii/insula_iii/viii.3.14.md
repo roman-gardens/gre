@@ -3,11 +3,11 @@ gre_id: "5c8aada6d5"
 aliases: [/id/5c8aada6d5]
 type: garden
 title: "VIII.3.14. House of Queen Carolina; House of Adonis"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 421
+date: 2021-04-21
 draft: false
 ---
 
@@ -64,11 +64,3 @@ Unspecified
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
 * Fiorelli,ed. *Pompeianarum Antiquitatum Historia*, (Sept. 11, 25, 1839); 373(Oct. 9, 14, 21, 1839); 374 (Oct 28-31, Nov. 4, 1839); Ibid., 3:153 (Sept. 11, 1839); 154 (Sept. 25, 1839); 155 (Oct. 9, Nov. 8, 1839) [(worldcat)](https://search.worldcat.org/title/714988573)
 * Schultz, Bullettino dell'Instituto di Corrispondenza Archeologica (1841), p. 119, [(worldcat)](https://search.worldcat.org/title/646515522)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

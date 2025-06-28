@@ -87,8 +87,6 @@ A.D 80-100 Two burials made
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

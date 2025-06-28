@@ -3,11 +3,11 @@ gre_id: "e94db794a9"
 aliases: [/id/e94db794a9]
 type: garden
 title: "VIII.6.4-5. Market Garden"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 449
+date: 2021-04-21
 draft: false
 ---
 
@@ -56,11 +56,3 @@ After the earthquake the eastern part of this insula had been converted into a m
 * Mau, *Mitteilungen des Deutschen Archaologischen Instituts, Romische Abteilung* , 1886, pp. 141-143 (called Viii.vii.4) and pl. 7a. 1 [(worldcat)](https://search.worldcat.org/title/1180386779)
 * Sogliano, *Notizie degli scavi di Antichita*, 1883, p.51 [(worldcat)](https://search.worldcat.org/title/638883283)
 * Sogliano, *Notizie degli scavi di Antichita*, 1884, pp.280,396 [(worldcat)](https://search.worldcat.org/title/638883283)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

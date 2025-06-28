@@ -3,10 +3,10 @@ gre_id: "f2b1ae794d"
 aliases: [/id/f2b1ae794d]
 type: garden
 title: "Jericho Pool Complex of Alexander Janneaus"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.853511, 35.433756 ]
 author: Kathryn Gleason
 editor: Yaniv Korman
+date: 2021-04-21
 draft: false
 ---
 
@@ -91,8 +91,6 @@ By 90 BCE, Jannaeus was experiencing political and military difficulties, and it
 [Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

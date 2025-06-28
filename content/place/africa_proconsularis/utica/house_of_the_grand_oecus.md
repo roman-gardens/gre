@@ -3,10 +3,10 @@ gre_id: "e738423524"
 aliases: [/id/e738423524]
 type: garden
 title: "House of the Grand Oecus (Maison du grand oecus)"
-date: 2020-09-29T09:49:36-04:00
 latlon: [ 37.055611, 10.061305 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Jinyi Yang
+date: 2021-04-21
 draft: false
 ---
 
@@ -72,6 +72,4 @@ This house is the most important dwelling discovered to date at Utica. The large
 
 [Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)) \
 ## Publication date
-
-
 21 Apr 2021

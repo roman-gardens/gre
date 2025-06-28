@@ -79,8 +79,6 @@ At first, this relatively modest dwelling was thought to have perhaps belonged t
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

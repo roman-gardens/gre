@@ -25,7 +25,6 @@ draft: true
 [Region X]({{<relref "..">}})
 
 
-
 ## Garden
 
 Villa of the Bath
@@ -81,8 +80,6 @@ unspecified
 [Brady Kiesling](https://pleiades.stoa.org/author/bkiesling)
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

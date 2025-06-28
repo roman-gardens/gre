@@ -114,8 +114,6 @@ A.D. 20-A.D 60
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

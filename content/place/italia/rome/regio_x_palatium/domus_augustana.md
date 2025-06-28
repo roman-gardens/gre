@@ -3,10 +3,10 @@ gre_id: "b03661296b"
 aliases: [/id/b03661296b]
 type: garden
 title: "Domus Augustana"
-date: 2021-04-08T02:46:42+02:00
 latlon: [ 41.889306, 12.487109 ]
 author: Maria Anntonietta Tomei
 editor: Rhiannon Paré
+date: 2021-04-21
 draft: false
 ---
 
@@ -103,15 +103,3 @@ unspecified
 ## Places
 
 - {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}
-
-## Contributor
-
-Maria Anntonietta Tomei
-
-## ORCID
-
-unspecified
-
-## Publication date
-
-21 Apr 2021

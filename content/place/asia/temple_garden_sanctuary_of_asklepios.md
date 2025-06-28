@@ -79,8 +79,6 @@ Unspecified
 - {{< id vocab="TGN" id="7012054" term="Kos, Nísos (island)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

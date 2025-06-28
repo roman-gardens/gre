@@ -64,10 +64,6 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 
 - {{< id vocab="Pleiades" id="614074944" term="614074944" >}}
 
-
-<!--## Contributor-->
-
-
 ## Publication date
 
 21 Apr 2021

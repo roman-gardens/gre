@@ -84,8 +84,6 @@ Excavations in 1982-1984
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

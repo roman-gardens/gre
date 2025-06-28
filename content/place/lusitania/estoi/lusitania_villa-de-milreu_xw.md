@@ -68,10 +68,6 @@ The archaeologists working on the site have not produced a detailed sequence of 
 
 - {{< id vocab="Pleiades" id="854718547" term="854718547" >}}
 
-
-<!--## Contributor-->
-
-
 ## Publication date
 
 21 Apr 2021

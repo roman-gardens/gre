@@ -3,10 +3,10 @@ gre_id: "55b0838dc2"
 aliases: [/id/55b0838dc2]
 type: garden
 title: "I.7.7 House of the Priest Amandus"
-date: 2020-08-08T16:01:37-04:00
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
+date: 2021-04-21
 draft: false
 ---
 
@@ -94,8 +94,6 @@ Excavated 1912 and 1924.
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

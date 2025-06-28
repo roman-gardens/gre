@@ -3,10 +3,10 @@ gre_id: "35fc323d18"
 aliases: [/id/35fc323d18]
 type: garden
 title: "Shrine Complex in Insula E125"
-date: 2020-10-08T10:30:00-04:00
 latlon: [ 29.956958, 35.328326 ]
 author: M. Barbara Reeves
 editor: Jane Millar, Leigh-Ann Bedal
+date: 2021-04-21
 draft: false
 ---
 

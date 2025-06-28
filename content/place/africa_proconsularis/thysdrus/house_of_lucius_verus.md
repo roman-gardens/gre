@@ -3,10 +3,10 @@ gre_id: "101706da04"
 aliases: [/id/101706da04]
 type: garden
 title: "House of the Lucius Verus"
-date: 2020-09-29T09:49:36-04:00
 latlon: [ 35.297762, 10.699599 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Jinyi Yang
+date: 2021-04-21
 draft: false
 ---
 
@@ -72,6 +72,4 @@ The house was laid out around a large persityle garden of twenty-two columns (20
 [Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)) \
 
 ## Publication date
-
-
 21 Apr 2021

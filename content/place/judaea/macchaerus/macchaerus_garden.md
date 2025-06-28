@@ -3,10 +3,10 @@ gre_id: "3362b96966"
 aliases: [/id/3362b96966]
 type: garden
 title: "Machaerus Southern Courtyard"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.870046, 35.443876 ]
 author: Győző Vörös
 editor: Yaniv Korman
+date: 2021-04-21
 draft: false
 ---
 
@@ -108,8 +108,6 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

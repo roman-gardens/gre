@@ -70,8 +70,6 @@ Unspecified
 - {{< id vocab="TGN" id="7004944" term="Vetera Castra (deserted settlement)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 ## Related articles

@@ -3,10 +3,10 @@ gre_id: "0af81a130f"
 aliases: [/id/0af81a130f]
 type: garden
 title: "Herodium Lower Garden Complex"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.665784, 35.241750 ]
 author: Ehud Netzer, Kathryn Gleason
 editor: Yaniv Korman
+date: 2021-04-21
 draft: false
 ---
 
@@ -85,8 +85,6 @@ A limited examination of the courtyard area by K. Gleason in December 1985 suppo
 
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

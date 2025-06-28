@@ -3,10 +3,10 @@ gre_id: "1e129b7e3b"
 aliases: [/id/1e129b7e3b]
 type: garden
 title: "The Late Republican Domus"
-date: 2021-04-28
 latlon: [ 41.889306, 12.487109 ]
 author: Maria Anntonietta Tomei
 editor: Rhiannon Paré
+date: 2021-04-21
 draft: false
 ---
 

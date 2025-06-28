@@ -3,10 +3,10 @@ gre_id: "01e7e75fa3"
 aliases: [/id/01e7e75fa3]
 type: garden
 title: "Temple of Baalat (Temple de Balaat)"
-date: 2021-04-21
 latlon: [ 36.400355, 9.903990 ]
 author: Wilhelmina Jashemski
 editor: Nicholas Gill
+date: 2021-04-21
 draft: false
 ---
 

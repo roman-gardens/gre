@@ -3,11 +3,11 @@ gre_id: "47d674ad67"
 aliases: [/id/47d674ad67]
 type: garden
 title: "VIII.7.11."
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 454
+date: 2021-04-21
 draft: false
 ---
 
@@ -46,10 +46,3 @@ Unspecified
 ## Bibliography
 * Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Viola, *Gli scavi di Pompei dal 1873 al 1878.* In Pompei e la regione sotterrara dal Vesuvio nell' anno LXXIX, p. 17 (where the address is VIII.viii.11) [(worldcat)](https://search.worldcat.org/title/254502217)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

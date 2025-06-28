@@ -5,8 +5,8 @@ type: place
 title: "Dalmatia"
 date: 2020-07-14T16:46:14-04:00
 latlon: [ 50.940671, 6.959908 ]
-editor: Christian Casey
 author: None
+editor: Christian Casey
 draft: true
 ---
 
@@ -56,13 +56,6 @@ A sublocation is any area larger than an individual garden, but located within a
 
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
 
-## Contributor
-
-<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
-
-## ORCID
-
-<!-- [ORCID](https://orcid.org/ORCID) -->
 
 ## Publication date
 <!-- Format: dd MONTH_NAME yyyy -->

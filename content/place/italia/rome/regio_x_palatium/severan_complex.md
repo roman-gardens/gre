@@ -3,10 +3,10 @@ gre_id: "b267892f1e"
 aliases: [/id/b267892f1e]
 type: garden
 title: "The Severan Complex"
-date: 2021-06-29
 latlon: [ 41.889306, 12.487109 ]
 author: Maria Anntonietta Tomei
 editor: Rhiannon Paré
+date: 2021-06-29
 draft: false
 ---
 

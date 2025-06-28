@@ -3,11 +3,11 @@ gre_id: "1c2b9ebf6d"
 aliases: [/id/1c2b9ebf6d]
 type: garden
 title: "VIII.7.1. Caupona"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 451
+date: 2021-04-21
 draft: false
 ---
 
@@ -57,10 +57,3 @@ This caupona, excavated in 1874, had a garden (a) across the back with a low wal
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 68 [(worldcat)](https://search.worldcat.org/title/906755593)
 * Schefold, *Die Wande Pompejis*, p. 230 [(worldcat)](https://search.worldcat.org/title/1189906922)
 * Soliano, *Le pitture murali campane scoverte negli anni 1867-1879.* In Pompei e la regione sotterrata dal Vesuvio nel'anno LXXIX, p. 224, no. 695 (address given as VIII.viii.1) [(worldcat)](https://search.worldcat.org/title/162912722)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

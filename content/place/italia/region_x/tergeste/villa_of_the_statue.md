@@ -25,7 +25,6 @@ draft: true
 [Region X]({{<relref "..">}})
 
 
-
 ## Garden
 
 Villa of the Statue
@@ -98,8 +97,6 @@ NEW WAY ↓↓↓↓
 [Brady Kiesling](https://pleiades.stoa.org/author/bkiesling)
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

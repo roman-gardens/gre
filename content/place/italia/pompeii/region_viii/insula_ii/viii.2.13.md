@@ -3,11 +3,11 @@ gre_id: "b4703e7d9d"
 aliases: [/id/b4703e7d9d]
 type: garden
 title: "VIII.2.13."
-date: 2021-03-22T00:10:10-04:00
 latlon: [ 40.74855, 14.48520 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 409
+date: 2021-04-21
 draft: false
 ---
 
@@ -56,11 +56,3 @@ Unspecified
 * Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1892), p. 3 and pl. 1 (plan) [https://search.worldcat.org/title/860559196)
 * Noack and Lehmann-Hartleben, *Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 121-128 passim and fig. 32 (plan) on p. 116 and pl. 17 (plans). [(worldcat)](https://search.worldcat.org/title/876087879)
 * Sogliano, *Notizie degli scavi di Antichita*(1899), p. 143 [(worldcat)](https://search.worldcat.org/title/46875519)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

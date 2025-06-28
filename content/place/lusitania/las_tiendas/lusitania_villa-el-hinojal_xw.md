@@ -71,10 +71,6 @@ The house appears to have been built at the end of the third or beginning of the
 
 - {{< id vocab="Pleiades" id="213630148" term="213630148" >}}
 
-
-<!--## Contributor-->
-
-
 ## Publication date
 
 21 Apr 2021

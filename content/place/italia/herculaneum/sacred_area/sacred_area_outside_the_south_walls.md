@@ -3,11 +3,11 @@ gre_id: "ab1e68bef5"
 aliases: [/id/ab1e68bef5]
 type: garden
 title: "Sacred Area Outside the South Walls"
-date: 2020-10-20T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 567
+date: 2021-04-21
 draft: false
 ---
 
@@ -59,11 +59,3 @@ Unspecified
 * Jashemski, *Gardens*, vol.II, p. 371 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Maiuri, *Ercolano*, pp. 181-182 and fig. 143 (plan) opposite p. 176 [(worldcat)](https://search.worldcat.org/title/490581395)
 * Michel, p. 386
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

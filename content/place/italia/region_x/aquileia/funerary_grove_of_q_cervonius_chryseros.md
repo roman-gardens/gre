@@ -25,7 +25,6 @@ draft: true
 [Region X]({{<relref "..">}})
 
 
-
 ## Garden
 
 Funerary Grove of Q. Cervonius Chryseros
@@ -78,8 +77,6 @@ unspecified
 Sean Gillies (https://pleiades.stoa.org/author/sgillies)
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

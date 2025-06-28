@@ -3,11 +3,11 @@ gre_id: "6acd5a58b2"
 aliases: [/id/6acd5a58b2]
 type: garden
 title: "VIII.5.9."
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 437
+date: 2021-04-21
 draft: false
 ---
 
@@ -51,11 +51,3 @@ At the rear of the tablinium excavated in 1881 a narrow garden (a) had a portico
 * Fiorelli, *Notizie degli scavi di Antichita* (1881), p. 332 [(worldcat)](https://search.worldcat.org/title/638883283)
 * Jashemski, *Gardens*, vol. II, p. 216 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 175-176 [(worldcat)](https://search.worldcat.org/title/823239162)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

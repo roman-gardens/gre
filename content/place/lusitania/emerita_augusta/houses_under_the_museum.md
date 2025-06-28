@@ -84,8 +84,6 @@ The 4th century A.D
 
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

@@ -3,11 +3,11 @@ gre_id: "686a8a8f0a"
 aliases: [/id/686a8a8f0a]
 type: garden
 title: "VIII.4.12-13. Shop-House"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 431
+date: 2021-04-21
 draft: false
 ---
 
@@ -55,10 +55,3 @@ These two shops, excavated in 1861, shared a house and a garden (a) to the back.
 * Jashemski, *Gardens*, vol. II, p. 213 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Lugebil, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1861), p. 237 [(worldcat)](https://search.worldcat.org/title/823239162)
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

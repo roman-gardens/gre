@@ -3,11 +3,11 @@ gre_id: "2b126005e5"
 aliases: [/id/2b126005e5]
 type: garden
 title: "VIII.5.20/17. Caupona"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 441
+date: 2021-04-21
 draft: false
 ---
 
@@ -49,10 +49,3 @@ Unspecified
 
 ## Bibliography
 * Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 226-227 [(worldcat)](https://search.worldcat.org/title/823239162)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

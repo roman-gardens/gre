@@ -89,8 +89,6 @@ A.D. 75-100 built
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

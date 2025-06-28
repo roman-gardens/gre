@@ -60,10 +60,6 @@ A marble slab found at Puçol (Puzol) near Saguntum, now lost,  but originally p
 
 - {{< id vocab="Pleiades" id="266021" term="Saguntum/Arse" >}}
 
-
-<!--## Contributor-->
-
-
 ## Publication date
 
 21 Apr 2021

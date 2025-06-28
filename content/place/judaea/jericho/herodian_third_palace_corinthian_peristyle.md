@@ -3,10 +3,10 @@ gre_id: "d23ef39a54"
 aliases: [/id/d23ef39a54]
 type: garden
 title: "Jericho Herodian Third Palace Corinthian Peristyle"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.853621, 35.434882 ]
 author: Kathryn Gleason
 editor: Yaniv Korman
+date: 2021-04-21
 draft: false
 ---
 
@@ -103,8 +103,6 @@ With porticoes on three sides and measuring 23 x 14.5m, this courtyard, known as
 [#](#)-->
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

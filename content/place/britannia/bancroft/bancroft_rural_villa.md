@@ -3,10 +3,10 @@ gre_id: "a268867d07"
 aliases: [/id/a268867d07]
 type: garden
 title: "Rural Villa in Bancroft"
-date: 2020-07-07T18:04:20-04:00
 latlon: [ 52.055419, -0.795092 ]
 author: Maureen Carroll
 editor: June Dorsch, Jane Millar
+date: 2021-04-21
 draft: false
 ---
 
@@ -63,8 +63,6 @@ late 3rd century CE, rebuilt and enlarged in the mid-4th century
 - {{< id vocab="TGN" id="7030316" term="Britannia (province)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

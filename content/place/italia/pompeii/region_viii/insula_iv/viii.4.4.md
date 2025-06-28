@@ -3,11 +3,11 @@ gre_id: "f4c98a16ed"
 aliases: [/id/f4c98a16ed]
 type: garden
 title: "VIII.4.4. House of M. Holconius Rufus; House of Q. Postumius Modestus and Q. Postumius Proculus"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 429
+date: 2021-04-21
 draft: false
 ---
 
@@ -64,11 +64,3 @@ The earthquake most likely was the reason the corner columns were reinforced by 
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
 * Overbeck and Mau, *Pompeji in seinen Gebäuden, Altertümern und Kunstwerken*, pp. 293-294 and fig. 162(plan) on p. 290 [(worldcat)](https://search.worldcat.org/title/1189285747)
 * Pernice, *Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen*, pp. 49-50 and pl. 32.4 [(worldcat)](https://search.worldcat.org/title/680390526)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

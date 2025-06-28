@@ -3,10 +3,10 @@ gre_id: "a401c7d278"
 aliases: [/id/a401c7d278]
 type: garden
 title: "Babatha's Orchard"
-date: 2020-10-01
 latlon: [ 31.024905, 35.456543 ]
 author: Leigh-Ann Bedal
 editor: Leigh-Ann Bedal
+date: 2022-02-05
 draft: false
 ---
 
@@ -63,15 +63,3 @@ Some years later, Shim'on ben Menahem transferred ownership of the property to h
 ## Places
 - {{< id vocab="Pleiades" id="697768" term="Zoara" >}}
 - {{< id vocab="TGN" id="4012542" term="eṣ-Ṣafi (deserted settlement)" >}}
-
-## Contributor
-[Leigh-Ann Bedal](#)
-<!-- [name](https://....) -->
-
-## Publication date
-
-February 5, 2022
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

@@ -100,8 +100,6 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

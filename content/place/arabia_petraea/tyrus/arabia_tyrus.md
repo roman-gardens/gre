@@ -3,10 +3,10 @@ gre_id: "65237359b2"
 aliases: [/id/65237359b2]
 type: garden
 title: "Palace of Hyrcanus the Tobiad"
-date: 2020-10-01
 latlon: [ 31.912796, 35.751922 ]
 author: Kathryn Gleason, Leigh-Ann Bedal
 editor: Jane Millar
+date: 2021-04-21
 draft: false
 ---
 

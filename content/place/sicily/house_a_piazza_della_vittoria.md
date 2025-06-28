@@ -18,7 +18,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 [Palermo]({{<relref "../..">}})
 
 
-
 ## Location
 
 - {{< id vocab="Pleiades" id="462410" term="Palermo" >}}

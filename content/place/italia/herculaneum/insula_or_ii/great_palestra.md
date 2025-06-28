@@ -3,11 +3,11 @@ gre_id: "d91343fd24"
 aliases: [/id/d91343fd24]
 type: garden
 title: "Great Palestra (Insula or. II.4)"
-date: 2020-10-20T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 566
+date: 2021-04-21
 draft: false
 ---
 
@@ -64,11 +64,3 @@ Unspecified
 * Maiuri, *Herculaneum*, pp. 55-56 [(worldcat)](https://search.worldcat.org/title/1107784297)
 * Maiuri, “Fontana monumentale in bronzo nei nuovi scavi di Ercolano,” BdA (1954), pp. 193-199[(worldcat)](https://search.worldcat.org/title/908521660)
 * Maiuri, *Ercolano*, pp. 136-137 and fig. 91 (plan) on p. 114 (see pp. 189-190, nn. 58 and 59 for reports of Ruggiero on the Burbon excavations[(worldcat)](https://search.worldcat.org/title/490581395)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

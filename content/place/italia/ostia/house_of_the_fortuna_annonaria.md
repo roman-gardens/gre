@@ -3,10 +3,10 @@ gre_id: "066a96c866"
 aliases: [/id/066a96c866]
 type: garden
 title: "House of the Fortuna Annonaria"
-date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.75413924799149, 12.290541242057353 ]
 author: Elizabeth J Shepherd
 editor: Joshua Rosenheim
+date: 2021-04-21
 draft: false
 ---
 
@@ -131,6 +131,4 @@ unspecified
 Elizabeth J. Shepherd
 
 ## Publication date
-
-
 21 Apr 2021

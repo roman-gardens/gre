@@ -85,8 +85,6 @@ Unspecified
 - {{< id vocab="TGN" id="7016140" term="Bergama (inhabited place)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

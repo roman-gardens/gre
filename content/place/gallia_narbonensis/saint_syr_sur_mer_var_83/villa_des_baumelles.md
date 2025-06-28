@@ -92,8 +92,6 @@ To the south, a charming apartment overlooked the cove of the Madrague and may h
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

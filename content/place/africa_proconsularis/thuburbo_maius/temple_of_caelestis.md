@@ -3,10 +3,10 @@ gre_id: "9f5e65f46d"
 aliases: [/id/9f5e65f46d]
 type: garden
 title: "Temple of Caelestis (Temple de Caelestis) "
-date: 2021-04-21
 latlon: [ 36.40112, 9.904448 ]
 author: Wilhelmina Jashemski
 editor: Nicholas Gill
+date: 2021-04-21
 draft: false
 ---
 

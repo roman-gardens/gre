@@ -3,11 +3,11 @@ gre_id: "a19362bacd"
 aliases: [/id/a19362bacd]
 type: garden
 title: "VIII.3.4. House of Hercules and Auge; House of the Popidii"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 418,419
+date: 2021-04-21
 draft: false
 ---
 
@@ -51,10 +51,3 @@ Unspecified
 * Jashemski, *Gardens*, vol. II, p. 210 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 65 [(worldcat)](https://search.worldcat.org/title/906755593)
 * Schultz, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1841), p. 119, [(worldcat)](https://search.worldcat.org/title/646515522)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

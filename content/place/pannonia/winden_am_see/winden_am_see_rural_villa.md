@@ -64,6 +64,4 @@ On the southeast of the house was a vestibule, from which a central corridor dep
 - {{< id vocab="TGN" id="4008442" term="Pannonia (general region)" >}}
 
 ## Publication date
-
-
 21 Apr 2021

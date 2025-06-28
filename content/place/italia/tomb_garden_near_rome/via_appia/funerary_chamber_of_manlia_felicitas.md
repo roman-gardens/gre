@@ -58,8 +58,6 @@ John Bodel
 
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

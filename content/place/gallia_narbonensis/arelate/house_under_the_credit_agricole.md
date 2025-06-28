@@ -81,8 +81,6 @@ After original finds in 1979, further vestiges of a domus came to light during s
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

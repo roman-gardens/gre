@@ -3,11 +3,11 @@ gre_id: "cc227bb5cc"
 aliases: [/id/cc227bb5cc]
 type: garden
 title: "VIII.3.8. House of the Wild Boar I; Casa del Cinghiale I; House of L. Coelius Caldus"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 420
+date: 2021-04-21
 draft: false
 ---
 
@@ -54,10 +54,3 @@ Unspecified
 * Jashemski, *Gardens*, vol. II, p. 210 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Schultz, *Annali dell'Instituto di Corrispondenza Archeologica*, 1838, pp. 200-201, [(worldcat)](https://search.worldcat.org/title/263597320)
 * Schultz, *Annali dell'Instituto di Corrispondenza Archeologica*, 1841, p. 120, [(worldcat)](https://search.worldcat.org/title/263597320)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

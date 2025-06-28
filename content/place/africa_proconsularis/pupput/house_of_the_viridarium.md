@@ -3,10 +3,10 @@ gre_id: "c5a0311387"
 aliases: [/id/c5a0311387]
 type: garden
 title: "House of the Viridarium with Niches (Maison du viridarium à niches)"
-date: 2020-10-06T10:39:31-07:00
 latlon: [ 36.392815, 10.562846 ]
 author: Amina-Aïcha Malek
 editor: Xue Xia
+date: 2021-04-21
 draft: false
 ---
 

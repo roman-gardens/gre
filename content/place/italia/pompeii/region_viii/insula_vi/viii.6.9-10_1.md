@@ -3,11 +3,11 @@ gre_id: "e7fd2f5bf2"
 aliases: [/id/e7fd2f5bf2]
 type: garden
 title: "VIII.6.9-10/1. House and Bakery"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 450
+date: 2021-04-21
 draft: false
 ---
 
@@ -54,10 +54,3 @@ Unspecified
 * Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome, 1937, p.78, no.375 [(worldcat)](https://search.worldcat.org/title/1131425884)
 * Jashemski, *Gardens*, vol. II, p.219 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica*, 1884, pp.182-183 (location given as VII.vii [9]) [(worldcat)](https://search.worldcat.org/title/823239162)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

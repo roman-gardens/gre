@@ -61,8 +61,6 @@ Middle of the first century CE until the fourth century CE
 - {{< id vocab="TGN" id="7004446" term="Cologne (inhabited place)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

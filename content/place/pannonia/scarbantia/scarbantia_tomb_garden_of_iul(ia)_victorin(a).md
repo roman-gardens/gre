@@ -67,6 +67,4 @@ A limestone funerary stele of probably third century date unearthed in 1973 near
 [John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
 ## Publication date
-
-
 21 Apr 2021

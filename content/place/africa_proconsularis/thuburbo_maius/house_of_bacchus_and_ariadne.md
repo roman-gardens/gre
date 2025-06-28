@@ -3,10 +3,10 @@ gre_id: "ba98d6be29"
 aliases: [/id/ba98d6be29]
 type: garden
 title: "House of Bacchus and Ariadne (Maison de Bacchus et Ariane)"
-date: 2021-04-21
 latlon: [ 36.400355, 9.903990 ]
 author: Wilhelmina Jashemski
 editor: Nicholas Gill
+date: 2021-04-21
 draft: false
 ---
 

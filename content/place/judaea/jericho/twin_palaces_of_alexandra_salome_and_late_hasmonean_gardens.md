@@ -3,10 +3,10 @@ gre_id: "296bb7c93b"
 aliases: [/id/296bb7c93b]
 type: garden
 title: "Jericho Twin Palaces of Alexandra Salome and Late Hasmonean Gardens"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.853780, 35.433952 ]
 author: Kathryn Gleason
 editor: Yaniv Korman
+date: 2021-04-21
 draft: false
 ---
 
@@ -95,8 +95,6 @@ After Alexandra’s death, during the period from 67-32, a large swimming pool (
 
 [Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

@@ -3,10 +3,10 @@ gre_id: "eaee25d9ed"
 aliases: [/id/eaee25d9ed]
 type: garden
 title: "Domus Flavia, Upper Peristyle and Nymphaea"
-date: 2021-06-29
 latlon: [ 41.889306, 12.487109 ]
 author: Maria Anntonietta Tomei
 editor: Rhiannon Paré
+date: 2021-06-29
 draft: false
 ---
 

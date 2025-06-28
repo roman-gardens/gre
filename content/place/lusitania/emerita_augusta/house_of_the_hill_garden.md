@@ -65,8 +65,6 @@ The end of the 2nd or early 3rd century AD
 
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

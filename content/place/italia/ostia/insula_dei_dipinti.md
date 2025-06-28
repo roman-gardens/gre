@@ -3,10 +3,10 @@ gre_id: "1f6d3e89b7"
 aliases: [/id/1f6d3e89b7]
 type: garden
 title: "Insula dei Dipinti"
-date: 2021-02-05T10:00:00-08:00
 latlon: [ 41.75511864107492, 12.287953204806119 ]
 author: Janet DeLaine
 editor: Joshua Rosenheim
+date: 2021-04-21
 draft: false
 ---
 
@@ -110,6 +110,4 @@ recent excavations
 [Janet DeLaine (0000-0002-6409-7126)](https://orcid.org/0000-0002-6409-7126)
 
 ## Publication date
-
-
 21 Apr 2021

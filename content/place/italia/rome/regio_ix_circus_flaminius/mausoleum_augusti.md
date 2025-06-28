@@ -3,10 +3,10 @@ gre_id: "ac531a92fb"
 aliases: [/id/ac531a92fb]
 type: garden
 title: "Mausoleum Augusti"
-date: 2021-04-17
 latlon: [ 41.906030, 12.476423 ]
 author: Elizabeth Macaulay
 editor: Joshua Rosenheim, Rhiannon Paré
+date: 2021-04-17
 draft: false
 ---
 

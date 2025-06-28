@@ -3,10 +3,10 @@ gre_id: "0a9a4ef076"
 aliases: [/id/0a9a4ef076]
 type: garden
 title: "Jericho Palace of John Hyrcanus I"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.853511, 35.433756 ]
 author: Kathryn Gleason
 editor: Yaniv Korman
+date: 2021-04-21
 draft: false
 ---
 
@@ -90,8 +90,6 @@ Over the years, two swimming pools (probably one for men and one for women), eac
 [Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

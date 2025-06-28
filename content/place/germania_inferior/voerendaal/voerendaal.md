@@ -65,8 +65,6 @@ Early second century CE to ca. 300 CE
 - {{< id vocab="TGN" id="7272601" term="Voerendaal (inhabited place)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

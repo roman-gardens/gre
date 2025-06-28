@@ -89,8 +89,6 @@ A.D 20-30 Destroyed
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

@@ -3,10 +3,10 @@ gre_id: "8392cb4b65"
 aliases: [/id/8392cb4b65]
 type: garden
 title: "Rural Villa in Frocester Court"
-date: 2020-07-10T08:32:55-04:00
 latlon: [ 51.726937, -2.311905 ]
 author: Maureen Carroll
 editor: June Dorsch
+date: 2021-04-21
 draft: false
 ---
 
@@ -62,8 +62,6 @@ early 4th - 5th century CE
 - {{< id vocab="TGN" id="4004114" term="Frocester (inhabited place)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

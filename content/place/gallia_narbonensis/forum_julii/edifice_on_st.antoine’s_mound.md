@@ -83,8 +83,6 @@ The residence perhaps enjoyed an exterior garden in the vast open space of arabl
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

@@ -3,10 +3,10 @@ gre_id: "a831d7fef4"
 aliases: [/id/a831d7fef4]
 type: garden
 title: "I.7.1 House of P. Paquius Proculus; House of C. Cuspius Pansa"
-date: 2020-08-08T19:02:52-04:00
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
+date: 2021-04-21
 draft: false
 ---
 
@@ -91,8 +91,6 @@ Excavated 1912, 1915, 1926 and 1936.
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

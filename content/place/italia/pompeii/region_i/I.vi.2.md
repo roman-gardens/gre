@@ -3,10 +3,10 @@ gre_id: "032ed2076c"
 aliases: [/id/032ed2076c]
 type: garden
 title: "I.6.2 House of the Cryptoporticus; Casa Del Crirtoportico; Casa Omerica; House of T. Lucretius Carus"
-date: 2020-08-05T19:15:13-04:00
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
+date: 2021-04-21
 draft: false
 ---
 
@@ -98,8 +98,6 @@ Excavated 1911-1929.
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

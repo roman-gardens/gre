@@ -3,10 +3,10 @@ gre_id: "63f24ff3d5"
 aliases: [/id/63f24ff3d5]
 type: garden
 title: "Rural Villa in Latimer"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 51.679234, -0.549776 ]
 author: Maureen Carroll
 editor: June Dorsch
+date: 2021-04-21
 draft: false
 ---
 
@@ -61,8 +61,6 @@ early 4th century CE - unspecified
 - {{< id vocab="TGN" id="1029792" term="Latimer (inhabited place)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

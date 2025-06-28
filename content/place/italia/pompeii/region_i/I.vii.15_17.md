@@ -3,10 +3,10 @@ gre_id: "56fc447964"
 aliases: [/id/56fc447964]
 type: garden
 title: "I.7.15-17 Shop-House "
-date: 2020-08-08T18:49:35-04:00
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
+date: 2021-04-21
 draft: false
 ---
 
@@ -76,8 +76,6 @@ Soprano, P. 1950. *'I triclini all’aperto di Pompei', In Pompeiana, raccolta d
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

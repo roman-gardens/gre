@@ -76,8 +76,6 @@ This late-imperial domus was discovered by J. Ramón Mélida while excavating th
 
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

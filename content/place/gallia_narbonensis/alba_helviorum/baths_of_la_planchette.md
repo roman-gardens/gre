@@ -77,8 +77,6 @@ To the northeast there are the baths of la Planchette, today backfilled.   This 
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

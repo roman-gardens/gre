@@ -97,8 +97,6 @@ Tiberius times(A.D 14-37)
 
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

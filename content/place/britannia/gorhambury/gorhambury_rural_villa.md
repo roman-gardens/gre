@@ -3,10 +3,10 @@ gre_id: "e3a26a1b3d"
 aliases: [/id/e3a26a1b3d]
 type: garden
 title: "Rural Villa in Gorhambury"
-date: 2020-07-11T10:45:22-04:00
 latlon: [ 51.753814, -0.382679 ]
 author: Maureen Carroll
 editor: June Dorsch
+date: 2021-04-21
 draft: false
 ---
 
@@ -59,8 +59,6 @@ around A.D. 100 - 175
 - {{< id vocab="TGN" id="7030316" term="Britannia (province)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

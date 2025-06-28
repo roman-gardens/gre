@@ -75,8 +75,6 @@ Insula: 200 A.D.
 - {{< id vocab="TGN" id="7017586" term="Augusta Rauricorum (deserted settlement)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

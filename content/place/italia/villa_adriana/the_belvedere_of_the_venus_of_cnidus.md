@@ -103,6 +103,4 @@ unspecified
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 
 ## Publication date
-
-
 21 Apr 2021

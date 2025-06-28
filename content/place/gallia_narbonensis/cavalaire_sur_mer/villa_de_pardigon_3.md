@@ -82,8 +82,6 @@ A,D. 200-300 garden transformed into a court then a dump
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

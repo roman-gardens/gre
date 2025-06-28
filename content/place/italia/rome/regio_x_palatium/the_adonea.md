@@ -3,10 +3,10 @@ gre_id: "4a1a7a53e6"
 aliases: [/id/4a1a7a53e6]
 type: garden
 title: "The Adonea of the Flavian Palace, Palatine"
-date: 2021-04-04T21:59:57+02:00
 latlon: [ 41.889306, 12.487109 ]
 author: Françoise Villedieu
 editor: Rhiannon Paré
+date: 2021-04-21
 draft: true
 ---
 
@@ -61,12 +61,3 @@ unspecified
 ## Places
 
 - {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}
-
-## Contributor
-
-Françoise Villedieu
-
-## Publication date
-
-
-21 Apr 2021

@@ -3,11 +3,11 @@ gre_id: "59bccb9d15"
 aliases: [/id/59bccb9d15]
 type: garden
 title: "VIII.7.30. The Triangular Forum"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 460
+date: 2021-04-21
 draft: false
 ---
 
@@ -48,10 +48,3 @@ Unspecified
 * Fiorelli, *Descrizione di Pompei*, pp. 363-364 [(worldcat)](https://search.worldcat.org/title/1198324804)
 * Jashemski, *Gardens*, 1:155-157 and figs. 216 (balloon photo) and 217 (plan) on pp. 138-139 and fig. 243 on p. 156 [(worldcat)](https://search.worldcat.org/title/1047945215)
 * Jashemski, *Gardens*, vol. II, p. 223 [(worldcat)](https://search.worldcat.org/title/1113367431)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

@@ -3,10 +3,10 @@ gre_id: "260813cd75"
 aliases: [/id/260813cd75]
 type: garden
 title: "Peristyle garden in house of Messius Ampliatus (II.ii.4) "
-date: 2020-11-29T10:54:29-07:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yuyao Liu
+date: 2021-04-21
 draft: false
 ---
 

@@ -73,8 +73,6 @@ None Available
 <!-- Eric Morvillez ? -->
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

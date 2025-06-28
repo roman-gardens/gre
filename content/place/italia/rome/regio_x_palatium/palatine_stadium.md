@@ -3,10 +3,10 @@ gre_id: "1d89c56774"
 aliases: [/id/1d89c56774]
 type: garden
 title: "The Palatine 'Stadium'"
-date: 2021-06-29
 latlon: [ 41.889306, 12.487109 ]
 author: Maria Anntonietta Tomei
 editor: Rhiannon Paré
+date: 2021-06-21
 draft: false
 ---
 

@@ -3,11 +3,11 @@ gre_id: "f6934aeede"
 aliases: [/id/f6934aeede]
 type: garden
 title: "II.8.6 House of the Garden of Hercules"
-date: 2020-12-10T00:10:10-04:00
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
 jashemski-catalogue: 153
+date: 2021-04-21
 draft: false
 ---
 
@@ -73,11 +73,3 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 * Jashemski, W. 1979. *Gardens of Pompeii*, vol.I, pp.279-288 and figs. 421-435 [(worldcat)](https://search.worldcat.org/title/884024123)
 * Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, pp.94-95 [(worldcat)](https://search.worldcat.org/title/921816405)
 * Meyer, F.G. 1980. Carbonized food plants of Pompeii, Herculaneum, and the Villa at Torre Annunziata, p.432
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

@@ -3,10 +3,10 @@ gre_id: "1a7cf84cd7"
 aliases: [/id/1a7cf84cd7]
 type: garden
 title: "Jericho Herodian First Palace"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.853694, 35.434513 ]
 author: Kathryn Gleason
 editor: Yaniv Korman
+date: 2021-04-21
 draft: false
 ---
 
@@ -84,8 +84,6 @@ This first palace was “introverted” thus giving expression to Herod’s infe
 [#](#)-->
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

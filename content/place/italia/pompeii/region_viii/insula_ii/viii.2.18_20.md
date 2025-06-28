@@ -3,11 +3,11 @@ gre_id: "ba78007c9e"
 aliases: [/id/ba78007c9e]
 type: garden
 title: "VIII.2.18-20."
-date: 2021-03-22T00:10:10-04:00
 latlon: [ 40.74811, 14.48562 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 412,413
+date: 2021-04-21
 draft: false
 ---
 
@@ -62,11 +62,3 @@ Unspecified
 * Schefold, *Die Wände Pompejis*, p. 212 [(worldcat)][https://search.worldcat.org/title/1100462668)
 * Sogliano, *Notizie degli scavi di Antichita* (1893), p. 37 and plan on p. 35 [(worldcat)](https://search.worldcat.org/title/46875519)
 * Sogliano, *Gli scavi di Pompei dal 1873 al 1900* In Atti del Congresso Internationale di Scienze Storische, pp. 399-400 [(worldcat)][https://search.worldcat.org/title/883497732)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

@@ -3,11 +3,11 @@ gre_id: "bc0b1d0458"
 aliases: [/id/bc0b1d0458]
 type: garden
 title: "VIII.4.9. House of T. Mescinius Gelo"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 430
+date: 2021-04-21
 draft: false
 ---
 
@@ -52,10 +52,3 @@ What was formerly a garden with a pool was converted into a large open area (a) 
 * Jashemski, *Gardens*, vol. II, pp. 212-213 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Lugebil, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1861), p. 237 [(worldcat)](https://search.worldcat.org/title/823239162)
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

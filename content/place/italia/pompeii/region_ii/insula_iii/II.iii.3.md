@@ -59,16 +59,3 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
-
-## Contributor
-
-<!-- [AUTHOR_NAME](AUTHOR_LINK) -->
-
-## ORCID
-
-<!-- [ORCID](https://orcid.org/ORCID) -->
-
-## Publication date
-<!-- Format: dd MONTH_NAME yyyy -->
-
-<!-- DATE -->

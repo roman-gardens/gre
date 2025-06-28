@@ -68,6 +68,4 @@ Unspecified
 - {{< id vocab="TGN" id="7024022" term="Oudna (deserted settlement)" >}}
 
 ## Publication date
-
-
 21 Apr 2021

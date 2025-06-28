@@ -18,7 +18,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 [Agrigento]({{<relref "../..">}})
 
 
-
 ## Location
 
 [Durrueli di Realmonte](https://pleiades.stoa.org/places/462188/)

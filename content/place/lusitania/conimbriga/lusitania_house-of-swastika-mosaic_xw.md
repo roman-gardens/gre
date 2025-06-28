@@ -61,10 +61,6 @@ Far more modest than the House of Cantaber but following the same general ideas 
 
 - {{< id vocab="Pleiades" id="236443" term="Conimbriga" >}}
 
-
-<!--## Contributor-->
-
-
 ## Publication date
 
 21 Apr 2021

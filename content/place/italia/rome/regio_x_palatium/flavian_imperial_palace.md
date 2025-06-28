@@ -3,10 +3,10 @@ gre_id: "dd43da939d"
 aliases: [/id/dd43da939d]
 type: garden
 title: "Garden of the Flavian Imperial Palace"
-date: 2021-04-04T21:58:43+02:00
 latlon: [ 41.889306, 12.487109 ]
 author: Jean-Paul Morel
 editor: Rhiannon Paré
+date: 2021-04-21
 draft: false
 ---
 

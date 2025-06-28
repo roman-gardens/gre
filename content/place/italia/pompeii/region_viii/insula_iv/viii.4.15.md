@@ -3,11 +3,11 @@ gre_id: "bbe1da0ca1"
 aliases: [/id/bbe1da0ca1]
 type: garden
 title: "VIII.4.15. House of C. Cornelius Rufus; House of C. Cornelius Adiutor"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 432
+date: 2021-04-21
 draft: false
 ---
 
@@ -64,10 +64,3 @@ Unspecified
 * Lugebil, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1861), p. 238 [(worldcat)](https://search.worldcat.org/title/823239162)
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)
 * Pernice, *Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen*, pp. 1, 24, 28, 37 and fig. 1 on p. 2. [(worldcat)](https://search.worldcat.org/title/680390526)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

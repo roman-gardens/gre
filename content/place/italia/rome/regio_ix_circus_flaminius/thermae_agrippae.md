@@ -3,10 +3,10 @@ gre_id: "a8ffc665cb"
 aliases: [/id/a8ffc665cb]
 type: garden
 title: "Thermae Agrippae"
-date: 2021-04-17
 latlon: [ 41.896879, 12.476831 ]
 author: Elizabeth Macaulay, Beth Ryan
 editor: Joshua Rosenheim, Rhiannon Paré
+date: 2021-04-17
 draft: false
 ---
 

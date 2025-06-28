@@ -3,10 +3,10 @@ gre_id: "88f1bb6a78"
 aliases: [/id/88f1bb6a78]
 type: garden
 title: "Domus Aurea"
-date: 2021-03-16T23:02:04-07:00
 latlon: [ 41.891244, 12.495403 ]
 author: Elizabeth Macaulay, Linda Anderson
 editor: Joshua Rosenheim, Rhiannon Paré
+date: 2021-04-21
 draft: false
 ---
 
@@ -100,18 +100,3 @@ unspecified
 
 - {{< id vocab="Pleiades" id="410440793" term="Domus Aurea" >}}
 - {{< id vocab="TGN" id="8712226" term="Domus Aurea (deserted settlement)" >}}
-
-## Contributor
-
-[Elizabeth Macaulay](https://emacaulaylewis.com)\
-[Linda Anderson](#)<!--Find website-->
-
-## ORCID
-
-[Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
-<!--ORCID for Linda Anderson-->
-
-## Publication date
-
-
-21 Apr 2021

@@ -80,8 +80,6 @@ At the north, a large vestibule gives access to a vast courtyard with a peristyl
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

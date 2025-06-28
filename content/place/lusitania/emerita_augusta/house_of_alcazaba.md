@@ -80,8 +80,6 @@ Within the enclosure of the Islamic Alcazaba, west of the city, are the remains 
 
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

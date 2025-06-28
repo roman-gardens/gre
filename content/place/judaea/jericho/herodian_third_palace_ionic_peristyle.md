@@ -3,10 +3,10 @@ gre_id: "dcb105bb0f"
 aliases: [/id/dcb105bb0f]
 type: garden
 title: "Jericho Herodian Third Palace Ionic Peristyle"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.853621, 35.434882 ]
 author: Kathryn Gleason
 editor: Yaniv Korman
+date: 2021-04-21
 draft: false
 ---
 
@@ -119,8 +119,6 @@ The plan reveals seven rows of up to eleven pots per row, although directly in f
 [#](#)-->
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

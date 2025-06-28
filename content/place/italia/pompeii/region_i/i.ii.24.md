@@ -3,10 +3,10 @@ gre_id: "a56ec7e41e"
 aliases: [/id/a56ec7e41e]
 type: garden
 title: "I.2.24 Officina Libraria"
-date: 2021-03-14T17:13:29Z
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
+date: 2021-04-21
 draft: false
 ---
 

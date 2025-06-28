@@ -87,8 +87,6 @@ A.D. 65-70 Second Stage of Construction
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

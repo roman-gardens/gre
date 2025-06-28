@@ -64,10 +64,6 @@ The villa from the middle of the 2nd century evolved around a peristyle garden w
 
 - {{< id vocab="Pleiades" id="266010" term="Pujol de Benicató" >}}
 
-
-<!--## Contributor-->
-
-
 ## Publication date
 
 21 Apr 2021

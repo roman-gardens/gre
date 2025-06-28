@@ -94,8 +94,6 @@ The theater of Tarraco is poorly preserved.  Part of the orchestra, the proscaen
 
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

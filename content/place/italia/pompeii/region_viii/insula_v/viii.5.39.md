@@ -3,11 +3,11 @@ gre_id: "94ca12626e"
 aliases: [/id/94ca12626e]
 type: garden
 title: "VIII.5.39. House of Acceptus and Euhodia"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 445,446
+date: 2021-04-21
 draft: false
 ---
 
@@ -58,10 +58,3 @@ Unspecified
 * Mau, *Pompeii:Its Life and Art*, 2nd ed. Trans. by Kelsey, pp. 341-343, plan on p. 341 [(worldcat)](https://search.worldcat.org/title/1197366621)
 * Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 280-281, 324, 359-360 [(worldcat)](https://search.worldcat.org/title/638883283)
 * Soprano, *I triclini all'aperto di Pompei* In Pompeiana, p. 301, no. 16. [(worldcat)](https://search.worldcat.org/title/78719058)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

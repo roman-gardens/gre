@@ -3,10 +3,10 @@ gre_id: "08a99fc485"
 aliases: [/id/08a99fc485]
 type: garden
 title: "Herodium Palace Fortress"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.665784, 35.241750 ]
 author: Kathryn Gleason
 editor: Yaniv Korman
+date: 2021-04-21
 draft: false
 ---
 
@@ -83,8 +83,6 @@ The Palace Fortress is a cylindrical structure originally seven stories high (tw
 
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

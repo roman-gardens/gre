@@ -25,7 +25,6 @@ draft: true
 [Region X]({{<relref "../..">}})
 
 
-
 ## Garden
 
 Tomb garden of A. Coelius C. f.
@@ -74,8 +73,6 @@ unspecified
 Brady Kiesling (https://pleiades.stoa.org/author/bkiesling)
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

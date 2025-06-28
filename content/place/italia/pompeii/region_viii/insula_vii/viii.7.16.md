@@ -3,11 +3,11 @@ gre_id: "31fa330066"
 aliases: [/id/31fa330066]
 type: garden
 title: "VIII.7.16. Gladiatorial Barracks; Ludus Gladiatorius; Schola Gladiatoria"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 456
+date: 2021-04-21
 draft: false
 ---
 
@@ -53,11 +53,3 @@ Unspecified
 * Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees 1809-1810-1811*,vol. 3, pl. 2 (plan) [(worldcat)](https://search.worldcat.org/title/457565631)
 * Fiorelli, ed. *Pompeianarum Antiquitatum Historia*, vol. 1, pt. 1, p. 202 (Feb. 7, 1767) [(worldcat)](https://search.worldcat.org/title/952709056)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

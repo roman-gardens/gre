@@ -3,10 +3,10 @@ gre_id: "fd2163e5d2"
 aliases: [/id/fd2163e5d2]
 type: garden
 title: "Tomb Painting in Chester"
-date: 2020-07-08T08:58:47-04:00
 latlon: [ 53.1884, -2.8877 ]
 author: John Bodel
 editor: June Dorsch
+date: 2021-04-21
 draft: false
 ---
 
@@ -52,8 +52,6 @@ unspecified
 [John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

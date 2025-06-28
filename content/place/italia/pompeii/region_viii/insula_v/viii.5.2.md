@@ -3,11 +3,11 @@ gre_id: "05618c615c"
 aliases: [/id/05618c615c]
 type: garden
 title: "VIII.5.2. Casa del Gallo; House of the Cock"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 436
+date: 2021-04-21
 draft: false
 ---
 
@@ -53,11 +53,3 @@ Unspecified
 * Mairui, *Notizie degli scavi di Antichita* (1944-1945), p. 150 and fig. 6 (plan) on p. 144 [(worldcat)](https://search.worldcat.org/title/638883283)
 * Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), p.172 [(worldcat)](https://search.worldcat.org/title/823239162)
 * Sogliano, *Notizie degli scavi di Antichita* (1881), pp. 320-321 [(worldcat)](https://search.worldcat.org/title/638883283)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

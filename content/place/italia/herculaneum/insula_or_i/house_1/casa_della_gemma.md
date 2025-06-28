@@ -3,11 +3,11 @@ gre_id: "3874a10bf6"
 aliases: [/id/3874a10bf6]
 type: garden
 title: "Casa della Gemma (Insula or. I.1)"
-date: 2020-09-30T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 559
+date: 2021-04-21
 draft: false
 ---
 
@@ -62,11 +62,3 @@ Unspecified
 * Maiuri, *Herculaneum*, p.65 [(worldcat)](https://search.worldcat.org/title/1107784297)
 * Maiuri, *Ercolano*, p. 341 and fig. 266 (plan) on p. 337 [(worldcat)](https://search.worldcat.org/title/490581395)
 * Gibbs, p. 295, no. 3074G
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

@@ -3,11 +3,11 @@ gre_id: "49d8a94d53"
 aliases: [/id/49d8a94d53]
 type: garden
 title: "Casa di Galba (VII.2)"
-date: 2020-10-20T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 558
+date: 2021-04-21
 draft: false
 ---
 
@@ -60,10 +60,3 @@ Unspecified
 Maiuri, *Herculaneum*, pp. 25-26 [(worldcat)](https://search.worldcat.org/title/1107784297)
 Maiuri, *Ercolano*, pp. 405-406 and fig. 340 (plan) on p. 404 [(worldcat)](https://search.worldcat.org/title/490581395)
 Ruggiero, *Ercolano*, p. 663 [(worldcat)](https://search.worldcat.org/title/469320995)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

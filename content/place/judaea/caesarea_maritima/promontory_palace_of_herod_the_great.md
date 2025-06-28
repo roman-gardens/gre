@@ -3,10 +3,10 @@ gre_id: "82cc724d9d"
 aliases: [/id/82cc724d9d]
 type: garden
 title: "Caesarea Maritima Promontory Palace of Herod the Great"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 32.49715, 34.8891]
 author: Kathryn Gleason
 editor: Yaniv Korman
+date: 2021-04-21
 draft: false
 ---
 
@@ -87,8 +87,6 @@ Foundations of garden architecture, water channels and garden soils of the late 
 - {{< id vocab="TGN" id="7001363" term="Caesarea (deserted settlement)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

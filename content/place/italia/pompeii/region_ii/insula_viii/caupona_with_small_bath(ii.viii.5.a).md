@@ -3,11 +3,11 @@ gre_id: "44c33a5f5f"
 aliases: [/id/44c33a5f5f]
 type: garden
 title: "Caupona with Small Bath"
-date: 2020-12-10T00:10:10-04:00
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 151
+date: 2021-04-21
 draft: true
 ---
 
@@ -46,11 +46,3 @@ Unspecified
 
 ## Bibliography
 * Jashemski, *Gardens*, vol.II, p.94 [(worldcat)](https://search.worldcat.org/title/921816405)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

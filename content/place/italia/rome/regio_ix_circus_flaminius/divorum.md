@@ -3,10 +3,10 @@ gre_id: "864b23466d"
 aliases: [/id/864b23466d]
 type: garden
 title: "Divorum"
-date: 2021-04-17
 latlon: [ 41.894698, 12.478022 ]
 author: Valerie Aymer, Kathryn Gleason
 editor: Joshua Rosenheim, Rhiannon Paré
+date: 2021-04-17
 draft: false
 ---
 

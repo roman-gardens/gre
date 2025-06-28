@@ -3,10 +3,10 @@ gre_id: "a89aebd07c"
 aliases: [/id/a89aebd07c]
 type: garden
 title: "House of the Treasure (Maison au trésor)"
-date: 2020-09-29T09:49:36-04:00
 latlon: [ 37.055611, 10.061305 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Jinyi Yang
+date: 2021-04-21
 draft: false
 ---
 
@@ -74,6 +74,4 @@ The House is located in the *insula* II (Lots 1,7). The peristyle garden had a s
 [Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)) \
 
 ## Publication date
-
-
 21 Apr 2021

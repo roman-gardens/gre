@@ -3,10 +3,10 @@ gre_id: "00374bc287"
 aliases: [/id/00374bc287]
 type: garden
 title: "House of the Protomes (Maison des Protomés)"
-date: 2021-04-21
 latlon: [ 36.40112, 9.904448 ]
 author: Wilhelmina Jashemski
 editor: Nicholas Gill
+date: 2021-04-21
 draft: false
 ---
 

@@ -3,10 +3,10 @@ gre_id: "e0925df062"
 aliases: [/id/e0925df062]
 type: garden
 title: "I.6.11 Casa Dei Quadretti Teatralli; House of the Calavii; Casa di Casca Longus"
-date: 2021-04-02T09:49:02+01:00
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
+date: 2021-04-21
 draft: false
 ---
 
@@ -85,8 +85,6 @@ Maiuri, A. 1929. *NSc*, pp. 414-415 and fig. 26 on p. 401.
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

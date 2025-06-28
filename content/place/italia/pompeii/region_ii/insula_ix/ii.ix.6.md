@@ -3,11 +3,11 @@ gre_id: "4b8d3eef52"
 aliases: [/id/4b8d3eef52]
 type: garden
 title: "II.9.6-7 House of Summer Triclinium"
-date: 2020-12-10T00:10:10-04:00
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
 jashemski-catalogue: 154
+date: 2021-04-21
 draft: false
 ---
 
@@ -69,10 +69,3 @@ Eastern part first excavated 1939 and then 1954 to 1955.
 * Neuerburg, N. 1965. *L'architettura delle fontane e dei ninfei nell'Italia antica*, pp.120-121, no.22 [(worldcat)](https://search.worldcat.org/title/1153859)
 * Bragantini, I. et al., 1981. *Pitture e pavimenti di Pompei*, vol.I, pp.243-244 [(worldcat)](https://search.worldcat.org/title/13334913)
 * Sear, F. B. 1977. *Roman Wall and Vault Mosaics*, RM, Supp.23 pp.76-77, no.37 [(worldcat)](https://search.worldcat.org/title/1170409934)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

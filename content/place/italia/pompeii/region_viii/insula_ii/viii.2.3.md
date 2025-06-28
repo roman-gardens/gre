@@ -3,11 +3,11 @@ gre_id: "b134587b51"
 aliases: [/id/b134587b51]
 type: garden
 title: "VIII.2.3. House of Championnet II"
-date: 2021-03-22T00:10:10-04:00
 latlon: [ 40.74842, 14.48479 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 408
+date: 2021-04-21
 draft: false
 ---
 
@@ -59,11 +59,3 @@ This house, very similar to VII.ii.1, was also excavated in 1799. This peristyle
 * Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees* (1809-1810-1811), 2:62 and pls. 21 (plan), 22 [(worldcat)](https://search.worldcat.org/title/1707639)
 * Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 3, “Topografia,” pl. 6 (plan) [(worldcat)](https://search.worldcat.org/title/906755593)
 * Noack and Lehmann-Hartleben, *Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 121-128 passim and fig. 32 (plan) on p. 116 and pl. 17 (plans). [(worldcat)](https://search.worldcat.org/title/876087879)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

@@ -25,7 +25,6 @@ draft: true
 [Region IX]({{<relref "..">}})
 
 
-
 ## Garden
 
 Tomb garden of T. Vettius Hermes
@@ -79,8 +78,6 @@ unspecified
 Sean Gillies (https://pleiades.stoa.org/author/sgillies)
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

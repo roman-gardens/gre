@@ -3,11 +3,11 @@ gre_id: "8f3dc2d94c"
 aliases: [/id/8f3dc2d94c]
 type: garden
 title: "VIII.2.34."
-date: 2021-03-22T00:10:10-04:00
 latlon: [ 40.74829, 14.48703 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 415
+date: 2021-04-21
 draft: false
 ---
 
@@ -56,11 +56,3 @@ Unspecified
 * Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 44-55 passim, and fig. 12 (plan) on p. 52 and pls. 22, 23 (reconstructions) [(worldcat)](https://search.worldcat.org/title/486835478)
 * Schefold, *Die Wände Pompejis*, p. 217 [(worldcat)][https://search.worldcat.org/title/1100462668)
 * Sogliano, *Notizie degli scavi di Antichita* (1885), p. 257 [(worldcat)](https://search.worldcat.org/title/46875519)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

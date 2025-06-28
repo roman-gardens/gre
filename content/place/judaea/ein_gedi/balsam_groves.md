@@ -3,10 +3,10 @@ gre_id: "828f403e58"
 aliases: [/id/828f403e58]
 type: garden
 title: "Ein Gedi Balsam Groves"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.468449, 35.388383 ]
 author: Kathryn Gleason
 editor: Yaniv Korman
+date: 2021-04-21
 draft: false
 ---
 
@@ -75,8 +75,6 @@ Agriculture
 - {{< id vocab="TGN" id="7001389" term="En Gedi (inhabited place)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

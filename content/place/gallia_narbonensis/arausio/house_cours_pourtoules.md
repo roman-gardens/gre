@@ -104,8 +104,6 @@ Among the objects found at Cours Pourtoules was a terracotta *oscillum* represen
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

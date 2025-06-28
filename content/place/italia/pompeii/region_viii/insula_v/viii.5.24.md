@@ -3,11 +3,11 @@ gre_id: "1703b3de2d"
 aliases: [/id/1703b3de2d]
 type: garden
 title: "VIII.5.24. Casa del Medico"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 442
+date: 2021-04-21
 draft: false
 ---
 
@@ -52,10 +52,3 @@ Unspecified
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi, 1874-1882” pp. 19-20 (address given as VIII.5a-6a.6 [(worldcat)](https://search.worldcat.org/title/906755593)
 * Schefold, *Die Wande Pompejis*, p. 227 [(worldcat)](https://search.worldcat.org/title/1189906922)
 * Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 322-323 [(worldcat)](https://search.worldcat.org/title/638883283)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

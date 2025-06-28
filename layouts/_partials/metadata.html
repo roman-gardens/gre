@@ -7,9 +7,9 @@
 		Permalink: <a href="{{ $url }}">{{ $url }}</a>
 	</div>
 {{- end }}
-{{- if .Params.Modified -}}
+{{- if .Params.Date -}}
 	{{- with .Date -}}
-		<div>Created: {{ time.Format "2006-01-02" . }}</div>
+		<div>Published: {{ time.Format "2006-01-02" . }}</div>
 	{{- end -}}
 
 	{{- with .Params.Modified -}}

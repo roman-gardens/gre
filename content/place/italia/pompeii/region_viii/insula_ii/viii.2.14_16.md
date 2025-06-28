@@ -3,11 +3,11 @@ gre_id: "f8b30ff3cf"
 aliases: [/id/f8b30ff3cf]
 type: garden
 title: "VIII.2.14/16."
-date: 2021-03-22T00:10:10-04:00
 latlon: [ 40.74844, 14.48508 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 410,411
+date: 2021-04-21
 draft: false
 ---
 
@@ -62,11 +62,3 @@ Unspecified
 * Sogliano, *Notizie degli scavi di Antichita* (1893), pp. 4, 48-49 [(worldcat)](https://search.worldcat.org/title/46875519)
 * Sogliano, *Notizie degli scavi di Antichita* (1894), p. 147 [(worldcat)](https://search.worldcat.org/title/46875519)
 * Sogliano, *Notizie degli scavi di Antichita* (1899), pp. 23, 141-143 and fig. 1 (plan) on p. 141 [(worldcat)](https://search.worldcat.org/title/46875519)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

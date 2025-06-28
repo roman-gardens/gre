@@ -89,8 +89,6 @@ Early 1990s
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

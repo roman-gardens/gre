@@ -81,8 +81,6 @@ A.D. 40-60 Built
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

@@ -100,8 +100,6 @@ While the theater belongs to multiple phases of construction, the aula sacra bel
 
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

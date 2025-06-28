@@ -3,11 +3,11 @@ gre_id: "b8bb57e320"
 aliases: [/id/b8bb57e320]
 type: garden
 title: "II.8.1"
-date: 2020-12-10T00:10:10-04:00
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
 jashemski-catalogue: 149
+date: 2021-04-21
 draft: false
 ---
 
@@ -48,12 +48,3 @@ Excavated 1953-1954, 1973, 1984. Restored 1988.
 
 ## Bibliography
 * Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.92 [(worldcat)](https://search.worldcat.org/title/921816405)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)  
-Jessica Venner (https://orcid.org/0000-0001-5828-6222)
-
-## Publication date
-
-21 Apr 2021

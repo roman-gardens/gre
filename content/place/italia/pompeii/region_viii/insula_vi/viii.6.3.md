@@ -3,11 +3,11 @@ gre_id: "adf2de1542"
 aliases: [/id/adf2de1542]
 type: garden
 title: "VIII.6.3. (no. 14 at Pompeii)"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 448
+date: 2021-04-21
 draft: false
 ---
 
@@ -46,10 +46,3 @@ Unspecified
 * Jashemski, *Gardens*, vol. II, p.219 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica*, 1884, pp.135-136 plan [(worldcat)](https://search.worldcat.org/title/823239162)
 * Sogliano, *Notizie degli scavi di Antichita*, 1883, p.51 [(worldcat)](https://search.worldcat.org/title/638883283)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

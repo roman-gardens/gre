@@ -77,8 +77,6 @@ Second half of 2nd century - around 275
 - {{< id vocab="TGN" id="7012371" term="Bad Kreuznach (inhabited place)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 

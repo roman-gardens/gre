@@ -3,11 +3,11 @@ gre_id: "ed31244283"
 aliases: [/id/ed31244283]
 type: garden
 title: "Casa del Colonnato Tuscanico (VI.17/26)"
-date: 2020-10-10T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 557
+date: 2021-04-21
 draft: false
 ---
 
@@ -58,12 +58,3 @@ Unspecified
 
 ## Bibliography
 G.Cerulli Irelli, *La casa del Colonnato Tuscanico*, MemNap 7 (1974): 49 and fig. 1 (plan)[(worldcat)](https://search.worldcat.org/title/990804745)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-
-## Publication date
-
-21 Apr 2021

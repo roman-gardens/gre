@@ -3,10 +3,10 @@ gre_id: "b5c9a7a301"
 aliases: [/id/b5c9a7a301]
 type: garden
 title: "Suburban Gardens in Camulodunum"
-date: 2020-07-06T16:47:36-04:00
 latlon: [ 51.890074, 0.901087 ]
 author: Maureen Carroll
 editor: June Dorsch
+date: 2021-04-21
 draft: false
 ---
 
@@ -58,8 +58,6 @@ ig. 1: Area outside the Balkerne gate before widening of the town ditch. Details
 - {{< id vocab="TGN" id="7011866" term="Colchester (inhabited place)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

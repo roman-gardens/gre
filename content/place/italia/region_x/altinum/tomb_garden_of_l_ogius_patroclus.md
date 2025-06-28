@@ -25,7 +25,6 @@ draft: true
 [Region X]({{<relref "..">}})
 
 
-
 ## Garden
 
 Tomb Garden of L. Ogius Patroclus
@@ -77,8 +76,6 @@ Sean Gillies (https://pleiades.stoa.org/author/sgillies)
 
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

@@ -3,10 +3,10 @@ gre_id: "99193ac2fa"
 aliases: [/id/99193ac2fa]
 type: garden
 title: "Rural Villa in Sudeley/Spoonley Wood"
-date: 2020-07-11T18:57:34-04:00
 latlon: [ 51.940896, -1.927588 ]
 author: Maureen Carroll
 editor: June Dorsch
+date: 2021-04-21
 draft: false
 ---
 
@@ -69,8 +69,6 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 [Maureen Carroll](https://orcid.org/0000-0001-9958-8032))
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

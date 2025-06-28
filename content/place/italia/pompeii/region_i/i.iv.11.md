@@ -3,10 +3,10 @@ gre_id: "9e45de979b"
 aliases: [/id/9e45de979b]
 type: garden
 title: "I.4.11 Caupona of Copious"
-date: 2021-03-19T12:45:15Z
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
+date: 2021-04-21
 draft: false
 ---
 

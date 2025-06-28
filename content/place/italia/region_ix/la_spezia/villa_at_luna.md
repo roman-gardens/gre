@@ -25,7 +25,6 @@ draft: true
 [Region IX]({{<relref "..">}})
 
 
-
 ## Garden
 
 Villa at Luna
@@ -84,8 +83,6 @@ unspecified
 Jeffrey Becker
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

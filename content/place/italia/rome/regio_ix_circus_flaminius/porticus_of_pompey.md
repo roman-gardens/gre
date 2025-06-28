@@ -3,10 +3,10 @@ gre_id: "25fff046fb"
 aliases: [/id/25fff046fb]
 type: garden
 title: "Porticus of Pompey"
-date: 2021-04-17
 latlon: [ 41.894007, 12.479061 ]
 author: Elizabeth Macaulay, Kathryn Gleason
 editor: Joshua Rosenheim, Rhiannon Paré
+date: 2021-04-17
 draft: false
 ---
 

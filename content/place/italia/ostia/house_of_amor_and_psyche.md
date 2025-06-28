@@ -3,10 +3,10 @@ gre_id: "fa12f663dc"
 aliases: [/id/fa12f663dc]
 type: garden
 title: "House of Amor and Psyche"
-date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.7540027, 12.2860096 ]
 author: Elizabeth J Shepherd
 editor: Joshua Rosenheim
+date: 2021-04-21
 draft: false
 ---
 
@@ -117,6 +117,4 @@ unspecified
 Elizabeth J. Shepherd
 
 ## Publication date
-
-
 21 Apr 2021

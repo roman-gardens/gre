@@ -70,10 +70,6 @@ Besides the central peristyle, there are several other areas that were possibly 
 
 - {{< id vocab="Pleiades" id="256109" term="La Cocosa" >}}
 
-
-<!--## Contributor-->
-
-
 ## Publication date
 
 21 Apr 2021

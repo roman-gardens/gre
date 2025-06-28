@@ -3,10 +3,10 @@ gre_id: "5d34e59833"
 aliases: [/id/5d34e59833]
 type: garden
 title: "Jericho Herodian Second Palace"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.853703, 35.434669 ]
 author: Kathryn Gleason
 editor: Yaniv Korman
+date: 2021-04-21
 draft: false
 ---
 
@@ -93,8 +93,6 @@ The  low wing of the palace (Fig 2, AK) incorporated the two Hasmonean swimming 
 [#](#)-->
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

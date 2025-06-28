@@ -87,8 +87,6 @@ A.D. 70-100
 
 [Emilie Chassillan](link)
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

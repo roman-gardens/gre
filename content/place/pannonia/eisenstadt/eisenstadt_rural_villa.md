@@ -65,6 +65,4 @@ Early 2nd century - 4th century
 - {{< id vocab="TGN" id="7003056" term="Eisenstadt (inhabited place)" >}}
 
 ## Publication date
-
-
 21 Apr 2021

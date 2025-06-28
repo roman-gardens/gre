@@ -66,8 +66,6 @@ Second century CE to mid-fifth century CE
 - {{< id vocab="TGN" id="7192890" term="Flerzheim (inhabited place)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

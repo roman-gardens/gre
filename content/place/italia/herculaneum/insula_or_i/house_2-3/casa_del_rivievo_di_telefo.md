@@ -3,11 +3,11 @@ gre_id: "f8fd3f8803"
 aliases: [/id/f8fd3f8803]
 type: garden
 title: "Casa del Rivievo di Telefo (Insula or. I.2-3)"
-date: 2020-09-30T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 561
+date: 2021-04-21
 draft: false
 ---
 
@@ -63,10 +63,3 @@ Unspecified
 * Maiuri, *Herculaneum*, pp.65-66 [(worldcat)](https://search.worldcat.org/title/1107784297)
 * Maiuri, *Ercolano*, pp. 347-352 and fig. 276 (plan) on p. 346 [(worldcat)](https://search.worldcat.org/title/490581395)
 * Jashemski, *Gardens*, vol. 1, fig. 91 on p. 52 [(worldcat)](https://search.worldcat.org/title/1029851777)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

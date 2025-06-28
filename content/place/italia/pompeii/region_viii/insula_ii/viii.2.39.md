@@ -3,11 +3,11 @@ gre_id: "62fe598b83"
 aliases: [/id/62fe598b83]
 type: garden
 title: "VIII.2.39. House of Emperor Joseph II"
-date: 2021-03-22T00:10:10-04:00
 latlon: [ 40.74835, 14.48747 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 417
+date: 2021-04-21
 draft: false
 ---
 
@@ -61,11 +61,3 @@ First excavated in 1767-1769, Filled in. Re-excavated in 1885-1886
 * Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 18-30 passim, pls. 3 (plan) and 21 (reconstruction) [(worldcat)](https://search.worldcat.org/title/486835478)
 * Fiorelli, ed. *Pompeianarum Antiquitatum Historia*, vol. 1, pt. 1 pp. 210, 211 (Aug.14, 22, 29, 1767)[(worldcat)](https://search.worldcat.org/title/714988573)
 * Schefold, *Die Wände Pompejis*, p. 218 [(worldcat)][https://search.worldcat.org/title/1100462668)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

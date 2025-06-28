@@ -3,10 +3,10 @@ gre_id: "e8b20fff6b"
 aliases: [/id/e8b20fff6b]
 type: garden
 title: "II.6.7 Park Area adjacent to the Great Palaestra and the Amphitheater"
-date: 2021-03-09T08:45:49Z
 latlon: [ 40.7511, 14.49449]
 author: Wilhelmina Jashemski
 editor: Jessica Venner
+date: 2021-04-21
 draft: false
 ---
 
@@ -49,11 +49,3 @@ Park-like areas were located between the Great Palaestra and the Amphitheater an
 * Jashemski, W. 1979. *Gardens of Pompeii*, vol.I, pp.13-14, 161-162 [(worldcat)](https://search.worldcat.org/title/884024123)
 * Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.91-92 [(worldcat)](https://search.worldcat.org/title/921816405)
 * Maiuri, A. 1939. *Notizie degli scavi di antichità*, pp.194 [(worldcat)](https://search.worldcat.org/title/1646037)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

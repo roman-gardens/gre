@@ -3,11 +3,11 @@ gre_id: "ddd230a7f8"
 aliases: [/id/ddd230a7f8]
 type: garden
 title: "VIII.4.30."
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 434
+date: 2021-04-21
 draft: false
 ---
 
@@ -52,11 +52,3 @@ Unspecified
 * Fiorelli, *Descrizione di Pompei*, pp. 343-345 [(worldcat)](https://search.worldcat.org/title/252039996)
 * Jashemski, *Gardens*, vol. II, p. 214 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

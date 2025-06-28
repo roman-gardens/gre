@@ -3,10 +3,10 @@ gre_id: "94cd289c20"
 aliases: [/id/94cd289c20]
 type: garden
 title: "II.i.7A/11"
-date: 2021-02-21T12:22:56Z
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski, Jessica Venner
 editor: Jessica Venner
+date: 2021-04-21
 draft: false
 ---
 

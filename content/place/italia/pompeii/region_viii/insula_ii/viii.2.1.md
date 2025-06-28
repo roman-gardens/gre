@@ -3,11 +3,11 @@ gre_id: "2a778cc475"
 aliases: [/id/2a778cc475]
 type: garden
 title: "VIII.2.1. House of Championnet I"
-date: 2021-03-22T00:10:10-04:00
 latlon: [ 40.74839, 14.48465 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 407
+date: 2021-04-21
 draft: false
 ---
 
@@ -66,11 +66,3 @@ This house was excavated in 1799 and to the rear of the tablinium there was a po
 * Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 3, “Topografia,” pl. 6 (plan) [(worldcat)](https://search.worldcat.org/title/906755593)
 * Noack and Lehmann-Hartleben, *Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 114-121 passim and figs. 32 on p. 116, 33 on p. 117 (plans) and pl. 17 (plan), pl. 26 (reconstruction) [(worldcat)](https://search.worldcat.org/title/876087879)
 * Fiorelli,ed. *Pompeianarum Antiquitatum Historia* (May 16, 1800),  vol. 1, pt. 2, p. 173 [(worldcat)](https://search.worldcat.org/title/714988573)
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

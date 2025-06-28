@@ -66,8 +66,6 @@ Early 2nd century - first half of 3rd century
 - {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 

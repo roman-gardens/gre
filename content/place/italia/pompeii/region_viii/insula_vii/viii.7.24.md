@@ -3,11 +3,11 @@ gre_id: "55158d5123"
 aliases: [/id/55158d5123]
 type: garden
 title: "VIII.7.24."
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 457
+date: 2021-04-21
 draft: false
 ---
 
@@ -53,10 +53,3 @@ Unspecified
 * Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees 1809-1810-1811*, 2:54 and pl. 16 (plan) [(worldcat)](https://search.worldcat.org/title/457565631)
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen.,” p. 69 [(worldcat)](https://search.worldcat.org/title/906755593)
 * Overbeck and Mau, *Pompeji in seinen Gebäuden, Altertümern und Kunstwerken* pp.281-282 and figs.156 (plan) and 157 on p.281 [(worldcat)](https://search.worldcat.org/title/1189285747)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

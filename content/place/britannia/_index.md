@@ -3,9 +3,9 @@ gre_id: "2749debd19"
 aliases: [/id/2749debd19]
 type: place
 title: "Britannia"
-date: 2021-04-21
 author: Maureen Carroll
 editor: June Dorsch
+date: 2021-04-21
 draft: false
 ---
 

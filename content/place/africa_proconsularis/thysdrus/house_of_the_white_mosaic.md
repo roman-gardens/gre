@@ -3,10 +3,10 @@ gre_id: "5c5caec7d3"
 aliases: [/id/5c5caec7d3]
 type: garden
 title: "House of the White Mosaic (Maison des mosaïques blanches)"
-date: 2020-09-29T09:49:36-04:00
 latlon: [ 35.290828, 10.705481 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Jinyi Yang
+date: 2021-04-21
 draft: false
 ---
 
@@ -70,6 +70,4 @@ Early 3rd century CE
 [Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)) \
 
 ## Publication date
-
-
 21 Apr 2021

@@ -69,8 +69,6 @@ Complex built at the earliest during the reign of Trajan.
 - {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->

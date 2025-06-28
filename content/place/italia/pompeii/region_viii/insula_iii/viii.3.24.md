@@ -3,11 +3,11 @@ gre_id: "2ed36e182d"
 aliases: [/id/2ed36e182d]
 type: garden
 title: "VIII.3.24."
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li
 jashemski-catalogue: 425,426
+date: 2021-04-21
 draft: false
 ---
 
@@ -54,10 +54,3 @@ Unspecified
 * Jashemski, *Gardens*, vol. II, p. 211 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
 * Pernice, *Hellenistische Tische, Zisternenmündungen, Beckenuntersätze, Altäre und Truhen* p. 15 [(worldcat)](https://search.worldcat.org/title/680390526)
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-## Publication date
-
-21 Apr 2021

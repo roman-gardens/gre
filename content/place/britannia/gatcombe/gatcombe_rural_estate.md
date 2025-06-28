@@ -3,10 +3,10 @@ gre_id: "9c24534c32"
 aliases: [/id/9c24534c32]
 type: garden
 title: "Rural Estate in Gatcombe"
-date: 2020-07-10T15:13:29-04:00
 latlon: [ 51.437167, -2.67623 ]
 author: Maureen Carroll
 editor: June Dorsch
+date: 2021-04-21
 draft: false
 ---
 
@@ -55,8 +55,6 @@ ca. 280-380 CE
 - {{< id vocab="TGN" id="7026972" term="Gatcombe (inhabited place)" >}}
 
 ## Publication date
-
-
 21 Apr 2021
 
 <!--## Related articles-->
