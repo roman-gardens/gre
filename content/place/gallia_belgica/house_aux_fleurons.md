@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [DUROCORTORUM (Reims, France)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="108945" term="DUROCORTORUM" >}}
+- {{< id vocab="Pleiades" id="108945" term="Durocortorum" >}}
 
 
 <!--## Sublocation-->

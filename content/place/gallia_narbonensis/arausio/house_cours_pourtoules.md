@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 - [arausio]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="148054" term="arausio" >}}
+- {{< id vocab="Pleiades" id="148054" term="Col. Arausio" >}}
 
 ## Location Description
 

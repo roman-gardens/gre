@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [NEMETACUM (Arras, France)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="109194" term="NEMETACUM" >}}
+- {{< id vocab="Pleiades" id="109194" term="Nemetacum" >}}
 
 ## Garden
 House on rue de la Fraternité

@@ -63,7 +63,7 @@ A corridor (see Fig. 1, label M) was bordered by two small gardens (labels N and
 
 ## Places
 
-- {{< id vocab="Pleiades" id="553386076" term="553386076" >}}
+<!-- {{< id vocab="Pleiades" id="553386076" term="553386076" >}} is invalid -->
 
 ## Publication date
 

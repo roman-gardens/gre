@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 - [nemausus]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="148142" term="nemausus" >}}
+- {{< id vocab="Pleiades" id="148142" term="Nemausus" >}}
 
 ## Location Description
 

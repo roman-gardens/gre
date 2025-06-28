@@ -12,8 +12,7 @@ draft: true
 
 ## Province
 
-- [Gallia Narbonensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
+- [Gallia Narbonensis]({{<relref "..">}})
 
 <!-- ## Province Description -->
 
@@ -21,7 +20,7 @@ draft: true
 ## Location
 
 - [BRIORD]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="167693" term="BRIORD" >}}
+- {{< id vocab="Pleiades" id="167693" term="Brioratis" >}}
 
 ## Location Description
 

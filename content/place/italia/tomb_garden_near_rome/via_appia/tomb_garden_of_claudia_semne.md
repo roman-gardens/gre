@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Location
-- {{< id vocab="Pleiades" id="356966898" term="VIA APPIA" >}}
+- {{< id vocab="Pleiades" id="356966898" term="Via Appia" >}}
 - {{< id vocab="Pleiades" id="537932155" term="Tomb Garden of Claudia Semne" >}}
 
 ## Sublocation

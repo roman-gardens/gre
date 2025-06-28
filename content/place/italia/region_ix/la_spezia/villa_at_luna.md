@@ -10,16 +10,6 @@ date: 2021-04-21
 draft: true
 ---
 
-## Location
-
-- [LA SPEZIA]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="966420455" term="LA SPEZIA" >}}
-
-## Sublocation
-
-[Region IX]({{<relref "..">}})
-
-
 ## Garden
 
 Villa at Luna

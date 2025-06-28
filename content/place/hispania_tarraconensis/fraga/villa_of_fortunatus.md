@@ -86,7 +86,7 @@ Unspecific
 
 
 ## Places
-- {{< id vocab="Pleiades" id="907088811" term="907088811" >}}
+<!-- {{< id vocab="Pleiades" id="907088811" term="907088811" >}} is invalid -->
 - {{< id vocab="TGN" id="7027125" term="Clunia (deserted settlement)" >}}
 
 

@@ -12,8 +12,7 @@ draft: true
 
 ## Location
 
-- [AUTRICUM (Chartres, France)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="108778" term="AUTRICUM" >}}
+- [AUTRICUM (Chartres, France)]({{<relref ".">}})
 
 ## Garden
 Richebourg (Yvelines) villa de

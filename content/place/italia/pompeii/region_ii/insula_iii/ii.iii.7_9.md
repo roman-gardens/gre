@@ -44,7 +44,7 @@ This garden restaurant was strategically located across from the Palaestra. This
 
 ## Places
 
-- {{< id vocab="Pleiades" id="425769173" term="425769173" >}}
+<!-- {{< id vocab="Pleiades" id="425769173" term="425769173" >}} is invalid -->
 
 
 ## Contributor

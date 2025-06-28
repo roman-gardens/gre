@@ -55,7 +55,7 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="128376" term="128376" >}}
+<!-- {{< id vocab="Pleiades" id="128376" term="128376" >}} is invalid -->
 - {{< id vocab="TGN" id="7032538" term="Carnuntum (deserted settlement)" >}}
 
 ## Publication date

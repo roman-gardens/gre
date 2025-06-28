@@ -3,7 +3,7 @@ gre_id: "e735f72800"
 aliases: [/id/e735f72800]
 type: garden
 title: "Villa de Muscapeu"
-latlon: [ 42.439512, 3.176623 ]
+latlon: [ 43.407853, 5.923999 ]
 author: 
 editor: Yichen Liu
 date: 2021-04-21
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 - [tourves]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="157799" term="tourves" >}}
+- {{< id vocab="Pleiades" id="157799" term="Ad Turrem" >}}
 
 ## Location Description
 

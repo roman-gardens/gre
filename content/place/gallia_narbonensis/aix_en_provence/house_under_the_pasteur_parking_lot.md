@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 - [aix-en-provence]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="148053" term="aix-en-provence" >}}
+- {{< id vocab="Pleiades" id="148053" term="Col. Aquae Sextiae" >}}
 
 ## Location Description
 

@@ -54,7 +54,7 @@ The inscription concludes with eight hexameters urging readers to recognize in t
 
 ## Places
 
-- {{< id vocab="Pleiades" id="229438405" term="229438405" >}}
+<!-- {{< id vocab="Pleiades" id="229438405" term="229438405" >}} is invalid -->
 
 
 ## Contributor

@@ -84,4 +84,4 @@ The *Thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](http://data.perseus
 
 ## Places
 
-- {{< id vocab="Pleiades" id="22073979" term="22073979" >}}
+<!-- {{< id vocab="Pleiades" id="22073979" term="22073979" >}} is invalid -->

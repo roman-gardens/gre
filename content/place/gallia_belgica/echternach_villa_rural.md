@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [ECHTERNACH (Luxembourg)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="108955" term="ECHTERNACH" >}}
+- {{< id vocab="Pleiades" id="108955" term="Epternacus" >}}
 
 
 <!--## Sublocation-->

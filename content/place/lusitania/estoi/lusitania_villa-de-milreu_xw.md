@@ -66,7 +66,7 @@ The archaeologists working on the site have not produced a detailed sequence of 
 
 ## Places
 
-- {{< id vocab="Pleiades" id="854718547" term="854718547" >}}
+<!-- {{< id vocab="Pleiades" id="854718547" term="854718547" >}} is invalid -->
 
 ## Publication date
 

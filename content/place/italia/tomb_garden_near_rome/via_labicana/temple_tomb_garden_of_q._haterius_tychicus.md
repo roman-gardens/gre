@@ -48,7 +48,7 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="229438406" term="229438406" >}}
+<!-- {{< id vocab="Pleiades" id="229438406" term="229438406" >}} is invalid -->
 
 
 ## Contributor

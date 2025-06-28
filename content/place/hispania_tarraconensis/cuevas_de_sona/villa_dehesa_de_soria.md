@@ -62,7 +62,7 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 
 
 ## Places
-- {{< id vocab="Pleiades" id="667996380" term="667996380" >}}
+<!-- {{< id vocab="Pleiades" id="667996380" term="667996380" >}} is invalid -->
 - {{< id vocab="TGN" id="7027125" term="Clunia (deserted settlement)" >}}
 
 ## Contributor

@@ -59,7 +59,7 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 
 ## Places
 
-- {{< id vocab="Pleiades" id="614074944" term="614074944" >}}
+<!-- {{< id vocab="Pleiades" id="614074944" term="614074944" >}} is invalid -->
 
 ## Publication date
 

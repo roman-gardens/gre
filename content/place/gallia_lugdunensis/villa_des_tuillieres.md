@@ -12,8 +12,7 @@ draft: true
 
 ## Location
 
-- [SELONGEY (Côte d'Or, France)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="177578" term="SELONGEY" >}}
+- [SELONGEY (Côte d'Or, France)]({{<relref ".">}})
 
 ## Garden
 Villa des Tuillières

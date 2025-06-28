@@ -10,8 +10,6 @@ date: 2021-04-21
 draft: true
 ---
 
-- {{< id vocab="Pleiades" id="109153" term="MEDIOLANUM AULERCORUM" >}}
-
 ## Garden
 House on the Place des Halles (La maison des Halles)
 

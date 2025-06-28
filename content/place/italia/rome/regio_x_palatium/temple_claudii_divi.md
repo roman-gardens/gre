@@ -12,9 +12,7 @@ draft: true
 
 ## Province
 
-- [ITALIA]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="ITALIA" >}} \
-- {{< id vocab="Pleiades" id="441075550" term="ITALIA, REGIO I" >}}
+- [ITALIA]({{<relref "../..">}})
 
 ## Location
 

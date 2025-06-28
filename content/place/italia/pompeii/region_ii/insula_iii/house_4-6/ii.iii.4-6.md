@@ -50,9 +50,7 @@ B. The small garden to the rear of house 4 had an entrance into this large open 
 
 ## Places
 
-<!-- invalid
-- {{< id vocab="Pleiades" id="998787235" term="998787235" >}}
--->
+<!-- {{< id vocab="Pleiades" id="998787235" term="998787235" >}} is invalid -->
 
 
 ## Contributor

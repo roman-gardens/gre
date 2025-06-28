@@ -62,7 +62,7 @@ Unspecified
 - L. Chioffi, *Sui luci sepolcrali*, in Libitina e dintorni, edited by S. Panciera (Rome 2004) n.  9. [(worldcat)](https://search.worldcat.org/title/849004166)
 
 ## Places
-- {{< id vocab="Pleiades" id="723036345" term="723036345" >}}
+<!-- {{< id vocab="Pleiades" id="723036345" term="723036345" >}} is invalid -->
 
 
 ## Contributor

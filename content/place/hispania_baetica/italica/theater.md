@@ -63,7 +63,7 @@ unspecified
 
 ## Places
 - [2224658206]{{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="224658206" term="224658206" >}}
+<!-- {{< id vocab="Pleiades" id="224658206" term="224658206" >}} is invalid -->
 - {{< id vocab="TGN" id="7007822" term="Itálica (deserted settlement)" >}}
 
 

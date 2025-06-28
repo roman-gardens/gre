@@ -3,7 +3,7 @@ gre_id: "b72e648637"
 aliases: [/id/b72e648637]
 type: garden
 title: "The villa of Saint Martin"
-latlon: [ 42.439512, 3.176623 ]
+latlon: [ 43.454598, 6.437904 ]
 author: 
 editor: Yichen Liu
 date: 2021-04-21
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 - [taradeau]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="452090055" term="taradeau" >}}
+- {{< id vocab="Pleiades" id="452090055" term="Le Fort" >}}
 
 ## Location Description
 

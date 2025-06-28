@@ -96,9 +96,7 @@ Unspecified
 
 ## Places
 
-<!-- invalid
-- {{< id vocab="Pleiades" id="827863015" term="82786301" >}}
--->
+<!-- {{< id vocab="Pleiades" id="827863015" term="82786301" >}} is invalid -->
 - {{< id vocab="TGN" id="7002358" term="Caria (former nation/state/empire)" >}}
 
 ## Publication date

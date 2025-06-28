@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [WELSCHBILLIG (Germany)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="109456" term="WELSCHBILLIG" >}}
+- {{< id vocab="Pleiades" id="109456" term="Roman Villa at Welschbillig" >}}
 
 
 <!--## Sublocation-->

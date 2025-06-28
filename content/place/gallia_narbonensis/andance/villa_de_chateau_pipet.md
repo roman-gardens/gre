@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 - [andance]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="167644" term="andance" >}}
+- {{< id vocab="Pleiades" id="167644" term="Andance" >}}
 
 ## Location Description
 

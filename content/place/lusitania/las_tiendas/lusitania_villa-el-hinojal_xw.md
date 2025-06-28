@@ -66,7 +66,7 @@ The house appears to have been built at the end of the third or beginning of the
 
 ## Places
 
-- {{< id vocab="Pleiades" id="213630148" term="213630148" >}}
+<!-- {{< id vocab="Pleiades" id="213630148" term="213630148" >}} is invalid -->
 
 ## Publication date
 

@@ -41,7 +41,7 @@ A fragmentary (and probably reused) epitaph, probably of the first or second cen
 
 ## Places
 
-- {{< id vocab="Pleiades" id="283772837" term="283772837" >}}
+<!-- {{< id vocab="Pleiades" id="283772837" term="283772837" >}} is invalid -->
 
 
 ## Contributor

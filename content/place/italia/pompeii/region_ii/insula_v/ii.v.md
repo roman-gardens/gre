@@ -149,7 +149,7 @@ Excavated 1755, 1814 and between 1912 and 1972.
 
 ## Places
 
-- {{< id vocab="Pleiades" id="444848573" term="444848573" >}}
+<!-- {{< id vocab="Pleiades" id="444848573" term="444848573" >}} is invalid -->
 
 
 ## Contributor

@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [FLIESSEM-OTRANG  (Germany)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="108982" term="FLIESSEM-OTRANG " >}}
+- {{< id vocab="Pleiades" id="108982" term="Römische Villa Otrang" >}}
 
 
 <!--## Sublocation-->
