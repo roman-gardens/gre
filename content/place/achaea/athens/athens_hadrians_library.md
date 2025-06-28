@@ -19,7 +19,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 - [Athens]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="579885" term="Athens" >}}
+- {{< id vocab="Pleiades" id="579885" name="Athens" >}}
 
 
 ## Garden
@@ -67,6 +67,6 @@ In the center of the building was a large open peristyle courtyard with a long p
 
 ## Places
 
-- {{< id vocab="Pleiades" id="728329644" term="Library of Hadrian at Athens" >}}
-- {{< id vocab="TGN" id="5004159" term="Agorá (ancient site)" >}}
+- {{< id vocab="Pleiades" id="728329644" name="Library of Hadrian at Athens" >}}
+- {{< id vocab="TGN" id="5004159" name="Agorá (ancient site)" >}}
 

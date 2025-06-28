@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Gallia Narbonensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
+- {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -23,7 +23,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 
 - [Arelate]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="148217" term="Arelate" >}}
+- {{< id vocab="Pleiades" id="148217" name="Arelate" >}}
 
 ## Location Description
 
@@ -70,10 +70,10 @@ After original finds in 1979, further vestiges of a domus came to light during s
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-- {{< id vocab="Pleiades" id="246694" term="Tolosa" >}}
-- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="7008775" term="Arles (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
+- {{< id vocab="Pleiades" id="246694" name="Tolosa" >}}
+- {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7008775" name="Arles (inhabited place)" >}}
 
 ## Contributor
 

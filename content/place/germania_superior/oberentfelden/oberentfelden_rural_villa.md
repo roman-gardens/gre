@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Oberentfelden]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="177596" term="Oberentfelden" >}}
+- {{< id vocab="Pleiades" id="177596" name="Oberentfelden" >}}
 
 ## Garden
 
@@ -60,8 +60,8 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 
 ## Places
 
-- {{< id vocab="Pleiades" id="177596" term="Oberentfelden" >}}
-- {{< id vocab="TGN" id="8703779" term="Oberentfelden (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="177596" name="Oberentfelden" >}}
+- {{< id vocab="TGN" id="8703779" name="Oberentfelden (inhabited place)" >}}
 
 ## Publication date
 21 Apr 2021

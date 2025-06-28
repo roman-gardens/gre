@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Mauretania]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981532" term="Mauretania Caesariensis (province)(Pleiades)" >}}
+- {{< id vocab="Pleiades" id="981532" name="Mauretania Caesariensis (province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 - [Tipasa]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="295363" term="Tipasa" >}}
+- {{< id vocab="Pleiades" id="295363" name="Tipasa" >}}
 
 ## Location Description
 
@@ -66,7 +66,7 @@ The peristyle garden had four porticoes supported by 14 columns and enclosed by 
 
 ## Places
 
-- {{< id vocab="Pleiades" id="151506429" term="Villa of the Frescoes" >}}
+- {{< id vocab="Pleiades" id="151506429" name="Villa of the Frescoes" >}}
 
 ## Publication date
 

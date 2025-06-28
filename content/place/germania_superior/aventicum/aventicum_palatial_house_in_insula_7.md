@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Aventicum]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="177495" term="Aventicum" >}}
+- {{< id vocab="Pleiades" id="177495" name="Aventicum" >}}
 
 ## Location Description
 
@@ -69,8 +69,8 @@ Severnan Period - Middle of 3rd century
 
 ## Places
 
-- {{< id vocab="Pleiades" id="177495" term="Aventicum" >}}
-- {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
+- {{< id vocab="Pleiades" id="177495" name="Aventicum" >}}
+- {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
 
 ## Publication date
 21 Apr 2021

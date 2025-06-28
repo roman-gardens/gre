@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 - [Africa Proconsularis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
+- {{< id vocab="Pleiades" id="991341" name="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A *praetor* governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -20,7 +20,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 - [Sufetula]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="324816" term="Sufetula" >}}
+- {{< id vocab="Pleiades" id="324816" name="Sufetula" >}}
 
 ## Location Description
 
@@ -70,8 +70,8 @@ House of the Seasons (La maison des Saisons)
 
 ## Places
 
-- {{< id vocab="Pleiades" id="324816" term="Sufetula" >}}
-- {{< id vocab="TGN" id="7001754" term="Sbeitla (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="324816" name="Sufetula" >}}
+- {{< id vocab="TGN" id="7001754" name="Sbeitla (inhabited place)" >}}
 
 ## Publication date
 

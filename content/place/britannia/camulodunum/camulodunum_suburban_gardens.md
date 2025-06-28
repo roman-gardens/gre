@@ -13,7 +13,7 @@ draft: false
 ## Location
 
 - [Camulodunum]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="79393" term="Camulodunum" >}}
+- {{< id vocab="Pleiades" id="79393" name="Camulodunum" >}}
 
 ## Location Description
 
@@ -54,8 +54,8 @@ ig. 1: Area outside the Balkerne gate before widening of the town ditch. Details
 
 ## Places
 
-- {{< id vocab="Pleiades" id="79393" term="Col. Camulodunum" >}}
-- {{< id vocab="TGN" id="7011866" term="Colchester (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="79393" name="Col. Camulodunum" >}}
+- {{< id vocab="TGN" id="7011866" name="Colchester (inhabited place)" >}}
 
 ## Publication date
 21 Apr 2021

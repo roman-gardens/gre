@@ -12,11 +12,11 @@ draft: false
 
 ## Province
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 - [Pompeii]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
@@ -86,8 +86,8 @@ Excavated 1926 and 1927.
 
 ## Places
 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
+- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

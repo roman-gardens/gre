@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [NENNIG  (Germany)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="109198" term="Nennig" >}}
+- {{< id vocab="Pleiades" id="109198" name="Nennig" >}}
 
 
 <!--## Sublocation-->
@@ -69,8 +69,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="109198" term="Nennig" >}}
-- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
+- {{< id vocab="Pleiades" id="109198" name="Nennig" >}}
+- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
 ## Contributor
 <!-- Maureen Carroll ? -->

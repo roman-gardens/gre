@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [ECHTERNACH (Luxembourg)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="108955" term="Epternacus" >}}
+- {{< id vocab="Pleiades" id="108955" name="Epternacus" >}}
 
 
 <!--## Sublocation-->
@@ -70,8 +70,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="108955" term="Epternacus" >}}
-- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
+- {{< id vocab="Pleiades" id="108955" name="Epternacus" >}}
+- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
 ## Contributor
 <!-- Maureen Carroll ? -->

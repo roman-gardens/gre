@@ -22,6 +22,6 @@ draft: false
 -->
 
 ## Places
-- {{< id vocab="Pleiades" id="579885" term="Athenae" >}}
-- {{< id vocab="TGN" id="7001393" term="Athens (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="579885" name="Athenae" >}}
+- {{< id vocab="TGN" id="7001393" name="Athens (inhabited place)" >}}
 

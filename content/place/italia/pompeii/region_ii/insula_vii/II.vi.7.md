@@ -12,11 +12,11 @@ draft: false
 
 ## Province
 - [Italia]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 - [Pompeii]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
@@ -39,8 +39,8 @@ Park-like areas were located between the Great Palaestra and the Amphitheater an
 {{< image src="../../fig._61,_plan_of_region_ii,_insula_vii.png" alt="Fig. 61, Plan of Region II, insula vii, plan in Maiuri, NSc(1939), pl.9" title="Fig. 61, Plan of Region II, insula vii, plan in Maiuri, NSc(1939), pl.9" >}}-->
 
 ## Places
-- {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
+- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 <!--## Dates-->
 

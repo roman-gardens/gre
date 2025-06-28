@@ -13,7 +13,7 @@ draft: false
 ## Province
 
 - [Numidia]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981539" term="Numidia (Roman province)(Pleiades)" >}}
+- {{< id vocab="Pleiades" id="981539" name="Numidia (Roman province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 - [Cuicul]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}
+- {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}
 
 
 {{< image src="cuicul_house_of_europa.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
@@ -79,7 +79,7 @@ Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century
 *  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](https://search.worldcat.org/title/1090653355)
 
 ## Places
-- {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}
+- {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}
 ## Contributor
 
 [Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)

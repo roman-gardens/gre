@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Mauretania]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981532" term="Mauretania Caesariensis" >}}
+- {{< id vocab="Pleiades" id="981532" name="Mauretania Caesariensis" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 - [Caesarea]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="295279" term="Iol Caesarea" >}}
+- {{< id vocab="Pleiades" id="295279" name="Iol Caesarea" >}}
 
 ## Location Description
 
@@ -73,7 +73,7 @@ In the southwestern corner, a small room protrudes into the gallery and opens in
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="278428164" term="278428164" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="278428164" name="278428164" >}} is invalid -->
 
 
 ## Publication date

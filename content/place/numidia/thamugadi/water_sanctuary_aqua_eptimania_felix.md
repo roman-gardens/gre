@@ -12,7 +12,7 @@ draft: false
 
 ## Province
 - [Numidia]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981539" term="Numidia" >}}
+- {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
 
 ## Province Description
 
@@ -21,7 +21,7 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 ## Location
 
 - [Thamugadi]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}
+- {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}
 
 {{< image src="timgad_city_plan_water_sanctuary.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
 
@@ -76,8 +76,8 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 
 ## Places
 
-- {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}
-- {{< id vocab="TGN" id="7001328" term="Timgad (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}
+- {{< id vocab="TGN" id="7001328" name="Timgad (deserted settlement)" >}}
 
 ## Publication date
 

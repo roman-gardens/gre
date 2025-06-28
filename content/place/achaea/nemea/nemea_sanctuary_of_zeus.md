@@ -19,7 +19,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 - [Nemea]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="570504" term="Nemea" >}}
+- {{< id vocab="Pleiades" id="570504" name="Nemea" >}}
 
 ## Garden
 
@@ -72,5 +72,5 @@ Trees were still standing in the 2nd century A.D. when Pausanias visited Nemea.
 
 ## Places
 
-- {{< id vocab="Pleiades" id="570504" term="Nemea" >}}
-- {{< id vocab="TGN" id="7220732" term="Neméa (ancient site)" >}}
+- {{< id vocab="Pleiades" id="570504" name="Nemea" >}}
+- {{< id vocab="TGN" id="7220732" name="Neméa (ancient site)" >}}

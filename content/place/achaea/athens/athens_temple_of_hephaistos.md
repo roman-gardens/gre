@@ -19,11 +19,11 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 - [Athens]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="579885" term="Athens" >}}
+- {{< id vocab="Pleiades" id="579885" name="Athens" >}}
 
 ## Sublocation
 
-- {{< id vocab="Pleiades" id="807514119" term="Agora of Athens" >}}
+- {{< id vocab="Pleiades" id="807514119" name="Agora of Athens" >}}
 
 
 ## Garden
@@ -71,5 +71,5 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 
 ## Places
 
-- {{< id vocab="Pleiades" id="558659669" term="Hephaisteion" >}}
-- {{< id vocab="TGN" id="5004159" term="Agorá (ancient site)" >}}
+- {{< id vocab="Pleiades" id="558659669" name="Hephaisteion" >}}
+- {{< id vocab="TGN" id="5004159" name="Agorá (ancient site)" >}}

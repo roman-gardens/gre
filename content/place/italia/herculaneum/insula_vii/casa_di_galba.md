@@ -14,12 +14,12 @@ draft: false
 ## Province
 
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 
 - [Herculaneum]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
 ## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
@@ -46,8 +46,8 @@ The excavation of this site was begun in 1873-1874 and is still incomplete. A si
 {{< image src="herculaneum_casa_di_galba.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
 
 ## Places
-- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
+- {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 Unspecified

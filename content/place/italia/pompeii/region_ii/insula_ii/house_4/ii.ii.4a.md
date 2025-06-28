@@ -12,15 +12,15 @@ draft: false
 
 ## Location
 - [Pompeii]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Sublocation
 - [Region II]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="456321707" term="Region II" >}}
+- {{< id vocab="Pleiades" id="456321707" name="Region II" >}}
 
 
 ## House
-- {{< id vocab="Pleiades" id="634179974" term="House of Messius Ampliatus(II.ii.4)" >}}
+- {{< id vocab="Pleiades" id="634179974" name="House of Messius Ampliatus(II.ii.4)" >}}
 
 
 ## Garden
@@ -45,7 +45,7 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="634179974" term="House of Messius Ampliatus" >}}
+- {{< id vocab="Pleiades" id="634179974" name="House of Messius Ampliatus" >}}
 
 
 ## Contributor

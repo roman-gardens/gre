@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Province Description
 <!-- DESCRIPTION -->
@@ -21,7 +21,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 
 ## Location
 - [Pompeii]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -78,9 +78,9 @@ Wooden steps at the rear of this house excavated in 1902 led up to a *viridarium
 
 
 ## Places
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
+- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 [Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

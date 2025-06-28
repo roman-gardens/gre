@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Romula]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="981518" term="Romula" >}}
+- {{< id vocab="Pleiades" id="981518" name="Romula" >}}
 
 ## Garden
 
@@ -62,8 +62,8 @@ Later second century/third century
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981518" term="Dacia (province)" >}}
-- {{< id vocab="TGN" id="8712318" term="Romula (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="981518" name="Dacia (province)" >}}
+- {{< id vocab="TGN" id="8712318" name="Romula (deserted settlement)" >}}
 
 ## Contributor
 

@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 - [Africa Proconsularis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
+- {{< id vocab="Pleiades" id="991341" name="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -20,7 +20,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 - [Acholla (Henchir Botria)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="324653" term="Acholla" >}}
+- {{< id vocab="Pleiades" id="324653" name="Acholla" >}}
 
 ## Location Description
 The city of Acholla was established forty-five km north of Sfax, along the seashore of the coast of Bysacena. When the city took sides with Rome in the third Punic war, Acholla was rewarded with the status of a free city. Later, under Hadrian, the city became a municipum. Production of oil from the countryside, inner cities of Bararus and Thysdrus, and commerce by sea made Acholla, with its harbor, a prosperous town.  Two baths and a series of houses testify to the wealth of the inhabitants of Acholla by the opulence and the originality of their mosaic décor. The mosaic decor gives evidence to the presence of one of the first mosaic workshops in Africa.  
@@ -71,8 +71,8 @@ mid 2nd century CE
 
 
 ## Places
-- {{< id vocab="Pleiades" id="324653" term="Acholla" >}}
-- {{< id vocab="TGN" id="5003657" term="Henchir Bou Tria (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="324653" name="Acholla" >}}
+- {{< id vocab="TGN" id="5003657" name="Henchir Bou Tria (deserted settlement)" >}}
 
 ## Contributor
 [Véronique Blanc-Bijon] (WorldCat Identities: [lccn-nb99006585](http://worldcat.org/identities/lccn-nb99006585/))

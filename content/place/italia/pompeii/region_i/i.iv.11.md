@@ -12,11 +12,11 @@ draft: false
 
 ## Province
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 - [Pompeii]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
@@ -51,7 +51,7 @@ This modest [caupona](http://vocab.getty.edu/page/aat/300005208) had a garden at
 
 ## Places
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
-- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
+- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 Excavated 1853 and 1863.

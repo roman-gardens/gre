@@ -13,13 +13,13 @@ draft: false
 ## Province
 
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
 
 ## Location
 
 - [Rome]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
+- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
 
 ## Sublocation
 
@@ -34,7 +34,7 @@ Esquiline Hill, [Esquilinus Mons](https://pleiades.stoa.org/places/679976755)
 ## Garden
 
 Garden of the Domus Aurea \
-- {{< id vocab="Pleiades" id="410440793" term="Domus Aurea" >}}
+- {{< id vocab="Pleiades" id="410440793" name="Domus Aurea" >}}
 
 ## Keywords
 
@@ -98,5 +98,5 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="410440793" term="Domus Aurea" >}}
-- {{< id vocab="TGN" id="8712226" term="Domus Aurea (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="410440793" name="Domus Aurea" >}}
+- {{< id vocab="TGN" id="8712226" name="Domus Aurea (deserted settlement)" >}}

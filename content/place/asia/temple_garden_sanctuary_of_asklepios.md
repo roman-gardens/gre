@@ -29,7 +29,7 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 ## Location
 
 - [Kos]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="599728" term="Kos" >}}
+- {{< id vocab="Pleiades" id="599728" name="Kos" >}}
 
 ## Garden
 
@@ -75,8 +75,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="814448537" term="Grove of Asklepios at Kos" >}}
-- {{< id vocab="TGN" id="7012054" term="Kos, Nísos (island)" >}}
+- {{< id vocab="Pleiades" id="814448537" name="Grove of Asklepios at Kos" >}}
+- {{< id vocab="TGN" id="7012054" name="Kos, Nísos (island)" >}}
 
 ## Publication date
 21 Apr 2021

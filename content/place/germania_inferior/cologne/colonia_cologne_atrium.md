@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Cologne]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="108751" term="Cologne" >}}
+- {{< id vocab="Pleiades" id="108751" name="Cologne" >}}
 
 ## Location Description
 This large town on the west bank of the Rhine river was the *civitas* capital of the [Ubii](link) in the first half of the 1st century A.D. It was granted the status of colonia by [Claudius](link) in 50 and became the provincial capital in 85.
@@ -60,8 +60,8 @@ Middle of the first century CE until the fourth century CE
 
 ## Places
 
-- {{< id vocab="Pleiades" id="108751" term="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
-- {{< id vocab="TGN" id="7004446" term="Cologne (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="108751" name="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
+- {{< id vocab="TGN" id="7004446" name="Cologne (inhabited place)" >}}
 
 ## Publication date
 

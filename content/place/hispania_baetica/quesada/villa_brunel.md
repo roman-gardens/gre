@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Quesada]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="265996" term="Quesada" >}}
+- {{< id vocab="Pleiades" id="265996" name="Quesada" >}}
 
 ## Garden
 
@@ -89,8 +89,8 @@ unspecified
 
 ## Places
 - [Pago de Bruñel]{{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="265996" term="Pago de Bruñel" >}}
-- {{< id vocab="TGN" id="7027137" term="Castillo de Mulva (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="265996" name="Pago de Bruñel" >}}
+- {{< id vocab="TGN" id="7027137" name="Castillo de Mulva (deserted settlement)" >}}
 
 
 ## Publication date

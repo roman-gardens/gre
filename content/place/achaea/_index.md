@@ -21,5 +21,5 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Linked IDs
 
-- {{< id vocab="Pleiades" id="570028" term="Achaea/Achaia (region)" >}}
-- {{< id vocab="TGN" id="7030332" term="Achaea (province)" >}}
+- {{< id vocab="Pleiades" id="570028" name="Achaea/Achaia (region)" >}}
+- {{< id vocab="TGN" id="7030332" name="Achaea (province)" >}}

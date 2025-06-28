@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Almedinilla]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="266015" term="Almedinilla" >}}
+- {{< id vocab="Pleiades" id="266015" name="Almedinilla" >}}
 
 ## Garden
 
@@ -77,8 +77,8 @@ unspecified
 ## Places
 
 - [El Ruedo]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="266015" term="El Ruedo" >}}
-- {{< id vocab="TGN" id="4000563" term="Almedinilla (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="266015" name="El Ruedo" >}}
+- {{< id vocab="TGN" id="4000563" name="Almedinilla (inhabited place)" >}}
 
 ## Contributor
 

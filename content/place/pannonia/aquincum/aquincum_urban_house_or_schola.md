@@ -16,7 +16,7 @@ draft: true
 ## Location
 
 - [Aquincum]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="1971301" term="Aquincum" >}}
+- {{< id vocab="Pleiades" id="1971301" name="Aquincum" >}}
 
 ## Location Description
 
@@ -61,8 +61,8 @@ Very few houses of Mediterranean type have been discovered, and only one can be 
 
 ## Places
 
-- {{< id vocab="Pleiades" id="197130" term="Aquincum" >}}
-- {{< id vocab="TGN" id="8713146" term="Aquincum (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="197130" name="Aquincum" >}}
+- {{< id vocab="TGN" id="8713146" name="Aquincum (deserted settlement)" >}}
 
 ## Publication date
 21 Apr 2021

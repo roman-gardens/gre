@@ -13,7 +13,7 @@ draft: false
 ## Location
 
 - [Chedworth]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="79383" term="Chedworth" >}}
+- {{< id vocab="Pleiades" id="79383" name="Chedworth" >}}
 
 ## Sublocation
 
@@ -68,8 +68,8 @@ Late 19th century, 2000-2002
 
 ## Places
 
-- {{< id vocab="Pleiades" id="79383" term="Chedworth" >}}
-- {{< id vocab="TGN" id="7032560" term="Chedworth Roman Villa (historic site)" >}}
+- {{< id vocab="Pleiades" id="79383" name="Chedworth" >}}
+- {{< id vocab="TGN" id="7032560" name="Chedworth Roman Villa (historic site)" >}}
 
 ## Publication date
 21 Apr 2021

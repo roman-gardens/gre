@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Patavium]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="393473" term="Patavium" >}}
+- {{< id vocab="Pleiades" id="393473" name="Patavium" >}}
 
 ## Sublocation
 
@@ -60,8 +60,8 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="393473" term="Patavium" >}}
-- {{< id vocab="TGN" id="7003085" term="Padua (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="393473" name="Patavium" >}}
+- {{< id vocab="TGN" id="7003085" name="Padua (inhabited place)" >}}
 
 ## Contributor
 

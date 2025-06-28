@@ -13,7 +13,7 @@ draft: false
 ## Location
 
 - [Gorhambury]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="79485" term="Gorhambury" >}}
+- {{< id vocab="Pleiades" id="79485" name="Gorhambury" >}}
 
 ## Garden
 
@@ -55,8 +55,8 @@ around A.D. 100 - 175
 
 ## Places
 
-- {{< id vocab="Pleiades" id="79485" term="Gorhambury Ancient Site" >}}
-- {{< id vocab="TGN" id="7030316" term="Britannia (province)" >}}
+- {{< id vocab="Pleiades" id="79485" name="Gorhambury Ancient Site" >}}
+- {{< id vocab="TGN" id="7030316" name="Britannia (province)" >}}
 
 ## Publication date
 21 Apr 2021

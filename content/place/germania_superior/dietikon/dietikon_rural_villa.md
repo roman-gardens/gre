@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Dietikon]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="981525" term="Dietikon" >}}
+- {{< id vocab="Pleiades" id="981525" name="Dietikon" >}}
 
 ## Garden
 
@@ -73,8 +73,8 @@ Stone-built villa: Middle of the 1st century CE
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
-- {{< id vocab="TGN" id="7007345" term="Dietikon (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="981525" name="Germania Superior" >}}
+- {{< id vocab="TGN" id="7007345" name="Dietikon (inhabited place)" >}}
 
 ## Contributor
 

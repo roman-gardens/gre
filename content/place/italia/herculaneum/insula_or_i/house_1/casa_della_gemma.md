@@ -14,12 +14,12 @@ draft: false
 ## Province
 
 - [Italia]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 
 - [Herculaneum]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
 
 ## Location Description
@@ -52,8 +52,8 @@ A. This garden (a) is built partially into the edge of the hill and partially on
 {{< image src="herc._i.1_17.11.78.jpg" alt="Herculaneum - insula orientalis I. 1-3 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 1-3 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Places
-- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
+- {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 Unspecified

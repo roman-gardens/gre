@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Augusta Raurica]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="177494" term="Augusta Raurica" >}}
+- {{< id vocab="Pleiades" id="177494" name="Augusta Raurica" >}}
 
 ## Location Description
 
@@ -66,8 +66,8 @@ Insula: 200 A.D.
 
 ## Places
 
-- {{< id vocab="Pleiades" id="177494" term="Col. Augusta Raurica" >}}
-- {{< id vocab="TGN" id="7017586" term="Augusta Rauricorum (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="177494" name="Col. Augusta Raurica" >}}
+- {{< id vocab="TGN" id="7017586" name="Augusta Rauricorum (deserted settlement)" >}}
 
 ## Publication date
 21 Apr 2021

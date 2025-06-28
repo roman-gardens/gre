@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="1101" term="Lusitania" >}}
+- {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 - [Vila de Frades]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="256422" term="OS. Cucufate" >}}
+- {{< id vocab="Pleiades" id="256422" name="OS. Cucufate" >}}
 
 ## Garden
 Villa Sao Cucufate
@@ -68,7 +68,7 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 
 ## Places
 
-- {{< id vocab="Pleiades" id="256422" term="S. Cucufate" >}}
+- {{< id vocab="Pleiades" id="256422" name="S. Cucufate" >}}
 
 ## Publication date
 

@@ -14,7 +14,7 @@ draft: false
 ## Province
 
 - [Italia]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 
@@ -53,8 +53,8 @@ A. The excavation of this house in 1934-1936 revealed an unusual atrium arrangem
 {{< image src="herc._i.2,3_42.17.64.jpg" alt="Herculaneum - insula orientalis I. 2.3-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 2.3-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Places
-- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
+- {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 Unspecified

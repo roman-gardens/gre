@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Tergeste]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="187578" term="Tergeste" >}}
+- {{< id vocab="Pleiades" id="187578" name="Tergeste" >}}
 
 ## Sublocation
 
@@ -83,8 +83,8 @@ NEW WAY ↓↓↓↓
 
 ## Places
 
-- {{< id vocab="Pleiades" id="187578" term="Tergeste" >}}
-- {{< id vocab="TGN" id="7005539" term="Trieste (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="187578" name="Tergeste" >}}
+- {{< id vocab="TGN" id="7005539" name="Trieste (inhabited place)" >}}
 
 ## Contributor
 

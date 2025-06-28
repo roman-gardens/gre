@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Vallon]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="981525" term="Vallon" >}}
+- {{< id vocab="Pleiades" id="981525" name="Vallon" >}}
 
 ## Garden
 
@@ -97,8 +97,8 @@ Beginning of the 1st c. CE - beginning of the Vth century
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
-- {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
+- {{< id vocab="Pleiades" id="981525" name="Germania Superior" >}}
+- {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
 
 ## Contributor
 

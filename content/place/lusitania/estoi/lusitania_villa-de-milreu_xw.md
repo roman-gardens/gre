@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="1101" term="Lusitania" >}}
+- {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
 
 ## Province Description
 
@@ -65,5 +65,5 @@ The archaeologists working on the site have not produced a detailed sequence of 
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="854718547" term="Estoi" >}} is invalid -->
-- {{< id vocab="Pleiades" id="256299" term="Milreu" >}}
+<!-- {{< id vocab="Pleiades" id="854718547" name="Estoi" >}} is invalid -->
+- {{< id vocab="Pleiades" id="256299" name="Milreu" >}}

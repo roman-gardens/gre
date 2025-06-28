@@ -14,7 +14,7 @@ draft: true
 ## Location
 
 - [Vesontio]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="177657" term="Vesontio" >}}
+- {{< id vocab="Pleiades" id="177657" name="Vesontio" >}}
 
 ## Location Description
 
@@ -83,8 +83,8 @@ Gardens: Beginning and last third of second century
 
 ## Places
 
-- {{< id vocab="Pleiades" id="177657" term="Vesontio" >}}
-- {{< id vocab="TGN" id="7008356" term="Besancon (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="177657" name="Vesontio" >}}
+- {{< id vocab="TGN" id="7008356" name="Besancon (inhabited place)" >}}
 
 
 ## Publication date

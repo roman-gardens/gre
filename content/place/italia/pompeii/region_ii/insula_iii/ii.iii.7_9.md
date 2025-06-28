@@ -13,13 +13,13 @@ draft: false
 ## Location
 
 - [Pompeii]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 ## Sublocation
 [Region II]({{<relref "..">}})
 
 <!-- pleiades link prompts for login
 ## House
-- {{< id vocab="Pleiades" id="243620947" term="II.iii.7/9" >}}
+- {{< id vocab="Pleiades" id="243620947" name="II.iii.7/9" >}}
 -->
 
 ## Garden
@@ -44,7 +44,7 @@ This garden restaurant was strategically located across from the Palaestra. This
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="425769173" term="425769173" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="425769173" name="425769173" >}} is invalid -->
 
 
 ## Contributor

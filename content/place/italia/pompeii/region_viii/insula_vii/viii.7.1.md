@@ -13,11 +13,11 @@ draft: false
 
 ## Province
 - [Italia]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 - [Pompeii]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -44,8 +44,8 @@ This caupona, excavated in 1874, had a garden (a) across the back with a low wal
 {{< image src="fig.26.viii.vii.1_10.2.66.jpg" alt="Fig.26, 10.2.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig.26, 10.2.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Places
-- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
+- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
 1874

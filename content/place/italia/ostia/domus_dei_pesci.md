@@ -13,12 +13,12 @@ draft: false
 ## Province
 
 - [Italia]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 
 - [Ostia]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
+- {{< id vocab="Pleiades" id="422995" name="Ostia" >}}
 
 ## Location Description
 
@@ -49,7 +49,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 ## Garden
 
 Garden beneath the House of the Fishes (Domus dei Pesci) \
-- {{< id vocab="Pleiades" id="223974300" term="House of the Fishes" >}}
+- {{< id vocab="Pleiades" id="223974300" name="House of the Fishes" >}}
 
 ## Keywords
 
@@ -91,8 +91,8 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="223974300" term="House of the Fishes" >}}
-- {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="223974300" name="House of the Fishes" >}}
+- {{< id vocab="TGN" id="7007018" name="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor

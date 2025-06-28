@@ -17,10 +17,10 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 - [Athens]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="579885" term="Athens" >}}
+- {{< id vocab="Pleiades" id="579885" name="Athens" >}}
 
 ## Sublocation
-- {{< id vocab="Pleiades" id="969121823" term="Aereopagus" >}}
+- {{< id vocab="Pleiades" id="969121823" name="Aereopagus" >}}
 
 ## Garden
 Neoplatonic School near the Areopagus (Omega House)
@@ -48,5 +48,5 @@ second half of the 4th century CE to the late 6th century CE
 * T. L. Shear, “The Athenian Agora: Excavations of 1970,” *Hesperia* 40, 1971: 266-270, 273-275, pls. 53-55, 58-59. [(JSTOR)](https://www.jstor.org/stable/147527).
 
 ## Places
-- {{< id vocab="Pleiades" id="969121823" term="Areopagus" >}}
-- {{< id vocab="TGN" id="5004159" term="Agorá (ancient site)" >}}
+- {{< id vocab="Pleiades" id="969121823" name="Areopagus" >}}
+- {{< id vocab="TGN" id="5004159" name="Agorá (ancient site)" >}}

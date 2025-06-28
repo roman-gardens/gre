@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Baelo Claudia]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="256005" term="Baelo Claudia" >}}
+- {{< id vocab="Pleiades" id="256005" name="Baelo Claudia" >}}
 
 ## Location Description
 
@@ -67,8 +67,8 @@ unspecified
 
 ## Places
 - [House of the Sundial at Baelo]{{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="510567670" term="House of the Sundial at Baelo" >}}
-- {{< id vocab="TGN" id="8712326" term="Baelo Claudia (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="510567670" name="House of the Sundial at Baelo" >}}
+- {{< id vocab="TGN" id="8712326" name="Baelo Claudia (deserted settlement)" >}}
 
 
 ## Publication date

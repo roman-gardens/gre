@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Gallia Narbonensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
+- {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 - [nemausus]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="148142" term="Nemausus" >}}
+- {{< id vocab="Pleiades" id="148142" name="Nemausus" >}}
 
 ## Location Description
 
@@ -72,9 +72,9 @@ A.D. 1
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="7008371" term="Nîmes (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7008371" name="Nîmes (inhabited place)" >}}
 
 ## Contributor
 

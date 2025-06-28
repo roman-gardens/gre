@@ -46,8 +46,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="109153" term="Mediolanum Aulercorum" >}}
-- {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
+- {{< id vocab="Pleiades" id="109153" name="Mediolanum Aulercorum" >}}
+- {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
 <!-- Maureen Carroll ? -->

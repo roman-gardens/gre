@@ -48,7 +48,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Places
 <!--
-- {{< id vocab="" id="" term="" >}}
+- {{< id vocab="" id="" name="" >}}
 -->
 
 

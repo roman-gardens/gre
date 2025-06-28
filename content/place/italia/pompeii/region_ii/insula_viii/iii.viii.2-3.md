@@ -13,11 +13,11 @@ draft: false
 
 ## Province
 - [Italia]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 - [Pompeii]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
@@ -41,8 +41,8 @@ Customers at this thermopolium were served at a counter looking onto the street 
 {{< image src="../../fig._62,_plan_of_region_ii,_insula_viii.png" alt="Fig. 62, Plan of Region II, insula viii" title="Fig. 62, Plan of Region II, insula viii" >}}-->
 
 ## Places
-- {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
+- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ## Dates
 Excavated 1953.

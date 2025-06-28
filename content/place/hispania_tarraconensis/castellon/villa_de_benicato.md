@@ -13,12 +13,12 @@ draft: true
 ## Province
 
 [Castellón]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="432947" term="Monte Castellone 2" >}}
+- {{< id vocab="Pleiades" id="432947" name="Monte Castellone 2" >}}
 
 ## Location
 
 - [Nules]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="266010" term="Pujol de Benicató" >}}
+- {{< id vocab="Pleiades" id="266010" name="Pujol de Benicató" >}}
 
 ## Garden
 Villa de Benicató
@@ -56,7 +56,7 @@ The villa from the middle of the 2nd century evolved around a peristyle garden w
 
 ## Places
 
-- {{< id vocab="Pleiades" id="266010" term="Pujol de Benicató" >}}
+- {{< id vocab="Pleiades" id="266010" name="Pujol de Benicató" >}}
 
 ## Publication date
 

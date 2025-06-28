@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Blankenheim-Hülchrath]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="981524" term="Blankenheim-Hülchrath" >}}
+- {{< id vocab="Pleiades" id="981524" name="Blankenheim-Hülchrath" >}}
 
 ## Garden
 Rustic villa at Blankenheim-Hülchrath
@@ -53,8 +53,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981524" term="Germania Inferior" >}}
-- {{< id vocab="TGN" id="6002234" term="Germania Inferior (province)" >}}
+- {{< id vocab="Pleiades" id="981524" name="Germania Inferior" >}}
+- {{< id vocab="TGN" id="6002234" name="Germania Inferior (province)" >}}
 
 ## Publication date
 

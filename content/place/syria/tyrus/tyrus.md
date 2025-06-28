@@ -20,7 +20,7 @@ An irrigation system based around the qanat, an underground water channel, was u
 ## Location
 
 - [Tyrus]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="678437" term="Tyrus" >}}
+- {{< id vocab="Pleiades" id="678437" name="Tyrus" >}}
 
 ## Location Description
 Tyre, an ancient Phoenician port city (est. 2750 BCE), became part of the Roman Empire in 64 BCE.  It was legendary as the birthplace of the goddess Europa and queen Dido, founder of Carthage.  
@@ -62,8 +62,8 @@ fourth century CE
 
 ## Places
 
-- {{< id vocab="Pleiades" id="678437" term="Tyrus/Col. Septimia Severa" >}}
-- {{< id vocab="TGN" id="7030348" term="Syria (province)" >}}
+- {{< id vocab="Pleiades" id="678437" name="Tyrus/Col. Septimia Severa" >}}
+- {{< id vocab="TGN" id="7030348" name="Syria (province)" >}}
 
 ## Publication date
 

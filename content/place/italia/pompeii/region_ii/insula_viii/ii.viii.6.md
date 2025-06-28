@@ -13,11 +13,11 @@ draft: false
 
 ## Province
 - [Italia]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 - [Pompeii]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
@@ -62,8 +62,8 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 {{< image src="../../fig._74,_ii.viii.6_11.20.74.jpg" alt="Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}-->
 
 ## Places
-- {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
+- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 1953-1954, 1971-1972.

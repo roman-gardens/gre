@@ -13,12 +13,12 @@ draft: false
 ## Province
 
 - [Italia]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 
 - [Ostia]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
+- {{< id vocab="Pleiades" id="422995" name="Ostia" >}}
 
 ## Location Description
 
@@ -49,7 +49,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 ## Garden
 
 House of the Thunderbolt (Domus Fulminata) \
-- {{< id vocab="Pleiades" id="1554484" term="House of the Thunderbolt" >}}
+- {{< id vocab="Pleiades" id="1554484" name="House of the Thunderbolt" >}}
 
 ## Keywords
 
@@ -111,6 +111,6 @@ The house is one of the most interesting examples of the transition from the atr
 
 ## Places
 
-- {{< id vocab="Pleiades" id="1554484" term="House of the Thunderbolt" >}}
-- {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="1554484" name="House of the Thunderbolt" >}}
+- {{< id vocab="TGN" id="7007018" name="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->

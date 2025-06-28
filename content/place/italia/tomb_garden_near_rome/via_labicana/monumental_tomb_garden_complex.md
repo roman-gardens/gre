@@ -11,8 +11,8 @@ draft: true
 ---
 
 ## Location
-- {{< id vocab="Pleiades" id="74935822" term="Via Labicana" >}}
-- {{< id vocab="Pleiades" id="423338213" term="Monumental Tomb Garden Complex" >}}
+- {{< id vocab="Pleiades" id="74935822" name="Via Labicana" >}}
+- {{< id vocab="Pleiades" id="423338213" name="Monumental Tomb Garden Complex" >}}
 
 ## Sublocation
 Via Labicana
@@ -61,7 +61,7 @@ The plan was dated as early as the Augustan age, the scale and design seem more 
 
 ## Places
 
-- {{< id vocab="Pleiades" id="423338213" term="Tomb Garden of Aur(elius) Inachus" >}}
+- {{< id vocab="Pleiades" id="423338213" name="Tomb Garden of Aur(elius) Inachus" >}}
 
 
 ## Contributor

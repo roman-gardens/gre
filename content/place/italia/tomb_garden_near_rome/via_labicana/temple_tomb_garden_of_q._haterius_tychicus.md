@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Location
-- {{< id vocab="Pleiades" id="74935822" term="Via Labicana" >}}
+- {{< id vocab="Pleiades" id="74935822" name="Via Labicana" >}}
 
 ## Sublocation
 Via Labicana
@@ -47,7 +47,7 @@ Unspecified
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="229438406" term="Temple Tomb Garden of Q. Haterius Tychicus" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="229438406" name="Temple Tomb Garden of Q. Haterius Tychicus" >}} is invalid -->
 
 
 ## Contributor

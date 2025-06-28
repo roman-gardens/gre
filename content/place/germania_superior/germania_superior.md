@@ -43,8 +43,8 @@ c. AD 85
 ## Places
 
 - [Germania Superior]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
-- {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
+- {{< id vocab="Pleiades" id="981525" name="Germania Superior" >}}
+- {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
 
 ## Publication date
 21 Apr 2021

@@ -13,7 +13,7 @@ draft: false
 ## Location
 
 - [Sudeley/Spoonley Wood]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="79693" term="Sudeley/Spoonley Wood" >}}
+- {{< id vocab="Pleiades" id="79693" name="Sudeley/Spoonley Wood" >}}
 
 ## Garden
 
@@ -58,8 +58,8 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 ## Places
 
-- {{< id vocab="Pleiades" id="79693" term="Spoonley" >}}
-- {{< id vocab="TGN" id="7030316" term="Britannia (province)" >}}
+- {{< id vocab="Pleiades" id="79693" name="Spoonley" >}}
+- {{< id vocab="TGN" id="7030316" name="Britannia (province)" >}}
 
 ## Contributor
 

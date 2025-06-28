@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Sirmio]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="383781" term="Sirmio" >}}
+- {{< id vocab="Pleiades" id="383781" name="Sirmio" >}}
 
 ## Sublocation
 
@@ -99,8 +99,8 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="870993210" term="Grotte di Catullo" >}}
-- {{< id vocab="TGN" id="7005771" term="Sirmione (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="870993210" name="Grotte di Catullo" >}}
+- {{< id vocab="TGN" id="7005771" name="Sirmione (inhabited place)" >}}
 
 ## Contributor
 

@@ -13,7 +13,7 @@ draft: false
 ## Location
 
 - [Frocester Court]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="79471" term="Frocester Court" >}}
+- {{< id vocab="Pleiades" id="79471" name="Frocester Court" >}}
 
 ## Garden
 
@@ -58,8 +58,8 @@ early 4th - 5th century CE
 
 ## Places
 
-- {{< id vocab="Pleiades" id="79471" term="Frocester" >}}
-- {{< id vocab="TGN" id="4004114" term="Frocester (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="79471" name="Frocester" >}}
+- {{< id vocab="TGN" id="4004114" name="Frocester (inhabited place)" >}}
 
 ## Publication date
 21 Apr 2021

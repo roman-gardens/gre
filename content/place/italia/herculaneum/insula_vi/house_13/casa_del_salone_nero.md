@@ -13,12 +13,12 @@ draft: false
 
 ## Province
 - [Italia]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 
 ## Location
 - [Herculaneum]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
 ## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
@@ -48,8 +48,8 @@ Excavation of this garden (a) to the rear of this elegant house took place in th
 
 
 ## Places
-- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
+- {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 Unspecified

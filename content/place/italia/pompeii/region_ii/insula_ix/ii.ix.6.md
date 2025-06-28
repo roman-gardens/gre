@@ -13,11 +13,11 @@ draft: false
 
 ## Province
 - [Italia]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 - [Pompeii]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
@@ -56,8 +56,8 @@ B. This vineyard section of the property was excavated in 1984 by Dr. De Caro. A
 -->
 
 ## Places
-- {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
+- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 Eastern part first excavated 1939 and then 1954 to 1955.

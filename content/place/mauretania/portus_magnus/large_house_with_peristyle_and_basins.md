@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Mauretania]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981532" term="Mauretania Caesariensis (province)(Pleiades)" >}}
+- {{< id vocab="Pleiades" id="981532" name="Mauretania Caesariensis (province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 [Portus Magnus]({{<relref ".">}}) \  
-- {{< id vocab="Pleiades" id="285503" term="Portus Magnus" >}}
+- {{< id vocab="Pleiades" id="285503" name="Portus Magnus" >}}
 
 ## Location Description
 
@@ -63,7 +63,7 @@ A corridor (see Fig. 1, label M) was bordered by two small gardens (labels N and
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="553386076" term="553386076" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="553386076" name="553386076" >}} is invalid -->
 
 ## Publication date
 

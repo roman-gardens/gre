@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Gallia_narbonensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
+- {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 - [tourves]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="157799" term="Ad Turrem" >}}
+- {{< id vocab="Pleiades" id="157799" name="Ad Turrem" >}}
 
 ## Location Description
 
@@ -79,9 +79,9 @@ In a second stage, in the first century, a bath complex [5] with an open-air esp
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="1035905" term="Tourves (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="1035905" name="Tourves (inhabited place)" >}}
 
 ## Contributor
 

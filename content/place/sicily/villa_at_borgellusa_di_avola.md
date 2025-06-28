@@ -20,7 +20,7 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 ## Location
 
-- {{< id vocab="Pleiades" id="462503" term="Syracuse" >}}
+- {{< id vocab="Pleiades" id="462503" name="Syracuse" >}}
 
 ## Garden
 
@@ -60,7 +60,7 @@ id., Sicily under the Roman Empire, Warminster, 1990, pp. 197–8  with fig. 165
 
 ## Places
 
-- {{< id vocab="Pleiades" id="462503" term="Syracusae/Syrakousai" >}}
+- {{< id vocab="Pleiades" id="462503" name="Syracusae/Syrakousai" >}}
 
 
 ## Publication date

@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Gallia_narbonensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
+- {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -91,9 +91,9 @@ A.D. 60 -A.D. 185
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="5004109" term="Saint-Romain-en-Gal (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="5004109" name="Saint-Romain-en-Gal (inhabited place)" >}}
 
 ## Contributor
 

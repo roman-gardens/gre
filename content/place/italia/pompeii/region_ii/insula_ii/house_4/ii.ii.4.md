@@ -13,7 +13,7 @@ draft: false
 ## Location
 
 - [Pompeii]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
@@ -24,7 +24,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "..">}})
 
 ## House
-- {{< id vocab="Pleiades" id="634179974" term="House of Messius Ampliatus(II.ii.4))" >}}
+- {{< id vocab="Pleiades" id="634179974" name="House of Messius Ampliatus(II.ii.4))" >}}
 
 ## Garden
 Narrow garden in the house of Messius Ampliatus.
@@ -52,7 +52,7 @@ B. The east [portico](http://vocab.getty.edu/page/aat/300004145) gave access to 
 
 ## Places
 
-- {{< id vocab="Pleiades" id="433204" term="Villa Tiberii" >}}
+- {{< id vocab="Pleiades" id="433204" name="Villa Tiberii" >}}
 
 
 ## Contributor

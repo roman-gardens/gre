@@ -20,11 +20,11 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 - [Athens]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="579885" term="Athens" >}}
+- {{< id vocab="Pleiades" id="579885" name="Athens" >}}
 
 ## Sublocation
 
-- {{< id vocab="Pleiades" id="969121823" term="Areopagus" >}}
+- {{< id vocab="Pleiades" id="969121823" name="Areopagus" >}}
 
 
 ## Garden
@@ -67,5 +67,5 @@ mid-4th century CE and earlier
 
 ## Places
 
-- {{< id vocab="Pleiades" id="969121823" term="Areopagus" >}}
-- {{< id vocab="TGN" id="7001393" term="Athens (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="969121823" name="Areopagus" >}}
+- {{< id vocab="TGN" id="7001393" name="Athens (inhabited place)" >}}

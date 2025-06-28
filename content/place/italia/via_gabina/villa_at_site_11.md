@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Villa at site 11]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="622606468" term="Villa at site 11" >}}
+- {{< id vocab="Pleiades" id="622606468" name="Villa at site 11" >}}
 
 ## Sublocation
 Via Gabina
@@ -58,5 +58,5 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="622606468" term="Via Praenestina" >}}
+- {{< id vocab="Pleiades" id="622606468" name="Via Praenestina" >}}
 

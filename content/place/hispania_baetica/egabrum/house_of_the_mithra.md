@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Egabrum]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="265919" term="Egabrum" >}}
+- {{< id vocab="Pleiades" id="265919" name="Egabrum" >}}
 
 ## Garden
 
@@ -68,8 +68,8 @@ unspecified
 
 ## Places
 - [Igabrum/Egabrum]{{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="265919" term="Igabrum/Egabrum" >}}
-- {{< id vocab="TGN" id="7007570" term="Cabra (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="265919" name="Igabrum/Egabrum" >}}
+- {{< id vocab="TGN" id="7007570" name="Cabra (inhabited place)" >}}
 
 
 ## Publication date

@@ -13,12 +13,12 @@ draft: true
 ## Province
 
 [Palencia]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="236591" term="Palencia" >}}
+- {{< id vocab="Pleiades" id="236591" name="Palencia" >}}
 
 ## Location
 
 - [PEDROSA DE LA VEGA]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="236579" term="La Olmeda" >}}
+- {{< id vocab="Pleiades" id="236579" name="La Olmeda" >}}
 
 ## Location Description
 The size, quality, and excellent state of preservation of the mosaics of this villa make it an arehaeological jewel.  In an area known since the Middle Ages as La Olmeda (the Elm Grove), it was discovered in 1968 by Javier Cortes, the owner of the land, as he was about to level the area for an irrigation project.  He immediately recognized its value and involved Pedro de Paloa, a professional archaeologist. Its scientific exploration was financed by Cortes until the site was given to the provincial government  in 1980.  Excavation continued to 1986.  Great care has been taken to preserve the mosaics and lower parts of the villa walls in their original place.  In 2005, construction began on a new, 6.2 million euro protective shell and facility to accommodate some 40,000 visitors a year.  The Museo Monográfico de la Villa de Pedrosa de la Vega has been created in the old chuch of San Pedro in Saldaña to display the many tools, coins, ceramics, glass and other daily objects from the villa and the extensive nearby cemeteries.  
@@ -64,7 +64,7 @@ The large number of objects of daily life found in the ruins, some under toppled
 
 ## Places
 
-- {{< id vocab="Pleiades" id="236579" term="La Olmeda" >}}
+- {{< id vocab="Pleiades" id="236579" name="La Olmeda" >}}
 
 ## Publication date
 

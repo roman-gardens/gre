@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Niederzier-Hambach]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="109210" term="Niederzier-Hambach" >}}
+- {{< id vocab="Pleiades" id="109210" name="Niederzier-Hambach" >}}
 
 ## Location Description
 
@@ -62,8 +62,8 @@ Late first century CE until the fourth century CE.
 
 ## Places
 
-- {{< id vocab="Pleiades" id="109210" term="Niederzier-Hambach" >}}
-- {{< id vocab="TGN" id="7128518" term="Niederzier (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="109210" name="Niederzier-Hambach" >}}
+- {{< id vocab="TGN" id="7128518" name="Niederzier (inhabited place)" >}}
 
 ## Publication date
 21 Apr 2021

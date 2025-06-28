@@ -13,13 +13,13 @@ draft: true
 ## Province
 
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
 
 ## Location
 
 - [Rome]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
+- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
 
 ## Sublocation
 
@@ -105,6 +105,6 @@ at the edge of these structures might have belonged to the [attic](http://vocab.
 <!--
 ## Places
 
-- {{< id vocab="Pleiades" id="" term="" >}}
+- {{< id vocab="Pleiades" id="" name="" >}}
 
 -->

@@ -49,6 +49,6 @@ Whether the *impluvium* of 30.20 square meters (a) of **House F** in insula II o
 <!--
 ## Places
 places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" term="" >}}
-- {{< id vocab="TGN" id="" term="" >}}
+- {{< id vocab="Pleiades" id="" name="" >}}
+- {{< id vocab="TGN" id="" name="" >}}
 -->

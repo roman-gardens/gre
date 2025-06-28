@@ -20,7 +20,7 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 ## Location
 
-- {{< id vocab="Pleiades" id="462410" term="Palermo" >}}
+- {{< id vocab="Pleiades" id="462410" name="Palermo" >}}
 
 ## Garden
 
@@ -57,7 +57,7 @@ A pool, still frescoed in blue, has recently been uncovered at the south end of 
 
 ## Places
 
-- {{< id vocab="Pleiades" id="462410" term="Pan(h)ormus" >}}
+- {{< id vocab="Pleiades" id="462410" name="Pan(h)ormus" >}}
 
 
 ## Publication date

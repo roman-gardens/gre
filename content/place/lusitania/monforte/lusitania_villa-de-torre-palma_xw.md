@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="1101" term="Lusitania" >}}
+- {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 - [Monforte]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="256478" term="Torre de Palma" >}}
+- {{< id vocab="Pleiades" id="256478" name="Torre de Palma" >}}
 
 ## Garden
 Villa de Torre de Palma
@@ -72,7 +72,7 @@ The third phase distinguished by Maloney and Hale covered several building campa
 
 ## Places
 
-- {{< id vocab="Pleiades" id="256478" term="Torre de Palma" >}}
+- {{< id vocab="Pleiades" id="256478" name="Torre de Palma" >}}
 
 ## Publication date
 

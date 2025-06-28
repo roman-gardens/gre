@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 - [Africa Proconsularis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
+- {{< id vocab="Pleiades" id="991341" name="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -20,7 +20,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 ## Location
 
 - [Gigthis (Bou Ghara)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="344380" term="Gigthis" >}}
+- {{< id vocab="Pleiades" id="344380" name="Gigthis" >}}
 
 ## Location Description
 The important site Gigthis (50ha) largely excavated in the beginning of the last century by Constans was located on the opposite side of the Jerba Island, on the Gulf of Bou Grara. The remains of Gigthis stretches out along the foothills going down the coast in a fertile region known for its olive groves.
@@ -70,8 +70,8 @@ unknown
 
 
 ## Places
-- {{< id vocab="Pleiades" id="344380" term="Gigthis" >}}
-- {{< id vocab="TGN" id="5003665" term="Gigthi (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="344380" name="Gigthis" >}}
+- {{< id vocab="TGN" id="5003665" name="Gigthi (deserted settlement)" >}}
 
 ## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Mauretania]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981532" term="Mauretania Caesariensis (province)(Pleiades)" >}}
+- {{< id vocab="Pleiades" id="981532" name="Mauretania Caesariensis (province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 - [Caesarea]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="295279" term="Iol Caesarea" >}}
+- {{< id vocab="Pleiades" id="295279" name="Iol Caesarea" >}}
 
 ## Location Description
 
@@ -77,7 +77,7 @@ There is very little information about this house, only two semi circular pools 
 
 ## Places
 
-- {{< id vocab="Pleiades" id="125904444" term="House of the Two Pools" >}}
+- {{< id vocab="Pleiades" id="125904444" name="House of the Two Pools" >}}
 
 ## Publication date
 

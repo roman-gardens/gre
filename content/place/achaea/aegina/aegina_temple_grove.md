@@ -44,5 +44,5 @@ Evidence for a temple grove on Aegina exists only in a literary reference. Pausa
 - {{< keyword "olive trees" >}}
 
 ## Places
-- {{< id vocab="Pleiades" id="579844" term="Aegina (island)" >}}
-- {{< id vocab="TGN" id="7011087" term="Aegina (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="579844" name="Aegina (island)" >}}
+- {{< id vocab="TGN" id="7011087" name="Aegina (inhabited place)" >}}

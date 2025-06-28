@@ -19,7 +19,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 - [Chaeronea]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="540701" term="Chaeronea" >}}
+- {{< id vocab="Pleiades" id="540701" name="Chaeronea" >}}
 
 ## Garden
 
@@ -56,5 +56,5 @@ probably the first or second century
 
 ## Places
 
-- {{< id vocab="Pleiades" id="540701" term="Chaeronea" >}}
-- {{< id vocab="TGN" id="7010731" term="Chaironeia (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="540701" name="Chaeronea" >}}
+- {{< id vocab="TGN" id="7010731" name="Chaironeia (inhabited place)" >}}

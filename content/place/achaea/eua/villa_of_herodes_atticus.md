@@ -19,7 +19,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 - [Eua]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="570241" term="Eua" >}}
+- {{< id vocab="Pleiades" id="570241" name="Eua" >}}
 
 ## Garden
 
@@ -69,4 +69,4 @@ From the 2nd century CE until 400 CE
 
 ## Places
 
-- {{< id vocab="Pleiades" id="570241" term="Eua?" >}}
+- {{< id vocab="Pleiades" id="570241" name="Eua?" >}}

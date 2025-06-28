@@ -30,5 +30,5 @@ Delos is a small island in the center of the Cyclades measuring about five kilom
 
 
 ## Places
-- {{< id vocab="Pleiades" id="599588" term="Delos (island)" >}}
-- {{< id vocab="TGN" id="7011273" term="Dhílos, Nisís (island)" >}}
+- {{< id vocab="Pleiades" id="599588" name="Delos (island)" >}}
+- {{< id vocab="TGN" id="7011273" name="Dhílos, Nisís (island)" >}}

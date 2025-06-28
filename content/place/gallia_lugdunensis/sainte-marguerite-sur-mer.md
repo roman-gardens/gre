@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Sainte-Marguerite-sur-Mer (Seine-Maritime, France)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="109153" term="Sainte-Marguerite-sur-Mer" >}}
+- {{< id vocab="Pleiades" id="109153" name="Sainte-Marguerite-sur-Mer" >}}
 
 ## Garden
 Sainte-Marguerite-sur-Mer (Seine-Maritime) Roman Villa
@@ -63,8 +63,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="109153" term="Mediolanum Aulercorum" >}}
-- {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
+- {{< id vocab="Pleiades" id="109153" name="Mediolanum Aulercorum" >}}
+- {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
 <!-- Maureen Carroll ? -->

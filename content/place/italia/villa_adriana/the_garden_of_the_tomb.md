@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Region
 
@@ -22,7 +22,7 @@ Region IV
 
 ## Location
 
-- {{< id vocab="Pleiades" id="423127" term="Hadrian's Villa" >}}
+- {{< id vocab="Pleiades" id="423127" name="Hadrian's Villa" >}}
 
 ## Location Description
 
@@ -35,7 +35,7 @@ The realization of this magnificent residence must have been a cherished dream o
 ## Garden
 
 The garden of the tomb (Fig. 1, n. 21)\
-- {{< id vocab="Pleiades" id="379689233" term="Piazza d'Oro at Hadrian's Villa" >}}
+- {{< id vocab="Pleiades" id="379689233" name="Piazza d'Oro at Hadrian's Villa" >}}
 
 ## Keywords
 
@@ -81,10 +81,10 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="423127" term="Villa Hadriani" >}}
+- {{< id vocab="Pleiades" id="423127" name="Villa Hadriani" >}}
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-- {{< id vocab="TGN" id="7006983" term="Hadrian's Villa (ruins)" >}}
+- {{< id vocab="TGN" id="7006983" name="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
 ## Contributor

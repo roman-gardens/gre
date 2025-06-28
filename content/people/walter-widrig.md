@@ -12,4 +12,4 @@ Professor of Art History Emeritus, Rice University
 https://arthistory.rice.edu/in-memoriam/walter-widrig
 
 
-{{< id vocab="WorldCat" id="E39PCjHvwBcWkKGHVC9Tm7PTXm" term="Walter M. Widrig" >}}
+{{< id vocab="WorldCat" id="E39PCjHvwBcWkKGHVC9Tm7PTXm" name="Walter M. Widrig" >}}

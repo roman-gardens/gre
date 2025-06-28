@@ -13,7 +13,7 @@ draft: false
 ## Location
 
 - [Latimer]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="79555" term="Latimer" >}}
+- {{< id vocab="Pleiades" id="79555" name="Latimer" >}}
 
 ## Garden
 
@@ -57,8 +57,8 @@ early 4th century CE - unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="79555" term="Latimer" >}}
-- {{< id vocab="TGN" id="1029792" term="Latimer (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="79555" name="Latimer" >}}
+- {{< id vocab="TGN" id="1029792" name="Latimer (inhabited place)" >}}
 
 ## Publication date
 21 Apr 2021

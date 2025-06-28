@@ -64,8 +64,8 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="187290" term="Aquileia" >}}
-- {{< id vocab="TGN" id="7005553" term="Aquileia (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="187290" name="Aquileia" >}}
+- {{< id vocab="TGN" id="7005553" name="Aquileia (inhabited place)" >}}
 
 ## Contributor
 

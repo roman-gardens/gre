@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Altinum]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="197110" term="Altinum" >}}
+- {{< id vocab="Pleiades" id="197110" name="Altinum" >}}
 
 ## Sublocation
 
@@ -62,8 +62,8 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="197110" term="Altinum" >}}
-- {{< id vocab="TGN" id="4000603" term="Altino (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="197110" name="Altinum" >}}
+- {{< id vocab="TGN" id="4000603" name="Altino (inhabited place)" >}}
 
 ## Contributor
 

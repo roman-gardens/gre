@@ -33,5 +33,5 @@ draft: true
 ## Places
 
 - [Macedonia (Roman province)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="981531" term="Macedonia (Roman province)" >}}
-- {{< id vocab="TGN" id="7001349" term="Macedonia (former nation/state/empire)" >}}
+- {{< id vocab="Pleiades" id="981531" name="Macedonia (Roman province)" >}}
+- {{< id vocab="TGN" id="7001349" name="Macedonia (former nation/state/empire)" >}}

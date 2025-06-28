@@ -20,7 +20,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## House
 <!-- invalid
-- {{< id vocab="Pleiades" id="998787235" term="II.iii.4-6" >}}
+- {{< id vocab="Pleiades" id="998787235" name="II.iii.4-6" >}}
 -->
 
 ## Garden
@@ -50,7 +50,7 @@ B. The small garden to the rear of house 4 had an entrance into this large open 
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="998787235" term="998787235" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="998787235" name="998787235" >}} is invalid -->
 
 
 ## Contributor

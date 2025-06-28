@@ -19,7 +19,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 - [Pallene]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="580051" term="Pallene" >}}
+- {{< id vocab="Pleiades" id="580051" name="Pallene" >}}
 
 ## Garden
 
@@ -79,5 +79,5 @@ unspecified (mentioned in the 2nd century CE)
 
 ## Places
 
-- {{< id vocab="Pleiades" id="580051" term="Pallene" >}}
-- {{< id vocab="TGN" id="7002739" term="Argolís (regional division)" >}}
+- {{< id vocab="Pleiades" id="580051" name="Pallene" >}}
+- {{< id vocab="TGN" id="7002739" name="Argolís (regional division)" >}}

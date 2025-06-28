@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [DUROCORTORUM (Reims, France)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="108945" term="Durocortorum" >}}
+- {{< id vocab="Pleiades" id="108945" name="Durocortorum" >}}
 
 
 <!--## Sublocation-->
@@ -70,8 +70,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="108945" term="Durocortorum" >}}
-- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
+- {{< id vocab="Pleiades" id="108945" name="Durocortorum" >}}
+- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
 ## Contributor
 <!-- Maureen Carroll ? -->

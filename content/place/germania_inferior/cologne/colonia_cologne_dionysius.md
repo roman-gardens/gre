@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Cologne]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="108751" term="Cologne" >}}
+- {{< id vocab="Pleiades" id="108751" name="Cologne" >}}
 
 ## Location Description
 
@@ -61,8 +61,8 @@ Reign of Vespasian until the end of the fourth century CE
 
 ## Places
 
-- {{< id vocab="Pleiades" id="108751" term="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}  
-- {{< id vocab="TGN" id="7004446" term="Cologne (inhabited place)" >}}  
+- {{< id vocab="Pleiades" id="108751" name="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}  
+- {{< id vocab="TGN" id="7004446" name="Cologne (inhabited place)" >}}  
 
 ## Publication date
 

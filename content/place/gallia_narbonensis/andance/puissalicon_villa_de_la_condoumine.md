@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Gallia Narbonensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
+- {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 - [andance]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="167644" term="Andance" >}}
+- {{< id vocab="Pleiades" id="167644" name="Andance" >}}
 
 ## Location Description
 
@@ -79,9 +79,9 @@ A.D. 75-100 built
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="1031774" term="Andance (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="1031774" name="Andance (inhabited place)" >}}
 
 ## Contributor
 

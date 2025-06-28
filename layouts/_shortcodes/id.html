@@ -2,15 +2,15 @@
 
 Example usage (in a garden article):
 
-{{< id vocab="Pleiades" id="579844" term="Aegina (island)" >}}
-{{< id vocab="TGN" id="7011087" term="Aegina (inhabited place)" >}}
+{{< id vocab="Pleiades" id="579844" name="Aegina (island)" >}}
+{{< id vocab="TGN" id="7011087" name="Aegina (inhabited place)" >}}
 
 */}}
 
 {{/* Get the values specified in the call to the id shortcode */}}
 {{ $vocab := .Get "vocab" }}
 {{ $id := .Get "id" }}
-{{ $term := .Get "term" }}
+{{ $name := .Get "name" }}
 
 {{/* Load the list of known vocabularies */}}
 {{- $vocabs := dict -}}
@@ -20,9 +20,9 @@ Example usage (in a garden article):
 {{- end -}}
 
 
-{{/* Link the term*/}}
-{{- with $term -}}
-  <a href="/search/?q={{ $term }}">{{ $term }}</a>
+{{/* Link the name*/}}
+{{- with $name -}}
+  <a href="/search/?q={{ $name }}">{{ $name }}</a>
 {{- end -}}
 
 {{ $url := "" }}
@@ -35,7 +35,7 @@ Example usage (in a garden article):
     <a target="_blank" href="{{ urls.JoinPath $url $id }}" title="{{ $vocabname }}">{{ $vocab }}: {{ $id }}</a>
 {{ end }}
 
-{{/* linebreak if we aren't showing the term (as in ORCID/WorldCat on a people page) */}}
-{{ if not $term }}
+{{/* linebreak if we aren't showing the name (as in ORCID/WorldCat on a people page) */}}
+{{ if not $name }}
     <br>
 {{ end }}

@@ -13,11 +13,11 @@ draft: false
 
 ## Province
 - [Italia]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 - [Pompeii]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -41,8 +41,8 @@ Three wide doorways led from the atrium of this house, which did not have a tabl
 {{< image src="fig.16_region_viii.insula_v.png" alt="Fig. 16, Plan of  Region VIII, Insula V" title="Plan of  Region VIII, Insula V" >}}
 
 ## Places
-- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
+- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
 Unspecified

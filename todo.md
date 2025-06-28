@@ -123,9 +123,9 @@
 - [ ] add "modified" date (and try to simplify date to omit time)
 - [ ] place archetype: date, description, image/plan/map, bibliography, keywords, place(s), linked IDs
 - [ ] add gre_id/aliases for places, update citation example
-
 - [ ] fix or remove empty links -- search for "(#)"
 - [ ] backslashes \
+- [ ] search: use lunr to remove stopwords from searches
 
 
 

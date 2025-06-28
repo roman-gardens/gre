@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Italica]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="256231" term="Italica" >}}
+- {{< id vocab="Pleiades" id="256231" name="Italica" >}}
 
 ## Location Description
 
@@ -74,8 +74,8 @@ unspecified
 
 ## Places
 - [House of the Birds at Italica]{{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="623258561" term="House of the Birds at Italica" >}}
-- {{< id vocab="TGN" id="7007822" term="Itálica (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="623258561" name="House of the Birds at Italica" >}}
+- {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}
 
 
 ## Publication date

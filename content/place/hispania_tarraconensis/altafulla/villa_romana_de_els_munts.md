@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 - [Hispania Tarraconensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981551" term="Tarraconensis(Pleiades)" >}}
+- {{< id vocab="Pleiades" id="981551" name="Tarraconensis(Pleiades)" >}}
 
 ## Province Description
 
@@ -43,7 +43,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 - [Villa dels Munts]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="250016" term="Villa dels Munts" >}}
+- {{< id vocab="Pleiades" id="250016" name="Villa dels Munts" >}}
 
 ## Garden
 Villa Romana de els Munts
@@ -78,8 +78,8 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 
 
 ## Places
-- {{< id vocab="Pleiades" id="250016" term="Villa dels Munts" >}}
-- {{< id vocab="TGN" id="7344921" term="Altafulla (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="250016" name="Villa dels Munts" >}}
+- {{< id vocab="TGN" id="7344921" name="Altafulla (inhabited place)" >}}
 
 
 ## Contributor

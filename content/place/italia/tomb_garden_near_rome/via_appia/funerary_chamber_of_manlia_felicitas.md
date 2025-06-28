@@ -11,8 +11,8 @@ draft: true
 ---
 
 ## Location
-- {{< id vocab="Pleiades" id="356966898" term="Via Appia" >}}
-- {{< id vocab="Pleiades" id="990721366" term="Funerary Chamber of Manlia Felicitas" >}}
+- {{< id vocab="Pleiades" id="356966898" name="Via Appia" >}}
+- {{< id vocab="Pleiades" id="990721366" name="Funerary Chamber of Manlia Felicitas" >}}
 
 ## Sublocation
 Via Appia
@@ -50,7 +50,7 @@ When Vignon returned to the site thirteen years later, the underground chamber c
 
 ## Places
 
-- {{< id vocab="Pleiades" id="990721366" term="Funerary Chamber of Manlia Felicitas" >}}
+- {{< id vocab="Pleiades" id="990721366" name="Funerary Chamber of Manlia Felicitas" >}}
 
 
 ## Contributor

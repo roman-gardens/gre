@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Orbe]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="177598" term="Orbe" >}}
+- {{< id vocab="Pleiades" id="177598" name="Orbe" >}}
 
 ## Garden
 
@@ -60,8 +60,8 @@ House: mid-1st century CE - 4th century
 
 ## Places
 
-- {{< id vocab="Pleiades" id="177598" term="Orbe Gallo-Roman Villa" >}}
-- {{< id vocab="TGN" id="7007438" term="Orbe (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="177598" name="Orbe Gallo-Roman Villa" >}}
+- {{< id vocab="TGN" id="7007438" name="Orbe (inhabited place)" >}}
 
 ## Publication date
 21 Apr 2021

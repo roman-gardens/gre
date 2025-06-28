@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Location
-- {{< id vocab="Pleiades" id="422959" term="Laurentes" >}}
+- {{< id vocab="Pleiades" id="422959" name="Laurentes" >}}
 
 ## Sublocation
 laurentinum
@@ -73,7 +73,7 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="422959" term="Laurentes" >}}
+- {{< id vocab="Pleiades" id="422959" name="Laurentes" >}}
 
 
 ## Contributor

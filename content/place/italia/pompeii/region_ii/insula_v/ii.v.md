@@ -132,4 +132,4 @@ The entrance directly across from the amphitheater was designed to be an archite
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="444848573" term="Large Vineyard" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="444848573" name="Large Vineyard" >}} is invalid -->

@@ -12,11 +12,11 @@ draft: false
 
 ## Province
 - [Italia]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 - [Pompeii]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
@@ -48,8 +48,8 @@ W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed
 Vittorio Spinazzola, 1910-1923, *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza, pp.376 (after map in which the garden is labelled hortus) 481 on pp.409-416, 418.*  
 
 ## Places
-- {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
+- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 1916, 1918 and 1921.

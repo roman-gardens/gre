@@ -14,7 +14,7 @@ draft: true
 ## Province
 
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 
 ## Location
@@ -48,8 +48,8 @@ This humble house had a huge garden (a) which was entered from the long fauceson
 
 
 ## Places
-- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
+- {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
 
 ## Dates

@@ -14,7 +14,7 @@ draft: false
 ## Province
 
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 
 ## Location
@@ -52,8 +52,8 @@ The Palaestra was crossed by Burbon tunnels in 1756-1760 and partially excavated
 {{< image src="h_garden_casa_rilievo.jpg" alt="Herculaneum - Garden at rear of Casa del Rilievo di Telefo" title="Herculaneum - Garden at rear of Casa del Rilievo di Telefo." >}}
 
 ## Places
-- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
+- {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 

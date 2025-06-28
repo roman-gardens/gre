@@ -12,11 +12,11 @@ draft: false
 
 ## Province
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 - [Pompeii]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
@@ -67,7 +67,7 @@ B. The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the east
 
 ## Places
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
-- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
+- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
 Excavated 1869.

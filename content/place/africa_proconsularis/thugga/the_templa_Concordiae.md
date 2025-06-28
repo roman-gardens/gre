@@ -12,7 +12,7 @@ draft: false
 
 ## Province
 - [Africa Proconsularis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
+- {{< id vocab="Pleiades" id="991341" name="Africa proconsularis" >}}
 
 ## Province Description
 
@@ -20,7 +20,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 - [THUGGA (Dougga) Tunisia]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="315223" term="THUGGA (Dougga) Tunisia" >}}
+- {{< id vocab="Pleiades" id="315223" name="THUGGA (Dougga) Tunisia" >}}
 
 
 {{< image src="dougga_the_templa_concordiae.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
@@ -64,8 +64,8 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 
 ## Places
 
-- {{< id vocab="Pleiades" id="315223" term="Thugga/Tokai?" >}}
-- {{< id vocab="TGN" id="7017996" term="Dougga (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="315223" name="Thugga/Tokai?" >}}
+- {{< id vocab="TGN" id="7017996" name="Dougga (deserted settlement)" >}}
 
 ## Publication date
 21 Apr 2021

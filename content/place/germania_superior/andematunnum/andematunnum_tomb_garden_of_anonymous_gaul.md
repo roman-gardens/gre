@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Andematunnum]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="177441" term="Andematunnum" >}}
+- {{< id vocab="Pleiades" id="177441" name="Andematunnum" >}}
 
 ## Garden
 
@@ -63,8 +63,8 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="177441" term="Andematunnum" >}}
-- {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
+- {{< id vocab="Pleiades" id="177441" name="Andematunnum" >}}
+- {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
 
 ## Contributor
 

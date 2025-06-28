@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [WELSCHBILLIG (Germany)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="109456" term="Roman Villa at Welschbillig" >}}
+- {{< id vocab="Pleiades" id="109456" name="Roman Villa at Welschbillig" >}}
 
 
 <!--## Sublocation-->
@@ -71,8 +71,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="109456" term="Roman Villa at Welschbillig" >}}
-- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
+- {{< id vocab="Pleiades" id="109456" name="Roman Villa at Welschbillig" >}}
+- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
 ## Contributor
 <!-- Maureen Carroll ? -->

@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [NEMETACUM (Arras, France)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="109194" term="Nemetacum" >}}
+- {{< id vocab="Pleiades" id="109194" name="Nemetacum" >}}
 
 ## Garden
 House on rue de la Fraternité
@@ -58,8 +58,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="109194" term="Nemetacum" >}}
-- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
+- {{< id vocab="Pleiades" id="109194" name="Nemetacum" >}}
+- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
 ## Contributor
 <!-- Maureen Carroll ? -->

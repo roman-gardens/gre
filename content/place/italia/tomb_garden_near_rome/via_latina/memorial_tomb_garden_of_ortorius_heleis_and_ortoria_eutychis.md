@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [via latina]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="93042695" term="Via Latina" >}}
+- {{< id vocab="Pleiades" id="93042695" name="Via Latina" >}}
 
 ## Sublocation
 
@@ -51,5 +51,5 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="93042695" term="Via Latina" >}}
-- {{< id vocab="TGN" id="6006328" term="Via Latina (road)" >}}
+- {{< id vocab="Pleiades" id="93042695" name="Via Latina" >}}
+- {{< id vocab="TGN" id="6006328" name="Via Latina (road)" >}}

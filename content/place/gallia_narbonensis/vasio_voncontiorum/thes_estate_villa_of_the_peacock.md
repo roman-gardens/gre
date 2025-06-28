@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Gallia_narbonensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
+- {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 - [forum_julii]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="307416064" term="forum_julii" >}}
+- {{< id vocab="Pleiades" id="307416064" name="forum_julii" >}}
 
 ## Location Description
 
@@ -77,9 +77,9 @@ A.D. 70-100
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="7008791" term="Fréjus (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7008791" name="Fréjus (inhabited place)" >}}
 
 ## Contributor
 

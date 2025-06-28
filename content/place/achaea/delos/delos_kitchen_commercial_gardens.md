@@ -52,6 +52,6 @@ The variety of trees and plants cultivated in ancient Delos is known from the ep
 <!--
 ## Places
 places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" term="" >}}
-- {{< id vocab="TGN" id="" term="" >}}
+- {{< id vocab="Pleiades" id="" name="" >}}
+- {{< id vocab="TGN" id="" name="" >}}
 -->

@@ -12,7 +12,7 @@ draft: false
 
 ## Province
 - [Numidia]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981539" term="Numidia" >}}
+- {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
 
 ## Province Description
 
@@ -21,7 +21,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 ## Location
 
 - [Thamugadi]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}
+- {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}
 
 {{< image src="timgad_city_plan_house_of_the_sertius.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
 
@@ -72,8 +72,8 @@ This large *domus* the result of the combining of two houses, is located at the 
 
 ## Places
 
-- {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}
-- {{< id vocab="TGN" id="7001328" term="Timgad (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}
+- {{< id vocab="TGN" id="7001328" name="Timgad (deserted settlement)" >}}
 
 ## Publication date
 

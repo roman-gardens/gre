@@ -44,8 +44,8 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="89144" term="Cilurnum" >}}
-- {{< id vocab="TGN" id="7026064" term="Chesters (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="89144" name="Cilurnum" >}}
+- {{< id vocab="TGN" id="7026064" name="Chesters (inhabited place)" >}}
 
 ## Contributor
 

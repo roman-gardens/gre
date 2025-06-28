@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Baelo Claudia]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="256005" term="Baelo Claudia" >}}
+- {{< id vocab="Pleiades" id="256005" name="Baelo Claudia" >}}
 
 ## Location Description
 
@@ -67,8 +67,8 @@ unspecified
 
 ## Places
 - [House of the West at Baelo]{{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="574194294" term="House of the West at Baelo" >}}
-- {{< id vocab="TGN" id="8712326" term="Baelo Claudia (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="574194294" name="House of the West at Baelo" >}}
+- {{< id vocab="TGN" id="8712326" name="Baelo Claudia (deserted settlement)" >}}
 
 
 ## Publication date

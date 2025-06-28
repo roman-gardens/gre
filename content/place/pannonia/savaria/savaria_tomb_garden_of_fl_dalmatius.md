@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Savaria]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="197498" term="Savaria" >}}
+- {{< id vocab="Pleiades" id="197498" name="Savaria" >}}
 
 ## Garden
 
@@ -53,8 +53,8 @@ A limestone slab found near the monastery of St. Martin in Szombathely (Savaria)
 
 ## Places
 
-- {{< id vocab="Pleiades" id="197498" term="Savaria" >}}
-- {{< id vocab="TGN" id="4008442" term="Pannonia (general region)" >}}
+- {{< id vocab="Pleiades" id="197498" name="Savaria" >}}
+- {{< id vocab="TGN" id="4008442" name="Pannonia (general region)" >}}
 
 ## Contributor
 

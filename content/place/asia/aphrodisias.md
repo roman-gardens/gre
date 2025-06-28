@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 [Asia]({{<relref "..">}})
-- {{< id vocab="Pleiades" id="981509" term="Asia" >}}
+- {{< id vocab="Pleiades" id="981509" name="Asia" >}}
 
 ## Province description
 The region of what is now modern Turkey became a part of the Roman Empire in 133 B.C. when king Attalos III of Pergamum bequeathed his kingdom to the Roman people.  The province included the heartland of the Pergamene kingdom as well as the territories of Mysia, Lydia, Ionia, Caria, western Phrygia and the eastern Aegean islands.  Under Augustus in 27 B.C. Asia was declared a senatorial province and the governance of a proconsul.  The capital of the province was Ephesos, although Pergamon may have fulfilled this role initially.  Under Diocletian (284-305 A.D.) the province was subdivided into smaller administrative units: Hellespontus, Asia, Lydia, Caria, Phrygia I and Phrygia II.  Due to its excellent harbors on the west coast and its many navigable rivers, Asia’s water-borne trade with the rest of the Mediterranean flourished.  In the second century A.D. Asia experienced great prosperity, to which the growth and architectural aggrandizement of many of its cities attest. In the area of Kibyra, bordering the regions of Lycia, Caria, Phrygia and Pisidia, numerous inscriptions refer to the large imperial estates of Roman families.  Woolen textiles, marble, and timber constituted a significant part of the commodities exported from the province.  
@@ -32,7 +32,7 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 ## Location
 
 - [Geyre, Caria region, Turkey]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="638753" term="Aphrodisias " >}}
+- {{< id vocab="Pleiades" id="638753" name="Aphrodisias " >}}
 
 ## Location Description
 Aphrodisias (*Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis*), in Caria, was home to the cult image of Aphrodite of Aphrodisias. Located about 100 miles from the port at Smyrna, the area featured important marble quarries of the Hellenistic and Roman era. An abundance of sculpture has been found during excavations, and inscriptions indicate that the art landscape as well as architectural settings.
@@ -41,7 +41,7 @@ Aphrodisias (*Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis*), in Ca
 
 <!-- invalid id
 ## Sublocation
-- {{< id vocab="Pleiades" id="827863015" term="Place of the Palms" >}}
+- {{< id vocab="Pleiades" id="827863015" name="Place of the Palms" >}}
 -->
 
 <!--
@@ -96,8 +96,8 @@ Unspecified
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="827863015" term="82786301" >}} is invalid -->
-- {{< id vocab="TGN" id="7002358" term="Caria (former nation/state/empire)" >}}
+<!-- {{< id vocab="Pleiades" id="827863015" name="82786301" >}} is invalid -->
+- {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
 
 ## Publication date
 

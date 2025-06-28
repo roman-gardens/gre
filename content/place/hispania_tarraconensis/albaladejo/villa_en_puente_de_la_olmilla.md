@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 - [Hispania Tarraconensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981551" term="Tarraconensis(Pleiades)" >}}
+- {{< id vocab="Pleiades" id="981551" name="Tarraconensis(Pleiades)" >}}
 
 
 ## Province Description
@@ -43,7 +43,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 - [Puente de la Olmilla]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="266009" term="Puente de la Olmilla" >}}
+- {{< id vocab="Pleiades" id="266009" name="Puente de la Olmilla" >}}
 
 ## Garden
 Villa en Puente de la Olmilla
@@ -74,8 +74,8 @@ This fourth-century villa was discovered in 1973.  An apse and a figured mosaic 
 
 
 ## Places
-- {{< id vocab="Pleiades" id="266009" term="Puente de la Olmilla" >}}
-- {{< id vocab="TGN" id="7347952" term="Albaladejito (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="266009" name="Puente de la Olmilla" >}}
+- {{< id vocab="TGN" id="7347952" name="Albaladejito (inhabited place)" >}}
 
 
 ## Contributor

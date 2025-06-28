@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Mauretania]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981533" term="Mauretania Tingitana (province)(Pleiades)" >}}
+- {{< id vocab="Pleiades" id="981533" name="Mauretania Tingitana (province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 [Volubilis]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="275740" term="Volubilis" >}}
+- {{< id vocab="Pleiades" id="275740" name="Volubilis" >}}
 
 ## Location Description
 
@@ -66,7 +66,7 @@ Third century CE
 
 ## Places
 
-- {{< id vocab="Pleiades" id="125904446" term="House of the Ephebe" >}}
+- {{< id vocab="Pleiades" id="125904446" name="House of the Ephebe" >}}
 
 ## Publication date
 

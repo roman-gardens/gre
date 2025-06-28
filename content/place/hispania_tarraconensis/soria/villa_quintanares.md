@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Soria]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="694916885" term="Soria" >}}
+- {{< id vocab="Pleiades" id="694916885" name="Soria" >}}
 
 ## Location
 
@@ -58,4 +58,4 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="614074944" term="Rioseco Di Soria" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="614074944" name="Rioseco Di Soria" >}} is invalid -->

@@ -13,12 +13,12 @@ draft: true
 ## Province
 
 [Toledo]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="266066" term="Toletum" >}}
+- {{< id vocab="Pleiades" id="266066" name="Toletum" >}}
 
 ## Location
 
 - [Rielves]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="266044" term="El Solao" >}}
+- {{< id vocab="Pleiades" id="266044" name="El Solao" >}}
 
 ## Location Description
 A village of about 600 inhabitants 19 kilometers northwest of Toledo.  The ruins of the villa are often called "termas" (baths).
@@ -66,7 +66,7 @@ The large number of objects of daily life found in the ruins, some under toppled
 
 ## Places
 
-- {{< id vocab="Pleiades" id="266044" term="El Solao" >}}
+- {{< id vocab="Pleiades" id="266044" name="El Solao" >}}
 
 ## Publication date
 

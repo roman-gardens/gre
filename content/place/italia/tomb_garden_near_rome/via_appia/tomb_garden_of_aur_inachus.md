@@ -11,8 +11,8 @@ draft: true
 ---
 
 ## Location
-- {{< id vocab="Pleiades" id="356966898" term="Via Appia" >}}
-- {{< id vocab="Pleiades" id="811119037" term="Tomb Garden of Aur(elius) Inachus" >}}
+- {{< id vocab="Pleiades" id="356966898" name="Via Appia" >}}
+- {{< id vocab="Pleiades" id="811119037" name="Tomb Garden of Aur(elius) Inachus" >}}
 
 ## Sublocation
 Via Appia
@@ -46,4 +46,4 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="811119037" term="Tomb Garden of Aur(elius) Inachus" >}}
+- {{< id vocab="Pleiades" id="811119037" name="Tomb Garden of Aur(elius) Inachus" >}}

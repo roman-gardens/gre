@@ -13,24 +13,24 @@ draft: false
 ## Province
 
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
 
 ## Location
 
 - [Rome]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
+- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
 
 ## Sublocation
 
 - [Region IX Circus Flaminius]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="422863" term="Campus Martius" >}}
+- {{< id vocab="Pleiades" id="422863" name="Campus Martius" >}}
 
 
 ## Garden
 
 Garden of the Porticus of Pompey \
-- {{< id vocab="Pleiades" id="165546433" term="Porticus Pompei" >}}
+- {{< id vocab="Pleiades" id="165546433" name="Porticus Pompei" >}}
 
 ## Keywords
 
@@ -111,4 +111,4 @@ Augustus’ remodeling of the theater and *porticus* (in 32 BCE), discussed abov
 
 ## Places
 
-- {{< id vocab="Pleiades" id="165546433" term="Porticus Pompei" >}}
+- {{< id vocab="Pleiades" id="165546433" name="Porticus Pompei" >}}

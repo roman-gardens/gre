@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Region
 
@@ -22,7 +22,7 @@ Region IV
 
 ## Location
 
-- {{< id vocab="Pleiades" id="423127" term="Hadrian's Villa" >}}
+- {{< id vocab="Pleiades" id="423127" name="Hadrian's Villa" >}}
 
 ## Location Description
 
@@ -35,7 +35,7 @@ The realization of this magnificent residence must have been a cherished dream o
 ## Garden
 
 The Stadium-garden (Fig. 1, n. 4)
-- {{< id vocab="Pleiades" id="190433997" term="Stadium-garden at Hadrian's Villa" >}}
+- {{< id vocab="Pleiades" id="190433997" name="Stadium-garden at Hadrian's Villa" >}}
 
 ## Keywords
 
@@ -113,10 +113,10 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="190433997" term="Stadium-garden at Hadrian's Villa" >}}
+- {{< id vocab="Pleiades" id="190433997" name="Stadium-garden at Hadrian's Villa" >}}
 <!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
 
-- {{< id vocab="TGN" id="7006983" term="Hadrian's Villa (ruins)" >}}
+- {{< id vocab="TGN" id="7006983" name="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
 ## Contributor

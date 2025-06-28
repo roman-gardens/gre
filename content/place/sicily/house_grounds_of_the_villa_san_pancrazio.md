@@ -20,7 +20,7 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 ## Location
 
-- {{< id vocab="Pleiades" id="462506" term="Syracuse" >}}
+- {{< id vocab="Pleiades" id="462506" name="Syracuse" >}}
 
 ## Garden
 
@@ -61,7 +61,7 @@ Pool types: L. Farrar, Ancient Roman Gardens, Stroud, 1998, pp. 71–84.[(worldc
 
 ## Places
 
-- {{< id vocab="Pleiades" id="462506" term="Tauromenium" >}}
+- {{< id vocab="Pleiades" id="462506" name="Tauromenium" >}}
 
 
 ## Publication date

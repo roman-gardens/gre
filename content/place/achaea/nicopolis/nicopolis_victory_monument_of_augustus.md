@@ -14,7 +14,7 @@ draft: false
 ## Location
 
 [Nicopolis]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="531013" term="Nicopolis" >}}
+- {{< id vocab="Pleiades" id="531013" name="Nicopolis" >}}
 
 ## Garden
 
@@ -80,5 +80,5 @@ last quarter of the 1st century BCE and later
 
 ## Places
 
-- {{< id vocab="Pleiades" id="531013" term="Nicopolis" >}}
-- {{< id vocab="TGN" id="7011016" term="Nicopolis (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="531013" name="Nicopolis" >}}
+- {{< id vocab="TGN" id="7011016" name="Nicopolis (deserted settlement)" >}}

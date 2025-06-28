@@ -14,7 +14,7 @@ draft: true
 ## Province
 
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 
 ## Location
@@ -61,8 +61,8 @@ NEW WAY ↓↓↓↓
 {{< image src="Herc. II.3   68.6.57.jpg" alt="Illustration of Casadetta del Genio" title="Illustration of Casadetta del Genio" >}}
 
 ## Places
-- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
+- {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 -
 ## Dates
 

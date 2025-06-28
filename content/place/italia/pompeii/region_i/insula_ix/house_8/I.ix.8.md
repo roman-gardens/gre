@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Pompeii]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Sublocation
 
@@ -75,8 +75,8 @@ unspecified - 70 CE
 
 ## Places
 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
+- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ## Contributor
 

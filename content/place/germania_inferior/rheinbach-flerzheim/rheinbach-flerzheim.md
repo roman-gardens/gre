@@ -60,10 +60,10 @@ Second century CE to mid-fifth century CE
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981524" term="Germania Inferior" >}}
+- {{< id vocab="Pleiades" id="981524" name="Germania Inferior" >}}
 <!-- germania imferior; no pleiades location -->
 
-- {{< id vocab="TGN" id="7192890" term="Flerzheim (inhabited place)" >}}
+- {{< id vocab="TGN" id="7192890" name="Flerzheim (inhabited place)" >}}
 
 ## Publication date
 21 Apr 2021

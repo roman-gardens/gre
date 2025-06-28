@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Gallia Narbonensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
+- {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 - [cavalaire_sur_mer]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="157901" term="cavalaire_sur_mer" >}}
+- {{< id vocab="Pleiades" id="157901" name="cavalaire_sur_mer" >}}
 
 ## Location Description
 
@@ -72,8 +72,8 @@ A,D. 200-300 garden transformed into a court then a dump
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
 
 
 ## Contributor

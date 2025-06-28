@@ -13,18 +13,18 @@ draft: false
 ## Province
 
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
 
 ## Location
 
 - [Rome]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
+- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
 
 ## Sublocation
 
 - [Palatine]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
+- {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
 
 ## Garden
@@ -71,4 +71,4 @@ RELATED PHASES ON THE PALATINE:
 
 ## Places
 
-- {{< id vocab="Pleiades" id="584305092" term="Temple of the Severan family" >}}
+- {{< id vocab="Pleiades" id="584305092" name="Temple of the Severan family" >}}

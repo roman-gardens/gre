@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [via tiburtina]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="272213281" term="Via Tiburtina" >}}
+- {{< id vocab="Pleiades" id="272213281" name="Via Tiburtina" >}}
 
 ## Sublocation
 
@@ -48,7 +48,7 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="272213281" term="Via Tiburtina" >}}
+- {{< id vocab="Pleiades" id="272213281" name="Via Tiburtina" >}}
 
 ## Publication date
 

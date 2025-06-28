@@ -14,7 +14,7 @@ draft: false
 ## Province
 
 - [Italia]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 
@@ -51,8 +51,8 @@ B. From the atrium the peristyle on the lower level was reached by way of a stee
 {{< image src="herc.i.2,3_42.19.64.jpg" alt="Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Places
-- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
+- {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 Unspecified

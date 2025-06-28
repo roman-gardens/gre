@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="1101" term="Lusitania" >}}
+- {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 - [Olisipo]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="256338" term="Olisipo" >}}
+- {{< id vocab="Pleiades" id="256338" name="Olisipo" >}}
 
 ## Garden
 Tomb Garden of Flavius M. f. Quadratus
@@ -61,7 +61,7 @@ An inscription found immured in the corner of a house near Lisbon around 1735 re
 
 ## Places
 
-- {{< id vocab="Pleiades" id="256338" term="Olisipo" >}}
+- {{< id vocab="Pleiades" id="256338" name="Olisipo" >}}
 
 ## Publication date
 

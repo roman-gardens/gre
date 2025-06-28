@@ -53,6 +53,6 @@ The core building of the **House of Fourni** is arranged along a main axis with 
 <!--
 ## Places
 places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" term="" >}}
-- {{< id vocab="TGN" id="" term="" >}}
+- {{< id vocab="Pleiades" id="" name="" >}}
+- {{< id vocab="TGN" id="" name="" >}}
 -->

@@ -13,7 +13,7 @@ draft: false
 ## Location
 
 - [Gatcombe]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="79477" term="Gatcombe" >}}
+- {{< id vocab="Pleiades" id="79477" name="Gatcombe" >}}
 
 ## Garden
 
@@ -51,8 +51,8 @@ ca. 280-380 CE
 
 ## Places
 
-- {{< id vocab="Pleiades" id="79477" term="Gatcombe" >}}
-- {{< id vocab="TGN" id="7026972" term="Gatcombe (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="79477" name="Gatcombe" >}}
+- {{< id vocab="TGN" id="7026972" name="Gatcombe (inhabited place)" >}}
 
 ## Publication date
 21 Apr 2021

@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Neerhaaren-Rekem]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="109193" term="Neerhaaren-Rekem" >}}
+- {{< id vocab="Pleiades" id="109193" name="Neerhaaren-Rekem" >}}
 
 ## Garden
 Rural villa at Neerhaaren-Rekem
@@ -54,4 +54,4 @@ Late first century CE
 
 ## Places
 
-- {{< id vocab="Pleiades" id="109193" term="Neerhaaren-Rekem" >}}  
+- {{< id vocab="Pleiades" id="109193" name="Neerhaaren-Rekem" >}}  

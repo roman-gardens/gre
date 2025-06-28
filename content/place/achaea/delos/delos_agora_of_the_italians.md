@@ -69,4 +69,4 @@ Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora
 - {{< keyword "water wells" >}}
 
 ## Places
-- {{< id vocab="Pleiades" id="394168051" term="Agora of the Italians" >}}
+- {{< id vocab="Pleiades" id="394168051" name="Agora of the Italians" >}}

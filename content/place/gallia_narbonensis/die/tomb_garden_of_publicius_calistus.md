@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Gallia Narbonensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
+- {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
 
 <!-- ## Province Description -->
 
@@ -21,7 +21,7 @@ draft: true
 ## Location
 
 - [DIE, France]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="167716" term="DIE, France" >}}
+- {{< id vocab="Pleiades" id="167716" name="DIE, France" >}}
 
 ## Location Description
 
@@ -60,9 +60,9 @@ None Available
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="7009141" term="Die (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7009141" name="Die (inhabited place)" >}}
 
 ## Contributor
 

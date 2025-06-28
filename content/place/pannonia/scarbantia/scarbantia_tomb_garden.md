@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Scarbantia]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="197501" term="Scarbantia" >}}
+- {{< id vocab="Pleiades" id="197501" name="Scarbantia" >}}
 
 
 ## Garden
@@ -52,8 +52,8 @@ A limestone funerary stele of probably third century date unearthed in 1973 near
 
 ## Places
 
-- {{< id vocab="Pleiades" id="197501" term="Scarbantia" >}}
-- {{< id vocab="TGN" id="4008442" term="Pannonia (general region)" >}}
+- {{< id vocab="Pleiades" id="197501" name="Scarbantia" >}}
+- {{< id vocab="TGN" id="4008442" name="Pannonia (general region)" >}}
 
 ## Contributor
 

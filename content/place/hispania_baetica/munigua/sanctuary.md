@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Munigua]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="256318" term="Munigua" >}}
+- {{< id vocab="Pleiades" id="256318" name="Munigua" >}}
 
 ## Garden
 
@@ -58,8 +58,8 @@ unspecified
 
 ## Places
 - [Munigua]{{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="256318" term="Munigua" >}}
-- {{< id vocab="TGN" id="7027137" term="Castillo de Mulva (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="256318" name="Munigua" >}}
+- {{< id vocab="TGN" id="7027137" name="Castillo de Mulva (deserted settlement)" >}}
 
 
 ## Publication date

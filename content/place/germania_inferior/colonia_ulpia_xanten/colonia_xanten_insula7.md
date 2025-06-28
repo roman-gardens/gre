@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Xanten]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="108896" term="Xanten" >}}
+- {{< id vocab="Pleiades" id="108896" name="Xanten" >}}
 
 ## Sublocation
 Industrial quarter
@@ -56,8 +56,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="108896" term="Col. Ulpia Traiana/Tricensimae" >}}
-- {{< id vocab="TGN" id="7208125" term="Colonia Ulpia Traiana (ancient site)" >}}
+- {{< id vocab="Pleiades" id="108896" name="Col. Ulpia Traiana/Tricensimae" >}}
+- {{< id vocab="TGN" id="7208125" name="Colonia Ulpia Traiana (ancient site)" >}}
 
 ## Publication date
 

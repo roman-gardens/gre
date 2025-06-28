@@ -13,7 +13,7 @@ draft: false
 ## Location
 
 - [Fishbourne]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="79466" term="Fishbourne" >}}
+- {{< id vocab="Pleiades" id="79466" name="Fishbourne" >}}
 
 ## Garden
 
@@ -78,8 +78,8 @@ late 1st century CE - unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="79466" term="Fishbourne" >}}
-- {{< id vocab="TGN" id="7032567" term="Fishbourne Roman Palace (historic site)" >}}
+- {{< id vocab="Pleiades" id="79466" name="Fishbourne" >}}
+- {{< id vocab="TGN" id="7032567" name="Fishbourne Roman Palace (historic site)" >}}
 
 ## Publication date
 21 Apr 2021

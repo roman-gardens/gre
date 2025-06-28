@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 - [Hispania Tarraconensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981551" term="Tarraconensis(Pleiades)" >}}
+- {{< id vocab="Pleiades" id="981551" name="Tarraconensis(Pleiades)" >}}
 
 
 ## Province Description
@@ -61,7 +61,7 @@ Unspecified
 - L. Chioffi, *Sui luci sepolcrali*, in Libitina e dintorni, edited by S. Panciera (Rome 2004) n.  9. [(worldcat)](https://search.worldcat.org/title/849004166)
 
 ## Places
-<!-- {{< id vocab="Pleiades" id="521700444" term="Villa del Cortijo de los Vila at Alameda" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="521700444" name="Villa del Cortijo de los Vila at Alameda" >}} is invalid -->
 
 
 ## Contributor

@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Alameda]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="270382" term="Alameda" >}}
+- {{< id vocab="Pleiades" id="270382" name="Alameda" >}}
 
 ## Location Description
 
@@ -61,8 +61,8 @@ unspecified
 ## Places
 
 - [Urgapa]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="270382" term="Urgapa" >}}
-- {{< id vocab="TGN" id="1061700" term="Alameda (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="270382" name="Urgapa" >}}
+- {{< id vocab="TGN" id="1061700" name="Alameda (inhabited place)" >}}
 
 ## Contributor
 

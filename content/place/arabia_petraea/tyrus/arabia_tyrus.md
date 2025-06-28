@@ -12,7 +12,7 @@ draft: false
 
 ## Province
 - [Arabia Petraea]({{<relref "..">}})
-- {{< id vocab="Pleiades" id="981506" term="Arabia (province)" >}}
+- {{< id vocab="Pleiades" id="981506" name="Arabia (province)" >}}
 
 The history of Roman Arabia begins with the death of the Nabataean king, [Rabb'el II Soter](https://en.wikipedia.org/wiki/Rabbel_II_Soter), in A.D. 106. The emperor Trajan annexed the [Nabataean kingdom](https://en.wikipedia.org/wiki/Nabataean_Kingdom)   and organized its territory within the new Roman province of Arabia Petraea that occupied a large area of northwestern Arabia, extending from the Hauran in the north, to the Negev and Sinai deserts in the west, and into the northern Hejaz in the south. The administrative district of Perea, formerly under the Herodian dynasty was also added. The provincial capital of Arabia Petraea was located at [Bostra](https://en.wikipedia.org/wiki/Bosra) which replaced [Petra](https://en.wikipedia.org/wiki/Petra) as the capital of Nabataea in the last decades of that kingdom’s independence. Petra continued to function as an important cultural, political and economic center of the province for at least a century following annexation. During the early Byzantine period (4th-6th centuries CE), the major cities of the Roman era continued to flourish, and Christianity gradually became the accepted religion of the area. Petra remained an important center in the early Byzantine period when it was inhabited by a substantial Christian community and was the seat of a bishopric.
 
@@ -20,7 +20,7 @@ The region of Arabia Petraea is primarily a desert environment that belongs to t
 
 ## Location
 - [Tyrus]({{<relref "..">}})
-- {{< id vocab="Pleiades" id="697757" term="Tyrus" >}}
+- {{< id vocab="Pleiades" id="697757" name="Tyrus" >}}
 
 The Hellenistic/Roman settlement of Tyrus was located in Wadi Seer in the highlands above the northeastern rim of the Dead Sea, about 15 km southwest of Amman, Jordan (Fig. 1). The site, which is often associated with the name of the modern village, [ʻIrāq al-Amīr](https://en.wikipedia.org/wiki/Iraq_al-Amir), boasts a partially restored palace ([Qasr al-Abd](https://pleiades.stoa.org/places/947227732), "Palace of the Servant") dated to the 2nd century BCE. In the hillsides behind the palace is a series of caves that were inhabited as early as the Chalcolithic period.
 
@@ -92,8 +92,8 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 
 
 ## Places
-- {{< id vocab="Pleiades" id="947227732" term="Qasr al-Abd at Tyrus" >}}
-- {{< id vocab="TGN" id="5003214" term="Araq El-Emir (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="947227732" name="Qasr al-Abd at Tyrus" >}}
+- {{< id vocab="TGN" id="5003214" name="Araq El-Emir (inhabited place)" >}}
 
 ## Contributor
 <!-- [name](https://....) -->

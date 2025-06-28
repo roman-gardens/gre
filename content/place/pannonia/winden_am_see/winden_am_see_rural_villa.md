@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Winden Am See]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="197425" term="Winden Am See" >}}
+- {{< id vocab="Pleiades" id="197425" name="Winden Am See" >}}
 
 ## Garden
 
@@ -53,8 +53,8 @@ On the southeast of the house was a vestibule, from which a central corridor dep
 
 ## Places
 
-- {{< id vocab="Pleiades" id="197425" term="Pannonia" >}}
-- {{< id vocab="TGN" id="4008442" term="Pannonia (general region)" >}}
+- {{< id vocab="Pleiades" id="197425" name="Pannonia" >}}
+- {{< id vocab="TGN" id="4008442" name="Pannonia (general region)" >}}
 
 ## Publication date
 21 Apr 2021

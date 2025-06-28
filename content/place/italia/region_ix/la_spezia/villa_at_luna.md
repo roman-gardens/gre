@@ -60,8 +60,8 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="966420455" term="Roman forum of Luna" >}}
-- {{< id vocab="TGN" id="7003143" term="La Spezia (province)" >}}
+- {{< id vocab="Pleiades" id="966420455" name="Roman forum of Luna" >}}
+- {{< id vocab="TGN" id="7003143" name="La Spezia (province)" >}}
 
 ## Contributor
 

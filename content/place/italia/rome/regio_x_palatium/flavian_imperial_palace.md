@@ -13,18 +13,18 @@ draft: false
 ## Province
 
 - [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}\
-- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}\
+- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
 
 ## Location
 
 - [Rome]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
+- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
 
 ## Sublocation
 
 - [Palatine]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
+- {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
 
 ## Garden
@@ -108,7 +108,7 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 
 ## Places
 
-- {{< id vocab="Pleiades" id="971691208" term="Palatinus Mons" >}}
+- {{< id vocab="Pleiades" id="971691208" name="Palatinus Mons" >}}
 
 ## Contributor
 

@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Castra Vetera]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="108867" term="Castra Vetera" >}}
+- {{< id vocab="Pleiades" id="108867" name="Castra Vetera" >}}
 
 ## Garden
 
@@ -55,8 +55,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="108867" term="Castra Vetera" >}}
-- {{< id vocab="TGN" id="7004944" term="Vetera Castra (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="108867" name="Castra Vetera" >}}
+- {{< id vocab="TGN" id="7004944" name="Vetera Castra (deserted settlement)" >}}
 
 ## Publication date
 21 Apr 2021

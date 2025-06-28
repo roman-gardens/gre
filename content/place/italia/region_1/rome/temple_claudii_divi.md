@@ -22,7 +22,7 @@ Italia was not considered a province until the reign of Diocletian. The peninsul
 ## Location
 
 - [Rome]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="108867" term="Rome" >}}
+- {{< id vocab="Pleiades" id="108867" name="Rome" >}}
 
 ## Location Description
 
@@ -30,7 +30,7 @@ Italia was not considered a province until the reign of Diocletian. The peninsul
 
 ## Sublocation
 - [Caelian Hill]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="695491849" term="Caelian Hill" >}}
+- {{< id vocab="Pleiades" id="695491849" name="Caelian Hill" >}}
 
 <!--
 [AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
@@ -81,9 +81,9 @@ The temple is set within eight L-shaped planting beds and fourteen rectangular p
 -->
 
 ## Places
-- {{< id vocab="Pleiades" id="695491849" term="Caelian Hill" >}}
+- {{< id vocab="Pleiades" id="695491849" name="Caelian Hill" >}}
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-- {{< id vocab="TGN" id="7000874" term="Rome (inhabited place)" >}}
+- {{< id vocab="TGN" id="7000874" name="Rome (inhabited place)" >}}
 <!-- ID is for Location (Rome), not the individual garden -->

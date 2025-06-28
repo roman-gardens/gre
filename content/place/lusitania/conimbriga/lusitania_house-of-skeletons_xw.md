@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="1101" term="Lusitania" >}}
+- {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 - [Conimbriga]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="236443" term="Conimbriga" >}}
+- {{< id vocab="Pleiades" id="236443" name="Conimbriga" >}}
 
 ## Location Description
 
@@ -68,7 +68,7 @@ The houses were excavated around 1940, at a time when there was no thought of re
 
 ## Places
 
-- {{< id vocab="Pleiades" id="236443" term="Conimbriga" >}}
+- {{< id vocab="Pleiades" id="236443" name="Conimbriga" >}}
 
 ## Publication date
 

@@ -13,7 +13,7 @@ draft: true
 ## Location
 -- missing in Pleiades --
 - [VINDINUM a.k.a. Subdinnum (Le Mans, France)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="109236" term="VINDINUM a.k.a. Subdinnum" >}}
+- {{< id vocab="Pleiades" id="109236" name="VINDINUM a.k.a. Subdinnum" >}}
 
 
 <!-- ## Sublocation-->
@@ -70,8 +70,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="109236" term="Ouindinon/Subdinnum" >}}
-- {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
+- {{< id vocab="Pleiades" id="109236" name="Ouindinon/Subdinnum" >}}
+- {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
 <!-- Maureen Carroll ? -->

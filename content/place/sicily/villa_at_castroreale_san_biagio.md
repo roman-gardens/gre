@@ -20,7 +20,7 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 ## Location
 
-- {{< id vocab="Pleiades" id="462538" term="Messina" >}}
+- {{< id vocab="Pleiades" id="462538" name="Messina" >}}
 
 ## Garden
 
@@ -57,7 +57,7 @@ R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 199–203,
 
 ## Places
 
-- {{< id vocab="Pleiades" id="462538" term="Zancle/Messana" >}}
+- {{< id vocab="Pleiades" id="462538" name="Zancle/Messana" >}}
 
 
 ## Publication date

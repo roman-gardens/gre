@@ -29,7 +29,7 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 ## Location
 
 - [Nakrason]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="550767" term="Nakrason" >}}
+- {{< id vocab="Pleiades" id="550767" name="Nakrason" >}}
 
 ## Garden
 
@@ -83,7 +83,7 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="811119038" term="Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus at Nakrason" >}}
+- {{< id vocab="Pleiades" id="811119038" name="Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus at Nakrason" >}}
 
 
 ## Contributor

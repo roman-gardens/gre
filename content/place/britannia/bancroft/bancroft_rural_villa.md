@@ -59,8 +59,8 @@ late 3rd century CE, rebuilt and enlarged in the mid-4th century
 
 ## Places
 
-- {{< id vocab="Pleiades" id="79312" term="Bancroft Roman villa" >}}
-- {{< id vocab="TGN" id="7030316" term="Britannia (province)" >}}
+- {{< id vocab="Pleiades" id="79312" name="Bancroft Roman villa" >}}
+- {{< id vocab="TGN" id="7030316" name="Britannia (province)" >}}
 
 ## Publication date
 21 Apr 2021

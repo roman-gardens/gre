@@ -13,12 +13,12 @@ draft: false
 ## Province
 
 - [Italia]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 
 - [Ostia]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
+- {{< id vocab="Pleiades" id="422995" name="Ostia" >}}
 
 ## Location Description
 
@@ -49,7 +49,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 ## Garden
 
 House of Amor and Psyche \
-- {{< id vocab="Pleiades" id="868515126" term="House of Amor and Psyche" >}}
+- {{< id vocab="Pleiades" id="868515126" name="House of Amor and Psyche" >}}
 
 ## Keywords
 
@@ -108,8 +108,8 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="868515126" term="House of Amor and Psyche" >}}
-- {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="868515126" name="House of Amor and Psyche" >}}
+- {{< id vocab="TGN" id="7007018" name="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor

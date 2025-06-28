@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Bad Kreuznach]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="981525" term="Bad Kreuznach" >}}
+- {{< id vocab="Pleiades" id="981525" name="Bad Kreuznach" >}}
 
 ## Garden
 
@@ -68,8 +68,8 @@ Second half of 2nd century - around 275
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
-- {{< id vocab="TGN" id="7012371" term="Bad Kreuznach (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="981525" name="Germania Superior" >}}
+- {{< id vocab="TGN" id="7012371" name="Bad Kreuznach (inhabited place)" >}}
 
 ## Publication date
 21 Apr 2021

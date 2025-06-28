@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Alameda]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="270382" term="Alameda" >}}
+- {{< id vocab="Pleiades" id="270382" name="Alameda" >}}
 
 ## Location Description
 
@@ -64,8 +64,8 @@ unspecified
 ## Places
 
 - [Villa del Cortijo de los Vila at Alameda]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="521700444" term="Villa del Cortijo de los Vila at Alameda" >}}
-- {{< id vocab="TGN" id="1061700" term="Alameda (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="521700444" name="Villa del Cortijo de los Vila at Alameda" >}}
+- {{< id vocab="TGN" id="1061700" name="Alameda (inhabited place)" >}}
 
 
 ## Publication date

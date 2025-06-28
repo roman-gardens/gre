@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Voerendaal]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="109442" term="Voerendaal" >}}  
+- {{< id vocab="Pleiades" id="109442" name="Voerendaal" >}}  
 
 ## Garden
 
@@ -61,8 +61,8 @@ Early second century CE to ca. 300 CE
 
 ## Places
 
-- {{< id vocab="Pleiades" id="109442" term="Voerendaal" >}}
-- {{< id vocab="TGN" id="7272601" term="Voerendaal (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="109442" name="Voerendaal" >}}
+- {{< id vocab="TGN" id="7272601" name="Voerendaal (inhabited place)" >}}
 
 ## Publication date
 21 Apr 2021

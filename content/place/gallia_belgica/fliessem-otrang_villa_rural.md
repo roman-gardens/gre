@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [FLIESSEM-OTRANG  (Germany)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="108982" term="Römische Villa Otrang" >}}
+- {{< id vocab="Pleiades" id="108982" name="Römische Villa Otrang" >}}
 
 
 <!--## Sublocation-->
@@ -70,8 +70,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="108982" term="Römische Villa Otrang" >}}
-- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
+- {{< id vocab="Pleiades" id="108982" name="Römische Villa Otrang" >}}
+- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
 ## Contributor
 <!-- Maureen Carroll ? -->

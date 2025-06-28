@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Gallia Narbonensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
+- {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 - [caumont_sur_durance]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="352400034" term="caumont_sur_durance" >}}
+- {{< id vocab="Pleiades" id="352400034" name="caumont_sur_durance" >}}
 
 ## Location Description
 
@@ -88,10 +88,10 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
+- {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
 
 
-- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
 
 
 ## Contributor

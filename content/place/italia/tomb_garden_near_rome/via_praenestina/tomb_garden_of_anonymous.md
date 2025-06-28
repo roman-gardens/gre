@@ -12,7 +12,7 @@ draft: true
 
 ## Location
 
-- {{< id vocab="Pleiades" id="622606468" term="Via Praenestina" >}}
+- {{< id vocab="Pleiades" id="622606468" name="Via Praenestina" >}}
 
 ## Sublocation
 
@@ -47,7 +47,7 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="622606468" term="Via Praenestina" >}}
+- {{< id vocab="Pleiades" id="622606468" name="Via Praenestina" >}}
 
 
 ## Publication date

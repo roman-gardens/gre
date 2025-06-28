@@ -13,12 +13,12 @@ draft: false
 ## Province
 
 - [Italia]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 
 - [Ostia]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
+- {{< id vocab="Pleiades" id="422995" name="Ostia" >}}
 
 ## Location Description
 
@@ -102,8 +102,8 @@ partially excavated between June 1972 and January 1973
 
 ## Places
 
-- {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
+- {{< id vocab="Pleiades" id="422995" name="Ostia" >}}
 <!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 
-- {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
+- {{< id vocab="TGN" id="7007018" name="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->

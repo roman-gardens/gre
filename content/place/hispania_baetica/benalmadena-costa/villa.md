@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Benalmadena-Costa]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="510567671" term="Benalmadena-Costa" >}}
+- {{< id vocab="Pleiades" id="510567671" name="Benalmadena-Costa" >}}
 
 ## Garden
 
@@ -58,4 +58,4 @@ unspecified
 
 ## Places
 - [Benalroma]{{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="510567671" term="Benalroma" >}}
+- {{< id vocab="Pleiades" id="510567671" name="Benalroma" >}}

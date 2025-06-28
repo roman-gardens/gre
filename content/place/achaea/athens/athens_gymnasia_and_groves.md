@@ -60,5 +60,5 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 
 ## Places
 
-- {{< id vocab="Pleiades" id="122572945" term="Lyceum" >}}
+- {{< id vocab="Pleiades" id="122572945" name="Lyceum" >}}
 

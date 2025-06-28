@@ -17,11 +17,11 @@ draft: true
 ## Location
 
 - [Rome]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
+- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
 
 ## Sublocation
 Caelian Hill \
-- {{< id vocab="Pleiades" id="695491849" term="Caelius Mons" >}}
+- {{< id vocab="Pleiades" id="695491849" name="Caelius Mons" >}}
 
 
 ## Garden
@@ -70,5 +70,5 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="695491849" term="Caelian Hill" >}}
-- {{< id vocab="TGN" id="7000874" term="Rome (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="695491849" name="Caelian Hill" >}}
+- {{< id vocab="TGN" id="7000874" name="Rome (inhabited place)" >}}

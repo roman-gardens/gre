@@ -13,12 +13,12 @@ draft: true
 ## Province
 
 [Sagunto]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="266020" term="Sagunto" >}}
+- {{< id vocab="Pleiades" id="266020" name="Sagunto" >}}
 
 ## Location
 
 - [Saguntum]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="266021" term="Saguntum/Arse" >}}
+- {{< id vocab="Pleiades" id="266021" name="Saguntum/Arse" >}}
 
 ## Garden
 Tomb garden and baths of P. Caecil(ius) Rufus and Valeria
@@ -55,7 +55,7 @@ A marble slab found at Puçol (Puzol) near Saguntum, now lost,  but originally p
 
 ## Places
 
-- {{< id vocab="Pleiades" id="266021" term="Saguntum/Arse" >}}
+- {{< id vocab="Pleiades" id="266021" name="Saguntum/Arse" >}}
 
 ## Publication date
 

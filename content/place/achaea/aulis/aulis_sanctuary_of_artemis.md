@@ -20,7 +20,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 - [Aulis]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="579889" term="Aulis" >}}
+- {{< id vocab="Pleiades" id="579889" name="Aulis" >}}
 
 
 ## Garden
@@ -68,5 +68,5 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="579889" term="Aulis" >}}
-- {{< id vocab="TGN" id="5004252" term="Avlida (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="579889" name="Aulis" >}}
+- {{< id vocab="TGN" id="5004252" name="Avlida (inhabited place)" >}}

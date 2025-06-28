@@ -51,8 +51,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="108778" term="Autricum" >}}
-- {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
+- {{< id vocab="Pleiades" id="108778" name="Autricum" >}}
+- {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
 <!-- Maureen Carroll ? -->

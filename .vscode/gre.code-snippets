@@ -5,7 +5,7 @@
 		"scope": "markdown",
 		"prefix": "id",
 		"body": [
-			"- {{< id vocab=\"$1\" id=\"$2\" term=\"$3\" >}}",
+			"- {{< id vocab=\"$1\" id=\"$2\" name=\"$3\" >}}",
 			"$0"
 		],
 		"description": "GRE id shortcode"

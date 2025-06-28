@@ -14,13 +14,13 @@ draft: true
 ## Province
 
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 
 ## Location
 
 - [Herculaneum]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
 
 ## Location Description
@@ -63,8 +63,8 @@ NEW WAY ↓↓↓↓
 
 
 ## Places
-- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
+- {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 

@@ -13,18 +13,18 @@ draft: false
 ## Province
 
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
 
 ## Location
 
 - [Rome]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
+- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
 
 ## Sublocation
 
 - [Region IX Circus Flaminius]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="422863" term="Campus Martius" >}}
+- {{< id vocab="Pleiades" id="422863" name="Campus Martius" >}}
 
 
 ## Garden
@@ -83,4 +83,4 @@ The *Thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](http://data.perseus
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="22073979" term="Thermae Agrippae" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="22073979" name="Thermae Agrippae" >}} is invalid -->

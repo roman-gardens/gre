@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Thessaloniki]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="491741" term="Thessaloniki" >}}
+- {{< id vocab="Pleiades" id="491741" name="Thessaloniki" >}}
 
 ## Garden
 
@@ -58,8 +58,8 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 
 ## Places
 
-- {{< id vocab="Pleiades" id="491741" term="Thessalonica" >}}
-- {{< id vocab="TGN" id="7011182" term="Salonika (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="491741" name="Thessalonica" >}}
+- {{< id vocab="TGN" id="7011182" name="Salonika (inhabited place)" >}}
 
 ## Contributor
 

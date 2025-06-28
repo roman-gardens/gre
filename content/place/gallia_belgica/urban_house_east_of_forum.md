@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [COLONIA AUGUSTA TREVERORUM (Trier, Germany)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="108894" term="Col. Augusta Treverorum" >}}
+- {{< id vocab="Pleiades" id="108894" name="Col. Augusta Treverorum" >}}
 
 ## Garden
 Urban House East of Forum
@@ -59,8 +59,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="108894" term="Col. Augusta Treverorum" >}}
-- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
+- {{< id vocab="Pleiades" id="108894" name="Col. Augusta Treverorum" >}}
+- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
 ## Contributor
 <!-- Maureen Carroll ? -->

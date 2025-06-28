@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="1101" term="Lusitania" >}}
+- {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
 
 ## Province Description
 
@@ -61,4 +61,4 @@ The remains of a large villa were discovered in 1900 under an abandoned Benedict
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="532133456" term="Lavra" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="532133456" name="Lavra" >}} is invalid -->

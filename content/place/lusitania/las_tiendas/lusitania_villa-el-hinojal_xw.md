@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="1101" term="Lusitania" >}}
+- {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
 
 ## Province Description
 
@@ -65,7 +65,7 @@ The house appears to have been built at the end of the third or beginning of the
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="213630148" term="Las Tiendas" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="213630148" name="Las Tiendas" >}} is invalid -->
 
 ## Publication date
 

@@ -14,7 +14,7 @@ draft: false
 ## Location
 
 - [Corinth]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="570182" term="Corinth" >}}
+- {{< id vocab="Pleiades" id="570182" name="Corinth" >}}
 
 ## Garden
 
@@ -66,5 +66,5 @@ BIBLIOGRAPHY:
 
 ## Places
 
-- {{< id vocab="Pleiades" id="570182" term="Corinthus/Korinthos" >}}
-- {{< id vocab="TGN" id="7010734" term="Corinth (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="570182" name="Corinthus/Korinthos" >}}
+- {{< id vocab="TGN" id="7010734" name="Corinth (inhabited place)" >}}

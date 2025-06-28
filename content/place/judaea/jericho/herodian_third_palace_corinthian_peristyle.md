@@ -13,7 +13,7 @@ draft: false
 ## Province
 
 - [Judaea]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981527" term="Iudaea (province)" >}}
+- {{< id vocab="Pleiades" id="981527" name="Iudaea (province)" >}}
 
 ## Province Description
 Judaea, the Roman province, included parts of the areas of the [Hasmonean](https://en.wikipedia.org/wiki/Hasmonean_dynasty) and [Herodian](https://en.wikipedia.org/wiki/Herodian_dynasty) kingdoms, notably Biblical Judah, Samaria, and Edom. Its capital was Caesarea Maritima. Roman influence in the region began in 63 CE, when the Roman general [Pompey the Great](https://en.wikipedia.org/wiki/Pompey) conquered Syria from Mithridates of Pontus, besieged Jerusalem, and captured the Second Temple; he appointed Hyrcanus, one of the two Hasmonean brothers fighting for kingship, as ethnarch of Judaea. Later, Julius Caesar  appointed [Antipater](https://en.wikipedia.org/wiki/Antipater_the_Idumaean), the father of Herod, as  Judaea's first Roman Procurator. Later these ties allowed [Herod](https://en.wikipedia.org/wiki/Herod_the_Great) to seek backing from Rome against the Hasmoneans in 40 BCE, when the Senate recognized him as “king of the Jews.”  His [territories](https://en.wikipedia.org/wiki/Herodian_Kingdom_of_Judea) came to include the regions of Galilee, Gaulanitis (the Golan),Peraea and the Decapolis, and Augustus later granted him the coastal cities, Batanaea, Auranitis, and Trachonitis. Herod balanced his allegiance to Rome with the independence of his kingdom, often employing architectural projects to express his ambitions and control of nature to express his capacity to rule . His many palaces, placed strategically around the kingdom, feature dramatically designed landscapes and gardens.  Upon his death, his son and heir Archelaus was unable to maintain order and the major part of Judaea was annexed to Syria in 6 CE, with its own prefect, while two other sons of Herod, Philip and Antipas, received territories as tetrarchs. By the time of [Trajan](https://en.wikipedia.org/wiki/Trajan), Judea was reduced in size and many of the Herodian palaces abandoned, preserving them over the millennia for archaeologists. [Hadrian](https://en.wikipedia.org/wiki/Hadrian) renamed the province  After the [Bar Kochba revolts (132-135)](https://en.wikipedia.org/wiki/Bar_Kokhba_revolt)Hadrian renamed the province Syria Palaestina, erasing the name of Judaea.  
@@ -23,7 +23,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 ## Location
 
 - [Jericho]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="687917" term="Jericho" >}}
+- {{< id vocab="Pleiades" id="687917" name="Jericho" >}}
 
 ## Location Description
 
@@ -96,7 +96,7 @@ With porticoes on three sides and measuring 23 x 14.5m, this courtyard, known as
 
 ## Places
 
-- {{< id vocab="Pleiades" id="687917" term="Jericho" >}}
+- {{< id vocab="Pleiades" id="687917" name="Jericho" >}}
 
 <!--## TGN ID
 

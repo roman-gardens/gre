@@ -19,7 +19,7 @@ The provincial capital was Corinth. Under Nero] in the mid-1st century A.D. Epir
 ## Location
 
 - [Phigaleia]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="570598" term="Phigaleia" >}}
+- {{< id vocab="Pleiades" id="570598" name="Phigaleia" >}}
 
 ## Garden
 
@@ -66,5 +66,5 @@ unspecified (mentioned in the 2nd century CE)
 
 ## Places
 
-- {{< id vocab="Pleiades" id="570598" term="Phigaleia" >}}
-- {{< id vocab="TGN" id="5004240" term="Phigalia (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="570598" name="Phigaleia" >}}
+- {{< id vocab="TGN" id="5004240" name="Phigalia (inhabited place)" >}}

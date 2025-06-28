@@ -20,7 +20,7 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 ## Location
 
-- {{< id vocab="Pleiades" id="462538" term="Messina" >}}
+- {{< id vocab="Pleiades" id="462538" name="Messina" >}}
 
 ## Garden
 
@@ -59,7 +59,7 @@ G. Voza, L’attivita della Soprintendenza alle Antichita della Sicilia Oriental
 
 ## Places
 
-- {{< id vocab="Pleiades" id="462538" term="Zancle/Messana" >}}
+- {{< id vocab="Pleiades" id="462538" name="Zancle/Messana" >}}
 
 
 ## Publication date

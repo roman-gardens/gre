@@ -47,5 +47,5 @@ NEEDED - search bibliography for plans.
 
 ## Places
 
-- {{< id vocab="Pleiades" id="807514119" term="Agora of Athens" >}}
-- {{< id vocab="TGN" id="5004159" term="Agorá (ancient site)" >}}
+- {{< id vocab="Pleiades" id="807514119" name="Agora of Athens" >}}
+- {{< id vocab="TGN" id="5004159" name="Agorá (ancient site)" >}}

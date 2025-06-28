@@ -29,7 +29,7 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 ## Location
 
 - [Pergamum (Pergamon; Bergama, Turkey)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="550812" term="Pergamum" >}}
+- {{< id vocab="Pleiades" id="550812" name="Pergamum" >}}
 
 ## Location Description
 
@@ -81,8 +81,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="537932154" term="Temple Grove of Nikephorion at Pergamum" >}}
-- {{< id vocab="TGN" id="7016140" term="Bergama (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="537932154" name="Temple Grove of Nikephorion at Pergamum" >}}
+- {{< id vocab="TGN" id="7016140" name="Bergama (inhabited place)" >}}
 
 ## Publication date
 21 Apr 2021

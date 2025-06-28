@@ -48,6 +48,6 @@ The so-called **perfumery** was equipped with a Rhodian peristyle (e), an open *
 <!--
 ## Places
 places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" term="" >}}
-- {{< id vocab="TGN" id="" term="" >}}
+- {{< id vocab="Pleiades" id="" name="" >}}
+- {{< id vocab="TGN" id="" name="" >}}
 -->

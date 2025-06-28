@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [BAD DURKHEIM-UNGSTEIN (Germany)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="108784" term="Bad Dürkheim" >}}
+- {{< id vocab="Pleiades" id="108784" name="Bad Dürkheim" >}}
 
 ## Garden
 Rural Villa
@@ -59,8 +59,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="108784" term="Bad Dürkheim" >}}
-- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
+- {{< id vocab="Pleiades" id="108784" name="Bad Dürkheim" >}}
+- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
 ## Contributor
 <!-- Maureen Carroll ? -->

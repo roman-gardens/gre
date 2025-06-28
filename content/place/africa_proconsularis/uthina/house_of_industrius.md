@@ -12,7 +12,7 @@ draft: true
 
 ## Province
 - [Africa Proconsularis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
+- {{< id vocab="Pleiades" id="991341" name="Africa proconsularis" >}}
 
 ## Province Description
 The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
@@ -21,7 +21,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 - [UTHINA (Oudna)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="315247" term="UTHINA (Oudna) Tunisia(Pleiades)" >}}
+- {{< id vocab="Pleiades" id="315247" name="UTHINA (Oudna) Tunisia(Pleiades)" >}}
 
 ## Location Description
 Located to the Southeast of the amphitheater, this house was laid out around a peristyle garden of 10 columns that connected by a low wall. A semicircular basin extended into the garden on the NE facing the reception room.
@@ -64,8 +64,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="315247" term="Uthina" >}}
-- {{< id vocab="TGN" id="7024022" term="Oudna (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="315247" name="Uthina" >}}
+- {{< id vocab="TGN" id="7024022" name="Oudna (deserted settlement)" >}}
 
 ## Publication date
 21 Apr 2021

@@ -19,7 +19,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 - [Sicyon]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="570668" term="Sicyon" >}}
+- {{< id vocab="Pleiades" id="570668" name="Sicyon" >}}
 
 ## Garden
 
@@ -78,5 +78,5 @@ unspecified (mentioned in the 2nd century CE)
 
 ## Places
 
-- {{< id vocab="Pleiades" id="570668" term="Sicyon/Demetrias" >}}
-- {{< id vocab="TGN" id="7002741" term="Corinth (regional division)" >}}
+- {{< id vocab="Pleiades" id="570668" name="Sicyon/Demetrias" >}}
+- {{< id vocab="TGN" id="7002741" name="Corinth (regional division)" >}}

@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [BORG (Germany)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="272861914" term="Borg Roman villa" >}}
+- {{< id vocab="Pleiades" id="272861914" name="Borg Roman villa" >}}
 
 ## Garden
 Villa Borg
@@ -71,8 +71,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="272861914" term="Borg Roman villa" >}}
-- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
+- {{< id vocab="Pleiades" id="272861914" name="Borg Roman villa" >}}
+- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
 ## Contributor
 <!-- Maureen Carroll ? -->

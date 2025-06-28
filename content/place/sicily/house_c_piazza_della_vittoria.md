@@ -20,7 +20,7 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 ## Location
 
-- {{< id vocab="Pleiades" id="462410" term="Palermo" >}}
+- {{< id vocab="Pleiades" id="462410" name="Palermo" >}}
 
 ## Garden
 
@@ -57,7 +57,7 @@ R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, p. 127 with re
 
 ## Places
 
-- {{< id vocab="Pleiades" id="462410" term="Pan(h)ormus" >}}
+- {{< id vocab="Pleiades" id="462410" name="Pan(h)ormus" >}}
 
 
 ## Publication date

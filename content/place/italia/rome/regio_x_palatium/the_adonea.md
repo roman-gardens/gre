@@ -17,12 +17,12 @@ draft: true
 ## Location
 
 - [Rome]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
+- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
 
 ## Sublocation
 
 - [Palatine]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
+- {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
 
 ## Garden
@@ -58,4 +58,4 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}
+- {{< id vocab="Pleiades" id="971691208" name="Palatine Hill" >}}

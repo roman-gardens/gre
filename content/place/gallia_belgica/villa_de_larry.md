@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [DIVODURUM MEDIOMATRICORUM (Liéhon, France)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="108927" term="Divodurum/Mettis" >}}
+- {{< id vocab="Pleiades" id="108927" name="Divodurum/Mettis" >}}
 
 
 <!--## Sublocation-->
@@ -81,8 +81,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="108927" term="Divodurum/Mettis" >}}
-- {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
+- {{< id vocab="Pleiades" id="108927" name="Divodurum/Mettis" >}}
+- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
 ## Contributor
 <!-- Maureen Carroll ? -->

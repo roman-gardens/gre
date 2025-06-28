@@ -13,11 +13,11 @@ draft: false
 
 ## Province
 - [Italia]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 - [Pompeii]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
@@ -44,8 +44,8 @@ B. Built on the volcanic ledge, only a triangular segment of this terrace garden
 {{< image src="fig._4_region_viii_insula_ii_14_16_a.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
 
 ## Places
-- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
+- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
 
 ##  Excavation Dates

@@ -83,7 +83,7 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="433204" term="Villa Tiberii" >}}
+- {{< id vocab="Pleiades" id="433204" name="Villa Tiberii" >}}
 
 
 ## Contributor

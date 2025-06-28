@@ -19,7 +19,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 - [Onchestos]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="540984" term="Onchestos" >}}
+- {{< id vocab="Pleiades" id="540984" name="Onchestos" >}}
 
 ## Garden
 
@@ -80,5 +80,5 @@ unspecified (mentioned in the 1st and 2nd century CE)
 
 ## Places
 
-- {{< id vocab="Pleiades" id="540984" term="Onchestos" >}}
-- {{< id vocab="TGN" id="7002683" term="Boeotia (regional division)" >}}
+- {{< id vocab="Pleiades" id="540984" name="Onchestos" >}}
+- {{< id vocab="TGN" id="7002683" name="Boeotia (regional division)" >}}

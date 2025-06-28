@@ -20,7 +20,7 @@ An irrigation system based around the qanat, an underground water channel, was u
 ## Location
 
 - [Jebel Khalid]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="481573620" term="Jebel Khalid" >}}
+- {{< id vocab="Pleiades" id="481573620" name="Jebel Khalid" >}}
 
 ## Location Description
 A colonial military settlement of Macedonian Greeks on the west bank of the Euphrates in North Syria, established in the wake of Alexander the Great's conquests at a control point on the great river highway of the Euphrates (fig.1: location map of Jebel Khalid; fig. 2: aerial view of Jebel Khalid.) By the time the Jebel Khalid palace was constructed in the course of the third century BCE, these resettled Macedonians had been occupying for half a century not only the royal palaces of the Achaemenids, the powerful fifth and fourth century Persian dynasty, but also the palaces of their satraps, the local governors, and we know from literary testimony that both the royal and local palaces boasted paradeisoi, gardens for pleasure and relaxation. It is therefore reasonable that their Greek successors and replacements adopted in the third century what they found to be one of the agreeable and relaxing amenities enjoyed by their fourth-century Persian predecessors.  And from here the concept passed to the Greek builders of elaborate villas as exemplified in Greek South Italy of the second century BCE.
@@ -92,7 +92,7 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 - Inge Nielsen (ed.) *The Royal Palace Institution in the First Millennium BC.* Regional Development and Cultural Change between East and West, Monographs of the Danish Institute at Athens, vol. 4, pp. 215-247.
 
 ## Places
-- {{< id vocab="Pleiades" id="167649937" term="Acropolis palace at Jebel Khalid" >}}
+- {{< id vocab="Pleiades" id="167649937" name="Acropolis palace at Jebel Khalid" >}}
 [#](#)
 
 ## Contributor

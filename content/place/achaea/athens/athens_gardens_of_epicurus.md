@@ -51,5 +51,5 @@ Cicero set the scene in *De finibus* [(5.1.3)](http://data.perseus.org/citations
 
 ## Places
 
-- {{< id vocab="Pleiades" id="310115518" term="Dipylon Gate" >}}
-- {{< id vocab="TGN" id="5004159" term="Agorá (ancient site)" >}}
+- {{< id vocab="Pleiades" id="310115518" name="Dipylon Gate" >}}
+- {{< id vocab="TGN" id="5004159" name="Agorá (ancient site)" >}}

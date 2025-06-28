@@ -13,12 +13,12 @@ draft: false
 
 ## Province
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 
 ## Location
 - [Herculaneum]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
 ## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
@@ -45,8 +45,8 @@ The southern edge of town was against a sharp drop to the sea. A terrace located
 {{< image src="herc._scared_area_south_wall_42.12.64.jpg" alt="Sacred Area Outside the South Walls (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Sacred Area Outside the South Walls (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Places
-- {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-- {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
+- {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
 ## Dates
 Unspecified

@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Gallia Narbonensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
+- {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 - [arausio]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="148054" term="Col. Arausio" >}}
+- {{< id vocab="Pleiades" id="148054" name="Col. Arausio" >}}
 
 ## Location Description
 
@@ -94,9 +94,9 @@ Among the objects found at Cours Pourtoules was a terracotta *oscillum* represen
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="7599818" term="Vaucluse (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7599818" name="Vaucluse (inhabited place)" >}}
 
 ## Contributor
 

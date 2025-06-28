@@ -17,10 +17,10 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 - [Athens]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="579885" term="Athens" >}}
+- {{< id vocab="Pleiades" id="579885" name="Athens" >}}
 
 ## Sublocation
-- {{< id vocab="Pleiades" id="807514119" term="Agora of Athens" >}}
+- {{< id vocab="Pleiades" id="807514119" name="Agora of Athens" >}}
 
 ## Garden
 Palace of the Giants
@@ -60,5 +60,5 @@ early 5th century CE to ca. 530 CE
 * H. Thompson in A. Frantz, *Late Antiquity: A.D. 267-700.* The Athenian Agora XXIV. Princeton, 1988, pp. 95-116, pls. 54-55. [(worldcat)](https://search.worldcat.org/title/63179976).
 
 ## Places
-- {{< id vocab="Pleiades" id="807514119" term="Agora of Athens" >}}
-- {{< id vocab="TGN" id="5004159" term="Agorá (ancient site)" >}}
+- {{< id vocab="Pleiades" id="807514119" name="Agora of Athens" >}}
+- {{< id vocab="TGN" id="5004159" name="Agorá (ancient site)" >}}

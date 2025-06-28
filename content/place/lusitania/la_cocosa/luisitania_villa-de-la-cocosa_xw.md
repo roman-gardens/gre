@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 [Lusitania]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="1101" term="Lusitania" >}}
+- {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 - [La Cocosa]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="256109" term="La Cocosa" >}}
+- {{< id vocab="Pleiades" id="256109" name="La Cocosa" >}}
 
 ## Garden
 Villa de La Cocosa
@@ -65,7 +65,7 @@ Besides the central peristyle, there are several other areas that were possibly 
 
 ## Places
 
-- {{< id vocab="Pleiades" id="256109" term="La Cocosa" >}}
+- {{< id vocab="Pleiades" id="256109" name="La Cocosa" >}}
 
 ## Publication date
 

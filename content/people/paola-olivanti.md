@@ -16,7 +16,7 @@ draft: true
 ## Website
 -->
 
-{{< id vocab="WorldCat" id="E39PCjrmTW8gHk8kFF4kTXBGh3" term="Paola Olivanti" >}}
+{{< id vocab="WorldCat" id="E39PCjrmTW8gHk8kFF4kTXBGh3" name="Paola Olivanti" >}}
 
 
 <!-- Description -->

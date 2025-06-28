@@ -19,7 +19,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 - [Olympia]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="570531" term="Olympia" >}}
+- {{< id vocab="Pleiades" id="570531" name="Olympia" >}}
 
 ## Sublocation
 
@@ -81,5 +81,5 @@ NEW WAY ↓↓↓↓
 
 ## Places
 
-- {{< id vocab="Pleiades" id="570531" term="Olympia" >}}
-- {{< id vocab="TGN" id="7011018" term="Olympia (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="570531" name="Olympia" >}}
+- {{< id vocab="TGN" id="7011018" name="Olympia (deserted settlement)" >}}

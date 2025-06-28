@@ -13,11 +13,11 @@ draft: false
 
 ## Province
 - [Italia]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 - [Pompeii]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
@@ -48,8 +48,8 @@ This house was excavated in 1799 and to the rear of the tablinium there was a po
 {{< image src="fig.3.viii.ii_10.2.59.jpg" alt="Fig 3, 10.2.59, View of insula ii from below (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig 3, 10.2.59, View of insula ii from below (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Places
-- {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
+- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
 
 ##  Excavation Dates

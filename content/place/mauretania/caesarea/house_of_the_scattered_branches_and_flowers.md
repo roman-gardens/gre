@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Mauretania]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981532" term="Mauretania Caesariensis (province)(Pleiades)" >}}
+- {{< id vocab="Pleiades" id="981532" name="Mauretania Caesariensis (province)(Pleiades)" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 ## Location
 
 - [Caesarea]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="295279" term="Iol Caesarea" >}}
+- {{< id vocab="Pleiades" id="295279" name="Iol Caesarea" >}}
 
 ## Location Description
 
@@ -73,7 +73,7 @@ It is assumed that the peristyle and its garden may have had a view over the sea
 
 ## Places
 
-- {{< id vocab="Pleiades" id="602104716" term="House of the Scattered Branches and Flowers" >}}
+- {{< id vocab="Pleiades" id="602104716" name="House of the Scattered Branches and Flowers" >}}
 
 ## Publication date
 

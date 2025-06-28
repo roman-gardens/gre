@@ -11,7 +11,7 @@ draft: true
 ---
 
 ## Location
-- {{< id vocab="Pleiades" id="74935822" term="Via Labicana" >}}
+- {{< id vocab="Pleiades" id="74935822" name="Via Labicana" >}}
 
 ## Sublocation
 Via Labicana
@@ -43,4 +43,4 @@ Unspecified
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="60995119" term="Tomb Garden of Anonymous" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="60995119" name="Tomb Garden of Anonymous" >}} is invalid -->

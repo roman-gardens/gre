@@ -13,18 +13,18 @@ draft: false
 ## Province
 
 - [Italia]({{<relref "../..">}}) 
-- {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" term="Italia, Regio I" >}}
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
+- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
 
 ## Location
 
 - [Rome]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
+- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
 
 ## Sublocation
 
 - [Region IX Circus Flaminius]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="422863" term="Campus Martius" >}}
+- {{< id vocab="Pleiades" id="422863" name="Campus Martius" >}}
 
 
 ## Garden
@@ -72,5 +72,5 @@ From the northern *exedra*, a water [channel](http://vocab.getty.edu/page/aat/30
 
 ## Places
 
-- {{< id vocab="Pleiades" id="423025" term="Roma" >}}
+- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
 <!-- Pleiades resource for Location (Rome), not for the individual garden -->

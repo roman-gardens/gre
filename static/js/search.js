@@ -81,6 +81,9 @@ if (q) {
   let qterms = q.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\W+/g, ' ').trim().split(' ')
   let qall = '+' + qterms.join(' +')
 
+  // remove some stopwords -- TODO: can lunr do this for us?
+  qall = q.replaceAll(/\s?\\+(at|in|of|the)/g, '')
+
   try {
     // Perform the search
     const results = idx.search(qall)

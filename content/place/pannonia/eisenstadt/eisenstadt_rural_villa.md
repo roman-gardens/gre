@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Eisenstadt]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="197425" term="Eisenstadt" >}}
+- {{< id vocab="Pleiades" id="197425" name="Eisenstadt" >}}
 
 
 ## Garden
@@ -54,8 +54,8 @@ Early 2nd century - 4th century
 
 ## Places
 
-- {{< id vocab="Pleiades" id="197425" term="Pannonia" >}}
-- {{< id vocab="TGN" id="7003056" term="Eisenstadt (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="197425" name="Pannonia" >}}
+- {{< id vocab="TGN" id="7003056" name="Eisenstadt (inhabited place)" >}}
 
 ## Publication date
 21 Apr 2021

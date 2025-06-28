@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Arae Flaviae]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="118572" term="Arae Flaviae" >}}
+- {{< id vocab="Pleiades" id="118572" name="Arae Flaviae" >}}
 
 ## Location Description
 
@@ -60,8 +60,8 @@ Complex built at the earliest during the reign of Trajan.
 
 ## Places
 
-- {{< id vocab="Pleiades" id="118572" term="Arae Flaviae" >}}
-- {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
+- {{< id vocab="Pleiades" id="118572" name="Arae Flaviae" >}}
+- {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
 
 ## Publication date
 21 Apr 2021

@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [NOYAL-CHATILLION-SUR-SEICHE (Ille-et-Vilaine, France)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="69488" term="Châtillon-sur-Seiche" >}}
+- {{< id vocab="Pleiades" id="69488" name="Châtillon-sur-Seiche" >}}
 
 ## Garden
 Villa de Châtillon-sur-Seiche
@@ -82,8 +82,8 @@ Unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="69488" term="Châtillon-sur-Seiche" >}}
-- {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
+- {{< id vocab="Pleiades" id="69488" name="Châtillon-sur-Seiche" >}}
+- {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
 <!-- Maureen Carroll ? -->

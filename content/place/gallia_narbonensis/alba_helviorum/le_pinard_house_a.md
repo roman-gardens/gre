@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Gallia Narbonensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981537" term="Gallia Narbonensis" >}}
+- {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 - [alba_helviorum]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="167629" term="alba_helviorum" >}}
+- {{< id vocab="Pleiades" id="167629" name="alba_helviorum" >}}
 
 ## Location Description
 
@@ -70,9 +70,9 @@ The natural slope of the terrain towards the east led to building the house in l
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="8712431" term="Alba-la-Romaine (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="8712431" name="Alba-la-Romaine (inhabited place)" >}}
 
 ## Contributor
 

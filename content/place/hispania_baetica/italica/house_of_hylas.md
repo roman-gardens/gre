@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Italica]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="256231" term="Italica" >}}
+- {{< id vocab="Pleiades" id="256231" name="Italica" >}}
 
 ## Location Description
 
@@ -69,8 +69,8 @@ unspecified
 
 ## Places
 - [House of Hylas at Italica]{{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="634946753" term="House of Hylas at Italica" >}}
-- {{< id vocab="TGN" id="7007822" term="Itálica (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="634946753" name="House of Hylas at Italica" >}}
+- {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}
 
 
 ## Publication date

@@ -13,7 +13,7 @@ draft: true
 ## Province
 
 - [Gallia_narbonensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981537" term="Gallia_narbonensis" >}}
+- {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
 
 ## Province Description
 
@@ -23,7 +23,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 
 - [Toulouse]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="246694" term="Toulouse" >}}
+- {{< id vocab="Pleiades" id="246694" name="Toulouse" >}}
 
 ## Location Description
 
@@ -86,10 +86,10 @@ After original finds in 1979, further vestiges of a domus came to light during s
 
 ## Places
 
-- {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-- {{< id vocab="Pleiades" id="246694" term="Tolosa" >}}
-- {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
-- {{< id vocab="TGN" id="7008441" term="Toulouse (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
+- {{< id vocab="Pleiades" id="246694" name="Tolosa" >}}
+- {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7008441" name="Toulouse (inhabited place)" >}}
 
 ## Contributor
 

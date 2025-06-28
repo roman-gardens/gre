@@ -19,7 +19,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 - [Megalopolis]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="570467" term="Megalopolis" >}}
+- {{< id vocab="Pleiades" id="570467" name="Megalopolis" >}}
 
 ## Garden
 
@@ -78,5 +78,5 @@ unspecified (still flourished in the 2nd century CE)
 
 ## Places
 
-- {{< id vocab="Pleiades" id="570467" term="Megalopolis" >}}
-- {{< id vocab="TGN" id="7010920" term="Megalopolis (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="570467" name="Megalopolis" >}}
+- {{< id vocab="TGN" id="7010920" name="Megalopolis (deserted settlement)" >}}

@@ -14,7 +14,7 @@ draft: false
 ## Location
 
 - [Isthmia]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="570316" term="Isthmia" >}}
+- {{< id vocab="Pleiades" id="570316" name="Isthmia" >}}
 
 ## Garden
 
@@ -74,5 +74,5 @@ unspecified
 
 ## Places
 
-- {{< id vocab="Pleiades" id="107524051" term="Temple of Poseidon at Isthmia" >}}
-- {{< id vocab="TGN" id="5004291" term="Kirás Vrísi (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="107524051" name="Temple of Poseidon at Isthmia" >}}
+- {{< id vocab="TGN" id="5004291" name="Kirás Vrísi (inhabited place)" >}}

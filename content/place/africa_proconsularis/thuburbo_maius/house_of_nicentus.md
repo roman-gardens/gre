@@ -12,7 +12,7 @@ draft: false
 
 ## Province
 - [Africa Proconsularis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="991341" term="Africa proconsularis" >}}
+- {{< id vocab="Pleiades" id="991341" name="Africa proconsularis" >}}
 
 ## Province Description
 
@@ -20,7 +20,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location
 - [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="315220" term="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
+- {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
 {{< image src="thuburbo_house_of_nicentus.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
@@ -65,8 +65,8 @@ It was laid out around a peristyle garden (VI-X) of 12 columns (Plan view, Fig. 
 
 ## Places
 
-- {{< id vocab="Pleiades" id="315220" term="Thuburbo Maius" >}}
-- {{< id vocab="TGN" id="7001750" term="Kasba, Henchir el (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="315220" name="Thuburbo Maius" >}}
+- {{< id vocab="TGN" id="7001750" name="Kasba, Henchir el (deserted settlement)" >}}
 
 ## Contributor
 

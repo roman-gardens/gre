@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Salona]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="197488" term="Salona" >}}
+- {{< id vocab="Pleiades" id="197488" name="Salona" >}}
 
 ## Sublocation
 
@@ -66,8 +66,8 @@ Second half of the second or the third century (CE)
 
 ## Places
 
-- {{< id vocab="Pleiades" id="197488" term="Salona" >}}
-- {{< id vocab="TGN" id="7017320" term="Solin (inhabited place)" >}}
+- {{< id vocab="Pleiades" id="197488" name="Salona" >}}
+- {{< id vocab="TGN" id="7017320" name="Solin (inhabited place)" >}}
 
 ## Contributor
 

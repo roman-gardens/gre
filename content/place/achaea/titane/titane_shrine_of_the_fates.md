@@ -19,7 +19,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Location
 
 - [Titane]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="570741" term="Titane" >}}
+- {{< id vocab="Pleiades" id="570741" name="Titane" >}}
 
 ## Garden
 
@@ -79,6 +79,6 @@ BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 
 ## Places
 
-- {{< id vocab="Pleiades" id="570741" term="Titane" >}}
+- {{< id vocab="Pleiades" id="570741" name="Titane" >}}
 
 <!--## TGN ID-->

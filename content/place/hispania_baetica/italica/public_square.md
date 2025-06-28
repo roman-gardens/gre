@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 - [Italica]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="256231" term="Italica" >}}
+- {{< id vocab="Pleiades" id="256231" name="Italica" >}}
 
 ## Location Description
 
@@ -57,8 +57,8 @@ unspecified
 
 ## Places
 - [Public Square at Italica]{{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="810966695" term="Public Square at Italica" >}}
-- {{< id vocab="TGN" id="7007822" term="Itálica (deserted settlement)" >}}
+- {{< id vocab="Pleiades" id="810966695" name="Public Square at Italica" >}}
+- {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}
 
 
 ## Publication date

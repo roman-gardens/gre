@@ -17,7 +17,7 @@ draft: true
 
 -->
 
-{{< id vocab="WorldCat" id="E39PBJgMFmmBtcfQY6HgqPDjG3" term="Véronique Blanc-Bijon" >}}
+{{< id vocab="WorldCat" id="E39PBJgMFmmBtcfQY6HgqPDjG3" name="Véronique Blanc-Bijon" >}}
 
 <!-- Description -->
 

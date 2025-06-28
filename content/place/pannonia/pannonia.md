@@ -11,7 +11,7 @@ draft: true
 
 ## Province
 
-- {{< id vocab="Pleiades" id="197425" term="Pannonia" >}}
+- {{< id vocab="Pleiades" id="197425" name="Pannonia" >}}
 
 ## Province Description
 
@@ -35,8 +35,8 @@ The creation of the province of Pannonia can be dated to the years following 9 B
 
 ## Places
 
-- {{< id vocab="Pleiades" id="197425" term="Pannonia" >}}
-- {{< id vocab="TGN" id="4008442" term="Pannonia (general region)" >}}
+- {{< id vocab="Pleiades" id="197425" name="Pannonia" >}}
+- {{< id vocab="TGN" id="4008442" name="Pannonia (general region)" >}}
 
 ## Publication date
 21 Apr 2021
