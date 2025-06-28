@@ -68,12 +68,9 @@ Excavated 1873-1874.
 * Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, pp. 446 and fig. 493 (plan) on p. 433.  
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

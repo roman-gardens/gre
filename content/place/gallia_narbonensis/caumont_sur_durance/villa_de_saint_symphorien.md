@@ -5,7 +5,7 @@ type: garden
 title: "Villa de Saint-Symphorien"
 date: 2020-11-15T00:08:52-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,15 +26,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Villa de Muscapeu](#)
-
-<!--## Sublocation Description-->
 
 ## Sublocation Description
 
@@ -45,7 +39,6 @@ Halfway between Avignon and Cavaillon, this villa is west of the present village
 Villa de Muscapeu
 
 
-
 ## Keywords
 
 - {{< keyword "peristyles" >}}
@@ -53,8 +46,6 @@ Villa de Muscapeu
 - {{< keyword "porticoes" >}}
 - {{< keyword "hypocausts" >}}
 - {{< keyword "orchards" >}}
-
-
 
 
 ## Villa Description
@@ -78,10 +69,6 @@ The abandonment of the garden marked its fourth and final stage.  Gradually, the
 In an effort to determine whether the garden was ornamental or productive, Philippe Boissinot, undertook a study of traces of planting in a area that was sealed in antiquity by the collapse of the enclosing wall.  A series of pits could be clearly excavated (Fig. 1&2)  Rectangular holes in lines corresponding to grape cultivation were associated with bigger pits, without doubt those of the trees that supported the vines.  This method of viticulture, widespread in antiquity but rarely identified in the south of France, may well be suggested.  The second zone investigated, against the southeast wall, was without doubt an orchard.
 
 
-
-
-
-
 ## Images
 
 {{< image src="villa_de_saint_symphorien_1.png" alt="Fig. 1 The Villa de Muscapeu" title="Fig. 1 The Villa de Muscapeu" >}}
@@ -89,12 +76,7 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 {{< image src="villa_de_saint_symphorien_2.png" alt="Fig. 2 The Villa de Muscapeu" title="Fig. 2 The Villa de Muscapeu" >}}
 
 
-
-
 ## Dates
-
-
-
 
 
 ## Bibliography
@@ -104,21 +86,17 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 2. D.CARRU, Caumont sur Durance – Saint Symphorien, in *Archéologie en Vaucluse, Journal d’information du service archéologique  départemental de Vaucluse*, 37, déc. 2002, P. 5.
 
 
-
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 
-
-## TGN ID
 
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

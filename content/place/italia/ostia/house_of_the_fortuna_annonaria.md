@@ -118,12 +118,10 @@ unspecified
 * Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, 1996, pp. 123-124. [(worldcat)](https://search.worldcat.org/title/797420782)
 * E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 82-84. [(worldcat)](https://search.worldcat.org/title/1130900997)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 <!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
-
-## TGN ID
 
 - {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->

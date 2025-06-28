@@ -28,7 +28,6 @@ Oppian Hill \
 Esquiline Hill [Esquilinus Mons](https://pleiades.stoa.org/places/679976755) \
 
 
-
 ## Garden
 
 Garden of the Porticus Liviae <!--There does not appear to be a Pleiades place resource for this garden-->
@@ -44,7 +43,6 @@ Garden of the Porticus Liviae <!--There does not appear to be a Pleiades place r
 - {{< keyword "porticoes" >}}
 - {{< keyword "shrines" >}}
 - {{< keyword "statues" >}}
-
 - [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
 - [Ovid](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1018)
 - [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
@@ -87,7 +85,7 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae* IV, Roma, Edizioni Quasar, 1999, "Porticus Liviae" (C. Panella), pp. 127-129; "Subura" (K. Welch), pp. 379-383. [(worldcat)](https://search.worldcat.org/title/772398569)
 <!--correct citation format? compare with Domus Aurea-->
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 <!-- Pleiades resource for Location (Roma), not for Porticus Liviae -->

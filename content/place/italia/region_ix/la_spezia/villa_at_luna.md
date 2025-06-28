@@ -20,17 +20,10 @@ draft: true
 - [LA SPEZIA]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="966420455" term="LA SPEZIA" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Region IX]({{<relref "..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 
 ## Garden
@@ -81,12 +74,9 @@ unspecified
 * F. Tinè Bertocchi (ed.), 1986, *Roma e i Liguri*, Genova, 54-56.[(worldcat)](https://search.worldcat.org/title/19745032)
 * H. Mielsch, 1987, *Die römische Villa: Architektur und Lebensform*, Munich, 175-177. [(worldcat)](https://search.worldcat.org/title/1140555144)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="966420455" term="Roman forum of Luna" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7003143" term="La Spezia (province)" >}}
 
 ## Contributor

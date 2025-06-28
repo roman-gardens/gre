@@ -5,7 +5,7 @@ type: garden
 title: "Les Basaltes, House A"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Les Basaltes, House A](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
 
 Les Basaltes, House A
-
 
 
 ## Keywords
@@ -49,9 +41,6 @@ Les Basaltes, House A
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "domus" >}}
-
-
-
 
 
 ## House Description
@@ -66,38 +55,27 @@ A peristyle [15] seems to be starting off towards the north, but its limits are 
 At first, this relatively modest dwelling was thought to have perhaps belonged to an artisan or peasant.  But the presence of the private baths to the northeast opens the possibility of seeing in it a part of a great *domus* with porticos and a grand central garden and associated baths. There is, however, a discrepancy between the luxury of the baths and the simplicity of the excavated area of the house, which seems to have been a service or common area.
 
 
-
-
-
 ## Plans
 
 
 {{< image src="les_basaltes_house_A.png" alt="Plan of Les Basaltes, House A" title="Plan of Les Basaltes, House A" >}}
 
 
-
 ## Dates
-
-
-
 
 
 ## Bibliography
 
 
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="8712431" term="Alba-la-Romaine (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

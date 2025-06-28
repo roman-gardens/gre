@@ -15,21 +15,6 @@ draft: false
 - [Darenth]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="79413" term="Darenth" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Rural Villa in Darenth
@@ -69,16 +54,10 @@ ca. 100 CE - late 4th century CE
 * A. Detsicas, *The Cantiaci*, Gloucester, 1983, pp. 103-107, fig. 20. [(worldcat)](https://search.worldcat.org/title/247009310)
 * B. Philp, *Excavations in the Darent Valley*, Kent, Gloucester, 1984, pp. 89-92, figs. 24, 33. [(worldcat)](https://search.worldcat.org/title/896055765)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="79413" term="Darenth" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7027349" term="Darenth (inhabited place)" >}}
-
-## Contributor
-
 
 ## Publication date
 

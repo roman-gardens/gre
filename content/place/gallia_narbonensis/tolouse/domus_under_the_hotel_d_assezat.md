@@ -5,7 +5,7 @@ type: garden
 title: "Domus under the Hôtel d’Assézat"
 date: 2020-09-29T21:13:02
 latlon: [ 43.600353, 1.441875 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -29,17 +29,10 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Toulouse was one of the pilgrimage sites on route to the Cathedral of Santiago de Compostela; French pilgrimage routes to Compostela tend to follow old Roman roads, many of which continued to be utilized as primary roads of communication during the Middle Ages. It is a prehistoric route, taken over by Romans in 106 BCE and then captured by Clovis in 508. Toulouse resisted the crusade against the "Albigensian heresy" in the early 13th century. It received parlement 1443 and was a witness to the Protestant massacre of 1562 and the scene of the British victory over the French in 1814. Between 1942 and 1944 it was occupied by Nazi rule. There are a number of noteworthy art museum here.
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Domus under the Hôtel d’Assézat](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
 
@@ -54,7 +47,6 @@ Domus under the Hôtel d’Assézat
 - {{< keyword "courtyards" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
-
 
 
 ## House Description
@@ -79,7 +71,6 @@ NEW WAY ↓↓↓↓
 {{< image src="domus_under_the_hotel_d_assezat.png" alt="Plan of Domus under the Hôtel d’Assézat" title="Plan of Domus under the Hôtel d’Assézat" >}}
 
 
-
 ## Dates
 
 After original finds in 1979, further vestiges of a domus came to light during salvage excavations in 1993-1994 in connection with expansion of facilities.
@@ -93,20 +84,16 @@ After original finds in 1979, further vestiges of a domus came to light during s
 3. Jean-Marie Pailler, l’habitat privé *Mémoire de la Société Archéologique du Midi de la France*,coll. Ecole Française de Rome 281, 2003, p. 252-54.[(worldcat)]()
 
 
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
 - {{< id vocab="Pleiades" id="246694" term="Tolosa" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7008441" term="Toulouse (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

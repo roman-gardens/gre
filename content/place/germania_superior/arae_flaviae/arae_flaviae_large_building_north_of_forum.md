@@ -23,18 +23,6 @@ draft: true
 ## Location Description
 
 This town on the Neckar river was granted municipal status around 84 AD or slightly later. In modern terms, it lies about halfway between Zurich and Stuttgart.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Large Building north of Forum in Arae Flaviae
@@ -75,16 +63,10 @@ Complex built at the earliest during the reign of Trajan.
 
 * C. S. Sommer, "Municipium Arae Flaviae. Militärisches und ziviles Zentrum im rechtsrheinischen Obergermanien," *Bericht der Römisch-Germanischen Kommission 73*, 1992: 301-302, Beilage 1.2.
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="118572" term="Arae Flaviae" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
-
-## Contributor
-
 
 ## Publication date
 

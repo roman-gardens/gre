@@ -5,7 +5,7 @@ type: garden
 title: "La Plaine, House A under the High School"
 date: 2020-10-12T21:26:02-24:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,16 +26,11 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [La Plaine, House A under the High School](#)
 
 ## Sublocation Description
-
 
 
 <!-- DESCRIPTION -->
@@ -53,8 +48,6 @@ La Plaine, House A under the High School
 - {{< keyword "porticoes" >}}
 - {{< keyword "courtyards" >}}
 - {{< keyword "reception rooms" >}}
-
-
 
 
 ## House Description
@@ -82,10 +75,7 @@ NEW WAY ↓↓↓↓
 {{< image src="la_plaine_house_a_under_the_high_school.png" alt="Plan of La Plaine, House A under the High School" title="Plan of La Plaine, House A under the High School" >}}
 
 
-
-
 ## Dates
-
 
 
 ## Bibliography
@@ -103,18 +93,15 @@ NEW WAY ↓↓↓↓
 5. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 275-277, Fig. 195.[worldcat](https://search.worldcat.org/title/43416334)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="5004109" term="Saint-Romain-en-Gal (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

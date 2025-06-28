@@ -27,7 +27,6 @@ draft: false
 - {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
-
 ## Garden
 
 Garden of the House of Augustus, Palatine
@@ -46,7 +45,6 @@ Garden of the House of Augustus, Palatine
 - [princep](https://www.britannica.com/topic/princeps)
 - {{< keyword "topiary" >}}
 - {{< keyword "triclinia (rooms)" >}}
-
 - [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
 - [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)

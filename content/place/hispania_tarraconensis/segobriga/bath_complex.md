@@ -5,7 +5,7 @@ type: garden
 title: "Bath Complex"
 date: 2020-09-30T11:20:32-04:00
 latlon: [ 39.885321, -2.81302 ]
-author: AUTHOR_ID
+author: 
 editor: Yiyun Liu
 draft: true
 ---
@@ -31,7 +31,6 @@ There has been little research on the gardens in the Roman settlements in Spain 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
 
-
 ## Bibliography
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
 
@@ -53,21 +52,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 Segóbriga, a deserted Roman city with theater, amphitheater, forum, walls, aqueduct and baths, lies about 100 kilometers southeast of Madrid.  Livy speaks of it as a noble and powerful town subdued by the Romans in 179 BC. In the  1st century BC it grew as a center for trade, cereal and cattle production, and for mining gypsum, lapis specularis, then used for windows. It became a municipium in th time of Augustus. The city reached its height near the end of the 1st century AD, then began a slow decline, but even in Visigothic time it sent bishops to councils.  
 Within the city, there are remarkably few remains of residences.  Presumably the population that filled the theater and amphitheater lived in country villas or closer to the mines.
 The site has been developed as an archaeological park; the monuments are in remarkably good condition and are eminently visitable.
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -104,17 +88,11 @@ Flavian times（A.D 69–96）
 
 * J. M. Blázquez, “Los jardines en la Hispania Romana”, in *Historia de los Parques y Jardines en España*. Edita Grupo FCC, Madrid, 2001, p. 26. [(worldcat)](https://search.worldcat.org/title/1090911182)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="266036" term="Segobriga" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="8712888" term="Segobriga (deserted settlement)" >}}
 
-## Contributor
-
-AUTHOR_ID
 
 ## Publication date
 

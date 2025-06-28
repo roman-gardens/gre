@@ -23,25 +23,11 @@ draft: true
 ## Location Description
 
 Ruins of large Roman baths, now surrounded by an interpretive center, and numerous finds of Roman coins and pottery fragments make clear that there was a considerable Roman town here with its center in the heart of the modern town.  Its name, however, has not been determined for certain.  The villa described below is near the modern town cemetery.  It seems, however, that the villa was reburied for its protection.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Funerary Grove of T. Aemilius Vetus
 
 ## Keywords
-
-
 
 
 ## Garden Description
@@ -77,13 +63,10 @@ unspecified
 * Géza Alföldy, “Epigraphica Hispanica IX,” *Zeitschrift für Papyrologie und Epigraphik 67*, 1987, 235-36, Tav. VI, 5.[(jstore)](https://www.jstor.org/stable/20186588)
 * "Espagne Citérieure," *L'Année épigraphique Année 1987 (1990)*, 685. [(jstore)](https://www.jstor.org/stable/25607522)
 
-## Pleiades ID
+## Places
 
 - [Urgapa]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="270382" term="Urgapa" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="1061700" term="Alameda (inhabited place)" >}}
 
 ## Contributor

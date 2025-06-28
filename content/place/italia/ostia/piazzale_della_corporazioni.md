@@ -120,11 +120,8 @@ Domitianic period
 * M. De Vico Fallani, "I giardini ostiensi di Dante Vaglieri. Brevi osservazioni a margine," *Bollettino di Archeologia on line* V, 2014/2, pp. 55-64. [(worldcat)](https://search.worldcat.org/title/842430597) [(Bollettino di Archeologia online)](https://bollettinodiarcheologiaonline.beniculturali.it/wp-content/uploads/2018/12/8.-V_2014_2-De-Vico-Fallani-18.02.2015.pdf)
 * E.J. Shepherd, "Prima di Busiri Vici: storia di tre giardini ostiensi e di un parco mai realizzato," in M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](https://search.worldcat.org/title/1536690)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="489630692" term="The Forum of Corporations" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->

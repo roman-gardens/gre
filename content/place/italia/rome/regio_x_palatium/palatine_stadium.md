@@ -27,7 +27,6 @@ Palatine Hill \
 - {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
-
 ## Garden
 
 Stadium Garden of the Flavian Palace, Palatine
@@ -99,6 +98,6 @@ unspecified
 * M.A. Tomei,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001: 73-75 (with additional bibliography). [(worldcat)](https://search.worldcat.org/title/5894435382)
 * A. Hoffmann & U. Wulf, "Bade oder Villenluxus? Zur Neuinterpretation del 'Domus Severiana,'” in Hoffman, Wulf & Angermeyer, *Die Kaiserpaläste auf dem Palatin in Rom*, Mainz am Rhein, 2004: 153-185. [(worldcat)](https://search.worldcat.org/title/180145631)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}

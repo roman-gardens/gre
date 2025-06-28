@@ -15,10 +15,6 @@ draft: false
 - [Chedworth]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="79383" term="Chedworth" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 <!--
@@ -26,9 +22,6 @@ draft: false
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -73,16 +66,10 @@ Late 19th century, 2000-2002
 * M. Carroll, Excavations at Chedworth Roman Villa by the University of Sheffield 2000-2002, in S. Esmonde Cleary, J. Wood and E. Durham (eds.), *Chedworth Roman Villa: Excavations and Re-Imaginings from the Nineteenth to the Twenty-First Centuries* Britannia Monograph Series 34. London: Society for the Promotion of Roman Studies (forthcoming).
 * R. Goodburn, *Chedworth Roman Villa*, London, 1996. [(worldcat)](https://search.worldcat.org/title/862309842)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="79383" term="Chedworth" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7032560" term="Chedworth Roman Villa (historic site)" >}}
-
-## Contributor
-
 
 ## Publication date
 

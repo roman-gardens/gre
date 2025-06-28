@@ -40,10 +40,8 @@ A public garden laid out to the specifications of Vitruvius originally occupied 
 {{< image src="fig.28.region_viii.insula_vii.24-27.png" alt="Fig. 28, Plan of Region VIII, Insula VII, 24-27" title="Fig. 28, Plan of Region VIII, Insula VII, 24-27" >}}
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates

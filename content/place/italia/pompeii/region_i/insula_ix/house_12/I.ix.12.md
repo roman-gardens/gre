@@ -19,9 +19,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Insula
 
@@ -82,12 +79,9 @@ unspecified
 * Jashemski, *Gardens*, vol.II, p. 45. [(worldcat)](https://search.worldcat.org/title/921816405)
 * Orr, no. 4.
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

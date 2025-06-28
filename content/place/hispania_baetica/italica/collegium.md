@@ -5,7 +5,7 @@ type: garden
 title: "Collegium"
 date: 2020-10-15T10:00:00-04:00
 latlon: [ 0, 0 ]
-author: (AUTHOR_ID)
+author: 
 editor: Lai Ching Tsui
 draft: true
 ---
@@ -37,7 +37,6 @@ Collegium
 - {{< keyword "pilasters" >}}
 
 
-
 ## Garden Description
 
 A building just south of the public park has been identified as the seat of a Collegium because of its internal structure and size. It was previously known as ‘The House of the Exedra.’ It occupies an entire insula, some 4,000 square meters. In its center is a peristyle, which was surrounded by galleries roofed with cross vaulting supported by brick pillars of rectangular cross-section with abutting pilasters making them cruciform in shape. In the center of the peristyle is a pool notable for its curves. It surrounds a circular planter for a tree or flowers.
@@ -64,15 +63,11 @@ unspecified
 * A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). 75-76 [(worldcat)](https://search.worldcat.org/title/916989580)
 
 
-## Pleiades ID
+## Places
 - [Collegium at Italica]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="810966696" term="Collegium at Italica" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7007822" term="Itálica (deserted settlement)" >}}
 
-## Contributor
-[(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
 ## Publication date
 

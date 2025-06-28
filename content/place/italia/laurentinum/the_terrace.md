@@ -13,10 +13,6 @@ draft: true
 ## Location
 - {{< id vocab="Pleiades" id="422959" term="Laurentes" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 laurentinum
 
@@ -54,7 +50,6 @@ However the most enticing garden of the Laurentinum was the terrace, so well des
 Luckily a small part of it was preserved, and here we still find the low parapet against which the violets were and a stele (Fig 104, D) with an epigraph giving us the name of the family that bought the house after Pliny's death. Also in this reduced state, the remains still retain the poetry of Pliny's description. However it is always possible, basing ourselves on these remains and on Pliny's letter, to reconstruct how the cryptoporticus and the terrace were at his times. For one thing the cryptoporticus described by Pliny is still saved and intact with delicate frescoes on its wall and an Augustan mosaic on its floor. Moreover it is still on the same line with his beloved pavilions, just as he described it in his letter, when he wrote that from the pavilion door he could overview all the length of the monumental cryptoporticus. Also the terrace is in line with it. Thus, omitting the Severian additions and destruction, we can redesign the plan of this part of the house with the garden, the cryptoporticus and the terrace set how they were once (Fig. 102).
 
 
-
 ## Maps
 
 <!--
@@ -87,13 +82,9 @@ Unspecified
 - SALZA PRINA RICOTTI 2002 = E. SALZA PRINA RICOTTI, , *Sistemazione paesaggistica del fronte a mare e giardini nelle ville marittime di epoca romana*,in Giornate di studio in occasione del 250º anniversario degli Scavi di Stabia (in print), pp. 137-169 [worldcat](https://search.worldcat.org/title/469755044)
 
 
-
-
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="422959" term="Laurentes" >}}
-
 
 
 ## Contributor

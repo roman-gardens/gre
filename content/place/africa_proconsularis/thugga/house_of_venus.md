@@ -60,12 +60,9 @@ The house of Venus is located at the S of the capitol and is adjacent to the tem
 *  Jeddi, N., *CMGR*,VII-1,  1999, pp. 211-232,  PL.  LXXXVIII
 
 
-## Pleiades_ID
+## Places
 
 - {{< id vocab="Pleiades" id="315223" term="Thugga/Tokai?" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7017996" term="Dougga (deserted settlement)" >}}
 
 ## Contributor

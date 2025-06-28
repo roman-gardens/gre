@@ -28,18 +28,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 Her geographic situation made of Utica one of the oldest and well-known Phoenician settlements. In 146 B.C, Utica became the capital of the newly created province of Africa and the residence of the governor. With the triumph of Caesar and the resurgence of Carthage, Utica's supremacy would gradually decline under the empire. In 36 B.C. it became a *municipium* and a colony under Hadrian.
 
 The city was laid out on a grid plan. Numerous buildings have been uncovered, among them the forum, several temples and baths, an amphitheater, a circus, and opulent houses. Many of these buildings of the Republican period were, during the imperial era, replaced by others larger and more luxurious. This explains the existence of two theaters for example, the one fitted into the side of the hill, the other built in open country. Enormous cisterns were constructed, fed by an aqueduct. Still extant on the summit of the acropolis overlooking the town, is a quadrangular edifice habitually referred to as “the citadel,” which could perhaps be simply a water tower.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 House of the West (Maison de l'est)
@@ -59,8 +47,6 @@ The peristyle garden (V) has a rectangular basin with curved angles extending fr
 The house is dated to the II century.
 
 
-
-
 <!--## Maps-->
 
 
@@ -78,12 +64,9 @@ The house is dated to the II century.
 * Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp.19-26, plans 4. [(worldcat)](https://search.worldcat.org/title/905773599)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="315248" term="Utica" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7018163" term="Utica (deserted settlement)" >}}
 
 ## Contributor

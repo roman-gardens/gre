@@ -36,7 +36,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "dolia" >}}
 
 
-
 ## Garden Description
 A large aedicula [lararium](http://vocab.getty.edu/page/aat/300400600) on the east wall and a large [triclinium](http://vocab.getty.edu/page/aat/300142552) (l. medius, 4.40 m.; l. imus 4.00; l. summus 3.80 m.; table between couches 1.00 x 1.67m.) were found in the large area attached to this humble house when excavation was started in 1953-1954. Human remains were uncovered with five gold coins, two gold rings, a strigil and seven medical instruments close to the -triclinium. Next to the shrine two terra-cotta votive offerings, a slender female winged figure (0.155 m. high; Pompeii inv. no. 10569) and a small draped figure with considerable red paint surviving on the drapery(figure (0.165 m. high; Pompeii inv. no. 10150) were found as well as a marble statuette of Hercules (ca. 0.57 high without base; Pompeii inv. no. 10138). South of the triclinium a doghouse had been built by mounting half of a dolium (0.70 x 0.50m.) on a masonry base 0.15 m. high. Further finds included a large terra-cotta funnel, but the function of this area could not be determined.
 Excavation by Jashemski in 1971-1972 revealed what appears to be a large commercial [flower garden](http://vocab.getty.edu/page/aat/300008135). Where the lapilli remained until the 1970s, the undamaged soil contours and root and stake cavities were well preserved. Circular watering depressions remained in one bed that held a small plant. Balloon photographs showed complicated bed arrangements and a path coming from the outside area to the middle of the garden where a left turn led to the [triclinium](http://vocab.getty.edu/page/aat/300142552) and altar in front of the [lararium](http://vocab.getty.edu/page/aat/300400600). Fig.63,  17.7.73, Fig. 64, 8.33.73, Fig. 65, 21A.13.73 An extensive system of rain water collection and distribution had been built.  Roof run off was collected in a large [dolium](http://vocab.getty.edu/page/aat/300400601) on each side of the door and in a nearby pool.  Additional water could be brought from outside sources and poured through an [amphora](http://vocab.getty.edu/page/aat/300148696) tip in the east end of the north wall to fill a dolium](http://vocab.getty.edu/page/aat/300400601) imbedded in the northeast corner of the garden. The natural slope of the land was from north to south and the irrigation layout took advantage of this fact. When the dolium](http://vocab.getty.edu/page/aat/300400601) in the northeast corner overflowed the water ran down a channel along the east wall watering young trees planted in the channel until it fell into a second half dolium](http://vocab.getty.edu/page/aat/300400601) buried in the soil. This process would be repeated the length of the east wall and continued along the south wall. There were channels along the north and west walls and dividing all the beds in the interior of the garden.
@@ -62,10 +61,8 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 {{< image src="../../fig._73,_ii.viii.6_21.30.72.jpg" alt="Fig. 73, 21.30.72 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 73, 21.30.72 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 {{< image src="../../fig._74,_ii.viii.6_11.20.74.jpg" alt="Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}-->
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

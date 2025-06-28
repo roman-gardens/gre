@@ -18,18 +18,6 @@ draft: true
 ## Location Description
 
 In the Hambacher Forst region, which lies approximately 30-35 km. west of the former capital city [Colonia Claudia Ara Agrippinensium (mod. Cologne)](https://pleiades.stoa.org/places/108751), a number of modest *villae rusticae* have been excavated.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Niederzier Hambach 69
@@ -72,15 +60,10 @@ Late first century CE until the fourth century CE.
 - K.-H. Knörzer, "Veränderungen der Unkrautvegetation auf rheinischen Bauernhöfen seit der Römerzeit," *Bonner Jahrbuch* 184, 1984: 491-503. [worldcat](https://search.worldcat.org/title/729362071)
 - W. Gaitzsch, "Grundformen römischer Landsiedlungen im Westen der CCAA," *Bonner Jahrbuch* 186, 1986: 397-427, fig. 5. [worldcat](https://search.worldcat.org/title/729362071)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="109210" term="Niederzier-Hambach" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7128518" term="Niederzier (inhabited place)" >}}
-
-## Contributor
 
 ## Publication date
 

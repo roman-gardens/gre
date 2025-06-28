@@ -17,29 +17,11 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 [Palermo]({{<relref "../..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 
 ## Location
 
 - {{< id vocab="Pleiades" id="462410" term="Palermo" >}}
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -74,14 +56,9 @@ There is a rectangular tank or fountain set against the rear wall of a small int
 ## Bibliography
 R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, p. 127 with references, and p. 121, fig. 109.8. [(worldcat)](https://search.worldcat.org/title/608028740)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="462410" term="Pan(h)ormus" >}}
-
-## TGN ID
-
-
-## Contributor
 
 
 ## Publication date

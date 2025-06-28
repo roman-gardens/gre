@@ -106,6 +106,6 @@ c. 190- 240 CE
 * G. Rizzo, “Le anfore utilizzate come vasi da fiori nei giardini del tempio” in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, p. 98. [(worldcat)](https://search.worldcat.org/title/5894435382)
 * F. Villedieu, *La Vigna Barberini II- Domus, palais impérial et temples: stratigraphie du secteur nord-est du Palatin*, Rome, 2007 (RomaAntica, 6). [(worldcat)](https://search.worldcat.org/title/643147049)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="971691208" term="Palatinus Mons" >}}

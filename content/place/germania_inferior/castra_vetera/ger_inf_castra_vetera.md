@@ -15,21 +15,6 @@ draft: true
 - [Castra Vetera]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108867" term="Castra Vetera" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Legionary houses at Castra Vetera (Germania inferior)
@@ -62,7 +47,6 @@ The partially excavated eastern villa was 78.50 m. wide and 109 m. in length. It
 {{< image src="castra_vetera_plan1_EUR_GI_VetCas_Lh_carroll.jpg" alt="Plan 1. Plan of the western *praetorium* in the double legionary base with its long apsidal garden (G). Adapted from Lehner 1930, fig. 39. (Rights statement)." title="Plan 1. Plan of the western *praetorium* in the double legionary base with its long apsidal garden (G). Adapted from Lehner 1930, fig. 39. (Rights statement)." >}}
 
 
-
 {{<figure src="../images/castra_vetera_plan1_EUR_GI_VetCas_Lh_carroll.jpg" alt="This is a description of the image for people who can't see the image clearly for whatever reason." title="Caption below the image. (RIGHTS STATEMENT)">}}
 
 ## Images
@@ -80,16 +64,10 @@ Unspecified
 
 - H. Lehner, *Vetera. Die Ergebnisse der Ausgrabungen des Bonner Provinzialmuseums bis 1929.* Römisch-Germanische Forschungen 4, Berlin, 1930, pp. 52-60, figs. 38-41. [worldcat](https://search.worldcat.org/title/884633203)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="108867" term="Castra Vetera" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004944" term="Vetera Castra (deserted settlement)" >}}
-
-## Contributor
-
 
 ## Publication date
 

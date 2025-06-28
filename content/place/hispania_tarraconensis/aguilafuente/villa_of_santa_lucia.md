@@ -41,21 +41,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 - [Santa Lucia]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="767191138" term="Santa Lucia" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Villa of Santa Lucia
 
@@ -68,7 +53,6 @@ Villa of Santa Lucia
 Excavation in 1968 – 1972 at this site, which has been reburied, revealed over half the area of a large, fourth century villa, laid out around a central *peristyle* garden (31.2 x 28.8 m). The excavations exposed the western half of the site while samples and trenches established the broad outlines of the eastern half. The oecus on the north side had a good view of the garden. Directly across from it were double-horseshoe-shaped baths on the south.  Though mosaics are few, other finds indicate that the villa saw an intense and brilliant use during the fourth century and into the fifth, when there are signs of remodelling.    The villa was briefly abandoned in Visigoth times, the in the mid-3rd century used as a necropolis.  
 
 
-
 ## Dates
 4C
 
@@ -78,11 +62,8 @@ Excavation in 1968 – 1972 at this site, which has been reburied, revealed over
 - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986;  J.G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 355. [(worldcat)](https://search.worldcat.org/title/758189394)
 
 
-
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="767191138" term="Roman villa at Santa Lucia" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7348251" term="Aguilafuente (inhabited place)" >}}
 
 

@@ -5,7 +5,7 @@ type: garden
 title: "Villa of Fortunatus"
 date: 2020-10-18T11:56:31-14:00
 latlon: [ 0, 0 ]
-author: AUTHOR_ID
+author: 
 editor: Qianli Jiang
 draft: true
 ---
@@ -85,14 +85,10 @@ Unspecific
 <!---doesn't have ## Bibliography-->
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="907088811" term="907088811" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7027125" term="Clunia (deserted settlement)" >}}
 
-## Contributor
-AUTHOR_ID
 
 ## Publication date
 

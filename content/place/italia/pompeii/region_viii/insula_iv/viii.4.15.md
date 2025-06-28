@@ -49,10 +49,8 @@ Eighteen partially fluted columns supported the large portico (a) surrounding th
 ## Images
 {{< image src="fig.13.viii.iv.15_11.10.59.jpg" alt="Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates

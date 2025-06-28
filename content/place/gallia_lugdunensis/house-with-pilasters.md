@@ -5,7 +5,7 @@ type: garden
 title: "House with Pilasters (Clos du Verbe Incarné)"
 date: 2020-08-12T10:39:31-07:00
 latlon: [ 45.758866, 4.819481 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
@@ -14,21 +14,6 @@ draft: true
 
 - [LUGDUNUM (Lyon, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="167717" term="LUGDUNUM" >}}
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 House with Pilasters (Clos du Verbe Incarné)
@@ -62,11 +47,9 @@ Unspecified
 - E. Delaval, “Un îlot d’habitations romaines à Lyon  (Ier  siècle  av.-IIIe siècle ap.J.C.),Clos du Verbe Incarné,colline de Fourvière,” *Actes du Ier Congrès Méditerranéen d’ethnologie historique,* Lisbonne 4-8 nov. 1991,in *Mediterraneo,* 4, 1994, p.203-229.  
 - E. Delaval,“Espace urbain et habitat privé à Lyon,un îlot de la ville haute au cœur d’une opération d’urbanisme au milieu du Ier siècle,” in Maison 1996, t.I,p. 128-37, planp.134.  
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="167717" term="Col. Lugdunum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
 
 

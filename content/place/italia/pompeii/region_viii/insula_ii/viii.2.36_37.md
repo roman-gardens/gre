@@ -41,10 +41,8 @@ This house was excavated in 1885. The entrance at 37 went into the atrium and be
 {{< image src="fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
 {{< image src="fig._4_region_viii_insula_ii_36_37.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 29-39" title="Plan of the Pompeii Region VIII, Insula II, 29-39" >}}
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 

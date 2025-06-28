@@ -49,10 +49,8 @@ Directly to the rear of the [atrium](http://vocab.getty.edu/page/aat/300004097),
 * Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 307, no. 29  (also incorrectly calls the garden a room)  
 
 
-## Pleiades ID
+## Places
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
-
-## TGN ID
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

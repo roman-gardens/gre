@@ -26,19 +26,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 Sufetula founded under Vespasian was a center of oil production. Excavations have shown that the city was laid out on a grid plan that was not strictly followed. Numerous buildings have been uncovered among them the forum, the capitol, the triumphal gateway dedicated to Antonius Pius, a triumphal arc of the Tetrarchy, the Great baths, the theater and the episcopal group that comprised two large basilicas called Vitalis and Bellator, which are separated from each other by the Jucundus Chapel. Annexes, among them, small baths and probably the dwellings of the clergy, surround this complex.
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 House of the Seasons (La maison des Saisons)
 
@@ -81,15 +68,10 @@ House of the Seasons (La maison des Saisons)
 * Parrish, D., *The Seasons mosaics of Roman North Africa*, Rome, 1984, pp. 215-218. [(worldcat)](https://search.worldcat.org/title/1022822931)
 
 
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="324816" term="Sufetula" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7001754" term="Sbeitla (inhabited place)" >}}
-
-## Contributor
 
 ## Publication date
 

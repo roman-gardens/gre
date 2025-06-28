@@ -5,7 +5,7 @@ type: garden
 title: "Rural Villa"
 date: 2020-12-12T10:39:31-07:00
 latlon: [ 0, 0 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
@@ -15,9 +15,6 @@ draft: true
 [WEITERSBACH (Germany)]({{<relref ".">}}) \
 [WEITERSBACH (Pleiades)](<!-- none available-->)
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 <!--## Sublocation-->
 
@@ -70,15 +67,13 @@ Unspecified
 - H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp. 663-665, fig. 606. [(worldcat)](https://search.worldcat.org/title/924024101)
 - P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 273-276, fig. 82.  [(worldcat)](https://search.worldcat.org/title/445007864)
 
-## Pleiades ID
+## Places
 
 [Roman Villa at Welschbillig](<-- none available -->)
-
-## TGN ID
 - {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
-[AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
+<!-- Maureen Carroll ? -->
 
 ## Publication date
 

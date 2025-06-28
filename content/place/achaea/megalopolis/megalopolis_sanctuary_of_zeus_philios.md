@@ -88,10 +88,7 @@ unspecified (still flourished in the 2nd century CE)
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="570467" term="Megalopolis" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7010920" term="Megalopolis (deserted settlement)" >}}

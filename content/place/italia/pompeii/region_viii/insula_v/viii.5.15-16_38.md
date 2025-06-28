@@ -35,7 +35,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "porticoes" >}}
 
 
-
 ## Garden Description
 A. Over half the depth of the insula was crossed by a long angiportus which led from the Via dell’Abbondonza to an open area (a) past a wide portico. This extensive area was most likely used as a garden having a water basin in the southwest corner for irrigation. The first two columns in the portico, on the east were connected by a wall 2.13 m. high. There was a street entrance (38) on the south side of the garden next to the entrance of house no. 37, the house to which this garden originally belonged. A gutter along the north, east and south edges of the garden conducted the water to the lowest spot in the southeast corner where it emptied into the street.
 B. A complex of rooms opened off the northeast end of the portico and a garden (b) was located beyond these with an entrance on the west. (Fig.17, 11.17.59.)  A large terra-cotta puteal was discovered in one of the adjoining rooms. The cistern opening in this garden received water from a large basin in the southeast corner supplied by a gutter on the west, south and north edges.
@@ -49,10 +48,8 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 {{< image src="fig.18.viii.v.16.38_11.20.59.jpg" alt="Fig.18, 11.20.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig.18, 11.20.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates

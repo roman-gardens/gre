@@ -60,10 +60,8 @@ A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely dam
 - Reeves, M. B. 2019. “A Nabataean and Roman Shrine with Civic and Military Gods at Humayma, Jordan.” *Arabian Archaeology & Epigraphy* 30 (1): 134–55. [(DOI)](https://doi.org/10.1111/aae.12121).
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="746716" term="Auara" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7007646" term="Ḥawwārah (inhabited place)" >}}
 
 ## Contributor

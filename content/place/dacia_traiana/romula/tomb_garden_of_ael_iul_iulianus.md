@@ -15,21 +15,6 @@ draft: true
 - [Romula]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981518" term="Romula" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion in Romula
@@ -75,12 +60,9 @@ Later second century/third century
 
 * *AE* 1957, 334.
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981518" term="Dacia (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="8712318" term="Romula (deserted settlement)" >}}
 
 ## Contributor

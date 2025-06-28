@@ -26,18 +26,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location Description
 Hadrumetum is located on the bay of Hammamet at the edge of the fertile region of Sahel from which it drew its wealth.  Choosing the side of Rome against Carthage during the Punic war, Hadrumetum was rewarded with the status of free town. Taking the side of Pompey, the city was heavily fined by Caesar after his victory at Thapsus. Nevertheless, the opulence of its houses adorned with luxurious mosaics testifies that the city experienced great economic development after its elevation to the status of colony, under Trajan.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 House of the Masks (Maison des Masques)
 
@@ -51,7 +39,6 @@ House of the Masks (Maison des Masques)
 Known for its mosaic pavements, the *domus* of the Masks was laid out around a large peristyle that may have had a garden.
 
 The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was bordered on two sides by pillars that opened towards a rear garden, the third side is not clear as the house is destroyed in this area.
-
 
 
 ## Maps
@@ -75,10 +62,8 @@ The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was 
 - Guizani, S., "L’œcus « cyzicenus » de la maison des Masques à Sousse", in *Revue Tunisienne d’archéologie*, 2013, p. 77-91.[(worldcat)](https://search.worldcat.org/title/949200707)
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="324716" term="Hadrumetum/Iustinianopolis" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7015312" term="Sousse (inhabited place)" >}}
 
 ## Contributor

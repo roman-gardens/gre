@@ -90,12 +90,10 @@ unspecified
 * E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 388-390, fig. 139. [(worldcat)](https://search.worldcat.org/title/46784026)
 * G. Ortolani, *Il padiglione di Afrudite Cnidia a Villa Adriana:progette e significato*, Roma 1998. [(worldcat)](https://search.worldcat.org/title/884631277)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="423127" term="Villa Hadriani" >}}
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
-
-## TGN ID
 
 - {{< id vocab="TGN" id="7006983" term="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->

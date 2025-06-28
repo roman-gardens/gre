@@ -14,9 +14,6 @@ draft: false
 
 - [Pompeii]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 ## Sublocation
 [Region II]({{<relref "../..">}})
 
@@ -25,8 +22,6 @@ draft: false
 
 ## House
 - {{< id vocab="Pleiades" id="444848573" term="Large Vineyard" >}}
-
-
 
 
 ## Garden
@@ -38,8 +33,6 @@ Large vineyard
 - {{< keyword "triclinia (couches)" >}}
 - {{< keyword "vineyards" >}}
 - {{< keyword "dolia" >}}
-
-
 
 
 ## Garden Description
@@ -154,14 +147,9 @@ Excavated 1755, 1814 and between 1912 and 1972.
 - Meyer, Frederick G, 1980. *Carbonized Food Plants of Pompeii, Herculaneum, and the Villa at Torre Annunziata,* Economic Botany. 34.4: 401-437 [worldcat](https://search.worldcat.org/title/5656581658)
 
 
-
-
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="444848573" term="444848573" >}}
-
-
 
 
 ## Contributor

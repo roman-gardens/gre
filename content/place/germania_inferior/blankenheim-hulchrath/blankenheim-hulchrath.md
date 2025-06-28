@@ -15,21 +15,6 @@ draft: true
 - [Blankenheim-Hülchrath]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981524" term="Blankenheim-Hülchrath" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Rustic villa at Blankenheim-Hülchrath
 
@@ -66,14 +51,10 @@ Unspecified
 - H. G. Horn, ed., *Die Römer in Nordrhein-Westfalen*, Stuttgart, 1987, pp. 361-63, figs. 306-308. [(worldcat)](https://search.worldcat.org/title/456209115)  
 - P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule.* Suppl. Gallia 51, Paris, 1992, pp. 192-193, fig. 5. [(worldcat)](https://search.worldcat.org/title/407704732)  
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981524" term="Germania Inferior" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="6002234" term="Germania Inferior (province)" >}}
-
-## Contributor
 
 ## Publication date
 

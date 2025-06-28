@@ -34,10 +34,6 @@ Under Claudius the city became a Roman colony, Colonia Claudia Caesarea. The old
 
 The city has been continually occupied to the present day, now known as Cherchel. From the Roman period, many archaeological sites have survived, including temples, baths, houses adorned with mosaics and sculptures, a theater, a forum, a judiciary basilica, an amphitheater, a large hippodrome, and a lighthouse constructed on the islet of the city.
 
-<!--## Sublocation-->
-
-<!--## Sublocation Description-->
-
 ## Garden
 
 House of the Tizerine Cape (Maison du Cap Tizerine)
@@ -74,14 +70,9 @@ The northeastern courtyard was most likely a peristyle-garden.  There, a basin p
 * Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie", in *Antiquités africaines*., t.18, pp.118-21. [(worldcat)](https://search.worldcat.org/title/1014614344)
 * Waille, v, "Fouilles de Cherchel (1902-1903)", in *Revue Africaine*, t.47, 1903, p.102. [(worldcat)](https://search.worldcat.org/title/690766053)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="278428163" term="278428163" >}}
-
-## TGN ID
-
-## Contributor
-
 
 ## Publication date
 

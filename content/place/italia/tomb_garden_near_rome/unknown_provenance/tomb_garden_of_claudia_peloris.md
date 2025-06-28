@@ -12,10 +12,6 @@ draft: true
 
 ## Location
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 ## Sublocation Description
@@ -51,11 +47,7 @@ Unspecified
 - H. von Hesberg, *Römische Grundrissplane auf Marmor*, in Bauplanung und Bautheorie der Antike (Berlin 1983) 124-26. [worldcat](https://search.worldcat.org/title/801974522)
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 181 fig. 3, 184. [worldcat](https://search.worldcat.org/title/886794800)
 
-## Pleiades ID
-
-## TGN ID
-
-## Contributor
+## Places
 
 ## Publication date
 

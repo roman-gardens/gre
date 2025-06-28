@@ -28,18 +28,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 Her geographic situation made of Utica one of the oldest and well-known Phoenician settlements. In 146 B.C, Utica became the capital of the newly created province of Africa and the residence of the governor. With the triumph of Caesar and the resurgence of Carthage, Utica's supremacy would gradually decline under the empire. In 36 B.C. it became a *municipium* and a colony under Hadrian.
 
 The city was laid out on a grid plan. Numerous buildings have been uncovered, among them the forum, several temples and baths, an amphitheater, a circus, and opulent houses. Many of these buildings of the Republican period were, during the imperial era, replaced by others larger and more luxurious. This explains the existence of two theaters for example, the one fitted into the side of the hill, the other built in open country. Enormous cisterns were constructed, fed by an aqueduct. Still extant on the summit of the acropolis overlooking the town, is a quadrangular edifice habitually referred to as “the citadel,” which could perhaps be simply a water tower.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 House of the Cascade (Maison de la Cascade)
@@ -61,8 +49,6 @@ Extending into the garden from the two central columns on the N was a semicircul
 Opening off of the *triclinium* to the S was a smaller area enclosed by a portico on three sides. The dominant feature was the shallow square basin (1.92x 1.2 m) decorated with a fish mosaic and the adjacent mosaic panel from which the house is named. In the cascade panel, two fishermen are pulling in a vast net full of fish and sea animals. The soil on each side of the cascade was probably planted.
 
 
-
-
 ## Maps
 
 
@@ -71,7 +57,6 @@ Opening off of the *triclinium* to the S was a smaller area enclosed by a portic
 
 ## Plans
 {{< image src="AFR_Uti_Hc_Wjashemski1.jpg" alt="Fig. 1: Plan of the House of the Cascade." title="Fig. 1: Plan of the House of the Cascade (CMT, plan 5,7)" >}}
-
 
 
 ## Dates
@@ -85,13 +70,9 @@ Opening off of the *triclinium* to the S was a smaller area enclosed by a portic
 * Février  P.-A., "Image, imaginaire et symbolisme. A propos de deux maisons du Maghreb antique", in *Mosaïque, Recueil d'hommages à Henri Stern*, Paris,1983, pp. 159-162. [(worldcat)](https://search.worldcat.org/title/876420608)
 
 
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="315248" term="Utica" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7018163" term="Utica (deserted settlement)" >}}
 
 ## Contributor

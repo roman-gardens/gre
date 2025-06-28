@@ -20,17 +20,10 @@ draft: true
 - [Tergeste]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="187578" term="Tergeste" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Region X]({{<relref "..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 
 ## Garden
@@ -94,11 +87,9 @@ NEW WAY ↓↓↓↓
 *  M. De Franceschini, 1998, *Le ville romane della X regio: Venetia et Histria. Catalogo e carta archeologica dell’insediamento romano nel territorio, dall’età repubblicana al tardo impero*, Roma.[(worldcat)](https://search.worldcat.org/title/1071842281)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="187578" term="Tergeste" >}}
-
-## TGN ID
 
 [Trieste (inhabited place)](hhttp://vocab.getty.edu/page/tgn/7005539)
 

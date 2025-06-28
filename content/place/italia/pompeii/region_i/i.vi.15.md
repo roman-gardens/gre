@@ -95,12 +95,9 @@ Excavated 1913.
 * Zanker, P. 1998. *Pompeii: Public and Private Life*, pp. 477-480.
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

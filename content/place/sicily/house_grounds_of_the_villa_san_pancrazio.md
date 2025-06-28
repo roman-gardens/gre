@@ -17,29 +17,11 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 [Taormina]({{<relref "../..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 
 ## Location
 
 - {{< id vocab="Pleiades" id="462506" term="Syracuse" >}}
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -78,14 +60,9 @@ G. M. Bacci, Attivita della soprintendenza: Taormina, Kokalos 39–40 (1993–94
 
 Pool types: L. Farrar, Ancient Roman Gardens, Stroud, 1998, pp. 71–84.[(worldcat)](https://search.worldcat.org/title/1169942407)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="462506" term="Tauromenium" >}}
-
-## TGN ID
-
-
-## Contributor
 
 
 ## Publication date

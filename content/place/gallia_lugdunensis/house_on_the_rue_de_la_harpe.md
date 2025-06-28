@@ -5,27 +5,12 @@ type: garden
 title: "House on the rue de la Harpe (Domus rue de la Harpe)"
 date: 2020-12-08T10:39:31-07:00
 latlon: [ 49.022812, 1.151169 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
 
 - {{< id vocab="Pleiades" id="109153" term="MEDIOLANUM AULERCORUM" >}}
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 House on the Place des Halles (La maison des Halles)
@@ -61,15 +46,13 @@ Unspecified
 - D. CLIQUET,  L’Eure,  27,  CAG p.136-137,  restitution  p.136. [(worldcat)](https://search.worldcat.org/title/715608474)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="109153" term="Mediolanum Aulercorum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
-[AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
+<!-- Maureen Carroll ? -->
 
 ## Publication date
 

@@ -24,18 +24,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location Description
 The city of Acholla was established forty-five km north of Sfax, along the seashore of the coast of Bysacena. When the city took sides with Rome in the third Punic war, Acholla was rewarded with the status of a free city. Later, under Hadrian, the city became a municipum. Production of oil from the countryside, inner cities of Bararus and Thysdrus, and commerce by sea made Acholla, with its harbor, a prosperous town.  Two baths and a series of houses testify to the wealth of the inhabitants of Acholla by the opulence and the originality of their mosaic décor. The mosaic decor gives evidence to the presence of one of the first mosaic workshops in Africa.  
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 House of Asinius Rufinus (Maison d'Asinius Rufinus)
 
@@ -82,10 +70,8 @@ mid 2nd century CE
 - Rebuffat, R., *Maisons à péristyle d’Afrique du Nord, Répertoire de plans publiés*, II, MEFRA, tome 86, 1974-1, p.454. [(worldcat)](https://search.worldcat.org/title/1069174087)
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="324653" term="Acholla" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="5003657" term="Henchir Bou Tria (deserted settlement)" >}}
 
 ## Contributor

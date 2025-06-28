@@ -19,9 +19,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Insula
 
@@ -75,18 +72,14 @@ unspecified
 ## Excavation Date
 
 
-
 ## Bibliography
 
 * DeVos, “Scavi nuovi sconoscuti (1.9.13),” *Meded* 38 (1976), pl. 35 (plan).
 * Jashemski, *Gardens*, vol.II, p. 44. [(worldcat)](https://search.worldcat.org/title/921816405)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

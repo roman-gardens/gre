@@ -49,10 +49,8 @@ The excavation of this site was begun in 1873-1874 and is still incomplete. A si
 ## Plans
 {{< image src="herculaneum_casa_di_galba.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates

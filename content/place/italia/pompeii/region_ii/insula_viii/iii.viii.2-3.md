@@ -40,10 +40,8 @@ Customers at this thermopolium were served at a counter looking onto the street 
 <!--## Plans
 {{< image src="../../fig._62,_plan_of_region_ii,_insula_viii.png" alt="Fig. 62, Plan of Region II, insula viii" title="Fig. 62, Plan of Region II, insula viii" >}}-->
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Dates

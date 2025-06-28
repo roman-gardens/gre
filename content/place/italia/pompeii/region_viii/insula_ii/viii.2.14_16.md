@@ -43,10 +43,8 @@ B. Built on the volcanic ledge, only a triangular segment of this terrace garden
 {{< image src="fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
 {{< image src="fig._4_region_viii_insula_ii_14_16_a.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 
@@ -64,7 +62,6 @@ Unspecified
 * Sogliano, *Notizie degli scavi di Antichita* (1893), pp. 4, 48-49 [(worldcat)](https://search.worldcat.org/title/46875519)
 * Sogliano, *Notizie degli scavi di Antichita* (1894), p. 147 [(worldcat)](https://search.worldcat.org/title/46875519)
 * Sogliano, *Notizie degli scavi di Antichita* (1899), pp. 23, 141-143 and fig. 1 (plan) on p. 141 [(worldcat)](https://search.worldcat.org/title/46875519)
-
 
 
 ## Contributor

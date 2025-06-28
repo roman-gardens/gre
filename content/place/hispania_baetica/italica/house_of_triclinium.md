@@ -5,7 +5,7 @@ type: garden
 title: "House of the Triclinium"
 date: 2020-10-18T10:00:00-04:00
 latlon: [ 0, 0 ]
-author: (AUTHOR_ID)
+author: 
 editor: Lai Ching Tsui
 draft: true
 ---
@@ -50,7 +50,6 @@ This house, in the area southeast of the House of Hylas, had a peristyle garden 
 {{< image src="HIS_BAE_Italica_Ht fig 1.jpg" alt="Fig. 1: Reconstruction of garden.  Drawing by F. Riart 2001, page 33. (Rights Statement)" >}}
 
 
-
 ## Dates
 
 unspecified
@@ -63,15 +62,10 @@ unspecified
 * J. M. Blázquez, ‘Los jardines en la Hispania Romana,’ *Historia de los Parques y Jardines en España*, Edita Grupo FCC, (Madrid 2001), p. 34, figure p. 32.
 
 
-
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="224658205" term="House of the Triclinium at Italica" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7007822" term="Itálica (deserted settlement)" >}}
 
-## Contributor
-[(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
 ## Publication date
 

@@ -31,9 +31,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -84,10 +81,7 @@ Trees were still standing in the 2nd century A.D. when Pausanias visited Nemea.
 * M. Carroll-Spillecke, "The gardens of Greece from Homeric to Roman times," *Journal of Garden History* 12, 1992: 86. [(worldcat)](https://search.worldcat.org/title/4898050192).
 * M. Carroll, "The sacred places of the immortal ones: ancient Greek and Roman sacred groves," in J. Woudstra and C. Roth (eds.), *A History of Groves*. London: Routledge, 2018: 14. [(worldcat)](https://search.worldcat.org/title/1012849097).
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="570504" term="Nemea" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7220732" term="Neméa (ancient site)" >}}

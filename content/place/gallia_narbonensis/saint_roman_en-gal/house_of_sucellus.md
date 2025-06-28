@@ -5,7 +5,7 @@ type: garden
 title: "House of Sucellus"
 date: 2020-09-29T00:31:02-02:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -27,17 +27,10 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [House of Sucellus](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
 
@@ -48,8 +41,6 @@ House of Sucellus
 ## Keywords
 
 - {{< keyword "domus" >}}
-
-
 
 
 ## House Description
@@ -71,11 +62,7 @@ NEW WAY ↓↓↓↓
 ## Plans
 
 
-
-
 {{< image src="house_of_sucellus.png" alt="Plan of House of Sucellus" title="Plan of House of Sucellus" >}}
-
-
 
 
 ## Dates
@@ -95,18 +82,15 @@ It was completely uncovered in 1987 so that its lines might be respected in the 
 6. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig.194.[worldcat](https://search.worldcat.org/title/43416334)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="5004109" term="Saint-Romain-en-Gal (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

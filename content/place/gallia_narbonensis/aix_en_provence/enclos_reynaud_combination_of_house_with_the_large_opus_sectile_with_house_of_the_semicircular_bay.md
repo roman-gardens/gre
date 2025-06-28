@@ -5,7 +5,7 @@ type: garden
 title: "Enclos Reynaud, Combination of House with the large opus sectile with House of the semicircular bay"
 date: 2020-10-29T00:08:08-10:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,33 +26,20 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Enclos Reynaud, House with the semicircular bay, phase I](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## house
 
 Enclos Reynaud, House with the semicircular bay, phase I
 
 
-
 ## Keywords
 
 - {{< keyword "mosaics" >}}
 - {{< keyword "statues" >}}
-
-
-
-
-
 
 
 ## House Description
@@ -88,7 +75,6 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 
-
 ## Bibliography
 
 1. *Maison 1996*, t. II,, p. 42-43
@@ -99,18 +85,15 @@ NEW WAY ↓↓↓↓
 3. P. Gros, *L'architecture Romaine: Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire. Paris: A. et J*. Picard, 2011, P. 187-188 [(worldcat)](https://search.worldcat.org/title/762763355)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7010786" term="Aix-en-Provence (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

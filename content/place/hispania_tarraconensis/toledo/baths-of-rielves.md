@@ -5,7 +5,7 @@ type: garden
 title: "The so-called \"Baths\" of Rielves"
 date: 2020-11-02
 latlon: [ 39.960815, -4.192941 ]
-author: AUTHOR_ID
+author: 
 editor: Xingjian Wang
 draft: true
 ---
@@ -26,23 +26,12 @@ draft: true
 ## Location Description
 A village of about 600 inhabitants 19 kilometers northwest of Toledo.  The ruins of the villa are often called "termas" (baths).
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 The so-called "Baths" of Rielves
 
-<!--## Keywords
+<!-- Not sure why the keywords and garden description are commented out...
+
+## Keywords
 - {{< keyword "peristyles" >}}
 - {{< keyword "mosaics" >}}
 - {{< keyword "corridors" >}}
@@ -52,7 +41,8 @@ The major building period dated to the beginning of the 4th century, supplanting
 
 In the center of the nearly square garden was a small fountain which has disappeared.  It was surrounded by a small mosaic which survived only as scattered tessera.  Crossing the garden in an east-west direction was a pergola. A low wall under the arches prevented guests from entering directly into the garden.  Rather, a walk with impressive geometric mosaics led to the main reception room [1] with a vast polychrome mosaic depicting Achilles discovered by Odyssesus among the women of the household of Lycomedes. This mosaic is believed to be one of the largest known figured polychrome mosaic of the Roman world. From the reception room one entered the garden, through the pérgola to the bath complex.  The walks around the garden in the porticoes were completely covered with geometric mosaics.  A variety of rooms opened off the garden peristyle, offering a variety of spaces for entertaining and activities of daily life. Many did not open directly on the garden but may have had window through which to view the garden.
 Javier Cortes noted that hardware was found around the edges of the garden suitable for wood vanes which may have closed the spaces between the columns in cold weather.  Asked about the quality of the soil in the garden, he replied that it was rich but so was all the soil in this river bottom area.   
-The large number of objects of daily life found in the ruins, some under toppled walls, makes it clear that the villa was violently destroyed, probably in the second half of the fifth century, though the date is uncertain.  -->
+The large number of objects of daily life found in the ruins, some under toppled walls, makes it clear that the villa was violently destroyed, probably in the second half of the fifth century, though the date is uncertain.
+-->
 
 ## Maps
 
@@ -77,7 +67,7 @@ The large number of objects of daily life found in the ruins, some under toppled
 ## Bibliography
 - Mª C. Fernández Castro, Las llamadas "Termas" de Rielves (Toledo), in Archivo Español de Arqueología, L-LI. CSIC, Madrid, 1978, pp. 209-251. [(worldcat)](https://search.worldcat.org/title/1122498001)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="266044" term="El Solao" >}}
 

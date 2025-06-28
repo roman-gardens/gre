@@ -5,7 +5,7 @@ type: garden
 title: "Public Square"
 date: 2020-10-15T10:00:00-04:00
 latlon: [ 0, 0 ]
-author: (AUTHOR_ID)
+author: 
 editor: Lai Ching Tsui
 draft: true
 ---
@@ -60,16 +60,11 @@ unspecified
 [(worldcat)](https://search.worldcat.org/title/1090911182)
 
 
-
-## Pleiades ID
+## Places
 - [Public Square at Italica]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="810966695" term="Public Square at Italica" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7007822" term="Itálica (deserted settlement)" >}}
 
-## Contributor
-[(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
 ## Publication date
 

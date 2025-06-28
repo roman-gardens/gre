@@ -14,10 +14,6 @@ draft: true
 - {{< id vocab="Pleiades" id="74935822" term="Via Labicana" >}}
 - {{< id vocab="Pleiades" id="229438405" term="Tomb Garden of a Funerary Collegium" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 Via Labicana
 
@@ -45,8 +41,6 @@ T. T. Coccei Gaa et  / Patiens quaest(ores) III ((tertio))  / mensam quadratam i
 The inscription concludes with eight hexameters urging readers to recognize in the expense incurred the just observance of piety and, for peace of mind, to follow the example of those who created and tended for the garden during their lifetimes so as to be remembered and cared for by others after their deaths (CLE 371). It is tempting to set the tomb complex of the funerary collegium described in this text in relation to the marble plan of a large tomb garden found also found in the Centocello cemetery and now in Urbino (no. XXX), but the references to ustrinae accessed by a path and gate, “the wall of a middle path with a tiled roof”, and projecting eaves in front of a portico are difficult to reconcile with the markings on the marble plan. If the two records do concern the same cemetery complex, the plan does not seem to depict the part of it described in the inscription of the collegium.
 
 
-
-
 ## Dates
 16 CE
 
@@ -58,19 +52,9 @@ The inscription concludes with eight hexameters urging readers to recognize in t
 - L. Chioffi, *Epigrafia e insediamenti: Il caso del suburbio di Roma,* in  La forma della città e del territorio (Atlante Tematico di Topografia Antica V Supplemento), edited by S. Quilici Gigli (Rome, 1999) 53 n. 9.[worldcat](https://search.worldcat.org/title/43384208)
 
 
-
-
-
-
-
-
-
-
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="229438405" term="229438405" >}}
-
 
 
 ## Contributor

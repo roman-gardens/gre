@@ -77,10 +77,8 @@ Vittorio Spinazzola, 1910-1923, *Pompei alla luce degli Scavi Nuovi di Via dell'
 Thomas D. Price and A. W. Van Buren, 1935, *'The House of Marcus Loreius Tiburtinus at Pompei', In MAAR 12, pp.151-153 and pls. 11-13.*  
 Paul Zanker, 1998, *Pompeii: Public and Private Life, pp.477-480.*
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

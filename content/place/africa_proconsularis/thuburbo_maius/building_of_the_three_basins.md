@@ -42,7 +42,6 @@ This building, located to the NW of the Winter Baths, was comprised of three art
 The SE area was laid out around an incomplete peristyle with seven columns along the NW and SW sides (Plan view, Fig. 1). Three semicircular pools projected into a large courtyard. A first pool was located at the extremity of the NW portico (II) facing the main reception room V, and there was a third of which only traces survive. The large court (I) of irregular shape (ca 24x10m) was not paved and may have been planted.
 
 
-
 ## Maps
 
 ## Plans
@@ -60,13 +59,9 @@ The SE area was laid out around an incomplete peristyle with seven columns along
 *  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.230-232. [(worldcat)](https://search.worldcat.org/title/989088620)
 
 
-
-## Pleiades_ID
+## Places
 
 - {{< id vocab="Pleiades" id="315220" term="Thuburbo Maius" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7001750" term="Kasba, Henchir el (deserted settlement)" >}}
 
 ## Contributor

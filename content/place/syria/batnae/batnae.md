@@ -22,16 +22,11 @@ An irrigation system based around the qanat, an underground water channel, was u
 - [Batnae]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="658405" term="Batnae/Markopolis" >}}
 
-<!--## Location Description-->
-
 ## Location Description
 The broad plain of Batanaea lay to the west of the uplands, known as Auranitis, in the Hauran, a basalt region that straddled the boundary between ancient Syria and Arabia.  Batanaea was not a naturally well-watered area, but it did develop during the Roman period into a successful grain-producing settlement via a careful management of rainwater.  The agriculture of the area, which included small enclosed gardens and plantations surrounding villages, depended on precipitation; a large cistern, or birket, commonly found throughout the Hauran and Batanaea, likely served the village and not irrigation purposes.  Although the village was perhaps the most ubiquitous settlement type, there did exist some imperial and private estates, potentially with their own gardens.  
 
 <!--## Sublocation-->
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 Imperial Residence at Batnae
@@ -67,11 +62,9 @@ fourth century CE
 ## Bibliography
 - K. Butcher, *Roman Syria and the Near East,* Los Angeles: Getty Publications, 2003. 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="658405" term="Batnae/Markopolis" >}}
-
-## TGN ID
 [#](#)
 
 ## Contributor

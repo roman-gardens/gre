@@ -65,16 +65,10 @@ The sanctuary of the Victories of Caracalla, situated in the southwest of the fo
 p. 364, pl. 14. [(worldcat)](https://search.worldcat.org/title/1028897747)
 * Sections from http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf
 
-## Pleiades_ID
+## Places
 
 - {{< id vocab="Pleiades" id="315223" term="Thugga/Tokai?" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7017996" term="Dougga (deserted settlement)" >}}
 
-## Contributor
-
-
-## Publication Date
+## Publication date
 21 Apr 2021

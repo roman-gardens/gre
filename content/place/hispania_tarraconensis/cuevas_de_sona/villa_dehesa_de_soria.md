@@ -5,7 +5,7 @@ type: garden
 title: "Villa Dehesa de Soria"
 date: 2020-07-08T10:39:31-07:00
 latlon: [ 0, 0 ]
-author: AUTHOR_ID
+author: 
 editor: Qianli Jiang
 draft: true
 ---
@@ -30,29 +30,12 @@ There has been little research on the gardens in the Roman settlements in Spain 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
 
-
 ## Location
 - [Villa Dehesa de Soria]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="667996380" term="Villa Dehesa de Soria(Pleiades)" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Villa Dehesa de Soria
-
 
 
 ## Keywords
@@ -67,11 +50,8 @@ The villa was first excavated in 1928-9.(Ampu  More than 22 rooms were paved wit
 This villa is one of the best examples in Spain of an axially planned peristyle villa. In the center of its grand peristyle courtyard (41 x 22 m.) was a structure which may have been part of a water supply system for the garden in the courtyard. The main reception room (Fig. 1, 1, in the center of the north wing) had a wide opening onto the garden and a passage through the low wall which otherwise surrounded the garden on three sides and half of the fourth. Likewise room [2] on the east side, possibly a triclinium, had a good view of the garden.  An unusual feature, however, is that, with the exception of these two rooms, all the other rooms around the porticoes of the peristyle did not open directly onto the portico but onto narrow corridors perpendicular to the portico. Thus, unless they had windows, they did not get light and air directly from the garden courtyard.
 
 
-
-
 ## Plans
 {{< image src="his_tar_cue_soria_fig1.jpg" alt="Villa of Cuevas de Soria." title="Villa of Cuevas de Soria.  Source: Gorges, Planche XLIV." >}}
-
 
 
 ## Dates
@@ -81,10 +61,8 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. [(worldcat)](https://search.worldcat.org/title/7840420644)
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="667996380" term="667996380" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7027125" term="Clunia (deserted settlement)" >}}
 
 ## Contributor

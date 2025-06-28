@@ -5,7 +5,7 @@ type: garden
 title: "Houses N5 and N7"
 date: 2020-10-18T11:56:31-14:00
 latlon: [ 47.260687, 9.617966 ]
-author: AUTHOR_ID
+author: 
 editor: Qianli Jiang
 draft: true
 ---
@@ -88,8 +88,6 @@ Houses N5 and N7
 These two adjacent houses are typical Tuscan atrium houses, both are against the western city wall, and both have gardens of some 50 square meters at the back of the house (Fig. 1).  In Pompeii, Jashemski found many small, non-peristyle gardens in modest homes.  Few have been found elsewhere, probably because they were in cities and most ancient cities are under modern ones.  This example of two side-by-side is therefore particularly noteworthy.  Mar and R. de Arbulo, in their comprehensive volume on Emporiae, give two somewhat different versions of House N5, one on page 366 and one on the foldout map in the pocket at the back of the book.  The main differences, however, are in the interpretation of the walls and spaces on the inside of the house and do not affect the interpretation of the garden areas.
 
 
-
-
 ## Plans
 {{< image src="HIS_TAR_Emp_5_7_fig1.jpg" alt="Plan of Houses N7 and N5." title="Plan of Houses N7 and N5.  Adapted from Ampurias Romana, p.366." >}}
 
@@ -101,14 +99,10 @@ Unspecified
 <!---doesn't have ## Bibliography-->
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="246382" term="Emporiae" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7027125" term="Clunia (deserted settlement)" >}}
 
-## Contributor
-AUTHOR_ID
 
 ## Publication date
 

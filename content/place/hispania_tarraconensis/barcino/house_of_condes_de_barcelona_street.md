@@ -44,19 +44,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 - [Barcino]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="246343" term="Barcino" >}}
 <!-- before the word description, and -->
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 House of Condes de Barcelona Street
 
@@ -82,10 +69,8 @@ Unspecified
 - A. Balil Iliana, *Casa y urbanismo en la España antigua*. Casa familiar y vivienda colectiva en la España romana,’ in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid, 1972, 113-115. [(worldcat)](https://search.worldcat.org/title/807743135)
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="246343" term="Col. Barcino" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7007426" term="Barcelona (inhabited place)" >}}
 
 ## Contributor

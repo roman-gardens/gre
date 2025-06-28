@@ -36,18 +36,6 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 ## Location Description
 Remains of gardens have yet to be discovered in this city, but an appreciation for garden culture is seen in the Terrace Houses, dating to the second and third centuries A.D., where wall paintings not only depict gardens, but use garden images to create the illustionistic experience of being in the space of garden.
 
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Tomb Garden and Orchard of Aphrodisios and Flavia
 
@@ -92,11 +80,9 @@ According to a secondary inscription carved horizontally, perhaps in the third c
 - C. Börker and R. Merkelbach, *Die Inschriften von Ephesos, Teil V.* Bonn, 1980 (I.Ephesos V), 1625b. [(worldcat)](https://search.worldcat.org/title/1085909921)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="599612" term="Ephesus/Arsinoe(ia)" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7002358" term="Caria (former nation/state/empire)" >}}
 
 ## Contributor

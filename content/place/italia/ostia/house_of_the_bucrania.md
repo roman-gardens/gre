@@ -106,12 +106,10 @@ summer 2002
 * T. Morard, *Mélanges de l'École française de Rome: Antiquité* Tome 115, No. 1 (2003), in press. [(worldcat)](https://search.worldcat.org/title/859589040)
 * T. Morard, D. Wavelet, "Prolégomènes à l’étude du site de la Schola du Trajan à Ostie," in *Mélanges de l'École française de Rome: Antiquité*, Tome 115, No. 2 (2002), pp. 759-815. [(worldcat)](https://search.worldcat.org/title/859589040) [(persée)](https://www.persee.fr/issue/mefr_0223-5102_2002_num_114_2)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 <!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
-
-## TGN ID
 
 - {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->

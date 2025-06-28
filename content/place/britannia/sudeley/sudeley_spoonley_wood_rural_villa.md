@@ -15,21 +15,6 @@ draft: false
 - [Sudeley/Spoonley Wood]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="79693" term="Sudeley/Spoonley Wood" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Rural Villa in Sudeley/Spoonley Wood
@@ -71,12 +56,9 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 - *Ancient and Historical Monuments in the County of Gloucester* Vol. 1. Royal Commission on Historical Monuments of England, London, 1976, pp. 113-114, fig. on p. 114. [(worldcat)](https://search.worldcat.org/title/929693324)
 - C. Taylor, *The Archaeology of Gardens*. Shire Archaeology Series 30, Aylesbury, 1983, pp. 30-31, fig. 1. [(worldcat)](https://search.worldcat.org/title/881563275)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="79693" term="Spoonley" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030316" term="Britannia (province)" >}}
 
 ## Contributor
@@ -84,7 +66,7 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 ## ORCID:
 
-[0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
+[Maureen Carroll](https://orcid.org/0000-0001-9958-8032))
 
 ## Publication date
 

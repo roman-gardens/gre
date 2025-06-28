@@ -28,19 +28,6 @@ Founded by Tyrians from Phoenicia, Carthage became the capital of a powerful emp
 Of the Roman period, the city plan is clearly recognizable. The plan takes as its central axis the summit of the acropolis of Byrsa that divided the city into four quarters of equal size except for the one situated to the northwest. The most remarkable monuments found in Carthage are the Baths of Antonius situated on the seashore at the foot of the hill of Borj Jedid and the villas that stretched along the Odeon’s hill. From the Christian era, several basilicas were found. The necropolis that surrounded the city has also provided important information on the city.
 
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 House of Dionysos
 
@@ -80,14 +67,10 @@ House of Dionysos
 * Ben Abed-Ben Khader, A., *Corpus des mosaïques de Tunisie. Vol. 4, Karthago (Carthage), Fasc. 1 Les mosaiques du Parc Archéologique des Thermes d'Antonin*, INA, Tunis,1999, 46-51, plan 5. [(worldcat)](https://search.worldcat.org/title/1069099591)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 143-144. [(worldcat)](https://search.worldcat.org/title/989088620)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="314921" term="Carthago" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7016143" term="Carthage (deserted settlement)" >}}
-
-## Contributor
 
 ## Publication date
 

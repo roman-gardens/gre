@@ -21,15 +21,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 - [Athens]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="579885" term="Athens" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -74,11 +65,8 @@ In the center of the building was a large open peristyle courtyard with a long p
 * J. Travlos, *Bildlexikon zur Topographie des antiken Athen.* Tübingen, 1971, pp. 244-252, figs. 316-318. [(worldcat)](https://search.worldcat.org/title/1024546553).
 * D. Willers, *Hadrians panhellenisches Programm: Archäologische Beiträge zur Neugestaltung Athens durch Hadrian.* Basel, 1990, pp. 14-21, figs. 1-2, pl. 1.3. [(worldcat)](https://search.worldcat.org/title/22880052).
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="728329644" term="Library of Hadrian at Athens" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="5004159" term="Agorá (ancient site)" >}}
 

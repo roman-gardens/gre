@@ -84,12 +84,9 @@ Excavated 1926 and 1927.
 * *PPP*, 1, p. 39.  
 * Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 26.  
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

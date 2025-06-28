@@ -19,9 +19,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Insula
 
@@ -97,12 +94,9 @@ unspecified
 * <span style="color:green">Schefold, *WändP*, p.38.</span>
 * <span style="color:green">Sichtermann, *Antike Welt* (1974), no. 3, pp. 41-45.</span>
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

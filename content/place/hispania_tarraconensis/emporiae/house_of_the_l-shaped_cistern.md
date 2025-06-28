@@ -5,7 +5,7 @@ type: garden
 title: "House of the L-shaped Cistern"
 date: 2020-10-18T11:56:31-14:00
 latlon: [ 47.260687, 9.617966 ]
-author: AUTHOR_ID
+author: 
 editor: Qianli Jiang
 draft: true
 ---
@@ -88,21 +88,15 @@ House of the L-shaped Cistern
 This house, which was also set against the lower edge of the city near the port, was excavated in 1924 and 1935 .  It had been much altered by *burials* in late antiquity.  Its large cistern yielded a collection of objects from about the time of abandonment : eleven jars of common ceramic, terra sigillata from southern Gaul, *ceramics* from Africa, glass, toilet articles of bone, metals, coral, and a little domestic altar.
 
 
-
 ## Dates
 Unspecified
 
 <!---doesn't have ## Bibliography-->
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="246382" term="Emporiae" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7027125" term="Clunia (deserted settlement)" >}}
-
-## Contributor
-AUTHOR_ID
 
 ## Publication date
 

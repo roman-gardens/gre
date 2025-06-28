@@ -28,9 +28,6 @@ draft: true
 ## Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Insula
 II
@@ -94,10 +91,8 @@ unspecified
 - Ruggiero, *Ercolano*, pp. 541-545 (contains the detailed reports of Bonucci)[(worldcat)](https://search.worldcat.org/title/18405521)
 -
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 
@@ -106,7 +101,6 @@ unspecified
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
 ## Publication date
-
 
 
 <!--## Related articles-->

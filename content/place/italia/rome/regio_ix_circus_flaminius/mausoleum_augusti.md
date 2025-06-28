@@ -27,7 +27,6 @@ draft: false
 - {{< id vocab="Pleiades" id="422863" term="Campus Martius" >}}
 
 
-
 ## Garden
 
 Garden of the Mausoleum of Augustus \
@@ -53,7 +52,6 @@ Garden of the Mausoleum of Augustus \
 - {{< keyword "statues" >}}
 - {{< keyword "travertine" >}}
 - {{< keyword "ustrina" >}}
-
 - [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
 - [Strabo](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1333)
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
@@ -109,6 +107,6 @@ between 28 and 23 BCE
 * E. La Rocco, *Ara Pacis Augustae: in occasione del restauro della fronte orientale*, Rome, 1983. [(worldcat)](https://search.worldcat.org/title/60060689)
 * B. Frischer et al. “New Light on the Relationship between the Montecitorio Obelisk and the Ara Pacis of Augustus,” *Studies in Digital Heritage* (1:1), 2017, pp. 1–105. [(worldcat)](https://search.worldcat.org/title/1224085907)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="281368358" term="Mausoleum Augusti" >}}

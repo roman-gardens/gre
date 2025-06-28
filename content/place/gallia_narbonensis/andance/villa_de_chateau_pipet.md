@@ -5,7 +5,7 @@ type: garden
 title: "Villa de Château-Pipet"
 date: 2020-11-15T00:08:52-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Villa de Château-Pipet](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Villa
 
 Villa de Château-Pipet
-
 
 
 ## Keywords
@@ -49,8 +41,6 @@ Villa de Château-Pipet
 - {{< keyword "basins" >}}
 - {{< keyword "columns" >}}
 - {{< keyword "opus signinum" >}}
-
-
 
 
 ## Villa Description
@@ -61,22 +51,13 @@ Between the garden and the gallery on the west was a rectangular pool with a sem
 No date was proposed for the structure in the excavation reports.
 
 
-
-
-
-
-
 ## Plans
 
 
 {{< image src="villa_de_chateau_pipet.png" alt="Plan of Villa de Château-Pipet" title="Plan of Villa de Château-Pipet" >}}
 
 
-
 ## Dates
-
-
-
 
 
 ## Bibliography
@@ -86,21 +67,15 @@ No date was proposed for the structure in the excavation reports.
 2. Chr. FRAISSE, J. DUPRAZ, sous la resp. de M. Provost, *L’Ardèche* 07, Carte  archéologique de la Gaule, 2001, P. 195-196, plan P. 196 [(worldcat)](https://search.worldcat.org/title/490154337)
 
 
-
-
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="1031774" term="Andance (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

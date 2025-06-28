@@ -20,7 +20,6 @@ Judaea, the Roman province, included parts of the areas of the [Hasmonean](https
 The geography of Judaea comprises a wide variety of biomes, from richly watered plains of the Galilee and the Jordan, to the semi-arid Judean Hills, the humid, fertile coastal plain of the Mediterranean, and the deserts of the Dead Sea valley and the Negev. The period for which we have the richest evidence of a garden culture in this region is during the reign of [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great).  An allied king of Rome, Herod’s relationships with [Mark Antony](https://en.wikipedia.org/wiki/Mark_Antony), [Cleopatra](https://en.wikipedia.org/wiki/Cleopatra), [Augustus](https://en.wikipedia.org/wiki/Augustus), and [Marcus Agrippa](https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa) and other officials ave been preserved in the texts of [Flavius Josephus](https://en.wikipedia.org/wiki/Josephus).  These constitute a rare record of interactions between Rome and its territories, and provide a valuable context for understanding the trends of design in the early imperial period.  The proximity of Judaea to Alexandria, whose palaces and gardens lie beneath the modern city and its harbors, may also provide a suggestion of the late Hellenistic garden culture that Romans emulated.  Evidence of gardens in the Hasmonean winter palaces at Jericho and the palace identified as that of Hyracanus the Tobiad at 'Iraq al-Amir on the other side of the Jordan Valley provide rare cases where texts can illuminate archaeological evidence. These gardens require further investigation and both are threatened by local development.
 
 
-
 ## Location
 
 - [Jericho]({{<relref ".">}}) 
@@ -84,7 +83,6 @@ The plan reveals seven rows of up to eleven pots per row, although directly in f
 {{< image src="ASIA_JUD_JERICHO_13a.jpg" alt="Figure 3: Plan of the Ionic Peristyle Courtyard B64 with the location of the planting pots (K. Wilczak and K. Gleason)." title="Figure 3: Plan of the Ionic Peristyle Courtyard B64 with the location of the planting pots (K. Wilczak and K. Gleason)." >}}
 
 
-
 ## Images
 
 {{< image src="ASIA_JUD_JERICHO_12.jpg" alt="Figure 4: Section extending from the Sunken Garden, through Garden B64, to the Southern Tell (K. Wilczak after Netzer 2001a: Ill. 478)." title="Figure 4: Section extending from the Sunken Garden, through Garden B64, to the Southern Tell (K. Wilczak after Netzer 2001a: Ill. 478)." >}}
@@ -112,16 +110,13 @@ The plan reveals seven rows of up to eleven pots per row, although directly in f
 * J. Pritchard, “The Excavation at Herodian Jericho, 1951," The Annual of the American Schools of Oriental Research 32-3 (1952-4): 56-58. [worldcat](https://search.worldcat.org/title/256829094)
 * Langgut D. and Gleason K. 2020. Identification of the miniaturized garden of King Herod the Great: The fossil pollen evidence, Strata.
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="687917" term="Jericho" >}}
 
 <!--## TGN ID
 
 [#](#)-->
-
-## Contributor
-
 
 ## Publication date
 

@@ -14,21 +14,6 @@ draft: true
 
 Rheinbach-Flerzheim
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Rustic villa at Rheinbach-Flerzheim
@@ -73,16 +58,12 @@ Second century CE to mid-fifth century CE
 - M. Gechter, "Der römische Gutshof von Rheinbach-Flerzheim," in *Spurensicherung. Archäologische Denkmalpflege in der Euregio Maas-Rhein*, Mainz, 1992, pp. 249-54, 452-60. [worldcat](https://search.worldcat.org/title/28027282)
 - M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 79, fig. 38. [worldcat](https://search.worldcat.org/title/1120840822)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981524" term="Germania Inferior" >}}
 <!-- germania imferior; no pleiades location -->
 
-## TGN ID
-
 - {{< id vocab="TGN" id="7192890" term="Flerzheim (inhabited place)" >}}
-
-## Contributor
 
 ## Publication date
 

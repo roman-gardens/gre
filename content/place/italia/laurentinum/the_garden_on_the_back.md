@@ -13,10 +13,6 @@ draft: true
 ## Location
 - {{< id vocab="Pleiades" id="422959" term="Laurentes" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 laurentinum
 
@@ -55,8 +51,6 @@ Excavating the garden of the Laurentinum would have been very interesting, but t
 This description we just reported was the one that Pliny gave us. From what we see now, it appears that, after Pliny's death and the selling of his maritime residence, the new owners brought many changes to it. Today high heaps of soil surround the garden's area and, even though this part has not been excavated, it is evident that some masonry structure must be buried under it. It is highly probable that the vine trellises, and the rustic enclosures of Pliny's times, were substituted by a marble portico which transformed the simple garden in a more elegant peristyle one. Evidently at this moment mulberry trees and figs must have been quickly replaced by less useful but more decorative plants.
 
 
-
-
 ## Plans
 {{< image src="102 - Pliny times.jpg" alt="102 - The Lauretinum as it was in Pliny’s times" title="102 - Pliny times">}}
 {{< image src="103 - Severian Laurentinum.jpg" alt="103 - Laurentinum in Severian times. Map of the excavations and surface remains." title="1103 - Laurentinum in Severian times">}}
@@ -77,12 +71,9 @@ Unspecified
 - SALZA PRINA RICOTTI 1987a = rrE. SALZA PRINA RICOTTI, , *La Villa Magna a Grotte di Piastra*,in Castelporziano II. Campagna di scavo e di restauro 1985 – 1986, Roma 1987, pp. 45-66 [worldcat](https://search.worldcat.org/title/848344120)
 
 
-
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="422959" term="Laurentes" >}}
-
 
 
 ## Contributor

@@ -14,21 +14,6 @@ draft: false
 
 [Chester]({{<relref ".">}})  
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Tomb Painting in Chester
@@ -57,12 +42,9 @@ unspecified
 * R. P. Wright and I. A. Richmond, *Catalogue of the Inscribed and Sculptured Stones in the Grosvenor Museum, Chester* (1955) 40 no. 92, pl. 26. [(world cat)](https://search.worldcat.org/title/500390411)
 * J. M. C. Toynbee, *Death and Burial in the Roman World* (London 1971) 100. [(world cat)](https://search.worldcat.org/title/807342603)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="89144" term="Cilurnum" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7026064" term="Chesters (inhabited place)" >}}
 
 ## Contributor

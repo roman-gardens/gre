@@ -27,7 +27,6 @@ draft: false
 - {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
-
 ## Garden
 
 Garden of the Domus Augustana, Palatine
@@ -101,7 +100,7 @@ unspecified
 * N. Sojc (Hrsg), *Domus Augustana. Neue Forschungen zum “ Versenkten Peristyl” auf dem Palatin; Investigating the “ Sunken Peristyle” on the Palatine Hill*, Leiden 2012 [(worldcat)](https://search.worldcat.org/title/862716259)
 * A. Platner-Ashby, *A Topographical Dictionary of Ancient Rome*, London: Oxford, 1929: 158-166.[(worldcat)](https://search.worldcat.org/title/910092330)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}
 

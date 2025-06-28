@@ -40,10 +40,8 @@ At the time of the eruption this peristyle garden (a) was in the process of reno
 ## Plans
 {{< image src="fig.16_region_viii.insula_v.png" alt="Fig. 16, Plan of  Region VIII, Insula V" title="Plan of  Region VIII, Insula V" >}}
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
@@ -55,7 +53,6 @@ Unspecified
 * Mairui, *Notizie degli scavi di Antichita* (1944-1945), p. 150 and fig. 6 (plan) on p. 144 [(worldcat)](https://search.worldcat.org/title/638883283)
 * Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), p.172 [(worldcat)](https://search.worldcat.org/title/823239162)
 * Sogliano, *Notizie degli scavi di Antichita* (1881), pp. 320-321 [(worldcat)](https://search.worldcat.org/title/638883283)
-
 
 
 ## Contributor

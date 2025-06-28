@@ -20,21 +20,6 @@ draft: true
 - [Hummetroth]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981525" term="Hummetroth" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Rural Villa in Hummetroth
@@ -81,16 +66,10 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 * D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart,1989, pp. 360-361, fig. 303a-b. [(worldcat)](https://search.worldcat.org/title/476625416)
 * M. Carroll, *Romans,Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 74, fig. 29. [(worldcat)](https://search.worldcat.org/title/1120840822)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7165467" term="Hummetroth (inhabited place)" >}}
-
-## Contributor
-
 
 ## Publication date
 

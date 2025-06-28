@@ -5,7 +5,7 @@ type: garden
 title: "Sanctuary"
 date: 2020-10-15T10:00:00-04:00
 latlon: [ 37.713343, -5.740734 ]
-author: (AUTHOR_ID)
+author: 
 editor: Lai Ching Tsui
 draft: true
 ---
@@ -20,19 +20,6 @@ draft: true
 - [Munigua]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256318" term="Munigua" >}}
 
-## Location Description
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Sanctuary
@@ -41,7 +28,6 @@ Sanctuary
 
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "porticoes" >}}
-
 
 
 ## Garden Description
@@ -66,7 +52,6 @@ The sanctuary occupies various terraces and dominates the city below. The plan o
 {{< image src="HIS_BAE_Munigua_Sanctuary axon_CA.jpg" alt="Fig. 1: Perspective drawing of the Sanctuary at Munigua. Source: Hauschild, p.136. (Rights Statement)" >}}
 
 
-
 ## Dates
 
 unspecified
@@ -76,18 +61,11 @@ unspecified
 * T. Hauschild, ‘Los templos romanos de Munigua,’ *Templos romanos de Hispania vol. I of Cuadernos de Arquitectura Romana*, (Murcia,  1992). 133-143 [(worldcat)](https://search.worldcat.org/title/492641941)
 
 
-
-
-
-## Pleiades ID
+## Places
 - [Munigua]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256318" term="Munigua" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7027137" term="Castillo de Mulva (deserted settlement)" >}}
 
-## Contributor
-[(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
 ## Publication date
 

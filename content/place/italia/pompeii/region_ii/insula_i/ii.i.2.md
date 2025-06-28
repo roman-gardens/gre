@@ -37,7 +37,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 House of Aemilius Primio and Aemiluis Saturninus
 
 
-
 ## Garden
 Small garden to the rear of a [taberna](http://vocab.getty.edu/page/aat/300005366)
 
@@ -49,10 +48,8 @@ Behind the shop, living quarters were located, including a garden to the rear. T
 W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.75.* [(worldcat)](https://search.worldcat.org/title/222353569)
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

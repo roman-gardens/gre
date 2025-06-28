@@ -15,10 +15,6 @@ draft: true
 - [via tiburtina]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="272213281" term="via tiburtina" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 ## Sublocation Description
@@ -50,13 +46,9 @@ Unspecified
 ## Bibliography
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian, BCom 92 (1987-88) [1989] 182 n. 48. [worldcat](https://search.worldcat.org/title/886794800)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="272213281" term="Via Tiburtina" >}}
-
-## TGN ID
-
-## Contributor
 
 ## Publication date
 

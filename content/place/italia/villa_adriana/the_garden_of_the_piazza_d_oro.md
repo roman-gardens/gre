@@ -123,12 +123,10 @@ unspecified
 * PLIN. *nat.* 21.14 and 47
 * E. Salza Prina Ricotti, “Il sistema di irrigazione della Piazza d’Oro”, *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 62 (1989-90), pp. 121-150. [(worldcat)](https://search.worldcat.org/title/1074521932)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="379689233" term="Piazza d'Oro at Hadrian's Villa" >}}
 <!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
-
-## TGN ID
 
 - {{< id vocab="TGN" id="7006983" term="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->

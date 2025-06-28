@@ -102,11 +102,8 @@ unspecified
 * Bernard Andreae, *Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia*, pp. 121-123. [(worldcat)](https://search.worldcat.org/title/797420782)
 * M.A. Ricciardi, V. Santa Maria Scrinari, *La Civiltà dell’acqua in Ostia Antica* 2, Rome, 1996, pp. 114-117. [(worldcat)](https://search.worldcat.org/title/801186023)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="223974298" term="Garden Houses" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->

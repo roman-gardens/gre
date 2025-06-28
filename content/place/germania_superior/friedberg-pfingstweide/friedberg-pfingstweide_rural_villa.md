@@ -20,21 +20,6 @@ draft: true
 - [Friedberg Pfingstweide]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981525" term="Friedberg Pfingstweide" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Rural Villa in Friedberg Pfingstweide
@@ -75,16 +60,10 @@ Early 2nd century - first half of 3rd century
 
 * D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart, 1989, pp. 307-309, fig. 246. [(worldcat)](https://search.worldcat.org/title/476625416)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
-
-## Contributor
-
 
 ## Publication date
 

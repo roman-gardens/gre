@@ -62,10 +62,7 @@ probably the first or second century
 
 * J. Kubińska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure.* Warsaw, 1968, pp. 146-47. [(worldcat)](https://search.worldcat.org/title/923470105)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="540701" term="Chaeronea" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7010731" term="Chaironeia (inhabited place)" >}}

@@ -109,11 +109,8 @@ The house is one of the most interesting examples of the transition from the atr
 * M.A. Ricciardi, V. Santa Maria Scrinari, *La Civiltà dell’acqua in Ostia Antica* 2, Rome, 1996, pp. 108-111. [(worldcat)](https://search.worldcat.org/title/801186023)
 * L.B. van der Meer, N.L.C. Stevens, H. Stoeger, "Domus Fulminata: The House of the Thunderbolt at Ostia (III, vii, 3-5)," *Bulletin Antieke Beschaving* 80, 2005, pp. 91-111. [(worldcat)](https://search.worldcat.org/title/703562666)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="1554484" term="House of the Thunderbolt" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->

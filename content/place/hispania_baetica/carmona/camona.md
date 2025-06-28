@@ -20,19 +20,6 @@ draft: true
 - [Carmona]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="521700443" term="Carmona" >}}
 
-## Location Description
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Elephant tomb
@@ -72,7 +59,6 @@ In the necropolis of Carmona, near Seville, is a very large and deep tomb create
 {{< image src="9-photo-of-carmona.jpg" alt="Figure 9 – Photo of the Tomb of the Elefant at Carmona. (Rights Statement)">}}
 
 
-
 ## Dates
 
 unspecified
@@ -81,11 +67,9 @@ unspecified
 * Vaquerizo Gil, Desiderio, *Necroìpolis urbanas en Baetica*, Tarragona 2010).[(worldcat)](https://search.worldcat.org/title/929776098)
 
 
-## Pleiades ID
+## Places
 - [Elephant tomb at Carmona]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="521700443" term="Elephant tomb at Carmona" >}}
-
-## TGN ID
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
 
 ## Contributor

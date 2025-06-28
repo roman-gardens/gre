@@ -30,10 +30,6 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 
 The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.
 
-<!--## Sublocation-->
-
-<!--## Sublocation Description-->
-
 ## Garden
 
 House of Bacchus, building south of the Great Baths (Maison de Bacchus, édifice au sud des Grands Thermes)
@@ -59,7 +55,6 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 2-The main building (Plan view Fig. 1) is composed of two peristyle dwellings, formerly separate, linked up during the Late Empire; the central space of the large one was paved, first with slabs, afterwards with mosaic. The little peristyle (7 m x 10 m) was a garden (B) enclosed by three porticoes, supported by six columns (rough and probably stuccoed) and bordered by a low wall. On the south side, there was a semi-circular pool, the front of which was closed by two stone plates, engraved with lozenges and joined by a cut column. The exedra and the rooms having view into the garden seem to have been devoted to private life, unlike the large one.
 
 3-The rear garden (C) of the "House of Bacchus" seems to have originally belonged to the little baths and then the house with the large peristyle VI (see Plan view in red Fig. 1). It was greatly transformed in Late Antiquity. The great seven apses hall, built in the middle of the fifth century, took the place of the small baths and overwhelmed this space with its impressive volume. The large *oecus* may be assigned to the Constantinian period: perhaps it had a view over the rear garden at that time. Afterwards, this room was extended with an absidial pool (11 m long); through a wide door, people accessed a little terrace, from where they overlooked the new pool, paved with marble, one meter below. Water arrived from two little pools on each side and went into the drain of the seven apses room. Two little columns bore a small pediment. In the inside edges, we see terracotta amphoras used to raise fish. The inside borders are complete, but the outside masonry is unfinished, so that we may think that the rear wall may have stood high enough to form a nymphaeum. The masonry is similar in the fish pool and in the seven apses (brick tiles joined by brick layers forming crosses) : from that, we infer they were built at the same time, in the middle of the fifth century. The foundation of the fish pool was laid on the bottom of the rectangular one, which perhaps was filled up.
-
 
 
 ## Plans
@@ -89,10 +84,8 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 * Malek, A.-A., "Le jardin au fil de l’eau:  mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l’époque romaine*, eds, V. Brouquier-Reddé et F. Hurlet, Bordeaux, Ausonius, 2018, pp. 248-249. [(worldcat)](https://search.worldcat.org/title/1078217356)
 * Malek, A.-A. "De l’espace pictural à l’espace du jardin : mosaïques et jardins dans les domus de l’Afrique romaine", in *Archéologie des jardins: analyse des espaces et méthodes d’approches*,  Van Ossel, P.,  Guimier-Sorbets, A.-M. (dir.), Archéologie et histoire romaine 26, Editions Monique Mergoil, 2014, p. 20. [(worldcat)](https://search.worldcat.org/title/869205223)
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}
-## TGN ID
-
 ## Contributor
 
 [Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)

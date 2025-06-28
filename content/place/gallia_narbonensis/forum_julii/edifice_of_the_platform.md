@@ -5,7 +5,7 @@ type: garden
 title: "Edifice of the Platform"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Edifice of the Platform](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
 Edifice of the Platform
-
 
 
 ## Keywords
@@ -60,8 +52,6 @@ This construction is situated in the southeast corner of Network B of the town p
 At the north, a large vestibule gives access to a vast courtyard with a peristyle [2] of 41.5 meters by 45 meters around which the residence is organized. This court was not a garden but rather was paved with flagstones and sloped, according to Charles Texier, to collect the rain water into a mighty central subterranean cistern that was covered by a rectangular ornamental pool of 9.5 by 12.5 meters.  This cistern would have made the residence self-sufficient in water. The peristyles and courts that led to the apartments with many rooms seem also to have had no gardens, for the surface was hard, either of concrete or *opus sectile*.  It is on the outside that a garden would have been developed, on the south façade of the construction along a portico or gallery; the garden [26] of 900 square meters of arable land was limited by the rampart to the south.  It would have offered a panorama on the port and plain.
 
 
-
-
 ## Plans
 
 
@@ -71,7 +61,6 @@ At the north, a large vestibule gives access to a vast courtyard with a peristyl
 ## Dates
 
 
-
 ## Bibliography
 
 1. Bouet, Alain. La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise. Vaucluse: Service d'Archéologie du Conseil Général de Vaucluse, 1996, P. 94-96, fiche n°2, P. 104-105 [(worldcat)](https://search.worldcat.org/title/919659882)
@@ -79,19 +68,15 @@ At the north, a large vestibule gives access to a vast courtyard with a peristyl
 2. RIVET,  D.  BRENTCHALOFF,  S.  ROUCOLE,  S.  SAULNIER,  *Fréjus,  Atlas topographique  des  villes  de  gaule  méridionale*,  R.A.N.,  supplément  32,  Montpellier,  2000,  P. 251-257. [(worldcat)](https://search.worldcat.org/title/491603596)
 
 
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7008791" term="Fréjus (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

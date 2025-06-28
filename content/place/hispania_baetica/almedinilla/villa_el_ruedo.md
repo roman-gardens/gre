@@ -20,19 +20,6 @@ draft: true
 - [Almedinilla]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="266015" term="Almedinilla" >}}
 
-## Location Description
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Villa el Ruedo
@@ -82,8 +69,6 @@ The chronology of the house is quite tentative.  A first phase, probably to be p
 {{< image src="HIS_BAE_Almedinilla_El Ruedo_Fig. 3_CA.jpg" alt="Fig. 3  Photograph looking south over stibadium and pools (Clopper Almon). (Rights Statement)" >}}
 
 
-
-
 ## Dates
 
 unspecified
@@ -94,13 +79,10 @@ unspecified
 * D. Vaquerizo and J. M. Noguera,*La villa romana de El Ruedo (Almedinilla, Córdoba): Decoración escultórica e interpretación*, Diputación Provincial de Córdoba-Universidad de Córdoba-Universidad de Murcia (Murcia 1997). [(worldcat)](https://search.worldcat.org/title/1024361591)
 
 
-## Pleiades ID
+## Places
 
 - [El Ruedo]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="266015" term="El Ruedo" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="4000563" term="Almedinilla (inhabited place)" >}}
 
 ## Contributor

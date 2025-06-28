@@ -28,19 +28,6 @@ The city of Mactaris that had belonged to the kingdom of the Massylii was elevat
 
 Archaeological investigations brought to light the amphitheater, two forums, the temple of *Liber Pater*, on which was erected a Christian church, and the Neo-Punic sanctuary converted into a Christian building. Also found were the temples of Apollo and Diana, several public baths that have not been completely excavated among them the great baths to the southeast and their *palestra*, and the northern baths. Along the periphery of the site a pyramidal mausoleum and the mausoleum of the *Julii* were discovered, both built on a grand scale.
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 House of Venus (Maison de Venus)
 
@@ -63,7 +50,6 @@ House of Venus (Maison de Venus)
 {{< image src="AFR_Mac_Hv_WJashemskifig4.jpg" alt="Plan of the House of Venus at Mactaris; Picard, G. Ch., Bourgeois, A., 1977, pp. 213-220" title="Fig. 1: Plan of the House of Venus. (Picard, G. Ch., Bourgeois, A., 1977, Plan. I)" >}}
 
 
-
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
@@ -79,12 +65,9 @@ House of Venus (Maison de Venus)
 * Picard, G. Ch., Bourgeois, A., “La Maison de Vénus.”, in *Recherches Archéologiques Franco-Tunisiennes à Mactar, Sratigraphie et étude des pavements*, I, 1977, EFR, Rome, pp. 213-220, Plan I. [(worldcat)](https://search.worldcat.org/title/605049018)
 
 
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="324774" term="Mactaris" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="5003670" term="Mactar (deserted settlement)" >}}
 
 ## Contributor

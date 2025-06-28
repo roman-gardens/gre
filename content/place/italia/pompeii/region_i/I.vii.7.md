@@ -84,12 +84,9 @@ Excavated 1912 and 1924.
 * Maiuri, A. 1939. *Pompeii*, p. 112. [(worldcat)](https://search.worldcat.org/title/470375462)   
 * Maiuri, A. 1961. *“I giardini,” In Le Vie d’Italia*, p. 1138, no. 9.  
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

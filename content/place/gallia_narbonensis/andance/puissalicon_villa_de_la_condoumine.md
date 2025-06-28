@@ -5,7 +5,7 @@ type: garden
 title: "Puissalicon, villa de la Condoumine"
 date: 2020-11-15T00:08:52-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Puissalicon, villa de la Condoumine](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Villa
 
 Puissalicon, villa de la Condoumine
-
 
 
 ## Keywords
@@ -55,9 +47,6 @@ Puissalicon, villa de la Condoumine
 - {{< keyword "reception rooms" >}}
 
 
-
-
-
 ## Villa Description
 
 This villa in the plain of the Libron at the place called la Condoumine in the commune of Puissalicon, was first noted between 1926 and 1942 and excavated beginning in 1965. The total site extends over six hectares; the constructions of the villa must have covered some 2500 square meters but only about a quarter of the structures are known for certain. Especially well known are the baths on the south of the villa, which were complemented by a large ornamental pool.
@@ -68,24 +57,15 @@ In the opinion of the excavator, a garden extended to the south of the pool, whe
 The gallery led to baths [19-26]. In a second phase, they were dismantled and the heating system filled in. Two little rectangular pools belonging to fountains were created, one on either side of the door of the former *caldarium* [23], and another ornamental fountain was placed against the south exterior wall of the baths, blocking a former door and passage way. The apse of the room was enlarged and assumed a horseshoe shape. One may well ask, with Alain Bouet, whether in this late phase the space did not take on the function of a reception room.
 
 
-
-
-
-
-
-
 ## Plans
 
 
 {{< image src="puissalicon_villa_de_la_condoumine.png" alt="Plan of Puissalicon, villa de la Condoumine" title="Plan of Puissalicon, villa de la Condoumine" >}}
 
 
-
 ## Dates
 
 A.D. 75-100 built
-
-
 
 
 ## Bibliography
@@ -97,21 +77,15 @@ A.D. 75-100 built
 2. Alain Bouet, *Les thermes publics et privés en Gaule Narbonnaise*, vol. II, catalogue, coll. École Française de Rome 320, Rome, 2003, P. 208-11. [(worldcat)](https://search.worldcat.org/title/490154337)
 
 
-
-
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="1031774" term="Andance (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

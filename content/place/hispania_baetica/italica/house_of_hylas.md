@@ -5,7 +5,7 @@ type: garden
 title: "House of Hylas"
 date: 2020-10-18T10:00:00-04:00
 latlon: [ 0, 0 ]
-author: (AUTHOR_ID)
+author: 
 editor: Lai Ching Tsui
 draft: true
 ---
@@ -73,17 +73,11 @@ unspecified
 * A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). 82-83 [(worldcat)](https://search.worldcat.org/title/916989580)
 
 
-
-
-## Pleiades ID
+## Places
 - [House of Hylas at Italica]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="634946753" term="House of Hylas at Italica" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7007822" term="Itálica (deserted settlement)" >}}
 
-## Contributor
-[(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
 ## Publication date
 

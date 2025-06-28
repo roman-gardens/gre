@@ -5,7 +5,7 @@ type: garden
 title: "Villa de Muscapeu"
 date: 2020-11-15T00:08:52-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -28,22 +28,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Tourves is a village about 30 kilometers almost due north of Toulon on the via Aureliana in the valley of the Camary, a tributary of the Argens.
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Villa de Muscapeu](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Villa
 
 Villa de Muscapeu
-
 
 
 ## Keywords
@@ -54,8 +46,6 @@ Villa de Muscapeu
 - {{< keyword "porticoes" >}}
 - {{< keyword "mosaics" >}}
 - {{< keyword "balnea" >}}
-
-
 
 
 ## Villa Description
@@ -69,20 +59,13 @@ The living quarters were between the colonnade of the peristyle [2] and that of 
 In a second stage, in the first century, a bath complex [5] with an open-air esplanade was built to the southwest of the peristyle.  In a third stage, these baths were redecorated with marble.  In a final stage, in the second century, new baths [6] were constructed to the west of the original complex, but the original was not abandoned.
 
 
-
-
-
 ## Plans
 
 
 {{< image src="villa_de_muscapeu.jpg" alt="Plan of The Villa de Muscapeu" title="Plan of The Villa de Muscapeu" >}}
 
 
-
 ## Dates
-
-
-
 
 
 ## Bibliography
@@ -94,20 +77,15 @@ In a second stage, in the first century, a bath complex [5] with an open-air esp
 3. R. AMBARD, *La  villa  gallo-romaine  de  Muscapeu*, in *Provence  historique*,  V, 1955, P. 104.
 
 
-
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="1035905" term="Tourves (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

@@ -5,7 +5,7 @@ type: garden
 title: "House of the Fishpond"
 date: 2020-09-29T00:31:02-02:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -27,17 +27,10 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [House of the Fishpond](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -48,8 +41,6 @@ House of the Fishpond
 ## Keywords
 
 - {{< keyword "domus" >}}
-
-
 
 
 ## Garden Description
@@ -88,7 +79,6 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 
-
 ## Bibliography
 
 1. *Maison 1996*, t. II,, p. 406-411
@@ -101,18 +91,15 @@ NEW WAY ↓↓↓↓
 
 6. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig.194.[worldcat](https://search.worldcat.org/title/43416334)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="5004109" term="Saint-Romain-en-Gal (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

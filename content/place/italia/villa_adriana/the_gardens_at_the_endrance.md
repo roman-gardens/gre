@@ -98,12 +98,10 @@ unspecified
 * Mari, Reggiani, Righi, "Grande Vestibolo presso le Cento Camerelle. Indagini e restauri," in F. Filippi (ed.), *Archeologia e Giubileo. Gli interventi a Roma e nel Lazio nel Piano per il Grande Giubileo del 2000*, Napoli 2000, pp. 478-483. [(worldcat)](https://search.worldcat.org/title/47988378)
 * E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 323-324, fig. 80-81, 87, 134-135. [(worldcat)](https://search.worldcat.org/title/46784026)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="423127" term="Villa Hadriani" >}}
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
-
-## TGN ID
 
 - {{< id vocab="TGN" id="7006983" term="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->

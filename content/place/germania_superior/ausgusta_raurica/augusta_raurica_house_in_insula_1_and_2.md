@@ -23,18 +23,6 @@ draft: true
 ## Location Description
 
 The town on the Rhine River possessed colonial status since the late 1st century BC. The street grid, as well as many public and residential buildings, are well known from excavations.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 House in Insula 1 and 2 in Augusta Raurica
@@ -81,16 +69,10 @@ House: AD 150 - ca. 170
 * P.-A. Schwarz, „Die Nordmauer und die Überreste der Innenbebauung der spätrömischen Befestigung auf Kastelen in Augusta Rauricorum. Vorbericht über die Grabung 1991.51,“ *Jahresberichte aus Augst und Kaiseraugst* 13, 1992: 47-76. [(worldcat)](https://search.worldcat.org/title/891787691)
 * T. Hufschmid, *Kastelen 3. Die jüngeren Steinbauten in den Insulae 1 und 2 von Augusta Raurica*. Forschungen in Augst 23, Augst, 1996. [(worldcat)](https://search.worldcat.org/title/613566402)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="177494" term="Col. Augusta Raurica" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7017586" term="Augusta Rauricorum (deserted settlement)" >}}
-
-## Contributor
-
 
 ## Publication date
 

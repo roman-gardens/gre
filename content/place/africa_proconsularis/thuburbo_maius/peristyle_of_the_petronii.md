@@ -50,12 +50,9 @@ The courtyard of this large peristyle to the NE of the Summer Baths, dedicated b
 *  CMT, *Thuburbo Majus, Les mosaïques de la région des Grands Thermes*, V. II, fasc.2,INA, Tunis, 1985, pp37-8, plan 5-6. [(Worldcat)](https://search.worldcat.org/title/905765362)
 * Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](https://search.worldcat.org/title/20058336)
 
-## Pleiades_ID
+## Places
 
 - {{< id vocab="Pleiades" id="315220" term="Thuburbo Maius" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7001750" term="Kasba, Henchir el (deserted settlement)" >}}
 
 ## Contributor

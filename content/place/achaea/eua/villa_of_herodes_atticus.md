@@ -21,21 +21,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 - [Eua]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="570241" term="Eua" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Villa of Herodes Atticus
@@ -82,7 +67,7 @@ From the 2nd century CE until 400 CE
 * G. Ieranò, “I tesori di un intellettuale,” *Archeo* 6, 2001:48-53
 * G. Spyropoulos, *Drei Meisterwerke der griechischen Plastik aus der Villa des Herodes Atticus zu Eva/Loukou.* Frankfurt-am-Main, 2001. [(worldcat)](https://search.worldcat.org/title/1039041411)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="570241" term="Eua?" >}}
 

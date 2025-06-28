@@ -27,7 +27,6 @@ draft: false
 - {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
-
 ## Garden
 
 Gardens of the Republican *Domus*, Palatine
@@ -66,12 +65,9 @@ RELATED PHASES ON THE PALATINE:
 
 * M.A. Tomei, *Augusto sul Palatino: Gli Scavi di Gianfilippo Carettoni. Appunti inediti (1955-1984)*, Milano, 2014. [(worldcat)](https://search.worldcat.org/title/903406162)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="233061795" term="House of M. Tullius Cicero" >}}
 - {{< id vocab="Pleiades" id="817164756" term="Casa dei Grifi" >}}
 - {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="3000935" term="Monte Palatino (hill)" >}}

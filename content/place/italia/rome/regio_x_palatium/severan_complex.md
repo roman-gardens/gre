@@ -27,7 +27,6 @@ draft: false
 - {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
-
 ## Garden
 
 Garden of the Severan Complex, Palatine
@@ -60,7 +59,7 @@ RELATED PHASES ON THE PALATINE:
 
 {{< image src="severan_complex_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1: Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
 
-##Dates
+## Dates
 
 1st century CE to 4th century CE
 
@@ -70,6 +69,6 @@ RELATED PHASES ON THE PALATINE:
 * M.A. Tomei, *Il Giardino dei Cesari*, Catalogo Mostra, Roma 2001. [(worldcat)](https://search.worldcat.org/title/5894435382)
 * A. Hoffmann & U. Wulf, "Bade oder Villenluxus? Zur Neuinterpretation del 'Domus Severiana,'” in Hoffman, Wulf & Angermeyer, *Die Kaiserpaläste auf dem Palatin in Rom*, Mainz am Rhein, 2004: 153-185. [(worldcat)](https://search.worldcat.org/title/180145631)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="584305092" term="Temple of the Severan family" >}}

@@ -27,19 +27,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 The city of Neapolis that bears a Greek name meaning the “new city,” is located on the south coast of Cap Bon at 60 km from Carthage. The municipal history of the city is not well known. Scholars disagree as to the foundation date of the colony some think it became *colonia Iulia* with Cesar and others think that it was elevated to the rank of colony by Augustus.
 
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 House of the Nymphs (Maison des Nymphes)
 
@@ -91,15 +78,10 @@ Unspecified
 * Malek, A.-A., "Mosaic and nature : "Cultural allusions to Nature in the Roman Domus", in *Gardens of the Roman Empire*, Volume II, eds., W. F. Jashemski, K. Gleason, A-A Malek, K. Hartswick, Cambridge University Press., NY, 2018, pp. 333-336, fig. 12.11A. [(worldcat)](https://search.worldcat.org/title/1021392532)
 
 
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="315093" term="Neapolis" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="1094981" term="Nabeul (inhabited place)" >}}
-
-## Contributor
 
 ## Publication date
 

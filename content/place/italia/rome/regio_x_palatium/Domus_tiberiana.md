@@ -27,7 +27,6 @@ draft: false
 - {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
-
 ## Garden
 
 Garden of the Domus Tiberiana, Palatine
@@ -50,7 +49,6 @@ Garden of the Domus Tiberiana, Palatine
 - {{< keyword "solariums" >}}
 - {{< keyword "statues" >}}
 - {{< keyword "terraces" >}}
-
 - [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
 - [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
 - [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
@@ -87,7 +85,6 @@ RELATED PHASES ON THE PALATINE:
 [Garden of the Severan Complex (I)]({{<relref "severan_complex">}})
 
 
-
 ## Figures
 
 {{< image src="domus_tiberiana_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1: Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
@@ -121,6 +118,6 @@ RELATED PHASES ON THE PALATINE:
 * L. Richardson, “Domus Tiberiana,” *A New Topographical Dictionary of Rome*. Baltimore: Johns Hopkins University Press, 1992, 136-137. [(worldcat)](https://search.worldcat.org/title/256637651)
 * M.A. Tomei, M.G. Filetici (eds.), *Domus Tiberiana: Scavi e Restauri 1990-2011*. Milano: Electa, 2011, partic. pp. 59-70; 222-229; 303-305. [(worldcat)](https://search.worldcat.org/title/819286517)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}

@@ -29,7 +29,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VII]({{<relref ".">}})
 
 
-
 ## Garden Description
 Behind this shop and the rooms beyond that there was a garden (a).
 
@@ -37,10 +36,8 @@ Behind this shop and the rooms beyond that there was a garden (a).
 {{< image src="fig.23.region_viii.insula_vii.1-15.png" alt="Fig.23, Plan of Region VIII, Insula VII" title="Fig.23, Plan of Region VIII, Insula VII" >}}
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates

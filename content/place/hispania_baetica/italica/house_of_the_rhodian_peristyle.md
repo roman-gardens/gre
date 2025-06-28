@@ -5,7 +5,7 @@ type: garden
 title: "House of the Rhodian Peristyle"
 date: 2020-10-18T10:00:00-04:00
 latlon: [ 0, 0 ]
-author: (AUTHOR_ID)
+author: 
 editor: Lai Ching Tsui
 draft: true
 ---
@@ -38,8 +38,6 @@ House of the Rhodian Peristyle
 <!-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)-->
 
 
-
-
 ## Garden Description
 
 This house is on the top of a hill and has thus been exposed to more erosion and pillage of stone than most.  The entrance was on the east side and led into the peristyle.  One of its galleries was higher than the other three. Vitruvius 6.7.3 used the term “Rhodian” to describe such peristyles, and this feature gave the house its modern name (reference). Only two rooms around the courtyard are in good enough condition to be interpreted.  One is marked as a triclinium by the shape of its checker-board mosaic.  The other had rolls of foliage. In the absence of evidence to the contrary, we may guess that the central courtyard was a garden.       
@@ -65,17 +63,11 @@ unspecified
 * A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). 82 [(worldcat)](https://search.worldcat.org/title/916989580)
 
 
-
-
-## Pleiades ID
+## Places
 - [House of the Rhodian Peristyle at Italica]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="932178530" term="House of the Rhodian Peristyle at Italica" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7007822" term="Itálica (deserted settlement)" >}}
 
-## Contributor
-[(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
 ## Publication date
 

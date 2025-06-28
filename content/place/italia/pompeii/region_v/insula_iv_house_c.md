@@ -23,7 +23,6 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 - [Pompeii]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
-<!--## Location Description-->
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
@@ -78,11 +77,9 @@ Wooden steps at the rear of this house excavated in 1902 led up to a *viridarium
 * Sogliano, *NSc* (1901), p.256 and fig. 1 (plan). [(worldcat)](https://search.worldcat.org/title/1091982220)
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

@@ -15,21 +15,6 @@ draft: false
 - [Gatcombe]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="79477" term="Gatcombe" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Rural Estate in Gatcombe
@@ -64,16 +49,10 @@ ca. 280-380 CE
 * K. Branigan, *The Roman Villa in South-West England*, Bradford-on-Avon, 1976, pp. 55, 77, fig. 34. [(worldcat)](https://search.worldcat.org/title/928084211)
 * K. Branigan, Gatcombe. *The Excavation and Study of a Romano-British Villa Estate*, 1967-1976. British Archeological Reports, Brit. Ser. 44, Oxford, 1977, pp. 50, 141, 181-182, figs. 2, 33. [(worldcat)](https://search.worldcat.org/title/823036601)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="79477" term="Gatcombe" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7026972" term="Gatcombe (inhabited place)" >}}
-
-## Contributor
-
 
 ## Publication date
 

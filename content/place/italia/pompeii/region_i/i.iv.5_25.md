@@ -89,10 +89,8 @@ C. The north [peristyle](http://vocab.getty.edu/page/aat/300080971) garden belon
 * Ward-Perkins, J. and Claridge, A. 1976. *Pompeii A.D. 79*, no. 83  
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="222138654" term="Regio I, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

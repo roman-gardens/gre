@@ -95,12 +95,9 @@ recent excavations
 * *Giornale degli Scavi*, 1919, pp. 227-228, 251-253, 255, 263-5.
 * G. Calza, *Monumenti antichi* 26 (1920), pp. 328-330. [(worldcat)](https://search.worldcat.org/title/1067432688)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="841214213" term="Insula dei Dipinti" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 

@@ -23,18 +23,6 @@ draft: true
 ## Location Description
 
 The town on the Rhine River possessed colonial status since the late 1st century BC. The street grid, as well as many public and residential buildings, are well known from excavations.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 House in Insula 30 in Augusta Raurica
@@ -81,16 +69,10 @@ Insula: 200 A.D.
 * R. Laur-Belart, *Führer durch Augusta Raurica*, 5th Ed., Basel, 1988, pp. 134-136, fig. 126. [(worldcat)](https://search.worldcat.org/title/1069020725)
 * M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 55, fig. 20. [(worldcat)](https://search.worldcat.org/title/1120840822)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="177494" term="Col. Augusta Raurica" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7017586" term="Augusta Rauricorum (deserted settlement)" >}}
-
-## Contributor
-
 
 ## Publication date
 

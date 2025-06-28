@@ -20,7 +20,6 @@ Judaea, the Roman province, included parts of the areas of the [Hasmonean](https
 The geography of Judaea comprises a wide variety of biomes, from richly watered plains of the Galilee and the Jordan, to the semi-arid Judean Hills, the humid, fertile coastal plain of the Mediterranean, and the deserts of the Dead Sea valley and the Negev. The period for which we have the richest evidence of a garden culture in this region is during the reign of [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great).  An allied king of Rome, Herod’s relationships with [Mark Antony](https://en.wikipedia.org/wiki/Mark_Antony), [Cleopatra](https://en.wikipedia.org/wiki/Cleopatra), [Augustus](https://en.wikipedia.org/wiki/Augustus), and [Marcus Agrippa](https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa) and other officials ave been preserved in the texts of [Flavius Josephus](https://en.wikipedia.org/wiki/Josephus).  These constitute a rare record of interactions between Rome and its territories, and provide a valuable context for understanding the trends of design in the early imperial period.  The proximity of Judaea to Alexandria, whose palaces and gardens lie beneath the modern city and its harbors, may also provide a suggestion of the late Hellenistic garden culture that Romans emulated.  Evidence of gardens in the Hasmonean winter palaces at Jericho and the palace identified as that of Hyracanus the Tobiad at 'Iraq al-Amir on the other side of the Jordan Valley provide rare cases where texts can illuminate archaeological evidence. These gardens require further investigation and both are threatened by local development.
 
 
-
 ## Location
 
 [Caesarea Maritima]({{<relref ".">}}) \
@@ -29,19 +28,6 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 ## Location Description
 
 Ultimately the capital of the Roman provinces of Judaea and Syria Palestina, the city was built by Herod the Great. He acquired the old Hellenistic city of Strato’s Tower from Octavian as part of a territorial expansion after Actium, and turned the modest natural harbor here into a major port city, laid out on an orthogonal urban plan. Reminiscent of the basilaea of Alexandria, the southern area of the city was devoted to Herod’s seaside palace, in its early phase, and to public entertainment facilities by the time of the city’s opening in 12 BC.  Josephus describes the port and the features of the city  (AJ 15.9.6.331 and BJ 1.21.5. 408)  including an “amphitheatron” and theater in the south, where archaeologists have discovered and restored a stadium and a theater.  These are in the area of the archaeological remains of a palace, also noted but not located by Josephus.  The city was a successful enterprise, and by the second and third centuries CE the stadium functions had moved inland and expansive villas were constructed over the remains of the stadium.  By the Byzantine era, these villas were incorporated into a new praetorium.  These palaces and villas have gardens, discovered in varying degrees of preservation, supplied with water through water channels, initially from the aqueduct and later from wells.   Upon the destruction of this district of the city, the Arab inhabitants developed gardens amidst the ruins, irrigated by wells and water channels.   
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -94,16 +80,11 @@ Foundations of garden architecture, water channels and garden soils of the late 
 * L.I. Levine, and E. Netzer, Excavations at Caesarea Maritima, Qedem 21, 1986, pp. 158-160; Excavations at Caesarea Maritima [(worldcat)](https://search.worldcat.org/title/1172114860)
 * E. Netzer, “Herod the Great’s Palace” In Caesarea Maritima: a Retrospective after Two Millennia. Eds. A. Raban and K. Holum, Leiden: J. Brill, 1996, pp. 193-207. [(worldcat)](https://search.worldcat.org/title/34557572)
 
-## Pleiades ID
+## Places
 
 [Stratonos Pyrgos/Caesarea](https://pleiades.stoa.org/places/678401/?searchterm=Caesarea%20Maritima*)
 
-## TGN ID
-
 - {{< id vocab="TGN" id="7001363" term="Caesarea (deserted settlement)" >}}
-
-## Contributor
-
 
 ## Publication date
 

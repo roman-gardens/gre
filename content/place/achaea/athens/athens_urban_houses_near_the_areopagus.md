@@ -22,17 +22,10 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 - [Athens]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="579885" term="Athens" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 - {{< id vocab="Pleiades" id="969121823" term="Areopagus" >}}
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -72,10 +65,7 @@ mid-4th century CE and earlier
 * A. Frantz, *Late Antiquity: A.D. 267-700.* The Athenian Agora XXIV. Princeton, 1988, pp. 36-37, pls. 24a, 25a. [(worldcat)](https://search.worldcat.org/title/63179976)
 * H. A. Thompson and R. E. Wycherley, *The Agora of Athens. The History, Shape and Uses of an ancient City Center.* The Athenian Agora XIV. Princeton, 1972, p. 185, fig. 46. [(worldcat)](https://search.worldcat.org/title/805087483)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="969121823" term="Areopagus" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7001393" term="Athens (inhabited place)" >}}

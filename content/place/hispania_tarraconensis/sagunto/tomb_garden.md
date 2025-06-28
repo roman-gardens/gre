@@ -23,21 +23,6 @@ draft: true
 - [Saguntum]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="266021" term="Saguntum/Arse" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Tomb garden and baths of P. Caecil(ius) Rufus and Valeria
 
@@ -71,7 +56,7 @@ A marble slab found at Puçol (Puzol) near Saguntum, now lost,  but originally p
 ## Bibliography
 - H. von Hesberg, “Römische Grabbauten in den hispanischen Provinzen” in W. Trimllmich et al., eds., Hispania Antiqua. Denkmäler der Römerzeit (Mainz 1993) XXX; EDH HD026300. [(worldcat)](https://search.worldcat.org/title/7377084156)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="266021" term="Saguntum/Arse" >}}
 

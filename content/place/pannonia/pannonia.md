@@ -33,16 +33,10 @@ The creation of the province of Pannonia can be dated to the years following 9 B
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="197425" term="Pannonia" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="4008442" term="Pannonia (general region)" >}}
-
-## Contributor
-
 
 ## Publication date
 

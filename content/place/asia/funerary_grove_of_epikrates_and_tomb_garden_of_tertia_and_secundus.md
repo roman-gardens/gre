@@ -31,21 +31,6 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 - [Nakrason]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="550767" term="Nakrason" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus
@@ -85,9 +70,7 @@ A large stele of light grey marble inscribed on both sides and found in 1965 lyi
 ## Plans
 
 
-
 ## Images
-
 
 
 ## Dates
@@ -98,11 +81,9 @@ Unspecified
 
 * P. Herrmann and K. Z. Polaktan, *Das Testament des Epikrates und andere neue Inschriften aus dem Museum von Manisa* (Sitz. Wien 265.1). Vienna, 1969, pp. 7-36. [(worldcat)](https://search.worldcat.org/title/1123735245)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="811119038" term="Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus at Nakrason" >}}
-
-## TGN ID
 
 
 ## Contributor

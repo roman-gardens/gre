@@ -5,7 +5,7 @@ type: garden
 title: "House of the Arsenal (Maison de l’Arsenal)"
 date: 2020-12-08T10:39:31-07:00
 latlon: [ 49.118135, 6.174155 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
@@ -15,9 +15,6 @@ draft: true
 - [DIVODURUM MEDIOMATRICORUM (Liéhon, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108927" term="DIVODURUM MEDIOMATRICORUM" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 <!--## Sublocation-->
 
@@ -27,7 +24,6 @@ A sublocation is any area larger than an individual garden, but located within a
 -->
 
 <!-- ## Sublocation Description -->
-
 
 
 ## Garden
@@ -83,15 +79,13 @@ Unspecified
 - J.-D. Laffite, A. Bressoud, M. Mondy, A. Lefèbvre, M. Feller, I. Dechanez-Clerc, J.-J. Bigot, É. Rouger, *LIÉHON (Moselle) « Larry » - Aéroport Metz-Nancy Lorraine*, rapport de fouille préventive 2003, INRAP GEN/ SRA DRAC Lorraine, Metz, 2005, 9 vol., 1378 p., 207 figures, 61 plates. [(worldcat)](https://search.worldcat.org/title/20955708)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="108927" term="Divodurum/Mettis" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
-[AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
+<!-- Maureen Carroll ? -->
 
 ## Publication date
 

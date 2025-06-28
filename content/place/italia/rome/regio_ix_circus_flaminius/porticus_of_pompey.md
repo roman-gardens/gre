@@ -27,7 +27,6 @@ draft: false
 - {{< id vocab="Pleiades" id="422863" term="Campus Martius" >}}
 
 
-
 ## Garden
 
 Garden of the Porticus of Pompey \
@@ -110,6 +109,6 @@ Augustus’ remodeling of the theater and *porticus* (in 32 BCE), discussed abov
 * M. Gagliardo and J.Packer “A New Look at Pompey’s Theater: History, Documentation, and Recent Excavation,” *American Journal of Archaeology* Vol. 110, No. 1 (January 2006), pp. 93–122. [(worldcat)](https://search.worldcat.org/title/604029789)
 * E. Macaulay-Lewis, “Use and Reception,” in *A Cultural History of Gardens in Antiquity*, ed. K.L. Gleason, London, 2013, pp. 99–118. [(worldcat)](https://search.worldcat.org/title/968535933)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="165546433" term="Porticus Pompei" >}}

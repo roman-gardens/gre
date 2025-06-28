@@ -23,18 +23,6 @@ draft: true
 ## Location Description
 
 Biebrich, now part of Wiesbaden, is directly on the right bank of the Rhein south of the center of Wiesbaden.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Rural Villa in Wiesbaden-Biebrich
@@ -75,16 +63,10 @@ unspecified
 
 * D. Baatz and F.-R. Herrmann, eds., *Die Römer in Hessen*, 2nd ed., Stuttgart, 1989, p. 495, fig. 471.
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="109461" term="Wiesbaden-Biebrich" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
-
-## Contributor
-
 
 ## Publication date
 

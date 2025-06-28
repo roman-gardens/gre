@@ -60,16 +60,10 @@ The anonymous sanctuary, called *Dar Lachheb* (184-187 CE), located about fifty 
 *  Brouquier-Reddé, V., Chehidi, M.A., Ghaki M., Khanoussi M., Maurin L., Saint-Amans S., Dougga, Études d'architecture religieuse 2. *Les sanctuaires du forum, du centre de l'agglomération et de la Grande rue courbe* (Mémoires, 42), Bordeaux : Ausonius Éditions, 2016 pp. 393-476, fig. 29-32, 86. [(worldcat)](https://search.worldcat.org/title/949932485)
 * Malek,  A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, Brouquier Reddé, V., Baratte, Fr.,  Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, 364, pl. 14. [(worldcat)](https://search.worldcat.org/title/1028897747)
 
-## Pleiades_ID
+## Places
 
 - {{< id vocab="Pleiades" id="315223" term="Thugga/Tokai?" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7017996" term="Dougga (deserted settlement)" >}}
 
-## Contributor
-
-
-## Publication Date
+## Publication date
 21 Apr 2021

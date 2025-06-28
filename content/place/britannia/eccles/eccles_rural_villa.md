@@ -15,21 +15,6 @@ draft: false
 - [Eccles]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="79448" term="Eccles" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Rural Villa in Eccles
@@ -68,16 +53,10 @@ mid-1st to 4th century CE
 * R.J. Zeepvat, “Fishponds in Roman Britain,” in: M. Aston, ed., *Medieval Fish, Fisheries and Fishponds in England. British Archaeological Reports*, Brit. Ser. 182, Oxford, 1988, p. 18, fig. 2. [(worldcat)](https://search.worldcat.org/title/490025716)
 * A. Detsicas, “A group of pottery from Eccles, Kent,” in *Roman Pottery Research in Britain and Northwest Europe, British Archaeological Reports*, Int. Ser. 123, Oxford, 1981, pp. 441-445.
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="79448" term="Eccles" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="1029144" term="Eccles (inhabited place)" >}}
-
-## Contributor
-
 
 ## Publication date
 

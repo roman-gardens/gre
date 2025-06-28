@@ -22,8 +22,6 @@ Britain is geographically and geologically diverse, and it was characterized in 
 - {{< id vocab="TGN" id="7030316" term="Britannia (province)" >}}
 
 <!--## Periodo ID-->
-## Contributor
-
 
 ## Publication date
 

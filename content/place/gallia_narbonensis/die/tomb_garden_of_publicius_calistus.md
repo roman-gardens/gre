@@ -5,7 +5,7 @@ type: garden
 title: "Tomb garden of Publicius Calistus"
 date: 2020-12-14T00:08:52-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
@@ -18,7 +18,6 @@ draft: true
 <!-- ## Province Description -->
 
 
-
 ## Location
 
 - [DIE, France]({{<relref ".">}}) 
@@ -26,16 +25,9 @@ draft: true
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -54,7 +46,6 @@ A funerary monument found near Die and now on the terrace of the courthouse ther
 None Available
 
 
-
 ## Images
 
 None Available
@@ -68,18 +59,15 @@ None Available
 
 - J.-J. Hatt, *La tombe gallo-romaine* (Paris 1951) 71. [(worldcat)](https://search.worldcat.org/title/166053943)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7009141" term="Die (inhabited place)" >}}
 
 ## Contributor
 
-[AUTHOR_ID](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+<!-- Eric Morvillez ? -->
 
 ## Publication date
 

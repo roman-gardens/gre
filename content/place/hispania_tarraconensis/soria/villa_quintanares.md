@@ -5,7 +5,7 @@ type: garden
 title: "Villa los Quintanares"
 date: 2020-11-02
 latlon: [ 0, 0 ]
-author: AUTHOR_ID
+author: 
 editor: Xingjian Wang
 draft: true
 ---
@@ -25,19 +25,6 @@ draft: true
 
 ## Location Description
 This villa is about 600 meters southwest of the town Rioseco di Soria on the right (north) bank of the Sequillo river – here a small stream -- and overlooking its plain. Excavations go back to the early 1970's.  In 2007 the site was marked only by mounds of earth over the ruins.
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 Villa los Quintanares
@@ -73,7 +60,7 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 - Teógenes Ortego Frías, La villa romana de Los Quintanares, en el término de Rioseco de Soria, in IX Congreso Nacional de Arqueología. Valladolid. Valladolid, 1965, pp. 341-347. [(worldcat)](https://search.worldcat.org/title/892240885)
 - T. Ortego Frías, La villa romana de Los Quintanares, en el término de Rioseco (Soria), in  Segovia , Symposium de arqueología romana,. Publicaciones eventuales 27, Universidad de Barcelona, Barcelona, 1977, pp. 285-292. [(worldcat)](https://search.worldcat.org/title/802753312)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="614074944" term="614074944" >}}
 

@@ -76,10 +76,7 @@ unspecified (mentioned in the 2nd century CE)
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="570598" term="Phigaleia" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="5004240" term="Phigalia (inhabited place)" >}}

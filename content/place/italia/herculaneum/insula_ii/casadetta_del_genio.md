@@ -27,10 +27,6 @@ draft: true
 
 
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Insula
 II; III
 
@@ -65,10 +61,8 @@ NEW WAY ↓↓↓↓
 ## Images
 {{< image src="Herc. II.3   68.6.57.jpg" alt="Illustration of Casadetta del Genio" title="Illustration of Casadetta del Genio" >}}
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 -
 ## Dates

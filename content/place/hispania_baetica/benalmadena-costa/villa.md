@@ -5,7 +5,7 @@ type: garden
 title: "Villa"
 date: 2020-10-12T20:00:00-04:00
 latlon: [ 0, 0 ]
-author: (AUTHOR_ID)
+author: 
 editor: Lai Ching Tsui
 draft: true
 ---
@@ -19,19 +19,6 @@ draft: true
 
 - [Benalmadena-Costa]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="510567671" term="Benalmadena-Costa" >}}
-
-## Location Description
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -74,16 +61,11 @@ unspecified
 * P. Rodriguez Oliva,*Anuario Arqueologico de Andalucia, 1986*, Direccion general de bienes culturales, (Sevilla, 1987), part II, 407 ff. [(worldcat)](https://search.worldcat.org/title/491540528)
 * Mª L. Loza Azuaga,‘La escultura de fuentes en Hispania: ejemplos de la Bética, *Actas de la I Reunión sobre escultura romana en Hispania*, (Mérida, 1993), 97-110.[(worldcat)](https://search.worldcat.org/title/884615852)
 
-## Pleiades ID
+## Places
 - [Benalroma]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="510567671" term="Benalroma" >}}
-
-## TGN ID
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
 
-
-## Contributor
-[(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
 ## Publication date
 

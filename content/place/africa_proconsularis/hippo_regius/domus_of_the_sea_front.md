@@ -29,19 +29,6 @@ The city of Hippo Regius overlooks a sheltered bay where, from earliest times, s
 Excavations have brought to light the theater, considered to be the largest in Africa, built against the St. Augustine hill; also parts of the forum, a public fountain, the market, the northern and southern baths, the so called Christian district with its basilica and so called villas’ district.
 
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Domus of the Sea Front (Villa du front de mer)
 
@@ -89,15 +76,10 @@ Domus of the Sea Front (Villa du front de mer)
 * Pachtere, F.-G. DE, "Les nouvelles fouilles d'Hippone", in *MEFR*, XXXI, 1911, pp. 321-47, pl. XlII, XV (plan). [(worldcat)](https://search.worldcat.org/title/888306109)
 
 
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="305090" term="Hippo Regius" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7001313" term="Annaba (inhabited place)" >}}
-
-## Contributor
 
 ## Publication date
 

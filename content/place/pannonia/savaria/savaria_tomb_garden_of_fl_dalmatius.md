@@ -22,18 +22,6 @@ draft: true
 
 <!--## Location Description-->
 
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Tomb Garden of Fl(avius) Dalmatius in Savaria
@@ -70,12 +58,9 @@ A limestone slab found near the monastery of St. Martin in Szombathely (Savaria)
 * A. Mócsy and T. Szentléleky, *Die römischen Steindenkmäler von Savaria*. Amsterdam, 1971, p. 117, no. 161, photo 143. [(worldcat)](https://search.worldcat.org/title/963618321)
 * T. Adamik,*Archaeologiai Ertesítö* 110, 1983:3-9 = AE 1984:722.
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="197498" term="Savaria" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="4008442" term="Pannonia (general region)" >}}
 
 ## Contributor

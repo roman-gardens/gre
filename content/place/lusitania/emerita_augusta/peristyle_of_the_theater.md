@@ -5,7 +5,7 @@ type: garden
 title: "Peristyle of the Theater"
 date: 2020-09-30T11:20:32-04:00
 latlon: [ 38.917216, -6.341213 ]
-author: AUTHOR_ID
+author: 
 editor: Yiyun Liu
 draft: true
 ---
@@ -36,21 +36,6 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 ## Bibliography
 - I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Peristyle of the Theater
@@ -72,7 +57,6 @@ A water channel bordered the exterior of the colonnade, emptying into two small 
 While the theater belongs to multiple phases of construction, the aula sacra belongs to a Tiberian phase.  The peristyle's important program of sculptures and paintings, together with the green spaces, must have given the edifice a magnificent appearance. Unfortunately, many of its decorative elements, wall paintings, bronzes, and marble paving slabs do not survive, and there are few remaining works of statuary, although these are marble and well made.  
 
  Water, indispensable for irrigation and the fountains, was in ample supply, probably owing to the theate's proximity to the San Lázaro water canal. The present appearance of the peristyle is the result of restorations carried out in 1964 by J. Menéndez-Pidal in which the south wing of the peristyle was resurrected and covered with a pergola and the fountain restored to working order.
-
 
 
 <!--
@@ -109,18 +93,11 @@ While the theater belongs to multiple phases of construction, the aula sacra bel
 * W. Trillmich, *Die Prásenz des Kaiserhauses im Theater der Colonia Augusta Emerita* , (unpublished disertation), University of München (1995)
 
 
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="256155" term="Emerita Augusta" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7007664" term="Mérida (inhabited place)" >}}
 
-## Contributor
-
-AUTHOR_ID
 
 ## Publication date
 

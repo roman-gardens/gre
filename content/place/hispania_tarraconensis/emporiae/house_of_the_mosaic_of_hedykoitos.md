@@ -5,7 +5,7 @@ type: garden
 title: "House of the Mosaic of Hedykoitos"
 date: 2020-11-08T11:56:31-14:00
 latlon: [ 47.260687, 9.617966 ]
-author: AUTHOR_ID
+author: 
 editor: Qianli Jiang
 draft: true
 ---
@@ -92,21 +92,16 @@ This house in the northwest corner of Neapolis backs onto the edge of the city, 
 {{< image src="HIS_TAR_Emp_Hedykoitos_fig1.jpg" alt="Plan of the House of the Mosaic of Hedykoitos." title="Plan of the House of the Mosaic of Hedykoitos.  Adapted from Mar and Ruiz de Arbulo." >}}
 
 
-
 ## Dates
 Unspecified
 
 <!---doesn't have ## Bibliography-->
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="246382" term="Emporiae" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7027125" term="Clunia (deserted settlement)" >}}
 
-## Contributor
-AUTHOR_ID
 
 ## Publication date
 

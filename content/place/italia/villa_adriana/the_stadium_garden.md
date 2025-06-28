@@ -111,12 +111,10 @@ unspecified
 * E. Salza Prina Ricotti, "The Importance of Water in Roman Garden Triclinia," in *Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection)*, Dumbarton Oaks 1987, pp. 178-180, fig. 21-28, 35-37. [(worldcat)](https://search.worldcat.org/title/887179596)
 * E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 225-231. [(worldcat)](https://search.worldcat.org/title/46784026)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="190433997" term="Stadium-garden at Hadrian's Villa" >}}
 <!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
-
-## TGN ID
 
 - {{< id vocab="TGN" id="7006983" term="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->

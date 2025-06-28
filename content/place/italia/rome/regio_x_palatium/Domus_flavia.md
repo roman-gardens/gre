@@ -27,7 +27,6 @@ draft: false
 - {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
-
 ## Garden
 
 Upper Peristyle and Nymphaea of the Domus Flavia, Palatine
@@ -47,7 +46,6 @@ Upper Peristyle and Nymphaea of the Domus Flavia, Palatine
 - {{< keyword "statues" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "villae urbanae" >}}
-
 - [Martial](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.897)
 - [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
 - [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
@@ -91,6 +89,6 @@ RELATED PHASES ON THE PALATINE:
 ## Bibliography-->
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}

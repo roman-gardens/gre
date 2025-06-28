@@ -27,19 +27,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 <!--## Location Description-->
 
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Villa el Hinojal
 
@@ -80,7 +67,7 @@ The house appears to have been built at the end of the third or beginning of the
 - J. de C. Serra Rafols, ‘A propósito de la villa de La Cocosa. Rectificación.’ In Archivo Español de Arqueología, XXVI. CSIC, Madrid, 1953, p. 302. [(worldcat)](https://search.worldcat.org/title/1122498001)
 - J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](https://search.worldcat.org/title/803415143)-->
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="213630148" term="213630148" >}}
 

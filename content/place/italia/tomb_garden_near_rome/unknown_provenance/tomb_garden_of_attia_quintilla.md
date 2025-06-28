@@ -12,10 +12,6 @@ draft: true
 
 ## Location
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 ## Sublocation Description
@@ -51,11 +47,7 @@ Unspecified
 - D. Boschung, *Antike Grabaltäre aus den Nekropolen Roms*, (Acta Bernensia X) (Bern 1987) 107 no. 329, Taf. [worldcat](https://search.worldcat.org/title/1063931061)
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 177 n. 9. [worldcat](https://search.worldcat.org/title/886794800)
 
-## Pleiades ID
-
-## TGN ID
-
-## Contributor
+## Places
 
 ## Publication date
 

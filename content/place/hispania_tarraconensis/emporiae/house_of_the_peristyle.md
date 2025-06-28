@@ -5,7 +5,7 @@ type: garden
 title: "House of the Peristyle"
 date: 2020-10-18T11:56:31-14:00
 latlon: [ 47.260687, 9.617966 ]
-author: AUTHOR_ID
+author: 
 editor: Qianli Jiang
 draft: true
 ---
@@ -103,14 +103,10 @@ Unspecified
 <!---doesn't have ## Bibliography-->
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="246382" term="Emporiae" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7027125" term="Clunia (deserted settlement)" >}}
 
-## Contributor
-AUTHOR_ID
 
 ## Publication date
 

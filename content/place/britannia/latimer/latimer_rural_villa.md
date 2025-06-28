@@ -15,21 +15,6 @@ draft: false
 - [Latimer]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="79555" term="Latimer" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Rural Villa in Latimer
@@ -70,16 +55,10 @@ early 4th century CE - unspecified
 * M. Carroll, They came, they saw, they gardened. *The Garden: Journal of the Royal Horticultural Society* 128.6, 2003, 461, fig. p. 463
 * R.J. Zeepvat, “Roman Gardens in Britain,” in: A.E. Brown, ed., Garden Archaeology. Council for British Archaeology Research Report 78, London, 1991, p. 56, fig. 5.3. [(worldcat)](https://search.worldcat.org/title/246578144)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="79555" term="Latimer" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="1029792" term="Latimer (inhabited place)" >}}
-
-## Contributor
-
 
 ## Publication date
 

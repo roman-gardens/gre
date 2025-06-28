@@ -15,10 +15,6 @@ draft: true
 - [via praenestina]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="622606468" term="via praenestina" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 ## Sublocation Description
@@ -50,13 +46,7 @@ Unspecified
 ## Bibliography
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian, BCom 92 (1987-88) [1989] 176 n. 7. [worldcat](https://search.worldcat.org/title/886794800)
 
-## Pleiades ID
-
-
-## TGN ID
-
-
-## Contributor
+## Places
 
 
 ## Publication date

@@ -25,17 +25,10 @@ This appears to be a duplicate of [id/01eee45763](/id/01eee45763)
 - [Pompeii]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Region I]({{<relref "../..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Insula
 
@@ -94,12 +87,9 @@ unspecified
 * Viola, “*Scavi*” p. 12. [(worldcat)](https://search.worldcat.org/title/715087975)
 * Warscher, “Codex.”
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

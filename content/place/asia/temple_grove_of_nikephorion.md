@@ -34,18 +34,6 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 ## Location Description
 
 Pergamum, a fortress site in Mysia near the Aegean coast, was transformed into an architectural center under the Attalid dynasty (282-133 B.C.).  Attalus the III wrote treatises on gardens, raised poisonous plants, made wax models (Plut. Demet. 20.2), and upon his death, left the kingdom of Mysia to the Romans.  It became one of the most important Roman cities of Asia, and current scholarship has revealed its significance as an influence on the art and architecture of Rome.  The range of designed open spaces includes sanctuaries, gymnasia, palaestra, and agoras, all of which were renovated during the Roman period.  No archaeological remains of planting features have been reported, but an inscription records a law prohibiting the deliberate planting of trees near walls (SEG XIII 521.11.158-61).
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Temple Grove of Nikephorion
@@ -77,9 +65,7 @@ King Eumenes II of Pergamum employed a gardener to plant new trees and nurse dam
 ## Plans
 
 
-
 ## Images
-
 
 
 ## Dates
@@ -93,16 +79,10 @@ Unspecified
 * C. Ratte, “Pergamon,” *Oxford Encyclopedia of Near Eastern Archaeology*, 1997, 261-262. [(worldcat)](https://search.worldcat.org/title/607143997)
 * I. Nielsen, *Hellenistic Palaces*. Aarhus, 1994, p. 107, catalog no. 15. [(worldcat)](https://search.worldcat.org/title/468433476)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="537932154" term="Temple Grove of Nikephorion at Pergamum" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7016140" term="Bergama (inhabited place)" >}}
-
-## Contributor
-
 
 ## Publication date
 

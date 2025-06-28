@@ -46,10 +46,8 @@ D. A rustic shrine was attached to the north side of the house and a long narrow
 {{< image src="h_orientalis_1_1-3-d.jpg" alt="Herculaneum - insula orientalis I. 1-3-d" title="Herculaneum - insula orientalis I. 1-3-d" >}}
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates

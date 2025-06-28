@@ -30,10 +30,6 @@ Volubilis was the capital of the province of Mauretania Tingitania. The city was
 
 The city rapidly developed and expanded; new temples, baths, civic buildings and luxurious houses lining the porticoed decumanus maximus were built. The olive press and the mills attached to the houses attest to the rural character of the region. The city reached its climax in the beginning of the third century CE and survives today as a well-preserved archaeological site. The city walls and gates, Caracalla’s triumphal arch, the Capitolium temple, and the Basilica law courts survive. A number of houses known for their floor mosaics and bronze sculpture also persist to the modern day.
 
-<!--## Sublocation-->
-
-<!--## Sublocation Description-->
-
 ## Garden
 
 House of the Columns (La maison aux colonnes)
@@ -67,13 +63,7 @@ The House of the Columns, approximately 1880 square meters, is located to the no
 
 * Thouvenot, R., “La maison aux colonnes”, PSAM, 7, 1945, 132-145, fig. 4. A. [(worldcat)](https://search.worldcat.org/title/765468558)
 
-## Pleiades ID
-
-
-
-## TGN ID
-
-## Contributor
+## Places
 
 
 ## Publication date

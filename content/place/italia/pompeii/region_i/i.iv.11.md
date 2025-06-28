@@ -49,10 +49,8 @@ This modest [caupona](http://vocab.getty.edu/page/aat/300005208) had a garden at
 * Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 17  (also incorrectly calls the garden a room)
 
 
-## Pleiades ID
+## Places
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
-
-## TGN ID
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

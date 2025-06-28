@@ -5,7 +5,7 @@ type: garden
 title: "House with the Arbor, Puymin Quarter, Formerly called the Praetorium"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [House with the Arbor, Puymin Quarter, Formerly called the Praetorium](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
 
 House with the Arbor, Puymin Quarter, Formerly called the Praetorium
-
 
 
 ## Keywords
@@ -53,7 +45,6 @@ House with the Arbor, Puymin Quarter, Formerly called the Praetorium
 - {{< keyword "pergolas" >}}
 - {{< keyword "balnea" >}}
 - {{< keyword "colonnades" >}}
-
 
 
 ## House Description
@@ -70,21 +61,12 @@ In the axis of the garden but a little off to the west is a structure with mason
 To the northeast of the house are remains in which it has been proposed to see a bath with a pool surrounded by a 3-by-5 colonnade.  This pool could have also have served as a water reservoir for irrigation of the tree-covered slopes and gardens below the hill of Puymin.
 
 
-
-
-
-
 ## Plans
-
-
-
-
 
 
 ## Dates
 B.C. 40-30 First Stage
 A.D. 1-100 Considerable extension to the northeast
-
 
 
 ## Bibliography
@@ -96,18 +78,15 @@ A.D. 1-100 Considerable extension to the northeast
 3. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.267-274. [(worldcat)](https://search.worldcat.org/title/905795401)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7008791" term="Fréjus (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

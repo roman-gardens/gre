@@ -45,21 +45,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 - [Villa dels Munts]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="250016" term="Villa dels Munts" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Villa Romana de els Munts
 
@@ -81,7 +66,6 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 -->
 
 
-
 ## Dates
 1C AD
 
@@ -93,12 +77,8 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 - J.G. Gorges, *Les villes hispano-romaines*. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, p. 407-8. [(worldcat)](https://search.worldcat.org/title/803415143)
 
 
-
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="250016" term="Villa dels Munts" >}}
-
-
-## TGN ID
 - {{< id vocab="TGN" id="7344921" term="Altafulla (inhabited place)" >}}
 
 

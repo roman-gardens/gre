@@ -28,19 +28,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 Pupput is located about three km to the northwest of Hammamet. Two inscriptions inform the designated title of the city, which became a colony (*Colonia Aurelia Commoda Pia Felix Augusta Pupput*) under the reign of Commodus. The city benefited from a strategic location at the crossroads linking Clupea to Thhuburbo and Carthage to Hadrumetum. Large residential quarters with houses and baths were excavated as well as a large necropolis.
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 House of the Viridarium with Niches (Maison du viridarium à niches)
 
@@ -81,14 +68,10 @@ House of the Viridarium with Niches (Maison du viridarium à niches)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 197-198. [(worldcat)](https://search.worldcat.org/title/989088620)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="315121" term="Pupput" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="8697602" term="Pupput (deserted settlement)" >}}
-
-## Contributor
 
 ## Publication date
 

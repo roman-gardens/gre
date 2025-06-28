@@ -100,12 +100,10 @@ partially excavated between June 1972 and January 1973
 * *Giornale degli Scavi*, 1972-1973, p. 56. [(worldcat)](https://search.worldcat.org/title/8340098)
 * G. Messineo, "Ollae perforatae," *Xenia* 8, 1984, pp. 65-82. [(worldcat)](https://search.worldcat.org/title/7522968) <!-- correct worldcat? -->
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="422995" term="Ostia" >}}
 <!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
-
-## TGN ID
 
 - {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->

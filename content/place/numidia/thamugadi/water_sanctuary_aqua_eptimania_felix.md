@@ -30,19 +30,6 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 Timgad, ancient Thamugadi was founded as a colony under Trajan. The city had a checker board plan, that measured 11ha. In the center was the forum with its Curia, an imperial temple and the basilica. Between the IInd and the IVth century the city expanded out of its original layout. Temples, baths and a market were built and the center of the city was renovated with the construction of the library, the market and luxurious houses. At the end of the IVth century the bishop Optatus of Timgad a prominent member of the donatist church constructed the great west basilica. During the Byzantine conquest a fortress was erected on the water sanctuary dating to the IIIrd and IVth century.
 
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 
@@ -87,15 +74,10 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 *  Leschi, L., *Etudes d'épigraphie, d'archéologie et d'histoire africaines*, Paris, 1957, pp. 240-45, ici pp. 242. [(worldcat)](https://search.worldcat.org/title/78689255)
 
 
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7001328" term="Timgad (deserted settlement)" >}}
-
-## Contributor
 
 ## Publication date
 

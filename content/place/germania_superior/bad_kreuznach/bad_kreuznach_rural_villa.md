@@ -20,21 +20,6 @@ draft: true
 - [Bad Kreuznach]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981525" term="Bad Kreuznach" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Rural Villa in Bad Kreuznach
@@ -86,16 +71,10 @@ Second half of 2nd century - around 275
 * G. Rupprecht, "Leben auf dem Land," *Archäologie in Deutschland* 4, 1986: 36-39. [(worldcat)](https://search.worldcat.org/title/7788112662)
 * Heinz Cüppers, *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp.321-323, fig. 204. [(worldcat)](https://search.worldcat.org/title/1040869002)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7012371" term="Bad Kreuznach (inhabited place)" >}}
-
-## Contributor
-
 
 ## Publication date
 

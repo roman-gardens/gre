@@ -84,12 +84,9 @@ Excavated 1873-1874.
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, plate 32  
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

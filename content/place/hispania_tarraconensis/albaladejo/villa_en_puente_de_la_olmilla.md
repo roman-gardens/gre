@@ -45,21 +45,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 - [Puente de la Olmilla]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="266009" term="Puente de la Olmilla" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Villa en Puente de la Olmilla
 
@@ -70,8 +55,6 @@ Villa en Puente de la Olmilla
 
 ## Garden Description
 This fourth-century villa was discovered in 1973.  An apse and a figured mosaic with two panthers mark the room on the north corner as probably the triclinium.  It did not, however, have a view of the garden but looked along the northeast gallery of the peristyle. That there was a garden is indicated by the presence of a pipe which crossed the northeast portico presumably to supply water for plants or a nymphaeum in the center of the peristyle.
-
-
 
 
 ## Plans
@@ -90,10 +73,8 @@ This fourth-century villa was discovered in 1973.  An apse and a figured mosaic 
 - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. [(worldcat)](https://search.worldcat.org/title/7840420644)
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="266009" term="Puente de la Olmilla" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7347952" term="Albaladejito (inhabited place)" >}}
 
 

@@ -19,9 +19,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Insula
 
@@ -83,12 +80,9 @@ unspecified
 * Maiuri, “Statuetta eburnea d’art indiana a Pompei,” *LeArti* (1938), pp. 111-115.
 * Idem, “Navalia pompeiana,” *RendNap*, n.s., 33 (1959): 22.
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

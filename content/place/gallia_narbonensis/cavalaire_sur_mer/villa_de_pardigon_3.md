@@ -5,7 +5,7 @@ type: garden
 title: "Villa de Pardigon 3"
 date: 2020-11-15T00:08:52-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Villa de Pardigon 3](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Villa
 
 Villa de Pardigon 3
-
 
 
 ## Keywords
@@ -49,10 +41,6 @@ Villa de Pardigon 3
 - {{< keyword "porticoes" >}}
 - {{< keyword "columns" >}}
 - {{< keyword "reception rooms" >}}
-
-
-
-
 
 
 ## Villa Description
@@ -64,13 +52,10 @@ The principal buildings were constructed in the first century; in the second cen
 In a final stage, at the beginning of the third century, the garden was transformed into a court and then into a dump, and the south branch of the peristyle was divided by a partition.
 
 
-
-
 ## Plans
 
 
 {{< image src="villa_de_pardigon_3.png" alt="Plan of Villa de Pardigon 3" title="Plan of Villa de Pardigon 3" >}}
-
 
 
 ## Dates
@@ -80,24 +65,20 @@ A.D. 100-200 peristyle added
 A,D. 200-300 garden transformed into a court then a dump
 
 
-
 ## Bibliography
 
 1.  Brun, Jean-Pierre. *Carte Archéologique De La Gaule: 83, Le Var 1*. Paris, 1999, vol.2, P. 324-330, plan P. 326. [(worldcat)](https://search.worldcat.org/title/1074683092)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

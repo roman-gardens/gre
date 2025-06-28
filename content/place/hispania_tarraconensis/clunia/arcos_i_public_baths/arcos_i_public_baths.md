@@ -92,11 +92,8 @@ Unspecified
 - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986;  J.G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 355. [(worldcat)](https://search.worldcat.org/title/758189394)
 
 
-
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="187350" term="Clunia" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7027125" term="Clunia (deserted settlement)" >}}
 
 ## Contributor

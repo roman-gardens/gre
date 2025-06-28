@@ -12,10 +12,6 @@ draft: true
 
 ## Location
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 ## Sublocation Description
@@ -50,11 +46,7 @@ Unspecified
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 178 n. 21, 179 fig. 2; J. [worldcat](https://search.worldcat.org/title/886794800)
 - Bodel, *Monumental Villas and Villa Monuments*, JRA 10 (1997) 26. [worldcat](https://search.worldcat.org/title/18871033)
 
-## Pleiades ID
-
-## TGN ID
-
-## Contributor
+## Places
 
 ## Publication date
 

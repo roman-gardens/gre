@@ -5,7 +5,7 @@ type: garden
 title: "Temple of Diana"
 date: 2020-09-30T11:20:32-04:00
 latlon: [ 38.917216, -6.341213 ]
-author: AUTHOR_ID
+author: 
 editor: Yiyun Liu
 draft: true
 ---
@@ -35,21 +35,6 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 ## Bibliography
 - I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -89,17 +74,11 @@ The end of the Augustan period
 *  J. Mª.  Álvarez Martinez, J. L. de la Barrera Antón and A. Velázquez Jiménez, *Mérida* (Turismo Everest), León, 1995, p. 54. [(worldcat)](https://search.worldcat.org/title/433607571)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="256155" term="Emerita Augusta" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7007664" term="Mérida (inhabited place)" >}}
 
-## Contributor
-
-AUTHOR_ID
 
 ## Publication date
 

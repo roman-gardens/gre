@@ -20,17 +20,10 @@ draft: true
 - [Vardagate]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="383809" term="Vardagate" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Region IX]({{<relref "..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 
 ## Garden
@@ -75,11 +68,9 @@ unspecified
 * ILS8342
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="383809" term="Vardagate" >}}
-
-## TGN ID
 
 unspecified
 

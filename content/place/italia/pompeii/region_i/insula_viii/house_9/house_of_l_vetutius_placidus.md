@@ -19,9 +19,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Insula
 
@@ -87,12 +84,9 @@ unspecified
 * <span style="color:green">Schefold, *WändP*, p. 37. </span>
 * Soprano, p. 297, no. 7.
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

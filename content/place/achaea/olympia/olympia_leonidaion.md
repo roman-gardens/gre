@@ -32,9 +32,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -87,10 +84,7 @@ NEW WAY ↓↓↓↓
 * A. Mallwitz, *Olympia und seine Bauten.* Munich,1972, pp. 276-277, fig. 230. [(worldcat)](https://search.worldcat.org/title/51584745)
 * R. Tölle-Kastenbein, *Antike Wasserkultur*. Munich, 1990, p. 192. [(worldcat)](https://search.worldcat.org/title/231090332)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="570531" term="Olympia" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7011018" term="Olympia (deserted settlement)" >}}

@@ -98,12 +98,10 @@ unspecified
 * E. Salza Prina Ricotti, “Ricerca archeologica ed analisi dei terreni: il caso di Villa Adriana,” *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 67 (1994-95), p. 78, fig. 5. [(worldcat)](https://search.worldcat.org/title/1006002216) <!-- link to specific issue needed -->
 * A. Penna, *Viaggio pittorico della Villa Adriana di Tivoli*, Roma 1831, p. 59, fig. 59. [(worldcat)](https://search.worldcat.org/title/937430829)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="423127" term="Villa Hadriani" >}}
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
-
-## TGN ID
 
 - {{< id vocab="TGN" id="7006983" term="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->

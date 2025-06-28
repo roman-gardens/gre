@@ -5,7 +5,7 @@ type: garden
 title: "House of the Silver Bust, La Vilasse Quarter"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [House of the Silver Bust, La Vilasse Quarter](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
 
 House of the Silver Bust, La Vilasse Quarter
-
 
 
 ## Keywords
@@ -53,8 +45,6 @@ House of the Silver Bust, La Vilasse Quarter
 - {{< keyword "reception rooms" >}}
 - {{< keyword "pergolas" >}}
 - {{< keyword "ditches" >}}
-
-
 
 
 ## House Description
@@ -80,19 +70,13 @@ Finally, between the baths to the west and the “rue des boutiques,” the hous
 A number of sculptural discoveries are noteworthy.  In the vestibule [18] was found half of an oscillum 19 cm in diameter; on one face, a hare nibbles fruits coming out of a wicker basket while on the other are two dolphins in the water.   In the east portico of the peristyle [17] was a fragmentary oscillum (26 cm long) in the form of a pelta; one horn terminates in the head of an eagle-griffon. On one of the faces is a mask of a bearded person in profile with frilly hair held by a band; on the reverse is a mask with wavy hair.
 
 
-
-
-
 ## Plans
 
 
 {{< image src="house_of_the_silver_bust_la_vilasse_quarter.png" alt="Plan of House of the Silver Bust" title="Plan of House of the Silver Bust" >}}
 
 
-
 ## Dates
-
-
 
 
 ## Bibliography
@@ -106,18 +90,15 @@ A number of sculptural discoveries are noteworthy.  In the vestibule [18] was fo
 4. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.168-80. [(worldcat)](https://search.worldcat.org/title/905795401)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7008791" term="Fréjus (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

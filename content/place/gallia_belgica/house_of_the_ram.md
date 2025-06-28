@@ -5,7 +5,7 @@ type: garden
 title: "House of the Ram (La Maison au Bélier)"
 date: 2020-11-22T10:39:31-07:00
 latlon: [ 49.254081, 4.032937 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
@@ -15,9 +15,6 @@ draft: true
 - [DUROCORTORUM (Reims, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108945" term="DUROCORTORUM" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 <!--## Sublocation-->
 
@@ -39,13 +36,11 @@ House of the Ram (La Maison au Bélier)
 - {{< keyword "corridors" >}}
 
 
-
 ## Garden Description
 
 BEL 2.3.1: Reims, House of the Ram
 Excavated in 1992-93 by Agnès Balmelle, this vast house probably covered about 2000 square meters. The date of construction is rather uncertain; it could be as early as the end of the first century or as late as the second half of the second (Fig. 1)  The excavations have revealed a *portico* (A) (20 x 3 m) opening onto an open space which may have been a garden. It was bordered on the southwest by *drain* which no doubt collected rainwater from the roof and led it away to the northwest. A well (E) was in the north gallery or *corridor* (B).
 <!-- Text comes from draft file-->
-
 
 
 ## Maps
@@ -73,15 +68,13 @@ Unspecified
 - A. Balmelle, *Reims, Le site de la villa des Capucins (site n°51 454 129)* : D.F.S. de sauvegarde urgent, S.R.A. Champagne-Ardenne, 1995  <!-- not on worldcat -->
 - A. Balmelle, R. Neiss, Les maisons de l’élite à *Durocortorum*, in Archéologie urbaine à Reims, *Bulletin de la société archéologique champenoise*, t. 96, 2003, 4, p. 82. [(worldcat)](https://search.worldcat.org/title/718698064)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="108945" term="Durocortorum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
-[AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
+<!-- Maureen Carroll ? -->
 
 ## Publication date
 

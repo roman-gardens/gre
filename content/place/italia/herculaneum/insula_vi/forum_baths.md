@@ -48,12 +48,8 @@ During 1873-1875 the courtyard (a) of the *palaestra* was excavated. A section o
 {{< image src="H_3_3-17.jpg" alt="Plan of Casa A Graticcio" title="Plan of Casa A Graticcio" >}}
 
 
-
-
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 
@@ -77,7 +73,6 @@ unspecified
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
 ## Publication date
-
 
 
 <!--## Related articles-->

@@ -12,10 +12,6 @@ draft: true
 
 ## Location
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 ## Sublocation Description
@@ -49,11 +45,7 @@ Unspecified
 - G. Vergantini, *La collezione epigrafica dei Musei Capitolini: Inediti – revisioni –contributi al riordino*, (Tituli 6), edited by S. Panciera (Rome 1987) 152-53 n. 72, Tav. XXXIX, 4. [worldcat](https://search.worldcat.org/title/848526529)
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 176 n. 4. [worldcat](https://search.worldcat.org/title/886794800)
 
-## Pleiades ID
-
-## TGN ID
-
-## Contributor
+## Places
 
 ## Publication date
 

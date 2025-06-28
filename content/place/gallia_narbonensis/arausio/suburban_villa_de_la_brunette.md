@@ -5,7 +5,7 @@ type: garden
 title: "Suburban Villa de la  Brunette"
 date: 2020-11-15T00:08:52-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Suburban Villa de la Brunette](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
 
 Suburban Villa de la  Brunette
-
 
 
 ## Keywords
@@ -72,9 +64,6 @@ In comparison to the previous phase, the garden [46] has been considerably enlar
 At the heart of the garden, the rectangular pool [47] of the first condition was kept.  Along the gallery [3], a semi-circular pool [48] with an internal diameter of six meters was added.  It is separated from the gallery by an elongated.
 
 
-
-
-
 ## Plans
 
 
@@ -87,26 +76,20 @@ At the heart of the garden, the rectangular pool [47] of the first condition was
 A.D. 1-100 constructed
 
 
-
-
-
 ## Bibliography
 
 1.  J.-M. Mignon, I. Doray,  V. Faure, A. Bouet, *La  Brunette*  à  Orange  premier  établissement  antique    périurbain  (Vaucluse),  in  R.A.N.,  30,  1997,  P.173-202.
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7599818" term="Vaucluse (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

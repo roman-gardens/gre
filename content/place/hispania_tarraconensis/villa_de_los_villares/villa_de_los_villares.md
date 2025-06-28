@@ -5,7 +5,7 @@ type: garden
 title: "Villa de Los Villares"
 date: 2020-09-30T11:20:32-04:00
 latlon: [ 41.713123, -3.150103 ]
-author: AUTHOR_ID
+author: 
 editor: Yiyun Liu
 draft: true
 ---
@@ -31,7 +31,6 @@ There has been little research on the gardens in the Roman settlements in Spain 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
 
-
 ## Bibliography
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
 
@@ -47,22 +46,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 - [Villa de Los Villares]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="188623838" term="Villa de Los Villares" >}}
 
-
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -99,17 +82,11 @@ The first third of the 2nd century
 * M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1982 [(worldcat)](https://search.worldcat.org/title/876519837)
 * J. M. Blázquez, Los jardines en la Hispania Romana, in *Historia de los Parques y Jardines en España*. Edita Grupo FCC, Madrid, 2001, p. 33 [(worldcat)](https://search.worldcat.org/title/1090911182)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="188623838" term="Villa de Los Villares" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7322442" term="Santervás del Burgo (inhabited place)" >}}
 
-## Contributor
-
-AUTHOR_ID
 
 ## Publication date
 

@@ -30,10 +30,6 @@ Volubilis was the capital of the province of Mauretania Tingitania. The city was
 
 The city rapidly developed and expanded; new temples, baths, civic buildings and luxurious houses lining the porticoed decumanus maximus were built. The olive press and the mills attached to the houses attest to the rural character of the region. The city reached its climax in the beginning of the third century CE and survives today as a well-preserved archaeological site. The city walls and gates, Caracalla’s triumphal arch, the Capitolium temple, and the Basilica law courts survive. A number of houses known for their floor mosaics and bronze sculpture also persist to the modern day.
 
-<!--## Sublocation-->
-
-<!--## Sublocation Description-->
-
 ## Garden
 
 House of the Labors of Hercules (La maison des travaux d'Hercules)
@@ -70,14 +66,9 @@ Second century CE
 
 * R. Thouvenot, “La maison des travaux d'Hercule”, PSAM, 8, p. 69-107, fig. 1. [(worldcat)](https://search.worldcat.org/title/458298683)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="297059709" term="House of the Labors of Hercules" >}}
-
-## TGN ID
-
-## Contributor
-
 
 ## Publication date
 

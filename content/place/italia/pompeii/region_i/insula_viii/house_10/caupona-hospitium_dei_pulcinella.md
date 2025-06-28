@@ -19,9 +19,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Insula
 
@@ -80,12 +77,9 @@ unspecified
 * Jashemski, *Gardens*, vol.II, pp. 42-43. [(worldcat)](https://search.worldcat.org/title/921816405)
 * Maiuri, *RM* (1953-54), pp. 89-91 (the house is erroneously numbered I.v.10) on the plan, fig, 1.
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

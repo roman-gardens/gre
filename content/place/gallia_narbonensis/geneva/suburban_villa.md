@@ -5,7 +5,7 @@ type: garden
 title: "Suburban Villa"
 date: 2020-12-14T00:08:52-00:00
 latlon: [ 46.201961, 6.143798 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
@@ -18,17 +18,12 @@ draft: true
 <!-- ## Province Description -->
 
 
-
 ## Location
 
 - [Genava, ((Geneva, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="177528" term="Genava" >}}
 
 ## Location Description
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Sublocation
 
@@ -39,6 +34,7 @@ The Roman town, located at the western end of Lake Geneva at the confluence of t
 Suburban Villa
 
 <!-- ## Keywords -->
+
 ## Keywords
 - {{< keyword "villae suburbanae" >}}
 - {{< keyword "peristyles" >}}
@@ -74,18 +70,15 @@ None Available
 
 - M.-A. Haldimann, P. André, E. Broillet-Ramjoué, Matthieu Poux, “Entre résidence indigène et domus gallo-romaine: le domaine antique du Parc de La Grange (GE),” Archéologie Suisse 24.2, 2001: 2-15, figs. 4, 13-14, 17. [(worldcat)](https://search.worldcat.org/title/718064040)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="Pleiades" id="177528" term="Genava" >}}
 
 ## Contributor
 
-[AUTHOR_ID](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+<!-- Eric Morvillez ? -->
 
 ## Publication date
 

@@ -5,7 +5,7 @@ type: garden
 title: "Rural Villa"
 date: 2020-12-12T10:39:31-07:00
 latlon: [ 50.013889, 6.546389 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
@@ -15,9 +15,6 @@ draft: true
 - [FLIESSEM-OTRANG  (Germany)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108982" term="FLIESSEM-OTRANG " >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 <!--## Sublocation-->
 
@@ -71,15 +68,13 @@ Unspecified
 - E. M. Wightman, Roman Trier and the Treveri, London, 1970, pp. 143-145, fig. 15 [(worldcat)](https://search.worldcat.org/title/1001859813)
 - H. Cüppers, ed., Die Römer in Rheinland-Pfalz, Stuttgart,1990, pp. 367-371, figs. 264-265. [(worldcat)](https://search.worldcat.org/title/924024101)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="108982" term="Römische Villa Otrang" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
-[AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
+<!-- Maureen Carroll ? -->
 
 ## Publication date
 

@@ -5,7 +5,7 @@ type: garden
 title: "Baths of La Planchette"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Baths of La Planchette](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
 Baths of La Planchette
-
 
 
 ## Keywords
@@ -50,16 +42,10 @@ Baths of La Planchette
 - apsed pools
 
 
-
-
-
-
 ## Garden Description
 
 
 To the northeast there are the baths of la Planchette, today backfilled.   This bath complex of modest dimensions may have been attached to the northeast angle of the court of the house.  It is surrounded on the exterior by a large gutter for rainwater.  To the northeast of the bath building a rectangular pool has been found of about 3.5 x 2 m and having a semicircular apse with a diameter of 2 m.  It is without doubt an ornamental pool belonging to the exterior garden associated with the baths.  The nature of the ground surface around it is unknown.  At the time of its discovery, the pool still had a water supply pipe of lead.
-
-
 
 
 ## Plans
@@ -73,27 +59,21 @@ To the northeast there are the baths of la Planchette, today backfilled.   This 
 ## Dates
 
 
-
-
-
 ## Bibliography
 
 1. *La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise*. Vaucluse: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 82-83. [(worldcat)](https://search.worldcat.org/title/695787865)
 
 2. Chr. Fraisse, J. Dupraz, *L’Ardèche*, CAG 07, Gap,  2001, P. 155-156.
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="8712431" term="Alba-la-Romaine (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

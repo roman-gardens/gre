@@ -68,14 +68,8 @@ NEW WAY ↓↓↓↓
 {{< image src="Herc. III.11   68.17.57.jpg" alt="Illustration of Casa del Tramezzo di Legno" title="Illustration of Casa del Tramezzo di Legno" >}}
 
 
-
-
-
-
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates
@@ -97,7 +91,6 @@ unspecified
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
 
 ## Publication date
-
 
 
 <!--## Related articles-->

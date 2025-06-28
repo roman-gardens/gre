@@ -20,7 +20,6 @@ Judaea, the Roman province, included parts of the areas of the [Hasmonean](https
 The geography of Judaea comprises a wide variety of biomes, from richly watered plains of the Galilee and the Jordan, to the semi-arid Judean Hills, the humid, fertile coastal plain of the Mediterranean, and the deserts of the Dead Sea valley and the Negev. The period for which we have the richest evidence of a garden culture in this region is during the reign of [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great).  An allied king of Rome, Herod’s relationships with [Mark Antony](https://en.wikipedia.org/wiki/Mark_Antony), [Cleopatra](https://en.wikipedia.org/wiki/Cleopatra), [Augustus](https://en.wikipedia.org/wiki/Augustus), and [Marcus Agrippa](https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa) and other officials ave been preserved in the texts of [Flavius Josephus](https://en.wikipedia.org/wiki/Josephus).  These constitute a rare record of interactions between Rome and its territories, and provide a valuable context for understanding the trends of design in the early imperial period.  The proximity of Judaea to Alexandria, whose palaces and gardens lie beneath the modern city and its harbors, may also provide a suggestion of the late Hellenistic garden culture that Romans emulated.  Evidence of gardens in the Hasmonean winter palaces at Jericho and the palace identified as that of Hyracanus the Tobiad at 'Iraq al-Amir on the other side of the Jordan Valley provide rare cases where texts can illuminate archaeological evidence. These gardens require further investigation and both are threatened by local development.
 
 
-
 ## Location
 
 - [Macchaerus]({{<relref ".">}}) 
@@ -61,7 +60,6 @@ During the architectural survey in 2010, the team excavated a 4 x 2m trench to t
 Water was supplied to the garden from cisterns built in the Herodian and Hasmonean times (Vörös 2012, 534-535). Like other gardens of Herod, it lay near a bath complex and may have used the water draining from the bath.
 
 
-
 <!--
 ## Maps
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}-->
@@ -96,7 +94,7 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 * Vörös, G, 2020: “The Bema in the Lithostrotos-Gabbatha on the Golgotha of Saint John the Baptist: The Apsidal Judgement-Seat Throne-Niche of Tetrarch Antipas in the Stone-Paved Herodian Royal Peristyle Courtyard of the Fortified Machaerus Mountaintop-Palace Overlooking the Dead Sea in Transjordan,” Holy Land Archaeology on Either Side: Archaeological Essays in Honour of Eugenio Alliata, ofm. (SBF Collectio Maior 57), Milano, pp. 99–120.
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="687917" term="Jericho" >}}
 

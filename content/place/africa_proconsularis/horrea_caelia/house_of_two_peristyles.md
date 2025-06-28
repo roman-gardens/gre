@@ -27,19 +27,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 The site is located on the East seaside of Tunisia. Excavations in the sixties have brought to light warehouses and a large *domus* opening towards the sea.
 
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 House of two peristyles (Maison aux deux péristyles)
 
@@ -56,7 +43,6 @@ House of two peristyles (Maison aux deux péristyles)
  The house has known some modifications, one of which was the construction of a private bath that may have had a peristyle garden. The house was occupied between the second and the fourth centuries.
 
  When the house was transformed into a church, during the middle of the IVth century, the garden of the peristyle may have been maintained.
-
 
 
 ## Maps
@@ -83,14 +69,10 @@ House of two peristyles (Maison aux deux péristyles)
 ## Bibliography
 * Ennaïfer, M., Ouertani, N., "Les mosaïques de la Maison dite aux deux péristyles de Hergla, originalité d’un atelier Byzacénien", in *La mosaïque gréco-romaine. VIII. , Actes du VIIIe colloque international pour l'étude de la mosaïque antique et médiévale, Lausanne (Suisse), 6-11 octobre 1997 / éd. par Daniel Paunier et Christophe Schmidt VIII*, vol. 1, Lausanne : Cahiers d'archéologie romande, 2001, cop. 2001, pp. 216 –237, Fig. 2. [(worldcat)](https://search.worldcat.org/title/833866146)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="315041" term="Horrea Caelia" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="1094946" term="Harqalah (inhabited place)" >}}
-
-## Contributor
 
 ## Publication date
 

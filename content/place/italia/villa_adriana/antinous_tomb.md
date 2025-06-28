@@ -143,12 +143,10 @@ unspecified
 * Attanasius 350 A.D. –  From a letter of Saint Attanasius “And then this is the new god, Antinous, Hadrian’s servant, a boy who was a slave of the emperor’s depraved and against nature lust... This scandalous and shameless boy died in Aegypt during an imperial court’s visit to this country. Immediately His Imperial Majesty issued an order and an extremely rigorous edict obliging all his subjects to recognize the deity of the dead boy..."
 <!-- PIETRANGELI 1993 reference removed-->
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="652231746" term="Antinoeion at Hadrian's Villa" >}}
 <!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
-
-## TGN ID
 
 - {{< id vocab="TGN" id="7006983" term="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->

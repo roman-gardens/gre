@@ -5,7 +5,7 @@ type: garden
 title: "Hispania Baetica"
 date: 2020-10-03T10:00:00-04:00
 latlon: [ 37.317026, -5.060833 ]
-author: (AUTHOR_ID)
+author: 
 editor: Lai Ching Tsui
 draft: true
 ---
@@ -55,15 +55,11 @@ A sublocation is any area larger than an individual garden, but located within a
 * CL. Domergue, ‘Les mines de la Péninsule Ibérique dans l’Antiquité romaine,’ *Collection de l’École Française de Rome, 127*, (Roma 1990). [(worldcat)](https://search.worldcat.org/title/1039552105)
 * W. Trillmich, ‘Las ciudades hispanorromanas: reflejos de las metropolis,’ *Hispania : el legado de Roma : Museo Nacional de arte Romano-Mérida, febrero-abril de 1999*, Ministerio de Educación y Cultura, (Madrid 1999), 183-196. [(worldcat)](https://search.worldcat.org/title/66909836)
 
-## Pleiades ID
+## Places
 - [Baetica]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="862" term="Baetica" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="6000567" term="Baetica (province)" >}}
 
-## Contributor
-[(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
 ## Publication date
 

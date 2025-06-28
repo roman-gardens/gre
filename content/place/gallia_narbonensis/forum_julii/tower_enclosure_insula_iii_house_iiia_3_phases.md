@@ -5,7 +5,7 @@ type: garden
 title: "Tower Enclosure, Insula III, House IIIA – 3 phases"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Tower Enclosure, Insula III, House IIIA – 3 phases](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
 
 Tower Enclosure, Insula III, House IIIA – 3 phases
-
 
 
 ## Keywords
@@ -55,7 +47,6 @@ Tower Enclosure, Insula III, House IIIA – 3 phases
 - {{< keyword "vestibules" >}}
 
 
-
 ## House Description
 
 This house is 65 meters south of the rampart and 120 meters to the west of the theater. It occupies the northeast corner of an insula in network B, in the northeast quarter of the city. The house occupies a parcel of 192 square meters, with a useful covered area of 85.5 square meters.  It was bordered on the north by a *decumanus* and on the east by a *cardo* with porticos.  To the west and south, it had common walls with other habitations. Constructed around A.D. 20-25, the house continued in use for 40 – 45 years.
@@ -67,13 +58,10 @@ In a second phase, around A.D. 70, houses IIIa and IIIa’’ were combined. The
 In a third and final phase, dated from around the end of the second century, the surface of the parcel grew to 401 square meters, with a useful covered surface 265 square meters. The *oecus*, or formal dining room, opened through a large bay to the south onto the garden. This courtyard of about 10 by 5.7 meters was certainly treated as a garden. {I do not understand the parenthesis. It seems to be a question by the author to himself.} A small pool of white marble, which runs along the west wing is fed from the north by a water jet that made a fountain. Drainage was through a lead pipe. Behind it was a second pool; at the back, against the wall, it had a narrow space filled with dirt, perhaps a planter for plants to mask the wall which was certainly without openings. This pool, of about 5.7 by 2.1 meters overall, was divided into two by a low wall and included a well at this level. The wall of the south façade is bordered by a drainage gutter. The courtyard was framed on two sides, north and west, by a portico with a space of 2.2 meters between columns, with the third {what?} to the east {from the east?} serving as a vestibule [1]. {I need the plan to know what is being said.} By the large door, one enters the eastern end of a portico 2 meters wide which opens onto the courtyard through a row of brick columns covered with stucco. The west wing has four rooms; the largest, ceremonial room [4] looked out onto the garden with the pool straight ahead.
 
 
-
-
 ## Plans
 
 
 {{< image src="tower_enclosure_insula_III_house_IIIA_3_phases.png" alt="Plan of Tower Enclosure, Insula III, House IIIA" title="Plan of Tower Enclosure, Insula III, House IIIA" >}}
-
 
 
 ## Dates
@@ -81,7 +69,6 @@ In a third and final phase, dated from around the end of the second century, the
 A.D. 20-15 First Phase
 A.D 70 Second Phase
 A.D. 200 Final Phase
-
 
 
 ## Bibliography
@@ -92,19 +79,15 @@ A.D. 200 Final Phase
 2. RIVET,  D.  BRENTCHALOFF,  S.  ROUCOLE,  S.  SAULNIER,  *Fréjus,  Atlas topographique  des  villes  de  gaule  méridionale*,  R.A.N.,  supplément  32,  Montpellier,  2000,  P. 127-128. [(worldcat)](https://search.worldcat.org/title/491603596)
 
 
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7008791" term="Fréjus (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

@@ -20,17 +20,10 @@ draft: true
 - [Sirmio]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="383781" term="Sirmio" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Region X]({{<relref "..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 
 ## Garden
@@ -110,12 +103,9 @@ unspecified
 * T.P.Wiseman, *Le Grotte di  Catullo.  Una  villa  romana  e  i  suoi proprietari*, Brescia 1990. [(worldcat)](https://search.worldcat.org/title/848596547)
 * E. Roffia, *Sirmione, le “grotte di Catullo”, in Ville romane sul lago di Garda*, a cura di E.Roffia, Brescia 1997, pp.141-169. [(worldcat)](https://search.worldcat.org/title/878098534)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="870993210" term="Grotte di Catullo" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7005771" term="Sirmione (inhabited place)" >}}
 
 ## Contributor

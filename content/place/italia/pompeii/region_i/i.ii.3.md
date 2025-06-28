@@ -46,10 +46,8 @@ The small viridarium at the rear of the house had narrow, slightly raised beds a
 * Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 10  
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, plate no.12.
 
-## Pleiades ID
+## Places
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
-
-## TGN ID
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

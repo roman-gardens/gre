@@ -5,7 +5,7 @@ type: garden
 title: "House of Alcazaba"
 date: 2020-09-30T11:20:32-04:00
 latlon: [ 36.720965, -4.416832 ]
-author: AUTHOR_ID
+author: 
 editor: Yiyun Liu
 draft: true
 ---
@@ -36,21 +36,6 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 ## Bibliography
 - I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
 
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -88,17 +73,11 @@ Within the enclosure of the Islamic Alcazaba, west of the city, are the remains 
 * E. García Sandoval, “Excavaciones arqueológicas en la zona de Mérida: La Casa del Anfiteatro," in *C.A.N.*, 8(1964): 469-477 [(worldcat)](https://search.worldcat.org/title/43198027)
 * F. Palma Garcia, “Las casas romanos intramuros en Mérida” *Mérida, excavaciones arqueológicos.* 1997, p. 347-65 [(worldcat)](https://search.worldcat.org/title/37151472)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="64187403" term="Roman theater at Malaca" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="8713074" term="Alcazaba (ancient site)" >}}
 
-## Contributor
-
-AUTHOR_ID
 
 ## Publication date
 

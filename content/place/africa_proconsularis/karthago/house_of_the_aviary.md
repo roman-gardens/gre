@@ -27,19 +27,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 Founded by Tyrians from Phoenicia, Carthage became the capital of a powerful empire that came into conflict with the expanding power of Rome. In 146 BC Carthage was completely destroyed and re-founded as a Roman colony by Augustus who completed Cesar’s initial project. Augustus expanded the new city and encouraged settlements of veterans and civilians. The kingdom of Numidia was transformed into a province and Carthage was raised to the rank of capital. The city not only became the major port through which the wealth of the province flowed to Rome but also became a cultural capital that introduced the African elite to the rest of the empire, making it one of the wealthiest and most cosmopolitan cities in the Mediterranean world.
 Of the Roman period, the city plan is clearly recognizable. The plan takes as its central axis the summit of the acropolis of Byrsa that divided the city into four quarters of equal size except for the one situated to the northwest. The most remarkable monuments found in Carthage are the Baths of Antonius situated on the seashore at the foot of the hill of Borj Jedid and the villas that stretched along the Odeon’s hill. From the Christian era, several basilicas were found. The necropolis that surrounded the city has also provided important information on the city.
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 House of the Aviary (Maison de la Volière)
 
@@ -91,16 +78,10 @@ the end of 2nd-4th century CE
 * Malek, A.-A., "Mosaic and nature : "Cultural allusions to Nature in the Roman Domus", in *Gardens of the Roman Empire*, Volume II, eds., W. F. Jashemski, K. Gleason, A-A Malek, K. Hartswick, Cambridge University Press., NY, 2018, pp. 329-301, fig. 12.9B, 12.10. [(worldcat)](https://search.worldcat.org/title/1021392532)
 
 
-
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="314921" term="Carthago" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7016143" term="Carthage (deserted settlement)" >}}
-
-## Contributor
 
 ## Publication date
 

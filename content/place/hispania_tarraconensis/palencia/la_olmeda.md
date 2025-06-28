@@ -5,7 +5,7 @@ type: garden
 title: "La Olmeda  "
 date: 2020-11-02
 latlon: [ 42.482035, -4.736989 ]
-author: AUTHOR_ID
+author: 
 editor: Xingjian Wang
 draft: true
 ---
@@ -26,19 +26,6 @@ draft: true
 ## Location Description
 The size, quality, and excellent state of preservation of the mosaics of this villa make it an arehaeological jewel.  In an area known since the Middle Ages as La Olmeda (the Elm Grove), it was discovered in 1968 by Javier Cortes, the owner of the land, as he was about to level the area for an irrigation project.  He immediately recognized its value and involved Pedro de Paloa, a professional archaeologist. Its scientific exploration was financed by Cortes until the site was given to the provincial government  in 1980.  Excavation continued to 1986.  Great care has been taken to preserve the mosaics and lower parts of the villa walls in their original place.  In 2005, construction began on a new, 6.2 million euro protective shell and facility to accommodate some 40,000 visitors a year.  The Museo Monográfico de la Villa de Pedrosa de la Vega has been created in the old chuch of San Pedro in Saldaña to display the many tools, coins, ceramics, glass and other daily objects from the villa and the extensive nearby cemeteries.  
 The villa is best reached by a well-marked road turning to the west from CL-615 in Gañinas de la Vega, 3.6 km south of the intersection of CL-615 with CL-624 just south of Saldaña. (CL-615 is the road from Palencia to Saldaña.)
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 La Olmeda  
@@ -78,7 +65,7 @@ The large number of objects of daily life found in the ruins, some under toppled
 - Pedro de Palol, Javier Cortes , La villa romana de La Olmeda de Pedrosa de la Vega (Palencia). Guía de las excavaciones. Palencia, 1986. [(worldcat)](https://search.worldcat.org/title/435246224)
 - Excavaciones de 1969 y 1970”, vol. I, in Acta Arqueológica Hispánica, VII. Madrid, 1974. [(worldcat)](https://search.worldcat.org/title/183400557)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="236579" term="La Olmeda" >}}
 

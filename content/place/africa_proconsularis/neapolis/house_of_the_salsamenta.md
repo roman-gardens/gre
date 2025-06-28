@@ -27,19 +27,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 The city of Neapolis that bears a Greek name meaning the “new city”, is located on the south coast of Cap Bon at 60 km from Carthage. The municipal history of the city is not well known. Scholars disagree as to the foundation date of the colony some think it became *colonia Iulia* with Cesar and others think that it was elevated to the rank of colony by Augustus.
 
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 House of the Salsamenta (Usine de salaison)
 
@@ -56,7 +43,6 @@ House of the Salsamenta (Usine de salaison)
  A fish-curing factory (*salsamenta*) located to the SE of the Nymfarum domus was renovated between the IInd and the IIIrd centuries. Among the changes made was the design of a small house organized around a small peristyle garden (4 x 4 m.) (XXII) and bound by a low wall that curved to make a semi-circular basin (Plan view, Fig.1; ).
 
  During the second half of the IVth century, with the abandonment of the industrial unit, the residential area was enlarged and a second semi-circular basin was added in the garden.
-
 
 
 ## Maps
@@ -94,11 +80,9 @@ Unspecified
 * Slim, L., Bonifay, M., Trousset, P. and al., “L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, in *Africa* XVII, 1999, pp. 159-161, fig. 6, 7. [(worldcat)](https://search.worldcat.org/title/949242827)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="315093" term="Neapolis" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="1094981" term="Nabeul (inhabited place)" >}}
 
 ## Contributor

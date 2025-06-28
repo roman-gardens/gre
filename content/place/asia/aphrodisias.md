@@ -49,9 +49,6 @@ Aphrodisias (*Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis*), in Ca
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 Place of the Palms (South Agora)
@@ -97,16 +94,12 @@ Unspecified
 - Wilson, A. I. (2015). Water, nymphs and a palm grove: monumental water display at Aphrodisias (R. R. R. Smith, J. Lenaghan, A. Sokolicek, & K. Welch, Eds.), Aphrodisias Papers 5: Excavation and Research at Aphrodisias, 2006-2012, Portsmouth, Journal of Roman Archaeology. Supplement 103, 100-135. [(worldcat)](https://search.worldcat.org/title/6568599066)
 -
 
-## Pleiades ID
+## Places
 
 <!-- invalid
 - {{< id vocab="Pleiades" id="827863015" term="82786301" >}}
 -->
-
-## TGN ID
 - {{< id vocab="TGN" id="7002358" term="Caria (former nation/state/empire)" >}}
-
-## Contributor
 
 ## Publication date
 

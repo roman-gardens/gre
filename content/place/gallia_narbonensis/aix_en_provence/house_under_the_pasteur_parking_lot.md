@@ -5,7 +5,7 @@ type: garden
 title: "House under the Pasteur parking lot"
 date: 2020-11-04T00:20:41-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [House under the Pasteur parking lot](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
 
 House under the Pasteur parking lot
-
 
 
 ## Keywords
@@ -54,9 +46,6 @@ House under the Pasteur parking lot
 - {{< keyword "reception rooms" >}}
 - {{< keyword "mural paintings" >}}
 - {{< keyword "candelabras (candleholders)" >}}
-
-
-
 
 
 ## House Description
@@ -100,7 +89,6 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 
-
 ## Bibliography
 
 1. R. Boiron, C. Landure, N. Nin,  Les fouilles de l’Aire du Chapitre, actuel parking Pasteur, Documents d’Archéologie aixoise, 2, 1986, P. 13-36[(worldcat)](https://search.worldcat.org/title/20998985)
@@ -111,20 +99,15 @@ NEW WAY ↓↓↓↓
 3.   J. Guyon, N. Nin, L. Rivet, S. Saulnier, *Aix-en-Provence,Atlas*, P. 65-68 et P.261-277.
 
 
-
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7010786" term="Aix-en-Provence (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

@@ -24,18 +24,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location Description
 The city was built along the slope of the hill several kilometers northwest of the present town. Excavations revealed the Capitol and an important residential district descending in successive levels towards the bank.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 House of the Bust of Marcus Aurelius (Maison du Buste de Marc Aurèle)
 
@@ -80,10 +68,8 @@ Built over an older establishment, the house presents two main phases.  The main
 - Ennabli, A., "Rapport préliminaire de la fouille de la villa romaine de Kelibia", in *Africa*, 3 (1969-70), pp. 239-41.
 - Lassère, J.-M., Slim, H., *Maisons de Clupea. Les maisons de l’Ecole de pêche*, Paris, 2010, pp. 67-148. [(worldcat)](https://search.worldcat.org/title/701795957)
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="314892" term="Aspis/Clipea" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7001037" term="Kelibia (inhabited place)" >}}
 
 ## Contributor

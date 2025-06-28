@@ -5,7 +5,7 @@ type: garden
 title: "Quarter of Saint-Florent, House A – House of the Mosaic with Meanders"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Quarter of Saint-Florent, House A – House of the Mosaic with Meanders](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
 
 Quarter of Saint-Florent, House A – House of the Mosaic with Meanders
-
 
 
 ## Keywords
@@ -68,9 +60,6 @@ Lying in the pool was found a collection of fragments of lead piping. Presumably
 A rather large sewer collector (30 x 40 cm in section) took the rainwater of the roofs and the overflow of the pool from the northeast corner of the garden and led them away to the north, picking up along the way the waste water of the baths. The overflow from the pool may perhaps have assured the necessary flux in latrines near the baths.
 
 
-
-
-
 ## Plans
 
 
@@ -82,27 +71,21 @@ B.C 10-A.D 10 Built
 A.D 20-30 Destroyed
 
 
-
-
-
 ## Bibliography
 
 1. Bellet, Michel-Edouard. *Orange Antique: Monuments Et Musée*. Paris: Imprimerie nationale, 1991, P. 69 [(worldcat)](https://search.worldcat.org/title/24832885)
 
 2. Maison 1996,  t. II, P. 229-237 and  P. 240-242.
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7599818" term="Vaucluse (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

@@ -40,10 +40,8 @@ At the rear of the tablinium excavated in 1881 a narrow garden (a) had a portico
 ## Plans
 {{< image src="fig.16_region_viii.insula_v.png" alt="Fig. 16, Plan of  Region VIII, Insula V" title="Plan of  Region VIII, Insula V" >}}
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
@@ -53,8 +51,6 @@ At the rear of the tablinium excavated in 1881 a narrow garden (a) had a portico
 * Fiorelli, *Notizie degli scavi di Antichita* (1881), p. 332 [(worldcat)](https://search.worldcat.org/title/638883283)
 * Jashemski, *Gardens*, vol. II, p. 216 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 175-176 [(worldcat)](https://search.worldcat.org/title/823239162)
-
-
 
 
 ## Contributor

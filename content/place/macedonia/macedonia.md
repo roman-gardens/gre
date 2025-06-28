@@ -33,13 +33,10 @@ draft: true
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-## Pleiades ID
+## Places
 
 - [Macedonia (Roman province)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981531" term="Macedonia (Roman province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7001349" term="Macedonia (former nation/state/empire)" >}}
 
 ## Contributor

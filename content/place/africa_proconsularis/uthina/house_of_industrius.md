@@ -25,18 +25,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location Description
 Located to the Southeast of the amphitheater, this house was laid out around a peristyle garden of 10 columns that connected by a low wall. A semicircular basin extended into the garden on the NE facing the reception room.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 House of Industrius (Maison d'Industrius)
@@ -51,7 +39,6 @@ House of Industrius (Maison d'Industrius)
 ## Garden Description
 
 Located to the Southeast of the amphitheater, this house was laid out around a peristyle garden of 10 columns that connected by a low wall. A semicircular basin extended into the garden on the NE facing the reception room.
-
 
 
 <!--## Maps-->
@@ -75,15 +62,10 @@ Unspecified
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.330-332.  [(worldcat)](https://search.worldcat.org/title/989088620)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="315247" term="Uthina" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7024022" term="Oudna (deserted settlement)" >}}
-
-## Contributor
 
 ## Publication date
 

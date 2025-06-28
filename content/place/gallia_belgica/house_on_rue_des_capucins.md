@@ -5,7 +5,7 @@ type: garden
 title: "House with Garden, rue des Capucins"
 date: 2020-12-08T10:39:31-07:00
 latlon: [ 49.253877, 4.033055 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
@@ -15,9 +15,6 @@ draft: true
 - [DUROCORTORUM (Reims, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108945" term="DUROCORTORUM" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 <!--## Sublocation-->
 
@@ -67,15 +64,13 @@ Unspecified
 - A. Balmelle, R. Neiss, Les maisons de l’élite à *Durocortorum*, in Archéologie urbaine à Reims, *Bulletin de la société archéologique champenoise,* t. 96, 2003, 4, p. 73.  [(worldcat)](https://search.worldcat.org/title/718698064)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="108945" term="Durocortorum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
-[AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
+<!-- Maureen Carroll ? -->
 
 ## Publication date
 

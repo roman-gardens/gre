@@ -27,19 +27,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 <!--## Location Description-->
 
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Tomb Garden of Flavius M. f. Quadratus
 
@@ -75,7 +62,7 @@ An inscription found immured in the corner of a house near Lisbon around 1735 re
 - J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](https://search.worldcat.org/title/803415143)
 - S. J. Maloney and J. R. Hale, ‘The villa of Torre de Palma (Alto Alentejo)’ Journal of Roman Archaeology, vol. 9, 1996, p. 275-94. [(worldcat)](https://search.worldcat.org/title/51847498)-->
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="256338" term="Olisipo" >}}
 

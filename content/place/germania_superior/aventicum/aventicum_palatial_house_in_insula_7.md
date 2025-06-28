@@ -23,18 +23,6 @@ draft: true
 ## Location Description
 
 The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in AD 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around AD 260, and it was progressively abandoned thereafter.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Palatial House in Insula 7 in Aventicum
@@ -84,16 +72,10 @@ Severnan Period - Middle of 3rd century
 * J. Morel, “Avenches, Palais de Derrière la Tour,” *Bull. de l’Association Pro Aventico* 37, 1995: 206-209, fig. 4.[(worldcat)](https://search.worldcat.org/title/716573918)
 * J. Morel, “L’habitat,” in : A. Hochuli-Gysel, ed., Avenches, capitale des Helvètes, *Archéologie Suisse* 24.1 2001: 47-49, fig. 62.[(worldcat)](https://search.worldcat.org/title/718693183)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="177495" term="Aventicum" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
-
-## Contributor
-
 
 ## Publication date
 

@@ -21,17 +21,10 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 - [Athens]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="579885" term="Athens" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 - {{< id vocab="Pleiades" id="807514119" term="Agora of Athens" >}}
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -76,10 +69,7 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 * M. Carroll, "The sacred places of the immortal ones: ancient Greek and Roman sacred groves," in J. Woudstra and C. Roth (eds.), *A History of Groves.* London: Routledge, 2018: 22-23, fig 1.4. [(worldcat)](https://search.worldcat.org/title/1012849097).
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="558659669" term="Hephaisteion" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="5004159" term="Agorá (ancient site)" >}}

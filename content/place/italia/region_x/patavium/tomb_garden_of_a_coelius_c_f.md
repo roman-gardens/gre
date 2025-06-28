@@ -20,17 +20,10 @@ draft: true
 - [Patavium]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="393473" term="Patavium" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Region X]({{<relref "../..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 
 ## Garden
@@ -71,12 +64,9 @@ unspecified
 
 * CIL 5.2935
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="393473" term="Patavium" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7003085" term="Padua (inhabited place)" >}}
 
 ## Contributor

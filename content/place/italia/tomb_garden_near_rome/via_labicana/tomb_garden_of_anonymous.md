@@ -14,10 +14,6 @@ draft: true
 - {{< id vocab="Pleiades" id="74935822" term="Via Labicana" >}}
 - {{< id vocab="Pleiades" id="60995119" term="Tomb Garden of Anonymous" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 Via Labicana
 
@@ -39,9 +35,6 @@ Tomb Garden of Anonymous
 A fragmentary marble slab found beside the Via Labicana near the cemetery of Centocelle and recording the end of an epitaph addressed in part to an Aurelius identifies a cepotaphium in the formulaic clause prohibiting misuse or alienation of the tomb property.
 
 
-
-
-
 ## Dates
 Unspecified
 
@@ -49,18 +42,9 @@ Unspecified
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](https://search.worldcat.org/title/886794800)
 
 
-
-
-
-
-
-
-
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="60995119" term="60995119" >}}
-
 
 
 ## Contributor

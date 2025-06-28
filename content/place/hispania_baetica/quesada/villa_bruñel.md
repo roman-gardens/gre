@@ -5,7 +5,7 @@ type: garden
 title: "Villa Bruñel"
 date: 2020-10-15T10:00:00-04:00
 latlon: [ 37.885309, -3.079082 ]
-author: (AUTHOR_ID)
+author: 
 editor: Lai Ching Tsui
 draft: true
 ---
@@ -19,19 +19,6 @@ draft: true
 
 - [Quesada]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="265996" term="Quesada" >}}
-
-## Location Description
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -105,16 +92,11 @@ unspecified
 * M.ª C. Fernández Castro,*Villas romanas en Hispania*, (Madrid 1982).[(worldcat)](https://search.worldcat.org/title/876519837)
 
 
-
-## Pleiades ID
+## Places
 - [Pago de Bruñel]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="265996" term="Pago de Bruñel" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7027137" term="Castillo de Mulva (deserted settlement)" >}}
 
-## Contributor
-[(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
 ## Publication date
 

@@ -14,10 +14,6 @@ draft: true
 - {{< id vocab="Pleiades" id="587835546" term="VIA ARDEATINA" >}}
 - {{< id vocab="Pleiades" id="195817642" term="Tomb Garden of C. Nonius Minyas" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 Via Ardeatina
 
@@ -38,8 +34,6 @@ Tomb Garden of C. Nonius Minyas
 An epitaph the late first or second century found near the intersection of the Via Ardeatina and the ancient road corresponding to the modern Via delle Sette Chiese identifies an estate or farm of Merops or Merope (horti or fundus Meropianus), perhaps the imperial freedman Ti. Claudius Merops, who served as procurator for the regions of Rome some time in the Julio-Claudian era (CIL 6.4018), and near it a large walled funerary garden (280 Roman feet wide and 360 feet deep, about two acres in area) with service building built by C. Nonius Minyas, who provided access to it through the larger entry gate to the fundus Meropianus. Among funerary gardens of known dimensions in Italy, Minyas’s ranks in the top quartile (see vol. 1 “Tomb Gardens” fig. 8).
 
 
-
-
 ## Dates
 late first or second century
 
@@ -54,14 +48,7 @@ late first or second century
 - G.Tomasetti, *Iscrizione della via Ardeatina*, Bulletino dell’instituto di Corrispondenza archeologica 8.9  (1875), pp.205-206.[worldcat](https://search.worldcat.org/title/1194084892)
 
 
-
-
-
-
-
-
-
-## Pleiades ID
+## Places
 
 <!-- broken link
 - {{< id vocab="Pleiades" id="195817642" term="195817642" >}}

@@ -47,10 +47,8 @@ The earthquake most likely was the reason the corner columns were reinforced by 
 {{< image src="fig.12_viii.iv.4_11.13.59.jpg" alt="Fig. 12, 11.13.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 12, 11.13.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates

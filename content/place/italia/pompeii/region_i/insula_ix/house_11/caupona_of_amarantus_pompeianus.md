@@ -83,16 +83,10 @@ Early 1990s
 * *CIL* IV.10345 (for amphoras found in the garden February, 1953).
 * DeVos, “Scavi nuovi sconoscuti (1.9.13),” *Meded* 38 (1976), pl. 35 (plan).
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
-
-## Contributor
-
 
 ## Publication date
 

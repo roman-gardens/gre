@@ -26,7 +26,6 @@ Caelian Hill \
 - {{< id vocab="Pleiades" id="695491849" term="Caelius Mons" >}}
 
 
-
 ## Garden
 
 Garden of the Temple of Divine Claudius, Palatine
@@ -71,10 +70,7 @@ unspecified
 * R. Lloyd, "Three Monumental Gardens on the Marble Plan" *American Journal of Archaeology* (1986): 91-100. [(worldcat)](https://search.worldcat.org/title/1076135742)
 * K. Gleason and L. Cockerham, "Rus in Urbe: Two Parks of Ancient Rome" *CELA Proceedings*, 1992, pp. 103-12.[(worldcat)](https://search.worldcat.org/title/741989882)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="695491849" term="Caelian Hill" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7000874" term="Rome (inhabited place)" >}}

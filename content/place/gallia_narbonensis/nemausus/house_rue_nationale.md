@@ -5,7 +5,7 @@ type: garden
 title: "House, rue Nationale"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [House, rue Nationale](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
 
 Baths of La Planchette
-
 
 
 ## Keywords
@@ -60,18 +52,14 @@ This house is 240 meters northeast of the Maison Carrée at the angle of rue Nat
 Only about half of the rather deep pool has survived.  The base of a fountain is found to the east of the pool. A gutter leads from this base towards the southeast corner of the peristyle.
 
 
-
 ## Plans
 
 
 {{< image src="house_rue_nationale.png" alt="Plan of House, rue Nationale" title="Plan of House, rue Nationale" >}}
 
 
-
 ## Dates
 A.D. 1
-
-
 
 
 ## Bibliography
@@ -82,18 +70,15 @@ A.D. 1
 
 3. M. Monteil, *Nîmes antique et sa proche campagne*, Monographie d'Archéologie Méditerranéenne, 3, 1999, P. 157-172.[(worldcat)](https://search.worldcat.org/title/643112972)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7008371" term="Nîmes (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

@@ -33,21 +33,6 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 
 - {{< id vocab="Pleiades" id="550472" term="Attaleia" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Tomb (peribolos) garden of Bassos son of Euarestos
 
@@ -89,11 +74,9 @@ Unspecified
 - J. Kubin’ska, *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, 1968, p. 144 [(worldcat)](https://search.worldcat.org/title/164233326)
 - P. Herrmann, *Tituli Lydiae linguis Graeca et Latina conscripti (Tituli Asiae Minoris V, 2)*. Vienna, 1989, 828c4.[(worldcat)](https://search.worldcat.org/title/886649239)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="550472" term="Attaleia" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7002358" term="Caria (former nation/state/empire)" >}}
 
 ## Contributor

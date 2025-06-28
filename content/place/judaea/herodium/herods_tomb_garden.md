@@ -20,7 +20,6 @@ Judaea, the Roman province, included parts of the areas of the [Hasmonean](https
 The geography of Judaea comprises a wide variety of biomes, from richly watered plains of the Galilee and the Jordan, to the semi-arid Judean Hills, the humid, fertile coastal plain of the Mediterranean, and the deserts of the Dead Sea valley and the Negev. The period for which we have the richest evidence of a garden culture in this region is during the reign of [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great).  An allied king of Rome, Herod’s relationships with [Mark Antony](https://en.wikipedia.org/wiki/Mark_Antony), [Cleopatra](https://en.wikipedia.org/wiki/Cleopatra), [Augustus](https://en.wikipedia.org/wiki/Augustus), and [Marcus Agrippa](https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa) and other officials ave been preserved in the texts of [Flavius Josephus](https://en.wikipedia.org/wiki/Josephus).  These constitute a rare record of interactions between Rome and its territories, and provide a valuable context for understanding the trends of design in the early imperial period.  The proximity of Judaea to Alexandria, whose palaces and gardens lie beneath the modern city and its harbors, may also provide a suggestion of the late Hellenistic garden culture that Romans emulated.  Evidence of gardens in the Hasmonean winter palaces at Jericho and the palace identified as that of Hyracanus the Tobiad at 'Iraq al-Amir on the other side of the Jordan Valley provide rare cases where texts can illuminate archaeological evidence. These gardens require further investigation and both are threatened by local development.
 
 
-
 ## Location
 
 - [Herodium]({{<relref ".">}}) 
@@ -31,19 +30,6 @@ Herodium
 
 Herod the Great’s primary residence and burial place appears to have been this large palace complex 15 km southwest of Jerusalem.  Here his court was within easy reach of the city, and on clear days the palace and the Mt. of Olives are visible in both directions. Herodium was an entirely new administrative and residential complex, commemorating his military victory over Antigonus for control of Jerusalem in 40 BCE.  Herodium was begun c. 23-20 BC and offered a Herod a range of facilities in which he could perhaps live and conduct business more freely here than in Jerusalem. (Jewish Antiquities, XV, 323-325) The palace has two primary residential areas: the fortified palace atop a natural, but raised hilltop; and an unfortified palace that spans a gentle valley below. (Fig. 1)   (Josephus Jewish War I, 419-421; Jewish Antiquities, XV, 323-325).
 
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -88,18 +74,14 @@ In 2005, Netzer’s team found the long-sought tomb of Herod, positioned on a te
 [worldcat](https://search.worldcat.org/title/907827917)
 * D. Langgut, M. Cavanagh , R. Evyasaf, Y. Korman, R. Porat, G. Stiebel., K. Gleason. "The reconstruction of Herod the Great’s palatial gardens in Herodium: a botanical perspective", In: Chachy R, Kalman Y, and Porat R (eds.), "Lower Herodium," in  HERODIUM II;  Final Reports of the 1972-2010 Excavations Directed by Ehud Netzer, Jerusalem. In press  
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="687916" term="Herodeion" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="8713913" term="Judean Desert (desert)" >}}
 
 ## Contributor
 
 [Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
-
 
 
 ## Publication date

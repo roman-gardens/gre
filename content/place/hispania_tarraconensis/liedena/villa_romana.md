@@ -5,7 +5,7 @@ type: garden
 title: "Villa Romana"
 date: 2020-10-18T11:56:31-14:00
 latlon: [ 0, 0 ]
-author: AUTHOR_ID
+author: 
 editor: Qianli Jiang
 draft: true
 ---
@@ -90,17 +90,11 @@ The oecus or principal reception room is the room with an apse facing the southw
 <!---doesn't have ## Bibliography-->
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="250027" term="Villa at Foz de Lumbier" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7027125" term="Clunia (deserted settlement)" >}}
 
-
-## Contributor
-AUTHOR_ID
 
 ## Publication date
 

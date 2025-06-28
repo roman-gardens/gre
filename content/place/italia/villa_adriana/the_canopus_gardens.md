@@ -107,12 +107,10 @@ unspecified
 * E. Salza Prina Ricotti, "The Importance of Water in Roman Garden Triclinia," in *Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection)*, Dumbarton Oaks 1987, pp. 175-178, fig. 13-20, 35-37. [(worldcat)](https://search.worldcat.org/title/887179596)
 * E. Salza Prina Ricotti, "Vasi da fiori," in *Adriano Architettura e progetto*, Milano 2000, pp. 202-203. [(worldcat)](https://search.worldcat.org/title/717263606)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="856037447" term="Canopus at Hadrian's Villa" >}}
 <!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
-
-## TGN ID
 
 - {{< id vocab="TGN" id="7006983" term="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->

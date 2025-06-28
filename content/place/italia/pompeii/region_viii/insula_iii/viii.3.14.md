@@ -48,10 +48,8 @@ A large aedicula shrine was built against the rear wall of this long garden (a) 
 {{< image src="fig._7._viii.iii.14_8.23.71.jpg" alt="Fig. 7, 8.23.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 7, 8.23.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 {{< image src="fig._8._viii.iii.14_12.30.59.jpg" alt="Fig. 8, 12.30.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 8, 12.30.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates

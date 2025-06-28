@@ -5,7 +5,7 @@ type: garden
 title: "Richebourg (Yvelines) villa de"
 date: 2020-12-08T10:39:31-07:00
 latlon: [ 48.445658, 1.485617 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
@@ -14,21 +14,6 @@ draft: true
 
 - [AUTRICUM (Chartres, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108778" term="AUTRICUM" >}}
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 Richebourg (Yvelines) villa de
@@ -85,15 +70,13 @@ Unspecified
 - Y. Barat and D. Morize, L’archéologie des jardins antiques: le cas de la *pars urbana* de la *villa* de Richebourg (Yvelines) in *Actualité de la Recherche en Histoire et Archéologie agraires, Annales Littéraires de L’Université de Franche-Comté,* 764, Besançon, 2003.  [(worldcat)](https://search.worldcat.org/title/243748592)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="108778" term="Autricum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
-[AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
+<!-- Maureen Carroll ? -->
 
 ## Publication date
 

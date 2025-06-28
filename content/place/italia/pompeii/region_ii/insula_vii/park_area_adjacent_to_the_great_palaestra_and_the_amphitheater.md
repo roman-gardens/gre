@@ -38,10 +38,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Park-like areas were located between the Great [Palaestra](http://vocab.getty.edu/page/aat/300007301) and the Amphitheater and to the north. Here booths were set up under trees or awnings and a carnival atmosphere existed as depicted in a painting (Mus. Naz. inv. no. 112 222) found in the [peristyle](http://vocab.getty.edu/page/aat/300080971) of house I.3.23. Two huge root cavities were found in front of the [palaestra](http://vocab.getty.edu/page/aat/300007301) by Maiuri, although only one was recorded in his plan, and six trees grew in a row on the north side of the [palaestra](http://vocab.getty.edu/page/aat/300007301).
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 

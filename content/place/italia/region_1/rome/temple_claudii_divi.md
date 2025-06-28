@@ -82,12 +82,10 @@ The temple is set within eight L-shaped planting beds and fourteen rectangular p
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="695491849" term="Caelian Hill" >}}
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-## TGN ID
 - {{< id vocab="TGN" id="7000874" term="Rome (inhabited place)" >}}
 <!-- ID is for Location (Rome), not the individual garden -->

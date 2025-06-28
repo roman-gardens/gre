@@ -15,10 +15,6 @@ draft: true
 - [Villa at site 10]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="622606468" term="Villa at site 10" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 Via Gabina
 
@@ -69,6 +65,6 @@ Unspecified
 - W. Widrig, *Two Sites on the Ancient Via Gabina*, British Museum Occasional Paper 24 (1980), 119-141. [worldcat](https://search.worldcat.org/title/277246450)
 - W. Widrig, *Land Use at the Via Gabina Villas*, Ancient Roman Villa Gardens (Dumbarton Oaks, 1987), 225-260. [worldcat](https://search.worldcat.org/title/848945186)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="622606468" term="Via Praenestina" >}}

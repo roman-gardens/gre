@@ -75,12 +75,9 @@ Excavated 1912, 1926 to 1927.
 Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 36, 395. [(worldcat)](https://search.worldcat.org/title/921816405).    
 Maiuri, A. 1929. *NSc*, pp. 414-415 and fig. 26 on p. 401.  
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

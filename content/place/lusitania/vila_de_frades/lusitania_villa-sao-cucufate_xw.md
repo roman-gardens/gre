@@ -5,7 +5,7 @@ type: garden
 title: "Villa Sao Cucufate"
 date: 2020-11-02
 latlon: [ 38.223820, -7.845952 ]
-author: AUTHOR_ID
+author: 
 editor: Xingjian Wang
 draft: true
 ---
@@ -26,19 +26,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 <!--## Location Description-->
 
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 Villa Sao Cucufate
@@ -82,7 +69,7 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 ## Bibliography
 - J. G. Gorges, pp. 124 and 477; J. de Alarcão, S. Cucufate. Roteiros da Arqueologia Portuguesa 5. Instituto Portugues do Patrimonio Arquitectónico, 1988. [(worldcat)](https://search.worldcat.org/title/54521562)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="256422" term="S. Cucufate" >}}
 

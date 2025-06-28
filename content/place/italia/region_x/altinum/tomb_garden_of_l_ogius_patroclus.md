@@ -20,17 +20,10 @@ draft: true
 - [Altinum]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="197110" term="Altinum" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Region X]({{<relref "..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 
 ## Garden
@@ -73,12 +66,9 @@ unspecified
 * CIL 5.2176
 * ILS 8369
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="197110" term="Altinum" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="4000603" term="Altino (inhabited place)" >}}
 
 ## Contributor

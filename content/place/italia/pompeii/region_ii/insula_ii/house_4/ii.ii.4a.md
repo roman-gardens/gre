@@ -37,8 +37,6 @@ Peristyle garden in house of Messius Ampliatus (II.ii.4)
 ## Garden Description
 
 
-
-
 ## Dates
 Unspecified
 
@@ -48,12 +46,9 @@ Unspecified
 - Jashemski, Wilhelmina F, *‘The Garden of Hercules at Pompeii’ (II.viii.6): The Discovery of a Commercial Flower Garden.*,American Journal of Archaeology, vol. 83, no. 4, 1979, pp. 403–411. [link](https://www.jstor.org/stable/504139. Accessed 2 Dec. 2020.)
 
 
-
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="634179974" term="House of Messius Ampliatus" >}}
-
 
 
 ## Contributor

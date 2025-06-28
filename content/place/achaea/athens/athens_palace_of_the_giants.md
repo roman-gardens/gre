@@ -59,8 +59,6 @@ early 5th century CE to ca. 530 CE
 * J. McK. Camp, *The Athenian Agora: Excavations in the heart of Classical Athens.* London, 1986, p. 200, figs. 166-167. [(worldcat)](https://search.worldcat.org/title/1153939923).
 * H. Thompson in A. Frantz, *Late Antiquity: A.D. 267-700.* The Athenian Agora XXIV. Princeton, 1988, pp. 95-116, pls. 54-55. [(worldcat)](https://search.worldcat.org/title/63179976).
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="807514119" term="Agora of Athens" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="5004159" term="Agorá (ancient site)" >}}

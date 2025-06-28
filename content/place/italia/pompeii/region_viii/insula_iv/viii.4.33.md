@@ -40,10 +40,8 @@ This garden (a) was tucked around the right end of a long fauces which led from 
 ## Images
 {{< image src="fig.15.viii.iv.33_9.34.59.jpg" alt="Fig. 15, 9.34.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 15, 9.34.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates

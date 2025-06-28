@@ -5,7 +5,7 @@ type: garden
 title: "The House aux Fleurons (boulevard de la Paix)"
 date: 2020-11-22T10:39:31-07:00
 latlon: [ 49.254613, 4.040522 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
@@ -15,9 +15,6 @@ draft: true
 - [DUROCORTORUM (Reims, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108945" term="DUROCORTORUM" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 <!--## Sublocation-->
 
@@ -42,7 +39,6 @@ The House aux Fleurons (boulevard de la Paix)
 
 BEL 2.2.1: Reims, House aux Flerurons
 Along the north side runs a secondary street following the orientation of the town in Augustan times. Along this street, in the northern part of the house, a series of rooms with mosaics were found. On the south side, the space A (about 30 x 14 m) was probably a garden. The central part, surrounded on three sides by *porticos,* had two wide *trenches* (a) cut into the chalk and filled with clay, a strong indication of a garden. The *trenches* seem to be connected on the south side, and the south wall seems to be the limit of the parcel.
-
 
 
 ## Maps
@@ -73,15 +69,13 @@ Unspecified
 - A. Balmelle, R. Neiss, Les maisons de l’élite à *Durocortorum*, in Archéologie urbaine à Reims, *Bulletin de la société archéologique champenoise,* t. 96, 2003, 4, p. 74. [(worldcat)](https://search.worldcat.org/title/718698064)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="108945" term="Durocortorum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
-[AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
+<!-- Maureen Carroll ? -->
 
 ## Publication date
 

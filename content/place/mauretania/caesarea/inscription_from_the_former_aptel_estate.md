@@ -34,10 +34,6 @@ Under Claudius the city became a Roman colony, Colonia Claudia Caesarea. The old
 
 The city has been continually occupied to the present day, now known as Cherchel. From the Roman period, many archaeological sites have survived, including temples, baths, houses adorned with mosaics and sculptures, a theater, a forum, a judiciary basilica, an amphitheater, a large hippodrome, and a lighthouse constructed on the islet of the city.
 
-<!--## Sublocation-->
-
-<!--## Sublocation Description-->
-
 ## Garden
 
 Inscription from the former Aptel Estate
@@ -70,12 +66,7 @@ An inscription CIL VIII 21081 mentioning a pool covered by a wine trellis suppor
 
 * Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie",  in *Antiquités africaines*, 18, 1982, p. 117, no. 7. [(worldcat)](https://search.worldcat.org/title/4797426670)
 
-## Pleiades ID
-
-
-## TGN ID
-
-## Contributor
+## Places
 
 
 ## Publication date

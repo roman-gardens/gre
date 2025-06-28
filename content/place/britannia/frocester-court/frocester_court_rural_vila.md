@@ -15,21 +15,6 @@ draft: false
 - [Frocester Court]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="79471" term="Frocester Court" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Rural Villa in Frocester Court
@@ -71,16 +56,10 @@ early 4th - 5th century CE
 * E. Price, Frocester. *A Romano-British Settlement, its Antecedents and Successors*, Gloucester, 2000. [(worldcat)](A Romano-British Settlement, its Antecedents and Successors)
 * R.J. Zeepvat, “Roman Gardens in Britain,” in: A.E. Brown, ed., *Garden Archaeology*. Council for British Archaaeology Research Report 78, London, 1991, pp. 53-56, fig. 5.2. [(worldcat)](https://search.worldcat.org/title/246578144)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="79471" term="Frocester" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="4004114" term="Frocester (inhabited place)" >}}
-
-## Contributor
-
 
 ## Publication date
 

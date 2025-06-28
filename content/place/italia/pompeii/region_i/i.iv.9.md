@@ -49,10 +49,8 @@ This garden contains a [cistern](http://vocab.getty.edu/page/aat/300052558) open
 * Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 79  
 
 
-## Pleiades ID
+## Places
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
-
-## TGN ID
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

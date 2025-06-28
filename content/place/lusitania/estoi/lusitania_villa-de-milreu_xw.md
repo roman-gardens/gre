@@ -5,7 +5,7 @@ type: garden
 title: "Villa de Milreu"
 date: 2020-11-02
 latlon: [ 0, 0 ]
-author: AUTHOR_ID
+author: 
 editor: Xingjian Wang
 draft: true
 ---
@@ -23,21 +23,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 - [Estoi]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="854718547" term="Estoi" >}}
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 Villa de Milreu
@@ -79,7 +64,7 @@ The archaeologists working on the site have not produced a detailed sequence of 
 <!--## Bibliography
 - T. Hauschild and F. Teichner, Milreu Ruins, Roteiros de Arqueologia Portugese 9, Ministerio da Cultura, Lisboa, 2002. [(worldcat)](https://search.worldcat.org/title/927151602)-->
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="854718547" term="854718547" >}}
 

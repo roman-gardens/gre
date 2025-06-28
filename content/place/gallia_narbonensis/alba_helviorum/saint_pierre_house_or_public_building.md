@@ -5,7 +5,7 @@ type: garden
 title: "Saint-Pierre, House or Public Building"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Saint-Pierre, House or Public Building](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
 
 Saint-Pierre, House or Public Building
-
 
 
 ## Keywords
@@ -49,8 +41,6 @@ Saint-Pierre, House or Public Building
 - {{< keyword "porticoes" >}}
 - {{< keyword "mosaics" >}}
 - {{< keyword "porticoes" >}}
-
-
 
 
 ## House Description
@@ -61,18 +51,13 @@ Excavations in 1964-1969 on the site of the former [or ancient] church of St. Pe
 The western wing, of which 30 m is known, has rooms richly decorated with marble plaques, painted surfaces, and white mosaics. It borders a courtyard organized around a rectangular pool. The large room [1] (10.2 x 8 m) is centered on this pool and opens onto a portico with mosaics [5] 3.30 m wide. Against the portico, in the axis of the room [1] was placed a small, almost square pool, 2.40 x 2.6 m.  A second pool, dug into the ground of courtyard, measures 8.30 x 12 m. Its walls and surroundings are made of large, rectangular limestone blocks. The limits of the space decorated by this pool are not known.
 
 
-
 ## Plans
 
 
 {{< image src="saint_pierre_house_or_public_building.png" alt="Plan of Saint-Pierre, House or Public Building" title="Fig.1 Plan of Saint-Pierre, House or Public Building" >}}
 
 
-
 ## Dates
-
-
-
 
 
 ## Bibliography
@@ -81,18 +66,15 @@ The western wing, of which 30 m is known, has rooms richly decorated with marble
 
 2. Chr. Fraisse, J. Dupraz, *L’Ardèche*, CAG 07, Gap,  2001, P. 157-158.
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="8712431" term="Alba-la-Romaine (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

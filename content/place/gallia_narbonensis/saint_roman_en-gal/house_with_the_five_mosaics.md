@@ -5,7 +5,7 @@ type: garden
 title: "House with the Five Mosaics"
 date: 2020-10-05T23:06:02-24:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,17 +26,10 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [House with the Five Mosaics](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
 
@@ -55,9 +48,6 @@ House with the Five Mosaics
 - {{< keyword "triclinia (rooms)" >}}
 
 
-
-
-
 ## House Description
 
 Phase I: This phase is sometimes called the “House with the Off-Center Pool.” It occupied an area of 481 square meters with a usable covered surface of 213 square meters. Constructed after 138, it was built in part on the site and foundations of a commercial building going back to the middle of the first century. It was used only twenty to thirty years. It had an elongated, somewhat trapezoidal plan with two groups of rooms, one to the north and one to the south of a peristyle [5]. Most of the walls in short, east-west direction, were not perpendicular to the walls in the long, north-south direction. One entered the house by a modest doorway 1.8 meters wide into a little vestibule [1] which then led directly to the east portico of the courtyard, where presumably a garden grew. The principal room [7] (6.1 x 11.5 m) was on the south of the peristyle (8.5 x 11.5 m), where the gallery was wider and the roof presumably higher than on the other sides. This reception room had a good view of the rectangular pool along the south side of the garden. This 70-centimenter-deep pool (8.35 x 1.8 m) was lined in *opus signinum*.
@@ -66,16 +56,13 @@ Phase II: This phase (called the House of the Five Mosaics by those who call the
 In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the garden. With a mosaic of the *xenia* type, it apparently served as the *triclinium*. To the east, at the south end of the eastern gallery, was a smaller reception room for visitors [7] (4.0 x 4.5 m). The almost square (5 x 5 m) room [12] at the west end of the northern wing may have been, in the opinion of the excavators, a more familial, every-day *triclinium*. The house was occupied into the third century, but must have been abandoned, like the rest of the quarter, in the middle of that century.
 
 
-
 ## Plans
 
 
 {{< image src="house_with_the_five_mosaics.png" alt="Plan of House with the Five Mosaics" title="Plan of house with five mosaics" >}}
 
 
-
 ## Dates
-
 
 
 ## Bibliography
@@ -100,18 +87,15 @@ In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the ga
 9. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271.[worldcat](https://search.worldcat.org/title/43416334)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="5004109" term="Saint-Romain-en-Gal (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

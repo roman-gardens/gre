@@ -24,18 +24,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location Description
 The city was built along the slope of the hill several kilometers northwest of the present town. Excavations revealed the Capitol and an important residential district descending in successive levels towards the bank.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 House of the Two Hunts (Maison aux deux chasses)
 
@@ -73,11 +61,8 @@ The house is dated to the 5th-6th century AD on the base of the style of its mos
 - Ennaifer, M., "La maison des Deux Chasses à Kélibia", in *Colloque de la mosaïque gréco romaine* VII, 1, 1994 (1999), pp. 233-250, pl. 94-106. [(worldcat)](https://search.worldcat.org/title/47894208)
 
 
-
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="314892" term="Aspis/Clipea" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7001037" term="Kelibia (inhabited place)" >}}
 
 ## Contributor

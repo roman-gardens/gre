@@ -5,7 +5,7 @@ type: garden
 title: "Villa des Baumelles"
 date: 2020-11-15T00:08:52-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Suburban Villa de la Brunette](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Villa
 
 Villa des Baumelles
-
 
 
 ## Keywords
@@ -55,8 +47,6 @@ Villa des Baumelles
 - {{< keyword "reception rooms" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "triclinia (rooms)" >}}
-
-
 
 
 ## Villa Description
@@ -75,20 +65,13 @@ To the south, a charming apartment overlooked the cove of the Madrague and may h
 ## Garden Description
 
 
-
-
 ## Plans
 
 
 {{< image src="villa_des_baumelles.jpg" alt="Plan of Villa des Baumelles" title="Plan of Villa des Baumelles" >}}
 
 
-
 ## Dates
-
-
-
-
 
 
 ## Bibliography
@@ -97,18 +80,15 @@ To the south, a charming apartment overlooked the cove of the Madrague and may h
 
 2. Bouet, Alain, and Philippe Leveau. *Les Thermes Prives Et Publics En Gaule Narbonnaise*. S.l.: s.n., 1996, P. 293-294. [(worldcat)](https://search.worldcat.org/title/490154337)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

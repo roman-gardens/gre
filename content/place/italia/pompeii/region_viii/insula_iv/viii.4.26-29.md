@@ -41,10 +41,8 @@ Directly across from the Temple of Isis was an entryway to this garden (a) which
 ## Images
 {{< image src="fig.14.viii.iv.27_14.22.59.jpg" alt="Fig.14,  14.22.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig.14,  14.22.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates

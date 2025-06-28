@@ -5,7 +5,7 @@ type: garden
 title: "Edifice on St. Antoine’s Mound"
 date: 2020-11-04T00:20:41-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Edifice on St. Antoine’s Mound](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
 
 Edifice on St. Antoine’s Mound
-
 
 
 ## Keywords
@@ -50,8 +42,6 @@ Edifice on St. Antoine’s Mound
 - {{< keyword "porticoes" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "peristyles" >}}
-
-
 
 
 ## House Description
@@ -65,8 +55,6 @@ The house was organized around a principal courtyard with porticos [1] with conc
 The residence perhaps enjoyed an exterior garden in the vast open space of arable land along the eastern side of the construction.  As in the *intervallum* of the military camps, some see in the open space a extensive garden estimated at 2,600 square meters.  Irregular in shape and enclosed within the rampart, it overlooks the port.
 
 
-
-
 ## Plans
 
 
@@ -76,7 +64,6 @@ The residence perhaps enjoyed an exterior garden in the vast open space of arabl
 ## Dates
 
 
-
 ## Bibliography
 
 1. Atlas Des Maisons De Gaule Narbonnaise. Avignon: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 94-96 et fiche n°1, P. 100-101. [(worldcat)](https://search.worldcat.org/title/717347935)
@@ -84,19 +71,15 @@ The residence perhaps enjoyed an exterior garden in the vast open space of arabl
 2. RIVET,  D.  BRENTCHALOFF,  S.  ROUCOLE,  S.  SAULNIER,  *Fréjus,  Atlas topographique  des  villes  de  gaule  méridionale*,  R.A.N.,  supplément  32,  Montpellier,  2000,  P. 278-281. [(worldcat)](https://search.worldcat.org/title/491603596)
 
 
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7008791" term="Fréjus (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

@@ -27,7 +27,6 @@ draft: true
 - {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
-
 ## Garden
 
 The Adonea of the Flavian Palace, Palatine
@@ -59,7 +58,7 @@ unspecified
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}
 

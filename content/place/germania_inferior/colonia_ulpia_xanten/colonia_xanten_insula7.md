@@ -15,10 +15,6 @@ draft: true
 - [Xanten]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108896" term="Xanten" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 Industrial quarter
 
@@ -58,15 +54,10 @@ Unspecified
 - H.G. Horn, ed., *Die Römer in Nordrhein-Westfalen*, Stuttgart, 1987, pp. 634-636, fig. 542 (incorrectly labeled as Insula 26). [worldcat](https://search.worldcat.org/title/462024461)
 - G. Precht and C.B. Rüger, *Archaologischer Stadtplan. Colonia Ulpia Traiana*, Cologne, 1991. [worldcat](https://search.worldcat.org/title/28844426)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="108896" term="Col. Ulpia Traiana/Tricensimae" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7208125" term="Colonia Ulpia Traiana (ancient site)" >}}
-
-## Contributor
-
 
 ## Publication date
 

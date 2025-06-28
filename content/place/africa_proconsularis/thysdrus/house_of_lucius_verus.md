@@ -29,18 +29,6 @@ Thysdrus is located on the western border of the Sahel at 60 km S of Hadrumetum 
 The name appeared for the first time in the period of Caesar's African campaign when the city, at the time a small town, took side with the Pompeian and Juba against Ceasar. Towards the end of the 2d c. it became a *municipium*, competing with Hadrumetum for the second place in the province. The decline of Thysdrus began when, involved in a political crisis, the city choose the side of Gordian proconsul of Africa against the Emperor Maximianus. The joint effects of the political disgrace and the economic crisis, which resulted from it, brought an end to its development. By the end of the IVth century it was scarcely mentioned by the Catholic and Donatist bishops.
 
 Among the most remarkable monuments of the ancient city are the best preserved large amphitheater in Africa, the small amphitheater located some 7.20 m to the S of the large one, the circus better visible on an aerial photography, the baths covering a surface of 2400 sq., and the residential district bounded on the S by a necropolis and to the E by a fine street.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 House of the Lucius Verus
@@ -56,6 +44,7 @@ House of the Lucius Verus
 The house was laid out around a large persityle garden of twenty-two columns (20 x15.5 m) that had a *euripus* and a semicircular basin facing a large reception room (Plan view, Fig.1)
 
 <!--## Maps-->
+
 ## Plans
 {{< image src="House_Lucius_verus1.jpg" alt="Fig. 1: Plan of the House of Lucius Verus." title="Fig. 1: Plan of the House of Lucius Verus (Afrique dans l'Occident romain, fig. 8)" >}}
 
@@ -74,13 +63,9 @@ The house was laid out around a large persityle garden of twenty-two columns (20
 * Commission d'Afrique du Nord 2/2/90 *BCTH*. [(worldcat)](https://search.worldcat.org/title/836611377)
 
 
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="324835" term="Thysdrus" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7017557" term="El Jemm (inhabited place)" >}}
 
 ## Contributor

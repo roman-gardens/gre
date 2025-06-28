@@ -60,12 +60,9 @@ This house in the W of the market may have had a peristyle garden enclosed by a 
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.264-265. [(worldcat)](https://search.worldcat.org/title/989088620)
 
 
-## Pleiades_ID
+## Places
 
 - {{< id vocab="Pleiades" id="315223" term="Thugga/Tokai?" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7017996" term="Dougga (deserted settlement)" >}}
 
 ## Contributor

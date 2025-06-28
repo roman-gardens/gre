@@ -31,10 +31,6 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 
 The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.
 
-<!--## Sublocation-->
-
-<!--## Sublocation Description-->
-
 ## Garden
 
 Small Baths (Garden of the Small Baths to the south of the Great Baths; rear garden to the west of the House of Bacchus)
@@ -77,10 +73,8 @@ Early 3rd century CE
 *  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](https://search.worldcat.org/title/1090653355)
 * Malek, A.-A., "Le jardin au fil de l’eau : mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l’époque romaine*, eds, Brouquier-Reddé, V. et  Hurlet, Bordeaux, F., Ausonius, 2018, pp. 248-249. [(worldcat)](https://search.worldcat.org/title/1078217356)
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="305068" term="Cuicul" >}}
-## TGN ID
-
 ## Contributor
 
 [Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)

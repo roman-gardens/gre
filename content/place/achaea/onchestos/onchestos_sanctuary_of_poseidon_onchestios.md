@@ -32,9 +32,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -93,10 +90,7 @@ unspecified (mentioned in the 1st and 2nd century CE)
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="540984" term="Onchestos" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7002683" term="Boeotia (regional division)" >}}

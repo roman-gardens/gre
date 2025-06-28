@@ -44,10 +44,8 @@ C. There are five rooms south of the peristyle and on a lower level beyond them 
 {{< image src="h_orientalis_1_1-3-c.jpg" alt="Herculaneum - insula orientalis I. 1-3-c" title="Herculaneum - insula orientalis I. 1-3-c" >}}
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates

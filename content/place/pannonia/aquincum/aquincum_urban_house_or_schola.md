@@ -13,8 +13,6 @@ draft: true
 ## Province Description
 
 
-
-
 ## Location
 
 - [Aquincum]({{<relref ".">}}) 
@@ -23,18 +21,6 @@ draft: true
 ## Location Description
 
 This town on the Danube river acquired the rank of *municipium* under Hadrian in 124 A.D. In the year 194 it was granted colonial status.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Urban House or Schola in Aquincum
@@ -73,16 +59,10 @@ Very few houses of Mediterranean type have been discovered, and only one can be 
 * A. Mócsy, *Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire*, London, 1974, p. 166, pl. 16b. [(worldcat)](https://search.worldcat.org/title/644823914)
 * H. Polenz and K. Póczy, *Das römische Budapest. Neue Ausgrabungen und Funde in Aquincum*, Münster, 1986, p. 124, fig. 47, pl. 10. [(worldcat)](https://search.worldcat.org/title/19741038)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="197130" term="Aquincum" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="8713146" term="Aquincum (deserted settlement)" >}}
-
-## Contributor
-
 
 ## Publication date
 

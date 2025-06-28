@@ -19,9 +19,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Insula
 
@@ -80,12 +77,9 @@ unspecified
 * Della Corte, *NSc* (1946), p. 108.
 * Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](https://search.worldcat.org/title/921816405)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

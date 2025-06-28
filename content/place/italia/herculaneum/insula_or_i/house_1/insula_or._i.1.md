@@ -50,10 +50,8 @@ B. The front of this house has an L-shaped terrace (b) which provided a passagew
 ## Images
 {{< image src="Herc. I.1   17.11.78.jpg" alt="Herculaneum - insula orientalis I. 1-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 1-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates

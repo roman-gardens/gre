@@ -45,28 +45,12 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 - [La Almeda]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="723036345" term="LA Almeda" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Funerary grove of T. Aemilius Vetus
 
 
 ## Garden Description
 A grey limestone block found in 1975 at La Alameda, about 41 kilometers south of Ciudad Real,  and now preserved in the Museo Provinciale di Ciuidad Real records the dedication of a funerary grove (lucus) by Minicia Saturnina for her son T. Aemilius Vetus, who died at age thirty-five sometime in the late first or early second century.
-
 
 
 ## Dates
@@ -77,11 +61,8 @@ Unspecified
 
 - L. Chioffi, *Sui luci sepolcrali*, in Libitina e dintorni, edited by S. Panciera (Rome 2004) n.  9. [(worldcat)](https://search.worldcat.org/title/849004166)
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="723036345" term="723036345" >}}
-
-
-## TGN ID
 
 
 ## Contributor

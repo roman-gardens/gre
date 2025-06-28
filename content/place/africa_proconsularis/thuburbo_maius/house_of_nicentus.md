@@ -23,7 +23,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 - {{< id vocab="Pleiades" id="315220" term="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
-
 {{< image src="thuburbo_house_of_nicentus.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
 
 ## Location Description
@@ -64,12 +63,9 @@ It was laid out around a peristyle garden (VI-X) of 12 columns (Plan view, Fig. 
 *  Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.221-223. [(worldcat)](https://search.worldcat.org/title/989088620)
 
 
-## Pleiades_ID
+## Places
 
 - {{< id vocab="Pleiades" id="315220" term="Thuburbo Maius" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7001750" term="Kasba, Henchir el (deserted settlement)" >}}
 
 ## Contributor

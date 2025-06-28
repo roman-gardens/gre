@@ -60,11 +60,8 @@ Some years later, Shim'on ben Menahem transferred ownership of the property to h
 - Lewis, N., *et al.* 1989. *The Documents from the Bar Kokhba Period in the Cave of the Letters,* Jerusalem: Israel Exploration Society. Pp. 65-68, Plate 13. [(worldcat)](https://search.worldcat.org/title/21262733)
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="697768" term="Zoara" >}}
-
-
-## TGN ID
 - {{< id vocab="TGN" id="4012542" term="eṣ-Ṣafi (deserted settlement)" >}}
 
 ## Contributor

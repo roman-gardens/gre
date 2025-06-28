@@ -5,7 +5,7 @@ type: garden
 title: "Urban House"
 date: 2020-12-14T00:08:52-00:00
 latlon: [ 46.201961, 6.143798 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
@@ -18,17 +18,12 @@ draft: true
 <!-- ## Province Description -->
 
 
-
 ## Location
 
 - [Genava, ((Geneva, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="177528" term="Genava" >}}
 
 ## Location Description
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Sublocation
 
@@ -39,6 +34,7 @@ The Roman town, located at the western end of Lake Geneva at the confluence of t
 Urban House
 
 <!-- ## Keywords -->
+
 ## Keywords
 - {{< keyword "peristyles" >}}
 - {{< keyword "terrace gardens" >}}
@@ -55,7 +51,6 @@ Below the *peristyle* was a *terrace* where excavations uncovered a deposit 15 c
 None Available
 
 
-
 ## Images
 
 None Available
@@ -67,18 +62,15 @@ None Available
 
 - M.-A. Haldimann, E. Ramjoué, and C. Simon, “Les fouilles de la cour de l’ancienne prison de Saint-Antoine,” Archäologie der Schweiz 14, 1991:194-204. [(worldcat)](https://search.worldcat.org/title/891753412)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="Pleiades" id="177528" term="Genava" >}}
 
 ## Contributor
 
-[AUTHOR_ID](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+<!-- Eric Morvillez ? -->
 
 ## Publication date
 

@@ -5,7 +5,7 @@ type: garden
 title: "Rural Villa"
 date: 2020-12-12T10:39:31-07:00
 latlon: [ 0, 0 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
@@ -15,9 +15,6 @@ draft: true
 [VEIRHERRENBORN  (Germany)]({{<relref ".">}}) \
 [VEIRHERRENBORN (Pleiades)](<!-- none available -->)
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 <!--## Sublocation-->
 
@@ -70,16 +67,14 @@ Unspecified
 - H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, p. 653, fig. 594. [(worldcat)](https://search.worldcat.org/title/924024101)
 
 <!--
-## Pleiades ID
+## Places
 
  not on pleiades
  -->
-
-## TGN ID
 - {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
-[AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
+<!-- Maureen Carroll ? -->
 
 ## Publication date
 

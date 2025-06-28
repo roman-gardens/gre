@@ -14,9 +14,6 @@ draft: false
 
 - [Pompeii]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -63,7 +60,6 @@ C. A walled rustic garden close to entrance 8 had been planted and at the time o
 <!--{{< image src="Fig. 20, II.iv.   5.25.59.jpg" alt="Fig. 20, II.iv. 5.25.59.- portico and garden." title="portico and garden">}}-->
 
 
-
 ## Dates
 Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
 
@@ -97,13 +93,9 @@ Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
 - Zahn, Wilhelm. 1828. *Die Schönsten Ornamente Und Merkwürdigsten Gemälde Aus Pompeji, Herkulanum Und Stabiae*, 2, pl.100 (plan) [worldcat](https://search.worldcat.org/title/1141530520)
 
 
-
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="205387552" term="House of Julia Felix" >}}
-
-
 
 
 ## Contributor

@@ -27,7 +27,6 @@ draft: false
 - {{< id vocab="Pleiades" id="422863" term="Campus Martius" >}}
 
 
-
 ## Garden
 
 Garden of the Hercules Musarum
@@ -44,7 +43,6 @@ Garden of the Hercules Musarum
 - {{< keyword "podiums (building divisions)" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "statues" >}}
-
 - [Eumenius Panegyricus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.592)
 - [Macrobius](https://catalog.perseus.org/catalog/urn:cite:perseus:author.872)
 - [Ovid](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1018)
@@ -88,7 +86,7 @@ Built between 187 and 179 BCE; restoration and portico constructed in Late Repub
 * F. Coarelli, *Il Campo Marzio*, 1997, pp. 452–84. [(worldcat)](https://search.worldcat.org/title/906743621)
 * A. Viscogliosi, s.v. “Porticus Philippi,” *Lexicon topographicum urbis Romae* IV, pp. 146–48. [(worldcat)](https://search.worldcat.org/title/772398569)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 <!-- Pleiades resource for Location (Rome), not for the individual garden -->

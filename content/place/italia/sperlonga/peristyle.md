@@ -15,10 +15,6 @@ draft: true
 - [Italia]({{<relref "../..">}}) 
 - {{< id vocab="Pleiades" id="433204" term="Villa Tiberii" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 Sperlonga
 
@@ -58,10 +54,6 @@ In the villa there are three different garden arrangements (SALZA PRINA RICOTTI 
 {{< image src="92-landslide.jpg" alt="The landslide." title="The landslide.">}}
 
 
-
-
-
-
 ## Dates
 Unspecified
 
@@ -80,7 +72,7 @@ Unspecified
 
 -SALZA PRINA RICOTTI, *Sistemazione paesaggistica del fronte a mare e giardini nelle ville marittime di epoca romana*, in Giornate di studio in occasione del 250º anniversario degli Scavi di Stabia (in print), pp. 137-169. [worldcat](https://search.worldcat.org/title/469755044)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433204" term="Villa Tiberii" >}}
 

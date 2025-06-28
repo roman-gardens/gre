@@ -30,19 +30,6 @@ In one of the most beautiful spots of the Eastern Mediterranean, five km west of
 
 {{< image src="ASIA_JUD_JERICHO_1.jpg" alt="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho." title="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho (Gleason after Netzer)" >}}
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Royal Garden
@@ -96,7 +83,7 @@ After Alexandra’s death, during the period from 67-32, a large swimming pool (
 * E. Netzer, and Garbrecht G, “Water channels and a royal estate of the late Hellenistic period in Jericho’s eastern plains,” in D. Amit, J. Patrich and Y.; Hirschfeld, eds, The Aqueducts of Israel. 353-365. JRA Supplement 46, R.I. 2002 [worldcat](https://search.worldcat.org/title/197716279)
 * J. Pritchard, “The Excavation at Herodian Jericho, 1951," The Annual of the American Schools of Oriental Research 32-3 (1952-4): 56-58. [worldcat](https://search.worldcat.org/title/256829094)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="687917" term="Jericho" >}}
 

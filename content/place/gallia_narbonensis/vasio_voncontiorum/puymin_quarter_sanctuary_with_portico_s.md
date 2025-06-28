@@ -5,7 +5,7 @@ type: garden
 title: "Puymin Quarter,Sanctuary with Portico’s,Formerly called Pompey's Portico"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Puymin Quarter, Sanctuary with Portico’s](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
 Puymin Quarter, Sanctuary with Portico’s
-
 
 
 ## Keywords
@@ -50,8 +42,6 @@ Puymin Quarter, Sanctuary with Portico’s
 - {{< keyword "statues" >}}
 - {{< keyword "gutters" >}}
 - {{< keyword "columns" >}}
-
-
 
 
 ## Garden Description
@@ -63,21 +53,15 @@ A stone gutter to catch rainwater separated the walkway from the garden.  One en
 In the center of the court was a monumental pool 9.5 meters wide and 1.6 meters deep, as yet exposed for only 3.1 meters of its length.  A large apse ornamented its northern end, and its bottom was paved with flagstones.  Necks and bellies of terracotta amphora were inserted horizontally into the masonry to shelter fish.  In the center of the pool, a masonry construction with walls 60 centimeters thick seems to have supported a small structure with two square rooms 5.25 meters on a side, perhaps a chapel.  Stairs go down into the pool on the west side.
 
 
-
-
-
-
 ## Plans
 
 
 {{< image src="puymin_quarter_sanctuary_with_portico’s_formerly_called_pompey’s_portico.png" alt="Plan of Sanctuary with Portico's" title="Plan of Sanctuary with Portico's" >}}
 
 
-
 ## Dates
 
 A.D. 1-100 constructed
-
 
 
 ## Bibliography
@@ -87,18 +71,15 @@ A.D. 1-100 constructed
 2. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.251-254. [(worldcat)](https://search.worldcat.org/title/905795401)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7008791" term="Fréjus (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

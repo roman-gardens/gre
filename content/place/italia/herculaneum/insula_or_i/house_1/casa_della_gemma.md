@@ -34,7 +34,6 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 Casa della Gemma (A)
 
 
-
 ## Keywords
 - {{< keyword "vaults" >}}
 - {{< keyword "cisterns" >}}
@@ -52,10 +51,8 @@ A. This garden (a) is built partially into the edge of the hill and partially on
 {{< image src="herc.i.1_7.12.78.jpg" alt="Herculaneum - insula orientalis I. 1-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 1-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 {{< image src="herc._i.1_17.11.78.jpg" alt="Herculaneum - insula orientalis I. 1-3 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 1-3 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="432873" term="Herculaneum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7031897" term="Herculaneum (deserted settlement)" >}}
 
 ## Dates

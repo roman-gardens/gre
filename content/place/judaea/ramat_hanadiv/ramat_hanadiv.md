@@ -21,7 +21,6 @@ The period for which we have the richest evidence of a garden culture in this re
 This geography of Judaea comprises a wide variety of biomes, from richly watered plains of the Galilee and the Jordan, to the semi arid Judean Hills, the humid, fertile coastal plain of the Mediterranean, and the deserts of the Dead Sea valley and the Negev.
 
 
-
 ## Location
 
 - [Ramat Hanadiv]({{<relref ".">}}) 
@@ -29,22 +28,6 @@ This geography of Judaea comprises a wide variety of biomes, from richly watered
 
 <!--## Location Description
 
-
-
-
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -60,7 +43,6 @@ Villae Rusticae
 Probable garden soils have been identified in a partially excavated palatial complex from the Herodian period. (Fig. 1) The fortified residential complex is a huge square covering an area of over 5,000 square meters. Towers stood in the four corners of the precinct, which thus appears to have been what was called in the Hellenistic period a tetrapyrgion- type palace.  Josephus also uses the term in describing the palace at Masada (Wars 7, 289).  This is the best preserved example known to date in Palestine.  The palace’s inhabitants were probably members of Jewish elite during and after Herod’s reign, as the complex was abandoned during the great Revolt.  
 
 The villa shows the range of indications of Hellenistic and Roman cultural influences of Herod’s time:  a columbarium, areas of cultivated soils near the building, water channels, and a heated bathhouse of the Roman style.  Amended cultivated soils have also been noted in other areas of the palace building complex, which will be investigated in future seasons.
-
 
 
 <!--## Maps
@@ -87,7 +69,7 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 * Y. Hirschfeld, Ramat Hanadiv Excavations, Jerusalem 2000; S.T.A.M. Mols, Wooden Furniture in Herculaneum, Amsterdam (1999):139-40. [worldcat](https://search.worldcat.org/title/44755201)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="678357" term="Ramat ha-Nadiv" >}}
 

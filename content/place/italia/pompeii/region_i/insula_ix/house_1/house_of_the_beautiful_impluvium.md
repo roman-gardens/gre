@@ -19,9 +19,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Insula
 
@@ -86,12 +83,9 @@ unspecified
 * <span style="color:orange"> de Vos, p.135 in Bastet. </span>
 * Jashemski, *Gardens*, vol.II, pp. 44; <span style="color:orange">395</span>. [(worldcat)](https://search.worldcat.org/title/921816405)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

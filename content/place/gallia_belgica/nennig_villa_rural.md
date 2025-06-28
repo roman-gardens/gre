@@ -5,7 +5,7 @@ type: garden
 title: "Rural Villa"
 date: 2020-12-12T10:39:31-07:00
 latlon: [ 49.528992, 6.384557 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
@@ -15,9 +15,6 @@ draft: true
 - [NENNIG  (Germany)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="109198" term="NENNIG" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 <!--## Sublocation-->
 
@@ -70,15 +67,13 @@ Unspecified
 - P. Steiner, *Die römische Villa von Nennig*, Saarbrücken, 1955. [(worldcat)](https://search.worldcat.org/title/1073267042)
 - H. Mylius, "Die Rekonstruktion der römischen Villen von Nennig und Fliessem," *Bonner Jahrbuch* 129, 1924:110-120, fig. 1, pls. 4-5. [(worldcat)](https://search.worldcat.org/title/1075378207)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="109198" term="Nennig" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
-[AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
+<!-- Maureen Carroll ? -->
 
 ## Publication date
 

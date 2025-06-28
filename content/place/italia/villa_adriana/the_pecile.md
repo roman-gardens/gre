@@ -92,12 +92,10 @@ unspecified
 * G. Mancini, *Inscriptiones Italiae*, vol. IV, Regio IV, fasc. I, *Tibur*, Roma 1952, p. 113, n. 242. [(worldcat)](https://search.worldcat.org/title/1070414020)
 * F. Coarelli, "Il 'Pecile' di Villa Adriana e la Porticus triumphi" *Mitteilungen des Deutschen Archäologischen Instituts, Römische Abteilung* 104, 1997, pp. 207-217. [(worldcat)](https://search.worldcat.org/title/8799287)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="781209675" term="Pecile at Hadrian's Villa" >}}
 <!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
-
-## TGN ID
 
 - {{< id vocab="TGN" id="7006983" term="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->

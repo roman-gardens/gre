@@ -34,10 +34,6 @@ Under Claudius the city became a Roman colony, Colonia Claudia Caesarea. The old
 
 The city has been continually occupied to the present day, now known as Cherchel. From the Roman period, many archaeological sites have survived, including temples, baths, houses adorned with mosaics and sculptures, a theater, a forum, a judiciary basilica, an amphitheater, a large hippodrome, and a lighthouse constructed on the islet of the city.
 
-<!--## Sublocation-->
-
-<!--## Sublocation Description-->
-
 ## Garden
 House of the Scattered Branches and Flowers (Maison de la Jonchée)
 
@@ -75,14 +71,9 @@ It is assumed that the peristyle and its garden may have had a view over the sea
 * Malek, A.-A. "Mise en scènes paysagères", in *Algérie antique*, Catalogue d’exposition, 26 avril-17 août 2003, Musée de l’Arles et de la Provence antique, ed. C. Sintès, Y. Rebahi, Avignon 2003, p. 188-194.
 * Malek, A.-A., "Mosaic and nature : "Cultural allusions to Nature in the Roman Domus", in *Gardens of the Roman Empire*, Volume II, eds., W. F. Jashemski, K. Gleason, A-A Malek, K. Hartswick, Cambridge University Press., NY, 2018, pp.317-321 [(worldcat)](https://search.worldcat.org/title/1021392532)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="602104716" term="House of the Scattered Branches and Flowers" >}}
-
-## TGN ID
-
-## Contributor
-
 
 ## Publication date
 

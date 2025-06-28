@@ -27,7 +27,6 @@ draft: false
 - {{< id vocab="Pleiades" id="422863" term="Campus Martius" >}}
 
 
-
 ## Garden
 
 Garden of the Thermae Agrippae \
@@ -42,7 +41,6 @@ Garden of the Thermae Agrippae \
 - {{< keyword "stagnum (man-made lake)" >}}
 - {{< keyword "statues" >}}
 - {{< keyword "thermae" >}}
-
 - [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
 - [Frontinus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.639)
 - [Martial](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.897)
@@ -84,6 +82,6 @@ The *Thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](http://data.perseus
 * F. Yegül, *Baths and Bathing in Classical Antiquity*, New York, 1992, pp. 133–137. [(worldcat)](https://search.worldcat.org/title/894788084)
 * J. Delaine, “Gardens in Baths and Palaestras,” *Gardens of the Roman Empire*, New York, 2018, pp. 165–184. [(worldcat)](https://search.worldcat.org/title/1036265637)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="22073979" term="22073979" >}}

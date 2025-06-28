@@ -30,10 +30,6 @@ Volubilis was the capital of the province of Mauretania Tingitania. The city was
 
 The city rapidly developed and expanded; new temples, baths, civic buildings and luxurious houses lining the porticoed decumanus maximus were built. The olive press and the mills attached to the houses attest to the rural character of the region. The city reached its climax in the beginning of the third century CE and survives today as a well-preserved archaeological site. The city walls and gates, Caracalla’s triumphal arch, the Capitolium temple, and the Basilica law courts survive. A number of houses known for their floor mosaics and bronze sculpture also persist to the modern day.
 
-<!--## Sublocation-->
-
-<!--## Sublocation Description-->
-
 ## Garden
 
 The Gordian Palace (Le palais dit de Gordien)
@@ -68,14 +64,9 @@ Second century CE
 
 * R. Thouvenot., Maisons de Volubilis: Le palais dit de Gordien et la Maison à la mosaïque de Vénus, Rabat, 1958, p. 49-86, fig. 8, pl. 11. [(worldcat)](https://search.worldcat.org/title/876482067)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="762613672" term="The Gordian Palace" >}}
-
-## TGN ID
-
-## Contributor
-
 
 ## Publication date
 

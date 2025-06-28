@@ -28,10 +28,6 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 
 The ancient city is located about 5 km from the modern city of Arzew and 35 km northeast of Oran. An important settlement on the west coast of Algeria, it served as a Roman trading post and naval base during the early Roman Empire period.
 
-<!--## Sublocation-->
-
-<!--## Sublocation Description-->
-
 ## Garden
 
 Large House with peristyle and basins
@@ -65,14 +61,9 @@ A corridor (see Fig. 1, label M) was bordered by two small gardens (labels N and
 
 * S. Gsell, Monuments Antiques de l’Algérie, Paris, 1901, p. 19-21, fig. 87. [worldcat](https://search.worldcat.org/title/491461100)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="553386076" term="553386076" >}}
-
-## TGN ID
-
-## Contributor
-
 
 ## Publication date
 

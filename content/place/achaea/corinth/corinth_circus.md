@@ -16,21 +16,6 @@ draft: false
 - [Corinth]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="570182" term="Corinth" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 The Circus of Roman Corinth
@@ -79,10 +64,7 @@ BIBLIOGRAPHY:
 * J. H. Humphrey, *Roman Circuses: Arenas for Chariot Racing.* Berkeley, 1986. [(worldcat)](https://search.worldcat.org/title/299732316)
 * D. G. Romano, “A Roman Circus in Corinth,” *Hesperia* 74, 2005: 585-611. [(worldcat)](https://search.worldcat.org/title/359326258).
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="570182" term="Corinthus/Korinthos" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7010734" term="Corinth (inhabited place)" >}}

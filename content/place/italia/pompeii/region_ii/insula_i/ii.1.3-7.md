@@ -32,7 +32,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "amphorae" >}}
 
 
-
 ## Garden
 Small garden to the rear of a
 [caupona](http://vocab.getty.edu/page/aat/300005208)
@@ -45,11 +44,8 @@ The garden in the southeast section of this area was shared the house at entranc
 Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, p.75 [(worldcat)](https://search.worldcat.org/title/222353569)
 
 
-
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

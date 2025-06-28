@@ -5,7 +5,7 @@ type: garden
 title: "Enclos Milhaud, House with the large peristyle"
 date: 2020-11-04T00:20:41-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,27 +26,17 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Enclos Milhaud, House with the large peristyle](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
 
 Enclos Milhaud, House with the large peristyle
 
 
-
 ## Keywords
-
-
 
 
 ## House Description
@@ -83,7 +73,6 @@ NEW WAY ↓↓↓↓
 ## Dates
 
 
-
 ## Bibliography
 
 1. *Maison 1996*, t. II,, P. 32-33
@@ -92,20 +81,15 @@ NEW WAY ↓↓↓↓
 2.  “Aix-en-Provence,”*Atlas*, P. 62-4, 71.
 
 
-
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7010786" term="Aix-en-Provence (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

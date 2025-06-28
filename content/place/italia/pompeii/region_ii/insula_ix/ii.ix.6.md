@@ -46,7 +46,6 @@ Jashemski examined this garden in 1971 and found a series of cavities along the 
 B. This vineyard section of the property was excavated in 1984 by Dr. De Caro. A small peristyle garden was enclosed on the east and south by a three column portico with a pilaster on the southwest corner. A low wall joined the pilaster and the west column on the south side with a terracotta puteal incorporated into it. The north and east sides of the garden had a gutter. The south part of this vineyard had a small house with a garden painting on the west wall. The excavators found the painting to be badly damaged but a section showing a lattice fence 0.68m high with leaves and flowers behind remained on the right two-thirds of the building. All of the painting above the fence had been lost. A huge [lararium](http://vocab.getty.edu/page/aat/300400600) was built against the north portion of the wall which partially covered the image of a Frejus type statuette of Venus 0.87m high. An entrance from the east [portico](http://vocab.getty.edu/page/aat/300004145) led directly to the vineyard which had been in production at the time of the eruption. At the front of the house on the west end a treading floor for the grapes had been built. The floor was raised, enclosed by a low wall 18 cm high, and paved with *opus signinum*. The juice would run into a pair of [dolium](http://vocab.getty.edu/page/aat/300400601) buried in the soil at the east edge of the floor.
 
 
-
 <!--## Plans
 {{< image src="../../fig._75,_plan_of_region_ii,_insula_ix.png" alt="Fig. 75, Plan of Region II, insula ix" title="Fig. 75, Plan of Region II, insula ix" >}}
 
@@ -56,10 +55,8 @@ B. This vineyard section of the property was excavated in 1984 by Dr. De Caro. A
 {{< image src="../../fig._80,_ii.ix.6_12.25.71.jpg" alt="Fig. 80, 12.25.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 80, 12.25.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 -->
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="456321707" term="Regio II, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

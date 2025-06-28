@@ -20,21 +20,6 @@ draft: true
 - [Ferpicloz]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981525" term="Ferpicloz" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Rural Villa in Ferpicloz
@@ -75,16 +60,10 @@ unspecified
 * W. Drack and R. Fellmann, *Die Römer in der Schweiz*, Stuttgart, 1988, pp. 394-395, fig. 369. [(worldcat)](https://search.worldcat.org/title/639129078)
 * R. Fellmann, *La Suisse gallo-romaine. Cinq siècles d’histoire*, Lausanne, 1992, p. 157, fig. 116.3. [(worldcat)](https://search.worldcat.org/title/28038264)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
-
-## Contributor
-
 
 ## Publication date
 

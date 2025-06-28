@@ -5,7 +5,7 @@ type: garden
 title: "House of the Mithra"
 date: 2020-10-15T10:00:00-04:00
 latlon: [ 37.487748, -4.459183 ]
-author: (AUTHOR_ID)
+author: 
 editor: Lai Ching Tsui
 draft: true
 ---
@@ -19,19 +19,6 @@ draft: true
 
 - [Egabrum]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="265919" term="Egabrum" >}}
-
-## Location Description
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -73,7 +60,6 @@ Excavations identified two building phases in the villa. The early Imperial phas
 {{< image src="HIS_BAE_Ega_Hm_Mosaic_CA fig3.jpg" alt="Fig. 3: Photo of one of the mosaics from the House of Mithra on display at the municipal museum. (Rights Statement)" >}}
 
 
-
 ## Dates
 
 unspecified
@@ -85,16 +71,11 @@ unspecified
 * J. L. Jiménez Salvador and M. Martín Bueno,*La Casa del Mitra*, Ayuntamiento de Córdoba, (Córdoba, 1991).[(worldcat)](https://search.worldcat.org/title/490626772)
 
 
-
-## Pleiades ID
+## Places
 - [Igabrum/Egabrum]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="265919" term="Igabrum/Egabrum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7007570" term="Cabra (inhabited place)" >}}
 
-## Contributor
-[(AUTHOR_ID)](link) <!-- - (ORCID: [xxx](link)) -->
 
 ## Publication date
 

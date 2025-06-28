@@ -34,10 +34,6 @@ Under Claudius the city became a Roman colony, Colonia Claudia Caesarea. The old
 
 The city has been continually occupied to the present day, now known as Cherchel. From the Roman period, many archaeological sites have survived, including temples, baths, houses adorned with mosaics and sculptures, a theater, a forum, a judiciary basilica, an amphitheater, a large hippodrome, and a lighthouse constructed on the islet of the city.
 
-<!--## Sublocation-->
-
-<!--## Sublocation Description-->
-
 ## Garden
 
 House of Iustiniani and Sabini (Maison de Kaid Youcef)
@@ -75,14 +71,9 @@ In the southwestern corner, a small room protrudes into the gallery and opens in
 * Lassus, J., "L'archéologie algérienne en 1959 et 1960", R. Af., 1961, p.441 and "La mosaïque de Thétis et Pélée", in *Bulletin d’archéologie algérienne*, t.1, 1962-1965, p.103. [(hathitrust)](https://catalog.hathitrust.org/Record/008568139)[(worldcat)](https://search.worldcat.org/title/491480973)
 * Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie", in *Antiquités africaines*, t.18, 1982, pp.136-38. [(worldcat)](https://search.worldcat.org/title/4797426670)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="278428164" term="278428164" >}}
-
-## TGN ID
-
-
-## Contributor
 
 
 ## Publication date

@@ -60,12 +60,9 @@ Unspecified
 * Jashemski, W. F., "Roman Gardens in Tunisia: Preliminary Excavations in the House of Bacchus and Ariadne and in the East Temple at Thuburbo Maius," *AJA* 99 (1995), pp. 559-576, p. 572, fig. 14. [(worldcat)](https://search.worldcat.org/title/7376761548)
 * Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, V. Brouquier Reddé, Fr. Baratte, E. Rocca (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230. [(worldcat)](https://search.worldcat.org/title/1085352690)  
 
-## Pleiades_ID
+## Places
 
 - {{< id vocab="Pleiades" id="315220" term="Thuburbo Maius" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7001750" term="Kasba, Henchir el (deserted settlement)" >}}
 
 ## Contributor

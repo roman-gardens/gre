@@ -20,19 +20,6 @@ draft: true
 - [Arcos De La Frontera]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="255981" term="Arcos De La Frontera" >}}
 
-## Location Description
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Villa el Santiscal
@@ -43,7 +30,6 @@ Villa el Santiscal
 - {{< keyword "mosaics" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "rills" >}}
-
 
 
 ## Garden Description
@@ -80,13 +66,10 @@ unspecified
 * J. M. Blázquez, ‘Los jardines en la Hispania Romana,’ *Historia de los Parques y Jardines en España*, Diputación Provincial de Córdoba-Edita Grupo FCC (Madrid 2001). [(worldcat)](https://search.worldcat.org/title/1090911182)
 * J.-G. Gorges, *Les villas hispano-romaines: Inventaire et Problématique Archéologiques* (Publications du Centre Pierre Paris IV). Paris: de Boccard, 1979, 241. [(worldcat)](https://search.worldcat.org/title/461777678)
 
-## Pleiades ID
+## Places
 
 - [El Santiscal]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256436" term="El Santiscal" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="1061772" term="Arcos de la Frontera (inhabited place)" >}}
 
 ## Contributor

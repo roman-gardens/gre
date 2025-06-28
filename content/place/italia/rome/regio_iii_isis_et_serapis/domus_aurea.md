@@ -31,7 +31,6 @@ Caelian Hill, [Caelius Mons](https://pleiades.stoa.org/places/695491849) \
 Esquiline Hill, [Esquilinus Mons](https://pleiades.stoa.org/places/679976755)
 
 
-
 ## Garden
 
 Garden of the Domus Aurea \
@@ -56,7 +55,6 @@ Garden of the Domus Aurea \
 - {{< keyword "retaining walls" >}}
 - {{< keyword "stagnum (man-made lake)" >}}
 - {{< keyword "terrace gardens" >}}
-
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 - [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
 
@@ -98,12 +96,9 @@ unspecified
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae*, s.v. "Domus Tiberiana" (C. Krause), Rome, 1993, pp. 189-197. [(worldcat)](https://search.worldcat.org/title/1114759113)
 * J.B. Ward Perkins, *Roman Imperial Architecture*, Penguin books, 1981, pp. 59-60. [(worldcat)](https://search.worldcat.org/title/1091918996)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="410440793" term="Domus Aurea" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="8712226" term="Domus Aurea (deserted settlement)" >}}
 
 ## Contributor

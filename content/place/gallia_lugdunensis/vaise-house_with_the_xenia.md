@@ -5,7 +5,7 @@ type: garden
 title: "Vaise - House with the Xenia"
 date: 2020-12-04T10:39:31-07:00
 latlon: [ 45.758866, 4.819481 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
@@ -14,21 +14,6 @@ draft: true
 
 - [LUGDUNUM (Lyon, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="167717" term="LUGDUNUM" >}}
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 House with Pilasters (Clos du Verbe Incarné)
@@ -65,15 +50,13 @@ Unspecified
 - E. Delaval, C. Bellon, J. Chastel, E. Plassot, L. Tranoy, *Vaise, un quartier de Lyon antique,* Document d’archéologie en Rhône-Alpes n° 5, Lyon, 1995. E. Plassot, Le quartier Saint-Pierre, la maison aux *xenia*, p. 71-129.  [(worldcat)](https://search.worldcat.org/title/1031979297)  
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="167717" term="Col. Lugdunum" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
-[AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
+<!-- Maureen Carroll ? -->
 
 ## Publication date
 

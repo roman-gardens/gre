@@ -53,12 +53,9 @@ The market located to the SW of the forum had a peristyle that enclosed an open 
 *  CMT,  *Thuburbo  Majus,  Les  mosaïques  de  la  région  du  Forum*,  V.  II,  fasc.1, INA, Tunis, 1980, pp. 9-11, plan 3-4. [(Worldcat)](https://search.worldcat.org/title/23232759)
 * Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](https://search.worldcat.org/title/20058336)
 
-## Pleiades_ID
+## Places
 
 - {{< id vocab="Pleiades" id="315220" term="Thuburbo Maius" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7001750" term="Kasba, Henchir el (deserted settlement)" >}}
 
 ## Contributor

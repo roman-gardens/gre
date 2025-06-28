@@ -15,15 +15,10 @@ draft: true
 - [via latina]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="93042695" term="via latina" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 
 ## Sublocation Description
-
 
 
 ## Garden
@@ -54,9 +49,7 @@ Unspecified
 - J. M. C. Toynbee, *Death and Burial in the Roman World*,  Print book : English : Hopkins pb. ed., 96 and n. 312. [worldcat](https://search.worldcat.org/title/833003812)
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian, BCom 92 (1987-88) [1989] 180 n. 37. [worldcat](https://search.worldcat.org/title/886794800)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="93042695" term="Via Latina" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="6006328" term="Via Latina (road)" >}}

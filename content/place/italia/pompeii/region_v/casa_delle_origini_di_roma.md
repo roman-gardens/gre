@@ -23,7 +23,6 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 - [Pompeii]({{<relref "..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
-<!--## Location Description-->
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
@@ -77,11 +76,9 @@ Unspecified
 * Soprano, p. 299, no. 12 (identifies the structure in the garden as a true triclinium and not triclinium-shaped seats as Sogliano suggests); (Soprano, I triclini all'aperto di Pompei)
 * Thédenat, p. 88. [(worldcat)](https://search.worldcat.org/title/37336723)
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}} \
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
 
 
 ## Contributor

@@ -27,7 +27,6 @@ draft: false
 - {{< id vocab="Pleiades" id="971691208" term="Mons Palatinus" >}}
 
 
-
 ## Garden
 
 Vigna Barberini Site Overview, Palatine
@@ -83,6 +82,6 @@ PHASES OF THE VIGNA BARBERINI SITE:
 * F. Villedieu, P. Veltri,  “Les soutènements nord-ouest et nord de la terrasse de la Vigna Barberini (Rome, Palatin): constructions et remaniements de l’époque flavienne à l’époque sévérienne,” *Mélanges de l’École Française de Rome*, 111 (1999), pp. 749-778. [(worldcat)](https://search.worldcat.org/title/220729070)
 * F. Villedieu , et alii, *Il giardino dei Cesari.* Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001. [(worldcat)](https://search.worldcat.org/title/5894435382)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="971691208" term="Palatinus Mons" >}}

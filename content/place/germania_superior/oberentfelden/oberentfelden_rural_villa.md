@@ -20,21 +20,6 @@ draft: true
 - [Oberentfelden]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="177596" term="Oberentfelden" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Rural Villa in Oberentfelden
@@ -78,16 +63,10 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 * R. Fellmann, *La Suisse gallo-romaine. Cinq siècles d’histoire*, Lausanne, 1992, pp. 152, 154, fig. 105. [(worldcat)](https://search.worldcat.org/title/28038264)
 * M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 75, fig. 34. [(worldcat)](https://search.worldcat.org/title/1120840822)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="177596" term="Oberentfelden" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="8703779" term="Oberentfelden (inhabited place)" >}}
-
-## Contributor
-
 
 ## Publication date
 

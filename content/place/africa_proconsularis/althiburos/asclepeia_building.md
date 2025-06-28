@@ -26,18 +26,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 This town is located on the road between Carthage and Theveste near the border of Proconsularis and Byzacena 35 km west of Mactar. Under the Roman Empire it remained an indigenous civitas until it was raised to the status of a municipium by Hadrian: municipium aelium hadrianum augustum althiburitanum and later was granted the ius Italicum.
 
 The trade of agricultural products and craftsmanship made Althiburos a prosperous city, particularly, the fabrication and the commerce of aromatics. The development of the city reached its peak under the Antonian and Severian dynasties. It is difficult to follow the history of Althiburos during the third century when the province of Africa underwent the severe crisis of 238. The city was abandoned just before the Arab conquest.  Excavations have brought to light the forum, the capitol, the Hadrianic triumphal arch and two temples. At the east corner of the forum, near one of the temples, was a complex of houses and a building with a rotonda to the south of which stood a monumental fountain. Outside the excavated center are other monuments, among them the theater and a triumphal arch.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Asclepieia Building (Edifice des Asclepieia)
 
@@ -68,7 +56,6 @@ During this phase, a long rectangular basin (*euripus*) was laid in front of the
 During the third stage dated to the beginning of the second half of the fourth century, the water features were modified and a large basin was added. Niches were added inside the semi-circular basins. In the center of the garden, a rectangular basin (g) (6.20x4.20m) that protruded onto the square basin (h) and enclosed a small rectangular basin  (g) (0.15x0.15m) was added.
 
 
-
 ## Maps
 
 <!--
@@ -92,13 +79,9 @@ NOT FOUND
 - Ennaifer, M., *La cité d’Althiburos et l’édifice des Asclepeia*, Ministère des Affaires Culturelles, Tunis, 1976, pp. 71-152, plan III-IV. [(worldcat)](https://search.worldcat.org/title/963483765)
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="324664" term="Althiburos" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="5003658" term="Althiburus (deserted settlement)" >}}
-
-## Contributor
 
 ## Publication date
 

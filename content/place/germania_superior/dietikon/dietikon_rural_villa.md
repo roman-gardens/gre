@@ -20,21 +20,6 @@ draft: true
 - [Dietikon]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981525" term="Dietikon" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Rural Villa in Dietikon
@@ -91,12 +76,9 @@ Stone-built villa: Middle of the 1st century CE
 * C. Ebnöther, *Der römische Gutshof in Dietikon*. Monographien der Kantonsarchäologie Zürich 25, Zürich, 1995, pp. 36-45, 49-50, figs. 21, 36-37,41-42. [(worldcat)](https://search.worldcat.org/title/891774240)
 * L. Flutsch, U. Niffeler, F. Rossi, eds., *La Suisse du Paléolithique à l’aube du Moyen-Age (SPM) V. Epoque romaine/Età Romana*, Basel, 2002, p. 143, fig. 140. [(worldcat)](https://search.worldcat.org/title/492139765)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981525" term="Germania Superior" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7007345" term="Dietikon (inhabited place)" >}}
 
 ## Contributor

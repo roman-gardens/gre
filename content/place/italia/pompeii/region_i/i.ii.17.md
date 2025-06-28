@@ -65,10 +65,8 @@ B. The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the east
 * Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, pp. 12, 76, no.1, p. 77, nos. 5, 12, p.79, nos. 45, 46 [(worldcat)](https://search.worldcat.org/title/254502217)  
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, no. 32 [(worldcat)](https://search.worldcat.org/title/974375313)  
 
-## Pleiades ID
+## Places
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
-
-## TGN ID
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

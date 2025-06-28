@@ -20,21 +20,6 @@ draft: false
 - [Fishbourne]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="79466" term="Fishbourne" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Roman Palace in Fishbourne
@@ -96,16 +81,10 @@ late 1st century CE - unspecified
 * B. Cunliffe, *Fishbourne Roman Palace*, Tempus, 1998. [(worldcat)](https://search.worldcat.org/title/997465222)
 * Amina-Aïcha Malek, *A Sourcebook of Garden Archaeology*, Bern: Peter Lang, 2012.[(worldcat)](https://search.worldcat.org/title/865000398)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="79466" term="Fishbourne" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7032567" term="Fishbourne Roman Palace (historic site)" >}}
-
-## Contributor
-
 
 ## Publication date
 

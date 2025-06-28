@@ -84,12 +84,9 @@ Excavated 1911 and 1923.
 * Warscher, T. 1942. *Flora Pompeiana*, p. 24.   
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

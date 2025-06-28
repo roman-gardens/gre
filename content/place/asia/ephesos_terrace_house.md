@@ -46,9 +46,6 @@ Terrace House 2
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 
 ## Keywords
@@ -77,7 +74,6 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 {{< image src="Ephesos Plan.jpg" alt="Plan of Ephesos terrace house 2 with courtyard in the middle and rooms surrounding it, Photo by N. Blanc" title="Plan of Ephesos terrace house 2">}}
 
 
-
 ## Images
 
 
@@ -100,14 +96,10 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 - C. Kearns, “Visual representations of gardens: diachronic perspectives on the art of landscape,” In ed. K. Gleason, *Cultural History of Gardens*, London. 2013. pp. 164-165. [(worldcat)](https://search.worldcat.org/title/968338784)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="599612" term="Ephesus/Arsinoe(ia)" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7002358" term="Caria (former nation/state/empire)" >}}
-
-## Contributor
 
 ## Publication date
 

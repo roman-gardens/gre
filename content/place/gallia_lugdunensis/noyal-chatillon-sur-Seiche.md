@@ -5,7 +5,7 @@ type: garden
 title: "Villa de Châtillon-sur-Seiche"
 date: 2020-12-08T10:39:31-07:00
 latlon: [ 48.042566, -1.65974 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
@@ -14,21 +14,6 @@ draft: true
 
 - [NOYAL-CHATILLION-SUR-SEICHE (Ille-et-Vilaine, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="69488" term="NOYAL-CHATILLION-SUR-SEICHE" >}}
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 Villa de Châtillon-sur-Seiche
@@ -95,15 +80,13 @@ Unspecified
 - Gilles Leroux, Alain Provost, CAG- Ille-et-vilaine (35), p. 270-274. [(worldcat)](https://search.worldcat.org/title/463616145)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="69488" term="Châtillon-sur-Seiche" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="6003548" term="Gallia Lugdunensis (province)" >}}
 
 ## Contributor
-[AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
+<!-- Maureen Carroll ? -->
 
 ## Publication date
 

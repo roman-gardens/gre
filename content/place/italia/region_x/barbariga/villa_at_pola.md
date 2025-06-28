@@ -22,17 +22,10 @@ draft: true
 - {{< id vocab="Pleiades" id="383781" term="Barbariga" >}}
 -->
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [Region X]({{<relref "..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 
 ## Garden
@@ -89,12 +82,10 @@ See Römische Villa bei Pola / von Hans Schwalb (1902)
 https://babel.hathitrust.org/cgi/pt?id=hvd.32044081405060&seq=35
 -->
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="197448" term="Pola" >}}
 
-
-## TGN ID
 
 - {{< id vocab="TGN" id="7015562" term="Pula (inhabited place)" >}}
 

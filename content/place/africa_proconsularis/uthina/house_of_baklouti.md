@@ -27,18 +27,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 Uthina was a town in the province of Africa Proconsularis, now northern Tunisia. Uthina became a Roman colony of veterans of Legio XIII Gemina during the reign of Emperor Augustus. Hence, it was mentioned by Ptolemy (IV, 3, 34), Pliny the Elder, and the Tabula Peutingeriana.
 
 From the accounts given by geographers the site seems to be the ruins that form the archeological site of Oudna, near a station on the railway from Tunis to Kef and not far from what was the World War II Oudna Airfield. These ruins occupy a surface nearly three miles in circumference, covering a hilly plateau, and commanding the left bank of the Milian wady; there are remains of a fortress, cisterns, an aqueduct, a triumphal arch, a theatre, an amphitheater, a basilica with a circular crypt, and a bridge. Many mosaics are to be found there as well.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 House of Baklouti (Maison de Baklouti)
 
@@ -51,8 +39,6 @@ House of Baklouti (Maison de Baklouti)
 ## Garden Description
 
 The peristyle garden enclosed by a portico on four sides had a long basin, which was concave at one end, and had semicircular and rectangular niches.  It occupied the central axis of the garden. The bottom was paved with mosaic. The semicircular pool extending into the garden on the E side was also decorated with niches.
-
-
 
 
 <!--## Maps-->
@@ -75,15 +61,10 @@ Unspecified
 * Ben Hassen H. H., "Le parc archéologique d'Oudhna, antique Uthina (Tunisie)", in *Bulletin de la Société Nationale des Antiquaires de France*, 2001, 2006. pp. 225-238.[(worldcat)](https://search.worldcat.org/title/7290982187)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.333-334. [(worldcat)](https://search.worldcat.org/title/989088620)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="315247" term="Uthina" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7024022" term="Oudna (deserted settlement)" >}}
-
-## Contributor
 
 ## Publication date
 

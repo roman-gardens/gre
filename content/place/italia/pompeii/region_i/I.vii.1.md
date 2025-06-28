@@ -81,12 +81,9 @@ Excavated 1912, 1915, 1926 and 1936.
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, appendix on water and photo no. 66.  
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

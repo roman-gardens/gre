@@ -44,10 +44,8 @@ Beyond shop 26 and the living quarters behind it there was a very large garden (
 {{< image src="fig.29.viii.vii.27_9.21.59.jpg" alt="Fig.29, 9.21.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig.29, 9.21.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 {{< image src="fig.30.viii.vii.27_9.27.59.jpg" alt="Fig.30, 9.27.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig.30, 9.27.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates

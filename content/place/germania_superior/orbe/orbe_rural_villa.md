@@ -20,21 +20,6 @@ draft: true
 - [Orbe]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="177598" term="Orbe" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Rural Villa in Orbe
@@ -78,16 +63,10 @@ House: mid-1st century CE - 4th century
 * R. Fellmann, *La Suisse gallo-romaine. Cinq siècles d’histoire*, Lausanne, 1992, pp. 152-153, fig. 112. [(worldcat)](https://search.worldcat.org/title/28038264)
 * Th. Luginbühl, J. Monnier, Y. Dubois, *Vie de palais et travail d’esclave. La villa romaine d’Orbe-Boscéaz*. Document du Musée cantonal d’archéologie et d’histoire, Lausanne, 2001, pp. 34-36, 53-55, figs. 28-29, 40, 49-51. [(worldcat)](Vie de palais et travail d’esclave. La villa romaine d’Orbe-Boscéaz)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="177598" term="Orbe Gallo-Roman Villa" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7007438" term="Orbe (inhabited place)" >}}
-
-## Contributor
-
 
 ## Publication date
 

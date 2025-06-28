@@ -5,7 +5,7 @@ type: garden
 title: "House of Gilded Stones"
 date: 2020-10-12T21:26:02-24:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -25,10 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [saint-roman-en-gal (Pleiades)]()
 
 ## Location Description
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Sublocation
 
@@ -55,12 +51,6 @@ House of Gilded Stones
 - {{< keyword "porticoes" >}}
 
 
-
-
-
-
-
-
 ## House Description
  
 The living space was organized in U on three side of a garden with peristyle.  An entrance on the south formed part of a porch [1] which led to the large vestibule [8] (8.5 x 6.4 m) which opened directly onto the peristyle [23]. From the stratigraphy of the soil it is not possible to know whether this peristyle court was planted or whether it was tamped earth. This courtyard (15.7 x 11.4 m) with an open area of 230 square meters is surrounded on all four sides by porticoes 2.5 meters wide. The columns have disappeared. A column with a phallus-formed top formed a fountain that was perhaps part of the décor of the peristyle; the column rested on a socle pierced by a channel for a conduit of lead which continued through the center of the column. A rectangular pool (7 x 3 m) with a semicircular apse of 2.5 meter diameter, perhaps ornamented by a fountain, occupied the northern half of the central area of the peristyle court. A lead pipe coming from the baths supplied water. The drain cut diagonally across the southern half of the courtyard and continued to the wall along the east side of the house, where it turned and ran parallel to this wall down to the channeled stream on the other side of the street to the south of the house..
@@ -84,9 +74,6 @@ NEW WAY ↓↓↓↓
 {{< image src="house_of_the_gilded_stones.png" alt="Plan of House of the Gilded Stones" title="Plan of House of the Gilded Stones" >}}
 
 
-
-
-
 ## Dates
 
 A.D. 20 – A.D. 60
@@ -108,18 +95,15 @@ A.D. 20 – A.D. 60
 7. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271, fig 189.[worldcat](https://search.worldcat.org/title/43416334)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="5004109" term="Saint-Romain-en-Gal (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

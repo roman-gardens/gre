@@ -37,13 +37,10 @@ Dacia was of particular interest to the Romans for its supplies of lead, needed 
 
 106 CE to 271-275 CE
 
-## Pleiades ID
+## Places
 
 - [Dacia (province)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981518" term="Dacia (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030323" term="Dacia (historical region)" >}}
 
 ## Contributor

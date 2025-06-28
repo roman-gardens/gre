@@ -89,12 +89,9 @@ unspecified
 * Giovanni Becatti, *Case ostiensi del tardo impero*, 1961, pp. 18-20. [(worldcat)](https://search.worldcat.org/title/899106405)
 * F. Zevi et al., *Notizie degli scavi di antichità*, in press. [(worldcat)](https://search.worldcat.org/title/8340098)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="223974300" term="House of the Fishes" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 

@@ -43,10 +43,8 @@ This caupona, excavated in 1874, had a garden (a) across the back with a low wal
 {{< image src="fig.25.viii.vii.1_9.35.66.jpg" alt="Fig.25, 9.35.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig.25, 9.35.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 {{< image src="fig.26.viii.vii.1_10.2.66.jpg" alt="Fig.26, 10.2.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig.26, 10.2.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates

@@ -5,7 +5,7 @@ type: garden
 title: "Houses Under the Museum"
 date: 2020-09-30T11:20:32-04:00
 latlon: [ 38.917216, -6.341213 ]
-author: AUTHOR_ID
+author: 
 editor: Yiyun Liu
 draft: true
 ---
@@ -36,21 +36,6 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 ## Bibliography
 - I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -92,17 +77,11 @@ The 4th century A.D
 * J. Barrera Antón (De), “El trabajo estucado en «Augusta Emerita»: los grandes frisos de la casa romana del solar del Museo”, in *Extremadura Arqueológica,  (Homenaje a la Dra Dª Milagro Gil Mascarell Boscá)*, 5(1995): 221-223. [(worldcat)](https://search.worldcat.org/title/34430232)
 * J. Hernández Ramírez, *La pintura mural romana de Mérida. (Inserta en la estructura urbana y doméstica de la ciudad)*, UNED (unpublished doctoral disertation), 1993, pp. 1380-1506.
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="256155" term="Emerita Augusta" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7007664" term="Mérida (inhabited place)" >}}
 
-## Contributor
-
-AUTHOR_ID
 
 ## Publication date
 

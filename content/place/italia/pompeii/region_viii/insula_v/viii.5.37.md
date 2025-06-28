@@ -43,10 +43,8 @@ This house was excavated in 1882 to reveal a small garden (a) at the rear entere
 {{< image src="fig.19.viii.v.37_12.20.59.jpg" alt="Fig. 19, 12.20.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 19, 12.20.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates

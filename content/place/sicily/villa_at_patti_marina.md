@@ -17,29 +17,11 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 [Messina]({{<relref "../..">}})
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 
 ## Location
 
 - {{< id vocab="Pleiades" id="462538" term="Messina" >}}
-
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 
@@ -76,14 +58,9 @@ This fourth-century villa on the north coast has also yielded evidence for a gar
 ## Bibliography
 G. Voza, L’attivita della Soprintendenza alle Antichita della Sicilia Orientale, Kokalos 26–7 (1980–81): Attivita nel territorio della Soprintendenza alle Antichita di Siracusa nel quadriennio 1980–1984, Kokalos 692–3; 30–31 (1984–85):  660–61.R. J. A. Wilson [(worldcat)](https://search.worldcat.org/title/186378054)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="462538" term="Zancle/Messana" >}}
-
-## TGN ID
-
-
-## Contributor
 
 
 ## Publication date

@@ -61,12 +61,9 @@ Early 3rd century CE
 *  Poinssot, C., *Les ruines de Dougga*, Tunis, 1958, p. 53: plan, général n°18. [(worldcat)](https://search.worldcat.org/title/475099061)
 * Plan from http://www.dougga.rnrt.tn/file/plan_maison_trifolium.pdf
 
-## Pleiades_ID
+## Places
 
 - {{< id vocab="Pleiades" id="315223" term="Thugga/Tokai?" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7017996" term="Dougga (deserted settlement)" >}}
 
 ## Contributor

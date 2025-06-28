@@ -30,19 +30,6 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 
 Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Hermaphrodite House (Maison de l'Hermaphrodite)
 
@@ -82,14 +69,10 @@ The large house was laid out around a large peristyle of 22 columns. In the axis
 * Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
 * Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 65, fig. 7. [(worldcat)](https://search.worldcat.org/title/643640586)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="334636" term="Thamugadi" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7001328" term="Timgad (deserted settlement)" >}}
-
-## Contributor
 
 ## Publication date
 

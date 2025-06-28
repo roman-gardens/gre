@@ -14,10 +14,6 @@ draft: false
 
 - [Pompeii]({{<relref "../..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 [Region II]({{<relref "..">}})
 
@@ -37,8 +33,6 @@ Commercial restaurant garden.
 This garden restaurant was strategically located across from the Palaestra. This garden occupied most of the southern part of this *insula* and had a masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) (l. medius, 4.90 m; l. imus and summus 4.50m), as well as a round table (1.00 m in diameter) and a square table (0.90m x 0.90m).
 
 
-
-
 ## Dates
 1951-1953.
 
@@ -48,10 +42,9 @@ This garden restaurant was strategically located across from the Palaestra. This
 - Della, Corte M. 1954. *Case Ed Abitanti Di Pompei. Pompei-scavi:*. [worldcat](https://search.worldcat.org/title/878618392)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="425769173" term="425769173" >}}
-
 
 
 ## Contributor

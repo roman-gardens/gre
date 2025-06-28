@@ -14,16 +14,11 @@ draft: true
 - {{< id vocab="Pleiades" id="356966898" term="VIA APPIA" >}}
 - {{< id vocab="Pleiades" id="990721366" term="Funerary Chamber of Manlia Felicitas" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 Via Appia
 
 ## Sublocation Description
 An early Roman road (via publica) originating at Rome and terminating at Brundisium, the Via Appia was begun in the fourth century B.C. by the censor Appius Claudius Caecus. The Latin author Statius described the Via Appia as "queen of the long roads".
-
 
 
 ## Garden
@@ -53,15 +48,9 @@ When Vignon returned to the site thirteen years later, the underground chamber c
 - G.-L. Gregori , *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Bullettino della Commissione Archeologica Comunale di Roma BCom 92 (1987-88) [1989]: 180 n. 35, 185. [worldcat](https://search.worldcat.org/title/886794800)
 
 
-
-
-
-
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="990721366" term="Funerary Chamber of Manlia Felicitas" >}}
-
 
 
 ## Contributor

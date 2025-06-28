@@ -28,7 +28,6 @@ Palatine Hill [Mons Palatinus](https://pleiades.stoa.org/places/971691208) \
 Esquiline Hill [Esquilinus Mons](https://pleiades.stoa.org/places/679976755)
 
 
-
 ## Garden
 
 Garden of the Neronian Palace, Palatine
@@ -51,7 +50,6 @@ Garden of the Neronian Palace, Palatine
 - {{< keyword "porticoes" >}}
 - {{< keyword "scaenae" >}}
 - {{< keyword "terraces" >}}
-
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 
 
@@ -94,6 +92,6 @@ RELATED PHASES ON THE PALATINE:
 * H. Manderscheid, "Was nach den 'ruchlosen Räubereien' übriglieb-zu Gestalt und Funktion der sogenannten Bagni di Livia in der Domus Transitoria," in A. Hoffmann, U. Wulf (eds.), *Die Kaiserpaläste auf dem Palatin in Rom. Das Zentrum der römischen Welt und seine Bauten*, Mainz: Zabern, 2006, p. 75-85. [(worldcat)](https://search.worldcat.org/title/769179906)
 * M.A. Tomei, "Nerone sul Palatino", in M.A. Tomei, R. Rea (eds.), *Nerone: Catalogo della mostra*, Milano: Electa, 2011, p. 118-135. [(worldcat)](https://search.worldcat.org/title/1051659054)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="971691208" term="Palatine Hill" >}}

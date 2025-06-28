@@ -70,12 +70,9 @@ Excavated 1926 and 1927. Restoration 2017.
 * Maiuri, A. 1939. *NSc*, p. 380, and fig. 14 on p. 381.  
 * Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 35.  
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ## Contributor

@@ -22,18 +22,6 @@ draft: true
 
 <!--## Location Description-->
 
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Rural Villa in Winden Am See
@@ -70,16 +58,10 @@ On the southeast of the house was a vestibule, from which a central corridor dep
 *  E.B. Thomas, *Römische Villen in Pannonien*, Budapest, 1964, pp. 201-210, figs. 107-10. [(worldcat)](https://search.worldcat.org/title/785736879)
 * A. Mócsy, *Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire*, London, 1974, p. 173, fig. 32. [(worldcat)](https://search.worldcat.org/title/644823914)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="197425" term="Pannonia" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="4008442" term="Pannonia (general region)" >}}
-
-## Contributor
-
 
 ## Publication date
 

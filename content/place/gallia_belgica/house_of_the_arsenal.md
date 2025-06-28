@@ -5,7 +5,7 @@ type: garden
 title: "House of the Arsenal (Maison de l’Arsenal)"
 date: 2020-12-08T10:39:31-07:00
 latlon: [ 49.118135, 6.174155 ]
-author: AUTHOR_ID
+author: 
 editor: Yvette Pollack
 draft: true
 ---
@@ -15,9 +15,6 @@ draft: true
 - [DIVODURUM MEDIOMATRICORUM (Metz, France)]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="108927" term="DIVODURUM MEDIOMATRICORUM" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 
 <!--## Sublocation-->
 
@@ -64,15 +61,13 @@ Unspecified
 - Ph. Brunella, D. Meckenbenner, Cl. Lefebvre, P. Thion, *Metz, cinq années de recherches archéologiques 1982-1987,* Dalph, Gumra, 1990, p.33-36, fig.36. [(worldcat)](https://search.worldcat.org/title/20955708)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="108927" term="Divodurum/Mettis" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="6000727" term="Gallia Belgica (province)" >}}
 
 ## Contributor
-[AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
+<!-- Maureen Carroll ? -->
 
 ## Publication date
 

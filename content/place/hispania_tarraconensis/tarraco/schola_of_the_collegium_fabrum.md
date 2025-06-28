@@ -5,7 +5,7 @@ type: garden
 title: "Schola of the Collegium Fabrum"
 date: 2020-09-30T11:20:32-04:00
 latlon: [ 41.116892, 1.258337 ]
-author: AUTHOR_ID
+author: 
 editor: Yiyun Liu
 draft: true
 ---
@@ -52,21 +52,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 Despite the rather sparse archaeological evidence for gardens in Tarragona, one of the most important cities of Roman Spain, there is a brief passage at the beginning of Vergilius orator an poeta by Publius Annius Florus, friend of Hadrian, in which he described a temple garden thought to be in Tarragona, though the city is not mentioned explicitly:
 While I was passing through the temple enclosure my head full of the fatigues of the day, pleasantly resting in the shade of many trees by cool running water breathing fresh air, I suddenly came upon a group of people…
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Schola of the Collegium Fabrum
@@ -96,17 +81,11 @@ UNKOWN
 * E. V. Koppel, *La Schola del collegium fabrum de Tarraco y su decoración escultórica*. Faventia Monografies 7. Edit. Bellaterra, Barcelona, 1988 [(worldcat)](https://search.worldcat.org/title/601968172)
 * Mª. L. Loza Azuaga, “La escultura de fuentes en Hispania: ejemplos de la Bética,” in *Actas de la I Reunión sobre escultura romana en Hispania*, Mérida, 1993, 98. [(worldcat)](https://search.worldcat.org/title/940998520)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="246349" term="Col. Tarraco" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7008715" term="Tarragona (inhabited place)" >}}
 
-## Contributor
-
-AUTHOR_ID
 
 ## Publication date
 

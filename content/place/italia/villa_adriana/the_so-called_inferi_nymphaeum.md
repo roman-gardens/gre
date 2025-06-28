@@ -103,12 +103,10 @@ unspecified
 * E. Salza Prina Ricotti, “Adriano: architettura del verde e dell'acqua”, in *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, pp. 390-395, figs. 18-19. [(worldcat)](https://search.worldcat.org/title/636808013)
 * E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 303-305, figs. 25, 138. [(worldcat)](https://search.worldcat.org/title/46784026)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="423127" term="Villa Hadriani" >}}
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
-
-## TGN ID
 
 - {{< id vocab="TGN" id="7006983" term="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->

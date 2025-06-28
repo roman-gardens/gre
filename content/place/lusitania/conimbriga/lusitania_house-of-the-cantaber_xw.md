@@ -5,7 +5,7 @@ type: garden
 title: "House of the Cantaber"
 date: 2020-11-02
 latlon: [ 40.099, -8.4933 ]
-author: AUTHOR_ID
+author: 
 editor: Xingjian Wang
 draft: true
 ---
@@ -27,19 +27,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location Description
 
 The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Augustan period and, thereafter, a forum, a public bath-house, an aqueduct and city walls were constructed.  During the Flavian period, the city was made a municipium with ius Latii.  At the end of the third or beginning of the fourth century AD, new fortification walls considerably reduced the area occupied by the city.   In the time of the Suevi it was an Episcopal See, which was then transferred to Aeminium (the present day Coimbra) around A. D. 585, when the kingdom of the Suevi was conquered by the Visigoths.  Further reduced in area and impoverished, the city survived until 986, at which date, according to Arab sources, it was destroyed by the great Muslim chief Almansor. In addition to the Augustan forum, which was completely rebuilt on a new ground plan under the Flavians, four bath houses have been excavated, and preliminary trial trenches established the plan of the amphitheater. Four domus have been excavated, three of which were left outside the wall built under the late empire.  It is in these houses, all built around peristyles, that we find the gardens of Conimbriga.
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 House of the Cantaber
@@ -80,7 +67,7 @@ The other garden area was slightly farther south and against the east wall of th
 <!--## Bibliography
 - Morand, I., La Maison aux jets d'eau de Conimbriga (Boccard, Paris, 2005). [(worldcat)](https://search.worldcat.org/title/255066311) -->
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="236443" term="Conimbriga" >}}
 

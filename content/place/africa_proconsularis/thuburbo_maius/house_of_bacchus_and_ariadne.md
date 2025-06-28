@@ -23,7 +23,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 - {{< id vocab="Pleiades" id="315220" term="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
-
 {{< image src="thuburbo_house_of_bacchus_and_ariadne.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
 
 ## Location Description
@@ -98,13 +97,9 @@ at Thuburbo Maius, Zaghouan, Tunisia" in *Sourcebook for Garden Archaeology, Mth
 * Malek, A.-A., "Le jardin au fil de l’eau : mises en scène paysagères dans les domus de Maghreb antique", in *L’eau dans les villes du Maghreb et leur territoire à l’époque romaine*, Brouquier-Reddé, V., Hurlet, F. (dir.), Bordeaux, Ausonius, 2018, pp. 235-254. [(worldcat)](https://search.worldcat.org/title/1078217356)
 
 
-
-## Pleiades_ID
+## Places
 
 - {{< id vocab="Pleiades" id="315220" term="Thuburbo Maius" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7001750" term="Kasba, Henchir el (deserted settlement)" >}}
 
 ## Contributor

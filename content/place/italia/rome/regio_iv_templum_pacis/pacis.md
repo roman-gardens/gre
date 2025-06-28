@@ -26,7 +26,6 @@ draft: true
 [Region IV Templum Pacis]({{<relref ".">}}) \
 
 
-
 ## Garden
 
 Garden of the Templum Pacis
@@ -56,7 +55,6 @@ Garden of the Templum Pacis
 - {{< keyword "planting beds" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "statues" >}}
-
 - [Aulus Gellius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.659)
 - [Aurelius Victor](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1469)
 - [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
@@ -104,12 +102,10 @@ at the edge of these structures might have belonged to the [attic](http://vocab.
 * E. A. Pollard, “Pliny’s Natural History and the Flavian Templum Pacis: Botanical imperialism in first-century Rome,” *Journal of World History* 20.3 (2009): 309–38. [(worldcat)](https://search.worldcat.org/title/47120664) | [(JSTOR)](https://www.jstor.org/stable/40542802)
 * P. L. Tucci, *The Temple of Peace in Rome*, Cambridge: Cambridge University Press, 2017. [(worldcat)](https://search.worldcat.org/title/1025338560)
 
-## Pleiades ID
+## Places
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-## TGN ID
 <!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
 <!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->

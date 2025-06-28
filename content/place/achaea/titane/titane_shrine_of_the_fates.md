@@ -89,7 +89,7 @@ unspecified (mentioned in the 2nd century CE)
 BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="570741" term="Titane" >}}
 

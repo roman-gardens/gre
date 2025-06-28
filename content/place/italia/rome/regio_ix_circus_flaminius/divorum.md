@@ -27,7 +27,6 @@ draft: false
 - {{< id vocab="Pleiades" id="422863" term="Campus Martius" >}}
 
 
-
 ## Garden
 
 Garden of the Divorum
@@ -71,7 +70,7 @@ From the northern *exedra*, a water [channel](http://vocab.getty.edu/page/aat/30
 * J. B. Ward-Perkins, *Roman Imperial Architecture*, Yale, 1981, pp. 20, 50-1, 74-5. [(worldcat)](https://search.worldcat.org/title/833150443)
 * A. Degrassi (ed.), *Inscriptiones Italiae XIII: Fasti et Elogia*, Rome, 1937. [(worldcat)](https://search.worldcat.org/title/769370170)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="423025" term="Roma" >}}
 <!-- Pleiades resource for Location (Rome), not for the individual garden -->

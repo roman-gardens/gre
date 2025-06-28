@@ -31,19 +31,6 @@ Herodium
 Herod the Great’s primary residence and burial place appears to have been this large palace complex 15 km southwest of Jerusalem.  Here his court was within easy reach of the city, and on clear days the palace and the Mt. of Olives are visible in both directions. Herodium was an entirely new administrative and residential complex, commemorating his military victory over Antigonus for control of Jerusalem in 40 BCE.  Herodium was begun c. 23-20 BC and offered a Herod a range of facilities in which he could perhaps live and conduct business more freely here than in Jerusalem. (Jewish Antiquities, XV, 323-325) The palace has two primary residential areas: the fortified palace atop a natural, but raised hilltop; and an unfortified palace that spans a gentle valley below. (Fig. 1)  (Josephus Jewish War I, 419-421; Jewish Antiquities, XV, 323-325).
 
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Royal Garden
@@ -85,12 +72,9 @@ The Palace Fortress is a cylindrical structure originally seven stories high (tw
 [worldcat](https://search.worldcat.org/title/907827917)
 * D. Langgut, M. Cavanagh , R. Evyasaf, Y. Korman, R. Porat, G. Stiebel., K. Gleason. "The reconstruction of Herod the Great’s palatial gardens in Herodium: a botanical perspective", In: Chachy R, Kalman Y, and Porat R (eds.), "Lower Herodium," in  HERODIUM II;  Final Reports of the 1972-2010 Excavations Directed by Ehud Netzer, Jerusalem. In press  
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="687916" term="Herodeion" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="8713913" term="Judean Desert (desert)" >}}
 
 ## Contributor

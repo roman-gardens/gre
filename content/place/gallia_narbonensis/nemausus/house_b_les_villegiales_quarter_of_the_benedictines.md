@@ -5,7 +5,7 @@ type: garden
 title: "House B, Les Villégiales, quarter of the Benedictines"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,14 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [House B, Les Villégiales, quarter of the Benedictines](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
 
 House B, Les Villégiales, quarter of the Benedictines
-
 
 
 ## Keywords
@@ -50,12 +42,6 @@ House B, Les Villégiales, quarter of the Benedictines
 - {{< keyword "reception rooms" >}}
 - {{< keyword "ditches" >}}
 - {{< keyword "water wells" >}}
-
-
-
-
-
-
 
 
 ## House Description
@@ -69,8 +55,6 @@ The site had not been disturbed, whence the good state of preservation of the po
 At the south of the garden there is a well which may have supplied the house before the connection to city water was installed; it could also have been used to water the garden. The absence of ceramic material in the ditches makes precise dating of them impossible, but the general context suggests a date in the first century A.D. for the establishment of the garden. A dump dug in the garden allows dating of one of the principal phases of occupation of the building to A.D. 60 to 90.
 
 
-
-
 ## Plans
 
 
@@ -79,12 +63,9 @@ At the south of the garden there is a well which may have supplied the house bef
 {{< image src="house_b_les_villegiales_quarter_of_the_benedictines_2.png" alt="Plan of House B, Les Villégiales, quarter of the Benedictines" title="Fig. 2 Plan of House B, Les Villégiales, quarter of the Benedictines" >}}
 
 
-
 ## Dates
 A.D. 1-100 Built
 A.D. 60-90 One of the principal phases of occupation
-
-
 
 
 ## Bibliography
@@ -97,18 +78,15 @@ A.D. 60-90 One of the principal phases of occupation
 
 4. Garmy, Pierre, and Martial Monteil. *Le Quartier Antique Des Bénédictins À Nîmes (gard): Découvertes Anciennes Et Fouilles, 1966-1992*. Paris: Editions de la Maison des sciences de l'homme, 2000, P. 74-90, P 173-181.[(worldcat)](https://search.worldcat.org/title/45421533)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7008371" term="Nîmes (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

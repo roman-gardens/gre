@@ -5,7 +5,7 @@ type: garden
 title: "Various oscilla"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,22 +26,12 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
-
-
-
 
 
 ## Keywords
@@ -58,30 +48,24 @@ These were discovered out of context or the location of the find is not known:
 - A rectangular *oscillum* with masks (15 by 22 cm). On one side, Ganymede gives drink to the eagle Jupiter; on the other, two theatrical masks.
 
 
-
 ## Plans
-
 
 
 ## Dates
 
 
-
 ## Bibliography
 1. J.L. Fiches, A. Veyrac, *Nîmes*, CAG, 30/1, 1996, P. 350, P. 512.
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7008371" term="Nîmes (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

@@ -14,9 +14,6 @@ draft: false
 
 - [Pompeii]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
@@ -47,18 +44,15 @@ B. The east [portico](http://vocab.getty.edu/page/aat/300004145) gave access to 
 -->
 
 
-
 ## Bibliography
 - Jashemski, W.F. 1979. *‘The Garden of Hercules at Pompeii’ (II.viii.6): The Discovery of a Commercial Flower Garden.*, American Journal of Archaeology, vol. 83, no. 4, pp. 403–411. [link](https://www.jstor.org/stable/504139. Accessed 2 Dec. 2020.)
 
 - Spinazzola, V. and Aurigemma, S. 1953. *Pompei Alla Luce Degli Scavi Nuovi Di Via Dell'abbondanza (anni 1910-1923),* Roma: Libreria dello Stato, map after p. 376 where this garden is labeled *hortus*.[worldcat](https://search.worldcat.org/title/905639908)
 
 
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="433204" term="Villa Tiberii" >}}
-
 
 
 ## Contributor

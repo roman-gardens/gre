@@ -22,16 +22,11 @@ An irrigation system based around the qanat, an underground water channel, was u
 - [Tyrus]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="678437" term="Tyrus" >}}
 
-<!--## Location Description-->
-
 ## Location Description
 Tyre, an ancient Phoenician port city (est. 2750 BCE), became part of the Roman Empire in 64 BCE.  It was legendary as the birthplace of the goddess Europa and queen Dido, founder of Carthage.  
 
 <!--## Sublocation-->
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Garden
 Tomb garden at Tyre
@@ -65,14 +60,10 @@ fourth century CE
 - M. H. Chéhab, *Fouilles de Tyr: La Necropole*. Paris: Bulletin du Musée de Beyrouth XXXIV (1984): 270-280. [(worldcat)](https://search.worldcat.org/title/490791677)
 - L. De Jong, “Performing Death in Tyre:  The Life and Afterlife of a Roman Cemetery in the Province of Syria. *AJA* 114.4 (Oct. 2010) pp. 597-630. [(jstor)](https://www.jstor.org/stable/25763804)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="678437" term="Tyrus/Col. Septimia Severa" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7030348" term="Syria (province)" >}}
-
-## Contributor
 
 ## Publication date
 

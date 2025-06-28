@@ -32,21 +32,6 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 
 - {{< id vocab="Pleiades" id="599593" term="DIDYMA (Didim, Turkey)" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Temple Grove of Apollo
 
@@ -89,14 +74,10 @@ Unspecified
 - B. Haussoullier, "le temple d'Apollon didymien" Revue de Philologie  22 (1898) 50-51.[(worldcat)](https://search.worldcat.org/title/1764078)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="599593" term="Didyma/Branchidai/Ioustinianopolis" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7002358" term="Caria (former nation/state/empire)" >}}
-
-## Contributor
 
 ## Publication date
 

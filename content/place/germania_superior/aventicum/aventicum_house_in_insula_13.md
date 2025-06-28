@@ -23,18 +23,6 @@ draft: true
 ## Location Description
 
 The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in AD 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around AD 260, and it was progressively abandoned thereafter.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 House in Insula 13 in Aventicum
@@ -84,16 +72,10 @@ Houses: Late 1st century - Middle of 3rd century
 * J. Morel, “L’habitat,” in : A. Hochuli-Gysel, ed., Avenches, capitale des Helvètes, Archéologie Suisse 24.1, 2001: 45-46, figs. 58, 60. [(worldcat)](https://search.worldcat.org/title/718693183)
 * M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 55, fig. 20. [(worldcat)](https://search.worldcat.org/title/1120840822)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="177495" term="Aventicum" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="6002235" term="Germania Superior (province)" >}}
-
-## Contributor
-
 
 ## Publication date
 

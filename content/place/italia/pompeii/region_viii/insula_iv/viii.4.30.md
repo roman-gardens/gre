@@ -33,7 +33,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "atriums" >}}
 
 
-
 ## Garden Description
 This tiny house with the small atrium and adjacent rooms had formerly been a porticoed garden, part of house 15 according to Fiorelli.
 
@@ -41,10 +40,8 @@ This tiny house with the small atrium and adjacent rooms had formerly been a por
 {{< image src="fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" title="Plan of Region VIII Insula IV" >}}
 
 
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="538911200" term="Regio VIII, Pompeii" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="2053030" term="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates

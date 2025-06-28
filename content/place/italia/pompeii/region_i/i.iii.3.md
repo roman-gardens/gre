@@ -55,10 +55,8 @@ B. The front of this house excavated in 1869 had an unusual design in that it wa
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, nos.16-21 [(worldcat)](https://search.worldcat.org/title/974375313)  
 
 
-## Pleiades ID
+## Places
 [Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
-
-## TGN ID
 - {{< id vocab="TGN" id="7004658" term="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

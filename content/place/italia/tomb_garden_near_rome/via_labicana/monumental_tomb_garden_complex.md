@@ -14,10 +14,6 @@ draft: true
 - {{< id vocab="Pleiades" id="74935822" term="Via Labicana" >}}
 - {{< id vocab="Pleiades" id="423338213" term="Monumental Tomb Garden Complex" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 Via Labicana
 
@@ -47,9 +43,6 @@ The plan has been dated as early as the Augustan age (by Huelsen, who favored De
 The Centocelle plan provides uniquely valuable, if ambiguous, evidence for the arrangement of the planting and the disposition of the monument within a Roman tomb garden (our other surviving plan of a tomb-garden complex [see Claudia Peloris] focuses on the internal articulation of the buildings), but it can hardly be considered typical: not only is the central monument of a form and type not found elsewhere in the region of Rome (the only known parallel is at Capua),  but the size of the plot dwarfs all others known in central Italy and is second in area only to the thirty-five iugera (almost twenty acres) of farm land dedicated by a  Roman knight at Parma to supporting his funerary celebrations (see C. Praeconius P.f. Ventilius Magnus). If the round dots do indeed represent trees and the stippled areas flower beds, the size of the area laid out primarily, it seems, for amenity (even if the trees bore fruit and the flowers produced garlands and perfume) is far larger than that of other attested funerary gardens in Italy that served primarily a decorative purpose. Productive funerary gardens of comparable and smaller area that we can identify elsewhere in Rome and Italy were normally equipped with work buildings (aedificia) and retail outlets (bars and shops, tabernae) (see vol. 2, XXX). The spaces on the plan flanking the courtyard and identified as storerooms could well have housed farming and gardening tools, but the footprint of the structure in the lower left corner seems ill-suited to the design of a tavern. More probably a collective monument (perhaps of a funerary collegium) than a familial tomb, the complex raises more questions than it resolves about the characteristic form and function of the Roman tomb garden (see no. XXX, funerary collegium of the Cocceii).
 
 
-
-
-
 ## Dates
 The plan was dated as early as the Augustan age, the scale and design seem more later in the frist or second century.
 
@@ -66,18 +59,9 @@ The plan was dated as early as the Augustan age, the scale and design seem more 
 [worldcat](https://search.worldcat.org/title/819281762)
 
 
-
-
-
-
-
-
-
-
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="423338213" term="Tomb Garden of Aur(elius) Inachus" >}}
-
 
 
 ## Contributor

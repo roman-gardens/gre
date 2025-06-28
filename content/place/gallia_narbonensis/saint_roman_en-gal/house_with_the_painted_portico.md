@@ -5,7 +5,7 @@ type: garden
 title: "House with the Painted Portico"
 date: 2020-10-05T23:06:02-24:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
+author: 
 editor: Yichen Liu
 draft: true
 ---
@@ -26,17 +26,10 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location Description
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
 [House with the Painted Portico](#)
 
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## House
 
@@ -50,10 +43,6 @@ House with the Painted Portico
 - {{< keyword "courtyards" >}}
 - {{< keyword "columns" >}}
 - apsed pools
-
-
-
-
 
 
 ## House Description
@@ -78,10 +67,7 @@ NEW WAY ↓↓↓↓
 {{< image src="house_with_the_painted_portico.png" alt="Plan of House with the Painted Portico" title="Plan of house with the painted portico" >}}
 
 
-
-
 ## Dates
-
 
 
 ## Bibliography
@@ -93,18 +79,15 @@ NEW WAY ↓↓↓↓
 3. *Recherches Archéologiques a Saint-Romain-En-Gal (1988 - 1990)*. Vienne, 1992, P. 45-83.[worldcat](hhttps://search.worldcat.org/title/1068996218)
 
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="981537" term="Narbonensis (province)" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7030317" term="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="5004109" term="Saint-Romain-en-Gal (inhabited place)" >}}
 
 ## Contributor
 
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
+[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
 ## Publication date

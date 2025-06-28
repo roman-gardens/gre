@@ -26,18 +26,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location Description
 Hadrumetum is located on the bay of Hammamet at the edge of the fertile region of Sahel from which it drew its wealth.  Choosing the side of Rome against Carthage during the Punic war, Hadrumetum was rewarded with the status of free town. Taking the side of Pompey, the city was heavily fined by Caesar after his victory at Thapsus. Nevertheless, the opulence of its houses adorned with luxurious mosaics testifies that the city experienced great economic development after its elevation to the status of colony, under Trajan.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 House of  Sorothus (Maison de Sorothus)
 
@@ -51,7 +39,6 @@ House of  Sorothus (Maison de Sorothus)
 
 ## Garden Description
 This very damaged house was laid out around a peristyle garden. A semi-circular and bisected basin was placed on the axis of the reception room (Plan view, Fig. 1). The small wall that enclosed the garden was painted with flowers.
-
 
 
 <!--## Maps
@@ -82,12 +69,8 @@ proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.[(worldcat)](https:/
 - Laporte, J.-P., Lavagne, H., "Sousse: La domus de Sorothus et ses mosaïques", in *Les sodalités africo-romaines*, Chaires internationales de recherche Blaise Pascale, Paris, 2006, p. 24-28, fig. 4.  [(worldcat)](https://search.worldcat.org/title/912914354)
 
 
-
-
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="324716" term="Hadrumetum/Iustinianopolis" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="7015312" term="Sousse (inhabited place)" >}}
 
 ## Contributor

@@ -24,18 +24,6 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location Description
 The important site Gigthis (50ha) largely excavated in the beginning of the last century by Constans was located on the opposite side of the Jerba Island, on the Gulf of Bou Grara. The remains of Gigthis stretches out along the foothills going down the coast in a fertile region known for its olive groves.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 Suburban Villa
 
@@ -54,7 +42,6 @@ This huge suburban villa incompletely excavated, was laid out around two peristy
 A large peristyle of twenty columns onto which rooms opened may have had a garden.
 
 On the south of the peristyle was another courtyard with a portico of three columns on the east and west sides. The courtyard may have been planted.
-
 
 
 <!--## Maps-->
@@ -82,11 +69,8 @@ unknown
 - Constans, L.-A., "Gigthis. Étude d'Histoire et d'Archéologie sur un Emporium de la Petite Syrte: avec 14 planches hors texte et 3 figures dans le texte", in *Extrait des Nouvelles Archives des Missions Scientifiques. 14° fasc*, pl.I, pp.100-103, Paris: Imprimerie Nationale, 1916.[(worldcat)](https://search.worldcat.org/title/8271308381) https://gallica.bnf.fr/ark:/12148/bpt6k74033b/f119.item.r=constans
 
 
-
-## Pleiades ID
+## Places
 - {{< id vocab="Pleiades" id="344380" term="Gigthis" >}}
-
-## TGN ID
 - {{< id vocab="TGN" id="5003665" term="Gigthi (deserted settlement)" >}}
 
 ## Contributor

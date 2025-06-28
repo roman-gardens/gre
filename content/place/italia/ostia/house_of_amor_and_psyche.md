@@ -106,12 +106,9 @@ unspecified
 * Giovanni Becatti, *Mosaici e pavimenti marmorei*, Scavi di Ostia IV, Rome, 1961. [(worldcat)](https://search.worldcat.org/title/630825752)
 * E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 93-97. [(worldcat)](https://search.worldcat.org/title/1130900997)
 
-## Pleiades ID
+## Places
 
 - {{< id vocab="Pleiades" id="868515126" term="House of Amor and Psyche" >}}
-
-## TGN ID
-
 - {{< id vocab="TGN" id="7007018" term="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
