@@ -15,9 +15,6 @@ draft: true
 [Sagunto]({{<relref "../../../..">}})
 - {{< id vocab="Pleiades" id="266020" term="Sagunto" >}}
 
-<!--## Province Description-->
-
-
 ## Location
 
 - [Saguntum]({{<relref ".">}}) 

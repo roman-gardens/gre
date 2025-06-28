@@ -10,11 +10,6 @@ date: 2020-07-14T17:06:21-04:00
 draft: true
 ---
 
-<!--## Province Description-->
-
-<!-- DESCRIPTION -->
-
-
 ## Location
 
 - [Salona]({{<relref ".">}}) 

@@ -10,18 +10,11 @@ date: 2021-04-21
 draft: true
 ---
 
-<!--## Province Description-->
-
-<!-- DESCRIPTION -->
-
-
 ## Location
 
 - [Scarbantia]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="197501" term="Scarbantia" >}}
 
-
-<!--## Location Description-->
 
 ## Garden
 

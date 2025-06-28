@@ -21,12 +21,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 - [Epidauros]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="570228" term="Epidauros" >}}
 
-<!--## Location Description
-
-## Sublocation
-
-## Sublocation Description-->
-
 ## Garden
 
 Sanctuary of Hyernetho

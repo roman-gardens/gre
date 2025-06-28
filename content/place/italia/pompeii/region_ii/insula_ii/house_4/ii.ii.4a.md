@@ -14,9 +14,6 @@ draft: false
 - [Pompeii]({{<relref "../../..">}}) 
 - {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
 
-<!--## Location Description-->
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 - [Region II]({{<relref "../..">}}) 
 - {{< id vocab="Pleiades" id="456321707" term="Region II" >}}

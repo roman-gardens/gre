@@ -21,18 +21,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 - [Titane]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="570741" term="Titane" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW
-
-## Sublocation
-
-located above the acropolis
-
-## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Shrine of the Fates

@@ -15,9 +15,6 @@ draft: true
 [Palencia]({{<relref "../../../..">}})
 - {{< id vocab="Pleiades" id="236591" term="Palencia" >}}
 
-<!--## Province Description-->
-
-
 ## Location
 
 - [PEDROSA DE LA VEGA]({{<relref ".">}}) 

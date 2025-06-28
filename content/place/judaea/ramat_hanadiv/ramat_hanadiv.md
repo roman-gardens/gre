@@ -27,7 +27,7 @@ This geography of Judaea comprises a wide variety of biomes, from richly watered
 - {{< id vocab="Pleiades" id="678357" term="Ramat Hanadiv(Pleiades)" >}}
 
 <!--## Location Description
-
+TODO: Is this garden description really supposed to be commented out?
 
 ## Garden
 

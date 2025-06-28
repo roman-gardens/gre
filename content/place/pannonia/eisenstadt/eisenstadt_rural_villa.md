@@ -10,18 +10,11 @@ date: 2021-04-21
 draft: true
 ---
 
-<!--## Province Description-->
-
-<!-- DESCRIPTION -->
-
-
 ## Location
 
 - [Eisenstadt]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="197425" term="Eisenstadt" >}}
 
-
-<!--## Location Description-->
 
 ## Garden
 

@@ -15,9 +15,6 @@ draft: true
 [Soria]({{<relref "../../../..">}})
 - {{< id vocab="Pleiades" id="694916885" term="Soria" >}}
 
-<!--## Province Description-->
-
-
 ## Location
 
 - [Rioseco Di Soria]({{<relref ".">}}) 

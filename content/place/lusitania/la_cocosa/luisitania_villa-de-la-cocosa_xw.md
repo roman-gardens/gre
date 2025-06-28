@@ -24,9 +24,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 - [La Cocosa]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256109" term="La Cocosa" >}}
 
-<!--## Location Description-->
-
-
 ## Garden
 Villa de La Cocosa
 

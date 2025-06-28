@@ -6,15 +6,10 @@ title: "House in the Rue du Palais de Justice in Vesontio"
 latlon: [ 47.23369, 6.03039 ]
 author: Claudine Munier, Christophe Gaston, Maureen Carroll
 editor: June Dorsch
-translator: C.A.
+translator: Clopper Almon
 date: 2021-04-21
 draft: true
 ---
-
-<!--## Province Description-->
-
-<!-- DESCRIPTION -->
-
 
 ## Location
 

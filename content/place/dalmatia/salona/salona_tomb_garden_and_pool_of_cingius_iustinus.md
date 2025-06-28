@@ -11,11 +11,6 @@ lead: A rock cut inscription at Salonae ...
 draft: true
 ---
 
-<!--## Province Description-->
-
-<!-- DESCRIPTION -->
-
-
 ## Location
 
 - [Salona]({{<relref ".">}}) 

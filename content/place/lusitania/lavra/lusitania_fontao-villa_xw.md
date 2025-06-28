@@ -24,9 +24,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 - [Lavra]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="532133456" term="Lavra" >}}
 
-<!--## Location Description-->
-
-
 ## Garden
 Fontao Villa
 

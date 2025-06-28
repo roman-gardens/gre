@@ -21,18 +21,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 - [Megalopolis]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="570467" term="Megalopolis" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW
-
-## Sublocation
-
-[The Agora of Megalopolis](#)
-
-<!--## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Sanctuary of Zeus Philios

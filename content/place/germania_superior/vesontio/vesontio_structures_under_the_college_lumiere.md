@@ -11,11 +11,6 @@ date: 2021-04-21
 draft: true
 ---
 
-<!--## Province Description-->
-
-<!-- DESCRIPTION -->
-
-
 ## Location
 
 - [Vesontio]({{<relref ".">}}) 

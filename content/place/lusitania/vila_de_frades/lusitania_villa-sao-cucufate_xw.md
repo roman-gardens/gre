@@ -24,9 +24,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 - [Vila de Frades]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256422" term="OS. Cucufate" >}}
 
-<!--## Location Description-->
-
-
 ## Garden
 Villa Sao Cucufate
 

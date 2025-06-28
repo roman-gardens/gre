@@ -21,18 +21,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 - [Sicyon]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="570668" term="Sicyon" >}}
 
-<!--## Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW
-
-## Sublocation
-
-located above the acropolis
-
-## Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 Sanctuary of Demeter and Persephone

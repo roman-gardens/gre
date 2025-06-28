@@ -24,9 +24,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 - [Monforte]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256478" term="Torre de Palma" >}}
 
-<!--## Location Description-->
-
-
 ## Garden
 Villa de Torre de Palma
 

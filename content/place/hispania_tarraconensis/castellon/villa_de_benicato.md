@@ -15,16 +15,10 @@ draft: true
 [Castellón]({{<relref "../../../..">}})
 - {{< id vocab="Pleiades" id="432947" term="Monte Castellone 2" >}}
 
-<!--## Province Description-->
-
-
 ## Location
 
 - [Nules]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="266010" term="Pujol de Benicató" >}}
-
-<!--## Location Description-->
-
 
 ## Garden
 Villa de Benicató

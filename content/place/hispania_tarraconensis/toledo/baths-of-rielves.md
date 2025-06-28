@@ -15,9 +15,6 @@ draft: true
 [Toledo]({{<relref "../../../..">}})
 - {{< id vocab="Pleiades" id="266066" term="Toletum" >}}
 
-<!--## Province Description-->
-
-
 ## Location
 
 - [Rielves]({{<relref ".">}}) 

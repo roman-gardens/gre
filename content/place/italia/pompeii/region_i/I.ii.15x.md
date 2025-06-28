@@ -15,11 +15,6 @@ draft: true
 This appears to be a duplicate of [id/01eee45763](/id/01eee45763)
 -KGJ
 
-<!--## Province Description-->
-
-<!-- DESCRIPTION -->
-
-
 ## Location
 
 - [Pompeii]({{<relref "../../..">}}) 

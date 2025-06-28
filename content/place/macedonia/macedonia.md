@@ -15,9 +15,6 @@ draft: true
 
 <!--## Province Description-->
 
-<!-- DESCRIPTION -->
-
-
 ## Garden
 <!-- List of gardens in province -->
 <!-- May be left blank for now -->

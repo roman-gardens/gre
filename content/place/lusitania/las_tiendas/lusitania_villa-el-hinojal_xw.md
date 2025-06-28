@@ -24,9 +24,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 - [Las Tiendas]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="213630148" term="Las Tiendas" >}}
 
-<!--## Location Description-->
-
-
 ## Garden
 Villa el Hinojal
 

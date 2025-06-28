@@ -15,11 +15,6 @@ draft: true
 
 - [Italia]({{<relref "../..">}}) 
 - {{< id vocab="Pleiades" id="1052" term="Italia" >}}
-<!--## Province Description-->
-
-<!-- DESCRIPTION -->
-
-
 ## Location
 
 - [Herculaneum]({{<relref "..">}}) 
