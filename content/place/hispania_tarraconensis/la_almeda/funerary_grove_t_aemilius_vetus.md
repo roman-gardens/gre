@@ -43,7 +43,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 - [La Almeda]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="723036345" term="LA Almeda" >}}
 
 ## Garden
 Funerary grove of T. Aemilius Vetus
@@ -62,7 +61,7 @@ Unspecified
 - L. Chioffi, *Sui luci sepolcrali*, in Libitina e dintorni, edited by S. Panciera (Rome 2004) n.  9. [(worldcat)](https://search.worldcat.org/title/849004166)
 
 ## Places
-<!-- {{< id vocab="Pleiades" id="723036345" term="723036345" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="521700444" term="Villa del Cortijo de los Vila at Alameda" >}} is invalid -->
 
 
 ## Contributor

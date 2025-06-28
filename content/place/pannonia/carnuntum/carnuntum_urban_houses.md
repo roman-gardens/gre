@@ -10,11 +10,6 @@ date: 2021-04-21
 draft: true
 ---
 
-## Location
-
-- [Carnuntum]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="128376" term="Carnuntum" >}}
-
 ## Location Description
 
 The town of Carnuntum on the Danube River, like Aquincum, was promoted to colonial status in 194 A.D., after having been a *municipium*. Excavations in the modern zoological garden have revealed part of the town plan and its residential district.
@@ -55,7 +50,7 @@ unspecified
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="128376" term="128376" >}} is invalid -->
+- {{< id vocab="Pleiades" id="128384" term="Col. Carnuntum" >}}
 - {{< id vocab="TGN" id="7032538" term="Carnuntum (deserted settlement)" >}}
 
 ## Publication date

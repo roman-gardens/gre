@@ -42,8 +42,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 
-- [Villa Fortunatus]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="907088811" term="Villa Fortunatus" >}}
+- [Villa Fortunatus]({{<relref ".">}})
 
 
 ## Location Description
@@ -86,14 +85,6 @@ Unspecific
 
 
 ## Places
-<!-- {{< id vocab="Pleiades" id="907088811" term="907088811" >}} is invalid -->
+
+- {{< id vocab="Pleiades" id="250021" term="Villa Fortunatus" >}}
 - {{< id vocab="TGN" id="7027125" term="Clunia (deserted settlement)" >}}
-
-
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

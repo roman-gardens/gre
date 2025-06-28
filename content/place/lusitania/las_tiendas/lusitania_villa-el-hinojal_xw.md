@@ -22,7 +22,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 - [Las Tiendas]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="213630148" term="Las Tiendas" >}}
 
 ## Garden
 Villa el Hinojal
@@ -66,7 +65,7 @@ The house appears to have been built at the end of the third or beginning of the
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="213630148" term="213630148" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="213630148" term="Las Tiendas" >}} is invalid -->
 
 ## Publication date
 

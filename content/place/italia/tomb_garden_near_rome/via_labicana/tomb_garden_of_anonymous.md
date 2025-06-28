@@ -4,7 +4,7 @@ aliases: [/id/289bfad426]
 type: garden
 title: "Tomb Garden of Anonymous"
 latlon: [ 0, 0 ]
-author:
+author: John Bodel
 editor: Yuyao Liu
 date: 2021-04-21
 draft: true
@@ -12,7 +12,6 @@ draft: true
 
 ## Location
 - {{< id vocab="Pleiades" id="74935822" term="Via Labicana" >}}
-- {{< id vocab="Pleiades" id="60995119" term="Tomb Garden of Anonymous" >}}
 
 ## Sublocation
 Via Labicana
@@ -44,15 +43,4 @@ Unspecified
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="60995119" term="60995119" >}} is invalid -->
-
-
-## Contributor
-John Bodel
-
-
-## Publication date
-21 Apr 2021
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->
+<!-- {{< id vocab="Pleiades" id="60995119" term="Tomb Garden of Anonymous" >}} is invalid -->

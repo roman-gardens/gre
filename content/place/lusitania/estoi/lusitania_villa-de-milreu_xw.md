@@ -22,7 +22,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 - [Estoi]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="854718547" term="Estoi" >}}
 
 ## Garden
 Villa de Milreu
@@ -66,12 +65,5 @@ The archaeologists working on the site have not produced a detailed sequence of 
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="854718547" term="854718547" >}} is invalid -->
-
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->
+<!-- {{< id vocab="Pleiades" id="854718547" term="Estoi" >}} is invalid -->
+- {{< id vocab="Pleiades" id="256299" term="Milreu" >}}

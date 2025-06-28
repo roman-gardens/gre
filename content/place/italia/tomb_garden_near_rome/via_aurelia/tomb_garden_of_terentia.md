@@ -12,7 +12,6 @@ draft: true
 
 ## Location
 - {{< id vocab="Pleiades" id="174900201" term="Via Aurelia" >}}
-- {{< id vocab="Pleiades" id="283772837" term="Tomb Garden of C. Nonius Minyas" >}}
 
 ## Sublocation
 Via Aurelia
@@ -41,7 +40,7 @@ A fragmentary (and probably reused) epitaph, probably of the first or second cen
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="283772837" term="283772837" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="283772837" term="Tomb Garden of C. Nonius Minyas" >}} is invalid -->
 
 
 ## Contributor

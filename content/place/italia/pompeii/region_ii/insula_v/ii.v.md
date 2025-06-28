@@ -10,30 +10,8 @@ date: 2021-04-21
 draft: false
 ---
 
-## Location
-
-- [Pompeii]({{<relref "../../..">}}) 
-- {{< id vocab="Pleiades" id="433032" term="Pompeii" >}}
-## Sublocation
-[Region II]({{<relref "../..">}})
-
-## Insula
-[Insula V]({{<relref "..">}})
-
-## House
-- {{< id vocab="Pleiades" id="444848573" term="Large Vineyard" >}}
-
-
-## Garden
-Large vineyard
-
-## Keywords
-- {{< keyword "amphitheaters" >}}
-- {{< keyword "trellises" >}}
-- {{< keyword "triclinia (couches)" >}}
-- {{< keyword "vineyards" >}}
-- {{< keyword "dolia" >}}
-
+## Dates
+Excavated 1755, 1814 and between 1912 and 1972.
 
 ## Garden Description
 Located north of the amphitheater, this site was initially identified as the Foro Boario or Cattle Market.  A small amount of excavation was started in 1755, but in 1814 the entrance and south wall were excavated. Most of the excavation was completed in the 1950s, except the northeastern section. In 1966, Jashemski undertook preliminary sub-soil excavations and proved that the area had been under cultivation. Work continued through 1968 and 1970 removing some undisturbed lapilli and consequently 2,014 vine root cavities were recorded with an equal number of stakes in that section. It was noted that ninety percent of the root cavities had a diameter ranging from 2 to 5.5 cm with the average being just under 4 cm. The total range of size was from 1 cm to 8.5 cm. The vines were spaced four Roman feet apart, trained on a rectangular framed trellis (*vitus compluviata*) and each vine had three or four depressions for watering at the base. Also discovered were two well preserved examples of propagation by layering.
@@ -123,8 +101,13 @@ The entrance directly across from the amphitheater was designed to be an archite
 
 {{< image src="Fig. 60 II.v. 18.3.70.jpg" alt="the excavation" title="the excavation ">}}-->
 
-## Dates
-Excavated 1755, 1814 and between 1912 and 1972.
+## Keywords
+- {{< keyword "amphitheaters" >}}
+- {{< keyword "trellises" >}}
+- {{< keyword "triclinia (couches)" >}}
+- {{< keyword "vineyards" >}}
+- {{< keyword "dolia" >}}
+
 
 ## Bibliography
 - *Giornale di scavo sistematico eseguito nell’area del Foro Boario da 1º Decembre, 1954 al 31 Maggio 1955* (unpublished);
@@ -149,17 +132,4 @@ Excavated 1755, 1814 and between 1912 and 1972.
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="444848573" term="444848573" >}} is invalid -->
-
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->
+<!-- {{< id vocab="Pleiades" id="444848573" term="Large Vineyard" >}} is invalid -->

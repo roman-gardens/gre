@@ -29,8 +29,7 @@ draft: false
 
 ## Garden
 
-Garden of the Thermae Agrippae \
-- {{< id vocab="Pleiades" id="22073979" term="Thermae Agrippae" >}}
+Garden of the Thermae Agrippae
 
 ## Keywords
 
@@ -84,4 +83,4 @@ The *Thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](http://data.perseus
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="22073979" term="22073979" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="22073979" term="Thermae Agrippae" >}} is invalid -->

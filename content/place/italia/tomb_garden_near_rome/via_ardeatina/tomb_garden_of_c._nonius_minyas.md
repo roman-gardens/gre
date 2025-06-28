@@ -12,7 +12,6 @@ draft: true
 
 ## Location
 - {{< id vocab="Pleiades" id="587835546" term="Via Ardeatina" >}}
-- {{< id vocab="Pleiades" id="195817642" term="Tomb Garden of C. Nonius Minyas" >}}
 
 ## Sublocation
 Via Ardeatina
@@ -50,7 +49,7 @@ late first or second century
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="195817642" term="195817642" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="195817642" term="Tomb Garden of C. Nonius Minyas" >}} is invalid -->
 
 
 ## Contributor

@@ -12,7 +12,6 @@ draft: true
 
 ## Location
 - {{< id vocab="Pleiades" id="74935822" term="Via Labicana" >}}
-- {{< id vocab="Pleiades" id="229438405" term="Tomb Garden of a Funerary Collegium" >}}
 
 ## Sublocation
 Via Labicana
@@ -54,7 +53,7 @@ The inscription concludes with eight hexameters urging readers to recognize in t
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="229438405" term="229438405" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="229438405" term="Tomb Garden of a Funerary Collegium" >}} is invalid -->
 
 
 ## Contributor

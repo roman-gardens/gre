@@ -11,8 +11,7 @@ draft: true
 ---
 
 ## Location
-- {{< id vocab="Pleiades" id="587835546" term="Via Ardeatina" >}}
-- {{< id vocab="Pleiades" id="390400921" term="Tomb Garden of M. Aurel(ius) Alexander" >}}
+- {{< id vocab="Pleiades" id="587835546" term="Via Ardeatina" >}}>}}
 
 ## Sublocation
 Via Ardeatina
@@ -46,7 +45,7 @@ late second or early third century
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="390400921" term="390400921" >}} is invalid -->
+<!-- {{< id vocab="Pleiades" id="390400921" term="Tomb Garden of M. Aurel(ius) Alexander"  is invalid -->
 
 
 ## Contributor

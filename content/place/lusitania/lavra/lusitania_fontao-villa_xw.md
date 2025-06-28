@@ -22,7 +22,6 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 ## Location
 
 - [Lavra]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="532133456" term="Lavra" >}}
 
 ## Garden
 Fontao Villa
@@ -62,12 +61,4 @@ The remains of a large villa were discovered in 1900 under an abandoned Benedict
 
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="532133456" term="532133456" >}} is invalid -->
-
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->
+<!-- {{< id vocab="Pleiades" id="532133456" term="Lavra" >}} is invalid -->

@@ -3,7 +3,7 @@ gre_id: "65ffcfe9e6"
 aliases: [/id/65ffcfe9e6]
 type: garden
 title: "Villa Dehesa de Soria"
-latlon: [ 0, 0 ]
+latlon: [ 41.669224, -2.620865 ]
 author: 
 editor: Qianli Jiang
 date: 2021-04-21
@@ -32,7 +32,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 ## Location
 - [Villa Dehesa de Soria]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="667996380" term="Villa Dehesa de Soria(Pleiades)" >}}
 
 ## Garden
 Villa Dehesa de Soria
@@ -62,7 +61,8 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 
 
 ## Places
-<!-- {{< id vocab="Pleiades" id="667996380" term="667996380" >}} is invalid -->
+
+- {{< id vocab="Pleiades" id="246361" term="Cuevas de Soria" >}}
 - {{< id vocab="TGN" id="7027125" term="Clunia (deserted settlement)" >}}
 
 ## Contributor
