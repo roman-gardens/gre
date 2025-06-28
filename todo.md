@@ -132,7 +132,9 @@
 
 
 
+# Documentation
 
+- snippets for shortcodes! id, image, keyword (type and then press CTRL-SPACE)
 
 # Province pages
 - [ ] review which sections should be retained in province pages (and also for gardens...)
@@ -149,6 +151,11 @@
 - keywords like lucus, stagnum, textrina that are not proper AAT terms
 - "literary gardens" keyword okay, but do we really need "archaeological gardens"? (currently commented out in the relatively few articles that have it, but nearly all the gardens are arch.)
 - exedrae (AAT, indoor vs outdoor)
+- linking words within paragraphs -- is this necessary?  too much?  consistent?
+- listing pleiades authors as contributors to GRE? Example: https://roman-gardens.github.io/test-drafts/place/italia/region_x/tergeste/villa_of_the_bath/#contributor (doing so makes it look like they helped write the garden article)
+
+
+
 
 # User forks
 

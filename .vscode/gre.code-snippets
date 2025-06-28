@@ -1,0 +1,31 @@
+{
+	// Place your gre-roman-gardens workspace snippets here.
+	
+	"GRE id shortcode": {
+		"scope": "markdown",
+		"prefix": "id",
+		"body": [
+			"- {{< id vocab=\"$1\" id=\"$2\" term=\"$3\" >}}",
+			"$0"
+		],
+		"description": "GRE id shortcode"
+	},
+	"GRE image shortcode": {
+		"scope": "markdown",
+		"prefix": "image",
+		"body": [
+			"{{< image src=\"${1:filename.jpg}\" alt=\"${2:alt text here}\" title=\"${3:caption}\" >}}",
+			"$0"
+		],
+		"description": "GRE image shortcode"
+	}
+	"GRE keyword shortcode": {
+		"scope": "markdown",
+		"prefix": "keyword",
+		"body": [
+			"- {{< keyword \"$1\" >}}",
+			"$0"
+		],
+		"description": "GRE keyword shortcode"
+	},
+}
