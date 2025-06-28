@@ -58,9 +58,12 @@ NEW WAY ↓↓↓↓
 -->
 
 ## Plans
-{{< image src="H_3_3-17.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
+{{< image src="h_3_3-17.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
 
+<!--
+Image not yet in gre-images
 {{< image src="H_3_1-2_18-19.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
+-->
 
 
 ## Images
@@ -88,7 +91,7 @@ unspecified
 - Maiuri, *Herculaneum*, pp. 26-27 [(worldcat)](https://search.worldcat.org/title/1107784297)
 - Trotter, *“Identificazione di un tronco d’albero carbonizzato rinvenuto nei recenti scavi di Ercolano,” Annali del Regio Instituto Superiore Agrario di Portici*, ser. 3, vol. 5 (1932), pp. 1-6 and pls. 1, 2 [(worldcat)](https://search.worldcat.org/title/865565447)
 - Trotter, *Ercolano*, pp. 51, 330-331 and fig. 258 (plan) on p. 474-475
-*(for reference to Bonucci’s brief and inaccurate account of the excavation of this house, as preserved by Ruggerio)* [(worldcat)]()
+*(for reference to Bonucci’s brief and inaccurate account of the excavation of this house, as preserved by Ruggerio)* [(worldcat)](#)
 
 
 ## Contributor

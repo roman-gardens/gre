@@ -33,8 +33,8 @@ Sanctuary of Zeus
 - {{< keyword "archaeobotany" >}}
 - {{< keyword "cypress" >}}
 - [cypresses (Cupressaceae)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126767-1)
-- pits (earthworks)](http://vocab.getty.edu/page/aat/300008027)
-- sacred groves](http://vocab.getty.edu/page/aat/300251876)
+- {{< keyword "pits" >}}
+- {{< keyword "sacred groves" >}}
 
 ## Garden Description
 

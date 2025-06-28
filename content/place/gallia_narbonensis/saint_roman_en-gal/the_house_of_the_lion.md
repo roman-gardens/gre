@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [saint-roman-en-gal]({{<relref ".">}}) \
-[saint-roman-en-gal (Pleiades)]()
+[saint-roman-en-gal (Pleiades)](#)
 
 ## Location Description
 

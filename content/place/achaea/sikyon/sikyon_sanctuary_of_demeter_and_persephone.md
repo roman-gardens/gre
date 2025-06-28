@@ -29,7 +29,7 @@ Sanctuary of Demeter and Persephone
 
 - {{< keyword "literary gardens" >}}
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
-- sacred groves](http://vocab.getty.edu/page/aat/300251876)
+- {{< keyword "sacred groves" >}}
 
 ## Garden Description
 

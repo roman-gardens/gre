@@ -46,7 +46,6 @@ In the necropolis of Carmona, near Seville, is a very large and deep tomb create
 
 ## Images
 
-
 {{< image src="7-carmona-plan.png" alt="Figure 7 – Plan of the Elephant tomb at the necropolis of Carmona near Seville. (Rights Statement)" >}}
 
 {{< image src="8-reconstruction-of-the-tomb.jpg" alt="Figure 8 – Aerial view reconstruction of the tomb. (Rights Statement)" >}}
@@ -58,19 +57,13 @@ In the necropolis of Carmona, near Seville, is a very large and deep tomb create
 
 unspecified
 
+
 ## Bibliography
+
 * Vaquerizo Gil, Desiderio, *Necroìpolis urbanas en Baetica*, Tarragona 2010).[(worldcat)](https://search.worldcat.org/title/929776098)
 
 
 ## Places
+
 - [Elephant tomb at Carmona]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="521700443" term="Elephant tomb at Carmona" >}}
-<!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
-
-## Contributor
-[Eugenia Salza Prina Ricotti]
-
-
-## Publication date
-
-21 Apr 2021

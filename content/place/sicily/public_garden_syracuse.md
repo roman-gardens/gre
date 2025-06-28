@@ -59,7 +59,7 @@ In the Roman period, the clearest evidence for the presence of a formal garden i
 
 G. V. Gentili, Notizie degli Scavi 1954, pp. 333–61 [(worldcat)](https://cornell.on.worldcat.org/oclc/1646037);
 
-R. J. A. Wilson, Archaeological Reports 34 (1987–88):  115, fig. 6 [(worldcat)]()
+R. J. A. Wilson, Archaeological Reports 34 (1987–88):  115, fig. 6 [(worldcat)](#)
 
 id., Sicily under the Roman Empire, Warminster, 1990, pp. 197–8  with fig. 165.1. [(worldcat)](https://search.worldcat.org/title/608028740)
 

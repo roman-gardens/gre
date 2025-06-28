@@ -67,16 +67,8 @@ unspecified
 ## Places
 
 - {{< id vocab="Pleiades" id="187578" term="Tergeste" >}}
-
-[Trieste (inhabited place)](hhttp://vocab.getty.edu/page/tgn/7005539)
+- {{< id vocab="TGN" id="7005539" term="Trieste (inhabited place)" >}}
 
 ## Contributor
 
 [Brady Kiesling](https://pleiades.stoa.org/author/bkiesling)
-
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

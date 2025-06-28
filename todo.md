@@ -153,6 +153,7 @@
 - exedrae (AAT, indoor vs outdoor)
 - linking words within paragraphs -- is this necessary?  too much?  consistent?
 - listing pleiades authors as contributors to GRE? Example: https://roman-gardens.github.io/test-drafts/place/italia/region_x/tergeste/villa_of_the_bath/#contributor (doing so makes it look like they helped write the garden article)
+- translator in frontmatter (2 gardens)
 
 
 

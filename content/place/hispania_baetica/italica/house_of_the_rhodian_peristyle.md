@@ -30,8 +30,7 @@ House of the Rhodian Peristyle
 - {{< keyword "courtyards" >}}
 - {{< keyword "mosaics" >}}
 - {{< keyword "peristyles" >}}
-<!-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)-->
-
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 

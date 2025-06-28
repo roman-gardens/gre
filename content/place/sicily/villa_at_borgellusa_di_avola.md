@@ -55,7 +55,7 @@ There is a four meter square basin located in the middle of the space enclosed b
 ## Bibliography
 G. M. Bacci, Scavi e ricerche a Avola, Grammichele, Portopalo, Taormina, Kokalos 30–31 (1984–85):  711–13 [(worldcat)](https://search.worldcat.org/title/186378054);
 
-R. J. A. Wilson, Archaeological Reports 34 (1987–88):  115, fig. 6 [(worldcat)]()
+R. J. A. Wilson, Archaeological Reports 34 (1987–88):  115, fig. 6 [(worldcat)](#)
 id., Sicily under the Roman Empire, Warminster, 1990, pp. 197–8  with fig. 165.1. [(worldcat)](https://search.worldcat.org/title/608028740)
 
 ## Places

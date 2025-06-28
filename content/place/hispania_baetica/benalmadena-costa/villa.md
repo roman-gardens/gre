@@ -59,9 +59,3 @@ unspecified
 ## Places
 - [Benalroma]{{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="510567671" term="Benalroma" >}}
-<!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
-
-
-## Publication date
-
-21 Apr 2021

@@ -32,8 +32,7 @@ House of the Birds
 - {{< keyword "mosaics" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "vestibules" >}}
-<!-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)-->
-
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 

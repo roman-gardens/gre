@@ -81,8 +81,3 @@ unspecified
 ## Places
 
 - {{< id vocab="Pleiades" id="540898" term="Kyrtones" >}}
-
-<!--## TGN ID-->
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
-
-<!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->

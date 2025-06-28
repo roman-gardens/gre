@@ -6,7 +6,7 @@ title: "Pacis"
 latlon: [ 0, 0 ]
 author:  Elizabeth Macaulay
 editor: Rhiannon Paré
-date: 2021-06-30T14:08:18+02:00
+date: 2021-07-01
 draft: true
 ---
 
@@ -102,22 +102,9 @@ at the edge of these structures might have belonged to the [attic](http://vocab.
 * E. A. Pollard, “Pliny’s Natural History and the Flavian Templum Pacis: Botanical imperialism in first-century Rome,” *Journal of World History* 20.3 (2009): 309–38. [(worldcat)](https://search.worldcat.org/title/47120664) | [(JSTOR)](https://www.jstor.org/stable/40542802)
 * P. L. Tucci, *The Temple of Peace in Rome*, Cambridge: Cambridge University Press, 2017. [(worldcat)](https://search.worldcat.org/title/1025338560)
 
+<!--
 ## Places
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
 
-<!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
+- {{< id vocab="Pleiades" id="" term="" >}}
 
-<!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
-
-## Contributor
-
-Elizabeth Macaulay
-
-## ORCID
-
-[Elizabeth Macaulay (0000-0002-4551-7631)](https://orcid.org/0000-0002-4551-7631)
-## Publication date
-<!-- Format: dd MONTH_NAME yyyy -->
-1 JULY 2021
-<!-- DATE -->
+-->

@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [saint-roman-en-gal]({{<relref ".">}}) \
-[saint-roman-en-gal (Pleiades)]()
+[saint-roman-en-gal (Pleiades)](#)
 
 ## Location Description
 
@@ -42,7 +42,7 @@ House of the Columns
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "reception rooms" >}}
-- [apsed pools]()
+- [apsed pools](#)
 - {{< keyword "fountains" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "nymphaea" >}}

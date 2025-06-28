@@ -33,8 +33,7 @@ House of Hylas
 - {{< keyword "nymphs" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "reception rooms" >}}
-<!-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)-->
-
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
 

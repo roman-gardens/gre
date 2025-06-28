@@ -26,8 +26,8 @@ House of the Mithra
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "peristyles" >}}
-<!-- [Doric order]-->
-<!-- [triclinium]-->
+- {{< keyword "Doric order" >}}
+<!-- triclinia -- should this be couches or rooms??? -->
 
 ## Garden Description
 

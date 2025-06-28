@@ -50,9 +50,10 @@ C. The north [peristyle](http://vocab.getty.edu/page/aat/300080971) garden belon
 
 <!--## Images
 
-{{<figure src="content/province/italia/pompeii/region_i/images/Fig.9_I.iv.5,25_20.4.66.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).">}}
+{{< image src="content/province/italia/pompeii/region_i/images/Fig.9_I.iv.5,25_20.4.66.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).">}}
 
-{{<figure src="content/province/italia/pompeii/region_i/images/I.iv.5_64.25.57.jpg" alt="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." title="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8 (Rights Statement).">}}-->
+{{< image src="content/province/italia/pompeii/region_i/images/I.iv.5_64.25.57.jpg" alt="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8." title="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, “*Topografia*,” pl.8 (Rights Statement).">}}
+-->
 
 
 ## Bibliography

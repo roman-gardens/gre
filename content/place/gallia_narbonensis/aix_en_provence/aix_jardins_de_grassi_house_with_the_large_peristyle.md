@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Location
 
 [aix-en-provence]({{<relref ".">}}) \
-[aix-en-provence (Pleiades)]()
+[aix-en-provence (Pleiades)](#)
 
 ## Location Description
 

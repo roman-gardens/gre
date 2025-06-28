@@ -55,16 +55,3 @@ Late first century CE
 ## Places
 
 - {{< id vocab="Pleiades" id="109193" term="Neerhaaren-Rekem" >}}  
-
-<!--## TGN ID-->
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
-
-<!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
-
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

@@ -70,8 +70,3 @@ From the 2nd century CE until 400 CE
 ## Places
 
 - {{< id vocab="Pleiades" id="570241" term="Eua?" >}}
-
-<!--## TGN ID-->
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
-
-<!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->

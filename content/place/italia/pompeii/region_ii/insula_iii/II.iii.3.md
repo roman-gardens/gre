@@ -53,9 +53,6 @@ A sublocation is any area larger than an individual garden, but located within a
 -->
 
 ## Places
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
-
-<!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-<!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
-
-<!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
+<!--
+- {{< id vocab="" id="" term="" >}}
+-->

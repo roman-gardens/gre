@@ -29,7 +29,7 @@ Sanctuary of Zeus Philios
 
 - {{< keyword "literary gardens" >}}
 - [Pausanias](https://www.britannica.com/biography/Pausanias-Greek-geographer)
-- sacred groves](http://vocab.getty.edu/page/aat/300251876)
+- {{< keyword "sacred groves" >}}
 
 ## Garden Description
 
