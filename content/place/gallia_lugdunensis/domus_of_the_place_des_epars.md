@@ -3,10 +3,10 @@ gre_id: "9c7b7a2318"
 aliases: [/id/9c7b7a2318]
 type: garden
 title: "*Domus* of the Place Epars"
-date: 2020-08-12T10:39:31-07:00
 latlon: [ 48.444276, 1.483926 ]
 author: 
 editor: Yvette Pollack
+date: 2021-04-21
 draft: true
 ---
 

@@ -3,10 +3,10 @@ gre_id: "420d0f0968"
 aliases: [/id/420d0f0968]
 type: place
 title: "Germania Superior"
-date: 2020-07-12T15:52:12-04:00
 latlon: [ 49.214670, 8.015747 ]
 author: Maureen Carroll
 editor: June Dorsch
+date: 2021-04-21
 draft: true
 ---
 

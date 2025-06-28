@@ -3,10 +3,10 @@ gre_id: "c37c091923"
 aliases: [/id/c37c091923]
 type: garden
 title: "House of the Skeletons"
-date: 2020-11-02
 latlon: [ 40.099, -8.4933 ]
 author: Jorge de Alarcão
 editor: Xingjian Wang
+date: 2021-04-21
 draft: true
 ---
 

@@ -3,10 +3,10 @@ gre_id: "6645a13b91"
 aliases: [/id/6645a13b91]
 type: garden
 title: "House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)"
-date: 2020-07-24T18:18:22-04:00
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 editor: June Dorsch
+date: 2021-04-21
 draft: true
 ---
 

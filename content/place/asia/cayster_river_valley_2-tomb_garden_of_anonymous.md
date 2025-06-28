@@ -3,10 +3,10 @@ gre_id: "c69dd85a16"
 aliases: [/id/c69dd85a16]
 type: garden
 title: "Tomb Garden of Anonymous 2"
-date: 2020-09-25T10:39:31-07:00
 latlon: [ 38.085927, 27.744117 ]
 author: John Bodel
 editor: Shamika Ghate
+date: 2021-04-21
 draft: true
 ---
 

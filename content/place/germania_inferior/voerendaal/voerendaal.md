@@ -3,10 +3,10 @@ gre_id: "d3b975f8d5"
 aliases: [/id/d3b975f8d5]
 type: garden
 title: "Rural villa at Voerendaal"
-date: 2020-07-12T10:58:07-07:00
 latlon: [ 50.883207, 5.918982 ]
 author: Maureen Carroll
 editor: David Ratzan
+date: 2021-04-21
 draft: true
 ---
 

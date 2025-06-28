@@ -3,10 +3,10 @@ gre_id: "edac365d78"
 aliases: [/id/edac365d78]
 type: garden
 title: "House with Pilasters (Clos du Verbe Incarné)"
-date: 2020-08-12T10:39:31-07:00
 latlon: [ 45.758866, 4.819481 ]
 author: 
 editor: Yvette Pollack
+date: 2021-04-21
 draft: true
 ---
 

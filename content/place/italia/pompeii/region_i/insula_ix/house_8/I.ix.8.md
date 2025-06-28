@@ -3,10 +3,10 @@ gre_id: "1d33c91c11"
 aliases: [/id/1d33c91c11]
 type: garden
 title: "I.ix.8"
-date: 2020-08-10T11:43:27-04:00
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 editor: June Dorsch
+date: 2021-04-21
 draft: true
 ---
 

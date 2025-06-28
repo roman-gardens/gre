@@ -3,10 +3,10 @@ gre_id: "29e3ce80ed"
 aliases: [/id/29e3ce80ed]
 type: garden
 title: "House of the Arsenal (Maison de l’Arsenal)"
-date: 2020-12-08T10:39:31-07:00
 latlon: [ 49.118135, 6.174155 ]
 author: 
 editor: Yvette Pollack
+date: 2021-04-21
 draft: true
 ---
 

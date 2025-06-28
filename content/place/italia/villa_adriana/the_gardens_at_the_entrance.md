@@ -3,10 +3,10 @@ gre_id: "ca3b05d8c7"
 aliases: [/id/ca3b05d8c7]
 type: garden
 title: "The gardens at the entrance of Hadrian's villa (Fig. 1, n. 3)"
-date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.942937, 12.774304 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
+date: 2021-04-21
 draft: true
 ---
 

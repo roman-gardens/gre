@@ -3,10 +3,10 @@ gre_id: "2173092aab"
 aliases: [/id/2173092aab]
 type: garden
 title: "Caupona of Amarantus Pompeianus (I.ix.11)"
-date: 2020-08-10T12:42:04-04:00
 latlon: [ 40.74941, 14.485429 ]
 author: Kathryn Gleason
 editor: June Dorsch
+date: 2021-04-21
 draft: true
 ---
 

@@ -3,10 +3,10 @@ gre_id: "cf8fbeedc0"
 aliases: [/id/cf8fbeedc0]
 type: garden
 title: "Bath Complex"
-date: 2020-09-30T11:20:32-04:00
 latlon: [ 39.885321, -2.81302 ]
 author: 
 editor: Yiyun Liu
+date: 2021-04-21
 draft: true
 ---
 

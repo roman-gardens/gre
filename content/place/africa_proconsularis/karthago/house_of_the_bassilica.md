@@ -3,10 +3,10 @@ gre_id: "4c3dd0c894"
 aliases: [/id/4c3dd0c894]
 type: garden
 title: "House of the Bassilica (Maison de la Bassilica)"
-date: 2020-10-06T10:39:31-07:00
 latlon: [ 36.858123, 10.331001 ]
 author: Amina-Aïcha Malek
 editor: Xue Xia
+date: 2021-04-21
 draft: true
 ---
 

@@ -3,10 +3,10 @@ gre_id: "8b1c9f8136"
 aliases: [/id/8b1c9f8136]
 type: garden
 title: "The terrace on the valley of Tempe (Fig. 1, n. 10)"
-date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.943986, 12.778580 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
+date: 2021-04-21
 draft: true
 ---
 

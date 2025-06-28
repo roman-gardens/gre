@@ -3,10 +3,10 @@ gre_id: "c48d798d77"
 aliases: [/id/c48d798d77]
 type: garden
 title: "House on the Place des Halles (La maison des Halles)"
-date: 2020-12-08T10:39:31-07:00
 latlon: [ 48.007160, 0.198493 ]
 author: 
 editor: Yvette Pollack
+date: 2021-04-21
 draft: true
 ---
 

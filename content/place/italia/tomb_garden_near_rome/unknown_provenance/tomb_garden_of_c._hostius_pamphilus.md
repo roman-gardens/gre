@@ -3,10 +3,10 @@ gre_id: "ed9aa10662"
 aliases: [/id/ed9aa10662]
 type: garden
 title: "Tomb Garden of C. Hostius Pamphilus"
-date: 2020-11-29T10:54:29-07:00
 latlon: [ 0, 0 ]
 author:
 editor: Lingyi Xu
+date: 2020-11-29T10:54:29-07:00
 draft: true
 ---
 

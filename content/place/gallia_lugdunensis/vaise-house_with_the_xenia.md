@@ -3,10 +3,10 @@ gre_id: "4fbd9a860e"
 aliases: [/id/4fbd9a860e]
 type: garden
 title: "Vaise - House with the Xenia"
-date: 2020-12-04T10:39:31-07:00
 latlon: [ 45.758866, 4.819481 ]
 author: 
 editor: Yvette Pollack
+date: 2021-04-21
 draft: true
 ---
 

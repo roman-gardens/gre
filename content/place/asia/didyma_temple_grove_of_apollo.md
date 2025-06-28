@@ -3,10 +3,10 @@ gre_id: "f218fa055f"
 aliases: [/id/f218fa055f]
 type: garden
 title: "Temple Grove of Apollo"
-date: 2020-10-03T10:39:31-07:00
 latlon: [ 37.384829, 27.256115 ]
 author: Kathryn Gleason
 editor: Shamika Ghate
+date: 2021-04-21
 draft: true
 ---
 

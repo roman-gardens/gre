@@ -3,10 +3,10 @@ gre_id: "4f46e03d15"
 aliases: [/id/4f46e03d15]
 type: place
 title: "Dalmatia"
-date: 2020-07-14T16:46:14-04:00
 latlon: [ 50.940671, 6.959908 ]
 author: None
 editor: Christian Casey
+date: 2020-07-14T16:46:14-04:00
 draft: true
 ---
 

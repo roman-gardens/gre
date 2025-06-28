@@ -3,10 +3,10 @@ gre_id: "24270528dd"
 aliases: [/id/24270528dd]
 type: garden
 title: "The garden between the Small Baths and the Three Exedras Hall (Fig. 1, n. 5)"
-date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.940874, 12.775114 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
+date: 2021-04-21
 draft: true
 ---
 

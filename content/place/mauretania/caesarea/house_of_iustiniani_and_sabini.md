@@ -3,10 +3,10 @@ gre_id: "2089405bc1"
 aliases: [/id/2089405bc1]
 type: garden
 title: "House of Iustiniani and Sabini (Maison de Kaid Youcef)"
-date: 2020-11-16T10:00:00-04:00
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 editor: Brandon Wilson
+date: 2020-11-16T10:00:00-04:00
 draft: true
 ---
 

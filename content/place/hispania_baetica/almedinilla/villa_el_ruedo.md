@@ -3,10 +3,10 @@ gre_id: "e0571e8970"
 aliases: [/id/e0571e8970]
 type: garden
 title: "Villa el Ruedo"
-date: 2020-10-03T21:00:00-04:00
 latlon: [ 37.443110, -4.089429 ]
 author: Clopper Almon, D. Vaquerizo
 editor: Lai Ching Tsui
+date: 2021-04-21
 draft: true
 ---
 

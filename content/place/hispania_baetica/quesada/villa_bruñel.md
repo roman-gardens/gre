@@ -3,10 +3,10 @@ gre_id: "05257b5d8b"
 aliases: [/id/05257b5d8b]
 type: garden
 title: "Villa Bruñel"
-date: 2020-10-15T10:00:00-04:00
 latlon: [ 37.885309, -3.079082 ]
 author: 
 editor: Lai Ching Tsui
+date: 2021-04-21
 draft: true
 ---
 

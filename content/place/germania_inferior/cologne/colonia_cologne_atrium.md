@@ -3,10 +3,10 @@ gre_id: "46cdbef913"
 aliases: [/id/46cdbef913]
 type: garden
 title: "Atrium House"
-date: 2020-07-09T07:38:05-07:00
 latlon: [ 50.940671, 6.959908 ]
 author: Maureen Carroll
 editor: David Ratzan
+date: 2021-04-21
 draft: true
 ---
 

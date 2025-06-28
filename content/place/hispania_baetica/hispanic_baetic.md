@@ -3,10 +3,10 @@ gre_id: "23d6491d7d"
 aliases: [/id/23d6491d7d]
 type: garden
 title: "Hispania Baetica"
-date: 2020-10-03T10:00:00-04:00
 latlon: [ 37.317026, -5.060833 ]
 author: 
 editor: Lai Ching Tsui
+date: 2021-04-21
 draft: true
 ---
 

@@ -3,10 +3,10 @@ gre_id: "bce2704a1e"
 aliases: [/id/bce2704a1e]
 type: garden
 title: "The Houses of Insula 7 in Colonia Ulpia Traiana"
-date: 2020-07-12T10:54:29-07:00
 latlon: [ 51.667934, 6.448177 ]
 author: Maureen Carroll
 editor: David Ratzan
+date: 2021-04-21
 draft: true
 ---
 

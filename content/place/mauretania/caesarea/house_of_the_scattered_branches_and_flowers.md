@@ -3,10 +3,10 @@ gre_id: "f131b6a9bb"
 aliases: [/id/f131b6a9bb]
 type: garden
 title: "House of the Scattered Branches and Flowers (Maison de la Jonchée)"
-date: 2020-11-16T10:00:00-04:00
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 editor: Brandon Wilson
+date: 2020-11-16T10:00:00-04:00
 draft: true
 ---
 

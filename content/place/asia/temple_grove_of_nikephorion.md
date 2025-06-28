@@ -3,10 +3,10 @@ gre_id: "64c43f2f28"
 aliases: [/id/64c43f2f28]
 type: garden
 title: "Temple Grove of Nikephorion"
-date: 2020-10-08T10:37:32-05:00
 latlon: [ 0, 0 ]
 author: Maureen Carroll, Kathryn Gleason
 editor: Annette Guan
+date: 2021-04-21
 draft: true
 ---
 

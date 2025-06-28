@@ -3,10 +3,10 @@ gre_id: "67d01a709a"
 aliases: [/id/67d01a709a]
 type: place
 title: "Dacia Traiana"
-date: 2020-07-11T19:24:47-04:00
 latlon: [ 47.5, 22.5 ]
 author: John Bodel
 editor: June Dorsch
+date: 2021-04-21
 draft: true
 ---
 

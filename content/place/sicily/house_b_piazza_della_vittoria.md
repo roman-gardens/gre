@@ -3,10 +3,10 @@ gre_id: "b4666256a7"
 aliases: [/id/b4666256a7]
 type: garden
 title: "House B, Piazza della Vittoria"
-date: 2020-10-01T11:30:00-05:00
 latlon: [ 38.11127, 13.353442 ]
 author: Roger Wilson
 editor: Chen Chen
+date: 2021-04-21
 draft: true
 ---
 

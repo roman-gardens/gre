@@ -3,10 +3,10 @@ gre_id: "ef75706a87"
 aliases: [/id/ef75706a87]
 type: garden
 title: "Legionary Houses at Castra Vetera (Germania Inferior)"
-date: 2020-07-12T10:57:44-07:00
 latlon: [ 51.646389, 6.469989 ]
 author: Maureen Carroll
 editor: David Ratzan
+date: 2021-04-21
 draft: true
 ---
 

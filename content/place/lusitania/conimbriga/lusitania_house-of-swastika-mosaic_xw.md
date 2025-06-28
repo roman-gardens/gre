@@ -3,10 +3,10 @@ gre_id: "19dff800ff"
 aliases: [/id/19dff800ff]
 type: garden
 title: "House of the Swastika Mosaic"
-date: 2020-11-02
 latlon: [ 40.099026, -8.494163 ]
 author: 
 editor: Xingjian Wang
+date: 2021-04-21
 draft: true
 ---
 

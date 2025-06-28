@@ -2,11 +2,11 @@
 gre_id: "c63589613b"
 aliases: [/id/c63589613b]
 type: garden
-title: "Edifice on St. Antoine’s Mound"
-date: 2020-11-04T00:20:41-00:00
+title: "Edifice on St. Antoine's Mound"
 latlon: [ 42.439512, 3.176623 ]
 author: 
 editor: Yichen Liu
+date: 2021-04-21
 draft: true
 ---
 

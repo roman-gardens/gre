@@ -3,10 +3,10 @@ gre_id: "27c2763d01"
 aliases: [/id/27c2763d01]
 type: garden
 title: "House Grounds of the “Villa San Pancrazio”"
-date: 2020-10-01T11:30:00-05:00
 latlon: [ 37.852391, 15.292123 ]
 author: Roger Wilson
 editor: Chen Chen
+date: 2021-04-21
 draft: true
 ---
 

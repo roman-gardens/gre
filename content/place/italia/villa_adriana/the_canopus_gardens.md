@@ -3,10 +3,10 @@ gre_id: "7824cc66c9"
 aliases: [/id/7824cc66c9]
 type: garden
 title: "The Canopus gardens (Fig. 1, n. 2)"
-date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.938472, 12.775940 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
+date: 2021-04-21
 draft: true
 ---
 

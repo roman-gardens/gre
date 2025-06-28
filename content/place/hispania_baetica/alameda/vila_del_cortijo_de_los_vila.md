@@ -3,10 +3,10 @@ gre_id: "d641fc022c"
 aliases: [/id/d641fc022c]
 type: garden
 title: "Villa del Cortijo de los Vila"
-date: 2020-09-24T13:00:00-04:00
 latlon: [ 37.216462, -4.657951 ]
 author: 
 editor: Lai Ching Tsui
+date: 2021-04-21
 draft: true
 ---
 

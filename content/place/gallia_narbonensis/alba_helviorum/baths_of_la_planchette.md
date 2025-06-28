@@ -3,10 +3,10 @@ gre_id: "b382a81e40"
 aliases: [/id/b382a81e40]
 type: garden
 title: "Baths of La Planchette"
-date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]
 author: 
 editor: Yichen Liu
+date: 2021-04-21
 draft: true
 ---
 

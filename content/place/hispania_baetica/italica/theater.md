@@ -3,10 +3,10 @@ gre_id: "c72ff9e782"
 aliases: [/id/c72ff9e782]
 type: garden
 title: "theaters"
-date: 2020-10-18T10:00:00-04:00
 latlon: [ 0, 0 ]
 author: 
 editor: Lai Ching Tsui
+date: 2021-04-21
 draft: true
 ---
 

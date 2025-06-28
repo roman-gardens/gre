@@ -3,10 +3,10 @@ gre_id: "45c08cc1e1"
 aliases: [/id/45c08cc1e1]
 type: garden
 title: "Imperial Residence at Batnae"
-date: 2020-10-08T10:30:00-04:00
 latlon: [ 36.976075, 38.424238 ]
 author: Catherine Kearns, Maureen Carroll
 editor: Jane Millar
+date: 2021-04-21
 draft: true
 ---
 

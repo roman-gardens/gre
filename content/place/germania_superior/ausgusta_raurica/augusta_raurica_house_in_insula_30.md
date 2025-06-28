@@ -3,10 +3,10 @@ gre_id: "1f1d6e587e"
 aliases: [/id/1f1d6e587e]
 type: garden
 title: "House in Insula 30 in Augusta Raurica"
-date: 2020-07-14T10:02:05-04:00
 latlon: [ 47.533241, 7.722118 ]
 author: Maureen Carroll
 editor: June Dorsch
+date: 2021-04-21
 draft: true
 ---
 

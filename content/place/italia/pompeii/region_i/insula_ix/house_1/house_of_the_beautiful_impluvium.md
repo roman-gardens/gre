@@ -3,10 +3,10 @@ gre_id: "4a727ddc3e"
 aliases: [/id/4a727ddc3e]
 type: garden
 title: "House of the Beautiful Impluvium; Casa del Bell Impluvio (I.ix.1)"
-date: 2020-08-09T14:57:51-04:00
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 editor: June Dorsch
+date: 2021-04-21
 draft: true
 ---
 

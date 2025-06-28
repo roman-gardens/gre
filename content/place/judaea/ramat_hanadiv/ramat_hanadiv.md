@@ -3,10 +3,10 @@ gre_id: "84fc60f497"
 aliases: [/id/84fc60f497]
 type: garden
 title: "Ramat Hanadiv"
-date: 2020-07-11T11:20:32-04:00
 latlon: [ 32.547145, 34.9361 ]
 author: Yitzar Hirschfeld
 editor: Yaniv Korman
+date: 2021-04-21
 draft: true
 ---
 

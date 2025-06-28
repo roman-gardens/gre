@@ -3,10 +3,10 @@ gre_id: "7fedd7d7ff"
 aliases: [/id/7fedd7d7ff]
 type: garden
 title: "Rural Villa"
-date: 2020-12-12T10:39:31-07:00
 latlon: [ 0, 0 ]
 author: 
 editor: Yvette Pollack
+date: 2021-04-21
 draft: true
 ---
 

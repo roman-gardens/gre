@@ -3,10 +3,10 @@ gre_id: "d1833d7456"
 aliases: [/id/d1833d7456]
 type: garden
 title: "Garden arrangement under the Libraries' terrace (Fig. 1, n. 9)"
-date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.943021, 12.776021 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
+date: 2021-04-21
 draft: true
 ---
 

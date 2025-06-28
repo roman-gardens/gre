@@ -3,10 +3,10 @@ gre_id: "7ecf27b251"
 aliases: [/id/7ecf27b251]
 type: garden
 title: "NAR 6.3 Enclos Reynaud, House with the large opus sectile, phase I"
-date: 2020-10-29T00:08:08-10:00
 latlon: [ 42.439512, 3.176623 ]
 author: 
 editor: Yichen Liu
+date: 2021-04-21
 draft: true
 ---
 

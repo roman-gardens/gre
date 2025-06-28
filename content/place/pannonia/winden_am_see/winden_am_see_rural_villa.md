@@ -3,10 +3,10 @@ gre_id: "ef01be796c"
 aliases: [/id/ef01be796c]
 type: garden
 title: "Rural Villa in Winden Am See"
-date: 2020-07-22T10:17:25-04:00
 latlon: [ 46.5, 15.5 ]
 author: Maureen Carroll
 editor: June Dorsch
+date: 2021-04-21
 draft: true
 ---
 

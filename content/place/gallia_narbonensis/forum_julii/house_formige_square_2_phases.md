@@ -3,10 +3,10 @@ gre_id: "50dac00f2c"
 aliases: [/id/50dac00f2c]
 type: garden
 title: "House Formigé Square - 2 phases"
-date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]
 author: 
 editor: Yichen Liu
+date: 2021-04-21
 draft: true
 ---
 

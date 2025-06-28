@@ -3,10 +3,10 @@ gre_id: "557ae46f1d"
 aliases: [/id/557ae46f1d]
 type: garden
 title: "Villa de Los Villares"
-date: 2020-09-30T11:20:32-04:00
 latlon: [ 41.713123, -3.150103 ]
 author: 
 editor: Yiyun Liu
+date: 2021-04-21
 draft: true
 ---
 

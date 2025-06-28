@@ -3,10 +3,10 @@ gre_id: "cd3efe11fb"
 aliases: [/id/cd3efe11fb]
 type: garden
 title: "Inscription from the former Aptel Estate"
-date: 2020-11-16T10:00:00-04:00
 latlon: [ 52.055419, -0.795092 ]
 author: Amina-Aïcha Malek
 editor: Brandon Wilson
+date: 2020-11-16T10:00:00-04:00
 draft: true
 ---
 

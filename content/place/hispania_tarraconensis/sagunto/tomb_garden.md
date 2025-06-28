@@ -3,10 +3,10 @@ gre_id: "20b65d1c15"
 aliases: [/id/20b65d1c15]
 type: garden
 title: "Tomb garden and baths of P. Caecil(ius) Rufus and Valeria "
-date: 2020-11-02
 latlon: [ 39.678125, -0.277247 ]
 author: John Bodel
 editor: Xingjian Wang
+date: 2021-04-21
 draft: true
 ---
 

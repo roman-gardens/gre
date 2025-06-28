@@ -3,10 +3,10 @@ gre_id: "34974ad663"
 aliases: [/id/34974ad663]
 type: garden
 title: "Tomb Garden of L. Ogius Patroclus"
-date: 2020-12-10T12:00:02-05:00
 latlon: [ 45.956108, 18.683919 ]
 author: John Bodel
 editor: Zhenrui Mei
+date: 2021-04-21
 draft: true
 ---
 

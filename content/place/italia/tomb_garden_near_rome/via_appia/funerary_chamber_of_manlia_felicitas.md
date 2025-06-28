@@ -3,10 +3,10 @@ gre_id: "b773ddb08b"
 aliases: [/id/b773ddb08b]
 type: garden
 title: "Funerary Chamber of Manlia Felicitas"
-date: 2020-11-30T10:54:29-07:00
 latlon: [ 41.853944, 12.517797 ]
 author:
 editor: Yuyao Liu
+date: 2021-04-21
 draft: true
 ---
 

@@ -3,10 +3,10 @@ gre_id: "36b18899b0"
 aliases: [/id/36b18899b0]
 type: garden
 title: "Gardens of the Temple of the Divine Claudius"
-date: 2021-04-15
 latlon: [ 41.886952, 12.495084 ]
 author: Valerie Aymer
 editor: Rhiannon Paré
+date: 2021-04-15
 draft: true
 ---
 

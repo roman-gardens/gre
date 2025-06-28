@@ -3,10 +3,10 @@ gre_id: "ed49355a9e"
 aliases: [/id/ed49355a9e]
 type: garden
 title: "Suburban Villa de la  Brunette"
-date: 2020-11-15T00:08:52-00:00
 latlon: [ 42.439512, 3.176623 ]
 author: 
 editor: Yichen Liu
+date: 2021-04-21
 draft: true
 ---
 

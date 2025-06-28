@@ -3,11 +3,11 @@ gre_id: "b5bffe0dc7"
 aliases: [/id/b5bffe0dc7]
 type: garden
 title: "House in the Rue du Palais de Justice in Vesontio"
-date: 2020-07-18T16:58:55-04:00
 latlon: [ 47.23369, 6.03039 ]
 author: Claudine Munier, Christophe Gaston, Maureen Carroll
 editor: June Dorsch
 translator: C.A.
+date: 2021-04-21
 draft: true
 ---
 

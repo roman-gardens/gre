@@ -3,10 +3,10 @@ gre_id: "189991e576"
 aliases: [/id/189991e576]
 type: garden
 title: "Tomb Garden of a Funerary Collegium"
-date: 2020-11-30T10:54:29-07:00
 latlon: [ 0, 0 ]
 author:
 editor: Yuyao Liu
+date: 2021-04-21
 draft: true
 ---
 

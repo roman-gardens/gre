@@ -3,10 +3,10 @@ gre_id: "4461d53603"
 aliases: [/id/4461d53603]
 type: garden
 title: "Tomb Garden of Papias son of Adrastos"
-date: 2020-09-25T10:39:31-07:00
 latlon: [ 37.839047, 28.806878 ]
 author: John Bodel
 editor: Shamika Ghate
+date: 2021-04-21
 draft: true
 ---
 

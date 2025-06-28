@@ -3,10 +3,10 @@ gre_id: "1ed466c4a5"
 aliases: [/id/1ed466c4a5]
 type: garden
 title: "Carmona, near Seville (Hispalis) BAETICA"
-date: 2020-10-15T10:00:00-04:00
 latlon: [ 0, 0 ]
 author: Eugenia Salza Prina Ricotti
 editor: Lai Ching Tsui
+date: 2021-04-21
 draft: true
 ---
 

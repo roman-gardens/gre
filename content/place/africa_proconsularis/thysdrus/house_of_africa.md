@@ -3,10 +3,10 @@ gre_id: "5a1594755c"
 aliases: [/id/5a1594755c]
 type: garden
 title: "House of Africa (Maison de l'Afrique)"
-date: 2020-09-29T09:49:36-04:00
 latlon: [ 35.296057, 10.707584 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Jinyi Yang
+date: 2021-04-21
 draft: true
 ---
 

@@ -3,10 +3,10 @@ gre_id: "dcdd788248"
 aliases: [/id/dcdd788248]
 type: garden
 title: "Large Building North of Forum in Arae Flaviae"
-date: 2020-07-13T11:07:51-04:00
 latlon: [ 48.166687, 8.627925 ]
 author: Maureen Carroll
 editor: June Dorsch
+date: 2021-04-21
 draft: true
 ---
 

@@ -3,10 +3,10 @@ gre_id: "cd75bd9c0e"
 aliases: [/id/cd75bd9c0e]
 type: garden
 title: "House No. 1 or West House"
-date: 2020-10-04T10:00:00-04:00
 latlon: [ 0, 0 ]
 author: 
 editor: Lai Ching Tsui
+date: 2021-04-21
 draft: true
 ---
 

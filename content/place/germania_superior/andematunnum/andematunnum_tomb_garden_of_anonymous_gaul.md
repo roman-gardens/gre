@@ -3,10 +3,10 @@ gre_id: "6e3a248c40"
 aliases: [/id/6e3a248c40]
 type: garden
 title: "Tomb Garden of Anonymous Gaul in Andematunnum"
-date: 2020-07-13T10:33:04-04:00
 latlon: [ 47.864221, 5.335214 ]
 author: John Bodel
 editor: June Dorsch
+date: 2021-04-21
 draft: true
 ---
 

@@ -3,10 +3,10 @@ gre_id: "3f0bf85c66"
 aliases: [/id/3f0bf85c66]
 type: garden
 title: "PUBLIC GARDEN Syracuse"
-date: 2020-10-01T11:30:00-05:00
 latlon: [ 37.069402, 15.276704 ]
 author: Roger Wilson
 editor: Chen Chen
+date: 2021-04-21
 draft: true
 ---
 

@@ -3,10 +3,10 @@ gre_id: "15b1cb6052"
 aliases: [/id/15b1cb6052]
 type: garden
 title: "Villa El Soldán  (The Sultan)"
-date: 2020-09-30T11:20:32-04:00
 latlon: [ 42.453889, -6.240556 ]
 author: 
 editor: Yiyun Liu
+date: 2021-04-21
 draft: true
 ---
 

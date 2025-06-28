@@ -3,10 +3,10 @@ gre_id: "4dd2bd40e6"
 aliases: [/id/4dd2bd40e6]
 type: garden
 title: "House C, Les Villégiales, quarter of the Benedictines"
-date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]
 author: 
 editor: Yichen Liu
+date: 2021-04-21
 draft: true
 ---
 

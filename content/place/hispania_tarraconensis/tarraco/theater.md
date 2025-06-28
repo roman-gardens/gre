@@ -3,10 +3,10 @@ gre_id: "278abf125d"
 aliases: [/id/278abf125d]
 type: garden
 title: "theaters"
-date: 2020-09-30T11:20:32-04:00
 latlon: [ 41.116892, 1.258337 ]
 author: 
 editor: Yiyun Liu
+date: 2021-04-21
 draft: true
 ---
 

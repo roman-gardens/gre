@@ -3,10 +3,10 @@ gre_id: "95e33081e5"
 aliases: [/id/95e33081e5]
 type: garden
 title: "Urban House on Gertrudenstrasse"
-date: 2020-07-12T10:51:27-07:00
 latlon: [ 50.940671, 6.959908 ]
 author: Maureen Carroll
 editor: David Ratzan
+date: 2021-04-21
 draft: true
 ---
 

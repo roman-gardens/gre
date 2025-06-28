@@ -3,10 +3,10 @@ gre_id: "4480f4a5de"
 aliases: [/id/4480f4a5de]
 type: garden
 title: "Villa of the Frescoes (La villa des Fresques)"
-date: 2020-11-16T10:00:00-04:00
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 editor: Brandon Wilson
+date: 2020-11-16T10:00:00-04:00
 draft: true
 ---
 

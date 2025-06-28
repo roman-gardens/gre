@@ -3,10 +3,10 @@ gre_id: "a72a260f9e"
 aliases: [/id/a72a260f9e]
 type: garden
 title: "The Garden of the Piazza d'Oro (Fig. 1, n. 20)"
-date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.941305, 12.778279 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
+date: 2021-04-21
 draft: true
 ---
 

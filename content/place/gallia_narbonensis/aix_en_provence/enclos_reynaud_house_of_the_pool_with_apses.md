@@ -3,10 +3,10 @@ gre_id: "b6f1f6afd8"
 aliases: [/id/b6f1f6afd8]
 type: garden
 title: "Enclos Reynaud, House of the pool with apses"
-date: 2020-11-04T00:20:41-00:00
 latlon: [ 42.439512, 3.176623 ]
 author: 
 editor: Yichen Liu
+date: 2021-04-21
 draft: true
 ---
 

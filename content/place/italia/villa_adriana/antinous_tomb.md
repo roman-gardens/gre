@@ -3,10 +3,10 @@ gre_id: "2b95d34b85"
 aliases: [/id/2b95d34b85]
 type: garden
 title: "Antinous' tomb (Fig. 1, n. 25)"
-date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.940874, 12.773730 ]
 author: Eugenia Salza Prina Ricotti
 editor: Joshua Rosenheim
+date: 2021-04-21
 draft: true
 ---
 

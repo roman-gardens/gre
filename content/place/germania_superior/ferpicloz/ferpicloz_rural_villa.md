@@ -3,10 +3,10 @@ gre_id: "08c7be3e34"
 aliases: [/id/08c7be3e34]
 type: garden
 title: "Rural Villa in Ferpicloz"
-date: 2020-07-15T15:32:14-04:00
 latlon: [ 49.214670, 8.015747 ]
 author: Maureen Carroll
 editor: June Dorsch
+date: 2021-04-21
 draft: true
 ---
 
