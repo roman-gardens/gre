@@ -60,7 +60,3 @@ A sublocation is any area larger than an individual garden, but located within a
 - {{< id vocab="Pleiades" id="862" name="Baetica" >}}
 - {{< id vocab="TGN" id="6000567" name="Baetica (province)" >}}
 
-
-## Publication date
-
-21 Apr 2021

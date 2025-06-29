@@ -86,9 +86,4 @@ Foundations of garden architecture, water channels and garden soils of the late 
 
 - {{< id vocab="TGN" id="7001363" name="Caesarea (deserted settlement)" >}}
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

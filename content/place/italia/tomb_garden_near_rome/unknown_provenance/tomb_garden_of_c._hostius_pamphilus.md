@@ -48,8 +48,3 @@ Unspecified
 
 ## Places
 
-## Publication date
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

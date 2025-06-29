@@ -63,5 +63,3 @@ The sanctuary of *Caelestis*, installed on the north-western outskirts of the ci
 - {{< id vocab="Pleiades" id="315223" name="Thugga/Tokai?" >}}
 - {{< id vocab="TGN" id="7017996" name="Dougga (deserted settlement)" >}}
 
-## Publication date
-21 Apr 2021

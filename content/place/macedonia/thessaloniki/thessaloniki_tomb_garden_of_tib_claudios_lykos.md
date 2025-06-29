@@ -65,9 +65,3 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 
 [John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

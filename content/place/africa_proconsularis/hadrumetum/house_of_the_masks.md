@@ -68,9 +68,3 @@ The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was 
 
 ## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
-
-## Publication date
-
-21 Apr 2021
-
-## Related articles

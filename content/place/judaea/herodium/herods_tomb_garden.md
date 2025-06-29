@@ -84,9 +84,4 @@ In 2005, Netzer’s team found the long-sought tomb of Herod, positioned on a te
 [Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
 
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

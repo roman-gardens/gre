@@ -81,9 +81,4 @@ late 1st century CE - unspecified
 - {{< id vocab="Pleiades" id="79466" name="Fishbourne" >}}
 - {{< id vocab="TGN" id="7032567" name="Fishbourne Roman Palace (historic site)" >}}
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

@@ -73,10 +73,4 @@ House of the Seasons (La maison des Saisons)
 - {{< id vocab="Pleiades" id="324816" name="Sufetula" >}}
 - {{< id vocab="TGN" id="7001754" name="Sbeitla (inhabited place)" >}}
 
-## Publication date
 
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

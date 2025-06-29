@@ -91,7 +91,6 @@ Outside the walls of the city, utilitarian gardens were planted, possibly in the
 [Maureen Carroll](https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ## Publication date
-
 06 July 2020
 
 ## Related articles

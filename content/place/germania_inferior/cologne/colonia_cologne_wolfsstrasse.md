@@ -59,10 +59,3 @@ Middle of the first century CE until the fourth century CE
 - {{< id vocab="Pleiades" id="108751" name="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
 - {{< id vocab="TGN" id="7004446" name="Cologne (inhabited place)" >}}
 
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

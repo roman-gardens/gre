@@ -67,10 +67,3 @@ The house appears to have been built at the end of the third or beginning of the
 
 <!-- {{< id vocab="Pleiades" id="213630148" name="Las Tiendas" >}} is invalid -->
 
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

@@ -75,9 +75,6 @@ Built over an older establishment, the house presents two main phases.  The main
 ## Contributor
 [Véronique Blanc-Bijon](link) (WorldCat Identities: [lccn-nb99006585](http://worldcat.org/identities/lccn-nb99006585/))\
 [Wilhelmina Jashemski](link) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/))
-## Publication date
-
-21 Apr 2021
 
 <!--
 ## Related articles

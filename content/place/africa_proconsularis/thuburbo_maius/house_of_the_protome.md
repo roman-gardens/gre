@@ -74,5 +74,3 @@ The *Trifolium* sector, was laid out around a peristyle garden (I-V) enclosed on
 [Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 <!--add in orcid id and info-->
 
-## Publication Date
-21 Apr 2021

@@ -86,9 +86,3 @@ A.D. 70-100
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

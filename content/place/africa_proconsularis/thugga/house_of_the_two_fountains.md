@@ -64,10 +64,3 @@ This house in the W of the market may have had a peristyle garden enclosed by a 
 
 - {{< id vocab="Pleiades" id="315223" name="Thugga/Tokai?" >}}
 - {{< id vocab="TGN" id="7017996" name="Dougga (deserted settlement)" >}}
-
-## Contributor
-
-[Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
-
-
-## Publication Date

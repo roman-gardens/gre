@@ -83,10 +83,6 @@ NOT FOUND
 - {{< id vocab="Pleiades" id="324664" name="Althiburos" >}}
 - {{< id vocab="TGN" id="5003658" name="Althiburus (deserted settlement)" >}}
 
-## Publication date
-
-21 Apr 2021
-
 <!--
 ## Related articles
 [House of the Fishing Scene (Maison de la scène de pêche)]({{<relref "house_of_the_fishing_scene.md">}})

@@ -72,10 +72,3 @@ Third century CE
 ## Places
 
 
-## Publication date
-
-<!--07 July 2020-->
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

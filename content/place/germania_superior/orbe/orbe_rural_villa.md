@@ -63,9 +63,3 @@ House: mid-1st century CE - 4th century
 - {{< id vocab="Pleiades" id="177598" name="Orbe Gallo-Roman Villa" >}}
 - {{< id vocab="TGN" id="7007438" name="Orbe (inhabited place)" >}}
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

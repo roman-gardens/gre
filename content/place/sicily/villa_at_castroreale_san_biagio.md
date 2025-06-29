@@ -60,11 +60,3 @@ R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 199–203,
 - {{< id vocab="Pleiades" id="462538" name="Zancle/Messana" >}}
 
 
-## Publication date
-
-21 Apr 2021
-
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

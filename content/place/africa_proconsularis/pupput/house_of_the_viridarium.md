@@ -73,10 +73,4 @@ House of the Viridarium with Niches (Maison du viridarium à niches)
 - {{< id vocab="Pleiades" id="315121" name="Pupput" >}}
 - {{< id vocab="TGN" id="8697602" name="Pupput (deserted settlement)" >}}
 
-## Publication date
 
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

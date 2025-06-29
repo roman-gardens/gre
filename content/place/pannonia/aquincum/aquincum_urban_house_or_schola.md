@@ -63,6 +63,3 @@ Very few houses of Mediterranean type have been discovered, and only one can be 
 
 - {{< id vocab="Pleiades" id="197130" name="Aquincum" >}}
 - {{< id vocab="TGN" id="8713146" name="Aquincum (deserted settlement)" >}}
-
-## Publication date
-21 Apr 2021

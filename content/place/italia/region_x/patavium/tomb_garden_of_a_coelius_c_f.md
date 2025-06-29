@@ -67,9 +67,4 @@ unspecified
 
 Brady Kiesling (https://pleiades.stoa.org/author/bkiesling)
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

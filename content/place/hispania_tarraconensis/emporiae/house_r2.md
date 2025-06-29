@@ -115,10 +115,3 @@ House R2, situated south of House R1 in the area of the forum of the Roman City 
 - {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}
 
 
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

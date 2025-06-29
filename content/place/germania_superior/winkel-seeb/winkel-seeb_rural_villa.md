@@ -65,9 +65,3 @@ First half of 1st century A.C. - 250
 - {{< id vocab="Pleiades" id="177667" name="Winkel-Seeb" >}}
 - {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

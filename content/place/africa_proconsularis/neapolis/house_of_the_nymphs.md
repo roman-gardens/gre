@@ -83,10 +83,4 @@ Unspecified
 - {{< id vocab="Pleiades" id="315093" name="Neapolis" >}}
 - {{< id vocab="TGN" id="1094981" name="Nabeul (inhabited place)" >}}
 
-## Publication date
 
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

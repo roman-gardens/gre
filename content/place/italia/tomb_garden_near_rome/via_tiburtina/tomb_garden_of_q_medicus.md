@@ -50,8 +50,3 @@ Unspecified
 
 - {{< id vocab="Pleiades" id="272213281" name="Via Tiburtina" >}}
 
-## Publication date
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

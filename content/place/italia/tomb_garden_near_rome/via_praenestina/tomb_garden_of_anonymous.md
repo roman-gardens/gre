@@ -50,8 +50,3 @@ Unspecified
 - {{< id vocab="Pleiades" id="622606468" name="Via Praenestina" >}}
 
 
-## Publication date
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

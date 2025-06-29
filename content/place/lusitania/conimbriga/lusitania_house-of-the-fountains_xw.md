@@ -66,10 +66,3 @@ The house has recently been the subject of a monograph by Isabelle Morand in whi
 
 - {{< id vocab="Pleiades" id="236443" name="Conimbriga" >}}
 - {{< id vocab="TGN" id="7031751" name="Conimbriga, Ruínas de" >}}
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

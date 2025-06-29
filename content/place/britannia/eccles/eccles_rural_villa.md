@@ -58,9 +58,4 @@ mid-1st to 4th century CE
 - {{< id vocab="Pleiades" id="79448" name="Eccles" >}}
 - {{< id vocab="TGN" id="1029144" name="Eccles (inhabited place)" >}}
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

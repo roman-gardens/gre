@@ -61,7 +61,3 @@ unspecified
 - {{< id vocab="Pleiades" id="224658205" name="House of the Triclinium at Italica" >}}
 - {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}
 
-
-## Publication date
-
-21 Apr 2021

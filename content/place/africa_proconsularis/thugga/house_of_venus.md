@@ -70,5 +70,3 @@ The house of Venus is located at the S of the capitol and is adjacent to the tem
 [Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 
 
-## Publication Date
-21 Apr 2021

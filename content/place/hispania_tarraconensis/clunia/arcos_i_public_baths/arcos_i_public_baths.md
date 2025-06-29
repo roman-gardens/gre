@@ -99,10 +99,4 @@ Unspecified
 ## Contributor
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
-## Publication date
 
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

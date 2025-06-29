@@ -81,10 +81,4 @@ This fourth-century villa was discovered in 1973.  An apse and a figured mosaic 
 ## Contributor
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
-## Publication date
 
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

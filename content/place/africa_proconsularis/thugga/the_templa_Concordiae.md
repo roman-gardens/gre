@@ -67,5 +67,3 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 - {{< id vocab="Pleiades" id="315223" name="Thugga/Tokai?" >}}
 - {{< id vocab="TGN" id="7017996" name="Dougga (deserted settlement)" >}}
 
-## Publication date
-21 Apr 2021

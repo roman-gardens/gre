@@ -65,10 +65,3 @@ A corridor (see Fig. 1, label M) was bordered by two small gardens (labels N and
 
 <!-- {{< id vocab="Pleiades" id="553386076" name="553386076" >}} is invalid -->
 
-## Publication date
-
-<!--07 July 2020-->
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

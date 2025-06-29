@@ -74,10 +74,3 @@ The third phase distinguished by Maloney and Hale covered several building campa
 
 - {{< id vocab="Pleiades" id="256478" name="Torre de Palma" >}}
 
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

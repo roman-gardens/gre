@@ -64,11 +64,3 @@ Pool types: L. Farrar, Ancient Roman Gardens, Stroud, 1998, pp. 71–84.[(worldc
 - {{< id vocab="Pleiades" id="462506" name="Tauromenium" >}}
 
 
-## Publication date
-
-21 Apr 2021
-
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

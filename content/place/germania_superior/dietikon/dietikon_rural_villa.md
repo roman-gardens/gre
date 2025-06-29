@@ -81,9 +81,3 @@ Stone-built villa: Middle of the 1st century CE
 [Christa Ebnöther](https://www.iaw.unibe.ch/ueber_uns/arp_amp_pa_personen/prof_dr_ebnoether_christa/index_ger.html#pane222202)
 
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

@@ -3,11 +3,10 @@ gre_id: "b85436cd7e"
 aliases: [/id/b85436cd7e]
 type: garden
 title: "Tomb Garden and Pool of Cingius Iustinus"
-date: 2020-07-14T16:52:02-04:00
 latlon: [ 43.539561, 16.483426 ]
 author: John Bodel
 editor: Christian Casey
-lead: A rock cut inscription at Salonae ...
+date: 2020-07-14
 draft: true
 ---
 
@@ -70,16 +69,3 @@ Late second or third century (CE)
 
 - {{< id vocab="Pleiades" id="197488" name="Salona" >}}
 - {{< id vocab="TGN" id="7017320" name="Solin (inhabited place)" >}}
-
-## Contributor
-
-[John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
-
-## Publication date
-<!-- Format: dd MONTH_NAME yyyy -->
-
-14 July 2020
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

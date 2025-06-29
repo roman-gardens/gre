@@ -4,9 +4,9 @@ aliases: [/id/dd43da939d]
 type: garden
 title: "Garden of the Flavian Imperial Palace"
 latlon: [ 41.889306, 12.487109 ]
-author: Jean-Paul Morel
+author: Jean-Paul Morel, Françoise Villedieu
 editor: Rhiannon Paré
-date: 2021-04-21
+date: 2021-04-17
 draft: false
 ---
 
@@ -109,12 +109,3 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 ## Places
 
 - {{< id vocab="Pleiades" id="971691208" name="Palatinus Mons" >}}
-
-## Contributor
-
-Jean-Paul Morel\
-Françoise Villedieu
-
-## Publication date
-
- 17 April 2021

@@ -83,9 +83,4 @@ This first palace was "introverted" thus giving expression to Herod’s inferior
 
 [#](#)-->
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

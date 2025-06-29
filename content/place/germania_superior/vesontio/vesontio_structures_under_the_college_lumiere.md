@@ -87,9 +87,3 @@ Gardens: Beginning and last third of second century
 - {{< id vocab="TGN" id="7008356" name="Besancon (inhabited place)" >}}
 
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

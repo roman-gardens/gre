@@ -74,10 +74,3 @@ The northeastern courtyard was most likely a peristyle-garden.  There, a basin p
 
 <!-- {{< id vocab="Pleiades" id="278428163" name="278428163" >}} is invalid -->
 
-## Publication date
-
-<!--07 July 2020-->
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

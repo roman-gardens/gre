@@ -88,9 +88,4 @@ https://babel.hathitrust.org/cgi/pt?id=hvd.32044081405060&seq=35
 
 Tom Elliott (https://pleiades.stoa.org/author/thomase)
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

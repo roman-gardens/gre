@@ -53,10 +53,3 @@ Excavated 1869 and 1873. Bombed in 1943.
 
 ## Contributor
 Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-
-## Publication date
-
-21 Apr 2021
-
-<!-- DATE -->

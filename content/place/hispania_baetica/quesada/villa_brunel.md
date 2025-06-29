@@ -92,7 +92,3 @@ unspecified
 - {{< id vocab="Pleiades" id="265996" name="Pago de Bruñel" >}}
 - {{< id vocab="TGN" id="7027137" name="Castillo de Mulva (deserted settlement)" >}}
 
-
-## Publication date
-
-21 Apr 2021

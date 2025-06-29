@@ -67,5 +67,3 @@ Unspecified
 - {{< id vocab="Pleiades" id="315247" name="Uthina" >}}
 - {{< id vocab="TGN" id="7024022" name="Oudna (deserted settlement)" >}}
 
-## Publication date
-21 Apr 2021

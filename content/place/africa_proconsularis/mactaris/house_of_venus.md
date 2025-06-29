@@ -75,10 +75,4 @@ House of Venus (Maison de Venus)
 [Wilhelmina Jashemski](link) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/))
 
 
-## Publication date
 
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

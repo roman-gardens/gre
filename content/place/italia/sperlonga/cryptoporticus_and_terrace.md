@@ -79,10 +79,3 @@ Unspecified
 
 ## Contributor
  EUGENIA SALZA PRINA RICOTTI
-
-## Publication date
-
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

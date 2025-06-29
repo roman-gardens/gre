@@ -23,10 +23,4 @@ Britain is geographically and geologically diverse, and it was characterized in 
 
 <!--## Periodo ID-->
 
-## Publication date
 
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

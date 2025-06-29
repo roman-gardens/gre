@@ -58,9 +58,4 @@ around A.D. 100 - 175
 - {{< id vocab="Pleiades" id="79485" name="Gorhambury Ancient Site" >}}
 - {{< id vocab="TGN" id="7030316" name="Britannia (province)" >}}
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

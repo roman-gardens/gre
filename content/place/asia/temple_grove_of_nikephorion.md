@@ -84,9 +84,3 @@ Unspecified
 - {{< id vocab="Pleiades" id="537932154" name="Temple Grove of Nikephorion at Pergamum" >}}
 - {{< id vocab="TGN" id="7016140" name="Bergama (inhabited place)" >}}
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

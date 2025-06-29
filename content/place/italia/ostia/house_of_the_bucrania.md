@@ -118,5 +118,3 @@ summer 2002
 
 Thomas Morard
 
-## Publication date
-21 Apr 2021

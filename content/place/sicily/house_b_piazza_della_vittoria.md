@@ -60,11 +60,3 @@ A pool, still frescoed in blue, has recently been uncovered at the south end of 
 - {{< id vocab="Pleiades" id="462410" name="Pan(h)ormus" >}}
 
 
-## Publication date
-
-21 Apr 2021
-
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

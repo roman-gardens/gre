@@ -96,9 +96,4 @@ Tiberius times(A.D 14-37)
 - {{< id vocab="TGN" id="7325447" name="Santa Colomba de Somoza (inhabited place)" >}}
 
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

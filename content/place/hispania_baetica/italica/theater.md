@@ -66,7 +66,3 @@ unspecified
 <!-- {{< id vocab="Pleiades" id="224658206" name="224658206" >}} is invalid -->
 - {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}
 
-
-## Publication date
-
-21 Apr 2021

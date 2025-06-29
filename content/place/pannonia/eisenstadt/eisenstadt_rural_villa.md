@@ -56,6 +56,3 @@ Early 2nd century - 4th century
 
 - {{< id vocab="Pleiades" id="197425" name="Pannonia" >}}
 - {{< id vocab="TGN" id="7003056" name="Eisenstadt (inhabited place)" >}}
-
-## Publication date
-21 Apr 2021

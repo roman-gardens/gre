@@ -60,5 +60,3 @@ The courtyard of this large peristyle to the NE of the Summer Baths, dedicated b
 [Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 <!--add in orcid id and info-->
 
-## Publication Date
-21 Apr 2021

@@ -63,10 +63,3 @@ The courtyard of the peristyle, which was paved with mosaics, was lined with bui
 
 - {{< id vocab="Pleiades" id="315223" name="Thugga/Tokai?" >}}
 - {{< id vocab="TGN" id="7017996" name="Dougga (deserted settlement)" >}}
-
-## Contributor
-
-[Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
-
-
-## Publication Date

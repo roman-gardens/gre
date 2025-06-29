@@ -109,5 +109,3 @@ recent excavations
 
 [Janet DeLaine (0000-0002-6409-7126)](https://orcid.org/0000-0002-6409-7126)
 
-## Publication date
-21 Apr 2021

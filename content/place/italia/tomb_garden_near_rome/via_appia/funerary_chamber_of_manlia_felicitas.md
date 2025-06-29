@@ -57,9 +57,3 @@ When Vignon returned to the site thirteen years later, the underground chamber c
 John Bodel
 
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

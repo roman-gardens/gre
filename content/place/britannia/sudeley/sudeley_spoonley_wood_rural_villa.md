@@ -68,9 +68,4 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 [Maureen Carroll](https://orcid.org/0000-0001-9958-8032))
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

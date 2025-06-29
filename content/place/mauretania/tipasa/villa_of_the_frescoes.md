@@ -68,10 +68,3 @@ The peristyle garden had four porticoes supported by 14 columns and enclosed by 
 
 - {{< id vocab="Pleiades" id="151506429" name="Villa of the Frescoes" >}}
 
-## Publication date
-
-<!--07 July 2020-->
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

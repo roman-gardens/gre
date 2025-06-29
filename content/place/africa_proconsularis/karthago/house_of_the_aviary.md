@@ -83,10 +83,4 @@ the end of 2nd-4th century CE
 - {{< id vocab="Pleiades" id="314921" name="Carthago" >}}
 - {{< id vocab="TGN" id="7016143" name="Carthage (deserted settlement)" >}}
 
-## Publication date
 
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

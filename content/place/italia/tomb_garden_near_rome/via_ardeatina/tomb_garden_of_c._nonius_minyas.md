@@ -55,8 +55,3 @@ late first or second century
 ## Contributor
 John Bodel
 
-## Publication date
-21 Apr 2021
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

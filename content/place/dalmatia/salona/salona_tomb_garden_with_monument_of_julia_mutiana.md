@@ -6,7 +6,7 @@ title: "Tomb Garden with Monument of Julia Mutiana"
 latlon: [ 43.539561, 16.483426 ]
 author: John Bodel
 editor: Christian Casey
-date: 2020-07-14T17:06:21-04:00
+date: 2020-07-14
 draft: true
 ---
 
@@ -68,16 +68,3 @@ Second half of the second or the third century (CE)
 
 - {{< id vocab="Pleiades" id="197488" name="Salona" >}}
 - {{< id vocab="TGN" id="7017320" name="Solin (inhabited place)" >}}
-
-## Contributor
-
-[John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
-
-## Publication date
-<!-- Format: dd MONTH_NAME yyyy -->
-
-14 July 2020
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

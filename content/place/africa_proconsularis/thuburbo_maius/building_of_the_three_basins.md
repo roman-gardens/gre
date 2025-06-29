@@ -69,9 +69,4 @@ The SE area was laid out around an incomplete peristyle with seven columns along
 [Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 <!--add in orcid id and info-->
 
-## Publication Date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

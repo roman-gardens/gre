@@ -63,7 +63,3 @@ unspecified
 - {{< id vocab="Pleiades" id="810966696" name="Collegium at Italica" >}}
 - {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}
 
-
-## Publication date
-
-21 Apr 2021

@@ -3,11 +3,11 @@ gre_id: "470d20177b"
 aliases: [/id/470d20177b]
 type: garden
 title: "Casa A Graticcio"
-date: 2020-09-29T12:00:02-05:00
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 538
+date: 2020-09-29T12:00:02-05:00
 draft: true
 ---
 
@@ -77,15 +77,3 @@ unspecified
 
 - Maiuri, *Herculaneum*, pp. 32-33 [(worldcat)](https://search.worldcat.org/title/1107784297)
 - Maiuri, *Ercolano*, pp. 412-413 and fig. 345 (plan) on p. 407  [(worldcat)](https://search.worldcat.org/title/490581395)
-
-
-## Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
-
-## Publication date
-
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

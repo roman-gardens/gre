@@ -63,9 +63,3 @@ Complex built at the earliest during the reign of Trajan.
 - {{< id vocab="Pleiades" id="118572" name="Arae Flaviae" >}}
 - {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

@@ -3,11 +3,11 @@ gre_id: "a357172ce7"
 aliases: [/id/a357172ce7]
 type: garden
 title: "Casadetta del Genio"
-date: 2020-09-29T12:00:02-05:00
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 535-536
+date: 2020-09-29T12:00:02-05:00
 draft: true
 ---
 
@@ -77,14 +77,3 @@ unspecified
 - Maiuri, *Herculaneum*, p. 25 [(worldcat)](https://search.worldcat.org/title/1107784297)
 - Maiuri, *Ercolano*, pp. 375-377 and fig. 307 (plan) on p. 376 [(worldcat)](https://search.worldcat.org/title/490581395)
 - Ruggiero, *Ercolano*, pp. 562, 566, 574 [(worldcat)](https://search.worldcat.org/title/18405521)
-
-## Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
-
-## Publication date
-
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

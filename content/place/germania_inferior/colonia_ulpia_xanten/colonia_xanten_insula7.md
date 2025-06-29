@@ -59,10 +59,3 @@ Unspecified
 - {{< id vocab="Pleiades" id="108896" name="Col. Ulpia Traiana/Tricensimae" >}}
 - {{< id vocab="TGN" id="7208125" name="Colonia Ulpia Traiana (ancient site)" >}}
 
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

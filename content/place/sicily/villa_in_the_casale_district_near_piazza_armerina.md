@@ -66,11 +66,3 @@ R. J. A. Wilson, in G. C. M. Jansen (ed.), Cura aquarum in Sicilia: Proceedings 
 [(H)Enna](https://pleiades.stoa.org/places/462236/)
 
 
-## Publication date
-
-21 Apr 2021
-
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

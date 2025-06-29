@@ -85,9 +85,3 @@ unspecified
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 [D. Vaquerizo](link)
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

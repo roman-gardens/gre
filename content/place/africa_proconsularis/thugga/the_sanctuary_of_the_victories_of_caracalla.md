@@ -70,5 +70,3 @@ p. 364, pl. 14. [(worldcat)](https://search.worldcat.org/title/1028897747)
 - {{< id vocab="Pleiades" id="315223" name="Thugga/Tokai?" >}}
 - {{< id vocab="TGN" id="7017996" name="Dougga (deserted settlement)" >}}
 
-## Publication date
-21 Apr 2021

@@ -71,7 +71,3 @@ unspecified
 - {{< id vocab="Pleiades" id="265919" name="Igabrum/Egabrum" >}}
 - {{< id vocab="TGN" id="7007570" name="Cabra (inhabited place)" >}}
 
-
-## Publication date
-
-21 Apr 2021

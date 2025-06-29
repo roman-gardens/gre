@@ -63,5 +63,3 @@ The market located to the SW of the forum had a peristyle that enclosed an open 
 [Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 <!--add in orcid id and info-->
 
-## Publication Date
-21 Apr 2021

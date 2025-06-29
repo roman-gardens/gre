@@ -68,8 +68,3 @@ The plan was dated as early as the Augustan age, the scale and design seem more 
 John Bodel
 
 
-## Publication date
-21 Apr 2021
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

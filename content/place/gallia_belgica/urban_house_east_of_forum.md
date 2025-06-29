@@ -65,10 +65,3 @@ Unspecified
 ## Contributor
 <!-- Maureen Carroll ? -->
 
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

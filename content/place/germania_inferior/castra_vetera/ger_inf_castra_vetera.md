@@ -58,9 +58,6 @@ Unspecified
 - {{< id vocab="Pleiades" id="108867" name="Castra Vetera" >}}
 - {{< id vocab="TGN" id="7004944" name="Vetera Castra (deserted settlement)" >}}
 
-## Publication date
-21 Apr 2021
-
 ## Related articles
 
 [The Houses of Insula 7 in Colonia Ulpia Traiana](({{<relref "../colonia_ulpia_xanten/colonia_xanten_insula7.md">}}))

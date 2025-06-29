@@ -82,9 +82,4 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 [Yitzar Hirschfeld]
 
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

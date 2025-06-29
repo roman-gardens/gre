@@ -77,9 +77,6 @@ mid 2nd century CE
 ## Contributor
 [Véronique Blanc-Bijon] (WorldCat Identities: [lccn-nb99006585](http://worldcat.org/identities/lccn-nb99006585/))
 
-## Publication date
-
-21 Apr 2021
 <!--
 ## Related articles
 [House of the Triumph of Neptune (Maison du Triomphe de Neptune)]({{<relref "house_of_the_triumph_of_neptune.md">}})

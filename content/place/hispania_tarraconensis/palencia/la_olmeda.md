@@ -66,10 +66,4 @@ The large number of objects of daily life found in the ruins, some under toppled
 
 - {{< id vocab="Pleiades" id="236579" name="La Olmeda" >}}
 
-## Publication date
 
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

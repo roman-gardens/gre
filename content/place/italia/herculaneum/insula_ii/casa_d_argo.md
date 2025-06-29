@@ -3,11 +3,11 @@ gre_id: "8661630841"
 aliases: [/id/8661630841]
 type: garden
 title: "Casa D’Argo"
-date: 2020-09-29T12:00:02-05:00
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 533-534
+date: 2020-09-29T12:00:02-05:00
 draft: true
 ---
 
@@ -89,15 +89,3 @@ unspecified
 ## Places
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
-
-## Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
-
-## Publication date
-
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

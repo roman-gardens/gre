@@ -74,10 +74,4 @@ House of two peristyles (Maison aux deux péristyles)
 - {{< id vocab="Pleiades" id="315041" name="Horrea Caelia" >}}
 - {{< id vocab="TGN" id="1094946" name="Harqalah (inhabited place)" >}}
 
-## Publication date
 
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

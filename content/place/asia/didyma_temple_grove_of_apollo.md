@@ -79,10 +79,3 @@ Unspecified
 - {{< id vocab="Pleiades" id="599593" name="Didyma/Branchidai/Ioustinianopolis" >}}
 - {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
 
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

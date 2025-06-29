@@ -68,9 +68,6 @@ The house is dated to the 5th-6th century AD on the base of the style of its mos
 ## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
-## Publication date
-
-21 Apr 2021
 <!--
 ## Related articles
 [House of the Bust of Marcus Aurelius (Maison du Buste de Marc Aurèle)]({{<relref "house_of_the_bust_of_marcus_aurelius.md">}})

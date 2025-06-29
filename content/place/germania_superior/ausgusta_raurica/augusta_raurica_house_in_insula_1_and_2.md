@@ -69,9 +69,3 @@ House: AD 150 - ca. 170
 - {{< id vocab="Pleiades" id="177494" name="Col. Augusta Raurica" >}}
 - {{< id vocab="TGN" id="7017586" name="Augusta Rauricorum (deserted settlement)" >}}
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

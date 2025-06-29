@@ -70,10 +70,3 @@ Second century CE
 
 - {{< id vocab="Pleiades" id="297059709" name="House of the Labors of Hercules" >}}
 
-## Publication date
-
-<!--07 July 2020-->
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

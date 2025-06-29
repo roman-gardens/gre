@@ -107,10 +107,3 @@ This large house, some 4,000 square meters, was long and narrow. (Fig. 2) Variou
 - {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}
 
 
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

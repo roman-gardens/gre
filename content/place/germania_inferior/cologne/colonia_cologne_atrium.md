@@ -63,10 +63,6 @@ Middle of the first century CE until the fourth century CE
 - {{< id vocab="Pleiades" id="108751" name="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
 - {{< id vocab="TGN" id="7004446" name="Cologne (inhabited place)" >}}
 
-## Publication date
-
-21 Apr 2021
-
 ## Related articles
 
 [House of Dionysos (Colonia Claudia Ara Agrippinensium)]({{<relref "colonia_cologne_dionysius.md">}})

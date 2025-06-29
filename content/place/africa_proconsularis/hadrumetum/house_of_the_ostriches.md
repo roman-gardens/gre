@@ -68,9 +68,3 @@ The house is dated to the II c.
 
 ## Contributor
 [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
-
-## Publication date
-
-21 Apr 2021
-
-## Related articles

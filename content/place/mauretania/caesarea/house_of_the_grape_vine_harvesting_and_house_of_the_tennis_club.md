@@ -73,10 +73,3 @@ The western dwelling was organized around a narrow peristyle garden, 8.5 by 16.5
 
 <!-- {{< id vocab="Pleiades" id="125904443" name="125904443" >}} is invalid -->
 
-## Publication date
-
-<!--07 July 2020-->
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

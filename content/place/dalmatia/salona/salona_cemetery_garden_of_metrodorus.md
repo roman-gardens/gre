@@ -6,7 +6,7 @@ title: "Cemetery Garden of Metrodorus"
 latlon: [ 43.539561, 16.483426 ]
 author: John Bodel
 editor: Christian Casey
-date: 2020-07-15T10:10:26-04:00
+date: 2020-07-15
 draft: true
 ---
 
@@ -75,12 +75,3 @@ Late second or third century (CE)
 ## Contributor
 
 [John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
-
-## Publication date
-<!-- Format: dd MONTH_NAME yyyy -->
-
-15 July 2020
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

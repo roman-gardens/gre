@@ -79,10 +79,3 @@ Early 3rd century CE
 
 [Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)
 
-## Publication date
-21 Apr 2021
-<!--07 July 2020-->
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

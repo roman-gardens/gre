@@ -71,10 +71,3 @@ The other garden area was slightly farther south and against the east wall of th
 
 - {{< id vocab="Pleiades" id="236443" name="Conimbriga" >}}
 
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

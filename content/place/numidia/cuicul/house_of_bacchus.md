@@ -90,10 +90,3 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 
 [Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)
 
-## Publication date
-21 Apr 2021
-<!--07 July 2020-->
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

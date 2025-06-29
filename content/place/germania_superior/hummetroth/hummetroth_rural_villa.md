@@ -66,9 +66,3 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 - {{< id vocab="Pleiades" id="981525" name="Germania Superior" >}}
 - {{< id vocab="TGN" id="7165467" name="Hummetroth (inhabited place)" >}}
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

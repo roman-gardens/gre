@@ -68,10 +68,3 @@ Third century CE
 
 - {{< id vocab="Pleiades" id="814800402" name="House of Flavius Germanus" >}}
 
-## Publication date
-
-<!--07 July 2020-->
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

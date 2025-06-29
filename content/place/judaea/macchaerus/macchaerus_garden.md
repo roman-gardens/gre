@@ -107,9 +107,4 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 [Győző Vörös](http://worldcat.org/identities/lccn-no98121290/)
 
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

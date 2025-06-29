@@ -71,10 +71,3 @@ unspecified
 ## Contributor
 
 Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
-
-## Publication date
-
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

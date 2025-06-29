@@ -65,5 +65,3 @@ The anonymous sanctuary, called *Dar Lachheb* (184-187 CE), located about fifty 
 - {{< id vocab="Pleiades" id="315223" name="Thugga/Tokai?" >}}
 - {{< id vocab="TGN" id="7017996" name="Dougga (deserted settlement)" >}}
 
-## Publication date
-21 Apr 2021

@@ -65,11 +65,3 @@ M. Aoyagi, Ripresa eegli scavi nella villa romana di Realmonte, Kokalos 26–27 
 [Durrueli di Realmonte](https://pleiades.stoa.org/places/462188/)
 
 
-## Publication date
-
-21 Apr 2021
-
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

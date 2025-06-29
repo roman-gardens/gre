@@ -4,7 +4,7 @@ aliases: [/id/16874f1e72]
 type: garden
 title: "House of the Triumph of Neptune (Maison du Triomphe de Neptune)"
 latlon: [ 35.079643, 11.020606 ]
-author: 
+author: Véronique Blanc-Bijon
 editor: Yuming Huang
 date: 2021-04-21
 draft: true
@@ -71,13 +71,6 @@ Another possible garden(X) was adjacent to the reception room of the northern ai
 ## Places
 - {{< id vocab="Pleiades" id="324653" name="Acholla" >}}
 - {{< id vocab="TGN" id="5003657" name="Henchir Bou Tria (deserted settlement)" >}}
-
-## Contributor
-[Véronique Blanc-Bijon] (WorldCat Identities: [lccn-nb99006585](http://worldcat.org/identities/lccn-nb99006585/))
-
-## Publication date
-
-21 Apr 2021
 
 <!--## Related articles
 [House of Asinus Rufinus (Maison d'Asinus Rufinus)]({{<relref "house_of_asinus_rufinus.md">}})

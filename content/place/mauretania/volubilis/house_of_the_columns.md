@@ -66,10 +66,3 @@ The House of the Columns, approximately 1880 square meters, is located to the no
 ## Places
 
 
-## Publication date
-
-<!--07 July 2020-->
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

@@ -100,10 +100,3 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 - {{< id vocab="Pleiades" id="599612" name="Ephesus/Arsinoe(ia)" >}}
 - {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
 
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

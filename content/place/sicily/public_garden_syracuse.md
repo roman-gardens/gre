@@ -68,11 +68,3 @@ id., Sicily under the Roman Empire, Warminster, 1990, pp. 197–8  with fig. 165
 - {{< id vocab="Pleiades" id="462503" name="Syracusae/Syrakousai" >}}
 
 
-## Publication date
-
-21 Apr 2021
-
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

@@ -106,9 +106,3 @@ Beginning of the 1st c. CE - beginning of the Vth century
 
 [Jacques Monnier](https://unil.academia.edu/JacquesMonnier) (ORCID: N/A)
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

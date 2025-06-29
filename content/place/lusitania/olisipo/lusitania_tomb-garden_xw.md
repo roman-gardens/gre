@@ -63,10 +63,3 @@ An inscription found immured in the corner of a house near Lisbon around 1735 re
 
 - {{< id vocab="Pleiades" id="256338" name="Olisipo" >}}
 
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

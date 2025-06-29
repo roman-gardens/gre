@@ -78,9 +78,3 @@ Unspecified
 - {{< id vocab="Pleiades" id="814448537" name="Grove of Asklepios at Kos" >}}
 - {{< id vocab="TGN" id="7012054" name="Kos, Nísos (island)" >}}
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

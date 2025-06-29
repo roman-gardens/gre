@@ -64,9 +64,3 @@ Early second century CE to ca. 300 CE
 - {{< id vocab="Pleiades" id="109442" name="Voerendaal" >}}
 - {{< id vocab="TGN" id="7272601" name="Voerendaal (inhabited place)" >}}
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

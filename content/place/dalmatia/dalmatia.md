@@ -50,9 +50,3 @@ A sublocation is any area larger than an individual garden, but located within a
 <!--
 - {{< id vocab="" id="" name="" >}}
 -->
-
-
-## Publication date
-<!-- Format: dd MONTH_NAME yyyy -->
-
-<!-- DATE -->

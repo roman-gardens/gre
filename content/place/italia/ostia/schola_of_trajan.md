@@ -107,5 +107,3 @@ winter of 1938-1939
 
 Thomas Morard
 
-## Publication date
-21 Apr 2021

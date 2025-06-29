@@ -67,9 +67,6 @@ Late 1st-4th century CE
 ## Contributor
 [Véronique Blanc-Bijon](link) (WorldCat Identities: [lccn-nb99006585](http://worldcat.org/identities/lccn-nb99006585/))
 
-## Publication date
-
-21 Apr 2021
 <!--
 ## Related articles
 [House of the Bust of Marcus Aurelius (Maison du Buste de Marc Aurèle)]({{<relref "house_of_the_bust_of_marcus_aurelius.md">}})

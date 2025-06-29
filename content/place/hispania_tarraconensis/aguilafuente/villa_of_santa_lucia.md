@@ -70,10 +70,3 @@ Excavation in 1968 – 1972 at this site, which has been reburied, revealed over
 ## Contributor
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

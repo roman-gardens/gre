@@ -75,10 +75,3 @@ It is assumed that the peristyle and its garden may have had a view over the sea
 
 - {{< id vocab="Pleiades" id="602104716" name="House of the Scattered Branches and Flowers" >}}
 
-## Publication date
-
-<!--07 July 2020-->
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

@@ -70,9 +70,6 @@ Late first century CE until the fourth century CE.
 - {{< id vocab="Pleiades" id="109210" name="Niederzier-Hambach" >}}
 - {{< id vocab="TGN" id="7128518" name="Niederzier (inhabited place)" >}}
 
-## Publication date
-21 Apr 2021
-
 ## Related articles
 
 [Niederzier-Hambach 69]({{<relref "./niederzier-hambach69.md">}}).

@@ -85,10 +85,4 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 ## Contributor
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
-## Publication date
 
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

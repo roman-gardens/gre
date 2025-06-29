@@ -52,6 +52,3 @@ unspecified
 
 - {{< id vocab="Pleiades" id="128384" name="Col. Carnuntum" >}}
 - {{< id vocab="TGN" id="7032538" name="Carnuntum (deserted settlement)" >}}
-
-## Publication date
-21 Apr 2021

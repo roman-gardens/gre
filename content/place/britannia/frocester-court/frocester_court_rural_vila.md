@@ -61,9 +61,4 @@ early 4th - 5th century CE
 - {{< id vocab="Pleiades" id="79471" name="Frocester" >}}
 - {{< id vocab="TGN" id="4004114" name="Frocester (inhabited place)" >}}
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

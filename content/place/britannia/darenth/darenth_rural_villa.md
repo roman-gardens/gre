@@ -59,9 +59,4 @@ ca. 100 CE - late 4th century CE
 - {{< id vocab="Pleiades" id="79413" name="Darenth" >}}
 - {{< id vocab="TGN" id="7027349" name="Darenth (inhabited place)" >}}
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

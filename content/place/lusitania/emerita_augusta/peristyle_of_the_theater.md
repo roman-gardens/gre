@@ -99,9 +99,3 @@ While the theater belongs to multiple phases of construction, the aula sacra bel
 - {{< id vocab="TGN" id="7007664" name="Mérida (inhabited place)" >}}
 
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

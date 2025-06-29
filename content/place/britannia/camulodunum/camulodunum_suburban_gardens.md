@@ -57,9 +57,4 @@ ig. 1: Area outside the Balkerne gate before widening of the town ditch. Details
 - {{< id vocab="Pleiades" id="79393" name="Col. Camulodunum" >}}
 - {{< id vocab="TGN" id="7011866" name="Colchester (inhabited place)" >}}
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

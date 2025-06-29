@@ -94,9 +94,4 @@ Flavian times（A.D 69–96）
 - {{< id vocab="TGN" id="8712888" name="Segobriga (deserted settlement)" >}}
 
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

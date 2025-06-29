@@ -99,5 +99,3 @@ unspecified
 
 [Stella Falzone](https://www.cespro-ostia.org/stella-falzone) <!-- is this a good website for Falzone? -->
 
-## Publication date
-21 Apr 2021

@@ -72,9 +72,3 @@ Severnan Period - Middle of 3rd century
 - {{< id vocab="Pleiades" id="177495" name="Aventicum" >}}
 - {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

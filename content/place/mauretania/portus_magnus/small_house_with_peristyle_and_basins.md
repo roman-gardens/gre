@@ -61,10 +61,3 @@ The house was laid out around a peristyle that may have had a garden. 12 columns
 ## Places
 
 
-## Publication date
-
-<!--07 July 2020-->
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

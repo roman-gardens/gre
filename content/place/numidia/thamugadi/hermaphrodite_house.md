@@ -74,10 +74,4 @@ The large house was laid out around a large peristyle of 22 columns. In the axis
 - {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}
 - {{< id vocab="TGN" id="7001328" name="Timgad (deserted settlement)" >}}
 
-## Publication date
 
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

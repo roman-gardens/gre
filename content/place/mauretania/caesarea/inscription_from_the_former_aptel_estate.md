@@ -69,10 +69,3 @@ An inscription CIL VIII 21081 mentioning a pool covered by a wine trellis suppor
 ## Places
 
 
-## Publication date
-
-<!--07 July 2020-->
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

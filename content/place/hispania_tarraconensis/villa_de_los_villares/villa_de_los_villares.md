@@ -88,9 +88,3 @@ The first third of the 2nd century
 - {{< id vocab="TGN" id="7322442" name="Santervás del Burgo (inhabited place)" >}}
 
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

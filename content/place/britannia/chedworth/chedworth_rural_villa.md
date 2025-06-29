@@ -70,10 +70,3 @@ Late 19th century, 2000-2002
 
 - {{< id vocab="Pleiades" id="79383" name="Chedworth" >}}
 - {{< id vocab="TGN" id="7032560" name="Chedworth Roman Villa (historic site)" >}}
-
-## Publication date
-21 Apr 2021
-
-## Related articles
-
-<!-- Links to other related articles. Leave blank for now -->

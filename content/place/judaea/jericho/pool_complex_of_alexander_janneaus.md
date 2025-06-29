@@ -90,9 +90,4 @@ By 90 BCE, Jannaeus was experiencing political and military difficulties, and it
 
 [Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
 
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

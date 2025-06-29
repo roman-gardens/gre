@@ -71,9 +71,6 @@ The house stands on the other side of the Wadi Oum El Abid, on the left bank, 12
 - {{< id vocab="Pleiades" id="324664" name="Althiburos" >}}
 - {{< id vocab="TGN" id="5003658" name="Althiburus (deserted settlement)" >}}
 
-## Publication date
-
-21 Apr 2021
 <!--
 ## Related articles
 [House of the Muses (Maison des Muses)]({{<relref "house_of_the_muses.md">}})

@@ -70,10 +70,3 @@ The houses were excavated around 1940, at a time when there was no thought of re
 
 - {{< id vocab="Pleiades" id="236443" name="Conimbriga" >}}
 
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

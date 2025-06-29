@@ -79,9 +79,3 @@ Within the enclosure of the Islamic Alcazaba, west of the city, are the remains 
 - {{< id vocab="TGN" id="8713074" name="Alcazaba (ancient site)" >}}
 
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

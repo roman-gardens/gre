@@ -116,5 +116,3 @@ unspecified
 
 Elizabeth J. Shepherd
 
-## Publication date
-21 Apr 2021

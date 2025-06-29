@@ -79,10 +79,3 @@ There is very little information about this house, only two semi circular pools 
 
 - {{< id vocab="Pleiades" id="125904444" name="House of the Two Pools" >}}
 
-## Publication date
-
-<!--07 July 2020-->
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

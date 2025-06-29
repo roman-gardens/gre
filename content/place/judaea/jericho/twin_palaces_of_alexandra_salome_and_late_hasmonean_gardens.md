@@ -94,9 +94,4 @@ After Alexandra’s death, during the period from 67-32, a large swimming pool (
 ## Contributor
 
 [Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
-## Publication date
-21 Apr 2021
 
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

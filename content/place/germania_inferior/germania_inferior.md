@@ -61,7 +61,3 @@ None
 - [Germania Inferior]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="981524" name="Germania Inferior" >}}
 - {{< id vocab="TGN" id="6002234" name="Germania Inferior (province)" >}}
-
-## Publication date
-
-21 Apr 2021

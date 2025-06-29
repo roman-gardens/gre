@@ -81,10 +81,4 @@ Domus of the Sea Front (Villa du front de mer)
 - {{< id vocab="Pleiades" id="305090" name="Hippo Regius" >}}
 - {{< id vocab="TGN" id="7001313" name="Annaba (inhabited place)" >}}
 
-## Publication date
 
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

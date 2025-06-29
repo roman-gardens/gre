@@ -68,10 +68,4 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 ## Contributor
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
-## Publication date
 
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

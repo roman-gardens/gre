@@ -98,10 +98,4 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 ## Contributor
 <!-- [name](https://....) -->
 
-## Publication date
 
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

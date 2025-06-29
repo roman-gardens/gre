@@ -52,10 +52,3 @@ Unspecified
 - {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
 
 
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

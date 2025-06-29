@@ -99,10 +99,3 @@ Unspecified
 <!-- {{< id vocab="Pleiades" id="827863015" name="82786301" >}} is invalid -->
 - {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
 
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

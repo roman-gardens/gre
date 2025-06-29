@@ -70,7 +70,3 @@ unspecified
 - {{< id vocab="Pleiades" id="574194294" name="House of the West at Baelo" >}}
 - {{< id vocab="TGN" id="8712326" name="Baelo Claudia (deserted settlement)" >}}
 
-
-## Publication date
-
-21 Apr 2021

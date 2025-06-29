@@ -65,10 +65,3 @@ fourth century CE
 - {{< id vocab="Pleiades" id="678437" name="Tyrus/Col. Septimia Severa" >}}
 - {{< id vocab="TGN" id="7030348" name="Syria (province)" >}}
 
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

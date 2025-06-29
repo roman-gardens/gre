@@ -68,9 +68,3 @@ unspecified
 - {{< id vocab="TGN" id="1061700" name="Alameda (inhabited place)" >}}
 
 
-## Publication date
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->
