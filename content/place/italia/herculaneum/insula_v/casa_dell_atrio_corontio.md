@@ -3,7 +3,7 @@ gre_id: "659fa1217c"
 aliases: [/id/659fa1217c]
 type: garden
 title: "Casa dell’Atrio Corontio"
-date: 2020-09-29T12:00:02-05:00
+date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong

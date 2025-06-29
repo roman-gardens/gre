@@ -6,7 +6,7 @@ title: "House of the Grape Vine Harvesting and House of the Tennis Club (Maison 
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 editor: Brandon Wilson
-date: 2020-11-16T10:00:00-04:00
+date: 2020-11-16
 draft: true
 ---
 

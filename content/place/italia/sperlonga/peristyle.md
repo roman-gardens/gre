@@ -6,7 +6,7 @@ title: "The Gardens of Sperlonga. The peristyle garden "
 latlon: [ 41.251480, 13.449332 ]
 author: EUGENIA SALZA PRINA RICOTTI
 editor: Yuyao Liu
-date: 2020-11-29T10:54:29-07:00
+date: 2020-11-29
 draft: true
 ---
 

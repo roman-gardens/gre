@@ -6,7 +6,7 @@ title: "Tomb Garden of M. Aurelius Syntomus and Aurelia Marciane"
 latlon: [ 51.667934, 6.448177 ]
 author: Francesca Carboni
 editor: Lingyi Xu
-date: 2020-11-29T10:54:29-07:00
+date: 2020-11-29
 draft: true
 ---
 

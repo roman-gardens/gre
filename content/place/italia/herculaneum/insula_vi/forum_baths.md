@@ -3,7 +3,7 @@ gre_id: "eb46fa1af7"
 aliases: [/id/eb46fa1af7]
 type: garden
 title: "Forum Baths"
-date: 2020-09-29T12:00:02-05:00
+date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong

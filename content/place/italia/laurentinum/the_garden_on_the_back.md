@@ -6,7 +6,7 @@ title: "The garden on the back"
 latlon: [ 41.625, 12.375 ]
 author: SALZA PRINA RICOTTI
 editor: Yuyao Liu
-date: 2020-11-07T10:54:29-07:00
+date: 2020-11-07
 draft: true
 ---
 

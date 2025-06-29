@@ -3,7 +3,7 @@ gre_id: "5eba2c564c"
 aliases: [/id/5eba2c564c]
 type: place
 title: "Macedonia"
-date: 2020-07-16T09:34:20-04:00
+date: 2020-07-16
 author: 
 editor: Amartya Shri
 draft: true

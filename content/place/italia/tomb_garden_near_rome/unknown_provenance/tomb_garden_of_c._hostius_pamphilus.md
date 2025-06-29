@@ -6,7 +6,7 @@ title: "Tomb Garden of C. Hostius Pamphilus"
 latlon: [ 0, 0 ]
 author:
 editor: Lingyi Xu
-date: 2020-11-29T10:54:29-07:00
+date: 2020-11-29
 draft: true
 ---
 

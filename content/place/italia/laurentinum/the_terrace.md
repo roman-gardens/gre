@@ -6,7 +6,7 @@ title: "The terrance"
 latlon: [ 0, 0 ]
 author: SALZA PRINA RICOTTI
 editor: Yuyao Liu
-date: 2020-11-07T10:54:29-07:00
+date: 2020-11-07
 draft: true
 ---
 

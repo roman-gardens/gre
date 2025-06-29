@@ -6,7 +6,7 @@ title: "Tomb Garden of Q(uintius) Medicus"
 latlon: [ 41.922827, 12.595784 ]
 author: Paola Olivanti
 editor: Lingyi Xu
-date: 2020-11-29T10:54:29-07:00
+date: 2020-11-29
 draft: true
 ---
 

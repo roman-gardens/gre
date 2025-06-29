@@ -6,7 +6,7 @@ title: "Dalmatia"
 latlon: [ 50.940671, 6.959908 ]
 author: None
 editor: Christian Casey
-date: 2020-07-14T16:46:14-04:00
+date: 2020-07-14
 draft: true
 ---
 

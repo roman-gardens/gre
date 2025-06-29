@@ -6,7 +6,7 @@ title: "V.iv.c."
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 editor: Jianing Zhou
-date: 2020-09-29T12:07:01-04:00
+date: 2020-09-29
 draft: true
 ---
 

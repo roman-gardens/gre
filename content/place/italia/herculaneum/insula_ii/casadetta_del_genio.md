@@ -7,7 +7,7 @@ latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
 Jashemski-catalogue: 535-536
-date: 2020-09-29T12:00:02-05:00
+date: 2020-09-29
 draft: true
 ---
 

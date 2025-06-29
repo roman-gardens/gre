@@ -6,7 +6,7 @@ title: "House of the Labors of Hercules (La maison des travaux d'Hercules)"
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 editor: Brandon Wilson
-date: 2020-10-01T10:00:00-04:00
+date: 2020-10-01
 draft: true
 ---
 
