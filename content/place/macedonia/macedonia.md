@@ -4,7 +4,7 @@ aliases: [/id/5eba2c564c]
 type: place
 title: "Macedonia"
 date: 2020-07-16T09:34:20-04:00
-author: NAME_OF_AUTHOR
+author: 
 editor: Amartya Shri
 draft: true
 ---

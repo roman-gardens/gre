@@ -52,7 +52,7 @@ This small house, excavated in 1872, had no [atrium](http://vocab.getty.edu/page
 
 
 ## Places
-[Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
+[Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

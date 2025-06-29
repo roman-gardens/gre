@@ -48,7 +48,7 @@ This [caupona](http://vocab.getty.edu/page/aat/300005208) was excavated in 1873 
 * Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 13 [(worldcat)](https://search.worldcat.org/title/254502217)  
 
 ## Places
-[Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
+[Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

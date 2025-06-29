@@ -4,7 +4,7 @@ aliases: [/id/515b239960]
 type: garden
 title: "House of the small Peristyle"
 latlon: [ 36.838512, 11.115794 ]
-author: AUTHOR_UNKONWN
+author: 
 editor: Yuming Huang
 date: 2021-04-21
 draft: true

@@ -52,7 +52,7 @@ This small [caupona](http://vocab.getty.edu/page/aat/300005208) had a garden at 
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://search.worldcat.org/title/974375313)  
 
 ## Places
-[Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
+[Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

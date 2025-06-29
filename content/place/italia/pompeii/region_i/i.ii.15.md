@@ -45,7 +45,7 @@ This humble house was excavated in 1873. It had no garden but the [impluvium](ht
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*
 
 ## Places
-[Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
+[Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

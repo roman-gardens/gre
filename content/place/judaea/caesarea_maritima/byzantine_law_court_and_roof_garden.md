@@ -23,7 +23,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 ## Location
 
 [Caesarea Maritima]({{<relref ".">}}) \
-[Caesarea Maritima](https://pleiades.stoa.org/places/678401/?searchterm=Caesarea%20Maritima*)
+[Caesarea Maritima](https://pleiades.stoa.org/places/678401)
 
 ## Location Description
 
@@ -78,6 +78,6 @@ During the third phase, in the 6th century, the entire garden, including the fou
 
 ## Places
 
-[Stratonos Pyrgos/Caesarea](https://pleiades.stoa.org/places/678401/?searchterm=Caesarea%20Maritima*)
+[Stratonos Pyrgos/Caesarea](https://pleiades.stoa.org/places/678401)
 
 - {{< id vocab="TGN" id="7001363" name="Caesarea (deserted settlement)" >}}

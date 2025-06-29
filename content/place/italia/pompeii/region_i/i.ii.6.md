@@ -50,7 +50,7 @@ The west portico of the small peristyle garden at the rear of the house was ente
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*
 
 ## Places
-[Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
+[Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

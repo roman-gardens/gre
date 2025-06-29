@@ -4,7 +4,7 @@ aliases: [/id/350811178b]
 type: garden
 title: "Private Houses at Antioch"
 latlon: [ 36.222551, 36.183214 ]
-author: Christine Kondoleon, Elizabeth Macaulay-Lewis
+author: Christine Kondoleon, Elizabeth Macaulay
 editor: Jane Millar
 date: 2021-04-21
 draft: true
@@ -68,14 +68,3 @@ second to the sixth centuries CE
 
 - {{< id vocab="Pleiades" id="658381" name="Antiochia/Theoupolis" >}}
 - {{< id vocab="TGN" id="7002354" name="Antioch (deserted settlement)" >}}
-
-## Contributor
-[Christine Kondoleon](#) and [Elizabeth Macaulay-Lewis](#)
-
-## Publication date
-
-21 Apr 2021
-
-<!--## Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

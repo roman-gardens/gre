@@ -129,7 +129,7 @@
 
 
 
-
+- [ ] DON'T LINK place searches from place pages (only from garden pages)
 
 
 # Documentation

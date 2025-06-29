@@ -23,7 +23,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 ## Location
 
 [Ein Gedi]({{<relref ".">}}) \
-[Ein Gedi](https://pleiades.stoa.org/places/196074068/?searchterm=%20Ein%20Gedi*)
+[Ein Gedi](https://pleiades.stoa.org/places/196074068)
 
 ## Location Description
 

@@ -1,6 +1,6 @@
 ---
 type: people
-title: David M. Ratzan
+title: David Ratzan
 date: 2025-06-19
 draft: false
 ---

@@ -66,7 +66,7 @@ B. The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the east
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, no. 32 [(worldcat)](https://search.worldcat.org/title/974375313)  
 
 ## Places
-[Regio I, Pompeii](https//pleiades.stoa.org/places/222138654)
+[Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

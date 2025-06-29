@@ -9,7 +9,7 @@ draft: false
 CUNY Graduate Center
 
 ## E-mail
-emacaulay_lewis@gc.cuny.edu
+emacaulay@gc.cuny.edu
 
 ## Website
 https://www.gc.cuny.edu/people/elizabeth-macaulay

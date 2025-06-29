@@ -13,7 +13,7 @@ draft: true
 ## Location
 
 [Italia]({{<relref "../../../..">}})
-[Villa Tiberii](https://pleiades.stoa.org/places/433204?searchterm=sperl)
+[Villa Tiberii](https://pleiades.stoa.org/places/433204)
 
 ## Sublocation
 Sperlonga
