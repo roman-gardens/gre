@@ -63,9 +63,9 @@ Severnan Period - Middle of 3rd century
 
 ## Bibliography
 
-* J. Morel, “Avenches VD, Derrière la Tour et insula 7 : Fouilles 1989/1990,” *Annuaire de la Société Suisse de Préhistoire et d’Archéologie* 74, 1991: 214-220, fig. 2. [(worldcat)](https://search.worldcat.org/title/753507130)
-* J. Morel, “Avenches, Palais de Derrière la Tour,” *Bull. de l’Association Pro Aventico* 37, 1995: 206-209, fig. 4.[(worldcat)](https://search.worldcat.org/title/716573918)
-* J. Morel, “L’habitat,” in : A. Hochuli-Gysel, ed., Avenches, capitale des Helvètes, *Archéologie Suisse* 24.1 2001: 47-49, fig. 62.[(worldcat)](https://search.worldcat.org/title/718693183)
+* J. Morel, "Avenches VD, Derrière la Tour et insula 7 : Fouilles 1989/1990," *Annuaire de la Société Suisse de Préhistoire et d’Archéologie* 74, 1991: 214-220, fig. 2. [(worldcat)](https://search.worldcat.org/title/753507130)
+* J. Morel, "Avenches, Palais de Derrière la Tour," *Bull. de l’Association Pro Aventico* 37, 1995: 206-209, fig. 4.[(worldcat)](https://search.worldcat.org/title/716573918)
+* J. Morel, "L’habitat," in : A. Hochuli-Gysel, ed., Avenches, capitale des Helvètes, *Archéologie Suisse* 24.1 2001: 47-49, fig. 62.[(worldcat)](https://search.worldcat.org/title/718693183)
 
 ## Places
 

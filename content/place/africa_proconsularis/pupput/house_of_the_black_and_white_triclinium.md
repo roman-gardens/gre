@@ -62,7 +62,7 @@ The house is laid out around a square shaped peristyle garden. Between the colum
 2nd-4th century CE
 
 ## Bibliography
-* Ben Abed Ben Khader, A., “Présentation de la maison du triclinium en noir et blanc à Pupput”, in *Bulletin des Travaux de l'Institut National d'Archéologie et de I 'Art (Tunis)* 3, 1989 (1990), pp. 32-33.
+* Ben Abed Ben Khader, A., "Présentation de la maison du triclinium en noir et blanc à Pupput", in *Bulletin des Travaux de l'Institut National d'Archéologie et de I 'Art (Tunis)* 3, 1989 (1990), pp. 32-33.
 * Ben Abed Ben Khader, A., Griesheimer, M., "Fouilles de la nécropole romaine de Pupput (Tunisie)", in *Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres*, 145ᵉ année, N. 1, 2001. pp. 553-592, fig. 1,  p.557. [(worldcat)](https://search.worldcat.org/title/859686146)
 * Ben Abed Ben Khader, A., "Les maisons de Pupput (Tunisie)", in *Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres*, 150ᵉ année, N. 1, 2006. pp. 510-518, fig. 2, p. 513. [(worldcat)](https://search.worldcat.org/title/859686146)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.188-189. [(worldcat)](https://search.worldcat.org/title/989088620)

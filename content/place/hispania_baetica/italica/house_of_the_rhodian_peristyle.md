@@ -34,7 +34,7 @@ House of the Rhodian Peristyle
 
 ## Garden Description
 
-This house is on the top of a hill and has thus been exposed to more erosion and pillage of stone than most.  The entrance was on the east side and led into the peristyle.  One of its galleries was higher than the other three. Vitruvius 6.7.3 used the term “Rhodian” to describe such peristyles, and this feature gave the house its modern name (reference). Only two rooms around the courtyard are in good enough condition to be interpreted.  One is marked as a triclinium by the shape of its checker-board mosaic.  The other had rolls of foliage. In the absence of evidence to the contrary, we may guess that the central courtyard was a garden.       
+This house is on the top of a hill and has thus been exposed to more erosion and pillage of stone than most.  The entrance was on the east side and led into the peristyle.  One of its galleries was higher than the other three. Vitruvius 6.7.3 used the term "Rhodian" to describe such peristyles, and this feature gave the house its modern name (reference). Only two rooms around the courtyard are in good enough condition to be interpreted.  One is marked as a triclinium by the shape of its checker-board mosaic.  The other had rolls of foliage. In the absence of evidence to the contrary, we may guess that the central courtyard was a garden.       
 
 ## Maps
 

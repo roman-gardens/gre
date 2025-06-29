@@ -45,7 +45,7 @@ second half of the 4th century CE to the late 6th century CE
 ## Bibliography
 * J. McK. Camp, *The Athenian Agora. Excavations in the heart of Classical Athens.* London, 1986, pp. 202-211, figs. 170-186. [(worldcat)](https://search.worldcat.org/title/1153939923).
 * A. Frantz, *Late Antiquity: A.D. 267-700.* The Athenian Agora XXIV. Princeton, 1988, pp. 40-48, pls. 6, 27a, 31-36a, 37a, 43. [(worldcat)](https://search.worldcat.org/title/63179976).
-* T. L. Shear, “The Athenian Agora: Excavations of 1970,” *Hesperia* 40, 1971: 266-270, 273-275, pls. 53-55, 58-59. [(JSTOR)](https://www.jstor.org/stable/147527).
+* T. L. Shear, "The Athenian Agora: Excavations of 1970," *Hesperia* 40, 1971: 266-270, 273-275, pls. 53-55, 58-59. [(JSTOR)](https://www.jstor.org/stable/147527).
 
 ## Places
 - {{< id vocab="Pleiades" id="969121823" name="Areopagus" >}}

@@ -44,7 +44,7 @@ This large preserved palace provides a rare glimpse of the kind of luxurious com
 
 The west side of the uppermost terrace contains the caves described by Josephus as *triclinia*, with doors designed so that only one person could pass through at a time.  A dovecote (*columbarium*), a typical feature of local palaces through the Herodian period, lies at the southern end of the cliff. Other remains of the palace and earlier inhabitation on the site lie on the east side of this terrace.
 
-The second terrace is largely unexplored but remains of a building have been noted at its southwest corner.  The lowest terrace has been the focus of archaeological exploration and contains the well-known Lion Pavilion restored by Will (Figs. 2 and 3).  It was once thought to be a temple and is oddly described by Josephus as a fortress. This terrace is retained by large stone dam, which may have held water from the abundant local springs forming an artificial lake (Fig. 4). The pavilion is set well above the level of the land around it, and Netzer proposes that the “moat” mentioned by Josephus was in fact a reflecting pool for the ornately carved building at its center (Fig. 5).
+The second terrace is largely unexplored but remains of a building have been noted at its southwest corner.  The lowest terrace has been the focus of archaeological exploration and contains the well-known Lion Pavilion restored by Will (Figs. 2 and 3).  It was once thought to be a temple and is oddly described by Josephus as a fortress. This terrace is retained by large stone dam, which may have held water from the abundant local springs forming an artificial lake (Fig. 4). The pavilion is set well above the level of the land around it, and Netzer proposes that the "moat" mentioned by Josephus was in fact a reflecting pool for the ornately carved building at its center (Fig. 5).
 
 Below the dam, the land drops away dramatically in a series of agricultural terraces leading to a large valley and the Jordan Valley beyond.  The complex was unfinished at the time of Hyrcanus’ death in 169-68 BCE, and the complex eventually came into the properties of [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great).
 
@@ -80,15 +80,15 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 ## Bibliography
 - Lapp, N. 1993. "ʻIraq al-Amir," In *The New Encyclopedia of Archaeological Excavations in the Holy Land* IV, edited by E. Stern, *et al*, 1254-1257, Jerusalem. [(worldcat)](https://search.worldcat.org/title/850884350)
 
-- Lapp, P. W., 1963. “The second and third campaigns at Araq-el-Emir,” *Bulletin of the American Schools of Oriental Research* 171: 8-39.(http://www.jstor.org/stable/1355604)
+- Lapp, P. W., 1963. "The second and third campaigns at Araq-el-Emir," *Bulletin of the American Schools of Oriental Research* 171: 8-39.(http://www.jstor.org/stable/1355604)
 
-- Netzer, E. 1999. “Floating in the Desert: a pleasure palace in Jordan.” *Archaeology Odyssey* 2/1: 46–55. (https://www.baslibrary.org/archaeology-odyssey/2/1/14)
+- Netzer, E. 1999. "Floating in the Desert: a pleasure palace in Jordan." *Archaeology Odyssey* 2/1: 46–55. (https://www.baslibrary.org/archaeology-odyssey/2/1/14)
 
 - Nielsen, I., 1994. *Hellenistic Palaces: Tradition and Renewal*, Aarhhus: Aarhus University Press. [(worldcat)](https://search.worldcat.org/title/468433476)
 
 - Will, E., and F. Larché, 1991. ʻIraq al Amir : le château du Tobiade Hyrcan, Paris: Biblioteque Archeologique et Historique 132. [(worldcat)](https://search.worldcat.org/title/231538684)
 
-- Zayadine, F. 1997. “Iraq El Amir” In *The Oxford Encyclopedia of the Archaeology of the Near East*, edited by E. Meyers, Oxford. [(worldcat)](https://search.worldcat.org/title/1080900665)
+- Zayadine, F. 1997. "Iraq El Amir" In *The Oxford Encyclopedia of the Archaeology of the Near East*, edited by E. Meyers, Oxford. [(worldcat)](https://search.worldcat.org/title/1080900665)
 
 
 ## Places

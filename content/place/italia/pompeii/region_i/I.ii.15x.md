@@ -61,7 +61,7 @@ NEW WAY ↓↓↓↓
 
 {{< image src="fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< image src="fig-2-region-i-insula-ii.png" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
+{{< image src="fig-2-region-i-insula-ii.png" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, "Topo grafia," pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, "Topo grafia," pl. 9 (Rights Statement)." >}}
 
 <!--## Images-->
 
@@ -79,8 +79,8 @@ unspecified
 
 * Fiorelli, *Descr.*, p. 42. [(worldcat)](https://search.worldcat.org/title/908272023)
 * Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](https://search.worldcat.org/title/921816405)
-* Viola, “*Scavi*” p. 12. [(worldcat)](https://search.worldcat.org/title/715087975)
-* Warscher, “Codex.”
+* Viola, "*Scavi*" p. 12. [(worldcat)](https://search.worldcat.org/title/715087975)
+* Warscher, "Codex."
 
 ## Places
 

@@ -78,7 +78,7 @@ NEW WAY ↓↓↓↓
 1. *Maison 1996*, t. II,, P. 32-33
 
 
-2.  “Aix-en-Provence,”*Atlas*, P. 62-4, 71.
+2.  "Aix-en-Provence,"*Atlas*, P. 62-4, 71.
 
 
 ## Places

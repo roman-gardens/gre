@@ -100,10 +100,10 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 
 * M. Royo, *Domus Imperatoriae, Topographie, formation et imaginaire des palais impériaux du Palatin*, Rome, 1999. [(worldcat)](https://search.worldcat.org/title/907608488)
 * F. Villedieu and N. André, *Propositions pour une reconstitution de l'édifice flavien et de l'ensemble monumental tardif de la Vigna Barberini* (Rome, Palatin), *Actes du Colloque: Rome An 2000* (Caen, 2003). [(worldcat)](https://search.worldcat.org/title/57229072)
-* J.-L Desnier, “Una borsa persa durante i lavori di terrazzamento” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 57-58. [(worldcat)](https://search.worldcat.org/title/5894435382)
-* F. Villedieu,  “Il corpo settentrionale e i giardini del palazzo imperiale flavio” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 59-71. [(worldcat)](https://search.worldcat.org/title/5894435382)
-* J.-P Morel, “Il giardino adrianeo” in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 73-75. [(worldcat)](https://search.worldcat.org/title/5894435382)
-* S. Leo, “Vasi da fiori” in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 75-76. [(worldcat)](https://search.worldcat.org/title/5894435382)
+* J.-L Desnier, "Una borsa persa durante i lavori di terrazzamento" in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 57-58. [(worldcat)](https://search.worldcat.org/title/5894435382)
+* F. Villedieu,  "Il corpo settentrionale e i giardini del palazzo imperiale flavio" in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 59-71. [(worldcat)](https://search.worldcat.org/title/5894435382)
+* J.-P Morel, "Il giardino adrianeo" in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 73-75. [(worldcat)](https://search.worldcat.org/title/5894435382)
+* S. Leo, "Vasi da fiori" in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 75-76. [(worldcat)](https://search.worldcat.org/title/5894435382)
 * F. Villedieu, *La Vigna Barberini II- Domus, palais impérial et temples: stratigraphie du secteur nord-est du Palatin*, Rome, 2007 (RomaAntica, 6). [(worldcat)](https://search.worldcat.org/title/643147049)
 
 ## Places

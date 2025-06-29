@@ -79,7 +79,7 @@ Unspecified
 * Schefold, *RM*, (1953-1954), pp. 113, 117. [(worldcat)](https://search.worldcat.org/title/1100462668)
 * Idem, *WändP*, pp. 85, 87.
 * Sogliano, *NSc* (1901), pp. 155, 163, 164-166 and figs. 15 and 15. [(worldcat)](https://search.worldcat.org/title/1091982220)
-* Warscher, “Flora pompei” p. 36.
+* Warscher, "Flora pompei" p. 36.
 
 
 ## Places

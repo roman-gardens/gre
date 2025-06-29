@@ -79,7 +79,7 @@ UNKOWN
 ## Bibliography
 
 * E. V. Koppel, *La Schola del collegium fabrum de Tarraco y su decoración escultórica*. Faventia Monografies 7. Edit. Bellaterra, Barcelona, 1988 [(worldcat)](https://search.worldcat.org/title/601968172)
-* Mª. L. Loza Azuaga, “La escultura de fuentes en Hispania: ejemplos de la Bética,” in *Actas de la I Reunión sobre escultura romana en Hispania*, Mérida, 1993, 98. [(worldcat)](https://search.worldcat.org/title/940998520)
+* Mª. L. Loza Azuaga, "La escultura de fuentes en Hispania: ejemplos de la Bética," in *Actas de la I Reunión sobre escultura romana en Hispania*, Mérida, 1993, 98. [(worldcat)](https://search.worldcat.org/title/940998520)
 
 ## Places
 

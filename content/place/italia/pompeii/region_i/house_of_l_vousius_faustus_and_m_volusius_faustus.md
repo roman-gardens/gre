@@ -66,7 +66,7 @@ NEW WAY ↓↓↓↓
 
 {{< image src="fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
-{{< image src="fig-2-region-i-insula-ii.png" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
+{{< image src="fig-2-region-i-insula-ii.png" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, "Topo grafia," pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, "Topo grafia," pl. 9 (Rights Statement)." >}}
 
 ## Images
 
@@ -89,11 +89,11 @@ unspecified
 * Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](https://search.worldcat.org/title/921816405)
 * <span style="color:green"> Jashemski, *Gardens*, vol.II, p. 313. [(worldcat)](https://search.worldcat.org/title/921816405)</span>
 * Mau, *BdI* (1874), pp. 197-198.
-* Niccolini, *Case*, vol. 2, “Descr. Gen.,” p. 76.
+* Niccolini, *Case*, vol. 2, "Descr. Gen.," p. 76.
 * <span style="color:green"> Schefold, *WandP*, p. 9 (describes this painting as a *paradeisos*, with sea, deer, panther, and nymphaeum). [(worldcat)](https://search.worldcat.org/title/637248120) </span>
-* <span style="color:green"> Sogliano, “Pitture,” p. 224, no. 694. [(worldcat)](https://search.worldcat.org/title/826597580) </span>
+* <span style="color:green"> Sogliano, "Pitture," p. 224, no. 694. [(worldcat)](https://search.worldcat.org/title/826597580) </span>
 * Soprano, p.305, no. 23.
-* Viola, “*Scavi*” p. 11. [(worldcat)](https://search.worldcat.org/title/715087975)
+* Viola, "*Scavi*" p. 11. [(worldcat)](https://search.worldcat.org/title/715087975)
 
 ## Places
 

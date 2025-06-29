@@ -48,4 +48,4 @@ This house, excavated in 1829-1830, had a peristyle garden (a) on the south side
 * Breton, *Pompeia*, 3rd ed. p. 500 [(worldcat)](https://search.worldcat.org/title/894211341)
 * Fiorelli, *Descrizione di Pompei*, p. 331 [(worldcat)](https://search.worldcat.org/title/252039996)
 * Jashemski, *Gardens*, vol. II, p. 211 [(worldcat)](https://search.worldcat.org/title/1113367431)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)

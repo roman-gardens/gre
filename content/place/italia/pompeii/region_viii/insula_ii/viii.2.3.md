@@ -57,5 +57,5 @@ This house, very similar to VII.ii.1, was also excavated in 1799. This peristyle
 * Jashemski, *Gardens*, vol. II, p. 205 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1892), p. 14 and pl. 1 (plan) [https://search.worldcat.org/title/860559196)
 * Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees* (1809-1810-1811), 2:62 and pls. 21 (plan), 22 [(worldcat)](https://search.worldcat.org/title/1707639)
-* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 3, “Topografia,” pl. 6 (plan) [(worldcat)](https://search.worldcat.org/title/906755593)
+* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 3, "Topografia," pl. 6 (plan) [(worldcat)](https://search.worldcat.org/title/906755593)
 * Noack and Lehmann-Hartleben, *Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 121-128 passim and fig. 32 (plan) on p. 116 and pl. 17 (plans). [(worldcat)](https://search.worldcat.org/title/876087879)

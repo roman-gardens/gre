@@ -62,7 +62,7 @@ Third century CE
 
 * A. Ichkhakh," Recherches sur les Maisons du Quatier de l'arc de Triomphe (Volubilis)", to be published in PSAM 2010, Fig. 7. [(worldcat)](https://search.worldcat.org/title/883553652)
 
-* R. Thouvenot, “La maison de l’éphèbe.”, PSAM, 7, 1945, p. 115-31, fig.2. [(worldcat)](https://search.worldcat.org/title/765468558)
+* R. Thouvenot, "La maison de l’éphèbe.", PSAM, 7, 1945, p. 115-31, fig.2. [(worldcat)](https://search.worldcat.org/title/765468558)
 
 ## Places
 

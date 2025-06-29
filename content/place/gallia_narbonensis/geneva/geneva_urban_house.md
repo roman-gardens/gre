@@ -60,7 +60,7 @@ None Available
 
 ## Bibliography
 
-- M.-A. Haldimann, E. Ramjoué, and C. Simon, “Les fouilles de la cour de l’ancienne prison de Saint-Antoine,” Archäologie der Schweiz 14, 1991:194-204. [(worldcat)](https://search.worldcat.org/title/891753412)
+- M.-A. Haldimann, E. Ramjoué, and C. Simon, "Les fouilles de la cour de l’ancienne prison de Saint-Antoine," Archäologie der Schweiz 14, 1991:194-204. [(worldcat)](https://search.worldcat.org/title/891753412)
 
 ## Places
 

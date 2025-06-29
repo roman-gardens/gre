@@ -77,11 +77,11 @@ Early 1990s
 ## Bibliography
 
 * Jashemski, *Gardens*, vol. II, p. 45. [(worldcat)](https://search.worldcat.org/title/921816405)
-* J. Berry, “The Conditions of Domestic Life in Pompeii in AD 79: A Case Study of Houses 11 and 12, Insula 9, Region I.” in *Papers of the British School at Rome*, Vol 65 (1997) pp. 103-125. [(worldcat)](https://search.worldcat.org/title/5542941651)
-* M. Fulford, A. Wallace-Hadrill, G. Clark, A. Clarke, H. Eckardt, A. Locker, A. Powell, M. Rendeli, D. Richards, J. Robinson, M.Robinson, J. Timby, “Towards a History of Pre-Roman Pompeii: Excavation beneath the House of Amaranthus” *Papers of the British School at Rome* 67 (1999): 37-144.
-* M.A. Robinson, “Wet-sieving and flotation for biological remains” in M. Fulfor and A. Wallace-Hadrill, The House of Amaranthus at Pompeii (1.9.11-12); and interim report on survey and excavation in 1995-6. Rivista di Studi Pompeiani 7 (1995-96): 108-110.
+* J. Berry, "The Conditions of Domestic Life in Pompeii in AD 79: A Case Study of Houses 11 and 12, Insula 9, Region I." in *Papers of the British School at Rome*, Vol 65 (1997) pp. 103-125. [(worldcat)](https://search.worldcat.org/title/5542941651)
+* M. Fulford, A. Wallace-Hadrill, G. Clark, A. Clarke, H. Eckardt, A. Locker, A. Powell, M. Rendeli, D. Richards, J. Robinson, M.Robinson, J. Timby, "Towards a History of Pre-Roman Pompeii: Excavation beneath the House of Amaranthus" *Papers of the British School at Rome* 67 (1999): 37-144.
+* M.A. Robinson, "Wet-sieving and flotation for biological remains" in M. Fulfor and A. Wallace-Hadrill, The House of Amaranthus at Pompeii (1.9.11-12); and interim report on survey and excavation in 1995-6. Rivista di Studi Pompeiani 7 (1995-96): 108-110.
 * *CIL* IV.10345 (for amphoras found in the garden February, 1953).
-* DeVos, “Scavi nuovi sconoscuti (1.9.13),” *Meded* 38 (1976), pl. 35 (plan).
+* DeVos, "Scavi nuovi sconoscuti (1.9.13)," *Meded* 38 (1976), pl. 35 (plan).
 
 ## Places
 

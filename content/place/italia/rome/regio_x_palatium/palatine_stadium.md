@@ -78,11 +78,11 @@ RELATED PHASES ON THE PALATINE:
 
 {{< image src="palatine_stadium_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1: Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).">}}
 
-{{< image src="palatine_stadium_fig2.jpg" alt="Photograph of the stadium" title="Fig. 2: The “Stadium.” (Photo SAR).">}}
+{{< image src="palatine_stadium_fig2.jpg" alt="Photograph of the stadium" title="Fig. 2: The "Stadium." (Photo SAR).">}}
 
 {{< image src="palatine_stadium_fig3.jpg" alt="Photograph of the stadium" title="Fig. 3: The so-called Hera Borghese. (Photo SAR).">}}
 
-{{< image src="palatine_stadium_fig4.jpg" alt="Reconstruction of the stadium" title="Fig. 4: Hypothetical reconstruction of the “Stadium” (after C. Huelsen, Forum und Palatin, Munch 1926, plate 58).">}}
+{{< image src="palatine_stadium_fig4.jpg" alt="Reconstruction of the stadium" title="Fig. 4: Hypothetical reconstruction of the "Stadium" (after C. Huelsen, Forum und Palatin, Munch 1926, plate 58).">}}
 
 ## Dates
 
@@ -96,7 +96,7 @@ unspecified
 
 * M.A. Tomei, Nota sui giardini antichi del Palatino, *Mélanges de l’École Française de Rome (MEFRA)*, 104, 1992, 2, pp. 917-951. [(worldcat)](https://search.worldcat.org/title/972029282)
 * M.A. Tomei,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001: 73-75 (with additional bibliography). [(worldcat)](https://search.worldcat.org/title/5894435382)
-* A. Hoffmann & U. Wulf, "Bade oder Villenluxus? Zur Neuinterpretation del 'Domus Severiana,'” in Hoffman, Wulf & Angermeyer, *Die Kaiserpaläste auf dem Palatin in Rom*, Mainz am Rhein, 2004: 153-185. [(worldcat)](https://search.worldcat.org/title/180145631)
+* A. Hoffmann & U. Wulf, "Bade oder Villenluxus? Zur Neuinterpretation del 'Domus Severiana,'" in Hoffman, Wulf & Angermeyer, *Die Kaiserpaläste auf dem Palatin in Rom*, Mainz am Rhein, 2004: 153-185. [(worldcat)](https://search.worldcat.org/title/180145631)
 
 ## Places
 

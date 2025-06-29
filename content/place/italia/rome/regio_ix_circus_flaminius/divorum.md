@@ -65,7 +65,7 @@ From the northern *exedra*, a water [channel](http://vocab.getty.edu/page/aat/30
 
 ## Bibliography
 
-* L. Richardson, Jr., “The Villa Publica and the Divorum” in *In Memoriam Otto J. Brendel*, Eds. L. Bonfante and H. von Heintze, Mainz, 1976, pp. 159-163. [(worldcat)](https://search.worldcat.org/title/890088916)
+* L. Richardson, Jr., "The Villa Publica and the Divorum" in *In Memoriam Otto J. Brendel*, Eds. L. Bonfante and H. von Heintze, Mainz, 1976, pp. 159-163. [(worldcat)](https://search.worldcat.org/title/890088916)
 * R. H. Darwall-Smith, *Emperors of Architecture: A Study of Flavian Rome*, Collection Latomus 231 (1996), pp. 125-7, 139-40, 157-9, 172-7. [(worldcat)](https://search.worldcat.org/title/1000784723)
 * J. B. Ward-Perkins, *Roman Imperial Architecture*, Yale, 1981, pp. 20, 50-1, 74-5. [(worldcat)](https://search.worldcat.org/title/833150443)
 * A. Degrassi (ed.), *Inscriptiones Italiae XIII: Fasti et Elogia*, Rome, 1937. [(worldcat)](https://search.worldcat.org/title/769370170)

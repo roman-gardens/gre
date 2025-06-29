@@ -84,7 +84,7 @@ The theater of Tarraco is poorly preserved.  Part of the orchestra, the proscaen
 ## Bibliography
 
 * X. Aquilué et al., *Tarraco. Guía arqueológica*. El Medol Guies. Tarragona, 1991 [(worldcat)](https://search.worldcat.org/title/964178067)
-* R. Mar; M. Roca; J. Ruíz de Arbulo, “El teatro romano de tarragona. Un problema pendiente,” in *Teatros romanos de Hispania*. Murcia, 1993, 11-23. [(worldcat)](https://search.worldcat.org/title/642299895)
+* R. Mar; M. Roca; J. Ruíz de Arbulo, "El teatro romano de tarragona. Un problema pendiente," in *Teatros romanos de Hispania*. Murcia, 1993, 11-23. [(worldcat)](https://search.worldcat.org/title/642299895)
 
 
 ## Places

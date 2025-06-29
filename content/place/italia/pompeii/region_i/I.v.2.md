@@ -69,7 +69,7 @@ Excavated 1873-1874.
 
 ## Bibliography
 
-* Brendel, O. 1934. “Untersuchungen zur Allegorie des pompejanischen Totenkopfmosaiks,” *RM* (1934), pp 157-179.
+* Brendel, O. 1934. "Untersuchungen zur Allegorie des pompejanischen Totenkopfmosaiks," *RM* (1934), pp 157-179.
 * Fiorelli, G. 1875. *Descrizione di Pompei*, pp. 452-453. [(worldcat)](https://search.worldcat.org/title/908272023), p. 452. [(worldcat)](https://search.worldcat.org/title/908272023)
 * *GiornSc*, n.s., 3 (1874-1877), col. 93.
 * Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius,* fig. 268 on p. 181 and p. 198. [(worldcat)](https://search.worldcat.org/title/921816405)

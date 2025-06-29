@@ -35,7 +35,7 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 
 ## Bibliography
-- I. C. Moreno, “Los jardines de Mérida,” *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
+- I. C. Moreno, "Los jardines de Mérida," *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
 
 ## Garden
 
@@ -82,7 +82,7 @@ The end of the 1st to the 4th century AD
 
 ## Bibliography
 
-*   LL. Abad Casal, “Pintura romana en Mérida,’ in *Augusta Emerita*, Madrid, 1976, pp. 163-82 [(worldcat)](https://search.worldcat.org/title/180625207)
+*   LL. Abad Casal, "Pintura romana en Mérida,’ in *Augusta Emerita*, Madrid, 1976, pp. 163-82 [(worldcat)](https://search.worldcat.org/title/180625207)
 
 ## Places
 

@@ -82,7 +82,7 @@ Excavated 1912 and 1924.
 * Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, pp. 37-38. [(worldcat)](https://search.worldcat.org/title/222353569)  
 * Maiuri, A. 1939. *NSc*, pp. 26-27 and fig. 1 (plan) on p. 4.  
 * Maiuri, A. 1939. *Pompeii*, p. 112. [(worldcat)](https://search.worldcat.org/title/470375462)   
-* Maiuri, A. 1961. *“I giardini,” In Le Vie d’Italia*, p. 1138, no. 9.  
+* Maiuri, A. 1961. *"I giardini," In Le Vie d’Italia*, p. 1138, no. 9.  
 
 ## Places
 

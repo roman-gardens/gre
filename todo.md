@@ -11,19 +11,19 @@
 # General
 
 - [x] Make a really cool project
-- [ ] Check all the keywords for one standard getty url
+- [x] Check all the keywords for one standard getty url
 - [ ] Check for all comments containing some mention of "cross references", add links to relevant pages
 - [x] Go through punchlist for each article
 - [x] Get province information into general province page (somehow)
 - [x] Get keywords into tags list in header (as in bancroft example)
 - [x] Get geographic regions into sidebar using categories list (as in bancroft)
 - [x] DONT Put `lead:` in the header for each article to make loglines/subtitles (e.g. Dalmatia/salona/salona_tomb...)
-- [ ] Check that all keywords are in controlled vocab (Programmatically)
+- [x] Check that all keywords are in controlled vocab (Programmatically)
 - [ ] Figure out why there are so many unattached images (e.g. Achaea Nemea has a figure which is not in the proper images folder)
 - [x] Deal with empty stuff in headers (by commenting out for now)
 - [ ] Deal with empty stuff that is now commented out (by deleting)
-- [ ] Should "urban villas" be removed and (if necessary) replaced with "villae urbanae"?
-- [ ] Deal with all smart quotes (“”)
+- [x] Should "urban villas" be removed and (if necessary) replaced with "villae urbanae"?
+- [x] Deal with all smart quotes (“”)
 - [ ] Fix any quotes in `figure` attributes
 - [ ] Redo all pub dates as YMD
 - [ ] Implement [LOC Datetime format](https://www.loc.gov/standards/datetime/)

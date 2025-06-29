@@ -46,7 +46,7 @@ Domus de La Marseillaise
 
 ## House Description
 
-390 meters north of the Maison Carrée, salvage excavations in 1966 found this dwelling dating from the high Empire and in use for some two centuries.  The main entrance was probably on the south.  The building was organized around a courtyard with porticos, paved with white mosaics, on three sides.  From them, open the living spaces of the house.  Onto the northern wing opens the principal room (19.6 square meters) in the form of an exedra flanked by two pilasters.  It opens entirely onto the northern gallery. {What does “entirely” mean? }
+390 meters north of the Maison Carrée, salvage excavations in 1966 found this dwelling dating from the high Empire and in use for some two centuries.  The main entrance was probably on the south.  The building was organized around a courtyard with porticos, paved with white mosaics, on three sides.  From them, open the living spaces of the house.  Onto the northern wing opens the principal room (19.6 square meters) in the form of an exedra flanked by two pilasters.  It opens entirely onto the northern gallery. {What does "entirely" mean? }
 
 At the time of the excavation, the central part of the courtyard (32.5 square meters) contained only earth.  A trench cut at that time by V. Lassalle revealed a depression filled with stones which may indicate a pool that was suppressed at a later stage.  The presence, in a first phase, of a garden with a pool of unknown size is possible.  At a certain time, the courtyard was modified, destroying the pool and putting a wall on the line of the stylobate of the northern portico, thus reducing the view and the lighting of the principal room.
 

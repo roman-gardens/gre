@@ -89,7 +89,7 @@ unspecified
 - Maiuri, *Ercolano*, p. 422 and fig. 359 (plan) on p. 420.
 - A.C. *BdI* (1835),p. 129 [(worldcat)](https://search.worldcat.org/title/504636074)
 - Maiuri, *Herculaneum*, pp. 26-27 [(worldcat)](https://search.worldcat.org/title/1107784297)
-- Trotter, *“Identificazione di un tronco d’albero carbonizzato rinvenuto nei recenti scavi di Ercolano,” Annali del Regio Instituto Superiore Agrario di Portici*, ser. 3, vol. 5 (1932), pp. 1-6 and pls. 1, 2 [(worldcat)](https://search.worldcat.org/title/865565447)
+- Trotter, *"Identificazione di un tronco d’albero carbonizzato rinvenuto nei recenti scavi di Ercolano," Annali del Regio Instituto Superiore Agrario di Portici*, ser. 3, vol. 5 (1932), pp. 1-6 and pls. 1, 2 [(worldcat)](https://search.worldcat.org/title/865565447)
 - Trotter, *Ercolano*, pp. 51, 330-331 and fig. 258 (plan) on p. 474-475
 *(for reference to Bonucci’s brief and inaccurate account of the excavation of this house, as preserved by Ruggerio)* [(worldcat)](#)
 

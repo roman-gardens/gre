@@ -64,7 +64,7 @@ On the left bank of the Cinca about 5 km upstream (north) of Fraga, at the top o
 ## Bibliography
 - J. de C. Serra Ráfols, *La villa Fortunatus de Fraga*, in Ampurias V. CSIC, Barcelona, 1943, pp. 6-35 [(worldcat)](https://search.worldcat.org/title/432715390)
 
-- R. Puertas Tricas, *Trabajos de planimetría y excavación en la “Villa Fortunatus”*, Fraga (Huesca), Noticiario Arqueológico Hispánico, Arqueología, 1. Madrid, 1972, pp. 71-81 [(worldcat)](https://search.worldcat.org/title/954940163)
+- R. Puertas Tricas, *Trabajos de planimetría y excavación en la "Villa Fortunatus"*, Fraga (Huesca), Noticiario Arqueológico Hispánico, Arqueología, 1. Madrid, 1972, pp. 71-81 [(worldcat)](https://search.worldcat.org/title/954940163)
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Edita Grupo FCC, Madrid, 2001, p. 29. [(worldcat)](https://search.worldcat.org/title/1090911182)
 

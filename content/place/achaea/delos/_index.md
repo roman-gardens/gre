@@ -18,8 +18,8 @@ Delos is a small island in the center of the Cyclades measuring about five kilom
 - Ét. Lapalus, *L’Agora des Italiens.* Exploration archéologique de Délos XIX. Paris, 1939. [(worldcat)](https://search.worldcat.org/title/603854444).
 - J. Marcadé, *Au Musée de Délos. Étude de la sculpture hellénistique en ronde bosse découverte dans l’île.* BEFAR fasc. 215, 1969. [(worldcat)](https://search.worldcat.org/title/872196666).
 - E. M. Steinby, ed., *Lexicon Topographicum Urbis Romae* IV, Roma, 1999. [(worldcat)](https://search.worldcat.org/title/245877051).
-- A. Sarris, “L’Agora des Italiens,” *BCH* 125, 2001: 612-615. [(worldcat)](https://search.worldcat.org/title/1537699).
-- J. Marcadé and F. Queyrel, “Le Gaulois blessé de Délos reconsidéré,” *MonPiot* 82, 2003: 5-97. [(worldcat)](https://search.worldcat.org/title/1460650).
+- A. Sarris, "L’Agora des Italiens," *BCH* 125, 2001: 612-615. [(worldcat)](https://search.worldcat.org/title/1537699).
+- J. Marcadé and F. Queyrel, "Le Gaulois blessé de Délos reconsidéré," *MonPiot* 82, 2003: 5-97. [(worldcat)](https://search.worldcat.org/title/1460650).
 - Ph. Bruneau and J. Ducat, *Guide de Délos.* École française d Athènes. 4th edition, Paris, 2005. [(worldcat)](https://search.worldcat.org/title/884638358).
 - M. Trümper, *Die 'Agora des Italiens' in Delos. Baugeschichte, Architektur, Ausstattung und Funktion einer späthellenistischen Porticus-Anlage.* Internationale Archäologie 104. Rahden/Westfalen, 2008. [(worldcat)](https://search.worldcat.org/title/643238596).
 - M. Trümper, *Graeco-Roman slave markets. Fact or Fiction.* Oxford, 2009. [(worldcat)](https://search.worldcat.org/title/660567181).

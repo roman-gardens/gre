@@ -16,7 +16,7 @@ Dacia Traiana
 
 ## Province Description
 
-Dacia occupied the region occupied by today by Romania, Moldava, and parts of Bulgaria, Serbia, Hungary and the Ukraine. Homeland of the Gatae tribe, it was conquered by the Romans under Trajan in 106 CE. After the Romans retreated from this region in 271-275 CE, they renamed an area of Moesia Superior “Dacia Aureliana”. This entry concerns only original province of Dacia.
+Dacia occupied the region occupied by today by Romania, Moldava, and parts of Bulgaria, Serbia, Hungary and the Ukraine. Homeland of the Gatae tribe, it was conquered by the Romans under Trajan in 106 CE. After the Romans retreated from this region in 271-275 CE, they renamed an area of Moesia Superior "Dacia Aureliana". This entry concerns only original province of Dacia.
 
 The area was known to the Romans prior to its conquest, particularly for its position along the Hercynian Forest (Black Forest).
 Ruled by king [Burebista](https://en.wikipedia.org/wiki/Burebista) (82–44 BC), Julius Caesar (De Bello Gallico book 6) describes the kingdom in 53 BC starting on the eastern edge of the Hercynian Forest (Black Forest). Strabo, in his Geography (c. 25 CE) writes:

@@ -60,7 +60,7 @@ The large number of objects of daily life found in the ruins, some under toppled
 
 ## Bibliography
 - Pedro de Palol, Javier Cortes , La villa romana de La Olmeda de Pedrosa de la Vega (Palencia). Guía de las excavaciones. Palencia, 1986. [(worldcat)](https://search.worldcat.org/title/435246224)
-- Excavaciones de 1969 y 1970”, vol. I, in Acta Arqueológica Hispánica, VII. Madrid, 1974. [(worldcat)](https://search.worldcat.org/title/183400557)
+- Excavaciones de 1969 y 1970", vol. I, in Acta Arqueológica Hispánica, VII. Madrid, 1974. [(worldcat)](https://search.worldcat.org/title/183400557)
 
 ## Places
 

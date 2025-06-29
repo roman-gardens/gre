@@ -56,7 +56,7 @@ Unspecified
 * Koloski-Ostrow, *The Sarno bath complex*, no. 11 on fig. 1 (plan), no. 20 on fig. 1 (plan) [(worldcat)](https://search.worldcat.org/title/246688831)
 * Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1890), pl. 1 (plan) [https://search.worldcat.org/title/860559196)
 * Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1892), p. 199 [https://search.worldcat.org/title/860559196)
-* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi,” pp. 55-56 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, "Nuovi scavi," pp. 55-56 [(worldcat)](https://search.worldcat.org/title/906755593)
 * Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, 97-110 passim, fig. 27 on p. 100 (plan) and pls. 15, 16, (plans and sections), fig. 28 (plan) on p. 103 and pl. 25, bottom drawing (reconstruction) [(worldcat)](https://search.worldcat.org/title/486835478)
 * *Mitteilungen des Deutschen Archaologischen Instituts* (1890), pp. 116, 120-122 and pls. 5.2 and 6 [(worldcat)][https://search.worldcat.org/title/860559196)
 * Schefold, *Die Wände Pompejis*, p. 212 [(worldcat)][https://search.worldcat.org/title/1100462668)

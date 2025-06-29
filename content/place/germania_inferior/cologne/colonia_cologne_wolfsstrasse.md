@@ -53,7 +53,7 @@ The peristyle courtyard was ca. 7 m. wide and 11.30 m. long. Both faces of the w
 Middle of the first century CE until the fourth century CE
 
 ## Bibliography
-- M. Carroll-Spillecke, “Ausgrabungen in einem römischen Wohnviertel in der Wolfsstraße/Richmodstraße in Köln,” *Kölner Jahrbuch* 30 (1997): 415-31. [(worldcat)](https://search.worldcat.org/title/638867317)  
+- M. Carroll-Spillecke, "Ausgrabungen in einem römischen Wohnviertel in der Wolfsstraße/Richmodstraße in Köln," *Kölner Jahrbuch* 30 (1997): 415-31. [(worldcat)](https://search.worldcat.org/title/638867317)  
 
 ## Places
 - {{< id vocab="Pleiades" id="108751" name="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}

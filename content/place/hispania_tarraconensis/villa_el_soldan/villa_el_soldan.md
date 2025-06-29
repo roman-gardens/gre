@@ -61,7 +61,7 @@ Villa El Soldán  (The Sultan)
 
 ## Garden Description
 
-N 42° 27'  14”  W  6° 14' 26”
+N 42° 27'  14"  W  6° 14' 26"
 The villa is 300 meters eastnortheast of the eastern tip of Laguna Cernea, north of the modern village Santa Colomba de Somoza. The Laguna Cernea is an artificial pond created by the Romans for washing gold, now frequently dry.
 It was presumably the residence of the offical in charge of the gold extraction.  Its early, first century date underlines the importance of gold as a reason for determination of Augustus to subdue the region at great cost.  
 Built under Tiberius, this site is a rare if not unique example of a first century Iberian villa for which we have a complete plan.  Excavation began in the 1930's. Of modest dimensions and without mosaics, it followed an Italian plan with a central (slightly trapezoidal) peristyle with little adaptation to the much cooler climate at this elevation.  It did, however, have several rooms heated by hypocausts and many rooms paved in opus signinum.  There were found many fragments of wall painting (of deer, birds, and humans)  and of ceramic and glass.

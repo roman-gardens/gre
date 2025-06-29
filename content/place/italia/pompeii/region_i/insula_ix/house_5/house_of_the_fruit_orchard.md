@@ -86,10 +86,10 @@ unspecified
 * <span style="color:green">Bastet, p. 75.</span>
 * <span style="color:green">De Vos, *Guida*, p. 124.</span>
 * <span style="color:green">Idem, *Rom.Paint.*, pp. 127-129. [(worldcat)](https://search.worldcat.org/title/1016254127)</span>
-* <span style="color:green">Le Corsu, “Un oratoire pompéien consacré à Dionysos-Osiris,” *RevueArch*, fasc. 2 (1967): 239, 242-249 (little mention of plant material).</span>
+* <span style="color:green">Le Corsu, "Un oratoire pompéien consacré à Dionysos-Osiris," *RevueArch*, fasc. 2 (1967): 239, 242-249 (little mention of plant material).</span>
 * <span style="color:green">Maiuri, *BdA*, (1952), pp. 7-9.</span>
 * <span style="color:green">Michel, pp. 386-390.</span>
-* <span style="color:green">Peters, “Van Prima Porta,” pp. 6-8.</span>
+* <span style="color:green">Peters, "Van Prima Porta," pp. 6-8.</span>
 * <span style="color:green">*PPP*, 1:95-96.</span>
 * <span style="color:green">Schefold, *WändP*, p.38.</span>
 * <span style="color:green">Sichtermann, *Antike Welt* (1974), no. 3, pp. 41-45.</span>

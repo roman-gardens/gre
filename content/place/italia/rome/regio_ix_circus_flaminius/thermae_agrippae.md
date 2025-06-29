@@ -74,12 +74,12 @@ The *Thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](http://data.perseus
 
 ## Bibliography
 
-* F. Coarelli, “Il Campo Marzio Occidentale. Storiae e Topografia,” *Mélanges de l’École française de Rome, Antiquité* 89: 2 (1977), pp. 808–846. [(worldcat)](https://search.worldcat.org/title/220729070)
+* F. Coarelli, "Il Campo Marzio Occidentale. Storiae e Topografia," *Mélanges de l’École française de Rome, Antiquité* 89: 2 (1977), pp. 808–846. [(worldcat)](https://search.worldcat.org/title/220729070)
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae*, s.v. "Campus Agrippae" (F. Coarelli), p. 217. [(worldcat)](https://search.worldcat.org/title/1114759113)
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae*, s.v. "Horti Agrippae" (F. Coarelli), pp. 51–52. [(worldcat)](https://search.worldcat.org/title/1114759113)
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae*, s.v. "Thermae Agrippae" (G. Ghini), pp. 40–42. [(worldcat)](https://search.worldcat.org/title/1114759113)
 * F. Yegül, *Baths and Bathing in Classical Antiquity*, New York, 1992, pp. 133–137. [(worldcat)](https://search.worldcat.org/title/894788084)
-* J. Delaine, “Gardens in Baths and Palaestras,” *Gardens of the Roman Empire*, New York, 2018, pp. 165–184. [(worldcat)](https://search.worldcat.org/title/1036265637)
+* J. Delaine, "Gardens in Baths and Palaestras," *Gardens of the Roman Empire*, New York, 2018, pp. 165–184. [(worldcat)](https://search.worldcat.org/title/1036265637)
 
 ## Places
 

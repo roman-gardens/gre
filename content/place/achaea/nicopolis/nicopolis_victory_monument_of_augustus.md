@@ -68,13 +68,13 @@ last quarter of the 1st century BCE and later
 
 ## Bibliography
 
-* W. M. Murray and Ph. M. Petsas, “Octavian’s campsite memorial for the Actian War,” *Trans. Am. Phil Soc.* 79, 1989: 4. [(worldcat)](https://search.worldcat.org/title/892239073).
+* W. M. Murray and Ph. M. Petsas, "Octavian’s campsite memorial for the Actian War," *Trans. Am. Phil Soc.* 79, 1989: 4. [(worldcat)](https://search.worldcat.org/title/892239073).
 * K. L. Zachos, *Το Μνημείο του Οκταβιανού Αυγούστου στη Νικόπολη: Το Τρόπαιο της Ναυμαχίας του Ακτίου.* Athens 2001. [(worldcat)](https://search.worldcat.org/title/257369178).
 * A. Philadelpheus, *Praktika* 1913: 85-91 and pls. 3-4. [(worldcat)](https://search.worldcat.org/title/81311225)
 * A. Philadelpheus, *Praktika* 1921: 11-12, 44. [(worldcat)](https://search.worldcat.org/title/81311225)
 * K. L. Zachos, *Archaeologikon Deltion, Chronika* for 1995, 1996, 1997, 1998, 1999, 2000.
-* K. L. Zachos, “Excavations at the Actian *tropaeum* at Nicopolis. A preliminary report,” in J. Isager, ed., *Foundation and destruction. Nicopolis and northwestern Greece.* Monograph 3, Danish Institute. Athens, 2001: 29-41. [(worldcat)](https://search.worldcat.org/title/491885471)
-* K. L. Zachos, “The *tropaeum* of the sea-battle of Actium at Nicopolis: interim report,” JRA 16, 2003: 65-92. [(worldcat)](https://search.worldcat.org/title/5884366383)   
+* K. L. Zachos, "Excavations at the Actian *tropaeum* at Nicopolis. A preliminary report," in J. Isager, ed., *Foundation and destruction. Nicopolis and northwestern Greece.* Monograph 3, Danish Institute. Athens, 2001: 29-41. [(worldcat)](https://search.worldcat.org/title/491885471)
+* K. L. Zachos, "The *tropaeum* of the sea-battle of Actium at Nicopolis: interim report," JRA 16, 2003: 65-92. [(worldcat)](https://search.worldcat.org/title/5884366383)   
 * M. Carroll, "The sacred places of the immortal ones: ancient Greek and Roman sacred groves," in J. Woudstra and C. Roth (eds.), *A History of Groves.* London: Routledge, 2018: 28. [(worldcat)](https://search.worldcat.org/title/1012849097).
 
 

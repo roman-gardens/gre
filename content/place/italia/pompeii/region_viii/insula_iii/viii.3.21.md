@@ -50,4 +50,4 @@ Unspecified
 * Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 76, no. 356 and pl. 3.5 [(worldcat)](https://search.worldcat.org/title/1131425884)
 * Fiorelli, *Descrizione di Pompei*, p. 328 [(worldcat)](https://search.worldcat.org/title/252039996)
 * Jashemski, *Gardens*, vol. II, p. 211 [(worldcat)](https://search.worldcat.org/title/1113367431)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol.2, “Descr. gen,” p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol.2, "Descr. gen," p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)

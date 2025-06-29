@@ -55,4 +55,4 @@ Unspecified
 * Fiorelli, *Descrizione di Pompei*, p. 358 [(worldcat)](https://search.worldcat.org/title/1198324804)
 * Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees 1809-1810-1811*,2:55 and pl. 16 (plan) [(worldcat)](https://search.worldcat.org/title/457565631)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 69 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 69 [(worldcat)](https://search.worldcat.org/title/906755593)

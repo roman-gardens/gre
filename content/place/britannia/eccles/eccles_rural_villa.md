@@ -50,8 +50,8 @@ mid-1st to 4th century CE
 ## Bibliography
 
 * A. Detsicas, *The Cantiaci*, Gloucester, 1983, pp. 103-107, fig. 20. [(worldcat)](https://search.worldcat.org/title/247009310)
-* R.J. Zeepvat, “Fishponds in Roman Britain,” in: M. Aston, ed., *Medieval Fish, Fisheries and Fishponds in England. British Archaeological Reports*, Brit. Ser. 182, Oxford, 1988, p. 18, fig. 2. [(worldcat)](https://search.worldcat.org/title/490025716)
-* A. Detsicas, “A group of pottery from Eccles, Kent,” in *Roman Pottery Research in Britain and Northwest Europe, British Archaeological Reports*, Int. Ser. 123, Oxford, 1981, pp. 441-445.
+* R.J. Zeepvat, "Fishponds in Roman Britain," in: M. Aston, ed., *Medieval Fish, Fisheries and Fishponds in England. British Archaeological Reports*, Brit. Ser. 182, Oxford, 1988, p. 18, fig. 2. [(worldcat)](https://search.worldcat.org/title/490025716)
+* A. Detsicas, "A group of pottery from Eccles, Kent," in *Roman Pottery Research in Britain and Northwest Europe, British Archaeological Reports*, Int. Ser. 123, Oxford, 1981, pp. 441-445.
 
 ## Places
 

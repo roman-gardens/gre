@@ -75,7 +75,7 @@ unspecified
 ## Bibliography
 
 * Jashemski, *Gardens*, vol.II, p. 43. [(worldcat)](https://search.worldcat.org/title/921816405)
-* Maiuri, “Fulgur conditum,” *RendNap*, n.s., 21 (1942): 53-72 and figs. 1 (plan) and 2 on pp. 56-57.
+* Maiuri, "Fulgur conditum," *RendNap*, n.s., 21 (1942): 53-72 and figs. 1 (plan) and 2 on pp. 56-57.
 
 ## Places
 

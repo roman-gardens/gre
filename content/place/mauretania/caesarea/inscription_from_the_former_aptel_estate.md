@@ -48,9 +48,9 @@ Inscription from the former Aptel Estate
 
 An inscription CIL VIII 21081 mentioning a pool covered by a wine trellis supported by two columns was found in the Aptel estate:
 
-“vitea quot longis sunt tecta excepta columnis / ac docili libra terentem quot flexus in arcum est ; marmore quot Parea vivunt / spirantia signa aequoris et vario quot profluit unda meatu…”
+"vitea quot longis sunt tecta excepta columnis / ac docili libra terentem quot flexus in arcum est ; marmore quot Parea vivunt / spirantia signa aequoris et vario quot profluit unda meatu…"
 
-“As many (pools) are sheltered by a vine caught up by tall columns, as also [there] is a bend into an arch smoothing with manageable scale; as statues breathing of Parian marble live and as the swell of the water flows forth with varied course...”
+"As many (pools) are sheltered by a vine caught up by tall columns, as also [there] is a bend into an arch smoothing with manageable scale; as statues breathing of Parian marble live and as the swell of the water flows forth with varied course..."
 
 ## Plans
 

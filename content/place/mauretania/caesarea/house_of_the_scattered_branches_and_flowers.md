@@ -64,7 +64,7 @@ It is assumed that the peristyle and its garden may have had a view over the sea
 ## Bibliography
 *  Baghli, S. A., Février, P. A., "Recherches et travaux (1962-1965)", in *Bulletin d’archéologie algérienne*, t.1, 1962-1965. p.3; BAA, t.3, 1967, p.7, fig.8 et 9. [(worldcat)](https://search.worldcat.org/title/491480973)
 *  Ferdi, S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p. 23-31.[(worldcat)](https://search.worldcat.org/title/1006126274)
-* Ferdi, S. et Malek, A. A., 2000, “Les mosaïques de la maison de la Jonchée à Cherchel”, in *Mosaïque gréco-romaine : actes du VIIe Colloque international pour l'étude de la mosaïque antique*
+* Ferdi, S. et Malek, A. A., 2000, "Les mosaïques de la maison de la Jonchée à Cherchel", in *Mosaïque gréco-romaine : actes du VIIe Colloque international pour l'étude de la mosaïque antique*
  VII, Tunis, p. 327-335. [(worldcat)](https://search.worldcat.org/title/949183567)
 *  Lassus, J., "L'archéologie algérienne en 1959", in *Libyca*, arch. épigr., t.8, 2ème sem. 1960, p.30.
 *  Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie", *Antiquités africaines*, t.18, 1982， pp.110-12. [(hathitrust)](https://catalog.hathitrust.org/Record/008568139)

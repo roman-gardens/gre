@@ -76,7 +76,7 @@ A study of pollens and sediments below the levels of the Gallo-Roman villa in a 
 Unspecified
 
 ## Bibliography
-- Alain Provost, “La villa gallo-romaine de Chatillon-sur-Seiche,” in the catalog of the exposition  *Nos ancêtres les Riedones*, Musée de Bretagne- Eco-musée du pays de Rennes, Rennes, 20 juin, 31 déc. 1990, p. 10-31 [(worldcat)](https://search.worldcat.org/title/715516488)
+- Alain Provost, "La villa gallo-romaine de Chatillon-sur-Seiche," in the catalog of the exposition  *Nos ancêtres les Riedones*, Musée de Bretagne- Eco-musée du pays de Rennes, Rennes, 20 juin, 31 déc. 1990, p. 10-31 [(worldcat)](https://search.worldcat.org/title/715516488)
 - Gilles Leroux, Alain Provost, CAG- Ille-et-vilaine (35), p. 270-274. [(worldcat)](https://search.worldcat.org/title/463616145)
 
 

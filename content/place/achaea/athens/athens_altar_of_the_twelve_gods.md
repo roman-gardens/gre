@@ -34,7 +34,7 @@ NEEDED - search bibliography for plans.
 
 ## Bibliography
 
-* M. Crosby, “The Altar of the Twelve Gods in Athens,” *Hesperia Suppl.* 8, Commemorative Studies in Honor of Theodore Leslie Shear. Princeton, 1949, pp. 82-103, 447-450, pl. 11-14. [(JSTOR)](https://www.jstor.org/stable/1353886).
+* M. Crosby, "The Altar of the Twelve Gods in Athens," *Hesperia Suppl.* 8, Commemorative Studies in Honor of Theodore Leslie Shear. Princeton, 1949, pp. 82-103, 447-450, pl. 11-14. [(JSTOR)](https://www.jstor.org/stable/1353886).
 * J. McK. Camp, *The Athenian Agora. Excavations in the heart of Classical Athens.* London, 1986, pp. 40-42, figs. 23-24. [(worldcat)](https://search.worldcat.org/title/1153939923).
 * M. Carroll, "The sacred places of the immortal ones: ancient Greek and Roman sacred groves," in J. Woudstra and C. Roth (eds.), *A History of Groves.* London: Routledge, 2018, pp. 7-18. [(worldcat)](https://search.worldcat.org/title/1012849097).
 

@@ -32,7 +32,7 @@ Tomb garden of T. Vettius Hermes
 
 ## Garden Description
 
-A marble stele now in a church at Grazzano records the epitaph of T. Vettius Hermes, a freedman ointment dealer (seplasiarius). After a gnomic sentiment about chthonic birthand reunion (mater genuit materq(ue) recepiit), Hermes goes on to declare that “these gardens, as great and excellent as they are, (will) serve my ashes, for I shall appoint caretakers to dine on the proceeds from them on my birthday and on the day of roses, in perpetuity” (hi horti ita uti o(ptimi) m(aximi)/que sunt cineribus seruite(!) meis nam curatores substituam uti uescantur ex horum hortorum reditu natale meo et per rosam in perpetuo).
+A marble stele now in a church at Grazzano records the epitaph of T. Vettius Hermes, a freedman ointment dealer (seplasiarius). After a gnomic sentiment about chthonic birthand reunion (mater genuit materq(ue) recepiit), Hermes goes on to declare that "these gardens, as great and excellent as they are, (will) serve my ashes, for I shall appoint caretakers to dine on the proceeds from them on my birthday and on the day of roses, in perpetuity" (hi horti ita uti o(ptimi) m(aximi)/que sunt cineribus seruite(!) meis nam curatores substituam uti uescantur ex horum hortorum reditu natale meo et per rosam in perpetuo).
 
 <!--## Maps-->
 

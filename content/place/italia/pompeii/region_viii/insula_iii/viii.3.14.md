@@ -61,6 +61,6 @@ Unspecified
 * Breton, *Pompeia*, p. 497 [(worldcat)](https://search.worldcat.org/title/894211341)
 * Fiorelli, *Descrizione di Pompei*, p. 326 [(worldcat)](https://search.worldcat.org/title/252039996)
 * Jashemski, *Gardens*, vol. II, p. 211 [(worldcat)](https://search.worldcat.org/title/1113367431)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
 * Fiorelli,ed. *Pompeianarum Antiquitatum Historia*, (Sept. 11, 25, 1839); 373(Oct. 9, 14, 21, 1839); 374 (Oct 28-31, Nov. 4, 1839); Ibid., 3:153 (Sept. 11, 1839); 154 (Sept. 25, 1839); 155 (Oct. 9, Nov. 8, 1839) [(worldcat)](https://search.worldcat.org/title/714988573)
 * Schultz, Bullettino dell'Instituto di Corrispondenza Archeologica (1841), p. 119, [(worldcat)](https://search.worldcat.org/title/646515522)

@@ -87,7 +87,7 @@ unspecified
 
 ## Bibliography
 
-* DeVos, “Scavi nuovi sconoscuti (1.9.13),” *Meded* 38 (1976): 38, 49-50, 62 and pl. 35 (plan), <span style="color:orange">51</span>, <span style="color:green">50 and figs.</span> <span style="color:orange">27,</span> <span style="color:green">32.</span>
+* DeVos, "Scavi nuovi sconoscuti (1.9.13)," *Meded* 38 (1976): 38, 49-50, 62 and pl. 35 (plan), <span style="color:orange">51</span>, <span style="color:green">50 and figs.</span> <span style="color:orange">27,</span> <span style="color:green">32.</span>
 * Döhl, p. 5 (?I.9....).
 * Jashemski, *Gardens*, vol.II, pp. 45, <span style="color:green">323,</span> <span style="color:orange">395.</span> [(worldcat)](https://search.worldcat.org/title/921816405)
 * Kapossy, p. 39.

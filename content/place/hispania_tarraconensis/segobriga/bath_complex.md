@@ -64,7 +64,7 @@ Bath Complex
 
 ## Garden Description
 
-N 39 53' 10”  W 2° 48' 45”
+N 39 53' 10"  W 2° 48' 45"
 Monumental baths about 88 meters long and 40 meters wide were built in Flavian times in the  north end of the city. Immediately after the entry came a large peristyle courtyard.  Perhaps it was a garden but could also have been primarily a palestra.  At the end away from the entrance and towards the baths proper was found the base of a statue.
 
 
@@ -86,7 +86,7 @@ Flavian times（A.D 69–96）
 
 ## Bibliography
 
-* J. M. Blázquez, “Los jardines en la Hispania Romana”, in *Historia de los Parques y Jardines en España*. Edita Grupo FCC, Madrid, 2001, p. 26. [(worldcat)](https://search.worldcat.org/title/1090911182)
+* J. M. Blázquez, "Los jardines en la Hispania Romana", in *Historia de los Parques y Jardines en España*. Edita Grupo FCC, Madrid, 2001, p. 26. [(worldcat)](https://search.worldcat.org/title/1090911182)
 
 ## Places
 

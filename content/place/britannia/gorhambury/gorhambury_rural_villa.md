@@ -50,7 +50,7 @@ around A.D. 100 - 175
 
 ## Bibliography
 
-* A. Selkirk, “Gorhambury,” *Current Archaeology* 87, 1983: 120-121, fig. on p. 116.
+* A. Selkirk, "Gorhambury," *Current Archaeology* 87, 1983: 120-121, fig. on p. 116.
 * D.S. Neal, A. Wardle and J. Hunn, *Excavation of the Iron Age, Roman and Medieval Settlement at Gorhambury, St. Albans*. English Heritage Report 14, London, 1990, p. 44, fig. 56. [(worldcat)](https://search.worldcat.org/title/908621649)
 
 ## Places

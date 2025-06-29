@@ -57,7 +57,7 @@ First excavated in 1767-1769, Filled in. Re-excavated in 1885-1886
 * Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1887), pp. 126, 131 and pl.6, figs. 1 and 2, p. 120, no. 17 [(worldcat)](https://search.worldcat.org/title/860559196)
 * Mau, *Pompeii: Its Life and Art*, 2nd ed, Trans. by Kelsey, pp. 344-346 and fig. 176 (plan) on p. 345 [(worldcat)](https://search.worldcat.org/title/1079839724)
 * Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees*, vol. 2:73-74 and pls. 32, 33 (plans) [(worldcat)](https://search.worldcat.org/title/1707639)
-* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi,” p. 3 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, "Nuovi scavi," p. 3 [(worldcat)](https://search.worldcat.org/title/906755593)
 * Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 18-30 passim, pls. 3 (plan) and 21 (reconstruction) [(worldcat)](https://search.worldcat.org/title/486835478)
 * Fiorelli, ed. *Pompeianarum Antiquitatum Historia*, vol. 1, pt. 1 pp. 210, 211 (Aug.14, 22, 29, 1767)[(worldcat)](https://search.worldcat.org/title/714988573)
 * Schefold, *Die Wände Pompejis*, p. 218 [(worldcat)][https://search.worldcat.org/title/1100462668)

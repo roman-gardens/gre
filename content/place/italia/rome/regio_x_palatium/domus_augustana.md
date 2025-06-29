@@ -97,7 +97,7 @@ unspecified
 ## Bibliography
 
 * A. Schmölder-Veit, "Aqueducts for the *Urbis Clarissimus Locus*: The Palatine’s Water Supply from Republican to Imperial Times," in K. Wentworth Rinne, ed., *Aquae Urbis Romae: The Waters of the City of Rome*, 7 (Institute for Advanced Technology in the Humanities, University of Virginia, 2011): 1-27. [(worldcat) ("Aqueducts")](https://search.worldcat.org/title/1107408596) [(worldcat) ("Waters")](https://search.worldcat.org/title/58593220)
-* N. Sojc (Hrsg), *Domus Augustana. Neue Forschungen zum “ Versenkten Peristyl” auf dem Palatin; Investigating the “ Sunken Peristyle” on the Palatine Hill*, Leiden 2012 [(worldcat)](https://search.worldcat.org/title/862716259)
+* N. Sojc (Hrsg), *Domus Augustana. Neue Forschungen zum " Versenkten Peristyl" auf dem Palatin; Investigating the " Sunken Peristyle" on the Palatine Hill*, Leiden 2012 [(worldcat)](https://search.worldcat.org/title/862716259)
 * A. Platner-Ashby, *A Topographical Dictionary of Ancient Rome*, London: Oxford, 1929: 158-166.[(worldcat)](https://search.worldcat.org/title/910092330)
 
 ## Places

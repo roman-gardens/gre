@@ -125,7 +125,7 @@ The entrance directly across from the amphitheater was designed to be an archite
 
 - Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, pp.89-90
 
-- Maiuri, 1928. *Pompeii (Novara)*, p.43: “scavato parzialmente nel 1755 e poi ricolmato” [worldcat](https://search.worldcat.org/title/2992975)
+- Maiuri, 1928. *Pompeii (Novara)*, p.43: "scavato parzialmente nel 1755 e poi ricolmato" [worldcat](https://search.worldcat.org/title/2992975)
 
 - Meyer, Frederick G, 1980. *Carbonized Food Plants of Pompeii, Herculaneum, and the Villa at Torre Annunziata,* Economic Botany. 34.4: 401-437 [worldcat](https://search.worldcat.org/title/5656581658)
 

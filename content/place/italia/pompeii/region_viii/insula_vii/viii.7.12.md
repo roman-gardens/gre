@@ -44,4 +44,4 @@ Unspecified
 ## Bibliography
 * Fiorelli, *Descrizione di Pompei*, pp. 349-350 [(worldcat)](https://search.worldcat.org/title/252039996)
 * Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](https://search.worldcat.org/title/1113367431)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 68 (piccolo giardino) [(worldcat)](https://search.worldcat.org/title/906755593)
+* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 68 (piccolo giardino) [(worldcat)](https://search.worldcat.org/title/906755593)

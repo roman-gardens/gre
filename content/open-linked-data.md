@@ -17,7 +17,7 @@ Such an approach holds several advantages.
 
 Any scholar or project that uses Pleiades will therefore be able to query the GRE data (available in our [github repository](https://github.com/roman-gardens/gre) and reuse our data with confidence, since they will know that we are talking about the same places with great precision.
 
-Also, since Pleiades is an open, collaborative project, we can create new places as we may need, including “gardens” (as opposed to other types of places, like villas, temples, villages, etc.).
+Also, since Pleiades is an open, collaborative project, we can create new places as we may need, including "gardens" (as opposed to other types of places, like villas, temples, villages, etc.).
 
 In other words, we do all of our ancient geographical work in Pleiades, which is optimized for that sort of work; and in relying on and linking to Pleiades data, we are free to concentrate our efforts on gardens, our main interest. Indeed, one aim of GRE is to become an open linked data resource for scholars and readers interested in Roman gardens.
 

@@ -61,7 +61,7 @@ House: AD 150 - ca. 170
 
 ## Bibliography
 
-* P.-A. Schwarz, „Die Nordmauer und die Überreste der Innenbebauung der spätrömischen Befestigung auf Kastelen in Augusta Rauricorum. Vorbericht über die Grabung 1991.51,“ *Jahresberichte aus Augst und Kaiseraugst* 13, 1992: 47-76. [(worldcat)](https://search.worldcat.org/title/891787691)
+* P.-A. Schwarz, „Die Nordmauer und die Überreste der Innenbebauung der spätrömischen Befestigung auf Kastelen in Augusta Rauricorum. Vorbericht über die Grabung 1991.51," *Jahresberichte aus Augst und Kaiseraugst* 13, 1992: 47-76. [(worldcat)](https://search.worldcat.org/title/891787691)
 * T. Hufschmid, *Kastelen 3. Die jüngeren Steinbauten in den Insulae 1 und 2 von Augusta Raurica*. Forschungen in Augst 23, Augst, 1996. [(worldcat)](https://search.worldcat.org/title/613566402)
 
 ## Places

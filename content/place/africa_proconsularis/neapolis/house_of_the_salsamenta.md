@@ -24,7 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location Description
 
-The city of Neapolis that bears a Greek name meaning the “new city”, is located on the south coast of Cap Bon at 60 km from Carthage. The municipal history of the city is not well known. Scholars disagree as to the foundation date of the colony some think it became *colonia Iulia* with Cesar and others think that it was elevated to the rank of colony by Augustus.
+The city of Neapolis that bears a Greek name meaning the "new city", is located on the south coast of Cap Bon at 60 km from Carthage. The municipal history of the city is not well known. Scholars disagree as to the foundation date of the colony some think it became *colonia Iulia* with Cesar and others think that it was elevated to the rank of colony by Augustus.
 
 
 ## Garden
@@ -52,9 +52,9 @@ House of the Salsamenta (Usine de salaison)
 -->
 
 ## Plans
-{{< image src="Salsamenta_house_Nabeul_phase_11.jpg" alt="Plan of the House of the Salsamenta at Neapolis Phase 1; rights statement" title="Fig. 1: Plan of the House of the Salsamenta Phase 1. (“L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, *Africa* XVII, 1999, pp. 159-161, fig. 6)" >}}
+{{< image src="Salsamenta_house_Nabeul_phase_11.jpg" alt="Plan of the House of the Salsamenta at Neapolis Phase 1; rights statement" title="Fig. 1: Plan of the House of the Salsamenta Phase 1. ("L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998", *Africa* XVII, 1999, pp. 159-161, fig. 6)" >}}
 
-{{< image src="Salsamenta_house_phase_21.jpg" alt="Plan of the House of the Salsamenta at Neapolis Phase 2; rights statement" title="Fig. 2: Plan of the House of the Salsamenta Phase 2. (“L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, *Africa* XVII, 1999, pp. 159-161, fig. 7)" >}}
+{{< image src="Salsamenta_house_phase_21.jpg" alt="Plan of the House of the Salsamenta at Neapolis Phase 2; rights statement" title="Fig. 2: Plan of the House of the Salsamenta Phase 2. ("L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998", *Africa* XVII, 1999, pp. 159-161, fig. 7)" >}}
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
@@ -77,7 +77,7 @@ Unspecified
 
 ## Bibliography
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 183-184. [(worldcat)](https://search.worldcat.org/title/989088620)
-* Slim, L., Bonifay, M., Trousset, P. and al., “L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, in *Africa* XVII, 1999, pp. 159-161, fig. 6, 7. [(worldcat)](https://search.worldcat.org/title/949242827)
+* Slim, L., Bonifay, M., Trousset, P. and al., "L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998", in *Africa* XVII, 1999, pp. 159-161, fig. 6, 7. [(worldcat)](https://search.worldcat.org/title/949242827)
 
 
 ## Places

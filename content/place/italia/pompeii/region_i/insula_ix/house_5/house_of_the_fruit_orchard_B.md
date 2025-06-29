@@ -76,12 +76,12 @@ unspecified
 * <span style="color:green">De Vos, *Guida*, p. 124.</span>
 * <span style="color:green">Jashemski, *Gardens*, 1:74-77 and figs. 117, 118, 120, 122 on p. 74-76, fig. 126 on p. 78, figs. 171-173 on pp. 106-107, and fig. 408 on p. 274; 1:77-79 and figs. 123-125 on p. 77, figs. 385, 388, 389 on pp. 262-263 and figs. 418 and 420 on pp. 280-281. [(worldcat)](https://search.worldcat.org/title/884024123)</span>
 * Idem, *Gardens*, vol.II, pp. 44, <span style="color:green">320-322.</span> [(worldcat)](https://search.worldcat.org/title/921816405)
-* <span style="color:green">Le Corsu, “Un oratoire pompéien consacré à Dionysos-Osiris,” *RevueArch*, fasc. 2 (1967): 239, 242-249 (little mention of plant material).</span>
+* <span style="color:green">Le Corsu, "Un oratoire pompéien consacré à Dionysos-Osiris," *RevueArch*, fasc. 2 (1967): 239, 242-249 (little mention of plant material).</span>
 * <span style="color:green">Maiuri, *Rom., Paint.*, pp. 124, 129.</span>
 * <span style="color:green">Maiuri, *BdA*, (1952), pp. 7-9.</span>
 * <span style="color:green">Idem, *Rom.Paint.*, pp. 127-129.</span>
 * <span style="color:green">Michel, pp. 386-390.</span>
-* <span style="color:green">Peters, “Van Prima Porta,” pp. 6-8.</span>
+* <span style="color:green">Peters, "Van Prima Porta," pp. 6-8.</span>
 * <span style="color:green">*PPP*, 1:95-96, 1:101-102.</span>
 * <span style="color:green">Schefold, *WändP*, p.38.</span>
 * <span style="color:green">Sichtermann, *Antike Welt* (1974), no. 3, pp. 41-48. </span>

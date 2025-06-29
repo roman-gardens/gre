@@ -72,6 +72,6 @@ unspecified
 
 - Maiuri, Herculaneum, pp. 62-64
 - Maiuri, Ercolano, pp. 302, 321-323 and fig. 240 (plan) on p. 303.
-- Maiuri, “Fanciullo erote da Ercolano, Le Arti (1943), pp. 175-179
+- Maiuri, "Fanciullo erote da Ercolano, Le Arti (1943), pp. 175-179
 - Maiuri, Herculaneum,p. 64
 - Maiuri, Ercolano, pp. 320, 323.

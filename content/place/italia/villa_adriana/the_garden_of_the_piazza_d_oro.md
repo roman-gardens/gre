@@ -55,7 +55,7 @@ But there were not only the beauty and the refinement that appealed to us at the
 
 Then when it was closed and all the water furnished by the pavilion fountains went to the eastern canal.
 
-Here there was a different way to water the plants. Due to their inclination the canals were too deep for the capillarity, but all the same were still continued for letting them to reach the drainage canal. Thus in the eastern part of the garden a very old system was used, one that we find in Pasagarde, the splendid Cyrus park. Here marble lined canals joined a series of cubic basins. In the Piazza d’Oro the eastern canal, that in ancient times was completely covered by a vault, but that now for a spell lays in the open, had many little pits excavated in its bottom (Fig. 63). Over each one of them was placed a pump. Probably bronze ones that were pillaged in the middle age at the time of the “metals hunger”. The breaks in the canal’s vault (Fig. 56, p) seems to confirm this hypothesis.
+Here there was a different way to water the plants. Due to their inclination the canals were too deep for the capillarity, but all the same were still continued for letting them to reach the drainage canal. Thus in the eastern part of the garden a very old system was used, one that we find in Pasagarde, the splendid Cyrus park. Here marble lined canals joined a series of cubic basins. In the Piazza d’Oro the eastern canal, that in ancient times was completely covered by a vault, but that now for a spell lays in the open, had many little pits excavated in its bottom (Fig. 63). Over each one of them was placed a pump. Probably bronze ones that were pillaged in the middle age at the time of the "metals hunger". The breaks in the canal’s vault (Fig. 56, p) seems to confirm this hypothesis.
 
 ## Plans
 
@@ -104,14 +104,14 @@ unspecified
 * E. Salza Prina Ricotti, "Nascita e sviluppo di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 65, 1992-93, p. 73. [(worldcat)](https://search.worldcat.org/title/797448140)
 * E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 144-147. [(worldcat)](https://search.worldcat.org/title/46784026)
 * J. E. Foss, J. T. Ammons, M. E. Simmons, S. Y. Lee, R. C. Minter, "Genesis of soil developed in volcanic tufa at Hadrian's Villa near Rome," *Agronomy Abstracts ASA*, Madison WL 1990, p. 291. [(worldcat)](https://search.worldcat.org/title/1644021)
-* J. E. Foss, "Appendice. Soils of Hadrian's Villa," in E. Salza Prina Ricotti, “Il sistema di irrigazione della Piazza d’Oro,” *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 62 (1989-90), pp. 151-157. [(worldcat)](https://search.worldcat.org/title/1074521932)
+* J. E. Foss, "Appendice. Soils of Hadrian's Villa," in E. Salza Prina Ricotti, "Il sistema di irrigazione della Piazza d’Oro," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 62 (1989-90), pp. 151-157. [(worldcat)](https://search.worldcat.org/title/1074521932)
 * J. E. Foss, "Appendice. Soils of Hadrian's Villa," in W. F. Jashemski, E. Salza Prina Ricotti "Preliminary Excavations in the Gardens of Hadrian's Villa: the Canopus Area and the Piazza d'Oro" *American Journal of Archaeology*, Vol. 96, No.4 (Oct. 1992), pp. 595-597. [(worldcat)](https://search.worldcat.org/title/1032864253)<!-- worldcat link is for the journal, not the specific issue thereof --> [(jstor)](http://www.jstor.org/stable/505186)
 * M. E. Timpson, J.E. Foss, R. J. Lewis, C. A. Stiles, "Soil interpretation of some Roman archaeological sites in Italy and Tunisia," *15th Int. Congr. of Soil Science*, Vol. 6b, 1994, pp. 172-173. [(worldcat)](https://search.worldcat.org/title/32679652)
 * J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](https://search.worldcat.org/title/1040851034)
 <!-- Bibliography for Garden Description -->
-* E. Salza Prina Ricotti, “The Importance of Water in Roman Garden Triclinia”, in *Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection)*, Dumbarton Oaks 1987, pp. 180-181, figs. 29-34. [(worldcat)](https://search.worldcat.org/title/887179596)
-* W. F. Jashemski, E. Salza Prina Ricotti, “I giardini di Villa Adriana: rapporto preliminare”, *Atti della Pontificia Accademia romana di archeologia: Rendiconti*, Vol. 60 (1987-88), pp. 162-169, figs. 16-22. [(worldcat)](https://search.worldcat.org/title/1075183783)
-* E. Salza Prina Ricotti, “Adriano: architettura del verde e dell'acqua”, in *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, pp. 370-374, figs. 4-8. [(worldcat)](https://search.worldcat.org/title/636808013)
+* E. Salza Prina Ricotti, "The Importance of Water in Roman Garden Triclinia", in *Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection)*, Dumbarton Oaks 1987, pp. 180-181, figs. 29-34. [(worldcat)](https://search.worldcat.org/title/887179596)
+* W. F. Jashemski, E. Salza Prina Ricotti, "I giardini di Villa Adriana: rapporto preliminare", *Atti della Pontificia Accademia romana di archeologia: Rendiconti*, Vol. 60 (1987-88), pp. 162-169, figs. 16-22. [(worldcat)](https://search.worldcat.org/title/1075183783)
+* E. Salza Prina Ricotti, "Adriano: architettura del verde e dell'acqua", in *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, pp. 370-374, figs. 4-8. [(worldcat)](https://search.worldcat.org/title/636808013)
 * E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 339-354, figs. 117-126. [(worldcat)](https://search.worldcat.org/title/46784026)
 * PLIN. *nat.* 16.60.139-141
 * PLIN. *epist.* 5.6.16-17
@@ -121,7 +121,7 @@ unspecified
 * W. F. Jashemski, *The Gardens of Pompeii Herculaneum and the Villas Destroyed by the Vesuvius*, II, New York 1993, *passim* [(worldcat)](https://search.worldcat.org/title/769881162)
 * PLIN. *nat.* 16.28.70
 * PLIN. *nat.* 21.14 and 47
-* E. Salza Prina Ricotti, “Il sistema di irrigazione della Piazza d’Oro”, *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 62 (1989-90), pp. 121-150. [(worldcat)](https://search.worldcat.org/title/1074521932)
+* E. Salza Prina Ricotti, "Il sistema di irrigazione della Piazza d’Oro", *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 62 (1989-90), pp. 121-150. [(worldcat)](https://search.worldcat.org/title/1074521932)
 
 ## Places
 

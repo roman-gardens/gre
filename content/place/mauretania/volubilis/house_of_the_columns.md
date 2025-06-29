@@ -61,7 +61,7 @@ The House of the Columns, approximately 1880 square meters, is located to the no
 
 * Ichkhakh," Recherches sur les Maisons du Quatier de l'arc de Triomphe (Volubilis)", to be published in PSAM 2010, Fig. 7. [(worldcat)](https://search.worldcat.org/title/883553652)
 
-* Thouvenot, R., “La maison aux colonnes”, PSAM, 7, 1945, 132-145, fig. 4. A. [(worldcat)](https://search.worldcat.org/title/765468558)
+* Thouvenot, R., "La maison aux colonnes", PSAM, 7, 1945, 132-145, fig. 4. A. [(worldcat)](https://search.worldcat.org/title/765468558)
 
 ## Places
 

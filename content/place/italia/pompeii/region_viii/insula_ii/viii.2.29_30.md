@@ -49,6 +49,6 @@ Unspecified
 ## Bibliography
 * Jashemski, *Gardens*, vol. II, pp. 208-209 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1884), pp. 212-214 [https://search.worldcat.org/title/860559196)
-* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, “Nuovi scavi,” p. 20 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, "Nuovi scavi," p. 20 [(worldcat)](https://search.worldcat.org/title/906755593)
 * Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, fig. 27 (plan) on pp. 55-70 passim and fig. 17 on p. 62, fig. 18 on p. 65 (plan), pls. 9, 10 (plan and section) and pls. 22, 23 (reconstructions) [(worldcat)](https://search.worldcat.org/title/486835478)
 * Sogliano, *Notizie degli scavi di Antichita* (1883), p. 347 [(worldcat)](https://search.worldcat.org/title/46875519)
