@@ -7,6 +7,7 @@ latlon: [ 47.864221, 5.335214 ]
 author: John Bodel
 editor: June Dorsch
 date: 2021-04-21
+modified: 2025-06-29
 draft: true
 ---
 
