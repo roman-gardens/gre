@@ -30,6 +30,7 @@ A sublocation is any area larger than an individual garden, but located within a
 Rural Villa
 
 ## Keywords
+
 - {{< keyword "villae rusticae" >}}
 - {{< keyword "mosaics" >}}
 - {{< keyword "porticoes" >}}

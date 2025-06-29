@@ -34,11 +34,13 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [House I](#)
 
 ## Keywords
+
 - {{< keyword "tablina" >}}
 - {{< keyword "porticoes" >}}
 
 
 ## Garden Description
+
 This house was excavated in 1799 and to the rear of the tablinium there was a portico which enclosed an area surrounded by a gutter. Openings were cut in the floor where the twelve supporting columns stood to allow light into the rooms below in the volcanic ledge. Mazois and Fiorelli labeled this area a hanging garden because of this configuration. A grand view of the Bay of Naples and the mountains could be enjoyed from the terraces on two levels in this house, and potted plants and shrubs may have been placed there.
 
 ## Plans

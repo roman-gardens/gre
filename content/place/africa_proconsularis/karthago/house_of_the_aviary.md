@@ -32,6 +32,7 @@ Of the Roman period, the city plan is clearly recognizable. The plan takes as it
 House of the Aviary (Maison de la Volière)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "mosaics" >}}

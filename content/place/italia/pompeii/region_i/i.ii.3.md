@@ -29,6 +29,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "#">}})
 
 ## Keywords
+
 - {{< keyword "columns" >}}
 
 
@@ -36,6 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Small viridarium to the rear of a house.
 
 ## Garden Description
+
 The small viridarium at the rear of the house had narrow, slightly raised beds along the walls on the north and east side. These beds were for the cultivation of flowers, according to Fiorelli. A small vestibule on the north side of the garden was decorated with remnants of tufa [columns](http://vocab.getty.edu/page/aat/300001571) brought from another site.
 
 

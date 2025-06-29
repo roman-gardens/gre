@@ -29,6 +29,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula I]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "cauponae" >}}
 - {{< keyword "amphorae" >}}
 
@@ -37,10 +38,12 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Small garden to the rear of a [caupona](http://vocab.getty.edu/page/aat/300005208)
 
 ## Garden Description
+
 The garden in the southeast section of this area was shared the house at entrance 3 and shops 4, 5, and 6 on the Via dell’Abbondanza. It was also possible to enter the garden from the side street at entrance 7.  Jashemski established in 1975 that the area had been planted due to the presence of scattered root cavities, but extensive damage to the soil prevented the recovery of an accurate planting plan.
 
 
 ## Bibliography
+
 Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, p.75 [(worldcat)](https://search.worldcat.org/title/222353569)
 
 

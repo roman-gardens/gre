@@ -50,12 +50,14 @@ House of Condes de Barcelona Street
 
 
 ## Keywords
+
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "columns" >}}
 
 
 ## Garden Description
+
 Excavations in the late 1940s and 1950s brought to light the remains of an urban house. Among the structures identified was a *peristyle*.  The presence of a fountain and the existence of a dividing screen, or pluteus, caused Balil to assert that the house must have contained gardens. Two *porticos* were identified, a larger one in which six columns were recovered (a) and a smaller one with two *columns* (b).  In the center of the larger portico was an L-shaped nympheum or fountain. A lively mosaic in the southwest corner dates the house to the beginning of the second century. Each porticus may have contained a garden.
 
 

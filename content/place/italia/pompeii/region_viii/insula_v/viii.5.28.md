@@ -30,12 +30,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula V]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "atriums" >}}
 - {{< keyword "tablina" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 
 ## Garden Description
+
 Three wide doorways led from the atrium of this house, which did not have a tablinium, to the peristyle of this large garden (a). Nine fluted columns supported the portico which bordered the garden on the east, north and part of the west with a gutter on these same sides. Holes in the columns 0.97 and 0.52 m. from the floor remained where a fence had once been attached.
 
 ## Plans

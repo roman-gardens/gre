@@ -29,6 +29,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "#">}})
 
 ## Keywords
+
 - {{< keyword "atriums" >}}
 - {{< keyword "columns" >}}
 - {{< keyword "graffiti" >}}
@@ -39,6 +40,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Small peristyle garden at the rear of the house.
 
 ## Garden Description
+
 The west portico of the small peristyle garden at the rear of the house was entered through two doors directly from the atrium. The garden was enclosed on four sides by a portico supported by eight stuccoed brick columns. On the foreside, the two first [columns](http://vocab.getty.edu/page/aat/300001571) on the left had a larger intercolumniation corresponding to the wide opening opposite the [atrium](http://vocab.getty.edu/page/aat/300004097). Between these columns stood a terracotta puteal covered with white [stucco](http://vocab.getty.edu/page/aat/300014966). A gutter around the edges of the garden was shown in the plan. The round pool in the center of the garden no longer exists, and only stumps of the columns remain today. One of the [graffiti](http://vocab.getty.edu/page/aat/300015613) on the walls of the [portico](http://vocab.getty.edu/page/aat/300004145) noted that on November 17 Puteolana gave birth to three males and two females (XV K(alendas) NOV(embres) PVTEOLANA PEPERIT MASCL(os) III FEMEL[as] II (CIL IV. 3890).  Perhaps they were either piglets or puppies. Pigs were more common in ancient cities than is commonly realized.
 
 ## Bibliography

@@ -33,6 +33,7 @@ Pupput is located about three km to the northwest of Hammamet. Two inscriptions 
 House of the Viridarium with Niches (Maison du viridarium à niches)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "niches" >}}

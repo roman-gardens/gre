@@ -32,6 +32,7 @@ Three separate gardens in the Praedia di Julia Felix.
 
 
 ## Keywords
+
 - {{< keyword "cisterns" >}}
 - {{< keyword "sprinklers" >}}
 - {{< keyword "peristyles" >}}
@@ -40,6 +41,7 @@ Three separate gardens in the Praedia di Julia Felix.
 - {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
+
 Three separate gardens were located in this property.  
 
 A. Garden A (entrance 9) occupies the entire *insula* and is one of the largest properties in the city. It was originally excavated in 1755-1757, stripped of its works of art and re-buried. In 1951-1952, this garden was re-excavated and restored but not published. Sixteen elegantly carved slender marble pillars support a [portico](http://vocab.getty.edu/page/aat/300004145) which borders the [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029) garden on the west. An alcove housed a summer [triclinium](http://vocab.getty.edu/page/aat/300004359) (l. medius, 4.00 m.; l. imus and summus 3.00 m.) with marble faced couches that looked through the [portico](http://vocab.getty.edu/page/aat/300004145) into the garden. Between the couches a niche supplied water that ran down small marble steps to a hole at the bottom. The water re-surfaced as a jet in the middle of the [triclinium](http://vocab.getty.edu/page/aat/300004359). A vine covered [arbor](http://vocab.getty.edu/page/aat/300006781) stretched along the south and east side of the garden and beyond it in bays on the east wall were raised planting beds, alternating semicircular and square. These were covered with pumice and decorated with a band of Egyptian blue around the sides and top, the middle bay having four bands of Egyptian blue. The room to the south of the [triclinium](http://vocab.getty.edu/page/aat/300004359) had a garden representation (0.185 x 0.42 m) on the north part of the west wall on the red middle zone.

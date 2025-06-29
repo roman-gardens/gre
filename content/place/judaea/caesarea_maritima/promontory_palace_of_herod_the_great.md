@@ -40,6 +40,7 @@ Royal Garden
 - {{< keyword "walled gardens" >}}
 
 ## Garden Description
+
 Promontory Palace of Herod the Great
 
 A seaside palace west of the theater at Caesarea Maritima has been identified by E. Netzer as the maritime palace Herod the Great built to supervise construction of the great harbor, and, later, to provide reception space for guests at spectacles and official functions.  (Fig. 1) The view north from this promontory became increasingly impressive as the harbor was completed and thrived. The palace served as the official praetorium of his heirs and subsequent Roman officials.

@@ -44,6 +44,7 @@ Casa D’Argo
 - {{< keyword "gutters" >}}
 
 ## Garden Description
+
 533.II.2.
 A. The earliest excavations of Herculaneum were done with underground tunnels. Several of these crossed this site and were discovered sixty three years later when further excavation of this patrician house was conducted in1828-1835. Eight brick columns and one engaged column stood on each of the long sides of the *portico* that bounded the large *peristyle* garden (a) on the east, north, and west sides. The north side was supported by four more columns and at the two front corners there was a pillar with an engaged column on each side. In the center of the north side two smaller pillars with one engaged column each framed a garden view from the *triclinium*. All the supporting members were coated with fine stucco.  *Gutters* ringing the garden conveyed rain water to the *cistern*.
 

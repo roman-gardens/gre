@@ -35,6 +35,7 @@ Villa at site 11
 - {{< keyword "villae suburbanae" >}}
 
 ## Garden Description
+
 This villa at Site 11 was a simple "U" plan farmhouse initiated at the beginning of the 3rd century B.C.  (Period 1).  In the Augustan Age this farmhouse was transformed into a more luxurious atrium type villa/residence (Period 2 – Figs. 2 and 3).  During the reign of Trajan a bath suite was added as well as an outside plunge pool in what seems to have been a western enclosed garden (hortus) from as early as Period 1.  Because of the proximity of bedrock and the fact the slight earth cover had been ploughed for centuries, any evidence of what might have been planted in the garden had long since been destroyed.  We know, however, that there must have been surrounding olive groves from the press facilities of the villa, also dating from the time of Trajan.  All was abandoned in the second or third decade of the 3rd century of the Christian Era.  
 
 ## Maps

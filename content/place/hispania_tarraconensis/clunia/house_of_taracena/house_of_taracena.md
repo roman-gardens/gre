@@ -66,11 +66,13 @@ The steep sides of the meseta and its height above the surrounding plain clearly
 House of Taracena
 
 ## Keywords
+
 - {{< keyword "passages" >}}
 - {{< keyword "courtyards" >}}
 
 
 ## Garden Description
+
 Excavated by Blas Taracena between 1933 and 1935, this house is located to the northeast of the forum.  The arrangement of its gardens is most unusual. At the center of the house lies not a *courtyard* but an almost square summer triclinium with a stunning geometric mosaic.  On the four sides were *passageways* and, beyond them small gardens, forming a Greek cross of gardens. Taracena was able to detect the soil contours of the planting beds of these gardens. (Fig 2), Although the gardens have not been replanted, the contours are now no longer visible.
 
 In each *courtyard* was a cistern or well. The eastern *courtyard* had served as the atrium of the first phase of the house. Most of the wall paintings and mosaics in the house may date to the second half of the second century.  The *passageways* in the north courtyard were paved in the reign of Constantine.  The peristyle courtyard [53] at the rear of the complex (the north side) was probably a garden.

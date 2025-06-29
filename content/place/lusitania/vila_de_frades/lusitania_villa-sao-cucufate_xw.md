@@ -29,10 +29,12 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 Villa Sao Cucufate
 
 ## Keywords
+
 - {{< keyword "tablina" >}}
 - {{< keyword "peristyles" >}}
 
 ## Garden Description
+
 This villa, which lies southeast of Lisbon, had multiple construction phases, investigated by J. Alarcão, R. Etienne, and F. Mayet.  The key to distinguishing the first villa from the second turned out to be that the first was made of granite without mortar, while the second was built of schist.  It was a modest structure with a patio [Fig. 1, 7], quite possibly an informal garden, surrounded on two sides by galleries [6]. Rooms [3], [4], and [5] were the family's living quarters. Half-buried jars made clear that room [10] was a storeroom, presumably for grain, oil, and wine.  Dating this phase is uncertain; some terra sigillata suggests a date in the mid 1st century.
 
 About 130 AD, the family demolished much of its home and built in its place a much more spacious abode, which preserved the orientation and the width of the farmyard from the first phase.  To the northwest, the old patio and its galleries gave way to a whole new structure: a peristyle with galleries on all four sides surrounded a central garden with a  semicircular pool.  The pool was a bit off-center, and the garden  was aligned with the new principal room of the house, perhaps a tablinum, on the northwest side of the peristyle. Behind this room, further to the northwest, was a huge water tank holding some 800 cubic meters. The source of the water has not been identified.  This tank supplied water to the pool, baths, and several smaller pools and fountains.  Overflow from this tank was collected in a similar tank of half the capacity farther down the hill to the south.  It could have served as a swimming pool in the summer and to irrigate gardens and orchards farther down the slope. The rooms on the southwest side of the peristyle opened onto a broad veranda with a good view.  The rooms just to the east of the veranda were baths; their waste water would have irrigated the gardens.  With this source of abundant water, it seems safe to guess that the very visible area just below the veranda was gardened.  A small fountain with semicircular pool graced the northeastern end of the gallery behind the colonnade.

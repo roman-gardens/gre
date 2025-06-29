@@ -32,11 +32,13 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ## Keywords
+
 - {{< keyword "tablina" >}}
 - {{< keyword "porticoes" >}}
 
 
 ## Garden Description
+
 The room (b) to the east had a good view into this garden (a) which was located to the rear of the tablinium. A column supported portico bordered the garden on the east and south.
 
 ## Plans

@@ -33,6 +33,7 @@ Archaeological investigations brought to light the amphitheater, two forums, the
 House of Venus (Maison de Venus)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "semicircular basin" >}}

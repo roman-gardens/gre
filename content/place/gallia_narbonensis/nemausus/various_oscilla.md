@@ -56,6 +56,7 @@ These were discovered out of context or the location of the find is not known:
 
 
 ## Bibliography
+
 1. J.L. Fiches, A. Veyrac, *Nîmes*, CAG, 30/1, 1996, P. 350, P. 512.
 
 ## Places

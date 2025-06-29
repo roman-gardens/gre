@@ -31,12 +31,14 @@ Hadrumetum is located on the bay of Hammamet at the edge of the fertile region o
 House of the Masks (Maison des Masques)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "oecus cyzicenus" >}}
 <!-- {{< keyword "villae urbanae" >}} -->
 
 ## Garden Description
+
 Known for its mosaic pavements, the *domus* of the Masks was laid out around a large peristyle that may have had a garden.
 
 The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was bordered on two sides by pillars that opened towards a rear garden, the third side is not clear as the house is destroyed in this area.

@@ -35,6 +35,7 @@ Timgad, ancient Thamugadi was founded as a colony under Trajan. The city had a c
 Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 
 ## Keywords
+
 - {{< keyword "mural paintings" >}}
 - {{< keyword "viridarium" >}}
 - {{< keyword "temples" >}}

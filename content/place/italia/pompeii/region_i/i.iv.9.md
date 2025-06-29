@@ -29,6 +29,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IV]({{<relref "#">}})
 
 ## Keywords
+
 - {{< keyword "cisterns" >}}
 - {{< keyword "lararia" >}}
 - {{< keyword "tablina" >}}
@@ -38,6 +39,7 @@ Viridarium garden in a domestic property.
 
 
 ## Garden Description
+
 This garden contains a [cistern](http://vocab.getty.edu/page/aat/300052558) opening and form the entrance a viridarium at the rear of the [tablinum](http://vocab.getty.edu/page/aat/300004180) and a niche [lararium](http://vocab.getty.edu/page/aat/300400600) are clearly visible.
 
 

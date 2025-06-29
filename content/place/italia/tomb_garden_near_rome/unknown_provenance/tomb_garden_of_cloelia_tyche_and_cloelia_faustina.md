@@ -27,6 +27,7 @@ Tomb Garden of (Cl)oelia Tyche and (C)loelia Faustina
 - {{< keyword "epitaphs" >}}
 
 ## Garden Description
+
 The lower right portion of a marble slab found in the vicinity of the Via del Mare outside Rome records an epitaph of the late first or second century dedicated  to a mother, [Cl]oelia Tyche, and sister, [C]loelia Faustina, and their freedmen and freedwomen, and declaring that the property, which comprised "a tomb monument and building and garden enclosed by a wall" (hoc monimentum et aedificium et hortum, ita uti  maceria clusum est), would not pass to the heir.
 
 ## Maps

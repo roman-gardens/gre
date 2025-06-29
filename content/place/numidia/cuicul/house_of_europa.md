@@ -37,6 +37,7 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 House of Europa, Central District (Maison d'Europe, Quartier Central)
 
 ## Keywords
+
 - {{< keyword "balnea" >}}
 - {{< keyword "domus" >}}
 - {{< keyword "mosaics" >}}

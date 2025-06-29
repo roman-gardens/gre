@@ -29,6 +29,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula I]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "cisterns" >}}
 - {{< keyword "water supply systems" >}}
 - {{< keyword "dolia" >}}
@@ -41,11 +42,13 @@ Casa Imperiale
 Two gardens, one with root cavities and the remains of a new [cistern](http://vocab.getty.edu/page/aat/300052558).
 
 ## Garden Description
+
 A. (Entrance 7A) A square garden area was tucked behind two rooms. The beginnings of an arc-shaped structure in the northeast corner could have been the beginning of an additional cistern according to Dr. De Caro. The soil was badly damaged and Jashemski could not determine the planting patterns, although a few root cavities were recorded. Water was directed by way of a well-worn channel from under a door in II.i.12, across this garden and into garden II.i.10 to the east.
 
 B. (Entrance 11) The two rooms in back of this area were an industrial complex, and the large rectangular area in front was entered directly from the street.  This had been cleared, probably after the earthquake (AD 62), and used as a garden. The industrial areas were likely also connected to the House of the Sibyl (II.i.12) after AD 62.
 
 ## Bibliography
+
 W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.76.* [(worldcat)](https://search.worldcat.org/title/222353569)  
 Armando La Porta, Laurentino García y García, Joan McConnell and Halsted B. Van der Poel, 1983, *Corpus topographicum Pompeianum Pars II, p.234* [(worldcat)](https://search.worldcat.org/title/8667821)  
 Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 1986, *Corpus topographicum Pompeianum Pars IIIA, p.40-41* [(worldcat)](https://search.worldcat.org/title/8667821)  

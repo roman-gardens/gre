@@ -29,6 +29,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "#">}})
 
 ## Keywords
+
 - {{< keyword "biclinia" >}}
 - {{< keyword "cauponae" >}}
 - {{< keyword "lararia" >}}
@@ -37,6 +38,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Garden serving the [Caupona](http://vocab.getty.edu/page/aat/300005208) of Innulus.
 
 ## Garden Description
+
 This small [caupona](http://vocab.getty.edu/page/aat/300005208) had a garden at the rear with a roofed passageway on the east and the south. It was excavated in 1873 and a masonry [biclinium](http://vocab.getty.edu/page/aat/300170371) (l. medius, 2.65m.; l. imus 2.94 m.) with a round table (dia. 0.93 m.) was uncovered in the northwest corner and a niche [lararium](http://vocab.getty.edu/page/aat/300400600) on the north garden wall.
 
 

@@ -20,6 +20,7 @@ draft: true
 Villa Borg
 
 ## Keywords
+
 - {{< keyword "porticoes" >}}
 - {{< keyword "basins" >}}
 - {{< keyword "courtyards" >}}

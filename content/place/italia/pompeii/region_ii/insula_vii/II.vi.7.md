@@ -31,9 +31,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ## Keywords
+
 - "root cavities"
 
 ## Garden Description
+
 Park-like areas were located between the Great Palaestra and the Amphitheater and to the north. Here booths were set up under trees or awnings and a carnival atmosphere existed as depicted in a painting found in the peristyle of house I.iii.23 (Mus. Naz. inv. no. 112 222). Two huge root cavities were found in front of the palaestra by Maiuri, although only one was recorded in his plan, and six trees grew in a row on the north side of the Large Palaestra.
 
 <!--## Plans

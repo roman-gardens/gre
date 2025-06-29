@@ -30,9 +30,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IV]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "porticoes" >}}
 
 ## Garden Description
+
 This garden (a) was tucked around the right end of a long fauces which led from the street. The garden was enclosed by a low wall and a gutter on the north and west and a narrow portico with one column on the north. A cistern opening was built into the wall on the west. Two marble heads 0.16 m. high were found; one of yellow marble and bearded, with horns and an ivy crown, and the second of white marble with an ivy crown but beardless. They were of the type that is mounted on posts as garden ornaments and were uncovered in the room at the rear of the portico.
 
 ## Plans

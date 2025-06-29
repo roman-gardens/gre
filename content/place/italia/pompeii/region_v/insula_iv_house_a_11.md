@@ -44,6 +44,7 @@ House a/11
 V.iv.a/11
 
 ## Keywords
+
 - {{< keyword "tablina" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
@@ -53,6 +54,7 @@ V.iv.a/11
 
 
 ## Garden Description
+
 B. At the rear of this house a *peristyle* garden (b) was bordered on the south by a *portico*. Three columns and an engaged column, stuccoed and fluted on the top, red at the bottom, supported the *portico*. A large animal painting occupied three walls of the *peristyle* garden with a bold checkerboard above and a black dado at the base painted with stylized plants and flowers. The west wall featured a garden representation on the *predella*. The garden is entered through a tall portal with a round *oscillum* suspended beneath a crater-shaped vase on the top of the entry. The front fence forms an *excedra* on either side of the entrance and shrubbery painted in green is shown along the front. Garden representations cover the entire dado (0.55 x 3.50 m.) of both the north and south walls of the *tablinium*. On a black background a garden is enclosed by an elaborate fence that suggests marble with a curvilinear and rectilinear design. The garden on the north wall a large semicircle in the center has a footed circular fountain with a water jet in the center, the water falling in two streams.  The south wall has a crater-shaped fountain in an angular niche. Flowers bloom in lavender and white while birds sit on the fence in both paintings. A white flower garland graces the base of the paintings and traces of a *schola* are visible on the north wall.
 
 ## Plans

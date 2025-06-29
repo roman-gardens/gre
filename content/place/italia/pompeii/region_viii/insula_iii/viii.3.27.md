@@ -30,10 +30,12 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "fauces" >}}
 - {{< keyword "porticoes" >}}
 
 ## Garden Description
+
 From the street, the fauces led to the entrance to the garden (a) which was enclosed on the south and west by a portico with five columns and two engaged columns, all connected by a low wall. The original excavation plan shows a water channel on the south and west edges.
 
 ## Plans

@@ -38,6 +38,7 @@ Le Pinard, House B
 
 
 ## Keywords
+
 - {{< keyword "ditches" >}}
 - {{< keyword "atriums" >}}
 - {{< keyword "vestibules" >}}

@@ -31,6 +31,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ## Garden Description
+
 Behind this shop and the rooms beyond that there was a garden (a).
 
 ## Plans

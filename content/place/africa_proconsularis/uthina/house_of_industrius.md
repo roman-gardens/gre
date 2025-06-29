@@ -31,6 +31,7 @@ Located to the Southeast of the amphitheater, this house was laid out around a p
 House of Industrius (Maison d'Industrius)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "colonnades" >}}

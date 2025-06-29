@@ -28,7 +28,7 @@ House in the Rue du Palais de Justice in Vesontio
 
 ## Keywords
 
-archaeological garden \
+<!-- archaeological garden -->
 
 - {{< keyword "domus" >}}
 - {{< keyword "fountains" >}}

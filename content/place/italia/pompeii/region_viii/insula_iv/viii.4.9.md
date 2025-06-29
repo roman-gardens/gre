@@ -30,9 +30,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IV]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "tablina" >}}
 
 ## Garden Description
+
 What was formerly a garden with a pool was converted into a large open area (a) by the demolition of some walls to the rear of the tablinium. Significant remnants of woolen and linen cloth were recovered from the area when it was excavated in 1860-1861 and this led Fiorelli to believe that the Stabian Baths just across the street used this area to wash clothes and dry them in the open.
 
 ## Plans

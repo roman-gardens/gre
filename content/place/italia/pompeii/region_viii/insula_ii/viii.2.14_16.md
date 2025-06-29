@@ -31,12 +31,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "amphorae" >}}
 - {{< keyword "tondi" >}}
 
 ## Garden Description
+
 A. The volcanic ledge that this peristyle garden (a) was built on dictated an irregular shape to the portico that enclosed it. The portico had fourteen columns and a rectangular pool in the south-east corner. The west wall of the pool had fourteen small amphoras (30 cm. long; mouth 9.5 cm. wide) arranged in a row of nine on the bottom with a row of eight above. The east wall of the pool had a single row of eight. These provided shelter and spawning places for fish. A possible garden ornament, a tondo (Mus. Naz. inv. no. 121 612), was found in the house. The traces of a garden painting were reported in room II on the lower level by Noack-Hartleben, consisting of a black dado with a yellow fence and foliage painted behind this.
 B. Built on the volcanic ledge, only a triangular segment of this terrace garden (a) with a portico on the east and north survived. From here the view of the mountains and the Bay could be enjoyed looking over a planted area that was slightly lower than the portico. There was a large light filled room (c) between the two peristyles of this house and terraces on the two lower levels that well could have had potted plants.
 

@@ -38,6 +38,7 @@ House Formigé Square-2 phases
 
 
 ## Keywords
+
 - {{< keyword "vestibules" >}}
 - {{< keyword "atriums" >}}
 - {{< keyword "porticoes" >}}

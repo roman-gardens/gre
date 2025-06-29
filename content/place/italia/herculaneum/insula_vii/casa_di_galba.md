@@ -40,6 +40,7 @@ Casa di Galba
 - {{< keyword "exedrae (site elements)" >}}
 
 ## Garden Description
+
 The excavation of this site was begun in 1873-1874 and is still incomplete. A silver bust, supposedly of the emperor Galba, found in the street in front of this house gave the site its name. Twelve stuccoed tufa columns support a portico which encloses this peristyle garden. A marble faced cruciform basin in the center contained a small column with a fountain. The columns were connected by a low wall with an entrance on the east opposite the exedra providing a view of the garden and fountain.
 
 
@@ -54,6 +55,7 @@ The excavation of this site was begun in 1873-1874 and is still incomplete. A si
 Unspecified
 
 ## Bibliography
+
 Maiuri, *Herculaneum*, pp. 25-26 [(worldcat)](https://search.worldcat.org/title/1107784297)
 Maiuri, *Ercolano*, pp. 405-406 and fig. 340 (plan) on p. 404 [(worldcat)](https://search.worldcat.org/title/490581395)
 Ruggiero, *Ercolano*, p. 663 [(worldcat)](https://search.worldcat.org/title/469320995)

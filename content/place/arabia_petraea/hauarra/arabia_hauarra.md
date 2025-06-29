@@ -31,6 +31,7 @@ Nabataean Hawara (Auara) was founded by king [Aretas III](https://en.wikipedia.o
 Shrine Complex in Insula E125
 
 ## Keywords
+
 - {{< keyword "aqueducts" >}}
 - {{< keyword "baetyls" >}}
 - {{< keyword "basins" >}}
@@ -41,6 +42,7 @@ Shrine Complex in Insula E125
 - {{< keyword "temene" >}}
 
 ## Garden Description
+
 A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely damaged during the Roman conquest of Arabia Petraea, the site’s inhabitants built another shrine at the same location. The Roman-period shrine occupied the southeast corner of a multi-unit *insula* (E125), but could only be accessed from outside the complex. This shrine consisted of a square *naos* (containing a central Nabataean *baetyl* and legionary altar, bins, shelves, and votive offerings) enclosed in a rectangular open-air temenos (Fig. 3). Upon entering the temenos, worshippers walked to the *naos* along a 12.7 m long paved processional way that was flanked by two long raised planters. An aqueduct-fed basin next to the door of the *naos* appears to have supplied the shrine with so much fresh water that it must have been intended not just for ritual cleansing, but for supplying the planters as well. Given the relatively shallow depth of the planters, and that no root balls or pots were found within, they probably contained shrubs and/or flowers rather than trees. Although the architect clearly tried to make the planters symmetrical in size, shape, and location, their design (and that of the whole Roman shrine) was constrained by the reuse of some Nabataean walls as foundations.
 
 ## Maps

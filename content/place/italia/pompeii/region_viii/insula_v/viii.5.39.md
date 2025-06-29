@@ -30,6 +30,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula V]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "atriums" >}}
 - {{< keyword "tablina" >}}
 - {{< keyword "triclinia (rooms)" >}}
@@ -37,6 +38,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ## Garden Description
+
 A. This house was excavated in 1882 to reveal a small garden (a) at the rear entered by passageways on either side of the tablinium. The portico on the east had one column and two engaged columns with a low wall that allowed entrance on the south end. Rooms on the west probably had a roof that extended over the very narrow passageway. A gutter surrounded the garden. The excavation yielded several sculptures in the garden area; a small crouching lion (0.245 m. long; Mus. Naz. inv. no. 120 057) and a head of a tiger (0.10 m. long; Mus. Naz. inv. no. 120 049), both fitted as fountain spouts; a marble fountain statuette of a dolphin (0.19 m. long; Mus. Naz. inv. no. 120 051) which was found in the atrium; a statuette of a young satyr missing arms and legs (0.315 m. high; Mus. Naz. inv. no. 120 048) with an iron pin on the right shoulder for a wall mount; the head of a herm (Mus. Naz. inv. no. 120 050).
 B. The northwest corner of this small house contained a second garden (b) just off the anteroom at the rear of the portico. There was a band of raised soil at the base of the wall 0.55 m. wide which had been planted and the remainder of the space had been paved. The triclinium on the south and the neighbor’s house on the west received light from this garden.
 

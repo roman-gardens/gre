@@ -25,7 +25,7 @@ House in Insula 1 and 2 in Augusta Raurica
 
 ## Keywords
 
-archaeological garden \
+<!-- archaeological garden -->
 
 - {{< keyword "insulae" >}}
 - {{< keyword "peristyles" >}}

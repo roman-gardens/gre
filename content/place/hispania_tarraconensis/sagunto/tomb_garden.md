@@ -25,9 +25,11 @@ draft: true
 Tomb garden and baths of P. Caecil(ius) Rufus and Valeria
 
 ## Keywords
+
 - {{< keyword "tombs" >}}
 
 ## Garden Description
+
 A marble slab found at Puçol (Puzol) near Saguntum, now lost,  but originally preserving an epitaph of the late first or early second century set up by P. Caecil(ius) Rufus for himself and his wife Valeria, records that they purchased an area (locus) vaulted over with walls, baths (a notable amenity at a tomb), and gardens and constructed a monument there for themselves and their daughters, to the end that their ashes be mingled with those of their ancestors  (se vivis compararunt locum uti est concameratum parietib(us), balneis, hortis; monumentum construxerunt sibi et filiabus donec avitis cineribus immisceantur). For the identification of the couple and the approximate date, see Alföldy in CIL.
 
 ## Maps

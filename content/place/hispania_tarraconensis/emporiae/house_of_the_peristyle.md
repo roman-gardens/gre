@@ -81,11 +81,13 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 House of the Peristyle
 
 ## Keywords
+
 - {{< keyword "peristyles" >}}
 - {{< keyword "cisterns" >}}
 
 
 ## Garden Description
+
 This well-known large house, situated in the center of the eastern side of Neapolis, just south of the agora, included a *peristyle*, which enclosed a planted courtyard. In the *peristyle* courtyard, archaeologists discovered a *cistern* with a well, a fountain with an exedra, and other elements typical of a designed garden.
 
 

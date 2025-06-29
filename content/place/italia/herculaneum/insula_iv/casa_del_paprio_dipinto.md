@@ -38,10 +38,12 @@ Casa del Paprio Dipinto
 
 
 ## Keywords
+
 - {{< keyword "impluvia" >}}
 
 
 ## Garden Description
+
 544.IV.8-9.
 This narrow house excavated in 1929-1932 had a small paved courtyard serving as both a light well and an *impluvium*. This area could have held potted plants. A hunt scene once decorated the back wall, featuring lions and bulls, scenes more typically found on the walls of more luxurious dwellings.
 <!--## Maps-->

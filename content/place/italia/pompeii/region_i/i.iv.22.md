@@ -29,6 +29,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IV]({{<relref "#">}})
 
 ## Keywords
+
 - {{< keyword "atriums" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
@@ -37,6 +38,7 @@ Garden with a [triclinium](http://vocab.getty.edu/page/aat/300004359) at the rea
 
 
 ## Garden Description
+
 Directly to the rear of the [atrium](http://vocab.getty.edu/page/aat/300004097), a small viridarium with a paved space (1.70 x 2.50m) behind it suggested use as a summer [triclinium](http://vocab.getty.edu/page/aat/300004359) to Fiorelli. Soprano was certain that there was an outdoor [triclinium](http://vocab.getty.edu/page/aat/300004359) of wood or other material located here.
 
 

@@ -35,6 +35,7 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 House of Sertius (Maison de Sertius)
 
 ## Keywords
+
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "domus" >}}
 - {{< keyword "semicircular basin" >}}
@@ -42,6 +43,7 @@ House of Sertius (Maison de Sertius)
 - {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
+
 This large *domus* the result of the combining of two houses, is located at the periphery of the center of the city. The *domus* is laid out around two peristyles. The first, near the vestibule had a long rectangular basin placed in the axis of the *triclinium*, the two strips that bordered the pool may have been planted. The second peristyle with 8 columns had a semi-circular basin (Plan view Fi.1).
 
 ## Maps

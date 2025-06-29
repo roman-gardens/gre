@@ -81,11 +81,13 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 House of the Mosaic of Hedykoitos
 
 ## Keywords
+
 - {{< keyword "atrium houses" >}}
 - {{< keyword "city walls" >}}
 
 
 ## Garden Description
+
 This house in the northwest corner of Neapolis backs onto the edge of the city, against the western wall. It had gardens or terraces on its outside edges.
 
 

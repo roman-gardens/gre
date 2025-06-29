@@ -44,6 +44,7 @@ House b
 V.iv.b.
 
 ## Keywords
+
 - {{< keyword "porticoes" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "triclinia (couches)" >}}
@@ -52,6 +53,7 @@ V.iv.b.
 
 
 ## Garden Description
+
 When the excavation work reached the northeast corner of this house in 1901, a small garden (a) with a proportionately small *portico* supported by two masonry columns was found. The major part of the garden was occupied by the masonry *triclinium* (*l. medius*, 3.00 m.; *l. imus* and. *summus* 2.69 m.) with a round table (0.65 m. dia.) and a *lectus imus* that had a *fulcrum*. The masonry couch had three large holes that may have received the posts for the pergola, and a marble leopard’s head fountain was found in the first room to the right of the entrance. The large window in the *triclinium* offered a fine view of the garden.
 ## Plans
 

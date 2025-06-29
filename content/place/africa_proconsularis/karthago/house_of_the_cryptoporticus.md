@@ -33,6 +33,7 @@ Of the Roman period, the city plan is clearly recognizable. The plan takes as it
 House of the Cryptoporticus (Maison du Cryptoportique)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "oeci" >}}

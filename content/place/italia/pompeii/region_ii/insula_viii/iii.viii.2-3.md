@@ -30,12 +30,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VIII]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "thermopolia" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "lecti" >}}
 - {{< keyword "lararia" >}}
 
 ## Garden Description
+
 Customers at this thermopolium were served at a counter looking onto the street and at the masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) (l. medius, 3.60 m.; l. imus 2.85; l. summus 2.30 m.) in the rear garden. This was located against the north wall to the front of this long, narrow garden and had a round table (0.50 m. in dia.) between the couches and a rectangular table (0.65 x 0.89 m.) at the end of the *lectus summus*. A niche [lararium](http://vocab.getty.edu/page/aat/300400600) was next to it with a tufa altar below decorated with a large carved club. A bench for cooking ([hearth](http://vocab.getty.edu/page/aat/300003990)) was built against the south wall at the west end with two arched openings for fuel storage underneath.
 
 <!--## Plans

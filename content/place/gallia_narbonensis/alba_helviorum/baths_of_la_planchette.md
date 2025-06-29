@@ -38,6 +38,7 @@ Baths of La Planchette
 
 
 ## Keywords
+
 - {{< keyword "balnea" >}}
 - {{< keyword "gutters" >}}
 - apsed pools

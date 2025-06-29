@@ -37,6 +37,7 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 Small Baths (Garden of the Small Baths to the south of the Great Baths; rear garden to the west of the House of Bacchus)
 
 ## Keywords
+
 - {{< keyword "mosaics" >}}
 - {{< keyword "piscinae" >}}
 - {{< keyword "pergolas" >}}

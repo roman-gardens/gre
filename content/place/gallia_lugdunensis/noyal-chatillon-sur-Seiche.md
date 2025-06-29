@@ -20,6 +20,7 @@ draft: true
 Villa de Châtillon-sur-Seiche
 
 ## Keywords
+
 - {{< keyword "barns" >}}
 - {{< keyword "courtyards" >}}
 - {{< keyword "trenches" >}}

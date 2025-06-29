@@ -37,10 +37,12 @@ V
 Casa del bel Cortile
 
 ## Keywords
+
 None
 
 
 ## Garden Description
+
 Appendix II. 110.V.8.
 The illusion of a gardentrellis was created in this house withno garden by painting the archway under a flight of stairs in the courtyard with climbing vines and flowering oleanders
 <!--## Maps-->

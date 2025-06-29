@@ -30,9 +30,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VI]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "porticoes" >}}
 
 ## Garden Description
+
 At the time of the eruption this site (a) was under construction. A portico was being built on the south and west sides using brick-shaped tufa columns and three old tufa columns. The columns on the south were salvaged from an earlier building. This was a large area, the intended use not clear. It may have been a garden previously.
 
 ## Plans

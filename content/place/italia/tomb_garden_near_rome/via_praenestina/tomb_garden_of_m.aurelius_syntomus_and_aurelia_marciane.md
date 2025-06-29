@@ -29,6 +29,7 @@ Tomb Garden of M. Aurelius Syntomus and Aurelia Marciane
 - {{< keyword "tombs" >}}
 
 ## Garden Description
+
 A marble slab found in 1745 near a circular tomb monument beside the Via Praenestina at the first mile from the Porta Maggiore records "a building with tomb garden (cepotaphium) and monument (memoria)" built up from the ground by M. Aurelius Syntomus and his wife Aurelia Marciane for themselves, their son and daughter, and their freedmen and descendants, probably some time in the late second or third century.
 
 ## Maps

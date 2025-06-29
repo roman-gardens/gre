@@ -31,10 +31,12 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ## Keywords
+
 - {{< keyword "vegetable gardens" >}}
 
 
 ## Garden Description
+
 Jashemski examined this sizeable garden to the rear of this property in 1957 and concluded that the pronounced north-south furrows bordered by water channels indicated that this was most likely a [vegetable garden](http://vocab.getty.edu/page/aat/300008142). An oven against the south wall of the entrance room, and a bowl in the garden, suggest this was a [caupona](http://vocab.getty.edu/page/aat/300005208). The oven sat in an arch below a set of stairs which lead from the garden to an upper floor.
 
 <!--## Plans

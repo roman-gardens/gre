@@ -15,6 +15,7 @@ draft: false
 5th-2nd century BCE
 
 ## Garden Description
+
 The inscriptions of the sanctuary of Apollo mention nearly 30 *kepoi* within the period of 433 B.C. to 156/155 B.C., which were either private or belonged to Apollo and were rented or leased. Most of these cannot be localized because they were named after their former owners and with topographical references or surnames unknown today. However, in the years between 167 and 155 B.C., three *kepoi* were situated near identified buildings: the sanctuary of Leto, the Hippodrome, and the Neorion. A fourth was located near the palaestra, the identification of which among the several palaestra-buildings in Delos is contested. The first three *kepoi* were located east of the sanctuary of Apollo in a zone which was regarded as specifically humid and fertile because the Inopos, the main watercourse of Delos, was believed to have passed here before emptying into the Bay of Skardhana to the north. However, it has been shown that the Inopos ended south of the sanctuary of Apollo and could therefore never have irrigated the potential garden zone east of Apollo’s sacred precinct.
 
 The *kepoi* were certainly always located outside the residential quarters and were used as kitchen or commercial gardens. They were identified as terrain for the cultivation of plants that needed irrigation, such as vines, olives, and figs. This terrain had to be enclosed by walls or fences to keep animals out. In contrast to the *kepoi*, the *choria* equally mentioned in the inscriptions of the sanctuary of Apollo served for the growing of cereals and stock farming. According to this definition, *kepoi* could have been laid out either next to farmhouses serving as kitchen gardens or on some of the many cultural terraces which extended far beyond the center of the city to the south, north, and east of the residential zones (Fig. 1). The necessary water supply was provided by wells, reservoirs, and large pools, some of which have been discovered on these terraces. The water was either distributed by hand or through a system of irrigation channels, starting from one of the reservoirs or large pools.
@@ -46,6 +47,7 @@ The variety of trees and plants cultivated in ancient Delos is known from the ep
 - C. Prêtre, ed., *Nouveau choix d'inscriptions de Délos. Lois, comptes et inventaires.* Études épigrapiques 4, 2002. [(worldcat)](https://search.worldcat.org/title/470363782).
 
 ## Keywords
+
 - {{< keyword "inscriptions" >}}
 - {{< keyword "market gardens" >}}
 

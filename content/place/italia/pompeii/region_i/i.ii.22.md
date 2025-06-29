@@ -29,6 +29,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "#">}})
 
 ## Keywords
+
 - {{< keyword "amphorae" >}}
 - {{< keyword "cauponae" >}}
 - {{< keyword "pillars" >}}
@@ -38,6 +39,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Garden serving a [caupona](http://vocab.getty.edu/page/aat/300005208).
 
 ## Garden Description
+
 This [caupona](http://vocab.getty.edu/page/aat/300005208) was excavated in 1873 but the reports offer insufficient details to determine if the open area had been planted. The room was entered directly from the street and the open area, had a [portico](http://vocab.getty.edu/page/aat/300004145) on the north and east supported by one [pillar](http://vocab.getty.edu/page/aat/300264605). Fifteen [amphorae](http://vocab.getty.edu/page/aat/300148696) with inscriptions were uncovered here.
 
 ## Bibliography

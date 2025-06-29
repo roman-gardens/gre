@@ -31,6 +31,7 @@ The trade of agricultural products and craftsmanship made Althiburos a prosperou
 House of the Muses (Maison des Muses)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "semicircular basin" >}}
@@ -43,6 +44,7 @@ House of the Muses (Maison des Muses)
 
 
 ## Garden Description
+
 The house, noteworthy for its many and varied mosaic floors, is located on the right side of Oum El Abid river in a residential neighborhood. This vast *domus* is laid out around a peristyle onto which the rooms open. The courtyard (6.50 x 6.50 m) may have been planted (Plan view, Fig. 1).  A long basin(*euripus*; 4.15 x 1.85; D. 0,72m.) was placed on the axis of the *triclinium* (G). Each end of the basin is curved to form a semi-circular pool.
 
 The *triclinium* was bordered on two sides by two apartments that each had rooms and a corridor. The rooms to the north of the *triclinium* have an additional non-paved courtyard (L) enclosed by a colonnade closed by a balustrade. This lightwell may have been a small garden.

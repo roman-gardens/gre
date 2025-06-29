@@ -30,10 +30,12 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "masonry" >}}
 - {{< keyword "aedicules" >}}
 
 ## Garden Description
+
 This small house had a roofed passageway supported by one column that bordered the garden (a) on the south and east. A low masonry wall enclosed the garden on these same sides and the north wall had a small arched niche with an aedicula façade.
 
 ## Plans

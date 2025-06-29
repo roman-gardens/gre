@@ -22,7 +22,7 @@ Rural Villa in Ferpicloz
 
 ## Keywords
 
-archaeological garden \
+<!-- archaeological garden -->
 
 - {{< keyword "porticoes" >}}
 - {{< keyword "villae rusticae" >}}

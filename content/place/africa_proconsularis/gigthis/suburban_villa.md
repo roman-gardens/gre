@@ -29,6 +29,7 @@ The important site Gigthis (50ha) largely excavated in the beginning of the last
 Suburban Villa
 
 ## Keywords
+
 - {{< keyword "villae suburbanae" >}}
 - {{< keyword "inscriptions" >}}
 - {{< keyword "courtyards" >}}
@@ -36,6 +37,7 @@ Suburban Villa
 <!-- {{< keyword "villae urbanae" >}} -->
 
 ## Garden Description
+
 On the other side of the fortified enceinte, one hundred and fifty kilometers south was a large building that belonged to an architect according to an inscription found near the peristyle.
 
 This huge suburban villa incompletely excavated, was laid out around two peristyles (Plan view, Fig. 1).

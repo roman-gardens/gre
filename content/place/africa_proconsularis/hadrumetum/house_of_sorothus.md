@@ -31,6 +31,7 @@ Hadrumetum is located on the bay of Hammamet at the edge of the fertile region o
 House of  Sorothus (Maison de Sorothus)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "semicircular basin" >}}
@@ -39,6 +40,7 @@ House of  Sorothus (Maison de Sorothus)
 <!-- {{< keyword "villae urbanae" >}} -->
 
 ## Garden Description
+
 This very damaged house was laid out around a peristyle garden. A semi-circular and bisected basin was placed on the axis of the reception room (Plan view, Fig. 1). The small wall that enclosed the garden was painted with flowers.
 
 

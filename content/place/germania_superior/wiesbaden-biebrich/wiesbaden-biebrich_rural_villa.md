@@ -25,7 +25,7 @@ Rural Villa in Wiesbaden-Biebrich
 
 ## Keywords
 
-archaeological garden \
+<!-- archaeological garden -->
 
 - {{< keyword "kitchen gardens" >}}
 - {{< keyword "villae rusticae" >}}

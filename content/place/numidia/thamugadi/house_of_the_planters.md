@@ -35,6 +35,7 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 House of the Planters (Maison aux jardinières)
 
 ## Keywords
+
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "domus" >}}
 - {{< keyword "water wells" >}}

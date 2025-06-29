@@ -31,6 +31,7 @@ Tomb Garden of C. Nonius Minyas
 
 
 ## Garden Description
+
 An epitaph the late first or second century found near the intersection of the Via Ardeatina and the ancient road corresponding to the modern Via delle Sette Chiese identifies an estate or farm of Merops or Merope (horti or fundus Meropianus), perhaps the imperial freedman Ti. Claudius Merops, who served as procurator for the regions of Rome some time in the Julio-Claudian era (CIL 6.4018), and near it a large walled funerary garden (280 Roman feet wide and 360 feet deep, about two acres in area) with service building built by C. Nonius Minyas, who provided access to it through the larger entry gate to the fundus Meropianus. Among funerary gardens of known dimensions in Italy, Minyas’s ranks in the top quartile (see vol. 1 "Tomb Gardens" fig. 8).
 
 

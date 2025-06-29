@@ -30,10 +30,12 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VI]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "insulae" >}}
 - {{< keyword "aedicules" >}}
 
 ## Garden Description
+
 After the earthquake the eastern part of this insula had been converted into a market garden. When it was excavated in 1883-1884 some of the soil contours remained. A basin in the northwest corner collected water that was diverted from the street. Gardening tools were found in this garden and the remnants of the earlier structure that stood here, an animal painting on the south wall and a simple aedicula shrine in the southwest corner, indicated that this had been a home.
 
 ## Plans

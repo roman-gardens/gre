@@ -35,6 +35,7 @@ The city occupies the slopes of a hill in a fertile grain producing area about 5
 House of the Protomes (Maison des Protomés)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "mosaics" >}}

@@ -35,6 +35,7 @@ While the general settlement of Jebel Khalid appears to have been systematically
 Acropolis Palace at Jebel Khalid
 
 ## Keywords
+
 - {{< keyword "cisterns" >}}
 - {{< keyword "colonnades" >}}
 - {{< keyword "courtyards" >}}
@@ -43,6 +44,7 @@ Acropolis Palace at Jebel Khalid
 - {{< keyword "trenches" >}}
 
 ## Garden Description
+
 It is apparent that there was once a large limestone outcrop within the Acropolis at the highest point of the Jebel range, providing panoramic views of the Euphrates valley (figs. 3 and 4: overall plan of the site and ground plan of Acropolis palace). This outcrop was quarried to a rough level terrace, leaving a rocky bluff (and evident quarry face) on the western side, against which a stout retaining wall was built, also serving as the exterior western wall of the building.  Nowhere, even in foundation trenches, is there any trace of previous occupation. This building was laid out on a virgin site, or the initial quarrying operations totally cleared away any vestige of any earlier habitation. The coin and stamped amphora handle evidence confirms a third-century BCE construction date.
 
 The building was planned around a square central courtyard, 'room 26' (measurements from central point of column bases are N.17100mm, S.17100mm, E.17800mm, W.17840mm; measurements from the corners of 'room 26' are N.25.3m, S.25.1m, E.26.2m, W.26.0m). The bedrock floor of this courtyard was evidently quarried to drain towards a large cistern in the southeast corner, conveniently located close to a major entertainment room (room 20) with two store-rooms and kitchens (rooms 19 and 21) to either side of it. This cistern is bell-shaped and subsequent excavation has revealed that it was lined with an impermeable plaster; it has a roughly circular mouth, 1.5 meter wide, a depth of 6.6 m, and maximum width of 6.7 m. No well-head was found. While it can be assumed that water from the roofs of the surrounding courtyard rooms was collected, no evidence was found for a drainage system into this cistern, although a settling pond and sluice arrangement has been uncovered by excavation. Indeed, there could have been large pithoi or barrels to collect water from lion-headed waterspouts overhead (fig. 5: example of lion-headed water-spout).

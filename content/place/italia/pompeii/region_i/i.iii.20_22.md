@@ -29,6 +29,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref "#">}})
 
 ## Keywords
+
 - {{< keyword "dolia" >}}
 - {{< keyword "gutters" >}}
 - {{< keyword "peristyles" >}}
@@ -38,6 +39,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Garden to the rear of a domestic property and joined to a *thermopolium*.
 
 ## Garden Description
+
 At the rear of this house there was a garden with a passageway on the north and the west. The garden had a [gutter](http://vocab.getty.edu/page/aat/300052565) along the east, north, and west edges. Embedded in the garden were four large [dolia](http://vocab.getty.edu/page/aat/300400601). A large [triclinium](http://vocab.getty.edu/page/aat/300004359) on the east side had a window that looked out into the garden. Fiorelli surmised that the remains of one couch of a masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) in the west passageway indicated the possible presence of a room that had been destroyed by the earthquake. There was also a small altar on the right side of the [peristyle](http://vocab.getty.edu/page/aat/300080971) and a terracotta puteal in the passageway.
 
 ## Bibliography

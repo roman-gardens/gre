@@ -31,10 +31,12 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 Garden (a)
 
 ## Keywords
+
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 
 ## Garden Description
+
 Directly south of the Great Palaestra there is a peristyle garden (a) enclosed by a portico. A pool with a low wall surrounding it is located in the center of this garden.
 
 ## Plans
@@ -50,4 +52,5 @@ Directly south of the Great Palaestra there is a peristyle garden (a) enclosed b
 Unspecified
 
 ## Bibliography
+
 Not applicable

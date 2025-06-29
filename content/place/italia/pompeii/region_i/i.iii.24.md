@@ -29,6 +29,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref "#">}})
 
 ## Keywords
+
 - {{< keyword "lararia" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
@@ -38,6 +39,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the rear of a domestic property.
 
 ## Garden Description
+
 At the rear of the house, excavated in 1868, there was a [peristyle](http://vocab.getty.edu/page/aat/300080971) garden with a [portico](http://vocab.getty.edu/page/aat/300004145) supported by three brick columns on the east and north sides. The south wall had a [lararium](http://vocab.getty.edu/page/aat/300400600) painting and a crude animal painting on one corner of the south garden wall. This had been executed in the manner of a topiary painting according to the excavators, who reported a lion consuming a deer, below which there was a dog pouncing on a hare. A good view of the garden was obtained through the [triclinium](http://vocab.getty.edu/page/aat/300004359) on the north.
 
 ## Bibliography

@@ -34,9 +34,11 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 C
 
 ## Keywords
+
 - {{< keyword "peristyles" >}}
 
 ## Garden Description
+
 C. There are five rooms south of the peristyle and on a lower level beyond them is another garden (c).
 
 ## Plans

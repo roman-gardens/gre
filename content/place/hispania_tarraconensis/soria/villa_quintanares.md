@@ -27,10 +27,12 @@ This villa is about 600 meters southwest of the town Rioseco di Soria on the rig
 Villa los Quintanares
 
 ## Keywords
+
 - {{< keyword "peristyles" >}}
 - {{< keyword "mosaics" >}}
 
 ## Garden Description
+
 Built in the second half of the 2nd century CE, it was destroyed during the invasions of the Franks after 256.  Following the recovery of the Empire under Claudius II and Aurelian (268 -275), it was rebuilt and enlarged, surviving into the 5th century. Water was brought to the villa  by a conduit from 1.5 km further up the Sequillo.
 The villa is built around two peristyles of similar size. The surrounding rooms featured more than 30 mosaics.  The western peristyle (11 x 11 m) was built first, with porticoes on all four sides of its central garden, and, a double gallery on the north side against the summer sun.  The later, eastern half had a slightly larger peristyle (12.5 x 21 m),  with galleries on three sides of its garden. A large hall extended directly off the fourth side.  The peristyle was richly adorned with sculptures, mosaics, and mural paintings.
 

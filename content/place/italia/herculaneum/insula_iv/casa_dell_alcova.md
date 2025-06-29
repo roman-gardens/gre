@@ -38,11 +38,13 @@ Casa dell’Alcova
 
 
 ## Keywords
+
 - {{< keyword "atriums" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "procoeton" >}}
 
 ## Garden Description
+
 542.IV.3-4.
 A. Two separate dwellings were united to form this house, excavated in 1928-1929. The northern house has three courtyards. The first (a) is directly off of the vestibule, the second is a covered *atrium*(b) with a small courtyard that collected roof water, and the third courtyard (c) in the rear supplied light and air to the adjoining rooms and the *triclinium*. This was too badly damaged to ascertain if it was a garden or even if it once held potted plants. It was compared to the better preserved courtyard in the Casa a Graticcio by Maiuri.
 

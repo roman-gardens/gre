@@ -19,6 +19,7 @@ draft: true
 Richebourg (Yvelines) villa de
 
 ## Keywords
+
 - {{< keyword "porticoes" >}}
 - {{< keyword "trellises" >}}
 - {{< keyword "stylobates" >}}
@@ -29,6 +30,7 @@ Richebourg (Yvelines) villa de
 - {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
+
 Though the site has an area of 12 or 13 hectares, only one hectare has been excavated, the residential and agricultural part. Two groups of buildings frame a large garden on a slightly trapezoidal, walled area. To the north was the residence; to the south, the utility buildings, including a silo; while to the east, within its own walls, was the farmyard also with several buildings.  
 
 The *pars urbana* at the north end opened towards the south on a large space [1] developed as a garden. The southern façade was a *portico* stretching between rooms extending forward  from either end of the main house. Along this façade [2], excavations have shown a band of gravel on a masonry base bordered by posts. Perhaps these posts supported a *trellis* along this façade. Against the *stylobate* of the *portico*, several bases of *amphorae* were discovered, doubtless as pots for plants that perhaps climbed on the *trellis.* A fragment of a white marble disk could be, according to Y. Barat, the only remains of an oscillum that once hung in the gallery.     

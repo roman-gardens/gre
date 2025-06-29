@@ -29,6 +29,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula V]({{<relref "#">}})
 
 ## Keywords
+
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "lararia" >}}
 - {{< keyword "peristyles" >}}

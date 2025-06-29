@@ -29,12 +29,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula II]({{<relref "#">}})
 
 ## Keywords
+
 - {{< keyword "impluvia" >}}
 
 ## Garden
 Small house with a planting bed around an indoor [impluvium](http://vocab.getty.edu/page/aat/300129867).
 
 ## Garden Description
+
 This humble house was excavated in 1873. It had no garden but the [impluvium](http://vocab.getty.edu/page/aat/300129867) was surrounded by a low masonry wall. The top contained a planting bed which served as a small garden.
 
 

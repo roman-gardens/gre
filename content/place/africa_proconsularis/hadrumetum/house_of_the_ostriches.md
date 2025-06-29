@@ -31,12 +31,14 @@ Hadrumetum is located on the bay of Hammamet at the edge of the fertile region o
 House of the Ostriches (Maison des Autruches)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "niches" >}}
 <!-- {{< keyword "villae urbanae" >}} -->
 
 ## Garden Description
+
 In this incomplete house, the peristyle-garden was bounded by a low wall that curved to make six semi-circular niches facing the galleries of the peristyle (Plan view, Fig. 1). The two niches located on the East-West axis of the *triclinium* are wider with the one facing the *triclinium* containing a basin with a marine mosaic. The house is dated to the II c.
 
 
@@ -44,6 +46,7 @@ In this incomplete house, the peristyle-garden was bounded by a low wall that cu
 
 
 ## Plans
+
 Fig. 1: Plan of the House of the Ostriches <!--(VER is sending image)-->
 
 <!--{{< image src="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->

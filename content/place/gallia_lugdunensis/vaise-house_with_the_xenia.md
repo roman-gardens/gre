@@ -19,6 +19,7 @@ draft: true
 House with Pilasters (Clos du Verbe Incarné)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "courtyards" >}}

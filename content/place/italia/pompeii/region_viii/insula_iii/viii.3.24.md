@@ -30,11 +30,13 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "porticoes" >}}
 - {{< keyword "puteals" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
+
 A. The earthquake destroyed an elegant house on this site and this house was subsequently rebuilt on the ruins. A long fauces terminated in the garden (a) which was bounded on the north and part of the east and west sides by a portico. A low wall connected the supporting columns with an entrance on the west and east and two puteals integrated into the wall. The original excavation plan shows a water channel bordering the garden on the west, north and east sides.
 B. Backed up to the ancient caupona there was a second garden (b) next to the triclinium (c).
 

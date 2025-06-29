@@ -44,12 +44,14 @@ House 3
 V.iv.3
 
 ## Keywords
+
 - {{< keyword "porticoes" >}}
 - {{< keyword "gutters" >}}
 - {{< keyword "basins" >}}
 
 
 ## Garden Description
+
 At the rear of this house excavated in 1899 was a courtyard garden (a) with a *portico* on the south. This was supported by one column that was reinforced by a large pillar. The garden was enclosed by a low wall with an opening on the south. A gutter that encircled the edges had a settling basin (0.35 x 0.45 m.; 0.55 m. deep) in the southwest corner. There was no cistern, but a *puteal* stood in the southeast corner.
 
 ## Plans

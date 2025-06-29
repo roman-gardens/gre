@@ -40,6 +40,7 @@ Royal Garden
 - {{< keyword "walled gardens" >}}
 
 ## Garden Description
+
 Byzantine Law Court and Roof Garden
 
 Architectural analysis and epigraphic finds excavated by Josef Patrich and the Combined Caesarea Excavations suggest that the buildings in the area immediately south of the harbor (Area CC) formed a governmental compound of Roman - Byzantine Caesarea, comprising a Revenue Office (skrinion), a Law Court and adjacent to them an archive or library for judicial and financial records and books. Earlier archaeologists (JECM) had identified this complex as an honorific U-shaped building; however, it is clearly the inverse.  Constructed about 200 CE, the Law Court was a vast hall (13 x 18 m.), built on top of four vaults facing west(Fig.1). In the first phase (fig 3), the hall faced west to the sea and was surrounded on three sides (N, E and S) by a reflection pool. To its east a square fountain was constructed.

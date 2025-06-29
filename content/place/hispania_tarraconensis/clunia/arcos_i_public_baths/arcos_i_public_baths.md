@@ -68,11 +68,13 @@ Arcos I Public Baths
 
 
 ## Keywords
+
 - {{< keyword "natationes" >}}
 - {{< keyword "caldaria" >}}
 
 
 ## Garden Description
+
 These baths are remarkable for their size (55 x 95 m), symmetry, and inclusion of a large garden. At the back of the grand semicircular entrance hall opened the garden, formerly thought to have been a *natatio*.  On either side then followed a palestra (Fig. 1, P), an apodyterium or changing room (A), a frigidarium (F), and a tepidarium (T). Only the *caldarium* (C) was shared between the sexes.  The semicircular wall at the northeastern end of the garden area goes quite deep into the ground and was presumably part of a swimming pool.  As late as 1994, de Palol thought that most of the central court had been a pool, but subsequent thorough investigation could not find evidence for it except near that wall.  The oldest elements go back to Tiberian times as attested by ceramics near the base of the semicircular wall, constituting the oldest finds in Clunia.  Two further datable extensions  occurred in Flavian and Antonine times.
 
 

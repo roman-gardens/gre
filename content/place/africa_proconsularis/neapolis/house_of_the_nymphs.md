@@ -32,6 +32,7 @@ The city of Neapolis that bears a Greek name meaning the "new city," is located 
 House of the Nymphs (Maison des Nymphes)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "mosaics" >}}

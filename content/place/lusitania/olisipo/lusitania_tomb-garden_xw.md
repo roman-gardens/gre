@@ -29,9 +29,11 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 Tomb Garden of Flavius M. f. Quadratus
 
 ## Keywords
+
 - {{< keyword "tombs" >}}
 
 ## Garden Description
+
 An inscription found immured in the corner of a house near Lisbon around 1735 records the epitaph of a standard bearer (aquilifer) of the second legion, [.] Flavius M. f. Quadratus, of the Galeria tribe, who made for himself a tomb monument with, it seems, a ‘circumvallation’ and a pavilion (cum munitioni[bus], tric[le]a[e]). Although no tomb garden is mentioned explicitly, the reference to a pavilion points to the presence of one; by ‘circumvallation’ (munitiones) Quadratus evidently means the perimeter wall that regularly enclosed tomb gardens.  
 
 ## Maps

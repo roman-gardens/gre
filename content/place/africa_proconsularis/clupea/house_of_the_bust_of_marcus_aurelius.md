@@ -29,6 +29,7 @@ The city was built along the slope of the hill several kilometers northwest of t
 House of the Bust of Marcus Aurelius (Maison du Buste de Marc Aurèle)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "aedicules" >}}
@@ -39,6 +40,7 @@ House of the Bust of Marcus Aurelius (Maison du Buste de Marc Aurèle)
 <!-- {{< keyword "villae urbanae" >}} -->
 
 ## Garden Description
+
 This *domus* (ca. 1000 m²) has a large central garden of irregular shape (250 m²) enclosed by a peristyle (20.20 x 21.40 m, 432.30 m²) (Plan view, Fig. 1).  The northwest wing seems the most important area of the house.  It had a large corridor XVII that opened onto a portico XVIII with a view toward the garden.  In the garden, along the axis of the main reception room II, a semi-circular *aedicula* XXIV was installed on a cistern XXVI where fragments of *Marcus Aurelius* bust were found that was probably installed on a stuccoed statue base XXV.  On the south side of the garden on the edge of the gallery XXI was a semi-circular pool XXVIII.
 
 The wing that is perpendicular to the northwest one was comprised of a series of rooms built against the hill.  All rooms were paved with mosaics and belonged to a latter phase.  Rooms located on the higher level beyond this wing had a large panoramic view of the sea.

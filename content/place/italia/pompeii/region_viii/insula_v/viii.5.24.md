@@ -30,10 +30,12 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula V]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "porticoes" >}}
 - {{< keyword "atriums" >}}
 
 ## Garden Description
+
 The famous painting "Judgment of Solomon" (0.45 x 1.55m.; Mus. Naz. inv. no. 113 197; Ruesch no. 1343) was found in this garden (a) on the low wall that connected the four columns and one pillar of the portico. This small garden was located to the right of the atrium and the enclosing portico stood on the east, north and west as well as a gutter. There were other paintings on the wall and two large neck-less amphoras filled with lime and crushed lava for making mortar were found inside the garden.
 
 ## Plans

@@ -31,6 +31,7 @@ The trade of agricultural products and craftsmanship made Althiburos a prosperou
 House of the Fishing Scene (Maison de la scène de pêche)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "euripus" >}}
@@ -40,6 +41,7 @@ House of the Fishing Scene (Maison de la scène de pêche)
 
 
 ## Garden Description
+
 The house stands on the other side of the Wadi Oum El Abid, on the left bank, 120 meters to the north of the capitol. The badly damaged rooms are arranged around a peristyle whose porticoes are paved with mosaics (Plan view, Fig.1). A long basin (*euripus*) the garden that was enclosed by a balustrade running in between the columns. One of the rooms to the north of the peristyle has two symmetrical apses at each end and is paved with a famous mosaic representing a fishing scene with the head of Oceanus depicted at either end. Severian period (IIIrd c.).
 
 

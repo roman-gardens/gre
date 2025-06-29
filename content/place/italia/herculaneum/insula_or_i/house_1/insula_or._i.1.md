@@ -36,11 +36,13 @@ B
 
 
 ## Keywords
+
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "loggias" >}}
 
 
 ## Garden Description
+
 B. The front of this house has an L-shaped terrace (b) which provided a passageway between the kitchen and the triclinium that opened onto the long loggia (c) with a spectacular view of the Bay. The terrace could have been decorated with potted plants. A gutter on the edges of the terrace, excepting the southeast corner, collected rain water.
 
 

@@ -38,6 +38,7 @@ House under the Pasteur parking lot
 
 
 ## Keywords
+
 - {{< keyword "courtyards" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "mosaics" >}}

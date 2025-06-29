@@ -42,6 +42,7 @@ Royal Garden
 - {{< keyword "walled gardens" >}}
 
 ## Garden Description
+
 Palace Fortress
 
 The Palace Fortress is a cylindrical structure originally seven stories high (two vaulted corridors in the substructure and five stories of corridors each having its floors supported on wooden beams). In the open interior of the cylinder, palace quarters were designed with luxuriously appointed rooms facing onto a 41x18m courtyard (Fig 1A).  These included a triclinium/reception hall, baths, and living quarters. This peristyle featured colonnaded corridors on three of its sides, the two shorter of which were decorated by exedra.  The interior focal point for these rooms was a garden, which has been excavated to approximately its original surface.  The soil of the garden is clearly amended with fertilizer and suitable for cultivation using water from the cisterns beneath the palace.

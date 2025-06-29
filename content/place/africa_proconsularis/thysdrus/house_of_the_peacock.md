@@ -35,6 +35,7 @@ Among the most remarkable monuments of the ancient city are the best preserved l
 House of the Peacock (Maison du Paon)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "oeci" >}}

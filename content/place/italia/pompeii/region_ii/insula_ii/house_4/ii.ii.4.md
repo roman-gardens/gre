@@ -36,6 +36,7 @@ Narrow garden in the house of Messius Ampliatus.
 - {{< keyword "porticoes" >}}
 
 ## Garden Description
+
 A. The [portico](http://vocab.getty.edu/page/aat/300004145) which bordered the [peristyle](http://vocab.getty.edu/page/aat/300080971) garden on the north and east side was accessed from the entrance hall. This site had been extensively damaged prior to excavation.
 
 B. The east [portico](http://vocab.getty.edu/page/aat/300004145) gave access to the narrow garden to the back of the house.

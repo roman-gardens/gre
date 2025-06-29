@@ -29,6 +29,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula IV]({{<relref "#">}})
 
 ## Keywords
+
 - {{< keyword "lararia" >}}
 - {{< keyword "cauponae" >}}
 - {{< keyword "latrines" >}}
@@ -38,6 +39,7 @@ Garden at the rear of the [Caupona](http://vocab.getty.edu/page/aat/300005208) o
 
 
 ## Garden Description
+
 This modest [caupona](http://vocab.getty.edu/page/aat/300005208) had a garden at the rear that was raised one step higher than the rest of the building. It once had a masonry altar with a [lararium](http://vocab.getty.edu/page/aat/300400600) painting above but both of these have been lost. A [latrine](http://vocab.getty.edu/page/aat/300007951) was located at the southeast corner of the garden.
 
 ## Bibliography

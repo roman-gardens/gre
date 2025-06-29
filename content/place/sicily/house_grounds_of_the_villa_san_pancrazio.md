@@ -56,6 +56,7 @@ In private housing at this site on the east coast no excavation has so far been 
 
 
 ## Bibliography
+
 G. M. Bacci, Attivita della soprintendenza: Taormina, Kokalos 39–40 (1993–94): 945–7. [(worldcat)](https://search.worldcat.org/title/186378054)
 
 Pool types: L. Farrar, Ancient Roman Gardens, Stroud, 1998, pp. 71–84.[(worldcat)](https://search.worldcat.org/title/1169942407)

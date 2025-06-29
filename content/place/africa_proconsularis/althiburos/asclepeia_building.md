@@ -43,6 +43,7 @@ Asclepieia Building (Edifice des Asclepieia)
 - {{< keyword "euripus" >}}
 
 ## Garden Description
+
 The Asklepeia monument, so-called from a mosaic inscription, is located to the northeast of the House of the Muses. (Plan view, Fig. 1)
 
 This building is divided into three sections: the central building, the northeast sector and the private baths. The central building, probably a house, presents an architectural arrangement unusual in Africa. Strictly symmetrical in plan, the monument has a long gallery terminating at either end in two corner turrets. The facade has several windows on either side of an impressive entrance. This corridor opens onto a large square room flanked on either side by a square-shaped basin with a passageway running around it. This great vestibule views onto a peristyle garden (20.33x17.5m) equipped with a complete hydraulic system in the garden (167m2). Two large symmetrical oeci, along with their adjoining apartments, frame both sides of this peristyle.

@@ -30,6 +30,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "aedicules" >}}
 - {{< keyword "atriums" >}}
 - {{< keyword "podiums (building divisions)" >}}
@@ -39,6 +40,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "candelabrum (motifs)" >}}
 
 ## Garden Description
+
 A large aedicula shrine was built against the rear wall of this long garden (a) directly across from the north side of the atrium, which was entirely open to this view. The shrine stood on a podium 2.00 x 2.15 m.; 0.80 m. high with four steps in front and a marble herm on either side. Two little brick columns supported a roof over a marble statuette of Diana with a marble thymiaterion before it. A broken marble candelabrum was found at the foot of the steps when this site was excavated in 1839. Jashemski reports that the head and right arm of the statuette were found first and later the rest of the statuette was uncovered in good condition, however, she was unable to find any record of the statuette in the Museo Nazionale and speculated that the Princess of Saxony, who was present at the excavation, may have been given possession of the statuette. Another aedicula shrine with an altar was located in the northwest corner of the garden.
 
 ## Plans

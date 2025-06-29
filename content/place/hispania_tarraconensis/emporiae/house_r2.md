@@ -81,11 +81,13 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 House R2 (Tang AmpR2 and AmpR3)   
 
 ## Keywords
+
 - {{< keyword "atriums" >}}
 - {{< keyword "porticoes" >}}
 
 
 ## Garden Description
+
 House R2, situated south of House R1 in the area of the forum of the Roman City (Fig. 1), is of totally different design and is smaller, but equally luxurious.   In describing the phases of its construction, we follow Tang's account (page 126). (Fig. 2)  In its first phase, from the first quarter of the 1st century BC, the area of House R2 was occupied by two separate, similar houses, designated R2A on the south and R2B on the north.  Each had a single, central atrium, which opened onto the cardo along the west side. Behind each house, a hortus extended back and was bounded by an intervallum of the city wall. In the second phase, in the second third of the 1st century BC, house R2A expanded, absorbing its own hortus and that of its neighbor, and taking out part of the city wall and extending beyond it to the east.  It also acquired the southeastern corner (room [15]) of its neighbor.  The old hortus of R2A was replaced by a large garden of 400 square meters enclosed by a peristyle; and a suite of rooms, opening onto the garden, was added. on the east on land formerly outside the city wall. Moreover, a row of rooms [42 – 49] was built behind them and opening to the east. The area beyond them may have been a garden.  In the the first century AD, in a third phase, the former hortus of House R2B was converted into a peristyle garden [35a]  with porticoes on the east, south and west sides.  Along the north side were three, precisely symmetric rooms. The south wall of the central one extended in an arc into the garden.  This part of the wall probably had windows opening into the garden.  Along the west side of the new peristyle garden a bath complex [30 – 32] was added.  A fourth phase at the end of the 1st or beginning of the 2nd second century AD saw a reworking of the eastern side of the house, with a huge room [46] with a triple entrance from the wide portico which now ran along the east side.  A large garden extended on to the east a distance not yet determined.   The L-shaped portico next to the garden indicated an interest in protecting the garden from the north wind.  A small altar with paintings of a serpent and cock was found in the house, possibly in the garden peristyle.
 
 

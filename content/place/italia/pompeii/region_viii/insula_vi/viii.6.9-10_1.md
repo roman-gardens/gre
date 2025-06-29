@@ -30,12 +30,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VI]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "atriums" >}}
 - {{< keyword "insulae" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "opus signinum" >}}
 
 ## Garden Description
+
 The atrium at the front of this house had been converted into a bakery. Towards the back a portico surrounded a small area (a). The portico columns were black at the base and red above, three on the north and three on the south and were connected by a low wall 0.47 m. high, but only the bases survived. The interior area was paved with opus signinum and in the middle there was a rectangle lined with white and gray marble, a yellow marble cross with a red bordered yellow square in the center. This has sustained much damage since it was exposed. At the outside of the paved area there was a gutter with a cistern opening located between the columns on the west side. This area may have contained potted plants. The portico could be entered directly from entrance no. 9 and various rooms opened off of it, the room on the east (b) had the best view into the portico.
 
 ## Plans

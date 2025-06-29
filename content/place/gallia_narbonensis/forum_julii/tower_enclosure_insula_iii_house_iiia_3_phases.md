@@ -38,6 +38,7 @@ Tower Enclosure, Insula III, House IIIA – 3 phases
 
 
 ## Keywords
+
 - {{< keyword "porticoes" >}}
 - {{< keyword "reception rooms" >}}
 - {{< keyword "domus" >}}

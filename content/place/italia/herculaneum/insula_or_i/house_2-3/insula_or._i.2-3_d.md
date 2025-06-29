@@ -34,11 +34,13 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 D
 
 ## Keywords
+
 - {{< keyword "rustic" >}}
 - {{< keyword "shrines" >}}
 
 
 ## Garden Description
+
 D. A rustic shrine was attached to the north side of the house and a long narrow garden (d) was located here. There was evidence of earlier construction at this location.
 
 ## Plans

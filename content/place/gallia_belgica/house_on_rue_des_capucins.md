@@ -32,6 +32,7 @@ Durocortorum was mentioned by Caesar as the center of the Remi, a Celtic tribe t
 House with Garden, rue des Capucins
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "atriums" >}}
 

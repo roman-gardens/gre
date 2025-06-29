@@ -30,6 +30,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula VII]({{<relref ".">}})
 
 ## Garden Description
+
 The rear of this shop-house had a garden (a), perhaps with rooms overhead supported by columns in the garden according to Fiorelli.
 
 ## Plans

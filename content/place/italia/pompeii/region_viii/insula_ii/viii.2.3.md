@@ -32,11 +32,13 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ## Keywords
+
 - {{< keyword "peristyles" >}}
 - {{< keyword "sacraria" >}}
 
 
 ## Garden Description
+
 This house, very similar to VII.ii.1, was also excavated in 1799. This peristyle garden had fourteen columns and was more rectangular. There was a terrace to the rear and a small room off the northwest corner of the peristyle which Mazois and Fiorello have labeled a sacrarium.
 
 ## Plans

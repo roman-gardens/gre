@@ -39,12 +39,14 @@ Thermea
 Great Palestra
 
 ## Keywords
+
 - {{< keyword "shrines" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "trellises" >}}
 
 
 ## Garden Description
+
 The Palaestra was crossed by Burbon tunnels in 1756-1760 and partially excavated from 1933 to 1954. Carbonized remains of large tree trunks found in the southwest corner and along the north side against the portico where they were swept by the volcanic flow indicated to Maiuri that the central area had been planted with trees similar to the central area of the Great Palestra at Pompeii. The soil was compacted, as typical of athletic fields, and no evidence of paths or beds have yet been found. A large cruciform pool occupied the center of the area. The north-south arm is 55.00 m. long, the east-west arm is 31.50 m. long, each arm is 5.80 wide and the depth is 1.00-1.10 m. at the center. A masonry base 0.95 m. square and 1.14 m. high stood at the center of the intersection and presumably held the monumental bronze fountain sculpture found in 1952 at the bottom of the pool. The statue is a five-headed serpent 2.45 m. high coiled around a tree with water jetting from the mouth of each head. On the west end of the pool there is a pilaster with a smaller jet. Two meters from the front of the enclosed portico on the north side there is a rectangular pool 3.00 x 30.00 m.; 2.35 m. deep which was proportioned the same as a swimming pool, but had been abandoned before the eruption. Close to the bottom of the pool thirty five amphoras were installed in the walls, with openings ranging from 20 to 30 cm. in diameter. These provided shelter and spawning areas for fish.
 
 

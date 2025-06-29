@@ -31,11 +31,13 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ## Keywords
+
 - {{< keyword "porticoes" >}}
 - {{< keyword "palaestrae" >}}
 
 
 ## Garden Description
+
 Colonnaded [porticoes](http://vocab.getty.edu/page/aat/300004145) encircled the [palaestra](http://vocab.getty.edu/page/aat/300007301) on the south, west and north. A large swimming pool (34.55 m x 22.25 m) was located in the center. Casts made of tree cavities planted eight meters apart in two rows around the north, west and south sides of the enclosed area indicated that these were plane trees, just under one hundred years old.
 
 <!--## Plans

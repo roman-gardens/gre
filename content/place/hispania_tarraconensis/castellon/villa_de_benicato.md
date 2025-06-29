@@ -25,10 +25,12 @@ draft: true
 Villa de Benicató
 
 ## Keywords
+
 - {{< keyword "mosaics" >}}
 - {{< keyword "corridors" >}}
 
 ## Garden Description
+
 The first finds go back to 1883.  Part of the site was acquired by the provincial government in 1954 and archaeological work was begun the next year, but the reports remain unpublished.  
 The villa from the middle of the 2nd century evolved around a peristyle garden with a large circular pool, 7.6 meters in inside diameter, in the middle.  A paved corridor led to the pool from the  north gallery of the peristyle.  There were baths and two rooms with mosaic floors.  Most rooms, however, had floors of hammered earth.   
 

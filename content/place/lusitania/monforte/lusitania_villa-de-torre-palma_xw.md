@@ -29,12 +29,14 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 Villa de Torre de Palma
 
 ## Keywords
+
 - {{< keyword "mosaics" >}}
 - apsed triclinium
 - {{< keyword "peristyles" >}}
 - {{< keyword "dolia" >}}
 
 ## Garden Description
+
 This villa was discovered by farm workers in 1947, and excavations were begun soon afterwards by the Museu Etnológico (now the Museu Arqueológico) in Lisbon.  Hundreds of rooms were unearthed, and major mosaics and many crates of materials were removed to the museum.  In 1983, American archaeologists from the University of Louisville became involved with the site through a project to re-excavate the Christian basilica in the northern end.  When the 1983 campaign found coins from the mid fourth century A.D. embedded in the original floor of the basilica – thereby establishing it as the earliest known double-apsed church on the Iberian Peninsula – it became clear that much might be learned from re-excavation of the whole site with modern methods.  
 
 There is one space which was likely gardened as well as several other likely spots. The report of the University of Louisville team distinguishes a number of phases. The relative chronology is based largely on the identification of the building techniques of successive master masons, while absolute dates are determined from ceramics and embedded coins found during excavations in the 1980s. The first phase consists mainly of finds of ceramics and coins from the middle of the first century A.D. but includes also the little two-room structure in the East court.  

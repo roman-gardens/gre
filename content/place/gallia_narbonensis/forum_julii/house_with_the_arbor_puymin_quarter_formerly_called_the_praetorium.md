@@ -38,6 +38,7 @@ House with the Arbor, Puymin Quarter, Formerly called the Praetorium
 
 
 ## Keywords
+
 - {{< keyword "praetoriums" >}}
 - {{< keyword "stairs" >}}
 - {{< keyword "porticoes" >}}

@@ -15,6 +15,7 @@ draft: true
 House on the Place des Halles (La maison des Halles)
 
 ## Keywords
+
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "fountains" >}}

@@ -32,6 +32,7 @@ On the left bank of the Sarthe, where it is joined by the Isaac creek, the Roman
 House on the Place des Halles (La maison des Halles)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "courtyards" >}}
 

@@ -81,11 +81,13 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 Houses N5 and N7
 
 ## Keywords
+
 - {{< keyword "atrium houses" >}}
 - {{< keyword "city walls" >}}
 
 
 ## Garden Description
+
 These two adjacent houses are typical Tuscan atrium houses, both are against the western city wall, and both have gardens of some 50 square meters at the back of the house (Fig. 1).  In Pompeii, Jashemski found many small, non-peristyle gardens in modest homes.  Few have been found elsewhere, probably because they were in cities and most ancient cities are under modern ones.  This example of two side-by-side is therefore particularly noteworthy.  Mar and R. de Arbulo, in their comprehensive volume on Emporiae, give two somewhat different versions of House N5, one on page 366 and one on the foldout map in the pocket at the back of the book.  The main differences, however, are in the interpretation of the walls and spaces on the inside of the house and do not affect the interpretation of the garden areas.
 
 

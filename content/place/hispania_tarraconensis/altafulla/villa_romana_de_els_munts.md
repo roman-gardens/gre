@@ -51,10 +51,12 @@ Villa Romana de els Munts
 
 
 ## Keywords
+
 - {{< keyword "porticoes" >}}
 
 
 ## Garden Description
+
 This richly adorned pleasure villa by the sea was built early in the first century AD and continued in use into the fifth century.  Its period of greatest splendor was between about 100 and 250 AD.  It was pillaged and burned shortly after 268, dated by a hoard of coins found in the underground prison. The prison was equipped with stocks, presumably for punishment of slaves. The mansion was rebuilt and enlarged during the fourth century AD.
 
 Across the front of the house on the side by the sea ran a *portico* [1] in a northwest-to-southeast direction to offer the best view.  The garden lay between this portico and the sea. The excavator judged the area to be a garden, and his view is supported by several pools and perhaps a nymphaeum in the area.  Also, at its southeast end, the portico turns and runs towards the sea. Opening onto this arm was a reception room with seven octagonal fountains arranged in a U. This room thus faced the garden and a pool rather than the sea.  The portico was extended by a walkway and steps which defined the edge of the garden and led down the hill to a large bath complex added in the fourth-century rebuilding.

@@ -32,6 +32,7 @@ Durocortorum was mentioned by Caesar as the center of the Remi, a Celtic tribe t
 The House aux Fleurons (boulevard de la Paix)
 
 ## Keywords
+
 - {{< keyword "porticoes" >}}
 - {{< keyword "trenches" >}}
 

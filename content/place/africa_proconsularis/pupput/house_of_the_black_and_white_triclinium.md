@@ -33,12 +33,14 @@ Pupput is located about three km to the northwest of Hammamet. Two inscriptions 
 House of the Black and White Triclinium (Maison du triclinium en noir et blanc)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "semicircular basin" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
+
 The house is laid out around a square shaped peristyle garden. Between the columns runs a low wall (0.30m) that separates the porticoes from the garden. There was a semicircular basin in the N facing the *triclinium* (Plan view, Fig.1). The house is dated from the II-III c.
 
 ## Maps

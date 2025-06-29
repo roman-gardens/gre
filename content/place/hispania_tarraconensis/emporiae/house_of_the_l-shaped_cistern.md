@@ -81,11 +81,13 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 House of the L-shaped Cistern
 
 ## Keywords
+
 - {{< keyword "burials" >}}
 - {{< keyword "ceramic" >}}
 
 
 ## Garden Description
+
 This house, which was also set against the lower edge of the city near the port, was excavated in 1924 and 1935 .  It had been much altered by *burials* in late antiquity.  Its large cistern yielded a collection of objects from about the time of abandonment : eleven jars of common ceramic, terra sigillata from southern Gaul, *ceramics* from Africa, glass, toilet articles of bone, metals, coral, and a little domestic altar.
 
 

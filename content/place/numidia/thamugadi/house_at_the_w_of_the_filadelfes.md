@@ -35,6 +35,7 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)
 
 ## Keywords
+
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "domus" >}}
 

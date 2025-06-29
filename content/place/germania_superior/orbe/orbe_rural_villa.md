@@ -22,7 +22,7 @@ Rural Villa in Orbe
 
 ## Keywords
 
-archaeological garden \
+<!-- archaeological garden -->
 
 - {{< keyword "corridors" >}}
 - {{< keyword "terrace gardens" >}}

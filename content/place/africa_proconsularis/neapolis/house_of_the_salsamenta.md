@@ -32,6 +32,7 @@ The city of Neapolis that bears a Greek name meaning the "new city", is located 
 House of the Salsamenta (Usine de salaison)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "pools" >}}

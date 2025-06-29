@@ -42,6 +42,7 @@ Royal Garden
 - {{< keyword "walled gardens" >}}
 
 ## Garden Description
+
 Lower Herodium
 
 Lower Herodium (Fig. 1C) comprises several units. Here the central focus is the large pool, the water of which was supplied by a 6 km long aqueduct built by Herod from the spring at the modern village of Artas. The pool is set into a huge garden terrace 120 X 110 m. in size. It was constructed by blocking and leveling a whole section of a valley with up to 8 m of fill. A stepped retaining wall, like a dam, supports the terrace to the east of the garden, as well as two long halls, one on the garden level and the other below, looking down the valley. The garden itself is surrounded on three sides (north, west and south) by wide colonnades situated about 1.5m higher than the garden. The pool was probably used for swimming, for small boats, as a water reservoir, and as a central architectural focus at "the heart" of Lower Herodium. A tholos-type pavilion topped the circular stone foundation (13.5 m in diameter) exposed in the center of the pool.  The majority of the buildings at Lower Herodium, still largely unexcavated, are laid out in a "U" shaped cluster around this large garden.

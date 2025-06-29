@@ -35,6 +35,7 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 Hermaphrodite House (Maison de l'Hermaphrodite)
 
 ## Keywords
+
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "domus" >}}
 - {{< keyword "triclinia (rooms)" >}}
@@ -42,6 +43,7 @@ Hermaphrodite House (Maison de l'Hermaphrodite)
 
 
 ## Garden Description
+
 The large house was laid out around a large peristyle of 22 columns. In the axis of the *triclinium* was a rectangular pool. The courtyard may have been planted (Plan view, Fig. 1).
 
 ## Maps

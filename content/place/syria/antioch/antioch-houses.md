@@ -26,6 +26,7 @@ Antioch on the Orontes was founded by the Macedonian general Seleucus I as the c
 Private Houses at Antioch
 
 ## Keywords
+
 - {{< keyword "courtyards" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "mosaics" >}}
@@ -33,6 +34,7 @@ Private Houses at Antioch
 - {{< keyword "water features" >}}
 
 ## Garden Description
+
 The most significant finds from the international excavations conducted from 1932 to 1939 were the many houses built in and around the city center, on the surrounding terraces of the mountain slopes, in the suburb of Daphne, and in the port of Seleucia Pieria. Scores of floor mosaics dating from the second to the sixth centuries CE paved these houses and brought the private lives of the elite into focus. Although no gardens have been excavated in Antioch, the examination of the figural mosaics, statuary, and the fragmentary remains of house plans suggest that there were private gardens.
 
 During the hot summer months, the wealthy citizens of Antioch retired to Daphne, a settlement on a plateau overlooking the plain of Antioch about five miles south, for cooler breezes and its refreshing springs (Lib. Ep. 419). The suburb was admired for its "varied gardens and charming inns and an abundance of springs and houses hidden in trees and chambers which rise above the groves and luxurious baths…" (Lib. Or. 11.234). The excavations revealed the remains of houses that were richly decorated with mosaics, pools, and fountains. The fact that Daphne was the source for the water carried by two aqueducts to Antioch allowed for a generous use of water in private houses. As in Pompeii, pools and fountains seem to form the natural focal point of house designs. We turn to Libanius, a rhetorician from fourth century CE Antioch, for confirmation of the archaeological evidence: "One can judge the wealth of our waters by the number of the houses, since there are as many fountains as there are houses, or rather there are many fountains in each house" (Lib. Or. 11.246).

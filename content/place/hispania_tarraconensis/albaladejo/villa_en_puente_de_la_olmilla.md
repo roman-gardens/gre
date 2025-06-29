@@ -51,10 +51,12 @@ Villa en Puente de la Olmilla
 
 
 ## Keywords
+
 - {{< keyword "triclinia (rooms)" >}}
 
 
 ## Garden Description
+
 This fourth-century villa was discovered in 1973.  An apse and a figured mosaic with two panthers mark the room on the north corner as probably the triclinium.  It did not, however, have a view of the garden but looked along the northeast gallery of the peristyle. That there was a garden is indicated by the presence of a pipe which crossed the northeast portico presumably to supply water for plants or a nymphaeum in the center of the peristyle.
 
 

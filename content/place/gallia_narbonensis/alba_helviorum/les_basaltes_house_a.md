@@ -38,6 +38,7 @@ Les Basaltes, House A
 
 
 ## Keywords
+
 - {{< keyword "balnea" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}

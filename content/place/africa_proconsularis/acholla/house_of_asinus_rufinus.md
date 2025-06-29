@@ -29,6 +29,7 @@ The city of Acholla was established forty-five km north of Sfax, along the seash
 House of Asinius Rufinus (Maison d'Asinius Rufinus)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "lararia" >}}
@@ -37,6 +38,7 @@ House of Asinius Rufinus (Maison d'Asinius Rufinus)
 
 
 ## Garden Description
+
 The house of *Asinius Rufinus* (Approx.
 835 m²) is located in the center of the city.  Towards the south its façade extends along an open area partially excavated and is interpreted as the possible forum of the city.  The house contains a mosaic pavement of Hercules and an inscription located in the main entrance hall with the honorific cursus of M. *Asinius Rufinus*, who was consul between 184 and 185. *Rufinus* most likely changed the older house (from Tiberian times) to this new one opened towards the South.  Therefore the data attributed to this phase of the house comes from the second half of the II century AD, during the reign of Commodus.
 

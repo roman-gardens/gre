@@ -36,6 +36,7 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 House of Asinus Nica, Central District (Maison de l’Ane, quartier central)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "courtyards" >}}

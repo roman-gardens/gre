@@ -56,6 +56,7 @@ The sumptuous fourth-century villa has, not surprisingly, a large and most elabo
 
 
 ## Bibliography
+
 A. Carandini, A. Ricci and M. De Vos, Filosofiana. La villa di Piazza Armerina, Palermo 1982, pp. 126–8 [(worldcat)](https://search.worldcat.org/title/165760407)
 
 G. V. Gentili, La villa romana di Piazza Armerina Palazzo Erculio, Osimo, 1 (1999): 79–83; 2 (1999): 25–8 [(worldcat)](https://search.worldcat.org/title/610543162)

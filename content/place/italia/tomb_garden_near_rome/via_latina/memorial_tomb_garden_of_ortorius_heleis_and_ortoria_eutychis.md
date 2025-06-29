@@ -31,6 +31,7 @@ Memorial Tomb Garden of Ortorius Heleis and Ortoria Eutychis
 - {{< keyword "tombs" >}}
 
 ## Garden Description
+
 An inscribed marble plaque found in the early 1930s covering a drain near Ponte Lungo in the region of the Via Tuscolana south of Rome records the epitaph of a Greek-speaking couple, Ortorios Heleis and Ortoria Eutychis, evidently devotees of the cult of Isis, who some time during the second or early third century built for their ten-year old son Markos Ortorios Eleutheros "an eternal bridal chamber" (aionion nymphona) and "for themselves, in expectation of their death, and for their freedmen and their descendants, a memorial tomb garden" ([mne]meion kepotaphon). The inscription, which includes a prayer to Osiris to grant the boy cool water in the afterlife, dwells on the son’s untimely death and his parents bereavement.
 
 ## Maps

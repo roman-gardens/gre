@@ -30,10 +30,12 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "tablina" >}}
 - {{< keyword "porticoes" >}}
 
 ## Garden Description
+
 A. Past the tablinium of this house there was a garden (a) with a portico on the north and most of the west side.
 B. The garden (a) had an entrance to this area (b) which was planted after having been cleared of old structures.
 

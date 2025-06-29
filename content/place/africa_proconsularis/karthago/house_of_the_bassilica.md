@@ -33,6 +33,7 @@ Of the Roman period, the city plan is clearly recognizable. The plan takes as it
 House of the Bassilica (Maison de la Bassilica)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "exedrae (site elements)" >}}

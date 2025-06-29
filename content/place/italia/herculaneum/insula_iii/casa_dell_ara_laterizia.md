@@ -37,11 +37,13 @@ III
 Casa dell’Ara Laterizia
 
 ## Keywords
+
 - {{< keyword "sacella" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "opus reticulatum" >}}
 
 ## Garden Description
+
 539.III.17.
 At the rear of this small house there was a courtyard with an impressive brick altar against the rear wall. Maiuri felt this was probably a roofed area which would have been a *sacellum*. This area was excavated in 1927-1929 and may have held a few potted plants.
 

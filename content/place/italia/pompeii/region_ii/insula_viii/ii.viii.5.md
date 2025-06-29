@@ -33,6 +33,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Caupona with small bath.
 
 ## Keywords
+
 - {{< keyword "atriums" >}}
 - {{< keyword "cauponae" >}}
 - {{< keyword "tabernae" >}}
@@ -40,6 +41,7 @@ Caupona with small bath.
 
 
 ## Garden Description
+
 A. A very small bath was located at the left rear of the [atrium](http://vocab.getty.edu/page/aat/300004097) in this unusual building. Behind this was a tiny garden with three small triclinia on either side. The couches of these six [triclinia](http://vocab.getty.edu/page/aat/300004359) were so low and narrow they must have been used as seats similar to the [tabernae](http://vocab.getty.edu/page/aat/300005366) attached to the house of Julia Felix (II.iv.7).
 B. Another small garden was found to the rear of the [caupona](http://vocab.getty.edu/page/aat/300005208).
 

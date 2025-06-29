@@ -38,6 +38,7 @@ Edifice of the Platform
 
 
 ## Keywords
+
 - {{< keyword "vestibules" >}}
 - {{< keyword "courtyards" >}}
 - {{< keyword "peristyles" >}}

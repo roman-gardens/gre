@@ -30,6 +30,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula V]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "insulae" >}}
 - {{< keyword "angiportus" >}}
 - {{< keyword "puteals" >}}
@@ -37,6 +38,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ## Garden Description
+
 A. Over half the depth of the insula was crossed by a long angiportus which led from the Via dell’Abbondonza to an open area (a) past a wide portico. This extensive area was most likely used as a garden having a water basin in the southwest corner for irrigation. The first two columns in the portico, on the east were connected by a wall 2.13 m. high. There was a street entrance (38) on the south side of the garden next to the entrance of house no. 37, the house to which this garden originally belonged. A gutter along the north, east and south edges of the garden conducted the water to the lowest spot in the southeast corner where it emptied into the street.
 B. A complex of rooms opened off the northeast end of the portico and a garden (b) was located beyond these with an entrance on the west. (Fig.17, 11.17.59.)  A large terra-cotta puteal was discovered in one of the adjoining rooms. The cistern opening in this garden received water from a large basin in the southeast corner supplied by a gutter on the west, south and north edges.
 C. Off the west end of the angioportus was opening 15 which led to another large area (c) that had been used as a garden at the time of the eruption. Apparently half of the area had been filled with structures destroyed by the earthquake, cleared, and converted to a garden but Mau believed the eastern part had always been cultivated. (Fig.18, 11.20.59) This area could be entered from no.16 and so he concluded that the same owner held both properties. The east wall had a niche 2.65 m. from ground level, too high to serve as a laririum, which probably contained a terra-cotta statuette. Jashemski observed that two half buried puteals were being used as planters and questioned their original location.

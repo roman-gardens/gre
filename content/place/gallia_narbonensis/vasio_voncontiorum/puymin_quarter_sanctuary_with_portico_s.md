@@ -38,6 +38,7 @@ Puymin Quarter, Sanctuary with Portico’s
 
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "statues" >}}

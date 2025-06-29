@@ -37,10 +37,12 @@ V
 Casa con Giardino
 
 ## Keywords
+
 - {{< keyword "fauces" >}}
 
 
 ## Garden Description
+
 553.V.33
 This humble house had a huge garden (a) which was entered from the long fauceson the north. Most likely used to grow produce, Maiuri speculated that the garden may have belonged to the larger houses to the west at one time.
 

@@ -39,12 +39,14 @@ The city has been continually occupied to the present day, now known as Cherchel
 House of the Scattered Branches and Flowers (Maison de la Jonchée)
 
 ## Keywords
+
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "pools" >}}
 - {{< keyword "fountains" >}}
 
 ## Garden Description
+
 Located on the southeastern seaboard of Cherchel, this *domus* was only partially excavated but is still considered to be one of the largest houses of Caesarea.  The ruins discovered between 1963 and 1964 are spread out over more than 60 meters from east to west and 30 meters from north to south.  The house had two levels separated by a terrace wall, 15 meters of which have been uncovered.
 
 To the north, a rectangular pool was discovered on the lower level.  It measured 10 meters by 7.5 and included a fountain built on a square-shaped base, 2.8 meters wide.  The sides had rectangular recesses and also included a water spout in the shape of a pyramid. The tracing of the pipe was still visible. The center of the peristyle may have been planted.

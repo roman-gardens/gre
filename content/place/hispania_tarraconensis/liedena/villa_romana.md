@@ -53,12 +53,14 @@ Villa Romana
 
 
 ## Keywords
+
 - {{< keyword "catch basins" >}}
 - {{< keyword "drains" >}}
 - {{< keyword "peristyles" >}}
 
 
 ## Garden Description
+
 This large villa, with both a pars urbana and a pars rustica is on the right (south) bank of the Irati river just below the Foz de Lumbier, a gorge cut by the river through a limestone hill.  
 The villa was discovered by chance in the course of agricultural work in 1921.  A number of mosaics were immediately removed to the provincial museum in Pamplona. Systematic excavation was undertaken by Vázquez de Parga and Taracena in the summers between 1942 and 1947. Results were published by Taracena in 1949 and 1950.   
 It had a first phase dating perhaps from the end of the first century CE. Taracena believed it was destroyed by fire.  Little is known of this early phase.  A new villa was built in the first third of the 4th century. In addition to the elegant pars urbana there were extensive facilities for cereal, wine, and oil production.

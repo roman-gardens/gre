@@ -31,11 +31,13 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ## Keywords
+
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
+
 A. The Sarno Bath is included in this block of irregular shaped houses, reached by entrance 17 on the Via della Scuole that goes to the lower levels. On the street level there was a small peristyle garden (a) located in the center of the house. Two pillars supported a portico on three sides of the garden and the large triclinium (b) offered a view of the garden. A beautifully rendered painting of grape vines with clusters of fruit, birds, lizards and a little mouse graced the black walls of the peristyle.  
 B. The irregular shapes of the buildings created this triangular light well. Two large windows allowed light into the passageway from the street at entrance 20, which also received light from a third window before the passageway ended at the peristyle. The light well had a tufa gutter that drained to the east into a cistern that was accessed in the kitchen. There were likely some plantings in the light well, as well as on the four porticoed terraces to the rear, including the upper level terrace that did not survive.  
 

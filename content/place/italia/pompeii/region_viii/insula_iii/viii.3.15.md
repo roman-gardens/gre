@@ -30,12 +30,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 [Insula III]({{<relref ".">}})
 
 ## Keywords
+
 - {{< keyword "cauponae" >}}
 - {{< keyword "podiums (platforms)" >}}
 - {{< keyword "pergolas" >}}
 
 
 ## Garden Description
+
 This caupona had originally been part of a house according to Fiorelli. The unusual building had a garden (a) in the northeast corner that occupied over one quarter of the house and contained a masonry stibadium, (3.50 m. at the widest dimension), perhaps the only one in Pompeii. A monopodium supported the table and all of this was possibly shaded by a pergola. A portico on the west and south was supported by two square pillars on the south side which were painted with vines. The garden was enclosed by a low wall on the west and south with an entrance on the west.
 
 ## Plans

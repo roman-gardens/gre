@@ -20,6 +20,7 @@ draft: true
 House on rue de la Fraternité
 
 ## Keywords
+
 - {{< keyword "mosiacs" >}}
 - {{< keyword "peristyles" >}}
 

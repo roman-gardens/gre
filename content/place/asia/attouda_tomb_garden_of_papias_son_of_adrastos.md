@@ -36,11 +36,13 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 Tomb Garden of Papias son of Adrastos
 
 ## Keywords
+
 - marble slab
 - {{< keyword "epitaphs" >}}
 
 
 ## Garden Description
+
 A marble slab found immured in a house wall at Hisarköy (Attouda) in Caria near the border with Phrygia records an *epitaph* set up by Papias, the son of Adrastos, grandson of Zeuxis, great grandson of Kounbarion, for himself and his heirs and sets aside a plot of unencumbered land six cubits square around it, from which it was permitted to derive revenue ([t"] mnhme€ƒ periÒria [di]°[ye]to pÆxiw ©<j> é[ne]pikvlut€, nomØn ka‹ karpe€an énepikvlut€).  The modest size of the allotment (less than ten m2) suggests that the productive plot was probably a garden.
 
 <!--
