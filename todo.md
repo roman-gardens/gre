@@ -24,9 +24,9 @@
 - [ ] Deal with empty stuff that is now commented out (by deleting)
 - [x] Should "urban villas" be removed and (if necessary) replaced with "villae urbanae"?
 - [x] Deal with all smart quotes (“”)
-- [ ] Fix any quotes in `figure` attributes
-- [ ] Redo all pub dates as YMD
-- [ ] Implement [LOC Datetime format](https://www.loc.gov/standards/datetime/)
+- [x] Fix any quotes in `figure` attributes
+- [x] Redo all pub dates as YMD
+- [x] Implement [LOC Datetime format](https://www.loc.gov/standards/datetime/)
 - [x] Add a keyword that means "hasInscription"
 - [x] Check for any ">>>>>>" merge conflict stuff in the articles
 - [x] Take every heading down one level
@@ -135,6 +135,7 @@
 # Documentation
 
 - snippets for shortcodes! id, image, keyword (type and then press CTRL-SPACE)
+- use \" to escape any quotes within a caption
 
 # Province pages
 - [ ] review which sections should be retained in province pages (and also for gardens...)
@@ -144,6 +145,15 @@
 - [ ] many dupl images in thugga -- warning!  the "2" image may be older (missing additional label/green patch)
 - [ ] some photos we want lower resolution (so copyright holder can control access to full resolution)
 - [ ] link to reuse/take-down policy in image captions
+
+
+
+- RENAME IMAGE SHORTCODE PARAMETERS???
+    - check that alt and title are redundant
+    - rename title to "caption"?
+    - separate "credits" param
+
+
 
 # Questions/Discussion
 - People names -- when to include middle initial?

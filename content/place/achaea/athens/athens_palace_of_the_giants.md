@@ -43,7 +43,7 @@ It is possible that a garden might have been present in one of the inner courtya
 -->
 
 ## Plans
-{{< image src="giants.jpg" alt="building plan with possible gardens marked, dotted lines for the outlines of earlier buildings." title="Fig. 1: Plan of the so-called "Palace of the Giants" (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the "Palace." Adapted from Camp 1986, p. 200, fig. 166." >}}
+{{< image src="giants.jpg" alt="building plan with possible gardens marked, dotted lines for the outlines of earlier buildings." title="Fig. 1: Plan of the so-called \"Palace of the Giants\" (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the \"Palace.\" Adapted from Camp 1986, p. 200, fig. 166." >}}
 
 <!--## Images-->
 

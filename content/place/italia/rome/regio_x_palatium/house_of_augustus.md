@@ -83,7 +83,7 @@ RELATED PHASES ON THE PALATINE:
 
 {{< image src="house_augustus_fig2.jpg" alt="Nymphaeum inside the House of Augustus" title="Fig. 2: Nymphaeum inside the House of Augustus (Photo SAR)." >}}
 
-{{< image src="house_augustus_fig3.jpg" alt="Yellow frieze of the House of Livia" title="Fig. 3: House of Livia. Right ala with detail of the "yellow frieze". (Photo SAR)." >}}
+{{< image src="house_augustus_fig3.jpg" alt="Yellow frieze of the House of Livia" title="Fig. 3: House of Livia. Right ala with detail of the \"yellow frieze\". (Photo SAR)." >}}
 
 ## Dates
 

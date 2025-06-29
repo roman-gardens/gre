@@ -52,9 +52,9 @@ House of the Salsamenta (Usine de salaison)
 -->
 
 ## Plans
-{{< image src="Salsamenta_house_Nabeul_phase_11.jpg" alt="Plan of the House of the Salsamenta at Neapolis Phase 1; rights statement" title="Fig. 1: Plan of the House of the Salsamenta Phase 1. ("L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998", *Africa* XVII, 1999, pp. 159-161, fig. 6)" >}}
+{{< image src="Salsamenta_house_Nabeul_phase_11.jpg" alt="Plan of the House of the Salsamenta at Neapolis Phase 1; rights statement" title="Fig. 1: Plan of the House of the Salsamenta Phase 1. (\"L'usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998\", *Africa* XVII, 1999, pp. 159-161, fig. 6)" >}}
 
-{{< image src="Salsamenta_house_phase_21.jpg" alt="Plan of the House of the Salsamenta at Neapolis Phase 2; rights statement" title="Fig. 2: Plan of the House of the Salsamenta Phase 2. ("L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998", *Africa* XVII, 1999, pp. 159-161, fig. 7)" >}}
+{{< image src="Salsamenta_house_phase_21.jpg" alt="Plan of the House of the Salsamenta at Neapolis Phase 2; rights statement" title="Fig. 2: Plan of the House of the Salsamenta Phase 2. (\"L'usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998\", *Africa* XVII, 1999, pp. 159-161, fig. 7)" >}}
 
 <!--
 {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
