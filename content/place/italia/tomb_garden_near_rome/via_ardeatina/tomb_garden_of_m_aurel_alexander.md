@@ -4,7 +4,7 @@ aliases: [/id/da50529abc]
 type: garden
 title: "Tomb Garden of M. Aurel(ius) Alexander"
 latlon: [ 0, 0 ]
-author:
+author: John Bodel
 editor: Yuyao Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -50,7 +50,5 @@ late second or early third century
 <!-- {{< id vocab="Pleiades" id="390400921" name="Tomb Garden of M. Aurel(ius) Alexander" >}} is invalid -->
 
 
-## Contributor
-John Bodel
 
 

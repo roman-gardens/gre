@@ -79,7 +79,6 @@ A.D 20-30 Destroyed
 - {{< id vocab="TGN" id="7599818" name="Vaucluse (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

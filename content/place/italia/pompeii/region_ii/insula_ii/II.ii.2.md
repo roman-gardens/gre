@@ -88,6 +88,4 @@ Paul Zanker, 1998, *Pompeii: Public and Private Life, pp.477-480.*
 ##  Excavation Dates
 1916, 1918, 1921, 1933-35 and 1973
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)  
 

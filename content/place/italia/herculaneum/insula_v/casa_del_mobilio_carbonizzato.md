@@ -88,6 +88,3 @@ unspecified
 - Maiuri, Herculaneum,p. 44
 - Maiuri, Ercolano, pp.260-261 and fig. 203 (plan) on p. 256.
 
-## Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)

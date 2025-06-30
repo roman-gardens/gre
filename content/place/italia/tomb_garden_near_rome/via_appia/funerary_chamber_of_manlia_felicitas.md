@@ -4,7 +4,7 @@ aliases: [/id/b773ddb08b]
 type: garden
 title: "Funerary Chamber of Manlia Felicitas"
 latlon: [ 41.853944, 12.517797 ]
-author:
+author: John Bodel
 editor: Yuyao Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -55,7 +55,5 @@ When Vignon returned to the site thirteen years later, the underground chamber c
 - {{< id vocab="Pleiades" id="990721366" name="Funerary Chamber of Manlia Felicitas" >}}
 
 
-## Contributor
-John Bodel
 
 

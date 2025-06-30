@@ -65,7 +65,7 @@ To the northeast there are the baths of la Planchette, today backfilled.   This 
 
 1. *La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise*. Vaucluse: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 82-83. [(worldcat)](https://search.worldcat.org/title/695787865)
 
-2. Chr. Fraisse, J. Dupraz, *L’Ardèche*, CAG 07, Gap,  2001, P. 155-156.
+2. Chr. Fraisse, J. Dupraz, *L’Ardèche*, CAG 07, Gap, 2001, P. 155-156.
 
 ## Places
 
@@ -74,7 +74,6 @@ To the northeast there are the baths of la Planchette, today backfilled.   This 
 - {{< id vocab="TGN" id="8712431" name="Alba-la-Romaine (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

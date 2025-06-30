@@ -75,7 +75,6 @@ No date was proposed for the structure in the excavation reports.
 - {{< id vocab="TGN" id="1031774" name="Andance (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

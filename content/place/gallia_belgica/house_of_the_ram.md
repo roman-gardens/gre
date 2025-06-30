@@ -4,7 +4,7 @@ aliases: [/id/90aacd419f]
 type: garden
 title: "House of the Ram (La Maison au Bélier)"
 latlon: [ 49.254081, 4.032937 ]
-author: 
+author: Maureen Carroll
 editor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29

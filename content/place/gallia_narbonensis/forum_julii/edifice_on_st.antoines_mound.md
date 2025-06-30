@@ -70,7 +70,7 @@ The residence perhaps enjoyed an exterior garden in the vast open space of arabl
 
 1. Atlas Des Maisons De Gaule Narbonnaise. Avignon: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 94-96 et fiche n°1, P. 100-101. [(worldcat)](https://search.worldcat.org/title/717347935)
 
-2. RIVET,  D.  BRENTCHALOFF,  S.  ROUCOLE,  S.  SAULNIER,  *Fréjus,  Atlas topographique  des  villes  de  gaule  méridionale*,  R.A.N.,  supplément  32,  Montpellier,  2000,  P. 278-281. [(worldcat)](https://search.worldcat.org/title/491603596)
+2. RIVET, D.  BRENTCHALOFF, S.  ROUCOLE, S.  SAULNIER, *Fréjus, Atlas topographique  des  villes  de  gaule  méridionale*, R.A.N., supplément  32, Montpellier, 2000, P. 278-281. [(worldcat)](https://search.worldcat.org/title/491603596)
 
 
 ## Places
@@ -80,7 +80,6 @@ The residence perhaps enjoyed an exterior garden in the vast open space of arabl
 - {{< id vocab="TGN" id="7008791" name="Fréjus (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

@@ -56,6 +56,3 @@ A limestone funerary stele of probably third century date unearthed in 1973 near
 - {{< id vocab="Pleiades" id="197501" name="Scarbantia" >}}
 - {{< id vocab="TGN" id="4008442" name="Pannonia (general region)" >}}
 
-## Contributor
-
-[John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))

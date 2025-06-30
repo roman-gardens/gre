@@ -75,9 +75,9 @@ The oecus or principal reception room is the room with an apse facing the southw
 
 
 ## Bibliography
-- Blas Taracena Aguirre , *La villa romana de Liédena*. Part1. Excavaciones en Navarra VII (I):  P. V. nº 37,  (Pamplona, 1949), pp. 353-382 [(worldcat)](https://search.worldcat.org/title/929353407)
+- Blas Taracena Aguirre , *La villa romana de Liédena*. Part1. Excavaciones en Navarra VII (I):  P. V. nº 37, (Pamplona, 1949), pp. 353-382 [(worldcat)](https://search.worldcat.org/title/929353407)
 
-- Blas Taracena Aguirre, *La villa romana de Liédena*, Part 2 ,  Excavaciones en Navarra VII   P. V. nº 38-39, (Pamplona, 1950) pp. 9-40.   [(worldcat)](https://search.worldcat.org/title/629300814)
+- Blas Taracena Aguirre, *La villa romana de Liédena*, Part 2 , Excavaciones en Navarra VII   P. V. nº 38-39, (Pamplona, 1950) pp. 9-40.   [(worldcat)](https://search.worldcat.org/title/629300814)
 
 - A. Beltrán Martínez, *La villa romana de Liédana (Navarra)*, in Archivo Español de Arqueología, XXIV. Madrid, 1951, pp. 218-220
 
@@ -97,6 +97,4 @@ The oecus or principal reception room is the room with an apse facing the southw
 
 - {{< id vocab="Pleiades" id="250027" name="Villa at Foz de Lumbier" >}}
 - {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}
-
-
 

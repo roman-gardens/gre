@@ -65,6 +65,5 @@ None Available
 - {{< id vocab="TGN" id="7662219" name="Briord (inhabited place)" >}}
 
 ## Contributor
-
 <!-- Eric Morvillez ? -->
 

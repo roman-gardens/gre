@@ -70,7 +70,7 @@ There is very little information about this house, only two semi circular pools 
 
 * Ferdi S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p.149. [(worldcat)](https://search.worldcat.org/title/1006126274)
 
-* Leveau,  Ph., "Les maisons nobles de Caesarea de Maurétanie", in *Antiquités africaines*, t.18, p.142. [(worldcat)](https://search.worldcat.org/title/4797426670)
+* Leveau, Ph., "Les maisons nobles de Caesarea de Maurétanie", in *Antiquités africaines*, t.18, p.142. [(worldcat)](https://search.worldcat.org/title/4797426670)
 
 * Stern, H., "Fontaine de Neptune au musée de Cherchel (Algérie)", in *Antiquités africaines*, t.15; 1980, p.285-302. [(worldcat)](https://search.worldcat.org/title/4797177108)
 

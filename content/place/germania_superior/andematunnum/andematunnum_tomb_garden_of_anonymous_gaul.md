@@ -67,7 +67,4 @@ unspecified
 - {{< id vocab="Pleiades" id="177441" name="Andematunnum" >}}
 - {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
 
-## Contributor
-
-[John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 

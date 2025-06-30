@@ -90,6 +90,4 @@ A broken inscription found near Thyaira in 1901 records the second part of a fun
 - {{< id vocab="Pleiades" id="599981" name="Thyaira" >}}
 - {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
 
-## Contributor
-[John Bodel](link) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 

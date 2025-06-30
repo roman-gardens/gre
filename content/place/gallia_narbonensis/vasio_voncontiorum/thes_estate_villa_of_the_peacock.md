@@ -72,7 +72,7 @@ A.D. 70-100
 
 1. KISCH, Yves . *La Villa Du Paon: Le Quartier Des Boutiques : Vaison-La-Romaine*. Vaison-la-Romaine: Mairie, 1990 [(worldcat)](https://search.worldcat.org/title/964237739)
 
-2. H. Lavagne,  Recueil génral des mosaïques de la Gaule romaine, III, province de Narbonnaise 3, partie sud-est, Xe suppl. à Gallia, Paris CNRS, 2000, n° 647-53, p. 157 ss.
+2. H. Lavagne, Recueil génral des mosaïques de la Gaule romaine, III, province de Narbonnaise 3, partie sud-est, Xe suppl. à Gallia, Paris CNRS, 2000, n° 647-53, p. 157 ss.
 
 3. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.277-287. [(worldcat)](https://search.worldcat.org/title/905795401)
 
@@ -84,7 +84,6 @@ A.D. 70-100
 - {{< id vocab="TGN" id="7008791" name="Fréjus (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

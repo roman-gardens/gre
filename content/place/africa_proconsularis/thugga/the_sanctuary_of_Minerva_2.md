@@ -24,7 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 - {{< id vocab="Pleiades" id="315223" name="THUGGA (Dougga) Tunisia" >}}
 
 
-{{< image file="dougga_the_sanctuary_of_minerva.jpg" caption="Plan of Thugga" credit="(Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" alt="Plan of Thugga" >}}
+{{< image file="dougga_the_sanctuary_of_minerva.jpg" caption="Plan of Thugga" credit="(Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" alt="Plan of Thugga" >}}
 
 ## Location Description
 
@@ -61,7 +61,7 @@ The sanctuary of Minerva 2, (138-161 CE), built later than the *templa Concordia
 ## Bibliography
 
 * Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](https://search.worldcat.org/title/7380877046)
-* Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, Brouquier Reddé, V., Baratte, Fr.,  Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, p. 364, pl. 14. [(worldcat)](https://search.worldcat.org/title/1028897747)
+* Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, Brouquier Reddé, V., Baratte, Fr., Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, p. 364, pl. 14. [(worldcat)](https://search.worldcat.org/title/1028897747)
 * Saint-Amans, S. "Topographie religieuse de Thugga (Dougga)"", in *Ville romaine d'Afrique proconsulaire (Tunisie)*, (Scripta
 Antiqua, 9), Bordeaux : Ausonius Éditions 2004, pp. 340-341, p. 216, fig. 2a. [(worldcat)](https://search.worldcat.org/title/218514555)
 

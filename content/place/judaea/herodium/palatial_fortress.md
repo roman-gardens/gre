@@ -69,7 +69,7 @@ The Palace Fortress is a cylindrical structure originally seven stories high (tw
 
 * E. Netzer, "Greater Herodium" in Qedem, Monographs of the Institute of Archaeology, The Hebrew University of Jerusalem 13, 1981 [(worldcat)](https://search.worldcat.org/title/470633336)
 * E. Netzer The Palaces of the Hasmoneans and Herod the Great, Jerusalem: The Israel Exploration Society, 1999, 98-107 [(worldcat)](https://search.worldcat.org/title/1089147869)
-* I. Nielsen, Inge, Hellenistic Palaces, 1994,  201-203. [(worldcat)](https://search.worldcat.org/title/468433476)
+* I. Nielsen, Inge, Hellenistic Palaces, 1994, 201-203. [(worldcat)](https://search.worldcat.org/title/468433476)
 * R. Porat, R. Chachy, and Y. Kalman. "Herodium I: Herod’s Tomb Precinct, Final Reports of the 1972-2010 Excavations Directed by Ehud Netzer." Jerusalem: Israel Exploration Society (2015).
 [worldcat](https://search.worldcat.org/title/907827917)
 * D. Langgut, M. Cavanagh , R. Evyasaf, Y. Korman, R. Porat, G. Stiebel., K. Gleason. "The reconstruction of Herod the Great’s palatial gardens in Herodium: a botanical perspective", In: Chachy R, Kalman Y, and Porat R (eds.), "Lower Herodium," in  HERODIUM II;  Final Reports of the 1972-2010 Excavations Directed by Ehud Netzer, Jerusalem. In press  
@@ -80,8 +80,5 @@ The Palace Fortress is a cylindrical structure originally seven stories high (tw
 - {{< id vocab="TGN" id="8713913" name="Judean Desert (desert)" >}}
 
 ## Contributor
-
 [Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
-
-
 

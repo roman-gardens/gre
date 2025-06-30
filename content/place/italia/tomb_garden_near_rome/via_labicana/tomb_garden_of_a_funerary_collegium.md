@@ -4,7 +4,7 @@ aliases: [/id/189991e576]
 type: garden
 title: "Tomb Garden of a Funerary Collegium"
 latlon: [ 0, 0 ]
-author:
+author: John Bodel
 editor: Yuyao Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -37,7 +37,7 @@ A marble slab found at the cemetery of Centocelle and now preserved in the Natio
 
 T. T. Coccei Gaa and Patiens, quaestors (of the funerary collegium) for the third time, according to the will of the decurions set up  the square dining table in the pavilion (or, less probably, dining room), the sideboard and base, the sundial, the fountain basin with supports, the marble well, the stucco-work above the wall of the middle path with the tiled roof, the little travertine column beneath the sundial, the projecting eaves in front of the portico, the scales and weights. And, thanks to the kindness and generosity of their patron Titus, they undertook the clearing of a place  behind the further perimeter wall and the transferring of the crematories from the furthest fence to there and the construction of a path there and a doorway. And the same men with public money decorated those places which their patron Titus had granted to the decurions with the seeds of vines and fruits and flowers and all sorts of greenery, in the consulship of Sisenna Taurus and L. Scribonius Libo.
 
-T. T. Coccei Gaa et  / Patiens quaest(ores) III ((tertio))  / mensam quadratam in trichil(a), / abacum cum basi, horologium, / labrum cum fulmentis, marmor  /5 putiale, crustas supra parietem / itineris medi cum tegulis, columel/lam sub horologio Tiburtina(m?) 7 (sic)  / protectum ante porticum, truti/nam et pondera d(e) d(ecurionum) s(ententia) posuerunt;  / et locum post maceriam ulteriorem /10 emendum ustrinasque de consaepto  / ultimo in eum locum traiciendas et  / iter ad eum locum ianuamque bene/ficio et liberalitate T. patroni faci/enda curauerunt;  /15 idemque uitium pomorumq(ue) et florum / uiridiumque omnium generum  / seminibus ea loca quae T. p(atronus) decuri/onibus suis adtribuerat ex pecu/nia publica adornauerunt,  /20 Sisenna Tauro L Scribonio Libone co(n)s(ulibus). /  
+T. T. Coccei Gaa et  / Patiens quaest(ores) III ((tertio))  / mensam quadratam in trichil(a), / abacum cum basi, horologium, / labrum cum fulmentis, marmor  /5 putiale, crustas supra parietem / itineris medi cum tegulis, columel/lam sub horologio Tiburtina(m?) 7 (sic)  / protectum ante porticum, truti/nam et pondera d(e) d(ecurionum) s(ententia) posuerunt;  / et locum post maceriam ulteriorem /10 emendum ustrinasque de consaepto  / ultimo in eum locum traiciendas et  / iter ad eum locum ianuamque bene/ficio et liberalitate T. patroni faci/enda curauerunt;  /15 idemque uitium pomorumq(ue) et florum / uiridiumque omnium generum  / seminibus ea loca quae T. p(atronus) decuri/onibus suis adtribuerat ex pecu/nia publica adornauerunt, /20 Sisenna Tauro L Scribonio Libone co(n)s(ulibus). /  
 
 The inscription concludes with eight hexameters urging readers to recognize in the expense incurred the just observance of piety and, for peace of mind, to follow the example of those who created and tended for the garden during their lifetimes so as to be remembered and cared for by others after their deaths (CLE 371). It is tempting to set the tomb complex of the funerary collegium described in this text in relation to the marble plan of a large tomb garden found also found in the Centocello cemetery and now in Urbino (no. XXX), but the references to ustrinae accessed by a path and gate, "the wall of a middle path with a tiled roof", and projecting eaves in front of a portico are difficult to reconcile with the markings on the marble plan. If the two records do concern the same cemetery complex, the plan does not seem to depict the part of it described in the inscription of the collegium.
 
@@ -58,7 +58,5 @@ The inscription concludes with eight hexameters urging readers to recognize in t
 <!-- {{< id vocab="Pleiades" id="229438405" name="Tomb Garden of a Funerary Collegium" >}} is invalid -->
 
 
-## Contributor
-John Bodel
 
 

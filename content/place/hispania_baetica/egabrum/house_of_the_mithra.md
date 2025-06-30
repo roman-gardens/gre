@@ -49,7 +49,7 @@ Excavations identified two building phases in the villa. The early Imperial phas
 
 ## Images
 
-{{< image file="HIS_BAE_Ega_Hm_plan_CA fig1.jpg" caption="Fig. 1: Plan of the House of the Mithra.  Source: Gorges, Planche XXXIII." credit="" alt="" >}}
+{{< image file="HIS_BAE_Ega_Hm_plan_CA fig1.jpg" caption="Fig. 1: Plan of the House of the Mithra." credit="Gorges, Planche XXXIII." alt="" >}}
 
 {{< image file="HIS_BAE_Ega_Hm_photo_CA fig2.jpg" caption="Fig. 2: Photo of the peristyle looking northwest." credit="" alt="" >}}
 

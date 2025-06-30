@@ -4,7 +4,7 @@ aliases: [/id/38d5f876b8]
 type: garden
 title: "La Villa des Rouaux"
 latlon: [ 49.118135, 6.174155 ]
-author: 
+author: Maureen Carroll
 editor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29

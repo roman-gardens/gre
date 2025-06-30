@@ -78,6 +78,5 @@ Early 3rd century CE
 ## Places
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}
 ## Contributor
-
 [Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)
 

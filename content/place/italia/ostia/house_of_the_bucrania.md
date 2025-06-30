@@ -116,6 +116,5 @@ summer 2002
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor
-
 Thomas Morard
 

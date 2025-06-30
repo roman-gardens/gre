@@ -79,6 +79,5 @@ None Available
 - {{< id vocab="Pleiades" id="177528" name="Genava" >}}
 
 ## Contributor
-
 <!-- Eric Morvillez ? -->
 

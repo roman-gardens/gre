@@ -76,6 +76,4 @@ A marble slab found immured in a house wall at Hisarköy (Attouda) in Caria near
 - {{< id vocab="Pleiades" id="638779" name="Attouda" >}}
 - {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
 
-## Contributor
-[John Bodel](link) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 

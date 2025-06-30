@@ -76,7 +76,7 @@ A.D 20-30 Destroyed
 
 1. Bellet, Michel-Edouard. *Orange Antique: Monuments Et Musée*. Paris: Imprimerie nationale, 1991, P. 69 [(worldcat)](https://search.worldcat.org/title/24832885)
 
-2. Maison 1996,  t. II, P. 229-237 and  P. 240-242.
+2. Maison 1996, t. II, P. 229-237 and  P. 240-242.
 
 ## Places
 
@@ -85,7 +85,6 @@ A.D 20-30 Destroyed
 - {{< id vocab="TGN" id="7599818" name="Vaucluse (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

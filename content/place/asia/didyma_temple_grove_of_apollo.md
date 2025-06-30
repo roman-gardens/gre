@@ -72,7 +72,7 @@ The precinct has been well-defined archaeologically, but the archaeologists iden
 Unspecified
 
 ## Bibliography
-- K. Tuchelt, "Didyma" in ed. E. Meyers, *Oxford Encyclopedia of Archaeology in the Near East*,  Oxford: Oxford University Press, Oxford,1996 : p.160 [(worldcat)](https://search.worldcat.org/title/5104744829)
+- K. Tuchelt, "Didyma" in ed. E. Meyers, *Oxford Encyclopedia of Archaeology in the Near East*, Oxford: Oxford University Press, Oxford,1996 : p.160 [(worldcat)](https://search.worldcat.org/title/5104744829)
 - Birge,D E.  Sacred Groves in the Ancient Greek World. PhD. Dissertation.  University of California at Berkeley, 1982, 394-395. [(worldcat)](https://search.worldcat.org/title/83523268)
 - B. Haussoullier, "le temple d'Apollon didymien" Revue de Philologie  22 (1898) 50-51.[(worldcat)](https://search.worldcat.org/title/1764078)
 

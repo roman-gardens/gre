@@ -103,7 +103,6 @@ recent excavations
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor
-
 [Janet DeLaine](https://www.classics.ox.ac.uk/people/dr-janet-delaine#/)
 
 ## ORCID

@@ -62,7 +62,3 @@ At the rear of the house, excavated in 1868, there was a [peristyle](http://voca
 ##  Excavation Dates
 Excavated c.1868.
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-

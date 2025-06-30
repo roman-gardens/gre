@@ -56,9 +56,3 @@ B. The east [portico](http://vocab.getty.edu/page/aat/300004145) gave access to 
 
 - {{< id vocab="Pleiades" id="433204" name="Villa Tiberii" >}}
 
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-
-

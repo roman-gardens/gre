@@ -62,7 +62,3 @@ This site was excavated in 1868 revealing a [peristyle](http://vocab.getty.edu/p
 ##  Excavation Dates
 Excavated c.1868.
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-

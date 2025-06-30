@@ -65,7 +65,6 @@ unspecified
 - {{< id vocab="TGN" id="7003085" name="Padua (inhabited place)" >}}
 
 ## Contributor
-
 Brady Kiesling (https://pleiades.stoa.org/author/bkiesling)
 
 

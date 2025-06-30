@@ -66,6 +66,5 @@ None Available
 - {{< id vocab="TGN" id="7009141" name="Die (inhabited place)" >}}
 
 ## Contributor
-
 <!-- Eric Morvillez ? -->
 

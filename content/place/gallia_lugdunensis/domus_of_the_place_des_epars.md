@@ -4,7 +4,7 @@ aliases: [/id/9c7b7a2318]
 type: garden
 title: "*Domus* of the Place Epars"
 latlon: [ 48.444276, 1.483926 ]
-author: 
+author: Maureen Carroll
 editor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29
@@ -48,7 +48,7 @@ None Available
 Unspecified
 
 ## Bibliography
-- :A. Ollagnier, D. Joly, *L’Eure-et-Loir,*  CAG  p. 137-139,  plan  p. 138 (with bibliography of previous works).   [(worldcat)](https://search.worldcat.org/title/1031979297) <!-- missing Worldcat -->
+- :A. Ollagnier, D. Joly, *L’Eure-et-Loir,*  CAG  p. 137-139, plan  p. 138 (with bibliography of previous works).   [(worldcat)](https://search.worldcat.org/title/1031979297) <!-- missing Worldcat -->
 
 
 ## Places

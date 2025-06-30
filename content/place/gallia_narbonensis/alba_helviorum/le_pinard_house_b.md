@@ -79,7 +79,6 @@ A.D 101-200
 - {{< id vocab="TGN" id="8712431" name="Alba-la-Romaine (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

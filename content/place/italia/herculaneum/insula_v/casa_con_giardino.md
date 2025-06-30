@@ -69,6 +69,3 @@ unspecified
 - Maiuri, Ercolano, p. 431 and fig. 374 (plan) on p. 431
 
 
-## Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)

@@ -61,7 +61,3 @@ At the rear of this house there was a garden with a passageway on the north and 
 ##  Excavation Dates
 Excavated 1868.
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-

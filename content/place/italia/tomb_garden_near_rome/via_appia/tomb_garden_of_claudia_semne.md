@@ -4,7 +4,7 @@ aliases: [/id/99addb7aff]
 type: garden
 title: "Tomb Garden of Claudia Semne"
 latlon: [ 0, 0 ]
-author:
+author: John Bodel
 editor: Yuyao Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -58,7 +58,5 @@ Unspecified
 - {{< id vocab="Pleiades" id="537932155" name="Tomb Garden of Claudia Semne" >}}
 
 
-## Contributor
-John Bodel
 
 

@@ -80,8 +80,5 @@ The Northern or Hanging Palace, the latest of Herod’s constructions on the sit
 - {{< id vocab="TGN" id="7001381" name="Masada (deserted settlement)" >}}
 
 ## Contributor
-
 [Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
-
-
 

@@ -51,7 +51,7 @@ House of the Columns
 
 ## House Description
 
-The house  had a linear plan starting from a garden on the south,  then on the north side of the garden, a façade gallery, then several rooms, and finally a peristyle on the north. It went through three phases with the changes concentrated on the south garden. In the first phase, this garden [13] (23.5 x 11.5 m) was bordered on the north by a portico [12] 2.5 meters wide. In the garden, adjacent to this portico and directly in front of the principal reception room [8] was a rectangular pool (7.5 x 4 m) with an apse in the center of the south side. It probably had a fountain.
+The house  had a linear plan starting from a garden on the south, then on the north side of the garden, a façade gallery, then several rooms, and finally a peristyle on the north. It went through three phases with the changes concentrated on the south garden. In the first phase, this garden [13] (23.5 x 11.5 m) was bordered on the north by a portico [12] 2.5 meters wide. In the garden, adjacent to this portico and directly in front of the principal reception room [8] was a rectangular pool (7.5 x 4 m) with an apse in the center of the south side. It probably had a fountain.
 
 In the second phase, this south  garden was reduced by the addition of two lateral porticoes (2.5 m wide) on its east and west sides. In keeping with the local fashion of the time, it was given a U-shaped rill or channel pool running around the outer rim of the garden. A 1.5 meter apse on the north side is slightly off the axis of the reception room [9]. In the center of the garden was a little square pool (1.5 m on a side) with an apse on the north. It was surrounded by benches in a U to form a masonry summer *triclinium* facing north.  On the south side of the benches was a *nymphaeum* of three niches, a central semicircular one and a rectangular one to either side. At present, a water jet has been put in the middle of each of them.
 The final phase lasted about fifty years, beginning in the first half of the third century. The south garden was enlarged by the suppression of the east portico. The U-shaped channel pool lost its lateral arms, so that it became a simple rectangle (18 x 1.5 m) and it was made shallower. The apse, in practically the same place, was off-center to the west. The garden kept its summer *triclinium* and *nympheum*.
@@ -101,7 +101,6 @@ NEW WAY ↓↓↓↓
 - {{< id vocab="TGN" id="5004109" name="Saint-Romain-en-Gal (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

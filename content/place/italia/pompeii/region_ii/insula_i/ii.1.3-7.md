@@ -54,7 +54,3 @@ Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed 
 ##  Excavation Dates
 1916, 1950, 1985. Bombed in 1943.
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-

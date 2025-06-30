@@ -73,6 +73,3 @@ unspecified
 - Maiuri, Ercolano, pp.51, 233 and fig. 174 (plan) on p. 222
 
 
-## Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)

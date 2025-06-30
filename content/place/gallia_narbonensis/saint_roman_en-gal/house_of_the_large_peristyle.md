@@ -90,7 +90,7 @@ A.D. 20-A.D 60
 
 1. Laroche, H. Savay-Guerraz, E. Chantriaux et al. *Guides Archéologiques De La France*. Saint-Romain-en-Gal: Conseil général du Rhône, Equipe archéologique de Saint-Romain-en-Gal, 1984, P. 46-57[worldcat](https://search.worldcat.org/title/234328026)
 
-2. Maison 1996, t.II,  p. 364-383
+2. Maison 1996, t.II, p. 364-383
 
 3. Delaval, Eric, and Hugues Savay-Guerraz. La Maison Des Dieux Océan: (ier Siècle Avant J.-C. _ Iie Siècle Après J.-C.). Saint-Romain-en-Gal: AGLAS, 1996.[worldcat](https://search.worldcat.org/title/491540345)
 
@@ -110,7 +110,6 @@ A.D. 20-A.D 60
 - {{< id vocab="TGN" id="5004109" name="Saint-Romain-en-Gal (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

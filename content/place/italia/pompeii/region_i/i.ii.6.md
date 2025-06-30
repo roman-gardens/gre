@@ -59,5 +59,3 @@ The west portico of the small peristyle garden at the rear of the house was ente
 ##  Excavation Dates
 Excavated 1872. Bombed in 1943.
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

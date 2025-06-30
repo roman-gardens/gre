@@ -76,7 +76,6 @@ At first, this relatively modest dwelling was thought to have perhaps belonged t
 - {{< id vocab="TGN" id="8712431" name="Alba-la-Romaine (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

@@ -69,7 +69,6 @@ unspecified
 - {{< id vocab="TGN" id="1061772" name="Arcos de la Frontera (inhabited place)" >}}
 
 ## Contributor
-
 [M. Orfila](link)
 [N. Doenges](link)
 

@@ -66,5 +66,3 @@ Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 11
 ##  Excavation Dates
 Excavated 1873. Bombed in 1943.
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

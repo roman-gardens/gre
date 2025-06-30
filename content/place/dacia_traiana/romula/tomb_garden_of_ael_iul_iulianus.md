@@ -66,7 +66,4 @@ Later second century/third century
 - {{< id vocab="Pleiades" id="981518" name="Dacia (province)" >}}
 - {{< id vocab="TGN" id="8712318" name="Romula (deserted settlement)" >}}
 
-## Contributor
-
-[John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 

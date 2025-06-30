@@ -86,7 +86,6 @@ https://babel.hathitrust.org/cgi/pt?id=hvd.32044081405060&seq=35
 
 
 ## Contributor
-
 Tom Elliott (https://pleiades.stoa.org/author/thomase)
 
 

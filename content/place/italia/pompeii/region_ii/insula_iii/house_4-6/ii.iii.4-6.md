@@ -55,9 +55,3 @@ B. The small garden to the rear of house 4 had an entrance into this large open 
 
 <!-- {{< id vocab="Pleiades" id="998787235" name="998787235" >}} is invalid -->
 
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-
-

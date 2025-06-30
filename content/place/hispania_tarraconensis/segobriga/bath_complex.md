@@ -94,5 +94,3 @@ Flavian times（A.D 69–96）
 - {{< id vocab="Pleiades" id="266036" name="Segobriga" >}}
 - {{< id vocab="TGN" id="8712888" name="Segobriga (deserted settlement)" >}}
 
-
-

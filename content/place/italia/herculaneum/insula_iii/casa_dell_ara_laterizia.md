@@ -97,6 +97,3 @@ unspecified
 *(for reference to Bonucci’s brief and inaccurate account of the excavation of this house, as preserved by Ruggerio)* [(worldcat)](#)
 
 
-## Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)

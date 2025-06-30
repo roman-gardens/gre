@@ -105,6 +105,5 @@ winter of 1938-1939
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor
-
 Thomas Morard
 

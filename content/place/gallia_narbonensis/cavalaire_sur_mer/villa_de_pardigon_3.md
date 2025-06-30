@@ -79,7 +79,6 @@ A,D. 200-300 garden transformed into a court then a dump
 
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

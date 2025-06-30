@@ -79,7 +79,4 @@ unspecified - 70 CE
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
-## Contributor
-
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 

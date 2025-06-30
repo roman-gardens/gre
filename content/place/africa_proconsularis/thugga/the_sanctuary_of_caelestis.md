@@ -23,7 +23,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 - [THUGGA (Dougga) Tunisia]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="315223" name="THUGGA (Dougga) Tunisia" >}}
 
-{{< image file="dougga_the_sanctuary_of_caelestis.jpg" caption="Plan of Thugga" credit="(Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" alt="Plan of Thugga" >}}
+{{< image file="dougga_the_sanctuary_of_caelestis.jpg" caption="Plan of Thugga" credit="(Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" alt="Plan of Thugga" >}}
 
 ## Location Description
 
@@ -57,7 +57,7 @@ The sanctuary of *Caelestis*, installed on the north-western outskirts of the ci
 ## Bibliography
 * Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](https://search.worldcat.org/title/7380877046)
 *  Golvin, J.-C., Khanoussi, M. (dir.), *Dougga, études d’architecture religieuse. Les sanctuaires desVictoires de Caracalla, de « Pluton » et de Caelestis* (Mémoires, 12), Bordeaux : Ausonius Éditions, 2005, pp. 99-182, fig.1, 21, 157, 171-172. [(worldcat)](https://search.worldcat.org/title/844610963)
-* Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, Brouquier Reddé, V., Baratte, Fr.,  Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, p. 366, pl. 16. [(worldcat)](https://search.worldcat.org/title/1028897747)
+* Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, Brouquier Reddé, V., Baratte, Fr., Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, p. 366, pl. 16. [(worldcat)](https://search.worldcat.org/title/1028897747)
 
 ## Places
 

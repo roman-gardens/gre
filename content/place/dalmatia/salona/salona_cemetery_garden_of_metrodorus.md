@@ -73,6 +73,3 @@ Late second or third century (CE)
 - {{< id vocab="Pleiades" id="197488" name="Salona" >}}
 - {{< id vocab="TGN" id="7017320" name="Solin (inhabited place)" >}}
 
-## Contributor
-
-[John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))

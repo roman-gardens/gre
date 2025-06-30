@@ -76,7 +76,4 @@ Opening off of the *triclinium* to the S was a smaller area enclosed by a portic
 - {{< id vocab="Pleiades" id="315248" name="Utica" >}}
 - {{< id vocab="TGN" id="7018163" name="Utica (deserted settlement)" >}}
 
-## Contributor
-
-[Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/)) \
 

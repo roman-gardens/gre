@@ -88,6 +88,3 @@ unspecified
 -
 - Maiuri, *Ercolano*, pp. 51, 392 and fig. 322 (plan) on p. 389 [(worldcat)](https://search.worldcat.org/title/490581395)
 
-## Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)

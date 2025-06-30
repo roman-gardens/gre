@@ -4,7 +4,7 @@ aliases: [/id/39d7c6a7c0]
 type: garden
 title: "Urban House East of Forum"
 latlon: [ 49.5, 4.5 ]
-author: 
+author: Maureen Carroll
 editor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29

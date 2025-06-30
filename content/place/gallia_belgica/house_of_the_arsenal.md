@@ -4,7 +4,7 @@ aliases: [/id/171b33f4c4]
 type: garden
 title: "House of the Arsenal (Maison de l’Arsenal)"
 latlon: [ 49.118135, 6.174155 ]
-author: 
+author: Maureen Carroll
 editor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29

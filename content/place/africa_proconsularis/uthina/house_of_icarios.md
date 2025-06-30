@@ -67,11 +67,11 @@ This richly decorated house is considered as one of the most remarkable *domus* 
 
 * Ben Hassen, H., Maurin, L., *Oudna (Uthina) La découverte d’une ville antique de Tunisie*, Paris, 1998.[(worldcat)](https://search.worldcat.org/title/492084212)
 * Ben Mansour, S., "Les mosaïques in situ de la maison d'Ikarios (dite des Laberii) à Uthina", in *Africa* 14, 1996, pp. 113-31.[(worldcat)](https://search.worldcat.org/title/949260343)
-* Blanc-Bijon V. and Darmon J-P.,  "Proposition pour une lecture du programme iconographique de la maison d'Icarios d'Oudna (Tunisie)", in *Bulletin de l'AIEMA*, 12, 1988-1989, pp. 294-304.[(worldcat)](https://search.worldcat.org/title/906497618)
+* Blanc-Bijon V. and Darmon J-P., "Proposition pour une lecture du programme iconographique de la maison d'Icarios d'Oudna (Tunisie)", in *Bulletin de l'AIEMA*, 12, 1988-1989, pp. 294-304.[(worldcat)](https://search.worldcat.org/title/906497618)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 325-329. [(worldcat)](https://search.worldcat.org/title/989088620)
 * Gauckler, P., "Le Domaine des Laberii à Uthina", in *MonPiot*, 2, 1896, p. 185, fig. 1, pp. 177-229.[(worldcat)](https://search.worldcat.org/title/888258356)
 * Malek,A.-A., "Mosaic and nature : "Cultural allusions to Nature in the Roman Domus", in *Gardens of the Roman Empire*, Volume II, eds., W. F. Jashemski, K. Gleason, A-A Malek, K. Hartswick, Cambridge University Press., NY, 2018, pp. 317-340, pp. 326-329.[(worldcat)](https://search.worldcat.org/title/1021392532)
-* Tomei, D., "Ancora sulla Casa d'Ikarios a Oudna. Qualche spunto di riflessione",  in *Antenor*, 3, 2002, pp. 63-88.[(worldcar)](https://search.worldcat.org/title/648821552)
+* Tomei, D., "Ancora sulla Casa d'Ikarios a Oudna. Qualche spunto di riflessione", in *Antenor*, 3, 2002, pp. 63-88.[(worldcar)](https://search.worldcat.org/title/648821552)
 
 ## Places
 

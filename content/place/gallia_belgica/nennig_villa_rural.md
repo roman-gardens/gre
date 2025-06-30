@@ -4,7 +4,7 @@ aliases: [/id/cf6297a793]
 type: garden
 title: "Rural Villa"
 latlon: [ 49.528992, 6.384557 ]
-author: 
+author: Maureen Carroll
 editor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29

@@ -288,8 +288,6 @@ Here is the corresponding code inside of the template:
         </div>
       {{ end }}
 
-
-
 ## Using Site (config) Parameters
 In your top-level configuration file (eg, `config.yaml`) you can define site
 parameters, which are values which will be available to you in chrome.

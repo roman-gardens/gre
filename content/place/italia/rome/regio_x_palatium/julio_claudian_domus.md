@@ -80,7 +80,7 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 ## Bibliography
 
 * J.-P Morel and F. Villedieu, "Le site de la Vigna Barberini à l’époque néronienne", *Actes du VIe congrès international Neronia VI, Rome à l’époque néronienne* (Roma 19-23 Mai 1999). [(worldcat)](https://search.worldcat.org/title/51441167)
-* J.-P Morel, "Una ricca domus con giardino in età giulio-claudia" in F. Villedieu, ed.,  *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 33-43. [(worldcat)](https://search.worldcat.org/title/5894435382)
+* J.-P Morel, "Una ricca domus con giardino in età giulio-claudia" in F. Villedieu, ed., *Il giardino dei Cesari*, Exhibition catalogue (Rome, Museo Nazionale Romano, Terme di Diocleziano, Oct. 2001- Jan. 2002), Rome, 2001, pp. 33-43. [(worldcat)](https://search.worldcat.org/title/5894435382)
 
 ## Places
 

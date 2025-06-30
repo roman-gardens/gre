@@ -87,7 +87,4 @@ Unspecified
 - {{< id vocab="Pleiades" id="811119038" name="Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus at Nakrason" >}}
 
 
-## Contributor
-
-[John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 

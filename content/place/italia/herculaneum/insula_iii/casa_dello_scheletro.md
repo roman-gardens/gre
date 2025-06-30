@@ -83,6 +83,3 @@ unspecified
 - Maiuri, *Ercolano*, pp. 51, 272-274 and fig. 213 (plan) on p. 266;[(worldcat)](https://search.worldcat.org/title/490581395)
 - Sear, *Roman wall and vault mosaics* no. 26, pp. 66-67, calls the shrine a fountain.[(worldcat)](https://search.worldcat.org/title/871655330)
 
-## Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)

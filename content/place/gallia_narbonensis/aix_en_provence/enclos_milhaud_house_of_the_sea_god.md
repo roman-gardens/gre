@@ -83,7 +83,6 @@ NEW WAY ↓↓↓↓
 - {{< id vocab="TGN" id="7010786" name="Aix-en-Provence (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

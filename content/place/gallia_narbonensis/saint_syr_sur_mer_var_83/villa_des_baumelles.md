@@ -52,7 +52,7 @@ Villa des Baumelles
 
 ## Villa Description
 
-On a cliff overlooking the sea stood a elegant maritime villa in what is now the quarter of the Baumelles.  Excavations go back to the eighteenth century, but new researches were carried out between 1969 and 1973.  The first building, dating from the times of Augustus or Tiberius was replaced during the last quarter of the first century by a grand residential villa which existed until the end of the fourth century, though there are traces, such as coins,  of very late occupancy even into the fifth century.  The luxurious *pars urbana* covered 1.4 hectares, while the pars agrarian spread out to the south.  The villa was supplied with drinkable water by an aqueduct.     
+On a cliff overlooking the sea stood a elegant maritime villa in what is now the quarter of the Baumelles.  Excavations go back to the eighteenth century, but new researches were carried out between 1969 and 1973.  The first building, dating from the times of Augustus or Tiberius was replaced during the last quarter of the first century by a grand residential villa which existed until the end of the fourth century, though there are traces, such as coins, of very late occupancy even into the fifth century.  The luxurious *pars urbana* covered 1.4 hectares, while the pars agrarian spread out to the south.  The villa was supplied with drinkable water by an aqueduct.     
 
 The villa descends, level by level, over several terraces that go down to the southwest towards the sea.  The top terrace, in the northeast, opens to the southwest onto an interior garden [1] 32 meters wide with a rectangular pool (2.4 by 14.5 meters) coated with *opus signinum*.  To the northeast, a colonnade (4.8 meters deep and 43 meters long) formed the façade in front of a residential wing, probably accessed by stairs.  From the portico behind the colonnade, paved with a white mosaic and with walls covered in marble, opened three reception rooms [ 3, 4 and 5].  The garden was bordered by a buttressed wall which marks its limit.  Along the southwest side ran a gallery in which a collector caught the rain water and drained it towards the pool [7] which could overflow into a channel leading to the sea.  This sector was not all built at the same time.  
 
@@ -88,7 +88,6 @@ To the south, a charming apartment overlooked the cove of the Madrague and may h
 
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

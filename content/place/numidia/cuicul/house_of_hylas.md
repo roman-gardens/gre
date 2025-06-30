@@ -56,7 +56,7 @@ On the side of the corridor leading from the Severan Forum, there was a garden, 
 
 ## Images
 
-{{< image file="house_of_hylas_photo.jpg" caption="Fig. 2: View of the corridor and the basin. On the background, the courtyard garden (Blanchard Lemée, M.,  AOrOc)" credit="" alt="View of the corridor and the basin. On the background, the courtyard garden." >}}
+{{< image file="house_of_hylas_photo.jpg" caption="Fig. 2: View of the corridor and the basin. On the background, the courtyard garden (Blanchard Lemée, M., AOrOc)" credit="" alt="View of the corridor and the basin. On the background, the courtyard garden." >}}
 
 ## Dates
 
@@ -74,6 +74,5 @@ On the side of the corridor leading from the Severan Forum, there was a garden, 
 ## Places
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}
 ## Contributor
-
 [Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)
 

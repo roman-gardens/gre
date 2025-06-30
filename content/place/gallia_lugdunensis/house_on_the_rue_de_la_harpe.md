@@ -4,7 +4,7 @@ aliases: [/id/0c274588c9]
 type: garden
 title: "House on the rue de la Harpe (Domus rue de la Harpe)"
 latlon: [ 49.022812, 1.151169 ]
-author: 
+author: Maureen Carroll
 editor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29
@@ -43,7 +43,7 @@ None Available
 Unspecified
 
 ## Bibliography
-- D. CLIQUET,  L’Eure,  27,  CAG p.136-137,  restitution  p.136. [(worldcat)](https://search.worldcat.org/title/715608474)
+- D. CLIQUET, L’Eure, 27, CAG p.136-137, restitution  p.136. [(worldcat)](https://search.worldcat.org/title/715608474)
 
 
 ## Places

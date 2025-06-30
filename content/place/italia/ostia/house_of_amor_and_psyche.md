@@ -114,6 +114,5 @@ unspecified
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor
-
 Elizabeth J. Shepherd
 

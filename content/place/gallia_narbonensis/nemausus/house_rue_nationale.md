@@ -66,7 +66,7 @@ A.D. 1
 
 ## Bibliography
 
-1. J.L. Fiches, A. Veyrac, *Nîmes*, CAG, 30/1, 1996,  P. 375-379
+1. J.L. Fiches, A. Veyrac, *Nîmes*, CAG, 30/1, 1996, P. 375-379
 
 2. P.Gros, J. Guyon, Ph. Leveau, dir.,*La maison urbaine d'époque romaine, Atlas des maisons de la Gaule narbonnaise*, t. II, Doc. d'Archéol. Vaucl, 6, 1996, Nîmes, fiche n°2 P. 192-193.[(worldcat)](https://search.worldcat.org/title/491576850)
 
@@ -79,7 +79,6 @@ A.D. 1
 - {{< id vocab="TGN" id="7008371" name="Nîmes (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

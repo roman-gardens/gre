@@ -4,7 +4,7 @@ aliases: [/id/ba3b853a83]
 type: garden
 title: "Tomb Garden of Terentia"
 latlon: [ 0, 0 ]
-author:
+author: John Bodel
 editor: Yuyao Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -46,7 +46,5 @@ A fragmentary (and probably reused) epitaph, probably of the first or second cen
 <!-- {{< id vocab="Pleiades" id="283772837" name="Tomb Garden of C. Nonius Minyas" >}} is invalid -->
 
 
-## Contributor
-John Bodel
 
 

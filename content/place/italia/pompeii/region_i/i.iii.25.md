@@ -62,7 +62,3 @@ B. The viridarium lay across the entire width of the house to the rear. The west
 ##  Excavation Dates
 Excavated 1869.
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-

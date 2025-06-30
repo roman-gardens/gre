@@ -63,7 +63,3 @@ At the rear of the house there was a [peristyle](http://vocab.getty.edu/page/aat
 ##  Excavation Dates
 Excavated 1873.
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-

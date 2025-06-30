@@ -99,7 +99,6 @@ NEW WAY ↓↓↓↓
 - {{< id vocab="TGN" id="5004109" name="Saint-Romain-en-Gal (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

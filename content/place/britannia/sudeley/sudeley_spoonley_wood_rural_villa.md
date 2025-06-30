@@ -63,10 +63,6 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 - {{< id vocab="TGN" id="7030316" name="Britannia (province)" >}}
 
 ## Contributor
-
-
-## ORCID:
-
 [Maureen Carroll](https://orcid.org/0000-0001-9958-8032))
 
 

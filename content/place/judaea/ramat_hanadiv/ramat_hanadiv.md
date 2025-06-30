@@ -79,8 +79,5 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 [#](#)-->
 
 ## Contributor
-
 [Yitzar Hirschfeld]
-
-
 

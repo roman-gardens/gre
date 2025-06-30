@@ -4,7 +4,7 @@ aliases: [/id/546d6c983a]
 type: garden
 title: "Monumental Tomb Garden Complex"
 latlon: [ 0, 0 ]
-author:
+author: John Bodel
 editor: Yuyao Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -43,7 +43,7 @@ The enclosed tomb garden, accessible only by an entranceway at the upper left co
 
 The plan has been dated as early as the Augustan age (by Huelsen, who favored De Rossi’s fanciful attribution of the tomb complex to "Turia", fragments of whose well known epitaph were found, similarly cut for reuse in  covering loculi, in the same cemetery of Centocelle [cf. CIL 6.37053 with 1527, 31670]), but the scale of the complex and the design of the monument seem more compatible with a date later in the first or second century.
 
-The Centocelle plan provides uniquely valuable, if ambiguous, evidence for the arrangement of the planting and the disposition of the monument within a Roman tomb garden (our other surviving plan of a tomb-garden complex [see Claudia Peloris] focuses on the internal articulation of the buildings), but it can hardly be considered typical: not only is the central monument of a form and type not found elsewhere in the region of Rome (the only known parallel is at Capua),  but the size of the plot dwarfs all others known in central Italy and is second in area only to the thirty-five iugera (almost twenty acres) of farm land dedicated by a  Roman knight at Parma to supporting his funerary celebrations (see C. Praeconius P.f. Ventilius Magnus). If the round dots do indeed represent trees and the stippled areas flower beds, the size of the area laid out primarily, it seems, for amenity (even if the trees bore fruit and the flowers produced garlands and perfume) is far larger than that of other attested funerary gardens in Italy that served primarily a decorative purpose. Productive funerary gardens of comparable and smaller area that we can identify elsewhere in Rome and Italy were normally equipped with work buildings (aedificia) and retail outlets (bars and shops, tabernae) (see vol. 2, XXX). The spaces on the plan flanking the courtyard and identified as storerooms could well have housed farming and gardening tools, but the footprint of the structure in the lower left corner seems ill-suited to the design of a tavern. More probably a collective monument (perhaps of a funerary collegium) than a familial tomb, the complex raises more questions than it resolves about the characteristic form and function of the Roman tomb garden (see no. XXX, funerary collegium of the Cocceii).
+The Centocelle plan provides uniquely valuable, if ambiguous, evidence for the arrangement of the planting and the disposition of the monument within a Roman tomb garden (our other surviving plan of a tomb-garden complex [see Claudia Peloris] focuses on the internal articulation of the buildings), but it can hardly be considered typical: not only is the central monument of a form and type not found elsewhere in the region of Rome (the only known parallel is at Capua), but the size of the plot dwarfs all others known in central Italy and is second in area only to the thirty-five iugera (almost twenty acres) of farm land dedicated by a  Roman knight at Parma to supporting his funerary celebrations (see C. Praeconius P.f. Ventilius Magnus). If the round dots do indeed represent trees and the stippled areas flower beds, the size of the area laid out primarily, it seems, for amenity (even if the trees bore fruit and the flowers produced garlands and perfume) is far larger than that of other attested funerary gardens in Italy that served primarily a decorative purpose. Productive funerary gardens of comparable and smaller area that we can identify elsewhere in Rome and Italy were normally equipped with work buildings (aedificia) and retail outlets (bars and shops, tabernae) (see vol. 2, XXX). The spaces on the plan flanking the courtyard and identified as storerooms could well have housed farming and gardening tools, but the footprint of the structure in the lower left corner seems ill-suited to the design of a tavern. More probably a collective monument (perhaps of a funerary collegium) than a familial tomb, the complex raises more questions than it resolves about the characteristic form and function of the Roman tomb garden (see no. XXX, funerary collegium of the Cocceii).
 
 
 ## Dates
@@ -67,7 +67,5 @@ The plan was dated as early as the Augustan age, the scale and design seem more 
 - {{< id vocab="Pleiades" id="423338213" name="Tomb Garden of Aur(elius) Inachus" >}}
 
 
-## Contributor
-John Bodel
 
 

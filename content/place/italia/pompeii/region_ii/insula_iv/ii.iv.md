@@ -100,9 +100,3 @@ Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
 
 - {{< id vocab="Pleiades" id="205387552" name="House of Julia Felix" >}}
 
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)  
-
-
-

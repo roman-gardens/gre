@@ -69,7 +69,3 @@ The garden east of the [atrium](http://vocab.getty.edu/page/aat/300004097) had a
 ##  Excavation Dates
 Excavated 1872.
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-

@@ -61,7 +61,7 @@ Doubtless also from the Augustan period is the monumental, elongated rectangular
 
 The water supply system for the pool is not known.  A nearby spring may have contributed to filling this 280 cubic meter pool, without, however having a sufficient output to fill the pool completely.  One can also imagine pumping from an inlet cut in the bank of the nearby river, and the contribution of captured rain water is not to be forgotten.  At the eastern end, a horizontal plughole permitted emptying the pool into a sewer.   Outside the pool, running underground along its north side was a drain designed to lower the ground water level, keep the subsoil healthy, and avoid uplift under the pool when it was emptied.  It is possible that, besides its ornamental function, the pool served for raising fish, though no chambers for egg laying were built into its walls and no submerged container for hatching was found, and  carpological samples have given no positive results.
 
-The first stage, described so far, was followed by a second in which an important restauration took place.  The west wall, which had shown signs of weakness, was rebuilt along nearly 40 meters, this time with regular blocks of limestone bound together with lime.  Rectangular pillars, encroaching on the garden,  marked off rhythmical intervals of the wall.  At the same time, fill added to the north west corner raised its level nearly a meter.  Excavation of this fill yielded numerous fragments of furniture and of construction material, including nearly 50 fragments of Campana plaques.  These fragments permit the dating of this whole operation to the beginning of the second century.  
+The first stage, described so far, was followed by a second in which an important restauration took place.  The west wall, which had shown signs of weakness, was rebuilt along nearly 40 meters, this time with regular blocks of limestone bound together with lime.  Rectangular pillars, encroaching on the garden, marked off rhythmical intervals of the wall.  At the same time, fill added to the north west corner raised its level nearly a meter.  Excavation of this fill yielded numerous fragments of furniture and of construction material, including nearly 50 fragments of Campana plaques.  These fragments permit the dating of this whole operation to the beginning of the second century.  
 
 A third stage corresponds to the late use of the garden.  In the southwest was installed the shop of a tile maker.  North of the west end of the pool, near one of the niches, stuck against two buttresses of the wall were built small baths.  They had a warm room with the pool in a little apse and a tepid room on little piles.  Heating was provided by an exterior fireplace in a court.  Since the pool was still filled with water, to connect to two halves of the area without a long detour around an end, a bridge was built over the pool.  It rested on monolithic piles made from re-used columns.  Some fifty coins and a purse lost at the bottom of the pool date this transformation to the second quarter of the fourth century.  
 
@@ -96,7 +96,6 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

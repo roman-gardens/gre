@@ -61,7 +61,3 @@ This small house, excavated in 1872, had no [atrium](http://vocab.getty.edu/page
 ##  Excavation Dates
 Excavated 1869
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-

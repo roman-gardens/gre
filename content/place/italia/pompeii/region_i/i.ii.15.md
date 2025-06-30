@@ -54,5 +54,3 @@ This humble house was excavated in 1873. It had no garden but the [impluvium](ht
 ##  Excavation Dates
 Excavated 1869 and 1873. Bombed in 1943.
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)

@@ -65,7 +65,4 @@ unspecified
 - {{< id vocab="Pleiades" id="270382" name="Urgapa" >}}
 - {{< id vocab="TGN" id="1061700" name="Alameda (inhabited place)" >}}
 
-## Contributor
-
-[John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 

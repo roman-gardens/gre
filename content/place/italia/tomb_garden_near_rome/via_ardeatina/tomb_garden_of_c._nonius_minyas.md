@@ -4,7 +4,7 @@ aliases: [/id/af71a50afa]
 type: garden
 title: "Tomb Garden of C. Nonius Minyas"
 latlon: [ 0, 0 ]
-author:
+author: John Bodel
 editor: Yuyao Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -54,6 +54,4 @@ late first or second century
 <!-- {{< id vocab="Pleiades" id="195817642" name="Tomb Garden of C. Nonius Minyas" >}} is invalid -->
 
 
-## Contributor
-John Bodel
 

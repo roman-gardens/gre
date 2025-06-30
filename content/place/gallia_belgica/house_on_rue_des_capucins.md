@@ -4,7 +4,7 @@ aliases: [/id/9621487dec]
 type: garden
 title: "House with Garden, rue des Capucins"
 latlon: [ 49.253877, 4.033055 ]
-author: 
+author: Maureen Carroll
 editor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29

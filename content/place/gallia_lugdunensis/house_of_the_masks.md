@@ -4,7 +4,7 @@ aliases: [/id/430f3773a2]
 type: garden
 title: "House of the Masks (Maison aux Masques)"
 latlon: [ 45.758866, 4.819481 ]
-author: 
+author: Maureen Carroll
 editor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29
@@ -48,7 +48,7 @@ Unspecified
 
 ## Bibliography
 - A.  Desbat, *Les  fouilles  de  la  rue  des  Farges  à  Lyon*, Groupe  lyonnais  de recherche en archéologie gallo-romaine, Lyon, 1984, p. 45-49 [(worldcat)](https://search.worldcat.org/title/406719832)
-- A. Desbat, *Jadis, rue des Farges, archéologie  d’un  quartier  de  Lyon  antique*,  exposition  au  Musée  de  la  Civilisation  Gallo-Romaine de Lyon, 1985.  [(worldcat)](https://search.worldcat.org/title/24275953)
+- A. Desbat, *Jadis, rue des Farges, archéologie  d’un  quartier  de  Lyon  antique*, exposition  au  Musée  de  la  Civilisation  Gallo-Romaine de Lyon, 1985.  [(worldcat)](https://search.worldcat.org/title/24275953)
 
 ## Places
 

@@ -55,7 +55,7 @@ The steep sides of the meseta and its height above the surrounding plain clearly
 ## Bibliography
 - B. Taracena Aguirre, *El palacio romano de Clunia*, in Archivo Español de Arqueología, XIX. C.S.I.C., Madrid, 1946, pp.78-80 [(worldcat)](https://search.worldcat.org/title/567842688)
 
-- A. Balil Iliana, *Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana*, in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid,  1972, pp. 125-133 [(worldcat)](https://search.worldcat.org/title/7243478)
+- A. Balil Iliana, *Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana*, in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid, 1972, pp. 125-133 [(worldcat)](https://search.worldcat.org/title/7243478)
 
 -  P. de Palol, *Clunia, Historia de la ciudad y guía de las excavaciones*. Diputación Provincial de Burgos, 1994 [(worldcat)](https://search.worldcat.org/title/34212878)
 

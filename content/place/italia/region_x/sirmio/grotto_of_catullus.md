@@ -104,7 +104,6 @@ unspecified
 - {{< id vocab="TGN" id="7005771" name="Sirmione (inhabited place)" >}}
 
 ## Contributor
-
 Tom Elliott (https://pleiades.stoa.org/author/thomase)
 
 

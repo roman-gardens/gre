@@ -34,7 +34,7 @@ Villa los Quintanares
 ## Garden Description
 
 Built in the second half of the 2nd century CE, it was destroyed during the invasions of the Franks after 256.  Following the recovery of the Empire under Claudius II and Aurelian (268 -275), it was rebuilt and enlarged, surviving into the 5th century. Water was brought to the villa  by a conduit from 1.5 km further up the Sequillo.
-The villa is built around two peristyles of similar size. The surrounding rooms featured more than 30 mosaics.  The western peristyle (11 x 11 m) was built first, with porticoes on all four sides of its central garden, and, a double gallery on the north side against the summer sun.  The later, eastern half had a slightly larger peristyle (12.5 x 21 m),  with galleries on three sides of its garden. A large hall extended directly off the fourth side.  The peristyle was richly adorned with sculptures, mosaics, and mural paintings.
+The villa is built around two peristyles of similar size. The surrounding rooms featured more than 30 mosaics.  The western peristyle (11 x 11 m) was built first, with porticoes on all four sides of its central garden, and, a double gallery on the north side against the summer sun.  The later, eastern half had a slightly larger peristyle (12.5 x 21 m), with galleries on three sides of its garden. A large hall extended directly off the fourth side.  The peristyle was richly adorned with sculptures, mosaics, and mural paintings.
 
 ## Maps
 
@@ -44,7 +44,7 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 
 ## Plans
 
-{{< image file="his_tar_cue_soria_fig1.jpg" caption="Fig.1 Villa los Quintanares, Rioseco de Soria, Soria.  Source: Gorges, Planche LIII" credit="" alt="Plan of Villa los Quintanares at Soria Province, Spain" >}}
+{{< image file="his_tar_cue_soria_fig1.jpg" caption="Fig.1 Villa los Quintanares, Rioseco de Soria, Soria." credit="Gorges, Planche LIII" alt="Plan of Villa los Quintanares at Soria Province, Spain" >}}
 
 ## Images
 

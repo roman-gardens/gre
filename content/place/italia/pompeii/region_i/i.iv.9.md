@@ -59,7 +59,3 @@ This garden contains a [cistern](http://vocab.getty.edu/page/aat/300052558) open
 ##  Excavation Dates
 Excavated 1855 and 1861.
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-

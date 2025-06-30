@@ -68,7 +68,7 @@ A.D. 1-100 constructed
 
 ## Bibliography
 
-1. Chr.  Goudineau,  Y.  de  Kisch,  Vaison-la-Romaine,  Guide  archéologique  de  France,  1999,  1ère  éd. 1984,  P. 74-77; [(worldcat)](https://search.worldcat.org/title/807347615)
+1. Chr.  Goudineau, Y.  de  Kisch, Vaison-la-Romaine, Guide  archéologique  de  France, 1999, 1ère  éd. 1984, P. 74-77; [(worldcat)](https://search.worldcat.org/title/807347615)
 
 2. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.251-254. [(worldcat)](https://search.worldcat.org/title/905795401)
 
@@ -80,7 +80,6 @@ A.D. 1-100 constructed
 - {{< id vocab="TGN" id="7008791" name="Fréjus (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

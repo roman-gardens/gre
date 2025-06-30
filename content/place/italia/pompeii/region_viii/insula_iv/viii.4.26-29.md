@@ -42,7 +42,7 @@ Directly across from the Temple of Isis was an entryway to this garden (a) which
 {{< image file="fig.20.region_viii._insula_iv.png" caption="Plan of Region VIII Insula IV" credit="" alt="Plan of Region VIII Insula IV" >}}
 
 ## Images
-{{< image file="fig.14.viii.iv.27_14.22.59.jpg" caption="Fig.14,  14.22.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig.14,  14.22.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image file="fig.14.viii.iv.27_14.22.59.jpg" caption="Fig.14, 14.22.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig.14, 14.22.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

@@ -67,7 +67,7 @@ At the north, a large vestibule gives access to a vast courtyard with a peristyl
 
 1. Bouet, Alain. La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise. Vaucluse: Service d'Archéologie du Conseil Général de Vaucluse, 1996, P. 94-96, fiche n°2, P. 104-105 [(worldcat)](https://search.worldcat.org/title/919659882)
 
-2. RIVET,  D.  BRENTCHALOFF,  S.  ROUCOLE,  S.  SAULNIER,  *Fréjus,  Atlas topographique  des  villes  de  gaule  méridionale*,  R.A.N.,  supplément  32,  Montpellier,  2000,  P. 251-257. [(worldcat)](https://search.worldcat.org/title/491603596)
+2. RIVET, D.  BRENTCHALOFF, S.  ROUCOLE, S.  SAULNIER, *Fréjus, Atlas topographique  des  villes  de  gaule  méridionale*, R.A.N., supplément  32, Montpellier, 2000, P. 251-257. [(worldcat)](https://search.worldcat.org/title/491603596)
 
 
 ## Places
@@ -77,7 +77,6 @@ At the north, a large vestibule gives access to a vast courtyard with a peristyl
 - {{< id vocab="TGN" id="7008791" name="Fréjus (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

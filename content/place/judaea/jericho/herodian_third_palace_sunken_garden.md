@@ -106,7 +106,7 @@ A huge pool (90 x 40 m.) built to the east of the sunken garden formed an integr
 * J. Kelso, James L. and Dimitri Baramki, "Excavations at New Testament Jericho and Kirbet en-Nitla," Annual of the American Schools of Oriental Research 29-30 (1949-51): 38-39
 * E. Netzer, The Palaces of the Hasmoneans and Herod the Great, Jerusalem: The Israel Exploration Society, 1999: 13-64 [wordcat](https://search.worldcat.org/title/1089147869)
 * Nielsen, Inge, Hellenistic Palaces,1994, 195-201 [wordcat](https://search.worldcat.org/title/468433476)
-* E. Netzer, The Hasmonean and Herodian Palaces at Jericho:  Final Reports of the 1973-1987 Excavations,  Vol. 1, Jerusalem:  Israel Exploration Society, 2001 : 287-298 [worldcat](https://search.worldcat.org/title/610635909)
+* E. Netzer, The Hasmonean and Herodian Palaces at Jericho:  Final Reports of the 1973-1987 Excavations, Vol. 1, Jerusalem:  Israel Exploration Society, 2001 : 287-298 [worldcat](https://search.worldcat.org/title/610635909)
 * E. Netzer, and Garbrecht G, "Water channels and a royal estate of the late Hellenistic period in Jericho’s eastern plains," in D. Amit, J. Patrich and Y.; Hirschfeld, eds, The Aqueducts of Israel. 353-365. JRA Supplement 46, R.I. 2002 [worldcat](https://search.worldcat.org/title/197716279)
 * J. Pritchard, "The Excavation at Herodian Jericho, 1951," The Annual of the American Schools of Oriental Research 32-3 (1952-4): 56-58. [worldcat](https://search.worldcat.org/title/256829094)
 * D. Langgut, and K. Gleason. "Identification of the Miniaturised Garden of King Herod The Great: The Fossil Pollen Evidence." STRATA: Bulletin of the Anglo-Israel Archaeological Society 38 (2020).

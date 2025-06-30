@@ -74,6 +74,3 @@ unspecified
 - Idem, Ercolano, pp.51, 263-264 and fig. 209 (plan) on p. 261
 
 
-## Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)

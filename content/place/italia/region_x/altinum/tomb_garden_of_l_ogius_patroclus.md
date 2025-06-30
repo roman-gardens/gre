@@ -67,8 +67,5 @@ unspecified
 - {{< id vocab="TGN" id="4000603" name="Altino (inhabited place)" >}}
 
 ## Contributor
-
 Sean Gillies (https://pleiades.stoa.org/author/sgillies)
-
-
 

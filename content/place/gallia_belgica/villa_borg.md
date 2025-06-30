@@ -4,7 +4,7 @@ aliases: [/id/3b6b0e6ae7]
 type: garden
 title: "Villa Borg"
 latlon: [ 49.496681, 6.457675 ]
-author: 
+author: Maureen Carroll
 editor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29

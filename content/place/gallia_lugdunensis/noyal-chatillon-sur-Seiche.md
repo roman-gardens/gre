@@ -4,7 +4,7 @@ aliases: [/id/b43a41fef1]
 type: garden
 title: "Villa de Châtillon-sur-Seiche"
 latlon: [ 48.042566, -1.65974 ]
-author: 
+author: Maureen Carroll
 editor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29

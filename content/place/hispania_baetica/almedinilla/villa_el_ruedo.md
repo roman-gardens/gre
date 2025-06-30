@@ -82,7 +82,6 @@ unspecified
 - {{< id vocab="TGN" id="4000563" name="Almedinilla (inhabited place)" >}}
 
 ## Contributor
-
 [Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 [D. Vaquerizo](link)
 

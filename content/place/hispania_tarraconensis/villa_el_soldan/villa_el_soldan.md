@@ -74,7 +74,7 @@ In the center of the peristyle was a rectangular pool with protruding semi-circu
 
 ## Plans
 
-{{< image file="his_tar_san_soldan_sultan_fig1.jpg" caption="Fig. 1:  Plan of Villa El Soldán.   Source: Gorges, Planche XXXVI" credit="" alt="Fig. 1:  Plan of Villa El Soldán." >}}
+{{< image file="his_tar_san_soldan_sultan_fig1.jpg" caption="Fig. 1:  Plan of Villa El Soldán." credit="Gorges, Planche XXXVI" alt="" >}}
 
 
 ## Dates
@@ -95,6 +95,4 @@ Tiberius times(A.D 14-37)
 
 - {{< id vocab="Pleiades" id="972371930" name="Villa El Soldán (The Sultan)" >}}
 - {{< id vocab="TGN" id="7325447" name="Santa Colomba de Somoza (inhabited place)" >}}
-
-
 

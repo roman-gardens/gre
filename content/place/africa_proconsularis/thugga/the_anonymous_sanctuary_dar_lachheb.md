@@ -24,7 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 - {{< id vocab="Pleiades" id="315223" name="THUGGA (Dougga) Tunisia" >}}
 
 
-{{< image file="dougga_the_anonymous_sanctuary_dar_lachheb.jpg" caption="Plan of Thugga" credit="(Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" alt="Plan of Thugga" >}}
+{{< image file="dougga_the_anonymous_sanctuary_dar_lachheb.jpg" caption="Plan of Thugga" credit="(Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" alt="Plan of Thugga" >}}
 
 ## Location Description
 
@@ -59,7 +59,7 @@ The anonymous sanctuary, called *Dar Lachheb* (184-187 CE), located about fifty 
 * Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](https://search.worldcat.org/title/7380877046)
 * Aounallah, S., Golvin, J.-C. (Dir.), Ben Rhomdane, H., Brouquier-Reddé, V., Chehidi, M.A., Ghaki, M., Khanoussi, M., Maurin, L., Saint-Amans, S., *Dougga, Études d'architecture religieuse 2. Les sanctuaires du forum, du centre de l'agglomération et de la Grande rue courbe* (Mémoires, 42), Bordeaux : Ausonius Éditions, 2016, p. 440, fig. 86. [(worldcat)](https://search.worldcat.org/title/957698433)
 *  Brouquier-Reddé, V., Chehidi, M.A., Ghaki M., Khanoussi M., Maurin L., Saint-Amans S., Dougga, Études d'architecture religieuse 2. *Les sanctuaires du forum, du centre de l'agglomération et de la Grande rue courbe* (Mémoires, 42), Bordeaux : Ausonius Éditions, 2016 pp. 393-476, fig. 29-32, 86. [(worldcat)](https://search.worldcat.org/title/949932485)
-* Malek,  A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, Brouquier Reddé, V., Baratte, Fr.,  Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, 364, pl. 14. [(worldcat)](https://search.worldcat.org/title/1028897747)
+* Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, Brouquier Reddé, V., Baratte, Fr., Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, 364, pl. 14. [(worldcat)](https://search.worldcat.org/title/1028897747)
 
 ## Places
 

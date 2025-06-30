@@ -45,7 +45,7 @@ A funerary plaque (evidently complete) discovered in 1861 beside the Via Praenes
 Unspecified
 
 ## Bibliography
-- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian,  BCom 92 (1987-88) [1989] 178 n. 20. [worldcat](https://search.worldcat.org/title/886794800)
+- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian, BCom 92 (1987-88) [1989] 178 n. 20. [worldcat](https://search.worldcat.org/title/886794800)
 
 ## Places
 

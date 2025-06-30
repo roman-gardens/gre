@@ -1,4 +1,4 @@
-# To begin the proccess,  I set out certain criteria for determining archaeological vs. literary gardens
+# To begin the proccess, I set out certain criteria for determining archaeological vs. literary gardens
 
 ## Here are criteria I came up with that would denote a literary garden:
 

@@ -88,5 +88,4 @@ NEW WAY ↓↓↓↓
 - {{< id vocab="TGN" id="7005539" name="Trieste (inhabited place)" >}}
 
 ## Contributor
-
 [Brady Kiesling](https://pleiades.stoa.org/author/bkiesling)

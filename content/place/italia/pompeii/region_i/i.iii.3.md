@@ -65,7 +65,3 @@ B. The front of this house excavated in 1869 had an unusual design in that it wa
 ##  Excavation Dates
 Excavated 1873.
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-

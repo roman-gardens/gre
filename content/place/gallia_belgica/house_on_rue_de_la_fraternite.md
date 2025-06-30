@@ -4,7 +4,7 @@ aliases: [/id/5df14b027f]
 type: garden
 title: "House on rue de la Fraternité"
 latlon: [ 50.292741, 2.778580 ]
-author: 
+author: Maureen Carroll
 editor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29
@@ -56,7 +56,7 @@ Unspecified
 
 ## Bibliography
 - Alain Jacques, Georges Jelski, "Arras antique, bilan et perspective" in *Les villes de la Gaule Belgique au Haut-Empire*, Actes du colloque tenu à Saint-Riquier (somme) le 22-23-24 octobre 1982, Revue achéologique de Picardie, p. 124-5. [(worldcat)](https://search.worldcat.org/title/313214592)
--  Delmaire  et  al., *Le Nord-Pas- de-Calais*, 62/1, CAG,  p. 145-147, fig. 46,  plan  p. 145; H. Stern I, 1 p. 101-102.  <!-- not on worldcat and last part seems to be in draft.-->
+-  Delmaire  et  al., *Le Nord-Pas- de-Calais*, 62/1, CAG, p. 145-147, fig. 46, plan  p. 145; H. Stern I, 1 p. 101-102.  <!-- not on worldcat and last part seems to be in draft.-->
 
 ## Places
 

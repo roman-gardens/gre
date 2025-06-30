@@ -75,7 +75,3 @@ B. The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the east
 ##  Excavation Dates
 Excavated 1869.
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-

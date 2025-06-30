@@ -85,6 +85,3 @@ unspecified
 ## Bibliography
 - Maiuri, *Ercolano*, p. 430 and fig. 370 (plan) on p. 427
 
-## Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)

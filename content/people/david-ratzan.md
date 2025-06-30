@@ -17,8 +17,6 @@ david.ratzan@nyu.edu
 ## Website
 https://isaw.nyu.edu/people/staff/david-m-ratzan
 
-
-
 {{< id vocab="ORCID" id="0000-0002-3047-5635" >}}
 
 

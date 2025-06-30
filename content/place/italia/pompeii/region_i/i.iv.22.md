@@ -59,7 +59,3 @@ Directly to the rear of the [atrium](http://vocab.getty.edu/page/aat/300004097),
 ##  Excavation Dates
 Excavated 1858 and 1862.
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-

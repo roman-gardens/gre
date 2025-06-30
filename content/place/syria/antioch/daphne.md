@@ -65,10 +65,10 @@ The purposeful evocation of a sacred landscape can be seen in the placement of t
 Hellenistic
 
 ## Bibliography
-- G. Downey,  *A History of Antioch in Syria from Seleucus to the Arab Conquest,* Princeton: Princeton University Press, 1961
+- G. Downey, *A History of Antioch in Syria from Seleucus to the Arab Conquest,* Princeton: Princeton University Press, 1961
 - J. Lassus, "La Mosaique de Yakto, " in eds. R. Stillwell, G.W. Elderkin, F.O. Waagé and D.B. Waagé, *Antioch-on-the-Orontes I,* Princeton: Department of Art and Archaeology, 1934, pp. 128-136
 - D. Levi, *Antioch Mosaic Pavements,* Princeton: Princeton University Press, 1947, pp. 326-337, pl. 79-80
-- E. Weber,  *Tabula Peutingeriana: Codex Vindobanensis 324,* Graz: Akademische Druck- u. Verlagsanstalt, 1976, p. 18.
+- E. Weber, *Tabula Peutingeriana: Codex Vindobanensis 324,* Graz: Akademische Druck- u. Verlagsanstalt, 1976, p. 18.
 
 ## Places
 

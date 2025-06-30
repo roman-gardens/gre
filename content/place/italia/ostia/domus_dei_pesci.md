@@ -97,6 +97,5 @@ unspecified
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
 
 ## Contributor
-
 [Stella Falzone](https://www.cespro-ostia.org/stella-falzone) <!-- is this a good website for Falzone? -->
 

@@ -79,6 +79,4 @@ Unspecified
 - {{< id vocab="Pleiades" id="550492" name="Cayster (river)" >}}
 - {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
 
-## Contributor
-[John Bodel](link) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 

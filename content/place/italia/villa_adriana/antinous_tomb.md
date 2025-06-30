@@ -53,7 +53,7 @@ The excavations proved that I was right and that, also if never completed, there
 
 From our researches we understood that at Hadrian’s death in the 138 A.D. the garden with its Egyptian temples and its enclosure was the only thing to have been completed. The part where the temple-tomb would have been erected (Fig. 79) was only indicated by the big stones with which the architects traced on the ground the principal lines of their plans (VITRUVIUS, I CENT B.C.; W. JONES). However the garden was there and from the soil analysis we also learned that it did survive until the end of the Empire and that was proved by  the content of lead of its soil, the same quantity of the one  we find in the Canopus’ area and in the other monumental parts of the Imperial Residence created on the plots of never irrigated land acquired by Hadrian, and tended up from the first II century’s years till the end of the Roman Empire (J. E. FOSS, 1989-1990; J. E. FOSS e E. SALZA PRINA RICOTTI, 1996).
 
-Of course all Hadrian’s successors had no intention to complete  Hadrian’s plan and, just to give  the garden a finishing touch,  they substituted the colossal temple-tomb by  a modest porch where Hadrian would not even bury a dog (Figg. 80 and 81).
+Of course all Hadrian’s successors had no intention to complete  Hadrian’s plan and, just to give  the garden a finishing touch, they substituted the colossal temple-tomb by  a modest porch where Hadrian would not even bury a dog (Figg. 80 and 81).
 
 However the garden had been completed and we could reconstruct it basing ourselves on the trenches for the boxtrees edges and the flowering bushes that had been cut in the tufa (Fig. 82). Then, going on, studying its interesting facade wall with niches for statues  on both sides, the east ones turned to the entrance road and the west ones looking at the garden (Fig. 83): 20 niches in which probably the 20 Egyptian statue found in the CVII and CVIII centuries excavations were displayed (C. FEA, 1790). Probably here at the two sides of the entrance door stood the two Telamons (H. WINNEFELD, 1895; E. Q. VISCONTI, 1782;  II, 18;  PENNA III, 29) similar to the representation of Antinous as an Egyptian god (WINNEFELD, 1895)  (Fig. 84) the one that with a Harpocrates, had been found in a nearby store room. No document exists for the two Telamons now set at the two sides of the entrance of the "Sala rotonda" in the Vatican Museums, but it is pretty certain that these two statues which in 1500 were set at the two sides of the door of Tivoli’s archbishopric see have been excavated in the Antinous’ tomb area.
 
@@ -153,6 +153,5 @@ unspecified
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
 ## Contributor
-
 [Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
 

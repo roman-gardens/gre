@@ -61,7 +61,7 @@ The peristyle garden had four porticoes supported by 14 columns and enclosed by 
 
 ## Bibliography
 
-* J. Baradez,  Libyca IX, 1960/1, p. 102-04, Pl. III, fig. 22. [hathitrust](https://catalog.hathitrust.org/Record/008568139)
+* J. Baradez, Libyca IX, 1960/1, p. 102-04, Pl. III, fig. 22. [hathitrust](https://catalog.hathitrust.org/Record/008568139)
 
 * J. Lassus, Rapport, Libyca VIII 1960/2, p. 66-7. [hathitrust](https://catalog.hathitrust.org/Record/008568139)
 

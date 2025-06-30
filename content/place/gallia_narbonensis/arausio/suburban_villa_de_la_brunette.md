@@ -79,7 +79,7 @@ A.D. 1-100 constructed
 
 ## Bibliography
 
-1.  J.-M. Mignon, I. Doray,  V. Faure, A. Bouet, *La  Brunette*  à  Orange  premier  établissement  antique    périurbain  (Vaucluse),  in  R.A.N.,  30,  1997,  P.173-202.
+1.  J.-M. Mignon, I. Doray, V. Faure, A. Bouet, *La  Brunette*  à  Orange  premier  établissement  antique    périurbain  (Vaucluse), in  R.A.N., 30, 1997, P.173-202.
 
 
 ## Places
@@ -89,7 +89,6 @@ A.D. 1-100 constructed
 - {{< id vocab="TGN" id="7599818" name="Vaucluse (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

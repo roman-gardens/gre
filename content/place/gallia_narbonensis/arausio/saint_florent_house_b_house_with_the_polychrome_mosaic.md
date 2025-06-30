@@ -66,7 +66,7 @@ It was of high quality construction with eight black and white floor mosaics wit
 
 1. Bellet, Michel-Edouard. *Orange Antique: Monuments Et Musée*. Paris: Imprimerie nationale, 1991, P. 70-71 [(worldcat)](https://search.worldcat.org/title/24832885)
 
-2. Maison 1996,  t. II, P. 229-237 and  P. 248-250.
+2. Maison 1996, t. II, P. 229-237 and  P. 248-250.
 
 ## Places
 
@@ -75,7 +75,6 @@ It was of high quality construction with eight black and white floor mosaics wit
 - {{< id vocab="TGN" id="7599818" name="Vaucluse (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

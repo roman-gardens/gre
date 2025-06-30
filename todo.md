@@ -58,9 +58,10 @@
 - [ ] backslashes \
 - [ ] DON'T LINK place searches from place pages (only from garden pages)
 - [ ] search: use lunr to remove stopwords from searches
-- [ ] images: check if alt and title are redundant
+- [ ] images: remove alt unless it provides additional info
 - [ ] fix or remove empty links -- search for "(#)"
 - [ ] update Leaflet from 1.6 to 1.9.4
+- [ ] cleanup double/triple spaces (skip arabia-petragarden!) AFTER we have cleaned up spaces from image filenames
 
 # from 2025-03-04, 2025-04-04, 2025-05-06, 2025-06-11 meetings
 

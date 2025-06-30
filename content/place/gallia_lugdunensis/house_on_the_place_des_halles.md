@@ -4,7 +4,7 @@ aliases: [/id/c48d798d77]
 type: garden
 title: "House on the Place des Halles (La maison des Halles)"
 latlon: [ 48.007160, 0.198493 ]
-author: 
+author: Maureen Carroll
 editor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29
@@ -67,7 +67,7 @@ This *domus* was on the Place des Halles, the former site of the covered market 
 Unspecified
 
 ## Bibliography
-- Service  Régional  de  l’Archéologie  des  Pays  de  la  Loire,  *La  Sarthe,*  72,  CAG p. 318-319,  plan  p. 318. [(worldcat)](https://search.worldcat.org/title/316192643)
+- Service  Régional  de  l’Archéologie  des  Pays  de  la  Loire, *La  Sarthe,*  72, CAG p. 318-319, plan  p. 318. [(worldcat)](https://search.worldcat.org/title/316192643)
 
 
 ## Places

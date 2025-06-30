@@ -62,7 +62,4 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 - {{< id vocab="Pleiades" id="491741" name="Thessalonica" >}}
 - {{< id vocab="TGN" id="7011182" name="Salonika (inhabited place)" >}}
 
-## Contributor
-
-[John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 

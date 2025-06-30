@@ -85,6 +85,3 @@ unspecified
 - Maiuri,Herculaneum,p. 46
 - Idem, Ercolano,p. 338
 
-## Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)

@@ -64,7 +64,4 @@ unspecified
 - {{< id vocab="Pleiades" id="315220" name="Thuburbo Maius" >}}
 - {{< id vocab="TGN" id="7001750" name="Kasba, Henchir el (deserted settlement)" >}}
 
-## Contributor
-
-[Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
 

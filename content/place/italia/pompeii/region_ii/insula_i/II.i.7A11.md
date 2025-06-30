@@ -63,8 +63,6 @@ PompeiiinPictures, 2018, *II.1.12 Pompeii. Complesso dei Riti magici or Magic Ri
 ##  Excavation Dates
 1954, 1957, 1963, 1985
 
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)  
 Jessica Venner (https://orcid.org/0000-0001-5828-6222)
 
 

@@ -93,7 +93,6 @@ After original finds in 1979, further vestiges of a domus came to light during s
 - {{< id vocab="TGN" id="7008441" name="Toulouse (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

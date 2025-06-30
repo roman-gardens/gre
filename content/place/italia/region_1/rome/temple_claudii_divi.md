@@ -73,7 +73,7 @@ The temple is set within eight L-shaped planting beds and fourteen rectangular p
 * M. Blake, *Roman Construction in Italy from Tiberius through the Flavians.* Washington, 1959, pp. 31-3, 52-3, 90-1. [(worldcat)](https://search.worldcat.org/title/466937796)
 * *LTUR*, s.v. Claudius, Divus, Templum by C. Buzzetti; [(worldcat)](https://search.worldcat.org/title/492434566)
 * A.M. Colini, *MemPontAcc 7* (1994): 137-62. [(worldcat)](https://search.worldcat.org/title/649938962)
-* R.H. Darwall-Smith,  *Emperors and Architecture: A Study of Flavian Rome.* Bruxelles, 1996, pp. 48-55, pl. 4-5. [(worldcat)](https://search.worldcat.org/title/1000784723)
+* R.H. Darwall-Smith, *Emperors and Architecture: A Study of Flavian Rome.* Bruxelles, 1996, pp. 48-55, pl. 4-5. [(worldcat)](https://search.worldcat.org/title/1000784723)
 * R. Lloyd, "Three Monumental Gardens on the Marble Plan" *American Journal of Archaeology* (1986): 91-100. [(worldcat)](https://search.worldcat.org/title/1076135742)
 * K. Gleason and L. Cockerham, "Rus in Urbe: Two Parks of Ancient Rome" *CELA Proceedings*, 1992, pp. 103-12.[(worldcat)](https://search.worldcat.org/title/741989882)
 

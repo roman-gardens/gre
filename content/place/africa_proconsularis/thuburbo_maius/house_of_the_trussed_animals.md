@@ -59,7 +59,7 @@ Early 3rd century CE
 
 ## Bibliography
 
-*  Alexander, Margaret A., *Corpus des Mosaïques de Tunisie*, *Thuburbo  Majus,  Les  mosaïques  de  la  région  du  Forum*,  INA,  Tunis, 1980, pp. 91-108, plan 21, 22. [(worldcat)](https://search.worldcat.org/title/23232759)
+*  Alexander, Margaret A., *Corpus des Mosaïques de Tunisie*, *Thuburbo  Majus, Les  mosaïques  de  la  région  du  Forum*, INA, Tunis, 1980, pp. 91-108, plan 21, 22. [(worldcat)](https://search.worldcat.org/title/23232759)
 * Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](https://search.worldcat.org/title/20058336)
 *  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.226-227. [(worldcat)](https://search.worldcat.org/title/989088620)
 
@@ -69,8 +69,4 @@ Early 3rd century CE
 - {{< id vocab="Pleiades" id="315220" name="Thuburbo Maius" >}}
 - {{< id vocab="TGN" id="7001750" name="Kasba, Henchir el (deserted settlement)" >}}
 
-## Contributor
-
-[Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
-<!--add in orcid id and info-->
 

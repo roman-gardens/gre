@@ -62,7 +62,7 @@ Excavations in the late 1940s and 1950s brought to light the remains of an urban
 
 
 ## Images
-{{< image file="his_tar_bar_hcbs_fig1.jpg" caption="House in Condes de Barcelona Street. Source: Balil Iliana." credit="" alt="House in Condes de Barcelona Street. Source: Balil Iliana." >}}
+{{< image file="his_tar_bar_hcbs_fig1.jpg" caption="House in Condes de Barcelona Street." credit="Balil Iliana." alt="" >}}
 
 
 ## Dates

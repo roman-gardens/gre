@@ -48,8 +48,5 @@ unspecified
 - {{< id vocab="Pleiades" id="89144" name="Cilurnum" >}}
 - {{< id vocab="TGN" id="7026064" name="Chesters (inhabited place)" >}}
 
-## Contributor
-
-[John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
 
 

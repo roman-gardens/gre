@@ -4,7 +4,7 @@ aliases: [/id/3fc4c08a87]
 type: garden
 title: "Villa des Tuillières"
 latlon: [ 47.319533, 4.796299 ]
-author: 
+author: Maureen Carroll
 editor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29
@@ -58,7 +58,7 @@ None Available
 Unspecified
 
 ## Bibliography
-- J.C. Beal with the collaboration of d'A. et A. Ruellet,  La resserre de Selongey (Côte d'Or): une collection d'objets de bois et d'ivoire dans la villa des Tuillières,» *Revue Archéologique de l'Est* xx
+- J.C. Beal with the collaboration of d'A. et A. Ruellet, La resserre de Selongey (Côte d'Or): une collection d'objets de bois et d'ivoire dans la villa des Tuillières,» *Revue Archéologique de l'Est* xx
 - E. Gauthier, M. Joly, « Vignoble et viticulture dans le centre-est de la Gaule au Ier siècle « .in: F. Favory/A. Vignot (eds.), Actualités de la Recherche en Histoire et Archéologie agraires. Actes du colloque international AGER V, Besançon 2000.
 - *Collection Annales Littéraires* No. 764, Série *Environnement*, sociétés et archéologie 5(2003) :191-208, Besançon;
 - A. Olivier, A. Ruellet, « Selongey, « La villa » In: Archéologie de Bourgogne. La Côte d'Or » Dijon, Musée Archéologique/Errance, Paris, 1990, pp. 77-78; A. Ruellet, « La villa des Tuillières à Selongey, » in L'autoroute au pays des Lingons. Archéologie et autoroute A31. Sociétés des autoroutes Paris-Rhin-Rhône, Dijon, 1989, pp. 34-39: A. and A. Ruellet, J.-C. Beal, « La villa de Selongey. » in Il était une fois la Côte d'Or. 20 ans de recherches archéologiques [exhibition catalogue Dijon, Musée archéologique], Paris, pp. 95-104; J. Wiethold, "’How to trace the 'Romanisation' of central Gaule by archaeobotanical analysis?" in F. Favory/A. Vignot (eds.), Actualités de la Recherche en Histoire et Archéologie agraires. Actes du colloque international AGER V, Besançon 2000. Collection Annales Littéraires No. 764, Série Environnement, sociétés et archéologie 5(2003) : 269-282.  <!-- No worldcat -->

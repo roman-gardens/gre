@@ -66,7 +66,7 @@ After original finds in 1979, further vestiges of a domus came to light during s
 
 ## Bibliography
 
-1. J.M. Rouquette, "Les découvertes du Crédit Agricole" in Claude Sintès, dir., *Du nouveau sur Arles antique*, Arles, 1987, p. 71-7;  Maison 1996 t. II,  p. 88-89.
+1. J.M. Rouquette, "Les découvertes du Crédit Agricole" in Claude Sintès, dir., *Du nouveau sur Arles antique*, Arles, 1987, p. 71-7;  Maison 1996 t. II, p. 88-89.
 
 
 ## Places
@@ -77,7 +77,6 @@ After original finds in 1979, further vestiges of a domus came to light during s
 - {{< id vocab="TGN" id="7008775" name="Arles (inhabited place)" >}}
 
 ## Contributor
-
 [Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
 
 [Emilie Chassillan](link)

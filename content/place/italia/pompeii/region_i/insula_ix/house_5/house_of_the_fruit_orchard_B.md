@@ -93,6 +93,5 @@ unspecified
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ## Contributor
-
 Unknown
 

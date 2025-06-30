@@ -71,6 +71,3 @@ unspecified
 - Maiuri, Ercolano, pp. 91, 100-102 and fig. 68 (plan) on p. 92
 - Ruggiero, Ercolano, p. 654 and pl. 12, where the garden is no. 55 on the plan.
 
-## Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)

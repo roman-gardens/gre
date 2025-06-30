@@ -93,5 +93,3 @@ The theater of Tarraco is poorly preserved.  Part of the orchestra, the proscaen
 - {{< id vocab="Pleiades" id="246349" name="Col. Tarraco" >}}
 - {{< id vocab="TGN" id="7008715" name="Tarragona (inhabited place)" >}}
 
-
-

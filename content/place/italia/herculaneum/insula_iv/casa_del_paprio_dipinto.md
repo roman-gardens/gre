@@ -83,6 +83,3 @@ unspecified
 - Maiuri, *Herculaneum*, pp. 32 [(worldcat)](https://search.worldcat.org/title/1107784297)
 - Maiuri, *Ercolano*, pp. 424 and fig. 365 (plan) on p. 424. [(worldcat)](https://search.worldcat.org/title/490581395)
 
-## Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)

@@ -70,7 +70,6 @@ unspecified
 unspecified
 
 ## Contributor
-
 Sean Gillies (https://pleiades.stoa.org/author/sgillies)
 
 

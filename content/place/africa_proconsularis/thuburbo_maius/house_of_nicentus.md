@@ -52,7 +52,7 @@ It was laid out around a peristyle garden (VI-X) of 12 columns (Plan view, Fig. 
 
 ## Plans
 
-{{< image file="AFR_Thub_Hn_Wjashemski1.jpg" caption="Fig. 1: Plan of the House of Nicentus ( CMT, V.  II,  fasc.1, plan 10-11)" credit="" alt="Plan of the House of Nicentus" >}}
+{{< image file="AFR_Thub_Hn_Wjashemski1.jpg" caption="Fig. 1: Plan of the House of Nicentus ( CMT, V.  II, fasc.1, plan 10-11)" credit="" alt="Plan of the House of Nicentus" >}}
 
 ## Dates
 
@@ -60,7 +60,7 @@ It was laid out around a peristyle garden (VI-X) of 12 columns (Plan view, Fig. 
 
 ## Bibliography
 
-*  Alexander, Margaret A., *Corpus des Mosaïques de Tunisie*, *Thuburbo  Majus*,  *Les  mosaïques  de  la  région  du  Forum*,  V.  II,  fasc.1, INA, Tunis, 1980, pp. 39-52, plan 10-11 [(worldcat)](https://search.worldcat.org/title/23232759)
+*  Alexander, Margaret A., *Corpus des Mosaïques de Tunisie*, *Thuburbo  Majus*, *Les  mosaïques  de  la  région  du  Forum*, V.  II, fasc.1, INA, Tunis, 1980, pp. 39-52, plan 10-11 [(worldcat)](https://search.worldcat.org/title/23232759)
 * Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](https://search.worldcat.org/title/20058336)
 *  Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.221-223. [(worldcat)](https://search.worldcat.org/title/989088620)
 
@@ -69,9 +69,3 @@ It was laid out around a peristyle garden (VI-X) of 12 columns (Plan view, Fig. 
 
 - {{< id vocab="Pleiades" id="315220" name="Thuburbo Maius" >}}
 - {{< id vocab="TGN" id="7001750" name="Kasba, Henchir el (deserted settlement)" >}}
-
-## Contributor
-
-[Wilhelmina Jashemski](http://worldcat.org/identities/lccn-n80037970/)
-<!--add in orcid id and info-->
-

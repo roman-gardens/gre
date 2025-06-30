@@ -49,9 +49,3 @@ This garden restaurant was strategically located across from the Palaestra. This
 
 <!-- {{< id vocab="Pleiades" id="425769173" name="425769173" >}} is invalid -->
 
-
-## Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-
-

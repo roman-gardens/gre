@@ -4,7 +4,7 @@ aliases: [/id/06bb2c57ba]
 type: garden
 title: "Temple Tomb Garden of Q. Haterius Tychicus"
 latlon: [ 0, 0 ]
-author:
+author: John Bodel
 editor: Yuyao Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -52,7 +52,5 @@ Unspecified
 <!-- {{< id vocab="Pleiades" id="229438406" name="Temple Tomb Garden of Q. Haterius Tychicus" >}} is invalid -->
 
 
-## Contributor
-John Bodel
 
 

@@ -72,9 +72,3 @@ House of Venus (Maison de Venus)
 - {{< id vocab="Pleiades" id="324774" name="Mactaris" >}}
 - {{< id vocab="TGN" id="5003670" name="Mactar (deserted settlement)" >}}
 
-## Contributor
-
-[Wilhelmina Jashemski](link) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/))
-
-
-

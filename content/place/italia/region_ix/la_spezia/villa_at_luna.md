@@ -65,7 +65,6 @@ unspecified
 - {{< id vocab="TGN" id="7003143" name="La Spezia (province)" >}}
 
 ## Contributor
-
 Jeffrey Becker
 
 

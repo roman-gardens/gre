@@ -83,6 +83,3 @@ unspecified
 - Maiuri, *Ercolano*, pp. 290-293, 295, 298, 300 and fig. 223 (plan) on p. 280.[(worldcat)](https://search.worldcat.org/title/490581395)
 
 
-## Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)

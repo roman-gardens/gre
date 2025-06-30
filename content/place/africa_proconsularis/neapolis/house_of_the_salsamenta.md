@@ -86,11 +86,3 @@ Unspecified
 
 - {{< id vocab="Pleiades" id="315093" name="Neapolis" >}}
 - {{< id vocab="TGN" id="1094981" name="Nabeul (inhabited place)" >}}
-
-## Contributor
-
-- [Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
-- Blanc-Bijon, Véronique
-
-
-

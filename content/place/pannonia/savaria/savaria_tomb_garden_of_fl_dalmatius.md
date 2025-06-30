@@ -57,6 +57,3 @@ A limestone slab found near the monastery of St. Martin in Szombathely (Savaria)
 - {{< id vocab="Pleiades" id="197498" name="Savaria" >}}
 - {{< id vocab="TGN" id="4008442" name="Pannonia (general region)" >}}
 
-## Contributor
-
-[John Bodel](https://www.brown.edu/academics/history/people/john-bodel) (ORCID: [0000-0003-1820-6368](https://orcid.org/0000-0003-1820-6368))
