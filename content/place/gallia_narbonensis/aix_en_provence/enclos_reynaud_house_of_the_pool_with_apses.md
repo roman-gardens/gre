@@ -55,13 +55,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
 
-{{< image src="enclos_reynaud_house_of_the_pool_with_apses.png" alt="Plan of the House of the Pool with Apses" title="Enclos Reynaud,House of the pool with apses" >}}
+{{< image file="enclos_reynaud_house_of_the_pool_with_apses.png" caption="Enclos Reynaud,House of the pool with apses" credit="" alt="Plan of the House of the Pool with Apses" >}}
 
 
 <!--## Images-->
@@ -71,7 +71,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

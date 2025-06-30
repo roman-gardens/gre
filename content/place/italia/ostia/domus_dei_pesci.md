@@ -45,7 +45,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Location Plan
 
-{{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+{{< image file="ostia_fig1.jpg" caption="Ostia Antica, General Plan." credit="" alt="General Plan of Ostia Antica" >}}
 
 ## Garden
 
@@ -66,7 +66,7 @@ One significant level of these successive transformations of the area is represe
 
 ## Plans
 
-{{< image src="ostia_fig16_better_colored.jpg" alt="Plan of the Garden beneath the House of the Fishes" title="Fig. 1: Plan (after Becatti, 1961)." >}}
+{{< image file="ostia_fig16_better_colored.jpg" caption="Fig. 1: Plan" credit="(after Becatti, 1961)." alt="Plan of the Garden beneath the House of the Fishes" >}}
 
 ## Dates
 

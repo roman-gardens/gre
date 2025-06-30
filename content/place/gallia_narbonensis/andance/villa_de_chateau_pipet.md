@@ -55,7 +55,7 @@ No date was proposed for the structure in the excavation reports.
 ## Plans
 
 
-{{< image src="villa_de_chateau_pipet.png" alt="Plan of Villa de Château-Pipet" title="Plan of Villa de Château-Pipet" >}}
+{{< image file="villa_de_chateau_pipet.png" caption="Plan of Villa de Château-Pipet" credit="" alt="Plan of Villa de Château-Pipet" >}}
 
 
 ## Dates

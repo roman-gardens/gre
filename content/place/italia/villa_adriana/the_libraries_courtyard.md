@@ -51,9 +51,9 @@ This garden belongs to the republican period and it is one of the most ancient o
 
 ## Plans
 
-{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image file="1_gardens_general_plan.jpg" caption="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the gardens at Hadrian's Villa" >}}
 
-{{< image src="35_library_courtyard.jpg" alt="Plan of the Libraries' Courtyard at Hadrian's Villa" title="Fig. 35: Plan of the Libraries' Courtyard, Eugenia Salza Prina Ricotti." >}}
+{{< image file="35_library_courtyard.jpg" caption="Fig. 35: Plan of the Libraries' Courtyard, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the Libraries' Courtyard at Hadrian's Villa" >}}
 
 ## Dates
 

@@ -48,23 +48,23 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 
 ## Plans
 
-{{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
 
-{{< image src="../Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." title="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement)." >}}
+{{< image file="../Region_I_insula_vii.jpg" caption="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach" credit="" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." >}}
 
 ## Images
 
-{{< image src="Fig_34_I.vii.3_54.8.64.jpg" alt="Fig. 3: I.vii. 54.8.64, S.A. Jashemski." title="Fig. 3: I.vii. 54.8.64, S.A. Jashemski (Rights Statement)." >}}
+{{< image file="Fig_34_I.vii.3_54.8.64.jpg" caption="Fig. 3: I.vii. 54.8.64, S.A. Jashemski" credit="" alt="Fig. 3: I.vii. 54.8.64, S.A. Jashemski." >}}
 
-{{< image src="Fig_35_I.vii.3_54.7.54.jpg" alt="Fig. 4: I.vii. 54.7.54, S.A. Jashemski." title="Fig. 4: I.vii. 54.7.54, S.A. Jashemski (Rights Statement)." >}}
+{{< image file="Fig_35_I.vii.3_54.7.54.jpg" caption="Fig. 4: I.vii. 54.7.54, S.A. Jashemski" credit="" alt="Fig. 4: I.vii. 54.7.54, S.A. Jashemski." >}}
 
-{{< image src="Fig_36_I.vii.3_53.38.64.jpg" alt="Fig. 5: I.vii. 53.38.64, S.A. Jashemski." title="Fig. 5: I.vii. 53.38.64, S.A. Jashemski (Rights Statement)." >}}
+{{< image file="Fig_36_I.vii.3_53.38.64.jpg" caption="Fig. 5: I.vii. 53.38.64, S.A. Jashemski" credit="" alt="Fig. 5: I.vii. 53.38.64, S.A. Jashemski." >}}
 
-{{< image src="Fig_37_I.vii.2_12.36.72.jpg" alt="Fig. 6: I.vii. 12.36.72, S.A. Jashemski." title="Fig. 6: I.vii. 12.36.72, S.A. Jashemski (Rights Statement)." >}}-->
+{{< image file="Fig_37_I.vii.2_12.36.72.jpg" caption="Fig. 6: I.vii. 12.36.72, S.A. Jashemski" credit="" alt="Fig. 6: I.vii. 12.36.72, S.A. Jashemski." >}}-->
 
 ## Dates
 Excavated 1911 and 1923.

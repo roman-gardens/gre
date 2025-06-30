@@ -24,7 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 - {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
-{{< image src="thuburbo_house_of_nicentus.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
+{{< image file="thuburbo_house_of_nicentus.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" >}}
 
 ## Location Description
 
@@ -52,7 +52,7 @@ It was laid out around a peristyle garden (VI-X) of 12 columns (Plan view, Fig. 
 
 ## Plans
 
-{{< image src="AFR_Thub_Hn_Wjashemski1.jpg" alt="Plan of the House of Nicentus" title="Fig. 1: Plan of the House of Nicentus ( CMT, V.  II,  fasc.1, plan 10-11)" >}}
+{{< image file="AFR_Thub_Hn_Wjashemski1.jpg" caption="Fig. 1: Plan of the House of Nicentus ( CMT, V.  II,  fasc.1, plan 10-11)" credit="" alt="Plan of the House of Nicentus" >}}
 
 ## Dates
 

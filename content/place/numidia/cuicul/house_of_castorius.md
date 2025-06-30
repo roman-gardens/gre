@@ -25,7 +25,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 - [Cuicul]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}
 
-{{< image src="cuicul_house_of_castorius.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
+{{< image file="cuicul_house_of_castorius.jpg" caption="Fig. 1: Plan of Cuicul" credit="(AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)" alt="Plan of Cuicul." >}}
 
 ## Location Description
 
@@ -56,12 +56,12 @@ The  L shaped space between the fish pool and the columns was probably planted.
 
 ## Plans
 
-{{< image src="house_of_castorius_plan1.jpg" alt="Plan of the House of Castorius." title="Fig. 1: Plan of the House of Castorius (Blanchard-Lemée, M., 1975, fig. 4)">}}
+{{< image file="house_of_castorius_plan1.jpg" caption="Fig. 1: Plan of the House of Castorius" credit="(Blanchard-Lemée, M., 1975, fig. 4)" alt="Plan of the House of Castorius." >}}
 
 ## Images
-{{< image src="house_of_castorius_photo1.jpg" alt="Southwest corner of the peristyle XVI, the L shaped planted area." title="Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)">}}
+{{< image file="house_of_castorius_photo1.jpg" caption="Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)" credit="" alt="Southwest corner of the peristyle XVI, the L shaped planted area." >}}
 
-{{< image src="house_of_castorius_photo2.jpg" alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool." title="Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)">}}
+{{< image file="house_of_castorius_photo2.jpg" caption="Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)" credit="" alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool." >}}
 
 ## Dates
 5th century

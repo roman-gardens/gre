@@ -54,20 +54,20 @@ During the third phase, in the 6th century, the entire garden, including the fou
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="asia_jud_caesarea_patrich_1.jpg" alt="Fig. 1: Plan of the garden area (Anna Iamim, Combined Caesarea Excavations)" title="Fig. 1: Plan of the garden area (Anna Iamim, Combined Caesarea Excavations)" >}}
+{{< image file="asia_jud_caesarea_patrich_1.jpg" caption="Fig. 1: Plan of the garden area (Anna Iamim, Combined Caesarea Excavations)" credit="" alt="Fig. 1: Plan of the garden area (Anna Iamim, Combined Caesarea Excavations)" >}}
 
 ## Images
 
-{{< image src="ASIA-JUD-CAESAREA-PATRICH-2.jpg" alt="Fig. 2: Reconstructed section of vaults and planting area showing roof garden construction (E. Clemence after J. Patrich)" title="Fig. 2: Reconstructed section of vaults and planting area showing roof garden construction (E. Clemence after J. Patrich)" >}}
+{{< image file="ASIA-JUD-CAESAREA-PATRICH-2.jpg" caption="Fig. 2: Reconstructed section of vaults and planting area showing roof garden construction (E. Clemence after J. Patrich)" credit="" alt="Fig. 2: Reconstructed section of vaults and planting area showing roof garden construction (E. Clemence after J. Patrich)" >}}
 
-{{< image src="asia_jud_caesarea_patrich_3.jpg" alt="Fig. 3: Reconstructed of Phases 1 with a surrounding reflection pool (I. Rabinowitz after J. Patrich)" title="Fig. 3: Reconstructed of Phases 1 with a surrounding reflection pool (I. Rabinowitz after J. Patrich)" >}}
+{{< image file="asia_jud_caesarea_patrich_3.jpg" caption="Fig. 3: Reconstructed of Phases 1 with a surrounding reflection pool (I. Rabinowitz after J. Patrich)" credit="" alt="Fig. 3: Reconstructed of Phases 1 with a surrounding reflection pool (I. Rabinowitz after J. Patrich)" >}}
 
-{{< image src="asia_jud_caesarea_patrich_4.jpg" alt="Fig. 4: Reconstructed of Phases 2 with a surrounding garden (I. Rabinowitz after J. Patrich)" title="Fig. 4: Reconstructed of Phases 2 with a surrounding garden (I. Rabinowitz after J. Patrich)" >}}
+{{< image file="asia_jud_caesarea_patrich_4.jpg" caption="Fig. 4: Reconstructed of Phases 2 with a surrounding garden (I. Rabinowitz after J. Patrich)" credit="" alt="Fig. 4: Reconstructed of Phases 2 with a surrounding garden (I. Rabinowitz after J. Patrich)" >}}
 
 ## Dates
 

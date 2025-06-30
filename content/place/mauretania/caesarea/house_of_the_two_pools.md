@@ -55,7 +55,7 @@ There is very little information about this house, only two semi circular pools 
 ## Plans
 
 ## Images
-{{< image src="house_of_the_two_pools.jpg" alt="One is fountain pool of the Ulysses and the Mermaids, the other is fountain of the Neptune" title="Fig. 1: One is fountain pool of the Ulysses and the Mermaids, the other is fountain of the Neptune (Ferdi, S., 2005, Djilali K.)">}}
+{{< image file="house_of_the_two_pools.jpg" caption="Fig. 1: One is fountain pool of the Ulysses and the Mermaids, the other is fountain of the Neptune" credit="(Ferdi, S., 2005, Djilali K.)" alt="One is fountain pool of the Ulysses and the Mermaids, the other is fountain of the Neptune" >}}
 
 ## Dates
 4th century

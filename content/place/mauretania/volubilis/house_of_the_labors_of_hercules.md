@@ -51,7 +51,7 @@ The House of the Labors of Hercules, dating to the beginning of the second centu
 
 ## Plans
 <!--Plan View Image Missing-->
-<!-- {{< image src="IMAGEMISSING" alt="Plan of the House of the Labors of Hercules" title="Fig. 1: Plan of the House of the Labors of Hercules (Rights Statement)">}} -->
+<!-- {{< image file="IMAGEMISSING" caption="Fig. 1: Plan of the House of the Labors of Hercules" credit="" alt="Plan of the House of the Labors of Hercules" >}} -->
 
 ## Images
 

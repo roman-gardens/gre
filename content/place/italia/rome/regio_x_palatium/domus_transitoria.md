@@ -75,9 +75,9 @@ RELATED PHASES ON THE PALATINE:
 
 ## Figures
 
-{{< image src="domus_transitoria_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1: Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
+{{< image file="domus_transitoria_fig1.jpg" caption="Fig. 1: Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." credit="" alt="Plan of the Palatine" >}}
 
-{{< image src="domus_transitoria_fig2.jpg" alt="Reconstruction of the Domus Transitoria Nymphaeum" title="Fig. 2: Nymphaeum of the Domus Transitoria. Hypothetical reconstruction by C. Evans (1936)." >}}
+{{< image file="domus_transitoria_fig2.jpg" caption="Fig. 2: Nymphaeum of the Domus Transitoria." credit="Hypothetical reconstruction by C. Evans (1936)." alt="Reconstruction of the Domus Transitoria Nymphaeum" >}}
 
 ## Dates
 

@@ -68,23 +68,23 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 <!--
 ## Maps
 
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="Ephesos Plan.jpg" alt="Plan of Ephesos terrace house 2 with courtyard in the middle and rooms surrounding it, Photo by N. Blanc" title="Plan of Ephesos terrace house 2">}}
+{{< image file="Ephesos Plan.jpg" caption="Plan of Ephesos terrace house 2" credit="" alt="Plan of Ephesos terrace house 2 with courtyard in the middle and rooms surrounding it, Photo by N. Blanc" >}}
 
 
 ## Images
 
 
-{{< image src="Ephesos Northwest corner 5a.jpg" alt="Garden painting in the North-West corner of the peristyle showing plants and painted windows with more surrounding context" title="Garden painting in the North-West corner of the peristyle" >}}
+{{< image file="Ephesos Northwest corner 5a.jpg" caption="Garden painting in the North-West corner of the peristyle" credit="" alt="Garden painting in the North-West corner of the peristyle showing plants and painted windows with more surrounding context" >}}
 
-{{< image src="photo by N. Blanc.jpg" alt=" Detail of the garden painting in the North-West corner of the peristyle showing plants in the foreground and trees with red fruits" title="Detail of the garden painting in the North-West corner of the peristyle, Photo by N. Blanc" >}}
+{{< image file="photo by N. Blanc.jpg" caption="Detail of the garden painting in the North-West corner of the peristyle." credit="Photo by N. Blanc" alt="Detail of the garden painting in the North-West corner of the peristyle showing plants in the foreground and trees with red fruits" >}}
 
-{{< image src="Ephesos West Wall.jpg" alt="Painting showing plants as discovered on the west wall of the terrace house 2" title="Painting as discovered on the west wall of the terrace house 2" >}}
+{{< image file="Ephesos West Wall.jpg" caption="Painting as discovered on the west wall of the terrace house 2" credit="" alt="Painting showing plants as discovered on the west wall of the terrace house 2" >}}
 
-{{< image src="Ephesos North Wall.jpg" alt="Painting showing plants as discovered on the North wall of the terrace house 2" title="Painting as discovered on the North wall of the terrace house 2" >}}
+{{< image file="Ephesos North Wall.jpg" caption="Painting as discovered on the North wall of the terrace house 2" credit="" alt="Painting showing plants as discovered on the North wall of the terrace house 2" >}}
 
 
 ## Dates

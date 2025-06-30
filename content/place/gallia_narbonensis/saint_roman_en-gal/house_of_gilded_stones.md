@@ -67,12 +67,12 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="house_of_the_gilded_stones.png" alt="Plan of House of the Gilded Stones" title="Plan of House of the Gilded Stones" >}}
+{{< image file="house_of_the_gilded_stones.png" caption="Plan of House of the Gilded Stones" credit="" alt="Plan of House of the Gilded Stones" >}}
 
 
 ## Dates

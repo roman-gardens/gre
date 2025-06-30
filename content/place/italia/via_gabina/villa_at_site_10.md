@@ -49,15 +49,15 @@ These two sites represent a rare glimpse of the transformation of suburban Rome 
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="fig04_recon_phase2d.jpg" alt="fig04_recon_phase2d" title="fig04_recon_phase2d">}}
+{{< image file="fig04_recon_phase2d.jpg" caption="fig04_recon_phase2d" credit="" alt="fig04_recon_phase2d" >}}
 
 ## Images
-{{< image src="fig05_recon_phase2d.jpg" alt="fig05_recon_phase2d." title="fig05_recon_phase2d.">}}
-{{< image src="fig06_10emboecus.jpg" alt="fig06_10emboecus." title="The Rape of Hylas.">}}
+{{< image file="fig05_recon_phase2d.jpg" caption="fig05_recon_phase2d." credit="" alt="fig05_recon_phase2d." >}}
+{{< image file="fig06_10emboecus.jpg" caption="The Rape of Hylas." credit="" alt="fig06_10emboecus." >}}
 
 ## Dates
 Unspecified

@@ -14,7 +14,7 @@
 		"scope": "markdown",
 		"prefix": "image",
 		"body": [
-			"{{< image src=\"${1:filename.jpg}\" alt=\"${2:alt text here}\" title=\"${3:caption}\" >}}",
+			"{{< image file=\"${1:filename.jpg}\" caption=\"${2:caption}\" credit=\"${3:image credit}\" alt=\"\" >}}",
 			"$0"
 		],
 		"description": "GRE image shortcode"

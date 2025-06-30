@@ -22,14 +22,14 @@ The so-called **perfumery** was equipped with a Rhodian peristyle (e), an open *
 
 <!--
 ## Maps
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="delos_fig6_perfumery_plan.jpg" alt="Archaeological plan of the ‘Perfumery'" title="Fig. 1: Plan of the ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, 1:250. Drawing by M. Trümper after Plassart 1916, pl. V-VII." >}}
+{{< image file="delos_fig6_perfumery_plan.jpg" caption="Fig. 1: Plan of the ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, 1:250." credit="Drawing by M. Trümper after Plassart 1916, pl. V-VII." alt="Archaeological plan of the ‘Perfumery'" >}}
 
 ## Images
-{{< image src="delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." title="Fig. 2: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast. Photo courtesy of M. Trümper." >}}
+{{< image file="delos_fig8_perfumery.jpg" caption="Fig. 2: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast." credit="Photo courtesy of M. Trümper." alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." >}}
 
 ## Bibliography
 - A. Plassart, "Fouilles de Délos exécutées aux frais de M. Le Duc de Loubat (1912-1913). Quartier d’habitations privées à l’est du stade," *BCH* 40, 1916: 166-175. [(Persée)](https://www.persee.fr/doc/bch_0007-4217_1916_num_40_1_1477).

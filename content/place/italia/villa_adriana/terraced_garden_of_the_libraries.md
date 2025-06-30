@@ -48,15 +48,15 @@ This terrace, leaning to the North on a sustaining wall, is the first one of a s
 
 ## Plans
 
-{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image file="1_gardens_general_plan.jpg" caption="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the gardens at Hadrian's Villa" >}}
 
-{{< image src="25_libraries.jpg" alt="Plan of the Libraries at Hadrian's Villa" title="Fig. 25: Plan of the Libraries, Eugenia Salza Prina Ricotti." >}}
+{{< image file="25_libraries.jpg" caption="Fig. 25: Plan of the Libraries, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the Libraries at Hadrian's Villa" >}}
 
 ## Images
 
-{{< image src="26_libraries_euripus.jpg" alt="Photograph of the Euripus in the Terraced garden of the Libraries at Hadrian's Villa" title="Fig. 26: Euripus, Eugenia Salza Prina Ricotti." >}}
+{{< image file="26_libraries_euripus.jpg" caption="Fig. 26: Euripus, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the Euripus in the Terraced garden of the Libraries at Hadrian's Villa" >}}
 
-{{< image src="27_fontana.jpg" alt="Photograph of a Fountain in the Terraced garden of the Libraries at Hadrian's Villa" title="Fig. 27: Fountain, Eugenia Salza Prina Ricotti." >}}
+{{< image file="27_fontana.jpg" caption="Fig. 27: Fountain, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of a Fountain in the Terraced garden of the Libraries at Hadrian's Villa" >}}
 
 ## Dates
 

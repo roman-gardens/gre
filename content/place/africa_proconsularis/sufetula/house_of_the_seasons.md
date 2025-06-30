@@ -43,19 +43,19 @@ House of the Seasons (La maison des Saisons)
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="AFR_Suf_hs_amalek1.jpg" alt="Plan of the House of the Seasons at Sufetula; rights statement" title="Fig. 1: Plan of the House of the Seasons. (Duval, N. and Hallier, G., 1972, fig. 11)" >}}
+{{< image file="AFR_Suf_hs_amalek1.jpg" caption="Fig. 1: Plan of the House of the Seasons." credit="(Duval, N. and Hallier, G., 1972, fig. 11)" alt="Plan of the House of the Seasons at Sufetula">}}
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

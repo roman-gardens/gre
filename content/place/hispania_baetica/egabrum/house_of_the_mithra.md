@@ -38,22 +38,22 @@ Excavations identified two building phases in the villa. The early Imperial phas
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 <!--## Plans-->
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 
-{{< image src="HIS_BAE_Ega_Hm_plan_CA fig1.jpg" alt="Fig. 1: Plan of the House of the Mithra.  Source: Gorges, Planche XXXIII. (Rights Statement)" >}}
+{{< image file="HIS_BAE_Ega_Hm_plan_CA fig1.jpg" caption="Fig. 1: Plan of the House of the Mithra.  Source: Gorges, Planche XXXIII." credit="" alt="" >}}
 
-{{< image src="HIS_BAE_Ega_Hm_photo_CA fig2.jpg" alt="Fig. 2: Photo of the peristyle looking northwest. (Rights Statement)" >}}
+{{< image file="HIS_BAE_Ega_Hm_photo_CA fig2.jpg" caption="Fig. 2: Photo of the peristyle looking northwest." credit="" alt="" >}}
 
-{{< image src="HIS_BAE_Ega_Hm_Mosaic_CA fig3.jpg" alt="Fig. 3: Photo of one of the mosaics from the House of Mithra on display at the municipal museum. (Rights Statement)" >}}
+{{< image file="HIS_BAE_Ega_Hm_Mosaic_CA fig3.jpg" caption="Fig. 3: Photo of one of the mosaics from the House of Mithra on display at the municipal museum." credit="" alt="" >}}
 
 
 ## Dates

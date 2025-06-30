@@ -24,7 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 - {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
-{{< image src="thuburbo_house_of_the_trussed_animals.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
+{{< image file="thuburbo_house_of_the_trussed_animals.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" >}}
 
 ## Location Description
 
@@ -50,7 +50,7 @@ The house of the Trussed Animals is bordered on the E by the Baths of the Capito
 
 ## Plans
 
-{{< image src="AFR_Thub_Hta_Wjashemski1.jpg" alt="Plan of the House of the Trussed Animals" title="Fig. 1: Plan of the House of the Trussed Animals (CMT, plan 21, 22)" >}}
+{{< image file="AFR_Thub_Hta_Wjashemski1.jpg" caption="Fig. 1: Plan of the House of the Trussed Animals (CMT, plan 21, 22)" credit="" alt="Plan of the House of the Trussed Animals" >}}
 
 ## Dates
 

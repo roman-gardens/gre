@@ -54,20 +54,20 @@ Foundations of garden architecture, water channels and garden soils of the late 
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="a_j_c_k_1.jpg" alt="Fig. 1: Plan of the Promontory Palace (J.H. Williams and A. Iamim): a) first phase (c. 22-15 BC) ; b) second phase (c. 15-4 BC)" title="Fig. 1: Plan of the Promontory Palace (J.H. Williams and A. Iamim): a) first phase (c. 22-15 BC) ; b) second phase (c. 15-4 BC)" >}}
+{{< image file="a_j_c_k_1.jpg" caption="Fig. 1: Plan of the Promontory Palace (J.H. Williams and A. Iamim): a) first phase (c. 22-15 BC) ; b) second phase (c. 15-4 BC)" credit="" alt="Fig. 1: Plan of the Promontory Palace (J.H. Williams and A. Iamim): a) first phase (c. 22-15 BC) ; b) second phase (c. 15-4 BC)" >}}
 
 ## Images
 
-{{< image src="A_J_C_K_2.jpg" alt="Fig. 2: Photograph of cuttings around pool for planters (K. Gleason)." title="Fig. 2:Photograph of cuttings around pool for planters (K. Gleason." >}}
+{{< image file="A_J_C_K_2.jpg" caption="Fig. 2:Photograph of cuttings around pool for planters (K. Gleason." credit="" alt="Fig. 2: Photograph of cuttings around pool for planters (K. Gleason)." >}}
 
-{{< image src="ASIA-JUD-CAESAREA-KGLEASON-3.jpg" alt="Fig. 3: Photograph of Hamra soil in courtyard (K. Gleason)." title="Fig. 3:Photograph of Hamra soil in courtyard (K. Gleason)." >}}
+{{< image file="ASIA-JUD-CAESAREA-KGLEASON-3.jpg" caption="Fig. 3:Photograph of Hamra soil in courtyard (K. Gleason)." credit="" alt="Fig. 3: Photograph of Hamra soil in courtyard (K. Gleason)." >}}
 
-{{< image src="a_j_c_k_4.jpg" alt="Fig. 4: Reconstruction drawing of the Promontory upper garden (Y. Korman)." title="Fig. 4 Reconstruction drawing of the Promontory upper garden (Y. Korman)" >}}
+{{< image file="a_j_c_k_4.jpg" caption="Fig. 4 Reconstruction drawing of the Promontory upper garden (Y. Korman)" credit="" alt="Fig. 4: Reconstruction drawing of the Promontory upper garden (Y. Korman)." >}}
 
 ## Dates
 

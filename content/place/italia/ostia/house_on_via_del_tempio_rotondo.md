@@ -45,7 +45,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Location Plan
 
-{{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+{{< image file="ostia_fig1.jpg" caption="Ostia Antica, General Plan." credit="" alt="General Plan of Ostia Antica" >}}
 
 ## Garden
 
@@ -72,13 +72,13 @@ This house was only partially excavated between June 1972 and January 1973 (Fig.
 
 ## Plans
 
-{{< image src="ostia_fig15_better_colored.jpg" alt="Plan of the House on Via del Tempio Rotundo" title="Fig. 1: Plan (after M. Supino; PA-OAnt, Archives)." >}}
+{{< image file="ostia_fig15_better_colored.jpg" caption="Fig. 1: Plan (after M. Supino; PA-OAnt, Archives)." credit="" alt="Plan of the House on Via del Tempio Rotundo" >}}
 
-{{< image src="ostia_fig17_better.jpg" alt="Plan of the peristyle, with column bases and flower pots" title="Fig. 2: Plan of the peristyle, with column bases and flower pots (from Messineo 1984)." >}}
+{{< image file="ostia_fig17_better.jpg" caption="Fig. 2: Plan of the peristyle, with column bases and flower pots" credit="(from Messineo 1984)." alt="Plan of the peristyle, with column bases and flower pots" >}}
 
 ## Photos
 
-{{< image src="ostia_fig23b.jpg" alt="A flower pot during 1973 excavation" title="Fig. 3: A flower pot during excavation, 1973 (PA-OAnt, Photo Archive)." >}}
+{{< image file="ostia_fig23b.jpg" caption="Fig. 3: A flower pot during excavation, 1973 (PA-OAnt, Photo Archive)." credit="" alt="A flower pot during 1973 excavation" >}}
 
 ## Dates
 

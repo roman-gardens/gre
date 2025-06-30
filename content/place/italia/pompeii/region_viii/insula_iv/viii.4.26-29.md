@@ -39,10 +39,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Directly across from the Temple of Isis was an entryway to this garden (a) which was located to the rear of the house. On the east there was a portico with two columns and high up on the north wall there was an arched niche.
 
 ## Plans
-{{< image src="fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" title="Plan of Region VIII Insula IV" >}}
+{{< image file="fig.20.region_viii._insula_iv.png" caption="Plan of Region VIII Insula IV" credit="" alt="Plan of Region VIII Insula IV" >}}
 
 ## Images
-{{< image src="fig.14.viii.iv.27_14.22.59.jpg" alt="Fig.14,  14.22.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig.14,  14.22.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image file="fig.14.viii.iv.27_14.22.59.jpg" caption="Fig.14,  14.22.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig.14,  14.22.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

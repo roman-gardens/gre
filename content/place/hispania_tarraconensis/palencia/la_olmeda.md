@@ -45,17 +45,17 @@ The large number of objects of daily life found in the ruins, some under toppled
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="olmeda_fig1.jpg" alt="Plan of La Olmeda at Pedrosa de La Vega, Palencia Province, Spain" title="Fig. 1: Plan of La Olmeda, Pedrosa de la Vega, Palencia.  Adapted from J. Cortes, La Olmeda" >}}
+{{< image file="olmeda_fig1.jpg" caption="Fig. 1: Plan of La Olmeda, Pedrosa de la Vega, Palencia." credit="Adapted from J. Cortes, La Olmeda" alt="Plan of La Olmeda at Pedrosa de La Vega, Palencia Province, Spain" >}}
 
 ## Images
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 <!--## Dates-->

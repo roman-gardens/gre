@@ -69,7 +69,7 @@ To the south, a charming apartment overlooked the cove of the Madrague and may h
 ## Plans
 
 
-{{< image src="villa_des_baumelles.jpg" alt="Plan of Villa des Baumelles" title="Plan of Villa des Baumelles" >}}
+{{< image file="villa_des_baumelles.jpg" caption="Plan of Villa des Baumelles" credit="" alt="Plan of Villa des Baumelles" >}}
 
 
 ## Dates

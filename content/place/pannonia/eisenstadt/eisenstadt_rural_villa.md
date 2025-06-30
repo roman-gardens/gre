@@ -40,7 +40,7 @@ The residence of this *villa rustica* was entered on the southeast by a portico 
 
 ## Plans
 
-{{< image src="PAN_EIS_Villa_M Carroll.jpg" alt="Fig. 1: Plan of the rural villa with a peristyle courtyard (G) and a podium (P) for sculpture. Adapted from Thomas 1964, fig. 73." title="Fig. 1: Plan of the rural villa with a peristyle courtyard (G) and a podium (P) for sculpture. Adapted from Thomas 1964, fig. 73. (Rights statement.)" >}}
+{{< image file="PAN_EIS_Villa_M Carroll.jpg" caption="Fig. 1: Plan of the rural villa with a peristyle courtyard (G) and a podium (P) for sculpture." credit="Adapted from Thomas 1964, fig. 73." alt="Fig. 1: Plan of the rural villa with a peristyle courtyard (G) and a podium (P) for sculpture. Adapted from Thomas 1964, fig. 73." >}}
 
 <!--## Images-->
 

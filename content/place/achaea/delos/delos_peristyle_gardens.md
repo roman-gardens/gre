@@ -24,16 +24,16 @@ Whether the *impluvium* of 30.20 square meters (a) of **House F** in insula II o
 
 <!--
 ## Maps
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="delos_fig7_theat_quart_houses_E_F.jpg" alt="Archaeological plan of houses E and F" title="Fig. 1:  Plan of Quarter of the Theater, Insula II, houses E and F, 1:250. Drawing by M. Trümper after J. Chamonard 1922/24, pl. III-IV." >}}
+{{< image file="delos_fig7_theat_quart_houses_E_F.jpg" caption="Fig. 1:  Plan of Quarter of the Theater, Insula II, houses E and F, 1:250." credit="Drawing by M. Trümper after J. Chamonard 1922/24, pl. III-IV." alt="Archaeological plan of houses E and F" >}}
 
 ## Images
-{{< image src="delos_fig9_theat_quart_ii_house_e.jpg" alt="Photo of courtyard inside house E" title="Fig. 2:  Quarter of the Theater, insula II, house E, overview of the courtyard from southwest. Photo courtesy of M. Trümper." >}}
+{{< image file="delos_fig9_theat_quart_ii_house_e.jpg" caption="Fig. 2:  Quarter of the Theater, insula II, house E, overview of the courtyard from southwest." credit="Photo courtesy of M. Trümper." alt="Photo of courtyard inside house E" >}}
 
-{{< image src="delos_fig10_theat_quart_house_f.jpg" alt="Photo of courtyard inside house F" title="Fig. 3:  Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest. Photo courtesy of M. Trümper." >}}
+{{< image file="delos_fig10_theat_quart_house_f.jpg" caption="Fig. 3:  Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest." credit="Photo courtesy of M. Trümper." alt="Photo of courtyard inside house F" >}}
 
 ## Bibliography
 - J. Chamonard, *Le Quartier du théâtre. Étude sur l’habitation délienne à l’époque hellénistique.* Exploration archéologique de Délos VIII. Paris 1922/24. [(worldcat)](https://search.worldcat.org/title/603845054).

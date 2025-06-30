@@ -50,17 +50,17 @@ The Northern or Hanging Palace, the latest of Herod’s constructions on the sit
 ## Maps
 
 
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="ASIA-JUD-MASADA-KGLEASON-1.jpg" alt="Fig. 1: Axonometric drawing of Masada (Gleason after Netzer 1999, fig. 124)." title="Axonometric drawing of Masada (Gleason after Netzer 1999, fig. 124)" >}}
+{{< image file="ASIA-JUD-MASADA-KGLEASON-1.jpg" caption="Axonometric drawing of Masada" credit="(Gleason after Netzer 1999, fig. 124)" alt="Fig. 1: Axonometric drawing of Masada (Gleason after Netzer 1999, fig. 124)." >}}
 
 ## Images
 
-{{< image src="ASIA-JUD-MASADA-KGLEASON-2.jpg" alt="Fig. 2: View of southern garden area with pools and columbarium." title="Fig. 2: View of southern garden area with pools and columbarium." >}}
-{{< image src="ASIA-JUD-MASADA-KGLEASON-3.jpg" alt="Fragments of a thick garland from the Northern Palace. Location of garden rooms is indicated with an asterix on Fig. 1. (Foerster, 1996)." title="Fig. 3:Fragments of a thick garland from the Northern Palace. Location of garden rooms is indicated with an asterix on Fig. 1. (Foerster, 1996)." >}}
+{{< image file="ASIA-JUD-MASADA-KGLEASON-2.jpg" caption="Fig. 2: View of southern garden area with pools and columbarium." credit="" alt="Fig. 2: View of southern garden area with pools and columbarium." >}}
+{{< image file="ASIA-JUD-MASADA-KGLEASON-3.jpg" caption="Fig. 3:Fragments of a thick garland from the Northern Palace. Location of garden rooms is indicated with an asterix on Fig. 1." credit="(Foerster, 1996)." alt="Fragments of a thick garland from the Northern Palace. Location of garden rooms is indicated with an asterix on Fig. 1. (Foerster, 1996)." >}}
 
 ## Dates
 

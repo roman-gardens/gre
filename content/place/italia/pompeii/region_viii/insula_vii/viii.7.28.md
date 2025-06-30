@@ -34,7 +34,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 This temple site was excavated in 1764-1766 and although, as Jashemski points out, it was likely that there was a sacred garden surrounding it, she could find no evidence of plantings remaining when she examined it. Ceremonies in a garden in front of a temple of Isis were depicted in two paintings found in Herculaneum (Mus. Naz. inv. nos. 8924, 8919; Ruesch nos. 1346, 1347). Gardens were often part of the cult of Egyptian temples.
 
 ## Plans
-{{< image src="fig.28.region_viii.insula_vii.24-27.png" alt="Fig. 28, Plan of Region VIII, Insula VII, 24-27" title="Fig. 28, Plan of Region VIII, Insula VII, 24-27" >}}
+{{< image file="fig.28.region_viii.insula_vii.24-27.png" caption="Fig. 28, Plan of Region VIII, Insula VII, 24-27" credit="" alt="Fig. 28, Plan of Region VIII, Insula VII, 24-27" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

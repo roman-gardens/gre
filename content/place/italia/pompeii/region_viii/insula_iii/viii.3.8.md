@@ -40,7 +40,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Fourteen fluted white columns supported a portico that enclosed this large garden (a) at the rear of the tablinium. A fence had been attached to the outside of the columns as evidenced by holes with metal pieces remaining; the top holes placed 0.75 m. high.  A grand view the length of the garden could be enjoyed from the large exedra (b) to the south, framed by two columns, and many other surrounding rooms had garden views.
 
 ## Plans
-{{< image src="fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
+{{< image file="fig.5._region_viii._insula_iii.png" caption="Plan of Region VIII Insula III" credit="" alt="Plan of Region VIII Insula III" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

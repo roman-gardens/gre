@@ -24,7 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 - {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
-{{< image src="thuburbo_house_of_bacchus_and_ariadne.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
+{{< image file="thuburbo_house_of_bacchus_and_ariadne.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" >}}
 
 ## Location Description
 
@@ -72,14 +72,14 @@ We next consider the identity of the many smaller roots.  Since this garden was 
 ## Maps
 
 ## Plans
-{{< image src="AFR_Thub_Hba_malek fig1.jpg" alt="Fig. 1: Plan of the House of Bacchus and Ariadne" title="Fig. 1: Plan of the House of Bacchus and Ariadne. (CMT, V. II, fasc.4, Pl. XXIV. Jashemski, W. F., 1995, p. 561, fig. 2)" >}}
+{{< image file="AFR_Thub_Hba_malek fig1.jpg" caption="Fig. 1: Plan of the House of Bacchus and Ariadne." credit="(CMT, V. II, fasc.4, Pl. XXIV. Jashemski, W. F., 1995, p. 561, fig. 2)" alt="Fig. 1: Plan of the House of Bacchus and Ariadne" >}}
 
 ## Images
-{{< image src="photography_of_the_decayed_tree_root.jpg" alt="Decayed tree root 23 cm in diameter (Photo J. Foss)" title="Fig. 2: Decayed tree root 23 cm in diameter. (Photo J. Foss, Jashemski, W. F., 1995, fig. 5)" >}}
+{{< image file="photography_of_the_decayed_tree_root.jpg" caption="Fig. 2: Decayed tree root 23 cm in diameter." credit="(Photo J. Foss, Jashemski, W. F., 1995, fig. 5)" alt="Decayed tree root 23 cm in diameter (Photo J. Foss)" >}}
 
-{{< image src="House_of_Bacchus_and_Ariadne_Detail_Plan.jpg" alt="Detail, Plan of courtyard garden, House of Bacchus and Ariadne" title="Fig. 3: Detail, Plan of courtyard garden, House of Bacchus and Ariadne. (Victoria I, Jashemski, W. F., 1995, fig. 7)" >}}
+{{< image file="House_of_Bacchus_and_Ariadne_Detail_Plan.jpg" caption="Fig. 3: Detail, Plan of courtyard garden, House of Bacchus and Ariadne." credit="(Victoria I, Jashemski, W. F., 1995, fig. 7)" alt="Detail, Plan of courtyard garden, House of Bacchus and Ariadne" >}}
 
-{{< image src="House_of_Bacchus_and_Ariadne_Drawing.jpg" alt="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne" title="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne. (Victoria I, Jashemski, W. F., 1995, fig. 11)" >}}
+{{< image file="House_of_Bacchus_and_Ariadne_Drawing.jpg" caption="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne." credit="(Victoria I, Jashemski, W. F., 1995, fig. 11)" alt="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne" >}}
 <!--convert photos to jpeg-->
 
 ## Dates

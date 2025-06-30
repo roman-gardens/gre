@@ -45,7 +45,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Location Plan
 
-{{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+{{< image file="ostia_fig1.jpg" caption="Ostia Antica, General Plan." credit="" alt="General Plan of Ostia Antica" >}}
 
 ## Garden
 
@@ -83,7 +83,7 @@ At present, this is the earliest *hortus* known in ancient Ostia.
 
 ## Figures
 
-{{< image src="ostia_fig18.jpg" alt="Plan of the Schola of the Trajan" title="Figure 1: Plan (from Morard, Wavelet 2002)." >}} <!--missing illustration-->
+{{< image file="ostia_fig18.jpg" caption="Figure 1: Plan" credit="(from Morard, Wavelet 2002)." alt="Plan of the Schola of the Trajan" >}} <!--missing illustration-->
 
 ## Dates
 

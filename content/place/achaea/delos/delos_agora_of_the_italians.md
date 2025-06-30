@@ -32,18 +32,19 @@ Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora
 
 <!--
 ## Maps
-{{< image src="filename.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="filename.ext" caption="CAPTION" alt="ALT_TEXT" >}}
 -->
 
-## Plans
-{{< image src="truemper1.png" alt="Plan of the agora" title="Fig. 1: Agora of the Italians, reconstructed plan of the original building (first phase). Drawing by M. Trümper." >}}
 
-{{< image src="truemper2.png" alt="Plan of the agora with surrounding buildings" title="Fig. 2: Agora of the Italians, reconstructed plan. Drawing by M. Trümper after Ét. Lapalus 1939, Fig. 2." >}}
+## Plans
+{{< image file="truemper1.png" caption="Fig. 1: Agora of the Italians, reconstructed plan of the original building (first phase)." credit="Drawing by M. Trümper." alt="" >}}
+
+{{< image file="truemper2.png" caption="Fig. 2: Agora of the Italians, reconstructed plan." credit="Drawing by M. Trümper after Ét. Lapalus 1939, Fig. 2." alt="" >}}
 
 ## Images
-{{< image src="truemper3.jpg" alt="Photo of Agora of the Italians from the southwest" title="Fig. 3: Agora of the Italians, overview from southwest. Photo courtesy of M. Trümper." >}}
+{{< image file="truemper3.jpg" caption="Fig. 3: Agora of the Italians, photo from the southwest." credit="Courtesy of M. Trümper." alt="" >}}
 
-{{< image src="truemper4.jpg" alt="Photo of Agora of the Italians from the southeast" title="Fig. 4:  Agora of the Italians, overview from southeast. Photo courtesy of M. Trümper." >}}
+{{< image file="truemper4.jpg" caption="Fig. 4:  Agora of the Italians, photo from the southeast." credit="Courtesy of M. Trümper." alt="" >}}
 
 ## Bibliography
 - P. Roussel and M. Launey, *Inscriptions de Délos*. Paris, 1937. [(worldcat)](https://search.worldcat.org/title/860534008).

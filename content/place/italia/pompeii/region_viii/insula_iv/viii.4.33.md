@@ -38,10 +38,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 This garden (a) was tucked around the right end of a long fauces which led from the street. The garden was enclosed by a low wall and a gutter on the north and west and a narrow portico with one column on the north. A cistern opening was built into the wall on the west. Two marble heads 0.16 m. high were found; one of yellow marble and bearded, with horns and an ivy crown, and the second of white marble with an ivy crown but beardless. They were of the type that is mounted on posts as garden ornaments and were uncovered in the room at the rear of the portico.
 
 ## Plans
-{{< image src="fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" title="Plan of Region VIII Insula IV" >}}
+{{< image file="fig.20.region_viii._insula_iv.png" caption="Plan of Region VIII Insula IV" credit="" alt="Plan of Region VIII Insula IV" >}}
 
 ## Images
-{{< image src="fig.15.viii.iv.33_9.34.59.jpg" alt="Fig. 15, 9.34.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 15, 9.34.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image file="fig.15.viii.iv.33_9.34.59.jpg" caption="Fig. 15, 9.34.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 15, 9.34.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

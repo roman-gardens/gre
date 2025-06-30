@@ -66,20 +66,20 @@ Among the objects found at Cours Pourtoules was a terracotta *oscillum* represen
 ## Plans
 
 
-{{< image src="cours_pourtoules_general_map.png" alt="General map of Cours Pourtoules" title="General map of Cours Pourtoules" >}}
+{{< image file="cours_pourtoules_general_map.png" caption="General map of Cours Pourtoules" credit="" alt="General map of Cours Pourtoules" >}}
 
-{{< image src="cours_pourtoules_general_map_phase1.png" alt="Phase 1 of Cours Pourtoules" title="Phase 1 of Course Pourtoules" >}}
+{{< image file="cours_pourtoules_general_map_phase1.png" caption="Phase 1 of Course Pourtoules" credit="" alt="Phase 1 of Cours Pourtoules" >}}
 
-{{< image src="cours_pourtoules_general_map_phase2.png" alt="Phase 2 of Cours Pourtoules" title="Phase 2 of Course Pourtoules" >}}
+{{< image file="cours_pourtoules_general_map_phase2.png" caption="Phase 2 of Course Pourtoules" credit="" alt="Phase 2 of Cours Pourtoules" >}}
 
-{{< image src="cours_pourtoules_general_map_phase3.png" alt="Phase 3 of Cours Pourtoules" title="Phase 3 of Course Pourtoules" >}}
+{{< image file="cours_pourtoules_general_map_phase3.png" caption="Phase 3 of Course Pourtoules" credit="" alt="Phase 3 of Cours Pourtoules" >}}
 
-{{< image src="cours_pourtoules_axonometric_reconstruction.png" alt="Cours Pourtoules, axonometric reconstruction by  P. Vallauri." title="Cours Pourtoules, axonometric reconstruction by  P. Vallauri. From Gallia 87-88, fig. 133 p. 322." >}}
+{{< image file="cours_pourtoules_axonometric_reconstruction.png" caption="Cours Pourtoules, axonometric reconstruction by  P. Vallauri. From Gallia 87-88, fig. 133 p. 322." credit="" alt="Cours Pourtoules, axonometric reconstruction by  P. Vallauri." >}}
 
 
 ## Images
 
-{{< image src="maquette_cours_pourtoules.png" alt="House Cours Pouroules" title="House Cours Pouroules" >}}
+{{< image file="maquette_cours_pourtoules.png" caption="House Cours Pouroules" credit="" alt="House Cours Pouroules" >}}
 
 
 ## Dates

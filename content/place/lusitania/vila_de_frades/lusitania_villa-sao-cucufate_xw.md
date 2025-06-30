@@ -46,21 +46,21 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="his_lus_villa_sao_cucufate_ph1_fig1.jpg" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain." title="Fig. 1: Plan of São Cucufate, Phase 1. From Alarcão, Roteiros." >}}
+{{< image file="his_lus_villa_sao_cucufate_ph1_fig1.jpg" caption="Fig. 1: Plan of São Cucufate, Phase 1. From Alarcão, Roteiros." credit="" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain." >}}
 
-{{< image src="his_lus_villa_sao_cucufate_ph2_fig2.jpg" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain." title="Fig. 2: Plan of Phase 2." >}}
+{{< image file="his_lus_villa_sao_cucufate_ph2_fig2.jpg" caption="Fig. 2: Plan of Phase 2." credit="" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain." >}}
 
-{{< image src="his_lus_villa_sao_cucufate_ph3_fig3.jpg" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain."  title="Fig. 3: Plan of Phase 3." >}}
+{{< image file="his_lus_villa_sao_cucufate_ph3_fig3.jpg" caption="Fig. 3: Plan of Phase 3." credit="" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain." >}}
 
 ## Images
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 <!--## Dates-->

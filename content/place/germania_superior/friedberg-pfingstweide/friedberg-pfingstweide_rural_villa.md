@@ -35,17 +35,17 @@ Built in the early 2nd century, the house was of the winged corridor type with a
 <!--## Maps-->
 
 <!--
-{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans
 
-{{< image src="EUR_GS_FriPfi_Rv_carroll.jpg" alt="Fig. 1: Plan of the villa (H) with a bath building (B) and with two possible garden enclosures (G) joined to the house at the north. Adapted from Baatz and Herrmann 1989, fig. 246." title="Fig. 1: Plan of the villa (H) with a bath building (B) and with two possible garden enclosures (G) joined to the house at the north. Adapted from Baatz and Herrmann 1989, fig. 246." >}}
+{{< image file="EUR_GS_FriPfi_Rv_carroll.jpg" caption="Fig. 1: Plan of the villa (H) with a bath building (B) and with two possible garden enclosures (G) joined to the house at the north." credit="Adapted from Baatz and Herrmann 1989, fig. 246." alt="Fig. 1: Plan of the villa (H) with a bath building (B) and with two possible garden enclosures (G) joined to the house at the north. Adapted from Baatz and Herrmann 1989, fig. 246." >}}
 
 <!--## Images-->
 
 <!--
-{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Dates

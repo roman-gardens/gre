@@ -34,7 +34,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Only the bases remain of the fourteen brick columns that enclosed this garden (a). The area to the back of this house had been cleared of the wreckage of the earthquake, and the house to the west was in an earlier stage of recovery, to the point where not even the entrance could be determined.
 
 ## Plans
-{{< image src="fig.20.region_viii.insula_vi.png" alt="Fig. 20, Plan of Region VIII, Insula VI" title="Fig. 20, Plan of Region VIII, Insula VI" >}}
+{{< image file="fig.20.region_viii.insula_vi.png" caption="Fig. 20, Plan of Region VIII, Insula VI" credit="" alt="Fig. 20, Plan of Region VIII, Insula VI" >}}
 
 
 ## Places

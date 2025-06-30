@@ -55,13 +55,13 @@ Luckily a small part of it was preserved, and here we still find the low parapet
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="102 - Pliny times.jpg" alt="102 - The Lauretinum as it was in Pliny’s times" title="102 - Pliny times">}}
-{{< image src="103 - Severian Laurentinum.jpg" alt="103 - Laurentinum in Severian times. Map of the excavations and surface remains." title="1103 - Laurentinum in Severian times">}}
-{{< image src="104 - Excav, Laurentinum.jpg" alt="104 - Excavations and survey of  the Cryptoporch and the Severian changes" title="104 - Excavations and survey of  the Cryptoporch and the Severian changes">}}
+{{< image file="102 - Pliny times.jpg" caption="102 - Pliny times" credit="" alt="102 - The Lauretinum as it was in Pliny’s times" >}}
+{{< image file="103 - Severian Laurentinum.jpg" caption="1103 - Laurentinum in Severian times" credit="" alt="103 - Laurentinum in Severian times. Map of the excavations and surface remains." >}}
+{{< image file="104 - Excav, Laurentinum.jpg" caption="104 - Excavations and survey of  the Cryptoporch and the Severian changes" credit="" alt="104 - Excavations and survey of  the Cryptoporch and the Severian changes" >}}
 
 
 ## Dates

@@ -41,9 +41,9 @@ Peristyle of the Petronii
 The courtyard of this large peristyle to the NE of the Summer Baths, dedicated by Petronius and his sons, may have been planted with avenues of trees as recommended by Vitruvius, and as in the *Palaetra* at Pompeii (Pan view, Fig. 1).
 
 ## Plan
-{{< image src="peristyle_des_petronii_plan.jpg" alt="Plan of the Peristyle of the Petronii " title="Fig. 1: Plan of the Peristyle of the Petronii " >}}
+{{< image file="peristyle_des_petronii_plan.jpg" caption="Fig. 1: Plan of the Peristyle of the Petronii" credit="" alt="Plan of the Peristyle of the Petronii " >}}
 ## Images
-{{< image src="peristyle_des_petronii_detail.jpg" alt="Detail Plan of the Peristyle of the Petronii " title="Fig. 2: Detail Plan of the Peristyle of the Petronii " >}}
+{{< image file="peristyle_des_petronii_detail.jpg" caption="Fig. 2: Detail Plan of the Peristyle of the Petronii" credit="" alt="Detail Plan of the Peristyle of the Petronii " >}}
 ## Dates
 
 ## Bibliography

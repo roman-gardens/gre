@@ -55,7 +55,7 @@ On entering from the east-west street, after passing through two incidental room
 ## Plans
 
 
-{{< image src="le_pinard_house_B.png" alt="Plan of Le Pinard, House B" title="Plan of Le Pinard, House B" >}}
+{{< image file="le_pinard_house_B.png" caption="Plan of Le Pinard, House B" credit="" alt="Plan of Le Pinard, House B" >}}
 
 
 ## Dates

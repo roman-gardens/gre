@@ -57,13 +57,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
 
-{{< image src="nar_6.4_enclos_reynaud_house_with_the_semicircular_bay_phase_I.png" alt="Plan of the House with the semicircular bay, phase I" title="House with the semicircular bay, phase I" >}}
+{{< image file="nar_6.4_enclos_reynaud_house_with_the_semicircular_bay_phase_I.png" caption="House with the semicircular bay, phase I" credit="" alt="Plan of the House with the semicircular bay, phase I" >}}
 
 
 <!--## Images-->
@@ -73,7 +73,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

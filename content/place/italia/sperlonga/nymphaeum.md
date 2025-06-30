@@ -44,24 +44,24 @@ These parts of the villa have been relatively spared and they are among the best
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="93-sperlonga-villa.jpg" alt="Sperlonga's Villa has board view,the peristyle garden was rounded by building, the south part had the Cryptoporch, the terrance and canal and so on ." title="the plan of Sperlonga's Villa.">}}
+{{< image file="93-sperlonga-villa.jpg" caption="the plan of Sperlonga's Villa." credit="" alt="Sperlonga's Villa has board view,the peristyle garden was rounded by building, the south part had the Cryptoporch, the terrance and canal and so on ." >}}
 
 ## Images
-{{< image src="91-sperlonga-grotto.jpg" alt="Plan. the general garden plan of Sperlonga." title="the general garden plan of Sperlonga.">}}
+{{< image file="91-sperlonga-grotto.jpg" caption="the general garden plan of Sperlonga." credit="" alt="Plan. the general garden plan of Sperlonga." >}}
 
-{{< image src="92-landslide.jpg" alt="The landslide." title="The landslide.">}}
+{{< image file="92-landslide.jpg" caption="The landslide." credit="" alt="The landslide." >}}
 
-{{< image src="95-cryptoporch-and-terrace.jpg" alt="Image Cryptoporch and terrace." title="Cryptoporch and terrace.">}}
+{{< image file="95-cryptoporch-and-terrace.jpg" caption="Cryptoporch and terrace." credit="" alt="Image Cryptoporch and terrace." >}}
 
-{{< image src="96 - The irrigation canal.jpg" alt="Image The irrigation canal." title="The irrigation canal.">}}
+{{< image file="96 - The irrigation canal.jpg" caption="The irrigation canal." credit="" alt="Image The irrigation canal." >}}
 
-{{< image src="97-terrace-parapet.jpg" alt="Terrace's parapet." title="Terrace's parapet.">}}
+{{< image file="97-terrace-parapet.jpg" caption="Terrace's parapet." credit="" alt="Terrace's parapet." >}}
 
-{{< image src="99-not-founded-wall.jpg" alt="Not founded Wall." title="Not founded Wall.">}}
+{{< image file="99-not-founded-wall.jpg" caption="Not founded Wall." credit="" alt="Not founded Wall." >}}
 
 
 ## Dates

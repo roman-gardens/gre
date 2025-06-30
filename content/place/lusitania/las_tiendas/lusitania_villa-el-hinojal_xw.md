@@ -45,17 +45,17 @@ The house appears to have been built at the end of the third or beginning of the
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="HIS LUS_Villa Hinojal.jpg" alt="Plan view of Villa de Hinojal at Las Tiendas province, Spain" title="Fig. 1: Plan of Villa El Hinojal. Adapted from J. M. Alvarez Martinez, 1976." >}}
+{{< image file="HIS LUS_Villa Hinojal.jpg" caption="Fig. 1: Plan of Villa El Hinojal." credit="Adapted from J. M. Alvarez Martinez, 1976." alt="Plan view of Villa de Hinojal at Las Tiendas province, Spain" >}}
 
 ## Images
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 <!--## Dates-->

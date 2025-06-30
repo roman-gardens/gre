@@ -56,9 +56,9 @@ PHASES OF THE VIGNA BARBERINI SITE:
 
 ## Figures
 
-{{< image src="vigna_barberini_fig1.jpg" alt="Aerial photograph of the Vigna Barberini" title="Fig. 1: Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma)." >}}
+{{< image file="vigna_barberini_fig1.jpg" caption="Fig. 1: Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma)." credit="" alt="Aerial photograph of the Vigna Barberini" >}}
 
-{{< image src="vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" title="Fig. 2: Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma)." >}}
+{{< image file="vigna_barberini_fig2.jpg" caption="Fig. 2: Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma)." credit="" alt="Plan of the Vigna Barberini" >}}
 
 ## Dates
 

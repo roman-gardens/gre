@@ -71,10 +71,10 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 
 
 ## Plans
-{{< image src="HIS_TAR_Emp_plan_fig2.jpg" alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." title="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." >}}
+{{< image file="HIS_TAR_Emp_plan_fig2.jpg" caption="Plan of Emporiae." credit="Adapted from Mar and Ruiz de Arbulo." alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." >}}
 
 ## Images
-{{< image src="HIS_TAR_Emp_aerial_viewfig1.jpg" alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." title="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." >}}
+{{< image file="HIS_TAR_Emp_aerial_viewfig1.jpg" caption="Aerial view of Emporiae at the end of the first century BC." credit="Adapted from Mar and Ruiz de Arbulo." alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." >}}
 
 
 ## Garden
@@ -92,9 +92,9 @@ These two adjacent houses are typical Tuscan atrium houses, both are against the
 
 
 ## Plans
-{{< image src="HIS_TAR_Emp_5_7_fig1.jpg" alt="Plan of Houses N7 and N5." title="Plan of Houses N7 and N5.  Adapted from Ampurias Romana, p.366." >}}
+{{< image file="HIS_TAR_Emp_5_7_fig1.jpg" caption="Plan of Houses N7 and N5." credit="Adapted from Ampurias Romana, p.366." alt="Plan of Houses N7 and N5." >}}
 
-{{< image src="HIS_TAR_Emp_5_7_fig2.jpg" alt="Plan of Houses N7 and N6." title="Plan of Houses N7 and N6.  Adapted from Mar and Ruiz de Arbulo." >}}
+{{< image file="HIS_TAR_Emp_5_7_fig2.jpg" caption="Plan of Houses N7 and N6." credit="Adapted from Mar and Ruiz de Arbulo." alt="Plan of Houses N7 and N6." >}}
 
 ## Dates
 Unspecified

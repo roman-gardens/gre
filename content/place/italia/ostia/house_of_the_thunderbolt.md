@@ -45,7 +45,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Location Plan
 
-{{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+{{< image file="ostia_fig1.jpg" caption="Ostia Antica, General Plan." credit="" alt="General Plan of Ostia Antica" >}}
 
 ## Garden
 
@@ -78,13 +78,13 @@ The house is one of the most interesting examples of the transition from the atr
 
 ## Figures
 
-{{< image src="ostia_fig8_better_colored.jpg" alt="Plan of Domus Fulminata" title="Figure 1: Plan (after Calza 1953)." >}}
+{{< image file="ostia_fig8_better_colored.jpg" caption="Figure 1: Plan" credit="(after Calza 1953)." alt="Plan of Domus Fulminata" >}}
 
-{{< image src="ostia_fig9.jpg" alt="Photo of the garden of the Domus Fulminata in 1941" title="Figure 2: Garden, 1941 (PA-OAnt, Photo Archive)." >}}
+{{< image file="ostia_fig9.jpg" caption="Figure 2: Garden, 1941 (PA-OAnt, Photo Archive)." credit="" alt="Photo of the garden of the Domus Fulminata in 1941" >}}
 
-{{< image src="ostia_fig12b.jpg" alt="Basin shaped as a well head in the garden of the Domus Fulminata" title="Figure 3: Basin shaped as a well-head (PA-OAnt, Photo Archive)." >}}
+{{< image file="ostia_fig12b.jpg" caption="Figure 3: Basin shaped as a well-head (PA-OAnt, Photo Archive)." credit="" alt="Basin shaped as a well head in the garden of the Domus Fulminata" >}}
 
-{{< image src="ostia_fig13b_threshold.jpg" alt="Section of the basin in th" title="Figure 4: Section of the basin (from Ricciardi, Scrinari 1996)." >}}
+{{< image file="ostia_fig13b_threshold.jpg" caption="Figure 4: Section of the basin" credit="(from Ricciardi, Scrinari 1996)." alt="Section of the basin in th" >}}
 
 ## Dates
 

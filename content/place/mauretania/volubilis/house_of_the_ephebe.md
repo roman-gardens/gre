@@ -49,7 +49,7 @@ The House of the Ephebe, approximately 1972 square meters and dating to the thir
 
 ## Plans
 <!--Plan View Image Missing-->
-<!-- {{< image src="IMAGEMISSING" alt="Plan of the House of the Ephebe" title="Fig. 1: Plan of the House of the Ephebe (Rights Statement)">}} -->
+<!-- {{< image file="IMAGEMISSING" caption="Fig. 1: Plan of the House of the Ephebe" credit="" alt="Plan of the House of the Ephebe" >}} -->
 
 ## Images
 

@@ -45,7 +45,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Location Plan
 
-{{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+{{< image file="ostia_fig1.jpg" caption="Ostia Antica, General Plan." credit="" alt="General Plan of Ostia Antica" >}}
 
 ## Garden
 
@@ -79,9 +79,9 @@ The portico [courtyard](http://vocab.getty.edu/page/aat/300004095) was a garden.
 
 ## Figures
 
-{{< image src="ostia_fig18.jpg" alt="Plan of the Schola of the Trajan" title="Figure 1: Plan (from Morard, Wavelet)." >}} <!--missing illustration-->
+{{< image file="ostia_fig18.jpg" caption="Figure 1: Plan (from Morard, Wavelet)." credit="" alt="Plan of the Schola of the Trajan" >}} <!--missing illustration-->
 
-{{< image src="ostia_fig19.jpg" alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations" title="Figure 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive)." >}} <!--missing illustration-->
+{{< image file="ostia_fig19.jpg" caption="Figure 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive)." credit="" alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations" >}} <!--missing illustration-->
 
 ## Dates
 

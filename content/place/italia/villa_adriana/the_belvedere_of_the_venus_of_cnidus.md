@@ -51,15 +51,15 @@ The Belvedere was created in those areas bought by Hadrian to have enough space 
 
 ## Plans
 
-{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image file="1_gardens_general_plan.jpg" caption="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the gardens at Hadrian's Villa" >}}
 
-{{< image src="31_belvedere.jpg" alt="Plan of the Venus of Cnidus Belvedere at Hadrian's Villa" title="Fig. 31: Plan of the Venus of Cnidus Belvedere, Eugenia Salza Prina Ricotti." >}}
+{{< image file="31_belvedere.jpg" caption="Fig. 31: Plan of the Venus of Cnidus Belvedere, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the Venus of Cnidus Belvedere at Hadrian's Villa" >}}
 
-{{< image src="33_cnido.jpg" alt="Isometric plan of Belvedere of the Venus of Cnidus at Hadrian's Villa" title="Fig. 33: Isometry of the Belvedere of the Venus of Cnidus." >}}
+{{< image file="33_cnido.jpg" caption="Fig. 33: Isometry of the Belvedere of the Venus of Cnidus." credit="" alt="Isometric plan of Belvedere of the Venus of Cnidus at Hadrian's Villa" >}}
 
 ## Images
 
-{{< image src="32_tempietto.jpg" alt="Photograph of the round temple sheltering a copy of the Venus of Cnidus at Hadrian's Villa" title="Fig. 32: The temple sheltering a copy of the Venus of Cnidus, Eugenia Salza Prina Ricotti." >}}
+{{< image file="32_tempietto.jpg" caption="Fig. 32: The temple sheltering a copy of the Venus of Cnidus, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the round temple sheltering a copy of the Venus of Cnidus at Hadrian's Villa" >}}
 
 
 ## Dates

@@ -61,22 +61,22 @@ While the theater belongs to multiple phases of construction, the aula sacra bel
 
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="his_lus_peristyle_theatre_fig1.jpg" alt="Fig. 1: Plan of the theater and peristyle." title="Fig. 1: Plan of the theater and peristyle." >}}
+{{< image file="his_lus_peristyle_theatre_fig1.jpg" caption="Fig. 1: Plan of the theater and peristyle." credit="" alt="Fig. 1: Plan of the theater and peristyle." >}}
 
 ## Images
 
-{{< image src="his_lus_peristyle_theatre_fig2.jpg" alt="Fig. 2: Photo of the theater peristyle garden." title="Fig. 2: Photo of the theater peristyle garden." >}}
+{{< image file="his_lus_peristyle_theatre_fig2.jpg" caption="Fig. 2: Photo of the theater peristyle garden." credit="" alt="Fig. 2: Photo of the theater peristyle garden." >}}
 
-{{< image src="his_lus_peristyle_theatre_fig3.jpg" alt="Fig. 3: Photo of the theater peristyle garden." title="Fig. 3: Photo of the theater peristyle garden." >}}
+{{< image file="his_lus_peristyle_theatre_fig3.jpg" caption="Fig. 3: Photo of the theater peristyle garden." credit="" alt="Fig. 3: Photo of the theater peristyle garden." >}}
 
-{{< image src="his_lus_peristyle_theatre_fig4.jpg" alt="Fig. 4: Photo of the theater peristyle garden." title="Fig. 4: Photo of the theater peristyle garden." >}}
+{{< image file="his_lus_peristyle_theatre_fig4.jpg" caption="Fig. 4: Photo of the theater peristyle garden." credit="" alt="Fig. 4: Photo of the theater peristyle garden." >}}
 
-{{< image src="his_lus_peristyle_theatre_fig5.jpg" alt="Fig. 5: Photo of the theater peristyle garden from the north side." title="Fig. 5: Photo of the theater peristyle garden from the north side." >}}
+{{< image file="his_lus_peristyle_theatre_fig5.jpg" caption="Fig. 5: Photo of the theater peristyle garden from the north side." credit="" alt="Fig. 5: Photo of the theater peristyle garden from the north side." >}}
 
 ## Dates
 

@@ -61,16 +61,16 @@ During the third stage dated to the beginning of the second half of the fourth c
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="Askleipeia_Building1.jpg" alt="Plan of the Asclepieia Building at althiburos; rights statement" title="Fig. 1: Plan of the Asclepieia Building (Rights statement)" >}}
+{{< image file="Askleipeia_Building1.jpg" caption="Fig. 1: Plan of the Asclepieia Building" credit="" alt="Plan of the Asclepieia Building at althiburos">}}
 
 ## Images
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

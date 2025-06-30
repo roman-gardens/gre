@@ -47,18 +47,18 @@ The large number of objects of daily life found in the ruins, some under toppled
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="his_tar_rie_baths_fig1.jpg" alt="Plan of The so-called \"Baths\" of Rielves at Toledo Province, Spain. The axial plan of this villa and its mosaics are representative of the luxurious villas of the late Imperial period. The semicircular colonnade, which enclosed the garden, was typical of North African villas. The garden may have been watered with run-off from the villa baths. " title="Fig. 1:  Plan of the \"Baths\" of Rielves." >}}
+{{< image file="his_tar_rie_baths_fig1.jpg" caption="Fig. 1:  Plan of the \"Baths\" of Rielves." credit="" alt="Plan of The so-called \"Baths\" of Rielves at Toledo Province, Spain. The axial plan of this villa and its mosaics are representative of the luxurious villas of the late Imperial period. The semicircular colonnade, which enclosed the garden, was typical of North African villas. The garden may have been watered with run-off from the villa baths. " >}}
 
 
 ## Images
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 <!--## Dates-->

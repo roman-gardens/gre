@@ -73,41 +73,41 @@ As we have said at the beginning the Temple-tomb was never completed. Antinous w
 
 ## Plans
 
-{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image file="1_gardens_general_plan.jpg" caption="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the gardens at Hadrian's Villa" >}}
 
-{{< image src="75_mappa_reggiani.jpg" alt="Map of the Reggiani Excavations at Antinous' tomb at Hadrian's Villa" title="Fig. 75: Map of the Reggiani Excavations at Antinous' tomb, Eugenia Salza Prina Ricotti." >}}
+{{< image file="75_mappa_reggiani.jpg" caption="Fig. 75: Map of the Reggiani Excavations at Antinous' tomb, Eugenia Salza Prina Ricotti." credit="" alt="Map of the Reggiani Excavations at Antinous' tomb at Hadrian's Villa" >}}
 
-{{< image src="76_plan_of_the_tomb.jpg" alt="Plan of the garden of Antinous' tomb at Hadrian's Villa" title="Fig. 76: Plan of the garden of Antinous' tomb, Eugenia Salza Prina Ricotti." >}}
+{{< image file="76_plan_of_the_tomb.jpg" caption="Fig. 76: Plan of the garden of Antinous' tomb, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the garden of Antinous' tomb at Hadrian's Villa" >}}
 
-{{< image src="77_visual_connection.jpg" alt="Plan showing the visual connection between Hadrian's quarters and Antinous' tomb" title="Fig. 77: Visual connection between Hadrian's quarters and Antinous' tomb, Eugenia Salza Prina Ricotti." >}}
+{{< image file="77_visual_connection.jpg" caption="Fig. 77: Visual connection between Hadrian's quarters and Antinous' tomb, Eugenia Salza Prina Ricotti." credit="" alt="Plan showing the visual connection between Hadrian's quarters and Antinous' tomb" >}}
 
-{{< image src="78_cross_sections.jpg" alt="Cross-section of the area cut to create a platform for Antinous' tomb at Hadrian's Villa" title="Fig. 78: Cross-section of the area cut to create a platform for Antinous' tomb, Eugenia Salza Prina Ricotti." >}}
+{{< image file="78_cross_sections.jpg" caption="Fig. 78: Cross-section of the area cut to create a platform for Antinous' tomb, Eugenia Salza Prina Ricotti." credit="" alt="Cross-section of the area cut to create a platform for Antinous' tomb at Hadrian's Villa" >}}
 
-{{< image src="79_hadrian's_plan.jpg" alt="Plan of Antinous' garden at Hadrian's death" title="Fig. 79: Plan of Antinous' garden at Hadrian's death, Eugenia Salza Prina Ricotti." >}}
+{{< image file="79_hadrian's_plan.jpg" caption="Fig. 79: Plan of Antinous' garden at Hadrian's death, Eugenia Salza Prina Ricotti." credit="" alt="Plan of Antinous' garden at Hadrian's death" >}}
 
-{{< image src="80_the_successors'_changes.jpg" alt="Plan of Antinous' garden as it was completed after Hadrian's death, showing the substitution of a small porch for Hadrian's grand plan" title="Fig. 80: Changing the grand plan of Hadrian into a little porch, Eugenia Salza Prina Ricotti." >}}
+{{< image file="80_the_successors'_changes.jpg" caption="Fig. 80: Changing the grand plan of Hadrian into a little porch, Eugenia Salza Prina Ricotti." credit="" alt="Plan of Antinous' garden as it was completed after Hadrian's death, showing the substitution of a small porch for Hadrian's grand plan" >}}
 
-{{< image src="81_little_porch.jpg" alt="Axonometric plan of Antinous' garden as it was completed after Hadrian's death, showing the transformation of Hadrian's plan into a modest porch by his successors" title="Fig. 81: Transformation of Hadrian's plan into a modest porch by his successors, Eugenia Salza Prina Ricotti." >}}
+{{< image file="81_little_porch.jpg" caption="Fig. 81: Transformation of Hadrian's plan into a modest porch by his successors, Eugenia Salza Prina Ricotti." credit="" alt="Axonometric plan of Antinous' garden as it was completed after Hadrian's death, showing the transformation of Hadrian's plan into a modest porch by his successors" >}}
 
-{{< image src="85_giardino_e_obelisco_colori.jpg" alt="Axonometric reconstruction of the garden of Antinous' tomb" title="Fig. 85: Reconstruction of the garden of Antinous' tomb, Eugenia Salza Prina Ricotti." >}}
+{{< image file="85_giardino_e_obelisco_colori.jpg" caption="Fig. 85: Reconstruction of the garden of Antinous' tomb, Eugenia Salza Prina Ricotti." credit="" alt="Axonometric reconstruction of the garden of Antinous' tomb" >}}
 
-{{< image src="88_jesuits_vineyards.jpg" alt="Section showing the cuts made in the tufa of the tomb's platform by the Jesuits" title="Fig. 88: Cuts made in the tufa of the tomb's platform by the Jesuits, Eugenia Salza Prina Ricotti." >}}
+{{< image file="88_jesuits_vineyards.jpg" caption="Fig. 88: Cuts made in the tufa of the tomb's platform by the Jesuits, Eugenia Salza Prina Ricotti." credit="" alt="Section showing the cuts made in the tufa of the tomb's platform by the Jesuits" >}}
 
-{{< image src="90_templi_di_antinoo.jpg" alt="Map of temples to Antinous" title="Fig. 90: Map of temples to Antinous, Eugenia Salza Prina Ricotti." >}}
+{{< image file="90_templi_di_antinoo.jpg" caption="Fig. 90: Map of temples to Antinous, Eugenia Salza Prina Ricotti." credit="" alt="Map of temples to Antinous" >}}
 
 ## Images
 
-{{< image src="82_trincee_siepi.1jpg" alt="Photograph of the trenches for boxtree edges and flowering bushes that were cut in the tufa of the tomb garden" title="Fig. 82: The trenches cut in the tufa for  boxtree edges and flowering bushes in the garden of Antinous' tomb, Eugenia Salza Prina Ricotti." >}}
+{{< image file="82_trincee_siepi.1jpg" caption="Fig. 82: The trenches cut in the tufa for  boxtree edges and flowering bushes in the garden of Antinous' tomb, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the trenches for boxtree edges and flowering bushes that were cut in the tufa of the tomb garden" >}}
 
-{{< image src="83_east_facade.jpg" alt="Photograph of what remains of the east facade of Antinous' tomb" title="Fig. 83: What remains of the east facade of Antinous' tomb, Eugenia Salza Prina Ricotti." >}}
+{{< image file="83_east_facade.jpg" caption="Fig. 83: What remains of the east facade of Antinous' tomb, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of what remains of the east facade of Antinous' tomb" >}}
 
-{{< image src="84_antinous-osiris.jpg" alt="representation of Antinous as an Egyptian god" title="Fig. 84: Representation of Antinous as an Egyptian god, from H. Winnefeld 1895, p. 154, courtesy of Eugenia Salza Prina Ricotti." >}}
+{{< image file="84_antinous-osiris.jpg" caption="Fig. 84: Representation of Antinous as an Egyptian god, from H. Winnefeld 1895, p. 154." credit="Courtesy of Eugenia Salza Prina Ricotti." alt="representation of Antinous as an Egyptian god" >}}
 
-{{< image src="86_opus_s._picc,_terme.jpg" alt="Photograph of the opus sectile on the floor of Hadrian's Villa, showing geometric marble inlays" title="Fig. 86: Opus sectile marble inlays on the floor of Hadrian's Villa, Eugenia Salza Prina Ricotti." >}}
+{{< image file="86_opus_s._picc,_terme.jpg" caption="Fig. 86: Opus sectile marble inlays on the floor of Hadrian's Villa, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the opus sectile on the floor of Hadrian's Villa, showing geometric marble inlays" >}}
 
-{{< image src="87_marble_for_the_kilns.jpg" alt="Photograph of marble bricks and fragments of statues and architectural moldings taken over centuries from Hadrian's Villa by the local people to be used in their buildings or burned in their kilns to make lime" title="Fig. 87: Marble bricks and fragments of statues and architectural moldings taken over centuries from Hadrian's Villa to be used in buildings or burned in kilns to make lime, Eugenia Salza Prina Ricotti." >}}
+{{< image file="87_marble_for_the_kilns.jpg" caption="Fig. 87: Marble bricks and fragments of statues and architectural moldings taken over centuries from Hadrian's Villa to be used in buildings or burned in kilns to make lime, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of marble bricks and fragments of statues and architectural moldings taken over centuries from Hadrian's Villa by the local people to be used in their buildings or burned in their kilns to make lime" >}}
 
-{{< image src="89_cuts_in_the_tufa.jpg" alt="Photograph showing the cuts made in the tufa of the tomb's platform by the Jesuits" title="Fig. 89: Cuts made in the tufa of the tomb's platform by the Jesuits, Eugenia Salza Prina Ricotti." >}}
+{{< image file="89_cuts_in_the_tufa.jpg" caption="Fig. 89: Cuts made in the tufa of the tomb's platform by the Jesuits, Eugenia Salza Prina Ricotti." credit="" alt="Photograph showing the cuts made in the tufa of the tomb's platform by the Jesuits" >}}
 
 ## Dates
 

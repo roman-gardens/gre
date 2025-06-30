@@ -49,18 +49,18 @@ The houses were excavated around 1940, at a time when there was no thought of re
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="HIS LUS_Conim_skeletons_plan_CA fig1.jpg" alt="Plan of the House of the Skeletons at Conimbriga, Lusitania Province, Spain." title="Fig. 1: Plan of the House of the Skeletons." >}}
+{{< image file="HIS LUS_Conim_skeletons_plan_CA fig1.jpg" caption="Fig. 1: Plan of the House of the Skeletons." credit="" alt="Plan of the House of the Skeletons at Conimbriga, Lusitania Province, Spain." >}}
 
 ## Images
 
-{{< image src="HIS LUS_Conim_skeletons_photo2_CA fig3.jpg" title="Fig. 2: Photo of peristyle at the House of the Skeleton." >}}
+{{< image file="HIS LUS_Conim_skeletons_photo2_CA fig3.jpg" caption="Fig. 2: Photo of peristyle at the House of the Skeleton." credit="" alt="" >}}
 
-{{< image src="HIS LUS_Conim_skeletons_photo_CA fig2.jpg" title="Fig. 3: Photo showing the relation of the garden to other rooms of house." >}}
+{{< image file="HIS LUS_Conim_skeletons_photo_CA fig2.jpg" caption="Fig. 3: Photo showing the relation of the garden to other rooms of house." credit="" alt="" >}}
 
 <!--## Dates-->
 

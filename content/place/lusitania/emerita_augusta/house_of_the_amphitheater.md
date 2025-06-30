@@ -65,18 +65,18 @@ An equally important second nucleus of this house consisted of a complex of room
 
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="his_lus_col_augusta_ha_fig1.jpg" alt="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left.  Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century." title="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left.  Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century.  Adapted from the tourist guide issued by the Mérida Consorzio." >}}
+{{< image file="his_lus_col_augusta_ha_fig1.jpg" caption="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left.  Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century." credit="Adapted from the tourist guide issued by the Mérida Consorzio." alt="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left.  Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century." >}}
 
-{{< image src="his_lus_col_augusta_ha_plan_fig3_alternate.jpg" alt="Fig. 2: Plan of the House of the Amphitheater." title="Fig. 2: Plan of the House of the Amphitheater.  Adapted from Casillas Moreno, where it was taken from De Alvarado Barrena." >}}
+{{< image file="his_lus_col_augusta_ha_plan_fig3_alternate.jpg" caption="Fig. 2: Plan of the House of the Amphitheater." credit="Adapted from Casillas Moreno, where it was taken from De Alvarado Barrena." alt="Fig. 2: Plan of the House of the Amphitheater." >}}
 
 ## Images
 
-{{< image src="his_lus_col_augusta_ha_photo_fig2.jpg" alt="Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater." title="Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater." >}}
+{{< image file="his_lus_col_augusta_ha_photo_fig2.jpg" caption="Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater." credit="" alt="Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater." >}}
 
 ## Dates
 

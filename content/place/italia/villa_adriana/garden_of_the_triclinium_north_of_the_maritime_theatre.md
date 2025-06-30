@@ -52,13 +52,13 @@ This garden, which stood between two of the highlights of Villa Adriana - the Te
 
 ## Plans
 
-{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image file="1_gardens_general_plan.jpg" caption="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the gardens at Hadrian's Villa" >}}
 
-{{< image src="24_cyzigen_triclinium.jpg" alt="Plan of the Cyzigen triclinium in the garden North of the Maritime Theatre at Hadrian's Villa" title="Fig. 24: A Cyzigen triclinium, Eugenia Salza Prina Ricotti." >}}
+{{< image file="24_cyzigen_triclinium.jpg" caption="Fig. 24: A Cyzigen triclinium, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the Cyzigen triclinium in the garden North of the Maritime Theatre at Hadrian's Villa" >}}
 
 ## Images
 
-{{< image src="23_nymphaeum_n_of_maritime_theatre.jpg" alt="Photograph of the Nymphaeum in the garden North of the Maritime Theatre at Hadrian's Villa" title="Fig. 23: The Nymphaeum North of the Maritime Theatre, Eugenia Salza Prina Ricotti." >}}
+{{< image file="23_nymphaeum_n_of_maritime_theatre.jpg" caption="Fig. 23: The Nymphaeum North of the Maritime Theatre, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the Nymphaeum in the garden North of the Maritime Theatre at Hadrian's Villa" >}}
 
 ## Dates
 

@@ -75,11 +75,11 @@ RELATED PHASES ON THE PALATINE:
 
 
 ## Figures
-{{< image src="domus_flavia_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1: Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
+{{< image file="domus_flavia_fig1.jpg" caption="Fig. 1: Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." credit="" alt="Plan of the Palatine" >}}
 
-{{< image src="domus_flavia_fig2.jpg" alt="View of the Domus Flavia peristyle" title="Fig. 2: View of the Domus Flavia peristyle. Photograph of the Soprintendenza Archeologica di Roma." >}}
+{{< image file="domus_flavia_fig2.jpg" caption="Fig. 2: View of the Domus Flavia peristyle. Photograph of the Soprintendenza Archeologica di Roma." credit="" alt="View of the Domus Flavia peristyle" >}}
 
-{{< image src="domus_flavia_fig3.jpg" alt="Nymphaeum of the Domus Flavia" title="Fig. 3: Western nymphaeum after restoration (Photo SAR)." >}}
+{{< image file="domus_flavia_fig3.jpg" caption="Fig. 3: Western nymphaeum after restoration (Photo SAR)." credit="" alt="Nymphaeum of the Domus Flavia" >}}
 
 ## Dates
 

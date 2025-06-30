@@ -59,13 +59,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
 
-{{< image src="the_house_of_the_lion.png" alt="Plan of The House of the Lion" title="Plan of the house of the lion" >}}
+{{< image file="the_house_of_the_lion.png" caption="Plan of the house of the lion" credit="" alt="Plan of The House of the Lion" >}}
 
 
 ## Dates

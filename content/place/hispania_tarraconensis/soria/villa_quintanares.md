@@ -39,17 +39,17 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="his_tar_cue_soria_fig1.jpg" alt="Plan of Villa los Quintanares at Soria Province, Spain" title="Fig.1 Villa los Quintanares, Rioseco de Soria, Soria.  Source: Gorges, Planche LIII" >}}
+{{< image file="his_tar_cue_soria_fig1.jpg" caption="Fig.1 Villa los Quintanares, Rioseco de Soria, Soria.  Source: Gorges, Planche LIII" credit="" alt="Plan of Villa los Quintanares at Soria Province, Spain" >}}
 
 ## Images
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 <!--## Dates-->

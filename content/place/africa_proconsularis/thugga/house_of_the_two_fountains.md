@@ -25,7 +25,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 <!--## Plan of City
 
-{{< image src="Doua_plan_city.jpg" alt="Plan of Thugga" title="Plan of the Thugga" >}}
+{{< image file="Doua_plan_city.jpg" caption="Plan of the Thugga" credit="" alt="Plan of Thugga" >}}
 -->
 
 ## Location Description
@@ -51,7 +51,7 @@ This house in the W of the market may have had a peristyle garden enclosed by a 
 
 ## Images
 
-{{< image src="AFR_Thu_Htf_Wjashemski.jpg" alt="Plan of House of the Two Fountains" title="Fig.1 Plan of House of the Two Fountains" >}}
+{{< image file="AFR_Thu_Htf_Wjashemski.jpg" caption="Fig.1 Plan of House of the Two Fountains" credit="" alt="Plan of House of the Two Fountains" >}}
 
 ## Dates
 

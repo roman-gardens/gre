@@ -51,29 +51,29 @@ The second terrace is largely unexplored but remains of a building have been not
 Below the dam, the land drops away dramatically in a series of agricultural terraces leading to a large valley and the Jordan Valley beyond.  The complex was unfinished at the time of Hyrcanus’ death in 169-68 BCE, and the complex eventually came into the properties of [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great).
 
 ## Maps
-{{< image src="1_arabia_petraea_map.jpg" alt="Map of Petra location" caption="Fig. 1: Map showing the location of ancient Tyrus in Arabia Petraea. Map by L.-A. Bedal, based on [Andrein, with the assistance of EraNavigator](https://commons.wikimedia.org/w/index.php?curid=26047529)" >}}
+{{< image file="1_arabia_petraea_map.jpg" caption="Fig. 1: Map showing the location of ancient Tyrus in Arabia Petraea. Map by L.-A. Bedal, based on <a href=\"https://commons.wikimedia.org/w/index.php?curid=26047529\">Andrein, with the assistance of EraNavigator</a>" credit="" alt="Map of Petra location" >}}
 
 ## Plans
-<!-- {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}} -->
+<!-- {{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}} -->
 <!--
  Waiting for plan from K. Gleason
 -->
 
 ## Images
-<!-- {{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}} -->
+<!-- {{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}} -->
 <!--
  Waiting for columbarium photo from K. Gleason
 -->
 
-{{< image src="2_arabia_tyrus_pavilion_facade.jpg" alt="Facade of the Lion Pavilion" title="Fig. 2: The facade of the Lion Pavilion at Tyrus, ʻIraq al-Amir. Photograph by L.-A. Bedal." >}}
+{{< image file="2_arabia_tyrus_pavilion_facade.jpg" caption="Fig. 2: The facade of the Lion Pavilion at Tyrus, ʻIraq al-Amir." credit="Photograph by L.-A. Bedal." alt="Facade of the Lion Pavilion" >}}
 
-{{< image src="3_arabia_tyrus_palace.jpg" alt="The Lion Pavilion in Wadi Seer" title="Fig. 3: The Lion Pavilion at Tyrus, ʻIraq al-Amir. Photograph by L.-A. Bedal." >}}
+{{< image file="3_arabia_tyrus_palace.jpg" caption="Fig. 3: The Lion Pavilion at Tyrus, ʻIraq al-Amir." credit="Photograph by L.-A. Bedal." alt="The Lion Pavilion in Wadi Seer" >}}
 
-{{< image src="4_arabia_tyrus_dam.jpg" alt="View of the dam and Lion Pavilion" title="Fig. 4: View of the earthen dam constructed to create an artificial lake around Lion Pavilion. Josephus describes landscaped terrace gardens on the surrounding hillsides. Photograph by L.-A. Bedal." >}}
+{{< image file="4_arabia_tyrus_dam.jpg" caption="Fig. 4: View of the earthen dam constructed to create an artificial lake around Lion Pavilion. Josephus describes landscaped terrace gardens on the surrounding hillsides." credit="Photograph by L.-A. Bedal." alt="View of the dam and Lion Pavilion" >}}
 
-{{< image src="5_arabia_tyrus_reflecting_pool.jpg" alt="Model of pavilion and pool" title="Fig. 5: Model of the Lion Pavilion and reflecting pool. Permission of E. Netzer." >}}
+{{< image file="5_arabia_tyrus_reflecting_pool.jpg" caption="Fig. 5: Model of the Lion Pavilion and reflecting pool. Permission of E. Netzer." credit="" alt="Model of pavilion and pool" >}}
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

@@ -39,12 +39,12 @@ This house is on the top of a hill and has thus been exposed to more erosion and
 
 ## Maps
 
-{{< image src="HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
+{{< image file="HIS_BAE_Italica_city plan_CA.jpg" caption="Fig. 1: Map of Italica." credit="" alt="" >}}
 
 
 ## Images
 
-{{< image src="HIS_BAE_Italica_Hrp fig 1.jpg" alt="Fig. 1: Photograph. (Rights Statement)" >}}
+{{< image file="HIS_BAE_Italica_Hrp fig 1.jpg" caption="Fig. 1: Photograph." credit="" alt="" >}}
 
 
 ## Dates

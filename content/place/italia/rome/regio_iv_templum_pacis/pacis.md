@@ -84,9 +84,9 @@ at the edge of these structures might have belonged to the [attic](http://vocab.
 
 ## Figures
 
-{{< image src="domus_aurea_fig1.jpg" alt="Plan of the Templum Pacis" title="Figure 1. Base plan." >}}
+{{< image file="domus_aurea_fig1.jpg" caption="Figure 1. Base plan." credit="" alt="Plan of the Templum Pacis" >}}
 
-{{< image src="domus_aurea_fig1.jpg" alt="Marble Plan fragments of the Templum Pacis" title="Figure 2. Marble Plan fragments (used by permission of the Stanford FUR project and Eugenio La Rocca)." >}}
+{{< image file="domus_aurea_fig1.jpg" caption="Figure 2. Marble Plan fragments (used by permission of the Stanford FUR project and Eugenio La Rocca)." credit="" alt="Marble Plan fragments of the Templum Pacis" >}}
 
 ## Dates
 

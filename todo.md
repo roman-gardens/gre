@@ -28,7 +28,7 @@
 - [x] Green (additions to entries?). What to do? There appears to be ORANGE now as well.
 - [x] Add span style color families to new green parts of entries.
 - [ ] Someone should relook over the bibs to see if they know what book the author is referring to, as I can't figure it out with just an author last name.
-- [x] Note to self: relook over entries and add [statue] keyword.
+- [x] Note to self: relook over entries and add [statue] keyword (check this AFTER province/location descriptions have been moved out the garden articles)
 - [x] Note if it has literary evidence/artifacts.
 - [x] Issue: I have found a entry that is House of Epidius Fortunatus (I.iii.3) and another that is I.iii.3. If there is a distinction, should we make it clearer?
 - [x] *Aedicula lararium* added as one keyword merged from the two currently listed.
@@ -39,19 +39,15 @@
 - [ ] document how theme files should be edited (not in mainroad directory!)
 - [ ] Bibliography first item actually two? https://roman-gardens.github.io/province/italia/rome/regio_x_palatium/domus_augustana/
 - [ ] how to handle alternative names of a garden -- example https://roman-gardens.github.io/test-a/id/5c8aada6d5
-
-# Images
-
 - [ ] many dupl images in thugga -- warning!  the "2" image may be older (missing additional label/green patch)
 - [ ] some photos we want lower resolution (so copyright holder can control access to full resolution)
 - [ ] link to reuse/take-down policy in image captions
-- RENAME IMAGE SHORTCODE PARAMETERS???
-    - check that alt and title are redundant
-    - rename title to "caption"?
-    - separate "credits" param
+- [ ] generally improve the search
+
 
 # Cleanup
 
+- [ ] move keywords to below bibliography
 - [ ] move ## Contributor to frontmatter author/editor
 - [ ] id shortcode for people (perseus authors like "Pliny the Elder")
 - [ ] excavation dates -- missing from archetype and some gardens
@@ -62,6 +58,9 @@
 - [ ] backslashes \
 - [ ] DON'T LINK place searches from place pages (only from garden pages)
 - [ ] search: use lunr to remove stopwords from searches
+- [ ] images: check if alt and title are redundant
+- [ ] fix or remove empty links -- search for "(#)"
+- [ ] update Leaflet from 1.6 to 1.9.4
 
 # from 2025-03-04, 2025-04-04, 2025-05-06, 2025-06-11 meetings
 
@@ -71,8 +70,6 @@
 - [ ] public list of keywords as glossary (similiar to /meta page)
 - [ ] garden list sort order (currently alphabetical, but most recent first?)
 - [ ] browse by province -- only list most recent updates?
-- [ ] fix or remove empty links -- search for "(#)"
-
 
 # Documentation
 
@@ -85,6 +82,7 @@
     - [ ] ideally, don't depend on upper/lowercase for meaning
 - [ ] rewrite software setup
 - [ ] workflow for simplest way to add a new garden/place? ("hugo new" requires path, but will set the GRE_ID, etc.)
+
 
 # Article Guidelines
 
@@ -112,6 +110,10 @@
     - upload images to the same place in the province hierarchy as the article is
     - to add the image to an article, type "image" and press CTRL-SPACE and select "GRE image shortcut"
     - check the hugo server preview to check if the image is linked correctly
+    - file = filename and extension "my-image.jpg"
+    - caption = caption text (should all figures be numbered for the article??)
+    - credit = "Drawing by...", "Gauckler, P., 1904, pp.16-17", etc. -- standardize format?
+    - alt = "" in most cases, unless we want to add additional description when the reader cannot see the image -- see https://webaim.org/techniques/alttext/ for guidance
 - bibliography
 - keywords
     - to add a keyword, type "keyword" and press CTRL-SPACE and select "GRE keyword shortcut"
@@ -129,7 +131,7 @@
 - listing pleiades authors as contributors to GRE? Example: https://roman-gardens.github.io/test-drafts/place/italia/region_x/tergeste/villa_of_the_bath/#contributor (doing so makes it look like they helped write the garden article)
 - translator in frontmatter (2 gardens)
 - in the text of the article, Divya suggested having dates at the top -- do we want both of these at top?  (They could also logically go near bottom, after bibliography and before keywords/places)
-    - date of the garden
+    - date of the garden (how to phrase this?  dates of use?)
     - excavation date
 
 

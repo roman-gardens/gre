@@ -48,12 +48,12 @@ Casa della Gemma (A)
 A. The excavation of this house in 1934-1936 revealed an unusual atrium arrangement, which Maiuri states is the first time the architectural scheme that is used in a peristyle was stylishly applied to the atrium. The atrium had no fauces, there were three columns on both the north and south sides, and on the west side there were two engaged columns with two freestanding columns between them forming the entrance and supporting the room above. A collection of marble oscilla was uncovered here, second only to the collection found in the House of the Golden Cupids in Pompeii. The tondi, peltae, and pinakes were hung between the columns against the background of glossy red walls. Various Dionysiac and theater themes, satyrs, maenads, Pan, theater masks, an amorino, a sea horse and a sea panther were the subjects featured on the oscilla. The impluvium was enclosed by a low wall with a planting space on the top providing a garden atmosphere to the atrium. A marble puteal was located on the west side of the impluvium.  
 
 ## Plans
-{{< image src="herculaneum_or.i_a.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
+{{< image file="herculaneum_or.i_a.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
 
-{{< image src="h_orientalis_1_1-3-a.jpg" alt="Herculaneum - insula orientalis I. 1-3-a" title="Herculaneum - insula orientalis I. 1-3-a" >}}
+{{< image file="h_orientalis_1_1-3-a.jpg" caption="Herculaneum - insula orientalis I. 1-3-a" credit="" alt="Herculaneum - insula orientalis I. 1-3-a" >}}
 
 ## Images
-{{< image src="herc._i.2,3_42.17.64.jpg" alt="Herculaneum - insula orientalis I. 2.3-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 2.3-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image file="herc._i.2,3_42.17.64.jpg" caption="Herculaneum - insula orientalis I. 2.3-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Herculaneum - insula orientalis I. 2.3-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}

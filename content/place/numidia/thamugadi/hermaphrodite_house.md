@@ -24,7 +24,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 - [Thamugadi]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}
 
-{{< image src="timgad_city_plan_hermaphrodite_house.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
+{{< image file="timgad_city_plan_hermaphrodite_house.jpg" caption="Fig. 1: Plan of Thamugadi" credit="(Courtois, C., 1951)" alt="Plan of Thamugadi." >}}
 
 
 ## Location Description
@@ -49,19 +49,19 @@ The large house was laid out around a large peristyle of 22 columns. In the axis
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="hermaphrodite_house.jpg" alt="Plan of the Hermaphrodite House at Thamugadi; Les mosaïques de Timgad, p. 65, fig. 7." title="Fig. 1: Plan of the Hermaphrodite House (Germain, S., 1969, fig. 7)" >}}
+{{< image file="hermaphrodite_house.jpg" caption="Fig. 1: Plan of the Hermaphrodite House" credit="(Germain, S., 1969, fig. 7)" alt="Plan of the Hermaphrodite House at Thamugadi; Les mosaïques de Timgad, p. 65, fig. 7." >}}
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

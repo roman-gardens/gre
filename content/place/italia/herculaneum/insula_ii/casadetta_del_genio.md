@@ -52,15 +52,15 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="H_2_3.jpg" alt="Plan of Casadetta del Genio" title="Plan of Casadetta del Genio" >}}
+{{< image file="H_2_3.jpg" caption="Plan of Casadetta del Genio" credit="" alt="Plan of Casadetta del Genio" >}}
 
 ## Images
-{{< image src="Herc. II.3   68.6.57.jpg" alt="Illustration of Casadetta del Genio" title="Illustration of Casadetta del Genio" >}}
+{{< image file="Herc. II.3   68.6.57.jpg" caption="Illustration of Casadetta del Genio" credit="" alt="Illustration of Casadetta del Genio" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}

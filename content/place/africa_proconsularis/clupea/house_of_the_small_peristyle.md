@@ -45,15 +45,15 @@ Possibly belonging to this same house, the east part of the *domus* may have bee
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="house_of_the_small_persityle1.jpg" alt="Plan of the House of the Small Peristyle; rights statement" title="Fig. 1: Plan of the House of the Small Peristyle (Lassère, J.-M., Slim, H., 2010)" >}}
+{{< image file="house_of_the_small_persityle1.jpg" caption="Fig. 1: Plan of the House of the Small Peristyle" credit="(Lassère, J.-M., Slim, H., 2010)" alt="Plan of the House of the Small Peristyle">}}
 
 ## Images
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

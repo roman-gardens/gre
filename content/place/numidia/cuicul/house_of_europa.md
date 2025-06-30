@@ -26,7 +26,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}
 
 
-{{< image src="cuicul_house_of_europa.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
+{{< image file="cuicul_house_of_europa.jpg" caption="Fig. 1: Plan of Cuicul" credit="(AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)" alt="Plan of Cuicul." >}}
 
 ## Location Description
 
@@ -60,12 +60,12 @@ Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century
 
 ## Plans
 
-{{< image src="house_of_europa_plan1.jpg" alt="Plan of the House of Europa." title="Fig. 1: Plan of the House of Europa (Blanchard-Lemée, M., 1975, fig.49)">}}
+{{< image file="house_of_europa_plan1.jpg" caption="Fig. 1: Plan of the House of Europa" credit="(Blanchard-Lemée, M., 1975, fig.49)" alt="Plan of the House of Europa." >}}
 
 ## Images
-{{< image src="house_of_europa_plant1.jpg" alt="View of the peristyle of the house." title="Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)">}}
+{{< image file="house_of_europa_plant1.jpg" caption="Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)" credit="" alt="View of the peristyle of the house." >}}
 
-{{< image src="house_of_europa_plant.jpg" alt="View of planter d." title="Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)">}}
+{{< image file="house_of_europa_plant.jpg" caption="Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)" credit="" alt="View of planter d." >}}
 ## Dates
 
 2nd-5th century CE

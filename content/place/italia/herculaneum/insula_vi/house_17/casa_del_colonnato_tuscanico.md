@@ -48,8 +48,8 @@ Casa del Colonnato Tuscanico
 This house with an L-shaped floor plan had a peristyle garden (a) at the juncture of the two wings enclosed by a seventeen column portico. The garden entrance facing the large room to the north had double columns, and the garden could be approached from the atrium or from the entrance off the street on the west.
 
 ## Plans
-{{< image src="herculaneum_vi_17.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
-{{< image src="h_6_11-19_25-26-a.jpg" alt="Herculaneum VI.11-19,25-26-Case del Colonnato Tuscanico" title="Herculaneum VI.11-19,25-26-Case del Colonnato Tuscanico" >}}
+{{< image file="herculaneum_vi_17.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
+{{< image file="h_6_11-19_25-26-a.jpg" caption="Herculaneum VI.11-19,25-26-Case del Colonnato Tuscanico" credit="" alt="Herculaneum VI.11-19,25-26-Case del Colonnato Tuscanico" >}}
 
 
 ## Places

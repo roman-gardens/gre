@@ -39,7 +39,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
  The rooms adjoining the atrium of this house, excavated in 1795-1798, had been converted to a sculptor’s workshop. To the left of the atrium and up fifteen steps was a garden (a) with a surrounding portico and a fountain in the center. The triclinium to the north offered a view of the garden and the fountain.
 
 ## Plans
- {{< image src="fig.28.region_viii.insula_vii.24-27.png" alt="Fig. 28, Plan of Region VIII, Insula VII, 24-27" title="Fig. 28, Plan of Region VIII, Insula VII, 24-27" >}}
+ {{< image file="fig.28.region_viii.insula_vii.24-27.png" caption="Fig. 28, Plan of Region VIII, Insula VII, 24-27" credit="" alt="Fig. 28, Plan of Region VIII, Insula VII, 24-27" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

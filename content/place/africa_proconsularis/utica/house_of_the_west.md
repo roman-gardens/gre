@@ -52,7 +52,7 @@ The house is dated to the II century.
 
 
 ## Plans
-{{< image src="AFR_Uti_Hw_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the West." title="Fig.1: Plan of the House of the West (CMT, plan 4)" >}}
+{{< image file="AFR_Uti_Hw_Wjashemski1.jpg" caption="Fig.1: Plan of the House of the West (CMT, plan 4)" credit="" alt="Fig.1: Plan of the House of the West." >}}
 
 <!--## Images-->
 

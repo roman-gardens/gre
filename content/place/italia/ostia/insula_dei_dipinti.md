@@ -45,7 +45,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Location Plan
 
-{{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+{{< image file="ostia_fig1.jpg" caption="Ostia Antica, General Plan." credit="" alt="General Plan of Ostia Antica" >}}
 
 ## Garden
 
@@ -69,7 +69,7 @@ The large open area in this [*insula*](http://vocab.getty.edu/page/aat/300000325
 
 ## Figures
 
-{{< image src="ostia_fig2_better_colored.jpg" alt="Plan of the Garden and Houses of the Insula dei Dipinti" title="Figure 1: The Garden and Houses of the Insula dei Dipinti." >}}
+{{< image file="ostia_fig2_better_colored.jpg" caption="Figure 1: The Garden and Houses of the Insula dei Dipinti." credit="" alt="Plan of the Garden and Houses of the Insula dei Dipinti" >}}
 
 ## Dates
 

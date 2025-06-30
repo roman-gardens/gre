@@ -41,22 +41,22 @@ In the late 1st century, around AD 70, the timber-lined pool in the west was rep
 <!--## Maps-->
 
 <!--
-{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans
 
-{{< image src="EUR_GS_Die_Rv1_carroll.jpg" alt="Fig. 1: Overall plan of the site during the 2nd half of the 1st century and 1st half 2nd century AD. Plan courtesy of Christa Ebnöther." title="Fig. 1: Overall plan of the site during the 2nd half of the 1st century and 1st half 2nd century AD. Plan courtesy of Christa Ebnöther." >}}
+{{< image file="EUR_GS_Die_Rv1_carroll.jpg" caption="Fig. 1: Overall plan of the site during the 2nd half of the 1st century and 1st half 2nd century AD." credit="Plan courtesy of Christa Ebnöther." alt="Fig. 1: Overall plan of the site during the 2nd half of the 1st century and 1st half 2nd century AD. Plan courtesy of Christa Ebnöther." >}}
 
-{{< image src="EUR_GS_Die_Rv3_carroll.jpg" alt="Fig. 2: Plan of the main building with its garden, phase 1, ca. 50-70 AD. Plan courtesy of Christa Ebnöther." title="Fig. 2: Plan of the main building with its garden, phase 1, ca. 50-70 AD. Plan courtesy of Christa Ebnöther." >}}
+{{< image file="EUR_GS_Die_Rv3_carroll.jpg" caption="Fig. 2: Plan of the main building with its garden, phase 1, ca. 50-70 AD." credit="Plan courtesy of Christa Ebnöther." alt="Fig. 2: Plan of the main building with its garden, phase 1, ca. 50-70 AD. Plan courtesy of Christa Ebnöther." >}}
 
-{{< image src="EUR_GS_Die_Rv4_carroll.jpg" alt="Fig. 3: Plan of the main building showing the curved plantings flanking the path." title="Fig. 3: Plan of the main building showing the curved plantings flanking the path. (Rights Statement)" >}}
+{{< image file="EUR_GS_Die_Rv4_carroll.jpg" caption="Fig. 3: Plan of the main building showing the curved plantings flanking the path." credit="" alt="Fig. 3: Plan of the main building showing the curved plantings flanking the path." >}}
 
 ## Images
 
-{{< image src="EUR_GS_Die_Rv2_carroll.jpg" alt="Fig. 4: Reconstructed perspective drawing." title="Fig. 4: Reconstructed perspective drawing. (Rights Statement)" >}}
+{{< image file="EUR_GS_Die_Rv2_carroll.jpg" caption="Fig. 4: Reconstructed perspective drawing." credit="" alt="Fig. 4: Reconstructed perspective drawing." >}}
 
-{{< image src="EUR_GS_Die_Rv5_carroll.jpg" alt="Fig. 5: Photo of the masonry pool with planting pattern of the courtyard garden retained." title="Fig. 5: Photo of the masonry pool with planting pattern of the courtyard garden retained. (Rights Statement)" >}}
+{{< image file="EUR_GS_Die_Rv5_carroll.jpg" caption="Fig. 5: Photo of the masonry pool with planting pattern of the courtyard garden retained." credit="" alt="Fig. 5: Photo of the masonry pool with planting pattern of the courtyard garden retained." >}}
 
 ## Dates
 

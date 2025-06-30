@@ -39,11 +39,11 @@ This house, in the area southeast of the House of Hylas, had a peristyle garden 
 
 ## Maps
 
-{{< image src="HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
+{{< image file="HIS_BAE_Italica_city plan_CA.jpg" caption="Fig. 1: Map of Italica." credit="" alt="" >}}
 
 ## Images
 
-{{< image src="HIS_BAE_Italica_Ht fig 1.jpg" alt="Fig. 1: Reconstruction of garden.  Drawing by F. Riart 2001, page 33. (Rights Statement)" >}}
+{{< image file="HIS_BAE_Italica_Ht fig 1.jpg" caption="Fig. 1: Reconstruction of garden.  Drawing by F. Riart 2001, page 33." credit="" alt="" >}}
 
 
 ## Dates

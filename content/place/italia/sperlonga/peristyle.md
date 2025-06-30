@@ -44,16 +44,16 @@ In the villa there are three different garden arrangements (SALZA PRINA RICOTTI 
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="93-sperlonga-villa.jpg" alt="Sperlonga's Villa has board view,the peristyle garden was rounded by building, the south part had the Cryptoporch, the terrance and canal and so on ." title="the plan of Sperlonga's Villa.">}}
+{{< image file="93-sperlonga-villa.jpg" caption="the plan of Sperlonga's Villa." credit="" alt="Sperlonga's Villa has board view,the peristyle garden was rounded by building, the south part had the Cryptoporch, the terrance and canal and so on ." >}}
 
 ## Images
-{{< image src="91-sperlonga-grotto.jpg" alt="Plan. the general garden plan of Sperlonga." title="the general garden plan of Sperlonga.">}}
+{{< image file="91-sperlonga-grotto.jpg" caption="the general garden plan of Sperlonga." credit="" alt="Plan. the general garden plan of Sperlonga." >}}
 
-{{< image src="92-landslide.jpg" alt="The landslide." title="The landslide.">}}
+{{< image file="92-landslide.jpg" caption="The landslide." credit="" alt="The landslide." >}}
 
 
 ## Dates

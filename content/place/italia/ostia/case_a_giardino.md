@@ -45,7 +45,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Location Plan
 
-{{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+{{< image file="ostia_fig1.jpg" caption="Ostia Antica, General Plan." credit="" alt="General Plan of Ostia Antica" >}}
 
 ## Garden
 
@@ -69,15 +69,15 @@ A sculptural group with a fishing scene, which could be interpreted as a fountai
 
 ## Figures
 
-{{< image src="ostia_fig10_better_colored.jpg" alt="Plan of the Garden Houses" title="Figure 1: Plan (after Ricciardi, Scrinari 1996)." >}}
+{{< image file="ostia_fig10_better_colored.jpg" caption="Figure 1: Plan" credit="(after Ricciardi, Scrinari 1996)." alt="Plan of the Garden Houses" >}}
 
-{{< image src="ostia_fig11.jpg" alt="Plan of the Garden Houses" title="Figure 2: Fountain (PA-OAnt, Photo Archive)." >}}
+{{< image file="ostia_fig11.jpg" caption="Figure 2: Fountain (PA-OAnt, Photo Archive)." credit="" alt="Plan of the Garden Houses" >}}
 
-{{< image src="ostia_fig12_better.jpg" alt="Plan of the Garden Houses" title="Figure 3: Section and reconstruction of fountain (from Civiltà dell' acqua)." >}}
+{{< image file="ostia_fig12_better.jpg" caption="Figure 3: Section and reconstruction of fountain (from Civiltà dell' acqua)." credit="" alt="Plan of the Garden Houses" >}}
 
-{{< image src="ostia_fig13.jpg" alt="Photo of mosaic with nilotic scene from Fountain b" title="Figure 4: Fountain b: mosaic with nilotic scene (PA-OAnt, Photo Archive)." >}}
+{{< image file="ostia_fig13.jpg" caption="Figure 4: Fountain b: mosaic with nilotic scene (PA-OAnt, Photo Archive)." credit="" alt="Photo of mosaic with nilotic scene from Fountain b" >}}
 
-{{< image src="ostia_fig14.jpg" alt="Photo of the sculpture of a Fisherman on a rock" title="Figure 5: Fisherman on a rock, sculpture from Garden Houses (PA-OAnt, Photo Archive)." >}}
+{{< image file="ostia_fig14.jpg" caption="Figure 5: Fisherman on a rock, sculpture from Garden Houses (PA-OAnt, Photo Archive)." credit="" alt="Photo of the sculpture of a Fisherman on a rock" >}}
 
 ## Dates
 

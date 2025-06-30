@@ -55,13 +55,13 @@ In a second moment, after the *nymphaeum* had been completed, the first small wa
 
 ## Plans
 
-{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image file="1_gardens_general_plan.jpg" caption="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the gardens at Hadrian's Villa" >}}
 
-{{< image src="72_gardens_of_the_academy.jpg" alt="Plan of the never-completed Academy gardens at Villa Adriana" title="Fig. 72: Academy planned but never made gardens, Eugenia Salza Prina Ricotti." >}}
+{{< image file="72_gardens_of_the_academy.jpg" caption="Fig. 72: Academy planned but never made gardens, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the never-completed Academy gardens at Villa Adriana" >}}
 
-{{< image src="73_academy_nymph.jpg" alt="Plans of the Academy's nymphaeum at Villa Adriana" title="Fig. 73: The Academy's nymphaeum, Eugenia Salza Prina Ricotti." >}}
+{{< image file="73_academy_nymph.jpg" caption="Fig. 73: The Academy's nymphaeum, Eugenia Salza Prina Ricotti." credit="" alt="Plans of the Academy's nymphaeum at Villa Adriana" >}}
 
-{{< image src="74_academy_nymphaeum.jpg" alt="Perspective rendering of the Academy's nymphaeum, showing waterfalls" title="Fig. 74: Perspective showing the waterfalls of the Academy's nymphaeum, Eugenia Salza Prina Ricotti." >}}
+{{< image file="74_academy_nymphaeum.jpg" caption="Fig. 74: Perspective showing the waterfalls of the Academy's nymphaeum, Eugenia Salza Prina Ricotti." credit="" alt="Perspective rendering of the Academy's nymphaeum, showing waterfalls" >}}
 
 ## Dates
 

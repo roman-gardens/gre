@@ -52,16 +52,16 @@ Adjacent to the east apartment is a light well with an earthen floor, which can 
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="House_of_Asinius_Rufinus_Acholla1.jpg" alt="Plan of the House of Asinius Rufinus at acholla; rights statement" title="Fig. 1: Plan of the House of Asinius Rufinus (Acholla, Et alii, PL. II)" >}}
+{{< image file="House_of_Asinius_Rufinus_Acholla1.jpg" caption="Fig. 1: Plan of the House of Asinius Rufinus (Acholla, Et alii, PL. II)" credit="" alt="Plan of the House of Asinius Rufinus at acholla">}}
 
 ## Images
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

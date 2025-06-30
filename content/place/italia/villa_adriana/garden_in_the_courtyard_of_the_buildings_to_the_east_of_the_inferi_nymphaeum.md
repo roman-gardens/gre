@@ -50,13 +50,13 @@ The only explanation seems to be the fact that Hadrian, who not only was introdu
 
 ## Plans
 
-{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image file="1_gardens_general_plan.jpg" caption="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the gardens at Hadrian's Villa" >}}
 
-{{< image src="65_pluto_temple_2.jpg" alt="Plan of the Pluto Temple in the courtyard of the buildings to the East of the Inferi Nymphaeum at Hadrian's Villa" title="Fig. 65: The Pluto Temple, Eugenia Salza Prina Ricotti." >}}
+{{< image file="65_pluto_temple_2.jpg" caption="Fig. 65: The Pluto Temple, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the Pluto Temple in the courtyard of the buildings to the East of the Inferi Nymphaeum at Hadrian's Villa" >}}
 
-{{< image src="66_perspective_pluto_temple.jpg" alt="Perspective plan of the Pluto Temple at Hadrian's Villa" title="Fig. 66: Perspective plan of the Pluto Temple, Eugenia Salza Prina Ricotti." >}}
+{{< image file="66_perspective_pluto_temple.jpg" caption="Fig. 66: Perspective plan of the Pluto Temple, Eugenia Salza Prina Ricotti." credit="" alt="Perspective plan of the Pluto Temple at Hadrian's Villa" >}}
 
-{{< image src="67_inferi_plutonium.jpg" alt="Plan showing the comparison between the small Plutinium grotto at Eleusis and the small inferi grotto at Villa Adriana" title="Fig. 67: Comparison between Eleusis and Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image file="67_inferi_plutonium.jpg" caption="Fig. 67: Comparison between Eleusis and Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan showing the comparison between the small Plutinium grotto at Eleusis and the small inferi grotto at Villa Adriana" >}}
 
 ## Dates
 

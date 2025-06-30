@@ -54,12 +54,12 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="H_4_3-9.jpg" alt="Plan of Casa del Paprio Dipinto" title="Plan of Casa del Paprio Dipinto" >}}
+{{< image file="H_4_3-9.jpg" caption="Plan of Casa del Paprio Dipinto" credit="" alt="Plan of Casa del Paprio Dipinto" >}}
 
 
 <!--## Images-->

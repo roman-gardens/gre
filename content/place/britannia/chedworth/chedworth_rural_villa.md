@@ -46,7 +46,7 @@ Parts of the villa may date to the early 3rd century A.D. at the latest, but ext
 
 ## Plans
 
-{{< image src="Chedworth_fig_3.jpg" alt="Fig. 1: Plan of the villa and its garden (G) in the courtyard. Plan by M. Carroll and C. Merrony." title="Fig. 1: Plan of the villa and its garden (G) in the courtyard. Plan by M. Carroll and C. Merrony." >}}
+{{< image file="Chedworth_fig_3.jpg" caption="Fig. 1: Plan of the villa and its garden (G) in the courtyard." credit="Plan by M. Carroll and C. Merrony." alt="Fig. 1: Plan of the villa and its garden (G) in the courtyard. Plan by M. Carroll and C. Merrony." >}}
 
 <!-- ## Maps
 

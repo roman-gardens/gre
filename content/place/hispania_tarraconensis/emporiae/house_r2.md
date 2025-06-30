@@ -71,10 +71,10 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 
 
 ## Plans
-{{< image src="HIS_TAR_Emp_plan_fig2.jpg" alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." title="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." >}}
+{{< image file="HIS_TAR_Emp_plan_fig2.jpg" caption="Plan of Emporiae." credit="Adapted from Mar and Ruiz de Arbulo." alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." >}}
 
 ## Images
-{{< image src="HIS_TAR_Emp_aerial_viewfig1.jpg" alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." title="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." >}}
+{{< image file="HIS_TAR_Emp_aerial_viewfig1.jpg" caption="Aerial view of Emporiae at the end of the first century BC." credit="Adapted from Mar and Ruiz de Arbulo." alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." >}}
 
 
 ## Garden
@@ -101,11 +101,11 @@ House R2, situated south of House R1 in the area of the forum of the Roman City 
 - E. Ripio Perelló, Ampurias: Itinerary-Guide, Publicaciones del "Instituto de Prehistoria y Arqueología de la Diputación Provincial de Barcelona, Barcelona, 1972. [(worldcat)](https://search.worldcat.org/title/45255754)
 
 ## Plans
-{{< image src="HIS_TAR_Emp_R2_fig1.jpg" alt="The Roman or Republican city at Ampurias." title="The Roman or Republican city at Ampurias.  Adapted from Mar and Ruiiz de Arbulo." >}}
+{{< image file="HIS_TAR_Emp_R2_fig1.jpg" caption="The Roman or Republican city at Ampurias." credit="Adapted from Mar and Ruiiz de Arbulo." alt="The Roman or Republican city at Ampurias." >}}
 
 
 ## Images
-{{< image src="HIS_TAR_Emp_R2_fig2.jpg" alt="House R2 (Tang R2 and R3) in the Roman City in Ampurias." title="House R2 (Tang R2 and R3) in the Roman City in Ampurias.(The dividing line runs between House R2B in the upper left and R2A; the vertical red line shows the approximate location of the original city wall.)  Adapted from Tang, where it was adapted from Mar and Ruiz de Arbulo." >}}
+{{< image file="HIS_TAR_Emp_R2_fig2.jpg" caption="House R2 (Tang R2 and R3) in the Roman City in Ampurias.(The dividing line runs between House R2B in the upper left and R2A; the vertical red line shows the approximate location of the original city wall.)" credit="Adapted from Tang, where it was adapted from Mar and Ruiz de Arbulo." alt="House R2 (Tang R2 and R3) in the Roman City in Ampurias." >}}
 
 ## Dates
 1C BC

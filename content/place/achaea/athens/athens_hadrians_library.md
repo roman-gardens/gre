@@ -44,17 +44,17 @@ In the center of the building was a large open peristyle courtyard with a long p
 <!--## Maps-->
 
 <!--
-{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans
 
-{{< image src="library.jpg" alt="plan of the Library of Hadrian with courtyard garden and apsidal pool" title="Fig. 1: Plan of the Library of Hadrian with its courtyard garden (G) and apsidal pool (stippled). Adapted from Travlos 1971, fig. 316." >}}
+{{< image file="library.jpg" caption="Fig. 1: Plan of the Library of Hadrian with its courtyard garden (G) and apsidal pool (stippled)." credit="Adapted from Travlos 1971, fig. 316." alt="plan of the Library of Hadrian with courtyard garden and apsidal pool" >}}
 
 <!--## Images-->
 
 <!--
-{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Dates

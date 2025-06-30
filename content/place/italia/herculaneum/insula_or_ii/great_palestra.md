@@ -51,8 +51,8 @@ The Palaestra was crossed by Burbon tunnels in 1756-1760 and partially excavated
 
 
 ## Plans
-{{< image src="herculaneum_ii.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
-{{< image src="h_garden_casa_rilievo.jpg" alt="Herculaneum - Garden at rear of Casa del Rilievo di Telefo" title="Herculaneum - Garden at rear of Casa del Rilievo di Telefo." >}}
+{{< image file="herculaneum_ii.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
+{{< image file="h_garden_casa_rilievo.jpg" caption="Herculaneum - Garden at rear of Casa del Rilievo di Telefo." credit="" alt="Herculaneum - Garden at rear of Casa del Rilievo di Telefo" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}

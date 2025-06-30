@@ -57,23 +57,23 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="h_3_3-17.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
+{{< image file="h_3_3-17.jpg" caption="Plan of Casa dell’Ara Laterizia" credit="" alt="Plan of Casa dell’Ara Laterizia" >}}
 
 <!--
 Image not yet in gre-images
-{{< image src="H_3_1-2_18-19.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
+{{< image file="H_3_1-2_18-19.jpg" caption="Plan of Casa dell’Ara Laterizia" credit="" alt="Plan of Casa dell’Ara Laterizia" >}}
 -->
 
 
 ## Images
 
-{{< image src="Herc. III.19-18,1-2   17.2.78.jpg" alt="Illustration of Casa dell’Ara Laterizia" title="Illustration of Casa dell’Ara Laterizia" >}}
+{{< image file="Herc. III.19-18,1-2   17.2.78.jpg" caption="Illustration of Casa dell’Ara Laterizia" credit="" alt="Illustration of Casa dell’Ara Laterizia" >}}
 
-{{< image src="Herc.III.19-18,1-2   17.3.78.jpg" alt="Illustration of Casa dell’Ara Laterizia" title="Illustration of Casa dell’Ara Laterizia" >}}
+{{< image file="Herc.III.19-18,1-2   17.3.78.jpg" caption="Illustration of Casa dell’Ara Laterizia" credit="" alt="Illustration of Casa dell’Ara Laterizia" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}

@@ -45,7 +45,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Location Plan
 
-{{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+{{< image file="ostia_fig1.jpg" caption="Ostia Antica, General Plan." credit="" alt="General Plan of Ostia Antica" >}}
 
 ## Garden
 
@@ -84,13 +84,13 @@ In October 1912 Dante Vaglieri began the reconstruction of the garden at the cen
 
 ## Figures
 
-{{< image src="ostia_piazzale_fig1.jpg" alt="Plan of the Piazzale della Corporazioni from Calza 1953" title="Figure 1: Plan of the Piazzale della Corporazioni (from Calza 1953)." >}}
+{{< image file="ostia_piazzale_fig1.jpg" caption="Figure 1: Plan of the Piazzale della Corporazioni" credit="(from Calza 1953)." alt="Plan of the Piazzale della Corporazioni from Calza 1953" >}}
 
-{{< image src="ostia_piazzale_fig2.jpg" alt="Plan of the Piazzale della Corporazioni from Lanciani 1881" title="Figure 2: Plan of the Piazzale della Corporazioni (from Lanciani 1881)." >}}
+{{< image file="ostia_piazzale_fig2.jpg" caption="Figure 2: Plan of the Piazzale della Corporazioni" credit="(from Lanciani 1881)." alt="Plan of the Piazzale della Corporazioni from Lanciani 1881" >}}
 
-{{< image src="ostia_piazzale_fig3.jpg" alt="Sketch of the drainage system found below the Piazzale" title="Figure 3: Sketch of the drainage system found below the Piazzale (from Giornale degli Scavi 1912)." >}}
+{{< image file="ostia_piazzale_fig3.jpg" caption="Figure 3: Sketch of the drainage system found below the Piazzale" credit="(from Giornale degli Scavi 1912)." alt="Sketch of the drainage system found below the Piazzale" >}}
 
-{{< image src="ostia_piazzale_fig4.jpg" alt="Photo of the garden in 1912" title="Figure 4: The modern garden, 1912 (PA-OAnt, Photo Archive)." >}}
+{{< image file="ostia_piazzale_fig4.jpg" caption="Figure 4: The modern garden, 1912 (PA-OAnt, Photo Archive)." credit="" alt="Photo of the garden in 1912" >}}
 
 ## Dates
 

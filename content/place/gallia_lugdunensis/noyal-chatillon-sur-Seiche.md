@@ -59,20 +59,20 @@ A study of pollens and sediments below the levels of the Gallo-Roman villa in a 
 
 ## Maps
 
-{{< image src="noyal1.jpg" alt="These images are three maps that show the development of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) over time from 1 year A.D. or after J.C. to 180 A.D. or J.C." title="A Map of Land Development Over Time." >}}
+{{< image file="noyal1.jpg" caption="A Map of Land Development Over Time." credit="" alt="These images are three maps that show the development of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) over time from 1 year A.D. or after J.C. to 180 A.D. or J.C." >}}
 
 ## Plans
 
-{{< image src="noyal2.jpg" alt="Two maps with developed and labeled plans of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) from 180 A.D. or J.C. to the villa in the middle of the third century A.D. or J.C." title="Plans of Land Development Over Time." >}}
+{{< image file="noyal2.jpg" caption="Plans of Land Development Over Time." credit="" alt="Two maps with developed and labeled plans of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) from 180 A.D. or J.C. to the villa in the middle of the third century A.D. or J.C." >}}
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 
-{{< image src="noyal_photo.jpg" alt="A grainy photograph of an archaeological dig of the fountain bassin." title="The Fountain Bassin." >}}
+{{< image file="noyal_photo.jpg" caption="The Fountain Bassin." credit="" alt="A grainy photograph of an archaeological dig of the fountain bassin." >}}
 
-{{< image src="noyal_section.jpg" alt="A section drawing of a fountain. A female figure stands in the center with water spewing out of a column. There are two extra, unadorned pedastals in the fountain drawing before getting to the fountain's edge." title="Reconstructed cut of the Fountain Bassin." >}}
+{{< image file="noyal_section.jpg" caption="Reconstructed cut of the Fountain Bassin." credit="" alt="A section drawing of a fountain. A female figure stands in the center with water spewing out of a column. There are two extra, unadorned pedastals in the fountain drawing before getting to the fountain's edge." >}}
 
 ## Dates
 Unspecified

@@ -1,10 +1,20 @@
-{{ $src := .Get "src" }}
-{{ $src = urls.JoinPath "https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/" .Page.Parent.Path $src }}
+{{- $file := .Get "file" -}}
+{{- $file = urls.JoinPath "https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/" .Page.Parent.Path $file -}}
 
 {{/* adjust for old gre-images until we update that repo */}}
-{{ $src = replace $src "/place/" "/province/" }}
+{{- $file = replace $file "/place/" "/province/" -}}
+
+{{- $credit  := .Get "credit" -}}
+{{- $caption := .Get "caption" -}}
+{{- $alt     := .Get "alt" -}}
 
 <figure>
-    <img src="{{ $src }}" alt="{{ .Get "alt" }}" onclick="fullscreen(this)">
-    <figcaption>{{ .Get "title" }}</figcaption>
+    <img src="{{ $file }}" alt="{{ $alt }}" onclick="fullscreen(this)">
+    <figcaption>
+        {{/* allow HTML links in the caption */}}
+        {{- safeHTML (htmlUnescape $caption) -}}
+        {{- with $credit -}}
+            <div class="credit">Credit: {{ safeHTML (htmlUnescape .) }}</div>
+        {{- end -}}
+    </figcaption>
 </figure>

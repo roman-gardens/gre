@@ -5,8 +5,8 @@ aliases: [/id/{{ $id }}]
 type: garden
 title: {{ title (replace .Name "-" " ") }}
 latlon: [ 0, 0 ]
-author: AUTHOR ONE, AUTHOR TWO
-editor: EDITOR ONE, EDITOR TWO, EDITOR THREE
+author: Author Name
+editor: Editor Name
 date: {{ time.Now.Format "2006-01-02" }}
 modified: {{ time.Now.Format "2006-01-02" }}
 draft: true
@@ -20,17 +20,17 @@ draft: true
 
 <!--
 ## Maps
-{{< image src="filename.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
 <!--
 ## Plans
-{{< image src="filename.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
 <!--
 ## Images
-{{< image src="filename.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
 <!--

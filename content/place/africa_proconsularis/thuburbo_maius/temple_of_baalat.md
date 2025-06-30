@@ -24,7 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 - {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
-{{< image src="thuburbo_temple_of_baalat.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
+{{< image file="thuburbo_temple_of_baalat.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" >}}
 
 ## Location Description
 
@@ -48,7 +48,7 @@ Only the central passage (III) way leading to the temple (IV) was paved. The res
 
 ## Plans
 
-{{< image src="Temple of Baalat.jpg" alt="Plan of the Temple of Baalat " title="Fig. 1: Plan of the Temple of Baalat (CMT, V. II, fasc.2, plan 10.)" >}}
+{{< image file="Temple of Baalat.jpg" caption="Fig. 1: Plan of the Temple of Baalat (CMT, V. II, fasc.2, plan 10.)" credit="" alt="Plan of the Temple of Baalat " >}}
 
 ## Dates
 unspecified

@@ -66,12 +66,12 @@ The villa is about 200 meters south of the center of the modern village of Sante
 The villa was built in the first third of the 2nd century, destroyed by the Germanic invasions of the years immediately after 256, then rebuilt and enlarged under the restored empire, and finally abandoned  in the 5th century.  The large central peristyle courtyard (43.5 x 19 m) had porticoes on all four sides and a garden with a drainage system in the middle.  On the south side, the room with the circular, quadrilobed interior had a mosaic of Ceres and a cornucopia.   A series of agricultural buildings and other gardens joined it on the north side.
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="his_tar_san_villares_fig1.jpg" alt="Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria" title="Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria   Source: Gorges, Planche XLV" >}}
+{{< image file="his_tar_san_villares_fig1.jpg" caption="Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria   Source: Gorges, Planche XLV" credit="" alt="Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria" >}}
 
 
 ## Dates

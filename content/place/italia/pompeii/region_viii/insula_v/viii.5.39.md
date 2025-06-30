@@ -43,7 +43,7 @@ A. This house was excavated in 1882 to reveal a small garden (a) at the rear ent
 B. The northwest corner of this small house contained a second garden (b) just off the anteroom at the rear of the portico. There was a band of raised soil at the base of the wall 0.55 m. wide which had been planted and the remainder of the space had been paved. The triclinium on the south and the neighbor’s house on the west received light from this garden.
 
 ## Plans
-{{< image src="fig.16_region_viii.insula_v.png" alt="Fig. 16, Plan of  Region VIII, Insula V" title="Plan of  Region VIII, Insula V" >}}
+{{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="Fig. 16, Plan of  Region VIII, Insula V" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

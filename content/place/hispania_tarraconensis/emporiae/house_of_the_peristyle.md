@@ -71,10 +71,10 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 
 
 ## Plans
-{{< image src="HIS_TAR_Emp_plan_fig2.jpg" alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." title="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." >}}
+{{< image file="HIS_TAR_Emp_plan_fig2.jpg" caption="Plan of Emporiae." credit="Adapted from Mar and Ruiz de Arbulo." alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." >}}
 
 ## Images
-{{< image src="HIS_TAR_Emp_aerial_viewfig1.jpg" alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." title="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." >}}
+{{< image file="HIS_TAR_Emp_aerial_viewfig1.jpg" caption="Aerial view of Emporiae at the end of the first century BC." credit="Adapted from Mar and Ruiz de Arbulo." alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." >}}
 
 
 ## Garden
@@ -97,7 +97,7 @@ This well-known large house, situated in the center of the eastern side of Neapo
 - X. Aquilué, J. Ruíz de Arbulo, *La jardinería en la época antigua*, in Historia de los Parques y Jardines en España. Edita Grupo FCC, Madrid, 2001, p. 12. [(worldcat)](https://search.worldcat.org/title/1090911182)
 
 ## Plans
-{{< image src="HIS_TAR_Emp_peristyle_fig1.jpg" alt="Plan of the House of the Peristyle." title="Plan of the House of the Peristyle." >}}
+{{< image file="HIS_TAR_Emp_peristyle_fig1.jpg" caption="Plan of the House of the Peristyle." credit="" alt="Plan of the House of the Peristyle." >}}
 
 
 ## Dates

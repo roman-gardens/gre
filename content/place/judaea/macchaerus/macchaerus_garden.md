@@ -63,18 +63,18 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 <!--
 ## Maps
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}-->
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}-->
 
 
 ## Plans
 
-{{< image src="ASIA_JUD_MACCHAREUS_1.jpg" alt="Figure 1: Plan of the Herodian places at Macchaerus, the excavated garden is marked with a green rectangle (Vörös, 2013)." title="Figure 1: Plan of the Herodian places at Macchaerus, the excavated garden is marked with a green rectangle (Vörös, 2013)." >}}
+{{< image file="ASIA_JUD_MACCHAREUS_1.jpg" caption="Figure 1: Plan of the Herodian places at Macchaerus, the excavated garden is marked with a green rectangle" credit="(Vörös, 2013)." alt="Figure 1: Plan of the Herodian places at Macchaerus, the excavated garden is marked with a green rectangle (Vörös, 2013)." >}}
 
 
 ## Images
-{{< image src="ASIA_JUD_MACCHAREUS_2.jpg" alt="Figure 2: Section drawing of the research trench in the Southern Courtyard (Vörös, 2013)." title="Figure 2:Section drawing of the research trench in the Southern Courtyard (Vörös, 2013)." >}}
+{{< image file="ASIA_JUD_MACCHAREUS_2.jpg" caption="Figure 2:Section drawing of the research trench in the Southern Courtyard" credit="(Vörös, 2013)." alt="Figure 2: Section drawing of the research trench in the Southern Courtyard (Vörös, 2013)." >}}
 
-{{< image src="ASIA_JUD_MACCHAREUS.jpg" alt="Figure 3: Cutaway bird’s eye view of the Herodian fortified royal palace from the south. This theoretical reconstruction is superimposed on an aerial photograph by David Kennedy.." title="Figure 3:Cutaway bird’s eye view of the Herodian fortified royal palace from the south. This theoretical reconstruction is superimposed on an aerial photograph by David Kennedy." >}}
+{{< image file="ASIA_JUD_MACCHAREUS.jpg" caption="Figure 3:Cutaway bird’s eye view of the Herodian fortified royal palace from the south. This theoretical reconstruction is superimposed on an aerial photograph by David Kennedy." credit="" alt="Figure 3: Cutaway bird’s eye view of the Herodian fortified royal palace from the south. This theoretical reconstruction is superimposed on an aerial photograph by David Kennedy.." >}}
 
 <!--
 ## Dates

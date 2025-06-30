@@ -47,18 +47,18 @@ The archaeologists working on the site have not produced a detailed sequence of 
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="HIS_LUS_Milreu_planfig1.jpg" alt="Plan of Villa de Milreu at Estoi Province, Spain." title="Fig. 1: Plan of the Villa de Milreu adapted from Hauschild and Teichner." >}}
+{{< image file="HIS_LUS_Milreu_planfig1.jpg" caption="Fig. 1: Plan of the Villa de Milreu adapted from Hauschild and Teichner." credit="" alt="Plan of Villa de Milreu at Estoi Province, Spain." >}}
 
 ## Images
 
-{{< image src="HIS_LUS_Milreu_ph fig2.jpg" title="Fig. 2: Photo of the Villa de Milreu central peristyle." >}}
+{{< image file="HIS_LUS_Milreu_ph fig2.jpg" caption="Fig. 2: Photo of the Villa de Milreu central peristyle." credit="" alt="" >}}
 
-{{< image src="HIS_LUS_Milreu_pool mosaic fig3.jpg" title="Fig. 3: Photo of the fish mosaic" >}}
+{{< image file="HIS_LUS_Milreu_pool mosaic fig3.jpg" caption="Fig. 3: Photo of the fish mosaic" credit="" alt="" >}}
 
 <!--## Dates-->
 

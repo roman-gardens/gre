@@ -64,18 +64,18 @@ West-southwest of the peristyle, a group of interesting chambers were arrayed ar
 The passage formed by the north colonnade gave access to three chambers, the middle one a triclinium, with mosaic pavements and wall dados painted with birds and vegetal themes. On the west side, facing the garden's exedra, was a chamber with Bacchic murals (now in the Museo Nacional de Arte Romano) and below its floor, a great barrel-vaulted cistern. On the south side, several rooms formed what may have been a cubiculum (bedroom) with mosaics whose themes included Eros with a dove. Two subterranean rooms in the southeast corner of this same group probably provided cool refuge from the summer heat.
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="his_lus_col_augusta_house_of_mithraeum_fig1.jpg" alt="Fig. 1: House of the Mithraeum." title="Fig. 1: House of the Mithraeum. Adapted from Casilla Moreno." >}}
+{{< image file="his_lus_col_augusta_house_of_mithraeum_fig1.jpg" caption="Fig. 1: House of the Mithraeum." credit="Adapted from Casilla Moreno." alt="Fig. 1: House of the Mithraeum." >}}
 
 ## Images
 
-{{< image src="his_lus_col_augusta_house_of_mithraeum_fig2.jpg" alt="Fig. 2: Central peristyle." title="Fig. 2: Central peristyle." >}}
+{{< image file="his_lus_col_augusta_house_of_mithraeum_fig2.jpg" caption="Fig. 2: Central peristyle." credit="" alt="Fig. 2: Central peristyle." >}}
 
-{{< image src="his_lus_col_augusta_house_of_mithraeum_fig3.jpg" alt="Fig. 3: Southwest peristyle." title="Fig. 3: Southwest peristyle." >}}
+{{< image file="his_lus_col_augusta_house_of_mithraeum_fig3.jpg" caption="Fig. 3: Southwest peristyle." credit="" alt="Fig. 3: Southwest peristyle." >}}
 
 ## Dates
 

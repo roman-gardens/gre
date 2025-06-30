@@ -72,9 +72,9 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 
 ## Images
 
-{{< image src="villa_de_saint_symphorien_1.png" alt="Fig. 1 The Villa de Muscapeu" title="Fig. 1 The Villa de Muscapeu" >}}
+{{< image file="villa_de_saint_symphorien_1.png" caption="Fig. 1 The Villa de Muscapeu" credit="" alt="Fig. 1 The Villa de Muscapeu" >}}
 
-{{< image src="villa_de_saint_symphorien_2.png" alt="Fig. 2 The Villa de Muscapeu" title="Fig. 2 The Villa de Muscapeu" >}}
+{{< image file="villa_de_saint_symphorien_2.png" caption="Fig. 2 The Villa de Muscapeu" credit="" alt="Fig. 2 The Villa de Muscapeu" >}}
 
 
 ## Dates

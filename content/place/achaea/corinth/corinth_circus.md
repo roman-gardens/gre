@@ -41,18 +41,18 @@ The so-called "hippodrome garden" type (see the Domus Flavia on the Palatine Hil
 <!--## Maps-->
 
 <!--
-{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans
 
-{{< image src="corinth-plan.jpg" alt="plan of the Roman circus, with planting pits labeled" title="Fig. 1: Actual State Plan of the Roman circus, with planting pits labeled. From D. G. Romano, 'Roman Circus,' p. 589, fig. 3. Plan courtesy of the author." >}}
+{{< image file="corinth-plan.jpg" caption="Fig. 1: Actual State Plan of the Roman circus, with planting pits labeled. From D. G. Romano, 'Roman Circus,' p. 589, fig. 3." credit="Plan courtesy of the author." alt="plan of the Roman circus, with planting pits labeled" >}}
 
 ## Images
 
-{{< image src="corinth-circus-restored.jpg" alt="reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta" title="Fig 2. Reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta. Drawing by David Pacifico for the Corinth Computer Project." >}}
+{{< image file="corinth-circus-restored.jpg" caption="Fig 2. Reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta." credit="Drawing by David Pacifico for the Corinth Computer Project." alt="reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta" >}}
 
-{{< image src="amphora-in-planting-pit.jpg" alt="fragmentary amphora found in pit 2 in the spina of the Roman circus" title="Fig. 3: Fragmentary amphora found in pit 2 in the spina of the Roman circus. Photograph courtesy of James Wiseman." >}}
+{{< image file="amphora-in-planting-pit.jpg" caption="Fig. 3: Fragmentary amphora found in pit 2 in the spina of the Roman circus." credit="Photograph courtesy of James Wiseman." alt="fragmentary amphora found in pit 2 in the spina of the Roman circus" >}}
 
 ## Dates
 <!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->

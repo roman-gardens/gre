@@ -66,21 +66,21 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{< figure src="../images/sirmio-2.jpg" alt="Fig. 2: Plan of House of Grotto of Catullus." title="Fig. 2: Plan of House of Grotto of Catullus" >}}
+{< figure file="../images/sirmio-2.jpg" caption="Fig. 2: Plan of House of Grotto of Catullus" credit="" alt="Fig. 2: Plan of House of Grotto of Catullus." >}}
 
-{{< image src="sirmio-3.jpg" alt="Fig. 3: Plan of the residential rooms." title="Fig. 3: Plan of the residential rooms" >}}
+{{< image file="sirmio-3.jpg" caption="Fig. 3: Plan of the residential rooms" credit="" alt="Fig. 3: Plan of the residential rooms." >}}
 
-{{< image src="sirmio-5.jpg" alt="Fig. 5: Aerial view of vast olive grove." title="Fig. 5: Aerial view of vast olive grove" >}}
+{{< image file="sirmio-5.jpg" caption="Fig. 5: Aerial view of vast olive grove" credit="" alt="Fig. 5: Aerial view of vast olive grove." >}}
 
-{{< image src="sirmio-7.jpg" alt="Fig. 7:Aerial view of courtyard-viridarium." title="Fig. 7: Aerial view of courtyard-viridarium" >}}
+{{< image file="sirmio-7.jpg" caption="Fig. 7: Aerial view of courtyard-viridarium" credit="" alt="Fig. 7:Aerial view of courtyard-viridarium." >}}
 
-{{< image src="sirmio-11.jpg" alt="Fig. 11: statue of a Dioscuros." title="Fig. 11: statue of a Dioscuros" >}}
+{{< image file="sirmio-11.jpg" caption="Fig. 11: statue of a Dioscuros" credit="" alt="Fig. 11: statue of a Dioscuros." >}}
 
-{{< image src="sirmio-12.jpg" alt="Fig. 12: Figure of Plant fossils." title="Fig. 12: Figure of  Plant fossils" >}}
+{{< image file="sirmio-12.jpg" caption="Fig. 12: Figure of  Plant fossils" credit="" alt="Fig. 12: Figure of Plant fossils." >}}
 
 ## Dates
 

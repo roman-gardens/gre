@@ -46,12 +46,12 @@ B
 B. From the atrium the peristyle on the lower level was reached by way of a steeply sloping corridor. Stuccoed brick columns and a low wall 0.50 m. high enclosed the central area (b) and a large gutter collected water from the edges and conducted it to the cistern. A rectangular pool ca. 2.60 x 5.00 m. with the inside painted blue was located in the center of this area. At the rear of the pool an area paved with bipedales (tiles two feet long) covered the cellars below with an opening 1.70 x 2.20 to provide light. Jashemski noted that the paved and planted areas were reconstructed with a lattice fence between them, although she did not know of any evidence to support this interpretation.
 
 ## Plans
-{{< image src="herculaneum_or.i_b.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
+{{< image file="herculaneum_or.i_b.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
 
-{{< image src="h_orientalis_1_1-3-b.jpg" alt="Herculaneum - insula orientalis I. 1-3-b" title="Herculaneum - insula orientalis I. 1-3-b" >}}
+{{< image file="h_orientalis_1_1-3-b.jpg" caption="Herculaneum - insula orientalis I. 1-3-b" credit="" alt="Herculaneum - insula orientalis I. 1-3-b" >}}
 
 ## Images
-{{< image src="herc.i.2,3_42.19.64.jpg" alt="Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image file="herc.i.2,3_42.19.64.jpg" caption="Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}

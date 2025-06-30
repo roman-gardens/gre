@@ -56,13 +56,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
 
-{{< image src="house_b_under_the_high_school.png" alt="Plan of House B under the High School" title="Plan of La Plaine, House B under the High School" >}}
+{{< image file="house_b_under_the_high_school.png" caption="Plan of La Plaine, House B under the High School" credit="" alt="Plan of House B under the High School" >}}
 
 
 <!--## Images-->
@@ -73,7 +73,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

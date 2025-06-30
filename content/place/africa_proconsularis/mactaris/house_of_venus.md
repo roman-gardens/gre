@@ -45,15 +45,15 @@ House of Venus (Maison de Venus)
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="AFR_Mac_Hv_WJashemskifig4.jpg" alt="Plan of the House of Venus at Mactaris; Picard, G. Ch., Bourgeois, A., 1977, pp. 213-220" title="Fig. 1: Plan of the House of Venus. (Picard, G. Ch., Bourgeois, A., 1977, Plan. I)" >}}
+{{< image file="AFR_Mac_Hv_WJashemskifig4.jpg" caption="Fig. 1: Plan of the House of Venus." credit="(Picard, G. Ch., Bourgeois, A., 1977, Plan. I)" alt="Plan of the House of Venus at Mactaris; Picard, G. Ch., Bourgeois, A., 1977, pp. 213-220" >}}
 
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images

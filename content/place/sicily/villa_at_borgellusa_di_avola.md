@@ -39,16 +39,16 @@ There is a four meter square basin located in the middle of the space enclosed b
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-<!--{{< image src="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
+<!--{{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}}-->
 
 ## Images
 
-{{< image src="figure7.jpg" alt="Fig. 7  Borgellusa, water basin at the centre of the peristyle garden" title="Fig. 7  Borgellusa, water basin at the centre of the peristyle garden" >}}
+{{< image file="figure7.jpg" caption="Fig. 7  Borgellusa, water basin at the centre of the peristyle garden" credit="" alt="Fig. 7  Borgellusa, water basin at the centre of the peristyle garden" >}}
 
 ## Dates
 

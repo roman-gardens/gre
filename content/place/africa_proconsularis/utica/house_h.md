@@ -49,7 +49,7 @@ This house, the largest in *insula* III (lots 2,3,4,9,10), rivals the House of t
 
 
 ## Plans
-{{< image src="AFR_Uti_H_Wjashemski1.jpg" alt="Fig.1: Plan of the House H" title="Fig.1: Plan of the House H (CMT, pp.121-128)." >}}
+{{< image file="AFR_Uti_H_Wjashemski1.jpg" caption="Fig.1: Plan of the House H (CMT, pp.121-128)." credit="" alt="Fig.1: Plan of the House H" >}}
 
 <!--## Images-->
 

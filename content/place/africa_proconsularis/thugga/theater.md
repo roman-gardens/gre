@@ -24,7 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 - {{< id vocab="Pleiades" id="315223" name="THUGGA (Dougga) Tunisia" >}}
 
 
-{{< image src="dougga_theater.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
+{{< image file="dougga_theater.jpg" caption="Plan of Thugga" credit="(Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" alt="Plan of Thugga" >}}
 
 ## Location Description
 
@@ -48,7 +48,7 @@ At the rear of the theater is a *xystis* known from the dedication inscription (
 
 ## Plans
 
-{{< image src="AFR_Thu_T_Wjashemski_color.jpg" alt="Plan of the Temple" title="Fig.1 Plan of the Temple(Les ruines de Dougga, p. 53, plan général n°18)" >}}
+{{< image file="AFR_Thu_T_Wjashemski_color.jpg" caption="Fig.1 Plan of the Temple(Les ruines de Dougga, p. 53, plan général n°18)" credit="" alt="Plan of the Temple" >}}
 
 ## Dates
 1st-2nd century CE

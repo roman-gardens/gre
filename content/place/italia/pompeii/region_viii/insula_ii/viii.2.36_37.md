@@ -41,8 +41,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 This house was excavated in 1885. The entrance at 37 went into the atrium and beyond that, up two steps, was the peristyle with a portico on three sides supported by stuccoed columns, only three of which have remained to date. The first intercolumniation on the north-east was filled with a wall. A gutter surrounded this area, which was paved, with a narrow masonry pool at the south end. All that remained of the pool was a depression in the pavement. Potted plants would have been placed around the pool and the area would have served as a garden. Terraces overlooking the bay and mountains were located on the street level and one level lower at the back of the houses, and a portico was built just before the lower terrace at the back of house 36.
 
 ## Plans
-{{< image src="fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
-{{< image src="fig._4_region_viii_insula_ii_36_37.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 29-39" title="Plan of the Pompeii Region VIII, Insula II, 29-39" >}}
+{{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="Plan of the Pompeii Region VIII, Insula II" >}}
+{{< image file="fig._4_region_viii_insula_ii_36_37.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 29-39" credit="" alt="Plan of the Pompeii Region VIII, Insula II, 29-39" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

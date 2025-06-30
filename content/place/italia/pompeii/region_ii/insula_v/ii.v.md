@@ -23,85 +23,85 @@ The entrance directly across from the amphitheater was designed to be an archite
 
 
 <!--Plans
-{{< image src="Fig. 23, II.v. 7.34.66.jpg" alt="large space of site." title="site overview 1">}}
+{{< image file="Fig. 23, II.v. 7.34.66.jpg" caption="site overview 1" credit="" alt="large space of site." >}}
 
-{{< image src="Fig. 24, II.v. 8.34.66.jpg" alt="stuff measured the size of the hole." title="excavation detail 1">}}
+{{< image file="Fig. 24, II.v. 8.34.66.jpg" caption="excavation detail 1" credit="" alt="stuff measured the size of the hole." >}}
 
-{{< image src="Fig. 25, II.v. 27.26.66.jpg" alt="work on the site excavation." title="excavation work">}}
+{{< image file="Fig. 25, II.v. 27.26.66.jpg" caption="excavation work" credit="" alt="work on the site excavation." >}}
 
-{{< image src="Fig. 26, II.v. 36.26.66.jpg" alt="the excavation site looked like a T shape with many fragments  ." title="one excavation site">}}
+{{< image file="Fig. 26, II.v. 36.26.66.jpg" caption="one excavation site" credit="" alt="the excavation site looked like a T shape with many fragments  ." >}}
 
-{{< image src="Fig. 27, II.v. 36.17.66.jpg" alt="the excavated bones  ." title="the excavated bones">}}
+{{< image file="Fig. 27, II.v. 36.17.66.jpg" caption="the excavated bones" credit="" alt="the excavated bones  ." >}}
 
-{{< image src="Fig. 28, II.v. 36.19.66.jpg" alt="the excavated holes  ." title="the excavated holes">}}
+{{< image file="Fig. 28, II.v. 36.19.66.jpg" caption="the excavated holes" credit="" alt="the excavated holes  ." >}}
 
-{{< image src="Fig. 29, II.v. 37.9.66.jpg" alt="people sit on the excavated root cavities, looking at the remains  ." title="excavated root cavities">}}
+{{< image file="Fig. 29, II.v. 37.9.66.jpg" caption="excavated root cavities" credit="" alt="people sit on the excavated root cavities, looking at the remains  ." >}}
 
-{{< image src="Fig. 30, II.v. 4.16.68.jpg" alt="people are working on the excavation work ." title="work on the excavation">}}
+{{< image file="Fig. 30, II.v. 4.16.68.jpg" caption="work on the excavation" credit="" alt="people are working on the excavation work ." >}}
 
-{{< image src="Fig. 31, II.v. 4.21.68.jpg" alt="the trees in the site ." title="trees in the site">}}
+{{< image file="Fig. 31, II.v. 4.21.68.jpg" caption="trees in the site" credit="" alt="the trees in the site ." >}}
 
-{{< image src="Fig. 32, II.v. 1.28.68.jpg" alt="stuff looked at the site, the site is large ." title="large excavated site">}}
+{{< image file="Fig. 32, II.v. 1.28.68.jpg" caption="large excavated site" credit="" alt="stuff looked at the site, the site is large ." >}}
 
-{{< image src="Fig. 33, II.v 24.10.68.jpg" alt="stuff rest near the site, the site is large with arranged stones." title="large excavated site with the arranged stones">}}
+{{< image file="Fig. 33, II.v 24.10.68.jpg" caption="large excavated site with the arranged stones" credit="" alt="stuff rest near the site, the site is large with arranged stones." >}}
 
-{{< image src="Fig. 34, II.v. 22.15.68.jpg" alt="stuff worked on the excavation." title="excavation on one site">}}
+{{< image file="Fig. 34, II.v. 22.15.68.jpg" caption="excavation on one site" credit="" alt="stuff worked on the excavation." >}}
 
-{{< image src="Fig. 35, II.v. 26.20.68.jpg" alt="stuff worked on the hole." title="one hole work">}}
+{{< image file="Fig. 35, II.v. 26.20.68.jpg" caption="one hole work" credit="" alt="stuff worked on the hole." >}}
 
-{{< image src="Fig. 36, II.v. 26.32.68.jpg" alt="one size of the hole and another remains." title="hole and remains">}}
+{{< image file="Fig. 36, II.v. 26.32.68.jpg" caption="hole and remains" credit="" alt="one size of the hole and another remains." >}}
 
-{{< image src="Fig. 37, II.v. 26.34.68.jpg" alt="a line of holes." title="a line of holes">}}
+{{< image file="Fig. 37, II.v. 26.34.68.jpg" caption="a line of holes" credit="" alt="a line of holes." >}}
 
-{{< image src="Fig. 38, II.v. 27.36.68.jpg" alt="one stuff." title="archeologist">}}
+{{< image file="Fig. 38, II.v. 27.36.68.jpg" caption="archeologist" credit="" alt="one stuff." >}}
 
-{{< image src="Fig. 39, II.v. 28.6.68.jpg" alt="fragments and gravel near the wall." title="fragments">}}
+{{< image file="Fig. 39, II.v. 28.6.68.jpg" caption="fragments" credit="" alt="fragments and gravel near the wall." >}}
 
-{{< image src="Fig. 40, II.v. 33.14.68.jpg" alt="people were working at the excavation and discussing something." title="part of site overview">}}
+{{< image file="Fig. 40, II.v. 33.14.68.jpg" caption="part of site overview" credit="" alt="people were working at the excavation and discussing something." >}}
 
-{{< image src="Fig. 41, II.v. 44.34.68.jpg" alt="working on one hole." title="one hole">}}
+{{< image file="Fig. 41, II.v. 44.34.68.jpg" caption="one hole" credit="" alt="working on one hole." >}}
 
-{{< image src="Fig. 42, II.v. 51.13.68.jpg" alt="three different shape holes." title="three holes">}}
+{{< image file="Fig. 42, II.v. 51.13.68.jpg" caption="three holes" credit="" alt="three different shape holes." >}}
 
-{{< image src="Fig. 43, II.v. 56.29.68.jpg" alt="a line-shape hole." title="a line-shape hole">}}
+{{< image file="Fig. 43, II.v. 56.29.68.jpg" caption="a line-shape hole" credit="" alt="a line-shape hole." >}}
 
-{{< image src="Fig. 44, II.v. 58.3.68.jpg" alt="the remains." title="stone remains 1">}}
+{{< image file="Fig. 44, II.v. 58.3.68.jpg" caption="stone remains 1" credit="" alt="the remains." >}}
 
-{{< image src="Fig. 45, II.v. 58.4.68.jpg" alt="the remains detail." title="stone remains detail ">}}
+{{< image file="Fig. 45, II.v. 58.4.68.jpg" caption="stone remains detail" credit="" alt="the remains detail." >}}
 
-{{< image src="Fig. 46, II.v. 58.9.68.jpg" alt="site view." title="site view ">}}
+{{< image file="Fig. 46, II.v. 58.9.68.jpg" caption="site view" credit="" alt="site view." >}}
 
-{{< image src="Fig. 47, II.v. 10.8.70.jpg" alt="four people are working on the excavation." title="excavation work ">}}
+{{< image file="Fig. 47, II.v. 10.8.70.jpg" caption="excavation work" credit="" alt="four people are working on the excavation." >}}
 
-{{< image src="Fig. 48, II.v. 11.23.70.jpg" alt="site view." title="site view">}}
+{{< image file="Fig. 48, II.v. 11.23.70.jpg" caption="site view" credit="" alt="site view." >}}
 
-{{< image src="Fig. 49, II.v. 7.29.70.jpg" alt="site with wild flowers." title="site with wild flowers ">}}
+{{< image file="Fig. 49, II.v. 7.29.70.jpg" caption="site with wild flowers" credit="" alt="site with wild flowers." >}}
 
-{{< image src="Fig. 50, II.v. 7.29.70.jpg" alt="line holes" title="line holes ">}}
+{{< image file="Fig. 50, II.v. 7.29.70.jpg" caption="line holes" credit="" alt="line holes" >}}
 
-{{< image src="Fig. 51, II.v. 7.29.70.jpg" alt="another three holes" title="three holes details ">}}
+{{< image file="Fig. 51, II.v. 7.29.70.jpg" caption="three holes details" credit="" alt="another three holes" >}}
 
-{{< image src="Fig. 52, II.v. 14.3.70.jpg" alt="holes details" title="holes details ">}}
+{{< image file="Fig. 52, II.v. 14.3.70.jpg" caption="holes details" credit="" alt="holes details" >}}
 
-{{< image src="Fig. 52, II.v. 14.3.70.jpg" alt="holes details" title="holes details ">}}
-
-
-{{< image src="Fig. 53, II.v. 14.20.70.jpg" alt="man was working on the hole" title="works on the hole ">}}
-
-{{< image src="Fig. 54, II.v. 14.36.70.jpg" alt="one view of the site" title="one view of the site ">}}
-
-{{< image src="Fig. 55, II.v. 15.7.70.jpg" alt="people gathered to discuss on something" title="people discussion ">}}
-
-{{< image src="Fig. 56, II.v. 15.9.70.jpg" alt="hole detail" title="hole finding ">}}
-
-{{< image src="Fig. 57, II.v. 15.11.70.jpg" alt="people put mud in the hole" title="hole work">}}
+{{< image file="Fig. 52, II.v. 14.3.70.jpg" caption="holes details" credit="" alt="holes details" >}}
 
 
-{{< image src="Fig. 58, II.v. 16.28.70.jpg" alt="fix the hole" title="hole fix ">}}
+{{< image file="Fig. 53, II.v. 14.20.70.jpg" caption="works on the hole" credit="" alt="man was working on the hole" >}}
 
-{{< image src="Fig. 59, II.v. 16.38.70.jpg" alt="people worked on the excavation" title="excavation work ">}}
+{{< image file="Fig. 54, II.v. 14.36.70.jpg" caption="one view of the site" credit="" alt="one view of the site" >}}
 
-{{< image src="Fig. 60 II.v. 18.3.70.jpg" alt="the excavation" title="the excavation ">}}-->
+{{< image file="Fig. 55, II.v. 15.7.70.jpg" caption="people discussion" credit="" alt="people gathered to discuss on something" >}}
+
+{{< image file="Fig. 56, II.v. 15.9.70.jpg" caption="hole finding" credit="" alt="hole detail" >}}
+
+{{< image file="Fig. 57, II.v. 15.11.70.jpg" caption="hole work" credit="" alt="people put mud in the hole" >}}
+
+
+{{< image file="Fig. 58, II.v. 16.28.70.jpg" caption="hole fix" credit="" alt="fix the hole" >}}
+
+{{< image file="Fig. 59, II.v. 16.38.70.jpg" caption="excavation work" credit="" alt="people worked on the excavation" >}}
+
+{{< image file="Fig. 60 II.v. 18.3.70.jpg" caption="the excavation" credit="" alt="the excavation" >}}-->
 
 ## Keywords
 

@@ -42,9 +42,9 @@ C
 C. There are five rooms south of the peristyle and on a lower level beyond them is another garden (c).
 
 ## Plans
-{{< image src="herculaneum_or.i_c.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
+{{< image file="herculaneum_or.i_c.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
 
-{{< image src="h_orientalis_1_1-3-c.jpg" alt="Herculaneum - insula orientalis I. 1-3-c" title="Herculaneum - insula orientalis I. 1-3-c" >}}
+{{< image file="h_orientalis_1_1-3-c.jpg" caption="Herculaneum - insula orientalis I. 1-3-c" credit="" alt="Herculaneum - insula orientalis I. 1-3-c" >}}
 
 
 ## Places

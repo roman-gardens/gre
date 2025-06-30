@@ -52,17 +52,17 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 ## Plans
-{{< image src="H_3_3-17.jpg" alt="Plan of Casa del Tramezzo di Legno" title="Plan of Casa del Tramezzo di Legno" >}}
+{{< image file="H_3_3-17.jpg" caption="Plan of Casa del Tramezzo di Legno" credit="" alt="Plan of Casa del Tramezzo di Legno" >}}
 
 ## Images
-{{< image src="Herc. III.11   13.36.(55).jpg" alt="Illustration of Casa del Tramezzo di Legno" title="Illustration of Casa del Tramezzo di Legno" >}}
+{{< image file="Herc. III.11   13.36.(55).jpg" caption="Illustration of Casa del Tramezzo di Legno" credit="" alt="Illustration of Casa del Tramezzo di Legno" >}}
 
-{{< image src="Herc. III.11   68.16.57.jpg" alt="Illustration of Casa del Tramezzo di Legno" title="Illustration of Casa del Tramezzo di Legno" >}}
+{{< image file="Herc. III.11   68.16.57.jpg" caption="Illustration of Casa del Tramezzo di Legno" credit="" alt="Illustration of Casa del Tramezzo di Legno" >}}
 
-{{< image src="Herc. III.11   68.17.57.jpg" alt="Illustration of Casa del Tramezzo di Legno" title="Illustration of Casa del Tramezzo di Legno" >}}
+{{< image file="Herc. III.11   68.17.57.jpg" caption="Illustration of Casa del Tramezzo di Legno" credit="" alt="Illustration of Casa del Tramezzo di Legno" >}}
 
 
 ## Places

@@ -56,28 +56,28 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 <!--## Plans
 
-{{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
 
-{{< image src="../region-i-insula-vi.png" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." title="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement)." >}}
+{{< image file="../region-i-insula-vi.png" caption="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027" credit="" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." >}}
 
 ## Images
 
-{{< image src="Fig_24_I.vi.15_3.31.72.jpg" alt="Fig. 3: I. vi. 3.31.72, S.A. Jashemski." title="Fig. 3: I. vi. 3.31.72, S.A. Jashemski (Rights Statement)." >}}
+{{< image file="Fig_24_I.vi.15_3.31.72.jpg" caption="Fig. 3: I. vi. 3.31.72, S.A. Jashemski" credit="" alt="Fig. 3: I. vi. 3.31.72, S.A. Jashemski." >}}
 
-{{< image src="Fig_25_I.vi.15_5.13.59.jpg" alt="Fig. 4: I. vi. 5.13.59, S.A. Jashemski." title="Fig. 4: I. vi. 5.13.59, S.A. Jashemski (Rights Statement)." >}}
+{{< image file="Fig_25_I.vi.15_5.13.59.jpg" caption="Fig. 4: I. vi. 5.13.59, S.A. Jashemski" credit="" alt="Fig. 4: I. vi. 5.13.59, S.A. Jashemski." >}}
 
-{{< image src="Fig_26_I.vi.15_5.17.59.jpg" alt="Fig. 5: I. vi. 5.17.59, S.A. Jashemski." title="Fig. 5: I. vi. 5.17.59, S.A. Jashemski (Rights Statement)." >}}
+{{< image file="Fig_26_I.vi.15_5.17.59.jpg" caption="Fig. 5: I. vi. 5.17.59, S.A. Jashemski" credit="" alt="Fig. 5: I. vi. 5.17.59, S.A. Jashemski." >}}
 
-{{< image src="Fig_27_I.vi.15_5.18.59.jpg" alt="Fig. 6: I. vi. 5.18.59, S.A. Jashemski." title="Fig. 6: I. vi. 5.18.59, S.A. Jashemski (Rights Statement)." >}}
+{{< image file="Fig_27_I.vi.15_5.18.59.jpg" caption="Fig. 6: I. vi. 5.18.59, S.A. Jashemski" credit="" alt="Fig. 6: I. vi. 5.18.59, S.A. Jashemski." >}}
 
-{{< image src="Fig_28_I.vi.15_16.24.68.jpg" alt="Fig. 7: I.vi. 16.24.68, S.A. Jashemski." title="Fig. 7: I.vi. 16.24.68, S.A. Jashemski (Rights Statement)." >}}
+{{< image file="Fig_28_I.vi.15_16.24.68.jpg" caption="Fig. 7: I.vi. 16.24.68, S.A. Jashemski" credit="" alt="Fig. 7: I.vi. 16.24.68, S.A. Jashemski." >}}
 
-{{< image src="Fig_29_I.vi.15_45.18.64.jpg" alt="Fig. 8: I. vi. 45.18.64, S.A. Jashemski." title="Fig. 8: I. vi. 45.18.64, S.A. Jashemski (Rights Statement)." >}}-->
+{{< image file="Fig_29_I.vi.15_45.18.64.jpg" caption="Fig. 8: I. vi. 45.18.64, S.A. Jashemski" credit="" alt="Fig. 8: I. vi. 45.18.64, S.A. Jashemski." >}}-->
 
 ## Dates
 Excavated 1913.

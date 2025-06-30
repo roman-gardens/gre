@@ -48,19 +48,19 @@ House of the Cryptoporticus (Maison du Cryptoportique)
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="House_of_the_cryptoportique1.jpg" alt="Plan of the House of the Cryptoportique at Karthago; Catherine Balmelle et al., 2012" title="Fig. 1: Plan of the House of the Cryptoportique. (Catherine Balmelle et al., 2012, fig. 271)" >}}
+{{< image file="House_of_the_cryptoportique1.jpg" caption="Fig. 1: Plan of the House of the Cryptoportique." credit="(Catherine Balmelle et al., 2012, fig. 271)" alt="Plan of the House of the Cryptoportique at Karthago; Catherine Balmelle et al., 2012" >}}
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 
-{{< image src="House_of_the_Cryptoportique_vue.jpg" alt="Photo of the House of the Cryptoportique at Karthago; rights statement" title="Fig. 2: Photo of the House of the Cryptoportique. (photo by J.-B. Bellon)" >}}
+{{< image file="House_of_the_Cryptoportique_vue.jpg" caption="Fig. 2: Photo of the House of the Cryptoportique." credit="Photo by J.-B. Bellon." alt="" >}}
 
 ## Dates
 1st-5th century CE

@@ -22,19 +22,19 @@ The core building of the **House of Fourni** is arranged along a main axis with 
 
 <!--
 ## Maps
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="delos_fig5_maison_de_fourni.jpg" alt="Archaeological plan of the Maison de Fourni" title="Fig. 1:  Maison de Fourni, sketch, 1:250. Drawing by M. Trümper after Bruneau and Ducat 2005, Dépliant VIII; Bruneau 1972 : 305-316, nos. 325-339, figs. 271-294 ; Le Roy 1984 : 167-173, plate 1." >}}
+{{< image file="delos_fig5_maison_de_fourni.jpg" caption="Fig. 1:  Maison de Fourni, sketch, 1:250." credit="Drawing by M. Trümper after Bruneau and Ducat 2005, Dépliant VIII; Bruneau 1972 : 305-316, nos. 325-339, figs. 271-294 ; Le Roy 1984 : 167-173, plate 1." alt="Archaeological plan of the Maison de Fourni" >}}
 
 <!--
 ## Images
-{{< image src="delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." title="Fig. 4: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast. Photo courtesy of M. Trümper." >}}
+{{< image file="delos_fig8_perfumery.jpg" caption="Fig. 4: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast." credit="Photo courtesy of M. Trümper." alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." >}}
 
-{{< image src="delos_fig9_theat_quart_ii_house_e.jpg" alt="Photo of courtyard inside house E" title="Fig. 5:  Quarter of the Theater, insula II, house E, overview of the courtyard from southwest. Photo courtesy of M. Trümper." >}}
+{{< image file="delos_fig9_theat_quart_ii_house_e.jpg" caption="Fig. 5:  Quarter of the Theater, insula II, house E, overview of the courtyard from southwest." credit="Photo courtesy of M. Trümper." alt="Photo of courtyard inside house E" >}}
 
-{{< image src="delos_fig10_theat_quart_house_f.jpg" alt="Photo of courtyard inside house F" title="Fig. 6:  Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest. Photo courtesy of M. Trümper." >}}
+{{< image file="delos_fig10_theat_quart_house_f.jpg" caption="Fig. 6:  Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest." credit="Photo courtesy of M. Trümper." alt="Photo of courtyard inside house F" >}}
 -->
 
 ## Bibliography

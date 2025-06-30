@@ -37,18 +37,18 @@ Only the residential part of this farm has been excavated. The house with a widt
 <!--## Maps-->
 
 <!--
-{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans
 
-{{< image src="EUR_ger_sup_fig_16_wiesbadeb_B_carroll.jpg" alt="Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west. Adapted from Baatz and Herrmann 1989, fig. 471." title="Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west. Adapted from Baatz and Herrmann 1989, fig. 471. (Rights Statement)" >}}
+{{< image file="EUR_ger_sup_fig_16_wiesbadeb_B_carroll.jpg" caption="Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west." credit="Adapted from Baatz and Herrmann 1989, fig. 471." alt="Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west. Adapted from Baatz and Herrmann 1989, fig. 471." >}}
 
 
 <!--## Images-->
 
 <!--
-{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Dates

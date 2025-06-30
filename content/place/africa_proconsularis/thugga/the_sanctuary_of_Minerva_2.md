@@ -24,7 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 - {{< id vocab="Pleiades" id="315223" name="THUGGA (Dougga) Tunisia" >}}
 
 
-{{< image src="dougga_the_sanctuary_of_minerva.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
+{{< image file="dougga_the_sanctuary_of_minerva.jpg" caption="Plan of Thugga" credit="(Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" alt="Plan of Thugga" >}}
 
 ## Location Description
 
@@ -52,7 +52,7 @@ The sanctuary of Minerva 2, (138-161 CE), built later than the *templa Concordia
 
 ## Plans
 
-{{< image src="the_sanctuary_of_minerva_2.jpg" alt="Plan of the sanctuary of Minerva 2" title="Fig.1 Plan of the sanctuary of Minerva 2 (From Saint-Amans, S., 2004, p. 216, fig. 2a)" >}}
+{{< image file="the_sanctuary_of_minerva_2.jpg" caption="Fig.1 Plan of the sanctuary of Minerva 2" credit="(From Saint-Amans, S., 2004, p. 216, fig. 2a)" alt="Plan of the sanctuary of Minerva 2" >}}
 
 ## Dates
 

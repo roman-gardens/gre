@@ -63,6 +63,7 @@ div.container {
 }
 
 figure {
+  margin-top: 0.5em;
   margin-bottom: 2em;
 }
 
@@ -97,6 +98,9 @@ figure img:hover {
 
 figcaption {
   color: #000;
+}
+figcaption div.credit {
+  font-size: 80%;
 }
 
 h1, h2, h3, h4, h5, h6 {

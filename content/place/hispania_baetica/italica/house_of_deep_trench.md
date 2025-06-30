@@ -41,11 +41,11 @@ In late antiquity, a new city wall was built excluding most of the Hadrianic add
 
 ## Maps
 
-{{< image src="HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
+{{< image file="HIS_BAE_Italica_city plan_CA.jpg" caption="Fig. 1: Map of Italica." credit="" alt="" >}}
 
 ## Images
 
-{{< image src="HIS_BAE_Italica_Hdt fig 1.jpg" alt="Fig. 1:  Photo of the House of the Deep Trench. (Rights Statement)" >}}
+{{< image file="HIS_BAE_Italica_Hdt fig 1.jpg" caption="Fig. 1:  Photo of the House of the Deep Trench." credit="" alt="" >}}
 
 
 ## Dates

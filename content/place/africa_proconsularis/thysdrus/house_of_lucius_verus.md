@@ -48,7 +48,7 @@ The house was laid out around a large persityle garden of twenty-two columns (20
 <!--## Maps-->
 
 ## Plans
-{{< image src="House_Lucius_verus1.jpg" alt="Fig. 1: Plan of the House of Lucius Verus." title="Fig. 1: Plan of the House of Lucius Verus (Afrique dans l'Occident romain, fig. 8)" >}}
+{{< image file="House_Lucius_verus1.jpg" caption="Fig. 1: Plan of the House of Lucius Verus (Afrique dans l'Occident romain, fig. 8)" credit="" alt="Fig. 1: Plan of the House of Lucius Verus." >}}
 
 <!--## Images-->
 

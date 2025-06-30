@@ -50,7 +50,7 @@ The House of the Columns, approximately 1880 square meters, is located to the no
 
 ## Plans
 <!--Plan View Image Missing-->
-<!-- {{< image src="IMAGEMISSING" alt="Plan of the House of the Columns" title="Fig. 1: Plan of the House of the Columns (Rights Statement)">}} -->
+<!-- {{< image file="IMAGEMISSING" caption="Fig. 1: Plan of the House of the Columns" credit="" alt="Plan of the House of the Columns" >}} -->
 
 ## Images
 

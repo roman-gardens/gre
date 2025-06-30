@@ -46,7 +46,7 @@ A. A very small bath was located at the left rear of the [atrium](http://vocab.g
 B. Another small garden was found to the rear of the [caupona](http://vocab.getty.edu/page/aat/300005208).
 
 <!--## Plans
-{{< image src="../../fig._62,_plan_of_region_ii,_insula_viii.png" alt="Fig. 62, Plan of Region II, insula viii" title="Fig. 62, Plan of Region II, insula viii" >}}-->
+{{< image file="../../fig._62,_plan_of_region_ii,_insula_viii.png" caption="Fig. 62, Plan of Region II, insula viii" credit="" alt="Fig. 62, Plan of Region II, insula viii" >}}-->
 
 ## Places
 - {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}

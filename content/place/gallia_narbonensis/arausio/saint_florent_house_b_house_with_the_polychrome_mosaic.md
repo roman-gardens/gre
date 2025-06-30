@@ -56,7 +56,7 @@ It was of high quality construction with eight black and white floor mosaics wit
 ## Plans
 
 
-{{< image src="saint_florent_house_b_house_with_the_polychrome_mosaic.png" alt="Plan of Saint-Florent, House B, House with the Polychrome Mosaic" title="Plan of Saint-Florent, House B, House with the Polychrome Mosaic" >}}
+{{< image file="saint_florent_house_b_house_with_the_polychrome_mosaic.png" caption="Plan of Saint-Florent, House B, House with the Polychrome Mosaic" credit="" alt="Plan of Saint-Florent, House B, House with the Polychrome Mosaic" >}}
 
 
 ## Dates

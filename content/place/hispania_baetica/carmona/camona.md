@@ -36,22 +36,22 @@ In the necropolis of Carmona, near Seville, is a very large and deep tomb create
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 <!--## Plans-->
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 
-{{< image src="7-carmona-plan.png" alt="Figure 7 – Plan of the Elephant tomb at the necropolis of Carmona near Seville. (Rights Statement)" >}}
+{{< image file="7-carmona-plan.png" caption="Figure 7 – Plan of the Elephant tomb at the necropolis of Carmona near Seville." credit="" alt="" >}}
 
-{{< image src="8-reconstruction-of-the-tomb.jpg" alt="Figure 8 – Aerial view reconstruction of the tomb. (Rights Statement)" >}}
+{{< image file="8-reconstruction-of-the-tomb.jpg" caption="Figure 8 – Aerial view reconstruction of the tomb." credit="" alt="" >}}
 
-{{< image src="9-photo-of-carmona.jpg" alt="Figure 9 – Photo of the Tomb of the Elefant at Carmona. (Rights Statement)">}}
+{{< image file="9-photo-of-carmona.jpg" caption="Figure 9 – Photo of the Tomb of the Elefant at Carmona." credit="" alt="" >}}
 
 
 ## Dates

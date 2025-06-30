@@ -23,7 +23,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 - [Pupput]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="315121" name="Pupput" >}}
 
-{{< image src="city_plan_house_of_the_black_and_white_triclinium.jpg" alt="Plan of the residential quarters (Th. Leroy)" title="Plan of the residential quarters (Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)" >}}
+{{< image file="city_plan_house_of_the_black_and_white_triclinium.jpg" caption="Plan of the residential quarters" credit="(Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)" alt="Plan of the residential quarters (Th. Leroy)" >}}
 
 ## Location Description
 
@@ -46,19 +46,19 @@ The house is laid out around a square shaped peristyle garden. Between the colum
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image src="AFR_Pup_Hbwt_Amalek1.jpg" alt="Plan of the House of the Black and White Triclinium; Ch. Peirce, in Ben Abed Ben Khader, A., 1990" title="Fig. 1: Plan of the House of the Black and White Triclinium (Ch. Peirce, from Ben Abed Ben Khader, A., 1990)" >}}
+{{< image file="AFR_Pup_Hbwt_Amalek1.jpg" caption="Fig. 1: Plan of the House of the Black and White Triclinium" credit="(Ch. Peirce, from Ben Abed Ben Khader, A., 1990)" alt="Plan of the House of the Black and White Triclinium; Ch. Peirce, in Ben Abed Ben Khader, A., 1990" >}}
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

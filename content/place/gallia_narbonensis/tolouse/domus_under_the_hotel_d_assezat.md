@@ -64,12 +64,12 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="domus_under_the_hotel_d_assezat.png" alt="Plan of Domus under the Hôtel d’Assézat" title="Plan of Domus under the Hôtel d’Assézat" >}}
+{{< image file="domus_under_the_hotel_d_assezat.png" caption="Plan of Domus under the Hôtel d’Assézat" credit="" alt="Plan of Domus under the Hôtel d’Assézat" >}}
 
 
 ## Dates

@@ -47,9 +47,9 @@ This terrace offers a splendid view of Tivoli and its mountains (Fig. 30). The c
 
 ## Plans
 
-{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image file="1_gardens_general_plan.jpg" caption="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the gardens at Hadrian's Villa" >}}
 
-{{< image src="30_tempe's_terrace.jpg" alt="Plan of the Terrace on the valley of Tempe at Hadrian's Villa" title="Fig. 30: Plan of the Terrace on the valey of Tempe, Eugenia Salza Prina Ricotti." >}}
+{{< image file="30_tempe's_terrace.jpg" caption="Fig. 30: Plan of the Terrace on the valey of Tempe, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the Terrace on the valley of Tempe at Hadrian's Villa" >}}
 
 ## Dates
 

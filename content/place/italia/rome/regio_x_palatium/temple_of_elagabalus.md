@@ -80,19 +80,19 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 
 ## Figures
 
-{{< image src="elagabalium_fig1.jpg" alt="Reconstruction of the Vigna Barberini complex" title="Fig. 1: Reconstruction of the late monumental complex (©. P. Veltri, EFR)." >}}
+{{< image file="elagabalium_fig1.jpg" caption="Fig. 1: Reconstruction of the late monumental complex (©. P. Veltri, EFR)." credit="" alt="Reconstruction of the Vigna Barberini complex" >}}
 
-{{< image src="elagabalium_fig2.jpg" alt="Reconstruction of the Vigna Barberini complex" title="Fig. 2: Reconstruction of the late monumental complex (©. P. Veltri, EFR).." >}}
+{{< image file="elagabalium_fig2.jpg" caption="Fig. 2: Reconstruction of the late monumental complex (©. P. Veltri, EFR).." credit="" alt="Reconstruction of the Vigna Barberini complex" >}}
 
-{{< image src="elagabalium_fig3.jpg" alt="Southern Wall of Heliogabalium" title="Fig. 3: View of the southern wall, which separated the Heliogabalium from the Domus Augustana (© Ch. Durand, AMU-CNRS, CCJ)." >}}
+{{< image file="elagabalium_fig3.jpg" caption="Fig. 3: View of the southern wall, which separated the Heliogabalium from the Domus Augustana (© Ch. Durand, AMU-CNRS, CCJ)." credit="" alt="Southern Wall of Heliogabalium" >}}
 
-{{< image src="elagabalium_fig4.jpg" alt="Reconstruction of the Temple Garden" title="Fig. 4: Reconstruction of the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA & P. Veltri, EFR)." >}}
+{{< image file="elagabalium_fig4.jpg" caption="Fig. 4: Reconstruction of the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA & P. Veltri, EFR)." credit="" alt="Reconstruction of the Temple Garden" >}}
 
-{{< image src="elagabalium_fig5.jpg" alt="Amphora Severan Gardens" title="Fig. 5: Halved amphorae used as flowerpots in the Severan gardens (© Ch. Durand, AMU-CNRS, CCJ)." >}}
+{{< image file="elagabalium_fig5.jpg" caption="Fig. 5: Halved amphorae used as flowerpots in the Severan gardens (© Ch. Durand, AMU-CNRS, CCJ)." credit="" alt="Amphora Severan Gardens" >}}
 
-{{< image src="elagabalium_fig6.jpg" alt="Reconstruction of the Elagabalium Garden" title="Fig. 6: Reconstruction of part of the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA & P. Veltri, EFR)." >}}
+{{< image file="elagabalium_fig6.jpg" caption="Fig. 6: Reconstruction of part of the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA & P. Veltri, EFR)." credit="" alt="Reconstruction of the Elagabalium Garden" >}}
 
-{{< image src="elagabalium_fig7.jpg" alt="Reconstruction of a tree bed" title="Fig. 7: Reconstruction of a tree and planting bed in the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA)." >}}
+{{< image file="elagabalium_fig7.jpg" caption="Fig. 7: Reconstruction of a tree and planting bed in the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA)." credit="" alt="Reconstruction of a tree bed" >}}
 
 ## Dates
 

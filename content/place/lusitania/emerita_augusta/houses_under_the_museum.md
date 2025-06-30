@@ -58,12 +58,12 @@ The remains of another colonnaded court (in the southeast corner of the crypt) c
 
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="his_lus_house_under_museum_fig1.jpg" alt="Fig. 1: Plan of the houses under the Museum." title="Fig. 1: Plan of the houses under the Museum." >}}
+{{< image file="his_lus_house_under_museum_fig1.jpg" caption="Fig. 1: Plan of the houses under the Museum." credit="" alt="Fig. 1: Plan of the houses under the Museum." >}}
 
 ## Dates
 

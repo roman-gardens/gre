@@ -52,13 +52,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
 
-{{< image src="enclos_milhaud_house_with_the_large_peristyle.png" alt="Plan of the House with the Large Peristyle" title="Fig.1 Enclos Milhaud, House with the large peristyle" >}}
+{{< image file="enclos_milhaud_house_with_the_large_peristyle.png" caption="Fig.1 Enclos Milhaud, House with the large peristyle" credit="" alt="Plan of the House with the Large Peristyle" >}}
 
 
 <!--## Images-->
@@ -68,7 +68,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

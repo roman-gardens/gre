@@ -37,11 +37,11 @@ This triangular area, number 19 on the map and on the visitor's left immediately
 
 ## Maps
 
-{{< image src="HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
+{{< image file="HIS_BAE_Italica_city plan_CA.jpg" caption="Fig. 1: Map of Italica." credit="" alt="" >}}
 
 ## Images
 
-{{< image src="HIS_BAE_Italica_public park_CA fig1.jpg" alt="Fig. 2: Public park photographed looking west towards the gate at the far corner of the triangle. (Rights Statement)" >}}
+{{< image file="HIS_BAE_Italica_public park_CA fig1.jpg" caption="Fig. 2: Public park photographed looking west towards the gate at the far corner of the triangle." credit="" alt="" >}}
 
 ## Dates
 

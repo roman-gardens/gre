@@ -33,7 +33,7 @@ A fragmentary opisthographic slab of unknown urban provenance, now in the Lapida
 ## Maps
 
 <!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

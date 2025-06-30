@@ -23,7 +23,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 - [THUGGA (Dougga) Tunisia]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="315223" name="THUGGA (Dougga) Tunisia" >}}
 
-{{< image src="dougga_the_sanctuary_of_caelestis.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
+{{< image file="dougga_the_sanctuary_of_caelestis.jpg" caption="Plan of Thugga" credit="(Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" alt="Plan of Thugga" >}}
 
 ## Location Description
 
@@ -48,7 +48,7 @@ The sanctuary of *Caelestis*, installed on the north-western outskirts of the ci
 
 ## Plans
 
-{{< image src="the_sanctuary_of_caelestis.jpg" alt="The sanctuary of Caelestis" title="Fig. 1: Plan of the sanctuary of Caelestis (From Golvin, J.-C., Khanoussi, M. (dir.) 2005, p. 181, fig. 171])" >}}
+{{< image file="the_sanctuary_of_caelestis.jpg" caption="Fig. 1: Plan of the sanctuary of Caelestis" credit="(From Golvin, J.-C., Khanoussi, M. (dir.) 2005, p. 181, fig. 171])" alt="The sanctuary of Caelestis" >}}
 
 ## Dates
 

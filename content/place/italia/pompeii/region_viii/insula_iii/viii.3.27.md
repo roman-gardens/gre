@@ -39,7 +39,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 From the street, the fauces led to the entrance to the garden (a) which was enclosed on the south and west by a portico with five columns and two engaged columns, all connected by a low wall. The original excavation plan shows a water channel on the south and west edges.
 
 ## Plans
-{{< image src="fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
+{{< image file="fig.5._region_viii._insula_iii.png" caption="Plan of Region VIII Insula III" credit="" alt="Plan of Region VIII Insula III" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

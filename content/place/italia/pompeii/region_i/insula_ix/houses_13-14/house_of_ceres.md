@@ -61,22 +61,22 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
 
-{{< image src="../region-i-insula-ix.png" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." title="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement)." >}}
+{{< image file="../region-i-insula-ix.png" caption="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44" credit="" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." >}}
 
 ## Images
 
-{{< image src="Fig_54_I.ix.13_43.19.68.jpg" alt="Fig. 3: 43.19.68, S.A. Jashemski." title="Fig. 3: 43.19.68, S.A. Jashemski (Rights Statement)." >}}
+{{< image file="Fig_54_I.ix.13_43.19.68.jpg" caption="Fig. 3: 43.19.68, S.A. Jashemski" credit="" alt="Fig. 3: 43.19.68, S.A. Jashemski." >}}
 
-{{< image src="Fig_55_I.ix.13_35.13.66.jpg" alt="Fig. 4: 35.13.66, S.A. Jashemski." title="Fig. 4: 35.13.66, S.A. Jashemski (Rights Statement)." >}}
+{{< image file="Fig_55_I.ix.13_35.13.66.jpg" caption="Fig. 4: 35.13.66, S.A. Jashemski" credit="" alt="Fig. 4: 35.13.66, S.A. Jashemski." >}}
 
-{{< image src="Fig_56_I.ix.13_39.17.68.jpg" alt="Fig. 5: 39.17.68, S.A. Jashemski." title="Fig. 5: 39.17.68, S.A. Jashemski (Rights Statement)." >}}
+{{< image file="Fig_56_I.ix.13_39.17.68.jpg" caption="Fig. 5: 39.17.68, S.A. Jashemski" credit="" alt="Fig. 5: 39.17.68, S.A. Jashemski." >}}
 
 ## Dates
 
