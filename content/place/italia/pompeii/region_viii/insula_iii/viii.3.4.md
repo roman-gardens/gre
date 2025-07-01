@@ -40,7 +40,7 @@ A. Past the tablinium of this house there was a garden (a) with a portico on the
 B. The garden (a) had an entrance to this area (b) which was planted after having been cleared of old structures.
 
 ## Plans
-{{< image file="fig.5._region_viii._insula_iii.png" caption="Plan of Region VIII Insula III" credit="" alt="Plan of Region VIII Insula III" >}}
+{{< image file="fig.5._region_viii._insula_iii.png" caption="Plan of Region VIII Insula III" credit="" alt="" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

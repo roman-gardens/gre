@@ -62,7 +62,7 @@ The  low wing of the palace (Fig 2, AK) incorporated the two Hasmonean swimming 
 
 ## Images
 
-{{< image file="ASIA_JUD_JERICHO_9.jpg" caption="Figure 3: Planting pots such as this are known from around the Greek and Roman world, although this one is particularly elegant in shape. The ancient authors describe how such pots were used for the propagation of a variety of trees, shrubs, and vines. (K. Gleason)." credit="" alt="Figure 3: Planting pots such as this are known from around the Greek and Roman world, although this one is particularly elegant in shape. The ancient authors describe how such pots were used for the propagation of a variety of trees, shrubs, and vines. (K. Gleason)." >}}
+{{< image file="ASIA_JUD_JERICHO_9.jpg" caption="Figure 3: Planting pots such as this are known from around the Greek and Roman world, although this one is particularly elegant in shape. The ancient authors describe how such pots were used for the propagation of a variety of trees, shrubs, and vines. (K. Gleason)." credit="" alt="" >}}
 
 {{< image file="fig_10.jpg" caption="Figure 4: The raised garden in the peristyle courtyard in Herod's Second Palace." credit="Photo by E. Netzer." alt="" >}}
 

@@ -55,7 +55,7 @@ The natural slope of the terrain towards the east led to building the house in l
 ## Plans
 
 
-{{< image file="le_pinard_house_A.png" caption="Plan of Le Pinard, House A" credit="" alt="Plan of Le Pinard, House A" >}}
+{{< image file="le_pinard_house_A.png" caption="Plan of Le Pinard, House A" credit="" alt="" >}}
 
 
 ## Dates

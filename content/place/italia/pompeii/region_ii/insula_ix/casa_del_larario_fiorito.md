@@ -46,7 +46,7 @@ The team made 160 casts in this garden. Pollen and charcoal were also collected 
 
 <!--
 ## Plans
-{{< image file="../../fig._75,_plan_of_region_ii,_insula_ix.png" caption="Fig. 75, Plan of Region II, insula ix" credit="" alt="Fig. 75, Plan of Region II, insula ix" >}}
+{{< image file="../../fig._75,_plan_of_region_ii,_insula_ix.png" caption="Fig. 75, Plan of Region II, insula ix" credit="" alt="" >}}
 
 Need Fig. 76
 

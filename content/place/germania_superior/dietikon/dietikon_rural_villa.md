@@ -50,13 +50,13 @@ In the late 1st century, around AD 70, the timber-lined pool in the west was rep
 
 {{< image file="EUR_GS_Die_Rv3_carroll.jpg" caption="Fig. 2: Plan of the main building with its garden, phase 1, ca. 50-70 AD." credit="Plan courtesy of Christa Ebnöther." alt="Fig. 2: Plan of the main building with its garden, phase 1, ca. 50-70 AD. Plan courtesy of Christa Ebnöther." >}}
 
-{{< image file="EUR_GS_Die_Rv4_carroll.jpg" caption="Fig. 3: Plan of the main building showing the curved plantings flanking the path." credit="" alt="Fig. 3: Plan of the main building showing the curved plantings flanking the path." >}}
+{{< image file="EUR_GS_Die_Rv4_carroll.jpg" caption="Fig. 3: Plan of the main building showing the curved plantings flanking the path." credit="" alt="" >}}
 
 ## Images
 
-{{< image file="EUR_GS_Die_Rv2_carroll.jpg" caption="Fig. 4: Reconstructed perspective drawing." credit="" alt="Fig. 4: Reconstructed perspective drawing." >}}
+{{< image file="EUR_GS_Die_Rv2_carroll.jpg" caption="Fig. 4: Reconstructed perspective drawing." credit="" alt="" >}}
 
-{{< image file="EUR_GS_Die_Rv5_carroll.jpg" caption="Fig. 5: Photo of the masonry pool with planting pattern of the courtyard garden retained." credit="" alt="Fig. 5: Photo of the masonry pool with planting pattern of the courtyard garden retained." >}}
+{{< image file="EUR_GS_Die_Rv5_carroll.jpg" caption="Fig. 5: Photo of the masonry pool with planting pattern of the courtyard garden retained." credit="" alt="" >}}
 
 ## Dates
 

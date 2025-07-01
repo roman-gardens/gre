@@ -63,7 +63,7 @@ NEW WAY ↓↓↓↓
 ## Plans
 
 
-{{< image file="house_of_sucellus.png" caption="Plan of House of Sucellus" credit="" alt="Plan of House of Sucellus" >}}
+{{< image file="house_of_sucellus.png" caption="Plan of House of Sucellus" credit="" alt="" >}}
 
 
 ## Dates

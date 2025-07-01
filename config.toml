@@ -19,6 +19,7 @@ removePathAccents = true
 titleCaseStyle = "go"
 
 # This needs to be high to insure .Summary includes the Garden Description
+# This can probably be reduced once the province descriptions are moved out of the garden articles
 summaryLength = 10000
 
 # suppress warnings about having raw HTML in markdown (used for tables, etc.)

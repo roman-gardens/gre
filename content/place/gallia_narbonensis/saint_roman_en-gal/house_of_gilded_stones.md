@@ -72,7 +72,7 @@ NEW WAY ↓↓↓↓
 
 ## Plans
 
-{{< image file="house_of_the_gilded_stones.png" caption="Plan of House of the Gilded Stones" credit="" alt="Plan of House of the Gilded Stones" >}}
+{{< image file="house_of_the_gilded_stones.png" caption="Plan of House of the Gilded Stones" credit="" alt="" >}}
 
 
 ## Dates

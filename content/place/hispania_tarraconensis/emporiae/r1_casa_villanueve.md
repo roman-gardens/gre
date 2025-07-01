@@ -96,7 +96,7 @@ This large house, some 4,000 square meters, was long and narrow. (Fig. 2) Variou
 - X. Aquilué, J. Ruíz de Arbulo, *La jardinería en la época antigua*, in Historia de los Parques y Jardines en España. Edita FCC, Madrid, 2001 p. 18-20. [(worldcat)](https://search.worldcat.org/title/1090911182)
 
 ## Plans
-{{< image file="HIS_TAR_Emp_villanueva_fig1.jpg" caption="Plan of R1 Casa Villanueve." credit="" alt="Plan of R1 Casa Villanueve." >}}
+{{< image file="HIS_TAR_Emp_villanueva_fig1.jpg" caption="Plan of R1 Casa Villanueve." credit="" alt="" >}}
 
 ## Dates
 1C BC

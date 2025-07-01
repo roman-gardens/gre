@@ -39,7 +39,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Park-like areas were located between the Great Palaestra and the Amphitheater and to the north. Here booths were set up under trees or awnings and a carnival atmosphere existed as depicted in a painting found in the peristyle of house I.iii.23 (Mus. Naz. inv. no. 112 222). Two huge root cavities were found in front of the palaestra by Maiuri, although only one was recorded in his plan, and six trees grew in a row on the north side of the Large Palaestra.
 
 <!--## Plans
-{{< image file="../../fig._61,_plan_of_region_ii,_insula_vii.png" caption="Fig. 61, Plan of Region II, insula vii, plan in Maiuri, NSc(1939), pl.9" credit="" alt="Fig. 61, Plan of Region II, insula vii, plan in Maiuri, NSc(1939), pl.9" >}}-->
+{{< image file="../../fig._61,_plan_of_region_ii,_insula_vii.png" caption="Fig. 61, Plan of Region II, insula vii, plan in Maiuri, NSc(1939), pl.9" credit="" alt="" >}}-->
 
 ## Places
 - {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}

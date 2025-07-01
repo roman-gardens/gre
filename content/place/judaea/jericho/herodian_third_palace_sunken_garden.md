@@ -81,17 +81,17 @@ A huge pool (90 x 40 m.) built to the east of the sunken garden formed an integr
 
 ## Images
 
-{{< image file="/ASIA_JUD_JERICHO_17.jpg" caption="Figure 4: view of the Third Palace showing the Sunken Garden with linear promenades(ambulationes, K. Gleason after J. Salzberg)." credit="" alt="Figure 4: view of the Third Palace showing the Sunken Garden with linear promenades(ambulationes, K. Gleason after J. Salzberg)." >}}
+{{< image file="/ASIA_JUD_JERICHO_17.jpg" caption="Figure 4: view of the Third Palace showing the Sunken Garden with linear promenades(ambulationes, K. Gleason after J. Salzberg)." credit="" alt="" >}}
 
 {{< image file="fig_18.jpg" caption="Fig. 5: The Grand Facade of the Sunken Garden  and Netzer's Trench B3, view from the northwest" credit="(Netzer 2001a: Ill. 433)." alt="Fig. 5: The Grand Facade of the Sunken Garden  and Netzer's Trench B3, view from the northwest (Netzer 2001a: Ill. 433)." >}}
 
-{{< image file="/ASIA_JUD_JERICHO_19.jpg" caption="Figure 6:Axonometric reconstruction of the Hemicycle and the Sunken Garden terrace showing the excavation areas.Light shading indicates the Kelso and Baramki excavations, dark shading indicates Netzer's excavations (K.Gleason after J. Salzberg)." credit="" alt="Figure 6:Axonometric reconstruction of the Hemicycle and the Sunken Garden terrace showing the excavation areas.Light shading indicates the Kelso and Baramki excavations, dark shading indicates Netzer's excavations (K.Gleason after J. Salzberg)." >}}
+{{< image file="/ASIA_JUD_JERICHO_19.jpg" caption="Figure 6:Axonometric reconstruction of the Hemicycle and the Sunken Garden terrace showing the excavation areas.Light shading indicates the Kelso and Baramki excavations, dark shading indicates Netzer's excavations (K.Gleason after J. Salzberg)." credit="" alt="" >}}
 
 {{< image file="ASIA_JUD_JERICHO_20.jpg" caption="Figure 7:Section C-C through the benches of the Hemicycle: opus reticulatum walls set on clay subsoil" credit="(K. Gleason after Kelso and Baramki 1955:18)." alt="Figure 7:Section C-C through the benches of the Hemicycle: opus reticulatum walls set on clay subsoil (K. Gleason after Kelso and Baramki 1955:18)." >}}
 
 {{< image file="fig_21.jpg" caption="Figure 8: Trench B6" credit="(Netzer 2001a: Ill. 435)." alt="Figure 8: Trench B6 (Netzer 2001a: Ill. 435)." >}}
 
-{{< image file="ASIA_JUD_JERICHO_22.jpg" caption="Figure 9:Section D-D in Trench B6 showing garden soils near east end of Sunken Garden at location of flower pot. (K. Gleason)." credit="" alt="Figure 9:Section D-D in Trench B6 showing garden soils near east end of Sunken Garden at location of flower pot. (K. Gleason)." >}}
+{{< image file="ASIA_JUD_JERICHO_22.jpg" caption="Figure 9:Section D-D in Trench B6 showing garden soils near east end of Sunken Garden at location of flower pot. (K. Gleason)." credit="" alt="" >}}
 
 
 ## Dates

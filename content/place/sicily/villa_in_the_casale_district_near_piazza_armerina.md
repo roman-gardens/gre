@@ -49,7 +49,7 @@ The sumptuous fourth-century villa has, not surprisingly, a large and most elabo
 
 ## Images
 
-{{< image file="figure12.png" caption="Fig. 12 Piazza Armerina, plan of late Roman villa" credit="" alt="Fig. 12 Piazza Armerina, plan of late Roman villa" >}}
+{{< image file="figure12.png" caption="Fig. 12 Piazza Armerina, plan of late Roman villa" credit="" alt="" >}}
 
 
 ## Dates

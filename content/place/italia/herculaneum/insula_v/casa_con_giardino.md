@@ -47,7 +47,7 @@ Casa con Giardino
 This humble house had a huge garden (a) which was entered from the long fauceson the north. Most likely used to grow produce, Maiuri speculated that the garden may have belonged to the larger houses to the west at one time.
 
 ## Plans
-{{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="Plan of Casa A Graticcio" >}}
+{{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
 
 
 ## Places

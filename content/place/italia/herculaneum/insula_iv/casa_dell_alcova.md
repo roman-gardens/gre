@@ -63,7 +63,7 @@ NEW WAY ↓↓↓↓
 
 ## Plans
 
-{{< image file="H_4_3-9.jpg" caption="Plan of Casa dell'Alcova" credit="" alt="Plan of Casa dell'Alcova" >}}
+{{< image file="H_4_3-9.jpg" caption="Plan of Casa dell'Alcova" credit="" alt="" >}}
 
 
 <!--## Images-->

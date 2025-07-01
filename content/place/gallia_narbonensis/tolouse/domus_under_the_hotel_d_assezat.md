@@ -69,7 +69,7 @@ NEW WAY ↓↓↓↓
 
 ## Plans
 
-{{< image file="domus_under_the_hotel_d_assezat.png" caption="Plan of Domus under the Hôtel d'Assézat" credit="" alt="Plan of Domus under the Hôtel d'Assézat" >}}
+{{< image file="domus_under_the_hotel_d_assezat.png" caption="Plan of Domus under the Hôtel d'Assézat" credit="" alt="" >}}
 
 
 ## Dates

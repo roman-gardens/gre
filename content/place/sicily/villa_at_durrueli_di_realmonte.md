@@ -50,7 +50,7 @@ There is a small semicircular basin (Farrar Type E) inserted in a secondary peri
 
 ## Images
 
-{{< image file="figure10.png" caption="Fig. 10 Durrueli di Realmonte, plan of Roman villa" credit="" alt="Fig. 10 Durrueli di Realmonte, plan of Roman villa" >}}
+{{< image file="figure10.png" caption="Fig. 10 Durrueli di Realmonte, plan of Roman villa" credit="" alt="" >}}
 
 
 ## Dates

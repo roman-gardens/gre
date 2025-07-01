@@ -48,11 +48,11 @@ A. This garden (a) is built partially into the edge of the hill and partially on
 
 
 ## Plans
-{{< image file="h_orientalis_1_1_3_a.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
-{{< image file="herculaneum_i.1_a.jpg" caption="Herculaneum - insula orientalis I. 1-3" credit="" alt="Herculaneum - insula orientalis I. 1-3" >}}
+{{< image file="h_orientalis_1_1_3_a.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="" >}}
+{{< image file="herculaneum_i.1_a.jpg" caption="Herculaneum - insula orientalis I. 1-3" credit="" alt="" >}}
 ## Images
-{{< image file="herc.i.1_7.12.78.jpg" caption="Herculaneum - insula orientalis I. 1-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Herculaneum - insula orientalis I. 1-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
-{{< image file="herc._i.1_17.11.78.jpg" caption="Herculaneum - insula orientalis I. 1-3 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Herculaneum - insula orientalis I. 1-3 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image file="herc.i.1_7.12.78.jpg" caption="Herculaneum - insula orientalis I. 1-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+{{< image file="herc._i.1_17.11.78.jpg" caption="Herculaneum - insula orientalis I. 1-3 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}

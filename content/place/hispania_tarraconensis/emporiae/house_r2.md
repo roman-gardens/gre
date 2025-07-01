@@ -101,7 +101,7 @@ House R2, situated south of House R1 in the area of the forum of the Roman City 
 - E. Ripio Perelló, Ampurias: Itinerary-Guide, Publicaciones del "Instituto de Prehistoria y Arqueología de la Diputación Provincial de Barcelona, Barcelona, 1972. [(worldcat)](https://search.worldcat.org/title/45255754)
 
 ## Plans
-{{< image file="HIS_TAR_Emp_R2_fig1.jpg" caption="The Roman or Republican city at Ampurias." credit="Adapted from Mar and Ruiiz de Arbulo." alt="The Roman or Republican city at Ampurias." >}}
+{{< image file="HIS_TAR_Emp_R2_fig1.jpg" caption="The Roman or Republican city at Ampurias." credit="Adapted from Mar and Ruiiz de Arbulo." alt="" >}}
 
 
 ## Images

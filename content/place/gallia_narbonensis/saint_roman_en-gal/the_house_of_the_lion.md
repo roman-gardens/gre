@@ -65,7 +65,7 @@ NEW WAY ↓↓↓↓
 ## Plans
 
 
-{{< image file="the_house_of_the_lion.png" caption="Plan of the house of the lion" credit="" alt="Plan of The House of the Lion" >}}
+{{< image file="the_house_of_the_lion.png" caption="Plan of the house of the lion" credit="" alt="" >}}
 
 
 ## Dates

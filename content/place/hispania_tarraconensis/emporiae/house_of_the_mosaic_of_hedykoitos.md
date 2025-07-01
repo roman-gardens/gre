@@ -92,7 +92,7 @@ This house in the northwest corner of Neapolis backs onto the edge of the city, 
 
 
 ## Plans
-{{< image file="HIS_TAR_Emp_Hedykoitos_fig1.jpg" caption="Plan of the House of the Mosaic of Hedykoitos." credit="Adapted from Mar and Ruiz de Arbulo." alt="Plan of the House of the Mosaic of Hedykoitos." >}}
+{{< image file="HIS_TAR_Emp_Hedykoitos_fig1.jpg" caption="Plan of the House of the Mosaic of Hedykoitos." credit="Adapted from Mar and Ruiz de Arbulo." alt="" >}}
 
 
 ## Dates

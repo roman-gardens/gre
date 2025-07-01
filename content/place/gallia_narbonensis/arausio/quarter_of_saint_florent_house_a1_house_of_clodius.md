@@ -60,7 +60,7 @@ The presumed *triclinium* opened through a wide entrance, flanked on either side
 ## Plans
 
 
-{{< image file="quarter_of_saint_florent_house_a1_house_of_clodius.png" caption="Plan of Quarter of Saint-Florent – House A1, House of Clodius" credit="" alt="Plan of Quarter of Saint-Florent – House A1, House of Clodius" >}}
+{{< image file="quarter_of_saint_florent_house_a1_house_of_clodius.png" caption="Plan of Quarter of Saint-Florent – House A1, House of Clodius" credit="" alt="" >}}
 
 
 ## Dates

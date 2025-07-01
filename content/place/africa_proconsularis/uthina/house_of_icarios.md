@@ -43,7 +43,7 @@ This richly decorated house is considered as one of the most remarkable *domus* 
 
 
 ## Plans
-{{< image file="House_of_Icarios_Uthina2.jpg" caption="Fig.1: Plan of the House of Icarios" credit="(Gauckler, P., 1896, fig.1)" alt="Fig.1: Plan of the House of icarios" >}}
+{{< image file="House_of_Icarios_Uthina2.jpg" caption="Fig.1: Plan of the House of Icarios" credit="(Gauckler, P., 1896, fig.1)" alt="" >}}
 
 
 <!--## Images-->

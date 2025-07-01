@@ -46,23 +46,23 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 
 
 <!--## Plans
-{{< image file="../../fig._62,_plan_of_region_ii,_insula_viii.png" caption="Fig. 62, Plan of Region II, insula viii" credit="" alt="Fig. 62, Plan of Region II, insula viii" >}}
+{{< image file="../../fig._62,_plan_of_region_ii,_insula_viii.png" caption="Fig. 62, Plan of Region II, insula viii" credit="" alt="" >}}
 
 ## Images
-{{< image file="../../fig._63,_ii.viii.6_17.7.73.jpg" caption="Fig.63, 17.7.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig.63, 17.7.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
-{{< image file="../../fig._64,_ii.viii.6_8.33.73.jpg" caption="Fig. 64, 8.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 64, 8.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image file="../../fig._63,_ii.viii.6_17.7.73.jpg" caption="Fig.63, 17.7.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+{{< image file="../../fig._64,_ii.viii.6_8.33.73.jpg" caption="Fig. 64, 8.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="../../fig._65,_ii.viii.6_21a.13.73.jpg" caption="Fig. 65, 21A.13.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 65, 21A.13.73  (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
-{{< image file="../../fig._66,_ii.viii.6_23.23.74.jpg" caption="Fig. 66, 23.23.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 66, 23.23.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
-{{< image file="../../fig._67,_ii.viii.6_21.31.73.jpg" caption="Fig. 67, 21.31.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 67, 21.31.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
-{{< image file="../../fig._68,_ii.viii.6_18.10.73.jpg" caption="Fig. 68, 18.10.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 68, 18.10.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image file="../../fig._66,_ii.viii.6_23.23.74.jpg" caption="Fig. 66, 23.23.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+{{< image file="../../fig._67,_ii.viii.6_21.31.73.jpg" caption="Fig. 67, 21.31.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+{{< image file="../../fig._68,_ii.viii.6_18.10.73.jpg" caption="Fig. 68, 18.10.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
-{{< image file="../../fig._69,_ii.viii.6_21.15.73.jpg" caption="Fig. 69, 21.15.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 69, 21.15.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
-{{< image file="../../fig._70,_ii.viii.6_7.33.73.jpg" caption="Fig. 70, 7.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 70, 7.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
-{{< image file="../../fig._71,_ii.viii.6_11.8.73.jpg" caption="Fig. 71, 11.8.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 71, 11.8.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
-{{< image file="../../fig._72,_ii.viii.6_11.31.71.jpg" caption="Fig. 72, 11.31.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 72, 11.31.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
-{{< image file="../../fig._73,_ii.viii.6_21.30.72.jpg" caption="Fig. 73, 21.30.72 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 73, 21.30.72 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
-{{< image file="../../fig._74,_ii.viii.6_11.20.74.jpg" caption="Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}-->
+{{< image file="../../fig._69,_ii.viii.6_21.15.73.jpg" caption="Fig. 69, 21.15.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+{{< image file="../../fig._70,_ii.viii.6_7.33.73.jpg" caption="Fig. 70, 7.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+{{< image file="../../fig._71,_ii.viii.6_11.8.73.jpg" caption="Fig. 71, 11.8.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+{{< image file="../../fig._72,_ii.viii.6_11.31.71.jpg" caption="Fig. 72, 11.31.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+{{< image file="../../fig._73,_ii.viii.6_21.30.72.jpg" caption="Fig. 73, 21.30.72 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+{{< image file="../../fig._74,_ii.viii.6_11.20.74.jpg" caption="Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}-->
 
 ## Places
 - {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}

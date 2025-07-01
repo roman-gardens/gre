@@ -59,7 +59,7 @@ Foundations of garden architecture, water channels and garden soils of the late 
 
 ## Plans
 
-{{< image file="a_j_c_k_1.jpg" caption="Fig. 1: Plan of the Promontory Palace (J.H. Williams and A. Iamim): a) first phase (c. 22-15 BC) ; b) second phase (c. 15-4 BC)" credit="" alt="Fig. 1: Plan of the Promontory Palace (J.H. Williams and A. Iamim): a) first phase (c. 22-15 BC) ; b) second phase (c. 15-4 BC)" >}}
+{{< image file="a_j_c_k_1.jpg" caption="Fig. 1: Plan of the Promontory Palace (J.H. Williams and A. Iamim): a) first phase (c. 22-15 BC) ; b) second phase (c. 15-4 BC)" credit="" alt="" >}}
 
 ## Images
 

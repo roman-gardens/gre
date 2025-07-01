@@ -73,7 +73,7 @@ NEW WAY ↓↓↓↓
 ## Plans
 
 
-{{< image file="la_plaine_house_a_under_the_high_school.png" caption="Plan of La Plaine, House A under the High School" credit="" alt="Plan of La Plaine, House A under the High School" >}}
+{{< image file="la_plaine_house_a_under_the_high_school.png" caption="Plan of La Plaine, House A under the High School" credit="" alt="" >}}
 
 
 ## Dates

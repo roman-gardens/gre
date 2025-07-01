@@ -64,7 +64,7 @@ A rather large sewer collector (30 x 40 cm in section) took the rainwater of the
 ## Plans
 
 
-{{< image file="quarter_of_saint_florent_house_a_house_of_the_mosaic_with_meanders.png" caption="Plan of Quarter of Saint-Florent, House A – House of the Mosaic with Meanders" credit="" alt="Plan of Quarter of Saint-Florent, House A – House of the Mosaic with Meanders" >}}
+{{< image file="quarter_of_saint_florent_house_a_house_of_the_mosaic_with_meanders.png" caption="Plan of Quarter of Saint-Florent, House A – House of the Mosaic with Meanders" credit="" alt="" >}}
 
 
 ## Dates

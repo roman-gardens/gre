@@ -63,7 +63,7 @@ In a second stage, in the first century, a bath complex [5] with an open-air esp
 ## Plans
 
 
-{{< image file="villa_de_muscapeu.jpg" caption="Plan of The Villa de Muscapeu" credit="" alt="Plan of The Villa de Muscapeu" >}}
+{{< image file="villa_de_muscapeu.jpg" caption="Plan of The Villa de Muscapeu" credit="" alt="" >}}
 
 
 ## Dates

@@ -64,9 +64,9 @@ After the disappearance of the Antique site, the land continues to be occupied d
 
 ## Maps
 
-{{< image file="EUR_GS_Val_villa1_carroll.png" caption="Fig. 1: Vallon location map." credit="" alt="Fig. 1: Vallon location map." >}}
+{{< image file="EUR_GS_Val_villa1_carroll.png" caption="Fig. 1: Vallon location map." credit="" alt="" >}}
 
-{{< image file="EUR_GS_Val_villa3_carroll.png" caption="Fig. 2 : map of the habitation zone in the second half of the IInd century of our era." credit="" alt="Fig. 2 : map of the habitation zone in the second half of the IInd century of our era." >}}
+{{< image file="EUR_GS_Val_villa3_carroll.png" caption="Fig. 2 : map of the habitation zone in the second half of the IInd century of our era." credit="" alt="" >}}
 
 <!--## Plans-->
 
@@ -76,13 +76,13 @@ After the disappearance of the Antique site, the land continues to be occupied d
 
 ## Images
 
-{{< image file="EUR_GS_Val_villa2_carroll.jpg" caption="Fig. 3 : pine wood conduits preserved in one of the channels. Photo Fribourg State Archaeological Service." credit="" alt="Fig. 3 : pine wood conduits preserved in one of the channels. Photo Fribourg State Archaeological Service." >}}
+{{< image file="EUR_GS_Val_villa2_carroll.jpg" caption="Fig. 3 : pine wood conduits preserved in one of the channels. Photo Fribourg State Archaeological Service." credit="" alt="" >}}
 
 {{< image file="EUR_GS_Val_villa4_carroll.jpg" caption="Fig. 4 : ditches uncovered in the courtyard in front of the central building (2006)." credit="Photo Fribourg State Archaeological Service." alt="Fig. 4 : ditches uncovered in the courtyard in front of the central building (2006). Photo Fribourg State Archaeological Service." >}}
 
-{{< image file="EUR_GS_Val_villa5_carroll.jpg" caption="Fig. 5 : scale model of the habitation area in the second half of the IInd century. Built before the research in the gardens was resumed, it presents a considerable partitioning of the various open spaces. Photo Fribourg State Archaeological Service." credit="" alt="Fig. 5 : scale model of the habitation area in the second half of the IInd century. Built before the research in the gardens was resumed, it presents a considerable partitioning of the various open spaces. Photo Fribourg State Archaeological Service." >}}
+{{< image file="EUR_GS_Val_villa5_carroll.jpg" caption="Fig. 5 : scale model of the habitation area in the second half of the IInd century. Built before the research in the gardens was resumed, it presents a considerable partitioning of the various open spaces. Photo Fribourg State Archaeological Service." credit="" alt="" >}}
 
-{{< image file="EUR_GS_Val_villa6_carroll.jpg" caption="Fig. 6 : watercolour of the habitation area integrating the first results obtained by excavating the gardens. Please note the less significant partition between the different courtyards. The cistern at the front of the south building (to the right) is highly hypothetical; it seems rather to be an ornamental pool. Watercolour: Bernard Reymond, Yverdon-les-Bains (Switzerland)." credit="" alt="Fig. 6 : watercolour of the habitation area integrating the first results obtained by excavating the gardens. Please note the less significant partition between the different courtyards. The cistern at the front of the south building (to the right) is highly hypothetical; it seems rather to be an ornamental pool. Watercolour: Bernard Reymond, Yverdon-les-Bains (Switzerland)." >}}
+{{< image file="EUR_GS_Val_villa6_carroll.jpg" caption="Fig. 6 : watercolour of the habitation area integrating the first results obtained by excavating the gardens. Please note the less significant partition between the different courtyards. The cistern at the front of the south building (to the right) is highly hypothetical; it seems rather to be an ornamental pool. Watercolour: Bernard Reymond, Yverdon-les-Bains (Switzerland)." credit="" alt="" >}}
 
 ## Dates
 

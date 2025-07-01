@@ -65,7 +65,7 @@ NEW WAY ↓↓↓↓
 ## Plans
 
 
-{{< image file="house_with_the_painted_portico.png" caption="Plan of house with the painted portico" credit="" alt="Plan of House with the Painted Portico" >}}
+{{< image file="house_with_the_painted_portico.png" caption="Plan of house with the painted portico" credit="" alt="" >}}
 
 
 ## Dates

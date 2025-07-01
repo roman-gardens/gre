@@ -40,7 +40,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 These two shops, excavated in 1861, shared a house and a garden (a) to the back. A portico enclosed the garden on all four sides. In the southwest corner of the garden there was a masonry pool with a small water jet column in the center. A bronze basin 0.40 m. dia. with a miniature bronze lion fitted with a water jet was found on the right side of the peristyle, with the feet of the basin welded in the form of a ring.  This was also the area where a fragment of the head of a statuette was found, and a marble monopodium was discovered nearby. Along the edge of the eastern half of the garden seven enormous dolia were embedded in the soil.
 
 ## Plans
-{{< image file="fig.20.region_viii._insula_iv.png" caption="Plan of Region VIII Insula IV" credit="" alt="Plan of Region VIII Insula IV" >}}
+{{< image file="fig.20.region_viii._insula_iv.png" caption="Plan of Region VIII Insula IV" credit="" alt="" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

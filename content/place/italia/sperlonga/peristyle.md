@@ -53,7 +53,7 @@ In the villa there are three different garden arrangements (SALZA PRINA RICOTTI 
 ## Images
 {{< image file="91-sperlonga-grotto.jpg" caption="the general garden plan of Sperlonga." credit="" alt="Plan. the general garden plan of Sperlonga." >}}
 
-{{< image file="92-landslide.jpg" caption="The landslide." credit="" alt="The landslide." >}}
+{{< image file="92-landslide.jpg" caption="The landslide." credit="" alt="" >}}
 
 
 ## Dates

@@ -55,14 +55,14 @@ NEW WAY ↓↓↓↓
 {{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 ## Plans
-{{< image file="H_3_3-17.jpg" caption="Plan of Casa del Tramezzo di Legno" credit="" alt="Plan of Casa del Tramezzo di Legno" >}}
+{{< image file="H_3_3-17.jpg" caption="Plan of Casa del Tramezzo di Legno" credit="" alt="" >}}
 
 ## Images
-{{< image file="Herc. III.11   13.36.(55).jpg" caption="Illustration of Casa del Tramezzo di Legno" credit="" alt="Illustration of Casa del Tramezzo di Legno" >}}
+{{< image file="Herc. III.11   13.36.(55).jpg" caption="Illustration of Casa del Tramezzo di Legno" credit="" alt="" >}}
 
-{{< image file="Herc. III.11   68.16.57.jpg" caption="Illustration of Casa del Tramezzo di Legno" credit="" alt="Illustration of Casa del Tramezzo di Legno" >}}
+{{< image file="Herc. III.11   68.16.57.jpg" caption="Illustration of Casa del Tramezzo di Legno" credit="" alt="" >}}
 
-{{< image file="Herc. III.11   68.17.57.jpg" caption="Illustration of Casa del Tramezzo di Legno" credit="" alt="Illustration of Casa del Tramezzo di Legno" >}}
+{{< image file="Herc. III.11   68.17.57.jpg" caption="Illustration of Casa del Tramezzo di Legno" credit="" alt="" >}}
 
 
 ## Places

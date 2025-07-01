@@ -81,7 +81,7 @@ The plan reveals seven rows of up to eleven pots per row, although directly in f
 
 ## Plans
 
-{{< image file="ASIA_JUD_JERICHO_13a.jpg" caption="Figure 3: Plan of the Ionic Peristyle Courtyard B64 with the location of the planting pots (K. Wilczak and K. Gleason)." credit="" alt="Figure 3: Plan of the Ionic Peristyle Courtyard B64 with the location of the planting pots (K. Wilczak and K. Gleason)." >}}
+{{< image file="ASIA_JUD_JERICHO_13a.jpg" caption="Figure 3: Plan of the Ionic Peristyle Courtyard B64 with the location of the planting pots (K. Wilczak and K. Gleason)." credit="" alt="" >}}
 
 
 ## Images
@@ -90,9 +90,9 @@ The plan reveals seven rows of up to eleven pots per row, although directly in f
 
 {{< image file="ASIA_JUD_JERICHO_14.jpg" caption="Figure 5: A section through the Ionic Peristyle Courtyard B64 at the second row from the north:" credit="(a) gravel subsoil; (b) working surface; (c) planting pot; (d) planting pit; (e) ridges; (f) contoured garden-soil surface; (g) sidewalk; (h) alluvial deposit; (i) fallen building debris; (j) modern surface in 1978–1985 (K. Gleason)." alt="Figure 5: A section through the Ionic Peristyle Courtyard B64 at the second row from the north: (a) gravel subsoil; (b) working surface; (c) planting pot; (d) planting pit; (e) ridges; (f) contoured garden-soil surface; (g) sidewalk; (h) alluvial deposit; (i) fallen building debris; (j) modern surface in 1978–1985 (K. Gleason).." >}}
 
-{{< image file="ASIA_JUD_JERICHO_15.jpg" caption="Figure 6: A planting pot No. 23 found in the Ionic Peristyle Courtyard B64 (K. Gleason)." credit="" alt="Figure 6: A planting pot No. 23 found in the Ionic Peristyle Courtyard B64 (K. Gleason)." >}}
+{{< image file="ASIA_JUD_JERICHO_15.jpg" caption="Figure 6: A planting pot No. 23 found in the Ionic Peristyle Courtyard B64 (K. Gleason)." credit="" alt="" >}}
 
-{{< image file="ASIA_JUD_JERICHO_13b.jpg" caption="Figure 7: Axonometric reconstruction of the Ionic Peristyle Courtyard B64 with the location of the planting pots (Yaniv Korman)." credit="" alt="Figure 7: Axonometric reconstruction of the Ionic Peristyle Courtyard B64 with the location of the planting pots (Yaniv Korman)." >}}
+{{< image file="ASIA_JUD_JERICHO_13b.jpg" caption="Figure 7: Axonometric reconstruction of the Ionic Peristyle Courtyard B64 with the location of the planting pots (Yaniv Korman)." credit="" alt="" >}}
 
 ## Dates
 

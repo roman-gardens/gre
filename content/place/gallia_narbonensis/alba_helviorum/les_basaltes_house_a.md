@@ -60,7 +60,7 @@ At first, this relatively modest dwelling was thought to have perhaps belonged t
 ## Plans
 
 
-{{< image file="les_basaltes_house_A.png" caption="Plan of Les Basaltes, House A" credit="" alt="Plan of Les Basaltes, House A" >}}
+{{< image file="les_basaltes_house_A.png" caption="Plan of Les Basaltes, House A" credit="" alt="" >}}
 
 
 ## Dates

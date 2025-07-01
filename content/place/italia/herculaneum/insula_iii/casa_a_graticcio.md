@@ -57,7 +57,7 @@ NEW WAY ↓↓↓↓
 -->
 
 ## Plans
-{{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="Plan of Casa A Graticcio" >}}
+{{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
 
 
 <!--## Images-->

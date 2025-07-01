@@ -66,17 +66,17 @@ While the theater belongs to multiple phases of construction, the aula sacra bel
 
 ## Plans
 
-{{< image file="his_lus_peristyle_theatre_fig1.jpg" caption="Fig. 1: Plan of the theater and peristyle." credit="" alt="Fig. 1: Plan of the theater and peristyle." >}}
+{{< image file="his_lus_peristyle_theatre_fig1.jpg" caption="Fig. 1: Plan of the theater and peristyle." credit="" alt="" >}}
 
 ## Images
 
-{{< image file="his_lus_peristyle_theatre_fig2.jpg" caption="Fig. 2: Photo of the theater peristyle garden." credit="" alt="Fig. 2: Photo of the theater peristyle garden." >}}
+{{< image file="his_lus_peristyle_theatre_fig2.jpg" caption="Fig. 2: Photo of the theater peristyle garden." credit="" alt="" >}}
 
-{{< image file="his_lus_peristyle_theatre_fig3.jpg" caption="Fig. 3: Photo of the theater peristyle garden." credit="" alt="Fig. 3: Photo of the theater peristyle garden." >}}
+{{< image file="his_lus_peristyle_theatre_fig3.jpg" caption="Fig. 3: Photo of the theater peristyle garden." credit="" alt="" >}}
 
-{{< image file="his_lus_peristyle_theatre_fig4.jpg" caption="Fig. 4: Photo of the theater peristyle garden." credit="" alt="Fig. 4: Photo of the theater peristyle garden." >}}
+{{< image file="his_lus_peristyle_theatre_fig4.jpg" caption="Fig. 4: Photo of the theater peristyle garden." credit="" alt="" >}}
 
-{{< image file="his_lus_peristyle_theatre_fig5.jpg" caption="Fig. 5: Photo of the theater peristyle garden from the north side." credit="" alt="Fig. 5: Photo of the theater peristyle garden from the north side." >}}
+{{< image file="his_lus_peristyle_theatre_fig5.jpg" caption="Fig. 5: Photo of the theater peristyle garden from the north side." credit="" alt="" >}}
 
 ## Dates
 

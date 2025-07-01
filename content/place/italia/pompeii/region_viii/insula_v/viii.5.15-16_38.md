@@ -47,8 +47,8 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 {{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="Fig. 16, Plan of  Region VIII, Insula V" >}}
 
 ## Images
-{{< image file="fig.17._viii.v.16_11.17.59.jpg" caption="Fig.17, 11.17.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig.17, 11.17.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
-{{< image file="fig.18.viii.v.16.38_11.20.59.jpg" caption="Fig.18, 11.20.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig.18, 11.20.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image file="fig.17._viii.v.16_11.17.59.jpg" caption="Fig.17, 11.17.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+{{< image file="fig.18.viii.v.16.38_11.20.59.jpg" caption="Fig.18, 11.20.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
 
 ## Places

@@ -58,7 +58,7 @@ Within the enclosure of the Islamic Alcazaba, west of the city, are the remains 
 
 ## Plans
 
-{{< image file="his_lus_col_augusta_alcazbar_domus_fig1.jpg" caption="Fig. 1: Plan of the House of Alcazaba." credit="Adapted from Palma Garcia, p. 350." alt="Fig. 1: Plan of the House of Alcazaba." >}}
+{{< image file="his_lus_col_augusta_alcazbar_domus_fig1.jpg" caption="Fig. 1: Plan of the House of Alcazaba." credit="Adapted from Palma Garcia, p. 350." alt="" >}}
 
 ## Dates
 

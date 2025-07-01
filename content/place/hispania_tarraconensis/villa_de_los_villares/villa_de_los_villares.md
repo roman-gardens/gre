@@ -70,7 +70,7 @@ The villa was built in the first third of the 2nd century, destroyed by the Germ
 
 ## Plans
 
-{{< image file="his_tar_san_villares_fig1.jpg" caption="Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria" credit="Gorges, Planche XLV" alt="Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria" >}}
+{{< image file="his_tar_san_villares_fig1.jpg" caption="Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria" credit="Gorges, Planche XLV" alt="" >}}
 
 
 ## Dates

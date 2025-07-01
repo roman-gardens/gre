@@ -57,10 +57,10 @@ NEW WAY ↓↓↓↓
 
 ## Plans
 
-{{< image file="H_2_3.jpg" caption="Plan of Casadetta del Genio" credit="" alt="Plan of Casadetta del Genio" >}}
+{{< image file="H_2_3.jpg" caption="Plan of Casadetta del Genio" credit="" alt="" >}}
 
 ## Images
-{{< image file="Herc. II.3   68.6.57.jpg" caption="Illustration of Casadetta del Genio" credit="" alt="Illustration of Casadetta del Genio" >}}
+{{< image file="Herc. II.3   68.6.57.jpg" caption="Illustration of Casadetta del Genio" credit="" alt="" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}

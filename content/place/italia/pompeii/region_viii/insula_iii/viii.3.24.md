@@ -41,7 +41,7 @@ A. The earthquake destroyed an elegant house on this site and this house was sub
 B. Backed up to the ancient caupona there was a second garden (b) next to the triclinium (c).
 
 ## Plans
-{{< image file="fig.5._region_viii._insula_iii.png" caption="Plan of Region VIII Insula III" credit="" alt="Plan of Region VIII Insula III" >}}
+{{< image file="fig.5._region_viii._insula_iii.png" caption="Plan of Region VIII Insula III" credit="" alt="" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

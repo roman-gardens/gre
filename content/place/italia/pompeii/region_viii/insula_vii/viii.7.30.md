@@ -38,7 +38,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 The Doric Temple in the Triangular Forum was excavated between 1767 and 1797. A superlative view from the colonnade at the edge of the cliff looked across the Bay and a marble fountain basin supported by a fluted marble base stood in front of a middle column of the north portico catching water that spouted from a pipe above in the column. Fiorelli suggested that the temple most likely had been surrounded by a sacred grove. There was a stone schola in the northwest corner of the temple with a sundial on the back. The sundial was inscribed with the acknowledgement that L. Sepunius Sandilianus and M. Herennius Epidianus had built the sundial and seat at their own expense (CIL X. 831).
 
 ## Plans
-{{< image file="fig.28.region_viii.insula_vii.24-27.png" caption="Fig. 28, Plan of Region VIII, Insula VII, 24-27" credit="" alt="Fig. 28, Plan of Region VIII, Insula VII, 24-27" >}}
+{{< image file="fig.28.region_viii.insula_vii.24-27.png" caption="Fig. 28, Plan of Region VIII, Insula VII, 24-27" credit="" alt="" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

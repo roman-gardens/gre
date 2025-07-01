@@ -87,14 +87,14 @@ On the southeast corner of the house was a curious structure placed more than a 
 -->
 
 ## Plans
-{{< image file="his_tar_clu_htaracena_fig1.jpg" caption="Plan of underground water chambers." credit="Adapted from de Palol 1994, p. 100." alt="Plan of underground water chambers." >}}
+{{< image file="his_tar_clu_htaracena_fig1.jpg" caption="Plan of underground water chambers." credit="Adapted from de Palol 1994, p. 100." alt="" >}}
 
 ## Images
-{{< image file="his_tar_clu_fig2.jpg" caption="Photograph looking east over the subterranean structures." credit="" alt="Photograph looking east over the subterranean structures." >}}
+{{< image file="his_tar_clu_fig2.jpg" caption="Photograph looking east over the subterranean structures." credit="" alt="" >}}
 
-{{< image file="his_tar_clu_fig3.jpg" caption="Photograph of a floral band from the south side of room 1." credit="" alt="Photograph of a floral band from the south side of room 1." >}}
+{{< image file="his_tar_clu_fig3.jpg" caption="Photograph of a floral band from the south side of room 1." credit="" alt="" >}}
 
-{{< image file="his_tar_clu_fig4.jpg" caption="Photograph of the peristyle on the north side of the house, probably a garden." credit="" alt="Photograph of the peristyle on the north side of the house, probably a garden." >}}
+{{< image file="his_tar_clu_fig4.jpg" caption="Photograph of the peristyle on the north side of the house, probably a garden." credit="" alt="" >}}
 
 ## Dates
 Unspecified

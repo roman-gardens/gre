@@ -58,7 +58,7 @@ This first palace was "introverted" thus giving expression to Herod's inferior s
 
 ## Images
 
-{{< image file="ASIA_JUD_JERICHO_7b.jpg" caption="Figure 3: Axonometric reconstruction of Herod's first palace (Yaniv Korman)." credit="" alt="Figure 3: Axonometric reconstruction of Herod's first palace (Yaniv Korman)." >}}
+{{< image file="ASIA_JUD_JERICHO_7b.jpg" caption="Figure 3: Axonometric reconstruction of Herod's first palace (Yaniv Korman)." credit="" alt="" >}}
 ## Dates
 
 31 BCE - 4 BCE

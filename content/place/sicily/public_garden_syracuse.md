@@ -48,9 +48,9 @@ In the Roman period, the clearest evidence for the presence of a formal garden i
 
 ## Images
 
-{{< image file="figure2.jpg" caption="Fig. 2  Syracuse, plan of the piazza adjacent to the Altar of Hieron with central pool and pits marking the sites of trees" credit="" alt="Fig. 2  Syracuse, plan of the piazza adjacent to the Altar of Hieron with central pool and pits marking the sites of trees" >}}
+{{< image file="figure2.jpg" caption="Fig. 2  Syracuse, plan of the piazza adjacent to the Altar of Hieron with central pool and pits marking the sites of trees" credit="" alt="" >}}
 
-{{< image file="figure3.png" caption="Fig. 3  Syracuse, general view of the piazza as it appears today" credit="" alt="Fig. 3  Syracuse, general view of the piazza as it appears today" >}}
+{{< image file="figure3.png" caption="Fig. 3  Syracuse, general view of the piazza as it appears today" credit="" alt="" >}}
 
 ## Dates
 

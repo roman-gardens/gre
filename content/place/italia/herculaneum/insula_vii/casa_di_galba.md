@@ -45,7 +45,7 @@ The excavation of this site was begun in 1873-1874 and is still incomplete. A si
 
 
 ## Plans
-{{< image file="herculaneum_casa_di_galba.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
+{{< image file="herculaneum_casa_di_galba.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}

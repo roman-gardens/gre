@@ -41,11 +41,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Beyond shop 26 and the living quarters behind it there was a very large garden (a) that was entered directly from the atrium through the portico that stood at the north side of the garden. The garden could also be reached by the long, narrow angiportus located at the rear of the east portico of the Temple of Isis. The garden could be viewed from the triclinium to the north.
 
 ## Plans
-{{< image file="fig.28.region_viii.insula_vii.24-27.png" caption="Fig. 28, Plan of Region VIII, Insula VII, 24-27" credit="" alt="Fig. 28, Plan of Region VIII, Insula VII, 24-27" >}}
+{{< image file="fig.28.region_viii.insula_vii.24-27.png" caption="Fig. 28, Plan of Region VIII, Insula VII, 24-27" credit="" alt="" >}}
 
 ## Images
-{{< image file="fig.29.viii.vii.27_9.21.59.jpg" caption="Fig.29, 9.21.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig.29, 9.21.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
-{{< image file="fig.30.viii.vii.27_9.27.59.jpg" caption="Fig.30, 9.27.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig.30, 9.27.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image file="fig.29.viii.vii.27_9.21.59.jpg" caption="Fig.29, 9.21.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+{{< image file="fig.30.viii.vii.27_9.27.59.jpg" caption="Fig.30, 9.27.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

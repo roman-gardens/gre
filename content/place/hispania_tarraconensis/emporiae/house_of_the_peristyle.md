@@ -97,7 +97,7 @@ This well-known large house, situated in the center of the eastern side of Neapo
 - X. Aquilué, J. Ruíz de Arbulo, *La jardinería en la época antigua*, in Historia de los Parques y Jardines en España. Edita Grupo FCC, Madrid, 2001, p. 12. [(worldcat)](https://search.worldcat.org/title/1090911182)
 
 ## Plans
-{{< image file="HIS_TAR_Emp_peristyle_fig1.jpg" caption="Plan of the House of the Peristyle." credit="" alt="Plan of the House of the Peristyle." >}}
+{{< image file="HIS_TAR_Emp_peristyle_fig1.jpg" caption="Plan of the House of the Peristyle." credit="" alt="" >}}
 
 
 ## Dates

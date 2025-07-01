@@ -15,7 +15,7 @@ draft: true
 - [THUGGA (Dougga) Tunisia]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="315223" name="THUGGA (Dougga) Tunisia" >}}
 
-{{< image file="#.jpg" caption="Plan of Thugga" credit="(L. Maurin, d'après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" alt="Plan of Thugga" >}}
+{{< image file="#.jpg" caption="Plan of Thugga" credit="(L. Maurin, d'après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" alt="" >}}
 
 ## Location Description
 

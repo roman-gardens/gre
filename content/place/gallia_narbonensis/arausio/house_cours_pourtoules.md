@@ -66,7 +66,7 @@ Among the objects found at Cours Pourtoules was a terracotta *oscillum* represen
 ## Plans
 
 
-{{< image file="cours_pourtoules_general_map.png" caption="General map of Cours Pourtoules" credit="" alt="General map of Cours Pourtoules" >}}
+{{< image file="cours_pourtoules_general_map.png" caption="General map of Cours Pourtoules" credit="" alt="" >}}
 
 {{< image file="cours_pourtoules_general_map_phase1.png" caption="Phase 1 of Course Pourtoules" credit="" alt="Phase 1 of Cours Pourtoules" >}}
 
@@ -79,7 +79,7 @@ Among the objects found at Cours Pourtoules was a terracotta *oscillum* represen
 
 ## Images
 
-{{< image file="maquette_cours_pourtoules.png" caption="House Cours Pouroules" credit="" alt="House Cours Pouroules" >}}
+{{< image file="maquette_cours_pourtoules.png" caption="House Cours Pouroules" credit="" alt="" >}}
 
 
 ## Dates

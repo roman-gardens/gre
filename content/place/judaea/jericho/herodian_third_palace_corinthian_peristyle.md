@@ -72,7 +72,7 @@ With porticoes on three sides and measuring 23 x 14.5m, this courtyard, known as
 
 ## Plans
 
-{{< image file="ASIA_JUD_JERICHO_16a.jpg" caption="Figure 3: Plan of Corinthian peristyle garden (B55) showing contouring (K. Gleason)." credit="" alt="Figure 3: Plan of Corinthian peristyle garden (B55) showing contouring (K. Gleason)." >}}
+{{< image file="ASIA_JUD_JERICHO_16a.jpg" caption="Figure 3: Plan of Corinthian peristyle garden (B55) showing contouring (K. Gleason)." credit="" alt="" >}}
 
 <!--## Images
 

@@ -58,7 +58,7 @@ The free space north of rooms [1], [2] and [9] was probably a garden without por
 
 ## Plans
 
-{{< image file="house1_quartier_de_la_verrerie_glassworks_quarter_at_trinquetaille.png" caption="Plan of House I, Quartier de la Verrerie at Trinquetaille" credit="" alt="Plan of House I, Quartier de la Verrerie at Trinquetaille" >}}
+{{< image file="house1_quartier_de_la_verrerie_glassworks_quarter_at_trinquetaille.png" caption="Plan of House I, Quartier de la Verrerie at Trinquetaille" credit="" alt="" >}}
 
 
 ## Dates

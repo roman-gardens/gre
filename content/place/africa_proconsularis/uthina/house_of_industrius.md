@@ -38,7 +38,7 @@ Located to the Southeast of the amphitheater, this house was laid out around a p
 
 
 ## Plans
-{{< image file="#" caption="Fig.1: Plan of the House of industrius" credit="" alt="Fig.1: Plan of the House of industrius" >}}
+{{< image file="#" caption="Fig.1: Plan of the House of industrius" credit="" alt="" >}}
 
 
 <!--## Images-->

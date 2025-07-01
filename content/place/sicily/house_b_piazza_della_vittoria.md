@@ -48,7 +48,7 @@ A pool, still frescoed in blue, has recently been uncovered at the south end of 
 
 ## Images
 
-{{< image file="figure5.jpg" caption="Fig. 5  Palermo, Piazza della Vittoria, plans of houses A, B and C" credit="" alt="Fig. 5  Palermo, Piazza della Vittoria, plans of houses A, B and C" >}}
+{{< image file="figure5.jpg" caption="Fig. 5  Palermo, Piazza della Vittoria, plans of houses A, B and C" credit="" alt="" >}}
 
 ## Dates
 

@@ -59,7 +59,7 @@ The Northern or Hanging Palace, the latest of Herod's constructions on the site,
 
 ## Images
 
-{{< image file="ASIA-JUD-MASADA-KGLEASON-2.jpg" caption="Fig. 2: View of southern garden area with pools and columbarium." credit="" alt="Fig. 2: View of southern garden area with pools and columbarium." >}}
+{{< image file="ASIA-JUD-MASADA-KGLEASON-2.jpg" caption="Fig. 2: View of southern garden area with pools and columbarium." credit="" alt="" >}}
 {{< image file="ASIA-JUD-MASADA-KGLEASON-3.jpg" caption="Fig. 3:Fragments of a thick garland from the Northern Palace. Location of garden rooms is indicated with an asterix on Fig. 1." credit="(Foerster, 1996)." alt="Fragments of a thick garland from the Northern Palace. Location of garden rooms is indicated with an asterix on Fig. 1. (Foerster, 1996)." >}}
 
 ## Dates

@@ -77,18 +77,18 @@ The entrance directly across from the amphitheater was designed to be an archite
 
 {{< image file="Fig. 49, II.v. 7.29.70.jpg" caption="site with wild flowers" credit="" alt="site with wild flowers." >}}
 
-{{< image file="Fig. 50, II.v. 7.29.70.jpg" caption="line holes" credit="" alt="line holes" >}}
+{{< image file="Fig. 50, II.v. 7.29.70.jpg" caption="line holes" credit="" alt="" >}}
 
 {{< image file="Fig. 51, II.v. 7.29.70.jpg" caption="three holes details" credit="" alt="another three holes" >}}
 
-{{< image file="Fig. 52, II.v. 14.3.70.jpg" caption="holes details" credit="" alt="holes details" >}}
+{{< image file="Fig. 52, II.v. 14.3.70.jpg" caption="holes details" credit="" alt="" >}}
 
-{{< image file="Fig. 52, II.v. 14.3.70.jpg" caption="holes details" credit="" alt="holes details" >}}
+{{< image file="Fig. 52, II.v. 14.3.70.jpg" caption="holes details" credit="" alt="" >}}
 
 
 {{< image file="Fig. 53, II.v. 14.20.70.jpg" caption="works on the hole" credit="" alt="man was working on the hole" >}}
 
-{{< image file="Fig. 54, II.v. 14.36.70.jpg" caption="one view of the site" credit="" alt="one view of the site" >}}
+{{< image file="Fig. 54, II.v. 14.36.70.jpg" caption="one view of the site" credit="" alt="" >}}
 
 {{< image file="Fig. 55, II.v. 15.7.70.jpg" caption="people discussion" credit="" alt="people gathered to discuss on something" >}}
 
@@ -101,7 +101,7 @@ The entrance directly across from the amphitheater was designed to be an archite
 
 {{< image file="Fig. 59, II.v. 16.38.70.jpg" caption="excavation work" credit="" alt="people worked on the excavation" >}}
 
-{{< image file="Fig. 60 II.v. 18.3.70.jpg" caption="the excavation" credit="" alt="the excavation" >}}-->
+{{< image file="Fig. 60 II.v. 18.3.70.jpg" caption="the excavation" credit="" alt="" >}}-->
 
 ## Keywords
 

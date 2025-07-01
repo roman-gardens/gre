@@ -43,7 +43,7 @@ This house was excavated in 1882 to reveal a small garden (a) at the rear entere
 {{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="Fig. 16, Plan of  Region VIII, Insula V" >}}
 
 ## Images
-{{< image file="fig.19.viii.v.37_12.20.59.jpg" caption="Fig. 19, 12.20.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 19, 12.20.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image file="fig.19.viii.v.37_12.20.59.jpg" caption="Fig. 19, 12.20.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
 
 ## Places

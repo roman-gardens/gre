@@ -56,7 +56,7 @@ The villa dates from the first century BC to the third century AD when it was tr
 
 
 ## Plans
-{{< image file="his_tar_cal_vilarenc_fig1.jpg" caption="Plan of Vilarenc" credit="Gorges Planche LXX" alt="Plan of Vilarenc" >}}
+{{< image file="his_tar_cal_vilarenc_fig1.jpg" caption="Plan of Vilarenc" credit="Gorges Planche LXX" alt="" >}}
 
 ## Dates
 1C BC - 3C AD

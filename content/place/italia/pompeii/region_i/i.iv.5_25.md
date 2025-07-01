@@ -55,7 +55,7 @@ C. The north [peristyle](http://vocab.getty.edu/page/aat/300080971) garden belon
 
 {{< image file="content/province/italia/pompeii/region_i/images/Fig.9_I.iv.5,25_20.4.66.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
 
-{{< image file="content/province/italia/pompeii/region_i/images/I.iv.5_64.25.57.jpg" caption="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, \"*Topografia*,v pl.8" credit="" alt="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, \"*Topografia*,\" pl.8." >}}
+{{< image file="content/province/italia/pompeii/region_i/images/I.iv.5_64.25.57.jpg" caption="Fig. 2: Plan of Region I, insula iv, plan in Jashemski, *Gardens*, plan 7, p. 29; Fiorelli, *Scavi*, pl. 12; Niccolini, *Case*, vol.3, \"*Topografia*,v pl.8" credit="" alt=""*Topografia*,\" pl.8." >}}
 -->
 
 

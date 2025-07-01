@@ -48,7 +48,7 @@ There is a circular pool in the center of the peristyle in this grand house (Fig
 
 ## Images
 
-{{< image file="figure5.jpg" caption="Fig. 5  Palermo, Piazza della Vittoria, plans of houses A, B and C" credit="" alt="Fig. 5  Palermo, Piazza della Vittoria, plans of houses A, B and C" >}}
+{{< image file="figure5.jpg" caption="Fig. 5  Palermo, Piazza della Vittoria, plans of houses A, B and C" credit="" alt="" >}}
 
 
 ## Dates

@@ -53,15 +53,15 @@ These parts of the villa have been relatively spared and they are among the best
 ## Images
 {{< image file="91-sperlonga-grotto.jpg" caption="the general garden plan of Sperlonga." credit="" alt="Plan. the general garden plan of Sperlonga." >}}
 
-{{< image file="92-landslide.jpg" caption="The landslide." credit="" alt="The landslide." >}}
+{{< image file="92-landslide.jpg" caption="The landslide." credit="" alt="" >}}
 
 {{< image file="95-cryptoporch-and-terrace.jpg" caption="Cryptoporch and terrace." credit="" alt="Image Cryptoporch and terrace." >}}
 
 {{< image file="96 - The irrigation canal.jpg" caption="The irrigation canal." credit="" alt="Image The irrigation canal." >}}
 
-{{< image file="97-terrace-parapet.jpg" caption="Terrace's parapet." credit="" alt="Terrace's parapet." >}}
+{{< image file="97-terrace-parapet.jpg" caption="Terrace's parapet." credit="" alt="" >}}
 
-{{< image file="99-not-founded-wall.jpg" caption="Not founded Wall." credit="" alt="Not founded Wall." >}}
+{{< image file="99-not-founded-wall.jpg" caption="Not founded Wall." credit="" alt="" >}}
 
 
 ## Dates
