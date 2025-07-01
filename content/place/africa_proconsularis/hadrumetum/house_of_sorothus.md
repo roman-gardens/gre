@@ -61,11 +61,11 @@ This very damaged house was laid out around a peristyle garden. A semi-circular 
 ## Dates
 end 2nd century CE
 ## Bibliography
-- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 100-101. [(worldcat)](https://search.worldcat.org/title/989088620)
-- Gauckler, P., "Les mosaïques de l’Arsenal à Sousse", in *Revue archéologique*, 1897, II, p. 9-10.[(worldcat)](https://search.worldcat.org/title/5547381665)
-- Gauckler, P., *Inventaire des mosaïques de la Gaule et de l’Afrique*, II : Afrique
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 100-101. [(worldcat)](https://search.worldcat.org/title/989088620)
+- Gauckler, P., "Les mosaïques de l'Arsenal à Sousse", in *Revue archéologique*, 1897, II, p. 9-10.[(worldcat)](https://search.worldcat.org/title/5547381665)
+- Gauckler, P., *Inventaire des mosaïques de la Gaule et de l'Afrique*, II : Afrique
 proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.[(worldcat)](https://search.worldcat.org/title/488882908)
-- Ghaddhab, R., "Y avait-il un port à Hadrumetum dans l’antiquité tardive?", in *Revue des etudes anciennes*, 2016, Bordeaux, France: Feret & Fils, pp. 175-199. https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf
+- Ghaddhab, R., "Y avait-il un port à Hadrumetum dans l'antiquité tardive?", in *Revue des etudes anciennes*, 2016, Bordeaux, France: Feret & Fils, pp. 175-199. https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf
 - Hannezo, G., "Les mosaïques de Sousse", in *Association française pour l'Avancement des Sciences*, Carthage, 25e session, 1896, 2e partie, p. 817-821, p. 819.
 - La Blanchère, M.-R., "Note sur une mosaïque représentant le cortège de de Neptune, découvertes à Hadrumetum et transportée au musée de Tunis (Bardo)", in *Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres*, 15, p. 342-346, 378-383.[(worldcat)](https://search.worldcat.org/title/4649609892)
 - La Blanchère, M.-R., "La mosaïque de Neptune à Sousse", in *Bulletin du Comité des travaux historiques*, 1888, p. 163‑176.

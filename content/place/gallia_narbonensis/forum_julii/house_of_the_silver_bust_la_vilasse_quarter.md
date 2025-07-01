@@ -85,7 +85,7 @@ A number of sculptural discoveries are noteworthy.  In the vestibule [18] was fo
 
 1. P.Gros, J. Cuyon, Ph, Leveau, *La maison urbaine d'epoque romaine, Atlas des mainsons urbaines en Gaule Narbonnaise*, t. II, Doc.d'Arch. Vaucl., 6, 1996, fiche n°2, p. 342-345 [(worldcat)](https://search.worldcat.org/title/919659882)
 
-2. Gros, Pierre. *L’architecture romaine: du début du IIIe siècle av. J.-C. à la fin du Haut-Empire. 1, 1*,. Paris: A. et J. Picard, 2011, P. 159-161.[(worldcat)](https://search.worldcat.org/title/762763355)
+2. Gros, Pierre. *L'architecture romaine: du début du IIIe siècle av. J.-C. à la fin du Haut-Empire. 1, 1*,. Paris: A. et J. Picard, 2011, P. 159-161.[(worldcat)](https://search.worldcat.org/title/762763355)
 
 3. Chr.  Goudineau, Y.  de  Kisch, Vaison-la-Romaine, Guide  archéologique  de  France, 1999, 1ère  éd. 1984, P. 28-33; [(worldcat)](https://search.worldcat.org/title/807347615)
 

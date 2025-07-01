@@ -43,7 +43,7 @@ None Available
 Unspecified
 
 ## Bibliography
-- D. CLIQUET, L’Eure, 27, CAG p.136-137, restitution  p.136. [(worldcat)](https://search.worldcat.org/title/715608474)
+- D. CLIQUET, L'Eure, 27, CAG p.136-137, restitution  p.136. [(worldcat)](https://search.worldcat.org/title/715608474)
 
 
 ## Places

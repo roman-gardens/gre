@@ -2,7 +2,7 @@
 gre_id: "e828f23809"
 aliases: [/id/e828f23809]
 type: garden
-title: "Puymin Quarter,Sanctuary with Portico’s,Formerly called Pompey's Portico"
+title: "Puymin Quarter,Sanctuary with Portico's,Formerly called Pompey's Portico"
 latlon: [ 42.439512, 3.176623 ]
 author: 
 editor: Yichen Liu
@@ -29,12 +29,12 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Sublocation
 
-[Puymin Quarter, Sanctuary with Portico’s](#)
+[Puymin Quarter, Sanctuary with Portico's](#)
 
 
 ## Garden
 
-Puymin Quarter, Sanctuary with Portico’s
+Puymin Quarter, Sanctuary with Portico's
 
 
 ## Keywords
@@ -58,7 +58,7 @@ In the center of the court was a monumental pool 9.5 meters wide and 1.6 meters 
 ## Plans
 
 
-{{< image file="puymin_quarter_sanctuary_with_portico’s_formerly_called_pompey’s_portico.png" caption="Plan of Sanctuary with Portico's" credit="" alt="Plan of Sanctuary with Portico's" >}}
+{{< image file="puymin_quarter_sanctuary_with_portico's_formerly_called_pompey's_portico.png" caption="Plan of Sanctuary with Portico's" credit="" alt="Plan of Sanctuary with Portico's" >}}
 
 
 ## Dates

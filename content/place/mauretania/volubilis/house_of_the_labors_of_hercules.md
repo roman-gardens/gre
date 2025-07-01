@@ -18,7 +18,7 @@ draft: true
 
 ## Province Description
 
-An ancient district of Africa in Roman times, Mauretania lay west of Numidia and covered most of present-day Morocco and western Algeria. By the second century BCE, when Jugurtha of Numidia was rebelling against Rome, Jugurtha’s father-in-law Bocchus had most of Mauretania under his control. In 25 BCE Augustus appointed Juba II as ruler of Mauretania. Claudius divided it into two provinces: Mauretania Caesariensis, with Caesarea (modern Cherchel) as capital, and Mauretania Tingitana, with Tingis (modern Tangier) as capital. By the end of the 5th century CE, the province had disappeared.
+An ancient district of Africa in Roman times, Mauretania lay west of Numidia and covered most of present-day Morocco and western Algeria. By the second century BCE, when Jugurtha of Numidia was rebelling against Rome, Jugurtha's father-in-law Bocchus had most of Mauretania under his control. In 25 BCE Augustus appointed Juba II as ruler of Mauretania. Claudius divided it into two provinces: Mauretania Caesariensis, with Caesarea (modern Cherchel) as capital, and Mauretania Tingitana, with Tingis (modern Tangier) as capital. By the end of the 5th century CE, the province had disappeared.
 
 ## Location
 
@@ -29,7 +29,7 @@ An ancient district of Africa in Roman times, Mauretania lay west of Numidia and
 
 Volubilis was the capital of the province of Mauretania Tingitania. The city was of Punic foundation, located on the edge of a plain that slopes down from the Zerhoun hills. During the reign of Juba II, king of Mauretania, Volubilis knew a prosperous period. He was succeeded by his son, Ptolemy of Mauretania, who was assassinated in 40 CE by Caligula. The kingdom was then divided into two provinces, and Volubilis was elevated to the rank of municipium as a reward for taking the side of Rome during the conflict.
 
-The city rapidly developed and expanded; new temples, baths, civic buildings and luxurious houses lining the porticoed decumanus maximus were built. The olive press and the mills attached to the houses attest to the rural character of the region. The city reached its climax in the beginning of the third century CE and survives today as a well-preserved archaeological site. The city walls and gates, Caracalla’s triumphal arch, the Capitolium temple, and the Basilica law courts survive. A number of houses known for their floor mosaics and bronze sculpture also persist to the modern day.
+The city rapidly developed and expanded; new temples, baths, civic buildings and luxurious houses lining the porticoed decumanus maximus were built. The olive press and the mills attached to the houses attest to the rural character of the region. The city reached its climax in the beginning of the third century CE and survives today as a well-preserved archaeological site. The city walls and gates, Caracalla's triumphal arch, the Capitolium temple, and the Basilica law courts survive. A number of houses known for their floor mosaics and bronze sculpture also persist to the modern day.
 
 ## Garden
 

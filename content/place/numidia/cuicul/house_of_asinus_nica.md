@@ -2,7 +2,7 @@
 gre_id: "6e51ae92a0"
 aliases: [/id/6e51ae92a0]
 type: garden
-title: "House of Asinus Nica, Central District (Maison de l’Ane, quartier central)"
+title: "House of Asinus Nica, Central District (Maison de l'Ane, quartier central)"
 latlon: [ 36.317690, 5.736683 ]
 author: Michèle Blanchard-Lemée
 editor: Brandon Wilson
@@ -18,7 +18,7 @@ draft: false
 
 ## Province Description
 
-The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar’s reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.
+The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar's reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.
 
 ## Location
 
@@ -33,7 +33,7 @@ The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Tra
 
 ## Garden
 
-House of Asinus Nica, Central District (Maison de l’Ane, quartier central)
+House of Asinus Nica, Central District (Maison de l'Ane, quartier central)
 
 ## Keywords
 
@@ -49,7 +49,7 @@ House of Asinus Nica, Central District (Maison de l’Ane, quartier central)
 
 ## Garden Description
 
-Like several peristyle houses of the ancient part of Cuicul, the house of Asinus Nica, about 870 square meters in size, was inhabited and transformed from the second to the fifth century. The fifth century additions are the large reception room XI with a marine Venus mosaic and the private baths with the Asinus Nica mosaics. The more ancient part of the house, south of wall M-M’ is rather small and more irregular in shape.
+Like several peristyle houses of the ancient part of Cuicul, the house of Asinus Nica, about 870 square meters in size, was inhabited and transformed from the second to the fifth century. The fifth century additions are the large reception room XI with a marine Venus mosaic and the private baths with the Asinus Nica mosaics. The more ancient part of the house, south of wall M-M' is rather small and more irregular in shape.
 
 The open area of this peristyle garden, about 9 by 8.5 meters in size, is enclosed by 1 meter-high walls and divided into compartments. Some these were pools, as we can still see hydraulic mortar inside. From the semi-circular pool, a rilled wall brought water to a lower pool, shaped as half a concave octagon. The eastern compartment was a pool that may have been decorated with a water spout, of which only bases remain. It contained a smaller pool, rectangular with two niches. In the western compartment, no mortar was found; it was certainly planted. Four quoining pillars, standing directly on the rock, and eight columns, sitting on low walls, supported the four porticoes that were paved with geometrical mosaics.
 

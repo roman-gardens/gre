@@ -27,7 +27,7 @@ Knowing of this reconstruction, Prof. Antonio Maria Colini, who in 1935 had exca
 
 It did not take too long to decide that the Castel Fusano Villa had nothing in common with the Laurentinum and that no transformation brought to it throughout the centuries could ever have made it look as it looked.
 
-At this moment to locate the real Laurentinum was a challenge one couldn't resist. With all that had been discovered and all the elements that were now at hand, finding it couldn't really pose great problems. In fact Pliny gave its topographical localization quite clearly. First of all he told his friend that his residence was situated 17 miles from Rome and that it could be reached by two roads: the Laurentina and the Ostiensis. After 11 mile one had to leave the Ostiensis and take a dirt track; as for the Laurentina, after 14 mile one would find another dirt track leading to Pliny’s villa.
+At this moment to locate the real Laurentinum was a challenge one couldn't resist. With all that had been discovered and all the elements that were now at hand, finding it couldn't really pose great problems. In fact Pliny gave its topographical localization quite clearly. First of all he told his friend that his residence was situated 17 miles from Rome and that it could be reached by two roads: the Laurentina and the Ostiensis. After 11 mile one had to leave the Ostiensis and take a dirt track; as for the Laurentina, after 14 mile one would find another dirt track leading to Pliny's villa.
 
 This meant two things: first of all that the trip would have had the same length through the two itineraries, and second that the villa was placed on the stretch of coast which was limited by the two roads. Only in this case one could have used both for getting there. Pliny told also something else that was very important: he told his friend that his villa was the second one starting from a village which was in this area, but he didn't say if it was towards Ostia or towards Antium.
 
@@ -54,7 +54,7 @@ This description we just reported was the one that Pliny gave us. From what we s
 
 
 ## Plans
-{{< image file="102 - Pliny times.jpg" caption="102 - Pliny times" credit="" alt="102 - The Lauretinum as it was in Pliny’s times" >}}
+{{< image file="102 - Pliny times.jpg" caption="102 - Pliny times" credit="" alt="102 - The Lauretinum as it was in Pliny's times" >}}
 {{< image file="103 - Severian Laurentinum.jpg" caption="1103 - Laurentinum in Severian times" credit="" alt="103 - Laurentinum in Severian times. Map of the excavations and surface remains." >}}
 {{< image file="104 - Excav, Laurentinum.jpg" caption="104 - Excavations and survey of  the Cryptoporch and the Severian changes" credit="" alt="104 - Excavations and survey of  the Cryptoporch and the Severian changes" >}}
 

@@ -17,7 +17,7 @@ draft: false
 
 ## Province Description
 
-The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar’s reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.
+The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar's reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.
 
 ## Location
 

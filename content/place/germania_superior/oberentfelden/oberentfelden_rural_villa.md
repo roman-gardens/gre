@@ -56,7 +56,7 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 ## Bibliography
 
 * W. Drack and R. Fellmann, *Die Römer in der Schweiz*, Stuttgart, 1988, pp. 457-459, fig. 418. [(worldcat)](https://search.worldcat.org/title/639129078)
-* R. Fellmann, *La Suisse gallo-romaine. Cinq siècles d’histoire*, Lausanne, 1992, pp. 152, 154, fig. 105. [(worldcat)](https://search.worldcat.org/title/28038264)
+* R. Fellmann, *La Suisse gallo-romaine. Cinq siècles d'histoire*, Lausanne, 1992, pp. 152, 154, fig. 105. [(worldcat)](https://search.worldcat.org/title/28038264)
 * M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 75, fig. 34. [(worldcat)](https://search.worldcat.org/title/1120840822)
 
 ## Places

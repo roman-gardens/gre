@@ -49,7 +49,7 @@ House of the Beautiful Impluvium; Casa del Bell Impluvio (I.ix.1)
 
 ## Garden Description
 
-According to Eschebach’s plan, there was a *portico* at the rear of this house that enclosed this *peristyle* garden (a) on four sides. A small section of the foundation wall remains on the south end of the east side. <span style="color:orange"> The *cubiculum* (b) to the east of the *atrium* has a garden representation on the west half of the black *predella* on the south wall. It was poorly preserved but the left section shows a garden with a lattice fence and a pergola. Faint images remain of a similar pergola on the right side. The center of the painting, (which is 0.09 x 0.84 m.) has an open area with a crater perhaps serving as a fountain in a pergola. Two additional pergolas stand to either side. </span>
+According to Eschebach's plan, there was a *portico* at the rear of this house that enclosed this *peristyle* garden (a) on four sides. A small section of the foundation wall remains on the south end of the east side. <span style="color:orange"> The *cubiculum* (b) to the east of the *atrium* has a garden representation on the west half of the black *predella* on the south wall. It was poorly preserved but the left section shows a garden with a lattice fence and a pergola. Faint images remain of a similar pergola on the right side. The center of the painting, (which is 0.09 x 0.84 m.) has an open area with a crater perhaps serving as a fountain in a pergola. Two additional pergolas stand to either side. </span>
 
 <!--## Maps-->
 

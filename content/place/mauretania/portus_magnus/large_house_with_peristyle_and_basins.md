@@ -18,7 +18,7 @@ draft: true
 
 ## Province Description
 
-An ancient district of Africa in Roman times, Mauretania lay west of Numidia and covered most of present-day Morocco and western Algeria. By the second century BCE, when Jugurtha of Numidia was rebelling against Rome, Jugurtha’s father-in-law Bocchus had most of Mauretania under his control. In 25 BCE Augustus appointed Juba II as ruler of Mauretania. Claudius divided it into two provinces: Mauretania Caesariensis, with Caesarea (modern Cherchel) as capital, and Mauretania Tingitana, with Tingis (modern Tangier) as capital. By the end of the 5th century CE, the province had disappeared.
+An ancient district of Africa in Roman times, Mauretania lay west of Numidia and covered most of present-day Morocco and western Algeria. By the second century BCE, when Jugurtha of Numidia was rebelling against Rome, Jugurtha's father-in-law Bocchus had most of Mauretania under his control. In 25 BCE Augustus appointed Juba II as ruler of Mauretania. Claudius divided it into two provinces: Mauretania Caesariensis, with Caesarea (modern Cherchel) as capital, and Mauretania Tingitana, with Tingis (modern Tangier) as capital. By the end of the 5th century CE, the province had disappeared.
 
 ## Location
 
@@ -60,7 +60,7 @@ A corridor (see Fig. 1, label M) was bordered by two small gardens (labels N and
 
 ## Bibliography
 
-* S. Gsell, Monuments Antiques de l’Algérie, Paris, 1901, p. 19-21, fig. 87. [worldcat](https://search.worldcat.org/title/491461100)
+* S. Gsell, Monuments Antiques de l'Algérie, Paris, 1901, p. 19-21, fig. 87. [worldcat](https://search.worldcat.org/title/491461100)
 
 ## Places
 

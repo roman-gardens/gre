@@ -91,7 +91,7 @@ Among the objects found at Cours Pourtoules was a terracotta *oscillum* represen
 
 2. Bellet, Michel-Edouard. *Orange Antique: Monuments Et Musée*. Paris: Imprimerie nationale, 1991, P. 70-71 [(worldcat)](https://search.worldcat.org/title/24832885)
 
-2. J.-D. Bouche, Orange, Cours Pourtoule, ilôt Ouest. Présentation des données de fouilles de l’état I et II 15-10 av. J.-C. à 40 ap. J.-C. mémoire de DEA Université d’Aix-en-Provence, dir. X. Lafon, 2003 (à verifier EM)
+2. J.-D. Bouche, Orange, Cours Pourtoule, ilôt Ouest. Présentation des données de fouilles de l'état I et II 15-10 av. J.-C. à 40 ap. J.-C. mémoire de DEA Université d'Aix-en-Provence, dir. X. Lafon, 2003 (à verifier EM)
 
 ## Places
 

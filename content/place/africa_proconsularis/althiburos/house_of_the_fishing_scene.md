@@ -64,9 +64,9 @@ The house stands on the other side of the Wadi Oum El Abid, on the left bank, 12
 3rd century CE
 
 ## Bibliography
-- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 30-31. [(worldcat)](https://search.worldcat.org/title/989088620)
-- Ennaifer, M., *La cité d’Althiburos et l’édifice des Asclepieia*, INA, Tunis, 1976, p. 58-63, plan pl. XXXIII. [(worldcat)](https://search.worldcat.org/title/963483765)
-- Merlin, A., *Forum et maisons d’Althiburos, Notes et documents*, VI, 1913, p. 36-38, plan pl. III. [(worldcat)](https://search.worldcat.org/title/490070526)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 30-31. [(worldcat)](https://search.worldcat.org/title/989088620)
+- Ennaifer, M., *La cité d'Althiburos et l'édifice des Asclepieia*, INA, Tunis, 1976, p. 58-63, plan pl. XXXIII. [(worldcat)](https://search.worldcat.org/title/963483765)
+- Merlin, A., *Forum et maisons d'Althiburos, Notes et documents*, VI, 1913, p. 36-38, plan pl. III. [(worldcat)](https://search.worldcat.org/title/490070526)
 - Rebuffat, R., "Maisons à péristyle d'Afrique du Nord: répertoire de plans publiés". In: *Mélanges d'archéologie et d'histoire*, tome 81, n°2, 1969. pp. 659-724, p. 679, Althiburos 4. [(worldcat)](https://search.worldcat.org/title/493279757)
 
 

@@ -111,10 +111,10 @@ RELATED PHASES ON THE PALATINE:
 
 ## Bibliography
 
-* A. Carandini, "Il Giardino Romano nell’età Tardo Repubblicana e Giulio-Claudia" *Roma Antica 2: Gli Orti Farnesiani sul Palatino*. Rome: École Française de Rome (1990):  9-15. [(worldcat)](https://search.worldcat.org/title/471515490)
+* A. Carandini, "Il Giardino Romano nell'età Tardo Repubblicana e Giulio-Claudia" *Roma Antica 2: Gli Orti Farnesiani sul Palatino*. Rome: École Française de Rome (1990):  9-15. [(worldcat)](https://search.worldcat.org/title/471515490)
 * C. Krause, "Domus Tiberiana," Lexicon, Vol. 2., ed. Steinby, 189-197. [(worldcat)](https://search.worldcat.org/title/503786698)
 * C. Krause, *Domus Tiberiana I: Gli Scavi*. Bollettino di Archeologia 25-27 (Rome 1994). [(worldcat)](https://search.worldcat.org/title/801168743)
-* C. Krause, "Topografica antica nell’area dell Domus Tiberiana," *Roma Antica 2: Gli Orti Farnesiani sul Palatino*. Rome:  École Française de Rome (1990):  121-142. [(worldcat)](https://search.worldcat.org/title/471515490)
+* C. Krause, "Topografica antica nell'area dell Domus Tiberiana," *Roma Antica 2: Gli Orti Farnesiani sul Palatino*. Rome:  École Française de Rome (1990):  121-142. [(worldcat)](https://search.worldcat.org/title/471515490)
 * A. Platner-Ashby, *A Topographical Dictionary of Ancient Rome*, London: Oxford University Press, 1929: 191-194.[(worldcat)](https://search.worldcat.org/title/910092330)
 * L. Richardson, "Domus Tiberiana," *A New Topographical Dictionary of Rome*. Baltimore: Johns Hopkins University Press, 1992, 136-137. [(worldcat)](https://search.worldcat.org/title/256637651)
 * M.A. Tomei, M.G. Filetici (eds.), *Domus Tiberiana: Scavi e Restauri 1990-2011*. Milano: Electa, 2011, partic. pp. 59-70; 222-229; 303-305. [(worldcat)](https://search.worldcat.org/title/819286517)

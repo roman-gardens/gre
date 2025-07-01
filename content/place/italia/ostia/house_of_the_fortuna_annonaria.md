@@ -78,7 +78,7 @@ The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden (Fig. 1, a) ha
 
 There is a [well](http://vocab.getty.edu/page/aat/300152327) (diam. 49 cm.) in the eastern part of the garden; it is adorned with a marble [well-head](http://vocab.getty.edu/page/aat/300443458) decorated with [bucrania](http://vocab.getty.edu/page/aat/300030853) in [neo-attic](http://vocab.getty.edu/page/aat/300020212) style, dating to the 2nd century CE (dia. 66 cm; h. 55 cm) (Fig. 4). Two small [herms](http://vocab.getty.edu/page/aat/300047170) also formed part of the garden decoration.
 
-A large female [statue](http://vocab.getty.edu/page/aat/300047600) was found *in situ* on its pedestal, adhering to the end-wall of the western portico of the peristyle. Endowed with the attributes of trade ([cornucopia](http://vocab.getty.edu/page/aat/300303413) and [oar](https://en.wikipedia.org/wiki/Gubernaculum_(classical))), the female figure has been identified as [*Fortuna Annonaria*](https://en.wikipedia.org/wiki/Fortuna), the personification of Ostia’s trading success.
+A large female [statue](http://vocab.getty.edu/page/aat/300047600) was found *in situ* on its pedestal, adhering to the end-wall of the western portico of the peristyle. Endowed with the attributes of trade ([cornucopia](http://vocab.getty.edu/page/aat/300303413) and [oar](https://en.wikipedia.org/wiki/Gubernaculum_(classical))), the female figure has been identified as [*Fortuna Annonaria*](https://en.wikipedia.org/wiki/Fortuna), the personification of Ostia's trading success.
 
 The large apsidal reception room ([*oecus*](http://vocab.getty.edu/page/aat/300080791)) (Fig. 1, b), with two columns marking its entrance, was located in the western part of the house. The garden, with flowering plants, onto which it opens, formed its natural continuation. This, together with the [*nymphaeum*](http://vocab.getty.edu/page/aat/300006809) that decorated the south side of the room, its rear wall articulated with alternating semicircular and rectangular [niches](http://vocab.getty.edu/page/aat/300002704) containing statues, provided a suitably splendid and prestige-enhancing setting for the public life of the owner, probably a wealthy trader.
 
@@ -105,13 +105,13 @@ unspecified
 ## Bibliography
 
 <!-- Bibliography for Location Description -->
-* G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
+* G. Calza, G. Becatti, I. Gismondi, G. De Angelis D'Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
 * R. Meiggs, *Roman Ostia*. [(worldcat)](https://search.worldcat.org/title/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](https://search.worldcat.org/title/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](https://search.worldcat.org/title/801326827)
 * E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](https://search.worldcat.org/title/1130900997)
 * M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio," *Rivista di Archeologia* 43, 2019, pp. 165-176. [(worldcat)](https://search.worldcat.org/title/797910124) [(Rivista di Archeologia)](http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf)
-* M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](https://search.worldcat.org/title/1536690)
+* M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d'Arte*, in press. [(worldcat)](https://search.worldcat.org/title/1536690)
 <!-- Bibliography for Garden Description -->
 * *Giornale degli Scavi*, 1939, pp. 54-87.
 * Giovanni Becatti, *Case ostiensi del tardo impero*, pp. 23-25. [(worldcat)](https://search.worldcat.org/title/899106405)

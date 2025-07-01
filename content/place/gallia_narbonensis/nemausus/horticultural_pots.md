@@ -48,7 +48,7 @@ House B, Les Villégiales, quarter of the Benedictines
 
 ## Element Description
 
-The archeologists of Nîmes have been particularly sensitive to the presence of horticultural pots.  Besides those noted above (House B des Villégiales and 21, rue Séguier), Sébastien Barberan has noted their discovery, out of context, in several excavations: in 1982 at St. Joseph’s clinic; in 1993, seven pots at îlot Grill near the amphitheater; and in 1996, at the Ilôt Thérond and in the excavation for the "Quick".
+The archeologists of Nîmes have been particularly sensitive to the presence of horticultural pots.  Besides those noted above (House B des Villégiales and 21, rue Séguier), Sébastien Barberan has noted their discovery, out of context, in several excavations: in 1982 at St. Joseph's clinic; in 1993, seven pots at îlot Grill near the amphitheater; and in 1996, at the Ilôt Thérond and in the excavation for the "Quick".
 
 
 ## Plans
@@ -59,7 +59,7 @@ The archeologists of Nîmes have been particularly sensitive to the presence of 
 
 ## Bibliography
 
-1. S. Barberan, Un aménagement horticole dans la cour d’un établissement pré-urbain à Nîmes (Gard) in *Bulletin de l’Ecole antique de Nîmes*, P. 71, n.8.[(worldcat)](https://search.worldcat.org/title/835159144)
+1. S. Barberan, Un aménagement horticole dans la cour d'un établissement pré-urbain à Nîmes (Gard) in *Bulletin de l'Ecole antique de Nîmes*, P. 71, n.8.[(worldcat)](https://search.worldcat.org/title/835159144)
 
 
 ## Places

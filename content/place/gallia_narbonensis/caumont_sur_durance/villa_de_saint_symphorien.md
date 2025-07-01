@@ -82,9 +82,9 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 
 ## Bibliography
 
-1.  D. CARRU, D. LAVERGNE, J. MOURARET, *Caumont-sur-Durance, Saint-Symphorien, in Bilan scientifique de la région Provence Alpes-Côte d’Azur*, S.R.A, D.R.A.C, Marseille, 2002, P. 181-183.  
+1.  D. CARRU, D. LAVERGNE, J. MOURARET, *Caumont-sur-Durance, Saint-Symphorien, in Bilan scientifique de la région Provence Alpes-Côte d'Azur*, S.R.A, D.R.A.C, Marseille, 2002, P. 181-183.  
 
-2. D.CARRU, Caumont sur Durance – Saint Symphorien, in *Archéologie en Vaucluse, Journal d’information du service archéologique  départemental de Vaucluse*, 37, déc. 2002, P. 5.
+2. D.CARRU, Caumont sur Durance – Saint Symphorien, in *Archéologie en Vaucluse, Journal d'information du service archéologique  départemental de Vaucluse*, 37, déc. 2002, P. 5.
 
 
 ## Places

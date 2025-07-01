@@ -83,7 +83,7 @@ Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
 - Jashemski, Wilhelmina F. 1993. *The Gardens of Pompeii: Herculaneum and the Villas Destroyed by Vesuvius.* New Rochelle, NY: Caratzas, pp. 86-88, 396 [worldcat](https://search.worldcat.org/title/769881162)
 - Kapossy, Balázs. 1969. *Brunnenfiguren Der Hellenistischen Und Römischen Zeit.* Zürich, pp 46, 50 [worldcat](https://search.worldcat.org/title/1154045622)
 - Lorenz, Thuri. 1965. *Galerien Von Griechischen Philosophen Und Dichterbildnissen Bei Den Römern.* Mainz: Verlag Ph. von Zabern, p. 39 [worldcat](https://search.worldcat.org/title/716845245)
-- Maiuri, A. 1961. *I giardini, Le Vie d’Italia*, no.9, p. 1139; [worldcat](https://search.worldcat.org/title/848522912)
+- Maiuri, A. 1961. *I giardini, Le Vie d'Italia*, no.9, p. 1139; [worldcat](https://search.worldcat.org/title/848522912)
 - Maiuri, A. 1952. *Statuette fittilli di Pittaco di Mitilene,* Archeologia Classica, 4: pp. 55-59; [worldcat](https://search.worldcat.org/title/636561381)
 - Maiuri, A. *Pompei ed Ercolano:Fra case ed abitanti,* pp. 74-75; [worldcat](https://search.worldcat.org/title/39459477)
 - *Pompeianarum Antiquitatum Historia*. vol. 1, pt. 1, pp. 13, 15, 16, 18-19, 21, 28-31, 34, 37, 39 (Apr. 13, 1755-Mar. 6, 1756), and pt. 2 pp. 98, 101; [worlcat](https://search.worldcat.org/title/568028156)

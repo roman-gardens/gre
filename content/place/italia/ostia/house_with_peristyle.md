@@ -95,13 +95,13 @@ winter of 1938-1939
 ## Bibliography
 
 <!-- Bibliography for Location Description -->
-* G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
+* G. Calza, G. Becatti, I. Gismondi, G. De Angelis D'Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953.
 * R. Meiggs, *Roman Ostia*. [(worldcat)](https://search.worldcat.org/title/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](https://search.worldcat.org/title/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](https://search.worldcat.org/title/801326827)
 * E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](https://search.worldcat.org/title/1130900997)
 * M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio," *Rivista di Archeologia* 43, 2019, pp. 165-176. [(worldcat)](https://search.worldcat.org/title/797910124) [(Rivista di Archeologia)](http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf)
-* M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](https://search.worldcat.org/title/1536690)
+* M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d'Arte*, in press. [(worldcat)](https://search.worldcat.org/title/1536690)
 <!-- Bibliography for Garden Description -->
 * Arena, *Ostia repubblicana*, p. 23. [(worldcat)](#)
 * T. Morard and D. Wavelet, *Mélanges de l'École française de Rome: Antiquité* Tome 114, No. 2 (2002), Rome, pp. 759-815. [(worldcat)](https://search.worldcat.org/title/859589040) [hathitrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015068961740&view=2up&seq=183)

@@ -24,7 +24,7 @@ Ruled by king [Burebista](https://en.wikipedia.org/wiki/Burebista) (82–44 BC),
 
 > As for the southern part of Germany beyond the Albis, the portion which is just contiguous to that river is occupied by the Suevi; then immediately adjoining this is the land of the Getae, which, though narrow at first, stretching as it does along the Ister on its southern side and on the opposite side along the mountain-side of the Hercynian Forest (for the land of the Getae also embraces a part of the mountains), afterwards broadens out towards the north as far as the Tyregetae; but I cannot tell the precise boundaries.
 
-Both rulers were murdered in the same year, and the kingdom was broken into smaller entities. The states of Dacia recognized Rome’s supremacy under Augustus, and interaction is indicated by Augustus’ betrothal of his daughter to Cotiso. [Horace](https://en.wikipedia.org/wiki/Horace) (Occidit Daci Cotisonis agmen, Odes, III. 8. 18).
+Both rulers were murdered in the same year, and the kingdom was broken into smaller entities. The states of Dacia recognized Rome's supremacy under Augustus, and interaction is indicated by Augustus' betrothal of his daughter to Cotiso. [Horace](https://en.wikipedia.org/wiki/Horace) (Occidit Daci Cotisonis agmen, Odes, III. 8. 18).
 
 Dacia was of particular interest to the Romans for its supplies of lead, needed for the water pipes of the cities and villas.
 

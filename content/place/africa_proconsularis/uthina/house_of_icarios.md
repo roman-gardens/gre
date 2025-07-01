@@ -65,7 +65,7 @@ This richly decorated house is considered as one of the most remarkable *domus* 
 ## Bibliography
 
 
-* Ben Hassen, H., Maurin, L., *Oudna (Uthina) La découverte d’une ville antique de Tunisie*, Paris, 1998.[(worldcat)](https://search.worldcat.org/title/492084212)
+* Ben Hassen, H., Maurin, L., *Oudna (Uthina) La découverte d'une ville antique de Tunisie*, Paris, 1998.[(worldcat)](https://search.worldcat.org/title/492084212)
 * Ben Mansour, S., "Les mosaïques in situ de la maison d'Ikarios (dite des Laberii) à Uthina", in *Africa* 14, 1996, pp. 113-31.[(worldcat)](https://search.worldcat.org/title/949260343)
 * Blanc-Bijon V. and Darmon J-P., "Proposition pour une lecture du programme iconographique de la maison d'Icarios d'Oudna (Tunisie)", in *Bulletin de l'AIEMA*, 12, 1988-1989, pp. 294-304.[(worldcat)](https://search.worldcat.org/title/906497618)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 325-329. [(worldcat)](https://search.worldcat.org/title/989088620)

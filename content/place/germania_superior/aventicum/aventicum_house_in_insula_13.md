@@ -65,7 +65,7 @@ Houses: Late 1st century - Middle of 3rd century
 ## Bibliography
 
 * J. Morel, "Chronique archéologique 1993," Bull. de l'Association Pro Aventico 35, 1993: 19-21, figs. 8, 11.
-* J. Morel, "L’habitat," in : A. Hochuli-Gysel, ed., Avenches, capitale des Helvètes, Archéologie Suisse 24.1, 2001: 45-46, figs. 58, 60. [(worldcat)](https://search.worldcat.org/title/718693183)
+* J. Morel, "L'habitat," in : A. Hochuli-Gysel, ed., Avenches, capitale des Helvètes, Archéologie Suisse 24.1, 2001: 45-46, figs. 58, 60. [(worldcat)](https://search.worldcat.org/title/718693183)
 * M. Carroll, *Romans, Celts and Germans. The German Provinces of Rome*, Stroud, 2001, p. 55, fig. 20. [(worldcat)](https://search.worldcat.org/title/1120840822)
 
 ## Places

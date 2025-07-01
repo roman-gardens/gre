@@ -98,16 +98,16 @@ The house is one of the most interesting examples of the transition from the atr
 ## Bibliography
 
 <!-- Bibliography for Location Description -->
-* G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953. [(worldcat)](https://search.worldcat.org/title/248497118)
+* G. Calza, G. Becatti, I. Gismondi, G. De Angelis D'Ossat, H. Bloch, *Topografia generale*, Scavi di Ostia I, Rome, 1953. [(worldcat)](https://search.worldcat.org/title/248497118)
 * R. Meiggs, *Roman Ostia*. [(worldcat)](https://search.worldcat.org/title/868614740)
 * C. Pavolini, *Ostia: Vita quotidiana*. [(worldcat)](https://search.worldcat.org/title/848372586)
 * Jean-Paul Descœudres, *Ostia: Port et porte de la Rome antique*. [(worldcat)](https://search.worldcat.org/title/801326827)
 * E.J. Shepherd, P. Olivanti (eds), *Giardini ostiensi*, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. [(worldcat)](https://search.worldcat.org/title/1130900997)
 * M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio," *Rivista di Archeologia* 43, 2019, pp. 165-176. [(worldcat)](https://search.worldcat.org/title/797910124) [(Rivista di Archeologia)](http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf)
-* M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d’Arte*, in press. [(worldcat)](https://search.worldcat.org/title/1536690)
+* M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, "Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941)," *Bollettino d'Arte*, in press. [(worldcat)](https://search.worldcat.org/title/1536690)
 <!-- Bibliography for Garden Description -->
 * *Giornale degli Scavi*, 1941, pp. 56-58, 66.
-* M.A. Ricciardi, V. Santa Maria Scrinari, *La Civiltà dell’acqua in Ostia Antica* 2, Rome, 1996, pp. 108-111. [(worldcat)](https://search.worldcat.org/title/801186023)
+* M.A. Ricciardi, V. Santa Maria Scrinari, *La Civiltà dell'acqua in Ostia Antica* 2, Rome, 1996, pp. 108-111. [(worldcat)](https://search.worldcat.org/title/801186023)
 * L.B. van der Meer, N.L.C. Stevens, H. Stoeger, "Domus Fulminata: The House of the Thunderbolt at Ostia (III, vii, 3-5)," *Bulletin Antieke Beschaving* 80, 2005, pp. 91-111. [(worldcat)](https://search.worldcat.org/title/703562666)
 
 ## Places

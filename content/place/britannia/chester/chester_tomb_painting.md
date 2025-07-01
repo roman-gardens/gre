@@ -26,7 +26,7 @@ Tomb Painting in Chester
 
 ## Garden Description
 
-Toynbee’s suggestion that a military tombstone from Chester depicting a row of three gabled buildings with stylized trees or shrubs planted in front of the two at the sides perhaps represents a tomb garden with tomb and flanking funerary buildings, though plausible, cannot in itself be taken to show that tomb gardens existed in Roman Britain; it would, however, suggest that the concept of planting at tombs was regarded as conventionally Roman and appropriate.
+Toynbee's suggestion that a military tombstone from Chester depicting a row of three gabled buildings with stylized trees or shrubs planted in front of the two at the sides perhaps represents a tomb garden with tomb and flanking funerary buildings, though plausible, cannot in itself be taken to show that tomb gardens existed in Roman Britain; it would, however, suggest that the concept of planting at tombs was regarded as conventionally Roman and appropriate.
 
 <!-- ## Maps
 

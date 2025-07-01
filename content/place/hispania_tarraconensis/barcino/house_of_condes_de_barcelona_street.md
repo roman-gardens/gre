@@ -69,7 +69,7 @@ Excavations in the late 1940s and 1950s brought to light the remains of an urban
 Unspecified
 
 ## Bibliography
-- A. Balil Iliana, *Casa y urbanismo en la España antigua*. Casa familiar y vivienda colectiva en la España romana,’ in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid, 1972, 113-115. [(worldcat)](https://search.worldcat.org/title/807743135)
+- A. Balil Iliana, *Casa y urbanismo en la España antigua*. Casa familiar y vivienda colectiva en la España romana,' in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid, 1972, 113-115. [(worldcat)](https://search.worldcat.org/title/807743135)
 
 
 ## Places

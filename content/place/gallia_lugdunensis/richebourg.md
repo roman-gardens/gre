@@ -66,10 +66,10 @@ Unspecified
 
 ## Bibliography
 - Y. Barat, La villa gallo-romaine de Richebourg (Yvelines) in  *Revue  Archéologique  du  Centre  de  la  France,*  38, 1999, p. 117-67, plans  p. 122, jardin  p.140. [(worldcat)](https://search.worldcat.org/title/4647907321)
-- Y Barat, D. Morize, Les pots d’horticulture dans le monde antique et les jardins de la villa de Richebourg (Yvelines), in *SFECAG, Actes du colloque de Fribourg,* 1999, p. 213-36.  <!-- no worldcat -->
-- Y. Barat, La recherche archéologique des jardins antiques in *Les nouvelles de l’archéologie*  83-84, 2001, p. 56-62, not. P. 58-59. <!-- no worldcat -->
+- Y Barat, D. Morize, Les pots d'horticulture dans le monde antique et les jardins de la villa de Richebourg (Yvelines), in *SFECAG, Actes du colloque de Fribourg,* 1999, p. 213-36.  <!-- no worldcat -->
+- Y. Barat, La recherche archéologique des jardins antiques in *Les nouvelles de l'archéologie*  83-84, 2001, p. 56-62, not. P. 58-59. <!-- no worldcat -->
 - G. Coulon, J.C. Golvin, *Voyage en Gaule romaine,* Actes sud Errance, Arles-Paris, 2002, p.121-3, restitution p. 122-3. [(worldcat)](https://search.worldcat.org/title/1002913551)
-- Y. Barat and D. Morize, L’archéologie des jardins antiques: le cas de la *pars urbana* de la *villa* de Richebourg (Yvelines) in *Actualité de la Recherche en Histoire et Archéologie agraires, Annales Littéraires de L’Université de Franche-Comté,* 764, Besançon, 2003.  [(worldcat)](https://search.worldcat.org/title/243748592)
+- Y. Barat and D. Morize, L'archéologie des jardins antiques: le cas de la *pars urbana* de la *villa* de Richebourg (Yvelines) in *Actualité de la Recherche en Histoire et Archéologie agraires, Annales Littéraires de L'Université de Franche-Comté,* 764, Besançon, 2003.  [(worldcat)](https://search.worldcat.org/title/243748592)
 
 
 ## Places

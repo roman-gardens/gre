@@ -69,9 +69,9 @@ The *triclinium* was bordered on two sides by two apartments that each had rooms
 2nd-3rd century CE
 
 ## Bibliography
-- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 27-29. [(worldcat)](https://search.worldcat.org/title/989088620)
-- Ennaifer, M., *La cité d’Althiburos et l’édifice des Asclepieia*, INA, Tunis, 1976, p. 64-70, plan II. [(worldcat)](https://search.worldcat.org/title/963483765)
-- Merlin, A., *Forum et maisons d’Althiburos, Notes et documents*, VI, 1913, p. 39-45, plan pl. V. [(worldcat)](https://search.worldcat.org/title/490070526)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 27-29. [(worldcat)](https://search.worldcat.org/title/989088620)
+- Ennaifer, M., *La cité d'Althiburos et l'édifice des Asclepieia*, INA, Tunis, 1976, p. 64-70, plan II. [(worldcat)](https://search.worldcat.org/title/963483765)
+- Merlin, A., *Forum et maisons d'Althiburos, Notes et documents*, VI, 1913, p. 39-45, plan pl. V. [(worldcat)](https://search.worldcat.org/title/490070526)
 - Rebuffat, R., "Maisons à péristyle d'Afrique du Nord: répertoire de plans publiés". In: *Mélanges d'archéologie et d'histoire*, tome 81, n°2, 1969, p. 67, Althiburos 2. [(worldcat)](https://search.worldcat.org/title/493279757)
 
 

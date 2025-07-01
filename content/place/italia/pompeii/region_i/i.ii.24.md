@@ -58,7 +58,7 @@ The garden east of the [atrium](http://vocab.getty.edu/page/aat/300004097) had a
 * Mau, A. 1874. *BdI*, pp. 253-256, 262-263  
 * Mau, A. 1907. *Pompeii: It's life and art*, p. 404  
 * Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 77  
-* Soprano, P. 1950, *'I triclini all’aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 292-293, no.1   
+* Soprano, P. 1950, *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 292-293, no.1   
 * Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 13 [(worldcat)](https://search.worldcat.org/title/254502217)  
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, no.32 [(worldcat)](https://search.worldcat.org/title/974375313)  
 

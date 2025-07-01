@@ -65,7 +65,7 @@ To the northeast there are the baths of la Planchette, today backfilled.   This 
 
 1. *La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise*. Vaucluse: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 82-83. [(worldcat)](https://search.worldcat.org/title/695787865)
 
-2. Chr. Fraisse, J. Dupraz, *L’Ardèche*, CAG 07, Gap, 2001, P. 155-156.
+2. Chr. Fraisse, J. Dupraz, *L'Ardèche*, CAG 07, Gap, 2001, P. 155-156.
 
 ## Places
 

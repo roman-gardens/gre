@@ -57,7 +57,7 @@ unspecified
 
 *  Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus*, *Les mosaïques de la région des Grands Thermes*, V. II, fasc.2, INA, Tunis, 1985, pp. 47-9, plan 9. [(worldcat)](https://search.worldcat.org/title/905765362)
 * Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](https://search.worldcat.org/title/20058336)
-*  Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine*, Brouquier Reddé, V., Baratte, Fr., Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, 360, pl. 10. [(worldcat)](https://search.worldcat.org/title/1028897747)
+*  Malek, A.-A., "Le jardin dans les sanctuaires du Maghreb romain, premières approches", in *Du culte aux sanctuaires : l'architecture religieuse dans l'Afrique romaine et byzantine*, Brouquier Reddé, V., Baratte, Fr., Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, 360, pl. 10. [(worldcat)](https://search.worldcat.org/title/1028897747)
 
 ## Places
 

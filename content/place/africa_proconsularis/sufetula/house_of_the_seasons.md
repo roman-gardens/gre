@@ -66,7 +66,7 @@ House of the Seasons (La maison des Saisons)
 * Duval, N., Baratte, F., *Les ruines de Sufetula Sbeïtla*, Tunis, 1973, pp. 65-69, fig. 44. [(worldcat)](https://search.worldcat.org/title/1107607946)
 * Duval, N., "Plastique chrétienne de Tunisie et d'Algérie", in *Bulletin archéologique du Comité des Travaux Historiques et Scientifique BAC* (1972), pp. 69-75 and fig. 11.[(worldcat)](https://search.worldcat.org/title/888111893)
 * Merlin, A., in *BCTH*, 1910, pp. CXCVI-CXCVII. [(worldcat)](https://search.worldcat.org/title/224692325)
-* Parrish, D., "The Mosaic of Xenophon from Sbeitla", in *Mosaïque, Recueil d’hommages à Henri Stern, Paris*, 1982, pp. 297-306, pl. CXCV. 1. [(worldcat)](https://search.worldcat.org/title/10727878)
+* Parrish, D., "The Mosaic of Xenophon from Sbeitla", in *Mosaïque, Recueil d'hommages à Henri Stern, Paris*, 1982, pp. 297-306, pl. CXCV. 1. [(worldcat)](https://search.worldcat.org/title/10727878)
 * Parrish, D., *The Seasons mosaics of Roman North Africa*, Rome, 1984, pp. 215-218. [(worldcat)](https://search.worldcat.org/title/1022822931)
 
 

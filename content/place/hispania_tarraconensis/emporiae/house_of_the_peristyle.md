@@ -92,7 +92,7 @@ This well-known large house, situated in the center of the eastern side of Neapo
 
 
 ## Bibliography
-- X. Aquilué et al, *Guías del Museu d’Arqueologia de Catalunya*, Empúries. Tarragona, 2000, pp. 59-60 [(worldcat)](https://search.worldcat.org/title/758101475)
+- X. Aquilué et al, *Guías del Museu d'Arqueologia de Catalunya*, Empúries. Tarragona, 2000, pp. 59-60 [(worldcat)](https://search.worldcat.org/title/758101475)
 
 - X. Aquilué, J. Ruíz de Arbulo, *La jardinería en la época antigua*, in Historia de los Parques y Jardines en España. Edita Grupo FCC, Madrid, 2001, p. 12. [(worldcat)](https://search.worldcat.org/title/1090911182)
 

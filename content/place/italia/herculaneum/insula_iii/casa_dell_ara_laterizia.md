@@ -2,7 +2,7 @@
 gre_id: "3a24879b01"
 aliases: [/id/3a24879b01]
 type: garden
-title: "Casa dell’Ara Laterizia"
+title: "Casa dell'Ara Laterizia"
 date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
@@ -34,7 +34,7 @@ III
 17
 
 ## Garden
-Casa dell’Ara Laterizia
+Casa dell'Ara Laterizia
 
 ## Keywords
 
@@ -61,19 +61,19 @@ NEW WAY ↓↓↓↓
 -->
 
 ## Plans
-{{< image file="h_3_3-17.jpg" caption="Plan of Casa dell’Ara Laterizia" credit="" alt="Plan of Casa dell’Ara Laterizia" >}}
+{{< image file="h_3_3-17.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="Plan of Casa dell'Ara Laterizia" >}}
 
 <!--
 Image not yet in gre-images
-{{< image file="H_3_1-2_18-19.jpg" caption="Plan of Casa dell’Ara Laterizia" credit="" alt="Plan of Casa dell’Ara Laterizia" >}}
+{{< image file="H_3_1-2_18-19.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="Plan of Casa dell'Ara Laterizia" >}}
 -->
 
 
 ## Images
 
-{{< image file="Herc. III.19-18,1-2   17.2.78.jpg" caption="Illustration of Casa dell’Ara Laterizia" credit="" alt="Illustration of Casa dell’Ara Laterizia" >}}
+{{< image file="Herc. III.19-18,1-2   17.2.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="Illustration of Casa dell'Ara Laterizia" >}}
 
-{{< image file="Herc.III.19-18,1-2   17.3.78.jpg" caption="Illustration of Casa dell’Ara Laterizia" credit="" alt="Illustration of Casa dell’Ara Laterizia" >}}
+{{< image file="Herc.III.19-18,1-2   17.3.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="Illustration of Casa dell'Ara Laterizia" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
@@ -92,8 +92,8 @@ unspecified
 - Maiuri, *Ercolano*, p. 422 and fig. 359 (plan) on p. 420.
 - A.C. *BdI* (1835),p. 129 [(worldcat)](https://search.worldcat.org/title/504636074)
 - Maiuri, *Herculaneum*, pp. 26-27 [(worldcat)](https://search.worldcat.org/title/1107784297)
-- Trotter, *"Identificazione di un tronco d’albero carbonizzato rinvenuto nei recenti scavi di Ercolano," Annali del Regio Instituto Superiore Agrario di Portici*, ser. 3, vol. 5 (1932), pp. 1-6 and pls. 1, 2 [(worldcat)](https://search.worldcat.org/title/865565447)
+- Trotter, *"Identificazione di un tronco d'albero carbonizzato rinvenuto nei recenti scavi di Ercolano," Annali del Regio Instituto Superiore Agrario di Portici*, ser. 3, vol. 5 (1932), pp. 1-6 and pls. 1, 2 [(worldcat)](https://search.worldcat.org/title/865565447)
 - Trotter, *Ercolano*, pp. 51, 330-331 and fig. 258 (plan) on p. 474-475
-*(for reference to Bonucci’s brief and inaccurate account of the excavation of this house, as preserved by Ruggerio)* [(worldcat)](#)
+*(for reference to Bonucci's brief and inaccurate account of the excavation of this house, as preserved by Ruggerio)* [(worldcat)](#)
 
 

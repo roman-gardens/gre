@@ -62,7 +62,7 @@ It was laid out around a peristyle garden (VI-X) of 12 columns (Plan view, Fig. 
 
 *  Alexander, Margaret A., *Corpus des Mosaïques de Tunisie*, *Thuburbo  Majus*, *Les  mosaïques  de  la  région  du  Forum*, V.  II, fasc.1, INA, Tunis, 1980, pp. 39-52, plan 10-11 [(worldcat)](https://search.worldcat.org/title/23232759)
 * Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](https://search.worldcat.org/title/20058336)
-*  Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.221-223. [(worldcat)](https://search.worldcat.org/title/989088620)
+*  Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.221-223. [(worldcat)](https://search.worldcat.org/title/989088620)
 
 
 ## Places

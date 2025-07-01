@@ -2,7 +2,7 @@
 gre_id: "29e3ce80ed"
 aliases: [/id/29e3ce80ed]
 type: garden
-title: "House of the Arsenal (Maison de l’Arsenal)"
+title: "House of the Arsenal (Maison de l'Arsenal)"
 latlon: [ 49.118135, 6.174155 ]
 author: Maureen Carroll
 editor: Yvette Pollack

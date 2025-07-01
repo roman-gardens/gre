@@ -2,7 +2,7 @@
 gre_id: "df48683f15"
 aliases: [/id/df48683f15]
 type: garden
-title: "Casa dell’Atrio a Mosaico"
+title: "Casa dell'Atrio a Mosaico"
 date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
@@ -34,7 +34,7 @@ IV
 1-2
 
 ## Garden
-Casa dell’Atrio a Mosaico
+Casa dell'Atrio a Mosaico
 
 ## Keywords
 
@@ -58,7 +58,7 @@ NEW WAY ↓↓↓↓
 -->
 
 ## Plans
-{{< image file="H_4_1-2.jpg" caption="Plan of Casa dell’Atrio a Mosaico" credit="" alt="Plan of Casa dell’Atrio a Mosaico" >}}
+{{< image file="H_4_1-2.jpg" caption="Plan of Casa dell'Atrio a Mosaico" credit="" alt="Plan of Casa dell'Atrio a Mosaico" >}}
 
 
 <!--## Images-->

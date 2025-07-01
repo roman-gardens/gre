@@ -2,7 +2,7 @@
 gre_id: "3df879a754"
 aliases: [/id/3df879a754]
 type: garden
-title: "VIII.5.28. Casa della Calce; Casa dell’Imperatore Francesco II"
+title: "VIII.5.28. Casa della Calce; Casa dell'Imperatore Francesco II"
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 editor: Yifan Li

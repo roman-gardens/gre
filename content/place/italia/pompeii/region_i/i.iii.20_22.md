@@ -50,7 +50,7 @@ At the rear of this house there was a garden with a passageway on the north and 
 * Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 27 [(worldcat)](https://search.worldcat.org/title/222353569)  
 * Matz, F. 1869. *BdI*, p. 242  
 * Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 78  
-* Soprano, P. 1950, *'I triclini all’aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 308, no.36  
+* Soprano, P. 1950, *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 308, no.36  
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://search.worldcat.org/title/974375313)  
 
 

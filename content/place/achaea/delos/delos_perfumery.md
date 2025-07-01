@@ -26,14 +26,14 @@ The so-called **perfumery** was equipped with a Rhodian peristyle (e), an open *
 -->
 
 ## Plans
-{{< image file="delos_fig6_perfumery_plan.jpg" caption="Fig. 1: Plan of the ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, 1:250." credit="Drawing by M. Trümper after Plassart 1916, pl. V-VII." alt="Archaeological plan of the ‘Perfumery'" >}}
+{{< image file="delos_fig6_perfumery_plan.jpg" caption="Fig. 1: Plan of the 'Perfumery,' Quarter of the Stadium, Insula I, building B, 1:250." credit="Drawing by M. Trümper after Plassart 1916, pl. V-VII." alt="Archaeological plan of the 'Perfumery'" >}}
 
 ## Images
-{{< image file="delos_fig8_perfumery.jpg" caption="Fig. 2: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast." credit="Photo courtesy of M. Trümper." alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." >}}
+{{< image file="delos_fig8_perfumery.jpg" caption="Fig. 2: 'Perfumery,' Quarter of the Stadium, Insula I, building B, overview from southeast." credit="Photo courtesy of M. Trümper." alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." >}}
 
 ## Bibliography
-- A. Plassart, "Fouilles de Délos exécutées aux frais de M. Le Duc de Loubat (1912-1913). Quartier d’habitations privées à l’est du stade," *BCH* 40, 1916: 166-175. [(Persée)](https://www.persee.fr/doc/bch_0007-4217_1916_num_40_1_1477).
-- P. Bruneau, *Recherches sur les cultes de Délos à l’époque hellénistique et à l’époque impériale.* BEFAR 217, 1970. [(worldcat)](https://search.worldcat.org/title/2349270).
+- A. Plassart, "Fouilles de Délos exécutées aux frais de M. Le Duc de Loubat (1912-1913). Quartier d'habitations privées à l'est du stade," *BCH* 40, 1916: 166-175. [(Persée)](https://www.persee.fr/doc/bch_0007-4217_1916_num_40_1_1477).
+- P. Bruneau, *Recherches sur les cultes de Délos à l'époque hellénistique et à l'époque impériale.* BEFAR 217, 1970. [(worldcat)](https://search.worldcat.org/title/2349270).
 - P. Bruneau and J. Ducat, *Guide de Délos. École française d Athènes.* 4th edition, Paris 2005, Nos. 79, 117, 124. [(worldcat)](https://search.worldcat.org/title/884638358).
 - M. Trümper, *Wohnen in Delos. Eine baugeschichtliche Untersuchung zum Wandel der Wohnkultur in hellenistischer Zeit.* Internationale Archäologie 46, Rahden/Westfalen 1998: 262-265, 317-318, figs. 59. 62, plan I. [(worldcat)](https://search.worldcat.org/title/722868070).
 - J.-P. Brun, "Laudatissimum fuit antiquitus in Delo insula: La Maison IB du Quartier du stade et la production des parfums à Délos," *BCH* 123, 1999: 87-155. [(Persée)](https://www.persee.fr/doc/bch_0007-4217_1999_num_123_1_7212).

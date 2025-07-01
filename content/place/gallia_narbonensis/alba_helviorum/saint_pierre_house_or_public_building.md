@@ -63,9 +63,9 @@ The western wing, of which 30 m is known, has rooms richly decorated with marble
 
 ## Bibliography
 
-1. R.  Lauxerois, P. Andre, G. Jourdan, *et  alii, Alba, de  la  cité  gallo-romaine  au  village  (département  de  l’Ardèche)*, Guides  archéologiques  de  la  France, 1985, p. 61-62 [(worldcat)](https://search.worldcat.org/title/241942050)
+1. R.  Lauxerois, P. Andre, G. Jourdan, *et  alii, Alba, de  la  cité  gallo-romaine  au  village  (département  de  l'Ardèche)*, Guides  archéologiques  de  la  France, 1985, p. 61-62 [(worldcat)](https://search.worldcat.org/title/241942050)
 
-2. Chr. Fraisse, J. Dupraz, *L’Ardèche*, CAG 07, Gap, 2001, P. 157-158.
+2. Chr. Fraisse, J. Dupraz, *L'Ardèche*, CAG 07, Gap, 2001, P. 157-158.
 
 ## Places
 

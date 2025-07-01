@@ -65,7 +65,7 @@ Late second or third century (CE)
 ## Bibliography
 
 1. *CIL* 3.2207
-2. M. Abramic´, *VAHD 52*, 1935-49:1-18
+2. M. Abramić, *VAHD 52*, 1935-49:1-18
 3. J. J. Wilkes, *Dalmatia*. London, 1969, pp. 360-61, fig. 16.
 
 ## Places

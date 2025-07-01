@@ -25,8 +25,8 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 ## Location Description
 
-Founded by Tyrians from Phoenicia, Carthage became the capital of a powerful empire that came into conflict with the expanding power of Rome. In 146 BC Carthage was completely destroyed and re-founded as a Roman colony by Augustus who completed Cesar’s initial project. Augustus expanded the new city and encouraged settlements of veterans and civilians. The kingdom of Numidia was transformed into a province and Carthage was raised to the rank of capital. The city not only became the major port through which the wealth of the province flowed to Rome but also became a cultural capital that introduced the African elite to the rest of the empire, making it one of the wealthiest and most cosmopolitan cities in the Mediterranean world.
-Of the Roman period, the city plan is clearly recognizable. The plan takes as its central axis the summit of the acropolis of Byrsa that divided the city into four quarters of equal size except for the one situated to the northwest. The most remarkable monuments found in Carthage are the Baths of Antonius situated on the seashore at the foot of the hill of Borj Jedid and the villas that stretched along the Odeon’s hill. From the Christian era, several basilicas were found. The necropolis that surrounded the city has also provided important information on the city.
+Founded by Tyrians from Phoenicia, Carthage became the capital of a powerful empire that came into conflict with the expanding power of Rome. In 146 BC Carthage was completely destroyed and re-founded as a Roman colony by Augustus who completed Cesar's initial project. Augustus expanded the new city and encouraged settlements of veterans and civilians. The kingdom of Numidia was transformed into a province and Carthage was raised to the rank of capital. The city not only became the major port through which the wealth of the province flowed to Rome but also became a cultural capital that introduced the African elite to the rest of the empire, making it one of the wealthiest and most cosmopolitan cities in the Mediterranean world.
+Of the Roman period, the city plan is clearly recognizable. The plan takes as its central axis the summit of the acropolis of Byrsa that divided the city into four quarters of equal size except for the one situated to the northwest. The most remarkable monuments found in Carthage are the Baths of Antonius situated on the seashore at the foot of the hill of Borj Jedid and the villas that stretched along the Odeon's hill. From the Christian era, several basilicas were found. The necropolis that surrounded the city has also provided important information on the city.
 
 ## Garden
 House of the Aviary (Maison de la Volière)
@@ -73,10 +73,10 @@ House of the Aviary (Maison de la Volière)
 the end of 2nd-4th century CE
 
 ## Bibliography
-* Ben Osman, W., "Etude des pavements de la Villa de la Volière", p. 147, in *Mosaïque, Recueil d’hommage à Henri Stern*, Paris, 1983. [(worldcat)](https://search.worldcat.org/title/10727878)
+* Ben Osman, W., "Etude des pavements de la Villa de la Volière", p. 147, in *Mosaïque, Recueil d'hommage à Henri Stern*, Paris, 1983. [(worldcat)](https://search.worldcat.org/title/10727878)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 125-128. [(worldcat)](https://search.worldcat.org/title/989088620)
-* Ennabli, A., "La Maison de la Volière à Carthage: L’Architecture", p. 132, in *Mosaïque, Recueil d’hommage à Henri Stern*, Paris, 1983. [(worldcat)](https://search.worldcat.org/title/10727878)
-* Malek, A.-A., "De l'espace pictural à l'espace du jardin : mosaïques et jardins dans les domus de l'Afrique romaine", in *Archéologie des jardins :analyse des espaces et méthodes d’approches*, eds. P. Van Ossel, A.-M. Guimier-Sorbets, Archéologie et histore romaine 26, Editions Monique Mergoil, 2014, p. 17.
+* Ennabli, A., "La Maison de la Volière à Carthage: L'Architecture", p. 132, in *Mosaïque, Recueil d'hommage à Henri Stern*, Paris, 1983. [(worldcat)](https://search.worldcat.org/title/10727878)
+* Malek, A.-A., "De l'espace pictural à l'espace du jardin : mosaïques et jardins dans les domus de l'Afrique romaine", in *Archéologie des jardins :analyse des espaces et méthodes d'approches*, eds. P. Van Ossel, A.-M. Guimier-Sorbets, Archéologie et histore romaine 26, Editions Monique Mergoil, 2014, p. 17.
 * Malek, A.-A., "Mosaic and nature : "Cultural allusions to Nature in the Roman Domus", in *Gardens of the Roman Empire*, Volume II, eds., W. F. Jashemski, K. Gleason, A-A Malek, K. Hartswick, Cambridge University Press., NY, 2018, pp. 329-301, fig. 12.9B, 12.10. [(worldcat)](https://search.worldcat.org/title/1021392532)
 
 

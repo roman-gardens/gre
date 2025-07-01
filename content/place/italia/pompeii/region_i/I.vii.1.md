@@ -77,7 +77,7 @@ Excavated 1912, 1915, 1926 and 1936.
 * Maiuri, A. 1929. *NSc*, p. 386, and fig. 18 (plan of triclinium) on p. 387, and fig. 20 (plan) on p. 389.  
 * Maiuri, A. 1971. *Pompeii*, pp. 100-101. [(worldcat)](https://search.worldcat.org/title/18870711)  
 * Pernice, E. and Winter, F. 1925, *Gefässe und Geräthe aus BronzeDie Hellenistische Kunst in Pompeii*, p. 13.   
-* Soprano, P. 1950. *'I triclini all’aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei*, p. 307, no. 30.  
+* Soprano, P. 1950. *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei*, p. 307, no. 30.  
 * Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, p. 299 and fig. 334 (plan) on p. 297.  
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, appendix on water and photo no. 66.  
 

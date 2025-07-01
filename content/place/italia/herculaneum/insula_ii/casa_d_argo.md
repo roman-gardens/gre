@@ -2,7 +2,7 @@
 gre_id: "8661630841"
 aliases: [/id/8661630841]
 type: garden
-title: "Casa D’Argo"
+title: "Casa D'Argo"
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 editor: Tiffany Y. Fong
@@ -32,7 +32,7 @@ II
 2
 
 ## Garden
-Casa D’Argo
+Casa D'Argo
 
 
 ## Keywords
@@ -66,7 +66,7 @@ NEW WAY ↓↓↓↓
 ## Plans
 
 
-{{< image file="H_2_2.jpg" caption="Plan of Casa D’Argo" credit="" alt="Plan of Casa D’Argo" >}}
+{{< image file="H_2_2.jpg" caption="Plan of Casa D'Argo" credit="" alt="Plan of Casa D'Argo" >}}
 
 ## Dates
 

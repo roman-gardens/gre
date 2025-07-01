@@ -47,7 +47,7 @@ At the western end of the south side of the *templum* was a large rectangular op
 
 The *gran patio* and its galleries were bordered on the east by a line of rooms, two of them opening onto it and the others onto what was clearly the residential area further east.  There were also two passageways between the two areas.  This residential area has a normal peristyle courtyard (8 x 6 m) with a garden.  Drainage from the garden went off to the south, while the northern part of the residential area drained across and under the *gran patio*. In the structures of the third phase, there were no mosaics and no sculptures found.  On the other hand, a bronze farm bell with iron clapper, lots of agricultural implements, and some horse gear were found.  
 
-Sotomayor did not think that the gran patio was a garden, and proposed that it might have been a coral for ‘lesser herds’ (*ganado menor*), by which he presumably meant mainly sheep.  He pointed out that there was no ornament, such as a pool or fountain in the middle of the area.  While the *templum* was clearly not a garden, it had no masonry floor save what it had inherited from the second phase of the villa.  It seems, however, to have had a wooden or reed roof, for carbonized portions of beams suitable for supporting the roof were found.
+Sotomayor did not think that the gran patio was a garden, and proposed that it might have been a coral for 'lesser herds' (*ganado menor*), by which he presumably meant mainly sheep.  He pointed out that there was no ornament, such as a pool or fountain in the middle of the area.  While the *templum* was clearly not a garden, it had no masonry floor save what it had inherited from the second phase of the villa.  It seems, however, to have had a wooden or reed roof, for carbonized portions of beams suitable for supporting the roof were found.
 
 ## Maps
 
@@ -83,8 +83,8 @@ unspecified
 
 ## Bibliography
 
-* P. de Palol and M. Sotomayor, ‘Excavaciones en la villa romana de Bruñel (Quesada), de la Provincia de Jaén,’ *Actas del VIII Congreso Internacional de Arqueología Cristiana (Barcelona, 5-11 October, 1969)*, (Roma-Barcelona, 1972), 275-381. [(worldcat)](https://search.worldcat.org/title/805693419)
-* M. Sotomayor, ‘La villa romana de Bruñel,’ *Cuadernos de Prehistoria de la Universidad de Granada 10*, (Granada, 1985), 335-366. [(worldcat)](https://search.worldcat.org/title/934427727)
+* P. de Palol and M. Sotomayor, 'Excavaciones en la villa romana de Bruñel (Quesada), de la Provincia de Jaén,' *Actas del VIII Congreso Internacional de Arqueología Cristiana (Barcelona, 5-11 October, 1969)*, (Roma-Barcelona, 1972), 275-381. [(worldcat)](https://search.worldcat.org/title/805693419)
+* M. Sotomayor, 'La villa romana de Bruñel,' *Cuadernos de Prehistoria de la Universidad de Granada 10*, (Granada, 1985), 335-366. [(worldcat)](https://search.worldcat.org/title/934427727)
 * M.ª C. Fernández Castro,*Villas romanas en Hispania*, (Madrid 1982).[(worldcat)](https://search.worldcat.org/title/876519837)
 
 

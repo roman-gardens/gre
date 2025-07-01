@@ -64,4 +64,4 @@ Excavated 1951, 1954, 1987. Restored 1988. Re-opened 2018.
 
 ## Bibliography
 
-Ciarallo, A. 1990. *Le problematiche botaniche dell’area archeologica Vesuviana*, L'Erma di Bretschneider, pp.17-32. [(worldcat)](https://search.worldcat.org/title/6022166)
+Ciarallo, A. 1990. *Le problematiche botaniche dell'area archeologica Vesuviana*, L'Erma di Bretschneider, pp.17-32. [(worldcat)](https://search.worldcat.org/title/6022166)

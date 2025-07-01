@@ -62,8 +62,8 @@ Besides the central peristyle, there are several other areas that were possibly 
 
 
 ## Bibliography
-- J. de C. Serra Rafols, La villa romana de la Dehesa de ‘La Cocosa’. Badajoz, 1952. [(worldcat)](https://search.worldcat.org/title/17319391)
-- J. de C. Serra Rafols, ‘A propósito de la villa de La Cocosa. Rectificación.’ In Archivo Español de Arqueología, XXVI. CSIC, Madrid, 1953, p. 302. [(worldcat)](https://search.worldcat.org/title/1122498001)
+- J. de C. Serra Rafols, La villa romana de la Dehesa de 'La Cocosa'. Badajoz, 1952. [(worldcat)](https://search.worldcat.org/title/17319391)
+- J. de C. Serra Rafols, 'A propósito de la villa de La Cocosa. Rectificación.' In Archivo Español de Arqueología, XXVI. CSIC, Madrid, 1953, p. 302. [(worldcat)](https://search.worldcat.org/title/1122498001)
 - J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](https://search.worldcat.org/title/803415143)
 
 ## Places

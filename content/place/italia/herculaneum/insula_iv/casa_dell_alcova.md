@@ -2,7 +2,7 @@
 gre_id: "5c94b917b1"
 aliases: [/id/5c94b917b1]
 type: garden
-title: "Casa dell’Alcova"
+title: "Casa dell'Alcova"
 date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
@@ -34,7 +34,7 @@ IV
 3-4
 
 ## Garden
-Casa dell’Alcova
+Casa dell'Alcova
 
 
 ## Keywords
@@ -63,7 +63,7 @@ NEW WAY ↓↓↓↓
 
 ## Plans
 
-{{< image file="H_4_3-9.jpg" caption="Plan of Casa dell’Alcova" credit="" alt="Plan of Casa dell’Alcova" >}}
+{{< image file="H_4_3-9.jpg" caption="Plan of Casa dell'Alcova" credit="" alt="Plan of Casa dell'Alcova" >}}
 
 
 <!--## Images-->

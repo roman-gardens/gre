@@ -81,7 +81,7 @@ Excavated 1873-1874.
 * Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 48 (mosaic).
 * Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. IV*, pp. 1-2.
 * Sogliano, A. 1879. *Le pitture murali campane scoverte negli anni 1867-79*, cols. 9-10, 49 and pl. 2.
-* Soprano, P. 1950, *'I triclini all’aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 294, no. 3.
+* Soprano, P. 1950, *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 294, no. 3.
 * Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 15  
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, plate 32  
 

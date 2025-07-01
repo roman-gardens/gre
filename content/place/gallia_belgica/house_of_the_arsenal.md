@@ -2,7 +2,7 @@
 gre_id: "171b33f4c4"
 aliases: [/id/171b33f4c4]
 type: garden
-title: "House of the Arsenal (Maison de l’Arsenal)"
+title: "House of the Arsenal (Maison de l'Arsenal)"
 latlon: [ 49.118135, 6.174155 ]
 author: Maureen Carroll
 editor: Yvette Pollack
@@ -29,7 +29,7 @@ A sublocation is any area larger than an individual garden, but located within a
 In the valley of the Moselle, Divodurum Mediomatricorum, a former Gallic oppidum on the hill of Ste-Croix, became an urban center in the Augustan period. It had an amphitheater, an aqueduct, several baths, and a sewer network with a large collector.
 
 ## Garden
-HHouse of the Arsenal (Maison de l’Arsenal)
+HHouse of the Arsenal (Maison de l'Arsenal)
 
 ## Keywords
 

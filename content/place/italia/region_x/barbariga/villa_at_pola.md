@@ -70,7 +70,7 @@ unspecified
 
 ## Bibliography
 
-* M. De Franceschini, 1998, *Le ville romane della X regio: Venetia et Histria. Catalogo e carta archeologica dell’insediamento romano nel territorio, dall’età repubblicana al tardo impero*, Roma.[(worldcat)](https://search.worldcat.org/title/1071842281)
+* M. De Franceschini, 1998, *Le ville romane della X regio: Venetia et Histria. Catalogo e carta archeologica dell'insediamento romano nel territorio, dall'età repubblicana al tardo impero*, Roma.[(worldcat)](https://search.worldcat.org/title/1071842281)
 
 <!--
 See Römische Villa bei Pola / von Hans Schwalb (1902)

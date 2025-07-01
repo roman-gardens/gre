@@ -74,7 +74,7 @@ Unspecified
 
 -A. CONTICELLO, B. ANDREAE, *Die Skulpturen von Sperlonga*, Antike Plastik 14, Berlin 1974, pp. 000-000 [worldcat](https://search.worldcat.org/title/1050484099)
 
--G. JACOPI, *L’antro di Tiberio a Sperlonga (Istituto di Studi Romani)*, Roma 1963 [worldcat](https://search.worldcat.org/title/1965932)
+-G. JACOPI, *L'antro di Tiberio a Sperlonga (Istituto di Studi Romani)*, Roma 1963 [worldcat](https://search.worldcat.org/title/1965932)
 
 -SALZA PRINA RICOTTI, *Il gruppo di Polifemo a Sperlonga - Problemi di sistemazione*, RendPontAcc 42 (1968-1970), pp. 118-134, tavv. 1-3, figg. 5-9 [worldcat]https://search.worldcat.org/title/849270161
 

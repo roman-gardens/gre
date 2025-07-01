@@ -18,7 +18,7 @@ draft: false
 
 ## Province Description
 
-The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar’s reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.
+The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar's reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.
 
 ## Location
 
@@ -73,7 +73,7 @@ Early 3rd century CE
 * Blanchard-Lemée, M., "Dans les jardins de Djemila", in *Antiquités Africaines*, 34, 1998, pp. 185-197, Il fig. [(worldcat)](https://search.worldcat.org/title/4824686051)
 *  Blanchard-Lemée, M., "La Maison de Bacchus à Djemila: Architecture et décor d'une grande demeure provinciale à la fin de l'antiquité", in *Bulletin archéologique du C. THS.*, NS, fasc. 17 B (Colloque sur l'archéologie et l'histoire de l'Afrique du Nord, Perpignan, 1981), 1984, pp. 131-143. [(worldcat)](https://search.worldcat.org/title/848793520)
 *  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](https://search.worldcat.org/title/1090653355)
-* Malek, A.-A., "Le jardin au fil de l’eau : mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l’époque romaine*, eds, Brouquier-Reddé, V. et  Hurlet, Bordeaux, F., Ausonius, 2018, pp. 248-249. [(worldcat)](https://search.worldcat.org/title/1078217356)
+* Malek, A.-A., "Le jardin au fil de l'eau : mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l'époque romaine*, eds, Brouquier-Reddé, V. et  Hurlet, Bordeaux, F., Ausonius, 2018, pp. 248-249. [(worldcat)](https://search.worldcat.org/title/1078217356)
 
 ## Places
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}

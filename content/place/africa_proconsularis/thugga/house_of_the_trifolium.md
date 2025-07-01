@@ -24,7 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 - {{< id vocab="Pleiades" id="315223" name="THUGGA (Dougga) Tunisia" >}}
 
 
-{{< image file="dougga_house_of_the_trifolium.jpg" caption="Plan of Thugga" credit="(Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" alt="Plan of Thugga" >}}
+{{< image file="dougga_house_of_the_trifolium.jpg" caption="Plan of Thugga" credit="(Maurin, L., d'après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" alt="Plan of Thugga" >}}
 
 
 ## Location Description
@@ -57,7 +57,7 @@ Early 3rd century CE
 
 ## Bibliography
 * Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](https://search.worldcat.org/title/7380877046)
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia roman*, Rome: Edizioni Quasar, 2003, pp.274-276. [(worldcat)](https://search.worldcat.org/title/989088620)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia roman*, Rome: Edizioni Quasar, 2003, pp.274-276. [(worldcat)](https://search.worldcat.org/title/989088620)
 *  Hiesel, G., Strocka, V. M., "Vorberchicht Über die Grabungen 1996-2000", in *Thugga, I, Grundlagen und Bericht*, Ed. M. Kanoussi, V. M. Strocka, pp. 75-76, 78, Abb. I
 *  Poinssot, C., *Les ruines de Dougga*, Tunis, 1958, p. 53: plan, général n°18. [(worldcat)](https://search.worldcat.org/title/475099061)
 * Plan from http://www.dougga.rnrt.tn/file/plan_maison_trifolium.pdf

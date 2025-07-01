@@ -83,7 +83,7 @@ Beginning of the Flavian epoch - middle of the third century
 
 * C. Gaston, "Un bassin monumental et une fontaine dans les fouille du Palais de Justice de Besancon," *Revue Archéologique de l'Est*, t. 52, 2003, p.417-428.
 * Christophe Gaston: "Données récentes sur l'achitecture antique à Besançon," Archéopages/Inrap. No. 8, Nov. 2002, p. 28-35.
-* Laurent Vaxelaire, Philippe Barral, "Besançon: de l’oppidum à la ville romaine" in *La naissance de la ville dans l’Antiquité*, M. Reddé et al. ed., Paris, 2003, p. 254-256.
+* Laurent Vaxelaire, Philippe Barral, "Besançon: de l'oppidum à la ville romaine" in *La naissance de la ville dans l'Antiquité*, M. Reddé et al. ed., Paris, 2003, p. 254-256.
 
 ## Places
 

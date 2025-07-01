@@ -79,7 +79,7 @@ Unspecified
 
 ## Bibliography
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 183-184. [(worldcat)](https://search.worldcat.org/title/989088620)
-* Slim, L., Bonifay, M., Trousset, P. and al., "L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998", in *Africa* XVII, 1999, pp. 159-161, fig. 6, 7. [(worldcat)](https://search.worldcat.org/title/949242827)
+* Slim, L., Bonifay, M., Trousset, P. and al., "L'usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998", in *Africa* XVII, 1999, pp. 159-161, fig. 6, 7. [(worldcat)](https://search.worldcat.org/title/949242827)
 
 
 ## Places

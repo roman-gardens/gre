@@ -75,7 +75,7 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 ## Bibliography
 - F. Tarrats et al., *El área residencial de la villa romana de "Els Munts*, Madrider Mitteilungen 41. Mainz, 2000, pp. 358-379. [(worldcat)](https://search.worldcat.org/title/7180188573)
 
-- F. Tarrats, E. Ramón Seriñena and J. M. Macías I Solé, *Noves intervencions a la vil.la romana dels Munts*, in Tribuna d’Arqueologia 1996-1997. Generalitat de Catalunya, Barcelona, 1997, pp. 35-56. [(worldcat)](https://search.worldcat.org/title/47686221)
+- F. Tarrats, E. Ramón Seriñena and J. M. Macías I Solé, *Noves intervencions a la vil.la romana dels Munts*, in Tribuna d'Arqueologia 1996-1997. Generalitat de Catalunya, Barcelona, 1997, pp. 35-56. [(worldcat)](https://search.worldcat.org/title/47686221)
 
 - J.G. Gorges, *Les villes hispano-romaines*. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, p. 407-8. [(worldcat)](https://search.worldcat.org/title/803415143)
 

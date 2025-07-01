@@ -50,7 +50,7 @@ This small [caupona](http://vocab.getty.edu/page/aat/300005208) had a garden at 
 * Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 24 [(worldcat)](https://search.worldcat.org/title/222353569)  
 * Mau, A. 1874. *BdI*, pp.263
 * Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 77
-* Soprano, P. 1950, *'I triclini all’aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 305, no.24  
+* Soprano, P. 1950, *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 305, no.24  
 * Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, pp. 12-13 [(worldcat)](https://search.worldcat.org/title/254502217)  
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://search.worldcat.org/title/974375313)  
 

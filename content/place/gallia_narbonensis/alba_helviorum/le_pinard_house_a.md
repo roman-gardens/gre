@@ -65,9 +65,9 @@ The natural slope of the terrain towards the east led to building the house in l
 
 1. Bouet, Alain. La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise. Vaucluse: Service d'Archéologie du Conseil Général de Vaucluse, 1996, P. 76-77. [(worldcat)](https://search.worldcat.org/title/919659882)
 
-2. Chr. Fraisse, J. Dupraz, *L’Ardèche*, CAG 07, Gap, 2001, P. 153-154
+2. Chr. Fraisse, J. Dupraz, *L'Ardèche*, CAG 07, Gap, 2001, P. 153-154
 
-3. Gros, Pierre. *L’architecture romaine: du début du IIIe siècle av. J.-C. à la fin du Haut-Empire. 1, 1*,. Paris: A. et J. Picard, 2011, P. 190-191.[(worldcat)](https://search.worldcat.org/title/762763355)
+3. Gros, Pierre. *L'architecture romaine: du début du IIIe siècle av. J.-C. à la fin du Haut-Empire. 1, 1*,. Paris: A. et J. Picard, 2011, P. 190-191.[(worldcat)](https://search.worldcat.org/title/762763355)
 
 
 ## Places

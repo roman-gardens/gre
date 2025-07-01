@@ -70,7 +70,7 @@ Stone-built villa: Middle of the 1st century CE
 
 * C. Ebnöther, "Die Gartenanlage in der pars urbana des Gutshofes von Dietikon ZH," *Archäologie der Schweiz* 14, 1991:250-256. [(worldcat)](https://search.worldcat.org/title/891753339)
 * C. Ebnöther, *Der römische Gutshof in Dietikon*. Monographien der Kantonsarchäologie Zürich 25, Zürich, 1995, pp. 36-45, 49-50, figs. 21, 36-37,41-42. [(worldcat)](https://search.worldcat.org/title/891774240)
-* L. Flutsch, U. Niffeler, F. Rossi, eds., *La Suisse du Paléolithique à l’aube du Moyen-Age (SPM) V. Epoque romaine/Età Romana*, Basel, 2002, p. 143, fig. 140. [(worldcat)](https://search.worldcat.org/title/492139765)
+* L. Flutsch, U. Niffeler, F. Rossi, eds., *La Suisse du Paléolithique à l'aube du Moyen-Age (SPM) V. Epoque romaine/Età Romana*, Basel, 2002, p. 143, fig. 140. [(worldcat)](https://search.worldcat.org/title/492139765)
 
 ## Places
 

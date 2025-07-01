@@ -24,7 +24,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 - {{< id vocab="Pleiades" id="315223" name="THUGGA (Dougga) Tunisia" >}}
 
 
-{{< image file="dougga_house_of_venus.jpg" caption="Plan of Thugga" credit="(Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" alt="Plan of Thugga" >}}
+{{< image file="dougga_house_of_venus.jpg" caption="Plan of Thugga" credit="(Maurin, L., d'après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" alt="Plan of Thugga" >}}
 
 ## Location Description
 
@@ -44,7 +44,7 @@ House of Venus (Maison de Venus)
 
 ## Garden Description
 
-The house of Venus is located at the S of the capitol and is adjacent to the temple of Caracalla’s victory. The house is laid out on two levels (Plan view, Fig. 1). The peristyle garden and the main reception rooms are located on the higher level. A large rectangular pool (V, 2.80x5.45m.) filled most of the space of the garden.
+The house of Venus is located at the S of the capitol and is adjacent to the temple of Caracalla's victory. The house is laid out on two levels (Plan view, Fig. 1). The peristyle garden and the main reception rooms are located on the higher level. A large rectangular pool (V, 2.80x5.45m.) filled most of the space of the garden.
 
 ## Maps
 
@@ -57,7 +57,7 @@ The house of Venus is located at the S of the capitol and is adjacent to the tem
 
 ## Bibliography
 * Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](https://search.worldcat.org/title/7380877046)
-*  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l’edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.266-267. [(worldcat)](https://search.worldcat.org/title/989088620)
+*  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.266-267. [(worldcat)](https://search.worldcat.org/title/989088620)
 *  Jeddi, N., *CMGR*,VII-1, 1999, pp. 211-232, PL.  LXXXVIII
 
 

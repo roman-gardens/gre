@@ -29,12 +29,12 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Sublocation
 
-[Edifice on St. Antoine’s Mound](#)
+[Edifice on St. Antoine's Mound](#)
 
 
 ## House
 
-Edifice on St. Antoine’s Mound
+Edifice on St. Antoine's Mound
 
 
 ## Keywords
@@ -48,7 +48,7 @@ Edifice on St. Antoine’s Mound
 
 ## House Description
 
-This grand residential edifice may be either a public building or a great mansion.  Built on St. Antoine’s mound, it is situated in the southwest corner of network A of the town plan.  In immediate proximity of the port, it was first interpreded as the *praetorium* of the naval arsenal (A. Donnadieu 1932).  Then it was assigned the role of residence of the perfect of the fleet or the occasional palace for the governor of the province (P.-A. Février, 1977).  Less luxurious than the edifice of the platform (see below), it has been classified in the recent *l’Atlas topographique de Fréjus* among the public buildings of the city.
+This grand residential edifice may be either a public building or a great mansion.  Built on St. Antoine's mound, it is situated in the southwest corner of network A of the town plan.  In immediate proximity of the port, it was first interpreded as the *praetorium* of the naval arsenal (A. Donnadieu 1932).  Then it was assigned the role of residence of the perfect of the fleet or the occasional palace for the governor of the province (P.-A. Février, 1977).  Less luxurious than the edifice of the platform (see below), it has been classified in the recent *l'Atlas topographique de Fréjus* among the public buildings of the city.
 
 Less than half of the plan is known.  The residence occupied more than 15,000 square meters, of which at least 6,000 were living space.  The construction appears to go back to the first century B.C. with a poorly known prior condition.
 
@@ -60,7 +60,7 @@ The residence perhaps enjoyed an exterior garden in the vast open space of arabl
 ## Plans
 
 
-{{< image file="edifice_on_st.antoine’s_mound.png" caption="Edifice on St. Antoine’s Mound" credit="" alt="Plan of Edifice on St. Antoine's mound" >}}
+{{< image file="edifice_on_st.antoine's_mound.png" caption="Edifice on St. Antoine's Mound" credit="" alt="Plan of Edifice on St. Antoine's mound" >}}
 
 
 ## Dates

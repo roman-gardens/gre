@@ -67,9 +67,9 @@ A.D 101-200
 
 1. *La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise*. Vaucluse: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 80-81. [(worldcat)](https://search.worldcat.org/title/695787865)
 
-2. Chr. Fraisse, J. Dupraz, *L’Ardèche*, CAG 07, Gap, 2001, P. 154
+2. Chr. Fraisse, J. Dupraz, *L'Ardèche*, CAG 07, Gap, 2001, P. 154
 
-3. Gros, Pierre. *L’architecture romaine: du début du IIIe siècle av. J.-C. à la fin du Haut-Empire. 1, 1*,. Paris: A. et J. Picard, 2011, P. 190-191.[(worldcat)](https://search.worldcat.org/title/762763355)
+3. Gros, Pierre. *L'architecture romaine: du début du IIIe siècle av. J.-C. à la fin du Haut-Empire. 1, 1*,. Paris: A. et J. Picard, 2011, P. 190-191.[(worldcat)](https://search.worldcat.org/title/762763355)
 
 
 ## Places

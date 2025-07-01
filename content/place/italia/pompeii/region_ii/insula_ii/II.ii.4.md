@@ -34,7 +34,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
  ## House
- Casa Dell’Augustale; Casa Della Corona di Alloro; Casa della Corona di Quercia; House of Messius Ampliatus
+ Casa Dell'Augustale; Casa Della Corona di Alloro; Casa della Corona di Quercia; House of Messius Ampliatus
 
 
 ## Garden
