@@ -4,7 +4,7 @@ aliases: [/id/65ffcfe9e6]
 type: garden
 title: "Villa Dehesa de Soria"
 latlon: [ 41.669224, -2.620865 ]
-author: 
+author: Clopper Almon
 editor: Qianli Jiang
 date: 2021-04-21
 modified: 2025-06-29
@@ -68,7 +68,5 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 - {{< id vocab="Pleiades" id="246361" name="Cuevas de Soria" >}}
 - {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}
 
-## Contributor
-[Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 

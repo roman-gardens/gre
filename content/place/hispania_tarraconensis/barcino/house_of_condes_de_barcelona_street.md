@@ -76,7 +76,5 @@ Unspecified
 - {{< id vocab="Pleiades" id="246343" name="Col. Barcino" >}}
 - {{< id vocab="TGN" id="7007426" name="Barcelona (inhabited place)" >}}
 
-## Contributor
-[Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 

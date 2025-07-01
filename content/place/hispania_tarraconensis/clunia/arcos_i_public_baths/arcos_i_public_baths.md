@@ -99,7 +99,5 @@ Unspecified
 - {{< id vocab="Pleiades" id="187350" name="Clunia" >}}
 - {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}
 
-## Contributor
-[Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 

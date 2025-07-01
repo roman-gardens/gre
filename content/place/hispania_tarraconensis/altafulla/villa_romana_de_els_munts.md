@@ -85,7 +85,5 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 - {{< id vocab="TGN" id="7344921" name="Altafulla (inhabited place)" >}}
 
 
-## Contributor
-[Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 

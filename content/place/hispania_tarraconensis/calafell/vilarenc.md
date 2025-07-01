@@ -71,7 +71,5 @@ The villa dates from the first century BC to the third century AD when it was tr
 - {{< id vocab="Pleiades" id="789886461" name="Vilarenc" >}}
 - {{< id vocab="TGN" id="7001381" name="Masada (deserted settlement)" >}}
 
-## Contributor
-[Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 

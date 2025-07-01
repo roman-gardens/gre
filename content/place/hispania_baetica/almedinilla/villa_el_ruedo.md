@@ -81,7 +81,5 @@ unspecified
 - {{< id vocab="Pleiades" id="266015" name="El Ruedo" >}}
 - {{< id vocab="TGN" id="4000563" name="Almedinilla (inhabited place)" >}}
 
-## Contributor
-[Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 [D. Vaquerizo](link)
 

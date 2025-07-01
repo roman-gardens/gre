@@ -81,7 +81,5 @@ This fourth-century villa was discovered in 1973.  An apse and a figured mosaic 
 - {{< id vocab="TGN" id="7347952" name="Albaladejito (inhabited place)" >}}
 
 
-## Contributor
-[Clopper Almon](https://www.econ.umd.edu/facultyprofile/almon/clopper)
 
 
