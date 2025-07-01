@@ -63,8 +63,3 @@ unspecified
 
 - {{< id vocab="Pleiades" id="393473" name="Patavium" >}}
 - {{< id vocab="TGN" id="7003085" name="Padua (inhabited place)" >}}
-
-## Contributor
-Brady Kiesling (https://pleiades.stoa.org/author/bkiesling)
-
-

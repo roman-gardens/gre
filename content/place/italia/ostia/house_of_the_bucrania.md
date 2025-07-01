@@ -114,7 +114,3 @@ summer 2002
 
 - {{< id vocab="TGN" id="7007018" name="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
-
-## Contributor
-Thomas Morard
-

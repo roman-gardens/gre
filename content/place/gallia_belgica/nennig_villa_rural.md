@@ -74,6 +74,3 @@ Unspecified
 - {{< id vocab="Pleiades" id="109198" name="Nennig" >}}
 - {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
-## Contributor
-<!-- Maureen Carroll ? -->
-

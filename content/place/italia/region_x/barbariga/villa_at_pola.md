@@ -13,10 +13,7 @@ draft: true
 
 ## Location
 
-[Barbariga]({{<relref ".">}}) \
-<!-- this is wrong
-- {{< id vocab="Pleiades" id="383781" name="Barbariga" >}}
--->
+[Barbariga]({{<relref ".">}})
 
 ## Sublocation
 
@@ -80,12 +77,5 @@ https://babel.hathitrust.org/cgi/pt?id=hvd.32044081405060&seq=35
 ## Places
 
 - {{< id vocab="Pleiades" id="197448" name="Pola" >}}
-
-
 - {{< id vocab="TGN" id="7015562" name="Pula (inhabited place)" >}}
-
-
-## Contributor
-Tom Elliott (https://pleiades.stoa.org/author/thomase)
-
 

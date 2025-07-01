@@ -4,7 +4,7 @@ aliases: [/id/8c6ccd67f1]
 type: garden
 title: "House of the Columns"
 latlon: [ 42.439512, 3.176623 ]
-author: 
+author: Eric Morvillez, Emilie Chassillan
 editor: Yichen Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -99,8 +99,3 @@ NEW WAY ↓↓↓↓
 - {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="5004109" name="Saint-Romain-en-Gal (inhabited place)" >}}
-
-## Contributor
-[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
-
-[Emilie Chassillan](link)

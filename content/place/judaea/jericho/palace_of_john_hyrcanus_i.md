@@ -4,7 +4,7 @@ aliases: [/id/0a9a4ef076]
 type: garden
 title: "Jericho Palace of John Hyrcanus I"
 latlon: [ 31.853511, 35.433756 ]
-author: Kathryn Gleason
+author: Kathryn Gleason, Ehud Netzer
 editor: Yaniv Korman
 date: 2021-04-21
 modified: 2025-06-29
@@ -81,12 +81,3 @@ Over the years, two swimming pools (probably one for men and one for women), eac
 ## Places
 
 - {{< id vocab="Pleiades" id="687917" name="Jericho" >}}
-
-<!--## TGN ID
-
-[#](#)-->
-
-## Contributor
-[Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
-
-

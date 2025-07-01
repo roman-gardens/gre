@@ -98,11 +98,3 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 ## Places
 
 - {{< id vocab="Pleiades" id="687917" name="Jericho" >}}
-
-<!--## TGN ID
-
-[#](#)-->
-
-## Contributor
-[Győző Vörös](http://worldcat.org/identities/lccn-no98121290/)
-

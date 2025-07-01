@@ -76,6 +76,3 @@ Unspecified
 - {{< id vocab="Pleiades" id="272861914" name="Borg Roman villa" >}}
 - {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
-## Contributor
-<!-- Maureen Carroll ? -->
-

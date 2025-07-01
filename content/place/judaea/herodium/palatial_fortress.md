@@ -4,7 +4,7 @@ aliases: [/id/08a99fc485]
 type: garden
 title: "Herodium Palace Fortress"
 latlon: [ 31.665784, 35.241750 ]
-author: Kathryn Gleason
+author: Kathryn Gleason, Ehud Netzer
 editor: Yaniv Korman
 date: 2021-04-21
 modified: 2025-06-29
@@ -78,7 +78,3 @@ The Palace Fortress is a cylindrical structure originally seven stories high (tw
 
 - {{< id vocab="Pleiades" id="687916" name="Herodeion" >}}
 - {{< id vocab="TGN" id="8713913" name="Judean Desert (desert)" >}}
-
-## Contributor
-[Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
-

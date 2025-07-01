@@ -64,6 +64,3 @@ Unspecified
 - {{< id vocab="Pleiades" id="108784" name="Bad Dürkheim" >}}
 - {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
-## Contributor
-<!-- Maureen Carroll ? -->
-

@@ -69,6 +69,3 @@ unspecified
 
 - {{< id vocab="Pleiades" id="187578" name="Tergeste" >}}
 - {{< id vocab="TGN" id="7005539" name="Trieste (inhabited place)" >}}
-
-## Contributor
-[Brady Kiesling](https://pleiades.stoa.org/author/bkiesling)

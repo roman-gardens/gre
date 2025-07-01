@@ -96,8 +96,3 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 
 ## Places
 - {{< id vocab="Pleiades" id="167649937" name="Acropolis palace at Jebel Khalid" >}}
-[#](#)
-
-## Contributor
-[Graeme Clark](#)
-

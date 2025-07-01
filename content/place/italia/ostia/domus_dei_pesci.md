@@ -95,7 +95,3 @@ unspecified
 - {{< id vocab="Pleiades" id="223974300" name="House of the Fishes" >}}
 - {{< id vocab="TGN" id="7007018" name="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
-
-## Contributor
-[Stella Falzone](https://www.cespro-ostia.org/stella-falzone) <!-- is this a good website for Falzone? -->
-

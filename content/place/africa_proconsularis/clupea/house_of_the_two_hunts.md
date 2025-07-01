@@ -4,7 +4,7 @@ aliases: [/id/5c3c939e6d]
 type: garden
 title: "House of the Two Hunts"
 latlon: [ 36.838512, 11.115794 ]
-author: Maureen Carroll
+author: Maureen Carroll, Amina-Aïcha Malek
 editor: Yuming Huang
 date: 2021-04-21
 modified: 2025-06-29
@@ -67,9 +67,6 @@ The house is dated to the 5th-6th century AD on the base of the style of its mos
 ## Places
 - {{< id vocab="Pleiades" id="314892" name="Aspis/Clipea" >}}
 - {{< id vocab="TGN" id="7001037" name="Kelibia (inhabited place)" >}}
-
-## Contributor
-[Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
 
 <!--
 ## Related articles

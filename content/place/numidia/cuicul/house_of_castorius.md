@@ -76,6 +76,3 @@ The  L shaped space between the fish pool and the columns was probably planted.
 
 ## Places
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}
-## Contributor
-[Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)
-

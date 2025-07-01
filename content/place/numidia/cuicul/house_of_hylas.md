@@ -73,6 +73,3 @@ On the side of the corridor leading from the Severan Forum, there was a garden, 
 
 ## Places
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}
-## Contributor
-[Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)
-

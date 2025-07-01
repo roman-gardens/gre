@@ -79,7 +79,3 @@ In 2005, Netzer's team found the long-sought tomb of Herod, positioned on a terr
 
 - {{< id vocab="Pleiades" id="687916" name="Herodeion" >}}
 - {{< id vocab="TGN" id="8713913" name="Judean Desert (desert)" >}}
-
-## Contributor
-[Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
-

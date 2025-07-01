@@ -4,7 +4,7 @@ aliases: [/id/8758362e50]
 type: garden
 title: "Masada"
 latlon: [ 31.316258, 35.353684 ]
-author: Kathryn Gleason
+author: Kathryn Gleason, Ehud Netzer
 editor: Yaniv Korman
 date: 2021-04-21
 modified: 2025-06-29
@@ -78,7 +78,3 @@ The Northern or Hanging Palace, the latest of Herod's constructions on the site,
 
 - {{< id vocab="Pleiades" id="687968" name="Masada" >}}
 - {{< id vocab="TGN" id="7001381" name="Masada (deserted settlement)" >}}
-
-## Contributor
-[Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
-

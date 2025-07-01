@@ -92,6 +92,3 @@ unspecified
 - {{< id vocab="TGN" id="7006983" name="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-## Contributor
-[Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
-

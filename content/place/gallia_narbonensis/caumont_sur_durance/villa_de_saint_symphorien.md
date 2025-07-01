@@ -4,7 +4,7 @@ aliases: [/id/069554cb8e]
 type: garden
 title: "Villa de Saint-Symphorien"
 latlon: [ 42.439512, 3.176623 ]
-author: 
+author: Eric Morvillez, Emilie Chassillan
 editor: Yichen Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -90,12 +90,4 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 ## Places
 
 - {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
-
-
 - {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
-
-
-## Contributor
-[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
-
-[Emilie Chassillan](link)

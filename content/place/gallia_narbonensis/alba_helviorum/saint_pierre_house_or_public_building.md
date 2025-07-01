@@ -4,7 +4,7 @@ aliases: [/id/54bd63c9c3]
 type: garden
 title: "Saint-Pierre, House or Public Building"
 latlon: [ 42.439512, 3.176623 ]
-author: 
+author: Eric Morvillez, Emilie Chassillan
 editor: Yichen Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -72,8 +72,3 @@ The western wing, of which 30 m is known, has rooms richly decorated with marble
 - {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="8712431" name="Alba-la-Romaine (inhabited place)" >}}
-
-## Contributor
-[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
-
-[Emilie Chassillan](link)

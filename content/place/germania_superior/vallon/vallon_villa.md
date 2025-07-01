@@ -100,9 +100,3 @@ Beginning of the 1st c. CE - beginning of the Vth century
 
 - {{< id vocab="Pleiades" id="981525" name="Germania Superior" >}}
 - {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
-
-## Contributor
-[Michel Fuchs](https://michelefuchs.academia.edu/) (ORCID: [0000-0001-8176-8393](https://orcid.org/0000-0001-8176-8393))
-
-[Jacques Monnier](https://unil.academia.edu/JacquesMonnier) (ORCID: N/A)
-

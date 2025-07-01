@@ -4,7 +4,7 @@ aliases: [/id/296bb7c93b]
 type: garden
 title: "Jericho Twin Palaces of Alexandra Salome and Late Hasmonean Gardens"
 latlon: [ 31.853780, 35.433952 ]
-author: Kathryn Gleason
+author: Kathryn Gleason, Ehud Netzer
 editor: Yaniv Korman
 date: 2021-04-21
 modified: 2025-06-29
@@ -87,11 +87,3 @@ After Alexandra's death, during the period from 67-32, a large swimming pool (20
 ## Places
 
 - {{< id vocab="Pleiades" id="687917" name="Jericho" >}}
-
-<!--## TGN ID
-
-[#](#)-->
-
-## Contributor
-[Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
-

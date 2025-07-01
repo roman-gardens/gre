@@ -4,7 +4,7 @@ aliases: [/id/efd6c707c3]
 type: garden
 title: "House I, Quartier de la Verrerie at Trinquetaille"
 latlon: [ 43.677616, 4.630799 ]
-author: 
+author: Eric Morvillez, Emilie Chassillan
 editor: Yichen Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -78,8 +78,3 @@ Excavations in 1982-1984
 - {{< id vocab="Pleiades" id="148217" name="Theline/Col. Arelate/Constantina" >}}
 - {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7008775" name="Arles (inhabited place)" >}}
-
-## Contributor
-[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
-
-[Emilie Chassillan](link)

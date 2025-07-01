@@ -4,7 +4,7 @@ aliases: [/id/e828f23809]
 type: garden
 title: "Puymin Quarter,Sanctuary with Portico's,Formerly called Pompey's Portico"
 latlon: [ 42.439512, 3.176623 ]
-author: 
+author: Eric Morvillez, Emilie Chassillan
 editor: Yichen Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -78,8 +78,3 @@ A.D. 1-100 constructed
 - {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7008791" name="Fréjus (inhabited place)" >}}
-
-## Contributor
-[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
-
-[Emilie Chassillan](link)

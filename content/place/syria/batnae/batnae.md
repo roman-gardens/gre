@@ -67,7 +67,3 @@ fourth century CE
 ## Places
 
 - {{< id vocab="Pleiades" id="658405" name="Batnae/Markopolis" >}}
-[#](#)
-
-## Contributor
-[Catherine Kearns](#) and 

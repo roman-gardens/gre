@@ -66,9 +66,3 @@ A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely dam
 ## Places
 - {{< id vocab="Pleiades" id="746716" name="Auara" >}}
 - {{< id vocab="TGN" id="7007646" name="Ḥawwārah (inhabited place)" >}}
-
-## Contributor
-[M. Barbara Reeves](#)
-<!-- [name](https://....) -->
-
-

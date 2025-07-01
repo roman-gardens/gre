@@ -48,7 +48,6 @@
 # Cleanup
 
 - [ ] move keywords to below bibliography
-- [ ] move ## Contributor to frontmatter author/editor
 - [ ] id shortcode for people (perseus authors like "Pliny the Elder")
 - [ ] excavation dates -- missing from archetype and some gardens
 - [ ] move content from garden entries to the province _index.md
@@ -134,7 +133,7 @@
 - in the text of the article, Divya suggested having dates at the top -- do we want both of these at top?  (They could also logically go near bottom, after bibliography and before keywords/places)
     - date of the garden (how to phrase this?  dates of use?)
     - excavation date
-
+- double angle quotes like « Pluton » -- can these be converted to normal "
 
 
 # User forks

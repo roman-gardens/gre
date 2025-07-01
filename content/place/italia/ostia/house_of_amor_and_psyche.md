@@ -4,7 +4,7 @@ aliases: [/id/fa12f663dc]
 type: garden
 title: "House of Amor and Psyche"
 latlon: [ 41.7540027, 12.2860096 ]
-author: Elizabeth J Shepherd
+author: Elizabeth J. Shepherd
 editor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
@@ -112,7 +112,3 @@ unspecified
 - {{< id vocab="Pleiades" id="868515126" name="House of Amor and Psyche" >}}
 - {{< id vocab="TGN" id="7007018" name="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
-
-## Contributor
-Elizabeth J. Shepherd
-

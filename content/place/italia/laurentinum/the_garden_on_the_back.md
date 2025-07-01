@@ -4,7 +4,7 @@ aliases: [/id/8a45b729f8]
 type: garden
 title: "The garden on the back"
 latlon: [ 41.625, 12.375 ]
-author: SALZA PRINA RICOTTI
+author: Salza Prina Ricotti
 editor: Yuyao Liu
 date: 2020-11-07
 modified: 2025-06-29
@@ -76,8 +76,3 @@ Unspecified
 ## Places
 
 - {{< id vocab="Pleiades" id="422959" name="Laurentes" >}}
-
-
-## Contributor
-SALZA PRINA RICOTTI
-

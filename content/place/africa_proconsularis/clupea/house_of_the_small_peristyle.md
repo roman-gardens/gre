@@ -4,7 +4,7 @@ aliases: [/id/515b239960]
 type: garden
 title: "House of the small Peristyle"
 latlon: [ 36.838512, 11.115794 ]
-author: 
+author: Véronique Blanc-Bijon
 editor: Yuming Huang
 date: 2021-04-21
 modified: 2025-06-29
@@ -66,9 +66,6 @@ Late 1st-4th century CE
 ## Places
 - {{< id vocab="Pleiades" id="314892" name="Aspis/Clipea" >}}
 - {{< id vocab="TGN" id="7001037" name="Kelibia (inhabited place)" >}}
-
-## Contributor
-[Véronique Blanc-Bijon](link) (WorldCat Identities: [lccn-nb99006585](http://worldcat.org/identities/lccn-nb99006585/))
 
 <!--
 ## Related articles

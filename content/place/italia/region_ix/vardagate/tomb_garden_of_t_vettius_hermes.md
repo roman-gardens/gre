@@ -66,10 +66,3 @@ unspecified
 ## Places
 
 - {{< id vocab="Pleiades" id="383809" name="Vardagate" >}}
-
-unspecified
-
-## Contributor
-Sean Gillies (https://pleiades.stoa.org/author/sgillies)
-
-

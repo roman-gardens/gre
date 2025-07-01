@@ -4,7 +4,7 @@ aliases: [/id/c3a82d026a]
 type: garden
 title: "Villa des Baumelles"
 latlon: [ 42.439512, 3.176623 ]
-author: 
+author: Eric Morvillez, Emilie Chassillan
 editor: Yichen Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -85,9 +85,3 @@ To the south, a charming apartment overlooked the cove of the Madrague and may h
 
 - {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
-
-
-## Contributor
-[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
-
-[Emilie Chassillan](link)

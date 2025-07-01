@@ -76,8 +76,3 @@ Stone-built villa: Middle of the 1st century CE
 
 - {{< id vocab="Pleiades" id="981525" name="Germania Superior" >}}
 - {{< id vocab="TGN" id="7007345" name="Dietikon (inhabited place)" >}}
-
-## Contributor
-[Christa Ebnöther](https://www.iaw.unibe.ch/ueber_uns/arp_amp_pa_personen/prof_dr_ebnoether_christa/index_ger.html#pane222202)
-
-

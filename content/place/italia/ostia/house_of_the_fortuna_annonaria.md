@@ -4,7 +4,7 @@ aliases: [/id/066a96c866]
 type: garden
 title: "House of the Fortuna Annonaria"
 latlon: [ 41.75413924799149, 12.290541242057353 ]
-author: Elizabeth J Shepherd
+author: Elizabeth J. Shepherd
 editor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
@@ -126,7 +126,3 @@ unspecified
 
 - {{< id vocab="TGN" id="7007018" name="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
-
-## Contributor
-Elizabeth J. Shepherd
-

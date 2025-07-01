@@ -76,6 +76,3 @@ The house lacked wide-open views from exedra and from the galleries towards the 
 
 ## Places
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}
-## Contributor
-[Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)
-

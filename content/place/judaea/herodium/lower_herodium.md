@@ -80,7 +80,3 @@ A limited examination of the courtyard area by K. Gleason in December 1985 suppo
 
 - {{< id vocab="Pleiades" id="687916" name="Herodeion" >}}
 - {{< id vocab="TGN" id="8713913" name="Judean Desert (desert)" >}}
-
-## Contributor
-[Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
-

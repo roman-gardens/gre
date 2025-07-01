@@ -4,7 +4,7 @@ aliases: [/id/f2b1ae794d]
 type: garden
 title: "Jericho Pool Complex of Alexander Janneaus"
 latlon: [ 31.853511, 35.433756 ]
-author: Kathryn Gleason
+author: Kathryn Gleason, Ehud Netzer
 editor: Yaniv Korman
 date: 2021-04-21
 modified: 2025-06-29
@@ -82,12 +82,3 @@ By 90 BCE, Jannaeus was experiencing political and military difficulties, and it
 ## Places
 
 - {{< id vocab="Pleiades" id="687917" name="Jericho" >}}
-
-<!--## TGN ID
-
-[#](#)-->
-
-## Contributor
-[Ehud Netzer](http://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/)
-
-

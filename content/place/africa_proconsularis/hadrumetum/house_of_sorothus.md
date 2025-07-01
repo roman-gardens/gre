@@ -4,7 +4,7 @@ aliases: [/id/52d6bdf2dc]
 type: garden
 title: "House of  Sorothus (Maison de Sorothus)"
 latlon: [ 35.825866, 10.63878 ]
-author: Maureen Carroll
+author: Maureen Carroll, Amina-Aïcha Malek
 editor: Yuming Huang
 date: 2021-04-21
 modified: 2025-06-29
@@ -75,6 +75,3 @@ proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.[(worldcat)](https:/
 ## Places
 - {{< id vocab="Pleiades" id="324716" name="Hadrumetum/Iustinianopolis" >}}
 - {{< id vocab="TGN" id="7015312" name="Sousse (inhabited place)" >}}
-
-## Contributor
-[Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))

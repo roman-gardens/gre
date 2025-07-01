@@ -75,6 +75,3 @@ Unspecified
 - {{< id vocab="Pleiades" id="109236" name="Ouindinon/Subdinnum" >}}
 - {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
 
-## Contributor
-<!-- Maureen Carroll ? -->
-

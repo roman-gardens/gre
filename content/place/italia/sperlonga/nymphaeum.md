@@ -4,7 +4,7 @@ aliases: [/id/c389354f8e]
 type: garden
 title: "The Gardens of Sperlonga. The peristyle garden "
 latlon: [ 41.251480, 13.449332 ]
-author: EUGENIA SALZA PRINA RICOTTI
+author: Eugenia Salza Prina Ricotti
 editor: Yuyao Liu
 date: 2020-11-29
 modified: 2025-06-29
@@ -86,7 +86,3 @@ Unspecified
 ## Places
 
 - {{< id vocab="Pleiades" id="433204" name="Villa Tiberii" >}}
-
-
-## Contributor
- EUGENIA SALZA PRINA RICOTTI

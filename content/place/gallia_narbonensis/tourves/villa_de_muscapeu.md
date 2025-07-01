@@ -4,7 +4,7 @@ aliases: [/id/e735f72800]
 type: garden
 title: "Villa de Muscapeu"
 latlon: [ 43.407853, 5.923999 ]
-author: 
+author: Eric Morvillez, Emilie Chassillan
 editor: Yichen Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -83,8 +83,3 @@ In a second stage, in the first century, a bath complex [5] with an open-air esp
 - {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="1035905" name="Tourves (inhabited place)" >}}
-
-## Contributor
-[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
-
-[Emilie Chassillan](link)

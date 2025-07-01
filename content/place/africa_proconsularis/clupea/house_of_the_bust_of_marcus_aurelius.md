@@ -4,7 +4,7 @@ aliases: [/id/9afc81b032]
 type: garden
 title: "House of the Bust of Marcus Aurelius"
 latlon: [ 36.838512, 11.115794 ]
-author: Amina-Aïcha Malek
+author: Amina-Aïcha Malek, Véronique Blanc-Bijon, Wilhelmina Jashemski
 editor: Yuming Huang
 date: 2021-04-21
 modified: 2025-06-29
@@ -74,10 +74,6 @@ Built over an older establishment, the house presents two main phases.  The main
 ## Places
 - {{< id vocab="Pleiades" id="314892" name="Aspis/Clipea" >}}
 - {{< id vocab="TGN" id="7001037" name="Kelibia (inhabited place)" >}}
-
-## Contributor
-[Véronique Blanc-Bijon](link) (WorldCat Identities: [lccn-nb99006585](http://worldcat.org/identities/lccn-nb99006585/))\
-[Wilhelmina Jashemski](link) (WorldCat Identities: [lccn-n80037970](http://worldcat.org/identities/lccn-n80037970/))
 
 <!--
 ## Related articles

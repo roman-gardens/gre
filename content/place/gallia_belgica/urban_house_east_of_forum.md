@@ -64,6 +64,3 @@ Unspecified
 - {{< id vocab="Pleiades" id="108894" name="Col. Augusta Treverorum" >}}
 - {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
-## Contributor
-<!-- Maureen Carroll ? -->
-

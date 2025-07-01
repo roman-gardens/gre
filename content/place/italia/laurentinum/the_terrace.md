@@ -4,7 +4,7 @@ aliases: [/id/7ed18f2ec4]
 type: garden
 title: "The terrance"
 latlon: [ 0, 0 ]
-author: SALZA PRINA RICOTTI
+author: Salza Prina Ricotti
 editor: Yuyao Liu
 date: 2020-11-07
 modified: 2025-06-29
@@ -87,8 +87,3 @@ Unspecified
 ## Places
 
 - {{< id vocab="Pleiades" id="422959" name="Laurentes" >}}
-
-
-## Contributor
-SALZA PRINA RICOTTI
-

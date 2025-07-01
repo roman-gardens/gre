@@ -55,6 +55,3 @@ Unspecified
 - {{< id vocab="Pleiades" id="167717" name="Col. Lugdunum" >}}
 - {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
 
-## Contributor
-<!-- Maureen Carroll ? -->
-

@@ -17,6 +17,8 @@ draft: true
 
 -->
 
+https://www.persee.fr/authority/396899
+
 <!--
 {{< id vocab="ORCID" id="" >}}
 -->

@@ -76,6 +76,3 @@ Unspecified
 - {{< id vocab="Pleiades" id="109456" name="Roman Villa at Welschbillig" >}}
 - {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
-## Contributor
-<!-- Maureen Carroll ? -->
-

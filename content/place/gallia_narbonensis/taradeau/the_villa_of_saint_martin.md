@@ -4,7 +4,7 @@ aliases: [/id/b72e648637]
 type: garden
 title: "The villa of Saint Martin"
 latlon: [ 43.454598, 6.437904 ]
-author: 
+author: Eric Morvillez, Emilie Chassillan
 editor: Yichen Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -77,8 +77,3 @@ In a fourth stage, the villa lost its residential character: the *pars urbana* w
 - {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7602340" name="Taradeau (inhabited place)" >}}
-
-## Contributor
-[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
-
-[Emilie Chassillan](link)

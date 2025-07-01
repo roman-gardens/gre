@@ -101,11 +101,3 @@ recent excavations
 - {{< id vocab="Pleiades" id="841214213" name="Insula dei Dipinti" >}}
 - {{< id vocab="TGN" id="7007018" name="Ostia Antica (deserted settlement)" >}}
 <!-- ID is for Location (Ostia Antica), not the individual garden -->
-
-## Contributor
-[Janet DeLaine](https://www.classics.ox.ac.uk/people/dr-janet-delaine#/)
-
-## ORCID
-
-[Janet DeLaine (0000-0002-6409-7126)](https://orcid.org/0000-0002-6409-7126)
-

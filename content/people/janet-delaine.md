@@ -12,13 +12,11 @@ draft: true
 
 -->
 
-<!--
 ## Website
 
--->
+https://www.classics.ox.ac.uk/people/dr-janet-delaine
 
-<!--
-{{< id vocab="ORCID" id="" >}}
--->
+{{< id vocab="ORCID" id="0000-0002-6409-7126" >}}
+
 
 <!-- Description -->

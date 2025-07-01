@@ -4,7 +4,7 @@ aliases: [/id/c0e1622827]
 type: garden
 title: "House under the Crédit Agricole"
 latlon: [ 43.604175, 1.443246 ]
-author: 
+author: Eric Morvillez, Emilie Chassillan
 editor: Yichen Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -75,8 +75,3 @@ After original finds in 1979, further vestiges of a domus came to light during s
 - {{< id vocab="Pleiades" id="246694" name="Tolosa" >}}
 - {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7008775" name="Arles (inhabited place)" >}}
-
-## Contributor
-[Eric Morvillez](link) (ORCID: [Eric Morvillez](https://orcid.org/0000-0002-7384-1762))
-
-[Emilie Chassillan](link)

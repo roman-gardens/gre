@@ -74,6 +74,3 @@ Unspecified
 [Roman Villa at Welschbillig](<-- none available -->)
 - {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
-## Contributor
-<!-- Maureen Carroll ? -->
-

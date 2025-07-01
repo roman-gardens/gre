@@ -4,7 +4,7 @@ aliases: [/id/cf4ea335a0]
 type: garden
 title: "Suburban Villa"
 latlon: [ 33.532711, 10.674151 ]
-author: Maureen Carroll
+author: Maureen Carroll, Amina-Aïcha Malek
 editor: Yuming Huang
 date: 2021-04-21
 modified: 2025-06-29
@@ -75,7 +75,3 @@ unknown
 ## Places
 - {{< id vocab="Pleiades" id="344380" name="Gigthis" >}}
 - {{< id vocab="TGN" id="5003665" name="Gigthi (deserted settlement)" >}}
-
-## Contributor
-[Amina-Aïcha Malek](link) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
-

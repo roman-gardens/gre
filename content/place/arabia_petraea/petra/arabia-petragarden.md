@@ -272,9 +272,3 @@ End of the 1st century BCE - 2nd/3rd centuries CE (Late Hellenistic/Roman period
 ## Places
 - {{< id vocab="Pleiades" id="511547525" name="Garden and Pool Complex at Petra" >}}
 - {{< id vocab="TGN" id="7002383" name="Petra (deserted settlement)" >}}
-
-## Contributor
-[Leigh-Ann Bedal](#)
-<!-- [name](https://....) -->
-
-

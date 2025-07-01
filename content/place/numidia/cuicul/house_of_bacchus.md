@@ -87,6 +87,3 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 
 ## Places
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}
-## Contributor
-[Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)
-

@@ -4,7 +4,7 @@ aliases: [/id/6ed849dd03]
 type: garden
 title: "Tomb garden of an anonymous"
 latlon: [ 42.439512, 3.176623 ]
-author: 
+author: Eric Morvillez
 editor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29
@@ -63,7 +63,3 @@ None Available
 - {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
 - {{< id vocab="TGN" id="7662219" name="Briord (inhabited place)" >}}
-
-## Contributor
-<!-- Eric Morvillez ? -->
-

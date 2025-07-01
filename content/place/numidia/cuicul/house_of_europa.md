@@ -82,6 +82,3 @@ Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century
 
 ## Places
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}
-## Contributor
-[Michèle Blanchard-Lemée](https://www.persee.fr/authority/396899)
-

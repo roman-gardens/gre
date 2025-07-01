@@ -96,8 +96,3 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 ## Places
 - {{< id vocab="Pleiades" id="947227732" name="Qasr al-Abd at Tyrus" >}}
 - {{< id vocab="TGN" id="5003214" name="Araq El-Emir (inhabited place)" >}}
-
-## Contributor
-<!-- [name](https://....) -->
-
-

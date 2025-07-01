@@ -4,7 +4,7 @@ aliases: [/id/20d40b673f]
 type: garden
 title: "Villa el Santiscal"
 latlon: [ 36.765569, -5.771836 ]
-author: M. Orfila, N. Doenges
+author: Marguerita Orfila, N. Doenges
 editor: Lai Ching Tsui
 date: 2021-04-21
 modified: 2025-06-29
@@ -67,8 +67,3 @@ unspecified
 - [El Santiscal]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="256436" name="El Santiscal" >}}
 - {{< id vocab="TGN" id="1061772" name="Arcos de la Frontera (inhabited place)" >}}
-
-## Contributor
-[M. Orfila](link)
-[N. Doenges](link)
-

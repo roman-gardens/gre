@@ -73,11 +73,3 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 ## Places
 
 - {{< id vocab="Pleiades" id="678357" name="Ramat ha-Nadiv" >}}
-
-<!--## TGN ID
-
-[#](#)-->
-
-## Contributor
-[Yitzar Hirschfeld]
-
