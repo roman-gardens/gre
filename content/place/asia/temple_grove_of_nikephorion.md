@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Pergamum (Pergamon; Bergama, Turkey)]({{<relref ".">}}) 
+- [Pergamum (Pergamon; Bergama, Turkey)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="550812" name="Pergamum" >}}
 
 ## Location Description

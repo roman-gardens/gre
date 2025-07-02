@@ -13,7 +13,7 @@ draft: true
 
 ## Province
 
-- [Italia]({{<relref "../..">}}) 
+- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Region
@@ -45,7 +45,7 @@ Palace *nymphaeum* (Fig. 1, n. 16)
 
 The Palace *nymphaeum* (LUGLI 1927) has already been published quite extensively in the proceedings of the last symposium on ancient Roman Gardens held in Rome in 1995 (JASHEMSKI, SALZA PRINA RICOTTI 1987-88, pp. 151-154, figs. 6-8; SALZA PRINA RICOTTI 1998, pp. 385-388, figs. 15-16; SALZA PRINA RICOTTI 2000, pp. 361-367, figs. 129-133). This water theater was shaped like an *auditorium*. A monumental entry (Fig. 38, H) led the way to a large paved area where low walls contained either two oval flowerbeds or two small basins (Fig. 38 A). An emicycle concluded the arrangement and sustained the pressure of the higher grounds that rose at the back  of the garden.
 
-To understand how it must have been we can study the two cross sections. One, W –W1, shows us the front of the badly ruined *nymphaeum* (Fig. 39). It collected the water that fell in it presumably to feed the same kind of small marble lined waterfalls we have seen in the so-called Stadium. Probably the same hedges of box trees grown in big mortar containers were set amid them. The other cross section (S – S1) show what once was the emicyle in very bad condition (Fig. 40). During the centuries following the fall of the Roman Empire it was destroyed by the peasants who occupied the area, and its decoration has been completely pillaged leaving only the concrete of the basements. Luckily finding some elements, like the remains of a cistern which provided the water for the water falls, the canal circling the top of the emicycle, and the bottom one which runs on the side of the mixtilinear basin (the same technical elements which we find in the so-called Stadium emicycle), give us the possibility to reconstruct the *nymphaeum* (Fig. 41).  
+To understand how it must have been we can study the two cross sections. One, W –W1, shows us the front of the badly ruined *nymphaeum* (Fig. 39). It collected the water that fell in it presumably to feed the same kind of small marble lined waterfalls we have seen in the so-called Stadium. Probably the same hedges of box trees grown in big mortar containers were set amid them. The other cross section (S – S1) show what once was the emicyle in very bad condition (Fig. 40). During the centuries following the fall of the Roman Empire it was destroyed by the peasants who occupied the area, and its decoration has been completely pillaged leaving only the concrete of the basements. Luckily finding some elements, like the remains of a cistern which provided the water for the water falls, the canal circling the top of the emicycle, and the bottom one which runs on the side of the mixtilinear basin (the same technical elements which we find in the so-called Stadium emicycle), give us the possibility to reconstruct the *nymphaeum* (Fig. 41).
 
 We can have an idea how it looked at the beginning of the XIX century in a drawing by Penna (Fig. 42). However the modern situation is even worse (Fig. 43). We made a probe along the emicycle (Fig. 44) and at its top we found the rest of the same kind of canal that in the Stadium Nymphaeum brought water to the small marble lined waterfall (Fig. 45). It was then possible to understand that the two were quite similar.
 

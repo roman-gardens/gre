@@ -18,7 +18,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 
-- [Nemea]({{<relref ".">}}) 
+- [Nemea]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="570504" name="Nemea" >}}
 
 ## Garden

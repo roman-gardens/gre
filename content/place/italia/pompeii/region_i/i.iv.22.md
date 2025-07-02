@@ -12,11 +12,11 @@ draft: false
 ---
 
 ## Province
-- [Italia]({{<relref "../..">}}) 
+- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
-- [Pompeii]({{<relref "..">}}) 
+- [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
@@ -44,16 +44,16 @@ Directly to the rear of the [atrium](http://vocab.getty.edu/page/aat/300004097),
 
 ## Bibliography
 
-* Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 69    
-* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 68 [(worldcat)](https://search.worldcat.org/title/9528380)   
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 32 [(worldcat)](https://search.worldcat.org/title/222353569)  
-* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 80    
-* Soprano, P. 1950, *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 308, no.36  
-* Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 307, no. 29  (also incorrectly calls the garden a room)  
+* Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 69
+* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 68 [(worldcat)](https://search.worldcat.org/title/9528380)
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 32 [(worldcat)](https://search.worldcat.org/title/222353569)
+* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 80
+* Soprano, P. 1950, *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 308, no.36
+* Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 307, no. 29  (also incorrectly calls the garden a room)
 
 
 ## Places
-[Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
+- {{< id vocab="Pleiades" id="222138654" name="Regio I, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

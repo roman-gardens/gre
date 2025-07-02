@@ -13,7 +13,7 @@ draft: false
 
 ## Location
 
-- [Gorhambury]({{<relref ".">}}) 
+- [Gorhambury]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="79485" name="Gorhambury" >}}
 
 ## Garden

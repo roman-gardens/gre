@@ -22,7 +22,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 ## Location
 
-- [Las Tiendas]({{<relref ".">}}) 
+- [Las Tiendas]({{<relref ".">}})
 
 ## Garden
 Villa el Hinojal

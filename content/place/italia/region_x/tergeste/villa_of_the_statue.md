@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Tergeste]({{<relref ".">}}) 
+- [Tergeste]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="187578" name="Tergeste" >}}
 
 ## Sublocation

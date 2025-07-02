@@ -12,11 +12,11 @@ draft: true
 ---
 
 ## Location
-- [Cayster River Valley](https://pleiades.stoa.org/places/550492)
+- {{< id vocab="Pleiades" id="550492" name="Cayster River Valley" >}}
 
 
 ## Sublocation
-- [Thyaira](https://pleiades.stoa.org/places/599981)
+- {{< id vocab="Pleiades" id="599981" name="Thyaira" >}}
 
 <!--
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)

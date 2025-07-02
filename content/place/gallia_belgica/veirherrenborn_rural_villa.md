@@ -38,7 +38,7 @@ Rural Villa
 
 The house stood in the middle of a farm complex 75 meters wide and 120 meters long. It dates to the early second century.  The house (A on the plan, Fig. 1) is of the winged corridor type, measuring 19.30 x 22.40 meters.
 
- On the west and east, in front of and behind the house, were open *courtyards* enclosed by a wall. The western *courtyard* has been interpreted as a garden (G on plan); the eastern one may have been a *paddock*.
+On the west and east, in front of and behind the house, were open *courtyards* enclosed by a wall. The western *courtyard* has been interpreted as a garden (G on plan); the eastern one may have been a *paddock*.
 
 
 <!-- Text comes from draft file-->
@@ -69,7 +69,7 @@ Unspecified
 <!--
 ## Places
 
- not on pleiades
- -->
+not on pleiades
+-->
 - {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 

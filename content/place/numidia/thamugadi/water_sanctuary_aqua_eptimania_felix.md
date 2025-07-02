@@ -12,7 +12,7 @@ draft: false
 ---
 
 ## Province
-- [Numidia]({{<relref "..">}}) 
+- [Numidia]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
 
 ## Province Description
@@ -21,7 +21,7 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 
 ## Location
 
-- [Thamugadi]({{<relref ".">}}) 
+- [Thamugadi]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}
 
 {{< image file="timgad_city_plan_water_sanctuary.jpg" caption="Fig. 1: Plan of Thamugadi" credit="(Courtois, C., 1951)" alt="Plan of Thamugadi." >}}
@@ -44,7 +44,7 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 - {{< keyword "inscriptions" >}}
 
 ## Garden Description
- The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of the city. An inscription that was discovered during the Byzantine fort excavations enumerates the embellishments that were undertaken in 213 by the city of Timgad for the sanctuary, Aqua Septimiana Felix: one of which, a bronze balustrade surrounding the spring (a pool with marble slabs of 3,6 m x 13, 60 m) and a *viridarium* surrounded by porticoes decorated with paintings (*porticus virdiari (sic) picturis ornatas*).
+The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of the city. An inscription that was discovered during the Byzantine fort excavations enumerates the embellishments that were undertaken in 213 by the city of Timgad for the sanctuary, Aqua Septimiana Felix: one of which, a bronze balustrade surrounding the spring (a pool with marble slabs of 3,6 m x 13, 60 m) and a *viridarium* surrounded by porticoes decorated with paintings (*porticus virdiari (sic) picturis ornatas*).
 
 
 ## Maps

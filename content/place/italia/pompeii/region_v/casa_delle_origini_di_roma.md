@@ -12,7 +12,7 @@ draft: true
 ---
 
 ## Province
-- [Italia]({{<relref "../..">}}) 
+- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Province Description
@@ -21,7 +21,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 
 
 ## Location
-- [Pompeii]({{<relref "..">}}) 
+- [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Location Description
@@ -50,7 +50,7 @@ Casa Delle Origini di Roma; House of M. Fabius Secundus (V.iv.13.)
 - {{< keyword "triclinia (couches)" >}}
 - {{< keyword "trellises" >}}
 - {{< keyword "altars" >}}
-- {{< keyword "lararia" >}}  
+- {{< keyword "lararia" >}}
 
 
 ## Garden Description

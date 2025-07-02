@@ -4,7 +4,7 @@ aliases: [/id/edac365d78]
 type: garden
 title: "House with Pilasters (Clos du Verbe Incarné)"
 latlon: [ 45.758866, 4.819481 ]
-author: 
+author:
 editor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29
@@ -45,8 +45,8 @@ None Available
 Unspecified
 
 ## Bibliography
-- E. Delaval, "Un îlot d'habitations romaines à Lyon  (Ier  siècle  av.-IIIe siècle ap.J.C.),Clos du Verbe Incarné,colline de Fourvière," *Actes du Ier Congrès Méditerranéen d'ethnologie historique,* Lisbonne 4-8 nov. 1991,in *Mediterraneo,* 4, 1994, p.203-229.  
-- E. Delaval,"Espace urbain et habitat privé à Lyon,un îlot de la ville haute au cœur d'une opération d'urbanisme au milieu du Ier siècle," in Maison 1996, t.I,p. 128-37, planp.134.  
+- E. Delaval, "Un îlot d'habitations romaines à Lyon  (Ier  siècle  av.-IIIe siècle ap.J.C.),Clos du Verbe Incarné,colline de Fourvière," *Actes du Ier Congrès Méditerranéen d'ethnologie historique,* Lisbonne 4-8 nov. 1991,in *Mediterraneo,* 4, 1994, p.203-229.
+- E. Delaval,"Espace urbain et habitat privé à Lyon,un îlot de la ville haute au cœur d'une opération d'urbanisme au milieu du Ier siècle," in Maison 1996, t.I,p. 128-37, planp.134.
 
 ## Places
 

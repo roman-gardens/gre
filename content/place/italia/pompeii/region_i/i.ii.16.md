@@ -12,11 +12,11 @@ draft: false
 ---
 
 ## Province
-- [Italia]({{<relref "../..">}}) 
+- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
-- [Pompeii]({{<relref "..">}}) 
+- [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
@@ -49,26 +49,26 @@ This house was excavated in 1873. The entranceway led directly to the portico wh
 
 ## Bibliography
 
-* Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 22 [(worldcat)](https://search.worldcat.org/title/892026154)  
-* Curtius, L. 1994. *Miszellen zur Geschichte des greichischen Porträts*, RM, p. 38   
-* Dwyer, E.J. 2010. *Pompeii's living statues: ancient Roman lives stolen from death*, p. 128 [(worldcat)](https://search.worldcat.org/title/885382781)  
-* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 43 [(worldcat)](https://search.worldcat.org/title/9528380)    
-* GiornSc, n.s. (1874-77), cols. 46, 177-179 and plate 6  
-* Ippel, A. 1939. *Statuetten aus Pompeji*. AA, pp. 367-368  
-* Jashemski, W.F. 1979, *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius,* pp. 48 [(worldcat)](https://search.worldcat.org/title/312003872)  
-* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 22-23 [(worldcat)](https://search.worldcat.org/title/222353569)  
-* Kapossy, B. 1969. *Brunnenfiguren der hellenistischen und romischen Zeit*, Zurich, p. 47 [(worldcat)](https://search.worldcat.org/title/804937054?referer=di&ht=edition)  
-* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. III*, plate 12  
-* Pernice, E. and Winter, F. 1925, *Gefässe und Geräthe aus BronzeDie Hellenistische Kunst in Pompeii*, 5, p. 34  
-* Richter, G. 1960. *Greek Portraits*, pp. 33-34, fig. 133 [(worldcat)](https://search.worldcat.org/title/1184654009)  
-* Richter, G. 1984. *Portraits of the Greeks*, p. 181 and fig. 1056 [(worldcat)](https://search.worldcat.org/title/310589274)  
-* Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, pp. 12, 79 [(worldcat)](https://search.worldcat.org/title/254502217)   
-* Von Rohden, H. and Otto, L. 1880. *Terracotten von Pompeji*, pp. 21, 44-45 and plate 32 [(worldcat)](https://search.worldcat.org/title/1001059002)  
+* Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 22 [(worldcat)](https://search.worldcat.org/title/892026154)
+* Curtius, L. 1994. *Miszellen zur Geschichte des greichischen Porträts*, RM, p. 38
+* Dwyer, E.J. 2010. *Pompeii's living statues: ancient Roman lives stolen from death*, p. 128 [(worldcat)](https://search.worldcat.org/title/885382781)
+* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 43 [(worldcat)](https://search.worldcat.org/title/9528380)
+* GiornSc, n.s. (1874-77), cols. 46, 177-179 and plate 6
+* Ippel, A. 1939. *Statuetten aus Pompeji*. AA, pp. 367-368
+* Jashemski, W.F. 1979, *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius,* pp. 48 [(worldcat)](https://search.worldcat.org/title/312003872)
+* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 22-23 [(worldcat)](https://search.worldcat.org/title/222353569)
+* Kapossy, B. 1969. *Brunnenfiguren der hellenistischen und romischen Zeit*, Zurich, p. 47 [(worldcat)](https://search.worldcat.org/title/804937054?referer=di&ht=edition)
+* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. III*, plate 12
+* Pernice, E. and Winter, F. 1925, *Gefässe und Geräthe aus BronzeDie Hellenistische Kunst in Pompeii*, 5, p. 34
+* Richter, G. 1960. *Greek Portraits*, pp. 33-34, fig. 133 [(worldcat)](https://search.worldcat.org/title/1184654009)
+* Richter, G. 1984. *Portraits of the Greeks*, p. 181 and fig. 1056 [(worldcat)](https://search.worldcat.org/title/310589274)
+* Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, pp. 12, 79 [(worldcat)](https://search.worldcat.org/title/254502217)
+* Von Rohden, H. and Otto, L. 1880. *Terracotten von Pompeji*, pp. 21, 44-45 and plate 32 [(worldcat)](https://search.worldcat.org/title/1001059002)
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://search.worldcat.org/title/974375313)
 
 
 ## Places
-[Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
+- {{< id vocab="Pleiades" id="222138654" name="Regio I, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

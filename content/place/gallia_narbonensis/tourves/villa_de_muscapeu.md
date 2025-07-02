@@ -13,7 +13,7 @@ draft: true
 
 ## Province
 
-- [Gallia_narbonensis]({{<relref "..">}}) 
+- [Gallia_narbonensis]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
 
 ## Province Description
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location
 
-- [tourves]({{<relref ".">}}) 
+- [tourves]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="157799" name="Ad Turrem" >}}
 
 ## Location Description
@@ -51,7 +51,7 @@ Villa de Muscapeu
 
 ## Villa Description
 
-In the locality of Muscapeu, at the foot of a slope, was found this villa.  Partial excavations in 1950 to 1960 exposed 4200 square meters.  Constructed in the first half of the first century B.C. , it was occupied until sometime in the third century.  An aqueduct from a spring supplied water.  The *pars urbana* is to the east; the *pars rustica* to the west.  
+In the locality of Muscapeu, at the foot of a slope, was found this villa.  Partial excavations in 1950 to 1960 exposed 4200 square meters.  Constructed in the first half of the first century B.C. , it was occupied until sometime in the third century.  An aqueduct from a spring supplied water.  The *pars urbana* is to the east; the *pars rustica* to the west.
 
 In state 1, from a sort of podium, the *pars urbana*, 34.5 meters on a side, overlooked the surrounding fields.  At the center was a peristyle [1] (16.6 by 3.2 meters); and in the center, a rectangular pool (16.6 by 3.2 meters) with a bottom of *opus signinum*.  The drain came out of the southeast corner of the pool and flowed along the south façade.
 

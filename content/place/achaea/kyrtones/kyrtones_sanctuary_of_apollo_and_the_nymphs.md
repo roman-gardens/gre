@@ -18,7 +18,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 
-- [Kyrtones]({{<relref ".">}}) 
+- [Kyrtones]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="540898" name="Kyrtones" >}}
 
 ## Garden

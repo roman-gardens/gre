@@ -19,12 +19,12 @@ draft: false
 
 ## Location
 
-- [Rome]({{<relref "..">}}) 
+- [Rome]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="423025" name="Roma" >}}
 
 ## Sublocation
 
-- [Palatine]({{<relref ".">}}) 
+- [Palatine]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
 
@@ -44,7 +44,7 @@ Vigna Barberini Site Overview, Palatine
 
 The artificial [terrace](http://vocab.getty.edu/page/aat/300004182) that now carries the [Barberini family](https://en.wikipedia.org/wiki/Barberini_family) name is located on the northeastern corner of the Palatine, beyond the visible remains of the [Flavian Imperial palace](https://en.wikipedia.org/wiki/Flavian_Palace) (Fig. 1). Excavations carried out during the 1930s by A. Bartoli, and in the 1950s by G.F. Carettoni concentrated primarily on the central area of this site.  These campaigns revealed the foundations of a large temple, which Bartoli identified, consistent with the earlier ideas of P. Bigot, as the remains of the late second-century [Temple of Elagabalus](https://en.wikipedia.org/wiki/Elagabalium).
 
-Investigations by the [Soprintendenza Archeologica](http://www.sabap-rm-met.beniculturali.it/) in collaboration with [École française de Rome](https://www.efrome.it/) since 1985 have revealed further episodes of the history of the area. Approximately one third of the site has been explored, although the most ancient levels have been reached only sporadically (Fig. 2).  
+Investigations by the [Soprintendenza Archeologica](http://www.sabap-rm-met.beniculturali.it/) in collaboration with [École française de Rome](https://www.efrome.it/) since 1985 have revealed further episodes of the history of the area. Approximately one third of the site has been explored, although the most ancient levels have been reached only sporadically (Fig. 2).
 
 The excavations that reached levels prior to the rise of the Empire revealed a [peristyle](https://en.wikipedia.org/wiki/Peristyle) of a large [*domus*](https://en.wikipedia.org/wiki/Domus) once decorated with plants and [basins](http://vocab.getty.edu/page/aat/300045614). Probably destroyed during the 60s of the first century CE, this luxurious dwelling was then buried under thick layers of soil used to create an artificial terrace that was a grand garden of the [Palace of Domitian](https://en.wikipedia.org/wiki/Palace_of_Domitian). About a century later, during the last years of the second century, this section of the imperial palace was demolished to make room for a monumental complex centered around a temple, the [*Elagabalium*](https://en.wikipedia.org/wiki/Elagabalium), dedicated by the emperor [Heliogabalus](https://en.wikipedia.org/wiki/Elagabalus) to the eastern god, [Elagabalus](https://en.wikipedia.org/wiki/Elagabalus_(deity)), which was later rededicated by [Severus Alexander](https://en.wikipedia.org/wiki/Severus_Alexander) to [Jupiter Ultor](https://en.wikipedia.org/wiki/Jupiter_(mythology)).
 

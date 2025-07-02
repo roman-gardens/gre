@@ -13,11 +13,11 @@ draft: true
 ---
 
 ## Province
-- [Italia]({{<relref "../../..">}}) 
+- [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
-- [Pompeii]({{<relref "../..">}}) 
+- [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 

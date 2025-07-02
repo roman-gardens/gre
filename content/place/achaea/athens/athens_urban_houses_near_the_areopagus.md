@@ -43,11 +43,13 @@ Urban Houses near Areopagus
 ## Garden Description
 
 Several Roman houses in Athens make use of the remains of Classical and Hellenistic buildings, and, as far as we can tell, these houses generally had courtyards paved with marble chips, pebbles or tile set in mortar, rather than with gardens.  One house on the northwest slope of the Areopagus, however, was of early Roman date and might have had a garden, since the surface of its peristyle courtyard was unpaved (Fig. 1).  In the center of this courtyard was a rectangular water basin with apsidal ends, and in the southwest corner was a well.
+
 Another only partially excavated house of the mid-4th century A.D., built into the northern slope of the Areopagus, had a small courtyard (3.20 x 3.90 m.) paved with blue and white marble slabs surrounded by a masonry flower bed 50 cm. wide (Fig. 2; f on plan).  Around this ran a shallow marble-paved basin (c on plan) which was supplied with water by a fountain on the south eastern side of the courtyard.  Water flowed from the basin through a lead pipe in the middle of each side of the courtyard into the planter beds.
 
 <!--## Maps-->
 
 <!--
+{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans

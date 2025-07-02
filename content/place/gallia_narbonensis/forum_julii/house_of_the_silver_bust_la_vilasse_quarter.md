@@ -13,7 +13,7 @@ draft: true
 
 ## Province
 
-- [Gallia_narbonensis]({{<relref "..">}}) 
+- [Gallia_narbonensis]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
 
 ## Province Description
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location
 
-- [forum_julii]({{<relref ".">}}) 
+- [forum_julii]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="307416064" name="forum_julii" >}}
 
 ## Location Description
@@ -53,15 +53,15 @@ House of the Silver Bust, La Vilasse Quarter
 
 This house was in a central residential quarter across the street (rue des Boutiques) from the public baths of the town center.   Unearthed between 1924 and 1946, it occupied a parcel of 4354 square meters with a useful covered surface of 1957.3 square meters.  The condition now shown goes back to the second half of the first century; though previous states are possible, nothing is known of them.  It was subsequently occupied during at least two centuries.  There was a fire and doubtless at least partial abandonment in the course of the third century.  Its complex plan made it one of the largest grand homes of Vaison during the Flavian epoch.  It groups together several elements of distinct origin: one or two houses to the east, one in the center, and a bath structure that was originally public.  This development explains the different orientations of these buildings.
 
-To the east, on the "rue des Boutiques," was the principal entrance: a monumental vestibule paved with flagstones opened directly through a triple bay with two columns onto a peristyle [17] (13 by 8,50 m -  4 by 4 columns) of Tuscan order.  The court was probably planted as a garden, but it had no pool.  The western portico, somewhat wider than the others, underlined the importance of the reception room [16] which connected with the central part of the house.  
+To the east, on the "rue des Boutiques," was the principal entrance: a monumental vestibule paved with flagstones opened directly through a triple bay with two columns onto a peristyle [17] (13 by 8,50 m -  4 by 4 columns) of Tuscan order.  The court was probably planted as a garden, but it had no pool.  The western portico, somewhat wider than the others, underlined the importance of the reception room [16] which connected with the central part of the house.
 
 A second garden [12] (15 by 13 m) was found in the southern part of the house, lying a meter below the main part and formed by rooms for lodging and reception, though their  function is not altogether clear.   This garden is dominated on the north by a portico with 7 columns; at each end a flight of steps descended to connect the house to covered walkways (with 5 columns)  that extended south to form a U around the garden and delimit the house on this side, for there were no rooms attached. {I need the plan to be sure that I have understood  "en U (7 x 5 colonnes)" correctly.} Along the portico on the north was a rectangular pool (10 by 1.5 meters) without water jets; it was originally covered with red tiles which are today much restored.  A lead pipe, possibly for drainage, was noted during the excavation.
 
-The spaces [13-14-15], on which little has been published, are badly preserved.  Without any real certainty, [13] is considered a reception room at once having a dominating view onto the garden and opening directly past two columns onto a courtyard [14] (13 by 9.50 m) that was perhaps planted. Room [15] constitutes another room separated by a gallery and a portico from the other columns of the space [14].  The excavator, the abbot Sautel, proposed, without evident proof, to cover the space [13] with a pergola. The space [13-14-15], in the axis of the garden [12], formed an alternation of covered and open spaces giving air and light to the center of the house.  
+The spaces [13-14-15], on which little has been published, are badly preserved.  Without any real certainty, [13] is considered a reception room at once having a dominating view onto the garden and opening directly past two columns onto a courtyard [14] (13 by 9.50 m) that was perhaps planted. Room [15] constitutes another room separated by a gallery and a portico from the other columns of the space [14].  The excavator, the abbot Sautel, proposed, without evident proof, to cover the space [13] with a pergola. The space [13-14-15], in the axis of the garden [12], formed an alternation of covered and open spaces giving air and light to the center of the house.
 
 The western part of the house has been interpreted as a former public bath complex, with double baths (total surface of 2235 square meters), all subsequently incorporated into the house.  The palestra of the bath was converted by the proprietor of the house into a large pleasure garden of 1590 square meters.  Of trapezoidal form (36 x 30 m), it is bordered on four sides by a Tuscan portico 3.4 meters wide.  Along all sides runs a trench lined with limestone for catching rainwater.  The former natatio (14,50 x  4,40 m) in the southwest corner of the palestra became an ornamental pond with an east-west drainage ditch connecting to the sewer that crosses the peristyle.
 
-Midway along the northern portico is placed just at the edge a well with a limestone top that is circular in the part that has been exposed.  
+Midway along the northern portico is placed just at the edge a well with a limestone top that is circular in the part that has been exposed.
 
 In the northeast corner of the peristyle was discovered the famous silver bust which gives its name to the house.  This 29.5 cm hight bust, now in the museum of Vaison-la-Romaine, was found in the context of the collapse of the roof of a burned portico.  Along with it were found an  Antonianus of Tetricus I {????} and two large lead plates of the roof.  All of this would seem to give a general date for the abandonment of the garden.
 

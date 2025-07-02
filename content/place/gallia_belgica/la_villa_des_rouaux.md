@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [DIVODURUM MEDIOMATRICORUM (Peltre, France)]({{<relref ".">}}) 
+- [DIVODURUM MEDIOMATRICORUM (Peltre, France)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="108927" name="Divodurum/Mettis" >}}
 
 
@@ -50,7 +50,7 @@ The estate began from a wooden structure built at the end of the Gaulic period [
 
 In this next phase, the space of the estate was structured by building several low, separating walls, perhaps dividing the whole into the classic *pars urbana* and *pars rustica*.The *pars urbana*, of which the central element was the main dwelling, included also surrounding spaces, well defined by the low walls. In front, a pleasure *courtyard* [6] or garden was developed in harmony with the façade. A pool [7] occupied a good part of the area.
 
- Several fragments of statues of white Grecian marble attest the presence of a rich décor with at least two divinities of which one was Harpocrates (Fig. 2 a Hellenized version of the child Horus).
+Several fragments of statues of white Grecian marble attest the presence of a rich décor with at least two divinities of which one was Harpocrates (Fig. 2 a Hellenized version of the child Horus).
 On either side of the main dwelling were smaller *courtyards* with technical functions. The one on the west [8] encloses the bath wing, which seems to have been added after the expansion of the main dwelling. The *courtyard* on the east [9] housed various hydraulic equipment, including buried conduits and a distribution box, necessary for water supply to the pool and the bath wing. Back (north) of the main house was a large area 140 meters wide [10] and of unknown extension to the north which may have been an orchard or a park.
 
 The *pars rustica* was organized on either side of a vast court [11], of which the perspective was blocked by the succession of buildings on the west. In effect, the desire for symmetry expressed in the garden with the pool was somewhat thwarted by this alignment of the pre-existing annexes. A gateway [12] in the middle of the low wall which separates this area from the garden with the pool allowed access to this space [11], which was very much off the axis of the main dwelling. In the interior of the *courtyard* [11], the only structures found were the remains of a hexagonal foundation [13] around a quadrangular trench. This combination has been interpreted as a funeral enclosure, possibly that of owner who gave the villa its luxurious character. On either side of [11], the annexes were about ten meters back from the fencing walls.

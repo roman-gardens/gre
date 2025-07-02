@@ -13,7 +13,7 @@ draft: false
 
 ## Location
 
-- [Pompeii]({{<relref "../../..">}}) 
+- [Pompeii]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 ## Location Description
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.

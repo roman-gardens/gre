@@ -13,18 +13,18 @@ draft: false
 
 ## Province
 
-- [Italia]({{<relref "../..">}}) 
+- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
 - {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
 
 ## Location
 
-- [Rome]({{<relref "..">}}) 
+- [Rome]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="423025" name="Roma" >}}
 
 ## Sublocation
 
-- [Palatine]({{<relref ".">}}) 
+- [Palatine]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
 
@@ -61,20 +61,19 @@ The lower [peristyles](https://en.wikipedia.org/wiki/Peristyle) of the [*Domus A
 UPPER PERISTYLE
 
 In the upper peristyle garden in the middle of a large rectangular [pool](http://vocab.getty.edu/page/aat/300008692) with a highly articulated edge stood a small [temple](http://vocab.getty.edu/page/aat/300007595) on a [podium](http://vocab.getty.edu/page/aat/300000976) (Fig. 4), which could be reached by means of a little bridge supported on arches (Fig. 5). Contiguous to this peristyle was a series of rooms with non-rectilinear plans, among which were a [porticoed](http://vocab.getty.edu/page/aat/300004145) [*diaeta*](https://referenceworks.brillonline.com/entries/brill-s-new-pauly/diaeta-e316370?s.num=11) and water gardens. These elements lent the upper peristyle the characteristics of an idyllic-sacral space, where the plantings occupy the areas between the temple and the surrounding structures, which had open forms such as [*loggias*](http://vocab.getty.edu/page/aat/300004137), [terraces](http://vocab.getty.edu/page/aat/300004182), [*exedrae*](http://vocab.getty.edu/page/aat/300081589), and splendid [statues](http://vocab.getty.edu/page/aat/300047600) and works of art (fountains, basins, [herms](http://vocab.getty.edu/page/aat/300047170)
- etc.) in precious [marbles](http://vocab.getty.edu/page/aat/300011443).
+etc.) in precious [marbles](http://vocab.getty.edu/page/aat/300011443).
 
- 
- RELATED PHASES ON THE PALATINE:
- 
- [Gardens of the Republican Domus (A)]({{<relref"palatine_domus">}})\
- [Garden of the House of Augustus (B)]({{<relref"house_of_augustus">}})\
- [Garden of the Domus Tiberiana (C)]({{<relref"Domus_tiberiana">}})\
- [Garden of the Neronian Palace (D)]({{<relref"domus_transitoria">}})\
- [Garden of the Domus Flavia (E)]({{<relref"Domus_flavia">}})\
- [Garden of the Palatine Stadium (H)]({{<relref"palatine_stadium">}})\
- [Garden of the Severan Complex (I)]({{<relref"severan_complex">}})
- 
- 
+
+RELATED PHASES ON THE PALATINE:
+
+- [Gardens of the Republican Domus (A)]({{<relref"palatine_domus">}})\
+- [Garden of the House of Augustus (B)]({{<relref"house_of_augustus">}})\
+- [Garden of the Domus Tiberiana (C)]({{<relref"Domus_tiberiana">}})\
+- [Garden of the Neronian Palace (D)]({{<relref"domus_transitoria">}})\
+- [Garden of the Domus Flavia (E)]({{<relref"Domus_flavia">}})\
+- [Garden of the Palatine Stadium (H)]({{<relref"palatine_stadium">}})\
+- [Garden of the Severan Complex (I)]({{<relref"severan_complex">}})
+
 
 ## Figures
 {{< image file="domus_augustana_fig1.jpg" caption="Fig. 1: Plan of the Palatine with the indication of the garden area of the Lower Peristyle (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." credit="" alt="Plan of the Palatine" >}}

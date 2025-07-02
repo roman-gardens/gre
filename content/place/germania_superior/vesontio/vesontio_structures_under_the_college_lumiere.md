@@ -14,7 +14,7 @@ draft: true
 
 ## Location
 
-- [Vesontio]({{<relref ".">}}) 
+- [Vesontio]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="177657" name="Vesontio" >}}
 
 ## Location Description

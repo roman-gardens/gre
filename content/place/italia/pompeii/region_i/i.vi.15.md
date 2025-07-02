@@ -12,11 +12,11 @@ draft: false
 ---
 
 ## Province
-- [Italia]({{<relref "../..">}}) 
+- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
-- [Pompeii]({{<relref "..">}}) 
+- [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
@@ -75,15 +75,15 @@ Excavated 1913.
 
 ## Bibliography
 
-* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, pp. 69-70, 113 and fig 43, 111-114. [(worldcat)](https://search.worldcat.org/title/312003872)  
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, p. 315.   [(worldcat)](https://search.worldcat.org/title/222353569)  
-* Jashemski, W.F. 2002. The Natural History of Pompeii, p. 37.[(worldcat)](https://search.worldcat.org/title/46393268)  
-* Maiuri, A. 1926. *Boll. D'Arte*, n.s., p. 69, fig. 112.  
-* Peters, *Landscape*, pp. 172-173. [(worldcat)](https://search.worldcat.org/title/1091957071)  
-* *PPP*, pp. 43-44.  
-* Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 9.  
+* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, pp. 69-70, 113 and fig 43, 111-114. [(worldcat)](https://search.worldcat.org/title/312003872)
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, p. 315.   [(worldcat)](https://search.worldcat.org/title/222353569)
+* Jashemski, W.F. 2002. The Natural History of Pompeii, p. 37.[(worldcat)](https://search.worldcat.org/title/46393268)
+* Maiuri, A. 1926. *Boll. D'Arte*, n.s., p. 69, fig. 112.
+* Peters, *Landscape*, pp. 172-173. [(worldcat)](https://search.worldcat.org/title/1091957071)
+* *PPP*, pp. 43-44.
+* Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 9.
 * Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, pp. 407-418 and figs. 467-478, 481 on pp.409-416, 418.
-* Spinazzola, *Scavi nuovi*, pp. 275-277, fig. 282 (plan) on p. 258, and figs. 304, 306, and 307 on pp. 275-277. [(worldcat)](https://search.worldcat.org/title/883858580)  
+* Spinazzola, *Scavi nuovi*, pp. 275-277, fig. 282 (plan) on p. 258, and figs. 304, 306, and 307 on pp. 275-277. [(worldcat)](https://search.worldcat.org/title/883858580)
 * Zanker, P. 1998. *Pompeii: Public and Private Life*, pp. 477-480.
 
 

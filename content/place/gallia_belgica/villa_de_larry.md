@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [DIVODURUM MEDIOMATRICORUM (Liéhon, France)]({{<relref ".">}}) 
+- [DIVODURUM MEDIOMATRICORUM (Liéhon, France)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="108927" name="Divodurum/Mettis" >}}
 
 
@@ -54,7 +54,7 @@ Two walkways, now much despoiled of their stones, formed a T (indicated by dotte
 
 In the eastern part of the *pars urbana*, an intermediary enclosed space (shaded green and marked with a V and a 3 in Fig. 1) between the northeast pavilion and the gallery of the *balneum*, was occupied by a garden with a surface of 196 square meters, where two trees were planted in the center. A second interior court (shaded green and marked with a V and a 4 in Fig.1), occupied 504 square meters in the southeast corner of the villa between the southern apartments and the *balneum*. A deep subterranean structure about five or six meters in diameter may have been a *cistern* or pool. These two interior gardens related to the baths covered 700 square meters. Finally, the bottom of a horticultural pot was discovered under the porch of the south facade of the villa.
 
-Traces of wooden pipes with iron hoops were discovered running underground across the large central *courtyard* and to the south of the *pars urbana* to bring water from capped springs to the central pool, to the baths, and almost certainly to *fountains* that were not found.  A corresponding network of drains and sewers was also found.  Just east of the entry porch was a canal for draining off the rainwater from the roof of the entry porch.  
+Traces of wooden pipes with iron hoops were discovered running underground across the large central *courtyard* and to the south of the *pars urbana* to bring water from capped springs to the central pool, to the baths, and almost certainly to *fountains* that were not found.  A corresponding network of drains and sewers was also found.  Just east of the entry porch was a canal for draining off the rainwater from the roof of the entry porch.
 
 In the fourth century, the villa was in large part ruined; the pools were filled in, the *courtyards* in the center and to the north occupied by wooden structures erected from the end of the fourth century to the sixth century.
 

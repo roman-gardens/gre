@@ -12,7 +12,7 @@ draft: true
 ---
 
 ## Location
-- [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) 
+- [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 ## Location Description

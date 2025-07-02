@@ -13,13 +13,13 @@ draft: false
 
 ## Province
 
-- [Italia]({{<relref "../..">}}) 
+- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
 - {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
 
 ## Location
 
-- [Rome]({{<relref "..">}}) 
+- [Rome]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="423025" name="Roma" >}}
 
 ## Sublocation

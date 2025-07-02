@@ -16,7 +16,7 @@ draft: true
 
 ## Location
 
-- [Aquincum]({{<relref ".">}}) 
+- [Aquincum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="1971301" name="Aquincum" >}}
 
 ## Location Description

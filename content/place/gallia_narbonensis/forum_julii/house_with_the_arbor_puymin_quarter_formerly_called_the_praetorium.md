@@ -13,7 +13,7 @@ draft: true
 
 ## Province
 
-- [Gallia_narbonensis]({{<relref "..">}}) 
+- [Gallia_narbonensis]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
 
 ## Province Description
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location
 
-- [forum_julii]({{<relref ".">}}) 
+- [forum_julii]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="307416064" name="forum_julii" >}}
 
 ## Location Description
@@ -56,7 +56,7 @@ This house stood southwest of the theater, on the Puymin hill, in the residentia
 
 ## Garden Description
 
-The residential part best known was organized around a garden 17 by 20 meters, framed by three wings in a U.  At the center of the east wing, the bottom of the U, a grand stairway with two {curving?) symmetric ramps framing a niche (possibly for a statue) rose to the second storey where a portico overlooked the garden from three sides.  To the west, the fourth side of the garden was closed against the outside by a straight wall.  On it was supported a wall accented by a central apse (with a opening of 5.8 meters) centered on the axis of the garden.  Along this wall, but separated from it by a space, lie three related pools which are below the garden.  Built of masonry, one is semi-circular (3.85 meters in diameter) with a lateral set of stone steps for access, while the other two are symmetrically placed rectangles (2.4 by .85 meters).  No water jet was noted.  There was also a well with masonry rim in the southeastern part of the garden.   
+The residential part best known was organized around a garden 17 by 20 meters, framed by three wings in a U.  At the center of the east wing, the bottom of the U, a grand stairway with two {curving?) symmetric ramps framing a niche (possibly for a statue) rose to the second storey where a portico overlooked the garden from three sides.  To the west, the fourth side of the garden was closed against the outside by a straight wall.  On it was supported a wall accented by a central apse (with a opening of 5.8 meters) centered on the axis of the garden.  Along this wall, but separated from it by a space, lie three related pools which are below the garden.  Built of masonry, one is semi-circular (3.85 meters in diameter) with a lateral set of stone steps for access, while the other two are symmetrically placed rectangles (2.4 by .85 meters).  No water jet was noted.  There was also a well with masonry rim in the southeastern part of the garden.
 
 In the axis of the garden but a little off to the west is a structure with masonry walls in the form of a T, 7.15 m long.  On top of this wall has been reconstructed without proof a T-shaped arbor shading the site of a summer triclinium. {Is this arbor "reconstitué" mentally or in wood ?} We believe that if there were here a pergola it would have covered a banquet space organized in a T + U shape and built of wood  resting on the masonry of which only the T by itself is drawn. {Drawn in what sense?}
 

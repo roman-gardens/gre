@@ -29,7 +29,7 @@ Rustic villa at Rheinbach-Flerzheim
 
 ## Garden Description
 
-There was no division between the residential and service parts of this modest farm. The house, with its bath (A and B on plan), and the outbuildings were built of stone at the beginning of the 2nd century (Plan 1). The winged corridor type house of this *villa rustica* was 37 m. long and 20 m. wide, and it had a bath attached to the back.  
+There was no division between the residential and service parts of this modest farm. The house, with its bath (A and B on plan), and the outbuildings were built of stone at the beginning of the 2nd century (Plan 1). The winged corridor type house of this *villa rustica* was 37 m. long and 20 m. wide, and it had a bath attached to the back.
 
 Enclosing the farm complex was a hedge or row of trees, the planting trenches of which were uncovered in excavations (gray wavy border on plan). Based on the palaeobotanical evidence of carbonised plant remains and pollen, a kitchen garden near the house and fruit trees on the property have been reconstructed. In front of the entrance to the main residence at the south were the remains of a small pool lined with clay. This has been taken as evidence for an ornamental garden surrounding the pool.  On a farm of this modest size and simplicity, however, an ornamental garden seems rather unlikely. The farm was occupied until the mid-5th century.
 

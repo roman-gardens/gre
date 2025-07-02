@@ -4,7 +4,7 @@ aliases: [/id/8dbbeb7015]
 type: garden
 title: "House of the Deep Trench"
 latlon: [ 0, 0 ]
-author: 
+author:
 editor: Lai Ching Tsui
 date: 2021-04-21
 modified: 2025-06-29
@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Italica]({{<relref ".">}}) 
+- [Italica]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="256231" name="Italica" >}}
 
 ## Location Description
@@ -60,7 +60,7 @@ unspecified
 
 
 ## Places
-- [House of the Deep Trench at Italica]{{<relref ".">}}) 
+- [House of the Deep Trench at Italica]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="781581593" name="House of the Deep Trench at Italica" >}}
 - {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}
 

@@ -13,8 +13,8 @@ draft: true
 
 ## Location
 
-- [THYSDRUS (El Jem) Tunisia]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="324835" name="THYSDRUS (El Jem) Tunisia(Pleiades)" >}}
+- [THYSDRUS (El Jem) Tunisia]({{<relref ".">}})
+- {{< id vocab="Pleiades" id="324835" name="THYSDRUS (El Jem) Tunisia" >}}
 
 ## Location Description
 Thysdrus is located on the western border of the Sahel at 60 km S of Hadrumetum on the road leading to Sfax. The development, from the end of the 2d c., of its olive plantations and its trade in oil made the fortune of the city.

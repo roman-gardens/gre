@@ -13,7 +13,7 @@ draft: false
 
 ## Location
 
-- [Chedworth]({{<relref ".">}}) 
+- [Chedworth]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="79383" name="Chedworth" >}}
 
 ## Sublocation

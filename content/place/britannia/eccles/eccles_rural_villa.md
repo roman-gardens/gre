@@ -13,7 +13,7 @@ draft: false
 
 ## Location
 
-- [Eccles]({{<relref ".">}}) 
+- [Eccles]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="79448" name="Eccles" >}}
 
 ## Garden

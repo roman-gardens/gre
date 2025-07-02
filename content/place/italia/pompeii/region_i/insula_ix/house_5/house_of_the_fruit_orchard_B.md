@@ -4,7 +4,7 @@ aliases: [/id/3d2a3deab8]
 type: garden
 title: "House of the Fruit Orchard; Casa del Frutteto; Dei Cubicoli Floreali (I.ix.5) B"
 latlon: [ 40.74941, 14.485429 ]
-author: 
+author:
 editor: June Dorsch
 date: 2021-04-21
 modified: 2025-06-29
@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Pompeii]({{<relref "../../..">}}) 
+- [Pompeii]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Sublocation

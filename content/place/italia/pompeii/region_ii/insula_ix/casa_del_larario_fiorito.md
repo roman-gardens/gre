@@ -13,11 +13,11 @@ draft: false
 ---
 
 ## Province
-- [Italia]({{<relref "../../..">}}) 
+- [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
-- [Pompeii]({{<relref "../..">}}) 
+- [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
@@ -39,8 +39,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 ## Garden Description
 
-Excavated in the later 1980s, this property features a garden, described by Ciarallo as "laid out in eight ground strips bordered by furrows." She interprets this layout as a plant nursery, also taking into account that the root cavities throughout were small, 4-8 c. in diameter, with two larger cavities of 20 and 40 cm.  The larger cavities flank the axis that divides the garden in half.  
-Gardens excavated recently shed light on the layout, which might, alternatively, be seen to comprise two slightly wider beds and two narrow ones that run alongside *ambulationes*, providing a modest strolling garden adjacent to the [triclinium](http://vocab.getty.edu/page/aat/300142552). Elsewhere, gardens of the time of the eruption featured a variety of plants along these rows that would have been observed and presumably admired by the stroller, either for their exotic origin or for skill in creating new varieties of unusual shapes of familiar plants.  
+Excavated in the later 1980s, this property features a garden, described by Ciarallo as "laid out in eight ground strips bordered by furrows." She interprets this layout as a plant nursery, also taking into account that the root cavities throughout were small, 4-8 c. in diameter, with two larger cavities of 20 and 40 cm.  The larger cavities flank the axis that divides the garden in half.
+Gardens excavated recently shed light on the layout, which might, alternatively, be seen to comprise two slightly wider beds and two narrow ones that run alongside *ambulationes*, providing a modest strolling garden adjacent to the [triclinium](http://vocab.getty.edu/page/aat/300142552). Elsewhere, gardens of the time of the eruption featured a variety of plants along these rows that would have been observed and presumably admired by the stroller, either for their exotic origin or for skill in creating new varieties of unusual shapes of familiar plants.
 The team made 160 casts in this garden. Pollen and charcoal were also collected and indicate the presence of grape (Vitis), hazelnut (Corylus), Prunus, Oak (Quercus), and Beech (Fagus).  Beech and Oak are also seen in the pollen samples. Tree roots were interpreted as pine (Pinus) and olive (Olea).
 
 

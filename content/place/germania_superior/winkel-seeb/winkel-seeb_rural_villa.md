@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Winkel-Seeb]({{<relref ".">}}) 
+- [Winkel-Seeb]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="177667" name="Winkel-Seeb" >}}
 
 ## Garden

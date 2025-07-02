@@ -13,8 +13,8 @@ draft: true
 
 ## Location
 
-- [UTICA (Utique)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="315248" name="UTICA (Utique) Tunisia(Pleiades)" >}}
+- [UTICA (Utique)]({{<relref ".">}})
+- {{< id vocab="Pleiades" id="315248" name="UTICA (Utique) Tunisia" >}}
 
 ## Location Description
 Her geographic situation made of Utica one of the oldest and well-known Phoenician settlements. In 146 B.C, Utica became the capital of the newly created province of Africa and the residence of the governor. With the triumph of Caesar and the resurgence of Carthage, Utica's supremacy would gradually decline under the empire. In 36 B.C. it became a *municipium* and a colony under Hadrian.

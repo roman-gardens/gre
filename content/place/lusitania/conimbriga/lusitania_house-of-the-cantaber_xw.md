@@ -4,7 +4,7 @@ aliases: [/id/f5a5c648d6]
 type: garden
 title: "House of the Cantaber"
 latlon: [ 40.099, -8.4933 ]
-author: 
+author:
 editor: Xingjian Wang
 date: 2021-04-21
 modified: 2025-06-29
@@ -22,7 +22,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 ## Location
 
-- [Conimbriga]({{<relref ".">}}) 
+- [Conimbriga]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="236443" name="Conimbriga" >}}
 
 ## Location Description
@@ -41,8 +41,8 @@ House of the Cantaber
 
 Hidacio, bishop of Chaves and a chronicler of his age, records that the Suevi sacked Conimbriga in 465 and 468 A.D. and that in the second year "the most noble Cantaber" was killed and his family sold into slavery. This house is by far the finest inside the city walls, so it is reasonably guessed to be that of Cantaber.   It is larger than the House of the Fountains with an area of more than 3,300 square meters.  The garden is similar, although it is less elaborate, has slightly different proportions, and has no fountains.  Although the house underwent structural alterations, the peristyle is part of the original plan, which does not appear to date from much later than the Flavian era.
 
-Originally, a large area at the south end was a garden occupying nearly a third of the area of the house.  It was later sacrificed to become baths, so it is tinted slightly green on the plan in Figure 1.  
-The large dimensions of this house required further open spaces for light and air.  Two of these had flower beds, although on a much smaller scale.  
+Originally, a large area at the south end was a garden occupying nearly a third of the area of the house.  It was later sacrificed to become baths, so it is tinted slightly green on the plan in Figure 1.
+The large dimensions of this house required further open spaces for light and air.  Two of these had flower beds, although on a much smaller scale.
 
 South of the central peristyle was a large room that centered on the garden, and on the east side of it a large doorway opened open on a large pool with eight columns around the eastern half of the pool.  Along the sides were masonry planters projecting a foot or so into the pool.  They must certainly have been filled with earth where plants or flowers must have been grown. The boxes covered in pink mortar are clearly visible in the foreground in Figure 3. Traces of plinths in the spaces between the columns suggest that there may have been small statuettes there.
 

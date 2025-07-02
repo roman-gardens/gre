@@ -13,8 +13,8 @@ draft: false
 
 ## Province
 
-- [Numidia]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981539" name="Numidia (Roman province)(Pleiades)" >}}
+- [Numidia]({{<relref "..">}})
+- {{< id vocab="Pleiades" id="981539" name="Numidia (Roman province)" >}}
 
 ## Province Description
 
@@ -22,7 +22,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 
 ## Location
 
-- [Cuicul]({{<relref ".">}}) 
+- [Cuicul]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}
 
 

@@ -12,7 +12,7 @@ draft: true
 ---
 
 ## Location
-- [THUGGA (Douga) Tunisia]({{<relref ".">}}) 
+- [THUGGA (Douga) Tunisia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="315223" name="THUGGA (Douga) Tunisia" >}}
 
 <!--## Plan of City

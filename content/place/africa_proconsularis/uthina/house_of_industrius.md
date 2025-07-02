@@ -12,8 +12,8 @@ draft: true
 ---
 
 ## Location
-- [UTHINA (Oudna)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="315247" name="UTHINA (Oudna) Tunisia(Pleiades)" >}}
+- [UTHINA (Oudna)]({{<relref ".">}})
+- {{< id vocab="Pleiades" id="315247" name="UTHINA (Oudna) Tunisia" >}}
 
 ## Location Description
 Located to the Southeast of the amphitheater, this house was laid out around a peristyle garden of 10 columns that connected by a low wall. A semicircular basin extended into the garden on the NE facing the reception room.

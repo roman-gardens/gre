@@ -17,7 +17,7 @@ draft: true
 
 ## Location
 
-- [Rome]({{<relref "..">}}) 
+- [Rome]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="423025" name="Roma" >}}
 
 ## Sublocation

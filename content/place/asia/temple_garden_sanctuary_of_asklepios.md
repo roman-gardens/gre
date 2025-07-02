@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Kos]({{<relref ".">}}) 
+- [Kos]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="599728" name="Kos" >}}
 
 ## Garden

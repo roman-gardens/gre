@@ -12,7 +12,7 @@ draft: true
 ---
 
 ## Province
-- [Italia]({{<relref "../..">}}) 
+- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 <!--- Content of Province heading --->
 
@@ -22,7 +22,7 @@ The Italian peninsula extending northward to the Alps as recognized by the Roman
 
 
 ## Location
-- [Pompeii]({{<relref "..">}}) 
+- [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Location Description
@@ -69,7 +69,7 @@ Jashemski, *Gardens*, 1:168 and fig. 249 on p.168 [(worldcat)](https://search.wo
 Idem, *Gardens*, vol. II, p. 119 [(worldcat)](https://search.worldcat.org/title/921816405) \
 Mazois, 2:46, pl. 9, figs. 3, 5 [(worldcat)](https://search.worldcat.org/title/874412631) \
 *PAH*, vol. 1, pt.2, p.36 (Mar. 8, 1787) [(worldcat)](https://search.worldcat.org/title/568028156) \
-Soprano, p. 300, no. 13. 
+Soprano, p. 300, no. 13.
 <!--
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->

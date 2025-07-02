@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Hummetroth]({{<relref ".">}}) 
+- [Hummetroth]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="981525" name="Hummetroth" >}}
 
 ## Garden

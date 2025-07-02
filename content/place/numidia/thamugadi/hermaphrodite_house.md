@@ -12,7 +12,7 @@ draft: false
 ---
 
 ## Province
-- [Numidia]({{<relref "..">}}) 
+- [Numidia]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
 
 ## Province Description
@@ -21,7 +21,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 
 ## Location
 
-- [Thamugadi]({{<relref ".">}}) 
+- [Thamugadi]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}
 
 {{< image file="timgad_city_plan_hermaphrodite_house.jpg" caption="Fig. 1: Plan of Thamugadi" credit="(Courtois, C., 1951)" alt="Plan of Thamugadi." >}}

@@ -13,17 +13,17 @@ draft: true
 
 ## Location
 
-- [Neerhaaren-Rekem]({{<relref ".">}}) 
+- [Neerhaaren-Rekem]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="109193" name="Neerhaaren-Rekem" >}}
 
 ## Garden
 Rural villa at Neerhaaren-Rekem
 
-## Keywords- [rural villas](#) 
-- {{< keyword "villae rusticae" >}} 
-- {{< keyword "arbors" >}} 
-- {{< keyword "pergolas" >}} 
-- {{< keyword "piscinae" >}} 
+## Keywords- [rural villas](#)
+- {{< keyword "villae rusticae" >}}
+- {{< keyword "arbors" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "piscinae" >}}
 
 
 ## Garden Description
@@ -56,4 +56,4 @@ Late first century CE
 
 ## Places
 
-- {{< id vocab="Pleiades" id="109193" name="Neerhaaren-Rekem" >}}  
+- {{< id vocab="Pleiades" id="109193" name="Neerhaaren-Rekem" >}}

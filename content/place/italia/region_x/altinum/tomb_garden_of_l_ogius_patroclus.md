@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Altinum]({{<relref ".">}}) 
+- [Altinum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="197110" name="Altinum" >}}
 
 ## Sublocation

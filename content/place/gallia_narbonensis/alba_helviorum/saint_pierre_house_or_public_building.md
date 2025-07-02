@@ -13,7 +13,7 @@ draft: true
 
 ## Province
 
-- [Gallia Narbonensis]({{<relref "..">}}) 
+- [Gallia Narbonensis]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
 
 ## Province Description
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location
 
-- [alba_helviorum]({{<relref ".">}}) 
+- [alba_helviorum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="167629" name="alba_helviorum" >}}
 
 ## Location Description
@@ -47,7 +47,7 @@ Saint-Pierre, House or Public Building
 ## House Description
 
 
-Excavations in 1964-1969 on the site of the former [or ancient] church of St. Peter brought partially to light a building with an area of about 1200 sq m.  It was constructed towards the end of the first or beginning of the second century, but it is unclear whether it was public or private.  
+Excavations in 1964-1969 on the site of the former [or ancient] church of St. Peter brought partially to light a building with an area of about 1200 sq m.  It was constructed towards the end of the first or beginning of the second century, but it is unclear whether it was public or private.
 
 The western wing, of which 30 m is known, has rooms richly decorated with marble plaques, painted surfaces, and white mosaics. It borders a courtyard organized around a rectangular pool. The large room [1] (10.2 x 8 m) is centered on this pool and opens onto a portico with mosaics [5] 3.30 m wide. Against the portico, in the axis of the room [1] was placed a small, almost square pool, 2.40 x 2.6 m.  A second pool, dug into the ground of courtyard, measures 8.30 x 12 m. Its walls and surroundings are made of large, rectangular limestone blocks. The limits of the space decorated by this pool are not known.
 

@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Carmona]({{<relref ".">}}) 
+- [Carmona]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="521700443" name="Carmona" >}}
 
 ## Garden
@@ -64,5 +64,5 @@ unspecified
 
 ## Places
 
-- [Elephant tomb at Carmona]{{<relref ".">}}) 
+- [Elephant tomb at Carmona]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="521700443" name="Elephant tomb at Carmona" >}}

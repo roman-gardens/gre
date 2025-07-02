@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Neapolis]({{<relref ".">}}) 
+- [Neapolis]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="315093" name="Neapolis" >}}
 
 ## Location Description
@@ -37,9 +37,9 @@ House of the Nymphs (Maison des Nymphes)
 - {{< keyword "Virgil" >}}
 
 ## Garden Description
- This large house (1500m²) laid-out around a peristyle-garden is known for its mosaic pavements figuring Homeric scenes. The peristyle is entered from the S. The N wing had a vast *oecus-triclinium* bordered on both sides by two apartments that each had two rooms and a passage to a pseudo-atrium (Plan view, Fig.1).
+This large house (1500m²) laid-out around a peristyle-garden is known for its mosaic pavements figuring Homeric scenes. The peristyle is entered from the S. The N wing had a vast *oecus-triclinium* bordered on both sides by two apartments that each had two rooms and a passage to a pseudo-atrium (Plan view, Fig.1).
 
- The peristyle was trapezoidal in shape (8.29 x 9 x 16. 15 m) and was bordered by 12 columns. Four porticos, 5m wide, enclosed the garden. The semicircular pool facing the *oecus-triclinium*, that projected into the garden was paved with a mosaic depicting a mask of Ocean among fishes and had an inscription "NYMFARUM DOMUS" quoting a passage from Virgil's Aeneid. According to the excavator, J.-P. Darmon, a row of broken amphoras that had served as planting pots were found along the central axis of the garden facing the *oecus* and the basin (Fig.2)
+The peristyle was trapezoidal in shape (8.29 x 9 x 16. 15 m) and was bordered by 12 columns. Four porticos, 5m wide, enclosed the garden. The semicircular pool facing the *oecus-triclinium*, that projected into the garden was paved with a mosaic depicting a mask of Ocean among fishes and had an inscription "NYMFARUM DOMUS" quoting a passage from Virgil's Aeneid. According to the excavator, J.-P. Darmon, a row of broken amphoras that had served as planting pots were found along the central axis of the garden facing the *oecus* and the basin (Fig.2)
 
 
 ## Maps

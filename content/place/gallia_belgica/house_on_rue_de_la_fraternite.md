@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [NEMETACUM (Arras, France)]({{<relref ".">}}) 
+- [NEMETACUM (Arras, France)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="109194" name="Nemetacum" >}}
 
 ## Garden

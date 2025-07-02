@@ -17,12 +17,12 @@ draft: true
 
 ## Location
 
-- [Rome]({{<relref "..">}}) 
+- [Rome]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="423025" name="Roma" >}}
 
 ## Sublocation
 
-- [Palatine]({{<relref ".">}}) 
+- [Palatine]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
 

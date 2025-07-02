@@ -13,7 +13,7 @@ draft: true
 
 ## Province
 
-- [Gallia Narbonensis]({{<relref "..">}}) 
+- [Gallia Narbonensis]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
 
 ## Province Description
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location
 
-- [alba_helviorum]({{<relref ".">}}) 
+- [alba_helviorum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="167629" name="alba_helviorum" >}}
 
 ## Location Description
@@ -47,7 +47,7 @@ Le Pinard, House B
 ## House Description
 
 
-This house is also 120 southwest of the theater, in front of house A.  Excavated in 1967-1968, the parcel covers 450 sq m, with a useful covered surface of 401.5 sq m.  It was constructed in the second century.  Only the southwest corner is known; the rest is lost or not excavated.  
+This house is also 120 southwest of the theater, in front of house A.  Excavated in 1967-1968, the parcel covers 450 sq m, with a useful covered surface of 401.5 sq m.  It was constructed in the second century.  Only the southwest corner is known; the rest is lost or not excavated.
 
 On entering from the east-west street, after passing through two incidental rooms, one comes into a vast space [1] occupied by a pool of about 2.5 x 3.5 m connected by a ditch to the sewer in the street.  This room, in which some see an atrium (?), may be a vestibule with pool connecting with the entrance of which the tower may have been treated as a garden (?). [This makes no sense to me; how can a tower be treated as a garden?  Maybe "tour" (tower) was supposed to be "cour" (courtyard).]
 

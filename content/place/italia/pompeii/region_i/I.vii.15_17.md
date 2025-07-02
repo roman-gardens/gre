@@ -12,11 +12,11 @@ draft: false
 ---
 
 ## Province
-- [Italia]({{<relref "../..">}}) 
+- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
-- [Pompeii]({{<relref "..">}}) 
+- [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
@@ -64,8 +64,8 @@ Excavated 1868 and 1927.
 
 ## Bibliography
 
-Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, p. 41. [(worldcat)](https://search.worldcat.org/title/222353569)  
-Soprano, P. 1950. *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei*, p. 296, no. 6.  
+Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, p. 41. [(worldcat)](https://search.worldcat.org/title/222353569)
+Soprano, P. 1950. *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei*, p. 296, no. 6.
 
 ## Places
 

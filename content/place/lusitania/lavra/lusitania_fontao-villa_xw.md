@@ -4,7 +4,7 @@ aliases: [/id/2602fe8dc1]
 type: garden
 title: "Fontao Villa"
 latlon: [ 0, 0 ]
-author: 
+author:
 editor: Xingjian Wang
 date: 2021-04-21
 modified: 2025-06-29
@@ -22,7 +22,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 ## Location
 
-- [Lavra]({{<relref ".">}}) 
+- [Lavra]({{<relref ".">}})
 
 ## Garden
 Fontao Villa

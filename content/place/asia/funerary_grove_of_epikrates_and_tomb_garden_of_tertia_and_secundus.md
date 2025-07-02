@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Nakrason]({{<relref ".">}}) 
+- [Nakrason]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="550767" name="Nakrason" >}}
 
 ## Garden

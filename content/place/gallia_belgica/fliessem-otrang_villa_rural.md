@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [FLIESSEM-OTRANG  (Germany)]({{<relref ".">}}) 
+- [FLIESSEM-OTRANG  (Germany)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="108982" name="Römische Villa Otrang" >}}
 
 
@@ -40,7 +40,7 @@ Rural Villa
 
 This *villa rustica* was built on the slope of a hill about 30 kilometers north of Colonia Augusta Treverorum, close to the Roman road from Trier to Cologne, now B 51/E29. It is a kilometer or two south of the village of Fliessem. The original core of the villa is of second century date, but the building was enlarged considerably in the third century to take up an area of 4225 square meters (Fig. 1). It was occupied until around AD 400. The house (A on plan) occupied a position at the eastern end of the property, and in its final state it measured 60 x 60 meters and had 66 rooms, many of them decorated with *mosaic* floors. On the northern and southern sides were *porticoes*, and from the southern *portico* with its pavilions a view of the valley below was afforded.
 
- The entrance to the house on the west was flanked by two protruding pavilions framing an open courtyard. Immediately to the west of this was another open *courtyard* enclosed by a wall. It might be expected, even if the evidence is sparse, that a garden or park was laid out at least in front of the entrance at the west (G on plan).
+The entrance to the house on the west was flanked by two protruding pavilions framing an open courtyard. Immediately to the west of this was another open *courtyard* enclosed by a wall. It might be expected, even if the evidence is sparse, that a garden or park was laid out at least in front of the entrance at the west (G on plan).
 <!-- Text comes from draft file-->
 
 

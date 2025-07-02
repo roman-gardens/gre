@@ -13,7 +13,7 @@ draft: false
 
 ## Location
 
-- [Gatcombe]({{<relref ".">}}) 
+- [Gatcombe]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="79477" name="Gatcombe" >}}
 
 ## Garden

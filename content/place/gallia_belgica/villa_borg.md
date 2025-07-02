@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [BORG (Germany)]({{<relref ".">}}) 
+- [BORG (Germany)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="272861914" name="Borg Roman villa" >}}
 
 ## Garden

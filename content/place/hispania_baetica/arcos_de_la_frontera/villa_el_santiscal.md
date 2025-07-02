@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Arcos De La Frontera]({{<relref ".">}}) 
+- [Arcos De La Frontera]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="255981" name="Arcos De La Frontera" >}}
 
 ## Garden
@@ -62,6 +62,6 @@ unspecified
 
 ## Places
 
-- [El Santiscal]({{<relref ".">}}) 
+- [El Santiscal]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="256436" name="El Santiscal" >}}
 - {{< id vocab="TGN" id="1061772" name="Arcos de la Frontera (inhabited place)" >}}

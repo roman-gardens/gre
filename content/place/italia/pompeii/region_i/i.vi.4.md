@@ -12,11 +12,11 @@ draft: false
 ---
 
 ## Province
-- [Italia]({{<relref "../..">}}) 
+- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
-- [Pompeii]({{<relref "..">}}) 
+- [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
@@ -55,9 +55,9 @@ Excavated 1873-1874.
 
 ## Bibliography
 
-* Della Corte, M. 1913. *NSc*, pp. 356-357 and fig. 1 on p.356. [(worldcat)](https://search.worldcat.org/title/859831184)  
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 35. [(worldcat)](https://search.worldcat.org/title/921816405).    
-* Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, pp. 446 and fig. 493 (plan) on p. 433.  
+* Della Corte, M. 1913. *NSc*, pp. 356-357 and fig. 1 on p.356. [(worldcat)](https://search.worldcat.org/title/859831184)
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 35. [(worldcat)](https://search.worldcat.org/title/921816405).
+* Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, pp. 446 and fig. 493 (plan) on p. 433.
 
 
 ## Places

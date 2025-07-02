@@ -20,7 +20,7 @@ draft: true
 
 ## Location
 
-- [BRIORD]({{<relref ".">}}) 
+- [BRIORD]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="167693" name="Brioratis" >}}
 
 ## Location Description

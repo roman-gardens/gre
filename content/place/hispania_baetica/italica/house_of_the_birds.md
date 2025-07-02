@@ -4,7 +4,7 @@ aliases: [/id/73d1a43068]
 type: garden
 title: "House of the Birds"
 latlon: [ 0, 0 ]
-author: 
+author:
 editor: Lai Ching Tsui
 date: 2021-04-21
 modified: 2025-06-29
@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Italica]({{<relref ".">}}) 
+- [Italica]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="256231" name="Italica" >}}
 
 ## Location Description
@@ -74,7 +74,7 @@ unspecified
 
 
 ## Places
-- [House of the Birds at Italica]{{<relref ".">}}) 
+- [House of the Birds at Italica]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="623258561" name="House of the Birds at Italica" >}}
 - {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}
 

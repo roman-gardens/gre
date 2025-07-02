@@ -4,7 +4,7 @@ aliases: [/id/934a73b6ab]
 type: garden
 title: "Sanctuary"
 latlon: [ 37.713343, -5.740734 ]
-author: 
+author:
 editor: Lai Ching Tsui
 date: 2021-04-21
 modified: 2025-06-29
@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Munigua]({{<relref ".">}}) 
+- [Munigua]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="256318" name="Munigua" >}}
 
 ## Garden
@@ -56,7 +56,7 @@ unspecified
 
 
 ## Places
-- [Munigua]{{<relref ".">}}) 
+- [Munigua]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="256318" name="Munigua" >}}
 - {{< id vocab="TGN" id="7027137" name="Castillo de Mulva (deserted settlement)" >}}
 

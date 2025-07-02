@@ -12,7 +12,7 @@ draft: false
 ---
 
 ## Location
-- [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) 
+- [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
@@ -57,7 +57,7 @@ The location of the cooking area behind the bench or table is logical.  Homes at
 
 The gardens in Tunisia were not preserved at an exact moment in history, as were those in the Vesuvian area.  The trees and shrubs in Tunisian gardens would have continued to grow for some time after the site was abandoned.  What was uncovered in 1990 was not the garden at its prime.  Some of the smaller roots may have been those of seedlings that grew from unpicked fruit that fell from the trees.
 
-The trees in this garden were probably food bearing trees.  Ancient Tunisia had few other trees.  They knew the palm, pine and cypress, but these trees would have been overpowering in such a small garden.  The two large tree-root cavities (on the right in Fig. 3) are the proper size and shape for olive trees.  The middle tree on the left was perhaps a fig tree; the tree in the south corner of the garden may have been an apricot.  The smaller trees were probably fruit or nut trees.  The ancient Tunisians knew the quince, pomegranate, plum, citron, peach, apple, pear and grape – all pictured in the mosaics.  There may also have been a few grapes raised for table use in this garden.  
+The trees in this garden were probably food bearing trees.  Ancient Tunisia had few other trees.  They knew the palm, pine and cypress, but these trees would have been overpowering in such a small garden.  The two large tree-root cavities (on the right in Fig. 3) are the proper size and shape for olive trees.  The middle tree on the left was perhaps a fig tree; the tree in the south corner of the garden may have been an apricot.  The smaller trees were probably fruit or nut trees.  The ancient Tunisians knew the quince, pomegranate, plum, citron, peach, apple, pear and grape – all pictured in the mosaics.  There may also have been a few grapes raised for table use in this garden.
 
 We next consider the identity of the many smaller roots.  Since this garden was viewed from the large formal dining room, an effort would have been made to make it beautiful all year round.  Fruit trees would have been beautiful in flower or fruit but they are deciduous.  Only the olive tree is evergreen.  Ornamental plant material in ancient Roman gardens was extremely limited, but the majority of the plants were evergreen and produced beautiful gardens in every season, welcome in winter and refreshingly cool in summer.  The plant material in Tunisia was limited for the most part to the laurel, myrtle, rosemary, laurustinus, oleander, acanthus and ivy.  There does not seem to be a place in this garden for ivy, but any of the other plants could have been used.  Roman gardens had few flowers, especially with color.  Roses are pictured in Tunisian mosaics and they may have been used in this garden. The oleander (Nerium oleander L.) with its striking pink flowers is the only colorful garden shrub.  It is widespread in all Tunisia and tolerant of variable growing conditions.  It seems probable that oleanders, so prominent in modern Tunisian gardens, as well as in the wild, also added color to this garden.
 

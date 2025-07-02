@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Horrea Caelia]({{<relref ".">}}) 
+- [Horrea Caelia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="315041" name="Horrea Caelia" >}}
 
 ## Location Description
@@ -33,11 +33,11 @@ House of two peristyles (Maison aux deux péristyles)
 - {{< keyword "balnea" >}}
 
 ## Garden Description
- This large house (850 to 900m²) was built on the sea front and was laid out around a peristyle garden. The eastern part of the *domus* was destroyed by the sea; the western portico is complete, only a part of the north and south porticoes of the peristyle have survived. The peristyle was approximately 200 m² and its porticoes were separated from the garden by a low wall to which a basin was later added.
+This large house (850 to 900m²) was built on the sea front and was laid out around a peristyle garden. The eastern part of the *domus* was destroyed by the sea; the western portico is complete, only a part of the north and south porticoes of the peristyle have survived. The peristyle was approximately 200 m² and its porticoes were separated from the garden by a low wall to which a basin was later added.
 
- The house has known some modifications, one of which was the construction of a private bath that may have had a peristyle garden. The house was occupied between the second and the fourth centuries.
+The house has known some modifications, one of which was the construction of a private bath that may have had a peristyle garden. The house was occupied between the second and the fourth centuries.
 
- When the house was transformed into a church, during the middle of the IVth century, the garden of the peristyle may have been maintained.
+When the house was transformed into a church, during the middle of the IVth century, the garden of the peristyle may have been maintained.
 
 
 ## Maps

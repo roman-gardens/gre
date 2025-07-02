@@ -4,7 +4,7 @@ aliases: [/id/5eba2c564c]
 type: place
 title: "Macedonia"
 date: 2020-07-16
-author: 
+author:
 editor: Amartya Shri
 modified: 2025-06-29
 draft: true
@@ -33,6 +33,6 @@ draft: true
 
 ## Places
 
-- [Macedonia (Roman province)]({{<relref ".">}}) 
+- [Macedonia (Roman province)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="981531" name="Macedonia (Roman province)" >}}
 - {{< id vocab="TGN" id="7001349" name="Macedonia (former nation/state/empire)" >}}

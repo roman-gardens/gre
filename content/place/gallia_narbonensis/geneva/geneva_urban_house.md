@@ -13,7 +13,7 @@ draft: true
 
 ## Province
 
-- [Gallia_narbonensis]({{<relref "..">}}) 
+- [Gallia_narbonensis]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
 
 <!-- ## Province Description -->
@@ -21,7 +21,7 @@ draft: true
 
 ## Location
 
-- [Genava, ((Geneva, France)]({{<relref ".">}}) 
+- [Genava, ((Geneva, France)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="177528" name="Genava" >}}
 
 ## Location Description

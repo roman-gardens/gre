@@ -13,7 +13,7 @@ draft: false
 
 ## Location
 
-- [Darenth]({{<relref ".">}}) 
+- [Darenth]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="79413" name="Darenth" >}}
 
 ## Garden

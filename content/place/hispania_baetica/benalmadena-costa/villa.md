@@ -4,7 +4,7 @@ aliases: [/id/80f99c3405]
 type: garden
 title: "Villa"
 latlon: [ 0, 0 ]
-author: 
+author:
 editor: Lai Ching Tsui
 date: 2021-04-21
 modified: 2025-06-29
@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Benalmadena-Costa]({{<relref ".">}}) 
+- [Benalmadena-Costa]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="510567671" name="Benalmadena-Costa" >}}
 
 ## Garden
@@ -26,7 +26,7 @@ Villa
 
 ## Garden Description
 
-At the rear of this villa there is a grand *euripus* running the length of the large rectangular garden.  
+At the rear of this villa there is a grand *euripus* running the length of the large rectangular garden.
 
 
 ## Maps
@@ -55,5 +55,5 @@ unspecified
 * Mª L. Loza Azuaga,'La escultura de fuentes en Hispania: ejemplos de la Bética, *Actas de la I Reunión sobre escultura romana en Hispania*, (Mérida, 1993), 97-110.[(worldcat)](https://search.worldcat.org/title/884615852)
 
 ## Places
-- [Benalroma]{{<relref ".">}}) 
+- [Benalroma]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="510567671" name="Benalroma" >}}

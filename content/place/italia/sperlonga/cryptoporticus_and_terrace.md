@@ -14,7 +14,7 @@ draft: true
 ## Location
 
 [Italia]({{<relref "../../../..">}})
-[Villa Tiberii](https://pleiades.stoa.org/places/433204)
+- {{< id vocab="Pleiades" id="433204" name="Villa Tiberii" >}}
 
 ## Sublocation
 Sperlonga

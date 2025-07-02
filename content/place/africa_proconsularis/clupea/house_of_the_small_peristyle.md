@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Aspis/Clupea (Kelibia)]({{<relref ".">}}) 
+- [Aspis/Clupea (Kelibia)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="314892" name="Aspis/Clupea" >}}
 
 ## Location Description

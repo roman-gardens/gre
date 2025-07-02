@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Oberentfelden]({{<relref ".">}}) 
+- [Oberentfelden]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="177596" name="Oberentfelden" >}}
 
 ## Garden

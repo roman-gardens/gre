@@ -22,7 +22,7 @@ Italia was not considered a province until the reign of Diocletian. The peninsul
 
 ## Location
 
-- [Rome]({{<relref ".">}}) 
+- [Rome]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="108867" name="Rome" >}}
 
 ## Location Description
@@ -30,7 +30,7 @@ Italia was not considered a province until the reign of Diocletian. The peninsul
 <!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Sublocation
-- [Caelian Hill]({{<relref ".">}}) 
+- [Caelian Hill]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="695491849" name="Caelian Hill" >}}
 
 <!--

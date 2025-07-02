@@ -12,7 +12,7 @@ draft: false
 ---
 
 ## Location
-- [THUGGA (Dougga) Tunisia]({{<relref ".">}}) 
+- [THUGGA (Dougga) Tunisia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="315223" name="THUGGA (Dougga) Tunisia" >}}
 
 

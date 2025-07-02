@@ -4,7 +4,7 @@ aliases: [/id/91325c865c]
 type: garden
 title: "House of the Mithra"
 latlon: [ 37.487748, -4.459183 ]
-author: 
+author:
 editor: Lai Ching Tsui
 date: 2021-04-21
 modified: 2025-06-29
@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Egabrum]({{<relref ".">}}) 
+- [Egabrum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="265919" name="Egabrum" >}}
 
 ## Garden
@@ -66,7 +66,7 @@ unspecified
 
 
 ## Places
-- [Igabrum/Egabrum]{{<relref ".">}}) 
+- [Igabrum/Egabrum]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="265919" name="Igabrum/Egabrum" >}}
 - {{< id vocab="TGN" id="7007570" name="Cabra (inhabited place)" >}}
 

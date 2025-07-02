@@ -13,7 +13,7 @@ draft: false
 
 ## Location
 
-- [Fishbourne]({{<relref ".">}}) 
+- [Fishbourne]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="79466" name="Fishbourne" >}}
 
 ## Garden

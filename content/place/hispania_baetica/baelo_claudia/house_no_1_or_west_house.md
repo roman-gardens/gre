@@ -4,7 +4,7 @@ aliases: [/id/cd75bd9c0e]
 type: garden
 title: "House No. 1 or West House"
 latlon: [ 0, 0 ]
-author: 
+author:
 editor: Lai Ching Tsui
 date: 2021-04-21
 modified: 2025-06-29
@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Baelo Claudia]({{<relref ".">}}) 
+- [Baelo Claudia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="256005" name="Baelo Claudia" >}}
 
 ## Location Description
@@ -65,7 +65,7 @@ unspecified
 
 
 ## Places
-- [House of the West at Baelo]{{<relref ".">}}) 
+- [House of the West at Baelo]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="574194294" name="House of the West at Baelo" >}}
 - {{< id vocab="TGN" id="8712326" name="Baelo Claudia (deserted settlement)" >}}
 

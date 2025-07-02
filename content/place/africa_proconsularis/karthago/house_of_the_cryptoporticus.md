@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Karthago]({{<relref ".">}}) 
+- [Karthago]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="314921" name="Karthago" >}}
 
 ## Location Description
@@ -33,9 +33,9 @@ House of the Cryptoporticus (Maison du Cryptoportique)
 
 
 ## Garden Description
- The house of the Cryptoporticus occupies the hill of the Odeon on the insula that is located between the decumani N IV and V and the kardines E IX and X.
+The house of the Cryptoporticus occupies the hill of the Odeon on the insula that is located between the decumani N IV and V and the kardines E IX and X.
 
- The house is organized around a peristyle garden (15,60 x 16,9 m) with a grand oecus of 200m² paved with opus sectile opening into it (Plan view, Fig. 1). The house dates from the I-Vth c.
+The house is organized around a peristyle garden (15,60 x 16,9 m) with a grand oecus of 200m² paved with opus sectile opening into it (Plan view, Fig. 1). The house dates from the I-Vth c.
 
 
 ## Maps

@@ -13,7 +13,7 @@ draft: false
 
 ## Location
 
-- [Isthmia]({{<relref ".">}}) 
+- [Isthmia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="570316" name="Isthmia" >}}
 
 ## Garden

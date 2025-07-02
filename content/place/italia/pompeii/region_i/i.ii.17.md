@@ -12,11 +12,11 @@ draft: false
 ---
 
 ## Province
-- [Italia]({{<relref "../..">}}) 
+- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
-- [Pompeii]({{<relref "..">}}) 
+- [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
@@ -50,26 +50,26 @@ B. The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the east
 
 ## Bibliography
 
-* Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 22 [(worldcat)](https://search.worldcat.org/title/892026154)  
-* De Franciscis, A. 1951. *Il ritratto romano a Pompei*, p. 25 and figs. 10-11 [(worldcat)](https://search.worldcat.org/title/2080923)  
-* Dwyer, E.J. 2010. *Pompeii's living statues: ancient Roman lives stolen from death*, p. 124, 127   [(worldcat)](https://search.worldcat.org/title/885382781)  
-* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 44 [(worldcat)](https://search.worldcat.org/title/9528380)    
-* GiornSc, n.s., 1874-1877, 3, cols. 46-47, 48, 55  
-* Grimal, P. 1969. *Les jardins romaines*, p. 445, no.1  
-* Jashemski, W.F. 1979, *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius,* pp. 124-125 [(worldcat)](https://search.worldcat.org/title/312003872)  
-* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 23-24, 313 [(worldcat)](https://search.worldcat.org/title/222353569)  
-* Mau, A. 1873. *BdI*, pp. 233-235  
-* Mau, A. 1874. *BdI*, pp.265-266  
-* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 76  
-* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. III*, p. 6, plate no.14  
-* Reinach, S. 1904. *Répertoire de la Statuaire Grecque et Romaine*, p. 378 [(worldcat)](https://search.worldcat.org/title/162793550)  
-* Sogliano, A. 1879. *Le pitture murali campane scoverte negli anni 1867-79*, p. 223, no. 691  
-* Sogliano, A. 1883. *Notizie degli Scavi*, p. 310   
-* Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, pp. 12, 76, no.1, p. 77, nos. 5, 12, p.79, nos. 45, 46 [(worldcat)](https://search.worldcat.org/title/254502217)  
-* Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, no. 32 [(worldcat)](https://search.worldcat.org/title/974375313)  
+* Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 22 [(worldcat)](https://search.worldcat.org/title/892026154)
+* De Franciscis, A. 1951. *Il ritratto romano a Pompei*, p. 25 and figs. 10-11 [(worldcat)](https://search.worldcat.org/title/2080923)
+* Dwyer, E.J. 2010. *Pompeii's living statues: ancient Roman lives stolen from death*, p. 124, 127   [(worldcat)](https://search.worldcat.org/title/885382781)
+* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 44 [(worldcat)](https://search.worldcat.org/title/9528380)
+* GiornSc, n.s., 1874-1877, 3, cols. 46-47, 48, 55
+* Grimal, P. 1969. *Les jardins romaines*, p. 445, no.1
+* Jashemski, W.F. 1979, *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius,* pp. 124-125 [(worldcat)](https://search.worldcat.org/title/312003872)
+* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 23-24, 313 [(worldcat)](https://search.worldcat.org/title/222353569)
+* Mau, A. 1873. *BdI*, pp. 233-235
+* Mau, A. 1874. *BdI*, pp.265-266
+* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 76
+* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. III*, p. 6, plate no.14
+* Reinach, S. 1904. *Répertoire de la Statuaire Grecque et Romaine*, p. 378 [(worldcat)](https://search.worldcat.org/title/162793550)
+* Sogliano, A. 1879. *Le pitture murali campane scoverte negli anni 1867-79*, p. 223, no. 691
+* Sogliano, A. 1883. *Notizie degli Scavi*, p. 310
+* Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, pp. 12, 76, no.1, p. 77, nos. 5, 12, p.79, nos. 45, 46 [(worldcat)](https://search.worldcat.org/title/254502217)
+* Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, no. 32 [(worldcat)](https://search.worldcat.org/title/974375313)
 
 ## Places
-[Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
+- {{< id vocab="Pleiades" id="222138654" name="Regio I, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

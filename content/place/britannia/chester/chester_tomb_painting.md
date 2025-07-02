@@ -13,7 +13,7 @@ draft: false
 
 ## Location
 
-[Chester]({{<relref ".">}})  
+[Chester]({{<relref ".">}})
 
 ## Garden
 

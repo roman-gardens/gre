@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Patavium]({{<relref "../../..">}}) 
+- [Patavium]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="393473" name="Patavium" >}}
 
 ## Sublocation

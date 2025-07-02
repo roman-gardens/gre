@@ -4,7 +4,7 @@ aliases: [/id/cbc00aa8f3]
 type: garden
 title: "Public Square"
 latlon: [ 0, 0 ]
-author: 
+author:
 editor: Lai Ching Tsui
 date: 2021-04-21
 modified: 2025-06-29
@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Italica]({{<relref ".">}}) 
+- [Italica]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="256231" name="Italica" >}}
 
 ## Location Description
@@ -57,7 +57,7 @@ unspecified
 
 
 ## Places
-- [Public Square at Italica]{{<relref ".">}}) 
+- [Public Square at Italica]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="810966695" name="Public Square at Italica" >}}
 - {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}
 

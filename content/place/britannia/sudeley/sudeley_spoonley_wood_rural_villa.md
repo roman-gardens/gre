@@ -13,7 +13,7 @@ draft: false
 
 ## Location
 
-- [Sudeley/Spoonley Wood]({{<relref ".">}}) 
+- [Sudeley/Spoonley Wood]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="79693" name="Sudeley/Spoonley Wood" >}}
 
 ## Garden

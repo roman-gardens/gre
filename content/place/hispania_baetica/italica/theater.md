@@ -4,7 +4,7 @@ aliases: [/id/c72ff9e782]
 type: garden
 title: "theaters"
 latlon: [ 0, 0 ]
-author: 
+author:
 editor: Lai Ching Tsui
 date: 2021-04-21
 modified: 2025-06-29
@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Italica]({{<relref ".">}}) 
+- [Italica]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="256231" name="Italica" >}}
 
 ## Location Description
@@ -63,7 +63,7 @@ unspecified
 
 
 ## Places
-- [2224658206]{{<relref ".">}}) 
+- [2224658206]{{<relref ".">}})
 <!-- {{< id vocab="Pleiades" id="224658206" name="224658206" >}} is invalid -->
 - {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}
 

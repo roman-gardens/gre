@@ -14,11 +14,11 @@ draft: true
 
 ## Province
 
-- [Italia]({{<relref "../..">}}) 
+- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 ## Location
 
-- [Herculaneum]({{<relref "..">}}) 
+- [Herculaneum]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
 ## Location Description

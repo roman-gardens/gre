@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Andematunnum]({{<relref ".">}}) 
+- [Andematunnum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="177441" name="Andematunnum" >}}
 
 ## Garden

@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Augusta Raurica]({{<relref ".">}}) 
+- [Augusta Raurica]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="177494" name="Augusta Raurica" >}}
 
 ## Location Description

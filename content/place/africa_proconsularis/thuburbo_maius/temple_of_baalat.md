@@ -12,7 +12,7 @@ draft: false
 ---
 
 ## Location
-- [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}}) 
+- [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
@@ -24,7 +24,7 @@ The city occupies the slopes of a hill in a fertile grain producing area about 5
 
 ## Garden
 
-Temple of Baalat (Temple de Balaat)  
+Temple of Baalat (Temple de Balaat)
 
 ## Keywords
 

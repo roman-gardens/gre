@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Vardagate]({{<relref "../../..">}}) 
+- [Vardagate]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="383809" name="Vardagate" >}}
 
 ## Sublocation

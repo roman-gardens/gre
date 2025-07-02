@@ -13,7 +13,7 @@ draft: true
 
 ## Province
 
-- [Gallia_narbonensis]({{<relref "..">}}) 
+- [Gallia_narbonensis]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
 
 ## Province Description
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location
 
-- [nemausus]({{<relref ".">}}) 
+- [nemausus]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="148142" name="Nemausus" >}}
 
 ## Location Description

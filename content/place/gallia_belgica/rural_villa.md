@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [BAD DURKHEIM-UNGSTEIN (Germany)]({{<relref ".">}}) 
+- [BAD DURKHEIM-UNGSTEIN (Germany)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="108784" name="Bad Dürkheim" >}}
 
 ## Garden

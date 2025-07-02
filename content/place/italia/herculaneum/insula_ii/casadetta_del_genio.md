@@ -14,17 +14,18 @@ draft: true
 
 ## Province
 
-- [Italia]({{<relref "../..">}}) 
+- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 
 ## Location
 
- [Herculaneum]({{<relref "..">}}) \
- [Herculaneum](https://pleiades.stoa.org/places/432873)
+- [Herculaneum]({{<relref "..">}}) \
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
 ## Location Description
-  An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
+
+An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 
 ## Insula
@@ -44,7 +45,7 @@ Casadetta del Genio
 
 This house was partially excavated in 1829-1830 and again in 1850. The *portico* had a floor on the east slightly lower than the sections on the north and south. A pool (a) was located in the center of the garden with a semi-circular extension on the east end and two small marble posts which probably held herms. The pool measured 2.35 m. wide, 0.87 m. deep and was only excavated to a length of 6.50 m.
 
- <!--## Maps-->
+<!--## Maps-->
 
 ## Plans
 

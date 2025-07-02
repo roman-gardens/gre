@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Xanten]({{<relref ".">}}) 
+- [Xanten]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="108896" name="Xanten" >}}
 
 ## Sublocation
@@ -21,7 +21,7 @@ Industrial quarter
 
 ## Sublocation Description
 
-This *insula* southeast of the *forum* is commonly referred to as an industrial quarter (Plan 1). It was divided into several long, narrow plots on which were houses, shops and workshops.  
+This *insula* southeast of the *forum* is commonly referred to as an industrial quarter (Plan 1). It was divided into several long, narrow plots on which were houses, shops and workshops.
 
 ## Garden
 

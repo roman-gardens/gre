@@ -12,13 +12,13 @@ draft: true
 ---
 
 ## Province
-- [Hispania Tarraconensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981551" name="Tarraconensis(Pleiades)" >}}
+- [Hispania Tarraconensis]({{<relref "..">}})
+- {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
 
 ## Province Description
 In 236 BC, to offset Carthage's loss of Sicily and Sardinia in the First Punic War, Hamilcar Barca led an expedition into Hispania to establish a colony there.  Through force of arms and diplomacy, he spread Carthaginian influence as far north as Barcellona, which bears his name.   In 230 BC, Hasdrubal, his son-in-law, established Qart Hadast that became Carthago Nova in Roman times and Cartagena today.  After the death of Hasdrubal, Hannibal, Hamilcar's oldest son, took command, attacked Saguntum, and in 218 set out for Italy leaving his younger brother, Hasdrubal, in command in Spain.  Through the Alps, he descended into Italy and threatened Rome for fourteen years.  Roman armies under the brothers Gnaeus and Publius Cornelius Scipio kept Hasdrubal in check and prevented his reinforcing Hannibal. They were both killed by the Carthaginians in 212.  Two years later, another Publius Cornelius Scipio, the  25-year-old son of the late general of the same name, was sent to Spain.  The next year, he captured New Carthage and, in 206 at the battle of Ilipa (about 15 km north of Savilla) destroyed most of the Carthaginians' numerically superior army and ended their hold on Spain.  Scipio settled his wounded veterans nearby at a place he called Italica to remind them of their origins.  Today, it is one of the best Roman archaeological sites in Italy.   After a quick trip back to Rome, where he was elected consul, he returned to Spain and went on to attack Carthage itself.  Hannibal was recalled to Africa, but Scipio annihilated his army in 202.  Rome thus came into possession of the Mediterranean coast of Iberia.
 
-If Rome was drawn into Hispania to keep the Carthaginians there from supporting Hannibal in Italy, it missed the opportunity offered by Hannibal's defeat to get out of Spain honorably.   Instead, in 197 BC it created two new Roman provinces, Hispania Citerior whose capital was Carthago Nova and Hispania Ulterior with Corduba as its capital.  Soon after, Rome launched a long war to subjugate the Lusitani, Celtiberians on the west coast.  During Sulla's dictatorship, the Lusitani were again in revolt, this time under the able leadership of the Roman general Quintus Sertorius, who sought to create an independent, Roman-like state in Hispania. He established a senate and schools for the sons of the local nobility.  
+If Rome was drawn into Hispania to keep the Carthaginians there from supporting Hannibal in Italy, it missed the opportunity offered by Hannibal's defeat to get out of Spain honorably.   Instead, in 197 BC it created two new Roman provinces, Hispania Citerior whose capital was Carthago Nova and Hispania Ulterior with Corduba as its capital.  Soon after, Rome launched a long war to subjugate the Lusitani, Celtiberians on the west coast.  During Sulla's dictatorship, the Lusitani were again in revolt, this time under the able leadership of the Roman general Quintus Sertorius, who sought to create an independent, Roman-like state in Hispania. He established a senate and schools for the sons of the local nobility.
 
 Augustus's conquest of Hispania produced a new territorial division that replaced the earlier two-province organization of the region.  Augustus divided the whole of the peninsula into three provinces: Hispania Citerior or Tarraconensis, with its capital Tarraco (Tarragona); Hispania Ulterior Baetica, with its capital Corduba (Córdoba); and Hispania Ulterior Lusitania, or Emerita Augusta, with its capital Mérida.  The provinces, in turn, were subdivided in administrative legal units, or conventus. The western lands stayed part of the newly demarcated Lusitania, areas into which Romanization had hardly penetrated, in contrast to the other areas of the peninsula where the classical tradition had been incorporated quite early.  This division lasted until late antiquity, when Tarraconensis was subdivided into three provinces: Tarraconensis, whose capital continued to be Tarraco (Tarragona), Carthaginiensis, with Carthago Nova (Catagena) as its capital, and Gallaecia, whose capital was Bracara Augusta (Braga, in northern Portugal).
 
@@ -39,7 +39,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Location
-- [Santa Lucia]({{<relref "..">}}) 
+- [Santa Lucia]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="767191138" name="Santa Lucia" >}}
 
 ## Garden
@@ -53,7 +53,7 @@ Villa of Santa Lucia
 
 ## Garden Description
 
-Excavation in 1968 – 1972 at this site, which has been reburied, revealed over half the area of a large, fourth century villa, laid out around a central *peristyle* garden (31.2 x 28.8 m). The excavations exposed the western half of the site while samples and trenches established the broad outlines of the eastern half. The oecus on the north side had a good view of the garden. Directly across from it were double-horseshoe-shaped baths on the south.  Though mosaics are few, other finds indicate that the villa saw an intense and brilliant use during the fourth century and into the fifth, when there are signs of remodelling.    The villa was briefly abandoned in Visigoth times, the in the mid-3rd century used as a necropolis.  
+Excavation in 1968 – 1972 at this site, which has been reburied, revealed over half the area of a large, fourth century villa, laid out around a central *peristyle* garden (31.2 x 28.8 m). The excavations exposed the western half of the site while samples and trenches established the broad outlines of the eastern half. The oecus on the north side had a good view of the garden. Directly across from it were double-horseshoe-shaped baths on the south.  Though mosaics are few, other finds indicate that the villa saw an intense and brilliant use during the fourth century and into the fifth, when there are signs of remodelling.    The villa was briefly abandoned in Visigoth times, the in the mid-3rd century used as a necropolis.
 
 
 ## Dates

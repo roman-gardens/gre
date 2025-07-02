@@ -12,11 +12,11 @@ draft: false
 ---
 
 ## Province
-- [Italia]({{<relref "../..">}}) 
+- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
-- [Pompeii]({{<relref "..">}}) 
+- [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
@@ -42,13 +42,13 @@ This humble house was excavated in 1873. It had no garden but the [impluvium](ht
 
 ## Bibliography
 
-* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 42 [(worldcat)](https://search.worldcat.org/title/9528380)   
-* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 22 [(worldcat)](https://search.worldcat.org/title/222353569)  
-* Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 12  
+* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 42 [(worldcat)](https://search.worldcat.org/title/9528380)
+* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 22 [(worldcat)](https://search.worldcat.org/title/222353569)
+* Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 12
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*
 
 ## Places
-[Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
+- {{< id vocab="Pleiades" id="222138654" name="Regio I, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

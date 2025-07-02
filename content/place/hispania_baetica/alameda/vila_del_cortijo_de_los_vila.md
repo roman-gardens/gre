@@ -4,7 +4,7 @@ aliases: [/id/d641fc022c]
 type: garden
 title: "Villa del Cortijo de los Vila"
 latlon: [ 37.216462, -4.657951 ]
-author: 
+author:
 editor: Lai Ching Tsui
 date: 2021-04-21
 modified: 2025-06-29
@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Alameda]({{<relref ".">}}) 
+- [Alameda]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="270382" name="Alameda" >}}
 
 ## Location Description
@@ -62,7 +62,7 @@ unspecified
 
 ## Places
 
-- [Villa del Cortijo de los Vila at Alameda]({{<relref ".">}}) 
+- [Villa del Cortijo de los Vila at Alameda]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="521700444" name="Villa del Cortijo de los Vila at Alameda" >}}
 - {{< id vocab="TGN" id="1061700" name="Alameda (inhabited place)" >}}
 

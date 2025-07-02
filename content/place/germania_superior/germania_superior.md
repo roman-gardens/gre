@@ -40,7 +40,7 @@ c. AD 85
 
 ## Places
 
-- [Germania Superior]({{<relref ".">}}) 
+- [Germania Superior]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="981525" name="Germania Superior" >}}
 - {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
 

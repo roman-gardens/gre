@@ -13,7 +13,7 @@ draft: true
 
 ## Province
 
-- [Gallia Narbonensis]({{<relref "..">}}) 
+- [Gallia Narbonensis]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
 
 ## Province Description
@@ -22,7 +22,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location
 
-- [alba_helviorum]({{<relref ".">}}) 
+- [alba_helviorum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="167629" name="alba_helviorum" >}}
 
 ## Location Description
@@ -48,9 +48,9 @@ Les Basaltes, House A
 ## House Description
 
 
-This house is in the eastern quarter of the town, near the temple of the Basaltes, 200 m to the west of the forum.  It lies 35 m to the south of the apparently private baths of la Planchette, near the temple of the Basaltes.  Excavated in 1983-1984, the walls are for the most part destroyed down to the level of the foundations.  The house covers an area of 632.5 sq m, with a usable covered surface of 356.9 sq m.  After a previous state not well known, it was rebuilt between 10 and 20 A.D.. It saw several phases before being abandoned at the end of the third century.  The eastern part of the house is unknown.  
+This house is in the eastern quarter of the town, near the temple of the Basaltes, 200 m to the west of the forum.  It lies 35 m to the south of the apparently private baths of la Planchette, near the temple of the Basaltes.  Excavated in 1983-1984, the walls are for the most part destroyed down to the level of the foundations.  The house covers an area of 632.5 sq m, with a usable covered surface of 356.9 sq m.  After a previous state not well known, it was rebuilt between 10 and 20 A.D.. It saw several phases before being abandoned at the end of the third century.  The eastern part of the house is unknown.
 
-At the end of the Augustan epoch, a courtyard occupied the southern part of the area, without doubt an area free of construction with an entrance porch on the south [7].  Later, it was rearranged with a space [4] on the west which was long considered agricultural.  
+At the end of the Augustan epoch, a courtyard occupied the southern part of the area, without doubt an area free of construction with an entrance porch on the south [7].  Later, it was rearranged with a space [4] on the west which was long considered agricultural.
 
 A peristyle [15] seems to be starting off towards the north, but its limits are unknown.  The stylobate delimiting the west branch of the portico [14] was constructed only in the Flavian period.  We know only the southwest corner of the peristyle, however the nature of the surface of the open space has not been ascertained.
 

@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Thessaloniki]({{<relref ".">}}) 
+- [Thessaloniki]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="491741" name="Thessaloniki" >}}
 
 ## Garden
@@ -52,7 +52,7 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 
 ## Bibliography
 
-:  IG X 2,1.608; J. Kubińska, *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure.* Warsaw, 1968, p. 146; P. Petsas, "AgrÒw, oﬁk€a, k∞pow, tÒpow," in J. H. Dell, ed. *Macedonian Studies in Honor of Charles F. Edson.* Thessaloniki, 1981, pp. 295-98; *Bull. Épigr.* 1963, 134; 1984, 252.  
+:  IG X 2,1.608; J. Kubińska, *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure.* Warsaw, 1968, p. 146; P. Petsas, "AgrÒw, oﬁk€a, k∞pow, tÒpow," in J. H. Dell, ed. *Macedonian Studies in Honor of Charles F. Edson.* Thessaloniki, 1981, pp. 295-98; *Bull. Épigr.* 1963, 134; 1984, 252.
 
 ## Places
 

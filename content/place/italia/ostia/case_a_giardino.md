@@ -13,12 +13,12 @@ draft: false
 
 ## Province
 
-- [Italia]({{<relref "..">}}) 
+- [Italia]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 
-- [Ostia]({{<relref ".">}}) 
+- [Ostia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="422995" name="Ostia" >}}
 
 ## Location Description
@@ -27,7 +27,7 @@ draft: false
 
 From the 2<sup>nd</sup> century BCE Ostia (and later [Portus](https://en.wikipedia.org/wiki/Portus)) was the main port for the landing of wheat and other foodstuffs destined for the markets of Rome. It was a lively and cosmopolitan port city, where the great cargo ships unloaded produce from all over the Mediterranean and beyond. At Ostia the freight was transferred to riverboats to be sent upriver to Rome. This thriving commercial activity was accompanied by demographic and economic growth and by the presence of people coming from all over the known world.
 
-Ostia is especially well known in archaeological and historical studies for its building history. The earliest Ostian houses are only known from sporadic traces, beginning from the 2nd century BCE. They were [*domus*](http://vocab.getty.edu/page/aat/300005506) of traditional type, both in the simplest version, of direct Italic derivation, with rooms arranged round the atrium, and in the more complex Roman-Hellenistic form, in which the peristyle with the garden was added (e.g. the [House of the Bucrania]({{<relref "./house_of_the_bucrania.md/">}})). They were single-family houses, generally single storied, or with an upper story limited to the height of the atrium.  
+Ostia is especially well known in archaeological and historical studies for its building history. The earliest Ostian houses are only known from sporadic traces, beginning from the 2nd century BCE. They were [*domus*](http://vocab.getty.edu/page/aat/300005506) of traditional type, both in the simplest version, of direct Italic derivation, with rooms arranged round the atrium, and in the more complex Roman-Hellenistic form, in which the peristyle with the garden was added (e.g. the [House of the Bucrania]({{<relref "./house_of_the_bucrania.md/">}})). They were single-family houses, generally single storied, or with an upper story limited to the height of the atrium.
 
 The transition to a different type of house was marked by the so-called peristyle house, such as the [House on the Via del Tempio Rotondo]({{<relref "./house_on_via_del_tempio_rotondo.md/">}}), which dates to the [Augustan period](https://en.wikipedia.org/wiki/Augustus), the one found below the [Schola of Trajan]({{<relref "./schola_of_trajan.md/">}}) (built 20-40 CE) and the [House of the Thunderbolt]({{<relref "./house_of_the_thunderbolt.md/">}}), datable to the [Vespasianic period](https://en.wikipedia.org/wiki/Vespasian) (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the [House of Fortuna Annonaria]({{<relref "./house_of_the_fortuna_annonaria.md/">}}), with its garden (140-190 CE).
 

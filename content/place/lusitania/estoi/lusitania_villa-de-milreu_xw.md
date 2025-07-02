@@ -4,7 +4,7 @@ aliases: [/id/2b7ce2f065]
 type: garden
 title: "Villa de Milreu"
 latlon: [ 0, 0 ]
-author: 
+author:
 editor: Xingjian Wang
 date: 2021-04-21
 modified: 2025-06-29
@@ -22,7 +22,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 ## Location
 
-- [Estoi]({{<relref ".">}}) 
+- [Estoi]({{<relref ".">}})
 
 ## Garden
 Villa de Milreu
@@ -35,13 +35,13 @@ Villa de Milreu
 
 The ruins of this villa are 0.9 km west of the center of Estoi.  Strabo (3.2.5) mentions Ossonoba as a town on an estuary in this part of Lusitania.  The Roman temple at the Milreu site, still standing to the springline of its vaults, always marked this spot as a Roman settlement, and many concluded that it must be Ossonoba.  Among those of this opinion was Sebastião Philippes Martins Estácio da Veiga, who first excavated the site in 1877.  He wrote that he had "brought to light the famous cathedral of Ossonoba." Controversy swirled over the identification of the ruins as it became increasingly clear that they were those of an affluent villa.  The dispute was not resolved until 1952 when Abel Viana produced irrefutable evidence that the ruins of Ossonoba lie under modern Faro.
 
-The entrance, to the south of the villa, was flanked by semicircular pools at the near ends of gardened strips.  Through a vestibule, one entered the peristyle (24.3 x 28.0 m).  In the center was a deep pool, but around it ample space for a garden.  The porticoes surrounding the peristyle were paved with mosaics. The late ones, from the mid-third century A.D., depict fish, dolphins, and mollusks with exceptional care; the earlier ones are primarily geometric.  In the fish, the tesserae get smaller around the head, teeth, and eyes. Given this interest in marine life, it seems likely that the deep pool in the garden had fish.  
+The entrance, to the south of the villa, was flanked by semicircular pools at the near ends of gardened strips.  Through a vestibule, one entered the peristyle (24.3 x 28.0 m).  In the center was a deep pool, but around it ample space for a garden.  The porticoes surrounding the peristyle were paved with mosaics. The late ones, from the mid-third century A.D., depict fish, dolphins, and mollusks with exceptional care; the earlier ones are primarily geometric.  In the fish, the tesserae get smaller around the head, teeth, and eyes. Given this interest in marine life, it seems likely that the deep pool in the garden had fish.
 
-On the west side of the peristyle, the triclinium was centered on the garden and its pool.  There are traces of stone bases for the three couches, so we can be sure that the room was for dining rather than reception or business.  At the west end, the triclinium had an apse.  Farther west, the land dropped off rapidly, so that there was an excellent view in that direction.  A walkway wrapped around the north, south, and west sides of the triclinium, to allow enjoyment of the vista.  It therefore seems likely that the area close to the house on the west side would have been gardened.  Moreover, there would have been plenty of water from the runoff of the baths, which were just next to the triclinium on the south.  
+On the west side of the peristyle, the triclinium was centered on the garden and its pool.  There are traces of stone bases for the three couches, so we can be sure that the room was for dining rather than reception or business.  At the west end, the triclinium had an apse.  Farther west, the land dropped off rapidly, so that there was an excellent view in that direction.  A walkway wrapped around the north, south, and west sides of the triclinium, to allow enjoyment of the vista.  It therefore seems likely that the area close to the house on the west side would have been gardened.  Moreover, there would have been plenty of water from the runoff of the baths, which were just next to the triclinium on the south.
 
-The peristyle of this villa was a productive one.  Five olive presses sat in the northwest corner of the peristyle but at a lower level. Wine presses were placed in a structure on the northeast corner of the peristyle. Much of this northeast area is now covered by a 15th century farmhouse.  The Roman structures beneath it have been excavated and are visible through the modern glass floors of the farmhouse, a clever and effective way to preserve and present the Roman material while also preserving the attractive and historic farmhouse.  
+The peristyle of this villa was a productive one.  Five olive presses sat in the northwest corner of the peristyle but at a lower level. Wine presses were placed in a structure on the northeast corner of the peristyle. Much of this northeast area is now covered by a 15th century farmhouse.  The Roman structures beneath it have been excavated and are visible through the modern glass floors of the farmhouse, a clever and effective way to preserve and present the Roman material while also preserving the attractive and historic farmhouse.
 
-The archaeologists working on the site have not produced a detailed sequence of phases.  Settlement on the site, however, seems to go back to the Bronze Age, while the first Roman structures date from the first century A.D.  The second and third centuries A.D. saw the villa assume approximately its present form. The fine marine mosaics, found not only around the peristyle but in several of the numerous pools, date from the mid-fourth century AD. The temple was contemporaneous and appears to have been originally pagan, though before the end of the century it had been converted to a Christian church.  
+The archaeologists working on the site have not produced a detailed sequence of phases.  Settlement on the site, however, seems to go back to the Bronze Age, while the first Roman structures date from the first century A.D.  The second and third centuries A.D. saw the villa assume approximately its present form. The fine marine mosaics, found not only around the peristyle but in several of the numerous pools, date from the mid-fourth century AD. The temple was contemporaneous and appears to have been originally pagan, though before the end of the century it had been converted to a Christian church.
 
 
 ## Maps

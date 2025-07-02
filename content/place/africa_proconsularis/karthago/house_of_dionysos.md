@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Karthago]({{<relref ".">}}) 
+- [Karthago]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="314921" name="Karthago" >}}
 
 ## Location Description
@@ -33,9 +33,9 @@ House of Dionysos
 - {{< keyword "basins" >}}
 
 ## Garden Description
- In this very damaged house, a portico on four sides (IV-VII) enclosed a court (VIII) (8 x 11.10 m), which was planted during the building's second phase dated at the fourth/early fifth century. The northeast and southwest porticos had four columns and the northwest and southeast had five columns.
+In this very damaged house, a portico on four sides (IV-VII) enclosed a court (VIII) (8 x 11.10 m), which was planted during the building's second phase dated at the fourth/early fifth century. The northeast and southwest porticos had four columns and the northwest and southeast had five columns.
 
- A low wall was added in between the columns that enclosed the garden. A semi-circular basin attached to a rectangular one oriented northeast/southwest (IX) was placed at the northeast end of the garden. (Plan view, Fig. 1). The house dates from the III-V c.
+A low wall was added in between the columns that enclosed the garden. A semi-circular basin attached to a rectangular one oriented northeast/southwest (IX) was placed at the northeast end of the garden. (Plan view, Fig. 1). The house dates from the III-V c.
 
 ## Maps
 

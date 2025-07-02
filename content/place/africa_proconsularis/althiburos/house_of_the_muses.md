@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Althiburos (Médeïna)]({{<relref ".">}}) 
+- [Althiburos (Médeïna)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="324664" name="Althiburos" >}}
 
 ## Location Description

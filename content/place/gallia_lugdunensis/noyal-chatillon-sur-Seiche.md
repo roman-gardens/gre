@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [NOYAL-CHATILLION-SUR-SEICHE (Ille-et-Vilaine, France)]({{<relref ".">}}) 
+- [NOYAL-CHATILLION-SUR-SEICHE (Ille-et-Vilaine, France)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="69488" name="Châtillon-sur-Seiche" >}}
 
 ## Garden
@@ -38,7 +38,7 @@ The evolution of this agricultural site can be followed from the period immediat
 
 From a period immediately following the Roman occupation (from 20 BC to about 40 AD) date a stone enclosure for animals, some agricultural walls, and remnants of a simple *barn.*
 
- A modest farmhouse (Phase 1) was built about A.D 30. To the south extended a *courtyard* (65 x 70 m), delimited by a *trench,* which may have had a garden. Outbuildings included a forge, a workshop, and three small homes with fireplaces.
+A modest farmhouse (Phase 1) was built about A.D 30. To the south extended a *courtyard* (65 x 70 m), delimited by a *trench,* which may have had a garden. Outbuildings included a forge, a workshop, and three small homes with fireplaces.
 
 About AD 80, the farmhouse was razed to make room for the first villa (Phase 2).Built of small stones, this villa consisted of five rooms in a line extending 26.5 meters along the north side of a gallery. A wall replaced the trench delimiting the *courtyard.* Outbuildings included a barn, a mill, and a chalk oven, in addition to the forge and homes.
 

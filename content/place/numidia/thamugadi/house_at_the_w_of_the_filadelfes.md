@@ -12,7 +12,7 @@ draft: false
 ---
 
 ## Province
-- [Numidia]({{<relref "..">}}) 
+- [Numidia]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
 
 ## Province Description
@@ -21,7 +21,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 
 ## Location
 
-- [Thamugadi]({{<relref ".">}}) 
+- [Thamugadi]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}
 
 {{< image file="timgad_city_plan_house_of_the_west_of_the_filadelfes.jpg" caption="Fig. 1: Plan of Thamugadi" credit="(Courtois, C., 1951)" alt="Plan of Thamugadi." >}}
@@ -41,7 +41,7 @@ House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)
 
 
 ## Garden Description
- This large house (2500m2) was laid out around two peristyles. The E peristyle had 12 columns onto which at least three rooms opened. The large peristyle on the W, was bordered by three porticos, its large courtyard may have been planted. Between the peristyles was placed a reception room that opened into each of them.
+This large house (2500m2) was laid out around two peristyles. The E peristyle had 12 columns onto which at least three rooms opened. The large peristyle on the W, was bordered by three porticos, its large courtyard may have been planted. Between the peristyles was placed a reception room that opened into each of them.
 
 ## Maps
 

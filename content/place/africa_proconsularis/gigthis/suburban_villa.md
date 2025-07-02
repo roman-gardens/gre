@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Gigthis (Bou Ghara)]({{<relref ".">}}) 
+- [Gigthis (Bou Ghara)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="344380" name="Gigthis" >}}
 
 ## Location Description

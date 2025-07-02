@@ -13,7 +13,7 @@ draft: true
 
 ## Province
 
-- [Gallia Narbonensis]({{<relref "..">}}) 
+- [Gallia Narbonensis]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
 
 <!-- ## Province Description -->
@@ -21,7 +21,7 @@ draft: true
 
 ## Location
 
-- [DIE, France]({{<relref ".">}}) 
+- [DIE, France]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="167716" name="DIE, France" >}}
 
 ## Location Description
@@ -38,7 +38,7 @@ Tomb garden of Publicius Calistus
 
 ## Garden Description
 
-A funerary monument found near Die and now on the terrace of the courthouse there records an epitaph of (probably) the second or third century consecrated (consecratum) by Publicius Calistus for himself, his wives, and his children and attaching to the tomb two thirds of an *arepennis* (a Gallic measure of land, equivalent to half a *iugerum*, about one quarter of an acre) of vineyard (i.e. about 830 m2), from the revenue of which, according to Hirschfeld's plausible interpretation in CIL, he wanted no fewer than fifteen *sextarii* of wine to be poured in libation to him annually (on what occasions he does not say) (*cum bese vineae arep(ennis), ex cuius reditu  omnib(us) annis prolibari volo ne minus* XV *v(ini ?) s(extaris ?)*).         
+A funerary monument found near Die and now on the terrace of the courthouse there records an epitaph of (probably) the second or third century consecrated (consecratum) by Publicius Calistus for himself, his wives, and his children and attaching to the tomb two thirds of an *arepennis* (a Gallic measure of land, equivalent to half a *iugerum*, about one quarter of an acre) of vineyard (i.e. about 830 m2), from the revenue of which, according to Hirschfeld's plausible interpretation in CIL, he wanted no fewer than fifteen *sextarii* of wine to be poured in libation to him annually (on what occasions he does not say) (*cum bese vineae arep(ennis), ex cuius reditu  omnib(us) annis prolibari volo ne minus* XV *v(ini ?) s(extaris ?)*).
 <!-- text is from draft file -->
 
 ## Plans

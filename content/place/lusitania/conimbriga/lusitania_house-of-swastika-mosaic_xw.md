@@ -4,7 +4,7 @@ aliases: [/id/19dff800ff]
 type: garden
 title: "House of the Swastika Mosaic"
 latlon: [ 40.099026, -8.494163 ]
-author: 
+author:
 editor: Xingjian Wang
 date: 2021-04-21
 modified: 2025-06-29
@@ -22,7 +22,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 ## Location
 
-- [Conimbriga]({{<relref ".">}}) 
+- [Conimbriga]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="236443" name="Conimbriga" >}}
 
 ## Location Description

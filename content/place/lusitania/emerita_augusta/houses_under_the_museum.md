@@ -4,7 +4,7 @@ aliases: [/id/fd3253901e]
 type: garden
 title: "Houses Under the Museum"
 latlon: [ 38.917216, -6.341213 ]
-author: 
+author:
 editor: Yiyun Liu
 date: 2021-04-21
 modified: 2025-06-29
@@ -13,8 +13,8 @@ draft: true
 
 ## Province
 
-[Lusitania]({{<relref "..">}})  
-- {{< id vocab="Pleiades" id="1101" name="Lusitania(Pleiades)" >}}
+[Lusitania]({{<relref "..">}})
+- {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
 
 ## Province Description
 Despite the prior existence of urban centers like Metellinum, the capital of Lusitania was a new foundation, the Colonia Augusta Emerita (Mérida), which would also serve as the capital of one of the smaller juridical units (conventus) and would be the scene of flourishing activity in the succeeding centuries, its prosperity lasting until the late Roman and Visigothic era.  Subsequently, a series of well-known Roman cities were built in what was then Lusitania but is now partly in Portugal and partly in Spain. As well as the capital, there were Conimbriga, Salmantica, Evora, Olisipo (now Lisbon), Pax Iulia (now Beja), and Metallium Viscascense (Aljustrel), this last recognized as the capital of an important mining area. The series of wealthy villae, such as that of La Cocosa, Milreu or San Cucufate are particularly noteworthy.  Another of the important elements of the Roman era is the series of still visible ways of communication, of which the Vía de la Plata has most remaining, especially in the sections of Baños de Montemayor in Cáceres or the bridges that cross the rivers, such as that of San Pedro de Alcántara, or of Mérida.
@@ -22,7 +22,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 ## Location
 
-- [Emerita Augusta]({{<relref ".">}}) 
+- [Emerita Augusta]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="256155" name="Emerita Augusta" >}}
 
 ## Location Description
@@ -51,7 +51,7 @@ Houses Under the Museum
 
 ## Garden Description
 
-Prior to building the present Museo Nacional de Arte Romano, excavations were undertaken at the site in 1978 and 1979. Two suburban residences were explored and preserved in the crypt of the museum. These contained at least three courtyards.  One was a colonnaded courtyard of 'marble,' and this small rectangular courtyard (at the rear of the crypt) consisted of a low wall of mortared rubble with simple marble columns of the Tuscan order. It was surrounded by incompletely excavated chambers, one of which had a program of wall paintings and stuccos which dated the complex to the period first through the fourth century A.D.  
+Prior to building the present Museo Nacional de Arte Romano, excavations were undertaken at the site in 1978 and 1979. Two suburban residences were explored and preserved in the crypt of the museum. These contained at least three courtyards.  One was a colonnaded courtyard of 'marble,' and this small rectangular courtyard (at the rear of the crypt) consisted of a low wall of mortared rubble with simple marble columns of the Tuscan order. It was surrounded by incompletely excavated chambers, one of which had a program of wall paintings and stuccos which dated the complex to the period first through the fourth century A.D.
 
 Another had a peristyle with an exedra.  This was a small rectangular peristyle (near the stairs leading down to the crypt) with stucco-clad brick columns except in the corners where square pilasters were substituted. In the porticoes formed by these, the walls were painted. Wrapping around the courtyard proper were segments of a brick canal revetted with painted stucco. On its interiors, the canal was revetted with opus signinum and its floor had quarter-circle reinforcement. On the courtyard's east side, off center, a semi-circular exedra led to what was probably the most impressive chamber in the house.
 The remains of another colonnaded court (in the southeast corner of the crypt) consisted of two rubblework walls forming a corner and supporting marble columns of the Tuscan order; the corridor formed by this colonnade was paved with opus signinum.

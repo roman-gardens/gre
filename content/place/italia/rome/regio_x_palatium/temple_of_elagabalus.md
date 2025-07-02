@@ -13,18 +13,18 @@ draft: false
 
 ## Province
 
-- [Italia]({{<relref "../..">}}) 
+- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
 - {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
 
 ## Location
 
-- [Rome]({{<relref "..">}}) 
+- [Rome]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="423025" name="Roma" >}}
 
 ## Sublocation
 
-- [Palatine]({{<relref ".">}}) 
+- [Palatine]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
 ## Garden
@@ -54,7 +54,7 @@ The building of a religious complex, identified by scholars as the [*Elagabalium
 
 Two garden areas were identified within the precinct, to the south of the [temple](http://vocab.getty.edu/page/aat/300007595); one measuring 17 x 20.5 meters, the other of the same width, but with a length of at least 24 meters (Fig. 1).  The two areas were separated by a wide paved path running north-south that led to a secondary doorway at the south, giving access to the imperial palace complex (Figs. 2, 4).  Thus the larger garden (not fully excavated) may have extended uninterrupted for a length of some 42 meters. These two gardens are separated by an [*allée*](http://vocab.getty.edu/page/aat/300178561) of white [marble](http://vocab.getty.edu/page/aat/300011443) slabs, laid on the axis of the door linking the *Heliogabalium* to the [Imperial Palace](https://en.wikipedia.org/wiki/Palace_of_Domitian). Two additional gardens of the same kind can be envisioned on the north side of the temple based on the results of recent excavations.
 
-The two gardens brought to light show the same pattern: three [planting beds](http://vocab.getty.edu/page/aat/300430426) oriented along the east-west axis are separated by two paths paved with [clay](http://vocab.getty.edu/page/aat/300010439) (Fig. 4). The middle planting beds are slightly wider than the others, and the vegetation covers a broader area. Part of this vegetation is arranged along the central axis of each planting bed, attested by the placement of halved [amphorae](http://vocab.getty.edu/page/aat/300148696) used as [flowerpots](http://vocab.getty.edu/page/aat/300194749) set into pits (Figs. 5-6). The purpose of these pots was to maintain humidity at the roots (particularly important for an artificial [terrace](http://vocab.getty.edu/page/aat/300004182)), and perhaps to limit the growth of the plants. Large amphorae alternate, along this central alignment, with smaller amphorae in the southern and northern flowerbeds. The pattern is slightly different in the flowerbed laid in the inner part of the garden: along the median axis the large amphorae stand alone, while the small ones are found tightly aligned all along the outer border. The narrower beds held large amphorae alternating with smaller ones. The wider, middle beds had large amphorae defining the median axis, and smaller amphorae, tightly aligned, along the border.  
+The two gardens brought to light show the same pattern: three [planting beds](http://vocab.getty.edu/page/aat/300430426) oriented along the east-west axis are separated by two paths paved with [clay](http://vocab.getty.edu/page/aat/300010439) (Fig. 4). The middle planting beds are slightly wider than the others, and the vegetation covers a broader area. Part of this vegetation is arranged along the central axis of each planting bed, attested by the placement of halved [amphorae](http://vocab.getty.edu/page/aat/300148696) used as [flowerpots](http://vocab.getty.edu/page/aat/300194749) set into pits (Figs. 5-6). The purpose of these pots was to maintain humidity at the roots (particularly important for an artificial [terrace](http://vocab.getty.edu/page/aat/300004182)), and perhaps to limit the growth of the plants. Large amphorae alternate, along this central alignment, with smaller amphorae in the southern and northern flowerbeds. The pattern is slightly different in the flowerbed laid in the inner part of the garden: along the median axis the large amphorae stand alone, while the small ones are found tightly aligned all along the outer border. The narrower beds held large amphorae alternating with smaller ones. The wider, middle beds had large amphorae defining the median axis, and smaller amphorae, tightly aligned, along the border.
 
 All of the pots (dating from the middle of the second to the early 3rd century) appear to have been buried at the same time, suggesting they represent the original garden design for this early third century complex. No plant remains have been identified, however [dwarf cypress](https://en.wikipedia.org/wiki/Cupressus_sempervirens) or [plane trees](https://en.wikipedia.org/wiki/Platanus_orientalis#Cultural_history) could have been planted in the larger pots and the small amphorae along the border of the middle beds may have been for [box hedges](https://en.wikipedia.org/wiki/Buxus_sempervirens) (Fig. 6).
 

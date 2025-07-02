@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Sufetula]({{<relref ".">}}) 
+- [Sufetula]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="324816" name="Sufetula" >}}
 
 ## Location Description
@@ -30,7 +30,7 @@ House of the Seasons (La maison des Saisons)
 - {{< keyword "oeci" >}}
 
 ## Garden Description
- This house, known for its majestic and richly decorated *oecus*, is laidout around a peristyle courtyard that was probably planted. The house is dated to the late IVth. early Vth. Century (Plan view, Fig. 1).
+This house, known for its majestic and richly decorated *oecus*, is laidout around a peristyle courtyard that was probably planted. The house is dated to the late IVth. early Vth. Century (Plan view, Fig. 1).
 
 
 ## Maps

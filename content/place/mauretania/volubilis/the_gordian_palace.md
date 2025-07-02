@@ -13,8 +13,8 @@ draft: true
 
 ## Province
 
-- [Mauretania]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981533" name="Mauretania Tingitana (province)(Pleiades)" >}}
+- [Mauretania]({{<relref "..">}})
+- {{< id vocab="Pleiades" id="981533" name="Mauretania Tingitana (province)" >}}
 
 ## Province Description
 

@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Vallon]({{<relref ".">}}) 
+- [Vallon]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="981525" name="Vallon" >}}
 
 ## Garden

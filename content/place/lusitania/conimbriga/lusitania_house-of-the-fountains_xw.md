@@ -4,7 +4,7 @@ aliases: [/id/5d72e80fc7]
 type: garden
 title: "House of the Fountains"
 latlon: [ 40.099, -8.4933 ]
-author: 
+author:
 editor: Xingjian Wang
 date: 2021-04-21
 modified: 2025-06-29
@@ -22,7 +22,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 ## Location
 
-- [Conimbriga]({{<relref ".">}}) 
+- [Conimbriga]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="236443" name="Conimbriga" >}}
 
 ## Location Description
@@ -41,7 +41,7 @@ House of the Fountains
 
 This house is almost entirely excavated, the exception being its north facade, which is still covered by a local lane.  It occupies an area of almost 3400 square meters.  Its mosaics, published in their entirety, date from the second half of the second century A.D, or the Severan era.  The construction of the house dates to between 150 and 175 AD. The house has a central peristyle with twenty-six columns.  The area of the large open part (12m x 26m) is completely filled with a pool with a maximum depth of 0.90 meters, inside of which the architect installed six very formal flower-beds.  On the edges of these, more than 500 water-jets played continually. The unusual design of this peristyle has its only parallel in the Domus Augustana built in Rome for the emperor Domitian by the architect Rabirius.  This parallel, pointed out by L. Cremain 1959 in his L'architettura, has been related by other writers, none of whom has found anything similar in Roman domestic architecture in any part of the Empire.
 
-The house has recently been the subject of a monograph by Isabelle Morand in which she undertakes to recover the geometrical and numerical principles used by the architect and to identify astronomical and astrological allusions in the house.  
+The house has recently been the subject of a monograph by Isabelle Morand in which she undertakes to recover the geometrical and numerical principles used by the architect and to identify astronomical and astrological allusions in the house.
 
 ## Maps
 

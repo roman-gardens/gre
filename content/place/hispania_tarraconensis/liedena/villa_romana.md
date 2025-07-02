@@ -4,20 +4,20 @@ aliases: [/id/ab8009da1e]
 type: garden
 title: "Villa Romana"
 latlon: [ 0, 0 ]
-author: 
+author:
 editor: Qianli Jiang
 date: 2021-04-21
 modified: 2025-06-29
 draft: true
 ---
 
-- [Hispania Tarraconensis]({{<relref "..">}}) 
-- {{< id vocab="Pleiades" id="981551" name="Tarraconensis(Pleiades)" >}}
+- [Hispania Tarraconensis]({{<relref "..">}})
+- {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
 
 ## Province Description
 In 236 BC, to offset Carthage's loss of Sicily and Sardinia in the First Punic War, Hamilcar Barca led an expedition into Hispania to establish a colony there.  Through force of arms and diplomacy, he spread Carthaginian influence as far north as Barcellona, which bears his name.   In 230 BC, Hasdrubal, his son-in-law, established Qart Hadast that became Carthago Nova in Roman times and Cartagena today.  After the death of Hasdrubal, Hannibal, Hamilcar's oldest son, took command, attacked Saguntum, and in 218 set out for Italy leaving his younger brother, Hasdrubal, in command in Spain.  Through the Alps, he descended into Italy and threatened Rome for fourteen years.  Roman armies under the brothers Gnaeus and Publius Cornelius Scipio kept Hasdrubal in check and prevented his reinforcing Hannibal. They were both killed by the Carthaginians in 212.  Two years later, another Publius Cornelius Scipio, the  25-year-old son of the late general of the same name, was sent to Spain.  The next year, he captured New Carthage and, in 206 at the battle of Ilipa (about 15 km north of Savilla) destroyed most of the Carthaginians' numerically superior army and ended their hold on Spain.  Scipio settled his wounded veterans nearby at a place he called Italica to remind them of their origins.  Today, it is one of the best Roman archaeological sites in Italy.   After a quick trip back to Rome, where he was elected consul, he returned to Spain and went on to attack Carthage itself.  Hannibal was recalled to Africa, but Scipio annihilated his army in 202.  Rome thus came into possession of the Mediterranean coast of Iberia.
 
-If Rome was drawn into Hispania to keep the Carthaginians there from supporting Hannibal in Italy, it missed the opportunity offered by Hannibal's defeat to get out of Spain honorably.   Instead, in 197 BC it created two new Roman provinces, Hispania Citerior whose capital was Carthago Nova and Hispania Ulterior with Corduba as its capital.  Soon after, Rome launched a long war to subjugate the Lusitani, Celtiberians on the west coast.  During Sulla's dictatorship, the Lusitani were again in revolt, this time under the able leadership of the Roman general Quintus Sertorius, who sought to create an independent, Roman-like state in Hispania. He established a senate and schools for the sons of the local nobility.  
+If Rome was drawn into Hispania to keep the Carthaginians there from supporting Hannibal in Italy, it missed the opportunity offered by Hannibal's defeat to get out of Spain honorably.   Instead, in 197 BC it created two new Roman provinces, Hispania Citerior whose capital was Carthago Nova and Hispania Ulterior with Corduba as its capital.  Soon after, Rome launched a long war to subjugate the Lusitani, Celtiberians on the west coast.  During Sulla's dictatorship, the Lusitani were again in revolt, this time under the able leadership of the Roman general Quintus Sertorius, who sought to create an independent, Roman-like state in Hispania. He established a senate and schools for the sons of the local nobility.
 
 Augustus's conquest of Hispania produced a new territorial division that replaced the earlier two-province organization of the region.  Augustus divided the whole of the peninsula into three provinces: Hispania Citerior or Tarraconensis, with its capital Tarraco (Tarragona); Hispania Ulterior Baetica, with its capital Corduba (Córdoba); and Hispania Ulterior Lusitania, or Emerita Augusta, with its capital Mérida.  The provinces, in turn, were subdivided in administrative legal units, or conventus. The western lands stayed part of the newly demarcated Lusitania, areas into which Romanization had hardly penetrated, in contrast to the other areas of the peninsula where the classical tradition had been incorporated quite early.  This division lasted until late antiquity, when Tarraconensis was subdivided into three provinces: Tarraconensis, whose capital continued to be Tarraco (Tarragona), Carthaginiensis, with Carthago Nova (Catagena) as its capital, and Gallaecia, whose capital was Bracara Augusta (Braga, in northern Portugal).
 
@@ -45,11 +45,11 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Location Description
-Fraga sits astride the Cinca river about 86 kilometers northwest of Tarragona and 103 kilometers east of Zaragoza.  About 15 kilometers downstream, the Cinca is joined by the Segre and after another 5 kilometers they join the Ebro, which flows into the Mediterranean about 70 kilometers south west of Tarragona.  
+Fraga sits astride the Cinca river about 86 kilometers northwest of Tarragona and 103 kilometers east of Zaragoza.  About 15 kilometers downstream, the Cinca is joined by the Segre and after another 5 kilometers they join the Ebro, which flows into the Mediterranean about 70 kilometers south west of Tarragona.
 
 
 ## Garden
-Villa Romana  
+Villa Romana
 
 
 ## Keywords
@@ -61,13 +61,13 @@ Villa Romana
 
 ## Garden Description
 
-This large villa, with both a pars urbana and a pars rustica is on the right (south) bank of the Irati river just below the Foz de Lumbier, a gorge cut by the river through a limestone hill.  
-The villa was discovered by chance in the course of agricultural work in 1921.  A number of mosaics were immediately removed to the provincial museum in Pamplona. Systematic excavation was undertaken by Vázquez de Parga and Taracena in the summers between 1942 and 1947. Results were published by Taracena in 1949 and 1950.   
+This large villa, with both a pars urbana and a pars rustica is on the right (south) bank of the Irati river just below the Foz de Lumbier, a gorge cut by the river through a limestone hill.
+The villa was discovered by chance in the course of agricultural work in 1921.  A number of mosaics were immediately removed to the provincial museum in Pamplona. Systematic excavation was undertaken by Vázquez de Parga and Taracena in the summers between 1942 and 1947. Results were published by Taracena in 1949 and 1950.
 It had a first phase dating perhaps from the end of the first century CE. Taracena believed it was destroyed by fire.  Little is known of this early phase.  A new villa was built in the first third of the 4th century. In addition to the elegant pars urbana there were extensive facilities for cereal, wine, and oil production.
 The entrance seems to have been from the south. After a short entrance came a long gallery with polychrome geometric mosaics extending along the south side of a garden with a large central pool.  The pool was fed by rainwater from the roofs; an interesting spherical catch basin was found on the south edge of the garden.  A drain led off to the east.  A low wall ran around the garden. On the north side of the garden a wide passage led straight into the middle of the south portico of the central peristyle.  All four porticoes were paved in mosaics.
 In 1949, Taracena offered a detailed description of the courtyard:
 
-The peristyle is the organic center of the second residence. It measures 10.45 by 9.22 meters, and its date of construction can be determined because in the the course of firming up the low wall surrounding it was found a coin of Constantine.  Moreover, in exploring the subsoil at a depth of 50 centimeters, the level corresponding to the first villa, another coin of the late empire was found.  Together, they seem to confirm that the peristyle was built in the 4th century, possibly in its first third.  Inside the peristyle, near the wall, was found a dolium and near the wall on the south side was a line of irregular stones which perhaps formed the border of a flower bed.  
+The peristyle is the organic center of the second residence. It measures 10.45 by 9.22 meters, and its date of construction can be determined because in the the course of firming up the low wall surrounding it was found a coin of Constantine.  Moreover, in exploring the subsoil at a depth of 50 centimeters, the level corresponding to the first villa, another coin of the late empire was found.  Together, they seem to confirm that the peristyle was built in the 4th century, possibly in its first third.  Inside the peristyle, near the wall, was found a dolium and near the wall on the south side was a line of irregular stones which perhaps formed the border of a flower bed.
 Even though there are no other remains of bed borders, trellis, or paths nor any trace of plantings which would help us to imagine the interior of the peristyle, we have to suppose it enlivened by some small garden, for a plain earth patio surrounded by mosaics would have been of no use for agricultural work.  Moreover, we have found peristyles of these dimensions in Clunia with a strip of garden a meter wide running around the inside of the bounding wall and limited on the inside by bricks in the ground. This peristyle at Liedena, however has only a central well whose puteal is lost.  The well is 90 centimeters in diameter, lined with small-stone ashlar laid rather irregularly without mortar.  At 7.2 meters, it reaches groundwater.
 Blas Taracena Aguirre, 1949, p.16
 

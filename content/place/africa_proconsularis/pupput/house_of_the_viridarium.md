@@ -13,7 +13,7 @@ draft: false
 
 ## Location
 
-- [Pupput]({{<relref ".">}}) 
+- [Pupput]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="315121" name="Pupput" >}}
 
 {{< image file="city_plan_house_of_the_viridarium_with_niches.jpg" caption="Plan of the residential quarters" credit="(Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)" alt="" >}}
@@ -32,9 +32,9 @@ House of the Viridarium with Niches (Maison du viridarium à niches)
 - {{< keyword "niches" >}}
 
 ## Garden Description
- The house was located in the W neighborhood of the ancient city of Pupput and in present day lies in the precinct of a hotel, the construction of which badly damaged the house (Plan view, Fig.1).
+The house was located in the W neighborhood of the ancient city of Pupput and in present day lies in the precinct of a hotel, the construction of which badly damaged the house (Plan view, Fig.1).
 
- The house has had three phases. During the second phase the garden peristyle (V) was bounded by a low wall that curved to make eight to nine semi circular niches (A, C, D, E, F, G, H, I) facing the galleries of the peristyle.  The niches were paved with mosaics some of which figure birds among cut branches (D) and marine scenes (A, I). The second phase of the house is dated from the second half of the IV century.
+The house has had three phases. During the second phase the garden peristyle (V) was bounded by a low wall that curved to make eight to nine semi circular niches (A, C, D, E, F, G, H, I) facing the galleries of the peristyle.  The niches were paved with mosaics some of which figure birds among cut branches (D) and marine scenes (A, I). The second phase of the house is dated from the second half of the IV century.
 
 ## Maps
 

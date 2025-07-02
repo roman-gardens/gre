@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Cologne]({{<relref ".">}}) 
+- [Cologne]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="108751" name="Cologne" >}}
 
 ## Location Description
@@ -32,7 +32,7 @@ Urban house on Gertrudenstrasse (Colonia Claudia Ara Agrippinensium)
 
 ## Garden Description
 
-This Mediterranean-type house just inside the western city wall had a peristyle courtyard ca. 9 x 14 m. in size, in the middle of which was a pool (3 x 8 m.) with apsidal ends (P on Plan 1).  
+This Mediterranean-type house just inside the western city wall had a peristyle courtyard ca. 9 x 14 m. in size, in the middle of which was a pool (3 x 8 m.) with apsidal ends (P on Plan 1).
 
 The courtyard was unpaved, and the presence of a source of water suggests that it was designed as a garden (G on Plan 1). Although the house was only partially excavated, evidence for several rebuildings from the second half of the 1st to the 4th century was retrieved. The peristyle courtyard was retained throughout, indicating the importance attached to the garden by generations of owners.
 

@@ -18,7 +18,7 @@ draft: true
 
 ## Location
 
-- [Saguntum]({{<relref ".">}}) 
+- [Saguntum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="266021" name="Saguntum/Arse" >}}
 
 ## Garden

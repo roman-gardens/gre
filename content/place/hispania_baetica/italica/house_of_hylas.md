@@ -4,7 +4,7 @@ aliases: [/id/d9d49da85e]
 type: garden
 title: "House of Hylas"
 latlon: [ 0, 0 ]
-author: 
+author:
 editor: Lai Ching Tsui
 date: 2021-04-21
 modified: 2025-06-29
@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Italica]({{<relref ".">}}) 
+- [Italica]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="256231" name="Italica" >}}
 
 ## Location Description
@@ -38,11 +38,11 @@ House of Hylas
 
 ## Garden Description
 
-This house, with three garden areas, is just east of the Santiponce cemetery.  The principal garden, to the south, had a fountain with a rectangular basin in the center. The walls of the basin were covered with mosaics representing fish and molluscs. To the east opened a triclinium, identifiable by the U-shaped design of the floor mosaic. To the north of the principal garden was a large room with a double opening onto the garden.  It could well have been either a reception room or a second triclinium.  
+This house, with three garden areas, is just east of the Santiponce cemetery.  The principal garden, to the south, had a fountain with a rectangular basin in the center. The walls of the basin were covered with mosaics representing fish and molluscs. To the east opened a triclinium, identifiable by the U-shaped design of the floor mosaic. To the north of the principal garden was a large room with a double opening onto the garden.  It could well have been either a reception room or a second triclinium.
 
 To the east of this room was a second garden; low walls with the columns of the peristyle resting on them separated the garden from the surrounding galleries.  Three of these – on the north, south and west sides – were paved with geometric mosaics; on the east side was a fairly large room with a doorway opening onto the street.  Whether or not this was the main entrance will not be clear until the southern corner of the house has been excavated.  Two rooms with mosaic floors opened off the south gallery; and two more, off the north gallery.  One of the north rooms had a mosaic floor with an emblem showing Hylas carried off by the nymphs.  This mosaic gives the house its name and has been removed to the Archaeological Museum in Sevilla.
 
-To the west of the central reception room or triclinium was the third garden, which survives in much worse condition than the eastern one. It also likely had a peristyle and certainly it had a small rectangular pool in the middle.  
+To the west of the central reception room or triclinium was the third garden, which survives in much worse condition than the eastern one. It also likely had a peristyle and certainly it had a small rectangular pool in the middle.
 
 
 ## Maps
@@ -69,7 +69,7 @@ unspecified
 
 
 ## Places
-- [House of Hylas at Italica]{{<relref ".">}}) 
+- [House of Hylas at Italica]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="634946753" name="House of Hylas at Italica" >}}
 - {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}
 

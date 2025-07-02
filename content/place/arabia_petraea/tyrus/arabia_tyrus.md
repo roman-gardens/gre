@@ -48,13 +48,13 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 ## Plans
 <!-- {{< image file="FILENAME" caption="" credit="" alt="" >}} -->
 <!--
- Waiting for plan from K. Gleason
+Waiting for plan from K. Gleason
 -->
 
 ## Images
 <!-- {{< image file="FILENAME" caption="" credit="" alt="" >}} -->
 <!--
- Waiting for columbarium photo from K. Gleason
+Waiting for columbarium photo from K. Gleason
 -->
 
 {{< image file="2_arabia_tyrus_pavilion_facade.jpg" caption="Fig. 2: The facade of the Lion Pavilion at Tyrus, ʻIraq al-Amir." credit="Photograph by L.-A. Bedal." alt="Facade of the Lion Pavilion" >}}

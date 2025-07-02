@@ -12,11 +12,11 @@ draft: false
 ---
 
 ## Province
-- [Italia]({{<relref "../../..">}}) 
+- [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
-- [Pompeii]({{<relref "../..">}}) 
+- [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
@@ -40,8 +40,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "altars" >}}
 
 
- ## House
- House of the Birii; House of the Sibyl
+## House
+House of the Birii; House of the Sibyl
 
 
 ## Garden
@@ -51,7 +51,7 @@ Two gardens, one with root cavities and the remains of a new [cistern](http://vo
 
 The worship of the Thracian-Phrygian vegetation god, Sabazius, took place in this large [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden which was entered through a wide [vestibule](http://vocab.getty.edu/page/aat/300083076) from the street. Crude paintings of Venus, Mercury, Bacchus, and Priapus with their accompanying symbols were located high on the sides of the entrance. The [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden was large enough to accommodate a large assembly of worshippers who attended the sacrifices at the [altar](http://vocab.getty.edu/page/aat/300003725) directly across from the entrance.
 
-A large room to the back had been transformed into a [*sacella*](http://vocab.getty.edu/page/aat/300007570) and had a lava threshold that indicated it could be closed off with a shutter. A square masonry [altar](http://vocab.getty.edu/page/aat/300003725) stood before it with the iron rings to hold garlands still preserved. Offerings of perfume, incense, libations or blood sacrifice could have taken place here. The pillars either side of the door sported [graffiti](http://vocab.getty.edu/page/aat/300015613) which included the word *antrum* (grotto) inscribed on the left pilaster. This word was used by Vergil to describe the dwelling of the Cumean Sibyl. There was an illustration of a nude priest (16 cm. high) with a *scabellum* (instrument of the nature of a castanet) in his right hand and a tambourine in his left while performing a ritual skipping dance.Across the rear wall of the *sacellum* stretched a large red podium which has been explained either as a base for a statue or as a couch for a sybil. Two storerooms were located to the left (north) of the *sacellum* and various cult objects were stored in two roughly furnished rooms to the right. The cult objects included various bronze and terra-cotta lamps, in addition to two close to life-sized bronze right hands (mantic hands associated with the worship of Sabazius). Two squat terra-cotta vases of unusual shape with a little bowl on the rim just above each handle sat near the altar. Various objects decorated the sides of the vases, including a lizard, palm leaf, serpent, toad, stairs, a syrinx, loaf of bread, bucrane, and a bunch of grapes. The vases may have served as urns for lots.  
+A large room to the back had been transformed into a [*sacella*](http://vocab.getty.edu/page/aat/300007570) and had a lava threshold that indicated it could be closed off with a shutter. A square masonry [altar](http://vocab.getty.edu/page/aat/300003725) stood before it with the iron rings to hold garlands still preserved. Offerings of perfume, incense, libations or blood sacrifice could have taken place here. The pillars either side of the door sported [graffiti](http://vocab.getty.edu/page/aat/300015613) which included the word *antrum* (grotto) inscribed on the left pilaster. This word was used by Vergil to describe the dwelling of the Cumean Sibyl. There was an illustration of a nude priest (16 cm. high) with a *scabellum* (instrument of the nature of a castanet) in his right hand and a tambourine in his left while performing a ritual skipping dance.Across the rear wall of the *sacellum* stretched a large red podium which has been explained either as a base for a statue or as a couch for a sybil. Two storerooms were located to the left (north) of the *sacellum* and various cult objects were stored in two roughly furnished rooms to the right. The cult objects included various bronze and terra-cotta lamps, in addition to two close to life-sized bronze right hands (mantic hands associated with the worship of Sabazius). Two squat terra-cotta vases of unusual shape with a little bowl on the rim just above each handle sat near the altar. Various objects decorated the sides of the vases, including a lizard, palm leaf, serpent, toad, stairs, a syrinx, loaf of bread, bucrane, and a bunch of grapes. The vases may have served as urns for lots.
 
 
 Examination of the garden revealed that it had been shaded by a row of four trees, their diameter at the surface ranging from 0.25 to 0.56 m. There was more than adequate room for the worshipers beneath the trees. The water channel noted in the entry above carried water to this garden under a door that allowed passage to the garden to the south.
@@ -60,9 +60,9 @@ Examination of the garden revealed that it had been shaded by a row of four tree
 ## Bibliography
 
 Olga Elia, 1960, 'Vasi magici e mani pantee a Pompei' In *RendAccNapoli, 35, pp.5-10 and pl.1 (plan)*
-W. F. Jashemski, 1979, *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius, pp.31, 135-137, fig. 48 on p.31, and figs. pp.213-215 on pp.135-136.* [(worldcat)](https://search.worldcat.org/title/312003872)  
-Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 1986, *Corpus topographicum Pompeianum Pars IIIA, p.40-41* [(worldcat)](https://search.worldcat.org/title/8667821)  
-W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.76.* [(worldcat)](https://search.worldcat.org/title/222353569)  
+W. F. Jashemski, 1979, *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius, pp.31, 135-137, fig. 48 on p.31, and figs. pp.213-215 on pp.135-136.* [(worldcat)](https://search.worldcat.org/title/312003872)
+Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 1986, *Corpus topographicum Pompeianum Pars IIIA, p.40-41* [(worldcat)](https://search.worldcat.org/title/8667821)
+W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.76.* [(worldcat)](https://search.worldcat.org/title/222353569)
 PompeiiinPictures, 2018, *Pompeii. Complesso dei Riti magici or Magic Rites Complex or Casa di Biria, Sibilla pompeiana or Officina Magica of Sextilius Pyrricus.* [(PompeiiinPictures)](https://pompeiiinpictures.com/pompeiiinpictures/R2/2%2001%2012.htm)
 
 

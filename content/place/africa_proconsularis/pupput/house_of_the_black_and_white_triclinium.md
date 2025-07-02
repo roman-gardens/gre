@@ -13,7 +13,7 @@ draft: false
 
 ## Location
 
-- [Pupput]({{<relref ".">}}) 
+- [Pupput]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="315121" name="Pupput" >}}
 
 {{< image file="city_plan_house_of_the_black_and_white_triclinium.jpg" caption="Plan of the residential quarters" credit="(Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)" alt="" >}}

@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Hadrumetum (Sousse)]({{<relref ".">}}) 
+- [Hadrumetum (Sousse)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="324716" name="Hadrumetum" >}}
 
 {{< image file="hadrumetum_city_plan.jpg" caption="Fig. 1: Plan of Hadrumetum" credit="(Ghaddhab, R., 2016, P.182)" alt="Plan of Hadrumetum">}}

@@ -12,11 +12,11 @@ draft: false
 ---
 
 ## Province
-- [Italia]({{<relref "../..">}}) 
+- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
-- [Pompeii]({{<relref "..">}}) 
+- [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
@@ -47,17 +47,17 @@ At the rear of the house there was a [peristyle](http://vocab.getty.edu/page/aat
 
 ## Bibliography
 
-* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 70-1 [(worldcat)](https://search.worldcat.org/title/9528380)    
-* GiornSc, n.s., 1874-1877, col.60  
-* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 25 [(worldcat)](https://search.worldcat.org/title/222353569)  
-* Mau, A. 1874. *BdI*, pp. 250-252  
-* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 77  
-* Soprano, P. 1950, *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 293, no.2 and figs. 28.6, 29  
-* Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 14 [(worldcat)](https://search.worldcat.org/title/254502217)   
-* Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, nos.54-57 [(worldcat)](https://search.worldcat.org/title/974375313)   
+* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 70-1 [(worldcat)](https://search.worldcat.org/title/9528380)
+* GiornSc, n.s., 1874-1877, col.60
+* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 25 [(worldcat)](https://search.worldcat.org/title/222353569)
+* Mau, A. 1874. *BdI*, pp. 250-252
+* Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 77
+* Soprano, P. 1950, *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 293, no.2 and figs. 28.6, 29
+* Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 14 [(worldcat)](https://search.worldcat.org/title/254502217)
+* Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, nos.54-57 [(worldcat)](https://search.worldcat.org/title/974375313)
 
 ## Places
-[Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
+- {{< id vocab="Pleiades" id="222138654" name="Regio I, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates

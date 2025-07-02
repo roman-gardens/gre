@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Aventicum]({{<relref ".">}}) 
+- [Aventicum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="177495" name="Aventicum" >}}
 
 ## Location Description

@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [via praenestina]({{<relref ".">}}) 
+- [via praenestina]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="622606468" name="Via Praenestina" >}}
 
 ## Sublocation

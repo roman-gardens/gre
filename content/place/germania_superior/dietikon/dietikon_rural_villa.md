@@ -13,7 +13,7 @@ draft: true
 
 ## Location
 
-- [Dietikon]({{<relref ".">}}) 
+- [Dietikon]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="981525" name="Dietikon" >}}
 
 ## Garden

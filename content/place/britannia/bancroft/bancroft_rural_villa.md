@@ -13,7 +13,7 @@ draft: false
 
 ## Location
 
-[Bancroft]({{<relref ".">}})  
+[Bancroft]({{<relref ".">}})
 
 ## Garden
 

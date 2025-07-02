@@ -13,7 +13,7 @@ draft: false
 
 ## Location
 
-- [Camulodunum]({{<relref ".">}}) 
+- [Camulodunum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="79393" name="Camulodunum" >}}
 
 ## Location Description

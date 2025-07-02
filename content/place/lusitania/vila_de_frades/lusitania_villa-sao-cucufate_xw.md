@@ -4,7 +4,7 @@ aliases: [/id/45ba2b3b74]
 type: garden
 title: "Villa Sao Cucufate"
 latlon: [ 38.223820, -7.845952 ]
-author: 
+author:
 editor: Xingjian Wang
 date: 2021-04-21
 modified: 2025-06-29
@@ -22,7 +22,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 
 ## Location
 
-- [Vila de Frades]({{<relref ".">}}) 
+- [Vila de Frades]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="256422" name="OS. Cucufate" >}}
 
 ## Garden
@@ -41,7 +41,7 @@ About 130 AD, the family demolished much of its home and built in its place a mu
 
 In about 360 AD much of the old villa was demolished and a new, two-story structure erected.  The lower floor rose some seven meters high with barrel vaults so well built that many are still standing. The grand house of the owner was on the upper floor.  The key to seeing the relation of this third phase to the second phase is the large water tank, which was preserved.  Comparison of Figures 2 and 3 shows that the semicircular pool of the second phase peristyle survived, and that the galleries along the southwestern and northeastern sides of the peristyle were considerably extended. In fact, a guest entering from the main façade and bound for the elegant upper story would have to pass along the southeastern gallery to get to the stairs.  That fact, coupled with the preservation of the pool, strongly suggests the former peristyle garden was maintained and extended along with the gallery.
 
-The upper floor did not have a garden but offered splendid views of gardens, both in front and behind the house.  Between the two end towers stretched, on the southwest (front) side, a roofed veranda over 40 meters long with a sturdy wooden rail.  This emphasis on the vista leaves little doubt that the well-watered area in foreground, through which the guests arrived, would have been beautifully developed as a garden.   
+The upper floor did not have a garden but offered splendid views of gardens, both in front and behind the house.  Between the two end towers stretched, on the southwest (front) side, a roofed veranda over 40 meters long with a sturdy wooden rail.  This emphasis on the vista leaves little doubt that the well-watered area in foreground, through which the guests arrived, would have been beautifully developed as a garden.
 
 ## Maps
 

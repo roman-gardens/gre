@@ -13,8 +13,8 @@ draft: false
 
 ## Location
 
-- [UTICA (Utique)]({{<relref ".">}}) 
-- {{< id vocab="Pleiades" id="315248" name="UTICA (Utique) Tunisia(Pleiades)" >}}
+- [UTICA (Utique)]({{<relref ".">}})
+- {{< id vocab="Pleiades" id="315248" name="UTICA (Utique) Tunisia" >}}
 
 ## Location Description
 Her geographic situation made of Utica one of the oldest and well-known Phoenician settlements. In 146 B.C, Utica became the capital of the newly created province of Africa and the residence of the governor. With the triumph of Caesar and the resurgence of Carthage, Utica's supremacy would gradually decline under the empire. In 36 B.C. it became a *municipium* and a colony under Hadrian.
@@ -36,7 +36,7 @@ House of the Cascade (Maison de la Cascade)
 
 This house, the largest in the *insula II (lots 2,3,8,9,10)*, was given its present form in the second century. A large peristyle with elaborate *viridarium* dominated the S part of the house (Plan view, Fig.1). The large shallow pool in the center of the garden occupied a rectangular area that was largely filled by a huge marble-faced masonry construction with semicircular and rectangular niches that gave the pool a baroque shape. The marble-faced construction probably held an important sculpture. Water from the fountain jet spilled from the marble-lined channel cut into the base and then spilled into the pool. The sundial, today at the edge of the base of the pool, is not in its original position.
 
-Extending into the garden from the two central columns on the N was a semicircular pool (which faced the large room (XXXIV), decorated with a well preserved mosaic showing an Eros fishing from a boat, surrounded by fish and other sea animals. A wide entrance on the E side of the garden led through the portico to the *triclinium*, by far the largest room in the house.  
+Extending into the garden from the two central columns on the N was a semicircular pool (which faced the large room (XXXIV), decorated with a well preserved mosaic showing an Eros fishing from a boat, surrounded by fish and other sea animals. A wide entrance on the E side of the garden led through the portico to the *triclinium*, by far the largest room in the house.
 
 Opening off of the *triclinium* to the S was a smaller area enclosed by a portico on three sides. The dominant feature was the shallow square basin (1.92x 1.2 m) decorated with a fish mosaic and the adjacent mosaic panel from which the house is named. In the cascade panel, two fishermen are pulling in a vast net full of fish and sea animals. The soil on each side of the cascade was probably planted.
 
