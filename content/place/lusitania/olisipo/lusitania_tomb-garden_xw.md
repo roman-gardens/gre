@@ -39,19 +39,16 @@ An inscription found immured in the corner of a house near Lisbon around 1735 re
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 <!--## Dates-->

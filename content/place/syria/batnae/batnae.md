@@ -44,18 +44,15 @@ The Emperor Julian described the imperial residence in Batnae in Syria in one of
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

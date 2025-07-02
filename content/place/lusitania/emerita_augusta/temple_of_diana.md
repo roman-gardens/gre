@@ -55,7 +55,6 @@ Of the sculptural pieces found outside the temple, some have been situated in th
 
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

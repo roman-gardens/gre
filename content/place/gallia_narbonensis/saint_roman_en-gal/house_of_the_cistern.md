@@ -58,36 +58,9 @@ This phase, called the House with the Cistern, was constructed in the last years
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 <!--## Images-->
-
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
 
 ## Dates
 

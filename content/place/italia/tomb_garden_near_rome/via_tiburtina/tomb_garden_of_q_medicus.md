@@ -35,7 +35,6 @@ An opisthographic marble slab found reused for a Christian tomb (ICUR 8842) in t
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

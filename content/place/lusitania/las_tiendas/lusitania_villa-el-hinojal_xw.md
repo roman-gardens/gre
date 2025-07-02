@@ -45,7 +45,6 @@ The house appears to have been built at the end of the third or beginning of the
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -55,7 +54,6 @@ The house appears to have been built at the end of the third or beginning of the
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 <!--## Dates-->

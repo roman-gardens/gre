@@ -54,14 +54,13 @@ After Alexandra's death, during the period from 67-32, a large swimming pool (20
 
 <!--
 ## Maps
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
 {{< image file="ASIA_JUD_JERICHO_2.jpg" caption="Figure 2: The plantations and Hasmonean palace buildings, Area AA represent the location of the the buried Palace.(K. Wilczak and K. Gleason, after Netzer 2001a: Plan 4; Netzer and Laureys-Chachy 2004: Plan 2)" credit="" alt="Figure 2: The plantations and Hasmonean palace buildings, Area AA represent the location of the  buried Palace.(K. Wilczak and K. Gleason, after Netzer 2001a: Plan 4; Netzer and Laureys-Chachy 2004: Plan 2) " >}}
 
-{{< image file="ASIA_JUD_JERICHO_5.jpg" caption="Figure 3:Plan of the later Hasmonean palaces and their gardens. Light gray shading indicates gardens, dark gray shading indicates pools" credit="(Gleason after Netzer 2001a: Plan 8)" alt="Figure 3:Plan of the later Hasmonean palaces and their gardens. Light gray shading indicates gardens, dark gray shading indicates pools (Gleason after Netzer 2001a: Plan 8)" >}}
+{{< image file="ASIA_JUD_JERICHO_5.jpg" caption="Figure 3:Plan of the later Hasmonean palaces and their gardens. Light gray shading indicates gardens, dark gray shading indicates pools" credit="(Gleason after Netzer 2001a: Plan 8)" alt="" >}}
 
 
 ## Images

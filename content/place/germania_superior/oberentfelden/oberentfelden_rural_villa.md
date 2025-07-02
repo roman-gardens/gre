@@ -36,17 +36,15 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 <!--## Maps-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans
 
-{{< image file="EUR_GS_Obe_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa (A) with a bath (B), a nymphaeum (D) and various outbuildings and houses (C)." credit="Plan adapted from Drack and Fellmann 1988, fig. 418." alt="Fig. 1: Plan of the rural villa (A) with a bath (B), a nymphaeum (D) and various outbuildings and houses (C). Plan adapted from Drack and Fellmann 1988, fig. 418." >}}
+{{< image file="EUR_GS_Obe_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa (A) with a bath (B), a nymphaeum (D) and various outbuildings and houses (C)." credit="Plan adapted from Drack and Fellmann 1988, fig. 418." alt="" >}}
 
 <!--## Images-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Dates

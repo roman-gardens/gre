@@ -44,7 +44,6 @@ These parts of the villa have been relatively spared and they are among the best
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

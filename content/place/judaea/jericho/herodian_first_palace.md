@@ -54,7 +54,7 @@ This first palace was "introverted" thus giving expression to Herod's inferior s
 
 ## Plans
 
-{{< image file="ASIA_JUD_JERICHO_7a.jpg" caption="Figure 2: Plan of Herod's first palace" credit="(Gleason after Netzer 2001)." alt="Figure 2: Plan of Herod's first palace (Gleason after Netzer 2001)." >}}
+{{< image file="ASIA_JUD_JERICHO_7a.jpg" caption="Figure 2: Plan of Herod's first palace" credit="(Gleason after Netzer 2001)." alt="" >}}
 
 ## Images
 

@@ -51,7 +51,6 @@ By 90 BCE, Jannaeus was experiencing political and military difficulties, and it
 
 <!--
 ## Maps
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -61,7 +60,7 @@ By 90 BCE, Jannaeus was experiencing political and military difficulties, and it
 
 ## Images
 
-{{< image file="ASIA_JUD_JERICHO_4.jpg" caption="Figure 3:Axonometric reconstruction of the Hasmonean palace and cultivated areas" credit="(Netzer 1999)." alt="Figure 3:Axonometric reconstruction of the Hasmonean palace and cultivated areas (Netzer 1999)." >}}
+{{< image file="ASIA_JUD_JERICHO_4.jpg" caption="Figure 3:Axonometric reconstruction of the Hasmonean palace and cultivated areas" credit="(Netzer 1999)." alt="" >}}
 
 ## Dates
 

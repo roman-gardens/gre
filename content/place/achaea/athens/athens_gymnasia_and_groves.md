@@ -24,7 +24,6 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 <!--## Maps-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans
@@ -34,7 +33,6 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 <!--## Images-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Bibliography

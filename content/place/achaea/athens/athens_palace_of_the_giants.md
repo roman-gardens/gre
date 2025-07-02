@@ -40,7 +40,6 @@ It is possible that a garden might have been present in one of the inner courtya
 <!--## Maps-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans
@@ -49,7 +48,6 @@ It is possible that a garden might have been present in one of the inner courtya
 <!--## Images-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Dates

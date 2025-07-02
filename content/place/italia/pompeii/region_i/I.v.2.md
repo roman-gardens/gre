@@ -55,16 +55,11 @@ A. This tannery was excavated in 1873-1874. The [peristyle](http://vocab.getty.e
 
 B. The south half of the insula was also excavated in 1873-74. It was accessed from the back door in the [peristyle](http://vocab.getty.edu/page/aat/300080971) garden of the tannery by descending six steps. This was a large open area that had been cleared of previous structures. Formerly there had been five doors in the south wall leading to the *pomerium* but these were closed up. This area could have been used as a kitchen garden as suggested by Tatiana Warscher or for drying leather as suggested by Viola.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
+<!-- ## Plans -->
 
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}-->
-
+<!-- ## Images -->
 
 ## Dates
 Excavated 1873-1874.

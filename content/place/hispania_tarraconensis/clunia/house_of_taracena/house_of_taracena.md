@@ -83,7 +83,6 @@ On the southeast corner of the house was a curious structure placed more than a 
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

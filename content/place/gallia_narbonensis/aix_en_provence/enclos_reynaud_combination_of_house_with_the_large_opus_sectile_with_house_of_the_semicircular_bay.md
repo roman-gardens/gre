@@ -49,30 +49,12 @@ In the second century, to judge by the style of the mosaics, the two preceding h
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
 
 
 {{< image file="enclos_reynaud_combination_of_house_with_the_large_opus_sectile_with_house_of_the_semicircular_bay.png" caption="Combination of House with the large opus sectile with House of the semicircular bay" credit="" alt="Plan of the Combination of House with the Large Opus with House fo the Semicircular Bay" >}}
 
 <!--## Images-->
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Dates
 
 

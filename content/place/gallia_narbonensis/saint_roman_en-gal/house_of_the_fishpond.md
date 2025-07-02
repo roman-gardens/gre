@@ -51,31 +51,13 @@ In the course of the second century, some two meters of fill was added to the ga
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
 
 
-{{< image file="House of the Fishpond.png" caption="house of the fishpond" credit="" alt="ALT_TEXT" >}}
+{{< image file="House of the Fishpond.png" caption="house of the fishpond" credit="" alt="" >}}
 
 
 <!--## Images-->
-
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
 
 ## Dates
 

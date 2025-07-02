@@ -63,12 +63,12 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 <!--
 ## Maps
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}-->
+{{< image file="FILENAME" caption="" credit="" alt="" >}}-->
 
 
 ## Plans
 
-{{< image file="ASIA_JUD_MACCHAREUS_1.jpg" caption="Figure 1: Plan of the Herodian places at Macchaerus, the excavated garden is marked with a green rectangle" credit="(Vörös, 2013)." alt="Figure 1: Plan of the Herodian places at Macchaerus, the excavated garden is marked with a green rectangle (Vörös, 2013)." >}}
+{{< image file="ASIA_JUD_MACCHAREUS_1.jpg" caption="Figure 1: Plan of the Herodian places at Macchaerus, the excavated garden is marked with a green rectangle" credit="(Vörös, 2013)." alt="" >}}
 
 
 ## Images

@@ -46,7 +46,6 @@ The *triclinium* was bordered on two sides by two apartments that each had rooms
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -55,7 +54,6 @@ The *triclinium* was bordered on two sides by two apartments that each had rooms
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

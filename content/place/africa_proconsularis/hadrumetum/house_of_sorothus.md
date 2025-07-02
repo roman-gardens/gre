@@ -48,7 +48,6 @@ This very damaged house was laid out around a peristyle garden. A semi-circular 
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

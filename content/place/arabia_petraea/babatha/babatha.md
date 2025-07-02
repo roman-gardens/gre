@@ -41,7 +41,7 @@ Some years later, Shim'on ben Menahem transferred ownership of the property to h
 {{< image file="2_babatha_orchard_plan.jpg" caption="Fig. 2: A proposed plan of the date-palm orchard described in Babatha's Archive. Plan by L.-A. Bedal (based on Esler 2017:Fig. 7.2)" credit="" alt="Proposed plan of Babatha's orchard" >}}
 
 ## Images
-<!-- {{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}} -->
+<!-- {{< image file="FILENAME" caption="" credit="" alt="" >}} -->
 <!--
 -->
 

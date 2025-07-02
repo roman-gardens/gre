@@ -38,15 +38,6 @@ A broken marble slab immured in the cathedral at Padua since the seventeenth cen
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Dates
 
 unspecified

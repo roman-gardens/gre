@@ -40,34 +40,9 @@ A grove and shrine of Apollo in the mountaintop town of Kyrtones in Boeotia was 
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
-
-## Plans
-
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
+<!-- ## Plans -->
 
 <!--## Images-->
-
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
 
 ## Dates
 unspecified

@@ -49,7 +49,6 @@ The houses were excavated around 1940, at a time when there was no thought of re
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

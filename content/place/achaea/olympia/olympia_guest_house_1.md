@@ -47,29 +47,11 @@ A Roman guest house of the 2nd century A.D., so-called Guest House I, was erecte
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
 
 {{< image file="eur_ach_olympia_guesthouse.jpg" caption="Fig. 1: Plan of Guest House I (A) and Guest House II (B) with their courtyard gardens (G). The garden in Guest House I was later paved over (C)." credit="Adapted from Mallwitz 1972, fig. 230." alt="plan of Guest Houses 1 and 2 with their courtyard gardens" >}}
 
 <!--## Images-->
-
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
 
 ## Dates
 

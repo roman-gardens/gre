@@ -40,29 +40,11 @@ This building southwest of the temple of Zeus was the largest guest house in the
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
 
 {{< image file="eur_ach_olympia_leonidaion.jpg" caption="Fig. 1: Plan of the Leonidaion with its quatrefoil and circular gardens (white) and planting beds (b) surrounded by water channels (stippled) in the courtyard." credit="Adapted from Mallwitz 1972, fig. 201." alt="Plan of the Leonidaion with its quatrefoil, circular gardens and planting beds" >}}
 
 <!--## Images-->
-
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
 
 ## Dates
 

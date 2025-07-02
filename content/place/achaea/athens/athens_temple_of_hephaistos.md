@@ -45,7 +45,6 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 <!--## Maps-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans
@@ -55,7 +54,6 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 <!--## Images-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Dates

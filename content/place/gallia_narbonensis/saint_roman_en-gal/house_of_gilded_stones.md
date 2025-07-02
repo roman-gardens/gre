@@ -61,15 +61,6 @@ Further to the north, at the back of the lot, the house had a large garden [25] 
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
 
 {{< image file="house_of_the_gilded_stones.png" caption="Plan of House of the Gilded Stones" credit="" alt="" >}}

@@ -45,7 +45,6 @@ The courtyard was on two levels, divided on the north by a terrace wall with two
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -55,7 +54,6 @@ The courtyard was on two levels, divided on the north by a terrace wall with two
 ## Images
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

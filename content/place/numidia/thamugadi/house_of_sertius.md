@@ -49,18 +49,15 @@ This large *domus* the result of the combining of two houses, is located at the 
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 {{< image file="house_of _sertius.jpg" caption="Fig. 1: Plan of the House of Sertius" credit="(Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 152)" alt="Plan of the House of Sertius at Thamugadi">}}
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

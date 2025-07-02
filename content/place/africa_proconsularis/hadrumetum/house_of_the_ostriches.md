@@ -47,7 +47,6 @@ Fig. 1: Plan of the House of the Ostriches <!--(VER is sending image)-->
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

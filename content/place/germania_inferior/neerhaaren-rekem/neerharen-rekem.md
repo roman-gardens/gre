@@ -38,7 +38,7 @@ The facade of this modest house of a *villa rustica* near the [Meuse river](http
 -->
 
 ## Plans
-{{< image file="neerhaaren-rekem_plan1_EUR_GI_NeeRek_Rv_carroll.jpg" caption="Plan 1. Plan of the farm house at Neerhaaren-Rekem with a possible arbor leading to the door and a pool (grey) between the posts of the arbor." credit="Plan adapted from De Boe, De Bie and Van Impe 1992, fig. 288." alt="Plan 1. Plan of the farm house at Neerhaaren-Rekem with a possible arbor leading to the door and a pool (grey) between the posts of the arbor. Plan adapted from De Boe, De Bie and Van Impe 1992, fig. 288." >}}
+{{< image file="neerhaaren-rekem_plan1_EUR_GI_NeeRek_Rv_carroll.jpg" caption="Plan 1. Plan of the farm house at Neerhaaren-Rekem with a possible arbor leading to the door and a pool (grey) between the posts of the arbor." credit="Plan adapted from De Boe, De Bie and Van Impe 1992, fig. 288." alt="" >}}
 
 ## Images
 

@@ -39,7 +39,6 @@ A pool, still frescoed in blue, has recently been uncovered at the south end of 
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

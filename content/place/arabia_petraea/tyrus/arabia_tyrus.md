@@ -46,13 +46,13 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 {{< image file="1_arabia_petraea_map.jpg" caption="Fig. 1: Map showing the location of ancient Tyrus in Arabia Petraea. Map by L.-A. Bedal, based on <a href=\"https://commons.wikimedia.org/w/index.php?curid=26047529\">Andrein, with the assistance of EraNavigator</a>" credit="" alt="Map of Petra location" >}}
 
 ## Plans
-<!-- {{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}} -->
+<!-- {{< image file="FILENAME" caption="" credit="" alt="" >}} -->
 <!--
  Waiting for plan from K. Gleason
 -->
 
 ## Images
-<!-- {{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}} -->
+<!-- {{< image file="FILENAME" caption="" credit="" alt="" >}} -->
 <!--
  Waiting for columbarium photo from K. Gleason
 -->
@@ -65,7 +65,6 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 
 {{< image file="5_arabia_tyrus_reflecting_pool.jpg" caption="Fig. 5: Model of the Lion Pavilion and reflecting pool. Permission of E. Netzer." credit="" alt="Model of pavilion and pool" >}}
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

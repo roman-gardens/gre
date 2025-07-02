@@ -22,7 +22,6 @@ The core building of the **House of Fourni** is arranged along a main axis with 
 
 <!--
 ## Maps
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

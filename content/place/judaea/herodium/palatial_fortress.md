@@ -50,7 +50,6 @@ The Palace Fortress is a cylindrical structure originally seven stories high (tw
 
 <!--
 ## Maps
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -59,7 +58,7 @@ The Palace Fortress is a cylindrical structure originally seven stories high (tw
 
 <!--## Images
 
-{{< image file="Latimer_fig_15_or_10.1b.jpg" caption="Fig. 2: Reconstruction of the house and garden." credit="Courtesy of K. Branigan." alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." >}}-->
+{{< image file="Latimer_fig_15_or_10.1b.jpg" caption="Fig. 2: Reconstruction of the house and garden." credit="Courtesy of K. Branigan." alt="" >}}-->
 
 ## Dates
 

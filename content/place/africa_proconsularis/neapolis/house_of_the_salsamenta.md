@@ -43,7 +43,6 @@ House of the Salsamenta (Usine de salaison)
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -52,7 +51,6 @@ House of the Salsamenta (Usine de salaison)
 {{< image file="Salsamenta_house_phase_21.jpg" caption="Fig. 2: Plan of the House of the Salsamenta Phase 2." credit="(\"L'usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998\", *Africa* XVII, 1999, pp. 159-161, fig. 7)" alt="Plan of the House of the Salsamenta at Neapolis Phase 2">}}
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images

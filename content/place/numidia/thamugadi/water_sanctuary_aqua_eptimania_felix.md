@@ -50,19 +50,16 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 {{< image file="water_sanctuary _aqua_eptimania_felix1.jpg" caption="Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix" credit="(Lassus, J., 1981, fig. 9)" alt="Plan of the Water Sanctuary Aqua Septimiana Felix">}}
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

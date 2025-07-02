@@ -52,7 +52,6 @@ A limited examination of the courtyard area by K. Gleason in December 1985 suppo
 
 <!--
 ## Maps
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -61,7 +60,7 @@ A limited examination of the courtyard area by K. Gleason in December 1985 suppo
 
 <!--## Images
 
-{{< image file="Latimer_fig_15_or_10.1b.jpg" caption="Fig. 2: Reconstruction of the house and garden." credit="Courtesy of K. Branigan." alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." >}}-->
+{{< image file="Latimer_fig_15_or_10.1b.jpg" caption="Fig. 2: Reconstruction of the house and garden." credit="Courtesy of K. Branigan." alt="" >}}-->
 
 ## Dates
 

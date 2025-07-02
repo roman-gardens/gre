@@ -45,7 +45,6 @@ Adjacent to the east apartment is a light well with an earthen floor, which can 
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -54,7 +53,6 @@ Adjacent to the east apartment is a light well with an earthen floor, which can 
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

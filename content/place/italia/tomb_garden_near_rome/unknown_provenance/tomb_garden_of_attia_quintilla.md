@@ -33,7 +33,6 @@ A handsome marble funerary altar of unknown but presumably urban provenance, now
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

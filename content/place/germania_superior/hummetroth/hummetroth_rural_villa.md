@@ -40,17 +40,15 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 <!--## Maps-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans
 
-{{< image file="EUR_GS_Hum_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south." credit="Plan adapted from Baatz and Herrmann 1989, fig. 303a." alt="Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south. Plan adapted from Baatz and Herrmann 1989, fig. 303a." >}}
+{{< image file="EUR_GS_Hum_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south." credit="Plan adapted from Baatz and Herrmann 1989, fig. 303a." alt="" >}}
 
 <!--## Images-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Dates

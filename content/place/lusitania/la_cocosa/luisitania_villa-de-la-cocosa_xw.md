@@ -47,7 +47,6 @@ Besides the central peristyle, there are several other areas that were possibly 
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

@@ -47,7 +47,6 @@ The archaeologists working on the site have not produced a detailed sequence of 
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

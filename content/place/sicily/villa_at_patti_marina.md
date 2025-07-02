@@ -39,7 +39,6 @@ This fourth-century villa on the north coast has also yielded evidence for a gar
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -49,7 +48,6 @@ This fourth-century villa on the north coast has also yielded evidence for a gar
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

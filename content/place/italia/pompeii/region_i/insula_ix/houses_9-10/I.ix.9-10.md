@@ -48,15 +48,6 @@ To the rear of this house a raised garden (a), three steps up, had a *portico* o
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
 
 {{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}

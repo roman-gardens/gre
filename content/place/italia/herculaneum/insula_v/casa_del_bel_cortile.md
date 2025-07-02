@@ -47,15 +47,6 @@ Appendix II. 110.V.8.
 The illusion of a gardentrellis was created in this house withno garden by painting the archway under a flight of stairs in the courtyard with climbing vines and flowering oleanders
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
 

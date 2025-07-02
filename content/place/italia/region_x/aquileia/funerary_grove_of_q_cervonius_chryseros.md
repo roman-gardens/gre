@@ -38,15 +38,6 @@ A small inscribed altar of (probably) the Julio-Claudian era found by Mommsen am
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 <!--## Images-->
 
 

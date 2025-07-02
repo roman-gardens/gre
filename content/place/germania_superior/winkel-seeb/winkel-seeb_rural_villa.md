@@ -37,17 +37,15 @@ The residential and service parts of this *villa rustica* occupied an area of ca
 <!--## Maps-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans
 
-{{< image file="EUR_GS_WinSe_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa with porticoes enclosing a possible garden (G) in front of the house." credit="Plan adapted from Drack and Fellmann 1988, fig. 511." alt="Fig. 1: Plan of the rural villa with porticoes enclosing a possible garden (G) in front of the house. Plan adapted from Drack and Fellmann 1988, fig. 511." >}}
+{{< image file="EUR_GS_WinSe_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa with porticoes enclosing a possible garden (G) in front of the house." credit="Plan adapted from Drack and Fellmann 1988, fig. 511." alt="" >}}
 
 <!--## Images-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Dates

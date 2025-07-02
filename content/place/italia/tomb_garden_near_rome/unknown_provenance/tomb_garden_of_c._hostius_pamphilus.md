@@ -33,7 +33,6 @@ A travertine slab of unknown urban provenance, now in the Mus-ei Capitolini, rec
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

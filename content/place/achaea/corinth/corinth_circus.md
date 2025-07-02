@@ -41,12 +41,11 @@ The so-called "hippodrome garden" type (see the Domus Flavia on the Palatine Hil
 <!--## Maps-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans
 
-{{< image file="corinth-plan.jpg" caption="Fig. 1: Actual State Plan of the Roman circus, with planting pits labeled. From D. G. Romano, 'Roman Circus,' p. 589, fig. 3." credit="Plan courtesy of the author." alt="plan of the Roman circus, with planting pits labeled" >}}
+{{< image file="corinth-plan.jpg" caption="Fig. 1: Actual State Plan of the Roman circus, with planting pits labeled. From D. G. Romano, \"Roman Circus,\" p. 589, fig. 3." credit="Plan courtesy of the author." alt="" >}}
 
 ## Images
 

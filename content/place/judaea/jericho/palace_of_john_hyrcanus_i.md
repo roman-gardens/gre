@@ -51,7 +51,6 @@ Over the years, two swimming pools (probably one for men and one for women), eac
 
 <!--
 ## Maps
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -60,7 +59,7 @@ Over the years, two swimming pools (probably one for men and one for women), eac
 
 ## Images
 
-{{< image file="ASIA_JUD_JERICHO_3.jpg" caption="Figure 3: The palace of King Hyrcanus I in Jericho the palace, the garden and the swimming pools" credit="(Netzer 1999)." alt="Figure 3: The palace of King Hyrcanus I in Jericho the palace, the garden and the swimming pools (Netzer 1999)." >}}
+{{< image file="ASIA_JUD_JERICHO_3.jpg" caption="Figure 3: The palace of King Hyrcanus I in Jericho the palace, the garden and the swimming pools" credit="(Netzer 1999)." alt="" >}}
 
 ## Dates
 

@@ -47,7 +47,6 @@ None Available
 
 {{< image file="st_mar_2.jpg" caption="Plan drawings of the Villa, Temple, and Promenade at Sainte-Marguerite-sur-Mer." credit="" alt="" >}}
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images

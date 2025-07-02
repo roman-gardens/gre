@@ -45,14 +45,6 @@ Remains discovered in 1888 revealed a large semicircular garden (Fig. 1: c) encl
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
 ## Dates
 
 unspecified

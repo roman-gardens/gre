@@ -46,7 +46,6 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -60,7 +59,6 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 <!--## Dates-->

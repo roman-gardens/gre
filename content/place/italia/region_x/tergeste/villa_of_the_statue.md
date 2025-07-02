@@ -59,16 +59,6 @@ North of the peristyle was the bath quarter (Fig. 1: G, H, I, M, P), but it is n
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
-
 ## Dates
 
 100 B.C.

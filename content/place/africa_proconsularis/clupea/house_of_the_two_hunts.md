@@ -38,7 +38,6 @@ The house is dated to the 5th-6th century AD on the base of the style of its mos
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -46,7 +45,6 @@ The house is dated to the 5th-6th century AD on the base of the style of its mos
 
 ## Images
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

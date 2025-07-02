@@ -16,7 +16,7 @@ draft: false
 - [Pupput]({{<relref ".">}}) 
 - {{< id vocab="Pleiades" id="315121" name="Pupput" >}}
 
-{{< image file="city_plan_house_of_the_viridarium_with_niches.jpg" caption="Plan of the residential quarters" credit="(Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)" alt="Plan of the residential quarters (Th. Leroy)" >}}
+{{< image file="city_plan_house_of_the_viridarium_with_niches.jpg" caption="Plan of the residential quarters" credit="(Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)" alt="" >}}
 
 ## Location Description
 
@@ -39,19 +39,16 @@ House of the Viridarium with Niches (Maison du viridarium à niches)
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 {{< image file="house_of_the_viridarium_with_niches.jpg" caption="Fig. 1: Plan of the House of the Viridarium with Niches" credit="(Ch. Peirce, from Ben Abed Ben Khader, A., 1994, Pl. CLXXI)" alt="Plan of the House of the Viridarium with Niches; Ben Abed Ben Khader, A., 2006" >}}
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 {{< image file="photo_of_the_viridarium_with_niches.jpg" caption="Fig. 2: Photograph of the garden" credit="(from Ben Abed Ben Khader, 2006, fig. 9, p. 521)" alt="Photograph of the garden; from Ben Abed Ben Khader, fig. 9, p. 521" >}}
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

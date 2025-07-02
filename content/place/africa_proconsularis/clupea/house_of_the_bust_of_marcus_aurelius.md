@@ -42,7 +42,6 @@ Built over an older establishment, the house presents two main phases.  The main
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -53,7 +52,6 @@ Built over an older establishment, the house presents two main phases.  The main
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

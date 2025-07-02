@@ -54,7 +54,6 @@ Foundations of garden architecture, water channels and garden soils of the late 
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

@@ -48,19 +48,16 @@ This *domus* was on the Place des Halles, the former site of the covered market 
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 {{< image file="place_des_halles.jpg" caption="Restored section of the entire domus by P. André" credit="" alt="A section drawing depicting the two floors of what a restored domus would look like." >}}
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

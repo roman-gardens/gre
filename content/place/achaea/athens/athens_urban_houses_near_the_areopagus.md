@@ -48,7 +48,6 @@ Another only partially excavated house of the mid-4th century A.D., built into t
 <!--## Maps-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans

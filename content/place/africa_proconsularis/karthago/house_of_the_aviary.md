@@ -48,13 +48,11 @@ House of the Aviary (Maison de la Volière)
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 {{< image file="House_of_the_Aviary_final.jpg" caption="Fig. 1: Plan of the House of the Aviary" credit="(Malek, A.-A., 2014, p. 17 and 2018, fig. 12.10)." alt="Plan of the House of the Aviary at Karthago" >}}
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images

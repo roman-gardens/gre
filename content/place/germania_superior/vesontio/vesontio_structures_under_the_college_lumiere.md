@@ -55,7 +55,6 @@ A fragment of a little ornamental stone *krater* was found in the material that 
 <!--## Maps-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans
@@ -67,7 +66,6 @@ A fragment of a little ornamental stone *krater* was found in the material that 
 <!--## Images-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Dates

@@ -54,7 +54,6 @@ During the third phase, in the 6th century, the entire garden, including the fou
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

@@ -40,19 +40,16 @@ House of Dionysos
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 {{< image file="AFR_Car_Hd_Amalek1.jpg" caption="Fig. 1: Plan of the House of Dionysos." credit="(Ben Abed-Ben Khader, A., 1999, plan 5)" alt="Plan of the House of Dionysos at Karthago">}}
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

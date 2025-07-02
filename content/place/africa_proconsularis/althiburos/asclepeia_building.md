@@ -54,7 +54,6 @@ During the third stage dated to the beginning of the second half of the fourth c
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -63,7 +62,6 @@ During the third stage dated to the beginning of the second half of the fourth c
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

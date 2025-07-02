@@ -39,7 +39,6 @@ There is a rectangular tank or fountain set against the rear wall of a small int
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

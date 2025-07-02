@@ -58,7 +58,6 @@ The remains of another colonnaded court (in the southeast corner of the crypt) c
 
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

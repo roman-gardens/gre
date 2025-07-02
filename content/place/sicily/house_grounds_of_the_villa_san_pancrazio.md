@@ -39,7 +39,6 @@ In private housing at this site on the east coast no excavation has so far been 
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -49,7 +48,6 @@ In private housing at this site on the east coast no excavation has so far been 
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

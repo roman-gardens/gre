@@ -56,7 +56,7 @@ C. A walled rustic garden close to entrance 8 had been planted and at the time o
 
 
 ## Plans
-{{< image file="Fig. 18, II.iv.2   5.29.59.jpg" caption="view form the portico" credit="" alt="Fig. 18, II.iv.2   5.29.59 - view form the portico ." >}}
+{{< image file="Fig. 18, II.iv.2   5.29.59.jpg" caption="view form the portico" credit="" alt="" >}}
 
 {{< image file="Fig. 19, II.iv.    5.32.59.jpg" caption="detail of the jet." credit="" alt="Fig. 19, II.iv.5.32.59.- detail of the jet." >}}
 

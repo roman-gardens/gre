@@ -54,7 +54,6 @@ None Available
 ## Plans
 {{< image file="yvelines1.jpg" caption="Plan 1:  Fig 4 - Plan of the Athenian Gardens of Richebourg" credit="" alt="A plan of the gardens of Richebourg. Small black dots, representing places where horticultural pots were found are also marked on the plan." >}}
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images

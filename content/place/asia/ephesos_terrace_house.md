@@ -50,11 +50,10 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 <!--
 ## Maps
 
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image file="Ephesos Plan.jpg" caption="Plan of Ephesos terrace house 2" credit="" alt="Plan of Ephesos terrace house 2 with courtyard in the middle and rooms surrounding it, Photo by N. Blanc" >}}
+{{< image file="Ephesos Plan.jpg" caption="Plan of Ephesos terrace house 2 with courtyard in the middle and rooms surrounding it." credit="Photo by N. Blanc" alt="" >}}
 
 
 ## Images

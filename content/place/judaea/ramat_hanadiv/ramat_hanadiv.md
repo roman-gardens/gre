@@ -49,16 +49,15 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 <!--## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 
 
 ## Plans
 
-{{< image file="Latimer_fig_14_or_10.1a.jpg" caption="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G)." credit="Adapted from Branigan 1971, fig. 20." alt="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20." >}}
+{{< image file="Latimer_fig_14_or_10.1a.jpg" caption="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G)." credit="Adapted from Branigan 1971, fig. 20." alt="" >}}
 
 ## Images
 
-{{< image file="Latimer_fig_15_or_10.1b.jpg" caption="Fig. 2: Reconstruction of the house and garden." credit="Courtesy of K. Branigan." alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." >}}
+{{< image file="Latimer_fig_15_or_10.1b.jpg" caption="Fig. 2: Reconstruction of the house and garden." credit="Courtesy of K. Branigan." alt="" >}}
  -->
 
 ## Dates

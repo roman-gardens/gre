@@ -40,18 +40,15 @@ The only indication that there was a garden at this sanctuary is a literary refe
 <!--
 
 NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 
 ## Plans
 
 NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 <!--## Images
 
 NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

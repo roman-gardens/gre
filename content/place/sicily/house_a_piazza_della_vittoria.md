@@ -39,7 +39,6 @@ There is a circular pool in the center of the peristyle in this grand house (Fig
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

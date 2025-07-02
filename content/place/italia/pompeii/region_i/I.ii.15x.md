@@ -49,20 +49,11 @@ This humble house was excavated in 1873. It had no garden but the *impluvium* wa
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
 
 {{< image file="fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
 
-{{< image file="fig-2-region-i-insula-ii.png" caption="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, \"Topo grafia,\" pl. 9" credit="" alt="" pl. 9." >}}
+{{< image file="fig-2-region-i-insula-ii.png" caption="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, \"Topo grafia,\" pl. 9" credit="" alt="" >}}
 
 <!--## Images-->
 

@@ -55,7 +55,6 @@ Luckily a small part of it was preserved, and here we still find the low parapet
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

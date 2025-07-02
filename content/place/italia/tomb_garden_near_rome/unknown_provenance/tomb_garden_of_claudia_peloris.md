@@ -34,7 +34,6 @@ The building, a substantial structure of some thirteen rooms, seems to comprise,
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

@@ -39,7 +39,6 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -49,7 +48,6 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 <!--## Dates-->

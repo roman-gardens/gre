@@ -41,7 +41,6 @@ This villa at Site 11 was a simple "U" plan farmhouse initiated at the beginning
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

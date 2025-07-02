@@ -37,17 +37,15 @@ Enclosing the farm complex was a hedge or row of trees, the planting trenches of
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image file="rheinbach-flerzheim_plan1_EUR_GI_RheFle_Rv_carroll.jpg" caption="Plan 1. Plan of the farmyard with its house (A) and bath (B) enclosed by a hedge (grey line). The open circles are wells." credit="Adapted from Carroll 2001, fig. 38." alt="Plan 1. Plan of the farmyard with its house (A) and bath (B) enclosed by a hedge (grey line). The open circles are wells. Adapted from Carroll 2001, fig. 38." >}}
+{{< image file="rheinbach-flerzheim_plan1_EUR_GI_RheFle_Rv_carroll.jpg" caption="Plan 1. Plan of the farmyard with its house (A) and bath (B) enclosed by a hedge (grey line). The open circles are wells." credit="Adapted from Carroll 2001, fig. 38." alt="" >}}
 
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

@@ -74,7 +74,7 @@ Among the objects found at Cours Pourtoules was a terracotta *oscillum* represen
 
 {{< image file="cours_pourtoules_general_map_phase3.png" caption="Phase 3 of Course Pourtoules" credit="" alt="Phase 3 of Cours Pourtoules" >}}
 
-{{< image file="cours_pourtoules_axonometric_reconstruction.png" caption="Cours Pourtoules, axonometric reconstruction by  P. Vallauri. From Gallia 87-88, fig. 133 p. 322." credit="" alt="Cours Pourtoules, axonometric reconstruction by  P. Vallauri." >}}
+{{< image file="cours_pourtoules_axonometric_reconstruction.png" caption="Cours Pourtoules, axonometric reconstruction" credit="by P. Vallauri. from Gallia 87-88, fig. 133 p. 322." alt="" >}}
 
 
 ## Images

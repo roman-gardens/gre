@@ -65,7 +65,6 @@ An equally important second nucleus of this house consisted of a complex of room
 
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

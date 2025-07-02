@@ -49,19 +49,16 @@ The large house was laid out around a large peristyle of 22 columns. In the axis
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 {{< image file="hermaphrodite_house.jpg" caption="Fig. 1: Plan of the Hermaphrodite House" credit="(Germain, S., 1969, fig. 7)" alt="Plan of the Hermaphrodite House at Thamugadi; Les mosaïques de Timgad, p. 65, fig. 7." >}}
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

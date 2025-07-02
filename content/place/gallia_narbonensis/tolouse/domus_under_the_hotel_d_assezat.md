@@ -58,15 +58,6 @@ The domus must have continued to exist beyond the first century, but no precise 
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
 
 {{< image file="domus_under_the_hotel_d_assezat.png" caption="Plan of Domus under the Hôtel d'Assézat" credit="" alt="" >}}

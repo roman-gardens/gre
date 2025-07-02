@@ -47,25 +47,15 @@ N/A
 This multi-family dwelling was excavated in 1927-1929. There was a small paved courtyard (a) 1.97 x 2.97 m. located to provide light and air to the surrounding apartments which was enclosed on the east, north and west by a low wall 0.76 m. high which formeda catch basin for rainwater. Herbs or flowers could be grown in the planting space (14 cm. wide x 25 cm. deep) on the top of the wall. The middle of the north side of the wall contained the mouth of a well that was 0.90 m. dia. and in the floor of the passageway to the west of the courtyard there was the mouth of a cistern covered by a circular piece of marble. There was a windlass with a rope found in a nearby room undoubtedly used to draw water from either of these fixtures. According to Maiuri, there could be a large cistern underground connecting the mouth of cistern in the passageway and the mouth of the well.
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
-{{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
 
+{{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
 
 <!--## Images-->
 
 ## Places
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
 
 ## Dates
 

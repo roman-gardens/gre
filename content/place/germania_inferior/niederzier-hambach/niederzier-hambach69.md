@@ -43,7 +43,6 @@ To the east of the house was an area marked off by a narrow ditch (B on plan). T
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

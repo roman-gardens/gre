@@ -37,15 +37,6 @@ A marble stele now in a church at Grazzano records the epitaph of T. Vettius Her
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 <!--## Images-->
 
 

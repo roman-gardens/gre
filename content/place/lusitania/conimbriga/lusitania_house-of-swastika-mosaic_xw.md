@@ -43,7 +43,6 @@ Far more modest than the House of Cantaber but following the same general ideas 
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

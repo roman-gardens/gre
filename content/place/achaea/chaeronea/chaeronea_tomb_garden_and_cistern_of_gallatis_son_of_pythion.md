@@ -36,11 +36,9 @@ An inscription found near Chaeronea and known only from a transcription records 
 
 <!--## Maps
 
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 
 ## Plans
 
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 
 ## Images
 

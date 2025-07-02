@@ -39,7 +39,6 @@ The courtyard was unpaved, and the presence of a source of water suggests that i
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -48,7 +47,6 @@ The courtyard was unpaved, and the presence of a source of water suggests that i
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

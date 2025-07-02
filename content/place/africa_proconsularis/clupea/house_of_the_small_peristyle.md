@@ -38,7 +38,6 @@ Possibly belonging to this same house, the east part of the *domus* may have bee
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -46,7 +45,6 @@ Possibly belonging to this same house, the east part of the *domus* may have bee
 
 ## Images
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

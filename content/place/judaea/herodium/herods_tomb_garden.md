@@ -49,7 +49,6 @@ In 2005, Netzer's team found the long-sought tomb of Herod, positioned on a terr
 
 <!--
 ## Maps
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

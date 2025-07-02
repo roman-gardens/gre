@@ -20,17 +20,14 @@ Evidence for a temple grove on Aegina exists only in a literary reference. Pausa
 
 <!--
 ## Maps
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 <!--
 ## Plans
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 <!--
 ## Images
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 <!-- 
@@ -45,5 +42,6 @@ Evidence for a temple grove on Aegina exists only in a literary reference. Pausa
 - {{< keyword "olive trees" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="579844" name="Aegina (island)" >}}
 - {{< id vocab="TGN" id="7011087" name="Aegina (inhabited place)" >}}

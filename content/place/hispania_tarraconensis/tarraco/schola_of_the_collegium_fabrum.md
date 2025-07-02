@@ -69,7 +69,6 @@ The Schola of the collegium fabrum had a nympheum (a) decorated by a sculptural 
 
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 

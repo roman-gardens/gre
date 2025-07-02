@@ -41,14 +41,13 @@ In the late 1st century, around AD 70, the timber-lined pool in the west was rep
 <!--## Maps-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans
 
-{{< image file="EUR_GS_Die_Rv1_carroll.jpg" caption="Fig. 1: Overall plan of the site during the 2nd half of the 1st century and 1st half 2nd century AD." credit="Plan courtesy of Christa Ebnöther." alt="Fig. 1: Overall plan of the site during the 2nd half of the 1st century and 1st half 2nd century AD. Plan courtesy of Christa Ebnöther." >}}
+{{< image file="EUR_GS_Die_Rv1_carroll.jpg" caption="Fig. 1: Overall plan of the site during the 2nd half of the 1st century and 1st half 2nd century AD." credit="Plan courtesy of Christa Ebnöther." alt="" >}}
 
-{{< image file="EUR_GS_Die_Rv3_carroll.jpg" caption="Fig. 2: Plan of the main building with its garden, phase 1, ca. 50-70 AD." credit="Plan courtesy of Christa Ebnöther." alt="Fig. 2: Plan of the main building with its garden, phase 1, ca. 50-70 AD. Plan courtesy of Christa Ebnöther." >}}
+{{< image file="EUR_GS_Die_Rv3_carroll.jpg" caption="Fig. 2: Plan of the main building with its garden, phase 1, ca. 50-70 AD." credit="Plan courtesy of Christa Ebnöther." alt="" >}}
 
 {{< image file="EUR_GS_Die_Rv4_carroll.jpg" caption="Fig. 3: Plan of the main building showing the curved plantings flanking the path." credit="" alt="" >}}
 

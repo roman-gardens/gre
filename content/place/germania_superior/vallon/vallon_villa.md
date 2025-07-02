@@ -71,14 +71,13 @@ After the disappearance of the Antique site, the land continues to be occupied d
 <!--## Plans-->
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 
 {{< image file="EUR_GS_Val_villa2_carroll.jpg" caption="Fig. 3 : pine wood conduits preserved in one of the channels. Photo Fribourg State Archaeological Service." credit="" alt="" >}}
 
-{{< image file="EUR_GS_Val_villa4_carroll.jpg" caption="Fig. 4 : ditches uncovered in the courtyard in front of the central building (2006)." credit="Photo Fribourg State Archaeological Service." alt="Fig. 4 : ditches uncovered in the courtyard in front of the central building (2006). Photo Fribourg State Archaeological Service." >}}
+{{< image file="EUR_GS_Val_villa4_carroll.jpg" caption="Fig. 4 : ditches uncovered in the courtyard in front of the central building (2006)." credit="Photo Fribourg State Archaeological Service." alt="" >}}
 
 {{< image file="EUR_GS_Val_villa5_carroll.jpg" caption="Fig. 5 : scale model of the habitation area in the second half of the IInd century. Built before the research in the gardens was resumed, it presents a considerable partitioning of the various open spaces. Photo Fribourg State Archaeological Service." credit="" alt="" >}}
 

@@ -89,7 +89,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
+{{< image file="../image_name.ext" caption="" credit="" alt="" >}}
 
 
 ## Plans

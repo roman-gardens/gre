@@ -34,7 +34,6 @@ A funerary plaque (evidently complete) discovered in 1861 beside the Via Praenes
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

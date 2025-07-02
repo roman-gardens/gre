@@ -40,7 +40,6 @@ The sumptuous fourth-century villa has, not surprisingly, a large and most elabo
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

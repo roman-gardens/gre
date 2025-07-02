@@ -35,7 +35,6 @@ A marble slab found in 1745 near a circular tomb monument beside the Via Praenes
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

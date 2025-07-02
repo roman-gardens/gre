@@ -39,7 +39,6 @@ House of the Bassilica (Maison de la Bassilica)
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -48,13 +47,11 @@ House of the Bassilica (Maison de la Bassilica)
 <!-- the north arrow in the figure appears to be incorrect -- based on the satellite imagery, the arrow seems to point west, not north -- Keith -->
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

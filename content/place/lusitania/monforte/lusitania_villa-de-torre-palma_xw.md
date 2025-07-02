@@ -48,7 +48,6 @@ The third phase distinguished by Maloney and Hale covered several building campa
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

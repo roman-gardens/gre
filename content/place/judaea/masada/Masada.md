@@ -50,7 +50,6 @@ The Northern or Hanging Palace, the latest of Herod's constructions on the site,
 ## Maps
 
 
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

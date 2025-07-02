@@ -39,7 +39,6 @@ There is a four meter square basin located in the middle of the space enclosed b
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

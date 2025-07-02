@@ -45,7 +45,6 @@ The large number of objects of daily life found in the ruins, some under toppled
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -55,7 +54,6 @@ The large number of objects of daily life found in the ruins, some under toppled
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 <!--## Dates-->

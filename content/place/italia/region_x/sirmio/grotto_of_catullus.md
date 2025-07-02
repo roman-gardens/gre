@@ -60,15 +60,6 @@ Sirmio is known from a citation in Catullus' XXXI° poem (paene insularum, Sirmi
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
 {{< image file="sirmio-2.jpg" caption="Fig. 2: Plan of House of Grotto of Catullus" credit="" alt="" >}}
 

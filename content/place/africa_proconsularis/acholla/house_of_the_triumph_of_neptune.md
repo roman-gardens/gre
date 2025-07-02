@@ -42,16 +42,14 @@ Another possible garden(X) was adjacent to the reception room of the northern ai
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image file="House_the_Triumph_of_Neptune2.jpg" caption="Plan of  the House of the Triumph of Neptune " credit="(Gozlan, S., Bourgeois, A., 1992, plan II)" alt="Plan of  the House of the Triumph of Neptune">}}
+{{< image file="House_the_Triumph_of_Neptune2.jpg" caption="Plan of the House of the Triumph of Neptune" credit="(Gozlan, S., Bourgeois, A., 1992, plan II)" alt="" >}}
 
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

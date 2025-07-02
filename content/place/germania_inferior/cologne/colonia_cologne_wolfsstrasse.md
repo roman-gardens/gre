@@ -39,7 +39,6 @@ The peristyle courtyard was ca. 7 m. wide and 11.30 m. long. Both faces of the w
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -48,7 +47,6 @@ The peristyle courtyard was ca. 7 m. wide and 11.30 m. long. Both faces of the w
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

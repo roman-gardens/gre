@@ -30,11 +30,7 @@ The porticoes, and maybe even the courtyard, were decorated with statues. Most o
 
 Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora of the Italians was never referred to as an agora, but probably as a *pastas italike* (as restored in Roussel and Launey, *Inscriptions de Délos*, no. 2612). The Latin translation of this could have been *porticus Italica* or *porticus Italicorum* which would have more appropriate for a luxurious garden-portico, rather than the agora or forum.
 
-<!--
-## Maps
-{{< image file="filename.ext" caption="CAPTION" alt="ALT_TEXT" >}}
--->
-
+<!-- ## Maps -->
 
 ## Plans
 {{< image file="truemper1.png" caption="Fig. 1: Agora of the Italians, reconstructed plan of the original building (first phase)." credit="Drawing by M. Trümper." alt="" >}}
@@ -47,6 +43,7 @@ Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora
 {{< image file="truemper4.jpg" caption="Fig. 4:  Agora of the Italians, photo from the southeast." credit="Courtesy of M. Trümper." alt="" >}}
 
 ## Bibliography
+
 - P. Roussel and M. Launey, *Inscriptions de Délos*. Paris, 1937. [(worldcat)](https://search.worldcat.org/title/860534008).
 - Ét. Lapalus, *L'Agora des Italiens.* Exploration archéologique de Délos XIX. Paris, 1939. [(worldcat)](https://search.worldcat.org/title/603854444).
 - J. Marcadé, *Au Musée de Délos. Étude de la sculpture hellénistique en ronde bosse découverte dans l'île.* BEFAR fasc. 215, 1969. [(worldcat)](https://search.worldcat.org/title/872196666).
@@ -72,4 +69,5 @@ Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora
 - {{< keyword "water wells" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="394168051" name="Agora of the Italians" >}}

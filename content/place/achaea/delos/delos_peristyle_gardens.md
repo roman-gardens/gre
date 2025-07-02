@@ -24,7 +24,6 @@ Whether the *impluvium* of 30.20 square meters (a) of **House F** in insula II o
 
 <!--
 ## Maps
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

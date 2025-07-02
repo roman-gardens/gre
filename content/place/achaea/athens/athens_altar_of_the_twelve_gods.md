@@ -29,7 +29,7 @@ A grove of olive and laurel trees surrounding the Altar of the Twelve Gods in th
 
 NEEDED - search bibliography for plans.
 
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}} -->
+{{< image file="image_name.ext" caption="" credit="" alt="" >}} -->
 
 
 ## Bibliography

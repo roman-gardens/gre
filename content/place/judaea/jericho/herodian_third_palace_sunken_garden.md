@@ -47,9 +47,9 @@ A sublocation is any area larger than an individual garden, but located within a
 
 The third palace built by Herod in the late first century B.C. merits special mention with regard to the integration of water, gardens and landscape. This palace was sited along a straight section of Wadi Qelt to take advantage of its season flow of water each winter.  This area was, however, lower than those on which the first and second palaces had been built, offering a more limited view of the surroundings.  This shortcoming was offset by the erection of a viewing pavilion on top of an artificial tel.  The overall building complex was rectilinear, with Wadi Qelt cutting through the center, and a bridge spanning the two halves.  On the north side lay a complex of banqueting rooms, Roman style baths, reception rooms, peristyle courtyards and colonnaded walks.   On the south lay a great sunken garden, the artificial tel and pavilion, and, off-axis, a shallow boating pool. (Fig. 2) The garden features are discussed individually below.
 
-{{< image file="/ASIA_JUD_JERICHO_11.jpg" caption="Figure 2: Plan of Herod's Third Palace" credit="(K. Gleason after E. Netzer 2001a: Plan 48)." alt="Figure 2: Plan of Herod's Third Palace (K. Gleason after E. Netzer 2001a: Plan 48)." >}}
+{{< image file="/ASIA_JUD_JERICHO_11.jpg" caption="Figure 2: Plan of Herod's Third Palace" credit="(K. Gleason after E. Netzer 2001a: Plan 48)." alt="" >}}
 
-{{< image file="/ASIA_JUD_JERICHO_12.jpg" caption="Figure 3: Section extending from the Sunken Garden, through Garden B64, to the Southern Tell" credit="(K. Wilczak after Netzer 2001a: Ill. 478)." alt="Figure 3: Section extending from the Sunken Garden, through Garden B64, to the Southern Tell (K. Wilczak after Netzer 2001a: Ill. 478)." >}}
+{{< image file="/ASIA_JUD_JERICHO_12.jpg" caption="Figure 3: Section extending from the Sunken Garden, through Garden B64, to the Southern Tell" credit="(K. Wilczak after Netzer 2001a: Ill. 478)." alt="" >}}
 
 ## Garden
 
@@ -76,20 +76,19 @@ A huge pool (90 x 40 m.) built to the east of the sunken garden formed an integr
 
 <!--
 ## Maps
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images
 
 {{< image file="/ASIA_JUD_JERICHO_17.jpg" caption="Figure 4: view of the Third Palace showing the Sunken Garden with linear promenades(ambulationes, K. Gleason after J. Salzberg)." credit="" alt="" >}}
 
-{{< image file="fig_18.jpg" caption="Fig. 5: The Grand Facade of the Sunken Garden  and Netzer's Trench B3, view from the northwest" credit="(Netzer 2001a: Ill. 433)." alt="Fig. 5: The Grand Facade of the Sunken Garden  and Netzer's Trench B3, view from the northwest (Netzer 2001a: Ill. 433)." >}}
+{{< image file="fig_18.jpg" caption="Fig. 5: The Grand Facade of the Sunken Garden  and Netzer's Trench B3, view from the northwest" credit="(Netzer 2001a: Ill. 433)." alt="" >}}
 
 {{< image file="/ASIA_JUD_JERICHO_19.jpg" caption="Figure 6:Axonometric reconstruction of the Hemicycle and the Sunken Garden terrace showing the excavation areas.Light shading indicates the Kelso and Baramki excavations, dark shading indicates Netzer's excavations (K.Gleason after J. Salzberg)." credit="" alt="" >}}
 
-{{< image file="ASIA_JUD_JERICHO_20.jpg" caption="Figure 7:Section C-C through the benches of the Hemicycle: opus reticulatum walls set on clay subsoil" credit="(K. Gleason after Kelso and Baramki 1955:18)." alt="Figure 7:Section C-C through the benches of the Hemicycle: opus reticulatum walls set on clay subsoil (K. Gleason after Kelso and Baramki 1955:18)." >}}
+{{< image file="ASIA_JUD_JERICHO_20.jpg" caption="Figure 7:Section C-C through the benches of the Hemicycle: opus reticulatum walls set on clay subsoil" credit="(K. Gleason after Kelso and Baramki 1955:18)." alt="" >}}
 
-{{< image file="fig_21.jpg" caption="Figure 8: Trench B6" credit="(Netzer 2001a: Ill. 435)." alt="Figure 8: Trench B6 (Netzer 2001a: Ill. 435)." >}}
+{{< image file="fig_21.jpg" caption="Figure 8: Trench B6" credit="(Netzer 2001a: Ill. 435)." alt="" >}}
 
 {{< image file="ASIA_JUD_JERICHO_22.jpg" caption="Figure 9:Section D-D in Trench B6 showing garden soils near east end of Sunken Garden at location of flower pot. (K. Gleason)." credit="" alt="" >}}
 

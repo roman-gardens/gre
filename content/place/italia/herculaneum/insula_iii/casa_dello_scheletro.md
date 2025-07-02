@@ -51,15 +51,6 @@ GARDENS OF THE ROMAN EMPIREITALIA2center third is missing. In this panel the lat
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa dello Scheletro" credit="" alt="" >}}
 

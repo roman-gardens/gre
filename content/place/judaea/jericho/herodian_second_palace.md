@@ -53,12 +53,11 @@ The  low wing of the palace (Fig 2, AK) incorporated the two Hasmonean swimming 
 
 <!--
 ## Maps
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
 
-{{< image file="ASIA_JUD_JERICHO_8a.jpg" caption="Figure 2: Gardens of Herod's second palace. Light gray shading indicates gardens, dark gray shading indicates pools" credit="(Gleason after Netzer 2001a: Plan 47)." alt="Figure 2: Gardens of Herod's Second Palace. Light gray shading indicates gardens, dark gray shading indicates pools (Gleason after Netzer 2001a: Plan 47)." >}}
+{{< image file="ASIA_JUD_JERICHO_8a.jpg" caption="Figure 2: Gardens of Herod's second palace. Light gray shading indicates gardens, dark gray shading indicates pools" credit="(Gleason after Netzer 2001a: Plan 47)." alt="" >}}
 
 ## Images
 

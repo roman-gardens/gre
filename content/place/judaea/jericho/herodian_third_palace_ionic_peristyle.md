@@ -48,7 +48,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 The third palace built by Herod in the late first century B.C. merits special mention with regard to the integration of water, gardens and landscape. This palace was sited along a straight section of Wadi Qelt to take advantage of its season flow of water each winter.  This area was, however, lower than those on which the first and second palaces had been built, offering a more limited view of the surroundings.  This shortcoming was offset by the erection of a viewing pavilion on top of an artificial tel.  The overall building complex was rectilinear, with Wadi Qelt cutting through the center, and a bridge spanning the two halves.  On the north side lay a complex of banqueting rooms, Roman style baths, reception rooms, peristyle courtyards and colonnaded walks.   On the south lay a great sunken garden, the artificial tel and pavilion, and, off-axis, a shallow boating pool. (Fig. 2) The garden features are discussed individually below.
 
-{{< image file="ASIA_JUD_JERICHO_11.jpg" caption="Figure 2: Plan of Herod's Third Palace" credit="(K. Gleason after E. Netzer 2001a: Plan 48)." alt="Figure 2: Plan of Herod's Third Palace (K. Gleason after E. Netzer 2001a: Plan 48)." >}}
+{{< image file="ASIA_JUD_JERICHO_11.jpg" caption="Figure 2: Plan of Herod's Third Palace" credit="(K. Gleason after E. Netzer 2001a: Plan 48)." alt="" >}}
 
 ## Garden
 
@@ -76,7 +76,6 @@ The plan reveals seven rows of up to eleven pots per row, although directly in f
 
 <!--
 ## Maps
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -86,7 +85,7 @@ The plan reveals seven rows of up to eleven pots per row, although directly in f
 
 ## Images
 
-{{< image file="ASIA_JUD_JERICHO_12.jpg" caption="Figure 4: Section extending from the Sunken Garden, through Garden B64, to the Southern Tell" credit="(K. Wilczak after Netzer 2001a: Ill. 478)." alt="Figure 4: Section extending from the Sunken Garden, through Garden B64, to the Southern Tell (K. Wilczak after Netzer 2001a: Ill. 478)." >}}
+{{< image file="ASIA_JUD_JERICHO_12.jpg" caption="Figure 4: Section extending from the Sunken Garden, through Garden B64, to the Southern Tell" credit="(K. Wilczak after Netzer 2001a: Ill. 478)." alt="" >}}
 
 {{< image file="ASIA_JUD_JERICHO_14.jpg" caption="Figure 5: A section through the Ionic Peristyle Courtyard B64 at the second row from the north:" credit="(a) gravel subsoil; (b) working surface; (c) planting pot; (d) planting pit; (e) ridges; (f) contoured garden-soil surface; (g) sidewalk; (h) alluvial deposit; (i) fallen building debris; (j) modern surface in 1978–1985 (K. Gleason)." alt="Figure 5: A section through the Ionic Peristyle Courtyard B64 at the second row from the north: (a) gravel subsoil; (b) working surface; (c) planting pot; (d) planting pit; (e) ridges; (f) contoured garden-soil surface; (g) sidewalk; (h) alluvial deposit; (i) fallen building debris; (j) modern surface in 1978–1985 (K. Gleason).." >}}
 

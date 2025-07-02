@@ -40,14 +40,13 @@ Between the buildings were open areas, some paved and equipped with ovens and po
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
-{{< image file="xanten_insula7_plan1_EUR_GI_ColUlpTra_Hi7_carroll.jpg" caption="Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. The black dots are wells." credit="Adapted from Precht and Rüger 1991." alt="Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards." >}}
+{{< image file="xanten_insula7_plan1_EUR_GI_ColUlpTra_Hi7_carroll.jpg" caption="Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. The black dots are wells." credit="Adapted from Precht and Rüger 1991." alt="" >}}
 
 ## Images
-{{< image file="xanten_insula7_image1_GER_INF_ColUlpTra_Fig 2.jpg" caption="Image 1. Model of the houses in *Insula* 7 with courtyard garden." credit="Photo courtesy of M. Carroll." alt="Image 1. Model of the houses in *Insula* 7 with courtyard garden. Photo courtesy of M. Carroll." >}}
+{{< image file="xanten_insula7_image1_GER_INF_ColUlpTra_Fig 2.jpg" caption="Image 1. Model of the houses in *Insula* 7 with courtyard garden." credit="Photo courtesy of M. Carroll." alt="" >}}
 
 ## Dates
 Unspecified

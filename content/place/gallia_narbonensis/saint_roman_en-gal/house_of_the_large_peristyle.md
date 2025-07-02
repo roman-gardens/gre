@@ -56,31 +56,13 @@ Only its eastern end has been uncovered, and of the rooms for living -- presumab
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
 
 
-{{< image file="House of the Large Peristyle.png" caption="house of the large peristyle" credit="" alt="ALT_TEXT" >}}
+{{< image file="House of the Large Peristyle.png" caption="house of the large peristyle" credit="" alt="" >}}
 
 
 <!--## Images-->
-
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
 
 ## Dates
 

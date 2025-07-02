@@ -74,7 +74,7 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 {{< image file="HIS_TAR_Emp_plan_fig2.jpg" caption="Plan of Emporiae." credit="Adapted from Mar and Ruiz de Arbulo." alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." >}}
 
 ## Images
-{{< image file="HIS_TAR_Emp_aerial_viewfig1.jpg" caption="Aerial view of Emporiae at the end of the first century BC." credit="Adapted from Mar and Ruiz de Arbulo." alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." >}}
+{{< image file="HIS_TAR_Emp_aerial_viewfig1.jpg" caption="Aerial view of Emporiae at the end of the first century BC." credit="Adapted from Mar and Ruiz de Arbulo." alt="" >}}
 
 
 ## Garden
@@ -105,7 +105,7 @@ House R2, situated south of House R1 in the area of the forum of the Roman City 
 
 
 ## Images
-{{< image file="HIS_TAR_Emp_R2_fig2.jpg" caption="House R2 (Tang R2 and R3) in the Roman City in Ampurias.(The dividing line runs between House R2B in the upper left and R2A; the vertical red line shows the approximate location of the original city wall.)" credit="Adapted from Tang, where it was adapted from Mar and Ruiz de Arbulo." alt="House R2 (Tang R2 and R3) in the Roman City in Ampurias." >}}
+{{< image file="HIS_TAR_Emp_R2_fig2.jpg" caption="House R2 (Tang R2 and R3) in the Roman City in Ampurias.(The dividing line runs between House R2B in the upper left and R2A; the vertical red line shows the approximate location of the original city wall.)" credit="Adapted from Tang, where it was adapted from Mar and Ruiz de Arbulo." alt="" >}}
 
 ## Dates
 1C BC

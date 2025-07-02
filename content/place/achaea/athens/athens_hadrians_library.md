@@ -44,7 +44,6 @@ In the center of the building was a large open peristyle courtyard with a long p
 <!--## Maps-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Plans
@@ -54,7 +53,6 @@ In the center of the building was a large open peristyle courtyard with a long p
 <!--## Images-->
 
 <!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
 -->
 
 ## Dates

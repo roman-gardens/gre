@@ -56,14 +56,12 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 {{< image file="asia_syria_jebkhl_gclark_1.jpg" caption="Fig. 1: Location map of Jebel Khalid" credit="" alt="Map showing location of Jebel Khalid within the borders of Syria" >}}
 
 ## Plans
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 {{< image file="asia_syria_jebkhl_gclark_2.png" caption="Fig. 2: Overall plan of the site" credit="" alt="Overall plan of the site with contour lines and architectural remains" >}}
 
@@ -72,7 +70,6 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 {{< image file="asia_syria_jebkhl_gclark_4.png" caption="Fig. 4: Aerial view of Jebel Khalid" credit="" alt="Aerial view of Jebel Khalid" >}}

@@ -43,7 +43,6 @@ On the south of the peristyle was another courtyard with a portico of three colu
 <!--## Maps-->
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -55,7 +54,6 @@ On the south of the peristyle was another courtyard with a portico of three colu
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

@@ -52,15 +52,6 @@ A. Two separate dwellings were united to form this house, excavated in 1928-1929
 B. The more elegant dwelling to the south had a long corridor on one side of the large *triclinium* leading to a small paved courtyard with pillars (e) which supplied light and air to the house. The pillars on the south and east stood on a low wall, 0.80 m. high, with a planting area 15 cm. wide in between. This gives the area the feeling of window boxes placed below large windows. There was a well in the southeast corner of this courtyard which received rain water and beyond the courtyard was a secluded alcove. This consisted of an apsed room preceded by a *procoeton*.
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
 
 {{< image file="H_4_3-9.jpg" caption="Plan of Casa dell'Alcova" credit="" alt="" >}}

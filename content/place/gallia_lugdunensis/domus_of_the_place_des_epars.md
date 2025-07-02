@@ -37,7 +37,6 @@ None Available
 ## Plans
 {{< image file="domus_place_des_epars.jpg" caption="LUG_Fig. 1: Chartres, Domus of the Place des Epars, from CAG." credit="" alt="Image from CAG showing a plan of Domus of the Place des Epars, two photos of the archaeological excavations, and a photo of the decoration of a Corinthian column." >}}
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Images

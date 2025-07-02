@@ -49,7 +49,6 @@ These two sites represent a rare glimpse of the transformation of suburban Rome 
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

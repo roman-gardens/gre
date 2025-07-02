@@ -64,14 +64,14 @@ We next consider the identity of the many smaller roots.  Since this garden was 
 ## Maps
 
 ## Plans
-{{< image file="AFR_Thub_Hba_malek fig1.jpg" caption="Fig. 1: Plan of the House of Bacchus and Ariadne." credit="(CMT, V. II, fasc.4, Pl. XXIV. Jashemski, W. F., 1995, p. 561, fig. 2)" alt="Fig. 1: Plan of the House of Bacchus and Ariadne" >}}
+{{< image file="AFR_Thub_Hba_malek fig1.jpg" caption="Fig. 1: Plan of the House of Bacchus and Ariadne." credit="(CMT, V. II, fasc.4, Pl. XXIV. Jashemski, W. F., 1995, p. 561, fig. 2)" alt="" >}}
 
 ## Images
 {{< image file="photography_of_the_decayed_tree_root.jpg" caption="Fig. 2: Decayed tree root 23 cm in diameter." credit="(Photo J. Foss, Jashemski, W. F., 1995, fig. 5)" alt="Decayed tree root 23 cm in diameter (Photo J. Foss)" >}}
 
 {{< image file="House_of_Bacchus_and_Ariadne_Detail_Plan.jpg" caption="Fig. 3: Detail, Plan of courtyard garden, House of Bacchus and Ariadne." credit="(Victoria I, Jashemski, W. F., 1995, fig. 7)" alt="Detail, Plan of courtyard garden, House of Bacchus and Ariadne" >}}
 
-{{< image file="House_of_Bacchus_and_Ariadne_Drawing.jpg" caption="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne." credit="(Victoria I, Jashemski, W. F., 1995, fig. 11)" alt="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne" >}}
+{{< image file="House_of_Bacchus_and_Ariadne_Drawing.jpg" caption="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne." credit="(Victoria I, Jashemski, W. F., 1995, fig. 11)" alt="" >}}
 <!--convert photos to jpeg-->
 
 ## Dates

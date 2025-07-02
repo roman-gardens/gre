@@ -46,15 +46,6 @@ This house was partially excavated in 1829-1830 and again in 1850. The *portico*
 
  <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
 
 {{< image file="H_2_3.jpg" caption="Plan of Casadetta del Genio" credit="" alt="" >}}

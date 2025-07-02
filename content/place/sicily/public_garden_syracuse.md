@@ -39,7 +39,6 @@ In the Roman period, the clearest evidence for the presence of a formal garden i
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

@@ -52,7 +52,6 @@ The other garden area was slightly farther south and against the east wall of th
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

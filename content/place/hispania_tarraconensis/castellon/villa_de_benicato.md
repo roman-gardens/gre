@@ -37,7 +37,6 @@ The villa from the middle of the 2nd century evolved around a peristyle garden w
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -48,7 +47,6 @@ The villa from the middle of the 2nd century evolved around a peristyle garden w
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 <!--## Dates-->

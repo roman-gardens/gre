@@ -45,15 +45,6 @@ The pots were placed along the outer stylobates of the porticos at a distance of
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
 ## Plans
 
 {{< image file="eur_ach_nicopolis_fig1_plan.jpg" caption="Fig. 1: State plan of the monument. " credit="Courtesy of K. L. Zachos." alt="plan of the monument of Augustus" >}}

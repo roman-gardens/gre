@@ -42,7 +42,6 @@ Entering from the colonnaded street at the west, one passed through a room recon
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans
@@ -51,7 +50,6 @@ Entering from the colonnaded street at the west, one passed through a room recon
 ## Images
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Dates

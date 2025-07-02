@@ -37,7 +37,6 @@ There is a rectangular fountain basin set at the south end of the peristyle faci
 ## Maps
 
 <!--
-{{< image file="FILENAME" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
 -->
 
 ## Plans

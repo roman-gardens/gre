@@ -44,16 +44,6 @@ This modest house had rooms opening off the small [peristyle](http://vocab.getty
 
 <!--## Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="CAPTION" credit="" alt="ALT_TEXT" >}}
--->
-
-
 ## Dates
 Excavated 1912, 1926-27. Bombed in 1943.
 
