@@ -36,6 +36,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "strigillation" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "dolia" >}}
+- {{< keyword "doghouses" >}}
 
 
 ## Garden Description

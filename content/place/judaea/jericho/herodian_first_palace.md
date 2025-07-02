@@ -80,8 +80,3 @@ This first palace was "introverted" thus giving expression to Herod's inferior s
 
 - {{< id vocab="Pleiades" id="687917" name="Jericho" >}}
 
-<!--## TGN ID
-
-[#](#)-->
-
-

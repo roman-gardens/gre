@@ -11,18 +11,12 @@ modified: 2025-06-29
 draft: false
 ---
 
-<!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+## Place Description
 
-<!--
-## Keywords
+<!-- ## Bibliography -->
 
-- {{< keyword "Example keyword" >}}
--->
+<!-- ## Keywords -->
 
 ## Places
 - {{< id vocab="Pleiades" id="579885" name="Athenae" >}}
 - {{< id vocab="TGN" id="7001393" name="Athens (inhabited place)" >}}
-

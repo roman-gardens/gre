@@ -23,21 +23,11 @@ Many dialogues and descriptions of private villas of Roman aristocrats reveal th
 
 Cicero set the scene in *De finibus* [(5.1.3)](http://data.perseus.org/citations/urn:cts:latinLit:phi0474.phi048.perseus-lat1:5.1) for a group of men in the Academy near the gardens of Epicurus in 79 B.C., and he mentioned the garden of Plato in the same suburb (*Fin.* [5.1.2](http://data.perseus.org/citations/urn:cts:latinLit:phi0474.phi048.perseus-lat1:5.1)). Roman statues of Epicurus and the Epicurean philosopher Colotes found outside the Dipylon gate on the road to the Academy may reflect some rebuilding prompted by Hadrian.  Heliodoros (*Aethiopica* [1.16.5](#)), writing in the 3rd century A.D., mentioned a gathering of men near the garden of Epicurus.
 
-<!-- ## Maps
+<!-- ## Maps -->
 
-![alt_text](../images/image_name.ext)
-*CAPTION*
+<!-- ## Plans -->
 
-## Plans
-
-![ALT_TEXT](IMG_URL)
-*CAPTION*
-
-## Images
-
-![alt_text](../images/image_name.ext)
-*CAPTION*
--->
+<!-- ## Images -->
 
 ## Bibliography
 

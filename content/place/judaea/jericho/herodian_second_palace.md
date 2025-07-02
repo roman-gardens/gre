@@ -88,8 +88,3 @@ The  low wing of the palace (Fig 2, AK) incorporated the two Hasmonean swimming 
 
 - {{< id vocab="Pleiades" id="687917" name="Jericho" >}}
 
-<!--## TGN ID
-
-[#](#)-->
-
-

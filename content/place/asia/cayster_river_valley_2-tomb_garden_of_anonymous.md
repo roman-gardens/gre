@@ -29,11 +29,11 @@ Tomb Garden (peribolion) of an Anonymous
 
 ## Keywords
 
-- inscription
-- crematory
+- {{< keyword "inscriptions" >}}
+- {{< keyword "crematory" >}}
 - {{< keyword "periboloi" >}}
 - {{< keyword "ustrina" >}}
-- tomb monument
+- {{< keyword "tomb monument" >}}
 
 
 ## Garden Description

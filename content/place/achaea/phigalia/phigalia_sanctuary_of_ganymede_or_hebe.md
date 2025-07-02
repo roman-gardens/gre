@@ -55,11 +55,7 @@ NEW WAY ↓↓↓↓
 
 unspecified (mentioned in the 2nd century CE)
 
-<!--
-## Bibliography
-
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+<!-- Bibliography -->
 
 ## Places
 

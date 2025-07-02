@@ -48,10 +48,6 @@ Another only partially excavated house of the mid-4th century A.D., built into t
 
 <!--## Maps-->
 
-<!--
-{{< image file="image_name.ext" caption="CAPTION" credit="" alt="alt_text" >}}
--->
-
 ## Plans
 {{< image file="areopagus1.jpg" caption="Fig. 1:  Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus." credit="Adapted from Thompson and Wycherley 1972, p. 185, fig. 46." alt="plan of an early Roman house with pool and courtyard" >}}
 

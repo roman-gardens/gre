@@ -45,11 +45,7 @@ Pausanias mentioned a small grove of trees in the sanctuary of Zeus Philios that
 
 unspecified (still flourished in the 2nd century CE)
 
-<!--
-## Bibliography
-
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+<!-- Bibliography -->
 
 ## Places
 

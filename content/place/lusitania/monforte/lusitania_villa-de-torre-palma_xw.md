@@ -31,7 +31,7 @@ Villa de Torre de Palma
 ## Keywords
 
 - {{< keyword "mosaics" >}}
-- apsed triclinium
+- {{< keyword "apsed triclinium" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "dolia" >}}
 

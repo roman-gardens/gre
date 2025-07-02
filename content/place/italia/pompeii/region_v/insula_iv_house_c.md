@@ -45,7 +45,7 @@ V.iv.c.
 
 ## Keywords
 
-- [viridarium]{#}
+- {{< keyword "viridarium" >}}
 - {{< keyword "cisterns" >}}
 - {{< keyword "mural paintings" >}}
 - {{< keyword "tablina" >}}

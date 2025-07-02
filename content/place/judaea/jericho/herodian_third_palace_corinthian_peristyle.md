@@ -98,8 +98,3 @@ With porticoes on three sides and measuring 23 x 14.5m, this courtyard, known as
 
 - {{< id vocab="Pleiades" id="687917" name="Jericho" >}}
 
-<!--## TGN ID
-
-[#](#)-->
-
-

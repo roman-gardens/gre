@@ -42,7 +42,7 @@ Casa dello Scheletro
 - {{< keyword "aedicules" >}}
 - {{< keyword "tympana" >}}
 - {{< keyword "pergolas" >}}
-- {{< keyword "amorini" >}}
+- {{< keyword "putti" >}}
 
 ## Garden Description
 

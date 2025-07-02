@@ -43,7 +43,7 @@ House B, Les Villégiales, quarter of the Benedictines
 
 ## Keywords
 
-- oscilla
+- {{< keyword "oscilla" >}}
 
 
 ## Element Description

@@ -33,6 +33,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "lararia" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
+- {{< keyword "putti" >}}
+
 
 ## Garden
 [Peristyle](http://vocab.getty.edu/page/aat/300080971) garden in a domestic property.

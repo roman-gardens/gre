@@ -43,7 +43,7 @@ House of the Columns
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "reception rooms" >}}
-- [apsed pools](#)
+- {{< keyword "apsed pools" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "nymphaea" >}}

@@ -34,6 +34,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "peristyles" >}}
 - {{< keyword "pillars" >}}
 - {{< keyword "porticoes" >}}
+- {{< keyword "doghouses" >}}
 
 ## Garden
 Shop property with peristyle garden and doghouse.

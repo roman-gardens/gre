@@ -20,15 +20,13 @@ Tomb Garden(?) of an Anonymous
 
 ## Keywords
 
-- inscription
+- {{< keyword "inscriptions" >}}
 - {{< keyword "heroa" >}}
 - {{< keyword "tombs" >}}
-- grave
-
 
 ## Garden Description
 
-A highly fragmentary inscription found in the south part of the Cayster River valley records the dedication of a piece of landed property apparently attached to a *heroon*. The *tomb* is not explicitly mentioned with the property in the surviving text (kayi°[rvsen d¢ k¢ kt∞ma ?t]Ú prosÚn t" [≤r–ƒ]) but is implied in the reference elsewhere in the inscription to a banquet served at the monument (eÈvx¤[an e‰nai ---]da §p‹ toË mnh[me¤ou]). The combination of the two suggests the standard configuration of tomb with productive property attached—whether a field or a garden is impossible to say— to provide revenue for commemorative funerary celebrations at the grave.
+A highly fragmentary inscription found in the south part of the Cayster River valley records the dedication of a piece of landed property apparently attached to a *heroon*. The *tomb* is not explicitly mentioned with the property in the surviving text (kayi°[rvsen d¢ k¢ kt∞ma ?t]Ú prosÚn t" [≤r–ƒ]) but is implied in the reference elsewhere in the inscription to a banquet served at the monument (eÈvx¤[an e‰nai ---]da §p‹ toË mnh[me¤ou]). The combination of the two suggests the standard configuration of tomb with productive property attached — whether a field or a garden is impossible to say — to provide revenue for commemorative funerary celebrations at the grave.
 
 <!--
 ## Maps

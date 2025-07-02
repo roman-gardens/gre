@@ -41,12 +41,7 @@ We know of a grove of trees in the precinct of the temple of Poseidon, thanks to
 ## Dates
 unspecified
 
-<!--
-## Bibliography
-
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
-
+<!-- Bibliography -->
 ## Places
 
 - {{< id vocab="Pleiades" id="107524051" name="Temple of Poseidon at Isthmia" >}}

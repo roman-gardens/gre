@@ -41,7 +41,8 @@ Baths of La Planchette
 
 - {{< keyword "balnea" >}}
 - {{< keyword "gutters" >}}
-- apsed pools
+- {{< keyword "apsed pools" >}}
+
 
 
 ## Garden Description

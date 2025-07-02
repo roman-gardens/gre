@@ -19,7 +19,8 @@ draft: true
 ## Garden
 Rural villa at Neerhaaren-Rekem
 
-## Keywords- [rural villas](#)
+## Keywords
+
 - {{< keyword "villae rusticae" >}}
 - {{< keyword "arbors" >}}
 - {{< keyword "pergolas" >}}
@@ -30,22 +31,12 @@ Rural villa at Neerhaaren-Rekem
 
 The facade of this modest house of a *villa rustica* near the [Meuse river](https://pleiades.stoa.org/places/109180) measured 24 m. in length and had two protruding wings joined by a portico (Plan 1). The house was built in the late 1st century A.D. There is evidence for an arbor or pergola next to the house in the form of two rows of postholes arranged diagonally and converging in front of the entrance on the west (circles on plan). Between the rows of posts, each measuring ca. 15 m. in length, and around which some kind of vines or other climbing plants may have been trained to grow, was a small pool.
 
-## Maps
-
-<!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
--->
+<!-- ## Maps -->
 
 ## Plans
 {{< image file="neerhaaren-rekem_plan1_EUR_GI_NeeRek_Rv_carroll.jpg" caption="Plan 1. Plan of the farm house at Neerhaaren-Rekem with a possible arbor leading to the door and a pool (grey) between the posts of the arbor." credit="Plan adapted from De Boe, De Bie and Van Impe 1992, fig. 288." alt="" >}}
 
-## Images
-
-<!--
-![ALT_TEXT](IMG_URL)
-*CAPTION*
--->
+<!-- ## Images -->
 
 ## Dates
 Late first century CE

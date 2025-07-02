@@ -114,8 +114,3 @@ A huge pool (90 x 40 m.) built to the east of the sunken garden formed an integr
 
 - {{< id vocab="Pleiades" id="687917" name="Jericho" >}}
 
-<!--## TGN ID
-
-[#](#)-->
-
-

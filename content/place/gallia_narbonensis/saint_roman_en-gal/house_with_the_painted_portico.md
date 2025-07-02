@@ -43,7 +43,7 @@ House with the Painted Portico
 - {{< keyword "porticoes" >}}
 - {{< keyword "courtyards" >}}
 - {{< keyword "columns" >}}
-- apsed pools
+- {{< keyword "apsed pools" >}}
 
 
 ## House Description

@@ -21,11 +21,11 @@
 	}
 	"GRE keyword shortcode": {
 		"scope": "markdown",
-		"prefix": "keyword",
+		"prefix": ["keyword", "kw"],
 		"body": [
 			"- {{< keyword \"$1\" >}}",
 			"$0"
 		],
 		"description": "GRE keyword shortcode"
-	},
+	}
 }

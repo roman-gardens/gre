@@ -21,10 +21,9 @@ Tomb (peribolos) garden of Bassos son of Euarestos
 
 ## Keywords
 
-- statue
+- {{< keyword "statues" >}}
 - {{< keyword "periboloi" >}}
-- tomb
-
+- {{< keyword "tombs" >}}
 
 ## Garden Description
 

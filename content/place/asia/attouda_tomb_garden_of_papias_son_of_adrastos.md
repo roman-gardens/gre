@@ -19,9 +19,8 @@ Tomb Garden of Papias son of Adrastos
 
 ## Keywords
 
-- marble slab
+- {{< keyword "marble" >}}
 - {{< keyword "epitaphs" >}}
-
 
 ## Garden Description
 

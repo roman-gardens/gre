@@ -39,7 +39,7 @@ Baths of La Planchette
 
 ## Keywords
 
-- decumanus
+- {{< keyword "decumanus" >}}
 - {{< keyword "vestibules" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "opus signinum" >}}
