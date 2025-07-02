@@ -82,14 +82,6 @@ C. Behind the [tablinum](http://vocab.getty.edu/page/aat/300004180), and seen fr
 <!--## Maps-->
 
 <!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="" credit="" alt="" >}}
-
-
 ## Plans
 
 {{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
@@ -104,7 +96,8 @@ NEW WAY ↓↓↓↓
 
 {{< image file="Fig_43_I.vii.11_33.27.61.jpg" caption="Fig. 5: I.vii. 33.27.61, S.A. Jashemski" credit="" alt="Fig. 5: I.vii. 33.27.61, S.A. Jashemski." >}}
 
-{{< image file="Fig_44_I.vii.11_12_11.33.59.jpg" caption="Fig. 6: I.vii. 11.33.59, S.A. Jashemski" credit="" alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski." >}}-->
+{{< image file="Fig_44_I.vii.11_12_11.33.59.jpg" caption="Fig. 6: I.vii. 11.33.59, S.A. Jashemski" credit="" alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski." >}}
+-->
 
 ## Dates
 Excavated 1912 and 1925.

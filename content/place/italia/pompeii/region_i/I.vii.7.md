@@ -51,14 +51,6 @@ One step above the level of the [triclinium](http://vocab.getty.edu/page/aat/300
 <!--## Maps-->
 
 <!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image file="../image_name.ext" caption="" credit="" alt="" >}}
-
-
 ## Plans
 
 {{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
@@ -71,7 +63,8 @@ NEW WAY ↓↓↓↓
 
 {{< image file="Fig_39_I.vii.7_22.12.68.jpg" caption="Fig. 4: I.vii. 22.12.68, S.A. Jashemski" credit="" alt="Fig. 4: I.vii. 22.12.68, S.A. Jashemski." >}}
 
-{{< image file="Fig_40_I.vii.7_22.22.68.jpg" caption="Fig. 5: I.vii. 22.22.68, S.A. Jashemski" credit="" alt="Fig. 5: I.vii. 22.22.68, S.A. Jashemski." >}}-->
+{{< image file="Fig_40_I.vii.7_22.22.68.jpg" caption="Fig. 5: I.vii. 22.22.68, S.A. Jashemski" credit="" alt="Fig. 5: I.vii. 22.22.68, S.A. Jashemski." >}}
+-->
 
 ## Dates
 Excavated 1912 and 1924.
