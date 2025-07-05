@@ -35,13 +35,13 @@ Large Building north of Forum in Arae Flaviae
 
 This building ca. 95 meters in width consisted of several units built at different times. These may represent more than one house, or they may be parts of one large house. The southern part of the complex, entered from the colonnaded street on the west, had a vestibule or corridor leading into a peristyle courtyard. This may have been planted, although the excavators could find no clear evidence of this. Beyond the peristyle to the east was a series of rooms, including one large room presumably with representative character, and an open area interpreted as a courtyard or garden (G in Fig. 1). The complex was built at the earliest during the reign of Trajan, but additions and alterations followed throughout the 2nd and perhaps the 3rd century.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="EUR_GS_AraFla_Bnf_carroll.jpg" caption="Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G)." credit="Adapted from Sommer 1992, Beilage 1.2." alt="" >}}
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

@@ -41,7 +41,8 @@ This *domus* (ca. 1000 m²) has a large central garden of irregular shape (250 m
 The wing that is perpendicular to the northwest one was comprised of a series of rooms built against the hill.  All rooms were paved with mosaics and belonged to a latter phase.  Rooms located on the higher level beyond this wing had a large panoramic view of the sea.
 
 Built over an older establishment, the house presents two main phases.  The main building dates from the 3rd quarter of the IInd century, with mosaic decoration from Severian times.
-## Maps
+
+<!-- ## Maps -->
 
 ## Plans
 
@@ -49,7 +50,7 @@ Built over an older establishment, the house presents two main phases.  The main
 
 <!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}} -->
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

@@ -41,7 +41,7 @@ The sanctuary of Minerva 2
 
 The sanctuary of Minerva 2, (138-161 CE), built later than the *templa Concordiae*, presents a very different configuration. The *cella*, projecting outwards from the courtyard lined with porticoes, is built on a very high podium whose summit corresponded to the level of the *peribolus* roof and to which access was gained by a monumental staircase. The temple, by its insertion in the topography of the site, seems to emerge from the cliff into which it was embedded. The approach was a long allée bordered on both sides by  planting beds that emphasized the perspective centered on the *cella*. An open-air *ambulatio*, bordered by a balustrade, ran alongside the porticoes and the staircase, restricting access into the planted areas. Located on the outskirts of the city, one can imagine that the temple nestled in the cliff, perhaps surrounded by trees. The vegetation thus embraced the sanctuary as a whole and framed the altar located on the axial path leading to the temple.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

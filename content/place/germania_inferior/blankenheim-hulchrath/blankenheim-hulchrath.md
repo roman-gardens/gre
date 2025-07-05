@@ -30,12 +30,13 @@ This *villa rustica* was built on a slope so that the residential building (A on
 
 To the northeast of the house was an open courtyard flanked by outbuildings and separated from the service area of the farm by a terrace wall. This open courtyard may have been a garden (G on Plan 1), perhaps of a more decorative nature. Without any physical evidence for gardens, however, this remains speculation.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan 1:  Plan of the rural villa (A) with possible gardens (G) in the courtyard adjacent to the house and in the enclosed area southwest of it." credit="Adapted from Horn 1987, fig. 306." alt="plan of villa rustica at Blackenheim-Hülchrath">}}
-## Images
+
+<!-- ## Images -->
 
 ## Dates
 

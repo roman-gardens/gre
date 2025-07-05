@@ -44,7 +44,7 @@ In about 360 AD much of the old villa was demolished and a new, two-story struct
 
 The upper floor did not have a garden but offered splendid views of gardens, both in front and behind the house.  Between the two end towers stretched, on the southwest (front) side, a roofed veranda over 40 meters long with a sturdy wooden rail.  This emphasis on the vista leaves little doubt that the well-watered area in foreground, through which the guests arrived, would have been beautifully developed as a garden.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

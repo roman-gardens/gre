@@ -48,15 +48,16 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 
 The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of the city. An inscription that was discovered during the Byzantine fort excavations enumerates the embellishments that were undertaken in 213 by the city of Timgad for the sanctuary, Aqua Septimiana Felix: one of which, a bronze balustrade surrounding the spring (a pool with marble slabs of 3,6 m x 13, 60 m) and a *viridarium* surrounded by porticoes decorated with paintings (*porticus virdiari (sic) picturis ornatas*).
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="water_sanctuary _aqua_eptimania_felix1.jpg" caption="Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix" credit="(Lassus, J., 1981, fig. 9)" alt="Plan of the Water Sanctuary Aqua Septimiana Felix">}}
 
-## Images
+<!-- ## Images -->
 
 ## Dates
+
 2nd-3rd century CE
 
 ## Bibliography

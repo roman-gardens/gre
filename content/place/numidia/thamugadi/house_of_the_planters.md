@@ -47,7 +47,7 @@ House of the Planters (Maison aux jardinières)
 
 Located SW of the Decumanus and NE of the forum, the house of the "Jardinières" almost square shaped, was laid out around a peristyle of 10 columns. Along the three porticoes and the angles of the fourth were arranged planters (10,50 x10,50 m) whose contours are curved. Double herm-heads or two sided-plaque with masks were found, they may have surmounted the corner pilasters of the courtyard. In the middle was a well. Facing the entrance and opening towards the courtyard, a large reception room was surrounded on its two sides by a vestibule leading to a room. (Plan view Fig.1; Fig.2)
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

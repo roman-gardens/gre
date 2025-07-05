@@ -41,11 +41,11 @@ Temple Grove of Nikephorion
 
 King Eumenes II of Pergamum employed a gardener to plant new trees and nurse damaged ones back to health in the grove of the Nikephorion, following an attack on the city by Philip V of Macedon in 201 B.C., during which Philip V ordered his troops to cut down trees in the sanctuary (Polybios 16.1.6).
 
-## Maps
+<!-- ## Maps -->
 
-## Plans
+<!-- ## Plans -->
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

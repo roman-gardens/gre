@@ -44,13 +44,13 @@ The house, noteworthy for its many and varied mosaic floors, is located on the r
 
 The *triclinium* was bordered on two sides by two apartments that each had rooms and a corridor. The rooms to the north of the *triclinium* have an additional non-paved courtyard (L) enclosed by a colonnade closed by a balustrade. This lightwell may have been a small garden.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="Althuburos_House_of_the_Muses.jpg" caption="Fig. 1: Plan of the House of the Muses" credit="(Merlin, A., 1913, pl. V)" alt="Plan of the House of the Muses at althiburos">}}
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

@@ -35,7 +35,7 @@ Villa at Durrueli di Realmonte
 
 There is a small semicircular basin (Farrar Type E) inserted in a secondary period in the north edge of the peristyle, facing the principal marble-paved reception or dining-room of the north wing (Fig. 10). The basin has marble wall-veneer and plain tessellation on its floor (Fig 11). This arrangement at Durrueli may have been influenced by North African fashion, where the demi-lune basin is especially common.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

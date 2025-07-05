@@ -35,7 +35,7 @@ Villa at Borgellusa di Avola
 
 There is a four meter square basin located in the middle of the space enclosed by the peristyle (Fig. 6). Belonging to Farrar's type D, the pool has a square exterior and an inner outline of semicircular corner niches alternating with rectangular recesses. Probably belonging to the first half of the first century A. D., the pool is waterproofed with white mortar inside, and has edges lined with white and grey marble, possibly Carraran (Fig. 7).
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

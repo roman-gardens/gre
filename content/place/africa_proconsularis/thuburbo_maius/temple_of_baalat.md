@@ -37,7 +37,7 @@ Temple of Baalat (Temple de Balaat)
 
 Only the central passage (III) way leading to the temple (IV) was paved. The rest of the courtyard (II), which was enclosed by a portico (I), was probably planted as in temple E (Plan view, Fig.1).
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

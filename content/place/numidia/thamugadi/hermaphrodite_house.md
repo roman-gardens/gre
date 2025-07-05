@@ -46,12 +46,13 @@ Hermaphrodite House (Maison de l'Hermaphrodite)
 
 The large house was laid out around a large peristyle of 22 columns. In the axis of the *triclinium* was a rectangular pool. The courtyard may have been planted (Plan view, Fig. 1).
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="hermaphrodite_house.jpg" caption="Fig. 1: Plan of the Hermaphrodite House" credit="(Germain, S., 1969, fig. 7)" alt="Plan of the Hermaphrodite House at Thamugadi; Les mosaïques de Timgad, p. 65, fig. 7." >}}
-## Images
+
+<!-- ## Images -->
 
 ## Dates
 

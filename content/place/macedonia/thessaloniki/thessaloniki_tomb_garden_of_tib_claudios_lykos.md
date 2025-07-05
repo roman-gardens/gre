@@ -34,7 +34,7 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 
 <!-- ## Plans -->
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

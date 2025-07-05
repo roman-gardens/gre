@@ -35,7 +35,7 @@ This building, located to the NW of the Winter Baths, was comprised of three art
 
 The SE area was laid out around an incomplete peristyle with seven columns along the NW and SW sides (Plan view, Fig. 1). Three semicircular pools projected into a large courtyard. A first pool was located at the extremity of the NW portico (II) facing the main reception room V, and there was a third of which only traces survive. The large court (I) of irregular shape (ca 24x10m) was not paved and may have been planted.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

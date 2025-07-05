@@ -82,7 +82,7 @@ In each *courtyard* was a cistern or well. The eastern *courtyard* had served as
 
 On the southeast corner of the house was a curious structure placed more than a meter below street level possibly to protect it from the harsh weather of the meseta .  There are elements of a sort of subterranean peristyle and atrium with high walls between the columns.  There are also kitchen fireplaces and connection to a cryptoportico.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

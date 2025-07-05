@@ -36,13 +36,13 @@ In the Neronian fort of the 5th and 15th legions near the civilian settlement of
 
 The partially excavated eastern villa was 78.50 m. wide and 109 m. in length. It too had several peristyle courtyards and one long courtyard 19 x 74.60 m. in size. The open area between the covered walkways was 5.80 m. wide. In front of each of the columns surrounding the courtyard were buttress-like foundations which the excavator interpreted as possible bases for statues. The excavator referred to the long courtyards in these houses as "hippodrome gardens", and compared them to known stadium or hippodrome gardens at Pliny's Tuscan villa, on the Palatine in Rome (Domus Augustana) and at [Hadrian's villa at Tivoli](https://pleiades.stoa.org/places/423127). The comparison is unacceptable, however, since both ends of the courtyards in the legionary camp are apsidal, unlike a stadium or hippodrome which has one straight end. [The long garden courtyards at Xanten]({{<relref "../colonia_ulpia_xanten/colonia_xanten_insula7.md">}}) may have had more in common with the long, apsidal gardens referred to by Pliny as *gestatio in modum circi* [(Epist. 5.6.17)](http://data.perseus.org/citations/urn:cts:latinLit:phi1318.phi001.perseus-lat1:5.6.17). It can be considered reasonably certain that the courtyards in both legionary villas were not foreseen for races or athletic activities, but for gardens as an ideal place for promenades.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="castra_vetera_plan1_EUR_GI_VetCas_Lh_carroll.jpg" caption="Plan 1. Plan of the western *praetorium* in the double legionary base with its long apsidal garden (G)." credit="Adapted from Lehner 1930, fig. 39." alt="" >}}
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

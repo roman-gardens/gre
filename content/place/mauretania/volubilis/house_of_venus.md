@@ -56,7 +56,7 @@ On the south side of the house, adjacent to the oecus, two rooms (labels 14 and 
 <!-- Plan View Image Missing -->
 <!-- {{< image file="IMAGEMISSING" caption="Fig. 1: Plan of the House of Venus" credit="" alt="Plan of the House of Venus" >}} -->
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

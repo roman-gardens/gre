@@ -38,7 +38,7 @@ House of Neptune (Maison de Neptune)
 
 The house was laid out around a peristyle garden (IV-VIII), with four porticos supported by twelve columns. A low wall separated the porticos from the garden (Plan view, Fig. 1). A semicircular basin extended into the garden between the second and the third columns on the SE side. The cistern opening in the garden is adjacent to the middle column on the SE side. A large reception room (XVII) had a view of the basin and the garden.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

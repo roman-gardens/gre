@@ -40,13 +40,13 @@ Two open spaces(XXVIII, XXXIV) with an earthen floor, probably small gardens, we
 
 Another possible garden(X) was adjacent to the reception room of the northern aisle of the portico.  This house dates from 150-170 A.D.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="House_the_Triumph_of_Neptune2.jpg" caption="Plan of the House of the Triumph of Neptune" credit="(Gozlan, S., Bourgeois, A., 1992, plan II)" alt="" >}}
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

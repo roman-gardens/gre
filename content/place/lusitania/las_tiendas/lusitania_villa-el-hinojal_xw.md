@@ -42,7 +42,7 @@ Inside the garden area there were also some low walls, presumably the edges of p
 
 The house appears to have been built at the end of the third or beginning of the fourth century A.D.  However, there were bits of ceramic from the first, second and third  centuries used as filler in the foundation beds below the mosaics. Abandonment seems to have come at the end of the fourth or early in the fifth century.  The house thus presents a number of unusual features, including a 'peristyle' without columns, two baths in a relatively small house, a grand room with a view of the garden but blocked by a wall, and first century ceramic filler in a house that otherwise appears to date from around 300 AD.  The excavation is still incomplete and the definitive report yet to be written.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

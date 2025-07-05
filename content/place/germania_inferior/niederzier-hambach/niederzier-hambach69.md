@@ -40,7 +40,7 @@ This *villa rustica* was situated west of [Cologne](https://pleiades.stoa.org/pl
 
 To the east of the house was an area marked off by a narrow ditch (B on plan). This was probably a bedding trench for a protective hedge around a vegetable garden (G on plan). Palaeobotanical material, all of it carbonized, from deposits in wells and pits provide information on the field crops.  Considerable amounts of charred chaff in a well in the eastern part of the farmyard suggest that a threshing area for the grain grown on the farm may have been situated near the well. The botanical remains indicate that spelt wheat was the main crop, followed by barley. The farmyard has hedge borders, the planting trenches for which were excavated.  Within this area, fruit trees, oaks and alders as well as elderberry bushes possibly were planted.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

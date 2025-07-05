@@ -35,7 +35,7 @@ A slab unearthed near Resça (Romula), Romania, in 1954 records a verse epitaph 
 
 <!-- ## Plans -->
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

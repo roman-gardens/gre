@@ -42,11 +42,11 @@ During the hot summer months, the wealthy citizens of Antioch retired to Daphne,
 
 Unfortunately, the houses of Antioch were incompletely excavated and their state of preservation makes it difficult to distinguish the boundaries of individual houses or even the entrances into rooms. This leaves many questions, including the evidence for gardens, unanswered. The third century CE House of Menander at Daphne provides the most complete plan from Antioch, but it can only hint at the possibility of a garden (Fig. 1). The most typical feature of Antiochene houses is the sequential arrangement of the dining room, columned court, and fountain or pool (e.g., House of Menander, House of the Boat of the Psyches, House of the Drinking Contest). A similar alignment of spaces occurs in the House of Bacchus and Ariadne in Thuburbo Maius, modern Tunisia, where the diners could look out from two different dining rooms through a columned screen to a mosaic basin and beyond into a garden area (one is a peristyle garden; the other is a courtyard garden) where evidence of plantings was found. It would seem from such parallels, including the evidence of many excavated gardens in Pompeii, that plantings in the peristyles and courts were closely aligned with dining vistas and water features. One might reasonably conjecture that the courtyards and pseudo-peristyle areas with fountains and pools in the House of Menander at Daphne contained potted plants. As most of the areas of the excavated houses at Antioch were paved with mosaic, it seems less likely that there were open soil areas for plantings of evergreen trees as found in Pompeii, such as the House of Polybios. However, given the nearby *topos* of the cypress-filled grove of Daphne with its gurgling thermal springs and the original laurel bush (see Sacred Grove at Daphne), it is not difficult to imagine greenery inserted into the courtyards and areas accented by niched fountains and pools in the Antiochene houses.
 
-## Maps
+<!-- ## Maps -->
 
-## Plans
+<!-- ## Plans -->
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

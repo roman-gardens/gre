@@ -38,7 +38,7 @@ House of the Palms (Maison des Palmes)
 
 The house of the Palms was located to the NW of the forum. A semicircular basin was installed at a later date over the mosaic in the NW portico at the edge of what was perhaps a small garden (Plan View, Fig. 1).
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

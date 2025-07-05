@@ -33,13 +33,13 @@ There was no division between the residential and service parts of this modest f
 
 Enclosing the farm complex was a hedge or row of trees, the planting trenches of which were uncovered in excavations (gray wavy border on plan). Based on the palaeobotanical evidence of carbonised plant remains and pollen, a kitchen garden near the house and fruit trees on the property have been reconstructed. In front of the entrance to the main residence at the south were the remains of a small pool lined with clay. This has been taken as evidence for an ornamental garden surrounding the pool.  On a farm of this modest size and simplicity, however, an ornamental garden seems rather unlikely. The farm was occupied until the mid-5th century.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="rheinbach-flerzheim_plan1_EUR_GI_RheFle_Rv_carroll.jpg" caption="Plan 1. Plan of the farmyard with its house (A) and bath (B) enclosed by a hedge (grey line). The open circles are wells." credit="Adapted from Carroll 2001, fig. 38." alt="" >}}
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

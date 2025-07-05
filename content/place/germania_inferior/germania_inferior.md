@@ -44,7 +44,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Maps
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

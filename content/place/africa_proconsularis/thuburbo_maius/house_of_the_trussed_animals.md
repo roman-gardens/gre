@@ -39,7 +39,7 @@ House of the Trussed Animals (Maison des animaux liés)
 
 The house of the Trussed Animals is bordered on the E by the Baths of the Capitole. The house was laid out around a peristyle (V-VIII) (9x1.70 to1.80m) that enclosed a garden (IV) bounded by 8 columns. The large *triclinium* (XVIII), the *oecus* (XV) and the *cubicula* (IX, XVII) opened toward the garden (Plan View, Fig.1).
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

@@ -37,7 +37,7 @@ The sanctuary of Caelestis
 
 The sanctuary of *Caelestis*, installed on the north-western outskirts of the city, was built on a sizeable plot of land allocated to it by its commissioner during the reign of Severus Alexander (222-235). This sanctuary is distinguished by its semi-circular shape. Its Corinthian temple, peripteral and hexastyle, rises in the center of the courtyard on a podium reached by a staircase of eleven steps. A wide paved esplanade which spreads out in front of the temple.  The complex is united by a central axis, which runs through the esplanade, to the staircase, through the entrances to the temple, whose altar was probably installed on this alignment. The remaining space of the unpaved courtyard was probably planted. This peripteral temple is reminiscent of the temple of *Hephaestus* on the Agora in Athens.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

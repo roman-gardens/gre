@@ -41,7 +41,7 @@ The house is adjacent to the E angle of the Forum at the back of the Curia.
 
 It was laid out around a peristyle garden (VI-X) of 12 columns (Plan view, Fig. 1). A low wall separated the porticos from the garden. Two semicircular pools projected into the garden; they were located in the axis of two reception rooms. The largest of the pools faced the oecus (XIV); its bottom was paved with a fish mosaic and the inside depicted putti boating and swimming. The second basin on the SE side faced room XI.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

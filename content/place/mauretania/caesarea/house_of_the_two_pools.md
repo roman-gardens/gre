@@ -52,7 +52,7 @@ House of the Two Pools (Maison aux Deux Bassins)
 
 There is very little information about this house, only two semi circular pools facing each other have survived. The fountain pool of Ulysses and the Mermaids and the pool of Neptune probably decorated a peristyle with a possible garden. The pools are now preserved in the museum.
 
-## Plans
+<!-- ## Plans -->
 
 ## Images
 

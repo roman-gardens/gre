@@ -47,7 +47,7 @@ This very damaged house was laid out around a peristyle garden. A semi-circular 
 
 {{< image file="Bouse_of_Sorothus1.jpg" caption="Fig. 1: Diagram plan of the House of Sorothus" credit="(from Laporte, J.-P., Lavagne, H., 2006, fig.4, and Hannezo, G., 1896, p.819)" alt="Diagram plan of the House of Sorothus">}}
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

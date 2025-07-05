@@ -39,7 +39,7 @@ The anonymous sanctuary, Dar Lachheb
 
 The anonymous sanctuary, called *Dar Lachheb* (184-187 CE), located about fifty meters below the forum, is of African type. In line with the entrance to the complex, a large *cella* with an apse opens onto the northern gallery of the triplex porticus that frames the courtyard. The courtyard consists of four symmetrical, rectangular spaces of equal dimensions, probably planted and enclosed by solid stone balustrades. The enclosure of areas of greenery in the worship space is similar to the sanctuary of Minerva 2
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

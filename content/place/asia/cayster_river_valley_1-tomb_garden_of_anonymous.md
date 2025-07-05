@@ -29,19 +29,15 @@ Tomb Garden(?) of an Anonymous
 
 A highly fragmentary inscription found in the south part of the Cayster River valley records the dedication of a piece of landed property apparently attached to a *heroon*. The *tomb* is not explicitly mentioned with the property in the surviving text (kayi°[rvsen d¢ k¢ kt∞ma ?t]Ú prosÚn t" [≤r–ƒ]) but is implied in the reference elsewhere in the inscription to a banquet served at the monument (eÈvx¤[an e‰nai ---]da §p‹ toË mnh[me¤ou]). The combination of the two suggests the standard configuration of tomb with productive property attached — whether a field or a garden is impossible to say — to provide revenue for commemorative funerary celebrations at the grave.
 
-<!--
-## Maps
+<!-- ## Maps -->
 
-<!--
--->
 <!--
 ## Plans
 
 {{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan of the excavations at Aphrodisias" credit="" alt="Plan of villa rustica at Blackenheim-Hülchrath">}}
-<!--
 -->
-<!--
-## Images
+
+<!-- ## Images -->
 
 ## Dates
 

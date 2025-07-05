@@ -46,7 +46,7 @@ Javier Cortes noted that hardware was found around the edges of the garden suita
 The large number of objects of daily life found in the ruins, some under toppled walls, makes it clear that the villa was violently destroyed, probably in the second half of the fifth century, though the date is uncertain.
 -->
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

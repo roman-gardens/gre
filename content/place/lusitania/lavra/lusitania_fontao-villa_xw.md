@@ -37,9 +37,9 @@ Fontao Villa
 
 The remains of a large villa were discovered in 1900 under an abandoned Benedictine monastery. Among the structures identified are several basins that are usually found in gardens. The villa dates to the late empire.
 
-## Maps
+<!-- ## Maps -->
 
-## Plans
+<!-- ## Plans -->
 
 ## Images
 

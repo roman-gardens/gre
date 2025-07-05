@@ -39,7 +39,7 @@ Excavations in 1985 and 1986 brought to light a villa dating to the end of the t
 
 <!-- ## Plans -->
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

@@ -44,7 +44,7 @@ In the center of the nearly square garden was a small fountain which has disappe
 Javier Cortes noted that hardware was found around the edges of the garden suitable for wood vanes which may have closed the spaces between the columns in cold weather.  Asked about the quality of the soil in the garden, he replied that it was rich but so was all the soil in this river bottom area.
 The large number of objects of daily life found in the ruins, some under toppled walls, makes it clear that the villa was violently destroyed, probably in the second half of the fifth century, though the date is uncertain.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

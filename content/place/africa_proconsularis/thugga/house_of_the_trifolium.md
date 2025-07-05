@@ -38,7 +38,7 @@ House of the Trifolium (Maison du Trifolium)
 
 This house is the largest excavated to-date at Thugga. It appears to date from the first half of the 3rd century. The rooms on the ground floor were arranged around a large court, which was more than 5 m (Plan view, Fig. 1) lower than the street. A garden occupied the center of the court which is enclosed by a portico on its four sides, the columns of which, carved with plaster and connected by a balustrade ought to have supported a wooden frame. The porticos were paved with mosaics. The 3 doors of the *oecus* open onto the W portico, in front of which between two pilasters was a semi-circular pool projecting into the garden. This basin was decorated with a mosaic representing fish today destroyed. The *oecus* opens on the N onto a large room in the form of a *trifolium*.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

@@ -38,12 +38,13 @@ In this very damaged house, a portico on four sides (IV-VII) enclosed a court (V
 
 A low wall was added in between the columns that enclosed the garden. A semi-circular basin attached to a rectangular one oriented northeast/southwest (IX) was placed at the northeast end of the garden. (Plan view, Fig. 1). The house dates from the III-V c.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="AFR_Car_Hd_Amalek1.jpg" caption="Fig. 1: Plan of the House of Dionysos." credit="(Ben Abed-Ben Khader, A., 1999, plan 5)" alt="Plan of the House of Dionysos at Karthago">}}
-## Images
+
+<!-- ## Images -->
 
 ## Dates
 

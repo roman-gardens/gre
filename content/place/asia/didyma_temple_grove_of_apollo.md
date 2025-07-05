@@ -31,19 +31,15 @@ The *sanctuary* of Apollo at Didyma was a regional sanctuary that lay on the bor
 The precinct has been well-defined archaeologically, but the archaeologists identified no traces of the trees.
 
 
-<!--
-## Maps
+<!-- ## Maps -->
 
-<!--
--->
 <!--
 ## Plans
 
 <!-- {{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan of the excavations at Aphrodisias" credit="" alt="Plan of villa rustica at Blackenheim-Hülchrath">}}
-
 -->
-<!--
-## Images
+
+<!-- ## Images -->
 
 ## Dates
 

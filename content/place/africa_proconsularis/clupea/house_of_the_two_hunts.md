@@ -37,13 +37,13 @@ Known for its beautiful hunting scene mosaics, this large *domus* (1100m²) was 
 
 The house is dated to the 5th-6th century AD on the base of the style of its mosaics, however stratigraphical and archaeological evidence shows previous building phases and supplies a *terminus post quem* to the second half of the 2nd century - first half of the 3rd century.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="House_of_the_Two_hunts_Kelibia1.jpg" caption="Fig. 1: Plan of the House of the Two Hunts" credit="(Ennaifer, M., 1994, pl. 94-106)" alt="Plan of the House of the Two Hunts at Clupea">}}
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 2nd-3rd, 5th-6th century CE

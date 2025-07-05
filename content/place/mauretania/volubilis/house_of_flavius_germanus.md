@@ -52,7 +52,7 @@ The House of Flavius Germanus, dating to the third century, is located between t
 <!-- Plan View Image Missing -->
 <!-- {{< image file="IMAGEMISSING" caption="Fig. 1: Plan of the House of Flavius Germanus" credit="" alt="Plan of the House of Flavius Germanus" >}} -->
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

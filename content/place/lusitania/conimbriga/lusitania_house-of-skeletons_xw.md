@@ -47,7 +47,7 @@ The large mosaic of the bedroom (Fig. 1, C) was restored in the 1950's; but even
 
 The houses were excavated around 1940, at a time when there was no thought of recovering micro-remains from the soil of the flower-beds, which could have allowed the identification of the vegetal species present in these gardens.  There is therefore no evidence as to what was planted.  There is also no mention of sculptural elements, which may or may not have been present.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

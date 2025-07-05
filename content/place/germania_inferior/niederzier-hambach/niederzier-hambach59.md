@@ -39,13 +39,13 @@ This farm, known as Hambach 59, was built in the late 1st century A.D. and inhab
 
 The farmyard was enclosed by a hedge (dotted lines on plan) and took up an area of approximately 1.5 hectares. Outside of the enclosed farmyard to the north were four large plots, presumably for orchards and cultivated fields, which were marked off by ditches or fences (outlined in black on plan). Two of these plots were approximately one hectare in size. The reconstruction of the vegetation on the farm is based on the palaeobotanical analysis of deposits from the four wells in front of the house. The material includes charred fruits and seeds as well as unburnt plant remains and pollen. Cherry pits are evidence for sweet cherry trees. Oak pollen, as well as the water-logged remains of the buds and bud scales of the oak tree, suggest that a shady oak may have grown near one of the wells in the courtyard. Walnut pollen was found in such large quantities in the wells, that one can safely assume the presence of walnut trees near the house. The same applies for lime trees attested by their pollen in the sediments. The remains of coriander and linseed in the wells suggest that these plants may have grown in the vegetable garden in the immediate vicinity of the house. The hedge surrounding the farm compound may have consisted of a combination of hazelnut, elderberry, raspberry and brambleberry, which were all present as pollen, shells, and seeds in the sediments. Box is attested by the pollen in the wells, but it is uncertain where this plant grew on the site.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="niederzier_hambach59_plan1_EUR_GI_Nie_RvH59_carroll.jpg" caption="Plan 1. Plan of the farm with hedges (dotted lines) and fences (solid lines) enclosing orchards, fields and the farmyard with its house (A)." credit="Plan adapted from Gaitzsch 1990, fig. on p. 238." alt="" >}}
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

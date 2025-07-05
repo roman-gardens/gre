@@ -35,7 +35,7 @@ House A, Piazza della Vittoria
 
 There is a circular pool in the center of the peristyle in this grand house (Fig. 5). The date  of this pool may belong to the substantial refashioning of the dwelling in the third century A. D.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

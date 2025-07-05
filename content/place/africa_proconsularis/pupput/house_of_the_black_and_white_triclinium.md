@@ -37,12 +37,13 @@ House of the Black and White Triclinium (Maison du triclinium en noir et blanc)
 
 The house is laid out around a square shaped peristyle garden. Between the columns runs a low wall (0.30m) that separates the porticoes from the garden. There was a semicircular basin in the N facing the *triclinium* (Plan view, Fig.1). The house is dated from the II-III c.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="AFR_Pup_Hbwt_Amalek1.jpg" caption="Fig. 1: Plan of the House of the Black and White Triclinium" credit="(Ch. Peirce, from Ben Abed Ben Khader, A., 1990)" alt="Plan of the House of the Black and White Triclinium; Ch. Peirce, in Ben Abed Ben Khader, A., 1990" >}}
-## Images
+
+<!-- ## Images -->
 
 ## Dates
 

@@ -46,7 +46,7 @@ In the center of the peristyle in the western part of the house was an octagonal
 
 In the eastern part of the house, a low wall with six semi-circular niches that alternated with five square-shaped niches faced the *oecus* bordered by a portico. On the wall was laid out a large pool with small niches bordered on each side by two planters (26,27). On a higher level of the pool and the planters were three small cascades decorated with parietal mosaics and paintings depicting hunting and fishing scenes. Water coming from the huge cistern complex on the top of the hill ran through the cascades and fell into the pool. This arrangement can be compared to theater decor where nature is displayed. Hence, the *oecus* bordered by a portico was facing a *frons scaenae* composed by a *pulpitum* behind which were lined up the pool and two planters that could be compared to a *proscaenium*. The house dates from the end of the IInd-IVth century.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

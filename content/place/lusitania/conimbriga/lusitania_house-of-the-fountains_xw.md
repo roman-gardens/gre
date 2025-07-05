@@ -44,7 +44,7 @@ This house is almost entirely excavated, the exception being its north facade, w
 
 The house has recently been the subject of a monograph by Isabelle Morand in which she undertakes to recover the geometrical and numerical principles used by the architect and to identify astronomical and astrological allusions in the house.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

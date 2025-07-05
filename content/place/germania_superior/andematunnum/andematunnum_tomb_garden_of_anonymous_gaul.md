@@ -37,7 +37,7 @@ A famous inscription from the territory of the Lingonian Gauls (Langres) known o
 
 <!-- ## Plans -->
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

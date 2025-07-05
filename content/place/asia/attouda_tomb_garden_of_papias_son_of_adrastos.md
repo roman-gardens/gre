@@ -28,19 +28,15 @@ Tomb Garden of Papias son of Adrastos
 
 A marble slab found immured in a house wall at Hisarköy (Attouda) in Caria near the border with Phrygia records an *epitaph* set up by Papias, the son of Adrastos, grandson of Zeuxis, great grandson of Kounbarion, for himself and his heirs and sets aside a plot of unencumbered land six cubits square around it, from which it was permitted to derive revenue ([t"] mnhme€ƒ periÒria [di]°[ye]to pÆxiw ©<j> é[ne]pikvlut€, nomØn ka‹ karpe€an énepikvlut€).  The modest size of the allotment (less than ten m2) suggests that the productive plot was probably a garden.
 
-<!--
-## Maps
+<!-- ## Maps -->
 
-<!--
--->
 <!--
 ## Plans
 
 {{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan of the excavations at Aphrodisias" credit="" alt="Plan of villa rustica at Blackenheim-Hülchrath">}}
-<!--
 -->
-<!--
-## Images
+
+<!-- ## Images -->
 
 ## Dates
 

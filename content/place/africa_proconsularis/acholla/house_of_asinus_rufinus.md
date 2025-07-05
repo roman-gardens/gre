@@ -42,13 +42,13 @@ The low wall of four porticos spanned the *viridarium* of the peristyle (13.65 x
 
 Adjacent to the east apartment is a light well with an earthen floor, which can be regarded as a small garden (IX).  A large window in room VIII opened into this garden (IX).
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="House_of_Asinius_Rufinus_Acholla1.jpg" caption="Fig. 1: Plan of the House of Asinius Rufinus (Acholla, Et alii, PL. II)" credit="" alt="Plan of the House of Asinius Rufinus at acholla">}}
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

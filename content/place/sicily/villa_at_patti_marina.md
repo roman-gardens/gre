@@ -35,13 +35,13 @@ Villa at Patti Marina
 
 This fourth-century villa on the north coast has also yielded evidence for a garden (but no ornamental pools). A figured mosaic pavement belonging to an earlier, third-century villa was found inside the courtyard of the later villa, but it had been heavily damaged by cuttings through it for the plants and trees of the garden of the fourth-century villa. Nothing can be said of the layout of the latter in detail as the excavation remains unpublished, but the potential for garden archaeology in the island has at least been demonstrated.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 <!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}} -->
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

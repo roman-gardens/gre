@@ -37,7 +37,7 @@ The house was located in the *insula* delimited by the Decumani North V-VI and t
 
 The North and the East portico lead to an open area that Gauckler identifies as a garden of at least 250m². The house dates from the IVth. c.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
@@ -45,7 +45,7 @@ The North and the East portico lead to an open area that Gauckler identifies as 
 
 <!-- the north arrow in the figure appears to be incorrect -- based on the satellite imagery, the arrow seems to point west, not north -- Keith -->
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

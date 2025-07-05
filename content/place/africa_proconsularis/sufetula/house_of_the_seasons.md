@@ -34,12 +34,13 @@ House of the Seasons (La maison des Saisons)
 
 This house, known for its majestic and richly decorated *oecus*, is laidout around a peristyle courtyard that was probably planted. The house is dated to the late IVth. early Vth. Century (Plan view, Fig. 1).
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="AFR_Suf_hs_amalek1.jpg" caption="Fig. 1: Plan of the House of the Seasons." credit="(Duval, N. and Hallier, G., 1972, fig. 11)" alt="Plan of the House of the Seasons at Sufetula">}}
-## Images
+
+<!-- ## Images -->
 
 ## Dates
 

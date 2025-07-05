@@ -44,7 +44,7 @@ The peristyle of this villa was a productive one.  Five olive presses sat in the
 
 The archaeologists working on the site have not produced a detailed sequence of phases.  Settlement on the site, however, seems to go back to the Bronze Age, while the first Roman structures date from the first century A.D.  The second and third centuries A.D. saw the villa assume approximately its present form. The fine marine mosaics, found not only around the peristyle but in several of the numerous pools, date from the mid-fourth century AD. The temple was contemporaneous and appears to have been originally pagan, though before the end of the century it had been converted to a Christian church.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

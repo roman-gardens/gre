@@ -42,13 +42,13 @@ The remains of a palatial house (Palais de Derrière la Tour) were recently unco
 
 The courtyard was on two levels, divided on the north by a terrace wall with two small exedrae, possibly pools. An axially arranged central pathway between the reception room on the north and an apsed triclinium on the south further divided the courtyard into an eastern and a western half. Steps led up to the triclinium and to the northern wing of the house. A ground level gutter ran around the courtyard, and a covered drain crossed it beneath the central path. It can reasonably be assumed that the courtyard was designed as a garden (G in Fig. 1) with garden elements such as the path and the exedral pools. With the addition on the northeast of another wing terminating in a bath complex, the building ultimately had a length of around 200 meters. The excavators believe that the building in its latest phase had official character.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="EUR_GS_AugRau_Phi7_carroll.jpg" caption="Fig. 1: Plan of the courtyard house or palace on the western fringe of Insula 7, with a garden courtyard (G) with two small apsidal pools on one side." credit="Plan adapted from Morel 1995, fig. 4." alt="Fig. 1: Plan of the courtyard house or palace on the western fringe of Insula 7, with a garden courtyard (G) with two small apsidal pools on one side. Plan adapted from Morel 1995, fig. 4" >}}
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

@@ -38,7 +38,7 @@ The house was located in the W neighborhood of the ancient city of Pupput and in
 
 The house has had three phases. During the second phase the garden peristyle (V) was bounded by a low wall that curved to make eight to nine semi circular niches (A, C, D, E, F, G, H, I) facing the galleries of the peristyle.  The niches were paved with mosaics some of which figure birds among cut branches (D) and marine scenes (A, I). The second phase of the house is dated from the second half of the IV century.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

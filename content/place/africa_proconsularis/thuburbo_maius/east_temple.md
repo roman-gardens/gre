@@ -38,7 +38,7 @@ East Temple (Temple de l'Est)
 
 A strip of soil bordered most of the long sides of the temple and the mosaic paving in front of it (Plan view, Fig. 1). Preliminary excavations in 1990 in a strip 1m wide at the front of the garden, on the left, yielded a row of root cavities approximately 15cm in diameter and 50-70cm apart suggesting a formal planting. The size of the root cavities indicates that trees or large shrubs, perhaps laurels, were planted there. Temple gardens and groves are well known in the ancient world, primarily from literary evidence, but there is little archaeological evidence. For this reason the complete excavation of both strips of soil is extremely important. The soil in the preceding temples should also be excavated.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

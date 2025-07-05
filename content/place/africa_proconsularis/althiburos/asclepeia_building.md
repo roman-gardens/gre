@@ -53,13 +53,13 @@ During this phase, a long rectangular basin (*euripus*) was laid in front of the
 
 During the third stage dated to the beginning of the second half of the fourth century, the water features were modified and a large basin was added. Niches were added inside the semi-circular basins. In the center of the garden, a rectangular basin (g) (6.20x4.20m) that protruded onto the square basin (h) and enclosed a small rectangular basin  (g) (0.15x0.15m) was added.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="Askleipeia_Building1.jpg" caption="Fig. 1: Plan of the Asclepieia Building" credit="" alt="Plan of the Asclepieia Building at althiburos">}}
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

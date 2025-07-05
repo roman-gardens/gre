@@ -33,7 +33,7 @@ Villa at Castroreale San Biagio
 
 There is a rectangular fountain basin set at the south end of the peristyle facing the triclinium, probably of the second century A. D. (Figs 8 and 9).
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

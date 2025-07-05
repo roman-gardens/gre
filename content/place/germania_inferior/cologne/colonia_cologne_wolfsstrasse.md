@@ -37,13 +37,13 @@ Only a fraction of this house in the immediate vicinity of the [House on Gertrud
 
 The peristyle courtyard was ca. 7 m. wide and 11.30 m. long. Both faces of the wall surrounding it were plastered and painted red.  Presumably the wall was several courses high, much like a balustrade, with columns on top. There was a doorway or monumental entrance, 3.50 m. wide, to the courtyard at the southeast. The corridor around the garden was 3.10 m. wide and had a beaten earth floor resurfaced more than once. Most of the original earth in the courtyard had been disturbed or removed in post-Roman times, but there was clearly no sign of a paved surface or beaten earth floors that had been trodden in the courtyard, so that one might postulate the existence of loose garden soil here during the occupation of the house (G on Plan 1). In the northern part of the courtyard was a deep, circular shaft which may have been a well (W on Plan 1), the stone courses of which had been robbed out.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="cologne_wolfstrasse__plan1_EUR_GI_ColClaAA_Uhw_carroll.jpg" caption="Plan 1: Plan of the partially excavated courtyard house with a possible garden (G) containing a well (W) on Wolfsstraße." credit="Adapted from Carroll-Spillecke 1997, fig. 7." alt="Plan of the Urban house on Wolfsstrasse at Colonia Claudia Ara Agrippinensium (Cologne)">}}
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

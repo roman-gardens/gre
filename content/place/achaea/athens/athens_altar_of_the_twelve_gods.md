@@ -19,17 +19,13 @@ late 1st century CE (mentioned)
 
 A grove of olive and laurel trees surrounding the Altar of the Twelve Gods in the Athenian Agora is mentioned in the late 1st century A.D. by the Roman writer Statius in his epic poem [Thebaid (12.481-496)](http://data.perseus.org/citations/urn:cts:latinLit:phi1020.phi001.perseus-lat1:12). Excavations conducted there revealed the remains of the planting pits of trees, although there appears to have been a very limited number, only three or four pits.
 
-<!--
+<!-- ## Maps -->
 
-## Maps
+<!-- ## Plans -->
 
-## Plans
+<!-- ## Images -->
 
-## Images
-
-NEEDED - search bibliography for plans.
-
--->
+<!-- NEEDED - search bibliography for plans. -->
 
 ## Bibliography
 

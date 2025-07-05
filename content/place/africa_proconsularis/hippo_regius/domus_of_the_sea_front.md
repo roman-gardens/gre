@@ -41,7 +41,7 @@ The upper level of this large house (after 330, according to stratigraphic datin
 
 The peristyle garden of the house (ca 16.50 x 8.50 m) was enclosed on four sides by a portico supported by twenty marble columns; there was a first floor, as stairs have been found. A large *oecus* (B3) on the northeast side looked out on the garden. In front of this exedra was a shallow pool, framed by two columns. Behind the pool was a cistern opening covered with a stone slab; on the right and left, two square planters were added at a later period. In that part of the garden, the mosaic pavements of the lower level extended under the garden. On the opposite side, a beautiful semi-circular basin, framed by two fluted columns (now broken), and faced inside with colored marbles, was visible from the entrance of the house (Fig. 2). Between the large door and this basin, the portico was paved with white marble slabs. The open space certainly was a garden (B16) as it was planted with bushes a few years ago.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

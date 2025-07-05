@@ -37,11 +37,11 @@ Tomb Garden and Pool of Cingius Iustinus
 
 A rock cut inscription at Salonae marks the spot where some time in the late second or third century Cingius Iustinus made a fishpond or pool (piscina) in the garden of his wife Aelia Licinia for her and for himself (*fecit piscinam in horto Aeliae Liciniae coiugi incomparabili et sibi*). No tomb is mentioned, but the dedication *D(is) M(anibus)* identifies the text as an epitaph and thus points to a funerary context.
 
-## Maps
+<!-- ## Maps -->
 
-## Plans
+<!-- ## Plans -->
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

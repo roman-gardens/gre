@@ -37,7 +37,7 @@ Temple of Caelestis (Temple de Caelestis)
 
 The marble causeway leading to the temple was bordered on each side with soil that was probably planted as in temple E (Plan view, Fig. 1).
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

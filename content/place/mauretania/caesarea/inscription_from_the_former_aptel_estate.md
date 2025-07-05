@@ -53,9 +53,9 @@ An inscription CIL VIII 21081 mentioning a pool covered by a wine trellis suppor
 
 "As many (pools) are sheltered by a vine caught up by tall columns, as also [there] is a bend into an arch smoothing with manageable scale; as statues breathing of Parian marble live and as the swell of the water flows forth with varied course..."
 
-## Plans
+<!-- ## Plans -->
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

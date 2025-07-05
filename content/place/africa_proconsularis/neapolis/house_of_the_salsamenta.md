@@ -39,7 +39,7 @@ A fish-curing factory (*salsamenta*) located to the SE of the Nymfarum domus was
 
 During the second half of the IVth century, with the abandonment of the industrial unit, the residential area was enlarged and a second semi-circular basin was added in the garden.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

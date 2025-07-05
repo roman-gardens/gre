@@ -46,11 +46,11 @@ Of Hellenistic origin, the site was famous during the Roman period for its cypre
 
 The purposeful evocation of a sacred landscape can be seen in the placement of the temple near the spring Castalia in which the oracle of Apollo was considered to reside. A representation of the journey from the springs of Daphne to Antioch along a tree-lined street is picturesquely depicted in the topographic border of the mosaic of Megalopsychia found in the mid-fifth century CE villa at Daphne (Yakto area) (Fig. 3).  Water flows from a vase held by a nude female, identified by a Greek inscription as the personification "Kastalia," into a semi-circular colonnaded nymphaeum. Another stream of water flows from her into a reservoir with another nymph identified as "Pallas," but there is no sign of the sacred grove or the temple. In addition, the grove was the symbol for Daphne on a medieval copy of the Tabula Peutingeriana (4th century CE). Though archaeologists have not found any material traces of the revered grove at Daphne, there is archaeological evidence for the planting of groves at the Sanctuary of Apollo Hylates ("He of the woodlands") in Kourion, Cyprus, and elsewhere (see: cross-references here).
 
-## Maps
+<!-- ## Maps -->
 
-## Plans
+<!-- ## Plans -->
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

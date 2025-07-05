@@ -37,7 +37,7 @@ Theater (Theâtre)
 
 At the rear of the theater is a *xystis* known from the dedication inscription (CIL VIII 26606, 26608) (Plan view, Fig.1). The word *xystis* probably corresponds to the portico and the semi-circular garden space that develops behind the stage building.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

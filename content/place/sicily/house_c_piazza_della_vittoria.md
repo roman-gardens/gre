@@ -35,7 +35,7 @@ House A, Piazza della Vittoria
 
 There is a rectangular tank or fountain set against the rear wall of a small internal court (Fig. 5) in this almost totally unexcavated house, which lies back to back with the house containing garden 4.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

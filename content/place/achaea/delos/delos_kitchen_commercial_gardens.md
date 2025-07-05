@@ -27,12 +27,9 @@ The variety of trees and plants cultivated in ancient Delos is known from the ep
 
 {{< image file="delos_fig11_archaeological_plan.jpg" caption="Fig. 1: Archaeological plan of the island, 1:2500." credit="Drawing by Nicolas Bresch from Brunet 1999, fig. 1." alt="Map of Delos with archaeological features marked" >}}
 
-<!--
-## Plans
+<!-- ## Plans -->
 
-## Images
-
--->
+<!-- ## Images -->
 
 ## Bibliography
 

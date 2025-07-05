@@ -37,7 +37,7 @@ The sanctuary of the Victories of Caracalla
 ## Garden Description
 
 The sanctuary of the Victories of Caracalla, situated in the southwest of the forum, was built in a residential area in 214 CE on a particularly cramped and steep site (figure 12). Its urban and topographical situation conditioned its architecture. It is accessed by a lateral staircase, built onto bedrock, which leads to a courtyard, without a portico due to the lack of space. Its layout is similar to that of the sanctuaries of Minerva 2 and *Dar Lachheb*, with the cross-shaped layout of the paths that delimit four quadrangular spaces, probably planted, located at each corner of the courtyard, and bordered by solid balustrades, also in stone. A staircase of nine steps leads to the tetrastyle temple in antis and pseudo-peripteral which occupies the full width of the sanctuary. This example attests to the desire to introduce vegetation when space was lacking; could this be an indication of the role given to plants in certain cult spaces?
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

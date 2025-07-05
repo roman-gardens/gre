@@ -51,7 +51,7 @@ During this phase the building looked out over an extended garden on the east si
 
 During the third phase, in the 6th century, the entire garden, including the fountain, was covered by a mosaic floor.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

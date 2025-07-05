@@ -35,7 +35,7 @@ PUBLIC GARDEN, Syracuse
 
 In the Roman period, the clearest evidence for the presence of a formal garden in a public place comes from Syracuse, where an impressive piazza, 175 by 45 meters, was laid out early in the Augustan period on the west side of the third-century B. C. Altar of Hieron (Fig. 2). A U-shaped stoa was erected on three sides, with fourteen columns on the short sides and sixty-four on the long; the Altar itself formed the fourth. Within the area enclosed by this portico, a large rectangular basin was erected in the center, with steps at the corners and a statue base in the middle; a drain led away from the basin westwards under the portico. The open space around the basin was planted systematically with five rows of trees, thirty-two trees in the two outermost rows, and twenty-six in each of the rows interrupted by the pool; there were thus 142 trees (of unknown species) in all (Fig. 3). The arrangement, with its central pool, trees and surrounding porticoes, recalls similar monuments in Campania, such as the Great Palaestra, also of Augustan date, at Pompeii (see Vol. 1, no.), and the Palaestra at Herculaneum (see Vol. 1, no.). The function of the Syracuse square is unknown, but it must have been principally intended as a pleasant park where the townsfolk of Syracuse could stroll, especially, perhaps, when attending events staged in the nearby amphitheater.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

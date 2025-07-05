@@ -40,12 +40,13 @@ The house has known some modifications, one of which was the construction of a p
 
 When the house was transformed into a church, during the middle of the IVth century, the garden of the peristyle may have been maintained.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="AFR_Hor_Htp_Amalek1.jpg" caption="Fig. 1: Plan of the House of Two Peristyles." credit="(Ennaïfer, M., Ouertani, N., 2001, fig.2)" alt="Plan of the House of Two Peristyles at Horrea Caelia" >}}
-## Images
+
+<!-- ## Images -->
 
 ## Dates
 

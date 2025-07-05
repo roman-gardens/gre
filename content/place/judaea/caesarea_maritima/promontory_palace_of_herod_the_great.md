@@ -51,7 +51,7 @@ Excavations by K. Gleason and B. Burrell for the University of Pennsylvania Muse
 
 Foundations of garden architecture, water channels and garden soils of the late Byzantine period have also been found, best preserved in the eastern half of the site.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

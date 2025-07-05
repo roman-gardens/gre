@@ -38,7 +38,7 @@ House of Venus (Maison de Venus)
 
 The house of Venus is located at the S of the capitol and is adjacent to the temple of Caracalla's victory. The house is laid out on two levels (Plan view, Fig. 1). The peristyle garden and the main reception rooms are located on the higher level. A large rectangular pool (V, 2.80x5.45m.) filled most of the space of the garden.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

@@ -38,13 +38,13 @@ Known for its mosaic pavements, the *domus* of the Masks was laid out around a l
 
 The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was bordered on two sides by pillars that opened towards a rear garden, the third side is not clear as the house is destroyed in this area.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="House_of_the_Masks_Sousse1.jpg" caption="Fig. 1: Plan of the House of the Masks" credit="(Foucher, L., 1965)" alt="Plan of the House of the Masks at hadrumetum">}}
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 2nd century CE

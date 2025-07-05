@@ -61,7 +61,7 @@ The trees in this garden were probably food bearing trees.  Ancient Tunisia had 
 
 We next consider the identity of the many smaller roots.  Since this garden was viewed from the large formal dining room, an effort would have been made to make it beautiful all year round.  Fruit trees would have been beautiful in flower or fruit but they are deciduous.  Only the olive tree is evergreen.  Ornamental plant material in ancient Roman gardens was extremely limited, but the majority of the plants were evergreen and produced beautiful gardens in every season, welcome in winter and refreshingly cool in summer.  The plant material in Tunisia was limited for the most part to the laurel, myrtle, rosemary, laurustinus, oleander, acanthus and ivy.  There does not seem to be a place in this garden for ivy, but any of the other plants could have been used.  Roman gardens had few flowers, especially with color.  Roses are pictured in Tunisian mosaics and they may have been used in this garden. The oleander (Nerium oleander L.) with its striking pink flowers is the only colorful garden shrub.  It is widespread in all Tunisia and tolerant of variable growing conditions.  It seems probable that oleanders, so prominent in modern Tunisian gardens, as well as in the wild, also added color to this garden.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

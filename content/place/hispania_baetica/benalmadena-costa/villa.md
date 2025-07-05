@@ -32,7 +32,7 @@ At the rear of this villa there is a grand *euripus* running the length of the l
 
 <!-- ## Plans -->
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

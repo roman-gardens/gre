@@ -47,12 +47,13 @@ House of Sertius (Maison de Sertius)
 
 This large *domus* the result of the combining of two houses, is located at the periphery of the center of the city. The *domus* is laid out around two peristyles. The first, near the vestibule had a long rectangular basin placed in the axis of the *triclinium*, the two strips that bordered the pool may have been planted. The second peristyle with 8 columns had a semi-circular basin (Plan view Fi.1).
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="house_of _sertius.jpg" caption="Fig. 1: Plan of the House of Sertius" credit="(Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 152)" alt="Plan of the House of Sertius at Thamugadi">}}
-## Images
+
+<!-- ## Images -->
 
 ## Dates
 3rd-5th century CE?

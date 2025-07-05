@@ -46,7 +46,7 @@ In Phase 2 (Fig. 2), from the end of the first century to mid-second century A.D
 
 The third phase distinguished by Maloney and Hale covered several building campaigns and extended through the second half of the 3rd and perhaps into the very beginning of the 4th century AD. The northeast corner of the house was largely demolished and rebuilt with a central peristyle courtyard. A rather deep tank was in the center, and between it and the peristyle was an unpaved area that was almost certainly a garden, quite possibly formal. The granaries that had previously occupied part of the buildings around the east court were surpressed, indicating an "urbanization" or up-scaling of the area. The entrance remained on the south; the visitor would still have crossed the east court to get to the main house.  The villa's triclinium had a full, central view of the garden and pool.  The tablinum or master's office on the east side of the peristyle also had a fine view of the garden.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

@@ -49,7 +49,7 @@ The house was laid out around a peristyle that may have had a garden. 12 columns
 
 {{< image file="small_house_with_peristyle_and_basins_fig_1.png" caption="Fig. 1: Plan of Small House with peristyle and basins in Portus Magnus" credit="" alt="Plan of Small House with peristyle and basins in Portus Magnus. Square in overall aspect, front side of the house faced almost due east. A small entrance was at the southern end of this wall, with the square-sided atrium occupying a corner of the house and opening into the large central peristyle. Other rooms surrounded this rectangular peristyle on all sides, forming the square shape of the building. Only two of these rooms (those in the southwest corner of the house) are linked by an interior hallway, with the other ten opening only into the peristyle." >}}
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

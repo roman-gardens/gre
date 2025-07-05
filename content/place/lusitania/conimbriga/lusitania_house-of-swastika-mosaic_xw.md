@@ -41,7 +41,7 @@ House of the Swastika Mosaic
 
 Far more modest than the House of Cantaber but following the same general ideas of garden design, this house was left outside the new city wall built during the late empire.  The mosaics, now in excellent condition after modern restoration, can be dated to the mid third century A.D., but the house is the result of several successive transformations.  Presumably that history explains why the main room with the mosaic with many swastikas is not aligned with the axis of the garden, though two of its three doorways offered views of it.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

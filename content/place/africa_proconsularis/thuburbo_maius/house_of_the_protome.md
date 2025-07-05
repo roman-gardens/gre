@@ -43,7 +43,7 @@ This very large house on the western edge of the site had two sectors, the *Trif
 
 The *Trifolium* sector, was laid out around a peristyle garden (I-V) enclosed on four sides by a portico of 12 columns. The garden, 35 cm lower than the level of the portico, had a deep rectangular pool (1) and a semicircular basin (2, 3) placed at each end of the garden on the axis of the *oecus* (XI). Eight ceramic vases (8 cm in dia., 30 cm deep) embedded in the sides of the pool provided places for the fish to lay eggs and served as shady retreats for the fish. The pool and the basins were paved with mosaics. These have been mostly destroyed, but pieces of the bottom paving of the basin (3) show birds and a hare among cut branches of flowers.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

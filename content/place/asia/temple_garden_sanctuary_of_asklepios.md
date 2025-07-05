@@ -38,11 +38,11 @@ Temple Garden, Sanctuary of Asklepios
 
 Inscriptions of the fifth and fourth centuries B.C. record certain regulations for the maintenance of a sacred grove belonging to Asklepios on the island of Kos.  Cypress trees are specifically mentioned, and it was unlawful to cut them down or remove wood from the sanctuary.  In the mid-first century B.C., however, a Roman prefect by the name of Turullius felled trees in the sanctuary to acquire timber for building ships. Caesar had him executed for this offence (Cassius Dio 51.8.3; Valerius Maximus 1.1.19).
 
-## Maps
+<!-- ## Maps -->
 
-## Plans
+<!-- ## Plans -->
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 

@@ -37,7 +37,7 @@ The house of the Cryptoporticus occupies the hill of the Odeon on the insula tha
 
 The house is organized around a peristyle garden (15,60 x 16,9 m) with a grand oecus of 200m² paved with opus sectile opening into it (Plan view, Fig. 1). The house dates from the I-Vth c.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 

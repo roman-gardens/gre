@@ -40,13 +40,13 @@ East of the house was a long rectangular area open to the sky and divided into p
 
 The northern part of the house facing the street included an open terrace which may have been built up on demolished walls of the earlier house. Humus-rich soil in the terrace area may indicate that it was planted (G in Fig. 1). Immediately south of the terrace was a portico that offered a splendid view of the valley.
 
-## Maps
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="EUR_GS_AUG RAU_Hi1+2_carroll.jpg" caption="Fig. 1: Augusta Raurica., House in insula 1 and 2." credit="Adapted from Hufschidt." alt="" >}}
 
-## Images
+<!-- ## Images -->
 
 ## Dates
 
