@@ -14,7 +14,3 @@
 - id: tags_title
   translation: "Keywords"
 
-# Footer
-- id: footer_credits
-  translation:
-    "Generated with <a href=\"https://gohugo.io/\" rel=\"nofollow noopener\" target=\"_blank\">Hugo</a>."
