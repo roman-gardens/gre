@@ -1,5 +1,9 @@
 ---
 title: "Contribute"
+author:
+contributor: Christian Casey
+date: 2021-04-13
+modified: 2025-06-19
 draft: false
 ---
 

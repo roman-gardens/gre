@@ -1,7 +1,8 @@
 ---
 title: "History of the Project"
-date: 2021-04-13
 contributor: Christian Casey
+date: 2021-04-13
+modified: 2025-07-05
 draft: false
 ---
 Originally modeled on [*Gardens of Pompeii* (1979-1993)](http://www.worldcat.org/oclc/799117144), with its book of essays and catalogue of archaeological sites, Wilhelmina Jashemski planned  Gardens of the Roman Empire as a far more ambitious project. It has engaged an interdisciplinary team of nearly 200 scholars, students, volunteers, and specialists to assemble a vast body of data into this digital project, which complements, but is independent of, a print volume of essays published by Cambridge University Press, [*Gardens of the Roman Empire* (2018)](http://www.worldcat.org/oclc/1034800155). Ultimately, this website is designed to publish the assembled catalogue of material in the format in which Jashemski first envisioned it, while using contemporary digital tools to make the data readily discoverable, navigable and citable. It takes the project forward into the future with essential search tools, links, and maps. The result is a website that realizes her original vision while transforming the project into a fully independent digital forum for research on Roman gardens and designed landscapes.

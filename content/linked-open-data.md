@@ -1,11 +1,12 @@
 ---
-title: "Open Linked Data"
-date: 2021-04-20
+title: "Linked Open Data"
 contributor: David Ratzan
+date: 2021-04-20
+modified: 2025-07-05
 draft: false
 ---
 
-**GRE adopts [open linked data](https://en.wikipedia.org/wiki/Linked_data#Linked_open_data) approaches whenever it can.** Data is **linked** when one data set reuses or relies on another. Such linked data is **open** when the target data is free and open to the public to use. This approach and its advantages are perhaps best illustrated by an example.
+**GRE adopts [linked open data](https://en.wikipedia.org/wiki/Linked_data#Linked_open_data) approaches whenever it can.** Data is **linked** when one data set reuses or relies on another. Such linked data is **open** when the target data is free and open to the public to use. This approach and its advantages are perhaps best illustrated by an example.
 
 In GRE, we use [Pleiades](https://pleiades-stoa-org.proxy.library.nyu.edu/) identifiers for our geographic data. In other words, each garden in GRE has metadata fields related to geography, since each garden exists in space. Instead of defining these geographic places for ourselves -- and in the process not only needing to collect lots of data (e.g., representative longitude and latitude) and creating a necessarily idiosyncratic list of places (e.g., which name should we use, ancient or modern, from which period, which spelling or transliteration, etc.) -- we instead reused the existing collection of open geographic data related to places in the ancient world as represented in Pleiades.
 
@@ -19,11 +20,11 @@ Any scholar or project that uses Pleiades will therefore be able to query the GR
 
 Also, since Pleiades is an open, collaborative project, we can create new places as we may need, including "gardens" (as opposed to other types of places, like villas, temples, villages, etc.).
 
-In other words, we do all of our ancient geographical work in Pleiades, which is optimized for that sort of work; and in relying on and linking to Pleiades data, we are free to concentrate our efforts on gardens, our main interest. Indeed, one aim of GRE is to become an open linked data resource for scholars and readers interested in Roman gardens.
+In other words, we do all of our ancient geographical work in Pleiades, which is optimized for that sort of work; and in relying on and linking to Pleiades data, we are free to concentrate our efforts on gardens, our main interest. Indeed, one aim of GRE is to become a linked open data resource for scholars and readers interested in Roman gardens.
 
-## GRE open linked datasets and controlled vocabularies
+## GRE linked open datasets and controlled vocabularies
 
-Some of the open linked data resources and controlled vocabuli GRE currently uses include (main use in parentheses):
+Some of the linked open data resources and controlled vocabularies that GRE currently uses include (main use in parentheses):
 - [CITE URNs](https://www.homermultitext.org/hmt-doc/cite/index.html) (usually through [Perseus](https://catalog.perseus.org/) for Greek and Latin texts and authors)
 - [Getty Art & Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/) (art historical and architectural terms)
 - [Getty Thesaurus of Geographical Names](https://www.getty.edu/research/tools/vocabularies/tgn/) (geography)

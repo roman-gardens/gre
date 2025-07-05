@@ -1,7 +1,8 @@
 ---
 title: "Take-Down Policy"
-date: 2021-04-20
 contributor: David Ratzan
+date: 2021-04-20
+modified: 2021-04-20
 draft: false
 ---
 ## GRE Take-down policy

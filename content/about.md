@@ -1,7 +1,8 @@
 ---
 title: "About"
-date: 2021-04-13
 contributor: Christian Casey
+date: 2021-04-13
+modified: 2025-07-05
 draft: false
 ---
 
@@ -25,11 +26,11 @@ GRE invites all scholars and the general public to explore the beta site and pro
 
 **The best way to think of the GRE, in other words, is as a corpus of "gardens," such that each identified garden of the Roman Empire has a unique record or file associated with it.** Thus, if a house in Pompeii or a tetrarchic palace in Thessaloniki has two or three gardens, there will be two or three records for that house or  palace, one for each garden, as opposed to one record for the house or palace that discusses all of the gardens together. The advantage of this approach is that one gains precision over gardens as an object of study. So, for example, each record has a stable, unique URL, which means that one can cite a specific garden and link to it with confidence. The price of this precision, however, is the loss of a synoptic or synthetic approach to how such gardens may have been experienced in relationship to each other (e.g., in a villa, a town, a region, a province, etc.). Like all corpora, synthesis is largely left to the reader and scholar.
 
-## Open linked data
+## Linked open data
 
-GRE adopts [open linked data](https://en.wikipedia.org/wiki/Linked_data#Linked_open_data) approaches whenever it can. All of the data associated with the GRE site is free and openly available to the public in our [github repository](https://github.com/roman-gardens/gre).
+GRE adopts [linked open data](https://en.wikipedia.org/wiki/Linked_data#Linked_open_data) approaches whenever it can. All of the data associated with the GRE site is free and openly available to the public in our [github repository](https://github.com/roman-gardens/gre).
 
-[more...]({{<ref "open-linked-data/">}})
+[more...]({{<ref "linked-open-data/">}})
 
 ## Rights
 

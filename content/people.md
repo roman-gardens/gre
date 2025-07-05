@@ -1,8 +1,9 @@
 ---
 title: "People"
 aliases: [/contributors]
+contributor: Christian Casey, David Ratzan, Divya Kumar-Dumas
 date: 2021-04-20
-author: David Ratzan, Divya Kumar-Dumas
+modified: 2025-07-05
 draft: false
 ---
 

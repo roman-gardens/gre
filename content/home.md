@@ -1,5 +1,8 @@
 ---
 title: "Welcome to the Gardens of the Roman Empire"
+contributor: Christian Casey
+date: 2021-04-13
+modified: 2025-05-10
 draft: false
 ---
 
