@@ -72,7 +72,7 @@ C. The north [peristyle](http://vocab.getty.edu/page/aat/300080971) garden belon
 * Fiorelli, G. 1875. *Descrizione di Pompei*, p. 62 [(worldcat)](https://search.worldcat.org/title/9528380)
 * Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius,* pp. 21-22 and figs. 28-29 [(worldcat)](https://search.worldcat.org/title/312003872)
 * Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 29-30, 32-33, 394 [(worldcat)](https://search.worldcat.org/title/222353569)
-* Kapossy, B. 1969. *Brunnenfiguren der hellenistischen und romischen Zeit*, Zurich, p. 48, 51-52   [(worldcat)](https://search.worldcat.org/title/804937054?referer=di&ht=edition)
+* Kapossy, B. 1969. *Brunnenfiguren der hellenistischen und romischen Zeit*, Zurich, p. 48, 51-52  [(worldcat)](https://search.worldcat.org/title/804937054?referer=di&ht=edition)
 * Lugebil, K. J. 1861. *BdI*, p. 240
 * Maiuri, A. 1926. *BdA*, p. 350
 * Maiuri, A. 1939. *NSc*, pp. 575-576

@@ -52,7 +52,7 @@ B. The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the east
 
 * Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 22 [(worldcat)](https://search.worldcat.org/title/892026154)
 * De Franciscis, A. 1951. *Il ritratto romano a Pompei*, p. 25 and figs. 10-11 [(worldcat)](https://search.worldcat.org/title/2080923)
-* Dwyer, E.J. 2010. *Pompeii's living statues: ancient Roman lives stolen from death*, p. 124, 127   [(worldcat)](https://search.worldcat.org/title/885382781)
+* Dwyer, E.J. 2010. *Pompeii's living statues: ancient Roman lives stolen from death*, p. 124, 127  [(worldcat)](https://search.worldcat.org/title/885382781)
 * Fiorelli, G. 1875. *Descrizione di Pompei*, p. 44 [(worldcat)](https://search.worldcat.org/title/9528380)
 * GiornSc, n.s., 1874-1877, 3, cols. 46-47, 48, 55
 * Grimal, P. 1969. *Les jardins romaines*, p. 445, no.1

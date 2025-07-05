@@ -17,7 +17,6 @@
 			{{ .Content }}
 		</div>
 
-        {{ if 0 }}
         {{ $person := .Params.Title }}
         {{ $pages := where .Site.Pages ".Params.Author" $person }}
         {{ if $pages }}
@@ -39,7 +38,6 @@
                 <li><a href="{{ index .Aliases 0 }}">{{ .Title }}</a></li>
             {{ end }}
             </ul>
-        {{ end }}
         {{ end }}
 
 	</article>

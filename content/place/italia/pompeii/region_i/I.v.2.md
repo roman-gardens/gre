@@ -32,8 +32,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "lararia" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
 - {{< keyword "tablina" >}}
 
 ## Garden

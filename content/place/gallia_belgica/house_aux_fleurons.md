@@ -26,7 +26,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Sublocation Description
 
-Durocortorum was mentioned by Caesar as the center of the Remi, a Celtic tribe that sided with the Romans against the Belgians. It then became a federated city, nominally independent.  Under Augustus, it became the capital of Gallia Belgica. Many vestiges indicate that it was densely settled and unusually extensive.   A network of water supply and sewers has been found; an aqueduct brought water from 40 kilometers.  The cardo and decumanus are still identifiable today by vestiges of four gates with arches, the northern one still standing; they cardo and decumanus intersect at the present Place Royale.  Today, the city is known for its magnificent Gothic cathedral and its fine champagnes.
+Durocortorum was mentioned by Caesar as the center of the Remi, a Celtic tribe that sided with the Romans against the Belgians. It then became a federated city, nominally independent.  Under Augustus, it became the capital of Gallia Belgica. Many vestiges indicate that it was densely settled and unusually extensive.  A network of water supply and sewers has been found; an aqueduct brought water from 40 kilometers.  The cardo and decumanus are still identifiable today by vestiges of four gates with arches, the northern one still standing; they cardo and decumanus intersect at the present Place Royale.  Today, the city is known for its magnificent Gothic cathedral and its fine champagnes.
 
 ## Garden
 The House aux Fleurons (boulevard de la Paix)
@@ -64,7 +64,7 @@ Unspecified
 
 ## Bibliography
 - Ch. Loriquet, *La mosaïque des Promenades et autres trouvées à Reims*, Reims, 1862 [(worldcat)](https://search.worldcat.org/title/609628912)
-- D.R.A.H..A., La Bourse du Travail à Reims, *Bulletin de la société archéologique champenoise,* n°4, 1977, p. 77-79   <!--not on worldcat -->
+- D.R.A.H..A., La Bourse du Travail à Reims, *Bulletin de la société archéologique champenoise,* n°4, 1977, p. 77-79  <!--not on worldcat -->
 - R. Neiss, La structure urbaine de Reims antique et son évolution du Ier au IIIe siècle après J.-C. Les villes de la Gaule Belgique au Haut-Empire, in: *Actes du colloque tenu à Saint-Riquier (Somme). Revue archéologique de Picardie,* n°3-4, 1984, p. 171-191, [(worldcat)](https://search.worldcat.org/title/754518194)
 - A. Balmelle, R. Neiss, Les maisons de l'élite à *Durocortorum*, in Archéologie urbaine à Reims, *Bulletin de la société archéologique champenoise,* t. 96, 2003, 4, p. 74. [(worldcat)](https://search.worldcat.org/title/718698064)
 

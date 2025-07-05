@@ -47,20 +47,30 @@
 
 # Cleanup
 
+- [ ] images: remove alt unless it provides additional info
+- [ ] move content from garden entries to the province _index.md
+- [ ] add gre_id/aliases for places, update citation example
+- [ ] DON'T LINK place searches from place pages (only from garden pages)
 - [ ] move keywords to below bibliography
 - [ ] id shortcode for people (perseus authors like "Pliny the Elder")
 - [ ] excavation dates -- missing from archetype and some gardens
-- [ ] move content from garden entries to the province _index.md
 - [ ] "contributor" instead of "editor" in front matter
-- [ ] rename ## Places to something like "Linked Places" or Place IDs (should people be listed under Keywords or Linked IDs or have their own section?)
-- [ ] add gre_id/aliases for places, update citation example
+- [ ] rename ## Places to something like "Linked Places" or "Place IDs" (should people be listed under Keywords or Linked IDs or have their own section?)
 - [ ] backslashes \
-- [ ] DON'T LINK place searches from place pages (only from garden pages)
-- [ ] search: use lunr to remove stopwords from searches
-- [ ] images: remove alt unless it provides additional info
+- [ ] search: use lunr to remove stopwords from searches (doing this manually for just a few words now: the of at etc.)
 - [ ] fix or remove empty links -- search for "(#)"
 - [ ] update Leaflet from 1.6 to 1.9.4
+
+
+
+
 - [ ] cleanup double/triple spaces (skip arabia-petragarden!) AFTER we have cleaned up spaces from image filenames
+
+
+
+
+
+
 
 # from 2025-03-04, 2025-04-04, 2025-05-06, 2025-06-11 meetings
 

@@ -76,7 +76,7 @@ Excavated 1913.
 ## Bibliography
 
 * Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius*, pp. 69-70, 113 and fig 43, 111-114. [(worldcat)](https://search.worldcat.org/title/312003872)
-* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, p. 315.   [(worldcat)](https://search.worldcat.org/title/222353569)
+* Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices*, p. 315.  [(worldcat)](https://search.worldcat.org/title/222353569)
 * Jashemski, W.F. 2002. The Natural History of Pompeii, p. 37.[(worldcat)](https://search.worldcat.org/title/46393268)
 * Maiuri, A. 1926. *Boll. D'Arte*, n.s., p. 69, fig. 112.
 * Peters, *Landscape*, pp. 172-173. [(worldcat)](https://search.worldcat.org/title/1091957071)

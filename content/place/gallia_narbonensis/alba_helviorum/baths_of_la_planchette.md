@@ -48,7 +48,7 @@ Baths of La Planchette
 ## Garden Description
 
 
-To the northeast there are the baths of la Planchette, today backfilled.   This bath complex of modest dimensions may have been attached to the northeast angle of the court of the house.  It is surrounded on the exterior by a large gutter for rainwater.  To the northeast of the bath building a rectangular pool has been found of about 3.5 x 2 m and having a semicircular apse with a diameter of 2 m.  It is without doubt an ornamental pool belonging to the exterior garden associated with the baths.  The nature of the ground surface around it is unknown.  At the time of its discovery, the pool still had a water supply pipe of lead.
+To the northeast there are the baths of la Planchette, today backfilled.  This bath complex of modest dimensions may have been attached to the northeast angle of the court of the house.  It is surrounded on the exterior by a large gutter for rainwater.  To the northeast of the bath building a rectangular pool has been found of about 3.5 x 2 m and having a semicircular apse with a diameter of 2 m.  It is without doubt an ornamental pool belonging to the exterior garden associated with the baths.  The nature of the ground surface around it is unknown.  At the time of its discovery, the pool still had a water supply pipe of lead.
 
 
 ## Plans

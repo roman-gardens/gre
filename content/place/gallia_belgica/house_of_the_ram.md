@@ -26,7 +26,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 ## Sublocation Description
 
-Durocortorum was mentioned by Caesar as the center of the Remi, a Celtic tribe that sided with the Romans against the Belgians. It then became a federated city, nominally independent.  Under Augustus, it became the capital of Gallia Belgica. Many vestiges indicate that it was densely settled and unusually extensive.   A network of water supply and sewers has been found; an aqueduct brought water from 40 kilometers.  The cardo and decumanus are still identifiable today by vestiges of four gates with arches, the northern one still standing; they cardo and decumanus intersect at the present Place Royale.  Today, the city is known for its magnificent Gothic cathedral and its fine champagnes.
+Durocortorum was mentioned by Caesar as the center of the Remi, a Celtic tribe that sided with the Romans against the Belgians. It then became a federated city, nominally independent.  Under Augustus, it became the capital of Gallia Belgica. Many vestiges indicate that it was densely settled and unusually extensive.  A network of water supply and sewers has been found; an aqueduct brought water from 40 kilometers.  The cardo and decumanus are still identifiable today by vestiges of four gates with arches, the northern one still standing; they cardo and decumanus intersect at the present Place Royale.  Today, the city is known for its magnificent Gothic cathedral and its fine champagnes.
 
 ## Garden
 House of the Ram (La Maison au Bélier)

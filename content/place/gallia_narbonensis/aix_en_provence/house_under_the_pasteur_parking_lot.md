@@ -80,7 +80,7 @@ Four groups of structures lay in a somewhat staggered pattern. All opened onto g
 2. *Maison 1996*, t. II,, P. 12-15 and fiche n°4, P. 22-23 ; fiche n°5, P. 24-25
 
 
-3.   J. Guyon, N. Nin, L. Rivet, S. Saulnier, *Aix-en-Provence,Atlas*, P. 65-68 et P.261-277.
+3. J. Guyon, N. Nin, L. Rivet, S. Saulnier, *Aix-en-Provence,Atlas*, P. 65-68 et P.261-277.
 
 
 ## Places

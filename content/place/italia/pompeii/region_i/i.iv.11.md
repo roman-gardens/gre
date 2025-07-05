@@ -47,7 +47,7 @@ This modest [caupona](http://vocab.getty.edu/page/aat/300005208) had a garden at
 * Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 25, no.31 [(worldcat)](https://search.worldcat.org/title/892026154) (incorrectly calls the garden a room)
 * Fiorelli, G. 1860. *Giornale degli scavi di Pompei*, p. 68
 * Fiorelli, G. 1875. *Descrizione di Pompei*, p. 66 [(worldcat)](https://search.worldcat.org/title/9528380)
-* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius,* p. 171   [(worldcat)](https://search.worldcat.org/title/312003872)
+* Jashemski, W.F. 1979. *Garden of Pompeii: Herculaneum and the villas destroyed by Vesuvius,* p. 171  [(worldcat)](https://search.worldcat.org/title/312003872)
 * Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 32 [(worldcat)](https://search.worldcat.org/title/222353569)
 * Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 17  (also incorrectly calls the garden a room)
 

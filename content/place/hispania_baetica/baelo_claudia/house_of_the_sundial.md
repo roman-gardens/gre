@@ -33,7 +33,7 @@ Villa del Cortijo de los Vila
 
 ## Garden Description
 
-Located across the colonnaded street from West house was the House of the Sundial.   This house had a rectangular peristyle courtyard with four columns on the long side and three on the shorter side, gutters around the edges, and a well in the center.  According to Sillières, the courtyard was paved in *opus signinum* and thus did not have a garden, though potted plants may have given the appearance of a garden.  Room [19] on the northeast corner of the peristyle was connected to the fish preserving operation just to the north.  Perhaps the occupant of the house ran the fish business.
+Located across the colonnaded street from West house was the House of the Sundial.  This house had a rectangular peristyle courtyard with four columns on the long side and three on the shorter side, gutters around the edges, and a well in the center.  According to Sillières, the courtyard was paved in *opus signinum* and thus did not have a garden, though potted plants may have given the appearance of a garden.  Room [19] on the northeast corner of the peristyle was connected to the fish preserving operation just to the north.  Perhaps the occupant of the house ran the fish business.
 
 
 ## Maps
