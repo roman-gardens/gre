@@ -1,9 +1,6 @@
 {{- $file := .Get "file" -}}
 {{- $file = urls.JoinPath "https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/" .Page.Parent.Path $file -}}
 
-{{/* adjust for old gre-images until we update that repo */}}
-{{- $file = replace $file "/place/" "/province/" -}}
-
 {{- $credit  := .Get "credit" -}}
 {{- $caption := .Get "caption" -}}
 {{- $alt     := .Get "alt" -}}
