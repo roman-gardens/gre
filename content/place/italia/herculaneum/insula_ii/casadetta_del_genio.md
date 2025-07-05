@@ -49,10 +49,10 @@ This house was partially excavated in 1829-1830 and again in 1850. The *portico*
 
 ## Plans
 
-{{< image file="H_2_3.jpg" caption="Plan of Casadetta del Genio" credit="" alt="" >}}
+{{< image file="h_2_3.jpg" caption="Plan of Casadetta del Genio" credit="" alt="" >}}
 
 ## Images
-{{< image file="Herc. II.3   68.6.57.jpg" caption="Illustration of Casadetta del Genio" credit="" alt="" >}}
+{{< image file="herc.ii.3-68.6.57.jpg" caption="Illustration of Casadetta del Genio" credit="" alt="" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}

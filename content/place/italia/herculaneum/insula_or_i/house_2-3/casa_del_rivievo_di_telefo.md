@@ -53,7 +53,7 @@ A. The excavation of this house in 1934-1936 revealed an unusual atrium arrangem
 {{< image file="h_orientalis_1_1-3-a.jpg" caption="Herculaneum - insula orientalis I. 1-3-a" credit="" alt="" >}}
 
 ## Images
-{{< image file="herc._i.2,3_42.17.64.jpg" caption="Herculaneum - insula orientalis I. 2.3-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+{{< image file="herc.i.2-3_42.17.64.jpg" caption="Herculaneum - insula orientalis I. 2.3-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}

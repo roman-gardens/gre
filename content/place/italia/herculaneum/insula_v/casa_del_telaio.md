@@ -48,17 +48,20 @@ Casa del Telaio
 There was a courtyard (a) in the center of this house which was apparently attached to a *textrina*. The courtyard was surrounded by a *portico* with seven supporting brick columns. These were connected by a low wall and a second wall on the inside was slightly lower and formed a gutter. A terra-cotta *puteal* was located by the entrance on the north over the cistern opening. Maiuri concluded there was enough soil present here to indicate this had been a garden.
 <!--## Maps-->
 
-## Plans
-{{< image file="H_3_3-17.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
+<!-- the following images are not in gre-images...insula_v -->
 
-{{< image file="H_3_1-2_18-19.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
+## Plans
+
+{{< image file="h_3_3-17.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
+
+{{< image file="h_3_1-2_18-19.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 
 ## Images
 
-{{< image file="Herc. III.19-18,1-2   17.2.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
+{{< image file="herc.iii.19-18.1-2-17.2.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
-{{< image file="Herc.III.19-18,1-2   17.3.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
+{{< image file="herc.iii.19-18.1-2-17.3.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}

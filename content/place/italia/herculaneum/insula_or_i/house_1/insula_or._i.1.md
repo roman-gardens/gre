@@ -51,7 +51,7 @@ B. The front of this house has an L-shaped terrace (b) which provided a passagew
 {{< image file="herculaneum_i.1_b_c.jpg" caption="Herculaneum - insula orientalis I. 1-3" credit="" alt="" >}}
 
 ## Images
-{{< image file="Herc. I.1   17.11.78.jpg" caption="Herculaneum - insula orientalis I. 1-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+{{< image file="herc.i.1_17.11.78.jpg" caption="Herculaneum - insula orientalis I. 1-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
 ## Places
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
