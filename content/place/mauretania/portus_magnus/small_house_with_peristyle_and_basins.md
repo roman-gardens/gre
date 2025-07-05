@@ -5,7 +5,7 @@ type: garden
 title: "Small House with peristyle and basins"
 latlon: [ 52.055419, -0.795092 ]
 author: Amina-Aïcha Malek
-editor: Brandon Wilson
+contributor: Brandon Wilson
 date: 2020-10-01
 modified: 2025-06-29
 draft: true

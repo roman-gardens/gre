@@ -5,7 +5,7 @@ type: garden
 title: "Tomb Garden of Ti. Claudios Lykos"
 latlon: [ 40.628342, 22.952885 ]
 author: John Bodel
-editor: Amartya Shri
+contributor: Amartya Shri
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

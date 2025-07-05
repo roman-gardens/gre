@@ -5,7 +5,7 @@ type: garden
 title: "Antinous' tomb (Fig. 1, n. 25)"
 latlon: [ 41.940874, 12.773730 ]
 author: Eugenia Salza Prina Ricotti
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

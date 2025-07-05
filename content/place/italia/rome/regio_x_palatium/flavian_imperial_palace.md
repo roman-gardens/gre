@@ -5,7 +5,7 @@ type: garden
 title: "Garden of the Flavian Imperial Palace"
 latlon: [ 41.889306, 12.487109 ]
 author: Jean-Paul Morel, Françoise Villedieu
-editor: Rhiannon Paré
+contributor: Rhiannon Paré
 date: 2021-04-17
 modified: 2025-06-29
 draft: false

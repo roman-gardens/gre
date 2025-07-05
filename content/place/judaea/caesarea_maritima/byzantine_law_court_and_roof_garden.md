@@ -5,7 +5,7 @@ type: garden
 title: "Caesarea Maritima Byzantine Law Court and Roof Garden"
 latlon: [ 32.501237, 34.89151 ]
 author: Joseph Patrich
-editor: Yaniv Korman
+contributor: Yaniv Korman
 date: 2021-05-03
 modified: 2025-06-29
 draft: false

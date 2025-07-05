@@ -5,7 +5,7 @@ type: garden
 title: "Garden in the Palace Summer part (Fig. 1, n. 14)"
 latlon: [ 41.941501, 12.776125 ]
 author: Eugenia Salza Prina Ricotti
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

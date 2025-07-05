@@ -5,7 +5,7 @@ type: garden
 title: "Porticus Liviae"
 latlon: [ 41.891775, 12.486137 ]
 author: Elizabeth Macaulay, Holly Spoth-Torres
-editor: Joshua Rosenheim, Rhiannon Paré
+contributor: Joshua Rosenheim, Rhiannon Paré
 date: 2021-04-17
 modified: 2025-06-29
 draft: false

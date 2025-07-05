@@ -5,7 +5,7 @@ type: garden
 title: "II.2.4 House of Messius Ampliatus"
 latlon: [ 40.7517, 14.4925 ]
 author: Wilhelmina Jashemski
-editor: Jessica Venner
+contributor: Jessica Venner
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

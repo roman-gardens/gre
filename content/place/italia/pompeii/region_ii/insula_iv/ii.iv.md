@@ -5,7 +5,7 @@ type: garden
 title: "II.4 Estate of Julia Felix; Praedia di Giulia Felice"
 latlon: [ 40.751957, 14.493271 ]
 author: Wilhelmina Jashemski
-editor: Jessica Venner
+contributor: Jessica Venner
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

@@ -5,7 +5,7 @@ type: garden
 title: "House of the Nymphs (Maison des Nymphes)"
 latlon: [ 36.440688, 10.719419 ]
 author: Amina-Aïcha Malek
-editor: Xue Xia
+contributor: Xue Xia
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

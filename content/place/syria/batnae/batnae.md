@@ -5,7 +5,7 @@ type: garden
 title: "Imperial Residence at Batnae"
 latlon: [ 36.976075, 38.424238 ]
 author: Catherine Kearns, Maureen Carroll
-editor: Jane Millar
+contributor: Jane Millar
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

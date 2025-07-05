@@ -5,7 +5,7 @@ type: garden
 title: "The area under the Temple of the Venus of Cnidus (Fig. 1, n. 12)"
 latlon: [ 41.944593, 12.774851 ]
 author: Eugenia Salza Prina Ricotti
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

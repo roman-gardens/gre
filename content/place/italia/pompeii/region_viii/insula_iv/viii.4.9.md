@@ -5,7 +5,7 @@ type: garden
 title: "VIII.4.9. House of T. Mescinius Gelo"
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 430
 date: 2021-04-21
 modified: 2025-06-29

@@ -5,7 +5,7 @@ type: garden
 title: "The garden in front of the Piazza d'Oro (Fig. 1, n. 19)"
 latlon: [ 41.941305, 12.778279 ]
 author: Eugenia Salza Prina Ricotti
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

@@ -5,7 +5,7 @@ type: garden
 title: "Rural Villa in Bancroft"
 latlon: [ 52.055419, -0.795092 ]
 author: Maureen Carroll
-editor: June Dorsch, Jane Millar
+contributor: June Dorsch, Jane Millar
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

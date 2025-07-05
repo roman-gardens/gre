@@ -5,7 +5,7 @@ type: garden
 title: "VIII.2.39. House of Emperor Joseph II"
 latlon: [ 40.74835, 14.48747 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 417
 date: 2021-04-21
 modified: 2025-06-29

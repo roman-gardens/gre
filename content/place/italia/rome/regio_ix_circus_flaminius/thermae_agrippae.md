@@ -5,7 +5,7 @@ type: garden
 title: "Thermae Agrippae"
 latlon: [ 41.896879, 12.476831 ]
 author: Elizabeth Macaulay, Beth Ryan
-editor: Joshua Rosenheim, Rhiannon Paré
+contributor: Joshua Rosenheim, Rhiannon Paré
 date: 2021-04-17
 modified: 2025-06-29
 draft: false

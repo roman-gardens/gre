@@ -5,7 +5,7 @@ type: garden
 title: "House of the Triumph of Neptune (Maison du Triomphe de Neptune)"
 latlon: [ 35.079643, 11.020606 ]
 author: Véronique Blanc-Bijon
-editor: Yuming Huang
+contributor: Yuming Huang
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

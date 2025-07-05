@@ -5,7 +5,7 @@ type: garden
 title: "The garden on the back"
 latlon: [ 41.625, 12.375 ]
 author: Salza Prina Ricotti
-editor: Yuyao Liu
+contributor: Yuyao Liu
 date: 2020-11-07
 modified: 2025-06-29
 draft: true

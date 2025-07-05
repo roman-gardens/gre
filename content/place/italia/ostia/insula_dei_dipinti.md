@@ -5,7 +5,7 @@ type: garden
 title: "Insula dei Dipinti"
 latlon: [ 41.75511864107492, 12.287953204806119 ]
 author: Janet DeLaine
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

@@ -5,7 +5,7 @@ type: garden
 title: "Rural Villa in Eccles"
 latlon: [ 51.318926, 0.479999 ]
 author: Maureen Carroll
-editor: June Dorsch
+contributor: June Dorsch
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

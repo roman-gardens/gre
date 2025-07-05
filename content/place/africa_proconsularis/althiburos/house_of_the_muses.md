@@ -5,7 +5,7 @@ type: garden
 title: "House of the Muses"
 latlon: [ 35.875199, 8.786351 ]
 author: Amina-Aïcha Malek
-editor: Yuming Huang
+contributor: Yuming Huang
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

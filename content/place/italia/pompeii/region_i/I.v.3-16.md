@@ -5,7 +5,7 @@ type: garden
 title: "I.5.3/16"
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
-editor: Jessica Venner
+contributor: Jessica Venner
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

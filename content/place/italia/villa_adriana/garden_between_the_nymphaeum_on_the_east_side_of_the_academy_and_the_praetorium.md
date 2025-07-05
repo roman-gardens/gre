@@ -5,7 +5,7 @@ type: garden
 title: "Garden between the nymphaeum on the E side of the Academy and the Praetorium (Fig. 1, n. 24)"
 latlon: [ 41.940614, 12.777282 ]
 author: Eugenia Salza Prina Ricotti
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

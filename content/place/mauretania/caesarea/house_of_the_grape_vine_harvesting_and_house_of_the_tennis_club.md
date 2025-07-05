@@ -5,7 +5,7 @@ type: garden
 title: "House of the Grape Vine Harvesting and House of the Tennis Club (Maison des Vendanges et Maison du Tennis Club)"
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
-editor: Brandon Wilson
+contributor: Brandon Wilson
 date: 2020-11-16
 modified: 2025-06-29
 draft: true

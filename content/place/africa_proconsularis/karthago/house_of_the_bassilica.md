@@ -5,7 +5,7 @@ type: garden
 title: "House of the Bassilica (Maison de la Bassilica)"
 latlon: [ 36.858123, 10.331001 ]
 author: Amina-Aïcha Malek
-editor: Xue Xia
+contributor: Xue Xia
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

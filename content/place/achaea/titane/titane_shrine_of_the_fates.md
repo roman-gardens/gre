@@ -5,7 +5,7 @@ type: garden
 title: "Shrine of the Fates"
 latlon: [ 37.919512, 22.623851 ]
 author: Maureen Carroll
-editor: Jane Millar, Amartya Shri
+contributor: Jane Millar, Amartya Shri
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

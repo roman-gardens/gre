@@ -5,7 +5,7 @@ type: garden
 title: "Neronian Palace"
 latlon: [ 41.900013, 12.461381 ]
 author: Maria Anntonietta Tomei
-editor: Rhiannon Paré
+contributor: Rhiannon Paré
 date: 2021-05-03
 modified: 2025-06-29
 draft: false

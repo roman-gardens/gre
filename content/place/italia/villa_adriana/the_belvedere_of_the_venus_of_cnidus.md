@@ -5,7 +5,7 @@ type: garden
 title: "The Belvedere of the Venus of Cnidus (Fig. 1, n. 11)"
 latlon: [ 41.944649, 12.774798 ]
 author: Eugenia Salza Prina Ricotti
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

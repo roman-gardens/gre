@@ -5,7 +5,7 @@ type: garden
 title: "House of Bacchus, building south of the Great Baths (Maison de Bacchus, édifice au sud des Grands Thermes)"
 latlon: [ 36.317690, 5.736683 ]
 author: Michèle Blanchard-Lemée
-editor: Brandon Wilson
+contributor: Brandon Wilson
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

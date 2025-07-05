@@ -5,7 +5,7 @@ type: garden
 title: "Caupona with Small Bath"
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 151
 date: 2021-04-21
 modified: 2025-06-29

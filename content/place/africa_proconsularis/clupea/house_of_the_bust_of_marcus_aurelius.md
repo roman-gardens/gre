@@ -5,7 +5,7 @@ type: garden
 title: "House of the Bust of Marcus Aurelius"
 latlon: [ 36.838512, 11.115794 ]
 author: Amina-Aïcha Malek, Véronique Blanc-Bijon, Wilhelmina Jashemski
-editor: Yuming Huang
+contributor: Yuming Huang
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

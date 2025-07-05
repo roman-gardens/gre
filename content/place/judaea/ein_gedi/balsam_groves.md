@@ -5,7 +5,7 @@ type: garden
 title: "Ein Gedi Balsam Groves"
 latlon: [ 31.468449, 35.388383 ]
 author: Kathryn Gleason
-editor: Yaniv Korman
+contributor: Yaniv Korman
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

@@ -5,7 +5,7 @@ type: garden
 title: "Herodium Herod's Tomb Garden"
 latlon: [ 31.665784, 35.241750 ]
 author: Ehud Netzer
-editor: Yaniv Korman
+contributor: Yaniv Korman
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

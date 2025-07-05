@@ -5,7 +5,7 @@ type: garden
 title: "Guest House 1"
 latlon: [ 37.637590, 21.628024 ]
 author: Maureen Carroll
-editor: Jane Millar, Amartya Shri
+contributor: Jane Millar, Amartya Shri
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

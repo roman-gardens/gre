@@ -5,7 +5,7 @@ type: garden
 title: "Petra Garden and Pool Complex"
 latlon: [ 30.328615, 35.443000 ]
 author: Leigh-Ann Bedal
-editor: Jane Millar, Leigh-Ann Bedal
+contributor: Jane Millar, Leigh-Ann Bedal
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

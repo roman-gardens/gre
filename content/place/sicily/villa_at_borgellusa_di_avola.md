@@ -5,7 +5,7 @@ type: garden
 title: "Villa at Borgellusa di Avola"
 latlon: [ 37.069402, 15.276704 ]
 author: Roger Wilson
-editor: Chen Chen
+contributor: Chen Chen
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

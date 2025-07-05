@@ -5,7 +5,7 @@ type: garden
 title: "Villa des Tuillières"
 latlon: [ 47.319533, 4.796299 ]
 author: Maureen Carroll
-editor: Yvette Pollack
+contributor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

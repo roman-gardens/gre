@@ -5,7 +5,7 @@ type: garden
 title: "House of Grotto of Catullus"
 latlon: [ 45.501241, 10.606902 ]
 author: Elisabetta Roffia
-editor: Zhenrui Mei
+contributor: Zhenrui Mei
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

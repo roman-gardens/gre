@@ -5,7 +5,7 @@ type: garden
 title: "Garden beneath the House of the Fishes (Domus dei Pesci)"
 latlon: [ 41.75282967075262, 12.28930212931829 ]
 author: Stella Falzone
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

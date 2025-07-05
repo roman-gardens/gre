@@ -5,7 +5,7 @@ type: garden
 title: "Cemetery Garden of Metrodorus"
 latlon: [ 43.539561, 16.483426 ]
 author: John Bodel
-editor: Christian Casey
+contributor: Christian Casey
 date: 2020-07-15
 modified: 2025-06-29
 draft: true

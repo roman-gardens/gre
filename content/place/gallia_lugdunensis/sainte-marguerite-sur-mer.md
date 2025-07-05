@@ -5,7 +5,7 @@ type: garden
 title: "Roman Villa"
 latlon: [ 49.024342, 1.151012 ]
 author: Maureen Carroll
-editor: Yvette Pollack
+contributor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

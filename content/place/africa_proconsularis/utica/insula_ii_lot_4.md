@@ -5,7 +5,7 @@ type: garden
 title: "Insula II, lot 4"
 latlon: [ 37.055611, 10.061305 ]
 author: Wilhelmina Jashemski
-editor: Jinyi Yang
+contributor: Jinyi Yang
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

@@ -5,7 +5,7 @@ type: garden
 title: "Garden on a terrace (Fig. 1, n. 15)"
 latlon: [ 41.942634, 12.771788 ]
 author: Eugenia Salza Prina Ricotti
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

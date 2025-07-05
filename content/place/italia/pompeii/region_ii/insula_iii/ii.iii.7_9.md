@@ -5,7 +5,7 @@ type: garden
 title: "II.3.7/9"
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
-editor: Jessica Venner
+contributor: Jessica Venner
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

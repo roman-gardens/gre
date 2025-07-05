@@ -5,7 +5,7 @@ type: garden
 title: "Rural Villa in Oberentfelden"
 latlon: [ 47.356477, 8.046769 ]
 author: Maureen Carroll
-editor: June Dorsch
+contributor: June Dorsch
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

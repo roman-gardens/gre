@@ -5,7 +5,7 @@ type: garden
 title: "Park Area Adjacent to the Great Palaestra and the Amphitheater"
 latlon: [ 40.75089, 14.49466 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 147
 date: 2021-04-21
 modified: 2025-06-29

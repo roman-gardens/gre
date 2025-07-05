@@ -5,7 +5,7 @@ type: garden
 title: "Palace of Hyrcanus the Tobiad"
 latlon: [ 31.912796, 35.751922 ]
 author: Kathryn Gleason, Leigh-Ann Bedal
-editor: Jane Millar
+contributor: Jane Millar
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

@@ -5,7 +5,7 @@ type: garden
 title: "House of Asinus Nica, Central District (Maison de l'Ane, quartier central)"
 latlon: [ 36.317690, 5.736683 ]
 author: Michèle Blanchard-Lemée
-editor: Brandon Wilson
+contributor: Brandon Wilson
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

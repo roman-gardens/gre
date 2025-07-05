@@ -5,7 +5,7 @@ type: garden
 title: "Large Building North of Forum in Arae Flaviae"
 latlon: [ 48.166687, 8.627925 ]
 author: Maureen Carroll
-editor: June Dorsch
+contributor: June Dorsch
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

@@ -5,7 +5,7 @@ type: garden
 title: "Villa Sao Cucufate"
 latlon: [ 38.223820, -7.845952 ]
 author:
-editor: Xingjian Wang
+contributor: Xingjian Wang
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

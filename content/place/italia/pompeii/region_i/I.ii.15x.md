@@ -5,7 +5,7 @@ type: garden
 title: "I.ii.15"
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
-editor: June Dorsch
+contributor: June Dorsch
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

@@ -5,7 +5,7 @@ type: garden
 title: "Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion in Romula"
 latlon: [ 47.5, 22.5 ]
 author: John Bodel
-editor: June Dorsch
+contributor: June Dorsch
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

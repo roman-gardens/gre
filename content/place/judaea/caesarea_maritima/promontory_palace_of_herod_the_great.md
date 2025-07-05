@@ -5,7 +5,7 @@ type: garden
 title: "Caesarea Maritima Promontory Palace of Herod the Great"
 latlon: [ 32.49715, 34.8891]
 author: Kathryn Gleason
-editor: Yaniv Korman
+contributor: Yaniv Korman
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

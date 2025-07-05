@@ -5,7 +5,7 @@ type: garden
 title: "Building of the Three Basins (Edifice des trois bassins)"
 latlon: [ 36.40112, 9.904448 ]
 author: Wilhelmina Jashemski
-editor: Nicholas Gill
+contributor: Nicholas Gill
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

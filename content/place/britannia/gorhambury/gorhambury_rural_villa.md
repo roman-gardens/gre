@@ -5,7 +5,7 @@ type: garden
 title: "Rural Villa in Gorhambury"
 latlon: [ 51.753814, -0.382679 ]
 author: Maureen Carroll
-editor: June Dorsch
+contributor: June Dorsch
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

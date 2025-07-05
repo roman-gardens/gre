@@ -5,7 +5,7 @@ type: garden
 title: "Grove at the shrine of Aiakos"
 latlon: [ 37.739227, 23.518981 ]
 author: Maureen Carroll
-editor: Jane Millar, Amartya Shri, Keith Jenkins
+contributor: Jane Millar, Amartya Shri
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

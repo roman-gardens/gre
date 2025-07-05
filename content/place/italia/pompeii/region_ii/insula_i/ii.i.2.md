@@ -5,7 +5,7 @@ type: garden
 title: "II.i.2 (House of Aemilius Primio and Aemiluis Saturninus)"
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
-editor: Jessica Venner
+contributor: Jessica Venner
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

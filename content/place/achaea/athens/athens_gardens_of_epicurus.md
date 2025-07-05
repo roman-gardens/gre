@@ -5,7 +5,7 @@ type: garden
 title: "Garden of Epicurus"
 latlon: [ 37.972633, 23.722746 ]
 author: Maureen Carroll
-editor: Jane Millar
+contributor: Jane Millar
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

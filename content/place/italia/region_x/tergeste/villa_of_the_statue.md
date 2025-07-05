@@ -5,7 +5,7 @@ type: garden
 title: "Villa of the Statue (I.iii.23)"
 latlon: [ 45.7015, 13.725 ]
 author: Annalisa Marzano
-editor: Zhenrui Mei
+contributor: Zhenrui Mei
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

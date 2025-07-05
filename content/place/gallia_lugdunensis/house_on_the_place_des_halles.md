@@ -5,7 +5,7 @@ type: garden
 title: "House on the Place des Halles (La maison des Halles)"
 latlon: [ 48.007160, 0.198493 ]
 author: Maureen Carroll
-editor: Yvette Pollack
+contributor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

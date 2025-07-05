@@ -5,7 +5,7 @@ type: garden
 title: "Urban Houses in Carnuntum"
 latlon: [ 48.113346, 16.867891 ]
 author: Maureen Carroll
-editor: June Dorsch
+contributor: June Dorsch
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

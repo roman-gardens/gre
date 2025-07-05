@@ -5,7 +5,7 @@ type: garden
 title: "Sanctuary of Artemis"
 latlon: [ 38.430259, 23.593654 ]
 author: Maureen Carroll
-editor: Jane Millar, Amartya Shri
+contributor: Jane Millar, Amartya Shri
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

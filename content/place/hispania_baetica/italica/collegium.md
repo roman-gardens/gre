@@ -5,7 +5,7 @@ type: garden
 title: "Collegium"
 latlon: [ 0, 0 ]
 author:
-editor: Lai Ching Tsui
+contributor: Lai Ching Tsui
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

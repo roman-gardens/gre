@@ -5,7 +5,7 @@ type: garden
 title: "Schola of the Collegium Fabrum"
 latlon: [ 41.116892, 1.258337 ]
 author:
-editor: Yiyun Liu
+contributor: Yiyun Liu
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

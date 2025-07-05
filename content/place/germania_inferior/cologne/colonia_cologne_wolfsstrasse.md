@@ -5,7 +5,7 @@ type: garden
 title: "Urban House on Wolfsstrasse"
 latlon: [ 50.940671, 6.959908 ]
 author: Maureen Carroll
-editor: David Ratzan
+contributor: David Ratzan
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

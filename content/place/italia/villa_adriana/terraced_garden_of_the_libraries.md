@@ -5,7 +5,7 @@ type: garden
 title: "Terraced garden of the Libraries (Fig. 1, n. 8)"
 latlon: [ 41.942614, 12.776359 ]
 author: Eugenia Salza Prina Ricotti
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

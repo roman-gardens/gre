@@ -5,7 +5,7 @@ type: place
 title: "Dacia Traiana"
 latlon: [ 47.5, 22.5 ]
 author: John Bodel
-editor: June Dorsch
+contributor: June Dorsch
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

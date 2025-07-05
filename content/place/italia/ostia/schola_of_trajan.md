@@ -5,7 +5,7 @@ type: garden
 title: "Schola of Trajan"
 latlon: [ 41.752743867143124, 12.286672797879733 ]
 author: Thomas Morard
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

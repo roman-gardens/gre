@@ -5,7 +5,7 @@ type: garden
 title: "House of Venus (Maison du cortège de Vénus)"
 latlon: [ 52.055419, -0.795092 ]
 author: Amina-Aïcha Malek
-editor: Brandon Wilson
+contributor: Brandon Wilson
 date: 2020-11-16
 modified: 2025-06-29
 draft: true

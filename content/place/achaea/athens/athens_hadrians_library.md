@@ -5,7 +5,7 @@ type: garden
 title: "Library of Hadrian"
 latlon: [ 37.975531, 23.725995 ]
 author: Maureen Carroll
-editor: Jane Millar, Amartya Shri
+contributor: Jane Millar, Amartya Shri
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

@@ -5,7 +5,7 @@ type: garden
 title: "Temple Grove of Nikephorion"
 latlon: [ 0, 0 ]
 author: Maureen Carroll, Kathryn Gleason
-editor: Annette Guan
+contributor: Annette Guan
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

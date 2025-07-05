@@ -5,7 +5,7 @@ type: garden
 title: "Villa de Muscapeu"
 latlon: [ 43.407853, 5.923999 ]
 author: Eric Morvillez, Emilie Chassillan
-editor: Yichen Liu
+contributor: Yichen Liu
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

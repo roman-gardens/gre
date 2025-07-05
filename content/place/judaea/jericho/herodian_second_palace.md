@@ -5,7 +5,7 @@ type: garden
 title: "Jericho Herodian Second Palace"
 latlon: [ 31.853703, 35.434669 ]
 author: Kathryn Gleason
-editor: Yaniv Korman
+contributor: Yaniv Korman
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

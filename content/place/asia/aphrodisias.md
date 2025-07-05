@@ -5,7 +5,7 @@ type: garden
 title: "Aphrodisias (Lelégōn Pólis,Megálē Pólis, Ninóē, Stauroúpolis)"
 latlon: [ 0, 0 ]
 author: Kathryn Gleason
-editor: Shamika Ghate
+contributor: Shamika Ghate
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

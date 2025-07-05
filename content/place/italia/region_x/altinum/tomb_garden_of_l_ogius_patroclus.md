@@ -5,7 +5,7 @@ type: garden
 title: "Tomb Garden of L. Ogius Patroclus"
 latlon: [ 45.956108, 18.683919 ]
 author: John Bodel
-editor: Zhenrui Mei
+contributor: Zhenrui Mei
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

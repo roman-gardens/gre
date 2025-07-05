@@ -5,7 +5,7 @@ type: garden
 title: "Tomb garden at Tyre"
 latlon: [ 33.269847, 35.203843 ]
 author: Kathryn Gleason, Amina-Aïcha Malek
-editor: Jane Millar
+contributor: Jane Millar
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

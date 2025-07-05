@@ -5,7 +5,7 @@ type: garden
 title: "VIII.2.3. House of Championnet II"
 latlon: [ 40.74842, 14.48479 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 408
 date: 2021-04-21
 modified: 2025-06-29

@@ -5,7 +5,7 @@ type: garden
 title: "VIII.2.34."
 latlon: [ 40.74829, 14.48703 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 415
 date: 2021-04-21
 modified: 2025-06-29

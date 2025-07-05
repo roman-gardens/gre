@@ -5,7 +5,7 @@ type: garden
 title: "Temple of Hephaistos"
 latlon: [ 37.975646, 23.721409 ]
 author: Maureen Carroll
-editor: Jane Millar, Amartya Shri
+contributor: Jane Millar, Amartya Shri
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

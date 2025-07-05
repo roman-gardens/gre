@@ -5,7 +5,7 @@ type: garden
 title: "Casa D'Argo"
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-editor: Tiffany Y. Fong
+contributor: Tiffany Y. Fong
 Jashemski-catalogue: 533-534
 date: 2020-09-29
 modified: 2025-06-29

@@ -5,7 +5,7 @@ type: place
 title: "Dalmatia"
 latlon: [ 50.940671, 6.959908 ]
 author: None
-editor: Christian Casey
+contributor: Christian Casey
 date: 2020-07-14
 modified: 2025-06-29
 draft: true

@@ -5,7 +5,7 @@ type: garden
 title: "Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)"
 latlon: [ 49.214670, 8.015747 ]
 author: Michel Fuchs, Jacques Monnier
-editor: June Dorsch
+contributor: June Dorsch
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

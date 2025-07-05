@@ -5,7 +5,7 @@ type: garden
 title: "House of Venus (Maison de Venus)"
 latlon: [ 36.422473, 9.218866 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
-editor: Nicholas Gill
+contributor: Nicholas Gill
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

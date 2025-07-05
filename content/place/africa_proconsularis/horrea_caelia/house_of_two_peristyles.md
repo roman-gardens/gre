@@ -5,7 +5,7 @@ type: garden
 title: "House of two peristyles (Maison aux deux péristyles)"
 latlon: [ 36.023752, 10.517062 ]
 author: Amina-Aïcha Malek
-editor: Xue Xia
+contributor: Xue Xia
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

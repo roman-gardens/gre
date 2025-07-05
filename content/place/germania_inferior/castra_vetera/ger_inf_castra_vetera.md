@@ -5,7 +5,7 @@ type: garden
 title: "Legionary Houses at Castra Vetera (Germania Inferior)"
 latlon: [ 51.646389, 6.469989 ]
 author: Maureen Carroll
-editor: David Ratzan
+contributor: David Ratzan
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

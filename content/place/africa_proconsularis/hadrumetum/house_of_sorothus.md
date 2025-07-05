@@ -5,7 +5,7 @@ type: garden
 title: "House of  Sorothus (Maison de Sorothus)"
 latlon: [ 35.825866, 10.63878 ]
 author: Maureen Carroll, Amina-Aïcha Malek
-editor: Yuming Huang
+contributor: Yuming Huang
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

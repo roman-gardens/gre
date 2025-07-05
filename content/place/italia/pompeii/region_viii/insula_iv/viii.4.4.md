@@ -5,7 +5,7 @@ type: garden
 title: "VIII.4.4. House of M. Holconius Rufus; House of Q. Postumius Modestus and Q. Postumius Proculus"
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 429
 date: 2021-04-21
 modified: 2025-06-29

@@ -5,7 +5,7 @@ type: garden
 title: "Insula or. I.2-3(B)"
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 562
 date: 2021-04-21
 modified: 2025-06-29

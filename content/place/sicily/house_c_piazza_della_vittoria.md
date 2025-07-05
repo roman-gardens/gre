@@ -5,7 +5,7 @@ type: garden
 title: "House C, Piazza della Vittoria"
 latlon: [ 38.11127, 13.353442 ]
 author: Roger Wilson
-editor: Chen Chen
+contributor: Chen Chen
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

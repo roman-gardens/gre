@@ -5,7 +5,7 @@ type: garden
 title: "Jericho Herodian Third Palace Corinthian Peristyle"
 latlon: [ 31.853621, 35.434882 ]
 author: Kathryn Gleason
-editor: Yaniv Korman
+contributor: Yaniv Korman
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

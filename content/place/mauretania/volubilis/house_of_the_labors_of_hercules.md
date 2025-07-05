@@ -5,7 +5,7 @@ type: garden
 title: "House of the Labors of Hercules (La maison des travaux d'Hercules)"
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
-editor: Brandon Wilson
+contributor: Brandon Wilson
 date: 2020-10-01
 modified: 2025-06-29
 draft: true

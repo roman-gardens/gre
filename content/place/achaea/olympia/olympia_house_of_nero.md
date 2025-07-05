@@ -5,7 +5,7 @@ type: garden
 title: "House of Nero"
 latlon: [ 37.637820, 21.631715 ]
 author: Maureen Carroll
-editor: Jane Millar, Amartya Shri
+contributor: Jane Millar, Amartya Shri
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

@@ -5,7 +5,7 @@ type: garden
 title: "Casa Delle Origini di Roma; House of M. Fabius Secundus (V.iv.13.)"
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
-editor: Jianing Zhou
+contributor: Jianing Zhou
 date: 2020-09-29
 modified: 2025-06-29
 draft: true

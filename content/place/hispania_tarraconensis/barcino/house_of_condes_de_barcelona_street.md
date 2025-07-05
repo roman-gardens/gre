@@ -5,7 +5,7 @@ type: garden
 title: "House of Condes de Barcelona Street"
 latlon: [ 41.385, 2.173611 ]
 author: Clopper Almon
-editor: Qianli Jiang
+contributor: Qianli Jiang
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

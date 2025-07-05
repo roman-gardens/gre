@@ -5,7 +5,7 @@ type: garden
 title: "The Canopus gardens (Fig. 1, n. 2)"
 latlon: [ 41.938472, 12.775940 ]
 author: Eugenia Salza Prina Ricotti
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

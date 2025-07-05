@@ -5,7 +5,7 @@ type: garden
 title: "VIII.5.28. Casa della Calce; Casa dell'Imperatore Francesco II"
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 443
 date: 2021-04-21
 modified: 2025-06-29

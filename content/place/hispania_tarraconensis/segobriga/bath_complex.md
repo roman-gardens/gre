@@ -5,7 +5,7 @@ type: garden
 title: "Bath Complex"
 latlon: [ 39.885321, -2.81302 ]
 author:
-editor: Yiyun Liu
+contributor: Yiyun Liu
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

@@ -5,7 +5,7 @@ type: garden
 title: "Acropolis Palace at Jebel Khalid"
 latlon: [ 36.354311, 38.174169 ]
 author: Graeme Clark
-editor: Jane Millar
+contributor: Jane Millar
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

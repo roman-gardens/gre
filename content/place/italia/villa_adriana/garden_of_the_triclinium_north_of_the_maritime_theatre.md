@@ -5,7 +5,7 @@ type: garden
 title: "Garden of the triclinium North of the Maritime Theatre (Fig. 1, n. 7)"
 latlon: [ 41.942598, 12.775672 ]
 author: Eugenia Salza Prina Ricotti
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

@@ -5,7 +5,7 @@ type: garden
 title: "House in Insula 16 in Aventicum"
 latlon: [ 46.88008, 7.040710 ]
 author: Maureen Carroll
-editor: June Dorsch
+contributor: June Dorsch
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

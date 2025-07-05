@@ -5,7 +5,7 @@ type: garden
 title: "House on rue de la Fraternité"
 latlon: [ 50.292741, 2.778580 ]
 author: Maureen Carroll
-editor: Yvette Pollack
+contributor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

@@ -5,7 +5,7 @@ type: garden
 title: "House of the Arsenal (Maison de l'Arsenal)"
 latlon: [ 49.118135, 6.174155 ]
 author: Maureen Carroll
-editor: Yvette Pollack
+contributor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

@@ -5,7 +5,7 @@ type: garden
 title: "House of the Silver Bust, La Vilasse Quarter"
 latlon: [ 42.439512, 3.176623 ]
 author: Eric Morvillez, Emilie Chassillan
-editor: Yichen Liu
+contributor: Yichen Liu
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

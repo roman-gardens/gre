@@ -5,7 +5,7 @@ type: garden
 title: "Tomb garden of A. Coelius C. f."
 latlon: [ 45.4071, 11.8698 ]
 author: John Bodel
-editor: Zhenrui Mei
+contributor: Zhenrui Mei
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

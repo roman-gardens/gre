@@ -5,7 +5,7 @@ type: garden
 title: "Porticus of Pompey"
 latlon: [ 41.894007, 12.479061 ]
 author: Elizabeth Macaulay, Kathryn Gleason
-editor: Joshua Rosenheim, Rhiannon Paré
+contributor: Joshua Rosenheim, Rhiannon Paré
 date: 2021-04-17
 modified: 2025-06-29
 draft: false

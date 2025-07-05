@@ -5,7 +5,7 @@ type: garden
 title: "VIII.7.16. Gladiatorial Barracks; Ludus Gladiatorius; Schola Gladiatoria"
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 456
 date: 2021-04-21
 modified: 2025-06-29

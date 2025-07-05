@@ -5,7 +5,7 @@ type: garden
 title: "Peristyle garden in house of Messius Ampliatus (II.ii.4) "
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
-editor: Yuyao Liu
+contributor: Yuyao Liu
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

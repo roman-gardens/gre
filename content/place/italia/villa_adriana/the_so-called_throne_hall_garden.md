@@ -5,7 +5,7 @@ type: garden
 title: "The so-called Throne Hall garden (Fig. 1, n. 17)"
 latlon: [ 41.942231, 12.777560 ]
 author: Eugenia Salza Prina Ricotti
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

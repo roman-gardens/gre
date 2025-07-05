@@ -5,7 +5,7 @@ type: garden
 title: "Perfumery (Quarter of the Stadium, Insula I, Building B)"
 latlon: [ 37.392022, 25.270238 ]
 author: Monika Trümper
-editor: Jane Millar
+contributor: Jane Millar
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

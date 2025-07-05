@@ -5,7 +5,7 @@ type: garden
 title: "Tomb garden of Publicius Calistus"
 latlon: [ 42.439512, 3.176623 ]
 author: Eric Morvillez
-editor: Yvette Pollack
+contributor: Yvette Pollack
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

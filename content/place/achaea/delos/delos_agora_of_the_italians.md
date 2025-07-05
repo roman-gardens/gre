@@ -5,7 +5,7 @@ type: garden
 title: "Agora of the Italians"
 latlon: [ 37.401783, 25.267610 ]
 author: Monika Trümper
-editor: Jane Millar
+contributor: Jane Millar
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

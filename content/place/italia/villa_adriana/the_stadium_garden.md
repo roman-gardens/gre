@@ -5,7 +5,7 @@ type: garden
 title: "The Stadium-garden (Fig. 1, n. 4)"
 latlon: [ 41.941169, 12.775543 ]
 author: Eugenia Salza Prina Ricotti
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

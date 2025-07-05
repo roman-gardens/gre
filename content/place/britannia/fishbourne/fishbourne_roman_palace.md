@@ -5,7 +5,7 @@ type: garden
 title: "Roman Palace in Fishbourne"
 latlon: [ 50.836765, -0.809853 ]
 author: Kathryn Gleason
-editor: June Dorsch
+contributor: June Dorsch
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

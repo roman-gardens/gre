@@ -5,7 +5,7 @@ type: garden
 title: "Small Baths (Garden of the Small Baths to the south of the Great Baths; rear garden to the west of the House of Bacchus)"
 latlon: [ 36.317690, 5.736683 ]
 author: Michèle Blanchard-Lemée
-editor: Brandon Wilson
+contributor: Brandon Wilson
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

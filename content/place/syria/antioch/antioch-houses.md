@@ -5,7 +5,7 @@ type: garden
 title: "Private Houses at Antioch"
 latlon: [ 36.222551, 36.183214 ]
 author: Christine Kondoleon, Elizabeth Macaulay
-editor: Jane Millar
+contributor: Jane Millar
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

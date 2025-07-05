@@ -5,7 +5,7 @@ type: garden
 title: "The Severan Complex"
 latlon: [ 41.889306, 12.487109 ]
 author: Maria Anntonietta Tomei
-editor: Rhiannon Paré
+contributor: Rhiannon Paré
 date: 2021-06-29
 modified: 2025-06-29
 draft: false

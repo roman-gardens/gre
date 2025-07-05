@@ -5,7 +5,7 @@ type: garden
 title: "II.9.6-7 House of Summer Triclinium"
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
-editor: Jessica Venner
+contributor: Jessica Venner
 jashemski-catalogue: 154
 date: 2021-04-21
 modified: 2025-06-29

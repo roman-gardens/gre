@@ -5,7 +5,7 @@ type: garden
 title: "Domus Tiberiana"
 latlon: [ 41.889306, 12.487109 ]
 author: Maria Anntonietta Tomei, Elizabeth Macaulay
-editor: Rhiannon Paré
+contributor: Rhiannon Paré
 date: 2021-05-03
 modified: 2025-06-29
 draft: false

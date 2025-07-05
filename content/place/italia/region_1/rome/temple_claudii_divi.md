@@ -5,7 +5,7 @@ type: garden
 title: "Gardens of the Temple of Claudii Divi, Rome"
 latlon: [ 41.886952, 12.495084 ]
 author: Valerie Aymer
-editor: Rhiannon Paré
+contributor: Rhiannon Paré
 date: 2021-04-15
 modified: 2025-06-29
 draft: true

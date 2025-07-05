@@ -5,7 +5,7 @@ type: garden
 title: "The Garden of the Julio-Claudian Domus"
 latlon: [ 41.889306, 12.487109 ]
 author: Jean-Paul Morel, Françoise Villedieu
-editor: Rhiannon Paré
+contributor: Rhiannon Paré
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

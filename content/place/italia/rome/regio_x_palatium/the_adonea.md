@@ -5,7 +5,7 @@ type: garden
 title: "The Adonea of the Flavian Palace, Palatine"
 latlon: [ 41.889306, 12.487109 ]
 author: Françoise Villedieu
-editor: Rhiannon Paré
+contributor: Rhiannon Paré
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

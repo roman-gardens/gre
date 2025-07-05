@@ -5,7 +5,7 @@ type: garden
 title: "House of Asinius Rufinus (Maison d'Asinius Rufinus)"
 latlon: [ 35.079643, 11.020606 ]
 author: Amina-Aïcha Malek, Véronique Blanc-Bijon
-editor: Yuming Huang
+contributor: Yuming Huang
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

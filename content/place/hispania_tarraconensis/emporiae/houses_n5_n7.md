@@ -5,7 +5,7 @@ type: garden
 title: "Houses N5 and N7"
 latlon: [ 47.260687, 9.617966 ]
 author:
-editor: Qianli Jiang
+contributor: Qianli Jiang
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

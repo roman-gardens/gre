@@ -5,7 +5,7 @@ type: garden
 title: "House of the Dolphins (Maison des dauphins)"
 latlon: [ 35.290739, 10.704487 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
-editor: Jinyi Yang
+contributor: Jinyi Yang
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

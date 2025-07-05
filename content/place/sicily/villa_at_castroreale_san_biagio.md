@@ -5,7 +5,7 @@ type: garden
 title: "Villa at Castroreale San Biagio"
 latlon: [ 38.192251, 15.556634 ]
 author: Roger Wilson
-editor: Chen Chen
+contributor: Chen Chen
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

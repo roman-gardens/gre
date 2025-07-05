@@ -5,7 +5,7 @@ type: garden
 title: "Tomb Garden of Flavius M. f. Quadratus"
 latlon: [ 38.707166, -9.135507 ]
 author: John Bodel
-editor: Xingjian Wang
+contributor: Xingjian Wang
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

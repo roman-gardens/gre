@@ -5,7 +5,7 @@ type: garden
 title: "The Libraries' Courtyard (Fig. 1, n. 13)"
 latlon: [ 41.943021, 12.776021 ]
 author: Eugenia Salza Prina Ricotti
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

@@ -5,7 +5,7 @@ type: garden
 title: "Machaerus Southern Courtyard"
 latlon: [ 31.870046, 35.443876 ]
 author: Győző Vörös
-editor: Yaniv Korman
+contributor: Yaniv Korman
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

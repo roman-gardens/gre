@@ -5,7 +5,7 @@ type: garden
 title: "Shrine Complex in Insula E125"
 latlon: [ 29.956958, 35.328326 ]
 author: M. Barbara Reeves
-editor: Jane Millar, Leigh-Ann Bedal
+contributor: Jane Millar, Leigh-Ann Bedal
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

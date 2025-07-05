@@ -5,7 +5,7 @@ type: garden
 title: "Sanctuary of Hyernetho"
 latlon: [ 37.633775, 23.159638 ]
 author: Maureen Carroll
-editor: Jane Millar, Amartya Shri
+contributor: Jane Millar, Amartya Shri
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

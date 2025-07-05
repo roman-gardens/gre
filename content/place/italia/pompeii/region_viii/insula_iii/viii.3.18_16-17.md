@@ -5,7 +5,7 @@ type: garden
 title: "VIII.3.18/16-17. House of Diana"
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 423
 date: 2021-04-21
 modified: 2025-06-29

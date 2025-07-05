@@ -5,7 +5,7 @@ type: garden
 title: "Jericho Palace of John Hyrcanus I"
 latlon: [ 31.853511, 35.433756 ]
 author: Kathryn Gleason, Ehud Netzer
-editor: Yaniv Korman
+contributor: Yaniv Korman
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

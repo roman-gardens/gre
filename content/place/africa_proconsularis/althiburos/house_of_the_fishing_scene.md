@@ -5,7 +5,7 @@ type: garden
 title: "House of the Fishing Scene"
 latlon: [ 35.874279, 8.785248 ]
 author: Amina-Aïcha Malek
-editor: Yuming Huang
+contributor: Yuming Huang
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

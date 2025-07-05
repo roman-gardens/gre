@@ -5,7 +5,7 @@ type: garden
 title: "House of Dionysos"
 latlon: [ 36.858276, 10.331915 ]
 author: Amina-Aïcha Malek
-editor: Xue Xia
+contributor: Xue Xia
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

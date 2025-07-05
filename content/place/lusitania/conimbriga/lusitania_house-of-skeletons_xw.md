@@ -5,7 +5,7 @@ type: garden
 title: "House of the Skeletons"
 latlon: [ 40.099, -8.4933 ]
 author: Jorge de Alarcão
-editor: Xingjian Wang
+contributor: Xingjian Wang
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

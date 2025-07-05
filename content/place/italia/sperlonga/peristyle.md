@@ -5,7 +5,7 @@ type: garden
 title: "The Gardens of Sperlonga. The peristyle garden "
 latlon: [ 41.251480, 13.449332 ]
 author: Eugenia Salza Prina Ricotti
-editor: Yuyao Liu
+contributor: Yuyao Liu
 date: 2020-11-29
 modified: 2025-06-29
 draft: true

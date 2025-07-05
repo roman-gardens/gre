@@ -5,7 +5,7 @@ type: garden
 title: "Villa Bruñel"
 latlon: [ 37.885309, -3.079082 ]
 author:
-editor: Lai Ching Tsui
+contributor: Lai Ching Tsui
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

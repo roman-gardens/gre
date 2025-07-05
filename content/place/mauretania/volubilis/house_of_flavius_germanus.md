@@ -5,7 +5,7 @@ type: garden
 title: "House of Flavius Germanus (La maison de Flavius Germanicus)"
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
-editor: Brandon Wilson
+contributor: Brandon Wilson
 date: 2020-11-16
 modified: 2025-06-29
 draft: true

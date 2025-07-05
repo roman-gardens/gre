@@ -5,7 +5,7 @@ type: garden
 title: "House of the Seasons (La maison des Saisons)"
 latlon: [ 35.240165, 9.119793 ]
 author: Amina-Aïcha Malek
-editor: Xue Xia
+contributor: Xue Xia
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

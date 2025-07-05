@@ -5,7 +5,7 @@ type: garden
 title: "House of the Salsamenta (Usine de salaison)"
 latlon: [ 36.438789, 10.717447 ]
 author: Amina-Aïcha Malek, Véronique Blanc-Bijon
-editor: Xue Xia
+contributor: Xue Xia
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

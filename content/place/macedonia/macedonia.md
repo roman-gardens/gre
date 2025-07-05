@@ -5,7 +5,7 @@ type: place
 title: "Macedonia"
 date: 2020-07-16
 author:
-editor: Amartya Shri
+contributor: Amartya Shri
 modified: 2025-06-29
 draft: true
 ---

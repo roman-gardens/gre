@@ -5,7 +5,7 @@ type: garden
 title: "VIII.3.8. House of the Wild Boar I; Casa del Cinghiale I; House of L. Coelius Caldus"
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 420
 date: 2021-04-21
 modified: 2025-06-29

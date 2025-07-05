@@ -5,7 +5,7 @@ type: garden
 title: "Villa el Santiscal"
 latlon: [ 36.765569, -5.771836 ]
 author: Marguerita Orfila, N. Doenges
-editor: Lai Ching Tsui
+contributor: Lai Ching Tsui
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

@@ -5,7 +5,7 @@ type: garden
 title: "House of the Aviary (Maison de la Volière)"
 latlon: [ 36.857906, 10.331369 ]
 author: Amina-Aïcha Malek
-editor: Xue Xia
+contributor: Xue Xia
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

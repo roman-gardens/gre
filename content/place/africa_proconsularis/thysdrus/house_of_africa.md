@@ -5,7 +5,7 @@ type: garden
 title: "House of Africa (Maison de l'Afrique)"
 latlon: [ 35.296057, 10.707584 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
-editor: Jinyi Yang
+contributor: Jinyi Yang
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

@@ -5,7 +5,7 @@ type: garden
 title: "VIII.6.2/7. (no. 12 at Pompeii)"
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 447
 date: 2021-04-21
 modified: 2025-06-29

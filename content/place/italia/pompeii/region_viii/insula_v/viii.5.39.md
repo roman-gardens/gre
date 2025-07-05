@@ -5,7 +5,7 @@ type: garden
 title: "VIII.5.39. House of Acceptus and Euhodia"
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 445,446
 date: 2021-04-21
 modified: 2025-06-29

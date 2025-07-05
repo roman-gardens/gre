@@ -5,7 +5,7 @@ type: garden
 title: "Rustic villa at Blankenheim-Hülchrath"
 latlon: [ 51.606474, 5.794368 ]
 author: Maureen Carroll
-editor: David Ratzan
+contributor: David Ratzan
 date: 2021-04-21
 modified: 2025-06-29
 draft: true

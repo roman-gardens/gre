@@ -5,7 +5,7 @@ type: garden
 title: "Sollertianna Domus"
 latlon: [ 35.289921, 10.704940 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
-editor: Jinyi Yang
+contributor: Jinyi Yang
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

@@ -5,7 +5,7 @@ type: garden
 title: "Domus Aurea"
 latlon: [ 41.891244, 12.495403 ]
 author: Elizabeth Macaulay, Linda Anderson
-editor: Joshua Rosenheim, Rhiannon Paré
+contributor: Joshua Rosenheim, Rhiannon Paré
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

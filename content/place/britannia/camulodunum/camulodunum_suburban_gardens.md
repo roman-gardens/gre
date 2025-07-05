@@ -5,7 +5,7 @@ type: garden
 title: "Suburban Gardens in Camulodunum"
 latlon: [ 51.890074, 0.901087 ]
 author: Maureen Carroll
-editor: June Dorsch
+contributor: June Dorsch
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

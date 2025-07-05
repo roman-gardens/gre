@@ -5,7 +5,7 @@ type: garden
 title: "Tomb Garden of P. Sullius Zoticus and Sullia Nice"
 latlon: [ 0, 0 ]
 author:
-editor: Lingyi Xu
+contributor: Lingyi Xu
 date: 2020-11-29
 modified: 2025-06-29
 draft: true

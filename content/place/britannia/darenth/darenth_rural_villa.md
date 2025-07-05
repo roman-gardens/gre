@@ -5,7 +5,7 @@ type: garden
 title: "Rural Villa in Darenth"
 latlon: [ 51.421122, 0.257752 ]
 author: Maureen Carroll
-editor: June Dorsch
+contributor: June Dorsch
 date: 2021-04-21
 modified: 2025-06-29
 draft: false
