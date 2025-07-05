@@ -1,6 +1,6 @@
 ---
 title: "History of the Project"
-date: 2021-04-13T12:43:43+02:00
+date: 2021-04-13
 editor: Christian Casey
 draft: false
 ---

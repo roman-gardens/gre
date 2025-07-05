@@ -29,6 +29,7 @@
 
 # Cleanup
 
+- set permissions on image repo to prevent deletion, modification?
 - [ ] images: remove alt unless it provides additional info
 - [ ] move content from garden entries to the province _index.md
 - [ ] add gre_id/aliases for places, update citation example
@@ -65,6 +66,19 @@
 
 # Documentation
 
+- installing software on Windows
+    - vscode
+    - git
+        - On Windows: winget
+    - hugo
+        - winget install Hugo.Hugo
+        - winget upgrade hugo
+- installing software on Mac
+    - vscode
+    - git
+    - hugo
+        - brew install hugo
+        - Or, if using MacPorts: sudo port install hugo
 - [ ] snippets for shortcodes! id, image, keyword (type and then press CTRL-SPACE)
 - [ ] use \" to escape any quotes within a caption
 - [ ] frontmatter quoting: omit, unless ambiguous
@@ -98,6 +112,7 @@
     - modified
         - update this if there are significant edits later
 - images
+    - guidelines for image filename, size, format
     - new images can be added to the gre-images repo via the GitHub website
     - upload images to the same place in the province hierarchy as the article is
     - to add the image to an article, type "image" and press CTRL-SPACE and select "GRE image shortcut"

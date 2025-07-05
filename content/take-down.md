@@ -1,6 +1,6 @@
 ---
 title: "Take-Down Policy"
-date: 2021-04-20T12:05:39-04:00
+date: 2021-04-20
 editor: David Ratzan
 draft: false
 ---

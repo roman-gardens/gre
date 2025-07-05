@@ -1,6 +1,6 @@
 ---
 title: "Welcome to the Blog"
-date: 2021-04-13T16:57:08+02:00
+date: 2021-04-13
 article_id: blog_0000
 author: Christian Casey
 draft: true
