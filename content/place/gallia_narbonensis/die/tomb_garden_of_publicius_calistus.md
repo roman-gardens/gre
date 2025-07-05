@@ -23,8 +23,6 @@ draft: true
 - [DIE, France]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="167716" name="DIE, France" >}}
 
-## Location Description
-
 ## Sublocation
 
 ## Garden
@@ -46,7 +44,7 @@ None Available
 
 None Available
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

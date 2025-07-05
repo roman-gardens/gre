@@ -47,7 +47,7 @@ In the Roman period, the clearest evidence for the presence of a formal garden i
 
 {{< image file="figure3.png" caption="Fig. 3  Syracuse, general view of the piazza as it appears today" credit="" alt="" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

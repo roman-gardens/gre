@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [alba_helviorum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="167629" name="alba_helviorum" >}}
 
-## Location Description
-
 ## Sublocation
 
 [Le Pinard, House B](#)

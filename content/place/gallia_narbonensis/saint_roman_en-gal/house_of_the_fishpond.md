@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [saint-roman-en-gal]({{<relref ".">}}) \
 [saint-roman-en-gal (Pleiades)](#)
 
-## Location Description
-
 ## Sublocation
 
 [House of the Fishpond](#)
@@ -53,7 +51,7 @@ In the course of the second century, some two meters of fill was added to the ga
 
 <!-- ## Images -->
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

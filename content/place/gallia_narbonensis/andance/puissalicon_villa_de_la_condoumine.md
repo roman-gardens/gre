@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [andance]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="167644" name="Andance" >}}
 
-## Location Description
-
 ## Sublocation
 
 [Puissalicon, villa de la Condoumine](#)

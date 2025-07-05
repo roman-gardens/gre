@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [aix-en-provence]({{<relref ".">}}) \
 [aix-en-provence (Pleiades)](#)
 
-## Location Description
-
 ## Sublocation
 
 [Aix, Jardins de Grassi, House with the large peristyle](#)
@@ -58,7 +56,7 @@ This luxurious residence wrapped around a large (15 x 18 m) peristyle [1] with g
 
 <!-- ## Images -->
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

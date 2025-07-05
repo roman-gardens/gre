@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [alba_helviorum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="167629" name="alba_helviorum" >}}
 
-## Location Description
-
 ## Sublocation
 
 [Les Basaltes, House A](#)
@@ -56,9 +54,9 @@ At first, this relatively modest dwelling was thought to have perhaps belonged t
 
 {{< image file="les_basaltes_house_A.png" caption="Plan of Les Basaltes, House A" credit="" alt="" >}}
 
-## Dates
+<!-- ## Dates -->
 
-## Bibliography
+<!-- ## Bibliography -->
 
 ## Places
 

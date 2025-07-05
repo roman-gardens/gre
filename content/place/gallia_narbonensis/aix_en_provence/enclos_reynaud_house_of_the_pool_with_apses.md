@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [aix-en-provence]({{<relref ".">}}) \
 [aix-en-provence (Pleiades)](#)
 
-## Location Description
-
 ## Sublocation
 
 [Enclos Reynaud, House of the pool with apses](#)
@@ -53,7 +51,7 @@ According to a partial plan, the residence was organized around a large courtyar
 
 <!-- ## Images -->
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

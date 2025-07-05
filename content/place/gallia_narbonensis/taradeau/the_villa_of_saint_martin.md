@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [taradeau]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="452090055" name="Le Fort" >}}
 
-## Location Description
-
 ## Sublocation
 
 [The villa of Saint Martin](#)
@@ -57,7 +55,7 @@ In a fourth stage, the villa lost its residential character: the *pars urbana* w
 
 {{< image file="the_villa_of_saint_martin.jpg" caption="Plan of The Villa of Saint Martin" credit="" alt="" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

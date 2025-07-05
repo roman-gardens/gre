@@ -19,6 +19,7 @@ draft: true
 ## Location Description
 
 The town on the Rhine River possessed colonial status since the late 1st century BC. The street grid, as well as many public and residential buildings, are well known from excavations.
+
 ## Garden
 
 House in Insula 1 and 2 in Augusta Raurica

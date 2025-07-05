@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [aix-en-provence]({{<relref ".">}}) \
 [aix-en-provence (Pleiades)](#)
 
-## Location Description
-
 ## Sublocation
 
 [Enclos Milhaud, House with the large peristyle](#)
@@ -35,7 +33,7 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Enclos Milhaud, House with the large peristyle
 
-## Keywords
+<!-- ## Keywords -->
 
 ## House Description
 
@@ -50,7 +48,7 @@ fiche not translated
 
 <!-- ## Images -->
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

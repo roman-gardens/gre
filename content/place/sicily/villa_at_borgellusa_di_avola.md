@@ -45,7 +45,7 @@ There is a four meter square basin located in the middle of the space enclosed b
 
 {{< image file="figure7.jpg" caption="Fig. 7  Borgellusa, water basin at the centre of the peristyle garden" credit="" alt="" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

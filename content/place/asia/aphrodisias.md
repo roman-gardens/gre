@@ -20,19 +20,6 @@ draft: true
 
 Aphrodisias (*Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis*), in Caria, was home to the cult image of Aphrodite of Aphrodisias. Located about 100 miles from the port at Smyrna, the area featured important marble quarries of the Hellenistic and Roman era. An abundance of sculpture has been found during excavations, and inscriptions indicate that the art landscape as well as architectural settings.
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!-- invalid id
-## Sublocation
-
-- {{< id vocab="Pleiades" id="827863015" name="Place of the Palms" >}}
--->
-
-<!--
-[AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
 ## Garden
 
 Place of the Palms (South Agora)

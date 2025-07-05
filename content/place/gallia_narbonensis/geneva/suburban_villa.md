@@ -23,8 +23,6 @@ draft: true
 - [Genava, ((Geneva, France)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="177528" name="Genava" >}}
 
-## Location Description
-
 ## Sublocation
 
 The Roman town, located at the western end of Lake Geneva at the confluence of the Rhone and Arve rivers, grew from a late first century B.C. settlement of the Gallic tribe of the Allobroges. The town flourished until the third century  A.D., and the territory around Geneva attracted many villa owners. There are few remains of Late Roman Geneva, but it appears to have been fortified around A.D. 300 by a circuit wall.
@@ -60,7 +58,7 @@ None Available
 
 None Available
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

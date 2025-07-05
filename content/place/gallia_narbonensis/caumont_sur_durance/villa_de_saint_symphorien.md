@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [caumont_sur_durance]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="352400034" name="caumont_sur_durance" >}}
 
-## Location Description
-
 ## Sublocation
 
 [Villa de Muscapeu](#)
@@ -72,7 +70,7 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 
 {{< image file="villa_de_saint_symphorien_2.png" caption="Fig. 2 The Villa de Muscapeu" credit="" alt="" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

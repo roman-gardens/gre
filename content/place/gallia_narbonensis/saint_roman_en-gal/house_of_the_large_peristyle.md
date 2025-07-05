@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [saint-roman-en-gal]({{<relref ".">}}) \
 [saint-roman-en-gal (Pleiades)](#)
 
-## Location Description
-
 ## Sublocation
 
 [House of the Ocean Gods](#)
@@ -34,8 +32,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 ## Sublocation Description
 
 The northern end of this vast house is just west of the House of Five Mosaics and in the same insula. From the Passage des Grands Entrepôts along this northern limit, it runs over 100 meters southward to the "Voie I" along the south side of the archaeological site. The eastern edge is about 230 meters west of the Rhone. No less than five names have been given to the houses occupying part or all of the site. The following table of these names with approximate dates may help the reader keep them straight. The final house runs just over 100 meters from south to north. The first two houses covered only about the first 66 meters from the south, up to the noticeable kink in the north-south lines. The third house in the above list, the House of the Large Peristyle, was limited to the area north of this kink. The fourth house combined these two, while the last rebuilt the whole area keeping only the outline and a few walls. We describe the houses in chronological order. All plans for these houses are from La maison des dieux ocean, Equipe archèologique departmentale de Saint-Romain-en-Gal, published by Aglas, 1996.
-
-<!-- DESCRIPTION -->
 
 ## Garden
 

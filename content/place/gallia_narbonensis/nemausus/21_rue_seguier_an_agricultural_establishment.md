@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [nemausus]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="148142" name="Nemausus" >}}
 
-## Location Description
-
 ## Sublocation
 
 [21, rue Séguier, An Agricultural Establishment](#)

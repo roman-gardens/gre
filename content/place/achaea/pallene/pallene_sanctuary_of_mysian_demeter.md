@@ -46,7 +46,7 @@ Pausanias described a grove of all kinds of trees with a natural spring sacred t
 
 unspecified (mentioned in the 2nd century CE)
 
-<!-- Bibliography -->
+<!-- ## Bibliography -->
 
 ## Places
 

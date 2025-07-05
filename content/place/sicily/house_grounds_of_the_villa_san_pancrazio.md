@@ -43,7 +43,7 @@ In private housing at this site on the east coast no excavation has so far been 
 
 <!-- ## Images -->
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

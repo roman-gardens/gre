@@ -30,7 +30,6 @@ Villa Bruñel
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "rills" >}}
-<!-- [vanes] -->
 
 ## Garden Description
 

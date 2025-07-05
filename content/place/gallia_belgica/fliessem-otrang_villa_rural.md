@@ -44,16 +44,12 @@ This *villa rustica* was built on the slope of a hill about 30 kilometers north 
 The entrance to the house on the west was flanked by two protruding pavilions framing an open courtyard. Immediately to the west of this was another open *courtyard* enclosed by a wall. It might be expected, even if the evidence is sparse, that a garden or park was laid out at least in front of the entrance at the west (G on plan).
 <!-- Text comes from draft file -->
 
-## Maps
+<!-- ## Maps -->
 
-None Available
+<!-- ## Plans -->
 
-## Plans
+<!-- ## Images -->
 
-None Available
-## Images
-
-None Available
 ## Dates
 
 Unspecified

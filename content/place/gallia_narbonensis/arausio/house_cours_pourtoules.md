@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [arausio]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="148054" name="Col. Arausio" >}}
 
-## Location Description
-
 ## Sublocation
 
 [House Cours Pouroules](#)
@@ -74,7 +72,7 @@ Among the objects found at Cours Pourtoules was a terracotta *oscillum* represen
 
 {{< image file="maquette_cours_pourtoules.png" caption="House Cours Pouroules" credit="" alt="" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

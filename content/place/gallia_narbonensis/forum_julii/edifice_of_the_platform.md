@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [forum_julii]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="307416064" name="forum_julii" >}}
 
-## Location Description
-
 ## Sublocation
 
 [Edifice of the Platform](#)
@@ -54,7 +52,7 @@ At the north, a large vestibule gives access to a vast courtyard with a peristyl
 
 {{< image file="edifice_of_the_platform.png" caption="Edifice of the platform" credit="" alt="Plan of Edifice of the Platform" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [saint-roman-en-gal]({{<relref ".">}}) \
 [saint-roman-en-gal (Pleiades)](#)
 
-## Location Description
-
 ## Sublocation
 
 [House with the Five Mosaics](#)
@@ -56,7 +54,7 @@ In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the ga
 
 {{< image file="house_with_the_five_mosaics.png" caption="Plan of house with five mosaics" credit="" alt="Plan of House with the Five Mosaics" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

@@ -25,15 +25,11 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [saint-roman-en-gal]({{<relref ".">}}) \
 [saint-roman-en-gal (Pleiades)](#)
 
-## Location Description
-
 ## Sublocation
 
 [La Plaine, House A under the High School](#)
 
-## Sublocation Description
-
-<!-- DESCRIPTION -->
+<!-- ## Sublocation Description -->
 
 ## House
 
@@ -61,7 +57,7 @@ In the northern wing of the house, a square reception room [53], 5.8 meters on a
 
 {{< image file="la_plaine_house_a_under_the_high_school.png" caption="Plan of La Plaine, House A under the High School" credit="" alt="" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

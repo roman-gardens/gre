@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [saint-roman-en-gal]({{<relref ".">}}) \
 [saint-roman-en-gal (Pleiades)](#)
 
-## Location Description
-
 ## Sublocation
 
 [House of the Columns](#)
@@ -63,7 +61,7 @@ The final phase lasted about fifty years, beginning in the first half of the thi
 
 {{< image file="house_of_the_columns_phase3.png" caption="Fig. 3 Plan of House of the columns_phase2" credit="" alt="Plan of House of the columns_phase3" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

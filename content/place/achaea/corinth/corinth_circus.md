@@ -52,8 +52,7 @@ The so-called "hippodrome garden" type (see the Domus Flavia on the Palatine Hil
 
 ## Dates
 
-<!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
-<!-- If no date, use "unspecified" -->
+<!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
 
 ## Bibliography
 

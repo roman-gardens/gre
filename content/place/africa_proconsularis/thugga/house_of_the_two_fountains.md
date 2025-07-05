@@ -39,13 +39,15 @@ House of the Two Fountains (Maison aux deux Fontaines)
 
 This house in the W of the market may have had a peristyle garden enclosed by a portico on four sides; the possible garden had two shallow semicircular basins (Plan view, Fig.1).
 
-## Maps
+<!-- ## Maps -->
+
+<!-- ## Plans -->
 
 ## Images
 
 {{< image file="AFR_Thu_Htf_Wjashemski.jpg" caption="Fig.1 Plan of House of the Two Fountains" credit="" alt="Plan of House of the Two Fountains" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

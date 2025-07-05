@@ -55,7 +55,7 @@ NEW WAY ↓↓↓↓
 
 unspecified (mentioned in the 2nd century CE)
 
-<!-- Bibliography -->
+<!-- ## Bibliography -->
 
 ## Places
 

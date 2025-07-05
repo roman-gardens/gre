@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [forum_julii]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="307416064" name="forum_julii" >}}
 
-## Location Description
-
 ## Sublocation
 
 [Edifice on St. Antoine's Mound](#)
@@ -57,7 +55,7 @@ The residence perhaps enjoyed an exterior garden in the vast open space of arabl
 
 {{< image file="edifice_on_st.antoine's_mound.png" caption="Edifice on St. Antoine's Mound" credit="" alt="Plan of Edifice on St. Antoine's mound" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

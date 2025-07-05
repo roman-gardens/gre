@@ -29,8 +29,8 @@ Villa el Ruedo
 - {{< keyword "peristyles" >}}
 - {{< keyword "reservoirs" >}}
 - {{< keyword "triclinia (rooms)" >}}
-<!-- [nymphaeaum] -->
-<!-- [kiln] -->
+- {{< keyword "nymphaea" >}}
+- {{< keyword "kilns" >}}
 
 ## Garden Description
 

@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [cavalaire_sur_mer]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="157901" name="cavalaire_sur_mer" >}}
 
-## Location Description
-
 ## Sublocation
 
 [Villa de Pardigon 3](#)

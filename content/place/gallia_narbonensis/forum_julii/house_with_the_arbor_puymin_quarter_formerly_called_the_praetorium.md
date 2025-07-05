@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [forum_julii]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="307416064" name="forum_julii" >}}
 
-## Location Description
-
 ## Sublocation
 
 [House with the Arbor, Puymin Quarter, Formerly called the Praetorium](#)

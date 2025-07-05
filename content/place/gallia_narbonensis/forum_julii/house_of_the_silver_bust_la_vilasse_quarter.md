@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [forum_julii]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="307416064" name="forum_julii" >}}
 
-## Location Description
-
 ## Sublocation
 
 [House of the Silver Bust, La Vilasse Quarter](#)
@@ -72,7 +70,7 @@ A number of sculptural discoveries are noteworthy.  In the vestibule [18] was fo
 
 {{< image file="house_of_the_silver_bust_la_vilasse_quarter.png" caption="Plan of House of the Silver Bust" credit="" alt="" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

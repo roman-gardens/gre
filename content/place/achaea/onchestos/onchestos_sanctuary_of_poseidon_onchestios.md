@@ -47,7 +47,7 @@ According to Pausanias, the ancient city of Onchestos in Boeotia lay in ruins by
 
 unspecified (mentioned in the 1st and 2nd century CE)
 
-<!-- Bibliography -->
+<!-- ## Bibliography -->
 
 ## Places
 

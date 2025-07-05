@@ -34,13 +34,15 @@ Peristyle Market (Marché)
 
 The market located to the SW of the forum had a peristyle that enclosed an open space that may have been planted. With no evidence, Merlin suggested that the courtyard was paved with white mosaics but scholars do not agree.  A large shade tree grows there today.
 
-## Maps
+<!-- ## Maps -->
+
+<!-- ## Plans -->
 
 ## Images
 
 {{< image file="AFR_Thub_Pm_Wjashemski.jpg" caption="Fig. 1: Plan of the Market(CMT, V.  II, fasc.1, pp. 9-11, plan 3-4)" credit="" alt="Plan of the Market" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

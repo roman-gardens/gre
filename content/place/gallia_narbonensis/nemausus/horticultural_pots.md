@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [nemausus]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="148142" name="Nemausus" >}}
 
-## Location Description
-
 ## Sublocation
 
 [House B, Les Villégiales, quarter of the Benedictines](#)
@@ -47,9 +45,9 @@ House B, Les Villégiales, quarter of the Benedictines
 
 The archeologists of Nîmes have been particularly sensitive to the presence of horticultural pots.  Besides those noted above (House B des Villégiales and 21, rue Séguier), Sébastien Barberan has noted their discovery, out of context, in several excavations: in 1982 at St. Joseph's clinic; in 1993, seven pots at îlot Grill near the amphitheater; and in 1996, at the Ilôt Thérond and in the excavation for the "Quick".
 
-## Plans
+<!-- ## Plans -->
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

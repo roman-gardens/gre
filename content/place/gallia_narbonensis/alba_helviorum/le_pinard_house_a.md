@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [alba_helviorum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="167629" name="alba_helviorum" >}}
 
-## Location Description
-
 ## Sublocation
 
 [Le Pinard, House A](#)
@@ -51,7 +49,7 @@ The natural slope of the terrain towards the east led to building the house in l
 
 {{< image file="le_pinard_house_A.png" caption="Plan of Le Pinard, House A" credit="" alt="" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

@@ -31,7 +31,7 @@ House No. 1 or West House
 - {{< keyword "courtyards" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "triclinia (rooms)" >}}
-<!-- [Doric order] -->
+- {{< keyword "Doric order" >}}
 
 ## Garden Description
 

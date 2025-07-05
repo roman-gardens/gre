@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [alba_helviorum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="167629" name="alba_helviorum" >}}
 
-## Location Description
-
 ## Sublocation
 
 [Baths of La Planchette](#)
@@ -51,7 +49,7 @@ To the northeast there are the baths of la Planchette, today backfilled.  This b
 
 {{< image file="baths_of_la_planchette_2.png" caption="Fig.2 Plan of Baths of La Planchette_2" credit="" alt="Plan of Baths of La Planchette_2" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

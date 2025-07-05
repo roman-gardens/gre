@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [andance]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="167644" name="Andance" >}}
 
-## Location Description
-
 ## Sublocation
 
 [Villa de Château-Pipet](#)
@@ -52,7 +50,7 @@ No date was proposed for the structure in the excavation reports.
 
 {{< image file="villa_de_chateau_pipet.png" caption="Plan of Villa de Château-Pipet" credit="" alt="" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

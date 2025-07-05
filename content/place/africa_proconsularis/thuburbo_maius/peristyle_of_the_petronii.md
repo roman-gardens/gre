@@ -39,7 +39,8 @@ The courtyard of this large peristyle to the NE of the Summer Baths, dedicated b
 ## Images
 
 {{< image file="peristyle_des_petronii_detail.jpg" caption="Fig. 2: Detail Plan of the Peristyle of the Petronii" credit="" alt="Detail Plan of the Peristyle of the Petronii " >}}
-## Dates
+
+<!-- ## Dates -->
 
 ## Bibliography
 

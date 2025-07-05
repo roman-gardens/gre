@@ -40,7 +40,7 @@ HHouse of the Arsenal (Maison de l'Arsenal)
 
 ## Garden Description
 
-<!-- Question about translation in notes -->
+<!-- TODO Question about translation in notes -->
 A large house (40 x 40 m) of the second century covered the site of three adjacent buildings going back to the years 60-80 (Fig 1). It was built around a central *courtyard* [1] 18 meters on a side, bordered by *porticos* on the east, south, and west. The *courtyard*, doubtless treated as a garden, had a rectangular pool that has been partially excavated. On the axis of the pool, on the north side and seemingly opening directly onto the *courtyard* was a large, 60-square-meter room [2] heated by *hypocausts*.
 
 ## Maps

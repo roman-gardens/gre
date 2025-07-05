@@ -17,9 +17,6 @@ draft: true
 
 ## Province Description
 
-<!-- DESCRIPTION -->
-**Introduction Needed**
-
 ## Location
 
 <!-- {{< id vocab="Pleiades" id="108751" name="Colonia Claudia Ara Agrippinensium (Cologne)" >}} -->
@@ -30,11 +27,6 @@ draft: true
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
-
-## Garden
-
-<!-- List of gardens in province -->
-<!-- May be left blank for now -->
 
 ## Dates
 

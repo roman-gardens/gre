@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [arausio]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="148054" name="Col. Arausio" >}}
 
-## Location Description
-
 ## Sublocation
 
 [Saint-Florent, House B, House with the Polychrome Mosaic](#)
@@ -53,7 +51,7 @@ It was of high quality construction with eight black and white floor mosaics wit
 
 {{< image file="saint_florent_house_b_house_with_the_polychrome_mosaic.png" caption="Plan of Saint-Florent, House B, House with the Polychrome Mosaic" credit="" alt="" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

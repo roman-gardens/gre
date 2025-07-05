@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [saint_cyr_sur_mer]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="452090054" name="saint_cyr_sur_mer" >}}
 
-## Location Description
-
 ## Sublocation
 
 [Suburban Villa de la Brunette](#)
@@ -65,7 +63,7 @@ To the south, a charming apartment overlooked the cove of the Madrague and may h
 
 {{< image file="villa_des_baumelles.jpg" caption="Plan of Villa des Baumelles" credit="" alt="" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

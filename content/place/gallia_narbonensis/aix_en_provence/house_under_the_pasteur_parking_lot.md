@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [aix-en-provence]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="148053" name="Col. Aquae Sextiae" >}}
 
-## Location Description
-
 ## Sublocation
 
 [House under the Pasteur parking lot](#)
@@ -67,7 +65,7 @@ Four groups of structures lay in a somewhat staggered pattern. All opened onto g
 
 <!-- ## Images -->
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

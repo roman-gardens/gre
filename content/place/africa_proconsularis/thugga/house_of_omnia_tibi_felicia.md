@@ -36,7 +36,9 @@ House of Omnia Tibi Felicia (Maison Omnia Tibi Felicia)
 
 The courtyard of the peristyle, which was paved with mosaics, was lined with built-in stone planters. (Plan view, Fig. 1).
 
-## Maps
+<!-- ## Maps -->
+
+<!-- ## Plans -->
 
 ## Images
 

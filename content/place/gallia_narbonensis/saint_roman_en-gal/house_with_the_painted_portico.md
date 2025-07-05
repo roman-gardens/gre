@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 [saint-roman-en-gal]({{<relref ".">}}) \
 [saint-roman-en-gal (Pleiades)](#)
 
-## Location Description
-
 ## Sublocation
 
 [House with the Painted Portico](#)
@@ -53,7 +51,7 @@ This house was destroyed to build the market and lies under it, but it is partly
 
 {{< image file="house_with_the_painted_portico.png" caption="Plan of house with the painted portico" credit="" alt="" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

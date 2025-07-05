@@ -43,7 +43,7 @@ There is a rectangular fountain basin set at the south end of the peristyle faci
 
 {{< image file="figure8.png" caption="Fig. 8  Castroreale San Biagio, plan of Roman villa" credit="" alt="" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

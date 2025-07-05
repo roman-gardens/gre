@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [arausio]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="148054" name="Col. Arausio" >}}
 
-## Location Description
-
 ## Sublocation
 
 [Quarter of Saint-Florent, House A – House of the Mosaic with Meanders](#)

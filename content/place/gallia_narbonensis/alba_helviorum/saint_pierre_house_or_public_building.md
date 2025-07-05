@@ -25,8 +25,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [alba_helviorum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="167629" name="alba_helviorum" >}}
 
-## Location Description
-
 ## Sublocation
 
 [Saint-Pierre, House or Public Building](#)
@@ -51,7 +49,7 @@ The western wing, of which 30 m is known, has rooms richly decorated with marble
 
 {{< image file="saint_pierre_house_or_public_building.png" caption="Fig.1 Plan of Saint-Pierre, House or Public Building" credit="" alt="Plan of Saint-Pierre, House or Public Building" >}}
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 

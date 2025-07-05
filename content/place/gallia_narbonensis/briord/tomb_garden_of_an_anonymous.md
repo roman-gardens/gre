@@ -22,8 +22,6 @@ draft: true
 - [BRIORD]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="167693" name="Brioratis" >}}
 
-## Location Description
-
 ## Sublocation
 
 ## Garden
@@ -48,7 +46,7 @@ None Available
 
 None Available
 
-## Dates
+<!-- ## Dates -->
 
 ## Bibliography
 
