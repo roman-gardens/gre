@@ -32,7 +32,6 @@ There has been little research on the gardens in the Roman settlements in Spain 
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
-
 ## Bibliography
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
@@ -43,12 +42,10 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
-
 ## Location
 
 - [Col. Tarraco]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="246349" name="Col. Tarraco" >}}
-
 
 ## Location Description
 
@@ -68,8 +65,6 @@ Schola of the Collegium Fabrum
 ## Garden Description
 
 The Schola of the collegium fabrum had a nympheum (a) decorated by a sculptural group of two figures pouring water (a reclining nymph and a group with a drunken Dionysus supported by Silenius) and at least two other sculptures, a sleeping Eros and a herakliskos – the infant Hercules struggling with snakes. The presence of a highly decorative nymphaeum and Dionysiac sculpture group suggests the presence of a garden.
-
-
 
 ## Dates
 

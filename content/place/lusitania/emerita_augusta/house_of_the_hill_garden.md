@@ -35,7 +35,6 @@ The area of Augusta Emerita best known today, because of extensive excavations, 
 
 Because most of evidence from Merida was unearthed in old excavations, the context of many ancient objects is unknown. There is also a lack of analytical data on many of the areas which must originally have been gardened. The classification of the gardens of the Colonia Augusta Emerita is still under analysis. The study by Moreno is a basic survey article and should be understood to be part of all the bibliographies for Merida.
 
-
 ## Bibliography
 
 - I. C. Moreno, "Los jardines de Mérida," *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
@@ -52,7 +51,6 @@ House of the Hill Garden
 ## Garden Description
 
 Very little is known about the characteristics of this intramurally situated domus, whose remains were discovered in 1976 during explorations in the grounds of the 'Hill Garden.'  In the emergency excavations carried out by José Álvarez Sáenz de Buruaga, the remains of two peristyles were discovered with mural paintings and mosaic pavements dated to the end of the second or early third century A.D. The structures of this house, only partially excavated, have been buried again for the sake of preservation and are no longer visible.
-
 
 ## Dates
 

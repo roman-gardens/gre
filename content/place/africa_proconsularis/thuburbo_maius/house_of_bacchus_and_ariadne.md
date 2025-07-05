@@ -23,7 +23,6 @@ draft: false
 
 The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to a *municipium* by Hadrian (117-138), and to a colony during the rein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.
 
-
 ## Garden
 
 House of Bacchus and Ariadne (Maison de Bacchus et Ariane)
@@ -75,7 +74,7 @@ We next consider the identity of the many smaller roots.  Since this garden was 
 {{< image file="House_of_Bacchus_and_Ariadne_Detail_Plan.jpg" caption="Fig. 3: Detail, Plan of courtyard garden, House of Bacchus and Ariadne." credit="(Victoria I, Jashemski, W. F., 1995, fig. 7)" alt="Detail, Plan of courtyard garden, House of Bacchus and Ariadne" >}}
 
 {{< image file="House_of_Bacchus_and_Ariadne_Drawing.jpg" caption="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne." credit="(Victoria I, Jashemski, W. F., 1995, fig. 11)" alt="" >}}
-<!--convert photos to jpeg-->
+<!-- convert photos to jpeg -->
 
 ## Dates
 
@@ -93,7 +92,6 @@ evidence," *Journal of Garden History*, 16/4,1996, pp. 231-243.[(worldcat)](http
 at Thuburbo Maius, Zaghouan, Tunisia" in *Sourcebook for Garden Archaeology, Mthods, Techniques, Interpretations and Field examples*, ed., A-A Malek, Berne, Suisse, Peter Lang, 2013, coll. Parcs et Jardins (Peter Lang/Fondations des parcs et jardins de France), pp. 595-601.[(worldcat)](https://search.worldcat.org/title/863671257)
 * Lantier, R., "Un bassin a mosaiques de Thurburbo Majus", *BAC* 1944, pp. 280-82 [(Bibliothèque nationale de France)](https://gallica.bnf.fr/ark:/12148/bpt6k62947017/f290.item#)
 * Malek, A.-A., "Le jardin au fil de l'eau : mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l'époque romaine*, Brouquier-Reddé, V., Hurlet, F. (dir.), Bordeaux, Ausonius, 2018, pp. 235-254. [(worldcat)](https://search.worldcat.org/title/1078217356)
-
 
 ## Places
 

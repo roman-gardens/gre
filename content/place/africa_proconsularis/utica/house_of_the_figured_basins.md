@@ -31,20 +31,18 @@ House of the Figured Basin (Maison du bassin figuré)
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "semicircular basin" >}}
 
-
 ## Garden Description
 
 The house was located in the *insula* III. The rectangular courtyard, in the SW corner on the axis of the great hall (XI), paved during the last period may have been a garden earlier (Plan view, Fig.1). It had a semicircular basin with a geometric design in the bottom. The wall and the brim were figured.
 
 
-<!--## Maps-->
-
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="AFR_Uti_Hfb_Wjashemski1.jpg" caption="Fig. 1: Plan view of the House of the Figured Basin (CMT, plan 22)." credit="" alt="Fig. 1: Plan view of the House of the Figured Basin." >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 
@@ -54,7 +52,6 @@ The house was located in the *insula* III. The rectangular courtyard, in the SW 
 
 * Alexander, M. A., Ennaifer, M., *Corpus des Mosaïques de Tunisie*, *Utique, insulae, I-II-III*, INA, Tunis, 1973, pp. 121, 126-128, plan 22.  [(worldcat)](https://search.worldcat.org/title/61828622)
 * Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003,pp.344-345. [(worldcat)](https://search.worldcat.org/title/989088620)
-
 
 ## Places
 

@@ -44,18 +44,15 @@ To the east of this room was a second garden; low walls with the columns of the 
 
 To the west of the central reception room or triclinium was the third garden, which survives in much worse condition than the eastern one. It also likely had a peristyle and certainly it had a small rectangular pool in the middle.
 
-
 ## Maps
 
 {{< image file="HIS_BAE_Italica_city plan_CA.jpg" caption="Fig. 1: Map of Italica." credit="" alt="" >}}
 
 ## Images
 
-
 {{< image file="XXXX.jpg" caption="Fig. 1: Photograph looking northeast over a pool in the west garden." credit="" alt="" >}}
 
 {{< image file="XXXX.jpg" caption="Fig. 2: Plan of the House of Hylas." credit="" alt="" >}}
-
 
 ## Dates
 
@@ -66,7 +63,6 @@ unspecified
 * Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](https://search.worldcat.org/title/882602957)
 * A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](https://search.worldcat.org/title/638777432)
 * A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). 82-83 [(worldcat)](https://search.worldcat.org/title/916989580)
-
 
 ## Places
 

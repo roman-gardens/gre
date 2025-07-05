@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -63,7 +62,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "vegetable gardens" >}}
 - {{< keyword "vestibules" >}}
 
-
 ## Garden
 
 House of the Ephebe; Casa Dell'Efebo; House of P. Cornelius Teges (or Tages).
@@ -84,7 +82,7 @@ B. This [peristyle](http://vocab.getty.edu/page/aat/300080971) garden was entere
 C. Behind the [tablinum](http://vocab.getty.edu/page/aat/300004180), and seen from the entrance (no. 19), a small light well served as a garden. It was [painted](http://vocab.getty.edu/page/aat/300033644) to represent a garden and the floor had been paved. The only surviving images were the usual [fence](http://vocab.getty.edu/page/aat/300005044) with faint traces of oleander bushes and birds. Further traces indicated that a statuette of Venus standing on a marble base in an apsed niche in the lattice [fence](http://vocab.getty.edu/page/aat/300005044) may have been represented on the east wall. The lattice [fence](http://vocab.getty.edu/page/aat/300005044) on the north wall was painted to represent a rectangular niche. Water was piped from the garden above through the lower part of the rear wall and possible supplied a jet in the middle of the [impluvium](http://vocab.getty.edu/page/aat/300129867), as surmised by Maiuri.
 
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 <!--
 ## Plans

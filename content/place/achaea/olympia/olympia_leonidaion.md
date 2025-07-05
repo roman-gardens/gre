@@ -18,7 +18,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 
-
 - [Olympia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="570531" name="Olympia" >}}
 
@@ -33,18 +32,17 @@ Leonidaion
 - {{< keyword "planting beds" >}}
 - {{< keyword "quatrefoils" >}}
 
-
 ## Garden Description
 
 This building southwest of the temple of Zeus was the largest guest house in the sanctuary at Olympia.  The original Leonidaion, a gift of Leonidas from Naxos, was built shortly after 338 B.C. with a central courtyard.  In the 2nd century A.D. the building was remodeled, and this courtyard was transformed into a veritable water garden (Fig. 1).  The garden consisted of an outer quatrefoil island surrounded by a water channel (stippled on plan), and in the middle of this island was another circular one around which ran a second water channel (stippled on plan).  On the quatrefoil island were planting beds (b on plan) in the middle of the four sides and sculptures in each of the rounded corners.  This island could be reached by a bridge spanning the outer channel on the north and south sides. The central circular island was not accessible by such bridges.  During the earthquake in the late 3rd century, the building was badly damaged and not rebuilt in this form.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="eur_ach_olympia_leonidaion.jpg" caption="Fig. 1: Plan of the Leonidaion with its quatrefoil and circular gardens (white) and planting beds (b) surrounded by water channels (stippled) in the courtyard." credit="Adapted from Mallwitz 1972, fig. 201." alt="Plan of the Leonidaion with its quatrefoil, circular gardens and planting beds" >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

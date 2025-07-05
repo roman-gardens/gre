@@ -28,7 +28,6 @@ Rural villa at Voerendaal
 - {{< keyword "hedges" >}}
 - {{< keyword "courtyards" >}}
 
-
 ## Garden Description
 
 The stone-built structures of this *villa rustica* near the [Meuse river](https://pleiades.stoa.org/places/109180), the largest excavated thus far in the Netherlands, were erected in the early 2nd century and repeatedly enlarged until the abandonment of the farm around 300 A.D. (Plan 1). The total area of the farm, including the cultivated land, is calculated to have been ca. 150 hectares. The main residence (A on plan) lay in the northern half of the complex which measured 167 x 214 m. (3.5 hectares) in size. The porticoed facade in its final state was 190 m. long.

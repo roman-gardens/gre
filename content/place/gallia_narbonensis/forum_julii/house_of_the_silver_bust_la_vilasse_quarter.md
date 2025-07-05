@@ -31,11 +31,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [House of the Silver Bust, La Vilasse Quarter](#)
 
-
 ## House
 
 House of the Silver Bust, La Vilasse Quarter
-
 
 ## Keywords
 
@@ -47,7 +45,6 @@ House of the Silver Bust, La Vilasse Quarter
 - {{< keyword "reception rooms" >}}
 - {{< keyword "pergolas" >}}
 - {{< keyword "ditches" >}}
-
 
 ## House Description
 
@@ -71,15 +68,11 @@ Finally, between the baths to the west and the "rue des boutiques," the house is
 
 A number of sculptural discoveries are noteworthy.  In the vestibule [18] was found half of an oscillum 19 cm in diameter; on one face, a hare nibbles fruits coming out of a wicker basket while on the other are two dolphins in the water.  In the east portico of the peristyle [17] was a fragmentary oscillum (26 cm long) in the form of a pelta; one horn terminates in the head of an eagle-griffon. On one of the faces is a mask of a bearded person in profile with frilly hair held by a band; on the reverse is a mask with wavy hair.
 
-
 ## Plans
-
 
 {{< image file="house_of_the_silver_bust_la_vilasse_quarter.png" caption="Plan of House of the Silver Bust" credit="" alt="" >}}
 
-
 ## Dates
-
 
 ## Bibliography
 
@@ -90,7 +83,6 @@ A number of sculptural discoveries are noteworthy.  In the vestibule [18] was fo
 3. Chr.  Goudineau, Y.  de  Kisch, Vaison-la-Romaine, Guide  archéologique  de  France, 1999, 1ère  éd. 1984, P. 28-33; [(worldcat)](https://search.worldcat.org/title/807347615)
 
 4. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.168-80. [(worldcat)](https://search.worldcat.org/title/905795401)
-
 
 ## Places
 

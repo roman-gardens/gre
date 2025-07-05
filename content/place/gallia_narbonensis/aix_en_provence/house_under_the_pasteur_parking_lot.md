@@ -31,11 +31,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [House under the Pasteur parking lot](#)
 
-
 ## House
 
 House under the Pasteur parking lot
-
 
 ## Keywords
 
@@ -49,7 +47,6 @@ House under the Pasteur parking lot
 - {{< keyword "mural paintings" >}}
 - {{< keyword "candelabras (candleholders)" >}}
 
-
 ## House Description
 
 In its first phase, the house formed an L around a trapezoidal courtyard [1] (about 23 x 22 m) that was certainly developed as a garden. On the north and east it was bordered by a portico [2] with pilasters of which the foundation blocks remain. The portico (3.5 m wide) was bordered by two rectangular pools (each about 6.7 x 2.5 m) made of concrete with walls coated with cement. They drained to a collector. To the west of the courtyard is a circular well 4 meters deep lined with dressed hard limestone and without a puteal. It is not certain that it comes from Roman times.
@@ -60,19 +57,17 @@ Around the year 70, the house was extended to the south. In this Phase 2 form, i
 
 Four groups of structures lay in a somewhat staggered pattern. All opened onto gardens through porticoes. The original structure on the upper terrace retained its L form with the north-south arm of the L between two gardens, [1 and 16]. The new, lower terrace was roughly square with portico-bordered gardens in the northeast [27] and southwest [17] quadrants and structures in the other two quadrants. The south garden [17], known only in part, included a rectangular pool and 3-meter wide porticoes on at least the north and east sides. The columns had finely sculptured Corinthian capitals [18]. Among the residential rooms should be noted the vast salon [23] for reception of guests. To the east, two other large rooms, [29] and [30] (12 x 7 m) on the axis of the pool were certainly also used for reception. They had a white mosaic with black framing lines and also beautiful mural paintings of high quality. Panels of cinnabar red were set off by inter-panel areas in Egyptian blue with pictures of theatrical masks hung from candelabra.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
-
 
 {{< image file="house_under_the_pasteur_parking_lot_phase1.png" caption="House under the Pasteur parking lot_phase1" credit="" alt="Fig.1 Plan of the House under the Pasteur parking lot, Phase 1" >}}
 
 {{< image file="house_under_the_pasteur_parking_lot_phase2.png" caption="House under the Pasteur parking lot_phase2" credit="" alt="Fig.2 Plan of the House under the Pasteur parking lot, Phase 2" >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
-
 
 ## Bibliography
 
@@ -82,7 +77,6 @@ Four groups of structures lay in a somewhat staggered pattern. All opened onto g
 
 
 3. J. Guyon, N. Nin, L. Rivet, S. Saulnier, *Aix-en-Provence,Atlas*, P. 65-68 et P.261-277.
-
 
 ## Places
 

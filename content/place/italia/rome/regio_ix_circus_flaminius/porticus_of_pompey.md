@@ -27,7 +27,6 @@ draft: false
 - [Region IX Circus Flaminius]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="422863" name="Campus Martius" >}}
 
-
 ## Garden
 
 Garden of the Porticus of Pompey \
@@ -60,7 +59,6 @@ Garden of the Porticus of Pompey \
 - [Propertius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1187)
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 - [Vitruvius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476)
-
 
 ## Garden Description
 

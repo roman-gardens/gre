@@ -20,7 +20,6 @@ draft: true
 
 [Region X]({{<relref "..">}})
 
-
 ## Garden
 
 Villa of the Bath
@@ -43,7 +42,7 @@ Villa of the Bath
 
 Remains discovered in 1888 revealed a large semicircular garden (Fig. 1: c) enclosed by a portico (b), into which opened a series of rooms (d to p).  A corridor (a) connected this garden to a bath quarter that boasted a nymphaeum (t) and a panoramic view onto the sea.  A similar semicircular portico and garden was in the villa of Anguillara Sabatia, but the radial disposition of the rooms of the 'Villa della Terma's' pars urbana is unusual, revealing a desire to lend each room a view onto the garden.  The preservation of this villa is poor because for centuries it was scavenged for building material.  Dated material ranges from the first century B.C. (brick stamps) to the early fifth century A.D. (coins).  It is possible that these remains were part of the nearby "Villa della Statua."
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Dates
 

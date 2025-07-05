@@ -33,11 +33,9 @@ Tourves is a village about 30 kilometers almost due north of Toulon on the via A
 
 [Villa de Muscapeu](#)
 
-
 ## Villa
 
 Villa de Muscapeu
-
 
 ## Keywords
 
@@ -47,7 +45,6 @@ Villa de Muscapeu
 - {{< keyword "porticoes" >}}
 - {{< keyword "mosaics" >}}
 - {{< keyword "balnea" >}}
-
 
 ## Villa Description
 
@@ -59,15 +56,11 @@ The living quarters were between the colonnade of the peristyle [2] and that of 
 
 In a second stage, in the first century, a bath complex [5] with an open-air esplanade was built to the southwest of the peristyle.  In a third stage, these baths were redecorated with marble.  In a final stage, in the second century, new baths [6] were constructed to the west of the original complex, but the original was not abandoned.
 
-
 ## Plans
-
 
 {{< image file="villa_de_muscapeu.jpg" caption="Plan of The Villa de Muscapeu" credit="" alt="" >}}
 
-
 ## Dates
-
 
 ## Bibliography
 
@@ -76,7 +69,6 @@ In a second stage, in the first century, a bath complex [5] with an open-air esp
 2. Bouet, Alain, and Philippe Leveau. Les Thermes Prives Et Publics En Gaule Narbonnaise. S.l.: s.n., 1996, P. 401, Fig. 279-283. [(worldcat)](https://search.worldcat.org/title/490154337)
 
 3. R. AMBARD, *La  villa  gallo-romaine  de  Muscapeu*, in *Provence  historique*, V, 1955, P. 104.
-
 
 ## Places
 

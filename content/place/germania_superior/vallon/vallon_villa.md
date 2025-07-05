@@ -68,7 +68,7 @@ After the disappearance of the Antique site, the land continues to be occupied d
 
 {{< image file="EUR_GS_Val_villa3_carroll.png" caption="Fig. 2 : map of the habitation zone in the second half of the IInd century of our era." credit="" alt="" >}}
 
-<!--## Plans-->
+<!-- ## Plans -->
 
 ## Images
 

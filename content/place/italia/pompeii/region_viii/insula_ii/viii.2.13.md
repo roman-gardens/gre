@@ -22,7 +22,6 @@ draft: false
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -35,12 +34,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula II]({{<relref ".">}})
 
-
 ## Keywords
 
 - {{< keyword "tablina" >}}
 - {{< keyword "porticoes" >}}
-
 
 ## Garden Description
 
@@ -55,7 +52,6 @@ The room (b) to the east had a good view into this garden (a) which was located 
 
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
 - {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
 
 ##  Excavation Dates
 

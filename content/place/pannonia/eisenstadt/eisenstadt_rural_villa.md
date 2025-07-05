@@ -16,7 +16,6 @@ draft: true
 - [Eisenstadt]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="197425" name="Eisenstadt" >}}
 
-
 ## Garden
 
 Rural Villa in Eisenstadt
@@ -35,15 +34,13 @@ Rural Villa in Eisenstadt
 
 The residence of this *villa rustica* was entered on the southeast by a portico (Fig. 1). After passing through a room interpreted as the atrium, one arrived in the open courtyard which had a peristyle on three sides (G on plan). On the northern edge of the courtyard was a podium (P on plan) near which votive altars to Diana and Silvanus were found, both gods of the woods and suitable subjects for a garden. This corner of the courtyard, thus, seems to have had religious character. In the middle of the courtyard was a square foundation, measuring 1.80 x 1.80 m., possibly the remains of a base for some kind of figure. The *villa rustica* was established in the early 2nd century and occupied probably until the 4th century.
 
-<!--## Maps-->
-
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="PAN_EIS_Villa_M Carroll.jpg" caption="Fig. 1: Plan of the rural villa with a peristyle courtyard (G) and a podium (P) for sculpture." credit="Adapted from Thomas 1964, fig. 73." alt="" >}}
 
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 

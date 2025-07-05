@@ -53,7 +53,6 @@ On the side of the corridor leading from the Severan Forum, there was a garden, 
 
 {{< image file="house_of_hylas_plan1.jpg" caption="Fig. 1: Plan of the House of Hylas" credit="(Blanchard-Lemée, M., 1975, fig. 77)" alt="Plan of the House of Hylas. More details are included in the garden description section above." >}}
 
-
 ## Images
 
 {{< image file="house_of_hylas_photo.jpg" caption="Fig. 2: View of the corridor and the basin. On the background, the courtyard garden (Blanchard Lemée, M., AOrOc)" credit="" alt="View of the corridor and the basin. On the background, the courtyard garden." >}}

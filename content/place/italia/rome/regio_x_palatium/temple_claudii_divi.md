@@ -25,7 +25,6 @@ draft: true
 Caelian Hill \
 - {{< id vocab="Pleiades" id="695491849" name="Caelius Mons" >}}
 
-
 ## Garden
 
 Garden of the Temple of Divine Claudius, Palatine
@@ -41,7 +40,6 @@ Garden of the Temple of Divine Claudius, Palatine
 - {{< keyword "planting beds" >}}
 - {{< keyword "stagnum (man-made lake)" >}}
 - {{< keyword "temples" >}}
-
 
 ## Garden Description
 

@@ -27,7 +27,6 @@ draft: false
 - [Palatine]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
-
 ## Garden
 
 Garden of the House of Augustus, Palatine
@@ -52,7 +51,6 @@ Garden of the House of Augustus, Palatine
 - [Velleius Paterculus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1458)
 - [Vitruvius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476)
 
-
 ## Garden Description
 
 This important house, the [*Domus Augusti*](https://en.wikipedia.org/wiki/House_of_Augustus), which incorporated part of the earlier [*Domus*](https://en.wikipedia.org/wiki/Domus) of [Quintus Hortensius](https://en.wikipedia.org/wiki/Quintus_Hortensius) ([Vell. Pat. II.81](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Velleius_Paterculus/2C*.html) | [Trans.](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/2C*.html)), must have contained important gardens. Yet excavations carried out in the 1960s, although identifying remains as the house of the first [*princeps*]https://en.wikipedia.org/wiki/Princeps), [Augustus](https://en.wikipedia.org/wiki/Augustus), provided few elements connected with the presence of gardens (Fig 1.).
@@ -76,7 +74,6 @@ RELATED PHASES ON THE PALATINE:
 [Garden of the Domus Augustana (F,G)]({{<relref "domus_augustana">}})\
 [Garden of the Palatine Stadium (H)]({{<relref "palatine_stadium">}})\
 [Garden of the Severan Complex (I)]({{<relref "severan_complex">}})
-
 
 ## Figures
 

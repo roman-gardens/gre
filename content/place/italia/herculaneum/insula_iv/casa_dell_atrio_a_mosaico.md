@@ -17,12 +17,10 @@ draft: true
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
-
 ## Location
 
 - [Herculaneum]({{<relref "..">}}) \
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-
 
 ## Location Description
 
@@ -50,20 +48,19 @@ Casa dell'Atrio a Mosaico
 
 541.IV.1-2
 A windowed *portico* surrounded this garden (a) on the north, south and west. The east side was bordered by a narrow corridor which Maiuri proposed had glass in woodenframes set on the outside edge of the low wall.  This wall had a planting space 0.16 m. wide in the top next to where the windows were set, creating a greenhouse environment.  This luxurious house had an *exedra*(b) opening onto the center of the corridor and looking into the garden, which was slightly lower. On the oppositeside,the walls, columns, and the door posts were decorated with paintingsof shrubs, grapevines, ivy andoleander in flower as a continuation of the garden proper. A gutter circled the perimeter of the garden except by the entrance on the south, which was directly across from the grand *triclinium-oecus*(c). A rectangular marble-edged pool in the center of the garden had a water jet which could be viewed from either the *exedra* or the *triclinium*.  The excavations in this garden in 1929-1930 uncovered a spherical white marble sundial. The *triclinium-oecus* opened to the south onto a long covered *portico* with an open terrace (d) beyond that looking out over the Bay. Potted plants most likely were placed here.
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="H_4_1-2.jpg" caption="Plan of Casa dell'Atrio a Mosaico" credit="" alt="" >}}
 
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Places
 
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
 
 ## Dates
 

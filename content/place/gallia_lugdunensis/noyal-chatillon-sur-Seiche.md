@@ -30,7 +30,6 @@ Villa de Châtillon-sur-Seiche
 - {{< keyword "hypocausts" >}}
 - {{< keyword "forecourts" >}}
 
-
 ## Garden Description
 
 Six kilometers south of Rennes, this village with medieval churches and pleasant promenades along the banks of the Seiche must once have been the site of *castellum* from which the name Châtillon derives. The fort was probably on a mound a few hundred meters southwest of the ancient farm and villa described here.
@@ -57,7 +56,6 @@ Was there a garden? Within the *courtyard,* there is no direct evidence of plant
 
 A study of pollens and sediments below the levels of the Gallo-Roman villa in a paleosol dated to the late first century BC or early first century AD has revealed the environment of the farm at that time. It shows a soil already worked and gardened by man and the presence of pollens of cereals. The countryside, already totally or partially cleared combined various trees – pine, hazel, oak, holly and linden – with ferns and herbaceous plants, especially grasses and plantains characteristic of prairies and grasslands. A comparison with the quantities of pollens found in the soils of the villa in the second and third centuries shows relative stability of the percentages, as shown in figure 5. While interesting, these findings describe the environment rather than the gardens themselves.
 
-
 ## Maps
 
 {{< image file="noyal1.jpg" caption="A Map of Land Development Over Time." credit="" alt="These images are three maps that show the development of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) over time from 1 year A.D. or after J.C. to 180 A.D. or J.C." >}}
@@ -79,7 +77,6 @@ Unspecified
 
 - Alain Provost, "La villa gallo-romaine de Chatillon-sur-Seiche," in the catalog of the exposition  *Nos ancêtres les Riedones*, Musée de Bretagne- Eco-musée du pays de Rennes, Rennes, 20 juin, 31 déc. 1990, p. 10-31 [(worldcat)](https://search.worldcat.org/title/715516488)
 - Gilles Leroux, Alain Provost, CAG- Ille-et-vilaine (35), p. 270-274. [(worldcat)](https://search.worldcat.org/title/463616145)
-
 
 ## Places
 

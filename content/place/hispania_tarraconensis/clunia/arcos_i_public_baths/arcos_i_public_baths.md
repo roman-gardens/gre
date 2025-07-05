@@ -32,7 +32,6 @@ There has been little research on the gardens in the Roman settlements in Spain 
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
-
 ## Bibliography
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
@@ -43,12 +42,10 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
-
 ## Location
 
 - [Clunia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="187350" name="Clunia" >}}
-
 
 ## Location Description
 
@@ -68,32 +65,26 @@ The steep sides of the meseta and its height above the surrounding plain clearly
 
 - On the underground water system, see L. Valdés, F. Tuset, J. Reina, M. Farjas, *Colonia Clunia Sulpicia*  at  public-repository.epoch-net.org/publications/VAST2004/37-44.pdf.
 
-
 ## Garden
 
 Arcos I Public Baths
-
 
 ## Keywords
 
 - {{< keyword "natationes" >}}
 - {{< keyword "caldaria" >}}
 
-
 ## Garden Description
 
 These baths are remarkable for their size (55 x 95 m), symmetry, and inclusion of a large garden. At the back of the grand semicircular entrance hall opened the garden, formerly thought to have been a *natatio*.  On either side then followed a palestra (Fig. 1, P), an apodyterium or changing room (A), a frigidarium (F), and a tepidarium (T). Only the *caldarium* (C) was shared between the sexes.  The semicircular wall at the northeastern end of the garden area goes quite deep into the ground and was presumably part of a swimming pool.  As late as 1994, de Palol thought that most of the central court had been a pool, but subsequent thorough investigation could not find evidence for it except near that wall.  The oldest elements go back to Tiberian times as attested by ceramics near the base of the semicircular wall, constituting the oldest finds in Clunia.  Two further datable extensions  occurred in Flavian and Antonine times.
-
 
 ## Plans
 
 {{< image file="his_tar_clu_arc_pb_fig1.jpg" caption="Plan of the Arcos I baths." credit="Adapted from de Palol, p. 81." alt="" >}}
 
-
 ## Images
 
 {{< image file="his_tar_clu_arc_pb_fig2.jpg" caption="Photo looking north across Arcos I baths." credit="" alt="" >}}
-
 
 ## Dates
 
@@ -104,7 +95,6 @@ Unspecified
 - M.ª Lucas and V. Viñas, *La villa romana de Aguilafuente (Segovia) in Symposium de arqueología romana*, Segovia y la arqueología romana. Publicaciones eventuales 27, Universidad de Barcelona, Barcelona, 1977, pp. 239-255.[(worldcat)](https://search.worldcat.org/title/7180188573)
 
 - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986;  J.G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 355. [(worldcat)](https://search.worldcat.org/title/758189394)
-
 
 ## Places
 

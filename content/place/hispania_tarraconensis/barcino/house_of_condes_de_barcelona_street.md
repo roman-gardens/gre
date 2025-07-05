@@ -32,7 +32,6 @@ There has been little research on the gardens in the Roman settlements in Spain 
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
-
 ## Bibliography
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
@@ -43,16 +42,14 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
-
 ## Location
 
 - [Barcino]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="246343" name="Barcino" >}}
-<!-- before the word description, and -->
+
 ## Garden
 
 House of Condes de Barcelona Street
-
 
 ## Keywords
 
@@ -60,16 +57,13 @@ House of Condes de Barcelona Street
 - {{< keyword "porticoes" >}}
 - {{< keyword "columns" >}}
 
-
 ## Garden Description
 
 Excavations in the late 1940s and 1950s brought to light the remains of an urban house. Among the structures identified was a *peristyle*.  The presence of a fountain and the existence of a dividing screen, or pluteus, caused Balil to assert that the house must have contained gardens. Two *porticos* were identified, a larger one in which six columns were recovered (a) and a smaller one with two *columns* (b).  In the center of the larger portico was an L-shaped nympheum or fountain. A lively mosaic in the southwest corner dates the house to the beginning of the second century. Each porticus may have contained a garden.
 
-
 ## Images
 
 {{< image file="his_tar_bar_hcbs_fig1.jpg" caption="House in Condes de Barcelona Street." credit="Balil Iliana." alt="" >}}
-
 
 ## Dates
 
@@ -78,7 +72,6 @@ Unspecified
 ## Bibliography
 
 - A. Balil Iliana, *Casa y urbanismo en la España antigua*. Casa familiar y vivienda colectiva en la España romana,' in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid, 1972, 113-115. [(worldcat)](https://search.worldcat.org/title/807743135)
-
 
 ## Places
 

@@ -19,7 +19,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 [Syracuse]({{<relref "../..">}})
 
-
 ## Location
 
 - {{< id vocab="Pleiades" id="462503" name="Syracuse" >}}
@@ -32,7 +31,6 @@ PUBLIC GARDEN, Syracuse
 
 <!-- {{< keyword "villae urbanae" >}} -->
 
-
 ## Garden Description
 
 In the Roman period, the clearest evidence for the presence of a formal garden in a public place comes from Syracuse, where an impressive piazza, 175 by 45 meters, was laid out early in the Augustan period on the west side of the third-century B. C. Altar of Hieron (Fig. 2). A U-shaped stoa was erected on three sides, with fourteen columns on the short sides and sixty-four on the long; the Altar itself formed the fourth. Within the area enclosed by this portico, a large rectangular basin was erected in the center, with steps at the corners and a statue base in the middle; a drain led away from the basin westwards under the portico. The open space around the basin was planted systematically with five rows of trees, thirty-two trees in the two outermost rows, and twenty-six in each of the rows interrupted by the pool; there were thus 142 trees (of unknown species) in all (Fig. 3). The arrangement, with its central pool, trees and surrounding porticoes, recalls similar monuments in Campania, such as the Great Palaestra, also of Augustan date, at Pompeii (see Vol. 1, no.), and the Palaestra at Herculaneum (see Vol. 1, no.). The function of the Syracuse square is unknown, but it must have been principally intended as a pleasant park where the townsfolk of Syracuse could stroll, especially, perhaps, when attending events staged in the nearby amphitheater.
@@ -41,7 +39,7 @@ In the Roman period, the clearest evidence for the presence of a formal garden i
 
 ## Plans
 
-<!--{{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}}-->
+<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}} -->
 
 ## Images
 
@@ -51,9 +49,7 @@ In the Roman period, the clearest evidence for the presence of a formal garden i
 
 ## Dates
 
-
 ## Bibliography
-
 
 G. V. Gentili, Notizie degli Scavi 1954, pp. 333–61 [(worldcat)](https://cornell.on.worldcat.org/oclc/1646037);
 

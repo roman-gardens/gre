@@ -41,7 +41,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "puteals" >}}
 - {{< keyword "porticoes" >}}
 
-
 ## Garden Description
 
 A. Over half the depth of the insula was crossed by a long angiportus which led from the Via dell'Abbondonza to an open area (a) past a wide portico. This extensive area was most likely used as a garden having a water basin in the southwest corner for irrigation. The first two columns in the portico, on the east were connected by a wall 2.13 m. high. There was a street entrance (38) on the south side of the garden next to the entrance of house no. 37, the house to which this garden originally belonged. A gutter along the north, east and south edges of the garden conducted the water to the lowest spot in the southeast corner where it emptied into the street.
@@ -56,7 +55,6 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 
 {{< image file="fig.17._viii.v.16_11.17.59.jpg" caption="Fig.17, 11.17.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="fig.18.viii.v.16.38_11.20.59.jpg" caption="Fig.18, 11.20.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
-
 
 ## Places
 

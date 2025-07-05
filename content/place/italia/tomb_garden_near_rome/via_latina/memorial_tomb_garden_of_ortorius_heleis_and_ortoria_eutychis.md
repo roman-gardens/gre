@@ -18,9 +18,7 @@ draft: true
 
 ## Sublocation
 
-
 ## Sublocation Description
-
 
 ## Garden
 

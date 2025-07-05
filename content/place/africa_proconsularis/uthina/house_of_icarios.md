@@ -42,23 +42,20 @@ House of Icarios (Maison d'Icarios)
 This richly decorated house is considered as one of the most remarkable *domus* of Africa (Plan view, Fig.1). Twenty-four Corinthian columns that may have reached 3m high, supported a portico on four sides. On the North, the South and the West, the peristyle is surrounded by rooms and apartments, some with their own colonnaded courtyards paved with mosaics (pseudo-atria). The Eastern portico, because of the declivity of the land was constructed on vaults. It probably opened on the exterior by a colonnade that allowed the visitor to admire the sea, the mountains and the valley of Oued Zaghouan. A small wooden fence enclosed the garden except in front of the vestibule and the *oecus*, from the vestibule one could traverse the garden and enter the *oecus*, without having to use the porticoes. At a later phase these entries were closed by a basin and cistern. The garden had in its center a rectangular basin, of which only the foundation was found.
 
 
-<!--## Maps-->
-
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="House_of_Icarios_Uthina2.jpg" caption="Fig.1: Plan of the House of Icarios" credit="(Gauckler, P., 1896, fig.1)" alt="" >}}
 
 
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 
 2nd-3rd century CE
 
 ## Bibliography
-
 
 * Ben Hassen, H., Maurin, L., *Oudna (Uthina) La découverte d'une ville antique de Tunisie*, Paris, 1998.[(worldcat)](https://search.worldcat.org/title/492084212)
 * Ben Mansour, S., "Les mosaïques in situ de la maison d'Ikarios (dite des Laberii) à Uthina", in *Africa* 14, 1996, pp. 113-31.[(worldcat)](https://search.worldcat.org/title/949260343)

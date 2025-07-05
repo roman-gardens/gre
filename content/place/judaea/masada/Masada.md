@@ -30,7 +30,6 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 
 Masada, originally a Hasmonean defensive post, was the refuge for Herod's family during the journey to Rome that led to his kingship. They nearly perished of thirst, but the winter rains arrived to fill the cisterns at the last possible moment. (Josephus, Jewish Antiquities XIV. 358-60; 391) Once Herod consolidated his power, he turned this barren desert mountaintop into a luxurious oasis palace overlooking the Dead Sea (Josephus Jewish War VII, 289-291.) (Fig. 1)  The site is more famous as the last stand of the Zealots during the Jewish Revolt of AD 66 and remains of Roman forts surround the palace on the lower slopes and valley floor.
 
-
 ## Garden
 
 Royal Garden
@@ -49,7 +48,6 @@ The Northern or Hanging Palace, the latest of Herod's constructions on the site,
 
 <!--
 ## Maps
-
 
 -->
 
@@ -72,7 +70,6 @@ The Northern or Hanging Palace, the latest of Herod's constructions on the site,
 * E. Netzer, Masada V:  The Architecture and Stratigraphy.  Jerusalem:  Israel Exploration Society, 1994 [worldcat](https://search.worldcat.org/title/311674028)
 * E. Netzer The Palaces of the Hasmoneans and Herod the Great, Jerusalem: The Israel Exploration Society, 1999, 98-107 [(worldcat)](https://search.worldcat.org/title/1089147869)
 * G. Kathryn L. "The Landscape Palaces of Herod the Great." Near Eastern Archaeology, 77.2 (2014): 76-97. [worldcat](https://search.worldcat.org/title/5856461866)
-
 
 ## Places
 

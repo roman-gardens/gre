@@ -31,11 +31,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [House B, Les Villégiales, quarter of the Benedictines](#)
 
-
 ## House
 
 House B, Les Villégiales, quarter of the Benedictines
-
 
 ## Keywords
 
@@ -43,7 +41,6 @@ House B, Les Villégiales, quarter of the Benedictines
 - {{< keyword "reception rooms" >}}
 - {{< keyword "ditches" >}}
 - {{< keyword "water wells" >}}
-
 
 ## House Description
 
@@ -55,20 +52,16 @@ The site had not been disturbed, whence the good state of preservation of the po
 
 At the south of the garden there is a well which may have supplied the house before the connection to city water was installed; it could also have been used to water the garden. The absence of ceramic material in the ditches makes precise dating of them impossible, but the general context suggests a date in the first century A.D. for the establishment of the garden. A dump dug in the garden allows dating of one of the principal phases of occupation of the building to A.D. 60 to 90.
 
-
 ## Plans
-
 
 {{< image file="house_b_les_villegiales_quarter_of_the_benedictines_1.png" caption="Fig. 1 Plan of House B, Les Villégiales, quarter of the Benedictines" credit="" alt="Plan of House B, Les Villégiales, quarter of the Benedictines" >}}
 
 {{< image file="house_b_les_villegiales_quarter_of_the_benedictines_2.png" caption="Fig. 2 Plan of House B, Les Villégiales, quarter of the Benedictines" credit="" alt="Plan of House B, Les Villégiales, quarter of the Benedictines" >}}
 
-
 ## Dates
 
 A.D. 1-100 Built
 A.D. 60-90 One of the principal phases of occupation
-
 
 ## Bibliography
 

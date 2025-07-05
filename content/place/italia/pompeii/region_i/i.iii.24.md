@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -59,7 +58,6 @@ At the rear of the house, excavated in 1868, there was a [peristyle](http://voca
 * Schefold, n.d. *WandP*, p. 13
 * Sogliano, A., 1879. *Le pitture murali campane scoverte negli anni 1867-79. Napoli: Giannini*, p. 225, no. 705
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://search.worldcat.org/title/974375313), nos. 54
-
 
 ## Places
 

@@ -33,7 +33,6 @@ Aphrodisias (*Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis*), in Ca
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-
 ## Garden
 
 Place of the Palms (South Agora)
@@ -61,7 +60,6 @@ Place of the Palms (South Agora)
 {{< image file="place-of-palms-1.jpg" caption="Place of Palms, South Agora, 1st century A.D (Courtesy R.R.R. Smith et al.-The Mica and Ahmet Ertegün South Agora Pool Project)" credit="" alt="View of the South Agora, also known as the Place of the Palms, Courtesy- R.R.R. Smith et al.-The Mica and Ahmet Ertegün South Agora Pool Project" >}}
 
 {{< image file="place-of-palms-2.jpg" caption="South Agora – Place of Palms (looking west). Conservation rig over pool perimeter at south-east corner." credit="Courtesy R.R.R. Smith et al., 2018." alt="South Agora looking west, having a conservation rig over pool perimeter at south-east corner of the image" >}}
-
 
 ## Dates
 

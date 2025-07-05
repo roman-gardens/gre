@@ -36,7 +36,7 @@ Sanctuary of Hyernetho
 
 According to local legend, the Argive maiden, Hyrnetho, died in an ancestral struggle and was buried on this site [(Pausanias, 2.28.6-7)](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.28).  The sanctuary lay in the midst of a grove of wild olive trees.  Established law, even in Roman times, forbade anyone to remove broken branches of these olives or any other trees in the grove.
 
-<!--## Maps
+<!-- ## Maps
 
 ## Plans
 

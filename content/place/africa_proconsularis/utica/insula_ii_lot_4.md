@@ -30,20 +30,18 @@ Insula II, lot 4
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 
-
 ## Garden Description
 
 The peristyle courtyard is destroyed today, but there is soil in it (View plan, Fig.1). It may have been originally planted.
 
 
-<!--## Maps-->
-
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="AFR_Uti_I_Wjashemski1.jpg" caption="Fig.1: Plan of the of the peristyle, Insula II, lot 4 (CMT, plans 8)." credit="" alt="Fig.1: Plan of the of the peristyle, Insula II, lot 4." >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

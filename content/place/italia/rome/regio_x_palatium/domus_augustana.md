@@ -27,7 +27,6 @@ draft: false
 - [Palatine]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
-
 ## Garden
 
 Garden of the Domus Augustana, Palatine
@@ -51,7 +50,6 @@ Garden of the Domus Augustana, Palatine
 - {{< keyword "temples" >}}
 - {{< keyword "terraces" >}}
 
-
 ## Garden Description
 
 LOWER PERISTYLE
@@ -73,7 +71,6 @@ RELATED PHASES ON THE PALATINE:
 - [Garden of the Domus Flavia (E)]({{<relref"Domus_flavia">}})\
 - [Garden of the Palatine Stadium (H)]({{<relref"palatine_stadium">}})\
 - [Garden of the Severan Complex (I)]({{<relref"severan_complex">}})
-
 
 ## Figures
 

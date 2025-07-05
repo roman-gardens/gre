@@ -19,7 +19,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 [Palermo]({{<relref "../..">}})
 
-
 ## Location
 
 - {{< id vocab="Pleiades" id="462410" name="Palermo" >}}
@@ -32,7 +31,6 @@ House A, Piazza della Vittoria
 
 <!-- {{< keyword "villae urbanae" >}} -->
 
-
 ## Garden Description
 
 There is a rectangular tank or fountain set against the rear wall of a small internal court (Fig. 5) in this almost totally unexcavated house, which lies back to back with the house containing garden 4.
@@ -41,14 +39,13 @@ There is a rectangular tank or fountain set against the rear wall of a small int
 
 ## Plans
 
-<!--{{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}}-->
+<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}} -->
 
 ## Images
 
 {{< image file="figure5.jpg" caption="Fig. 5  Palermo, Piazza della Vittoria, plans of houses A, B and C" credit="" alt="" >}}
 
 ## Dates
-
 
 ## Bibliography
 

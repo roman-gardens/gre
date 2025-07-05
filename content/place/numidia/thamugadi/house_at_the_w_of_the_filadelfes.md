@@ -31,7 +31,6 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 
 Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.
 
-
 ## Garden
 
 House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)
@@ -40,7 +39,6 @@ House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)
 
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "domus" >}}
-
 
 ## Garden Description
 
@@ -63,7 +61,6 @@ This large house (2500m2) was laid out around two peristyles. The E peristyle ha
 * Ballu A., *Rapport* 1923, p. 45-47: plan dépliant. [(worldcat)](https://search.worldcat.org/title/494571409)
 * Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
 * Germain, S. *Les mosaïques de Timgad*, Paris, 1969, p. 81, fig. 10. [(worldcat)](https://search.worldcat.org/title/643640586)
-
 
 ## Places
 

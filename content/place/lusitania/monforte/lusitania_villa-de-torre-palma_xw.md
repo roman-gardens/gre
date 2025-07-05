@@ -62,8 +62,7 @@ The third phase distinguished by Maloney and Hale covered several building campa
 
 {{< image file="HIS LUS_Torre de Palma_photo_CA fig5.jpg" caption="Fig. 5: Photo of the peristyle seen from northwest corner." credit="" alt="" >}}
 
-<!--## Dates-->
-
+<!-- ## Dates -->
 
 ## Bibliography
 

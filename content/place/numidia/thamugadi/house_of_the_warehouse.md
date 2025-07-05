@@ -64,7 +64,6 @@ Unspecified
 * Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
 * Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 88, fig. 12. [(worldcat)](https://search.worldcat.org/title/643640586)
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}

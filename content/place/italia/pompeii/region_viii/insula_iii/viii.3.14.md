@@ -67,7 +67,6 @@ A large aedicula shrine was built against the rear wall of this long garden (a) 
 
 Unspecified
 
-
 ## Bibliography
 
 * Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 75, nos. 350, 351 [(worldcat)](https://search.worldcat.org/title/1131425884)

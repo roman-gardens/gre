@@ -19,7 +19,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 [Taormina]({{<relref "../..">}})
 
-
 ## Location
 
 - {{< id vocab="Pleiades" id="462506" name="Syracuse" >}}
@@ -32,7 +31,6 @@ Villa at Patti Marina
 
 <!-- {{< keyword "villae urbanae" >}} -->
 
-
 ## Garden Description
 
 In private housing at this site on the east coast no excavation has so far been attempted to reveal the presence of gardens, and little is known of the arrangements for running water in houses to irrigate such gardens or to supply ornamental pools and fountains.  This town house has a small rectangular pool with a small semicircular recess (Farrar Type B) at the south end of the garden peristyle, facing what was presumably the principal dining room at the south end of the house. The precise date is uncertain.
@@ -41,12 +39,11 @@ In private housing at this site on the east coast no excavation has so far been 
 
 ## Plans
 
-<!--{{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}}-->
+<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}} -->
 
 ## Images
 
 ## Dates
-
 
 ## Bibliography
 

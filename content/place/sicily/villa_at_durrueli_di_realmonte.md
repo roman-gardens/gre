@@ -19,7 +19,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 [Agrigento]({{<relref "../..">}})
 
-
 ## Location
 
 [Durrueli di Realmonte](https://pleiades.stoa.org/places/462188/)
@@ -32,32 +31,27 @@ Villa at Durrueli di Realmonte
 
 <!-- {{< keyword "villae urbanae" >}} -->
 
-
 ## Garden Description
 
 There is a small semicircular basin (Farrar Type E) inserted in a secondary period in the north edge of the peristyle, facing the principal marble-paved reception or dining-room of the north wing (Fig. 10). The basin has marble wall-veneer and plain tessellation on its floor (Fig 11). This arrangement at Durrueli may have been influenced by North African fashion, where the demi-lune basin is especially common.
-
 
 ## Maps
 
 ## Plans
 
-<!--{{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}}-->
+<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}} -->
 
 ## Images
 
 {{< image file="figure10.png" caption="Fig. 10 Durrueli di Realmonte, plan of Roman villa" credit="" alt="" >}}
 
-
 ## Dates
-
 
 ## Bibliography
 
 R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 198–9  with figs 164 and 165.2.[(worldcat)](https://search.worldcat.org/title/608028740)
 
 M. Aoyagi, Ripresa eegli scavi nella villa romana di Realmonte, Kokalos 26–27 (1980–81):  668–73 [(worldcat)](https://search.worldcat.org/title/186378054)
-
 
 ## Places
 

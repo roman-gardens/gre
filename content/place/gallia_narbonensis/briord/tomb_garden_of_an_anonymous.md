@@ -17,7 +17,6 @@ draft: true
 
 <!-- ## Province Description -->
 
-
 ## Location
 
 - [BRIORD]({{<relref ".">}})
@@ -26,7 +25,6 @@ draft: true
 ## Location Description
 
 ## Sublocation
-
 
 ## Garden
 
@@ -46,13 +44,11 @@ Three fragments of a large funerary inscription found in the seventeenth century
 
 None Available
 
-
 ## Images
 
 None Available
 
 ## Dates
-
 
 ## Bibliography
 

@@ -12,15 +12,14 @@ draft: true
 
 ## Province
 
-<!--- Content of Province heading --->
+<!-- - Content of Province heading - -->
 
-<!--## Province Description-->
+<!-- ## Province Description -->
 
 ## Garden
 
 <!-- List of gardens in province -->
 <!-- May be left blank for now -->
-
 
 ## Dates
 

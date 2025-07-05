@@ -64,7 +64,6 @@ After Alexandra's death, during the period from 67-32, a large swimming pool (20
 
 {{< image file="ASIA_JUD_JERICHO_5.jpg" caption="Figure 3:Plan of the later Hasmonean palaces and their gardens. Light gray shading indicates gardens, dark gray shading indicates pools" credit="(Gleason after Netzer 2001a: Plan 8)" alt="" >}}
 
-
 ## Images
 
 {{< image file="ASIA_JUD_JERICHO_6.jpg" caption="Figure 4: Axonometric reconstruction of the Hasmonean palace  prior to the earthquake of 32 BCE." credit="(Netzer 1999)." alt="Figure 4: Axonometric reconstruction of the Hasmonean palace  prior to the earthquake of 32 BCE. (Netzer 1999)" >}}

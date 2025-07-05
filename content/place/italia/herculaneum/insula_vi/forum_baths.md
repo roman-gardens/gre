@@ -17,12 +17,10 @@ draft: true
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
-
 ## Location
 
 - [Herculaneum]({{<relref "..">}}) \
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-
 
 ## Location Description
 
@@ -45,7 +43,6 @@ Forum Baths
 - {{< keyword "palaestrae" >}}
 - {{< keyword "porticoes" >}}
 
-
 ## Garden Description
 
 555.VI.1/7/8/10.
@@ -55,12 +52,10 @@ During 1873-1875 the courtyard (a) of the *palaestra* was excavated. A section o
 
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
 
 ## Dates
 

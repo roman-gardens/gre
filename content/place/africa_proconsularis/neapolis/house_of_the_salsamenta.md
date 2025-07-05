@@ -20,7 +20,6 @@ draft: true
 
 The city of Neapolis that bears a Greek name meaning the "new city", is located on the south coast of Cap Bon at 60 km from Carthage. The municipal history of the city is not well known. Scholars disagree as to the foundation date of the colony some think it became *colonia Iulia* with Cesar and others think that it was elevated to the rank of colony by Augustus.
 
-
 ## Garden
 
 House of the Salsamenta (Usine de salaison)
@@ -34,13 +33,11 @@ House of the Salsamenta (Usine de salaison)
 - {{< keyword "fish-processing centers" >}}
 - {{< keyword "semicircular basin" >}}
 
-
 ## Garden Description
 
 A fish-curing factory (*salsamenta*) located to the SE of the Nymfarum domus was renovated between the IInd and the IIIrd centuries. Among the changes made was the design of a small house organized around a small peristyle garden (4 x 4 m.) (XXII) and bound by a low wall that curved to make a semi-circular basin (Plan view, Fig.1; ).
 
 During the second half of the IVth century, with the abandonment of the industrial unit, the residential area was enlarged and a second semi-circular basin was added in the garden.
-
 
 ## Maps
 
@@ -62,7 +59,6 @@ During the second half of the IVth century, with the abandonment of the industri
 
 {{< image file="afr_nea_hs_amalek_fig5.jpg" caption="Fig. 5: Photos of the House of the Salsamenta site." credit="" alt="Photos of the House of the Salsamenta site at Neapolis">}}
 
-
 ## Dates
 
 Unspecified
@@ -71,7 +67,6 @@ Unspecified
 
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 183-184. [(worldcat)](https://search.worldcat.org/title/989088620)
 * Slim, L., Bonifay, M., Trousset, P. and al., "L'usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998", in *Africa* XVII, 1999, pp. 159-161, fig. 6, 7. [(worldcat)](https://search.worldcat.org/title/949242827)
-
 
 ## Places
 

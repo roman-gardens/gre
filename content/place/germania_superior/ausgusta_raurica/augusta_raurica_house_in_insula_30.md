@@ -25,7 +25,6 @@ House in Insula 30 in Augusta Raurica
 
 ## Keywords
 
-
 - {{< keyword "colonnades" >}}
 - {{< keyword "corridors" >}}
 - {{< keyword "insulae" >}}

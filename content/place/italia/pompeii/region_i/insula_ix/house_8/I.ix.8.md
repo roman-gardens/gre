@@ -20,7 +20,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-
 ## Insula
 
 [Insula IX]({{<relref "..">}})
@@ -43,7 +42,7 @@ I.ix.8
 
 The garden (a) and cistern that was in the southwest corner of this house had been paved over by A.D. 79. There was a *puteal* in the courtyard.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
@@ -51,15 +50,13 @@ The garden (a) and cistern that was in the southwest corner of this house had be
 
 {{< image file="../region-i-insula-ix.png" caption="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44" credit="" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." >}}
 
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 
 unspecified - 70 CE
 
 ## Excavation Date
-
 
 ## Bibliography
 

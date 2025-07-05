@@ -31,11 +31,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Saint-Pierre, House or Public Building](#)
 
-
 ## House
 
 Saint-Pierre, House or Public Building
-
 
 ## Keywords
 
@@ -43,23 +41,17 @@ Saint-Pierre, House or Public Building
 - {{< keyword "mosaics" >}}
 - {{< keyword "porticoes" >}}
 
-
 ## House Description
-
 
 Excavations in 1964-1969 on the site of the former [or ancient] church of St. Peter brought partially to light a building with an area of about 1200 sq m.  It was constructed towards the end of the first or beginning of the second century, but it is unclear whether it was public or private.
 
 The western wing, of which 30 m is known, has rooms richly decorated with marble plaques, painted surfaces, and white mosaics. It borders a courtyard organized around a rectangular pool. The large room [1] (10.2 x 8 m) is centered on this pool and opens onto a portico with mosaics [5] 3.30 m wide. Against the portico, in the axis of the room [1] was placed a small, almost square pool, 2.40 x 2.6 m.  A second pool, dug into the ground of courtyard, measures 8.30 x 12 m. Its walls and surroundings are made of large, rectangular limestone blocks. The limits of the space decorated by this pool are not known.
 
-
 ## Plans
-
 
 {{< image file="saint_pierre_house_or_public_building.png" caption="Fig.1 Plan of Saint-Pierre, House or Public Building" credit="" alt="Plan of Saint-Pierre, House or Public Building" >}}
 
-
 ## Dates
-
 
 ## Bibliography
 

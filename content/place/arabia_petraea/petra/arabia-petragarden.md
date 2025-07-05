@@ -29,7 +29,6 @@ Southern Terrace
 
 The Southern Terrace is a series of monumental built terraces constructed along the Colonnaded Street on the southern slope of Wadi Musa, which bisects the city center of Petra. In the early 20th century, prior to the onset of archaeological excavations, the major components of the Southern Terrace were assigned the names (from west to east) the "Great Temple", the "Lower Market", the "Middle Market," and "Upper Market." The "Lower Market" has since been identified as a garden and pool complex and the author proposes that it is one component of a large palatial complex that occupied the entirety of the Southern Terrace and dominated the City Center (Figs. 2 and 5).
 
-
 ## Garden
 
 Petra Garden and Pool Complex
@@ -239,7 +238,6 @@ tbody tr:last-child {
 |   *Viola* sp.                    |   0 |   0 |   1 |   1 |   0 |   0 |
 | Unidentified seeds               |  10 |  19 |  35 |  15 |  10 |  11 |
 | TOTALS                           |  61 | 274 | 389 | 613 |  60 |  57 |
-
 
 ## Dates
 

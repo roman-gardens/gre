@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -32,7 +31,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 ## Insula
 
 [Insula V]({{<relref "#">}})
-
 
 ## Garden
 
@@ -48,16 +46,15 @@ Hospitium garden, possibly planted in antiquity.
 
 This site had been destroyed in antiquity and probably had been a *hospitium*. Excavated in 1874, the remains of a watering [trough](http://vocab.getty.edu/page/aat/300220971) for animals and a [stable](http://vocab.getty.edu/page/aat/300005015) were uncovered. Often demolished sites were planted but it could not be determined if there was vegetation present at the time of the eruption. The west wall contained an arched [lararium](http://vocab.getty.edu/page/aat/300400600) niche.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
-<!--## Plans
+<!-- ## Plans
 
 {{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
 
 {{< image file="../region-i-insula-v.png" caption="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, \"*Topografia*,\" pl. 10" credit="" alt="" >}}
 
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 

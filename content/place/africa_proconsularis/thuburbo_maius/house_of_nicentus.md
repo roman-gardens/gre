@@ -57,7 +57,6 @@ It was laid out around a peristyle garden (VI-X) of 12 columns (Plan view, Fig. 
 * Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](https://search.worldcat.org/title/20058336)
 *  Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.221-223. [(worldcat)](https://search.worldcat.org/title/989088620)
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="315220" name="Thuburbo Maius" >}}

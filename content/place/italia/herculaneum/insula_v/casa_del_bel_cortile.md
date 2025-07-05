@@ -17,12 +17,10 @@ draft: true
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
-
 ## Location
 
 - [Herculaneum]({{<relref "..">}}) \
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-
 
 ## Location Description
 
@@ -44,12 +42,11 @@ Casa del bel Cortile
 
 None
 
-
 ## Garden Description
 
 Appendix II. 110.V.8.
 The illusion of a gardentrellis was created in this house withno garden by painting the archway under a flight of stairs in the courtyard with climbing vines and flowering oleanders
-<!--## Maps-->
+<!-- ## Maps -->
 
 
 <!-- the following images are not in gre-images...insula_v -->
@@ -59,7 +56,6 @@ The illusion of a gardentrellis was created in this house withno garden by paint
 {{< image file="h_3_3-17.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 {{< image file="h_3_1-2_18-19.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
-
 
 ## Images
 
@@ -71,7 +67,6 @@ The illusion of a gardentrellis was created in this house withno garden by paint
 
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
 
 ## Dates
 

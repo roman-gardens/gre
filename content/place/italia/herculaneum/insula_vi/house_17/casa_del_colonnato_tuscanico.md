@@ -17,7 +17,6 @@ draft: false
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
-
 ## Location
 
 - [Herculaneum]({{<relref "../..">}})
@@ -26,7 +25,6 @@ draft: false
 ## Location Description
 
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
-
 
 ## Insula
 
@@ -40,12 +38,10 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 
 Casa del Colonnato Tuscanico
 
-
 ## Keywords
 
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "porticoes" >}}
-
 
 ## Garden Description
 
@@ -55,7 +51,6 @@ This house with an L-shaped floor plan had a peristyle garden (a) at the junctur
 
 {{< image file="herculaneum_vi_17.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="" >}}
 {{< image file="h_6_11-19_25-26-a.jpg" caption="Herculaneum VI.11-19,25-26-Case del Colonnato Tuscanico" credit="" alt="" >}}
-
 
 ## Places
 

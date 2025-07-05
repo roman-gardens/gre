@@ -33,33 +33,26 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Sublocation Description
 
-
 <!-- DESCRIPTION -->
 
 ## Garden
 
-
 La Plaine, House B under the High School
-
 
 ## Keywords
 
-
 ## Garden Description
 
-
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
-
 
 {{< image file="house_b_under_the_high_school.png" caption="Plan of La Plaine, House B under the High School" credit="" alt="Plan of House B under the High School" >}}
 
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
-
 
 ## Bibliography
 
@@ -74,7 +67,6 @@ La Plaine, House B under the High School
 4. M. Leglay, "Les jardins à Vienne," in *Seventh Dumbarton Oaks Colloquium on the History of Landscape Architecture, Ancient Roman Gardens*, Washington, 1981, P. 57-58.[worldcat](#)
 
 5. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 275-277, Fig. 195.[worldcat](https://search.worldcat.org/title/43416334)
-
 
 ## Places
 

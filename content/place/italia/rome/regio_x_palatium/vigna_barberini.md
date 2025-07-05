@@ -27,7 +27,6 @@ draft: false
 - [Palatine]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
-
 ## Garden
 
 Vigna Barberini Site Overview, Palatine
@@ -38,7 +37,6 @@ Vigna Barberini Site Overview, Palatine
 - {{< keyword "palaces" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "temples" >}}
-
 
 ## Garden Description
 

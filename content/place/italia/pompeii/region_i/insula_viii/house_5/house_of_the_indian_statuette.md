@@ -20,7 +20,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-
 ## Insula
 
 [Insula VIII]({{<relref "..">}})
@@ -48,7 +47,7 @@ House of the Indian Statuette (I.viii.5)
 
 A *portico* enclosed this garden (a) on the north, east and south sides, and the *portico* on the west had been closed to create rooms. These enclosed columns can be observed incorporated into the wall but only one of the other columns remains standing. The garden was surrounded by a gutter. A small Indian statuette (0.25 m. high) was found in the adjacent shop and it is believed to have been stored in a wooden chest in one of the rooms off the *portico* with other domestic items. It had tumbled into the shop when the southwest corner of the *peristyle* collapsed.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
@@ -56,14 +55,13 @@ A *portico* enclosed this garden (a) on the north, east and south sides, and the
 
 {{< image file="../region-i-insula-8.jpg" caption="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach" credit="" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 
 unspecified
 
 ## Excavation Date
-
 
 ## Bibliography
 

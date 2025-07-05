@@ -18,7 +18,6 @@ draft: false
 
 Nabataean Hawara (Auara) was founded by king [Aretas III](https://en.wikipedia.org/wiki/Aretas_III) in the early first century BCE as a trading post along the [King's Highway](https://en.wikipedia.org/wiki/King%27s_Highway_(ancient)), midway between the Nabataean capital, [Petra](https://pleiades.stoa.org/places/697725), and the port town of [Aila](https://en.wikipedia.org/wiki/Aqaba#Classical_antiquity) on the Gulf of Aqaba (Fig. 1). In the early 2nd century CE, under Roman occupation, a fort was erected at the site (Roman Hauarra/Havarra) due to its strategic position on the major trade highway that was rebuilt as the [*Via Nova Traiana*](https://en.wikipedia.org/wiki/Via_Traiana_Nova). Associated with the fort was a small town with a bathhouse and a community shrine. The modern name for the site is [Humayma](https://en.wikipedia.org/wiki/Humeima).
 
-
 ## Garden
 
 Shrine Complex in Insula E125
@@ -50,7 +49,6 @@ A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely dam
 
 {{< image file="3_hauarra_model.jpg" caption="Fig. 3: Shrine Complex in Insula E125 (Reconstruction by C. Kanellopoulos and P. Konstandopoulos)" credit="" alt="View down a paved path towards a small building" >}}
 
-
 ## Dates
 
 1st century CE, mid-2nd to 3rd century CE
@@ -59,7 +57,6 @@ A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely dam
 
 - Oleson, J. P., M. B. Reeves, G. S. Baker, E. de Bruijn, Y. Gerber, M. Nikolic, and A. N. Sherwood. 2008. "Preliminary Report on Excavations at Al-Humayma, Ancient Hawara, 2004 and 2005." *Annual of  the Department of  Antiquities of Jordan* 52: 309–42. [(Stable URL)](http://publication.doa.gov.jo/Publications/ViewChapterPublic/326).
 - Reeves, M. B. 2019. "A Nabataean and Roman Shrine with Civic and Military Gods at Humayma, Jordan." *Arabian Archaeology & Epigraphy* 30 (1): 134–55. [(DOI)](https://doi.org/10.1111/aae.12121).
-
 
 ## Places
 

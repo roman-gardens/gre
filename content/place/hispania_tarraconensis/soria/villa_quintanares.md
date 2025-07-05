@@ -46,8 +46,7 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 
 ## Images
 
-<!--## Dates-->
-
+<!-- ## Dates -->
 
 ## Bibliography
 

@@ -35,13 +35,13 @@ In Insula 16 East, northeast of the forum, were small shops and houses belonging
 
 In the middle of the insula was a large peristyle courtyard which may have been planted (G in Fig. 1). In the southwestern part of the building complex taverns and shops opened onto the colonnaded street.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="EUR_GS_AugRau_Hi16_carroll.jpg" caption="Fig. 1: Plan of the house with a possible peristyle garden (G) in Insula 16." credit="Adapted from McKay 1986, fig. 186." alt="" >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

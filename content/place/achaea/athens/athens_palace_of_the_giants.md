@@ -42,13 +42,13 @@ A large complex of the early 5th century A.D. in the southern part of the Agora 
 It is possible that a garden might have been present in one of the inner courtyards of the building, especially since the complex was directly supplied by sufficient water from a late Roman aqueduct.  The smallest of the courtyards (7 x 7 m.), the southeast court, was paved with terracotta tiles and cannot, therefore, have been planted, but the central courtyard seems not to have been paved (G on plan).  The building stood on a plot of land of irregular shape that was enclosed within a boundary wall.  This has been reconstructed as an informal garden area (G on plan), although no traces of plantings have survived.  The complex was abandoned by ca. 530 A.D.
 
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="giants.jpg" caption="Fig. 1: Plan of the so-called \"Palace of the Giants\" (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the \"Palace.\"" credit="Adapted from Camp 1986, p. 200, fig. 166." alt="building plan with possible gardens marked, dotted lines for the outlines of earlier buildings." >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

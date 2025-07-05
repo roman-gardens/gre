@@ -21,7 +21,6 @@ draft: false
 Judaea, the Roman province, included parts of the areas of the [Hasmonean](https://en.wikipedia.org/wiki/Hasmonean_dynasty) and [Herodian](https://en.wikipedia.org/wiki/Herodian_dynasty) kingdoms, notably Biblical Judah, Samaria, and Edom. Its capital was Caesarea Maritima. Roman influence in the region began in 63 CE, when the Roman general [Pompey the Great](https://en.wikipedia.org/wiki/Pompey) conquered Syria from Mithridates of Pontus, besieged Jerusalem, and captured the Second Temple; he appointed Hyrcanus, one of the two Hasmonean brothers fighting for kingship, as ethnarch of Judaea. Later, Julius Caesar  appointed [Antipater](https://en.wikipedia.org/wiki/Antipater_the_Idumaean), the father of Herod, as  Judaea's first Roman Procurator. Later these ties allowed [Herod](https://en.wikipedia.org/wiki/Herod_the_Great) to seek backing from Rome against the Hasmoneans in 40 BCE, when the Senate recognized him as "king of the Jews."  His [territories](https://en.wikipedia.org/wiki/Herodian_Kingdom_of_Judea) came to include the regions of Galilee, Gaulanitis (the Golan),Peraea and the Decapolis, and Augustus later granted him the coastal cities, Batanaea, Auranitis, and Trachonitis. Herod balanced his allegiance to Rome with the independence of his kingdom, often employing architectural projects to express his ambitions and control of nature to express his capacity to rule . His many palaces, placed strategically around the kingdom, feature dramatically designed landscapes and gardens.  Upon his death, his son and heir Archelaus was unable to maintain order and the major part of Judaea was annexed to Syria in 6 CE, with its own prefect, while two other sons of Herod, Philip and Antipas, received territories as tetrarchs. By the time of [Trajan](https://en.wikipedia.org/wiki/Trajan), Judea was reduced in size and many of the Herodian palaces abandoned, preserving them over the millennia for archaeologists. [Hadrian](https://en.wikipedia.org/wiki/Hadrian) renamed the province  After the [Bar Kochba revolts (132-135)](https://en.wikipedia.org/wiki/Bar_Kokhba_revolt)Hadrian renamed the province Syria Palaestina, erasing the name of Judaea.
 The geography of Judaea comprises a wide variety of biomes, from richly watered plains of the Galilee and the Jordan, to the semi-arid Judean Hills, the humid, fertile coastal plain of the Mediterranean, and the deserts of the Dead Sea valley and the Negev. The period for which we have the richest evidence of a garden culture in this region is during the reign of [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great).  An allied king of Rome, Herod's relationships with [Mark Antony](https://en.wikipedia.org/wiki/Mark_Antony), [Cleopatra](https://en.wikipedia.org/wiki/Cleopatra), [Augustus](https://en.wikipedia.org/wiki/Augustus), and [Marcus Agrippa](https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa) and other officials ave been preserved in the texts of [Flavius Josephus](https://en.wikipedia.org/wiki/Josephus).  These constitute a rare record of interactions between Rome and its territories, and provide a valuable context for understanding the trends of design in the early imperial period.  The proximity of Judaea to Alexandria, whose palaces and gardens lie beneath the modern city and its harbors, may also provide a suggestion of the late Hellenistic garden culture that Romans emulated.  Evidence of gardens in the Hasmonean winter palaces at Jericho and the palace identified as that of Hyracanus the Tobiad at 'Iraq al-Amir on the other side of the Jordan Valley provide rare cases where texts can illuminate archaeological evidence. These gardens require further investigation and both are threatened by local development.
 
-
 ## Location
 
 - [Macchaerus]({{<relref ".">}})
@@ -34,17 +33,16 @@ Josephus describes the citadel of Machaerus in detail (JB VII, 6) as the locatio
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
-<!--Herodian Entertainment Complex, Third Palace
+<!-- Herodian Entertainment Complex, Third Palace
 
 
 <!--
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 
-
 ## Sublocation Description
 
-The third palace built by Herod in the late first century B.C. merits special mention with regard to the integration of water, gardens and landscape. This palace was sited along a straight section of Wadi Qelt to take advantage of its season flow of water each winter.  This area was, however, lower than those on which the first and second palaces had been built, offering a more limited view of the surroundings.  This shortcoming was offset by the erection of a viewing pavilion on top of an artificial tel.  The overall building complex was rectilinear, with Wadi Qelt cutting through the center, and a bridge spanning the two halves.  On the north side lay a complex of banqueting rooms, Roman style baths, reception rooms, peristyle courtyards and colonnaded walks.  On the south lay a great sunken garden, the artificial tel and pavilion, and, off-axis, a shallow boating pool. (Fig. 6) The garden features are discussed individually below.-->
+The third palace built by Herod in the late first century B.C. merits special mention with regard to the integration of water, gardens and landscape. This palace was sited along a straight section of Wadi Qelt to take advantage of its season flow of water each winter.  This area was, however, lower than those on which the first and second palaces had been built, offering a more limited view of the surroundings.  This shortcoming was offset by the erection of a viewing pavilion on top of an artificial tel.  The overall building complex was rectilinear, with Wadi Qelt cutting through the center, and a bridge spanning the two halves.  On the north side lay a complex of banqueting rooms, Roman style baths, reception rooms, peristyle courtyards and colonnaded walks.  On the south lay a great sunken garden, the artificial tel and pavilion, and, off-axis, a shallow boating pool. (Fig. 6) The garden features are discussed individually below. -->
 
 ## Garden
 
@@ -65,13 +63,11 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 <!--
 ## Maps
 
-{{< image file="FILENAME" caption="" credit="" alt="" >}}-->
-
+{{< image file="FILENAME" caption="" credit="" alt="" >}} -->
 
 ## Plans
 
 {{< image file="ASIA_JUD_MACCHAREUS_1.jpg" caption="Figure 1: Plan of the Herodian places at Macchaerus, the excavated garden is marked with a green rectangle" credit="(Vörös, 2013)." alt="" >}}
-
 
 ## Images
 
@@ -96,7 +92,6 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 
 * Vörös, G, 2020: "The Bema in the Lithostrotos-Gabbatha on the Golgotha of Saint John the Baptist: The Apsidal Judgement-Seat Throne-Niche of Tetrarch Antipas in the Stone-Paved Herodian Royal Peristyle Courtyard of the Fortified Machaerus Mountaintop-Palace Overlooking the Dead Sea in Transjordan," Holy Land Archaeology on Either Side: Archaeological Essays in Honour of Eugenio Alliata, ofm. (SBF Collectio Maior 57), Milano, pp. 99–120.
-
 
 ## Places
 

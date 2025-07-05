@@ -32,7 +32,6 @@ There has been little research on the gardens in the Roman settlements in Spain 
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
-
 ## Bibliography
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
@@ -43,12 +42,10 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
-
 ## Location
 
 - [Col. Tarraco]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="246349" name="Col. Tarraco" >}}
-
 
 ## Location Description
 
@@ -74,17 +71,14 @@ The theater of Tarraco is poorly preserved.  Part of the orchestra, the proscaen
 
 {{< image file="his_tar_tar_theater_fig1.jpg" caption="Fig. 1: Plan of the Tarraco Theater. (No scale or north arrow available.)" credit="" alt="" >}}
 
-
 ## Dates
 
 1st century CE
-
 
 ## Bibliography
 
 * X. Aquilué et al., *Tarraco. Guía arqueológica*. El Medol Guies. Tarragona, 1991 [(worldcat)](https://search.worldcat.org/title/964178067)
 * R. Mar; M. Roca; J. Ruíz de Arbulo, "El teatro romano de tarragona. Un problema pendiente," in *Teatros romanos de Hispania*. Murcia, 1993, 11-23. [(worldcat)](https://search.worldcat.org/title/642299895)
-
 
 ## Places
 

@@ -47,7 +47,6 @@ A. A small garden at the rear of this connected house and [caupona](http://vocab
 
 B. The small garden to the rear of house 4 had an entrance into this large open area (b) which had been planted at the time of the eruption. There was a second entrance (6) from the side street. At the time of excavation a [cistern](http://vocab.getty.edu/page/aat/300052558) was noted in the southwest corner, a basin along the south wall just before the jog, and the presence of seven root cavities. Jashemski found a few other scattered root cavities later, but too much damage had occurred from new growth to determine the original planting plan. At the east end of the north wall a door opened to a small [sacellum](http://vocab.getty.edu/page/aat/300007570) with an aedicula [lararium](http://vocab.getty.edu/page/aat/300400600) on a small podium on the rear wall and a small masonry.
 
-
 ## Dates
 
 1754 to 1757, 1952
@@ -56,7 +55,6 @@ B. The small garden to the rear of house 4 had an entrance into this large open 
 
 - Jashemski, Wilhelmina F, and Stanley A. Jashemski, *The Gardens of Pompeii: Herculaneum and the Villas Destroyed by Vesuvius.* New Rochelle, NY: Caratzas, 1993, pp. 84.
 [worldcat](https://search.worldcat.org/title/769881162)
-
 
 ## Places
 

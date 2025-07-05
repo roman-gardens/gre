@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -41,7 +40,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "porticoes" >}}
 - {{< keyword "tablina" >}}
 
-
 ## Garden
 
 [Peristyle](http://vocab.getty.edu/page/aat/300080971) gardens in the House of Epidius Fortunatus.
@@ -52,7 +50,6 @@ A. On the right of the [tablinum](http://vocab.getty.edu/page/aat/300004180) wer
 
 B. The front of this house excavated in 1869 had an unusual design in that it was set back some distance from the street. The [peristyle](http://vocab.getty.edu/page/aat/300080971) garden was entered at the end of the entranceway at the rear of a long *angiprotus* (alleyway). Rooms of the house were located at the right and rear of the garden. The [peristyle)](http://vocab.getty.edu/page/aat/300080971) had undergone various changes and was supported on the east and north by tall tufa columns. The [portico](http://vocab.getty.edu/page/aat/300004145) roof on the west was supported by two low brick columns and two pilasters surmounted by arches. A low wall enclosed the garden, joining the columns either side of the entrance between the two columns to the west. A terracotta puteal was adjacent to the west wall along with a hearth covered with a small vault decorated with a rough, bearded head supposed to be Vulcan. A large window on the south wall gave a view from the [exedra](http://vocab.getty.edu/page/aat/300081589) into the garden. The east [peristyle](http://vocab.getty.edu/page/aat/300080971)wall contained a [lararium](http://vocab.getty.edu/page/aat/300400600) niche and a gutter ran along the north, east, and west edges of the garden.
 
-
 ## Bibliography
 
 * Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 24, no.22 [(worldcat)](https://search.worldcat.org/title/892026154)
@@ -62,7 +59,6 @@ B. The front of this house excavated in 1869 had an unusual design in that it wa
 * Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 26 [(worldcat)](https://search.worldcat.org/title/222353569)
 * Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 78
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, nos.16-21 [(worldcat)](https://search.worldcat.org/title/974375313)
-
 
 ## Places
 

@@ -17,7 +17,7 @@ draft: true
 [VEIRHERRENBORN (Pleiades)](<!-- none available -->)
 
 
-<!--## Sublocation-->
+<!-- ## Sublocation -->
 
 <!--
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
@@ -42,8 +42,7 @@ The house stood in the middle of a farm complex 75 meters wide and 120 meters lo
 On the west and east, in front of and behind the house, were open *courtyards* enclosed by a wall. The western *courtyard* has been interpreted as a garden (G on plan); the eastern one may have been a *paddock*.
 
 
-<!-- Text comes from draft file-->
-
+<!-- Text comes from draft file -->
 
 ## Maps
 

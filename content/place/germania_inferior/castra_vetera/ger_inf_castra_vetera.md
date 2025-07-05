@@ -38,13 +38,11 @@ The partially excavated eastern villa was 78.50 m. wide and 109 m. in length. It
 
 ## Maps
 
-
 ## Plans
 
 {{< image file="castra_vetera_plan1_EUR_GI_VetCas_Lh_carroll.jpg" caption="Plan 1. Plan of the western *praetorium* in the double legionary base with its long apsidal garden (G)." credit="Adapted from Lehner 1930, fig. 39." alt="" >}}
 
 ## Images
-
 
 ## Dates
 

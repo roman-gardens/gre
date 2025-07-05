@@ -20,7 +20,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-
 ## Insula
 
 [Insula VIII]({{<relref "..">}})
@@ -50,7 +49,7 @@ House of L. Vetutius Placidus and Ascula (at the rear of Themopolium no. 8) (I.v
 
 An entrance to this small garden (a) was made through the east wall. It was located at the rear of the house and there was a *portico* on the north supported by two free standing columns and one engaged, all covered with red stucco and connected by a low wall. Fig. 3. A *pergola* supported by two red columns shaded a masonry *triclinium* built against the east wall. One column stood on the *lectus imus* while the other was on a slate base on the corner of the *lectus imus*. The *pergola* frame was mortised directly into the back wall at the level of the column capitals. The *lectus imus* (2.70 m.), the *lectus medius* (3.00), and the *lectus summus* (2.86 m.) formed an unusual *triclinium* because the *lectus imus* is shorter than the two sides. The *lectus summus* had a *fulcrum* and the table measured 0.82 x 0.48 m. The couches were decorated with polychrome floral and geometric designs and the outsides were coated with yellow plaster. It appears there were large animal paintings on the east wall but little of the plaster remains. Excavation uncovered a round *monopodium* table of marble in the garden.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
@@ -67,7 +66,6 @@ An entrance to this small garden (a) was made through the east wall. It was loca
 unspecified
 
 ## Excavation Date
-
 
 ## Bibliography
 

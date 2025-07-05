@@ -38,13 +38,13 @@ House of the Lucius Verus
 
 The house was laid out around a large persityle garden of twenty-two columns (20 x15.5 m) that had a *euripus* and a semicircular basin facing a large reception room (Plan view, Fig.1)
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="House_Lucius_verus1.jpg" caption="Fig. 1: Plan of the House of Lucius Verus (Afrique dans l'Occident romain, fig. 8)" credit="" alt="Fig. 1: Plan of the House of Lucius Verus." >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 
@@ -58,7 +58,6 @@ The house was laid out around a large persityle garden of twenty-two columns (20
 * Slim, H., "Le modèle urbain romain et le problème de l'eau dans les confins Sahel et de la Basse Steppe", in *Afrique dans l'Occident romain* (1er Siècle av. J.-C.- IV siècls ap. J.-C.) Actes du Colloque, Rome, décembre 1987, Rome, 1990, pp. 190-192. [(worldcat)](https://search.worldcat.org/title/949069985)
 * Slim, H., El Jem, *Ancient Thrysdrus*, Tunis, 1996, pp. 75-76. [(worldcat)](https://search.worldcat.org/title/1091934056)
 * Commission d'Afrique du Nord 2/2/90 *BCTH*. [(worldcat)](https://search.worldcat.org/title/836611377)
-
 
 ## Places
 

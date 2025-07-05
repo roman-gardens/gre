@@ -42,13 +42,13 @@ Recent excavations in Insula 13 on the northwestern edge of the town have uncove
 
 The most remarkable feature of the building was a T-shaped garden courtyard (G in Fig. 1) surrounded by a peristyle on all sides (Fig. 1). A ground line gutter ran around the edge of the courtyard. In the southern part of the garden was a large pool paved with limestone slabs and measuring 6 x 12 meters On the northern edge of the pool was a rectangular fountain. To the north of this was a square structure measuring 5.40 x 5.40 meters which may have been a garden pavilion.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="EUR_GS_AugRau_Hi13_carroll.jpg" caption="Fig. 1: Plan of a courtyard house in Insula 13 with a peristyle garden (G) and pool (grey)." credit="Plan adapted from Carroll 2001, fig. 20." alt="" >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

@@ -51,10 +51,9 @@ The House of Venus, approximately 32 by 37 m and dating to the middle of the thi
 
 On the south side of the house, adjacent to the oecus, two rooms (labels 14 and 15) opened into a courtyard (label 12) adorned with a curvilinear U-shaped pool. The space limited by the pool may have been planted, a tree grows there today.
 
-
 ## Plans
 
-<!--Plan View Image Missing-->
+<!-- Plan View Image Missing -->
 <!-- {{< image file="IMAGEMISSING" caption="Fig. 1: Plan of the House of Venus" credit="" alt="Plan of the House of Venus" >}} -->
 
 ## Images
@@ -72,5 +71,4 @@ Third century CE
 * R. Thouvenot., Maisons de Volubilis: Le palais dit de Gordien et la Maison à la mosaïque de Vénus, Rabat, 1958, p. 49-86, fig. 8, pl. 11. [(worldcat)](https://search.worldcat.org/title/876482067)
 
 ## Places
-
 

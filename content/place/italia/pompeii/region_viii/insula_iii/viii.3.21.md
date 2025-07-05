@@ -56,7 +56,6 @@ This small house had a roofed passageway supported by one column that bordered t
 
 Unspecified
 
-
 ## Bibliography
 
 * Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 76, no. 356 and pl. 3.5 [(worldcat)](https://search.worldcat.org/title/1131425884)

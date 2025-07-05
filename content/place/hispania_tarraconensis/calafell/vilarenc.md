@@ -32,7 +32,6 @@ There has been little research on the gardens in the Roman settlements in Spain 
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
-
 ## Bibliography
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
@@ -43,21 +42,18 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
-
 ## Location
 
 - [Vilarenc]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="789886461" name="Vilarenc" >}}
-<!-- before the word description, and -->
+
 ## Garden
 
 Vilarenc
 
-
 ## Garden Description
 
 The villa dates from the first century BC to the third century AD when it was transformed into a bath complex. It was partially reclaimed as a villa in late Roman and Medieval times. The excavators identified one of the rooms as a garden (Fig. 1, a) because of a fountain at its south side; however, other scholars, such as Fernández Castro, doubt this identification.
-
 
 ## Plans
 
@@ -72,7 +68,6 @@ The villa dates from the first century BC to the third century AD when it was tr
 -  J.G. Gorges, *Les villes hispano-romaines*. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, 410-1 [(worldcat)](https://search.worldcat.org/title/803415143)
 
 -  M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986, 269. [(worldcat)](https://search.worldcat.org/title/879108150)
-
 
 ## Places
 

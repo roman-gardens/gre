@@ -31,7 +31,6 @@ NEEDED - search bibliography for plans.
 
 -->
 
-
 ## Bibliography
 
 * M. Crosby, "The Altar of the Twelve Gods in Athens," *Hesperia Suppl.* 8, Commemorative Studies in Honor of Theodore Leslie Shear. Princeton, 1949, pp. 82-103, 447-450, pl. 11-14. [(JSTOR)](https://www.jstor.org/stable/1353886).

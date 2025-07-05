@@ -17,7 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="108927" name="Divodurum/Mettis" >}}
 
 
-<!--## Sublocation-->
+<!-- ## Sublocation -->
 
 <!--
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
@@ -25,7 +25,6 @@ A sublocation is any area larger than an individual garden, but located within a
 -->
 
 <!-- ## Sublocation Description -->
-
 
 ## Garden
 
@@ -61,7 +60,6 @@ In the fourth century, the villa was in large part ruined; the pools were filled
 
 The Villa de Larry site is an example of the villa of a country estate where the gardens integrated the architecture of the buildings. The art of gardening bore witness to the will of the builders and proprietors to master nature and the plant world, imposing on them harmonious and regular forms with plans inspired by the imperial prototypes of Rome.
 
-
 ## Maps
 
 None Available
@@ -81,7 +79,6 @@ Unspecified
 ## Bibliography
 
 - J.-D. Laffite, A. Bressoud, M. Mondy, A. Lefèbvre, M. Feller, I. Dechanez-Clerc, J.-J. Bigot, É. Rouger, *LIÉHON (Moselle) « Larry » - Aéroport Metz-Nancy Lorraine*, rapport de fouille préventive 2003, INRAP GEN/ SRA DRAC Lorraine, Metz, 2005, 9 vol., 1378 p., 207 figures, 61 plates. [(worldcat)](https://search.worldcat.org/title/20955708)
-
 
 ## Places
 

@@ -34,7 +34,6 @@ House of the Seasons (La maison des Saisons)
 
 This house, known for its majestic and richly decorated *oecus*, is laidout around a peristyle courtyard that was probably planted. The house is dated to the late IVth. early Vth. Century (Plan view, Fig. 1).
 
-
 ## Maps
 
 ## Plans
@@ -54,7 +53,6 @@ This house, known for its majestic and richly decorated *oecus*, is laidout arou
 * Merlin, A., in *BCTH*, 1910, pp. CXCVI-CXCVII. [(worldcat)](https://search.worldcat.org/title/224692325)
 * Parrish, D., "The Mosaic of Xenophon from Sbeitla", in *Mosaïque, Recueil d'hommages à Henri Stern, Paris*, 1982, pp. 297-306, pl. CXCV. 1. [(worldcat)](https://search.worldcat.org/title/10727878)
 * Parrish, D., *The Seasons mosaics of Roman North Africa*, Rome, 1984, pp. 215-218. [(worldcat)](https://search.worldcat.org/title/1022822931)
-
 
 ## Places
 

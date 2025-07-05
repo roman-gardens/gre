@@ -36,17 +36,16 @@ House of Industrius (Maison d'Industrius)
 Located to the Southeast of the amphitheater, this house was laid out around a peristyle garden of 10 columns that connected by a low wall. A semicircular basin extended into the garden on the NE facing the reception room.
 
 
-<!--## Maps-->
-
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="#" caption="Fig.1: Plan of the House of industrius" credit="" alt="" >}}
 
 
-<!--## Images-->
+<!-- ## Images -->
 
-<!--{{< image file="AFR_Uth_Ind_Malek.jpg" caption="Fig. 1: Plan of the House of Industrius." credit="Photo courtesy of Amina-Aïcha Malek." alt="" >}}-->
+<!-- {{< image file="AFR_Uth_Ind_Malek.jpg" caption="Fig. 1: Plan of the House of Industrius." credit="Photo courtesy of Amina-Aïcha Malek." alt="" >}} -->
 
 ## Dates
 
@@ -56,7 +55,6 @@ Unspecified
 
 * Ben Hassen, H., Maurin, L., *Oudna (Uthina) La découverte d'une ville antique de Tunisie*, Paris, 1998.[(worldcat)](https://search.worldcat.org/title/492084212)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.330-332.  [(worldcat)](https://search.worldcat.org/title/989088620)
-
 
 ## Places
 

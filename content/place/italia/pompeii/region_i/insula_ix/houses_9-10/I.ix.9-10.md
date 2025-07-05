@@ -20,7 +20,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-
 ## Insula
 
 [Insula IX]({{<relref "..">}})
@@ -46,7 +45,7 @@ I.ix.9/10
 
 To the rear of this house a raised garden (a), three steps up, had a *portico* on the east. The *portico* was supported by two columns on the east, an engaged column and a pilaster.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
@@ -54,15 +53,13 @@ To the rear of this house a raised garden (a), three steps up, had a *portico* o
 
 {{< image file="../region-i-insula-ix.png" caption="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44" credit="" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." >}}
 
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 
 unspecified
 
 ## Excavation Date
-
 
 ## Bibliography
 

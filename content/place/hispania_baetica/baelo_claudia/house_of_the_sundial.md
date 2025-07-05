@@ -30,15 +30,13 @@ Villa del Cortijo de los Vila
 - {{< keyword "courtyards" >}}
 - {{< keyword "peristyles" >}}
 
-
 ## Garden Description
 
 Located across the colonnaded street from West house was the House of the Sundial.  This house had a rectangular peristyle courtyard with four columns on the long side and three on the shorter side, gutters around the edges, and a well in the center.  According to Sillières, the courtyard was paved in *opus signinum* and thus did not have a garden, though potted plants may have given the appearance of a garden.  Room [19] on the northeast corner of the peristyle was connected to the fish preserving operation just to the north.  Perhaps the occupant of the house ran the fish business.
 
-
 ## Maps
 
-<!--## Plans-->
+<!-- ## Plans -->
 
 ## Images
 
@@ -48,7 +46,6 @@ Located across the colonnaded street from West house was the House of the Sundia
 
 {{< image file="HIS_BAE_Baelo Hs_two houses_Fig3.jpg" caption="Photo of the two port houses, seen looking west. The peristyle of the House of the Sundial is in the left foreground." credit="" alt="" >}}
 
-
 ## Dates
 
 unspecified
@@ -57,7 +54,6 @@ unspecified
 
 * A. Balil Iliana, 'Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana,' *Boletín del Seminario de Estudios de Arte y Arqueología, XXXIX*, Universidad de Valladolid (Valladolid 1973), 138-140.[(worldcat)](https://search.worldcat.org/title/7243478)
 * P. Sillières, M. Fincker, J.M. Labarthe,*Baelo Claudia: une cité romaine de Bètique*, Collection de la Casa de Velázquez 51 (Madrid 1995), 165-170.[(worldcat)](https://search.worldcat.org/title/431871350)
-
 
 ## Places
 

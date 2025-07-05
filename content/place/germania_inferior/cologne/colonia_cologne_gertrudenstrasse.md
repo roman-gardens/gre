@@ -23,7 +23,6 @@ This large town on the west bank of the Rhine river was the *civitas* capital of
 
 Urban house on Gertrudenstrasse (Colonia Claudia Ara Agrippinensium)
 
-
 ## Keywords
 
 - {{< keyword "villae urbanae" >}}

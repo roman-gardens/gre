@@ -17,12 +17,10 @@ draft: true
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
-
 ## Location
 
 - [Herculaneum]({{<relref "..">}}) \
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-
 
 ## Location Description
 
@@ -40,14 +38,12 @@ V
 
 Casa dell'Atrio Corontio
 
-
 ## Keywords
 
 - {{< keyword "impluvia" >}}
 - {{< keyword "atriums" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "viridarium" >}}
-
 
 ## Garden Description
 
@@ -58,12 +54,10 @@ A shallow cruciform-shaped *impluvium* was the central feature in the rectangula
 
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
 
 ## Dates
 

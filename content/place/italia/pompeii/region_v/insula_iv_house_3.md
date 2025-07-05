@@ -21,7 +21,6 @@ draft: true
 <!-- DESCRIPTION -->
 The Italian peninsula extending northward to the Alps as recognized by the Romans.
 
-
 ## Location
 
 - [Pompeii]({{<relref "..">}})
@@ -37,11 +36,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 Region V
 
-
 ## Insula
 
 Insula iv
-
 
 ## House
 
@@ -57,18 +54,16 @@ V.iv.3
 - {{< keyword "gutters" >}}
 - {{< keyword "basins" >}}
 
-
 ## Garden Description
 
 At the rear of this house excavated in 1899 was a courtyard garden (a) with a *portico* on the south. This was supported by one column that was reinforced by a large pillar. The garden was enclosed by a low wall with an opening on the south. A gutter that encircled the edges had a settling basin (0.35 x 0.45 m.; 0.55 m. deep) in the southwest corner. There was no cistern, but a *puteal* stood in the southeast corner.
 
 ## Plans
 
-<!--{{< image file="Euro_GaAq_Montreal_Villa de Séviac.png" caption="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." credit="" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." >}}
+<!-- {{< image file="Euro_GaAq_Montreal_Villa de Séviac.png" caption="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." credit="" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." >}}
 -->
 
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 
@@ -85,7 +80,6 @@ Unspecified
 * Pernice, p. 28.[(worldcat)](https://search.worldcat.org/title/714016975)
 * Sogliano, *NSc* (1899), fig. 1 (plan) on p. 339.[(worldcat)](https://search.worldcat.org/title/1091982220)
 * Sogliano, *NSc* (1901), p.258. [(worldcat)](https://search.worldcat.org/title/1091982220)
-
 
 ## Places
 

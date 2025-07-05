@@ -31,11 +31,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Edifice on St. Antoine's Mound](#)
 
-
 ## House
 
 Edifice on St. Antoine's Mound
-
 
 ## Keywords
 
@@ -44,7 +42,6 @@ Edifice on St. Antoine's Mound
 - {{< keyword "porticoes" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "peristyles" >}}
-
 
 ## House Description
 
@@ -56,22 +53,17 @@ The house was organized around a principal courtyard with porticos [1] with conc
 
 The residence perhaps enjoyed an exterior garden in the vast open space of arable land along the eastern side of the construction.  As in the *intervallum* of the military camps, some see in the open space a extensive garden estimated at 2,600 square meters.  Irregular in shape and enclosed within the rampart, it overlooks the port.
 
-
 ## Plans
-
 
 {{< image file="edifice_on_st.antoine's_mound.png" caption="Edifice on St. Antoine's Mound" credit="" alt="Plan of Edifice on St. Antoine's mound" >}}
 
-
 ## Dates
-
 
 ## Bibliography
 
 1. Atlas Des Maisons De Gaule Narbonnaise. Avignon: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 94-96 et fiche n°1, P. 100-101. [(worldcat)](https://search.worldcat.org/title/717347935)
 
 2. RIVET, D.  BRENTCHALOFF, S.  ROUCOLE, S.  SAULNIER, *Fréjus, Atlas topographique  des  villes  de  gaule  méridionale*, R.A.N., supplément  32, Montpellier, 2000, P. 278-281. [(worldcat)](https://search.worldcat.org/title/491603596)
-
 
 ## Places
 

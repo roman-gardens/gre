@@ -50,7 +50,7 @@ The House of the Columns, approximately 1880 square meters, is located to the no
 
 ## Plans
 
-<!--Plan View Image Missing-->
+<!-- Plan View Image Missing -->
 <!-- {{< image file="IMAGEMISSING" caption="Fig. 1: Plan of the House of the Columns" credit="" alt="Plan of the House of the Columns" >}} -->
 
 ## Images
@@ -66,5 +66,4 @@ The House of the Columns, approximately 1880 square meters, is located to the no
 * Thouvenot, R., "La maison aux colonnes", PSAM, 7, 1945, 132-145, fig. 4. A. [(worldcat)](https://search.worldcat.org/title/765468558)
 
 ## Places
-
 

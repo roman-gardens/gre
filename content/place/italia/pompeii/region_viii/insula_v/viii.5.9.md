@@ -40,7 +40,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "puteals" >}}
 - {{< keyword "porticoes" >}}
 
-
 ## Garden Description
 
 At the rear of the tablinium excavated in 1881 a narrow garden (a) had a portico on the north supported by one pilaster, one engaged column and five stuccoed free-standing columns. The east end of the garden became very narrow with a jut in the back wall and a small, square water basin was built here against the wall. A water channel was shown in the plan on the east, north and west sides of the garden. The terra-cotta puteal that was found in the portico may have once stood over the cistern opening located between the pillar on the northwest corner and the next column.

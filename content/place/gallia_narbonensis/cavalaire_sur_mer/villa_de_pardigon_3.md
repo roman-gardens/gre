@@ -31,11 +31,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Villa de Pardigon 3](#)
 
-
 ## Villa
 
 Villa de Pardigon 3
-
 
 ## Keywords
 
@@ -43,7 +41,6 @@ Villa de Pardigon 3
 - {{< keyword "porticoes" >}}
 - {{< keyword "columns" >}}
 - {{< keyword "reception rooms" >}}
-
 
 ## Villa Description
 
@@ -53,12 +50,9 @@ The principal buildings were constructed in the first century; in the second cen
 
 In a final stage, at the beginning of the third century, the garden was transformed into a court and then into a dump, and the south branch of the peristyle was divided by a partition.
 
-
 ## Plans
 
-
 {{< image file="villa_de_pardigon_3.png" caption="Plan of Villa de Pardigon 3" credit="" alt="" >}}
-
 
 ## Dates
 
@@ -66,11 +60,9 @@ A.D. 1-100 principal building constructed
 A.D. 100-200 peristyle added
 A,D. 200-300 garden transformed into a court then a dump
 
-
 ## Bibliography
 
 1.  Brun, Jean-Pierre. *Carte Archéologique De La Gaule: 83, Le Var 1*. Paris, 1999, vol.2, P. 324-330, plan P. 326. [(worldcat)](https://search.worldcat.org/title/1074683092)
-
 
 ## Places
 

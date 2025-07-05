@@ -25,7 +25,6 @@ draft: true
 
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
-
 ## Insula
 
 II
@@ -37,7 +36,6 @@ II
 ## Garden
 
 Casa D'Argo
-
 
 ## Keywords
 
@@ -55,10 +53,9 @@ A. The earliest excavations of Herculaneum were done with underground tunnels. S
 534.II.2.
 B. A second *peristyle* garden was located to the west of the first, but has only been partially excavated. It has stuccoed columns and pillars joined by a wall 0.4 m. high painted with plants and flowers.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
-
 
 {{< image file="H_2_2.jpg" caption="Plan of Casa D'Argo" credit="" alt="" >}}
 

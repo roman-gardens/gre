@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -42,11 +41,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 Garden with a [triclinium](http://vocab.getty.edu/page/aat/300004359) at the rear of a domestic property.
 
-
 ## Garden Description
 
 Directly to the rear of the [atrium](http://vocab.getty.edu/page/aat/300004097), a small viridarium with a paved space (1.70 x 2.50m) behind it suggested use as a summer [triclinium](http://vocab.getty.edu/page/aat/300004359) to Fiorelli. Soprano was certain that there was an outdoor [triclinium](http://vocab.getty.edu/page/aat/300004359) of wood or other material located here.
-
 
 ## Bibliography
 
@@ -56,7 +53,6 @@ Directly to the rear of the [atrium](http://vocab.getty.edu/page/aat/300004097),
 * Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 80
 * Soprano, P. 1950, *'I triclini all'aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore*, p. 308, no.36
 * Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 307, no. 29  (also incorrectly calls the garden a room)
-
 
 ## Places
 

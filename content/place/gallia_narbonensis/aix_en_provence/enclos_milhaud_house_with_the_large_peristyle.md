@@ -31,31 +31,26 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Enclos Milhaud, House with the large peristyle](#)
 
-
 ## House
 
 Enclos Milhaud, House with the large peristyle
 
-
 ## Keywords
-
 
 ## House Description
 
 fiche not translated
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
-
 
 {{< image file="enclos_milhaud_house_with_the_large_peristyle.png" caption="Fig.1 Enclos Milhaud, House with the large peristyle" credit="" alt="Plan of the House with the Large Peristyle" >}}
 
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
-
 
 ## Bibliography
 
@@ -63,7 +58,6 @@ fiche not translated
 
 
 2.  "Aix-en-Provence,"*Atlas*, P. 62-4, 71.
-
 
 ## Places
 

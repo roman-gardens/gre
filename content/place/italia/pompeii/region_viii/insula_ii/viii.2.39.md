@@ -54,7 +54,6 @@ This was the last of the houses to be built on the Via della Regina, all of whic
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
 - {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
-
 ##  Excavation Dates
 
 First excavated in 1767-1769, Filled in. Re-excavated in 1885-1886

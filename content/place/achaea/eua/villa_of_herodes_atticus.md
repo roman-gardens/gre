@@ -42,11 +42,11 @@ At the center of the plan was a large garden defined on three sides (north, sout
 
 After the death of Herodes the villa probably became imperial property. A phase dating to the Tetrarchy is attested, and during the time of Constantine a mosaic, depicting the Circus Maximus, was added. The villa was destroyed by an earthquake in A.D. 400 A.D. and by the invasions of the Goths.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
-<!--## Plans-->
+<!-- ## Plans -->
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

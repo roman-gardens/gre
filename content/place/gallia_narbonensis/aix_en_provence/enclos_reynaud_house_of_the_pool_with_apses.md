@@ -31,34 +31,29 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Enclos Reynaud, House of the pool with apses](#)
 
-
 ## House
 
 Enclos Reynaud, House of the pool with apses
-
 
 ## Keywords
 
 - {{< keyword "peristyles" >}}
 - {{< keyword "courtyards" >}}
 
-
 ## House Description
 
 According to a partial plan, the residence was organized around a large courtyard with peristyle [1] (14.5 x 8.0 m). Although covered with paving stones in the final phase, the courtyard may have been a garden in an earlier phase, for it had a pool in the center. This pool of an unusal, quadrilobe shape, was 9 meters long and covered in gray marble. This marble was reduced practically to chalk when the house burned. The pool was then used as a dump and was found filled with materials from the time of the invasions.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
-
 
 {{< image file="enclos_reynaud_house_of_the_pool_with_apses.png" caption="Enclos Reynaud,House of the pool with apses" credit="" alt="Plan of the House of the Pool with Apses" >}}
 
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
-
 
 ## Bibliography
 
@@ -66,7 +61,6 @@ According to a partial plan, the residence was organized around a large courtyar
 
 
 2.  "Aix-en-Provence,"*Atlas*, P. 62-4, 71.
-
 
 ## Places
 

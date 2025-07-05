@@ -15,7 +15,6 @@ draft: true
 
 - {{< id vocab="Pleiades" id="550492" name="Cayster River Valley" >}}
 
-
 ## Sublocation
 
 - {{< id vocab="Pleiades" id="599981" name="Thyaira" >}}
@@ -24,7 +23,6 @@ draft: true
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
-
 
 ## Garden
 
@@ -37,7 +35,6 @@ Tomb Garden (peribolion) of an Anonymous
 - {{< keyword "periboloi" >}}
 - {{< keyword "ustrina" >}}
 - {{< keyword "tomb monument" >}}
-
 
 ## Garden Description
 

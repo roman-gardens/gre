@@ -55,7 +55,6 @@ The extremely long entranceway from the street led all the way to the back of th
 
 {{< image file="fig.27,viii.vii.6_9.31.66.jpg" caption="Fig. 27, 9.31.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

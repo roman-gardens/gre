@@ -17,7 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="108927" name="Divodurum/Mettis" >}}
 
 
-<!--## Sublocation-->
+<!-- ## Sublocation -->
 
 <!--
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
@@ -25,7 +25,6 @@ A sublocation is any area larger than an individual garden, but located within a
 -->
 
 <!-- ## Sublocation Description -->
-
 
 ## Garden
 
@@ -58,7 +57,6 @@ The *pars rustica* was organized on either side of a vast court [11], of which t
 
 These observations suggest that this large *court* [11] was not used for agricultural purposes but is rather to be interpreted as a park.  In the second half of the third century, the estate declined and became a quarry for building materials. Later, some parts of the ruins were reoccupied until the middle of the fifth century, as indicated by hasty repairs made with salvaged pieces or light materials.
 
-
 ## Maps
 
 None Available
@@ -78,7 +76,6 @@ Unspecified
 ## Bibliography
 
 - J.-D. Laffite, A. Bressoud, M. Mondy, A. Lefèbvre, M. Feller, I. Dechanez-Clerc, J.-J. Bigot, É. Rouger, *LIÉHON (Moselle) « Larry » - Aéroport Metz-Nancy Lorraine*, rapport de fouille préventive 2003, INRAP GEN/ SRA DRAC Lorraine, Metz, 2005, 9 vol., 1378 p., 207 figures, 61 plates. [(worldcat)](https://search.worldcat.org/title/20955708)
-
 
 ## Places
 

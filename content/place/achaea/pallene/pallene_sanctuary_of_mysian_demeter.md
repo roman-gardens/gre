@@ -36,11 +36,11 @@ Sanctuary of Mysian Demeter
 
 Pausanias described a grove of all kinds of trees with a natural spring sacred to Demeter near Pallene in the Argolid ([7.27.9-10](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:7.27)).  According to legend, the sanctuary was established by an Argive, Mysios.  An annual festival of Demeter took place here for the duration of seven days.  On the third day of that festival, the sacred rites were celebrated exclusively by female devotees.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 <!-- ## Plans -->
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

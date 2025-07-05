@@ -32,13 +32,13 @@ This *villa rustica* was situated on the northern slope of a valley through whic
 
 Built in the early 2nd century, the house was of the winged corridor type with a large open courtyard enclosed by the protruding wings of the house. The courtyard was divided into two zones that were possibly gardens (G in Fig. 1) and have been reconstructed as such. The farm was destroyed by fire in the first half of the 3rd century.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="EUR_GS_FriPfi_Rv_carroll.jpg" caption="Fig. 1: Plan of the villa (H) with a bath building (B) and with two possible garden enclosures (G) joined to the house at the north." credit="Adapted from Baatz and Herrmann 1989, fig. 246." alt="" >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

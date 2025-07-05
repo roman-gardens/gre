@@ -35,7 +35,6 @@ The area of Augusta Emerita best known today, because of extensive excavations, 
 
 Because most of evidence from Merida was unearthed in old excavations, the context of many ancient objects is unknown. There is also a lack of analytical data on many of the areas which must originally have been gardened. The classification of the gardens of the Colonia Augusta Emerita is still under analysis. The study by Moreno is a basic survey article and should be understood to be part of all the bibliographies for Merida.
 
-
 ## Bibliography
 
 - I. C. Moreno, "Los jardines de Mérida," *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
@@ -56,7 +55,6 @@ Temple of Diana
 The Temple of Diana is the only surviving religious building from the Augusta Emerita Forum.  Despite its name, it was actually dedicated to the imperial cult and dates to the end of the Augustan period. Excavations conducted in 1972 by J. Mª. Álvarez Martínez produced some evidence for a garden in conjunction with the temple. The space surrounding the temple was interpreted as a garden area, enclosed by a portico, which contained two rectangular pools on the east and west sides of the temple.
 Of the sculptural pieces found outside the temple, some have been situated in the western pool: a bronze leg (forming part of an idealized figure and probably fixed on the base of the pool) and two marble fragments of tragic masks which could have served as fountain spouts.
 
-
 ## Plans
 
 {{< image file="his_lus_col_augusta_temple_of_diana_fig1.jpg" caption="Fig. 1: Temple of Diana." credit="Adapted from Casillas Morena, p. 309." alt="" >}}
@@ -72,7 +70,6 @@ The end of the Augustan period
 ## Bibliography
 
 *  J. Mª.  Álvarez Martinez, J. L. de la Barrera Antón and A. Velázquez Jiménez, *Mérida* (Turismo Everest), León, 1995, p. 54. [(worldcat)](https://search.worldcat.org/title/433607571)
-
 
 ## Places
 

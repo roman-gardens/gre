@@ -20,7 +20,6 @@ draft: true
 
 The site is located on the East seaside of Tunisia. Excavations in the sixties have brought to light warehouses and a large *domus* opening towards the sea.
 
-
 ## Garden
 
 House of two peristyles (Maison aux deux péristyles)
@@ -40,7 +39,6 @@ This large house (850 to 900m²) was built on the sea front and was laid out aro
 The house has known some modifications, one of which was the construction of a private bath that may have had a peristyle garden. The house was occupied between the second and the fourth centuries.
 
 When the house was transformed into a church, during the middle of the IVth century, the garden of the peristyle may have been maintained.
-
 
 ## Maps
 

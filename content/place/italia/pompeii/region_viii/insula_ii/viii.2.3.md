@@ -22,7 +22,6 @@ draft: false
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -35,12 +34,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula II]({{<relref ".">}})
 
-
 ## Keywords
 
 - {{< keyword "peristyles" >}}
 - {{< keyword "sacraria" >}}
-
 
 ## Garden Description
 
@@ -55,7 +52,6 @@ This house, very similar to VII.ii.1, was also excavated in 1799. This peristyle
 
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
 - {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
 
 ##  Excavation Dates
 

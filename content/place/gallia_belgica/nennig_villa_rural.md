@@ -17,7 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="109198" name="Nennig" >}}
 
 
-<!--## Sublocation-->
+<!-- ## Sublocation -->
 
 <!--
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
@@ -42,8 +42,7 @@ The villa of this rural estate of the third century and its grounds are the only
 
 Parks were laid out on the grounds of the villa. A *peristyle corridor* 250 meters in length and 8.80 meters in width led from the villa to the *bath building* on the southwest, although it was not directly connected to either building. From the open-sided *corridor* one could enjoy the view of the almost certainly landscaped grounds, and of the terrain sloping down to the river. It is assumed that there was another *peristyle corridor* on the northeast. A grotto on the grounds of the villa belonged to the park.
 
-<!-- Text comes from draft file-->
-
+<!-- Text comes from draft file -->
 
 ## Maps
 

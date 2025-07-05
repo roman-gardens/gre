@@ -81,7 +81,6 @@ According to a secondary inscription carved horizontally, perhaps in the third c
 - J. Kubin'ska, *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure*. Warsaw, 1968, pp. 115, 144 [(worldcat)](https://search.worldcat.org/title/1164839456)
 - C. Börker and R. Merkelbach, *Die Inschriften von Ephesos, Teil V.* Bonn, 1980 (I.Ephesos V), 1625b. [(worldcat)](https://search.worldcat.org/title/1085909921)
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="599612" name="Ephesus/Arsinoe(ia)" >}}

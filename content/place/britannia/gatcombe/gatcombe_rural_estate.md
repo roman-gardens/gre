@@ -24,7 +24,6 @@ Rural Estate in Gatcombe
 
 - {{< keyword "villae rusticae" >}}
 
-
 ## Garden Description
 
 This site of a large rural estate about 9 hectares in size in Somerset is enclosed within a massive wall (Fig.1). Although the site was not completely excavated, there is evidence to suggest that the main residence (A in Fig. 1) was located at the southern end of the complex, separated from various workshops and subsidiary buildings in the northern half by an area of cultivated soil. This area has been interpreted as a garden, based on the absence of buildings and the presence of 10-15 centimeters thick layer of rich humus (G in Fig. 1). The complex was built between A.D. 280 and 300, with occupation ending around 380.

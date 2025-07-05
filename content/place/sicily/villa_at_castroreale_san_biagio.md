@@ -19,7 +19,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 [Messina]({{<relref "../..">}})
 
-
 ## Location
 
 - {{< id vocab="Pleiades" id="462538" name="Messina" >}}
@@ -30,7 +29,6 @@ Villa at Castroreale San Biagio
 
 ## Keywords
 
-
 ## Garden Description
 
 There is a rectangular fountain basin set at the south end of the peristyle facing the triclinium, probably of the second century A. D. (Figs 8 and 9).
@@ -39,15 +37,13 @@ There is a rectangular fountain basin set at the south end of the peristyle faci
 
 ## Plans
 
-<!--{{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}}-->
+<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}} -->
 
 ## Images
 
 {{< image file="figure8.png" caption="Fig. 8  Castroreale San Biagio, plan of Roman villa" credit="" alt="" >}}
 
-
 ## Dates
-
 
 ## Bibliography
 

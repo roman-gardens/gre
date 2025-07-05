@@ -34,13 +34,13 @@ Guest House II
 
 In the first third of the 3rd century A.D. another guest house, so-called Guest House II (B on plan), was built at Olympia, immediately east of and connected with Guest House I (see Fig. 1).  Guest House II was almost certainly built to supplement Guest House I after alterations to the latter resulted in its loss of the peristyle courtyard and garden.  Guest House II was built with a peristyle courtyard, and its design is very similar to the one in the earlier Guest House I.  In the center of the courtyard was an unpaved, and possibly planted, rectangular island surrounded by a water channel (G on plan). Both guest houses were badly damaged in the late 3rd century and only partially used thereafter until their abandonment in the 4th century.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="eur_ach_olympia_guesthouse.jpg" caption="Fig. 1: Plan of Guest House I (A) and Guest House II (B) with their courtyard gardens (G). The garden in Guest House I was later paved over (C)." credit="Adapted from Mallwitz 1972, fig. 230." alt="Plan of Guest Houses 1 and 2 with their courtyard gardens." >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

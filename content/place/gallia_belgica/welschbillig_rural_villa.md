@@ -14,10 +14,10 @@ draft: true
 ## Location
 
 [WEITERSBACH (Germany)]({{<relref ".">}}) \
-[WEITERSBACH (Pleiades)](<!-- none available-->)
+[WEITERSBACH (Pleiades)](<!-- none available -->)
 
 
-<!--## Sublocation-->
+<!-- ## Sublocation -->
 
 <!--
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
@@ -41,8 +41,7 @@ The enclosed farm compound measured 79 x 125/132 meters (less than one hectare).
 Southeast of the house was an open area of 900 square meters. enclosed by a wall. There were no traces of any building activity within this enclosure, leading the excavators to interpret the area as a utilitarian *(vegetable) garden* (G on plan).
 
 
-<!-- Text comes from draft file-->
-
+<!-- Text comes from draft file -->
 
 ## Maps
 

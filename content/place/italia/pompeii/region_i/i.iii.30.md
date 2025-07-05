@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -39,7 +38,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "putti" >}}
-
 
 ## Garden
 
@@ -60,7 +58,6 @@ This small house, excavated in 1872, had no [atrium](http://vocab.getty.edu/page
 * Niccolini, F. *Le case ed i monumenti di Pompeii, Naples, Vol. II*, p. 49
 * Trendelenberg, A. 1871. *BdI*, p. 172
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus* [(worldcat)](https://search.worldcat.org/title/974375313)
-
 
 ## Places
 

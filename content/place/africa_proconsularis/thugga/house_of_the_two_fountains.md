@@ -16,7 +16,7 @@ draft: true
 - [THUGGA (Douga) Tunisia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="315223" name="THUGGA (Douga) Tunisia" >}}
 
-<!--## Plan of City
+<!-- ## Plan of City
 
 {{< image file="Doua_plan_city.jpg" caption="Plan of the Thugga" credit="" alt="Plan of Thugga" >}}
 -->
@@ -35,7 +35,6 @@ House of the Two Fountains (Maison aux deux Fontaines)
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "semicircular basin" >}}
 
-
 ## Garden Description
 
 This house in the W of the market may have had a peristyle garden enclosed by a portico on four sides; the possible garden had two shallow semicircular basins (Plan view, Fig.1).
@@ -53,7 +52,6 @@ This house in the W of the market may have had a peristyle garden enclosed by a 
 *  Poinssot, C., Les ruines de Dougga, Tunis, 1958, p. ???[(worldcat)](https://search.worldcat.org/title/804952011)
 * C. Poinssot, Les ruines de Dougga, Tunis, 1983[(worldcat)](https://search.worldcat.org/title/475099061)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.264-265. [(worldcat)](https://search.worldcat.org/title/989088620)
-
 
 ## Places
 

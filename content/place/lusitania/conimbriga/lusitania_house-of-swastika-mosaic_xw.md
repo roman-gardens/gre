@@ -51,10 +51,10 @@ Far more modest than the House of Cantaber but following the same general ideas 
 
 {{< image file="HIS LUS_Conim_Swastika_Photo_CA fig2.jpg" caption="Fig. 2: Looking west over swastika mosaic to garden." credit="" alt="" >}}
 
-<!--## Dates-->
+<!-- ## Dates -->
 
 
-<!--## Bibliography
+<!-- ## Bibliography
 
 - Morand, I., La Maison aux jets d'eau de Conimbriga (Boccard, Paris, 2005). [(worldcat)](https://search.worldcat.org/title/255066311) -->
 

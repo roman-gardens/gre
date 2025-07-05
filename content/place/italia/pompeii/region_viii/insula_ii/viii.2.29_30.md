@@ -52,7 +52,6 @@ There was a narrow portico on the eastern lower level of this double house 2.20 
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
 - {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
-
 ##  Excavation Dates
 
 Unspecified

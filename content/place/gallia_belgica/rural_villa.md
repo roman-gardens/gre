@@ -26,15 +26,13 @@ Rural Villa
 - {{< keyword "corridors" >}}
 - {{< keyword "courtyards" >}}
 
-
 ## Garden Description
 
 The stone structures of this *villa rustica*, dating to the early second century, replaced earlier timber buildings. With the addition of an annex on the east in the early fourth century, the facade of the house acquired a length of 104 meters. The farm was occupied until the early fifth century.
 
 The main residence is a villa of the winged *corridor* type (BEL 13.1.1). Two protruding wings on either wide of the entrance on the south framed an open *courtyard* which may have been planted (G on plan). Behind the house at the north were two more wings framing a second open *courtyard* (G on plan). This area, possibly a garden, was bordered on the north by a low wall.
 
-<!-- Whole entry comes from draft file-->
-
+<!-- Whole entry comes from draft file -->
 
 ## Maps
 

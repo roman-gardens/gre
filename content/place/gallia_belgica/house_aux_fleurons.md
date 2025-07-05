@@ -17,7 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="108945" name="Durocortorum" >}}
 
 
-<!--## Sublocation-->
+<!-- ## Sublocation -->
 
 <!--
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
@@ -37,12 +37,10 @@ The House aux Fleurons (boulevard de la Paix)
 - {{< keyword "porticoes" >}}
 - {{< keyword "trenches" >}}
 
-
 ## Garden Description
 
 BEL 2.2.1: Reims, House aux Flerurons
 Along the north side runs a secondary street following the orientation of the town in Augustan times. Along this street, in the northern part of the house, a series of rooms with mosaics were found. On the south side, the space A (about 30 x 14 m) was probably a garden. The central part, surrounded on three sides by *porticos,* had two wide *trenches* (a) cut into the chalk and filled with clay, a strong indication of a garden. The *trenches* seem to be connected on the south side, and the south wall seems to be the limit of the parcel.
-
 
 ## Maps
 
@@ -61,10 +59,9 @@ Unspecified
 ## Bibliography
 
 - Ch. Loriquet, *La mosaïque des Promenades et autres trouvées à Reims*, Reims, 1862 [(worldcat)](https://search.worldcat.org/title/609628912)
-- D.R.A.H..A., La Bourse du Travail à Reims, *Bulletin de la société archéologique champenoise,* n°4, 1977, p. 77-79  <!--not on worldcat -->
+- D.R.A.H..A., La Bourse du Travail à Reims, *Bulletin de la société archéologique champenoise,* n°4, 1977, p. 77-79  <!-- not on worldcat -->
 - R. Neiss, La structure urbaine de Reims antique et son évolution du Ier au IIIe siècle après J.-C. Les villes de la Gaule Belgique au Haut-Empire, in: *Actes du colloque tenu à Saint-Riquier (Somme). Revue archéologique de Picardie,* n°3-4, 1984, p. 171-191, [(worldcat)](https://search.worldcat.org/title/754518194)
 - A. Balmelle, R. Neiss, Les maisons de l'élite à *Durocortorum*, in Archéologie urbaine à Reims, *Bulletin de la société archéologique champenoise,* t. 96, 2003, 4, p. 74. [(worldcat)](https://search.worldcat.org/title/718698064)
-
 
 ## Places
 

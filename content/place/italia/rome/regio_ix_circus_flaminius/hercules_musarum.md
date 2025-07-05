@@ -27,7 +27,6 @@ draft: false
 - [Region IX Circus Flaminius]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="422863" name="Campus Martius" >}}
 
-
 ## Garden
 
 Garden of the Hercules Musarum
@@ -50,7 +49,6 @@ Garden of the Hercules Musarum
 - [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 - [Valerius Maximus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1448)
-
 
 ## Garden Description
 

@@ -35,7 +35,6 @@ This building, located to the NW of the Winter Baths, was comprised of three art
 
 The SE area was laid out around an incomplete peristyle with seven columns along the NW and SW sides (Plan view, Fig. 1). Three semicircular pools projected into a large courtyard. A first pool was located at the extremity of the NW portico (II) facing the main reception room V, and there was a third of which only traces survive. The large court (I) of irregular shape (ca 24x10m) was not paved and may have been planted.
 
-
 ## Maps
 
 ## Plans
@@ -51,7 +50,6 @@ The SE area was laid out around an incomplete peristyle with seven columns along
 *  Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région des Grands Thermes*, V. II, fasc.2, INA, Tunis, 1985, pp. 101-13, plan 19-20. [(worldcat)](https://search.worldcat.org/title/603306079)
 * Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987. [(worldcat)](https://search.worldcat.org/title/20058336)
 *  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.230-232. [(worldcat)](https://search.worldcat.org/title/989088620)
-
 
 ## Places
 

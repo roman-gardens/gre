@@ -17,7 +17,6 @@ draft: false
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
-
 ## Location
 
 - [Herculaneum]({{<relref "../..">}})
@@ -40,12 +39,10 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 
 Casa del Salone Nero
 
-
 ## Keywords
 
 - {{< keyword "porticoes" >}}
 - {{< keyword "tablina" >}}
-
 
 ## Garden Description
 
@@ -55,7 +52,6 @@ Excavation of this garden (a) to the rear of this elegant house took place in th
 
 {{< image file="herculaneum_vi_13.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="" >}}
 {{< image file="h_6_11-19_25-26-a.jpg" caption="Herculaneum VI.11-19,25-26-Casa del Salone Nero" credit="" alt="" >}}
-
 
 ## Places
 

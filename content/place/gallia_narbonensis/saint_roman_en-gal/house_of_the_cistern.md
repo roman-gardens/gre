@@ -40,15 +40,12 @@ The final house runs just over 100 meters from south to north. The first two hou
 
 ## House
 
-
 House with the Cistern
-
 
 ## Keywords
 
 - {{< keyword "porticoes" >}}
 - {{< keyword "courtyards" >}}
-
 
 ## House Description
 
@@ -57,11 +54,11 @@ This phase, called the House with the Cistern, was constructed in the last years
  
 
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 
@@ -82,7 +79,6 @@ B.C. 20 - A.D. 20
 6. Gros, Pierre. *L'architecture Romaine Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 160-162.[worldcat](https://search.worldcat.org/title/1169743067)
 
 7. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271, fig 189.[worldcat](https://search.worldcat.org/title/43416334)
-
 
 ## Places
 

@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -49,9 +48,9 @@ Fullonica of Stephanus; Fullery of Stephanus.
 
 This house had been converted to a fullery and the small [peristyle](http://vocab.getty.edu/page/aat/300080971) garden to the rear probably served as a drying area. Five [pillars](http://vocab.getty.edu/page/aat/300264605) of the [portico](http://vocab.getty.edu/page/aat/300004145) were connected by a low, marble topped wall. This enclosed the raised garden on the east, north and west sides with a deep [gutter](http://vocab.getty.edu/page/aat/300052565) running around the garden along the wall.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
-<!--## Plans
+<!-- ## Plans
 
 {{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
 
@@ -61,8 +60,7 @@ This house had been converted to a fullery and the small [peristyle](http://voca
 
 {{< image file="Fig_15_I. vi.7_6.29.59.jpg" caption="Fig. 3: I.iv. 6.29.59, S.A. Jashemski" credit="" alt="Fig. 3: I.iv. 6.29.59, S.A. Jashemski." >}}
 
-{{< image file="Fig_16_I.vi.7_6.36.59.jpg" caption="Fig. 4: I.iv. 6.36.59, S.A. Jashemski" credit="" alt="Fig. 4: I.iv. 6.36.59, S.A. Jashemski." >}}-->
-
+{{< image file="Fig_16_I.vi.7_6.36.59.jpg" caption="Fig. 4: I.iv. 6.36.59, S.A. Jashemski" credit="" alt="Fig. 4: I.iv. 6.36.59, S.A. Jashemski." >}} -->
 
 ## Dates
 
@@ -74,7 +72,6 @@ Excavated 1912.
 * Jashemski, W.F. 1993. *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, p. 35. [(worldcat)](https://search.worldcat.org/title/921816405).
 * Moeller, W.O. 1976. *The Wool Trade of Ancient Pompeii*, p. 42. [(worldcat)](https://search.worldcat.org/title/800885233)
 * Spinazzola, V. 1910-1923. *Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza*, pp. 446 and fig. 493 (plan) on p. 773 and fig. 744 (plan) on p. 765.
-
 
 ## Places
 

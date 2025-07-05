@@ -32,7 +32,6 @@ There has been little research on the gardens in the Roman settlements in Spain 
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
-
 ## Bibliography
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
@@ -43,12 +42,10 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
-
 ## Location
 
 - [Segóbriga]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="266036" name="Segóbriga" >}}
-
 
 ## Location Description
 
@@ -69,7 +66,6 @@ Bath Complex
 
 N 39 53' 10"  W 2° 48' 45"
 Monumental baths about 88 meters long and 40 meters wide were built in Flavian times in the  north end of the city. Immediately after the entry came a large peristyle courtyard.  Perhaps it was a garden but could also have been primarily a palestra.  At the end away from the entrance and towards the baths proper was found the base of a statue.
-
 
 ## Plans
 

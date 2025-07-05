@@ -15,13 +15,12 @@ draft: true
 
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-<!--- Content of Province heading --->
+<!-- - Content of Province heading - -->
 
 ## Province Description
 
 The Italian peninsula extending northward to the Alps as recognized by the Romans.
 <!-- DESCRIPTION -->
-
 
 ## Location
 
@@ -81,7 +80,6 @@ Soprano, p. 300, no. 13.
 <!--
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
-
 
 ## Places
 

@@ -32,17 +32,18 @@ Sanctuary of Poseidon
 
 We know of a grove of trees in the precinct of the temple of Poseidon, thanks to Pausanias' and Strabo's descriptions of it in the early 1st and the later 2nd century A.D. ([Strab. 8.6.22](http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-eng1:8.6.22); [Paus. 2.1.7](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.1.7)).  According to Pausanias, on one side of the precinct stood statues of athletes who had been victorious in the Isthmian games, and opposite them was a row of pine trees.  The fact that these trees stood in a row suggests that they were intentionally planted.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 <!-- ## Plans -->
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 
 unspecified
 
 <!-- Bibliography -->
+
 ## Places
 
 - {{< id vocab="Pleiades" id="107524051" name="Temple of Poseidon at Isthmia" >}}

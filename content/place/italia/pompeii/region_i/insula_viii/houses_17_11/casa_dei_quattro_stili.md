@@ -20,7 +20,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-
 ## Insula
 
 [Insula VIII]({{<relref "..">}})
@@ -46,7 +45,7 @@ Casa dei Quattro Stili; House of L.V.P. (I.viii.17/11)
 
 A *portico* supported by four pillars at the back of this house enclosed this *peristyle* garden (a) on the west. There was a passageway to the north of this garden that provided a back entrance to this house. A roof tile found in the garden in 1938 was inscribed FVLGVR (*CIL* IV.8223) and marked the spot where lightning had struck and where all affected items were buried.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
@@ -54,15 +53,13 @@ A *portico* supported by four pillars at the back of this house enclosed this *p
 
 {{< image file="../region-i-insula-8.jpg" caption="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach" credit="" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." >}}
 
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 
 unspecified
 
 ## Excavation Date
-
 
 ## Bibliography
 

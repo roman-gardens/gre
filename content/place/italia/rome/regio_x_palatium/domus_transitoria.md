@@ -28,7 +28,6 @@ draft: false
 Palatine Hill [Mons Palatinus](https://pleiades.stoa.org/places/971691208) \
 Esquiline Hill [Esquilinus Mons](https://pleiades.stoa.org/places/679976755)
 
-
 ## Garden
 
 Garden of the Neronian Palace, Palatine
@@ -53,7 +52,6 @@ Garden of the Neronian Palace, Palatine
 - {{< keyword "terraces" >}}
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 
-
 ## Garden Description
 
 In the Neronian period the architecture and the size of gardens changed substantially, as did the building criteria and urban organization of the city. With [Nero](https://en.wikipedia.org/wiki/Nero), the Romans feared for the first time that Rome could become a single, grandiose residence. [Suetonius](https://en.wikipedia.org/wiki/Suetonius) informs that Nero, "having built for himself a house that extended from the [Palatine](https://en.wikipedia.org/wiki/Palatine_Hill) to the [Esquiline](https://en.wikipedia.org/wiki/Esquiline_Hill), first called it '*transitoria*'; then, when it was destroyed by fire, he had it rebuilt and called it '*aurea*'" ([Suet. *Nero*, 31](http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo016.perseus-lat1:31)). Even more than [Augustus's residence](https://en.wikipedia.org/wiki/House_of_Augustus), the expansive architecture of the Neronian [palace](http://vocab.getty.edu/page/aat/300005734), the [*Domus Transitoria*](https://en.wikipedia.org/wiki/Domus_Transitoria) seems to derive from the Ptolemaic royal palace (*basileia*) of Egyptian [Alexandria](https://pleiades.stoa.org/places/727070), which is known to have occupied vast tracts of that city.
@@ -72,7 +70,6 @@ RELATED PHASES ON THE PALATINE:
 [Garden of the Palatine Stadium (H)]({{<relref "palatine_stadium">}})\
 [Garden of the Severan Complex (I)]({{<relref "severan_complex">}})
 
-
 ## Figures
 
 {{< image file="domus_transitoria_fig1.jpg" caption="Fig. 1: Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." credit="" alt="Plan of the Palatine" >}}
@@ -83,7 +80,7 @@ RELATED PHASES ON THE PALATINE:
 
 1st century CE
 
-<!--## Excavation Date
+<!-- ## Excavation Date
 
 1900-1901: G. Boni\
 1990-: M. Tomei and M.G. Filetici under the Sopraintendenza Archeologica di Roma.

@@ -17,12 +17,10 @@ draft: true
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
-
 ## Location
 
 - [Herculaneum]({{<relref "..">}}) \
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-
 
 ## Location Description
 
@@ -51,7 +49,7 @@ Casa del Mobilio Carbonizzato
 
 549.V.5.
 Visible from the *fauces*, this little courtyard (a) had an elaborate *aedicula* shrine which was excavated in 1932-1933. A low double wall with a gutter bordered the courtyard on the west and north sides with a cistern opening located in the center of the west edge of garden. Four small flower beds on the sides and a circular bed in the center had raised borders to retain the water for the plants within, and the remainder of the courtyard was paved in *opus signinum*. Jashemski commented that the garden had been restored with eleven such small planting beds. The east wall had traces of an animal painting on a blue background by the *aedicula lararium*. A deer was painted on the right side and several more indistinct animal forms were noted over the *lararium*. At the south end of this wall there were traces of leaves and a lattice fence suggesting a garden painting may have been located here.
-<!--## Maps-->
+<!-- ## Maps -->
 
 <!-- the following images are not in gre-images...insula_v -->
 
@@ -60,7 +58,6 @@ Visible from the *fauces*, this little courtyard (a) had an elaborate *aedicula*
 {{< image file="h_3_3-17.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 {{< image file="h_3_1-2_18-19.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
-
 
 ## Images
 
@@ -72,7 +69,6 @@ Visible from the *fauces*, this little courtyard (a) had an elaborate *aedicula*
 
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
 
 ## Dates
 

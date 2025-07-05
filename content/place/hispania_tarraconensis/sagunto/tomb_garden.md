@@ -39,8 +39,7 @@ A marble slab found at Puçol (Puzol) near Saguntum, now lost, but originally pr
 
 ## Images
 
-<!--## Dates-->
-
+<!-- ## Dates -->
 
 ## Bibliography
 

@@ -27,22 +27,19 @@ Villa el Santiscal
 - {{< keyword "peristyles" >}}
 - {{< keyword "rills" >}}
 
-
 ## Garden Description
 
 This rich country villa on the left bank of the [Guadalete](https://pleiades.stoa.org/places/256248) River was begun in the first century and continued in use through the fourth century with its heyday in the third century AD.  Figured mosaics found in the nineteenth century are now lost. Partial excavations around 1965 disclosed a villa built around a central peristyle (14 x 10 m) with a garden in the center. A rill pool ran around the outside of the garden. On each side there was a fountain and semicircular extension of the pool into the planting area of the garden.
 
-
 ## Maps
 
-<!--## Plans-->
+<!-- ## Plans -->
 
 ## Images
 
 {{< image file="HIS_BAE_Villa El Santiscal_plan_CA fig1.jpg" caption="Fig. 1: Plan of Villa el Santiscal, Gorges, Planche LXIII." credit="" alt="" >}}
 
 {{< image file="HIS_BAE_Villa el Santiscal_photo_CA fig2.jpg" caption="Fig. 2: Photo of Villa el Santiscal seen from northwest." credit="" alt="" >}}
-
 
 ## Dates
 

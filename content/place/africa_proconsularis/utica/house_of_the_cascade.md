@@ -41,17 +41,13 @@ Extending into the garden from the two central columns on the N was a semicircul
 
 Opening off of the *triclinium* to the S was a smaller area enclosed by a portico on three sides. The dominant feature was the shallow square basin (1.92x 1.2 m) decorated with a fish mosaic and the adjacent mosaic panel from which the house is named. In the cascade panel, two fishermen are pulling in a vast net full of fish and sea animals. The soil on each side of the cascade was probably planted.
 
-
 ## Maps
 
-
-<!--## Plans-->
-
+<!-- ## Plans -->
 
 ## Plans
 
 {{< image file="AFR_Uti_Hc_Wjashemski1.jpg" caption="Fig. 1: Plan of the House of the Cascade (CMT, plan 5,7)" credit="" alt="Fig. 1: Plan of the House of the Cascade." >}}
-
 
 ## Dates
 
@@ -62,7 +58,6 @@ Opening off of the *triclinium* to the S was a smaller area enclosed by a portic
 * Alexander, M. A., Ennaifer, M., *Corpus des Mosaïques de Tunisie*, *Utique, insulae, I-II-III*, INA, Tunis, 1973, pp. 19-56, plan 5,7 and plates 8, 9, 25, 63. [(worldcat)](https://search.worldcat.org/title/61828622)
 * Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.351-354. [(worldcat)](https://search.worldcat.org/title/989088620)
 * Février  P.-A., "Image, imaginaire et symbolisme. A propos de deux maisons du Maghreb antique", in *Mosaïque, Recueil d'hommages à Henri Stern*, Paris,1983, pp. 159-162. [(worldcat)](https://search.worldcat.org/title/876420608)
-
 
 ## Places
 

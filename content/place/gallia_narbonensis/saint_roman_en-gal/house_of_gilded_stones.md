@@ -41,7 +41,6 @@ The northern end of this vast house is just west of the House of Five Mosaics an
 
 House of Gilded Stones
 
-
 ## Keywords
 
 - {{< keyword "peristyles" >}}
@@ -51,7 +50,6 @@ House of Gilded Stones
 - {{< keyword "mosaics" >}}
 - {{< keyword "porticoes" >}}
 
-
 ## House Description
  
 The living space was organized in U on three side of a garden with peristyle.  An entrance on the south formed part of a porch [1] which led to the large vestibule [8] (8.5 x 6.4 m) which opened directly onto the peristyle [23]. From the stratigraphy of the soil it is not possible to know whether this peristyle court was planted or whether it was tamped earth. This courtyard (15.7 x 11.4 m) with an open area of 230 square meters is surrounded on all four sides by porticoes 2.5 meters wide. The columns have disappeared. A column with a phallus-formed top formed a fountain that was perhaps part of the décor of the peristyle; the column rested on a socle pierced by a channel for a conduit of lead which continued through the center of the column. A rectangular pool (7 x 3 m) with a semicircular apse of 2.5 meter diameter, perhaps ornamented by a fountain, occupied the northern half of the central area of the peristyle court. A lead pipe coming from the baths supplied water. The drain cut diagonally across the southern half of the courtyard and continued to the wall along the east side of the house, where it turned and ran parallel to this wall down to the channeled stream on the other side of the street to the south of the house..
@@ -59,12 +57,11 @@ On the west were rooms with concrete floors, perhaps bedrooms, except for the ce
 On the axis of the pool, to the north, was the most spacious room [20] (60 square m) which served as a *triclinium*; its presumed mosaic is totally lost. Room [18], with a mosaic floor, could have been a summer dinning room in connection with this garden, especially because of its position to the north.
 Further to the north, at the back of the lot, the house had a large garden [25] of 276 square meters with a portico [24] along the south side, 18.6 meters in length and 3 meters wide, with a floor of pounded earth. Below this portico lay a garden of 276 square meters, which one entered no doubt by steps. Study of the soil has not been able to determine how the place was planted. Was it a pleasure garden or a kitchen garden?
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="house_of_the_gilded_stones.png" caption="Plan of House of the Gilded Stones" credit="" alt="" >}}
-
 
 ## Dates
 
@@ -85,7 +82,6 @@ A.D. 20 – A.D. 60
 6. Gros, Pierre. *L'architecture Romaine Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 160-162.[worldcat](https://search.worldcat.org/title/1169743067)
 
 7. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271, fig 189.[worldcat](https://search.worldcat.org/title/43416334)
-
 
 ## Places
 

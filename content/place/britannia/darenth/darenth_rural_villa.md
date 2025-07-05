@@ -36,15 +36,15 @@ This pool (P in Fig. 1), measuring 25.6 x 3.36 meters, lay at right angles to th
 
 South of the western range of rooms was a large, open space measuring 14.6 x 58.4 meters, enclosed by walls. There was no paving in this area, nor was there any evidence for partitions. It has been suggested that this might have been a kitchen garden (G in Fig. 1).
 
-<!-- The Gs referenced in the article are not clear as there are three Gs in the figure-->
+<!-- The Gs referenced in the article are not clear as there are three Gs in the figure -->
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="darenth.png" caption="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P)." credit="Adapted from Detsicas 1983, fig. 20." alt="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20" >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

@@ -58,7 +58,6 @@ The sanctuary of Minerva 2, (138-161 CE), built later than the *templa Concordia
 * Saint-Amans, S. "Topographie religieuse de Thugga (Dougga)"", in *Ville romaine d'Afrique proconsulaire (Tunisie)*, (Scripta
 Antiqua, 9), Bordeaux : Ausonius Éditions 2004, pp. 340-341, p. 216, fig. 2a. [(worldcat)](https://search.worldcat.org/title/218514555)
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="315223" name="Thugga/Tokai?" >}}

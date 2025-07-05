@@ -26,7 +26,6 @@ draft: true
 
 [Region IV Templum Pacis]({{<relref ".">}}) \
 
-
 ## Garden
 
 Garden of the Templum Pacis
@@ -65,7 +64,6 @@ Garden of the Templum Pacis
 - [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
 - [Procopius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1697)
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
-
 
 ## Garden Description
 

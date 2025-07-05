@@ -49,7 +49,6 @@ South of the central peristyle was a large room that centered on the garden, and
 
 The other garden area was slightly farther south and against the east wall of the house.  A portico ran around three sides but required only three columns, all on the west side.  The rectangular pool (6.5 x2.5 m) had three basically square flower beds aligned in it.  The two end squares, however, had semicircular niches cut out of the center of each side, while the center square had a circle cut out of its center and connected to the surrounding water.  As in the House of the Fountains, flower beds in the pool appeared like islands in a lake (Fig. 4).  One can imagine that this secluded spot was a favorite of the most noble Cantaber.
 
-
 ## Maps
 
 ## Plans
@@ -61,10 +60,10 @@ The other garden area was slightly farther south and against the east wall of th
 {{< image file="HIS LUS_Conim_Cantaber_Photo_CA fig2.jpg" caption="Fig. 2: Main peristyle." credit="" alt="" >}}
 {{< image file="HIS LUS_Conim_ Cantaber_Planters_CAfig3.jpg" caption="Fig. 3: Pool with pink planters." credit="" alt="" >}}
 {{< image file="HIS LUS_Conim_Cantaber_photo_SJ fig4.jpg" caption="Fig. 4: Secluded, three-column portico.  Photo S.A.J. 1969." credit="" alt="" >}}
-<!--## Dates-->
+<!-- ## Dates -->
 
 
-<!--## Bibliography
+<!-- ## Bibliography
 
 - Morand, I., La Maison aux jets d'eau de Conimbriga (Boccard, Paris, 2005). [(worldcat)](https://search.worldcat.org/title/255066311) -->
 

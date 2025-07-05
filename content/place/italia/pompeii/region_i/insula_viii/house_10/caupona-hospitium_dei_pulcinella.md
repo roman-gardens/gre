@@ -20,7 +20,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-
 ## Insula
 
 [Insula VIII]({{<relref "..">}})
@@ -45,7 +44,7 @@ Caupona-Hospitium dei "Pulcinella" (I.viii.10)
 
 A. This house had no *atrium* and the *peristyle* was entered directly from the street. The *peristyle* garden (a) was enclosed on the east and the south by a *portico*. Two *lararium* flanked the door to a basement on the north end of the east *portico*. The one on the right was well preserved with paintings of an altar, two *Lares*, serpents, and a rectangular niche painted with what appear to be poppies. When a layer of plaster crumbled from the wall in March 1949 it revealed a painting of a pottery shop and led Maiuri to believe that there had been a pottery shop entrance to the street from the room on the left. Two other paintings on the façade depict Mercury and costumed men attired as Neapolitan Punch and Judy puppets. This gave the house the identity as a *caupona-hospitium* of the "Pulcinella."
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
@@ -53,15 +52,13 @@ A. This house had no *atrium* and the *peristyle* was entered directly from the 
 
 {{< image file="../region-i-insula-8.jpg" caption="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach" credit="" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." >}}
 
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 
 unspecified
 
 ## Excavation Date
-
 
 ## Bibliography
 

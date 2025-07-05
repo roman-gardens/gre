@@ -55,8 +55,7 @@ Besides the central peristyle, there are several other areas that were possibly 
 
 {{< image file="HIS_LUS_LaCocosa_section fig2.jpg" caption="Fig. 2: Plan of the Villa of La Cocosa." credit="Adapted from Serra Rafols." alt="" >}}
 
-<!--## Dates-->
-
+<!-- ## Dates -->
 
 ## Bibliography
 

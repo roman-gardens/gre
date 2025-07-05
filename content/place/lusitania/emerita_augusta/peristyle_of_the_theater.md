@@ -35,7 +35,6 @@ The area of Augusta Emerita best known today, because of extensive excavations, 
 
 Because most of evidence from Merida was unearthed in old excavations, the context of many ancient objects is unknown. There is also a lack of analytical data on many of the areas which must originally have been gardened. The classification of the gardens of the Colonia Augusta Emerita is still under analysis. The study by Moreno is a basic survey article and should be understood to be part of all the bibliographies for Merida.
 
-
 ## Bibliography
 
 - I. C. Moreno, "Los jardines de Mérida," *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
@@ -51,7 +50,6 @@ Peristyle of the Theater
 - {{< keyword "peristyles" >}}
 - {{< keyword "fountains" >}}
 
-
 ## Garden Description
 
 The space behind the theater screen comprises one of the best preserved gardens of Augusta Emerita. It consisted of a rectangular enclosure surrounded on the north, east, and west sides by ambulatories formed by double colonnades of granite with Corinthian capitals and red-stuccoed bases. The wall within these walkways had niches with paintings, of which few traces remain. In addition to entering through the screen, access was also possible via a small flight of granite steps in the southeast corner from the street, which separated this monument from the Amphitheater.
@@ -61,7 +59,6 @@ A water channel bordered the exterior of the colonnade, emptying into two small 
 While the theater belongs to multiple phases of construction, the aula sacra belongs to a Tiberian phase.  The peristyle's important program of sculptures and paintings, together with the green spaces, must have given the edifice a magnificent appearance. Unfortunately, many of its decorative elements, wall paintings, bronzes, and marble paving slabs do not survive, and there are few remaining works of statuary, although these are marble and well made.
 
 Water, indispensable for irrigation and the fountains, was in ample supply, probably owing to the theate's proximity to the San Lázaro water canal. The present appearance of the peristyle is the result of restorations carried out in 1964 by J. Menéndez-Pidal in which the south wing of the peristyle was resurrected and covered with a pergola and the fountain restored to working order.
-
 
 ## Plans
 
@@ -91,7 +88,6 @@ Water, indispensable for irrigation and the fountains, was in ample supply, prob
 * J.R. Mélida, "El teatro romano de Mérida," *R.A.B.M.*, 32, (1915): 1-38 [(worldcat)](https://search.worldcat.org/title/252779984)
 * P. Mateos Cruz and J. Marquez Pérez, 'Neuvas structuras urbanas relacionadas con el Teatro Romano de Mérida: El pórtico de acceso,' *Mérida, excavaciones arqueológicas, 1997*, pp.301-20 [(worldcat)](https://search.worldcat.org/title/48947141)
 * W. Trillmich, *Die Prásenz des Kaiserhauses im Theater der Colonia Augusta Emerita* , (unpublished disertation), University of München (1995)
-
 
 ## Places
 

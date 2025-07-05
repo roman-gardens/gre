@@ -17,12 +17,10 @@ draft: true
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
-
 ## Location
 
 - [Herculaneum]({{<relref "..">}}) \
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-
 
 ## Location Description
 
@@ -53,7 +51,7 @@ At the rear of this small house there was a courtyard with an impressive brick a
 
 540.III.19-18/1-2
 Because it was one of the largest houses in Herculaneum commanding a fine view of the Bay, it was initially thought that this residence was a hotel when it was excavated between the years of 1835 to 1855. The large garden (a) was also mistaken for a poultry yard but the discovery of the carbonized trunk of a pear tree (*Pyrus communis L.*) would indicate this area could have been planted in fruit trees. A *portico* surrounded the garden eight steps (1.10) above the garden level while the gutter ran one step below the *portico* and at each corner there was a shallow square basin for purifying the household water. The gutter conveyed the rain water to a cistern below the two wells, the openings of which were located between the columns in the middle of the east and west walls.  A low masonry wall of *opus reticulatum* which went between the columns was a later addition. The garden was entered by way of masonry steps in the center of the south side.
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
@@ -63,7 +61,6 @@ Because it was one of the largest houses in Herculaneum commanding a fine view o
 Image not yet in gre-images
 {{< image file="H_3_1-2_18-19.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
 -->
-
 
 ## Images
 
@@ -75,7 +72,6 @@ Image not yet in gre-images
 
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
 
 ## Dates
 

@@ -31,11 +31,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Le Pinard, House B](#)
 
-
 ## House
 
 Le Pinard, House B
-
 
 ## Keywords
 
@@ -43,25 +41,19 @@ Le Pinard, House B
 - {{< keyword "atriums" >}}
 - {{< keyword "vestibules" >}}
 
-
 ## House Description
-
 
 This house is also 120 southwest of the theater, in front of house A.  Excavated in 1967-1968, the parcel covers 450 sq m, with a useful covered surface of 401.5 sq m.  It was constructed in the second century.  Only the southwest corner is known; the rest is lost or not excavated.
 
 On entering from the east-west street, after passing through two incidental rooms, one comes into a vast space [1] occupied by a pool of about 2.5 x 3.5 m connected by a ditch to the sewer in the street.  This room, in which some see an atrium (?), may be a vestibule with pool connecting with the entrance of which the tower may have been treated as a garden (?). [This makes no sense to me; how can a tower be treated as a garden?  Maybe "tour" (tower) was supposed to be "cour" (courtyard).]
 
-
 ## Plans
 
-
 {{< image file="le_pinard_house_B.png" caption="Plan of Le Pinard, House B" credit="" alt="" >}}
-
 
 ## Dates
 
 A.D 101-200
-
 
 ## Bibliography
 
@@ -70,7 +62,6 @@ A.D 101-200
 2. Chr. Fraisse, J. Dupraz, *L'Ardèche*, CAG 07, Gap, 2001, P. 154
 
 3. Gros, Pierre. *L'architecture romaine: du début du IIIe siècle av. J.-C. à la fin du Haut-Empire. 1, 1*,. Paris: A. et J. Picard, 2011, P. 190-191.[(worldcat)](https://search.worldcat.org/title/762763355)
-
 
 ## Places
 

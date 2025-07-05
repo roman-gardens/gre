@@ -19,7 +19,6 @@ draft: false
 
 {{< image file="dougga_house_of_the_trifolium.jpg" caption="Plan of Thugga" credit="(Maurin, L., d'après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" alt="" >}}
 
-
 ## Location Description
 
 Annexed in 46 B.C., the Romanization of the city of Thugga that was probably a residence of the Numidian kings, was gradual but profound. It became Municipium Thuggense in 205, and was raised to the rank of a Colonia Licinia Septima Aurelia Alexandriana Thuggensesin in 261 under Gallien. Numerous buildings of this city overlooking the valley of the Ouadi Khaled, have been uncovered among them the Capitol dedicated to the Capitoline Triad in 166-67, the theater on the top of the plateau constructed under Antonius Pius, the Temple of Mercury, Fortune, Augustan Piety, Liber Pater, Concordia, Frugifer, Pluto, Saturn and the Temple of Caelestis which stands in the middle of a an olive grove. In the residential areas stands the Licinian Baths with their Palestrae and the Cyclops Baths and the Triumphal Arch of Septimus Severus set astride a street leading down the hill. Two building inscriptions (CIL VIII, 26606 and CIL VIII, 26607), dated to AD 166-169 mention a theater with a basilica, porticoes, and xystis.
@@ -34,7 +33,6 @@ House of the Trifolium (Maison du Trifolium)
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "semicircular basin" >}}
 - {{< keyword "oeci" >}}
-
 
 ## Garden Description
 

@@ -27,7 +27,6 @@ draft: false
 - [Palatine]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
-
 ## Garden
 
 Upper Peristyle and Nymphaea of the Domus Flavia, Palatine
@@ -52,7 +51,6 @@ Upper Peristyle and Nymphaea of the Domus Flavia, Palatine
 - [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
 - [Statius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1323)
 
-
 ## Garden Description
 
 UPPER PERISTYLE AND NYMPHAEA
@@ -73,7 +71,6 @@ RELATED PHASES ON THE PALATINE:
 [Garden of the Palatine Stadium (H)]({{<relref "palatine_stadium">}})\
 [Garden of the Severan Complex (I)]({{<relref "severan_complex">}})
 
-
 ## Figures
 
 {{< image file="domus_flavia_fig1.jpg" caption="Fig. 1: Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." credit="" alt="Plan of the Palatine" >}}
@@ -86,10 +83,9 @@ RELATED PHASES ON THE PALATINE:
 
 1st c- 5th c CE
 
-<!--## Excavation Dates
+<!-- ## Excavation Dates
 
-## Bibliography-->
-
+## Bibliography -->
 
 ## Places
 

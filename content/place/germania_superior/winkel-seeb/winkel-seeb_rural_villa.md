@@ -34,13 +34,13 @@ Rural Villa in Winkel-Seeb
 
 The residential and service parts of this *villa rustica* occupied an area of ca. 7 hectares. The lateral walls of the complex could be followed over a length of 395 meters, but it is assumed that they once extended up to the lake southeast of the farm. The house, measuring 56.70 x 82.40 meters, was of the winged corridor type (Fig. 12.1). The *villa rustica* was built in the first half of the 1st century A.C. and inhabited until its destruction in 250. The two protruding wings on either side of the entrance on the north extended to the dividing wall between the pars urbana and the pars rustica. These may have been built as covered porticoes or pergolas. The large terraced courtyard between them was possibly laid out as a garden or park (G in Fig. 1). Immediately north of the dividing wall was a well-house.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="EUR_GS_WinSe_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa with porticoes enclosing a possible garden (G) in front of the house." credit="Plan adapted from Drack and Fellmann 1988, fig. 511." alt="" >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

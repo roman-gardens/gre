@@ -30,8 +30,7 @@ A colonial military settlement of Macedonian Greeks on the west bank of the Euph
 
 While the general settlement of Jebel Khalid appears to have been systematically abandoned at the end of the Seleucid period (late 70s/early 60s BCE), some seasonal occupation continued into the early Roman period in some of the rooms of the Acropolis Palace. The multiplicity of weak floors in some areas suggests occupation by seasonal pastoralists, and Roman–period coins dating from the third century CE onwards occur in areas of stone-robbing. When major elements of the building eventually collapsed they fell on up to a metre of wind-blown soil – up on the Acropolis high-ground there is not the possibility of alluvial wash-down – implying that the building had stood substantially intact but unroofed for several centuries after its abandonment. The ruins attracted Roman-period scavengers, sightseers and stone robbers, who even scratched graffiti in the plaster of fallen masonry (Clarke: 1992/3).
 
-<!--## Sublocation-->
-
+<!-- ## Sublocation -->
 
 ## Garden
 

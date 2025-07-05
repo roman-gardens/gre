@@ -31,12 +31,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [House of the Columns](#)
 
-
 ## House
 
-
 House of the Columns
-
 
 ## Keywords
 
@@ -48,7 +45,6 @@ House of the Columns
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "nymphaea" >}}
 
-
 ## House Description
 
 The house  had a linear plan starting from a garden on the south, then on the north side of the garden, a façade gallery, then several rooms, and finally a peristyle on the north. It went through three phases with the changes concentrated on the south garden. In the first phase, this garden [13] (23.5 x 11.5 m) was bordered on the north by a portico [12] 2.5 meters wide. In the garden, adjacent to this portico and directly in front of the principal reception room [8] was a rectangular pool (7.5 x 4 m) with an apse in the center of the south side. It probably had a fountain.
@@ -57,10 +53,9 @@ In the second phase, this south  garden was reduced by the addition of two later
 The final phase lasted about fifty years, beginning in the first half of the third century. The south garden was enlarged by the suppression of the east portico. The U-shaped channel pool lost its lateral arms, so that it became a simple rectangle (18 x 1.5 m) and it was made shallower. The apse, in practically the same place, was off-center to the west. The garden kept its summer *triclinium* and *nympheum*.
 
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
-
 
 {{< image file="house_of_the_columns_phase1.png" caption="Fig. 1 Plan of House of the columns_phase1" credit="" alt="Plan of House of the columns_phase1" >}}
 
@@ -68,9 +63,7 @@ The final phase lasted about fifty years, beginning in the first half of the thi
 
 {{< image file="house_of_the_columns_phase3.png" caption="Fig. 3 Plan of House of the columns_phase2" credit="" alt="Plan of House of the columns_phase3" >}}
 
-
 ## Dates
-
 
 ## Bibliography
 
@@ -83,7 +76,6 @@ The final phase lasted about fifty years, beginning in the first half of the thi
 4. *Recherches Archéologiques a Saint-Romain-En-Gal (1988 - 1990)*. Vienne, 1992, P. 45-83.[worldcat](https://search.worldcat.org/title/1068996218)
 
 5. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig. 194.[worldcat](hhttps://search.worldcat.org/title/43416334)
-
 
 ## Places
 

@@ -41,13 +41,11 @@ This large, typical 'peristyle house' had a courtyard that provided light for al
 
 To the left of the entering guest was the reception room with an interesting mosaic of the birds, each bird in its own square.  Straight ahead, behind the peristyle, was a large *triclinium* with a good view of the garden.  Moreover, beside the *triclinium* and presumably visible from it through a window was a small garden with a peristyle of two columns on two sides and four on one side. Most of this garden was occupied by an ornate pool with semicircular extensions at the corners.  On the other side of the *triclinium* was another pool with long steps descending into it suggesting that it was for swimming. It was surrounded by a patio. Opening onto this patio were five rooms with mosaic floors.  To the visitor's right on entering the garden from the southwest were found traces of a niche with a mosaic pavement above which had once been the *lararium*.
 
-
 ## Maps
 
 {{< image file="HIS_BAE_Italica_city plan_CA.jpg" caption="Fig. 1: Map of Italica." credit="" alt="" >}}
 
 ## Images
-
 
 {{< image file="HIS_BAE_Italica_Hob_CA fig1.jpg" caption="Fig. 1: Photograph looking over the garden to the northeast." credit="" alt="" >}}
 
@@ -61,7 +59,6 @@ To the left of the entering guest was the reception room with an interesting mos
 
 {{< image file="HIS_BAE_Italica Hob_CA fig6.jpg" caption="Fig. 6: Plan of the House of the Birds." credit="" alt="" >}}
 
-
 ## Dates
 
 unspecified
@@ -71,7 +68,6 @@ unspecified
 * Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](https://search.worldcat.org/title/882602957)
 * A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](https://search.worldcat.org/title/638777432)
 * A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). 70-71 [(worldcat)](https://search.worldcat.org/title/916989580)
-
 
 ## Places
 

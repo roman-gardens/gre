@@ -27,7 +27,6 @@ draft: false
 Palatine Hill \
 - {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
-
 ## Garden
 
 Stadium Garden of the Flavian Palace, Palatine
@@ -73,7 +72,6 @@ RELATED PHASES ON THE PALATINE:
 [Garden of the Domus Flavia (E)]({{<relref"Domus_flavia">}})\
 [Garden of the Domus Augustana (F,G)]({{<relref"domus_augustana">}})\
 [Garden of the Severan Complex (I)]({{<relref"severan_complex">}})
-
 
 ## Figures
 

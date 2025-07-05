@@ -33,7 +33,6 @@ Niederzier Hambach 59
 - {{< keyword "orchards" >}}
 - {{< keyword "cherry" >}}
 
-
 ## Garden Description
 
 This farm, known as Hambach 59, was built in the late 1st century A.D. and inhabited until its destruction in the 4th century (Plan 1). The farmhouse, 19.50 x 26 m. in size (A on plan), occupied a position in the northern part of the complex, and looked out on the rest of the farm to the south where various outbuildings and stables stood. There was no division between the residential part and the service area of the farm.

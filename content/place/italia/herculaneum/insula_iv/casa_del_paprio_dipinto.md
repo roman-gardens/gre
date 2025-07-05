@@ -17,12 +17,10 @@ draft: true
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
-
 ## Location
 
 - [Herculaneum]({{<relref "..">}}) \
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-
 
 ## Location Description
 
@@ -40,30 +38,27 @@ IV
 
 Casa del Paprio Dipinto
 
-
 ## Keywords
 
 - {{< keyword "impluvia" >}}
-
 
 ## Garden Description
 
 544.IV.8-9.
 This narrow house excavated in 1929-1932 had a small paved courtyard serving as both a light well and an *impluvium*. This area could have held potted plants. A hunt scene once decorated the back wall, featuring lions and bulls, scenes more typically found on the walls of more luxurious dwellings.
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="H_4_3-9.jpg" caption="Plan of Casa del Paprio Dipinto" credit="" alt="" >}}
 
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Places
 
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
 
 ## Dates
 

@@ -31,7 +31,6 @@ Urban house on Wolfsstrasse (Colonia Claudia Ara Agrippinensium)
 - {{< keyword "peristyles" >}}
 - {{< keyword "mural paintings" >}}
 
-
 ## Garden Description
 
 Only a fraction of this house in the immediate vicinity of the [House on Gertrudenstraße]({{<relref "colonia_cologne_gertrudenstrasse.md">}}) was excavated. Enough was salvaged, however, to be able to recognize that the house was of the peristyle type (Plan 1). The house was built after the middle of the 1st century A.D. By the mid-4th century the building was ruinous and the stones of most of the walls were robbed for reuse elsewhere.

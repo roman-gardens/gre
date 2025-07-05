@@ -36,7 +36,7 @@ In the leveled remains of the 1st century house were fragments of painted wall p
 
 ## Maps
 
-<!--## Plans-->
+<!-- ## Plans -->
 
 ## Images
 

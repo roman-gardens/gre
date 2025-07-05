@@ -30,11 +30,9 @@ The variety of trees and plants cultivated in ancient Delos is known from the ep
 <!--
 ## Plans
 
-
 ## Images
 
 -->
-
 
 ## Bibliography
 

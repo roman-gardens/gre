@@ -23,7 +23,6 @@ Via Aurelia
 
 An ancient Roman road begun ca. 241 B.C. by the censor C. Aurelius Cotta.
 
-
 ## Garden
 
 Tomb Garden of Terentia
@@ -37,13 +36,11 @@ Tomb Garden of Terentia
 
 A fragmentary (and probably reused) epitaph, probably of the first or second century CE, found in the catacombs of Calepodio beside the Via Aurelia identifies a cepota[phium] of Terentia.
 
-
 ## Bibliography
 
 - J. Bodel, *Roman Tomb Gardens*, Cambridge University Press, 2018, pp. 225, 237.  [link](https://www.cambridge.org/core/books/gardens-of-the-roman-empire/roman-tomb-gardens/6BDAE36C21FFFADD3EB4E9CBD4BB8986)
 
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](https://search.worldcat.org/title/886794800)
-
 
 ## Places
 

@@ -41,28 +41,25 @@ The northern end of this vast house is just west of the House of Five Mosaics an
 
 House of the Ocean Gods
 
-
 ## Keywords
 
 - {{< keyword "porticoes" >}}
-
 
 ## Garden Description
 
 A century passed before further major modifications. Then the eight columns of the vestibule on the south were removed, and the mosaic floor with the heads of the ocean gods in the four corners (which gives its name to the house) was installed there. In the middle was of the vestibule was a circular pool (diameter 2.5 m) with water jets. North of the first peristyle garden, a huge room [14] was created connecting the first peristyle to the second. In the following peristyle [19], the U-shaped pool with the water jets was eliminated, though the rectangular pool (6.30 x 2.50 m), lined with white marble at the south end of the peristyle was kept. Its bottom was 40 centimeters below the level of the floor of the south portico. Several ovoid horticultural pots (oleae perforatae) in common pale earth ceramic were found against the north wall of this pool.
 The rest of the north end of the house remained unchanged. It should be added that the area [29] west of large room [30] may have been a third garden.
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 
 A.D. 185-A.D 247
 
 ## Bibliography
-
 
 1. Laroche, H. Savay-Guerraz, E. Chantriaux et al. *Guides Archéologiques De La France*. Saint-Romain-en-Gal: Conseil général du Rhône, Equipe archéologique de Saint-Romain-en-Gal, 1984, P. 46-57[worldcat](https://search.worldcat.org/title/234328026)
 
@@ -77,7 +74,6 @@ A.D. 185-A.D 247
 6. Gros, Pierre. *L'architecture Romaine Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 160-162.[worldcat](https://search.worldcat.org/title/1169743067)
 
 7. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271, fig 189.[worldcat](https://search.worldcat.org/title/43416334)
-
 
 ## Places
 

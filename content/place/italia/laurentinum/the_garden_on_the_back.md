@@ -39,7 +39,6 @@ Proofs of this were gathered. First of all topographical ones. We knew the layou
 
 A survey proved that everything Pliny had depicted in his letter tallied with the remains of the villa, and also the description of his gardens (SALZA PRINA RICOTTI 1985; SALZA PRINA RICOTTI 1987a).
 
-
 ## Garden
 
 The garden on the back
@@ -53,7 +52,6 @@ The garden on the back
 
 Excavating the garden of the Laurentinum would have been very interesting, but there was not the time, nor the money. However we found where it was: a rectangular area free from masonry set, as the letter said, on the back of the famous cryptoporticus, one of the principal highlights of the Laurentine. Pliny told us that a long vine trellis ran along this building and that mulberry trees and figs grew in the garden. Thus the place, with its fruit trees, must have been pleasingly rustic. There was also a long hedge of box trees. Rosemary took the place of buxum every time the bushes had to be exposed to the sea winds. As Pliny explained, buxum couldn't stand the salt and, when exposed to it, it quickly dried up and died, while rosemary thrived on the coast.
 This description we just reported was the one that Pliny gave us. From what we see now, it appears that, after Pliny's death and the selling of his maritime residence, the new owners brought many changes to it. Today high heaps of soil surround the garden's area and, even though this part has not been excavated, it is evident that some masonry structure must be buried under it. It is highly probable that the vine trellises, and the rustic enclosures of Pliny's times, were substituted by a marble portico which transformed the simple garden in a more elegant peristyle one. Evidently at this moment mulberry trees and figs must have been quickly replaced by less useful but more decorative plants.
-
 
 ## Plans
 
@@ -76,7 +74,6 @@ Unspecified
 - SALZA PRINA RICOTTI 1987 = E. SALZA PRINA RICOTTI, , *The Importance of Water in Roman Garden Triclinia*,in Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection), Dumbarton Oaks 1987, pp. 137-184 [worldcat](https://search.worldcat.org/title/887179596)
 
 - SALZA PRINA RICOTTI 1987a = rrE. SALZA PRINA RICOTTI, , *La Villa Magna a Grotte di Piastra*,in Castelporziano II. Campagna di scavo e di restauro 1985 – 1986, Roma 1987, pp. 45-66 [worldcat](https://search.worldcat.org/title/848344120)
-
 
 ## Places
 

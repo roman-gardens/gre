@@ -31,18 +31,15 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Villa de Château-Pipet](#)
 
-
 ## Villa
 
 Villa de Château-Pipet
-
 
 ## Keywords
 
 - {{< keyword "basins" >}}
 - {{< keyword "columns" >}}
 - {{< keyword "opus signinum" >}}
-
 
 ## Villa Description
 
@@ -51,22 +48,17 @@ Between the garden and the gallery on the west was a rectangular pool with a sem
 
 No date was proposed for the structure in the excavation reports.
 
-
 ## Plans
-
 
 {{< image file="villa_de_chateau_pipet.png" caption="Plan of Villa de Château-Pipet" credit="" alt="" >}}
 
-
 ## Dates
-
 
 ## Bibliography
 
 1.  M. LE GLAY, *Informations archéologiques*, dans Gallia, 1966, P. 519-520.
 
 2. Chr. FRAISSE, J. DUPRAZ, sous la resp. de M. Provost, *L'Ardèche* 07, Carte  archéologique de la Gaule, 2001, P. 195-196, plan P. 196 [(worldcat)](https://search.worldcat.org/title/490154337)
-
 
 ## Places
 

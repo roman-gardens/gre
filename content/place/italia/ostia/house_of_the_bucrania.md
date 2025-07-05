@@ -83,7 +83,7 @@ At present, this is the earliest *hortus* known in ancient Ostia.
 
 ## Figures
 
-{{< image file="ostia_fig18.jpg" caption="Figure 1: Plan" credit="(from Morard, Wavelet 2002)." alt="Plan of the Schola of the Trajan" >}} <!--missing illustration-->
+{{< image file="ostia_fig18.jpg" caption="Figure 1: Plan" credit="(from Morard, Wavelet 2002)." alt="Plan of the Schola of the Trajan" >}} <!-- missing illustration -->
 
 ## Dates
 

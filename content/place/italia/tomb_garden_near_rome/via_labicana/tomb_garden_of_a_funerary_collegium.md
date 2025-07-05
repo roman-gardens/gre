@@ -23,7 +23,6 @@ Via Labicana
 
 An ancient Roman road connecting Rome and Labicum.
 
-
 ## Garden
 
 Tomb Garden of a Funerary Collegium
@@ -34,7 +33,6 @@ Tomb Garden of a Funerary Collegium
 - {{< keyword "funerary buildings" >}}
 - {{< keyword "tombs" >}}
 
-
 ## Garden Description
 
 A marble slab found at the cemetery of Centocelle and now preserved in the National Museum in Stockholm records the establishment in 16 CE of a funerary garden and various appurtenances by two senior officials of a funerary collegium and the clearing of an area beyond a perimeter wall for the construction of new crematories (ustrinae). The long  commemorative text, our most detailed verbal record of the appointments of a Roman funerary garden, is worth quoting in full:
@@ -44,7 +42,6 @@ T. T. Coccei Gaa and Patiens, quaestors (of the funerary collegium) for the thir
 T. T. Coccei Gaa et  / Patiens quaest(ores) III ((tertio))  / mensam quadratam in trichil(a), / abacum cum basi, horologium, / labrum cum fulmentis, marmor  /5 putiale, crustas supra parietem / itineris medi cum tegulis, columel/lam sub horologio Tiburtina(m?) 7 (sic)  / protectum ante porticum, truti/nam et pondera d(e) d(ecurionum) s(ententia) posuerunt;  / et locum post maceriam ulteriorem /10 emendum ustrinasque de consaepto  / ultimo in eum locum traiciendas et  / iter ad eum locum ianuamque bene/ficio et liberalitate T. patroni faci/enda curauerunt;  /15 idemque uitium pomorumq(ue) et florum / uiridiumque omnium generum  / seminibus ea loca quae T. p(atronus) decuri/onibus suis adtribuerat ex pecu/nia publica adornauerunt, /20 Sisenna Tauro L Scribonio Libone co(n)s(ulibus). /
 
 The inscription concludes with eight hexameters urging readers to recognize in the expense incurred the just observance of piety and, for peace of mind, to follow the example of those who created and tended for the garden during their lifetimes so as to be remembered and cared for by others after their deaths (CLE 371). It is tempting to set the tomb complex of the funerary collegium described in this text in relation to the marble plan of a large tomb garden found also found in the Centocello cemetery and now in Urbino (no. XXX), but the references to ustrinae accessed by a path and gate, "the wall of a middle path with a tiled roof", and projecting eaves in front of a portico are difficult to reconcile with the markings on the marble plan. If the two records do concern the same cemetery complex, the plan does not seem to depict the part of it described in the inscription of the collegium.
-
 
 ## Dates
 
@@ -57,7 +54,6 @@ The inscription concludes with eight hexameters urging readers to recognize in t
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](https://search.worldcat.org/title/886794800)
 
 - L. Chioffi, *Epigrafia e insediamenti: Il caso del suburbio di Roma,* in  La forma della città e del territorio (Atlante Tematico di Topografia Antica V Supplemento), edited by S. Quilici Gigli (Rome, 1999) 53 n. 9.[worldcat](https://search.worldcat.org/title/43384208)
-
 
 ## Places
 

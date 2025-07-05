@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -45,7 +44,7 @@ Shop-House garden with an outdoor [triclinium](http://vocab.getty.edu/page/aat/3
 
 The shop-house was laid out in a very irregular manner and the garden took up most of the space. There was a masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) in the southern part of the garden. This had a *lectus imus* and a *lectus summus* that both were 3.80 m. in length and the *lectus medius* was 4.24 m. in length. The rectangular [table](http://vocab.getty.edu/page/aat/300039548) measured 1.10 x 0.75 m.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 <!--
 ## Plans
@@ -55,7 +54,7 @@ The shop-house was laid out in a very irregular manner and the garden took up mo
 {{< image file="../Region_I_insula_vii.jpg" caption="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach" credit="" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." >}}
 -->
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

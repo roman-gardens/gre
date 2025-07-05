@@ -23,13 +23,12 @@ Remains of gardens have yet to be discovered in this city, but an appreciation f
 
 Terrace House 2
 
-<!--## Sublocation-->
+<!-- ## Sublocation -->
 
 <!--
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
-
 
 ## Keywords
 
@@ -38,7 +37,6 @@ A sublocation is any area larger than an individual garden, but located within a
 - {{< keyword "peristyles" >}}
 - {{< keyword "medallions" >}}
 - {{< keyword "putti" >}}
-
 
 ## House Description
 
@@ -58,9 +56,7 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 
 {{< image file="Ephesos Plan.jpg" caption="Plan of Ephesos terrace house 2 with courtyard in the middle and rooms surrounding it." credit="Photo by N. Blanc" alt="" >}}
 
-
 ## Images
-
 
 {{< image file="Ephesos Northwest corner 5a.jpg" caption="Garden painting in the North-West corner of the peristyle" credit="" alt="Garden painting in the North-West corner of the peristyle showing plants and painted windows with more surrounding context" >}}
 
@@ -69,7 +65,6 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 {{< image file="Ephesos West Wall.jpg" caption="Painting as discovered on the west wall of the terrace house 2" credit="" alt="Painting showing plants as discovered on the west wall of the terrace house 2" >}}
 
 {{< image file="Ephesos North Wall.jpg" caption="Painting as discovered on the North wall of the terrace house 2" credit="" alt="Painting showing plants as discovered on the North wall of the terrace house 2" >}}
-
 
 ## Dates
 
@@ -81,7 +76,6 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 - *Forschungen in Ephesos* Vol. VIII/2 Figs. 109-130 [(worldcat)](https://search.worldcat.org/title/6928546)
 - W. Jobst, *Romische Mosaiken aus Ephesos I:  Die Hanghauser des Embolos*,Vienna, 1977 [(worldcat)](https://search.worldcat.org/title/929054298)
 - C. Kearns, "Visual representations of gardens: diachronic perspectives on the art of landscape," In ed. K. Gleason, *Cultural History of Gardens*, London. 2013. pp. 164-165. [(worldcat)](https://search.worldcat.org/title/968338784)
-
 
 ## Places
 

@@ -58,7 +58,6 @@ B. Backed up to the ancient caupona there was a second garden (b) next to the tr
 
 Unspecified
 
-
 ## Bibliography
 
 * Breton, *Pompeia*, pp. 497-498 and drawing of stibadium on p. 499 [(worldcat)](https://search.worldcat.org/title/894211341)

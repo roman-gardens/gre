@@ -40,7 +40,6 @@ Two open spaces(XXVIII, XXXIV) with an earthen floor, probably small gardens, we
 
 Another possible garden(X) was adjacent to the reception room of the northern aisle of the portico.  This house dates from 150-170 A.D.
 
-
 ## Maps
 
 ## Plans
@@ -60,13 +59,12 @@ Another possible garden(X) was adjacent to the reception room of the northern ai
 - Gozlan, S., Bourgeois, A., *La maison du Triomphe de Neptune à Acholla (Botria, Tunisie) ; I – Les mosaïques* (Collection de l'EFR, 160), Rome, INAA – EFR, 1992. [(worldcat)](https://search.worldcat.org/title/860317924)
 - Rebuffat, R., *Maisons à péristyle d'Afrique du Nord, Répertoire de plans publiés*, II, MEFRA, tome 86, 1974-1. [(worldcat)](https://search.worldcat.org/title/1069174087)
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="324653" name="Acholla" >}}
 - {{< id vocab="TGN" id="5003657" name="Henchir Bou Tria (deserted settlement)" >}}
 
-<!--## Related articles
+<!-- ## Related articles
 
 [House of Asinus Rufinus (Maison d'Asinus Rufinus)]({{<relref "house_of_asinus_rufinus.md">}})
 -->

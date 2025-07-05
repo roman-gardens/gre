@@ -29,9 +29,8 @@ Villa el Ruedo
 - {{< keyword "peristyles" >}}
 - {{< keyword "reservoirs" >}}
 - {{< keyword "triclinia (rooms)" >}}
-<!-- [nymphaeaum]-->
-<!-- [kiln]-->
-
+<!-- [nymphaeaum] -->
+<!-- [kiln] -->
 
 ## Garden Description
 
@@ -43,10 +42,9 @@ The exterior of the low walls between the eight columns of the peristyle were pa
 
 The chronology of the house is quite tentative.  A first phase, probably to be placed in Flavian times, was an agricultural establishment with a central courtyard. The second phase added a peristyle to this courtyard and paved its center with mosaics. There may have been a pool in the peristyle.  This phase probably lasted through most of the 2nd and perhaps well into the 3rd century.  The elaborate  nymphaeum and *stibadium* described above were then created either in the late 3rd or more probably early 4th century.  It met a violent end with intentional destruction of the statues early in the 5th century.  Later in that century, some industrial structures, including a kiln for structural ceramics, were built on the site.
 
-
 ## Maps
 
-<!--## Plans-->
+<!-- ## Plans -->
 
 ## Images
 
@@ -56,7 +54,6 @@ The chronology of the house is quite tentative.  A first phase, probably to be p
 
 {{< image file="HIS_BAE_Almedinilla_El Ruedo_Fig. 3_CA.jpg" caption="Fig. 3  Photograph looking south over stibadium and pools (Clopper Almon)." credit="" alt="" >}}
 
-
 ## Dates
 
 unspecified
@@ -65,7 +62,6 @@ unspecified
 
 * D. Vaquerizo Gil and J. R. Carrillo Diaz-Pines,'The Roman Villa of El Ruedo' (Almedinilla, Córdoba),*Journal of Roman Archaeology 8*, (Ann Arbor 1995), 121-154. [(worldcat)](https://search.worldcat.org/title/643576298)
 * D. Vaquerizo and J. M. Noguera,*La villa romana de El Ruedo (Almedinilla, Córdoba): Decoración escultórica e interpretación*, Diputación Provincial de Córdoba-Universidad de Córdoba-Universidad de Murcia (Murcia 1997). [(worldcat)](https://search.worldcat.org/title/1024361591)
-
 
 ## Places
 

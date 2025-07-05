@@ -24,12 +24,9 @@ draft: true
 - {{< keyword "domus" >}}
 - {{< keyword "hypocausts" >}}
 
-
 ## Garden Description
 
-
 A large reception room of 73 square meters in the northwest corner was heated by a *hypocaust* under the floor. In this room was a grand composition depicting a procession of people. Next to this room was a square room that looked out down the long axis of the garden that filled the 247 square meter rectangular (19 x 13 m) rectangle of open area. The Corinthian colonnade of the garden was found collapsed towards the outside. Elegant Corinthian capitals of limestone and fragments of column bases of attic type with traces of tinted whitewash and red accents were found during the excavations.
-
 
 ## Maps
 
@@ -49,7 +46,6 @@ Unspecified
 ## Bibliography
 
 - :A. Ollagnier, D. Joly, *L'Eure-et-Loir,*  CAG  p. 137-139, plan  p. 138 (with bibliography of previous works).  [(worldcat)](https://search.worldcat.org/title/1031979297) <!-- missing Worldcat -->
-
 
 ## Places
 

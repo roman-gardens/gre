@@ -20,7 +20,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-
 ## Insula
 
 [Insula II]({{<relref "..">}})
@@ -52,7 +51,7 @@ Garden Painting
 
 <span style="color:green"> When this garden was excavated in 1873, the excavators reported three panels on the east wall with garden paintings. The center panel had a body of water with swimming fish with assorted animals in the background that included a grazing deer and a springing leopard. The two panels on either side each had a large crater-shaped fountain surrounded by thick growth. Large red flowers and yellow apples could be identified to the left of each fountain and the right, pomegranates (*Punica granatum* L.). Jashemski examined this painting in 1964 to find it had been covered by a growth of ivy which had destroyed most of the painting. A section of a large pomegranate bush was all that was left intact at the time. She describes the leaves, painted in blue-green with darker shading and a few yellow leaves and the fruit, deep yellow with reddish-orange shading, as being rendered in an impressionistic manner. At the right of the entrance to the garden area was a cistern opening. </span>
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 

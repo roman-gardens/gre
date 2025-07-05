@@ -57,7 +57,6 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 
 3-The rear garden (C) of the "House of Bacchus" seems to have originally belonged to the little baths and then the house with the large peristyle VI (see Plan view in red Fig. 1). It was greatly transformed in Late Antiquity. The great seven apses hall, built in the middle of the fifth century, took the place of the small baths and overwhelmed this space with its impressive volume. The large *oecus* may be assigned to the Constantinian period: perhaps it had a view over the rear garden at that time. Afterwards, this room was extended with an absidial pool (11 m long); through a wide door, people accessed a little terrace, from where they overlooked the new pool, paved with marble, one meter below. Water arrived from two little pools on each side and went into the drain of the seven apses room. Two little columns bore a small pediment. In the inside edges, we see terracotta amphoras used to raise fish. The inside borders are complete, but the outside masonry is unfinished, so that we may think that the rear wall may have stood high enough to form a nymphaeum. The masonry is similar in the fish pool and in the seven apses (brick tiles joined by brick layers forming crosses) : from that, we infer they were built at the same time, in the middle of the fifth century. The foundation of the fish pool was laid on the bottom of the rectangular one, which perhaps was filled up.
 
-
 ## Plans
 
 {{< image file="house_of_bacchus_plan_new1.jpg" caption="Fig. 1: Plan of the House of Bacchus" credit="(Dans les jardins de Djemila, Blanchard-Lemée, M., 1998, p. 194, fig. 9)" alt="Plan of the House of Bacchus." >}}
@@ -74,10 +73,12 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 
 3nd-5th century CE
 
-<!--## Excavation Dates
+<!--
+## Excavation Dates
 
 1929, 1931, 1937, 1944
 -->
+
 ## Bibliography
 
 * Blanchard-Lemée, M., "Dans les jardins de Djemila", in *Antiquités Africaines*, 34, 1998, pp. 185-197, Il fig. [(worldcat)](https://search.worldcat.org/title/4824686051)

@@ -31,11 +31,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Baths of La Planchette](#)
 
-
 ## Garden
 
 Baths of La Planchette
-
 
 ## Keywords
 
@@ -43,24 +41,17 @@ Baths of La Planchette
 - {{< keyword "gutters" >}}
 - {{< keyword "apsed pools" >}}
 
-
-
 ## Garden Description
-
 
 To the northeast there are the baths of la Planchette, today backfilled.  This bath complex of modest dimensions may have been attached to the northeast angle of the court of the house.  It is surrounded on the exterior by a large gutter for rainwater.  To the northeast of the bath building a rectangular pool has been found of about 3.5 x 2 m and having a semicircular apse with a diameter of 2 m.  It is without doubt an ornamental pool belonging to the exterior garden associated with the baths.  The nature of the ground surface around it is unknown.  At the time of its discovery, the pool still had a water supply pipe of lead.
 
-
 ## Plans
-
 
 {{< image file="baths_of_la_planchette_1.png" caption="Fig.1 Plan of Baths of La Planchette_1" credit="" alt="Plan of Baths of La Planchette_1" >}}
 
 {{< image file="baths_of_la_planchette_2.png" caption="Fig.2 Plan of Baths of La Planchette_2" credit="" alt="Plan of Baths of La Planchette_2" >}}
 
-
 ## Dates
-
 
 ## Bibliography
 

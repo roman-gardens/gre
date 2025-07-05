@@ -39,12 +39,11 @@ House of  Sorothus (Maison de Sorothus)
 This very damaged house was laid out around a peristyle garden. A semi-circular and bisected basin was placed on the axis of the reception room (Plan view, Fig. 1). The small wall that enclosed the garden was painted with flowers.
 
 
-<!--## Maps
+<!-- ## Maps
 
-{{< image file="map_of_hadrementum.jpg" caption="Map: Map of Hadrementum. 1. House of Sorothus, 2. House of the arsenal and House of Vergil, 3. House of the masks, 4. House of the ostriches, 5. Balzan house, 6. House of the satyrs and of the Bacchae, 7. House at the catacomb of the Good Shepherd. (North is at the top; there is no scale.) Adapted from Amplissimae." credit="" alt="Map of Hadrementum at hadrumetum">}}-->
+{{< image file="map_of_hadrementum.jpg" caption="Map: Map of Hadrementum. 1. House of Sorothus, 2. House of the arsenal and House of Vergil, 3. House of the masks, 4. House of the ostriches, 5. Balzan house, 6. House of the satyrs and of the Bacchae, 7. House at the catacomb of the Good Shepherd. (North is at the top; there is no scale.) Adapted from Amplissimae." credit="" alt="Map of Hadrementum at hadrumetum">}} -->
 
 ## Plans
-
 
 {{< image file="Bouse_of_Sorothus1.jpg" caption="Fig. 1: Diagram plan of the House of Sorothus" credit="(from Laporte, J.-P., Lavagne, H., 2006, fig.4, and Hannezo, G., 1896, p.819)" alt="Diagram plan of the House of Sorothus">}}
 
@@ -64,7 +63,6 @@ proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.[(worldcat)](https:/
 - La Blanchère, M.-R., "Note sur une mosaïque représentant le cortège de de Neptune, découvertes à Hadrumetum et transportée au musée de Tunis (Bardo)", in *Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres*, 15, p. 342-346, 378-383.[(worldcat)](https://search.worldcat.org/title/4649609892)
 - La Blanchère, M.-R., "La mosaïque de Neptune à Sousse", in *Bulletin du Comité des travaux historiques*, 1888, p. 163‑176.
 - Laporte, J.-P., Lavagne, H., "Sousse: La domus de Sorothus et ses mosaïques", in *Les sodalités africo-romaines*, Chaires internationales de recherche Blaise Pascale, Paris, 2006, p. 24-28, fig. 4.  [(worldcat)](https://search.worldcat.org/title/912914354)
-
 
 ## Places
 

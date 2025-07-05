@@ -17,7 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="108945" name="Durocortorum" >}}
 
 
-<!--## Sublocation-->
+<!-- ## Sublocation -->
 
 <!--
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
@@ -38,13 +38,11 @@ House of the Ram (La Maison au Bélier)
 - {{< keyword "drains" >}}
 - {{< keyword "corridors" >}}
 
-
 ## Garden Description
 
 BEL 2.3.1: Reims, House of the Ram
 Excavated in 1992-93 by Agnès Balmelle, this vast house probably covered about 2000 square meters. The date of construction is rather uncertain; it could be as early as the end of the first century or as late as the second half of the second (Fig. 1)  The excavations have revealed a *portico* (A) (20 x 3 m) opening onto an open space which may have been a garden. It was bordered on the southwest by *drain* which no doubt collected rainwater from the roof and led it away to the northwest. A well (E) was in the north gallery or *corridor* (B).
-<!-- Text comes from draft file-->
-
+<!-- Text comes from draft file -->
 
 ## Maps
 

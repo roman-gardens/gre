@@ -21,7 +21,7 @@ The regions on the upper [Rhine](#) formally became the province of Germania Sup
 
 ## Maps
 
-<!--## Plans-->
+<!-- ## Plans -->
 
 ## Images
 

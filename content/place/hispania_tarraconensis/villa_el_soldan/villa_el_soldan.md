@@ -32,7 +32,6 @@ There has been little research on the gardens in the Roman settlements in Spain 
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
-
 ## Bibliography
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
@@ -43,12 +42,10 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
-
 ## Location
 
 - [Villa El Soldán  (The Sultan)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="972371930" name="Villa El Soldán  (The Sultan) " >}}
-
 
 ## Garden
 
@@ -73,7 +70,6 @@ In the center of the peristyle was a rectangular pool with protruding semi-circu
 ## Plans
 
 {{< image file="his_tar_san_soldan_sultan_fig1.jpg" caption="Fig. 1:  Plan of Villa El Soldán." credit="Gorges, Planche XXXVI" alt="" >}}
-
 
 ## Dates
 

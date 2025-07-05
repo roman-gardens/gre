@@ -32,7 +32,6 @@ There has been little research on the gardens in the Roman settlements in Spain 
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
-
 ## Bibliography
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
@@ -43,16 +42,13 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
-
 ## Location
 
 - [Villa Fortunatus]({{<relref ".">}})
 
-
 ## Location Description
 
 Fraga sits astride the Cinca river about 86 kilometers northwest of Tarragona and 103 kilometers east of Zaragoza.  About 15 kilometers downstream, the Cinca is joined by the Segre and after another 5 kilometers they join the Ebro, which flows into the Mediterranean about 70 kilometers south west of Tarragona.
-
 
 ## Garden
 
@@ -63,11 +59,9 @@ Villa of Fortunatus
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "mosaics" >}}
 
-
 ## Garden Description
 
 On the left bank of the Cinca about 5 km upstream (north) of Fraga, at the top of a steep bank, this villa sits some fifteen meters above the river below.  At high water, the villa could have fairly easily floated its products to the sea.  It had a view of the fertile plain on the right bank. The site has been known since at least 1893 and was excavated almost clandestinely between 1926 and 1936; no reports are known.  The site was occupied from the Republican period, but a new atrium-style house was constructed in the second century.  At the end of the third or beginning of the fourth century, a *peristyle* (20.5 x 17 m.) with a garden was added.  In the center of the north side was a long, narrow, brick pool raised above ground level.  On it were paintings of fish and aquatic plants.  Both ends of the pool are semicircular.  At the east end of the pool was a well, 12-14 meters deep, which provided water for the garden.  The galleries surrounding the garden were all paved in *mosaic*. In the triclinium or reception room on the south side of the garden the *mosaic*, with floral designs and animals, bears in its border the name of builder written in two parts, FORTU and NATUS, separated by the Christian symbol of the crossed Χ and Ρ and the letters ω and α.  Later, a palaeochristian chapel was installed and  remained intact until the sixth century. (B?)
-
 
 ## Bibliography
 
@@ -83,16 +77,13 @@ On the left bank of the Cinca about 5 km upstream (north) of Fraga, at the top o
 
 {{< image file="fraga_villa_of_fortunus_ca.jpg" caption="Plan of the Villa of Fortunatus, Fraga, Huesca." credit="Gorges, Planche XLII" alt="" >}}
 
-
 ## Images
-
 
 ## Dates
 
 Unspecific
 
-<!---doesn't have ## Bibliography-->
-
+<!-- -doesn't have ## Bibliography -->
 
 ## Places
 

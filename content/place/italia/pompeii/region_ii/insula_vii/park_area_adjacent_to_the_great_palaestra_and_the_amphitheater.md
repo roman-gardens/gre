@@ -22,7 +22,6 @@ draft: false
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -40,17 +39,14 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "peristyles" >}}
 - {{< keyword "palaestrae" >}}
 
-
 ## Garden Description
 
 Park-like areas were located between the Great [Palaestra](http://vocab.getty.edu/page/aat/300007301) and the Amphitheater and to the north. Here booths were set up under trees or awnings and a carnival atmosphere existed as depicted in a painting (Mus. Naz. inv. no. 112 222) found in the [peristyle](http://vocab.getty.edu/page/aat/300080971) of house I.3.23. Two huge root cavities were found in front of the [palaestra](http://vocab.getty.edu/page/aat/300007301) by Maiuri, although only one was recorded in his plan, and six trees grew in a row on the north side of the [palaestra](http://vocab.getty.edu/page/aat/300007301).
-
 
 ## Places
 
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
 
 ## Bibliography
 

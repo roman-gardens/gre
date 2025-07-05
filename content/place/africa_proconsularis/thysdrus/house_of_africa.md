@@ -37,15 +37,15 @@ House of Africa (Maison de l'Afrique) (New plan and reconstruction) cf V.B.Bijon
 This vast house (3000 m2) was laid out around a peristyle garden (Plan view, Fig.1). The sunken garden was enclosed by a low wall that curved to form a semi-circular basin in-between the third and fourth column to which was adjoined a *euripus* at the end of which a rectangular platform supported either a sculpture or a fountain.
 
 
-<!--## Maps
+<!-- ## Maps
 
 
-<!--## Plans-->
+<!-- ## Plans -->
 
 
-<!--## Images-->
+<!-- ## Images -->
 
-<!--Fig. 1: Plan view of the House of Africa-->
+<!-- Fig. 1: Plan view of the House of Africa -->
 
 ## Dates
 
@@ -55,7 +55,6 @@ the beginning of the IIIrd century.
 
 * H. Slim, CMGR VII-1, 1999, pp. 137-38, *Archéologia*, Avril 2000, n° 366. [(worldcat)](https://search.worldcat.org/title/797652780)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.123-124. [(worldcat)](https://search.worldcat.org/title/989088620)
-
 
 ## Places
 

@@ -31,7 +31,6 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 
 Timgad, ancient Thamugadi was founded as a colony under Trajan. The city had a checker board plan, that measured 11ha. In the center was the forum with its Curia, an imperial temple and the basilica. Between the IInd and the IVth century the city expanded out of its original layout. Temples, baths and a market were built and the center of the city was renovated with the construction of the library, the market and luxurious houses. At the end of the IVth century the bishop Optatus of Timgad a prominent member of the donatist church constructed the great west basilica. During the Byzantine conquest a fortress was erected on the water sanctuary dating to the IIIrd and IVth century.
 
-
 ## Garden
 
 Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
@@ -48,7 +47,6 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 ## Garden Description
 
 The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of the city. An inscription that was discovered during the Byzantine fort excavations enumerates the embellishments that were undertaken in 213 by the city of Timgad for the sanctuary, Aqua Septimiana Felix: one of which, a bronze balustrade surrounding the spring (a pool with marble slabs of 3,6 m x 13, 60 m) and a *viridarium* surrounded by porticoes decorated with paintings (*porticus virdiari (sic) picturis ornatas*).
-
 
 ## Maps
 
@@ -68,7 +66,6 @@ The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of t
 *  Lassus, J., *La forteresse byzantine de Thamugadi, Fouilles à Timgad*, 1938-1956, Paris, 1981, plan p. 25, fig. 9, pp. 215-17, fig. 174-76. [(worldcat)](https://search.worldcat.org/title/906459184)
 *  Leschi, L., "Découvertes récentes à Timgad: Aqua Septimiana Felix", in *CRAI*, 1947, pp. 87-99. [(worldcat)](https://search.worldcat.org/title/4649794390)
 *  Leschi, L., *Etudes d'épigraphie, d'archéologie et d'histoire africaines*, Paris, 1957, pp. 240-45, ici pp. 242. [(worldcat)](https://search.worldcat.org/title/78689255)
-
 
 ## Places
 

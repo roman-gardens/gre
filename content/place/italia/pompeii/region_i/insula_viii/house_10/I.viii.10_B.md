@@ -20,7 +20,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-
 ## Insula
 
 [Insula VIII]({{<relref "..">}})
@@ -35,12 +34,11 @@ I.viii.10 B
 
 ## Keywords
 
-
 ## Garden Description
 
 B. At the southwest corner of the house, the courtyard (b) was possibly a garden.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
@@ -48,15 +46,13 @@ B. At the southwest corner of the house, the courtyard (b) was possibly a garden
 
 {{< image file="../region-i-insula-8.jpg" caption="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach" credit="" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." >}}
 
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 
 unspecified
 
 ## Excavation Date
-
 
 ## Bibliography
 

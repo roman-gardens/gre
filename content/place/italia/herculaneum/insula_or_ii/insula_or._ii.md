@@ -26,7 +26,6 @@ draft: false
 
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
-
 ## Insula
 
 [Insula Orientalis II]({{<relref ".">}})
@@ -48,7 +47,6 @@ Directly south of the Great Palaestra there is a peristyle garden (a) enclosed b
 
 {{< image file="herculaneum_ii_a.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="" >}}
 {{< image file="i_or._ii-a.jpg" caption="Herculaneum - Garden (a) south of the Great Palaestra" credit="" alt="" >}}
-
 
 ## Places
 

@@ -47,7 +47,6 @@ Garden of the Temple of Elagabalus, Palatine
 - {{< keyword "temples" >}}
 - [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
 
-
 ## Garden Description
 
 The building of a religious complex, identified by scholars as the [*Elagabalium*](https://en.wikipedia.org/wiki/Elagabalium) (*Heliogablium*), later dedicated to [Jupiter](https://en.wikipedia.org/wiki/Jupiter_(mythology)) (*Iupiter Ultor*), was the final transformation in antiquity of the northwestern terrace (Fig. 1). This enormous west-facing [peripteral temple](http://vocab.getty.edu/page/aat/300135991) was enclosed by three [porticoes](http://vocab.getty.edu/page/aat/300004145) on the west (with a monumental entrance), north and south, and by a closed gallery at the east. Its plan, proportions, and part of the ornament have been reconstructed based on field observations and on the study of the remains of the architectural decoration. Construction may have started as early as the great fire of 191/192 CE, but the buildings took shape only later in two successive periods; the first ending around 210/218 CE, the second at least by the years 218/220 CE. By the end of the construction works, the terrace had been adjusted to the north and east, while, on the southern side, a wall was constructed to separate it from the Imperial Palace (Figs. 2-3). However, a door was placed in this wall, providing a direct link between the monument and the [*Domus Augustana*](https://en.wikipedia.org/wiki/Domus_Augustana).

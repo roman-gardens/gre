@@ -53,7 +53,6 @@ During this phase, a long rectangular basin (*euripus*) was laid in front of the
 
 During the third stage dated to the beginning of the second half of the fourth century, the water features were modified and a large basin was added. Niches were added inside the semi-circular basins. In the center of the garden, a rectangular basin (g) (6.20x4.20m) that protruded onto the square basin (h) and enclosed a small rectangular basin  (g) (0.15x0.15m) was added.
 
-
 ## Maps
 
 ## Plans
@@ -70,7 +69,6 @@ NOT FOUND
 
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 21-26. [(worldcat)](https://search.worldcat.org/title/989088620)
 - Ennaifer, M., *La cité d'Althiburos et l'édifice des Asclepeia*, Ministère des Affaires Culturelles, Tunis, 1976, pp. 71-152, plan III-IV. [(worldcat)](https://search.worldcat.org/title/963483765)
-
 
 ## Places
 

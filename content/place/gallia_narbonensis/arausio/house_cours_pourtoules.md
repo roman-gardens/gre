@@ -31,16 +31,13 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [House Cours Pouroules](#)
 
-
 ## House
 
 House Cours Pourtoules
 
-
 ## House Description
 
 In 1984 – 86, prior to construction of a parking garage, a large area of some 4,700 square meters was excavated south of the Cours Pourtoules. About a third of the ancient structures were reinforced and reburied; the rest was destroyed. The area encompassed  several ancient houses;  the one of interest to us is in the west insula.
-
 
 ## Keywords
 
@@ -50,7 +47,6 @@ In 1984 – 86, prior to construction of a parking garage, a large area of some 
 - {{< keyword "reception rooms" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "opus sectile" >}}
-
 
 ## Garden Description
 
@@ -62,9 +58,7 @@ In phase IIIB, in the second quarter of the second century, the east and west ga
 
 Among the objects found at Cours Pourtoules was a terracotta *oscillum* representing a theatrical mask. The site was abandoned at the end of the second or beginning of the third century.
 
-
 ## Plans
-
 
 {{< image file="cours_pourtoules_general_map.png" caption="General map of Cours Pourtoules" credit="" alt="" >}}
 
@@ -76,14 +70,11 @@ Among the objects found at Cours Pourtoules was a terracotta *oscillum* represen
 
 {{< image file="cours_pourtoules_axonometric_reconstruction.png" caption="Cours Pourtoules, axonometric reconstruction" credit="by P. Vallauri. from Gallia 87-88, fig. 133 p. 322." alt="" >}}
 
-
 ## Images
 
 {{< image file="maquette_cours_pourtoules.png" caption="House Cours Pouroules" credit="" alt="" >}}
 
-
 ## Dates
-
 
 ## Bibliography
 

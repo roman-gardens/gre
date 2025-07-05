@@ -22,19 +22,17 @@ Villa
 
 ## Keywords
 
-<!-- [no keyword]-->
+<!-- [no keyword] -->
 
 ## Garden Description
 
 At the rear of this villa there is a grand *euripus* running the length of the large rectangular garden.
 
-
 ## Maps
 
-<!--## Plans-->
+<!-- ## Plans -->
 
 ## Images
-
 
 ## Dates
 

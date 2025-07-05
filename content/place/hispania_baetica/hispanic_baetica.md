@@ -22,7 +22,7 @@ draft: true
 - {{< id vocab="Pleiades" id="862" name="Hispania Baetica" >}}
 
 
-<!--## Sublocation-->
+<!-- ## Sublocation -->
 
 <!--
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
@@ -30,7 +30,6 @@ A sublocation is any area larger than an individual garden, but located within a
 -->
 
 ## Sublocation Description
-
 
 ## Garden
 
@@ -42,7 +41,6 @@ A sublocation is any area larger than an individual garden, but located within a
 ## Images
 
 ## Dates
-
 
 ## Bibliography
 

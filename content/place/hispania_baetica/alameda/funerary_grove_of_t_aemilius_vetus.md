@@ -25,17 +25,15 @@ Funerary Grove of T. Aemilius Vetus
 
 ## Keywords
 
-
 ## Garden Description
 
 A grey limestone block found in 1975 at La Alameda, between Toledo and Cordova, and now preserved in the Museo Provinciale di Ciuidad Real, records the dedication of a funerary grove (lucus) by Minicia Saturnina for her son T. Aemilius Vetus, who died at age thirty-five sometime in the late first or early second century AD.
 
 ## Maps
 
-<!--## Plans-->
+<!-- ## Plans -->
 
 ## Images
-
 
 ## Datess
 

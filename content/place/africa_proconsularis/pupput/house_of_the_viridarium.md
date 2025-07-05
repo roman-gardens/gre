@@ -56,7 +56,6 @@ The house has had three phases. During the second phase the garden peristyle (V)
 * Ben Abed Ben Khader, A., "Les maisons de Pupput (Tunisie)", in *Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres*, 150ᵉ année, N. 1, 2006. pp. 518-522, fig. 8, p. 519, fig. 9, p. 521. [(worldcat)](https://search.worldcat.org/title/859686146)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 197-198. [(worldcat)](https://search.worldcat.org/title/989088620)
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="315121" name="Pupput" >}}

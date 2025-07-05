@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -46,7 +45,6 @@ Garden serving the [Caupona](http://vocab.getty.edu/page/aat/300005208) of Innul
 ## Garden Description
 
 This small [caupona](http://vocab.getty.edu/page/aat/300005208) had a garden at the rear with a roofed passageway on the east and the south. It was excavated in 1873 and a masonry [biclinium](http://vocab.getty.edu/page/aat/300170371) (l. medius, 2.65m.; l. imus 2.94 m.) with a round table (dia. 0.93 m.) was uncovered in the northwest corner and a niche [lararium](http://vocab.getty.edu/page/aat/300400600) on the north garden wall.
-
 
 ## Bibliography
 

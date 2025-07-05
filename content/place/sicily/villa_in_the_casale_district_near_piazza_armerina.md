@@ -19,7 +19,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 [Enna]({{<relref "../..">}})
 
-
 ## Location
 
 [Enna](https://pleiades.stoa.org/places/462236/)
@@ -32,25 +31,21 @@ Villa, in the Casale district near Piazza Armerina
 
 <!-- {{< keyword "villae urbanae" >}} -->
 
-
 ## Garden Description
 
 The sumptuous fourth-century villa has, not surprisingly, a large and most elaborately-shaped pool at the center of its main peristyle (Farrar Type G: Fig. ): it consists of a rectangular central basin with outward-curving recesses in the middle of the long sides, and two independent demi-lune pools (i.e. with one straight and one curved side, but enclosing overall less than a semicircle) at either end of the short sides; the whole is twenty meters  long and nine meters wide (15 on Fig. 12). Its exterior was veneered in marble; the interior was mosaic-lined, with fish depicted on the edge above the water line, and plain tessellation below. Water played from a fountain at the center of the pool, where a small octagonal base was furnished with a vertical lead pipe. The demi-lune pools were wholly marble-lined. A headless marble statuette of a cupid (Fig. 13) and the legs of a second were found in the larger basin: they must have formed a matching pair of statues, set on the pedestals found at either end of the pool. The marble head of a curly-haired young man was also found in the western demi-lune basin (Fig. 14). Nothing is known of the presumed garden surrounding this elaborate pool, but marble slabs set between the columns of the peristyle to restrict access to the central area were carved with stylised dolphins (Fig. 15), and a marble table-support carved with the customary feline on its front face, which was found in the southern peristyle corridor, might also conceivably have come from the garden (Fig. 16). The elliptical court (41) in front of the three-apsed banqueting hall was also provided with two small fountains as well as an elaborate water feature with niches (a nymphaeum) at its west end, but it had no garden, as the area was mosaic-paved (unless the latter is secondary).
-
 
 ## Maps
 
 ## Plans
 
-<!--{{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}}-->
+<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}} -->
 
 ## Images
 
 {{< image file="figure12.png" caption="Fig. 12 Piazza Armerina, plan of late Roman villa" credit="" alt="" >}}
 
-
 ## Dates
-
 
 ## Bibliography
 

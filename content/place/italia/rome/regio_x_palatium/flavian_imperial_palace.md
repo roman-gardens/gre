@@ -27,7 +27,6 @@ draft: false
 - [Palatine]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
-
 ## Garden
 
 Garden of the Flavian Imperial Palace, Palatine
@@ -51,7 +50,6 @@ Garden of the Flavian Imperial Palace, Palatine
 - {{< keyword "porticoes" >}}
 - {{< keyword "sewers" >}}
 - {{< keyword "statues" >}}
-
 
 ## Garden Description
 

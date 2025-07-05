@@ -79,9 +79,9 @@ The portico [courtyard](http://vocab.getty.edu/page/aat/300004095) was a garden.
 
 ## Figures
 
-{{< image file="ostia_fig18.jpg" caption="Figure 1: Plan (from Morard, Wavelet)." credit="" alt="Plan of the Schola of the Trajan" >}} <!--missing illustration-->
+{{< image file="ostia_fig18.jpg" caption="Figure 1: Plan (from Morard, Wavelet)." credit="" alt="Plan of the Schola of the Trajan" >}} <!-- missing illustration -->
 
-{{< image file="ostia_fig19.jpg" caption="Figure 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive)." credit="" alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations" >}} <!--missing illustration-->
+{{< image file="ostia_fig19.jpg" caption="Figure 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive)." credit="" alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations" >}} <!-- missing illustration -->
 
 ## Dates
 

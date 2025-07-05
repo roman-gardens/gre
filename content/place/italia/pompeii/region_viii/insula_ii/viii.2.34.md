@@ -40,7 +40,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "Crocodylidae" >}}
 - {{< keyword "Hippopotamus" >}}
 
-
 ## Garden Description
 
 A colonnaded portico stood at the edge of the terrace (a) on the street level of this house. Below it was another terrace enclosed by a low wall. Sogliano and Mau disagree as to whether the wall contained a space for plants as only a part on the east remained.  This was plastered and painted with a Nile scene, the surviving sections showing a crocodile pursued by a pigmy with a shield and lance and a pigmy woman with a basket and a hippopotamus nearby.
@@ -54,7 +53,6 @@ A colonnaded portico stood at the edge of the terrace (a) on the street level of
 
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
 - {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
 
 ##  Excavation Dates
 

@@ -28,10 +28,9 @@ draft: false
 Oppian Hill \
 Esquiline Hill [Esquilinus Mons](https://pleiades.stoa.org/places/679976755) \
 
-
 ## Garden
 
-Garden of the Porticus Liviae <!--There does not appear to be a Pleiades place resource for this garden-->
+Garden of the Porticus Liviae <!-- There does not appear to be a Pleiades place resource for this garden -->
 
 ## Keywords
 
@@ -68,7 +67,7 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 
 {{< image file="porticusliviae_fig2.jpg" caption="Fig. 2: Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae. © Rhiannon Paré after Holly Spoth-Torres." credit="" alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae" >}}
 
-<!--{{< image file=".jpg" caption="Fig. 3: Entrance to the Porticus Liviae. © Holly Spoth-Torres." credit="" alt="Entrance to the Porticus Liviae" >}}-->
+<!-- {{< image file=".jpg" caption="Fig. 3: Entrance to the Porticus Liviae. © Holly Spoth-Torres." credit="" alt="Entrance to the Porticus Liviae" >}} -->
 
 ## Dates
 
@@ -84,7 +83,7 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 * A. Claridge, *Rome*, 2nd Ed., Oxford, Oxford University Press, pp. 339-340. [(worldcat)](https://search.worldcat.org/title/1158433558)
 * D. Favro, *The Urban Image of Augustan Rome*, pp. 132-133, 171, 174. [(worldcat)](https://search.worldcat.org/title/914906877)
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae* IV, Roma, Edizioni Quasar, 1999, "Porticus Liviae" (C. Panella), pp. 127-129; "Subura" (K. Welch), pp. 379-383. [(worldcat)](https://search.worldcat.org/title/772398569)
-<!--correct citation format? compare with Domus Aurea-->
+<!-- correct citation format? compare with Domus Aurea -->
 
 ## Places
 

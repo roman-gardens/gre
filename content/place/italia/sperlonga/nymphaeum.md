@@ -27,7 +27,6 @@ Sperlonga, with its lavish decoration and its luxurious setting, was built by on
 I can't agree. For one thing we know that Tiberius disapproved of luxury. In Tacitus (TACITUS) we find the transcription of some of his speeches to the senate and we notice how harshly he attacked all the people who built luxurious villas and bought expensive statues to put in them.  How could Tiberius censor his fellows countrymen for purchasing some marble copies of goddesses and heroes, while he himself was importing from Greece those monumental Hellenistic groups, and setting them in the seaside grotto of a more than sumptuous maritime residence? It was not logical, and for this reason we feel quite certain that Tiberius had no part in creating the Sperlongan art display.
 However, are we sure that the villa didn't belong to the imperial praedia? No, we can't even deny this: Sperlonga could have entered Augustus' estate through a legacy. As a matter of fact we know that, on their death, many rich men used to leave their property to the emperor. Some of these tycoons and also some relatives of the Julio-Claudian family could easily have done this. We can't even forget that - as reported by Cicero (CIC. I cent. B.C.) - Philip, Augustus' stepfather, was one of the most important and rich piscinarii of the I cent B.C. Apart from this we can't say anything more.
 
-
 ## Garden
 
 The villa has three gardens:  one peristyle garden, one cryptoporticus and the terrace on the sea, one nymphaeum.
@@ -62,7 +61,6 @@ These parts of the villa have been relatively spared and they are among the best
 
 {{< image file="99-not-founded-wall.jpg" caption="Not founded Wall." credit="" alt="" >}}
 
-
 ## Dates
 
 Unspecified
@@ -82,7 +80,6 @@ Unspecified
 -SALZA PRINA RICOTTI, *The Importance of Water in Roman Garden Triclinia*,in Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection), Dumbarton Oaks 1987, pp. 137-184 [worldcat]https://search.worldcat.org/title/715121487
 
 -SALZA PRINA RICOTTI, *Sistemazione paesaggistica del fronte a mare e giardini nelle ville marittime di epoca romana*, in Giornate di studio in occasione del 250º anniversario degli Scavi di Stabia (in print), pp. 137-169. [worldcat](https://search.worldcat.org/title/469755044)
-
 
 ## Places
 

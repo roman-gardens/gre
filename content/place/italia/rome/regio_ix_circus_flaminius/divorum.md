@@ -27,7 +27,6 @@ draft: false
 - [Region IX Circus Flaminius]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="422863" name="Campus Martius" >}}
 
-
 ## Garden
 
 Garden of the Divorum
@@ -42,7 +41,6 @@ Garden of the Divorum
 - {{< keyword "porticoes" >}}
 - {{< keyword "temples" >}}
 - {{< keyword "triumphal arches" >}}
-
 
 ## Garden Description
 

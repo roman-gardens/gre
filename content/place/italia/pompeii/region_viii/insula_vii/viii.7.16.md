@@ -39,7 +39,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "porticoes" >}}
 - {{< keyword "puteals" >}}
 
-
 ## Garden Description
 
 A public garden laid out to the specifications of Vitruvius originally occupied the area at the rear of the Great Theater. There was a seventy four column portico enclosing an area with green plots of trees and shrubs and pathways for promenades. In the later years of the city the colonnade was converted into gladiator barracks and the green space became the training field. A gutter surrounded the area to collect the roof run off. There were two puteals in the east portico.
@@ -47,7 +46,6 @@ A public garden laid out to the specifications of Vitruvius originally occupied 
 ## Plans
 
 {{< image file="fig.28.region_viii.insula_vii.24-27.png" caption="Fig. 28, Plan of Region VIII, Insula VII, 24-27" credit="" alt="" >}}
-
 
 ## Places
 

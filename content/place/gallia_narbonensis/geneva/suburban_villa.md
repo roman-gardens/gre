@@ -18,7 +18,6 @@ draft: true
 
 <!-- ## Province Description -->
 
-
 ## Location
 
 - [Genava, ((Geneva, France)]({{<relref ".">}})
@@ -62,7 +61,6 @@ None Available
 None Available
 
 ## Dates
-
 
 ## Bibliography
 

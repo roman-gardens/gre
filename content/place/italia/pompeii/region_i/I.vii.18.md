@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -48,7 +47,7 @@ Shop-House garden with [pool](http://vocab.getty.edu/page/aat/300008692) and pai
 
 Two [paintings](http://vocab.getty.edu/page/aat/300033644) were found on the west wall of the [atrium](http://vocab.getty.edu/page/aat/300004097) behind this shop, one was of a *porticus* villa on the sea and the second was a garden representation (o.16 x 0.43 m.). The garden was surrounded by a lattice [fence](http://vocab.getty.edu/page/aat/300005044) which was drawn wider in the front than the rear and had a rectangular [pool](http://vocab.getty.edu/page/aat/300375619) in front with ducks swimming.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 <!--
 ## Plans
@@ -58,7 +57,7 @@ Two [paintings](http://vocab.getty.edu/page/aat/300033644) were found on the wes
 {{< image file="../Region_I_insula_vii.jpg" caption="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach" credit="" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." >}}
 -->
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

@@ -17,12 +17,10 @@ draft: true
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
-
 ## Location
 
 - [Herculaneum]({{<relref "..">}}) \
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-
 
 ## Location Description
 
@@ -40,7 +38,6 @@ IV
 
 Casa dei Cervi
 
-
 ## Keywords
 
 - {{< keyword "triclinia (rooms)" >}}
@@ -48,7 +45,6 @@ Casa dei Cervi
 - {{< keyword "porticoes" >}}
 - {{< keyword "puteals" >}}
 - {{< keyword "pergolas" >}}
-
 
 ## Garden Description
 
@@ -62,12 +58,10 @@ B. and C. On either side of the *pergola* was a small garden (d)and (e) with an 
 
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
-
 
 ## Dates
 

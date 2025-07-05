@@ -34,10 +34,9 @@ House of the Mithra
 
 Excavations identified two building phases in the villa. The early Imperial phase of the villa contained a peristyle courtyard with a pool, central drain and possibly a garden. During the late Imperial phase (fourth century AD), the pool was converted into a double fountain with two semicircular exedras on its short sides, which housed sculptures of Mithra and Dionysus. The space which may have been a garden was transformed into a second pool around the original one by paving it and building a low wall at the base of the peristyle. The ruins show this second state.
 
-
 ## Maps
 
-<!--## Plans-->
+<!-- ## Plans -->
 
 ## Images
 
@@ -46,7 +45,6 @@ Excavations identified two building phases in the villa. The early Imperial phas
 {{< image file="HIS_BAE_Ega_Hm_photo_CA fig2.jpg" caption="Fig. 2: Photo of the peristyle looking northwest." credit="" alt="" >}}
 
 {{< image file="HIS_BAE_Ega_Hm_Mosaic_CA fig3.jpg" caption="Fig. 3: Photo of one of the mosaics from the House of Mithra on display at the municipal museum." credit="" alt="" >}}
-
 
 ## Dates
 
@@ -57,7 +55,6 @@ unspecified
 * A. Blanco, J. García y M. Bendala, 'Excavaciones en Cabra (Córdoba).La Casa de Mitra (Primera campaña, 1972),' *Habis 3*, Universidad de Sevilla, (Sevilla 1973), 297-319.[(worldcat)](https://search.worldcat.org/title/920418457)
 * M.ª C. Fernández Castro,*Villas romanas en Hispania*, (Madrid 1982). [(worldcat)](https://search.worldcat.org/title/876519837)
 * J. L. Jiménez Salvador and M. Martín Bueno,*La Casa del Mitra*, Ayuntamiento de Córdoba, (Córdoba, 1991).[(worldcat)](https://search.worldcat.org/title/490626772)
-
 
 ## Places
 

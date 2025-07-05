@@ -57,7 +57,6 @@ Room 18 enjoyed a spectacular view toward the terraced fountains and plants. It 
 
 Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century, a terrace overlooked the peristyle courtyard towards the south. It might have been used as a hanging garden, possibly decorated with potted plants.
 
-
 ## Plans
 
 {{< image file="house_of_europa_plan1.jpg" caption="Fig. 1: Plan of the House of Europa" credit="(Blanchard-Lemée, M., 1975, fig.49)" alt="Plan of the House of Europa." >}}

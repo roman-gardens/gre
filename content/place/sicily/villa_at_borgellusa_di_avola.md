@@ -19,7 +19,6 @@ Sicily, the largest island in the Mediterranean, was colonised by Greeks from th
 
 [Syracuse]({{<relref "../..">}})
 
-
 ## Location
 
 - {{< id vocab="Pleiades" id="462503" name="Syracuse" >}}
@@ -32,7 +31,6 @@ Villa at Borgellusa di Avola
 
 <!-- {{< keyword "villae urbanae" >}} -->
 
-
 ## Garden Description
 
 There is a four meter square basin located in the middle of the space enclosed by the peristyle (Fig. 6). Belonging to Farrar's type D, the pool has a square exterior and an inner outline of semicircular corner niches alternating with rectangular recesses. Probably belonging to the first half of the first century A. D., the pool is waterproofed with white mortar inside, and has edges lined with white and grey marble, possibly Carraran (Fig. 7).
@@ -41,14 +39,13 @@ There is a four meter square basin located in the middle of the space enclosed b
 
 ## Plans
 
-<!--{{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}}-->
+<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}} -->
 
 ## Images
 
 {{< image file="figure7.jpg" caption="Fig. 7  Borgellusa, water basin at the centre of the peristyle garden" credit="" alt="" >}}
 
 ## Dates
-
 
 ## Bibliography
 

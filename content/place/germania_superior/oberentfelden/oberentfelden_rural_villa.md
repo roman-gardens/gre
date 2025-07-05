@@ -33,13 +33,13 @@ Rural Villa in Oberentfelden
 
 The enclosed area of this villa rustica was 160 meters wide and at least 460 meters long; the eastern limits of the complex have not yet been found. The main residence and bath complex (A and B in Fig. 1), dating to the beginning of the 2nd century, stood on sloping land eight meters higher than the rest of the farmyard. At the eastern end of the service area (pars rustica) was a large peristyle building with a nymphaeum at the western end (D in Fig. 1). The open courtyard within this peristyle may have been a garden. Small kitchen gardens have been reconstructed between the various outbuildings and smaller houses (C in Fig. 1) in the pars rustica. Gardens here are possible, but it remains a matter of speculation whether these areas were actually planted.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="EUR_GS_Obe_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa (A) with a bath (B), a nymphaeum (D) and various outbuildings and houses (C)." credit="Plan adapted from Drack and Fellmann 1988, fig. 418." alt="" >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

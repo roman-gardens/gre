@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -52,7 +51,6 @@ The garden at the rear of the house, excavated in 1873, is almost totally destro
 
 When this garden was excavated in 1873, the excavators reported three panels on the east wall with garden paintings. The center panel had a body of water with swimming fish with assorted animals in the background that included a grazing deer and a springing leopard. The two panels on either side each had a large crater-shaped [fountain](http://vocab.getty.edu/page/aat/300006179) surrounded by thick growth. Large red flowers and yellow apples could be identified to the left of each fountain and the right, pomegranates (Punica granatum L.) Jashemski examined this painting in 1964 to find it had been covered by a growth of ivy which had destroyed most of the painting. A section of a large pomegranate bush was all that was left intact at the time. She describes the leaves, painted in blue-green with darker shading and a few yellow leaves and the fruit, deep yellow with reddish-orange shading, as being rendered in an impressionistic manner. At the right of the entrance to the garden area was a cistern opening.
 
-
 ## Bibliography
 
 * Boyce, G.K. 1937. *Corpus of the Lararia of Pompeii*, p. 22
@@ -63,7 +61,6 @@ When this garden was excavated in 1873, the excavators reported three panels on 
 * Schefold, K. and Dräyer, W. 1956. *Pompeji*, p. 9 (describes this painting as a *paradeisos*, with sea, deer, panther, and a nymphaeum)
 * Sogliano, A. 1879. *Le pitture murali campane scoverte negli anni 1867-79*, p. 224, no.694
 Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 11
-
 
 ## Places
 

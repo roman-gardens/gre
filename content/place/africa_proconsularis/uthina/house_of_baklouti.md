@@ -36,17 +36,16 @@ House of Baklouti (Maison de Baklouti)
 The peristyle garden enclosed by a portico on four sides had a long basin, which was concave at one end, and had semicircular and rectangular niches.  It occupied the central axis of the garden. The bottom was paved with mosaic. The semicircular pool extending into the garden on the E side was also decorated with niches.
 
 
-<!--## Maps-->
-
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="house_of_baklouti.jpg" caption="Fig.1: Plan of the House of Baklouti" credit="(Baklouti, H., 1997, fig. 3)." alt="" >}}
 
 
-<!--## Images-->
+<!-- ## Images -->
 
-<!--Fig.1: Plan of the House of Icarios-->
+<!-- Fig.1: Plan of the House of Icarios -->
 
 ## Dates
 

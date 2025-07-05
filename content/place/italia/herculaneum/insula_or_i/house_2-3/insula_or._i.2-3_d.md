@@ -22,7 +22,6 @@ draft: false
 - [Herculaneum]({{<relref "../..">}}) \
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
-
 ## Location Description
 
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
@@ -42,7 +41,6 @@ D
 - {{< keyword "rustic" >}}
 - {{< keyword "shrines" >}}
 
-
 ## Garden Description
 
 D. A rustic shrine was attached to the north side of the house and a long narrow garden (d) was located here. There was evidence of earlier construction at this location.
@@ -52,7 +50,6 @@ D. A rustic shrine was attached to the north side of the house and a long narrow
 {{< image file="herculaneum_or.i_d.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="" >}}
 
 {{< image file="h_orientalis_1_1-3-d.jpg" caption="Herculaneum - insula orientalis I. 1-3-d" credit="" alt="" >}}
-
 
 ## Places
 

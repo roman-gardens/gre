@@ -31,17 +31,15 @@ Villa del Cortijo de los Vila
 - {{< keyword "statuettes" >}}
 <!-- - [Priapus](#) -->
 
-
 ## Garden Description
 
 Excavations in 1985 and 1986 brought to light a villa dating to the end of the third or beginning of the fourth century AD.  The villa is also known as the "Finca del Moral."  Measures were taken to preserve the fine mosaics. In the peristyle of the villa there was a rectangular garden area [A] with rounded corners and semicircles on the four sides. At its center is a square brick structure faced with marble, which was probably a fountain. Also found in the villa was a statuette of Priapus, who was often associated with gardens, and whose cult images often appeared in them. The figure, placed in the center of the garden and dating from the end of the second century, is adorned with bunches of grapes, surrounded by flowers, birds and a pair of sandals.
 
 ## Maps
 
-<!--## Plans-->
+<!-- ## Plans -->
 
 ## Images
-
 
 ## Dates
 

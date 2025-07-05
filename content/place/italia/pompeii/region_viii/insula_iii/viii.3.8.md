@@ -57,7 +57,6 @@ Fourteen fluted white columns supported a portico that enclosed this large garde
 
 Unspecified
 
-
 ## Bibliography
 
 * Breton, *Pompeia*, p. 453 [(worldcat)](https://search.worldcat.org/title/894211341)

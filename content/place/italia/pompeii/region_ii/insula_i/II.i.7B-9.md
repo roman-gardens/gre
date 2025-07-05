@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -46,7 +45,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "stucco" >}}
 - {{< keyword "hearths" >}}
 
-
 ## Garden
 
 Vineyard with large masonry [triclinium](http://vocab.getty.edu/page/aat/300004359), treading floor and [courtyard](http://vocab.getty.edu/page/aat/300004095) garden.
@@ -57,12 +55,10 @@ A. The access to this garden featured an arched niche high on the garden wall lo
 
 B. Entrance 8 opened directly into a [courtyard](http://vocab.getty.edu/page/aat/300004095) garden. A cistern opening in the northeast corner of the garden was fed by a [gutter](http://vocab.getty.edu/page/aat/300052565) along the east edge. To the right of the door on the east wall was a small niche lararium with an [aedicules](http://vocab.getty.edu/page/aat/300002574) façade. To the right of this niche, a painting of Hercules was displayed in a red border. Below this was a garden setting with an altar and a crested serpent painted in low [stucco](hhttp://vocab.getty.edu/page/aat/300014966) relief. In the interior area of this property, stairs leading to an upper floor and a [hearth](http://vocab.getty.edu/page/aat/300003990) in a kitchen area were located. The stairs likely led to accommodation.
 
-
 ## Bibliography
 
 W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.75.* [(worldcat)](https://search.worldcat.org/title/222353569)
 Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 1986, *Corpus topographicum Pompeianum Pars IIIA, p.40-41* [(worldcat)](https://search.worldcat.org/title/8667821)
-
 
 ## Places
 

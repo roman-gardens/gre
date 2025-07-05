@@ -52,8 +52,7 @@ The large number of objects of daily life found in the ruins, some under toppled
 
 ## Images
 
-<!--## Dates-->
-
+<!-- ## Dates -->
 
 ## Bibliography
 

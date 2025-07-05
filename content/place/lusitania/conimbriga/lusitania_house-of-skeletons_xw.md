@@ -59,8 +59,7 @@ The houses were excavated around 1940, at a time when there was no thought of re
 
 {{< image file="HIS LUS_Conim_skeletons_photo_CA fig2.jpg" caption="Fig. 3: Photo showing the relation of the garden to other rooms of house." credit="" alt="" >}}
 
-<!--## Dates-->
-
+<!-- ## Dates -->
 
 ## Bibliography
 

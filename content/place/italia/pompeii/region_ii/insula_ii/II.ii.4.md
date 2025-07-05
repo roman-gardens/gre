@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -37,11 +36,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 - {{< keyword "porticoes" >}}
 
-
 ## House
 
 Casa Dell'Augustale; Casa Della Corona di Alloro; Casa della Corona di Quercia; House of Messius Ampliatus
-
 
 ## Garden
 

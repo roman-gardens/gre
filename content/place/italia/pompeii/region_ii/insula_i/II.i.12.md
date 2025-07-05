@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -44,11 +43,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "peristyles" >}}
 - {{< keyword "altars" >}}
 
-
 ## House
 
 House of the Birii; House of the Sibyl
-
 
 ## Garden
 
@@ -63,7 +60,6 @@ A large room to the back had been transformed into a [*sacella*](http://vocab.ge
 
 Examination of the garden revealed that it had been shaded by a row of four trees, their diameter at the surface ranging from 0.25 to 0.56 m. There was more than adequate room for the worshipers beneath the trees. The water channel noted in the entry above carried water to this garden under a door that allowed passage to the garden to the south.
 
-
 ## Bibliography
 
 Olga Elia, 1960, 'Vasi magici e mani pantee a Pompei' In *RendAccNapoli, 35, pp.5-10 and pl.1 (plan)*
@@ -71,7 +67,6 @@ W. F. Jashemski, 1979, *Garden of Pompeii: Herculaneum and the villas destroyed 
 Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 1986, *Corpus topographicum Pompeianum Pars IIIA, p.40-41* [(worldcat)](https://search.worldcat.org/title/8667821)
 W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.76.* [(worldcat)](https://search.worldcat.org/title/222353569)
 PompeiiinPictures, 2018, *Pompeii. Complesso dei Riti magici or Magic Rites Complex or Casa di Biria, Sibilla pompeiana or Officina Magica of Sextilius Pyrricus.* [(PompeiiinPictures)](https://pompeiiinpictures.com/pompeiiinpictures/R2/2%2001%2012.htm)
-
 
 ## Places
 

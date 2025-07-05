@@ -32,7 +32,6 @@ There has been little research on the gardens in the Roman settlements in Spain 
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
-
 ## Bibliography
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
@@ -43,12 +42,10 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
-
 ## Location
 
 - [Emporiae]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="246382" name="Emporiae" >}}
-
 
 ## Location Description
 
@@ -62,7 +59,6 @@ Neapolis was abandoned in the course of the second half of the first century AD.
 
 Publicly funded excavation of the northeastern part of Neapolis and the forum of the Roman City was conducted in 1846-8.  Further systematic studies were conducted from 1908 to 1936 under E. Gandía, who took a great interest in stratigraphy before it was common to do so.  The Spanish Civil War brought this work to an end, but Gandía's day books have been preserved.  Work was resumed in the 1940's and 1950's by M. Almagro, with recent work by R. Mar and J. Ruiz de Arbulo, and B. Tang.  Tang emphasizes that it is often difficult or impossible to determine whether a space in a house in Neapolis was open or covered.  The difficulty should not be so great in the case of gardens, for any sort of paving or hammered earth rules out the possibility of a garden. She identifies gardens in N5 and N7 and notes  that also N 52 near the northern end of the western edge and N 75 on the  northern edge "appear to have been provided with gardens or terraces."
 
-
 ## Bibliography
 
 - M.A. Basch, Ampurias; *historia de la ciudad y guía de las excavaciones*. Barcelona, 1951 [(worldcat)](https://search.worldcat.org/title/802755367)
@@ -75,7 +71,6 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 
 - B. Tang, *Delos, Carthage, Ampurias, The Housing of Three Mediterranean Trading Centers*, Bretschneider, Rome, 2005. [(worldcat)](https://search.worldcat.org/title/57730335)
 
-
 ## Plans
 
 {{< image file="HIS_TAR_Emp_plan_fig2.jpg" caption="Plan of Emporiae." credit="Adapted from Mar and Ruiz de Arbulo." alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." >}}
@@ -83,7 +78,6 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 ## Images
 
 {{< image file="HIS_TAR_Emp_aerial_viewfig1.jpg" caption="Aerial view of Emporiae at the end of the first century BC." credit="Adapted from Mar and Ruiz de Arbulo." alt="" >}}
-
 
 ## Garden
 
@@ -94,18 +88,15 @@ House of the L-shaped Cistern
 - {{< keyword "burials" >}}
 - {{< keyword "ceramic" >}}
 
-
 ## Garden Description
 
 This house, which was also set against the lower edge of the city near the port, was excavated in 1924 and 1935 .  It had been much altered by *burials* in late antiquity.  Its large cistern yielded a collection of objects from about the time of abandonment : eleven jars of common ceramic, terra sigillata from southern Gaul, *ceramics* from Africa, glass, toilet articles of bone, metals, coral, and a little domestic altar.
-
 
 ## Dates
 
 Unspecified
 
-<!---doesn't have ## Bibliography-->
-
+<!-- -doesn't have ## Bibliography -->
 
 ## Places
 

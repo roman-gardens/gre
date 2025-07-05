@@ -31,11 +31,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Quarter of Saint-Florent – House A1, House of Clodius](#)
 
-
 ## House
 
 Quarter of Saint-Florent – House A1, House of Clodius
-
 
 ## Keywords
 
@@ -47,7 +45,6 @@ Quarter of Saint-Florent – House A1, House of Clodius
 - {{< keyword "porticoes" >}}
 - {{< keyword "colonnades" >}}
 
-
 ## House Description
 
 House A1, called the House of Clodius, is bordered on the north by a secondary *decumanus* and has a common wall with other houses on three sides. It seems to have occupied an area of a little more than 450 square meters, but exploration is incomplete on the northeast because of the limits imposed on the excavation. The edifice reached us in very bad condition with many of the stones of its walls carried off. It was built in the Augustan period, somewhere between 10 B.C. and 10 A.D. and was destroyed in 20-30 A.D., perhaps in a flood that struck the town in about 30, as in the quarter of the Cours Pourtoules. In one of the rooms, an inscription in tesserae reads CLODIVS, perhaps gives the name of the proprietor.
@@ -56,18 +53,14 @@ The house has an L shape. The rooms were along the north and east side of a rect
 
 The presumed *triclinium* opened through a wide entrance, flanked on either side by a column or pilaster (of which only the bases were found), onto a portico with a colonnade. The space between the columns widened at this point to give an uninterrupted view of the courtyard from the *triclinium*, a detail which would seem to support the interpretation of the courtyard as a garden.
 
-
 ## Plans
 
-
 {{< image file="quarter_of_saint_florent_house_a1_house_of_clodius.png" caption="Plan of Quarter of Saint-Florent – House A1, House of Clodius" credit="" alt="" >}}
-
 
 ## Dates
 
 B.C 10-A.D 10 Built
 A.D 20-30 Destroyed
-
 
 ## Bibliography
 

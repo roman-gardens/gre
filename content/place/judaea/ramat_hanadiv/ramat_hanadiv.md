@@ -22,13 +22,12 @@ Judaea, the Roman province, included parts of the areas of the [Hasmonean](https
 The period for which we have the richest evidence of a garden culture in this region is during the reign of [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great).  A client king of Rome, Herod's relationships with [Mark Antony](https://en.wikipedia.org/wiki/Mark_Antony), [Cleopatra](https://en.wikipedia.org/wiki/Cleopatra), [Augustus](https://en.wikipedia.org/wiki/Augustus) and [Marcus Agrippa](https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa) and other officials have been preserved in the texts of [Flavius Josephus](https://en.wikipedia.org/wiki/Josephus).  These constitute a rare record of interactions between Rome and its territories, and provide a valuable context for understanding the trends of design in the early imperial period.  The proximity of Judea to Alexandria, whose palaces and gardens lie beneath the modern city and its harbors, may also provide a suggestion of the late Hellenistic garden culture that Romans emulated.  Evidence of gardens in the Hasmonean winter palaces at Jericho and the palaces of Hyracanus the Tobiad on the other side of the Jordan Valley provide rare cases where texts can illuminate archaeological evidence.  These gardens require further investigation and both are threatened by local development.
 This geography of Judaea comprises a wide variety of biomes, from richly watered plains of the Galilee and the Jordan, to the semi arid Judean Hills, the humid, fertile coastal plain of the Mediterranean, and the deserts of the Dead Sea valley and the Negev.
 
-
 ## Location
 
 - [Ramat Hanadiv]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="678357" name="Ramat Hanadiv" >}}
 
-<!--## Location Description
+<!-- ## Location Description
 
 TODO: Is this garden description really supposed to be commented out?
 
@@ -40,7 +39,6 @@ Villae Rusticae
 
 - {{< keyword "villae rusticae" >}}
 
-
 ## Garden Description
 
 Probable garden soils have been identified in a partially excavated palatial complex from the Herodian period. (Fig. 1) The fortified residential complex is a huge square covering an area of over 5,000 square meters. Towers stood in the four corners of the precinct, which thus appears to have been what was called in the Hellenistic period a tetrapyrgion- type palace.  Josephus also uses the term in describing the palace at Masada (Wars 7, 289).  This is the best preserved example known to date in Palestine.  The palace's inhabitants were probably members of Jewish elite during and after Herod's reign, as the complex was abandoned during the great Revolt.
@@ -48,10 +46,9 @@ Probable garden soils have been identified in a partially excavated palatial com
 The villa shows the range of indications of Hellenistic and Roman cultural influences of Herod's time:  a columbarium, areas of cultivated soils near the building, water channels, and a heated bathhouse of the Roman style.  Amended cultivated soils have also been noted in other areas of the palace building complex, which will be investigated in future seasons.
 
 
-<!--## Maps
+<!-- ## Maps
 
 <!--
-
 
 ## Plans
 
@@ -69,7 +66,6 @@ The villa shows the range of indications of Hellenistic and Roman cultural influ
 ## Bibliography
 
 * Y. Hirschfeld, Ramat Hanadiv Excavations, Jerusalem 2000; S.T.A.M. Mols, Wooden Furniture in Herculaneum, Amsterdam (1999):139-40. [worldcat](https://search.worldcat.org/title/44755201)
-
 
 ## Places
 

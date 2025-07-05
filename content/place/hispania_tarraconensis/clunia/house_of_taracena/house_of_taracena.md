@@ -32,7 +32,6 @@ There has been little research on the gardens in the Roman settlements in Spain 
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
-
 ## Bibliography
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
@@ -42,7 +41,6 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 -  J.G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979 [(worldcat)](https://search.worldcat.org/title/803415143)
 
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
-
 
 ## Location
 
@@ -67,7 +65,6 @@ The steep sides of the meseta and its height above the surrounding plain clearly
 
 - On the underground water system, see L. Valdés, F. Tuset, J. Reina, M. Farjas, *Colonia Clunia Sulpicia*  at  public-repository.epoch-net.org/publications/VAST2004/37-44.pdf.
 
-
 ## Garden
 
 House of Taracena
@@ -77,7 +74,6 @@ House of Taracena
 - {{< keyword "passages" >}}
 - {{< keyword "courtyards" >}}
 
-
 ## Garden Description
 
 Excavated by Blas Taracena between 1933 and 1935, this house is located to the northeast of the forum.  The arrangement of its gardens is most unusual. At the center of the house lies not a *courtyard* but an almost square summer triclinium with a stunning geometric mosaic.  On the four sides were *passageways* and, beyond them small gardens, forming a Greek cross of gardens. Taracena was able to detect the soil contours of the planting beds of these gardens. (Fig 2), Although the gardens have not been replanted, the contours are now no longer visible.
@@ -85,7 +81,6 @@ Excavated by Blas Taracena between 1933 and 1935, this house is located to the n
 In each *courtyard* was a cistern or well. The eastern *courtyard* had served as the atrium of the first phase of the house. Most of the wall paintings and mosaics in the house may date to the second half of the second century.  The *passageways* in the north courtyard were paved in the reign of Constantine.  The peristyle courtyard [53] at the rear of the complex (the north side) was probably a garden.
 
 On the southeast corner of the house was a curious structure placed more than a meter below street level possibly to protect it from the harsh weather of the meseta .  There are elements of a sort of subterranean peristyle and atrium with high walls between the columns.  There are also kitchen fireplaces and connection to a cryptoportico.
-
 
 ## Maps
 
@@ -105,8 +100,7 @@ On the southeast corner of the house was a curious structure placed more than a 
 
 Unspecified
 
-<!---doesn't have ## Bibliography-->
-
+<!-- -doesn't have ## Bibliography -->
 
 ## Places
 

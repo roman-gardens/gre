@@ -51,9 +51,9 @@ In the second half of the second century, the "garden" was restructured. The bui
 
 At the beginning of the third century, the two *domus* were transformed. In particular, polychrome mosaics were installed in the east house and rooms with hypocausts in the north house. The little shrine or monument at the western end of the garden was eliminated, but the pool was reconstructed without alteration. The paving stones that had been in a pool were in part removed and used to build a 3.8 x 2.9 meter platform which served as the base, presumably, of a quadrangular fountain in the north house in an open space which replaced the peristyle, which was then destroyed.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
-<!--## Plans-->
+<!-- ## Plans -->
 
 ## Images
 

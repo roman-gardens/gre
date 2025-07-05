@@ -22,7 +22,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location
 
-
 [saint-roman-en-gal]({{<relref ".">}}) \
 [saint-roman-en-gal (Pleiades)](#)
 
@@ -32,30 +31,24 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [House of Sucellus](#)
 
-
 ## House
 
-
 House of Sucellus
-
 
 ## Keywords
 
 - {{< keyword "domus" >}}
-
 
 ## House Description
 
 On leaving the House of the Lion from its northwest corner, following the rue du Rhône west for 35 meters and turning north on the rue des Thermes for 100 meters, one comes to the area now occupied by two structures, the House of Sucellus to the west and the Edifice with Pillars (Edifice aux piliers) to the east. Originally, the whole area was one house, called the House of the Fishpond (Maison au Vivier), which went through two phases. The space was then completely rearranged in a phase known as the House of the Large Gallery (Maison de la Grande Gallery), which was then transformed to its final state: the House of Sucellus to the west and the Edifice with Pillars to the east. The area was unearthed during a programmed excavation in 1990 and was found well preserved. The total surface area is about 2400 square meters.
 
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
-
 {{< image file="house_of_sucellus.png" caption="Plan of House of Sucellus" credit="" alt="" >}}
-
 
 ## Dates
 
@@ -72,7 +65,6 @@ It was completely uncovered in 1987 so that its lines might be respected in the 
 4. *Recherches Archéologiques a Saint-Romain-En-Gal (1988 - 1990)*. Vienne, 1992, P. 45-83.[worldcat](https://search.worldcat.org/title/1068996218)
 
 6. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig.194.[worldcat](https://search.worldcat.org/title/43416334)
-
 
 ## Places
 

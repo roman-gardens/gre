@@ -42,14 +42,14 @@ A large peristyle of twenty columns onto which rooms opened may have had a garde
 On the south of the peristyle was another courtyard with a portico of three columns on the east and west sides. The courtyard may have been planted.
 
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="suburban_villa.jpg" caption="Fig. 1: Plan of then city and its suburbs" credit="(Constans, L.-A., 1916, pl. I)" alt="Plan of then city and its suburbs">}}
 
 
-<!--{{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}}-->
+<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}} -->
 
 ## Images
 
@@ -60,7 +60,6 @@ unknown
 ## Bibliography
 
 - Constans, L.-A., "Gigthis. Étude d'Histoire et d'Archéologie sur un Emporium de la Petite Syrte: avec 14 planches hors texte et 3 figures dans le texte", in *Extrait des Nouvelles Archives des Missions Scientifiques. 14° fasc*, pl.I, pp.100-103, Paris: Imprimerie Nationale, 1916.[(worldcat)](https://search.worldcat.org/title/8271308381) https://gallica.bnf.fr/ark:/12148/bpt6k74033b/f119.item.r=constans
-
 
 ## Places
 

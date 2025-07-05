@@ -32,7 +32,6 @@ There has been little research on the gardens in the Roman settlements in Spain 
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
-
 ## Location
 
 - [Villa Dehesa de Soria]({{<relref ".">}})
@@ -41,13 +40,11 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 Villa Dehesa de Soria
 
-
 ## Keywords
 
 - {{< keyword "peristyles" >}}
 - {{< keyword "courtyards" >}}
 - {{< keyword "triclinia (rooms)" >}}
-
 
 ## Garden Description
 
@@ -55,11 +52,9 @@ The villa was first excavated in 1928-9.(Ampu  More than 22 rooms were paved wit
 
 This villa is one of the best examples in Spain of an axially planned peristyle villa. In the center of its grand peristyle courtyard (41 x 22 m.) was a structure which may have been part of a water supply system for the garden in the courtyard. The main reception room (Fig. 1, 1, in the center of the north wing) had a wide opening onto the garden and a passage through the low wall which otherwise surrounded the garden on three sides and half of the fourth. Likewise room [2] on the east side, possibly a triclinium, had a good view of the garden.  An unusual feature, however, is that, with the exception of these two rooms, all the other rooms around the porticoes of the peristyle did not open directly onto the portico but onto narrow corridors perpendicular to the portico. Thus, unless they had windows, they did not get light and air directly from the garden courtyard.
 
-
 ## Plans
 
 {{< image file="his_tar_cue_soria_fig1.jpg" caption="Villa of Cuevas de Soria." credit="Gorges, Planche XLIV." alt="" >}}
-
 
 ## Dates
 
@@ -68,7 +63,6 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 ## Bibliography
 
 - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. [(worldcat)](https://search.worldcat.org/title/7840420644)
-
 
 ## Places
 

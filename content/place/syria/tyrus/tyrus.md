@@ -28,8 +28,7 @@ An irrigation system based around the qanat, an underground water channel, was u
 
 Tyre, an ancient Phoenician port city (est. 2750 BCE), became part of the Roman Empire in 64 BCE.  It was legendary as the birthplace of the goddess Europa and queen Dido, founder of Carthage.  
 
-<!--## Sublocation-->
-
+<!-- ## Sublocation -->
 
 ## Garden
 
@@ -54,7 +53,6 @@ A tomb garden (Tomb Complex 15) has been found in a cemetery complex dating to t
 ## Images
 
 {{< image file="asia_syria_tyre_author_2.jpg" caption="Fig. 2:  Photograph of Tomb Complex 15 showing the garden, basins and adjacent rooms (Chéhab, Pl. XLVIII)." credit="" alt="Photograph of tomb complex after excavation showing garden, basins, and rooms" >}}
-
 
 ## Dates
 

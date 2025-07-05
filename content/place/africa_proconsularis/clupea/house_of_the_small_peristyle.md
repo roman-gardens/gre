@@ -52,7 +52,6 @@ Late 1st-4th century CE
 
 - Lassère, J.-M., Slim, H., *Maisons de Clupea. Les maisons de l'Ecole de pêche*, Paris, 2010, p. 25-66. [(worldcat)](https://search.worldcat.org/title/701795957)
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="314892" name="Aspis/Clipea" >}}

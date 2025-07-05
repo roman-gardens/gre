@@ -31,11 +31,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Suburban Villa de la Brunette](#)
 
-
 ## Villa
 
 Villa des Baumelles
-
 
 ## Keywords
 
@@ -49,7 +47,6 @@ Villa des Baumelles
 - {{< keyword "peristyles" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
-
 ## Villa Description
 
 On a cliff overlooking the sea stood a elegant maritime villa in what is now the quarter of the Baumelles.  Excavations go back to the eighteenth century, but new researches were carried out between 1969 and 1973.  The first building, dating from the times of Augustus or Tiberius was replaced during the last quarter of the first century by a grand residential villa which existed until the end of the fourth century, though there are traces, such as coins, of very late occupancy even into the fifth century.  The luxurious *pars urbana* covered 1.4 hectares, while the pars agrarian spread out to the south.  The villa was supplied with drinkable water by an aqueduct.
@@ -62,18 +59,13 @@ An 80-meter gallery running the full length of the villa served as the southwest
 
 To the south, a charming apartment overlooked the cove of the Madrague and may have been winter living quarters.  Below, on the lowest level, another court [14] reached by stairs [13], was embellished by a large rectangular pool (9.92 by 6.15 meters) with an apse at either end.  The pool was lined with *opus signinum* with quarter-round molding for waterproofing in the corners.  Steps descended into this pool, and at the foot of the steps a lead pipe was found.  The villa also had two facilities for heated baths, one at each end of the façade towards the sea.
 
-
 ## Garden Description
-
 
 ## Plans
 
-
 {{< image file="villa_des_baumelles.jpg" caption="Plan of Villa des Baumelles" credit="" alt="" >}}
 
-
 ## Dates
-
 
 ## Bibliography
 

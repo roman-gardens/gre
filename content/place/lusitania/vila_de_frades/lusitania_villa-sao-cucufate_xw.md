@@ -56,8 +56,7 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 
 ## Images
 
-<!--## Dates-->
-
+<!-- ## Dates -->
 
 ## Bibliography
 

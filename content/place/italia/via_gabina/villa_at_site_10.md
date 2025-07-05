@@ -46,7 +46,6 @@ The villa had a western enclosed garden area (Figs. 4 and 5) framed on the east 
 
 These two sites represent a rare glimpse of the transformation of suburban Rome over more than twelve centuries of occupation.
 
-
 ## Maps
 
 ## Plans

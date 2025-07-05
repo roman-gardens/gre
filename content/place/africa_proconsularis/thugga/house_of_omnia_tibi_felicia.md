@@ -53,7 +53,6 @@ The courtyard of the peristyle, which was paved with mosaics, was lined with bui
 *  Poinssot, C., *Les ruines de Dougga*, Tunis, 1958, p 45. n°13[(worldcat)](https://search.worldcat.org/title/804952011)
 *  Poinssot, C., *Les ruines de Dougga*, Tunis, 1983 [worldcat](https://search.worldcat.org/title/475099061)
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="315223" name="Thugga/Tokai?" >}}

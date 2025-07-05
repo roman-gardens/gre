@@ -22,7 +22,6 @@ draft: false
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -45,15 +44,14 @@ Caupona with small bath.
 - {{< keyword "tabernae" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
-
 ## Garden Description
 
 A. A very small bath was located at the left rear of the [atrium](http://vocab.getty.edu/page/aat/300004097) in this unusual building. Behind this was a tiny garden with three small triclinia on either side. The couches of these six [triclinia](http://vocab.getty.edu/page/aat/300004359) were so low and narrow they must have been used as seats similar to the [tabernae](http://vocab.getty.edu/page/aat/300005366) attached to the house of Julia Felix (II.iv.7).
 B. Another small garden was found to the rear of the [caupona](http://vocab.getty.edu/page/aat/300005208).
 
-<!--## Plans
+<!-- ## Plans
 
-{{< image file="../../fig._62,_plan_of_region_ii,_insula_viii.png" caption="Fig. 62, Plan of Region II, insula viii" credit="" alt="" >}}-->
+{{< image file="../../fig._62,_plan_of_region_ii,_insula_viii.png" caption="Fig. 62, Plan of Region II, insula viii" credit="" alt="" >}} -->
 
 ## Places
 

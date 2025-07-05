@@ -33,12 +33,10 @@ A limestone slab found near the monastery of St. Martin in Szombathely (Savaria)
 
 ## Maps
 
+<!-- ## Plans -->
 
-<!--## Plans-->
 
-
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 

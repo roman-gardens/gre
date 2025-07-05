@@ -41,13 +41,13 @@ The three-storied villa with more than 50 rooms on the ground floor alone, many 
 
 At the northeast of the villa was a garden (G in Fig. 1) with a lararium. On the southwest there was a garden (G in Fig. 1) with a fountain. The northern facade had a cryptoporticus below and a porticoed corridor on the story above. The service area of the villa rustica lay in front of the villa to the north.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="EUR_GS_BadKre_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house." credit="Plan adapted from Cüppers 1990, fig. 204." alt="" >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

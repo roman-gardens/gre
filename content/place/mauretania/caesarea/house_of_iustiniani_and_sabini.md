@@ -45,7 +45,6 @@ House of Iustiniani and Sabini (Maison de Kaid Youcef)
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "semicircular basin" >}}
 
-
 ## Garden Description
 
 The only house for which it is possible to furnish a complete plan is located to the south of the grand temple, from which it was separated by the *decumanus*. To the east and west side lie two houses, which have yet to be excavated. It is one of the largest *domus* discovered in *Caesarea*, covering over 2330 square meters. Surveys prove that the house dates back to the Augustan era.

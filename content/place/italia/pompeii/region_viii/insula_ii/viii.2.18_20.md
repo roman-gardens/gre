@@ -34,7 +34,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 [Insula II]({{<relref ".">}})
 
-
 ## Keywords
 
 - {{< keyword "peristyles" >}}
@@ -55,7 +54,6 @@ B. The irregular shapes of the buildings created this triangular light well. Two
 
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
 - {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
 
 ##  Excavation Dates
 

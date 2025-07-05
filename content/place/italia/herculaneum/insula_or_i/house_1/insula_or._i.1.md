@@ -17,17 +17,14 @@ draft: false
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
-
 ## Location
 
 - [Herculaneum]({{<relref "../..">}}) \
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
-
 ## Location Description
 
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
-
 
 ## Insula
 
@@ -39,17 +36,14 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 
 B
 
-
 ## Keywords
 
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "loggias" >}}
 
-
 ## Garden Description
 
 B. The front of this house has an L-shaped terrace (b) which provided a passageway between the kitchen and the triclinium that opened onto the long loggia (c) with a spectacular view of the Bay. The terrace could have been decorated with potted plants. A gutter on the edges of the terrace, excepting the southeast corner, collected rain water.
-
 
 ## Plans
 

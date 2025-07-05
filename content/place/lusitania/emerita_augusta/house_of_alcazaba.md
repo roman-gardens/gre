@@ -35,11 +35,9 @@ The area of Augusta Emerita best known today, because of extensive excavations, 
 
 Because most of evidence from Merida was unearthed in old excavations, the context of many ancient objects is unknown. There is also a lack of analytical data on many of the areas which must originally have been gardened. The classification of the gardens of the Colonia Augusta Emerita is still under analysis. The study by Moreno is a basic survey article and should be understood to be part of all the bibliographies for Merida.
 
-
 ## Bibliography
 
 - I. C. Moreno, "Los jardines de Mérida," *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
-
 
 ## Garden
 
@@ -53,7 +51,6 @@ House of Alcazaba
 ## Garden Description
 
 Within the enclosure of the Islamic Alcazaba, west of the city, are the remains of this great late-Imperial domus, excavated in the 1970's by D. José Álvarez Sáenz de Buruaga. It remains unpublished. The principal element of its peristyle is a deep rectangular pool with a semicircular extension from the middle of one long side.  The room opposite this pool, the largest of the house, was paved in opus sectile; several other rooms surrounding the peristyle had mosaic floors.  The presence of a peristyle and pool strongly suggests a garden.
-
 
 ## Plans
 

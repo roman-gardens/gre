@@ -27,7 +27,6 @@ draft: false
 - [Region IX Circus Flaminius]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="422863" name="Campus Martius" >}}
 
-
 ## Garden
 
 Garden of the Thermae Agrippae
@@ -49,7 +48,6 @@ Garden of the Thermae Agrippae
 - [Sidonius Apollinaris](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1287)
 - [Strabo](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1333)
 - [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
-
 
 ## Garden Description
 

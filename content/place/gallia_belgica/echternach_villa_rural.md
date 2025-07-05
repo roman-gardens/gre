@@ -17,7 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="108955" name="Epternacus" >}}
 
 
-<!--## Sublocation-->
+<!-- ## Sublocation -->
 
 <!--
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
@@ -44,8 +44,7 @@ The protruding wings of the house on either side of the main entrance on the nor
 The southern *peristyle courtyard* (16.50 x 17 meters) within the house itself was initially designed as part of the bath complex in this wing, and in this *courtyard* was a swimming pool or natatio. Soon after the building of the house, the pool was filled in and the *courtyard* transformed into a garden (G on plan).
 
 There was a garden from the very beginning in the western *peristyle courtyard*, as witnessed by the presence of garden soil (G on plan). This garden was later abandoned in the early second century.
-<!-- Text comes from draft file-->
-
+<!-- Text comes from draft file -->
 
 ## Maps
 

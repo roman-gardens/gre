@@ -33,20 +33,18 @@ House of the Grand Oecus (Maison du grand oecus)
 - {{< keyword "semicircular basin" >}}
 - {{< keyword "mosaics" >}}
 
-
 ## Garden Description
 
 This house is the most important dwelling discovered to date at Utica. The large peristyle garden (XXVII), enclosed by a portico on four sides (XXVIII-XXX) had a long basin *euripus* concave at each end down the center of the garden (Plan view, Fig. 1). The bottom was paved with a simple mosaic. The semicircular pool extending into the garden on the N side was also paved with a simple mosaic.
 
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="AFR_Uti_Hgo_Wjashemski1.jpg" caption="Fig.1: Plan of the House of the Grand Oecus (CMT, plans 1, 2)." credit="" alt="Fig.1: Plan of the House of the Grand Oecus." >}}
 
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 
@@ -56,7 +54,6 @@ This house is the most important dwelling discovered to date at Utica. The large
 
 * Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.341-343. [(worldcat)](https://search.worldcat.org/title/989088620)
 * Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp. 1-18, plans 1, 2. [(worldcat)](https://search.worldcat.org/title/905773599)
-
 
 ## Places
 

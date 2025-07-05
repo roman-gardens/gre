@@ -31,7 +31,6 @@ House of Asinius Rufinus (Maison d'Asinius Rufinus)
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "viridarium" >}}
 
-
 ## Garden Description
 
 The house of *Asinius Rufinus* (Approx.
@@ -42,7 +41,6 @@ The house's incomplete excavation (Plan view, Fig. 1) includes a small entrance 
 The low wall of four porticos spanned the *viridarium* of the peristyle (13.65 x 10.70 m), which curves to form an apse in front of the *triclinium* (IV) located on the south.  In the *viridarium* there was a cistern.  Access to the *viridarium* and cistern was provided under the north portico, between the 6th and 7th column.  If the low wall had been stuccoed and painted as the columns were, there are currently no traces of painting on the *viridarium* side of it.  Mortar channels along the north and the west of the garden collected the water from the roof and brought it to one of the cisterns located in the southwest corner of the garden.  The soil of the garden has not been examined.
 
 Adjacent to the east apartment is a light well with an earthen floor, which can be regarded as a small garden (IX).  A large window in room VIII opened into this garden (IX).
-
 
 ## Maps
 
@@ -61,7 +59,6 @@ mid 2nd century CE
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 12-14. [(worldcat)](https://search.worldcat.org/title/989088620)
 - Gozlan, S., Jeddi, N., Blanc-Bijon, V., Bourgeois, A., *Recherches archéologiques franco-tunisiennes à Acholla. II - Les mosaïques des maisons du quartier central et les mosaïques éparses* (Collection de l'EFR), Rome, INAA – EFR, 2001, p. 19-28, plan Pl. II. [(worldcat)](https://search.worldcat.org/title/46598604)
 - Rebuffat, R., *Maisons à péristyle d'Afrique du Nord, Répertoire de plans publiés*, II, MEFRA, tome 86, 1974-1, p.454. [(worldcat)](https://search.worldcat.org/title/1069174087)
-
 
 ## Places
 

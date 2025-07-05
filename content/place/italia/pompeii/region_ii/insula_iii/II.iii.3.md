@@ -13,15 +13,13 @@ draft: true
 
 ## Province
 
-<!--- Content of Province heading --->
+<!-- - Content of Province heading - -->
 
 ## Province Description
 
 <!-- DESCRIPTION -->
 
-
 ## Location
-
 
 ## Location Description
 
@@ -42,7 +40,6 @@ A sublocation is any area larger than an individual garden, but located within a
 
 <!-- List of gardens in province -->
 <!-- May be left blank for now -->
-
 
 ## Dates
 

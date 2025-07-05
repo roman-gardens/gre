@@ -16,7 +16,6 @@ draft: false
 Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
 The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woolen textiles and marbles.
 
-
 ## Location
 
 - [Athens]({{<relref ".">}}) 
@@ -25,7 +24,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 ## Sublocation
 
 - {{< id vocab="Pleiades" id="969121823" name="Areopagus" >}}
-
 
 ## Garden
 
@@ -46,7 +44,7 @@ Several Roman houses in Athens make use of the remains of Classical and Hellenis
 
 Another only partially excavated house of the mid-4th century A.D., built into the northern slope of the Areopagus, had a small courtyard (3.20 x 3.90 m.) paved with blue and white marble slabs surrounded by a masonry flower bed 50 cm. wide (Fig. 2; f on plan).  Around this ran a shallow marble-paved basin (c on plan) which was supplied with water by a fountain on the south eastern side of the courtyard.  Water flowed from the basin through a lead pipe in the middle of each side of the courtyard into the planter beds.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 

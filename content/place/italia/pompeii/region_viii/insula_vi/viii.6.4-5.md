@@ -51,7 +51,6 @@ After the earthquake the eastern part of this insula had been converted into a m
 
 {{< image file="fig.21.viii.6.2 12.31.59.jpg" caption="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

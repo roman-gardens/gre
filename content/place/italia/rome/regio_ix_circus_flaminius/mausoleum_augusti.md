@@ -27,7 +27,6 @@ draft: false
 - [Region IX Circus Flaminius]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="422863" name="Campus Martius" >}}
 
-
 ## Garden
 
 Garden of the Mausoleum of Augustus \
@@ -57,7 +56,6 @@ Garden of the Mausoleum of Augustus \
 - [Strabo](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1333)
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 - [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
-
 
 ## Garden Description
 

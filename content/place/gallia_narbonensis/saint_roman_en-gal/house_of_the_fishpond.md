@@ -22,7 +22,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Location
 
-
 [saint-roman-en-gal]({{<relref ".">}}) \
 [saint-roman-en-gal (Pleiades)](#)
 
@@ -32,35 +31,29 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [House of the Fishpond](#)
 
-
 ## Garden
 
-
 House of the Fishpond
-
 
 ## Keywords
 
 - {{< keyword "domus" >}}
-
 
 ## Garden Description
 
 In the course of the second century, some two meters of fill was added to the garden to bring it up to the same level as the rest of the house. The use of the space was completely inverted. Rooms were built on the filled-in garden, and the former house was torn down to become a garden. This new house continued to occupy the whole insula. No plan is available for this house, but the new eastern part would be practically completely preserved in the next house. To the east now extended the new garden, which may possibly have preserved three branches of the channel-pool of the earlier house.
 
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
-
 
 {{< image file="House of the Fishpond.png" caption="house of the fishpond" credit="" alt="" >}}
 
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
-
 
 ## Bibliography
 

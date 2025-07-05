@@ -22,11 +22,9 @@ draft: false
 - [Herculaneum]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
-
 ## Location Description
 
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
-
 
 ## Insula
 
@@ -38,7 +36,6 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 
 Casa della Gemma (A)
 
-
 ## Keywords
 
 - {{< keyword "vaults" >}}
@@ -49,7 +46,6 @@ Casa della Gemma (A)
 ## Garden Description
 
 A. This garden (a) is built partially into the edge of the hill and partially on vaults. A square opening enclosed by a high wall in the center of the garden supplies light to the floor below, shared by both the Casa della Gemma with windows on three sides and the Casa del Rilievo di Telefo next door with windows on one side. The garden was perhaps jointly owned, although neither had an entrance into the area. Three sides of the garden had large raised gutters 0.74 m. wide; 0.70 m. high which collected roof water and conveyed it to a cistern in the atrium of Casa della Gemma. A sundial is located in this garden.
-
 
 ## Plans
 

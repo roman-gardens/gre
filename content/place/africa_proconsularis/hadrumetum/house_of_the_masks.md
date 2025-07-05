@@ -38,9 +38,7 @@ Known for its mosaic pavements, the *domus* of the Masks was laid out around a l
 
 The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was bordered on two sides by pillars that opened towards a rear garden, the third side is not clear as the house is destroyed in this area.
 
-
 ## Maps
-
 
 ## Plans
 
@@ -57,7 +55,6 @@ The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was 
 - Foucher, L., *La Maison des Masques à Sousse, Fouilles 1962-1963*, Notes et documents, VI, Tunis, 1965. [(worldcat)](https://search.worldcat.org/title/318017455)
 - Ghaddhab, R., "Y avait-il un port à Hadrumetum dans l'antiquité tardive?", in *Revue des etudes anciennes*, 2016, Bordeaux, France: Feret & Fils, pp. 175-199. https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf
 - Guizani, S., "L'œcus « cyzicenus » de la maison des Masques à Sousse", in *Revue Tunisienne d'archéologie*, 2013, p. 77-91.[(worldcat)](https://search.worldcat.org/title/949200707)
-
 
 ## Places
 

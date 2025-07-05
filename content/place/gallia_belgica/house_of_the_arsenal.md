@@ -17,7 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="108927" name="Divodurum/Mettis" >}}
 
 
-<!--## Sublocation-->
+<!-- ## Sublocation -->
 
 <!--
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
@@ -37,7 +37,6 @@ HHouse of the Arsenal (Maison de l'Arsenal)
 - {{< keyword "courtyards" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "hypocausts" >}}
-
 
 ## Garden Description
 
@@ -63,7 +62,6 @@ Unspecified
 ## Bibliography
 
 - Ph. Brunella, D. Meckenbenner, Cl. Lefebvre, P. Thion, *Metz, cinq années de recherches archéologiques 1982-1987,* Dalph, Gumra, 1990, p.33-36, fig.36. [(worldcat)](https://search.worldcat.org/title/20955708)
-
 
 ## Places
 

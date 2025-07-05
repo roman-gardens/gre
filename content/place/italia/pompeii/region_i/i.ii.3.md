@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -37,7 +36,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 - {{< keyword "columns" >}}
 
-
 ## Garden
 
 Small viridarium to the rear of a house.
@@ -45,7 +43,6 @@ Small viridarium to the rear of a house.
 ## Garden Description
 
 The small viridarium at the rear of the house had narrow, slightly raised beds along the walls on the north and east side. These beds were for the cultivation of flowers, according to Fiorelli. A small vestibule on the north side of the garden was decorated with remnants of tufa [columns](http://vocab.getty.edu/page/aat/300001571) brought from another site.
-
 
 ## Bibliography
 

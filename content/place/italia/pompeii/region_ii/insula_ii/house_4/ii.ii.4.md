@@ -46,13 +46,11 @@ A. The [portico](http://vocab.getty.edu/page/aat/300004145) which bordered the [
 
 B. The east [portico](http://vocab.getty.edu/page/aat/300004145) gave access to the narrow garden to the back of the house.
 
-
 ## Bibliography
 
 - Jashemski, W.F. 1979. *'The Garden of Hercules at Pompeii' (II.viii.6): The Discovery of a Commercial Flower Garden.*, American Journal of Archaeology, vol. 83, no. 4, pp. 403–411. [link](https://www.jstor.org/stable/504139. Accessed 2 Dec. 2020.)
 
 - Spinazzola, V. and Aurigemma, S. 1953. *Pompei Alla Luce Degli Scavi Nuovi Di Via Dell'abbondanza (anni 1910-1923),* Roma: Libreria dello Stato, map after p. 376 where this garden is labeled *hortus*.[worldcat](https://search.worldcat.org/title/905639908)
-
 
 ## Places
 

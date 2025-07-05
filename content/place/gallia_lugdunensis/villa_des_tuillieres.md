@@ -39,7 +39,6 @@ The villa was destroyed during the barbarian invasion into Gaul in 256-8 AD, whi
 
 Furthermore, there is evidence of lentil (*Lens culinaris*) and broad bean (*Vicia faba*), which were most probably cultivated either in the gardens of the villa or on small fields in the vicinity. Carbonized scales from walnuts and uncarbonized fruit stones from peach (*Prunus persica*) and damson (*Prunus insititia*) indicate cultivation of fruit trees in the gardens while hazel (*Corylus avellana*) and sloe (*Prunus spinosa*) were most probably fruits collected from the wild.
 
-
 ## Maps
 
 None Available

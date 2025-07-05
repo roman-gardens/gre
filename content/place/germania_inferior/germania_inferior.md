@@ -24,7 +24,7 @@ draft: true
 - {{< id vocab="Pleiades" id="981524" name="Blabkenheim-Hülchrath" >}}
 - {{< id vocab="Pleiades" id="108751" name="Colonia Claudia Ara Agrippinensium (Cologne)" >}}
 
-<!--## Sublocation-->
+<!-- ## Sublocation -->
 
 <!--
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
@@ -32,7 +32,6 @@ A sublocation is any area larger than an individual garden, but located within a
 -->
 
 ## Sublocation Description
-
 
 ## Garden
 

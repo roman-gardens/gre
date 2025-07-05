@@ -55,7 +55,6 @@ The house is laid out around a square shaped peristyle garden. Between the colum
 * Ben Abed Ben Khader, A., "Les maisons de Pupput (Tunisie)", in *Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres*, 150ᵉ année, N. 1, 2006. pp. 510-518, fig. 2, p. 513. [(worldcat)](https://search.worldcat.org/title/859686146)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.188-189. [(worldcat)](https://search.worldcat.org/title/989088620)
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="315121" name="Pupput" >}}

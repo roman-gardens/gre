@@ -20,7 +20,6 @@ draft: true
 
 [Region X]({{<relref "..">}})
 
-
 ## Garden
 
 Tomb Garden of L. Ogius Patroclus
@@ -37,7 +36,7 @@ Tomb Garden of L. Ogius Patroclus
 
 A marble slab reported at Altinum in the sixteenth century and now in Venice  records, above a depiction of an axe, a plumb-line, and a tree with birds, the epitaph of L. Ogius Patroclus, who some time (probably) in the late first or second century, "following the tradition of dutiful respect maintained by the corporation of firemen, donated while still living the gardens with building adjoining the tomb, so that from their revenue roses and food would be supplied generously for his patron and, eventually, for himself" (secutus pietatem col(legii) cent(onariorum) hortos cum aedificio huic sepult(urae) {a} iunctos vivos donavit, ut ex reditu eor(um) largius rosae et esce patrono suo et quandoque sibi ponerentur). The pairing of roses for the dead and food for the living (rosae et escae) was common in Roman funerary celebrations at the grave site, which perhaps suggests that mixed planting of flowers and vegetables was common in Roman tomb gardens as well (cf. ILS 6711, 8371).
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Dates
 

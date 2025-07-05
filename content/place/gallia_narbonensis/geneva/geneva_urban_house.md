@@ -18,7 +18,6 @@ draft: true
 
 <!-- ## Province Description -->
 
-
 ## Location
 
 - [Genava, ((Geneva, France)]({{<relref ".">}})
@@ -52,13 +51,11 @@ Below the *peristyle* was a *terrace* where excavations uncovered a deposit 15 c
 
 None Available
 
-
 ## Images
 
 None Available
 
 ## Dates
-
 
 ## Bibliography
 

@@ -42,13 +42,13 @@ The vast house (3000-3500 m2) is laid out around a large peristyle garden (Plan 
 Two lararia  (32 B, XXXV) open off of porticos XI and XIII respectively.
 
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="AFR_Thy_Hd_Wjashemski.jpg" caption="Fig. 1: House of the Dolphins (CMT, plans 5-6)" credit="" alt="Fig. 1: House of the Dolphins." >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 
@@ -58,7 +58,6 @@ Early 3rd century CE
 
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003,pp.309-312. [(worldcat)](https://search.worldcat.org/title/989088620)
 * Dulière, C., *Corpus des Mosaïques de Tunisie*, *Thysdrus, El Jem*, *Quartier Sud-Ouest*, INA, Tunis, 1996, pp. 67-75, plans 5-6. [(worldcat)](https://search.worldcat.org/title/884623863)
-
 
 ## Places
 

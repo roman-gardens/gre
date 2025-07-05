@@ -31,11 +31,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [Quarter of Saint-Florent, House A – House of the Mosaic with Meanders](#)
 
-
 ## House
 
 Quarter of Saint-Florent, House A – House of the Mosaic with Meanders
-
 
 ## Keywords
 
@@ -47,11 +45,9 @@ Quarter of Saint-Florent, House A – House of the Mosaic with Meanders
 - {{< keyword "porticoes" >}}
 - {{< keyword "opus signinum" >}}
 
-
 ## House Description
 
 Some years after the destruction by flood of the house of Clodius (NAR15.10), and its neighbor (House A2), their ruins were leveled and this house built upon them. Some authorities place the construction in the last third of the first century, around the year 70; others, sometime in the second century. The dwelling seems to have lasted until about 260-280.
-
 
 ## Garden Description
 
@@ -60,18 +56,14 @@ A rectangular pool (7.4 x 2.5 m. and less than 70 or 80 cm. deep) running the fu
 Lying in the pool was found a collection of fragments of lead piping. Presumably, they had been pulled together after the house was abandoned with the intent to reuse them. These pieces permit the conjectural partial reconstruction of the water supply to the pool. The water came, it seems, in a pipe of average diameter, to the northeast corner of the pool, then passed through a truncated cone and came out through a curved section of smaller diameter. The purpose would seem to be to create the pressure necessary for a water jet in a fountain.
 A rather large sewer collector (30 x 40 cm in section) took the rainwater of the roofs and the overflow of the pool from the northeast corner of the garden and led them away to the north, picking up along the way the waste water of the baths. The overflow from the pool may perhaps have assured the necessary flux in latrines near the baths.
 
-
 ## Plans
 
-
 {{< image file="quarter_of_saint_florent_house_a_house_of_the_mosaic_with_meanders.png" caption="Plan of Quarter of Saint-Florent, House A – House of the Mosaic with Meanders" credit="" alt="" >}}
-
 
 ## Dates
 
 B.C 10-A.D 10 Built
 A.D 20-30 Destroyed
-
 
 ## Bibliography
 

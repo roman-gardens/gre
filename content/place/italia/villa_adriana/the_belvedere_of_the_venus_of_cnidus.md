@@ -42,7 +42,6 @@ The Belvedere of the Venus of Cnidus (Fig. 1, n. 11)
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "nymphaea" >}}
 
-
 ## Garden Description
 
 This Belvedere is not really a garden. The area is all paved with luxurious *opus sectile*, and, therefore, there were no flowerbeds, but in every important park, beside bushes and blooming plants, there are always some elegant pavilions and exedras where one could pause and take a rest reading a book or talking with friends. Of course, you can't have such a thing in small private house gardens where the area is restricted and all the space must be used for growing colorful blossoms. On the contrary in large extension of space they make necessary spots of interest where strollers can pause to enjoy the beauty of the thereabouts (SALZA PRINA RICOTTI 2000, pp. 388-390, fig. 139). The Belvedere of the Venus of Cnidus (Fig. 31) is one of them and it is also one of the most charming (ORTOLANI 1998). It was placed on a hillock overlooking the so-called Valley of Tempe. Two large exedras (Fig. 31, D) were laid on one of its sides; a round temple (Fig. 32) sheltering a copy of the Venus of Cnidus by Praxiteles stood at its center (Fig. 31, B), and, from it, the view ranged over Tivoli and the Appennine mountains in the background, really an enchanted place with a stunning view.
@@ -60,7 +59,6 @@ The Belvedere was created in those areas bought by Hadrian to have enough space 
 ## Images
 
 {{< image file="32_tempietto.jpg" caption="Fig. 32: The temple sheltering a copy of the Venus of Cnidus, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the round temple sheltering a copy of the Venus of Cnidus at Hadrian's Villa" >}}
-
 
 ## Dates
 

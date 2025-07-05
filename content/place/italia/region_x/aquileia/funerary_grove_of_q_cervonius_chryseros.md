@@ -20,7 +20,6 @@ draft: true
 
 [Region X]({{<relref "..">}})
 
-
 ## Garden
 
 Funerary Grove of Q. Cervonius Chryseros
@@ -36,10 +35,9 @@ Funerary Grove of Q. Cervonius Chryseros
 
 A small inscribed altar of (probably) the Julio-Claudian era found by Mommsen among the stones of Aquileia and now lost records on its left and right sides dedications to Dis Pater and (H)era respectively and, on its front, the name of the dedicant, a consul's aide (acc(ensus) co(n)s(ularis)) and local sevir at Florentia, Q. Cervonius Chryseros, who built "the grove, the enclosure wall, the altars, the mound (? molem), and the seats" (lucum, maceriem, aras, molem, [s]edilia). The dedication to Dis Pater suggests a funerary context, which leads Chioffi to identify the molis as a tomb monument of some ill-defined type (perhaps an irregular mound?). A Roman soldier serving in lower Germany at Carvium (Herwen) was buried by his two heirs ad molem, "near (or at) the mound" (AE 1939, 130). The same Chryseros perhaps appears as the owner of a slave, Fausta, who in fulfillment of a vow dedicated another monument to Dis Pater at Aquileia (CIL 5.35*).
 
-<!--## Maps-->
+<!-- ## Maps -->
 
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 

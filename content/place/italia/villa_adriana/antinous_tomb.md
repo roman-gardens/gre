@@ -142,7 +142,7 @@ unspecified
 * A. Penna, *Viaggio pittorico nella Villa Adriana*, Roma 1831, III, 29. [(worldcat)](https://search.worldcat.org/title/800575474)
 * J. C. Grenier "L'emplacement de la tombe de Antinous d'après les textes de l'obelisque Barberini," in J.C. Grenier, F. Coarelli, "La tombe de Antinous à Rome," in *Mélanges de l'École française de Rome, Antiquité* XCVIII (1986), pp. 217-229. [(worldcat)](https://search.worldcat.org/title/220729070)<!-- link for specific issue? -->
 * Attanasius 350 A.D. –  From a letter of Saint Attanasius "And then this is the new god, Antinous, Hadrian's servant, a boy who was a slave of the emperor's depraved and against nature lust... This scandalous and shameless boy died in Aegypt during an imperial court's visit to this country. Immediately His Imperial Majesty issued an order and an extremely rigorous edict obliging all his subjects to recognize the deity of the dead boy..."
-<!-- PIETRANGELI 1993 reference removed-->
+<!-- PIETRANGELI 1993 reference removed -->
 
 ## Places
 

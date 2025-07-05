@@ -27,7 +27,6 @@ draft: false
 - [Palatine]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
-
 ## Garden
 
 Garden of the Peristyle of the Julio-Claudian *Domus*, Palatine
@@ -47,7 +46,6 @@ Garden of the Peristyle of the Julio-Claudian *Domus*, Palatine
 - [princeps](https://www.britannica.com/topic/princeps)
 - {{< keyword "architectural terracotta" >}}
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
-
 
 ## Garden Description
 

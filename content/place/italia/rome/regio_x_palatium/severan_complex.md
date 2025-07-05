@@ -27,7 +27,6 @@ draft: false
 - [Palatine]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
-
 ## Garden
 
 Garden of the Severan Complex, Palatine
@@ -39,7 +38,6 @@ Garden of the Severan Complex, Palatine
 - {{< keyword "domus" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "pools" >}}
-
 
 ## Garden Description
 
@@ -54,7 +52,6 @@ RELATED PHASES ON THE PALATINE:
 [Garden of the Domus Flavia (E)]({{<relref "Domus_flavia">}})\
 [Garden of the Domus Augustana (F,G)]({{<relref "domus_augustana">}})\
 [Garden of the Palatine Stadium (H)]({{<relref "palatine_stadium">}})
-
 
 ## Figures
 

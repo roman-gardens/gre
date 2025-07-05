@@ -37,12 +37,9 @@ These were discovered out of context or the location of the find is not known:
 - Fragment of a rectangular *oscillum* showing, on one side, the leg of an animal supported on a wheel and, on the other, a theatrical mask.  (The maximum height of the fragment is 14.5 cm.)
 - A rectangular *oscillum* with masks (15 by 22 cm). On one side, Ganymede gives drink to the eagle Jupiter; on the other, two theatrical masks.
 
-
 ## Plans
 
-
 ## Dates
-
 
 ## Bibliography
 

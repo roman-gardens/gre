@@ -42,7 +42,6 @@ Only the bases remain of the fourteen brick columns that enclosed this garden (a
 
 {{< image file="fig.20.region_viii.insula_vi.png" caption="Fig. 20, Plan of Region VIII, Insula VI" credit="" alt="" >}}
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

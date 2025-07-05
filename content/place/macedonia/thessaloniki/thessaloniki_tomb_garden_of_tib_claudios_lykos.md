@@ -20,7 +20,6 @@ draft: true
 
 Tomb Garden of Ti. Claudios Lykos
 
-
 ## Keywords
 
 - {{< keyword "tombs" >}}
@@ -33,7 +32,7 @@ A limestone sarcophagus found at Thessaloniki and first reported in 1962 preserv
 
 ## Maps
 
-<!--## Plans-->
+<!-- ## Plans -->
 
 ## Images
 

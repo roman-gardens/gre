@@ -32,20 +32,18 @@ House of the White Mosaic (Maison des mosaïques blanches)
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
 
-
 ## Garden Description
 
 This house located E of the House of the Dolphins, has a small sunken peristyle garden (VI, 6.35 x 7 m) 60 cm lower than the level of the portico and bordered by a low wall (Plan view, Fig.1).
 
 
-<!--## Maps-->
-
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="AFR_Thy_Hwm_Wjashemski1.jpg" caption="Fig.1: Plan of the house of the White Mosaic. (CMT, plan 7)" credit="" alt="" >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 
@@ -55,7 +53,6 @@ Early 3rd century CE
 
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.306-308. [(worldcat)](https://search.worldcat.org/title/989088620)
 * Dulière, C., *Corpus des Mosaïques de Tunisie*, *Thysdrus, El Jem*, *Quartier Sud-Ouest*, INA, Tunis, 1996, pp. 101-105, plans 7.[(worldcat)](https://search.worldcat.org/title/884623863)
-
 
 ## Places
 

@@ -33,14 +33,11 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 ## Sublocation Description
 
-
 <!-- DESCRIPTION -->
 
 ## House
 
-
 La Plaine, House A under the High School
-
 
 ## Keywords
 
@@ -50,7 +47,6 @@ La Plaine, House A under the High School
 - {{< keyword "courtyards" >}}
 - {{< keyword "reception rooms" >}}
 
-
 ## House Description
 
 This vast *domus* (120 x 60 m) presumably had its principal, monumental entry on the south side, along the Street of the Port. The south peristyle [6] (approximately 13.7 x 9.3 m) was surrounded by four porticoes with floors of terrazzo signinum. Three of them were 2 meters wide; the fourth, on the north, was 3 meters wide and gave access to the principal room [17].
@@ -59,16 +55,13 @@ The courtyard of this peristyle was certainly used as a garden. It had a rectang
 
 In the northern wing of the house, a square reception room [53], 5.8 meters on a side, was centered on the axis of the garden. No mosaic was found in it, but the few remaining fragments of the pavement indicate that it was mainly of marble plaques.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
-
 {{< image file="la_plaine_house_a_under_the_high_school.png" caption="Plan of La Plaine, House A under the High School" credit="" alt="" >}}
 
-
 ## Dates
-
 
 ## Bibliography
 
@@ -83,7 +76,6 @@ In the northern wing of the house, a square reception room [53], 5.8 meters on a
 4. M. Leglay, "Les jardins à Vienne," in *Seventh Dumbarton Oaks Colloquium on the History of Landscape Architecture, Ancient Roman Gardens*, Washington, 1981, P. 57-58.[worldcat](#)
 
 5. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 275-277, Fig. 195.[worldcat](https://search.worldcat.org/title/43416334)
-
 
 ## Places
 

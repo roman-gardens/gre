@@ -31,13 +31,13 @@ Rural Villa in Ferpicloz
 
 The house of this *villa rustica* was of the winged corridor type (A in Fig. 1) with a porticoed facade (Fig. 1). Attached to the eastern end of the house, measuring 37 x 46 meters, was a wall running east-west which has been interpreted as the protective wall of a garden (G in Fig. 1).
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="EUR_GS_Fer_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa (A) with a possible garden (G) protected by a wall to the east of the main building. The shoreline of the lake is dotted." credit="Adapted from Drack and Fellmann 1988, fig. 369." alt="" >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

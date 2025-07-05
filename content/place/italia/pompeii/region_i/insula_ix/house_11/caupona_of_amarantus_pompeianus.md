@@ -47,7 +47,7 @@ The *peristyle* of this house was built before the earthquake of 62 BC. When the
 
 At the time of the eruption, trees and shrubs grew in the garden, as excavators found root cavities. However, pollen evidence of bracken and weeds suggests that the garden was either overgrown or abandoned, at least from its original purposes.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
@@ -55,8 +55,7 @@ At the time of the eruption, trees and shrubs grew in the garden, as excavators 
 
 {{< image file="../region-i-insula-ix.png" caption="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44" credit="" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." >}}
 
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 

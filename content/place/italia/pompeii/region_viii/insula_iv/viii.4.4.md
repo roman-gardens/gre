@@ -56,7 +56,6 @@ The earthquake most likely was the reason the corner columns were reinforced by 
 {{< image file="fig.11.viii.iv.4_11.12.59.jpg" caption="Fig. 11, 11.12.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="fig.12_viii.iv.4_11.13.59.jpg" caption="Fig. 12, 11.13.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

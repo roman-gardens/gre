@@ -27,7 +27,6 @@ draft: false
 - [Palatine]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
-
 ## Garden
 
 Garden of the Domus Tiberiana, Palatine
@@ -55,7 +54,6 @@ Garden of the Domus Tiberiana, Palatine
 - [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 - [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
-
 
 ## Garden Description
 
@@ -85,7 +83,6 @@ RELATED PHASES ON THE PALATINE:
 [Garden of the Palatine Stadium (H)]({{<relref "palatine_stadium">}})\
 [Garden of the Severan Complex (I)]({{<relref "severan_complex">}})
 
-
 ## Figures
 
 {{< image file="domus_tiberiana_fig1.jpg" caption="Fig. 1: Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." credit="" alt="Plan of the Palatine" >}}
@@ -107,7 +104,6 @@ RELATED PHASES ON THE PALATINE:
 1900-1901: G. Boni\
 1983-1988: C. Krause under the Swiss Institute of Rome
 1990-: M. Tomei and M.G. Filetici under the Sopraintendenza Archeologica di Roma.
-
 
 ## Bibliography
 

@@ -35,11 +35,9 @@ Theater
 - {{< keyword "porticoes" >}}
 - {{< keyword "statues" >}}
 
-
 ## Garden Description
 
 The Italica Theater makes use of the side of a hill to support most of its *gradería*, as do all known theaters in Spain.  It was built in the oldest sector of the city and in a location earlier occupied by a simpler structure.  The theater had a portico behind the *scaena* in which there was a chapel to Isis in the second century AD.  The portico with heavy sandstone columns covered in stucco surrounded a grand courtyard.  At some point low walls were constructed between the columns, and pedestals for honorific statues were placed on top of the low walls.  When the ground level in the courtyard was raised (possibly for the creation of a garden) a wall was built to keep earth from entering the portico.
-
 
 ## Maps
 
@@ -47,9 +45,7 @@ The Italica Theater makes use of the side of a hill to support most of its *grad
 
 ## Images
 
-
 {{< image file="HIS_BAE_Italica_theater_plan_Notebook.jpg" caption="Fig. 1: Plan of the Theater, from Italica MMCC, page 43." credit="" alt="" >}}
-
 
 ## Dates
 
@@ -60,7 +56,6 @@ unspecified
 * Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](https://search.worldcat.org/title/882602957)
 * A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](https://search.worldcat.org/title/638777432)
 * A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). [(worldcat)](https://search.worldcat.org/title/916989580)
-
 
 ## Places
 

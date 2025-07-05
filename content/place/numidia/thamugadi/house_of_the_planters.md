@@ -31,7 +31,6 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 
 Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.
 
-
 ## Garden
 
 House of the Planters (Maison aux jardinières)
@@ -48,7 +47,6 @@ House of the Planters (Maison aux jardinières)
 
 Located SW of the Decumanus and NE of the forum, the house of the "Jardinières" almost square shaped, was laid out around a peristyle of 10 columns. Along the three porticoes and the angles of the fourth were arranged planters (10,50 x10,50 m) whose contours are curved. Double herm-heads or two sided-plaque with masks were found, they may have surmounted the corner pilasters of the courtyard. In the middle was a well. Facing the entrance and opening towards the courtyard, a large reception room was surrounded on its two sides by a vestibule leading to a room. (Plan view Fig.1; Fig.2)
 
-
 ## Maps
 
 ## Plans
@@ -58,8 +56,10 @@ Located SW of the Decumanus and NE of the forum, the house of the "Jardinières"
 
 {{< image file="house_of_the_planters_drawing.jpg" caption="Fig. 2: Drawing of the courtyard of the House of the Planter" credit="(Ballu, A., 1897,fig. 36)" alt="Drawing of the courtyard of the House of the Planter">}}
 
-<!--{{< image file="#" caption="Fig. 3 Photographic view of the courtyard of the House of the Planters (WFJ)." credit="" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi">}}
+<!--
+{{< image file="#" caption="Fig. 3 Photographic view of the courtyard of the House of the Planters (WFJ)." credit="" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi">}}
 -->
+
 ## Dates
 
 2nd-3rd century CE?

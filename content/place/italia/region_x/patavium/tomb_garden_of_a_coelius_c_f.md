@@ -20,7 +20,6 @@ draft: true
 
 [Region X]({{<relref "../..">}})
 
-
 ## Garden
 
 Tomb garden of A. Coelius C. f.
@@ -36,7 +35,7 @@ Tomb garden of A. Coelius C. f.
 
 A broken marble slab immured in the cathedral at Padua since the seventeenth century records the epitaph of A. Coelius C. f., who some time in the first or second century dedicated to the divine spirits (Dis Manibus) and to himself in perpetuity a garden that had once, it seems, belonged to an Arius (hortum… Arianum). Whether it had always been a tomb garden or was only then being converted to a funerary use is uncertain.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Dates
 

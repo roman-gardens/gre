@@ -18,7 +18,6 @@ draft: true
 
 <!-- ## Province Description -->
 
-
 ## Location
 
 - [DIE, France]({{<relref ".">}})
@@ -28,13 +27,11 @@ draft: true
 
 ## Sublocation
 
-
 ## Garden
 
 Tomb garden of Publicius Calistus
 
 <!-- ## Keywords -->
-
 
 ## Garden Description
 
@@ -45,13 +42,11 @@ A funerary monument found near Die and now on the terrace of the courthouse ther
 
 None Available
 
-
 ## Images
 
 None Available
 
 ## Dates
-
 
 ## Bibliography
 

@@ -34,14 +34,14 @@ Rural Villa in Wiesbaden-Biebrich
 
 Only the residential part of this farm has been excavated. The house with a width of 22 meters had two protruding wings at the south. To the west of the house was an area of irregular proportions enclosed by a wall, and this has been interpreted as a kitchen garden (G in Fig. 1).
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="EUR_ger_sup_fig_16_wiesbadeb_B_carroll.jpg" caption="Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west." credit="Adapted from Baatz and Herrmann 1989, fig. 471." alt="" >}}
 
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

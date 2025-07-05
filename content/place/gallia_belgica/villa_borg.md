@@ -26,7 +26,6 @@ Villa Borg
 - {{< keyword "basins" >}}
 - {{< keyword "courtyards" >}}
 
-
 ## Garden Description
 
 The *villa* of Borg is situated in a forest between the villages Borg and Oberleuken, community of Perl (Landkreis Merzig-Wadern), in the border-region Germany - Luxembourg - France. The huge villa complex is situated in a densely occupied Roman settlement region on the fertile plateaus between the river valleys of Saar and Mosel. *Pars urbana* and *pars rustica* covered an area of about 7.5 hectare. The *villa* was built in the direct vicinity of the Roman road from Metz to Trier (*Augusta Treverorum*), which was part of the far-distance connection between Marseille and Cologne.
@@ -39,8 +38,7 @@ Unfortunately only a few architectural elements, like the two water *basins* (Fi
 
 In the year 2000, the reconstructed main building of the *villa* with its bath, now occupying a small museum, was completed by the reconstruction of a representative Roman garden. This garden is situated between the reconstructed central building and the huge Roman water *basin*. In the following it was completed by a vegetable garden, a rose garden and a small vineyard, presenting Roman horticulture to the public. The reconstruction was part of the European Union's Interreg-II project "gardens without borders". Concerning the poor local evidence from the recent excavations the reconstruction was mainly based on the better evidence of Roman gardens from *villas* in Italy and France.
 
-<!-- Whole entry comes from draft file-->
-
+<!-- Whole entry comes from draft file -->
 
 ## Maps
 

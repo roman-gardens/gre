@@ -32,7 +32,6 @@ There has been little research on the gardens in the Roman settlements in Spain 
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
-
 ## Bibliography
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
@@ -43,12 +42,10 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
-
 ## Location
 
 - [Emporiae]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="246382" name="Emporiae" >}}
-
 
 ## Location Description
 
@@ -62,7 +59,6 @@ Neapolis was abandoned in the course of the second half of the first century AD.
 
 Publicly funded excavation of the northeastern part of Neapolis and the forum of the Roman City was conducted in 1846-8.  Further systematic studies were conducted from 1908 to 1936 under E. Gandía, who took a great interest in stratigraphy before it was common to do so.  The Spanish Civil War brought this work to an end, but Gandía's day books have been preserved.  Work was resumed in the 1940's and 1950's by M. Almagro, with recent work by R. Mar and J. Ruiz de Arbulo, and B. Tang.  Tang emphasizes that it is often difficult or impossible to determine whether a space in a house in Neapolis was open or covered.  The difficulty should not be so great in the case of gardens, for any sort of paving or hammered earth rules out the possibility of a garden. She identifies gardens in N5 and N7 and notes  that also N 52 near the northern end of the western edge and N 75 on the  northern edge "appear to have been provided with gardens or terraces."
 
-
 ## Bibliography
 
 - M.A. Basch, Ampurias; *historia de la ciudad y guía de las excavaciones*. Barcelona, 1951 [(worldcat)](https://search.worldcat.org/title/802755367)
@@ -75,7 +71,6 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 
 - B. Tang, *Delos, Carthage, Ampurias, The Housing of Three Mediterranean Trading Centers*, Bretschneider, Rome, 2005. [(worldcat)](https://search.worldcat.org/title/57730335)
 
-
 ## Plans
 
 {{< image file="HIS_TAR_Emp_plan_fig2.jpg" caption="Plan of Emporiae." credit="Adapted from Mar and Ruiz de Arbulo." alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." >}}
@@ -83,7 +78,6 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 ## Images
 
 {{< image file="HIS_TAR_Emp_aerial_viewfig1.jpg" caption="Aerial view of Emporiae at the end of the first century BC." credit="Adapted from Mar and Ruiz de Arbulo." alt="" >}}
-
 
 ## Garden
 
@@ -94,11 +88,9 @@ House R2 (Tang AmpR2 and AmpR3)
 - {{< keyword "atriums" >}}
 - {{< keyword "porticoes" >}}
 
-
 ## Garden Description
 
 House R2, situated south of House R1 in the area of the forum of the Roman City (Fig. 1), is of totally different design and is smaller, but equally luxurious.  In describing the phases of its construction, we follow Tang's account (page 126). (Fig. 2)  In its first phase, from the first quarter of the 1st century BC, the area of House R2 was occupied by two separate, similar houses, designated R2A on the south and R2B on the north.  Each had a single, central atrium, which opened onto the cardo along the west side. Behind each house, a hortus extended back and was bounded by an intervallum of the city wall. In the second phase, in the second third of the 1st century BC, house R2A expanded, absorbing its own hortus and that of its neighbor, and taking out part of the city wall and extending beyond it to the east.  It also acquired the southeastern corner (room [15]) of its neighbor.  The old hortus of R2A was replaced by a large garden of 400 square meters enclosed by a peristyle; and a suite of rooms, opening onto the garden, was added. on the east on land formerly outside the city wall. Moreover, a row of rooms [42 – 49] was built behind them and opening to the east. The area beyond them may have been a garden.  In the the first century AD, in a third phase, the former hortus of House R2B was converted into a peristyle garden [35a]  with porticoes on the east, south and west sides.  Along the north side were three, precisely symmetric rooms. The south wall of the central one extended in an arc into the garden.  This part of the wall probably had windows opening into the garden.  Along the west side of the new peristyle garden a bath complex [30 – 32] was added.  A fourth phase at the end of the 1st or beginning of the 2nd second century AD saw a reworking of the eastern side of the house, with a huge room [46] with a triple entrance from the wide portico which now ran along the east side.  A large garden extended on to the east a distance not yet determined.  The L-shaped portico next to the garden indicated an interest in protecting the garden from the north wind.  A small altar with paintings of a serpent and cock was found in the house, possibly in the garden peristyle.
-
 
 ## Bibliography
 
@@ -114,7 +106,6 @@ House R2, situated south of House R1 in the area of the forum of the Roman City 
 
 {{< image file="HIS_TAR_Emp_R2_fig1.jpg" caption="The Roman or Republican city at Ampurias." credit="Adapted from Mar and Ruiiz de Arbulo." alt="" >}}
 
-
 ## Images
 
 {{< image file="HIS_TAR_Emp_R2_fig2.jpg" caption="House R2 (Tang R2 and R3) in the Roman City in Ampurias.(The dividing line runs between House R2B in the upper left and R2A; the vertical red line shows the approximate location of the original city wall.)" credit="Adapted from Tang, where it was adapted from Mar and Ruiz de Arbulo." alt="" >}}
@@ -123,8 +114,7 @@ House R2, situated south of House R1 in the area of the forum of the Roman City 
 
 1C BC
 
-<!---doesn't have ## Bibliography-->
-
+<!-- -doesn't have ## Bibliography -->
 
 ## Places
 

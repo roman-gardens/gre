@@ -18,7 +18,6 @@ draft: false
 
 The Hellenistic/Roman settlement of Tyrus was located in Wadi Seer in the highlands above the northeastern rim of the Dead Sea, about 15 km southwest of Amman, Jordan (Fig. 1). The site, which is often associated with the name of the modern village, [ʻIrāq al-Amīr](https://en.wikipedia.org/wiki/Iraq_al-Amir), boasts a partially restored palace ([Qasr al-Abd](https://pleiades.stoa.org/places/947227732), "Palace of the Servant") dated to the 2nd century BCE. In the hillsides behind the palace is a series of caves that were inhabited as early as the Chalcolithic period.
 
-
 ## Garden
 
 Palace of Hyrcanus the Tobiad
@@ -32,7 +31,6 @@ Palace of Hyrcanus the Tobiad
 - {{< keyword "paradise gardens" >}}
 - {{< keyword "reflecting pools" >}}
 - {{< keyword "triclinia (rooms)" >}}
-
 
 ## Garden Description
 
@@ -86,7 +84,6 @@ Waiting for columbarium photo from K. Gleason
 - Will, E., and F. Larché, 1991. ʻIraq al Amir : le château du Tobiade Hyrcan, Paris: Biblioteque Archeologique et Historique 132. [(worldcat)](https://search.worldcat.org/title/231538684)
 
 - Zayadine, F. 1997. "Iraq El Amir" In *The Oxford Encyclopedia of the Archaeology of the Near East*, edited by E. Meyers, Oxford. [(worldcat)](https://search.worldcat.org/title/1080900665)
-
 
 ## Places
 

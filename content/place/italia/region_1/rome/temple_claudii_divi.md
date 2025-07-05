@@ -19,7 +19,6 @@ draft: true
 
 Italia was not considered a province until the reign of Diocletian. The peninsula, however, was divided into administrative regions by Augustus around 7 BCE, according to Pliny's *Naturalis Historia*. Regio I was comprised of Latium and Campania.<!-- DESCRIPTION -->
 
-
 ## Location
 
 - [Rome]({{<relref ".">}})
@@ -65,7 +64,6 @@ The temple is located on top of a platform (180 x 210 m.) and is situated just o
 Because these remains are located under the present-day Monastery of the Passionist Fathers, no recent excavation has been possible.  A. M. Colini's excavations reveal that the four faces of the platform differ significantly.  Under the stairs of the north side was a cistern, presumably remnants of Nero's nymphaeum, the water supply for the temple complex.  The south face, as yet unexcavated, should reveal evidence of the Aqua Claudia.
 
 The temple is set within eight L-shaped planting beds and fourteen rectangular planting beds (Fig. 2).  Some scholars considered these forms to be the substructures of the temple complex, while it is also possible that these structures are water features.  However, the majority of scholars believe that these structures are planted rows of trees or shrubs in a *nemus*, similar to the plantings found during the new excavations of the [Templum Pacis](https://en.wikipedia.org/wiki/Temple_of_Peace,_Rome). The role of Vespasian as sponsor also lends credence to such an interpretation.  Vespasian is credited with building a *quadriporticus* to surround the entire platform and Martial mentions a *porticus* ([Martial Sp. 2.9-10](https://www.thelatinlibrary.com/martial/mart.spec.shtml)), but there is no evidence for the *porticus* on the Marble plan. Thanks. Test for the pull.
-
 
 ## Dates
 

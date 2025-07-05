@@ -39,7 +39,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "porticoes" >}}
 - {{< keyword "pilasters" >}}
 
-
 ## Garden Description
 
 When this house was excavated in 1826, Fiorelli determined that after the earthquake it had been divided into two separated residences. The southeast corner was the location of a garden (a) that had a portico on three sides with columns connected by a low wall and pilasters on the south wall.
@@ -47,7 +46,6 @@ When this house was excavated in 1826, Fiorelli determined that after the earthq
 ## Plans
 
 {{< image file="fig.5._region_viii._insula_iii.png" caption="Plan of Region VIII Insula III" credit="" alt="" >}}
-
 
 ## Places
 
@@ -57,7 +55,6 @@ When this house was excavated in 1826, Fiorelli determined that after the earthq
 ##  Excavation Dates
 
 1826
-
 
 ## Bibliography
 

@@ -35,11 +35,9 @@ The area of Augusta Emerita best known today, because of extensive excavations, 
 
 Because most of evidence from Merida was unearthed in old excavations, the context of many ancient objects is unknown. There is also a lack of analytical data on many of the areas which must originally have been gardened. The classification of the gardens of the Colonia Augusta Emerita is still under analysis. The study by Moreno is a basic survey article and should be understood to be part of all the bibliographies for Merida.
 
-
 ## Bibliography
 
 - I. C. Moreno, "Los jardines de Mérida," *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
-
 
 ## Garden
 
@@ -65,7 +63,6 @@ The second house, which is better preserved, is more correctly dubbed the "House
 The house, of sizeable proportions, boasted important painted and mosaic decoration. Of the three chambers situated along the southeast gallery, the center chamber had opus signinum pavement and has been interpreted as a triclinium, from which one could enjoy magnificent views of the garden. The pavement of the contiguous chamber to the northeast has a beautiful mosaic with representations of Venus and Cupid surrounded with floral designsand "The Mosaic of the Grape Harvest" (Mosaico de la Vendimia). They were repaired in antiquity.
 
 An equally important second nucleus of this house consisted of a complex of rooms at its east end. This area had handsome mosaic pavements and communicated with the aforementioned peristyle through an L-shaped passageway. Its largest chamber, which had the character of a show room, if not a triclinium, is known as the "Hall of the Fish Mosaic" (Habitación del Mosaico de los Peces) and is dated to the 3rd century AD. Although this second group of rooms was probably organized around courtyards or gardens, none have been documented because this part of the residence remains unexcavated. The peristyle of the House of the Amphitheater, as well as the plan of the entire residence, has close parallels in the eastern Mediterranean which have been thoroughly studied by A. Balil.
-
 
 ## Plans
 

@@ -32,21 +32,18 @@ House H (Maison H)
 - {{< keyword "semicircular basin" >}}
 - {{< keyword "mosaics" >}}
 
-
 ## Garden Description
 
 This house, the largest in *insula* III (lots 2,3,4,9,10), rivals the House of the Cascade in size and richness of mosaics (Plan view, Fig.1). A semicircular basin extended into the garden on the S and E sides, each decorated with a marine scene.
 
 
-<!--## Maps-->
-
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="AFR_Uti_H_Wjashemski1.jpg" caption="Fig.1: Plan of the House H (CMT, pp.121-128)." credit="" alt="" >}}
 
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 
@@ -56,7 +53,6 @@ This house, the largest in *insula* III (lots 2,3,4,9,10), rivals the House of t
 
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.346-347. [(worldcat)](https://search.worldcat.org/title/989088620)
 * Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp.121-128. [(worldcat)](https://search.worldcat.org/title/905773599)
-
 
 ## Places
 

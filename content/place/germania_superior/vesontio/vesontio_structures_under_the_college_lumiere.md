@@ -26,7 +26,6 @@ Archaeology in a downtown area is always a matter of seizing opportunities as th
 
 Structures under the Collège Lumière in Vesontio
 
-
 ## Keywords
 
 - {{< keyword "colonnades" >}}
@@ -52,7 +51,7 @@ The largest of the rooms, decorated by the Neptune mosaic, opened on its north s
 
 A fragment of a little ornamental stone *krater* was found in the material that filled the east peristyle after its abandonment. From late antiquity is the foundation of a pool or cistern of about 3.5 by 2.5 meters. Its stones have been removed, and only the *opus signinum* mortar bearing the imprint of the stones has been found. This structure pierced through all the archaeological levels and into the natural earth.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
@@ -60,7 +59,7 @@ A fragment of a little ornamental stone *krater* was found in the material that 
 
 - Fig. 1: Plan of the domus, now under the Collège Lumière.
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

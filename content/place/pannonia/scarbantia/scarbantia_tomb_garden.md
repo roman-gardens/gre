@@ -16,7 +16,6 @@ draft: true
 - [Scarbantia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="197501" name="Scarbantia" >}}
 
-
 ## Garden
 
 Tomb Garden of Iul(ia) Victorin(a) in Scarbantia
@@ -35,12 +34,10 @@ A limestone funerary stele of probably third century date unearthed in 1973 near
 
 ## Maps
 
+<!-- ## Plans -->
 
-<!--## Plans-->
 
-
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 

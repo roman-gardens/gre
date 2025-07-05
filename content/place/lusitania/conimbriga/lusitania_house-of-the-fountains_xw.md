@@ -54,8 +54,7 @@ The house has recently been the subject of a monograph by Isabelle Morand in whi
 {{< image file="HIS LUS_Conim_ Fountains_Ph_CA fig2.jpg" caption="Fig. 2: Photo of the House of the Fountain in 2007 with the new roof." credit="" alt="Photo of the fountains at Conimbriga, Lusitania Province" >}}
 
 
-<!--## Dates-->
-
+<!-- ## Dates -->
 
 ## Bibliography
 

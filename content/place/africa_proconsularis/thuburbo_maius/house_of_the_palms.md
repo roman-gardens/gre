@@ -55,7 +55,6 @@ Early 3rd century CE
 * Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](https://search.worldcat.org/title/20058336)
 *  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome, Edizioni Quasar, 2003, pp.237-239. [(worldcat)](https://search.worldcat.org/title/989088620)
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="315220" name="Thuburbo Maius" >}}

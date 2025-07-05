@@ -23,7 +23,7 @@ Rows of trees were planted at the edge of the vineyard between the second and th
 The entrance directly across from the amphitheater was designed to be an architectural part of the masonry triclinium (l. medius, 4.85 m.; l. imus and l. summus 4.50 m.; table 0.60 x 1.30m.). The entrance pillar matched the extension of the *lectus imus* across from it in length and width and a low masonry pedestal that was in line with the other entrance pillar sharing the same dimensions. The pedestal could have held a lamp or statuette, and the extension of the *lectus summus* would have been used as a table. A second [triclinium](http://vocab.getty.edu/page/aat/300004359) (l. medius, 4.60 m.; l. imus and l. summus 4.00 m.) was unique for the pergola posts were supported by a row of [amphoras](http://vocab.getty.edu/page/aat/300148696) broken off at the top and bottom and buried in the ground along the outside edge of the *lectus summus*, close to the wall of the wine making building. The entrance [triclinium](http://vocab.getty.edu/page/aat/300004359), and perhaps the second one where the wine was made, would have been used to serve those attending games at the amphitheater. Fifty–two bones were found here (see Jashemski, Gardens, 1:216-218 and Table A on p. 217) with evidence that they were the remains of meals. Serving meals would have been a source of additional revenue for the wine makers. Wine would also have been sold at the shop with the [portico](http://vocab.getty.edu/page/aat/300004145) that faced the Via dell'Abbondanza that was part of this property.
 
 
-<!--Plans
+<!-- Plans
 {{< image file="Fig. 23, II.v. 7.34.66.jpg" caption="site overview 1" credit="" alt="large space of site." >}}
 
 {{< image file="Fig. 24, II.v. 8.34.66.jpg" caption="excavation detail 1" credit="" alt="stuff measured the size of the hole." >}}
@@ -102,7 +102,7 @@ The entrance directly across from the amphitheater was designed to be an archite
 
 {{< image file="Fig. 59, II.v. 16.38.70.jpg" caption="excavation work" credit="" alt="people worked on the excavation" >}}
 
-{{< image file="Fig. 60 II.v. 18.3.70.jpg" caption="the excavation" credit="" alt="" >}}-->
+{{< image file="Fig. 60 II.v. 18.3.70.jpg" caption="the excavation" credit="" alt="" >}} -->
 
 ## Keywords
 
@@ -111,7 +111,6 @@ The entrance directly across from the amphitheater was designed to be an archite
 - {{< keyword "triclinia (couches)" >}}
 - {{< keyword "vineyards" >}}
 - {{< keyword "dolia" >}}
-
 
 ## Bibliography
 
@@ -133,7 +132,6 @@ The entrance directly across from the amphitheater was designed to be an archite
 - Maiuri, 1928. *Pompeii (Novara)*, p.43: "scavato parzialmente nel 1755 e poi ricolmato" [worldcat](https://search.worldcat.org/title/2992975)
 
 - Meyer, Frederick G, 1980. *Carbonized Food Plants of Pompeii, Herculaneum, and the Villa at Torre Annunziata,* Economic Botany. 34.4: 401-437 [worldcat](https://search.worldcat.org/title/5656581658)
-
 
 ## Places
 

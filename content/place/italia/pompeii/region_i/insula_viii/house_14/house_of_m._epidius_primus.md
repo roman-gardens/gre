@@ -20,7 +20,6 @@ draft: true
 
 [Region I]({{<relref "../..">}})
 
-
 ## Insula
 
 [Insula VIII]({{<relref "..">}})
@@ -45,7 +44,7 @@ House of M. Epidius Primus (I.viii.14)
 
 This house was excavated in 1941. The *atrium* led directly to a little *viridarium* (a), with a cistern in the southwest corner. A gutter bordered the garden on the south, west and north sides.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
@@ -53,8 +52,7 @@ This house was excavated in 1941. The *atrium* led directly to a little *viridar
 
 {{< image file="../region-i-insula-8.jpg" caption="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach" credit="" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." >}}
 
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 

@@ -32,7 +32,6 @@ Collegium
 - {{< keyword "pillars" >}}
 - {{< keyword "pilasters" >}}
 
-
 ## Garden Description
 
 A building just south of the public park has been identified as the seat of a Collegium because of its internal structure and size. It was previously known as 'The House of the Exedra.' It occupies an entire insula, some 4,000 square meters. In its center is a peristyle, which was surrounded by galleries roofed with cross vaulting supported by brick pillars of rectangular cross-section with abutting pilasters making them cruciform in shape. In the center of the peristyle is a pool notable for its curves. It surrounds a circular planter for a tree or flowers.
@@ -43,11 +42,9 @@ A building just south of the public park has been identified as the seat of a Co
 
 ## Images
 
-
 {{< image file="HIS BAE Ita Collegium plan fig1.jpg" caption="Fig. 1: Plan of the Collegium of the Excedra." credit="" alt="" >}}
 
 {{< image file="HIS BAE italica collegium fig2.jpg" caption="Fig. 2: Photo of the existing site." credit="" alt="" >}}
-
 
 ## Dates
 
@@ -58,7 +55,6 @@ unspecified
 * Antonio Garcia y Bellido,*Colonia aelia augusta Italica*, Instituto Español de Arqueologia, (Madrid 1960). [(worldcat)](https://search.worldcat.org/title/882602957)
 * A. Caballos and P. León,*ITALICA MMCC: Actas de las Jornadas del 2.200 Aniversario de la Fundación de Itálica, Sevilla*, Consejeria de Cultura, (Sevilla 1997).[(worldcat)](https://search.worldcat.org/title/638777432)
 * A. Caballos, J. Marín and J. M. Rodríguez Hielgo, *Itálica Arqueológica*, Universidad de Sevilla, (Sevilla 1999). 75-76 [(worldcat)](https://search.worldcat.org/title/916989580)
-
 
 ## Places
 

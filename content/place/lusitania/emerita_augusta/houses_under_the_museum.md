@@ -20,7 +20,6 @@ draft: true
 
 Despite the prior existence of urban centers like Metellinum, the capital of Lusitania was a new foundation, the Colonia Augusta Emerita (Mérida), which would also serve as the capital of one of the smaller juridical units (conventus) and would be the scene of flourishing activity in the succeeding centuries, its prosperity lasting until the late Roman and Visigothic era.  Subsequently, a series of well-known Roman cities were built in what was then Lusitania but is now partly in Portugal and partly in Spain. As well as the capital, there were Conimbriga, Salmantica, Evora, Olisipo (now Lisbon), Pax Iulia (now Beja), and Metallium Viscascense (Aljustrel), this last recognized as the capital of an important mining area. The series of wealthy villae, such as that of La Cocosa, Milreu or San Cucufate are particularly noteworthy.  Another of the important elements of the Roman era is the series of still visible ways of communication, of which the Vía de la Plata has most remaining, especially in the sections of Baños de Montemayor in Cáceres or the bridges that cross the rivers, such as that of San Pedro de Alcántara, or of Mérida.
 
-
 ## Location
 
 - [Emerita Augusta]({{<relref ".">}})
@@ -35,7 +34,6 @@ At the intersection of the decumanus and cardo were two fora, one for the city's
 The area of Augusta Emerita best known today, because of extensive excavations, is around the so-called Temple of Diana. The temple is actually dedicated to the imperial cult. The structures devoted to public performance - theater, amphitheater, and circus - surrounded the urban center. The theater was begun in 16-15 BC and the amphitheater in 8 BC, during the first decades of colonial presence. Augusta Emerita's necropolis ran around the city's urban perimeter and expanded as the city proper grew.
 
 Because most of evidence from Merida was unearthed in old excavations, the context of many ancient objects is unknown. There is also a lack of analytical data on many of the areas which must originally have been gardened. The classification of the gardens of the Colonia Augusta Emerita is still under analysis. The study by Moreno is a basic survey article and should be understood to be part of all the bibliographies for Merida.
-
 
 ## Bibliography
 
@@ -58,7 +56,6 @@ Prior to building the present Museo Nacional de Arte Romano, excavations were un
 
 Another had a peristyle with an exedra.  This was a small rectangular peristyle (near the stairs leading down to the crypt) with stucco-clad brick columns except in the corners where square pilasters were substituted. In the porticoes formed by these, the walls were painted. Wrapping around the courtyard proper were segments of a brick canal revetted with painted stucco. On its interiors, the canal was revetted with opus signinum and its floor had quarter-circle reinforcement. On the courtyard's east side, off center, a semi-circular exedra led to what was probably the most impressive chamber in the house.
 The remains of another colonnaded court (in the southeast corner of the crypt) consisted of two rubblework walls forming a corner and supporting marble columns of the Tuscan order; the corridor formed by this colonnade was paved with opus signinum.
-
 
 ## Plans
 

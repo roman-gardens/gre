@@ -41,13 +41,13 @@ This large house (1120 m2) at the periphery of the SW quarter was laid out aroun
 A small courtyard garden (XX, 5.60 x 3 m) enclosed on its two sides by a colonnade (XXI) brought light and freshness to five rooms (XXII-XXVI). Three trees grow in it today.
 
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="AFR_Thy_Sd_Wjashemski1.jpg" caption="Fig. 1: Plan of the Sollertianna Domus. (CMT, plans 1-2)" credit="" alt="" >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 
@@ -57,7 +57,6 @@ Early 3rd century CE
 
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 317-319. [(worldcat)](https://search.worldcat.org/title/989088620)
 * Slim, H., Dulière, C., *Corpus des Mosaïques de Tunisie*, *Thysdrus*, *El Jem, Quartier Sud-Ouest*, INA, Tunis, 1996, pp. 1-11, plans 1-2.[(worldcat)](https://search.worldcat.org/title/886543032)
-
 
 ## Places
 

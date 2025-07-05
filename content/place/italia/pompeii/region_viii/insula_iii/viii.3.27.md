@@ -56,7 +56,6 @@ From the street, the fauces led to the entrance to the garden (a) which was encl
 
 Unspecified
 
-
 ## Bibliography
 
 * Fiorelli, *Descrizione di Pompei*, p. 330 [(worldcat)](https://search.worldcat.org/title/252039996)

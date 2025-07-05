@@ -37,13 +37,13 @@ The enclosed farmyard, including the residential area (pars urbana) and the serv
 
 The courtyard was divided into two zones by a terrace(?) wall, and in both zones a garden has been reconstructed (G in Fig. 1). Entering the house from the south, one passed through a large reception room to an apsed triclinium with hypocaust heating. A bath complex lay to the southwest, entered by the portico next to the garden.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 ## Plans
 
 {{< image file="EUR_GS_Hum_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south." credit="Plan adapted from Baatz and Herrmann 1989, fig. 303a." alt="" >}}
 
-<!--## Images-->
+<!-- ## Images -->
 
 ## Dates
 

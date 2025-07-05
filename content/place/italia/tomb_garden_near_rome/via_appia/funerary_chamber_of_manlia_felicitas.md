@@ -24,7 +24,6 @@ Via Appia
 
 An early Roman road (via publica) originating at Rome and terminating at Brundisium, the Via Appia was begun in the fourth century B.C. by the censor Appius Claudius Caecus. The Latin author Statius described the Via Appia as "queen of the long roads".
 
-
 ## Garden
 
 Funerary Chamber of Manlia Felicitas
@@ -41,7 +40,6 @@ In 1937 a French student, Louis Vignon, searching for new catacombs around the t
 
 When Vignon returned to the site thirteen years later, the underground chamber could not be located, but at the edge of the site, near an ancient aedicula fronting the Via Appia, he found a marble funerary inscription in a pile of broken stones evidently recovered from a second subterranean room beneath the aedicula. Underground galleries extending off the subterranean room and from the intersection at the entrance to the tomb chamber seemed to Vignon to join the two structures to each other in a large subterranean complex (Fig. XXX). The inscription (AE 1952, 35)—an epitaph to a freedwoman Manlia Felicitas set up by her fellow freedman and husband of thirty-five years, P. Manlius Epigonus, her daughter Manlia Flora, and her daughter's husband L. Calpurnius Servatus—declares that the "twenty-fourth part" (pars semunciaria) (either of the entire estate or of an acre, about 40 meters square) "in these gardens of the Manlii" (in his hortis Manlianis) entrusted by Manlia Salvilla (evidently the patroness of Epigonus and Felicitas) to Epigonus for him to hand over to Felicitas, Felicitas had wanted to belong to their daughter Flora. It is uncertain whether "these Manlian gardens" refer to a tomb garden proper or to a suburban estate (horti): both are well attested in conjunction with suburban tombs (see vol. 1, 208). Reference to a "twenty-fourth part", the (indirect) involvement of the patroness Salvilla, and the early imperial fashion of styling suburban estates as "gardens" named after their owners (regularly expressed in adjectival form) here favor the latter. Whether the inscription, which in form and formula appears not later than the second century, can be put into any direct relation with the subterranean chamber with arcosoli, a tomb type more characteristic of the fourth century, remains doubtful. But the discovery of both on the same property perhaps suggests a continuous use of the site as a funerary space for two centuries.
 
-
 ## Dates
 
 130CE
@@ -53,7 +51,6 @@ When Vignon returned to the site thirteen years later, the underground chamber c
 - P. Wuilleumier , *Sur la Voie Appienne: Les horti Manliani*, Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres,1951, 34-41; Archaiologike Ephemeris, 1952, 35; Quilici 1977: 39 (horti Manliani) [worldcat](https://search.worldcat.org/title/754279146)
 
 - G.-L. Gregori , *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Bullettino della Commissione Archeologica Comunale di Roma BCom 92 (1987-88) [1989]: 180 n. 35, 185. [worldcat](https://search.worldcat.org/title/886794800)
-
 
 ## Places
 

@@ -30,7 +30,6 @@ There has been little research on the gardens in the Roman settlements in Spain 
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
-
 ## Bibliography
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
@@ -41,28 +40,23 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
-
 ## Location
 
 [Liedena]({{<relref ".">}})
-
 
 ## Location Description
 
 Fraga sits astride the Cinca river about 86 kilometers northwest of Tarragona and 103 kilometers east of Zaragoza.  About 15 kilometers downstream, the Cinca is joined by the Segre and after another 5 kilometers they join the Ebro, which flows into the Mediterranean about 70 kilometers south west of Tarragona.
 
-
 ## Garden
 
 Villa Romana
-
 
 ## Keywords
 
 - {{< keyword "catch basins" >}}
 - {{< keyword "drains" >}}
 - {{< keyword "peristyles" >}}
-
 
 ## Garden Description
 
@@ -78,7 +72,6 @@ Blas Taracena Aguirre, 1949, p.16
 
 The oecus or principal reception room is the room with an apse facing the southwest corner of the peristyle. It is one of the few rooms resting on foundations from the first villa.  Adjacent to its south side is a rectangular area which may have had a garden in the center.  Further south was a fairly large open area.  Possibly it was a garden, but a palestra associated with the nearby baths seems more likely.
 
-
 ## Bibliography
 
 - Blas Taracena Aguirre , *La villa romana de Liédena*. Part1. Excavaciones en Navarra VII (I):  P. V. nº 37, (Pamplona, 1949), pp. 353-382 [(worldcat)](https://search.worldcat.org/title/929353407)
@@ -93,13 +86,11 @@ The oecus or principal reception room is the room with an apse facing the southw
 
 {{< image file="lei_v_romana_fig1.jpg" caption="Plan of Villa Romana. Black lines are from the second villa only, grey lines indicate first villa walls.  In some cases these walls were used in the second villa." credit="Clopper Almon, adapted from Taracena." alt="" >}}
 
-
 ## Dates
 
 1C CE
 
-<!---doesn't have ## Bibliography-->
-
+<!-- -doesn't have ## Bibliography -->
 
 ## Places
 

@@ -71,7 +71,6 @@ Unspecified
 - G. Coulon, J.C. Golvin, *Voyage en Gaule romaine,* Actes sud Errance, Arles-Paris, 2002, p.121-3, restitution p. 122-3. [(worldcat)](https://search.worldcat.org/title/1002913551)
 - Y. Barat and D. Morize, L'archéologie des jardins antiques: le cas de la *pars urbana* de la *villa* de Richebourg (Yvelines) in *Actualité de la Recherche en Histoire et Archéologie agraires, Annales Littéraires de L'Université de Franche-Comté,* 764, Besançon, 2003.  [(worldcat)](https://search.worldcat.org/title/243748592)
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="108778" name="Autricum" >}}

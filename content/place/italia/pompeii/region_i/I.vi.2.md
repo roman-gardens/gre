@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -49,11 +48,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "stairs" >}}
 - {{< keyword "vegetable gardens" >}}
 
-
 ## Garden
 
 House of the Cryptoporticus; Casa Del Crirtoportico; Casa Omerica; House of T. Lucretius Carus.
-
 
 ## Garden Description
 
@@ -61,7 +58,7 @@ A. A passageway from the [atrium](http://vocab.getty.edu/page/aat/300004097) led
 
 B. At the rear of the house, a large enclosed garden had been increased in size by reducing the wings of the [cryptoporticus](http://vocab.getty.edu/page/aat/300004295). The last owner had built a spacious [loggia](http://vocab.getty.edu/page/aat/300004137) (5 x 20 m.) above the north wing of the [cryptoporticus](http://vocab.getty.edu/page/aat/300004295) overlooking the garden. A high wall joined the five [pillars](http://vocab.getty.edu/page/aat/300264605) and the roof supporting pilaster and formed windows into the garden. At the west end of the [loggia](http://vocab.getty.edu/page/aat/300004137) was a masonry triclinium with side couches, each having a fulcrum (foot), (l. medius 4.41m.; l.summus and l. imus 4.68 m.; dia. of table 0.55m.). A large area was left open for tables or dancers, suggesting to Spinoza that this could have been a public gathering place. There were low seats in front of the side couches and extended along the terrace walls that may have been intended for children according to Soprano. A kitchen was located on the north side of the [loggia](http://vocab.getty.edu/page/aat/300004137). Six steps from the southeast corner of the [loggia](http://vocab.getty.edu/page/aat/300004137) led up into the garden which had been raised to the level of the windows in the [cryptoporticus](http://vocab.getty.edu/page/aat/300004295). Della Corte thought that this garden had been used to raise many cabbages and leeks. The remains of eleven victims of the volcanic eruption were found in the garden.
 
-<!--## Maps-->
+<!-- ## Maps -->
 
 <!--
 ## Plans
@@ -70,13 +67,11 @@ B. At the rear of the house, a large enclosed garden had been increased in size 
 
 {{< image file="../region-i-insula-v.png" caption="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, \"*Topografia*,\" pl. 10" credit="" alt="" >}}
 
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 
 Excavated 1911-1929.
-
 
 ## Bibliography
 

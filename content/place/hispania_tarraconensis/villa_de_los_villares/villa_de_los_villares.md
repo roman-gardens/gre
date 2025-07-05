@@ -32,7 +32,6 @@ There has been little research on the gardens in the Roman settlements in Spain 
 
 The roughly triangular province of Tarraconensis, by far the largest of the three provinces of the Iberian Peninsula, stretched across the north side of modern Spain and down the east coast as far as Almeria. On the Atlantic coast, it reached as far south as present Oporto.
 
-
 ## Bibliography
 
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
@@ -43,12 +42,10 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 - M.ª L. Loza Azuaga, *La escultura de fuentes en Hispania: ejemplos de la Bética*, in Actas de la I Reunión sobre escultura romana en Hispania. Mérida, 1993, pp. 97-105. [(worldcat)](https://search.worldcat.org/title/940998520)
 
-
 ## Location
 
 - [Villa de Los Villares]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="188623838" name="Villa de Los Villares" >}}
-
 
 ## Garden
 
@@ -69,7 +66,6 @@ The villa was built in the first third of the 2nd century, destroyed by the Germ
 ## Plans
 
 {{< image file="his_tar_san_villares_fig1.jpg" caption="Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria" credit="Gorges, Planche XLV" alt="" >}}
-
 
 ## Dates
 

@@ -21,7 +21,6 @@ draft: false
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-
 ## Location Description
 
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
@@ -43,7 +42,6 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 Casa Imperiale
 
-
 ## Garden
 
 Two gardens, one with root cavities and the remains of a new [cistern](http://vocab.getty.edu/page/aat/300052558).
@@ -61,7 +59,6 @@ Armando La Porta, Laurentino García y García, Joan McConnell and Halsted B. 
 Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 1986, *Corpus topographicum Pompeianum Pars IIIA, p.40-41* [(worldcat)](https://search.worldcat.org/title/8667821)
 PompeiiinPictures, 2018, *II.1.11 Pompeii. Large garden yard. Linked to II.1.12.* [(PompeiiinPictures)](https://pompeiiinpictures.com/pompeiiinpictures/R2/2%2001%2011.htm)
 PompeiiinPictures, 2018, *II.1.12 Pompeii. Complesso dei Riti magici or Magic Rites Complex or Casa di Biria, Sibilla pompeiana or Officina Magica of Sextilius Pyrricus.* [(PompeiiinPictures)](https://pompeiiinpictures.com/pompeiiinpictures/R2/2%2001%2012.htm)
-
 
 ## Places
 

@@ -21,7 +21,6 @@ draft: true
 <!-- DESCRIPTION -->
 The Italian peninsula extending northward to the Alps as recognized by the Romans.
 
-
 ## Location
 
 - [Pompeii]({{<relref "..">}})
@@ -37,11 +36,9 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 Region V
 
-
 ## Insula
 
 Insula iv
-
 
 ## House
 
@@ -60,19 +57,16 @@ V.iv.c.
 - {{< keyword "trellises" >}}
 - {{< keyword "lararia" >}}
 
-
 ## Garden Description
 
 Wooden steps at the rear of this house excavated in 1902 led up to a *viridarium* (a) confined by a low masonry wall. A cistern had been walled up and the garden was built over the cistern mouth and a paved courtyard. Water from the neighbor's roof (no.13) supplied the cistern. The east and south walls once had garden paintings, and from the entrance the garden could be viewed through a window in the *tablinium*. The painting on the east wall was visible from the entrance and continued not only on the south wall but additionally on the pillar to the northeast. According to the excavator's reports the painting had a lattice fence at the base with a variety of tall, bushy plants and birds throughout. There was a marble basin with a bearded sphinx above, reposing with the profile turned to the left.  At the extreme left of the east wall was a niche that most likely had been a *lararium* (Fig.25, 48.1.61).
-
 
 ## Images
 
 {{< image file="fig_25_v_iv_48_1_61.jpg" caption="Fig.25, 48.1.61: Picture of the east wall of the viridarium." credit="" alt="At the extreme left of the east wall was a niche that most likely had been a lararium." >}}
 
 
-<!--## Images-->
-
+<!-- ## Images -->
 
 ## Dates
 
@@ -89,7 +83,6 @@ Wooden steps at the rear of this house excavated in 1902 led up to a *viridarium
 * Mau, *RM* (1901), pp. 313-314. [(worldcat)](https://search.worldcat.org/title/1189330863)
 * Schefold, *WändP*, p. 83. [(worldcat)](https://search.worldcat.org/title/1100462668)
 * Sogliano, *NSc* (1901), p.256 and fig. 1 (plan). [(worldcat)](https://search.worldcat.org/title/1091982220)
-
 
 ## Places
 

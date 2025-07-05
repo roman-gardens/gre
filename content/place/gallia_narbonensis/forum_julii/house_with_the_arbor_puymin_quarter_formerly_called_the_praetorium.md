@@ -31,11 +31,9 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 [House with the Arbor, Puymin Quarter, Formerly called the Praetorium](#)
 
-
 ## House
 
 House with the Arbor, Puymin Quarter, Formerly called the Praetorium
-
 
 ## Keywords
 
@@ -48,11 +46,9 @@ House with the Arbor, Puymin Quarter, Formerly called the Praetorium
 - {{< keyword "balnea" >}}
 - {{< keyword "colonnades" >}}
 
-
 ## House Description
 
 This house stood southwest of the theater, on the Puymin hill, in the residential northeast quarter of the city.  Unearthed between 1927 and 1929, it covered a surface of about 3000 square meters.  A first stage was built around 40 – 30 B.C., followed by a considerable extension to the northeast in the first century A.D.. First interpreted as an official residence, a *praetorium*, by J. Sautel, it takes its present name from an arbor found in the garden.  The house, organized on at least three levels, was considerably worn down so that interpreting the different phases is not easy.
-
 
 ## Garden Description
 
@@ -62,15 +58,12 @@ In the axis of the garden but a little off to the west is a structure with mason
 
 To the northeast of the house are remains in which it has been proposed to see a bath with a pool surrounded by a 3-by-5 colonnade.  This pool could have also have served as a water reservoir for irrigation of the tree-covered slopes and gardens below the hill of Puymin.
 
-
 ## Plans
-
 
 ## Dates
 
 B.C. 40-30 First Stage
 A.D. 1-100 Considerable extension to the northeast
-
 
 ## Bibliography
 
@@ -79,7 +72,6 @@ A.D. 1-100 Considerable extension to the northeast
 2. Chr.  Goudineau, Y.  de  Kisch, Vaison-la-Romaine, Guide  archéologique  de  France, 1999, 1ère  éd. 1984, P. 74-77; [(worldcat)](https://search.worldcat.org/title/807347615)
 
 3. Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.267-274. [(worldcat)](https://search.worldcat.org/title/905795401)
-
 
 ## Places
 

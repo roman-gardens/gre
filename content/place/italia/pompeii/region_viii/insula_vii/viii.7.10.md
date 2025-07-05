@@ -49,7 +49,6 @@ Behind shop no. 10 and the accompanying living quarters was a garden (a) enclose
 
 {{< image file="fig.23.region_viii.insula_vii.1-15.png" caption="Fig.23, Plan of Region VIII, Insula VII" credit="" alt="" >}}
 
-
 ## Places
 
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}

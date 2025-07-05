@@ -22,7 +22,6 @@ draft: false
 - [Herculaneum]({{<relref "../..">}}) \
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
-
 ## Location Description
 
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
@@ -37,13 +36,11 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 
 B
 
-
 ## Keywords
 
 - {{< keyword "atriums" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "stuccoing" >}}
-
 
 ## Garden Description
 
