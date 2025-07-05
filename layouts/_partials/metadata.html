@@ -15,6 +15,7 @@
 	{{- with .Params.Modified -}}
 		<div>Modified: {{ time.Format "2006-01-02" . }}</div>
 	{{- end -}}
+	<div>.Lastmod: {{ .Lastmod.Format "2006-01-02" }}</div>
 {{- end -}}
 </div>
 
@@ -43,7 +44,7 @@
 	</div>
 {{- end }}
 
-{{- with .Params.editor }}
+{{- with .Params.contributor }}
 	{{ $vals := partial "listify.html" . }}
 	<div>
 		Contributor{{ if gt (len $vals) 1 }}s{{ end }}:

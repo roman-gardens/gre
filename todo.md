@@ -37,16 +37,11 @@
 - [ ] move keywords to below bibliography
 - [ ] id shortcode for people (perseus authors like "Pliny the Elder")
 - [ ] excavation dates -- missing from archetype and some gardens
-- [ ] "contributor" instead of "editor" in front matter
 - [ ] rename ## Places to something like "Linked Places" or "Place IDs" (should people be listed under Keywords or Linked IDs or have their own section?)
 - [ ] backslashes \
 - [ ] search: use lunr to remove stopwords from searches (doing this manually for just a few words now: the of at etc.)
 - [ ] fix or remove empty links -- search for "(#)"
 - [ ] update Leaflet from 1.6 to 1.9.4
-
-
-
-
 - [ ] cleanup double/triple spaces (skip arabia-petragarden!) AFTER we have cleaned up spaces from image filenames
 
 
@@ -105,7 +100,7 @@
         - paste into the "latlon" field in the frontmatter
     - author
         - of the article text
-    - editor
+    - contributor
         - your name goes here!
     - date
         - original publication date (update this when you are ready to publish)
@@ -144,6 +139,7 @@
 - double angle quotes like « Pluton » -- can these be converted to normal " quotes
 - what is green highlighting for???
     - Example: https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/insula_ix/house_5/house_of_the_fruit_orchard/
+- add area editors to province pages?
 
 
 # User forks

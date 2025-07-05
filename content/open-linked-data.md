@@ -1,7 +1,7 @@
 ---
 title: "Open Linked Data"
 date: 2021-04-20
-editor: David Ratzan
+contributor: David Ratzan
 draft: false
 ---
 

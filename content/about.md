@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2021-04-13
-editor: Christian Casey
+contributor: Christian Casey
 draft: false
 ---
 

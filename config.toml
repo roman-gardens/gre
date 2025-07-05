@@ -97,4 +97,4 @@ ignoreLogs = ['warning-goldmark-raw-html']
 	  unsafe = true
 
 [frontmatter]
-  lastmod = ["modified",":fileModTime"]
+  lastmod = ["xmodified",":fileModTime"]

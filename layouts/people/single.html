@@ -29,7 +29,7 @@
             </ul>
         {{ end }}
 
-        {{ $pages := where .Site.Pages ".Params.Editor" $person }}
+        {{ $pages := where .Site.Pages ".Params.Contributor" $person }}
         {{ if $pages }}
             <hr>
             <h2>Contributor to</h2>

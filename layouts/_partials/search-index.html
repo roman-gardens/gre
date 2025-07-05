@@ -22,7 +22,7 @@ window.store = {
 	{{ if .Title }}
 	{{/* add path (province, location) and frontmatter (author, contributor) to fulltext */}}
 	{{ $location := title (replaceRE "[\\W_]+" " " .Path) }}
-	{{ $content := print .Plain $location " Author: " .Params.Author " Editor: " .Params.Editor " " }}
+	{{ $content := print .Plain $location " Author: " .Params.Author " Contributor: " .Params.Contributor " " }}
 "{{ $ri }}": {
 	"title": "{{ .Title }}",
 	"smallcrumbs": smallcrumbs("{{ path.Dir .Path }}"),

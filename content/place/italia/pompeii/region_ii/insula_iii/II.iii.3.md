@@ -5,7 +5,7 @@ type: garden
 title: "II.iii.3 ()"
 latlon: [ 50.940671, 6.959908 ]
 author:
-editor:
+contributor:
 date: 2021-03-06
 modified: 2025-06-29
 draft: true

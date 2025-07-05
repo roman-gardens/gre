@@ -16,7 +16,7 @@
             <th>path</th>
             <th>title</th>
             <th>author</th>
-            <th>editor</th>
+            <th>contributor</th>
             <th>date</th>
             <th>updated</th>
         </tr>
@@ -32,7 +32,7 @@
                     {{ if $draft }}<b>(DRAFT)</b>{{ end }}
                 </td>
                 <td>{{ htmlUnescape (replace $v.Params.Author ", " ",<br>") | safeHTML }}</td>
-                <td>{{ htmlUnescape (replace $v.Params.Editor ", " ",<br>") | safeHTML }}</td>
+                <td>{{ htmlUnescape (replace $v.Params.Contributor ", " ",<br>") | safeHTML }}</td>
                 <td class="date">{{ $v.Date.Format "2006-01-02" }}</td>
                 <td class="date">{{ $v.Lastmod.Format "2006-01-02" }}</td>
             </tr>
@@ -47,7 +47,7 @@
             <th>path</th>
             <th>title</th>
             <th>author</th>
-            <th>editor</th>
+            <th>contributor</th>
             <th>date</th>
             <th>updated</th>
         </tr>
@@ -63,7 +63,7 @@
                     {{ if $draft }}<b>(DRAFT)</b>{{ end }}
                 </td>
                 <td class="nowrap">{{ htmlUnescape (replace $v.Params.Author ", " ",<br>") | safeHTML }}</td>
-                <td class="nowrap">{{ htmlUnescape (replace $v.Params.Editor ", " ",<br>") | safeHTML }}</td>
+                <td class="nowrap">{{ htmlUnescape (replace $v.Params.Contributor ", " ",<br>") | safeHTML }}</td>
                 <td class="nowrap">{{ $v.Date.Format "2006-01-02" }}</td>
                 <td class="nowrap">{{ $v.Lastmod.Format "2006-01-02" }}</td>
             </tr>
