@@ -40,9 +40,6 @@ In the late 1st century, around AD 70, the timber-lined pool in the west was rep
 
 <!--## Maps-->
 
-<!--
--->
-
 ## Plans
 
 {{< image file="EUR_GS_Die_Rv1_carroll.jpg" caption="Fig. 1: Overall plan of the site during the 2nd half of the 1st century and 1st half 2nd century AD." credit="Plan courtesy of Christa Ebnöther." alt="" >}}

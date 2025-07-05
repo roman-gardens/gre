@@ -12,35 +12,43 @@ draft: true
 ---
 
 ## Province
+
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Province Description
+
 <!-- DESCRIPTION -->
 The Italian peninsula extending northward to the Alps as recognized by the Romans.
 
 
 ## Location
+
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Sublocation
+
 Region V
 
 
 ## Insula
+
 Insula iv
 
 
 ## House
+
 House a/11
 
 ## Garden
+
 House of M. Lucretius Fronto (V.iv.a/11)
 
 ## Keywords
@@ -66,12 +74,15 @@ A. Immediately to the south of the rear door to the *tablinium*, excavated in 19
 
 
 ## Dates
+
 Unspecified
 
 ## Excavation Dates
+
 1900CE
 
 ## Bibliography
+
 * Della Corte, *Case*, p. 11. [(worldcat)](https://search.worldcat.org/title/869407232)
 * Jashemski, *Gardens*, vol.II, pp. 116, 396. [(worldcat)](https://search.worldcat.org/title/1029851777)
 * Mau, *RM* (1901), p. 352; PPP, 2:85. [(worldcat)](https://search.worldcat.org/title/1189330863)
@@ -80,6 +91,7 @@ Unspecified
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 

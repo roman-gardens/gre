@@ -40,9 +40,6 @@ Inscriptions of the fifth and fourth centuries B.C. record certain regulations f
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
 

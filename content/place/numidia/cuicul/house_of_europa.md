@@ -63,6 +63,7 @@ Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century
 {{< image file="house_of_europa_plan1.jpg" caption="Fig. 1: Plan of the House of Europa" credit="(Blanchard-Lemée, M., 1975, fig.49)" alt="Plan of the House of Europa." >}}
 
 ## Images
+
 {{< image file="house_of_europa_plant1.jpg" caption="Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)" credit="" alt="View of the peristyle of the house." >}}
 
 {{< image file="house_of_europa_plant.jpg" caption="Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)" credit="" alt="View of planter d." >}}
@@ -81,4 +82,5 @@ Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century
 *  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](https://search.worldcat.org/title/1090653355)
 
 ## Places
+
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}

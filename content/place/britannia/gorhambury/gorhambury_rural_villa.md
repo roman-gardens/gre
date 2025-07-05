@@ -35,6 +35,7 @@ An avenue 20 meters wide led axially from the gate at the eastern end of the inn
 
 <!--
 ## Maps
+
 -->
 
 ## Plans
@@ -43,6 +44,7 @@ An avenue 20 meters wide led axially from the gate at the eastern end of the inn
 
 <!--
 ## Images
+
 -->
 
 ## Dates

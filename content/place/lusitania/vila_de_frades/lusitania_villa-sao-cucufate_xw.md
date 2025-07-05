@@ -26,6 +26,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 - {{< id vocab="Pleiades" id="256422" name="OS. Cucufate" >}}
 
 ## Garden
+
 Villa Sao Cucufate
 
 ## Keywords
@@ -45,9 +46,6 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
 {{< image file="his_lus_villa_sao_cucufate_ph1_fig1.jpg" caption="Fig. 1: Plan of São Cucufate, Phase 1. From Alarcão, Roteiros." credit="" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain." >}}
@@ -58,13 +56,11 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 
 ## Images
 
-<!--
--->
-
 <!--## Dates-->
 
 
 ## Bibliography
+
 - J. G. Gorges, pp. 124 and 477; J. de Alarcão, S. Cucufate. Roteiros da Arqueologia Portuguesa 5. Instituto Portugues do Patrimonio Arquitectónico, 1988. [(worldcat)](https://search.worldcat.org/title/54521562)
 
 ## Places

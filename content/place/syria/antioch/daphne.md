@@ -12,6 +12,7 @@ draft: true
 ---
 
 ## Province Description
+
 In 64 BCE, after his successes in Armenia, Pompey the Great added Syria to the list of annexed eastern provinces of the growing Roman Empire.  The conquest of Syria had not been difficult, because the remnants of the once dominant Seleucid Empire had weakened following the defeats of king Antiochus III at Thermopylae in 191 and Magnesia in Asia shortly after.  Ultimately, the Seleucids could not withstand the powers of the Nabatean kingdom to the south, the Hasmonean kingdom to the west, and the new threats of Roman hegemony.  With the fall of the Seleucids, Rome inherited the majority of Alexander the Great's former conquests, and the Syrian desert would become a stage for Roman emperors to settle civil conflicts and win triumphs.  Smaller Arab settlements sprang up across the region, re-inhabiting Seleucid sites and establishing new ones, and cities such as Palmyra grew in power by taking over the wealthy trade routes of the Nabateans in the second century CE.  The Syrian city of Antioch, formerly Seleucia, would become one of the greatest cities of the Roman empire. Although Macedonian presence in the region introduced western styles in art and architecture before the arrival of the Romans, the cities remained Syrian in culture, population and character.
 
 Covering the substantial central part of the Fertile Crescent, the province of Syria sat in an advantageous position between the mountain ranges of eastern Anatolia, the Mediterranean Sea, and the Arabian deserts, and it served as an area of expansion for the larger kingdoms around it. Important trans-Asian trade routes made Syria a key component in the Roman imperial economy, and large navigable rivers, such as the Euphrates and the Orontes, were exploited to connect the Persian Gulf with northern cities.  The climate, although arid in the inland mountainous areas, was quite conducive to cultivation. River valleys in the mountain chains skirting the coast provided fertile terrain for agriculture, and the Orontes and Euphrates created well-watered plateaus in the steppe and desert regions of the southeast.
@@ -24,12 +25,14 @@ An irrigation system based around the qanat, an underground water channel, was u
 - {{< id vocab="Pleiades" id="658381" name="Antioch" >}}
 
 ## Location Description
+
 Antioch on the Orontes was founded by the Macedonian general Seleucus I as the capital of his Syrian empire, following the breakup of Alexander's empire (ca. 300 BCE).  He selected the site at the edge of the fertile Amuk Plain at the crossroads of important trade routes linking Syria with Palestine, the Mediterranean, and Asia Minor. Antioch was also the capital of the Roman province of Syria, annexed in 64 BCE. In the Augustan period Strabo (16.2.5) compares Antioch favorably to Alexandria in power and size. It was built along the banks of the River Orontes below the craggy heights of Mount Silpios. Because of its advantageous location, Antioch became a cultural, religious, and commercial center in the Roman period. The presence of an imperial residence, as well as buildings for the staging of athletic contests modeled after the Olympic Games, a sanctuary of Apollo, and thermal spa at Daphne, contributed to its renown in the ancient world.
 
 <!--## Sublocation-->
 
 
 ## Garden
+
 Sacred Grove at Daphne
 
 ## Keywords
@@ -46,22 +49,16 @@ The purposeful evocation of a sacred landscape can be seen in the placement of t
 
 ## Maps
 
-<!--
--->
-
 ## Plans
-<!--
--->
 
 ## Images
 
-<!--
--->
-
 ## Dates
+
 Hellenistic
 
 ## Bibliography
+
 - G. Downey, *A History of Antioch in Syria from Seleucus to the Arab Conquest,* Princeton: Princeton University Press, 1961
 - J. Lassus, "La Mosaique de Yakto, " in eds. R. Stillwell, G.W. Elderkin, F.O. Waagé and D.B. Waagé, *Antioch-on-the-Orontes I,* Princeton: Department of Art and Archaeology, 1934, pp. 128-136
 - D. Levi, *Antioch Mosaic Pavements,* Princeton: Princeton University Press, 1947, pp. 326-337, pl. 79-80

@@ -12,6 +12,7 @@ draft: false
 ---
 
 ## Location
+
 - [THUGGA (Dougga) Tunisia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="315223" name="THUGGA (Dougga) Tunisia" >}}
 
@@ -45,9 +46,11 @@ The anonymous sanctuary, called *Dar Lachheb* (184-187 CE), located about fifty 
 {{< image file="the_anonymous_sanctuary.jpg" caption="Fig. 1: Plan of the anonymous sanctuary, Dar Lachheb" credit="(From Aounallah, S., Golvin J.-C. (dir.) 2016, p. 440, fig. 86)" alt="Plan of the anonymous sanctuary, Dar Lachheb" >}}
 
 ## Dates
+
 184-187 CE
 
 ## Bibliography
+
 * Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](https://search.worldcat.org/title/7380877046)
 * Aounallah, S., Golvin, J.-C. (Dir.), Ben Rhomdane, H., Brouquier-Reddé, V., Chehidi, M.A., Ghaki, M., Khanoussi, M., Maurin, L., Saint-Amans, S., *Dougga, Études d'architecture religieuse 2. Les sanctuaires du forum, du centre de l'agglomération et de la Grande rue courbe* (Mémoires, 42), Bordeaux : Ausonius Éditions, 2016, p. 440, fig. 86. [(worldcat)](https://search.worldcat.org/title/957698433)
 *  Brouquier-Reddé, V., Chehidi, M.A., Ghaki M., Khanoussi M., Maurin L., Saint-Amans S., Dougga, Études d'architecture religieuse 2. *Les sanctuaires du forum, du centre de l'agglomération et de la Grande rue courbe* (Mémoires, 42), Bordeaux : Ausonius Éditions, 2016 pp. 393-476, fig. 29-32, 86. [(worldcat)](https://search.worldcat.org/title/949932485)

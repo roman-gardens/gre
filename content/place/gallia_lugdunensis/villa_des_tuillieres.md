@@ -16,6 +16,7 @@ draft: true
 - [SELONGEY (Côte d'Or, France)]({{<relref ".">}})
 
 ## Garden
+
 Villa des Tuillières
 
 ## Keywords
@@ -46,17 +47,16 @@ None Available
 ## Plans
 
 None Available
-<!--
--->
-
 ## Images
 
 None Available
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - J.C. Beal with the collaboration of d'A. et A. Ruellet, La resserre de Selongey (Côte d'Or): une collection d'objets de bois et d'ivoire dans la villa des Tuillières,» *Revue Archéologique de l'Est* xx
 - E. Gauthier, M. Joly, « Vignoble et viticulture dans le centre-est de la Gaule au Ier siècle « .in: F. Favory/A. Vignot (eds.), Actualités de la Recherche en Histoire et Archéologie agraires. Actes du colloque international AGER V, Besançon 2000.
 - *Collection Annales Littéraires* No. 764, Série *Environnement*, sociétés et archéologie 5(2003) :191-208, Besançon;

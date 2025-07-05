@@ -27,6 +27,7 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- ## Sublocation Description -->
 
 ## Garden
+
 Rural Villa
 
 ## Keywords
@@ -51,19 +52,15 @@ None Available
 ## Plans
 
 None Available
-<!--
--->
-
 ## Images
 
 None Available
-<!--
--->
-
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - P. Steiner, *Die römische Villa von Nennig*, Saarbrücken, 1955. [(worldcat)](https://search.worldcat.org/title/1073267042)
 - H. Mylius, "Die Rekonstruktion der römischen Villen von Nennig und Fliessem," *Bonner Jahrbuch* 129, 1924:110-120, fig. 1, pls. 4-5. [(worldcat)](https://search.worldcat.org/title/1075378207)
 

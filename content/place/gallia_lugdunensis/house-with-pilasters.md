@@ -16,6 +16,7 @@ draft: true
 - [LUGDUNUM (Lyon, France)]({{<relref ".">}})
 
 ## Garden
+
 House with Pilasters (Clos du Verbe Incarné)
 
 ## Keywords
@@ -33,18 +34,18 @@ The house was originally constructed of adobe on a floor and gutter of granite m
 LUG 1. 1. House with Pilasters. On the rectangle surrounding the word "Garden?" in the upper left corner is the "House with Pilasters." Source, Maison 1996, p.134.
 
 ## Plans
-{{< image file="house_with_pilasters.jpg" caption="LUG 1. 1. House with Pilasters. On the rectangle surrounding the word \"Garden?\" in the upper left corner is the \"House with Pilasters.\"" credit="Maison 1996, p.134." alt="This is a plan of the House of the Pilasters. The top of the image shows a section running through the house and atriums. The bottom plan depicts where the house stood amongst a cluster of excavated building bases." >}}
-<!--
--->
 
+{{< image file="house_with_pilasters.jpg" caption="LUG 1. 1. House with Pilasters. On the rectangle surrounding the word \"Garden?\" in the upper left corner is the \"House with Pilasters.\"" credit="Maison 1996, p.134." alt="This is a plan of the House of the Pilasters. The top of the image shows a section running through the house and atriums. The bottom plan depicts where the house stood amongst a cluster of excavated building bases." >}}
 ## Images
 
 None Available
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - E. Delaval, "Un îlot d'habitations romaines à Lyon  (Ier  siècle  av.-IIIe siècle ap.J.C.),Clos du Verbe Incarné,colline de Fourvière," *Actes du Ier Congrès Méditerranéen d'ethnologie historique,* Lisbonne 4-8 nov. 1991,in *Mediterraneo,* 4, 1994, p.203-229.
 - E. Delaval,"Espace urbain et habitat privé à Lyon,un îlot de la ville haute au cœur d'une opération d'urbanisme au milieu du Ier siècle," in Maison 1996, t.I,p. 128-37, planp.134.
 

@@ -12,6 +12,7 @@ draft: true
 ---
 
 ## Province Description
+
 In 64 BCE, after his successes in Armenia, Pompey the Great added Syria to the list of annexed eastern provinces of the growing Roman Empire.  The conquest of Syria had not been difficult, because the remnants of the once dominant Seleucid Empire had weakened following the defeats of king Antiochus III at Thermopylae in 191 and Magnesia in Asia shortly after.  Ultimately, the Seleucids could not withstand the powers of the Nabatean kingdom to the south, the Hasmonean kingdom to the west, and the new threats of Roman hegemony.  With the fall of the Seleucids, Rome inherited the majority of Alexander the Great's former conquests, and the Syrian desert would become a stage for Roman emperors to settle civil conflicts and win triumphs.  Smaller Arab settlements sprang up across the region, re-inhabiting Seleucid sites and establishing new ones, and cities such as Palmyra grew in power by taking over the wealthy trade routes of the Nabateans in the second century CE.  The Syrian city of Antioch, formerly Seleucia, would become one of the greatest cities of the Roman empire. Although Macedonian presence in the region introduced western styles in art and architecture before the arrival of the Romans, the cities remained Syrian in culture, population and character.
 
 Covering the substantial central part of the Fertile Crescent, the province of Syria sat in an advantageous position between the mountain ranges of eastern Anatolia, the Mediterranean Sea, and the Arabian deserts, and it served as an area of expansion for the larger kingdoms around it. Important trans-Asian trade routes made Syria a key component in the Roman imperial economy, and large navigable rivers, such as the Euphrates and the Orontes, were exploited to connect the Persian Gulf with northern cities.  The climate, although arid in the inland mountainous areas, was quite conducive to cultivation. River valleys in the mountain chains skirting the coast provided fertile terrain for agriculture, and the Orontes and Euphrates created well-watered plateaus in the steppe and desert regions of the southeast.
@@ -24,15 +25,18 @@ An irrigation system based around the qanat, an underground water channel, was u
 - {{< id vocab="Pleiades" id="658405" name="Batnae/Markopolis" >}}
 
 ## Location Description
+
 The broad plain of Batanaea lay to the west of the uplands, known as Auranitis, in the Hauran, a basalt region that straddled the boundary between ancient Syria and Arabia.  Batanaea was not a naturally well-watered area, but it did develop during the Roman period into a successful grain-producing settlement via a careful management of rainwater.  The agriculture of the area, which included small enclosed gardens and plantations surrounding villages, depended on precipitation; a large cistern, or birket, commonly found throughout the Hauran and Batanaea, likely served the village and not irrigation purposes.  Although the village was perhaps the most ubiquitous settlement type, there did exist some imperial and private estates, potentially with their own gardens.
 
 <!--## Sublocation-->
 
 
 ## Garden
+
 Imperial Residence at Batnae
 
 ## Keywords
+
 <!--
 literary description only
 -->
@@ -43,22 +47,16 @@ The Emperor Julian described the imperial residence in Batnae in Syria in one of
 
 ## Maps
 
-<!--
--->
-
 ## Plans
-<!--
--->
 
 ## Images
 
-<!--
--->
-
 ## Dates
+
 fourth century CE
 
 ## Bibliography
+
 - K. Butcher, *Roman Syria and the Near East,* Los Angeles: Getty Publications, 2003.
 
 ## Places

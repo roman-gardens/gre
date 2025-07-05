@@ -17,12 +17,14 @@ draft: true
 - {{< id vocab="Pleiades" id="638753" name="Aphrodisias " >}}
 
 ## Location Description
+
 Aphrodisias (*Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis*), in Caria, was home to the cult image of Aphrodite of Aphrodisias. Located about 100 miles from the port at Smyrna, the area featured important marble quarries of the Hellenistic and Roman era. An abundance of sculpture has been found during excavations, and inscriptions indicate that the art landscape as well as architectural settings.
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
 <!-- invalid id
 ## Sublocation
+
 - {{< id vocab="Pleiades" id="827863015" name="Place of the Palms" >}}
 -->
 
@@ -33,6 +35,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 ## Garden
+
 Place of the Palms (South Agora)
 
 ## Keywords
@@ -49,14 +52,9 @@ Place of the Palms (South Agora)
 <!--
 ## Maps
 
-<!--
--->
-
 ## Plans
-{{< image file="South agora plan.jpg" caption="Plan of the South Agora, also called as the Place of Palms at Aphrodisias, courtesy-Mica and Ahmet Ertegün South Agora Pool Project" credit="" alt="The South Agora plan approximately 215 by 70 metres, courtesy- Mica and Ahmet Ertegün South Agora Pool Project" >}}
 
-<!--
--->
+{{< image file="South agora plan.jpg" caption="Plan of the South Agora, also called as the Place of Palms at Aphrodisias, courtesy-Mica and Ahmet Ertegün South Agora Pool Project" credit="" alt="The South Agora plan approximately 215 by 70 metres, courtesy- Mica and Ahmet Ertegün South Agora Pool Project" >}}
 
 ## Images
 
@@ -66,9 +64,11 @@ Place of the Palms (South Agora)
 
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - T. Reinach, "Inscriptions d'Aphrodisias" REG 19 (1906), n. 15, p. 107 [(worldcat)](https://search.worldcat.org/title/504802954)
 - Charlotte Roueché, Joyce Maire Reynolds, *Aphrodisias in late antiquity:  the late Roman and Byzantine Inscriptions including texts from the excavations conducted at Aphrodisias by Kenan T. Erim*. London:  Society for the Promotion of Roman Studies, 1989, Pp. 70, 71, 78. [(worldcat)](https://search.worldcat.org/title/4669803971)
 - Wilson, A. I. (2015). Water, nymphs and a palm grove: monumental water display at Aphrodisias (R. R. R. Smith, J. Lenaghan, A. Sokolicek, & K. Welch, Eds.), Aphrodisias Papers 5: Excavation and Research at Aphrodisias, 2006-2012, Portsmouth, Journal of Roman Archaeology. Supplement 103, 100-135. [(worldcat)](https://search.worldcat.org/title/6568599066)

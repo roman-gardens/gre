@@ -25,15 +25,19 @@ draft: true
 
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 V
 
 ## House
+
 5
 
 ## Garden
+
 Casa del Mobilio Carbonizzato
 
 ## Keywords
@@ -52,6 +56,7 @@ Visible from the *fauces*, this little courtyard (a) had an elaborate *aedicula*
 <!-- the following images are not in gre-images...insula_v -->
 
 ## Plans
+
 {{< image file="h_3_3-17.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 {{< image file="h_3_1-2_18-19.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
@@ -64,6 +69,7 @@ Visible from the *fauces*, this little courtyard (a) had an elaborate *aedicula*
 {{< image file="herc.iii.19-18.1-2-17.3.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
@@ -77,6 +83,7 @@ unspecified
 1932-1933
 
 ## Bibliography
+
 - Jashemski, Gardens, vol.II, p. 370-371
 - Maiuri, Herculaneum,p. 44
 - Maiuri, Ercolano, pp.260-261 and fig. 203 (plan) on p. 256.

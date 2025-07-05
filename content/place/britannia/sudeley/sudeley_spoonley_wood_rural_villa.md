@@ -33,6 +33,7 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 <!--
 ## Maps
+
 -->
 
 ## Plans
@@ -42,6 +43,7 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 
 <!--
 ## Images
+
 -->
 
 ## Dates

@@ -12,20 +12,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region I]({{<relref ".">}})
 ## Insula
+
 [Insula VI]({{<relref "#">}})
 
 ## Keywords
@@ -41,6 +46,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ## Garden
+
 House of L. Ceius Secundus; House of the Ceii; of Queen Elena; of Fabia and Tyrannus.
 
 
@@ -71,6 +77,7 @@ This small garden was located at the rear of the house and featured a [portico](
 {{< image file="Fig_29_I.vi.15_45.18.64.jpg" caption="Fig. 8: I. vi. 45.18.64, S.A. Jashemski" credit="" alt="Fig. 8: I. vi. 45.18.64, S.A. Jashemski." >}}-->
 
 ## Dates
+
 Excavated 1913.
 
 ## Bibliography

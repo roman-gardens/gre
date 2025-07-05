@@ -13,21 +13,26 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region VIII]({{<relref "..">}})
 
 ## Insula
+
 [Insula II]({{<relref ".">}})
 
 ## Keywords
@@ -43,18 +48,22 @@ A. The volcanic ledge that this peristyle garden (a) was built on dictated an ir
 B. Built on the volcanic ledge, only a triangular segment of this terrace garden (a) with a portico on the east and north survived. From here the view of the mountains and the Bay could be enjoyed looking over a planted area that was slightly lower than the portico. There was a large light filled room (c) between the two peristyles of this house and terraces on the two lower levels that well could have had potted plants.
 
 ## Plans
+
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_14_16_a.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 1-20" credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
 - {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
 
 ##  Excavation Dates
+
 Unspecified
 
 ## Bibliography
+
 * Döhl,*Plastik aus Pompeji*, p. 42 [(worldcat)](https://search.worldcat.org/title/52662796)
 * Jashemski, *Gardens*, 1:110 and fig. 178 on p. 109 and no. 94 on p. 348 [(worldcat)](https://search.worldcat.org/title/1047945215)
 * Jashemski, *Gardens*, vol. II, pp. 205-206, 364-365 [(worldcat)](https://search.worldcat.org/title/1113367431)

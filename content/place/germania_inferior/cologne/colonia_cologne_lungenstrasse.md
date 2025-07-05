@@ -17,8 +17,10 @@ draft: true
 - {{< id vocab="Pleiades" id="108751" name="Cologne" >}}
 
 ## Location Description
+
 This large town on the west bank of the Rhine river was the *civitas* capital of the [Ubii](link) in the first half of the 1st century A.D. It was granted the status of colonia by [Claudius](link) in 50 and became the provincial capital in 85.
 ## Garden
+
 Urban house on Lungenstrasse (Colonia Claudia Ara Agrippinensium)
 
 ## Keywords
@@ -34,18 +36,14 @@ In the leveled remains of the 1st century house were fragments of painted wall p
 
 ## Maps
 
-<!--
--->
-
 <!--## Plans-->
 
-<!--
--->
-
 ## Images
+
 {{< image file="cologne_lungenstrasse_image1_EUR_GI_ColClaAA_HL_carroll.jpg" caption="Fragments of garden paintings from the peristyle courtyard house on Lungengasse (Colonia Claudia Ara Agrippinensium)." credit="Photo courtesy of M. Carroll." alt="Fragments of garden paintings from the peristyle courtyard house on Lungengasse at Colonia Claudia Ara Agrippinensium (Cologne); Photo courtesy of M. Carroll." >}}
 
 ## Dates
+
 mid-first to mid-second century CE
 
 ## Bibliography

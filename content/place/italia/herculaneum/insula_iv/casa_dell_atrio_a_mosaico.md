@@ -25,15 +25,19 @@ draft: true
 
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 IV
 
 ## House
+
 1-2
 
 ## Garden
+
 Casa dell'Atrio a Mosaico
 
 ## Keywords
@@ -49,12 +53,14 @@ A windowed *portico* surrounded this garden (a) on the north, south and west. Th
 <!--## Maps-->
 
 ## Plans
+
 {{< image file="H_4_1-2.jpg" caption="Plan of Casa dell'Atrio a Mosaico" credit="" alt="" >}}
 
 
 <!--## Images-->
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 

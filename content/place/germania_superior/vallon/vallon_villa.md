@@ -70,9 +70,6 @@ After the disappearance of the Antique site, the land continues to be occupied d
 
 <!--## Plans-->
 
-<!--
--->
-
 ## Images
 
 {{< image file="EUR_GS_Val_villa2_carroll.jpg" caption="Fig. 3 : pine wood conduits preserved in one of the channels. Photo Fribourg State Archaeological Service." credit="" alt="" >}}

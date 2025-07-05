@@ -12,13 +12,16 @@ draft: true
 ---
 
 ## Location
+
 - {{< id vocab="Pleiades" id="356966898" name="Via Appia" >}}
 - {{< id vocab="Pleiades" id="537932155" name="Tomb Garden of Claudia Semne" >}}
 
 ## Sublocation
+
 Via Appia
 
 ## Sublocation Description
+
 An early Roman road (via publica) originating at Rome and terminating at Brundisium, the Via Appia was begun in the fourth century B.C. by the censor Appius Claudius Caecus. The Latin author Statius described the Via Appia as "queen of the long roads".
 
 
@@ -41,9 +44,11 @@ Four inscriptions unearthed in 1792 between the second and third mile of the Via
 
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - Bignamini, Ilaria, and Amanda Claridge， *The Tomb of Claudia Semne and Excavations in Eighteenth-Century Rome.* Papers of the British School at Rome 66 (1998): 215-44. Accessed December 1, 2020. [link](https://www.jstor.org/stable/40310981)
 
 - G.-L. Gregori , *SHorti sepulchrales e cepotaphia nelle iscrizioni urbane*, Bullettino della Commissione Archeologica Comunale di Roma" [worldcat](https://search.worldcat.org/title/886794800)

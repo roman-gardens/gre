@@ -12,6 +12,7 @@ draft: false
 ---
 
 ## Location
+
 - [Tyrus]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="697757" name="Tyrus" >}}
 
@@ -19,6 +20,7 @@ The Hellenistic/Roman settlement of Tyrus was located in Wadi Seer in the highla
 
 
 ## Garden
+
 Palace of Hyrcanus the Tobiad
 
 ## Keywords
@@ -43,15 +45,18 @@ The second terrace is largely unexplored but remains of a building have been not
 Below the dam, the land drops away dramatically in a series of agricultural terraces leading to a large valley and the Jordan Valley beyond.  The complex was unfinished at the time of Hyrcanus' death in 169-68 BCE, and the complex eventually came into the properties of [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great).
 
 ## Maps
+
 {{< image file="1_arabia_petraea_map.jpg" caption="Fig. 1: Map showing the location of ancient Tyrus in Arabia Petraea. Map by L.-A. Bedal, based on <a href=\"https://commons.wikimedia.org/w/index.php?curid=26047529\">Andrein, with the assistance of EraNavigator</a>" credit="" alt="Map of Petra location" >}}
 
 ## Plans
+
 <!-- {{< image file="FILENAME" caption="" credit="" alt="" >}} -->
 <!--
 Waiting for plan from K. Gleason
 -->
 
 ## Images
+
 <!-- {{< image file="FILENAME" caption="" credit="" alt="" >}} -->
 <!--
 Waiting for columbarium photo from K. Gleason
@@ -64,13 +69,12 @@ Waiting for columbarium photo from K. Gleason
 {{< image file="4_arabia_tyrus_dam.jpg" caption="Fig. 4: View of the earthen dam constructed to create an artificial lake around Lion Pavilion. Josephus describes landscaped terrace gardens on the surrounding hillsides." credit="Photograph by L.-A. Bedal." alt="View of the dam and Lion Pavilion" >}}
 
 {{< image file="5_arabia_tyrus_reflecting_pool.jpg" caption="Fig. 5: Model of the Lion Pavilion and reflecting pool. Permission of E. Netzer." credit="" alt="Model of pavilion and pool" >}}
-<!--
--->
-
 ## Dates
+
 2nd century BCE - 1st century CE (Hellenistic-Early Roman period)
 
 ## Bibliography
+
 - Lapp, N. 1993. "ʻIraq al-Amir," In *The New Encyclopedia of Archaeological Excavations in the Holy Land* IV, edited by E. Stern, *et al*, 1254-1257, Jerusalem. [(worldcat)](https://search.worldcat.org/title/850884350)
 
 - Lapp, P. W., 1963. "The second and third campaigns at Araq-el-Emir," *Bulletin of the American Schools of Oriental Research* 171: 8-39.(http://www.jstor.org/stable/1355604)
@@ -85,5 +89,6 @@ Waiting for columbarium photo from K. Gleason
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="947227732" name="Qasr al-Abd at Tyrus" >}}
 - {{< id vocab="TGN" id="5003214" name="Araq El-Emir (inhabited place)" >}}

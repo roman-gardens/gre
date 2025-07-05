@@ -24,14 +24,18 @@ draft: false
 
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 
 ## Insula
+
 [Insula Orientalis I]({{<relref "..">}})
 ## House
+
 [House 1]({{<relref ".">}})
 ## Garden
+
 Casa della Gemma (A)
 
 
@@ -48,20 +52,25 @@ A. This garden (a) is built partially into the edge of the hill and partially on
 
 
 ## Plans
+
 {{< image file="h_orientalis_1_1_3_a.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="" >}}
 {{< image file="herculaneum_i.1_a.jpg" caption="Herculaneum - insula orientalis I. 1-3" credit="" alt="" >}}
 ## Images
+
 {{< image file="herc.i.1_7.12.78.jpg" caption="Herculaneum - insula orientalis I. 1-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="herc._i.1_17.11.78.jpg" caption="Herculaneum - insula orientalis I. 1-3 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 * Maiuri, *Herculaneum*, p.65 [(worldcat)](https://search.worldcat.org/title/1107784297)
 * Maiuri, *Ercolano*, p. 341 and fig. 266 (plan) on p. 337 [(worldcat)](https://search.worldcat.org/title/490581395)
 * Gibbs, p. 295, no. 3074G

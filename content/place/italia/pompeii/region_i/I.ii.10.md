@@ -12,20 +12,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region I]({{<relref ".">}})
 ## Insula
+
 [Insula II]({{<relref "#">}})
 
 ## Keywords
@@ -38,6 +43,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "triclinia (rooms)" >}}
 
 ## Garden
+
 Garden at the rear of the House of L. Vousius Faustus and M. Volusius Faustus.
 
 ## Garden Description
@@ -60,9 +66,11 @@ Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 11
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="222138654" name="Regio I, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
+
 Excavated 1873. Bombed in 1943.
 

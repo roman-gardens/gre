@@ -13,20 +13,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region II]({{<relref "..">}})
 ## Insula
+
 [Insula VIII]({{<relref ".">}})
 
 ## Keywords
@@ -47,9 +52,11 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 
 
 <!--## Plans
+
 {{< image file="../../fig._62,_plan_of_region_ii,_insula_viii.png" caption="Fig. 62, Plan of Region II, insula viii" credit="" alt="" >}}
 
 ## Images
+
 {{< image file="../../fig._63,_ii.viii.6_17.7.73.jpg" caption="Fig.63, 17.7.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="../../fig._64,_ii.viii.6_8.33.73.jpg" caption="Fig. 64, 8.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="../../fig._65,_ii.viii.6_21a.13.73.jpg" caption="Fig. 65, 21A.13.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 65, 21A.13.73  (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
@@ -66,13 +73,16 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 {{< image file="../../fig._74,_ii.viii.6_11.20.74.jpg" caption="Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}-->
 
 ## Places
+
 - {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
+
 1953-1954, 1971-1972.
 
 ## Bibliography
+
 * Jashemski, W. 1979. *The Garden of Hercules at Pompeii (II.viii.6): The Discovery of a Commercial Flower Garden*, American Journal of Archaeology, 83 [(worldcat)](https://search.worldcat.org/title/5548781112)
 * Jashemski, W. 1979. *Gardens of Pompeii*, vol.I, pp.279-288 and figs. 421-435 [(worldcat)](https://search.worldcat.org/title/884024123)
 * Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, pp.94-95 [(worldcat)](https://search.worldcat.org/title/921816405)

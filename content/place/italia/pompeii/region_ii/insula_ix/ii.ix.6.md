@@ -13,20 +13,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region II]({{<relref "..">}})
 ## Insula
+
 [Insula IX]({{<relref ".">}})
 
 ## Keywords
@@ -50,22 +55,27 @@ B. This vineyard section of the property was excavated in 1984 by Dr. De Caro. A
 
 
 <!--## Plans
+
 {{< image file="../../fig._75,_plan_of_region_ii,_insula_ix.png" caption="Fig. 75, Plan of Region II, insula ix" credit="" alt="" >}}
 
 ## Images
+
 {{< image file="../../fig._78,_ii.ix.6_12.8.71.jpg" caption="Fig. 78, 12.8.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="../../fig._79,_ii.ix.6_12.17.71.jpg" caption="Fig 79, 12.17.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 79, 12.17.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 {{< image file="../../fig._80,_ii.ix.6_12.25.71.jpg" caption="Fig. 80, 12.25.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 -->
 
 ## Places
+
 - {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
+
 Eastern part first excavated 1939 and then 1954 to 1955.
 
 ## Bibliography
+
 * Jashemski, W. 1979. *The Gardens of Pompeii*, vol.I, pp.176-177 and fig. 261 on p.176 [(worldcat)](https://search.worldcat.org/title/884024123)
 * Jashemski, W. 1993. *The Gardens of Pompeii*, vol.II, pp.97-98, 331-333 [(worldcat)](https://search.worldcat.org/title/921816405)
 * Maiuri, A. *Pompeii*, p.84: "triclinium flanked by two mosaic polychrome water lilies" (sic) [(worldcat)](https://search.worldcat.org/title/470375462)

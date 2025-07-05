@@ -36,17 +36,16 @@ An inscribed marble plaque found in the early 1930s covering a drain near Ponte 
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
 ## Images
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - J. M. C. Toynbee, *Death and Burial in the Roman World*, Print book : English : Hopkins pb. ed., 96 and n. 312. [worldcat](https://search.worldcat.org/title/833003812)
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian, BCom 92 (1987-88) [1989] 180 n. 37. [worldcat](https://search.worldcat.org/title/886794800)
 

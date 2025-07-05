@@ -24,13 +24,17 @@ draft: false
 
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 [Insula Orientalis I]({{<relref "..">}})
 ## House
+
 [House 2-3]({{<relref ".">}})
 ## Garden
+
 C
 
 ## Keywords
@@ -42,17 +46,21 @@ C
 C. There are five rooms south of the peristyle and on a lower level beyond them is another garden (c).
 
 ## Plans
+
 {{< image file="herculaneum_or.i_c.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="" >}}
 
 {{< image file="h_orientalis_1_1-3-c.jpg" caption="Herculaneum - insula orientalis I. 1-3-c" credit="" alt="" >}}
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 * Maiuri, *Ercolano*, p. 353 [(worldcat)](https://search.worldcat.org/title/490581395)

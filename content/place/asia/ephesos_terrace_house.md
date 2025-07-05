@@ -20,6 +20,7 @@ draft: true
 Remains of gardens have yet to be discovered in this city, but an appreciation for garden culture is seen in the Terrace Houses, dating to the second and third centuries A.D., where wall paintings not only depict gardens, but use garden images to create the illustionistic experience of being in the space of garden.
 
 ## House
+
 Terrace House 2
 
 <!--## Sublocation-->
@@ -40,6 +41,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 ## House Description
+
 The most striking remains are in Terrace House 2, in Room 20 (Residence 4), excavated by H. Vetters between 1967-1983.  Here, in a space originally designed as a courtyard, the walls are decorated with an elaborate garden scene. Much of the painting is covered by a later painting of marble panels, but on the north and west walls the garden scene has been partially revealed (Figs. 1 and 2).  The viewer within the room looks out past a real marble dado on top of which is an illusionistic marble fence with an unusual egg and dart design along the top.  Beyond is a garden scene, similar to those seen in Pompeii or the famous garden scene of Livia at Prima Porta. The scene is filled with luxuriant foliage, out of which apple trees rise up against the blue sky bearing apples or quinces.  A bird flies over a young juniper or cypress. The illusion of the garden continues without a break around the corners.  It allows the viewers to feel present in a garden, while knowing they are in a room looking out at it. The later painting completely destroys both the illusion and any recollection that the space had formerly been an open courtyard.
 
 In the central peristyle of Residence 2 of Terrace House 2, Vetters uncovered a late Imperial mosaic of Dionysius and Ariadne in a niche. The peristyle itself is a paved courtyard, but the mosaic offers the viewer a rich view of a paradisiacal vineyard.  A lunette features a mosaic of two peacocks holding a garland over a basket or urn of grapes and fruits, with white geese to each side standing on a green lawn with roses and lilies (Fig. 3). The ceiling of the niche features Dionysias and Ariadne in a central medallion set into a panel of blue, against which is arrayed a vine laden with grapes and doves (Fig. 4).  In the upper corner, the vine emerges from the ground, and along the base of the wall, a winged *putto* leads two harnessed leopards or panthers.  The opposite side is not preserved.
@@ -53,6 +55,7 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 -->
 
 ## Plans
+
 {{< image file="Ephesos Plan.jpg" caption="Plan of Ephesos terrace house 2 with courtyard in the middle and rooms surrounding it." credit="Photo by N. Blanc" alt="" >}}
 
 
@@ -69,9 +72,11 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 
 
 ## Dates
+
 1st-3rd c. CE
 
 ## Bibliography
+
 - *Forschungen in Ephesos* Vol. VIII/1, Figs. 207-219 [(worldcat)](https://search.worldcat.org/title/6928546)
 - *Forschungen in Ephesos* Vol. VIII/2 Figs. 109-130 [(worldcat)](https://search.worldcat.org/title/6928546)
 - W. Jobst, *Romische Mosaiken aus Ephesos I:  Die Hanghauser des Embolos*,Vienna, 1977 [(worldcat)](https://search.worldcat.org/title/929054298)

@@ -12,6 +12,7 @@ draft: false
 ---
 
 ## Dates
+
 2nd-1st c. BCE
 
 ## Garden Description
@@ -33,11 +34,13 @@ Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora
 <!-- ## Maps -->
 
 ## Plans
+
 {{< image file="truemper1.png" caption="Fig. 1: Agora of the Italians, reconstructed plan of the original building (first phase)." credit="Drawing by M. Trümper." alt="" >}}
 
 {{< image file="truemper2.png" caption="Fig. 2: Agora of the Italians, reconstructed plan." credit="Drawing by M. Trümper after Ét. Lapalus 1939, Fig. 2." alt="" >}}
 
 ## Images
+
 {{< image file="truemper3.jpg" caption="Fig. 3: Agora of the Italians, photo from the southwest." credit="Courtesy of M. Trümper." alt="" >}}
 
 {{< image file="truemper4.jpg" caption="Fig. 4:  Agora of the Italians, photo from the southeast." credit="Courtesy of M. Trümper." alt="" >}}

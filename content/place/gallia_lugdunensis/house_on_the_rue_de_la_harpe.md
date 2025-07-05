@@ -12,6 +12,7 @@ draft: true
 ---
 
 ## Garden
+
 House on the Place des Halles (La maison des Halles)
 
 ## Keywords
@@ -30,18 +31,18 @@ Excavations of a 1400 square meter site in 1989 at 45 rue de la Harpe partially 
 None Available
 
 ## Plans
-{{< image file="rue_de_la_harpe.jpg" caption="Reconstruction of the four house spaces that make up House on the Rue de la Harpe." credit="" alt="Reconstructed axonometric plan of the Domus of the Rue de la Harpe. It shows rooms and bits of the garden space." >}}
-<!--
--->
 
+{{< image file="rue_de_la_harpe.jpg" caption="Reconstruction of the four house spaces that make up House on the Rue de la Harpe." credit="" alt="Reconstructed axonometric plan of the Domus of the Rue de la Harpe. It shows rooms and bits of the garden space." >}}
 ## Images
 
 None Available
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - D. CLIQUET, L'Eure, 27, CAG p.136-137, restitution  p.136. [(worldcat)](https://search.worldcat.org/title/715608474)
 
 

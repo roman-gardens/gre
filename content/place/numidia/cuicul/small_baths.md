@@ -55,6 +55,7 @@ The garden A mentioned as an open area was excavated in 1930-1931 and in 1944 (P
 {{< image file="plan_of_small_baths.jpg" caption="Fig. 1: Plan of the Small Baths" credit="(Blanchard-Lemée, M., 1998, fig. 6)" alt="Plan of the Small Baths" >}}
 
 ## Images
+
 {{< image file="house_of_bacchus_plan_photo2.jpg" caption="Fig. 2: Southern side of the rectangular pool" credit="(Février, P.-A. – CCJ 62881)" alt="Southern side of the rectangular pool" >}}
 
 {{< image file="small_baths_rectangular_pool.jpg" caption="Fig. 3: Drawing of reconstruction of the rectangular pool (Kahwagi-Janho, H.)" credit="" alt="Drawing of reconstruction of the rectangular pool" >}}
@@ -76,4 +77,5 @@ Early 3rd century CE
 * Malek, A.-A., "Le jardin au fil de l'eau : mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l'époque romaine*, eds, Brouquier-Reddé, V. et  Hurlet, Bordeaux, F., Ausonius, 2018, pp. 248-249. [(worldcat)](https://search.worldcat.org/title/1078217356)
 
 ## Places
+
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}

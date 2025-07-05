@@ -12,35 +12,43 @@ draft: true
 ---
 
 ## Province
+
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Province Description
+
 <!-- DESCRIPTION -->
 The Italian peninsula extending northward to the Alps as recognized by the Romans.
 
 
 ## Location
+
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Sublocation
+
 Region V
 
 
 ## Insula
+
 Insula iv
 
 
 ## House
+
 House 13
 
 ## Garden
+
 Casa Delle Origini di Roma; House of M. Fabius Secundus (V.iv.13.)
 
 ## Keywords
@@ -66,12 +74,15 @@ This house with an unusual design had a garden (a) in the rear southwest corner 
 
 
 ## Dates
+
 Unspecified
 
 ## Excavation Dates
+
 Unspecified
 
 ## Bibliography
+
 * Boyce, p. 41, no. 126 and pl. 11.2. [(worldcat)](https://search.worldcat.org/title/491367250)
 * Döhl, p. 14; (Döhl, Plastik aus Pompeji)
 * Jashemski, *Gardens*, vol.II, p. 116. [(worldcat)](https://search.worldcat.org/title/1029851777)
@@ -80,6 +91,7 @@ Unspecified
 * Thédenat, p. 88. [(worldcat)](https://search.worldcat.org/title/37336723)
 
 ## Places
+
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 

@@ -13,21 +13,26 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region II]({{<relref "..">}})
 
 ## Insula
+
 [Insula VII]({{<relref ".">}})
 
 ## Keywords
@@ -42,11 +47,13 @@ Park-like areas were located between the Great [Palaestra](http://vocab.getty.ed
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 
 ## Bibliography
+
 * Jashemski, W.F. *Gardens of Pompeii*, vol.I, pp. 13-14, 161-162 [(worldcat)](https://search.worldcat.org/title/884024123)
 * Jashemski, W.F. *Gardens of Pompeii*, vol.II, pp. 91-92 [(worldcat)](https://search.worldcat.org/title/921816405)
 * Maiuri, A. *Notizie degli scavi di antichità*, p.194 [(worldcat)](https://search.worldcat.org/title/1646037)

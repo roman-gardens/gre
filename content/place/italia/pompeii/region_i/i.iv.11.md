@@ -12,20 +12,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region I]({{<relref ".">}})
 ## Insula
+
 [Insula IV]({{<relref "#">}})
 
 ## Keywords
@@ -35,6 +40,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "latrines" >}}
 
 ## Garden
+
 Garden at the rear of the [Caupona](http://vocab.getty.edu/page/aat/300005208) of Copious.
 
 
@@ -53,9 +59,11 @@ This modest [caupona](http://vocab.getty.edu/page/aat/300005208) had a garden at
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="222138654" name="Regio I, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
+
 Excavated 1853 and 1863.
 

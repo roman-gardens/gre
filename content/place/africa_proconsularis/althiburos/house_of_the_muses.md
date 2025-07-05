@@ -17,10 +17,13 @@ draft: true
 - {{< id vocab="Pleiades" id="324664" name="Althiburos" >}}
 
 ## Location Description
+
 This town is located on the road between Carthage and Theveste near the border of Proconsularis and Byzacena 35 km west of Mactar. Under the Roman Empire it remained an indigenous civitas until it was raised to the status of a municipium by Hadrian: municipium aelium hadrianum augustum althiburitanum and later was granted the ius Italicum.
 
 The trade of agricultural products and craftsmanship made Althiburos a prosperous city, particularly, the fabrication and the commerce of aromatics. The development of the city reached its peak under the Antonian and Severian dynasties. It is difficult to follow the history of Althiburos during the third century when the province of Africa underwent the severe crisis of 238. The city was abandoned just before the Arab conquest.  Excavations have brought to light the forum, the capitol, the Hadrianic triumphal arch and two temples. At the east corner of the forum, near one of the temples, was a complex of houses and a building with a rotonda to the south of which stood a monumental fountain. Outside the excavated center are other monuments, among them the theater and a triumphal arch.
+
 ## Garden
+
 House of the Muses (Maison des Muses)
 
 ## Keywords
@@ -45,21 +48,18 @@ The *triclinium* was bordered on two sides by two apartments that each had rooms
 
 ## Maps
 
-<!--
--->
-
 ## Plans
+
 {{< image file="Althuburos_House_of_the_Muses.jpg" caption="Fig. 1: Plan of the House of the Muses" credit="(Merlin, A., 1913, pl. V)" alt="Plan of the House of the Muses at althiburos">}}
 
 ## Images
 
-<!--
--->
-
 ## Dates
+
 2nd-3rd century CE
 
 ## Bibliography
+
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 27-29. [(worldcat)](https://search.worldcat.org/title/989088620)
 - Ennaifer, M., *La cité d'Althiburos et l'édifice des Asclepieia*, INA, Tunis, 1976, p. 64-70, plan II. [(worldcat)](https://search.worldcat.org/title/963483765)
 - Merlin, A., *Forum et maisons d'Althiburos, Notes et documents*, VI, 1913, p. 39-45, plan pl. V. [(worldcat)](https://search.worldcat.org/title/490070526)
@@ -67,11 +67,13 @@ The *triclinium* was bordered on two sides by two apartments that each had rooms
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="324664" name="Althiburos" >}}
 - {{< id vocab="TGN" id="5003658" name="Althiburus (deserted settlement)" >}}
 
 <!--
 ## Related articles
+
 [House of the Fishing Scene (Maison de la scène de pêche)]({{<relref "house_of_the_fishing_scene.md">}})
 [Asclepeia Building (Edifice des Asclepeia)]({{<relref "asclepeia_building.md">}})
 -->

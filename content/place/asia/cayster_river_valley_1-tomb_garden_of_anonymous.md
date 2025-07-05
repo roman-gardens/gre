@@ -16,6 +16,7 @@ draft: true
 - {{< id vocab="Pleiades" id="550492" name="Cayster River Valley" >}}
 
 ## Garden
+
 Tomb Garden(?) of an Anonymous
 
 ## Keywords
@@ -35,19 +36,19 @@ A highly fragmentary inscription found in the south part of the Cayster River va
 -->
 <!--
 ## Plans
+
 {{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan of the excavations at Aphrodisias" credit="" alt="Plan of villa rustica at Blackenheim-Hülchrath">}}
 <!--
 -->
 <!--
 ## Images
 
-<!--
--->
-
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - J. Keil and A. von Premerstein, Bericht über eine dritte Reise in Lydien. Vienna, 1914, no. 112 [(worldcat)](https://search.worldcat.org/title/604130286)
 - J. Kubin'ska, *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure*. Warsaw, 1968, p. 145. [(worldcat)](https://search.worldcat.org/title/164233326)
 

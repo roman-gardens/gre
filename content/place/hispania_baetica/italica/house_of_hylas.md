@@ -69,6 +69,7 @@ unspecified
 
 
 ## Places
+
 - [House of Hylas at Italica]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="634946753" name="House of Hylas at Italica" >}}
 - {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}

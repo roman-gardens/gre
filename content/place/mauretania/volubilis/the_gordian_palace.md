@@ -50,6 +50,7 @@ The Gordian Palace (Le palais dit de Gordien)
 The large domus that belonged to the rich Pompeian family during the second century became the Governor's palace during the Gordian period. The domus, approximately 69 by 74 m, was located on the north side of the decumanus maximus.  The vestibule opened into a rectangular peristyle garden enclosed on four sides by a portico supported by 12 columns. A horseshoe-shaped pool faced the large oecus (label 7) on the north and extended into the garden. There was an entrance into the garden on the south, placed along the central axis of the vestibule and the oecus. Two other courtyards (labels 22 and 17) with pools gave light and air to their surrounding rooms. A bath with a courtyard peristyle added to the luxury of the domus.
 
 ## Plans
+
 <!--Plan View Image Missing-->
 <!-- {{< image file="IMAGEMISSING" caption="Fig. 1: Plan of the Gordian Palace" credit="" alt="Plan of the Gordian Palace" >}} -->
 

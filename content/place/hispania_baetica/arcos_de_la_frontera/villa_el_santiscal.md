@@ -35,13 +35,7 @@ This rich country villa on the left bank of the [Guadalete](https://pleiades.sto
 
 ## Maps
 
-<!--
--->
-
 <!--## Plans-->
-
-<!--
--->
 
 ## Images
 

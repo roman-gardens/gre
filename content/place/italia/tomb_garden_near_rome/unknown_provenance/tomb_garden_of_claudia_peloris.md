@@ -33,17 +33,16 @@ The building, a substantial structure of some thirteen rooms, seems to comprise,
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
 ## Images
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - Ch. Hülsen, *Piante iconografiche incise in marmo*, MDAI(R) 5 (1890) 46-52 and Tav. III; H. von Hesberg. [worldcat](https://search.worldcat.org/title/901880248)
 - H. von Hesberg, *Römische Grundrissplane auf Marmor*, in Bauplanung und Bautheorie der Antike (Berlin 1983) 124-26. [worldcat](https://search.worldcat.org/title/801974522)
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 181 fig. 3, 184. [worldcat](https://search.worldcat.org/title/886794800)

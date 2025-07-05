@@ -13,15 +13,18 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Keywords
@@ -35,21 +38,26 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 This house was excavated in 1799 and to the rear of the tablinium there was a portico which enclosed an area surrounded by a gutter. Openings were cut in the floor where the twelve supporting columns stood to allow light into the rooms below in the volcanic ledge. Mazois and Fiorelli labeled this area a hanging garden because of this configuration. A grand view of the Bay of Naples and the mountains could be enjoyed from the terraces on two levels in this house, and potted plants and shrubs may have been placed there.
 
 ## Plans
+
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_1.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 1-20" credit="" alt="" >}}
 
 ## Images
+
 {{< image file="fig.3.viii.ii_10.2.59.jpg" caption="Fig 3, 10.2.59, View of insula ii from below (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
 - {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
 
 ##  Excavation Dates
+
 1799
 
 ## Bibliography
+
 * Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 74 [(worldcat)](https://search.worldcat.org/title/1131425884)
 * Breton, *Pompeia*, 3rd ed. p. 502 [(worldcat)](https://search.worldcat.org/title/894211341)
 * Dyer, *Pompeii*, 3rd ed. p. 441 [(worldcat)](https://search.worldcat.org/title/24327166)

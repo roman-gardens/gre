@@ -44,18 +44,9 @@ After the death of Herodes the villa probably became imperial property. A phase 
 
 <!--## Maps-->
 
-<!--
--->
-
 <!--## Plans-->
 
-<!--
--->
-
 <!--## Images-->
-
-<!--
--->
 
 ## Dates
 

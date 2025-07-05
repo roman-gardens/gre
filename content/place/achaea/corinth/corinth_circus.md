@@ -40,9 +40,6 @@ The so-called "hippodrome garden" type (see the Domus Flavia on the Palatine Hil
 
 <!--## Maps-->
 
-<!--
--->
-
 ## Plans
 
 {{< image file="corinth-plan.jpg" caption="Fig. 1: Actual State Plan of the Roman circus, with planting pits labeled. From D. G. Romano, \"Roman Circus,\" p. 589, fig. 3." credit="Plan courtesy of the author." alt="" >}}
@@ -54,6 +51,7 @@ The so-called "hippodrome garden" type (see the Domus Flavia on the Palatine Hil
 {{< image file="amphora-in-planting-pit.jpg" caption="Fig. 3: Fragmentary amphora found in pit 2 in the spina of the Roman circus." credit="Photograph courtesy of James Wiseman." alt="fragmentary amphora found in pit 2 in the spina of the Roman circus" >}}
 
 ## Dates
+
 <!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
 <!-- If no date, use "unspecified" -->
 

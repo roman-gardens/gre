@@ -17,8 +17,10 @@ draft: true
 - {{< id vocab="Pleiades" id="324653" name="Acholla" >}}
 
 ## Location Description
+
 The city of Acholla was established forty-five km north of Sfax, along the seashore of the coast of Bysacena. When the city took sides with Rome in the third Punic war, Acholla was rewarded with the status of a free city. Later, under Hadrian, the city became a municipum. Production of oil from the countryside, inner cities of Bararus and Thysdrus, and commerce by sea made Acholla, with its harbor, a prosperous town.  Two baths and a series of houses testify to the wealth of the inhabitants of Acholla by the opulence and the originality of their mosaic décor. The mosaic decor gives evidence to the presence of one of the first mosaic workshops in Africa.
 ## Garden
+
 House of Asinius Rufinus (Maison d'Asinius Rufinus)
 
 ## Keywords
@@ -44,31 +46,30 @@ Adjacent to the east apartment is a light well with an earthen floor, which can 
 
 ## Maps
 
-<!--
--->
-
 ## Plans
+
 {{< image file="House_of_Asinius_Rufinus_Acholla1.jpg" caption="Fig. 1: Plan of the House of Asinius Rufinus (Acholla, Et alii, PL. II)" credit="" alt="Plan of the House of Asinius Rufinus at acholla">}}
 
 ## Images
 
-<!--
--->
-
 ## Dates
+
 mid 2nd century CE
 
 ## Bibliography
+
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 12-14. [(worldcat)](https://search.worldcat.org/title/989088620)
 - Gozlan, S., Jeddi, N., Blanc-Bijon, V., Bourgeois, A., *Recherches archéologiques franco-tunisiennes à Acholla. II - Les mosaïques des maisons du quartier central et les mosaïques éparses* (Collection de l'EFR), Rome, INAA – EFR, 2001, p. 19-28, plan Pl. II. [(worldcat)](https://search.worldcat.org/title/46598604)
 - Rebuffat, R., *Maisons à péristyle d'Afrique du Nord, Répertoire de plans publiés*, II, MEFRA, tome 86, 1974-1, p.454. [(worldcat)](https://search.worldcat.org/title/1069174087)
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="324653" name="Acholla" >}}
 - {{< id vocab="TGN" id="5003657" name="Henchir Bou Tria (deserted settlement)" >}}
 
 <!--
 ## Related articles
+
 [House of the Triumph of Neptune (Maison du Triomphe de Neptune)]({{<relref "house_of_the_triumph_of_neptune.md">}})
 -->

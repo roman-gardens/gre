@@ -22,6 +22,7 @@ draft: true
 - {{< id vocab="Pleiades" id="266021" name="Saguntum/Arse" >}}
 
 ## Garden
+
 Tomb garden and baths of P. Caecil(ius) Rufus and Valeria
 
 ## Keywords
@@ -34,23 +35,15 @@ A marble slab found at Puçol (Puzol) near Saguntum, now lost, but originally pr
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
-<!--
--->
-
 ## Images
-
-<!--
--->
 
 <!--## Dates-->
 
 
 ## Bibliography
+
 - H. von Hesberg, "Römische Grabbauten in den hispanischen Provinzen" in W. Trimllmich et al., eds., Hispania Antiqua. Denkmäler der Römerzeit (Mainz 1993) XXX; EDH HD026300. [(worldcat)](https://search.worldcat.org/title/7377084156)
 
 ## Places

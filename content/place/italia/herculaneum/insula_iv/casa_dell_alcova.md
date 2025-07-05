@@ -25,15 +25,19 @@ draft: true
 
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 IV
 
 ## House
+
 3-4
 
 ## Garden
+
 Casa dell'Alcova
 
 
@@ -60,6 +64,7 @@ B. The more elegant dwelling to the south had a long corridor on one side of the
 <!--## Images-->
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 

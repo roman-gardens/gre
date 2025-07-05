@@ -19,8 +19,10 @@ draft: true
 {{< image file="hadrumetum_city_plan.jpg" caption="Fig. 1: Plan of Hadrumetum" credit="(Ghaddhab, R., 2016, P.182)" alt="Plan of Hadrumetum">}}
 
 ## Location Description
+
 Hadrumetum is located on the bay of Hammamet at the edge of the fertile region of Sahel from which it drew its wealth.  Choosing the side of Rome against Carthage during the Punic war, Hadrumetum was rewarded with the status of free town. Taking the side of Pompey, the city was heavily fined by Caesar after his victory at Thapsus. Nevertheless, the opulence of its houses adorned with luxurious mosaics testifies that the city experienced great economic development after its elevation to the status of colony, under Trajan.
 ## Garden
+
 House of the Masks (Maison des Masques)
 
 ## Keywords
@@ -41,16 +43,16 @@ The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was 
 
 
 ## Plans
+
 {{< image file="House_of_the_Masks_Sousse1.jpg" caption="Fig. 1: Plan of the House of the Masks" credit="(Foucher, L., 1965)" alt="Plan of the House of the Masks at hadrumetum">}}
 
 ## Images
-<!--
--->
 
 ## Dates
 2nd century CE
 
 ## Bibliography
+
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 103-105. [(worldcat)](https://search.worldcat.org/title/989088620)
 - Foucher, L., *La Maison des Masques à Sousse, Fouilles 1962-1963*, Notes et documents, VI, Tunis, 1965. [(worldcat)](https://search.worldcat.org/title/318017455)
 - Ghaddhab, R., "Y avait-il un port à Hadrumetum dans l'antiquité tardive?", in *Revue des etudes anciennes*, 2016, Bordeaux, France: Feret & Fils, pp. 175-199. https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf
@@ -58,5 +60,6 @@ The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was 
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="324716" name="Hadrumetum/Iustinianopolis" >}}
 - {{< id vocab="TGN" id="7015312" name="Sousse (inhabited place)" >}}

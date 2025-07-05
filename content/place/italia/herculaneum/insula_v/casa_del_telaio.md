@@ -25,15 +25,19 @@ draft: true
 
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 V
 
 ## House
+
 4/3
 
 ## Garden
+
 Casa del Telaio
 
 ## Keywords
@@ -64,6 +68,7 @@ There was a courtyard (a) in the center of this house which was apparently attac
 {{< image file="herc.iii.19-18.1-2-17.3.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
@@ -77,5 +82,6 @@ unspecified
 unspecified
 
 ## Bibliography
+
 - Maiuri, *Ercolano*, p. 430 and fig. 370 (plan) on p. 427
 

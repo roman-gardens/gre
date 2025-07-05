@@ -12,20 +12,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region II]({{<relref "..">}})
 ## Insula
+
 [Insula I]({{<relref ".">}})
 
 ## Keywords
@@ -41,10 +46,12 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ## House
+
 House of the Birii; House of the Sibyl
 
 
 ## Garden
+
 Two gardens, one with root cavities and the remains of a new [cistern](http://vocab.getty.edu/page/aat/300052558).
 
 ## Garden Description
@@ -67,10 +74,12 @@ PompeiiinPictures, 2018, *Pompeii. Complesso dei Riti magici or Magic Rites Comp
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
+
 1954, 1957, 1963, 1985
 
 

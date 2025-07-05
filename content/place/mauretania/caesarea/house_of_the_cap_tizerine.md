@@ -61,10 +61,12 @@ The northeastern courtyard was most likely a peristyle-garden.  There, a basin p
 ## Images
 
 ## Dates
+
 2nd-3rd century CE
 ## Excavation Dates
 
 ## Bibliography
+
 * Ballu, A., Rapport...en 1921, Alger 1922, p. 9. Rapport... en 1922, Alger 1923, p.7. Rapport... en 1923, Alger 1923, p.8. Raport ... en 1923, Alger 1924, p.8-9. [(worldcat)](https://search.worldcat.org/title/876517484)
 * Ferdi, S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p. 77. [(worldcat)](https://search.worldcat.org/title/1006126274)
 * Lassus, J., "L'archéologie algérienne en 1959", in *Lybica*, arch., épigr., t.8, 2ème sem. 1960, pp.27-50. [(hathitrust)](https://catalog.hathitrust.org/Record/008568139)

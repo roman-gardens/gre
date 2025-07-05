@@ -17,8 +17,10 @@ draft: true
 - {{< id vocab="Pleiades" id="344380" name="Gigthis" >}}
 
 ## Location Description
+
 The important site Gigthis (50ha) largely excavated in the beginning of the last century by Constans was located on the opposite side of the Jerba Island, on the Gulf of Bou Grara. The remains of Gigthis stretches out along the foothills going down the coast in a fertile region known for its olive groves.
 ## Garden
+
 Suburban Villa
 
 ## Keywords
@@ -42,10 +44,8 @@ On the south of the peristyle was another courtyard with a portico of three colu
 
 <!--## Maps-->
 
-<!--
--->
-
 ## Plans
+
 {{< image file="suburban_villa.jpg" caption="Fig. 1: Plan of then city and its suburbs" credit="(Constans, L.-A., 1916, pl. I)" alt="Plan of then city and its suburbs">}}
 
 
@@ -53,16 +53,16 @@ On the south of the peristyle was another courtyard with a portico of three colu
 
 ## Images
 
-<!--
--->
-
 ## Dates
+
 unknown
 
 ## Bibliography
+
 - Constans, L.-A., "Gigthis. Étude d'Histoire et d'Archéologie sur un Emporium de la Petite Syrte: avec 14 planches hors texte et 3 figures dans le texte", in *Extrait des Nouvelles Archives des Missions Scientifiques. 14° fasc*, pl.I, pp.100-103, Paris: Imprimerie Nationale, 1916.[(worldcat)](https://search.worldcat.org/title/8271308381) https://gallica.bnf.fr/ark:/12148/bpt6k74033b/f119.item.r=constans
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="344380" name="Gigthis" >}}
 - {{< id vocab="TGN" id="5003665" name="Gigthi (deserted settlement)" >}}

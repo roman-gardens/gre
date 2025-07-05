@@ -17,6 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="550472" name="Attaleia" >}}
 
 ## Garden
+
 Tomb (peribolos) garden of Bassos son of Euarestos
 
 ## Keywords
@@ -36,19 +37,19 @@ A statue base found in 1886 in a modern cemetery midway along the path between G
 -->
 <!--
 ## Plans
+
 {{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan of the excavations at Aphrodisias" credit="" alt="Plan of villa rustica at Blackenheim-Hülchrath">}}-->
 <!--
 -->
 <!--
 ## Images
 
-<!--
--->
-
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - G. Radet and H. Lechat, "Notes de géographie ancienne," BCH 11, 1887:399-401 [(worldcat)](https://search.worldcat.org/title/4648358600)
 - R. Cagnat, et al., *Inscriptiones Graecae ad res Romanas pertinentes*. Paris, 1906-1927, IV, 1168 [(worldcat)](https://search.worldcat.org/title/256313198)
 - B. Laum, *Stiftungen in der griechischen und römischen Antike*. Leipzig, 1914, II, no. 72 [(worldcat)](https://search.worldcat.org/title/457633912)

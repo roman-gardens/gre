@@ -29,6 +29,7 @@ A sublocation is any area larger than an individual garden, but located within a
 In the valley of the Moselle, Divodurum Mediomatricorum, a former Gallic oppidum on the hill of Ste-Croix, became an urban center in the Augustan period. It had an amphitheater, an aqueduct, several baths, and a sewer network with a large collector.
 
 ## Garden
+
 HHouse of the Arsenal (Maison de l'Arsenal)
 
 ## Keywords
@@ -56,9 +57,11 @@ None Available
 None Available
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - Ph. Brunella, D. Meckenbenner, Cl. Lefebvre, P. Thion, *Metz, cinq années de recherches archéologiques 1982-1987,* Dalph, Gumra, 1990, p.33-36, fig.36. [(worldcat)](https://search.worldcat.org/title/20955708)
 
 

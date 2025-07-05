@@ -51,6 +51,7 @@ House with the Cistern
 
 
 ## House Description
+
 This house was exposed during a programmed excavation from 1981 to 1985. It occupies a plot of 1338 square meters facing Voie I, on which it opens through an entrance in the center of its façade.
 This phase, called the House with the Cistern, was constructed in the last years of the Augustan period on the site of an earlier building, itself Augustan and probably also a dwelling. It was occupied 20 to 25 years before being remodeled. In its unusual quadrilateral shape, no two sides were parallel, but the west and south sides were perpendicular, and the interior walls ran parallel to one or the other of them. The average width (in the east-west direction) was 24 meters and average length 66 meters. The construction was organized around three sides of the courtyard [12] (10 x 8 m); it may have been planted or may have had a simple earthen floor. To the north, a second open space, a court or a garden [17] (roughly 27 x 15 m) took up a third of the lot. A cylindrical structure [16] three meters in diameter, interpreted as a cistern, occupies an extension off the southeast corner. Nearly all of the floors are of pounded earth. Numerous areas of painted plaster have been discovered in the thirteen rooms that ring three sides of the courtyard [12]. However, the quality of the construction remained ordinary.
  

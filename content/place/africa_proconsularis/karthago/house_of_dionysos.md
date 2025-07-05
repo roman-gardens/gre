@@ -23,6 +23,7 @@ Of the Roman period, the city plan is clearly recognizable. The plan takes as it
 
 
 ## Garden
+
 House of Dionysos
 
 ## Keywords
@@ -33,29 +34,24 @@ House of Dionysos
 - {{< keyword "basins" >}}
 
 ## Garden Description
+
 In this very damaged house, a portico on four sides (IV-VII) enclosed a court (VIII) (8 x 11.10 m), which was planted during the building's second phase dated at the fourth/early fifth century. The northeast and southwest porticos had four columns and the northwest and southeast had five columns.
 
 A low wall was added in between the columns that enclosed the garden. A semi-circular basin attached to a rectangular one oriented northeast/southwest (IX) was placed at the northeast end of the garden. (Plan view, Fig. 1). The house dates from the III-V c.
 
 ## Maps
 
-<!--
--->
-
 ## Plans
-{{< image file="AFR_Car_Hd_Amalek1.jpg" caption="Fig. 1: Plan of the House of Dionysos." credit="(Ben Abed-Ben Khader, A., 1999, plan 5)" alt="Plan of the House of Dionysos at Karthago">}}
-<!--
--->
 
+{{< image file="AFR_Car_Hd_Amalek1.jpg" caption="Fig. 1: Plan of the House of Dionysos." credit="(Ben Abed-Ben Khader, A., 1999, plan 5)" alt="Plan of the House of Dionysos at Karthago">}}
 ## Images
 
-<!--
--->
-
 ## Dates
+
 3rd-5th century CE
 
 ## Bibliography
+
 * Ben Abed-Ben Khader, A., *Corpus des mosaïques de Tunisie. Vol. 4, Karthago (Carthage), Fasc. 1 Les mosaiques du Parc Archéologique des Thermes d'Antonin*, INA, Tunis,1999, 46-51, plan 5. [(worldcat)](https://search.worldcat.org/title/1069099591)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 143-144. [(worldcat)](https://search.worldcat.org/title/989088620)
 

@@ -17,6 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="109194" name="Nemetacum" >}}
 
 ## Garden
+
 House on rue de la Fraternité
 
 ## Keywords
@@ -40,19 +41,15 @@ The house had another interior open court and possible garden [17] of about 6 x 
 ## Plans
 
 None Available
-<!--
--->
-
 ## Images
 
 None Available
-<!--
--->
-
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - Alain Jacques, Georges Jelski, "Arras antique, bilan et perspective" in *Les villes de la Gaule Belgique au Haut-Empire*, Actes du colloque tenu à Saint-Riquier (somme) le 22-23-24 octobre 1982, Revue achéologique de Picardie, p. 124-5. [(worldcat)](https://search.worldcat.org/title/313214592)
 -  Delmaire  et  al., *Le Nord-Pas- de-Calais*, 62/1, CAG, p. 145-147, fig. 46, plan  p. 145; H. Stern I, 1 p. 101-102.  <!-- not on worldcat and last part seems to be in draft.-->
 

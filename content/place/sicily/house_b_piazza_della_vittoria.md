@@ -12,6 +12,7 @@ draft: true
 ---
 
 ## Province Description
+
 Sicily, the largest island in the Mediterranean, was colonised by Greeks from the later eighth century B. C., with Syracuse becoming the largest and most powerful Greek polis; in time most of the indigenous settlements of the interior also became profoundly Hellenized. The western tip of the island was settled by Phoenicians and later became an outpost of Carthaginian control. In the third century B. C. Sicily became embroiled in the First Punic War which resulted in Rome's acquisition of the island as its first overseas provincia in 241 B. C.; in 211 B. C. Sicily was above all famed for its agricultural fertility and its capacity to produce exceptional grain yields (wheat and barley), and to a lesser extent wine. By the time of the Roman Empire the principal flourishing cities were located on the coast, with much of the interior given over to scattered agricultural villages, villas and farms.
 
 ## Region
@@ -37,9 +38,6 @@ House B, Piazza della Vittoria
 A pool, still frescoed in blue, has recently been uncovered at the south end of the peristyle, no doubt opposite the principal room of the south range (which remains to be excavated) of this house, which lies adjacent to houses A and C. The excavation is not yet published and does not appear on Fig. 5.
 
 ## Maps
-
-<!--
--->
 
 ## Plans
 

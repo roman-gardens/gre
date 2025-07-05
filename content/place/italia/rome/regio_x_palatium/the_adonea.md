@@ -53,6 +53,7 @@ Unspecified
 unspecified
 
 ## Bibliography
+
 <!--
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->

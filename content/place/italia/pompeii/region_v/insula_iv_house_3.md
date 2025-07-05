@@ -12,35 +12,43 @@ draft: true
 ---
 
 ## Province
+
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Province Description
+
 <!-- DESCRIPTION -->
 The Italian peninsula extending northward to the Alps as recognized by the Romans.
 
 
 ## Location
+
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Sublocation
+
 Region V
 
 
 ## Insula
+
 Insula iv
 
 
 ## House
+
 House 3
 
 ## Garden
+
 V.iv.3
 
 ## Keywords
@@ -63,12 +71,15 @@ At the rear of this house excavated in 1899 was a courtyard garden (a) with a *p
 
 
 ## Dates
+
 Unspecified
 
 ## Excavation Dates
+
 1899
 
 ## Bibliography
+
 * Jashemski, *Gardens*, vol.II, p. 116.[(worldcat)](https://search.worldcat.org/title/1029851777)
 * Mau, *RM* (1901), p. 324.[(worldcat)](https://search.worldcat.org/title/1189330863)
 * Pernice, p. 28.[(worldcat)](https://search.worldcat.org/title/714016975)
@@ -77,6 +88,7 @@ Unspecified
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 

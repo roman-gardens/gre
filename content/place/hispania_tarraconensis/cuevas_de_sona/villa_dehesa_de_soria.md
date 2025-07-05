@@ -12,10 +12,12 @@ draft: true
 ---
 
 ## Province
+
 - [Hispania Tarraconensis]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
 
 ## Province Description
+
 In 236 BC, to offset Carthage's loss of Sicily and Sardinia in the First Punic War, Hamilcar Barca led an expedition into Hispania to establish a colony there.  Through force of arms and diplomacy, he spread Carthaginian influence as far north as Barcellona, which bears his name.  In 230 BC, Hasdrubal, his son-in-law, established Qart Hadast that became Carthago Nova in Roman times and Cartagena today.  After the death of Hasdrubal, Hannibal, Hamilcar's oldest son, took command, attacked Saguntum, and in 218 set out for Italy leaving his younger brother, Hasdrubal, in command in Spain.  Through the Alps, he descended into Italy and threatened Rome for fourteen years.  Roman armies under the brothers Gnaeus and Publius Cornelius Scipio kept Hasdrubal in check and prevented his reinforcing Hannibal. They were both killed by the Carthaginians in 212.  Two years later, another Publius Cornelius Scipio, the  25-year-old son of the late general of the same name, was sent to Spain.  The next year, he captured New Carthage and, in 206 at the battle of Ilipa (about 15 km north of Savilla) destroyed most of the Carthaginians' numerically superior army and ended their hold on Spain.  Scipio settled his wounded veterans nearby at a place he called Italica to remind them of their origins.  Today, it is one of the best Roman archaeological sites in Italy.  After a quick trip back to Rome, where he was elected consul, he returned to Spain and went on to attack Carthage itself.  Hannibal was recalled to Africa, but Scipio annihilated his army in 202.  Rome thus came into possession of the Mediterranean coast of Iberia.
 
 If Rome was drawn into Hispania to keep the Carthaginians there from supporting Hannibal in Italy, it missed the opportunity offered by Hannibal's defeat to get out of Spain honorably.  Instead, in 197 BC it created two new Roman provinces, Hispania Citerior whose capital was Carthago Nova and Hispania Ulterior with Corduba as its capital.  Soon after, Rome launched a long war to subjugate the Lusitani, Celtiberians on the west coast.  During Sulla's dictatorship, the Lusitani were again in revolt, this time under the able leadership of the Roman general Quintus Sertorius, who sought to create an independent, Roman-like state in Hispania. He established a senate and schools for the sons of the local nobility.
@@ -32,9 +34,11 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Location
+
 - [Villa Dehesa de Soria]({{<relref ".">}})
 
 ## Garden
+
 Villa Dehesa de Soria
 
 
@@ -53,13 +57,16 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 
 
 ## Plans
+
 {{< image file="his_tar_cue_soria_fig1.jpg" caption="Villa of Cuevas de Soria." credit="Gorges, Planche XLIV." alt="" >}}
 
 
 ## Dates
+
 2C AD
 
 ## Bibliography
+
 - M.ª C. Fernández Castro, *Las villas romanas en Hispania*, Madrid, 1986. [(worldcat)](https://search.worldcat.org/title/7840420644)
 
 

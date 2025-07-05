@@ -17,6 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="433204" name="Villa Tiberii" >}}
 
 ## Sublocation
+
 Sperlonga
 
 ## Sublocation Description
@@ -43,22 +44,23 @@ In the villa there are three different garden arrangements (SALZA PRINA RICOTTI 
 
 ## Maps
 
-<!--
--->
-
 ## Plans
+
 {{< image file="93-sperlonga-villa.jpg" caption="the plan of Sperlonga's Villa." credit="" alt="Sperlonga's Villa has board view,the peristyle garden was rounded by building, the south part had the Cryptoporch, the terrance and canal and so on ." >}}
 
 ## Images
+
 {{< image file="91-sperlonga-grotto.jpg" caption="the general garden plan of Sperlonga." credit="" alt="Plan. the general garden plan of Sperlonga." >}}
 
 {{< image file="92-landslide.jpg" caption="The landslide." credit="" alt="" >}}
 
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 -B. ANDREAE, A. CONTICELLO, H. SCHROTELER, D. WUNDERLICH, *Abformung der Polyphemgruppe von Sperlonga, in GfK nach einem neuen Verfahren*, Der Präparaator 16, 1-2 (1970), pp. 1-000 [worldcat](https://search.worldcat.org/title/1088832601)
 
 -F. COARELLI, *Sperlonga e Tiberio*, DArch 7 (1973), pp. 97-122 [worldcat](https://search.worldcat.org/title/1088846423)

@@ -32,17 +32,16 @@ A handsome marble funerary altar of unknown but presumably urban provenance, now
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
 ## Images
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - W. Altmann, *Die römischen Grabaltäre der Kaiserzeit*, (Berlin 1905) 168 no. 214; S. [worldcat](https://search.worldcat.org/title/715073021)
 - S. Ducroix, *Catalogue analytique des inscriptions latines sur pierre conservées au Musée du Louvre*, (Paris 1975) 96  no. 314. [worldcat](https://search.worldcat.org/title/602598921)
 - D. Boschung, *Antike Grabaltäre aus den Nekropolen Roms*, (Acta Bernensia X) (Bern 1987) 107 no. 329, Taf. [worldcat](https://search.worldcat.org/title/1063931061)

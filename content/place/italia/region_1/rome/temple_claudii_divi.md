@@ -30,6 +30,7 @@ Italia was not considered a province until the reign of Diocletian. The peninsul
 <!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Sublocation
+
 - [Caelian Hill]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="695491849" name="Caelian Hill" >}}
 
@@ -43,6 +44,7 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- DESCRIPTION -->
 
 ## Garden
+
 Gardens of the Temple of Divine Claudius (Roma)<!-- List of gardens in province -->
 <!-- May be left blank for now -->
 
@@ -66,6 +68,7 @@ The temple is set within eight L-shaped planting beds and fourteen rectangular p
 
 
 ## Dates
+
 1st century CE<!-- If no date, use "unspecified" -->
 
 ## Bibliography

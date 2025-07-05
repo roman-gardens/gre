@@ -23,15 +23,19 @@ draft: true
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 III
 
 ## House
+
 11
 
 ## Garden
+
 Casa del Tramezzo di Legno
 
 ## Keywords
@@ -49,9 +53,11 @@ The excavation of this house was begun in 1869-1875, but the excavation of the g
 <!-- ## Maps -->
 
 ## Plans
+
 {{< image file="h_3_3-17.jpg" caption="Plan of Casa del Tramezzo di Legno" credit="" alt="" >}}
 
 ## Images
+
 {{< image file="herc.iii.11-13.36.55.jpg" caption="Illustration of Casa del Tramezzo di Legno" credit="" alt="" >}}
 
 {{< image file="herc.iii.11-68.16.57.jpg" caption="Illustration of Casa del Tramezzo di Legno" credit="" alt="" >}}
@@ -60,10 +66,12 @@ The excavation of this house was begun in 1869-1875, but the excavation of the g
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
 ## Dates
+
 unspecified
 
 ## Excavation Dates

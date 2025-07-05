@@ -19,8 +19,10 @@ draft: true
 {{< image file="hadrumetum_city_plan.jpg" caption="Fig. 1: Plan of Hadrumetum" credit="(Ghaddhab, R., 2016, P.182)" alt="Plan of Hadrumetum">}}
 
 ## Location Description
+
 Hadrumetum is located on the bay of Hammamet at the edge of the fertile region of Sahel from which it drew its wealth.  Choosing the side of Rome against Carthage during the Punic war, Hadrumetum was rewarded with the status of free town. Taking the side of Pompey, the city was heavily fined by Caesar after his victory at Thapsus. Nevertheless, the opulence of its houses adorned with luxurious mosaics testifies that the city experienced great economic development after its elevation to the status of colony, under Trajan.
 ## Garden
+
 House of  Sorothus (Maison de Sorothus)
 
 ## Keywords
@@ -38,6 +40,7 @@ This very damaged house was laid out around a peristyle garden. A semi-circular 
 
 
 <!--## Maps
+
 {{< image file="map_of_hadrementum.jpg" caption="Map: Map of Hadrementum. 1. House of Sorothus, 2. House of the arsenal and House of Vergil, 3. House of the masks, 4. House of the ostriches, 5. Balzan house, 6. House of the satyrs and of the Bacchae, 7. House at the catacomb of the Good Shepherd. (North is at the top; there is no scale.) Adapted from Amplissimae." credit="" alt="Map of Hadrementum at hadrumetum">}}-->
 
 ## Plans
@@ -47,12 +50,11 @@ This very damaged house was laid out around a peristyle garden. A semi-circular 
 
 ## Images
 
-<!--
--->
-
 ## Dates
+
 end 2nd century CE
 ## Bibliography
+
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 100-101. [(worldcat)](https://search.worldcat.org/title/989088620)
 - Gauckler, P., "Les mosaïques de l'Arsenal à Sousse", in *Revue archéologique*, 1897, II, p. 9-10.[(worldcat)](https://search.worldcat.org/title/5547381665)
 - Gauckler, P., *Inventaire des mosaïques de la Gaule et de l'Afrique*, II : Afrique
@@ -65,5 +67,6 @@ proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.[(worldcat)](https:/
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="324716" name="Hadrumetum/Iustinianopolis" >}}
 - {{< id vocab="TGN" id="7015312" name="Sousse (inhabited place)" >}}

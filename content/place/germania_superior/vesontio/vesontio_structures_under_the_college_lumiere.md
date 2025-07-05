@@ -54,9 +54,6 @@ A fragment of a little ornamental stone *krater* was found in the material that 
 
 <!--## Maps-->
 
-<!--
--->
-
 ## Plans
 
 <span style="color:red"> Images not available (?) </span>
@@ -64,9 +61,6 @@ A fragment of a little ornamental stone *krater* was found in the material that 
 - Fig. 1: Plan of the domus, now under the Collège Lumière.
 
 <!--## Images-->
-
-<!--
--->
 
 ## Dates
 

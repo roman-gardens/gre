@@ -36,6 +36,7 @@ Under Claudius the city became a Roman colony, Colonia Claudia Caesarea. The old
 The city has been continually occupied to the present day, now known as Cherchel. From the Roman period, many archaeological sites have survived, including temples, baths, houses adorned with mosaics and sculptures, a theater, a forum, a judiciary basilica, an amphitheater, a large hippodrome, and a lighthouse constructed on the islet of the city.
 
 ## Garden
+
 House of the Scattered Branches and Flowers (Maison de la Jonchée)
 
 ## Keywords
@@ -56,15 +57,19 @@ Only part of the southern gallery was excavated. The gallery was 3.15 meters wid
 It is assumed that the peristyle and its garden may have had a view over the sea. One of the rooms sharing this view was decorated with the mosaic of the Jonchée famous for its uniqueness.
 
 ## Plans
+
 {{< image file="house_of_the_scattered_branches_and_flowers_fig_1.jpg" caption="Fig. 1: Plan of the House of the Scattered Branches and Flowers" credit="(Leveau, Ph., 1982, p.101, fig.1, Guéry, R.)" alt="Plan of the House of the Scattered Branches and Flowers." >}}
 
 ## Images
+
 {{< image file="house_of_the_scattered_branches_and_flowers_fig-2.jpg" caption="Fig. 2: Mosaic of the Jonchée (scattered branches) that decorated one of the room of the NO.5 house" credit="(AOROC UMR 8546 CNRS-ENS-PSL Photothèque Stern)" alt="Mosaic of the Jonchée (scattered branches) that decorated one of the room of the NO.5 house." >}}
 ## Dates
+
 4th century CE
 ## Excavation Dates
 
 ## Bibliography
+
 *  Baghli, S. A., Février, P. A., "Recherches et travaux (1962-1965)", in *Bulletin d'archéologie algérienne*, t.1, 1962-1965. p.3; BAA, t.3, 1967, p.7, fig.8 et 9. [(worldcat)](https://search.worldcat.org/title/491480973)
 *  Ferdi, S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p. 23-31.[(worldcat)](https://search.worldcat.org/title/1006126274)
 * Ferdi, S. et Malek, A. A., 2000, "Les mosaïques de la maison de la Jonchée à Cherchel", in *Mosaïque gréco-romaine : actes du VIIe Colloque international pour l'étude de la mosaïque antique* VII, Tunis, p. 327-335. [(worldcat)](https://search.worldcat.org/title/949183567)

@@ -12,14 +12,17 @@ draft: true
 ---
 
 ## Location
+
 - [UTHINA (Oudna)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="315247" name="UTHINA (Oudna) Tunisia" >}}
 
 ## Location Description
+
 Uthina was a town in the province of Africa Proconsularis, now northern Tunisia. Uthina became a Roman colony of veterans of Legio XIII Gemina during the reign of Emperor Augustus. Hence, it was mentioned by Ptolemy (IV, 3, 34), Pliny the Elder, and the Tabula Peutingeriana.
 
 From the accounts given by geographers the site seems to be the ruins that form the archeological site of Oudna, near a station on the railway from Tunis to Kef and not far from what was the World War II Oudna Airfield. These ruins occupy a surface nearly three miles in circumference, covering a hilly plateau, and commanding the left bank of the Milian wady; there are remains of a fortress, cisterns, an aqueduct, a triumphal arch, a theatre, an amphitheater, a basilica with a circular crypt, and a bridge. Many mosaics are to be found there as well.
 ## Garden
+
 House of Baklouti (Maison de Baklouti)
 
 ## Keywords
@@ -37,10 +40,12 @@ The peristyle garden enclosed by a portico on four sides had a long basin, which
 
 
 ## Plans
+
 {{< image file="house_of_baklouti.jpg" caption="Fig.1: Plan of the House of Baklouti" credit="(Baklouti, H., 1997, fig. 3)." alt="" >}}
 
 
 <!--## Images-->
+
 <!--Fig.1: Plan of the House of Icarios-->
 
 ## Dates

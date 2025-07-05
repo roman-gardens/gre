@@ -38,13 +38,7 @@ Located across the colonnaded street from West house was the House of the Sundia
 
 ## Maps
 
-<!--
--->
-
 <!--## Plans-->
-
-<!--
--->
 
 ## Images
 
@@ -60,11 +54,13 @@ Located across the colonnaded street from West house was the House of the Sundia
 unspecified
 
 ## Bibliography
+
 * A. Balil Iliana, 'Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana,' *Boletín del Seminario de Estudios de Arte y Arqueología, XXXIX*, Universidad de Valladolid (Valladolid 1973), 138-140.[(worldcat)](https://search.worldcat.org/title/7243478)
 * P. Sillières, M. Fincker, J.M. Labarthe,*Baelo Claudia: une cité romaine de Bètique*, Collection de la Casa de Velázquez 51 (Madrid 1995), 165-170.[(worldcat)](https://search.worldcat.org/title/431871350)
 
 
 ## Places
+
 - [House of the Sundial at Baelo]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="510567670" name="House of the Sundial at Baelo" >}}
 - {{< id vocab="TGN" id="8712326" name="Baelo Claudia (deserted settlement)" >}}

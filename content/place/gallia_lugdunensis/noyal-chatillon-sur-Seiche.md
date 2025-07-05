@@ -17,6 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="69488" name="Châtillon-sur-Seiche" >}}
 
 ## Garden
+
 Villa de Châtillon-sur-Seiche
 
 ## Keywords
@@ -64,9 +65,6 @@ A study of pollens and sediments below the levels of the Gallo-Roman villa in a 
 ## Plans
 
 {{< image file="noyal2.jpg" caption="Plans of Land Development Over Time." credit="" alt="Two maps with developed and labeled plans of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) from 180 A.D. or J.C. to the villa in the middle of the third century A.D. or J.C." >}}
-<!--
--->
-
 ## Images
 
 {{< image file="noyal_photo.jpg" caption="The Fountain Bassin." credit="" alt="A grainy photograph of an archaeological dig of the fountain bassin." >}}
@@ -74,9 +72,11 @@ A study of pollens and sediments below the levels of the Gallo-Roman villa in a 
 {{< image file="noyal_section.jpg" caption="Reconstructed cut of the Fountain Bassin." credit="" alt="A section drawing of a fountain. A female figure stands in the center with water spewing out of a column. There are two extra, unadorned pedastals in the fountain drawing before getting to the fountain's edge." >}}
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - Alain Provost, "La villa gallo-romaine de Chatillon-sur-Seiche," in the catalog of the exposition  *Nos ancêtres les Riedones*, Musée de Bretagne- Eco-musée du pays de Rennes, Rennes, 20 juin, 31 déc. 1990, p. 10-31 [(worldcat)](https://search.worldcat.org/title/715516488)
 - Gilles Leroux, Alain Provost, CAG- Ille-et-vilaine (35), p. 270-274. [(worldcat)](https://search.worldcat.org/title/463616145)
 

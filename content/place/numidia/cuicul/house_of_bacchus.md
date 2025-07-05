@@ -63,6 +63,7 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 {{< image file="house_of_bacchus_plan_new1.jpg" caption="Fig. 1: Plan of the House of Bacchus" credit="(Dans les jardins de Djemila, Blanchard-Lemée, M., 1998, p. 194, fig. 9)" alt="Plan of the House of Bacchus." >}}
 
 ## Images
+
 {{< image file="house_of_bacchus_plan_photo1.jpg" caption="Fig. 2: The small peristyle garden B and its semi circular basin" credit="(Février, P.-A. – CCJ 62889))" alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc" >}}
 
 {{< image file="pool_and_fish_pool.jpg" caption="Fig. 3: The pool and fish pool" credit="(Février, P.-A.– CCJ 62945)" alt="The pool and fish pool." >}}
@@ -86,4 +87,5 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 * Malek, A.-A. "De l'espace pictural à l'espace du jardin : mosaïques et jardins dans les domus de l'Afrique romaine", in *Archéologie des jardins: analyse des espaces et méthodes d'approches*, Van Ossel, P., Guimier-Sorbets, A.-M. (dir.), Archéologie et histoire romaine 26, Editions Monique Mergoil, 2014, p. 20. [(worldcat)](https://search.worldcat.org/title/869205223)
 
 ## Places
+
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}

@@ -22,6 +22,7 @@ Founded by Tyrians from Phoenicia, Carthage became the capital of a powerful emp
 Of the Roman period, the city plan is clearly recognizable. The plan takes as its central axis the summit of the acropolis of Byrsa that divided the city into four quarters of equal size except for the one situated to the northwest. The most remarkable monuments found in Carthage are the Baths of Antonius situated on the seashore at the foot of the hill of Borj Jedid and the villas that stretched along the Odeon's hill. From the Christian era, several basilicas were found. The necropolis that surrounded the city has also provided important information on the city.
 
 ## Garden
+
 House of the Aviary (Maison de la Volière)
 
 ## Keywords
@@ -38,6 +39,7 @@ House of the Aviary (Maison de la Volière)
 - {{< keyword "pools" >}}
 
 ## Garden Description
+
 Located on a hill overlooking Carthage, the *house of the aviary* is divided into two parts: the unit centered on the peristyle in the west, and the ensemble with the reception room in the east (Plan view, Fig. 1).
 
 In the center of the peristyle in the western part of the house was an octagonal area enclosed by a low wall 50 cm high. P. Gauckler, the original excavator, recognized the area as a *viridarium* (1). The Aviary mosaic covers the floor space between the portico and the octagonal garden (1). In the center of each corner of the mosaic was a deep cavity in which a tree was planted. There was a cistern beneath the peristyle. A *lararium* (7) with an aedicula bodes the northern portico of the peristyle garden.
@@ -47,23 +49,20 @@ In the eastern part of the house, a low wall with six semi-circular niches that 
 
 ## Maps
 
-<!--
--->
-
 ## Plans
-{{< image file="House_of_the_Aviary_final.jpg" caption="Fig. 1: Plan of the House of the Aviary" credit="(Malek, A.-A., 2014, p. 17 and 2018, fig. 12.10)." alt="Plan of the House of the Aviary at Karthago" >}}
-<!--
--->
 
+{{< image file="House_of_the_Aviary_final.jpg" caption="Fig. 1: Plan of the House of the Aviary" credit="(Malek, A.-A., 2014, p. 17 and 2018, fig. 12.10)." alt="Plan of the House of the Aviary at Karthago" >}}
 ## Images
 
 
 {{< image file="Drawing_detail_ House_of_the_Aviary.jpg" caption="Fig. 2: Reconstruction drawing of corner of the peristyle garden of the House of the Aviary." credit="(Malek,A.-A., 2018, fig. 12.9B)" alt="Detail Drawing of the House of the Aviary at Karthago" >}}
 
 ## Dates
+
 the end of 2nd-4th century CE
 
 ## Bibliography
+
 * Ben Osman, W., "Etude des pavements de la Villa de la Volière", p. 147, in *Mosaïque, Recueil d'hommage à Henri Stern*, Paris, 1983. [(worldcat)](https://search.worldcat.org/title/10727878)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 125-128. [(worldcat)](https://search.worldcat.org/title/989088620)
 * Ennabli, A., "La Maison de la Volière à Carthage: L'Architecture", p. 132, in *Mosaïque, Recueil d'hommage à Henri Stern*, Paris, 1983. [(worldcat)](https://search.worldcat.org/title/10727878)

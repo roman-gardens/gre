@@ -28,6 +28,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 ## Garden
+
 Villa de Larry
 
 ## Keywords
@@ -74,9 +75,11 @@ None Available
 None Available
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - J.-D. Laffite, A. Bressoud, M. Mondy, A. Lefèbvre, M. Feller, I. Dechanez-Clerc, J.-J. Bigot, É. Rouger, *LIÉHON (Moselle) « Larry » - Aéroport Metz-Nancy Lorraine*, rapport de fouille préventive 2003, INRAP GEN/ SRA DRAC Lorraine, Metz, 2005, 9 vol., 1378 p., 207 figures, 61 plates. [(worldcat)](https://search.worldcat.org/title/20955708)
 
 

@@ -27,6 +27,7 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- ## Sublocation Description -->
 
 ## Garden
+
 Rural Villa
 
 ## Keywords
@@ -51,19 +52,15 @@ None Available
 ## Plans
 
 None Available
-<!--
--->
-
 ## Images
 
 None Available
-<!--
--->
-
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - H. Mylius, "Die Rekonstruktion der römischen Villen von Nennig und Fliessem," Bonner Jahrbuch 129, 1924:120-128, fig. 3, pl. 7; E. M. Wightman, Roman Trier and the Treveri, London, 1970, pp. 143-145, fig. 15; H. Cüppers, ed., Die Römer in Rheinland-Pfalz, Stuttgart,1990, pp. 367-371, figs. 264-265. [(worldcat)](https://search.worldcat.org/title/1075378207)
 - E. M. Wightman, Roman Trier and the Treveri, London, 1970, pp. 143-145, fig. 15 [(worldcat)](https://search.worldcat.org/title/1001859813)
 - H. Cüppers, ed., Die Römer in Rheinland-Pfalz, Stuttgart,1990, pp. 367-371, figs. 264-265. [(worldcat)](https://search.worldcat.org/title/924024101)

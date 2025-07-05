@@ -42,18 +42,9 @@ A rock cut inscription at Salonae marks the spot where some time in the late sec
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
-<!--
--->
-
 ## Images
-
-<!--
--->
 
 ## Dates
 

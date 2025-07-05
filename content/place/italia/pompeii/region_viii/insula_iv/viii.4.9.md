@@ -13,20 +13,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region VIII]({{<relref "..">}})
 
 ## Insula
+
 [Insula IV]({{<relref ".">}})
 
 ## Keywords
@@ -38,16 +43,20 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 What was formerly a garden with a pool was converted into a large open area (a) by the demolition of some walls to the rear of the tablinium. Significant remnants of woolen and linen cloth were recovered from the area when it was excavated in 1860-1861 and this led Fiorelli to believe that the Stabian Baths just across the street used this area to wash clothes and dry them in the open.
 
 ## Plans
+
 {{< image file="fig.20.region_viii._insula_iv.png" caption="Plan of Region VIII Insula IV" credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
 - {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
+
 1860-1861
 
 ## Bibliography
+
 * Breton, *Pompeia*, 3rd ed. p. 469 [(worldcat)](https://search.worldcat.org/title/894211341)
 * Fiorelli, *Giornale degli scavi di Pompei* (1861), pp. 103-104, 386 [(worldcat)](https://search.worldcat.org/title/962518899)
 * Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, p. 4 [(worldcat)](https://search.worldcat.org/title/65043382)

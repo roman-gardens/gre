@@ -16,14 +16,17 @@ draft: false
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 ## Sublocation
+
 [Region II]({{<relref "..">}})
 
 <!-- pleiades link prompts for login
 ## House
+
 - {{< id vocab="Pleiades" id="243620947" name="II.iii.7/9" >}}
 -->
 
 ## Garden
+
 Commercial restaurant garden.
 
 ## Keywords
@@ -37,9 +40,11 @@ This garden restaurant was strategically located across from the Palaestra. This
 
 
 ## Dates
+
 1951-1953.
 
 ## Bibliography
+
 - Jashemski, Wilhelmina F, 1979. *The Gardens of Pompeii, Herculaneum, and the Villas Destroyed by Vesuvius,* New Rochelle: Aristide D. Caratzas, 1:176.  [worldcat](https://search.worldcat.org/title/884024123)
 - Jashemski, Wilhelmina F, 1993. *The Gardens of Pompeii, Herculaneum, and the Villas Destroyed by Vesuvius, vol.II*, p. 85. [worldcat](https://search.worldcat.org/title/769881162)
 - Della, Corte M. 1954. *Case Ed Abitanti Di Pompei. Pompei-scavi:*. [worldcat](https://search.worldcat.org/title/878618392)

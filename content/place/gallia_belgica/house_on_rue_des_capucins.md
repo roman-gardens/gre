@@ -29,6 +29,7 @@ A sublocation is any area larger than an individual garden, but located within a
 Durocortorum was mentioned by Caesar as the center of the Remi, a Celtic tribe that sided with the Romans against the Belgians. It then became a federated city, nominally independent.  Under Augustus, it became the capital of Gallia Belgica. Many vestiges indicate that it was densely settled and unusually extensive.  A network of water supply and sewers has been found; an aqueduct brought water from 40 kilometers.  The cardo and decumanus are still identifiable today by vestiges of four gates with arches, the northern one still standing; they cardo and decumanus intersect at the present Place Royale.  Today, the city is known for its magnificent Gothic cathedral and its fine champagnes.
 
 ## Garden
+
 House with Garden, rue des Capucins
 
 ## Keywords
@@ -50,17 +51,16 @@ None Available
 ## Plans
 
 None Available
-<!--
--->
-
 ## Images
 
 None Available
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - F. Berthelot, L'archéologie urbaine à Reims, in *L'archéologie en Champagne-Ardenne*, 1960-1990, *Bulletin de la société archéologique champenoise,* t. 85, 1992, 4, p. 283-287.  <!-- not on worldcat -->
 - A. Balmelle, R. Neiss, Les maisons de l'élite à *Durocortorum*, in Archéologie urbaine à Reims, *Bulletin de la société archéologique champenoise,* t. 96, 2003, 4, p. 73.  [(worldcat)](https://search.worldcat.org/title/718698064)
 

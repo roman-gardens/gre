@@ -12,20 +12,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region I]({{<relref ".">}})
 ## Insula
+
 [Insula VII]({{<relref "#">}})
 
 ## Keywords
@@ -100,6 +105,7 @@ C. Behind the [tablinum](http://vocab.getty.edu/page/aat/300004180), and seen fr
 -->
 
 ## Dates
+
 Excavated 1912 and 1925.
 
 ## Bibliography

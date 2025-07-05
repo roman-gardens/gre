@@ -25,15 +25,19 @@ draft: true
 
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 III
 
 ## House
+
 13-15
 
 ## Garden
+
 Casa A Graticcio
 
 
@@ -54,6 +58,7 @@ This multi-family dwelling was excavated in 1927-1929. There was a small paved c
 <!--## Images-->
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 

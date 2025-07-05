@@ -76,6 +76,7 @@ RELATED PHASES ON THE PALATINE:
 
 
 ## Figures
+
 {{< image file="domus_augustana_fig1.jpg" caption="Fig. 1: Plan of the Palatine with the indication of the garden area of the Lower Peristyle (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." credit="" alt="Plan of the Palatine" >}}
 
 {{< image file="domus_augustana_fig2.jpg" caption="Fig. 2: Plan of the Palatine with the indication of the garden area of the Upper Peristyle (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." credit="" alt="Plan of the Palatine" >}}

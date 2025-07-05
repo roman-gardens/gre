@@ -32,17 +32,16 @@ The lower right portion of a marble slab found in the vicinity of the Via del Ma
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
 ## Images
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - G. Vergantini, *La collezione epigrafica dei Musei Capitolini: Inediti – revisioni –contributi al riordino*, (Tituli 6), edited by S. Panciera (Rome 1987) 152-53 n. 72, Tav. XXXIX, 4. [worldcat](https://search.worldcat.org/title/848526529)
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 176 n. 4. [worldcat](https://search.worldcat.org/title/886794800)
 

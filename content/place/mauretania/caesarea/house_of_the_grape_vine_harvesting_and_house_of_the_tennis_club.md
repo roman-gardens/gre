@@ -61,10 +61,12 @@ The western dwelling was organized around a narrow peristyle garden, 8.5 by 16.5
 ## Images
 
 ## Dates
+
 4th-5th century CE
 ## Excavation Dates
 
 ## Bibliography
+
 * Baghli S.A., Février P.A., "Rcherches et travaux en 1966-1967", in *Bulletin d'archéologie algérienne*, t.2, 1966-1967, p.1. [(worldcat)](https://search.worldcat.org/title/491481018)
 * Ferdi S., *Corpus des mosaïques de Cherchel, Etudes d'Antiquités africaines*, Paris, 2005, p.149. [(worldcat)](https://search.worldcat.org/title/1006126274)
 * Lassus, J., *L'archéologie algérienne en 1958, Lybica, arch. épigr*. t.7, 2ème sem. 1959, p.251. [(haithitrust)](https://catalog.hathitrust.org/Record/008568139)

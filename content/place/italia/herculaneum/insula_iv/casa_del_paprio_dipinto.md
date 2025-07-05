@@ -25,15 +25,19 @@ draft: true
 
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 IV
 
 ## House
+
 8-9
 
 ## Garden
+
 Casa del Paprio Dipinto
 
 
@@ -56,6 +60,7 @@ This narrow house excavated in 1929-1932 had a small paved courtyard serving as 
 <!--## Images-->
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 

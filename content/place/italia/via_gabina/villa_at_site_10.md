@@ -17,6 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="622606468" name="Villa at site 10" >}}
 
 ## Sublocation
+
 Via Gabina
 
 ## Sublocation Description
@@ -48,20 +49,21 @@ These two sites represent a rare glimpse of the transformation of suburban Rome 
 
 ## Maps
 
-<!--
--->
-
 ## Plans
+
 {{< image file="fig04_recon_phase2d.jpg" caption="fig04_recon_phase2d" credit="" alt="" >}}
 
 ## Images
+
 {{< image file="fig05_recon_phase2d.jpg" caption="fig05_recon_phase2d." credit="" alt="" >}}
 {{< image file="fig06_10emboecus.jpg" caption="The Rape of Hylas." credit="" alt="fig06_10emboecus." >}}
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 -  J.B. Ward Perkins and A. Kahane, ed., *The Via Gabina*, Papers of the British School at Rome, 40 (1972), 91-126. [worldcat](https://search.worldcat.org/title/5542975846)
 - W. Widrig, *Two Sites on the Ancient Via Gabina*, British Museum Occasional Paper 24 (1980), 119-141. [worldcat](https://search.worldcat.org/title/277246450)
 - W. Widrig, *Land Use at the Via Gabina Villas*, Ancient Roman Villa Gardens (Dumbarton Oaks, 1987), 225-260. [worldcat](https://search.worldcat.org/title/848945186)

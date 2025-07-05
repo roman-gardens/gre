@@ -25,15 +25,19 @@ draft: true
 
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 V
 
 ## House
+
 8
 
 ## Garden
+
 Casa del bel Cortile
 
 ## Keywords
@@ -51,6 +55,7 @@ The illusion of a gardentrellis was created in this house withno garden by paint
 <!-- the following images are not in gre-images...insula_v -->
 
 ## Plans
+
 {{< image file="h_3_3-17.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 {{< image file="h_3_1-2_18-19.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
@@ -63,6 +68,7 @@ The illusion of a gardentrellis was created in this house withno garden by paint
 {{< image file="herc.iii.19-18.1-2-17.3.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
@@ -76,6 +82,7 @@ unspecified
 unspecified
 
 ## Bibliography
+
 - Maiuri,Herculaneum,p. 46
 - Idem, Ercolano,p. 338
 

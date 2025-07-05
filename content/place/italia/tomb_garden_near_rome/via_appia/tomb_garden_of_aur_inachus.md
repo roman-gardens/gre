@@ -12,13 +12,16 @@ draft: true
 ---
 
 ## Location
+
 - {{< id vocab="Pleiades" id="356966898" name="Via Appia" >}}
 - {{< id vocab="Pleiades" id="811119037" name="Tomb Garden of Aur(elius) Inachus" >}}
 
 ## Sublocation
+
 Via Appia
 
 ## Sublocation Description
+
 An early Roman road (via publica) originating at Rome and terminating at Brundisium, the Via Appia was begun in the fourth century B.C. by the censor Appius Claudius Caecus. The Latin author Statius described the Via Appia as "queen of the long roads".
 
 
@@ -37,9 +40,11 @@ An inscription found beside the Via Appia near the tomb of Cecelia Metella in 18
 
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - J. Bodel, *Roman Tomb Gardens*, Cambridge University Press, 2018, p. 236. [link](https://www.cambridge.org/core/books/gardens-of-the-roman-empire/roman-tomb-gardens/6BDAE36C21FFFADD3EB4E9CBD4BB8986)
 
 - G.-L. Gregori , *SHorti sepulchrales e cepotaphia nelle iscrizioni urbane*, Bullettino della Commissione Archeologica Comunale di Roma" [worldcat](https://search.worldcat.org/title/886794800)

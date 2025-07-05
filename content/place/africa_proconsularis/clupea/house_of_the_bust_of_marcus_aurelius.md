@@ -17,8 +17,10 @@ draft: true
 - {{< id vocab="Pleiades" id="314892" name="Aspis/Clupea" >}}
 
 ## Location Description
+
 The city was built along the slope of the hill several kilometers northwest of the present town. Excavations revealed the Capitol and an important residential district descending in successive levels towards the bank.
 ## Garden
+
 House of the Bust of Marcus Aurelius (Maison du Buste de Marc Aurèle)
 
 ## Keywords
@@ -41,33 +43,32 @@ The wing that is perpendicular to the northwest one was comprised of a series of
 Built over an older establishment, the house presents two main phases.  The main building dates from the 3rd quarter of the IInd century, with mosaic decoration from Severian times.
 ## Maps
 
-<!--
--->
-
 ## Plans
+
 {{< image file="houses_of_the_bust_of_Marcus_Aurelius.jpg" caption="Fig. 1: Plan of the House of Marcus Aurelius" credit="(Lassère, J.-M., Slim, H., 2010)" alt="Plan of the House of Marcus Aurelius">}}
 
 <!--{{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}}-->
 
 ## Images
 
-<!--
--->
-
 ## Dates
+
 2nd-3rd century CE
 
 ## Bibliography
+
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 84. [(worldcat)](https://search.worldcat.org/title/989088620)
 - Ennabli, A., "Rapport préliminaire de la fouille de la villa romaine de Kelibia", in *Africa*, 3 (1969-70), pp. 239-41.
 - Lassère, J.-M., Slim, H., *Maisons de Clupea. Les maisons de l'Ecole de pêche*, Paris, 2010, pp. 67-148. [(worldcat)](https://search.worldcat.org/title/701795957)
 
 ## Places
+
 - {{< id vocab="Pleiades" id="314892" name="Aspis/Clipea" >}}
 - {{< id vocab="TGN" id="7001037" name="Kelibia (inhabited place)" >}}
 
 <!--
 ## Related articles
+
 [House of the small Peristyle (Maison du petit péristyle)]({{<relref "house_of_the_small_peristyle.md">}})
 [House of the Two Hunts (Maison aux deux chasses)]({{<relref "house_of_the_two_hunts.md">}})
 -->

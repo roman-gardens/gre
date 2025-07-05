@@ -25,15 +25,19 @@ draft: true
 
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 IV
 
 ## House
+
 21
 
 ## Garden
+
 Casa dei Cervi
 
 
@@ -55,10 +59,12 @@ A. Of all the houses that overlooked the Bay on the south edge of the city, this
 B. and C. On either side of the *pergola* was a small garden (d)and (e) with an elegant room on the far side with a window to look out to the garden and a second window looking to the sea. The statuettes of Eros may have originally been placed in these rooms, swept away by the mud flow from the eruption.
 
 ## Plans
+
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 

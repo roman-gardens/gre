@@ -13,20 +13,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region VIII]({{<relref "..">}})
 
 ## Insula
+
 [Insula II]({{<relref ".">}})
 
 
@@ -42,18 +47,22 @@ A. The Sarno Bath is included in this block of irregular shaped houses, reached 
 B. The irregular shapes of the buildings created this triangular light well. Two large windows allowed light into the passageway from the street at entrance 20, which also received light from a third window before the passageway ended at the peristyle. The light well had a tufa gutter that drained to the east into a cistern that was accessed in the kitchen. There were likely some plantings in the light well, as well as on the four porticoed terraces to the rear, including the upper level terrace that did not survive.
 
 ## Plans
+
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_18_20_a.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 1-20" credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
 - {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
 
 ##  Excavation Dates
+
 Unspecified
 
 ## Bibliography
+
 * deVos A. and de Vos, M., *Pompei, Ercolano, Stabia*, p. 58 [(worldcat)](https://search.worldcat.org/title/492584380)
 * Jashemski, *Gardens*, vol. II, p. 207 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Koloski-Ostrow, *The Sarno bath complex*, no. 11 on fig. 1 (plan), no. 20 on fig. 1 (plan) [(worldcat)](https://search.worldcat.org/title/246688831)

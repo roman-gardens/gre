@@ -67,9 +67,11 @@ On the side of the corridor leading from the Severan Forum, there was a garden, 
 1938
 
 ## Bibliography
+
 *  Blanchard-Lemée, M., *Maisons à mosaïques du quartier central de Djemila (Cuicul)*, Paris, 1975, pp. 129-151. [(worldcat)](https://search.worldcat.org/title/461390883)
 *  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](https://search.worldcat.org/title/1090653355)
 *  Février, P.-A., "Note sur le développement urbain en Afrique du Nord, les exemples comparés de Djemila et de Sétif", in  *C.Arch.* , XIV, 1964, pp. 21-22, plan p. 14. [(worldcat)](https://search.worldcat.org/title/758540114)
 
 ## Places
+
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}

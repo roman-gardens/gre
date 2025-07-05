@@ -46,13 +46,7 @@ The chronology of the house is quite tentative.  A first phase, probably to be p
 
 ## Maps
 
-<!--
--->
-
 <!--## Plans-->
-
-<!--
--->
 
 ## Images
 

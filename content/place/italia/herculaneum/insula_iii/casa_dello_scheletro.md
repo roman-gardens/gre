@@ -25,15 +25,19 @@ draft: true
 
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 III
 
 ## House
+
 3
 
 ## Garden
+
 Casa dello Scheletro
 
 
@@ -52,10 +56,12 @@ GARDENS OF THE ROMAN EMPIREITALIA2center third is missing. In this panel the lat
 <!--## Maps-->
 
 ## Plans
+
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa dello Scheletro" credit="" alt="" >}}
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 

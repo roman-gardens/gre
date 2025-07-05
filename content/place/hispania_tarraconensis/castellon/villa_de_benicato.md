@@ -22,6 +22,7 @@ draft: true
 - {{< id vocab="Pleiades" id="266010" name="Pujol de Benicató" >}}
 
 ## Garden
+
 Villa de Benicató
 
 ## Keywords
@@ -36,9 +37,6 @@ The villa from the middle of the 2nd century evolved around a peristyle garden w
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
 {{< image file="his_tar_nul_v_benicato_fig1.jpg" caption="Fig. 1:  Plan of the Villa de Benicto." credit="Adapted from Gorges, Planche XXXIV." alt="Plan of Villa de Benicató at Nules, Castellón Province, Spain" >}}
@@ -46,13 +44,11 @@ The villa from the middle of the 2nd century evolved around a peristyle garden w
 
 ## Images
 
-<!--
--->
-
 <!--## Dates-->
 
 
 ## Bibliography
+
 - F. Gusi and C. Olaria : La villa romana de Benicató (Nules, Castellón). Cuadernos de Prehistoria y, Arqueología Castellonenses, 4, (1996) pp. 101-144. [(worldcat)](https://search.worldcat.org/title/802707581)
 
 ## Places

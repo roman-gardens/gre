@@ -13,20 +13,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region VIII]({{<relref "..">}})
 
 ## Insula
+
 [Insula III]({{<relref ".">}})
 
 ## Keywords
@@ -41,18 +46,22 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 This caupona had originally been part of a house according to Fiorelli. The unusual building had a garden (a) in the northeast corner that occupied over one quarter of the house and contained a masonry stibadium, (3.50 m. at the widest dimension), perhaps the only one in Pompeii. A monopodium supported the table and all of this was possibly shaded by a pergola. A portico on the west and south was supported by two square pillars on the south side which were painted with vines. The garden was enclosed by a low wall on the west and south with an entrance on the west.
 
 ## Plans
+
 {{< image file="fig.5._region_viii._insula_iii.png" caption="Plan of Region VIII Insula III" credit="" alt="" >}}
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
 - {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
+
 Unspecified
 
 
 ## Bibliography
+
 * Breton, *Pompeia*, pp. 497-498 and drawing of stibadium on p. 498 [(worldcat)](https://search.worldcat.org/title/894211341)
 * Dyer, *Pompeii*, p. 316 [(worldcat)](https://search.worldcat.org/title/24327166)
 * Fiorelli, *Descrizione di Pompei*, pp. 326-327 [(worldcat)](https://search.worldcat.org/title/252039996)

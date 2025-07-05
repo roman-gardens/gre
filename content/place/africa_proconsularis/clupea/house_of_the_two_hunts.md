@@ -17,8 +17,10 @@ draft: true
 - {{< id vocab="Pleiades" id="314892" name="Aspis/Clupea" >}}
 
 ## Location Description
+
 The city was built along the slope of the hill several kilometers northwest of the present town. Excavations revealed the Capitol and an important residential district descending in successive levels towards the bank.
 ## Garden
+
 House of the Two Hunts (Maison aux deux chasses)
 
 ## Keywords
@@ -37,30 +39,29 @@ The house is dated to the 5th-6th century AD on the base of the style of its mos
 
 ## Maps
 
-<!--
--->
-
 ## Plans
+
 {{< image file="House_of_the_Two_hunts_Kelibia1.jpg" caption="Fig. 1: Plan of the House of the Two Hunts" credit="(Ennaifer, M., 1994, pl. 94-106)" alt="Plan of the House of the Two Hunts at Clupea">}}
 
 ## Images
-<!--
--->
 
 ## Dates
 2nd-3rd, 5th-6th century CE
 
 ## Bibliography
+
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 80-83. [(worldcat)](https://search.worldcat.org/title/989088620)
 - Ennaifer, M., "La maison des Deux Chasses à Kélibia", in *Colloque de la mosaïque gréco romaine* VII, 1, 1994 (1999), pp. 233-250, pl. 94-106. [(worldcat)](https://search.worldcat.org/title/47894208)
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="314892" name="Aspis/Clipea" >}}
 - {{< id vocab="TGN" id="7001037" name="Kelibia (inhabited place)" >}}
 
 <!--
 ## Related articles
+
 [House of the Bust of Marcus Aurelius (Maison du Buste de Marc Aurèle)]({{<relref "house_of_the_bust_of_marcus_aurelius.md">}})
 [House of the small Peristyle (Maison du petit péristyle)]({{<relref "house_of_the_small_peristyle.md">}})
 -->

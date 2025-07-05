@@ -70,6 +70,7 @@ Four groups of structures lay in a somewhat staggered pattern. All opened onto g
 {{< image file="house_under_the_pasteur_parking_lot_phase2.png" caption="House under the Pasteur parking lot_phase2" credit="" alt="Fig.2 Plan of the House under the Pasteur parking lot, Phase 2" >}}
 
 <!--## Images-->
+
 ## Dates
 
 

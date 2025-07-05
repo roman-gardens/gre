@@ -25,15 +25,19 @@ draft: true
 
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 VI
 
 ## House
+
 1/7/8/10
 
 ## Garden
+
 Forum Baths
 
 ## Keywords
@@ -48,10 +52,12 @@ Forum Baths
 During 1873-1875 the courtyard (a) of the *palaestra* was excavated. A section of the northeast *portico* was not excavated until 1930. The courtyard measured 15.75 x 25.25 m. and was bounded by the *portico* on the west, north and east sides. Engaged columns stood along the south. This area was likely planted after the *palestra* was built. Although the original excavators labeled this as a garden, no detailed observations were recorded to confirm this supposition.
 
 ## Plans
+
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 

@@ -26,6 +26,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 - {{< id vocab="Pleiades" id="256338" name="Olisipo" >}}
 
 ## Garden
+
 Tomb Garden of Flavius M. f. Quadratus
 
 ## Keywords
@@ -38,23 +39,15 @@ An inscription found immured in the corner of a house near Lisbon around 1735 re
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
-<!--
--->
-
 ## Images
-
-<!--
--->
 
 <!--## Dates-->
 
 
 <!--## Bibliography
+
 - M. Heleno, 'A 'villa' lusitano-romano de Torre de Palma (Monforte),' O Arqueólogo Portugés ser 2, 6 (1962) p. 313-38. [(worldcat)](https://search.worldcat.org/title/517199729)
 - J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](https://search.worldcat.org/title/803415143)
 - S. J. Maloney and J. R. Hale, 'The villa of Torre de Palma (Alto Alentejo)' Journal of Roman Archaeology, vol. 9, 1996, p. 275-94. [(worldcat)](https://search.worldcat.org/title/51847498)-->

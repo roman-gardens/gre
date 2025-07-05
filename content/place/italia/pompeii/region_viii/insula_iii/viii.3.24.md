@@ -13,20 +13,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region VIII]({{<relref "..">}})
 
 ## Insula
+
 [Insula III]({{<relref ".">}})
 
 ## Keywords
@@ -41,17 +46,21 @@ A. The earthquake destroyed an elegant house on this site and this house was sub
 B. Backed up to the ancient caupona there was a second garden (b) next to the triclinium (c).
 
 ## Plans
+
 {{< image file="fig.5._region_viii._insula_iii.png" caption="Plan of Region VIII Insula III" credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
 - {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
+
 Unspecified
 
 
 ## Bibliography
+
 * Breton, *Pompeia*, pp. 497-498 and drawing of stibadium on p. 499 [(worldcat)](https://search.worldcat.org/title/894211341)
 * Fiorelli, *Descrizione di Pompei*, pp. 328, 330 [(worldcat)](https://search.worldcat.org/title/252039996)
 * Jashemski, *Gardens*, vol. II, p. 211 [(worldcat)](https://search.worldcat.org/title/1113367431)

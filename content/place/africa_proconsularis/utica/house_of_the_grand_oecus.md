@@ -17,6 +17,7 @@ draft: false
 - {{< id vocab="Pleiades" id="315248" name="UTICA (Utique) Tunisia" >}}
 
 ## Location Description
+
 Her geographic situation made of Utica one of the oldest and well-known Phoenician settlements. In 146 B.C, Utica became the capital of the newly created province of Africa and the residence of the governor. With the triumph of Caesar and the resurgence of Carthage, Utica's supremacy would gradually decline under the empire. In 36 B.C. it became a *municipium* and a colony under Hadrian.
 
 The city was laid out on a grid plan. Numerous buildings have been uncovered, among them the forum, several temples and baths, an amphitheater, a circus, and opulent houses. Many of these buildings of the Republican period were, during the imperial era, replaced by others larger and more luxurious. This explains the existence of two theaters for example, the one fitted into the side of the hill, the other built in open country. Enormous cisterns were constructed, fed by an aqueduct. Still extant on the summit of the acropolis overlooking the town, is a quadrangular edifice habitually referred to as "the citadel," which could perhaps be simply a water tower.
@@ -41,6 +42,7 @@ This house is the most important dwelling discovered to date at Utica. The large
 <!--## Maps-->
 
 ## Plans
+
 {{< image file="AFR_Uti_Hgo_Wjashemski1.jpg" caption="Fig.1: Plan of the House of the Grand Oecus (CMT, plans 1, 2)." credit="" alt="Fig.1: Plan of the House of the Grand Oecus." >}}
 
 <!--## Images-->
@@ -51,6 +53,7 @@ This house is the most important dwelling discovered to date at Utica. The large
 1st-2nd century CE
 
 ## Bibliography
+
 * Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.341-343. [(worldcat)](https://search.worldcat.org/title/989088620)
 * Dulière, C., Ben Baaziz, S., et al., *Corpus des Mosaïques de Tunisie*, *Utique, Les Mosaïque in situ en dehors des insulae I-II-III, INA*, Tunis, 1974, pp. 1-18, plans 1, 2. [(worldcat)](https://search.worldcat.org/title/905773599)
 

@@ -17,6 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
 
 ## Province Description
+
 Despite the prior existence of urban centers like Metellinum, the capital of Lusitania was a new foundation, the Colonia Augusta Emerita (Mérida), which would also serve as the capital of one of the smaller juridical units (conventus) and would be the scene of flourishing activity in the succeeding centuries, its prosperity lasting until the late Roman and Visigothic era.  Subsequently, a series of well-known Roman cities were built in what was then Lusitania but is now partly in Portugal and partly in Spain. As well as the capital, there were Conimbriga, Salmantica, Evora, Olisipo (now Lisbon), Pax Iulia (now Beja), and Metallium Viscascense (Aljustrel), this last recognized as the capital of an important mining area. The series of wealthy villae, such as that of La Cocosa, Milreu or San Cucufate are particularly noteworthy.  Another of the important elements of the Roman era is the series of still visible ways of communication, of which the Vía de la Plata has most remaining, especially in the sections of Baños de Montemayor in Cáceres or the bridges that cross the rivers, such as that of San Pedro de Alcántara, or of Mérida.
 
 
@@ -26,6 +27,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 - {{< id vocab="Pleiades" id="256155" name="Emerita Augusta" >}}
 
 ## Location Description
+
 Geopolitical and economic motives together facilitated the prosperity of this great center of the Iberian peninsula. Marcus Vipsanius Agrippa, son-in-law of the emperor, was a benefactor of Augusta Emerita. The city was situated on the right bank of the Anas River (Rio Guardiana), today the Guadiana River. The site had the advantage of an easily crossed ford at the mouth of the Barraeca River (Rio Albarregas), and was an ideal site for surveillance and defense.  The area immediately surrounding Augusta Emerita had rich granite quarries, sands from the riverbed, and other types of rock for the new constructions.  The city's topography determined the new rectilinear urban layout.  The variations in ground level, due to small hills in the land, probably necessitated terracing, which is still discernible in today's modern network of streets. The bridge over the Guadiana, the longest in the peninsula with a length of almost 800 meters, provided the N-S axis to which the street grid was aligned. The new colony also had an ambitious system of urban drainage. The sewers and water lines form a complete underground complex of canals. The works of hydraulic engineering, whose dates of construction and later stages of development are debated, support the notion that Augusta Emerita was a city with a grand, forward-looking vision.
 
 At the intersection of the decumanus and cardo were two fora, one for the city's functions and one for the Province's functions. Some of the monumental buildings have been excavated. The Mérida fora, whose layouts resemble those in the other western imperial provinces, have iconographic programs that resemble those of Rome; the forum of Augusta Emerita is a particularly faithful reflection of the Forum Augustum. This imitative trend appears also in the two other provincial capitals of Hispania, Tarraco and Corduba and underscores the power which Augustan images and architecture had in the political, ideological fabric of the provinces.
@@ -36,6 +38,7 @@ Because most of evidence from Merida was unearthed in old excavations, the conte
 
 
 ## Bibliography
+
 - I. C. Moreno, "Los jardines de Mérida," *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
 
 ## Garden
@@ -62,9 +65,6 @@ The lower part of the walls of the peristyle were painted with a dado of small r
 West-southwest of the peristyle, a group of interesting chambers were arrayed around a delightful garden of ample proportions. The latter consisted of a rectangular space surrounded by stucco-clad granite columns on all four sides as well as a channel running around the perimeter just in front of the columns, except on the west side where the channel curves inward to form a semi-circle. The interior of this space was clearly gardened, although the excavators found no clue as to its original appearance. On the extreme south side, attached to one of the columns, are the partial remains of a peculiar brick structure which had a hole in its lower part for the passage of water. Its function is unclear. The pictorial decoration of this viridarium resembles that of the peristyle's dado.
 
 The passage formed by the north colonnade gave access to three chambers, the middle one a triclinium, with mosaic pavements and wall dados painted with birds and vegetal themes. On the west side, facing the garden's exedra, was a chamber with Bacchic murals (now in the Museo Nacional de Arte Romano) and below its floor, a great barrel-vaulted cistern. On the south side, several rooms formed what may have been a cubiculum (bedroom) with mosaics whose themes included Eros with a dove. Two subterranean rooms in the southeast corner of this same group probably provided cool refuge from the summer heat.
-
-<!--
--->
 
 ## Plans
 

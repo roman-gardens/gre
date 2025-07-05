@@ -12,20 +12,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region I]({{<relref ".">}})
 ## Insula
+
 [Insula V]({{<relref "#">}})
 
 ## Keywords
@@ -35,6 +40,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "tablina" >}}
 
 ## Garden
+
 Officina Coriariorum of M. Vesonius Primus (tannery) with a [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden and large open space to the rear.
 
 ## Keywords
@@ -60,6 +66,7 @@ B. The south half of the insula was also excavated in 1873-74. It was accessed f
 <!-- ## Images -->
 
 ## Dates
+
 Excavated 1873-1874.
 
 ## Bibliography

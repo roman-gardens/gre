@@ -22,6 +22,7 @@ The city of Neapolis that bears a Greek name meaning the "new city," is located 
 
 
 ## Garden
+
 House of the Nymphs (Maison des Nymphes)
 
 ## Keywords
@@ -37,6 +38,7 @@ House of the Nymphs (Maison des Nymphes)
 - {{< keyword "Virgil" >}}
 
 ## Garden Description
+
 This large house (1500m²) laid-out around a peristyle-garden is known for its mosaic pavements figuring Homeric scenes. The peristyle is entered from the S. The N wing had a vast *oecus-triclinium* bordered on both sides by two apartments that each had two rooms and a passage to a pseudo-atrium (Plan view, Fig.1).
 
 The peristyle was trapezoidal in shape (8.29 x 9 x 16. 15 m) and was bordered by 12 columns. Four porticos, 5m wide, enclosed the garden. The semicircular pool facing the *oecus-triclinium*, that projected into the garden was paved with a mosaic depicting a mask of Ocean among fishes and had an inscription "NYMFARUM DOMUS" quoting a passage from Virgil's Aeneid. According to the excavator, J.-P. Darmon, a row of broken amphoras that had served as planting pots were found along the central axis of the garden facing the *oecus* and the basin (Fig.2)
@@ -44,14 +46,9 @@ The peristyle was trapezoidal in shape (8.29 x 9 x 16. 15 m) and was bordered by
 
 ## Maps
 
-<!--
--->
-
 ## Plans
-{{< image file="afr_nea_hn_amalekfig2.jpg" caption="Fig.1: Plan of the House of the Nymphs." credit="(Darmon, J.P., 1980, p. 9, pp. 85-6 et p. 146.)" alt="Plan of the House of the Nymphs at Neapolis">}}
 
-<!--
--->
+{{< image file="afr_nea_hn_amalekfig2.jpg" caption="Fig.1: Plan of the House of the Nymphs." credit="(Darmon, J.P., 1980, p. 9, pp. 85-6 et p. 146.)" alt="Plan of the House of the Nymphs at Neapolis">}}
 
 ## Images
 
@@ -62,9 +59,11 @@ The peristyle was trapezoidal in shape (8.29 x 9 x 16. 15 m) and was bordered by
 {{< image file="detail_of_the_basin.jpg" caption="Fig.4: Detail of the basin with the inscription Nymfarum Domus." credit="(Malek, A.-A., 2018, fig. 12.11B)" alt="Detail of the pool with inscription">}}
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 179-182. [(worldcat)](https://search.worldcat.org/title/989088620)
 * Darmon, J.P., *Nymfarum domus, Les pavements de la maison des Nymphes à Néapolis (Nabeul, Tunisie) et leur lecture*, Leiden, 1980, p. 9, pp. 85-6 et p. 146. [(worldcat)](https://search.worldcat.org/title/797872994)
 * Malek, A.-A., "Entre jardin et mosaïque: La verticalité et le merveilleux dans la vie quotidienne", in *La Maison Gréco-romaine IX*, Collection de l'Ecole Française de Rome n°352, Rome, 2005, p. 1335-1346. [(worldcat)](https://search.worldcat.org/title/109642973)

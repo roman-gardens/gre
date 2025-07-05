@@ -17,8 +17,10 @@ draft: true
 - {{< id vocab="Pleiades" id="108751" name="Cologne" >}}
 
 ## Location Description
+
 This large town on the west bank of the Rhine river was the *civitas* capital of the [Ubii](link) in the first half of the 1st century A.D. It was granted the status of colonia by [Claudius](link) in 50 and became the provincial capital in 85.
 ## Garden
+
 Urban house on Wolfsstrasse (Colonia Claudia Ara Agrippinensium)
 
 ## Keywords
@@ -38,24 +40,22 @@ The peristyle courtyard was ca. 7 m. wide and 11.30 m. long. Both faces of the w
 
 ## Maps
 
-<!--
--->
-
 ## Plans
+
 {{< image file="cologne_wolfstrasse__plan1_EUR_GI_ColClaAA_Uhw_carroll.jpg" caption="Plan 1: Plan of the partially excavated courtyard house with a possible garden (G) containing a well (W) on Wolfsstraße." credit="Adapted from Carroll-Spillecke 1997, fig. 7." alt="Plan of the Urban house on Wolfsstrasse at Colonia Claudia Ara Agrippinensium (Cologne)">}}
 
 ## Images
 
-<!--
--->
-
 ## Dates
+
 Middle of the first century CE until the fourth century CE
 
 ## Bibliography
+
 - M. Carroll-Spillecke, "Ausgrabungen in einem römischen Wohnviertel in der Wolfsstraße/Richmodstraße in Köln," *Kölner Jahrbuch* 30 (1997): 415-31. [(worldcat)](https://search.worldcat.org/title/638867317)
 
 ## Places
+
 - {{< id vocab="Pleiades" id="108751" name="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
 - {{< id vocab="TGN" id="7004446" name="Cologne (inhabited place)" >}}
 

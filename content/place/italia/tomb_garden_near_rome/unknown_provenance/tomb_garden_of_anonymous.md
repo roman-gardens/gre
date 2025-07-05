@@ -32,17 +32,16 @@ A fragmentary opisthographic slab of unknown urban provenance, now in the Lapida
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
 ## Images
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 177 n. 10. [worldcat](https://search.worldcat.org/title/886794800)
 
 ## Places

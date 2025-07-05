@@ -13,21 +13,26 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region VIII]({{<relref "..">}})
 
 ## Insula
+
 [Insula II]({{<relref ".">}})
 
 
@@ -42,18 +47,22 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 The room (b) to the east had a good view into this garden (a) which was located to the rear of the tablinium. A column supported portico bordered the garden on the east and south.
 
 ## Plans
+
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_13.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 1-20" credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
 - {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
 
 ##  Excavation Dates
+
 Unspecified
 
 ## Bibliography
+
 * Fiorelli, *Descrizione di Pompei*, pp. 444-445 [(worldcat)](https://search.worldcat.org/title/908272023)
 * Jashemski, *Gardens*, vol. II, p. 205 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1892), p. 3 and pl. 1 (plan) [https://search.worldcat.org/title/860559196)

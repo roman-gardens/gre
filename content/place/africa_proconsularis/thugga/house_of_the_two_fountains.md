@@ -12,6 +12,7 @@ draft: true
 ---
 
 ## Location
+
 - [THUGGA (Douga) Tunisia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="315223" name="THUGGA (Douga) Tunisia" >}}
 
@@ -48,6 +49,7 @@ This house in the W of the market may have had a peristyle garden enclosed by a 
 ## Dates
 
 ## Bibliography
+
 *  Poinssot, C., Les ruines de Dougga, Tunis, 1958, p. ???[(worldcat)](https://search.worldcat.org/title/804952011)
 * C. Poinssot, Les ruines de Dougga, Tunis, 1983[(worldcat)](https://search.worldcat.org/title/475099061)
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.264-265. [(worldcat)](https://search.worldcat.org/title/989088620)

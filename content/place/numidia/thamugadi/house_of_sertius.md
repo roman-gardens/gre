@@ -12,6 +12,7 @@ draft: false
 ---
 
 ## Province
+
 - [Numidia]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
 
@@ -32,6 +33,7 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 
 
 ## Garden
+
 House of Sertius (Maison de Sertius)
 
 ## Keywords
@@ -48,22 +50,16 @@ This large *domus* the result of the combining of two houses, is located at the 
 
 ## Maps
 
-<!--
--->
-
 ## Plans
-{{< image file="house_of _sertius.jpg" caption="Fig. 1: Plan of the House of Sertius" credit="(Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 152)" alt="Plan of the House of Sertius at Thamugadi">}}
-<!--
--->
 
+{{< image file="house_of _sertius.jpg" caption="Fig. 1: Plan of the House of Sertius" credit="(Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 152)" alt="Plan of the House of Sertius at Thamugadi">}}
 ## Images
-<!--
--->
 
 ## Dates
 3rd-5th century CE?
 
 ## Bibliography
+
 *  Boeswillwald, E., Cagnat, R., Ballu, A., *Timgad une cité africaine sous l'Empire romain*, Paris, 1905; pp. 326-333, plan fig. 152. [(worldcat)](https://search.worldcat.org/title/898850651)
 * Courtois, C., *Timgad, antique Thamugadi*, Paris, 1951, p 53, plan with scale. [(worldcat)](https://search.worldcat.org/title/23396951)
 *  Germain, S. *Les mosaïques de Timgad*, Paris, 1969, p. 59. [(worldcat)](https://search.worldcat.org/title/643640586)

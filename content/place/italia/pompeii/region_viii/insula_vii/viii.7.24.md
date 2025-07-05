@@ -13,20 +13,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region VIII]({{<relref "..">}})
 
 ## Insula
+
 [Insula VII]({{<relref ".">}})
 
 ## Keywords
@@ -36,19 +41,24 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "triclinia (rooms)" >}}
 
 ## Garden Description
+
 The rooms adjoining the atrium of this house, excavated in 1795-1798, had been converted to a sculptor's workshop. To the left of the atrium and up fifteen steps was a garden (a) with a surrounding portico and a fountain in the center. The triclinium to the north offered a view of the garden and the fountain.
 
 ## Plans
+
 {{< image file="fig.28.region_viii.insula_vii.24-27.png" caption="Fig. 28, Plan of Region VIII, Insula VII, 24-27" credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
 - {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
+
 Unspecified
 
 ## Bibliography
+
 * Fiorelli, *Descrizione di Pompei*, p. 357 [(worldcat)](https://search.worldcat.org/title/1198324804)
 * Jashemski, *Gardens*, 1:198 [(worldcat)](https://search.worldcat.org/title/1047945215)
 * Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](https://search.worldcat.org/title/1113367431)

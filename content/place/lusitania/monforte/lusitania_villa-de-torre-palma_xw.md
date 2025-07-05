@@ -26,6 +26,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 - {{< id vocab="Pleiades" id="256478" name="Torre de Palma" >}}
 
 ## Garden
+
 Villa de Torre de Palma
 
 ## Keywords
@@ -47,9 +48,6 @@ The third phase distinguished by Maloney and Hale covered several building campa
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
 {{< image file="HIS LUS_Torre de Palma_plan fig1.jpg" caption="Fig. 1: Torre de Palma, Plan of all exposed walls. From Maloney and Hale, p. 277." credit="" alt="Plan of Villa de Torre de Palma at Monforte Province, Spain" >}}
@@ -68,6 +66,7 @@ The third phase distinguished by Maloney and Hale covered several building campa
 
 
 ## Bibliography
+
 - M. Heleno, 'A 'villa' lusitano-romano de Torre de Palma (Monforte),' O Arqueólogo Portugés ser 2, 6 (1962) p. 313-38. [(worldcat)](https://search.worldcat.org/title/517199729)
 - J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](https://search.worldcat.org/title/803415143)
 - S. J. Maloney and J. R. Hale, 'The villa of Torre de Palma (Alto Alentejo)' Journal of Roman Archaeology, vol. 9, 1996, p. 275-94. [(worldcat)](https://search.worldcat.org/title/51847498)

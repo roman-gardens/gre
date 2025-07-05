@@ -12,6 +12,7 @@ draft: true
 ---
 
 ## Province Description
+
 Sicily, the largest island in the Mediterranean, was colonised by Greeks from the later eighth century B. C., with Syracuse becoming the largest and most powerful Greek polis; in time most of the indigenous settlements of the interior also became profoundly Hellenized. The western tip of the island was settled by Phoenicians and later became an outpost of Carthaginian control. In the third century B. C. Sicily became embroiled in the First Punic War which resulted in Rome's acquisition of the island as its first overseas provincia in 241 B. C.; in 211 B. C. Sicily was above all famed for its agricultural fertility and its capacity to produce exceptional grain yields (wheat and barley), and to a lesser extent wine. By the time of the Roman Empire the principal flourishing cities were located on the coast, with much of the interior given over to scattered agricultural villages, villas and farms.
 
 ## Region
@@ -37,9 +38,6 @@ PUBLIC GARDEN, Syracuse
 In the Roman period, the clearest evidence for the presence of a formal garden in a public place comes from Syracuse, where an impressive piazza, 175 by 45 meters, was laid out early in the Augustan period on the west side of the third-century B. C. Altar of Hieron (Fig. 2). A U-shaped stoa was erected on three sides, with fourteen columns on the short sides and sixty-four on the long; the Altar itself formed the fourth. Within the area enclosed by this portico, a large rectangular basin was erected in the center, with steps at the corners and a statue base in the middle; a drain led away from the basin westwards under the portico. The open space around the basin was planted systematically with five rows of trees, thirty-two trees in the two outermost rows, and twenty-six in each of the rows interrupted by the pool; there were thus 142 trees (of unknown species) in all (Fig. 3). The arrangement, with its central pool, trees and surrounding porticoes, recalls similar monuments in Campania, such as the Great Palaestra, also of Augustan date, at Pompeii (see Vol. 1, no.), and the Palaestra at Herculaneum (see Vol. 1, no.). The function of the Syracuse square is unknown, but it must have been principally intended as a pleasant park where the townsfolk of Syracuse could stroll, especially, perhaps, when attending events staged in the nearby amphitheater.
 
 ## Maps
-
-<!--
--->
 
 ## Plans
 

@@ -17,6 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="109193" name="Neerhaaren-Rekem" >}}
 
 ## Garden
+
 Rural villa at Neerhaaren-Rekem
 
 ## Keywords
@@ -34,14 +35,17 @@ The facade of this modest house of a *villa rustica* near the [Meuse river](http
 <!-- ## Maps -->
 
 ## Plans
+
 {{< image file="neerhaaren-rekem_plan1_EUR_GI_NeeRek_Rv_carroll.jpg" caption="Plan 1. Plan of the farm house at Neerhaaren-Rekem with a possible arbor leading to the door and a pool (grey) between the posts of the arbor." credit="Plan adapted from De Boe, De Bie and Van Impe 1992, fig. 288." alt="" >}}
 
 <!-- ## Images -->
 
 ## Dates
+
 Late first century CE
 
 ## Bibliography
+
 - G. De Boe, M. De Bie, and L. Van Impe, "Heerharen-Rekem. Die komplexe Besiedlungsgeschichte einer vor den Kiesbaggern geretteten Fundstätte," in *Spurensicherung. Archäologische Denkmalpflege in der Euregio Maas-Rhein*, Mainz, 1992, pp. 490-493, fig. 288. [worldcat](https://search.worldcat.org/title/475480390)
 - P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule*, Paris, 1992, pp. 297-300, fig. 105. [worldcat](https://search.worldcat.org/title/445007864)
 

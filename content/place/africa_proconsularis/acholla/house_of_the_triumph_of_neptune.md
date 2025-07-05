@@ -17,8 +17,10 @@ draft: true
 - {{< id vocab="Pleiades" id="324653" name="Acholla" >}}
 
 ## Location Description
+
 The city of Acholla was established forty-five km north of Sfax, along the seashore of the coast of Bysacena. When the city took sides with Rome in the third Punic war, Acholla was rewarded with the status of a free city. Later, under Hadrian, the city became a municipum. Production of oil from the countryside, inner cities of Bararus and Thysdrus, and commerce by sea made Acholla, with its harbor, a prosperous town.  Two baths and a series of houses testify to the wealth of the inhabitants of Acholla by the opulence and the originality of their mosaic décor. The mosaic decor gives evidence to the presence of one of the first mosaic workshops in Africa.
 ## Garden
+
 House of the Triumph of Neptune (Maison du Triomphe de Neptune)
 
 ## Keywords
@@ -41,21 +43,18 @@ Another possible garden(X) was adjacent to the reception room of the northern ai
 
 ## Maps
 
-<!--
--->
-
 ## Plans
+
 {{< image file="House_the_Triumph_of_Neptune2.jpg" caption="Plan of the House of the Triumph of Neptune" credit="(Gozlan, S., Bourgeois, A., 1992, plan II)" alt="" >}}
 
 ## Images
 
-<!--
--->
-
 ## Dates
+
 150-170 A.D.
 
 ## Bibliography
+
 - Blanc-Bijon, V., "Peintures murales antiques à *Acholla* (Tunisie)", in *Antike Malerei zwischen Lokalstil und Zeitstil, Tafelband : Akten des XI. Internationalen Kolloquiums der AIPMA, 13.-17. September 2010 in Ephesos*, ed. Zimmermann, N., Wien, Verlag der Österreichischen Akademie der Wissenschaften, 2015, pp.695-699. [(worldcat)](https://search.worldcat.org/title/1030820977)
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 8-11. [(worldcat)](https://search.worldcat.org/title/989088620)
 - Gozlan, S., Bourgeois, A., *La maison du Triomphe de Neptune à Acholla (Botria, Tunisie) ; I – Les mosaïques* (Collection de l'EFR, 160), Rome, INAA – EFR, 1992. [(worldcat)](https://search.worldcat.org/title/860317924)
@@ -63,9 +62,11 @@ Another possible garden(X) was adjacent to the reception room of the northern ai
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="324653" name="Acholla" >}}
 - {{< id vocab="TGN" id="5003657" name="Henchir Bou Tria (deserted settlement)" >}}
 
 <!--## Related articles
+
 [House of Asinus Rufinus (Maison d'Asinus Rufinus)]({{<relref "house_of_asinus_rufinus.md">}})
 -->

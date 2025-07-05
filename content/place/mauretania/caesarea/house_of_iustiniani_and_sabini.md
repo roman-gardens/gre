@@ -75,5 +75,6 @@ In the southwestern corner, a small room protrudes into the gallery and opens in
 
 <!--
 ## Places
+
 -->
 <!-- {{< id vocab="Pleiades" id="278428164" name="278428164" >}} is invalid -->

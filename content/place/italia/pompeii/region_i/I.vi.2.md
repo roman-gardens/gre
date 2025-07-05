@@ -12,23 +12,29 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region I]({{<relref ".">}})
 ## Insula
+
 [Insula VI]({{<relref "#">}})
 
 ## Keywords
+
 <!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "atriums" >}}
 - {{< keyword "busts" >}}
@@ -45,6 +51,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ## Garden
+
 House of the Cryptoporticus; Casa Del Crirtoportico; Casa Omerica; House of T. Lucretius Carus.
 
 
@@ -67,10 +74,12 @@ B. At the rear of the house, a large enclosed garden had been increased in size 
 
 
 ## Dates
+
 Excavated 1911-1929.
 
 
 ## Bibliography
+
 * Della Corte, M. *NSc* (1914), pp. 74-75, 228.
 * Fiorelli, G. 1875. *Descrizione di Pompei*, pp. 452-453. [(worldcat)](https://search.worldcat.org/title/908272023)
 * Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 33-34. [(worldcat)](https://search.worldcat.org/title/921816405)

@@ -12,9 +12,11 @@ draft: true
 ---
 
 ## Location
+
 - {{< id vocab="Pleiades" id="422959" name="Laurentes" >}}
 
 ## Sublocation
+
 laurentinum
 
 ## Sublocation Description
@@ -54,19 +56,19 @@ Luckily a small part of it was preserved, and here we still find the low parapet
 
 ## Maps
 
-<!--
--->
-
 ## Plans
+
 {{< image file="102 - Pliny times.jpg" caption="102 - Pliny times" credit="" alt="102 - The Lauretinum as it was in Pliny's times" >}}
 {{< image file="103 - Severian Laurentinum.jpg" caption="1103 - Laurentinum in Severian times" credit="" alt="103 - Laurentinum in Severian times. Map of the excavations and surface remains." >}}
 {{< image file="104 - Excav, Laurentinum.jpg" caption="104 - Excavations and survey of  the Cryptoporch and the Severian changes" credit="" alt="" >}}
 
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - COLINI 1985 = A. M. COLINI., *Tra Castel Fusano e Capocotta: il vicus Augustanus e le ville di Ortensio e di Plinio il Giovane*, Sin AA. VV., Capocotta ultima spiaggia. Proposta per il parco naturalistico-archeologico del litorale romano, Roma 1985, pp. 79-87. [worldcat](https://search.worldcat.org/title/462024461)
 
 - SALZA PRINA RICOTTI 1984 = E. SALZA PRINA RICOTTI, , *La c.d. Villa Magna: il Laurentinum di Plinio il Giovane*, RendLinc 39 (1984), pp. 339-358 [worldcat](https://search.worldcat.org/title/15561411)

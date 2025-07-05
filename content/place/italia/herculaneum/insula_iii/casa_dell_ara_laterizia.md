@@ -25,15 +25,19 @@ draft: true
 
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 III
 
 ## House
+
 17
 
 ## Garden
+
 Casa dell'Ara Laterizia
 
 ## Keywords
@@ -52,6 +56,7 @@ Because it was one of the largest houses in Herculaneum commanding a fine view o
 <!--## Maps-->
 
 ## Plans
+
 {{< image file="h_3_3-17.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 <!--
@@ -67,6 +72,7 @@ Image not yet in gre-images
 {{< image file="herc.iii.19-18.1-2-17.3.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
@@ -80,6 +86,7 @@ unspecified
 1835-1855
 
 ## Bibliography
+
 - Maiuri, *Ercolano*, p. 422 and fig. 359 (plan) on p. 420.
 - A.C. *BdI* (1835),p. 129 [(worldcat)](https://search.worldcat.org/title/504636074)
 - Maiuri, *Herculaneum*, pp. 26-27 [(worldcat)](https://search.worldcat.org/title/1107784297)

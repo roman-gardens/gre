@@ -12,20 +12,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region I]({{<relref ".">}})
 ## Insula
+
 [Insula III]({{<relref "#">}})
 
 ## Keywords
@@ -38,6 +43,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 
 
 ## Garden
+
 [Peristyle](http://vocab.getty.edu/page/aat/300080971) garden at the rear of the Casa Della Grata Metallica (also known as the Casa Dell'Atrio Tetra-Stilo).
 
 ## Garden Description
@@ -57,9 +63,11 @@ At the rear of the house there was a [peristyle](http://vocab.getty.edu/page/aat
 * Warscher, T. 1937-1957. *Codex Topographicus Pompeianus*, nos.54-57 [(worldcat)](https://search.worldcat.org/title/974375313)
 
 ## Places
+
 - {{< id vocab="Pleiades" id="222138654" name="Regio I, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
+
 Excavated 1873.
 

@@ -26,6 +26,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 - {{< id vocab="Pleiades" id="256109" name="La Cocosa" >}}
 
 ## Garden
+
 Villa de La Cocosa
 
 ## Keywords
@@ -46,9 +47,6 @@ Besides the central peristyle, there are several other areas that were possibly 
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
 {{< image file="HIS_LUS_LaCocosa_plan fig1.jpg" caption="Fig. 1: La Cocosa section.  Structure around perimeter of peristyle." credit="Adapted from Serra Ráfols, figure 4." alt="plan of Villa de La Cocosa at La Cocosa Province, Spain." >}}
@@ -61,6 +59,7 @@ Besides the central peristyle, there are several other areas that were possibly 
 
 
 ## Bibliography
+
 - J. de C. Serra Rafols, La villa romana de la Dehesa de 'La Cocosa'. Badajoz, 1952. [(worldcat)](https://search.worldcat.org/title/17319391)
 - J. de C. Serra Rafols, 'A propósito de la villa de La Cocosa. Rectificación.' In Archivo Español de Arqueología, XXVI. CSIC, Madrid, 1953, p. 302. [(worldcat)](https://search.worldcat.org/title/1122498001)
 - J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](https://search.worldcat.org/title/803415143)

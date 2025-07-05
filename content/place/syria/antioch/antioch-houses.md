@@ -17,12 +17,14 @@ draft: true
 - {{< id vocab="Pleiades" id="658381" name="Antioch" >}}
 
 ## Location Description
+
 Antioch on the Orontes was founded by the Macedonian general Seleucus I as the capital of his Syrian empire, following the breakup of Alexander's empire (ca. 300 BCE).  He selected the site at the edge of the fertile Amuk Plain at the crossroads of important trade routes linking Syria with Palestine, the Mediterranean, and Asia Minor. Antioch was also the capital of the Roman province of Syria, annexed in 64 BCE. In the Augustan period Strabo (16.2.5) compares Antioch favorably to Alexandria in power and size. It was built along the banks of the River Orontes below the craggy heights of Mount Silpios. Because of its advantageous location, Antioch became a cultural, religious, and commercial center in the Roman period. The presence of an imperial residence, as well as buildings for the staging of athletic contests modeled after the Olympic Games, a sanctuary of Apollo, and thermal spa at Daphne, contributed to its renown in the ancient world.
 
 <!--## Sublocation-->
 
 
 ## Garden
+
 Private Houses at Antioch
 
 ## Keywords
@@ -43,22 +45,16 @@ Unfortunately, the houses of Antioch were incompletely excavated and their state
 
 ## Maps
 
-<!--
--->
-
 ## Plans
-<!--
--->
 
 ## Images
 
-<!--
--->
-
 ## Dates
+
 second to the sixth centuries CE
 
 ## Bibliography
+
 - G. Downey, A History of Antioch in Syria from Seleucus to the Arab Conquest, Princeton: Princeton University Press, 1961
 - J. Lassus, "La Mosaique de Yakto, " in eds. R. Stillwell, G.W. Elderkin, F.O. Waagé and D.B. Waagé, Antioch-on-the-Orontes I, Princeton: Department of Art and Archaeology, 1934, pp. 128-136
 - D. Levi, Antioch Mosaic Pavements, Princeton: Princeton University Press, 1947, pp. 326-337, pl. 79-80

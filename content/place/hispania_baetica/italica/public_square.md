@@ -57,6 +57,7 @@ unspecified
 
 
 ## Places
+
 - [Public Square at Italica]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="810966695" name="Public Square at Italica" >}}
 - {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}

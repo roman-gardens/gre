@@ -44,17 +44,11 @@ The most remarkable feature of the building was a T-shaped garden courtyard (G i
 
 <!--## Maps-->
 
-<!--
--->
-
 ## Plans
 
 {{< image file="EUR_GS_AugRau_Hi13_carroll.jpg" caption="Fig. 1: Plan of a courtyard house in Insula 13 with a peristyle garden (G) and pool (grey)." credit="Plan adapted from Carroll 2001, fig. 20." alt="" >}}
 
 <!--## Images-->
-
-<!--
--->
 
 ## Dates
 

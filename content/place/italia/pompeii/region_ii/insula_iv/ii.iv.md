@@ -17,17 +17,22 @@ draft: false
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region II]({{<relref "../..">}})
 ## Insula
+
 [Insula IV]({{<relref "..">}})
 
 ## House
+
 - {{< id vocab="Pleiades" id="205387552" name="House of Julia Felix" >}}
 
 ## Garden
+
 Three separate gardens in the Praedia di Julia Felix.
 
 
@@ -56,6 +61,7 @@ C. A walled rustic garden close to entrance 8 had been planted and at the time o
 
 
 ## Plans
+
 {{< image file="fig-18-ii.iv.2-5.29.59.jpg" caption="view form the portico" credit="" alt="" >}}
 
 {{< image file="fig-19-ii.iv.-5.32.59.jpg" caption="detail of the jet." credit="" alt="Fig. 19, II.iv.5.32.59.- detail of the jet." >}}
@@ -64,10 +70,12 @@ C. A walled rustic garden close to entrance 8 had been planted and at the time o
 
 
 ## Dates
+
 Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
 
 
 ## Bibliography
+
 - *Annali Dell'instituto Di Correspondenza Archeologica,* 1830, p.50 [worldcat](https://search.worldcat.org/title/470771737)
 - Bonucci, Da Carlo. 2018. *Pompei Descritta Da Carlo Bonucc,* p.219 [worldcat](https://search.worldcat.org/title/23518809)
 - Bragantini, Irene. 1981. *Pitture E Pavimenti Di Pompei.* Roma: Ministero per i beni culturali e ambientali, Istituto centrale per il catalogo e la documentazione, 1981. 1:238 [worldcat](https://search.worldcat.org/title/13334913)

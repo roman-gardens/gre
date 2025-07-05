@@ -13,20 +13,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region II]({{<relref "..">}})
 ## Insula
+
 [Insula IX]({{<relref ".">}})
 
 ## Keywords
@@ -46,19 +51,23 @@ The team made 160 casts in this garden. Pollen and charcoal were also collected 
 
 <!--
 ## Plans
+
 {{< image file="../../fig._75,_plan_of_region_ii,_insula_ix.png" caption="Fig. 75, Plan of Region II, insula ix" credit="" alt="" >}}
 
 Need Fig. 76
 
 ## Images
+
 Need Fig. 77-->
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
+
 Excavated 1951, 1954, 1987. Restored 1988. Re-opened 2018.
 
 

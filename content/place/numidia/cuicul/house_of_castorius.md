@@ -59,20 +59,25 @@ The  L shaped space between the fish pool and the columns was probably planted.
 {{< image file="house_of_castorius_plan1.jpg" caption="Fig. 1: Plan of the House of Castorius" credit="(Blanchard-Lemée, M., 1975, fig. 4)" alt="Plan of the House of Castorius." >}}
 
 ## Images
+
 {{< image file="house_of_castorius_photo1.jpg" caption="Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)" credit="" alt="Southwest corner of the peristyle XVI, the L shaped planted area." >}}
 
 {{< image file="house_of_castorius_photo2.jpg" caption="Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)" credit="" alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool." >}}
 
 ## Dates
+
 5th century
 
 ## Excavation Dates
+
 1911
 
 ## Bibliography
+
 *  Blanchard-Lemée, M., *Maisons à mosaïques du quartier central de Djemila (Cuicul)*, Paris, 1975, pp. 158-161. [(worldcat)](https://search.worldcat.org/title/461390883)
 *  Février, P.-A., Blanchard-Lemée, M., *L'édifice appelé "Maison de Bacchus" à Djemila*, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. [(worldcat)](https://search.worldcat.org/title/1090653355)
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}

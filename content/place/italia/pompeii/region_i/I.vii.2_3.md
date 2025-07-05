@@ -12,20 +12,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region I]({{<relref ".">}})
 ## Insula
+
 [Insula VII]({{<relref "#">}})
 
 ## Keywords
@@ -41,6 +46,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 A very small garden was located in the light well at the rear of the [atrium](http://vocab.getty.edu/page/aat/300004097). The small raised garden (about 0.50 m. high) had a tiny semicircular pool fed by roof water. Three marble bases (0.16 x 0.21 m.) were most likely place at the edge of the [pool](http://vocab.getty.edu/page/aat/300375619). A garden [painting](http://vocab.getty.edu/page/aat/300033644) adorned the wall behind [pool](http://vocab.getty.edu/page/aat/300375619). This was the painting of a garden [fence](http://vocab.getty.edu/page/aat/300005044) and a slender, footed [fountain](http://vocab.getty.edu/page/aat/300006179) before it. The water jets have attracted a peacock and two small birds that are perched on the rim. The elaborate plant motif on the foot of the [fountain](http://vocab.getty.edu/page/aat/300006179) suggested to Maiuri that the artist was depicting a bronze fountain rather than a marble one. A dense thicket painted behind the [fence](http://vocab.getty.edu/page/aat/300005044) has small fruit, the blossom ends are clearly visible, with white myrtle blossoms mixed with the foliage. Jashemski differs with Maiuri's description of this as an oleander thicket with blossoms and berries; as she points out that oleander has elongated pods as opposed to round berries. The east wall was yellow with plants painted on it, but only the north panel survived, and nothing remains of the work on the west and north walls.
 
 <!--## Maps-->
+
 <!--
 ## Plans
 
@@ -60,6 +66,7 @@ A very small garden was located in the light well at the rear of the [atrium](ht
 -->
 
 ## Dates
+
 Excavated 1911 and 1923.
 
 

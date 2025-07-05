@@ -25,6 +25,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 - [Estoi]({{<relref ".">}})
 
 ## Garden
+
 Villa de Milreu
 
 ## Keywords
@@ -46,9 +47,6 @@ The archaeologists working on the site have not produced a detailed sequence of 
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
 {{< image file="HIS_LUS_Milreu_planfig1.jpg" caption="Fig. 1: Plan of the Villa de Milreu adapted from Hauschild and Teichner." credit="" alt="Plan of Villa de Milreu at Estoi Province, Spain." >}}
@@ -63,6 +61,7 @@ The archaeologists working on the site have not produced a detailed sequence of 
 
 
 <!--## Bibliography
+
 - T. Hauschild and F. Teichner, Milreu Ruins, Roteiros de Arqueologia Portugese 9, Ministerio da Cultura, Lisboa, 2002. [(worldcat)](https://search.worldcat.org/title/927151602)-->
 
 ## Places

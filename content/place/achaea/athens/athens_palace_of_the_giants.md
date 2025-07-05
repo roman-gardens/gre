@@ -12,20 +12,25 @@ draft: false
 ---
 
 ## Province Description
+
 Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
 The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woolen textiles and marbles.
 
 ## Location
+
 - [Athens]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="579885" name="Athens" >}}
 
 ## Sublocation
+
 - {{< id vocab="Pleiades" id="807514119" name="Agora of Athens" >}}
 
 ## Garden
+
 Palace of the Giants
 
 ## Keywords
+
 <!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "gymnasiums" >}}
 - {{< keyword "peristyles" >}}
@@ -39,25 +44,23 @@ It is possible that a garden might have been present in one of the inner courtya
 
 <!--## Maps-->
 
-<!--
--->
-
 ## Plans
+
 {{< image file="giants.jpg" caption="Fig. 1: Plan of the so-called \"Palace of the Giants\" (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the \"Palace.\"" credit="Adapted from Camp 1986, p. 200, fig. 166." alt="building plan with possible gardens marked, dotted lines for the outlines of earlier buildings." >}}
 
 <!--## Images-->
 
-<!--
--->
-
 ## Dates
+
 early 5th century CE to ca. 530 CE
 
 ## Bibliography
+
 * H. A. Thompson and R. E. Wycherley, *The Agora of Athens. The History, Shape and Uses of an ancient City Center.* The Athenian Agora XIV. Princeton, 1972, pp. 211-213. [(worldcat)](https://search.worldcat.org/title/805087483).
 * J. McK. Camp, *The Athenian Agora: Excavations in the heart of Classical Athens.* London, 1986, p. 200, figs. 166-167. [(worldcat)](https://search.worldcat.org/title/1153939923).
 * H. Thompson in A. Frantz, *Late Antiquity: A.D. 267-700.* The Athenian Agora XXIV. Princeton, 1988, pp. 95-116, pls. 54-55. [(worldcat)](https://search.worldcat.org/title/63179976).
 
 ## Places
+
 - {{< id vocab="Pleiades" id="807514119" name="Agora of Athens" >}}
 - {{< id vocab="TGN" id="5004159" name="Agorá (ancient site)" >}}

@@ -12,6 +12,7 @@ draft: false
 ---
 
 ## Province
+
 - [Numidia]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
 
@@ -31,6 +32,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.
 
 ## Garden
+
 House of the Warehouse (Maison de l'entrepôt)
 
 ## Keywords
@@ -47,23 +49,17 @@ The S part of the *domus* was probably added in a latter period. It presents a p
 
 ## Maps
 
-<!--
--->
-
 ## Plans
+
 {{< image file="house_of_the_warehouse.jpg" caption="Fig. 1: Plan of the House of the Warehouse" credit="(Germain, S., 1969, fig. 12)" alt="Plan of the House of the Warehouse at Thamugadi; Les mosaïques de Timgad, p. 88, fig. 12" >}}
 
-<!--
--->
-
 ## Images
-<!--
--->
 
 ## Dates
 Unspecified
 
 ## Bibliography
+
 *  Ballu, A., *Les ruines de Timgad, Sept années de découvertes*, Paris, 1911, p. 49-53,120, plan p. 51. [(worldcat)](https://search.worldcat.org/title/802835102)
 * Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
 * Germain, S., *Les mosaïques de Timgad*, Paris, 1969, p. 88, fig. 12. [(worldcat)](https://search.worldcat.org/title/643640586)

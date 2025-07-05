@@ -17,6 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="981524" name="Blankenheim-Hülchrath" >}}
 
 ## Garden
+
 Rustic villa at Blankenheim-Hülchrath
 
 ## Keywords
@@ -31,23 +32,17 @@ To the northeast of the house was an open courtyard flanked by outbuildings and 
 
 ## Maps
 
-<!--
--->
-
 ## Plans
-{{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan 1:  Plan of the rural villa (A) with possible gardens (G) in the courtyard adjacent to the house and in the enclosed area southwest of it." credit="Adapted from Horn 1987, fig. 306." alt="plan of villa rustica at Blackenheim-Hülchrath">}}
-<!--
--->
 
+{{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan 1:  Plan of the rural villa (A) with possible gardens (G) in the courtyard adjacent to the house and in the enclosed area southwest of it." credit="Adapted from Horn 1987, fig. 306." alt="plan of villa rustica at Blackenheim-Hülchrath">}}
 ## Images
 
-<!--
--->
-
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - H. G. Horn, ed., *Die Römer in Nordrhein-Westfalen*, Stuttgart, 1987, pp. 361-63, figs. 306-308. [(worldcat)](https://search.worldcat.org/title/456209115)
 - P. Van Ossel, *Établissements ruraux de l'Antiquité tardive dans le nord de la Gaule.* Suppl. Gallia 51, Paris, 1992, pp. 192-193, fig. 5. [(worldcat)](https://search.worldcat.org/title/407704732)
 

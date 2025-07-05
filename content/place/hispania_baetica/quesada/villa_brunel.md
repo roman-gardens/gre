@@ -51,13 +51,7 @@ Sotomayor did not think that the gran patio was a garden, and proposed that it m
 
 ## Maps
 
-<!--
--->
-
 <!--## Plans-->
-
-<!--
--->
 
 ## Images
 
@@ -87,6 +81,7 @@ unspecified
 
 
 ## Places
+
 - [Pago de Bruñel]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="265996" name="Pago de Bruñel" >}}
 - {{< id vocab="TGN" id="7027137" name="Castillo de Mulva (deserted settlement)" >}}

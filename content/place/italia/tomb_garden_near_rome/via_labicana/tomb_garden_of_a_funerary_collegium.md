@@ -12,16 +12,20 @@ draft: true
 ---
 
 ## Location
+
 - {{< id vocab="Pleiades" id="74935822" name="Via Labicana" >}}
 
 ## Sublocation
+
 Via Labicana
 
 ## Sublocation Description
+
 An ancient Roman road connecting Rome and Labicum.
 
 
 ## Garden
+
 Tomb Garden of a Funerary Collegium
 
 ## Keywords
@@ -43,9 +47,11 @@ The inscription concludes with eight hexameters urging readers to recognize in t
 
 
 ## Dates
+
 16 CE
 
 ## Bibliography
+
 - B. E. Thomasson and M. Pavese,*A Survey of Greek and Latin Inscriptions on Stone in Swedish Collections,* (Stockholm 1997) XXX [worldcat](https://search.worldcat.org/title/898968143)
 
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](https://search.worldcat.org/title/886794800)

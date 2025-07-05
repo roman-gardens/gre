@@ -37,13 +37,7 @@ Excavations identified two building phases in the villa. The early Imperial phas
 
 ## Maps
 
-<!--
--->
-
 <!--## Plans-->
-
-<!--
--->
 
 ## Images
 
@@ -66,6 +60,7 @@ unspecified
 
 
 ## Places
+
 - [Igabrum/Egabrum]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="265919" name="Igabrum/Egabrum" >}}
 - {{< id vocab="TGN" id="7007570" name="Cabra (inhabited place)" >}}

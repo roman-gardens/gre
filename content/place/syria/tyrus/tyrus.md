@@ -12,6 +12,7 @@ draft: true
 ---
 
 ## Province Description
+
 In 64 BCE, after his successes in Armenia, Pompey the Great added Syria to the list of annexed eastern provinces of the growing Roman Empire.  The conquest of Syria had not been difficult, because the remnants of the once dominant Seleucid Empire had weakened following the defeats of king Antiochus III at Thermopylae in 191 and Magnesia in Asia shortly after.  Ultimately, the Seleucids could not withstand the powers of the Nabatean kingdom to the south, the Hasmonean kingdom to the west, and the new threats of Roman hegemony.  With the fall of the Seleucids, Rome inherited the majority of Alexander the Great's former conquests, and the Syrian desert would become a stage for Roman emperors to settle civil conflicts and win triumphs.  Smaller Arab settlements sprang up across the region, re-inhabiting Seleucid sites and establishing new ones, and cities such as Palmyra grew in power by taking over the wealthy trade routes of the Nabateans in the second century CE.  The Syrian city of Antioch, formerly Seleucia, would become one of the greatest cities of the Roman empire. Although Macedonian presence in the region introduced western styles in art and architecture before the arrival of the Romans, the cities remained Syrian in culture, population and character.  
 
 Covering the substantial central part of the Fertile Crescent, the province of Syria sat in an advantageous position between the mountain ranges of eastern Anatolia, the Mediterranean Sea, and the Arabian deserts, and it served as an area of expansion for the larger kingdoms around it. Important trans-Asian trade routes made Syria a key component in the Roman imperial economy, and large navigable rivers, such as the Euphrates and the Orontes, were exploited to connect the Persian Gulf with northern cities.  The climate, although arid in the inland mountainous areas, was quite conducive to cultivation. River valleys in the mountain chains skirting the coast provided fertile terrain for agriculture, and the Orontes and Euphrates created well-watered plateaus in the steppe and desert regions of the southeast.  
@@ -24,12 +25,14 @@ An irrigation system based around the qanat, an underground water channel, was u
 - {{< id vocab="Pleiades" id="678437" name="Tyrus" >}}
 
 ## Location Description
+
 Tyre, an ancient Phoenician port city (est. 2750 BCE), became part of the Roman Empire in 64 BCE.  It was legendary as the birthplace of the goddess Europa and queen Dido, founder of Carthage.  
 
 <!--## Sublocation-->
 
 
 ## Garden
+
 Tomb garden at Tyre
 
 ## Keywords
@@ -44,10 +47,8 @@ A tomb garden (Tomb Complex 15) has been found in a cemetery complex dating to t
 
 ## Maps
 
-<!--
--->
-
 ## Plans
+
 {{< image file="asia_syria_tyre_author_1.jpg" caption="Fig. 1:  Plan of Tomb Complex 15 showing garden beds, basins, water channels and post holes (Chéhab, Fig. 42)." credit="" alt="Plan of tomb complex" >}}
 
 ## Images
@@ -56,9 +57,11 @@ A tomb garden (Tomb Complex 15) has been found in a cemetery complex dating to t
 
 
 ## Dates
+
 fourth century CE
 
 ## Bibliography
+
 - M. H. Chéhab, *Fouilles de Tyr: La Necropole*. Paris: Bulletin du Musée de Beyrouth XXXIV (1984): 270-280. [(worldcat)](https://search.worldcat.org/title/490791677)
 - L. De Jong, "Performing Death in Tyre:  The Life and Afterlife of a Roman Cemetery in the Province of Syria. *AJA* 114.4 (Oct. 2010) pp. 597-630. [(jstor)](https://www.jstor.org/stable/25763804)
 

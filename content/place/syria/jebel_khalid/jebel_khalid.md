@@ -12,6 +12,7 @@ draft: true
 ---
 
 ## Province Description
+
 In 64 BCE, after his successes in Armenia, Pompey the Great added Syria to the list of annexed eastern provinces of the growing Roman Empire.  The conquest of Syria had not been difficult, because the remnants of the once dominant Seleucid Empire had weakened following the defeats of king Antiochus III at Thermopylae in 191 and Magnesia in Asia shortly after.  Ultimately, the Seleucids could not withstand the powers of the Nabatean kingdom to the south, the Hasmonean kingdom to the west, and the new threats of Roman hegemony.  With the fall of the Seleucids, Rome inherited the majority of Alexander the Great's former conquests, and the Syrian desert would become a stage for Roman emperors to settle civil conflicts and win triumphs.  Smaller Arab settlements sprang up across the region, re-inhabiting Seleucid sites and establishing new ones, and cities such as Palmyra grew in power by taking over the wealthy trade routes of the Nabateans in the second century CE.  The Syrian city of Antioch, formerly Seleucia, would become one of the greatest cities of the Roman empire. Although Macedonian presence in the region introduced western styles in art and architecture before the arrival of the Romans, the cities remained Syrian in culture, population and character.
 
 Covering the substantial central part of the Fertile Crescent, the province of Syria sat in an advantageous position between the mountain ranges of eastern Anatolia, the Mediterranean Sea, and the Arabian deserts, and it served as an area of expansion for the larger kingdoms around it. Important trans-Asian trade routes made Syria a key component in the Roman imperial economy, and large navigable rivers, such as the Euphrates and the Orontes, were exploited to connect the Persian Gulf with northern cities.  The climate, although arid in the inland mountainous areas, was quite conducive to cultivation. River valleys in the mountain chains skirting the coast provided fertile terrain for agriculture, and the Orontes and Euphrates created well-watered plateaus in the steppe and desert regions of the southeast.
@@ -24,6 +25,7 @@ An irrigation system based around the qanat, an underground water channel, was u
 - {{< id vocab="Pleiades" id="481573620" name="Jebel Khalid" >}}
 
 ## Location Description
+
 A colonial military settlement of Macedonian Greeks on the west bank of the Euphrates in North Syria, established in the wake of Alexander the Great's conquests at a control point on the great river highway of the Euphrates (fig.1: location map of Jebel Khalid; fig. 2: aerial view of Jebel Khalid.) By the time the Jebel Khalid palace was constructed in the course of the third century BCE, these resettled Macedonians had been occupying for half a century not only the royal palaces of the Achaemenids, the powerful fifth and fourth century Persian dynasty, but also the palaces of their satraps, the local governors, and we know from literary testimony that both the royal and local palaces boasted paradeisoi, gardens for pleasure and relaxation. It is therefore reasonable that their Greek successors and replacements adopted in the third century what they found to be one of the agreeable and relaxing amenities enjoyed by their fourth-century Persian predecessors.  And from here the concept passed to the Greek builders of elaborate villas as exemplified in Greek South Italy of the second century BCE.
 
 While the general settlement of Jebel Khalid appears to have been systematically abandoned at the end of the Seleucid period (late 70s/early 60s BCE), some seasonal occupation continued into the early Roman period in some of the rooms of the Acropolis Palace. The multiplicity of weak floors in some areas suggests occupation by seasonal pastoralists, and Roman–period coins dating from the third century CE onwards occur in areas of stone-robbing. When major elements of the building eventually collapsed they fell on up to a metre of wind-blown soil – up on the Acropolis high-ground there is not the possibility of alluvial wash-down – implying that the building had stood substantially intact but unroofed for several centuries after its abandonment. The ruins attracted Roman-period scavengers, sightseers and stone robbers, who even scratched graffiti in the plaster of fallen masonry (Clarke: 1992/3).
@@ -32,6 +34,7 @@ While the general settlement of Jebel Khalid appears to have been systematically
 
 
 ## Garden
+
 Acropolis Palace at Jebel Khalid
 
 ## Keywords
@@ -55,12 +58,10 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 
 ## Maps
 
-<!--
--->
-
 {{< image file="asia_syria_jebkhl_gclark_1.jpg" caption="Fig. 1: Location map of Jebel Khalid" credit="" alt="Map showing location of Jebel Khalid within the borders of Syria" >}}
 
 ## Plans
+
 <!--
 -->
 {{< image file="asia_syria_jebkhl_gclark_2.png" caption="Fig. 2: Overall plan of the site" credit="" alt="Overall plan of the site with contour lines and architectural remains" >}}
@@ -68,9 +69,6 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 {{< image file="asia_syria_jebkhl_gclark_3.jpg" caption="Fig. 3: Ground plan of the Acropolis palace" credit="" alt="Ground plan of the Acropolis palace" >}}
 
 ## Images
-
-<!--
--->
 
 {{< image file="asia_syria_jebkhl_gclark_4.png" caption="Fig. 4: Aerial view of Jebel Khalid" credit="" alt="Aerial view of Jebel Khalid" >}}
 
@@ -83,13 +81,16 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 {{< image file="asia_syria_jebkhl_gclark_8.jpg" caption="Fig. 8:  Excavated garden bed" credit="" alt="Excavated garden bed" >}}
 
 ## Dates
+
 3rd century BCE
 
 ## Bibliography
+
 - G. Clarke. "Greek Graffiti from North Syria." *Mediterranean Archaeology* 5/6 (1992/3): 117-120, plates 39-40.
 - ibid. "Jebel Khalid on the Euphrates: The Acropolis Building." Proceedings of the Second Macedonian Conference, Melbourne, in *Mediterranean Archaeology* 7 (1994): 69-75, plates 1-3.
 - ibid., ed., "Jebel Khalid on the Euphrates: Report on Excavations 1986-1996." *Meditarch Suppl.* 5 (2002): 25-48, plates IV-VIII and 10-25.
 - Inge Nielsen (ed.) *The Royal Palace Institution in the First Millennium BC.* Regional Development and Cultural Change between East and West, Monographs of the Danish Institute at Athens, vol. 4, pp. 215-247.
 
 ## Places
+
 - {{< id vocab="Pleiades" id="167649937" name="Acropolis palace at Jebel Khalid" >}}

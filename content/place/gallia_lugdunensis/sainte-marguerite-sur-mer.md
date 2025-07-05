@@ -17,6 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="109153" name="Sainte-Marguerite-sur-Mer" >}}
 
 ## Garden
+
 Sainte-Marguerite-sur-Mer (Seine-Maritime) Roman Villa
 
 ## Keywords
@@ -46,17 +47,16 @@ None Available
 {{< image file="st_mar_plan.jpg" caption="Detailed Plan of Villa at Sainte-Marguerite-sur-Mer." credit="" alt="A Plan of the Villa at Sainte-Marguerite-sur-Mer." >}}
 
 {{< image file="st_mar_2.jpg" caption="Plan drawings of the Villa, Temple, and Promenade at Sainte-Marguerite-sur-Mer." credit="" alt="" >}}
-<!--
--->
-
 ## Images
 
 None Available
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - P.J. Féret, Lettre adressée à M. de Caumont sur les fouilles pratiquées à Sainte-Marguerite sur Mer près Dieppe in *Bulletin Monumental* 9, 1843, p. 92-97.  <!-- No worldcat -->
 - Ch.W. Martin, Note sur les fouilles exécutées en 1876 sur l'emplacement de la station romaine de Ste-Marguerite-sur-Mer (Seine inférieure), in *Bulletin de la Société des Antiquaires de Normandie*, 1861, p. 319-326. [(worldcat)](https://search.worldcat.org/title/1026569500)
 - abbé J. Loth, Fouilles de Ste-Marguerite-sur-Mer, in *Bulletin de la Commission des antiquités de la Seine-Inférieure*, Rouen, 1870, p. 68-75. [(worldcat)](https://search.worldcat.org/title/812701053)

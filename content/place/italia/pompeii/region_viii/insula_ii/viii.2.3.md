@@ -13,21 +13,26 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region VIII]({{<relref "..">}})
 
 ## Insula
+
 [Insula II]({{<relref ".">}})
 
 
@@ -42,18 +47,22 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 This house, very similar to VII.ii.1, was also excavated in 1799. This peristyle garden had fourteen columns and was more rectangular. There was a terrace to the rear and a small room off the northwest corner of the peristyle which Mazois and Fiorello have labeled a sacrarium.
 
 ## Plans
+
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_3.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 1-20" credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
 - {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
 
 ##  Excavation Dates
+
 1799
 
 ## Bibliography
+
 * Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 74, no. 342 [(worldcat)](https://search.worldcat.org/title/1131425884)
 * Breton, *Pompeia*, 3rd ed. p. 501 [(worldcat)](https://search.worldcat.org/title/894211341)
 * Fiorelli, *Descrizione di Pompei*, p. 442 [(worldcat)](https://search.worldcat.org/title/908272023)

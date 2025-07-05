@@ -16,6 +16,7 @@ draft: true
 - [AUTRICUM (Chartres, France)]({{<relref ".">}})
 
 ## Garden
+
 Richebourg (Yvelines) villa de
 
 ## Keywords
@@ -52,18 +53,18 @@ Pollen analyses have yielded some results, although the pollens were damaged and
 None Available
 
 ## Plans
-{{< image file="yvelines1.jpg" caption="Plan 1:  Fig 4 - Plan of the Athenian Gardens of Richebourg" credit="" alt="A plan of the gardens of Richebourg. Small black dots, representing places where horticultural pots were found are also marked on the plan." >}}
-<!--
--->
 
+{{< image file="yvelines1.jpg" caption="Plan 1:  Fig 4 - Plan of the Athenian Gardens of Richebourg" credit="" alt="A plan of the gardens of Richebourg. Small black dots, representing places where horticultural pots were found are also marked on the plan." >}}
 ## Images
 
 {{< image file="yvelines2.jpg" caption="Plan 1:  Bird's Eye Perspective of the Garden" credit="" alt="A colorful bird's eye perspective of the garden between the buildings." >}}
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - Y. Barat, La villa gallo-romaine de Richebourg (Yvelines) in  *Revue  Archéologique  du  Centre  de  la  France,*  38, 1999, p. 117-67, plans  p. 122, jardin  p.140. [(worldcat)](https://search.worldcat.org/title/4647907321)
 - Y Barat, D. Morize, Les pots d'horticulture dans le monde antique et les jardins de la villa de Richebourg (Yvelines), in *SFECAG, Actes du colloque de Fribourg,* 1999, p. 213-36.  <!-- no worldcat -->
 - Y. Barat, La recherche archéologique des jardins antiques in *Les nouvelles de l'archéologie*  83-84, 2001, p. 56-62, not. P. 58-59. <!-- no worldcat -->

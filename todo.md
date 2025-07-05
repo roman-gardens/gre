@@ -1,37 +1,19 @@
-# New for Launch on April 15, 2021
-- [ ] (People page?) Page should have an alphabetical list of authors with hyperlinks to searches for those names, so that if someone clicks on it, it pulls up the search results for that author.
-
 # General
 
 - [ ] Check for all comments containing some mention of "cross references", add links to relevant pages
-- [ ] Get province information into general province page (somehow)
-- [ ] Figure out why there are so many unattached images (e.g. Achaea Nemea has a figure which is not in the proper images folder)
-- [x] Deal with empty stuff in headers (by commenting out for now)
 - [ ] Deal with empty stuff that is now commented out (by deleting)
 - [ ] Add a takedown notice (copy from DCAA/DSCC)
-- [x] Suppress empty headings
 - [ ] Finish creating documentation
 - [ ] Fix all links that have [text](#) or [text](link)
 - [ ] fix search for plurals (lunr matches the singular, but then we can't highlight in the snippet)
-
-# Articles in need of a second look
-
-- achaea/corinth/corinth_circus, images with no links (image folder empty -JEM)
-- ger sup/dietikon, no orcid for Christa Ebnöther
-- ger sup/vallon, two map images are broken, replace with new
-
+- [ ] consider finding places in search (not just gardens)
 
 # Pompeii Notes/Issues
 
-- Titles (I.ii.10). Right now if a location doesn't have a specific name, using the I.ii.10 ID.
-- [x] Artifacts: TBD on how to note
 - [x] Green (additions to entries?). What to do? There appears to be ORANGE now as well.
 - [x] Add span style color families to new green parts of entries.
 - [ ] Someone should relook over the bibs to see if they know what book the author is referring to, as I can't figure it out with just an author last name.
 - [x] Note to self: relook over entries and add [statue] keyword (check this AFTER province/location descriptions have been moved out the garden articles)
-- [x] Note if it has literary evidence/artifacts.
-- [x] Issue: I have found a entry that is House of Epidius Fortunatus (I.iii.3) and another that is I.iii.3. If there is a distinction, should we make it clearer?
-- [x] *Aedicula lararium* added as one keyword merged from the two currently listed.
 
 # Random issues
 
@@ -129,6 +111,7 @@
     - to add a keyword, type "keyword" and press CTRL-SPACE and select "GRE keyword shortcut"
 - places
     - to add a place, type "id" and press CTRL-SPACE and select "GRE id shortcut"
+- comment out headers of any empty sections
 
 # Questions/Discussion
 
@@ -143,7 +126,9 @@
 - in the text of the article, Divya suggested having dates at the top -- do we want both of these at top?  (They could also logically go near bottom, after bibliography and before keywords/places)
     - date of the garden (how to phrase this?  dates of use?)
     - excavation date
-- double angle quotes like « Pluton » -- can these be converted to normal "
+- double angle quotes like « Pluton » -- can these be converted to normal " quotes
+- what is green highlighting for???
+    - Example: https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/insula_ix/house_5/house_of_the_fruit_orchard/
 
 
 # User forks

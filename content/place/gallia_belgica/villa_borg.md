@@ -17,6 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="272861914" name="Borg Roman villa" >}}
 
 ## Garden
+
 Villa Borg
 
 ## Keywords
@@ -48,19 +49,15 @@ None Available
 ## Plans
 
 None Available
-<!--
--->
-
 ## Images
 
 None Available
-<!--
--->
-
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - J. Brück, "Die villa von Borg", in: Der Kreis Merzig-Wadern und die Mosel zwischen Nennig und Metz. Führer zu archäologischen Denkmälern in Deutschland 24 (Stuttgart 1992) 112-119. [(worldcat)](https://search.worldcat.org/title/932182025)
 - R. Gleser & A. Miron, Romanisierungsforschung im Saarland. Archäologische Informationen 18, 1995, 213-215 <!-- not in worldcat -->
 - A. Miron (Hrsg.), Das Badegebäude der römischen Villa von Borg (Merzig 1997). [(worldcat)](https://search.worldcat.org/title/1222406745)

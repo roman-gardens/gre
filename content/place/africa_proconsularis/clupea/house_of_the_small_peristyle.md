@@ -17,8 +17,10 @@ draft: true
 - {{< id vocab="Pleiades" id="314892" name="Aspis/Clupea" >}}
 
 ## Location Description
+
 The city was built along the slope of the hill several kilometers northwest of the present town. Excavations revealed the Capitol and an important residential district descending in successive levels towards the bank.
 ## Garden
+
 House of the small Peristyle (Maison du petit péristyle)
 
 ## Keywords
@@ -37,29 +39,28 @@ Possibly belonging to this same house, the east part of the *domus* may have bee
 
 ## Maps
 
-<!--
--->
-
 ## Plans
+
 {{< image file="house_of_the_small_persityle1.jpg" caption="Fig. 1: Plan of the House of the Small Peristyle" credit="(Lassère, J.-M., Slim, H., 2010)" alt="Plan of the House of the Small Peristyle">}}
 
 ## Images
-<!--
--->
 
 ## Dates
 Late 1st-4th century CE
 
 ## Bibliography
+
 - Lassère, J.-M., Slim, H., *Maisons de Clupea. Les maisons de l'Ecole de pêche*, Paris, 2010, p. 25-66. [(worldcat)](https://search.worldcat.org/title/701795957)
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="314892" name="Aspis/Clipea" >}}
 - {{< id vocab="TGN" id="7001037" name="Kelibia (inhabited place)" >}}
 
 <!--
 ## Related articles
+
 [House of the Bust of Marcus Aurelius (Maison du Buste de Marc Aurèle)]({{<relref "house_of_the_bust_of_marcus_aurelius.md">}})
 [House of the Two Hunts (Maison aux deux chasses)]({{<relref "house_of_the_two_hunts.md">}})
 -->

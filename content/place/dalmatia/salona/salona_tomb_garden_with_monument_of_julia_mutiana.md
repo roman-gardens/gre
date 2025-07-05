@@ -41,18 +41,9 @@ An inscription reported among those of Salona records an epitaph set up by Iulia
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
-<!--
--->
-
 ## Images
-
-<!--
--->
 
 ## Dates
 

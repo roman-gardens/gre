@@ -12,6 +12,7 @@ draft: true
 ---
 
 ## Province Description
+
 Sicily, the largest island in the Mediterranean, was colonised by Greeks from the later eighth century B. C., with Syracuse becoming the largest and most powerful Greek polis; in time most of the indigenous settlements of the interior also became profoundly Hellenized. The western tip of the island was settled by Phoenicians and later became an outpost of Carthaginian control. In the third century B. C. Sicily became embroiled in the First Punic War which resulted in Rome's acquisition of the island as its first overseas provincia in 241 B. C.; in 211 B. C. Sicily was above all famed for its agricultural fertility and its capacity to produce exceptional grain yields (wheat and barley), and to a lesser extent wine. By the time of the Roman Empire the principal flourishing cities were located on the coast, with much of the interior given over to scattered agricultural villages, villas and farms.
 
 ## Region
@@ -38,17 +39,11 @@ This fourth-century villa on the north coast has also yielded evidence for a gar
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
 <!--{{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}}-->
 
 ## Images
-
-<!--
--->
 
 ## Dates
 

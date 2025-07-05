@@ -17,6 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="108896" name="Xanten" >}}
 
 ## Sublocation
+
 Industrial quarter
 
 ## Sublocation Description
@@ -39,19 +40,20 @@ Between the buildings were open areas, some paved and equipped with ovens and po
 
 ## Maps
 
-<!--
--->
-
 ## Plans
+
 {{< image file="xanten_insula7_plan1_EUR_GI_ColUlpTra_Hi7_carroll.jpg" caption="Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. The black dots are wells." credit="Adapted from Precht and Rüger 1991." alt="" >}}
 
 ## Images
+
 {{< image file="xanten_insula7_image1_GER_INF_ColUlpTra_Fig 2.jpg" caption="Image 1. Model of the houses in *Insula* 7 with courtyard garden." credit="Photo courtesy of M. Carroll." alt="" >}}
 
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - H.G. Horn, ed., *Die Römer in Nordrhein-Westfalen*, Stuttgart, 1987, pp. 634-636, fig. 542 (incorrectly labeled as Insula 26). [worldcat](https://search.worldcat.org/title/462024461)
 - G. Precht and C.B. Rüger, *Archaologischer Stadtplan. Colonia Ulpia Traiana*, Cologne, 1991. [worldcat](https://search.worldcat.org/title/28844426)
 

@@ -30,9 +30,6 @@ Dacia was of particular interest to the Romans for its supplies of lead, needed 
 
 ## Maps
 
-<!--
--->
-
 ## Dates
 
 106 CE to 271-275 CE

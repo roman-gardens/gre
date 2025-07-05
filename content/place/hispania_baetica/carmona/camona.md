@@ -35,13 +35,7 @@ In the necropolis of Carmona, near Seville, is a very large and deep tomb create
 
 ## Maps
 
-<!--
--->
-
 <!--## Plans-->
-
-<!--
--->
 
 ## Images
 

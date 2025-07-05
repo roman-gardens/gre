@@ -25,15 +25,19 @@ draft: true
 
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 V
 
 ## House
+
 33
 
 ## Garden
+
 Casa con Giardino
 
 ## Keywords
@@ -47,10 +51,12 @@ Casa con Giardino
 This humble house had a huge garden (a) which was entered from the long fauceson the north. Most likely used to grow produce, Maiuri speculated that the garden may have belonged to the larger houses to the west at one time.
 
 ## Plans
+
 {{< image file="H_3_3-17.jpg" caption="Plan of Casa A Graticcio" credit="" alt="" >}}
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 

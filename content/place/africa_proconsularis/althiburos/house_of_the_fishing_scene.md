@@ -17,10 +17,12 @@ draft: true
 - {{< id vocab="Pleiades" id="324664" name="Althiburos" >}}
 
 ## Location Description
+
 This town is located on the road between Carthage and Theveste near the border of Proconsularis and Byzacena 35 km west of Mactar. Under the Roman Empire it remained an indigenous civitas until it was raised to the status of a municipium by Hadrian: municipium aelium hadrianum augustum althiburitanum and later was granted the ius Italicum.
 
 The trade of agricultural products and craftsmanship made Althiburos a prosperous city, particularly, the fabrication and the commerce of aromatics. The development of the city reached its peak under the Antonian and Severian dynasties. It is difficult to follow the history of Althiburos during the third century when the province of Africa underwent the severe crisis of 238. The city was abandoned just before the Arab conquest.  Excavations have brought to light the forum, the capitol, the Hadrianic triumphal arch and two temples. At the east corner of the forum, near one of the temples, was a complex of houses and a building with a rotonda to the south of which stood a monumental fountain. Outside the excavated center are other monuments, among them the theater and a triumphal arch.
 ## Garden
+
 House of the Fishing Scene (Maison de la scène de pêche)
 
 ## Keywords
@@ -40,21 +42,18 @@ The house stands on the other side of the Wadi Oum El Abid, on the left bank, 12
 
 ## Maps
 
-<!--
--->
-
 ## Plans
+
 {{< image file="house_of_the_fishing_scene1.jpg" caption="Fig.1: Plan of the House of the Fishing Scene" credit="(Merlin, A., 1913, pl. III)" alt="Plan of the House of the Fishing Scene at althiburos">}}
 
 ## Images
 
-<!--
--->
-
 ## Dates
+
 3rd century CE
 
 ## Bibliography
+
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 30-31. [(worldcat)](https://search.worldcat.org/title/989088620)
 - Ennaifer, M., *La cité d'Althiburos et l'édifice des Asclepieia*, INA, Tunis, 1976, p. 58-63, plan pl. XXXIII. [(worldcat)](https://search.worldcat.org/title/963483765)
 - Merlin, A., *Forum et maisons d'Althiburos, Notes et documents*, VI, 1913, p. 36-38, plan pl. III. [(worldcat)](https://search.worldcat.org/title/490070526)
@@ -62,11 +61,13 @@ The house stands on the other side of the Wadi Oum El Abid, on the left bank, 12
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="324664" name="Althiburos" >}}
 - {{< id vocab="TGN" id="5003658" name="Althiburus (deserted settlement)" >}}
 
 <!--
 ## Related articles
+
 [House of the Muses (Maison des Muses)]({{<relref "house_of_the_muses.md">}})
 [Asclepeia Building (Edifice des Asclepeia)]({{<relref "asclepeia_building.md">}})
 -->

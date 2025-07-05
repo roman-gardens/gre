@@ -12,6 +12,7 @@ draft: false
 ---
 
 ## Dates
+
 1st c. BCE
 
 ## Garden Description
@@ -22,13 +23,16 @@ The core building of the **House of Fourni** is arranged along a main axis with 
 
 <!--
 ## Maps
+
 -->
 
 ## Plans
+
 {{< image file="delos_fig5_maison_de_fourni.jpg" caption="Fig. 1:  Maison de Fourni, sketch, 1:250." credit="Drawing by M. Trümper after Bruneau and Ducat 2005, Dépliant VIII; Bruneau 1972 : 305-316, nos. 325-339, figs. 271-294 ; Le Roy 1984 : 167-173, plate 1." alt="Archaeological plan of the Maison de Fourni" >}}
 
 <!--
 ## Images
+
 {{< image file="delos_fig8_perfumery.jpg" caption="Fig. 4: 'Perfumery,' Quarter of the Stadium, Insula I, building B, overview from southeast." credit="Photo courtesy of M. Trümper." alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." >}}
 
 {{< image file="delos_fig9_theat_quart_ii_house_e.jpg" caption="Fig. 5:  Quarter of the Theater, insula II, house E, overview of the courtyard from southwest." credit="Photo courtesy of M. Trümper." alt="Photo of courtyard inside house E" >}}
@@ -37,6 +41,7 @@ The core building of the **House of Fourni** is arranged along a main axis with 
 -->
 
 ## Bibliography
+
 - P. Bruneau, *Recherches sur les cultes de Délos à l'époque hellénistique et à l'époque impériale.* BEFAR fasc. 217, 1970. [(worldcat)](https://search.worldcat.org/title/2349270).
 - P. Bruneau, *Les mosaïques.* Exploration archéologique de Délos 29. Paris 1972. [(worldcat)](https://search.worldcat.org/title/602911335).
 - C. Le Roy, "Le tracé et le plan d'une villa hellénistique. La maison de Fourni à Délos," in *Le dessin d'architecture dans les sociétés antiques. Actes du Colloque de Strasbourg, 26-28 janvier 1984.* Travaux du Centre de Recherche sur le Proche Orient et la Grèce Antiques 8, 1985: 167-173, pl. 1. [(worldcat)](https://search.worldcat.org/title/185422654).
@@ -53,6 +58,7 @@ The core building of the **House of Fourni** is arranged along a main axis with 
 
 <!--
 ## Places
+
 places containing this garden will be listed automatically
 - {{< id vocab="Pleiades" id="" name="" >}}
 - {{< id vocab="TGN" id="" name="" >}}

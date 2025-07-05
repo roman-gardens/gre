@@ -23,12 +23,15 @@ draft: false
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 [Insula VII]({{<relref ".">}})
 
 ## Garden
+
 Casa di Galba
 
 
@@ -45,13 +48,16 @@ The excavation of this site was begun in 1873-1874 and is still incomplete. A si
 
 
 ## Plans
+
 {{< image file="herculaneum_casa_di_galba.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
 ## Dates
+
 Unspecified
 
 ## Bibliography

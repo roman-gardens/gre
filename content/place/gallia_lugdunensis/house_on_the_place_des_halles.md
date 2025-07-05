@@ -12,6 +12,7 @@ draft: true
 ---
 
 ## Location
+
 -- missing in Pleiades --
 - [VINDINUM a.k.a. Subdinnum (Le Mans, France)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="109236" name="VINDINUM a.k.a. Subdinnum" >}}
@@ -29,6 +30,7 @@ A sublocation is any area larger than an individual garden, but located within a
 On the left bank of the Sarthe, where it is joined by the Isaac creek, the Roman town was the successor to a Celtic oppidum. A wall of the late empire enclosed nine hectares.
 
 ## Garden
+
 House on the Place des Halles (La maison des Halles)
 
 ## Keywords
@@ -47,23 +49,17 @@ This *domus* was on the Place des Halles, the former site of the covered market 
 
 ## Maps
 
-<!--
--->
-
 ## Plans
-{{< image file="place_des_halles.jpg" caption="Restored section of the entire domus by P. André" credit="" alt="A section drawing depicting the two floors of what a restored domus would look like." >}}
-<!--
--->
 
+{{< image file="place_des_halles.jpg" caption="Restored section of the entire domus by P. André" credit="" alt="A section drawing depicting the two floors of what a restored domus would look like." >}}
 ## Images
 
-<!--
--->
-
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - Service  Régional  de  l'Archéologie  des  Pays  de  la  Loire, *La  Sarthe,*  72, CAG p. 318-319, plan  p. 318. [(worldcat)](https://search.worldcat.org/title/316192643)
 
 

@@ -12,6 +12,7 @@ draft: false
 ---
 
 ## Province
+
 - [Numidia]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
 
@@ -32,6 +33,7 @@ Timgad, ancient Thamugadi was founded as a colony under Trajan. The city had a c
 
 
 ## Garden
+
 Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 
 ## Keywords
@@ -44,28 +46,23 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 - {{< keyword "inscriptions" >}}
 
 ## Garden Description
+
 The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of the city. An inscription that was discovered during the Byzantine fort excavations enumerates the embellishments that were undertaken in 213 by the city of Timgad for the sanctuary, Aqua Septimiana Felix: one of which, a bronze balustrade surrounding the spring (a pool with marble slabs of 3,6 m x 13, 60 m) and a *viridarium* surrounded by porticoes decorated with paintings (*porticus virdiari (sic) picturis ornatas*).
 
 
 ## Maps
 
-<!--
--->
-
 ## Plans
+
 {{< image file="water_sanctuary _aqua_eptimania_felix1.jpg" caption="Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix" credit="(Lassus, J., 1981, fig. 9)" alt="Plan of the Water Sanctuary Aqua Septimiana Felix">}}
 
-<!--
--->
-
 ## Images
-<!--
--->
 
 ## Dates
 2nd-3rd century CE
 
 ## Bibliography
+
 * Courtois, C., *Timgad, antique Thamugadi*, Alger, 1951. [(worldcat)](https://search.worldcat.org/title/23396951)
 * Malek, A.-A., "Le Jardin Dans Les Sanctuaires De L'afrique Romaine: Premières Approches.", in *Du Culte Aux Sanctuaires : L'architecture Religieuse Dans L'afrique Romaine Et Byzantine : Actes Du Colloque*, 18-19 Avril 2013, Paris, Fondation Simone Et Cino Del Duca... -. (2018), p. 362, fig. 12. [(worldcat)](https://search.worldcat.org/title/1201712466)
 *  Lassus, J., *La forteresse byzantine de Thamugadi, Fouilles à Timgad*, 1938-1956, Paris, 1981, plan p. 25, fig. 9, pp. 215-17, fig. 174-76. [(worldcat)](https://search.worldcat.org/title/906459184)

@@ -12,6 +12,7 @@ draft: false
 ---
 
 ## Location
+
 - [THUGGA (Dougga) Tunisia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="315223" name="THUGGA (Dougga) Tunisia" >}}
 
@@ -43,9 +44,11 @@ At the rear of the theater is a *xystis* known from the dedication inscription (
 {{< image file="AFR_Thu_T_Wjashemski_color.jpg" caption="Fig.1 Plan of the Temple(Les ruines de Dougga, p. 53, plan général n°18)" credit="" alt="Plan of the Temple" >}}
 
 ## Dates
+
 1st-2nd century CE
 
 ## Bibliography
+
 * Aounallah, S., Maurin, L., "Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)", in *Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras*, Rennes, Presses universitaires de Rennes, 2013. [(worldcat)](https://search.worldcat.org/title/7380877046)
 *  Poinssot, C., *Les ruines de Dougga*, Tunis, 1958, n°18, p. 53: plan, général n°18. [(worldcat)](https://search.worldcat.org/title/475099061)
 

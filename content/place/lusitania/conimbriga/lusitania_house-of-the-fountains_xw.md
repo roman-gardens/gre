@@ -30,6 +30,7 @@ Despite the prior existence of urban centers like Metellinum, the capital of Lus
 The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Augustan period and, thereafter, a forum, a public bath-house, an aqueduct and city walls were constructed.  During the Flavian period, the city was made a municipium with ius Latii.  At the end of the third or beginning of the fourth century AD, new fortification walls considerably reduced the area occupied by the city.  In the time of the Suevi it was an Episcopal See, which was then transferred to Aeminium (the present day Coimbra) around A. D. 585, when the kingdom of the Suevi was conquered by the Visigoths.  Further reduced in area and impoverished, the city survived until 986, at which date, according to Arab sources, it was destroyed by the great Muslim chief Almansor. In addition to the Augustan forum, which was completely rebuilt on a new ground plan under the Flavians, four bath houses have been excavated, and preliminary trial trenches established the plan of the amphitheater. Four domus have been excavated, three of which were left outside the wall built under the late empire.  It is in these houses, all built around peristyles, that we find the gardens of Conimbriga.
 
 ## Garden
+
 House of the Fountains
 
 ## Keywords
@@ -45,15 +46,11 @@ The house has recently been the subject of a monograph by Isabelle Morand in whi
 
 ## Maps
 
-<!--
--->
-
 ## Plans
-{{< image file="HIS LUS_Conimbriga_Fountains_Plan_CA fig1.jpg" caption="Fig. 1: Plan of the House of the Fountains." credit="Adapted from I. Morand." alt="Plan of the fountains at Conimbriga, Lusitania Province" >}}
-<!--
--->
 
+{{< image file="HIS LUS_Conimbriga_Fountains_Plan_CA fig1.jpg" caption="Fig. 1: Plan of the House of the Fountains." credit="Adapted from I. Morand." alt="Plan of the fountains at Conimbriga, Lusitania Province" >}}
 ## Images
+
 {{< image file="HIS LUS_Conim_ Fountains_Ph_CA fig2.jpg" caption="Fig. 2: Photo of the House of the Fountain in 2007 with the new roof." credit="" alt="Photo of the fountains at Conimbriga, Lusitania Province" >}}
 
 
@@ -61,6 +58,7 @@ The house has recently been the subject of a monograph by Isabelle Morand in whi
 
 
 ## Bibliography
+
 - Morand, I., La Maison aux jets d'eau de Conimbriga (Boccard, Paris, 2005). [(worldcat)](https://search.worldcat.org/title/255066311)
 
 ## Places

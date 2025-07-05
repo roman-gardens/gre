@@ -12,10 +12,12 @@ draft: false
 ---
 
 ## Location
+
 - [THYSDRUS (El Jem) Tunisia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="324835" name="THYSDRUS (El Jem) Tunisia" >}}
 
 ## Location Description
+
 Thysdrus is located on the western border of the Sahel at 60 km S of Hadrumetum on the road leading to Sfax. The development, from the end of the 2d c., of its olive plantations and its trade in oil made the fortune of the city.
 
 The name appeared for the first time in the period of Caesar's African campaign when the city, at the time a small town, took side with the Pompeian and Juba against Ceasar. Towards the end of the 2d c. it became a *municipium*, competing with Hadrumetum for the second place in the province. The decline of Thysdrus began when, involved in a political crisis, the city choose the side of Gordian proconsul of Africa against the Emperor Maximianus. The joint effects of the political disgrace and the economic crisis, which resulted from it, brought an end to its development. By the end of the IVth century it was scarcely mentioned by the Catholic and Donatist bishops.
@@ -43,6 +45,7 @@ The light well (XXVII, 8.45 x 2.75 m) to the W of the *oecus* was also planted.
 
 
 ## Plans
+
 {{< image file="AFR_Thy_Hp_Wjashemski1.jpg" caption="Fig. 1: Plan of the House of the Peacock. (CMT, plans 3-4)" credit="" alt="" >}}
 
 <!--## Images-->
@@ -52,6 +55,7 @@ The light well (XXVII, 8.45 x 2.75 m) to the W of the *oecus* was also planted.
 Early 3rd century CE
 
 ## Bibliography
+
 * Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.266-267.pp.313-316. [(worldcat)](https://search.worldcat.org/title/989088620)
 * Dulière, C., *Corpus des Mosaïques de Tunisie*, *Thysdrus, El Jem*, *Quartier Sud-Ouest*, INA, Tunis, 1996, pp. 31-66, plans 3-4.[(worldcat)](https://search.worldcat.org/title/884623863)
 

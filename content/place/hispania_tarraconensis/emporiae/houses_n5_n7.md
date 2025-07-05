@@ -12,10 +12,12 @@ draft: true
 ---
 
 ## Province
+
 - [Hispania Tarraconensis]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
 
 ## Province Description
+
 In 236 BC, to offset Carthage's loss of Sicily and Sardinia in the First Punic War, Hamilcar Barca led an expedition into Hispania to establish a colony there.  Through force of arms and diplomacy, he spread Carthaginian influence as far north as Barcellona, which bears his name.  In 230 BC, Hasdrubal, his son-in-law, established Qart Hadast that became Carthago Nova in Roman times and Cartagena today.  After the death of Hasdrubal, Hannibal, Hamilcar's oldest son, took command, attacked Saguntum, and in 218 set out for Italy leaving his younger brother, Hasdrubal, in command in Spain.  Through the Alps, he descended into Italy and threatened Rome for fourteen years.  Roman armies under the brothers Gnaeus and Publius Cornelius Scipio kept Hasdrubal in check and prevented his reinforcing Hannibal. They were both killed by the Carthaginians in 212.  Two years later, another Publius Cornelius Scipio, the  25-year-old son of the late general of the same name, was sent to Spain.  The next year, he captured New Carthage and, in 206 at the battle of Ilipa (about 15 km north of Savilla) destroyed most of the Carthaginians' numerically superior army and ended their hold on Spain.  Scipio settled his wounded veterans nearby at a place he called Italica to remind them of their origins.  Today, it is one of the best Roman archaeological sites in Italy.  After a quick trip back to Rome, where he was elected consul, he returned to Spain and went on to attack Carthage itself.  Hannibal was recalled to Africa, but Scipio annihilated his army in 202.  Rome thus came into possession of the Mediterranean coast of Iberia.
 
 If Rome was drawn into Hispania to keep the Carthaginians there from supporting Hannibal in Italy, it missed the opportunity offered by Hannibal's defeat to get out of Spain honorably.  Instead, in 197 BC it created two new Roman provinces, Hispania Citerior whose capital was Carthago Nova and Hispania Ulterior with Corduba as its capital.  Soon after, Rome launched a long war to subjugate the Lusitani, Celtiberians on the west coast.  During Sulla's dictatorship, the Lusitani were again in revolt, this time under the able leadership of the Roman general Quintus Sertorius, who sought to create an independent, Roman-like state in Hispania. He established a senate and schools for the sons of the local nobility.
@@ -32,6 +34,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Bibliography
+
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
 
 - P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](https://search.worldcat.org/title/640067386)
@@ -42,11 +45,13 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Location
+
 - [Emporiae]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="246382" name="Emporiae" >}}
 
 
 ## Location Description
+
 As Strabo (3.4.8) tells us, Greeks from Phokaia, by way of Massalia (Marseilles), established a market town (Emporion) here.  Archaeology gives a date of approximately 575- 550 BC.  The original settlement was on an island in the mouth of the Fluvià River. About 550, the settlement began to spread south onto the mainland, and the original settlement became known as Palaiapolis, the Old City.  For clarity, archaeologists have given this Greek settlement on the mainland the corresponding name of Neapolis, New City.  The plural form of the Latin name for the area – Emporiae, "markets" –  reflects the dual nature of the city.  Though literary sources mention other Greek settlements along the coast of the Iberian Peninsula, this is the only one known archaeologically.
 
 Not only was Emporion the point of first contact between the Celtoiberians and Hellenic civilization, it was also here that, in 218 B.C., Roman armies first entered Iberia.  The Roman consul Publius Cornelius Scipio reached Massalia too late to intercept Hannibal on his march into Italy, so he dispatched his brother Cnaeus with part of his forces to Emporion to cut Hannibal's supply lines, while he himself returned to engage the Carthaginian in the Po valley.
@@ -59,6 +64,7 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 
 
 ## Bibliography
+
 - M.A. Basch, Ampurias; *historia de la ciudad y guía de las excavaciones*. Barcelona, 1951 [(worldcat)](https://search.worldcat.org/title/802755367)
 
 - A. Balil Iliana, *Casa y urbanismo en la España antigua. Casa familiar y vivienda colectiva en la España romana*, in Boletín del Seminario de Estudios de Arte y Arqueología, XXXVIII. Universidad de Valladolid, Valladolid, 1972 [(worldcat)](https://search.worldcat.org/title/7243478)
@@ -71,13 +77,16 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 
 
 ## Plans
+
 {{< image file="HIS_TAR_Emp_plan_fig2.jpg" caption="Plan of Emporiae." credit="Adapted from Mar and Ruiz de Arbulo." alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." >}}
 
 ## Images
+
 {{< image file="HIS_TAR_Emp_aerial_viewfig1.jpg" caption="Aerial view of Emporiae at the end of the first century BC." credit="Adapted from Mar and Ruiz de Arbulo." alt="" >}}
 
 
 ## Garden
+
 Houses N5 and N7
 
 ## Keywords
@@ -92,17 +101,20 @@ These two adjacent houses are typical Tuscan atrium houses, both are against the
 
 
 ## Plans
+
 {{< image file="HIS_TAR_Emp_5_7_fig1.jpg" caption="Plan of Houses N7 and N5." credit="Adapted from Ampurias Romana, p.366." alt="" >}}
 
 {{< image file="HIS_TAR_Emp_5_7_fig2.jpg" caption="Plan of Houses N7 and N6." credit="Adapted from Mar and Ruiz de Arbulo." alt="" >}}
 
 ## Dates
+
 Unspecified
 
 <!---doesn't have ## Bibliography-->
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="246382" name="Emporiae" >}}
 - {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}
 

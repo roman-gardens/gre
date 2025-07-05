@@ -12,6 +12,7 @@ draft: false
 ---
 
 ## Dates
+
 1st c. BCE
 
 ## Garden Description
@@ -24,17 +25,21 @@ Whether the *impluvium* of 30.20 square meters (a) of **House F** in insula II o
 
 <!--
 ## Maps
+
 -->
 
 ## Plans
+
 {{< image file="delos_fig7_theat_quart_houses_E_F.jpg" caption="Fig. 1:  Plan of Quarter of the Theater, Insula II, houses E and F, 1:250." credit="Drawing by M. Trümper after J. Chamonard 1922/24, pl. III-IV." alt="Archaeological plan of houses E and F" >}}
 
 ## Images
+
 {{< image file="delos_fig9_theat_quart_ii_house_e.jpg" caption="Fig. 2:  Quarter of the Theater, insula II, house E, overview of the courtyard from southwest." credit="Photo courtesy of M. Trümper." alt="Photo of courtyard inside house E" >}}
 
 {{< image file="delos_fig10_theat_quart_house_f.jpg" caption="Fig. 3:  Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest." credit="Photo courtesy of M. Trümper." alt="Photo of courtyard inside house F" >}}
 
 ## Bibliography
+
 - J. Chamonard, *Le Quartier du théâtre. Étude sur l'habitation délienne à l'époque hellénistique.* Exploration archéologique de Délos VIII. Paris 1922/24. [(worldcat)](https://search.worldcat.org/title/603845054).
 - P. Bruneau, *Recherches sur les cultes de Délos à l'époque hellénistique et à l'époque impériale.* BEFAR 217, 1970. [(worldcat)](https://search.worldcat.org/title/2349270).
 - P. Bruneau and J. Ducat, *Guide de Délos. École française d Athènes.* 4th edition, Paris 2005, Nos. 79, 117, 124. [(worldcat)](https://search.worldcat.org/title/884638358).
@@ -49,6 +54,7 @@ Whether the *impluvium* of 30.20 square meters (a) of **House F** in insula II o
 
 <!--
 ## Places
+
 places containing this garden will be listed automatically
 - {{< id vocab="Pleiades" id="" name="" >}}
 - {{< id vocab="TGN" id="" name="" >}}

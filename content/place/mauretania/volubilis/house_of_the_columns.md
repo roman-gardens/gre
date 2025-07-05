@@ -49,6 +49,7 @@ House of the Columns (La maison aux colonnes)
 The House of the Columns, approximately 1880 square meters, is located to the north of the triumphal arch along the decumanus. The large Rhodian-type peristyle was enclosed on four sides by a portico supported by 14 columns. The space between the columns was spanned by a low wall (Plan view, Fig.1). A large circular pool filled most of the courtyard. Plants may have been grown in the space between the portico and the pool. The central space of the north portico was framed by two taller, twisted Corinthian columns in between which was a pedestal that supported a fountain sculpture. The elevated north portico permitted a good view into the garden from the triclinium (label T).
 
 ## Plans
+
 <!--Plan View Image Missing-->
 <!-- {{< image file="IMAGEMISSING" caption="Fig. 1: Plan of the House of the Columns" credit="" alt="Plan of the House of the Columns" >}} -->
 

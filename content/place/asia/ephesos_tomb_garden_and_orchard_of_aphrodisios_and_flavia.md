@@ -17,6 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="981509" name="Asia (Roman Province)" >}}
 
 ## Province Description
+
 The region of what is now modern Turkey became a part of the Roman Empire in 133 B.C. when king Attalos III of Pergamum bequeathed his kingdom to the Roman people.  The province included the heartland of the Pergamene kingdom as well as the territories of Mysia, Lydia, Ionia, Caria, western Phrygia and the eastern Aegean islands.  Under Augustus in 27 B.C. Asia was declared a senatorial province and the governance of a proconsul.  The capital of the province was Ephesos, although Pergamon may have fulfilled this role initially.  Under Diocletian (284-305 A.D.) the province was subdivided into smaller administrative units: Hellespontus, Asia, Lydia, Caria, Phrygia I and Phrygia II.  Due to its excellent harbors on the west coast and its many navigable rivers, Asia's water-borne trade with the rest of the Mediterranean flourished.  In the second century A.D. Asia experienced great prosperity, to which the growth and architectural aggrandizement of many of its cities attest. In the area of Kibyra, bordering the regions of Lycia, Caria, Phrygia and Pisidia, numerous inscriptions refer to the large imperial estates of Roman families.  Woolen textiles, marble, and timber constituted a significant part of the commodities exported from the province.
 
 While the Romans might have looked to the Greeks for inspiration in philosophy, architecture, sculpture, and the fine arts, the non-Greek peoples of the eastern Mediterranean are their inspiration for luxury, fine-living, and the status conferred by displays of individual wealth (*Athenaeus Deip.* XV.690).  Asia was a center for such splendor, first in the kingdoms of Lydia, Phrygia, and Lycia, and then continued by the Persian satraps, and later the Hellenistic kings.  The Persian *paradeisos* is particularly well-attested in literature referencing Asia.  That these gardens are known primarily from Roman-period literary sources indicates their continuing influence. For example, long after the gold of Lydia's Pactolus River had disappeared, Lydia remained a literary *topos*, not only for copious wealth, but for a life of luxury set in a landscape of natural abundance.  Athenaeus (*Deipnosophistae* 12.515d-f) wrote in the second century A.D. that
@@ -35,9 +36,11 @@ Despite the importance of Asia Minor in the history of the Roman landscape, arch
 - {{< id vocab="Pleiades" id="599612" name="EPHESOS (Efes, Turkey)" >}}
 
 ## Location Description
+
 Remains of gardens have yet to be discovered in this city, but an appreciation for garden culture is seen in the Terrace Houses, dating to the second and third centuries A.D., where wall paintings not only depict gardens, but use garden images to create the illustionistic experience of being in the space of garden.
 
 ## Garden
+
 Tomb Garden and Orchard of Aphrodisios and Flavia
 
 ## Keywords
@@ -60,19 +63,19 @@ According to a secondary inscription carved horizontally, perhaps in the third c
 -->
 <!--
 ## Plans
+
 <!-- {{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan of the excavations at Aphrodisias" credit="" alt="Plan of villa rustica at Blackenheim-Hülchrath">}}
 <!--
 -->
 <!--
 ## Images
 
-<!--
--->
-
 ## Dates
+
 2nd or 3rd c. B.C.
 
 ## Bibliography
+
 - E. L. Hicks, *The Collection of Ancient Greek Inscriptions in the British Museum* III.2 Ephesos. Oxford, 1890, no. 625b [(worldcat)](https://search.worldcat.org/title/866630869)
 - B. Keil, "Über kleinasiatische Grabinschriften," *Hermes* 43, 1908:546, n. 1 [(worldcat)](https://search.worldcat.org/title/5546821422)
 - J. Kubin'ska, *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure*. Warsaw, 1968, pp. 115, 144 [(worldcat)](https://search.worldcat.org/title/1164839456)

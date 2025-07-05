@@ -22,16 +22,20 @@ draft: true
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 
 ## Insula
+
 II
 
 ## House
+
 2
 
 ## Garden
+
 Casa D'Argo
 
 
@@ -79,5 +83,6 @@ unspecified
 -
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}

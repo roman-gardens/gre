@@ -17,6 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="981551" name="Tarraconensis" >}}
 
 ## Province Description
+
 In 236 BC, to offset Carthage's loss of Sicily and Sardinia in the First Punic War, Hamilcar Barca led an expedition into Hispania to establish a colony there.  Through force of arms and diplomacy, he spread Carthaginian influence as far north as Barcellona, which bears his name.  In 230 BC, Hasdrubal, his son-in-law, established Qart Hadast that became Carthago Nova in Roman times and Cartagena today.  After the death of Hasdrubal, Hannibal, Hamilcar's oldest son, took command, attacked Saguntum, and in 218 set out for Italy leaving his younger brother, Hasdrubal, in command in Spain.  Through the Alps, he descended into Italy and threatened Rome for fourteen years.  Roman armies under the brothers Gnaeus and Publius Cornelius Scipio kept Hasdrubal in check and prevented his reinforcing Hannibal. They were both killed by the Carthaginians in 212.  Two years later, another Publius Cornelius Scipio, the  25-year-old son of the late general of the same name, was sent to Spain.  The next year, he captured New Carthage and, in 206 at the battle of Ilipa (about 15 km north of Savilla) destroyed most of the Carthaginians' numerically superior army and ended their hold on Spain.  Scipio settled his wounded veterans nearby at a place he called Italica to remind them of their origins.  Today, it is one of the best Roman archaeological sites in Italy.  After a quick trip back to Rome, where he was elected consul, he returned to Spain and went on to attack Carthage itself.  Hannibal was recalled to Africa, but Scipio annihilated his army in 202.  Rome thus came into possession of the Mediterranean coast of Iberia.
 
 If Rome was drawn into Hispania to keep the Carthaginians there from supporting Hannibal in Italy, it missed the opportunity offered by Hannibal's defeat to get out of Spain honorably.  Instead, in 197 BC it created two new Roman provinces, Hispania Citerior whose capital was Carthago Nova and Hispania Ulterior with Corduba as its capital.  Soon after, Rome launched a long war to subjugate the Lusitani, Celtiberians on the west coast.  During Sulla's dictatorship, the Lusitani were again in revolt, this time under the able leadership of the Roman general Quintus Sertorius, who sought to create an independent, Roman-like state in Hispania. He established a senate and schools for the sons of the local nobility.
@@ -33,6 +34,7 @@ The roughly triangular province of Tarraconensis, by far the largest of the thre
 
 
 ## Bibliography
+
 - J. M. Blázquez, *Los jardines en la Hispania Romana*, in Historia de los Parques y Jardines en España. Madrid, 2001, pp. 5-35; M. C. Fernández Castro, Las villas romanas en Hispania. Madrid, 1986 [(worldcat)](https://search.worldcat.org/title/1090911182)
 
 - P. Fernández Urdiel, *Fases de la conquista romana e inicios del asentamiento*, in Hispania. El legado de Roma. En el año de Trajano. Museo Nacional de Arte Romano de Mérida, Ministerio de Educación y Ciencia, Caja Duero. Zaragoza, 1999, p. 53-67 [(worldcat)](https://search.worldcat.org/title/640067386)
@@ -63,9 +65,6 @@ Villa de Los Villares
 
 The villa is about 200 meters south of the center of the modern village of Santervas del Burgo and about 100 meters south of the left bank of the river Cejos.  The ruins are reburied beneath the earth in a field, awaiting funds to present them properly.
 The villa was built in the first third of the 2nd century, destroyed by the Germanic invasions of the years immediately after 256, then rebuilt and enlarged under the restored empire, and finally abandoned  in the 5th century.  The large central peristyle courtyard (43.5 x 19 m) had porticoes on all four sides and a garden with a drainage system in the middle.  On the south side, the room with the circular, quadrilobed interior had a mosaic of Ceres and a cornucopia.  A series of agricultural buildings and other gardens joined it on the north side.
-
-<!--
--->
 
 ## Plans
 

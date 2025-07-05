@@ -13,23 +13,29 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region II]({{<relref "..">}})
 ## Insula
+
 [Insula VIII]({{<relref ".">}})
 
 ## Garden
+
 Caupona with small bath.
 
 ## Keywords
@@ -46,14 +52,18 @@ A. A very small bath was located at the left rear of the [atrium](http://vocab.g
 B. Another small garden was found to the rear of the [caupona](http://vocab.getty.edu/page/aat/300005208).
 
 <!--## Plans
+
 {{< image file="../../fig._62,_plan_of_region_ii,_insula_viii.png" caption="Fig. 62, Plan of Region II, insula viii" credit="" alt="" >}}-->
 
 ## Places
+
 - {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ## Dates
+
 Excavated 1954.
 
 ## Bibliography
+
 * Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.94 [(worldcat)](https://search.worldcat.org/title/921816405)

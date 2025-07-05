@@ -12,16 +12,20 @@ draft: true
 ---
 
 ## Location
+
 - {{< id vocab="Pleiades" id="74935822" name="Via Labicana" >}}
 
 ## Sublocation
+
 Via Labicana
 
 ## Sublocation Description
+
 An ancient Roman road connecting Rome and Labicum.
 
 
 ## Garden
+
 Temple Tomb Garden of Q. Haterius Tychicus
 
 ## Keywords
@@ -38,10 +42,12 @@ One of the well-known reliefs from the tomb monument of the Haterii found in 184
 
 
 ## Dates
+
 Unspecified
 
 
 ## Bibliography
+
 - G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](https://search.worldcat.org/title/886794800)
 
 -F. Sinn and K. S. Freyberger, *Vatikansiche Museen: Museo Gregorio Profano ex Lateranense: Dir Grabdenkmäler 2: Die Ausstatung des Hateriusgrabes,* (Mainz 1996) 45-51, no. 5 (pl. 7, figs. 8-10). [worldcat](https://search.worldcat.org/title/312453022)

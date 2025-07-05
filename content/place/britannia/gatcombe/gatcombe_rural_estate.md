@@ -31,6 +31,7 @@ This site of a large rural estate about 9 hectares in size in Somerset is enclos
 
 <!--
 ## Maps
+
 -->
 
 ## Plans
@@ -39,6 +40,7 @@ This site of a large rural estate about 9 hectares in size in Somerset is enclos
 
 <!--
 ## Images
+
 -->
 
 ## Dates

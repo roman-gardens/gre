@@ -22,9 +22,11 @@ draft: true
 - {{< id vocab="Pleiades" id="266044" name="El Solao" >}}
 
 ## Location Description
+
 A village of about 600 inhabitants 19 kilometers northwest of Toledo.  The ruins of the villa are often called "termas" (baths).
 
 ## Garden
+
 The so-called "Baths" of Rielves
 
 <!-- Not sure why the keywords and garden description are commented out...
@@ -46,9 +48,6 @@ The large number of objects of daily life found in the ruins, some under toppled
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
 {{< image file="his_tar_rie_baths_fig1.jpg" caption="Fig. 1:  Plan of the \"Baths\" of Rielves." credit="" alt="Plan of The so-called \"Baths\" of Rielves at Toledo Province, Spain. The axial plan of this villa and its mosaics are representative of the luxurious villas of the late Imperial period. The semicircular colonnade, which enclosed the garden, was typical of North African villas. The garden may have been watered with run-off from the villa baths. " >}}
@@ -56,13 +55,11 @@ The large number of objects of daily life found in the ruins, some under toppled
 
 ## Images
 
-<!--
--->
-
 <!--## Dates-->
 
 
 ## Bibliography
+
 - Mª C. Fernández Castro, Las llamadas "Termas" de Rielves (Toledo), in Archivo Español de Arqueología, L-LI. CSIC, Madrid, 1978, pp. 209-251. [(worldcat)](https://search.worldcat.org/title/1122498001)
 
 ## Places

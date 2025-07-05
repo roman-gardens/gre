@@ -12,20 +12,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region I]({{<relref ".">}})
 ## Insula
+
 [Insula IV]({{<relref "#">}})
 
 ## Keywords
@@ -40,6 +45,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "triclinia (rooms)" >}}
 
 ## Garden
+
 House of the Citharist (also known as the Casa Del Citarista, House of L. Popidius Secundus Agustianus, and L. Popidus Ampliatus), a domestic property with [peristyle](http://vocab.getty.edu/page/aat/300080971) gardens.
 
 
@@ -94,9 +100,11 @@ C. The north [peristyle](http://vocab.getty.edu/page/aat/300080971) garden belon
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="222138654" name="Regio I, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 ##  Excavation Dates
+
 Excavated 1853-1861, 1868, 1872 and 1929.
 

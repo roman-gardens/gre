@@ -12,6 +12,7 @@ draft: false
 ---
 
 ## Location
+
 - [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
@@ -44,6 +45,7 @@ A strip of soil bordered most of the long sides of the temple and the mosaic pav
 {{< image file="East_temple_Plan.jpg" caption="Fig. 1: Plan of the East Temple" credit="(CMT, V.  II, fasc.4, plan 1-2. Malek, A.-A., 2018, fig. 14)" alt="Plan of the East Temple" >}}
 
 ## Dates
+
 Unspecified
 
 ## Bibliography

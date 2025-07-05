@@ -27,6 +27,7 @@ A sublocation is any area larger than an individual garden, but located within a
 <!-- ## Sublocation Description -->
 
 ## Garden
+
 Rural Villa
 
 ## Keywords
@@ -51,19 +52,15 @@ None Available
 ## Plans
 
 None Available
-<!--
--->
-
 ## Images
 
 None Available
-<!--
--->
-
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, p. 653, fig. 594. [(worldcat)](https://search.worldcat.org/title/924024101)
 
 <!--

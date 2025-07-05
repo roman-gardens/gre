@@ -12,24 +12,29 @@ draft: true
 ---
 
 ## Province
+
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 <!--- Content of Province heading --->
 
 ## Province Description
+
 The Italian peninsula extending northward to the Alps as recognized by the Romans.
 <!-- DESCRIPTION -->
 
 
 ## Location
+
 - [Pompeii]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 <!-- LEAVE THIS BLANK FOR NOW -->
 
 ## Sublocation
+
 - {{< id vocab="Pleiades" id="984330151" name="Regio VI" >}}
 <!--
 [AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
@@ -37,10 +42,12 @@ A sublocation is any area larger than an individual garden, but located within a
 -->
 
 ## Insula
+
 Insula I
 <!-- DESCRIPTION -->
 
 ## Garden
+
 VI.I.1
 <!-- List of gardens in province -->
 <!-- May be left blank for now -->
@@ -57,6 +64,7 @@ VI.I.1
 Just inside the *Porta di Ercolano* was a small inn pressed against the city wall that had a garden with a masonry *triclinium* (l. *medius*, 3.95 m.; *l. imus* 4.00; *l. summus* 3.75 m.). A vine covered pergola had provided shade to the *triclinium* and the sockets in the back wall where the pergola roof supports fitted were visible when this area was excavated in 1787. Rooms upstairs provided overnight accommodations for guests. A cistern opening in the southwest corner of the garden received water from a gutter that ran along the south edge.
 
 ## Dates
+
 79 CE
 <!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
 <!-- If no date, use "unspecified" -->
@@ -76,5 +84,6 @@ Soprano, p. 300, no. 13.
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="222138654" name="Regio I, Pompeii" >}}
 - {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}>}}

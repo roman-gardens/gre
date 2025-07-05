@@ -25,6 +25,7 @@ draft: false
 
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 
@@ -33,9 +34,11 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A
 [Insula Orientalis II]({{<relref ".">}})
 
 ## House
+
 Thermea
 
 ## Garden
+
 Great Palestra
 
 ## Keywords
@@ -51,10 +54,12 @@ The Palaestra was crossed by Burbon tunnels in 1756-1760 and partially excavated
 
 
 ## Plans
+
 {{< image file="herculaneum_ii.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="" >}}
 {{< image file="h_garden_casa_rilievo.jpg" caption="Herculaneum - Garden at rear of Casa del Rilievo di Telefo." credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
@@ -63,6 +68,7 @@ The Palaestra was crossed by Burbon tunnels in 1756-1760 and partially excavated
 Unspecified
 
 ## Bibliography
+
 * Jashemski, *Gardens*, 1:162-163, n. 94 on p. 348 and fig. 247 on p. 163[(worldcat)](https://search.worldcat.org/title/1029851777)
 * Maiuri, *Herculaneum*, pp. 55-56 [(worldcat)](https://search.worldcat.org/title/1107784297)
 * Maiuri, "Fontana monumentale in bronzo nei nuovi scavi di Ercolano," BdA (1954), pp. 193-199[(worldcat)](https://search.worldcat.org/title/908521660)

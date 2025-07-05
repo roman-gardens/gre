@@ -17,6 +17,7 @@ draft: true
 - {{< id vocab="Pleiades" id="108784" name="Bad Dürkheim" >}}
 
 ## Garden
+
 Rural Villa
 
 ## Keywords
@@ -42,19 +43,15 @@ None Available
 ## Plans
 
 None Available
-<!--
--->
-
 ## Images
 
 None Available
-<!--
--->
-
 ## Dates
+
 Unspecified
 
 ## Bibliography
+
 - H. Cüppers, ed., Die Römer in Rheinland-Pfalz, Stuttgart, 1990, pp. 317-319, figs. 156, 199. [(worldcat)](https://search.worldcat.org/title/924024101)
 
 ## Places

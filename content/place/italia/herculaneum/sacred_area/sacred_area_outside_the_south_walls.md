@@ -13,15 +13,18 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 
 ## Location
+
 - [Herculaneum]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 
@@ -41,23 +44,29 @@ The southern edge of town was against a sharp drop to the sea. A terrace located
 
 
 ## Plans
+
 {{< image file="herculaneum_sacred.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="" >}}
 {{< image file="h_sacred_area.jpg" caption="Plan of the Sacred Area (Maiuri, Herculaneum)" credit="" alt="" >}}
 
 ## Images
+
 {{< image file="herc._scared_area_south_wall_42.12.64.jpg" caption="Sacred Area Outside the South Walls (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
 ## Dates
+
 Unspecified
 
 ## Excavation Date
+
 1939 to 1958
 
 ## Bibliography
+
 * Jashemski, *Gardens*, 1:158-160 [(worldcat)](https://search.worldcat.org/title/1029851777)
 * Jashemski, *Gardens*, vol.II, p. 371 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Maiuri, *Ercolano*, pp. 181-182 and fig. 143 (plan) opposite p. 176 [(worldcat)](https://search.worldcat.org/title/490581395)

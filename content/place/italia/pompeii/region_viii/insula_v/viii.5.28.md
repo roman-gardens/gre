@@ -13,20 +13,25 @@ draft: false
 ---
 
 ## Province
+
 - [Italia]({{<relref "../../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
+
 - [Pompeii]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region VIII]({{<relref "..">}})
 
 ## Insula
+
 [Insula V]({{<relref ".">}})
 
 ## Keywords
@@ -41,16 +46,20 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Three wide doorways led from the atrium of this house, which did not have a tablinium, to the peristyle of this large garden (a). Nine fluted columns supported the portico which bordered the garden on the east, north and part of the west with a gutter on these same sides. Holes in the columns 0.97 and 0.52 m. from the floor remained where a fence had once been attached.
 
 ## Plans
+
 {{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="Fig. 16, Plan of  Region VIII, Insula V" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
 - {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
 ##  Excavation Dates
+
 Unspecified
 
 ## Bibliography
+
 * Fiorelli, *Descrizione di Pompei*, p. 447 (address given as VIII.vi.10-11) [(worldcat)](https://search.worldcat.org/title/252039996)
 * Jashemski, *Gardens*, vol. II, p. 217 [(worldcat)](https://search.worldcat.org/title/1113367431)
 * Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 230-231 [(worldcat)](https://search.worldcat.org/title/823239162)

@@ -37,9 +37,6 @@ In front of the house to the south was a large area (17 x 37 m.), enclosed by a 
 
 ## Maps
 
-<!--
--->
-
 ## Plans
 
 {{< image file="voerendaal_plan1_EUR_GI_Voe_Rv_carroll.jpg" caption="Plan 1. Plan of the rural villa with a possible walled garden (G) and its pool (P) south of the house (A). Hedges (rows of dots) enclosed the farmyard." credit="Adapted from Willems 1992, Fig. 307." alt="" >}}

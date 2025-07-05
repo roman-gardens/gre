@@ -25,15 +25,19 @@ draft: true
 
 
 ## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 V
 
 ## House
+
 6/7
 
 ## Garden
+
 Casa del Mosaico di Nettuno e di Anfitrite
 
 ## Keywords
@@ -52,6 +56,7 @@ To the very back of this house, excavated in 1932-1936, there was a small courty
 <!-- the following images are not in gre-images...insula_v -->
 
 ## Plans
+
 {{< image file="h_3_3-17.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 {{< image file="h_3_1-2_18-19.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
@@ -64,6 +69,7 @@ To the very back of this house, excavated in 1932-1936, there was a small courty
 {{< image file="herc.iii.19-18.1-2-17.3.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
 ## Places
+
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 - {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
@@ -77,6 +83,7 @@ unspecified
 1932-1936
 
 ## Bibliography
+
 - Jashemski, Gardens, 1:67-68 and fig. 109 on p. 68
 - Jashemski, Gardens, vol.II, p. 371
 - Maiuri, Herculaneum,pp. 45-46

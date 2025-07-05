@@ -12,6 +12,7 @@ draft: false
 ---
 
 ## Location
+
 - [Maoza, near Zoara]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="697768" name="Zoara" >}}
 
@@ -19,6 +20,7 @@ Babatha's orchard was located in a village by the name of Maḥoz 'Eglatain (Ara
 
 
 ## Garden
+
 Babatha's Orchard
 
 ## Keywords
@@ -35,25 +37,28 @@ One scroll in the Babatha Archive, [(P. Yadin 3)](https://www.deadseascrolls.org
 Some years later, Shim'on ben Menahem transferred ownership of the property to his daughter, Babatha. When she registered the land with the Roman census in Deceber 127 CE [(P. Yadin 16)](https://papyri.info/ddbdp/p.babatha;;16), it is described as divided into two adjacent orchards and given the name "Algiphiamma" (Aramaic for "by the seashore").
 
 ## Maps
+
 {{< image file="1_arabia_petraea_map.jpg" caption="Fig. 1: Map showing the approximate location of Babatha's orchard in Maoza in Arabia Petraea. Map by L.-A. Bedal, based on <a href=\"https://commons.wikimedia.org/w/index.php?curid=26047529\">Andrein, with the assistance of EraNavigator</a>" credit="" alt="Map of Petra location" >}}
 
 ## Plans
+
 {{< image file="2_babatha_orchard_plan.jpg" caption="Fig. 2: A proposed plan of the date-palm orchard described in Babatha's Archive. Plan by L.-A. Bedal (based on Esler 2017:Fig. 7.2)" credit="" alt="Proposed plan of Babatha's orchard" >}}
 
 ## Images
-<!-- {{< image file="FILENAME" caption="" credit="" alt="" >}} -->
-<!--
--->
 
+<!-- {{< image file="FILENAME" caption="" credit="" alt="" >}} -->
 ## Dates
+
 99 BCE - 135 CE (Roman period)
 
 ## Bibliography
+
 - Esler, P. F. 2017. *Babatha's Orchard: The Yadin Papyri and an Ancient Jewish Family Tale Retold,* Oxford. [(worldcat)](https://search.worldcat.org/title/994287444)
 
 - Lewis, N., *et al.* 1989. *The Documents from the Bar Kokhba Period in the Cave of the Letters,* Jerusalem: Israel Exploration Society. Pp. 65-68, Plate 13. [(worldcat)](https://search.worldcat.org/title/21262733)
 
 
 ## Places
+
 - {{< id vocab="Pleiades" id="697768" name="Zoara" >}}
 - {{< id vocab="TGN" id="4012542" name="eṣ-Ṣafi (deserted settlement)" >}}

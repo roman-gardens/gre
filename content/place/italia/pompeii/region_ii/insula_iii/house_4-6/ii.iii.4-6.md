@@ -12,19 +12,24 @@ draft: false
 ---
 
 ## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region II]({{<relref ".">}})
 ## Insula
+
 [Insula II]({{<relref "#">}})
 
 ## House
+
 <!-- invalid
 - {{< id vocab="Pleiades" id="998787235" name="II.iii.4-6" >}}
 -->
 
 ## Garden
+
 Small domestic property with a garden to the rear.
 
 ## Keywords
@@ -44,9 +49,11 @@ B. The small garden to the rear of house 4 had an entrance into this large open 
 
 
 ## Dates
+
 1754 to 1757, 1952
 
 ## Bibliography
+
 - Jashemski, Wilhelmina F, and Stanley A. Jashemski, *The Gardens of Pompeii: Herculaneum and the Villas Destroyed by Vesuvius.* New Rochelle, NY: Caratzas, 1993, pp. 84.
 [worldcat](https://search.worldcat.org/title/769881162)
 

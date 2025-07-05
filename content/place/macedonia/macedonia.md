@@ -17,11 +17,13 @@ draft: true
 <!--## Province Description-->
 
 ## Garden
+
 <!-- List of gardens in province -->
 <!-- May be left blank for now -->
 
 
 ## Dates
+
 <!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
 <!-- If no date, use "unspecified" -->
 
