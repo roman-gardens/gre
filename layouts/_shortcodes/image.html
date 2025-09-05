@@ -1,3 +1,12 @@
+{{/*
+
+Example usage (in a garden article):
+    {{< image file="truemper3.jpg"
+        caption="Fig. 3: Agora of the Italians, photo from the southwest."
+        credit="Courtesy of M. Trümper."
+        alt="" >}}
+
+*/}}
 {{- $file := .Get "file" -}}
 {{- $file = urls.JoinPath "https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/" .Page.Parent.Path $file -}}
 
