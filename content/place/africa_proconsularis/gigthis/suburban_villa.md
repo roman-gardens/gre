@@ -46,10 +46,10 @@ On the south of the peristyle was another courtyard with a portico of three colu
 
 ## Plans
 
-{{< image file="suburban_villa.jpg" caption="Fig. 1: Plan of then city and its suburbs" credit="(Constans, L.-A., 1916, pl. I)" alt="Plan of then city and its suburbs">}}
+{{< image file="suburban_villa.jpg" caption="Fig. 1: Plan of then city and its suburbs" credit="(Constans, L.-A., 1916, pl. I)" alt="">}}
 
 
-<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}} -->
+<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="">}} -->
 
 <!-- ## Images -->
 

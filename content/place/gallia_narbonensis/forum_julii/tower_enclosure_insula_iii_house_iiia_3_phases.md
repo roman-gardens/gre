@@ -46,7 +46,7 @@ Tower Enclosure, Insula III, House IIIA – 3 phases
 
 ## House Description
 
-This house is 65 meters south of the rampart and 120 meters to the west of the theater. It occupies the northeast corner of an insula in network B, in the northeast quarter of the city. The house occupies a parcel of 192 square meters, with a useful covered area of 85.5 square meters.  It was bordered on the north by a *decumanus* and on the east by a *cardo* with porticos.  To the west and south, it had common walls with other habitations. Constructed around A.D. 20-25, the house continued in use for 40 – 45 years.
+This house is 65 meters south of the rampart and 120 meters to the west of the theater. It occupies the northeast corner of an insula in network B, in the northeast quarter of the city. The house occupies a parcel of 192 square meters, with a useful covered area of 85.5 square meters.  It was bordered on the north by a *decumanus* and on the east by a *cardo* with porticos.  To the west and south, it had common walls with other habitations. Constructed around A.D. 20-25, the house continued in use for 40-45 years.
 
 In the first phase, the house was composed of large rooms around an open space (10 by 5.5 m) that was perhaps a garden [4]. In the northeast corner there was a square masonry mass, 1.6 meters on a side, of unknown function. The court is bordered on the north by a portico [5] 10 meters long and 2.6 meters wide, which connected the rooms on that side of the house. {Literally, "which played the role of space for circulation in leading to the rooms of habitation to the north."} In the axis of the entrance was the principal reception room.
 

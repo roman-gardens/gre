@@ -44,7 +44,7 @@ The original house, erected after A.D. 50, was rebuilt under [Vespasian](link) a
 
 ## Plans
 
-{{< image file="cologne_dionysius_plan1_EUR_GI_ColClaAA_HoD_carroll.jpg" caption="Plan 1: Plan of the House of Dionysos, built around a central courtyard garden (G) with a pool (grey)." credit="Plan adapted from Fremersdorf 1956, fig. 27." alt="Plan 1. Plan of the House of Dionysius at Colonia Claudia Ara Agrippinensium (Cologne)">}}
+{{< image file="cologne_dionysius_plan1_EUR_GI_ColClaAA_HoD_carroll.jpg" caption="Plan 1: Plan of the House of Dionysos, built around a central courtyard garden (G) with a pool (grey)." credit="Plan adapted from Fremersdorf 1956, fig. 27." alt="">}}
 
 <!-- ## Images -->
 

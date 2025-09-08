@@ -34,7 +34,7 @@ A statue base found in 1886 in a modern cemetery midway along the path between G
 <!--
 ## Plans
 
-{{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan of the excavations at Aphrodisias" credit="" alt="Plan of villa rustica at Blackenheim-Hülchrath">}}
+{{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan of the excavations at Aphrodisias" credit="" alt="">}}
 -->
 
 <!-- ## Images -->

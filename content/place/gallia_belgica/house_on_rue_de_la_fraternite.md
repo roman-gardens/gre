@@ -22,7 +22,7 @@ House on rue de la Fraternité
 
 ## Keywords
 
-- {{< keyword "mosiacs" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "peristyles" >}}
 
 ## Garden Description

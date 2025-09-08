@@ -36,7 +36,7 @@ The precinct has been well-defined archaeologically, but the archaeologists iden
 <!--
 ## Plans
 
-<!-- {{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan of the excavations at Aphrodisias" credit="" alt="Plan of villa rustica at Blackenheim-Hülchrath">}}
+<!-- {{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan of the excavations at Aphrodisias" credit="" alt="">}}
 -->
 
 <!-- ## Images -->

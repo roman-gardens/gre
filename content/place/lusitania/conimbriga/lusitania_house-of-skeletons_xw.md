@@ -51,7 +51,7 @@ The houses were excavated around 1940, at a time when there was no thought of re
 
 ## Plans
 
-{{< image file="HIS LUS_Conim_skeletons_plan_CA fig1.jpg" caption="Fig. 1: Plan of the House of the Skeletons." credit="" alt="Plan of the House of the Skeletons at Conimbriga, Lusitania Province, Spain." >}}
+{{< image file="HIS LUS_Conim_skeletons_plan_CA fig1.jpg" caption="Fig. 1: Plan of the House of the Skeletons." credit="" alt="" >}}
 
 ## Images
 

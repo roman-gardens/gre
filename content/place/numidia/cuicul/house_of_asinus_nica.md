@@ -25,7 +25,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 - [Cuicul]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}
 
-{{< image file="cuicul_house_of_asinus_nica.jpg" caption="Fig. 1: Plan of Cuicul" credit="(AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)" alt="Plan of Cuicul." >}}
+{{< image file="cuicul_house_of_asinus_nica.jpg" caption="Fig. 1: Plan of Cuicul" credit="(AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)" alt="" >}}
 
 ## Location Description
 
@@ -57,11 +57,11 @@ The house lacked wide-open views from exedra and from the galleries towards the 
 
 ## Plans
 
-{{< image file="house_of_asinus_nica_plan1.jpg" caption="Fig. 1: Plan of the House of Asinus Nica (Blanchard-Lemée, M., AOrOc)" credit="" alt="Plan of the House of Asinus Nica." >}}
+{{< image file="house_of_asinus_nica_plan1.jpg" caption="Fig. 1: Plan of the House of Asinus Nica (Blanchard-Lemée, M., AOrOc)" credit="" alt="" >}}
 
 ## Images
 
-{{< image file="house_of_asinus_nica_photo.jpg" caption="Fig. 2: View of the garden (Blanchard-Lemée, M., AOrOc)" credit="" alt="View of the garden." >}}
+{{< image file="house_of_asinus_nica_photo.jpg" caption="Fig. 2: View of the garden (Blanchard-Lemée, M., AOrOc)" credit="" alt="" >}}
 
 ## Dates
 

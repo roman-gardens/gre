@@ -32,7 +32,7 @@ Rural Villa
 
 ## Keywords
 
-- {{< keyword "mosiacs" >}}
+- {{< keyword "mosaics" >}}
 - {{< keyword "courtyards" >}}
 - {{< keyword "peristyles" >}}
 

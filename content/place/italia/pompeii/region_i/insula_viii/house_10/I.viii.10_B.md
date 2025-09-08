@@ -42,9 +42,9 @@ B. At the southwest corner of the house, the courtyard (b) was possibly a garden
 
 ## Plans
 
-{{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
+{{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="" >}}
 
-{{< image file="../region-i-insula-8.jpg" caption="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach" credit="" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." >}}
+{{< image file="../region-i-insula-8.jpg" caption="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach" credit="" alt="" >}}
 
 <!-- ## Images -->
 

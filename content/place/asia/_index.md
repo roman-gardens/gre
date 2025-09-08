@@ -4,7 +4,7 @@ aliases: [/id/3e7f969b71]
 type: place
 title: Asia
 author: Unspecified
-editor: Keith Jenkins
+contributor: Keith Jenkins
 date: 2025-07-01
 modified: 2025-07-01
 draft: true

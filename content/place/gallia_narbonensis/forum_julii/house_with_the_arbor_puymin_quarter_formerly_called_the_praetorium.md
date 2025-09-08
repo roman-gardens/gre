@@ -46,7 +46,7 @@ House with the Arbor, Puymin Quarter, Formerly called the Praetorium
 
 ## House Description
 
-This house stood southwest of the theater, on the Puymin hill, in the residential northeast quarter of the city.  Unearthed between 1927 and 1929, it covered a surface of about 3000 square meters.  A first stage was built around 40 – 30 B.C., followed by a considerable extension to the northeast in the first century A.D.. First interpreted as an official residence, a *praetorium*, by J. Sautel, it takes its present name from an arbor found in the garden.  The house, organized on at least three levels, was considerably worn down so that interpreting the different phases is not easy.
+This house stood southwest of the theater, on the Puymin hill, in the residential northeast quarter of the city.  Unearthed between 1927 and 1929, it covered a surface of about 3000 square meters.  A first stage was built around 40-30 B.C., followed by a considerable extension to the northeast in the first century A.D.. First interpreted as an official residence, a *praetorium*, by J. Sautel, it takes its present name from an arbor found in the garden.  The house, organized on at least three levels, was considerably worn down so that interpreting the different phases is not easy.
 
 ## Garden Description
 

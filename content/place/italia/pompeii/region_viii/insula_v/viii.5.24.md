@@ -45,7 +45,7 @@ The famous painting "Judgment of Solomon" (0.45 x 1.55m.; Mus. Naz. inv. no. 113
 
 ## Plans
 
-{{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="Fig. 16, Plan of  Region VIII, Insula V" >}}
+{{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="" >}}
 
 ## Places
 

@@ -38,7 +38,7 @@ This house, known for its majestic and richly decorated *oecus*, is laidout arou
 
 ## Plans
 
-{{< image file="AFR_Suf_hs_amalek1.jpg" caption="Fig. 1: Plan of the House of the Seasons." credit="(Duval, N. and Hallier, G., 1972, fig. 11)" alt="Plan of the House of the Seasons at Sufetula">}}
+{{< image file="AFR_Suf_hs_amalek1.jpg" caption="Fig. 1: Plan of the House of the Seasons." credit="(Duval, N. and Hallier, G., 1972, fig. 11)" alt="">}}
 
 <!-- ## Images -->
 

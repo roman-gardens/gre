@@ -32,7 +32,7 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 
 ### Website and Data Structure Design
 - Christian Casey, ISAW/NYU
-- [David M. Ratzan](david-m-ratzan), ISAW/NYU
+- [David M. Ratzan](david-ratzan), ISAW/NYU
 - Sebastian Heath, ISAW/NYU
 
 ### Mapping
@@ -54,7 +54,7 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 
 #### Aegyptus
 - *Roger S. Bagnall*, ISAW/NYU
-- [David M. Ratzan](david-m-ratzan)\*\*, ISAW/NYU
+- [David M. Ratzan](david-ratzan)\*\*, ISAW/NYU
 
 #### Africa Proconsularis
 - [Amina-Aïcha Malek](amina-aicha-malek)\*\*, AOROC, CNRS ENS PSL

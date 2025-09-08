@@ -39,7 +39,7 @@ In the Roman period, the clearest evidence for the presence of a formal garden i
 
 ## Plans
 
-<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}} -->
+<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="">}} -->
 
 ## Images
 
@@ -51,11 +51,11 @@ In the Roman period, the clearest evidence for the presence of a formal garden i
 
 ## Bibliography
 
-G. V. Gentili, Notizie degli Scavi 1954, pp. 333–61 [(worldcat)](https://cornell.on.worldcat.org/oclc/1646037);
+G. V. Gentili, Notizie degli Scavi 1954, pp. 333-61 [(worldcat)](https://cornell.on.worldcat.org/oclc/1646037);
 
-R. J. A. Wilson, Archaeological Reports 34 (1987–88):  115, fig. 6 [(worldcat)](#)
+R. J. A. Wilson, Archaeological Reports 34 (1987-88):  115, fig. 6 [(worldcat)](#)
 
-id., Sicily under the Roman Empire, Warminster, 1990, pp. 197–8  with fig. 165.1. [(worldcat)](https://search.worldcat.org/title/608028740)
+id., Sicily under the Roman Empire, Warminster, 1990, pp. 197-8  with fig. 165.1. [(worldcat)](https://search.worldcat.org/title/608028740)
 
 ## Places
 

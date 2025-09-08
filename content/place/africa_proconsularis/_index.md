@@ -4,7 +4,7 @@ aliases: [/id/58e3db55d8]
 type: place
 title: Africa Proconsularis
 author: Unspecified
-editor: Keith Jenkins
+contributor: Keith Jenkins
 date: 2025-07-01
 modified: 2025-07-01
 draft: false

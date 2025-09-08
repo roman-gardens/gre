@@ -42,7 +42,7 @@ The house of Venus is located at the S of the capitol and is adjacent to the tem
 
 ## Plans
 
-{{< image file="AFR_Thu_Hv_Wjashemski_color.jpg" caption="Fig. 1:  Plan of the House of Venus (CMGR, VII-1, PL. LXXXVIII)" credit="" alt="Plan of the House of Venus" >}}
+{{< image file="AFR_Thu_Hv_Wjashemski_color.jpg" caption="Fig. 1:  Plan of the House of Venus (CMGR, VII-1, PL. LXXXVIII)" credit="" alt="" >}}
 
 ## Dates
 

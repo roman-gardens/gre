@@ -56,10 +56,10 @@ Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora
 - Ph. Bruneau and J. Ducat, *Guide de Délos.* École française d Athènes. 4th edition, Paris, 2005. [(worldcat)](https://search.worldcat.org/title/884638358).
 - M. Trümper, *Die 'Agora des Italiens' in Delos. Baugeschichte, Architektur, Ausstattung und Funktion einer späthellenistischen Porticus-Anlage.* Internationale Archäologie 104. Rahden/Westfalen, 2008. [(worldcat)](https://search.worldcat.org/title/643238596).
 - M. Trümper, *Graeco-Roman slave markets. Fact or Fiction.* Oxford, 2009. [(worldcat)](https://search.worldcat.org/title/660567181).
-- S. Montel, "Représentations italiennes à Délos. Les niches de l'agora des Italiens,"" in: M. Simon (ed.), *Identités romaines. Conscience de soi et représentations de l'autre dans la Rome antique (IVe siècle av. J.-C. - VIIIe siècle apr. J.-C.).* Paris, 2011: 243–254. [(worldcat)](https://search.worldcat.org/title/800941877).
-- M. Trümper, "The honorific practice of the 'Agora of the Italians' in Delos", in: J. Griesbach (ed.), *Polis und Porträt. Standbilder als Medien der öffentlichen Repräsentation im hellenistischen Osten.* Wiesbaden, 2014: 69–85. [(worldcat)](https://search.worldcat.org/title/889706631).
+- S. Montel, "Représentations italiennes à Délos. Les niches de l'agora des Italiens,"" in: M. Simon (ed.), *Identités romaines. Conscience de soi et représentations de l'autre dans la Rome antique (IVe siècle av. J.-C. - VIIIe siècle apr. J.-C.).* Paris, 2011: 243-254. [(worldcat)](https://search.worldcat.org/title/800941877).
+- M. Trümper, "The honorific practice of the 'Agora of the Italians' in Delos", in: J. Griesbach (ed.), *Polis und Porträt. Standbilder als Medien der öffentlichen Repräsentation im hellenistischen Osten.* Wiesbaden, 2014: 69-85. [(worldcat)](https://search.worldcat.org/title/889706631).
 - F. Coarelli, *I mercanti nel tempio. Delo. Culto, politica, commercio.* Athens, 2016. [(worldcat)](https://search.worldcat.org/title/966305712).
-- F. Herbin, "Die Statue des Ofellius," in: F. Queyrel – R. von den Hoff (eds.), *Das Leben griechischer Porträts. Porträtstatuen des 5. bis 1. Jhs. v. Chr.* Bildnispraktiken und Neu-Kontextualisierungen. Paris, 2019: 326–335. [(worldcat)](https://search.worldcat.org/title/1129887972).
+- F. Herbin, "Die Statue des Ofellius," in: F. Queyrel – R. von den Hoff (eds.), *Das Leben griechischer Porträts. Porträtstatuen des 5. bis 1. Jhs. v. Chr.* Bildnispraktiken und Neu-Kontextualisierungen. Paris, 2019: 326-335. [(worldcat)](https://search.worldcat.org/title/1129887972).
 
 ## Keywords
 
@@ -70,6 +70,8 @@ Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "water wells" >}}
+- {{< keyword "agoras" >}}
+
 
 ## Places
 

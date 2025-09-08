@@ -17,7 +17,7 @@ draft: false
 - {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
-{{< image file="thuburbo_house_of_the_three_basins.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" >}}
+{{< image file="thuburbo_house_of_the_three_basins.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="" >}}
 
 ## Location Description
 
@@ -39,7 +39,7 @@ The SE area was laid out around an incomplete peristyle with seven columns along
 
 ## Plans
 
-{{< image file="AFR_Thub_Btb_Wjashemski_color.jpg" caption="Fig. 1: Plan of the Bulding of the Three Basins (CMT, Thuburbo Majus, V. II, fasc.2, plan 19-20)" credit="" alt="Plan of the Bulding of the Three Basins; CMT, Thuburbo Majus, V. II, fasc.2, plan 19-20" >}}
+{{< image file="AFR_Thub_Btb_Wjashemski_color.jpg" caption="Fig. 1: Plan of the Bulding of the Three Basins (CMT, Thuburbo Majus, V. II, fasc.2, plan 19-20)" credit="" alt="" >}}
 
 ## Dates
 

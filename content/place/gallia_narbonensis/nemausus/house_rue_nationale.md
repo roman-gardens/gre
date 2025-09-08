@@ -35,7 +35,7 @@ Baths of La Planchette
 
 ## Keywords
 
-- {{< keyword "decumanus" >}}
+- {{< keyword "decumani" >}}
 - {{< keyword "vestibules" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "opus signinum" >}}
@@ -43,7 +43,7 @@ Baths of La Planchette
 
 ## House Description
 
-This house is 240 meters northeast of the Maison Carrée at the angle of rue Nationale and rue la Ferrage on a 250-square-meter parcel.  Salvage excavations were conducted in 1978 – 79.  The known surface exceeds 140 square meters and one can estimate its total surface to have been between 400 and 600 square meters.  It was probably turned towards the *decumanus* on the south, under the present rue Nationale.  The location of the entrance from the outside is not known, but one entered the courtyard by a vestibule on its south side.  Construction goes back to the Augustan period, near the year A.D. 1. The house, remodeled in the second half of the first century, was occupied two or three centuries; strata dated from the fourth century indicate abandonment by that time. The best known part is the courtyard with peristyle of 62 square meters and ornamented in its center by a rectangular pool.  The galleries were paved in *opus signinum* sown with little crosses of black tessera.
+This house is 240 meters northeast of the Maison Carrée at the angle of rue Nationale and rue la Ferrage on a 250-square-meter parcel.  Salvage excavations were conducted in 1978-79.  The known surface exceeds 140 square meters and one can estimate its total surface to have been between 400 and 600 square meters.  It was probably turned towards the *decumanus* on the south, under the present rue Nationale.  The location of the entrance from the outside is not known, but one entered the courtyard by a vestibule on its south side.  Construction goes back to the Augustan period, near the year A.D. 1. The house, remodeled in the second half of the first century, was occupied two or three centuries; strata dated from the fourth century indicate abandonment by that time. The best known part is the courtyard with peristyle of 62 square meters and ornamented in its center by a rectangular pool.  The galleries were paved in *opus signinum* sown with little crosses of black tessera.
 
 Only about half of the rather deep pool has survived.  The base of a fountain is found to the east of the pool. A gutter leads from this base towards the southeast corner of the peristyle.
 

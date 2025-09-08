@@ -4,7 +4,7 @@ aliases: [/id/2b610bcfd6]
 type: place
 title: Arabia Petraea
 author: Unspecified
-editor: Keith Jenkins
+contributor: Keith Jenkins
 date: 2025-07-01
 modified: 2025-07-01
 draft: false

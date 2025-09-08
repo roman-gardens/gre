@@ -40,7 +40,7 @@ The market located to the SW of the forum had a peristyle that enclosed an open 
 
 ## Images
 
-{{< image file="AFR_Thub_Pm_Wjashemski.jpg" caption="Fig. 1: Plan of the Market(CMT, V.  II, fasc.1, pp. 9-11, plan 3-4)" credit="" alt="Plan of the Market" >}}
+{{< image file="AFR_Thub_Pm_Wjashemski.jpg" caption="Fig. 1: Plan of the Market(CMT, V.  II, fasc.1, pp. 9-11, plan 3-4)" credit="" alt="" >}}
 
 <!-- ## Dates -->
 

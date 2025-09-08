@@ -44,7 +44,7 @@ To the east of the house was an area marked off by a narrow ditch (B on plan). T
 
 ## Plans
 
-{{< image file="niederzier-hambach69_plan1_EUR_GI_Nie_RvH_69_carroll.jpg" caption="Plan 1. Plan of the farm house (A) and the farmyard enclosed by a hedge (grey line). A vegetable garden (G) may have lain within another hedge (B)." credit="Adapted from Gaitzsch 1986, fig. 5." alt="Plan 1. Plan of the farm house (A) and the farmyard enclosed by a hedge (grey line).  A vegetable garden (G) may have lain within another hedge (B). Adapted from Gaitzsch 1986, fig. 5." >}}
+{{< image file="niederzier-hambach69_plan1_EUR_GI_Nie_RvH_69_carroll.jpg" caption="Plan 1. Plan of the farm house (A) and the farmyard enclosed by a hedge (grey line). A vegetable garden (G) may have lain within another hedge (B)." credit="Adapted from Gaitzsch 1986, fig. 5." alt="" >}}
 
 <!-- ## Images -->
 

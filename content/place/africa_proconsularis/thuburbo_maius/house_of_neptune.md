@@ -17,7 +17,7 @@ draft: false
 - {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
-{{< image file="thuburbo_house_of_neptune.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" >}}
+{{< image file="thuburbo_house_of_neptune.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="" >}}
 
 ## Location Description
 
@@ -42,7 +42,7 @@ The house was laid out around a peristyle garden (IV-VIII), with four porticos s
 
 ## Plans
 
-{{< image file="AFR_Thub_Hn_Wjashemski (1)1.jpg" caption="Fig.1: Plan of the House of Neptune (CMT, Thuburbo  Majus, V.  II, fasc.1, plan 20-30)" credit="" alt="Plan of the House of Neptune" >}}
+{{< image file="AFR_Thub_Hn_Wjashemski (1)1.jpg" caption="Fig.1: Plan of the House of Neptune (CMT, Thuburbo  Majus, V.  II, fasc.1, plan 20-30)" credit="" alt="" >}}
 
 ## Dates
 

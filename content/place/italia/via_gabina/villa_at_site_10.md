@@ -55,7 +55,7 @@ These two sites represent a rare glimpse of the transformation of suburban Rome 
 ## Images
 
 {{< image file="fig05_recon_phase2d.jpg" caption="fig05_recon_phase2d." credit="" alt="" >}}
-{{< image file="fig06_10emboecus.jpg" caption="The Rape of Hylas." credit="" alt="fig06_10emboecus." >}}
+{{< image file="fig06_10emboecus.jpg" caption="The Rape of Hylas." credit="" alt="" >}}
 
 ## Dates
 

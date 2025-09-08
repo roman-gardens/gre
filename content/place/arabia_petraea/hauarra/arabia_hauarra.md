@@ -55,8 +55,8 @@ A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely dam
 
 ## Bibliography
 
-- Oleson, J. P., M. B. Reeves, G. S. Baker, E. de Bruijn, Y. Gerber, M. Nikolic, and A. N. Sherwood. 2008. "Preliminary Report on Excavations at Al-Humayma, Ancient Hawara, 2004 and 2005." *Annual of  the Department of  Antiquities of Jordan* 52: 309–42. [(Stable URL)](http://publication.doa.gov.jo/Publications/ViewChapterPublic/326).
-- Reeves, M. B. 2019. "A Nabataean and Roman Shrine with Civic and Military Gods at Humayma, Jordan." *Arabian Archaeology & Epigraphy* 30 (1): 134–55. [(DOI)](https://doi.org/10.1111/aae.12121).
+- Oleson, J. P., M. B. Reeves, G. S. Baker, E. de Bruijn, Y. Gerber, M. Nikolic, and A. N. Sherwood. 2008. "Preliminary Report on Excavations at Al-Humayma, Ancient Hawara, 2004 and 2005." *Annual of  the Department of  Antiquities of Jordan* 52: 309-42. [(Stable URL)](http://publication.doa.gov.jo/Publications/ViewChapterPublic/326).
+- Reeves, M. B. 2019. "A Nabataean and Roman Shrine with Civic and Military Gods at Humayma, Jordan." *Arabian Archaeology & Epigraphy* 30 (1): 134-55. [(DOI)](https://doi.org/10.1111/aae.12121).
 
 ## Places
 

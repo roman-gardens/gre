@@ -47,7 +47,7 @@ Three wide doorways led from the atrium of this house, which did not have a tabl
 
 ## Plans
 
-{{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="Fig. 16, Plan of  Region VIII, Insula V" >}}
+{{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="" >}}
 
 ## Places
 

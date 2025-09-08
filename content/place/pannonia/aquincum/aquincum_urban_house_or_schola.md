@@ -47,7 +47,7 @@ Very few houses of Mediterranean type have been discovered, and only one can be 
 
 ## Images
 
-{{< image file="PAN_AQU.jpg" caption="Fig. 2: The excavated courtyard building with its peristyle garden." credit="Photo courtesy of M. Carroll.)" alt="Fig. 2: The excavated courtyard building with its peristyle garden. Photo courtesy of M. Carroll." >}}
+{{< image file="PAN_AQU.jpg" caption="Fig. 2: The excavated courtyard building with its peristyle garden." credit="Photo courtesy of M. Carroll.)" alt="" >}}
 
 ## Dates
 

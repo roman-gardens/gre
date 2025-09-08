@@ -59,7 +59,7 @@ B. This vineyard section of the property was excavated in 1984 by Dr. De Caro. A
 ## Images
 
 {{< image file="../../fig._78,_ii.ix.6_12.8.71.jpg" caption="Fig. 78, 12.8.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
-{{< image file="../../fig._79,_ii.ix.6_12.17.71.jpg" caption="Fig 79, 12.17.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 79, 12.17.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image file="../../fig._79,_ii.ix.6_12.17.71.jpg" caption="Fig 79, 12.17.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="../../fig._80,_ii.ix.6_12.25.71.jpg" caption="Fig. 80, 12.25.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 -->
 

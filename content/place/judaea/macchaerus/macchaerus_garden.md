@@ -71,9 +71,9 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 ## Images
 
-{{< image file="ASIA_JUD_MACCHAREUS_2.jpg" caption="Figure 2:Section drawing of the research trench in the Southern Courtyard" credit="(Vörös, 2013)." alt="Figure 2: Section drawing of the research trench in the Southern Courtyard (Vörös, 2013)." >}}
+{{< image file="ASIA_JUD_MACCHAREUS_2.jpg" caption="Figure 2:Section drawing of the research trench in the Southern Courtyard" credit="(Vörös, 2013)." alt="" >}}
 
-{{< image file="ASIA_JUD_MACCHAREUS.jpg" caption="Figure 3:Cutaway bird's eye view of the Herodian fortified royal palace from the south. This theoretical reconstruction is superimposed on an aerial photograph by David Kennedy." credit="" alt="Figure 3: Cutaway bird's eye view of the Herodian fortified royal palace from the south. This theoretical reconstruction is superimposed on an aerial photograph by David Kennedy.." >}}
+{{< image file="ASIA_JUD_MACCHAREUS.jpg" caption="Figure 3:Cutaway bird's eye view of the Herodian fortified royal palace from the south. This theoretical reconstruction is superimposed on an aerial photograph by David Kennedy." credit="" alt="" >}}
 
 <!--
 ## Dates
@@ -84,14 +84,14 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 * Vörös, G, "Machaerus:  Excavations and Surveys (2009-2013)" SHAJ XII, 529-542. http://publication.doa.gov.jo/uploads/publications/15/SHAJ%20XII-529-542.pdf (see model on p. 539 fig. 11); Vörös, Gy. 2013. MACHAERUS I: History, Archaeology and Architecture of the Fortified Herodian Royal Palace and City Overlooking the Dead Sea in Transjordan. Final Report of the Excavations and Surveys: 1807-2012. Milano: Edizioni Terra Santa, SBF Collectio Maior 53.
 
-* Vörös, G, 2013: MACHAERUS I: History, Archaeology and Architecture of the Fortified Herodian Royal Palace and City Overlooking the Dead Sea in Transjordan. Final Report of the Excavations and Surveys 1807–2012 (SBF Collectio Maior 53), Milan. [Worldcat](https://search.worldcat.org/title/850428802)
+* Vörös, G, 2013: MACHAERUS I: History, Archaeology and Architecture of the Fortified Herodian Royal Palace and City Overlooking the Dead Sea in Transjordan. Final Report of the Excavations and Surveys 1807-2012 (SBF Collectio Maior 53), Milan. [Worldcat](https://search.worldcat.org/title/850428802)
 
-* Vörös, G, 2015: MACHAERUS II: The Hungarian Archaeological Mission in the Light of the American-Baptist and Italian-Franciscan Excavations and Surveys. Final Report 1968–2015 (SBF Collectio Maior 55), Milan.[Worldcat](https://search.worldcat.org/title/922911326)
+* Vörös, G, 2015: MACHAERUS II: The Hungarian Archaeological Mission in the Light of the American-Baptist and Italian-Franciscan Excavations and Surveys. Final Report 1968-2015 (SBF Collectio Maior 55), Milan.[Worldcat](https://search.worldcat.org/title/922911326)
 
-* Vörös, G, 2019: MACHAERUS III: The Golden Jubilee of the Archaeological Excavations. Final Report on the Herodian Citadel 1968–2018 (SBF Collectio Maior 56), Jerusalem–Milano–Mount Nebo.[Worldcat](https://search.worldcat.org/title/1242122718)
+* Vörös, G, 2019: MACHAERUS III: The Golden Jubilee of the Archaeological Excavations. Final Report on the Herodian Citadel 1968-2018 (SBF Collectio Maior 56), Jerusalem–Milano–Mount Nebo.[Worldcat](https://search.worldcat.org/title/1242122718)
 
 
-* Vörös, G, 2020: "The Bema in the Lithostrotos-Gabbatha on the Golgotha of Saint John the Baptist: The Apsidal Judgement-Seat Throne-Niche of Tetrarch Antipas in the Stone-Paved Herodian Royal Peristyle Courtyard of the Fortified Machaerus Mountaintop-Palace Overlooking the Dead Sea in Transjordan," Holy Land Archaeology on Either Side: Archaeological Essays in Honour of Eugenio Alliata, ofm. (SBF Collectio Maior 57), Milano, pp. 99–120.
+* Vörös, G, 2020: "The Bema in the Lithostrotos-Gabbatha on the Golgotha of Saint John the Baptist: The Apsidal Judgement-Seat Throne-Niche of Tetrarch Antipas in the Stone-Paved Herodian Royal Peristyle Courtyard of the Fortified Machaerus Mountaintop-Palace Overlooking the Dead Sea in Transjordan," Holy Land Archaeology on Either Side: Archaeological Essays in Honour of Eugenio Alliata, ofm. (SBF Collectio Maior 57), Milano, pp. 99-120.
 
 ## Places
 

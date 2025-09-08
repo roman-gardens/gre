@@ -41,7 +41,7 @@ At the rear of the theater is a *xystis* known from the dedication inscription (
 
 ## Plans
 
-{{< image file="AFR_Thu_T_Wjashemski_color.jpg" caption="Fig.1 Plan of the Temple(Les ruines de Dougga, p. 53, plan général n°18)" credit="" alt="Plan of the Temple" >}}
+{{< image file="AFR_Thu_T_Wjashemski_color.jpg" caption="Fig.1 Plan of the Temple(Les ruines de Dougga, p. 53, plan général n°18)" credit="" alt="" >}}
 
 ## Dates
 

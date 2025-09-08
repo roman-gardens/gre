@@ -42,21 +42,21 @@ House Formigé Square-2 phases
 
 ## House Description
 
-The house found under Formigé square lies 200 m south of the intersection of the *cardo maximus* and the *decumanus maximus* at 150 meters from the quays of the port.  It is in the southwest quarter of  Insula A of the network of the city.  A parcel of 462 square meters has been recovered with a useful covered surface of about 342 square meters.  To the south it is paralleled by a *decumanus* and by other habitations to the north and east.  The principal entrance was probably on the south.  What may be called the first stage of construction, though it replaced a previous condition, seems to go back to around A.D. 1 – 5.  In this condition, it was occupied until A.D. 60 – 70.  Its pavements have been preserved, along with a large part of its painted decoration up to a considerable height.
+The house found under Formigé square lies 200 m south of the intersection of the *cardo maximus* and the *decumanus maximus* at 150 meters from the quays of the port.  It is in the southwest quarter of  Insula A of the network of the city.  A parcel of 462 square meters has been recovered with a useful covered surface of about 342 square meters.  To the south it is paralleled by a *decumanus* and by other habitations to the north and east.  The principal entrance was probably on the south.  What may be called the first stage of construction, though it replaced a previous condition, seems to go back to around A.D. 1-5.  In this condition, it was occupied until A.D. 60-70.  Its pavements have been preserved, along with a large part of its painted decoration up to a considerable height.
 
 One enters the house on the south from the edge of the street by a wide entrance with a floor of pounded earth, which accommodates a bench.  At the end of the vestibule, there is an atrium [2] of 9.2 by 10.54 meters, around which the house is organized.  The *impluvium* was surrounded by low walls on which an imaginary garden was painted.  In a second phase, nine planters filled with earth were arranged on three sides of the impluvium.
 
-Around A.D. 65 – 70, the house entered a second stage which lasted three and a half centuries.  It was enlarged over a two-meter deep fill on which was planted a garden [1] of 12.5 by 10 meters, framed by a portico [2] and bordered on the south by four rooms.  The portico was 2.8 meters wide, including the stylobate.  The courtyard of the first condition was transformed into a rectangular pool (9 by 2.2 m) divided into two parts by a low wall with a fountain to the north and two rectangular planters (each 1.7 by 0.7 m ) on the south.
+Around A.D. 65-70, the house entered a second stage which lasted three and a half centuries.  It was enlarged over a two-meter deep fill on which was planted a garden [1] of 12.5 by 10 meters, framed by a portico [2] and bordered on the south by four rooms.  The portico was 2.8 meters wide, including the stylobate.  The courtyard of the first condition was transformed into a rectangular pool (9 by 2.2 m) divided into two parts by a low wall with a fountain to the north and two rectangular planters (each 1.7 by 0.7 m ) on the south.
 
 ## Plans
 
-{{< image file="house_formige_square_2phases_2.png" caption="Fig. 1 Plan of the House Formigé Square-2 phases" credit="" alt="Plan House Formigé Square-2 phases" >}}
+{{< image file="house_formige_square_2phases_2.png" caption="Fig. 1 Plan of the House Formigé Square-2 phases" credit="" alt="" >}}
 
 ## images
 
-{{< image file="house_formige_square_2phases_1.png" caption="Excavation of the House Formigé Square" credit="" alt="Excavation of House Formigé Square" >}}
+{{< image file="house_formige_square_2phases_1.png" caption="Excavation of the House Formigé Square" credit="" alt="" >}}
 
-{{< image file="house_formige_square_2phases_3.png" caption="Axon of the House Formigé Square" credit="" alt="Axon of House Formigé Square" >}}
+{{< image file="house_formige_square_2phases_3.png" caption="Axon of the House Formigé Square" credit="" alt="" >}}
 
 ## Dates
 

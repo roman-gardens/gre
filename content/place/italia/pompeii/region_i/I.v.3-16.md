@@ -50,7 +50,7 @@ This site had been destroyed in antiquity and probably had been a *hospitium*. E
 
 <!-- ## Plans
 
-{{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
+{{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="" >}}
 
 {{< image file="../region-i-insula-v.png" caption="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, \"*Topografia*,\" pl. 10" credit="" alt="" >}}
 

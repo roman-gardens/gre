@@ -41,7 +41,7 @@ The North and the East portico lead to an open area that Gauckler identifies as 
 
 ## Plans
 
-{{< image file="AFR_Car_Hb_Amalek1.jpg" caption="Fig. 1: Plan of the House of the Bassilica." credit="(Gauckler, P., 1904, pp. 16-17)" alt="Plan of the House of the Bassilica at Karthago; Gauckler, P., 1904, pp. 16-17" >}}
+{{< image file="AFR_Car_Hb_Amalek1.jpg" caption="Fig. 1: Plan of the House of the Bassilica." credit="(Gauckler, P., 1904, pp. 16-17)" alt="" >}}
 
 <!-- TODO the north arrow in the figure appears to be incorrect -- based on the satellite imagery, the arrow seems to point west, not north -- Keith -->
 

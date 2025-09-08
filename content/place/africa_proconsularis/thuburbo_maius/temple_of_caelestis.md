@@ -17,7 +17,7 @@ draft: false
 - {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
-{{< image file="thuburbo_temple_of_caelestis.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" >}}
+{{< image file="thuburbo_temple_of_caelestis.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="" >}}
 
 ## Location Description
 
@@ -41,7 +41,7 @@ The marble causeway leading to the temple was bordered on each side with soil th
 
 ## Plans
 
-{{< image file="Temple_of_Caelestis1.jpg" caption="Fig. 1: Plan of the Temple of Caelestis (CMT, V. II, fasc.2, plan 9)" credit="" alt="Plan of the Temple of Caelestis " >}}
+{{< image file="Temple_of_Caelestis1.jpg" caption="Fig. 1: Plan of the Temple of Caelestis (CMT, V. II, fasc.2, plan 9)" credit="" alt="" >}}
 
 ## Dates
 

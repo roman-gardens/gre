@@ -25,7 +25,7 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 - [Thamugadi]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}
 
-{{< image file="timgad_city_plan_water_sanctuary.jpg" caption="Fig. 1: Plan of Thamugadi" credit="(Courtois, C., 1951)" alt="Plan of Thamugadi." >}}
+{{< image file="timgad_city_plan_water_sanctuary.jpg" caption="Fig. 1: Plan of Thamugadi" credit="(Courtois, C., 1951)" alt="" >}}
 
 ## Location Description
 
@@ -52,7 +52,7 @@ The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of t
 
 ## Plans
 
-{{< image file="water_sanctuary _aqua_eptimania_felix1.jpg" caption="Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix" credit="(Lassus, J., 1981, fig. 9)" alt="Plan of the Water Sanctuary Aqua Septimiana Felix">}}
+{{< image file="water_sanctuary _aqua_eptimania_felix1.jpg" caption="Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix" credit="(Lassus, J., 1981, fig. 9)" alt="">}}
 
 <!-- ## Images -->
 

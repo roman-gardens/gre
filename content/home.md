@@ -17,6 +17,6 @@ visit the [contribute]({{<relref "../contribute/">}}) page.
 
 <!--For the most recent information about the status of the project and news about upcoming publications and features, please see our [blog]({{<relref "../blog/">}}).-->
 
-![Map of gardens in the Gardens of the Roman Empire Project](../images/landing-page-map-1.png)
+![Map of gardens in the Gardens of the Roman Empire Project](../images/landing-page-map-1.jpg)
 
 ![Supporting Organizations: ISAW, Cornell, AOROC, Cambridge University Press, Dumbarton Oaks](../img/logos.png)

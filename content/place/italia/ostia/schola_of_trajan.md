@@ -45,7 +45,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ## Location Plan
 
-{{< image file="ostia_fig1.jpg" caption="Ostia Antica, General Plan." credit="" alt="General Plan of Ostia Antica" >}}
+{{< image file="ostia_fig1.jpg" caption="Ostia Antica, General Plan." credit="" alt="" >}}
 
 ## Garden
 
@@ -70,9 +70,9 @@ An [Ionic](http://vocab.getty.edu/page/aat/300020112) [portico](http://vocab.get
 
 ## Figures
 
-{{< image file="ostia_fig18.jpg" caption="Figure 1: Plan (from Morard, Wavelet)." credit="" alt="Plan of the Schola of the Trajan" >}}
+{{< image file="ostia_fig18.jpg" caption="Figure 1: Plan (from Morard, Wavelet)." credit="" alt="" >}}
 
-{{< image file="ostia_fig19.jpg" caption="Figure 2: The courtyard of the Schola of Trajan and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive)." credit="" alt="Photo of the courtyard of the Schola of Trajan and part of the House with Peristyle, reconstructed after 1938 excavations" >}}
+{{< image file="ostia_fig19.jpg" caption="Figure 2: The courtyard of the Schola of Trajan and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive)." credit="" alt="" >}}
 
 ## Dates
 

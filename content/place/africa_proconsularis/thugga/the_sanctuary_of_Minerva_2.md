@@ -45,7 +45,7 @@ The sanctuary of Minerva 2, (138-161 CE), built later than the *templa Concordia
 
 ## Plans
 
-{{< image file="the_sanctuary_of_minerva_2.jpg" caption="Fig.1 Plan of the sanctuary of Minerva 2" credit="(From Saint-Amans, S., 2004, p. 216, fig. 2a)" alt="Plan of the sanctuary of Minerva 2" >}}
+{{< image file="the_sanctuary_of_minerva_2.jpg" caption="Fig.1 Plan of the sanctuary of Minerva 2" credit="(From Saint-Amans, S., 2004, p. 216, fig. 2a)" alt="" >}}
 
 ## Dates
 

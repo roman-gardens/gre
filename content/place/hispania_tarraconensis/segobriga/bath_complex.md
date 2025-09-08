@@ -77,7 +77,7 @@ Monumental baths about 88 meters long and 40 meters wide were built in Flavian t
 
 ## Dates
 
-Flavian times（A.D 69–96）
+Flavian times（A.D 69-96）
 
 ## Bibliography
 

@@ -42,10 +42,10 @@ The house has had three phases. During the second phase the garden peristyle (V)
 
 ## Plans
 
-{{< image file="house_of_the_viridarium_with_niches.jpg" caption="Fig. 1: Plan of the House of the Viridarium with Niches" credit="(Ch. Peirce, from Ben Abed Ben Khader, A., 1994, Pl. CLXXI)" alt="Plan of the House of the Viridarium with Niches; Ben Abed Ben Khader, A., 2006" >}}
+{{< image file="house_of_the_viridarium_with_niches.jpg" caption="Fig. 1: Plan of the House of the Viridarium with Niches" credit="(Ch. Peirce, from Ben Abed Ben Khader, A., 1994, Pl. CLXXI)" alt="" >}}
 ## Images
 
-{{< image file="photo_of_the_viridarium_with_niches.jpg" caption="Fig. 2: Photograph of the garden" credit="(from Ben Abed Ben Khader, 2006, fig. 9, p. 521)" alt="Photograph of the garden; from Ben Abed Ben Khader, fig. 9, p. 521" >}}
+{{< image file="photo_of_the_viridarium_with_niches.jpg" caption="Fig. 2: Photograph of the garden" credit="(from Ben Abed Ben Khader, 2006, fig. 9, p. 521)" alt="" >}}
 ## Dates
 
 4th century CE

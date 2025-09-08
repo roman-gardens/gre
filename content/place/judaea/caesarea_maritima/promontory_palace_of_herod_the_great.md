@@ -59,11 +59,11 @@ Foundations of garden architecture, water channels and garden soils of the late 
 
 ## Images
 
-{{< image file="A_J_C_K_2.jpg" caption="Fig. 2:Photograph of cuttings around pool for planters (K. Gleason." credit="" alt="Fig. 2: Photograph of cuttings around pool for planters (K. Gleason)." >}}
+{{< image file="A_J_C_K_2.jpg" caption="Fig. 2:Photograph of cuttings around pool for planters (K. Gleason." credit="" alt="" >}}
 
-{{< image file="ASIA-JUD-CAESAREA-KGLEASON-3.jpg" caption="Fig. 3:Photograph of Hamra soil in courtyard (K. Gleason)." credit="" alt="Fig. 3: Photograph of Hamra soil in courtyard (K. Gleason)." >}}
+{{< image file="ASIA-JUD-CAESAREA-KGLEASON-3.jpg" caption="Fig. 3:Photograph of Hamra soil in courtyard (K. Gleason)." credit="" alt="" >}}
 
-{{< image file="a_j_c_k_4.jpg" caption="Fig. 4 Reconstruction drawing of the Promontory upper garden (Y. Korman)" credit="" alt="Fig. 4: Reconstruction drawing of the Promontory upper garden (Y. Korman)." >}}
+{{< image file="a_j_c_k_4.jpg" caption="Fig. 4 Reconstruction drawing of the Promontory upper garden (Y. Korman)" credit="" alt="" >}}
 
 ## Dates
 

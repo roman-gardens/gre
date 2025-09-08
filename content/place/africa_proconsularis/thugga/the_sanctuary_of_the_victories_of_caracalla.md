@@ -41,13 +41,13 @@ The sanctuary of the Victories of Caracalla, situated in the southwest of the fo
 
 ## Plans
 
-{{< image file="the_sanctuary_of_the_victories_of_caracalla.jpg" caption="Fig.1: Plan of the sanctuary of the Victories of Caracalla" credit="(From Golvin, J.-C., Khanoussi M. (dir.) 2005, p. 41, fig. 17. http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf))" alt="Plan of the sanctuary of the Victories of Caracalla" >}}
+{{< image file="the_sanctuary_of_the_victories_of_caracalla.jpg" caption="Fig.1: Plan of the sanctuary of the Victories of Caracalla" credit="(From Golvin, J.-C., Khanoussi M. (dir.) 2005, p. 41, fig. 17. http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf))" alt="" >}}
 
 ## Images
 
-{{< image file="restitution_sanctuaire_caracalla_Page_2.jpg" caption="Fig.2: Cross section of the courtyard (A-A') (http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf)" credit="" alt="Cross section of the courtyard (A-A')" >}}
+{{< image file="restitution_sanctuaire_caracalla_Page_2.jpg" caption="Fig.2: Cross section of the courtyard (A-A') (http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf)" credit="" alt="" >}}
 
-{{< image file="restitution_sanctuaire_caracalla_Page_3.jpg" caption="Fig.3: Cross section of the courtyard (B-B') (http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf)" credit="" alt="Cross section of the courtyard (B-B')" >}}
+{{< image file="restitution_sanctuaire_caracalla_Page_3.jpg" caption="Fig.3: Cross section of the courtyard (B-B') (http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf)" credit="" alt="" >}}
 ## Dates
 
 214 CE

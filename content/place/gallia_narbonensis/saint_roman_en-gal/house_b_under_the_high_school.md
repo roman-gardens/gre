@@ -43,7 +43,7 @@ La Plaine, House B under the High School
 
 ## Plans
 
-{{< image file="house_b_under_the_high_school.png" caption="Plan of La Plaine, House B under the High School" credit="" alt="Plan of House B under the High School" >}}
+{{< image file="house_b_under_the_high_school.png" caption="Plan of La Plaine, House B under the High School" credit="" alt="" >}}
 
 
 <!-- ## Images -->

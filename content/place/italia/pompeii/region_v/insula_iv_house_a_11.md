@@ -63,7 +63,7 @@ B. At the rear of this house a *peristyle* garden (b) was bordered on the south 
 
 ## Plans
 
-<!-- {{< image file="Euro_GaAq_Montreal_Villa de Séviac.png" caption="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." credit="" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." >}}
+<!-- {{< image file="Euro_GaAq_Montreal_Villa de Séviac.png" caption="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." credit="" alt="" >}}
 -->
 
 <!-- ## Images -->

@@ -95,7 +95,7 @@ unspecified
 * W. L. Reichardt, "The Vestibule Group at Hardian's Villa," *Memorie. Atti dell'Accademia nazionale dei Lincei*, 1933, pp. 129-130. [(worldcat)](https://search.worldcat.org/title/878611685) <!-- worldcat link is for wrong year -->
 * E. Salza Prina Ricotti, "The Importance of Water in Roman Garden Triclinia," in *Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection)*, Dumbarton Oaks 1987, pp. 175-178, fig. 13-20, 35-37. [(worldcat)](https://search.worldcat.org/title/887179596)
 * W. F. Jashemski, E. Salza Prina Ricotti, "I giardini di Villa Adriana: rapporto preliminare," *Atti della Pontificia Accademia romana di archeologia: Rendiconti*, Vol. 60 (1987-88), pp. 152-162, fig. 11-15. [(worldcat)](https://search.worldcat.org/title/1075183783)
-* E. Salza Prina Ricotti, "Adriano: architettura del verde e dell'acqua," in  *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, 364–366, fig. 1. [(worldcat)](https://search.worldcat.org/title/636808013)
+* E. Salza Prina Ricotti, "Adriano: architettura del verde e dell'acqua," in  *Horti Romani*, Atti del Convegno Internazionale, a cura di M. Cima, E. La Rocca, Roma 1998, 364-366, fig. 1. [(worldcat)](https://search.worldcat.org/title/636808013)
 * Mari, Reggiani, Righi, "Grande Vestibolo presso le Cento Camerelle. Indagini e restauri," in F. Filippi (ed.), *Archeologia e Giubileo. Gli interventi a Roma e nel Lazio nel Piano per il Grande Giubileo del 2000*, Napoli 2000, pp. 478-483. [(worldcat)](https://search.worldcat.org/title/47988378)
 * E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 323-324, fig. 80-81, 87, 134-135. [(worldcat)](https://search.worldcat.org/title/46784026)
 

@@ -41,7 +41,7 @@ The house is organized around a peristyle garden (15,60 x 16,9 m) with a grand o
 
 ## Plans
 
-{{< image file="House_of_the_cryptoportique1.jpg" caption="Fig. 1: Plan of the House of the Cryptoportique." credit="(Catherine Balmelle et al., 2012, fig. 271)" alt="Plan of the House of the Cryptoportique at Karthago; Catherine Balmelle et al., 2012" >}}
+{{< image file="House_of_the_cryptoportique1.jpg" caption="Fig. 1: Plan of the House of the Cryptoportique." credit="(Catherine Balmelle et al., 2012, fig. 271)" alt="" >}}
 
 ## Images
 

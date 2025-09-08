@@ -23,4 +23,6 @@ draft: false
 <!-- Description -->
 (July 10, 1910 - December 24, 2007)
 
+https://en.wikipedia.org/wiki/Wilhelmina_Feemster_Jashemski
+
 https://www.archaeological.org/archaeologists-you-should-know-jashemski/

@@ -42,7 +42,7 @@ A low wall was added in between the columns that enclosed the garden. A semi-cir
 
 ## Plans
 
-{{< image file="AFR_Car_Hd_Amalek1.jpg" caption="Fig. 1: Plan of the House of Dionysos." credit="(Ben Abed-Ben Khader, A., 1999, plan 5)" alt="Plan of the House of Dionysos at Karthago">}}
+{{< image file="AFR_Car_Hd_Amalek1.jpg" caption="Fig. 1: Plan of the House of Dionysos." credit="(Ben Abed-Ben Khader, A., 1999, plan 5)" alt="">}}
 
 <!-- ## Images -->
 

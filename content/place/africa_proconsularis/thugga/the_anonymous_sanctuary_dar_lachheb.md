@@ -43,7 +43,7 @@ The anonymous sanctuary, called *Dar Lachheb* (184-187 CE), located about fifty 
 
 ## Plans
 
-{{< image file="the_anonymous_sanctuary.jpg" caption="Fig. 1: Plan of the anonymous sanctuary, Dar Lachheb" credit="(From Aounallah, S., Golvin J.-C. (dir.) 2016, p. 440, fig. 86)" alt="Plan of the anonymous sanctuary, Dar Lachheb" >}}
+{{< image file="the_anonymous_sanctuary.jpg" caption="Fig. 1: Plan of the anonymous sanctuary, Dar Lachheb" credit="(From Aounallah, S., Golvin J.-C. (dir.) 2016, p. 440, fig. 86)" alt="" >}}
 
 ## Dates
 

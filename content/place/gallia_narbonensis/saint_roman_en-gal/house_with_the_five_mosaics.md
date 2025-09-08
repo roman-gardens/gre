@@ -52,7 +52,7 @@ In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the ga
 
 ## Plans
 
-{{< image file="house_with_the_five_mosaics.png" caption="Plan of house with five mosaics" credit="" alt="Plan of House with the Five Mosaics" >}}
+{{< image file="house_with_the_five_mosaics.png" caption="Plan of house with five mosaics" credit="" alt="" >}}
 
 <!-- ## Dates -->
 
@@ -65,7 +65,7 @@ In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the ga
 
 3. Lancha, Janine. *Les Mosaïques De Vienne*. Lyon: Presses universitaires de Lyon, 1990, P. 61-75.[worldcat](https://search.worldcat.org/title/484477042)
 
-4. *Recherches Archéologiques a Saint-Romain-En-Gal (1988 - 1990)*. Vienne, 1992, P. 86-132.[worldcat](https://search.worldcat.org/title/1068996218)
+4. *Recherches Archéologiques a Saint-Romain-En-Gal (1988-1990)*. Vienne, 1992, P. 86-132.[worldcat](https://search.worldcat.org/title/1068996218)
 
 5. Prisset, Jean-Luc, Laurence Brissaud, and Odile Leblanc. *Evolution Urbaine À Saint-Romain En-Gal: La Rue Du Commerce Et La Maison Aux Cinq Mosaïques*. Paris: CNRS éd, 1994, P. 1-133. [worldcat](https://search.worldcat.org/title/491540838)
 

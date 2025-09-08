@@ -42,7 +42,7 @@ This house is the most important dwelling discovered to date at Utica. The large
 
 ## Plans
 
-{{< image file="AFR_Uti_Hgo_Wjashemski1.jpg" caption="Fig.1: Plan of the House of the Grand Oecus (CMT, plans 1, 2)." credit="" alt="Fig.1: Plan of the House of the Grand Oecus." >}}
+{{< image file="AFR_Uti_Hgo_Wjashemski1.jpg" caption="Fig.1: Plan of the House of the Grand Oecus (CMT, plans 1, 2)." credit="" alt="" >}}
 
 <!-- ## Images -->
 

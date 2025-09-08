@@ -17,7 +17,7 @@ draft: false
 - {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
-{{< image file="thuburbo_east_temple.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" >}}
+{{< image file="thuburbo_east_temple.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="" >}}
 
 ## Location Description
 
@@ -42,7 +42,7 @@ A strip of soil bordered most of the long sides of the temple and the mosaic pav
 
 ## Plans
 
-{{< image file="East_temple_Plan.jpg" caption="Fig. 1: Plan of the East Temple" credit="(CMT, V.  II, fasc.4, plan 1-2. Malek, A.-A., 2018, fig. 14)" alt="Plan of the East Temple" >}}
+{{< image file="East_temple_Plan.jpg" caption="Fig. 1: Plan of the East Temple" credit="(CMT, V.  II, fasc.4, plan 1-2. Malek, A.-A., 2018, fig. 14)" alt="" >}}
 
 ## Dates
 

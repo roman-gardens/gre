@@ -25,7 +25,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 - [Cuicul]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}
 
-{{< image file="cuicul_house_of_bacchus.jpg" caption="Plan of Cuicul" credit="(AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)" alt="Plan of Cuicul." >}}
+{{< image file="cuicul_house_of_bacchus.jpg" caption="Plan of Cuicul" credit="(AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)" alt="" >}}
 
 ## Location Description
 
@@ -59,15 +59,15 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 
 ## Plans
 
-{{< image file="house_of_bacchus_plan_new1.jpg" caption="Fig. 1: Plan of the House of Bacchus" credit="(Dans les jardins de Djemila, Blanchard-Lemée, M., 1998, p. 194, fig. 9)" alt="Plan of the House of Bacchus." >}}
+{{< image file="house_of_bacchus_plan_new1.jpg" caption="Fig. 1: Plan of the House of Bacchus" credit="(Dans les jardins de Djemila, Blanchard-Lemée, M., 1998, p. 194, fig. 9)" alt="" >}}
 
 ## Images
 
-{{< image file="house_of_bacchus_plan_photo1.jpg" caption="Fig. 2: The small peristyle garden B and its semi circular basin" credit="(Février, P.-A. – CCJ 62889))" alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc" >}}
+{{< image file="house_of_bacchus_plan_photo1.jpg" caption="Fig. 2: The small peristyle garden B and its semi circular basin" credit="(Février, P.-A. – CCJ 62889))" alt="" >}}
 
-{{< image file="pool_and_fish_pool.jpg" caption="Fig. 3: The pool and fish pool" credit="(Février, P.-A.– CCJ 62945)" alt="The pool and fish pool." >}}
+{{< image file="pool_and_fish_pool.jpg" caption="Fig. 3: The pool and fish pool" credit="(Février, P.-A.– CCJ 62945)" alt="" >}}
 
-{{< image file="fish_pool.jpg" caption="Fig. 4: The fish pool" credit="(Février, P.-A.– CCJ 62886)" alt="The fish pool." >}}
+{{< image file="fish_pool.jpg" caption="Fig. 4: The fish pool" credit="(Février, P.-A.– CCJ 62886)" alt="" >}}
 
 ## Dates
 

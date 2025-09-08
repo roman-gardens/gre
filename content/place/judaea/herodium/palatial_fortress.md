@@ -55,7 +55,7 @@ The Palace Fortress is a cylindrical structure originally seven stories high (tw
 
 ## Plans
 
-{{< image file="ASIA_JUD_HERODIUM _1.jpg" caption="Fig. 1:Plan of the complex at Herodium showing the Fortress Palace with its small peristyle garden (A), the Tomb Garden (B) and the Lower Palace with its central pool and cultivated grounds (C) (Yaniv Korman after Netzer)" credit="" alt="Fig. 1:Plan of the complex at Herodium showing the Fortress Palace with its small peristyle garden (A), the Tomb Garden (B) and the Lower Palace with its central pool and cultivated grounds (C) (Yaniv Korman after Netzer)." >}}
+{{< image file="ASIA_JUD_HERODIUM _1.jpg" caption="Fig. 1:Plan of the complex at Herodium showing the Fortress Palace with its small peristyle garden (A), the Tomb Garden (B) and the Lower Palace with its central pool and cultivated grounds (C) (Yaniv Korman after Netzer)" credit="" alt="" >}}
 
 <!-- ## Images
 

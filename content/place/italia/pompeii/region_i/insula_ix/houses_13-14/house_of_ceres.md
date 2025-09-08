@@ -56,17 +56,17 @@ The natural rising slope of the land made this long upper garden (a) at the rear
 
 ## Plans
 
-{{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
+{{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="" >}}
 
-{{< image file="../region-i-insula-ix.png" caption="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44" credit="" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." >}}
+{{< image file="../region-i-insula-ix.png" caption="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44" credit="" alt="" >}}
 
 ## Images
 
-{{< image file="Fig_54_I.ix.13_43.19.68.jpg" caption="Fig. 3: 43.19.68, S.A. Jashemski" credit="" alt="Fig. 3: 43.19.68, S.A. Jashemski." >}}
+{{< image file="Fig_54_I.ix.13_43.19.68.jpg" caption="Fig. 3: 43.19.68, S.A. Jashemski" credit="" alt="" >}}
 
-{{< image file="Fig_55_I.ix.13_35.13.66.jpg" caption="Fig. 4: 35.13.66, S.A. Jashemski" credit="" alt="Fig. 4: 35.13.66, S.A. Jashemski." >}}
+{{< image file="Fig_55_I.ix.13_35.13.66.jpg" caption="Fig. 4: 35.13.66, S.A. Jashemski" credit="" alt="" >}}
 
-{{< image file="Fig_56_I.ix.13_39.17.68.jpg" caption="Fig. 5: 39.17.68, S.A. Jashemski" credit="" alt="Fig. 5: 39.17.68, S.A. Jashemski." >}}
+{{< image file="Fig_56_I.ix.13_39.17.68.jpg" caption="Fig. 5: 39.17.68, S.A. Jashemski" credit="" alt="" >}}
 
 ## Dates
 

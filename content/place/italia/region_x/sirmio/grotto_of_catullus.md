@@ -63,15 +63,15 @@ Sirmio is known from a citation in Catullus' XXXI° poem (paene insularum, Sirmi
 
 {{< image file="sirmio-2.jpg" caption="Fig. 2: Plan of House of Grotto of Catullus" credit="" alt="" >}}
 
-{{< image file="sirmio-3.jpg" caption="Fig. 3: Plan of the residential rooms" credit="" alt="Fig. 3: Plan of the residential rooms." >}}
+{{< image file="sirmio-3.jpg" caption="Fig. 3: Plan of the residential rooms" credit="" alt="" >}}
 
-{{< image file="sirmio-5.jpg" caption="Fig. 5: Aerial view of vast olive grove" credit="" alt="Fig. 5: Aerial view of vast olive grove." >}}
+{{< image file="sirmio-5.jpg" caption="Fig. 5: Aerial view of vast olive grove" credit="" alt="" >}}
 
-{{< image file="sirmio-7.jpg" caption="Fig. 7: Aerial view of courtyard-viridarium" credit="" alt="Fig. 7:Aerial view of courtyard-viridarium." >}}
+{{< image file="sirmio-7.jpg" caption="Fig. 7: Aerial view of courtyard-viridarium" credit="" alt="" >}}
 
-{{< image file="sirmio-11.jpg" caption="Fig. 11: statue of a Dioscuros" credit="" alt="Fig. 11: statue of a Dioscuros." >}}
+{{< image file="sirmio-11.jpg" caption="Fig. 11: statue of a Dioscuros" credit="" alt="" >}}
 
-{{< image file="sirmio-12.jpg" caption="Fig. 12: Figure of  Plant fossils" credit="" alt="Fig. 12: Figure of Plant fossils." >}}
+{{< image file="sirmio-12.jpg" caption="Fig. 12: Figure of  Plant fossils" credit="" alt="" >}}
 
 ## Dates
 

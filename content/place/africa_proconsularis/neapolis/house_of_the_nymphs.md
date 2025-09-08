@@ -46,15 +46,15 @@ The peristyle was trapezoidal in shape (8.29 x 9 x 16. 15 m) and was bordered by
 
 ## Plans
 
-{{< image file="afr_nea_hn_amalekfig2.jpg" caption="Fig.1: Plan of the House of the Nymphs." credit="(Darmon, J.P., 1980, p. 9, pp. 85-6 et p. 146.)" alt="Plan of the House of the Nymphs at Neapolis">}}
+{{< image file="afr_nea_hn_amalekfig2.jpg" caption="Fig.1: Plan of the House of the Nymphs." credit="(Darmon, J.P., 1980, p. 9, pp. 85-6 et p. 146.)" alt="">}}
 
 ## Images
 
-{{< image file="afr_nea_hn_amalekphotofig2.jpg" caption="Fig.2: Photographic view of the garden. (?)" credit="" alt="Photographic view of the gardenat Neapolis">}}
+{{< image file="afr_nea_hn_amalekphotofig2.jpg" caption="Fig.2: Photographic view of the garden. (?)" credit="" alt="">}}
 
-{{< image file="Detail_of_the_pool_with_inscription.jpg" caption="Fig.3: View of the basin of the garden peristyle of the House of the Nymphs." credit="(Malek, A.-A., 2018, fig. 12.11A)" alt="Detail of the pool with inscription">}}
+{{< image file="Detail_of_the_pool_with_inscription.jpg" caption="Fig.3: View of the basin of the garden peristyle of the House of the Nymphs." credit="(Malek, A.-A., 2018, fig. 12.11A)" alt="">}}
 
-{{< image file="detail_of_the_basin.jpg" caption="Fig.4: Detail of the basin with the inscription Nymfarum Domus." credit="(Malek, A.-A., 2018, fig. 12.11B)" alt="Detail of the pool with inscription">}}
+{{< image file="detail_of_the_basin.jpg" caption="Fig.4: Detail of the basin with the inscription Nymfarum Domus." credit="(Malek, A.-A., 2018, fig. 12.11B)" alt="">}}
 
 ## Dates
 

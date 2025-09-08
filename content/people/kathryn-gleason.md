@@ -12,7 +12,10 @@ Professor of Landscape Architecture, Cornell University
 klg16@cornell.edu
 
 ## Website
+
 https://archaeology.cornell.edu/kathryn-gleason
+
+https://en.wikipedia.org/wiki/Kathryn_Gleason
 
 {{< id vocab="ORCID" id="0000-0001-6260-8378" >}}
 

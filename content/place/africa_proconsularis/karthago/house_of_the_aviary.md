@@ -50,10 +50,10 @@ In the eastern part of the house, a low wall with six semi-circular niches that 
 
 ## Plans
 
-{{< image file="House_of_the_Aviary_final.jpg" caption="Fig. 1: Plan of the House of the Aviary" credit="(Malek, A.-A., 2014, p. 17 and 2018, fig. 12.10)." alt="Plan of the House of the Aviary at Karthago" >}}
+{{< image file="House_of_the_Aviary_final.jpg" caption="Fig. 1: Plan of the House of the Aviary" credit="(Malek, A.-A., 2014, p. 17 and 2018, fig. 12.10)." alt="" >}}
 ## Images
 
-{{< image file="Drawing_detail_ House_of_the_Aviary.jpg" caption="Fig. 2: Reconstruction drawing of corner of the peristyle garden of the House of the Aviary." credit="(Malek,A.-A., 2018, fig. 12.9B)" alt="Detail Drawing of the House of the Aviary at Karthago" >}}
+{{< image file="Drawing_detail_ House_of_the_Aviary.jpg" caption="Fig. 2: Reconstruction drawing of corner of the peristyle garden of the House of the Aviary." credit="(Malek,A.-A., 2018, fig. 12.9B)" alt="" >}}
 
 ## Dates
 

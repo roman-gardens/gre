@@ -74,7 +74,7 @@ Unspecified
 
 - SALZA PRINA RICOTTI 1987 = E. SALZA PRINA RICOTTI, , *The Importance of Water in Roman Garden Triclinia*,in Ancient Roman Villa Gardens (Dumbarton Oaks Research Library and Collection), Dumbarton Oaks 1987, pp. 137-184 [worldcat](https://search.worldcat.org/title/887179596)
 
-- SALZA PRINA RICOTTI 1987a = E. SALZA PRINA RICOTTI, , *La Villa Magna a Grotte di Piastra*,in Castelporziano II. Campagna di scavo e di restauro 1985 – 1986, Roma 1987, pp. 45-66 [worldcat](https://search.worldcat.org/title/848344120)
+- SALZA PRINA RICOTTI 1987a = E. SALZA PRINA RICOTTI, , *La Villa Magna a Grotte di Piastra*,in Castelporziano II. Campagna di scavo e di restauro 1985-1986, Roma 1987, pp. 45-66 [worldcat](https://search.worldcat.org/title/848344120)
 
 - SALZA PRINA RICOTTI 1989 = E. SALZA PRINA RICOTTI, , *Sul terrazzo odoroso di viole: la scoperta della villa di Plinio il Giovane*,Archeo 54 (agosto 1989), pp. 34-43
 [worldcat](https://search.worldcat.org/title/920385284/editions?referer=di&editionsView=true)

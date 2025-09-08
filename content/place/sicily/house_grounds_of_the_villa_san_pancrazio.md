@@ -39,7 +39,7 @@ In private housing at this site on the east coast no excavation has so far been 
 
 ## Plans
 
-<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}} -->
+<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="">}} -->
 
 <!-- ## Images -->
 
@@ -47,9 +47,9 @@ In private housing at this site on the east coast no excavation has so far been 
 
 ## Bibliography
 
-G. M. Bacci, Attivita della soprintendenza: Taormina, Kokalos 39–40 (1993–94): 945–7. [(worldcat)](https://search.worldcat.org/title/186378054)
+G. M. Bacci, Attivita della soprintendenza: Taormina, Kokalos 39-40 (1993-94): 945-7. [(worldcat)](https://search.worldcat.org/title/186378054)
 
-Pool types: L. Farrar, Ancient Roman Gardens, Stroud, 1998, pp. 71–84.[(worldcat)](https://search.worldcat.org/title/1169942407)
+Pool types: L. Farrar, Ancient Roman Gardens, Stroud, 1998, pp. 71-84.[(worldcat)](https://search.worldcat.org/title/1169942407)
 
 ## Places
 

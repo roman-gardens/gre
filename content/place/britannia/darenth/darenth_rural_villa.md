@@ -42,7 +42,7 @@ South of the western range of rooms was a large, open space measuring 14.6 x 58.
 
 ## Plans
 
-{{< image file="darenth.png" caption="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P)." credit="Adapted from Detsicas 1983, fig. 20." alt="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20" >}}
+{{< image file="darenth.png" caption="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P)." credit="Adapted from Detsicas 1983, fig. 20." alt="" >}}
 
 <!-- ## Images -->
 

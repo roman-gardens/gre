@@ -4,7 +4,7 @@ aliases: [/id/8abb33d60a]
 type: place
 title: Achaea
 author: David Gilman Romano?, Maureen Carroll?
-editor: Jane Millar?
+contributor: Jane Millar?
 date: 2021-04-21
 modified: 2025-06-29
 draft: false

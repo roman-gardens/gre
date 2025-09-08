@@ -67,9 +67,9 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 
 ## Figures
 
-{{< image file="jc_domus_fig1.jpg" caption="Figure 1. Peristyle column marble base of the Julio-Claudian domus. Photograph from Villedieu et al, 2001, Figure 14." credit="" alt="Column base of Julio-Claudian domus" >}}
+{{< image file="jc_domus_fig1.jpg" caption="Figure 1. Peristyle column marble base of the Julio-Claudian domus. Photograph from Villedieu et al, 2001, Figure 14." credit="" alt="" >}}
 
-{{< image file="jc_domus_fig2.jpg" caption="Figure 2. Axonometric reconstruction of the domus peristyle (© J.-M. Gassend, AMU-CNRS, IRAA)." credit="" alt="Reconstruction of the Julio-Claudian domus" >}}
+{{< image file="jc_domus_fig2.jpg" caption="Figure 2. Axonometric reconstruction of the domus peristyle (© J.-M. Gassend, AMU-CNRS, IRAA)." credit="" alt="" >}}
 
 ## Dates
 

@@ -37,7 +37,7 @@ There is a rectangular fountain basin set at the south end of the peristyle faci
 
 ## Plans
 
-<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}} -->
+<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="">}} -->
 
 ## Images
 
@@ -47,7 +47,7 @@ There is a rectangular fountain basin set at the south end of the peristyle faci
 
 ## Bibliography
 
-R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 199–203, with figs 165.3 and 166 (202 for the garden).[(worldcat)](https://search.worldcat.org/title/608028740)
+R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 199-203, with figs 165.3 and 166 (202 for the garden).[(worldcat)](https://search.worldcat.org/title/608028740)
 
 ## Places
 

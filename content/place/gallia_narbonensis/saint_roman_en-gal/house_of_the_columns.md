@@ -55,11 +55,11 @@ The final phase lasted about fifty years, beginning in the first half of the thi
 
 ## Plans
 
-{{< image file="house_of_the_columns_phase1.png" caption="Fig. 1 Plan of House of the columns_phase1" credit="" alt="Plan of House of the columns_phase1" >}}
+{{< image file="house_of_the_columns_phase1.png" caption="Fig. 1 Plan of House of the columns_phase1" credit="" alt="" >}}
 
-{{< image file="house_of_the_columns_phase2.png" caption="Fig. 2 Plan of House of the columns_phase2" credit="" alt="Plan of House of the columns_phase2" >}}
+{{< image file="house_of_the_columns_phase2.png" caption="Fig. 2 Plan of House of the columns_phase2" credit="" alt="" >}}
 
-{{< image file="house_of_the_columns_phase3.png" caption="Fig. 3 Plan of House of the columns_phase2" credit="" alt="Plan of House of the columns_phase3" >}}
+{{< image file="house_of_the_columns_phase3.png" caption="Fig. 3 Plan of House of the columns_phase2" credit="" alt="" >}}
 
 <!-- ## Dates -->
 
@@ -71,7 +71,7 @@ The final phase lasted about fifty years, beginning in the first half of the thi
 
 3. Gros, Pierre. *L'architecture Romaine Du Début Du Iiie Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 189.[worldcat](https://search.worldcat.org/title/1169743067)
 
-4. *Recherches Archéologiques a Saint-Romain-En-Gal (1988 - 1990)*. Vienne, 1992, P. 45-83.[worldcat](https://search.worldcat.org/title/1068996218)
+4. *Recherches Archéologiques a Saint-Romain-En-Gal (1988-1990)*. Vienne, 1992, P. 45-83.[worldcat](https://search.worldcat.org/title/1068996218)
 
 5. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig. 194.[worldcat](hhttps://search.worldcat.org/title/43416334)
 

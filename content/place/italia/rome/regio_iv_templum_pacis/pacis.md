@@ -82,9 +82,9 @@ at the edge of these structures might have belonged to the [attic](http://vocab.
 
 ## Figures
 
-{{< image file="domus_aurea_fig1.jpg" caption="Figure 1. Base plan." credit="" alt="Plan of the Templum Pacis" >}}
+{{< image file="domus_aurea_fig1.jpg" caption="Figure 1. Base plan." credit="" alt="" >}}
 
-{{< image file="domus_aurea_fig1.jpg" caption="Figure 2. Marble Plan fragments (used by permission of the Stanford FUR project and Eugenio La Rocca)." credit="" alt="Marble Plan fragments of the Templum Pacis" >}}
+{{< image file="domus_aurea_fig1.jpg" caption="Figure 2. Marble Plan fragments (used by permission of the Stanford FUR project and Eugenio La Rocca)." credit="" alt="" >}}
 
 ## Dates
 
@@ -92,13 +92,13 @@ at the edge of these structures might have belonged to the [attic](http://vocab.
 
 ## Bibliography
 
-* J. Anderson, *The Historical Topography of the Imperial Fora*, Bruxelles, 1984: 101–18; pl. 1. [(worldcat)](https://search.worldcat.org/title/905747544)
-* R. Lloyd, "Three Monumental Gardens on the Marble Plan" *AJA* 92 (1986): 85–100. [(worldcat)](https://search.worldcat.org/title/959772922) | [(JSTOR)](https://www.jstor.org/stable/504295)
+* J. Anderson, *The Historical Topography of the Imperial Fora*, Bruxelles, 1984: 101-18; pl. 1. [(worldcat)](https://search.worldcat.org/title/905747544)
+* R. Lloyd, "Three Monumental Gardens on the Marble Plan" *AJA* 92 (1986): 85-100. [(worldcat)](https://search.worldcat.org/title/959772922) | [(JSTOR)](https://www.jstor.org/stable/504295)
 * J.B.Ward-Perkins, *Roman Imperial Architecture*, New Haven, 1981. [(worldcat)](https://search.worldcat.org/title/463080461)
 * F. Coarelli, "Pax, Templum," *Lexicon Topographicum Urbis Romae (LTUR)*. [(worldcat)](https://search.worldcat.org/title/956078474)
-* S. Rizzo, " Indagini nei Fori Imperiali: Oroidrografia, Foro di Cesare, Foro di Augusto, Templum Pacis," in *Mitteilungen des Deutschen Archäologischen Instituts*, Römische Abteilung 108 (2001): 215–44.[(worldcat)](https://search.worldcat.org/title/1180386779)
-* A. Claridge, *Rome: An Oxford Archaeological Guide*, Oxford: Oxford University Press, Revised Edition, 171–74. [(worldcat)](https://search.worldcat.org/title/799536953)
-* E. A. Pollard, "Pliny's Natural History and the Flavian Templum Pacis: Botanical imperialism in first-century Rome," *Journal of World History* 20.3 (2009): 309–38. [(worldcat)](https://search.worldcat.org/title/47120664) | [(JSTOR)](https://www.jstor.org/stable/40542802)
+* S. Rizzo, " Indagini nei Fori Imperiali: Oroidrografia, Foro di Cesare, Foro di Augusto, Templum Pacis," in *Mitteilungen des Deutschen Archäologischen Instituts*, Römische Abteilung 108 (2001): 215-44.[(worldcat)](https://search.worldcat.org/title/1180386779)
+* A. Claridge, *Rome: An Oxford Archaeological Guide*, Oxford: Oxford University Press, Revised Edition, 171-74. [(worldcat)](https://search.worldcat.org/title/799536953)
+* E. A. Pollard, "Pliny's Natural History and the Flavian Templum Pacis: Botanical imperialism in first-century Rome," *Journal of World History* 20.3 (2009): 309-38. [(worldcat)](https://search.worldcat.org/title/47120664) | [(JSTOR)](https://www.jstor.org/stable/40542802)
 * P. L. Tucci, *The Temple of Peace in Rome*, Cambridge: Cambridge University Press, 2017. [(worldcat)](https://search.worldcat.org/title/1025338560)
 
 <!--

@@ -77,7 +77,7 @@ Waiting for columbarium photo from K. Gleason
 
 - Lapp, P. W., 1963. "The second and third campaigns at Araq-el-Emir," *Bulletin of the American Schools of Oriental Research* 171: 8-39.(http://www.jstor.org/stable/1355604)
 
-- Netzer, E. 1999. "Floating in the Desert: a pleasure palace in Jordan." *Archaeology Odyssey* 2/1: 46–55. (https://www.baslibrary.org/archaeology-odyssey/2/1/14)
+- Netzer, E. 1999. "Floating in the Desert: a pleasure palace in Jordan." *Archaeology Odyssey* 2/1: 46-55. (https://www.baslibrary.org/archaeology-odyssey/2/1/14)
 
 - Nielsen, I., 1994. *Hellenistic Palaces: Tradition and Renewal*, Aarhhus: Aarhus University Press. [(worldcat)](https://search.worldcat.org/title/468433476)
 

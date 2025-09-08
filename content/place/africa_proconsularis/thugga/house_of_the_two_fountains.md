@@ -18,7 +18,7 @@ draft: true
 
 <!-- ## Plan of City
 
-{{< image file="Doua_plan_city.jpg" caption="Plan of the Thugga" credit="" alt="Plan of Thugga" >}}
+{{< image file="Doua_plan_city.jpg" caption="Plan of the Thugga" credit="" alt="" >}}
 -->
 
 ## Location Description
@@ -45,7 +45,7 @@ This house in the W of the market may have had a peristyle garden enclosed by a 
 
 ## Images
 
-{{< image file="AFR_Thu_Htf_Wjashemski.jpg" caption="Fig.1 Plan of House of the Two Fountains" credit="" alt="Plan of House of the Two Fountains" >}}
+{{< image file="AFR_Thu_Htf_Wjashemski.jpg" caption="Fig.1 Plan of House of the Two Fountains" credit="" alt="" >}}
 
 <!-- ## Dates -->
 

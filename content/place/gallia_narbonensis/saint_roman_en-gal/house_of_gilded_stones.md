@@ -61,7 +61,7 @@ Further to the north, at the back of the lot, the house had a large garden [25] 
 
 ## Dates
 
-A.D. 20 – A.D. 60
+A.D. 20 - A.D. 60
 
 ## Bibliography
 

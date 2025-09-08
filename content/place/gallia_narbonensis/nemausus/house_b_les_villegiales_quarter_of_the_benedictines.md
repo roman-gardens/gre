@@ -52,9 +52,9 @@ At the south of the garden there is a well which may have supplied the house bef
 
 ## Plans
 
-{{< image file="house_b_les_villegiales_quarter_of_the_benedictines_1.png" caption="Fig. 1 Plan of House B, Les Villégiales, quarter of the Benedictines" credit="" alt="Plan of House B, Les Villégiales, quarter of the Benedictines" >}}
+{{< image file="house_b_les_villegiales_quarter_of_the_benedictines_1.png" caption="Fig. 1 Plan of House B, Les Villégiales, quarter of the Benedictines" credit="" alt="" >}}
 
-{{< image file="house_b_les_villegiales_quarter_of_the_benedictines_2.png" caption="Fig. 2 Plan of House B, Les Villégiales, quarter of the Benedictines" credit="" alt="Plan of House B, Les Villégiales, quarter of the Benedictines" >}}
+{{< image file="house_b_les_villegiales_quarter_of_the_benedictines_2.png" caption="Fig. 2 Plan of House B, Les Villégiales, quarter of the Benedictines" credit="" alt="" >}}
 
 ## Dates
 

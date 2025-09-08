@@ -46,7 +46,7 @@ This house was excavated in 1882 to reveal a small garden (a) at the rear entere
 
 ## Plans
 
-{{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="Fig. 16, Plan of  Region VIII, Insula V" >}}
+{{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="" >}}
 
 ## Images
 

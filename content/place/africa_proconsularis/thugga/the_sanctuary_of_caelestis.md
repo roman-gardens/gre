@@ -41,7 +41,7 @@ The sanctuary of *Caelestis*, installed on the north-western outskirts of the ci
 
 ## Plans
 
-{{< image file="the_sanctuary_of_caelestis.jpg" caption="Fig. 1: Plan of the sanctuary of Caelestis" credit="(From Golvin, J.-C., Khanoussi, M. (dir.) 2005, p. 181, fig. 171])" alt="The sanctuary of Caelestis" >}}
+{{< image file="the_sanctuary_of_caelestis.jpg" caption="Fig. 1: Plan of the sanctuary of Caelestis" credit="(From Golvin, J.-C., Khanoussi, M. (dir.) 2005, p. 181, fig. 171])" alt="" >}}
 
 ## Dates
 

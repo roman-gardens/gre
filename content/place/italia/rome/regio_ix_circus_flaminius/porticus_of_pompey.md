@@ -80,7 +80,7 @@ Greek art and sculpture (often with Greek inscriptions) and golden [Pergamene](h
 
 The *Porticus Pompeianae* not only functioned as a victory monument and political space, but it was a valued amenity for the people of Rome, where men and women came to meet their lovers or seek new ones ([Propertius 2.32.30](http://data.perseus.org/citations/urn:cts:latinLit:phi0620.phi001.perseus-lat2:2.32); [Catullus 55.6](http://data.perseus.org/citations/urn:cts:latinLit:phi0472.phi001.perseus-lat1:55); [Ovid *Ars Am.* 1.67, 11.1.11, 11.47.3](http://data.perseus.org/texts/urn:cts:latinLit:phi0959.phi004)).
 
-Augustus' remodeling of the theater and *porticus* (in 32 BCE), discussed above, minimized the political nature of the space and instead emphasized the *porticus* as a space of pleasure. After a fire in 80 CE, [Domitian](https://en.wikipedia.org/wiki/Domitian) restored the complex. It also burned during the reign of [Carinus](https://en.wikipedia.org/wiki/Carinus) (283–85 CE) and was restored by [Diocletian](https://en.wikipedia.org/wiki/Diocletian).
+Augustus' remodeling of the theater and *porticus* (in 32 BCE), discussed above, minimized the political nature of the space and instead emphasized the *porticus* as a space of pleasure. After a fire in 80 CE, [Domitian](https://en.wikipedia.org/wiki/Domitian) restored the complex. It also burned during the reign of [Carinus](https://en.wikipedia.org/wiki/Carinus) (283-85 CE) and was restored by [Diocletian](https://en.wikipedia.org/wiki/Diocletian).
 
 ## Figures
 
@@ -105,8 +105,8 @@ Augustus' remodeling of the theater and *porticus* (in 32 BCE), discussed above,
 * P. Grimal, *Les Jardins Romains*, Paris, 1969, pp. 171-6. [(worldcat)](https://search.worldcat.org/title/959046569)
 * E.M. Steinby (ed.), *Lexicon topographicum urbis Romae*, s.v. "Porticus Pompei" (P. Gros), pp. 148-9. [(worldcat)](https://search.worldcat.org/title/956078474)
 * A. Kuttner, "Culture and History at Pompey's Museum," *Transactions of the American Philological Association* 129 (1999), pp. 343-73. [(worldcat)](https://search.worldcat.org/title/228297096)
-* M. Gagliardo and J.Packer "A New Look at Pompey's Theater: History, Documentation, and Recent Excavation," *American Journal of Archaeology* Vol. 110, No. 1 (January 2006), pp. 93–122. [(worldcat)](https://search.worldcat.org/title/604029789)
-* E. Macaulay-Lewis, "Use and Reception," in *A Cultural History of Gardens in Antiquity*, ed. K.L. Gleason, London, 2013, pp. 99–118. [(worldcat)](https://search.worldcat.org/title/968535933)
+* M. Gagliardo and J.Packer "A New Look at Pompey's Theater: History, Documentation, and Recent Excavation," *American Journal of Archaeology* Vol. 110, No. 1 (January 2006), pp. 93-122. [(worldcat)](https://search.worldcat.org/title/604029789)
+* E. Macaulay-Lewis, "Use and Reception," in *A Cultural History of Gardens in Antiquity*, ed. K.L. Gleason, London, 2013, pp. 99-118. [(worldcat)](https://search.worldcat.org/title/968535933)
 
 ## Places
 

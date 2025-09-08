@@ -42,7 +42,7 @@ The House is located in the *insula* II (Lots 1,7). The peristyle garden had a s
 
 ## Plans
 
-{{< image file="AFR_Uti_Ht_Wjashemski1.jpg" caption="Fig.1: Plan of the House of the Treasure (CMT, plans 3,4)" credit="" alt="Fig.1: Plan of the House of the Treasure." >}}
+{{< image file="AFR_Uti_Ht_Wjashemski1.jpg" caption="Fig.1: Plan of the House of the Treasure (CMT, plans 3,4)" credit="" alt="" >}}
 
 ## Dates
 

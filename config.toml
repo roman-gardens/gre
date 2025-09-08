@@ -66,7 +66,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 [Params]
 	twitter_cards = false
-	images = ["images/landing-page-map-1.png"]
+	images = ["images/landing-page-map-1.jpg"]
 	customCSS = ["css/custom.css"]
 	highlightColor = "#c22d30"
 	customJS = ["js/custom.js"]

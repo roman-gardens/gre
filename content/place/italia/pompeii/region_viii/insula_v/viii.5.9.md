@@ -46,7 +46,7 @@ At the rear of the tablinium excavated in 1881 a narrow garden (a) had a portico
 
 ## Plans
 
-{{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="Fig. 16, Plan of  Region VIII, Insula V" >}}
+{{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="" >}}
 
 ## Places
 

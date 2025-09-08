@@ -74,7 +74,7 @@ The interior dimensions of the open-air pool measures 43 x 23 meters, and it is 
 
 Excavations revealed an elaborate water distribution system incorporated into the design and construction of the pool. A reservoir perched on top of the eastern escarpment fed water to the pool and garden below. The pool's north wall functioned as an aqueduct with channels conducting water across the top of the wall to a *castellum auquae*, or central holding tank and redistribution point built into the wall. Water then exited the *castellum* and was fed into stone channels that form part of an irrigation system for the garden that was laid out on the earthen terrace. In addition, two large capped channels cut into the bedrock along the eastern edge of the complex may be intended to direct excess or waste water into the wadi. What appears to be a large subterranean cistern fed and drained by pipelines has been identified through GPR in the southeastern quadrant of the terrace, but remains unexcavated. Additional pipelines of terracotta and lead transported water to designated locations on the site.
 
-The archaeological record indicates that the large terrace upon which the garden was found was constructed during the reign of the Nabataean king, [Aretas IV](https://en.wikipedia.org/wiki/Aretas_IV_Philopatris) (9 BCE – 40 CE) and thus it is believed that the garden and monumental pool were initially created at the end of the first century BCE or early first century CE The role of the garden and pool complex within Petra in this earliest phase remains ambiguous. The site is closely associated with the neighboring [Great Temple](https://pleiades.stoa.org/places/777218559) complex. However, the original function of the Great Temple monument remains unsettled, with theories ranging from religious/sacred (temple) to private/royal (possibly a palace or audience hall). Close parallels found in the gardens and pools of the contemporary palaces in neighboring Judaea during the reign of the [Hasmonean Dynasty](https://en.wikipedia.org/wiki/Hasmonean_dynasty) (168-40 BCE) and [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great) (37-4 BCE) support the interpretation of the Petra garden as part of a palace complex.
+The archaeological record indicates that the large terrace upon which the garden was found was constructed during the reign of the Nabataean king, [Aretas IV](https://en.wikipedia.org/wiki/Aretas_IV_Philopatris) (9 BCE - 40 CE) and thus it is believed that the garden and monumental pool were initially created at the end of the first century BCE or early first century CE The role of the garden and pool complex within Petra in this earliest phase remains ambiguous. The site is closely associated with the neighboring [Great Temple](https://pleiades.stoa.org/places/777218559) complex. However, the original function of the Great Temple monument remains unsettled, with theories ranging from religious/sacred (temple) to private/royal (possibly a palace or audience hall). Close parallels found in the gardens and pools of the contemporary palaces in neighboring Judaea during the reign of the [Hasmonean Dynasty](https://en.wikipedia.org/wiki/Hasmonean_dynasty) (168-40 BCE) and [Herod the Great](https://en.wikipedia.org/wiki/Herod_the_Great) (37-4 BCE) support the interpretation of the Petra garden as part of a palace complex.
 
 The Petra garden continued in use after the Roman annexation of Petra in 106 CE, at which time the Great Temple was converted into an *odeion* or *bouleutereion*. It is likely that, within this context, the garden functioned as a public park much like the urban parks in contemporary Rome. Several examples of evidence for renovations have been identified with this phase of the site. For example, the addition of a bridge allowed easy access to the island-pavilion that was originally only accessible by swimming or possibly boating. In addition, a reorganization of the hydraulic system may represent a new approach to water consumption influenced by the Romans, whose rules about the use of natural resources differed from those of local inhabitants.
 
@@ -245,27 +245,27 @@ End of the 1st century BCE - 2nd/3rd centuries CE (Late Hellenistic/Roman period
 
 ## Bibliography
 
-- Alcock, S.E., M.L. Berenfeld, I.B. Straughn, C.A. Tuttle, and (with a ceramic report by Tali Erickson-Gini). 2010. "The Brown University Petra Archaeological Project: Report on the 2009 Exploration Season in the 'Upper Market.'" *Annual of the Department of Antiquities of Jordan* 54: 153–166. (http://publication.doa.gov.jo/Publications/ViewChapterPublic/91)
+- Alcock, S.E., M.L. Berenfeld, I.B. Straughn, C.A. Tuttle, and (with a ceramic report by Tali Erickson-Gini). 2010. "The Brown University Petra Archaeological Project: Report on the 2009 Exploration Season in the 'Upper Market.'" *Annual of the Department of Antiquities of Jordan* 54: 153-166. (http://publication.doa.gov.jo/Publications/ViewChapterPublic/91)
 
-- Bedal, L.-A. 1999. "A Paradeisos in Petra: new light on the 'Lower Market.'" *Annual of  the Department of  Antiquities of Jordan* 43: 227–239. (http://publication.doa.gov.jo/Publications/ViewChapterPublic/759)
+- Bedal, L.-A. 1999. "A Paradeisos in Petra: new light on the 'Lower Market.'" *Annual of  the Department of  Antiquities of Jordan* 43: 227-239. (http://publication.doa.gov.jo/Publications/ViewChapterPublic/759)
 
-- ibid. 2000. "Paradise Found: Petra's urban oasis." *Expedition* 42 2: 23–36. (https://www.penn.museum/sites/expedition/paradise-found/)
+- ibid. 2000. "Paradise Found: Petra's urban oasis." *Expedition* 42 2: 23-36. (https://www.penn.museum/sites/expedition/paradise-found/)
 
-- ibid. 2001. "A Pool Complex in Petra's City Center." *Bulletin of the American Schools of Oriental Research* 324: 23–41.(https://www.journals.uchicago.edu/doi/10.2307/1357630)
+- ibid. 2001. "A Pool Complex in Petra's City Center." *Bulletin of the American Schools of Oriental Research* 324: 23-41.(https://www.journals.uchicago.edu/doi/10.2307/1357630)
 
-- ibid. 2002. "The Petra Garden Feasibility Study." *American Journal of Archaeology* 106 3: 448–450.
+- ibid. 2002. "The Petra Garden Feasibility Study." *American Journal of Archaeology* 106 3: 448-450.
 
-- ibid. 2002. "Desert Oasis: Water Consumption in the Nabataean Capital." *Near Eastern Archaeology* 65 4: 225–234.(https://www.journals.uchicago.edu/doi/10.2307/3210851)
+- ibid. 2002. "Desert Oasis: Water Consumption in the Nabataean Capital." *Near Eastern Archaeology* 65 4: 225-234.(https://www.journals.uchicago.edu/doi/10.2307/3210851)
 
-- Bedal, L.-A., K.L. Gleason, J.G. Schryver, and (with reports by J. H. Ramsay and J.Bowsher). 2007. "The Petra Garden and Pool Complex, 2003-2005." *Annual of the Department of Antiquities of Jordan* 51: 151–176.(http://publication.doa.gov.jo/Publications/ViewChapterPublic/1664)
+- Bedal, L.-A., K.L. Gleason, J.G. Schryver, and (with reports by J. H. Ramsay and J.Bowsher). 2007. "The Petra Garden and Pool Complex, 2003-2005." *Annual of the Department of Antiquities of Jordan* 51: 151-176.(http://publication.doa.gov.jo/Publications/ViewChapterPublic/1664)
 
-- Bedal, L.-A., L.B. Conyers, J.E. Foss, and K.L. Gleason. 2013. "The Petra Garden and Pool Complex, Ma'an Jordan." In *Sourcebook for Garden Archaeology: Methods, Techniques, Interpretations and Field Examples*, edited by, A-A. Malek, 625–641. Berne: Peter Lang/Fondations des parcs et jardins de France.
+- Bedal, L.-A., L.B. Conyers, J.E. Foss, and K.L. Gleason. 2013. "The Petra Garden and Pool Complex, Ma'an Jordan." In *Sourcebook for Garden Archaeology: Methods, Techniques, Interpretations and Field Examples*, edited by, A-A. Malek, 625-641. Berne: Peter Lang/Fondations des parcs et jardins de France.
 
-- Kanellopoulos, C. 2003. "The Layout of the Garden and Pool Complex in Petra. A Metrological Analysis." *Annual of  the Department of  Antiquities of Jordan* 47: 149–158. (http://publication.doa.gov.jo/Publications/ViewChapterPublic/723)
+- Kanellopoulos, C. 2003. "The Layout of the Garden and Pool Complex in Petra. A Metrological Analysis." *Annual of  the Department of  Antiquities of Jordan* 47: 149-158. (http://publication.doa.gov.jo/Publications/ViewChapterPublic/723)
 
-- Macaulay-Lewis, E. 2006. "Planting pots at Petra: a preliminary study of ollae perforatae at the Petra Garden Pool Complex and at the 'Great Temple.'" *Levant* 38: 159–170. (https://www.tandfonline.com/doi/abs/10.1179/lev.2006.38.1.159)
+- Macaulay-Lewis, E. 2006. "Planting pots at Petra: a preliminary study of ollae perforatae at the Petra Garden Pool Complex and at the 'Great Temple.'" *Levant* 38: 159-170. (https://www.tandfonline.com/doi/abs/10.1179/lev.2006.38.1.159)
 
-- Ramsay, J.H., and L.-A. Bedal. 2015. "Garden Variety Seeds? Botanical Remains from the Petra Garden and Pool Complex." *Vegetation History and Archaeobotany* 24/5: 621–634. doi:10.1007/s00334-015-0520-4. (https://link.springer.com/article/10.1007/s00334-015-0520-4)
+- Ramsay, J.H., and L.-A. Bedal. 2015. "Garden Variety Seeds? Botanical Remains from the Petra Garden and Pool Complex." *Vegetation History and Archaeobotany* 24/5: 621-634. doi:10.1007/s00334-015-0520-4. (https://link.springer.com/article/10.1007/s00334-015-0520-4)
 
 ## Places
 

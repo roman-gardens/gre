@@ -17,7 +17,7 @@ draft: false
 - {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
-{{< image file="thuburbo_house_of_the_trussed_animals.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" >}}
+{{< image file="thuburbo_house_of_the_trussed_animals.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="" >}}
 
 ## Location Description
 
@@ -43,7 +43,7 @@ The house of the Trussed Animals is bordered on the E by the Baths of the Capito
 
 ## Plans
 
-{{< image file="AFR_Thub_Hta_Wjashemski1.jpg" caption="Fig. 1: Plan of the House of the Trussed Animals (CMT, plan 21, 22)" credit="" alt="Plan of the House of the Trussed Animals" >}}
+{{< image file="AFR_Thub_Hta_Wjashemski1.jpg" caption="Fig. 1: Plan of the House of the Trussed Animals (CMT, plan 21, 22)" credit="" alt="" >}}
 
 ## Dates
 

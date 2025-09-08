@@ -61,7 +61,7 @@ In the course of the second century, some two meters of fill was added to the ga
 
 3. *Guide Du Site Saint-Romain-En-Ga*. Paris: Réunion des musées nationaux, 1999, P. 30,33.[worldcat](https://search.worldcat.org/title/43416334)
 
-4. *Recherches Archéologiques a Saint-Romain-En-Gal (1988 - 1990)*. Vienne, 1992, P. 45-83.[worldcat](https://search.worldcat.org/title/1068996218)
+4. *Recherches Archéologiques a Saint-Romain-En-Gal (1988-1990)*. Vienne, 1992, P. 45-83.[worldcat](https://search.worldcat.org/title/1068996218)
 
 6. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig.194.[worldcat](https://search.worldcat.org/title/43416334)
 

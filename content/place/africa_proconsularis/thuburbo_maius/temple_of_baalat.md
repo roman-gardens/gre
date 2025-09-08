@@ -17,7 +17,7 @@ draft: false
 - {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
-{{< image file="thuburbo_temple_of_baalat.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" >}}
+{{< image file="thuburbo_temple_of_baalat.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="" >}}
 
 ## Location Description
 
@@ -41,7 +41,7 @@ Only the central passage (III) way leading to the temple (IV) was paved. The res
 
 ## Plans
 
-{{< image file="Temple of Baalat.jpg" caption="Fig. 1: Plan of the Temple of Baalat (CMT, V. II, fasc.2, plan 10.)" credit="" alt="Plan of the Temple of Baalat " >}}
+{{< image file="Temple of Baalat.jpg" caption="Fig. 1: Plan of the Temple of Baalat (CMT, V. II, fasc.2, plan 10.)" credit="" alt="" >}}
 
 ## Dates
 

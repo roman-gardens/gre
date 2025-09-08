@@ -48,7 +48,7 @@ B. The northwest corner of this small house contained a second garden (b) just o
 
 ## Plans
 
-{{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="Fig. 16, Plan of  Region VIII, Insula V" >}}
+{{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="" >}}
 
 ## Places
 

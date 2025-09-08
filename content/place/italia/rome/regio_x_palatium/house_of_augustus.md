@@ -77,11 +77,11 @@ RELATED PHASES ON THE PALATINE:
 
 ## Figures
 
-{{< image file="house_augustus_fig1.jpg" caption="Fig. 1: Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." credit="" alt="Plan of the Palatine" >}}
+{{< image file="house_augustus_fig1.jpg" caption="Fig. 1: Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." credit="" alt="" >}}
 
-{{< image file="house_augustus_fig2.jpg" caption="Fig. 2: Nymphaeum inside the House of Augustus (Photo SAR)." credit="" alt="Nymphaeum inside the House of Augustus" >}}
+{{< image file="house_augustus_fig2.jpg" caption="Fig. 2: Nymphaeum inside the House of Augustus (Photo SAR)." credit="" alt="" >}}
 
-{{< image file="house_augustus_fig3.jpg" caption="Fig. 3: House of Livia. Right ala with detail of the \"yellow frieze\". (Photo SAR)." credit="" alt="Yellow frieze of the House of Livia" >}}
+{{< image file="house_augustus_fig3.jpg" caption="Fig. 3: House of Livia. Right ala with detail of the \"yellow frieze\". (Photo SAR)." credit="" alt="" >}}
 
 ## Dates
 

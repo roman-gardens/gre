@@ -40,7 +40,7 @@ This richly decorated house is located to the east of the forum. A portico on fo
 
 ## Plans
 
-{{< image file="AFR_Mac_Hv_WJashemskifig4.jpg" caption="Fig. 1: Plan of the House of Venus." credit="(Picard, G. Ch., Bourgeois, A., 1977, Plan. I)" alt="Plan of the House of Venus at Mactaris; Picard, G. Ch., Bourgeois, A., 1977, pp. 213-220" >}}
+{{< image file="AFR_Mac_Hv_WJashemskifig4.jpg" caption="Fig. 1: Plan of the House of Venus." credit="(Picard, G. Ch., Bourgeois, A., 1977, Plan. I)" alt="" >}}
 
 <!-- ## Images -->
 

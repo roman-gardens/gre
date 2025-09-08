@@ -44,7 +44,7 @@ One of these buildings, the so-called House C or Omega House, had two peristyle 
 
 ## Plans
 
-{{< image file="omegahouse.jpg" caption="Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus." credit="Adapted from Camp 1986, fig. 170." alt="plan of a house with a possible garden peristyle" >}}
+{{< image file="omegahouse.jpg" caption="Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus." credit="Adapted from Camp 1986, fig. 170." alt="" >}}
 
 ## Dates
 

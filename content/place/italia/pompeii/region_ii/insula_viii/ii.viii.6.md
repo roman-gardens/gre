@@ -58,7 +58,7 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 
 {{< image file="../../fig._63,_ii.viii.6_17.7.73.jpg" caption="Fig.63, 17.7.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="../../fig._64,_ii.viii.6_8.33.73.jpg" caption="Fig. 64, 8.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
-{{< image file="../../fig._65,_ii.viii.6_21a.13.73.jpg" caption="Fig. 65, 21A.13.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="Fig. 65, 21A.13.73  (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image file="../../fig._65,_ii.viii.6_21a.13.73.jpg" caption="Fig. 65, 21A.13.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
 {{< image file="../../fig._66,_ii.viii.6_23.23.74.jpg" caption="Fig. 66, 23.23.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="../../fig._67,_ii.viii.6_21.31.73.jpg" caption="Fig. 67, 21.31.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}

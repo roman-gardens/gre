@@ -42,7 +42,7 @@ This house is the largest excavated to-date at Thugga. It appears to date from t
 
 ## Plans
 
-{{< image file="House_of_the_trillium_Dougga_color.jpg" caption="Fig. 1: Plan of House of the Trifolium (Portail internet de Dougga, Ministère de la culture et de la sauvegarde du patrimoine, http://www.dougga.rnrt.tn/file/plan_maison_trifolium.pdf)" credit="" alt="Plan of Trifolium" >}}
+{{< image file="House_of_the_trillium_Dougga_color.jpg" caption="Fig. 1: Plan of House of the Trifolium (Portail internet de Dougga, Ministère de la culture et de la sauvegarde du patrimoine, http://www.dougga.rnrt.tn/file/plan_maison_trifolium.pdf)" credit="" alt="" >}}
 
 ## Dates
 

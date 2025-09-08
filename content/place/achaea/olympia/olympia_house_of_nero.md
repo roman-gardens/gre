@@ -40,7 +40,7 @@ This house was built at the time of, and possibly for, the emperor Nero, who, on
 
 ## Plans
 
-{{< image file="eur_ach_olympia_nero_fig1.jpg" caption="Fig. 1: Plan of the 'House of Nero' with its garden courtyard (G) and water channel (stippled)." credit="Adapted from Mallwitz 1972, fig. 167." alt="Plan of the 'House of Nero' with its garden courtyard and water channel" >}}
+{{< image file="eur_ach_olympia_nero_fig1.jpg" caption="Fig. 1: Plan of the 'House of Nero' with its garden courtyard (G) and water channel (stippled)." credit="Adapted from Mallwitz 1972, fig. 167." alt="" >}}
 
 <!-- ## Images -->
 

@@ -43,7 +43,7 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 
 ## Plans
 
-{{< image file="sanctuary_b.jpg" caption="Fig. 1: Plan of the Sanctuary B, the templa Concordiae" credit="(From Aounallah, S., Golvin, J.-C. (dir.) 2016, p. 505, fig. 44)" alt="Plan of the Sanctuary B, the templa Concordiae" >}}
+{{< image file="sanctuary_b.jpg" caption="Fig. 1: Plan of the Sanctuary B, the templa Concordiae" credit="(From Aounallah, S., Golvin, J.-C. (dir.) 2016, p. 505, fig. 44)" alt="" >}}
 
 ## Dates
 

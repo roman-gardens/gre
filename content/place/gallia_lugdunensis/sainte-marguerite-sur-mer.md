@@ -44,7 +44,7 @@ None Available
 
 ## Plans
 
-{{< image file="st_mar_plan.jpg" caption="Detailed Plan of Villa at Sainte-Marguerite-sur-Mer." credit="" alt="A Plan of the Villa at Sainte-Marguerite-sur-Mer." >}}
+{{< image file="st_mar_plan.jpg" caption="Detailed Plan of Villa at Sainte-Marguerite-sur-Mer." credit="" alt="" >}}
 
 {{< image file="st_mar_2.jpg" caption="Plan drawings of the Villa, Temple, and Promenade at Sainte-Marguerite-sur-Mer." credit="" alt="" >}}
 ## Images

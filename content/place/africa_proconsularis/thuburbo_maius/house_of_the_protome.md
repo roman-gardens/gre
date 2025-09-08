@@ -17,7 +17,7 @@ draft: false
 - {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
 
 
-{{< image file="thuburbo_house_of_protomes.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" >}}
+{{< image file="thuburbo_house_of_protomes.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="" >}}
 
 ## Location Description
 
@@ -47,7 +47,7 @@ The *Trifolium* sector, was laid out around a peristyle garden (I-V) enclosed on
 
 ## Plans
 
-{{< image file="AFR_Thub_Hp_Wjashemski1.jpg" caption="Fig. 1: Plan of the House of the Protomes (CMT, V. II, fasc.3, plan 4-5)" credit="" alt="Plan of the House of the Protomes" >}}
+{{< image file="AFR_Thub_Hp_Wjashemski1.jpg" caption="Fig. 1: Plan of the House of the Protomes (CMT, V. II, fasc.3, plan 4-5)" credit="" alt="" >}}
 
 ## Dates
 

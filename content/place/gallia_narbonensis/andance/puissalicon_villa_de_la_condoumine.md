@@ -62,7 +62,7 @@ A.D. 75-100 built
 
 ## Bibliography
 
-1. J. P. Bacou, La villa gallo-romaine de Condoumine à Puissalicon, civitas de Béziers, *Revue Archéologique de Narbonnaise*, 1971, 4, P. 93 – 149.
+1. J. P. Bacou, La villa gallo-romaine de Condoumine à Puissalicon, civitas de Béziers, *Revue Archéologique de Narbonnaise*, 1971, 4, P. 93-149.
 
 2. Bacou, J.-P. "La Villa Gallo-Romaine De Condoumine À Puissalicon (civitas De Béziers)." *Revue Archéologique De Narbonnaise*. 4.1 (1971): 93-149. [(worldcat)](https://search.worldcat.org/title/4797757945)
 

@@ -53,17 +53,17 @@ A portrait of a little boy painted on the north wall of the *cubiculum*, to the 
 
 ## Plans
 
-{{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
+{{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="" >}}
 
-{{< image file="../region-i-insula-ix.png" caption="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44" credit="" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." >}}
+{{< image file="../region-i-insula-ix.png" caption="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44" credit="" alt="" >}}
 
 ## Images
 
-{{< image file="Fig_51_I.ix.3_18.15.59.jpg" caption="Fig. 3: 18.15.59, S.A. Jashemski" credit="" alt="Fig. 3: 18.15.59, S.A. Jashemski." >}}
+{{< image file="Fig_51_I.ix.3_18.15.59.jpg" caption="Fig. 3: 18.15.59, S.A. Jashemski" credit="" alt="" >}}
 
-{{< image file="Fig_52_I.ix.3_18.16.59.jpg" caption="Fig. 4: 18.16.59, S.A. Jashemski" credit="" alt="Fig. 4: 18.16.59, S.A. Jashemski." >}}
+{{< image file="Fig_52_I.ix.3_18.16.59.jpg" caption="Fig. 4: 18.16.59, S.A. Jashemski" credit="" alt="" >}}
 
-{{< image file="Fig_53_I.ix.3_18.22.59.jpg" caption="Fig. 5: 18.22.59, S.A. Jashemski" credit="" alt="Fig. 5: 18.22.59, S.A. Jashemski." >}}
+{{< image file="Fig_53_I.ix.3_18.22.59.jpg" caption="Fig. 5: 18.22.59, S.A. Jashemski" credit="" alt="" >}}
 
 ## Dates
 

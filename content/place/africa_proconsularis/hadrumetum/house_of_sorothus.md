@@ -16,7 +16,7 @@ draft: true
 - [Hadrumetum (Sousse)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="324716" name="Hadrumetum" >}}
 
-{{< image file="hadrumetum_city_plan.jpg" caption="Fig. 1: Plan of Hadrumetum" credit="(Ghaddhab, R., 2016, P.182)" alt="Plan of Hadrumetum">}}
+{{< image file="hadrumetum_city_plan.jpg" caption="Fig. 1: Plan of Hadrumetum" credit="(Ghaddhab, R., 2016, P.182)" alt="">}}
 
 ## Location Description
 
@@ -41,11 +41,11 @@ This very damaged house was laid out around a peristyle garden. A semi-circular 
 
 <!-- ## Maps
 
-{{< image file="map_of_hadrementum.jpg" caption="Map: Map of Hadrementum. 1. House of Sorothus, 2. House of the arsenal and House of Vergil, 3. House of the masks, 4. House of the ostriches, 5. Balzan house, 6. House of the satyrs and of the Bacchae, 7. House at the catacomb of the Good Shepherd. (North is at the top; there is no scale.) Adapted from Amplissimae." credit="" alt="Map of Hadrementum at hadrumetum">}} -->
+{{< image file="map_of_hadrementum.jpg" caption="Map: Map of Hadrementum. 1. House of Sorothus, 2. House of the arsenal and House of Vergil, 3. House of the masks, 4. House of the ostriches, 5. Balzan house, 6. House of the satyrs and of the Bacchae, 7. House at the catacomb of the Good Shepherd. (North is at the top; there is no scale.) Adapted from Amplissimae." credit="" alt="">}} -->
 
 ## Plans
 
-{{< image file="Bouse_of_Sorothus1.jpg" caption="Fig. 1: Diagram plan of the House of Sorothus" credit="(from Laporte, J.-P., Lavagne, H., 2006, fig.4, and Hannezo, G., 1896, p.819)" alt="Diagram plan of the House of Sorothus">}}
+{{< image file="Bouse_of_Sorothus1.jpg" caption="Fig. 1: Diagram plan of the House of Sorothus" credit="(from Laporte, J.-P., Lavagne, H., 2006, fig.4, and Hannezo, G., 1896, p.819)" alt="">}}
 
 <!-- ## Images -->
 

@@ -43,11 +43,11 @@ This villa at Site 11 was a simple "U" plan farmhouse initiated at the beginning
 
 ## Plans
 
-{{< image file="fig02_11plan2bc.jpg" caption="Plan at the Villa at site 11." credit="" alt="fig02_11plan2bc." >}}
+{{< image file="fig02_11plan2bc.jpg" caption="Plan at the Villa at site 11." credit="" alt="" >}}
 
 ## Images
 
-{{< image file="fig03_11axon2bc.jpg" caption="fig03_the axon of the Villa at site 11." credit="" alt="fig03_11axon2bc." >}}
+{{< image file="fig03_11axon2bc.jpg" caption="fig03_the axon of the Villa at site 11." credit="" alt="" >}}
 
 ## Dates
 

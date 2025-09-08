@@ -35,7 +35,7 @@ House Cours Pourtoules
 
 ## House Description
 
-In 1984 – 86, prior to construction of a parking garage, a large area of some 4,700 square meters was excavated south of the Cours Pourtoules. About a third of the ancient structures were reinforced and reburied; the rest was destroyed. The area encompassed  several ancient houses;  the one of interest to us is in the west insula.
+In 1984-86, prior to construction of a parking garage, a large area of some 4,700 square meters was excavated south of the Cours Pourtoules. About a third of the ancient structures were reinforced and reburied; the rest was destroyed. The area encompassed  several ancient houses;  the one of interest to us is in the west insula.
 
 ## Keywords
 
@@ -60,11 +60,11 @@ Among the objects found at Cours Pourtoules was a terracotta *oscillum* represen
 
 {{< image file="cours_pourtoules_general_map.png" caption="General map of Cours Pourtoules" credit="" alt="" >}}
 
-{{< image file="cours_pourtoules_general_map_phase1.png" caption="Phase 1 of Course Pourtoules" credit="" alt="Phase 1 of Cours Pourtoules" >}}
+{{< image file="cours_pourtoules_general_map_phase1.png" caption="Phase 1 of Course Pourtoules" credit="" alt="" >}}
 
-{{< image file="cours_pourtoules_general_map_phase2.png" caption="Phase 2 of Course Pourtoules" credit="" alt="Phase 2 of Cours Pourtoules" >}}
+{{< image file="cours_pourtoules_general_map_phase2.png" caption="Phase 2 of Course Pourtoules" credit="" alt="" >}}
 
-{{< image file="cours_pourtoules_general_map_phase3.png" caption="Phase 3 of Course Pourtoules" credit="" alt="Phase 3 of Cours Pourtoules" >}}
+{{< image file="cours_pourtoules_general_map_phase3.png" caption="Phase 3 of Course Pourtoules" credit="" alt="" >}}
 
 {{< image file="cours_pourtoules_axonometric_reconstruction.png" caption="Cours Pourtoules, axonometric reconstruction" credit="by P. Vallauri. from Gallia 87-88, fig. 133 p. 322." alt="" >}}
 

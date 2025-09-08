@@ -37,11 +37,11 @@ Some years later, Shim'on ben Menahem transferred ownership of the property to h
 
 ## Maps
 
-{{< image file="1_arabia_petraea_map.jpg" caption="Fig. 1: Map showing the approximate location of Babatha's orchard in Maoza in Arabia Petraea. Map by L.-A. Bedal, based on <a href=\"https://commons.wikimedia.org/w/index.php?curid=26047529\">Andrein, with the assistance of EraNavigator</a>" credit="" alt="Map of Petra location" >}}
+{{< image file="1_arabia_petraea_map.jpg" caption="Fig. 1: Map showing the approximate location of Babatha's orchard in Maoza in Arabia Petraea. Map by L.-A. Bedal, based on <a href=\"https://commons.wikimedia.org/w/index.php?curid=26047529\">Andrein, with the assistance of EraNavigator</a>" credit="" alt="" >}}
 
 ## Plans
 
-{{< image file="2_babatha_orchard_plan.jpg" caption="Fig. 2: A proposed plan of the date-palm orchard described in Babatha's Archive. Plan by L.-A. Bedal (based on Esler 2017:Fig. 7.2)" credit="" alt="Proposed plan of Babatha's orchard" >}}
+{{< image file="2_babatha_orchard_plan.jpg" caption="Fig. 2: A proposed plan of the date-palm orchard described in Babatha's Archive. Plan by L.-A. Bedal (based on Esler 2017:Fig. 7.2)" credit="" alt="" >}}
 
 ## Images
 

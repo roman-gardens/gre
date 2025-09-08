@@ -44,11 +44,11 @@ The grove of trees at the temple of Zeus is known through Pausanias' description
 
 ## Plans
 
-{{< image file="eur_ach_nemea_fig1.jpg" caption="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings." credit="Adapted from Miller 1978, fig. 2." alt="plan of the sanctuary with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings." >}}
+{{< image file="eur_ach_nemea_fig1.jpg" caption="Fig. 1: Plan of the Sanctuary of Zeus at Nemea with rock-cut pits for trees (grey circles) between the temple and other sanctuary buildings." credit="Adapted from Miller 1978, fig. 2." alt="" >}}
 
 ## Images
 
-{{< image file="eur_ach_nemea_fig2.jpg" caption="Fig. 2: Balloon photo showing the Temple of Zeus at Nemea with its replanted grove." credit="" alt="balloon photo looking down at the Temple of Zeus and grove" >}}
+{{< image file="eur_ach_nemea_fig2.jpg" caption="Fig. 2: Balloon photo showing the Temple of Zeus at Nemea with its replanted grove." credit="" alt="" >}}
 
 ## Dates
 

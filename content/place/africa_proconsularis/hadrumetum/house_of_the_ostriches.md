@@ -16,7 +16,7 @@ draft: true
 - [Hadrumetum (Sousse)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="324716" name="Hadrumetum" >}}
 
-{{< image file="hadrumetum_city_plan.jpg" caption="Fig. 1: Plan of Hadrumetum" credit="(Ghaddhab, R., 2016, P.182)" alt="Plan of Hadrumetum">}}
+{{< image file="hadrumetum_city_plan.jpg" caption="Fig. 1: Plan of Hadrumetum" credit="(Ghaddhab, R., 2016, P.182)" alt="">}}
 
 ## Location Description
 
@@ -42,7 +42,7 @@ In this incomplete house, the peristyle-garden was bounded by a low wall that cu
 
 Fig. 1: Plan of the House of the Ostriches <!-- (VER is sending image) -->
 
-<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)">}} -->
+<!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="">}} -->
 
 <!-- ## Images -->
 

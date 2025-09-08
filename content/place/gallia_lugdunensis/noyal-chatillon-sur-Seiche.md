@@ -50,7 +50,7 @@ It was possible to excavate only the eastern half and (on the south side of Rue 
 
 The villa showed a certain level of refinement in decor. The *fountain,* lined with marble with decorative moulding, was formed by two masonry squares, one within the other. A central pedestal probably supported a water jet and possibly a statue. A few fragments of marble statuary were found, including the abdomen and buttocks of what may have been a cupid; but precise original locations could not be determined. Though there is no evidence of mosaics, wall painting with imitations of marble and porphyry was employed, as were some high-quality building materials such as slate and schist. Numerous fragments of bronze plumbing were found, along with collars for attaching metal pipes to wooden tubes and sections of pipe to carry away the waste water.
 
-At the end of the third century, the *pars urbana* was abandonned, then partially re-occupied around 320 – 330 in the age of Constantine. Final total abandonment came at the end of the fourth century.
+At the end of the third century, the *pars urbana* was abandonned, then partially re-occupied around 320-330 in the age of Constantine. Final total abandonment came at the end of the fourth century.
 
 Was there a garden? Within the *courtyard,* there is no direct evidence of planting, but neither is there evidence of a hard surface that would preclude a garden, except that between the north gallery and the *fountain* there seems to have been a passage way. Outside the courtyard, northeast of the supposed house of the *villicus,* there were parallel *trenches* interpreted by the excavator as a garden zone (F on the Phase 4 plan).
 

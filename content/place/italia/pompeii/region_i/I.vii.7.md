@@ -57,17 +57,17 @@ One step above the level of the [triclinium](http://vocab.getty.edu/page/aat/300
 <!--
 ## Plans
 
-{{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
+{{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="" >}}
 
-{{< image file="../Region_I_insula_vii.jpg" caption="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach" credit="" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." >}}
+{{< image file="../Region_I_insula_vii.jpg" caption="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach" credit="" alt="" >}}
 
 ## Images
 
-{{< image file="Fig_38_I.vii.7_13.18.59.jpg" caption="Fig. 3: I.vii. 13.18.59, S.A. Jashemski" credit="" alt="Fig. 3: I.vii. 13.18.59, S.A. Jashemski." >}}
+{{< image file="Fig_38_I.vii.7_13.18.59.jpg" caption="Fig. 3: I.vii. 13.18.59, S.A. Jashemski" credit="" alt="" >}}
 
-{{< image file="Fig_39_I.vii.7_22.12.68.jpg" caption="Fig. 4: I.vii. 22.12.68, S.A. Jashemski" credit="" alt="Fig. 4: I.vii. 22.12.68, S.A. Jashemski." >}}
+{{< image file="Fig_39_I.vii.7_22.12.68.jpg" caption="Fig. 4: I.vii. 22.12.68, S.A. Jashemski" credit="" alt="" >}}
 
-{{< image file="Fig_40_I.vii.7_22.22.68.jpg" caption="Fig. 5: I.vii. 22.22.68, S.A. Jashemski" credit="" alt="Fig. 5: I.vii. 22.22.68, S.A. Jashemski." >}}
+{{< image file="Fig_40_I.vii.7_22.22.68.jpg" caption="Fig. 5: I.vii. 22.22.68, S.A. Jashemski" credit="" alt="" >}}
 -->
 
 ## Dates

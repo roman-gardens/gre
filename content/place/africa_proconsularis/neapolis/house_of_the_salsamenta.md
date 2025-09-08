@@ -43,21 +43,21 @@ During the second half of the IVth century, with the abandonment of the industri
 
 ## Plans
 
-{{< image file="Salsamenta_house_Nabeul_phase_11.jpg" caption="Fig. 1: Plan of the House of the Salsamenta Phase 1." credit="(\"L'usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998\", *Africa* XVII, 1999, pp. 159-161, fig. 6)" alt="Plan of the House of the Salsamenta at Neapolis Phase 1">}}
+{{< image file="Salsamenta_house_Nabeul_phase_11.jpg" caption="Fig. 1: Plan of the House of the Salsamenta Phase 1." credit="(\"L'usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998\", *Africa* XVII, 1999, pp. 159-161, fig. 6)" alt="">}}
 
-{{< image file="Salsamenta_house_phase_21.jpg" caption="Fig. 2: Plan of the House of the Salsamenta Phase 2." credit="(\"L'usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998\", *Africa* XVII, 1999, pp. 159-161, fig. 7)" alt="Plan of the House of the Salsamenta at Neapolis Phase 2">}}
+{{< image file="Salsamenta_house_phase_21.jpg" caption="Fig. 2: Plan of the House of the Salsamenta Phase 2." credit="(\"L'usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998\", *Africa* XVII, 1999, pp. 159-161, fig. 7)" alt="">}}
 
 ## Images
 
 <!--
-{{< image file="afr_nea_hs_amalek_fig2.jpg" caption="Fig. 3: Rendering of the House of the Salsamenta." credit="" alt="Rendering of the House of the Salsamenta at Neapolis">}}
+{{< image file="afr_nea_hs_amalek_fig2.jpg" caption="Fig. 3: Rendering of the House of the Salsamenta." credit="" alt="">}}
 -->
 
-{{< image file="afr_nea_hs_amalek_fig3.jpg" caption="Fig. 3: Photos of the House of the Salsamenta site." credit="" alt="Photos of the House of the Salsamenta site at Neapolis">}}
+{{< image file="afr_nea_hs_amalek_fig3.jpg" caption="Fig. 3: Photos of the House of the Salsamenta site." credit="" alt="">}}
 
-{{< image file="afr_nea_hs_amalek_fig4.jpg" caption="Fig. 4: Photos of the House of the Salsamenta site." credit="" alt="Photos of the House of the Salsamenta site at Neapolis">}}
+{{< image file="afr_nea_hs_amalek_fig4.jpg" caption="Fig. 4: Photos of the House of the Salsamenta site." credit="" alt="">}}
 
-{{< image file="afr_nea_hs_amalek_fig5.jpg" caption="Fig. 5: Photos of the House of the Salsamenta site." credit="" alt="Photos of the House of the Salsamenta site at Neapolis">}}
+{{< image file="afr_nea_hs_amalek_fig5.jpg" caption="Fig. 5: Photos of the House of the Salsamenta site." credit="" alt="">}}
 
 ## Dates
 

@@ -43,7 +43,7 @@ House of the Two Pools (Maison aux Deux Bassins)
 
 - {{< keyword "domus" >}}
 - {{< keyword "peristyle houses" >}}
-- {{< keyword "fountain" >}}
+- {{< keyword "fountains" >}}
 - {{< keyword "Neptune" >}}
 - {{< keyword "Ulysses" >}}
 - {{< keyword "Mermaids" >}}
@@ -56,7 +56,7 @@ There is very little information about this house, only two semi circular pools 
 
 ## Images
 
-{{< image file="house_of_the_two_pools.jpg" caption="Fig. 1: One is fountain pool of the Ulysses and the Mermaids, the other is fountain of the Neptune" credit="(Ferdi, S., 2005, Djilali K.)" alt="One is fountain pool of the Ulysses and the Mermaids, the other is fountain of the Neptune" >}}
+{{< image file="house_of_the_two_pools.jpg" caption="Fig. 1: One is fountain pool of the Ulysses and the Mermaids, the other is fountain of the Neptune" credit="(Ferdi, S., 2005, Djilali K.)" alt="" >}}
 
 ## Dates
 

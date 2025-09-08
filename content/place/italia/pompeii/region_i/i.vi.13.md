@@ -49,19 +49,19 @@ At the rear of this house a masonry wall surrounded the small garden which was u
 
 <!-- ## Plans
 
-{{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
+{{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="" >}}
 
-{{< image file="../region-i-insula-vi.png" caption="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027" credit="" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." >}}
+{{< image file="../region-i-insula-vi.png" caption="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027" credit="" alt="" >}}
 
 ## Images
 
-{{< image file="Fig_20_I.vi.13_5.6.59.jpg" caption="Fig. 3: I.vi. 5.6.59, S.A. Jashemski" credit="" alt="Fig. 3: I.vi. 5.6.59, S.A. Jashemski." >}}
+{{< image file="Fig_20_I.vi.13_5.6.59.jpg" caption="Fig. 3: I.vi. 5.6.59, S.A. Jashemski" credit="" alt="" >}}
 
-{{< image file="Fig_21_I.vi.13_5.7.59.jpg" caption="Fig. 4: I.vi. 5.7.59, S.A. Jashemski" credit="" alt="Fig. 4: I.vi. 5.7.59, S.A. Jashemski." >}}
+{{< image file="Fig_21_I.vi.13_5.7.59.jpg" caption="Fig. 4: I.vi. 5.7.59, S.A. Jashemski" credit="" alt="" >}}
 
-{{< image file="Fig_22_I.vi.13_34.29.64.jpg" caption="Fig. 5: I.vi. 34.29.64, S.A. Jashemski" credit="" alt="Fig. 5: I.vi. 34.29.64, S.A. Jashemski." >}}
+{{< image file="Fig_22_I.vi.13_34.29.64.jpg" caption="Fig. 5: I.vi. 34.29.64, S.A. Jashemski" credit="" alt="" >}}
 
-{{< image file="Fig_23_I.vi.13_34.6.64.jpg" caption="Fig. 6: I.vi. 35.6.64, S.A.Jashemski" credit="" alt="Fig. 6: I.vi. 35.6.64, S.A.Jashemski." >}}
+{{< image file="Fig_23_I.vi.13_34.6.64.jpg" caption="Fig. 6: I.vi. 35.6.64, S.A.Jashemski" credit="" alt="" >}}
 
 ## Images -->
 

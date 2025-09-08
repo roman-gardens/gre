@@ -16,7 +16,7 @@ draft: true
 - [Hadrumetum (Sousse)]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="324716" name="Hadrumetum" >}}
 
-{{< image file="hadrumetum_city_plan.jpg" caption="Fig. 1: Plan of Hadrumetum" credit="(Ghaddhab, R., 2016, P.182)" alt="Plan of Hadrumetum">}}
+{{< image file="hadrumetum_city_plan.jpg" caption="Fig. 1: Plan of Hadrumetum" credit="(Ghaddhab, R., 2016, P.182)" alt="">}}
 
 ## Location Description
 
@@ -42,7 +42,7 @@ The *triclinium*, an oecus cyzicenus, opened on the W towards the peristyle was 
 
 ## Plans
 
-{{< image file="House_of_the_Masks_Sousse1.jpg" caption="Fig. 1: Plan of the House of the Masks" credit="(Foucher, L., 1965)" alt="Plan of the House of the Masks at hadrumetum">}}
+{{< image file="House_of_the_Masks_Sousse1.jpg" caption="Fig. 1: Plan of the House of the Masks" credit="(Foucher, L., 1965)" alt="">}}
 
 <!-- ## Images -->
 
