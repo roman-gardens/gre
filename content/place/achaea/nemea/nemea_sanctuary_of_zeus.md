@@ -7,34 +7,13 @@ latlon: [ 37.809521, 22.710403 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-15
 draft: false
 ---
 
-## Province Description
+## Dates
 
-Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
-The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woolen textiles and marbles.
-
-## Location
-
-- [Nemea]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="570504" name="Nemea" >}}
-
-## Garden
-
-Sanctuary of Zeus
-
-## Keywords
-
-- {{< keyword "literary gardens" >}}
-<!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "Pausanias" >}}
-- {{< keyword "archaeobotany" >}}
-- {{< keyword "cypress" >}}
-- [cypresses (Cupressaceae)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126767-1)
-- {{< keyword "pits" >}}
-- {{< keyword "sacred groves" >}}
+Trees were still standing in the 2nd century A.D. when Pausanias visited Nemea.
 
 ## Garden Description
 
@@ -50,16 +29,22 @@ The grove of trees at the temple of Zeus is known through Pausanias' description
 
 {{< image file="eur_ach_nemea_fig2.jpg" caption="Fig. 2: Balloon photo showing the Temple of Zeus at Nemea with its replanted grove." credit="" alt="" >}}
 
-## Dates
-
-Trees were still standing in the 2nd century A.D. when Pausanias visited Nemea.
-
 ## Bibliography
 
 * S. G. Miller, "Excavations at Nemea 1976," Hesperia 46,1977: 9-11; S. G. Miller, "Excavations at Nemea 1977," *Hesperia* 47, 1978: 65. [(worldcat)](https://search.worldcat.org/title/5548962573).
 * D. E. Birge, L. H. Kraynak and S. G. Miller, Excavations at Nemea. *Topographical and Architectural Studies. The Sacred Square, the Xenon and the Bath.* Berkeley, 1992, pp. 85-96, figs. 1, 98-103. [(worldcat)](https://search.worldcat.org/title/929297744).
 * M. Carroll-Spillecke, "The gardens of Greece from Homeric to Roman times," *Journal of Garden History* 12, 1992: 86. [(worldcat)](https://search.worldcat.org/title/4898050192).
 * M. Carroll, "The sacred places of the immortal ones: ancient Greek and Roman sacred groves," in J. Woudstra and C. Roth (eds.), *A History of Groves*. London: Routledge, 2018: 14. [(worldcat)](https://search.worldcat.org/title/1012849097).
+
+## Keywords
+
+- {{< keyword "literary gardens" >}}
+- {{< keyword "Pausanias" >}}
+- {{< keyword "archaeobotany" >}}
+- {{< keyword "cypress" >}}
+- [cypresses (Cupressaceae)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126767-1)
+- {{< keyword "pits" >}}
+- {{< keyword "sacred groves" >}}
 
 ## Places
 

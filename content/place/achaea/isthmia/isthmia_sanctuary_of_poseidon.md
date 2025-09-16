@@ -7,26 +7,13 @@ latlon: [ 37.915797, 22.992968 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-15
 draft: false
 ---
 
-## Location
+## Dates
 
-- [Isthmia]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="570316" name="Isthmia" >}}
-
-## Garden
-
-Sanctuary of Poseidon
-
-## Keywords
-
-- {{< keyword "literary gardens" >}}
-- [Pausanias](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1054)
-- [pines (*Pinus* sp.)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:328247-2)
-- {{< keyword "sacred groves" >}}
-- [Strabo](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1333)
+unspecified
 
 ## Garden Description
 
@@ -38,13 +25,18 @@ We know of a grove of trees in the precinct of the temple of Poseidon, thanks to
 
 <!-- ## Images -->
 
-## Dates
-
-unspecified
-
 <!-- ## Bibliography -->
+
+## Keywords
+
+- {{< keyword "literary gardens" >}}
+- [Pausanias](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1054)
+- [pines (*Pinus* sp.)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:328247-2)
+- {{< keyword "sacred groves" >}}
+- [Strabo](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1333)
 
 ## Places
 
+- {{< id vocab="Pleiades" id="570316" name="Isthmia" >}}
 - {{< id vocab="Pleiades" id="107524051" name="Temple of Poseidon at Isthmia" >}}
 - {{< id vocab="TGN" id="5004291" name="Kirás Vrísi (inhabited place)" >}}

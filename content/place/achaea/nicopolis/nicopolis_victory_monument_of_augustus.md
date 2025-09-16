@@ -7,29 +7,13 @@ latlon: [ 39.027735, 20.735583 ]
 author: "?"
 contributor: Jane Millar, Amartya Shri
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-15
 draft: false
 ---
 
-## Location
+## Dates
 
-[Nicopolis]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="531013" name="Nicopolis" >}}
-
-## Garden
-
-Victory Monument of Augustus
-
-## Keywords
-
-- {{< keyword "literary gardens" >}}
-<!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "altars" >}}
-- {{< keyword "friezes" >}}
-- {{< keyword "orchards" >}}
-- {{< keyword "pedestals" >}}
-- {{< keyword "Strabo" >}}
-- {{< keyword "trophies" >}}
+last quarter of the 1st century BCE and later
 
 ## Garden Description
 
@@ -53,10 +37,6 @@ The pots were placed along the outer stylobates of the porticos at a distance of
 
 {{< image file="eur_ach_nicopolis_fig2_pots.jpg" caption="Fig. 2: Clay planting pots." credit="Photo courtesy of K. L. Zachos." alt="clay planting pots" >}}
 
-## Dates
-
-last quarter of the 1st century BCE and later
-
 ## Bibliography
 
 * W. M. Murray and Ph. M. Petsas, "Octavian's campsite memorial for the Actian War," *Trans. Am. Phil Soc.* 79, 1989: 4. [(worldcat)](https://search.worldcat.org/title/892239073).
@@ -67,6 +47,16 @@ last quarter of the 1st century BCE and later
 * K. L. Zachos, "Excavations at the Actian *tropaeum* at Nicopolis. A preliminary report," in J. Isager, ed., *Foundation and destruction. Nicopolis and northwestern Greece.* Monograph 3, Danish Institute. Athens, 2001: 29-41. [(worldcat)](https://search.worldcat.org/title/491885471)
 * K. L. Zachos, "The *tropaeum* of the sea-battle of Actium at Nicopolis: interim report," JRA 16, 2003: 65-92. [(worldcat)](https://search.worldcat.org/title/5884366383)
 * M. Carroll, "The sacred places of the immortal ones: ancient Greek and Roman sacred groves," in J. Woudstra and C. Roth (eds.), *A History of Groves.* London: Routledge, 2018: 28. [(worldcat)](https://search.worldcat.org/title/1012849097).
+
+## Keywords
+
+- {{< keyword "literary gardens" >}}
+- {{< keyword "altars" >}}
+- {{< keyword "friezes" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "pedestals" >}}
+- {{< keyword "Strabo" >}}
+- {{< keyword "trophies" >}}
 
 ## Places
 

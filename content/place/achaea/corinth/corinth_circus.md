@@ -7,25 +7,13 @@ latlon: [ 37.900814, 22.895986 ]
 author: David Gilman Romano
 contributor: Jane Millar, Amartya Shri
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-15
 draft: false
 ---
 
-## Location
+## Dates
 
-- [Corinth]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="570182" name="Corinth" >}}
-
-## Garden
-
-The Circus of Roman Corinth
-
-## Keywords
-
-<!-- - {{< keyword "archaeological gardens" >}} -->
-- {{< keyword "amphorae" >}}
-- {{< keyword "circuses" >}}
-- {{< keyword "mosaics" >}}
+unspecified
 
 ## Garden Description
 
@@ -50,15 +38,16 @@ The so-called "hippodrome garden" type (see the Domus Flavia on the Palatine Hil
 
 {{< image file="amphora-in-planting-pit.jpg" caption="Fig. 3: Fragmentary amphora found in pit 2 in the spina of the Roman circus." credit="Photograph courtesy of James Wiseman." alt="" >}}
 
-## Dates
-
-<!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
-
 ## Bibliography
 
-BIBLIOGRAPHY:
 * J. H. Humphrey, *Roman Circuses: Arenas for Chariot Racing.* Berkeley, 1986. [(worldcat)](https://search.worldcat.org/title/299732316)
 * D. G. Romano, "A Roman Circus in Corinth," *Hesperia* 74, 2005: 585-611. [(worldcat)](https://search.worldcat.org/title/359326258).
+
+## Keywords
+
+- {{< keyword "amphorae" >}}
+- {{< keyword "circuses" >}}
+- {{< keyword "mosaics" >}}
 
 ## Places
 
