@@ -22,7 +22,6 @@ Rural Villa in Winkel-Seeb
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "corridors" >}}
 - {{< keyword "pergolas" >}}
 - {{< keyword "porticoes" >}}

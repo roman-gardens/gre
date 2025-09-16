@@ -29,7 +29,6 @@ Rural Villa in Chedworth
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "balnea" >}}
 - {{< keyword "bone" >}}
 - {{< keyword "drains" >}}

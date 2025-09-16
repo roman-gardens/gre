@@ -39,7 +39,6 @@ I.ii.15
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "impluvia" >}}
 
 ## Garden Description

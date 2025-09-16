@@ -34,7 +34,6 @@ House of the Indian Statuette (I.viii.5)
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "chests" >}}
 - {{< keyword "columns" >}}
 - {{< keyword "gutters" >}}

@@ -27,7 +27,6 @@ Urban House or Schola in Aquincum
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "balnea" >}}
 - {{< keyword "fountains" >}}
 - {{< keyword "peristyles" >}}

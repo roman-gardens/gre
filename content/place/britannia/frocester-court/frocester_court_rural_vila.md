@@ -22,7 +22,6 @@ Rural Villa in Frocester Court
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "ditches" >}}
 - {{< keyword "fences" >}}
 - {{< keyword "kitchen gardens" >}}

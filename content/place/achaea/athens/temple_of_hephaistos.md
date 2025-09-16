@@ -35,7 +35,6 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "pits" >}}
 - {{< keyword "flowerpots" >}}
 - [myrtle (*Myrtus communis*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:599719-1)

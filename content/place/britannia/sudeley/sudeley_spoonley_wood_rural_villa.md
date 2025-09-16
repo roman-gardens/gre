@@ -22,7 +22,6 @@ Rural Villa in Sudeley/Spoonley Wood
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "axial plan" >}}
 - {{< keyword "terrace gardens" >}}
 - {{< keyword "villae rusticae" >}}

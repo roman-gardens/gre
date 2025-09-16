@@ -22,7 +22,6 @@ Rural Villa in Darenth
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "kitchen gardens" >}}
 - {{< keyword "piscinae" >}}
 - {{< keyword "villae rusticae" >}}

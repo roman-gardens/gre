@@ -34,7 +34,6 @@ House of the Beautiful Impluvium; Casa del Bell Impluvio (I.ix.1)
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "atriums" >}}
 - {{< keyword "cubicula" >}}
 - {{< keyword "fountains" >}}

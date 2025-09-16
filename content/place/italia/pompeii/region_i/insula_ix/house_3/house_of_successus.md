@@ -34,7 +34,6 @@ House of Successus (I.ix.3)
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "atriums" >}}
 - {{< keyword "cubicula" >}}
 - {{< keyword "graffiti" >}}

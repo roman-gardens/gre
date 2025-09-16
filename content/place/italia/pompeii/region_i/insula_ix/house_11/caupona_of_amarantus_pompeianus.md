@@ -35,7 +35,6 @@ I.ix.11
 ## Keywords
 
 - {{< keyword "amphorae" >}}
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "lapilli" >}}
 - {{< keyword "lararia" >}}
 - {{< keyword "peristyles" >}}

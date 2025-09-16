@@ -25,7 +25,6 @@ Palatial House in Insula 7 in Aventicum
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "axial plan" >}}
 - {{< keyword "balnea" >}}
 - {{< keyword "drains" >}}

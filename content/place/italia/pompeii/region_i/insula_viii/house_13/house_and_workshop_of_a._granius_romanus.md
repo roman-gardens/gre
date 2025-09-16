@@ -34,7 +34,6 @@ House and Workshop of A. Granius Romanus (I.viii.13)
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "graffiti" >}}
 - {{< keyword "inscriptions" >}}
 - {{< keyword "lararia" >}}

@@ -26,7 +26,6 @@ Villa of the Statue
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "cisterns" >}}
 - {{< keyword "gutters" >}}
 - {{< keyword "mural paintings" >}}
@@ -45,7 +44,6 @@ Villa of the Statue
 - {{< keyword "opus signinum" >}}
 - {{< keyword "garden pavilions" >}}
 - {{< keyword "apsed triclinium" >}}
-<!-- - {{< keyword "archaeological gardens" >}} -->
 
 ## Garden Description
 

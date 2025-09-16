@@ -37,7 +37,6 @@ It is possible that a garden might have been present in one of the inner courtya
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "gymnasiums" >}}
 - {{< keyword "peristyles" >}}
 

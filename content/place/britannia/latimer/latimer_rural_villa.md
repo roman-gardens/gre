@@ -22,7 +22,6 @@ Rural Villa in Latimer
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "fences" >}}
 - {{< keyword "flower gardens" >}}
 - {{< keyword "orchards" >}}

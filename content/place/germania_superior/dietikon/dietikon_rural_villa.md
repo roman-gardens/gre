@@ -22,7 +22,6 @@ Rural Villa in Dietikon
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "axial plan" >}}
 - {{< keyword "corridors" >}}
 - {{< keyword "pergolas" >}}

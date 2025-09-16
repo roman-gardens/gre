@@ -25,7 +25,6 @@ House in Insula 13 in Aventicum
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "balnea" >}}
 - {{< keyword "corridors" >}}
 - {{< keyword "fountains" >}}

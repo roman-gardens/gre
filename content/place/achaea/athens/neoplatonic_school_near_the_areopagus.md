@@ -33,7 +33,6 @@ One of these buildings, the so-called "House C" or "Omega House", had two perist
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "basins" >}}
 - {{< keyword "nymphaea" >}}
 - {{< keyword "peristyles" >}}

@@ -34,7 +34,6 @@ House of Ceres; Casa di Cerere (I.ix.13-14)
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "basins" >}}
 - {{< keyword "colonnades" >}}
 - {{< keyword "fountains" >}}

@@ -36,7 +36,6 @@ Another only partially excavated house of the mid-4th century A.D., built into t
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "basins" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "pipes" >}}

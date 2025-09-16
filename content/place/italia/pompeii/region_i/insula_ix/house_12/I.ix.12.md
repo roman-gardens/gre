@@ -34,7 +34,6 @@ I.ix.12
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "columns" >}}
 - {{< keyword "lararia" >}}
 - {{< keyword "peristyles" >}}

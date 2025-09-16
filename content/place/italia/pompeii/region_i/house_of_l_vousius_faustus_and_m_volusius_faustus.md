@@ -35,7 +35,6 @@ House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)
 ## Keywords
 
 - {{< keyword "aedicules" >}}
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "biclinia" >}}
 - {{< keyword "drains" >}}
 - {{< keyword "lararia" >}}

@@ -38,7 +38,6 @@
 - new meta page section showing UNLINKED keywords (literary gardens, etc.)
 - keywords -- use glossary from GRE v.1
 - keywords like lucus, nemus (recode as keyword "groves"?), oscilla, stagnum, textrina that are not proper AAT terms
-- "literary gardens" keyword okay, but do we really need "archaeological gardens"? (currently commented out in the relatively few articles that have it, but nearly all the gardens are arch.)
 - Search for any keywords mentioned in text that are not listed under the garden keywords
 - public list of keywords as glossary (similiar to /meta page)
 

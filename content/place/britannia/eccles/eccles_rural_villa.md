@@ -22,7 +22,6 @@ Rural Villa in Eccles
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "ditches" >}}
 - {{< keyword "drains" >}}
 - {{< keyword "horticultural containers" >}}

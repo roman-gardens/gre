@@ -21,7 +21,6 @@ Rural Villa in Bancroft
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "balnea" >}}
 - {{< keyword "drains" >}}
 - {{< keyword "gazebos" >}}

@@ -26,7 +26,6 @@ Villa of the Bath
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "cisterns" >}}
 - {{< keyword "gutters" >}}
 - {{< keyword "villae urbanae" >}}

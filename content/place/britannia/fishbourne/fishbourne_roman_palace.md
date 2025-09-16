@@ -22,7 +22,6 @@ Roman Palace in Fishbourne
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "basins" >}}
 - {{< keyword "colonnades" >}}
 - {{< keyword "loam" >}}

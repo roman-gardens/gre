@@ -22,7 +22,6 @@ Rural Villa in Winden Am See
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "corridors" >}}
 - {{< keyword "vestibules" >}}
 - {{< keyword "villae rusticae" >}}

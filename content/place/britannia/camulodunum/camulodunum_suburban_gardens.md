@@ -25,7 +25,6 @@ Suburban Gardens in Camulodunum
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "ditches" >}}
 - {{< keyword "villae suburbanae" >}}
 

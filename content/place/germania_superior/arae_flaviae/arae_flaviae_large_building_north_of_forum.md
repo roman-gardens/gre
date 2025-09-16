@@ -25,7 +25,6 @@ Large Building north of Forum in Arae Flaviae
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "colonnades" >}}
 - {{< keyword "corridors" >}}
 - {{< keyword "peristyles" >}}

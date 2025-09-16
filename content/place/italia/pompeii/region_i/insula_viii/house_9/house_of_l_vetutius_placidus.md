@@ -34,7 +34,6 @@ House of L. Vetutius Placidus and Ascula (at the rear of Themopolium no. 8) (I.v
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "columns" >}}
 - {{< keyword "engaged columns" >}}
 - {{< keyword "headboards" >}} <!-- fulcrum -->

@@ -38,7 +38,6 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "literary gardens" >}}
 - {{< keyword "elms" >}}
 - {{< keyword "gymnasiums" >}}

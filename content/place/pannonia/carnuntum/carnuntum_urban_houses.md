@@ -21,7 +21,6 @@ Urban Houses in Carnuntum
 ## Keywords
 
 - {{< keyword "arcades" >}}
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "corridors" >}}
 - {{< keyword "kitchen gardens" >}}
 - {{< keyword "vestibules" >}}

@@ -22,7 +22,6 @@ Rural Villa in Friedberg Pfingstweide
 
 ## Keywords
 
-<!-- - {{< keyword "archaeological gardens" >}} -->
 - {{< keyword "balnea" >}}
 - {{< keyword "villae rusticae" >}}
 
