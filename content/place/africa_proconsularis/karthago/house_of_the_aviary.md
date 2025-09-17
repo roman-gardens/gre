@@ -7,36 +7,13 @@ latlon: [ 36.857906, 10.331369 ]
 author: Amina-Aïcha Malek
 contributor: Xue Xia
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-16
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Karthago]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="314921" name="Karthago" >}}
-
-## Location Description
-
-Founded by Tyrians from Phoenicia, Carthage became the capital of a powerful empire that came into conflict with the expanding power of Rome. In 146 BC Carthage was completely destroyed and re-founded as a Roman colony by Augustus who completed Cesar's initial project. Augustus expanded the new city and encouraged settlements of veterans and civilians. The kingdom of Numidia was transformed into a province and Carthage was raised to the rank of capital. The city not only became the major port through which the wealth of the province flowed to Rome but also became a cultural capital that introduced the African elite to the rest of the empire, making it one of the wealthiest and most cosmopolitan cities in the Mediterranean world.
-Of the Roman period, the city plan is clearly recognizable. The plan takes as its central axis the summit of the acropolis of Byrsa that divided the city into four quarters of equal size except for the one situated to the northwest. The most remarkable monuments found in Carthage are the Baths of Antonius situated on the seashore at the foot of the hill of Borj Jedid and the villas that stretched along the Odeon's hill. From the Christian era, several basilicas were found. The necropolis that surrounded the city has also provided important information on the city.
-
-## Garden
-
-House of the Aviary (Maison de la Volière)
-
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "trees" >}}
-- {{< keyword "tree cavities" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "cascades" >}}
-- {{< keyword "oeci" >}}
-- {{< keyword "scaenae frontes" >}}
-- {{< keyword "pools" >}}
+end of 2nd-4th century CE
 
 ## Garden Description
 
@@ -55,21 +32,23 @@ In the eastern part of the house, a low wall with six semi-circular niches that 
 
 {{< image file="Drawing_detail_ House_of_the_Aviary.jpg" caption="Fig. 2: Reconstruction drawing of corner of the peristyle garden of the House of the Aviary." credit="(Malek,A.-A., 2018, fig. 12.9B)" alt="" >}}
 
-## Dates
-
-the end of 2nd-4th century CE
-
 ## Bibliography
 
-* Ben Osman, W., "Etude des pavements de la Villa de la Volière", p. 147, in *Mosaïque, Recueil d'hommage à Henri Stern*, Paris, 1983. [(worldcat)](https://search.worldcat.org/title/10727878)
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 125-128. [(worldcat)](https://search.worldcat.org/title/989088620)
-* Ennabli, A., "La Maison de la Volière à Carthage: L'Architecture", p. 132, in *Mosaïque, Recueil d'hommage à Henri Stern*, Paris, 1983. [(worldcat)](https://search.worldcat.org/title/10727878)
-* Malek, A.-A., "De l'espace pictural à l'espace du jardin : mosaïques et jardins dans les domus de l'Afrique romaine", in *Archéologie des jardins :analyse des espaces et méthodes d'approches*, eds. P. Van Ossel, A.-M. Guimier-Sorbets, Archéologie et histore romaine 26, Editions Monique Mergoil, 2014, p. 17.
-* Malek, A.-A., "Mosaic and nature : "Cultural allusions to Nature in the Roman Domus", in *Gardens of the Roman Empire*, Volume II, eds., W. F. Jashemski, K. Gleason, A-A Malek, K. Hartswick, Cambridge University Press., NY, 2018, pp. 329-301, fig. 12.9B, 12.10. [(worldcat)](https://search.worldcat.org/title/1021392532)
+- Ben Osman, W., "Etude des pavements de la Villa de la Volière", p. 147, in *Mosaïque, Recueil d'hommage à Henri Stern*, Paris, 1983. [(worldcat)](https://search.worldcat.org/title/10727878)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 125-128. [(worldcat)](https://search.worldcat.org/title/989088620)
+- Ennabli, A., "La Maison de la Volière à Carthage: L'Architecture", p. 132, in *Mosaïque, Recueil d'hommage à Henri Stern*, Paris, 1983. [(worldcat)](https://search.worldcat.org/title/10727878)
+- Malek, A.-A., "De l'espace pictural à l'espace du jardin : mosaïques et jardins dans les domus de l'Afrique romaine", in *Archéologie des jardins :analyse des espaces et méthodes d'approches*, eds. P. Van Ossel, A.-M. Guimier-Sorbets, Archéologie et histore romaine 26, Editions Monique Mergoil, 2014, p. 17.
+- Malek, A.-A., "Mosaic and nature : "Cultural allusions to Nature in the Roman Domus", in *Gardens of the Roman Empire*, Volume II, eds., W. F. Jashemski, K. Gleason, A-A Malek, K. Hartswick, Cambridge University Press., NY, 2018, pp. 329-301, fig. 12.9B, 12.10. [(worldcat)](https://search.worldcat.org/title/1021392532)
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="314921" name="Carthago" >}}
-- {{< id vocab="TGN" id="7016143" name="Carthage (deserted settlement)" >}}
-
-
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "trees" >}}
+- {{< keyword "tree cavities" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "cascades" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "scaenae frontes" >}}
+- {{< keyword "pools" >}}

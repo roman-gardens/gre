@@ -4,35 +4,20 @@ aliases: [/id/6b9b695b66]
 type: garden
 title: House of the Ostriches (Maison des Autruches)
 latlon: [ 35.825866, 10.63878 ]
-author: Maureen Carroll, Amina-Aïcha Malek
-contributor: Yuming Huang
+author: Amina-Aïcha Malek
+contributor: Maureen Carroll, Yuming Huang
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-16
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Hadrumetum (Sousse)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="324716" name="Hadrumetum" >}}
-
-{{< image file="hadrumetum_city_plan.jpg" caption="Fig. 1: Plan of Hadrumetum" credit="(Ghaddhab, R., 2016, P.182)" alt="">}}
-
-## Location Description
-
-Hadrumetum is located on the bay of Hammamet at the edge of the fertile region of Sahel from which it drew its wealth.  Choosing the side of Rome against Carthage during the Punic war, Hadrumetum was rewarded with the status of free town. Taking the side of Pompey, the city was heavily fined by Caesar after his victory at Thapsus. Nevertheless, the opulence of its houses adorned with luxurious mosaics testifies that the city experienced great economic development after its elevation to the status of colony, under Trajan.
-## Garden
-
-House of the Ostriches (Maison des Autruches)
-
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "niches" >}}
-<!-- {{< keyword "villae urbanae" >}} -->
+2nd century CE
 
 ## Garden Description
+
+<!-- Maison des Autruches -->
 
 In this incomplete house, the peristyle-garden was bounded by a low wall that curved to make six semi-circular niches facing the galleries of the peristyle (Plan view, Fig. 1). The two niches located on the East-West axis of the *triclinium* are wider with the one facing the *triclinium* containing a basin with a marine mosaic. The house is dated to the II c.
 
@@ -40,15 +25,11 @@ In this incomplete house, the peristyle-garden was bounded by a low wall that cu
 
 ## Plans
 
-Fig. 1: Plan of the House of the Ostriches <!-- (VER is sending image) -->
+<!-- Fig. 1: Plan of the House of the Ostriches (VER is sending image) -->
 
 <!-- {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="">}} -->
 
 <!-- ## Images -->
-
-## Dates
-
-The house is dated to the II c.
 
 ## Bibliography
 
@@ -56,7 +37,9 @@ The house is dated to the II c.
 - Foucher, L., "Venationes à Hadrumete", in *OMRL*, XLV, pp. 87-114. [(worldcat)](https://search.worldcat.org/title/68004816)
 - Ghaddhab, R., "Y avait-il un port à Hadrumetum dans l'antiquité tardive?", in *Revue des etudes anciennes*, 2016, Bordeaux, France: Feret & Fils, pp. 175-199. https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="324716" name="Hadrumetum/Iustinianopolis" >}}
-- {{< id vocab="TGN" id="7015312" name="Sousse (inhabited place)" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "niches" >}}
+<!-- {{< keyword "villae urbanae" >}} -->

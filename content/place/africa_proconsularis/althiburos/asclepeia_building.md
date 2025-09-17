@@ -7,38 +7,17 @@ latlon: [ 35.875740, 8.786768 ]
 author: Amina-Aïcha Malek
 contributor: Yuming Huang
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-16
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Althiburos (Médeïna)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="324664" name="Althiburos" >}}
-
-## Location Description
-
-This town is located on the road between Carthage and Theveste near the border of Proconsularis and Byzacena 35 km west of Mactar. Under the Roman Empire it remained an indigenous civitas until it was raised to the status of a municipium by Hadrian: municipium aelium hadrianum augustum althiburitanum and later was granted the ius Italicum.
-
-The trade of agricultural products and craftsmanship made Althiburos a prosperous city, particularly, the fabrication and the commerce of aromatics. The development of the city reached its peak under the Antonian and Severian dynasties. It is difficult to follow the history of Althiburos during the third century when the province of Africa underwent the severe crisis of 238. The city was abandoned just before the Arab conquest.  Excavations have brought to light the forum, the capitol, the Hadrianic triumphal arch and two temples. At the east corner of the forum, near one of the temples, was a complex of houses and a building with a rotonda to the south of which stood a monumental fountain. Outside the excavated center are other monuments, among them the theater and a triumphal arch.
-## Garden
-
-Asclepieia Building (Edifice des Asclepieia)
-
-## Keywords
-
-<!-- {{< keyword "villae urbanae" >}} -->
-- {{< keyword "domus" >}}
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "oeci" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "semicircular basin" >}}
-- {{< keyword "pools" >}}
-- {{< keyword "water jets" >}}
-- {{< keyword "balustrades" >}}
-- {{< keyword "euripus" >}}
+unspecified
 
 ## Garden Description
+
+<!-- TODO: different spellings and also "Edifice des Asclepieia" -->
 
 The Asklepeia monument, so-called from a mosaic inscription, is located to the northeast of the House of the Muses. (Plan view, Fig. 1)
 
@@ -61,23 +40,22 @@ During the third stage dated to the beginning of the second half of the fourth c
 
 <!-- ## Images -->
 
-## Dates
-
-NOT FOUND
-
 ## Bibliography
 
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp. 21-26. [(worldcat)](https://search.worldcat.org/title/989088620)
 - Ennaifer, M., *La cité d'Althiburos et l'édifice des Asclepeia*, Ministère des Affaires Culturelles, Tunis, 1976, pp. 71-152, plan III-IV. [(worldcat)](https://search.worldcat.org/title/963483765)
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="324664" name="Althiburos" >}}
-- {{< id vocab="TGN" id="5003658" name="Althiburus (deserted settlement)" >}}
+- {{< keyword "villae urbanae" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "semicircular basin" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "water jets" >}}
+- {{< keyword "balustrades" >}}
+- {{< keyword "euripus" >}}
 
-<!--
-## Related articles
-
-[House of the Fishing Scene (Maison de la scène de pêche)]({{<relref "house_of_the_fishing_scene.md">}})
-[House of the Muses (Maison des Muses)]({{<relref "house_of_the_muses.md">}})
--->
+<!-- ## Places -->

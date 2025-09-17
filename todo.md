@@ -21,6 +21,7 @@
 - link to reuse/take-down policy in image captions
 - set permissions on image repo to prevent deletion, modification?
 - images: remove alt unless it provides additional info
+- handle links in captions/credits
 
 # Cleanup
 

@@ -4,10 +4,10 @@ aliases: [/id/9c2aeaab58]
 type: garden
 title: House of the Masks (Maison des Masques)
 latlon: [ 35.825866, 10.63878 ]
-author: Maureen Carroll, Amina-Aïcha Malek
-contributor: Yuming Huang
+author: Amina-Aïcha Malek
+contributor: Maureen Carroll, Yuming Huang
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-16
 draft: true
 ---
 

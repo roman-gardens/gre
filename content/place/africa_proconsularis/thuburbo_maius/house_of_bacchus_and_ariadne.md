@@ -7,39 +7,13 @@ latlon: [ 36.400355, 9.903990 ]
 author: Wilhelmina Jashemski
 contributor: Nicholas Gill
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-16
 draft: false
 ---
 
-## Location
+## Dates
 
-- [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
-
-
-{{< image file="thuburbo_house_of_bacchus_and_ariadne.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="" >}}
-
-## Location Description
-
-The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to a *municipium* by Hadrian (117-138), and to a colony during the rein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.
-
-## Garden
-
-House of Bacchus and Ariadne (Maison de Bacchus et Ariane)
-
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "basins" >}}
-- {{< keyword "root cavities" >}}
-- {{< keyword "pipes" >}}
-- {{< keyword "pools" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "pits" >}}
-- {{< keyword "furniture" >}}
+5th century CE
 
 ## Garden Description
 
@@ -75,24 +49,29 @@ We next consider the identity of the many smaller roots.  Since this garden was 
 
 {{< image file="House_of_Bacchus_and_Ariadne_Drawing.jpg" caption="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne." credit="(Victoria I, Jashemski, W. F., 1995, fig. 11)" alt="" >}}
 
-## Dates
-
-5th century CE
-
 ## Bibliography
 
-* Alexander, M. A., Ben Abed-Ben Khader, A. and David, S., *Corpus des Mosaïques de Tunisie*, *Thuburbo  Majus, Les  mosaïques  de  la  région  Est*, V.  II, fasc.4, INA, Tunis, 1994, pp.39-66, Pl. XXIV. [(worldcat)](https://search.worldcat.org/title/71513636)
-* Ben, Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](https://search.worldcat.org/title/20058336)
-*  Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.214-217. [(worldcat)](https://search.worldcat.org/title/989088620)
-* Jashemski, W. F., "Roman Gardens in Tunisia: Preliminary Excavations in the House of Bacchus and Ariadne and in the East Temple at Thuburbo Maius," *AJA* 99 (1995), pp. 559-576. [(worldcat)](https://search.worldcat.org/title/7376761548)
-* Jashemski, W. F., "Ancient Roman gardens in Campania and Tunisia: a comparison of the
-evidence," *Journal of Garden History*, 16/4,1996, pp. 231-243.[(worldcat)](https://search.worldcat.org/title/195025022)
-* Jashemski, W. F., "The Courtyard Garden in the House of Bacchus and Ariadne
-at Thuburbo Maius, Zaghouan, Tunisia" in *Sourcebook for Garden Archaeology, Mthods, Techniques, Interpretations and Field examples*, ed., A-A Malek, Berne, Suisse, Peter Lang, 2013, coll. Parcs et Jardins (Peter Lang/Fondations des parcs et jardins de France), pp. 595-601.[(worldcat)](https://search.worldcat.org/title/863671257)
-* Lantier, R., "Un bassin a mosaiques de Thurburbo Majus", *BAC* 1944, pp. 280-82 [(Bibliothèque nationale de France)](https://gallica.bnf.fr/ark:/12148/bpt6k62947017/f290.item#)
-* Malek, A.-A., "Le jardin au fil de l'eau : mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l'époque romaine*, Brouquier-Reddé, V., Hurlet, F. (dir.), Bordeaux, Ausonius, 2018, pp. 235-254. [(worldcat)](https://search.worldcat.org/title/1078217356)
+- Alexander, M. A., Ben Abed-Ben Khader, A. and David, S., *Corpus des Mosaïques de Tunisie*, *Thuburbo  Majus, Les  mosaïques  de  la  région  Est*, V.  II, fasc.4, INA, Tunis, 1994, pp.39-66, Pl. XXIV. [(worldcat)](https://search.worldcat.org/title/71513636)
+- Ben, Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](https://search.worldcat.org/title/20058336)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.214-217. [(worldcat)](https://search.worldcat.org/title/989088620)
+- Jashemski, W. F., "Roman Gardens in Tunisia: Preliminary Excavations in the House of Bacchus and Ariadne and in the East Temple at Thuburbo Maius," *AJA* 99 (1995), pp. 559-576. [(worldcat)](https://search.worldcat.org/title/7376761548)
+- Jashemski, W. F., "Ancient Roman gardens in Campania and Tunisia: a comparison of the
+-vidence," *Journal of Garden History*, 16/4,1996, pp. 231-243.[(worldcat)](https://search.worldcat.org/title/195025022)
+- Jashemski, W. F., "The Courtyard Garden in the House of Bacchus and Ariadne
+-t Thuburbo Maius, Zaghouan, Tunisia" in *Sourcebook for Garden Archaeology, Mthods, Techniques, Interpretations and Field examples*, ed., A-A Malek, Berne, Suisse, Peter Lang, 2013, coll. Parcs et Jardins (Peter Lang/Fondations des parcs et jardins de France), pp. 595-601.[(worldcat)](https://search.worldcat.org/title/863671257)
+- Lantier, R., "Un bassin a mosaiques de Thurburbo Majus", *BAC* 1944, pp. 280-82 [(Bibliothèque nationale de France)](https://gallica.bnf.fr/ark:/12148/bpt6k62947017/f290.item#)
+- Malek, A.-A., "Le jardin au fil de l'eau : mises en scène paysagères dans les domus de Maghreb antique", in *L'eau dans les villes du Maghreb et leur territoire à l'époque romaine*, Brouquier-Reddé, V., Hurlet, F. (dir.), Bordeaux, Ausonius, 2018, pp. 235-254. [(worldcat)](https://search.worldcat.org/title/1078217356)
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="315220" name="Thuburbo Maius" >}}
-- {{< id vocab="TGN" id="7001750" name="Kasba, Henchir el (deserted settlement)" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "basins" >}}
+- {{< keyword "root cavities" >}}
+- {{< keyword "pipes" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "pits" >}}
+- {{< keyword "furniture" >}}

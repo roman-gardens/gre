@@ -3,7 +3,7 @@
 
 {{- if gt (len $path) 3 -}}
 {{/* List them */}}
-<h2>Places containing this {{ .Type }}</h2>
+<h3>Explore the places containing this {{ .Type }}:</h3>
 <ul class='superlocations'>
 {{- range $i, $v := (collections.Reverse $path) -}}
     {{- if gt $i 0 -}}

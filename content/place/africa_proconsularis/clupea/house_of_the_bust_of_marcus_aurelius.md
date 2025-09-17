@@ -7,34 +7,17 @@ latlon: [ 36.838512, 11.115794 ]
 author: Amina-Aïcha Malek, Véronique Blanc-Bijon, Wilhelmina Jashemski
 contributor: Yuming Huang
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-16
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Aspis/Clupea (Kelibia)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="314892" name="Aspis/Clupea" >}}
-
-## Location Description
-
-The city was built along the slope of the hill several kilometers northwest of the present town. Excavations revealed the Capitol and an important residential district descending in successive levels towards the bank.
-## Garden
-
-House of the Bust of Marcus Aurelius (Maison du Buste de Marc Aurèle)
-
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "aedicules" >}}
-- {{< keyword "semicircular basin" >}}
-- {{< keyword "Marcus Aurelius" >}}
-- {{< keyword "sculpture" >}}
-
-<!-- {{< keyword "villae urbanae" >}} -->
+2nd-3rd century CE
 
 ## Garden Description
+
+<!-- Maison du Buste de Marc Aurèle -->
 
 This *domus* (ca. 1000 m²) has a large central garden of irregular shape (250 m²) enclosed by a peristyle (20.20 x 21.40 m, 432.30 m²) (Plan view, Fig. 1).  The northwest wing seems the most important area of the house.  It had a large corridor XVII that opened onto a portico XVIII with a view toward the garden.  In the garden, along the axis of the main reception room II, a semi-circular *aedicula* XXIV was installed on a cistern XXVI where fragments of *Marcus Aurelius* bust were found that was probably installed on a stuccoed statue base XXV.  On the south side of the garden on the edge of the gallery XXI was a semi-circular pool XXVIII.
 
@@ -52,24 +35,18 @@ Built over an older establishment, the house presents two main phases.  The main
 
 <!-- ## Images -->
 
-## Dates
-
-2nd-3rd century CE
-
 ## Bibliography
 
 - Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 84. [(worldcat)](https://search.worldcat.org/title/989088620)
 - Ennabli, A., "Rapport préliminaire de la fouille de la villa romaine de Kelibia", in *Africa*, 3 (1969-70), pp. 239-41.
 - Lassère, J.-M., Slim, H., *Maisons de Clupea. Les maisons de l'Ecole de pêche*, Paris, 2010, pp. 67-148. [(worldcat)](https://search.worldcat.org/title/701795957)
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="314892" name="Aspis/Clipea" >}}
-- {{< id vocab="TGN" id="7001037" name="Kelibia (inhabited place)" >}}
-
-<!--
-## Related articles
-
-[House of the small Peristyle (Maison du petit péristyle)]({{<relref "house_of_the_small_peristyle.md">}})
-[House of the Two Hunts (Maison aux deux chasses)]({{<relref "house_of_the_two_hunts.md">}})
--->
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "aedicules" >}}
+- {{< keyword "semicircular basin" >}}
+- {{< keyword "Marcus Aurelius" >}}
+- {{< keyword "sculpture" >}}
+<!-- {{< keyword "villae urbanae" >}} -->

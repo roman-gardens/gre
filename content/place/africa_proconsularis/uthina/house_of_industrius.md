@@ -7,21 +7,33 @@ latlon: [ 36.607458, 10.172291 ]
 author: Amina-Aïcha Malek
 contributor: Jinyi Yang
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-16
 draft: true
 ---
 
-## Location
+## Dates
 
-- [UTHINA (Oudna)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="315247" name="UTHINA (Oudna) Tunisia" >}}
+Unspecified
 
-## Location Description
+## Garden Description
 
 Located to the Southeast of the amphitheater, this house was laid out around a peristyle garden of 10 columns that connected by a low wall. A semicircular basin extended into the garden on the NE facing the reception room.
-## Garden
 
-House of Industrius (Maison d'Industrius)
+<!-- ## Maps -->
+
+<!--
+## Plans
+{{< image file="#" caption="Fig.1: Plan of the House of industrius" credit="" alt="" >}}
+-->
+
+<!-- ## Images -->
+
+<!-- {{< image file="AFR_Uth_Ind_Malek.jpg" caption="Fig. 1: Plan of the House of Industrius." credit="Photo courtesy of Amina-Aïcha Malek." alt="" >}} -->
+
+## Bibliography
+
+- Ben Hassen, H., Maurin, L., *Oudna (Uthina) La découverte d'une ville antique de Tunisie*, Paris, 1998.[(worldcat)](https://search.worldcat.org/title/492084212)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.330-332.  [(worldcat)](https://search.worldcat.org/title/989088620)
 
 ## Keywords
 
@@ -30,34 +42,3 @@ House of Industrius (Maison d'Industrius)
 - {{< keyword "colonnades" >}}
 - {{< keyword "vestibules" >}}
 - {{< keyword "cisterns" >}}
-
-## Garden Description
-
-Located to the Southeast of the amphitheater, this house was laid out around a peristyle garden of 10 columns that connected by a low wall. A semicircular basin extended into the garden on the NE facing the reception room.
-
-
-<!-- ## Maps -->
-
-## Plans
-
-{{< image file="#" caption="Fig.1: Plan of the House of industrius" credit="" alt="" >}}
-
-
-<!-- ## Images -->
-
-<!-- {{< image file="AFR_Uth_Ind_Malek.jpg" caption="Fig. 1: Plan of the House of Industrius." credit="Photo courtesy of Amina-Aïcha Malek." alt="" >}} -->
-
-## Dates
-
-Unspecified
-
-## Bibliography
-
-* Ben Hassen, H., Maurin, L., *Oudna (Uthina) La découverte d'une ville antique de Tunisie*, Paris, 1998.[(worldcat)](https://search.worldcat.org/title/492084212)
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.330-332.  [(worldcat)](https://search.worldcat.org/title/989088620)
-
-## Places
-
-- {{< id vocab="Pleiades" id="315247" name="Uthina" >}}
-- {{< id vocab="TGN" id="7024022" name="Oudna (deserted settlement)" >}}
-

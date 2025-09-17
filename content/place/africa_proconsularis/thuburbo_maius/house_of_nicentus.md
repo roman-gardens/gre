@@ -7,33 +7,13 @@ latlon: [ 36.40112, 9.904448 ]
 author: Wilhelmina Jashemski
 contributor: Nicholas Gill
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-16
 draft: false
 ---
 
-## Location
+## Dates
 
-- [THUBURBO MAIUS (Henchir Kasbat), Tunisia]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="315220" name="THUBURBO MAIUS (Henchir Kasbat), Tunisia" >}}
-
-
-{{< image file="thuburbo_house_of_nicentus.jpg" caption="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" credit="" alt="" >}}
-
-## Location Description
-
-The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to a *municipium* by Hadrian (117-138), and to a colony during the rein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.
-
-## Garden
-
-House of Nicentus (Maison de Nicentus)
-
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "semicircular basin" >}}
-- {{< keyword "oeci" >}}
-- {{< keyword "mosaics" >}}
+3rd-4th century CE
 
 ## Garden Description
 
@@ -47,17 +27,16 @@ It was laid out around a peristyle garden (VI-X) of 12 columns (Plan view, Fig. 
 
 {{< image file="AFR_Thub_Hn_Wjashemski1.jpg" caption="Fig. 1: Plan of the House of Nicentus ( CMT, V.  II, fasc.1, plan 10-11)" credit="" alt="" >}}
 
-## Dates
-
-3rd-4th century CE
-
 ## Bibliography
 
-*  Alexander, Margaret A., *Corpus des Mosaïques de Tunisie*, *Thuburbo  Majus*, *Les  mosaïques  de  la  région  du  Forum*, V.  II, fasc.1, INA, Tunis, 1980, pp. 39-52, plan 10-11 [(worldcat)](https://search.worldcat.org/title/23232759)
-* Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](https://search.worldcat.org/title/20058336)
-*  Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.221-223. [(worldcat)](https://search.worldcat.org/title/989088620)
+- Alexander, Margaret A., *Corpus des Mosaïques de Tunisie*, *Thuburbo  Majus*, *Les  mosaïques  de  la  région  du  Forum*, V.  II, fasc.1, INA, Tunis, 1980, pp. 39-52, plan 10-11 [(worldcat)](https://search.worldcat.org/title/23232759)
+- Ben Abed-Ben Khader, A., *Corpus des Mosaïques de Tunisie*, *Thuburbo Majus, Les mosaïques de la région Ouest*, V. II, fasc.3, INA, Tunis, 1987.[(worldcat)](https://search.worldcat.org/title/20058336)
+- Bullo, S. and F. Ghedini,. *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, pp.221-223. [(worldcat)](https://search.worldcat.org/title/989088620)
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="315220" name="Thuburbo Maius" >}}
-- {{< id vocab="TGN" id="7001750" name="Kasba, Henchir el (deserted settlement)" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "semicircular basin" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "mosaics" >}}

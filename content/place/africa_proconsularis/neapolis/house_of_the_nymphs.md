@@ -7,34 +7,13 @@ latlon: [ 36.440688, 10.719419 ]
 author: Amina-Aïcha Malek
 contributor: Xue Xia
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-16
 draft: true
 ---
 
-## Location
+## Dates
 
-- [Neapolis]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="315093" name="Neapolis" >}}
-
-## Location Description
-
-The city of Neapolis that bears a Greek name meaning the "new city," is located on the south coast of Cap Bon at 60 km from Carthage. The municipal history of the city is not well known. Scholars disagree as to the foundation date of the colony some think it became *colonia Iulia* with Cesar and others think that it was elevated to the rank of colony by Augustus.
-
-## Garden
-
-House of the Nymphs (Maison des Nymphes)
-
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "peristyle houses" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "oeci" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "amphorae" >}}
-- {{< keyword "cachepots" >}}
-- {{< keyword "inscriptions" >}}
-- {{< keyword "Virgil" >}}
+Unspecified
 
 ## Garden Description
 
@@ -56,20 +35,22 @@ The peristyle was trapezoidal in shape (8.29 x 9 x 16. 15 m) and was bordered by
 
 {{< image file="detail_of_the_basin.jpg" caption="Fig.4: Detail of the basin with the inscription Nymfarum Domus." credit="(Malek, A.-A., 2018, fig. 12.11B)" alt="">}}
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 179-182. [(worldcat)](https://search.worldcat.org/title/989088620)
-* Darmon, J.P., *Nymfarum domus, Les pavements de la maison des Nymphes à Néapolis (Nabeul, Tunisie) et leur lecture*, Leiden, 1980, p. 9, pp. 85-6 et p. 146. [(worldcat)](https://search.worldcat.org/title/797872994)
-* Malek, A.-A., "Entre jardin et mosaïque: La verticalité et le merveilleux dans la vie quotidienne", in *La Maison Gréco-romaine IX*, Collection de l'Ecole Française de Rome n°352, Rome, 2005, p. 1335-1346. [(worldcat)](https://search.worldcat.org/title/109642973)
-* Malek, A.-A., "Mosaic and nature : "Cultural allusions to Nature in the Roman Domus", in *Gardens of the Roman Empire*, Volume II, eds., W. F. Jashemski, K. Gleason, A-A Malek, K. Hartswick, Cambridge University Press., NY, 2018, pp. 333-336, fig. 12.11A. [(worldcat)](https://search.worldcat.org/title/1021392532)
+- Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p. 179-182. [(worldcat)](https://search.worldcat.org/title/989088620)
+- Darmon, J.P., *Nymfarum domus, Les pavements de la maison des Nymphes à Néapolis (Nabeul, Tunisie) et leur lecture*, Leiden, 1980, p. 9, pp. 85-6 et p. 146. [(worldcat)](https://search.worldcat.org/title/797872994)
+- Malek, A.-A., "Entre jardin et mosaïque: La verticalité et le merveilleux dans la vie quotidienne", in *La Maison Gréco-romaine IX*, Collection de l'Ecole Française de Rome n°352, Rome, 2005, p. 1335-1346. [(worldcat)](https://search.worldcat.org/title/109642973)
+- Malek, A.-A., "Mosaic and nature : "Cultural allusions to Nature in the Roman Domus", in *Gardens of the Roman Empire*, Volume II, eds., W. F. Jashemski, K. Gleason, A-A Malek, K. Hartswick, Cambridge University Press., NY, 2018, pp. 333-336, fig. 12.11A. [(worldcat)](https://search.worldcat.org/title/1021392532)
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="315093" name="Neapolis" >}}
-- {{< id vocab="TGN" id="1094981" name="Nabeul (inhabited place)" >}}
-
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "oeci" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "amphorae" >}}
+- {{< keyword "cachepots" >}}
+- {{< keyword "inscriptions" >}}
+- {{< keyword "Virgil" >}}
 
