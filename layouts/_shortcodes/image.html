@@ -8,7 +8,8 @@ Example usage (in a garden article):
 
 */}}
 {{- $file := .Get "file" -}}
-{{- $file = urls.JoinPath "https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/" .Page.Parent.Path $file -}}
+{{- $path := cond (eq .Page.File.BaseFileName "_index") .Page.Path .Page.Parent.Path -}}
+{{- $file = urls.JoinPath "https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/" $path $file -}}
 
 {{- $credit  := .Get "credit" -}}
 {{- $caption := .Get "caption" -}}
