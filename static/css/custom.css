@@ -63,8 +63,7 @@ div.container {
 }
 
 figure {
-  margin-top: 0.5em;
-  margin-bottom: 2em;
+  margin: 0.5em 2em 2em;
 }
 
 figure img {
@@ -221,6 +220,10 @@ nav.breadcrumbs a {
 
 .content ul {
   list-style-type: disc;
+}
+
+.content p {
+  margin-left: 1em;
 }
 
 .summary {
