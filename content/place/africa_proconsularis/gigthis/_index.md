@@ -5,9 +5,9 @@ type: place
 title: Gigthis
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
-contributor: Maureen Carroll, Yuming Huang
+contributor: Maureen Carroll, Yuming Huang, Keith Jenkins
 date: 2025-09-16
-modified: 2025-09-16
+modified: 2025-09-20
 draft: true
 ---
 
