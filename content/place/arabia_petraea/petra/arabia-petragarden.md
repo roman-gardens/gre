@@ -5,56 +5,15 @@ type: garden
 title: Petra Garden and Pool Complex
 latlon: [ 30.328615, 35.443000 ]
 author: Leigh-Ann Bedal
-contributor: Jane Millar, Leigh-Ann Bedal
+contributor: Jane Millar, Keith Jenkins
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-20
 draft: false
 ---
 
-## Location
+## Dates
 
-- [Petra]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="697725" name="Petra" >}}
-
-Petra, known to its ancient inhabitants as *Raqmu*, is located approximately 80 kilometers southeast of the Dead Sea in modern Jordan. The ancient city is situated on the western slopes of the Sharā Mountain Range, in a wide basin surrounded by deeply eroded mountainous ridges of sandstone, with outcrops of limestone and porphyry that form a natural fortification.
-
-The development of Petra as an important political, economic, and cultural center in the Near East during the Hellenistic-Roman periods (1st century BCE-2nd century CE) was ultimately the result of its strategic position on the crossroads of the major trade and communication routes that crossed the region (Fig. 1). Wadi Mousa, the narrow valley along which Petra developed, provided one of the few convenient and negotiable routes through the mountainous barrier allowing caravans to pass between the high desert plateau to the east and [Wādī ʻAraba](https://en.wikipedia.org/wiki/Arabah) to the west. This strategic position on the crossroads of the desert trade routes made it possible for the Nabataeans to establish control over the caravans that traveled between Arabia and the Mediterranean.
-<!--
-##
--->
-
-## Sublocation
-
-Southern Terrace
-
-The Southern Terrace is a series of monumental built terraces constructed along the Colonnaded Street on the southern slope of Wadi Musa, which bisects the city center of Petra. In the early 20th century, prior to the onset of archaeological excavations, the major components of the Southern Terrace were assigned the names (from west to east) the "Great Temple", the "Lower Market", the "Middle Market," and "Upper Market." The "Lower Market" has since been identified as a garden and pool complex and the author proposes that it is one component of a large palatial complex that occupied the entirety of the Southern Terrace and dominated the City Center (Figs. 2 and 5).
-
-## Garden
-
-Petra Garden and Pool Complex
-
-## Keywords
-
-- {{< keyword "aqueducts" >}}
-- {{< keyword "archaeobotany" >}}
-- {{< keyword "artificial islands" >}}
-- {{< keyword "artificial water channels" >}}
-- {{< keyword "castelli aquae" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "garden pavilions" >}}
-- {{< keyword "groves" >}}
-- {{< keyword "horticultural containers" >}}
-- [lead pipelines](http://www.romanaqueducts.info/picturedictionary/pd_onderwerpen/pipe.htm)
-- {{< keyword "pergolas" >}}
-- {{< keyword "reflecting pools" >}}
-- {{< keyword "reservoirs" >}}
-- {{< keyword "root" >}}
-- {{< keyword "swimming pools" >}}
-- {{< keyword "terrace gardens" >}}
-- [terracotta pipelines](http://www.romanaqueducts.info/picturedictionary/pd_onderwerpen/pipe.htm)
-- {{< keyword "water features" >}}
+End of the 1st century BCE - 2nd/3rd centuries CE (Late Hellenistic/Roman periods)
 
 ## Garden Description
 
@@ -82,23 +41,23 @@ A deep deposit of sediment above the pool floor indicates that the pool went out
 
 ## Maps
 
-{{< image file="1_arabia_petraea_map.jpg" caption="Fig. 1: Map showing the location of ancient Petra in Arabia Petraea. Map by L.-A. Bedal, based on [Andrein with the assistance of EraNavigator](https://commons.wikimedia.org/w/index.php?curid=26047529)" credit="" alt="Map of Petra location" >}}
+{{< image file="1_arabia_petraea_map.jpg" caption="Fig. 1: Map showing the location of ancient Petra in Arabia Petraea." credit="Map by L.-A. Bedal, based on <a href=\"https://commons.wikimedia.org/w/index.php?curid=26047529\">Andrein with the assistance of EraNavigator</a>" alt="" >}}
 
 ## Plans
 
-{{< image file="2_arabia_petra_city_center.jpg" caption="Fig. 2: Plan of Petra's city center showing the location of the garden and pool complex on the Southern Terrace." credit="Plan by L.-A. Bedal" alt="Plan of Petra's city center" >}}
+{{< image file="2_arabia_petra_city_center.jpg" caption="Fig. 2: Plan of Petra's city center showing the location of the garden and pool complex on the Southern Terrace." credit="Plan by L.-A. Bedal" alt="" >}}
 
-{{< image file="3_arabia_petra_garden_plan.jpg" caption="Fig. 3: Plan of the garden and pool complex, 2018. Permission of L.-A. Bedal." credit="" alt="Archaeological plan showing garden and pool complex" >}}
+{{< image file="3_arabia_petra_garden_plan.jpg" caption="Fig. 3: Plan of the garden and pool complex, 2018." credit="Permission of L.-A. Bedal." alt="" >}}
 
-{{< image file="4_arabia_petra_gpr.jpg" caption="Fig. 4: Horizontal slice of the ground-penetrating radar data showing the location of built features (yellow-orange) on the garden terrace. Permission of L.-A. Bedal." credit="" alt="plan of ground-penetrating radar results" >}}
+{{< image file="4_arabia_petra_gpr.jpg" caption="Fig. 4: Horizontal slice of the ground-penetrating radar data showing the location of built features (yellow-orange) on the garden terrace." credit="Permission of L.-A. Bedal." alt="" >}}
 
 ## Images
 
-{{< image file="5_arabia_petra_southernterrace.jpg" caption="Fig. 5: Aerial view of the structures on the Southern Terrace in Petra's City Center." credit="Photograph by L.-A. Bedal." alt="View of the Southern Terrace and its structures" >}}
+{{< image file="5_arabia_petra_southernterrace.jpg" caption="Fig. 5: Aerial view of the structures on the Southern Terrace in Petra's City Center." credit="Photograph by L.-A. Bedal." alt="" >}}
 
-{{< image file="6_arabia_petra_pathway.jpg" caption="Fig. 6: Excavations in Trench 17 where a gravel pathway with stone border and excavated root cavities were uncovered." credit="Photograph by L.-A. Bedal." alt="Overhead view of Trench 17" >}}
+{{< image file="6_arabia_petra_pathway.jpg" caption="Fig. 6: Excavations in Trench 17 where a gravel pathway with stone border and excavated root cavities were uncovered." credit="Photograph by L.-A. Bedal." alt="" >}}
 
-{{< image file="7_arabia_petra_trellis.jpg" caption="Fig. 7: Imagined reconstruction of the trellised pathway." credit="Drawing by K. Gleason." alt="Imagined reconstruction of the trellised pathway" >}}
+{{< image file="7_arabia_petra_trellis.jpg" caption="Fig. 7: Imagined reconstruction of the trellised pathway." credit="Drawing by K. Gleason." alt="" >}}
 
 {{< image file="8_arabia_petra_flowerpot.jpg" caption="Fig. 8: Fragment of a perforated planting pot with reconstruction drawing." credit="Photo and drawing by L.-A. Bedal." alt="Photo and illustrations of an unglazed ceramic pot with small round hole" >}}
 
@@ -239,10 +198,6 @@ tbody tr:last-child {
 | Unidentified seeds               |  10 |  19 |  35 |  15 |  10 |  11 |
 | TOTALS                           |  61 | 274 | 389 | 613 |  60 |  57 |
 
-## Dates
-
-End of the 1st century BCE - 2nd/3rd centuries CE (Late Hellenistic/Roman periods)
-
 ## Bibliography
 
 - Alcock, S.E., M.L. Berenfeld, I.B. Straughn, C.A. Tuttle, and (with a ceramic report by Tali Erickson-Gini). 2010. "The Brown University Petra Archaeological Project: Report on the 2009 Exploration Season in the 'Upper Market.'" *Annual of the Department of Antiquities of Jordan* 54: 153-166. (http://publication.doa.gov.jo/Publications/ViewChapterPublic/91)
@@ -267,7 +222,29 @@ End of the 1st century BCE - 2nd/3rd centuries CE (Late Hellenistic/Roman period
 
 - Ramsay, J.H., and L.-A. Bedal. 2015. "Garden Variety Seeds? Botanical Remains from the Petra Garden and Pool Complex." *Vegetation History and Archaeobotany* 24/5: 621-634. doi:10.1007/s00334-015-0520-4. (https://link.springer.com/article/10.1007/s00334-015-0520-4)
 
+## Keywords
+
+- {{< keyword "aqueducts" >}}
+- {{< keyword "archaeobotany" >}}
+- {{< keyword "artificial islands" >}}
+- {{< keyword "artificial water channels" >}}
+- {{< keyword "castelli aquae" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "garden pavilions" >}}
+- {{< keyword "groves" >}}
+- {{< keyword "horticultural containers" >}}
+- [lead pipelines](http://www.romanaqueducts.info/picturedictionary/pd_onderwerpen/pipe.htm)
+- {{< keyword "pergolas" >}}
+- {{< keyword "reflecting pools" >}}
+- {{< keyword "reservoirs" >}}
+- {{< keyword "root" >}}
+- {{< keyword "swimming pools" >}}
+- {{< keyword "terrace gardens" >}}
+- [terracotta pipelines](http://www.romanaqueducts.info/picturedictionary/pd_onderwerpen/pipe.htm)
+- {{< keyword "water features" >}}
+
 ## Places
 
 - {{< id vocab="Pleiades" id="511547525" name="Garden and Pool Complex at Petra" >}}
-- {{< id vocab="TGN" id="7002383" name="Petra (deserted settlement)" >}}

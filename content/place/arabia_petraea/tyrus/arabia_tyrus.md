@@ -7,30 +7,13 @@ latlon: [ 31.912796, 35.751922 ]
 author: Kathryn Gleason, Leigh-Ann Bedal
 contributor: Jane Millar
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-20
 draft: false
 ---
 
-## Location
+## Dates
 
-- [Tyrus]({{<relref "..">}})
-- {{< id vocab="Pleiades" id="697757" name="Tyrus" >}}
-
-The Hellenistic/Roman settlement of Tyrus was located in Wadi Seer in the highlands above the northeastern rim of the Dead Sea, about 15 km southwest of Amman, Jordan (Fig. 1). The site, which is often associated with the name of the modern village, [ʻIrāq al-Amīr](https://en.wikipedia.org/wiki/Iraq_al-Amir), boasts a partially restored palace ([Qasr al-Abd](https://pleiades.stoa.org/places/947227732), "Palace of the Servant") dated to the 2nd century BCE. In the hillsides behind the palace is a series of caves that were inhabited as early as the Chalcolithic period.
-
-## Garden
-
-Palace of Hyrcanus the Tobiad
-
-## Keywords
-
-- {{< keyword "artificial islands" >}}
-- {{< keyword "forecourts" >}}
-- {{< keyword "dovecotes" >}}
-- {{< keyword "palaces" >}}
-- {{< keyword "paradise gardens" >}}
-- {{< keyword "reflecting pools" >}}
-- {{< keyword "triclinia (rooms)" >}}
+2nd century BCE - 1st century CE (Hellenistic-Early Roman period)
 
 ## Garden Description
 
@@ -44,12 +27,10 @@ Below the dam, the land drops away dramatically in a series of agricultural terr
 
 ## Maps
 
-{{< image file="1_arabia_petraea_map.jpg" caption="Fig. 1: Map showing the location of ancient Tyrus in Arabia Petraea. Map by L.-A. Bedal, based on <a href=\"https://commons.wikimedia.org/w/index.php?curid=26047529\">Andrein, with the assistance of EraNavigator</a>" credit="" alt="Map of Petra location" >}}
+{{< image file="1_arabia_petraea_map.jpg" caption="Fig. 1: Map showing the location of ancient Tyrus in Arabia Petraea." credit="Map by L.-A. Bedal, based on <a href=\"https://commons.wikimedia.org/w/index.php?curid=26047529\">Andrein, with the assistance of EraNavigator</a>" alt="" >}}
 
-## Plans
-
-<!-- {{< image file="FILENAME" caption="" credit="" alt="" >}} -->
 <!--
+## Plans
 Waiting for plan from K. Gleason
 -->
 
@@ -60,16 +41,13 @@ Waiting for plan from K. Gleason
 Waiting for columbarium photo from K. Gleason
 -->
 
-{{< image file="2_arabia_tyrus_pavilion_facade.jpg" caption="Fig. 2: The facade of the Lion Pavilion at Tyrus, ʻIraq al-Amir." credit="Photograph by L.-A. Bedal." alt="Facade of the Lion Pavilion" >}}
+{{< image file="2_arabia_tyrus_pavilion_facade.jpg" caption="Fig. 2: The facade of the Lion Pavilion at Tyrus, ʻIraq al-Amir." credit="Photograph by L.-A. Bedal." alt="" >}}
 
-{{< image file="3_arabia_tyrus_palace.jpg" caption="Fig. 3: The Lion Pavilion at Tyrus, ʻIraq al-Amir." credit="Photograph by L.-A. Bedal." alt="The Lion Pavilion in Wadi Seer" >}}
+{{< image file="3_arabia_tyrus_palace.jpg" caption="Fig. 3: The Lion Pavilion at Tyrus, ʻIraq al-Amir." credit="Photograph by L.-A. Bedal." alt="" >}}
 
-{{< image file="4_arabia_tyrus_dam.jpg" caption="Fig. 4: View of the earthen dam constructed to create an artificial lake around Lion Pavilion. Josephus describes landscaped terrace gardens on the surrounding hillsides." credit="Photograph by L.-A. Bedal." alt="View of the dam and Lion Pavilion" >}}
+{{< image file="4_arabia_tyrus_dam.jpg" caption="Fig. 4: View of the earthen dam constructed to create an artificial lake around Lion Pavilion. Josephus describes landscaped terrace gardens on the surrounding hillsides." credit="Photograph by L.-A. Bedal." alt="" >}}
 
-{{< image file="5_arabia_tyrus_reflecting_pool.jpg" caption="Fig. 5: Model of the Lion Pavilion and reflecting pool. Permission of E. Netzer." credit="" alt="Model of pavilion and pool" >}}
-## Dates
-
-2nd century BCE - 1st century CE (Hellenistic-Early Roman period)
+{{< image file="5_arabia_tyrus_reflecting_pool.jpg" caption="Fig. 5: Model of the Lion Pavilion and reflecting pool." credit="Permission of E. Netzer." alt="" >}}
 
 ## Bibliography
 
@@ -85,7 +63,16 @@ Waiting for columbarium photo from K. Gleason
 
 - Zayadine, F. 1997. "Iraq El Amir" In *The Oxford Encyclopedia of the Archaeology of the Near East*, edited by E. Meyers, Oxford. [(worldcat)](https://search.worldcat.org/title/1080900665)
 
+## Keywords
+
+- {{< keyword "artificial islands" >}}
+- {{< keyword "forecourts" >}}
+- {{< keyword "dovecotes" >}}
+- {{< keyword "palaces" >}}
+- {{< keyword "paradise gardens" >}}
+- {{< keyword "reflecting pools" >}}
+- {{< keyword "triclinia (rooms)" >}}
+
 ## Places
 
 - {{< id vocab="Pleiades" id="947227732" name="Qasr al-Abd at Tyrus" >}}
-- {{< id vocab="TGN" id="5003214" name="Araq El-Emir (inhabited place)" >}}

@@ -15,6 +15,8 @@
 - [ ] Bibliography first item actually two? https://roman-gardens.github.io/province/italia/rome/regio_x_palatium/domus_augustana/
 - [ ] how to handle alternative names of a garden -- example https://roman-gardens.github.io/test-a/id/5c8aada6d5
 - Can we show progress in number of gardens in each place?  ("23 out of 35 known gardens have been published")
+- display metadata for place pages
+- check draft status of newly-created place pages
 
 # Images
 - some photos we want lower resolution (so copyright holder can control access to full resolution)
@@ -22,6 +24,7 @@
 - set permissions on image repo to prevent deletion, modification?
 - images: remove alt unless it provides additional info
 - handle links in captions/credits
+- remove "Credit: " from display of image credit?  (Review credit values to see if they can stand on their own?)
 
 # Cleanup
 

@@ -7,25 +7,13 @@ latlon: [ 31.024905, 35.456543 ]
 author: Leigh-Ann Bedal
 contributor: Leigh-Ann Bedal
 date: 2022-02-05
-modified: 2025-06-29
+modified: 2025-09-19
 draft: false
 ---
 
-## Location
+## Dates
 
-- [Maoza, near Zoara]({{<relref "..">}})
-- {{< id vocab="Pleiades" id="697768" name="Zoara" >}}
-
-Babatha's orchard was located in a village by the name of Maḥoz 'Eglatain (Aramaic for "harbor of 'Eglatain"). Alternative names on record are Mahoza and Maoza (Greek Μαωζα). While the exact location of the site is not known, descriptions in the ancient sources place it on the [southeastern coast of the Dead Sea, near the mouth of Wadi Hasa](https://www.pbs.org/wgbh/nova/scrolls/life-02.html) (Biblical Zered). Maoza functioned as the harbor for nearby Ẓo'ar/Zoara (Greek Ζοαρα; modern Ghor el-Safi) (Esler 2017:pp. 66-67), which was the administrative center of the Zoara district of Arabia Petraea (Fig. 1).
-
-## Garden
-
-Babatha's Orchard
-
-## Keywords
-
-- {{< keyword "orchards" >}}
-- {{< keyword "irrigation ditches" >}}
+99 BCE - 135 CE (Roman period)
 
 ## Garden Description
 
@@ -37,19 +25,13 @@ Some years later, Shim'on ben Menahem transferred ownership of the property to h
 
 ## Maps
 
-{{< image file="1_arabia_petraea_map.jpg" caption="Fig. 1: Map showing the approximate location of Babatha's orchard in Maoza in Arabia Petraea. Map by L.-A. Bedal, based on <a href=\"https://commons.wikimedia.org/w/index.php?curid=26047529\">Andrein, with the assistance of EraNavigator</a>" credit="" alt="" >}}
+{{< image file="1_arabia_petraea_map.jpg" caption="Fig. 1: Map showing the approximate location of Babatha's orchard in Maoza in Arabia Petraea." credit="Map by L.-A. Bedal, based on <a href=\"https://commons.wikimedia.org/w/index.php?curid=26047529\">Andrein, with the assistance of EraNavigator</a>" alt="" >}}
 
 ## Plans
 
-{{< image file="2_babatha_orchard_plan.jpg" caption="Fig. 2: A proposed plan of the date-palm orchard described in Babatha's Archive. Plan by L.-A. Bedal (based on Esler 2017:Fig. 7.2)" credit="" alt="" >}}
+{{< image file="2_babatha_orchard_plan.jpg" caption="Fig. 2: A proposed plan of the date-palm orchard described in Babatha's Archive." credit="Plan by L.-A. Bedal (based on Esler 2017:Fig. 7.2)" alt="" >}}
 
-## Images
-
-<!-- {{< image file="FILENAME" caption="" credit="" alt="" >}} -->
-
-## Dates
-
-99 BCE - 135 CE (Roman period)
+<!-- ## Images -->
 
 ## Bibliography
 
@@ -57,7 +39,7 @@ Some years later, Shim'on ben Menahem transferred ownership of the property to h
 
 - Lewis, N., *et al.* 1989. *The Documents from the Bar Kokhba Period in the Cave of the Letters,* Jerusalem: Israel Exploration Society. Pp. 65-68, Plate 13. [(worldcat)](https://search.worldcat.org/title/21262733)
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="697768" name="Zoara" >}}
-- {{< id vocab="TGN" id="4012542" name="eṣ-Ṣafi (deserted settlement)" >}}
+- {{< keyword "orchards" >}}
+- {{< keyword "irrigation ditches" >}}
