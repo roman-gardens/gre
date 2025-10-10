@@ -7,26 +7,13 @@ latlon: [ 38.085927, 27.744117 ]
 author: John Bodel
 contributor: Shamika Ghate
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-21
 draft: true
 ---
 
-## Location
+## Dates
 
-- {{< id vocab="Pleiades" id="550492" name="Cayster River Valley" >}}
-
-## Sublocation
-
-- {{< id vocab="Pleiades" id="599981" name="Thyaira" >}}
-
-<!--
-[AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-## Garden
-
-Tomb Garden (peribolion) of an Anonymous
+Discovered 1901 CE
 
 ## Keywords
 
@@ -37,6 +24,8 @@ Tomb Garden (peribolion) of an Anonymous
 - {{< keyword "tomb monument" >}}
 
 ## Garden Description
+
+<!-- TODO: Greek below is mangled -->
 
 A broken inscription found near Thyaira in 1901 records the second part of a funerary dedication in which the dedicant prescribes who can be buried in his monument and forbids anyone "to sell this tomb or the garden (peribÒlion) in front of it with the crematory in it oÈk §j°stai d¢ oÈden[‹] pvl∞sai toËto tÚ ≤r"on oÈd¢ tÚ prÚ aÈtoË peribÒlion §n ⁄ §stin ≤kaÊstra)". The prohibition against alienation suggests that *peribÒlion* here, like *peribÒlow* at Attaleia and Hypaipa in Lydia and often elsewhere, refers metonymically to a garden enclosed within the wall rather than simply to the wall itself. The crematory (≤kaÊstra)—a feature seldom mentioned in funerary inscriptions in Asia Minor—suggests a Roman style tomb garden, with *ustrina* and tomb monument enclosed within the same perimeter wall, as often around Rome and on the Bay of Naples.
 
@@ -50,10 +39,6 @@ A broken inscription found near Thyaira in 1901 records the second part of a fun
 
 <!-- ## Images -->
 
-## Dates
-
-1901 CE
-
 ## Bibliography
 
 - Frontrier, *REA* 4, 1902:263, no. 12 [(Persée)](www.persee.fr/doc/rea_0035-2004_1902_num_4_4_1284)
@@ -62,7 +47,6 @@ A broken inscription found near Thyaira in 1901 records the second part of a fun
 
 ## Places
 
+- {{< id vocab="Pleiades" id="550492" name="Cayster River Valley" >}}
 - {{< id vocab="Pleiades" id="599981" name="Thyaira" >}}
 - {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
-
-

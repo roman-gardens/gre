@@ -7,22 +7,13 @@ latlon: [ 37.839047, 28.806878 ]
 author: John Bodel
 contributor: Shamika Ghate
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-21
 draft: true
 ---
 
-## Location
+## Dates
 
-- {{< id vocab="Pleiades" id="638779" name="Attouda" >}}
-
-## Garden
-
-Tomb Garden of Papias son of Adrastos
-
-## Keywords
-
-- {{< keyword "marble" >}}
-- {{< keyword "epitaphs" >}}
+2nd century BC
 
 ## Garden Description
 
@@ -38,14 +29,15 @@ A marble slab found immured in a house wall at Hisarköy (Attouda) in Caria near
 
 <!-- ## Images -->
 
-## Dates
-
-2nd century BC
-
 ## Bibliography
 
 - *Monumenta Asiae Minoris Antiquae*. Manchester and London, 1928-1993, VI, 83. [(worldcat)](https://www.jstor.org/stable/4341001)
 - J. Kubin'ska, *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure*. Warsaw, 1968, p. 145. [(worldcat)](https://search.worldcat.org/title/164233326)
+
+## Keywords
+
+- {{< keyword "marble" >}}
+- {{< keyword "epitaphs" >}}
 
 ## Places
 

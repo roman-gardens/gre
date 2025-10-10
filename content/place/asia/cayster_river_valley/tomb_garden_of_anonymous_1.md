@@ -7,23 +7,13 @@ latlon: [ 38.030473, 27.441238 ]
 author: John Bodel
 contributor: Shamika Ghate
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-21
 draft: true
 ---
 
-## Location
+## Dates
 
-- {{< id vocab="Pleiades" id="550492" name="Cayster River Valley" >}}
-
-## Garden
-
-Tomb Garden(?) of an Anonymous
-
-## Keywords
-
-- {{< keyword "inscriptions" >}}
-- {{< keyword "heroa" >}}
-- {{< keyword "tombs" >}}
+Unspecified
 
 ## Garden Description
 
@@ -39,18 +29,14 @@ A highly fragmentary inscription found in the south part of the Cayster River va
 
 <!-- ## Images -->
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
 - J. Keil and A. von Premerstein, Bericht über eine dritte Reise in Lydien. Vienna, 1914, no. 112 [(worldcat)](https://search.worldcat.org/title/604130286)
 - J. Kubin'ska, *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure*. Warsaw, 1968, p. 145. [(worldcat)](https://search.worldcat.org/title/164233326)
 
-## Places
+## Keywords
 
-- {{< id vocab="Pleiades" id="550492" name="Cayster (river)" >}}
-- {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
-
+- {{< keyword "inscriptions" >}}
+- {{< keyword "heroa" >}}
+- {{< keyword "tombs" >}}
 

@@ -7,23 +7,13 @@ latlon: [ 39.071402, 27.891043 ]
 author: John Bodel
 contributor: Shamika Ghate
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-21
 draft: true
 ---
 
-## Location
+## Dates
 
-- {{< id vocab="Pleiades" id="550472" name="Attaleia" >}}
-
-## Garden
-
-Tomb (peribolos) garden of Bassos son of Euarestos
-
-## Keywords
-
-- {{< keyword "statues" >}}
-- {{< keyword "periboloi" >}}
-- {{< keyword "tombs" >}}
+Unspecified
 
 ## Garden Description
 
@@ -39,10 +29,6 @@ A statue base found in 1886 in a modern cemetery midway along the path between G
 
 <!-- ## Images -->
 
-## Dates
-
-Unspecified
-
 ## Bibliography
 
 - G. Radet and H. Lechat, "Notes de géographie ancienne," BCH 11, 1887:399-401 [(worldcat)](https://search.worldcat.org/title/4648358600)
@@ -50,6 +36,12 @@ Unspecified
 - B. Laum, *Stiftungen in der griechischen und römischen Antike*. Leipzig, 1914, II, no. 72 [(worldcat)](https://search.worldcat.org/title/457633912)
 - J. Kubin'ska, *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure*. Warsaw, 1968, p. 144 [(worldcat)](https://search.worldcat.org/title/164233326)
 - P. Herrmann, *Tituli Lydiae linguis Graeca et Latina conscripti (Tituli Asiae Minoris V, 2)*. Vienna, 1989, 828c4.[(worldcat)](https://search.worldcat.org/title/886649239)
+
+## Keywords
+
+- {{< keyword "statues" >}}
+- {{< keyword "periboloi" >}}
+- {{< keyword "tombs" >}}
 
 ## Places
 

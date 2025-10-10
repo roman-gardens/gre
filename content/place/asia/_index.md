@@ -3,10 +3,10 @@ gre_id: "3e7f969b71"
 aliases: [/id/3e7f969b71]
 type: place
 title: Asia
-author: Unspecified
+author: Kathryn Gleason, Maureen Carroll
 contributor: Keith Jenkins
 date: 2025-07-01
-modified: 2025-07-01
+modified: 2025-09-21
 draft: true
 ---
 
@@ -26,7 +26,7 @@ Thus, the *paradeisos*, the *alsos*, the gymnasium, and the quadriporticus are n
 
 Despite the importance of Asia Minor in the history of the Roman landscape, archaeological evidence is scant. The excavators contacted for this essay indicated that parks, gardens, and other planted areas have yet to become a subject of research design for the region and finds appear to be few—primarily inscriptions and wall paintings. Most of the smaller domestic courtyards—often the most manageable to investigate - are paved.   The larger palaestrae, gymnasia, and enclosed open spaces have not been investigated for landscape architectural and planting features, although recently an important campaign of work in the South Agora at Aphrodisias is setting an important precedent (see below).  This catalog includes areas with dirt and incomplete paved surfaces, and notes sites where the excavators have some level of optimism about fruitful future study. The subject of designed landscapes, gardens, and planted areas in Asia Minor awaits archaeological investigation.
 
-## Linked IDs
+## Places
 
 - {{< id vocab="Pleiades" id="981509" name="Asia (Roman Province)" >}}
 - {{< id vocab="TGN" id="7002294" name="Asia Minor (general region)" >}}
