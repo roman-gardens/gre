@@ -4,11 +4,11 @@ aliases: [/id/8661630841]
 type: garden
 title: Casa D'Argo (II.2)
 latlon: [ 40.806247, 14.346239 ]
-author: Wilhelmina Jashemski
+author: Wilhelmina Jashemski, Chiara Romano
 translator: Translator Name
-contributor: Tiffany Y. Fong, Chiara Romano
+contributor: Tiffany Y. Fong
 date: 2020-09-29
-modified: 2026-05-13
+modified: 2026-06-22
 draft: true
 ---
 
@@ -46,7 +46,10 @@ B. A second peristyle garden was located to the west of the first, but has only 
 - Breton,E. 1870. *Pompeia*. Paris: Gide et Baudry. [(worldcat)](https://search.worldcat.org/title/602759412)
 - Maiuri, A. 1989. *Herculaneum*. Roma: La libreria dello stato. [(worldcat)](https://search.worldcat.org/title/1107784297)
 - Maiuri, A. 1958. *Ercolano. I nuovi scavi (1927-1958)*. Roma: Istituto poligrafico dello Stato.  [(worldcat)](https://search.worldcat.org/it/title/859591551)
+- Marotta, C. 2018. "L’utilisation des données archivistiques dans l’enquête archéologique : nouvelles découvertes sur la casa d’Argo d’Herculanum." *Anabases* 27: 55-65 [(worldcat)](https://search.worldcat.org/it/title/10937373130?oclcNum=10937373130)
+- Jashemski, W. 1993. *The Gardens of Pompeii, Herculaneum and the Villas destroyed by Vesuvius*. New Rochelle: A.D. Caratzas Pub. [(worldcat)](https://search.worldcat.org/it/title/29043557)
 - Niccolini, F., and Bechi G. 1831. In *Real museo borbonico*. Napoli: Stamperia reale [(worldcat)](https://search.worldcat.org/title/277993202)
+- Pesando, F. and Guidobaldi, M. P. 2006. *Pompei, Oplontis, Ercolano, Stabiae*. Bari: GLF Laterza [(worldcat)](https://search.worldcat.org/it/title/1045104432?oclcNum=1045104432)
 - Ruggiero, M. 1885. *Storia degli scavi di Ercolano*. Napoli: Tipografia dell'Accademia Reale delle Scienze [(worldcat)](https://search.worldcat.org/title/18405521)
 
 ## Keywords
