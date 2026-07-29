@@ -49,6 +49,7 @@ The present appearance of the peristyle is the result of restorations carried ou
 - J.R. Mélida, "El teatro romano de Mérida," *R.A.B.M.*, 32, (1915): 1-38 [(worldcat)](https://search.worldcat.org/title/252779984)
 - P. Mateos Cruz and J. Marquez Pérez, 'Neuvas structuras urbanas relacionadas con el Teatro Romano de Mérida: El pórtico de acceso,' *Mérida, excavaciones arqueológicas, 1997*, pp.301-20 [(worldcat)](https://search.worldcat.org/title/48947141)
 - W. Trillmich, *Die Prásenz des Kaiserhauses im Theater der Colonia Augusta Emerita* , (unpublished disertation), University of München (1995)
+- I. C. Moreno, “Los jardines de Mérida,” Mérida, excavaciones arqueológicas Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/1024940280); [(Pdf)](https://biblioteca.consorciomerida.org/pdf/372313_Casillas%20I.%20%27Jardines%27.%20Memoria%201996%20n%C2%BA%202.pdf)
 
 ## Keywords
 

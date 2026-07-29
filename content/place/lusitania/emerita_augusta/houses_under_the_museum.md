@@ -35,6 +35,7 @@ The remains of another colonnaded court (in the southeast corner of the crypt) c
 
 - J. Barrera Antón (De), "El trabajo estucado en «Augusta Emerita»: los grandes frisos de la casa romana del solar del Museo", in *Extremadura Arqueológica, (Homenaje a la Dra Dª Milagro Gil Mascarell Boscá)*, 5(1995): 221-223. [(worldcat)](https://search.worldcat.org/title/34430232)
 - J. Hernández Ramírez, *La pintura mural romana de Mérida. (Inserta en la estructura urbana y doméstica de la ciudad)*, UNED (unpublished doctoral disertation), 1993, pp. 1380-1506.
+- I. C. Moreno, “Los jardines de Mérida,” Mérida, excavaciones arqueológicas Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/1024940280); [(Pdf)](https://biblioteca.consorciomerida.org/pdf/372313_Casillas%20I.%20%27Jardines%27.%20Memoria%201996%20n%C2%BA%202.pdf)
 
 ## Keywords
 

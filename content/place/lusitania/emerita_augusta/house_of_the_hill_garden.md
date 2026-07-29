@@ -26,11 +26,13 @@ Very little is known about the characteristics of this intramurally situated dom
 ## Bibliography
 
 - A. Blanco Freijeiro, *Corpus de mosaicos romanos de España*, 1(1978):  48-49. [(worldcat)](https://search.worldcat.org/title/801845218)
+- I. C. Moreno, “Los jardines de Mérida,” Mérida, excavaciones arqueológicas Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/1024940280); [(Pdf)](https://biblioteca.consorciomerida.org/pdf/372313_Casillas%20I.%20%27Jardines%27.%20Memoria%201996%20n%C2%BA%202.pdf)
 
 ## Keywords
 
 - {{< keyword "peristyles" >}}
 - {{< keyword "mosaics" >}}
+- {{< keyword "mural paintings" >}}
 
 ## Places
 

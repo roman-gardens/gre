@@ -32,6 +32,7 @@ Of the sculptural pieces found outside the temple, some have been situated in th
 ## Bibliography
 
 - J. Mª.  Álvarez Martinez, J. L. de la Barrera Antón and A. Velázquez Jiménez, *Mérida* (Turismo Everest), León, 1995, p. 54. [(worldcat)](https://search.worldcat.org/title/433607571)
+- I. C. Moreno, “Los jardines de Mérida,” Mérida, excavaciones arqueológicas Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/1024940280); [(Pdf)](https://biblioteca.consorciomerida.org/pdf/372313_Casillas%20I.%20%27Jardines%27.%20Memoria%201996%20n%C2%BA%202.pdf)
 
 ## Keywords
 

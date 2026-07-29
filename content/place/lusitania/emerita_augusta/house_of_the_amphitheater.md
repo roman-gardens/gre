@@ -33,7 +33,7 @@ An equally important second nucleus of this house consisted of a complex of room
 
 ## Plans
 
-{{< image file="his_lus_col_augusta_ha_fig1.jpg" caption="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left.  Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century." credit="Adapted from the tourist guide issued by the Mérida Consorzio." alt="" >}}
+{{< image file="his_lus_col_augusta_ha_fig1.jpg" caption="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left).  Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century." credit="Adapted from the tourist guide issued by the Mérida Consorzio." alt="" >}}
 
 {{< image file="his_lus_col_augusta_ha_plan_fig3_alternate.jpg" caption="Fig. 2: Plan of the House of the Amphitheater." credit="Adapted from Casillas Moreno, where it was taken from De Alvarado Barrena." alt="" >}}
 
@@ -46,6 +46,7 @@ An equally important second nucleus of this house consisted of a complex of room
 - A. Balil Illana, A. 1976: "Sobre la arquitectura doméstica en Augusta Emerita", *Augusta Emerita Actas del Bimilenario de Mérida, Mérida*, 75-91. [(worldcat)](https://search.worldcat.org/title/256553527)
 - E. García Sandoval, Excavaciones arqueológicas en la zona de Mérida: La Casa del Anfiteatro," in *C.A.N.*, 8 (i964): 469-477 [(worldcat)](https://search.worldcat.org/title/43198027)
 - E. García Sandoval, Informe sobre las casa romanas de Mérida y excavaciones en la «Casa del Anfiteatro»," in *Excavaciones Arqueológicas en España*  nº. 49, Madrid, 1964. [(worldcat)](https://search.worldcat.org/title/681090209)
+- I. C. Moreno, “Los jardines de Mérida,” Mérida, excavaciones arqueológicas Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/1024940280); [(Pdf)](https://biblioteca.consorciomerida.org/pdf/372313_Casillas%20I.%20%27Jardines%27.%20Memoria%201996%20n%C2%BA%202.pdf)
 
 ## Keywords
 

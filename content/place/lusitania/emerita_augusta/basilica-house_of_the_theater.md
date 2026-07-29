@@ -30,6 +30,7 @@ This late-imperial domus was discovered by J. Ramón Mélida while excavating th
 ## Bibliography
 
 - R. Durán Cabello, 'La técnica constructiva de la llamada 'Casa Basílica' de Mérida', in *La casa urbana hispanorromana : ponencias y comunicaciones.*, 1991, pp. 359-69. [(worldcat)](https://search.worldcat.org/title/434540010)
+- I. C. Moreno, “Los jardines de Mérida,” Mérida, excavaciones arqueológicas Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/1024940280); [(Pdf)](https://biblioteca.consorciomerida.org/pdf/372313_Casillas%20I.%20%27Jardines%27.%20Memoria%201996%20n%C2%BA%202.pdf)
 
 ## Keywords
 
