@@ -25,14 +25,16 @@ This small house had a roofed passageway supported by one column that bordered t
 
 {{< image file="fig.5._region_viii._insula_iii.png" caption="Plan of Region VIII Insula III" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "masonry" >}}
-- {{< keyword "aedicules" >}}
-
 ## Bibliography
 
 - Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 76, no. 356 and pl. 3.5 [(worldcat)](https://search.worldcat.org/title/1131425884)
 - Fiorelli, *Descrizione di Pompei*, p. 328 [(worldcat)](https://search.worldcat.org/title/252039996)
 - Jashemski, *Gardens*, vol. II, p. 211 [(worldcat)](https://search.worldcat.org/title/1113367431)
 - Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol.2, "Descr. gen," p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
+
+## Keywords
+
+- {{< keyword "masonry" >}}
+- {{< keyword "aedicules" >}}
+
+## Places

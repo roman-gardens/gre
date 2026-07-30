@@ -25,12 +25,6 @@ At the time of the eruption this peristyle garden (a) was in the process of reno
 
 {{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "tablina" >}}
-- {{< keyword "puteals" >}}
-
 ## Bibliography
 
 - Jacono, Osservazioni su i viridarii pompeiani, p. 12 [(worldcat)](https://search.worldcat.org/title/1131425884)
@@ -38,3 +32,11 @@ At the time of the eruption this peristyle garden (a) was in the process of reno
 - Mairui, *Notizie degli scavi di Antichita* (1944-1945), p. 150 and fig. 6 (plan) on p. 144 [(worldcat)](https://search.worldcat.org/title/638883283)
 - Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), p.172 [(worldcat)](https://search.worldcat.org/title/823239162)
 - Sogliano, *Notizie degli scavi di Antichita* (1881), pp. 320-321 [(worldcat)](https://search.worldcat.org/title/638883283)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "puteals" >}}
+
+## Places

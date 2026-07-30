@@ -26,10 +26,6 @@ There was a narrow portico on the eastern lower level of this double house 2.20 
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_30.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 29-39" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-
 ## Bibliography
 
 - Jashemski, *Gardens*, vol. II, pp. 208-209 [(worldcat)](https://search.worldcat.org/title/1113367431)
@@ -37,3 +33,9 @@ There was a narrow portico on the eastern lower level of this double house 2.20 
 - Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, "Nuovi scavi," p. 20 [(worldcat)](https://search.worldcat.org/title/906755593)
 - Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, fig. 27 (plan) on pp. 55-70 passim and fig. 17 on p. 62, fig. 18 on p. 65 (plan), pls. 9, 10 (plan and section) and pls. 22, 23 (reconstructions) [(worldcat)](https://search.worldcat.org/title/486835478)
 - Sogliano, *Notizie degli scavi di Antichita* (1883), p. 347 [(worldcat)](https://search.worldcat.org/title/46875519)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+
+## Places

@@ -25,11 +25,6 @@ A public garden laid out to the specifications of Vitruvius originally occupied 
 
 {{< image file="fig.28.region_viii.insula_vii.24-27.png" caption="Fig. 28, Plan of Region VIII, Insula VII, 24-27" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "puteals" >}}
-
 ## Bibliography
 
 - Fiorelli, *Descrizione di Pompei*, pp. 350-351 [(worldcat)](https://search.worldcat.org/title/1198324804)
@@ -37,3 +32,10 @@ A public garden laid out to the specifications of Vitruvius originally occupied 
 - Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](https://search.worldcat.org/title/1113367431)
 - Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees 1809-1810-1811*,vol. 3, pl. 2 (plan) [(worldcat)](https://search.worldcat.org/title/457565631)
 - Fiorelli, ed. *Pompeianarum Antiquitatum Historia*, vol. 1, pt. 1, p. 202 (Feb. 7, 1767) [(worldcat)](https://search.worldcat.org/title/952709056)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "puteals" >}}
+
+## Places

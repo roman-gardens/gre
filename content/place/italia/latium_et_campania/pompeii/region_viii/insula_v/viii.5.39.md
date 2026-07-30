@@ -26,13 +26,6 @@ B. The northwest corner of this small house contained a second garden (b) just o
 
 {{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "tablina" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "porticoes" >}}
-
 ## Bibliography
 
 - Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 78, no. 372 [(worldcat)](https://search.worldcat.org/title/1131425884)
@@ -43,3 +36,12 @@ B. The northwest corner of this small house contained a second garden (b) just o
 - Mau, *Pompeii:Its Life and Art*, 2nd ed. Trans. by Kelsey, pp. 341-343, plan on p. 341 [(worldcat)](https://search.worldcat.org/title/1197366621)
 - Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 280-281, 324, 359-360 [(worldcat)](https://search.worldcat.org/title/638883283)
 - Soprano, *I triclini all'aperto di Pompei* In Pompeiana, p. 301, no. 16. [(worldcat)](https://search.worldcat.org/title/78719058)
+
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "porticoes" >}}
+
+## Places

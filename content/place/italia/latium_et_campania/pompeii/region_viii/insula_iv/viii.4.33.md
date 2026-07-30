@@ -29,10 +29,6 @@ This garden (a) was tucked around the right end of a long fauces which led from 
 
 {{< image file="fig.15.viii.iv.33_9.34.59.jpg" caption="Fig. 15, 9.34.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-
 ## Bibliography
 
 - Dohl, *Plastik aus Pompeji*, p. 45 [(worldcat)](https://search.worldcat.org/title/52662796)
@@ -41,3 +37,9 @@ This garden (a) was tucked around the right end of a long fauces which led from 
 - Fiorelli, *Giornale degli scavi di Pompei* (1861), p. 382 [(worldcat)](https://search.worldcat.org/title/962518899)
 - Jashemski, *Gardens*, vol. II, p. 214 [(worldcat)](https://search.worldcat.org/title/1113367431)
 - Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+
+## Places

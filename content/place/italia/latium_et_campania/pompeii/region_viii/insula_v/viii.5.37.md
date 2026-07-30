@@ -29,15 +29,17 @@ This house was excavated in 1882 to reveal a small garden (a) at the rear entere
 
 {{< image file="fig.19.viii.v.37_12.20.59.jpg" caption="Fig. 19, 12.20.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "tablina" >}}
-- {{< keyword "porticoes" >}}
-
 ## Bibliography
 
 - Dohl, *Plastik aus Pompeji*,p. 46 [(worldcat)](https://search.worldcat.org/title/52662796)
 - Jashemski, *Gardens*, vol. II, p. 218 [(worldcat)](https://search.worldcat.org/title/1113367431)
 - Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), p. 108 [(worldcat)](https://search.worldcat.org/title/823239162)
 - Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 377, 422 [(worldcat)](https://search.worldcat.org/title/638883283)
+
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "porticoes" >}}
+
+## Places

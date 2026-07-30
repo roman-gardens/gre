@@ -27,12 +27,6 @@ B. The irregular shapes of the buildings created this triangular light well. Two
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_18_20_a.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 1-20" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
 ## Bibliography
 
 - deVos A. and de Vos, M., *Pompei, Ercolano, Stabia*, p. 58 [(worldcat)](https://search.worldcat.org/title/492584380)
@@ -46,3 +40,11 @@ B. The irregular shapes of the buildings created this triangular light well. Two
 - Schefold, *Die Wände Pompejis*, p. 212 [(worldcat)][https://search.worldcat.org/title/1100462668)
 - Sogliano, *Notizie degli scavi di Antichita* (1893), p. 37 and plan on p. 35 [(worldcat)](https://search.worldcat.org/title/46875519)
 - Sogliano, *Gli scavi di Pompei dal 1873 al 1900* In Atti del Congresso Internationale di Scienze Storische, pp. 399-400 [(worldcat)][https://search.worldcat.org/title/883497732)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "triclinia (rooms)" >}}
+
+## Places

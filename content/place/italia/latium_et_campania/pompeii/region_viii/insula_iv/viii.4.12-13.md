@@ -25,12 +25,6 @@ These two shops, excavated in 1861, shared a house and a garden (a) to the back.
 
 {{< image file="fig.20.region_viii._insula_iv.png" caption="Plan of Region VIII Insula IV" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "dolia" >}}
-
 ## Bibliography
 
 - Breton, *Pompeia*, 3rd ed. p. 470 [(worldcat)](https://search.worldcat.org/title/894211341)
@@ -41,3 +35,11 @@ These two shops, excavated in 1861, shared a house and a garden (a) to the back.
 - Jashemski, *Gardens*, vol. II, p. 213 [(worldcat)](https://search.worldcat.org/title/1113367431)
 - Lugebil, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1861), p. 237 [(worldcat)](https://search.worldcat.org/title/823239162)
 - Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "dolia" >}}
+
+## Places

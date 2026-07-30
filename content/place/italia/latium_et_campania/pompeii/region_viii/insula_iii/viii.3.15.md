@@ -25,12 +25,6 @@ This caupona had originally been part of a house according to Fiorelli. The unus
 
 {{< image file="fig.5._region_viii._insula_iii.png" caption="Plan of Region VIII Insula III" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "cauponae" >}}
-- {{< keyword "podiums (platforms)" >}}
-- {{< keyword "pergolas" >}}
-
 ## Bibliography
 
 - Breton, *Pompeia*, pp. 497-498 and drawing of stibadium on p. 498 [(worldcat)](https://search.worldcat.org/title/894211341)
@@ -41,3 +35,11 @@ This caupona had originally been part of a house according to Fiorelli. The unus
 - Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
 - Soprano, *'I triclini all' aperto di Pompei' In Pompeiana* pp. 306-307, no. 28 and fig. 28 on p. 291 [(worldcat)](https://search.worldcat.org/title/311371089)
 - Thédenat,*Pompei* 3rd ed. p. 90 and fig. 46 on p. 90. [(worldcat)](https://search.worldcat.org/title/612246417)
+
+## Keywords
+
+- {{< keyword "cauponae" >}}
+- {{< keyword "podiums (platforms)" >}}
+- {{< keyword "pergolas" >}}
+
+## Places

@@ -29,10 +29,6 @@ Directly across from the Temple of Isis was an entryway to this garden (a) which
 
 {{< image file="fig.14.viii.iv.27_14.22.59.jpg" caption="Fig.14, 14.22.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-
 ## Bibliography
 
 - Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 76, no. 363 [(worldcat)](https://search.worldcat.org/title/1131425884)
@@ -40,3 +36,9 @@ Directly across from the Temple of Isis was an entryway to this garden (a) which
 - Fiorelli, *Descrizione di Pompei*, p. 343 [(worldcat)](https://search.worldcat.org/title/252039996)
 - Jashemski, *Gardens*, vol. II, p. 214 [(worldcat)](https://search.worldcat.org/title/1113367431)
 - Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+
+## Places

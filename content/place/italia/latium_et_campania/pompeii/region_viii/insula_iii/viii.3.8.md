@@ -25,12 +25,6 @@ Fourteen fluted white columns supported a portico that enclosed this large garde
 
 {{< image file="fig.5._region_viii._insula_iii.png" caption="Plan of Region VIII Insula III" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "tablina" >}}
-- {{< keyword "exedrae (interior spaces)" >}}
-
 ## Bibliography
 
 - Breton, *Pompeia*, p. 453 [(worldcat)](https://search.worldcat.org/title/894211341)
@@ -39,3 +33,11 @@ Fourteen fluted white columns supported a portico that enclosed this large garde
 - Jashemski, *Gardens*, vol. II, p. 210 [(worldcat)](https://search.worldcat.org/title/1113367431)
 - Schultz, *Annali dell'Instituto di Corrispondenza Archeologica*, 1838, pp. 200-201, [(worldcat)](https://search.worldcat.org/title/263597320)
 - Schultz, *Annali dell'Instituto di Corrispondenza Archeologica*, 1841, p. 120, [(worldcat)](https://search.worldcat.org/title/263597320)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "exedrae (interior spaces)" >}}
+
+## Places

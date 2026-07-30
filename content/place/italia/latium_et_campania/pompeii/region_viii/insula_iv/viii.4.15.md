@@ -29,6 +29,16 @@ Eighteen partially fluted columns supported the large portico (a) surrounding th
 
 {{< image file="fig.13.viii.iv.15_11.10.59.jpg" caption="Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
+## Bibliography
+
+- Breton, *Pompeia*, 3rd ed. pp. 471-472 [(worldcat)](https://search.worldcat.org/title/894211341)
+- Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, p. 6 [(worldcat)](https://search.worldcat.org/title/65043382)
+- Fiorelli, *Descrizione di Pompei*, p. 342 [(worldcat)](https://search.worldcat.org/title/252039996)
+- Jashemski, *Gardens*, vol. II, pp. 213-214 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Lugebil, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1861), p. 238 [(worldcat)](https://search.worldcat.org/title/823239162)
+- Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)
+- Pernice, *Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen*, pp. 1, 24, 28, 37 and fig. 1 on p. 2. [(worldcat)](https://search.worldcat.org/title/680390526)
+
 ## Keywords
 
 - {{< keyword "porticoes" >}}
@@ -42,12 +52,4 @@ Eighteen partially fluted columns supported the large portico (a) surrounding th
 - {{< keyword "impluvia" >}}
 <!-- TODO: not sure which exedrae -->
 
-## Bibliography
-
-- Breton, *Pompeia*, 3rd ed. pp. 471-472 [(worldcat)](https://search.worldcat.org/title/894211341)
-- Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, p. 6 [(worldcat)](https://search.worldcat.org/title/65043382)
-- Fiorelli, *Descrizione di Pompei*, p. 342 [(worldcat)](https://search.worldcat.org/title/252039996)
-- Jashemski, *Gardens*, vol. II, pp. 213-214 [(worldcat)](https://search.worldcat.org/title/1113367431)
-- Lugebil, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1861), p. 238 [(worldcat)](https://search.worldcat.org/title/823239162)
-- Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)
-- Pernice, *Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen*, pp. 1, 24, 28, 37 and fig. 1 on p. 2. [(worldcat)](https://search.worldcat.org/title/680390526)
+## Places

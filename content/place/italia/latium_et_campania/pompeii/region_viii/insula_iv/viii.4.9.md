@@ -25,10 +25,6 @@ What was formerly a garden with a pool was converted into a large open area (a) 
 
 {{< image file="fig.20.region_viii._insula_iv.png" caption="Plan of Region VIII Insula IV" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "tablina" >}}
-
 ## Bibliography
 
 - Breton, *Pompeia*, 3rd ed. p. 469 [(worldcat)](https://search.worldcat.org/title/894211341)
@@ -38,3 +34,9 @@ What was formerly a garden with a pool was converted into a large open area (a) 
 - Jashemski, *Gardens*, vol. II, pp. 212-213 [(worldcat)](https://search.worldcat.org/title/1113367431)
 - Lugebil, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1861), p. 237 [(worldcat)](https://search.worldcat.org/title/823239162)
 - Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)
+
+## Keywords
+
+- {{< keyword "tablina" >}}
+
+## Places

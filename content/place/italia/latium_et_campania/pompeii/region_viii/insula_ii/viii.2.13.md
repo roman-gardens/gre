@@ -26,11 +26,6 @@ The room (b) to the east had a good view into this garden (a) which was located 
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_13.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 1-20" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "tablina" >}}
-- {{< keyword "porticoes" >}}
-
 ## Bibliography
 
 - Fiorelli, *Descrizione di Pompei*, pp. 444-445 [(worldcat)](https://search.worldcat.org/title/908272023)
@@ -38,3 +33,10 @@ The room (b) to the east had a good view into this garden (a) which was located 
 - Mau, *Mitteilungen des Deutschen Archaologischen Instituts* (1892), p. 3 and pl. 1 (plan) [https://search.worldcat.org/title/860559196)
 - Noack and Lehmann-Hartleben, *Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 121-128 passim and fig. 32 (plan) on p. 116 and pl. 17 (plans). [(worldcat)](https://search.worldcat.org/title/876087879)
 - Sogliano, *Notizie degli scavi di Antichita*(1899), p. 143 [(worldcat)](https://search.worldcat.org/title/46875519)
+
+## Keywords
+
+- {{< keyword "tablina" >}}
+- {{< keyword "porticoes" >}}
+
+## Places

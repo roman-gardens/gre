@@ -25,14 +25,16 @@ At the rear of the tablinium excavated in 1881 a narrow garden (a) had a portico
 
 {{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="" >}}
 
+## Bibliography
+
+- Fiorelli, *Notizie degli scavi di Antichita* (1881), p. 332 [(worldcat)](https://search.worldcat.org/title/638883283)
+- Jashemski, *Gardens*, vol. II, p. 216 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 175-176 [(worldcat)](https://search.worldcat.org/title/823239162)
+
 ## Keywords
 
 - {{< keyword "tablina" >}}
 - {{< keyword "puteals" >}}
 - {{< keyword "porticoes" >}}
 
-## Bibliography
-
-- Fiorelli, *Notizie degli scavi di Antichita* (1881), p. 332 [(worldcat)](https://search.worldcat.org/title/638883283)
-- Jashemski, *Gardens*, vol. II, p. 216 [(worldcat)](https://search.worldcat.org/title/1113367431)
-- Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 175-176 [(worldcat)](https://search.worldcat.org/title/823239162)
+## Places

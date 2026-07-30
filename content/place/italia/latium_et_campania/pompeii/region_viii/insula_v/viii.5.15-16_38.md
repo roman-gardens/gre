@@ -32,6 +32,13 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 {{< image file="fig.17._viii.v.16_11.17.59.jpg" caption="Fig.17, 11.17.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="fig.18.viii.v.16.38_11.20.59.jpg" caption="Fig.18, 11.20.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
+## Bibliography
+
+- Jashemski, *Gardens*, vol. II, pp. 216-217 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 197-200, 203-204 [(worldcat)](https://search.worldcat.org/title/823239162)
+- Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 279, 317 [(worldcat)](https://search.worldcat.org/title/638883283)
+- Pernice, *Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen*, p. 34 and pl. 23.2 [(worldcat)](https://search.worldcat.org/title/680390526)
+
 ## Keywords
 
 - {{< keyword "insulae" >}}
@@ -39,9 +46,4 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 - {{< keyword "puteals" >}}
 - {{< keyword "porticoes" >}}
 
-## Bibliography
-
-- Jashemski, *Gardens*, vol. II, pp. 216-217 [(worldcat)](https://search.worldcat.org/title/1113367431)
-- Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 197-200, 203-204 [(worldcat)](https://search.worldcat.org/title/823239162)
-- Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 279, 317 [(worldcat)](https://search.worldcat.org/title/638883283)
-- Pernice, *Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen*, p. 34 and pl. 23.2 [(worldcat)](https://search.worldcat.org/title/680390526)
+## Places

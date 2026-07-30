@@ -29,11 +29,6 @@ After the earthquake the eastern part of this insula had been converted into a m
 
 {{< image file="fig.21.viii.6.2 12.31.59.jpg" caption="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "insulae" >}}
-- {{< keyword "aedicules" >}}
-
 ## Bibliography
 
 - Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome, 1937, p.78, no.374 and pl.33.1 [(worldcat)](https://search.worldcat.org/title/1131425884)
@@ -42,3 +37,10 @@ After the earthquake the eastern part of this insula had been converted into a m
 - Mau, *Mitteilungen des Deutschen Archaologischen Instituts, Romische Abteilung* , 1886, pp. 141-143 (called Viii.vii.4) and pl. 7a. 1 [(worldcat)](https://search.worldcat.org/title/1180386779)
 - Sogliano, *Notizie degli scavi di Antichita*, 1883, p.51 [(worldcat)](https://search.worldcat.org/title/638883283)
 - Sogliano, *Notizie degli scavi di Antichita*, 1884, pp.280,396 [(worldcat)](https://search.worldcat.org/title/638883283)
+
+## Keywords
+
+- {{< keyword "insulae" >}}
+- {{< keyword "aedicules" >}}
+
+## Places

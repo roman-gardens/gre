@@ -25,12 +25,14 @@ The Doric Temple in the Triangular Forum was excavated between 1767 and 1797. A 
 
 {{< image file="fig.28.region_viii.insula_vii.24-27.png" caption="Fig. 28, Plan of Region VIII, Insula VII, 24-27" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-
 ## Bibliography
 
 - Fiorelli, *Descrizione di Pompei*, pp. 363-364 [(worldcat)](https://search.worldcat.org/title/1198324804)
 - Jashemski, *Gardens*, 1:155-157 and figs. 216 (balloon photo) and 217 (plan) on pp. 138-139 and fig. 243 on p. 156 [(worldcat)](https://search.worldcat.org/title/1047945215)
 - Jashemski, *Gardens*, vol. II, p. 223 [(worldcat)](https://search.worldcat.org/title/1113367431)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+
+## Places

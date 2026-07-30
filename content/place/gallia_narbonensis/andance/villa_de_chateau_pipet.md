@@ -31,12 +31,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Villa de Château-Pipet
 
-## Keywords
-
-- {{< keyword "basins" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "opus signinum" >}}
-
 ## Villa Description
 
 About 1.2 kilometers south of the village of Andance, at the place called Château-Pipet, in the little valley of the Cueil, structures belonging without doubt to a Roman villa were discovered.  As early as 1867, the abbot Chaillet noted the presence of ruins in this area.  A salvage excavation in 1964 partially exposed a long ornamental pool associated with these structures.  A rectangular garden [1] of 152 square meters formed a part of the villa.  On the east side, the garden was bounded by a an unusual wall formed by eight half silos, or, seen form outside the garden, semicircular niches. Perhaps these niches were hidden by a wall along their back side, outside the garden, for a little of such a wall remains at either end.  On the inside of the garden, in the middle of this wall were the beginnings of a larger apse (shown in dotted lines on the plan).  One can see in this structure a supporting wall with internal buttresses.  To the west and to the south, the space was bordered by a gallery [2] ; the shafts of its columns were discovered in the excavations.
@@ -54,6 +48,12 @@ No date was proposed for the structure in the excavation reports.
 
 -  M. LE GLAY, *Informations archéologiques*, dans Gallia, 1966, P. 519-520.
 - Chr. FRAISSE, J. DUPRAZ, sous la resp. de M. Provost, *L'Ardèche* 07, Carte  archéologique de la Gaule, 2001, P. 195-196, plan P. 196 [(worldcat)](https://search.worldcat.org/title/490154337)
+
+## Keywords
+
+- {{< keyword "basins" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "opus signinum" >}}
 
 ## Places
 

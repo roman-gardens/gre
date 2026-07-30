@@ -35,14 +35,6 @@ Halfway between Avignon and Cavaillon, this villa is west of the present village
 
 Villa de Muscapeu
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "hypocausts" >}}
-- {{< keyword "orchards" >}}
-
 ## Villa Description
 
 The site of the villa is practically completely covered by modern houses.  The villa, of vast proportions, was built on successive terraces whose form survives in the present layout of lots.  The part already excavated have revealed a sigma-shaped portico and at least two groups of rooms connected with baths.  The construction was luxurious as attested by fragments of *opus sectile*, mosaics and wall paintings of quality, and especially by beautifully made architectural tiles called Campana plaques, with low-relief volutes and images of porticos, winged victories sacrificing bulls .
@@ -74,6 +66,14 @@ In an effort to determine whether the garden was ornamental or productive, Phili
 
 -  D. CARRU, D. LAVERGNE, J. MOURARET, *Caumont-sur-Durance, Saint-Symphorien, in Bilan scientifique de la région Provence Alpes-Côte d'Azur*, S.R.A, D.R.A.C, Marseille, 2002, P. 181-183.
 - D.CARRU, Caumont sur Durance – Saint Symphorien, in *Archéologie en Vaucluse, Journal d'information du service archéologique  départemental de Vaucluse*, 37, déc. 2002, P. 5.
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "hypocausts" >}}
+- {{< keyword "orchards" >}}
 
 ## Places
 

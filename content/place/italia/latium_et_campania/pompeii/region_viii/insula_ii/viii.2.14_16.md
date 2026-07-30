@@ -27,13 +27,6 @@ B. Built on the volcanic ledge, only a triangular segment of this terrace garden
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_14_16_a.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 1-20" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "amphorae" >}}
-- {{< keyword "tondi" >}}
-
 ## Bibliography
 
 - Döhl,*Plastik aus Pompeji*, p. 42 [(worldcat)](https://search.worldcat.org/title/52662796)
@@ -46,3 +39,12 @@ B. Built on the volcanic ledge, only a triangular segment of this terrace garden
 - Sogliano, *Notizie degli scavi di Antichita* (1893), pp. 4, 48-49 [(worldcat)](https://search.worldcat.org/title/46875519)
 - Sogliano, *Notizie degli scavi di Antichita* (1894), p. 147 [(worldcat)](https://search.worldcat.org/title/46875519)
 - Sogliano, *Notizie degli scavi di Antichita* (1899), pp. 23, 141-143 and fig. 1 (plan) on p. 141 [(worldcat)](https://search.worldcat.org/title/46875519)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "amphorae" >}}
+- {{< keyword "tondi" >}}
+
+## Places

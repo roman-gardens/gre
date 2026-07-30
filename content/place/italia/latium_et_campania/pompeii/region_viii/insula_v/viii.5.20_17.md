@@ -25,11 +25,13 @@ Entry no. 17 from the angioportus offered a second access to this garden at the 
 
 {{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="" >}}
 
+## Bibliography
+
+- Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 226-227 [(worldcat)](https://search.worldcat.org/title/823239162)
+
 ## Keywords
 
 - {{< keyword "angiportus" >}}
 - {{< keyword "cauponae" >}}
 
-## Bibliography
-
-- Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 226-227 [(worldcat)](https://search.worldcat.org/title/823239162)
+## Places

@@ -31,18 +31,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 House under the Pasteur parking lot
 
-## Keywords
-
-- {{< keyword "courtyards" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "statuettes" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "terrace gardens" >}}
-- {{< keyword "reception rooms" >}}
-- {{< keyword "mural paintings" >}}
-- {{< keyword "candelabras (candleholders)" >}}
-
 ## House Description
 
 In its first phase, the house formed an L around a trapezoidal courtyard [1] (about 23 x 22 m) that was certainly developed as a garden. On the north and east it was bordered by a portico [2] with pilasters of which the foundation blocks remain. The portico (3.5 m wide) was bordered by two rectangular pools (each about 6.7 x 2.5 m) made of concrete with walls coated with cement. They drained to a collector. To the west of the courtyard is a circular well 4 meters deep lined with dressed hard limestone and without a puteal. It is not certain that it comes from Roman times.
@@ -69,9 +57,19 @@ Four groups of structures lay in a somewhat staggered pattern. All opened onto g
 
 - R. Boiron, C. Landure, N. Nin, Les fouilles de l'Aire du Chapitre, actuel parking Pasteur, Documents d'Archéologie aixoise, 2, 1986, P. 13-36[(worldcat)](https://search.worldcat.org/title/20998985)
 - *Maison 1996*, t. II,, P. 12-15 and fiche n°4, P. 22-23 ; fiche n°5, P. 24-25
-
-
 - J. Guyon, N. Nin, L. Rivet, S. Saulnier, *Aix-en-Provence,Atlas*, P. 65-68 et P.261-277.
+
+## Keywords
+
+- {{< keyword "courtyards" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "statuettes" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "terrace gardens" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "mural paintings" >}}
+- {{< keyword "candelabras (candleholders)" >}}
 
 ## Places
 

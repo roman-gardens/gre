@@ -26,12 +26,6 @@ A colonnaded portico stood at the edge of the terrace (a) on the street level of
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_34.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 29-39" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "Crocodylidae" >}}
-- {{< keyword "Hippopotamus" >}}
-
 ## Bibliography
 
 - Jashemski, *Gardens*, vol. II, p. 209 [(worldcat)](https://search.worldcat.org/title/1113367431)
@@ -40,3 +34,11 @@ A colonnaded portico stood at the edge of the terrace (a) on the street level of
 - Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 44-55 passim, and fig. 12 (plan) on p. 52 and pls. 22, 23 (reconstructions) [(worldcat)](https://search.worldcat.org/title/486835478)
 - Schefold, *Die Wände Pompejis*, p. 217 [(worldcat)][https://search.worldcat.org/title/1100462668)
 - Sogliano, *Notizie degli scavi di Antichita* (1885), p. 257 [(worldcat)](https://search.worldcat.org/title/46875519)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "Crocodylidae" >}}
+- {{< keyword "Hippopotamus" >}}
+
+## Places

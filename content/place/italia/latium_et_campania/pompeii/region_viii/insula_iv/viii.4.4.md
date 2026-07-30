@@ -31,14 +31,6 @@ The earthquake most likely was the reason the corner columns were reinforced by 
 {{< image file="fig.11.viii.iv.4_11.12.59.jpg" caption="Fig. 11, 11.12.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="fig.12_viii.iv.4_11.13.59.jpg" caption="Fig. 12, 11.13.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "exedrae (interior spaces)" >}}
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "triclinia (rooms)" >}}
-<!-- TODO: not sure which exedrae -->
-
 ## Bibliography
 
 - Breton, *Pompeia*, 3rd ed. pp. 461-464 [(worldcat)](https://search.worldcat.org/title/894211341)
@@ -50,3 +42,13 @@ The earthquake most likely was the reason the corner columns were reinforced by 
 - Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
 - Overbeck and Mau, *Pompeji in seinen Gebäuden, Altertümern und Kunstwerken*, pp. 293-294 and fig. 162(plan) on p. 290 [(worldcat)](https://search.worldcat.org/title/1189285747)
 - Pernice, *Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen*, pp. 49-50 and pl. 32.4 [(worldcat)](https://search.worldcat.org/title/680390526)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "exedrae (interior spaces)" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "triclinia (rooms)" >}}
+<!-- TODO: not sure which exedrae -->
+
+## Places

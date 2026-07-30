@@ -110,19 +110,9 @@ The entrance directly across from the amphitheater was designed to be an archite
 
 {{< image file="Fig. 60 II.v. 18.3.70.jpg" caption="the excavation" credit="" alt="" >}} -->
 
-## Keywords
-
-- {{< keyword "amphitheaters" >}}
-- {{< keyword "trellises" >}}
-- {{< keyword "triclinia (couches)" >}}
-- {{< keyword "vineyards" >}}
-- {{< keyword "dolia" >}}
-
 ## Bibliography
 
 - *Giornale di scavo sistematico eseguito nell'area del Foro Boario da 1º Decembre, 1954 al 31 Maggio 1955* (unpublished);
-
-
 - Jashemski, W. 1968. *Excavations in the'Foro Borario'at Pompeii: A Preliminary Report,* AJA 72: pp.69-73, ills. 1-3 and figs. 1-7
 - Jashemski, W. 1970. *University of Maryland Excavations at Pompeii, 1968,* AJA 74: pp.63-70, ills. 1-5 and figs. 1-15
 - Jashemski, W. 1973. *The Discovery of a Large Vineyard at Pompeii: University of Maryland Excavations, 1970,* AJA 77: pp.27-41, ills. 1-5 and figs, 1-7
@@ -131,6 +121,14 @@ The entrance directly across from the amphitheater was designed to be an archite
 - Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, pp.89-90
 - Maiuri, 1928. *Pompeii (Novara)*, p.43: "scavato parzialmente nel 1755 e poi ricolmato" [worldcat](https://search.worldcat.org/title/2992975)
 - Meyer, Frederick G, 1980. *Carbonized Food Plants of Pompeii, Herculaneum, and the Villa at Torre Annunziata,* Economic Botany. 34.4: 401-437 [worldcat](https://search.worldcat.org/title/5656581658)
+
+## Keywords
+
+- {{< keyword "amphitheaters" >}}
+- {{< keyword "trellises" >}}
+- {{< keyword "triclinia (couches)" >}}
+- {{< keyword "vineyards" >}}
+- {{< keyword "dolia" >}}
 
 ## Places
 

@@ -26,12 +26,6 @@ This house was excavated in 1885. The entrance at 37 went into the atrium and be
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_36_37.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 29-39" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-
 ## Bibliography
 
 - Jashemski, *Gardens*, vol. II, p. 209 [(worldcat)](https://search.worldcat.org/title/1113367431)
@@ -40,3 +34,11 @@ This house was excavated in 1885. The entrance at 37 went into the atrium and be
 - Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, "Nuovi scavi," pp. 16, 17 [(worldcat)](https://search.worldcat.org/title/906755593)
 - Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 31-44 passim, pls. 5, 6 (plans) and 21 (reconstruction) [(worldcat)](https://search.worldcat.org/title/486835478)
 - Sogliano, *Notizie degli scavi di Antichita* (1885), p. 535 and plan on pp. 253 and 533. [(worldcat)](https://search.worldcat.org/title/46875519)
+
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+
+## Places

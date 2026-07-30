@@ -25,13 +25,6 @@ Behind shop no. 10 and the accompanying living quarters was a garden (a) enclose
 
 {{< image file="fig.23.region_viii.insula_vii.1-15.png" caption="Fig.23, Plan of Region VIII, Insula VII" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "pergolas" >}}
-- {{< keyword "alabastra" >}}
-- {{< keyword "opus signinum" >}}
-
 ## Bibliography
 
 - Döhl,*Plastik aus Pompeji*, p. 48, (listed under VIII.vii.5-11) [(worldcat)](https://search.worldcat.org/title/52662796)
@@ -42,3 +35,12 @@ Behind shop no. 10 and the accompanying living quarters was a garden (a) enclose
 - Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1875), p. 168 [(worldcat)](https://search.worldcat.org/title/823239162)
 - Soprano, *I triclini all'aperto di Pompei* In Pompeiana, p. 302, no. 18 [(worldcat)](https://search.worldcat.org/title/78719058)
 - Spano, *Notizie degli scavi di Antichita* (1910), pp. 265-268 and fig. 5 (plan) on p. 263 [(worldcat)](https://search.worldcat.org/title/638883283)
+
+## Keywords
+
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "alabastra" >}}
+- {{< keyword "opus signinum" >}}
+
+## Places

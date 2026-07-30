@@ -30,11 +30,6 @@ This house was excavated in 1799 and to the rear of the tablinium there was a po
 
 {{< image file="fig.3.viii.ii_10.2.59.jpg" caption="Fig 3, 10.2.59, View of insula ii from below (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "tablina" >}}
-- {{< keyword "porticoes" >}}
-
 ## Bibliography
 
 - Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 74 [(worldcat)](https://search.worldcat.org/title/1131425884)
@@ -47,3 +42,10 @@ This house was excavated in 1799 and to the rear of the tablinium there was a po
 - Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 3, "Topografia," pl. 6 (plan) [(worldcat)](https://search.worldcat.org/title/906755593)
 - Noack and Lehmann-Hartleben, *Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 114-121 passim and figs. 32 on p. 116, 33 on p. 117 (plans) and pl. 17 (plan), pl. 26 (reconstruction) [(worldcat)](https://search.worldcat.org/title/876087879)
 - Fiorelli,ed. *Pompeianarum Antiquitatum Historia* (May 16, 1800), vol. 1, pt. 2, p. 173 [(worldcat)](https://search.worldcat.org/title/714988573)
+
+## Keywords
+
+- {{< keyword "tablina" >}}
+- {{< keyword "porticoes" >}}
+
+## Places
