@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula II]({{<relref ".">}})
+Unspecified
 
 ## Garden Description
 
@@ -41,21 +26,6 @@ B. The irregular shapes of the buildings created this triangular light well. Two
 
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_18_20_a.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 1-20" credit="" alt="" >}}
-
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-Unspecified
 
 ## Bibliography
 
@@ -70,3 +40,11 @@ Unspecified
 - Schefold, *Die Wände Pompejis*, p. 212 [(worldcat)][https://search.worldcat.org/title/1100462668)
 - Sogliano, *Notizie degli scavi di Antichita* (1893), p. 37 and plan on p. 35 [(worldcat)](https://search.worldcat.org/title/46875519)
 - Sogliano, *Gli scavi di Pompei dal 1873 al 1900* In Atti del Congresso Internationale di Scienze Storische, pp. 399-400 [(worldcat)][https://search.worldcat.org/title/883497732)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "triclinia (rooms)" >}}
+
+## Places

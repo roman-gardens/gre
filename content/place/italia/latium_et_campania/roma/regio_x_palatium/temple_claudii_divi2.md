@@ -14,29 +14,7 @@ draft: true
 
 ## Dates
 
-1st century CE<!-- If no date, use "unspecified" -->
-
-## Province
-
-
-## Province Description
-
-Italia was not considered a province until the reign of Diocletian. The peninsula, however, was divided into administrative regions by Augustus around 7 BCE, according to Pliny's *Naturalis Historia*. Regio I was comprised of Latium and Campania.<!-- DESCRIPTION -->
-
-## Location
-
-- [Rome]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="108867" name="Rome" >}}
-
-## Sublocation
-
-- [Caelian Hill]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="695491849" name="Caelian Hill" >}}
-
-## Garden
-
-Gardens of the Temple of Divine Claudius (Roma)<!-- List of gardens in province -->
-<!-- May be left blank for now -->
+1st century CE
 
 ## Garden Description
 

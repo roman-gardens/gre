@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula II]({{<relref ".">}})
+1885
 
 ## Garden Description
 
@@ -41,21 +26,6 @@ This house was excavated in 1885. The entrance at 37 went into the atrium and be
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_36_37.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 29-39" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "atriums" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-1885
-
 ## Bibliography
 
 - Jashemski, *Gardens*, vol. II, p. 209 [(worldcat)](https://search.worldcat.org/title/1113367431)
@@ -64,3 +34,11 @@ This house was excavated in 1885. The entrance at 37 went into the atrium and be
 - Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, "Nuovi scavi," pp. 16, 17 [(worldcat)](https://search.worldcat.org/title/906755593)
 - Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 31-44 passim, pls. 5, 6 (plans) and 21 (reconstruction) [(worldcat)](https://search.worldcat.org/title/486835478)
 - Sogliano, *Notizie degli scavi di Antichita* (1885), p. 535 and plan on pp. 253 and 533. [(worldcat)](https://search.worldcat.org/title/46875519)
+
+## Keywords
+
+- {{< keyword "atriums" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+
+## Places

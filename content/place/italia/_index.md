@@ -13,6 +13,8 @@ draft: false
 
 ## Province Description
 
+<!-- From one of the garden files: "The Italian peninsula extending northward to the Alps as recognized by the Romans." -->
+
 Italia was not considered a province until the reign of Diocletian. However, according to Pliny's *Naturalis Historia*, the peninsula was divided into eleven administrative regions by Augustus around 7 BCE:
 - Regio I: [Latium et Campania](/id/d2e9307e07/)
     - Includes major sites in [Roma](/id/c870e52507/), [Pompeii](/id/f4eb33ed90/), and [Herculaneum](/id/8218388c4c/)

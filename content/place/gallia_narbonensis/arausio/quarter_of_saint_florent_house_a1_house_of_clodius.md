@@ -36,16 +36,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Quarter of Saint-Florent – House A1, House of Clodius
 
-## Keywords
-
-- {{< keyword "decumani" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "cubicula" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "pilasters" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "colonnades" >}}
-
 ## House Description
 
 House A1, called the House of Clodius, is bordered on the north by a secondary *decumanus* and has a common wall with other houses on three sides. It seems to have occupied an area of a little more than 450 square meters, but exploration is incomplete on the northeast because of the limits imposed on the excavation. The edifice reached us in very bad condition with many of the stones of its walls carried off. It was built in the Augustan period, somewhere between 10 BCE and 10 CE and was destroyed in 20-30 CE, perhaps in a flood that struck the town in about 30, as in the quarter of the Cours Pourtoules. In one of the rooms, an inscription in tesserae reads CLODIVS, perhaps gives the name of the proprietor.
@@ -61,6 +51,16 @@ The presumed *triclinium* opened through a wide entrance, flanked on either side
 ## Bibliography
 
 - Bellet, Michel-Edouard. *Orange Antique: Monuments Et Musée*. Paris: Imprimerie nationale, 1991, P. 229-239 [(worldcat)](https://search.worldcat.org/title/24832885)
+
+## Keywords
+
+- {{< keyword "decumani" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "cubicula" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "pilasters" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "colonnades" >}}
 
 ## Places
 

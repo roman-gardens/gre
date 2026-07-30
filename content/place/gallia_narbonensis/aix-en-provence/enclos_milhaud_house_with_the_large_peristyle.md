@@ -18,21 +18,6 @@ draft: true
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
-## Location
-
-[aix-en-provence]({{<relref ".">}}) \
-[aix-en-provence (Pleiades)](#)
-
-## Sublocation
-
-[Enclos Milhaud, House with the large peristyle](#)
-
-## House
-
-Enclos Milhaud, House with the large peristyle
-
-<!-- ## Keywords -->
-
 ## House Description
 
 fiche not translated
@@ -51,9 +36,9 @@ fiche not translated
 ## Bibliography
 
 - *Maison 1996*, t. II,, P. 32-33
-
-
 -  "Aix-en-Provence,"*Atlas*, P. 62-4, 71.
+
+## Keywords
 
 ## Places
 

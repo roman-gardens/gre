@@ -14,16 +14,6 @@ draft: true
 
 Unspecified
 
-## Location
-
-## Sublocation
-
-## Sublocation Description
-
-## Garden
-
-Tomb Garden of Attia Quintilla
-
 ## Garden Description
 
 A fragmentary opisthographic slab of unknown urban provenance, now in the Lapidario Profano ex Lateranense of the Vatican Museums, records an anonymous epitaph dedicating to the dedicator and his household a tomb garden (cepotafi[um]) and tomb monument with a building.
@@ -43,5 +33,6 @@ A fragmentary opisthographic slab of unknown urban provenance, now in the Lapida
 - {{< keyword "tombs" >}}
 - {{< keyword "epitaphs" >}}
 
+<!--
 ## Places
-
+-->

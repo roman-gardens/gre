@@ -12,27 +12,11 @@ draft: false
 
 ## Dates
 
+unspecified
+
+## Excavation Dates
+
 Excavated 1912 and 1924.
-
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-[Region I]({{<relref ".">}})
-## Insula
-
-[Insula VII]({{<relref "#">}})
 
 ## Garden Description
 
@@ -77,12 +61,4 @@ One step above the level of the [triclinium](http://vocab.getty.edu/page/aat/300
 - {{< keyword "tables" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
-## Gardens
-
-House of the Priest Amandus.
-
-## Places
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
+<!-- Places -->

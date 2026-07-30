@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula V]({{<relref ".">}})
+Unspecified
 
 ## Garden Description
 
@@ -40,21 +25,6 @@ At the time of the eruption this peristyle garden (a) was in the process of reno
 
 {{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "tablina" >}}
-- {{< keyword "puteals" >}}
-
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-Unspecified
-
 ## Bibliography
 
 - Jacono, Osservazioni su i viridarii pompeiani, p. 12 [(worldcat)](https://search.worldcat.org/title/1131425884)
@@ -62,3 +32,11 @@ Unspecified
 - Mairui, *Notizie degli scavi di Antichita* (1944-1945), p. 150 and fig. 6 (plan) on p. 144 [(worldcat)](https://search.worldcat.org/title/638883283)
 - Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), p.172 [(worldcat)](https://search.worldcat.org/title/823239162)
 - Sogliano, *Notizie degli scavi di Antichita* (1881), pp. 320-321 [(worldcat)](https://search.worldcat.org/title/638883283)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "puteals" >}}
+
+## Places

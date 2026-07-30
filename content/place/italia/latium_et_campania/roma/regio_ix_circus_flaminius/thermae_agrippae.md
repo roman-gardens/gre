@@ -14,25 +14,6 @@ draft: false
 
 1st century BCE - 5th century CE
 
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-- [Region IX Circus Flaminius]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="422863" name="Campus Martius" >}}
-
-## Garden
-
-Garden of the Thermae Agrippae
-
 ## Garden Description
 
 Knowledge of this [*thermae*](http://vocab.getty.edu/page/aat/300007364), or bathing complex, and its associated public gardens comes from textual evidence and the [Severan Marble Plan (*FUR*)](https://formaurbis.stanford.edu/fragment.php?record=1&field0=all&search0=agrippa&op0=and&field1=all) (Figs. 1-2). Located in the central [*Campus Martius*](https://en.wikipedia.org/wiki/Campus_Martius), [Agrippa](https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa)'s *thermae,* the [*Thermae Agrippae*](https://en.wikipedia.org/wiki/Baths_of_Agrippa), were associated with his [*horti*](http://vocab.getty.edu/page/aat/300008107); upon his death in 12 BCE, he left both to the Roman people, free of charge ([Cass. Dio 54.29.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0385.tlg001.perseus-grc1:54.29.4) |  [Trans.](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/54*.html)).

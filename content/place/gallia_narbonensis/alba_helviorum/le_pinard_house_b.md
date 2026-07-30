@@ -35,12 +35,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Le Pinard, House B
 
-## Keywords
-
-- {{< keyword "ditches" >}}
-- {{< keyword "atriums" >}}
-- {{< keyword "vestibules" >}}
-
 ## House Description
 
 This house is also 120 southwest of the theater, in front of house A.  Excavated in 1967-1968, the parcel covers 450 sq m, with a useful covered surface of 401.5 sq m.  It was constructed in the second century.  Only the southwest corner is known; the rest is lost or not excavated.
@@ -56,6 +50,12 @@ On entering from the east-west street, after passing through two incidental room
 - *La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise*. Vaucluse: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 80-81. [(worldcat)](https://search.worldcat.org/title/695787865)
 - Chr. Fraisse, J. Dupraz, *L'Ardèche*, CAG 07, Gap, 2001, P. 154
 - Gros, Pierre. *L'architecture romaine: du début du IIIe siècle av. J.-C. à la fin du Haut-Empire. 1, 1*,. Paris: A. et J. Picard, 2011, P. 190-191.[(worldcat)](https://search.worldcat.org/title/762763355)
+
+## Keywords
+
+- {{< keyword "ditches" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "vestibules" >}}
 
 ## Places
 

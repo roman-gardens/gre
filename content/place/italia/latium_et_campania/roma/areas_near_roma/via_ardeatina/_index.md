@@ -9,9 +9,9 @@ date: 2026-06-01
 draft: false
 ---
 
-<!-- ## Dates -->
+## Place Description
 
-<!-- ## Place Description -->
+The Via Ardeatina connected Rome and Ardea.
 
 <!--
 ## Maps
@@ -38,8 +38,6 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="587835546" name="Via Ardeatina" >}}

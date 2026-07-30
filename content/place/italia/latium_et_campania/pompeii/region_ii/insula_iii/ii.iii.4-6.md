@@ -15,17 +15,6 @@ draft: false
 
 1754 to 1757, 1952
 
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-[Region II]({{<relref ".">}})
-## Insula
-
-[Insula II]({{<relref "#">}})
-
 ## House
 
 <!-- invalid

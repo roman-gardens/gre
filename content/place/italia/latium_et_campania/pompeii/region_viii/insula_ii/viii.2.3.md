@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula II]({{<relref ".">}})
+1799
 
 ## Garden Description
 
@@ -40,20 +25,6 @@ This house, very similar to VII.ii.1, was also excavated in 1799. This peristyle
 
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_3.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 1-20" credit="" alt="" >}}
-
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "sacraria" >}}
-
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-1799
 
 ## Bibliography
 
@@ -65,3 +36,10 @@ This house, very similar to VII.ii.1, was also excavated in 1799. This peristyle
 - Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees* (1809-1810-1811), 2:62 and pls. 21 (plan), 22 [(worldcat)](https://search.worldcat.org/title/1707639)
 - Niccolini, Antonio, Fausto, and Felice, *Le case ed i monumenti di Pompei designati e descritti*, vol. 3, "Topografia," pl. 6 (plan) [(worldcat)](https://search.worldcat.org/title/906755593)
 - Noack and Lehmann-Hartleben, *Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 121-128 passim and fig. 32 (plan) on p. 116 and pl. 17 (plans). [(worldcat)](https://search.worldcat.org/title/876087879)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "sacraria" >}}
+
+## Places

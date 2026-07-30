@@ -1,5 +1,5 @@
 {{ define "main" }}
-<main class="main" role="main">
+<main class="main meta" role="main">
     <h1>Jump to:</h1>
     <ul style="margin-left:2em; margin-bottom:3em">
         <li><a href="#places">All Places</a></li>
@@ -9,7 +9,8 @@
 
 
     {{ $pages := sort (where .Site.Pages "Type" "place") "Path" }}
-    <h1 id="places">All places ({{ $pages.Len }})</h1>
+    {{ $visible := partial "pages-visible.html" $pages }}
+    <h1 id="places">All places ({{ $visible.Len }})</h1>
     <table class="meta place">
         <tr>
             <th>path</th>
@@ -18,25 +19,28 @@
             <th>contributor</th>
             <th>date</th>
             <th>updated</th>
+            <th>linked places</th>
         </tr>
-        {{ range $p := $pages }}
+        {{ range $p := $visible }}
             {{ if ne $p.Path "/place" }}
-            <tr {{ if $p.Draft }}class="draft"{{ end }}>
-                <td class="path"><a href="{{ .Permalink }}">{{ replace $p.Path "/place" "" }}</a></td>
-                <td class="title">{{ $p.Title }}
-                    {{ if $p.Draft }}<span class="draft">draft</span>{{ end }}
-                </td>
-                <td>{{ htmlUnescape (replace $p.Params.Author ", " ",<br>") | safeHTML }}</td>
-                <td>{{ htmlUnescape (replace $p.Params.Contributor ", " ",<br>") | safeHTML }}</td>
-                <td class="date">{{ $p.Date.Format "2006-01-02" }}</td>
-                <td class="date">{{ $p.Lastmod.Format "2006-01-02" }}</td>
-            </tr>
+                <tr {{ if $p.Draft }}class="draft"{{ end }}>
+                    <td class="path"><a href="{{ .Permalink }}">{{ replace $p.Path "/place" "" }}</a></td>
+                    <td class="title">{{ $p.Title }}
+                        {{ if $p.Draft }}<span class="draft">draft</span>{{ end }}
+                    </td>
+                    <td>{{ htmlUnescape (replace $p.Params.Author ", " ",<br>") | safeHTML }}</td>
+                    <td>{{ htmlUnescape (replace $p.Params.Contributor ", " ",<br>") | safeHTML }}</td>
+                    <td class="date">{{ $p.Date.Format "2006-01-02" }}</td>
+                    <td class="date">{{ $p.Lastmod.Format "2006-01-02" }}</td>
+                    <td>{{ partial "html-section.html" ( dict "html" $p.Content "header" "Places" "omitHeader" true ) }}</td>
+                </tr>
             {{ end }}
         {{ end }}
     </table>
 
     {{ $pages := sort (where .Site.RegularPages "Type" "garden") "Path" }}
-    <h1 id="gardens">All gardens ({{ $pages.Len }})</h1>
+    {{ $visible := partial "pages-visible.html" $pages }}
+    <h1 id="gardens">All gardens ({{ $visible.Len }})</h1>
     <table class="meta garden">
         <tr>
             <th>jashemski number</th>
@@ -47,8 +51,9 @@
             <th>date</th>
             <th>updated</th>
             <th>site date</th>
+            <th>linked places</th>
         </tr>
-        {{ range $p := $pages }}
+        {{ range $p := $visible }}
             <tr {{ if $p.Draft }}class="draft"{{ end }}>
                 <td>{{ $p.Param "jashemski-catalogue" }}</td>
                 <td class="path"><a href="{{ .Permalink }}">{{ replace $p.Path "/place" "" }}</a></td>
@@ -59,7 +64,8 @@
                 <td class="nowrap">{{ htmlUnescape (replace $p.Params.Contributor ", " ",<br>") | safeHTML }}</td>
                 <td class="nowrap">{{ $p.Date.Format "2006-01-02" }}</td>
                 <td class="nowrap">{{ $p.Lastmod.Format "2006-01-02" }}</td>
-                <td>{{ index (index (findRESubmatch `(?s)Dates</h2>(.*?)<h2` .Content 1) 0) 1 | plainify }}</td>
+                <td>{{ partial "html-section.html" (dict "html" $p.Content "header" "Dates" "omitHeader" true ) }}</td>
+                <td>{{ partial "html-section.html" ( dict "html" $p.Content "header" "Places" "omitHeader" true ) }}</td>
             </tr>
         {{ end }}
     </table>

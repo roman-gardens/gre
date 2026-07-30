@@ -14,19 +14,7 @@ draft: true
 
 unspecified - 70 CE
 
-## Excavation Date
-
-## Location
-
-- [Pompeii]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Sublocation
-
-[Region I]({{<relref "../..">}})
-
-## Insula
-
+## Excavation Dates
 
 ## House
 
@@ -59,9 +47,4 @@ The garden (a) and cistern that was in the southwest corner of this house had be
 - {{< keyword "cisterns" >}}
 - {{< keyword "puteals" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-
+<!-- Places -->

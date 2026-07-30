@@ -1,0 +1,31 @@
+{{/*
+This takes a collection of pages and returns just those pages
+which are visible, omitting any pages that have a draft:true ancestor.
+*/}}
+{{ $pages := . }}
+
+{{/* This is a replacement for SITE.BuildDrafts,
+     which was deprecated in Hugo v0.156.0 */}}
+{{ $buildDrafts := false }}
+{{ range hugo.Sites.Default.Pages }}
+    {{ if .Draft }}
+        {{ $buildDrafts = true }}
+    {{ end }}
+{{ end }}
+{{ $vpages := slice }}
+{{ if $buildDrafts }}
+    {{ $vpages = $pages }}
+{{ else }}
+    {{ range $p := $pages }}
+        {{ $visible := true }}
+        {{ range $a := $p.Ancestors }}
+            {{ if $a.Draft }}
+                {{ $visible = false }}
+            {{ end }}
+        {{ end }}
+        {{ if $visible }}
+            {{ $vpages = $vpages | append $p }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+{{ return $vpages }}
