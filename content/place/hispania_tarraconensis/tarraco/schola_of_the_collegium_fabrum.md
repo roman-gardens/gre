@@ -34,7 +34,4 @@ The Schola of the *collegium fabrum* had a nympheum (a) decorated by a sculptura
 - {{< keyword "nymphaea" >}}
 - {{< keyword "statues" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="246349" name="Col. Tarraco" >}}
-- {{< id vocab="TGN" id="7008715" name="Tarragona (inhabited place)" >}}
+<!-- ## Places -->

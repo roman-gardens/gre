@@ -50,7 +50,5 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 -->
 
 ## Places
+
 - {{< id vocab="Pleiades" id="246382" name="Emporiae" >}}
-<!--
-- {{< id vocab="TGN" id="" name="" >}}
--->

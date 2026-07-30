@@ -41,7 +41,4 @@ This well-known large house, situated in the center of the eastern side of Neapo
 - {{< keyword "fountains" >}}
 - {{< keyword "exedrae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="246382" name="Emporiae" >}}
-- {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}
+<!-- ## Places -->

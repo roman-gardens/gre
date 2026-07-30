@@ -45,7 +45,4 @@ Monumental baths about 88 meters long and 40 meters wide were built in Flavian t
 - {{< keyword "balnea" >}}
 - {{< keyword "statues" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="266036" name="Segobriga" >}}
-- {{< id vocab="TGN" id="8712888" name="Segobriga (deserted settlement)" >}}
+<!-- ## Places -->

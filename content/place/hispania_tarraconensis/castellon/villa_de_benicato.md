@@ -2,7 +2,7 @@
 slug: "aa2406afa4"
 type: garden
 title: Villa de Benicató
-latlon: [ 39.832943, -0.14602 ]
+latlon: [ 39.832594, -0.145780 ]
 author: Author Name
 contributor: Xingjian Wang, Amelia Lamis
 jashemski-catalogue: TAR 17.1

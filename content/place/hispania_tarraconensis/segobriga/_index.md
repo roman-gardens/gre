@@ -42,8 +42,7 @@ Within the city, there are remarkably few remains of residences.  Presumably the
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="266036" name="Segobriga" >}}
+- {{< id vocab="TGN" id="8712888" name="Segobriga (deserted settlement)" >}}

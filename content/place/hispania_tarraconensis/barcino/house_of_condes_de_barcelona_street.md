@@ -39,6 +39,4 @@ Excavations in the late 1940s and 1950s brought to light the remains of an urban
 - {{< keyword "columns" >}}
 - {{< keyword "mosaics" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="246343" name="Col. Barcino" >}}
+<!-- ## Places -->

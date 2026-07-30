@@ -13,7 +13,7 @@ draft: false
 
 ## Place Description
 
-Despite the rather sparse archaeological evidence for gardens in Tarragona, one of the most important cities of Roman Spain, there is a brief passage at the beginning of [Vergilius orator an poeta](https://latin.packhum.org/loc/1242/2/0#0)by Publius Annius Florus, friend of Hadrian, in which he described a temple garden thought to be in Tarragona, though the city is not mentioned explicitly:*"While I was passing through the temple enclosure my head full of the fatigues of the day, pleasantly resting in the shade of many trees by cool running water breathing fresh air, I suddenly came upon a group of people..."* <!--(Capienti mihi in templo et saucium vigilia caput plurimarum arborum amoenitate, euriporum frigore, aeris libertate recreanti obviam subito quidam fuere)-->
+Despite the rather sparse archaeological evidence for gardens in Tarragona, one of the most important cities of Roman Spain, there is a brief passage at the beginning of [Vergilius orator an poeta](https://latin.packhum.org/loc/1242/2/0#0)by Publius Annius Florus, friend of Hadrian, in which he described a temple garden thought to be in Tarragona, though the city is not mentioned explicitly: *"While I was passing through the temple enclosure my head full of the fatigues of the day, pleasantly resting in the shade of many trees by cool running water breathing fresh air, I suddenly came upon a group of people..."* <!--(Capienti mihi in templo et saucium vigilia caput plurimarum arborum amoenitate, euriporum frigore, aeris libertate recreanti obviam subito quidam fuere)-->
 
 <!--
 ## Maps
@@ -40,8 +40,7 @@ Despite the rather sparse archaeological evidence for gardens in Tarragona, one 
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="246349" name="Col. Tarraco" >}}
+- {{< id vocab="TGN" id="7008715" name="Tarragona (inhabited place)" >}}

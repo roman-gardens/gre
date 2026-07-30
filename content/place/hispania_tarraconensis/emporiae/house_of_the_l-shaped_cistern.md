@@ -39,7 +39,4 @@ This house, which was also set against the lower edge of the city near the port,
 - {{< keyword "burials" >}}
 - {{< keyword "ceramic" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="246382" name="Emporiae" >}}
-- {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}
+<!-- ## Places -->
