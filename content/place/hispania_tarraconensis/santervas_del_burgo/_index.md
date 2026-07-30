@@ -1,7 +1,7 @@
 ---
 slug: "e1c4ad52d6"
 type: place
-title: Villa De Los Villares
+title: Santervas del Burgo
 author: Author Name
 contributor: Amelia Lamis
 date: 2026-05-16
@@ -11,9 +11,7 @@ draft: false
 
 <!-- ## Dates -->
 
-## Place Description
-
-The villa is about 200 meters south of the center of the modern village of Santervas del Burgo and about 100 meters south of the left bank of the river Cejos. It is 57 km W of Soria, 85 km southeast of Burgos, and 151 km NNE of Madrid. The ruins are reburied beneath the earth in a field, awaiting funds to present them properly.
+<!-- ## Place Description -->
 
 <!--
 ## Maps
