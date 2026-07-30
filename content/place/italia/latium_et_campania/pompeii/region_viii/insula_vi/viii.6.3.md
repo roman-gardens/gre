@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -22,10 +24,6 @@ Only the bases remain of the fourteen brick columns that enclosed this garden (a
 ## Plans
 
 {{< image file="fig.20.region_viii.insula_vi.png" caption="Fig. 20, Plan of Region VIII, Insula VI" credit="" alt="" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

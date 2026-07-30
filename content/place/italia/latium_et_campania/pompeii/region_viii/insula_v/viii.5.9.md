@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+1881
 
 ## Garden Description
 
@@ -28,10 +30,6 @@ At the rear of the tablinium excavated in 1881 a narrow garden (a) had a portico
 - {{< keyword "tablina" >}}
 - {{< keyword "puteals" >}}
 - {{< keyword "porticoes" >}}
-
-## Excavation Dates
-
-1881
 
 ## Bibliography
 

@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -28,10 +30,6 @@ This caupona had originally been part of a house according to Fiorelli. The unus
 - {{< keyword "cauponae" >}}
 - {{< keyword "podiums (platforms)" >}}
 - {{< keyword "pergolas" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

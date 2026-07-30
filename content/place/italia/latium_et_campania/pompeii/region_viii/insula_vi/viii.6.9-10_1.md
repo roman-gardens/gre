@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -33,10 +35,6 @@ The atrium at the front of this house had been converted into a bakery. Towards 
 - {{< keyword "insulae" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "opus signinum" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

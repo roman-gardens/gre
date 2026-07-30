@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -28,10 +30,6 @@ The room (b) to the east had a good view into this garden (a) which was located 
 
 - {{< keyword "tablina" >}}
 - {{< keyword "porticoes" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

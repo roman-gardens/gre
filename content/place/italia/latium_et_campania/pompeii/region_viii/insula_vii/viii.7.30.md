@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -26,10 +28,6 @@ The Doric Temple in the Triangular Forum was excavated between 1767 and 1797. A 
 ## Keywords
 
 - {{< keyword "porticoes" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

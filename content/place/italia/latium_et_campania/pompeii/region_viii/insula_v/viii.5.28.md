@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -29,10 +31,6 @@ Three wide doorways led from the atrium of this house, which did not have a tabl
 - {{< keyword "tablina" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

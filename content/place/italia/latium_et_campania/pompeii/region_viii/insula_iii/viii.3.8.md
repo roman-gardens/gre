@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -28,10 +30,6 @@ Fourteen fluted white columns supported a portico that enclosed this large garde
 - {{< keyword "porticoes" >}}
 - {{< keyword "tablina" >}}
 - {{< keyword "exedrae (interior spaces)" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+1861
 
 ## Garden Description
 
@@ -28,10 +30,6 @@ These two shops, excavated in 1861, shared a house and a garden (a) to the back.
 - {{< keyword "porticoes" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "dolia" >}}
-
-## Excavation Dates
-
-1861
 
 ## Bibliography
 

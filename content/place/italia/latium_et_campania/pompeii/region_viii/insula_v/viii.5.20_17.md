@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -27,10 +29,6 @@ Entry no. 17 from the angioportus offered a second access to this garden at the 
 
 - {{< keyword "angiportus" >}}
 - {{< keyword "cauponae" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

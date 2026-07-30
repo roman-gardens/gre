@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -22,10 +24,6 @@ The rear of this shop-house had a garden (a), perhaps with rooms overhead suppor
 ## Plans
 
 {{< image file="fig.23.region_viii.insula_vii.1-15.png" caption="Fig.23, Plan of Region VIII, Insula VII" credit="" alt="" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

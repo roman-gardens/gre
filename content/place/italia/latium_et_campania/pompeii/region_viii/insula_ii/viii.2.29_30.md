@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -27,10 +29,6 @@ There was a narrow portico on the eastern lower level of this double house 2.20 
 ## Keywords
 
 - {{< keyword "porticoes" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

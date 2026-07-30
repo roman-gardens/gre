@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -30,10 +32,6 @@ This garden (a) was tucked around the right end of a long fauces which led from 
 ## Keywords
 
 - {{< keyword "porticoes" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -27,10 +29,6 @@ The famous painting "Judgment of Solomon" (0.45 x 1.55m.; Mus. Naz. inv. no. 113
 
 - {{< keyword "porticoes" >}}
 - {{< keyword "atriums" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

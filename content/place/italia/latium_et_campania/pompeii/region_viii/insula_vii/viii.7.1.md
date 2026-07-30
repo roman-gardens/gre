@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+1874
 
 ## Garden Description
 
@@ -33,10 +35,6 @@ This caupona, excavated in 1874, had a garden (a) across the back with a low wal
 
 - {{< keyword "cauponae" >}}
 - {{< keyword "pomerium" >}}
-
-## Excavation Dates
-
-1874
 
 ## Bibliography
 

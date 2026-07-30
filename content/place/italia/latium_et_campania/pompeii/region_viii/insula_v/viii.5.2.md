@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -28,10 +30,6 @@ At the time of the eruption this peristyle garden (a) was in the process of reno
 - {{< keyword "peristyles" >}}
 - {{< keyword "tablina" >}}
 - {{< keyword "puteals" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

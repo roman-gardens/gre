@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+1861
 
 ## Garden Description
 
@@ -36,10 +38,6 @@ The earthquake most likely was the reason the corner columns were reinforced by 
 - {{< keyword "exedrae (site elements)" >}}
 - {{< keyword "triclinia (rooms)" >}}
 <!-- TODO: not sure which exedrae -->
-
-## Excavation Dates
-
-1861
 
 ## Bibliography
 

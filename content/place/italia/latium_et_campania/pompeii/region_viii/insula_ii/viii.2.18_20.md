@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -30,10 +32,6 @@ B. The irregular shapes of the buildings created this triangular light well. Two
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "triclinia (rooms)" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

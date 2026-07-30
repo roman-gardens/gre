@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -27,10 +29,6 @@ This small house had a roofed passageway supported by one column that bordered t
 
 - {{< keyword "masonry" >}}
 - {{< keyword "aedicules" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

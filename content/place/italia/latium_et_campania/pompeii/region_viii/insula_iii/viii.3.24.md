@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -29,10 +31,6 @@ B. Backed up to the ancient caupona there was a second garden (b) next to the tr
 - {{< keyword "porticoes" >}}
 - {{< keyword "puteals" >}}
 - {{< keyword "triclinia (rooms)" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

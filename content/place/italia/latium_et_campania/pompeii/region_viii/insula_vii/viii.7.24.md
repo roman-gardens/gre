@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -28,10 +30,6 @@ The rooms adjoining the atrium of this house, excavated in 1795-1798, had been c
 - {{< keyword "atriums" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "triclinia (rooms)" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

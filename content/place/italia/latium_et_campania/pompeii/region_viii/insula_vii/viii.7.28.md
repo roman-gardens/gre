@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+1764-1766
 
 ## Garden Description
 
@@ -22,10 +24,6 @@ This temple site was excavated in 1764-1766 and although, as Jashemski points ou
 ## Plans
 
 {{< image file="fig.28.region_viii.insula_vii.24-27.png" caption="Fig. 28, Plan of Region VIII, Insula VII, 24-27" credit="" alt="" >}}
-
-## Excavation Dates
-
-1764-1766
 
 ## Bibliography
 

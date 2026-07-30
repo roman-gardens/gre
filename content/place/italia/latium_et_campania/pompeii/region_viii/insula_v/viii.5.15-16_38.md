@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -36,10 +38,6 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 - {{< keyword "angiportus" >}}
 - {{< keyword "puteals" >}}
 - {{< keyword "porticoes" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

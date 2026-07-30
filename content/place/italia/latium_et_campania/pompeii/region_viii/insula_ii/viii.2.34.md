@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -29,10 +31,6 @@ A colonnaded portico stood at the edge of the terrace (a) on the street level of
 - {{< keyword "porticoes" >}}
 - {{< keyword "Crocodylidae" >}}
 - {{< keyword "Hippopotamus" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

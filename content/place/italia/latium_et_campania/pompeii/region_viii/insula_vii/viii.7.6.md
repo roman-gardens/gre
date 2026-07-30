@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+1906
 
 ## Garden Description
 
@@ -35,10 +37,6 @@ The extremely long entranceway from the street led all the way to the back of th
 - {{< keyword "dolia" >}}
 - {{< keyword "lararia" >}}
 - {{< keyword "pergolas" >}}
-
-## Excavation Dates
-
-1906
 
 ## Bibliography
 

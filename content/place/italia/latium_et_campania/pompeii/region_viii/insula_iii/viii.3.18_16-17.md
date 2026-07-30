@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+1826
 
 ## Garden Description
 
@@ -27,10 +29,6 @@ When this house was excavated in 1826, Fiorelli determined that after the earthq
 
 - {{< keyword "porticoes" >}}
 - {{< keyword "pilasters" >}}
-
-## Excavation Dates
-
-1826
 
 ## Bibliography
 

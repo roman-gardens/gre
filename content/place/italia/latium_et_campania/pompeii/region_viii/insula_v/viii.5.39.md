@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -30,10 +32,6 @@ B. The northwest corner of this small house contained a second garden (b) just o
 - {{< keyword "tablina" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "porticoes" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+1799
 
 ## Garden Description
 
@@ -32,10 +34,6 @@ This house was excavated in 1799 and to the rear of the tablinium there was a po
 
 - {{< keyword "tablina" >}}
 - {{< keyword "porticoes" >}}
-
-## Excavation Dates
-
-1799
 
 ## Bibliography
 

@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+1860-1861
 
 ## Garden Description
 
@@ -26,10 +28,6 @@ What was formerly a garden with a pool was converted into a large open area (a) 
 ## Keywords
 
 - {{< keyword "tablina" >}}
-
-## Excavation Dates
-
-1860-1861
 
 ## Bibliography
 

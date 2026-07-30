@@ -13,7 +13,7 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+<!-- ## Excavation Dates -->
 
 ## Garden Description
 

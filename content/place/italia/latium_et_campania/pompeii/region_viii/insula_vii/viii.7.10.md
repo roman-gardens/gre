@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -29,10 +31,6 @@ Behind shop no. 10 and the accompanying living quarters was a garden (a) enclose
 - {{< keyword "pergolas" >}}
 - {{< keyword "alabastra" >}}
 - {{< keyword "opus signinum" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+1799
 
 ## Garden Description
 
@@ -28,10 +30,6 @@ This house, very similar to VII.ii.1, was also excavated in 1799. This peristyle
 
 - {{< keyword "peristyles" >}}
 - {{< keyword "sacraria" >}}
-
-## Excavation Dates
-
-1799
 
 ## Bibliography
 

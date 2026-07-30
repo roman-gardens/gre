@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+1829-1830
 
 ## Garden Description
 
@@ -26,10 +28,6 @@ This house, excavated in 1829-1830, had a peristyle garden (a) on the south side
 ## Keywords
 
 - {{< keyword "triclinia (rooms)" >}}
-
-## Excavation Dates
-
-1829-1830
 
 ## Bibliography
 

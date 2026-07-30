@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -38,10 +40,6 @@ A large aedicula shrine was built against the rear wall of this long garden (a) 
 - {{< keyword "statuettes" >}}
 - {{< keyword "thymiateria" >}}
 - {{< keyword "candelabrum (motifs)" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

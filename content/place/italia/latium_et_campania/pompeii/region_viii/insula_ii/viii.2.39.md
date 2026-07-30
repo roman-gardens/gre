@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+First excavated in 1767-1769, Filled in. Re-excavated in 1885-1886
 
 ## Garden Description
 
@@ -29,10 +31,6 @@ This was the last of the houses to be built on the Via della Regina, all of whic
 - {{< keyword "triclinia (couches)" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "cubicula" >}}
-
-## Excavation Dates
-
-First excavated in 1767-1769, Filled in. Re-excavated in 1885-1886
 
 ## Bibliography
 

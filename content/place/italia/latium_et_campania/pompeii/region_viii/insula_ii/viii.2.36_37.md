@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+1885
 
 ## Garden Description
 
@@ -29,10 +31,6 @@ This house was excavated in 1885. The entrance at 37 went into the atrium and be
 - {{< keyword "atriums" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
-
-## Excavation Dates
-
-1885
 
 ## Bibliography
 

@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -27,10 +29,6 @@ This tiny house with the small atrium and adjacent rooms had formerly been a por
 
 - {{< keyword "porticoes" >}}
 - {{< keyword "atriums" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -27,10 +29,6 @@ A public garden laid out to the specifications of Vitruvius originally occupied 
 
 - {{< keyword "porticoes" >}}
 - {{< keyword "puteals" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

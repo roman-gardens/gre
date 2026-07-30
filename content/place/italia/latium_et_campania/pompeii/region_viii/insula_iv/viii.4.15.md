@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -39,10 +41,6 @@ Eighteen partially fluted columns supported the large portico (a) surrounding th
 - {{< keyword "atriums" >}}
 - {{< keyword "impluvia" >}}
 <!-- TODO: not sure which exedrae -->
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

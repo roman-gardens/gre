@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+1882
 
 ## Garden Description
 
@@ -32,10 +34,6 @@ This house was excavated in 1882 to reveal a small garden (a) at the rear entere
 - {{< keyword "atriums" >}}
 - {{< keyword "tablina" >}}
 - {{< keyword "porticoes" >}}
-
-## Excavation Dates
-
-1882
 
 ## Bibliography
 

@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+1883-1884
 
 ## Garden Description
 
@@ -31,10 +33,6 @@ After the earthquake the eastern part of this insula had been converted into a m
 
 - {{< keyword "insulae" >}}
 - {{< keyword "aedicules" >}}
-
-## Excavation Dates
-
-1883-1884
 
 ## Bibliography
 

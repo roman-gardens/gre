@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -34,10 +36,6 @@ Beyond shop 26 and the living quarters behind it there was a very large garden (
 - {{< keyword "porticoes" >}}
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "angiportus" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 

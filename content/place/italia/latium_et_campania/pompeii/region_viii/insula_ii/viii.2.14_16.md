@@ -13,7 +13,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- Excavation Dates -->
+## Excavation Dates
+
+Unspecified
 
 ## Garden Description
 
@@ -31,10 +33,6 @@ B. Built on the volcanic ledge, only a triangular segment of this terrace garden
 - {{< keyword "porticoes" >}}
 - {{< keyword "amphorae" >}}
 - {{< keyword "tondi" >}}
-
-## Excavation Dates
-
-Unspecified
 
 ## Bibliography
 
