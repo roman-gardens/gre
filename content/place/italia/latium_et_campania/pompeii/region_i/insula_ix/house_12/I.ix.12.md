@@ -14,21 +14,9 @@ draft: true
 
 unspecified
 
-## Excavation Date
+## Excavation Dates
 
 1952-1953
-
-## Location
-
-- [Pompeii]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Sublocation
-
-[Region I]({{<relref "../..">}})
-
-## Insula
-
 
 ## House
 
@@ -66,9 +54,4 @@ A low wall connected the three columns and a pillar that supported the *portico*
 - {{< keyword "pillars" >}}
 - {{< keyword "porticoes" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-
+<!-- Places -->

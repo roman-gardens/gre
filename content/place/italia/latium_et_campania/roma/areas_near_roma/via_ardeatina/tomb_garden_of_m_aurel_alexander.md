@@ -14,22 +14,6 @@ draft: true
 
 late second or early third century
 
-## Location
-
-- {{< id vocab="Pleiades" id="587835546" name="Via Ardeatina" >}}
-
-## Sublocation
-
-Via Ardeatina
-
-## Sublocation Description
-
-The Via Ardeatina connected Rome and Ardea.
-
-## Garden
-
-Tomb Garden of M. Aurel(ius) Alexander
-
 ## Garden Description
 
 An epitaph of the late second or early third century found in 1715 between the first and second mile of the Via Ardeatina near the church of S. Balbina records that a senior centurion and Roman knight, M. Aurelius Alexander detached from his house (domus, rather than horti, the expanding urban environment having now encompassed this suburban zone) a cepotaphium made for himself and his wife, Aurelia Antiochiana, their freedmen and descendents. A final injunction aiming to prevent alienation of the property by any means idly threatened transgressors with a fine of 100,000 sesterces (!), to be paid in to the sacred treasury.

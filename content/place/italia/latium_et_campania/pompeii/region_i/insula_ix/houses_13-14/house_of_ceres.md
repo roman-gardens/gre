@@ -14,21 +14,9 @@ draft: true
 
 unspecified
 
-## Excavation Date
+## Excavation Dates
 
 1951-52
-
-## Location
-
-- [Pompeii]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Sublocation
-
-[Region I]({{<relref "../..">}})
-
-## Insula
-
 
 ## House
 
@@ -82,9 +70,4 @@ The natural rising slope of the land made this long upper garden (a) at the rear
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "vases" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-
+<!-- Places -->

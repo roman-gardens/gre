@@ -11,11 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-##  Dates
+## Dates
 
 unspecified
 
-##  Excavation Dates
+## Excavation Dates
 
 Eastern part first excavated 1939 and then 1954 to 1955.
 
@@ -55,4 +55,6 @@ Jashemski examined this garden in 1971 and found a series of cavities along the 
 - {{< keyword "lattices" >}}
 - {{< keyword "dolia" >}}
 
-<!-- ## Places -->
+<!--
+## Places
+-->

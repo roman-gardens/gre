@@ -10,21 +10,7 @@ date: 2021-04-21
 draft: true
 ---
 
-## Location
-
-- {{< id vocab="Pleiades" id="174900201" name="Via Aurelia" >}}
-
-## Sublocation
-
-Via Aurelia
-
-## Sublocation Description
-
-An ancient Roman road begun ca. 241 BCE by the censor C. Aurelius Cotta.
-
-## Garden
-
-Tomb Garden of Terentia
+## Dates
 
 ## Garden Description
 

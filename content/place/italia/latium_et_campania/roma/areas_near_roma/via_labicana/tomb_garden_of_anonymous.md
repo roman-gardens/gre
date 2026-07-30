@@ -14,22 +14,6 @@ draft: true
 
 Unspecified
 
-## Location
-
-- {{< id vocab="Pleiades" id="74935822" name="Via Labicana" >}}
-
-## Sublocation
-
-Via Labicana
-
-## Sublocation Description
-
-An ancient Roman road connecting Rome and Labicum.
-
-## Garden
-
-Tomb Garden of Anonymous
-
 ## Garden Description
 
 A fragmentary marble slab found beside the Via Labicana near the cemetery of Centocelle and recording the end of an epitaph addressed in part to an Aurelius identifies a cepotaphium in the formulaic clause prohibiting misuse or alienation of the tomb property.

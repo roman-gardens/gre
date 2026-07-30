@@ -14,25 +14,6 @@ draft: false
 
 80 CE
 
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-- [Region IX Circus Flaminius]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="422863" name="Campus Martius" >}}
-
-## Garden
-
-Garden of the Divorum
-
 ## Garden Description
 
 The [Divorum](https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Divorum.html), also known as the *Templum Divorum* (Degrassi 13.1.103, 233) and the *Porticus Divorum*, was a [*porticus*](http://vocab.getty.edu/page/aat/300004145) with two small [temples](http://vocab.getty.edu/page/aat/300007595) built in honor of [Titus](https://en.wikipedia.org/wiki/Titus) and [Vespasian](https://en.wikipedia.org/wiki/Vespasian) by [Domitian](https://en.wikipedia.org/wiki/Domitian), who constructed the complex after the first of 80 CE on the site of the [Villa Publica](https://www.digitalaugustanrome.org/records/villa-publica) ([Chronographer of 354 CE](http://www.tertullian.org/fathers/chronography_of_354_14_regions_of_rome.htm)). The Divorum, known from its depiction on the [Severan Marble Plan (*FUR*)](https://formaurbis.stanford.edu/index.php?field0=all&search0=DIVORUM&op0=and&field1=all&search1=) (Fig.1), is located on the eastern [*Campus Martius*](https://en.wikipedia.org/wiki/Campus_Martius) among other religious structures, including the [Temple of Minerva Chalcidica](https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Minerva_Chalcidica.html), which visually integrated with the Divorum.
@@ -67,7 +48,6 @@ From the northern *exedra*, a water [channel](http://vocab.getty.edu/page/aat/30
 - {{< keyword "temples" >}}
 - {{< keyword "triumphal arches" >}}
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-<!-- Pleiades resource for Location (Rome), not for the individual garden -->
+-->

@@ -3,7 +3,7 @@ slug: "066d8c3855"
 type: place
 title: Regio IX Circus Flaminius
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-06-01
 
 draft: false
@@ -38,8 +38,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="158081395" name="Circus Flaminius" >}}
+- {{< id vocab="Pleiades" id="422863" name="Campus Martius" >}}

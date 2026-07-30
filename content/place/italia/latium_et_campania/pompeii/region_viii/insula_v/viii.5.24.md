@@ -11,26 +11,9 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula V]({{<relref ".">}})
+<!-- Excavation Dates -->
 
 ## Garden Description
 
@@ -45,12 +28,7 @@ The famous painting "Judgment of Solomon" (0.45 x 1.55m.; Mus. Naz. inv. no. 113
 - {{< keyword "porticoes" >}}
 - {{< keyword "atriums" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
+## Excavation Dates
 
 Unspecified
 

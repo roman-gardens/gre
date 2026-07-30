@@ -10,11 +10,12 @@ date: 2021-04-21
 
 draft: false
 ---
-##  Dates
+
+## Dates
 
 unspecified
 
-##  Excavation Dates
+## Excavation Dates
 
 Eastern part first excavated 1939 and then 1954 to 1955.
 
@@ -54,4 +55,6 @@ This vineyard section of the property was excavated in 1984 by Dr. De Caro. A sm
 - {{< keyword "lattices" >}}
 - {{< keyword "dolia" >}}
 
-<!-- ## Places -->
+<!--
+## Places
+-->

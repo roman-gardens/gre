@@ -1,7 +1,7 @@
 ---
 slug: "1d89c56774"
 type: garden
-title: The Palatine 'Stadium'
+title: The Palatine "Stadium"
 latlon: [ 41.889306, 12.487109 ]
 author: Maria Anntonietta Tomei
 contributor: Rhiannon Paré
@@ -14,24 +14,9 @@ draft: false
 
 81-92 CE
 
-## Excavation Date
+## Excavation Dates
 
 unspecified
-
-## Province
-
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
-## Location
-
-- [Rome]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-Palatine Hill \
-- {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
 
 ## Garden
 
@@ -95,6 +80,6 @@ RELATED PHASES ON THE PALATINE:
 - [Vitruvius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476)
 - [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="971691208" name="Palatine Hill" >}}
+-->

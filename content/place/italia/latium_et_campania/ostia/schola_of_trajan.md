@@ -13,7 +13,7 @@ draft: false
 
 built 160-200 CE and abandoned after the 4th century CE
 
-## Excavation Date
+## Excavation Dates
 
 winter of 1938-1939
 

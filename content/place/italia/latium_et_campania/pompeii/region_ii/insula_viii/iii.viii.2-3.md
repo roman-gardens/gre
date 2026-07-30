@@ -13,27 +13,11 @@ draft: false
 
 ## Dates
 
+unspecified
+
+## Excavation Dates
+
 Excavated 1953.
-
-## Province
-
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-## Insula
-
-[Insula VIII]({{<relref ".">}})
 
 ## Garden Description
 
@@ -43,6 +27,11 @@ Customers at this thermopolium were served at a counter looking onto the street 
 
 {{< image file="../../fig._62,_plan_of_region_ii,_insula_viii.png" caption="Fig. 62, Plan of Region II, insula viii" credit="" alt="" >}} -->
 
+## Bibliography
+
+- Jashemski, W.F. 1993. *Gardens of Pompeii*, vol.II, p.92 [(worldcat)](https://search.worldcat.org/title/921816405)
+- Orr, David. G. 1972. *Roman Domestic Religion: A Study of the Roman Household Deities and their Shrines at Pompeii and Herculaneum* [(worldcat)](https://search.worldcat.org/title/644432540)
+
 ## Keywords
 
 - {{< keyword "thermopolia" >}}
@@ -50,12 +39,6 @@ Customers at this thermopolium were served at a counter looking onto the street 
 - {{< keyword "lecti" >}}
 - {{< keyword "lararia" >}}
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-## Bibliography
-
-- Jashemski, W.F. 1993. *Gardens of Pompeii*, vol.II, p.92 [(worldcat)](https://search.worldcat.org/title/921816405)
-- Orr, David. G. 1972. *Roman Domestic Religion: A Study of the Roman Household Deities and their Shrines at Pompeii and Herculaneum* [(worldcat)](https://search.worldcat.org/title/644432540)
+-->

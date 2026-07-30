@@ -14,16 +14,13 @@ draft: true
 
 unspecified
 
-## Excavation Date
+## Excavation Dates
 
 1801
 
 ## Location
 
 - {{< id vocab="Pleiades" id="383781" name="Sirmio" >}}
-
-## Sublocation
-
 
 ## Garden
 
