@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula III]({{<relref ".">}})
+Unspecified
 
 ## Garden Description
 
@@ -46,6 +31,16 @@ A large aedicula shrine was built against the rear wall of this long garden (a) 
 {{< image file="fig._7._viii.iii.14_8.23.71.jpg" caption="Fig. 7, 8.23.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="fig._8._viii.iii.14_12.30.59.jpg" caption="Fig. 8, 12.30.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
+## Bibliography
+
+- Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 75, nos. 350, 351 [(worldcat)](https://search.worldcat.org/title/1131425884)
+- Breton, *Pompeia*, p. 497 [(worldcat)](https://search.worldcat.org/title/894211341)
+- Fiorelli, *Descrizione di Pompei*, p. 326 [(worldcat)](https://search.worldcat.org/title/252039996)
+- Jashemski, *Gardens*, vol. II, p. 211 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
+- Fiorelli,ed. *Pompeianarum Antiquitatum Historia*, (Sept. 11, 25, 1839); 373(Oct. 9, 14, 21, 1839); 374 (Oct 28-31, Nov. 4, 1839); Ibid., 3:153 (Sept. 11, 1839); 154 (Sept. 25, 1839); 155 (Oct. 9, Nov. 8, 1839) [(worldcat)](https://search.worldcat.org/title/714988573)
+- Schultz, Bullettino dell'Instituto di Corrispondenza Archeologica (1841), p. 119, [(worldcat)](https://search.worldcat.org/title/646515522)
+
 ## Keywords
 
 - {{< keyword "aedicules" >}}
@@ -57,20 +52,3 @@ A large aedicula shrine was built against the rear wall of this long garden (a) 
 - {{< keyword "candelabrum (motifs)" >}}
 
 ## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-Unspecified
-
-## Bibliography
-
-- Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 75, nos. 350, 351 [(worldcat)](https://search.worldcat.org/title/1131425884)
-- Breton, *Pompeia*, p. 497 [(worldcat)](https://search.worldcat.org/title/894211341)
-- Fiorelli, *Descrizione di Pompei*, p. 326 [(worldcat)](https://search.worldcat.org/title/252039996)
-- Jashemski, *Gardens*, vol. II, p. 211 [(worldcat)](https://search.worldcat.org/title/1113367431)
-- Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
-- Fiorelli,ed. *Pompeianarum Antiquitatum Historia*, (Sept. 11, 25, 1839); 373(Oct. 9, 14, 21, 1839); 374 (Oct 28-31, Nov. 4, 1839); Ibid., 3:153 (Sept. 11, 1839); 154 (Sept. 25, 1839); 155 (Oct. 9, Nov. 8, 1839) [(worldcat)](https://search.worldcat.org/title/714988573)
-- Schultz, Bullettino dell'Instituto di Corrispondenza Archeologica (1841), p. 119, [(worldcat)](https://search.worldcat.org/title/646515522)

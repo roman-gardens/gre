@@ -1,17 +1,23 @@
 ---
-slug: "066d8c3855"
-type: place
-title: Regio IX Circus Flaminius
+slug: "6f7d161e9e"
+type: garden
+title: Casa dell'Albergo
+latlon: [ 0, 0 ]
 author: Author Name
-contributor: Keith Jenkins
-date: 2026-06-01
-
-draft: false
+contributor: Contributor Name
+date: 2026-07-27
+draft: true
 ---
 
-<!-- ## Dates -->
+## Dates
 
-<!-- ## Place Description -->
+
+<!--
+## Excavation Dates
+-->
+
+## Garden Description
+
 
 <!--
 ## Maps
@@ -30,15 +36,19 @@ draft: false
 
 <!--
 ## Bibliography
+
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 
 <!--
 ## Keywords
-- {{< keyword "Example keyword" >}}
+
+- {{< keyword "example" >}}
 -->
 
+<!--
 ## Places
 
-- {{< id vocab="Pleiades" id="158081395" name="Circus Flaminius" >}}
-- {{< id vocab="Pleiades" id="422863" name="Campus Martius" >}}
+- {{< id vocab="Pleiades" id="" name="" >}}
+- {{< id vocab="TGN" id="" name="" >}}
+-->

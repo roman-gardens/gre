@@ -31,12 +31,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Saint-Pierre, House or Public Building
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "porticoes" >}}
-
 ## House Description
 
 Excavations in 1964-1969 on the site of the former [or ancient] church of St. Peter brought partially to light a building with an area of about 1200 sq m.  It was constructed towards the end of the first or beginning of the second century, but it is unclear whether it was public or private.
@@ -53,6 +47,12 @@ The western wing, of which 30 m is known, has rooms richly decorated with marble
 
 - R.  Lauxerois, P. Andre, G. Jourdan, *et  alii, Alba, de  la  cité  gallo-romaine  au  village  (département  de  l'Ardèche)*, Guides  archéologiques  de  la  France, 1985, p. 61-62 [(worldcat)](https://search.worldcat.org/title/241942050)
 - Chr. Fraisse, J. Dupraz, *L'Ardèche*, CAG 07, Gap, 2001, P. 157-158.
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

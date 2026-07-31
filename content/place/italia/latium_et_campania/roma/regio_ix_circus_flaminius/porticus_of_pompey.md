@@ -14,26 +14,6 @@ draft: false
 
 55 BCE
 
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-- [Region IX Circus Flaminius]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="422863" name="Campus Martius" >}}
-
-## Garden
-
-Garden of the Porticus of Pompey \
-- {{< id vocab="Pleiades" id="165546433" name="Porticus Pompei" >}}
-
 ## Garden Description
 
 Completed in 55 BCE on the [*Campus Martius*](https://en.wikipedia.org/wiki/Campus_Martius), the [*Porticus Pompeianae*](https://en.wikipedia.org/wiki/Portico_of_Pompey), or *Porticus of Pompey*, was Rome's first public park ([Plin. *HN* 37.6.13](http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:37.6); [Propertius 2.32.11](http://data.perseus.org/citations/urn:cts:latinLit:phi0620.phi001.perseus-lat2:2.32) | [Trans.]((https://hdl.handle.net/2027/uc1.aa0016309106?urlappend=%3Bseq=179)); [Vitruvius *De Arch.* 5.9.1](http://data.perseus.org/citations/urn:cts:latinLit:phi1056.phi001.perseus-lat1:5.9.1)). Funded by the eastern victories of the general [Gnaeus Pompeius Magnus](https://en.wikipedia.org/wiki/Pompey), the [*Porticus*](http://vocab.getty.edu/page/aat/300004145) comprised a double [*nemus*](http://vocab.getty.edu/page/aat/300008884), enclosed by a [*quadriporticus*](http://vocab.getty.edu/page/aat/300004101), and a [*curia*](https://en.wikipedia.org/wiki/Curia). The western end of the precinct featured his theater-temple complex. The [Pompeium Theatrum](https://en.wikipedia.org/wiki/Theatre_of_Pompey) was the first permanent stone [theater](http://vocab.getty.edu/page/aat/300007117) constructed in Rome; its [*cavea*](http://vocab.getty.edu/page/aat/300004734) served as the steps to Pompey's victory [temple](http://vocab.getty.edu/page/aat/300007595), dedicated to his protector, [Venus Victrix](https://en.wikipedia.org/wiki/Venus_(mythology)).

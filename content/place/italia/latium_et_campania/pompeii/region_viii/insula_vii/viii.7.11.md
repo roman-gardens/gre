@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula VII]({{<relref ".">}})
+Unspecified
 
 ## Garden Description
 
@@ -40,16 +25,9 @@ Behind this shop and the rooms beyond that there was a garden (a).
 
 {{< image file="fig.23.region_viii.insula_vii.1-15.png" caption="Fig.23, Plan of Region VIII, Insula VII" credit="" alt="" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-Unspecified
-
 ## Bibliography
 
 - Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](https://search.worldcat.org/title/1113367431)
 - Viola, *Gli scavi di Pompei dal 1873 al 1878.* In Pompei e la regione sotterrara dal Vesuvio nell' anno LXXIX, p. 17 (where the address is VIII.viii.11) [(worldcat)](https://search.worldcat.org/title/254502217)
+
+## Places

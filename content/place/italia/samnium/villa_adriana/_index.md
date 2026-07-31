@@ -39,8 +39,7 @@ The realization of this magnificent residence must have been a cherished dream o
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="423127" name="Villa Hadriani" >}}
+- {{< id vocab="TGN" id="7006983" name="Hadrian's Villa (ruins)" >}}

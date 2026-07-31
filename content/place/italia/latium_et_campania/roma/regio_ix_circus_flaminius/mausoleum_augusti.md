@@ -18,26 +18,6 @@ between 28 and 23 BCE
 
 1869, 1871-1872, 1907-1908, 1916-1930, 1934-1938
 
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-- [Region IX Circus Flaminius]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="422863" name="Campus Martius" >}}
-
-## Garden
-
-Garden of the Mausoleum of Augustus \
-- {{< id vocab="Pleiades" id="281368358" name="Mausoleum Augusti" >}}
-
 ## Garden Description
 
 The [Mausoleum of Augustus](https://www.digitalaugustanrome.org/records/mausoleum-augustus) was located in the northern [*Campus Martius*](https://en.wikipedia.org/wiki/Campus_Martius) between the [*Via Flaminia*](https://en.wikipedia.org/wiki/Via_Flaminia) and the [Tiber](https://en.wikipedia.org/wiki/Tiber). The exact bounds of the park are unknown, but they stretched from north of the Mausoleum of Augustus to south of the [*Horologium*](http://vocab.getty.edu/page/aat/300404895) and the [Ara Pacis](https://en.wikipedia.org/wiki/Ara_Pacis), which was located along the *Via Flaminia*.

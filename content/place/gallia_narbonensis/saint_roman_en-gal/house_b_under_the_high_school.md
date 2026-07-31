@@ -49,8 +49,6 @@ La Plaine, House B under the High School
 ## Bibliography
 
 - *Maison 1996*, t. II,, p. 362-363
-
-
 - Lancha, Janine. *Recueil General Des Mosaïques De La Gaule: III*. Paris: CNRS, 1981, P. 302-307.[worldcat](https://search.worldcat.org/title/492310522)
 
 

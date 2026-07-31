@@ -35,10 +35,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 House of Sucellus
 
-## Keywords
-
-- {{< keyword "domus" >}}
-
 ## House Description
 
 On leaving the House of the Lion from its northwest corner, following the rue du Rhône west for 35 meters and turning north on the rue des Thermes for 100 meters, one comes to the area now occupied by two structures, the House of Sucellus to the west and the Edifice with Pillars (Edifice aux piliers) to the east. Originally, the whole area was one house, called the House of the Fishpond (Maison au Vivier), which went through two phases. The space was then completely rearranged in a phase known as the House of the Large Gallery (Maison de la Grande Gallery), which was then transformed to its final state: the House of Sucellus to the west and the Edifice with Pillars to the east. The area was unearthed during a programmed excavation in 1990 and was found well preserved. The total surface area is about 2400 square meters.
@@ -57,6 +53,10 @@ On leaving the House of the Lion from its northwest corner, following the rue du
 - *Guide Du Site Saint-Romain-En-Ga*. Paris: Réunion des musées nationaux, 1999, P. 30,33.[worldcat](https://search.worldcat.org/title/43416334)
 - *Recherches Archéologiques a Saint-Romain-En-Gal (1988-1990)*. Vienne, 1992, P. 45-83.[worldcat](https://search.worldcat.org/title/1068996218)
 - Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig.194.[worldcat](https://search.worldcat.org/title/43416334)
+
+## Keywords
+
+- {{< keyword "domus" >}}
 
 ## Places
 

@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula III]({{<relref ".">}})
+Unspecified
 
 ## Garden Description
 
@@ -40,21 +25,6 @@ Fourteen fluted white columns supported a portico that enclosed this large garde
 
 {{< image file="fig.5._region_viii._insula_iii.png" caption="Plan of Region VIII Insula III" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "tablina" >}}
-- {{< keyword "exedrae (interior spaces)" >}}
-
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-Unspecified
-
 ## Bibliography
 
 - Breton, *Pompeia*, p. 453 [(worldcat)](https://search.worldcat.org/title/894211341)
@@ -63,3 +33,11 @@ Unspecified
 - Jashemski, *Gardens*, vol. II, p. 210 [(worldcat)](https://search.worldcat.org/title/1113367431)
 - Schultz, *Annali dell'Instituto di Corrispondenza Archeologica*, 1838, pp. 200-201, [(worldcat)](https://search.worldcat.org/title/263597320)
 - Schultz, *Annali dell'Instituto di Corrispondenza Archeologica*, 1841, p. 120, [(worldcat)](https://search.worldcat.org/title/263597320)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "tablina" >}}
+- {{< keyword "exedrae (interior spaces)" >}}
+
+## Places

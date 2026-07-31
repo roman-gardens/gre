@@ -41,7 +41,6 @@ This description we just reported was the one that Pliny gave us. From what we s
 - {{< keyword "courtyards" >}}
 - {{< keyword "cryptoportici" >}}
 
-
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="422959" name="Laurentes" >}}
+-->

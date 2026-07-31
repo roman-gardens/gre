@@ -1,7 +1,7 @@
 ---
 slug: "00c8ac8a9c"
 type: garden
-title: Pacis
+title: Templum Pacis
 latlon: [ 0, 0 ]
 author:  Elizabeth Macaulay
 contributor: Rhiannon Paré
@@ -13,24 +13,6 @@ draft: true
 ## Dates
 
 71 CE- 410 CE
-
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-[Region IV Templum Pacis]({{<relref ".">}}) \
-
-## Garden
-
-Garden of the Templum Pacis
 
 ## Garden Description
 

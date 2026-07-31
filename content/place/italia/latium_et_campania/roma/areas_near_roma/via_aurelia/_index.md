@@ -11,7 +11,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- ## Place Description -->
+## Place Description
+
+An ancient Roman road begun ca. 241 BCE by the censor C. Aurelius Cotta.
 
 <!--
 ## Maps
@@ -38,8 +40,6 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="174900201" name="Via Aurelia" >}}

@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula V]({{<relref ".">}})
+1882
 
 ## Garden Description
 
@@ -44,6 +29,13 @@ This house was excavated in 1882 to reveal a small garden (a) at the rear entere
 
 {{< image file="fig.19.viii.v.37_12.20.59.jpg" caption="Fig. 19, 12.20.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
+## Bibliography
+
+- Dohl, *Plastik aus Pompeji*,p. 46 [(worldcat)](https://search.worldcat.org/title/52662796)
+- Jashemski, *Gardens*, vol. II, p. 218 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), p. 108 [(worldcat)](https://search.worldcat.org/title/823239162)
+- Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 377, 422 [(worldcat)](https://search.worldcat.org/title/638883283)
+
 ## Keywords
 
 - {{< keyword "atriums" >}}
@@ -51,17 +43,3 @@ This house was excavated in 1882 to reveal a small garden (a) at the rear entere
 - {{< keyword "porticoes" >}}
 
 ## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-1882
-
-## Bibliography
-
-- Dohl, *Plastik aus Pompeji*,p. 46 [(worldcat)](https://search.worldcat.org/title/52662796)
-- Jashemski, *Gardens*, vol. II, p. 218 [(worldcat)](https://search.worldcat.org/title/1113367431)
-- Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), p. 108 [(worldcat)](https://search.worldcat.org/title/823239162)
-- Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 377, 422 [(worldcat)](https://search.worldcat.org/title/638883283)
