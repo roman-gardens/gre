@@ -3,7 +3,7 @@ slug: "4f454d1ead"
 type: place
 title: Attouda
 author: Author Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-07-09
 draft: false
 ---
@@ -40,3 +40,4 @@ draft: false
 ## Places
 
 - {{< id vocab="Pleiades" id="638779" name="Attouda" >}}
+- {{< id vocab="TGN" id="7723040" name=" Hisarköy (inhabited place)" >}}

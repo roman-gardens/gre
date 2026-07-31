@@ -49,3 +49,4 @@ Described as a garden of the city inside its walls (*κῆπον τῆς πόλ�
 ## Places
 
 - {{< id vocab="Pleiades" id="736983" name="Oxyrhynchos" >}}
+- {{< id vocab="TGN" id="7001267" name="Al Bahnasā (inhabited place)" >}}

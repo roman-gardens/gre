@@ -40,3 +40,4 @@ draft: false
 ## Places
 
 - {{< id vocab="Pleiades" id="599581" name="Kos/Cos (island)" >}}
+- {{< id vocab="TGN" id="7010871" name="Kos" >}}

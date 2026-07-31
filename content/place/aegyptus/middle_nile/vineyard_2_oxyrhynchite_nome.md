@@ -51,3 +51,4 @@ A reed plantation, orchard, and garden; location not preserved. Leased in 141 CE
 ## Places
 
 - {{< id vocab="Pleiades" id="736983" name="Oxyrhynchos" >}}
+- {{< id vocab="TGN" id="7001267" name="Al Bahnasā (inhabited place)" >}}

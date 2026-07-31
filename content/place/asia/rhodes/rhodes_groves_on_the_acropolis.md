@@ -13,7 +13,7 @@ draft: true
 
 ## Dates
 
-Unspecified
+second to third centuries CE
 
 ## Excavation Dates
 
@@ -43,8 +43,8 @@ Aelius Aristides (25.6) referred in the second century CE to the parks and grove
 - Carroll-Spillecke, M. 1989. _Κήπος. Der antike griechische Garten._ Vol. 3, _Wohnen in der klassischen Polis_, 86, 94, fig. 12. Munich: Deutscher Kunstverlag. [(worldcat)](https://search.worldcat.org/title/21460064)
 - Hoepfner, W., and E.-L. Schwandner, S. Dakares, and J. Boessneck. 1994. _Haus und Stadt im klassischen Griechenland._ 2nd. ed. Vol. 1, _Wohnen in der klassischen Polis_, 65-66, fig. 41. Munich: Deutscher Kunstverlag. [(worldcat)](https://search.worldcat.org/title/30964330)
 
-
 ## Keywords
+
 - {{< keyword "groves" >}}
 - {{< keyword "sanctuaries" >}}
 - {{< keyword "gymnasiums" >}}

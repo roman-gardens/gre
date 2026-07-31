@@ -49,3 +49,4 @@ Located near the temple of Apollo (or Horos?) at Panopolis. Size not known. Know
 ## Places
 
 - {{< id vocab="Pleiades" id="756613" name="Panopolis/Schmin" >}}
+- {{< id vocab="TGN" id="7001190" name="Akhmīm (inhabited place)" >}}

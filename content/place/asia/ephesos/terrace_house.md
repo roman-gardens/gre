@@ -12,7 +12,7 @@ draft: true
 
 ## Dates
 
-1st-3rd century CE
+first to third century CE
 
 ## Excavation Dates
 
@@ -48,9 +48,9 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 
 ## Bibliography
 
-- Jobst, W. 1977. *Römische Mosaiken aus Ephesos I: Die Hanghäuser des Embolos* 8/2, Figs. 109-130. <!--usually no Figs in AJA bib but kept for easy ref-->Vienna: Verlag der Österreichischen Akademie der Wissenschaften. [(worldcat)](https://search.worldcat.org/title/929054298) 
+- Jobst, W. 1977. *Römische Mosaiken aus Ephesos I: Die Hanghäuser des Embolos* 8/2, Figs. 109-130. Vienna: Verlag der Österreichischen Akademie der Wissenschaften. [(worldcat)](https://search.worldcat.org/title/929054298) 
 - Kearns, C. 2013. “Visual Representations of Gardens: Diachronic Perspectives on the Art of Landscape.” In *A Cultural History of Gardens. Vol. 1, Antiquity*, edited by K.L. Gleason, 164–65. London: Bloomsbury Academic. [(worldcat)](https://search.worldcat.org/title/968338784)
-- Strocka, V.M. 1977. *Die Wandmalerei der Hanghäuser in Ephesos. Forschungen in Ephesos* 8/1, Figs. 207-219.<!--usually no Figs in AJA bib but kept for easy ref--> Vienna: Verlag der Österreichischen Akademie der Wissenschaften. [(worldcat)](https://search.worldcat.org/title/6928546)
+- Strocka, V.M. 1977. *Die Wandmalerei der Hanghäuser in Ephesos. Forschungen in Ephesos* 8/1, Figs. 207-219. Vienna: Verlag der Österreichischen Akademie der Wissenschaften. [(worldcat)](https://search.worldcat.org/title/6928546)
 
 ## Keywords
 

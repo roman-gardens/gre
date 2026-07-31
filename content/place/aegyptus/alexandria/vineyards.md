@@ -51,3 +51,4 @@ These vineyards (*ἄμπελοι*) with a rose garden (*ῥοδεών*) and fav
 ## Places
 
 - {{< id vocab="Pleiades" id="727097" name="Canopus" >}}
+- {{< id vocab="TGN" id="1099727" name="Canopus (deserted settlement)" >}}
