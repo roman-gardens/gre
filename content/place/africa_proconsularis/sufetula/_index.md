@@ -6,12 +6,10 @@ author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16
 
-draft: false
+draft: true
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 Sufetula founded under Vespasian was a center of oil production. Excavations have shown that the city was laid out on a grid plan that was not strictly followed. Numerous buildings have been uncovered among them the forum, the capitol, the triumphal gateway dedicated to Antonius Pius, a triumphal arc of the Tetrarchy, the Great baths, the theater and the episcopal group that comprised two large basilicas called Vitalis and Bellator, which are separated from each other by the Jucundus Chapel. Annexes, among them, small baths and probably the dwellings of the clergy, surround this complex.
 

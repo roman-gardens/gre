@@ -8,7 +8,7 @@ date: 2021-04-21
 draft: true
 ---
 
-<!-- ## Province Description -->
+## Province Description
 
 <!-- TODO: the province borders have separate Pannonia Inferior/Superior
    Do we want to list both provinces, or combine the polygons?

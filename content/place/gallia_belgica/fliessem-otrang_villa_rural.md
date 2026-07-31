@@ -14,25 +14,6 @@ draft: true
 
 Unspecified
 
-## Location
-
-- [FLIESSEM-OTRANG  (Germany)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="108982" name="Römische Villa Otrang" >}}
-
-
-<!-- ## Sublocation -->
-
-<!--
-[AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!-- ## Sublocation Description -->
-
-## Garden
-
-Rural Villa
-
 ## Garden Description
 
 This *villa rustica* was built on the slope of a hill about 30 kilometers north of Colonia Augusta Treverorum, close to the Roman road from Trier to Cologne, now B 51/E29. It is a kilometer or two south of the village of Fliessem. The original core of the villa is of second century date, but the building was enlarged considerably in the third century to take up an area of 4225 square meters (Fig. 1). It was occupied until around CE 400. The house (A on plan) occupied a position at the eastern end of the property, and in its final state it measured 60 x 60 meters and had 66 rooms, many of them decorated with *mosaic* floors. On the northern and southern sides were *porticoes*, and from the southern *portico* with its pavilions a view of the valley below was afforded.
@@ -59,8 +40,6 @@ The entrance to the house on the west was flanked by two protruding pavilions fr
 - {{< keyword "porticoes" >}}
 - {{< keyword "courtyards" >}}
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="108982" name="Römische Villa Otrang" >}}
-- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
-
+-->

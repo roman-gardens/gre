@@ -6,22 +6,12 @@ latlon: [ 51.318926, 0.479999 ]
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2021-04-21
-
 draft: false
 ---
 
 ## Dates
 
 mid-1st to 4th century CE
-
-## Location
-
-- [Eccles]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="79448" name="Eccles" >}}
-
-## Garden
-
-Rural Villa in Eccles
 
 ## Garden Description
 
@@ -52,9 +42,4 @@ This country estate in modern Kent possessed a large ornamental pool (P in Fig. 
 - {{< keyword "villae rusticae" >}}
 - {{< keyword "water baths" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="79448" name="Eccles" >}}
-- {{< id vocab="TGN" id="1029144" name="Eccles (inhabited place)" >}}
-
-
+<!-- ## Places -->

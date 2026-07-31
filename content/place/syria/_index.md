@@ -10,7 +10,7 @@ draft: true
 
 <!-- ## Dates -->
 
-<!-- ## Province Description -->
+## Province Description
 
 In 64 BCE, after his successes in Armenia, Pompey the Great added Syria to the list of annexed eastern provinces of the growing Roman Empire. The conquest of Syria had not been difficult, because the remnants of the once dominant Seleucid Empire had weakened following the defeats of king Antiochus III at Thermopylae in 191 and Magnesia in Asia shortly after. The Seleucids could ultimately not withstand the powers of the Nabatean kingdom to the south, the Hasmonean kingdom to the west, and the new threats of Roman hegemony. With the fall of the Seleucids, Rome inherited the majority of Alexander the Great’s former conquests, and the Syrian desert would become a stage for Roman emperors to settle civil conflicts and win triumphs. Smaller Arab settlements sprang up across the region, re-inhabiting Seleucid sites and establishing new ones, and cities such as Palmyra grew in power by taking over the wealthy trade routes of the Nabateans in the second century CE. The Syrian city of Antioch, formerly Seleucia, would become one of the greatest cities of the Roman empire. Although influenced by western styles in art and architecture, due to the Macedonian presence in the region before the arrival of the Romans, the cities remained Syrian in culture, population and character.
 

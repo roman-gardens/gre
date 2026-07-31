@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula V]({{<relref ".">}})
+1881
 
 ## Garden Description
 
@@ -40,6 +25,12 @@ At the rear of the tablinium excavated in 1881 a narrow garden (a) had a portico
 
 {{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="" >}}
 
+## Bibliography
+
+- Fiorelli, *Notizie degli scavi di Antichita* (1881), p. 332 [(worldcat)](https://search.worldcat.org/title/638883283)
+- Jashemski, *Gardens*, vol. II, p. 216 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 175-176 [(worldcat)](https://search.worldcat.org/title/823239162)
+
 ## Keywords
 
 - {{< keyword "tablina" >}}
@@ -47,16 +38,3 @@ At the rear of the tablinium excavated in 1881 a narrow garden (a) had a portico
 - {{< keyword "porticoes" >}}
 
 ## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-1881
-
-## Bibliography
-
-- Fiorelli, *Notizie degli scavi di Antichita* (1881), p. 332 [(worldcat)](https://search.worldcat.org/title/638883283)
-- Jashemski, *Gardens*, vol. II, p. 216 [(worldcat)](https://search.worldcat.org/title/1113367431)
-- Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), pp. 175-176 [(worldcat)](https://search.worldcat.org/title/823239162)

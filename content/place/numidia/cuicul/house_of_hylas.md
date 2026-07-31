@@ -2,11 +2,10 @@
 slug: "12538be0d9"
 type: garden
 title: House of Hylas, Central District (Maison de Castorius, Quartier central)
-latlon: [ 36.317690, 5.736683 ]
+latlon: [ 36.320338, 5.736250]
 author: Michèle Blanchard-Lemée
-contributor: Brandon Wilson
+contributor: Brandon Wilson, Keith Jenkins
 date: 2021-04-21
-
 draft: false
 ---
 
@@ -17,30 +16,6 @@ draft: false
 ## Excavation Dates
 
 1938
-
-## Province
-
-- {{< id vocab="Pleiades" id="981539" name="Numidia (Roman province)" >}}
-
-## Province Description
-
-The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar's reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.
-
-## Location
-
-- [Cuicul]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}
-
-
-{{< image file="cuicul_house_of_hylas.jpg" caption="Fig. 1: Plan of Cuicul" credit="(AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)" alt="" >}}
-
-## Location Description
-
-The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual "Little Kabylie" region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.
-
-## Garden
-
-House of Hylas, Central District (Maison de Castorius, Quartier central)
 
 ## Garden Description
 
@@ -69,6 +44,4 @@ On the side of the corridor leading from the Severan Forum, there was a garden, 
 - {{< keyword "peristyle houses" >}}
 - {{< keyword "semicircular basin" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="305068" name="Cuicul" >}}
+<!-- ## Places -->

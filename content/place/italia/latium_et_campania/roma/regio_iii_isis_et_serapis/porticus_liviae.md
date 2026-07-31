@@ -14,23 +14,12 @@ draft: false
 
 7 CE
 
-## Excavation Date
+## Excavation Dates
 
 1984- C. Panella
 
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
 ## Location
 
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-[Region III Isis et Serapis]({{<relref ".">}}) \
 Oppian Hill \
 Esquiline Hill [Esquilinus Mons](https://pleiades.stoa.org/places/679976755) \
 
@@ -83,7 +72,6 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 - [Plutarch](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1144)
 - [Strabo](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1333)
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-<!-- Pleiades resource for Location (Roma), not for Porticus Liviae -->
+-->

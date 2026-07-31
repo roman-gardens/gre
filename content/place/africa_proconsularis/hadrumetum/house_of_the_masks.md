@@ -6,26 +6,12 @@ latlon: [ 35.825866, 10.63878 ]
 author: Amina-Aïcha Malek
 contributor: Maureen Carroll, Yuming Huang
 date: 2021-04-21
-
 draft: true
 ---
 
 ## Dates
+
 2nd century CE
-
-## Location
-
-- [Hadrumetum (Sousse)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="324716" name="Hadrumetum" >}}
-
-{{< image file="hadrumetum_city_plan.jpg" caption="Fig. 1: Plan of Hadrumetum" credit="(Ghaddhab, R., 2016, P.182)" alt="">}}
-
-## Location Description
-
-Hadrumetum is located on the bay of Hammamet at the edge of the fertile region of Sahel from which it drew its wealth.  Choosing the side of Rome against Carthage during the Punic war, Hadrumetum was rewarded with the status of free town. Taking the side of Pompey, the city was heavily fined by Caesar after his victory at Thapsus. Nevertheless, the opulence of its houses adorned with luxurious mosaics testifies that the city experienced great economic development after its elevation to the status of colony, under Trajan.
-## Garden
-
-House of the Masks (Maison des Masques)
 
 ## Garden Description
 

@@ -31,6 +31,9 @@ a.id {
 .post__title a {
   color: #282;
 }
+.post__title a.draft {
+  color: #d70;
+}
 
 blockquote {
   border-left: 4px solid #ccc;
@@ -73,6 +76,10 @@ div.test-header {
 div.container {
   margin: 0 auto;
   max-width:1280px;
+}
+
+div.container:has(.meta) {
+  max-width:100%;
 }
 
 figure {
@@ -123,6 +130,10 @@ footer a[target=_blank] {
 h1, h2, h3, h4, h5, h6 {
   margin: 0.5em 0 0;
   font-family: "Candara", Arial, sans-serif;
+}
+
+h3 {
+  margin-left: 0.8em;
 }
 
 hr {
@@ -273,22 +284,30 @@ article.list__item em {
 
 #map .dot {
   background: #282;
-  border: 0.5px solid #aea;
+  border: 0.5px solid #eee;
   border-radius: 50%;
-  box-shadow: 1px 2px rgb(0 0 0 / 50%);
+  box-shadow: 2px 2px 2px rgb(0 0 0 / 80%);
   height: 10px ! important;
   width: 10px ! important;
+}
+#map .dot.draft {
+  background:#f80;
+}
+
+#map .leaflet-popup-content {
+  font-family: "Candara", Arial, sans-serif;
+  font-size: 1rem;
 }
 
 #map .leaflet-popup-content a {
   color: #282;
-  font-family: "Candara", Arial, sans-serif;
   font-size: 1rem;
   font-weight: bold;
 }
 
-#map .leaflet-popup-content a.smallcrumbs {
+#map .leaflet-popup-content .smallcrumbs {
   color: #c22d30;
+  font-size: 0.8rem;
 }
 
 #search-results-summary {
@@ -320,10 +339,28 @@ article.list__item em {
   margin-top: 1em;
 }
 
+.people-gardens a {
+  color: #282;
+}
+
+.people-gardens li.place a {
+  color: #c22d30;
+}
+
+span.draft {
+  background: #f80;
+  color: #fff;
+  font-family: "Arial", sans-serif;
+  font-size: 70%;
+  font-weight: normal;
+  padding: 0 0.5em;
+  border-radius: 0.5em;
+}
+
 .smallcrumbs {
   font-family: "Candara", "Arial", sans-serif;
   color: #c22d30;
-  font-size: 100%;
+  font-size: 1rem;
   margin: 0;
   line-height: 1.0;
 }
@@ -349,7 +386,7 @@ article.list__item em {
   text-align: right;
 }
 
-.draft {
+article.draft {
   background: #fff2e7;
 }
 
@@ -376,14 +413,21 @@ article.list__item em {
   clear: none;
 }
 
-a.cite {
-  float: right;
-  cursor: pointer;
+button {
   background: #c23e40;
   color: #fff;
   padding: 3px 0.7em;
+  border: 0px;
   border-radius: 1em;
   font-family: Arial, Helvetica, sans-serif;
+}
+button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+button.cite {
+  float: right;
 }
 
 cite {
@@ -410,21 +454,25 @@ table.meta th {
   color: #fff;
 }
 
+table.meta th:hover {
+  background: #822d30;
+  cursor: pointer;
+}
+
 table.meta.garden th {
   background: #282;
 }
 
-table.meta th:hover {
-  background: #822d30;
-  cursor: pointer;
+table.meta.garden th:hover {
+  background: #040;
 }
 
 table.meta a {
   color: #c22d30;
 }
 
-table.meta.garden a {
-  color: #282;
+table.meta ul {
+  margin: 0 0 0 1em;
 }
 
 table.meta tr.draft {
@@ -460,6 +508,44 @@ xh6::after { content: 'h6' }
 sup {
   font-size: 75%;
 }
+
+.embed-place-description {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+  margin: 0;
+  padding: 0;
+}
+.embed-place-description.expanded {
+  display: block;
+}
+button.expand {
+  margin-left: 0.5em;
+  background: inherit;
+  color: #c22d30;
+  border: none;
+  border-radius: 0; 
+  font-size: 85%;
+}
+button.expand:hover {
+  text-decoration: underline;
+}
+
+h2 span.dev {
+  font-size: 68%;
+  font-weight: normal;
+}
+
+.dev {
+  color:#0f0;
+  background: #000;
+  font-family: "Consolas", monospace;
+  font-size: 90%;
+  padding: 3px;
+}
+
 
 /* Greek letters detected via detectGreek() in custom.js */
 em:lang(el) {

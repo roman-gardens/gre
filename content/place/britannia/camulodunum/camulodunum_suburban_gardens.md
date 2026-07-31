@@ -6,7 +6,6 @@ latlon: [ 51.889795, 0.893567 ]
 author: Maureen Carroll
 contributor: June Dorsch, Keith Jenkins
 date: 2021-04-21
-
 draft: false
 ---
 
@@ -40,9 +39,4 @@ Fig. 1: Area outside the Balkerne gate before widening of the town ditch. Detail
 - {{< keyword "ditches" >}}
 - {{< keyword "villae suburbanae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="79393" name="Col. Camulodunum" >}}
-- {{< id vocab="TGN" id="7011866" name="Colchester (inhabited place)" >}}
-
-
+<!-- ## Places -->

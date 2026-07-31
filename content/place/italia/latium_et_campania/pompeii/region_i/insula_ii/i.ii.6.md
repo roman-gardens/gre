@@ -10,25 +10,13 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+## Dates
 
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+unspecified
 
-## Location
+## Excavation Dates
 
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-[Region I]({{<relref ".">}})
-## Insula
-
-[Insula II]({{<relref "#">}})
+Excavated 1872. Bombed in 1943.
 
 ## Garden Description
 
@@ -51,16 +39,6 @@ The west portico of the small peristyle garden at the rear of the house was ente
 - {{< keyword "porticoes" >}}
 - {{< keyword "stucco" >}}
 
-## Garden
-
-Small peristyle garden at the rear of the house.
-
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="222138654" name="Regio I, Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-##  Excavation Dates
-
-Excavated 1872. Bombed in 1943.
-
+-->

@@ -6,22 +6,12 @@ latlon: [ 51.679234, -0.549776 ]
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2021-04-21
-
 draft: false
 ---
 
 ## Dates
 
 early 4th century CE - unspecified
-
-## Location
-
-- [Latimer]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="79555" name="Latimer" >}}
-
-## Garden
-
-Rural Villa in Latimer
 
 ## Garden Description
 
@@ -55,9 +45,4 @@ Excavations at this country house in Buckinghamshire have produced evidence for 
 - {{< keyword "vegetable gardens" >}}
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="79555" name="Latimer" >}}
-- {{< id vocab="TGN" id="1029792" name="Latimer (inhabited place)" >}}
-
-
+<!-- ## Places -->

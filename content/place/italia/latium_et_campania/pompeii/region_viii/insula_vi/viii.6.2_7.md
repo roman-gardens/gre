@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula VI]({{<relref ".">}})
+Unspecified
 
 ## Garden Description
 
@@ -44,22 +29,15 @@ At the time of the eruption this site (a) was under construction. A portico was 
 
 {{< image file="fig.21.viii.6.2 12.31.59.jpg" caption="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-Unspecified
-
 ## Bibliography
 
 - *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), plan between pp. 170 and 171 where this garden is VIII.vii.[6][(worldcat)](https://search.worldcat.org/title/955010670)
 - Jashemski, *Gardens*, vol. II, p. 219 [(worldcat)](https://search.worldcat.org/title/1113367431)
 - Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1884), p. 137 plan [(worldcat)](https://search.worldcat.org/title/823239162)
 - Sogliano, *Notizie degli scavi di Antichita* (1882), p. 281, 324, 359-360 [(worldcat)](https://search.worldcat.org/title/638883283)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+
+## Places

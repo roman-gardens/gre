@@ -6,12 +6,10 @@ author: Amina-Aïcha Malek
 contributor: Maureen Carroll, Yuming Huang, Keith Jenkins
 date: 2025-09-16
 
-draft: false
+draft: true
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 The important site Gigthis (50ha) largely excavated in the beginning of the last century by Constans was located on the opposite side of the Jerba Island, on the Gulf of Bou Grara. The remains of Gigthis stretches out along the foothills going down the coast in a fertile region known for its olive groves.
 

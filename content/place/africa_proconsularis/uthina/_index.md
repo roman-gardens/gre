@@ -6,12 +6,10 @@ author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16
 
-draft: false
+draft: true
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 Uthina was a town in the province of Africa Proconsularis, now northern Tunisia. Uthina became a Roman colony of veterans of Legio XIII Gemina during the reign of Emperor Augustus. Hence, it was mentioned by Ptolemy (IV, 3, 34), Pliny the Elder, and the Tabula Peutingeriana.
 

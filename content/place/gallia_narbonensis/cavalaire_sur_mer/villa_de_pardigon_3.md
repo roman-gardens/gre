@@ -36,13 +36,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Villa de Pardigon 3
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "reception rooms" >}}
-
 ## Villa Description
 
 This wine-producing villa, constructed under the Flavians, lies in the plain, in immediate proximity to the sea.  Excavated in 1985 and 1986 and covering an area of some 2000 square meters, it went through three stages between the last quarter of the first century and the beginning of the third century.  The site was then re-occupied in the fourth century.
@@ -58,6 +51,13 @@ In a final stage, at the beginning of the third century, the garden was transfor
 ## Bibliography
 
 -  Brun, Jean-Pierre. *Carte Archéologique De La Gaule: 83, Le Var 1*. Paris, 1999, vol.2, P. 324-330, plan P. 326. [(worldcat)](https://search.worldcat.org/title/1074683092)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "reception rooms" >}}
 
 ## Places
 

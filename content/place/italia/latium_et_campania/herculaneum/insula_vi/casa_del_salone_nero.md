@@ -4,7 +4,7 @@ type: garden
 title: Casa del Salone Nero (VI.13/11)
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-contributor: Yifan Li
+contributor: Yifan Li, Chiara Romano
 jashemski-catalogue: 556
 date: 2021-04-21
 
@@ -42,7 +42,7 @@ Casa del Salone Nero
 
 ## Garden Description
 
-Excavation of this garden (a) to the rear of this elegant house took place in the spring of 1939. The garden was completely surround by a portico which had eight columns and two pillars on the north side with engaged columns placed strategically so as to provide an unimpeded view from the tablinum. The southwest corner of the garden was the location of a small pool (0.82 x 0.63).
+Excavation of this garden (a) to the rear of this elegant house took place in the spring of 1939. The garden was completely surround by a *portico* which had eight columns and two pillars on the north side with engaged columns placed strategically so as to provide an unimpeded view from the *tablinium*. The southwest corner of the garden was the location of a small pool (0.82 x 0.63).
 
 ## Plans
 
@@ -61,4 +61,5 @@ Excavation of this garden (a) to the rear of this elegant house took place in th
 
 ## Bibliography
 
+Maiuri, *Herculaneum*, p. 41. 
 Maiuri, *Ercolano*, p. 240 and fig. 187 (plan) on p. 239 [(worldcat)](https://search.worldcat.org/title/490581395)

@@ -6,10 +6,10 @@
                 {{- partial "smallcrumbs.html" . }}
             </div>
             <h3 class="list__title post__title">
-                <a href="{{ .Permalink }}" rel="bookmark">
+                <a href="{{ .Permalink }}">
                 {{ .Title }}
                 </a>
-                {{- if .Params.draft }} (DRAFT) {{- end }}
+                {{- if .Params.draft }}<span class="draft">draft</span>{{- end }}
             </h3>
             {{ with partial "post_meta.html" . -}}
             <div class="list__meta meta">{{ . }}</div>

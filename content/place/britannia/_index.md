@@ -5,16 +5,10 @@ title: Britannia
 author: Maureen Carroll
 contributor: June Dorsch, Keith Jenkins
 date: 2021-04-21
-
 draft: false
 ---
 
-<!-- ## Dates
-
-43 CE to ~410 CE
--->
-
-<!-- ## Province Description -->
+## Province Description
 
 After Caesar's campaigns in Britain in 55 and 54 BCE, the southern part of the island lay within Rome's sphere of influence. It was not until the Claudian invasion in 43 CE, however, that Britain was annexed as a Roman province, although the 'conquest' of Britain in the west and north continued and proceeded slowly in the decades thereafter. Apart from a brief interlude in the mid-2nd century, when the northern border of the province was fixed at the Antonine Wall in Scotland, from the 120s the northern frontier of the island lay on Hadrian's Wall stretching from the west to the east coast. The provincial capital was Londinium (London) on the Thames River.
 

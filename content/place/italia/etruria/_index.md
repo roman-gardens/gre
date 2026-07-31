@@ -9,9 +9,7 @@ date: 2026-05-30
 draft: false
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 Around 7 BCE, Etruria was defined as Regio VII of Italia by Augustus.
 

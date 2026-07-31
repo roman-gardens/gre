@@ -2,40 +2,16 @@
 slug: "4aed90783a"
 type: garden
 title: House of the Planters (Maison aux jardinières)
-latlon: [ 35.485216, 6.468222 ]
+latlon: [ 35.485041, 6.469264 ]
 author: Amina-Aïcha Malek
-contributor: Xue Xia
+contributor: Xue Xia, Keith Jenkins
 date: 2021-04-21
-
 draft: false
 ---
 
 ## Dates
 
 2nd-3rd century CE?
-
-## Province
-
-- {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
-
-## Province Description
-
-The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar's reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.
-
-## Location
-
-- [Thamugadi]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}
-
-{{< image file="timgad_city_plan_house_of_the_planters.jpg" caption="Fig. 1: Plan of Thamugadi" credit="(Courtois, C., 1951)" alt="" >}}
-
-## Location Description
-
-Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.
-
-## Garden
-
-House of the Planters (Maison aux jardinières)
 
 ## Garden Description
 
@@ -46,6 +22,7 @@ Located SW of the Decumanus and NE of the forum, the house of the "Jardinières"
 ## Plans
 
 {{< image file="house_of_the_planters1.jpg" caption="Fig. 1: Plan of the House of the Planters at Thamugadi" credit="(Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 40)" alt="" >}}
+
 ## Images
 
 {{< image file="house_of_the_planters_drawing.jpg" caption="Fig. 2: Drawing of the courtyard of the House of the Planter" credit="(Ballu, A., 1897,fig. 36)" alt="">}}
@@ -69,9 +46,4 @@ Located SW of the Decumanus and NE of the forum, the house of the "Jardinières"
 - {{< keyword "planters" >}}
 - {{< keyword "herms" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}
-- {{< id vocab="TGN" id="7001328" name="Timgad (deserted settlement)" >}}
-
-
+<!-- ## Places -->

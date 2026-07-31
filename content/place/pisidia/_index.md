@@ -10,7 +10,7 @@ draft: true
 
 <!-- ## Dates -->
 
- ## Province Description 
+## Province Description 
 
 <!-- TODO: Pisidia does not appear in the province polygons.  Vasada, at least, seems to be near the border of Lycia et Pamphylia, and Galatia et Cappadocia  -->
 

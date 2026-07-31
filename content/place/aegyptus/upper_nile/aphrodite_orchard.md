@@ -47,7 +47,7 @@ Located in the western plain of the village. Size not given. Leased after 550 CE
 - {{< keyword "orchards" >}}
 - {{< keyword "storerooms" >}}
 - {{< keyword "olive trees" >}}
-- {{< keyword "vinyards" >}}
+- {{< keyword "vineyards" >}}
 
 <!--
 ## Places

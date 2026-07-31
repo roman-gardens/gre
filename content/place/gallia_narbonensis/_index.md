@@ -10,7 +10,7 @@ draft: true
 
 <!-- ## Dates -->
 
-<!-- ## Province Description -->
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 

@@ -10,7 +10,7 @@ draft: true
 
 <!-- ## Dates -->
 
-<!-- ## Place Description-->
+<!-- ## Province Description -->
 
 <!--
 ## Maps
@@ -37,8 +37,7 @@ draft: true
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+- {{< id vocab="Pleiades" id="108982" name="Römische Villa Otrang" >}}
+- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
+TEST

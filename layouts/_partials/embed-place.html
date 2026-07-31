@@ -1,0 +1,45 @@
+{{/* Embed expandable place descriptions for the parent place that contains the current garden
+     Also add places for all ancestors up the place hierarchy
+*/}}
+{{ $content := .Content }}
+{{ range .Ancestors }}
+    {{ $placedesc := partial "html-section.html" ( dict "html" .Content "header" "(Province|Place) Description" ) }}
+    {{/* Only embed the description if it really contains text */}}
+    {{ if gt ($placedesc | len) 2 }}
+        {{ $dev := "" }}
+        {{ if eq hugo.Environment "development" }}
+            {{ $dev = print ` <span class='dev'>from ` .Title ` page</span></h2>` }}
+        {{ end }}
+        {{ $placedesc = replaceRE `</h2>` (print ` (` .Title `)` $dev `</h2>`) $placedesc }}
+        {{ $content = replaceRE `(<div class="embed-place-description|<h2 id="(place|garden)-description")`
+            ( print `<div class="embed-place-description">` $placedesc
+                `</div><button class="expand" onclick="expand(event)">Expand this section...</button>$1`
+            )
+            $content 1
+        }}
+    {{ end }}
+{{ end }}
+
+{{/* Add hierachy places to the bottom of the Places section */}}
+{{ $content = replaceRE `(?s)<h2 id="places".*$` "" $content }}
+{{ $content = print $content "<h2 id='places'>Places</h2><ul>" }}
+{{/* make list of pages in hierarchy, from this page up to province */}}
+{{ $hier := (slice .Page) | append .Ancestors }}
+{{/* Omit last 2 pages (content, content/place) */}}
+{{ $realCount := sub (len $hier) 2 }}
+{{ range $i, $p := $hier }}
+    {{ if lt $i $realCount }}
+        {{ $elsewhere := gt $i 0 }}
+        {{ $title := .Title }}
+        {{ $ancestorplaces := partial "html-section.html" ( dict "html" .Content "header" "Places" ) }}
+        {{ $lis := findRE (print `(?s)<li.*?</li>`) $ancestorplaces }}
+        {{ range $li := $lis }}
+            {{ if and $elsewhere (eq hugo.Environment "development") }}
+                {{ $li = replaceRE `</li>` (print " <span class='dev'>from " $title " page</span></li>") $li}}
+            {{ end }}
+            {{ $content = print $content $li }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+{{ $content = print $content "</ul>" }}
+{{ $content | safeHTML }}

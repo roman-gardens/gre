@@ -13,7 +13,7 @@
     <div class="widget__content">
         <div id='map' class="leaflet-map"></div>
         {{ if eq hugo.Environment "development" }}
-        <div>ctrl-click the map to capture coordinates</div>
+        <div class="dev">ctrl-click the map to capture coordinates</div>
         {{ end }}
         <script>
             //Create Map
@@ -36,9 +36,9 @@
                     filter: [
                         'brightness: 100%',
                         'contrast: 100%',
-                        'saturation: 30%',
-                        'opacity: 100%',
-                        'sepia: 10%'
+                        'saturation: 70%',
+                        'opacity: 70%',
+                        'sepia: 20%'
                     ]
                 });
 
@@ -51,9 +51,9 @@
                     filter: [
                         'brightness: 100%',
                         'contrast: 100%',
-                        'saturation: 30%',
-                        'opacity: 100%',
-                        'sepia: 10%'
+                        'saturation: 70%',
+                        'opacity: 70%',
+                        'sepia: 20%'
                     ]
                 });
 
@@ -65,14 +65,14 @@
                     filter: [
                         'brightness: 100%',
                         'contrast: 100%',
-                        'saturation: 100%',
-                        'opacity: 80%',
+                        'saturation: 70%',
+                        'opacity: 70%',
                         'sepia: 0%'
                     ]
                 });
 
                 map.addControl(L.control.basemaps({
-                    basemaps: [dare, osm, gsat],
+                    basemaps: [osm, dare, osm, gsat],
                     tileX: 18,
                     tileY: 12,
                     tileZ: 5
@@ -100,9 +100,9 @@
                     filter: [
                         'brightness: 100%',
                         'contrast: 100%',
-                        'saturation: 30%',
-                        'opacity: 100%',
-                        'sepia: 10%'
+                        'saturation: 70%',
+                        'opacity: 70%',
+                        'sepia: 20%'
                     ]
                 });
                 osm_lo.addTo(map);
@@ -116,9 +116,9 @@
                     filter: [
                         'brightness: 100%',
                         'contrast: 100%',
-                        'saturation: 30%',
-                        'opacity: 100%',
-                        'sepia: 10%'
+                        'saturation: 70%',
+                        'opacity: 70%',
+                        'sepia: 20%'
                     ]
                 });
                 dare.addTo(map);
@@ -132,9 +132,9 @@
                     filter: [
                         'brightness: 100%',
                         'contrast: 100%',
-                        'saturation: 30%',
-                        'opacity: 100%',
-                        'sepia: 10%'
+                        'saturation: 70%',
+                        'opacity: 70%',
+                        'sepia: 20%'
                     ]
                 });
                 osm_hi.addTo(map);
@@ -176,18 +176,27 @@
             markers = [];
             bounds = L.latLngBounds();
             let div_circle = L.divIcon({ className: 'dot' })
+            let div_circle_draft = L.divIcon({ className: 'dot draft' })
             
             function addPoint(p) {
                 // only add point if lat/lon are both not 0
                 if (p.latlon[0] && p.latlon[1]) {
-                    marker = L.marker(p.latlon, { icon: div_circle });
+                    if (p.draft) {
+                        marker = L.marker(p.latlon, { icon: div_circle_draft, zIndexOffset: -9999 });
+                    }
+                    else {
+                        marker = L.marker(p.latlon, { icon: div_circle });
+                    }
                     marker.bindPopup(`
                         <div class='smallcrumbs'>${p.smallcrumbs}</div>
-                        <a href='${p.url}'>${p.title}</a>
+                        <a href='${p.url}'>${p.title}</a>${ p.draft ? ' <span class="draft">draft</span>' : ''}
                     `);
                     marker.addTo(map);
                     markers.push(marker);
                     bounds.extend(marker.getLatLng());
+                }
+                else {
+                    console.log('No latlon for ' + p.smallcrumbs + ' / ' + p.title)
                 }
             }
 
@@ -209,14 +218,15 @@
                 {{ else if eq .Type "place" }}
                     {{ $gardens = .RegularPagesRecursive }}
                 {{ else if eq .Path "/home" }}
-                    {{ $gardens = .Site.RegularPages }}
+                    {{ $gardens = where .Site.RegularPages "Type" "garden" }}
                 {{ end }}
-                {{ range $gardens }}
+                {{ range partial "pages-visible.html" $gardens }}
                     addPoint({
                         "latlon": {{ .Params.latlon }},
                         "smallcrumbs": {{ partial "smallcrumbs.html" . }},
                         "title": {{ .Title }},
-                        "url": {{ .Permalink }}
+                        "url": {{ .Permalink }},
+                        "draft": {{ .Draft }}
                     })
                 {{ end }}
             {{ end }}

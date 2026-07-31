@@ -5,11 +5,8 @@ title: Cirta
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-07
-
-draft: false
+draft: true
 ---
-
-<!-- ## Dates -->
 
 <!-- ## Place Description -->
 
@@ -38,8 +35,6 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="305064" name="Cirta/Constantina" >}}

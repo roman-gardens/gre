@@ -9,9 +9,7 @@ date: 2026-05-30
 draft: false
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 The Laurentinum was a villa belonging to Pliny the Younger (PLIN. epist. 2.17). It was described in a letter directed to one of his friends, a certain Gallo, whom he invited there to spend some time together. In this letter Pliny described accurately his Laurentine maritime residence. Throughout the centuries, having read this letter, many architects and scholars tried their hand at reconstructing its plan. I did one myself, which - as I discovered later on - was not exactly right, but at least it proved to be as good an approximation as it could be expected.
 
@@ -56,6 +54,7 @@ A survey proved that everything Pliny had depicted in his letter tallied with th
 
 <!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
+
+Possibly the same thing?
+https://pleiades.stoa.org/places/423004/
 -->

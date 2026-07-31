@@ -6,21 +6,12 @@ latlon: [ 53.1884, -2.8877 ]
 author: John Bodel
 contributor: June Dorsch
 date: 2021-04-21
-
 draft: false
 ---
 
 ## Dates
 
 unspecified
-
-## Location
-
-[Chester]({{<relref ".">}})
-
-## Garden
-
-Tomb Painting in Chester
 
 ## Garden Description
 
@@ -42,10 +33,4 @@ Toynbee's suggestion that a military tombstone from Chester depicting a row of t
 - {{< keyword "funerary buildings" >}}
 - {{< keyword "tombs" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="89144" name="Cilurnum" >}}
-- {{< id vocab="TGN" id="7026064" name="Chesters (inhabited place)" >}}
-
-
-
+<!-- ## Places -->

@@ -14,7 +14,7 @@ draft: true
 
 unspecified
 
-## Excavation Date
+## Excavation Dates
 
 unspecified
 
@@ -22,9 +22,6 @@ unspecified
 
 [Aquileia]({{<relref ".">}}) \
 [Aquileia (Pleiades)](hhttps://pleiades.stoa.org/places/187290)
-
-## Sublocation
-
 
 ## Garden
 

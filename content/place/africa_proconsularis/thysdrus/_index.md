@@ -9,9 +9,7 @@ date: 2025-09-16
 draft: false
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 Thysdrus is located on the western border of the Sahel at 60 km S of Hadrumetum on the road leading to Sfax. The development, from the end of the 2d c., of its olive plantations and its trade in oil made the fortune of the city.
 

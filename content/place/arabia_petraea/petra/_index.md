@@ -5,13 +5,10 @@ title: Petra
 author: Leigh-Ann Bedal
 contributor: Jane Millar, Keith Jenkins
 date: 2025-09-19
-
 draft: false
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 Petra, known to its ancient inhabitants as *Raqmu*, is located approximately 80 kilometers southeast of the Dead Sea in modern Jordan. The ancient city is situated on the western slopes of the Sharā Mountain Range, in a wide basin surrounded by deeply eroded mountainous ridges of sandstone, with outcrops of limestone and porphyry that form a natural fortification.
 

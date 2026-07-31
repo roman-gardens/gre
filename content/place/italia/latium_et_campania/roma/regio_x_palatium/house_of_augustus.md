@@ -14,50 +14,11 @@ draft: false
 
 1st century BCE
 
-## Excavation Date
+## Excavation Dates
 
 1865-1870: P. Rosa
 1937: A. Bartoli
 1956: G. Carettoni
-
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-- [Palatine]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
-
-## Garden
-
-Garden of the House of Augustus, Palatine
-
-## Keywords
-
-- {{< keyword "alae" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "festoon" >}}
-- {{< keyword "frescoes" >}}
-- {{< keyword "friezes" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "nymphaea" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- [princep](https://www.britannica.com/topic/princeps)
-- {{< keyword "topiary" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
-- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
-- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
-- [Velleius Paterculus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1458)
-- [Vitruvius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476)
 
 ## Garden Description
 
@@ -94,3 +55,26 @@ RELATED PHASES ON THE PALATINE:
 ## Bibliography
 
 - M.A. Tomei, *Augusto sul Palatino: Gli Scavi di Gianfilippo Carettoni. Appunti inediti (1955-1984)*, Milano, 2014. [(worldcat)](https://search.worldcat.org/title/903406162)!
+## Keywords
+
+- {{< keyword "alae" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "festoon" >}}
+- {{< keyword "frescoes" >}}
+- {{< keyword "friezes" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "nymphaea" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- [princep](https://www.britannica.com/topic/princeps)
+- {{< keyword "topiary" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- [Cassius Dio](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.328)
+- [Pliny the Elder](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141)
+- [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
+- [Velleius Paterculus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1458)
+- [Vitruvius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1476)
+
+<!--
+## Places
+-->

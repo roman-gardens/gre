@@ -14,19 +14,7 @@ draft: true
 
 unspecified
 
-## Excavation Date
-
-## Location
-
-- [Pompeii]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Sublocation
-
-[Region I]({{<relref "../..">}})
-
-## Insula
-
+## Excavation Dates
 
 ## House
 
@@ -63,9 +51,4 @@ A. This house had no *atrium* and the *peristyle* was entered directly from the 
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-
+<!-- Places -->

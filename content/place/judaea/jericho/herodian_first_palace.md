@@ -14,7 +14,7 @@ draft: false
 
 31 BCE - 4 BCE
 
-## Garden Descriptions
+## Garden Description
 
 Herod may have been a regular guest at the Hasmonean palace during his boyhood.  Even after he effected his rule in 37 BCE, the Hasmoneans retained possession of their winter palace for a few years, according to Josephus.  Artistobulus III was drowned there by Herod's men when the royal court stayed at the palace as guests of Princess Alexandra, the mother of Aristobulus III and Herod's wife, Mariamne.
 

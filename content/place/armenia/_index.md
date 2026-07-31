@@ -8,8 +8,6 @@ date: 2026-05-07
 draft: true
 ---
 
-<!-- ## Dates -->
-
 ## Province Description 
 
 As a part of eastern Anatolia, the vast territory of ancient Armenia -- covering pieces of modern Turkey, Iran, the Republic of Armenia, the Democratic Republic of Georgia, and Syria -- bordered Cappadocia and the Euphrates River to the west and the Taurus Mountains to the south.  The land of Mount Ararat, unfortunately, is seldom mentioned in Roman textual sources.  Virgil discusses the pine and cedar from the snowy mountains of the Caucasus in his *Georgics* (2.440-3), and other authors mention the Ararat plain’s fertility, but in general, Greek and Roman authors rarely described the mountainous region or its landscapes.

@@ -86,6 +86,9 @@
 - move "tomb garden near rome" folder contents into regio_i_latium_et_campania/roma?
 - how to handle alternative names of a garden? e.g. https://roman-gardens.github.io/test-a/id/5c8aada6d5
 - editorial style for including species names (hambach has two different styles)
+- Would it help to divide Asia province into regions?  Mysia, Lydia, Ionia, Caria, etc?
+- Should Asia include Lycaonia (added in 100 BCE) etc.?
+- GRE will generally use that last year of Trajan (117 CE) as the reference year for provinces and places.  GRE History page says "the Empire at its fullest extent under Trajan", but we should add "117 CE".
 
 # User forks
 

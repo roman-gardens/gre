@@ -9,9 +9,7 @@ date: 2026-05-16
 draft: false
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 Known as Ara Ubiorum, or Colonia Claudia Ara Agrippinensium, this large town on the west bank of the Rhine river was the *civitas* capital of the [Ubii](https://pleiades.stoa.org/places/109400) in the first half of the 1st century CE. It was granted the status of colonia by [Claudius](https://www.wikidata.org/wiki/Q1411) in 50 CE and became the provincial capital in 85 CE.
 

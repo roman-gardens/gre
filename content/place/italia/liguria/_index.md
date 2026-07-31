@@ -9,9 +9,7 @@ date: 2026-05-30
 draft: false
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 Around 7 BCE, Liguria was defined as Regio IX of Italia by Augustus.
 

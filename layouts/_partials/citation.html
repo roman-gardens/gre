@@ -39,7 +39,7 @@
     {{- $title := .Params.title -}}
     {{- $year := .Params.date.Year -}}
     {{- $access := time.Now | time.Format "January 2, 2006" -}}    
-    <a class="cite" onclick="citeThis(event)">Cite this {{ .Type }}</a>
+    <button class="cite" onclick="citeThis(event)">Cite this {{ .Type }}</button>
     <cite>
         {{- $citeauthor }} ({{ $year }}). "{{ $title }}." Gardens of the Roman Empire, accessed {{ $access }}. {{ .Permalink -}}
     </cite>

@@ -11,30 +11,21 @@ date: 2021-04-21
 draft: false
 ---
 
+<!-- ## Dates -->
 
-<!-- split this into separate gardens a b c d -->
+## Excavation Dates
 
+1916, 1918, 1921, 1933-35 and 1973
 
+## House
 
-## Province
+House of M. Loreius Tiburtinus [Della Corte]; of D. Octavius Quartio [Spinazzola]
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Garden
 
-## Location
+<!-- TODO: split this into separate gardens a b c d -->
 
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-## Insula
-
-[Insula II]({{<relref ".">}})
+Large garden planted with trees and decorated with a water channel (euripus), garden paintings, garden statues, and a [biclinium](http://vocab.getty.edu/page/aat/300170371) and triclinium](http://vocab.getty.edu/page/aat/300004359). Inside, a spacious [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029) with [fountains](http://vocab.getty.edu/page/aat/300006179) was decorated with flowers in planting boxes and ornamentals.
 
 ## Garden Description
 
@@ -81,21 +72,6 @@ Paul Zanker, 1998, *Pompeii: Public and Private Life, pp.477-480.*
 - {{< keyword "water supply systems" >}}
 - {{< keyword "fountains" >}}
 
-## House
-
-House of M. Loreius Tiburtinus [Della Corte]; of D. Octavius Quartio [Spinazzola]
-
-## Garden
-
-Large garden planted with trees and decorated with a water channel (euripus), garden paintings, garden statues, and a [biclinium](http://vocab.getty.edu/page/aat/300170371) and triclinium](http://vocab.getty.edu/page/aat/300004359). Inside, a spacious [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029) with [fountains](http://vocab.getty.edu/page/aat/300006179) was decorated with flowers in planting boxes and ornamentals.
-
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-##  Excavation Dates
-
-1916, 1918, 1921, 1933-35 and 1973
-
-
+-->

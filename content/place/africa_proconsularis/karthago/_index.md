@@ -6,12 +6,10 @@ author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16
 
-draft: false
+draft: true
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 Founded by Tyrians from Phoenicia, Carthage became the capital of a powerful empire that came into conflict with the expanding power of Rome. In 146 BCE, Carthage was completely destroyed and re-founded as a Roman colony by Augustus who completed Cesar's initial project. Augustus expanded the new city and encouraged settlements of veterans and civilians. The kingdom of Numidia was transformed into a province and Carthage was raised to the rank of capital. The city not only became the major port through which the wealth of the province flowed to Rome but also became a cultural capital that introduced the African elite to the rest of the empire, making it one of the wealthiest and most cosmopolitan cities in the Mediterranean world.
 

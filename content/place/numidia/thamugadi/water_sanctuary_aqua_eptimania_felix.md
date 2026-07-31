@@ -2,40 +2,16 @@
 slug: "87cb5112c9"
 type: garden
 title: Water Sanctuary Aqua Septimiana Felix (Sanctuaire des eaux)
-latlon: [ 35.485216, 6.468222 ]
+latlon: [ 35.480309, 6.467550 ]
 author: Amina-Aïcha Malek
-contributor: Xue Xia
+contributor: Xue Xia, Keith Jenkins
 date: 2021-04-21
-
 draft: false
 ---
 
 ## Dates
 
 2nd-3rd century CE
-
-## Province
-
-- {{< id vocab="Pleiades" id="981539" name="Numidia" >}}
-
-## Province Description
-
-Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.
-
-## Location
-
-- [Thamugadi]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}
-
-{{< image file="timgad_city_plan_water_sanctuary.jpg" caption="Fig. 1: Plan of Thamugadi" credit="(Courtois, C., 1951)" alt="" >}}
-
-## Location Description
-
-Timgad, ancient Thamugadi was founded as a colony under Trajan. The city had a checker board plan, that measured 11ha. In the center was the forum with its Curia, an imperial temple and the basilica. Between the 2nd and the 4th century the city expanded out of its original layout. Temples, baths and a market were built and the center of the city was renovated with the construction of the library, the market and luxurious houses. At the end of the 4th century the bishop Optatus of Timgad a prominent member of the donatist church constructed the great west basilica. During the Byzantine conquest a fortress was erected on the water sanctuary dating to the 3rd and 4th century.
-
-## Garden
-
-Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 
 ## Garden Description
 
@@ -45,7 +21,7 @@ The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of t
 
 ## Plans
 
-{{< image file="water_sanctuary_aqua_eptimania_felix1.jpg" caption="Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix" credit="(Lassus, J., 1981, fig. 9)" alt="">}}
+{{< image file="water_sanctuary_aqua_septimania_felix1.jpg" caption="Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix" credit="(Lassus, J., 1981, fig. 9)" alt="">}}
 
 <!-- ## Images -->
 
@@ -66,9 +42,4 @@ The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of t
 - {{< keyword "pools" >}}
 - {{< keyword "inscriptions" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="334636" name="Thamugadi" >}}
-- {{< id vocab="TGN" id="7001328" name="Timgad (deserted settlement)" >}}
-
-
+<!-- ## Places -->

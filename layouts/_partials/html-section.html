@@ -1,0 +1,24 @@
+{{/*
+    Return just a section of html that begins with the given <h2> header and ends just before the next <h2>.
+    If "Place Description" was requested, but not found, return everything up to first <h2> or <div> (which may be footnotes -- see Aegyptus)
+        and make sure the <h2> is present
+    Call this partial like this:
+        partial "html-section.html" ( dict "html" .Content "header" "Place Description" )
+    Add `"omitHeader" true` to the passed dict to omit the <h2> header
+*/}}
+{{ $html := replaceRE `(?s)<!--.*?-->` " " .html }}
+{{ $match := findRE (print `(?s)<h2[^>]+>` .header `</h2>.*?(<h2|<div|$)`) $html 1}}
+{{ $value := "" }}
+{{ if $match }}
+    {{ $value = replaceRE `<h2$|<div$` " " (index $match 0) }}
+{{ else if (eq .header "Place Description") }}
+    {{ $value = replaceRE `(?s)\s*<h2.*$` "" $html }}
+    {{ if gt ($match | len) 2 }}
+        {{ $value = print `<h2 id="place description">Place Description</h2>` $value }}
+    {{ end }}
+{{ end }}
+{{ if .omitHeader }}
+    {{ $value = replaceRE `<h2.*</h2>` "" $value }}
+{{ end }}
+{{ $value = replaceRE `\s+` " " $value }}
+{{ return ($value | safeHTML) }}

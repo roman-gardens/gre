@@ -18,11 +18,13 @@ draft: false
 
 A seaside palace west of the theater at Caesarea Maritima has been identified by E. Netzer as the maritime palace Herod the Great built to supervise construction of the great harbor, and, later, to provide reception space for guests at spectacles and official functions.  (Fig. 1) The view north from this promontory became increasingly impressive as the harbor was completed and thrived. The palace served as the official praetorium of his heirs and subsequent Roman officials.
 
-Lower Promontory
+<!-- split these ### sections into separate gardens? -->
+
+### Lower Promontory
 
 Excavations in the 1970s by Netzer and Lee I. Levine in the lower area of the palace revealed a series of luxurious reception rooms and heated chambers centering on a large (35  x 18 m.) rock-cut swimming pool enclosed by a colonnade. Cuttings in the bedrock between the columns suggested to Netzer that planters had been built between the columns, offering a pluteus around the pool, as well as a planting area protected from the salt spray.  (Fig. 2)
 
-Upper Palace
+### Upper Palace
 
 Excavations by K. Gleason and B. Burrell for the University of Pennsylvania Museum (1990-1996), in collaboration with E. Netzer and Hebrew University;  and by Y. Porath of the Israel Antiquities Authority (1993-1996), have revealed an upper, more public half of the palace connected to the stadium (also referred to as an amphitheater by Porath following Josephus)  and the theater.  The upper palace comprised a series of baths and reception rooms facing out onto a quadriportico (42 x 65 m.)  Although the courtyard was paved in plastered crushed sandstone in later Roman phases, fragmentary areas of layers of rich red sand (hamra), popular today with gardeners, were used to level many areas of the courtyard and may indicate the presence of vegetation or a gardened area in the first Herodian period and possibly a gardened courtyard in the first phase of the upper palace's peristyle courtyard, but soil pits and other planting features were not preserved in any detectable pattern.  (Fig. 3) Pollen extracted from plaster on the kurkar columns of the surrounding colonnade included taxa likely to have been growing within the courtyard:  Cypress (Cupressus--either juniperus or sempervirens), hazelnut (Corylus, a non-native), and the herbaceous taxa, Brassicacaea, Salvia, and Cistus (Fig. 4). A fourth century CE well briefly supplied water for the courtyard.  Curse tablets (defixiones) at the bottom of this well indicate the popular practice of wishing ill, rather than wishing well.
 

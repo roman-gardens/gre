@@ -6,7 +6,6 @@ latlon: [ 51.819999, -1.924458 ]
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2021-04-21
-
 draft: false
 ---
 
@@ -17,22 +16,6 @@ Early 4th century - unspecified
 ## Excavation Dates
 
 Late 19th century, 2000-2002
-
-## Location
-
-- [Chedworth]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="79383" name="Chedworth" >}}
-
-## Sublocation
-
-<!--
-[AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-## Garden
-
-Rural Villa in Chedworth
 
 ## Garden Description
 
@@ -65,7 +48,4 @@ Parts of the villa may date to the early 3rd century CE at the latest, but exten
 - {{< keyword "sherds" >}}
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="79383" name="Chedworth" >}}
-- {{< id vocab="TGN" id="7032560" name="Chedworth Roman Villa (historic site)" >}}
+<!-- ## Places -->

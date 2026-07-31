@@ -5,11 +5,8 @@ title: Eccles
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
-
 draft: false
 ---
-
-<!-- ## Dates -->
 
 <!-- ## Place Description -->
 
@@ -38,8 +35,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="79448" name="Eccles" >}}
+- {{< id vocab="TGN" id="1029144" name="Eccles (inhabited place)" >}}

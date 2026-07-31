@@ -6,12 +6,10 @@ author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16
 
-draft: false
+draft: true
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 The site is located on the east seaside of Hergla, Tunisia. Excavations in the sixties have brought to light warehouses and a large *domus* opening towards the sea.
 

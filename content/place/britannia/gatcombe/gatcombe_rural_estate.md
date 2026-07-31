@@ -6,22 +6,12 @@ latlon: [ 51.437167, -2.67623 ]
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2021-04-21
-
 draft: false
 ---
 
 ## Dates
 
 ca. 280-380 CE
-
-## Location
-
-- [Gatcombe]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="79477" name="Gatcombe" >}}
-
-## Garden
-
-Rural Estate in Gatcombe
 
 ## Garden Description
 
@@ -50,9 +40,4 @@ This site of a large rural estate about 9 hectares in size in Somerset is enclos
 
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="79477" name="Gatcombe" >}}
-- {{< id vocab="TGN" id="7026972" name="Gatcombe (inhabited place)" >}}
-
-
+<!-- ## Places -->

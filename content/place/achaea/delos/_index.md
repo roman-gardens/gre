@@ -9,9 +9,7 @@ date: 2021-04-21
 draft: false
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 Delos is a small island in the center of the Cyclades measuring about five kilometers north-south and 1.3 kilometers east-west at the widest.  In antiquity, it was famous as the birthplace of Apollo. Apollo's sanctuary, founded in the seventh century BCE, is situated on a small plain next to the main port. It became a principal Panhellenic cult center and always formed the heart of the later settlement and city. The city was under Athenian supremacy in the fifth and fourth centuries BCE and became independent only in 314 BCE.  Although extensive public building occurred during the period of its status as an independent city-state and the island began to develop as a commercial center, the city remained relatively small and was still mainly engaged in local and regional trade with the surrounding Cycladic islands. This changed significantly when the Romans handed control of Delos to Athens in 167 BCE and declared it a free port. It soon developed into a booming cosmopolitan trade center with merchants coming from all over the Mediterranean world. As a consequence the city grew considerably, mostly to meet the needs of its new purpose. Squares, quays, warehouses, shops, new residential quarters, and clubhouses of foreign associations were constructed, and public buildings and sanctuaries were either renovated and extended or newly built. Although Delos was sacked twice, in 88 BCE by the troops of Mithridates and 69 BCE by the pirates under Athenodoros, its desertion during the first century BCE is predominantly due to the rivalry of increasingly successful Roman ports like Puteoli and Ostia. Life in Delos did not come to an abrupt halt as evidenced by remains of Roman thermae and several Christian basilicas, but it continued on a much smaller scale.
 

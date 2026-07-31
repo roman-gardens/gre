@@ -4,7 +4,7 @@ type: garden
 title: Casa del Colonnato Tuscanico (VI.17/26)
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-contributor: Yifan Li
+contributor: Yifan Li, Chiara Romano
 jashemski-catalogue: 557
 date: 2021-04-21
 
@@ -42,7 +42,8 @@ Casa del Colonnato Tuscanico
 
 ## Garden Description
 
-This house with an L-shaped floor plan had a peristyle garden (a) at the juncture of the two wings enclosed by a seventeen column portico. The garden entrance facing the large room to the north had double columns, and the garden could be approached from the atrium or from the entrance off the street on the west.
+This house with an L-shaped floor plan had a *peristyle* garden (a) at the juncture of the two wings enclosed by a seventeen column *portico*. The garden entrance facing the large room to the north had double columns, and the garden could be approached from the *atrium* or from the entrance off the street on the west.
+
 
 ## Plans
 
@@ -61,4 +62,4 @@ This house with an L-shaped floor plan had a peristyle garden (a) at the junctur
 
 ## Bibliography
 
-G.Cerulli Irelli, *La casa del Colonnato Tuscanico*, MemNap 7 (1974): 49 and fig. 1 (plan)[(worldcat)](https://search.worldcat.org/title/990804745)
+G.Cerulli Irelli, "La casa del Colonnato Tuscanico", *MemNap* 7 (1974): 49 and fig. 1 (plan) [(worldcat)](https://search.worldcat.org/title/3914095)

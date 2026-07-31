@@ -9,9 +9,7 @@ date: 2026-05-16
 draft: false
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 Masada, originally a Hasmonean defensive post, was the refuge for Herod's family during the journey to Rome that led to his kingship. They nearly perished of thirst, but the winter rains arrived to fill the cisterns at the last possible moment. (Josephus, Jewish Antiquities XIV. 358-60; 391) Once Herod consolidated his power, he turned this barren desert mountaintop into a luxurious oasis palace overlooking the Dead Sea (Josephus Jewish War VII, 289-291.) (Fig. 1)  The site is more famous as the last stand of the Zealots during the Jewish Revolt of CE 66 and remains of Roman forts surround the palace on the lower slopes and valley floor.
 

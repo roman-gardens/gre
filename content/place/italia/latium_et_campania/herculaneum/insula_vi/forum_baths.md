@@ -4,7 +4,7 @@ type: garden
 title: Forum Baths
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-contributor: Tiffany Y. Fong
+contributor: Tiffany Y. Fong, Chiara Romano
 jashemski-catalogue: 555
 date: 2020-09-29
 
@@ -65,8 +65,8 @@ During 1873-1875 the courtyard (a) of the *palaestra* was excavated. A section o
 
 ## Bibliography
 
-- Jashemski, Gardens, 1:165
-- Maiuri,Herculaneum, p. 40
-- Maiuri, Ercolano, pp. 91, 100-102 and fig. 68 (plan) on p. 92
-- Ruggiero, Ercolano, p. 654 and pl. 12, where the garden is no. 55 on the plan.
+- Jashemski, Gardens, 1:165.
+- Maiuri, *Herculaneum*, p. 40.
+- Maiuri, *Ercolano*, pp. 91, 100-102 and fig. 68 (plan) on p. 92.
+- Ruggiero, *Ercolano*, p. 654 and pl. 12, where the garden is no. 55 on the plan.
 

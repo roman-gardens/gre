@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula V]({{<relref ".">}})
+Unspecified
 
 ## Garden Description
 
@@ -40,20 +25,6 @@ The famous painting "Judgment of Solomon" (0.45 x 1.55m.; Mus. Naz. inv. no. 113
 
 {{< image file="fig.16_region_viii.insula_v.png" caption="Plan of  Region VIII, Insula V" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "atriums" >}}
-
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-Unspecified
-
 ## Bibliography
 
 - Breton, *Pompeia*, 3rd ed. p. 456 [(worldcat)](https://search.worldcat.org/title/894211341)
@@ -62,3 +33,10 @@ Unspecified
 - Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 4, "Nuovi scavi, 1874-1882" pp. 19-20 (address given as VIII.5a-6a.6 [(worldcat)](https://search.worldcat.org/title/906755593)
 - Schefold, *Die Wande Pompejis*, p. 227 [(worldcat)](https://search.worldcat.org/title/1189906922)
 - Sogliano, *Notizie degli scavi di Antichita* (1882), pp. 322-323 [(worldcat)](https://search.worldcat.org/title/638883283)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "atriums" >}}
+
+## Places

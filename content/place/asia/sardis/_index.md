@@ -9,8 +9,6 @@ date: 2025-09-21
 draft: false
 ---
 
-<!-- ## Dates -->
-
 ## Place Description
 
 Sardis was the capital of Lydia. With wealth from gold washed down in the Pactolus River, the Lydians held a reputation for luxury long before the Persian conquest.  Around 395-394 BCE, the Spartan general Aegilaus overran the *paradeisos* of the Persian king Tissaphernes, a park that “had been set out artfully and expensively with plants and all else that contributes to luxury and the quiet enjoyment of the good things.”<!--TODO: citation? is this Diodorus?-->  Between Sardis and Thybarnae, he stationed 1400 soldiers in a densely wooded place to ambush the Persians (Diodorus 14.80.2). While we have no descriptions, per se, of gardens in the royal palace, the landscape of Sardis lying at the foot of the flowery and vine-clad Mt. Tmolus was a literary topos for fertility and fine-living.

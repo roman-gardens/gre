@@ -6,7 +6,6 @@ latlon: [ 50.836765, -0.809853 ]
 author: Kathryn Gleason
 contributor: June Dorsch
 date: 2021-04-21
-
 draft: false
 ---
 
@@ -17,15 +16,6 @@ late 1st century CE - unspecified
 ## Excavation Dates
 
 1961-69, mid 1980s
-
-## Location
-
-- [Fishbourne]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="79466" name="Fishbourne" >}}
-
-## Garden
-
-Roman Palace in Fishbourne
 
 ## Garden Description
 
@@ -75,9 +65,4 @@ Limited excavations to the south of the palace revealed an artificial terrace wh
 - {{< keyword "terrace gardens" >}}
 - {{< keyword "vegetable gardens" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="79466" name="Fishbourne" >}}
-- {{< id vocab="TGN" id="7032567" name="Fishbourne Roman Palace (historic site)" >}}
-
-
+<!-- ## Places -->

@@ -9,9 +9,7 @@ date: 2026-05-30
 draft: false
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 Around 7 BCE, Apulia et Calabria were defined as Regio II of Italia by Augustus.
 

@@ -6,22 +6,12 @@ latlon: [ 51.753814, -0.382679 ]
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2021-04-21
-
 draft: false
 ---
 
 ## Dates
 
 around CE 100 - 175
-
-## Location
-
-- [Gorhambury]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="79485" name="Gorhambury" >}}
-
-## Garden
-
-Rural Villa in Gorhambury
 
 ## Garden Description
 
@@ -55,9 +45,4 @@ An avenue 20 meters wide led axially from the gate at the eastern end of the inn
 - {{< keyword "loam" >}}
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="79485" name="Gorhambury Ancient Site" >}}
-- {{< id vocab="TGN" id="7030316" name="Britannia (province)" >}}
-
-
+<!-- ## Places -->

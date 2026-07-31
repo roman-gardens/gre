@@ -6,22 +6,12 @@ latlon: [ 51.421122, 0.257752 ]
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2021-04-21
-
 draft: false
 ---
 
 ## Dates
 
 ca. 100 CE - late 4th century CE
-
-## Location
-
-- [Darenth]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="79413" name="Darenth" >}}
-
-## Garden
-
-Rural Villa in Darenth
 
 ## Garden Description
 
@@ -53,9 +43,4 @@ South of the western range of rooms was a large, open space measuring 14.6 x 58.
 - {{< keyword "villae rusticae" >}}
 - {{< keyword "waterspouts" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="79413" name="Darenth" >}}
-- {{< id vocab="TGN" id="7027349" name="Darenth (inhabited place)" >}}
-
-
+<!-- ## Places -->

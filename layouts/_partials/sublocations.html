@@ -40,9 +40,9 @@
                 {{ $countpublished := len (where .RegularPagesRecursive "Draft" false) }}
                 <li><a href="{{ .Permalink }}">{{ $v }}</a>
                 {{ if $drafts }}
-                    ({{ $countpublished }}/{{ $count }} gardens)</li>
+                    ({{ $countpublished }}/{{ $count }} garden{{ if ne 1 $count }}s{{ end }})</li>
                 {{ else }}
-                    ({{ $count }} gardens)</li>
+                    ({{ $count }} garden{{ if ne 1 $count }}s{{ end }})</li>
                 {{ end }}
             {{ end }}
         {{ end }}

@@ -17,16 +17,18 @@
         {{- partial "metadata.html" . -}}    
         {{- partial "sublocations.html" . -}}
         <div class="content post__content clearfix">
-            {{ .Content }}
+            {{ partial "embed-place.html" . }}
         </div>
     </div>
 
     <!-- Find all garden articles under this location -->
     {{- $pages := where (sort page.RegularPagesRecursive ".Path") "Type" "garden" -}}
+    <!-- visible gardens have no ancestors with draft:true -->
+    {{ $visible := partial "pages-visible.html" $pages }}
 
     <!-- State how many published/total  -->
-    {{- $count := len $pages -}}
-    {{- $countpublished := len (where $pages "Params.draft" false ) -}}    
+    {{- $count := len $visible -}}
+    {{- $countpublished := len (where $visible "Params.draft" false ) -}}    
     <div class='summary'>
         {{ $countpublished }}{{ if ne $count $countpublished }}/{{ $count }}{{ end }}
         garden article{{ if ne $countpublished 1 }}s{{ end }}
@@ -35,8 +37,8 @@
         been published{{ if ne $countpublished 0 }}:{{ end }}
     </div>
 
-    <!-- List each garden -->
-    {{- range $pages -}}
+    <!-- List each visible garden -->
+    {{- range $visible -}}
         {{- .Render "summary" -}}
     {{- end -}}
 </main>

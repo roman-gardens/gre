@@ -6,7 +6,6 @@ latlon: [ 51.940896, -1.927588 ]
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2021-04-21
-
 draft: false
 ---
 
@@ -17,15 +16,6 @@ draft: false
 ## Excavation Dates
 
 1882
-
-## Location
-
-- [Sudeley/Spoonley Wood]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="79693" name="Sudeley/Spoonley Wood" >}}
-
-## Garden
-
-Rural Villa in Sudeley/Spoonley Wood
 
 ## Garden Description
 
@@ -57,7 +47,4 @@ The main residence of this rural estate in Gloucestershire, excavated in 1882, i
 - {{< keyword "terrace gardens" >}}
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="79693" name="Spoonley" >}}
-- {{< id vocab="TGN" id="7030316" name="Britannia (province)" >}}
+<!-- ## Places -->

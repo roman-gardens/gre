@@ -14,8 +14,8 @@ function displayResults (qterms, results, pageData) {
       resultList += '<div class="smallcrumbs">' + item.smallcrumbs + '</div>'
 
       // linked title
-      resultList += '<h3 class="list__title post__title"><a href="' + item.url + '">' + item.title + '</a>' +
-       (item.draft? ' (DRAFT)' : '') + '</h3>'
+      resultList += '<h3 class="list__title post__title"><a href="' + item.url + '">' +
+       item.title + '</a>' + (item.draft ? ' <span class="draft">draft</span>' : '') + '</h3>'
 
       // normalize diacritics for better snippet matching
       let content = item.content.normalize("NFD").replace(/[\u0300-\u036f]/g, "")

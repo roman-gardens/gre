@@ -9,9 +9,7 @@ date: 2026-05-14
 draft: false
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 The town of Carnuntum on the Danube River, like Aquincum, was promoted to colonial status in 194 CE, after having been a *municipium*. Excavations in the modern zoological garden have revealed part of the town plan and its residential district.
 

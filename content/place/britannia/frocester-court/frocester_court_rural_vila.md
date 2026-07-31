@@ -6,22 +6,12 @@ latlon: [ 51.726937, -2.311905 ]
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2021-04-21
-
 draft: false
 ---
 
 ## Dates
 
 early 4th - 5th century CE
-
-## Location
-
-- [Frocester Court]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="79471" name="Frocester Court" >}}
-
-## Garden
-
-Rural Villa in Frocester Court
 
 ## Garden Description
 
@@ -55,9 +45,4 @@ Excavated evidence indicates that this courtyard was designed as a formal garden
 - {{< keyword "paddocks" >}}
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="79471" name="Frocester" >}}
-- {{< id vocab="TGN" id="4004114" name="Frocester (inhabited place)" >}}
-
-
+<!-- ## Places -->

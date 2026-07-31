@@ -10,7 +10,7 @@ draft: true
 
 <!-- ## Dates -->
 
-<!-- ## Province Description -->
+## Province Description
 
 Sicily, the largest island in the Mediterranean, was colonised by Greeks from the later eighth century BCE, with Syracuse becoming the largest and most powerful Greek polis; in time most of the indigenous settlements of the interior also became profoundly Hellenized. The western tip of the island, however, was settled by Phoenicians and later became an outpost of Carthaginian control. The clash between the superpowers, Rome and Carthage, in the third century BCE meant that Sicily became embroiled in the First Punic War which resulted in Rome’s acquisition of the island as its first overseas provincia in 241 BCE; but the wealthy and extensive kingdom of Hieron II, based on Syracuse but extending over much of eastern and south-eastern Sicily, was allowed to remain independent, becoming absorbed into the Roman province only in 211 BCE Sicily was above all famed for its agricultural fertility and its capacity to produce exceptional grain yields (wheat and barley), and to a lesser extent wine. By the time of the Roman Empire the principal flourishing cities were located on the coast, with much of the interior given over to scattered agricultural villages, villas and farms.
 

@@ -5,11 +5,8 @@ title: Latimer
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
-
 draft: false
 ---
-
-<!-- ## Dates -->
 
 <!-- ## Place Description -->
 
@@ -38,8 +35,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="79555" name="Latimer" >}}
+- {{< id vocab="TGN" id="1029792" name="Latimer (inhabited place)" >}}

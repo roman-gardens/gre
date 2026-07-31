@@ -14,30 +14,13 @@ draft: false
 
 92 CE
 
-## Excavation Date
+## Excavation Dates
 
 unspecified
 
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-- [Palatine]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
-
-## Garden
-
-Garden of the Domus Augustana, Palatine
-
 ## Garden Description
+
+<!-- TODO: SPLIT INTO SEPARATE FILES -->
 
 LOWER PERISTYLE
 
@@ -96,6 +79,6 @@ RELATED PHASES ON THE PALATINE:
 - {{< keyword "temples" >}}
 - {{< keyword "terraces" >}}
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="971691208" name="Palatine Hill" >}}
+-->

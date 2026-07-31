@@ -6,12 +6,10 @@ author: Wilhelmina Jashemski
 contributor: Keith Jenkins
 date: 2025-09-16
 
-draft: false
+draft: true
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 The city of Mactaris that had belonged to the kingdom of the Massylii was elevated to the rank of colony under Marcus Aurelius. The city was located on an important road between the steppes of the south and the rich plains of the north. The site occupies a plateau, which rises nine hundred meters above the valley of the Wadi Saboun in the central massif of the High Tell.
 

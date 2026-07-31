@@ -5,11 +5,8 @@ title: Frocester Court
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-15
-
 draft: false
 ---
-
-<!-- ## Dates -->
 
 <!-- ## Place Description -->
 
@@ -38,8 +35,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="79471" name="Frocester" >}}
+- {{< id vocab="TGN" id="4004114" name="Frocester (inhabited place)" >}}

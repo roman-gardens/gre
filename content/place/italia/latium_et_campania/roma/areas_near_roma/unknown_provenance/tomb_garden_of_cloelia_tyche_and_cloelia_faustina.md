@@ -14,12 +14,6 @@ draft: true
 
 Unspecified
 
-## Location
-
-## Sublocation
-
-## Sublocation Description
-
 ## Garden
 
 Tomb Garden of (Cl)oelia Tyche and (C)loelia Faustina

@@ -9,8 +9,6 @@ date: 2025-09-21
 draft: false
 ---
 
-<!-- ## Dates -->
-
 ## Place Description
 
 Pergamum, a fortress site in Mysia near the Aegean coast, was transformed into an architectural center under the Attalid dynasty (282-133 B.C.).  Attalus the III wrote treatises on gardens, raised poisonous plants, made wax models (Plut. Demet. 20.2), and upon his death, left the kingdom of Mysia to the Romans.  It became one of the most important Roman cities of Asia, and current scholarship has revealed its significance as an influence on the art and architecture of Rome.  The range of designed open spaces includes sanctuaries, gymnasia, palaestra, and agoras, all of which were renovated during the Roman period.  No archaeological remains of planting features have been reported, but an inscription records a law prohibiting the deliberate planting of trees near walls (SEG XIII 521.11.158-61).

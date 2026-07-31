@@ -6,7 +6,7 @@ author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
 
-draft: false
+draft: true
 ---
 
 <!-- ## Dates -->
@@ -38,8 +38,6 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="678357" name="Ramat ha-Nadiv" >}}

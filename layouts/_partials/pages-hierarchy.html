@@ -2,11 +2,13 @@
     with links to each page
     TODO: eventually replace this with proper nested lists,
         possibly with collapsible sections?
+    TODO: don't list pages where an ancestor is not published (e.g. ephesos/example.md is draft:false, but ephesos/_index.md is draft:true)
 */}}
 <ul>
+    {{ $pages := partial "pages-visible.html" . }}
     {{ $indent := 0 }}
     {{ $seen := slice }}
-    {{ range sort . ".Path" "asc" }}
+    {{ range sort $pages ".Path" "asc" }}
         {{ range $i, $p := .Ancestors.Reverse }}
             {{ $indent = add $i 1 }}
             {{ if not (or (in $seen .Path ) (lt $i 2)) }}
@@ -15,7 +17,7 @@
                 {{ if eq $i 2 }}{{ $class = print $class " province" }}{{ end }}
                 <li style="margin-left: {{ mul 2 $i }}em"{{ with $class }} class="{{ . }}"{{ end }}>
                     {{ if .Title }}
-                        {{ .Title }}
+                        {{ .Title }}{{ if .Draft }} <span class="draft">draft</span>{{ end }}
                     {{ else }}
                         {{/* if no _index.md content, infer title from path */}}
                         [{{ index (split .Path "/") $i }}]
@@ -32,7 +34,7 @@
             {{end}}
         {{ end }}
         <li style="margin-left: {{ mul 2 $indent }}em"{{ with $class }} class="{{ . }}"{{ end }}>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} <span class="draft">draft</span>{{ end }}
         </li>
     {{ end }}
 </ul>

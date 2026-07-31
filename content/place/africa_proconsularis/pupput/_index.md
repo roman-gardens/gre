@@ -9,9 +9,7 @@ date: 2025-09-16
 draft: false
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 Pupput is located about three km to the northwest of Hammamet, Tunisia. Two inscriptions inform the designated title of the city, which became a colony (*Colonia Aurelia Commoda Pia Felix Augusta Pupput*) under the reign of Commodus. The city benefited from a strategic location at the crossroads linking Clupea to Thhuburbo and Carthage to Hadrumetum. Large residential quarters with houses and baths were excavated as well as a large necropolis.
 

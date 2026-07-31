@@ -8,8 +8,6 @@ date: 2026-07-09
 draft: false
 ---
 
-<!-- ## Dates -->
-
 ## Place Description
 
 The city of Mytilene was located on the island of Lesbos lying off the west coast of Asia Minor.

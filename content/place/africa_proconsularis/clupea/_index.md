@@ -6,12 +6,10 @@ author: Amina-Aïcha Malek
 contributor: Keith Jenkins
 date: 2025-09-16
 
-draft: false
+draft: true
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 The city was built along the slope of the hill several kilometers northwest of the present town. Excavations revealed the Capitol and an important residential district descending in successive levels towards the bank.
 

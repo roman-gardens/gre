@@ -10,7 +10,7 @@ draft: true
 
 <!-- ## Dates -->
 
-<!-- ## Province Description -->
+## Province Description
 
 The region of what is now modern Turkey became a part of the Roman Empire in 133 BCE when king Attalos III of Pergamum bequeathed his kingdom to the Roman people.  The province included the heartland of the Pergamene kingdom as well as the territories of Mysia, Lydia, Ionia, Caria, western Phrygia and the eastern Aegean islands.  Under Augustus in 27 BCE, Asia was declared a senatorial province and the governance of a proconsul.  The capital of the province was Ephesos, although Pergamon may have fulfilled this role initially.  Under Diocletian (284-305 CE) the province was subdivided into smaller administrative units: Hellespontus, Asia, Lydia, Caria, Phrygia I and Phrygia II.  Due to its excellent harbors on the west coast and its many navigable rivers, Asia's water-borne trade with the rest of the Mediterranean flourished.  In the second century CE, Asia experienced great prosperity, to which the growth and architectural aggrandizement of many of its cities attest. In the area of Kibyra, bordering the regions of Lycia, Caria, Phrygia and Pisidia, numerous inscriptions refer to the large imperial estates of Roman families.  Woolen textiles, marble, and timber constituted a significant part of the commodities exported from the province.
 

@@ -9,9 +9,7 @@ date: 2026-05-30
 draft: false
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 Around 7 BCE, Venetia et Histria were defined as Regio X of Italia by Augustus.
 

@@ -16,8 +16,6 @@ draft: false
 
 ## Garden Description
 
-Byzantine Law Court and Roof Garden
-
 Architectural analysis and epigraphic finds excavated by Josef Patrich and the Combined Caesarea Excavations suggest that the buildings in the area immediately south of the harbor (Area CC) formed a governmental compound of Roman - Byzantine Caesarea, comprising a Revenue Office (skrinion), a Law Court and adjacent to them an archive or library for judicial and financial records and books. Earlier archaeologists (JECM) had identified this complex as an honorific U-shaped building; however, it is clearly the inverse.  Constructed about 200 CE, the Law Court was a vast hall (13 x 18 m.), built on top of four vaults facing west(Fig.1). In the first phase (fig 3), the hall faced west to the sea and was surrounded on three sides (N, E and S) by a reflection pool. To its east a square fountain was constructed.
 
 During the second phase (fig 4), the pool was converted to a roof garden, filled in with the rich, red sandy soil, locally known as hamra (also noted in the upper courtyard at the promontory palace.) The soil was set on a surface of bipedal ceramic tiles (ca. 60 x 50 cm), which in turn were supported on suspensurae of flat sandstone blocks (each 20 x 20 cm and 15 cm thick) supporting the corners of four bipedal tiles. This arrangement formed a separating space between the roof of the vaults and the garden soil, preventing moisture from damaging the ceiling of the vaults (Fig. 2). This arrangement has no known parallels in Israel, but was used over vaults for the gardens of Tiberius on the Palatine in Rome, a form of nemora pensile, or hanging gardens.

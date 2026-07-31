@@ -9,9 +9,7 @@ date: 2025-09-16
 draft: false
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 Her geographic situation made of Utica one of the oldest and well-known Phoenician settlements. In 146 BCE, Utica became the capital of the newly created province of Africa and the residence of the governor. With the triumph of Caesar and the resurgence of Carthage, Utica's supremacy would gradually decline under the empire. In 36 BCE it became a *municipium* and a colony under Hadrian.
 

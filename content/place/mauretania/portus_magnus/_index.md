@@ -9,11 +9,10 @@ date: 2026-05-07
 draft: false
 ---
 
-<!-- ## Dates -->
-
-<!-- ## Place Description -->
+## Place Description
 
 The ancient city is located about 5 km from the modern city of Arzew and 35 km northeast of Oran. An important settlement on the west coast of Algeria, it served as a Roman trading post and naval base during the early Roman Empire period.
+
 <!--
 ## Maps
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
