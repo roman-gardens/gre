@@ -12,9 +12,11 @@ draft: true
 
 ## Dates
 
-Unspecified 
+probably first century CE
 
-<!--Keil and von Premserstein date inscription to probably first century CE-->
+## Excavation Dates
+
+unspecified
 
 ## Garden Description
 
@@ -22,18 +24,16 @@ A highly fragmentary inscription found in the south part of the Cayster River va
 
 <!-- ## Maps -->
 
-<!--
 ## Plans
 
 {{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan of the excavations at Aphrodisias" credit="" alt="">}}
--->
 
 <!-- ## Images -->
 
 ## Bibliography
 
-- Keil, J., and A. von Premerstein. 1914. *Bericht über eine dritte Reise in Lydien*. Denkschriften der Kaiserlichen Akademie der Wissenschaften in Wien 57.1. Vienna. [(worldcat)](https://search.worldcat.org/title/604130286) <!--inscription no. 112-->
-- Kubińska, J. 1968. *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure*. Warsaw.  [(worldcat)](https://search.worldcat.org/title/164233326)<!--p. 145-->
+- Keil, J., and A. von Premerstein. 1914. *Bericht über eine dritte Reise in Lydien*. Denkschriften der Kaiserlichen Akademie der Wissenschaften in Wien 57.1. Vienna, no. 112. [(worldcat)](https://search.worldcat.org/title/604130286); [(Archive.org)](https://archive.org/details/gtu_32400000863252/page/80/mode/2up)
+- Kubińska, J. 1968. *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure*. Warsaw, pp. 145.  [(worldcat)](https://search.worldcat.org/title/164233326)
 
 ## Keywords
 

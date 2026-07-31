@@ -12,7 +12,11 @@ draft: true
 
 ## Dates
 
-Discovered 1901 CE
+unspecified
+
+## Excavation Dates
+
+1901
 
 ## Garden Description
 
@@ -20,19 +24,17 @@ A broken inscription found near Thyaira in 1901 records the second part of a fun
 
 <!-- ## Maps -->
 
-<!--
 ## Plans
 
 {{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan of the excavations at Aphrodisias" credit="" alt="">}}
--->
 
 <!-- ## Images -->
 
 ## Bibliography
 
-- Frontrier, *REA* 4, 1902:263, no. 12 [(Persée)](www.persee.fr/doc/rea_0035-2004_1902_num_4_4_1284)
+- Frontrier, *REA* 4, 1902:263, no. 12. [(Persée)](www.persee.fr/doc/rea_0035-2004_1902_num_4_4_1284)
 - Cagnat R. et al. 1906-1927. *Inscriptiones Graecae ad res Romanas pertinentes*. Paris. [(worldcat)](https://search.worldcat.org/title/256313198)
-- Kubińska, J. 1968. *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw. [(worldcat)](https://search.worldcat.org/title/164233326) <!--pp. 66, 144-->
+- Kubińska, J. 1968. *Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure*. Warsaw, pp. 66, 144. [(worldcat)](https://search.worldcat.org/title/164233326)
 
 ## Keywords
 
@@ -44,6 +46,4 @@ A broken inscription found near Thyaira in 1901 records the second part of a fun
 
 ## Places
 
-- {{< id vocab="Pleiades" id="550492" name="Cayster River Valley" >}}
 - {{< id vocab="Pleiades" id="599981" name="Thyaira" >}}
-- {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}

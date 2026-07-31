@@ -41,4 +41,4 @@ draft: false
 ## Places
 
 - {{< id vocab="Pleiades" id="550492" name="Cayster (river)" >}}
-- {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
+- {{< id vocab="TGN" id="7711201" name="Küçükmenderes Çayı (stream)" >}}

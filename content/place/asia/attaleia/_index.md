@@ -40,3 +40,4 @@ draft: false
 ## Places
 
 - {{< id vocab="Pleiades" id="550472" name="Attaleia" >}}
+- {{< id vocab="TGN" id="7002378" name="Antalya" >}}

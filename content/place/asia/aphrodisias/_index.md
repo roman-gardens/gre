@@ -40,3 +40,4 @@ Aphrodisias (_Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis_), in Ca
 ## Places
 
 - {{< id vocab="Pleiades" id="638753" name="Aphrodisias" >}}
+- {{< id vocab="TGN" id="7002357" name="Aphrodisias" >}}

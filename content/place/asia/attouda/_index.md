@@ -40,3 +40,4 @@ draft: false
 ## Places
 
 - {{< id vocab="Pleiades" id="638779" name="Attouda" >}}
+- {{< id vocab="TGN" id="7723040" name=" Hisarköy (inhabited place)" >}}
