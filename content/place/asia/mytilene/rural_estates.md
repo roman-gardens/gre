@@ -13,11 +13,11 @@ draft: true
 
 ## Dates
 
-Unspecified <!--late third/early fourth century CE (?) see below-->
+unspecified <!--late third/early fourth century CE (?), see below-->
 
-<!-- 
 ## Excavation Dates
- -->
+
+unspecified
 
 ## Garden Description
 
@@ -40,13 +40,14 @@ Gardens, vineyards and olive groves in the territory of Mytilene are known from 
 
 ## Bibliography
 
-- Paton, W.R. 1899. *Inscriptiones Graecae XII, 2: Inscriptiones Lesbi, Nesi, Tenedi*, Berlin. <!--IG is one of AJA's "standard reference works" so I don't think it needs to be cited in bib (https://ajaonline.org/submissions/standard-reference/)-->
-<!--digitization of Paton 1899: https://www.digitale-sammlungen.de/en/view/bsb12018955?q=%CE%B8%CE%AD%CF%89&page=46,47-->
+- Paton, W.R. 1899. *Inscriptiones Graecae XII, 2: Inscriptiones Lesbi, Nesi, Tenedi*, Berlin. [(MZD)](https://www.digitale-sammlungen.de/en/view/bsb12018955?q=%CE%B8%CE%AD%CF%89&page=46,47) 
 
-<!--
 ## Keywords
-- {{< keyword "example" >}}
--->
+
+- {{< keyword "groves" >}}
+- {{< keyword "vineyards" >}}
+- {{< keyword "olive trees" >}}
+- {{< keyword "inscriptions" >}}
 
 <!--
 ## Places

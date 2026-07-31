@@ -24,11 +24,7 @@ A statue base found in 1886 in a modern cemetery midway along the path between G
 
 <!-- ## Maps -->
 
-<!--
-## Plans
-
-{{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan of the excavations at Aphrodisias" credit="" alt="">}}
--->
+<!-- ## Plans -->
 
 <!-- ## Images -->
 
