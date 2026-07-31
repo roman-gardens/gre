@@ -20,11 +20,7 @@ A marble slab found immured in a house wall at Hisarköy (Attouda) in Caria near
 
 <!-- ## Maps -->
 
-<!--
-## Plans
-
-{{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan of the excavations at Aphrodisias" credit="" alt="">}}
--->
+<!-- ## Plans -->
 
 <!-- ## Images -->
 

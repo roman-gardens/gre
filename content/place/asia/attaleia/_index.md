@@ -3,7 +3,7 @@ slug: "ee071e488d"
 type: place
 title: Attaleia
 author: Author Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-07-09
 draft: false
 ---

@@ -3,7 +3,7 @@ slug: "001bb17272"
 type: place
 title: Aphrodisias
 author: Author Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-07-09
 draft: false
 ---
