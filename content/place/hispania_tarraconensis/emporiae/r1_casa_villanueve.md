@@ -41,7 +41,4 @@ This large house, some 4,000 square meters, was long and narrow. (Fig. 2) Variou
 - {{< keyword "pools" >}}
 - {{< keyword "cryptoportici" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="246382" name="Emporiae" >}}
-- {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}
+<!-- ## Places -->

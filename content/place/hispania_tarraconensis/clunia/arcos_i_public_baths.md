@@ -45,7 +45,4 @@ These baths are remarkable for their size (55 x 95 m), symmetry, and inclusion o
 - {{< keyword "palaestrae" >}}
 - {{< keyword "pools" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="246345" name="Col. Clunia (Sulpicia)" >}}
-- {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}
+<!-- ## Places -->

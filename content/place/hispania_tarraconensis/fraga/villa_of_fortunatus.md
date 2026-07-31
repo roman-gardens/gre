@@ -49,4 +49,3 @@ On the left bank of the Cinca about 5 km upstream (north) of Fraga, at the top o
 ## Places
 
 - {{< id vocab="Pleiades" id="250021" name="Villa Fortunatus" >}}
-- {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}

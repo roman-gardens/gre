@@ -45,3 +45,19 @@ unspecified
 ## Places
 
 - {{< id vocab="Pleiades" id="266044" name="El Solao" >}}
+<!--
+
+Is "El Solao" a typo for "El Solado" (~flooring)?
+
+Don Pedro Arnal "Descubrimiento de los pavimentos de Rielves", 1788:
+https://babel.hathitrust.org/cgi/pt?id=gri.ark:/13960/t82k38f93&seq=7
+
+Article and short video about excavations in 2022
+https://www.archeologyworld.es/2022/10/mosaico-rielves-toledo.html
+https://www.youtube.com/watch?v=vmL5EvYhNlY
+
+https://www.latribunadetoledo.es/noticia/z562121fd-df4f-b80f-0079e49cbe6f9560/202208/rielves-recuperan-la-villa-romana-el-solado
+
+Google Maps has "Villa Romana de El Solado" ~3km south of Rielves, although nothing seems to be visible in the aerial imagery:
+https://maps.app.goo.gl/rpsEkgSyg5eeHmgR6
+-->

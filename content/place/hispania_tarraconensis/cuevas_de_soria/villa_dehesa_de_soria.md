@@ -47,4 +47,17 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 ## Places
 
 - {{< id vocab="Pleiades" id="246361" name="Cuevas de Soria" >}}
-- {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}
+
+<!-- TODO:
+
+Soria is a province in modern Spain, and the capital city has the same name.
+Cuevas de Soria is a small town ~20 km SW of the city.
+The Roman villa is 1km SE of Cuevas de Soria.
+
+The Pleiades place https://pleiades.stoa.org/places/246361 probably needs to have its name corrected.
+
+This villa should probably get moved into the soria folder.
+
+We may also want to review all the Tarraconensis place names, which seem to be a mix of regions, settlements, ancient and modern.  Can they be more consistent?
+
+-->

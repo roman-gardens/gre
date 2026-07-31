@@ -45,6 +45,9 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 - {{< keyword "mosaics" >}}
 - {{< keyword "porticoes" >}}
 
+<!--
 ## Places
 
-<!-- {{< id vocab="Pleiades" id="614074944" name="Rioseco Di Soria" >}} is invalid -->
+This seems to be the appropriate record in Pleiades, but it needs some work:
+{{< id vocab="Pleiades" id="https://pleiades.stoa.org/places/250037" name="Untitled" >}}
+-->

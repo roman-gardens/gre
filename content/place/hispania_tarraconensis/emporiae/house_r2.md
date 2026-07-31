@@ -45,7 +45,4 @@ House R2, situated south of House R1 in the area of the forum of the Roman City 
 - {{< keyword "porticoes" >}}
 - {{< keyword "peristyles" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="246382" name="Emporiae" >}}
-- {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}
+<!-- ## Places -->

@@ -58,7 +58,4 @@ On the southeast corner of the house was a curious structure placed more than a 
 - {{< keyword "peristyles" >}}
 - {{< keyword "cryptoportici" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="246345" name="Col. Clunia (Sulpicia)" >}}
-- {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}
+<!-- ## Places -->

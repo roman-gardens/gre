@@ -44,7 +44,4 @@ These two adjacent houses are typical Tuscan atrium houses, both are against the
 - {{< keyword "atrium houses" >}}
 - {{< keyword "city walls" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="246382" name="Emporiae" >}}
-- {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}
+<!-- ## Places -->
