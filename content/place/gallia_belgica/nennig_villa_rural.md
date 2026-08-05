@@ -4,7 +4,7 @@ type: garden
 title: Rural Villa
 latlon: [ 49.528992, 6.384557 ]
 author: Maureen Carroll
-contributor: Yvette Pollack
+contributor: Yvette Pollack, Amelia Lamis
 date: 2021-04-21
 
 draft: true
@@ -12,26 +12,11 @@ draft: true
 
 ## Dates
 
-Unspecified
+third century CE
 
-## Location
+## Excavation Dates
 
-- [NENNIG  (Germany)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="109198" name="Nennig" >}}
-
-
-<!-- ## Sublocation -->
-
-<!--
-[AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!-- ## Sublocation Description -->
-
-## Garden
-
-Rural Villa
+unspecified
 
 ## Garden Description
 
@@ -41,6 +26,7 @@ Parks were laid out on the grounds of the villa. A *peristyle corridor* 250 mete
 
 <!-- Text comes from draft file -->
 
+<!--
 ## Maps
 
 None Available
@@ -52,6 +38,7 @@ None Available
 ## Images
 
 None Available
+-->
 
 ## Bibliography
 
@@ -67,5 +54,4 @@ None Available
 ## Places
 
 - {{< id vocab="Pleiades" id="109198" name="Nennig" >}}
-- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
-
+- {{< id vocab="TGN" id="5001900" name="Nennig (inhabited place)" >}}

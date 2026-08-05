@@ -4,7 +4,7 @@ type: garden
 title: Villa Borg
 latlon: [ 49.496681, 6.457675 ]
 author: Maureen Carroll
-contributor: Yvette Pollack
+contributor: Yvette Pollack, Amelia Lamis
 date: 2021-04-21
 
 draft: true
@@ -14,14 +14,9 @@ draft: true
 
 Unspecified
 
-## Location
+## Excavation Dates
 
-- [BORG (Germany)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="272861914" name="Borg Roman villa" >}}
-
-## Garden
-
-Villa Borg
+1980s
 
 ## Garden Description
 
@@ -37,6 +32,7 @@ In the year 2000, the reconstructed main building of the *villa* with its bath, 
 
 <!-- Whole entry comes from draft file -->
 
+<!--
 ## Maps
 
 None Available
@@ -48,6 +44,7 @@ None Available
 ## Images
 
 None Available
+-->
 
 ## Bibliography
 
@@ -64,9 +61,9 @@ None Available
 - {{< keyword "porticoes" >}}
 - {{< keyword "basins" >}}
 - {{< keyword "courtyards" >}}
+- {{< keyword "sculpture" >}}
 
 ## Places
 
 - {{< id vocab="Pleiades" id="272861914" name="Borg Roman villa" >}}
-- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
-
+- {{< id vocab="TGN" id="7212307" name="Borg (inhabited place)" >}}

@@ -38,6 +38,5 @@ draft: true
 -->
 
 ## Places
-- {{< id vocab="Pleiades" id="108982" name="Römische Villa Otrang" >}}
+
 - {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
-TEST

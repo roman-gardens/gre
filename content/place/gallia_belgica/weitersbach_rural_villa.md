@@ -1,47 +1,33 @@
 ---
 slug: "41a9c5c4df"
 type: garden
-title: Rural Villa near Welschbillig
-latlon: [ 0, 0 ]
+title: Rural Villa near Weitersbach
+latlon: [49.8667, 7.3167]
 author: Maureen Carroll
-contributor: Yvette Pollack
+contributor: Yvette Pollack, Amelia Lamis
 date: 2021-04-21
 
 draft: true
 ---
+<!--latlong is for Weitersbach from TGN-->
 
 ## Dates
 
+end of first to late fourth century CE
+
+## Excavation Dates
+
 Unspecified
-
-## Location
-
-[WEITERSBACH (Germany)]({{<relref ".">}}) \
-[WEITERSBACH (Pleiades)](<!-- none available -->)
-
-
-<!-- ## Sublocation -->
-
-<!--
-[AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!-- ## Sublocation Description -->
-
-## Garden
-
-Rural Villa
 
 ## Garden Description
 
 The enclosed farm compound measured 79 x 125/132 meters (less than one hectare). In the middle of the yard stood a house (A on plan) of the winged corridor type dating to the period between the end of the 1st and the later fourth century. (Fig. 1)
 
-Southeast of the house was an open area of 900 square meters. enclosed by a wall. There were no traces of any building activity within this enclosure, leading the excavators to interpret the area as a utilitarian *(vegetable) garden* (G on plan).
-
+Southeast of the house was an open area of 900 square meters, enclosed by a wall. There were no traces of any building activity within this enclosure, leading the excavators to interpret the area as a utilitarian *(vegetable) garden* (G on plan).
 
 <!-- Text comes from draft file -->
 
+<!--
 ## Maps
 
 None Available
@@ -53,6 +39,7 @@ None Available
 ## Images
 
 None Available
+-->
 
 ## Bibliography
 
@@ -66,6 +53,4 @@ None Available
 
 ## Places
 
-[Roman Villa at Welschbillig](<-- none available -->)
-- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
-
+- {{< id vocab="TGN" id="7084427" name="Weitersbach (inhabited place)" >}}

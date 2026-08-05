@@ -4,7 +4,7 @@ type: garden
 title: The House aux Fleurons (boulevard de la Paix)
 latlon: [ 49.254613, 4.040522 ]
 author: Maureen Carroll
-contributor: Yvette Pollack
+contributor: Yvette Pollack, Amelia Lamis
 date: 2021-04-21
 
 draft: true
@@ -12,34 +12,25 @@ draft: true
 
 ## Dates
 
-Unspecified
+unspecified
 
-## Location
+## Excavation Dates
 
-- [DUROCORTORUM (Reims, France)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="108945" name="Durocortorum" >}}
-
-
-<!-- ## Sublocation -->
-
-<!--
-[AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
+unspecified
 
 ## Sublocation Description
 
+<!--keep sublocation description on garden page or put in separate index file as place description (as in Asia, Egypt, Iberian etc)?-->
+
 Durocortorum was mentioned by Caesar as the center of the Remi, a Celtic tribe that sided with the Romans against the Belgians. It then became a federated city, nominally independent.  Under Augustus, it became the capital of Gallia Belgica. Many vestiges indicate that it was densely settled and unusually extensive.  A network of water supply and sewers has been found; an aqueduct brought water from 40 kilometers.  The cardo and decumanus are still identifiable today by vestiges of four gates with arches, the northern one still standing; they cardo and decumanus intersect at the present Place Royale.  Today, the city is known for its magnificent Gothic cathedral and its fine champagnes.
-
-## Garden
-
-The House aux Fleurons (boulevard de la Paix)
 
 ## Garden Description
 
 BEL 2.2.1: Reims, House aux Flerurons
-Along the north side runs a secondary street following the orientation of the town in Augustan times. Along this street, in the northern part of the house, a series of rooms with mosaics were found. On the south side, the space A (about 30 x 14 m) was probably a garden. The central part, surrounded on three sides by *porticos,* had two wide *trenches* (a) cut into the chalk and filled with clay, a strong indication of a garden. The *trenches* seem to be connected on the south side, and the south wall seems to be the limit of the parcel.
 
+Along the north side runs a secondary street following the orientation of the town in Augustan times. Along this street, in the northern part of the house, a series of rooms with mosaics were found. On the south side, the space A (about 30 x 14 m) was probably a garden. The central part, surrounded on three sides by porticos, had two wide trenches (a) cut into the chalk and filled with clay, a strong indication of a garden. The trenches seem to be connected on the south side, and the south wall seems to be the limit of the parcel.
+
+<!--
 ## Maps
 
 None Available
@@ -51,6 +42,7 @@ None Available
 ## Images
 
 None Available
+-->
 
 ## Bibliography
 
@@ -63,9 +55,9 @@ None Available
 
 - {{< keyword "porticoes" >}}
 - {{< keyword "trenches" >}}
+- {{< keyword "mosaics" >}}
 
 ## Places
 
 - {{< id vocab="Pleiades" id="108945" name="Durocortorum" >}}
-- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
-
+- {{< id vocab="TGN" id="7011060" name="Rheims (inhabited place)" >}}

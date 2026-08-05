@@ -4,7 +4,7 @@ type: garden
 title: Urban House East of Forum
 latlon: [ 49.5, 4.5 ]
 author: Maureen Carroll
-contributor: Yvette Pollack
+contributor: Yvette Pollack, Amelia Lamis
 date: 2021-04-21
 
 draft: true
@@ -12,16 +12,11 @@ draft: true
 
 ## Dates
 
-Unspecified
+second to third century CE 
 
-## Location
+## Excavation Dates
 
-- [COLONIA AUGUSTA TREVERORUM (Trier, Germany)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="108894" name="Col. Augusta Treverorum" >}}
-
-## Garden
-
-Urban House East of Forum
+unspecified
 
 ## Garden Description
 
@@ -29,6 +24,7 @@ In only one of the excavated houses of the second and third century in two *insu
 
 <!-- Whole entry comes from draft file -->
 
+<!--
 ## Maps
 
 None Available
@@ -40,6 +36,7 @@ None Available
 ## Images
 
 None Available
+-->
 
 ## Bibliography
 
@@ -51,9 +48,10 @@ None Available
 - {{< keyword "insulae" >}}
 - {{< keyword "atriums" >}}
 - {{< keyword "peristyles" >}}
+- {{< keyword "planting beds" >}}
+- {{< keyword "pools" >}}
 
 ## Places
 
 - {{< id vocab="Pleiades" id="108894" name="Col. Augusta Treverorum" >}}
-- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
-
+- {{< id vocab="TGN" id="7004447" name="Trier (inhabited place)" >}}

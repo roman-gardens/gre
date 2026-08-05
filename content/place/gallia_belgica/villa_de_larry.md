@@ -1,10 +1,10 @@
 ---
 slug: "29e3ce80ed"
 type: garden
-title: House of the Arsenal (Maison de l'Arsenal)
+title: Villa de Larry
 latlon: [ 49.118135, 6.174155 ]
 author: Maureen Carroll
-contributor: Yvette Pollack
+contributor: Yvette Pollack, Amelia Lamis
 date: 2021-04-21
 
 draft: true
@@ -12,26 +12,11 @@ draft: true
 
 ## Dates
 
-Unspecified
+first to fourth century CE
 
-## Location
+## Excavation Dates
 
-- [DIVODURUM MEDIOMATRICORUM (Liéhon, France)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="108927" name="Divodurum/Mettis" >}}
-
-
-<!-- ## Sublocation -->
-
-<!--
-[AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!-- ## Sublocation Description -->
-
-## Garden
-
-Villa de Larry
+2003; 2006-2007
 
 ## Garden Description
 
@@ -42,7 +27,7 @@ In 2003, in connection with the extension of the north runway of the Metz-Nancy-
 
 At its architectural apogee between 190 and 250, the buildings of the *pars urbana* enclosed about 5000 square meters. The residential habitable areas - the great rooms, the lateral pavilions, the galleries, the *triclinia*, the *balnea major* and *minor*, the bedrooms and service areas were arranged around the central *courtyard* and garden areas. The buildings covered a total of more than 1.3 hectares. The rest, more than two-thirds of the *pars urbana*, were *courtyards* and gardens.
 
-For ease of description, we will assume that the top of the plan (Fig. 1) is the north side, though in fact it is the northwest side. In these terms, the north side of the central *courtyard* was open for just over half its length onto a 90-meter-long *courtyard* or garden along the north side of the *pars urbana*. This court was bordered on the north by a closed gallery which marked the separation from the *pars rustica*. In the southeast corner of this large court, in an area of 92 square meters (shaded green and marked with a V and a 1 in Fig. 1, there were discovered definite traces of a pleasure garden, namely, planting trenches and pits for a *hedge* or row of bushes which marked its limits (Fig. 2). The planting trenches were preserved to a depth of 5 to 15 centimeters. The soil in them was a gray sandy silt, while surrounding soil was the geological clay of the area. The row of bushes was placed parallel to the large, heated reception room just to the south. Detail and a possible hypothetical reconstruction of the layout of this garden are shown in Fig. 3.  Moreover, traces of five pairs of post holes in the soil were discovered east of the inner façade of the entry porch and in alignment with it. They may be related to a *pergola* (8.4 x 2 m) (Fig. 1 and detail in Fig. 4).
+For ease of description, we will assume that the top of the plan (Fig. 1) is the north side, though in fact it is the northwest side. In these terms, the north side of the central *courtyard* was open for just over half its length onto a 90-meter-long *courtyard* or garden along the north side of the *pars urbana*. This court was bordered on the north by a closed gallery which marked the separation from the *pars rustica*. In the southeast corner of this large court, in an area of 92 square meters (shaded green and marked with a V and a 1 in Fig. 1), there were discovered definite traces of a pleasure garden, namely, planting trenches and pits for a *hedge* or row of bushes which marked its limits (Fig. 2). The planting trenches were preserved to a depth of 5 to 15 centimeters. The soil in them was a gray sandy silt, while surrounding soil was the geological clay of the area. The row of bushes was placed parallel to the large, heated reception room just to the south. Detail and a possible hypothetical reconstruction of the layout of this garden are shown in Fig. 3.  Moreover, traces of five pairs of post holes in the soil were discovered east of the inner façade of the entry porch and in alignment with it. They may be related to a *pergola* (8.4 x 2 m) (Fig. 1 and detail in Fig. 4).
 
 Two walkways, now much despoiled of their stones, formed a T (indicated by dotted lines in Fig. 1) and connected this entry porch to the two lateral pavilions which framed the forecourt. Likewise, a large court bordered the western part of the west wing and northwest pavilion. It was enclosed by a wall on the south and west defining an area of 3265 square meters. Erosion of the ancient surface of the soil, however, destroyed any other horticultural traces. In all, the three large *courtyards*, enclosed or bordered by residential buildings covered 7,100 square meters.
 
@@ -54,6 +39,7 @@ In the fourth century, the villa was in large part ruined; the pools were filled
 
 The Villa de Larry site is an example of the villa of a country estate where the gardens integrated the architecture of the buildings. The art of gardening bore witness to the will of the builders and proprietors to master nature and the plant world, imposing on them harmonious and regular forms with plans inspired by the imperial prototypes of Rome.
 
+<!--
 ## Maps
 
 None Available
@@ -65,6 +51,7 @@ None Available
 ## Images
 
 None Available
+-->
 
 ## Bibliography
 
@@ -82,5 +69,4 @@ None Available
 ## Places
 
 - {{< id vocab="Pleiades" id="108927" name="Divodurum/Mettis" >}}
-- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
-
+- {{< id vocab="TGN" id="7008418" name="Metz (inhabited place)" >}}

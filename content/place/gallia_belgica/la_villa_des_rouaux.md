@@ -4,7 +4,7 @@ type: garden
 title: La Villa des Rouaux
 latlon: [ 49.118135, 6.174155 ]
 author: Maureen Carroll
-contributor: Yvette Pollack
+contributor: Yvette Pollack, Amelia Lamis
 date: 2021-04-21
 
 draft: true
@@ -14,24 +14,9 @@ draft: true
 
 Unspecified
 
-## Location
+## Excavation Dates
 
-- [DIVODURUM MEDIOMATRICORUM (Peltre, France)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="108927" name="Divodurum/Mettis" >}}
-
-
-<!-- ## Sublocation -->
-
-<!--
-[AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!-- ## Sublocation Description -->
-
-## Garden
-
-Villa de Larry
+2004
 
 ## Garden Description
 
@@ -42,15 +27,15 @@ In 2004, an open air excavation on 2.5 hectares permitted the study of the remai
 
 The estate began from a wooden structure built at the end of the Gaulic period [1]. (Numbers refer to plan Fig. 1) It was replaced in the course of the Tiberian period by a building of durable materials. This second phase was then extensively remodeled in the Flavian period to give it an affluent, indeed, a monumental aspect by adding a long *portico* [2] framed by two pavilions [3]. A bath wing [4] and other touches were added later. In parallel with this evolution of the main edifice, annexes [5] were constructed to define a long rectangular court beginning from the façade of the main building. It was not possible to determine the precise chronology of the construction of this *court*, but it was, in any event, already in place when the living quarters were enlarged in the next phase.
 
-In this next phase, the space of the estate was structured by building several low, separating walls, perhaps dividing the whole into the classic *pars urbana* and *pars rustica*.The *pars urbana*, of which the central element was the main dwelling, included also surrounding spaces, well defined by the low walls. In front, a pleasure *courtyard* [6] or garden was developed in harmony with the façade. A pool [7] occupied a good part of the area.
+In this next phase, the space of the estate was structured by building several low, separating walls, perhaps dividing the whole into the classic *pars urbana* and *pars rustica*. The *pars urbana*, of which the central element was the main dwelling, included also surrounding spaces, well defined by the low walls. In front, a pleasure *courtyard* [6] or garden was developed in harmony with the façade. A pool [7] occupied a good part of the area.Several fragments of statues of white Grecian marble attest the presence of a rich décor with at least two divinities of which one was Harpocrates (Fig. 2 a Hellenized version of the child Horus).
 
-Several fragments of statues of white Grecian marble attest the presence of a rich décor with at least two divinities of which one was Harpocrates (Fig. 2 a Hellenized version of the child Horus).
 On either side of the main dwelling were smaller *courtyards* with technical functions. The one on the west [8] encloses the bath wing, which seems to have been added after the expansion of the main dwelling. The *courtyard* on the east [9] housed various hydraulic equipment, including buried conduits and a distribution box, necessary for water supply to the pool and the bath wing. Back (north) of the main house was a large area 140 meters wide [10] and of unknown extension to the north which may have been an orchard or a park.
 
 The *pars rustica* was organized on either side of a vast court [11], of which the perspective was blocked by the succession of buildings on the west. In effect, the desire for symmetry expressed in the garden with the pool was somewhat thwarted by this alignment of the pre-existing annexes. A gateway [12] in the middle of the low wall which separates this area from the garden with the pool allowed access to this space [11], which was very much off the axis of the main dwelling. In the interior of the *courtyard* [11], the only structures found were the remains of a hexagonal foundation [13] around a quadrangular trench. This combination has been interpreted as a funeral enclosure, possibly that of owner who gave the villa its luxurious character. On either side of [11], the annexes were about ten meters back from the fencing walls.
 
 These observations suggest that this large *court* [11] was not used for agricultural purposes but is rather to be interpreted as a park.  In the second half of the third century, the estate declined and became a quarry for building materials. Later, some parts of the ruins were reoccupied until the middle of the fifth century, as indicated by hasty repairs made with salvaged pieces or light materials.
 
+<!--
 ## Maps
 
 None Available
@@ -62,6 +47,7 @@ None Available
 ## Images
 
 None Available
+-->
 
 ## Bibliography
 
@@ -79,5 +65,5 @@ None Available
 ## Places
 
 - {{< id vocab="Pleiades" id="108927" name="Divodurum/Mettis" >}}
-- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
-
+- {{< id vocab="TGN" id="7616302" name="Peltre (inhabited place)" >}}
+- {{< id vocab="TGN" id="7008418" name="Metz (inhabited place)" >}}
