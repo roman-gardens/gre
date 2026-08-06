@@ -40,7 +40,7 @@ One-half aroura (.14 ha.). Leased in 69 CE for 3 years. Includes fruit trees of 
 
 ## Bibliography
 
-- *P.Soter*.1. [(papyri.info)](https://papyri.info/hgv/13123)
+- *P.Soter*.1. [(papyri.info)](https://papyri.info/current/13123)
 
 ## Keywords
 

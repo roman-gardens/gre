@@ -40,7 +40,7 @@ Vineyard, reed plantation, orchard, olive grove, date-palm grove, mulberry grove
 
 ## Bibliography
 
-- *P.Mich*.13.666. [(papyri.info)](https://papyri.info/hgv/21378)
+- *P.Mich*.13.666. [(papyri.info)](https://papyri.info/current/21378)
 
 ## Keywords
 

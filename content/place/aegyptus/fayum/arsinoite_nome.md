@@ -40,7 +40,7 @@ In an unknown village; size not stated, part of larger tract of 10.5 arouras. Le
 
 ## Bibliography
 
-- CPR.8.71. [(papyri.info)](http://papyri.info/ddbdp/cpr;8;71)
+- CPR.8.71. [(papyri.info)](https://papyri.info/current/9881)
 
 ## Keywords
 

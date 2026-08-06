@@ -40,7 +40,7 @@ Located in the western plain of the village. Size not given. Leased after 550 CE
 
 ## Bibliography
 
-- *P.Hamb*.1.68. [(papyri.info)](https://papyri.info/ddbdp/p.hamb;1;68)
+- *P.Hamb*.1.68. [(papyri.info)](https://papyri.info/current/21049)
 
 ## Keywords
 

@@ -40,7 +40,7 @@ Described as a garden of the city inside its walls (*κῆπον τῆς πόλ�
 
 ## Bibliography
 
-- *P.Coll.Youtie*.2.66; *P.Oxy*.47.3366. [(papyri.info)](https://papyri.info/ddbdp/p.coll.youtie;2;66)
+- *P.Coll.Youtie*.2.66; *P.Oxy*.47.3366. [(papyri.info)](https://papyri.info/current/20885)
 
 ## Keywords
 
