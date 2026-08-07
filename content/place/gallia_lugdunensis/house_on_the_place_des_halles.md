@@ -4,7 +4,7 @@ type: garden
 title: House on the Place des Halles (La maison des Halles)
 latlon: [ 48.007160, 0.198493 ]
 author: Maureen Carroll
-contributor: Yvette Pollack
+contributor: Yvette Pollack, Amelia Lamis
 date: 2021-04-21
 
 draft: true
@@ -14,27 +14,13 @@ draft: true
 
 Unspecified
 
-## Location
+## Excavation Dates
 
--- missing in Pleiades --
-- [VINDINUM a.k.a. Subdinnum (Le Mans, France)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="109236" name="VINDINUM a.k.a. Subdinnum" >}}
-
-
-<!-- ## Sublocation -->
-
-<!--
-[AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
+1987-1988
 
 ## Sublocation Description
 
-On the left bank of the Sarthe, where it is joined by the Isaac creek, the Roman town was the successor to a Celtic oppidum. A wall of the late empire enclosed nine hectares.
-
-## Garden
-
-House on the Place des Halles (La maison des Halles)
+On the left bank of the Sarthe, where it is joined by the Isaac creek, the Roman town was the successor to a Celtic *oppidum*. A wall of the late empire enclosed nine hectares.
 
 ## Garden Description
 
@@ -49,6 +35,7 @@ This *domus* was on the Place des Halles, the former site of the covered market 
 ## Plans
 
 {{< image file="place_des_halles.jpg" caption="Restored section of the entire domus by P. André" credit="" alt="A section drawing depicting the two floors of what a restored domus would look like." >}}
+
 <!-- ## Images -->
 
 ## Bibliography
@@ -59,9 +46,9 @@ This *domus* was on the Place des Halles, the former site of the covered market 
 
 - {{< keyword "domus" >}}
 - {{< keyword "courtyards" >}}
+- {{< keyword "concrete" >}}
 
 ## Places
 
 - {{< id vocab="Pleiades" id="109236" name="Ouindinon/Subdinnum" >}}
-- {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
-
+- {{< id vocab="TGN" id="7008494" name="Le Mans (inhabited place)" >}}
