@@ -40,7 +40,7 @@ None Available
 
 ## Bibliography
 
-- D. CLIQUET, L'Eure, 27, CAG p.136-137, restitution  p.136. [(worldcat)](https://search.worldcat.org/title/715608474)
+- D. Cliquet, L'Eure, 27, *CAG* p.136-137, restitution  p.136. [(worldcat)](https://search.worldcat.org/title/715608474)
 
 ## Keywords
 
@@ -52,5 +52,4 @@ None Available
 ## Places
 
 - {{< id vocab="Pleiades" id="109153" name="Mediolanum Aulercorum" >}}
-- {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
-
+- {{< id vocab="TGN" id="7008924" name="Évreux (inhabited place)" >}}

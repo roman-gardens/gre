@@ -53,4 +53,4 @@ Not Available
 ## Places
 
 - {{< id vocab="Pleiades" id="167717" name="Col. Lugdunum" >}}
-- {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
+- {{< id vocab="TGN" id="7008772" name="Lyons (inhabited place)" >}}

@@ -2,9 +2,9 @@
 slug: "79108eb6ac"
 type: garden
 title: Roman Villa
-latlon: [ 49.024342, 1.151012 ]
+latlon: [ 49.9081, 0.9481]
 author: Maureen Carroll
-contributor: Yvette Pollack
+contributor: Yvette Pollack, Amelia Lamis
 date: 2021-04-21
 
 draft: true
@@ -14,14 +14,9 @@ draft: true
 
 Unspecified
 
-## Location
+## Excavation Dates
 
-- [Sainte-Marguerite-sur-Mer (Seine-Maritime, France)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="109153" name="Sainte-Marguerite-sur-Mer" >}}
-
-## Garden
-
-Sainte-Marguerite-sur-Mer (Seine-Maritime) Roman Villa
+1821 to 1830 (Solicoffre); 1840 to 1848 (Féret); 1876 (Loth)
 
 ## Garden Description
 
@@ -33,25 +28,30 @@ Eighty meters to the west, below the villa and parallel to its west side was a b
 
 The excavators also note at about 55 meters northeast of the promenade a small, square structure that could have been a little temple or shrine. They mention also two springs, one of which had a square basin and was still in use in 1876 by the inhabitants. The waters of the spring on the plateau were channeled by pipes of elm, some of which were discovered: "the trunk of an elm, 1.80 meters long, with its bark still on and hollowed out in the middle by a drill, carried water to feed the baths."  It was found in place along with several others and was then deposited in the museum of antiquities in Rouen.
 
+<!--
 ## Maps
 
 None Available
+-->
 
 ## Plans
 
 {{< image file="st_mar_plan.jpg" caption="Detailed Plan of Villa at Sainte-Marguerite-sur-Mer." credit="" alt="" >}}
 
 {{< image file="st_mar_2.jpg" caption="Plan drawings of the Villa, Temple, and Promenade at Sainte-Marguerite-sur-Mer." credit="" alt="" >}}
+
+<!--
 ## Images
 
 None Available
+-->
 
 ## Bibliography
 
-- P.J. Féret, Lettre adressée à M. de Caumont sur les fouilles pratiquées à Sainte-Marguerite sur Mer près Dieppe in *Bulletin Monumental* 9, 1843, p. 92-97.  <!-- No worldcat -->
+- P.J. Féret, Lettre adressée à M. de Caumont sur les fouilles pratiquées à Sainte-Marguerite sur Mer près Dieppe in *Bulletin Monumental* 9, 1843, p. 92-97. [(HathiTrust)](https://babel.hathitrust.org/cgi/pt?id=nyp.33433071383115&seq=124)
 - Ch.W. Martin, Note sur les fouilles exécutées en 1876 sur l'emplacement de la station romaine de Ste-Marguerite-sur-Mer (Seine inférieure), in *Bulletin de la Société des Antiquaires de Normandie*, 1861, p. 319-326. [(worldcat)](https://search.worldcat.org/title/1026569500)
 - abbé J. Loth, Fouilles de Ste-Marguerite-sur-Mer, in *Bulletin de la Commission des antiquités de la Seine-Inférieure*, Rouen, 1870, p. 68-75. [(worldcat)](https://search.worldcat.org/title/812701053)
-- <! -- In the process of being finalized: J.P. Darmon, Recueil "Erin Mckay" <emckay2@towson.edu>ise II, 5???, 1994 (ou 5 ???), n°:894-902, p.111-114; ???, in CAG Seine-maritime; 76, 20???, p. 497-500 (with detailed bibliography). -->
+<!-- In the process of being finalized: J.P. Darmon, Recueil "Erin Mckay" <emckay2@towson.edu>ise II, 5???, 1994 (ou 5 ???), n°:894-902, p.111-114; ???, in CAG Seine-maritime; 76, 20???, p. 497-500 (with detailed bibliography). -->
 
 ## Keywords
 
@@ -63,6 +63,5 @@ None Available
 
 ## Places
 
-- {{< id vocab="Pleiades" id="109153" name="Mediolanum Aulercorum" >}}
-- {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
-
+- {{< id vocab="Pleiades" id="109312" name="Sainte-Marguerite-sur-Mer" >}}
+- {{< id vocab="TGN" id="1035579" name="Sainte-Marguerite-sur-Mer (inhabited place)" >}}

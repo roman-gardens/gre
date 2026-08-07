@@ -4,7 +4,7 @@ type: garden
 title: Vaise - House with the Xenia
 latlon: [ 45.758866, 4.819481 ]
 author: Maureen Carroll
-contributor: Yvette Pollack
+contributor: Yvette Pollack, Amelia Lamis
 date: 2021-04-21
 
 draft: true
@@ -12,15 +12,11 @@ draft: true
 
 ## Dates
 
+reign of Tiberius (14-37 CE) to reign of Vespasian (69-79 CE)
+
+## Excavation Dates
+
 Unspecified
-
-## Location
-
-- [LUGDUNUM (Lyon, France)]({{<relref ".">}})
-
-## Garden
-
-House with Pilasters (Clos du Verbe Incarné)
 
 ## Garden Description
 
@@ -30,6 +26,7 @@ The limit of the court on the west is not certain [phase II, 1]. As a hypothesis
 
 The ground of the central part of the *courtyard* was topsoil and earth coming from under the *porticos*. Three samples have been studied palynolocially. The results leave no doubt that a garden grew in the center. We quote the abstract of the publication. "The pollen content is relatively poor, and the counts have been made for each sample separately. The spectrum of pollens includes a rather wide diversity of herbaceous plants of which certain families can include ornamental plants such as the tubuliflorous composites and the Caryophyllaceae (pink family). Ruderal plants, that is, those that grow in sites much transformed by man such as clearings or waste places near habitations, predominate: Chenopodiaceae (such as spinach, beets and their relatives –Tr.), gramineous plants, and the following genera: nettles, arnois (artemesia, tarragon –Tr.), and plantain (Plantago lanceolata). This last is often associated with the cultivation of cereals. There were also species of ferns. Walnuts (Juglans) and grapes (Vitis) may have been cultivated around the site. Finally, pine (Pinus) is relatively well represented, but the very high rate of pollenization of the pine and its capacity for dispersion of its pollens often lead to an over-representation of these species. Thus, this *courtyard* could have been cultivated as an ornamental garden." (E. Delaval et al., p. 89).
 
+<!--
 ## Maps
 
 None Available
@@ -41,6 +38,7 @@ None Available
 ## Images
 
 None Available
+-->
 
 ## Bibliography
 
@@ -56,5 +54,4 @@ None Available
 ## Places
 
 - {{< id vocab="Pleiades" id="167717" name="Col. Lugdunum" >}}
-- {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
-
+- {{< id vocab="TGN" id="7008772" name="Lyons (inhabited place)" >}}

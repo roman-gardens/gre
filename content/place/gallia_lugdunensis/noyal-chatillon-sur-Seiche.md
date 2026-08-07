@@ -4,7 +4,7 @@ type: garden
 title: Villa de Châtillon-sur-Seiche
 latlon: [ 48.042566, -1.65974 ]
 author: Maureen Carroll
-contributor: Yvette Pollack
+contributor: Yvette Pollack, Amelia Lamis
 date: 2021-04-21
 
 draft: true
@@ -12,16 +12,11 @@ draft: true
 
 ## Dates
 
-Unspecified
+ca. 80 CE to end of fourth century CE 
 
-## Location
+## Excavation Dates
 
-- [NOYAL-CHATILLION-SUR-SEICHE (Ille-et-Vilaine, France)]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="69488" name="Châtillon-sur-Seiche" >}}
-
-## Garden
-
-Villa de Châtillon-sur-Seiche
+1984 to 1988
 
 ## Garden Description
 
@@ -33,7 +28,7 @@ From a period immediately following the Roman occupation (from 20 BCE to about 4
 
 A modest farmhouse (Phase 1) was built about CE 30. To the south extended a *courtyard* (65 x 70 m), delimited by a *trench,* which may have had a garden. Outbuildings included a forge, a workshop, and three small homes with fireplaces.
 
-About CE 80, the farmhouse was razed to make room for the first villa (Phase 2).Built of small stones, this villa consisted of five rooms in a line extending 26.5 meters along the north side of a gallery. A wall replaced the trench delimiting the *courtyard.* Outbuildings included a barn, a mill, and a chalk oven, in addition to the forge and homes.
+About CE 80, the farmhouse was razed to make room for the first villa (Phase 2). Built of small stones, this villa consisted of five rooms in a line extending 26.5 meters along the north side of a gallery. A wall replaced the trench delimiting the *courtyard.* Outbuildings included a barn, a mill, and a chalk oven, in addition to the forge and homes.
 
 Then, somewhere around 180, residential structures were attached to the outside of the wall on the east side of the *courtyard* (Phase 3). They may have been the residence of the villicus. A little to the south and also outside the *courtyard* was built a square *fanum,* a type of temple thought to be of Celtic origin and consisting of a tower in a *courtyard* surrounded by a gallery.
 
@@ -56,6 +51,7 @@ A study of pollens and sediments below the levels of the Gallo-Roman villa in a 
 ## Plans
 
 {{< image file="noyal2.jpg" caption="Plans of Land Development Over Time." credit="" alt="Two maps with developed and labeled plans of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) from 180 CE or J.C. to the villa in the middle of the third century CE or J.C." >}}
+
 ## Images
 
 {{< image file="noyal_photo.jpg" caption="The Fountain Bassin." credit="" alt="A grainy photograph of an archaeological dig of the fountain bassin." >}}
@@ -80,5 +76,4 @@ A study of pollens and sediments below the levels of the Gallo-Roman villa in a 
 ## Places
 
 - {{< id vocab="Pleiades" id="69488" name="Châtillon-sur-Seiche" >}}
-- {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
-
+- {{< id vocab="TGN" id="7653766" name="Châtillon-sur-Seiche (inhabited place)" >}}

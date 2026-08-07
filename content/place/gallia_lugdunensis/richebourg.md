@@ -1,10 +1,10 @@
 ---
 slug: "2f1a2cc53f"
 type: garden
-title: Richebourg (Yvelines) villa de
+title: Villa de Richebourg (Yvelines)
 latlon: [ 48.445658, 1.485617 ]
 author: Maureen Carroll
-contributor: Yvette Pollack
+contributor: Yvette Pollack, Amelia Lamis
 date: 2021-04-21
 
 draft: true
@@ -14,13 +14,9 @@ draft: true
 
 Unspecified
 
-## Location
+## Excavation Dates
 
-- [AUTRICUM (Chartres, France)]({{<relref ".">}})
-
-## Garden
-
-Richebourg (Yvelines) villa de
+Unspecified
 
 ## Garden Description
 
@@ -40,13 +36,16 @@ Near the southwest corner of the villa, a stone masonry slab [5] of irregular pl
 
 Pollen analyses have yielded some results, although the pollens were damaged and oxidized by the dry environment. Samples of garden soil were both from the pots and from outside them. Several of the species identified, such as plantain, argue for a mown lawn. The tree species indicate the presence of conifers – cedars, larches and spruces (cedrus, larix, picea).  An oleaceae (determined by D. Marguerie) poses problems of interpretation. Was it a lilac or an olive?  In either case, it is an imported species. The lilac would come from the northeast of the Balkans; the olive, from the Mediterranean. Though the lilac might seem more probable on the basis of current plantings, it is noteworthy that Pliny reports that the olive was acclimated in central Gaul (H.N. V 1-2, XVII, 47-48). The genus Prunus appeared several times, thus confirming the results of charcoal analysis (anthracology) but without determination of the species – wild cherry or domestic cherry. Ivy is also present, perhaps to cover the pergolas.
 
+<!--
 ## Maps
 
 None Available
+-->
 
 ## Plans
 
 {{< image file="yvelines1.jpg" caption="Plan 1:  Fig 4 - Plan of the Athenian Gardens of Richebourg" credit="" alt="A plan of the gardens of Richebourg. Small black dots, representing places where horticultural pots were found are also marked on the plan." >}}
+
 ## Images
 
 {{< image file="yvelines2.jpg" caption="Plan 1:  Bird's Eye Perspective of the Garden" credit="" alt="A colorful bird's eye perspective of the garden between the buildings." >}}
@@ -54,8 +53,8 @@ None Available
 ## Bibliography
 
 - Y. Barat, La villa gallo-romaine de Richebourg (Yvelines) in  *Revue  Archéologique  du  Centre  de  la  France,*  38, 1999, p. 117-67, plans  p. 122, jardin  p.140. [(worldcat)](https://search.worldcat.org/title/4647907321)
-- Y Barat, D. Morize, Les pots d'horticulture dans le monde antique et les jardins de la villa de Richebourg (Yvelines), in *SFECAG, Actes du colloque de Fribourg,* 1999, p. 213-36.  <!-- no worldcat -->
-- Y. Barat, La recherche archéologique des jardins antiques in *Les nouvelles de l'archéologie*  83-84, 2001, p. 56-62, not. P. 58-59. <!-- no worldcat -->
+- Y Barat, D. Morize, Les pots d'horticulture dans le monde antique et les jardins de la villa de Richebourg (Yvelines), in *SFECAG, Actes du colloque de Fribourg,* 1999, p. 213-36. [(worldcat)](https://search.worldcat.org/title/491058489)
+- Y. Barat, La recherche archéologique des jardins antiques in *Les nouvelles de l'archéologie*  83-84, 2001, p. 56-62, not. P. 58-59. [(worldcat)](https://search.worldcat.org/title/10937531085)
 - G. Coulon, J.C. Golvin, *Voyage en Gaule romaine,* Actes sud Errance, Arles-Paris, 2002, p.121-3, restitution p. 122-3. [(worldcat)](https://search.worldcat.org/title/1002913551)
 - Y. Barat and D. Morize, L'archéologie des jardins antiques: le cas de la *pars urbana* de la *villa* de Richebourg (Yvelines) in *Actualité de la Recherche en Histoire et Archéologie agraires, Annales Littéraires de L'Université de Franche-Comté,* 764, Besançon, 2003.  [(worldcat)](https://search.worldcat.org/title/243748592)
 
@@ -73,5 +72,4 @@ None Available
 ## Places
 
 - {{< id vocab="Pleiades" id="108778" name="Autricum" >}}
-- {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
-
+- {{< id vocab="TGN" id="7008267" name="Chartres (inhabited place)" >}}

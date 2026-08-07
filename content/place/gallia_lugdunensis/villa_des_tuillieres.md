@@ -4,7 +4,7 @@ type: garden
 title: Villa des Tuillières
 latlon: [ 47.319533, 4.796299 ]
 author: Maureen Carroll
-contributor: Yvette Pollack
+contributor: Yvette Pollack, Amelia Lamis
 date: 2021-04-21
 
 draft: true
@@ -14,13 +14,9 @@ draft: true
 
 Unspecified
 
-## Location
+## Excavation Dates
 
-- [SELONGEY (Côte d'Or, France)]({{<relref ".">}})
-
-## Garden
-
-Villa des Tuillières
+1976 to 1988
 
 ## Garden Description
 
@@ -36,6 +32,7 @@ The villa was destroyed during the barbarian invasion into Gaul in 256-8 CE, whi
 
 Furthermore, there is evidence of lentil (*Lens culinaris*) and broad bean (*Vicia faba*), which were most probably cultivated either in the gardens of the villa or on small fields in the vicinity. Carbonized scales from walnuts and uncarbonized fruit stones from peach (*Prunus persica*) and damson (*Prunus insititia*) indicate cultivation of fruit trees in the gardens while hazel (*Corylus avellana*) and sloe (*Prunus spinosa*) were most probably fruits collected from the wild.
 
+<!--
 ## Maps
 
 None Available
@@ -47,16 +44,17 @@ None Available
 ## Images
 
 None Available
+-->
 
 ## Bibliography
 
-- J.C. Beal with the collaboration of d'A. et A. Ruellet, La resserre de Selongey (Côte d'Or): une collection d'objets de bois et d'ivoire dans la villa des Tuillières,» *Revue Archéologique de l'Est* xx
+- J.C. Beal with the collaboration of d'A. et A. Ruellet, La resserre de Selongey (Côte d'Or): une collection d'objets de bois et d'ivoire dans la villa des Tuillières,» *Revue Archéologique de l'Est* 
 - E. Gauthier, M. Joly, « Vignoble et viticulture dans le centre-est de la Gaule au Ier siècle « .in: F. Favory/A. Vignot (eds.), Actualités de la Recherche en Histoire et Archéologie agraires. Actes du colloque international AGER V, Besançon 2000.
 - *Collection Annales Littéraires* No. 764, Série *Environnement*, sociétés et archéologie 5(2003) :191-208, Besançon;
 - A. Olivier, A. Ruellet, « Selongey, « La villa » In: Archéologie de Bourgogne. La Côte d'Or » Dijon, Musée Archéologique/Errance, Paris, 1990, pp. 77-78; A. Ruellet, « La villa des Tuillières à Selongey, » in L'autoroute au pays des Lingons. Archéologie et autoroute A31. Sociétés des autoroutes Paris-Rhin-Rhône, Dijon, 1989, pp. 34-39: A. and A. Ruellet, J.-C. Beal, « La villa de Selongey. » in Il était une fois la Côte d'Or. 20 ans de recherches archéologiques [exhibition catalogue Dijon, Musée archéologique], Paris, pp. 95-104; J. Wiethold, "'How to trace the 'Romanisation' of central Gaule by archaeobotanical analysis?" in F. Favory/A. Vignot (eds.), Actualités de la Recherche en Histoire et Archéologie agraires. Actes du colloque international AGER V, Besançon 2000. Collection Annales Littéraires No. 764, Série Environnement, sociétés et archéologie 5(2003) : 269-282.  <!-- No worldcat -->
 - Ch.W. Martin, Note sur les fouilles exécutées en 1876 sur l'emplacement de la station romaine de Ste-Marguerite-sur-Mer (Seine inférieure), in *Bulletin de la Société des Antiquaires de Normandie*, 1861, p. 319-326. [(worldcat)](https://search.worldcat.org/title/1026569500)
 - abbé J. Loth, Fouilles de Ste-Marguerite-sur-Mer, in *Bulletin de la Commission des antiquités de la Seine-Inférieure*, Rouen, 1870, p. 68-75. [(worldcat)](https://search.worldcat.org/title/812701053)
-- <! -- In the process of being finalized: J.P. Darmon, Recueil "Erin Mckay" <emckay2@towson.edu>ise II, 5???, 1994 (ou 5 ???), n°:894-902, p.111-114; ???, in CAG Seine-maritime; 76, 20???, p. 497-500 (with detailed bibliography). -->
+<!-- In the process of being finalized: J.P. Darmon, Recueil "Erin Mckay" <emckay2@towson.edu>ise II, 5???, 1994 (ou 5 ???), n°:894-902, p.111-114; ???, in CAG Seine-maritime; 76, 20???, p. 497-500 (with detailed bibliography). -->
 
 ## Keywords
 
@@ -67,5 +65,4 @@ None Available
 ## Places
 
 - {{< id vocab="Pleiades" id="177578" name="Mediolanum" >}}
-- {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
-
+- {{< id vocab="TGN" id="1035686" name="Selongey (inhabited place)" >}}
