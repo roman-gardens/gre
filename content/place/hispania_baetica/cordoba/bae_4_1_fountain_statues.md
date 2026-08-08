@@ -12,6 +12,8 @@ date: 2026-06-03
 draft: true
 ---
 
+<!--TODO: where is the text for this garden?-->
+
 ## Dates
 <!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
 

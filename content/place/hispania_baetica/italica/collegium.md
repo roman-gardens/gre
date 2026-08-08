@@ -3,8 +3,8 @@ slug: "88c343cdb1"
 type: garden
 title: Collegium of the Exedra
 latlon: [ 37.442682, -6.045057 ]
-author:
-contributor: Lai Ching Tsui, Keith Jenkins
+author: Author Name
+contributor: Lai Ching Tsui, Keith Jenkins, Amelia Lamis
 jashemski-catalogue: BAE 9.2
 date: 2021-04-21
 
@@ -15,34 +15,25 @@ draft: true
 
 unspecified
 
-## Location
+## Excavation Dates
 
-- [Italica]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="256231" name="Italica" >}}
-
-## Location Description
-
-In 206 BCE, Publius Cornelius Scipio settled wounded veterans of the battle of Ilipa in an existing Turdentanian town which he renamed Italica to remind the settlers and their descendants of their origins.  Three centuries later, it was still a town of some 14 hectares, less than a fourth the size of Pompeii and much smaller than neighboring [Hispalis](https://pleiades.stoa.org/places/256210) (Sevilla) or [Corduba](https://pleiades.stoa.org/places/256128).  Little is known of this town archaeologically because it lies under modern Santiponce.
-
-Italica underwent a major expansion during the reign of the emperor Hadrian, a native of the town. A new area of 30 hectares to the northwest of the old city was enclosed with walls, laid out in an orthogonal plan, and provided with aqueduct water and a well-designed sewer system. Imperial-style baths were built, and a vast and innovative monument to Hadrian's adopted father Trajan, the *Traianeum*, was erected.  Just north of the new walls an amphitheater accommodating 25,000 spectators was constructed. Dio Cassius says (69.10.1) says that Hadrian showed his patria great honor and bestowed on it many splendid gifts. Style and construction techniques point to imperial and even eastern influence in the layout, the baths, and the *Traianeum*.  Mileposts on a new road leading north proclaim his patronage, the aqueduct is almost surely his work, and his initials are found on some lead pipes.
-
-## Garden
-
-Collegium
+unspecified
 
 ## Garden Description
 
-A building just south of the public park has been identified as the seat of a Collegium because of its internal structure and size. It was previously known as 'The House of the Exedra.' It occupies an entire insula, some 4,000 square meters. In its center is a peristyle, which was surrounded by galleries roofed with cross vaulting supported by brick pillars of rectangular cross-section with abutting pilasters making them cruciform in shape. In the center of the peristyle is a pool notable for its curves. It surrounds a circular planter for a tree or flowers.
+A building just south of the [public park](/id/cbc00aa8f3/) has been identified as the seat of a Collegium because of its internal structure and size. It was previously known as 'The House of the Exedra.' It occupies an entire insula, some 4,000 square meters. In its center is a peristyle, which was surrounded by galleries roofed with cross vaulting supported by brick pillars of rectangular cross-section with abutting pilasters making them cruciform in shape. In the center of the peristyle is a pool notable for its curves. It surrounds a circular planter for a tree or flowers.
 
 ## Maps
 
 {{< image file="HIS_BAE_Italica_city_plan_CA.jpg" caption="Fig. 1: Map of Italica." credit="" alt="" >}}
 
-## Images
+## Plans
 
-{{< image file="HIS-BAE-Ita-Collegium-plan1.jpg" caption="Fig. 1: Plan of the Collegium of the Excedra." credit="" alt="" >}}
+{{< image file="HIS-BAE-Ita-Collegium-plan1.jpg" caption="Fig. 2: Plan of the Collegium of the Excedra." credit="" alt="" >}}
 
-{{< image file="HIS-BAE-italica-collegium-photo2.jpg" caption="Fig. 2: Photo of the existing site." credit="" alt="" >}}
+## Images 
+
+{{< image file="HIS-BAE-italica-collegium-photo2.jpg" caption="Fig. 3: Photo of the existing site." credit="" alt="" >}}
 
 ## Bibliography
 
@@ -55,10 +46,10 @@ A building just south of the public park has been identified as the seat of a Co
 - {{< keyword "peristyles" >}}
 - {{< keyword "pillars" >}}
 - {{< keyword "pilasters" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "planters" >}}
 
 ## Places
 
-- [Collegium at Italica]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="810966696" name="Collegium at Italica" >}}
 - {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}
-

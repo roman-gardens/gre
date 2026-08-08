@@ -3,8 +3,8 @@ slug: "91325c865c"
 type: garden
 title: House of the Mithra
 latlon: [ 37.487748, -4.459183 ]
-author:
-contributor: Lai Ching Tsui
+author: Author Name
+contributor: Lai Ching Tsui, Amelia Lamis
 jashemski-catalogue: BAE 3.1
 date: 2021-04-21
 
@@ -13,16 +13,11 @@ draft: true
 
 ## Dates
 
+early Imperial to fourth century CE
+
+## Excavation Dates
+
 unspecified
-
-## Location
-
-- [Egabrum]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="265919" name="Egabrum" >}}
-
-## Garden
-
-House of the Mithra
 
 ## Garden Description
 
@@ -30,11 +25,11 @@ Excavations identified two building phases in the villa. The early Imperial phas
 
 <!-- ## Maps -->
 
-<!-- ## Plans -->
-
-## Images
+## Plans
 
 {{< image file="HIS_BAE_Ega_Hm_plan_CA1.jpg" caption="Fig. 1: Plan of the House of the Mithra." credit="Gorges, Planche XXXIII." alt="" >}}
+
+## Images
 
 {{< image file="HIS_BAE_Ega_Hm_photo_CA2.jpg" caption="Fig. 2: Photo of the peristyle looking northwest." credit="" alt="" >}}
 
@@ -42,9 +37,9 @@ Excavations identified two building phases in the villa. The early Imperial phas
 
 ## Bibliography
 
-- A. Blanco, J. García y M. Bendala, 'Excavaciones en Cabra (Córdoba).La Casa de Mitra (Primera campaña, 1972),' *Habis 3*, Universidad de Sevilla, (Sevilla 1973), 297-319.[(worldcat)](https://search.worldcat.org/title/920418457)
+- A. Blanco, J. García y M. Bendala, 'Excavaciones en Cabra (Córdoba). La Casa de Mitra (Primera campaña, 1972),' *Habis 3*, Universidad de Sevilla, (Sevilla 1973), 297-319. [(worldcat)](https://search.worldcat.org/title/920418457)
 - M.ª C. Fernández Castro,*Villas romanas en Hispania*, (Madrid 1982). [(worldcat)](https://search.worldcat.org/title/876519837)
-- J. L. Jiménez Salvador and M. Martín Bueno,*La Casa del Mitra*, Ayuntamiento de Córdoba, (Córdoba, 1991).[(worldcat)](https://search.worldcat.org/title/490626772)
+- J. L. Jiménez Salvador and M. Martín Bueno,*La Casa del Mitra*, Ayuntamiento de Córdoba, (Córdoba, 1991). [(worldcat)](https://search.worldcat.org/title/490626772)
 
 ## Keywords
 
@@ -54,11 +49,8 @@ Excavations identified two building phases in the villa. The early Imperial phas
 - {{< keyword "fountains" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "Doric order" >}}
-<!-- TODO triclinia -- should this be couches or rooms??? -->
 
 ## Places
 
-- [Igabrum/Egabrum]{{<relref ".">}})
 - {{< id vocab="Pleiades" id="265919" name="Igabrum/Egabrum" >}}
 - {{< id vocab="TGN" id="7007570" name="Cabra (inhabited place)" >}}
-

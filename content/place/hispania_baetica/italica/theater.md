@@ -3,8 +3,8 @@ slug: "c72ff9e782"
 type: garden
 title: Italica Theater
 latlon: [ 37.4400768235, -6.03870183489 ]
-author:
-contributor: Lai Ching Tsui, Keith Jenkins
+author: Author Name
+contributor: Lai Ching Tsui, Keith Jenkins, Amelia Lamis
 jashemski-catalogue: BAE 9.8
 date: 2021-04-21
 
@@ -15,20 +15,9 @@ draft: true
 
 unspecified
 
-## Location
+## Excavation Dates
 
-- [Italica]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="256231" name="Italica" >}}
-
-## Location Description
-
-In 206 BCE, Publius Cornelius Scipio settled wounded veterans of the battle of Ilipa in an existing Turdentanian town which he renamed Italica to remind the settlers and their descendants of their origins.  Three centuries later, it was still a town of some 14 hectares, less than a fourth the size of Pompeii and much smaller than neighboring [Hispalis](https://pleiades.stoa.org/places/256210) (Sevilla) or [Corduba](https://pleiades.stoa.org/places/256128).  Little is known of this town archaeologically because it lies under modern Santiponce.
-
-Italica underwent a major expansion during the reign of the emperor Hadrian, a native of the town. A new area of 30 hectares to the northwest of the old city was enclosed with walls, laid out in an orthogonal plan, and provided with aqueduct water and a well-designed sewer system. Imperial-style baths were built, and a vast and innovative monument to Hadrian's adopted father Trajan, the *Traianeum*, was erected.  Just north of the new walls an amphitheater accommodating 25,000 spectators was constructed. Dio Cassius says (69.10.1) says that Hadrian showed his patria great honor and bestowed on it many splendid gifts. Style and construction techniques point to imperial and even eastern influence in the layout, the baths, and the *Traianeum*.  Mileposts on a new road leading north proclaim his patronage, the aqueduct is almost surely his work, and his initials are found on some lead pipes.
-
-## Garden
-
-Theater
+unspecified
 
 ## Garden Description
 
@@ -36,11 +25,11 @@ The Italica Theater makes use of the side of a hill to support most of its *grad
 
 ## Maps
 
-{{< image file="HIS_BAE_Italica_city plan_CA.jpg" caption="Fig. 1: Map of Italica." credit="" alt="" >}}
+{{< image file="HIS_BAE_Italica_city_plan_CA.jpg" caption="Fig. 1: Map of Italica." credit="" alt="" >}}
 
 ## Images
 
-{{< image file="HIS_BAE_Italica_theater_plan_Notebook.jpg" caption="Fig. 1: Plan of the Theater, from Italica MMCC, page 43." credit="" alt="" >}}
+{{< image file="HIS_BAE_Italica_theater_plan_Notebook.jpg" caption="Fig. 2: Plan of the Theater." credit="Italica MMCC, page 43." alt="" >}}
 
 ## Bibliography
 
@@ -59,7 +48,5 @@ The Italica Theater makes use of the side of a hill to support most of its *grad
 
 ## Places
 
-- [2224658206]{{<relref ".">}})
-<!-- {{< id vocab="Pleiades" id="224658206" name="224658206" >}} is invalid -->
+- {{< id vocab="Pleiades" id="132543925" name="Roman theater at Italica" >}}
 - {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}
-

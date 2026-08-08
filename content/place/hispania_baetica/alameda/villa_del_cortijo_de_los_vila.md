@@ -3,8 +3,8 @@ slug: "d641fc022c"
 type: garden
 title: Villa del Cortijo de los Vila
 latlon: [ 37.216462, -4.657951 ]
-author:
-contributor: Lai Ching Tsui
+author: Author Name
+contributor: Lai Ching Tsui, Amelia Lamis
 jashemski-catalogue: BAE 5.1
 date: 2021-04-21
 
@@ -15,23 +15,15 @@ draft: true
 
 unspecified
 
-## Location
+## Excavation Dates
 
-- [Alameda]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="270382" name="Alameda" >}}
-
-## Location Description
-
-Ruins of large Roman baths, now surrounded by an interpretive center, and numerous finds of Roman coins and pottery fragments make clear that there was a considerable Roman town here with its center in the heart of the modern town.  Its name, however, has not been determined for certain.  The villa described below is near the modern town cemetery.  It seems, however, that the villa was reburied for its protection.
-## Garden
-
-Villa del Cortijo de los Vila
+1985 and 1986
 
 ## Garden Description
 
 Excavations in 1985 and 1986 brought to light a villa dating to the end of the third or beginning of the fourth century CE.  The villa is also known as the "Finca del Moral."  Measures were taken to preserve the fine mosaics. In the peristyle of the villa there was a rectangular garden area [A] with rounded corners and semicircles on the four sides. At its center is a square brick structure faced with marble, which was probably a fountain. Also found in the villa was a statuette of Priapus, who was often associated with gardens, and whose cult images often appeared in them. The figure, placed in the center of the garden and dating from the end of the second century, is adorned with bunches of grapes, surrounded by flowers, birds and a pair of sandals.
 
-## Maps
+<!-- ## Maps -->
 
 <!-- ## Plans -->
 
@@ -54,8 +46,5 @@ Excavations in 1985 and 1986 brought to light a villa dating to the end of the t
 
 ## Places
 
-- [Villa del Cortijo de los Vila at Alameda]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="521700444" name="Villa del Cortijo de los Vila at Alameda" >}}
 - {{< id vocab="TGN" id="1061700" name="Alameda (inhabited place)" >}}
-
-
