@@ -4,35 +4,26 @@ type: garden
 title: House of the Skeletons
 latlon: [ 40.099, -8.4933 ]
 author: Jorge de Alarcão
-contributor: Xingjian Wang, Victoria Austen
+contributor: Xingjian Wang, Victoria Austen, Amelia Lamis
 jashemski-catalogue: LUS 6.4
 date: 2021-04-21
 
 draft: true
 ---
 
-<!-- # Province
+## Dates
 
-[Lusitania]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
+unspecified
 
- ## Province Description
+## Excavation Dates
 
-Despite the prior existence of urban centers like Metellinum, the capital of Lusitania was a new foundation, the Colonia Augusta Emerita (Mérida), which would also serve as the capital of one of the smaller juridical units (conventus) and would be the scene of flourishing activity in the succeeding centuries, its prosperity lasting until the late Roman and Visigothic era.  Subsequently, a series of well-known Roman cities were built in what was then Lusitania but is now partly in Portugal and partly in Spain. As well as the capital, there were Conimbriga, Salmantica, Evora, Olisipo (now Lisbon), Pax Iulia (now Beja), and Metallium Viscascense (Aljustrel), this last recognized as the capital of an important mining area. The series of wealthy villae, such as that of La Cocosa, Milreu or San Cucufate are particularly noteworthy.  Another of the important elements of the Roman era is the series of still visible ways of communication, of which the Vía de la Plata has most remaining, especially in the sections of Baños de Montemayor in Cáceres or the bridges that cross the rivers, such as that of San Pedro de Alcántara, or of Mérida.
-
-## Location Description
-
-The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Augustan period and, thereafter, a forum, a public bath-house, an aqueduct and city walls were constructed.  During the Flavian period, the city was made a municipium with ius Latii.  At the end of the third or beginning of the fourth century CE, new fortification walls considerably reduced the area occupied by the city.  In the time of the Suevi it was an Episcopal See, which was then transferred to Aeminium (the present day Coimbra) around 585 CE, when the kingdom of the Suevi was conquered by the Visigoths.  Further reduced in area and impoverished, the city survived until 986, at which date, according to Arab sources, it was destroyed by the great Muslim chief Almansor. In addition to the Augustan forum, which was completely rebuilt on a new ground plan under the Flavians, four bath houses have been excavated, and preliminary trial trenches established the plan of the amphitheater. Four domus have been excavated, three of which were left outside the wall built under the late empire.  It is in these houses, all built around peristyles, that we find the gardens of Conimbriga. -->
-
-## Garden
-
-House of the Skeletons
+ca. 1940
 
 ## Garden Description
 
-The peristyle garden of the fourth domus follows a different pattern.  In contrast to the House of the Swastika Mosaic, this house is very squarely centered on the garden. The axis of the entrance bisects the garden and the triclinium on the other side.  A shallow rill with a small exedra on this axis winds around the peristyle, leaving a cultivated rectangle in the center.  In front of the triclinium there is a square pool, also shallow, lined with slabs of limestone and set into the cultivated area but not joined to the rill.
+The peristyle garden of the fourth *domus* follows a different pattern.  In contrast to the [House of the Swastika Mosaic](/id/19dff800ff/), this house is very squarely centered on the garden. The axis of the entrance bisects the garden and the triclinium on the other side.  A shallow rill with a small exedra on this axis winds around the peristyle, leaving a cultivated rectangle in the center.  In front of the triclinium there is a square pool, also shallow, lined with slabs of limestone and set into the cultivated area but not joined to the rill.
 
-The large mosaic of the bedroom (Fig. 1, C) was restored in the 1950s; but even originally it was in relatively good condition.  Elsewhere in the house, however, there are only a few patches of mosaic owing to the area have been used as a necropolis in the late empire, a use that gave the house the name by which it is now called.
+The large mosaic of the bedroom (Fig. 1, C) was restored in the 1950s; but even originally it was in relatively good condition.  Elsewhere in the house, however, there are only a few patches of mosaic owing to the area having been used as a necropolis in the late empire, a use that gave the house the name by which it is now called.
 
 The houses were excavated around 1940, at a time when there was no thought of recovering micro-remains from the soil of the flower-beds, which could have allowed the identification of the vegetal species present in these gardens.  There is therefore no evidence as to what was planted.  There is also no mention of sculptural elements, which may or may not have been present.
 
@@ -58,10 +49,11 @@ The houses were excavated around 1940, at a time when there was no thought of re
 ## Keywords
 
 - {{< keyword "mosaics" >}}
+- {{< keyword "exedrae" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "axial plan" >}}
 
 ## Places
 
 - {{< id vocab="Pleiades" id="236443" name="Conimbriga" >}}
-
+- {{< id vocab="TGN" id="7031751" name="Conimbriga, Ruinas de" >}}

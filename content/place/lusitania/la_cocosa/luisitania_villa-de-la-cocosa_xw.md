@@ -4,34 +4,22 @@ type: garden
 title: Villa de La Cocosa
 latlon: [ 38.738228, -6.99544 ]
 author: Clopper Almon
-contributor: Xingjian Wang
+contributor: Xingjian Wang, Amelia Lamis
 jashemski-catalogue: LUS 3.1
 date: 2021-04-21
 
 draft: true
 ---
 
-## Province
+## Dates
 
-[Lusitania]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
+mid-first century CE 
 
-## Province Description
+## Excavation Dates
 
-Despite the prior existence of urban centers like Metellinum, the capital of Lusitania was a new foundation, the Colonia Augusta Emerita (Mérida), which would also serve as the capital of one of the smaller juridical units (conventus) and would be the scene of flourishing activity in the succeeding centuries, its prosperity lasting until the late Roman and Visigothic era.  Subsequently, a series of well-known Roman cities were built in what was then Lusitania but is now partly in Portugal and partly in Spain. As well as the capital, there were Conimbriga, Salmantica, Evora, Olisipo (now Lisbon), Pax Iulia (now Beja), and Metallium Viscascense (Aljustrel), this last recognized as the capital of an important mining area. The series of wealthy villae, such as that of La Cocosa, Milreu or San Cucufate are particularly noteworthy.  Another of the important elements of the Roman era is the series of still visible ways of communication, of which the Vía de la Plata has most remaining, especially in the sections of Baños de Montemayor in Cáceres or the bridges that cross the rivers, such as that of San Pedro de Alcántara, or of Mérida.
-
-## Location
-
-- [La Cocosa]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="256109" name="La Cocosa" >}}
-
-## Garden
-
-Villa de La Cocosa
+1940s
 
 ## Garden Description
-
-Rock is very scarce in this region, so it happened that sometime around 1940 workers removing stones from the ruined walls of this villa found the mosaic floor of the tepidarium.  The owner informed the authorities in Badajoz, archaeologists were brought in, and the villa was fully excavated. A few years later, José de C. Serra Ráfols was entrusted with the job of mapping the site and preparing documentation based on his own work and the notes of his predecessors.  His ample text of 173 pages plus 28 drawings and 37 photographs appeared in 1952.  The mosaic from the tepidarium with a hippocampus (marine centaur) surrounded by dolphins and fish is in the Museo de Bellas Artes in Badajoz.  This excavation, however, was done long before the interest in the archaeology of gardens, so it is hardly surprising that almost nothing is said about them.
 
 The villa had a peristyle courtyard, (13 x 17 m), but as found, it was paved with a floor of crushed bricks embedded in concrete.  It was not, however, necessarily always paved.  Serra Ráfols felt that the original villa went back to the middle of the first century CE, and that it was considerably amplified and given some mosaic floors in the middle of the second century CE.  Then later came proprietors "who felt a veritable passion for rustic pavements of crushed brick in concrete, which they put down everywhere" (p. 162).  Previously, the inner court of the peristyle had presumably been a garden.  The paved floor of the peristyle is some 18 centimeters below the level of the surrounding galleries. Around the perimeter of the central court, some 35 cm from the edge of the galleries, they built a wall about 30 cm high and 65 cm wide.  The top of the wall was mostly flat but at the edges it had upward slanting lips that made of the whole a sort of shallow trough.  It was too shallow to be for ornamental water, so Serra Ráfols conjectured that it was a sort of podium for potted plants.  It would have elevated the plants somewhat and caught any excess of water given them.  Indeed, it might have been especially nice for potted flowers, for it would bring their blossoms closer to eye level and also allow for frequent changes in order always to have plants in bloom.  This structure is intact at the northwest corner of the peristyle (Fig. 2).
 
@@ -49,8 +37,6 @@ Besides the central peristyle, there are several other areas that were possibly 
 
 {{< image file="HIS_LUS_LaCocosa_section fig2.jpg" caption="Fig. 2: Plan of the Villa of La Cocosa." credit="Adapted from Serra Rafols." alt="" >}}
 
-<!-- ## Dates -->
-
 ## Bibliography
 
 - J. de C. Serra Rafols, La villa romana de la Dehesa de 'La Cocosa'. Badajoz, 1952. [(worldcat)](https://search.worldcat.org/title/17319391)
@@ -62,6 +48,8 @@ Besides the central peristyle, there are several other areas that were possibly 
 - {{< keyword "peristyles" >}}
 - {{< keyword "mosaics" >}}
 - {{< keyword "podiums (building divisions)" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "columns" >}}
 
 ## Places
 

@@ -3,8 +3,8 @@ slug: "d8f4bc0a38"
 type: garden
 title: House of the Amphitheater
 latlon: [ 38.917216, -6.341213 ]
-author:
-contributor: Yiyun Liu
+author: Author Name
+contributor: Yiyun Liu, Amelia Lamis
 jashemski-catalogue: LUS 1.4
 date: 2021-04-21
 
@@ -13,42 +13,11 @@ draft: true
 
 ## Dates
 
-2nd century CE and 3rd CE
+second century CE (first house); third to fith century CE (second house)
 
 ## Excavation Dates
 
 from 1947
-
-## Province
-
-- {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
-
-## Province Description
-
-Despite the prior existence of urban centers like Metellinum, the capital of Lusitania was a new foundation, the Colonia Augusta Emerita (Mérida), which would also serve as the capital of one of the smaller juridical units (conventus) and would be the scene of flourishing activity in the succeeding centuries, its prosperity lasting until the late Roman and Visigothic era.  Subsequently, a series of well-known Roman cities were built in what was then Lusitania but is now partly in Portugal and partly in Spain. As well as the capital, there were Conimbriga, Salmantica, Evora, Olisipo (now Lisbon), Pax Iulia (now Beja), and Metallium Viscascense (Aljustrel), this last recognized as the capital of an important mining area. The series of wealthy villae, such as that of La Cocosa, Milreu or San Cucufate are particularly noteworthy.  Another of the important elements of the Roman era is the series of still visible ways of communication, of which the Vía de la Plata has most remaining, especially in the sections of Baños de Montemayor in Cáceres or the bridges that cross the rivers, such as that of San Pedro de Alcántara, or of Mérida.
-
-## Location
-
-- [Emerita Augusta]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="256155" name="Emerita Augusta" >}}
-
-## Location Description
-
-Geopolitical and economic motives together facilitated the prosperity of this great center of the Iberian peninsula. Marcus Vipsanius Agrippa, son-in-law of the emperor, was a benefactor of Augusta Emerita. The city was situated on the right bank of the Anas River (Rio Guardiana), today the Guadiana River. The site had the advantage of an easily crossed ford at the mouth of the Barraeca River (Rio Albarregas), and was an ideal site for surveillance and defense.  The area immediately surrounding Augusta Emerita had rich granite quarries, sands from the riverbed, and other types of rock for the new constructions.  The city's topography determined the new rectilinear urban layout.  The variations in ground level, due to small hills in the land, probably necessitated terracing, which is still discernible in today's modern network of streets. The bridge over the Guadiana, the longest in the peninsula with a length of almost 800 meters, provided the N-S axis to which the street grid was aligned. The new colony also had an ambitious system of urban drainage. The sewers and water lines form a complete underground complex of canals. The works of hydraulic engineering, whose dates of construction and later stages of development are debated, support the notion that Augusta Emerita was a city with a grand, forward-looking vision.
-
-At the intersection of the decumanus and cardo were two fora, one for the city's functions and one for the Province's functions. Some of the monumental buildings have been excavated. The Mérida fora, whose layouts resemble those in the other western imperial provinces, have iconographic programs that resemble those of Rome; the forum of Augusta Emerita is a particularly faithful reflection of the Forum Augustum. This imitative trend appears also in the two other provincial capitals of Hispania, Tarraco and Corduba and underscores the power which Augustan images and architecture had in the political, ideological fabric of the provinces.
-
-The area of Augusta Emerita best known today, because of extensive excavations, is around the so-called Temple of Diana. The temple is actually dedicated to the imperial cult. The structures devoted to public performance - theater, amphitheater, and circus - surrounded the urban center. The theater was begun in 16-15 BCE and the amphitheater in 8 BCE, during the first decades of colonial presence. Augusta Emerita's necropolis ran around the city's urban perimeter and expanded as the city proper grew.
-
-Because most of evidence from Merida was unearthed in old excavations, the context of many ancient objects is unknown. There is also a lack of analytical data on many of the areas which must originally have been gardened. The classification of the gardens of the Colonia Augusta Emerita is still under analysis. The study by Moreno is a basic survey article and should be understood to be part of all the bibliographies for Merida.
-
-## Bibliography
-
-- I. C. Moreno, "Los jardines de Mérida," *Mérida, excavaciones arqueológicas* Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/225047612)
-
-## Garden
-
-House of the Amphitheater
 
 ## Garden Description
 
@@ -58,13 +27,13 @@ The first of these houses is called the "House of the Water Tower" after a nearb
 
 The second house, which is better preserved, is more correctly dubbed the "House of the Amphitheater" (Figs. 4 and 5). It dates to the third century CE and remained in use until the fifth century CE. The "House of the Amphitheater" was organized around a colonnaded courtyard of ample dimensions, whose interior served as a garden with individual rooms opening onto it. Roughly trapezoidal, it was surrounded on all sides by colonnades with granite columns originally sheathed with red stucco. The longer east and west sides had six columns, while the shorter north and south sides had five. A low rubble wall contained the lower portions of the shafts on the north, south, and east sides, leaving the west side open for easy access to the garden. At the foot of the colonnade and running along the garden edge (except on the west) was a canal of some depth with a semicircular curve on its eastern edge in front of an important chamber. Next to the curve and within the garden, a well was found.
 
-The house, of sizeable proportions, boasted important painted and mosaic decoration. Of the three chambers situated along the southeast gallery, the center chamber had opus signinum pavement and has been interpreted as a triclinium, from which one could enjoy magnificent views of the garden. The pavement of the contiguous chamber to the northeast has a beautiful mosaic with representations of Venus and Cupid surrounded with floral designsand "The Mosaic of the Grape Harvest" (Mosaico de la Vendimia). They were repaired in antiquity.
+The house, of sizeable proportions, boasted important painted and mosaic decoration. Of the three chambers situated along the southeast gallery, the center chamber had *opus signinum* pavement and has been interpreted as a triclinium, from which one could enjoy magnificent views of the garden. The pavement of the contiguous chamber to the northeast has a beautiful mosaic with representations of Venus and Cupid surrounded with floral designs and "The Mosaic of the Grape Harvest" (Mosaico de la Vendimia). They were repaired in antiquity.
 
 An equally important second nucleus of this house consisted of a complex of rooms at its east end. This area had handsome mosaic pavements and communicated with the aforementioned peristyle through an L-shaped passageway. Its largest chamber, which had the character of a show room, if not a triclinium, is known as the "Hall of the Fish Mosaic" (Habitación del Mosaico de los Peces) and is dated to the 3rd century CE. Although this second group of rooms was probably organized around courtyards or gardens, none have been documented because this part of the residence remains unexcavated. The peristyle of the House of the Amphitheater, as well as the plan of the entire residence, has close parallels in the eastern Mediterranean which have been thoroughly studied by A. Balil.
 
 ## Plans
 
-{{< image file="his_lus_col_augusta_ha_fig1.jpg" caption="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left.  Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century." credit="Adapted from the tourist guide issued by the Mérida Consorzio." alt="" >}}
+{{< image file="his_lus_col_augusta_ha_fig1.jpg" caption="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left).  Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century." credit="Adapted from the tourist guide issued by the Mérida Consorzio." alt="" >}}
 
 {{< image file="his_lus_col_augusta_ha_plan_fig3_alternate.jpg" caption="Fig. 2: Plan of the House of the Amphitheater." credit="Adapted from Casillas Moreno, where it was taken from De Alvarado Barrena." alt="" >}}
 
@@ -77,6 +46,7 @@ An equally important second nucleus of this house consisted of a complex of room
 - A. Balil Illana, A. 1976: "Sobre la arquitectura doméstica en Augusta Emerita", *Augusta Emerita Actas del Bimilenario de Mérida, Mérida*, 75-91. [(worldcat)](https://search.worldcat.org/title/256553527)
 - E. García Sandoval, Excavaciones arqueológicas en la zona de Mérida: La Casa del Anfiteatro," in *C.A.N.*, 8 (i964): 469-477 [(worldcat)](https://search.worldcat.org/title/43198027)
 - E. García Sandoval, Informe sobre las casa romanas de Mérida y excavaciones en la «Casa del Anfiteatro»," in *Excavaciones Arqueológicas en España*  nº. 49, Madrid, 1964. [(worldcat)](https://search.worldcat.org/title/681090209)
+- I. C. Moreno, “Los jardines de Mérida,” Mérida, excavaciones arqueológicas Nº. 2, 1996 , pp. 303-328. [(worldcat)](https://search.worldcat.org/title/1024940280); [(Pdf)](https://biblioteca.consorciomerida.org/pdf/372313_Casillas%20I.%20%27Jardines%27.%20Memoria%201996%20n%C2%BA%202.pdf)
 
 ## Keywords
 
@@ -89,7 +59,6 @@ An equally important second nucleus of this house consisted of a complex of room
 
 ## Places
 
+- {{< id vocab="Pleiades" id="842400632" name="Amphitheater house (Mérida)" >}}
 - {{< id vocab="Pleiades" id="256155" name="Emerita Augusta" >}}
 - {{< id vocab="TGN" id="7007664" name="Mérida (inhabited place)" >}}
-
-

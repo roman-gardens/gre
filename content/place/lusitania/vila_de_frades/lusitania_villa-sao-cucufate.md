@@ -3,13 +3,21 @@ slug: "45ba2b3b74"
 type: garden
 title: Villa Sao Cucufate
 latlon: [ 38.223820, -7.845952 ]
-author:
-contributor: Xingjian Wang, Keith Jenkins
+author: Author Name
+contributor: Xingjian Wang, Keith Jenkins, Amelia Lamis
 jashemski-catalogue: LUS 7.1
 date: 2021-04-21
 
 draft: true
 ---
+
+## Dates
+
+unspecified
+
+## Excavation Dates
+
+unspecified
 
 ## Garden Description
 
@@ -33,8 +41,6 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 
 <!-- ## Images -->
 
-<!-- ## Dates -->
-
 ## Bibliography
 
 - J. G. Gorges, pp. 124 and 477; J. de Alarcão, S. Cucufate. Roteiros da Arqueologia Portuguesa 5. Instituto Portugues do Patrimonio Arquitectónico, 1988. [(worldcat)](https://search.worldcat.org/title/54521562)
@@ -43,8 +49,12 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 
 - {{< keyword "tablina" >}}
 - {{< keyword "peristyles" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "semicircular" >}}
+- {{< keyword "reservoirs" >}}
+- {{< keyword "fountains" >}}
 
 ## Places
 
 - {{< id vocab="Pleiades" id="256422" name="S. Cucufate" >}}
-
+- {{< id vocab="TGN" id="7764377" name="Vila de Frades" >}}

@@ -3,31 +3,21 @@ slug: "21b8a4b56c"
 type: garden
 title: Villa de Torre de Palma
 latlon: [ 39.062264, -7.488473 ]
-author:
-contributor: Xingjian Wang
+author: Author Name
+contributor: Xingjian Wang, Amelia Lamis
 jashemski-catalogue: LUS 4.1
 date: 2021-04-21
 
 draft: true
 ---
 
-## Province
+## Dates
 
-[Lusitania]({{<relref "../../../..">}})
-- {{< id vocab="Pleiades" id="1101" name="Lusitania" >}}
+mid-first century CE to beginning of fourth century CE 
 
-## Province Description
+## Excavation Dates
 
-Despite the prior existence of urban centers like Metellinum, the capital of Lusitania was a new foundation, the Colonia Augusta Emerita (Mérida), which would also serve as the capital of one of the smaller juridical units (conventus) and would be the scene of flourishing activity in the succeeding centuries, its prosperity lasting until the late Roman and Visigothic era.  Subsequently, a series of well-known Roman cities were built in what was then Lusitania but is now partly in Portugal and partly in Spain. As well as the capital, there were Conimbriga, Salmantica, Evora, Olisipo (now Lisbon), Pax Iulia (now Beja), and Metallium Viscascense (Aljustrel), this last recognized as the capital of an important mining area. The series of wealthy villae, such as that of La Cocosa, Milreu or San Cucufate are particularly noteworthy.  Another of the important elements of the Roman era is the series of still visible ways of communication, of which the Vía de la Plata has most remaining, especially in the sections of Baños de Montemayor in Cáceres or the bridges that cross the rivers, such as that of San Pedro de Alcántara, or of Mérida.
-
-## Location
-
-- [Monforte]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="256478" name="Torre de Palma" >}}
-
-## Garden
-
-Villa de Torre de Palma
+after 1947
 
 ## Garden Description
 
@@ -35,7 +25,7 @@ This villa was discovered by farm workers in 1947, and excavations were begun so
 
 There is one space which was likely gardened as well as several other likely spots. The report of the University of Louisville team distinguishes a number of phases. The relative chronology is based largely on the identification of the building techniques of successive master masons, while absolute dates are determined from ceramics and embedded coins found during excavations in the 1980s. The first phase consists mainly of finds of ceramics and coins from the middle of the first century CE but includes also the little two-room structure in the East court.
 
-In Phase 2 (Fig. 2), from the end of the first century to mid-second century CE, an atrium-based house was constructed and, south of it, a large peristyle courtyard.  Though the atrium was unusually large with six columns rather than four -- what Vitruvius called a 'Corinthian' atrium --  it seems unlikely to have been gardened.  The peristyle courtyard to the south, marked East Court in Figure 2, is a much more probable area, not for a formal garden but for the kind of informal garden.  The entrance to the house was from the south through this peristyle.  To the west was an even larger courtyard but without a peristyle.  The rooms around it were modest homes with hearths and an occasional half-buried dolium. The central area may have been more farmyard than garden but quite likely had some vegetables.  The "Portico House" on the southeast corner is noteworthy for its "modern" design with the porches around the house rather than the house around the porches.  The central hall may have been open to serve as a light well.
+In Phase 2 (Fig. 2), from the end of the first century to mid-second century CE, an atrium-based house was constructed and, south of it, a large peristyle courtyard.  Though the atrium was unusually large with six columns rather than four -- what Vitruvius called a 'Corinthian' atrium --  it seems unlikely to have been gardened.  The peristyle courtyard to the south, marked East Court in Figure 2, is a much more probable area, not for a formal garden but for the kind of informal garden.  The entrance to the house was from the south through this peristyle.  To the west was an even larger courtyard but without a peristyle.  The rooms around it were modest homes with hearths and an occasional half-buried *dolium*. The central area may have been more farmyard than garden but quite likely had some vegetables.  The "Portico House" on the southeast corner is noteworthy for its "modern" design with the porches around the house rather than the house around the porches.  The central hall may have been open to serve as a light well.
 
 The third phase distinguished by Maloney and Hale covered several building campaigns and extended through the second half of the 3rd and perhaps into the very beginning of the 4th century CE. The northeast corner of the house was largely demolished and rebuilt with a central peristyle courtyard. A rather deep tank was in the center, and between it and the peristyle was an unpaved area that was almost certainly a garden, quite possibly formal. The granaries that had previously occupied part of the buildings around the east court were surpressed, indicating an "urbanization" or up-scaling of the area. The entrance remained on the south; the visitor would still have crossed the east court to get to the main house.  The villa's triclinium had a full, central view of the garden and pool.  The tablinum or master's office on the east side of the peristyle also had a fine view of the garden.
 
@@ -55,13 +45,11 @@ The third phase distinguished by Maloney and Hale covered several building campa
 
 {{< image file="HIS LUS_Torre de Palma_photo_CA fig5.jpg" caption="Fig. 5: Photo of the peristyle seen from northwest corner." credit="" alt="" >}}
 
-<!-- ## Dates -->
-
 ## Bibliography
 
-- M. Heleno, 'A 'villa' lusitano-romano de Torre de Palma (Monforte),' O Arqueólogo Portugés ser 2, 6 (1962) p. 313-38. [(worldcat)](https://search.worldcat.org/title/517199729)
-- J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](https://search.worldcat.org/title/803415143)
-- S. J. Maloney and J. R. Hale, 'The villa of Torre de Palma (Alto Alentejo)' Journal of Roman Archaeology, vol. 9, 1996, p. 275-94. [(worldcat)](https://search.worldcat.org/title/51847498)
+- M. Heleno, 'A 'villa' lusitano-romano de Torre de Palma (Monforte),' *O Arqueólogo Portugés* ser 2, 6 (1962) p. 313-38. [(worldcat)](https://search.worldcat.org/title/517199729)
+- J. G. Gorges, *Les villes hispano-romaines. Inventaire et problematique archaeologiques*. Centre Pierre Paris, París, 1979, pp. 189-190. [(worldcat)](https://search.worldcat.org/title/803415143)
+- S. J. Maloney and J. R. Hale, 'The villa of Torre de Palma (Alto Alentejo)' *Journal of Roman Archaeology*, vol. 9, 1996, p. 275-94. [(worldcat)](https://search.worldcat.org/title/51847498)
 
 ## Keywords
 
@@ -73,4 +61,4 @@ The third phase distinguished by Maloney and Hale covered several building campa
 ## Places
 
 - {{< id vocab="Pleiades" id="256478" name="Torre de Palma" >}}
-
+- {{< id vocab="TGN" id="7748664" name="Monforte" >}}
