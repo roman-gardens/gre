@@ -49,9 +49,8 @@ Located in the western plain of the village. Size not given. Leased after 550 CE
 - {{< keyword "olive trees" >}}
 - {{< keyword "vineyards" >}}
 
-<!--
+
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="756532" name="Aphroditopolis/Aphrodito" >}}
+- {{< id vocab="TGN" id="7525636" name="Kawm Ishqâw (inhabited place)" >}}

@@ -13,10 +13,11 @@ draft: true
 
 ## Dates
 
- Late 2nd century BCE – Late 2nd/early 3rd century CE
+late second century BCE to late second/early third century CE
 
-<!-- ## Excavation Dates
--->
+## Excavation Dates
+
+unspecified
 
 ## Garden Description
 

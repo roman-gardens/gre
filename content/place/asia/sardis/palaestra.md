@@ -13,12 +13,12 @@ draft: true
 
 ## Dates
 
-1st century CE - late 5th/6th centuries CE
+first century CE to late fith/sixth century CE
 <!--main development 3rd cent CE-->
 
 ## Excavation Dates
 
-1958-1975 <!--https://omphale.arthistory.wisc.edu/pdf/Sardis_R3.pdf-->
+1958-1975 
 
 ## Garden Description
 
@@ -55,7 +55,7 @@ A short section of drain was also found in the NE quadrant of the courtyard.  Th
 - Greenewalt Jr., C. 1973. “The Fifteenth Campaign at Sardis.” Bulletin of the American Schools of Oriental Research 211: 19–20. [(worldcat)](https://search.worldcat.org/title/7931000564)
 - Meiggs, R., and D. M. Lewis. 1969. *A Selection of Greek Historical Inscriptions to the End of the Fifth Century B.C*. Oxford. [(worldcat)][https://search.worldcat.org/title/25330]
 - Pedley, J. 1972. *Ancient Literary Sources on Sardis*. Cambridge, MA. [(worldcat)][https://search.worldcat.org/title/584433]
-- Yegül, F. 1986. *The Bath-Gymnasium Complex at Sardis*. Cambridge, MA. [(worldcat)](https://search.worldcat.org/title/12971983)<!--pdf of excavation report: https://omphale.arthistory.wisc.edu/pdf/Sardis_R3.pdf-->
+- Yegül, F. 1986. *The Bath-Gymnasium Complex at Sardis*. Cambridge, MA. [(worldcat)](https://search.worldcat.org/title/12971983); [(Excavation Report)](https://omphale.arthistory.wisc.edu/pdf/Sardis_R3.pdf)
 
 ## Keywords
 
@@ -67,8 +67,4 @@ A short section of drain was also found in the NE quadrant of the courtyard.  Th
 
 ## Places
 
-- {{< id vocab="Pleiades" id="550867" name="Sardis" >}}
-
-<!--
-- {{< id vocab="TGN" id="" name="" >}}
--->
+- {{< id vocab="Pleiades" id="250091861" name="Bath-Gymnasium Complex at Sardis" >}}

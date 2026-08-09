@@ -14,11 +14,10 @@ draft: true
 ## Dates
 
 first or second century CE
-<!--pleiades has 30 BCE - 300 CE -->
 
-<!-- 
 ## Excavation Dates
- -->
+
+unspecified
 
 ## Garden Description
 
@@ -41,8 +40,8 @@ A grave stele set up at Hypaipa by C. Octabios (Octavius) Eutyches from Ephesus,
 
 ## Bibliography
 
-- Keil, J., and A. von Premerstein. 1914. *Bericht über eine dritte Reise in Lydien*. Denkschriften der Kaiserlichen Akademie der Wissenschaften in Wien 57.1.<!--no. 108--> Vienna. [(worldcat)](https://search.worldcat.org/title/604130286) 
-- Kubińska, J. 1968. *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure*. Warsaw: Państwowe Wydawnictwo Naukowe.<!--pp. 146--> [(worldcat)](https://search.worldcat.org/title/1164839456)
+- Keil, J., and A. von Premerstein. 1914. *Bericht über eine dritte Reise in Lydien*. Denkschriften der Kaiserlichen Akademie der Wissenschaften in Wien 57.1, no. 108. Vienna. [(worldcat)](https://search.worldcat.org/title/604130286); [(Archive.org)](https://archive.org/details/gtu_32400000863252/page/76/mode/2up)
+- Kubińska, J. 1968. *Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure*. Warsaw: Państwowe Wydawnictwo Naukowe, pp. 146. [(worldcat)](https://search.worldcat.org/title/1164839456)
 
 ## Keywords
 
@@ -52,6 +51,5 @@ A grave stele set up at Hypaipa by C. Octabios (Octavius) Eutyches from Ephesus,
 
 <!--
 ## Places
-
 - {{< id vocab="Pleiades" id="" name="" >}}
 -->

@@ -3,7 +3,7 @@ slug: "001bb17272"
 type: place
 title: Aphrodisias
 author: Author Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-07-09
 draft: false
 ---
@@ -40,3 +40,4 @@ Aphrodisias (_Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis_), in Ca
 ## Places
 
 - {{< id vocab="Pleiades" id="638753" name="Aphrodisias" >}}
+- {{< id vocab="TGN" id="7002357" name="Aphrodisias" >}}

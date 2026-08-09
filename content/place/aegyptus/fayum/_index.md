@@ -3,7 +3,7 @@ slug: "c836f8985e"
 type: place
 title: Fayum
 author: Author Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-07
 
 draft: false
@@ -41,3 +41,4 @@ draft: false
 ## Places
 
 - {{< id vocab="Pleiades" id="170198552" name="Fayyum (oasis)" >}}
+- {{< id vocab="TGN" id="7001197" name="Al Fayyūm" >}}
