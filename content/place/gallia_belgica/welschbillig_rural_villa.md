@@ -12,7 +12,7 @@ draft: true
 
 ## Dates
 
-ca. 364-383 CE 
+ca. 364 to 383 CE 
 
 ## Excavation Dates
 
@@ -20,13 +20,16 @@ unspecified
 
 ## Garden Description
 
-This palatial villa, which has been interpreted as an imperial summer *palace*, lay within the confines of an imperial domain about 12 km. northwest of Colonia Augusta Treverorum. It was built during the reign of the emperor Valentinian I (364-375) or Gratian (367-383) who resided in the capital. Very little remains of the actual villa, although foundation walls of other buildings and a possible *portico* have been found.
+<!--TODO: find/add figs-->
 
-The grounds of the villa were almost certainly landscaped in some form, as is suggested by a large decorative pool that may have been a decorative focus in a garden. It measured 18 x 60 meters and had three symmetrically arranged apses on the long sides. (Fig. 1) The walls of the pool were constructed of cut stone blocks and the bottom was paved with stone slabs. On top of the edges of the pool was an open-worked stone balustrade pierced at regular intervals by 112 limestone *herms*. The *herms* represent gods, Greeks, Romans, philosophers, generals and idealized figures such as putti, as well as Phrygians, Nubians and Germans. These were thrown into the pool in the 5th century, landing perhaps on layers of sediment at the bottom. As a result, the *herms*, of which 71 were retrieved in excavations, are in excellent condition. At the northern end of the pool was a rectangular building through which ran a drain from the pool. (Fig. 2, View of Model)
+This palatial villa, which has been interpreted as an imperial summer palace, lay within the confines of an imperial domain about 12 km. northwest of Colonia Augusta Treverorum. It was built during the reign of the emperor Valentinian I (364-375) or Gratian (367-383) who resided in the capital. Very little remains of the actual villa, although foundation walls of other buildings and a possible *portico* have been found.
+
+The grounds of the villa were almost certainly landscaped in some form, as is suggested by a large decorative pool that may have been a decorative focus in a garden. It measured 18 x 60 meters and had three symmetrically arranged apses on the long sides. (Fig. 1) The walls of the pool were constructed of cut stone blocks and the bottom was paved with stone slabs. On top of the edges of the pool was an open-worked stone balustrade pierced at regular intervals by 112 limestone herms. The herms represent gods, Greeks, Romans, philosophers, generals and idealized figures such as putti, as well as Phrygians, Nubians and Germans. These were thrown into the pool in the 5th century, landing perhaps on layers of sediment at the bottom. As a result, the herms, of which 71 were retrieved in excavations, are in excellent condition. At the northern end of the pool was a rectangular building through which ran a drain from the pool. (Fig. 2, View of Model)
 
 <!-- Text comes from draft file -->
 
 <!--
+
 ## Maps
 
 None Available
@@ -37,7 +40,7 @@ None Available
 
 ## Images
 
-None Available
+Fig. 9.1.1 Welschbillig. Reconstruction of the pool and a portico adjacent to the pool. Adapted from H. Wrede, Die spätantike Hermengalerie von Welschbillig. Römisch-Germanische Forschungen 32, Berlin, 1972, fig. 7. -- this drawing never reached C.A.
 -->
 
 ## Bibliography
@@ -51,6 +54,9 @@ None Available
 - {{< keyword "palaces" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "herms" >}}
+- {{< keyword "pools" >}}
+- {{< keyword "putti" >}}
+- {{< keyword "drains" >}}
 
 ## Places
 

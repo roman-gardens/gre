@@ -18,16 +18,17 @@ second century CE
 
 unspecified
 
-## Sublocation Description
+## Place Description
 
-<!--keep sublocation description on garden page or put in separate index file as place description (as in Asia, Egypt, Iberian etc)?-->
+<!--TODO: should we create index files for separate places and move place descriptions there?-->
 
-In the valley of the Moselle, Divodurum Mediomatricorum, a former Gallic oppidum on the hill of Ste-Croix, became an urban center in the Augustan period. It had an amphitheater, an aqueduct, several baths, and a sewer network with a large collector.
+In the valley of the Moselle, Divodurum Mediomatricorum, a former Gallic *oppidum* on the hill of Ste-Croix, became an urban center in the Augustan period. It had an amphitheater, an aqueduct, several baths, and a sewer network with a large collector.
 
 ## Garden Description
 
-<!-- TODO Question about translation in notes -->
-A large house (40 x 40 m) of the second century covered the site of three adjacent buildings going back to the years 60-80 (Fig 1). It was built around a central *courtyard* [1] 18 meters on a side, bordered by *porticos* on the east, south, and west. The *courtyard*, doubtless treated as a garden, had a rectangular pool that has been partially excavated. On the axis of the pool, on the north side and seemingly opening directly onto the *courtyard* was a large, 60-square-meter room [2] heated by *hypocausts*.
+<!-- TODO: locate/add plans-->
+
+A large house (40 x 40 m) of the second century covered the site of three adjacent buildings going back to the years 60-80 (Fig 1). It was built around a central courtyard [1] 18 meters on a side, bordered by porticos on the east, south, and west. The courtyard, doubtless treated as a garden, had a rectangular pool that has been partially excavated. On the axis of the pool, on the north side and seemingly opening directly onto the courtyard was a large, 60-square-meter room [2] heated by hypocausts.
 
 <!--
 ## Maps

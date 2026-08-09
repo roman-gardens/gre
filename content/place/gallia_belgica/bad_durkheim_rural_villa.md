@@ -12,7 +12,7 @@ draft: true
 
 ## Dates
 
-second to fifth century CE 
+early second century CE to fifth century CE 
 
 ## Excavation Dates
 
@@ -44,13 +44,14 @@ None Available
 
 ## Bibliography
 
-- H. Cüppers, ed., Die Römer in Rheinland-Pfalz, Stuttgart, 1990, pp. 317-319, figs. 156, 199. [(worldcat)](https://search.worldcat.org/title/924024101)
+- H. Cüppers, ed., *Die Römer in Rheinland-Pfalz*, Stuttgart, 1990, pp. 317-319, figs. 156, 199. [(worldcat)](https://search.worldcat.org/title/924024101)
 
 ## Keywords
 
 - {{< keyword "villae rusticae" >}}
 - {{< keyword "corridors" >}}
 - {{< keyword "courtyards" >}}
+- {{< keyword "walls" >}}
 
 ## Places
 

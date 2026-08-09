@@ -1,8 +1,8 @@
 ---
 slug: "7fedd7d7ff"
 type: garden
-title: Rural Villa
-latlon: [ 0, 0 ]
+title: Rural Villa in Veirherrenborn
+latlon: [49.6000, 6.6667]
 author: Maureen Carroll
 contributor: Yvette Pollack, Amelia Lamis
 date: 2021-04-21
@@ -20,11 +20,11 @@ unspecified
 
 ## Garden Description
 
-<!--should we add location "Vierherrenborn (Germany) to title?-->
+<!--TODO: add plan-->
 
 The house stood in the middle of a farm complex 75 meters wide and 120 meters long. It dates to the early second century. The house (A on the plan, Fig. 1) is of the winged corridor type, measuring 19.30 x 22.40 meters.
 
-On the west and east, in front of and behind the house, were open *courtyards* enclosed by a wall. The western *courtyard* has been interpreted as a garden (G on plan); the eastern one may have been a *paddock*.
+On the west and east, in front of and behind the house, were open courtyards enclosed by a wall. The western courtyard has been interpreted as a garden (G on plan); the eastern one may have been a paddock.
 
 <!-- Text comes from draft file -->
 
@@ -50,6 +50,7 @@ None Available
 
 - {{< keyword "courtyards" >}}
 - {{< keyword "paddocks" >}}
+- {{< keyword "walls" >}}
 
 ## Places
 
