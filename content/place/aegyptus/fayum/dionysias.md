@@ -49,3 +49,4 @@ Two arouras (.56 ha.). Quarter share given in a *donatio mortis causa* by a metr
 ## Places
 
 - {{< id vocab="Pleiades" id="736904" name="Dionysias" >}}
+- {{< id vocab="TGN" id="7540108" name="Qaşr Qārūn (ruins)" >}}

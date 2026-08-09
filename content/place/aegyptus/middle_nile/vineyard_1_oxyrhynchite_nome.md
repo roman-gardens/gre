@@ -51,3 +51,4 @@ Location unknown and size lost. Subleased in 137 CE for 4 years. Includes reed p
 ## Places
 
 - {{< id vocab="Pleiades" id="736983" name="Oxyrhynchos" >}}
+- {{< id vocab="TGN" id="7001267" name="Al Bahnasā (inhabited place)" >}}

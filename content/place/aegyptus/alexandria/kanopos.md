@@ -49,3 +49,4 @@ This garden was in wetlands (*tenagos*) by the Strip (*tainias*, a ridge) (cf. F
 ## Places
 
 - {{< id vocab="Pleiades" id="727097" name="Canopus" >}}
+- {{< id vocab="TGN" id="1099727" name="Canopus (deserted settlement)" >}}

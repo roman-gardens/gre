@@ -3,7 +3,7 @@ slug: "59a1052de4"
 type: place
 title: Rhodes
 author: Author Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2025-09-21
 
 draft: false
@@ -41,3 +41,4 @@ draft: false
 ## Places
 
 - {{< id vocab="Pleiades" id="590031" name="Rhodos (island)" >}}
+- {{< id vocab="TGN" id="7011266" name="Rhodes (island)" >}}

@@ -41,3 +41,4 @@ Remains of gardens have yet to be discovered in this city, but an appreciation f
 ## Places
 
 - {{< id vocab="Pleiades" id="599612" name="Ephesus/Arsinoe(ia)" >}}
+- {{< id vocab="TGN" id="7002499" name="Ephesus" >}}
