@@ -12,15 +12,15 @@ draft: true
 
 ## Dates
 
-Unspecified
+unspecified
 
 ## Excavation Dates
 
-Unspecified
+unspecified
 
 ## Garden Description
 
-A large reception room of 73 square meters in the northwest corner was heated by a *hypocaust* under the floor. In this room was a grand composition depicting a procession of people. Next to this room was a square room that looked out down the long axis of the garden that filled the 247 square meter rectangular (19 x 13 m) rectangle of open area. The Corinthian colonnade of the garden was found collapsed towards the outside. Elegant Corinthian capitals of limestone and fragments of column bases of attic type with traces of tinted whitewash and red accents were found during the excavations.
+This residence was composed of three wings in a U around a peristyle [10] (15 x 22m) presumably with a garden in the center. A large reception room of 73 square meters in the northwest corner was heated by a hypocaust under the floor. In this room was a grand composition depicting a procession of people. Next to this room was a square room that looked out down the long axis of the garden that filled the 247 square meter rectangular (19 x 13 m) rectangle of open area. The Corinthian colonnade of the garden was found collapsed towards the outside. Elegant Corinthian capitals of limestone and fragments of column bases of attic type with traces of tinted whitewash and red accents were found during the excavations.
 
 <!--
 ## Maps
@@ -30,7 +30,7 @@ None Available
 
 ## Plans
 
-{{< image file="domus_place_des_epars.jpg" caption="LUG_Fig. 1: Chartres, Domus of the Place des Epars, from CAG." credit="" alt="Image from CAG showing a plan of Domus of the Place des Epars, two photos of the archaeological excavations, and a photo of the decoration of a Corinthian column." >}}
+{{< image file="domus_place_des_epars.jpg" caption="Fig. 1: Chartres, Domus of the Place des Epars, from CAG." credit="" alt="Image from CAG showing a plan of Domus of the Place des Epars, two photos of the archaeological excavations, and a photo of the decoration of a Corinthian column." >}}
 
 <!--
 ## Images

@@ -12,29 +12,28 @@ draft: true
 
 ## Dates
 
-Unspecified
+unspecified
 
 ## Excavation Dates
 
 1987-1988
 
-## Sublocation Description
+## Garden Description
+
+<!--LUG 6.1.1: Le Mans. House on the Place des Halles. From CAG.-->
+<!--TODO: If we end up making index folders for these locations, this first paragraph can be "place description"-->
 
 On the left bank of the Sarthe, where it is joined by the Isaac creek, the Roman town was the successor to a Celtic *oppidum*. A wall of the late empire enclosed nine hectares.
 
-## Garden Description
+This *domus* was on the Place des Halles, the former site of the covered market place. It was excavated in 1987-88 south of the principal street. In a part of the ancient city inhabited since the first century, the house occupied a surface (33 x 54 m) of 1782 square meters. Two-story wings of the house surround on three sides a courtyard [1] that may have been a garden. The residential wing, to the south, of careful construction, had four principal rooms with floors of smooth concrete. The existence of a second court farther south, on the other façade of the residential wing has been supposed, but its nature is unknown.
 
-LUG 6.1.1: Le Mans. House on the Place des Halles. From CAG.
-
-This *domus* was on the Place des Halles, the former site of the covered market place. It was excavated in 1987-88 south of the principal street. In a part of the ancient city inhabited since the first century, the house occupied a surface (33 x 54 m) of 1782 square meters. Two-story wings of the house surround on three sides a *courtyard* [1] that may have been a garden. The residential wing, to the south, of careful construction, had four principal rooms with floors of smooth concrete. The existence of a second court farther south, on the other façade of the residential wing has been supposed, but its nature is unknown.
-
-<!-- Description was in draft, not final. -->
+<!-- TODO: Description was in draft, not final. -->
 
 <!-- ## Maps -->
 
 ## Plans
 
-{{< image file="place_des_halles.jpg" caption="Restored section of the entire domus by P. André" credit="" alt="A section drawing depicting the two floors of what a restored domus would look like." >}}
+{{< image file="place_des_halles.jpg" caption="Restored section of the entire domus by P. André." credit="CAG 72, 181" alt="A section drawing depicting the two floors of what a restored domus would look like." >}}
 
 <!-- ## Images -->
 
