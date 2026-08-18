@@ -37,11 +37,11 @@ This house was partially excavated in 1829-1830 and again in 1850. The *portico*
 
 ## Bibliography
 
-- Maiuri, A. 1989. *Herculaneum*. Roma: La libreria dello stato. [(worldcat)](https://search.worldcat.org/title/1107784297)
-- Maiuri, A. 1958. *Ercolano. I nuovi scavi (1927-1958)*. Roma: Istituto poligrafico dello Stato.  [(worldcat)](https://search.worldcat.org/it/title/859591551)
+- Maiuri, A. 1989. *Herculaneum*. Rome: La libreria dello stato. [(worldcat)](https://search.worldcat.org/title/1107784297)
+- Maiuri, A. 1958. *Ercolano. I nuovi scavi (1927-1958)*. Rome: Istituto poligrafico dello Stato.  [(worldcat)](https://search.worldcat.org/it/title/859591551)
 - Jashemski, W. 1993. *The Gardens of Pompeii, Herculaneum and the Villas destroyed by Vesuvius*. New Rochelle: A.D. Caratzas Pub. [(worldcat)](https://search.worldcat.org/it/title/29043557)
-- Pesando, F. and Guidobaldi, M. P. 2006. *Pompei, Oplontis, Ercolano, Stabiae*. Bari: GLF Laterza [(worldcat)](https://search.worldcat.org/it/title/1045104432?oclcNum=1045104432)
-- Ruggiero, M. 1885. *Storia degli scavi di Ercolano*. Napoli: Tipografia dell'Accademia Reale delle Scienze [(worldcat)](https://search.worldcat.org/title/18405521)
+- Pesando, F., and M.P. Guidobaldi. 2006. *Pompei, Oplontis, Ercolano, Stabiae*. Bari: GLF Laterza [(worldcat)](https://search.worldcat.org/it/title/1045104432?oclcNum=1045104432)
+- Ruggiero, M. 1885. *Storia degli scavi di Ercolano*. Naples: Tipografia dell'Accademia Reale delle Scienze [(worldcat)](https://search.worldcat.org/title/18405521)
 
 ## Keywords
 
