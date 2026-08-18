@@ -14,28 +14,9 @@ draft: false
 
 Built between 187 and 179 BCE; restoration and portico constructed in Late Republican era (post 33 BCE)
 
-## Excavation Date
+## Excavation Dates
 
 1980s
-
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-- [Region IX Circus Flaminius]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="422863" name="Campus Martius" >}}
-
-## Garden
-
-Garden of the Hercules Musarum
 
 ## Garden Description
 
@@ -83,7 +64,6 @@ The *collegium poetarum* formally gathered near the complex, and so perhaps the 
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 - [Valerius Maximus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1448)
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-<!-- Pleiades resource for Location (Rome), not for the individual garden -->
+-->

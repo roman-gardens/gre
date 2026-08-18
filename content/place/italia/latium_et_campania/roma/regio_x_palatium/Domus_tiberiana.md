@@ -14,32 +14,13 @@ draft: false
 
 1st century- 3rd century CE
 
-## Excavation Date
+## Excavation Dates
 
 1720-1729: F. Bianchini\
 1860s: P. Rosa\
 1900-1901: G. Boni\
 1983-1988: C. Krause under the Swiss Institute of Rome
 1990-: M. Tomei and M.G. Filetici under the Sopraintendenza Archeologica di Roma.
-
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-- [Palatine]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
-
-## Garden
-
-Garden of the Domus Tiberiana, Palatine
 
 ## Garden Description
 
@@ -113,6 +94,6 @@ RELATED PHASES ON THE PALATINE:
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 - [Tacitus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357)
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="971691208" name="Palatine Hill" >}}
+-->

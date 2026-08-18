@@ -35,16 +35,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Puissalicon, villa de la Condoumine
 
-## Keywords
-
-- {{< keyword "balnea" >}}
-- {{< keyword "opus spicatum" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "opus signinum" >}}
-- {{< keyword "statues" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "reception rooms" >}}
-
 ## Villa Description
 
 This villa in the plain of the Libron at the place called la Condoumine in the commune of Puissalicon, was first noted between 1926 and 1942 and excavated beginning in 1965. The total site extends over six hectares; the constructions of the villa must have covered some 2500 square meters but only about a quarter of the structures are known for certain. Especially well known are the baths on the south of the villa, which were complemented by a large ornamental pool.
@@ -63,6 +53,16 @@ The gallery led to baths [19-26]. In a second phase, they were dismantled and th
 - J. P. Bacou, La villa gallo-romaine de Condoumine à Puissalicon, civitas de Béziers, *Revue Archéologique de Narbonnaise*, 1971, 4, P. 93-149.
 - Bacou, J.-P. "La Villa Gallo-Romaine De Condoumine À Puissalicon (civitas De Béziers)." *Revue Archéologique De Narbonnaise*. 4.1 (1971): 93-149. [(worldcat)](https://search.worldcat.org/title/4797757945)
 - Alain Bouet, *Les thermes publics et privés en Gaule Narbonnaise*, vol. II, catalogue, coll. École Française de Rome 320, Rome, 2003, P. 208-11. [(worldcat)](https://search.worldcat.org/title/490154337)
+
+## Keywords
+
+- {{< keyword "balnea" >}}
+- {{< keyword "opus spicatum" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "reception rooms" >}}
 
 ## Places
 

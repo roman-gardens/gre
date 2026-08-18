@@ -44,6 +44,6 @@ Luckily a small part of it was preserved, and here we still find the low parapet
 
 - {{< keyword "insulae" >}}
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="422959" name="Laurentes" >}}
+-->

@@ -14,30 +14,13 @@ draft: true
 
 Built before 62 BCE
 
-## Excavation Date
+## Excavation Dates
 
 Early 1990s
-
-## Location
-
-- [Pompeii]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Sublocation
-
-[Region I]({{<relref ".">}})
-
-## Insula
-
-Insula ix
 
 ## House
 
 House 11
-
-## Garden
-
-I.ix.11
 
 ## Garden Description
 
@@ -72,8 +55,4 @@ At the time of the eruption, trees and shrubs grew in the garden, as excavators 
 - {{< keyword "peristyles" >}}
 - {{< keyword "terrace gardens" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
+<!-- Places -->

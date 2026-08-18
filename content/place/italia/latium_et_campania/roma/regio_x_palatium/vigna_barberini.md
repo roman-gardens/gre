@@ -20,25 +20,6 @@ draft: false
 1950s: G.F. Carretoni\
 1985-: Soprintendenza Archeologica in collaboration with École française de Rome
 
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}\
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-- [Palatine]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
-
-## Garden
-
-Vigna Barberini Site Overview, Palatine
-
 ## Garden Description
 
 The artificial [terrace](http://vocab.getty.edu/page/aat/300004182) that now carries the [Barberini family](https://en.wikipedia.org/wiki/Barberini_family) name is located on the northeastern corner of the Palatine, beyond the visible remains of the [Flavian Imperial palace](https://en.wikipedia.org/wiki/Flavian_Palace) (Fig. 1). Excavations carried out during the 1930s by A. Bartoli, and in the 1950s by G.F. Carettoni concentrated primarily on the central area of this site.  These campaigns revealed the foundations of a large temple, which Bartoli identified, consistent with the earlier ideas of P. Bigot, as the remains of the late second-century [Temple of Elagabalus](https://en.wikipedia.org/wiki/Elagabalium).
@@ -79,6 +60,6 @@ PHASES OF THE VIGNA BARBERINI SITE:
 - {{< keyword "peristyles" >}}
 - {{< keyword "temples" >}}
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="971691208" name="Palatinus Mons" >}}
+-->

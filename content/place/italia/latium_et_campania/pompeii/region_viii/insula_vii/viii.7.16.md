@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula VII]({{<relref ".">}})
+Unspecified
 
 ## Garden Description
 
@@ -40,20 +25,6 @@ A public garden laid out to the specifications of Vitruvius originally occupied 
 
 {{< image file="fig.28.region_viii.insula_vii.24-27.png" caption="Fig. 28, Plan of Region VIII, Insula VII, 24-27" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "puteals" >}}
-
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-Unspecified
-
 ## Bibliography
 
 - Fiorelli, *Descrizione di Pompei*, pp. 350-351 [(worldcat)](https://search.worldcat.org/title/1198324804)
@@ -61,3 +32,10 @@ Unspecified
 - Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](https://search.worldcat.org/title/1113367431)
 - Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees 1809-1810-1811*,vol. 3, pl. 2 (plan) [(worldcat)](https://search.worldcat.org/title/457565631)
 - Fiorelli, ed. *Pompeianarum Antiquitatum Historia*, vol. 1, pt. 1, p. 202 (Feb. 7, 1767) [(worldcat)](https://search.worldcat.org/title/952709056)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "puteals" >}}
+
+## Places

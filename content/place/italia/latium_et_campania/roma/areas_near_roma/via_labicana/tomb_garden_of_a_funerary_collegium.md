@@ -14,22 +14,6 @@ draft: true
 
 16 CE
 
-## Location
-
-- {{< id vocab="Pleiades" id="74935822" name="Via Labicana" >}}
-
-## Sublocation
-
-Via Labicana
-
-## Sublocation Description
-
-An ancient Roman road connecting Rome and Labicum.
-
-## Garden
-
-Tomb Garden of a Funerary Collegium
-
 ## Garden Description
 
 A marble slab found at the cemetery of Centocelle and now preserved in the National Museum in Stockholm records the establishment in 16 CE of a funerary garden and various appurtenances by two senior officials of a funerary collegium and the clearing of an area beyond a perimeter wall for the construction of new crematories (ustrinae). The long  commemorative text, our most detailed verbal record of the appointments of a Roman funerary garden, is worth quoting in full:

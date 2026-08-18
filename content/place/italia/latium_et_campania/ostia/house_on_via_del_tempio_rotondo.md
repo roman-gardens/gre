@@ -13,7 +13,7 @@ draft: false
 
 unspecified
 
-## Excavation Date
+## Excavation Dates
 
 partially excavated between June 1972 and January 1973
 
@@ -27,7 +27,7 @@ This house was only partially excavated between June 1972 and January 1973 (Fig.
 
 {{< image file="ostia_fig17_better.jpg" caption="Fig. 2: Plan of the peristyle, with column bases and flower pots" credit="(from Messineo 1984)." alt="" >}}
 
-## Photos
+## Images
 
 {{< image file="ostia_fig23b.jpg" caption="Fig. 3: A flower pot during excavation, 1973 (PA-OAnt, Photo Archive)." credit="" alt="A flower pot during 1973 excavation" >}}
 

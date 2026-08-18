@@ -39,14 +39,6 @@ Arles was one of the pilgrimage sites on route to the Cathedral of Santiago de C
 
 House under the Crédit Agricole
 
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-
 ## House Description
 
 This house at [14] on the map, was discovered in 1977 in an emergency salvage excavation. It was constructed about 180 and destroyed in the third quarter of the third century. The portion revealed was composed of four rooms, aligned in an east-west direction, with polychrome mosaic floors and a southern wall that was seemingly without openings. Along the north side, however, was a wide portico giving light and air to the rooms. Beyond it, there extended an area that was perhaps a garden.
@@ -58,6 +50,14 @@ This house at [14] on the map, was discovered in 1977 in an emergency salvage ex
 ## Bibliography
 
 - J.M. Rouquette, "Les découvertes du Crédit Agricole" in Claude Sintès, dir., *Du nouveau sur Arles antique*, Arles, 1987, p. 71-7;  Maison 1996 t. II, p. 88-89.
+
+## Keywords
+
+- {{< keyword "domus" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

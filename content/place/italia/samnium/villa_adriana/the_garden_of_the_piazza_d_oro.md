@@ -14,28 +14,13 @@ draft: true
 
 Built between 118 and 138 CE
 
-## Excavation Date
+## Excavation Dates
 
 unspecified
 
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Region
-
-Region IV
-<!-- find link to Italia, Regio IV: Samnium? -->
-
-## Location
-
-- {{< id vocab="Pleiades" id="423127" name="Hadrian's Villa" >}}
-
 ## Garden
 
-The Garden of the Piazza d'Oro (Fig. 1, n. 20)\
-- {{< id vocab="Pleiades" id="379689233" name="Piazza d'Oro at Hadrian's Villa" >}}
+The Garden of the Piazza d'Oro (Fig. 1, n. 20)
 
 ## Garden Description
 
@@ -118,8 +103,3 @@ Here there was a different way to water the plants. Due to their inclination the
 ## Places
 
 - {{< id vocab="Pleiades" id="379689233" name="Piazza d'Oro at Hadrian's Villa" >}}
-<!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
-
-- {{< id vocab="TGN" id="7006983" name="Hadrian's Villa (ruins)" >}}
-<!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
-

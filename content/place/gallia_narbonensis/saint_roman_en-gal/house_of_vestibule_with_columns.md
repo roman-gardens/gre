@@ -39,17 +39,6 @@ The northern end of this vast house is just west of the House of Five Mosaics an
 
 House of Vestibule with Columns
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "vestibules" >}}
-- {{< keyword "colonnades" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "reception rooms" >}}
-
 ## House Description
  
 In phase I, the house had the L-shape due to the combination of the two previous houses. The main entrance was from the south, past a portico façade, and into a vestibule (12.9 x 11.9 m) that had a double colonnade. A square pool (4 x 4 m) with a water jet occupied its center. To the east and west, the vestibule was framed by rooms and shops. Beyond the vestibule, one came to the first garden [13]. It had a peristyle on four sides (13.5 x 12 m) with an open area of 167 square meters, porticoes 3 meters wide, and columns 3.3 meters high. A rectangular pool (3.5 x18 m) on the axis covered the central third of the garden. A masonry base of a fountain, statue or other ornament was found in the west part of the garden.
@@ -71,6 +60,17 @@ NEW WAY ↓↓{{< image file="house_of_vestibule_with_columns_phase_1.png" capti
 - Prisset, Jean-Luc, Laurence Brissaud, and Odile Leblanc. *Evolution Urbaine À Saint-Romain En-Gal: La Rue Du Commerce Et La Maison Aux Cinq Mosaïques*. Paris: CNRS éd, 1994, P. 1-133. [worldcat](https://search.worldcat.org/title/491540838)
 - Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 160-162.[worldcat](https://search.worldcat.org/title/1169743067)
 - Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271, fig 189.[worldcat](https://search.worldcat.org/title/43416334)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "vestibules" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "reception rooms" >}}
 
 ## Places
 
