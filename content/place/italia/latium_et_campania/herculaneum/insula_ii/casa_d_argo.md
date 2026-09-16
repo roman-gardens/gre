@@ -68,4 +68,3 @@ TODO: This plan is incorrectly labelled as II.3 instead of II.2, and the north a
 ## Places
 
 - {{< id vocab="Pleiades" id="77858278" name="House of Argus" >}}
-- {{< id vocab="TGN" id="432873" name="Herculaneum" >}}

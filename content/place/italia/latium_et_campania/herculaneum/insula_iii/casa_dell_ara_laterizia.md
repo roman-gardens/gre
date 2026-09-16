@@ -1,7 +1,8 @@
 ---
 slug: "3a24879b01"
 type: garden
-title: Casa dell'Ara Laterizia (III, 17)
+title: Casa dell'Ara Laterizia (III.17)
+latlon: [ 40.805987, 14.346832 ]
 author: Wilhelmina Jashemski
 contributor: Tiffany Y. Fong, Chiara Romano
 jashemski-catalogue: 539
@@ -18,35 +19,8 @@ unspecified
 
 1835-1855
 
-<!--
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-
-## Location Description
-
-An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in 79 CE. Named as a UNESCO World Heritage Site in 1997.
-
-## Insula
-
-III
-
-## House
-
-17
-
-## Garden
-
-Casa dell'Ara Laterizia -->
-
 ## Garden Description
 
-539.III.17.
 At the rear of this small house there was a courtyard with an impressive brick altar against the rear wall. Maiuri felt this was probably a roofed area which would have been a *sacellum*. This area was excavated in 1927-1929 and may have held a few potted plants.
 
 <!-- ## Maps -->
@@ -78,7 +52,4 @@ Image not yet in gre-images
 - {{< keyword "porticoes" >}}
 - {{< keyword "opus reticulatum" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-
+<!-- ## Places -->

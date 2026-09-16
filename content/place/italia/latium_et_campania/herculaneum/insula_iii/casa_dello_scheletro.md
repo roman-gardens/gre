@@ -1,7 +1,8 @@
 ---
 slug: "f1ec9d3af7"
 type: garden
-title: Casa dello Scheletro (II, 3)
+title: Casa dello Scheletro (III.3)
+latlon: [ 40.806206, 14.346761 ]
 author: Wilhelmina Jashemski
 contributor: Tiffany Y. Fong, Chiara Romano
 jashemski-catalogue: 536
@@ -17,31 +18,6 @@ unspecified
 ## Excavation Date
 
 1830-1831; 1869-1871; 1927
-
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-
-## Location Description
-
-An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in 79 CE. Named as a UNESCO World Heritage Site in 1997.
-
-## Insula
-
-III
-
-## House
-
-3
-
-## Garden
-
-Casa dello Scheletro
 
 ## Garden Description
 
@@ -72,4 +48,3 @@ The small light well of this house had once been occupied by a pool. By the time
 ## Places
 
 - {{< id vocab="Pleiades" id="67912717" name="House of the Skeleton" >}}
-- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}

@@ -3,7 +3,7 @@ slug: "8218388c4c"
 type: place
 title: Herculaneum
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2025-07-07
 
 draft: false
@@ -40,8 +40,6 @@ An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in 7
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}

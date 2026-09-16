@@ -1,7 +1,8 @@
 ---
 slug: "d0a13c750c"
 type: garden
-title: Casa del Tramezzo di Legno (III, 11)
+title: Casa del Tramezzo di Legno (III.11)
+latlon: [ 40.806204, 14.347025 ]
 author: Wilhelmina Jashemski
 contributor: Tiffany Y. Fong, Chiara Romano
 jashemski-catalogue: 537
@@ -17,32 +18,6 @@ unspecified
 ## Excavation Dates
 
 1869-1875
-
-<!--
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-
-## Location Description
-
-An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in 79 CE. Named as a UNESCO World Heritage Site in 1997.
-
-## Insula
-
-III
-
-## House
-
-11
-
-## Garden
-
-Casa del Tramezzo di Legno-->
 
 ## Garden Description
 
@@ -82,8 +57,4 @@ The excavation of this house was begun in 1869-1875, but the excavation of the g
 - {{< keyword "triclinia (rooms)" >}}
 - {{< keyword "garden painting" >}}
 
-
-## Places
-
-- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-- {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
+<!-- ## Places -->

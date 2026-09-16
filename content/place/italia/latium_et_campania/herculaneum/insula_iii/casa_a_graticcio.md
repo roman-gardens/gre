@@ -1,9 +1,10 @@
 ---
 slug: "470d20177b"
 type: garden
-title: Casa a Graticcio (III, 14, 13, 15)
+title: Casa a Graticcio (III.13-15)
+latlon: [ 40.806088, 14.346965 ]
 author: Wilhelmina Jashemski
-contributor: Tiffany Y. Fong, Chiara Romano
+contributor: Tiffany Y. Fong, Chiara Romano, Keith Jenkins
 jashemski-catalogue: 538
 date: 2020-09-29
 
@@ -17,32 +18,6 @@ unspecified
 ## Excavation Date
 
 1927-1929
-
-<!--
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-
-## Location Description
-
-An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in 79 CE. Named as a UNESCO World Heritage Site in 1997.
-
-## Insula
-
-III
-
-## House
-
-13-15
-
-## Garden
-
-Casa A Graticcio -->
 
 ## Garden Description
 
@@ -68,8 +43,4 @@ This multi-family dwelling was excavated in 1927-1929. There was a small paved c
 - - {{< keyword "cistern" >}}
 
 
-## Places
-
-- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-<!--
-- {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}-->
+<!-- ## Places -->
