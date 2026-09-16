@@ -7,7 +7,6 @@ author: Author Name
 contributor: Lai Ching Tsui, Amelia Lamis
 jashemski-catalogue: BAE 3.1
 date: 2021-04-21
-
 draft: true
 ---
 
@@ -50,7 +49,4 @@ Excavations identified two building phases in the villa. The early Imperial phas
 - {{< keyword "peristyles" >}}
 - {{< keyword "Doric order" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="265919" name="Igabrum/Egabrum" >}}
-- {{< id vocab="TGN" id="7007570" name="Cabra (inhabited place)" >}}
+<!-- ## Places -->
