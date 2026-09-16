@@ -40,7 +40,7 @@ Near the village of Tanais, Oxyrhynchite nome. Size not stated. Work leased out 
 
 ## Bibliography
 
-- *P.Oxy*.14.1631. [(papyri.info)](https://papyri.info/ddbdp/p.oxy;14;1631)
+- *P.Oxy*.14.1631. [(papyri.info)](https://papyri.info/current/21943)
 
 ## Keywords
 

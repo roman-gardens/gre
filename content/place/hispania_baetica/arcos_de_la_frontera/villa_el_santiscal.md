@@ -4,7 +4,7 @@ type: garden
 title: Villa el Santiscal
 latlon: [ 36.765569, -5.771836 ]
 author: Marguerita Orfila, N. Doenges
-contributor: Lai Ching Tsui
+contributor: Lai Ching Tsui, Amelia Lamis
 jashemski-catalogue: BAE 8.1
 date: 2021-04-21
 
@@ -13,28 +13,23 @@ draft: true
 
 ## Dates
 
-unspecified
+first to fourth century CE 
 
-## Location
+## Excavation Dates
 
-- [Arcos De La Frontera]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="255981" name="Arcos De La Frontera" >}}
-
-## Garden
-
-Villa el Santiscal
+1965
 
 ## Garden Description
 
-This rich country villa on the left bank of the [Guadalete](https://pleiades.stoa.org/places/256248) River was begun in the first century and continued in use through the fourth century with its heyday in the third century CE.  Figured mosaics found in the nineteenth century are now lost. Partial excavations around 1965 disclosed a villa built around a central peristyle (14 x 10 m) with a garden in the center. A rill pool ran around the outside of the garden. On each side there was a fountain and semicircular extension of the pool into the planting area of the garden.
+This rich country villa on the left bank of the [Guadalete River](https://pleiades.stoa.org/places/256248) was begun in the first century and continued in use through the fourth century with its heyday in the third century CE.  Figured mosaics found in the nineteenth century are now lost. Partial excavations around 1965 disclosed a villa built around a central peristyle (14 x 10 m) with a garden in the center. A rill pool ran around the outside of the garden. On each side there was a fountain and semicircular extension of the pool into the planting area of the garden.
 
-## Maps
+<!-- ## Maps -->
 
-<!-- ## Plans -->
-
-## Images
+## Plans 
 
 {{< image file="HIS_BAE_Villa_el_Santiscal_plan_CA_fig1.jpg" caption="Fig. 1: Plan of Villa el Santiscal, Gorges, Planche LXIII." credit="" alt="" >}}
+
+## Images
 
 {{< image file="HIS_BAE_Villa_el_Santiscal_photo_CA_fig2.jpg" caption="Fig. 2: Photo of Villa el Santiscal seen from northwest." credit="" alt="" >}}
 
@@ -53,6 +48,5 @@ This rich country villa on the left bank of the [Guadalete](https://pleiades.sto
 
 ## Places
 
-- [El Santiscal]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="256436" name="El Santiscal" >}}
 - {{< id vocab="TGN" id="1061772" name="Arcos de la Frontera (inhabited place)" >}}

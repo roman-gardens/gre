@@ -40,7 +40,7 @@ A reed plantation, orchard, and garden; location not preserved. Leased in 141 CE
 
 ## Bibliography
 
-- *P.Ross.Georg*.2.19. [(papyri.info)](https://papyri.info/ddbdp/p.ross.georg;2;19)
+- *P.Ross.Georg*.2.19. [(papyri.info)](https://papyri.info/current/17687)
 
 ## Keywords
 

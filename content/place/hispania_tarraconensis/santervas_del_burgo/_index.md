@@ -1,9 +1,9 @@
 ---
 slug: "e1c4ad52d6"
 type: place
-title: Villa De Los Villares
+title: Santervas del Burgo
 author: Author Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-16
 
 draft: false
@@ -11,7 +11,7 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- ## Place Description -->
+<!-- ## Place Description-->
 
 <!--
 ## Maps

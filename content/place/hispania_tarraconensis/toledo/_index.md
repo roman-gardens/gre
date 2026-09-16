@@ -1,7 +1,7 @@
 ---
 slug: "2eb7e316b0"
 type: place
-title: Toledo
+title: Rielves (Toledo)
 author: Author Name
 contributor: Contributor Name
 date: 2026-05-16
@@ -11,7 +11,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- ## Place Description -->
+## Place Description
+
+Rielves is a village of about 600 inhabitants 19 kilometers northwest of Toledo.  The ruins of the villa are often called "termas" (baths).
 
 <!--
 ## Maps
