@@ -2,7 +2,7 @@
 slug: "fb78b1ab86"
 type: place
 title: Alameda
-author: John Bodel
+author: Author Name
 contributor: Amelia Lamis, Keith Jenkins
 date: 2025-07-15
 
