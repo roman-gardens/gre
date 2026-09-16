@@ -48,4 +48,3 @@ Located across the colonnaded street from West house was the House of the Sundia
 ## Places
 
 - {{< id vocab="Pleiades" id="510567670" name="House of the Sundial at Baelo" >}}
-- {{< id vocab="TGN" id="8712326" name="Baelo Claudia (deserted settlement)" >}}

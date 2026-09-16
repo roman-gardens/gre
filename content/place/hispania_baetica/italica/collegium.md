@@ -52,4 +52,3 @@ A building just south of the [public park](/id/cbc00aa8f3/) has been identified 
 ## Places
 
 - {{< id vocab="Pleiades" id="810966696" name="Collegium at Italica" >}}
-- {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}

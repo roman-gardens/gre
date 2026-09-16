@@ -47,4 +47,3 @@ This house is on the top of a hill and has thus been exposed to more erosion and
 ## Places
 
 - {{< id vocab="Pleiades" id="932178530" name="House of the Rhodian Peristyle at Italica" >}}
-- {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}

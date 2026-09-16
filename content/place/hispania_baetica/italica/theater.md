@@ -49,4 +49,3 @@ The Italica Theater makes use of the side of a hill to support most of its *grad
 ## Places
 
 - {{< id vocab="Pleiades" id="132543925" name="Roman theater at Italica" >}}
-- {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}

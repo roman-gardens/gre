@@ -43,7 +43,4 @@ The sanctuary occupies various terraces and dominates the city below. The plan o
 - {{< keyword "stairs" >}}
 - {{< keyword "pools" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="256318" name="Munigua" >}}
-- {{< id vocab="TGN" id="7027137" name="Castillo de Mulva (deserted settlement)" >}}
+<!-- ## Places -->

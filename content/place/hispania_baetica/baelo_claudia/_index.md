@@ -44,6 +44,4 @@ The two private houses where there may have been gardens are near the port and a
 
 ## Places
 - {{< id vocab="Pleiades" id="256005" name="Baelo" >}}
-<!--
-- {{< id vocab="TGN" id="" name="" >}}
--->
+- {{< id vocab="TGN" id="8712326" name="Baelo Claudia (deserted settlement)" >}}

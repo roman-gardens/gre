@@ -31,7 +31,7 @@ To the west of the central reception room or triclinium was the third garden, wh
 
 {{< image file="HIS_BAE_Italica_city_plan_CA.jpg" caption="Fig. 1: Map of Italica." credit="" alt="" >}}
 
-<!--TODO: insert plan and image (below)-->
+<!--TODO: insert plan and image (below)
 
 ## Plans
 
@@ -40,6 +40,7 @@ To the west of the central reception room or triclinium was the third garden, wh
 ## Images
 
 {{< image file="XXXX.jpg" caption="Fig. 3: Photograph looking northeast over a pool in the west garden." credit="" alt="" >}}
+-->
 
 ## Bibliography
 
@@ -60,4 +61,3 @@ To the west of the central reception room or triclinium was the third garden, wh
 ## Places
 
 - {{< id vocab="Pleiades" id="634946753" name="House of Hylas at Italica" >}}
-- {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}

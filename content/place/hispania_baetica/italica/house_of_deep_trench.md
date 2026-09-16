@@ -48,4 +48,3 @@ In late antiquity, a new city wall was built excluding most of the Hadrianic add
 ## Places
 
 - {{< id vocab="Pleiades" id="781581593" name="House of the Deep Trench at Italica" >}}
-- {{< id vocab="TGN" id="7007822" name="Itálica (deserted settlement)" >}}
