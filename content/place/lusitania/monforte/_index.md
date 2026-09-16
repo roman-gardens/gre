@@ -3,7 +3,7 @@ slug: "4c4449da9d"
 type: place
 title: Monforte
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-05-13
 
 draft: false
@@ -38,8 +38,6 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="TGN" id="7748664" name="Monforte" >}}

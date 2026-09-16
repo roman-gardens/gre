@@ -3,7 +3,7 @@ slug: "e63db0078b"
 type: place
 title: Lavra
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-05-13
 
 draft: false
@@ -38,8 +38,6 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="TGN" id="7748859" name="Lavra" >}}
