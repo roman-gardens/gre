@@ -50,3 +50,4 @@ These were “in the so-called Palm Grove.” Size not given. Leased in 5 BCE fo
 ## Places
 
 - {{< id vocab="Pleiades" id="727097" name="Canopus" >}}
+- {{< id vocab="TGN" id="1099727" name="Canopus (deserted settlement)" >}}

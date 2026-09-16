@@ -50,3 +50,4 @@ In an unknown village; size not stated, part of larger tract of 10.5 arouras. Le
 ## Places
 
 - {{< id vocab="Pleiades" id="736893" name="Arsinoites/Krokodeilopolites Nomos" >}}
+- {{< id vocab="TGN" id="7000991" name="Krokodilopolis" >}}

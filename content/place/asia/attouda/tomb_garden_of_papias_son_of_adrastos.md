@@ -16,15 +16,11 @@ draft: true
 
 ## Garden Description
 
-A marble slab found immured in a house wall at Hisarköy (Attouda) in Caria near the border with Phrygia records an epitaph set up by Papias, the son of Adrastos, grandson of Zeuxis, great grandson of Kounbarion, for himself and his heirs and sets aside a plot of unencumbered land six cubits square around it, from which it was permitted to derive revenue (*τὸ μνημεῖον κατεσκεύασεν Παπίας Ἀδράστου τοῦ Ζευξίδος τοῦ Κουνβαρίωνος αὑτῷ καὶ κληρονόμοις αὐτοῦ· οὐ ἐξέσται δὲ αὐτοῖς πωλῆσαι ἢ ἐξαλλοτριῶσαι· τῷ μνημείῳ περιόρια διέθετο πήχεις ἓξ ἀνεπικωλυτί, νομήν καὶ καρπείαν ἀνεπικωλυτί*). The modest size of the allotment (less than ten m<sup>2</sup>) suggests that the productive plot was probably a garden.
+A marble slab found immured in a house wall at Hisarköy (Attouda) in Caria near the border with Phrygia records an epitaph set up by Papias, the son of Adrastos, grandson of Zeuxis, great grandson of Kounbarion, for himself and his heirs and sets aside a plot of unencumbered land six cubits square around it, from which it was permitted to derive revenue (*τὸ μνημεῖον κατεσκεύασεν Παπίας Ἀδράστου τοῦ Ζευξίδος τοῦ Κουνβαρίωνος αὑτῷ καὶ κληρονόμοις αὐτοῦ· οὐ ἐξέσται δὲ αὐτοῖς πωλῆσαι ἢ ἐξαλλοτριῶσαι· τῷ μνημείῳ περιόρια διέθετο πήχεις ἓξ ἀνεπικωλυτί, νομήν καὶ καρπείαν ἀνεπικωλυτί*, [MAMA 4.83](https://inscriptions.packhum.org/text/257915?bookid=486&location=1868)). The modest size of the allotment (less than ten m<sup>2</sup>) suggests that the productive plot was probably a garden.
 
 <!-- ## Maps -->
 
-<!--
-## Plans
-
-{{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan of the excavations at Aphrodisias" credit="" alt="">}}
--->
+<!-- ## Plans -->
 
 <!-- ## Images -->
 

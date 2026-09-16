@@ -32,22 +32,23 @@ A late fourth-century BCE inscription recovered from Sardis mentions a *paradeis
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
+<!--
 ## Bibliography
 
-<!--TODO: these are all the citations for Sardis, maybe not all needed on index page-->
+TODO: these are all the citations for Sardis, maybe not all needed on index page
 - C. Greenewalt Jr, “The Fifteenth Campaign at Sardis” BASOR 211 Oct. 1973:19-20, fig. 3
 - W.H. Buckler and D.M. Robinson, Greek and Latin Inscriptions, Sardis VII: 1, 1932: 31, no 12.6
 - R. Meiggs and D.M. Lewis, A selection of Greek historical inscriptions to the end of the fifth century B.C., Oxford: Clarendon Press, 1969, no. 12
 - J. Pedley, Ancient Literary Sources on Sardis, Cambridge: Harvard University Press, 1972
 - F. Yegul, The Bath-Gymnasium Complex at Sardis. Cambridge: Harvard University Press, 1986.  
+-->
 
 <!--
 ## Keywords
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="550867" name="Sardis/Hyde?" >}}
+- {{< id vocab="TGN" id="7002615" name="Sardes (deserted settlement)" >}}

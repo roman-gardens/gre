@@ -34,16 +34,14 @@ On the Aegean coast of Anatolia, Smyrna was rebuilt after an earthquake in the 2
 
 ## Bibliography
 
-- L. Robert. Études Anatoliennes, Sur des inscriptions de l'Asie Mineure, 1937. 
-- Charlotte Roueché, Joyce Maire Reynolds, Aphrodisias in late antiquity:  the late Roman and Byzantine Inscriptions including texts from the excavations conducted at Aphrodisias by Kenan T. Erim. London:  Society for the Promotion of Roman Studies, 1989,  Pp. 70.
+- L. Robert. Études Anatoliennes, Sur des inscriptions de l'Asie Mineure, 1937. [(worldcat)](https://search.worldcat.org/title/883957636)
 
 <!--
 ## Keywords
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="550893" name="Smyrna/Eurydikeia" >}}
+- {{< id vocab="TGN" id="7002543" name="Izmir (inhabited place)" >}}

@@ -50,7 +50,6 @@ Near the village of Tanais, Oxyrhynchite nome. Size not stated. Work leased out 
 
 <!--
 ## Places
-NOTE: this is presumably not the "Tanis" that is closer to Cairo
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
+- {{< id vocab="Pleiades" id="736983" name="Oxyrhynchos" >}}
+- {{< id vocab="TGN" id="7001267" name="Al Bahnasā (inhabited place)" >}}
 -->

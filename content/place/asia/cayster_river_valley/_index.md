@@ -3,7 +3,7 @@ slug: "11da9e0364"
 type: place
 title: Cayster River Valley
 author: Author Name
-contributor: Keith Jenkins
+contributor: Keith Jenkins, Amelia Lamis
 date: 2025-09-21
 
 draft: false
@@ -41,4 +41,4 @@ draft: false
 ## Places
 
 - {{< id vocab="Pleiades" id="550492" name="Cayster (river)" >}}
-- {{< id vocab="TGN" id="7002358" name="Caria (former nation/state/empire)" >}}
+- {{< id vocab="TGN" id="7711201" name="Küçükmenderes Çayı (stream)" >}}

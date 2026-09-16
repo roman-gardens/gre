@@ -51,3 +51,4 @@ unexcavated
 ## Places
 
 - {{< id vocab="Pleiades" id="736909" name="Euhemereia" >}}
+- {{< id vocab="TGN" id="7540126" name="Qaşr al Banāt (historic site)" >}}

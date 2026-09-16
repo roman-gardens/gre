@@ -3,7 +3,7 @@ slug: "21ba0762ef"
 type: place
 title: Hypaipa
 author: Author Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-07-09
 draft: false
 ---
@@ -40,3 +40,4 @@ draft: false
 ## Places
 
 - {{< id vocab="Pleiades" id="550585" name="Hypaipa" >}}
+- {{< id vocab="TGN" id="5004366" name="Hypaepa" >}}

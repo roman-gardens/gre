@@ -3,7 +3,7 @@ slug: "7d072b6972"
 type: place
 title: Mytilene
 author: Author Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-07-09
 draft: false
 ---
@@ -40,3 +40,4 @@ The city of Mytilene was located on the island of Lesbos lying off the west coas
 ## Places
 
 - {{< id vocab="Pleiades" id="550763" name="Mytilene" >}}
+- {{< id vocab="TGN" id="7010929" name="Mitilíni (inhabited place)" >}}

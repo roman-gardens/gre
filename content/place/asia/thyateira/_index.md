@@ -3,7 +3,7 @@ slug: "e2a492b043"
 type: place
 title: Thyateira
 author: Author Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-07-09
 draft: false
 ---
@@ -40,3 +40,4 @@ draft: false
 ## Places
 
 - {{< id vocab="Pleiades" id="550924" name="Thyateira" >}}
+- {{< id vocab="TGN" id="7002627" name="Akhisar (inhabited place)" >}}

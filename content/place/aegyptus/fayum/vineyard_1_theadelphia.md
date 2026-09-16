@@ -49,3 +49,4 @@ One-half aroura (.14 ha.). Leased in 69 CE for 3 years. Includes fruit trees of 
 ## Places
 
 - {{< id vocab="Pleiades" id="737081" name="Theadelpheia" >}}
+- {{< id vocab="TGN" id="7535640" name="Kharābat Ihrīt (ancient site)" >}}
