@@ -40,7 +40,7 @@ Two arouras (.56 ha.). Quarter share given in a *donatio mortis causa* by a metr
 
 ## Bibliography
 
-- *P.Stras*.2.122 (cf. BL 4.93). [(papyri.info)](http://papyri.info/ddbdp/p.stras;2;122)
+- *P.Stras*.2.122 (cf. BL 4.93). [(papyri.info)](https://papyri.info/current/13165)
 
 ## Keywords
 

@@ -40,7 +40,7 @@ These vineyards (*ἄμπελοι*) with a rose garden (*ῥοδεών*) and fav
 
 ## Bibliography
 
-- BGU.4.1119. [(papyri.info)](https://papyri.info/ddbdp/bgu;4;1119)
+- BGU.4.1119. [(papyri.info)](https://papyri.info/current/18561)
 
 ## Keywords
 
