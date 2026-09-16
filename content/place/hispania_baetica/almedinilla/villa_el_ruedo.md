@@ -63,4 +63,3 @@ The chronology of the house is quite tentative.  A first phase, probably to be p
 ## Places
 
 - {{< id vocab="Pleiades" id="266015" name="El Ruedo" >}}
-- {{< id vocab="TGN" id="4000563" name="Almedinilla (inhabited place)" >}}
