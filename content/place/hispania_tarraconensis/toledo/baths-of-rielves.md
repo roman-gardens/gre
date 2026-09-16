@@ -21,7 +21,7 @@ unspecified
 
 ## Garden Description
 
-<!--TODO: need garden description-->
+<!--TODO: need garden description -- none provided in the docx in Box -->
 
 <!-- ## Maps -->
 
