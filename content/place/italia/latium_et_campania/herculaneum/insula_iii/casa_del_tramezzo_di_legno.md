@@ -55,6 +55,6 @@ The excavation of this house was begun in 1869-1875, but the excavation of the g
 
 - {{< keyword "loggias" >}}
 - {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "garden painting" >}}
+- {{< keyword "mural paintings" >}}
 
 <!-- ## Places -->
